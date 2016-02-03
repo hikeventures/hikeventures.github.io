@@ -52,7 +52,6 @@ The Netherlands<br><br>
 
 <i class="fa fa-phone-square fa-lg"></i> +358 50 572 84 89<br>
 <i class="fa fa-envelope fa-lg"></i> [contact@hikeventures.com][2]
-<hr>
 
 [1]:	https://docs.google.com/forms/d/1K1EQy1eARL_RGYzCwON1KJ1PxjB3ZF4QVc_CobsXBp0/edit?usp=forms_home
 [2]:	contact@hikeventures.com
