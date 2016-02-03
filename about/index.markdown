@@ -7,39 +7,6 @@ comments: false
 sharing: false
 footer: false
 ---
-<table border="0"><tr><td width="70%">Since 2012 you can read on HikeVentures about our  <em> hiking </em>  and  <em>   packrafting </em> adventures. Beside our <em> trip reports </em>  you can also read about  <em> outdoor gear </em>  and  <em> photography</em>. We are also participating in hiking or packrafting events (e.g. Fjällräven Classic). </td>
-<td td width="30%"><img src="https://farm4.staticflickr.com/3927/15469931755_bbd86965ae_m.jpg" class="img-responsive"></td></tr></table><hr>
-
-## HikeVenturers
-<a href="https://www.facebook.com/profile.php?id=100009207710788">Patrick</a> was born 1978 in South Germany nearby the Alps where he was hiking and skiing extensively especially in Vorarlberg (Austria). Patrick moved to Finland in 2006 and currently lives on an island in the Archipelago Sea on the South West Coast of Finland which is a great place for exploring thousands of islands by packraft or kayak. Patrick has previously also lived several months in Australia where he was diving with sharks and explored the blue mountains. Moreover, Patrick has studied in Austria and worked in Switzerland which was a great place for snowboarding and skiing adventures. Having relatives in Canada, Patrick also visited Banff National Park, traveled to China, Thailand, Romania, the Arab Emirates and India.<br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/15778419464"><img src="https://farm9.staticflickr.com/8586/15778419464_660dbf7515_b.jpg" width="1024" height="680"></a><br>
-<hr>
-<a href="https://www.facebook.com/konstantin.gridnevskiy" target="_blank">Konstantin</a> is living in the Netherlands and was born 1978 in Russia. Konstantin is teaching adventure and heritage tourism at an University of Applied Science. Konstantin is our GoPro Hero camera expert. Inspired as a kid by the adventures of his father in Russia Konstantin followed him into his foot steps into the great outdoors. Living in densly populated Netherlands he is also very excited about micro-adventures which could be interesting for our urban readers. Konstantin is also very interested in hiking and packrafting adventures in Japan.<br><br><a href="https://www.flickr.com/photos/90204224@N07/14464273681"><img src="https://farm4.staticflickr.com/3848/14464273681_0b2ab88e71_b.jpg" width="1024" height="683"></a><br>
-<hr>
-
-## Gear Testing & Photography
-Occasionally, we are writing test reviews for outdoor companies. Feel free to <a href="#contact">contact us</a> if you want us to test one of your products on our trips. <a href="http://www.hikeventures.com/Thule-Chasm-XL-Duffle-Bag/">Here</a> is an example of a more detailed review which we wrote for a company. <br><br>
-<img src="https://farm6.staticflickr.com/5683/21885051180_963c46af51_b.jpg" width="1000" height="363" alt="Packrafting in Abisko, Sweden">
-<hr>
-
-## Blog Collaboration
-Do you have an outdoor blog? Fill out this [form][1] or drop us a message if you want to go packrafting with us.
-<hr>
-
-## Social Media
-You can find us on <a href="https://www.facebook.com/HikeVentures" rel="nofollow" target="_blank" title="Follow us on Facebook">Facebook</a>, <a href="https://twitter.com/hikeventures" rel="nofollow" target="_blank" title="Follow us on Twitter">Twitter</a>, <a href="https://plus.google.com/+Hikeventures">Google+</a> and <a href="https://instagram.com/hikeventures/">Instagram</a>. You can also subscribe to our <a href="http://www.feedio.co/@hikeventures/" target="blank">RSS feed or email newsletter</a>.
-<hr>
-
-## Disclaimer
-We do not guarantee for the correctness of the information on this website. Product recommendations are based on personal views. We are also not responsible for any injuries occurred by following our gear and activities advices.<hr>
-
-## Copyright
-All content on www.hikeventures.com must not be used without the permission of hikeventures.com.
-<hr>
-## Affiliate Links
-On some of our pages you will find affiliate links. HikeVentures is a participant in AvantLink and the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
-<hr>
-## <a name="contact" style="color: rgb(250,250,250)"><font color="000000">Contact</a>
 <table border="0"><tr><td width="70%">Since 2012 you can read on HikeVentures about our hiking and packrafting adventures. Beside our trip reports you can also read about outdoor gear and photography. <br><br>While you can find more detailed articles on our blog you can also
 follow us on <a href="https://www.facebook.com/HikeVentures" rel="nofollow" target="_blank" title="Follow us on Facebook">Facebook</a>, <a href="https://twitter.com/hikeventures" rel="nofollow" target="_blank" title="Follow us on Twitter">Twitter</a> and <a href="https://instagram.com/hikeventure/">Instagram</a> to get more recent updates which we don't necessarily share on our blog.</td>
 <td td width="30%"><img src="https://farm4.staticflickr.com/3927/15469931755_bbd86965ae_m.jpg" class="img-responsive"></td></tr></table><hr>
@@ -48,7 +15,7 @@ follow us on <a href="https://www.facebook.com/HikeVentures" rel="nofollow" targ
 <a href="https://www.facebook.com/profile.php?id=100009207710788">Patrick</a> was born 1978 in South Germany nearby the Alps where he was hiking and skiing extensively especially in Vorarlberg (Austria). Patrick moved to Finland in 2006 and currently lives on an island in the Archipelago Sea on the South West Coast of Finland which is a great place for exploring thousands of islands by packraft or kayak. Patrick has previously also lived several months in Australia where he was diving with sharks and explored the blue mountains. Moreover, he has worked in Switzerland on a ski hut which was a perfect place for snowboarding and skiing adventures in powder snow. Having relatives in Canada, Patrick also visited Banff National Park, traveled to China, Thailand, Romania, the Arab Emirates and India.<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/15778419464"><img src="https://farm9.staticflickr.com/8586/15778419464_660dbf7515_b.jpg" width="1024" height="680"></a><br>
 <hr>
-<a href="https://www.facebook.com/konstantin.gridnevskiy" target="_blank">Konstantin</a></strong> is living in the Netherlands and was born 1978 in Russia. Konstantin is teaching adventure and heritage tourism at an University of Applied Science. Konstantin is our GoPro Hero camera expert. Inspired as a kid by the adventures of his father in Russia Konstantin followed him into his foot steps into the great outdoors. Living in densly populated Netherlands he is also very excited about microadventures which could be interesting for our urban readers. Konstantin is also very interested in hiking and packrafting adventures in Japan.<br><br><a href="https://www.flickr.com/photos/90204224@N07/14464273681"><img src="https://farm4.staticflickr.com/3848/14464273681_0b2ab88e71_b.jpg" width="1024" height="683"></a><br>
+<a href="https://www.facebook.com/konstantin.gridnevskiy" target="_blank">Konstantin</a> is living in the Netherlands and was born 1978 in Russia. Konstantin is teaching adventure and heritage tourism at an University of Applied Science. Konstantin is our GoPro Hero camera expert. Inspired as a kid by the adventures of his father in Russia Konstantin followed him into his foot steps into the great outdoors. Living in densly populated Netherlands he is also very excited about microadventures which could be interesting for our urban readers. Konstantin is also very interested in hiking and packrafting adventures in Japan.<br><br><a href="https://www.flickr.com/photos/90204224@N07/14464273681"><img src="https://farm4.staticflickr.com/3848/14464273681_0b2ab88e71_b.jpg" width="1024" height="683"></a><br>
 
 <hr>
 
