@@ -1,0 +1,150 @@
+---
+layout: post
+title: Suunto Ambit3 vs. Ambit2 - Worth to upgrade?
+date: 2014-08-11 16:43:23 +0300
+comments: true
+categories: articles
+description: Great GPS watch gets even better! Upgrade to Ambit3 or stick with Ambit2?
+keywords: Hiking, Packrafting, Outdoors, Suunto, Ambit3, Ambit2, Upgrade, Climbing, Outdoors, GPS watch
+featured_image: https://farm8.staticflickr.com/7306/15913318153_e26043e992_b.jpg
+---
+GPS watches like the Ambit2 or Ambit3 are quite interesting gadgets if you want to track your route or if you want to plan your route ahead. In general, the only model I could think of which comes close to the Ambit3 is the Garmin Fenix 3 which has a colour display. However, to me the Ambit3 feels just more solid as a product and the Apple Watch does not have an integrated GPS. I use my Ambit3 mainly for running, packrafting and hiking and upgraded from the Ambit2 to the Ambit3 Sport.
+
+<a href="https://www.flickr.com/photos/90204224@N07/15913318153"><img src="https://farm8.staticflickr.com/7306/15913318153_e26043e992_b.jpg" width="1024" height="680"></a>
+
+Checking the altitude in [Finnish Lapland][1] with the Ambit3.
+
+<!--more-->
+
+**Update (20.10.2015):** Suunto has released the Traverse GPS watch. [Here][2] you can read what's different to the Ambit3.
+
+**Update (22.01.2016):** Suunto has released the [Ambit3 Vertical][3] watch. It’s similar like the Traverse but with an additional graph which displays your ascent / descent.
+
+## Check for Discounts
+ Before deciding if you should upgrade to an Ambit3 you should have a look at the <a href="http://www.hikeventures.com/deals/#Suunto+Ambit2”><button class="btn btn-danger">Ambit2 prices</button></a>  which are much lower than the <a href="http://www.hikeventures.com/deals/#Suunto+Ambit3”><button class="btn btn-danger">Ambit3 prices</button></a>.
+
+Before deciding if you should upgrade to an Ambit3 you should have a look at the <a href="http://www.hikeventures.com/deals/#Suunto+Ambit2">Ambit2 prices</a>  which are much lower than the <a href="http://www.hikeventures.com/deals/#Suunto+Ambit3">Ambit3 prices</a> .
+
+## Differences between Ambit2 and Ambit3
+Basically, there is not much difference between the look of the Ambit2 and the Ambit3 (Sport model is a bit thinner) and I have summarised the most important improvements and specifications below:
+
+
+## Weight
+<div class="progress">
+<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="27" aria-valuemin="0" aria-valuemax="100" style="width: 27%">
+Apple Watch Sport - 25 grams <span class="sr-only">Apple Watch Sport 38mm - 25 grams</span>
+</div>
+</div>
+<div class="progress">
+<div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="74" aria-valuemin="0" aria-valuemax="100" style="width: 74%">
+Ambit3 Run - 68 grams  <span class="sr-only">Ambit3 Run - 68 grams</span>
+</div>
+</div>
+<div class="progress">
+<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="76" aria-valuemin="0" aria-valuemax="100" style="width: 76%">
+Ambit2 R - 70 grams<span class="sr-only">Ambit2 R - 70 grams</span>
+</div>
+</div>
+<div class="progress">
+<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="78" aria-valuemin="0" aria-valuemax="100" style="width: 78%">
+Ambit2 S - 72 grams  <span class="sr-only">Ambit2 S - 72 grams</span>
+</div>
+</div>
+<div class="progress">
+<div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="87" aria-valuemin="0" aria-valuemax="100" style="width: 87%">
+Ambit3 Sport - 80 grams <span class="sr-only">Ambit3 Sport - 80 grams</span>
+</div>
+</div>
+<div class="progress">
+<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="89" aria-valuemin="0" aria-valuemax="100" style="width: 89%">
+Garmin Fenix 3 - 82 grams  <span class="sr-only">Garmin Fenix 3 - 82 grams</span>
+</div>
+</div>
+<div class="progress">
+<div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="97" aria-valuemin="0" aria-valuemax="100" style="width: 97%">
+Ambit3 Peak - 89 grams <span class="sr-only">Ambit3 Peak - 89 grams</span>
+</div>
+</div>
+<div class="progress">
+<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="97" aria-valuemin="0" aria-valuemax="100" style="width: 97%">
+Ambit2 - 89 grams<span class="sr-only">Ambit2 - 89 grams</span>
+</div>
+</div>
+<div class="progress">
+<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%">
+Ambit2 Saphire - 92 grams<span class="sr-only">Ambit2 Saphire - 92 grams</span>
+</div>
+</div>
+<div class="progress">
+<div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%">
+Ambit3 Peak Saphire - 92 grams  <span class="sr-only">Ambit3 Peak Saphire - 92 grams</span>
+</div>
+</div>
+
+## Connectivity
+The Suunto Ambit 3 allows you to connect the watch with a tablet or smartphone via Bluetooth as well as synchronising pictures on your smartphone with data from the Ambit3. So no USB cable needed anymore to transfer data which should also increase the lifespan of the battery.
+
+## Notifications
+You can get notifications of incoming calls, SMS or Facebook updates on your Ambit3. Personally, I don't use this feature that much. But it's nice to have.
+
+## Videos
+It's possible to create videos with the [Movescount App][4] which uses your tracking data in order to display your route. You can also take pictures with your phone and integrate those into your video. I think this is a quite nice feature to share your trip with your friends.
+
+## Smaller and independent HR monitor
+The heart rate monitor of the Ambit3 is notably smaller than the one which came with the Ambit2. On my first run with the heart rate monitor I couldn't hardly feel it compared to the old HR monitor. What's more, you can also use the HR Monitor without the watch and synchronise your heart rate data later on.
+
+## GPS signal
+The Ambit3 uses a SiRFstarV GPS chip (Ambit2 is using SiRFstarIV), but the accuracy remains the same. SiRFstarV chips are capable of tracking NAVSTAR, GLONASS, Galileo, Compass, SBAS, and future GNSS signals. When I tested the watch I had the impression that the watch got the GPS signal almost instantly. At least it felt much faster than on the Ambit2.
+
+## Barometer
+The sport model is slimmer and lighter but it does not have a barometer. Do you need the barometer if you can get the altitude data via GPS anyway? Most likely the altitude differences will be shown more accurately as the watch combines data from the GPS and the barometer. However, you might need to adjust the barometer occasionally on your trip. If you have a mobile phone with you and there is internet reception in the area you are planning to go then you can also get the weather forecast from the internet. So the barometer is not really necessary if you are interested in the weather trend from this point of view. Also it is worth to check the weather trend before your trip. Well, I decided that I don't really need a barometer since the accuracy of the GPS should be sufficient for my activities.
+
+## Waterproofness and battery capacity
+You can dive 100m instead of 50m and the battery capacity is twice as big on the Peak than on the Sport model. I use the Ambit3 also to track my route when I am adventuring with my packraft. Thus, I would not even consider to buy any sport watch which is not waterproof.
+
+## Wrist strap
+The strap for the Ambit3 Sport is water repellent and made from a silicone compound  which feels more lighter according to Suunto (which I confirm after my last run with the Ambit3 Sport).
+
+## Movescount software
+The new movescount software is available to all Suunto watches. However, bluetooth features are just working with the old models. Below some screenshots. For example you can create pictures and maps with current data on it.
+
+## My favourite Ambit3 model
+I use my watch mainly for running (check [my profile][5] on Movescount) and hiking (e.g. in [Finland][6] or [Sweden][7]) and I don't really need a barometer (I hardly used any of the barometer functions of the Ambit2 on my last trips).  That's why I picked the Ambit3 Sport. It's a great watch for running and does not feel that bulky as the Peak model. Moreover, pushing the buttons on the Ambit3 is much smoother than on the Ambit2. Also the backlight of the Ambit models look really cool and it really helps to read your data when jogging in the evening. There is also the Runner version which is called Ambit3 Run. It's slightly lighter than the Ambit3 Sport, however you will miss features related to swimming, multisport or biking.
+
+## Worth to upgrade?
+I have used the Suunto Ambit3 Sport for a couple of months and I am happy with it. I like the blue colour, the slimmer design compared to the peak model, the accuracy of the GPS signal and the shorter time it take to locate satellites. For runners it's already worth to upgrade just because of the smaller HR monitor which will give you a better running experience. I also like the Bluetooth feature so I can get my data also on the Movescount Server if I am not on a computer. If you are into Social Media then the Movescount app will also be a great tool to show-cast your activities in a video.
+
+**Update 29.03.2015:** Suunto has released a firmware update which increased the battery time of the Ambit watches as you can read [here][8]: "With GPS accuracy set to Best/Good/Ok, the numbers are accordingly: Ambit3 Peak – 20h/30h/200h"
+
+**Update 27.11.2015:** After having used the Suunto Traverse for a while I would prefer it over the Ambit3 as long as you are not into multisport. The Traverse also supports GLONASS. More [here][9] about the Suunto Traverse.
+
+## Charging the Suunto Ambit
+
+![][image-1]
+
+With an <a href=“http://amzn.to/1qJjINv” rel=“nofollow”>external battery</a> you can also charge the Suunto Ambit when you are outdoors.
+
+## Where to buy the Suunto Ambit3
+
+  Have a look here: <a href="http://www.hikeventures.com/deals/#Suunto+Ambit3”><button class="btn btn-danger">Compare prices</button></a>
+
+With an <a href="http://amzn.to/1qJjINv" rel="nofollow">external battery</a> you can also charge the Suunto Ambit when you are outdoors.
+
+## Where to buy the Suunto Ambit3
+Have a look here: <a href="http://www.hikeventures.com/deals/#Suunto+Ambit3"><button class="btn btn-danger">Compare prices</button></a>
+
+As mentioned earlier in this post, I prefer the [Suunto Traverse][10] as a non-multisport watch compared to the Ambit2 or Ambit3.
+
+[1]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/
+[2]:	http://www.hikeventures.com/Suunto-Traverse-Ambit3-differences/
+[3]:	http://amzn.to/1SAM78n "Ambit3 Vertical"
+[4]:	http://www.movescount.com/connect/iPhone%22%20target=%22_blank
+[5]:	http://www.movescount.com/members/HikeVentures
+[6]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/
+[7]:	http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/
+[8]:	http://www.suunto.com/Support/Products/Suunto-Ambit3-Peak-Software-Update-15-March-2015/
+[9]:	http://www.hikeventures.com/Suunto-Traverse-Ambit3-differences/
+[10]:	http://www.hikeventures.com/Suunto-Traverse-Ambit3-differences/
+
+[image-1]:	https://farm9.staticflickr.com/8376/8379979987_5d2cd6b3e4_b.jpg "Charging Suunto Ambit3 with external USB battery"
+[image-1]:	https://farm9.staticflickr.com/8376/8379979987_5d2cd6b3e4_b.jpg "Charging Suunto Ambit3"

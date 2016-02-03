@@ -1,0 +1,70 @@
+---
+layout: post
+title: "Klymit"
+date: 2013-12-16 19:01:32 +0200
+comments: true
+author: Klymit
+categories: ['Guest Posts']
+description: Introduction of Klymit Outdoor Gear
+keywords: Outdoor Gear, Klymit, Outdoors, Hiking
+twitter_card:
+    image: http://farm4.staticflickr.com/3827/11544807355_5275cd0040_c.jpg
+---
+We are <a href="http://www.klymit.com" target="_blank">Klymit</a>. So when Patrick asked me to write a little piece on Klymit for HikeVenture, I admittedly was not sure where to start.  To those uninitiated, Klymit is a high end outdoors brand that has been around for 4 years now and makes great gear for adventure.
+
+<a href="http://www.flickr.com/photos/90204224@N07/11404609446/" title="Aconcagua"><img src="http://farm3.staticflickr.com/2854/11404609446_a26457d149_o.jpg" width="720" height="540" alt="Aconcagua"></a>
+<!--more--><br>
+ 
+But without being grandiose, how do I talk about something that has evolved to become the expression of a lifetime of passion for the outdoors; of the calm thankfulness that that stems from being in an industry of likeminded people and working for a company that is solely targeted on sleeping and moving more comfortably in the backcountry?  It’s hard because Klymit is just this to us…a vision. 
+
+We survive on and are fueled by stoke; on the peace, freshness, and energy that time in these raw and inspiring places infects us, our customers, and all our fellow explorers with.  I guess we are just a bunch of dudes that grew up in the Tetons, Wasatch, Uintas, and Wind Rivers and got lucky.  We are all somewhere around 30, and our generation was among the first to delight in mobile technology, and hopefully not the last to delight in the outdoors.
+
+Before we started Klymit, we found most camping pads very uncomfortable and bulky.  They do not contour with the human body, and allow air to be the least stable under the heaviest parts of the sleeper, or where they need it the most.  They also allow air to negatively affect the orientation of the sleeper’s body, and encourage the movement of air by pressure bottlenecks and releases.  There are things about camping pad design that simply make us scratch our head, and make odd faces.  We felt with new welding and programming capabilities we could do better.
+ 
+We then designed and built a patent pending prototyping machine that allows us to develop products in a fraction of the time of our competitors.  It allows us to articulate the designs completely.  Ideas can be tested within minutes, and an entire product can move from concept into reality within hours.  Pad shapes, sizes, weld shapes, fabrics, laminates, and every part of the construction process that takes months of back and forth with others’ factories; takes minutes for us at Klymit right here in Ogden, UT.  It enables us to immediately take new prototypes into our backyard backcountry to get real time feedback and completely ‘dial in’ our designs.
+ 
+At Klymit we bring a rational, scientific approach to every product, and developed our own proprietary technology to execute it.  The whole process is immersed in goofiness and discerned with an artistic eye towards minimalism and function.  Admittedly, this is really a ton of fun.
+ 
+Not merely scientific and rational, our gear is derived from romance and struggle: purpose built and incentivized by the solutions to our own personal challenges that we encounter in our adventures.  Here at the confluence of imagination, physics, problem solving, technology and inspiration is an effort to perpetuate the inspired to new heights.  Less marketing and more introspection…this is our pledge:  We will remain unfettered by the convolution and smoke and mirrors marketing that seeks to rob the adventurer of both their reason and discernment.  We will continue to focus on empowering the adventurous and inspiring others, decreasing the inhibitions of those that dabble in the outdoors, and creating gear that lets us all challenge what we perceived to be our personal limits.  This is a glimpse into our minds, and perhaps our ethos.  ‘Mad Science’ is the playful term we lend to this process of ideation and evolution, and expresses our commitment to the legitimacy of both quantitative and subjective improvements that allow us to have more fun in life.
+ 
+The great thing about our ‘Mad Science’ approach is that we always have both a rationale and a story to everything that we create.  Maybe that is the best way to understand us.  Here is the story of how we were inspired to develop the Static V, now our best selling sleeping pad.  It was our first foray into a big, thick camping pad, and I have to say, it seems like we nailed it!  Our core process; the same process of any adventure, is to experience problems and creatively look at solutions.
+ 
+<h3>The Story of the Klymit Static V</h3>
+ 
+It all starts with a question…
+Do you remember the year, 1984?  I was 6, and I remember my first PVC pool toy.  It was a simple, horizontally baffled inflatable.  It was unstable, and barely kept my tiny frame out of the water.  As I sit and think about it, I am still….baffled…In almost 30 years why have inflatable designs, from air beds, camping pads, to pool toys, remained so homogenous? 
+ 
+We feel that the answer is approach.  It seems like our competitors try to mimic beds, which isn’t a terrible approach, but not quite right.  It is a matter of degrees, like Aristotle and Descartes conceptualising physics.  Aristotle inquired why an arrow would keep moving after fired.  2K years later Descartes suggested that the right question was “why does the arrow stop?”  Gravity, and therefore physics, was found by answering Descartes’ question within only a few years by Newton.  That small difference in approach may seem semantic, but the effect has been monumental to how we understand the world.  What I’m saying in a very belaboured way is that a tiny difference in approach can yield massive differences in effect.
+ 
+Not so world changing, but equally divergent, the Klymit difference in approach is obvious everywhere in the Static V.  We do not try to mimic beds.  We take a careful look at the human anatomy and create sleeping surfaces that are built to both support and contour around the body.  This approach allows us to achieve shapes that specifically target problems like instability, rolling off of the pad, and warmth.  There is no bounce and waterbed effect; they are stable unlike all other air beds.  They are warmer at lower r values, treating the body as a generator of heat and giving it many channels to warm and enclose to resist convection.  Our approach allows us to supply more comfort and a better nights’ sleep with the lowest weight and pack size in the industry, while using more durable fabrics.  The welds are wider and deeper, the articulation is vastly superior, and the result is people sleep much better on the Klymit Static V.
+ 
+This is how we approached the development of the Static V, and keep in mind this is our lowest priced camping pad.  We had very lofty goals.  We identified the 3 major problems of air filled sleeping surfaces, from your old school queen airbed to our competitors’ pads.  Then we set out to solve them.
+ 
+Problem 1: Air Movement…aka the ‘waterbed effect’
+We observed that on both horizontally and vertically baffled camping pads that when you move on the pad to adjust your sleeping position, the pad keeps moving, bouncing around, and wallowing long after, in a way that we call the “waterbed effect”.  The reason for this is the large air spaces in the baffles hold air at less pressure than the small spaces the air passes through on the weld terminations at the head, foot, or sides of the camping pad under movement.   Therefore, when you move it takes a considerable amount of time for these pressure spikes through the terminations to equalise across the entire pad.
+Solution 1: The Static V disperses air in 6 directions from every chamber, and pressure is focused towards the side rails to keep you on the pad, even under movement.  It feels stable, supportive, and like you are on soft, thick foam more than air.
+ 
+Problem 2: Warmth
+The classic configurations (horizontal and vertically baffled) of inflatable sleeping surfaces are often chilly, and all have an r-value of 1.  The air movement of the pads, and the lack of significant deep welds that can retain warmth limit their use to warm nights and provide convective and conductive limitations.
+Solution 2:  The Static V utilises the anatomically patterned V shape body map that is not only more supportive and comfortable, its deep welds allow for the preservation of the body’s warmth in air pockets, limit air movement, and disperse cold air below.  The increase in warmth is massive, 30%, elevating the Static V as the warmest pad in its class at an r-value of 1.3. 
+ 
+Problem 3: Ease of Inflation
+Many camping pads in a similar configuration require 30 to 50 breaths.  There is just no reason to toil with that many breaths. 
+Solution 3: Our deep, shaped welds allow us to optimise the volume of our pads.  It only takes 7-15 breaths to inflate the Static V.  I did it at 6 at Sea Level this fall after a solid high altitude summer of training.  If you beat me you get a discount.
+ 
+The Static V has become the pad of choice for the adventurer who wants to truly sleep well anywhere on the planet.  Its comfort and support is unmatched, and ease of use is truly a joy.  These solutions combine to dramatically increase comfort over any other air bed on the market. 
+ 
+At Klymit we have developed a body of knowledge on how to articulate inflatables.  We make the air go where we want, do what we want it to do, and support the sleeper or paddler so much better.  We can control volume and insure a quick and easy take down, and make our pads lighter, warmer, and more durable.  We are rewriting the book on camping pads.  The conventional approach to thermodynamics, efficiency of materials, advanced design, body support, weld shape, weld thickness, and even material selection has entered a new chapter in the last 3 years, even for our competitors, and catalysed by Klymit.  This gives us great satisfaction.
+ 
+We are hoping to be in the beginnings of a revolution with packs as well.  Our Air Beam Frame-sheet brings all the advantages of full suspension for mountain bikes to packs and gives you the first athlete and off trail focused pack line that dampens bounce and vibration to increase comfort, save you energy, and work with the body’s contours under movement.  It is lighter, more comfortable, and delivers better load transfer.  It will be another game changer, but maybe we will get Patrick to test it and tell you himself. 
+ 
+The last 4 years have been wild with growth, yet we remain motivated.  The status quo of outdoor product design does not satisfy us.  We have launched sleeping bags, a pack raft, and a pack line in the last year and a half, and more is on the way.  We are busting down categories and getting into more local retailers, and are excited at increasing our outreach.  We really feel that we can help influence a mindset change and help everyone to realise what joy comes from getting the mountains’ good tidings.
+ 
+Alright, as predicted I failed miserably at my attempts to keep this short and sweet, but I hope people realise how hard we are trying to keep it legit.  We invite all to experience using our pads to sleep better and packs to move more comfortably on your next adventure.  See you in the hills!
+ 
+Sincerely,
+ 
+Gabe Rhoads (aka Bodhi)
+Klymit Sales Manager/ R&D
+
+<a href="http://www.klymit.com" target="_blank"><img src="http://farm3.staticflickr.com/2829/11404622134_efeb13e1bc_o.jpg" width="160" height="160" alt="KlymitLogo_3_small"></a>

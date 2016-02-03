@@ -1,0 +1,28 @@
+---
+layout: post
+title: Rab Microlight Alpine Jacket
+date: 2013-02-05 19:35
+comments: true
+author: Patrick
+published: true
+categories: gear
+description: Review on the Rab Microlight Alpine Jacket
+keywords: Rab, Microlight Alpine Jacket, jacket, gear, review, hiking, outdoor
+featured_image: https://farm9.staticflickr.com/8475/8373596834_f7923d2831_b.jpg
+---
+If you are looking for a new down jacket which you can use during your hiking, backpacking or any other backcountry adventure mainly during spring and autumn  or as a midlayer during winter then the Rab Microlight Alpine Jacket could be an option and here comes a short review. I was hiking with this jacket in -5 °C and felt comfortably warm just wearing a t-shirt under it. However, I started to feel cold at this temperature when I was not moving.
+
+<a href="https://www.flickr.com/photos/90204224@N07/8373596834" title="Rab Alpine Microlight"><img src="https://farm9.staticflickr.com/8475/8373596834_f7923d2831_b.jpg" width="1024" height="683" alt="Rab Alpine Microlight"></a>
+<!--more-->
+Since the jacket is filled with down it takes much less space in your backpack than a synthetic jacket. Alternatively, you may also have a look at the <a href="http://hikeventures.com/gear-review-montbell-u-dot-l-down-parka" target="_self">Montbell UL Down Parka</a> which is a bit lighter than the Rab Microlight Alpine jacket and which is my current down jacket.
+
+## Features
+The Rab Microlight Alpine Jacket weights 345 grams is filled with 140 grams of 750 cuin goose down. 
+
+## Recommendation
+The Rab Microlight Alpine Jacket is a nice down jacket which is also quite affordable. If you look for a real winter down jacket then the <a href="http://amzn.to/1I4ao2P">Rab Positron Jacket</a> might be an alternative (at least I would pick it as my winter down jacket). However, if you are looking for a jacket which you can wear in the evenings in the camp or as a midlayer during the winter then the Rab Microlight Alpine Jacket is a great choice. Here you can find a list of my favourite <a href="http://www.hikeventures.com/best-down-jackets/">down jackets</a>.
+
+## Where to buy the Rab Alpine Microlight?
+Have a look here: <a href="http://www.hikeventures.com/deals/#Rab+Alpine+Microlight”\><button class="btn btn-danger">Compare prices</button></a>
+
+What is your experience with the Rab Microlight Alpine Jacket? Leave a comment below.

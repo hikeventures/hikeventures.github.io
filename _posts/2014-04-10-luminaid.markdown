@@ -1,0 +1,33 @@
+---
+layout: post
+title: "LuminAID"
+date: 2014-04-22 18:40:05 +0200
+comments: true
+categories: ['Gear Reviews']
+description: luminAid - An inflatable solar light for your hiking trip
+keywords: Packrafting, LED, Solar, Solarlight, Hiking, Outdoors
+twitter_card:
+    image: https://farm8.staticflickr.com/7381/13970539645_6d777e495b_c.jpg
+---
+luminAID is a solar-powered inflatable light which can be used to light up your camp or you can attach it to your packraft if you want to paddle at night.<br><br>
+<img src="https://farm8.staticflickr.com/7381/13970539645_6d777e495b_c.jpg">
+<!--more-->
+
+##Features
+The LuminAid weights 85 grams and can offer light for 16 hours after a charging it for 7 hours. There is a low and a high light setting. The LuminAid is also inflatable, water-resistand and can float.<br><br>
+
+<a href="https://www.flickr.com/photos/90204224@N07/13970959474/" ><img src="https://farm8.staticflickr.com/7404/13970959474_974b5ff688_b.jpg" width="1024" height="683" alt="LuminAid" ></a><br>
+LuminAID with original packaging<br><br>
+<a href="https://www.flickr.com/photos/90204224@N07/13967345072/" ><img src="https://farm8.staticflickr.com/7253/13967345072_66597c9f5b_b.jpg" width="1024" height="683" alt="LuminAid" ></a>
+Luminaid folds quite small and fits easily into a backpack<br><br>
+<a href="https://www.flickr.com/photos/90204224@N07/13967348421/" ><img src="https://farm8.staticflickr.com/7084/13967348421_1a012e2dae_b.jpg" width="1024" height="683" alt="LuminAid" ></a>
+LuminAID from the backside. The light does not constrain your eyes since it gets diffused.<br><br>
+<a href="https://www.flickr.com/photos/90204224@N07/13967324991/" ><img src="https://farm8.staticflickr.com/7082/13967324991_210e4a8fab_b.jpg" width="1024" height="683" alt="LuminAid"></a>
+LuminAID gave us plenty of light next to the <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/" target="_blank">Hilleberg Anjan</a> on our packrafting trip in the Netherlands.
+
+##Where to buy the LuminAid?
+<script type="text/javascript" src="http://www.avantlink.com/api.php?module=ProductSearch&affiliate_id=125311&website_id=150351&merchant_ids&search_results_sort_order=Retail+Price|asc&output=js&search_results_count=1&search_results_layout=list&search_results_fields=|Merchant+Name|Product+Name|Retail+Price&search_term=Luminaid"></script>
+<br>
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00TF7LZ3K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TF7LZ3K&linkCode=as2&tag=hikeve-20&linkId=2GAL7FB7F55N2U6G"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00TF7LZ3K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00TF7LZ3K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<br>
+What is your experience with LuminAid? Leave a comment below.
