@@ -1,0 +1,43 @@
+<head>
+  <meta charset="utf-8">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
+  <script src="{{ "/css/script.js" | prepend: site.baseurl }}"></script>
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-7s5uDGW3AHqw6xtJmNNtr+OBRJUlgkNJEo78P4b0yRw= sha512-nNo+yCHEyn0smMxSswnf/OnX6/KwJuZTlNZBjauKhTK0c+zT+q5JOCx0UFhXQ6rJR9jg6Es8gPuD2uZcYDLqSw==" crossorigin="anonymous">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha256-KXn5puMvxCw+dAYznun+drMdG1IFl3agK0p/pqT9KAo= sha512-2e8qq0ETcfWRI4HJBzQiA3UoyFk6tbNyG+qSaIBZLyW9Xf3sWZHN/lxe9fTh1U45DpPf07yj94KsUHHWe4Yk1A==" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <meta name="keywords" content="backpacking, hiking, packrafting, outdoors, blog, gear, destinations">
+  <script src="https://apis.google.com/js/platform.js" async defer></script>
+  <link rel="author" href="https://plus.google.com/+Hikeventures">
+  <link href='https://fonts.googleapis.com/css?family=Amatic+SC:700' rel='stylesheet' type='text/css'>
+  <link rel="alternate" type="application/rss+xml" title="HikeVentures - All Posts" href="http://www.feedio.co/@hikeventures/feed">
+  <meta name="author" content="HikeVentures.com">
+  <meta content="{{ site.title }}" property="og:site_name">{% if page.title %}
+  <meta content="{{ page.title }}" property="og:title">{% else %}
+  <meta content="{{ site.title }}" property="og:title">{% endif %} {% if page.title %}
+  <meta content="article" property="og:type">{% else %}
+  <meta content="website" property="og:type">{% endif %} {% if page.description %}
+  <meta content="{{ page.description }}" property="og:description">{% else %}
+  <meta content="{{ site.description }}" property="og:description">{% endif %} {% if page.url %}
+  <meta content="{{ site.url }}{{ page.url }}" property="og:url">{% endif %} {% if page.date %}
+  <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
+  <meta content="{{ site.url }}/about/" property="article:author">{% endif %} {% if page.image %}
+  <meta content="/img/srcset/{{ page.image }}" property="og:image">{% else %}
+  <meta content="/img/logo-high-resolution.png" property="og:image">{% endif %} {% if page.categories %} {% for category in page.categories limit:1 %}
+  <meta content="{{ category }}" property="article:section">{% endfor %} {% endif %} {% if page.tags %} {% for tag in page.tags %}
+  <meta content="{{ tag }}" property="article:tag">{% endfor %} {% endif %}
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@hikeventures">
+  <meta name="twitter:creator" content="@hikeventures">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:image" content="{% if page.featured_image %}{{ page.featured_image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.icon | prepend: site.baseurl | prepend: site.url }}{% endif %}">
+  <meta name="twitter:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <meta name="twitter:image:src" content="https://farm6.staticflickr.com/5600/15282435948_a86a69c802_t.jpg">
+</head>

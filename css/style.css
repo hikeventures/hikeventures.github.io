@@ -1,0 +1,230 @@
+/* submit and search button on blog */
+
+input {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.orange{
+background:#FF8000;
+}
+
+
+/* Logo positioning */
+.headline {
+  position: relative;
+  z-index: 1;
+  left: 0px;
+  top: 0px;
+
+  text-decoration: none;
+}
+
+
+
+
+.headline a:visited {color:black;font-weight:normal; }
+.headline a:link {color:black;font-weight:normal; }
+.headline a:hover {color:black;font-weight:normal; }
+
+.logo {
+  position: absolute;
+  z-index: 1;
+  left: 5px;
+  top: 5px;
+}
+
+
+.emptyTag {
+}
+.av_search_results_table {
+	border: 0px solid black;
+	background-color: #e0e0e0;
+	width: 100%;
+}
+.av_search_results_navigation {
+	font-family: Verdana;
+	font-size: 75%;
+	background-color: #e0e0e0;
+}
+.av_search_results_column_titles {
+	font-family: Verdana;
+	font-size: 90%;
+	background-color: #ffffff;
+	text-align: left;
+	text-wrap: none;
+}
+.av_search_results_list_row_odd {
+	background-color: #ffffff;
+}
+.av_search_results_list_row_even {
+	background-color: #f0f0f0;
+}
+.av_search_results_list_row_hover {
+	background-color: #e0e0e0;
+}
+.av_search_results_grid_column {
+	border: 0px solid black;
+	text-align: middle;
+
+}
+.av_search_results_grid_row {
+	background-color: #ffffff;
+}
+img {
+          display: block;
+          height: auto;
+          max-width: 100%;
+   }
+html,body{height:100%;}#wrap{min-height:100%;height:auto;margin:0 auto -30px;padding:0 0 30px}#footer{height:30px;background-color:#eeeeee}#footer p{line-height:30px;margin-bottom:0}
+
+#footer {
+  background-color: #eeeeee;
+    color: #000000
+
+
+
+}
+
+
+
+/* posts index */
+.post > h3.title {
+  position: relative;
+  padding-top: 10px; }
+
+.post > h3.title span.date {
+  position: absolute;
+  right: 0;
+  font-size: 0.9em; }
+
+.post > .more {
+  margin: 10px 0;
+  text-align: left; }
+
+/* post-full*/
+.post-full .date {
+  margin-bottom: 20px;
+  font-weight: bold; }
+
+/* tag_box */
+.tag_box {
+  list-style: none;
+  margin: 0;
+  overflow: hidden; }
+
+.tag_box li {
+  line-height: 28px; }
+
+.tag_box li i {
+  opacity: 0.9; }
+
+.tag_box.inline li {
+  float: left; }
+
+.tag_box a {
+  padding: 3px 6px;
+  margin: 2px;
+  background: #eee;
+  color: #555;
+  border-radius: 3px;
+  text-decoration: none;
+  border: 1px dashed #cccccc; }
+
+.tag_box a span {
+  vertical-align: super;
+  font-size: 0.8em; }
+
+.tag_box a:hover {
+  background-color: #e5e5e5; }
+
+.tag_box a.active {
+  background: #57A957;
+  border: 1px solid #4c964d;
+  color: #FFF; }
+
+body{
+font: 16px Verdana, serif;line-height: 200%;
+}
+
+/* RSS */
+div.demo {
+    display: table;
+    width: 100%;
+    table-layout: fixed;    /* For cells of equal size */
+}
+div.demo span {
+    display: table-cell;
+    text-align: center;
+}
+
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+}
+
+#mc_embed_signup input.email{
+    display:inline-block;
+}
+
+#mc_embed_signup input.button {
+    display:inline-block;
+}
+
+
+//Image Hover Effect
+.hovereffect {
+  width: 100%;
+  height: 100%;
+  float: left;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  cursor: default;
+}
+
+.hovereffect .overlay {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+}
+
+.hovereffect img {
+  display: block;
+  position: relative;
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+  -webkit-transition: all 0.35s;
+  transition: all 0.35s;
+}
+
+.hovereffect:hover img {
+  -webkit-transform: scale(0.8);
+  -ms-transform: scale(0.8);
+  transform: scale(0.8);
+  filter: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg"><filter id="filter"><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="linear" slope="0.7" /><feFuncG type="linear" slope="0.7" /><feFuncB type="linear" slope="0.7" /></feComponentTransfer></filter></svg>#filter');
+  filter: brightness(0.7);
+  -webkit-filter: brightness(0.7);
+}
+
+.navbar-default {
+    background-color:#FFFFFF !important;
+   
+}
+body {
+font-family: Verdana, Arial, sans-serif !important;
+font-size: 16px !important;
+letter-spacing: 0px !important;
+line-height: 1.5em !important;
+}
