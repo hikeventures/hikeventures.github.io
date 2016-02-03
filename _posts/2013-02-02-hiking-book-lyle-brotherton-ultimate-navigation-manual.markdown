@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lyle Brotherton: Ultimate Navigation Manual
+title: Lyle Brotherton - Ultimate Navigation Manual
 date: 2013-02-02 14:59
 comments: true
 author: Patrick

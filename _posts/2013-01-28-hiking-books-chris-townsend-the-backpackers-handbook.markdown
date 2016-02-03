@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chris Townsend: The Backpacker's Handbook
+title: Chris Townsend - The Backpacker's Handbook
 date: 2013-01-28 17:09
 comments: true
 author: Patrick

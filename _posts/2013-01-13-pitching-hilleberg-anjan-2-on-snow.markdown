@@ -7,7 +7,6 @@ published: true
 categories: articles
 description: A high quality 3 season tent which is leighweight and packs small
 keywords: Hilleberg, Anjan 2, camping, winter, outdoors, winter camping
-featured_image: image: https://farm9.staticflickr.com/8326/8375204505_0d31ecaa55_b.jpg
 ---
 The Hilleberg Anjan 2 is actually a lightweight (1.8 kg packed) 3 season tent. However, I believe that this tent could also be used during the winter season if there is only light snow fall and no strong winds. However, I have not tested it yet myself (to be on the safe side, I would rather take a 4-season tent with me). Here you can see how the Hilleberg Anjan looks like pitched on snow.
 
