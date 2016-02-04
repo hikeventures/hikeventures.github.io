@@ -232,4 +232,5 @@ line-height: 1.5em !important;
 
 ul#menu li {
     display:inline;
+    text-align: left;
 }
