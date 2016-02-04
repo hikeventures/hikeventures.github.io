@@ -34,6 +34,18 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 * Hot Seat
 * Hood
 
+## Fjällräven
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9QtBYzT8iio?rel=0"></iframe>
+</div>
+
+### Product Highlights:
+
+* Keb Eco Shell
+* Fjällräven Lappland Eco-Shell Poncho
+* Singi Down Jacket
+* Polar Endurance 3
+
 ## Goal Zero
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/OoC_DTWZYhY?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
@@ -54,6 +66,15 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 * Salvo / Sula (green backpack)
 * Targhee (yellow backpack)
 
+## Haglöfs
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2LtIxEurfOg?rel=0"></iframe>
+</div>
+
+### Product Highlights
+* Essens Mimic Jacket
+* Spitz Jacket
+
 ## Hanwag
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/7TLPVaQttGM"></iframe>
@@ -72,6 +93,15 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 ### Product Highlights
 * Fält Guide Glove
 * Army Leather Abisko
+
+## Houdini
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Wa7DCO-aj3I?rel=0"></iframe>
+</div>
+
+### Product Highlights
+* Power Houdini
+* Wooler Houdi
 
 ## Icebreaker
 <div class="embed-responsive embed-responsive-16by9">
