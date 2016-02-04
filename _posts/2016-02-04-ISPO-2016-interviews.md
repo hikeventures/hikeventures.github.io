@@ -117,13 +117,45 @@ This year we have been to the ISPO in Munich to create a series of videos where 
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ZeTPbkozsqU?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
 </div>
 
-## LifeStraw
+## Marmot
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/f58qpBLo_U4?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vN-sU8SPfuc?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
 </div>
 
 ### Product Highlights
-* LifeStraw Personal
+* Mikaela Jacket
+* Women's Cheeky Pant
+* Marmot NanoPro
+
+## Montane
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9rsU5Dqqj7Y?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
+</div>
+
+### Product Highlights
+* Featherlite Jacket 7D
+
+## NRS
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/PeXBQkWJIzQ?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
+</div>
+
+### Product Highlights
+* Pilot Knife
+* Co-Pilot Knife
+* Ninja
+* Crux Dry Suite 
+
+## NRS
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/PeXBQkWJIzQ?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
+</div>
+
+### Product Highlights
+* Pilot Knife
+* Co-Pilot Knife
+* Ninja
+* Crux Dry Suite 
 
 ## The North Face
 <div class="embed-responsive embed-responsive-16by9">
