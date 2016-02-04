@@ -146,16 +146,31 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 * Ninja
 * Crux Dry Suite 
 
-## NRS
+## Panino
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/PeXBQkWJIzQ?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/mOH1WAZqgc4?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
 </div>
 
 ### Product Highlights
-* Pilot Knife
-* Co-Pilot Knife
-* Ninja
-* Crux Dry Suite 
+* Panino Camera
+
+## Rab
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9euEZxhFmuI?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
+</div>
+
+### Product Highlights
+* Rab Zero G Jacket 
+* Rab Nebula Jacket
+* Rab Merino+ Hoody
+
+## Subtech Sports
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4K4PRElMS5E?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
+</div>
+
+### Product Highlights
+* Pro Drybag 45L
 
 ## The North Face
 <div class="embed-responsive embed-responsive-16by9">
