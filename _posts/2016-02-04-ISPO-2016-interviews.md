@@ -99,15 +99,20 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 * Trek
 * Wave
 
-## Julbo
+## Klättermusen
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vdb3m52FdvM?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jZtM9TqSz58?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
+</div>
+
+## LifeStraw
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/f58qpBLo_U4?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
 </div>
 
 ### Product Highlights
-* Aero
-* Trek
-* Wave
+* LifeStraw Personal
+
+
 
 ## The North Face
 <div class="embed-responsive embed-responsive-16by9">
