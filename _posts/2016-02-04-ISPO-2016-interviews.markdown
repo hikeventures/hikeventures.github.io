@@ -1,5 +1,4 @@
 ---
-published: true
 layout: post
 title: ISPO 2016 - Interviews with Outdoor Brands
 date: 2016-02-04 16:28
@@ -8,8 +7,6 @@ categories: articles
 description: Interviews with major outdoor brands about their product highlights at the ISPO 2016 in Munich.
 keywords: Hiking, Backpacking, Outdoors, ISPO, interviews, 2016
 ---
-
-
 This year we have been to the ISPO in Munich to create a series of videos where we interviewed 23 outdoor brands about their latest product highlights for 2016. We have not done any video interviews in the past so this was an exciting opportunity to get more into videos and at the same time meet new people. Also new at the ISPO this year was that there was a dedicated lounge for bloggers. You can find the playlist of all of our ISPO 2016 videos [here](https://www.youtube.com/playlist?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM). 
 
 <div class="embed-responsive embed-responsive-16by9">
