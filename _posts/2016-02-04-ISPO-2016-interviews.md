@@ -1,5 +1,93 @@
 ---
 published: false
+layout: post
+title: "ISPO 2016 - Product Highlights Interviews"
+date: "2012-11-27 16:28"
+comments: true
+categories: articles
+description: Interviews with major outdoor brands about their product highlights at the ISPO 2016 in Munich.
+keywords: "Hiking, Backpacking, Outdoors, ISPO, interviews, 2016"
 ---
 
 This year we have been to the ISPO in Munich to create a series of videos where we interviewed 23 outdoor brands about their latest product highlights for 2016. We have not done any video interviews in the past so this was an exciting opportunity to get more into videos and at the same time meet new people. Also new at the ISPO this year was that there was a dedicated blogger lounge where we were able to charge our phones and get a free voucher for snacks and drinks.
+
+## Berghaus
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3FENF01oMq4?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
+</div>
+
+### Product Highlights:
+* Extreme 8000 Pro Jacket 
+* Ramche 2
+
+## Brunton
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2NewGBQQB6U?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
+</div>
+
+### Product Highlights:
+* Heatsync Glove Liner
+* Vital
+* Zone 
+* Hot Seat
+* Hood
+
+## Goal Zero
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/OoC_DTWZYhY?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
+</div>
+
+### Product Highlights
+* Lighthouse Mini Lantern
+* Nomad 7 Solar Panel
+* Venture 30 Recharger
+
+## Gregory
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/m7l1t35mKRg?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
+</div>
+
+### Product Highlights
+* Sulu / Jade (black backpack)
+* Salvo / Sula (green backpack)
+* Targhee (yellow backpack)
+
+## Hanwag
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=7TLPVaQttGM&list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM&index=23"></iframe>
+</div>
+
+### Product Highlights
+* Alaska Winter
+* Belorado GTX (Winter)
+* Tolja
+
+## Hanwag
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=7TLPVaQttGM&list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM&index=23"></iframe>
+</div>
+
+### Product Highlights
+* Alaska Winter
+* Belorado GTX (Winter)
+* Tolja
+
+
+
+## The North Face
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wyDGxoLAQ6w"></iframe>
+</div>
+
+### Product Highlights:
+* Thermoball Jacket: ThermoBall powered by PrimaLoft synthetic insulation.
+* FuseForm Jacket: FuseForm construction delivers integrated durability with fewer seams.
+* Ultra Fastpack Mid Gore-Tex: The Ultra Fastpack Mid Gore-Tex is a waterproof and lightweight running shoe on any terrain.
+
+
+
+
+
+
+
+
