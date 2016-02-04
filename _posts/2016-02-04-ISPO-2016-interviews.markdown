@@ -7,7 +7,7 @@ categories: articles
 description: Interviews with major outdoor brands about their product highlights at the ISPO 2016 in Munich.
 keywords: Hiking, Backpacking, Outdoors, ISPO, interviews, 2016
 ---
-This year we have been to the ISPO in Munich to create a series of videos where we interviewed 23 outdoor brands about their latest product highlights for 2016. We have not done any video interviews in the past so this was an exciting opportunity to get more into videos and at the same time meet new people. Also new at the ISPO this year was that there was a dedicated lounge for bloggers. You can find the playlist of all of our ISPO 2016 videos [here](https://www.youtube.com/playlist?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM). 
+This year we have been to the ISPO in Munich to create a series of videos where we interviewed 23 outdoor brands about their latest product highlights for 2016. We have not done any video interviews in the past so this was an exciting opportunity to get more into videos and at the same time meet new people. Also new at the ISPO this year was that there was a dedicated lounge for bloggers. You can find the playlist of all of our ISPO 2016 videos [here](https://www.youtube.com/playlist?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM).
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9mAEzVNPYEs?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
@@ -19,7 +19,7 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 </div>
 
 ### Product Highlights:
-* Extreme 8000 Pro Jacket 
+* Extreme 8000 Pro Jacket
 * Ramche 2
 
 ## Brunton
@@ -30,7 +30,7 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 ### Product Highlights:
 * Heatsync Glove Liner
 * Vital
-* Zone 
+* Zone
 * Hot Seat
 * Hood
 
@@ -79,9 +79,9 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 </div>
 
 ### Product Highlights
-* Zone 
+* Zone
 * Comet
-* Helix Jacket 
+* Helix Jacket
 
 ## Julbo
 <div class="embed-responsive embed-responsive-16by9">
@@ -138,7 +138,7 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 * Pilot Knife
 * Co-Pilot Knife
 * Ninja
-* Crux Dry Suite 
+* Crux Dry Suite
 
 ## Oru Kayaks
 <div class="embed-responsive embed-responsive-16by9">
@@ -147,7 +147,15 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 
 ### Product Highlights
 * Oru Bay
-* Oru Coast Kayake 
+* Oru Coast Kayake
+
+## OverBoard
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FgLNtfCIxy4?rel=0"></iframe>
+</div>
+
+### Product Highlights
+* Pro-Light Waterproof Backpack
 
 ## Palm
 <div class="embed-responsive embed-responsive-16by9">
@@ -172,7 +180,7 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 </div>
 
 ### Product Highlights
-* Rab Zero G Jacket 
+* Rab Zero G Jacket
 * Rab Nebula Jacket
 * Rab Merino+ Hoody
 
@@ -221,7 +229,3 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 ### Product Highlights:
 * Fever Zero
 * Argon Vest
-
-
-
-
