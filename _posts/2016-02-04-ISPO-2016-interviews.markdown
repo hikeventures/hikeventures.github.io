@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ISPO 2016 - Interviews with Outdoor Brands
-date: 2016-02-04 15:28
+date: 2016-02-04 15:28:01 +0300
 comments: true
 categories: articles
 description: Interviews with major outdoor brands about their product highlights at the ISPO 2016 in Munich.
