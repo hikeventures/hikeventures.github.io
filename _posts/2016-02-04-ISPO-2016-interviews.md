@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "ISPO 2016 - Product Highlights Interviews"
+title: "2016-04-02-ISPO-2016.markdown"
 date: "2012-11-27 16:28"
 comments: true
 categories: articles
