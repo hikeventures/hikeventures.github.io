@@ -15,7 +15,7 @@ footer: false
             <a class="thumbnail" href="http://www.hikeventures.com/e5-crossing-the-alps-from-germany-to-italy/" style="color: #FFF">
         <div class="thumbnail text-center">
         	<img src="https://farm2.staticflickr.com/1615/24321011066_e5ce7b207e_z.jpg" alt="" class="img-responsive">
-        <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white";>E5: Alps</p>
+        <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:#FFF";>E5: Alps</p>
         </div></div></a></div></div>
 </div>   
 
