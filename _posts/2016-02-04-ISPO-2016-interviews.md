@@ -79,6 +79,15 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 * Belorado GTX (Winter)
 * Tolja
 
+## Hestra
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=7TLPVaQttGM&list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM&index=23"></iframe>
+</div>
+
+### Product Highlights
+* Fält Guide Glove
+* Army Leather Abisko
+
 ## Icebreaker
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/loT3g0NtsBw?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
