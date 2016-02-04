@@ -58,17 +58,7 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 
 ## Hanwag
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=7TLPVaQttGM&list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM&index=23"></iframe>
-</div>
-
-### Product Highlights
-* Alaska Winter
-* Belorado GTX (Winter)
-* Tolja
-
-## Hanwag
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=7TLPVaQttGM&list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM&index=23"></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/7TLPVaQttGM"></iframe>
 </div>
 
 ### Product Highlights
@@ -78,7 +68,7 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 
 ## Hestra
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=7TLPVaQttGM&list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM&index=23"></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/sQayjAFilCU"></iframe>
 </div>
 
 ### Product Highlights
