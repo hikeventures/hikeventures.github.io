@@ -136,7 +136,7 @@ The  Rab Infinity Endurance Jacket is a technical alpine or mountaineering jacke
 
 
 
-<div class="alert alert-success" role="alert"><h4>10. Rab Positron Jacket (800 fp) </div>
+<div class="alert alert-success" role="alert"><h4>10. Rab Positron Jacket (800 fp) </h4></div>
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00XJO2X18/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00XJO2X18&linkCode=as2&tag=hikeve-20&linkId=5POHXUOALSVWVY2B"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00XJO2X18&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00XJO2X18" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -148,15 +148,15 @@ The  Rab Positron Jacket is proper box-wall down winter jacket with a water-resi
 
  <a href="http://www.hikeventures.com/deals/#Positron+Jacket"><button class="btn btn-danger">Compare prices</button></a><br><br>
 
-<a name="down_wear"><h2>When not to wear a down jacket?</h2></a>
+## <a name="down_wear">When not to wear a down jacket?</a>
 
 You should avoid wearing your down-jacket while you are active (e.g. hiking, biking, climbing or skiing) since down insulates less when it gets wet. So ideally you wear a fleece jacket when you are active and switch to your down jacket when you are resting.
 
-<a name="down_quality"> <h2> What is down quality? </h2> </a>
+## <a name="down_quality">What is down quality?</a>
 
 A high down quality indicates that less down is needed to keep you warm for the same weight (e.g. a fill power of 900 keeps you more warm than a fill power of 700 with the same amount of down) - having higher warmth-to-weight ratio. A down jacket with the highest fill power and the lightest shell fabric can be considered an ultralight down jacket. Fill power is measured by cuin. A ratio of 90:10 expresses the down-feather ratio (90% down and 10% feathers).
 
-<a name="down_jacket_waterproof"><h2>Are down jackets waterproof? </h2> </a>
+## <a name="down_jacket_waterproof">Are down jackets waterproof? </a>
 
 The shell of your down jacket is slightly water repellent in order to keep the down dry in case you get into very light rain. If you expect to get more rain, swap the down jacket with a [fleece jacket][3] and pull on a [waterproof jacket][4]. So in general, down jackets are not waterproof.
 
