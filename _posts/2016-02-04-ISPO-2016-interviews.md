@@ -182,32 +182,6 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 * FuseForm Jacket
 * Ultra Fastpack Mid Gore-Tex
 
-## Panino
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/mOH1WAZqgc4?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
-</div>
-
-### Product Highlights:
-* Panino Camera
-
-## Rab
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9euEZxhFmuI?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
-</div>
-
-### Product Highlights:
-* Rab Zero G Jacket
-* Rab Nebula Jacket
-* Rab Merino+ Hoody
-
-## Subtech Sports
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4K4PRElMS5E?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
-</div>
-
-### Product Highlights:
-*  Pro Drybag 45L
-
 ## Thule
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0Y8GkZgOhf8?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
@@ -217,6 +191,15 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 * Thule Legend GoPro Backpack
 * Thule Legend GoPro Advanced Case
 * Thule Legend GoPro Case
+
+## TomTom
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/tJvQmqgZGc0?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
+</div>
+
+### Product Highlights:
+* Bandit Action Camera
+* Runner 2
 
 ## Yeti
 <div class="embed-responsive embed-responsive-16by9">
