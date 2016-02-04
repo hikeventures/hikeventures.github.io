@@ -235,8 +235,6 @@ Many new down jackets feature nowadays a light ripstop shell to make the down ja
 
 You can keep your down jacket dry by storing it in a [waterproof compression bag][7] when you are hiking in wet conditions and to use your down jacket only in your tent.
 
-Which is the best down jacket in your opinion? Leave a comment below.
-
 [1]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/
 [2]:	http://www.hikeventures.com/deals/
 [3]:	http://www.hikeventures.com/best-fleece-jackets/
