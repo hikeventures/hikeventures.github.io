@@ -146,6 +146,15 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 * Ninja
 * Crux Dry Suite 
 
+## Oru Kayaks
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/E9wvp9HzLVc"></iframe>
+</div>
+
+### Product Highlights
+* Oru Bay
+* Oru Coast Kayake 
+
 ## Panino
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/mOH1WAZqgc4?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
