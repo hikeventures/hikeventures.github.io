@@ -112,7 +112,18 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 ### Product Highlights
 * LifeStraw Personal
 
+## Lundhags
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ZeTPbkozsqU?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
+</div>
 
+## LifeStraw
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/f58qpBLo_U4?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
+</div>
+
+### Product Highlights
+* LifeStraw Personal
 
 ## The North Face
 <div class="embed-responsive embed-responsive-16by9">
