@@ -13,11 +13,8 @@ description: Our interview about new product highlights with the North Face at t
 The North Face showed us a few of their product highlights at the ISPO 2016 in Munich.
 <!--more-->
 
-##Thermoball Jacket
+## Thermoball Jacket
 ThermoBall powered by PrimaLoft synthetic insulation.
-
-##FuseForm Jacket
-FuseForm construction delivers integrated durability with fewer seams.
 
 ## FuseForm Jacket
 FuseForm construction delivers integrated durability with fewer seams.
