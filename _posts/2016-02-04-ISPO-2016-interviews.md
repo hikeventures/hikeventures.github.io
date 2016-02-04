@@ -79,6 +79,36 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 * Belorado GTX (Winter)
 * Tolja
 
+## Icebreaker
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/loT3g0NtsBw?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
+</div>
+
+### Product Highlights
+* Zone 
+* Comet
+* Helix Jacket 
+
+## Julbo
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vdb3m52FdvM?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
+</div>
+
+### Product Highlights
+* Aero
+* Trek
+* Wave
+
+## Julbo
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vdb3m52FdvM?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
+</div>
+
+### Product Highlights
+* Aero
+* Trek
+* Wave
+
 ## The North Face
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wyDGxoLAQ6w"></iframe>
