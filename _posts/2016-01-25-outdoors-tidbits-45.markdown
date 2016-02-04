@@ -5,7 +5,7 @@ date: 2016-01-25 00:00:01 +0300
 categories: tidbits
 published: false
 description: The latest outdoor gear reviews, tips & tricks - Nr. 45 - #OutdoorsTidbits
-keywords: Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews
+keywords: Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews 
 ---
 *25.01.1905 - The World’s larger diamond was found in South Africa weighing 590 grams and called the “Culling”.*
 
