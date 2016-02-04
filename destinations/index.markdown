@@ -182,14 +182,21 @@ footer: false
         <img src="https://farm2.staticflickr.com/1689/23979413789_e1981cabcf_z.jpg" alt="" class="img-responsive">
         <div class="caption">
             <p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Urho Kekkonen</p>
-        </div></div></a></div></div></div>
+        </div></div></a></div></div>
 
-                  <div class="col-xs-6"><div class="hovereffect">
+
+
+ <div class="col-xs-6"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/outdoors-activities-in-vaasa/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
         <img src="https://farm2.staticflickr.com/1463/24347198835_f9d3f1fdc1_z.jpg" alt="" class="img-responsive">
         <div class="caption">
             <p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Vaasa</p>
         </div></div></a></div></div>
+
+
+
+
+           
 </div>
 
 
