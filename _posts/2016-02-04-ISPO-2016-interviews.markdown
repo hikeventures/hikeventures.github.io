@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "2016-04-02-ISPO-2016.markdown"
+title: ISPO 2016 - Interviews with Outdoor Brands
 date: "2012-11-27 16:28"
 comments: true
 categories: articles
