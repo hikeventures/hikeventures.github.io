@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ISPO 2016 - Interviews with Outdoor Brands
+title: ISPO 2016 - Product Highlights
 date: 2016-02-04 15:28:01 +0300
 comments: true
 categories: articles
