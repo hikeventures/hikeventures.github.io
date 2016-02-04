@@ -9,7 +9,14 @@ description: Interviews with major outdoor brands about their product highlights
 keywords: "Hiking, Backpacking, Outdoors, ISPO, interviews, 2016"
 ---
 
+
 This year we have been to the ISPO in Munich to create a series of videos where we interviewed 23 outdoor brands about their latest product highlights for 2016. We have not done any video interviews in the past so this was an exciting opportunity to get more into videos and at the same time meet new people. Also new at the ISPO this year was that there was a dedicated blogger lounge where we were able to charge our phones and get a free voucher for snacks and drinks.
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9mAEzVNPYEs?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
+</div>
+
+<!--more-->
 
 ## Berghaus
 <div class="embed-responsive embed-responsive-16by9">
@@ -72,20 +79,60 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 * Belorado GTX (Winter)
 * Tolja
 
-
-
 ## The North Face
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wyDGxoLAQ6w"></iframe>
 </div>
 
 ### Product Highlights:
-* Thermoball Jacket: ThermoBall powered by PrimaLoft synthetic insulation.
-* FuseForm Jacket: FuseForm construction delivers integrated durability with fewer seams.
-* Ultra Fastpack Mid Gore-Tex: The Ultra Fastpack Mid Gore-Tex is a waterproof and lightweight running shoe on any terrain.
+* Thermoball Jacket
+* FuseForm Jacket
+* Ultra Fastpack Mid Gore-Tex
 
+## Panino
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/mOH1WAZqgc4?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
+</div>
 
+### Product Highlights:
+* Panino Camera
 
+## Rab
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9euEZxhFmuI?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
+</div>
+
+### Product Highlights:
+* Rab Zero G Jacket
+* Rab Nebula Jacket
+* Rab Merino+ Hoody
+
+## Subtech Sports
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4K4PRElMS5E?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
+</div>
+
+### Product Highlights:
+*  Pro Drybag 45L
+
+## Thule
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0Y8GkZgOhf8?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
+</div>
+
+### Product Highlights:
+* Thule Legend GoPro Backpack
+* Thule Legend GoPro Advanced Case
+* Thule Legend GoPro Case
+
+## Yeti
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/OjJRPB_CTIk?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
+</div>
+
+### Product Highlights:
+* Fever Zero
+* Argon Vest
 
 
 
