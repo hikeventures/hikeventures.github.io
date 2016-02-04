@@ -188,8 +188,7 @@ div.demo span {
   position: relative;
   text-align: center;
   cursor: default;
-  border: 0px;
-}
+  }
 
 .hovereffect .overlay {
   width: 100%;
