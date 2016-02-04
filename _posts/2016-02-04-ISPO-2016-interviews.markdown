@@ -13,8 +13,6 @@ This year we have been to the ISPO in Munich to create a series of videos where 
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9mAEzVNPYEs?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
 </div>
 
-<!--more-->
-
 ## Berghaus
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3FENF01oMq4?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
