@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "ISPO 2016 - Product Highlights Interviews"
 date: "2012-11-27 16:28"
