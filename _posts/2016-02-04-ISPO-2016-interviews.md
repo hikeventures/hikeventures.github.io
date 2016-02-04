@@ -155,6 +155,15 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 * Oru Bay
 * Oru Coast Kayake 
 
+## Palm
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/orSWp4ahkFY"></iframe>
+</div>
+
+### Product Highlights
+* Glide inflatable waist belt PFD
+* Lightning and Gradient Shoe
+
 ## Panino
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/mOH1WAZqgc4?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
