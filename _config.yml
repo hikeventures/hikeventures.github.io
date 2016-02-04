@@ -7,7 +7,7 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-
+email: contact@hikeventures.com
 title : HikeVentures
 tagline: Hiking, Packrafting, Backpacking, Outdoors, Gear, Blog
 author :
