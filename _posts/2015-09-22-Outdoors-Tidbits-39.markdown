@@ -1,17 +1,19 @@
 ---
 layout: post
-title: "Outdoors Tidbits 39"
-date: 2015-09-22T22:00:27+03:00
+title: Outdoors Tidbits 39
+date: {}
 categories: tidbits
 published: true
-description: The latest outdoor gear reviews, tips & tricks - Nr. 39 - #outdoorstidbits
-keywords: Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews
-twitter_card:
-    image: https://farm6.staticflickr.com/5817/21641774221_d41efaafee_b.jpg
+description: "The latest outdoor gear reviews, tips & tricks - Nr. 39 -"
+keywords: "Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews"
+twitter_card: 
+  image: "https://farm6.staticflickr.com/5817/21641774221_d41efaafee_b.jpg"
 ---
+
 Last weekend we have participated in the Finnish Packrafting Gathering. Konstantin is still in the Netherlands but his luggage got lost (and all his gear) on his flight to Norway. Let's hope that it still can be found. So what's next? Our next winter adventure will probably be in Lapland but we have not decided yet 100% about the destination. Until then we will have some microadventures here in Finland, Poland or the Netherlands. Below a view towards Suomenlinna in Helsinki which I took last Saturday.
 <br><br>
 <img src="https://farm6.staticflickr.com/5817/21641774221_d41efaafee_b.jpg" width="1000" height="373"><!--more-->
+
 ## Gear Reviews
 [Book: The Art of Walking](http://trailtopeak.com/2015/09/16/book-review-the-art-of-walking-an-illustrated-journey-on-the-camino-de-santiago/)
 <br><br>
@@ -22,7 +24,8 @@ Last weekend we have participated in the Finnish Packrafting Gathering. Konstant
 [Navigation Devices Reviewed (in German)](http://www.bergfreunde.de/basislager/kaufberatung-computer-und-navigationsgeraete/)
 <br><br>
 [Therm-A-Rest-Neoair-Xlite](http://outdoorseite.de/therm-a-rest-neoair-xlite-isomatte/)
-<br><br>
+
+
 ## Tips & Tricks
 [Backpackers training plan for 100 mile ultra marathon](http://andrewskurka.com/2015/backpackers-training-plan-for-100-mile-ultra-marathon/)
 <br><br>
