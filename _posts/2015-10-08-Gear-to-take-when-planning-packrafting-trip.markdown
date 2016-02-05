@@ -153,7 +153,7 @@ Preferably a <a href="http://www.hikeventures.com/gear-review-hmg-porter-4400-bl
 ### Dry bags
 Clothes and sleeping bag should be packed in a seperate dry bag to keep them dry.
 
-###Compass / map / GPS / phone / satellite messenger
+### Compass / map / GPS / phone / satellite messenger
 Always take a map, compass, phone and in remote areas a stellite messenger with in case you get into an emergency situation and there is no phone signal.
 
 ### Money / passport / visa, credit card etc.
