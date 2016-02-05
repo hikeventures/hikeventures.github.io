@@ -20,7 +20,9 @@ It's always a good idea to check if there are some deals available. You can try 
 <img src="https://farm6.staticflickr.com/5590/14925237036_4743bca2f4_b.jpg" width="1024" height="683" alt="Exped Synmat UL 7">
 Exped Synmat UL 7
 
-`<div class="table-responsive">
+
+
+<div class="table-responsive">
 <table class="table">
 <tr>
 <td width="70%"><h4>Model</h4> &nbsp;</td>
@@ -63,7 +65,8 @@ Exped Synmat UL 7
 <td width="10%">2.1</td>
 <td width="10%">480</td>
 <td width="10%"><a href="http://www.hikeventures.com/deals/#evolite"><button class="btn btn-danger">Compare prices</button></a></td>
-</tr></table></div>`
+</tr></table></div>
+
 
 
 
