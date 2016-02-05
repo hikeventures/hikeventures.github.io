@@ -93,6 +93,7 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 ### Product Highlights
 * Fält Guide Glove
 * Army Leather Abisko
+* Ergo Grip Active
 
 ## Houdini
 <div class="embed-responsive embed-responsive-16by9">
@@ -128,6 +129,11 @@ This year we have been to the ISPO in Munich to create a series of videos where 
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jZtM9TqSz58?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
 </div>
 
+### Product Highlights
+* Fjorgyn
+* Brage
+* Skoll
+
 ## LifeStraw
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/f58qpBLo_U4?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
@@ -136,10 +142,21 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 ### Product Highlights
 * LifeStraw Personal
 
+## Light My Fire
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/f58qpBLo_U4?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
+</div>
+
+### Product Highlights
+*
+
 ## Lundhags
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ZeTPbkozsqU?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
 </div>
+
+### Product Highlights
+* Skare
 
 ## Marmot
 <div class="embed-responsive embed-responsive-16by9">
@@ -151,6 +168,16 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 * Women's Cheeky Pant
 * Marmot NanoPro
 
+## Malachowski
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/obPjD97BJcs?rel=0"></iframe>
+</div>
+
+### Product Highlights
+* Ultralight II 500
+* Ultralight II 300
+* Climber II Down Jacket
+
 ## Montane
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9rsU5Dqqj7Y?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
@@ -158,6 +185,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 
 ### Product Highlights
 * Featherlite Jacket 7D
+* Endurance Pro Jacket
+* Hi-Q Luxe Jacket
 
 ## NRS
 <div class="embed-responsive embed-responsive-16by9">
@@ -203,6 +232,25 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 
 ### Product Highlights
 * Panino Camera
+
+## Pajak
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/bLuzTa0XHg0?rel=0"></iframe>
+</div>
+
+### Product Highlights
+* Radical H16 sleeping bag
+* Phantom Jacket
+* Phantom Parka
+
+## Petzl
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UZziPhCDN48?rel=0"></iframe>
+</div>
+
+### Product Highlights
+* Petzl Reactik+
+* Petzl Nao+ Bluetooth
 
 ## Rab
 <div class="embed-responsive embed-responsive-16by9">
