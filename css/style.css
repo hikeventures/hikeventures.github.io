@@ -242,8 +242,12 @@ ul#menu li {
 // Post Next or Prev
 
 .left {
-    float: left;
+    text-align: left;
 }
 .right {
-    float: right;
+    text-align: right;
+}
+.left, .right {
+    display: inline-block;
+    width: 50%;
 }
