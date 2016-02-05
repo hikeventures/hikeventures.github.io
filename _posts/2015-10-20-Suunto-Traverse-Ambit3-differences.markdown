@@ -27,7 +27,7 @@ Personally, I like the new look of the Traverse (see picture above) more than th
 
 **Update 19.12.2015: **Suunto has released firmware 1.54 which brings GLONASS support to the Suunto Traverse - which means more accuracy of the GPS signals. However, I got a message on my Traverse that GLONASS will also consume more battery.
 
-**Update (7.1.2016):** Suunto has released the Suunto Ambit3 Vertical. <a href="http://www.hikeventures.com/deals/#Ambit3+Vertical">Ambit3 Vertical</button></a> if you are more into mountain running or Mountainbiking.
+**Update (7.1.2016):** Suunto has released the Suunto Ambit3 Vertical. <a href="http://www.hikeventures.com/deals/#Ambit3+Vertical">Ambit3 Vertical</a> if you are more into mountain running or Mountainbiking.
 
 ## Where to buy the Suunto?
 Compare prices [here](http://www.hikeventures.com/deals/#Suunto+Ambit3).
