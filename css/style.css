@@ -240,14 +240,18 @@ ul#menu li {
 
 
 // Post Next or Prev
-
-.left {
-    text-align: left;
+.page_nav {
+    display: block;
+    font-size: 14px;
+    overflow: hidden;
+    width: auto;
 }
-.right {
-    text-align: right;
-}
-.left, .right {
-    display: inline-block;
+.page_nav a {
+    display: block;
+    float: left;
+    margin: 1em 0;
     width: 50%;
+}
+.page_nav .next {
+    text-align: right;
 }
