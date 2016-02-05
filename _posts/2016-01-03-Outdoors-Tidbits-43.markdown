@@ -1,20 +1,22 @@
 ---
 layout: post
 title: Outdoors Tidbits 43
-date: 2016-01-03 19:29:01 +0300
+date: "2016-01-03 19:29:01 +0300"
 categories: tidbits
 published: true
-description: The latest outdoor gear reviews, tips & tricks - Nr. 43 - #OutdoorsTidbits
-keywords: Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews
-featured_image: https://farm2.staticflickr.com/1506/23321583314_a26354a959_b.jpg
+description: "The latest outdoor gear reviews, tips & tricks - Nr. 43 -"
+keywords: "Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews"
+featured_image: "https://farm2.staticflickr.com/1506/23321583314_a26354a959_b.jpg"
 ---
+
 *Did you know that King Tutankhamen’s sarcophagus was uncovered near Luxor in Egypt on January 3rd, 1924?*
 
 Temperatures have dropped to -10°C here in Finland and the last days we were working quite hard on new articles and also on our blog. We are already excited to visit the ISPO show in a few weeks in Munich. By the way, the Deliverance Team is organising a [packrafting gathering][1] in Sweden in May and [urbanpackrafter.com][2] has finally his own [Facebook page][3]. So drop by and follow him on Facebook. Want to share your packrafting trips with us and our readers? Add them to our [packrafting trips directory][4]. #OutdoorsTidbits 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/23321583314/in/dateposted-public/" title="witraż"><img src="https://farm2.staticflickr.com/1506/23321583314_a26354a959_b.jpg" width="1024" height="680" alt="witraż"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
 <!--more-->
----- 
+
+
 ## Gear Reviews
 A preview about the [Saunders Jetpacker Plus][5]
 
