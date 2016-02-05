@@ -17,7 +17,7 @@ Christmas is getting closer and we are looking forward to finalize our gear revi
 
 So what's next? In January we are planning to visit the <a href="http://www.nbe.fi/">nbeFinland</a> and the <a href="http://www.hikeventures.com/ispo-2015-review/">ISPO</a> in Munich where we have also been last year to get an update about the latest outdoor gear for our trips.
 
-> <strong><i class="fa fa-lg fa-clock-o"></i> History of Adventure:</strong> Did you know that on 17.12.1903 the first aircraft was flying a distance over 120 feet for 12 seconds?
+> <strong<i class="fa fa-lg fa-clock-o"</i History of Adventure:</strong Did you know that on 17.12.1903 the first aircraft was flying a distance over 120 feet for 12 seconds?
 
 
 ## Gear Reviews
