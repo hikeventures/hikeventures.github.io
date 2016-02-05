@@ -17,7 +17,7 @@ In this blog post you can find my favourite sleeping pads which are available in
 ## Deals or Full price?
 It's always a good idea to check if there are some deals available. You can try our [price comparison tool](http://www.hikeventures.com/deals/) to find the best price offered by several outdoor stores across the U.S. 
   
-<img src="https://farm6.staticflickr.com/5590/14925237036_4743bca2f4_b.jpg" width="1024" height="683" alt="Exped Synmat UL 7"></a>
+<img src="https://farm6.staticflickr.com/5590/14925237036_4743bca2f4_b.jpg" width="1024" height="683" alt="Exped Synmat UL 7">
 Exped Synmat UL 7
 
 <div class="table-responsive">
