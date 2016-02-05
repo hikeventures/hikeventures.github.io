@@ -53,6 +53,8 @@ Personally, I found my Therm-a-Rest NeoAir XTherm more comfortable than my EXPED
 
 However, the Therm-a-Rest NeoAir XTherm is a bit more expensive than the SYNMAT UL 7 M. What I like on the SYNMAT is that it is easy to inflate and deflate. For the Therm-a-rest it took me a couple of seconds longer because of the smaller valve compared to the EXPED. Since I found the Therm-a-Rest NeoAir XTherm a reference model for cold temperatures, I didn't include any other sleeping pads which are more heavy except the Therm-a-Rest EvoLite since it is a self-inflating pad for the warmer months.
 
+
+
 <div class="table-responsive">
 <table class="table">
 <tr>
