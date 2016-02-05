@@ -54,11 +54,9 @@ Survival shelters [handbook](http://blog.trailcooking.com/2015/12/17/book-review
 [Altra Olympus 2.0 Max Cushion Trail Shoe](http://trailtopeak.com/2015/12/13/gear-preview-altra-olympus-2-0-max-cushion-trail-shoe/)
 <br><br>
 [Dilling Merino Base Layer](https://www.hiking-blog.de/bekleidung/praxistest-dilling-funktionsunterwaesche-aus-merinowolle/) (in German)
-<br><br>
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=194281&amp;p=125311&amp;pw=150351&amp;ctc=tidbits&amp;open=_blank"></script>
-
 
 ## Tips & Tricks
+
 [Is Your Gear Weighing You Down When You Camp?](http://www.hikingforward.com/blog/is-your-gear-weighing-you-down-when-you-camp)
 <br><br>
 [Why and when to spend more on gear?](http://thebigoutside.com/why-and-when-to-spend-more-on-gear-part-2-rain-jackets-boots-and-sleeping-bags/)
