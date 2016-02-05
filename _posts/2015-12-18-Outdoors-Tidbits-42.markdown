@@ -56,7 +56,8 @@ Survival shelters [handbook](http://blog.trailcooking.com/2015/12/17/book-review
 [Dilling Merino Base Layer](https://www.hiking-blog.de/bekleidung/praxistest-dilling-funktionsunterwaesche-aus-merinowolle/) (in German)
 <br><br>
 <script type="text/javascript" src="//www.avantlink.com/link.php?ml=194281&amp;p=125311&amp;pw=150351&amp;ctc=tidbits&amp;open=_blank"></script>
-<br>
+
+
 ## Tips & Tricks
 [Is Your Gear Weighing You Down When You Camp?](http://www.hikingforward.com/blog/is-your-gear-weighing-you-down-when-you-camp)
 <br><br>
