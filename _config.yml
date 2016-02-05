@@ -19,7 +19,7 @@ author :
   googleplus: HikeVentures
   pinterest: hikeventures
 
-paginate: 1
+paginate: 2
 
 gems:
   - jekyll-archives

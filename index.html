@@ -33,7 +33,7 @@ layout: default
 
 
                                        <ul class="post-list">
-                                         {% for post in site.posts limit:1 %}
+                                         {% for post in site.posts limit:2 %}
                                            <li>
                                              <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -43,7 +43,7 @@ layout: default
                                              {{ post.excerpt }}<br>
                                            </li>
                                          {% endfor %}
-                                        
+
                                        </ul>
                                   </div>
 
