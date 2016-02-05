@@ -1,22 +1,25 @@
 ---
 layout: post
-title: "Outdoors Tidbits 42"
-date: 2015-12-18 06:00:01 +0300
+title: Outdoors Tidbits 42
+date: "2015-12-18 06:00:01 +0300"
 categories: tidbits
 published: true
-description: The latest outdoor gear reviews, tips & tricks - Nr. 42 - #outdoorstidbits
-keywords: Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews
-twitter_card:
-    image: https://farm9.staticflickr.com/8673/16347221659_3952a1c6de_b.jpg
+description: "The latest outdoor gear reviews, tips & tricks - Nr. 42 -"
+keywords: "Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews"
+twitter_card: 
+  image: "https://farm9.staticflickr.com/8673/16347221659_3952a1c6de_b.jpg"
 ---
+
 Christmas is getting closer and we are looking forward to finalize our gear reviews and trip reports during the holidays. We will publish articles about the MSR Windboiler and the Hubba Hubba NX, the Therm-a-rest Evolite, our hiking and packrafting trip in Japan, the Fjällräven Classic in Sweden and the continuation of <a href="http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/">Packrafting in the Swedish Mountains</a>. 
 <br><br>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/90204224@N07/16347221659/in/photolist-qUxMti-qUxMCM-rbV7gy-rbV7GU-rc1CbB-r9Hef3-qUzGQK-v6DD8n-qGQmse-q3hwoU-r9HdQA-r9HdZU-qUxN4g-rbV4BL-qffws2-qUzE8R-qUxNTH-rbRHKM-qHtRc2-qUxP2D-qWZDDU-qfcV5n-rc1DjZ-qUxKka-r9HayW-qUxPwM-qGRYcg-qUqAaj-qeZFSf-qUqAsU-qfcWc2-qUqwrC-rc1F5c-qeZGDf-qUqAQh-qUqBzd-qUzEbM-qfcXtF-q3uXXe-qSuGqw-rc1Fx6-rbVb1C-qUxL2v-r9KRpJ-qFsUGz-qUxRW6-qUrMdb-qeZAQ1-qUrFbG-qUrFf9" title="Lapland Finland"><img class="img-responsive" src="https://farm9.staticflickr.com/8673/16347221659_3952a1c6de_b.jpg" alt="Lapland Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><!--more-->
-<br><br>
+
+
 So what's next? In January we are planning to visit the <a href="http://www.nbe.fi/">nbeFinland</a> and the <a href="http://www.hikeventures.com/ispo-2015-review/">ISPO</a> in Munich where we have also been last year to get an update about the latest outdoor gear for our trips.
-<br>
+
 > <strong><i class="fa fa-lg fa-clock-o"></i> History of Adventure:</strong> Did you know that on 17.12.1903 the first aircraft was flying a distance over 120 feet for 12 seconds?
-<hr>
+
+
 ## Gear Reviews
 Julbo lens [comparison](http://trailtopeak.com/2015/12/17/gear-review-julbo-lens-comparison-for-the-spectron-4-zebra-photochromic-and-camel-photochromic/)
 <br><br>
