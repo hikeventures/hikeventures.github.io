@@ -9,8 +9,6 @@ keywords: Hiking, Backpacking, Outdoors, ISPO, interviews, 2016
 ---
 This year we have been to the ISPO in Munich to create a series of videos where we interviewed 31 outdoor brands about their latest product highlights for 2016. We have not done any video interviews in the past so this was an exciting opportunity to get more into videos and at the same time meet new people. Also new at the ISPO this year was that there was a dedicated lounge for bloggers. You can find the playlist of all of our ISPO 2016 videos [here](https://www.youtube.com/playlist?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM).
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/23970268173/in/dateposted-public/" title="ISPO 2016 in Munich #ISPO16"><img src="https://farm2.staticflickr.com/1577/23970268173_031cda2a3d_b.jpg" width="1024" height="897" alt="ISPO 2016 in Munich #ISPO16"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9mAEzVNPYEs?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
 </div>
