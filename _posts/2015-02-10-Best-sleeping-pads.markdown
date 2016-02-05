@@ -41,7 +41,7 @@ Exped Synmat UL 7
 <td width="10%"><a href="http://www.hikeventures.com/deals/#sea+to+summit+ultralight"><button class="btn btn-danger">Compare prices</button></a></td>
 </tr>
 
- <tr>
+<tr>
 <td width="70%"><h4>Therm-a-Rest NeoAir XTherm <span class="label label-danger">Editors Choice</span></h4></td>
 <td width="10%">5.7</td>
 <td width="10%">410</td>
