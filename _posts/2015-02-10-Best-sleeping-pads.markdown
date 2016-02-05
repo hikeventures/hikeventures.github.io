@@ -20,6 +20,53 @@ It's always a good idea to check if there are some deals available. You can try 
 <img src="https://farm6.staticflickr.com/5590/14925237036_4743bca2f4_b.jpg" width="1024" height="683" alt="Exped Synmat UL 7">
 Exped Synmat UL 7
 
+`<div class="table-responsive">
+<table class="table">
+<tr>
+<td width="70%"><h4>Model</h4> &nbsp;</td>
+<td width = "10%"><h4>R</h4> &nbsp;</td>
+<td width = "10%"><h4>Weight</h4> &nbsp;</td>
+<td width = "10%"></td>
+</tr>
+<tr>
+<td width="70%"><h4>Therm-a-Rest NeoAir XLite</h4></td>
+<td width="10%">3.2</td>
+<td width="10%">350</td>
+<td width="10%"><a href="http://www.hikeventures.com/deals/#neoair+xlite"><button class="btn btn-danger">Compare prices</button></a></td></tr>
+
+<tr>
+<td width="70%"><h4>Sea to Summit Ultralight</h4></td>
+<td width="10%">0.7</td>
+<td width="10%">355</td>
+<td width="10%"><a href="http://www.hikeventures.com/deals/#sea+to+summit+ultralight"><button class="btn btn-danger">Compare prices</button></a></td>
+</tr>
+
+<tr>
+<td width="70%"><h4>Therm-a-Rest NeoAir XTherm <span class="label label-danger">Editors Choice</span></h4></td>
+<td width="10%">5.7</td>
+<td width="10%">410</td>
+<td width="10%"><a href="http://www.hikeventures.com/deals/#neoair+xtherm"><button class="btn btn-danger">Compare prices</button></a></td>
+</tr>
+<tr>
+<td width="70%"><h4>Therm-a-Rest Z LITE SOL</td>
+<td width="10%">2.6</td>
+<td width="10%">410</td>
+<td width="10%">
+<a href="http://www.hikeventures.com/deals/#z+lite+sol"><button class="btn btn-danger">Compare prices</button></a></td></tr>
+<tr>
+<td width="70%"><h4>Exped Synmat UL 7</h4></td>
+<td width="10%">3.3</td>
+<td width="10%">450</td>
+<td width="10%"><a href="http://www.hikeventures.com/deals/#exped+synmat+ul+7"><button class="btn btn-danger">Compare prices</button></a></td>
+</tr><tr>
+<td width="70%"><h4>Therm-a-Rest EvoLite</h4></td>
+<td width="10%">2.1</td>
+<td width="10%">480</td>
+<td width="10%"><a href="http://www.hikeventures.com/deals/#evolite"><button class="btn btn-danger">Compare prices</button></a></td>
+</tr></table></div>`
+
+
+
 
 
 ## Factors determining the best sleeping pad
