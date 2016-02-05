@@ -13,6 +13,7 @@ In this blog post you can find my favourite sleeping pads which are available in
 
 <a href="https://www.flickr.com/photos/90204224@N07/9599003854" title="Best sleeping pads 2016"><img src="https://c1.staticflickr.com/3/2882/9599003854_415a4828f0_o.jpg" width="992" height="661" alt="Best sleeping pads in 2016"></a><a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/"></a><!--more-->
 
+
 ## Deals or Full price?
 It's always a good idea to check if there are some deals available. You can try our [price comparison tool](http://www.hikeventures.com/deals/) to find the best price offered by several outdoor stores across the U.S. 
   
