@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Outdoors Tidbits 46
-date: 2016-02-07 00:15:01 +0300
+date: 2016-02-08 08:15:01 +0300
 categories: tidbits
 published: false
 description: The latest outdoor gear reviews, tips & tricks - Nr. 46 - #OutdoorsTidbits
@@ -14,6 +14,7 @@ The last week we were very busy with uploading our <a href="http://www.hikeventu
 Don't forget to subscribe to our new [RSS feed](http://feedio.co/@hikeventures/feed "RSS"). #OutdoorsTidbits
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/23970266573/in/dateposted-public/" title="ISPO 2016 in Munich #ISPO16"><img src="https://farm2.staticflickr.com/1511/23970266573_3467042246_b.jpg" width="1024" height="768" alt="ISPO 2016 in Munich #ISPO16"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<!--more-->
 
 ## Gear Reviews
 <a href="http://feeds.feedblitz.com/~/136244943/0/sectionhikercom~LL-Bean-Primaloft-Superlight-Jacket-Review/">LL Bean Primaloft Superlight Jacket</a>
