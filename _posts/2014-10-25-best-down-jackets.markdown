@@ -71,16 +71,14 @@ More heavy than the other jackets in our list, the Arcteryx Ceres Jacket is made
  <a href="http://www.hikeventures.com/deals/#Ceres+Jacket"><button class="btn btn-danger">Compare prices</button></a><br><br>
 
 ## Other Down Jackets
-<div class="alert alert-success" role="alert"><h4> 4. Western Mountaineering Flash Jacket (850 fp)</h4></div>
+<div class="alert alert-success" role="alert"><h4> 4. Rab Zero G Jacket (1000 fp)</h4></div>
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00O85G9XA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00O85G9XA&linkCode=as2&tag=hikeve-20&linkId=T3YZSF3ZRC6WCK3I" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00O85G9XA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00O85G9XA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/>
+<strong>Weight:</strong> 309 grams<hr>
 
-<strong>Weight:</strong> 290 grams<hr>
-
-The Western Mountaineering Flash Jacket is a very good jacket for hiking trips in moderate cold conditions (spring and autumn). It's lightweight, has a good warmth-weight ratio and the full zipper have insulated draft protection.
+The Rab Zero G jacket is an ultralight model for alpinist and climbers. Rab told us at the ISPO in Munich that the Rab Zero G jacket is one of their highlights for this year.
 <br><br>
 
-<a href="http://www.hikeventures.com/deals/" onclick="location.href=this.href+'?key=Western Mountaineering Flash Jacket';return false;"><button class="btn btn-danger">Compare prices</button></a><br><br>
+<a href="http://www.hikeventures.com/deals/" onclick="location.href=this.href+'?key=Rab Zero G';return false;"><button class="btn btn-danger">Compare prices</button></a><br><br>
 <div class="alert alert-success" role="alert"><h4> 5. Marmot Quasar Hoody (900 fp)</h4></div>
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00DNNZ3KI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DNNZ3KI&linkCode=as2&tag=hikeve-20&linkId=UITTBILMF3IBYVRI"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DNNZ3KI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DNNZ3KI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
