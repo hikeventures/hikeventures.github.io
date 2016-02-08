@@ -5,8 +5,7 @@ date: "2014-09-02 12:57:50 +0300"
 comments: true
 author: Patrick
 published: true
-categories: 
-  - Gear Reviews
+categories: Gear Reviews
 description: More fun with your Packraft with a sail on it
 keywords: "WindPaddle, sail, packraft"
 twitter_card: "http://farm8.staticflickr.com/7362/9185822642_885736f24b_c.jpg"
