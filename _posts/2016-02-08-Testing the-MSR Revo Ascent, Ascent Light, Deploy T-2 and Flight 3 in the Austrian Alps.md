@@ -5,7 +5,9 @@ date: "2016-02-08 07:28:01 +0300"
 categories: gear
 description: "Testing the MSR Revo Ascent, Ascent Light, Deploy T-2 and Flight 3 in the Austrian Alps"
 keywords: "Alps, Hiking, Outdoors, Gear, review, MSR, revo ascent, revo lightning"
+title: "Testing the MSR Revo Ascent, Ascent Light, Deploy T-2 and Flight 3 in the Austrian Alps"
 ---
+
 
 
 
