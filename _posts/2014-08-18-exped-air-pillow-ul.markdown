@@ -3,8 +3,7 @@ layout: post
 title: Exped Air Pillow UL
 date: "2014-08-18 21:06:55 +0300"
 comments: true
-categories: 
-  - Gear Reviews
+categories: Gear Reviews
 description: "Ultralight air pillow for the great outdoors - Exped Air Pillow UL Review"
 keywords: "Hiking, Packrafting, Outdoors, Exped, Gear Reviews, Air Pillow UL"
 twitter_card: 
