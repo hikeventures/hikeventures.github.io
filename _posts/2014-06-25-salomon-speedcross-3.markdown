@@ -3,8 +3,7 @@ layout: post
 title: Salomon Speedcross 3
 date: "2014-06-25 21:47:02 +0300"
 comments: true
-categories: 
-  - Gear Reviews
+categories: Gear Reviews
 description: Ultralight Hiking and Trail Running boots with grip
 keywords: "Ultralight, Hiking, Boots, gear review"
 twitter_card: 
