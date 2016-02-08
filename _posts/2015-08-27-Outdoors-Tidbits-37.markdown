@@ -17,11 +17,6 @@ After returning from our trips in Sweden, Poland and Japan we need some time to 
 ## New Products
 <a href="http://amzn.to/1hIvRCI">Lowepro Photo Sport BP 200 AW II - Backpack</a> for mirrorless and compact DSLR Cameras.
 
-## Deals
-Up to 60% discount on outdoor gear at <a href="http://partner.bergfreunde.de/go.cgi?pid=10333&wmid=cc&cpid=1&target=http://www.bergfreunde.de/outlet/schlafsaecke/?listorderby=bfdiscountpercent&listorder=desc&&_$ja=tsid:52154">Bergfreunde.de</a>
-<a href="http://www.avantlink.com/click.php?tt=ml&amp;ti=470381&amp;pw=150351">Up to 25% off Black Diamond now through September 1st<img src="http://www.avantlink.com/tpv/13410/470381/125311/150351/-/ml/image.png" width="0" height="0" style="visibility: hidden; border: none !important; margin: 0px !important;" alt="" /></a>
-<a href="http://www.avantlink.com/click.php?tt=ml&amp;ti=23649&amp;pw=150351">MSR Sale! Tents, Stoves, and more up to 30% OFF! RockCreek.com.<img src="http://www.avantlink.com/tpv/10049/23649/125311/150351/-/ml/image.png" width="0" height="0" style="visibility: hidden; border: none !important; margin: 0px !important;" alt="" /></a>
-
 ## Tips and Tricks
 [Find the right fleece jacket](http://www.bergfreunde.de/basislager/kaufberatung-fleecejacke/)
 
