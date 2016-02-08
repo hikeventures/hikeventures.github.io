@@ -1,17 +1,20 @@
 ---
 layout: post
-title: "Backpack Gourmet"
-date: 2015-01-15 17:38:55 +0200
+title: Backpack Gourmet
+date: "2015-01-15 17:38:55 +0200"
 comments: true
-categories: ['books']
-description: Tired of ready made camping food? Prepare your dehydrated food at home
-keywords: Tidbits, Hiking, Packrafting, Outdoors, books, cooking
-twitter_card:
-    image: https://farm8.staticflickr.com/7580/16099407770_d6c98bbef0_b.jpg
+categories: 
+  - books
+description: "Tired of ready made camping food? Prepare your dehydrated food at home"
+keywords: "Tidbits, Hiking, Packrafting, Outdoors, books, cooking"
+twitter_card: 
+  image: "https://farm8.staticflickr.com/7580/16099407770_d6c98bbef0_b.jpg"
+published: true
 ---
-Having tried some of the ready made food packages to take on my hikes, I got interested to read more about preparing dehydrated backpacking food myself at home. Backpack Gourmet offers plenty of easy to follow recipes - some of them also suitable for vegetarians - and each recipe also contains the weight and servings and how to prepare the meals in the dehydrator.<br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16099407770"><img src="https://farm8.staticflickr.com/7580/16099407770_d6c98bbef0_b.jpg" width="1024" height="768"></a><br>
-<!--more--><br>
+
+Having tried some of the ready made food packages to take on my hikes, I got interested to read more about preparing dehydrated backpacking food myself at home. Backpack Gourmet offers plenty of easy to follow recipes - some of them also suitable for vegetarians - and each recipe also contains the weight and servings and how to prepare the meals in the dehydrator.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/16099407770" title="Backpack Gourmet"><img src="https://farm8.staticflickr.com/7580/16099407770_b3a5627190_b.jpg" width="1024" height="768" alt="Backpack Gourmet"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The book starts with tools needed to dehydrate and pack food at home and on how to prepare it on the field.
 
