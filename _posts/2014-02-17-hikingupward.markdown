@@ -4,8 +4,7 @@ title: HikingUpward
 date: "2014-02-17 19:04:47 +0200"
 comments: true
 author: HikingUpward
-categories: 
-  - Guest Posts
+categories: Guest Posts
 description: HikingUpward Blog Introduction
 keywords: "HikingUpward, blog"
 twitter_card: 
