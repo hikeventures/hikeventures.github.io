@@ -3,8 +3,7 @@ layout: post
 title: Last colours of autumn in Finland
 date: "2014-10-12 17:39:36 +0300"
 comments: true
-categories: 
-  - articles
+categories: articles
 description: Autumn in a Finnish Forest 2014
 keywords: "Hiking, Autumn, Outdoors, Photography"
 twitter_card: 
