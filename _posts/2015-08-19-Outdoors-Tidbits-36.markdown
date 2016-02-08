@@ -18,12 +18,6 @@ So what are our upcoming adventure plans? Next weeend Patrick is most likely tra
 [New backpacks from the North Face](http://neverstopexploring.com/2015/07/27/the-latest-on-backpacks-from-the-north-face/)
 [Sierra Designs Tent Preview](http://treelinebackpacker.com/2015/07/18/sierra-designs-2015-tent-preview-nightwatch)
 
-## Gear Deals
-<a href="<a href="http://www.avantlink.com/click.php?tt=ml&amp;ti=3638&amp;pw=150351" target="_blank">Up to 70% off at the Backcountry.com Outlet. Plus, free 2-day shipping on orders over $50.<img src="//www.avantlink.com/tpv/10060/3638/125311/150351/-/ml/image.png" width="0" height="0" style="visibility: hidden; border: none !important; margin: 0px !important;" alt="" /></a><br>
-<a href="http://www.avantlink.com/click.php?tt=ml&amp;ti=467001&amp;pw=150351" target="_blank">Get Up to 40% Off Camp &amp; Hike Sale at Eastern Mountain Sports! Shop ems.com Now!<img src="//www.avantlink.com/tpv/10785/467001/125311/150351/-/ml/image.png" width="0" height="0" style="visibility: hidden; border: none !important; margin: 0px !important;" alt="" /></a><br>
-<a href="http://www.avantlink.com/click.php?tt=ml&amp;ti=466166&amp;pw=150351">Semi Annual Sale, Up To 50% Off Select Products!<img src="//www.avantlink.com/tpv/11481/466166/125311/150351/-/ml/image.png" width="0" height="0" style="visibility: hidden; border: none !important; margin: 0px !important;" alt="" /></a><br>
-<a href="http://partner.bergfreunde.de/go.cgi?pid=10333&wmid=cc&cpid=1&target=http://www.bergfreunde.de/outlet/outdoor-bekleidung/?listorderby=bfdiscountpercent&listorder=desc&&&&_$ja=tsid:52154">Bergfreunde.de Summer Sale - Up to 50% on selected items</a>
-
 ## Tips
 [How to pack for a packraft day trip](http://blog.hyperlitemountaingear.com/roman_dial_packraft_day_trip/)
 [How to dry backpacks (in German)](http://www.bergfreunde.de/basislager/pflegeanleitung-rucksaecke/)
