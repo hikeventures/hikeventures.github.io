@@ -24,7 +24,8 @@ Alternatively, you may also consider the <a href="http://hikeventures.com/my-thr
 <a href="https://www.flickr.com/photos/90204224@N07/13711109764/"><img src="https://farm3.staticflickr.com/2838/13711109764_86af4edc31_b.jpg" width="1024" height="683" alt="Leatherman Style CS"></a>
 
 Leatherman Freestyle compared to the Leatherman Style CS.
-<a href="https://www.flickr.com/photos/90204224@N07/13710753023/" title="Leatherman STYLE CS><img src="https://farm8.staticflickr.com/7315/13710753023_b6ec78c86d_b.jpg" width="1024" height="683" alt="Leatherman STYLE CS"></a>
+
+<a href="https://www.flickr.com/photos/90204224@N07/13710753023/" title="Leatherman STYLE CS"><img src="https://farm8.staticflickr.com/7315/13710753023_b6ec78c86d_b.jpg" width="1024" height="683" alt="Leatherman STYLE CS">
 
 The carabiner is quite useful to attach the Leatherman Style CS for example on your backpack as small gear and tools can easily get lost on your hiking trip.
 
