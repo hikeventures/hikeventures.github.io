@@ -18,7 +18,7 @@ In the attached booklet the Astral YTF is classified as a Type V PDF which is sh
 <a href="https://www.flickr.com/photos/90204224@N07/14547384619"><img src="https://farm4.staticflickr.com/3910/14547384619_caa0b16b89_b.jpg" width="1024" height="683"></a>The Astral YTV contains a quick access knife tab for emergency situations.
 <a href="https://www.flickr.com/photos/90204224@N07/14730852171" title="Astral YTV"><img src="https://farm4.staticflickr.com/3894/14730852171_c8f0f57367_b.jpg" width="1024" height="683" alt="Astral YTV"></a>
 There are 2 front pockets where you can store e.g. keys or snacks.
-<a href="https://www.flickr.com/photos/90204224@N07/15503233709"><img src="https://farm6.staticflickr.com/5607/15503233709_a5022364f4_b.jpg" width="1024" height="683"></a>Astral logo on the back site of the YTV lifejacket.</center>
+<a href="https://www.flickr.com/photos/90204224@N07/15503233709"><img src="https://farm6.staticflickr.com/5607/15503233709_a5022364f4_b.jpg" width="1024" height="683"></a>Astral logo on the back site of the YTV lifejacket.
 I have used the Astral YTV on our packrafting trip in the <a href="http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/">Swedish mountains</a>. It was nice to paddle with it and the pockets were quite useful to store small snacks or my iPhone. Also you get a little bit more body protection than with the e.g. Secumar Vivio 50.
  
 ## Where to buy the Astral YTV PFD?
