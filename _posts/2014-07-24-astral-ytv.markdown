@@ -3,8 +3,7 @@ layout: post
 title: Astral YTV
 date: "2014-07-24 16:33:24 +0300"
 comments: true
-categories: 
-  - Gear Reviews
+categories: Gear Reviews
 description: PFD for Kayaking and Packrafting
 keywords: "PFD, Kayaking, Packrafting, life jacket, outdoors, gear review"
 twitter_card: 
