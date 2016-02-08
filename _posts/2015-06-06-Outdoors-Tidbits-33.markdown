@@ -4,7 +4,7 @@ title: Outdoors Tidbits 33
 date: "2015-06-06 08:30:01 +0200"
 comments: true
 categories: tidbits
-description: "The latest outdoor gear reviews, tips & tricks - Nr. 33 -"
+description: "The latest outdoor gear reviews, tips & tricks - Nr. 33"
 keywords: "Tidbits, Hiking, Packrafting, Outdoors, Photography, Gear Reviews"
 twitter_card: 
   image: "https://c1.staticflickr.com/1/267/17891393053_aa712e7470_o.png"
