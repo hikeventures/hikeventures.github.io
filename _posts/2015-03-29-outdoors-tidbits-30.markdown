@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Outdoors Tidbits 30
-date: 2015-03-29T07:56:19.000Z
+date: "2015-03-29T07:56:19.000Z"
 categories: tidbits
 description: "The latest outdoor gear reviews, tips & tricks - Nr. 30"
 keywords: "Tidbits, Hiking, Packrafting, Outdoors, Photography, Gear Reviews"
