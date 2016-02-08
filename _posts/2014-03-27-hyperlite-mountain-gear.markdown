@@ -5,13 +5,13 @@ date: "2014-03-30 08:18:00 +0200"
 comments: true
 published: true
 author: Hyperlite Mountain Gear
-categories: 
-  - Guest Posts
+categories: Guest Posts
 description: "Hyperlite Mountain Gear - Ultralight Backpacks"
 keywords: "Hyperlite Mountain Gear, HMG, Gear, Hiking, Climbing, Packrafting, Skiing"
 twitter_card: 
   image: "https://farm8.staticflickr.com/7050/13443837544_874a4b8c07_c.jpg"
 ---
+
 
 We design and manufacture premium, durable outdoor products for a range of adventures. The idea for the company began in 2008 when founder, Mike St. Pierre began modifying and designing his gear with a goal of reducing weight. As an outdoor enthusiast, he would escape the streets of New York City and head to the mountains every chance he had. By looking at both product design and the materials used in manufacturing he learned about Spectra, Dyneema, and Cuben Fiber (CTF³). He purchased some of these materials, built a prototype and <a href="http://www.hyperlitemountaingear.com" target="_blank">Hyperlite Mountain Gear</a> was born!
 
