@@ -3,8 +3,7 @@ layout: post
 title: Museums in Tuusula
 date: "2014-07-14 07:14:54 +0300"
 comments: true
-categories: 
-  - destinations
+categories: destinations
 description: Bicycle adventure around lake Tuusula and learning about Finnish culture
 keywords: "Finland, Tuusula, Bicycling, Museum, outdoors, Culture"
 twitter_card: 
