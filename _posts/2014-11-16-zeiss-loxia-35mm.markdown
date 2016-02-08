@@ -5,8 +5,7 @@ date: "2014-11-16 17:40:41 +0200"
 comments: true
 author: Patrick
 published: true
-categories: 
-  - Articles
+categories: Articles
 description: Evaluating if a Zeiss Loxia 35mm should be my new lens
 keywords: "Hiking, Sunset, Photography, finland, Zeiss, Loxia"
 twitter_card: null
