@@ -3,8 +3,7 @@ layout: post
 title: Leatherman Style CS
 date: "2014-04-08 08:34:58 +0200"
 published: true
-categories: 
-  - Gear Reviews
+categories: gear
 description: "Our Review for the Leatherman Style CS - outdoor tool"
 keywords: "Leatherman, Style CS, Gear Review, tool, Camping"
 twitter_card: 
