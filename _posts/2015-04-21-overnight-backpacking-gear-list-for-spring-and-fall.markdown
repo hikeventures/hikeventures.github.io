@@ -9,10 +9,11 @@ categories: articles
 published: true
 ---
 
-I have compiled a list with essential items which are on my backpacking gear list when going for an overnight hiking trip. This list is my personal list so you can add other items to the list as well if you feel that there is a need of having them on your own outdoor adventure. To see the list and the weight of each item click <a href="#list">here</a>. 
-<a href="https://www.flickr.com/photos/90204224@N07/8730115713"><img src="https://farm8.staticflickr.com/7376/8730115713_639c658b91_b.jpg" width="1024" height="683"></a><!--more-->
 
-##Considerations for a gear list
+I have compiled a list with essential items which are on my backpacking gear list when going for an overnight hiking trip. This list is my personal list so you can add other items to the list as well if you feel that there is a need of having them on your own outdoor adventure. To see the list and the weight of each item click <a href="#list">here</a>. 
+<a href="https://www.flickr.com/photos/90204224@N07/8730115713"><img src="https://farm8.staticflickr.com/7376/8730115713_639c658b91_b.jpg" width="1024" height="683"></a>
+
+## Considerations for a gear list
 * Duration of the trip (Day trip / overnight / self-supported expedition)
 * Mode of transportation/activity (On foot / biking / canoeing or kayaking)
 * Group size and composition (Solo / small group of friends / large group of strangers)
@@ -113,7 +114,7 @@ href="javascript: void 0" onclick="avPcwShowPopupFromSearch('Salomon XA Pro Mid 
 Preferably they should be fast drying. A synthetic/cotton fabric will dry fast and is still comfortable on the skin. The <a
 href="javascript: void 0" onclick="avPcwShowPopupFromSearch('Fjallraven Abisko trousers','search_results_count=5');">Fjallraven Abisko</a> trouser are my favourit pants. They are light, stretchy and perfect for hill walking.
 
-##<a name="list">Weight Gear List</a> 
+## <a name="list">Weight Gear List</a> 
 <table>
     <thead>
     <tr>
@@ -179,9 +180,4 @@ href="javascript: void 0" onclick="avPcwShowPopupFromSearch('Mountain Hardware G
     </tbody>
 </table>
 
- 
-
 That's it. Of course, depending on the time of the year your backpack will be more heavy. For example you could take a lighter sleeping pad or sleeping bag during the summer. Also there is no need to buy a 4 season tent if you don't go camping during the winter.
-
-Anything missing? Leave a comment below!
- 
