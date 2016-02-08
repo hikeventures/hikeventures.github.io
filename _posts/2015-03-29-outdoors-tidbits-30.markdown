@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Outdoors Tidbits 30
-date: {}
+date: 2015-03-29T07:56:19.000Z
 categories: tidbits
-description: "The latest outdoor gear reviews, tips & tricks - Nr. 30 -"
+description: "The latest outdoor gear reviews, tips & tricks - Nr. 30"
 keywords: "Tidbits, Hiking, Packrafting, Outdoors, Photography, Gear Reviews"
 twitter_card: 
   image: "https://farm9.staticflickr.com/8743/16732145327_10b4d24ef7_b.jpg"
@@ -19,8 +19,6 @@ Last week we read about the [Tamang Heritage Trail](https://michaelbrandeis1.wor
 [here](http://www.rockiesfamilyadventures.com/2015/03/summer-planning-where-to-camp-in.html) where to camp. Another post focused on the topic if people belong in the [backcountry](https://biodiversitytheblog.wordpress.com/2015/03/25/do-people-like-you-belong-in-the-backcountry/). A German blogger went with huskies through [Lapland](http://unserereisekiste.com/2015/03/22/mit-huskys-durch-lappland-teil-2). If you are interested into backpacking food then you can read about [food intolerances](http://carrotquinn.com/2015/03/22/basically-i-eat-potato-chips-thru-hiking-with-the-most-common-food-intolerances/)  and [hiker’s diet](http://www.thehikinglife.com/journal/2015/03/the-hikers-diet/) on your hike. There have also been some Appalachian [Trail Lessons](https://hikergirl86.wordpress.com/2015/03/23/appalachian-trail-lessons-2/) published as well as [MicroAdventure](http://lonewalker.net/march-microadventure/) during March. Another blogger hiked the 
 [Sawback Trail](http://besthike.com/2015/03/20/sawback-trail-banff-to-lake-louise/) from Banff National Park. Finally there are some tips for hiking in the [spring](https://georgiatomaine2013.wordpress.com/2015/03/20/10-tips-for-hiking-in-the-spring/), how to take care of your 
 [foot](http://blissfulhiking.blogspot.com/2015/03/foot-care.html) while on the trail and how to become a [better hiker](https://georgiatomaine2013.wordpress.com/2015/03/26/how-to-become-a-better-more-efficient-hiker/).
-
-<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=hikeve-20&o=1&p=48&l=ur1&category=warehouse&banner=0J2EZCY2WJBH8KXFSMG2&f=ifr&linkID=IBXGWLJOQED75JWO" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 
 ## Gear Reviews
 There has been some interesting reviews about backpacks like the [Kelty Catalyst 65](http://treelinebackpacker.com/2015/03/27/kelty-catalyst-65-backpack-review), [Granite Gear Boundary Campus](http://treelinebackpacker.com/2015/03/21/granite-gear-boundary-campus-backpack-review), the frameless [LAUFBURSCHE huckePACK](http://besthike.com/2015/03/23/the-frameless-laufbursche-huckepack/) or the [Crux AK37 pack](http://www.thealpinestart.com/2015/03/field-tested-crux-ak37-pack/).
