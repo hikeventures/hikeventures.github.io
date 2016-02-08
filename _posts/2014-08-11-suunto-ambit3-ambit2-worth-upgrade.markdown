@@ -1,20 +1,20 @@
 ---
 layout: post
-title: Suunto Ambit3 vs. Ambit2 - Worth to upgrade?
-date: 2014-08-11 16:43:23 +0300
+title: "Suunto Ambit3 vs. Ambit2 - Worth to upgrade?"
+date: "2014-08-11 16:43:23 +0300"
 comments: true
 categories: articles
-description: Great GPS watch gets even better! Upgrade to Ambit3 or stick with Ambit2?
-keywords: Hiking, Packrafting, Outdoors, Suunto, Ambit3, Ambit2, Upgrade, Climbing, Outdoors, GPS watch
-featured_image: https://farm8.staticflickr.com/7306/15913318153_e26043e992_b.jpg
+description: "Great GPS watch gets even better! Upgrade to Ambit3 or stick with Ambit2?"
+keywords: "Hiking, Packrafting, Outdoors, Suunto, Ambit3, Ambit2, Upgrade, Climbing, Outdoors, GPS watch"
+featured_image: "https://farm8.staticflickr.com/7306/15913318153_e26043e992_b.jpg"
+published: true
 ---
+
 GPS watches like the Ambit2 or Ambit3 are quite interesting gadgets if you want to track your route or if you want to plan your route ahead. In general, the only model I could think of which comes close to the Ambit3 is the Garmin Fenix 3 which has a colour display. However, to me the Ambit3 feels just more solid as a product and the Apple Watch does not have an integrated GPS. I use my Ambit3 mainly for running, packrafting and hiking and upgraded from the Ambit2 to the Ambit3 Sport.
 
 <a href="https://www.flickr.com/photos/90204224@N07/15913318153"><img src="https://farm8.staticflickr.com/7306/15913318153_e26043e992_b.jpg" width="1024" height="680"></a>
 
 Checking the altitude in [Finnish Lapland][1] with the Ambit3.
-
-<!--more-->
 
 **Update (20.10.2015):** Suunto has released the Traverse GPS watch. [Here][2] you can read what's different to the Ambit3.
 
@@ -126,7 +126,7 @@ With an <a href=“http://amzn.to/1qJjINv” rel=“nofollow”>external battery
 
 ## Where to buy the Suunto Ambit3
 
-  Have a look here: <a href="http://www.hikeventures.com/deals/#Suunto+Ambit3”><button class="btn btn-danger">Compare prices</button></a>
+  Have a look here: <a href="http://www.hikeventures.com/deals/#Suunto+Ambit3"><button class="btn btn-danger">Compare prices</button></a>
 
 With an <a href="http://amzn.to/1qJjINv" rel="nofollow">external battery</a> you can also charge the Suunto Ambit when you are outdoors.
 
