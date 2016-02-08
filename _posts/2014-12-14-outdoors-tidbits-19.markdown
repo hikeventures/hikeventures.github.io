@@ -5,7 +5,7 @@ date: "2014-12-14 16:27:38 +0200"
 comments: true
 author: Patrick
 categories: tidbits
-description: "The latest outdoor gear reviews, tips & tricks - Nr. 19 -"
+description: "The latest outdoor gear reviews, tips & tricks - Nr. 19"
 keywords: "Tidbits, Hiking, Packrafting, Outdoors, Photography, Gear Reviews"
 published: true
 ---
