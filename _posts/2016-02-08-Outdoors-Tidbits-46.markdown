@@ -10,7 +10,9 @@ keywords: "Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews"
 
 
 *07.02.1984 - The first human satellite.*
+
 The last week we were very busy with uploading our <a href="http://www.hikeventures.com/ISPO-2016-interviews/">30 outdoor brands interviews</a> from the ISPO. Currently, we are also working on an article about our snowshoeing day in Montafon (Austria) where we enjoyed the sunny Alps after running around in the ISPO for 3 days.
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/23970266573/in/dateposted-public/" title="ISPO 2016 in Munich #ISPO16"><img src="https://farm2.staticflickr.com/1511/23970266573_3467042246_b.jpg" width="1024" height="768" alt="ISPO 2016 in Munich #ISPO16"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <!--more-->
 
