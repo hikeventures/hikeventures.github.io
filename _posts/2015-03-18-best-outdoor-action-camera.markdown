@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Best Outdoor Action Camera for 2016 - GoPro vs. Sony"
-date: {}
+date: "2016-03-18 07:28:01 +0300"
 comments: true
-categories: 
-  - Articles
+categories: Articles
 description: "Which Action Camera? GoPro Hero 4 vs. Sony FDR-X1000V"
 keywords: "action, camera, 2016, Gear, Hiking, Climbing, Packrafting, GoPro Hero 4, Sony FDR-X1000V, 4K"
 twitter_card: 
   image: "https://www.flickr.com/photos/90204224@N07/14989210509"
 published: true
 ---
+
 
 For our packrafting adventures I am always looking for the latest action camera developments for 205 / 2016. Obviously, there are two models which are currently hot on the market - the GoPro Hero 4 and the Sony FDR-X1000V. Now the questions evolved which of those two action cameras should be a replacement for our old GoPro Hero 3+. <a href="https://www.flickr.com/photos/90204224@N07/14989210509"><img src="https://farm4.staticflickr.com/3914/14989210509_5843d64fd7_o.jpg" width="640" height="640" ></a><!--more--> 
 
