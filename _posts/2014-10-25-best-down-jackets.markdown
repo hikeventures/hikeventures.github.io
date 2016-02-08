@@ -91,7 +91,7 @@ The Rab Zero G jacket is an ultralight model for alpinist and climbers. Rab told
 The Marmot Quasar Hoody is also an interesting jacket with it's high down fill power covered by light Pertex Quantum fabric (similar as other models in our list) which makes it also somewhat water repellent. The additional zip on the front adds a little bit more weight to the jacket. We would wear the Marmot Quasar Hoody during moderate winter or camping during spring and summer.
 <br><br>
 
- <a href="http://www.hikeventures.com/deals/#GMarmot+Quasar+Hoody"><button class="btn btn-danger">Compare prices</button></a><br><br>>
+ <a href="http://www.hikeventures.com/deals/#GMarmot+Quasar+Hoody"><button class="btn btn-danger">Compare prices</button></a><br><br>
 
 <div class="alert alert-success" role="alert"><h4> 6. Arcteryx Cerium SV Hoody (850 fp)</h4></div>
 
