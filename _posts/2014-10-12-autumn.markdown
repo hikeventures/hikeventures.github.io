@@ -1,35 +1,24 @@
 ---
 layout: post
-title: "Last colours of autumn in Finland"
-date: 2014-10-12 17:39:36 +0300
+title: Last colours of autumn in Finland
+date: "2014-10-12 17:39:36 +0300"
 comments: true
-categories: ['articles']
+categories: 
+  - articles
 description: Autumn in a Finnish Forest 2014
-keywords: Hiking, Autumn, Outdoors, Photography
-twitter_card:
-    image: https://farm6.staticflickr.com/5587/14773390709_6c5d65f06f_c.jpg
+keywords: "Hiking, Autumn, Outdoors, Photography"
+twitter_card: 
+  image: "https://farm6.staticflickr.com/5587/14773390709_6c5d65f06f_c.jpg"
+published: true
 ---
-Today, I went into the forest with my camera to capture the last colours of autumn for this year. There are not many leafs left on the trees and temperatures are dropping. <br><br>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15515022052" title="Autumn Forrest Finland"><img src="https://farm4.staticflickr.com/3934/15515022052_94a162682e_b.jpg" width="1024" height="683" alt="Autumn Forrest Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>Today, I went into the forest with my camera to capture the last colours of autumn for this year. There are not many leafs left on the trees and temperatures are dropping. 
 <a href="https://www.flickr.com/photos/90204224@N07/15515018692" ><img src="https://farm4.staticflickr.com/3947/15515018692_68f83d0069_c.jpg" width="800" height="534"></a>
-<!--more-->
-<a href="https://www.flickr.com/photos/90204224@N07/15492248716" ><img src="https://farm3.staticflickr.com/2948/15492248716_24b618d4a7_c.jpg" width="800" height="534"></a>
-<br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/15328676080" ><img src="https://farm4.staticflickr.com/3952/15328676080_f512efde36_c.jpg" width="800" height="534"></a>
-<br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/15492249206" ><img src="https://farm3.staticflickr.com/2948/15492249206_85155d4138_c.jpg" width="800" height="534"></a>
-<br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/15512261751" ><img src="https://farm3.staticflickr.com/2948/15512261751_7aeb7c287c_c.jpg" width="800" height="534"></a>
-<br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/15512261851" ><img src="https://farm6.staticflickr.com/5610/15512261851_745fc2bfc0_c.jpg" width="800" height="534"></a>
-<br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/15492250426" ><img src="https://farm4.staticflickr.com/3934/15492250426_16eeda5081_c.jpg" width="800" height="534"></a>
-<br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/15328753858" ><img src="https://farm4.staticflickr.com/3932/15328753858_c812585bd1_c.jpg" width="800" height="534"></a>
-<br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/15515421845" ><img src="https://farm6.staticflickr.com/5602/15515421845_c0096ffd07_c.jpg" width="800" height="534"></a>
-<br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/15328836937" ><img src="https://farm4.staticflickr.com/3930/15328836937_3d9a3b35fc_c.jpg" width="800" height="534"></a>
-<br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/15515422125" ><img src="https://farm3.staticflickr.com/2950/15515422125_356c5f2f91_c.jpg" width="800" height="534"></a>
-<br><br>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15515421845" title="Autumn Forrest Finland"><img src="https://farm6.staticflickr.com/5602/15515421845_ae9c5ab96e_b.jpg" width="1024" height="683" alt="Autumn Forrest Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15328836937" title="Autumn Forrest Finland"><img src="https://farm4.staticflickr.com/3930/15328836937_009f73b1df_b.jpg" width="1024" height="683" alt="Autumn Forrest Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15515422125" title="Autumn Forrest Finland"><img src="https://farm3.staticflickr.com/2950/15515422125_b85efbf43d_b.jpg" width="1024" height="683" alt="Autumn Forrest Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 <a href="https://www.flickr.com/photos/90204224@N07/15515022052" ><img src="https://farm4.staticflickr.com/3934/15515022052_963b687a53_c.jpg" width="800" height="534"></a>
