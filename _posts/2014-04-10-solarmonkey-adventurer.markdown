@@ -42,7 +42,3 @@ So far, I have tested the Solarmonkey Adventurer with my iphone and my Sony A7r 
 <strong>Update 21.06.2014:</strong> After some testing, I was not able to charge my iphone up to 100% if the battery of the Solar panel is charged with the Solar panels. I received a replacement and need to test the device again. Will write an update as soon as possible.
 
 <a href="https://www.flickr.com/photos/90204224@N07/13913979456/" ><img src="https://farm8.staticflickr.com/7164/13913979456_20e1c44af1_b.jpg" width="1024" height="683" alt="Powertraveller Solarmonkey Adventurer"></a>
-
-## Where to buy the Solarmonkey Adventurer?
-<script type="text/javascript" src="http://www.avantlink.com/api.php?module=ProductSearch&affiliate_id=125311&website_id=150351&merchant_ids&search_results_sort_order=Retail+Price|asc&output=js&search_results_count=1&search_results_layout=list&search_results_fields=|Merchant+Name|Product+Name|Retail+Price&search_term=Powertraveller"></script>
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B007ZN9B9Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007ZN9B9Q&linkCode=as2&tag=hikeve-20&linkId=4HWW4LHRTV36W77F"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007ZN9B9Q&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B007ZN9B9Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.
