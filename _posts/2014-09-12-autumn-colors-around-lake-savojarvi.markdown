@@ -1,16 +1,18 @@
 ---
 layout: post
 title: Autumn colors around lake Savojärvi
-date: 2014-09-12 19:17:19 +0300
+date: "2014-09-12 19:17:19 +0300"
 comments: true
 categories: destinations
 description: Hiking on an autumn day in Kurjenrahka National Park
-keywords: Hiking, Outdoors, Finland, Kurjenrahka, Savojärvi
-featured_image: https://farm3.staticflickr.com/2937/14106344644_b739c8232e_b.jpg
+keywords: "Hiking, Outdoors, Finland, Kurjenrahka, Savojärvi"
+featured_image: "https://farm3.staticflickr.com/2937/14106344644_b739c8232e_b.jpg"
+published: true
 ---
+
 Today I went hiking to the Kurjenrahka National Park in Finland which is located around 30 km north of Turku -  a heaven for mushroom lovers!
 
-<a href="https://www.flickr.com/photos/90204224@N07/15030582219" title="Kurjenrahka National Park"><img src="https://farm4.staticflickr.com/3900/15030582219_51eee48e66_b.jpg" width="1024" height="683" alt="hiking in Kurjenrahka National Park"></a><!--more-->
+<a href="https://www.flickr.com/photos/90204224@N07/15030582219" title="Kurjenrahka National Park"><img src="https://farm4.staticflickr.com/3900/15030582219_51eee48e66_b.jpg" width="1024" height="683" alt="hiking in Kurjenrahka National Park"></a>
 
 I parked my car at Kurjenpesä where I found an information board about the National Park.
 
@@ -93,4 +95,4 @@ Finally, I found the ultimate mushroom spot on the whole trail.
 To sum up, this was a great hike and I will come back another time in order to explore the Takaniitunvuori outlook and Vajosuo.
 
 ## Links
-Kurjenrahka National Park on \<a href="http://www.outdoors.fi/destinations/nationalparks/kurjenrahka/Pages/Default.aspx"\>Outdoors.fi\</a\>
+Kurjenrahka National Park on <a href="http://www.outdoors.fi/destinations/nationalparks/kurjenrahka/Pages/Default.aspx">Outdoors.fi</a>
