@@ -21,7 +21,7 @@ Palace of Culture and Science built from 1952 - 1955 with a height of 231m.
 
 View from my flight to Poland from a Finnair plane.
 
-<img src="https://farm1.staticflickr.com/353/18981000474_14652a558f_o.jpg" width="992" height="1323" alt="Finland - Poland Finnair Flight"></a>
+<img src="https://farm1.staticflickr.com/353/18981000474_14652a558f_o.jpg" width="992" height="1323" alt="Finland - Poland Finnair Flight">
 
 ## Poznan
 I have only spent 3 days in Poznan but enjoyed the Market Square with it's Restaurants which are reasonable priced. On Saturdays it's possible to get free entrance at the museums as well so he managed to visit the National Museum and the City Museum of Poznan which I liked a lot. Worth to visit are also the St. Stanislaus Church (see picture below) and the Franciscan Church which are situated in the city centre as well.
