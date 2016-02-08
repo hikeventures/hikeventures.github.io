@@ -8,6 +8,7 @@ keywords: "Alps, Hiking, Outdoors, Gear, review, MSR, revo ascent, revo lightnin
 title: "Testing the MSR Revo Ascent, Ascent Light, Deploy T-2 and Flight 3 in the Austrian Alps"
 ---
 
+
 After the ISPO in Munich we went to Gaschurn in Austria to test our MSR Lightning Ascent and MSR Revo snowshoes as well as the MSR Flight 2 and MSR Deploy TR-2 poles in the Alps.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24251024054/in/dateposted-public/" title="Snowshoeing in Montafon, Vorarlberg in Austria"><img src="https://farm2.staticflickr.com/1624/24251024054_9304c6c7b9_b.jpg" width="1024" height="681" alt="Snowshoeing in Montafon, Vorarlberg in Austria"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -71,7 +72,7 @@ We also received snowshoe bags from MSR, which were specially designed to carry 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24511606389/in/dateposted-public/" title="Snowshoeing in Montafon, Vorarlberg in Austria"><img src="https://farm2.staticflickr.com/1628/24511606389_a700bb80f2_b.jpg" width="681" height="1024" alt="Snowshoeing in Montafon, Vorarlberg in Austria"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-However, if you are planning to take additional items with you on your snowshoeing trip  you should rather consider getting a bigger backpack as there are no bigger compartments on the backpack to carry additional gear (with exception of a small zipped pocket on the outside and special space for the flotation tails inside. 
+However, if you are planning to take additional items with you on your snowshoeing trip  you should rather consider getting a bigger backpack as there are no bigger compartments on the backpack to carry additional gear (with exception of a small zipped pocket on the outside and special space for the flotation tails inside). 
 
 In general, we were satisfied with the MSR snowshoeing gear and we would recommend it to anyone planning a snowshoeing trip with light but quality stuff. We will continue testing our snowshoes and poles on our future trips and share our further impressions and experiences in the update to this article.
 
