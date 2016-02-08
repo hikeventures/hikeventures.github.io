@@ -1,16 +1,17 @@
 ---
 layout: post
-title: "Best RSS feed Reader for Outdoor Bloggers"
-date: 2015-03-29T19:31:48+03:00
+title: Best RSS feed Reader for Outdoor Bloggers
+date: {}
 comments: true
 categories: articles
-description: Need a new RSS reader? Here is a list with the best RSS Reader for Outdoor Bloggers.
-keywords: RSS, Reader, Hiking, Packrafting, Outdoors, Photography
-twitter_card:
-    image: https://farm9.staticflickr.com/8698/16969404015_2b1aab47b7_b.jpg
+description: "Need a new RSS reader? Here is a list with the best RSS Reader for Outdoor Bloggers."
+keywords: "RSS, Reader, Hiking, Packrafting, Outdoors, Photography"
+twitter_card: 
+  image: "https://farm9.staticflickr.com/8698/16969404015_2b1aab47b7_b.jpg"
+published: true
 ---
+
 Today, I was searching and comparing some RSS reader which would be suitable for my RSS feeds which I have subscribed from other hiking and outdoor blogs to read on my Macbook. I was especially interested to find a reader which is fast and makes reading feeds simple and easy. Maybe some sort of intelligent search function to find or sort feeds according to certain keywords would be interesting too. 
-<a href="https://www.flickr.com/photos/90204224@N07/16969404015"><img src="https://farm9.staticflickr.com/8698/16969404015_2b1aab47b7_b.jpg" width="775" height="201" alt="rss"></a><!--more--> 
 
 ## Reader 2
 Reader 2 is probably the best reader out there but also sets you back with roughly 10 EUR in the Apple App Store. You can find more infos about Reader 2 [here](http://reederapp.com/mac/). In general you can select different Themes, Gestures and there is support for different sharing and workflow services. However, I couldn't find any information if the reader supports Zappier in case you would need a certain workflow support. 
