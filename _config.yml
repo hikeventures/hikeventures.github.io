@@ -3,7 +3,7 @@
 permalink: /:title/
 highlighter: rouge
 markdown: kramdown
-#excerpt_separator: <!--more-->
+excerpt_separator: <!--more-->
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
