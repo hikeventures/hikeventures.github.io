@@ -23,7 +23,7 @@ In 2011, HMG was selected as one of the winners of a contest sponsored by Google
 
 We continue to expand our product range and material choices to meet the demands our customers who are pushing the edge of lightweight adventures.
 
-<center><a href="https://www.flickr.com/photos/90204224@N07/13443578193"><img src="https://farm6.staticflickr.com/5052/13443578193_581014bb72_c.jpg" width="800" height="600" alt="Hperlite Mountain Gear"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/13443578193"><img src="https://farm6.staticflickr.com/5052/13443578193_581014bb72_c.jpg" width="800" height="600" alt="Hperlite Mountain Gear"></a>
 
 ## Our Mission
 Our Mission is to be the 'Leaders in Lightweight’ ™, by embracing innovations in materials technology and a shift to a simpler, refined approach to how you go in to the outdoors.  <a href="http://www.hyperlitemountaingear.com" target="_blank">HMG</a> is committed to conducting the exhaustive research and development that is required to make lightweight gear that is durable and comfortable, contributing to the increased enjoyment of your sport.
