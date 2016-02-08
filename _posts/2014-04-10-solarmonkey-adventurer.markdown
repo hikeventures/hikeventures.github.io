@@ -15,8 +15,8 @@ The Powertraveller Solarmonkey Adventurer is my new solar charging device for my
 <a href="https://www.flickr.com/photos/90204224@N07/13937097045/" ><img src="https://farm3.staticflickr.com/2935/13937097045_2defb0f541_b.jpg" width="1024" height="683" alt="Powertraveller Solarmonkey Adventurer"></a>
 
 <div class="block">
-<a href="https://www.flickr.com/photos/90204224@N07/13913955861/" ><img src="https://farm8.staticflickr.com/7202/13913955861_e082b58204_b.jpg" width="1024" height="683" alt="Powertraveller Solarmonkey Adventurer"></a><br>
-The Solarmonkey Adventurer has a 2500 mAh lithium-ion polymer battery, which is 4 times less than the <a href="http://hikeventures.com/how-to-charge-your-batteries-when-you-are-outdoors/" target="_self">Anker Astro 3E</a> but with the possibility to recharge the battery every day e.g. by attaching it on my backpack during the day.<br><br>
+<a href="https://www.flickr.com/photos/90204224@N07/13913955861/" ><img src="https://farm8.staticflickr.com/7202/13913955861_e082b58204_b.jpg" width="1024" height="683" alt="Powertraveller Solarmonkey Adventurer"></a>
+The Solarmonkey Adventurer has a 2500 mAh lithium-ion polymer battery, which is 4 times less than the <a href="http://hikeventures.com/how-to-charge-your-batteries-when-you-are-outdoors/" target="_self">Anker Astro 3E</a> but with the possibility to recharge the battery every day e.g. by attaching it on my backpack during the day.
 <a href="https://www.flickr.com/photos/90204224@N07/13913961561/"><img src="https://farm4.staticflickr.com/3708/13913961561_100ac6009e_b.jpg" width="1024" height="683" alt="Powertraveller Solarmonkey Adventurer"></a>
 
 ## Features
@@ -38,7 +38,7 @@ The Solar Panel seems to work quite to some extend and charges the battery if th
 
 So far, I have tested the Solarmonkey Adventurer with my iphone and my Sony A7r and it charges my devices to some degree. If you need more battery capacity then you could either go for the Solarmonkey Extreme or just get the Solarmonkey Adventurer and buy a seperate battery like the new <a href="http://amzn.to/1ijqER1" target="_blank">Anker Astro 2</a> or <a href="http://amzn.to/1iWleWN" target="_blank">Anker Astro Pro</a> with capacities up to 20.000 mAh (not tested if it works but should be no issue).
 
-<strong>Update 21.06.2014:</strong> After some testing, I was not able to charge my iphone up to 100% if the battery of the Solar panel is charged with the Solar panels. I received a replacement and need to test the device again. Will write an update as soon as possible.<br><br>
+<strong>Update 21.06.2014:</strong> After some testing, I was not able to charge my iphone up to 100% if the battery of the Solar panel is charged with the Solar panels. I received a replacement and need to test the device again. Will write an update as soon as possible.
 <a href="https://www.flickr.com/photos/90204224@N07/13913979456/" ><img src="https://farm8.staticflickr.com/7164/13913979456_20e1c44af1_b.jpg" width="1024" height="683" alt="Powertraveller Solarmonkey Adventurer"></a>
 
 ## Where to buy the Solarmonkey Adventurer?
