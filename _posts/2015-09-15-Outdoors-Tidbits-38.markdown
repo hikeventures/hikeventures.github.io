@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Outdoors Tidbits 38
-date: {}
+date: "2016-09-15 07:28:01 +0300"
 categories: tidbits
 published: true
 description: "The latest outdoor gear reviews, tips & tricks - Nr. 38"
@@ -9,6 +9,7 @@ keywords: "Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews"
 twitter_card: 
   image: "https://farm1.staticflickr.com/362/19544901016_f6e069b724_b.jpg"
 ---
+
 
 
 Currently, we are busy writing gear reviews and trip reports which we will publish soon on HikeVentures. Next weekend we will participate in the second Finnish Packrafting Gathering in Finland which is organized by <a href="http://korpijaakko.com">korpijaakko.com</a>. Patrick has been there <a href="http://www.hikeventures.com/first-finnish-packrafting-gathering/">last year</a> already and even so the weather will be probably quite bad this year we are quite excited and looking forward to meet all the other packrafters. After the Finnish Packrafting Gathering Konstantin will travel to Norway for another Packrafting adventure.
