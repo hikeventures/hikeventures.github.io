@@ -20,7 +20,9 @@ Layering your clothing properly is also important when going packrafting. In thi
 And here is what you see on the picture above:
 
 ## Base Layer
+
 ### Icebreaker Men's Anatomica Briefs
+
 The [Icebreaker Men's Anatomica briefs](http://bit.ly/14qhD2v) keeps me warm even if they get wet as they are made of Merino Wool. I highly recommend them. Usually, I take 2 of them on my adventures.<br><br>
 <div id="pcwContent1"></div>
 <script type="text/javascript">
@@ -28,7 +30,9 @@ avPcwShowInlineFromSearch('pcwContent1', 'Icebreaker Anatomica Briefs', 'search_
 </script>
 
 ## Insulation
+
 ### Devold Expedition
+
 Devold Expedition [shirt](http://amzn.to/1uwNTKV) and [Long johns](http://www.amazon.de/gp/product/B00BN5MSAQ) are made of 90% Merino wool and 10% Polyamid for longer durability and faster drying time.
 
 ### Fleece
@@ -43,7 +47,9 @@ avPcwShowInlineFromSearch('pcwContent2', 'Smartwool PhD Outdoor Ultralight Mini 
 </script>
 
 ## Shell
+
 ### Neoprene Dry Gloves
+
 Currently, I am using the [Neoprene dry gloves](http://www.packrafting-store.de/Clothing/Neopren-dry-glove::381.html) but I am planning to exchange them most likely with the [Palm Pro Gloves](http://www.palmequipmenteurope.com/product/pro) as me and Konstantin faced some durability issues with the Neoprene dry gloves.
 
 ### Latex Socks and Sandals
