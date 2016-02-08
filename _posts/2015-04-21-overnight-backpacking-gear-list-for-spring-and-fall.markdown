@@ -100,17 +100,17 @@ href="javascript: void 0" onclick="avPcwShowPopupFromSearch('MC-2G Global Naviga
 ## Long Merino Underwear, gloves and cap
 I always take merino pants and a merino long sleeve shirt with me. Usually, I wear it in my sleeping bag or if the temperature drops unexpectedly low. Also I take a light cap or gloves with me especially during spring and autumn hikes.
 
-##Valid ID
+## Valid ID
 If you are planning to cross borders a valid ID and if necessary a visa for the country you are planning to visit should be in your backpack.
 
-##Insurance
+## Insurance
 A travel insurance which covers you if something happens. Make sure that your insurance also covers hiking activities. 
 
-##Hiking Boots
+## Hiking Boots
 Light hiking boots e.g. the <a
 href="javascript: void 0" onclick="avPcwShowPopupFromSearch('Salomon XA Pro Mid GTX Hiking Boots','search_results_count=5');">Salomon XA Pro Mid GTX Hiking Boots</a>
 
-##Hiking pants and shirts
+## Hiking pants and shirts
 Preferably they should be fast drying. A synthetic/cotton fabric will dry fast and is still comfortable on the skin. The <a
 href="javascript: void 0" onclick="avPcwShowPopupFromSearch('Fjallraven Abisko trousers','search_results_count=5');">Fjallraven Abisko</a> trouser are my favourit pants. They are light, stretchy and perfect for hill walking.
 
