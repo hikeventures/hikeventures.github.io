@@ -52,5 +52,5 @@ Sierra Designs DriDown Hoody Review. - <a href="http://treelinebackpacker.com/20
 Nemo Veda 2P Review. - <a href="http://treelinebackpacker.com/2014/09/24/nemo-veda-2p-review" target="_blank">treelinebackpacker.com</a>
 The 35-Piece Ultimate Survival Kit. - <a href="http://www.outsideonline.com/outdoor-adventure/outdoor-skills/survival/The-Ultimate-Apocalypse-Ready-Kit.html" target="_blank">outsideonline.com
 </a>
-<iframe src="//player.vimeo.com/video/106441988" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></a>
+<iframe src="//player.vimeo.com/video/106441988" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 Photo Essay: <a href="http://www.canoekayak.com/photos/wildest-corner" target="_blank">Packrafting Wyoming’s Absaroka Range
