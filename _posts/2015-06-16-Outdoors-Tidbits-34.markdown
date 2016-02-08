@@ -1,17 +1,19 @@
 ---
 layout: post
-title: "Outdoors Tidbits 34"
-date: 2015-06-16T11:22:51+03:00
+title: Outdoors Tidbits 34
+date: 2015-06-16T08:22:51.000Z
 categories: tidbits
-description: The best blog articles about hiking, backpacking and packrafting 34.
-keywords: Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews
-twitter_card:
-    image: https://c2.staticflickr.com/6/5479/9596226393_34ba3b93fb_b.jpg
+description: "The best blog articles about hiking, backpacking and packrafting 34"
+keywords: "Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews"
+twitter_card: 
+  image: "https://c2.staticflickr.com/6/5479/9596226393_34ba3b93fb_b.jpg"
+published: true
 ---
-This week has been quite busy for us, planning and arranging things for our upcoming trips in the next 2 months. In July we are going to have some adventures in Poland. Konstantin will then continue with a 3 weeks packrafting and hiking adventure in Japan. Once back from Japan we will participate in the Fjällräven Classic event in Sweden in August followed by a couple of days packrafting in the Swedish mountains most likely together with the <a href="http://deliveranceteam.outdrr.com">The Deliverance Team</a> and <a href="http://urbanpackrafter.com">Urbanpackrafter</a>.<br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/9596226393"><img src="https://c2.staticflickr.com/6/5479/9596226393_34ba3b93fb_b.jpg" width="1024" height="683"></a><!--more-->
 
-##Gear reviews
+This week has been quite busy for us, planning and arranging things for our upcoming trips in the next 2 months. In July we are going to have some adventures in Poland. Konstantin will then continue with a 3 weeks packrafting and hiking adventure in Japan. Once back from Japan we will participate in the Fjällräven Classic event in Sweden in August followed by a couple of days packrafting in the Swedish mountains most likely together with the <a href="http://deliveranceteam.outdrr.com">The Deliverance Team</a> and <a href="http://urbanpackrafter.com">Urbanpackrafter</a>.
+<a href="https://www.flickr.com/photos/90204224@N07/9596226393"><img src="https://c2.staticflickr.com/6/5479/9596226393_34ba3b93fb_b.jpg" width="1024" height="683"></a>
+
+## Gear reviews
 [Thermarest Auriga Down Blanket Review](http://treelinebackpacker.com/2015/06/12/thermarest-auriga-down-blanket-review)
 
 [Oboz Switchback Hiking Shoes](http://thebigoutside.com/gear-review-oboz-switchback-hiking-shoes/)
@@ -32,7 +34,7 @@ This week has been quite busy for us, planning and arranging things for our upco
 
 [MSR Reactor Stove](https://climbinggearreviewsuk.wordpress.com/2015/06/05/msr-reactor-stove/)
 
-##Tips and Tricks
+## Tips and Tricks
 [Air Travel Tips for Hikers and Backpackers](http://toddthehiker.com/2015/06/12/air-travel-tips-for-hikers-and-backpackers)
 
 [5 Kinds of Hiking Footwear for Every Kind of Adventure.](http://outdoorsymama.blogspot.com/2015/06/5-kinds-of-hiking-footwear-for-every.html)
@@ -41,7 +43,7 @@ This week has been quite busy for us, planning and arranging things for our upco
 
 [Im Alleingang nach Irland und Schottland](http://fraeulein-draussen.de/als-frau-alleine-nach-irland-schottland/)
 
-##Trip Reports
+## Trip Reports
 [Packrafting Canyonlands: Part II heather](http://www.justacoloradogal.com/2015/06/packrafting-canyonlands-part-ii.html)
 
 [Urwaldsteig Edersee Alexander Wolf](http://outdoorfever.de/urwaldsteig-edersee/)
