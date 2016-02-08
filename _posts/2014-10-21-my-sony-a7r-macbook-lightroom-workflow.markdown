@@ -12,6 +12,7 @@ twitter_card:
 published: true
 ---
 
+
 Today, I would like to present my current workflow using the Sony A7r and Lightroom on my Macbook Air, which is currently the lightest system to operate a full frame camera also on remote places.<br><br>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/14974078843" title="Macbook &amp; WD Passport &amp; Samsung M3"><img src="https://farm6.staticflickr.com/5611/14974078843_b427b11339_b.jpg" width="1024" height="683" alt="Macbook &amp; WD Passport &amp; Samsung M3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -36,5 +37,5 @@ After importing my files, I start sorting my pictures in [Adobe Lightroom](http:
 
 Finally, I save the new metadata and Lightroom adds the data to an XMP sidecar file on each picture. During the export process in Lightroom I also attach a watermark on my pictures which I then upload to flickr (not all of them). Now I am ready to use my new pictures on my blog projects. To be on the safe side, I also backup my data via Time Machine on a second [WD Passport](http://amzn.to/1FxfPTy) hard drive.
 
-##Conclusion
+## Conclusion
 There are several ways to transfer your files and work with them. The process described above is just my personal preference. Lightroom works perfectly fine on a Macbook Air as long as you store the Lightroom Catalogue and the smart preview files on a SSD drive in case you have a huge Lightroom Catalogue as I have.
