@@ -3,8 +3,7 @@ layout: post
 title: Backpack Gourmet
 date: "2015-01-15 17:38:55 +0200"
 comments: true
-categories: 
-  - books
+categories: books
 description: "Tired of ready made camping food? Prepare your dehydrated food at home"
 keywords: "Tidbits, Hiking, Packrafting, Outdoors, books, cooking"
 twitter_card: 
