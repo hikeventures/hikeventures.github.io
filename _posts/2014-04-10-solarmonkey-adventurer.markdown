@@ -4,7 +4,7 @@ title: Solarmonkey Adventurer
 date: "2014-04-15 16:33:34 +0200"
 comments: true
 published: true
-categories: Gear Reviews
+categories: gear
 description: Powertraveler Solar Monkey Adventurer Panel Review
 keywords: "Powertraveler, Solar Monkey, Adventurer, Solar Panel, Gear Reviews, Hiking, Climbing, Packrafting"
 twitter_card: 
@@ -15,7 +15,7 @@ The Powertraveller Solarmonkey Adventurer is my new solar charging device for my
 
 <a href="https://www.flickr.com/photos/90204224@N07/13937097045/" ><img src="https://farm3.staticflickr.com/2935/13937097045_2defb0f541_b.jpg" width="1024" height="683" alt="Powertraveller Solarmonkey Adventurer"></a>
 
-<div class="block">
+
 <a href="https://www.flickr.com/photos/90204224@N07/13913955861/" ><img src="https://farm8.staticflickr.com/7202/13913955861_e082b58204_b.jpg" width="1024" height="683" alt="Powertraveller Solarmonkey Adventurer"></a>
 The Solarmonkey Adventurer has a 2500 mAh lithium-ion polymer battery, which is 4 times less than the <a href="http://hikeventures.com/how-to-charge-your-batteries-when-you-are-outdoors/" target="_self">Anker Astro 3E</a> but with the possibility to recharge the battery every day e.g. by attaching it on my backpack during the day.
 <a href="https://www.flickr.com/photos/90204224@N07/13913961561/"><img src="https://farm4.staticflickr.com/3708/13913961561_100ac6009e_b.jpg" width="1024" height="683" alt="Powertraveller Solarmonkey Adventurer"></a>
