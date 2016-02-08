@@ -5,8 +5,7 @@ date: "2014-11-15 16:11:42 +0200"
 comments: true
 author: Patrick
 published: true
-categories: 
-  - Articles
+categories: Articles
 toc: true
 description: How to layer your clothing when you go packrafting
 keywords: "Hiking, Packrafting, insulation, clothing, layering"
