@@ -3,8 +3,7 @@ layout: post
 title: Do It Review
 date: "2014-02-19 18:22:24 +0200"
 author: Do It Review
-categories: 
-  - Guest Posts
+categories: Guest Posts
 description: Do It Review Blog Introduction
 toc: true
 keywords: "Do It Review, Hiking, outdoors, blog"
