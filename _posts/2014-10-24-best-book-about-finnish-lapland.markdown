@@ -16,7 +16,7 @@ twitter_card:
 Lapland is definitely a place worth to visit if you are into Hiking / Bakpacking or Packrafting. However, it's also good to know the history, nature and culture if you are planning to visit a new hiking destination. For Finnish Lapland I would definitely recommend you the Crossbill Guide for Finnish Lapland including Kuusamo.
 
 <a href="https://www.flickr.com/photos/90204224@N07/15430108147"><img src="https://c2.staticflickr.com/4/3950/15430108147_52328005db_b.jpg" width="1024" height="683"></a>
-<!--more-->
+
 When I was searching for a good book about Finnish Lapland, I found it quite hard to find a good book which is dedicated to hiking and available in English. The main ressource I use for my trips  in Finland is usually <a href="http://www.outdoors.fi" target="_blank">Outdoors.fi</a> also due to the lack of good books in this field available in English.
 
 The book has been published by the <a href="http://www.crossbillguides.com/" target="_blank">Crossbill Guides Foundation</a> in the Netherlands together with <a href="http://www.metsa.fi" target="_blank">Metsähallitus</a> in Finland, WILDGuides, KNNV Publishing and Saxifraga foundation. Metsähallitus is a state owned organization in Finland which is responsible for the National Parks and also operates the <a href="http://www.outdoors.fi" target="_blank">Outdoors.fi</a> website. So the data in the book seems to come from a reliable source.
