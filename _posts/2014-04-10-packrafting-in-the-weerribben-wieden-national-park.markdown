@@ -184,5 +184,7 @@ After lunch we went north towards Kleine Belterweijde and then east along the Sc
 
 ## Links
 <a href="http://www.np-weerribbenwieden.nl/node/26" target="_blank">Werribben Wieden webpage (only in Dutch)</a>
+
 <a href="http://www.movescount.com/moves/move29237082" target="_blank">Movescount GPS Data day 1</a>
+
 <a href="http://www.movescount.com/moves/move29237087" target="_blank">Movescount GPS Data day 2</a>
