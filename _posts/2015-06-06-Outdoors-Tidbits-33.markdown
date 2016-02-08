@@ -1,20 +1,22 @@
 ---
 layout: post
-title: "Outdoors Tidbits 33"
-date: 2015-06-06 08:30:01 +0200
+title: Outdoors Tidbits 33
+date: "2015-06-06 08:30:01 +0200"
 comments: true
 categories: tidbits
-description: The latest outdoor gear reviews, tips & tricks - Nr. 33 - #outdoorstidbits
-keywords: Tidbits, Hiking, Packrafting, Outdoors, Photography, Gear Reviews
-twitter_card:
-    image: https://c1.staticflickr.com/1/267/17891393053_aa712e7470_o.png
+description: "The latest outdoor gear reviews, tips & tricks - Nr. 33 -"
+keywords: "Tidbits, Hiking, Packrafting, Outdoors, Photography, Gear Reviews"
+twitter_card: 
+  image: "https://c1.staticflickr.com/1/267/17891393053_aa712e7470_o.png"
+published: true
 ---
 
+
 The next days you are going to read about a trip to the Aland Islands and about a review of hiking pants on our blog which we have already promised a while ago. We have also invested in new action camera gear which we are going to use on our trips this year. On <a href="https://instagram.com/hikeventure/">Instagram</a> we have reached 1000 followers and we would like to thank everyone who is following our HikeVentures. 
-<br><br>
+
 <a href="https://www.flickr.com/photos/90204224@N07/17891393053" title="Brompton bike in National Park Netherlands"><img src="https://c1.staticflickr.com/1/267/17891393053_aa712e7470_o.png" width="640" height="640" alt="Brompton bike in National Park Netherlands"></a><!--more-->
 
-##Articles
+## Articles
 [10 Bear Safety Tips for Hikers and Backpackers](http://feedproxy.google.com/~r/PlayOutsideGuide/~3/eQK2Aa-XXos/10-bear-safety-tips-for-hikers-and.html)
 
 [7 Pieces of Gear That You Must Carry With You at All Times While Climbing](http://www.greatoutdoorz.com/7-pieces-of-gear-that-you-must-carry-with-you-at-all-times-while-climbing/)
@@ -27,7 +29,7 @@ The next days you are going to read about a trip to the Aland Islands and about 
 
 [Backcountry Navigation: Compass Basics](http://wildernessdave.com/backcountry-navigation-compass-basics/)
 
-##Gear Reviews
+## Gear Reviews
 [Marmot Crux Jacket Ultralight Rain Shell](http://thebigoutside.com/review-marmot-crux-jacket-ultralight-rain-shell/)
 
 [BioLite Camping Stove](http://jcjustcamping.com/biolite-camping-stove-review)
