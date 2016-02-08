@@ -1,16 +1,17 @@
 ---
 layout: post
 title: Outdoors Tidbits 35
-date: {}
+date: 2015-07-18T08:00:06.000Z
 categories: tidbits
-description: "The latest outdoor gear reviews, tips & tricks - Nr. 35 -"
+description: "The latest outdoor gear reviews, tips & tricks - Nr. 35"
 keywords: "Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews"
 twitter_card: 
   image: "https://c2.staticflickr.com/6/5479/9596226393_34ba3b93fb_b.jpg"
 published: true
 ---
 
-After our hiking and packrafting trip in Poland, Konstantin went off to his honeymoon in Japan where he and his wife are currently hiking in the Japanese Mountains and also testing some gear for our upcoming reviews. I am currently preparing for our trip to Sweden in 2 weeks. The plan is to go to Northern Sweden on the 4th by train and arrive in Kiruna on the 5th. Then we are going to check out some packrafting opportunities or relax a bit until the 9th where we will participate in Fjällräven Classic followed by some packrafting days after the event till 17th of August. Just thinking of which dehydrated food I should take with me and how many memory cards  I should pack for our GoPro Hero4 black ...<br><br>
+After our hiking and packrafting trip in Poland, Konstantin went off to his honeymoon in Japan where he and his wife are currently hiking in the Japanese Mountains and also testing some gear for our upcoming reviews. I am currently preparing for our trip to Sweden in 2 weeks. The plan is to go to Northern Sweden on the 4th by train and arrive in Kiruna on the 5th. Then we are going to check out some packrafting opportunities or relax a bit until the 9th where we will participate in Fjällräven Classic followed by some packrafting days after the event till 17th of August. Just thinking of which dehydrated food I should take with me and how many memory cards  I should pack for our GoPro Hero4 black ...
+
 <img src="https://farm1.staticflickr.com/394/19564205862_16344bb3ca_b.jpg" width="992" height="744" alt="Hiking in Poland">
 
 ## Trip Reports  && Tipps
