@@ -5,8 +5,7 @@ date: "2014-02-15 18:33:40 +0200"
 comments: true
 author: ZPacks
 toc: true
-categories: 
-  - Guest Posts
+categories: Guest Posts
 description: ZPacks Introduction
 keywords: "ZPacks, Gear, Hiking"
 twitter_card: 
