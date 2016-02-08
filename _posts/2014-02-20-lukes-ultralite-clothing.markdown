@@ -4,8 +4,7 @@ title: Lukes Ultralite Clothing
 date: "2014-02-20 17:12:37 +0200"
 comments: true
 author: Lukes Ultralite Clothing
-categories: 
-  - Guest Posts
+categories: Guest Posts
 description: Lukes Ultralite Clothing Introduction
 keywords: "Lukes Ultralite Clothing, Hiking, ultralight, clothing"
 twitter_card: 
