@@ -24,7 +24,7 @@ Pertex Quantum helps to protect the down from moisture.
 
 <a href="https://www.flickr.com/photos/90204224@N07/13923255586/" ><img src="https://farm3.staticflickr.com/2924/13923255586_a3c087e9f8_b.jpg" width="1024" height="683" alt="Cumulus Panyam 450"></a>
 
-The cord on the hood lets the sleeping bag snug around your face and keeps you warm.<br
+The cord on the hood lets the sleeping bag snug around your face and keeps you warm.
 
 <a href="https://www.flickr.com/photos/90204224@N07/13923257936/" ><img src="https://farm3.staticflickr.com/2900/13923257936_6d3b2dd948_b.jpg" width="1024" height="683" alt="Cumulus Panyam 450"></a>
 <figcaption><br>The Cumulus Panyam 450 comes with a meshbag to store it at home.<br><br>
