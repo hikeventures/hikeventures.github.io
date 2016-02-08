@@ -1,18 +1,20 @@
 ---
 layout: post
-title: Thule Atmos X3 Review - Brings the iPhone 6 outdoors
-date: 2015-05-23 06:45:07 +0300
+title: "Thule Atmos X3 Review - Brings the iPhone 6 outdoors"
+date: "2015-05-23 06:45:07 +0300"
 comments: true
 categories: gear
 description: Protect your iPhone on your adventures.
-keywords: thule, atmos x3,iphone, case, Gear, Camping, Outdoors, Hiking, Packrafting, Backpacking
-featured_image: https://c4.staticflickr.com/8/7684/17801901680_2b6055e8d4_o.jpg
+keywords: "thule, atmos x3,iphone, case, Gear, Camping, Outdoors, Hiking, Packrafting, Backpacking"
+featured_image: "https://c4.staticflickr.com/8/7684/17801901680_2b6055e8d4_o.jpg"
+published: true
 ---
+
 In the middle of January this year I got my new iPhone 6, put it in the Thule Atmos X3 case and has hardly taken it out of it again and here comes a short review. Thus paired, this happy couple has hardly ever left my side for the last four months – from the white emptiness of Finnish Lapland to the meandering rivers in the Belgian Ardennes they have showed me the way and helped me to document all my hiking and packrafting adventures. And here is why. 
 
 <a href="https://www.flickr.com/photos/90204224@N07/17801901680"><img src="https://c4.staticflickr.com/8/7684/17801901680_2b6055e8d4_o.jpg" width="1024" height="680" alt="Thule Atmos X3"></a><!--more-->
 
-> Update 17.12.2015: The Thule Atmos X5 has been released. The X5 is waterproof compared to the X3. Have a look \<a href="http://amzn.to/1OxoOpe"\>here\</a\>.
+> Update 17.12.2015: The Thule Atmos X5 has been released. The X5 is waterproof compared to the X3. Have a look <a href="http://amzn.to/1OxoOpe">here</a>.
 
 I am an iPhone person. I have not always been one, but due to lots of problems with my HTC, which died on me almost immediately after its warranty lapsed, and a lucky coincidence when a friend of mine gave me her old iPhone 3s for my birthday, I was introduced to the world of iPhones and the convenience of using them. With a myriad of easily-installable free apps, my iPhone allowed me to do things that I could not previously do. And taking and post-processing pictures was one of them. 
 
@@ -60,4 +62,4 @@ This all may change very soon as I have heard that Thule is planning to release 
 My verdict – even though Atmos X3 has its limitations (especially when dealing with it on the water - check the the new <a href="http://www.hikeventures.com/deals/#thule+x5">Thule X5</a> if you need a waterproof solution), it is definitely something that I would recommend. Eventually it was one of the main reasons why I made up my mind to upgrade to iPhone 6.
 
 ## Where to buy the Thule Atmos X3
-Have a look here:  <a href="http://www.hikeventures.com/deals/#Thule+Atmos+X3“><button class="btn btn-danger">Compare prices</button></a>
+Have a look here:  <a href="http://www.hikeventures.com/deals/#Thule+Atmos+X3"><button class="btn btn-danger">Compare prices</button></a>
