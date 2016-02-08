@@ -3,8 +3,7 @@ layout: post
 title: "Poznan, Wrocław, Jawor and Wałbrzych"
 date: "2015-07-12 21:45:07 +0300"
 comments: true
-categories: 
-  - destinations
+categories: destinations
 description: Exploring culture in Poznan and Slesia.
 keywords: "Poland, Slesia, Wrocław, Warsaw, castle, tourism, travel"
 twitter_card: 
