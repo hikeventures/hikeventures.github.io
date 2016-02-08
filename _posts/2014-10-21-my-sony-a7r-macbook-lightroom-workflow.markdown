@@ -5,7 +5,7 @@ date: "2014-10-21 19:10:36 +0300"
 comments: true
 author: Patrick
 categories: Articles
-description: "Got an A7r? See how I manage my files!"
+description: "Got an A7r? See how I manage my files"
 keywords: "Gear, Photography, Macbook, Lightroom"
 twitter_card: 
   image: "https://farm4.staticflickr.com/3845/14948191975_22d526f0f7_c.jpg"
