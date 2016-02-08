@@ -14,7 +14,7 @@ After our hiking and packrafting trip in Poland, Konstantin went off to his hone
 
 <img src="https://farm1.staticflickr.com/394/19564205862_16344bb3ca_b.jpg" width="992" height="744" alt="Hiking in Poland">
 
-## Trip Reports  && Tipps
+## Trip Reports  & Tipps
 [Hetta-Pallas-Hetta](http://ainaylamaki.blogspot.com/2015/07/hetta-pallas-hetta.html)
 
 [Norfolk’s River Wensum – with packraft](https://benswaterytravels.wordpress.com/2015/07/17/norfolks-river-wensum-with-packraft/)
