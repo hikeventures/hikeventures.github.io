@@ -1,8 +1,8 @@
 ---
-published: false
+published: true
 layout: post
-date: "2016-02-08 06:28:01 +0300"
-categories: tidbits
+date: "2016-02-08 07:28:01 +0300"
+categories: gear
 description: "Testing the MSR Revo Acent, Ascent Light, Deploy T-2 and Flight 3 in the Austrian Alps"
 keywords: "Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews"
 ---
