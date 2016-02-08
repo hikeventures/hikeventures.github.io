@@ -4,8 +4,7 @@ title: Solarmonkey Adventurer
 date: "2014-04-15 16:33:34 +0200"
 comments: true
 published: true
-categories: 
-  - Gear Reviews
+categories: Gear Reviews
 description: Powertraveler Solar Monkey Adventurer Panel Review
 keywords: "Powertraveler, Solar Monkey, Adventurer, Solar Panel, Gear Reviews, Hiking, Climbing, Packrafting"
 twitter_card: 
