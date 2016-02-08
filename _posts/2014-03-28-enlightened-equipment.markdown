@@ -3,8 +3,7 @@ layout: post
 title: Enlightened Equipment
 date: "2014-04-02 17:39:39 +0200"
 author: Enlightened Equipment
-categories: 
-  - Guest Posts
+categories: Guest Posts
 description: Introduction of Enlightened Equipment
 keywords: "backpacking, Outdoors, Hiking, Gear, Camping, Enlightened Equipment"
 twitter_card: 
