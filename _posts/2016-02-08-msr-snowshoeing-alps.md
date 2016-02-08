@@ -4,7 +4,7 @@ layout: post
 date: "2016-02-08 07:28:01 +0300"
 categories: gear
 description: "Testing the MSR Revo Acent, Ascent Light, Deploy T-2 and Flight 3 in the Austrian Alps"
-keywords: "Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews"
+keywords: "Alps, Hiking, Outdoors, Gear, review, MSR, revo ascent, revo lightning"
 ---
 
 After the ISPO in Munich we went to Gaschurn in Austria to test our MSR Lightning Ascent and MSR Revo snowshoes as well as the MSR Flight 2 and MSR Deploy TR-2 poles in the Alps.
