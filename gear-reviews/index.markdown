@@ -132,7 +132,7 @@ published: true
         
         
         <tr style="background:#EEEEEE;">
-        	<td><strong>Snowshoeing Gear</strong></td><td></td><td></td></tr>
+        	<td><strong>Snowshoeing</strong></td><td></td><td></td></tr>
         <tr>
 
             <td><a href="/Testing-the-MSR-Revo-Ascent,-Ascent-Light,-Deploy-T2-and-Flight-3-in-the-Austrian-Alps/">MSR Revo Ascent</a></td>
