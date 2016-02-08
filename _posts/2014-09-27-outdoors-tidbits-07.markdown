@@ -3,7 +3,7 @@ layout: post
 title: Outdoors Tidbits 7
 date: "2014-09-27 06:18:04 +0300"
 categories: tidbits
-description: "The latest outdoor gear reviews, tips & tricks - Nr. 7 -"
+description: "The latest outdoor gear reviews, tips & tricks - Nr. 7"
 keywords: "Tidbits, Hiking, Packrafting, Outdoors, Photography, Gear Reviews"
 twitter_card: 
   image: "https://farm9.staticflickr.com/8350/8198552930_97346916a8_c.jpg"
