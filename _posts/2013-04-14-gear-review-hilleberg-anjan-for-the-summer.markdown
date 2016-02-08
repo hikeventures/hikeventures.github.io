@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Hilleberg Anjan
-date: 2013-04-14 10:54
+date: "2013-04-14 10:54"
 comments: true
 categories: gear
 description: Hillebergs three season tent.  The Anjan Tent Review.
-keywords: Hilleberg,  Anjan, Gear, review, tent
-featured_image: https://farm9.staticflickr.com/8541/8648026950_c0f7a5fdac_b.jpg
+keywords: "Hilleberg,  Anjan, Gear, review, tent"
+featured_image: "https://farm9.staticflickr.com/8541/8648026950_c0f7a5fdac_b.jpg"
+published: true
 ---
+
 A couple of months ago, I was looking for a new tent which I can use during my planned hikes in Sweden and Finland and for other backpacking, packrafting and camping trips.  After some field testing I am now able to write a short review about my experiences with the Hilleberg Anjan 2 which I found to be one of the best 3-season tunnel tents.
 
 <a href="https://www.flickr.com/photos/90204224@N07/8648026950" title="Hilleberg Anjan 2 "><img src="https://farm9.staticflickr.com/8541/8648026950_c0f7a5fdac_b.jpg" width="600" alt="Hilleberg Anjan 2"></a><br>
@@ -54,6 +56,6 @@ The Hilleberg Anjan tent seems to be the perfect 3 season tent. It is easy to se
 In the picture below you can see Konstantin preparing his packraft on our one week <a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/">trip</a> in Northern Sweden. In our backpack we also had our Hilleberg Anjan with us. There are as good as no shelters and having a reliable tent was a must for us. The Anjan did quite well!
 
 ## Where to buy the Hilleberg Anjan tent?
-Have a look here:  <a href="http://www.hikeventures.com/deals/#Hilleberg+Anjan”><button class="btn btn-danger">Compare prices</button></a> 
+Have a look <a href="http://www.hikeventures.com/deals/#Hilleberg+Anjan”>here</a>.
 
 What is your experience with the Hilleberg Anjan 2? Leave a comment below.
