@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Outdoors Tidbits 46
-date: 2016-02-08 08:15:01 +0300
+date: "2016-02-08 05:28:01 +0300"
 categories: tidbits
-published: false
-description: The latest outdoor gear reviews, tips & tricks - Nr. 46 - #OutdoorsTidbits
-keywords: Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews
+published: true
+description: "The latest outdoor gear reviews, tips & tricks - Nr. 46"
+keywords: "Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews"
 ---
+
 *07.02.1984 - The first human satellite.*
 
 The last week we were very busy with uploading our <a href="http://www.hikeventures.com/ISPO-2016-interviews/">30 outdoor brands interviews</a> from the ISPO. Currently, we are also working on an article about our snowshoeing day in Montafon (Austria) where we enjoyed the sunny Alps after running around in the ISPO for 3 days.
