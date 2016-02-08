@@ -1,24 +1,26 @@
 ---
 layout: post
-title: "Outdoors Tidbits 35"
-date: 2015-07-18T11:00:06+03:00
+title: Outdoors Tidbits 35
+date: {}
 categories: tidbits
-description: The latest outdoor gear reviews, tips & tricks - Nr. 35 - #outdoorstidbits
-keywords: Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews
-twitter_card:
-    image: https://c2.staticflickr.com/6/5479/9596226393_34ba3b93fb_b.jpg
+description: "The latest outdoor gear reviews, tips & tricks - Nr. 35 -"
+keywords: "Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews"
+twitter_card: 
+  image: "https://c2.staticflickr.com/6/5479/9596226393_34ba3b93fb_b.jpg"
+published: true
 ---
-After our hiking and packrafting trip in Poland, Konstantin went off to his honeymoon in Japan where he and his wife are currently hiking in the Japanese Mountains and also testing some gear for our upcoming reviews. I am currently preparing for our trip to Sweden in 2 weeks. The plan is to go to Northern Sweden on the 4th by train and arrive in Kiruna on the 5th. Then we are going to check out some packrafting opportunities or relax a bit until the 9th where we will participate in Fjällräven Classic followed by some packrafting days after the event till 17th of August. Just thinking of which dehydrated food I should take with me and how many memory cards  I should pack for our GoPro Hero4 black ...<br><br>
-<img src="https://farm1.staticflickr.com/394/19564205862_16344bb3ca_b.jpg" width="992" height="744" alt="Hiking in Poland"><!--more-->
 
-##Trip Reports  && Tipps
+After our hiking and packrafting trip in Poland, Konstantin went off to his honeymoon in Japan where he and his wife are currently hiking in the Japanese Mountains and also testing some gear for our upcoming reviews. I am currently preparing for our trip to Sweden in 2 weeks. The plan is to go to Northern Sweden on the 4th by train and arrive in Kiruna on the 5th. Then we are going to check out some packrafting opportunities or relax a bit until the 9th where we will participate in Fjällräven Classic followed by some packrafting days after the event till 17th of August. Just thinking of which dehydrated food I should take with me and how many memory cards  I should pack for our GoPro Hero4 black ...<br><br>
+<img src="https://farm1.staticflickr.com/394/19564205862_16344bb3ca_b.jpg" width="992" height="744" alt="Hiking in Poland">
+
+## Trip Reports  && Tipps
 [Hetta-Pallas-Hetta](http://ainaylamaki.blogspot.com/2015/07/hetta-pallas-hetta.html)
 
 [Norfolk’s River Wensum – with packraft](https://benswaterytravels.wordpress.com/2015/07/17/norfolks-river-wensum-with-packraft/)
 
 [Do you know where your down comes from?](http://treelinebackpacker.com/2015/07/11/do-you-know-where-your-down-comes-from-new-standards-in-down)
 
-##Gear Reviews
+## Gear Reviews
 [Camelbak Chute Water Bottle](http://www.goadventuremom.com/2015/07/review-camelbak-chute-water-bottle/)
 
 [Scarpa R-evolution GTX Boots](http://thebigoutside.com/gear-review-scarpa-r-evolution-gtx-boots/)
