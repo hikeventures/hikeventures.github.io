@@ -4,8 +4,7 @@ title: polychromeLAB Alta Quota
 date: "2014-04-14 21:09:26 +0200"
 comments: true
 published: true
-categories: 
-  - Gear Reviews
+categories: gear
 description: "polychromeLAB Alta Quota - High Tech Outdoor Jacket from Italy"
 keywords: "polychromeLAB, Alta Quota, Reviews, Hiking, Climbing, Packrafting, Skiing, waterproof"
 twitter_card: 
