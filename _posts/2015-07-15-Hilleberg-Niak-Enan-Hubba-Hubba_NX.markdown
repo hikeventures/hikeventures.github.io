@@ -1,18 +1,21 @@
 ---
 layout: post
-title: "Hilleberg Niak 1.5 vs. Enan vs. Hubba Hubba NX"
-date: 2015-07-15 17:51:07 +0300
+title: Hilleberg Niak 1.5 vs. Enan vs. Hubba Hubba NX
+date: "2015-07-15 17:51:07 +0300"
 comments: true
 published: true
-categories: ['articles']
+categories: 
+  - articles
 description: Considerations for a 3 season backpacking tent
-keywords: hilleberg, msr, enan, NX, Niak , Gear, Camping, Outdoors, Hiking, Packrafting, Backpacking
-twitter_card:
-    image: https://farm1.staticflickr.com/407/18948498964_e22e5df5de_o.jpg
+keywords: "hilleberg, msr, enan, NX, Niak , Gear, Camping, Outdoors, Hiking, Packrafting, Backpacking"
+twitter_card: 
+  image: "https://farm1.staticflickr.com/407/18948498964_e22e5df5de_o.jpg"
 ---
 
-Hilleberg has just announced a new 3-season solo tent - the Hilleberg Niak 1.5 - which will come out in 2016. Here are some first thoughts about the Hilleberg Niak, the Enan and the MSR NX.<br><br>
-<img src="https://farm9.staticflickr.com/8541/8648026950_c0f7a5fdac_b.jpg" width="1000" height="667" alt="Hilleberg Anjan  Niak"><!--more-->
+
+Hilleberg has just announced a new 3-season solo tent - the Hilleberg Niak 1.5 - which will come out in 2016. Here are some first thoughts about the Hilleberg Niak, the Enan and the MSR NX.
+
+<img src="https://farm9.staticflickr.com/8541/8648026950_c0f7a5fdac_b.jpg" width="1000" height="667" alt="Hilleberg Anjan  Niak">
 
 The Niak 1.5 is supposed to have a width of 120 cm (and additionally 65 cm for the vestibule), a length of 220 cm and weights 1.6 kg.
 
@@ -26,8 +29,8 @@ Anyways, have a look on our blog if you are interested in the Hubba Hubba NX for
 
 Which tent would you pick? The MSR Hubba Hubba NX, the Hilleberg Enan or the Niak?
 
-##MSR Hubba Hubba NX
+## MSR Hubba Hubba NX
 <script type="text/javascript" src="http://www.avantlink.com/api.php?module=ProductSearch&affiliate_id=125311&website_id=150351&merchant_ids&search_results_sort_order=Retail+Price|asc&output=js&search_results_count=5&search_results_layout=list&search_results_fields=|Merchant+Name|Product+Name|Retail+Price&search_term=MSR Hubba hubba NX"></script>
 
-##Hilleberg Enan
+## Hilleberg Enan
 <script type="text/javascript" src="http://www.avantlink.com/api.php?module=ProductSearch&affiliate_id=125311&website_id=150351&merchant_ids&search_results_sort_order=Retail+Price|asc&output=js&search_results_count=5&search_results_layout=list&search_results_fields=|Merchant+Name|Product+Name|Retail+Price&search_term=Hilleberg Enan"></script>
