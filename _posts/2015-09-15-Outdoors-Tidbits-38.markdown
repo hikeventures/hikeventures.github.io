@@ -13,7 +13,6 @@ twitter_card:
 Currently, we are busy writing gear reviews and trip reports which we will publish soon on HikeVentures. Next weekend we will participate in the second Finnish Packrafting Gathering in Finland which is organized by <a href="http://korpijaakko.com">korpijaakko.com</a>. Patrick has been there <a href="http://www.hikeventures.com/first-finnish-packrafting-gathering/">last year</a> already and even so the weather will be probably quite bad this year we are quite excited and looking forward to meet all the other packrafters. After the Finnish Packrafting Gathering Konstantin will travel to Norway for another Packrafting adventure.
 
 <img src="https://farm1.staticflickr.com/362/19544901016_f6e069b724_b.jpg" width="992" height="744" alt="Hiking">
-<!--more-->
 
 ## Gear Reviews
 
