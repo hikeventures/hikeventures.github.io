@@ -77,7 +77,7 @@ More heavy than the other jackets in our list, the Arcteryx Ceres Jacket is made
 
 <strong>Weight:</strong> 309 grams
 
-The Rab Zero G jacket is an ultralight model for alpinist and climbers. Rab told us at the ISPO in Munich that the Rab Zero G jacket is one of their highlights for this year.
+The Rab Zero G jacket is an ultralight model for alpinist and climbers. Rab told us at the [ISPO in Munich](http://www.hikeventures.com/ISPO-2016-interviews/) that the Rab Zero G jacket is one of their highlights for this year.
 <br><br>
 
  <a href="http://www.hikeventures.com/deals/#Rab+Zero+G"><button class="btn btn-danger">Compare prices</button></a><br><br>
