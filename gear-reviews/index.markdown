@@ -13,23 +13,35 @@ published: true
 
       <table class="table table-hover table-condensed">
         <tbody>
-     <tr style="background:#EEEEEE;">
-            <td><strong>Tents & Sleeping bag</strong></td><td></td><td></td></tr><tr>
-           <td><a href="http://hikeventures.com/cumulus-panyam-450">Cumulus Panyam 450</a></td>
-            <td><a href="http://hikeventures.com/exped-synmat-ul-7">Exped SynMat UL 7</td>
-            <td><a href="http://hikeventures.com/exped-air-pillow-ul">Exped Air Pillow UL</a></td>
+ 
+         <tr style="background:#EEEEEE;">
+        <td><strong>Camping Kitchen</strong></td><td></td><td></td></tr><tr>
+        <tr>
 
+            <td><a href="/gear-review-jetboil-sol-ti">Jetboil Sol Ti</a></td>
+            <td><a href="/gear-review-katadyn-mini-water-filter">Katadyn Mini</a></td>
+            <td><a href="/leatherman-style-cs">Leatherman Style CS</a></td>
 
         </tr>
         <tr>
+         	<td><a href="/my-three-favourite-hiking-items">Light My Fire Swedish Fire Steel</a></td>
+            <td><a href="/gear-review-steripen-freedom">SteriPen Freedom</a></td>
+         <td><a href="/with-the-thermos-bottle-over-the-arctic-circle">Thermos bottle</a></td>
 
 
-            <td><a href="/gear-review-hilleberg-anjan-for-the-summer">Hilleberg Anjan 2</a></td>
-            <td><a href="/gear-review-katabatic-gear-chisos">Katabatic Gear Chisos Quilt</a></td><td><a href="/mountain-equipment-ar-ultralite-2/" target="_self">Mountain Equipment AR Ultralite 2</a></td>
 
-         </tr>
-            <tr><td></td><td></td><td></td></tr>
-           <tr style="background:#EEEEEE;">
+        </tr>
+
+    	<tr>
+    		<td></td><td></td><td></td>
+    	</tr>      
+  
+  
+  
+  
+  
+  <tr style="background:#EEEEEE;">
+       
             <td><strong>Clothing & Layering</strong></td><td></td><td></td></tr>
 
 
@@ -112,28 +124,7 @@ published: true
          <td><a href="/gear-preview-werner-shuna-paddles">Werner Shuna Paddles</a></td>
         <td><a href="http://hikeventures.com/windpaddle-sails-for-packrafting">WindPaddle Sail</a></td><td></td></tr>
 
-        <tr><td></td><td></td><td></td></tr>
-         <tr style="background:#EEEEEE;">
-        <td><strong>Camping Kitchen</strong></td><td></td><td></td></tr><tr>
-        <tr>
-
-            <td><a href="/gear-review-jetboil-sol-ti">Jetboil Sol Ti</a></td>
-            <td><a href="/gear-review-katadyn-mini-water-filter">Katadyn Mini</a></td>
-            <td><a href="/leatherman-style-cs">Leatherman Style CS</a></td>
-
-        </tr>
-        <tr>
-         	<td><a href="/my-three-favourite-hiking-items">Light My Fire Swedish Fire Steel</a></td>
-            <td><a href="/gear-review-steripen-freedom">SteriPen Freedom</a></td>
-         <td><a href="/with-the-thermos-bottle-over-the-arctic-circle">Thermos bottle</a></td>
-
-
-
-        </tr>
-
-    	<tr>
-    		<td></td><td></td><td></td>
-    	</tr>      
+        
         
         <tr style="background:#EEEEEE;">
         	<td><strong>Snowshoeing Gear</strong></td><td></td><td></td></tr>
@@ -187,6 +178,37 @@ published: true
           	<td></td>
           	<td></td>
         </tr>
+        
+        
+        
+            <tr style="background:#EEEEEE;">
+            <td><strong>Tents & Sleeping bag</strong></td><td></td><td></td></tr><tr>
+           <td><a href="http://hikeventures.com/cumulus-panyam-450">Cumulus Panyam 450</a></td>
+            <td><a href="http://hikeventures.com/exped-synmat-ul-7">Exped SynMat UL 7</td>
+            <td><a href="http://hikeventures.com/exped-air-pillow-ul">Exped Air Pillow UL</a></td>
+
+
+        </tr>
+        <tr>
+
+
+            <td><a href="/gear-review-hilleberg-anjan-for-the-summer">Hilleberg Anjan 2</a></td>
+            <td><a href="/gear-review-katabatic-gear-chisos">Katabatic Gear Chisos Quilt</a></td><td><a href="/mountain-equipment-ar-ultralite-2/" target="_self">Mountain Equipment AR Ultralite 2</a></td>
+
+         </tr>
+       
+       
+       
+  
+       
+       
+       <tr><td></td><td></td><td></td></tr>
+  
+  
+  
+  
+  <tr><td></td><td></td><td></td></tr>
+        
         </tbody>
       </table>
 
