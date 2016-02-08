@@ -1,17 +1,21 @@
 ---
 layout: post
-title: ISPO 2016 - Product Highlights
-date: 2016-02-04 15:28:01 +0300
+title: "ISPO 2016 - Product Highlights"
+date: "2016-02-04 15:28:01 +0300"
 comments: true
 categories: articles
 description: Interviews with major outdoor brands about their product highlights at the ISPO 2016 in Munich.
-keywords: Hiking, Backpacking, Outdoors, ISPO, interviews, 2016
+keywords: "Hiking, Backpacking, Outdoors, ISPO, interviews, 2016"
+published: true
 ---
+
 This year we have been to the ISPO in Munich to create a series of videos where we interviewed 31 outdoor brands about their latest product highlights for 2016. We have not done any video interviews in the past so this was an exciting opportunity to get more into videos and at the same time meet new people. Also new at the ISPO this year was that there was a dedicated lounge for bloggers. You can find the playlist of all of our ISPO 2016 videos [here](https://www.youtube.com/playlist?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM).
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9mAEzVNPYEs?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
 </div>
+
+<!--more-->
 
 ## Berghaus
 <div class="embed-responsive embed-responsive-16by9">
