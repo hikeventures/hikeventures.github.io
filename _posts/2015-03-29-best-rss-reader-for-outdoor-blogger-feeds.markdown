@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best RSS feed Reader for Outdoor Bloggers
-date: {}
+date: "2015-03-28T07:56:19.000Z"
 comments: true
 categories: articles
 description: "Need a new RSS reader? Here is a list with the best RSS Reader for Outdoor Bloggers."
@@ -10,6 +10,7 @@ twitter_card:
   image: "https://farm9.staticflickr.com/8698/16969404015_2b1aab47b7_b.jpg"
 published: true
 ---
+
 
 Today, I was searching and comparing some RSS reader which would be suitable for my RSS feeds which I have subscribed from other hiking and outdoor blogs to read on my Macbook. I was especially interested to find a reader which is fast and makes reading feeds simple and easy. Maybe some sort of intelligent search function to find or sort feeds according to certain keywords would be interesting too. 
 
