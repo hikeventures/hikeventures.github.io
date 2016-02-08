@@ -145,9 +145,7 @@ The  Rab Infinity Endurance Jacket is a technical alpine or mountaineering jacke
 
 The  Rab Positron Jacket is proper box-wall down winter jacket with a water-resistant outer fabric. The manufacturer claims that it has been designed for mountain and expedition use up to 6000m. This jacket delivers about 30% more warmth than the Rab Infinity Endurance jacket.
 
-<br><br>
-
- <a href="http://www.hikeventures.com/deals/#Positron+Jacket"><button class="btn btn-danger">Compare prices</button></a><br><br>
+<a href="http://www.hikeventures.com/deals/#Positron+Jacket"><button class="btn btn-danger">Compare prices</button></a><br><br>
 
 ## When not to wear a down jacket?
 
@@ -230,7 +228,7 @@ To keep the warmth inside your jacket, a waist drawsting and wrist closures (e.g
 
 Many new down jackets feature nowadays a light ripstop shell to make the down jacket a bit resistant against moisture. One disadvantag of those light ripstop shells is that they are not very durable and if it starts raining your down jacket will still soack up water. However, we found them to be sufficient as we usually only wear a down jacket to walk around in camp or as an additional layer in my sleeping bag. So in general, we don't find it important to have a waterproof down jacket which would also lower the breathability of the down jacket.
 
-## <a name="#down_jacket_dry">How to keep a down jacket dry?</a>
+## How to keep a down jacket dry?
 
 You can keep your down jacket dry by storing it in a [waterproof compression bag][7] when you are hiking in wet conditions and to use your down jacket only in your tent.
 
