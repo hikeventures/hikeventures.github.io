@@ -28,7 +28,7 @@ A tent or a bivy is essential to protect you against rain, wind and mosquitoes. 
 
 Personally, I always take my <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/">Hilleberg Anjan 3</a> with me. This is my standard tent and perfect for hikes with 2 people (even so it says 3) because the extra space comes quite handy if you have to sit in the tent for a longer period or if you just need more space to roll around in the tent, store some gear or if you just want to play cards. Of course, the 2 person tent saves you some weight but after having had the 2 person Hilleberg Anjan for a while I won't miss the space and comfort which I get with the <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/">Hilleberg Anjan 3</a> if I go hiking with a friend. Here is a <a href="http://www.hikeventures.com/best-tents-for-backpacking-and-packrafting/">list</a > with good tents. 
 
-<a href="https://www.flickr.com/photos/90204224@N07/9596230289"><img src="https://farm3.staticflickr.com/2822/9596230289_b8140889e3_b.jpg" class="img-responsive" width="1024" height="473"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9596230289" title="Hiking and Packrafting in Sarek"><img src="https://farm3.staticflickr.com/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Hiking and Packrafting in Sarek"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Sleeping Pad
 The last 2 years I have used the <a
