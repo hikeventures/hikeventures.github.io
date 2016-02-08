@@ -4,8 +4,7 @@ title: The Last Adventurer
 date: "2014-02-13 07:00:16 +0200"
 comments: true
 author: The Last Adventurer
-categories: 
-  - Guest Posts
+categories: Guest Posts
 toc: true
 description: Introduction to The Last Adventurer blog
 keywords: "The Last Adventurer, blog"
