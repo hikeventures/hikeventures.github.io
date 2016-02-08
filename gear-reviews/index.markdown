@@ -145,31 +145,7 @@ published: true
             <td><a href="/Testing-the-MSR-Revo-Ascent,-Ascent-Light,-Deploy-T2-and-Flight-3-in-the-Austrian-Alps/">MSR Flight 2</a></td>
                <td><a href="/tubbs-xpedition-snowshoes">Tubbs Xpedition Snowshoes</a></td><td></td>
             
-             </tr><tr>
-               <td><a href="http://hikeventures.com/waterproof-maps">Calazo Maps</a></td>
-            <td><a href="/field-notes-expedition-and-space-pen">Field Notes Expedition and Space Pen</a></td>
-                       <td><a href="/luci-r-outdoor-not-a-toy">Luci Outdoor Latern</a></td>
-
-               	</tr><tr>
-               		<td><a href="http://hikeventures.com/luminaid">luminAID</a></td>
-               <td><a href="/petzl-attache-3d">Petzl Attache 3D</a></td>
-            <td><a href="/petzl-nao-headlamp-test">Petzl Nao headlamp</a></td>
-
-        </tr>
-
-
-            <td><a href="/sigma-merrill-dp1-short-review-and-sample-images-from-helsinki">Sigma Merrill DP1</a></td>
-             	<td><a href="http://hikeventures.com/solarmonkey-adventurer">Solarmonkey Adventurer</a></td>
-        	<td><a href="/recording-nature-sound-for-your-dslr-videos-zoom-h5">Zoom H5</a></td>   
-
-        </tr>
-        <tr>
-         <td><a href="/gear-review-suunto-ambit-2-black-hr">Suunto Ambit 2 Black HR</a></td>
-
-              <td></td>
-
-              <td></td>
-        </tr>
+             </tr>
         
         
         <tr style="background:#EEEEEE;">
