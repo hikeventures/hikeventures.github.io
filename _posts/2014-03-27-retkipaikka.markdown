@@ -3,8 +3,7 @@ layout: post
 title: Retkipaikka
 date: "2014-04-3 17:28:03 +0200"
 author: Retkipaikka
-categories: 
-  - Guest Posts
+categories: Guest Posts
 description: Retkipaikka
 keywords: "backpacking, Outdoors, Hiking, Retkipaikka, camping"
 twitter_card: 
