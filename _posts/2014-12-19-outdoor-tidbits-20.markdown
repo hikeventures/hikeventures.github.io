@@ -29,7 +29,7 @@ Hiking the Wallace Falls loop. - <a href="http://www.hikingwithmybrother.com/200
 
 Hike the bridge to nowhere. - <a href="http://socalhiker.net/hike-the-bridge-to-nowhere/">socialhiker.com</a>
 
-<iframe src="//player.vimeo.com/video/114740678" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/114740678">Packrafting The Mitta Mitta</a> from <a href="http://vimeo.com/user4617220">Haydn Deane</a> on <a href="https://vimeo.com">Vimeo</a>.</p></a>
+<iframe src="//player.vimeo.com/video/114740678" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/114740678">Packrafting The Mitta Mitta</a> from <a href="http://vimeo.com/user4617220">Haydn Deane</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Shots of festive Scotland. - <a href="http://www.walkhighlands.co.uk/news/16-shots-of-festive-scotland/0012102/">walkinghighlands.co.uk</a>
 
