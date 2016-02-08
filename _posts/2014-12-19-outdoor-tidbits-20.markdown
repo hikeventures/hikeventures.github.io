@@ -12,6 +12,7 @@ published: true
 ---
 
 This is our last tidbits before Christmas. We are currently arranging the last bits and pieces for our lapland trip end of January 2015. And hey, you can still win our [Goal Zero Guide 10 Plus Solar Kit](http://hikeventures.com/advent-calendar-giveaway-6/) till 22.12.2014.
+
 <a href="https://www.flickr.com/photos/90204224@N07/12030021016"><img src="https://farm6.staticflickr.com/5478/12030021016_95f0cd465c_b.jpg" width="1024" height="683"></a>
 
 How much you have to pay to backpack in Europe?. - <a href="http://thesavvybackpacker.com/backpacking-europe-cost/">thesavybackpacker.com</a>
