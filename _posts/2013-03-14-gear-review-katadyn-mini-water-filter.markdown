@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Katadyn Mini Water Filter
-date: 2013-03-14 17:39
+date: "2013-03-14 17:39"
 comments: true
 categories: gear
-description: Katadyn Mini Water Filter - Your next water filter - Review
-keywords: Katadyn, Mini Water Filter, gear review, water, purification, hiking, outdoors
-featured_image: http://farm9.staticflickr.com/8389/8556629391_d8688af598_c.jpg
+description: "Katadyn Mini Water Filter - Your next water filter - Review"
+keywords: "Katadyn, Mini Water Filter, gear review, water, purification, hiking, outdoors"
+featured_image: "http://farm9.staticflickr.com/8389/8556629391_d8688af598_c.jpg"
+published: true
 ---
+
 I was looking for a water purifier which I can take on my hiking, backpacking and packrafting trips which is light and does not need much space and decided to go with a Katadyn Mini + <a href="http://hikeventures.com/gear-review-steripen-freedom/" target="_self">UV SteriPen</a> combination (since the Kadyn Mini is not a solution against Viruses) and here comes a short review.
 
 <a href="https://www.flickr.com/photos/90204224@N07/8556629391" title="Katadyn Mini"><img src="https://farm9.staticflickr.com/8389/8556629391_d8688af598_b.jpg" width="600" alt="Katadyn Mini"></a>
@@ -26,5 +28,3 @@ I have tested the Katadyn Mini Water Filter on <a href="http://hikeventures.com/
 
 ## Where to buy the Katadyn Mini Water Filter?
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B003C1EVQ8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003C1EVQ8&linkCode=as2&tag=hikeve-20&linkId=BHWL7A4Q5OEKAWPK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003C1EVQ8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B003C1EVQ8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-What is your experience with the Katadyn Mini filter? Leave a comment below.
