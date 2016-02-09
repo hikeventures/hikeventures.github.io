@@ -9,6 +9,7 @@ title: "Testing the MSR Revo Ascent, Ascent Light, Deploy TR-2 and Flight 2 in t
 ---
 
 
+
 After the ISPO in Munich we went to Gaschurn in Austria to test our MSR Lightning Ascent and MSR Revo snowshoes as well as the MSR Flight 2 and MSR Deploy TR-2 poles in the Alps.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24251024054/in/dateposted-public/" title="Snowshoeing in Montafon, Vorarlberg in Austria"><img src="https://farm2.staticflickr.com/1624/24251024054_9304c6c7b9_b.jpg" width="1024" height="681" alt="Snowshoeing in Montafon, Vorarlberg in Austria"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -30,7 +31,7 @@ Luckily there was a 'Winterwanderweg' (winter walking track) which we followed a
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24761356012/in/dateposted-public/" title="Snowshoeing in Montafon, Vorarlberg in Austria"><img src="https://farm2.staticflickr.com/1535/24761356012_dd2fea6a5b_b.jpg" width="1024" height="681" alt="Snowshoeing in Montafon, Vorarlberg in Austria"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## MSR Revo Ascent and MSR Lightning Ascent Review
-During this trip, Patrick was wearing the MSR Revo Ascent and Patrick Konstantin had the MSR Lightning Ascent on. The MSR Revo Ascent is the more durable version of the lighter MSR Lightning Ascent.
+During this trip, Patrick was wearing the <a href="http://amzn.to/1nZo6eP" rel="nofollow">MSR Revo Ascent</a> and Patrick Konstantin had the <a href="http://amzn.to/1nZo9r5" rel="nofollow">MSR Lightning Ascent</a> on. The MSR Revo Ascent is the more durable version of the lighter MSR Lightning Ascent.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24785845811/in/dateposted-public/" title="Snowshoeing in Montafon, Vorarlberg in Austria"><img src="https://farm2.staticflickr.com/1635/24785845811_2a3c4c4d5c_b.jpg" width="1024" height="681" alt="Snowshoeing in Montafon, Vorarlberg in Austria"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -51,7 +52,7 @@ We just flipped our Ergo Televators up (installed on both MSR Revo and Lightning
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24761350022/in/dateposted-public/" title="Snowshoeing in Montafon, Vorarlberg in Austria"><img src="https://farm2.staticflickr.com/1548/24761350022_cdab205334_b.jpg" width="1024" height="681" alt="Snowshoeing in Montafon, Vorarlberg in Austria"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## MSR Flight 2 and Deploy TR-2 review
-We also had an opportunity to test the MSR Flight 2 and the Deploy TR-2 adjustable winter poles on our trip which we also received from MSR. The number '2' in them indicates that they consist of two sections. Besides this, there are also similar 3-section poles available from MSR which allow you to pack them even smaller. The 2-setion poles takes slightly less time to expand (especially in case of Deply TR-2) but if you have a smaller bag you should probably opt for the 3-section version of both poles.
+We also had an opportunity to test the <a href="http://amzn.to/1T2gp2H" rel="nofollow">MSR Flight 2</a> and the <a href="http://amzn.to/1T2grb1" rel="nofollow">Deploy TR-2</a> adjustable winter poles on our trip which we also received from MSR. The number '2' in them indicates that they consist of two sections. Besides this, there are also similar 3-section poles available from MSR which allow you to pack them even smaller. The 2-setion poles takes slightly less time to expand (especially in case of Deply TR-2) but if you have a smaller bag you should probably opt for the 3-section version of both poles.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24251161044/in/dateposted-public/" title="Snowshoeing in Montafon, Vorarlberg in Austria"><img src="https://farm2.staticflickr.com/1507/24251161044_2a14e4806b_b.jpg" width="1024" height="681" alt="Snowshoeing in Montafon, Vorarlberg in Austria"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -68,7 +69,7 @@ Another 'winter' feature of the poles is the possibility to easily adjust the le
 Finally, unlike most summer poles, the maximum length of the Flight 2 and the long version of Deploy TR-2 is 140 cm, which is a very useful thing if you have to walk in the deep snow or downhill. The minimum length for each pole is 105 cm and 115 cm accordingly (the standard version of Deploy TR-2 is also 105, but then it cannot extend further than 130 cm). Taking this into account, when it comes to versatility, it is possible to say that Flight 2 has the best range of all four versions of the poles.
 
 ## MSR Snowshoes Backpack
-We also received snowshoe bags from MSR, which were specially designed to carry snowshoes and poles as one pack, which is a brilliant solution, especially if you have to carry them for a long time (it has a side handle and a shoulder strap).
+We also received <a href="http://amzn.to/1PieeWh" rel="nofollow">snowshoe bags</a> from MSR, which were specially designed to carry snowshoes and poles as one pack, which is a brilliant solution, especially if you have to carry them for a long time (it has a side handle and a shoulder strap).
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24511606389/in/dateposted-public/" title="Snowshoeing in Montafon, Vorarlberg in Austria"><img src="https://farm2.staticflickr.com/1628/24511606389_a700bb80f2_b.jpg" width="681" height="1024" alt="Snowshoeing in Montafon, Vorarlberg in Austria"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
