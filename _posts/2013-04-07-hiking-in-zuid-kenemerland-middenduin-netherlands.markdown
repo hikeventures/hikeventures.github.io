@@ -4,8 +4,7 @@ title: "Hiking in Zuid-Kenemerland - Middenduin - Netherlands"
 date: "2013-04-07 10:27"
 comments: true
 author: Patrick
-categories: 
-  - destinations
+categories: destinations
 description: "Hiking adventure in Zuid-Kenemerland"
 keywords: "Zuid-Kenemerland, Middenduin, Netherlands, Holland, National Park, hiking"
 twitter_card: 
