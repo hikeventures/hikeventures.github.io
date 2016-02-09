@@ -4,8 +4,7 @@ title: "Clair & Maurer: AMC guide to winter hiking and camping"
 date: "2013-12-04 23:26:13 +0200"
 comments: true
 author: Konstantin
-categories: 
-  - Books
+categories: Books
 description: A great book to learn winter hiking and camping
 keywords: "Clair, Maurer, AMC guide, winter, hiking, camping, Outdoors"
 twitter_card: 
