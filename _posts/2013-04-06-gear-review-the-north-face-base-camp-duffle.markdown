@@ -3,8 +3,7 @@ layout: post
 title: The North Face Base Camp Duffle
 date: "2013-04-06 16:05"
 comments: true
-categories: 
-  - Gear Reviews
+categories: Gear Reviews
 description: The North Face Base Camp Duffle
 keywords: "The North Face, Base Camp, Duffle, Gear Reviews"
 twitter_card: 
