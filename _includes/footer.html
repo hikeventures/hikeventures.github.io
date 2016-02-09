@@ -1,38 +1,46 @@
 <footer class="site-footer">
 
   <div class="wrapper">
-  <h2 class="footer-heading">{{ site.title }} </h2>
-      
+
+    <h2 class="footer-heading">{{ site.title }}</h2>
+
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-6">
+      <div class="footer-col footer-col-1">
         <ul class="contact-list">
-              <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-             
+          <li>{{ site.title }}</li>
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
       </div>
-    </div>
-    <div class="footer-col footer-col-6">
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          {% if site.github_username %}
+          <li>
+            {% include icon-github.html username=site.github_username %}
+          </li>
+          {% endif %}
+
+          {% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          <li>
+          <i class="fa fa-facebook-square"></i>
+          </li>
+          
+          
+          {% endif %}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
         <p>{{ site.description }}</p>
-        <ul id="menu">
-           <li>
-          <a href="https://www.facebook.com/HikeVentures/"> <i class="fa fa-facebook-square"></i></a>
-          </li>
-            <li>
-           <a href=""><i class="fa fa-twitter-square"></i></a>
-          </li>
-            <li>
-           <a href="https://www.instagram.com/hikeventures/"><i class="fa fa-instagram"></i></a>
-          </li>
-            <li>
-           <a href="https://plus.google.com/+Hikeventures/"><i class="fa fa-google-plus-square"></i></a>
-          </li>
-            <li>
-          <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw"><i class="fa fa-youtube"></i></a>
-          </li>
-        </ul>
       </div>
     </div>
- </footer>
+
+  </div>
+
+</footer>
 
 
 <script> var amzn_ps_tracking_id = 'hikeve-20'; </script>
@@ -54,8 +62,6 @@
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
   ga('create', 'UA-46275467-1', 'auto');
   ga('send', 'pageview');
-
 </script>
