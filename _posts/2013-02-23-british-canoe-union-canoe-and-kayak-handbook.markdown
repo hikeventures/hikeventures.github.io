@@ -5,8 +5,7 @@ date: "2013-02-23 14:27"
 comments: true
 author: Patrick
 published: true
-categories: 
-  - Books
+categories: Books
 description: Review of a Canoe and Kayak Handbook
 keywords: "British, Canoe, Union, Kayaking, Handbook, outdoors, book, review"
 twitter_card: 
