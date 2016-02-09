@@ -5,8 +5,7 @@ date: "2013-04-08 20:50"
 comments: true
 author: Patrick
 toc: true
-categories: 
-  - Gear Reviews
+categories: Gear Reviews
 description: Sea to Summit Ultra Sil Drysack Review
 keywords: "Sea to Summit, Ultra Sil, Drysack, Gear, review, packrafting, kayaking, hiking"
 twitter_card: 
