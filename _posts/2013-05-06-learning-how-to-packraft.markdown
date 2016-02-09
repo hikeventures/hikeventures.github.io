@@ -4,8 +4,7 @@ title: Learning how to Packraft
 date: "2013-05-06 16:52"
 comments: true
 author: Patrick
-categories: 
-  - Articles
+categories: Articles
 description: "Learning Packrafting is not difficult - as long as you don't go for whitewater"
 keywords: "introduction, learning, packrafting, outdoors, course"
 twitter_card: 
