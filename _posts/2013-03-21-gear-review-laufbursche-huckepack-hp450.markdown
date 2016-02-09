@@ -5,8 +5,7 @@ date: "2013-03-21 17:52"
 comments: true
 author: Patrick
 toc: true
-categories: 
-  - Gear Reviews
+categories: Gear Reviews
 description: Laufbursche Huckepack hp450 Ultralight backpack review
 keywords: "Laufbursche, Huckepack, Reviews, hiking, backpack, ultralight"
 twitter_card: 
