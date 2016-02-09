@@ -1,22 +1,22 @@
 ---
 layout: post
-title: "Hiking in the Scottish Highlands"
-date: 2013-07-16 00:20
+title: Hiking in the Scottish Highlands
+date: "2013-07-16 00:20"
 comments: true
-categories: ['destinations']
+categories: destinations
 description: Exploring the Scottish Highlands
-keywords: Scotland, Scottish Highlands, Outdoors, hiking, packrafting, trip report
-twitter_card:
-    image: http://farm4.staticflickr.com/3669/9293661119_a6b0b3aae1_c.jpg
+keywords: "Scotland, Scottish Highlands, Outdoors, hiking, packrafting, trip report"
+twitter_card: 
+  image: "http://farm4.staticflickr.com/3669/9293661119_a6b0b3aae1_c.jpg"
+published: true
 ---
+
 The Scottish Highlands are a perfect destination for those who like hiking. In our case we started hike from Dalwhinnie train station. We walked along Lake 'Loch Ericht', camping at night on the shore.
 
 <a href="http://www.flickr.com/photos/90204224@N07/9293661119/"><img src="http://farm4.staticflickr.com/3669/9293661119_a6b0b3aae1_c.jpg" width="1000" alt="cycling in the Scottish Highands"></a>
 <!--more-->
 
 It's about 20km from Dalwhinnie to the shelter ( so called bothy) which is access point to the local hills. As we discovered later on Scottish walking that distance find a bit waste of time. What's wrong in riding long kilometers on a mountain bike?
-
-<ins>Note:</ins> Make sure you have proper gear when visiting the Scottish Highlands. You can find a <a href="http://hikeventures.com/gear-reviews/" target="_self">list of gear</a> and <a href="http://www.hikeventures.com/best-outdoor-books/" target="_self">good books</a> to read on this blog.
 
 Once we have passed Ben Alder Lodge we were 2km from the shelter. That's where you turn into forest as the path along the lake is not public anymore. 
 
@@ -26,9 +26,9 @@ It is very common that hiking paths are often located on someone's estate, whose
 
 <a href="http://www.flickr.com/photos/90204224@N07/9296429780/" title="camping in scottish highlands"><img src="http://farm6.staticflickr.com/5507/9296429780_a215db6ee4_c.jpg" width="1000"" alt="camping in scottish highlands"></a>
 
-As for accommodation we feel at home in a local shelter (Curla Bothy). It's a temporary shelter, without electricity and other facilities. Simply a roof over the head. However, this is better solution than a tent, especially taking into account the fickle Scottish weather. The combination of rain and wind can be indeed very discouraging to stay outdoor all night. It is also impossible to predict what the weather is going to be like when climbing munros (munros means peak).  In our case ever-lasting fog eventually disturbed us from climbing Ben Alder ( 1148m). Nevertheless that area offers a lot of technically not very demanding trails.<center>
+As for accommodation we feel at home in a local shelter (Curla Bothy). It's a temporary shelter, without electricity and other facilities. Simply a roof over the head. However, this is better solution than a tent, especially taking into account the fickle Scottish weather. The combination of rain and wind can be indeed very discouraging to stay outdoor all night. It is also impossible to predict what the weather is going to be like when climbing munros (munros means peak).  In our case ever-lasting fog eventually disturbed us from climbing Ben Alder ( 1148m). Nevertheless that area offers a lot of technically not very demanding trails.
 
-<a href="http://www.flickr.com/photos/90204224@N07/9293591097/" title="Curla Bothy"><img src="http://farm4.staticflickr.com/3742/9293591097_cda944d5a6_c.jpg" width="1000" alt="Curla Bothy"></a></center>
+<a href="http://www.flickr.com/photos/90204224@N07/9293591097/" title="Curla Bothy"><img src="http://farm4.staticflickr.com/3742/9293591097_cda944d5a6_c.jpg" width="1000" alt="Curla Bothy"></a>
 
 What is specific about hiking in Highlands - the trail is where your eyes bear. There are some main paths, but a good map and a compass are must. 
 
