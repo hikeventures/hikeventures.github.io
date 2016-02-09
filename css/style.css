@@ -250,3 +250,11 @@ ul#menu li {
 .page_nav .next {
     text-align: right;
 }
+
+
+body {
+font-family: Verdana, Arial, sans-serif !important;
+font-size: 18px !important;
+letter-spacing: 0px !important;
+line-height: 1.5em !important;
+}
