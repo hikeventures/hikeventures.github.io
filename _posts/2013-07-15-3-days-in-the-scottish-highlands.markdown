@@ -24,7 +24,7 @@ Once we have passed Ben Alder Lodge we were 2km from the shelter. That's where y
 
 It is very common that hiking paths are often located on someone's estate, whose ancestors were generous and kind enough to let others walk on it.  And it stayed that way until now...luckily. This concerns camping as well. You can pitch the tent wherever you want. Most of the hikers stay over night in a neighborhood of bothies or at the peak. 
 
-<a href="http://www.flickr.com/photos/90204224@N07/9296429780/" title="camping in scottish highlands"><img src="http://farm6.staticflickr.com/5507/9296429780_a215db6ee4_c.jpg" width="1000"" alt="camping in scottish highlands"></a>
+<a href="http://www.flickr.com/photos/90204224@N07/9296429780/" title="camping in scottish highlands"><img src="http://farm6.staticflickr.com/5507/9296429780_a215db6ee4_c.jpg" width="1000" alt="camping in scottish highlands"></a>
 
 As for accommodation we feel at home in a local shelter (Curla Bothy). It's a temporary shelter, without electricity and other facilities. Simply a roof over the head. However, this is better solution than a tent, especially taking into account the fickle Scottish weather. The combination of rain and wind can be indeed very discouraging to stay outdoor all night. It is also impossible to predict what the weather is going to be like when climbing munros (munros means peak).  In our case ever-lasting fog eventually disturbed us from climbing Ben Alder ( 1148m). Nevertheless that area offers a lot of technically not very demanding trails.
 
@@ -54,5 +54,5 @@ Unfortunately we were limited by time and weather. Ben Alder region can keep you
 
 Nothing more to say than THANK YOU SCOTLAND FOR PROVIDING US SUNNY WEATHER AND THANK YOU RYAINAIR FOR THE CHEAP FLIGHT ;) 
 
-##Links
+## Links
 Our location in the <a href="http://www.climbthemunros.co.uk/munro_os_map.php?lat=56.8138&long=-4.4651" target="_blank">Scottish Highlands</a> on the map.
