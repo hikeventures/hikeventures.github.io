@@ -3,8 +3,7 @@ layout: post
 title: "Inov-8 Roclite 295"
 date: "2013-03-21 17:53"
 comments: true
-categories: 
-  - Gear Reviews
+categories: Gear Reviews
 description: "Inov-8 Roclite 295, Gear Review"
 keywords: "Inov-8 Roclite 295, Gear Reviews, hiking, outdoors, ultralight"
 twitter_card: 
