@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Hiking in Repovesi National Park
-date: 2012-11-26 17:11
+date: "2012-11-26 17:11"
 comments: true
 categories: destinations
 description: Our adventure to the Repovesi National Park. One of the best National Parks in Southern Finland.
-keywords: Hiking, Repovesi, National Park, finland, outdoors
-featured_image: https://farm9.staticflickr.com/8348/8197277043_42a513d9f5_h.jpg
+keywords: "Hiking, Repovesi, National Park, finland, outdoors"
+featured_image: "https://farm9.staticflickr.com/8348/8197277043_42a513d9f5_h.jpg"
+published: true
 ---
+
 Repovesi National Park is Southern Finland's most popular hiking destination and you can get there by public transport within 2 hours from Helsinki. The National Park offers plenty of lakes and hills. There are campsites and shelters and it is located nearby the city of Kouvola and accessible by public transportation.
 
 <img src="https://farm9.staticflickr.com/8348/819727704342a513d9f5h.jpg" alt="hiking repovesi national park"><!--more-->
@@ -17,7 +19,7 @@ This is the main entrance to Repovesi National Park. We actually left the park f
 
 <a href="https://www.flickr.com/photos/90204224@N07/8198639492" title="Blueberries from Repovesi National Park"><img src="https://farm9.staticflickr.com/8488/8198639492_5cd3f6b50e_h.jpg" width="1600" height="1067" alt="Blueberries from Repovesi National Park in Finland"></a>
 
-# Sights
+##  Sights
 The Olhavanvuori Rock is 50 m high and glows on sunny days in different colors. It has prehistoric rock paintings and is perfect for climbers.
 
 <a href="https://www.flickr.com/photos/90204224@N07/8197406521" title="Repovesi National Park"><img src="https://farm9.staticflickr.com/8483/8197406521_6377440249_h.jpg" width="1600" height="1067" alt="Repovesi National Park in Finland"></a>
@@ -59,23 +61,6 @@ There are also plenty of refuges in Repovesi. We had a break at this one before 
 <a href="https://www.flickr.com/photos/90204224@N07/8198455234" title="Repovesi National Park"><img src="https://farm9.staticflickr.com/8204/8198455234_ce5ea2b866_h.jpg" width="1600" height="1067" alt="Repovesi National Park in Finland"></a>
 
 In my opinion, Repovesi National Park is more enjoyable than <a href="http://hikeventures.com/hiking-in-nuuksio-national-park-finland/" target="_self">Nuuksio</a>  and it is less crowded too. On the way back to Kouvola we hitchhiked and someone picked us up just after 10 minutes standing on the road. Repovesi National Park is definitely worth a visit.
-
-# Links
-
-* \<a href="http://www.outdoors.fi/destinations/nationalparks/repovesi/Pages/Default.aspx"\>Outdoors.fi\</a\>\<br\>
-* \<a href="http://www.Excursionmap.fi" target="_new"\>Excursionmap.fi\</a\>\<br\>
-* \<a href="http://www.repovesi.com" target="_new"\>Official Repovesi website (only in Finnish and Russian)\</a\>
-
-# Others who have visited Repovesi
-
-* [Sunnuntai ja Repovesi][1]
-* [Repovesi][2]
-* [Inkkarilla Repovedella][3]
-* [Mahtavien jyrkänteiden Repovesi][4]
-* [Repovesi ja Suomen kaunis luonto][5]
-* [Melontaa Repovedellä][6]
-* [Melomassa Repovedellä][7]
-* [Laiskottelua, mäkeä, polkua ja Kaakkurin kierros][8]
 
 [1]:	http://palanenkaakkua.blogspot.com/2014/09/sunnuntai-ja-repovesi.html
 [2]:	http://jantskunblogi.blogspot.com/2014/08/repovesi.html
