@@ -3,12 +3,11 @@ layout: post
 title: Montbell U.L. Down Parka
 date: "2013-03-21 17:52"
 comments: true
-categories: 
-  - Gear Reviews
+categories: Gear Reviews
 description: "Perfect down Parka for the winter and autumn months - Montbell U.L. Down Parka Review"
 keywords: "Montbell U.L. Down Parka, Gear Reviews, hiking, outdoors, camping, down Parka"
 twitter_card: 
-  image: "http://farm9.staticflickr.com/8529/8576876741_ced8a7427f_c.jpg"
+  image: "http://farm9.static876741_ced8a7427f_c.jpg"
 published: true
 ---
 
