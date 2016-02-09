@@ -3,7 +3,7 @@ layout: post
 title: Suunto Ambit2 Black HR
 date: "2013-05-08 16:38"
 comments: true
-categories: gear
+categories: Gear Reviews
 description: "GPS watch - Suunto Ambit2 Black HR"
 keywords: "Suunto Ambit2, Black, GPS, GPS watch, Hiking, Navigation, Sports Watch, Gear review"
 featured_image: "https://farm3.staticflickr.com/2866/9599014438_4f27c21c17_b.jpg"
