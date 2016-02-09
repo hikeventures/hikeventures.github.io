@@ -3,8 +3,7 @@ layout: post
 title: Arcteryx Palisade Pants
 date: "2013-05-20 20:21"
 comments: true
-categories: 
-  - Gear Reviews
+categories: Gear Reviews
 description: "Lightweight and fast drying - Arcteryx Palisade Pants Review"
 keywords: "Arcteryx, Palisade Pants, Review"
 twitter_card: "https://farm6.staticflickr.com/5343/8758780310_499eaf5e63_b.jpg"
