@@ -1,13 +1,15 @@
 ---
 layout: post
 title: Suunto Ambit2 Black HR
-date: 2013-05-08 16:38
+date: "2013-05-08 16:38"
 comments: true
 categories: gear
-description: GPS watch - Suunto Ambit2 Black HR
-keywords: Suunto Ambit2, Black, GPS, GPS watch, Hiking, Navigation, Sports Watch, Gear review
-featured_image: https://farm3.staticflickr.com/2866/9599014438_4f27c21c17_b.jpg
+description: "GPS watch - Suunto Ambit2 Black HR"
+keywords: "Suunto Ambit2, Black, GPS, GPS watch, Hiking, Navigation, Sports Watch, Gear review"
+featured_image: "https://farm3.staticflickr.com/2866/9599014438_4f27c21c17_b.jpg"
+published: true
 ---
+
 For those folks who would like to keep track on where they hiked, biked etc. should have a look on GPS watches like the Suunto Ambit2. Sure, you can also do this with an app on your phone but personally I found it more comfortable to have a watch on my wrist. Having had the Suunto Ambit before the Suunto Ambit 2 also adds altitude GPS functionality and "Find back" support.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9599014438" title="Suunto Ambit 2"><img src="https://farm3.staticflickr.com/2866/9599014438_4f27c21c17_b.jpg" width="1024" height="683" alt="Suunto Ambit 2 in Sarek"></a>
@@ -51,4 +53,4 @@ Charging and transferring data is done with this USB cable.
 I have used the Suunto Ambit2 on our trip in <a rel="nofollow" href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">Sarek</a>  and it performed quite well. It was nice to see on the PC the route we hiked. However, it is advisable to take a spare battery with a USB connection with you if you go on a multiple day trip.
 
 ## Where to buy the Suunto Ambit2 HR
-Have a look here:  <a href="http://www.hikeventures.com/deals/#HSuunto+Ambit2”><button class="btn btn-danger">Compare prices</button></a> 
+Have a look here:  <a href="http://www.hikeventures.com/deals/#HSuunto+Ambit2"><button class="btn btn-danger">Compare prices</button></a>
