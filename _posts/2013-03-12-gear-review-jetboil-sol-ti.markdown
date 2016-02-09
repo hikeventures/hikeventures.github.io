@@ -3,8 +3,7 @@ layout: post
 title: Jetboil Sol Ti
 date: "2013-03-12 22:25"
 comments: true
-categories: 
-  - Gear Reviews
+categories: Gear Reviews
 description: Jetboil Sol Ti Review
 keywords: "Jetboil, Sol Ti, gear, review, stove"
 twitter_card: 
