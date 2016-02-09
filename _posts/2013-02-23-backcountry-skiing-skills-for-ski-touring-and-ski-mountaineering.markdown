@@ -5,8 +5,7 @@ date: "2013-02-23 14:28"
 comments: true
 author: Patrick
 published: true
-categories: 
-  - Books
+categories: Books
 description: Good book about Backcountry Skiing skills
 keywords: "Backcountry, Skiing,Skills, Ski Touring, Ski Mountaineering, book, review"
 twitter_card: 
