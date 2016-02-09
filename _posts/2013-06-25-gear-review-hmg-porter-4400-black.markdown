@@ -1,14 +1,16 @@
 ---
 layout: post
 title: HMG Porter 4400 black
-date: 2013-06-25 16:58
+date: "2013-06-25 16:58"
 comments: true
 author: Patrick
 categories: gear
-description: Hiking and Packrafting backpack - HMG Porter 4400 black
-keywords: HMG, Porter 4400, review
-featured_image: https://farm8.staticflickr.com/7392/9185837748_10b63a2e5d_b.jpg
+description: "Hiking and Packrafting backpack - HMG Porter 4400 black"
+keywords: "HMG, Porter 4400, review"
+featured_image: "https://farm8.staticflickr.com/7392/9185837748_10b63a2e5d_b.jpg"
+published: true
 ---
+
 Since I recently purchased a packraft, I realised quickly that my <a href="http://hikeventures.com/gear-review-laufbursche-huckepack-hp450/" target="_self">Laufbursche Huckepack</a>  is going to be a bit small for a multi-day packrafting trip. So I decided to order one of those HMG porter from the U.S. and are quite happy with it as an ultralight backpack for hiking, backpacking, packrafting and other backcountry trips and here comes a short review.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9185837748" title="HMG Porter 4400 "><img src="https://farm8.staticflickr.com/7392/9185837748_10b63a2e5d_b.jpg" width="600" height="661"></a>
@@ -57,4 +59,4 @@ HMG Porter 4400 on an <a href="http://hikeventures.com/gear-review-unpacking-alp
 I have tested the HMG Porter 4400 on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a>  in Sweden. On long backpacking trips saving weight is quite important. I wouldn't say that the HMG Porter 4400 is super durable, however having a waterproof backpack and saving 1-2 kg on weight due to the lower weight of the HMG Porter 4400 its quite worth the investment and also contributed to my outdoor experience. I am going to patch the holes in my backpack and then it should be fine for another 1-2 years. 
 
 ## Where to buy
-Have a look here:  <a href="http://www.hikeventures.com/deals/#HMG+Porter“><button class="btn btn-danger">Compare prices</button></a>
+Have a look here:  <a href="http://www.hikeventures.com/deals/#HMG+Porter"><button class="btn btn-danger">Compare prices</button></a>
