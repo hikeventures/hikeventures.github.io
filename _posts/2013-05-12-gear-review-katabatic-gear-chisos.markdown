@@ -5,8 +5,7 @@ date: "2013-05-12 09:34"
 comments: true
 author: Patrick
 toc: true
-categories: 
-  - Gear Reviews
+categories: Gear Reviews
 description: Katabatic Gear Chisos Review
 keywords: "Katabatic Gear, Chisos, Gear Reviews, Quilt"
 twitter_card: "https://farm8.staticflickr.com/7431/8731235226_efa6408459_b.jpg"
