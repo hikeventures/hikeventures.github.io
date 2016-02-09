@@ -1,19 +1,22 @@
 ---
 layout: post
-title: "Hiking and Packrafting in Sarek"
-date: 2013-08-25 21:39
+title: Hiking and Packrafting in Sarek
+date: "2013-08-25 21:39"
 comments: true
-categories: ['destinations']
+categories: 
+  - destinations
 description: Exploring the Scandinavian Mountains. The Last Wilderness of Europe
-keywords: Hiking, Sarek, Packrafting, Sweden, Finland, Outdoors, Wilderness, Trekking
-twitter_card:
-    image: https://farm6.staticflickr.com/5325/9603104017_b4db2afd67_b.jpg
+keywords: "Hiking, Sarek, Packrafting, Sweden, Finland, Outdoors, Wilderness, Trekking"
+twitter_card: 
+  image: "https://farm6.staticflickr.com/5325/9603104017_b4db2afd67_b.jpg"
+published: true
 ---
+
 This year we went on a 6 days packrafting and hiking trip in Sarek. We travelled from Vaasa by <a href="http://www.wasaline.com/en/" target="_blank">wasaline ferry</a> to Umea and then by a hiker train (it seemed that the only people who travelled north were planning to go on a hike in the fj&auml;lls) to G&auml;llivare. Transportation to Sarek from Umea is not that frequent so there is a possibility that you have to stay one night in Umea. 
 
 <a href="https://www.flickr.com/photos/90204224@N07/9596210073"><img src="https://farm8.staticflickr.com/7359/9596210073_1dfeed9bf1_z.jpg" width="600" alt="Hiking in Sarek National Park in Sweden"></a>
 <!--more-->
-#Day 1: From Gällivare to Vuosskeljavrre
+## Day 1: From Gällivare to Vuosskeljavrre
 <a href="https://www.flickr.com/photos/90204224@N07/9592075355"><img src="https://farm4.staticflickr.com/3677/9592075355_2b498ef41c_b.jpg" width="1024" height="683"></a>
 
 From G&auml;llivare we took a bus (<a href="http://www.bussgods.se" target="_blank">bussgods</a>) to Suorva. Price for the bus ticket was just over 300 SEK per person. If you are planning to do the same trip, make sure that you have enough cash for the bus fares (you can not pay by card) and eventually boat or helicopter ride of which you will read on our trip report of the last day.
@@ -55,7 +58,7 @@ After we left the forrest, going became easier (it was easier to see where you w
 
 <a href="https://www.flickr.com/photos/90204224@N07/9592091969"><img src="https://farm4.staticflickr.com/3753/9592091969_a9cf6f440a_b.jpg" width="1024" height="683"></a>
 
-Upon reaching some heights, we had a fantastic view over the Nieras fj&#228;lls and had a short break trying to take in all the serene beauty of this area.
+Upon reaching some heights, we had a fantastic view over the Nieras fj&## 228;lls and had a short break trying to take in all the serene beauty of this area.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9592365487"><img src="https://farm8.staticflickr.com/7368/9592365487_5771577106_b.jpg" width="1024" height="683"></a>
 
@@ -84,13 +87,13 @@ It took some time to find an even and dry spot as there were a lot of marshes an
 
 <a href="https://www.flickr.com/photos/90204224@N07/9592108407"><img src="https://farm8.staticflickr.com/7408/9592108407_ca37dfc4a1_b.jpg" width="1024" height="683"></a>
 
-We pumped fresh water and boiled it for our instant food packages which we took with us. Konstantin had <a href="http://www.travellunch.de/" target="_blank">Travellunch</a> Kartoffeltopf mit Rindfleisch which he rated 4 out of 5 and Patrick had <a href="http://www.farmers-outdoor.net/" target="_blank">Farmer&#039;­s Outdoor</a> Risotto al Funghi which he couldn't even finish and gave it to Konstantin who also found it nearly uneatable. We are not sure if the taste was only related to this package or to all packages with this meal.
+We pumped fresh water and boiled it for our instant food packages which we took with us. Konstantin had <a href="http://www.travellunch.de/" target="_blank">Travellunch</a> Kartoffeltopf mit Rindfleisch which he rated 4 out of 5 and Patrick had <a href="http://www.farmers-outdoor.net/" target="_blank">Farmer&## 039;­s Outdoor</a> Risotto al Funghi which he couldn't even finish and gave it to Konstantin who also found it nearly uneatable. We are not sure if the taste was only related to this package or to all packages with this meal.
 
 After having had dinner we enjoyed a beautiful red sunset which we thought would bring us friendly weather the next day. Due to the wind and the extreme coldness of the water we quickly gave up on the idea of having a swim in the lake and prepared our Cumulus Panyam 450 sleeping bags in our <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/" target="_self">Hilleberg tent</a>.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9592109299"><img src="https://farm4.staticflickr.com/3727/9592109299_3d30b7574e_b.jpg" width="1024" height="683"></a>
 
-#Day 2: From Vuosskeljavrre toTjevrra Fjäll
+## Day 2: From Vuosskeljavrre toTjevrra Fjäll
 On the second day we woke up at 10.30 and it was cloudy, windy and the morning temperature had dropped towards 12 C.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9596215171"><img src="https://farm4.staticflickr.com/3791/9596215171_d612311845_b.jpg" width="1024" height="683"></a>
@@ -149,7 +152,7 @@ The <a href="http://hikeventures.com/gear-review-hmg-porter-4400-black/" target=
 
 <a href="https://www.flickr.com/photos/90204224@N07/9596226393"><img src="https://farm6.staticflickr.com/5479/9596226393_34ba3b93fb_b.jpg" width="1024" height="683"></a>
 
-In the late afternoon we had to filter some water as our water bottles were almost empty after hours of paddling and we still needed some reserves in order to walk around the Tjevrra fj&#228;ll and to make dinner and tea.
+In the late afternoon we had to filter some water as our water bottles were almost empty after hours of paddling and we still needed some reserves in order to walk around the Tjevrra fj&## 228;ll and to make dinner and tea.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9599019542"><img src="https://farm8.staticflickr.com/7459/9599019542_097779e2ae_b.jpg" width="1024" height="683"></a>
 
@@ -167,7 +170,7 @@ The landscape was again impressive and we had the feeling of walking on a differ
 
 At 11 pm we pitched our <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/" target="_self">tent</a> and prepared dinner - Patrick had Travellunch Erbseneintopf and Konstantin Travellunch Linseneintopf mit Schinken (lentils with ham) which we both graded with 3.5 out of 5 - and tea with our <a href="http://hikeventures.com/gear-review-jetboil-sol-ti/" target="_self">Jetboil Sol Ti stove</a>. Temperatures were again very low and we just wanted to get into our warm sleeping bags in order to rest for the upcoming day.
 
-#Day 3: From Tjevrra Fjäll to Vuojnesskajdde Fjäll
+## Day 3: From Tjevrra Fjäll to Vuojnesskajdde Fjäll
 On day 3 we woke up at 8 am with temperatures around 10 C in the tent. The night was quite stormy but we didn't have any rain.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9596230731"><img src="https://farm8.staticflickr.com/7284/9596230731_c5b3d4bff8_b.jpg" width="1024" height="541"></a>
@@ -192,7 +195,7 @@ Massive rocks are spread all over the terrain.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9599027418"><img src="https://c4.staticflickr.com/8/7385/9599027418_a38b42401e_o.jpg" width="992" height="661"></a>
 
-After we passed the the Tjevrra fj&#228;ll we had a fantastic view over the Sarektjahkka. Even so we had very light rain ocassionally, my <a href="http://hikeventures.com/gear-review-arcteryx-palisade-pants/" target="_self">Arcteryx Palisade Pants</a> dried quite quickly.
+After we passed the the Tjevrra fj&## 228;ll we had a fantastic view over the Sarektjahkka. Even so we had very light rain ocassionally, my <a href="http://hikeventures.com/gear-review-arcteryx-palisade-pants/" target="_self">Arcteryx Palisade Pants</a> dried quite quickly.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9599028770"><img src="https://farm3.staticflickr.com/2890/9599028770_28d0a1d994_b.jpg" width="1024" height="683"></a>
 
@@ -266,9 +269,9 @@ At the Vuojnesskajdde fj&auml;ll we found a nice spot to camp with a great view 
 
 <a href="https://www.flickr.com/photos/90204224@N07/9599002048"><img src="https://farm3.staticflickr.com/2855/9599002048_b8561d2abd_b.jpg" width="1024" height="510"></a>
 
-We finally went to bed by midnight after having prepared dinner with our <a href="http://hikeventures.com/gear-review-jetboil-sol-ti/" target="_self">stove</a>. Patrick had <a href="http://www.trekneat.com/" target="_blank">Trek&#039;­n Eat</a> Pasta with Soja Bolognese (4 out of 5) and Konstantin <a href="http://www.travellunch.de/" target="_blank">Travellunch</a> mashed potatoes with ham (5 out of 5). On that day we have seen in total 6 other hikers of which 4 of them have camped about 500 meters away from us.
+We finally went to bed by midnight after having prepared dinner with our <a href="http://hikeventures.com/gear-review-jetboil-sol-ti/" target="_self">stove</a>. Patrick had <a href="http://www.trekneat.com/" target="_blank">Trek&## 039;­n Eat</a> Pasta with Soja Bolognese (4 out of 5) and Konstantin <a href="http://www.travellunch.de/" target="_blank">Travellunch</a> mashed potatoes with ham (5 out of 5). On that day we have seen in total 6 other hikers of which 4 of them have camped about 500 meters away from us.
 
-#Day 4: From Vuojnesskajdde Fjäll to Laddebakte Fjäll
+## Day 4: From Vuojnesskajdde Fjäll to Laddebakte Fjäll
 Our camp in the morning of day 4. On the background you can see our construction (a rope and 2 walking poles) were we dried our clothes. Our <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/" target="_self">tent</a> still performs very well.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9599003202"><img src="https://farm4.staticflickr.com/3673/9599003202_f593eb5e87_b.jpg" width="1024" height="683"></a>
@@ -305,9 +308,9 @@ Again a Reindeer.
 <a href="https://www.flickr.com/photos/90204224@N07/9602966999"><img src="https://farm8.staticflickr.com/7379/9602966999_ea9cbdacdc_b.jpg" width="1024" height="683"></a>
 We reached the Rahpajahka river which leads to Rapadalen were packrafting is prohibited.
 
-We were packrafting the Rahpaadno river down towards the Laddebakte fj&#228;ll where we stayed over night. At this point we decided to hike back to the Liehtjitjavrre lake as the stream was to strong and unpredictable for our taste and to hike along the Rahpa&auml;dno river was not very inviting either since the vegetation was very dense and the weather changed into rain and cold wind.
+We were packrafting the Rahpaadno river down towards the Laddebakte fj&## 228;ll where we stayed over night. At this point we decided to hike back to the Liehtjitjavrre lake as the stream was to strong and unpredictable for our taste and to hike along the Rahpa&auml;dno river was not very inviting either since the vegetation was very dense and the weather changed into rain and cold wind.
 
-#Day 5: From Laddebakte Fjäll to Lake Guordesluoppal
+## Day 5: From Laddebakte Fjäll to Lake Guordesluoppal
 On day 5 we were hiking and packrafting over 20 km. Once we packed our camp we found one of those emergency shelters which are also marked on the map. Those shelters do also provide tools and a place to make fire.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9606342602"><img src="https://farm6.staticflickr.com/5331/9606342602_f3ac32cc72_b.jpg" width="1024" height="683"></a>
@@ -344,7 +347,7 @@ This was the worst day of all and we also do not have that many pictures of this
 
 For those folk who are planning to use <a href="http://hikeventures.com/gear-review-inov-8-roclite-295/" target="_self">trail-runners</a> which are not waterproof ... Patrick had constantly wet feet on this trip. If there is not enough sun then there is no chance that you will have dry shoes. Patrick also used Sealakinz socks but they weard off after 2 days. The best combination would be to use merino socks and trail-runners if you don't want to use waterproof shoes. 
 
-#Day 6: From Lake Guordesluoppal back home
+## Day 6: From Lake Guordesluoppal back home
 <a href="https://www.flickr.com/photos/90204224@N07/9606337334"><img src="https://farm8.staticflickr.com/7324/9606337334_fcddf49763_b.jpg" width="1024" height="683"></a>
 
 
@@ -421,11 +424,11 @@ Sarek was a great experience and we look forward to visit the Sarek National Par
 <a href="https://www.flickr.com/photos/90204224@N07/9596162859"><img src="https://farm6.staticflickr.com/5336/9596162859_3d2d76ede9_b.jpg" width="1024" height="281"></a>
 By ferry from Umea to Vaasa. Bye bye Sweden.
 
-#Others who have been in Sarek
+## Others who have been in Sarek
 
 * [Hiking Adventures in Sarek National Park](http://lauragoesworld.wordpress.com/2014/09/10/hiking-adventures-in-sarek-national-park/)
 * [Sarek National Park—Conclusion](http://streamsandforests.wordpress.com/2014/09/08/sarek-national-park-conclusion)
 
 
-#Links
+## Links
 Our <a href="http://hikeventures.com/sarek-packrafting-video/" target="_blank">Sarek video</a>.
