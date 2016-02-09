@@ -3,8 +3,7 @@ layout: post
 title: Ortlieb Document Case
 date: "2013-03-21 18:48"
 comments: true
-categories: 
-  - Gear Reviews
+categories: Gear Reviews
 description: Ortlieb Document Case Review
 keywords: "Ortlieb, Document Case, Gear Reviews,hiking, outdoors, camping"
 twitter_card: 
