@@ -3,8 +3,7 @@ layout: post
 title: Aquapac Waterproof Camera Pouch
 date: "2013-11-29 15:40"
 comments: true
-categories: 
-  - Gear Reviews
+categories: Gear Reviews
 description: A good camera requires good protection against the elements
 keywords: "Gear Review, Aquapac, Waterproof, Camera Pouch, Photography"
 twitter_card: 
