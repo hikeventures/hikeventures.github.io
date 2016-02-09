@@ -3,8 +3,7 @@ layout: post
 title: Waterproof Maps for Hiking and Packrafting
 date: "2013-07-19 22:41"
 author: Patrick
-categories: 
-  - Gear Reviews
+categories: Gear Reviews
 description: Forget traditional paper maps. Waterproof maps are the way to go
 keywords: "waterproof, maps, hiking, navigation, calazo"
 twitter_card: 
