@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Deuter Boulder Gaiter
-date: {}
+date: 2013-12-25T21:05:59.000Z
 comments: true
-categories: 
-  - Gear Reviews
+categories: Gear Reviews
 description: Gaiter protect you of water and dirt getting into your shoes.
 keywords: "Gear Review, Deuter, Boulder Gaiter"
 twitter_card: 
