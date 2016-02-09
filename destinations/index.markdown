@@ -17,10 +17,17 @@ footer: false
         	<img src="https://farm2.staticflickr.com/1615/24321011066_e5ce7b207e_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:#FFF;">E5: Alps</p>
         </div></div></a></div></div>
+        
+        
+                     <div class="col-xs-6"><div class="hovereffect">
+            <a class="thumbnail" href="http://www.hikeventures.com/Testing-the-MSR-Revo-Ascent,-Ascent-Light,-Deploy-T2-and-Flight-2-in-the-Austrian-Alps/" style="color: #FFF; border: 0px;">
+        <div class="thumbnail text-center">
+        	<img src="https://farm2.staticflickr.com/1517/24879167675_7b2378afc4_z.jpg" alt="" class="img-responsive">
+        <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:#FFF;">Montafon</p>
+        </div></div></a></div></div>
+        
+        
 </div>   
-
-
-
 
 
 <div class="row">
