@@ -4,8 +4,7 @@ title: Alpacka Packraft Yukon Yak
 date: "2013-04-18 20:43"
 comments: true
 author: Patrick
-categories: 
-  - Gear Reviews
+categories: Gear Reviews
 toc: true
 description: Alpacka Packraft Yukon Yak Review
 keywords: "Alpacka, Packraft, Yukon Yak, review"
