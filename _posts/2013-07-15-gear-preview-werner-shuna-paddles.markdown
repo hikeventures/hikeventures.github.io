@@ -39,7 +39,7 @@ The angle is adjustable as you can see on the left hand side of the paddle.
 
 <a href="http://www.flickr.com/photos/90204224@N07/9292255403/" ><img src="http://farm8.staticflickr.com/7370/9292255403_b9cda0b1dc_c.jpg" width="800" height="535" alt="Werner Shuna paddle"></a>
 
-<a href="http://www.flickr.com/photos/90204224@N07/9292254585/" ><img src="http://farm4.staticflickr.com/3689/9292254585_d8781e5ec4_c.jpg" width="800" height="495" alt="Werner Shuna paddle"></a></center>
+<a href="http://www.flickr.com/photos/90204224@N07/9292254585/" ><img src="http://farm4.staticflickr.com/3689/9292254585_d8781e5ec4_c.jpg" width="800" height="495" alt="Werner Shuna paddle"></a>
 
 I really like the design of these paddles. They just look great and they are super light. If you have the money to buy a <a hre="http://hikeventures.com/gear-review-unpacking-alpacka-packraft/" target="_self">packraft</a> then you should definitely not save on your paddles.
 
