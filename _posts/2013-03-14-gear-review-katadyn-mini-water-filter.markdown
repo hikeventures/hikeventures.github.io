@@ -3,8 +3,8 @@ layout: post
 title: Katadyn Mini Water Filter
 date: "2013-03-14 17:39"
 comments: true
-categories: gear
-description: "Katadyn Mini Water Filter - Your next water filter - Review"
+categories: gear review
+description: "Katadyn Mini Water Filter - Your next water filter  Review"
 keywords: "Katadyn, Mini Water Filter, gear review, water, purification, hiking, outdoors"
 featured_image: "http://farm9.staticflickr.com/8389/8556629391_d8688af598_c.jpg"
 published: true
