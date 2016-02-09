@@ -4,8 +4,7 @@ title: Navigation Tools for Hiking
 date: "2013-07-20 13:38"
 comments: true
 author: Patrick
-categories: 
-  - Articles
+categories: Articles
 description: Tools I use for Hiking and Packrafting
 keywords: "Packraft, inflate, instructions, outdoors, Packrafting"
 twitter_card: 
