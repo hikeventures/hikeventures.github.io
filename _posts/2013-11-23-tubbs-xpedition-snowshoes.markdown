@@ -3,8 +3,7 @@ layout: post
 title: "Review: Tubbs Xpedition Snowshoe"
 date: "2013-12-10 21:11"
 comments: true
-categories: 
-  - Gear Reviews
+categories: Gear Reviews
 description: Explore the great outdoors with these snowshoes
 keywords: "Gear Review, Tubbs, Xpedition, Snowshoes"
 twitter_card: 
