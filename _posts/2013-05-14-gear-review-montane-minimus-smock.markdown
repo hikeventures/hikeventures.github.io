@@ -3,8 +3,7 @@ layout: post
 title: Montane Minimus Smock
 date: "2013-05-14 18:21"
 comments: true
-categories: 
-  - Gear Reviews
+categories: Gear Reviews
 description: Montane Minimus Smock Review
 keywords: Montane Minimus Smock Review
 twitter_card: "http://farm8.staticflickr.com/7288/8738822666_5f58a6bcdc_c.jpg"
