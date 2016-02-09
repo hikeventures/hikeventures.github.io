@@ -68,7 +68,7 @@ Orienteering
 
 <a href="https://www.flickr.com/photos/90204224@N07/8627362964"><img src="https://farm9.staticflickr.com/8530/8627362964_4bb5a70c19_b.jpg" width="680" height="1024" alt="Hiking in Zuid-Kenemerland"></a>
 
-<a href="https://www.flickr.com/photos/90204224@N07/8627363158" title="Middenduin Bison"><img src="https://farm9.staticflickr.com/8537/8627363158_509134df86_b.jpg" width="1024" height="680" alt="Middenduin Bison"></a></center>
+<a href="https://www.flickr.com/photos/90204224@N07/8627363158" title="Middenduin Bison"><img src="https://farm9.staticflickr.com/8537/8627363158_509134df86_b.jpg" width="1024" height="680" alt="Middenduin Bison"></a>
 
 ## Links
 <a href="http://www.np-zuidkennemerland.nl/documents/unieke_natuur/middenduin.xml?lang=nl">Middenduin</a>
