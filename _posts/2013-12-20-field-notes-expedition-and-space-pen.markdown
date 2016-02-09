@@ -3,14 +3,14 @@ layout: post
 title: "How to document your hiking trip?"
 date: "2013-12-20 18:50:22 +0200"
 comments: true
-categories: 
-  - Gear Reviews
+categories: Gear Reviews
 description: Maybe the best hiking gear for writers and journalists
 keywords: "Gear Review, Field Notes Expedition and Space Pen, Outdoors, Hiking"
 twitter_card: 
   image: "http://farm4.staticflickr.com/3827/11544807355_5275cd0040_c.jpg"
 published: true
 ---
+
 
 When I go hiking or backpacking I occasionally document my trip with notes about the area, how far I have hiked or if anything interesting happened. To document my hiking trip I take pen and paper, DSLR / mirrorless camera and my smartphone with me. 
 <a href="https://www.flickr.com/photos/90204224@N07/11466248965"><img src="https://farm4.staticflickr.com/3665/11466248965_4e1a237577_b.jpg" width="1024" height="683" alt="Field Notes Expedition"></a>
