@@ -43,6 +43,17 @@ footer: false
         </div></div></a></div></div>
 </div>        
 
+            <div class="col-xs-6"><div class="hovereffect">
+            <a class="thumbnail" href="http://www.hikeventures.com/Packrafting-Ardennes/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
+        <img src="https://farm2.staticflickr.com/1697/24305033203_0687083ffd_z.jpg" alt="" class="img-responsive">
+        <div class="caption">
+            <p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Ardennes</p>
+        </div></div></a></div></div>
+</div>    
+
+
+
+
 
 
 <div class="row">            
