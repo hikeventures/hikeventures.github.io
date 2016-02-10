@@ -21,6 +21,11 @@ Ever dreamed of quitting your well paid, respectable job to visit some of the mo
 
 <a href="https://twitter.com/BikeHikeSafari">Twitter</a> | <a href="https://www.facebook.com/bikehikesafari">Facebook</a> | <a href="https://instagram.com/bikehikesafari/">Instagram</a>
 
+
+<a href="https://www.facebook.com/lotsafreshair">Facebook</a>
+| <a href="http://twitter.com/Lotsafreshair">Twitter</a> | <a href="http://instagram.com/Lotsafreshair">Instagram </a> | <a href="https://www.youtube.com/user/Lotsafreshair">Youtube </a>
+
+
 ### <a href="http://looking442.wordpress.com">looking442.wordpress.com</a>
 After a mini stroke (TIA) in February 2014, I decided to sell my house, give away any unnecessary possessions, transition to part-time work from a laptop anywhere in the world and travel. So far I've volunteered in a school in Africa, spent 6 weeks camping on a sand island, cycle toured in Australia and South Korea, rode a motorcycle on Java, backpacked Thailand and driven in Malaysia. Next up I will cycle tour Japan, walk the Camino de Santiago de Compastella, return to Java, fat bike and packraft across the England and Scotland for the NNW800 challenge, visit family in Holland during the winter and then fat bike Swedish Lapland in the snow.  I write a post for every day of my travels and organise them by country for easy access. Sometimes posts are delayed but I always write about my daily adventures when traveling.
 
