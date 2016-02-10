@@ -37,7 +37,7 @@ footer: false
 
              <div class="col-xs-6"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/Packrafting-in-Belgium/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
-        <img src="https://farm2.staticflickr.com/1521/24340571715_56df36e1bc_z.jpg" alt="" class="img-responsive">
+        <img src="https://farm2.staticflickr.com/1522/24636460000_af7bde811e_z.jpg" alt="" class="img-responsive">
         <div class="caption">
             <p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Semois</p>
         </div></div></a></div></div>
