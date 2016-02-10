@@ -154,5 +154,4 @@ This is an emergency headlamp from Petzl. This headlamp features a lock and has 
 [1]:	http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/
 [2]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/
 [3]:	http://www.hikeventures.com/suunto-ambit3-ambit2-worth-upgrade/
-[4]:	http://www.hikeventures.com/deals/
-[4]:	http://www.hikeventures.com/deals/
+[4]:	http://www.hikeventures.com/deals/#headlamp
