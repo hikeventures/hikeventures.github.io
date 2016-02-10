@@ -144,4 +144,4 @@ What is the best camping stove in your opinion? Leave a comment below.
 
 [1]:	http://hikeventures.com/gear-review-jetboil-sol-ti/
 [2]:	http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/
-[3]:	http://www.hikeventures.com/deals/
+[3]:	http://www.hikeventures.com/deals/#stove
