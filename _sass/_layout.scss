@@ -127,8 +127,8 @@
 }
 
 .footer-col-1 {
-    width: -webkit-calc(78% - (#{$spacing-unit} / 2));
-    width:         calc(78% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+    width:         calc(50% - (#{$spacing-unit} / 2));
     float: left;
 }
 
@@ -138,8 +138,8 @@
 }
 
 .footer-col-3 {
-    width: -webkit-calc(22% - (#{$spacing-unit} / 2));
-    width:         calc(22% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(23% - (#{$spacing-unit} / 2));
+    width:         calc(23% - (#{$spacing-unit} / 2));
     float: right;
 }
 
