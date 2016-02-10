@@ -129,4 +129,4 @@ Which is the best wind jacket in your opinion? Leave a comment below.
 [4]:	http://www.hikeventures.com/best-fleece-jackets/
 [5]:	http://www.hikeventures.com/best-fleece-jackets/
 [6]:	http://www.hikeventures.com/best-down-jackets/
-[7]:	http://www.hikeventures.com/deals/
+[7]:	http://www.hikeventures.com/deals/#wind+Jacket+men
