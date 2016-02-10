@@ -15,7 +15,8 @@ As we are always interested in meeting new outdoor enthusiasts (hiking, packraft
 
 ### <a href="http://bikehikesafari.com/">bikehikesafari.com</a>
 
-<a href="https://www.flickr.com/photos/90204224@N07/17158091745"><img src="https://farm9.staticflickr.com/8716/17158091745_b34825f92f_b.jpg" width="1024" height="640"></a><br><br>
+<a href="https://www.flickr.com/photos/90204224@N07/17158091745"><img src="https://farm9.staticflickr.com/8716/17158091745_b34825f92f_b.jpg" width="1024" height="640"></a>
+
 Ever dreamed of quitting your well paid, respectable job to visit some of the most amazing places on the planet? Interested in hiking, cycle touring and canoeing in remote wilderness regions? Well, that's me. In 2014 I hiked, cycle toured and canoed in Tasmania, Alaska, Canada and Western USA. In 2015 I'll hike 2660 miles of the Pacific Crest Trail from Mexico to Canada. With little time for rest I'll then jump on my bicycle and cycle south to Argentina visiting the most amazing places in Central and South America. After South America, it's a big world! If you have a passion for nature and wilderness areas of the world join me as I discover the most amazing places on the planet.
 
 <a href="https://twitter.com/BikeHikeSafari">Twitter</a> | <a href="https://www.facebook.com/bikehikesafari">Facebook</a> | <a href="https://instagram.com/bikehikesafari/">Instagram</a>
@@ -26,7 +27,7 @@ After a mini stroke (TIA) in February 2014, I decided to sell my house, give awa
 <a href="https://www.facebook.com/lookingfor42">Facebook</a> | <a href="https://twitter.com/andrewgills">Twitter</a> | <a href="https://instagram.com/Lookingfor42">Instagram </a>
 
 ### <a href="http://lotsafreshair.com/">lotsafreshair.com</a>
-<a href="https://www.flickr.com/photos/90204224@N07/16635644863"><img src="https://farm9.staticflickr.com/8818/16635644863_43873e4da8_b.jpg" width="1024" height="768"></a><br><br>
+<a href="https://www.flickr.com/photos/90204224@N07/16635644863"><img src="https://farm9.staticflickr.com/8818/16635644863_43873e4da8_b.jpg" width="1024" height="768"></a>
 Everyone talks about the need to unplug from their stressful lives and connect with nature and themselves by spending time in nature. However, when faced with the possibility of getting 'out there', many people come up with excuses that stop them from doing that. Lotsafreshair is a blog and YouTube channel all about encouraging people to get out and blow away those excuses. From what to pack, what food to take or how to adjust a backpack, Lotsafreshair aims to connect people with nature and help them fall in love with their outside selves. It provides a mix of not only practical quick tips and how-to's, but inspirational journeys and adventures in Australia and overseas.
 
 <a href="https://www.facebook.com/lotsafreshair">Facebook</a>
@@ -37,7 +38,7 @@ Everyone talks about the need to unplug from their stressful lives and connect w
 ### <a href="https://kaspergeuns.com">Kasper & Charlotte</a>
 
 <img src="https://farm1.staticflickr.com/297/19499672614_0dc5de9f99_b.jpg" width="960" height="960" alt="kasper &amp; charlotte">
-<br><br><a href="https://www.facebook.com/kasper.charlotte">Facebook</a> | <a href="https://twitter.com/kaspergeuns/">Twitter</a> | <a href="https://instagram.com/KASPERGEUNS/">Instagram </a> | <a href="https://vimeo.com/user10535942">Vimeo</a> | <a href="https://www.pinterest.com/kaspergeuns/">Pinterest</a>
+<a href="https://www.facebook.com/kasper.charlotte">Facebook</a> | <a href="https://twitter.com/kaspergeuns/">Twitter</a> | <a href="https://instagram.com/KASPERGEUNS/">Instagram </a> | <a href="https://vimeo.com/user10535942">Vimeo</a> | <a href="https://www.pinterest.com/kaspergeuns/">Pinterest</a>
 
 ### <a href="http://www.davidcappelle.com/">Wandering David</a>
 <a href="https://www.facebook.com/davidcappelle.blog">Facebook</a> | <a href="https://twitter.com/wandering_david">Twitter</a>
@@ -60,7 +61,7 @@ Everything families need to know to get outside and have fun! Trip reports, pack
 
 ### <a href="http://urbanpackrafter.com">urbanpackrafter.com</a>
 
-<a href="https://www.flickr.com/photos/90204224@N07/16870181530"><img src="https://farm8.staticflickr.com/7705/16870181530_52d3758b98_b.jpg" width="1024" height="681"></a><br><br>
+<a href="https://www.flickr.com/photos/90204224@N07/16870181530"><img src="https://farm8.staticflickr.com/7705/16870181530_52d3758b98_b.jpg" width="1024" height="681"></a>
 My name is Jacob Kastrup Haagensen and I am a 34 year old Dane living in Copenhagen and working in the city administration. In the 2013 I brought a packraft and a year after I started documenting my trips by videos on the site <a href="http://www.urbanpackrafter.com">urbanpackrafter.com</a>. The idea was also to take micro adventures inside Copenhagen and other cities I visit. I want to inspire other packrafters also to use their packraft in the city. To see a city from the waterside gives you an hole new perspective on where you live. Educated in urban planning I have a love for cities and the opportunities they give. I also love the wild. Since my Boy Scout time I always being out in nature. I have a lot of love for the Scandinavian nature with its solitude and many of my wilderness trips goes to Sweden and Norway. A packraft gives other opportunities where lakes and rivers being trails instead of obstacles.
 
 <a href="https://twitter.com/urbanpackrafter">Twitter</a>
@@ -86,7 +87,7 @@ Das Team von airFreshing.com besteht aus Bergfüchsen, Frischluftfans und ambiti
 
 ### <a href="http://cesarandthewoods.blogspot.fi/">Cesar and the Woods</a>
 
-<img src="http://2.bp.blogspot.com/-DFTWNIebtbk/VU5BhAyRUWI/AAAAAAAAE8A/ITnWQyXqfFY/s1600/DSC01810.JPG"><br><br>
+<img src="http://2.bp.blogspot.com/-DFTWNIebtbk/VU5BhAyRUWI/AAAAAAAAE8A/ITnWQyXqfFY/s1600/DSC01810.JPG">
 Hey!  I'm Cesar and this is my blog.  I have been extremely interested in nature and the outdoors since I was a small child, and started going camping/backpacking on my own when I was around 16 years old.  I was born in 1980 in Los Angeles, CA, to a Mexican father and Nicaraguan mother, and since have lived and traveled all over the world.  I have been living in Sweden since 2006 with my best friend and wife and our children, two healthy, happy, amazing boys that are the light of my life.  Here are the goals of my blog in a nutshell:
 
 1.  To create a website I wish I would have had access to when I started my journey as an outdoors enthusiast/backpacker/camper, long ago in the dark days before blogs existed.
@@ -115,7 +116,7 @@ I hope you will visit and enjoy my blog, much more will be uploaded.
 ### <a href="http://blackdogbicycling.blogspot.com">blackdogbicycling.blogspot.com</a>
 <a href="https://www.flickr.com/photos/90204224@N07/16971940099"><img src="https://farm9.staticflickr.com/8770/16971940099_42ddf02cac_o.jpg" width="640" height="480"></a>
 
-Hi, my name is Tom Boughton. This blog follows my journey. In 2013 I was depressed and quit my office job in London, bought a bicycle and a tent and set off east with only a vague idea of where and why. Two years and 25,000 kilometers later I've cycled over the Alps, through minefields in the Balkans and across the empty quarter in Oman. Pushed the bike through snow drifts in Wales and up 20% inclines in Armenia. Visited Alexander the Great's birth place and the remains of Persepolis that he burnt down in Iran. Dodged army patrols in Musandam and fought off aggressive macaques in Malaysia. I reached the southern tip of New Zealand and didn't want to stop so I haven't yet. All the while I have been wild camping under the stars and living cheap.  Come along for the ride.<br><br>
+Hi, my name is Tom Boughton. This blog follows my journey. In 2013 I was depressed and quit my office job in London, bought a bicycle and a tent and set off east with only a vague idea of where and why. Two years and 25,000 kilometers later I've cycled over the Alps, through minefields in the Balkans and across the empty quarter in Oman. Pushed the bike through snow drifts in Wales and up 20% inclines in Armenia. Visited Alexander the Great's birth place and the remains of Persepolis that he burnt down in Iran. Dodged army patrols in Musandam and fought off aggressive macaques in Malaysia. I reached the southern tip of New Zealand and didn't want to stop so I haven't yet. All the while I have been wild camping under the stars and living cheap.  Come along for the ride.
 <a href="https://twitter.com/gordon_comstock">Twitter</a>
 
 ### <a href="https://markswalkingblog.wordpress.com">markswalkingblog.wordpress.com</a>
@@ -136,7 +137,7 @@ An outdoor blog including cycling, survival, outdoor tech and survival. It shows
 <a href="https://www.facebook.com/Kernowoutdoors">Facebook</a> | <a href="https://twitter.com/kernowoutdoors">Twitter</a> | <a href="https://instagram.com/topmat/">Instagram </a>
 
 ### <a href="http://www.thebimbler.co.uk">thebimbler.co.uk</a>
-<a href="https://www.flickr.com/photos/90204224@N07/18466301726"><img src="https://c1.staticflickr.com/1/289/18466301726_0fa2df5ea8_b.jpg" width="1024" height="575" alt="Hammock"></a><br><br>
+<a href="https://www.flickr.com/photos/90204224@N07/18466301726"><img src="https://c1.staticflickr.com/1/289/18466301726_0fa2df5ea8_b.jpg" width="1024" height="575" alt="Hammock"></a>
 The Bimbler Photo Blog is all about low octane adventure in South West UK with an emphasis on stopping to soak up the environment and eating snacks!
 
 <a href="https://www.facebook.com/theBimbler">Facebook</a> | <a href="https://twitter.com/The_Bimbler">Twitter</a> | <a href="https://instagram.com/topmat/">Instagram </a>
@@ -144,14 +145,14 @@ The Bimbler Photo Blog is all about low octane adventure in South West UK with a
 ### <a href="http://onepaceforward.com">onepaceforward.com</a>
 <img src="https://farm4.staticflickr.com/3736/19978123638_64d435d118_b.jpg" width="960" height="720" alt="Copyright by onepaceforward.com">
 
-One Pace Forward is blog for hiking, adventure, travels, history & more, both in the UK and beyond.<br><br>
+One Pace Forward is blog for hiking, adventure, travels, history & more, both in the UK and beyond.
 <a href="https://www.facebook.com/onepaceforward">Facebook</a> | <a href="https://twitter.com/onepaceforward">Twitter</a>
 
 ## United States
 
 ### <a href="http://www.adventuretykes.com">adventuretykes.com</a>
 
-<a href="https://www.flickr.com/photos/90204224@N07/16967505087"><img src="https://farm8.staticflickr.com/7689/16967505087_21907bf92d_b.jpg" width="1024" height="768"></a><br><br>
+<a href="https://www.flickr.com/photos/90204224@N07/16967505087"><img src="https://farm8.staticflickr.com/7689/16967505087_21907bf92d_b.jpg" width="1024" height="768"></a>
 Helping to inspire and motivate parents to get outside with their tykes. Find resources on hiking, camping, backpacking and mountain biking as a family along with gear reviews, tips/ideas and giveaways.
 
 <a href="https://www.facebook.com/adventuretykes">Facebook</a> | <a href="https://twitter.com/alocalwander">Twitter</a> | <a href="https://instagram.com/alocalwander">Instagram </a>
@@ -162,7 +163,7 @@ Encouraging families to get outdoors together through our family adventures in h
 <a href="http://facebook.com/alocalwander">Facebook</a> | <a href="https://twitter.com/AdventureTykes">Twitter</a> | <a href="https://instagram.com/AdventureTykes">Instagram </a>
 
 ### <a href="http://www.packraft.org">packraft.org</a>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/22903055653/in/dateposted-public/" title="American Packrafting Association"><img src="https://farm6.staticflickr.com/5623/22903055653_5b71ac331b_o.png" width="383" height="304" alt="American Packrafting Association"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/22903055653/in/dateposted-public/" title="American Packrafting Association"><img src="https://farm6.staticflickr.com/5623/22903055653_5b71ac331b_o.png" width="383" height="304" alt="American Packrafting Association"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a href="https://www.facebook.com/AmericanPackraftingAssociation">Facebook</a>
 
@@ -192,7 +193,7 @@ I’m a transplanted Southern Californian living in the Midwest. It’s taken so
 <a href="https://www.facebook.com/missourihowell">Facebook</a> | <a href="https://twitter.com/MissouriHowell">Twitter</a> | <a href="https://plus.google.com/u/0/105981686788990057744/posts"Google+</a> | <a href="https://www.pinterest.com/divotdoggy/">Pinterest</a>  | <a href="https://instagram.com/missourihowell/">Instagram</a> | <a href="https://www.youtube.com/channel/UCA9HWnKiqw2wmxOW85K_ecg">Youtube</a>
 
 ### <a href="http://www.peakandpixel.com">peakandpixel.com</a>
-I'm a recovering lawyer turned freelance storyteller with a passion for playing outside. I am an avid photographer, cyclist, trail runner, pack burro racer, hiker, paddleboarder, camper, and all around lover of the great outdoors. I'm also a mom to two dogs and one rad little boy. I love showing others that your outdoorsy life doesn't have to come to an end just because you have kids! <br><br>
+I'm a recovering lawyer turned freelance storyteller with a passion for playing outside. I am an avid photographer, cyclist, trail runner, pack burro racer, hiker, paddleboarder, camper, and all around lover of the great outdoors. I'm also a mom to two dogs and one rad little boy. I love showing others that your outdoorsy life doesn't have to come to an end just because you have kids! 
 <a href="https://www.facebook.com/pages/Peak-and-Pixel/1601133830165121?fref=ts">Facebook</a> | <a href="http://twitter.com/jendz">Twitter</a> | <a href="http://instagram.com/iamjendz">Instagram </a>
 
 ### <a href="http://pureadk.com/">pureadk.com</a>
