@@ -33,7 +33,9 @@ Everyone talks about the need to unplug from their stressful lives and connect w
 | <a href="http://twitter.com/Lotsafreshair">Twitter</a> | <a href="http://instagram.com/Lotsafreshair">Instagram </a> | <a href="https://www.youtube.com/user/Lotsafreshair">Youtube </a>
 
 ## Belgium
+
 ### <a href="https://kaspergeuns.com">Kasper & Charlotte</a>
+
 <img src="https://farm1.staticflickr.com/297/19499672614_0dc5de9f99_b.jpg" width="960" height="960" alt="kasper &amp; charlotte">
 <br><br><a href="https://www.facebook.com/kasper.charlotte">Facebook</a> | <a href="https://twitter.com/kaspergeuns/">Twitter</a> | <a href="https://instagram.com/KASPERGEUNS/">Instagram </a> | <a href="https://vimeo.com/user10535942">Vimeo</a> | <a href="https://www.pinterest.com/kaspergeuns/">Pinterest</a>
 
@@ -44,23 +46,29 @@ Everyone talks about the need to unplug from their stressful lives and connect w
 A young couple who like to share our outdoor experiences.
 
 ## Canada
+
 ### <a href="https://hike365.wordpress.com/">Hike365.org</a>
+
 <a href="https://www.facebook.com/hike365">Facebook</a> | <a href="https://twitter.com/hike365">Twitter</a> | <a href="https://instagram.com/p/5kRoHWOIFr/">Instagram </a>
 
 ### <a href="http://www.playoutsideguide.com">playoutsideguide.com</a>
 Everything families need to know to get outside and have fun! Trip reports, pack lists, gear reviews, and more!
 
-<a href="https://twitter.com/playoutsidegal">Twitter</a> | <a href="https://www.facebook.com/PlayOutsideGuide">Facebook</a> | <a href="https://instagram.com/playoutsidegal">Instagram</a><br><br>
+<a href="https://twitter.com/playoutsidegal">Twitter</a> | <a href="https://www.facebook.com/PlayOutsideGuide">Facebook</a> | <a href="https://instagram.com/playoutsidegal">Instagram</a>
 
 ## Denmark
+
 ### <a href="http://urbanpackrafter.com">urbanpackrafter.com</a>
+
 <a href="https://www.flickr.com/photos/90204224@N07/16870181530"><img src="https://farm8.staticflickr.com/7705/16870181530_52d3758b98_b.jpg" width="1024" height="681"></a><br><br>
 My name is Jacob Kastrup Haagensen and I am a 34 year old Dane living in Copenhagen and working in the city administration. In the 2013 I brought a packraft and a year after I started documenting my trips by videos on the site <a href="http://www.urbanpackrafter.com">urbanpackrafter.com</a>. The idea was also to take micro adventures inside Copenhagen and other cities I visit. I want to inspire other packrafters also to use their packraft in the city. To see a city from the waterside gives you an hole new perspective on where you live. Educated in urban planning I have a love for cities and the opportunities they give. I also love the wild. Since my Boy Scout time I always being out in nature. I have a lot of love for the Scandinavian nature with its solitude and many of my wilderness trips goes to Sweden and Norway. A packraft gives other opportunities where lakes and rivers being trails instead of obstacles.
 
 <a href="https://twitter.com/urbanpackrafter">Twitter</a>
 
 ## Germany
+
 ### <a href="http://airfreshing.com">Airfreshing.com</a>
+
 Das Team von airFreshing.com besteht aus Bergfüchsen, Frischluftfans und ambitionierten Freizeitsportler. Und alle verfügen über das, was das erfrischend andere Outdoor-Onlinemagazin so erfolgreich macht: Leidenschaft. Seit 2009 behalten wir über das komplette Jahr hinweg immer alles im Blick, was unsere Leser wirklich interessiert – vom Testbericht über Eventhinweise bis hin zu den neuesten Trends im Outdoor- und Bergsportbereich. 
 
 <a href="https://www.facebook.com/airFreshing/">Facebook</a> | <a href="https://twitter.com/airfreshing">Twitter</a> | <a href="https://www.instagram.com/airfreshing/">Instagram</a>
@@ -75,7 +83,9 @@ Das Team von airFreshing.com besteht aus Bergfüchsen, Frischluftfans und ambiti
 <a href="https://www.facebook.com/outdoorfever.de">Facebook</a> | <a href="https://twitter.com/outdoorfever">Twitter</a> | <a href="http://www.flickr.com/photos/kraxel-magazin/">Flickr</a> | <a href=https://plus.google.com/+OutdoorfeverDe/posts">Google+</a> | <a href="https://www.pinterest.com/outdoorfever/">Pinterest</a>
 
 ## Sweden
+
 ### <a href="http://cesarandthewoods.blogspot.fi/">Cesar and the Woods</a>
+
 <img src="http://2.bp.blogspot.com/-DFTWNIebtbk/VU5BhAyRUWI/AAAAAAAAE8A/ITnWQyXqfFY/s1600/DSC01810.JPG"><br><br>
 Hey!  I'm Cesar and this is my blog.  I have been extremely interested in nature and the outdoors since I was a small child, and started going camping/backpacking on my own when I was around 16 years old.  I was born in 1980 in Los Angeles, CA, to a Mexican father and Nicaraguan mother, and since have lived and traveled all over the world.  I have been living in Sweden since 2006 with my best friend and wife and our children, two healthy, happy, amazing boys that are the light of my life.  Here are the goals of my blog in a nutshell:
 
@@ -88,7 +98,9 @@ Hey!  I'm Cesar and this is my blog.  I have been extremely interested in nature
 I hope my blog is helpful and/or enjoyable to read.  Take care and happy trails to you.
 
 ## United Kingdom
+
 ### <a href="http://andersbrogaardadventures.tumblr.com">andersbrogaardadventures.tumblr.com</a>
+
 <a href="https://www.flickr.com/photos/90204224@N07/17120837402"><img src="https://farm8.staticflickr.com/7682/17120837402_693da2ee93_b.jpg" width="1024" height="499"></a>
 
 Hi im Anders.
@@ -136,7 +148,9 @@ One Pace Forward is blog for hiking, adventure, travels, history & more, both in
 <a href="https://www.facebook.com/onepaceforward">Facebook</a> | <a href="https://twitter.com/onepaceforward">Twitter</a>
 
 ## United States
+
 ### <a href="http://www.adventuretykes.com">adventuretykes.com</a>
+
 <a href="https://www.flickr.com/photos/90204224@N07/16967505087"><img src="https://farm8.staticflickr.com/7689/16967505087_21907bf92d_b.jpg" width="1024" height="768"></a><br><br>
 Helping to inspire and motivate parents to get outside with their tykes. Find resources on hiking, camping, backpacking and mountain biking as a family along with gear reviews, tips/ideas and giveaways.
 
