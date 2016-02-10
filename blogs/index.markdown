@@ -108,9 +108,6 @@ Hi im Anders.
 My blog, Facebook and Youtube is about adventure, the great outdoors and photography/film.   
 There is a lot of pictures, small stories and gear. Im on the Woodland Ways two year bushcraft instructors course, an aspiring Mountain Leader and member of BMC and MCofS. REC2 certified and a very keen trekker. Im especially interested in the Scottish Highlands and will spend a lot of time over the next year, exploring these wonderful hills and making pictures and video while doing so.
 
-I am also the UK brand ambassador for Rocky S2V #TEAMS2V you can visit on http://blog.rockys2v.com/ambassadors/teams2v-anders/
-I hope you will visit and enjoy my blog, much more will be uploaded.
-
 <a href="https://www.facebook.com/andersbrogaardadventures"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/andersbrogaard"><i class="fa fa-twitter"></i></a>  <a href="https://instagram.com/andersbrogaardphoto/"><i class="fa fa-instagram"></i></a>  <a href="https://www.youtube.com/channel/UCCimG-eeJ31j_ihV5VTPJdg/videos"><i class="fa fa-youtube"></i></a>
 
 ### <a href="http://blackdogbicycling.blogspot.com">blackdogbicycling.blogspot.com</a>
