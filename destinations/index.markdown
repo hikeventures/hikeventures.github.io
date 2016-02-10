@@ -41,7 +41,7 @@ footer: false
         <div class="caption">
             <p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Semois</p>
         </div></div></a></div></div>
-</div>        
+       
 
             <div class="col-xs-6"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/Packrafting-Ardennes/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
