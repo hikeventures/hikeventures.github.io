@@ -12,6 +12,7 @@ As we are always interested in meeting new outdoor enthusiasts (hiking, packraft
 
 
 ## Australia
+
 ### <a href="http://bikehikesafari.com/">bikehikesafari.com</a>
 <a href="https://www.flickr.com/photos/90204224@N07/17158091745"><img src="https://farm9.staticflickr.com/8716/17158091745_b34825f92f_b.jpg" width="1024" height="640"></a><br><br>
 Ever dreamed of quitting your well paid, respectable job to visit some of the most amazing places on the planet? Interested in hiking, cycle touring and canoeing in remote wilderness regions? Well, that's me. In 2014 I hiked, cycle toured and canoed in Tasmania, Alaska, Canada and Western USA. In 2015 I'll hike 2660 miles of the Pacific Crest Trail from Mexico to Canada. With little time for rest I'll then jump on my bicycle and cycle south to Argentina visiting the most amazing places in Central and South America. After South America, it's a big world! If you have a passion for nature and wilderness areas of the world join me as I discover the most amazing places on the planet.
