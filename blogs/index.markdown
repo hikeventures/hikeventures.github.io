@@ -204,10 +204,6 @@ It is because of our desire for adventure and our passion for the area that we a
 ### <a href="https://rivertoprambles.wordpress.com">Rivertop Rambles</a>
 Adventures in Fly Fishing, Hiking, and Natural History
 
-### <a href="http://blog.rockys2v.com/">blog.rockys2v.com</a>
-Our Blog is about featuring outdoors minded individuals and letting them tell their stories. We feature various people from trackers to skiers to hikers. We looking to connect like minded adventures.
-<a href="https://www.facebook.com/RockyS2V?ref=hl"><i class="fa fa-facebook"></i></a>
-
 ### <a href="http://socalhiker.net">socalhiker.net</a>
 SoCalHiker helps you find your next adventure. I started SoCalHiker back in 2010 as I was preparing for my second thru-hike on the epic John Muir Trail. I had to do the research on getting permits, training, and gear, and figured I'd share what I learned.
 
