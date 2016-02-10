@@ -24,21 +24,21 @@ Ever dreamed of quitting your well paid, respectable job to visit some of the mo
 ### <a href="http://looking442.wordpress.com">looking442.wordpress.com</a>
 After a mini stroke (TIA) in February 2014, I decided to sell my house, give away any unnecessary possessions, transition to part-time work from a laptop anywhere in the world and travel. So far I've volunteered in a school in Africa, spent 6 weeks camping on a sand island, cycle toured in Australia and South Korea, rode a motorcycle on Java, backpacked Thailand and driven in Malaysia. Next up I will cycle tour Japan, walk the Camino de Santiago de Compastella, return to Java, fat bike and packraft across the England and Scotland for the NNW800 challenge, visit family in Holland during the winter and then fat bike Swedish Lapland in the snow.  I write a post for every day of my travels and organise them by country for easy access. Sometimes posts are delayed but I always write about my daily adventures when traveling.
 
-<a href="https://www.facebook.com/lookingfor42"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/andrewgills"><i class="fa fa-twitter"></i></a> | <a href="https://instagram.com/Lookingfor42">Instagram </a>
+<a href="https://www.facebook.com/lookingfor42"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/andrewgills"><i class="fa fa-twitter"></i></a> | <a href="https://instagram.com/Lookingfor42"><i class="fa fa-instagram"></i></a>
 
 ### <a href="http://lotsafreshair.com/">lotsafreshair.com</a>
 <a href="https://www.flickr.com/photos/90204224@N07/16635644863"><img src="https://farm9.staticflickr.com/8818/16635644863_43873e4da8_b.jpg" width="1024" height="768"></a>
 Everyone talks about the need to unplug from their stressful lives and connect with nature and themselves by spending time in nature. However, when faced with the possibility of getting 'out there', many people come up with excuses that stop them from doing that. Lotsafreshair is a blog and YouTube channel all about encouraging people to get out and blow away those excuses. From what to pack, what food to take or how to adjust a backpack, Lotsafreshair aims to connect people with nature and help them fall in love with their outside selves. It provides a mix of not only practical quick tips and how-to's, but inspirational journeys and adventures in Australia and overseas.
 
 <a href="https://www.facebook.com/lotsafreshair"><i class="fa fa-facebook"></i></a>
-| <a href="http://twitter.com/Lotsafreshair"><i class="fa fa-twitter"></i></a> | <a href="http://instagram.com/Lotsafreshair">Instagram </a> | <a href="https://www.youtube.com/user/Lotsafreshair"><i class="fa fa-youtube"></i></a>
+| <a href="http://twitter.com/Lotsafreshair"><i class="fa fa-twitter"></i></a> | <a href="http://instagram.com/Lotsafreshair"><i class="fa fa-instagram"></i></a> | <a href="https://www.youtube.com/user/Lotsafreshair"><i class="fa fa-youtube"></i></a>
 
 ## Belgium
 
 ### <a href="https://kaspergeuns.com">Kasper & Charlotte</a>
 
 <img src="https://farm1.staticflickr.com/297/19499672614_0dc5de9f99_b.jpg" width="960" height="960" alt="kasper &amp; charlotte">
-<a href="https://www.facebook.com/kasper.charlotte"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/kaspergeuns/"><i class="fa fa-twitter"></i></a> | <a href="https://instagram.com/KASPERGEUNS/">Instagram </a> | <a href="https://vimeo.com/user10535942"><i class="fa fa-vimeo"></i></a> | <a href="https://www.pinterest.com/kaspergeuns/">Pinterest</a>
+<a href="https://www.facebook.com/kasper.charlotte"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/kaspergeuns/"><i class="fa fa-twitter"></i></a> | <a href="https://instagram.com/KASPERGEUNS/"><i class="fa fa-instagram"></i></a> | <a href="https://vimeo.com/user10535942"><i class="fa fa-vimeo"></i></a> | <a href="https://www.pinterest.com/kaspergeuns/"><i class="fa fa-pinterest"></i></a>
 
 ### <a href="http://www.davidcappelle.com/">Wandering David</a>
 <a href="https://www.facebook.com/davidcappelle.blog"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/wandering_david"><i class="fa fa-twitter"></i></a>
@@ -50,7 +50,7 @@ A young couple who like to share our outdoor experiences.
 
 ### <a href="https://hike365.wordpress.com/">Hike365.org</a>
 
-<a href="https://www.facebook.com/hike365"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/hike365"><i class="fa fa-twitter"></i></a> | <a href="https://instagram.com/p/5kRoHWOIFr/">Instagram </a>
+<a href="https://www.facebook.com/hike365"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/hike365"><i class="fa fa-twitter"></i></a> | <a href="https://instagram.com/p/5kRoHWOIFr/"><i class="fa fa-instagram"></i></a>
 
 ### <a href="http://www.playoutsideguide.com">playoutsideguide.com</a>
 Everything families need to know to get outside and have fun! Trip reports, pack lists, gear reviews, and more!
@@ -75,13 +75,13 @@ Das Team von airFreshing.com besteht aus Bergfüchsen, Frischluftfans und ambiti
 <a href="https://www.facebook.com/airFreshing/"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/airfreshing"><i class="fa fa-twitter"></i></a> | <a href="https://www.instagram.com/airfreshing/"><i class="fa fa-instagram"></i></a>
 
 ### <a href="http://outdoorfever.de/">Outdoorfever.de</a>
-<a href="https://www.facebook.com/outdoorfever.de"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/outdoorfever"><i class="fa fa-twitter"></i></a> | <a href="http://www.flickr.com/photos/kraxel-magazin/">Flickr</a> | <a href="https://plus.google.com/+OutdoorfeverDe/posts">Google+</a> | <a href="https://www.pinterest.com/outdoorfever/">Pinterest</a>
+<a href="https://www.facebook.com/outdoorfever.de"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/outdoorfever"><i class="fa fa-twitter"></i></a> | <a href="http://www.flickr.com/photos/kraxel-magazin/"><i class="fa fa-flickr"></i></a> | <a href="https://plus.google.com/+OutdoorfeverDe/posts"><i class="fa fa-google-plus"></i></a> | <a href="https://www.pinterest.com/outdoorfever/"><i class="fa fa-pinterest"></i></a>
 
 ### <a href="http://www.auf-den-berg.de/">auf-den-berg.de</a>
-<a href="https://www.facebook.com/aufdenbergde"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/aufdenbergde"><i class="fa fa-twitter"></i></a> | <a href="https://www.instagram.com/aufdenbergde/"><i class="fa fa-instagram"></i></a> | <a href="https://www.pinterest.com/aufdenbergde/">Pinterest</a>
+<a href="https://www.facebook.com/aufdenbergde"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/aufdenbergde"><i class="fa fa-twitter"></i></a> | <a href="https://www.instagram.com/aufdenbergde/"><i class="fa fa-instagram"></i></a> | <a href="https://www.pinterest.com/aufdenbergde/"><i class="fa fa-pinterest"></i></a>
 
 ### <a href="http://outdoorfever.de/">Outdoorfever.de</a>
-<a href="https://www.facebook.com/outdoorfever.de"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/outdoorfever"><i class="fa fa-twitter"></i></a> | <a href="http://www.flickr.com/photos/kraxel-magazin/">Flickr</a> | <a href=https://plus.google.com/+OutdoorfeverDe/posts">Google+</a> | <a href="https://www.pinterest.com/outdoorfever/">Pinterest</a>
+<a href="https://www.facebook.com/outdoorfever.de"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/outdoorfever"><i class="fa fa-twitter"></i></a> | <a href="http://www.flickr.com/photos/kraxel-magazin/"><i class="fa fa-flickr"></i></a> | <a href=https://plus.google.com/+OutdoorfeverDe/posts"><i class="fa fa-google-plus"></i></a> | <a href="https://www.pinterest.com/outdoorfever/"><i class="fa fa-pinterest"></i></a>
 
 ## Sweden
 
@@ -111,7 +111,7 @@ There is a lot of pictures, small stories and gear. Im on the Woodland Ways two 
 I am also the UK brand ambassador for Rocky S2V #TEAMS2V you can visit on http://blog.rockys2v.com/ambassadors/teams2v-anders/
 I hope you will visit and enjoy my blog, much more will be uploaded.
 
-<a href="https://www.facebook.com/andersbrogaardadventures"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/andersbrogaard"><i class="fa fa-twitter"></i></a> | <a href="https://instagram.com/andersbrogaardphoto/">Instagram </a> | <a href="https://www.youtube.com/channel/UCCimG-eeJ31j_ihV5VTPJdg/videos"><i class="fa fa-youtube"></i></a>
+<a href="https://www.facebook.com/andersbrogaardadventures"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/andersbrogaard"><i class="fa fa-twitter"></i></a> | <a href="https://instagram.com/andersbrogaardphoto/"><i class="fa fa-instagram"></i></a> | <a href="https://www.youtube.com/channel/UCCimG-eeJ31j_ihV5VTPJdg/videos"><i class="fa fa-youtube"></i></a>
 
 ### <a href="http://blackdogbicycling.blogspot.com">blackdogbicycling.blogspot.com</a>
 <a href="https://www.flickr.com/photos/90204224@N07/16971940099"><img src="https://farm9.staticflickr.com/8770/16971940099_42ddf02cac_o.jpg" width="640" height="480"></a>
@@ -134,13 +134,13 @@ The site was voted Best Independent Walking Blog and his books have been shortli
 ### <a href="http://www.kernowoutdoors.com">kernowoutdoors.com</a>
 An outdoor blog including cycling, survival, outdoor tech and survival. It shows real life ideas and adventures and tests gears. Cornwall based but with a global footprint!
 
-<a href="https://www.facebook.com/Kernowoutdoors"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/kernowoutdoors"><i class="fa fa-twitter"></i></a> | <a href="https://instagram.com/topmat/">Instagram </a>
+<a href="https://www.facebook.com/Kernowoutdoors"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/kernowoutdoors"><i class="fa fa-twitter"></i></a> | <a href="https://instagram.com/topmat/"><i class="fa fa-instagram"></i></a>
 
 ### <a href="http://www.thebimbler.co.uk">thebimbler.co.uk</a>
 <a href="https://www.flickr.com/photos/90204224@N07/18466301726"><img src="https://c1.staticflickr.com/1/289/18466301726_0fa2df5ea8_b.jpg" width="1024" height="575" alt="Hammock"></a>
 The Bimbler Photo Blog is all about low octane adventure in South West UK with an emphasis on stopping to soak up the environment and eating snacks!
 
-<a href="https://www.facebook.com/theBimbler"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/The_Bimbler"><i class="fa fa-twitter"></i></a> | <a href="https://instagram.com/topmat/">Instagram </a>
+<a href="https://www.facebook.com/theBimbler"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/The_Bimbler"><i class="fa fa-twitter"></i></a> | <a href="https://instagram.com/topmat/"><i class="fa fa-instagram"></i></a>
 
 ### <a href="http://onepaceforward.com">onepaceforward.com</a>
 <img src="https://farm4.staticflickr.com/3736/19978123638_64d435d118_b.jpg" width="960" height="720" alt="Copyright by onepaceforward.com">
@@ -155,12 +155,12 @@ One Pace Forward is blog for hiking, adventure, travels, history & more, both in
 <a href="https://www.flickr.com/photos/90204224@N07/16967505087"><img src="https://farm8.staticflickr.com/7689/16967505087_21907bf92d_b.jpg" width="1024" height="768"></a>
 Helping to inspire and motivate parents to get outside with their tykes. Find resources on hiking, camping, backpacking and mountain biking as a family along with gear reviews, tips/ideas and giveaways.
 
-<a href="https://www.facebook.com/adventuretykes"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/alocalwander"><i class="fa fa-twitter"></i></a> | <a href="https://instagram.com/alocalwander">Instagram </a>
+<a href="https://www.facebook.com/adventuretykes"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/alocalwander"><i class="fa fa-twitter"></i></a> | <a href="https://instagram.com/alocalwander"><i class="fa fa-instagram"></i></a>
 
 ### <a href="http://www.alocalwander.com">alocalwander.com</a>
 Encouraging families to get outdoors together through our family adventures in hiking, camping, and other things.  
 
-<a href="http://facebook.com/alocalwander"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/AdventureTykes"><i class="fa fa-twitter"></i></a> | <a href="https://instagram.com/AdventureTykes">Instagram </a>
+<a href="http://facebook.com/alocalwander"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/AdventureTykes"><i class="fa fa-twitter"></i></a> | <a href="https://instagram.com/AdventureTykes"><i class="fa fa-instagram"></i></a>
 
 ### <a href="http://www.packraft.org">packraft.org</a>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/22903055653/in/dateposted-public/" title="American Packrafting Association"><img src="https://farm6.staticflickr.com/5623/22903055653_5b71ac331b_o.png" width="383" height="304" alt="American Packrafting Association"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -177,29 +177,29 @@ Outdoor writer and photographer with a passion for wilderness and mountains.
 ### <a href="http://www.heartofthewoods.com">heartofthewoods.com</a>
 Heart of the Woods is an adventure, travel and simple living blog! You will find travel logs of different trips,  backpacking,  camping, snowboarding,  and other adventures. I also post on living more simply and naturally.
 
-<a href="https://www.facebook.com/heartofthewoodspage"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/_natashamila_"><i class="fa fa-twitter"></i></a> | <a href="https://instagram.com/Natasha.Mila">Instagram </a>
+<a href="https://www.facebook.com/heartofthewoodspage"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/_natashamila_"><i class="fa fa-twitter"></i></a> | <a href="https://instagram.com/Natasha.Mila"><i class="fa fa-instagram"></i></a>
 
 ### <a href="http://hikinginglacier.blogspot.com/">hikinginglacier.blogspot.com</a>
 The Huckleberry Hiker covers news, events and discussions about all things hiking in the Wyoming and Montana region, as well as our own adventures. We specifically focus on Glacier National Park and Grand Teton National Park.
 
 <a href="https://twitter.com/glacierhiker1"><i class="fa fa-twitter"></i></a> |
-<a href="https://www.facebook.com/heartofthewoodspage"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/_natashamila_"><i class="fa fa-twitter"></i></a> | <a href="https://instagram.com/Natasha.Mila">Instagram </a>
+<a href="https://www.facebook.com/heartofthewoodspage"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/_natashamila_"><i class="fa fa-twitter"></i></a> | <a href="https://instagram.com/Natasha.Mila"><i class="fa fa-instagram"></i></a>
 
 ### <a href="http://www.midwestmultisportlife.com">midwestmultisportlife.com</a>
 I’m a transplanted Southern Californian living in the Midwest. It’s taken some time, and plenty of searching, to appreciate the nature we have here. In the Midwest we don’t have the jagged peaks or deep canyons others do, but we do have trails to run and hike, rivers to canoe and kayak, and forests to explore. In winter we make do with ski hills, ride fat tire bikes, winter camping and snowshoeing to revisit favorite spots. Finding Adventure in my Backyard: trail running, hiking, camping, skiing, and pretty much want to try everything outdoors, at least once.
-<a href="http://www.facebook.com/MidwestMultisportLife"><i class="fa fa-facebook"></i></a> | <a href="http://twitter.com/kovasp"><i class="fa fa-twitter"></i></a> | <a href="http://instagram.com/kovasp">Instagram </a> | <a href="https://www.youtube.com/user/kovasp"><i class="fa fa-youtube"></i></a>
+<a href="http://www.facebook.com/MidwestMultisportLife"><i class="fa fa-facebook"></i></a> | <a href="http://twitter.com/kovasp"><i class="fa fa-twitter"></i></a> | <a href="http://instagram.com/kovasp"><i class="fa fa-instagram"></i></a> | <a href="https://www.youtube.com/user/kovasp"><i class="fa fa-youtube"></i></a>
 
 ### <a href="http://www.missourihowell.com">Missouri Howell</a>
-<a href="https://www.facebook.com/missourihowell"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/MissouriHowell"><i class="fa fa-twitter"></i></a> | <a href="https://plus.google.com/u/0/105981686788990057744/posts"Google+</a> | <a href="https://www.pinterest.com/divotdoggy/">Pinterest</a>  | <a href="https://instagram.com/missourihowell/"><i class="fa fa-instagram"></i></a> | <a href="https://www.youtube.com/channel/UCA9HWnKiqw2wmxOW85K_ecg"><i class="fa fa-youtube"></i></a>
+<a href="https://www.facebook.com/missourihowell"><i class="fa fa-facebook"></i></a> | <a href="https://twitter.com/MissouriHowell"><i class="fa fa-twitter"></i></a> | <a href="https://plus.google.com/u/0/105981686788990057744/posts"<i class="fa fa-google-plus"></i></a> | <a href="https://www.pinterest.com/divotdoggy/"><i class="fa fa-pinterest"></i></a>  | <a href="https://instagram.com/missourihowell/"><i class="fa fa-instagram"></i></a> | <a href="https://www.youtube.com/channel/UCA9HWnKiqw2wmxOW85K_ecg"><i class="fa fa-youtube"></i></a>
 
 ### <a href="http://www.peakandpixel.com">peakandpixel.com</a>
 I'm a recovering lawyer turned freelance storyteller with a passion for playing outside. I am an avid photographer, cyclist, trail runner, pack burro racer, hiker, paddleboarder, camper, and all around lover of the great outdoors. I'm also a mom to two dogs and one rad little boy. I love showing others that your outdoorsy life doesn't have to come to an end just because you have kids! 
-<a href="https://www.facebook.com/pages/Peak-and-Pixel/1601133830165121?fref=ts"><i class="fa fa-facebook"></i></a> | <a href="http://twitter.com/jendz"><i class="fa fa-twitter"></i></a> | <a href="http://instagram.com/iamjendz">Instagram </a>
+<a href="https://www.facebook.com/pages/Peak-and-Pixel/1601133830165121?fref=ts"><i class="fa fa-facebook"></i></a> | <a href="http://twitter.com/jendz"><i class="fa fa-twitter"></i></a> | <a href="http://instagram.com/iamjendz"><i class="fa fa-instagram"></i></a>
 
 ### <a href="http://pureadk.com/">pureadk.com</a>
 It is because of our desire for adventure and our passion for the area that we are driven to create a way to share our love of the Adirondack Park and all that it has to offer with others.  Out of our adventures and motivation to become ambassadors of the Park, Pure Adirondacks, or PureADK.com, was born.  By documenting our discoveries through photos, videos, and personalized posts, we hope that PureADK will not only act as an educational and informational resource, but also as an entertaining way to get a unique view on all that the Adirondack Park has to offer.
 <a href="https://www.facebook.com/pureadirondacks"><i class="fa fa-facebook"></i></a>
-| <a href="http://twitter.com/PureADK"><i class="fa fa-twitter"></i></a> | <a href="http://instagram.com/PureAdirondacks">Instagram </a> | <a href="https://www.youtube.com/user/PureADK"><i class="fa fa-youtube"></i></a>
+| <a href="http://twitter.com/PureADK"><i class="fa fa-twitter"></i></a> | <a href="http://instagram.com/PureAdirondacks"><i class="fa fa-instagram"></i></a> | <a href="https://www.youtube.com/user/PureADK"><i class="fa fa-youtube"></i></a>
 
 ### <a href="https://rivertoprambles.wordpress.com">Rivertop Rambles</a>
 Adventures in Fly Fishing, Hiking, and Natural History
@@ -216,12 +216,12 @@ The result? Trail guides designed to give you all the details, including trailhe
 Since 2010, SoCalHiker has grown to include detailed guides for trails throughout Southern California, as well as guides to epic backpacking treks like The Lost Coast, the Trans-Catalina Trail and of course, the John Muir Trail.
 Find YOUR next adventure at SoCalHiker.  
 <a href="http://www.facebook.com/SoCalHiker"><i class="fa fa-facebook"></i></a>
-| <a href="http://twitter.com/theSoCalHiker"><i class="fa fa-twitter"></i></a> | <a href="http://instagram.com/theSoCalHiker">Instagram </a>
+| <a href="http://twitter.com/theSoCalHiker"><i class="fa fa-twitter"></i></a> | <a href="http://instagram.com/theSoCalHiker"><i class="fa fa-instagram"></i></a>
 
 ### <a href="http://www.trailtosummit.com">Trail to Summit</a>
 Trail to Summit documents Allison's adventures throughout New Hampshire's White Mountains and beyond. You'll also find tasty recipes, gear reviews mainly focusing on ultralight hiking and backpacking, tips, and unique features on small companies and great people in the outdoors. There's a lot to discover out there. See you on the trail! 
 <a href="https://www.facebook.com/TrailToSummit"><i class="fa fa-facebook"></i></a>
-| <a href="http://twitter.com/trailtosummit"><i class="fa fa-twitter"></i></a> | <a href="http://instagram.com/trailtosummit">Instagram </a> | <a href="https://vimeo.com/user5372919"><i class="fa fa-vimeo"></i></a> | <a href="https://www.youtube.com/user/allison881000/videos"><i class="fa fa-youtube"></i></a>
+| <a href="http://twitter.com/trailtosummit"><i class="fa fa-twitter"></i></a> | <a href="http://instagram.com/trailtosummit"><i class="fa fa-instagram"></i></a> | <a href="https://vimeo.com/user5372919"><i class="fa fa-vimeo"></i></a> | <a href="https://www.youtube.com/user/allison881000/videos"><i class="fa fa-youtube"></i></a>
 
 ### <a href="https://trailsnailmud.wordpress.com/">Vermont Paddle Pups</a>
 <a href="https://www.flickr.com/photos/90204224@N07/16935466609"><img src="https://farm9.staticflickr.com/8813/16935466609_ba06b18ffe_b.jpg" width="1024" height="767"></a>
