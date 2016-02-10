@@ -228,4 +228,4 @@ Trail to Summit documents Allison's adventures throughout New Hampshire's White 
 A blog which shares and encourages safe, respectful, and awesomely fun adventures with dogs…canoeing,camping, skijoring, hiking, and more!
 
 ### <a href="http://dustyhouseadventures.com">The Adventures of Dusty House</a>
-<a href="https://twitter.com/adventuredusty"><i class="fa fa-twitter"></i></a> | <ao href="https://www.facebook.com/dustyhouseadventures"><i class="fa fa-facebook"></i></a>
+<a href="https://twitter.com/adventuredusty"><i class="fa fa-twitter"></i></a> | <a href="https://www.facebook.com/dustyhouseadventures"><i class="fa fa-facebook"></i></a>
