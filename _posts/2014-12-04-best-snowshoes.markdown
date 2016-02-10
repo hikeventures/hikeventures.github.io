@@ -223,4 +223,4 @@ What is the best snowshoe in your opinion? Leave a comment below.
 
 [1]:	http://www.hikeventures.com/best-trekking-and-snowshoeing-poles/
 [2]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/
-[3]:	http://www.hikeventures.com/deals/
+[3]:	http://www.hikeventures.com/deals/#snowshoe+men
