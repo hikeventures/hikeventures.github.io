@@ -30,7 +30,6 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland][1].
 
 
 
-
 or Full price?
 It's always a good idea to check if there are some deals available. You can try our [price comparison tool][2] to find the best price offered by several outdoor stores across the U.S.
 
