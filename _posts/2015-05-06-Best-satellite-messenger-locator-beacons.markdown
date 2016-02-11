@@ -18,16 +18,6 @@ With a Satellite Messenger you can also inform your family and friends about you
  
 There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR. Currently, we are testing the InReach Explorer but we have not tested the other devices yet. While it's possible to send text messages with the devices from DeLorme and SPOT you may use ACR only to send a rescue signal (also called Personal Locator Beacon). The main advantage of the ACR is that you don't have to pay a subscription fee to use the GPS network. If messaging is not important for you, then you should go for the ACR ResQlink+ 406. The ACR device is also quite interesting for paddlers since it is able to float. Alternatively, you will see from the specifications below that the DeLorme devices are slightly heavier but come with more functionalities than the SPOT devices. 
 
-## Deals
-<div class="row">
-  <div class="col-sm-12">
-<center>
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=DeLorme AND satellite messenger  OR SPOT AND satellite messenger&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
-</center>
-  </div>
-</div>
-<br>
-
 ## Weight of the best Satellite Messengers and PBL
 <div class="progress">
 <div class="progress-bar progress-bar-success progress-bar-striped" role="progressbar" aria-valuenow="100" aria-valuemin="100" aria-valuemax="100" style="width: 100%">
