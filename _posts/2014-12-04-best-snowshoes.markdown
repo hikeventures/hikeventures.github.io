@@ -15,8 +15,15 @@ On the picture above I am walking with my Tubbs Xpedition snowshoes in [Finnish 
  
 Considering your own body and gear weight is important when choosing snow shoes. The more weight you want to carry the bigger the surface of the snowshoe should be. Also look at the size of the crampons and if the binding is suitable / durable or if you prefer fixed-rotation or full-rotation bindings.
 
-## Deals or Full price?
-It's always a good idea to check if there are some deals available. You can try our [price comparison tool][3] to find the best price offered by several outdoor stores across the U.S. 
+## Deals
+<div class="row">
+  <div class="col-sm-12">
+<center>
+ <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=snowshoes  AND tubbs OR snowshoes  AND atlas OR snowshoes  AND msr&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
+</center>
+  </div>
+</div>
+<br> 
 
 ## Award-winning Snowshoes
 
