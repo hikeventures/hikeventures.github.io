@@ -21,7 +21,7 @@ Checking the altitude in [Finnish Lapland][1] with the Ambit3.
 **Update (22.01.2016):** Suunto has released the [Ambit3 Vertical][3] watch. It’s similar like the Traverse but with an additional graph which displays your ascent / descent.
 
 ## Check for Discounts
- Before deciding if you should upgrade to an Ambit3 you should have a look at the <a href="http://www.hikeventures.com/deals/#Suunto+Ambit2”><button class="btn btn-danger">Ambit2 prices</button></a>  which are much lower than the <a href="http://www.hikeventures.com/deals/#Suunto+Ambit3”><button class="btn btn-danger">Ambit3 prices</button></a>.
+Before deciding if you should upgrade to an Ambit3 you should have a look at the <a href="http://www.hikeventures.com/deals/#Suunto+Ambit2">Ambit2 prices</a>  which are much lower than the <a href="http://www.hikeventures.com/deals/#Suunto+Ambit3">Ambit3 prices</a>.
 
 Before deciding if you should upgrade to an Ambit3 you should have a look at the <a href="http://www.hikeventures.com/deals/#Suunto+Ambit2">Ambit2 prices</a>  which are much lower than the <a href="http://www.hikeventures.com/deals/#Suunto+Ambit3">Ambit3 prices</a> .
 
@@ -121,12 +121,6 @@ I have used the Suunto Ambit3 Sport for a couple of months and I am happy with i
 ## Charging the Suunto Ambit
 
 ![][image-1]
-
-With an <a href="http://amzn.to/1qJjINv" rel="nofollow">external battery</a> you can also charge the Suunto Ambit when you are outdoors.
-
-## Where to buy the Suunto Ambit3
-
-Have a look here: <a href="http://www.hikeventures.com/deals/#Suunto+Ambit3"><button class="btn btn-danger">Compare prices</button></a>
 
 With an <a href="http://amzn.to/1qJjINv" rel="nofollow">external battery</a> you can also charge the Suunto Ambit when you are outdoors.
 
