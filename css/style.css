@@ -263,3 +263,21 @@ line-height: 1.8em !important;
 select, input, button {
     border-width: 0px !important;
 }
+
+
+
+input {
+    border: 2px solid white !important; 
+    -webkit-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1) !important; 
+    -moz-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1) !important; 
+    box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1) !important;
+    padding: 5px;
+    background: rgba(255,255,255,0.5) !important;
+    margin: 0 0 10px 0 !important;
+}
