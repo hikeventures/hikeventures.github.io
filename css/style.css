@@ -260,4 +260,6 @@ line-height: 1.8em !important;
 
 }
 
-   
+select, input, button {
+    border-width: 0px !important;
+}
