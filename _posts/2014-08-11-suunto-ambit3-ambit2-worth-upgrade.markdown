@@ -23,8 +23,6 @@ Checking the altitude in [Finnish Lapland][1] with the Ambit3.
 ## Check for Discounts
 Before deciding if you should upgrade to an Ambit3 you should have a look at the <a href="http://www.hikeventures.com/deals/#Suunto+Ambit2">Ambit2 prices</a>  which are much lower than the <a href="http://www.hikeventures.com/deals/#Suunto+Ambit3">Ambit3 prices</a>.
 
-Before deciding if you should upgrade to an Ambit3 you should have a look at the <a href="http://www.hikeventures.com/deals/#Suunto+Ambit2">Ambit2 prices</a>  which are much lower than the <a href="http://www.hikeventures.com/deals/#Suunto+Ambit3">Ambit3 prices</a> .
-
 ## Differences between Ambit2 and Ambit3
 Basically, there is not much difference between the look of the Ambit2 and the Ambit3 (Sport model is a bit thinner) and I have summarised the most important improvements and specifications below:
 
