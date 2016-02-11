@@ -34,6 +34,6 @@ Compare prices [here](http://www.hikeventures.com/deals/#Suunto+Traverse).
 
 Here is also an [article][1] where I used the Suunto Ambit3 on a packrafting trip in the Swedish mountains.
 
-[1]:	http://www.hikeventures.com/-packrafting-Njuoreatnu-Tornetrask-abisko-day-2/
+[1]:	http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/
 
 [image-1]:	https://farm9.staticflickr.com/8836/17649022620_b7c5293739_b.jpg "Suunto Traverse Ambit3"
