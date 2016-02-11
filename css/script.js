@@ -130,6 +130,9 @@ $.get("http://ipinfo.io", function(response) {
     else if(response.country == "GB") {
         $("#ad").html("GB AD HTML");
     }
+    else if(response.country == "FI") {
+        $("#ad").html("FI AD HTML");
+    }
     else {
         $("#ad").html("DEFAULT HTML");
     }
