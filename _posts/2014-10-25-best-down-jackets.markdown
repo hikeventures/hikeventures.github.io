@@ -22,7 +22,7 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland][1].
 <div class="row">
   <div class="col-sm-12">
 <center>
- <script type="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=7C13562%7C13273%7C100&search_on_sale_only=1&search_on_sale_level=20&search_results_layout=list&search_results_fields=Merchant+Name%7CBrand+Name%7CProduct+Name%7CRetail+Price%7CSale+Price%7CPrice+Discount+Percent&search_results_count=5&search_results_sort_order=Sale+Price%7Cdesc"></script>
+ <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=7C13562%7C13273%7C100&search_on_sale_only=1&search_on_sale_level=20&search_results_layout=list&search_results_fields=Merchant+Name%7CBrand+Name%7CProduct+Name%7CRetail+Price%7CSale+Price%7CPrice+Discount+Percent&search_results_count=5&search_results_sort_order=Sale+Price%7Cdesc"></script>
 </center>
   </div>
 </div>
