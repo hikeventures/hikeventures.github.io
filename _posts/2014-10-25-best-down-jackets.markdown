@@ -18,7 +18,6 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland][1].
 <!--more-->
 
 ## Deals
-
 <div class="row">
   <div class="col-sm-12">
 <center>
@@ -27,11 +26,6 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland][1].
   </div>
 </div>
 <br>
-
-
-
-or Full price?
-It's always a good idea to check if there are some deals available. You can try our [price comparison tool][2] to find the best price offered by several outdoor stores across the U.S.
 
 ## Down jackets Buying Guide (FAQ)
 <a href="#down_wear">When not to wear a down jacket?</a><br>
