@@ -128,5 +128,5 @@ If you are planning to go skiing then you should maybe consider waterproof pants
 ## Features and weight
 You should consider if you really need 3/4 length side zips or pockets on your pants. They are nice to have features but they will come with some additional weight. Please note that I have not tested the products myself  (except the Montane Minimus Pants).
 
-[1]:	http://www.hikeventures.com/deals/?strSearchTerm=rain+pants&cmdSubmit=Search
+[1]:	http://www.hikeventures.com/deals/#rain+pants+men
 [2]:	http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/

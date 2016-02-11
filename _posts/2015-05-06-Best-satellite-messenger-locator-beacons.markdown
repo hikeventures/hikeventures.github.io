@@ -125,4 +125,4 @@ It's always a good idea to check if there are some deals available. You can try 
 </td></tr></table></div>
 
 [1]:	http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/
-[2]:	http://www.hikeventures.com/deals/
+[2]:	http://www.hikeventures.com/deals/#satellite+messenger

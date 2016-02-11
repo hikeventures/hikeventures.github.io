@@ -93,5 +93,5 @@ Which is the best fleece jacket for you? Leave a comment below.
 [1]:	http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/
 [2]:	http://www.hikeventures.com/best-windjackets/
 [3]:	http://www.hikeventures.com/best-down-jackets/
-[4]:	http://www.hikeventures.com/deals/
+[4]:	http://www.hikeventures.com/deals/#fleece+Jacket+men
 [5]:	http://www.hikeventures.com/best-windjackets/
