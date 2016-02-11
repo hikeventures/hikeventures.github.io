@@ -259,3 +259,8 @@ letter-spacing: 0px !important;
 line-height: 1.8em !important;
 
 }
+
+    img_responsive {
+	width: 100%;
+	height:auto;
+	}
