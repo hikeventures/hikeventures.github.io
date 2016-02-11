@@ -10,9 +10,9 @@ keywords: "Tidbits, Hiking, Packrafting, Outdoors, Suunto, Traverse, Ambit3, Gea
 ---
 
 Suunto has recently released it's latest GPS watch - the Suunto Traverse - which is especially interesting for those interested in hiking and backpacking. So what are the differences between the Suunto Ambit3 and the Suunto Traverse? Well, there are a couple of differences...
-
-![][image-1]
-
+ 
+ ![][image-1]
+ 
 The most important difference is probably that the Suunto Traverse has a vibration alarm and that the GPS receiver is now 'invisible' built into the watch. Moreover, the Suunto Traverse has a thinner (1mm) built. However, there are no multisport functions in the Suunto Traverse available. So, if you are more into triathlon then you should probably still go for the Suunto Ambit3 rather than the Suunto Traverse. 
 
 The Suunto Traverse weights about 80 grams and it's water resistance is 100 m. The Ambit3 is only 50 m water resistant. Both - the Ambit3 Peak and the Traverse have a Barometer. The menu on the Traverse is also more simplified than on the Ambit3 which I personally prefer. The Traverse has also a flashlight function which could be quite useful if you need to search something in short distance e.g. in your tent.
