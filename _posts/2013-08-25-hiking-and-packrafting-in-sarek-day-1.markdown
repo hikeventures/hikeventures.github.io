@@ -16,21 +16,6 @@ This year we went on a 6 days packrafting and hiking trip in Sarek. We travelled
 <a href="https://www.flickr.com/photos/90204224@N07/9596210073"><img src="https://farm8.staticflickr.com/7359/9596210073_1dfeed9bf1_z.jpg" width="600" alt="Hiking in Sarek National Park in Sweden"></a>
 <!--more-->
 
-<script>
-function initialize() {
-  var mapProp = {
-    center:new google.maps.LatLng(51.508742,-0.120850),
-    zoom:5,
-    mapTypeId:google.maps.MapTypeId.ROADMAP
-  };
-  var map=new google.maps.Map(document.getElementById("googleMap"), mapProp);
-}
-google.maps.event.addDomListener(window, 'load', initialize);
-</script>
-
-<div id="googleMap" style="width:100%;height:200px;"></div>
-
-
 
 ## Day 1: From Gällivare to Vuosskeljavrre
 <a href="https://www.flickr.com/photos/90204224@N07/9592075355"><img src="https://farm4.staticflickr.com/3677/9592075355_2b498ef41c_b.jpg" width="1024" height="683"></a>
