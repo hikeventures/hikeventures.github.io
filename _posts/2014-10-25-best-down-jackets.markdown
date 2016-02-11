@@ -17,7 +17,21 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland][1].
 
 <!--more-->
 
-## Deals or Full price?
+## Deals
+
+<div class="row">
+  <div class="col-sm-12">
+<center>
+ <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=down+jacket+men&search_advanced_syntax=1&merchant_ids=10072%7C12725%7C10260%7C11105%7C10060%7C12989%7C13051%7C11741%7C10461%7C11929%7C10865%7C10008%7C10913%7C11243%7C12291%7C10971%7C13637%7C10785%7C11491%7C10270%7C13757%7C12493%7C11545%7C10537%7C11113%7C12135%7C13410%7C10485%7C13582%7C12025%7C10509%7C11877%7C11957%7C12857%7C11725%7C12681%7C11857%7C10086%7C11419%7C10068%7C13562%7C13273%7C100&search_on_sale_only=1&search_on_sale_level=20&search_results_layout=list&search_results_fields=Merchant+Name%7CBrand+Name%7CProduct+Name%7CRetail+Price%7CSale+Price%7CPrice+Discount+Percent&search_results_sort_order=Sale+Price%7Cdesc"></script>
+</center>
+  </div>
+</div>
+<br>
+
+
+
+
+or Full price?
 It's always a good idea to check if there are some deals available. You can try our [price comparison tool][2] to find the best price offered by several outdoor stores across the U.S.
 
 ## Down jackets Buying Guide (FAQ)
