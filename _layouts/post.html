@@ -64,6 +64,15 @@ published: true
   </div>
 </div>
 <br>
+$.get("http://ipinfo.io", function(response) {
+    if(response.country == "US") {
+        $("#ad").html("US AD HTML");
+    }
+    else if(response.country == "FI") {
+         document.write("
+         
+         
+         
 
 <div class="panel panel-default">
 <div class="panel-body">
@@ -96,6 +105,16 @@ published: true
 </div>
 </div>
       
+         
+         
+         ");
+    }
+    else {
+        $("#ad").html("DEFAULT HTML");
+    }
+}, "jsonp");
+
+
 
 
 
