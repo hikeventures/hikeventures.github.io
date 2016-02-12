@@ -29,8 +29,6 @@ Quality and durability of the Air Pillow is also quite good and I am so far not 
 ## Recommendation
 I like the Exped Air Pillow UL. The pillow feels comfortable, packs small and seems to be durable. I would most probably buy it again.
 
-## Where to buy the Exped Air Pillow UL?
-<script type="text/javascript" src="http://www.avantlink.com/api.php?module=ProductSearch&affiliate_id=125311&website_id=150351&merchant_ids&search_results_sort_order=Retail+Price|asc&output=js&search_results_merchant_limit=1&search_advanced_syntax=1&search_results_options=noheader&search_results_count=1&search_results_layout=list&search_results_fields=|Merchant+Name|Product+Name|Retail+Price&search_term=Exped Air Pillow UL M"></script>
+<a href="http://www.hikeventures.com/deals/" onclick="location.href=this.href+'?key=Exped Air Pillow';return false;"><button class="btn btn-danger">Compare prices</button></a><br>
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B005JQHRR4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005JQHRR4&linkCode=as2&tag=hikeve-20&linkId=D3DSZNJVPPKVW3AS"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005JQHRR4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005JQHRR4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-What is your experience with the Exped Air Pillow? Leave a comment below.
