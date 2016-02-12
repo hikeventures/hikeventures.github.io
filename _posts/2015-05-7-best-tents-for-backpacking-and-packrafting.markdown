@@ -228,7 +228,6 @@ However, if you want a 4-season tent with a lot of space and a dedicated vestibu
 
 The Soulo is the best 1-person tent for harsh weather conditions while the Unna is more versatile, bigger and a bit lighter than the Soulo. Personally, I prefer the Unna because it's freestanding and is very versatile.
 
-Which tent would you choose for your next kayaking or packrafting adventure? Leave a comment below!
 
 [1]:	http://www.hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/
 [2]:	http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/
