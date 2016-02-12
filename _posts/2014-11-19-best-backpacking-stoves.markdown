@@ -147,8 +147,6 @@ The Jetboil Sol Ti has won several awards. This is also the stove which I curren
 ## How to choose the best camping stove?
 It all depends on your requirements. Do you need a simple and lightweight camping stove then the MSR MicroRocket would be a good choice. Do you plan a trip to colder regions or areas where you have to use different fuels? Then a camping stove with a separated gas canister (so you can keep the gas canister warm) like the MSR Dragonfly should be on your choice. My preference in most cases goes towards a camping stove which boils water quickly and uses a low amount of fuel as I am usually traveling with dehydrated food packages where I just have to add boiling water e.g. the MSR Winboiler or the Jetboil Flash. If you are traveling to different continents then a multi-fuel stove might be the best solution.
 
-What is the best camping stove in your opinion? Leave a comment below.
-
 [1]:	http://hikeventures.com/gear-review-jetboil-sol-ti/
 [2]:	http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/
 [3]:	http://www.hikeventures.com/deals/#stove
