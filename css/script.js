@@ -120,3 +120,14 @@ function avMakeHttpRequest(strUrl)
     return;
 }
 
+$.get("http://ipinfo.io", function(response) {
+    if(response.country == "US") {
+        $("#ad").html("US AD HTML");
+    }
+    else if(response.country == "GB") {
+        $("#ad").html("GB AD HTML");
+    }
+    else {
+        $("#ad").html("DEFAULT HTML");
+    }
+}, "jsonp");
