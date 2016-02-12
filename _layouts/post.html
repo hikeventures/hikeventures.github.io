@@ -70,12 +70,7 @@ $.get("http://ipinfo.io", function(response) {
         $("#ad").html("US AD HTML");
     }
     else if(response.country == "FI") {
-         document.write("
-         
-         
-         
-
-<div class="panel panel-default">
+         document.write("<div class="panel panel-default">
 <div class="panel-body">
 <div class="row">
   <div class="col-sm-4">
@@ -104,11 +99,7 @@ $.get("http://ipinfo.io", function(response) {
 
 </div>
 </div>
-</div>
-      
-         
-         
-         ");
+</div> ");
     }
     else {
         $("#ad").html("DEFAULT HTML");
