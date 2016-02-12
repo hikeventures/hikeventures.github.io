@@ -65,7 +65,7 @@ published: true
 </div>
 <br>
 
-
+<script>
 $.get("http://ipinfo.io", function(response) {
     if(response.country == "US") {
         $("#ad").html("US AD HTML");
@@ -110,7 +110,7 @@ $.get("http://ipinfo.io", function(response) {
         $("#ad").html("DEFAULT HTML");
     }
 }, "jsonp");
-
+</script>
 
 
 
