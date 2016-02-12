@@ -124,7 +124,7 @@ $.get("http://ipinfo.io", function(response) {
     if(response.country == "US") {
         $("#ad").html("US AD HTML");
     }
-    else if(response.country == "GB") {
+    else if(response.country == "FI") {
         $("#ad").html("GB AD HTML");
     }
     else {
