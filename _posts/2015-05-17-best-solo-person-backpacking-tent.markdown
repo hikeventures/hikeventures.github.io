@@ -244,8 +244,6 @@ However, If I would not prefer a freestanding 4-season tent then my choice would
 
 Here is also an [article][2] about our packrafting trip in the Swedish mountains where we are using the MSR Hubba Hubba NX.
 
-Which solo backpacking tent do you prefer? Leave a comment below!
-
 [1]:	http://www.hikeventures.com/deals/
 [2]:	http://www.hikeventures.com/-packrafting-Njuoreatnu-Tornetrask-abisko-day-2/
 
