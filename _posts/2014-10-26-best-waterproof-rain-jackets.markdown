@@ -88,8 +88,6 @@ My advice would be to use a [wind jacket][4] when it is not raining and switch t
 
 Nonetheless, if you are planning to use your jacket for skiing or snowboarding a more durable fabric like GORE-TEX ProShell or in certain cases also the GORE-TEX Active or GORE C-KNIT fabric would be more suitable rather than a thin Pertex Shield + fabric as you don't want to get immediately a hole into your jacket. However, if you want to have a light jacket for the warmer months which packs easy into your backpack then the Montane Minimus Smock / Jacket made of Pertex Shield + are a good rain jacket options from my experience.
 
-Which is the best rain jacket for you? Leave a comment below.
-
 [1]:	http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/
 [2]:	http://www.hikeventures.com/best-rain-pants/
 [3]:	http://www.hikeventures.com/deals/
