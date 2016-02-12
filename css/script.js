@@ -125,7 +125,42 @@ $.get("http://ipinfo.io", function(response) {
         $("#ad").html("US AD HTML");
     }
     else if(response.country == "FI") {
-        $("#ad").html("GB AD HTML");
+        $("#ad").html("
+        
+        
+        <div class="panel panel-default">
+  <div class="panel-body">
+<div class="row">
+  <div class="col-sm-4">
+
+               <div class="headline"> <h4><span class="label" style="background:#FF8000"><a href="http://bit.ly/1TSSjIu"><font style="color:#FFFFFF">Backcountry.com</font></a></span></h4>
+               </div>
+
+    <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=DotdFeed&output=js&website_id=150351&merchant_id=10060&dotd_id=6&layout_id=1"></script>
+</div>
+  <div class="col-sm-4">
+
+
+               <div class="headline"> <h4><span class="label" style="background:#FF8000"><a href="http://bit.ly/1FhBNKh"><font style="color:#FFFFFF">REI.com</font></a></a></span></h4>
+               </div>
+    <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=DotdFeed&output=js&website_id=150351&merchant_id=10248&dotd_id=16&layout_id=1"></script>
+</div>
+
+  <div class="col-sm-4">
+
+
+               <div class="headline"> <h4><span class="label" style="background:#FF8000"><a href="http://bit.ly/1T8bddA"><font style="color:#FFFFFF">Moosejaw.com</font></a></a></span></h4>
+               </div>
+    <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=DotdFeed&output=js&website_id=150351&merchant_id=10086&dotd_id=157&layout_id=1"></script>
+</div>
+
+
+</div>
+</div>
+</div>
+        
+        
+        ");
     }
     else {
         $("#ad").html("DEFAULT HTML");
