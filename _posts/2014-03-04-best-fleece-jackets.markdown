@@ -95,7 +95,6 @@ Keep in mind that lighter material might be less durable depending on the techno
 
 A good idea is also to combine a fleece jacket with a [wind jacket][5] since fleece jackets are not windproof.
 
-Which is the best fleece jacket for you? Leave a comment below.
 
 [1]:	http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/
 [2]:	http://www.hikeventures.com/best-windjackets/
