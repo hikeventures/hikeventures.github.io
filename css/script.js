@@ -119,15 +119,3 @@ function avMakeHttpRequest(strUrl)
 
     return;
 }
-
-$.get("http://ipinfo.io", function(response) {
-    if(response.country == "US") {
-        $("#ad").html("US AD HTML");
-    }
-    else if(response.country == "FI") {
-        $("#ad").html(<script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=DotdFeed&output=js&website_id=150351&merchant_id=10060&dotd_id=6&layout_id=1"></script>);
-    }
-    else {
-        $("#ad").html("DEFAULT HTML");
-    }
-}, "jsonp");
