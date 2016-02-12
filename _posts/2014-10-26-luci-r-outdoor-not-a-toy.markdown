@@ -84,8 +84,6 @@ All in all, this is a very good inflatable solar lantern, which is also a good v
 
 <a href="http://www.hikeventures.com/deals/#Luci+Lantern"><button class="btn btn-danger">Compare prices</button></a>
 
-What is your experience with the Luci Outdoor Lantern? Leave a comment below.
-
 [1]:	https://www.mpowerd.com
 [2]:	https://www.mpowerd.com
 [3]:	http://hikeventures.com/petzl-nao-headlamp-test/
