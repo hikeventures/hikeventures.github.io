@@ -37,7 +37,7 @@ Personally, I like the new look of the Traverse (see picture above) more than th
 </center>
   </div>
 </div>
-
+<br>
 Here is also an [article][1] where I used the Suunto Ambit3 on a packrafting trip in the Swedish mountains.
 
 [1]:	http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/
