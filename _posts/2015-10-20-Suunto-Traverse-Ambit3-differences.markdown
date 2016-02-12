@@ -29,7 +29,7 @@ Personally, I like the new look of the Traverse (see picture above) more than th
 
 **Update (7.1.2016):** Suunto has released the Suunto Ambit3 Vertical. <a href="http://www.hikeventures.com/deals/#Ambit3+Vertical">Ambit3 Vertical</a> if you are more into mountain running or Mountainbiking.
 
-## Where to buy the Suunto Traverse?
+## Where to buy the Suunto?
 <div class="row">
   <div class="col-sm-12">
 <center>
