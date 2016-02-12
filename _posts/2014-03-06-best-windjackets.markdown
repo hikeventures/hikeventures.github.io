@@ -128,7 +128,6 @@ The Mountain Hardwear Ghost Whisperer™ Hooded Jacket is similar as the lighter
 
 <a href="http://www.hikeventures.com/deals/#ghost+whisperer+hooded+jacket"><button class="btn btn-danger">Compare prices</button></a><br><br></td></tr></table></div>
 
-Which is the best wind jacket in your opinion? Leave a comment below.
 
 [1]:	http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/
 [2]:	http://hikeventures.com/gear-review-arcteryx-squamish-hoody/
