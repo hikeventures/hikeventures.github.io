@@ -130,7 +130,7 @@ With an <a href="http://amzn.to/1qJjINv" rel="nofollow">external battery</a> you
 </center>
   </div>
 </div>
-
+<br>
 As mentioned earlier in this post, I prefer the [Suunto Traverse][10] as a non-multisport watch compared to the Ambit2 or Ambit3.
 
 [1]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/
