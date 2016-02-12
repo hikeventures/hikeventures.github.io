@@ -38,6 +38,6 @@ I like the Exped Synmat UL 7. It feels comfortable and I would buy it again. How
 
 <a href="http://www.hikeventures.com/deals/#exped+synmat+UL7"><button class="btn btn-danger">Compare prices</button></a>
 
-What is your experience with the Exped Synmat UL 7? Leave a comment below.
+<a href="http://www.hikeventures.com/deals/" onclick="location.href=this.href+'?key=Exped Synmat UL7';return false;"><button class="btn btn-danger">Compare prices</button></a><br>
 
 [1]:	http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/
