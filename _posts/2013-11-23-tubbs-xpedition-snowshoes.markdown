@@ -42,6 +42,6 @@ The Tubbs Xpedition snowshoes seems to be a solid product for backcountry usage.
 
 <strong>Update:</strong> I have compiled a list with the [best snowshoes for 2015](http://www.hikeventures.com/best-snowshoes/)
 
-## Where to buy the Tubbs Xpedition Snowshoes?
-<script type="text/javascript" src="http://www.avantlink.com/api.php?module=ProductSearch&affiliate_id=125311&website_id=150351&merchant_ids&search_results_sort_order=Retail+Price|asc&output=js&search_results_count=1&search_results_layout=list&search_results_fields=|Merchant+Name|Product+Name|Retail+Price&search_term=Tubbs Xpedition Snowshoes"></script>
+<a href="http://www.hikeventures.com/deals/#tubbs+xpedition"><button class="btn btn-danger">Compare prices</button></a>
+
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00ECPQ6JS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ECPQ6JS&linkCode=as2&tag=hikeve-20&linkId=OQT7MODJIWZLNTQL"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ECPQ6JS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00ECPQ6JS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
