@@ -7,9 +7,7 @@ comments: false
 footer: false
 published: true
 ---
-
-
-<div ><div class="table-responsive">
+<div class="table-responsive">
 
       <table class="table table-hover table-condensed">
         <tbody>
@@ -214,6 +212,7 @@ published: true
         </tbody>
       </table>
 
-    </div>
 </div>
 
+<br><center><script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</center>
