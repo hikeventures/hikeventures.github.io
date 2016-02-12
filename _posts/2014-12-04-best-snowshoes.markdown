@@ -226,8 +226,6 @@ In general, it's a good idea to consider the following feature when choosing sno
 * Does it fit to your "snowshoe boots" (e.g. I use my hiking boots)
 * Do you want snowshoes for beginners? (they are cheaper and technically less advanced)
 
-What is the best snowshoe in your opinion? Leave a comment below.
-
 [1]:	http://www.hikeventures.com/best-trekking-and-snowshoeing-poles/
 [2]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/
 [3]:	http://www.hikeventures.com/deals/#snowshoe+men
