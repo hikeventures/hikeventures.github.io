@@ -72,35 +72,6 @@
 
 
 
-  <div id="search">
-     <form action="/search" method="get">
-       <input type="text" id="search-query" name="q" placeholder="Search" autocomplete="off">
-     </form>
-   </div>
-
-   <section id="search-results" style="display: none;">
-   <p>Search results</p>
-   <div class="entries">
-   </div>
- </section>
-
-
-  {% raw %}
-  <script id="search-results-template" type="text/mustache">
-    {{#entries}}
-      <article>
-        <h3>
-          {{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}
-          <a href="{{url}}">{{title}}</a>
-        </h3>
-      </article>
-    {{/entries}}
-  </script>
-  {% endraw %}
-
-
-
-
 
 
 </footer>
@@ -128,4 +99,4 @@
   ga('create', 'UA-46275467-1', 'auto');
   ga('send', 'pageview');
 </script>
-<script src="/js/search.min.js" type="text/javascript" charset="utf-8"></script>
+
