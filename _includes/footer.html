@@ -5,18 +5,18 @@
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
 
-      
+
         <ul class="contact-list">
           <li><font color="#A0A0A0">{{ site.title }}</font> </li>
           <li><font color="#A0A0A0">{{ site.description }}</font></li>
           <li><a href="http://www.hikeventures.com/blogs/"><font color="#A0A0A0">Links</font></a></li>
-          
-          
+
+
         </ul>
-        
-     
-        
-        
+
+
+
+
       </div>
 
 
@@ -35,8 +35,8 @@
           <li>
           <i class="fa fa-facebook-square"></i>
           </li>
-          
-          
+
+
           {% endif %}
         </ul>
       </div>
@@ -62,12 +62,31 @@
           </li>
         </ul>
         </li></ul>
-        
+
 
       </div>
     </div>
 
   </div>
+
+  
+
+  <div id="search">
+    <form action="/search" method="get">
+      <input type="text" id="search-query" name="q" placeholder="Search" autocomplete="off">
+    </form>
+  </div>
+
+  <section id="search-results" style="display: none;">
+  <p>Search results</p>
+  <div class="entries">
+  </div>
+</section>
+
+
+
+
+
 
 </footer>
 
@@ -94,3 +113,4 @@
   ga('create', 'UA-46275467-1', 'auto');
   ga('send', 'pageview');
 </script>
+<script src="/js/search.min.js" type="text/javascript" charset="utf-8"></script>
