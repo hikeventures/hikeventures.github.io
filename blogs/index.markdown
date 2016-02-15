@@ -169,6 +169,8 @@ Outdoor writer and photographer with a passion for wilderness and mountains.
 
 ### <a href="http://www.adventureswithpackraft.blogspot.fi">Adventures with Packrafts</a>
 
+### <a href="http://goatmanmike.com/">goatmanmike.com</a>
+
 ### <a href="http://www.heartofthewoods.com">heartofthewoods.com</a>
 Heart of the Woods is an adventure, travel and simple living blog! You will find travel logs of different trips,  backpacking,  camping, snowboarding,  and other adventures. I also post on living more simply and naturally.
 
