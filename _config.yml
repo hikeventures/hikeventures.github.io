@@ -35,6 +35,8 @@ gems:
 #
 #production_url : http://www.hikeventures.com
 
+fb_admins:          https://www.facebook.com/patrickdormischian
+fb_appid:           302249686541495
 
 description: Hiking and Packrafting Blog
 
