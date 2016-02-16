@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hiking on the &Aring;land Islands
+title: Hiking on the Åland Islands
 date: 2012-06-29 14:24
 comments: true
 categories: destinations
