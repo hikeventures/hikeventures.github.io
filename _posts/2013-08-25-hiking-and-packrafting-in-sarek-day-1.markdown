@@ -167,7 +167,7 @@ The landscape was again impressive and we had the feeling of walking on a differ
 
 <a href="https://www.flickr.com/photos/90204224@N07/9599022356"><img src="https://farm4.staticflickr.com/3757/9599022356_264251f913_b.jpg" width="1024" height="683"></a>
 
-<a href="https://www.flickr.com/photos/90204224@N07/9596230289"><img src="https://farm3.staticflickr.com/2822/9596230289_b8140889e3_b.jpg" width="1024" height="473"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9596230289" title="Hiking and Packrafting in Sarek"><img src="https://farm3.staticflickr.com/2822/9596230289_9b0f70706d_o.jpg" width="991" height="567" alt="Hiking and Packrafting in Sarek"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 At 11 pm we pitched our <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/" target="_self">tent</a> and prepared dinner - Patrick had Travellunch Erbseneintopf and Konstantin Travellunch Linseneintopf mit Schinken (lentils with ham) which we both graded with 3.5 out of 5 - and tea with our <a href="http://hikeventures.com/gear-review-jetboil-sol-ti/" target="_self">Jetboil Sol Ti stove</a>. Temperatures were again very low and we just wanted to get into our warm sleeping bags in order to rest for the upcoming day.
 
