@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Clair & Maurer: AMC guide to winter hiking and camping"
+title: "Clair &amp; Maurer: AMC guide to winter hiking and camping"
 date: "2013-12-04 23:26:13 +0200"
 comments: true
 author: Konstantin

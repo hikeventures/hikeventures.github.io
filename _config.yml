@@ -25,6 +25,16 @@ gems:
   - jekyll-archives
   - jekyll-paginate
   - jekyll-lunr-js-search
+  
+  
+  
+
+name: HikeVentures
+url: http://www.hikeventures.com
+author:
+  name: HikeVentures
+  email: contact@hikeventures.com
+
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls
@@ -35,6 +45,8 @@ gems:
 #
 #production_url : http://www.hikeventures.com
 
+fb_admins:          https://www.facebook.com/HikeVentures
+fb_appid:           302249686541495
 
 description: Hiking and Packrafting Blog
 
