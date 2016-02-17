@@ -27,6 +27,7 @@ gems:
   - jekyll-lunr-js-search
   - jekyll-minifier
   - jemoji
+  - jekyll-seo-tag
 
 
 
