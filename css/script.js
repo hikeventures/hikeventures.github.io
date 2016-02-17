@@ -119,3 +119,31 @@ function avMakeHttpRequest(strUrl)
 
     return;
 }
+
+
+function avShowSearchResults() 
+{ 
+// Construct the URL to retrieve search results, based on parameters 
+// set in the parent document 
+var strUrl = 'http://classic.avantlink.com/api.php?module=ProductSearch'
+        + '&affiliate_id=125311'
+        + '&website_id=150351'
+        + '&merchant_ids=10072'
+        + '&output=html'
+        + '&search_results_options=noheader'
+        + '&search_results_count=1'
+        + '&search_results_layout=list'       +'&search_results_fields=Thumbnail+Image|Product+Name|Merchant+Name|Sale+Price' + '&search_results_sort_order=Sale+Price|asc' + '&search_term=down';
+
+// Refresh the currently displayed results 
+avMakeHttpRequest(strUrl);
+
+return; 
+}
+
+var data = $(avShowSearchResults()).val;
+$('.list').html(data);
+
+
+
+
+
