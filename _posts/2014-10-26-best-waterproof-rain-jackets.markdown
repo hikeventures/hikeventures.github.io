@@ -1,3 +1,4 @@
+## 2014-10-26-best-waterproof-rain-jackets
 ---
 layout: post
 title: The 5 Best Rain Jackets for 2016
@@ -43,7 +44,7 @@ It's always a good idea to check if there are some deals available. You can try 
  Fabric: 3L Pertex Shield<br><br>
 
  The Rab Flashpoint Jacket is also a superlight rain jacket. With 185 grams it's you won't feel it either in your backpack. Also a great jacket for trail running. Not as durable if you are planning to carry a backpack.<br><br>
- <a href="http://www.hikeventures.com/deals/#Rab+Flashpoint+jacket"><button class="btn btn-danger">Compare prices</button></a><br><br>
+ <a href="http://www.hikeventures.com/deals/#Rab+Flashpoint"><button class="btn btn-danger">Compare prices</button></a><br><br>
  </td></tr></table></div>
 
 
@@ -85,7 +86,7 @@ It's always a good idea to check if there are some deals available. You can try 
 
  The Mountain Hardwear Plasmonic Jacket is one of the best selling jackets from Mountain Hardwear and made especially for hiking and backpacking.
  <br><br>
- <a href="http://www.hikeventures.com/deals/#Mountain+Hardwear+Plasmonic+Jacket"><button class="btn btn-danger">Compare prices</button></a><br><br>
+ <a href="http://www.hikeventures.com/deals/#Plasmonic+Jacket"><button class="btn btn-danger">Compare prices</button></a><br><br>
  </td></tr></table></div>
 
 ## Best fabric for waterproof jackets
