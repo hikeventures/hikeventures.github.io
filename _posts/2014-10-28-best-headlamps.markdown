@@ -42,7 +42,7 @@ When deciding which headlamp you should purchase, you have to consider the facto
 <div class="alert alert-success" role="alert"><h4> 1. Petzl Nao <span class="label label-danger">Editors Choice</span></h4></div>
 <div class="table-responsive">
 <table><tr><td width="50%">
-<a href="http://www.amazon.com/gp/product/B00LV16UHO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LV16UHO&linkCode=as2&tag=hikeve-20&linkId=3GTD2A7XRDGGEOWI"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LV16UHO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LV16UHO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00LMCATH4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LMCATH4&linkCode=as2&tag=hikeve-20&linkId=NB7B66USP2WK5M3D"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LMCATH4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LMCATH4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </td><td>
 Weight: 187 grams<br>
 Lumen: 575<br>
@@ -70,7 +70,7 @@ Almost half the Lumen power of the Petzl Nao,  the Petzl Tikka RXP is much light
 <div class="alert alert-success" role="alert"><h4>3. Black Diamond Icon</h4></div>
 <div class="table-responsive">
 
-<table><tr><td width="50%>
+<table><tr><td width="50%">
 
 <a href="http://www.amazon.com/gp/product/B005FNCPBE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005FNCPBE&linkCode=as2&tag=hikeve-20&linkId=WBUHJA3GU3TCBJXQ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005FNCPBE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005FNCPBE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </td><td>
@@ -117,7 +117,7 @@ The Princeton Tec Apex is the brightest headlamp Princeton Tec has to offer. It'
 <div class="alert alert-success" role="alert">
  <h4>6. Petzl Tikka R+</h4> </div>
 <div class="table-responsive">
-<table><tr><td width="50%>
+<table><tr><td width="50%">
 <a href="http://www.amazon.com/gp/product/B00BA4QMNY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BA4QMNY&linkCode=as2&tag=hikeve-20&linkId=5VB3BSOOASMYDYBL"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BA4QMNY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00BA4QMNY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </td><td>
 Weight: 85 grams<br>
