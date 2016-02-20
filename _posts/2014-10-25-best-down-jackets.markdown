@@ -1,4 +1,3 @@
-## 2014-10-25-best-down-jackets
 ---
 layout: post
 title: What are the best Down Jackets for 2016
