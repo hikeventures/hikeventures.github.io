@@ -1,4 +1,3 @@
-## 2014-10-26-best-waterproof-rain-jackets
 ---
 layout: post
 title: The 5 Best Rain Jackets for 2016
