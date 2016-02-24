@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: "Therm-a-Rest EvoLite"
-date: "2016-01-03 22:43:52 +0200"
+date: "2016-02-24 22:43:52 +0200"
 comments: true
 categories: gear
 description: "A review about the Therm-a-rest Evolute sleeping pad which we have tested in Sweden and Japan"
