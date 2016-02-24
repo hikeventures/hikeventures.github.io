@@ -7,6 +7,7 @@ comments: false
 footer: false
 published: true
 ---
+
 <div class="table-responsive">
 
       <table class="table table-hover table-condensed">
@@ -201,7 +202,16 @@ published: true
          </tr>
        
        
+        <tr>
+
+
+            <td><a href="http://www.hikeventures.com/Therm-a-Rest-EvoLite/">Therm-a-Rest EvoLite</a></td>
+            <td></td><td></td>
+
+         </tr>
        
+       
+
   
        
        
@@ -213,4 +223,3 @@ published: true
       </table>
 
 </div>
-
