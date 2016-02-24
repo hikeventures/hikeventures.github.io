@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Therm-a-Rest EvoLite"
 date: "2016-01-03 22:43:52 +0200"
@@ -8,6 +8,7 @@ categories: gear
 description: "A review about the Therm-a-rest Evolute sleeping pad which we have tested in Sweden and Japan"
 keywords: "Therm-a-rest, sleeping pad, camping, backpacking, outdoors, gear, review, hiking"
 ---
+
 
 Last year we have tested the Therm-a-Rest EvoLite on our hiking and packrafting trips in Japan and Sweden and here is a review about this self-inflating sleeping pad.
 
