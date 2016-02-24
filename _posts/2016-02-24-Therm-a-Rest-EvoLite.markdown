@@ -8,6 +8,7 @@ description: "A review about the Therm-a-Rest Evolite sleeping pad which we have
 keywords: "Therm-a-Rest, sleeping pad, camping, backpacking, outdoors, gear, review, hiking"
 ---
 
+
 Last year we have tested the Therm-a-Rest EvoLite on our hiking and packrafting trips in Japan and Sweden and here is a review about this self-inflating sleeping pad.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24872785289/in/dateposted-public/" title="Therm-a-Rest EvoLite"><img src="https://farm2.staticflickr.com/1619/24872785289_d994a8c482_b.jpg" width="1024" height="680" alt="Therm-a-Rest EvoLite"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -45,6 +46,8 @@ While Marta enjoyed the EvoLite in Japan, Patrick got his hands on the EvoLite i
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24944871370/in/dateposted-public/" title="Therm-a-Rest EvoLite"><img src="https://farm2.staticflickr.com/1601/24944871370_75481daea0_b.jpg" width="1024" height="768" alt="Therm-a-Rest EvoLite"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 However, Patrick enjoyed the self-inflating capability of the EvoLite especially after a long paddling day where you don’t want to spend more time than needed to inflate a sleeping pad.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24613671043/in/dateposted-public/" title="Therm-a-Rest EvoLite"><img src="https://farm2.staticflickr.com/1474/24613671043_142fc8ba05_b.jpg" width="1024" height="768" alt="Therm-a-Rest EvoLite"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Conclusion
 For those who don’t like to inflate sleeping pads, a self-inflating sleeping pad like the EvoLite might be a great solution depending where you are planning to use it. For warmer regions the EvoLite is probably a great choice. If you are planning to travel to colder places I would rather take the Therm-a-Rest XTherm with me. The XTherm is somewhat lighter than the EvoLite and keeps you warm till deep into minus temperatures. The only downside of the XTherm is however that it is not a self-inflating sleeping pad. However, it can be used in   a bigger temperature range.
