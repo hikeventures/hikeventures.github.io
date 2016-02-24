@@ -8,10 +8,11 @@ description: "A review about the Therm-a-rest Evolute sleeping pad which we have
 keywords: "Therm-a-rest, sleeping pad, camping, backpacking, outdoors, gear, review, hiking"
 ---
 
-
 Last year we have tested the Therm-a-Rest EvoLite on our hiking and packrafting trips in Japan and Sweden and here is a review about this self-inflating sleeping pad.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24872785289/in/dateposted-public/" title="Therm-a-Rest EvoLite"><img src="https://farm2.staticflickr.com/1619/24872785289_d994a8c482_b.jpg" width="1024" height="680" alt="Therm-a-Rest EvoLite"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<!--more-->
 
 ## EvoLite Specifications
 The EvoLite sleeping pad is part of Therm-a-rest’s Fast & Light product line. The EvoLite (regular) weights 520 grams, is 51 cm wide and 183 cm long and 5 cm thick. However, we tested the larger version (196 cm) or the EvoLite. The bottom of the EvoLite is made of 30d mini Rip Polyester. The innovation in this mattress is that it is self-inflating which means that you just have to blow into the valve a couple of times and the EvoLite is ready for the night.
