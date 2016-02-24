@@ -1,13 +1,14 @@
-## 2016-02-24-Therm-a-Rest EvoLite Sleeping Pad
 ---
+published: false
 layout: post
-title: Therm-a-Rest EvoLite
-date: 2016-01-03 22:43:52 +0200
+title: "Therm-a-Rest EvoLite"
+date: "2016-01-03 22:43:52 +0200"
 comments: true
 categories: gear
-description: A review about the Therm-a-rest Evolute sleeping pad which we have tested in Sweden and Japan
-keywords: Therm-a-rest, sleeping pad, camping, backpacking, outdoors, gear, review, hiking
+description: "A review about the Therm-a-rest Evolute sleeping pad which we have tested in Sweden and Japan"
+keywords: "Therm-a-rest, sleeping pad, camping, backpacking, outdoors, gear, review, hiking"
 ---
+
 Last year we have tested the Therm-a-Rest EvoLite on our hiking and packrafting trips in Japan and Sweden and here is a review about this self-inflating sleeping pad.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24872785289/in/dateposted-public/" title="Therm-a-Rest EvoLite"><img src="https://farm2.staticflickr.com/1619/24872785289_d994a8c482_b.jpg" width="1024" height="680" alt="Therm-a-Rest EvoLite"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
