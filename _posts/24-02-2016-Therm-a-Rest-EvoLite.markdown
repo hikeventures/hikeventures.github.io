@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "2016-02-24-Therm-a-Rest-EvoLite.markdown"
 date: "2016-02-24 22:43:52 +0200"
