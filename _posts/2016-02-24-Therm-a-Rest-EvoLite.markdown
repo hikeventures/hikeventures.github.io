@@ -33,7 +33,7 @@ We have used the EvoLite indoors and outdoors in Japan. The temperatures in Japa
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25122203772/in/dateposted-public/" title="Therm-a-Rest EvoLite"><img src="https://farm2.staticflickr.com/1618/25122203772_939c337b5e_b.jpg" width="1024" height="768" alt="Therm-a-Rest EvoLite"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Below Marta on the EvoLite in Japan. Seems that she made a satisfied impression on the EvoLite.
+Below Marta on the EvoLite in Japan. Seems that she made a satisfied impression on the EvoLite. Next to her the <a rel="nofollow" href="http://www.amazon.com/gp/product/B00TSFYZAE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TSFYZAE&linkCode=as2&tag=hikeve-20&linkId=WRWW2DWHEYZIT5QG">Therm-a-Rest NeoAir XTherm</a>.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25122204612/in/dateposted-public/" title="Therm-a-Rest EvoLite"><img src="https://farm2.staticflickr.com/1685/25122204612_47a9cd1e6f_b.jpg" width="1024" height="768" alt="Therm-a-Rest EvoLite"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
