@@ -29,11 +29,11 @@ We have tested the EvoLite in Japan and Sweden. On the picture below you can see
 
 The best way to set up your camp is to get the EvoLite pat out of the stuff bag and then focus on other things (e.g. preparing a meal or pitching the tent) while the EvoLite inflates and add the missing air via the valve into the sleeping pad after a couple of minutes. 
 
-We have used the EvoLite indoors and outdoors in Japan.
+We have used the EvoLite indoors and outdoors in Japan. The temperatures in Japan are quite high during the summer and a great place where you could use the EvoLite.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25122203772/in/dateposted-public/" title="Therm-a-Rest EvoLite"><img src="https://farm2.staticflickr.com/1618/25122203772_939c337b5e_b.jpg" width="1024" height="768" alt="Therm-a-Rest EvoLite"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Especially in warmer conditions the EvoLite was a great choice for us. Below Marta on the EvoLite in Japan.
+Below Marta on the EvoLite in Japan. Seems that she made a satisfied impression on the EvoLite.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25122204612/in/dateposted-public/" title="Therm-a-Rest EvoLite"><img src="https://farm2.staticflickr.com/1685/25122204612_47a9cd1e6f_b.jpg" width="1024" height="768" alt="Therm-a-Rest EvoLite"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
