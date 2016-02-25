@@ -45,7 +45,7 @@ While Marta enjoyed the EvoLite in Japan, Patrick got his hands on the EvoLite d
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24944871370/in/dateposted-public/" title="Therm-a-Rest EvoLite"><img src="https://farm2.staticflickr.com/1601/24944871370_75481daea0_b.jpg" width="1024" height="768" alt="Therm-a-Rest EvoLite"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-However, Patrick enjoyed the self-inflating capability of the EvoLite especially after a long paddling day where you don’t want to spend more time than needed to inflate a sleeping pad.
+However, Patrick enjoyed the self-inflating capability of the EvoLite especially after a long paddling day where you don’t want to spend more time than needed to inflate a sleeping pad. The large version (196 cm long) is probably too big for Patrick (180 cm).
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24613671043/in/dateposted-public/" title="Therm-a-Rest EvoLite"><img src="https://farm2.staticflickr.com/1474/24613671043_142fc8ba05_b.jpg" width="1024" height="768" alt="Therm-a-Rest EvoLite"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
