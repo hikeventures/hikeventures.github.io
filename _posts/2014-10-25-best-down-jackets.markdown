@@ -23,7 +23,7 @@ It's always a good idea to check if there are some deals available. You can try 
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GULW0DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GULW0DS&linkCode=as2&tag=hikeve-20&linkId=RSEZE3QFDW2FVB3A" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GULW0DS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GULW0DS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<strong>Weight:</strong> 212 grams /  down 79 grams<br>
+<strong>Weight: 212 grams /  down 79 grams</strong><br>
 <strong>Awards:</strong> GearJunkie 2013, FeedtheHabit 2013, National Geographic Adventure Gear of the Year 2012, Gear Institute Best in Class 2012, Outdoor Gear Lab Editors Choice
 
 The Mountain Hardware Ghost Whisperer Hooded Down Jacket is one of the lightest down jackets available. This is a great jacket for camping during spring, summer and autumn or as a light midlayer for the winter. If you are looking for a proper winter jacket then we would rather pick the Rab Infinity Endurance or the Rab Positron jacket. For a stylish jacket to use during winter mainly in town we would go for the Arcteryx Ceres jacket.
@@ -35,7 +35,7 @@ The Mountain Hardware Ghost Whisperer Hooded Down Jacket is one of the lightest 
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00Q9MHXN0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q9MHXN0&linkCode=as2&tag=hikeve-20&linkId=Y5N4EYNVYQ5UDXXJ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q9MHXN0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q9MHXN0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/>
 
-<strong>Weight: </strong>275 grams / down 97 grams<br>
+<strong>Weight: 275 grams / down 97 grams</strong><br>
 <strong>Award:</strong> ISPO Award Winner 2014
 
 Similar as the Arcteryx Cerium LT Jacket just with a hood. We would pick the Cerium LT Hoody if we would have to chose a down jacket for moderate winter or for camping during spring and autumn. LT stands for lightweight in the Arcteryx product line.
@@ -48,7 +48,7 @@ Similar as the Arcteryx Cerium LT Jacket just with a hood. We would pick the Cer
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GV47ZVQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GV47ZVQ&linkCode=as2&tag=hikeve-20&linkId=W5UOOTWBV54OBDXF" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GV47ZVQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20"></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GV47ZVQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<strong>Weight:</strong> 850 grams<br>
+<strong>Weight: 850 grams</strong><br>
 <strong>Award:</strong> ISPO Gold Award Winner 2014/2015
 
 More heavy than the other jackets in our list, the Arcteryx Ceres Jacket is made for the deep winter where warmth is the most important factor. This jacket is a probably a great option if you also want to have a fashionable jacket to wear in the city.
@@ -61,7 +61,7 @@ More heavy than the other jackets in our list, the Arcteryx Ceres Jacket is made
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00O85G9XA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00O85G9XA&linkCode=as2&tag=hikeve-20&linkId=T3YZSF3ZRC6WCK3I" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00O85G9XA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00O85G9XA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/>
 
-<strong>Weight:</strong> 290 grams
+<strong>Weight: 290 grams</strong>
 
 The Western Mountaineering Flash Jacket is a very good jacket for hiking trips in moderate cold conditions (spring and autumn). It's lightweight, has a good warmth-weight ratio and the full zipper have insulated draft protection.
 <br><br>
