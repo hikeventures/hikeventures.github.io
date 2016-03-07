@@ -102,7 +102,7 @@ The The North Face Super Diez Hooded Jacket is a mountaineering and alpine climb
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00OZGABKY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OZGABKY&linkCode=as2&tag=hikeve-20&linkId=OLFQERZDADI4UC3J"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00OZGABKY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00OZGABKY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<strong>Weight:</strong> 550 grams
+<strong>Weight: 550 grams</strong><br>
 Patagonia is another popular outdoor brand and delivers a superlight down jacket which comes with 2 zipped handwarmer pockets and elastic-bound cuffs and hem. The shell of the jacket is durable water repellent. The Patagonia Men's Down Hooded Jacket can be used as a light winter jacket.
 <br><br>
 
