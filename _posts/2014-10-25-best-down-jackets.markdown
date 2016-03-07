@@ -129,9 +129,7 @@ The  Rab Infinity Endurance Jacket is a technical alpine or mountaineering jacke
 <strong>Weight: 720 grams</strong>
 
 The  Rab Positron Jacket is proper box-wall down winter jacket with a water-resistant outer fabric. The manufacturer claims that it has been designed for mountain and expedition use up to 6000m. This jacket delivers about 30% more warmth than the Rab Infinity Endurance jacket.
-
-<br><br>
-
+<br>
  <a href="http://www.hikeventures.com/deals/#Positron+Jacket"><button class="btn btn-danger">Compare prices</button></a><br><br>
 
 ## FAQ on Down Jackets
