@@ -20,7 +20,7 @@ footer: false
         
         
                      <div class="col-xs-6"><div class="hovereffect">
-            <a class="thumbnail" href="http://www.hikeventures.com/Testing-the-MSR-Revo-Ascent,-Ascent-Light,-Deploy-T2-and-Flight-2-in-the-Austrian-Alps/" style="color: #FFF; border: 0px;">
+            <a class="thumbnail" href="http://www.hikeventures.com/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/" style="color: #FFF; border: 0px;">
         <div class="thumbnail text-center">
         	<img src="https://farm2.staticflickr.com/1517/24879167675_7b2378afc4_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:#FFF;">Montafon</p>
