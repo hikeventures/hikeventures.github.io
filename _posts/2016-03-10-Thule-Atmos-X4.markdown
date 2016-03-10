@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thule Atmos X4 Review
-date: 2016-03-10 14:31
+date: 2016-03-10 14:31 +0300
 comments: true
 published: true
 categories: destinations
