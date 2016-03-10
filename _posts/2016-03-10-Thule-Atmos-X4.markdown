@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thule X4 Review
+title: Thule Atmos X4 Review
 date: 2016-03-10 14:31
 comments: true
 published: true
