@@ -111,5 +111,5 @@ Here you can read more about [day 3][6] of our trip in the Swedish mountains soo
 [3]:	http://amzn.to/1OGOzna
 [4]:	http://amzn.to/1QY6BWw
 [5]:	http://www.movescount.com/moves/move72299399 "Day 2"
-[6]:	http://www.hikeventures.com/-packrafting-Njuoreatnu-Tornetrask-abisko-day-3/ "Day 3 Torneträsk Abisko"
+[6]:	http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko-day-3/ "Day 3 Torneträsk Abisko"
 [7]:	http://www.hikeventures.com/Packrafting-cleanest-lake-Sweden-Trollsjon/ "read more"
