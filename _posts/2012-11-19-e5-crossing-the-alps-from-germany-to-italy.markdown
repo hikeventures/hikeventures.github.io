@@ -137,7 +137,7 @@ Interested in another mountain adventure? Here is our [story][28] about our pack
 [22]:	http://www.soelden.com/urlaub/EN/SD/WI/urlaubsplanung/ortsinformation/orte/zwieselstein/index.html
 [23]:	http://www.kemptner-huette.de/
 [24]:	http://www.memminger-huette.at/
-[25]:	Meraner%20Hut
+[25]:	http://www.meranerhuette.it/
 [26]:	http://www.bolzano-bozen.it/en.html
 [27]:	http://www.alpenverein.de/
 [28]:	http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/ "story"
