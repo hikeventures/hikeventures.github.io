@@ -107,10 +107,7 @@ published: true
 
 
         </tr>
-          <tr>
-                  	<td><a href="/hiking-socks-for-every-season">Smartwool and Sealskinz socks</a></td>
 
-          <td></td><td></td></tr>
         <tr><td></td><td></td><td></td></tr>
        <tr style="background:#EEEEEE;">
         <td><strong>Packrafting</strong></td><td></td><td></td></tr><tr>
