@@ -6,8 +6,6 @@ categories: tidbits
 published: true
 description: "The latest outdoor gear reviews, tips & tricks - Nr. 39"
 keywords: "Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews"
-twitter_card: 
-  image: "https://farm6.staticflickr.com/5817/21641774221_d41efaafee_b.jpg"
 ---
 
 
@@ -43,7 +41,5 @@ Last weekend we have participated in the Finnish Packrafting Gathering. Konstant
 [Fall Hiking Tips](http://blissfulhiking.blogspot.com/2015/09/fall-hiking-tips.html)
 <br><br>
 [Thru Hiking PCT gear list](http://bikehikesafari.com/2015/09/20/thru-hiking-pct-gear-review/)
-<br><br>
-[Fun outdoor activities in London](http://www.fionaoutdoors.co.uk/2015/09/fun-outdoor-activities-in-london.html)
 <br><br>
 [Tips for hiking with your dog](http://www.modernhiker.com/2015/09/21/tips-for-hiking-with-your-dog/)
