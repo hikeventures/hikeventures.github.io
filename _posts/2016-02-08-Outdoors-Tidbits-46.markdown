@@ -34,7 +34,5 @@ The last week we were very busy with uploading our <a href="http://www.hikeventu
 ## Tips & Tricks
 <a href="http://www.fionaoutdoors.co.uk/2016/02/tips-for-safer-winter-hiking.html">Tips for Safer Winter Hiking</a>
 
-<a href="hhttp://feeds.feedblitz.com/~/135587561/0/sectionhikercom~How-Should-a-Backpack-Hip-Belt-Fit/">How should a backpack hip belt fit?</a>
-
 ## Trips
 <a href="http://www.packrafting.de/2016/02/fliegenfischer-im-polarural.html">Packrafting in Russia</a>
