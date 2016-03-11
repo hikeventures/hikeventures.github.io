@@ -54,7 +54,7 @@ I also hiked to the bird tower during winter. The landscape is more grey but it'
 
 <img src="http://farm3.staticflickr.com/2841/11708441294_4b52e7e643_c.jpg" alt="Hiking Lunch">
 
-Preparing lunch - Fresh frozen sausages and green tea in my new <a href="http://hikeventures.com/thermos-bottle/" target="_self">Thermos bottle</a> .
+Preparing lunch - Fresh frozen sausages and green tea in my new <a href="http://www.hikeventures.com/with-the-thermos-bottle-over-the-arctic-circle/" target="_self">Thermos bottle</a> .
 
 <img src="http://farm4.staticflickr.com/3676/11708844966_f1b3649258_c.jpg" alt="grilling sausages hiking">
 
