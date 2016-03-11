@@ -7,8 +7,6 @@ categories: ['Gear Reviews']
 published: true
 description: Thule Chasm XL Duffle Bag Review
 keywords: Thule, Chasm, gear, review, bags
-twitter_card:
-    image: https://farm6.staticflickr.com/5684/22593227254_53dab093e0_b.jpg
 ---
 Which bag do you take if you are going on winter adventure in Finnish Lapland and you need to take a lot of gear with you? Or what do you do if you need to pack for summer holidays during which you are visiting Japan and the North of Sweden and you do not have time to come back home to repack? Or simply if you are going on a business trip to Scotland or Norway which you want to combine with packrafting and camping? I don’t know which bag you would use, but I used my Thule Chasm XL (provided by Thule) and here is a short review of my experiences with it so far.
 <br><br>
@@ -20,7 +18,7 @@ Talking about the weight, what I measured on my scales and what is mentioned on 
 <br><br>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/22594582503/in/dateposted-public/" title="Thule Chasm"><img src="https://farm1.staticflickr.com/574/22594582503_aa05f41f8f_b.jpg" width="1000" height="664" alt="Thule Chasm"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <br><br>
-Regardless of this discrepency, the bag has been a great companion for me on my travels for almost a year. It has been exactly what they advertised it to be – my “go-to gear hauler for any adventure”. I took it to Finnish Lapland with extra winter clothes and snowshoes. My Chasm XL also accompanied me on my trip to Scotland, where I combined some work and packrafting on the Tweed. In summer, it carried most of my gear to Poland, from where I first travelled to Japan for three weeks (hiking, packrafting, camping and some city trips) and then I took it to Sweden for another two weeks (Fjällräven Classic, packrafting and hiking). I also used it on my trip to Alta, Norway, before which I had swung by Finland for the [Second Finnish Packrafting Gathering](http://leftbound.com/outdoors/Packraft-Gathering/), and after which I paddled the [Altaelva canyon](http://www.hikeventures.com/Packrafting-Alta-River/) for a few days.
+Regardless of this discrepency, the bag has been a great companion for me on my travels for almost a year. It has been exactly what they advertised it to be – my “go-to gear hauler for any adventure”. I took it to Finnish Lapland with extra winter clothes and snowshoes. My Chasm XL also accompanied me on my trip to Scotland, where I combined some work and packrafting on the Tweed. In summer, it carried most of my gear to Poland, from where I first travelled to Japan for three weeks (hiking, packrafting, camping and some city trips) and then I took it to Sweden for another two weeks (Fjällräven Classic, packrafting and hiking). I also used it on my trip to Alta, Norway, before which I had swung by Finland for the [Second Finnish Packrafting Gathering](http://leftbound.com/blog/Packraft-Gathering/), and after which I paddled the [Altaelva canyon](http://www.hikeventures.com/Packrafting-Alta-River/) for a few days.
 <br><br>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/22853720659/in/dateposted-public/" title="Thule Chasm"><img src="https://farm1.staticflickr.com/659/22853720659_d167d1505c_b.jpg" width="1000" height="664" alt="Thule Chasm"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <br><br>
