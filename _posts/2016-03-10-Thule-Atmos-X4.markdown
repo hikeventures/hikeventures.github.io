@@ -30,6 +30,6 @@ The only features we were missing on the X4 were that it is not waterproof and a
 
 In general, we also liked the camera lens protection. Even so there is no physical protection for the lens we found it sufficient to have the lens just placed lower than the case.
 
-However, we will test the new Thule X5 (which is supposed to be waterproof) on our iPhones on our next trip probably in Poland or Japan. If the X5 works as promised it will probably be our outdoor smartphone case of choice for our upcoming hiking and packrafting adventures.
+However, we will test the new <a rel="nofollow" href="http://amzn.to/1QRhFBW">Thule Atmos X5</a> (which is supposed to be waterproof) on our iPhones on our next trip probably in Poland or Japan. If the X5 works as promised it will probably be our outdoor smartphone case of choice for our upcoming hiking and packrafting adventures.
 
 <a  href="http://www.amazon.com/gp/product/B00PAYZE5W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PAYZE5W&linkCode=as2&tag=hikeve-20&linkId=XWN23HYJ4K7DC3UA"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00PAYZE5W&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00PAYZE5W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
