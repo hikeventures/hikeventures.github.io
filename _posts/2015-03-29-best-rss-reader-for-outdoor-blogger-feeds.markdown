@@ -26,4 +26,4 @@ With Feedly you can access your feeds from anywhere since there is a web based v
 ## Tiny Tiny RSS
 Tiny Tiny RSS is an open source RSS reader which requires a MySQL database to save the articles. So if you don't want to pay an annual fee e.g. for Feedly pro and you have a MySQL database available then you should have a look into Tiny Tiny RSS feed reader. You can find Tiny Tiny RSS and a full list of features [here](http://tt-rss.org/redmine/projects/tt-rss/wiki). There are also different themes available. 
 
-Which RSS reader would you chose? Still need a feed to try out your new RSS reader? Subscribe to our <a href="http://www.hikeventures.com/atom.xml">feed</a> or <a href="http://www.hikeventures.com/contact/">send us</a> a link to your outdoor blog so we can save it in our RSS reader!
+Which RSS reader would you chose? Still need a feed to try out your new RSS reader? Subscribe to our <a href="http://www.hikeventures.com/atom.xml">feed</a> or <a href="http://www.hikeventures.com/about/#contact">send us</a> a link to your outdoor blog so we can save it in our RSS reader!
