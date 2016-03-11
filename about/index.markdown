@@ -7,8 +7,8 @@ comments: false
 sharing: false
 footer: false
 ---
-Since 2012 you can read on HikeVentures about our hiking and packrafting adventures. Beside our trip reports you can also read about outdoor gear and photography. <br><br>While you can find more detailed articles on our blog you can also
-follow us on <a href="https://www.facebook.com/HikeVentures" rel="nofollow" target="_blank" title="Follow us on Facebook">Facebook</a>, <a href="https://twitter.com/hikeventures" rel="nofollow" target="_blank" title="Follow us on Twitter">Twitter</a> and <a href="https://instagram.com/hikeventure/">Instagram</a> to get more recent updates which we don't necessarily share on our blog.<hr>
+Since 2012 you can read on HikeVentures about our hiking and packrafting adventures. Beside our trip reports you can also read about outdoor gear and photography. While you can find more detailed articles on our blog you can also
+follow us on <a href="https://www.facebook.com/HikeVentures" rel="nofollow" target="_blank" title="Follow us on Facebook">Facebook</a>, <a href="https://twitter.com/hikeventures" rel="nofollow" target="_blank" title="Follow us on Twitter">Twitter</a> and <a href="https://instagram.com/hikeventure/">Instagram</a> to get more recent updates which we don't necessarily share on our blog.
 
 ## HikeVenturers
 <a href="https://www.facebook.com/profile.php?id=100009207710788">Patrick</a> was born 1978 in South Germany nearby the Alps where he was hiking and skiing extensively especially in Vorarlberg (Austria). Patrick moved to Finland in 2006 and currently lives on an island in the Archipelago Sea on the South West Coast of Finland which is a great place for exploring thousands of islands by packraft or kayak. Patrick has previously also lived several months in Australia where he was diving with sharks and explored the blue mountains. Moreover, he has worked in Switzerland on a ski hut which was a perfect place for snowboarding and skiing adventures in powder snow. Having relatives in Canada, Patrick also visited Banff National Park, traveled to China, Thailand, Romania, the Arab Emirates and India.<br><br>
