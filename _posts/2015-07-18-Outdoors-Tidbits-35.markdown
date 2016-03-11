@@ -27,8 +27,6 @@ After our hiking and packrafting trip in Poland, Konstantin went off to his hone
 
 [Therm-A-Rest NeoAir Voyager camping mattress](http://www.fionaoutdoors.co.uk/2015/07/therm-a-rest-neoair-voyager-camping-mattress.html)
 
-[Olympia WD180 Lantern](http://treelinebackpacker.com/2015/07/13/olympia-wd180-lantern-review)
-
 [Salomon S-Lab Exo Twinskin Shorts](http://hikelighter.com/2015/07/13/salomon-s-lab-exo-twinskin-shorts)
 
 [Black Diamond Alpine Start Hoody](http://thebigoutside.com/review-black-diamond-alpine-start-hoody/)
