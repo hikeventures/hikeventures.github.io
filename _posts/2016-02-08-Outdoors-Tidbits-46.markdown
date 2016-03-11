@@ -25,8 +25,6 @@ The last week we were very busy with uploading our <a href="http://www.hikeventu
 
 <a href="http://www.fionaoutdoors.co.uk/2016/02/kit-review-merrell-moab-gore-tex-walking-shoes.html">Merrell Moab Gore Tex Walking Shoes</a>
 
-<a href="http://southwestultralight.blogspot.com/2016/01/gear-review-and-my-favorite-gear-7.html">Seirus Heatwave Glove Liners, Skull Liner, socks and Zenith Mitts</a>
-
 <a href="http://www.gearexposure.com/salewa-wildfire-review-technical-approach-shoe-meet-comfort/">Salewa Wildfire</a>
 
 <a href="http://www.gearexposure.com/inov-8-race-elite-260-thermoshell-review/">Inov-8 Rave Elite 260 Thermoshell</a>
