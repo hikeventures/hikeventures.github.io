@@ -4,10 +4,8 @@ title: Outdoors Tidbits 42
 date: "2015-12-18 06:00:01 +0300"
 categories: tidbits
 published: true
-description: "The latest outdoor gear reviews, tips & tricks - Nr. 42 -"
+description: "The latest outdoor gear reviews, tips & tricks - Nr. 42"
 keywords: "Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews"
-twitter_card: 
-  image: "https://farm9.staticflickr.com/8673/16347221659_3952a1c6de_b.jpg"
 ---
 
 Christmas is getting closer and we are looking forward to finalize our gear reviews and trip reports during the holidays. We will publish articles about the MSR Windboiler and the Hubba Hubba NX, the Therm-a-rest Evolite, our hiking and packrafting trip in Japan, the Fjällräven Classic in Sweden and the continuation of <a href="http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/">Packrafting in the Swedish Mountains</a>. 
@@ -70,8 +68,6 @@ Survival shelters [handbook](http://blog.trailcooking.com/2015/12/17/book-review
 [Discover the joys of winter hiking](http://hikinginglacier.blogspot.com/2015/12/discover-joys-of-winter-hiking.html)
 <br><br>
 [3 track exercises to build strength and endurance for the mountains](http://trailtopeak.com/2015/12/14/3-track-exercises-to-build-strength-and-endurance-for-the-mountains/)
-<br><br>
-[Will Rietveld's Mountain SuperUltraLight Gear List](http://southwestultralight.blogspot.com/2015/12/will-rietvelds-mountain-superultralight.html)
 <br><br>
 [How to survive the shortest day of the year?](http://blog.rei.com/snowsports/how-to-survive-the-shortest-day-of-the-year/)
 <br><br>
