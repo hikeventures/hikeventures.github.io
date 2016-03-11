@@ -1,6 +1,5 @@
 ---
 layout: post
-excerpt_separator: "<!--more-->"
 title: Overnight Backpacking Gear List for Spring and Fall
 date: "2015-04-21 16:32:59 +0300"
 description: Gear list on what to pack when going for an overnight backpacking trip.
@@ -63,7 +62,7 @@ href="javascript: void 0" onclick="avPcwShowPopupFromSearch('Nalgene bottle','se
 href="javascript: void 0" onclick="avPcwShowPopupFromSearch('Katadyn Hiker Microfilter','search_results_count=5');">Katadyn Hiker Microfilter</a>. It's a little bit of pumping but works great so far.
 
 ## Waterproof Pants and Jacket
-You should always try to stay dry while on the trail. Wet clothes and cold wind is a good combination to become sick. In the summer you might just need fast drying clothes but during autumn and spring when temperatures are low having waterproof pants and a waterproof jacket is quite essential. Just make sure that they breath well or that they are zippers so you can open them if you sweat a lot. It also makes sense to take a wind jacket with you. Wind jackets are breath much better than rain jackets. I always have a rain jacket and a wind jacket with me. Currently, I am using the Arcteryx Squamish Hoody as my wind jacket and the Montane Minimus pants and Arcteryx Tecto FL jacket as my waterproof layer. I have also compiled 3 lists of the latest <a href="http://hikeventures.com/best-windjackets/">windproof jackets</a>, <a href="http://hikeventures.com/best-waterproof-rain-jackets/">waterproof jackets</a> and <a href="http://hikeventures.com/best-waterproof-pants/">waterproof pants</a>.
+You should always try to stay dry while on the trail. Wet clothes and cold wind is a good combination to become sick. In the summer you might just need fast drying clothes but during autumn and spring when temperatures are low having waterproof pants and a waterproof jacket is quite essential. Just make sure that they breath well or that they are zippers so you can open them if you sweat a lot. It also makes sense to take a wind jacket with you. Wind jackets are breath much better than rain jackets. I always have a rain jacket and a wind jacket with me. Currently, I am using the Arcteryx Squamish Hoody as my wind jacket and the Montane Minimus pants and Arcteryx Tecto FL jacket as my waterproof layer. I have also compiled 3 lists of the latest <a href="http://hikeventures.com/best-windjackets/">windproof jackets</a>, <a href="http://hikeventures.com/best-waterproof-rain-jackets/">waterproof jackets</a> and <a href="http://www.hikeventures.com/best-rain-pants/">waterproof pants</a>.
 
 ## Spare socks and underwear
 Usually, I take 2 pairs of merino socks with me. One pair I wear while I am hiking and the other pair when I am in the sleeping bag. The <a
