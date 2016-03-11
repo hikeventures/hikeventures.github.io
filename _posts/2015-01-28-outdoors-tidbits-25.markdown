@@ -6,8 +6,6 @@ comments: true
 categories: tidbits
 description: The latest outdoor gear reviews, tips & tricks - Nr. 25 - #outdoorstidbits
 keywords: Tidbits, Hiking, Packrafting, Outdoors, Photography, Gear Reviews
-twitter_card:
-    image: https://farm8.staticflickr.com/7451/16199155969_80cb33d3ec_b.jpg
 ---
 We are currently adventuring in Lapland. So far we have done a lot of Snowshoeing and Cross-Country Skiing in Kiilopää and Saariselkä. Unfortunately, we didn't have much sun so far but it's still great here. Below you can see an image of the moon shining over the Urho Kekkonen National Park. You will read more on our blog soon.
 <br><br>
@@ -22,8 +20,6 @@ Oracle State Park Trails. - [arizonahiking.blogspot.com](http://arizonahiking.bl
 Hiking in Joshua Tree National Park - Ryan Mountain. - [danshikingblog.blogspot.com](http://danshikingblog.blogspot.com/2015/01/joshua-tree-ryan-mountain-january-3-2014.html) 
 <br><br>
 New Year in Northumberland. - [backpackingbongos.wordpress.com](https://backpackingbongos.wordpress.com/2015/01/19/new-year-in-northumberland/) 
-<br><br>
-Day hike to Harney Peak - The highest point in South Dakota. - [jrcadventures.com](http://jrcadventures.com/2015/01/19/harney-peak) 
 <br><br>
 Interview with PB from Opus Orange. - [modernhiker.com](http://www.modernhiker.com/2015/01/19/stream-opus-orange-outside-in-interview-with-pb/) 
 <br><br>
