@@ -6,8 +6,6 @@ comments: true
 categories: tidbits
 description: Outdoors Tidbits 23
 keywords: Tidbits, Hiking, Packrafting, Outdoors, Photography, Gear Reviews
-twitter_card:
-    image: https://farm6.staticflickr.com/5501/11364450534_4e935ec2aa_b.jpg
 ---
 Konstantin returned from his winter hike in Poland where he tested some gear which we have received from some sponsors. I have also selected some booths to visit at the ISPO 2015 show in Munich.  ISPO offers an [iphone app](https://itunes.apple.com/us/app/ispo-munich-2015/id774932557?mt=8) this year which you can use to select and locate the different companies at the show. It's pretty cool.<br><br> 
 <a href="https://www.flickr.com/photos/90204224@N07/11364450534" title="Sunrise Vaasa"><img src="https://farm6.staticflickr.com/5501/11364450534_fda331ca57_b.jpg" width="1024" height="398" alt="Sunrise Vaasa"></a><br><!--more--><br>
@@ -26,8 +24,6 @@ Hiking in the Bryce Canyon National Park - [hikenoworklater.com](http://hikenow
 The Wildest Winter Family Hike in Kananaskis - [rockiesfamilyadventures.com](http://www.rockiesfamilyadventures.com/2015/01/the-wildest-winter-family-hike-in.html)
 <br><br>
 Exploring the Sterling Ridge Trail - [harrimanhiker.com](http://www.harrimanhiker.com/2014/12/sterling-ridge-trail-from-route-17a.html)
-<br><br>
-Packing list for a trip to Patagonia - [jrcadventures.com](http://jrcadventures.com/2015/01/04/what-are-we-packing-for-patagonia)
 <br><br>
 Ken Cuddeback Trail Review - [newenglandoutside.com](http://newenglandoutside.com/2015/01/05/ken-cuddeback-trail-review)
 <br><br>
