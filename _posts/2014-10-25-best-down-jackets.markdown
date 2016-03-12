@@ -36,7 +36,7 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hik
 
 
 ## Deals or Full price?
-It's always a good idea to check if there are some deals available. You can try our <a href="/deals/">price comparison tool</a> to find the best price offered by several outdoor stores across the U.S.
+It's always a good idea to check if there are some deals available. You can also try our <a href="/deals/">price comparison tool</a> to find the best price offered by several outdoor stores across the U.S.
 
 <div class="row">
   <div class="col-sm-12">
