@@ -8,12 +8,12 @@ categories: best
 description: Top 6 of the best Waterproof pants 2016 which protects you during your outdoor adventures.
 keywords: pants, 2015, Gear, Hiking, Packrafting, waterproof, outdoors
 ---
-Planning to go hiking or backpacking or any other backcountry adventure? Then you should consider to pack lightweight rain pants in into your backpack and here is our buying guide of the best rain pants for 2016. If the weather turns nasty you will be happy to have rain gear to stay dry and warm on the trail. The models I have selected below are mainly rain pants for men but most of the outdoor stores do also have an equivalent female model.
+Planning to go hiking or backpacking or any other backcountry adventure? Then you should consider to pack lightweight rain pants in into your backpack and here is our buying guide of the best rain pants for 2016. If the weather turns nasty you will be happy to have rain gear to stay dry and warm on the trail. The models which we have selected are rain pants for men. We have not tested those rain pants ourselves but we compared their specifications. The rain pants are sorted according to their weight. Most models are also available as female rain pants.
 
-### Overview
+### The best rain pants 2016
 
 | Model (click to check prices) | Weight (grams) | 
-| :--- | ---: |
+| :--- | :---: |
 | [Montane Minimus Pants](http://www.hikeventures.com/deals/#montane+minimus+pants "Check Prices") | 141 |
 | [Montane Atomic Pants](http://www.hikeventures.com/deals/#montane+Atomic+pants "Montane Atomic Pants") | 185 |
 | [Mountain Hardwear Plasmic Pants](http://www.hikeventures.com/deals/#plasmic+pants "Mountain Hardwear Plasmic Pant") | 204 |
