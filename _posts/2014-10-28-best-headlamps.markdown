@@ -18,7 +18,7 @@ Konstantin wearing a Petzl Nao on the top of a fell on our [trip in Lapland](htt
 ## The best headlamps of 2016
 
 | Model (click to check prices) | Weight (grams) | Lumen |
-| :--- | :——: | :—: |
+| :--- | :---: | :---: |
 | [Petzl Nao](http://www.hikeventures.com/deals/#petzl+nao "Petzl Nao") | 187 | 575 |
 | [Petzl Tikka RXP](http://www.hikeventures.com/deals/#petzl+tikka "Petzl Tikka RXP") | 115 | 215 |
 | [Black Diamond Icon](http://www.hikeventures.com/deals/#black+diamond+icon "Black Diamond Icon") | 220 | 200 |
