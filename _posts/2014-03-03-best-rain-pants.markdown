@@ -13,7 +13,8 @@ Planning to go hiking or backpacking or any other backcountry adventure? Then yo
 
 ### Overview
 
-| Model (Click to check prices) | Weight (grams) | [Montane Minimus Pants](http://www.hikeventures.com/deals/#montane+minimus+pants "Check Prices") | 141 |
+| Model (Click to check prices) | Weight (grams) |
+| [Montane Minimus Pants](http://www.hikeventures.com/deals/#montane+minimus+pants "Check Prices") | 141 |
 | [Montane Atomic Pants](http://www.hikeventures.com/deals/#montane+Atomic+pants "Montane Atomic Pants") | 185 |
 | [Mountain Hardwear Plasmic Pants](http://www.hikeventures.com/deals/#plasmic+pants "Mountain Hardwear Plasmic Pant") | 204 |
 | [Rab Cohort Pants](http://www.hikeventures.com/deals/#cohort+pants "Rab Cohort Pants") | 240 |
