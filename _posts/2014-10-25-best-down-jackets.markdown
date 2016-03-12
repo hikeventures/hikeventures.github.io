@@ -169,10 +169,6 @@ The baffles of a down jacket keep the down in place. There are two possibilities
 
 We would go for a hooded down jacket, as you can use the hood also in your sleeping bag if temperatures drop below of what your sleeping bag is capable to handle.
 
-### How to clean a down jacket?
-
-The best way to clean a down jacket is to wash it inside out in a washing machine with very low speed. As washing liquid we always use [Nikwax Downwash](#) and sometimes additionally [Nikwax Downproof](#) to make the down a bit more resistant against moisture.
-
 ### What is the difference in traditional and hydrophobic down (or HydroDown)?
 
 Hydrophobic down does not absorb water that quickly as traditional down. A hydrophobic down jacket keeps its insulation longer than a traditional down jacket if it gets wet.
@@ -195,7 +191,7 @@ We would go for a hooded down jacket, as you can use the hood also in your sleep
 
 ### How to clean a down jacket?
 
-The best way to clean a down jacket is to wash it inside out in a washing machine with very low speed. As washing liquid we always use [Nikwax Downwash](#) and sometimes additionally [Nikwax Downproof](#) to make the down a bit more resistant against moisture.
+The best way to clean a down jacket is to wash it inside out in a washing machine with very low speed. As washing liquid we always use [Nikwax Downwash](http://amzn.to/1LhYFiY) and sometimes additionally [Nikwax Downproof](http://amzn.to/22asIxd) to make the down a bit more resistant against moisture.
 
 ### What is the difference in traditional and hydrophobic down (or HydroDown)?
 
