@@ -15,7 +15,7 @@ Planning to go hiking or backpacking or any other backcountry adventure? Then yo
 
 | Model | Weight (grams) | Price |  
 | :—————— |:-------------:| -----: |
-| Montane Minimus Pants | 141 | [](http://www.hikeventures.com/deals/#montane+minimus+pants "Montane Minimus Pants Price") |
+| Montane Minimus Pants | 141 | [Check Price](http://www.hikeventures.com/deals/#montane+minimus+pants "Montane Minimus Pants Price") |
 | Montane Atomic Pants | 185 | [](#) |
 | Mountain Hardwear Plasmic Pant | 204 | [](#) |
 | Rab Cohort Pants | centered | 240 | [](#) |
