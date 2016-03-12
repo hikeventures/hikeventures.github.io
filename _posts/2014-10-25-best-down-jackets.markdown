@@ -21,7 +21,7 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hik
 ## The best down jackets 2016
 
 | Model (click to check prices) | Weight (grams) | Fill Power (cuin) | 
-| :--- | :——: | ——: |
+| :--- | :---: | ---: |
 | [Mountain Hardware Ghost Whisperer Hooded Down Jacket](http://www.hikeventures.com/deals/#Ghost+Whisperer+Hooded+Down+Jacket "Mountain Hardware Ghost Whisperer Hooded Down Jacket") | 212 | 800 |
 | [Arcteryx Cerium LT Hoody](http://www.hikeventures.com/deals/#Arcteryx+Cerium "Arcteryx Cerium LT Hoody") | 275 | 850 |
 | [Arcteryx Ceres Jacket](http://www.hikeventures.com/deals/#Ceres+Jacket "Arcteryx Ceres Jacket") | 850 | 850 |
