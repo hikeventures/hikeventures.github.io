@@ -22,6 +22,14 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hik
 ## Deals or Full price?
 It's always a good idea to check if there are some deals available. You can try our <a href="/deals/">price comparison tool</a> to find the best price offered by several outdoor stores across the U.S.
 
+<div class="row">
+  <div class="col-sm-12">
+<center>
+ <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=down jackets men AND the north face OR down jackets men AND Columbia OR down jackets men AND Arcteryx OR down jackets men AND Mountain Hardwear OR down jackets men AND Montane OR down jackets men AND Berghaus OR down jackets men AND Rab&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
+</center>
+  </div>
+</div>
+
 ## Award-Winning Down Jackets
 
 ### 1. Mountain Hardware Ghost Whisperer Hooded Down Jacket (800 fp)
