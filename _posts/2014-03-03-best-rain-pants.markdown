@@ -13,14 +13,15 @@ Planning to go hiking or backpacking or any other backcountry adventure? Then yo
 
 ### Overview
 
-| Model | Weight (grams) | Price |  
+| Model | Weight (grams) | Prices |  
 | :--- |:-------------:| -----: |
-| Montane Minimus Pants | 141 | [Check Price](http://www.hikeventures.com/deals/#montane+minimus+pants "Montane Minimus Pants Price") |
-| Montane Atomic Pants | 185 | [](#) |
-| Mountain Hardwear Plasmic Pant | 204 | [](#) |
-| Rab Cohort Pants | 240 | [](#) |
-| Arcteryx Beta SL Pants | 260 | [](#) |
-| Rab Xiom Pants | 270 | [](#) |
+| Montane Minimus Pants | 141 | [Check Prices](http://www.hikeventures.com/deals/#montane+minimus+pants "Check Prices") |
+| Montane Atomic Pants | 185 | [Check Prices](http://www.hikeventures.com/deals/#montane+Atomic+pants "Montane Atomic Pants") |
+| Mountain Hardwear Plasmic Pants | 204 | [Check Prices](http://www.hikeventures.com/deals/#plasmic+pants "Mountain Hardwear Plasmic Pant") |
+| Rab Cohort Pants | 240 | [Check Prices](http://www.hikeventures.com/deals/#cohort+pants "Rab Cohort Pants") |
+| Arcteryx Beta SL Pants | 260 | [Check Prices](http://www.hikeventures.com/deals/#arcteryx+beta+sl+pants "Arcteryx Beta SL Pants") |
+| Rab Xiom Pants | 270 | [Check Prices](http://www.hikeventures.com/deals/#xiom+pants "Rab Xiom Pants") |
+
 
 
 
