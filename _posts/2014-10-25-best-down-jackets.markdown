@@ -17,7 +17,8 @@ The down jackets in our list are all men down jackets but most manufacturers do 
 
 Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Finnish Lapland").
 
- <!--more-->
+<!--more-->
+ 
 ## The best down jackets 2016
 
 | Model (click to check prices) | Weight (grams) | Fill Power (cuin) | 
