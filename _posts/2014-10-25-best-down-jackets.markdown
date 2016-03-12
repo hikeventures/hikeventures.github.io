@@ -24,8 +24,7 @@ It's always a good idea to check if there are some deals available. You can try 
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GULW0DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GULW0DS&linkCode=as2&tag=hikeve-20&linkId=RSEZE3QFDW2FVB3A" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GULW0DS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GULW0DS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 212 grams /  down 79 grams
-
+**Weight:** 212 grams /  down 79 grams 
 **Awards:** GearJunkie 2013, FeedtheHabit 2013, National Geographic Adventure Gear of the Year 2012, Gear Institute Best in Class 2012, Outdoor Gear Lab Editors Choice
 
 The Mountain Hardware Ghost Whisperer Hooded Down Jacket is one of the lightest down jackets available. This is a great jacket for camping during spring, summer and autumn or as a light mid-layer for the winter. If you are looking for a proper winter jacket then we would rather pick the Rab Infinity Endurance or the Rab Positron jacket. For a stylish jacket to use during winter mainly in town we would go for the Arcteryx Ceres jacket.
@@ -36,7 +35,7 @@ The Mountain Hardware Ghost Whisperer Hooded Down Jacket is one of the lightest 
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00Q9MHXN0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q9MHXN0&linkCode=as2&tag=hikeve-20&linkId=Y5N4EYNVYQ5UDXXJ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q9MHXN0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q9MHXN0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/>
 
-**Weight:** 275 grams / down 97 grams
+**Weight:** 275 grams / down 97 grams 
 **Award:** ISPO Award Winner 2014
 
 Similar as the Arcteryx Cerium LT Jacket just with a hood. We would pick the Cerium LT Hoody if we would have to chose a down jacket for moderate winter or for camping during spring and autumn. LT stands for lightweight in the Arcteryx product line.
