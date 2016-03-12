@@ -11,6 +11,19 @@ featured_image: https://c4.staticflickr.com/8/7206/13685518345_0d22860c15_o.jpg
 ---
 Planning to go hiking or backpacking or any other backcountry adventure? Then you should consider to pack lightweight rain pants in into your backpack and here is our buying guide of the best rain pants for 2016. If the weather turns nasty you will be happy to have rain gear to stay dry and warm on the trail. The models I have selected below are mainly rain pants for men but most of the outdoor stores do also have an equivalent female model.
 
+### Overview
+
+ Model | Weight (grams) | Price  
+ :—————— |:-------------:| -----:
+Montane Minimus Pants | 141 | [](http://www.hikeventures.com/deals/#montane+minimus+pants "Montane Minimus Pants Price") 
+Montane Atomic Pants | 185 | [](#) 
+Mountain Hardwear Plasmic Pant | 204 | [](#) 
+Rab Cohort Pants | centered | 240 | [](#) 
+Arcteryx Beta SL Pants | 260 | [](#) 
+Rab Xiom Pants | 270 | [](#)
+
+
+
 <a href="https://www.flickr.com/photos/90204224@N07/13685518345" title="Best Rain Pants 2016"><img src="https://c4.staticflickr.com/8/7206/13685518345_0d22860c15_o.jpg" width="992" height="662" alt="Best Rain Pants 2016"></a>
 <!--more-->
 
