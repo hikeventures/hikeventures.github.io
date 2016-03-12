@@ -19,15 +19,16 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland].
 It's always a good idea to check if there are some deals available. You can try our <a href="/deals/">price comparison tool</a> to find the best price offered by several outdoor stores across the U.S.
 
 ## Award-Winning Down Jackets
- <div class="alert alert-success" role="alert"><h4> 1. Mountain Hardware Ghost Whisperer Hooded Down Jacket (800 fp)</h4></div>
+
+### 1. Mountain Hardware Ghost Whisperer Hooded Down Jacket (800 fp)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GULW0DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GULW0DS&linkCode=as2&tag=hikeve-20&linkId=RSEZE3QFDW2FVB3A" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GULW0DS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GULW0DS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<strong>Weight: 212 grams /  down 79 grams</strong><br>
-<strong>Awards:</strong> GearJunkie 2013, FeedtheHabit 2013, National Geographic Adventure Gear of the Year 2012, Gear Institute Best in Class 2012, Outdoor Gear Lab Editors Choice
+**Weight:** 212 grams /  down 79 grams
 
-The Mountain Hardware Ghost Whisperer Hooded Down Jacket is one of the lightest down jackets available. This is a great jacket for camping during spring, summer and autumn or as a light midlayer for the winter. If you are looking for a proper winter jacket then we would rather pick the Rab Infinity Endurance or the Rab Positron jacket. For a stylish jacket to use during winter mainly in town we would go for the Arcteryx Ceres jacket.
-<br><br>
+**Awards:** GearJunkie 2013, FeedtheHabit 2013, National Geographic Adventure Gear of the Year 2012, Gear Institute Best in Class 2012, Outdoor Gear Lab Editors Choice
+
+The Mountain Hardware Ghost Whisperer Hooded Down Jacket is one of the lightest down jackets available. This is a great jacket for camping during spring, summer and autumn or as a light mid-layer for the winter. If you are looking for a proper winter jacket then we would rather pick the Rab Infinity Endurance or the Rab Positron jacket. For a stylish jacket to use during winter mainly in town we would go for the Arcteryx Ceres jacket.
 
  <a href="http://www.hikeventures.com/deals/#Ghost+Whisperer+Hooded+Down+Jacket"><button class="btn btn-danger">Compare prices</button></a><br><br>
 
