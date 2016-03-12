@@ -13,13 +13,13 @@ Planning to go hiking or backpacking or any other backcountry adventure? Then yo
 
 ### Overview
 
-| Model (Click to check prices) | Weight (grams) |
-| [Montane Minimus Pants](http://www.hikeventures.com/deals/#montane+minimus+pants "Check Prices") | 141 |
+| Model (Click to check prices) | Weight (grams) | | [Montane Minimus Pants](http://www.hikeventures.com/deals/#montane+minimus+pants "Check Prices") | 141 |
 | [Montane Atomic Pants](http://www.hikeventures.com/deals/#montane+Atomic+pants "Montane Atomic Pants") | 185 |
 | [Mountain Hardwear Plasmic Pants](http://www.hikeventures.com/deals/#plasmic+pants "Mountain Hardwear Plasmic Pant") | 204 |
 | [Rab Cohort Pants](http://www.hikeventures.com/deals/#cohort+pants "Rab Cohort Pants") | 240 |
 | [Arcteryx Beta SL Pants](http://www.hikeventures.com/deals/#arcteryx+beta+sl+pants "Arcteryx Beta SL Pants") | 260 |
 | [Rab Xiom Pants](http://www.hikeventures.com/deals/#xiom+pants "Rab Xiom Pants") | 270 |
+
    
    
 <a href="https://www.flickr.com/photos/90204224@N07/13685518345" title="Best Rain Pants 2016"><img src="https://c4.staticflickr.com/8/7206/13685518345_0d22860c15_o.jpg" width="992" height="662" alt="Best Rain Pants 2016"></a>
