@@ -122,7 +122,7 @@ I have used the Suunto Ambit3 Sport for a couple of months and I am happy with i
 
 With an <a href="http://amzn.to/1qJjINv" rel="nofollow">external battery</a> you can also charge the Suunto Ambit when you are outdoors.
 
-## Where to buy the Suunto Ambit3
+## Suunto Ambit3 Deals
 <div class="row">
   <div class="col-sm-12">
 <center>
