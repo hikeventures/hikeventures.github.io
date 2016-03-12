@@ -7,11 +7,15 @@ categories: best
 description: Need a warm jacket for your autumn or winter? We found the best down jackets for 2016
 keywords: down, jacket, 2015, Gear, Hiking, Climbing, Packrafting, insulation, outdoors, layering
 ---
-Here is our buying guide of the best summer and winter down jackets for 2016 which you can take on your next hiking, backpacking, skiing, snowboarding, mountaineering, climbing, photography or any other backcountry outdoors adventure to stay warm. The down jackets in our buying guide are sorted according to weight. We have just selected goose down jackets with a fill power of 800 and more since they offer the best warmth-weight ratio and are considered to be lightweight down jackets. The down jackets in our list are all men down jackets but most manufacturers do also have a down jacket model for women in their portfolio. Please note that we have not tested those jackets but selected them according to our own preferences.
+Here is our buying guide of the best summer and winter down jackets for 2016 which you can take on your next hiking, backpacking, skiing, snowboarding, mountaineering, climbing, photography or any other backcountry outdoors adventure to stay warm. 
+
+The down jackets in our buying guide are sorted according to weight and we have just selected goose down jackets with a fill power of 800 and more since they offer the best warmth-weight ratio and are considered to be lightweight down jackets. 
+
+The down jackets in our list are all men down jackets but most manufacturers do also have an equivalent down jacket model for women in their portfolio. Please note that we have not tested the down jackets in our list but selected them according to our own preferences.
 
 <a href="https://www.flickr.com/photos/90204224@N07/18424590651" title="best down jackets 2016"><img src="https://c2.staticflickr.com/8/7793/18424590651_c838138d3d_o.jpg" width="992" height="659" alt="best down jackets 2016"></a>
 
-Konstantin wearing a down jacket on our trip in [Finnish Lapland].
+Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Finnish Lapland").
 
  <!--more-->
 
