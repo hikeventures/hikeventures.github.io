@@ -7,13 +7,6 @@ categories: best
 description: Need a warm jacket for your autumn or winter? We found the best down jackets for 2016
 keywords: down, jacket, 2015, Gear, Hiking, Climbing, Packrafting, insulation, outdoors, layering
 ---
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| [I'm an inline-style link](https://www.google.com)     | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
 Here is our buying guide of the best summer and winter down jackets for 2016 which you can take on your next hiking, backpacking, skiing, snowboarding, mountaineering, climbing, photography or any other backcountry outdoors adventure to stay warm. 
 
 The down jackets in our buying guide are sorted according to weight and we have just selected goose down jackets with a fill power of 800 and more since they offer the best warmth-weight ratio and are considered to be lightweight down jackets. 
