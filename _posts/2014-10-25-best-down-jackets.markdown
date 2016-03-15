@@ -35,17 +35,6 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hik
 | [Rab Positron Jacket](http://www.hikeventures.com/deals/#Positron+Jacket "Rab Positron Jacket") | 720 | 800 |
 
 
-## Deals or Full price?
-It's always a good idea to check if there are some deals available before buying the latest model. Sometimes there is not that much difference to the older model. You can also try our <a href="/deals/">price comparison tool</a> to find the best price offered by several outdoor stores across the U.S.
-
-<div class="row">
-  <div class="col-sm-12">
-<center>
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=down jackets men AND the north face OR down jackets men AND Columbia OR down jackets men AND Arcteryx OR down jackets men AND Montane OR down jackets men AND Berghaus OR down jackets men AND Rab&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
-</center>
-  </div>
-</div>
-  
 ### Mountain Hardware Ghost Whisperer Hooded Down Jacket (800 fp)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GULW0DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GULW0DS&linkCode=as2&tag=hikeve-20&linkId=RSEZE3QFDW2FVB3A" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GULW0DS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GULW0DS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -78,8 +67,6 @@ Similar as the Arcteryx Cerium LT Jacket just with a hoodie. We would pick the C
 More heavy than the other jackets in our list, the Arcteryx Ceres Jacket is made for the deep winter where warmth is the most important factor. This jacket is a probably a great option if you also want to have a fashionable jacket to wear in the city.
 
 <a href="http://www.hikeventures.com/deals/#Ceres+Jacket"><button class="btn btn-danger">Compare prices</button></a>
-
-## Other Down Jackets
 
 ### Western Mountaineering Flash Jacket (850 fp)
 
@@ -150,6 +137,19 @@ The  Rab Infinity Endurance Jacket is a technical alpine or mountaineering jacke
 The  Rab Positron Jacket is proper box-wall down winter jacket with a water-resistant outer fabric. The manufacturer claims that it has been designed for mountain and expedition use up to 6000m. This jacket delivers about 30% more warmth than the Rab Infinity Endurance jacket.
 
 <a href="http://www.hikeventures.com/deals/#Positron+Jacket"><button class="btn btn-danger">Compare prices</button></a>
+
+## Deals or Full price?
+It's always a good idea to check if there are some deals available before buying the latest model. Sometimes there is not that much difference to the older model. You can also try our <a href="/deals/">price comparison tool</a> to find the best price offered by several outdoor stores across the U.S.
+
+<div class="row">
+  <div class="col-sm-12">
+<center>
+ <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=down jackets men AND the north face OR down jackets men AND Columbia OR down jackets men AND Arcteryx OR down jackets men AND Montane OR down jackets men AND Berghaus OR down jackets men AND Rab&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
+</center>
+  </div>
+</div>
+
+
 
 ## FAQ on Down Jackets
 
