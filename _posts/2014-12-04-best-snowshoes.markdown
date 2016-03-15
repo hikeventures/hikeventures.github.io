@@ -33,6 +33,7 @@ Considering your own body and gear weight is important when choosing snow shoes.
 **application:** mountain   
 **awards:** Outdoor Gearlab Editors' Choice    
 
+- The MSR Lightning Ascent is our  is our favourite snowshoe (pick the MSR Revo Ascent below if you are looking for a more durable version).
 - Ergo Televators   
 - PosiLock AT bindings - MSR's most secure, freeze-resistant attachment   
 - Optional, 5-inch (13-cm) tails for improved flotation   
@@ -55,21 +56,6 @@ Considering your own body and gear weight is important when choosing snow shoes.
 
 <a href="http://www.hikeventures.com/deals/#tubbs+flex+vrt"><button class="btn btn-danger">Compare prices</button></a>
 
-### MSR Revo Explore 25
-
-<a href="http://www.amazon.com/gp/product/B00LFJO9CK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJO9CK&linkCode=as2&tag=hikeve-20&linkId=Z7UZJ4K2NYY757NA"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJO9CK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJO9CK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**weight:** 1790 grams   
-**application:** mountain   
-**awards:** ISPO Award Winner 2014-2015   
-
-- ExoTract deck and Pivot crampon  
-- HyperLink Binding 
-- Easy-entry cradle and fast two-strap ratchet system
-- Optional, 5-inch (13-cm) tails for improved flotation   
-- Ergo Televators to walk uphill  
-
-<a href="http://www.hikeventures.com/deals/#msr+revo+explore+25"><button class="btn btn-danger">Compare prices</button></a>
 
 ### Atlas Race 22
 
@@ -96,20 +82,6 @@ Considering your own body and gear weight is important when choosing snow shoes.
 - Pivot crampons for edge-to-edge grip   >
 
 <a href="http://www.hikeventures.com/deals/#msr+lightning+trail+25"><button class="btn btn-danger">Compare prices</button></a>
-
-### MSR Revo Trail 25  
-
-<a href="http://www.amazon.com/gp/product/B00LFJO2M2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJO2M2&linkCode=as2&tag=hikeve-20&linkId=OM6MOCQ6EMVJVNOB"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJO2M2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJO2M2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**weight:** 1700 grams   
-**application:** recreation 
-
-- DuoFit bindings - accommodates a wide range of footwear   
-- Optional, 5-inch (13-cm) tails for improved flotation
-- Streamlined design
-- Aggressive perimeter teeth & Pivot crampons for edge-to-edge grip
-
-<a href="http://www.hikeventures.com/deals/#msr+revo+trail+25"><button class="btn btn-danger">Compare prices</button></a>
 
 ### MSR Lightning Explore 25
 
