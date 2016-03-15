@@ -49,7 +49,7 @@ It's always a good idea to check if there are some deals available. You can try 
 - Detailed Track Logging
 - Barometric Altimeter & Accelerometer
 - weight: 190 grams
-- 
+
 <a href="http://www.hikeventures.com/deals/#InReach+Explorer+GPS"><button class="btn btn-danger">Compare prices</button></a><br><br>
 
 ### SPOT Gen3
