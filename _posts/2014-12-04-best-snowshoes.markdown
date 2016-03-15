@@ -34,7 +34,7 @@ It's always a good idea to check if there are snowshoe deals available if you ar
 **application:** mountain   
 **awards:** Outdoor Gearlab Editors' Choice    
 
-- The MSR Lightning Ascent is our  is our favourite snowshoe (pick the MSR Revo Ascent below if you are looking for a more durable version).
+- The MSR Lightning Ascent is our favourite snowshoe (pick the MSR Revo Ascent below if you are looking for a more durable version).
 - Ergo Televators   
 - PosiLock AT bindings - MSR's most secure, freeze-resistant attachment   
 - Optional, 5-inch (13-cm) tails for improved flotation   
