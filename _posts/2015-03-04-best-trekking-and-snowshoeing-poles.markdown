@@ -7,151 +7,133 @@ categories: best
 description: Need new trekking poles for your hiking and snowshoeing adventures? We found the best poles for 2016
 keywords: poles, 2016, Gear, Hiking, snowshoeing
 ---
-Trekking and snowshoeing poles are especially useful if you have to walk up or down a hill or a mountain or if you have to walk in deep powder snow. You could also use those poles for Nordic Walking in your neighbourhood. I have compiled my own preference list below since I was interested to know which the best trekking and snowshoeing poles on the market are which I would consider to buy in 2016. The list below is sorted according to the weight of the poles. So far, I have only tested the Black Diamond Ultra Distance from this list.  
+Trekking and snowshoeing poles are especially useful if you have to walk up or down a hill or a mountain or if you have to walk in deep powder snow. You could also use those poles for Nordic Walking in your neighbourhood. I have compiled my own preference list below since I was interested to know which the best trekking and snowshoeing poles on the market are which I would consider to buy in 2016. The list below is sorted according to the weight of the poles and we have selected the poles according to our own preferences.
 
-<a href="https://www.flickr.com/photos/90204224@N07/18240641010" title="Snowshoeing in Finnish Lapland"><img src="https://c4.staticflickr.com/8/7780/18240641010_a4f51acf96_o.jpg" width="992" height="659" alt="Snowshoeing in Finnish Lapland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/18240641010" title="Best trekking and snowshoeing poles 2016"><img src="https://c4.staticflickr.com/8/7780/18240641010_a4f51acf96_o.jpg" width="992" height="659" alt="Snowshoeing in Finnish Lapland"></a>
 <!--more-->
 
-With [Tubbs snowshoes][1] and trekking poles in [Finnish Lapland][2].
+With [Tubbs snowshoes](http://hikeventures.com/tubbs-xpedition-snowshoes/ "Tubbs Snowshoes") and trekking poles in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Finnish Lapland").
 
-Currently, I am using the [Black Diamond Ultra Distance Z-Poles][3] which are not made for snowshoeing as you can not add snow baskets on those trekking poles. However, I have also used them on our snowshoeing trip in [Finnish Lapland - Urho Kekkonen National Park][4] where I realised that snow baskets might be quite useful. For 3-season trips however they are great. You can see my trekking poles in action in our trip in [Swedish Lapland (Sarek National Park)][5].
+Currently, I am using the [Black Diamond Ultra Distance Z-Poles](http://www.hikeventures.com/gear-review-black-diamond-ultra-distance-z-pole/ "Black Diamond Ultra Distance Z-Poles") which are not made for snowshoeing as you can not add snow baskets on those trekking poles. However, I have also used them on our snowshoeing trip in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Finnish Lapland") - Urho Kekkonen National Park - where I realised that snow baskets might be quite useful. For 3-season trips however they are great. You can see my trekking poles in action in our trip in [Swedish Lapland (Sarek National Park)](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Swedish Lapland").
 
 ## Deals or Full price?
-It's always a good idea to check if there are some deals available. You can try our [price comparison tool][6] to find the best price offered by several outdoor stores across the U.S.
+It's always a good idea to check if there are some deals available. You can try our [price comparison tool](http://www.hikeventures.com/deals/ "Deals") to find the best price offered by several outdoor stores across the U.S.
 
-## Snowshoeing poles
-<div class="panel panel-default">   <div class="panel-body"><h4>MSR Flight 3 <span class="label label-danger">Editors Choice</span></h4></div></div><div class="table-responsive">
-<table >
-<tr><td width="50%">
+
+### MSR Flight 3
+
 <a href="http://www.amazon.com/gp/product/B00FQ837V0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FQ837V0&linkCode=as2&tag=hikeve-20&linkId=NF74EJFOBHVBOVXE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00FQ837V0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00FQ837V0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</td><td><strong>weight:</strong> 490 grams <br><br>The MSR Flight 3 is made of 7000-series Aluminium and has a non-absorbing foam grip and glove friendly straps. MSR snow baskets are included.<br><br>
-<a href="http://www.hikeventures.com/deals/#msr+flight+3"><button class="btn btn-danger">Compare prices</button></a><br><br>
-</td></tr></table></div>
 
-<div class="panel panel-default">   <div class="panel-body"><h4>Black Diamond Alpine Carbon Z</h4></div></div>
-<div class="table-responsive">
-<table>
-<tr><td width="50%">
+**weight:** 490 grams   
+The MSR Flight 3 is made of 7000-series Aluminium and has a non-absorbing foam grip and glove friendly straps. MSR snow baskets are included.   
+
+<a href="http://www.hikeventures.com/deals/#msr+flight+3"><button class="btn btn-danger">Compare prices</button></a>
+
+### Black Diamond Alpine Carbon Z
+
 <a href="http://www.amazon.com/gp/product/B00LU1DX98/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LU1DX98&linkCode=as2&tag=hikeve-20&linkId=LUGJUD377MMU4TIY"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LU1DX98&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LU1DX98" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</td><td><strong>weight:</strong> 505 grams<br><br>
-The Black Diamond Alpine Carbon Z has a natural cork grip and is made of carbon and comes in a 4-season construction. The poles come with a 3 section foldable shaft.<br><br>
-<a href="http://www.hikeventures.com/deals/#black+diamond+alpine+carbon+z"><button class="btn btn-danger">Compare prices</button></a><br><br>
-</td></tr></table></div>
+
+**weight:** 505 grams   
+The Black Diamond Alpine Carbon Z has a natural cork grip and is made of carbon and comes in a 4-season construction. The poles come with a 3 section foldable shaft.   
+
+<a href="http://www.hikeventures.com/deals/#black+diamond+alpine+carbon+z"><button class="btn btn-danger">Compare prices</button></a>
 
 
 
-<div class="panel panel-default">   <div class="panel-body"><h4>Black Diamond Expedition 3</h4></div></div>
-<div class="table-responsive">
-<table>
-<tr><td width="50%">
+### Black Diamond Expedition 3
+
 <a href="http://www.amazon.com/gp/product/B00MGQXVKW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MGQXVKW&linkCode=as2&tag=hikeve-20&linkId=7USCDAVWZRIA5VHA"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00MGQXVKW&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00MGQXVKW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</td><td><strong>weight:</strong> 520 grams <br><br>
-The Black Diamond Expedition 3 poles are made of Aluminium and can also be used as ski poles. The poles also come with a 4-season strap in case you want to use gloves during the winter season. These poles come with trekking and snow baskets.
-<br><br>
-<a href="http://www.hikeventures.com/deals/#black+diamond+expedition+3"><button class="btn btn-danger">Compare prices</button></a><br><br>
-</td></tr></table></div>
 
-<div class="panel panel-default">   <div class="panel-body"><h4>Black Diamond Alpine FLZ</h4></div></div>
-<div class="table-responsive">
-<table>
-<tr><td width="50%">
+**weight:** 520 grams   
+   
+The Black Diamond Expedition 3 poles are made of Aluminium and can also be used as ski poles. The poles also come with a 4-season strap in case you want to use gloves during the winter season. These poles come with trekking and snow baskets.
+   
+<a href="http://www.hikeventures.com/deals/#black+diamond+expedition+3"><button class="btn btn-danger">Compare prices</button></a>
+
+### Black Diamond Alpine FLZ
+
 <a href="http://www.amazon.com/gp/product/B00LU1DRV2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LU1DRV2&linkCode=as2&tag=hikeve-20&linkId=JB7BGEIVT2GTIBZF"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LU1DRV2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LU1DRV2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</td><td><strong>weight:</strong> 600 grams<br><br>
+
+**weight:** 600 grams
 
 The Black Diamond Alpine FLZ come with trekking and powder baskets and is made of Aluminium and non-slip EVA foam grip.
-<br><br>
-<a href="http://www.hikeventures.com/deals/#black+diamond +alpine+flz"><button class="btn btn-danger">Compare prices</button></a><br><br>
 
-</td></tr></table></div>
-
----- 
+<a href="http://www.hikeventures.com/deals/#black+diamond +alpine+flz"><button class="btn btn-danger">Compare prices</button></a>
 
 
+### MSR Swift
 
-## Hiking and Trekking poles
-
-<div class="panel panel-default">   <div class="panel-body"><h4>MSR Swift</h4></div></div>
-<div class="table-responsive">
-<table>
-<tr><td width="50%">
 <a href="http://www.amazon.com/gp/product/B00I2V6RE2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00I2V6RE2&linkCode=as2&tag=hikeve-20&linkId=3IIOTTW5ZF36DRBG"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00I2V6RE2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00I2V6RE2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</td><td><strong>weight:</strong> 450 grams<br><br> The MSR Swift poles are made of 7,000-series aluminium and comes with ventilated straps.<br><br>
-<a href="http://www.hikeventures.com/deals/#msr+swift"><button class="btn btn-danger">Compare prices</button></a><br><br>
-</td></tr></table></div>
+
+**weight:** 450 grams   
+
+The MSR Swift poles are made of 7,000-series aluminium and comes with ventilated straps.   
+
+<a href="http://www.hikeventures.com/deals/#msr+swift"><button class="btn btn-danger">Compare prices</button></a>
 
 
-<div class="panel panel-default">   <div class="panel-body"><h4>MSR Talus TR-3</h4></div></div>
-<div class="table-responsive">
-<table>
-<tr><td width="50%">
+### MSR Talus TR-3
+
 <a href="http://www.amazon.com/gp/product/B00I2V6S64/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00I2V6S64&linkCode=as2&tag=hikeve-20&linkId=6VYNYNUAOH3FZFYE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00I2V6S64&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00I2V6S64" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</td><td><strong>weight:</strong> 625 grams <br><br>
-The MSR Talus TR-3 is made of Aluminium and has an ergonomic grip which suites different hand sizes as well as a one-handed on-the-fly pole-length adjustment.
-<br><br>
-<a href="http://www.hikeventures.com/deals/#msr+talus+tr"><button class="btn btn-danger">Compare prices</button></a><br><br></td>
-</tr></table></div>
+
+**weight:** 625 grams   
+
+The MSR Talus TR-3 is made of Aluminium and has an ergonomic grip which suites different hand sizes as well as a one-handed on-the-fly pole-length adjustment.   
+
+<a href="http://www.hikeventures.com/deals/#msr+talus+tr"><button class="btn btn-danger">Compare prices</button></a>
 
 
-<div class="panel panel-default">   <div class="panel-body"><h4>Black Diamond Distance Carbon Z</h4></div></div>
-<div class="table-responsive">
-<table>
-<tr><td width="50%">
+### Black Diamond Distance Carbon Z
+
 <a href="http://www.amazon.com/gp/product/B00LU1E9J6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LU1E9J6&linkCode=as2&tag=hikeve-20&linkId=SQ74AUKGGVR6J5J5"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LU1E9J6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LU1E9J6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</td><td><strong>weight:</strong> 285 grams<br><br> 
-The Black Diamond Distance Carbon Z is made of carbon and suitable for fast-packing adventures. The poles are 3-section foldable.
-<br><br>
-<a href="http://www.hikeventures.com/deals/#black+diamond+distance+carbon+z"><button class="btn btn-danger">Compare prices</button></a><br><br>
-</td></tr></table></div>
+
+**weight:** 285 grams   
+
+The Black Diamond Distance Carbon Z is made of carbon and suitable for fast-packing adventures. The poles are 3-section foldable.   
+
+<a href="http://www.hikeventures.com/deals/#black+diamond+distance+carbon+z"><button class="btn btn-danger">Compare prices</button></a>
 
 
 
-<div class="panel panel-default">   <div class="panel-body"><h4>Black Diamond Ultra Distance</h4></div></div>
-<div class="table-responsive">
-<table>
-<tr><td width="50%">
+### Black Diamond Ultra Distance
+
 <a href="http://www.amazon.com/gp/product/B008V0C37O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008V0C37O&linkCode=as2&tag=hikeve-20&linkId=JS547GBNADXI3RY5"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008V0C37O&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B008V0C37O" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</td><td><strong>weight:</strong> 290 grams <br><br>
-The Black Diamond Ultra Distance poles are 3-section foldable and made of carbon fibre. 
-<br><br>
-<a href="http://www.hikeventures.com/deals/#black+diamond+ultra+distance"><button class="btn btn-danger">Compare prices</button></a><br><br>
-</td>
-</tr></table></div>
 
-<div class="panel panel-default">   <div class="panel-body"><h4>Black Diamond Distance Carbon FLZ</h4></div></div>
-<div class="table-responsive">
-<table>
-<tr><td width="50%">
+**weight:** 290 grams   
+
+The Black Diamond Ultra Distance poles are 3-section foldable and made of carbon fibre.   
+
+<a href="http://www.hikeventures.com/deals/#black+diamond+ultra+distance"><button class="btn btn-danger">Compare prices</button></a>
+
+### Black Diamond Distance Carbon FLZ
+
 <a href="http://www.amazon.com/gp/product/B00LU1E9J6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LU1E9J6&linkCode=as2&tag=hikeve-20&linkId=PMVOHR3LVH3T2AAQ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LU1E9J6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LU1E9J6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</td><td><strong>weight:</strong> 355 grams <br><br>
-The Black Diamond Distance Carbon FLZ are made of carbon fibre those poles come with FlickLock Pro adjustability. The poles are 3-section foldable.<br><br>
-<a href="http://www.hikeventures.com/deals/#black+diamond+distance+carbon+flz"><button class="btn btn-danger">Compare prices</button></a><br><br> 
-</td>
-</tr></table></div>
 
-<div class="panel panel-default">   <div class="panel-body"><h4>Black Diamond Distance Z</h4></div></div>
-<div class="table-responsive">
-<table>
-<tr><td width="50%">
+**weight:** 355 grams   
+
+The Black Diamond Distance Carbon FLZ are made of carbon fibre those poles come with FlickLock Pro adjustability. The poles are 3-section foldable.   
+
+### Black Diamond Distance Z
+
 <a href="http://www.amazon.com/gp/product/B008V0C37O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008V0C37O&linkCode=as2&tag=hikeve-20&linkId=CXYUXSMJNWPYTV3L"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008V0C37O&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B008V0C37O" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</td><td><strong>weight:</strong> 360 grams <br><br>
-The Black Diamond Distance Z are the most affordable poles in the Black Diamond series. It features aluminium construction and is 3-section foldable and an EVA foam grip.<br><br>
-<a href="http://www.hikeventures.com/deals/#black+diamond+distance+z"><button class="btn btn-danger">Compare prices</button></a><br><br>
-</td>
-</tr></table></div>
 
-<div class="panel panel-default">   <div class="panel-body"><h4>Leki Micro Ti</h4></div></div>
-<div class="table-responsive">
-<table>
-<tr><td width="50%">
+**weight:** 360 grams   
+
+The Black Diamond Distance Z are the most affordable poles in the Black Diamond series. It features aluminium construction and is 3-section foldable and an EVA foam grip.   
+
+### Leki Micro Ti
+
 <a href="http://www.amazon.com/gp/product/B00I5IVTUE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00I5IVTUE&linkCode=as2&tag=hikeve-20&linkId=4JMZ5BH5JJ367DOU"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00I5IVTUE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00I5IVTUE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</td><td><strong>weight:</strong> 432 grams <br><br>
-The Leki Micro series are foldable hiking poles from Leki and are made of Aluminium.<br><br>
-<a href="http://www.hikeventures.com/deals/#leki+micro+ti"><button class="btn btn-danger">Compare prices</button></a><br><br> 
-</td></tr></table></div>
+
+**weight:** 432 grams    
+
+The Leki Micro series are foldable hiking poles from Leki and are made of Aluminium.
+
+<a href="http://www.hikeventures.com/deals/#leki+micro+ti"><button class="btn btn-danger">Compare prices</button></a>
 
 <a href="https://www.flickr.com/photos/90204224@N07/16507495306"><img src="https://farm8.staticflickr.com/7432/16507495306_31a0dc37c5_b.jpg" width="1024" height="680"></a>
 
-Snow baskets are especially useful in deep powder snow when snowshoeing for example on our [trip in Finnish Lapland][7].
+Snow baskets are especially useful in deep powder snow when snowshoeing for example on our [trip in Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Finnish Lapland").
 
 ## Features
 When choosing your trekking or snowshoeing poles you should consider the following features:
@@ -163,11 +145,3 @@ When choosing your trekking or snowshoeing poles you should consider the followi
 
 ## Differences between trekking and snowshoeing poles
 I would say the main difference between snowshoe and hiking poles is the possibility to add a snow basket to the poles. This winter when I went to Finnish Lapland I took my hiking poles with me which I wanted to use for snowshoeing and realised that there is no possibility to add snow baskets on them. For this reason I have separated the list below into two sections. One section is for poles which can be used only for hiking or trekking and the other section is for poles which can be used for hiking and snowshoeing.
-
-[1]:	http://hikeventures.com/tubbs-xpedition-snowshoes/
-[2]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/
-[3]:	http://www.hikeventures.com/gear-review-black-diamond-ultra-distance-z-pole/
-[4]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/
-[5]:	http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/
-[6]:	http://www.hikeventures.com/deals/
-[7]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/
