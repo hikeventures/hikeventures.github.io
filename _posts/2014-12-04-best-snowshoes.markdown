@@ -115,8 +115,8 @@ Considering your own body and gear weight is important when choosing snow shoes.
 
 <a href="http://www.amazon.com/gp/product/B00LFJNWGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNWGO&linkCode=as2&tag=hikeve-20&linkId=5DOFWDAR6SHYQAWV"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJNWGO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJNWGO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**weight:** 1870 grams
-**application:** mountain
+**weight:** 1870 grams   
+**application:** mountain   
 
 - Pivot crampons   
 - Axis Gait Technology   
@@ -127,7 +127,6 @@ Considering your own body and gear weight is important when choosing snow shoes.
 ### MSR Revo Ascent 25
 
 <a href="http://www.amazon.com/gp/product/B00LFJO5NI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJO5NI&linkCode=as2&tag=hikeve-20&linkId=ADHSRTEBIYMKSWHX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJO5NI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJO5NI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</td><td>
 
 **weight:** 1970 grams   
 **application:** mountain  
