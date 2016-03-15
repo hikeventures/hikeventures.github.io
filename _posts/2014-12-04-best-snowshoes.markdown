@@ -65,23 +65,10 @@ Considering your own body and gear weight is important when choosing snow shoes.
 **application:** running   
 **awards:** Outside Magazine Gear of the Year Award Winner 2013
 
+- The Atlas Race is the lightest snowshoe in our list.
 - Titanium toe and heel crampon
 
 <a href="http://www.hikeventures.com/deals/#atlas+race+22"><button class="btn btn-danger">Compare prices</button></a>
-
-### MSR Lightning Trail 25
-
-<a href="http://www.amazon.com/gp/product/B00LFJNE5I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNE5I&linkCode=as2&tag=hikeve-20&linkId=SY4JWJWFNV2Y2J6E"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJNE5I&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJNE5I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**weight:** 1490 grams   
-**application:** recreation 
-
-- DuoFit bindings - accommodates a wide range of footwear   
-- Optional, 5-inch (13-cm) tails for improved flotation   
-- Streamlined design   
-- Pivot crampons for edge-to-edge grip   >
-
-<a href="http://www.hikeventures.com/deals/#msr+lightning+trail+25"><button class="btn btn-danger">Compare prices</button></a>
 
 ### MSR Lightning Explore 25
 
