@@ -25,9 +25,15 @@ It's always a good idea to check if there are some deals available. You can try 
 <a href="http://www.amazon.com/gp/product/B00FQ837V0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FQ837V0&linkCode=as2&tag=hikeve-20&linkId=NF74EJFOBHVBOVXE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00FQ837V0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00FQ837V0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **weight:** 490 grams   
-The MSR Flight 3 is made of 7000-series Aluminium and has a non-absorbing foam grip and glove friendly straps. MSR snow baskets are included.   
+The MSR Flight 3 is made of 7000-series Aluminium and has a non-absorbing foam grip and glove friendly straps. We have tested the MSR Flight 2 in the [Austrian Alps](http://www.hikeventures.com/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/ "Austrian Alps"). They are great for summer and winter. If you look specifically for winter poles then you should have a look at the MSR Deploy T-2 or T-3 (below).
 
 <a href="http://www.hikeventures.com/deals/#msr+flight+3"><button class="btn btn-danger">Compare prices</button></a>
+
+### MSR Deploy T-3
+<a  href="http://www.amazon.com/gp/product/B00FQU5KD6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FQU5KD6&linkCode=as2&tag=hikeve-20&linkId=RM7QJSFHFODR6F3U"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00FQU5KD6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00FQU5KD6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**weight:** 635 grams   
+The MSR Deploy T-3 are great for snowshoeing. We have tested the Deploy T-2 in the Austrian Alps [Austrian Alps](http://www.hikeventures.com/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/ "Austrian Alps"). If you are looking for poles which you can also use during the summer then you should have a look at the MSR Flight 3. There are 2 models available, the MSR Deploy T-2 and T-3 with the only difference that the T3 packs smaller.
 
 ### Black Diamond Expedition 3
 
