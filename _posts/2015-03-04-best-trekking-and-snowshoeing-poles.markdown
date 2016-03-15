@@ -113,14 +113,6 @@ The Black Diamond Ultra Distance poles are 3-section foldable and made of carbon
 
 The Black Diamond Distance Carbon FLZ are made of carbon fibre those poles come with FlickLock Pro adjustability. The poles are 3-section foldable.   
 
-### Black Diamond Distance Z
-
-<a href="http://www.amazon.com/gp/product/B008V0C37O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008V0C37O&linkCode=as2&tag=hikeve-20&linkId=CXYUXSMJNWPYTV3L"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008V0C37O&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B008V0C37O" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**weight:** 360 grams   
-
-The Black Diamond Distance Z are the most affordable poles in the Black Diamond series. It features aluminium construction and is 3-section foldable and an EVA foam grip.   
-
 ### Leki Micro Ti
 
 <a href="http://www.amazon.com/gp/product/B00I5IVTUE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00I5IVTUE&linkCode=as2&tag=hikeve-20&linkId=4JMZ5BH5JJ367DOU"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00I5IVTUE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00I5IVTUE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
