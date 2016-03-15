@@ -30,8 +30,8 @@ Considering your own body and gear weight is important when choosing snow shoes.
 <a href="http://www.amazon.com/gp/product/B00LFJNHQ4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNHQ4&linkCode=as2&tag=hikeve-20&linkId=YIDJETI36CMR7GF4"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJNHQ4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJNHQ4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **weight:** 1780 grams   
-**application:** mountain 
-**awards:** Outdoor Gearlab Editors' Choice   
+**application:** mountain   
+**awards:** Outdoor Gearlab Editors' Choice    
 
 - Ergo Televators   
 - PosiLock AT bindings - MSR's most secure, freeze-resistant attachment   
