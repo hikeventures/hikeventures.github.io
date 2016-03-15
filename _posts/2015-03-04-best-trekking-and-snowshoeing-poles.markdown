@@ -29,17 +29,6 @@ The MSR Flight 3 is made of 7000-series Aluminium and has a non-absorbing foam g
 
 <a href="http://www.hikeventures.com/deals/#msr+flight+3"><button class="btn btn-danger">Compare prices</button></a>
 
-### Black Diamond Alpine Carbon Z
-
-<a href="http://www.amazon.com/gp/product/B00LU1DX98/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LU1DX98&linkCode=as2&tag=hikeve-20&linkId=LUGJUD377MMU4TIY"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LU1DX98&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LU1DX98" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**weight:** 505 grams   
-The Black Diamond Alpine Carbon Z has a natural cork grip and is made of carbon and comes in a 4-season construction. The poles come with a 3 section foldable shaft.   
-
-<a href="http://www.hikeventures.com/deals/#black+diamond+alpine+carbon+z"><button class="btn btn-danger">Compare prices</button></a>
-
-
-
 ### Black Diamond Expedition 3
 
 <a href="http://www.amazon.com/gp/product/B00MGQXVKW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MGQXVKW&linkCode=as2&tag=hikeve-20&linkId=7USCDAVWZRIA5VHA"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00MGQXVKW&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00MGQXVKW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -49,38 +38,6 @@ The Black Diamond Alpine Carbon Z has a natural cork grip and is made of carbon 
 The Black Diamond Expedition 3 poles are made of Aluminium and can also be used as ski poles. The poles also come with a 4-season strap in case you want to use gloves during the winter season. These poles come with trekking and snow baskets.
    
 <a href="http://www.hikeventures.com/deals/#black+diamond+expedition+3"><button class="btn btn-danger">Compare prices</button></a>
-
-### Black Diamond Alpine FLZ
-
-<a href="http://www.amazon.com/gp/product/B00LU1DRV2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LU1DRV2&linkCode=as2&tag=hikeve-20&linkId=JB7BGEIVT2GTIBZF"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LU1DRV2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LU1DRV2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**weight:** 600 grams
-
-The Black Diamond Alpine FLZ come with trekking and powder baskets and is made of Aluminium and non-slip EVA foam grip.
-
-<a href="http://www.hikeventures.com/deals/#black+diamond +alpine+flz"><button class="btn btn-danger">Compare prices</button></a>
-
-
-### MSR Swift
-
-<a href="http://www.amazon.com/gp/product/B00I2V6RE2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00I2V6RE2&linkCode=as2&tag=hikeve-20&linkId=3IIOTTW5ZF36DRBG"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00I2V6RE2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00I2V6RE2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**weight:** 450 grams   
-
-The MSR Swift poles are made of 7,000-series aluminium and comes with ventilated straps.   
-
-<a href="http://www.hikeventures.com/deals/#msr+swift"><button class="btn btn-danger">Compare prices</button></a>
-
-
-### MSR Talus TR-3
-
-<a href="http://www.amazon.com/gp/product/B00I2V6S64/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00I2V6S64&linkCode=as2&tag=hikeve-20&linkId=6VYNYNUAOH3FZFYE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00I2V6S64&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00I2V6S64" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**weight:** 625 grams   
-
-The MSR Talus TR-3 is made of Aluminium and has an ergonomic grip which suites different hand sizes as well as a one-handed on-the-fly pole-length adjustment.   
-
-<a href="http://www.hikeventures.com/deals/#msr+talus+tr"><button class="btn btn-danger">Compare prices</button></a>
 
 
 ### Black Diamond Distance Carbon Z
@@ -93,17 +50,6 @@ The Black Diamond Distance Carbon Z is made of carbon and suitable for fast-pack
 
 <a href="http://www.hikeventures.com/deals/#black+diamond+distance+carbon+z"><button class="btn btn-danger">Compare prices</button></a>
 
-
-
-### Black Diamond Ultra Distance
-
-<a href="http://www.amazon.com/gp/product/B008V0C37O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008V0C37O&linkCode=as2&tag=hikeve-20&linkId=JS547GBNADXI3RY5"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008V0C37O&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B008V0C37O" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**weight:** 290 grams   
-
-The Black Diamond Ultra Distance poles are 3-section foldable and made of carbon fibre.   
-
-<a href="http://www.hikeventures.com/deals/#black+diamond+ultra+distance"><button class="btn btn-danger">Compare prices</button></a>
 
 ### Black Diamond Distance Carbon FLZ
 
