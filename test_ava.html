@@ -12,6 +12,23 @@ productArray[0][2] = 3rd item = Arcteryx
 
 To call the properties, just use OOP class names:
 <script>
+// Housekeeping - defining vars to ensure not undefined
+var productArray = new Array();
+var parseOnAblyResponse;
+
+//This actually returns and displays the HTML portion
+$(avShowSearchResults).html(JSON.stringify(avShowSearchResults));
+
+//Call the JSON function, which will build the array
+jsonAlexander();
+
+//Popup 4 Alerts as example
+alert("productArray[0][0].strProductName = "+productArray[0][0].strProductName);
+alert("productArray[0][0].dblProductPrice = "+productArray[0][0].dblProductPrice);
+alert("productArray[0][1].strProductName = "+productArray[0][0].strProductName);
+alert("productArray[0][1].dblProductPrice = "+productArray[0][0].dblProductPrice);
+
+
 productArray[1][0].strProductName
 productArray[1][0].dblProductPrice
 </script>
