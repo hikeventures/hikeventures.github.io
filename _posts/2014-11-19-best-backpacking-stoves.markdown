@@ -7,7 +7,7 @@ categories: best
 description: Top 10 of the best camping stoves for 2016
 keywords: backpacking, stoves, Outdoors, Hiking, Gear Review
 ---
-A portable and lightweight camping stove is one of the most essential item to have on your adventures to boil water for tea, coffee or dehydrated meals. Here comes our buying guide with the best lightweight camping stoves in 2016 for your next hiking, backpacking, packrafting, mountaineering or any other backcountry trip. The stoves are sorted according to their weight.
+A portable and lightweight camping stove is one of the most essential item to have on your adventures to boil water for tea, coffee or dehydrated meals. Here comes our buying guide with the best lightweight camping stoves in 2016 for your next hiking, backpacking, packrafting, mountaineering or any other backcountry trip. The stoves are sorted according to their weight and we have picked them according to our own preferences. Also it's a good idea to have a [Light My Fire Swedish FireSteel](http://amzn.to/22kZs72) with you. Sometimes matches can get wet but with the Swedish FireSteel you don't have to worry about that. Just make sure that you know how to use the FireSteel before you set out to the backcountry. 
 
 ![](https://c1.staticflickr.com/3/2822/9596230289_9b0f70706d_o.jpg "Best Backpacking Stoves 2016")
 
@@ -36,7 +36,7 @@ Konstantin with the [Jetboil Sol Ti](http://hikeventures.com/gear-review-jetboil
 **Burn Time:** 2.5 (0.5 Liter)   
 **Fuel:** Gas   
 
-The MSR WindBoiler is the latest addition on the stove market from MSR. This stove is marketed to operate very well under windy conditions. If you don't mind the weight then MSR WindBoiler is the stove to get.
+The MSR WindBoiler is the latest addition on the stove market from MSR. This stove is marketed to operate very well under windy conditions. The MSR Windboiler is currently our favourite stove on our trips even so it weights a little bit more than the other stoves.
 
 <a href="http://www.hikeventures.com/deals/#msr+reactor"><button class="btn btn-danger">Compare prices</button></a>
 
