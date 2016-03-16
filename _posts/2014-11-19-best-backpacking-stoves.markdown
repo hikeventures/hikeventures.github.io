@@ -65,18 +65,6 @@ The MSR MicroRocket is the lightest stove in our list. If saving weight has your
 
 <a href="http://www.hikeventures.com/deals/#msr+microrocket"><button class="btn btn-danger">Compare prices</button></a>
 
-### MSR SuperFly
-
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B000BBF2SI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000BBF2SI&linkCode=as2&tag=hikeve-20&linkId=UFP57FOHYAPUX3ET"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000BBF2SI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B000BBF2SI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Weight:** 131 grams   
-**Burn Time:** 3      
-**Fuel:** Gas   
-
-The MSR SuperFly distributes the heat more evenly as you can see on the bigger burner diameter. The MSR SuperFly is more suitable for those who are planning to cook on a frying pan.
-
-<a href="http://www.hikeventures.com/deals/#msr+superfly"><button class="btn btn-danger">Compare prices</button></a>
-
 ### MSR WindPro II
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B005I6PNZS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005I6PNZS&linkCode=as2&tag=hikeve-20&linkId=NCXX5MK756QD4MWS"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005I6PNZS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005I6PNZS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />   
@@ -89,17 +77,20 @@ The MSR WindPro II is a nice stove for those who want to have the burner separat
 
 <a href="http://www.hikeventures.com/deals/#msr+windpro"><button class="btn btn-danger">Compare prices</button></a>
 
-### Jetboil Sol Ti
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B004RA03LK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004RA03LK&linkCode=as2&tag=hikeve-20&linkId=BJM3MGEZ4PDJYKJL"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004RA03LK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B004RA03LK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+### Jetboil MiniMo
 
-**Weight:** 345 grams   
-**Burn Time:** 4.15 (1 Liter)   
+<a  href="http://www.amazon.com/gp/product/B00KXP7CUI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KXP7CUI&linkCode=as2&tag=hikeve-20&linkId=63NECFHTZ3EYX64N"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00KXP7CUI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00KXP7CUI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight:** 415 grams   
+**Burn Time:** 2.15 min for 1/2 l      
 **Fuel:** Gas   
 
-The Jetboil Sol Ti has won several awards. This is also the stove which I currently carry around with me. The water boils quite fast and it packs nicely into the backpack.
+The Jetboil MiniMo o stove offers you one of the best simmer control, metal handles, and a low spoon angle for easy eating. 
 
-<a href="http://www.hikeventures.com/deals/#jetboil+sol+ti"><button class="btn btn-danger">Compare prices</button></a>
+<a href="http://www.hikeventures.com/deals/#jetboil+minimo"><button class="btn btn-danger">Compare prices</button></a>
+
+
 
 ## Deals
 It's always a good idea to check if there are stove deals available. Here you can find a list of current deals:
