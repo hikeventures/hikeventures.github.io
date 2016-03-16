@@ -146,8 +146,8 @@ $(avShowSearchResults).html(JSON.stringify(avShowSearchResults));
 jsonAlexander();
 
 //Popup 4 Alerts as example
-//alert("productArray[0][0].strProductName = "+productArray[0][0].strProductName);
-//alert("productArray[0][0].dblProductPrice = "+productArray[0][0].dblProductPrice);
-//alert("productArray[0][1].strProductName = "+productArray[0][0].strProductName);
-//alert("productArray[0][1].dblProductPrice = "+productArray[0][0].dblProductPrice);
+alert("productArray[0][0].strProductName = "+productArray[0][0].strProductName);
+alert("productArray[0][0].dblProductPrice = "+productArray[0][0].dblProductPrice);
+alert("productArray[0][1].strProductName = "+productArray[0][0].strProductName);
+alert("productArray[0][1].dblProductPrice = "+productArray[0][0].dblProductPrice);
 
