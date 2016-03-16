@@ -86,10 +86,9 @@ The MSR WindPro II is a nice stove for those who want to have the burner separat
 **Burn Time:** 2.15 min for 1/2 l      
 **Fuel:** Gas   
 
-The Jetboil MiniMo o stove offers you one of the best simmer control, metal handles, and a low spoon angle for easy eating. 
+The Jetboil MiniMo o stove offers you one of the best simmer control, metal handles, and a low spoon angle for easy eating. The bottom cover can also be used as a bowl. As a whole product the Jetboil MiniMo might be a nice solution and not even that heavy considering that it offers 2 products in one (stove and bowl).
 
 <a href="http://www.hikeventures.com/deals/#jetboil+minimo"><button class="btn btn-danger">Compare prices</button></a>
-
 
 
 ## Deals
