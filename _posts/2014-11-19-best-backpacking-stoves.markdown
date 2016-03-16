@@ -82,7 +82,7 @@ The Jetboil MiniMo o stove offers you one of the best simmer control, metal hand
 <a  href="http://www.amazon.com/gp/product/B000EUMKFO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000EUMKFO&linkCode=as2&tag=hikeve-20&linkId=VXEWELGDXLVW6BJU"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000EUMKFO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B000EUMKFO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 489 grams (packed)   
-**Burn Time:** 2.8 (1 Liter) with kerosene fuel
+**Burn Time:** 2.8 (1 Liter) with kerosene fuel   
 **Fuel:** Multiple   
 
 The MSR XGK EX is probably the best choice if you need a stove which can handle multiple fuels in extreme conditions.
