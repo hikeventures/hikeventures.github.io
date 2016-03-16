@@ -40,19 +40,6 @@ The MSR WindBoiler is the latest addition on the stove market from MSR. This sto
 
 <a href="http://www.hikeventures.com/deals/#msr+reactor"><button class="btn btn-danger">Compare prices</button></a>
 
-### MSR Dragonfly
-
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B000BBGQ7O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000BBGQ7O&linkCode=as2&tag=hikeve-20&linkId=IL7T6QIISK3DUY4G"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000BBGQ7O&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B000BBGQ7O" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Weight:** 510 grams (packed)   
-**Burn Time:** 3.5 (1 Liter)   
-**Fuel:** Multiple   
-**Awards:** 3. in Germany's outdoor magazine 2005, Outdoor Gear Lab Top Pick   
-
-The MSR Dragonfly is a great stove if you are planning to use multiple fuels or if you use your stove in very cold environment.
-
-<a href="http://www.hikeventures.com/deals/#msr+dragonfly"><button class="btn btn-danger">Compare prices</button></a>
-
 ### MSR MicroRocket
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00F0BSDO4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F0BSDO4&linkCode=as2&tag=hikeve-20&linkId=GXQ24IC7MGCK4GWX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00F0BSDO4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00F0BSDO4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -90,6 +77,17 @@ The Jetboil MiniMo o stove offers you one of the best simmer control, metal hand
 
 <a href="http://www.hikeventures.com/deals/#jetboil+minimo"><button class="btn btn-danger">Compare prices</button></a>
 
+### MSR XGK EX
+
+<a  href="http://www.amazon.com/gp/product/B000EUMKFO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000EUMKFO&linkCode=as2&tag=hikeve-20&linkId=VXEWELGDXLVW6BJU"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000EUMKFO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B000EUMKFO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight:** 489 grams (packed)   
+**Burn Time:** 2.8 (1 Liter) with kerosene fuel
+**Fuel:** Multiple   
+
+The MSR XGK EX is probably the best choice if you need a stove which can handle multiple fuels in extreme conditions.
+
+<a href="http://www.hikeventures.com/deals/#msr+XGK"><button class="btn btn-danger">Compare prices</button></a>
 
 ## Deals
 It's always a good idea to check if there are stove deals available. Here you can find a list of current deals:
