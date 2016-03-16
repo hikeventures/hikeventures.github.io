@@ -16,30 +16,6 @@ A portable and lightweight camping stove is one of the most essential item to ha
 Konstantin with the [Jetboil Sol Ti](http://hikeventures.com/gear-review-jetboil-sol-ti/ "Jetboil Sol Ti") in [Sarek National Park](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Sarek National Park") in Sweden.
 
 
-
-### Jetboil Flash
-
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B002N18PHO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002N18PHO&linkCode=as2&tag=hikeve-20&linkId=BDKQURIJ7SHGUV2E"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002N18PHO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B002N18PHO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Weight:** 400 grams   
-**Burn Time:** 2.5 (0.5 Liter)   
-**Fuel:** Gas   
-**Awards:** Outdoor Gear Lab Top Pick  
-
-<a href="http://www.hikeventures.com/deals/#jetboil+flash"><button class="btn btn-danger">Compare prices</button></a>
-
-### MSR WindBoiler 
-
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00NPPWOJ2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NPPWOJ2&linkCode=as2&tag=hikeve-20&linkId=G7LF7ACULXJOSCLX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00NPPWOJ2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00NPPWOJ2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Weight:** 432 grams   
-**Burn Time:** 2.5 (0.5 Liter)   
-**Fuel:** Gas   
-
-The MSR WindBoiler is the latest addition on the stove market from MSR. This stove is marketed to operate very well under windy conditions. The MSR Windboiler is currently our favourite stove on our trips (for 2 person) even so it weights a little bit more than the other stoves. If you are traveling alone then the Jetboil MiniMo (see below) might be a good alternative.
-
-<a href="http://www.hikeventures.com/deals/#msr+reactor"><button class="btn btn-danger">Compare prices</button></a>
-
 ### MSR MicroRocket
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00F0BSDO4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F0BSDO4&linkCode=as2&tag=hikeve-20&linkId=GXQ24IC7MGCK4GWX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00F0BSDO4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00F0BSDO4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -65,6 +41,19 @@ The MSR WindPro II is a nice stove for those who want to have the burner separat
 <a href="http://www.hikeventures.com/deals/#msr+windpro"><button class="btn btn-danger">Compare prices</button></a>
 
 
+### Jetboil Flash
+
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B002N18PHO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002N18PHO&linkCode=as2&tag=hikeve-20&linkId=BDKQURIJ7SHGUV2E"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002N18PHO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B002N18PHO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight:** 400 grams   
+**Burn Time:** 2.5 (0.5 Liter)   
+**Fuel:** Gas   
+**Awards:** Outdoor Gear Lab Top Pick  
+
+The MSR Flash offers a push-button igniter and a heat indicator. The Jetboil Flash is suitable as a 2 person stove. If you travel solo have a look at the other stoves below.
+
+<a href="http://www.hikeventures.com/deals/#jetboil+flash"><button class="btn btn-danger">Compare prices</button></a>
+
 ### Jetboil MiniMo
 
 <a  href="http://www.amazon.com/gp/product/B00KXP7CUI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KXP7CUI&linkCode=as2&tag=hikeve-20&linkId=63NECFHTZ3EYX64N"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00KXP7CUI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00KXP7CUI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -76,6 +65,19 @@ The MSR WindPro II is a nice stove for those who want to have the burner separat
 The Jetboil MiniMo o stove offers you one of the best simmer control, metal handles, and a low spoon angle for easy eating. The bottom cover can also be used as a bowl. As a whole product the Jetboil MiniMo might be a nice solution and not even that heavy considering that it offers 2 products in one (stove and bowl).
 
 <a href="http://www.hikeventures.com/deals/#jetboil+minimo"><button class="btn btn-danger">Compare prices</button></a>
+
+
+### MSR WindBoiler 
+
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00NPPWOJ2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NPPWOJ2&linkCode=as2&tag=hikeve-20&linkId=G7LF7ACULXJOSCLX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00NPPWOJ2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00NPPWOJ2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight:** 432 grams   
+**Burn Time:** 2.5 (0.5 Liter)   
+**Fuel:** Gas   
+
+The MSR WindBoiler is the latest addition on the stove market from MSR. This stove is marketed to operate very well under windy conditions. The MSR Windboiler is currently our favourite stove on our trips (for 2 person) even so it weights a little bit more than the other stoves. If you are traveling alone then the Jetboil MiniMo (see below) might be a good alternative.
+
+<a href="http://www.hikeventures.com/deals/#msr+reactor"><button class="btn btn-danger">Compare prices</button></a>
 
 ### MSR XGK EX
 
