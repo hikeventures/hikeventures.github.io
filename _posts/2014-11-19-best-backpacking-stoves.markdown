@@ -35,7 +35,6 @@ Konstantin with the [Jetboil Sol Ti](http://hikeventures.com/gear-review-jetboil
 **Weight:** 432 grams   
 **Burn Time:** 2.5 (0.5 Liter)   
 **Fuel:** Gas   
-**Awards:** No awards yet but new version of the award winning MSR Reactor   
 
 The MSR WindBoiler is the latest addition on the stove market from MSR. This stove is marketed to operate very well under windy conditions. If you don't mind the weight then MSR WindBoiler is the stove to get.
 
