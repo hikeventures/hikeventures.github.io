@@ -1,10 +1,10 @@
 ---
 layout: post
-title: The 7 Best Camping Stoves 2016
+title: The 6 Best Camping Stoves 2016
 date: 2016-01-03 00:42:09 +0300
 published: true
 categories: best
-description: Top 10 of the best camping stoves for 2016
+description: Need a new camoing stove? Here are the best stoves for 2016.
 keywords: backpacking, stoves, Outdoors, Hiking, Gear Review
 ---
 A portable and lightweight camping stove is one of the most essential item to have on your adventures to boil water for tea, coffee or dehydrated meals. Here comes our buying guide with the best lightweight camping stoves in 2016 for your next hiking, backpacking, packrafting, mountaineering or any other backcountry trip. The stoves are sorted according to their weight and we have picked them according to our own preferences. Also it's a good idea to have a [Light My Fire Swedish FireSteel](http://amzn.to/22kZs72) with you. Sometimes matches can get wet but with the Swedish FireSteel you don't have to worry about that. Just make sure that you know how to use the FireSteel before you set out to the backcountry. 
