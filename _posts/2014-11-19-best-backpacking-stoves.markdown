@@ -36,7 +36,7 @@ Konstantin with the [Jetboil Sol Ti](http://hikeventures.com/gear-review-jetboil
 **Burn Time:** 2.5 (0.5 Liter)   
 **Fuel:** Gas   
 
-The MSR WindBoiler is the latest addition on the stove market from MSR. This stove is marketed to operate very well under windy conditions. The MSR Windboiler is currently our favourite stove on our trips even so it weights a little bit more than the other stoves.
+The MSR WindBoiler is the latest addition on the stove market from MSR. This stove is marketed to operate very well under windy conditions. The MSR Windboiler is currently our favourite stove on our trips (for 2 person) even so it weights a little bit more than the other stoves. If you are traveling alone then the Jetboil MiniMo (see below) might be a good alternative.
 
 <a href="http://www.hikeventures.com/deals/#msr+reactor"><button class="btn btn-danger">Compare prices</button></a>
 
