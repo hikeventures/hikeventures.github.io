@@ -43,7 +43,6 @@ The MSR WindBoiler is the latest addition on the stove market from MSR. This sto
 ### MSR Dragonfly
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B000BBGQ7O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000BBGQ7O&linkCode=as2&tag=hikeve-20&linkId=IL7T6QIISK3DUY4G"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000BBGQ7O&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B000BBGQ7O" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</td><td>
 
 **Weight:** 510 grams (packed)   
 **Burn Time:** 3.5 (1 Liter)   
@@ -111,9 +110,9 @@ It's always a good idea to check if there are stove deals available. Here you ca
 </center>
   </div>
 </div>
-<br>
 
-
+   
+   
 ## How to choose the best camping stove?
 It all depends on your requirements. Do you need a simple and lightweight camping stove then the MSR MicroRocket would be a good choice. Do you plan a trip to colder regions or areas where you have to use different fuels? Then a camping stove with a separated gas canister (so you can keep the gas canister warm) like the MSR Dragonfly should be on your choice. 
 
