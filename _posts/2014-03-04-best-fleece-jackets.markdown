@@ -20,6 +20,7 @@ While [Packrafting in Sarek](http://hikeventures.com/hiking-and-packrafting-in-s
 A fleece jacket can be also use as an outer shell if it's not raining but they are not windproof so you should also consider to get a [wind jacket](http://www.hikeventures.com/best-windjackets/ "Wind Jackets") when buying a fleece. Wind jackets are more breathable than rain jackets since they are not waterproof and you won't sweat that much in a wind jacket. In situations where you are not active (e.g. sitting in your camp or taking pictures) you should rather consider buying a [down jacket](http://www.hikeventures.com/best-down-jackets/ "Down Jackets"). Down does not insulate if it gets wet but keeps you warmer than fleece when dry.
 
 ## Deals
+It's always a good idea to have a look on current deals on fleece jacket especially if you are on a budget. Here is a list of current deals on fleece jackets in the U.S.:
 <div class="row">
   <div class="col-sm-12">
 <center>
