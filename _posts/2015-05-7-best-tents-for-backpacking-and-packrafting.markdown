@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 7 Best Tents For Backpacking And Packrafting in 2016
+title: 9 Best Tents For Backpacking And Packrafting in 2016
 date: 2016-01-03 19:10:07 +0300
 comments: true
 categories: best
@@ -162,28 +162,6 @@ If you are traveling with your friend then the Hilleberg Anjan 3 is our top choi
 The Hilleberg Nallo is probably the best choice if you want a 4-season tent which offers the most space and a vestibule for the least weight. If you don't need a freestanding tent and the best weight / space ratio 4-season tent then you should pick the Nallo.
 <a href="http://www.hikeventures.com/deals/#nallo+tent"><button class="btn btn-danger">Compare prices</button></a>
 
-### Hilleberg Nammatj 2
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00NUP7ZIM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NUP7ZIM&linkCode=as2&tag=hikeve-20&linkId=LBLNHK4GLH5A46EQ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00NUP7ZIM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00NUP7ZIM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Fabric:** Kerlon 1800   
-**Weight:** 3.0 kg   
-**Area inner tent:** 2.8 m²   
-
-This is a bombproof tent. If you need more space then you should have a look at the Kaitum.
-<a href="http://www.hikeventures.com/deals/#nammatj+tent"><button class="btn btn-danger">Compare prices</button></a>
-
-
-### Hilleberg Kaitum 2
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00KGNR7CK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KGNR7CK&linkCode=as2&tag=hikeve-20&linkId=TZ2L7T5TXCG63VQI"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00KGNR7CK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00KGNR7CK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Fabric:** Kerlon 1200      
-**Weight:** 3.1 kg    
-**Area inner tent:** 3.0 m²  
-
-Not as bombproof as the Nammatj, the Kaitum offers lots of space and can also be used during the winter months. If space is important for you and you don't mind the additional weight during the summer then the Kaitum 2 could be a good choice. If you take the Kaitum 3 then you just have to carry 300 grams more compared to the Kaitum 2 but you get 0.8 m2 more inner space. 
-
-<a href="http://www.hikeventures.com/deals/#kaitum+tent"><button class="btn btn-danger">Compare prices</button></a>
- 
 ## Conclusion
 To conclude, it's quite hard to say which tent is the best tent. It all depends on your needs and where you are planning to use the tent. Currently, we are using the MSR Hubba Hubba NX and the Anjan 3 (see also [here](http://www.hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/ "Hilleberg Anjan Tent")) which works great during spring, summer and autumn. The only disadvantage with the Anjan 3 is that it is not freestanding.
 
