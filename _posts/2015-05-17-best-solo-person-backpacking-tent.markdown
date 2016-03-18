@@ -60,10 +60,9 @@ Area inner tent: 2.6 m²
 
 The Niak 1.5 is the latest yellow label tent from Hilleberg. If you need more space than in the Hilleberg Enan e.g. if there is a longer rain period where you have to sit in the tent. It can accommodate up to 2 persons and has a vestibule to store your gear. If you need a spacious 3-season tent for solo or 2-person use then the Niak 1.5 could be a good choice if you are looking for a tent with low weight.
 
+<a href="http://www.hikeventures.com/deals/#hilleberg+niak"><button class="btn btn-danger">Compare prices</button></a>
 
 ### Hubba Hubba NX
-
-
 <a href="http://www.amazon.com/gp/product/B00G7H9CAY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G7H9CAY&linkCode=as2&tag=hikeve-20&linkId=EX4S5YFHURHMA3L5"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00G7H9CAY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00G7H9CAY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The MSR Hubba Hubba NX is a freestanding 2-person tent for 3 seasons.
