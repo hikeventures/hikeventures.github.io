@@ -185,18 +185,20 @@ Not as bombproof as the Nammatj, the Kaitum offers lots of space and can also be
 <a href="http://www.hikeventures.com/deals/#kaitum+tent"><button class="btn btn-danger">Compare prices</button></a>
  
 ## Conclusion
-To conclude, it's quite hard to say which tent is the best tent. It all depends on your needs and where you are planning to use the tent. Currently, we are using the Anjan 3 (see also [here](http://www.hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/ "Hilleberg Anjan Tent")) which works great during spring, summer and autumn. The only disadvantage with the Anjan 3 is that it is not freestanding.
+To conclude, it's quite hard to say which tent is the best tent. It all depends on your needs and where you are planning to use the tent. Currently, we are using the MSR Hubba Hubba NX and the Anjan 3 (see also [here](http://www.hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/ "Hilleberg Anjan Tent")) which works great during spring, summer and autumn. The only disadvantage with the Anjan 3 is that it is not freestanding.
 
 I recently asked Hilleberg concerning their fabrics and they recommended to go for Kerlon 1200 or 1800 for exposed environment and long duration trips.
 
-As I also want to used my tent in Scandinavia where some parts do not even have cell phone coverage in case of an emergency (except if you have a GPS messenger) the Enan and the Niak 1.5 (3-season tents with Kerlon 600) are not going to be my go-to tents.
+As I also want to use my tent in remote areas of Scandinavia where some parts do not even have cell phone coverage in case of an emergency (except if you have a GPS messenger) the Enan and the Niak 1.5 (3-season tents with Kerlon 600) are not going to be my go-to tents.
 
-As a freestanding tent I would pick either the Allak as a 2-person tent or the MSR Hubba Hubba NX / Niak 1.5 only if I am sure that the weather will be fine.
+As a freestanding 2-person tent I would either pick the Allak as a 2-person tent or the MSR Hubba Hubba NX.
 
-Personally, I would choose the Hilleberg Unna since I need a freestanding tent for packrafting and kayaking but on the same time it is light enough for backpacking. The Unna also offers lots of space and might be also more suitable for taller people. On the other hand we were also able to camp so far without a freestanding tent on all of our trips so the Hubba Hubba NX would
+Personally, I would choose the Hilleberg Unna as a 1-person tent since I need a freestanding tent for packrafting and kayaking but on the same time it is light enough for backpacking. The Unna also offers lots of space and might be also more suitable for taller people. On the other hand we were also able to camp so far without a freestanding tent on all of our trips. In our opinion the MSR Hubba Hubba NX is enough tent for a good price for most of our trips we are doing (MSR provided us the Hubba Hubba NX for testing). Also the MSR Hubba Hubba NX offers 2 vestibules to store gear.
 
 Also consider that if your tent is too small your sleeping bag gets wet if it touches the tent walls (and a small tent can get even smaller in strong winds). Some people said that venting could be an issue with the Unna but they replaced the standard inner tent with the Mesh inner tent sold my Hilleberg to convert it to probably best solo tent with great venting ability for the warmer months which can also handle strong winds.
 
-However, if you want a 4-season tent with a lot of space and a dedicated vestibule then the Nallo is probably the best choice (it's not freestanding).
+However, if you want a 4-season tent with a plenty of space and a dedicated vestibule then the Nallo is probably the best choice (it's not freestanding).
 
-The Soulo is the best 1-person tent for harsh weather conditions while the Unna is more versatile, bigger and a bit lighter than the Soulo. Personally, I prefer the Unna because it's freestanding and is very versatile.
+The Soulo is the best 1-person tent for harsh weather conditions while the Unna is more versatile, bigger and a bit lighter than the Soulo. 
+
+To sum it up. As a 1 or 2-person non-freestanding tent I would choose the MSR Hubba Hubba NX and as a 1-person freestanding tent the Hilleberg Unna with a seperate inner mesh tent provided by Hilleberg.
