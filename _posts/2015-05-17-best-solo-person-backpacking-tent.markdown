@@ -6,7 +6,6 @@ comments: true
 categories: best
 description: Overview of the best solo person backpacking tent for 2016.
 keywords: Tent, Tents, Gear, Camping, Outdoors, Hiking, Packrafting, Backpacking, hilleberg
-featured_image: https://c2.staticflickr.com/6/5600/15455033882_22ac28bbe8_b.jpg
 ---
 In this article I would like to give an overview about the best solo person backpacking tents available for 2015 / 2016 (personal view). I focus on Hilleberg tents as I already owned 2 Hillebegs in the past. I also added a MSR tent as I found it a good alternative which costs less than most of the Hilleberg tents. It's also important to know that each tent is made for a specific purpose so there is no one tent fits all purposes tent. Also it's worth to consider that a 1-person tent can be more heavy than a 2-person tent if you would distribute the weight of the 2-person tent over each person.
 
@@ -58,7 +57,7 @@ Fabric: Kerlon 600
 Weight: 1.7 kg   
 Area inner tent: 2.6 m²  
 
-The Niak 1.5 is the latest yellow label tent from Hilleberg. If you need more space than in the Hilleberg Enan e.g. if there is a longer rain period where you have to sit in the tent. It can accommodate up to 2 persons and has a vestibule to store your gear. If you need a spacious 3-season tent for solo or 2-person use then the Niak 1.5 could be a good choice if you are looking for a tent with low weight.
+The Niak 1.5 is the latest yellow label tent from Hilleberg. If you need more space than in the Hilleberg Enan e.g. if there is a longer rain period where you have to sit in the tent or if you want to take your dog with you. The Hilleberg Niak 1.5 is more a 1 person than a 2-person tent and comes with a vestibule to store your gear. If you need a spacious solo 3-season tent then the Niak 1.5 could be a good choice if you are looking for a tent with low weight. Alternatively, I would choose the MSR Hubba Hubba NX which is also less pricey and offers slightly more room.
 
 <a href="http://www.hikeventures.com/deals/#hilleberg+niak"><button class="btn btn-danger">Compare prices</button></a>
 
