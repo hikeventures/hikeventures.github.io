@@ -79,4 +79,4 @@ The Arcteryx Delta LT Zip Neck is also a nice fleece. I have currently the Delta
 ## Best Fleece Fabric
 Keep in mind that lighter material might be less durable depending on the technology used. Polartec Classic 100 fleece is in most cases sufficient if you go hiking. Polartec Power Stretch might be more interesting for those folks going climbing. Also consider if you need pockets or a full-zip jacket on your fleece as they might weight more. 
 
-A good idea is also to combine a fleece jacket with a [wind jacket](http://www.hikeventures.com/best-windjackets/ "wind jackets") since fleece jackets are not windproof.
+A good idea is also to combine a fleece jacket with a [wind jacket](http://www.hikeventures.com/best-windjackets/ "wind jackets") since fleece jackets are not windproof and you won't sweat that much in a wind jacket than in a [rain jacket](http://www.hikeventures.com/best-waterproof-rain-jackets/).
