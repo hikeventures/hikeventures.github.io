@@ -201,4 +201,4 @@ However, if you want a 4-season tent with a plenty of space and a dedicated vest
 
 The Soulo is the best 1-person tent for harsh weather conditions while the Unna is more versatile, bigger and a bit lighter than the Soulo. 
 
-To sum it up. As a 1 or 2-person non-freestanding tent I would choose the MSR Hubba Hubba NX and as a 1-person freestanding tent the Hilleberg Unna with a seperate inner mesh tent provided by Hilleberg.
+To sum it up. As a 1 or 2-person non-freestanding tent I would choose the MSR Hubba Hubba NX and as a 1-person freestanding tent the Hilleberg Unna with a seperate inner mesh tent provided by Hilleberg. As a winter tent I would probably choose the Kaitum, Nammatj, Nallo or Akto.
