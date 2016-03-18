@@ -105,7 +105,7 @@ The Rab Xiom Pants come in a more durable fabric than the Montane pants listed a
 
 <a href="https://www.flickr.com/photos/90204224@N07/9598980244" title="Montane Minimus Pants"><img src="https://farm4.staticflickr.com/3767/9598980244_fccc7cd8c6_b.jpg" width="1024" height="683" alt="Montane Minimus Pants"></a>
 
-Montane Minimus pants on our (packrafting trip)[http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/] in Sweden.
+Montane Minimus pants on our (packrafting trip)[http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1] in Sweden.
 
 The list I have compiled below is sorted according to the weight of the pants and not according to their performance. Why I sorted them according to their weight? Well, usually you only wear waterproof pants when it rains. When it stops raining you will pack your waterproof pants back into your backpack. The pants in my list are for emergency situations so they will also pack quite small as the Montane Minimus pants (see picture above). Also consider to take a (waterproof jacket)[http://www.hikeventures.com/best-waterproof-rain-jackets] with you.
 
