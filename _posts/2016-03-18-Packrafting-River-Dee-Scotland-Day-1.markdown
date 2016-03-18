@@ -32,9 +32,6 @@ keywords: Hiking, packrafting, outdoors, scotland, britain, uk, dee, river
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25720731532/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1702/25720731532_b15b7974c6_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25720715432/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1611/25720715432_b27ab8c091_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25815623486/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1441/25815623486_4cb468584a_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25746562021/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1670/25746562021_69799f21d2_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
