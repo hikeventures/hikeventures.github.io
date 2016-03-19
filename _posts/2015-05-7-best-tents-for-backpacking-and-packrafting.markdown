@@ -13,7 +13,6 @@ For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-
 <!--more-->
 
 ## Deals or Full price?
