@@ -13,38 +13,6 @@ For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](
 
 <!--more-->
 
-So which is the best tent to choose? First, you should go through the points I have listed below in order to find out what kind of tent you really need:
-
-## Tent footprint
-Do you need a tent footprint? Well, I have never used a tent footprint and from my point of view your tent should last for a while if you clear the ground before you pitch it. I consider a tent footprint as unnecessary weight if you go hiking but it might be useful if you go on a trip by kayak where weight is not that important.
-
-## Tent stakes & poles
-Tents usually come with tent stakes. If you want to save a little bit of weight then you could also purchase separate carbon stakes and poles like the [MSR Carbon Core Stake Kit](http://amzn.to/1Q32GJG "MSR Carbon Core") which weights only 6 grams.
-
-## Tunnel tent or dome tent?
-Another consideration might be if you need a freestanding dome tent or a tunnel tent. A tunnel tent might be lighter but on the other hand you are able to pitch a freestanding dome tent also on places which are not suitable for tunnel tents e.g. when you go paddling and you want to camp on a (rocky) small island or on a sandy beach. There are also self-supporting tents which are more or less freestanding but still need 2 or more stakes. Currently, I am having a Hilleberg Anjan 3 - a tunnel tent - which I am quite happy with. But since we are also [paddling](http://www.hikeventures.com/sarek-packrafting-video/ "Packrafting Video")quite often I will most likely get another tent which is freestanding e.g. the Hilleberg Allak which I have also listed below. Since a dome tent can carry more snow load it's also perfectly suited for winter camping.
-
-## Tent as a Tarp?
-Do you want to leave your inner tent at home to save some weight and use the outer tent as a tarp?
-
-## Mesh as an inner tent?
-In the warmer months you would like to have a mesh as an inner tent either to have a better air circulation or to have a panorama view if there are no clouds in the sky. Not all tents have a mesh as an inner tent (e.g. Hilleberg) and you need to purchase them separately.
-
-## Protected or unprotected areas
-Are you hiking in a protected area like a forest or an unprotected area like on a hill or mountain which requires a stronger tent.
-
-## Season
-Do you plan to use your tent during 3 or 4 seasons (winter)? The fabric of the tent has an impact on the weight and the durability of the tent. Of course 4 season tents will have a stronger fabric but will also weight much more. Hilleberg for example gives an good overview of the [tear strength](http://www.hilleberg.com/home/tent_info/tearstrength.php "Tear Strength Hilleberg") of the fabrics they are using for their products.
-
-## Vestibule
-Do you need a vestibule to store gear or cook when it's raining?
-
-## Size & Weight
-Do you want to have a tent which packs small so it fits into your backpack when going hiking (an ultralight tent) or can the tent be bigger and heavier since you are transporting it with a kayak or packraft?
-
-## Additional Features
-I like the pockets on the wall of our Hilleberg Anjan tent which are just located at the right and left side of the entrance. I usually store small items in it such as a pocket knife, my watch or a headlamp. Also a clothes line which goes through the tent can be useful to dry clothes as you can see in the picture below. Reflectors may also help you to spot your tent during the night.
-
 [[IMG]](https://www.flickr.com/photos/90204224@N07/13955790226 "Packrafting Tent")
 Inside an Anjan 3 - a tunnel tent.
 
@@ -79,7 +47,7 @@ The Hilleberg Unna is a freestanding one person tent and offers 0.5 m2 more room
 **Weight:** 2.4 kg   
 **Area inner tent:** 2.0 m²  
 
-The Hilleberg Soulo is a very strong solo expedition tent. If strenght is important to you and you need a dedicated vestibule then you should choose the Soulo rather than the Unna.
+The Hilleberg Soulo is a very strong solo expedition tent. If strength is important to you and you need a dedicated vestibule then you should choose the Soulo rather than the Unna.
 
 ## Non-freestanding tents
 
@@ -99,7 +67,7 @@ If you are travelling alone on a shorter trip where you don't have lot's of gear
 
 <a  href="http://www.amazon.com/gp/product/B01AT52A08/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AT52A08&linkCode=as2&tag=hikeve-20&linkId=2TDIHYJWJ46ET5ID"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01AT52A08&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B01AT52A08" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-The Hilleberg Niak 1.5 is a non-freestanding 1-2 person tent.
+The Hilleberg Niak 1.5 is a non-freestanding 1 person tent.
 
 **Fabric:** Kerlon 600   
 **Weight:** 1.7 kg   
@@ -131,7 +99,7 @@ The MSR Hubba Hubba NX is a freestanding 2-person tent for 3 seasons.
 **Weight:** 1.7 kg   
 **Area inner tent:** 2.7 m²   
 
-The MSR Hubba Hubba NX is a great 3 season tent and it even costs almost half the price of a Hilleberg tent. The Hilleberg just has a stronger floor material (50D) compared to the MSR but you get plenty of room. I think it's a tough decision to choose between the Niak 1.5 and the Hubba Hubba NX. If you are low on budget then we could higly recommend the Hubba Hubba NX as we have also used it on our trip in Sweden and Japan. Reviews soon available on our blog.
+The MSR Hubba Hubba NX is a great 3 season tent and it even costs almost half the price of a Hilleberg tent. The Hilleberg just has a stronger floor material (50D) compared to the MSR but you get plenty of room. I think it's a tough decision to choose between the Niak 1.5 and the Hubba Hubba NX. If you are low on budget then we could highly recommend the Hubba Hubba NX as we have also used it on our trip in Sweden and Japan. Reviews soon available on our blog.
 
 <a href="http://www.hikeventures.com/deals/#hubba+hubba+nx"><button class="btn btn-danger">Compare prices</button></a>
 
@@ -160,7 +128,40 @@ If you are traveling with your friend then the Hilleberg Anjan 3 is our top choi
 **Fabric:**  Kerlon 1200  
 
 The Hilleberg Nallo is probably the best choice if you want a 4-season tent which offers the most space and a vestibule for the least weight. If you don't need a freestanding tent and the best weight / space ratio 4-season tent then you should pick the Nallo.
+
 <a href="http://www.hikeventures.com/deals/#nallo+tent"><button class="btn btn-danger">Compare prices</button></a>
+
+## Considerations when choosing a tent
+
+### Tent footprint
+Do you need a tent footprint? Well, I have never used a tent footprint and from my point of view your tent should last for a while if you clear the ground before you pitch it. I consider a tent footprint as unnecessary weight if you go hiking but it might be useful if you go on a trip by kayak where weight is not that important.
+
+### Tent stakes & poles
+Tents usually come with tent stakes. If you want to save a little bit of weight then you could also purchase separate carbon stakes and poles like the [MSR Carbon Core Stake Kit](http://amzn.to/1Q32GJG "MSR Carbon Core") which weights only 6 grams.
+
+### Tunnel tent or dome tent?
+Another consideration might be if you need a freestanding dome tent or a tunnel tent. A tunnel tent might be lighter but on the other hand you are able to pitch a freestanding dome tent also on places which are not suitable for tunnel tents e.g. when you go paddling and you want to camp on a (rocky) small island or on a sandy beach. There are also self-supporting tents which are more or less freestanding but still need 2 or more stakes. Currently, I am having a Hilleberg Anjan 3 - a tunnel tent - which I am quite happy with. But since we are also [paddling](http://www.hikeventures.com/sarek-packrafting-video/ "Packrafting Video")quite often I will most likely get another tent which is freestanding e.g. the Hilleberg Allak which I have also listed below. Since a dome tent can carry more snow load it's also perfectly suited for winter camping.
+
+### Tent as a Tarp?
+Do you want to leave your inner tent at home to save some weight and use the outer tent as a tarp?
+
+### Mesh as an inner tent?
+In the warmer months you would like to have a mesh as an inner tent either to have a better air circulation or to have a panorama view if there are no clouds in the sky. Not all tents have a mesh as an inner tent (e.g. Hilleberg) and you need to purchase them separately.
+
+### Protected or unprotected areas
+Are you hiking in a protected area like a forest or an unprotected area like on a hill or mountain which requires a stronger tent.
+
+### Season
+Do you plan to use your tent during 3 or 4 seasons (winter)? The fabric of the tent has an impact on the weight and the durability of the tent. Of course 4 season tents will have a stronger fabric but will also weight much more. Hilleberg for example gives an good overview of the [tear strength](http://www.hilleberg.com/home/tent_info/tearstrength.php "Tear Strength Hilleberg") of the fabrics they are using for their products.
+
+### Vestibule
+Do you need a vestibule to store gear or cook when it's raining?
+
+### Size & Weight
+Do you want to have a tent which packs small so it fits into your backpack when going hiking (an ultralight tent) or can the tent be bigger and heavier since you are transporting it with a kayak or packraft?
+
+### Additional Features
+I like the pockets on the wall of our Hilleberg Anjan tent which are just located at the right and left side of the entrance. I usually store small items in it such as a pocket knife, my watch or a headlamp. Also a clothes line which goes through the tent can be useful to dry clothes as you can see in the picture below. Reflectors may also help you to spot your tent during the night.
 
 ## Conclusion
 To conclude, it's quite hard to say which tent is the best tent. It all depends on your needs and where you are planning to use the tent. Currently, we are using the MSR Hubba Hubba NX and the Anjan 3 (see also [here](http://www.hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/ "Hilleberg Anjan Tent")) which works great during spring, summer and autumn. The only disadvantage with the Anjan 3 is that it is not freestanding.
