@@ -13,9 +13,6 @@ For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](
 
 <!--more-->
 
-[[IMG]](https://www.flickr.com/photos/90204224@N07/13955790226 "Packrafting Tent")
-Inside an Anjan 3 - a tunnel tent.
-
 ## Deals or Full price?
 It's always good to check if there are some deals available. You can try our [price comparison tool](http://www.hikeventures.com/deals/ "Packrafting Tents Deals") to find the best price offered by several outdoor stores across the U.S.
 
