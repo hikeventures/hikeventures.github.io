@@ -9,7 +9,7 @@ keywords: Tent, Tents, Gear, Camping, Outdoors, Hiking, Packrafting, Backpacking
 ---
 For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](http://www.hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/ "Hilleberg Anjan") which has served us quite well so far in [Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Packrafting in Sarek"), [the Netherlands](http://www.hikeventures.com/packrafting-in-the-weerribben-wieden-national-park/ "Packrafting in the Netherlands") and [Finland](http://www.hikeventures.com/halloween-adventure-at-lake-suolijarvi/ "Packrafting in Finland"). However, we are always looking for ways to get better gear and realised that a freestanding dome tent would be the ultimate tent solution for our packrafting and kayaking adventures as we also came across some areas where pitching a tunnel tent was quite difficult. The list below contains freestanding and non-freestanding tents which we are currently considering as the best solutions for kayaking and packrafting in 2015 / 2016.
 
-![Best tent for Packrafting and Backpacking](https://c1.staticflickr.com/3/2855/9599002048_b8561d2abd_b.jpg)
+![Best tent for Packrafting and Backpacking](https://c1.staticflickr.com/3/2855/9599002048_b8561d2abd_b.jpg "Best Solo Tent for packrafting and backpacking")
 
 <!--more-->
 
