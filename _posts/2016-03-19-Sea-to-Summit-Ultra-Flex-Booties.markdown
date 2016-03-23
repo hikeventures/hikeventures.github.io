@@ -8,7 +8,7 @@ categories: gear
 description: A review on the Sea to Summit Ultra Flex Booties for packrafting or Kayaking
 keywords: packrafting, gear review, Sea to Summit, paddling, kayaking, outdoors, Ultra Flex Booties
 ---
-For our packrafting trips we are more or less always wearing our dry suites which we combine with latex socks. As you probably can imagine just wearing latex socks would be quite chilly to paddle with especially during the colder months. So how do we keep our feet warm? It's all about layering and the Sea to Summit Ultra Flex Booties as an outer shell might help as well. The booties are probably also a good choice for those who are into Kayaking.
+For our packrafting trips we are more or less always wearing our dry suites which we combine with latex socks. As you probably can imagine just wearing latex socks would be quite chilly to paddle with especially during the colder months. So how do we keep our feet warm? It's all about layering and the Sea to Summit Ultra Flex Booties as an outer shell might help as well. The booties are probably also a good choice for those who are into Kayaking or Stand up paddling.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25841666865/in/dateposted-public/" title="Sea to Summit Ultra Flex Booties"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><img src="https://farm2.staticflickr.com/1624/25841666865_141d7f355a_b.jpg" width="1024" height="681" alt="Sea to Summit Ultra Flex Booties"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -20,5 +20,7 @@ The Sea to Summit Ultra Flex Booties also help to protect your feet when walking
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25275264374/in/datetaken-public/" title="Packrafting the River Dee"><img src="https://farm2.staticflickr.com/1577/25275264374_c4ee457d72_b.jpg" width="1024" height="768" alt="Packrafting the River Dee"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Another advantage of the Sea to Summit Ultra Flex Booties is that they are also less pricey than the Teva Sandals. As the Sea to Summit booties do also completely enclose your feet you will probably have less chances to loose your shoes while walking in the river as velcro tape alone may not be a safe choice to keep your sandals or shoes attached especially if it gets dirty.
+Another advantage of the Sea to Summit Ultra Flex Booties is that they are also less pricey than the Teva Sandals. As the Sea to Summit booties do also completely enclose your feet you will probably have less chances to loose your shoes while walking in the river as velcro tape alone may not be a safe choice to keep your sandals or shoes attached especially if velcro gets dirty.
+
+We will continue testing the Sea to Summit Ultra Flex Booties this year to see if they are also durable. To be continued ...
 
