@@ -19,3 +19,6 @@ We usually combine the latex socks with several merino socks layers (2-3) under 
 The Sea to Summit Ultra Flex Booties also help to protect your feet when walking in the river. We also found them more packagble then our Teva Sandals which we used before. An advantage of the Teva Sandals is however, that they do not soak water like neoprene.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25275264374/in/datetaken-public/" title="Packrafting the River Dee"><img src="https://farm2.staticflickr.com/1577/25275264374_c4ee457d72_b.jpg" width="1024" height="768" alt="Packrafting the River Dee"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Another advantage of the Sea to Summit Ultra Flex Booties is that they are also less pricey than the Teva Sandals. As the Sea to Summit booties do also completely enclose your feet you will probably have less chances to loose your shoes while walking in the river as velcro tape alone may not be a safe choice to keep your sandals or shoes attached especially if it gets dirty.
+
