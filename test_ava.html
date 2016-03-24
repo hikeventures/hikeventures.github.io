@@ -20,14 +20,12 @@
 	<div id="test">
 
 <script>
-document.write(5 + 6);
-</script>
-
-
-<script>
 window.onload = function()
 {
-JSON.stringify(productArray);
+        out += productArray[0][1].strProductName;
+      
+    
+    document.getElementById("test").innerHTML = out;
 //document.write = JSON.stringify(productArray);
 //JSON.stringify(productArray[0][0]);
 //alert("productArray[0][0].strProductName = "+productArray[0][0].strProductName);
