@@ -16,15 +16,14 @@
 	productArray[0][2] = 3rd item = Arcteryx<br>
 	<br>
 	To call the properties, just use OOP class names:<br>
-	<div id="av_search_results">
+	
 	<div id="test">
 
 <script>
 window.onload = function()
 {
-     var out += productArray[0][1].strProductName;
-      
-    
+	//<div id="av_search_results">
+     var out = productArray[0][1].strProductName;
     document.getElementById("test").innerHTML = out;
 //document.write = JSON.stringify(productArray);
 //JSON.stringify(productArray[0][0]);
