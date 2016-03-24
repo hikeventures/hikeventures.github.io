@@ -81,6 +81,7 @@
 	+ '&merchant_ids=10060' 
 	+ '&output=json'  // request json data type
 	+ '&search_results_count=6' 
+	+ '&search_results_options=noheader'
 	+ '&search_results_layout=list' 
 	+ '&search_results_fields=Thumbnail+Image|Product+Name|Merchant+Name|Retail+Price' 
 	+ '&search_term=jacket';
