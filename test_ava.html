@@ -20,8 +20,10 @@
 	
 
 		<div id="av_search_results"></div>
-
+<p id="demo"></p>
 <script>
+document.getElementById("demo").innerHTML = JSON.stringify(productArray);
+
 
 //alert("productArray[0][0].strProductName = "+productArray[0][0].strProductName);
 //alert("productArray[0][0].dblProductPrice = "+productArray[0][0].dblProductPrice);
