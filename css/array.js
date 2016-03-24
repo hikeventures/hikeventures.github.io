@@ -10,6 +10,7 @@
 	+ '&website_id=150351' 
 	+ '&merchant_ids=10060' 
 	+ '&output=html' 
+	+ '&search_results_options=noheader'
 	+ '&search_results_count=6' 
 	+ '&search_results_layout=list' 
 	+ '&search_results_fields=Thumbnail+Image|Product+Name|Merchant+Name|Retail+Price' 
