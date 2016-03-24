@@ -1,46 +1,29 @@
-
 <html>
+
+<head>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+	<script type="text/javascript" src="test.js"></script>
+</head>
+
 <body>
-<script src="http://www.hikeventures.com/css/array.js"></script> 
+	<div id="topgun" style="font-size:1.2em;">
+	Please note: The array is dual-indexed due to the nature of the JSON we return.<br>
+	It will always begin with productArray[0][n] where n is the number of the item.<br>
+	Also, it is 0-indexed, meaning 0 is the first item, 1 is the second, etc.<br>
+	Examples:<br>
+	productArray[0][0] = 1st item = Patagonia Classic jacket<br>
+	productArray[0][1] = 2nd item = North Face<br>
+	productArray[0][2] = 3rd item = Arcteryx<br>
+	<br>
+	To call the properties, just use OOP class names:<br>
+	productArray[0][0].strProductName<br>
+	productArray[0][0].dblProductPrice<br>
+	<br>
+	</div>
 
-productArray[0][0] = 1st item = Patagonia Classic jacket
-productArray[0][1] = 2nd item = North Face
-productArray[0][2] = 3rd item = Arcteryx
+	<div id="av_search_results">
+	</div>
+</body>
 
-
-
-// Housekeeping - defining vars to ensure not undefined
-var productArray = new Array();
-var parseOnAblyResponse;
-
-//This actually returns and displays the HTML portion
-$(avShowSearchResults).html(JSON.stringify(avShowSearchResults));
-
-//Call the JSON function, which will build the array
-jsonAlexander();
-
-//Popup 4 Alerts as example
-alert("productArray[0][0].strProductName = "+productArray[0][0].strProductName);
-alert("productArray[0][0].dblProductPrice = "+productArray[0][0].dblProductPrice);
-alert("productArray[0][1].strProductName = "+productArray[0][0].strProductName);
-alert("productArray[0][1].dblProductPrice = "+productArray[0][0].dblProductPrice);
-
-
-productArray[1][0].strProductName
-productArray[1][0].dblProductPrice
-
-
-// ------------------------
-
-
-
-<div id="avShowSearchResults" style="border: 0px;"></div>
-
-
-// -------------------------
-
-
-
-
-</body>  
 </html>
+
