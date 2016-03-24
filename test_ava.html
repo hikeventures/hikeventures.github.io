@@ -17,13 +17,20 @@
 	<br>
 	To call the properties, just use OOP class names:<br>
 	<div id="av_search_results">
-	
+	<div id="test">
 
 	
 <script>
 window.onload = function()
 {
-document.write = JSON.stringify(productArray);
+var new='';
+for(var i = 0; i < responseObject.events.length; i++)
+{
+new += 	productArray[0][i];
+}
+document.getElementById('test').inner.HTML = new;
+
+//document.write = JSON.stringify(productArray);
 //JSON.stringify(productArray[0][0]);
 //alert("productArray[0][0].strProductName = "+productArray[0][0].strProductName);
 //alert("productArray[0][0].dblProductPrice = "+productArray[0][0].dblProductPrice);
