@@ -19,16 +19,18 @@
 
 	
 <div id="av_search_results"></div>
-	<p id="demo"></p>
+
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = 5 + 6;
+</script>
 
 <script>
 $content = productArray[0][0].strProductName;
 
 
-document.write(productArray[0][0].strProductName);
-document.write($content);
-document.write("test");
-document.getElementById("demo").innerHTML = 5+6;
 //alert("productArray[0][0].strProductName = "+productArray[0][0].strProductName);
 //alert("productArray[0][0].dblProductPrice = "+productArray[0][0].dblProductPrice);
 //alert("productArray[0][1].strProductName = "+productArray[0][0].strProductName);
