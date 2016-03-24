@@ -146,7 +146,7 @@ var parseOnAblyResponse;
 //Call the JSON function, which will build the array
 jsonAlexander();
 
-$(avShowSearchResults).html(productArray[0][1].strProductName);
+$(avShowSearchResults).html(productArray[0][2].strProductName);
 
 //Popup 4 Alerts as example
 //alert("productArray[0][0].strProductName = "+productArray[0][0].strProductName);
