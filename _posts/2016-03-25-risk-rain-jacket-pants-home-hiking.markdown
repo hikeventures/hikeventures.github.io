@@ -20,6 +20,6 @@ Personally, I go hiking because I want to enjoy the nature and not to proof that
 
 The philosophy of ultralight hiking is that you feel more comfortable on your hike when you carry less. However, leaving essential items like a rain jacket at home may cause discomfort as well when it starts raining.
 
-I believe that the ultralight principle should only be applied On gear to cut weight on essentials but only in a way that your gear is still functional.
+I believe that the ultralight principle should only be applied on gear to cut weight on essentials but only in a way that your gear is still functional.
 
 So should you take your rain jacket and pants on your next hiking trip. I would say: "Yes, definitely if you want to enjoy your time outdoors as much as possible and stay healthy".
