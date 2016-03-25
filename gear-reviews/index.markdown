@@ -124,9 +124,9 @@ published: true
           </tr>
         <tr>
 
-
+<td><a href="http://www.hikeventures.com/Sea-to-Summit-Ultra-Flex-Booties/">Sea to Summit Ultra Flex Booties</a></td>
          <td><a href="/gear-preview-werner-shuna-paddles">Werner Shuna Paddles</a></td>
-        <td><a href="http://hikeventures.com/windpaddle-sails-for-packrafting">WindPaddle Sail</a></td><td></td></tr>
+        <td><a href="http://hikeventures.com/windpaddle-sails-for-packrafting">WindPaddle Sail</a></td></tr>
 
         
         
