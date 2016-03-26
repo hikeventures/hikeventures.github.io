@@ -18,7 +18,7 @@ We usually combine the latex socks with several merino socks layers (2-3) under 
    
 ![Sea to Summit Ultra Flex Booties](https://farm2.staticflickr.com/1455/25746566141_e38526eca2_b.jpg "Sea to Summit Ultra Flex Booties")
    
-The Sea to Summit Ultra Flex Booties also help to protect your feet when walking in the river. We also found them more packagble then our Teva Sandals which we used before. An advantage of the Teva Sandals is however, that they do not soak water like neoprene.
+The Sea to Summit Ultra Flex Booties also help to protect your feet when walking in the river. We also found them more packable then our Teva Sandals which we used before. An advantage of the Teva Sandals is however, that they do not soak water like neoprene.
    
 ![Sea to Summit Ultra Flex Booties](https://farm2.staticflickr.com/1577/25275264374_c4ee457d72_b.jpg "Sea to Summit Ultra Flex Booties")
    
