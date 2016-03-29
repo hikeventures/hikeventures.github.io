@@ -221,7 +221,7 @@ div.demo span {
 
 .navbar-default {
     background-color:#FFFFFF !important;
-    color:#000000 !important;
+    
 
 }
 
@@ -232,6 +232,8 @@ ul#menu li {
     padding-left: 1em !important;
     list-style-type: none !important;
     list-style:none !important;
+    color:#000000 !important;
+    
 
 }
 
@@ -290,6 +292,7 @@ input {
     display: inline-block;
     float: none;
     color:#000000;
+    color:#000000 !important;
 }
 
 .navbar .navbar-collapse {
