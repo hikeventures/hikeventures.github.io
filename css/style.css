@@ -300,6 +300,6 @@ input {
   
 }
 .navbar-default {
-    border-color: white;
-    border:0;
+    border-color: white !important;
+    border:0 !important;
 }
