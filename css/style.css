@@ -288,6 +288,7 @@ input {
 .navbar .navbar-nav {
     display: inline-block;
     float: none;
+    font:#000000;
 }
 
 .navbar .navbar-collapse {
