@@ -26,4 +26,4 @@ Another advantage of the Sea to Summit Ultra Flex Booties is that they are also 
    
 <a  href="http://www.amazon.com/gp/product/B00W5P5404/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00W5P5404&linkCode=as2&tag=hikeve-20&linkId=WBSYBWOOPNXIOCOP"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00W5P5404&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00W5P5404" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
    
-We will continue testing the Sea to Summit Ultra Flex Booties this year to see if they are also durable.
+We will continue testing the Sea to Summit Ultra Flex Booties this year to see how durable they are.
