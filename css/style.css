@@ -297,5 +297,10 @@ input {
 
 .navbar .navbar-collapse {
     text-align: center;
-    box-shadow:rgba(255, 255, 255, 0.0980392) 0 5px 0 inset !important;
+  
+}
+
+.navbar {
+     
+  border: 0;
 }
