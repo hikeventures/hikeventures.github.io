@@ -223,5 +223,4 @@ published: true
       </table>
 
 </div>
-<center><script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
-</center>
+
