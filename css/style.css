@@ -31,8 +31,9 @@ background:#FF8000;
 .logo {
   position: absolute;
   z-index: 1;
-  left: 5px;
+  
   top: 5px;
+  align: right;
 }
 
 
