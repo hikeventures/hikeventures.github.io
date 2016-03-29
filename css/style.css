@@ -305,3 +305,8 @@ input {
 }
 
 .navbar-nav a { font-weight: 400 !important; font-size: 25px !important; }
+
+.site-footer {
+  border-top-width:0px !important;
+  padding: 10px 0 !important;
+}
