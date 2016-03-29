@@ -15,7 +15,7 @@ background:#FF8000;
 .headline {
   position: relative;
   z-index: 1;
-  left: 0px;
+  left: 200px;
   top: 0px;
 
   text-decoration: none;
