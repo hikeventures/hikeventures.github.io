@@ -7,6 +7,8 @@ comments: false
 sharing: false
 footer: false
 ---
+<img class="logo" class="img-responsive" src="https://farm6.staticflickr.com/5600/15282435948_a86a69c802_t.jpg" width="86" height="100" alt="hikeventures">
+
 Since 2012 you can read on HikeVentures about our hiking and packrafting adventures. Beside our trip reports you can also read about outdoor gear and photography. While you can find more detailed articles on our blog you can also
 follow us on <a href="https://www.facebook.com/HikeVentures" rel="nofollow" target="_blank" title="Follow us on Facebook">Facebook</a>, <a href="https://twitter.com/hikeventures" rel="nofollow" target="_blank" title="Follow us on Twitter">Twitter</a> and <a href="https://instagram.com/hikeventures/">Instagram</a> to get more recent updates which we don't necessarily share on our blog.
 
