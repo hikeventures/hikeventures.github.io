@@ -65,7 +65,7 @@ published: true
                <div class="headline"> <h4><span class="label" style="background:#FF8000"><a href="http://www.hikeventures.com/archive/"><font style="color:#FFFFFF">Latest Blogs</font></a></span></h4>
                </div>
 
-                                            {% for post in site.posts limit:10 %}
+                                            {% for post in site.posts limit:8 %}
                                             <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a><hr>{% endfor %}
 
 
