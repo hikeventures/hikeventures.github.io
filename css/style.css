@@ -299,4 +299,6 @@ input {
     text-align: center;
   
 }
-
+.navbar-default {
+    border-color: white;
+}
