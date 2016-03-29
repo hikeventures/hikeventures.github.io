@@ -282,3 +282,13 @@ input {
     background: rgba(255,255,255,0.5) !important;
     margin: 0 0 5px 0 !important;
 }
+
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
