@@ -300,7 +300,5 @@ input {
   
 }
 
-.navbar {
-     
-  border: 0;
+.navbar-inner, .navbar .btn-navbar {border:5;
 }
