@@ -301,4 +301,5 @@ input {
 }
 .navbar-default {
     border-color: white;
+    border:0;
 }
