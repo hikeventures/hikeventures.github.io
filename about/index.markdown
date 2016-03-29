@@ -20,7 +20,7 @@ follow us on <a href="https://www.facebook.com/HikeVentures" rel="nofollow" targ
 
 ## Gear Testing & Photography
 Occasionally, we are writing test reviews for outdoor companies. Feel free to <a href="#contact">contact us</a> if you want us to test one of your products on our trips. <a href="http://www.hikeventures.com/Thule-Chasm-XL-Duffle-Bag/">Here</a> is an example of a more detailed review which we wrote for a company. <br><br>
-<img src="https://farm6.staticflickr.com/5683/21885051180_963c46af51_b.jpg" width="1000" height="363" alt="Packrafting in Abisko, Sweden">. 
+<img src="https://farm6.staticflickr.com/5683/21885051180_963c46af51_b.jpg" width="1000" height="363" alt="Packrafting in Abisko, Sweden">
 
 <hr>
 
