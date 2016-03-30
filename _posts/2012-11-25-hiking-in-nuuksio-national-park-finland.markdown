@@ -6,7 +6,6 @@ published: true
 categories: destinations
 description: The National Park nearby the capital of Finland
 keywords: Hiking, Nuuksio, National Park, finland, outdoors
-featured_image: https://farm9.staticflickr.com/8340/8198203106_c0d6968dc9_b.jpg
 ---
 The Nuuksio National Park is located close to Helsinki (1 hour bus trip - 85A from Espoo Centre) and a popular place for people living in Helsinki to get away from the busy city life and enjoy the outdoors and go hiking, camping, packrafing or kayaking. You will find gorges formed by the last ice age, valleys, 43 lakes and hills which are up to 110 meters.
 
@@ -16,14 +15,14 @@ The Nuuksio National Park is located close to Helsinki (1 hour bus trip - 85A fr
 ## Activities
 Nuuksio National Park is ideal for hiking, cycling or horse riding. The trails are marked and there are also refuges and fire places. You can also go skiing, swimming, packrafting or stroll through the park to pick mushrooms and berries.
 
-<a href="https://www.flickr.com/photos/90204224@N07/8198226224" title="Mushrooms at Nuuksio National Park in Finland by HikeVentures, on Flickr"><img src="https://farm9.staticflickr.com/8481/8198226224_58c1a7f57d_b.jpg" width="1024" height="683" alt="Mushrooms at Nuuksio National Park in Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/8198226224" title="Mushrooms at Nuuksio National Park in Finland"><img src="https://farm9.staticflickr.com/8481/8198226224_58c1a7f57d_b.jpg" width="1024" height="683" alt="Mushrooms at Nuuksio National Park in Finland"></a>
 
-<a href="https://www.flickr.com/photos/90204224@N07/8198186842" title="Mushrooms at Nuuksio National Park in Finland Mushrooms by HikeVentures, on Flickr"><img src="https://farm9.staticflickr.com/8345/8198186842_f586d5ddab_b.jpg" width="1024" height="683" alt="Mushrooms at Nuuksio National Park in Finland Mushrooms"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/8198186842" title="Mushrooms at Nuuksio National Park in Finland Mushrooms"><img src="https://farm9.staticflickr.com/8345/8198186842_f586d5ddab_b.jpg" width="1024" height="683" alt="Mushrooms at Nuuksio National Park in Finland Mushrooms"></a>
 
 ## Hiking
 I went to Nuuksio several times hiking. Once, it was end of December and we had +5C in Southern Finland which is quite unusual for this time of the year. However, this was a good opportunity to test my new <a href="http://hikeventures.com/arcteryx-tecto-fl-jacket/" target="_self">jacket</a>, visit the new <a href="http://www.haltia.com" target="_blank">Finnish Nature Center Haltia</a> and to have a short hike from Haltia to Haukkalampi and back (10 km).
 
-<a href="https://www.flickr.com/photos/90204224@N07/8197076629" title="Nuuksio National Park in Finland by HikeVentures, on Flickr"><img src="https://farm9.staticflickr.com/8481/8197076629_4edaa43f65_b.jpg" width="1024" height="683" alt="Nuuksio National Park in Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/8197076629" title="Nuuksio National Park in Finland"><img src="https://farm9.staticflickr.com/8481/8197076629_4edaa43f65_b.jpg" width="1024" height="683" alt="Nuuksio National Park in Finland"></a>
 
 The most popular trails are:
 
@@ -35,11 +34,11 @@ The most popular trails are:
 
 Haukkalampi is the most common starting point for a hike in Nuuksio. During the warmer months it can be quite crowded here as hiking is quite popular in Finland.
 
-<a href="https://www.flickr.com/photos/90204224@N07/11607144225" title="Nuuksio by HikeVentures, on Flickr"><img src="https://farm8.staticflickr.com/7417/11607144225_9c9a01b17b_b.jpg" width="1024" height="683" alt="Nuuksio"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/11607144225" title="Nuuksio"><img src="https://farm8.staticflickr.com/7417/11607144225_9c9a01b17b_b.jpg" width="1024" height="683" alt="Nuuksio"></a>
 
 Looks like traces of termites.
 
-<a href="https://www.flickr.com/photos/90204224@N07/11607384113" title="Nuuksio National Park Finland Haltia by HikeVentures, on Flickr"><img src="https://farm8.staticflickr.com/7362/11607384113_38eeb38c8f_b.jpg" width="1024" height="683" alt="Nuuksio National Park Finland Haltia"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/11607384113" title="Nuuksio National Park Finland Haltia"><img src="https://farm8.staticflickr.com/7362/11607384113_38eeb38c8f_b.jpg" width="1024" height="683" alt="Nuuksio National Park Finland Haltia"></a>
 
 Finnish Nature Center Haltia has been opened recently where you can explore different aspects of the nature in Finland.
 
