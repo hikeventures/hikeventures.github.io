@@ -7,7 +7,6 @@ published: true
 categories: destinations
 description: Packrafting in the Swedish Mountains
 keywords: Packraft, Packrafting, Sweden, Njuoreatnu, Tornetrask
-featured_image: https://farm1.staticflickr.com/668/23038401724_c44ed21b04_b.jpg
 ---
 We fell asleep almost instantly the night before in our tent which we pitched on an island in the lake Inngajávri after having [packrafted][1] till late in the night. Patrick only had a few issues with his sleeping pad - the Therm-a-Rest Evolite which is a self-inflating sleeping pad for the summer - which was probably not that suitable for lower night temperatures here in the North. Patrick had to wear an additional Merino base layer and added another layer of thermo foil on top of his sleeping pad to get a proper insulation. Konstantin however had a proper night sleep on his Therm-a-Rest NeoAir Xtherm. 
 
