@@ -11,7 +11,7 @@ Since 2012 you can read on HikeVentures about our hiking and packrafting adventu
 
 ## Followers on Social Media
 
-| [Instagram](https://instagram.com/hikeventures/)        | [Twitter](https://twitter.com/hikeventures)           | [Facebook]https://www.facebook.com/HikeVentures()  |
+| [Instagram](https://instagram.com/hikeventures/)        | [Twitter](https://twitter.com/hikeventures)           | [Facebook](https://www.facebook.com/HikeVentures)  |
 | :-------------: |:-------------:| :-----:|
 | 2000      | 1900 | 1300 |
 
