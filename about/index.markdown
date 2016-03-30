@@ -11,9 +11,20 @@ Since 2012 you can read on HikeVentures about our hiking and packrafting adventu
 
 ## Followers on Social Media
 
-| [Instagram](https://instagram.com/hikeventures/)        | [Twitter](https://twitter.com/hikeventures)           | [Facebook](https://www.facebook.com/HikeVentures)  |
-| :-------------: |:-------------:| :-----:|
-| 2000      | 1900 | 1300 |
+<div class="table-responsive">
+  <table class="table">
+      <tr>
+    <td width="33%">[Instagram](https://instagram.com/hikeventures/)   </td>
+    <td width="33%">[Twitter](https://twitter.com/hikeventures)  </td>
+    <td width="33%">[Facebook](https://www.facebook.com/HikeVentures)</td>
+    </tr>
+    <tr>
+    <td>2000</td>
+    <td>1900</td>
+    <td>1300</td>
+    </tr>
+  </table>
+</div>
 
 ## HikeVenturers
 <a href="https://www.facebook.com/profile.php?id=100009207710788">Patrick</a> was born 1978 in South Germany nearby the Alps where he was hiking and skiing extensively especially in Vorarlberg (Austria). Having parents from Iran and Austria travelling was always part of Patrick's life. Patrick moved to Finland in 2006 and currently lives on an island in the Archipelago Sea on the South West Coast of Finland which is a great place for exploring some of the 6500 islands by packraft, kayak, bicycle or foot. Patrick has also lived several months in Australia where he was diving with sharks and explored the blue mountains. Moreover, he has also worked in the Swiss mountains (Davos) for several months which was a perfect place for snowboarding and skiing adventures in powder snow. Having relatives in Canada, Patrick also visited Banff National Park, traveled to China, Thailand, Romania, the Arab Emirates and India.<br><br>
