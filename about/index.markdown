@@ -12,7 +12,7 @@ Since 2012 you can read on HikeVentures about our hiking and packrafting adventu
   
 ## Followers on Social Media
 <div class="table-responsive">
-  <table class="table">
+  <table class="table" border="0">
       <tr>
     <td width="33%"><a href="https://instagram.com/hikeventures/">Instagram</a> </td>
     <td width="33%"><a href="https://twitter.com/hikeventures">Twitter</a>  </td>
