@@ -8,9 +8,9 @@ sharing: false
 footer: false
 ---
 Since 2012 you can read on HikeVentures about our hiking and packrafting adventures mainly in Europe but also in more distant places like Japan or Russia. Beside our trip reports you can also read about outdoor gear and photography. 
-
+  
+  
 ## Followers on Social Media
-
 <div class="table-responsive">
   <table class="table">
       <tr>
