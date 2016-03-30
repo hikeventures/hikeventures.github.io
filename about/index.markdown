@@ -38,8 +38,8 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 We can visit your destination and write a trip report for you. Are you looking for fresh content ideas? We can bring our packrafts and promote your country off the beaten track as well. We will also share our content on our social media channels. Just  <a href="#contact">contact us</a> us if you have any questions.
 
 <hr>
-## Gear Testing & Photography
-On our blog we are reviewing outdoor gear which we receive from well known outdoor brands. Feel free to <a href="#contact">contact us</a> if you want us to test one of your products on our trips. <a href="http://www.hikeventures.com/Thule-Chasm-XL-Duffle-Bag/">Here</a> is an example of a more detailed review which we wrote for a company. Please note that we will express our own opinion on your products.<br><br>
+## Gear Testing
+On our blog we are reviewing outdoor gear which we receive from well known outdoor brands. <a href="http://www.hikeventures.com/Thule-Chasm-XL-Duffle-Bag/">Here</a> is an example of a more detailed review which we wrote for a company. Feel free to <a href="#contact">contact us</a> if you want us to test one of your products on our trips. Please note that we will express our own opinion on your products in our reviews.<br><br>
 <img src="https://farm6.staticflickr.com/5683/21885051180_963c46af51_b.jpg" width="1000" height="363" alt="Packrafting in Abisko, Sweden">
 
 <hr>
