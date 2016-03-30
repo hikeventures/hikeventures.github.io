@@ -9,6 +9,8 @@ footer: false
 ---
 HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoeing, cycling and urban microadventures. We <a href="http://www.hikeventures.com/destinations/">adventure</a> mainly in Europe but sometimes we also visit places like Japan or Russia. HikeVentures was established in 2012.
   
+     
+     
 ## Followers on Social Media
 <div class="table-responsive">
   <table class="table">
