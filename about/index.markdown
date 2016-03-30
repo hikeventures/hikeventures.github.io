@@ -14,9 +14,9 @@ Since 2012 you can read on HikeVentures about our hiking and packrafting adventu
 <div class="table-responsive">
   <table class="table">
       <tr>
-    <td width="33%">[Instagram](https://instagram.com/hikeventures/)   </td>
-    <td width="33%">[Twitter](https://twitter.com/hikeventures)  </td>
-    <td width="33%">[Facebook](https://www.facebook.com/HikeVentures)</td>
+    <td width="33%"><a href="https://instagram.com/hikeventures/">Instagram</a> </td>
+    <td width="33%"><a href="https://twitter.com/hikeventures">Twitter</a>  </td>
+    <td width="33%"><a href="https://www.facebook.com/HikeVentures">Facebook</a></td>
     </tr>
     <tr>
     <td>2000</td>
