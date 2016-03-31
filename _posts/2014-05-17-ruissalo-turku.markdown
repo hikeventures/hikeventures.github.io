@@ -66,6 +66,6 @@ The biggest cruise ships have been built here<br><br><a href="https://www.flickr
 <br>
 Seems that even elks like Ruissalo.<br><br><a href="https://www.flickr.com/photos/90204224@N07/14019972020"><img src="https://farm3.staticflickr.com/2915/14019972020_79be382be4_b.jpg" width="1024" height="683"></a>
 <br>
-Golfing is possible on Ruissalo as well.
+Golfing is possible in Ruissalo as well.
 <br><br>
 Ruissalo is a nice island very close to the city of Turku. There are also plenty of events throughout the year and it's also great for outdoors activities like going jogging along the shore of the island.
