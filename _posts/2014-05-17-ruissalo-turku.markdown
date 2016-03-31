@@ -6,8 +6,6 @@ comments: true
 categories: ['destinations']
 description: A day adventure on Ruissalo in Turku. Birds, Ferries and history.
 keywords: Turku, Finland, Ruissalo, Sightseeing, Microadventure
-twitter_card:
-    image: https://farm3.staticflickr.com/2911/14182682836_e4853616d2_c.jpg
 ---
 Today, I went on a day trip to Ruissalo. Ruissalo is the recreational island of Turku. It was involved in the Crimean war between the Swedish and Russians and nowadays it's a paradise for bird watchers, golfers and joggers. Since the island is quite big, I grabbed my bicycle and set off.<br><br>
 
@@ -59,7 +57,7 @@ One of my favourite motives in the Nordics - a window on a wooden house.
 <br>
 <a href="https://www.flickr.com/photos/90204224@N07/14019859079"><img src="https://farm3.staticflickr.com/2931/14019859079_257e78c315_b.jpg" width="1024" height="683"></a>
 <br>
-Shipyard in Turku<br><br>
+The Meyer-Turku Werf is visible from Ruissalo.<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/14183394936"><img src="https://farm6.staticflickr.com/5199/14183394936_72874795fd_b.jpg" width="1024" height="683"></a>
 <br>
 The biggest cruise ships have been built here<br><br><a href="https://www.flickr.com/photos/90204224@N07/14206560925"><img src="https://farm6.staticflickr.com/5199/14206560925_787e02287a_b.jpg" width="1024" height="683"></a>
