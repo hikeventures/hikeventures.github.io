@@ -129,7 +129,8 @@
 			
 		//	var arr = JSON.parse(response);
     			var i;
-			var out = "<table>";
+			var out = "<div class="table-responsive">
+  <table class="table">";
 
     			for(i = 0; i < 5; i++) {
         			out += "<tr><td>" +
@@ -142,7 +143,7 @@
 			        productArray[0][i].strMerchantName +
             			"</td></tr>";
     			}
-    			out += "</table>";
+    			out += "</table></div>";
 			
 			
  			document.getElementById("test").innerHTML = out;
