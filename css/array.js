@@ -131,7 +131,7 @@
     			var i;
 			var out = "<table>";
 
-    			for(i = 0; i < arr.length; i++) {
+    			//for(i = 0; i < arr.length; i++) {
         			out += "<tr><td>" +
         			productArray[0][0].strProductName +
         			"</td><td>" +
@@ -141,7 +141,7 @@
 			        "</td><td>" +
 			        productArray[0][0].strMerchantName +
             			"</td></tr>";
-    			}
+    			//}
     			out += "</table>";
 			
 			
