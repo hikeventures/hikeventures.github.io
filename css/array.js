@@ -133,13 +133,13 @@
 
     			for(i = 0; i < arr.length; i++) {
         			out += "<tr><td>" +
-        			productArray[0][i].strProductName +
+        			productArray[0][0].strProductName +
         			"</td><td>" +
-        			productArray[0][i].dblProductPrice +
+        			productArray[0][0].dblProductPrice +
         			"</td><td>" +
-			        productArray[0][i].strThumbnailImage +
+			        productArray[0][0].strThumbnailImage +
 			        "</td><td>" +
-			        productArray[0][i].strMerchantName +
+			        productArray[0][0].strMerchantName +
             			"</td></tr>";
     			}
     			out += "</table>";
