@@ -131,7 +131,7 @@
     			var i;
 			var out = "<table>";
 
-    			for(i = 0; i < 5; i++) {
+    			for(i = 0; i < 15; i++) {
         			out += "<tr><td>" +
         			productArray[0][i].strProductName +
         			"</td><td>" +
