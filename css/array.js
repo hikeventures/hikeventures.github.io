@@ -124,6 +124,7 @@
 		    if (xmlHttp.readyState==4) { 
 			var parseOnAblyResponse = JSON.parse(xmlHttp.responseText); //returns JSON as actual object
 			productArray.push(parseOnAblyResponse); // builds array
+			alert("productArray[0][0].strProductName = "+productArray[0][0].strProductName);
 		        return; 
 		    } 
 		} 
