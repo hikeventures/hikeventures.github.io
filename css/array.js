@@ -137,8 +137,8 @@
         			"</td><td>" +
         			productArray[0][i].dblProductPrice +
         			"</td><td>" +
-			        productArray[0][i].strThumbnailImage +
-			        "</td><td>" +
+			        //productArray[0][i].strThumbnailImage +
+			        //"</td><td>" +
 			        productArray[0][i].strMerchantName +
             			"</td></tr>";
     			}
