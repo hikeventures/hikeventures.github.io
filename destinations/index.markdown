@@ -78,7 +78,12 @@ footer: false
             <p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Helvetinjärvi</p>
         </div></div></a></div></div>
 
-
+         <div class="col-xs-6"><div class="hovereffect">
+            <a class="thumbnail" href="http://www.hikeventures.com/hiking-raisio-kullavuori/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
+        <img src="https://farm2.staticflickr.com/1540/26202782375_09b0fd2d38_k.jpg" alt="" class="img-responsive">
+        <div class="caption">
+            <p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Kullavuori</p>
+        </div></div></a></div></div>
 
 
 
