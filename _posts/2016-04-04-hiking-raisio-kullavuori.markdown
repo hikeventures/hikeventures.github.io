@@ -7,7 +7,6 @@ categories: destinations
 description: An outdoor adventure to Kullavuori in Raisio
 keywords: Hiking, Finland, trip report, outdoors
 ---
-## Hiking in Raisio - Kullavuori 
 Last weekend I went with <a href="http://caide.kuvat.fi/">Caj</a> to Raisio to visit the Kullavuori watch tower which is a short hike (around 2.5 km in one direction) from the nearby ABC Raisio gas station where we parked our cars. 
 
 The Kullavuori watch tower is approximately 71 m above sea level which is quite high compared to the rather flat area of the region. There are plenty of pine trees along the trail so it's quite easy to find wood for a camp fire. There is also a pet cemetary when you enter the trail in Raisio.
