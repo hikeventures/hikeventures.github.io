@@ -41,7 +41,7 @@ Kullavuori watch tower.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25598028314/in/datetaken-public/" title="Kullavuori Raisio Finland"><img src="https://farm2.staticflickr.com/1512/25598028314_54d6131c48_b.jpg" width="1024" height="221" alt="Kullavuori Raisio Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
    
-Panorama view from the Kullavuori watch tower.
+Panorama view from the Kullavuori watch tower. From the top of the watch tower we were able to see the Meyer Turku Werft as well as the Turku Cathedral.
    
 ## Conclusion
 Turku is a nice place to start exploring the Archipelago but there are also nice places nearby to explore on land like the Kullavuori or the [Kurjenrahka National Park](http://www.hikeventures.com/autumn-colors-around-lake-savojarvi/). There is also a trail which you can hike from Kullavuori to the Kurjenrahka National Park.
