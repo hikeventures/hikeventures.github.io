@@ -3,7 +3,6 @@ layout: post
 title: Hiking in Raisio - Kullavuori
 date: 2016-04-04 06:31
 comments: true
-published: true
 categories: destinations
 description: An outdoor adventure to Kullavuori in Raisio
 keywords: Hiking, Finland, trip report, outdoors
