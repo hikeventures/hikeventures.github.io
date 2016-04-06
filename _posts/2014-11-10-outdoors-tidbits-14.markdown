@@ -2,13 +2,10 @@
 layout: post
 title: "Outdoors Tidbits 14"
 date: 2014-11-11 20:02:51 +0200
-author: Patrick
 comments: true
-categories: tidbits
 description: The latest outdoor gear reviews, tips & tricks - Nr. 14 - #outdoorstidbits
-keywords: Tidbits, Hiking, Packrafting, Outdoors, Photography, Gear Reviews
-twitter_card:
-    image: https://farm9.staticflickr.com/8270/15581097668_e291c7f81f_c.jpg
+category: tidbits
+tags: [tidbits]
 ---
 We have upgraded our headlamps last week to the latest [Petzl Nao](http://bit.ly/1ztgxkb) headlamp. We are also working on new gear reviews and trip reports. So don't miss to visit our blog frequently or <a href="http://hikeventures.com/atom.xml">subscribe to our RSS feed</a> to stay up to date!<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/15581097668"><img src="https://c1.staticflickr.com/9/8270/15581097668_e4633233a6_b.jpg" width="1024" height="683" alt="Petzl Nao 2"></a><!--more--><br><br>
