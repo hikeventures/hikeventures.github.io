@@ -3,11 +3,9 @@ layout: post
 title: Suunto Ambit2 Black HR
 date: "2013-05-08 16:38"
 comments: true
-categories: Gear Reviews
 description: "GPS watch - Suunto Ambit2 Black HR"
-keywords: "Suunto Ambit2, Black, GPS, GPS watch, Hiking, Navigation, Sports Watch, Gear review"
-featured_image: "https://farm3.staticflickr.com/2866/9599014438_4f27c21c17_b.jpg"
-published: true
+category: reviews
+tags: [reviews, Suunto, GPS, watch]
 ---
 
 For those folks who would like to keep track on where they hiked, biked etc. should have a look on GPS watches like the Suunto Ambit2. Sure, you can also do this with an app on your phone but personally I found it more comfortable to have a watch on my wrist. Having had the Suunto Ambit before the Suunto Ambit 2 also adds altitude GPS functionality and "Find back" support.
