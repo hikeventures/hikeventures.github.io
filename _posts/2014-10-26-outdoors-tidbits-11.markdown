@@ -3,11 +3,9 @@ layout: post
 title: "Outdoors Tidbits 11"
 date: 2014-10-26 01:27:15 +0300
 comments: true
-categories: tidbits
 description: The latest outdoor gear reviews, tips & tricks - Nr. 11 - #outdoorstidbits
-keywords: Tidbits, Hiking, Packrafting, Outdoors, Photography, Gear Reviews
-twitter_card:
-    image: https://farm4.staticflickr.com/3954/15351663560_4e7f7cf632_o.jpg
+category: tidbits
+tags: [tidbits]
 ---
 We will review soon the [Petzl Nao 2](http://bit.ly/1ztgxkb) headlamp which comes with powerful 500 Lumen. The new Alpacka whitewater packraft got a name - Alpackalypse. Also a new stove has been released - The [MSR WindBoiler](http://bit.ly/1wsbZ97). MSR states on it's website that the stove should operate more efficient in windy conditions than other stoves. Sounds interesting ...
 <br><br><a href="https://www.flickr.com/photos/90204224@N07/15351663560"><img src="https://farm4.staticflickr.com/3954/15351663560_4e7f7cf632_o.jpg" width="640" height="640"></a><!--more-->
