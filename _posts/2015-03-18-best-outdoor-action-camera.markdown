@@ -3,12 +3,9 @@ layout: post
 title: "Best Outdoor Action Camera for 2016 - GoPro vs. Sony"
 date: "2015-08-18 07:28:01 +0300"
 comments: true
-categories: Articles
 description: "Which Action Camera? GoPro Hero 4 vs. Sony FDR-X1000V"
-keywords: "action, camera, 2016, Gear, Hiking, Climbing, Packrafting, GoPro Hero 4, Sony FDR-X1000V, 4K"
-twitter_card: 
-  image: "https://www.flickr.com/photos/90204224@N07/14989210509"
-published: true
+category: articles
+tags: [articles, best]
 ---
 
 
