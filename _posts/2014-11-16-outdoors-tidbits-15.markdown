@@ -3,12 +3,9 @@ layout: post
 title: "Outdoors Tidbits 15"
 date: 2014-11-16 23:23:05 +0200
 comments: true
-author: Patrick
-categories: tidbits
 description: The latest outdoor gear reviews, tips & tricks - Nr. 15 - #outdoorstidbits
-keywords: Tidbits, Hiking, Packrafting, Outdoors, Photography, Gear Reviews
-twitter_card:
-    image: https://farm9.staticflickr.com/8270/15581097668_e291c7f81f_c.jpg
+category: tidbits
+tags: [tidbits]
 ---
 We have some plans for December. Want to know what? Have a look on HikeVentures in the coming days :) <br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/15503267129"><img src="https://farm8.staticflickr.com/7461/15503267129_5d02055b22_h.jpg" width="1600" height="1068"></a><!--more--><br><br>
