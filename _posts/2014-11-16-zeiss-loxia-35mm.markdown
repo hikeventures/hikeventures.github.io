@@ -3,13 +3,10 @@ layout: post
 title: "Sony 35mm 2.8 or Zeiss Loxia 35mm 2.0?"
 date: "2014-11-16 17:40:41 +0200"
 comments: true
-author: Patrick
 published: true
-categories: Articles
 description: Evaluating if a Zeiss Loxia 35mm should be my new lens
-keywords: "Hiking, Sunset, Photography, finland, Zeiss, Loxia"
-twitter_card: null
-image: "https://farm9.staticflickr.com/8546/15182978924_06f8926249_h.jpg"
+category: articles
+tags: [articles, camera, photography, sony, zeiss, lens, blogging]
 ---
 
 Today, I grabbed my camera in the afternoon trying to capture some sunset pictures with my Sony A7r on the neighbouring island where I live. The last week has been cloudy and I really looked forward to get out for a walk and evaluating at the same time if I should get a new Zeiss Loxia 35mm 2.0 lens.
