@@ -3,12 +3,9 @@ layout: post
 title: "Hiking-Blog"
 date: 2013-12-03 16:13:49 +0200
 comments: true
-author: Patrick
-categories: ['Guest Posts']
 description: Introduction of the Hiking-Blog
-keywords: Hiking, blog
-twitter_card:
-    image: http://www.hiking-blog.de/wp-content/uploads/2013/11/logo1.gif
+category: interviews
+tags: [interviews]
 ---
 The Hiking Blog exists since 2010 and it is a hobby project of mine . The blog reflects my outdoor passion and for me it is a great way to share my hobby with people who are out in nature like me.<br><br>
 
