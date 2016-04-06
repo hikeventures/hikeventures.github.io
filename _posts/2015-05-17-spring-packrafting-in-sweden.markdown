@@ -3,10 +3,9 @@ layout: post
 title: "Spring Packrafting in Sweden"
 date: 2015-05-17 08:10:07 +0300
 comments: true
-categories: ['destinations']
 description: A video about a packrafting meeting in Sweden
-author: Patrick
-keywords: Tent, Tents, Gear, Camping, Outdoors, Hiking, Packrafting
+category: reviews
+tags: [destinations, packrafting, sweden]
 ---
 This spring Konstantin from HikeVentures teamed up with <a href="http://www.urbanpackrafter.com">Urbanpackrafter</a> and the <a href="http://deliveranceteam.outdrr.com">Deliverance Team</a> at the Nittälven river in the Kaljoxa Valley in Sweden for a packrafting weekend. Here is the video provided by <a href="http://www.urbanpackrafter.com">Urbanpackrafter</a>. If you are into packrafting and want to join us next time feel free to contact one of us.
 
