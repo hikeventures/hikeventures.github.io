@@ -3,12 +3,9 @@ layout: post
 title: Packrafting on the Grensmaas
 date: "2014-04-29 10:47:10 +0300"
 comments: false
-categories: destinations
 description: Packrafting on the border between the Netherlands and Belgium
-keywords: "Packrafting, Belgium, Netherlands, outdoors"
-twitter_card: 
-  image: "https://farm8.staticflickr.com/7083/14057043801_d08aa384ed_c.jpg"
-published: true
+category: destinations
+tags: [destinations, grensmaas, netherlands]
 ---
 
 Since a couple of weeks we were thinking of possibilities to go packrafting in the Netherlands but we were struggling to find a suitable place to due the low water levels. We then jumped 2 weeks ago into the train from Leeuwarden in the Netherlands and arrived in Maastricht 5 hours later in order to explore the border of the Netherlands and Belgium - the Grensmaas!<br><br>
