@@ -3,11 +3,9 @@ layout: post
 title: "Packrafting River Bóbr in Poland"
 date: 2015-07-14 22:12:07 +0300
 comments: true
-categories: ['destinations']
 description: Exploring River Bóbr with our packrafts
-keywords: Camping, Outdoors, Packrafting, Backpacking
-twitter_card:
-    image: https://farm4.staticflickr.com/3750/18948496954_b57ac5e3fd_o.jpg
+category: destinations
+tags: [destinations, packrafting, poland]
 ---
 After we had a 3 hours drive from Poznan to Jelenia Góra we finally reached our accommodation in the small village called Jagniąntków. The next day me, Konstantin and one of his Polish friends who lives permanently in Iceland and just returned from a 11 weeks trip throughout Europe set out with our Packrafts in the river Bóbr. <a href="http://www.hikeventures.com/hiking-packrafting-poland-video/">Here</a> is also a short video.
 
