@@ -3,13 +3,9 @@ layout: post
 title: HikingUpward
 date: "2014-02-17 19:04:47 +0200"
 comments: true
-author: HikingUpward
-categories: Guest Posts
 description: HikingUpward Blog Introduction
-keywords: "HikingUpward, blog"
-twitter_card: 
-  image: "http://farm8.staticflickr.com/7454/12593266784_e5afce5ecf_o.jpg"
-published: true
+category: interviews
+tags: [interviews]
 ---
 
 We are a group of avid hikers who enjoy spending time in the magnificent forests and parks of the mid-Atlantic states. Over the years, we have hiked many beautiful mountains and valleys, and founded <a href="http://www.hikingupward.com" target="_blank">www.HikingUpward.com</a> to share what we’ve learned, create a meeting place for people who like to hike, and encourage anyone with an interest to enjoy the outdoors.
