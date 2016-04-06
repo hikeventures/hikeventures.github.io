@@ -364,10 +364,10 @@ input {
 }
 
 .tag:hover {
-  background-color: crimson;
+  background-color: #FF8000;
   color: white;
 }
 
 .tag:hover::after {
-   border-left-color: crimson; 
+   border-left-color: #FF8000;
 }
