@@ -3,11 +3,9 @@ layout: post
 title: "Thule Atmos X3 Review - Brings the iPhone 6 outdoors"
 date: "2015-05-23 06:45:07 +0300"
 comments: true
-categories: gear
 description: Protect your iPhone on your adventures.
-keywords: "thule, atmos x3,iphone, case, Gear, Camping, Outdoors, Hiking, Packrafting, Backpacking"
-featured_image: "https://c4.staticflickr.com/8/7684/17801901680_2b6055e8d4_o.jpg"
-published: true
+category: reviews
+tags: [reviews, thule, phone]
 ---
 
 In the middle of January this year I got my new iPhone 6, put it in the Thule Atmos X3 case and has hardly taken it out of it again and here comes a short review. Thus paired, this happy couple has hardly ever left my side for the last four months – from the white emptiness of Finnish Lapland to the meandering rivers in the Belgian Ardennes they have showed me the way and helped me to document all my hiking and packrafting adventures. And here is why. 
