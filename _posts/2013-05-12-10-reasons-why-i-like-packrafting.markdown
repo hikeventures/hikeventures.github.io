@@ -3,12 +3,9 @@ layout: post
 title: "10 reasons why I like Packrafting"
 date: 2013-05-12 06:57
 comments: true
-author: Patrick
-categories: ['Articles']
 description: 10 reasons why I like Packrafting
-keywords: Packrafting, Reasons
-twitter_card:
-    http://farm8.staticflickr.com/7425/8729735329_78a6f1a644_c.jpg
+category: articles
+tags: [articles, packrafting]
 ---
 <a href="http://www.flickr.com/photos/90204224@N07/8729735329/" ><img src="http://farm8.staticflickr.com/7425/8729735329_78a6f1a644_c.jpg" width="1150" alt="Packrafting in Finland"></a>
 <ul>
