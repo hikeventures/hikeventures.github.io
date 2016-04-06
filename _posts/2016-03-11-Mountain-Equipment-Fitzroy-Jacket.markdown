@@ -3,7 +3,8 @@ layout: post
 title: Mountain Equipment Fitzroy Jacket Review
 date: 2016-03-11 19:06 +0300
 comments: true
-categories: destinations
+category: reviews
+tags: [reviews, mountainequipment, jackets]
 description: We were testing the Mountain Equipment Fitzroy Jacket on our packrafting trip in Scotland
 keywords: Hiking, packrafting, gear review, Mountain Equipment, Fitzroy, Jacket, outdoors
 ---
