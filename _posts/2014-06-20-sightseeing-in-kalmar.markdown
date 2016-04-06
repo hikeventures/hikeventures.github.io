@@ -5,7 +5,7 @@ date: 2014-06-20 13:46:18 +0300
 comments: true
 description: Exploring the city of Kalmar in Sweden
 category: destinations
-tags: [destinations, kalmar, sweden]
+tags: [destinations, kalmar, sweden, castles]
 ---
 Kalmar is an old town on the southeastern shore of Sweden and worth for a sightseeing trip. Kalmar is the city where the <a href="http://en.wikipedia.org/wiki/Kalmar_Union" target="_blank">Kalmar Union</a> was founded, which unified the Scandinavian nations from 1397 till 1534 in order to counter the <a href="http://en.wikipedia.org/wiki/Hanseatic_League" target="_blank">Hanseatic League</a>. The Kalmar Union was founded by <a href="http://en.wikipedia.org/wiki/Margaret_I_of_Denmark" target="_blank">Queen Margareta.
 <br><br>
