@@ -3,9 +3,9 @@ layout: post
 title: Packrafting the Alta River in Norway
 date: 2015-09-28 014:20:07 +0300
 comments: true
-categories: destinations
 description: Our packrafting adventure in Norway
-keywords: Packrafting, Gathering, Finland, Camping, Outdoors, Hiking, Packrafting, Backpacking
+category: destinations
+tags: [destinations, packrafting, norway, alta]
 ---
 After the <a href="http://www.hikeventures.com/Second-Finnish-Packrafting-Gathering-Finland-Helvetinjarvi/">packrafting weekend</a> in Finland, I got a chance to spend three days and two nights in the far north of Norway, paddling through one of the best salmon rivers going through one of the biggest canyons this part of the world.
 <br><br>
