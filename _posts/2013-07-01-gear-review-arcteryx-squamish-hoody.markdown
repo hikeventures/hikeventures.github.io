@@ -3,11 +3,9 @@ layout: post
 title: Arcteryx Squamish Hoody
 date: "2013-07-01 20:03"
 comments: true
-categories: Gear Reviews
 description: Probably the best wind jacket for your next adventure Arcteryx Squamish Hoody
-keywords: "Arcteryx, Squamish Hoody, gear review"
-twitter_card: "https://farm8.staticflickr.com/7362/9185822642_76ec520b9c_b.jpg"
-published: true
+category: reviews
+tags: [reviews, arcteryx, jackets]
 ---
 
 Since I am planning to go to Sarek this autumn, I was looking for a wind jacket which I could take along with me beside a rain jacket and which would also be suitable to wear in the the mountains i.e. light and breathable. After reviewing several jackets, I went with the Arcteryx Squamish Hoody which I have used now extensively on all my hiking, backpacking and other backcountry trips and here comes a short review. 
