@@ -2,11 +2,10 @@
 layout: post
 title: 5 best places in Scandinavia to go hiking, backpacking or packrafting
 date: 2016-01-07 06:29:01 +0300
-categories: articles
 published: true
 description: The best outdoor places we have visited in Scandinavia.
-keywords: Hiking, Packrafting, Outdoors, Backpacking, Scandinavia
-featured_image: https://farm8.staticflickr.com/7385/9599027418_4123160df8_b.jpg
+category: articles
+tags: [articles, scandinavia]
 ---
 Are you planning a hiking, backpacking or packrafting trip in Scandinavia? Here comes our list of the 5 best places we have visited so far in Scandinavia to experience some outdoor adventures. In case you want to visit some of those places make sure that you plan your route and gear in advance.
 
