@@ -3,11 +3,9 @@ layout: post
 title: "Outdoors Tidbits 10"
 date: 2014-10-18 16:38:17 +0300
 comments: true
-categories: tidbits
 description: The latest outdoor gear reviews, tips & tricks - Nr. 10 - #outdoorstidbits
-keywords: Tidbits, Hiking, Packrafting, Outdoors, Photography, Gear Reviews
-twitter_card:
-    image: https://farm6.staticflickr.com/5606/15378920707_f2848ea2e7_c.jpg
+category: tidbits
+tags: [tidbits]
 ---
 Last week, Konstantin has been on a hike from Poland to Slovakia. Norrøna has published it's latest [online magazine](http://bit.ly/1zgbzr3) and the [application site](http://www.fjallravenpolar.com/) for the Fjällräven Polar 2015 opens on November 18th.
 <br><br><a href="https://www.flickr.com/photos/90204224@N07/15378920707"><img src="https://c2.staticflickr.com/6/5606/15378920707_35d22b3baa_b.jpg" width="1024" height="683" alt="Turku Hirvensalo"></a><!--more-->
