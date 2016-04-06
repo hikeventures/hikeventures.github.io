@@ -3,12 +3,9 @@ layout: post
 title: "Horror books or how to prepare yourself for the winter"
 date: 2013-11-17 16:28
 comments: true
-author: Konstantin
-categories: ['Articles']
 description: Outdoors books we are going to review in the future
-keywords: books, winter, horror, outdoors, hiking, snowshoeing
-twitter_card:
-    image: http://farm6.staticflickr.com/5531/11312000916_7d50425b7c_c.jpg
+category: articles
+tags: [articles, books]
 ---
 Recently there have been a lot of speculations about the coming winter. Some scientists believe that this year we will have - what some Dutch media has already christened - the "horror winter" with low temperatures and lot of snow, which, according to the forecasts, will make it the most severe winter in the last 100 years.
 
