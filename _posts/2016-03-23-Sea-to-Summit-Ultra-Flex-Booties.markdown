@@ -5,7 +5,7 @@ date: 2016-03-23 07:30 +0300
 comments: true
 published: true
 category: reviews
-tags: [reviews, seatosummit, packrafting]
+tags: [reviews, seatosummit, packrafting, shoes]
 description: A review on the Sea to Summit Ultra Flex Booties for packrafting or Kayaking
 ---
 For our packrafting trips we are more or less always wearing our dry suites which we combine with latex socks. As you probably can imagine just wearing latex socks would be quite chilly to paddle with especially during the colder months. So how do we keep our feet warm? It's all about layering and the Sea to Summit Ultra Flex Booties (which Konstantin bought a few months ago) as an outer shell might help as well. The booties are probably also a good choice for those who are into Kayaking or Stand up paddling.
