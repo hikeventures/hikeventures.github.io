@@ -4,11 +4,9 @@ title: "Gear for free! - Outdoor Advent Calendars"
 date: 2013-12-01 08:27:52 +0200
 comments: true
 author: Patrick
-categories: ['Articles']
 description: Christmas time is Outdoor Advent Calendar time
-keywords: Gear, Advent, calendar
-twitter_card:
-    image: http://farm9.staticflickr.com/8070/8198008360_ececd25d8e_c.jpg
+category: campaigns
+tags: [campaigns]
 ---
 Again December and again time to open the first door of the advent calendar. Time to look for some websites which give away free hiking and outdoor gear. <br><br>
 
