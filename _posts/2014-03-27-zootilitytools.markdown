@@ -2,12 +2,9 @@
 layout: post
 title: "ZootilityTools"
 date: 2014-03-31 11:09:00 +0200
-author: ZootilityTools
-categories: ['Guest Posts']
 description: ZootilityTools Blog Introduction
-keywords: backpacking, Outdoors, Hiking, Gear, Camping, ZootilityTools
-twitter_card:
-    image: https://farm6.staticflickr.com/5523/13449774343_fa1541fe8c_c.jpg
+category: interviews
+tags: [interviews]
 ---
 The PocketMonkey was conceived in the urban jungle of Boston. After its creator locked himself out of his domicile one too many times, he realized something had to be done. “Remember my keys next time” sprung into his head, but this was simple…too simple.
 
