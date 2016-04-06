@@ -3,12 +3,9 @@ layout: post
 title: Montbell U.L. Down Parka
 date: "2013-03-21 17:52"
 comments: true
-categories: Gear Reviews
 description: "Perfect down Parka for the winter and autumn months - Montbell U.L. Down Parka Review"
-keywords: "Montbell U.L. Down Parka, Gear Reviews, hiking, outdoors, camping, down Parka"
-twitter_card: 
-  image: "http://farm9.static876741_ced8a7427f_c.jpg"
-published: true
+category: reviews
+tags: [reviews, jackets]
 ---
 
 The Montbell U.L. Down Parka seems to be a perfect addition if you are planning to use a quilt instead of a sleeping bag during spring, summer and autumn. The down parka is super light and has a 800 fill. It also features a DWR treatment, YKK zippers and an adjustable hood. This is my current down jacket on my hiking, backpacking and other backcountry trips and here comes a short review.
