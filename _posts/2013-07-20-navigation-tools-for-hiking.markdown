@@ -3,13 +3,9 @@ layout: post
 title: Navigation Tools for Hiking
 date: "2013-07-20 13:38"
 comments: true
-author: Patrick
-categories: Articles
 description: Tools I use for Hiking and Packrafting
-keywords: "Packraft, inflate, instructions, outdoors, Packrafting"
-twitter_card: 
-  image: "http://farm3.staticflickr.com/2833/9327368022_66268c1291_c.jpg"
-published: true
+category: reviews
+tags: [reviews, maps, calazo]
 ---
 
 For our hiking trip in Sweden we are going to use 3 navigation tools in order to find our way through the Swedish mountains. 
