@@ -3,9 +3,8 @@ layout: post
 title: The Best Snowshoes for 2016
 date: 2016-01-03 09:19:51 +0200
 comments: true
-categories: best
-published: true
-description: Discover the best snowshoes for 2016
+category: articles
+tags: [articles, best, snowshoeing]
 ---
 Here are my personal selection of the best snowshoes for 2016 sorted according to their weight (I have only tested the Tubbs Xpedition so far). Snowshoes are quite interesting if you are planning to ascent a mountain, walk in powder snow or do any other winter backcountry trip. Snowshoeing is easy to learn and not that expensive. Also consider to get a pair of [trekking or snowshoe poles](http://www.hikeventures.com/best-trekking-and-snowshoeing-poles/ "trekking and snowshoeing poles") for your snowshoeing trips as they will help you a lot on your snowshoeing adventure.
  
