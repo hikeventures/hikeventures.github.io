@@ -3,13 +3,9 @@ layout: post
 title: "Backcountry Skiing - Skills for Ski Touring and Ski Mountaineering"
 date: "2013-02-23 14:28"
 comments: true
-author: Patrick
-published: true
-categories: Books
 description: Good book about Backcountry Skiing skills
-keywords: "Backcountry, Skiing,Skills, Ski Touring, Ski Mountaineering, book, review"
-twitter_card: 
-  image: "https://farm9.staticflickr.com/8251/8471770856_879b64eab5_b.jpg"
+category: reviews
+tags: [reviews, books]
 ---
 
 <a href="https://www.flickr.com/photos/90204224@N07/8471770856" title="Backcountry Skiing"><img src="https://farm9.staticflickr.com/8251/8471770856_879b64eab5_b.jpg" width="1024" height="683" alt="Backcountry Skiing"></a>
