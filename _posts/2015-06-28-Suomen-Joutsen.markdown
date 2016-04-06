@@ -3,11 +3,9 @@ layout: post
 title: "My visit on the Museumship Suomen Joutsen in Turku"
 date: 2015-07-02 20:05:01 +0300
 comments: true
-categories: ['destinations']
 description: A weekend at Mariehamn on tha Aland Islands
-keywords: Suomen Joutsen, Ship, Tourism, Tourist, Aland, Archipelago, Archipelago, Sea, Finland, Turku
-twitter_card:
-    image: https://c1.staticflickr.com/1/479/18946906130_764e86968b_o.jpg
+category: destinations
+tags: [destinations, finland, turku, museums, ships]
 ---
 Two weeks ago I visited the Suomen Joutsen at Forum Marinum in Turku to find out more about Finlands Sailing ship which had been in duty as a school ship for the Finnish navy in the 20th century after Finland became independent. The Suomen Joutsen was originally built 1902 in France and was handed over to Germany in 1922 and to Finland in 1930. The ship had 3 names - Laënnec, Oldenburg and Suomen Joutsen. <br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/18947022338" title="Suomen Joutsen"><img src="https://c2.staticflickr.com/4/3838/18947022338_aee3ef3938_o.jpg" width="992" height="1323"></a>
