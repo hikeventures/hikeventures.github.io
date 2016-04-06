@@ -3,12 +3,9 @@ layout: post
 title: Backpack Gourmet
 date: "2015-01-15 17:38:55 +0200"
 comments: true
-categories: books
 description: "Tired of ready made camping food? Prepare your dehydrated food at home"
-keywords: "Tidbits, Hiking, Packrafting, Outdoors, books, cooking"
-twitter_card: 
-  image: "https://farm8.staticflickr.com/7580/16099407770_d6c98bbef0_b.jpg"
-published: true
+category: reviews
+tags: [reviews, books]
 ---
 
 Having tried some of the ready made food packages to take on my hikes, I got interested to read more about preparing dehydrated backpacking food myself at home. Backpack Gourmet offers plenty of easy to follow recipes - some of them also suitable for vegetarians - and each recipe also contains the weight and servings and how to prepare the meals in the dehydrator.
