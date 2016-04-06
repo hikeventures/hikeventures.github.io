@@ -3,12 +3,9 @@ layout: post
 title: Petzl Nao
 date: 2013-01-21 23:22
 comments: true
-author: Patrick
-published: true
-categories: gear
 description: Petzl Nao headlamp
-keywords: gear, hiking, outdoors, petzl nao, headlamp
-featured_image: http://farm8.staticflickr.com/7420/11133160593_fa58ef19ee_c.jpg
+category: reviews
+tags: [reviews, petzl, lamps]
 ---
 The Petzl Nao is a new headlamp which is able to adapt its light according to the environment which makes it a great headlamp if you need to see far but at the same be able to read e.g. a map at night. You can also set the levels of the lamp manually and adjust the levels via the Petzl software on your PC according to your needs.
 <!--more-->
