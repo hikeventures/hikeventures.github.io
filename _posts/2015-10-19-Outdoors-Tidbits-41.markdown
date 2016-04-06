@@ -2,9 +2,9 @@
 layout: post
 title: "Outdoors Tidbits 41"
 date: 2015-10-19 021:56:01 +0300
-categories: tidbits
 description: The latest outdoor gear reviews, tips & tricks - Nr. 41 - #outdoorstidbits
-keywords: Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews
+category: tidbits
+tags: [tidbits]
 ---
 Last week Konstantin went hiking in the Dutch forest hunting for mushrooms. We still have decide for a winter trip. However, but Patrick is going to visit his home town nearby the Alps in November combining it with a day hike in the mountains. We are still working on a view gear reviews which should be on our blog in the near future. Suunto has released it's latest outdoor watch - the <a href="http://amzn.to/1OPlx8n">Suunto Traverse</a> for hikers. Seems that it has similar functions as the Ambit3...
 <br><br>
