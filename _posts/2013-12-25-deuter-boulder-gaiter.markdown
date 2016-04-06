@@ -3,12 +3,9 @@ layout: post
 title: Deuter Boulder Gaiter
 date: 2013-12-25T21:05:59.000Z
 comments: true
-categories: Gear Reviews
 description: Gaiter protect you of water and dirt getting into your shoes.
-keywords: "Gear Review, Deuter, Boulder Gaiter"
-twitter_card: 
-  image: "https://farm4.staticflickr.com/3812/11544953636_f5653a0864_b.jpg"
-published: true
+category: reviews
+tags: [reviews, deuter, gaiter]
 ---
 
 Winter time - Gaiter time! To keep snow out during my winter activities like winter hiking, snowshoeing or cross-country skiing I am using gaiters and here is a short review of the Deuter Boulder Gaiters which are are quite light and super durable.
