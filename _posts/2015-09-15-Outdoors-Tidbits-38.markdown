@@ -2,12 +2,10 @@
 layout: post
 title: Outdoors Tidbits 38
 date: "2015-09-15 07:28:01 +0300"
-categories: tidbits
 published: true
 description: "The latest outdoor gear reviews, tips & tricks - Nr. 38"
-keywords: "Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews"
-twitter_card: 
-  image: "https://farm1.staticflickr.com/362/19544901016_f6e069b724_b.jpg"
+category: tidbits
+tags: [tidbits]
 ---
 
 
