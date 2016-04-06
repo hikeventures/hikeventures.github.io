@@ -4,11 +4,9 @@ title: "Hiking the Trail"
 date: 2013-12-20 05:17:39
 comments: true
 author: Introduction of Hiking the Trail blog
-categories: ['Guest Posts']
 description: Hiking the Trail
-keywords: Hiking, Hiking the Trail, Outdoors, Blog
-twitter_card:
-    image: http://farm3.staticflickr.com/2879/11459135334_1036bddc27_c.jpg
+category: interviews
+tags: [interviews]
 ---
 Hiking the Trail was started several years ago to chronicle my
 Appalachian Trail thru hike in spring of 2013.
