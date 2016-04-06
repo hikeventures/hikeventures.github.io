@@ -3,12 +3,10 @@ layout: post
 title: "Poznan, Wrocław, Jawor and Wałbrzych"
 date: "2015-07-12 21:45:07 +0300"
 comments: true
-categories: destinations
 description: Exploring culture in Poznan and Slesia.
 keywords: "Poland, Slesia, Wrocław, Warsaw, castle, tourism, travel"
-twitter_card: 
-  image: "https://farm1.staticflickr.com/545/18982647173_ab62f601d6_o.jpg"
-published: true
+category: destinations
+tags: [destinations, poznan, poland, Wrocław, Jawor, Wałbrzych]
 ---
 
 This week we have been to Poland where we visited Poznan, Wrocław and Castle Książ in Wałbrzych to do a bit of sightseeing and to explore the Polish culture.
