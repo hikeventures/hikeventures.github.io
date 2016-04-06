@@ -4,10 +4,9 @@ title: Preparing for Fjällräven Classic
 date: 2015-02-08 17:56:41 +0100
 comments: true
 published: true
-categories: articles
 description: How we prepare for Fjällräven Classic
-keywords: Outdoors, Fjällräven, Fjällräven Classic, Backpacking, Hiking, Camping
-featured_image: https://farm8.staticflickr.com/7421/16482970962_e112076e05_b.jpg
+category: articles
+tags: [articles, fjällräven, hiking, sweden]
 ---
 This year we have signed up for [Fjällräven Classic][1] in Northern Sweden - a 110 km hike (Kungsleden - also called King's Trail) with about 2000 participants. We are going to be in group 7 which starts on August 9th at 09.00 am with over 200 group participants. Here is a link to the official [start list][2].
 
