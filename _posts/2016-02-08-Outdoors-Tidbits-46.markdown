@@ -2,10 +2,10 @@
 layout: post
 title: Outdoors Tidbits 46
 date: "2016-02-08 05:28:01 +0300"
-categories: tidbits
 published: true
 description: "The latest outdoor gear reviews, tips & tricks - Nr. 46"
-keywords: "Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews"
+category: tidbits
+tags: [tidbits]
 ---
 
 
