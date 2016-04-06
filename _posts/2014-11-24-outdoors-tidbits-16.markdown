@@ -3,12 +3,9 @@ layout: post
 title: "Outdoors Tidbits 16"
 date: 2014-11-24 17:06:51 +0200
 comments: true
-author: Patrick
-categories: tidbits
 description: The latest outdoor gear reviews, tips & tricks - Nr. 16 - #outdoorstidbits
-keywords: Tidbits, Hiking, Packrafting, Outdoors, Photography, Gear Reviews
-twitter_card:
-    image: https://farm9.staticflickr.com/8270/15581097668_e291c7f81f_c.jpg
+category: tidbits
+tags: [tidbits]
 ---
 What a week! We have collected plenty of giveaways for you and we want to thank again our sponsors. We will start our raffle anytime soon. So check back regularly to be the first to get an entry for our first giveaway in our [Advent Calendar](http://hikeventures.com/advent-calendar-2014/).
 <br><br>
