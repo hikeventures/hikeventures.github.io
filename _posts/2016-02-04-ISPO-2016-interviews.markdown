@@ -3,9 +3,9 @@ layout: post
 title: "ISPO 2016 - Product Highlights"
 date: "2016-02-04 15:28:01 +0300"
 comments: true
-categories: articles
+category: articles
+tags: [articles, ISPO]
 description: Interviews with major outdoor brands about their product highlights at the ISPO 2016 in Munich.
-keywords: "Hiking, Backpacking, Outdoors, ISPO, interviews, 2016"
 published: true
 ---
 
