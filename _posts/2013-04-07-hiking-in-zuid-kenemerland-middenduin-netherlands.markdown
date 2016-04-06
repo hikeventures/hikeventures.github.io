@@ -3,13 +3,9 @@ layout: post
 title: "Hiking in Zuid-Kenemerland - Middenduin - Netherlands"
 date: "2013-04-07 10:27"
 comments: true
-author: Patrick
-categories: destinations
 description: "Hiking adventure in Zuid-Kenemerland"
-keywords: "Zuid-Kenemerland, Middenduin, Netherlands, Holland, National Park, hiking"
-twitter_card: 
-  image: "https://farm9.staticflickr.com/8399/8619179283_14a99dfe2b_b.jpg"
-published: true
+category: destinations
+tags: [destinations, netherlands, middenduin]
 ---
 
 <a href="https://www.flickr.com/photos/90204224@N07/8619179283"><img src="https://farm9.staticflickr.com/8399/8619179283_14a99dfe2b_b.jpg" width="1024" height="680" alt="Hiking in Zuid-Kenemerland Middenduin"></a>
