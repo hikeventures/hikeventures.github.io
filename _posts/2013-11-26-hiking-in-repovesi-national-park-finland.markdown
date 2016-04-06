@@ -3,11 +3,9 @@ layout: post
 title: Hiking in Repovesi National Park
 date: "2012-11-26 17:11"
 comments: true
-categories: destinations
 description: Our adventure to the Repovesi National Park. One of the best National Parks in Southern Finland.
-keywords: "Hiking, Repovesi, National Park, finland, outdoors"
-featured_image: "https://farm9.staticflickr.com/8348/8197277043_42a513d9f5_h.jpg"
-published: true
+category: destinations
+tags: [destinations, repovesi, finland, hiking]
 ---
 
 Repovesi National Park is Southern Finland's most popular hiking destination and you can get there by public transport within 2 hours from Helsinki. The National Park offers plenty of lakes and hills. There are campsites and shelters and it is located nearby the city of Kouvola and accessible by public transportation.
