@@ -3,12 +3,9 @@ layout: post
 title: "Meanderthals"
 date: 2014-02-14 22:56:18 +0200
 comments: true
-author: Meanderthals
-categories: ['Guest Posts']
 description: Blog intorduction of the Meanderthals
-keywords: Meanderthals, Hiking, outdoors
-twitter_card:
-    image: http://farm4.staticflickr.com/3721/12261723486_2e0c0e5aa0_c.jpg
+category: interviews
+tags: [interviews]
 ---
 Meanderthals: A Hiking Blog (<a href="http://www.internetbrothers.org" target="_blank">internetbrothers.org</a>) is a series of trail reports for many of the best hikes in Western North Carolina. I am fortunate to live in this beautiful environment, this “Land of Waterfalls,” and have the opportunity to day hike nearly every week. The Blue Ridge Mountains in Pisgah National Forest rise as high as 6,600 feet, and are filled with new and old-growth conifer and hardwood forests. The mountain laurel and rhododendron are plentiful, and the region fully enjoys all four seasons. Most posts on this blog are about hikes available in this area. So, load your pack and join me.
 
