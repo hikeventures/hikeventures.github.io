@@ -2,12 +2,9 @@
 layout: post
 title: Kvarken Archipelago
 date: 2012-11-25 23:44
-author: Patrick
-published: true
-categories: destinations
 description: Kvarken Archipelago
-keywords: Hiking, Kvarken Archipelago, National Park, trip report, finland, outdoors, UNESCO
-featured_image: http://farm9.staticflickr.com/8346/8196683667_b737c8a6f2_c.jpg
+category: destinations
+tags: [destinations, archipelago, finland]
 ---
 Today, I went with the bicycle from Vaasa to Bjököby where I planned to visit the Kvarken Archipelago - an UNESCO World Heritage site. The distance to the Swedish mainland is just about 80 km and the depth of the water is max. about 25 meters. The area has been populated by human beings since 7000 years.
 
