@@ -4,11 +4,9 @@ title: "K-Clip Saves Your Broken Backpack"
 date: 2015-05-28 17:41
 published: true
 comments: true
-categories: ['Articles']
 description: K-clip replaces your broken bucket on your backpack
-keywords: Hiking, backpack, backpacking, bucket, camping, outdoors
-twitter_card:
-    image: http://farm9.staticflickr.com/8346/8196683667_b737c8a6f2_c.jpg
+category: articles
+tags: [articles]
 ---
 Have you ever been on a hike and one of the buckles on your backpack broke or got damaged? When this happens your equipment might become uncomfortable to use, loose some of its functionality or it becomes completely useless as long as the buckle has not been replaced. You might even have to throw out your backpack just because of a broken buckle although the backpack is still in top shape. In this situation you probably wished to have a replacement buckle handy that is easy to install.<br><br>
 
