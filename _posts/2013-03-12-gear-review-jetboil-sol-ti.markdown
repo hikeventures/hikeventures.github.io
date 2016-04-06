@@ -5,10 +5,8 @@ date: "2013-03-12 22:25"
 comments: true
 categories: Gear Reviews
 description: Jetboil Sol Ti Review
-keywords: "Jetboil, Sol Ti, gear, review, stove"
-twitter_card: 
-  image: "https://farm9.staticflickr.com/8231/8552911716_8c74f6a5c4_b.jpg"
-published: true
+category: reviews
+tags: [reviews, jetboil, kitchen]
 ---
 
 I was looking for a lightweight compact camping stove where I can place my jetboil gas canister in to save some space in my backpack and which can boil water quickly. After doing some research and reading some camping cooker reviews online, I decided to go for the Jetboil Sol Ti which also won the Outdoor Editor's Choice Award in 2011 and seems to be a promising camping stove to quickly heat up water or prepare outdoor meals.
