@@ -3,12 +3,9 @@ layout: post
 title: "Hiking and Packrafting in Vaasa"
 date: 2013-11-30 15:50:28 +0200
 comments: true
-author: Patrick
-categories: ['Articles']
 description: Hiking and Packrafting in Vaasa
-keywords: Hiking, Packrafting, Vaasa, finland
-twitter_card:
-    image: http://farm9.staticflickr.com/8070/8198008360_ececd25d8e_c.jpg
+category: destinations
+tags: [destinations, vaasa, finland, hiking]
 ---
 Vaasa is a small town with a population of 67.000 souls on the west coast of Finland. The area is more or less flat with the exception of &#214;jberget, which is located about 5 km outside of Vaasa where you can go downhill and cross-country skiing.
 
