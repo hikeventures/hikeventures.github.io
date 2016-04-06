@@ -3,9 +3,9 @@ layout: post
 title: "Ruissalo - Turku"
 date: 2014-05-17 19:46:05 +0300
 comments: true
-categories: ['destinations']
 description: A day adventure on Ruissalo in Turku. Birds, Ferries and history.
-keywords: Turku, Finland, Ruissalo, Sightseeing, Microadventure
+category: destinations
+tags: [destinations, ruissalo, turku, finland]
 ---
 Today, I went on a day trip to Ruissalo. Ruissalo is the recreational island of Turku. It was involved in the Crimean war between the Swedish and Russians and nowadays it's a paradise for bird watchers, golfers and joggers. Since the island is quite big, I grabbed my bicycle and set off.<br><br>
 
