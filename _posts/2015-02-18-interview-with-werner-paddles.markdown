@@ -3,12 +3,10 @@ layout: post
 title: Interview with Werner Paddles
 date: "2015-02-18 16:55:11 +0200"
 comments: true
-categories: interviews
 published: true
 description: Our interview with Werner Paddles.
-keywords: "werner, paddles, Packrafting, Outdoors, Paddling, Kayaking, Canoeing"
-twitter_card: 
-  image: "https://farm4.staticflickr.com/3756/9599013810_a51ff48559_b.jpg"
+category: interviews
+tags: [interviews, wernerpaddles, packrafting, paddles]
 ---
 
 We have asked <a href="http://www.wernerpaddles.com">Werner Paddles</a> to answer a few questions about the company and it's products. So, if you are into packrafting, kayaking or any other paddling sport you may want to read this.
