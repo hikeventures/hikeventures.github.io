@@ -3,10 +3,9 @@ layout: post
 title: Learning how to Packraft
 date: 2013-05-06 16:52
 comments: true
-categories: articles
 description: Learning Packrafting is not difficult - as long as you don't go for whitewater
-keywords: introduction, learning, packrafting, outdoors, course
-featured_image: ttps://farm9.staticflickr.com/8277/8714403482_520cf243ab_b.jpg
+category: articles
+tags: [articles, packrafting]
 ---
 As I recently bought a new Alpacka packraft, learning how to Packraft is now essential for me. Since I am living in Finland - a country with 100.000 lakes - packrafting could enhance the possibilities to see the landscape from a different point of view than on a normal hiking trip. As I am planning to take my Yukon Yak Packraft to <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">Sarek National Park in Sweden</a>  this year, I still need to exercise a little bit in order to be ready for this trip.
 
