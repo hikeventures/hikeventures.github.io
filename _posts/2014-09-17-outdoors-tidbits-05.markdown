@@ -3,11 +3,9 @@ layout: post
 title: "Outdoors Tidbits 5"
 date: 2014-09-17 00:13:25 +0300
 comments: true
-categories: tidbits
 description: The latest outdoor gear reviews, tips & tricks - Nr. 5 - #outdoorstidbits
-keywords: Tidbits, Hiking, Packrafting, Outdoors, Photography, Gear Reviews
-twitter_card:
-    image: https://farm4.staticflickr.com/3914/14989210509_5843d64fd7_o.jpg
+category: tidbits
+tags: [tidbits]
 ---
 Temperatures are dropping in Finland. Konstantin and Marta went mushroom picking and on a 2-days bicycle trip (130 km) in Poland while Patrick got a <a href="http://amzn.to/1u418jo" target="_blank">Suunto Ambit3 blue</a> and went hiking in the [Kurjenrahka National Park](http://hikeventures.com/autumn-colors-around-lake-savojarvi/) in Finland. <br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/15030782888"><img src="https://c4.staticflickr.com/4/3879/15030782888_77cc87eabf_b.jpg" width="1024" height="683" alt="Kujenrahka National Park"></a><!--more--><br><br>
