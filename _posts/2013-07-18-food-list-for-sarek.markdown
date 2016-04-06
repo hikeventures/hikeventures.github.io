@@ -3,11 +3,9 @@ layout: post
 title: "Food list for Sarek"
 date: 2013-07-18 16:00
 comments: true
-author: Patrick
-categories: ['Articles']
 description: Our food list for our Sarek adventure
-keywords: Hiking, Packrafting, Outdoors, Sarek, Food, List, Food List
-
+category: articles
+tags: [articles, sarek, sweden, kitchen, food, list]
 ---
 Since our Sarek trip is getting closer, we have to take a look on our lunch list. We calculated 3 meals a day and snacks (which are not included in the list below). The different items in the list are in German since we are going to order our food from Germany.
 <!--more--><br>
