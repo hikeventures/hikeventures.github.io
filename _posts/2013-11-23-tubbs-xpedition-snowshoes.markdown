@@ -3,12 +3,9 @@ layout: post
 title: "Review: Tubbs Xpedition Snowshoe"
 date: "2013-12-10 21:11"
 comments: true
-categories: Gear Reviews
 description: Explore the great outdoors with these snowshoes
-keywords: "Gear Review, Tubbs, Xpedition, Snowshoes"
-twitter_card: 
-  image: "http://farm6.staticflickr.com/5531/11312000916_7d50425b7c_c.jpg"
-published: true
+category: reviews
+tags: [reviews, tubbs, snowshoeing]
 ---
 
 Having used skis and hiking boots the years before, I am interested to do some snowshoeshoeing this winter with my new Tubbs Xpedition snowshoes and here comes a short review. As I have worked in the past a couple of months in a mountain hut in the Swiss Alps, I frequently had to walk 2 hours up the mountain to reach my workplace. Well, it was possible but with snowhoes it would have been so much more easier to get up.
