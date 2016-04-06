@@ -3,12 +3,9 @@ layout: post
 title: "Nature Travel Network"
 date: 2013-12-20 05:14:52
 comments: true
-author: Nature Travel Network
-categories: ['Guest Posts']
 description: Introduction of the Nature Travel Network
-keywords: Nature Travel Network, Outdoors, Hiking
-twitter_card:
-    image: http://farm4.staticflickr.com/3827/11544807355_5275cd0040_c.jpg
+category: interviews
+tags: [interviews]
 ---
 Travellers share the same wanderlust, but we travel for different reasons. Many of us travel to experience nature, for instance. 
 
