@@ -2,12 +2,8 @@
 layout: post
 title: "Ridgeline Images"
 date: 2014-02-25 19:07:23 +0200
-author: Ridgeline Images
-categories: ['Guest Posts']
-description: Introduction of Ridgeline Images
-keywords: Ridgeline Images, Hiking, Photography
-twitter_card:
-    image: http://farm4.staticflickr.com/3820/12774208875_f7f27871e4_c.jpg
+category: interviews
+tags: [interviews]
 ---
 Ridgeline Images is about hiking in Japan and wilderness exploration, though mostly focused on day and overnight outings. My main impetus for getting this blog started was frustration with the lack of information in English on hiking trails around Tokyo.
 
