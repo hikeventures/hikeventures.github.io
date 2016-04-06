@@ -3,9 +3,9 @@ layout: post
 title: Best Satellite Messenger, Locator and Personal Beacon 2016
 date: 2016-01-03 12:35:07 +0300
 comments: true
-categories: best
 description: Planning to go hiking in the remote wilderness? Be prepared to get help!
-keywords: satellite, messenger, gps, Gear, Camping, Outdoors, Hiking, Packrafting, Backpacking
+category: articles
+tags: [articles, best, gps]
 ---
 
 A satellite messenger, GPS Tracker or a Personal Locator Beacon should be with you on your hiking, backpacking, packrafting or kayaking trip if you are planning to go to areas where you don't have any phone reception. In case of an accident you won't be able to call for help without a satellite messenger. Here is our list of the best satellite messengers and personal locator beacons for 2015 / 2016.
