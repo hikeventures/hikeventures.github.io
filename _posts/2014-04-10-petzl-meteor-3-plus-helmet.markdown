@@ -4,11 +4,9 @@ title: Petzl Meteor 3+ Helmet
 date: "2014-04-17 18:01:01 +0200"
 comments: true
 published: true
-categories: Gear Reviews
 description: "Petzl Meteor 3+ - A helmet for Packrafting and Climbing"
-keywords: "Petzl Meteor 3+, Helmet, gear review, climbing, packrafting"
-twitter_card: 
-  image: "https://farm3.staticflickr.com/2866/13907520073_9063e2dbec_c.jpg"
+category: reviews
+tags: [reviews, petzl, helmet, packrafting]
 ---
 
 For our packrafting trips we were looking for a suitable helmet and came across the Petzl Meteor 3+ helmet which has also a certification to be used as a watersports helmet (see Petzl website for more details). A helmet is an important safety tool which we are also using for slower rapids where you can e.g. also get stuck in a tree and fall out of the packraft. Here comes a short review of a helmet which I found to be one of the best lightweight packrafting helmets available.
