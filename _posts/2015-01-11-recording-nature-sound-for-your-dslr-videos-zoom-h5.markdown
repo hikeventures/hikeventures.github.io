@@ -4,12 +4,9 @@ title: "How to record nature sound for your DSLR videos - Zoom H5"
 date: "2015-01-11 13:32:02 +0200"
 author: Patrick
 toc: true
-categories: Gear Reviews
 description: "Looking for better sound quality for your DSLR Video? Consider the Zoom H5"
-keywords: "Gear Review, Zoom, H5, Zoom H5, microphone, audio, sound, recorder"
-twitter_card: 
-  image: "https://farm8.staticflickr.com/7468/15630751654_424fb06abb_b.jpg"
-published: true
+category: articles
+tags: [articles, blogging]
 ---
 
 Having used my Sony A7r for over 1 year (but recently sold) I am planning to get better sound on my Videos once I get my new camera. The onboard microphone is more or less useless when filming in a windy place and in general you get better audio with an external microphone.
