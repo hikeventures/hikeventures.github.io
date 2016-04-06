@@ -3,11 +3,9 @@ layout: post
 title: "Outdoors Tidbits 26"
 date: 2015-02-03 21:51:23 +0200
 comments: true
-categories: tidbits
 description: The latest outdoor gear reviews, tips & tricks - Nr. 26 - #outdoorstidbits
-keywords: Tidbits, Hiking, Packrafting, Outdoors, Photography, Gear Reviews
-twitter_card:
-    image: https://farm8.staticflickr.com/7413/15815499754_1ec2a39146_b.jpg
+category: tidbits
+tags: [tidbits]
 ---
 Last week we returned from our trip to Lapland. Our next adventure trip which we are planning together will be most likely a packrafting weekend in Sweden in April together with the [Deliverance Team](http://deliveranceteam.outdrr.com) and [Urban Packrafter](http://www.urbanpackrafter.com). Patrick is now packing again his backpack for his trip to Munich where he is going to visit the ISPO 2015 to check out the latest trends in the outdoor industry. 
 <br><br>
