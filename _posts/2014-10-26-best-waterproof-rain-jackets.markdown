@@ -3,9 +3,9 @@ layout: post
 title: The 5 Best Rain Jackets for 2016
 date: 2016-01-04 12:33:51 +0200
 comments: true
-categories: best
 description: Overview of the best rain Jackets in 2016
-keywords: Waterproof, Jackets, Gear, Hiking, Climbing, Packrafting, outdoors
+category: articles
+tags: [articles, best, jackets]
 ---
 Planning to go hiking, backpacking, running, cycling, mountaineering or on any other backcountry trip? Then you should have a lightweight rain jacket in your backpack to stay dry and warm on your adventure. Here is my buying guide of the best rain jackets for 2016. The rain jackets which I have selected below are sorted according to their weight and consist of rain jackets for men but in most cases there are also equivalent female rain jacket models available.
 
