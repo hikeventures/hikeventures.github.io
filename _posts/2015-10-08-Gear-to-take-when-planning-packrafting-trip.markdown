@@ -2,12 +2,11 @@
 layout: post
 title: What gear to take when planning a packrafting trip
 date: "2015-10-09 015:55:01 +0300"
-categories: articles
 published: true
 description: A list of gear needed when planning a packrafting trip
-keywords: "hiking, Packrafting, Outdoors, Gear, gear list"
-twitter_card: 
-  image: "https://farm8.staticflickr.com/7392/9596207069_876c019ced_b.jpg"
+category: articles
+tags: [articles, packrafting]
+
 ---
 
 In this post I give a summary / gear list on what gear to take when planning a packrafting trip. I will describe the factors affecting which gear to take, essential packrafting gear, packrafting gear for whitewater, gear needed for the camp site and additional gear. Additional items might be added in the future.
