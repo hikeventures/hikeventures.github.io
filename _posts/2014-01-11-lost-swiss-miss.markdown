@@ -2,13 +2,9 @@
 layout: post
 title: "Lost Swiss Miss"
 date: 2014-01-11 17:14:15 +0200
-author: Sarah
-categories: ['Guest Posts']
-toc: true
 description: Lost Swiss Miss Blog Introduction
-keywords: Lost Swiss Miss, outdoors, Switzerland, blog
-twitter_card:
-    image: http://farm3.staticflickr.com/2837/12029205675_217333155c_c.jpg
+category: interviews
+tags: [interviews]
 ---
 Hi I’m Sarah, I have been exploring the world one step at a time since 2011. Travel and hiking are my passions and I’m currently living in Switzerland.<br><br>
 <img src="http://farm4.staticflickr.com/3823/11888426963_f9e2b3ffd0_c.jpg"><!--more--><br>
