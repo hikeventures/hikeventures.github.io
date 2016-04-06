@@ -3,12 +3,9 @@ layout: post
 title: "Werner Shuna - Best Packrafting Paddles?"
 date: "2013-07-15 19:59"
 comments: true
-categories: Gear Reviews
 description: "The best paddles for your packrafting adventure - Werner Shuna"
-keywords: "Packrafting, Outdoors, Werner Shuna, paddles, review"
-twitter_card: 
-  image: "http://farm4.staticflickr.com/3709/9295040842_f7031d2f8e_c.jpg"
-published: true
+category: reviews
+tags: [reviews, wernerpaddles, packrafting]
 ---
 
 Having purchased a <a hre="http://hikeventures.com/gear-review-unpacking-alpacka-packraft/" target="_self">packraft</a> a while ago, I was looking for the best packrafting paddles which were in my budget and came accross the Werner Shuna paddles which come in 4 peaces and are super light to take with you on your packrafting trip.
