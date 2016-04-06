@@ -4,9 +4,8 @@ title: "Advent Calendar: Giveaway 2"
 date: 2014-12-04 16 :50:39 +0200
 comments: true
 published: true
-categories: giveaway
-twitter_card:
-    image: https://farm9.staticflickr.com/8623/15740288398_878977a906_b.jpg
+category: campaigns
+tags: [campaigns]
 ---
 I am quite sure that many of you would like to have a proper water filter under the christmas tree which you can use in your adventures in 2015. Well, now you can win one on HikeVentures! <br><br>
 
