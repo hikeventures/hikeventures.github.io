@@ -14,7 +14,7 @@ to the `site_tags` variable. -->
 <!-- Build the Page -->
 
 <!-- List of all tags -->
-<ul class="tags">
+<ul class="tags"><font color="white">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] }}{% endcapture %}
     <li>
@@ -22,7 +22,7 @@ to the `site_tags` variable. -->
         <span>({{ site.tags[this_word].size }})</span>
       </a>
     </li>
-  {% endunless %}{% endfor %}
+  {% endunless %}{% endfor %}</font>
 </ul>
 <br><br>
 <!-- Posts by Tag -->
