@@ -3,11 +3,9 @@ layout: post
 title: "A summer day in Helsinki 2014"
 date: 2014-06-01 17:05:52 +0300
 comments: true
-categories: ['destinations']
 description: A summer adventure in Helsinki 2014
-keywords: Helsinki, Finland, City, Sightseeing
-twitter_card:
-    image: https://farm4.staticflickr.com/3791/14318924295_400947fc57_c.jpg
+category: destinations
+tags: [destinations,helsinki, finland]
 ---
 This weekend we enjoyed a sunny day in <a href="http://www.visithelsinki.fi" target="_blank">Helsinki</a>. Port of Helsinki with the Uspenski Cathedral in the background.
 
