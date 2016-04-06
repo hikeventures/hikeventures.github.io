@@ -3,10 +3,9 @@ layout: post
 title: Halloween Adventure at Lake Suolijärvi
 date: 2014-11-02 10:31:22 +0200
 comments: true
-categories: destinations
 description: Our Hiking and Paddling Adventure on Halloween in Finland
-keywords: Packrafting, Finland, Suolijärvi, Hyvinkää, Canoe, Hiking, Halloween, adventure
-featured_image: https://farm4.staticflickr.com/3938/15687184261_2c7af34fd4_b.jpg
+category: destinations
+tags: [destinations, hiking, packrafting, suolijärvi, finland]
 ---
 This Halloween, we decided to go to Lake Suolijärvi nearby Hyvinkää in Finland to do some Paddling and Hiking. [Janne][1] has sent me a [link][2] with the map beforehand, showing where shelters have been built in the Sveitsi - Kytäjän wilderness area.
 
