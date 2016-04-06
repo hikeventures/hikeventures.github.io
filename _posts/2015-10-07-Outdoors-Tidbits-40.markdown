@@ -2,12 +2,10 @@
 layout: post
 title: "Outdoors Tidbits 40"
 date: 2015-10-07 018:27:01 +0300
-categories: tidbits
 published: true
 description: The latest outdoor gear reviews, tips & tricks - Nr. 40 - #outdoorstidbits
-keywords: Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews
-twitter_card:
-    image: https://farm6.staticflickr.com/5831/21942983082_dd6aba7c05_b.jpg
+category: tidbits
+tags: [tidbits]
 ---
 Here comes our latest outdoors tidbits with the latest outdoors tips and tricks and gear reviews. Temperatures are dropping and it's time to think about winter gear. We had already the first snow up North in Lapland. We are also working on a gear review which we will publish this week as well.
 
