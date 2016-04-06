@@ -3,12 +3,9 @@ layout: post
 title: Exped Air Pillow UL
 date: "2014-08-18 21:06:55 +0300"
 comments: true
-categories: Gear Reviews
 description: "Ultralight air pillow for the great outdoors - Exped Air Pillow UL Review"
-keywords: "Hiking, Packrafting, Outdoors, Exped, Gear Reviews, Air Pillow UL"
-twitter_card: 
-  image: "https://farm4.staticflickr.com/3894/14925259216_810986f6e1_c.jpg"
-published: true
+category: reviews
+tags: [reviews, exped, sleeping pads]
 ---
 
 When you plan you next hiking, backpacking, packrafting or other outdoor trip it's a good idea to have a pillow with you which is lightweight and packable. Here is a short review about the Exped Air Pillow UL M which is the perfect companion for the <a href="http://hikeventures.com/exped-synmat-ul-7/" target="_self">Exped SynMat UL 7</a> which we have used the last months on our adventures.
