@@ -2,10 +2,10 @@
 layout: post
 title: Outdoors Tidbits 47
 date: "2016-02-25 05:28:01 +0300"
-categories: tidbits
 published: true
 description: The latest outdoor gear reviews, tips & tricks - Nr. 47
-keywords: "Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews"
+category: tidbits
+tags: [tidbits]
 ---
 *26.02.1919 - The Grand Canyon National Park was established.*
 
