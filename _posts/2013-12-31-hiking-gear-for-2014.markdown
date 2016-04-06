@@ -4,11 +4,9 @@ title: "Hiking Gear for 2014"
 date: 2013-12-31 09:33:04 +0200
 comments: true
 author: Patrick
-categories: ['Articles']
 description: Gear I am planning to buy for 2014
-keywords: Hiking, Gear, Outdoors, nature
-twitter_card:
-    image: http://farm8.staticflickr.com/7376/8730115713_e536e36801_c.jpg
+category: articles
+tags: [articles, best, hiking]
 ---
 Are you planning to buy new gear for your next hiking adventure in 2014? Here is a list of gear I am using or which I am planning to purchase in 2014. When I purchase gear, I usually look into functionality/technology, design and weight.
 
