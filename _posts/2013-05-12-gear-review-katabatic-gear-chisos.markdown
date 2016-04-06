@@ -3,13 +3,9 @@ layout: post
 title: Katabatic Gear Chisos
 date: "2013-05-12 09:34"
 comments: true
-author: Patrick
-toc: true
-categories: Gear Reviews
 description: Katabatic Gear Chisos Review
-keywords: "Katabatic Gear, Chisos, Gear Reviews, Quilt"
-twitter_card: "https://farm8.staticflickr.com/7431/8731235226_efa6408459_b.jpg"
-published: true
+category: reviews
+tags: [reviews, katabatic gear, sleeping bags]
 ---
 
 Looking for an ultralight quilt for the summer for your next hiking, backpacking, camping or any other backcountry adventure? Have a look at the Katabatic Gear Chisos. This quilt can be used for degrees around 40 F / +5 C and higher or you can layer up inside and use it for lower temperatures. Personally, I felt a bit cold when I used this quilt in August here in Finland when we had around +6 C in the night even so I was wearing jogging pants and a long sleeved merino shirt. I would just use this quilt for June and July here in Finland but it depends if you are a warm or a cold sleeper. In general, this is a high quality quilt.
