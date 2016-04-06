@@ -4,9 +4,9 @@ title: The risk of leaving your rain jacket and pants at home when going hiking 
 date: 2016-03-25 17:28 +0300
 comments: true
 published: true
-categories: articles
 description: Interested in ultralight hiking? Make sure that you don't go too light.
-keywords: packrafting, gear, outdoors, hiking, ultralight, rain gear, rain jacket
+category: articles
+tags: [articles]
 ---
 Recently, I have read many interesting blog posts discussing if you should consider taking rain gear i.e. rain jacket and rain pants with you when going hiking or backpacking. This is an interesting question especially for those who are into ultralight hiking. But what means ultralight? Should you pack as less as possible or should you only try to minimise weight on all the gear you need on the hike?
 
