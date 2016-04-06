@@ -3,10 +3,9 @@ layout: post
 title: Hiking in Seitseminen
 date: 2012-11-27 16:28
 comments: true
-categories: destinations
 description: Our adventure at Seitseminen National Park - Beautiful lakes and hiking trails
-keywords: Hiking, Seitseminen, trip report, finland, outdoors
-image: https://farm2.staticflickr.com/1483/24327256312_f8c14064d2.jpg
+category: destinations
+tags: [destinations, hiking, seitseminen, finland]
 ---
 This time we went for an adventure to the Seitseminen National Park. Unfortunately, the public transportation to the park is quite bad so if you are planning to come by train you have to get off at Parkano and walk for approximately 20 km to the park. Also make sure to protect yourself against mosquitoes since there are plenty of them in the park during the warm months.
 
