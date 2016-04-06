@@ -3,12 +3,9 @@ layout: post
 title: "Packrafting in the Weerribben-Wieden National Park"
 date: "2014-04-23 10:01:51 +0200"
 comments: true
-categories: destinations
 description: Packrafting in one of the Netherlands National Parks
-keywords: "Packrafting, Netherlands, Holland, National Park, Weerribben-Wieden, Outdoors"
-twitter_card: 
-  image: "https://farm3.staticflickr.com/2903/13975110902_2cb3fb1ba3_c.jpg"
-published: true
+category: destinations
+tags: [destinations, netherlands, packrafting, weerribben-wieden]
 ---
 
 Beginning of April we went to De Weerribben-Wieden National Park in the Netherlands for a hiking and packrafting session where we observed birds and encountered hail.
