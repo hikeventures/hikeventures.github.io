@@ -3,12 +3,9 @@ layout: post
 title: "Kinttupolulla"
 date: 2014-02-11 20:49:38 +0200
 comments: true
-author: Kinttupolulla Blog introduction
-categories: ['Guest Posts']
 description: Kinttupolulla
-keywords: Kinttupolulla, Hiking, outdoors
-twitter_card:
-    image: http://farm8.staticflickr.com/7335/12463347135_b168146bcf_c.jpg
+category: interviews
+tags: [interviews]
 ---
 <a href="http://kinttupolulla.blogspot.com" target="_blank">Kinttupolulla-blog</a> was born from love of nature, travels and sunshine. In the autumn 2012 I needed something to cheer up the darkening evenings in Finland and started blogging. I would like to spend the dark winters abroad in the sunlight, although I love Finnish summer really much. Ever since blogging has become an important hobby for me.
 
