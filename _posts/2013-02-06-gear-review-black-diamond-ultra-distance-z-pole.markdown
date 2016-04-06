@@ -4,10 +4,9 @@ title: Black Diamond Ultra Distance Z-Pole
 date: 2013-02-06 16:47
 comments: true
 published: true
-categories: gear
 description: Black Diamond Ultra Distance Z-Pole Review
-keywords: Black Diamond, Ultra Distance Z-Pole, gear, review, hiking, outdoors
-featured_image: https://farm9.staticflickr.com/8475/8373596834_f7923d2831_b.jpg
+category: reviews
+tags: [reviews, poles]
 ---
 If you are looking for really light hiking poles then you should give the Black Diamond Ultra Distance Z-Poles a try. They are super portable and light for the summer. Unfortuantely, they are not that suitable for winter activities as you can not attach snow baskets on them.
 
