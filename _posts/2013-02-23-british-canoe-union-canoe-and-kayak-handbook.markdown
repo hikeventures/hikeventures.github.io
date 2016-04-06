@@ -3,13 +3,10 @@ layout: post
 title: "British Canoe Union: Canoe and Kayak Handbook"
 date: "2013-02-23 14:27"
 comments: true
-author: Patrick
 published: true
-categories: Books
 description: Review of a Canoe and Kayak Handbook
-keywords: "British, Canoe, Union, Kayaking, Handbook, outdoors, book, review"
-twitter_card: 
-  image: "http://farm9.staticflickr.com/8384/8471772504_1e422d2f1d_c.jpg"
+category: reviews
+tags: [reviews, books]
 ---
 
 <a href="https://www.flickr.com/photos/90204224@N07/8471772504" title="Kayaking and Canoeing Book"><img src="https://farm9.staticflickr.com/8384/8471772504_80473b7f81_b.jpg" width="1024" height="683" alt="Kayaking and Canoeing Book"></a>
