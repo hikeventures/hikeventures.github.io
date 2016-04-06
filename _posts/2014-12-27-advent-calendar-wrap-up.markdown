@@ -3,11 +3,9 @@ layout: post
 title: "Advent Calendar 2014 wrap-up"
 date: 2014-12-27 10:50:09 +0200
 comments: true
-categories: ['giveaway']
 description: A short wrap-up about our advent calendar 2014
-keywords: advent, calendar, 2014, giveaway, win, gift
-twitter_card:
-    image: https://farm9.staticflickr.com/8363/8376253972_a773af10e2_b.jpg
+category: campaign
+tags: [campaign]
 ---
 Here comes a short wrap-up about our advent calendar 2014. This was our first advent calendar on our blog and it was really fun. We also would like to thank our sponsors for providing us their giveaways.<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/8376253972"><img src="https://farm9.staticflickr.com/8363/8376253972_a773af10e2_b.jpg" width="1024" height="683"></a><br><!--more--><br>
