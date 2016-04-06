@@ -3,11 +3,9 @@ layout: post
 title: Leatherman Style CS
 date: "2014-04-08 08:34:58 +0200"
 published: true
-categories: gear
 description: "Our Review for the Leatherman Style CS - outdoor tool"
-keywords: "Leatherman, Style CS, Gear Review, tool, Camping"
-twitter_card: 
-  image: "https://farm4.staticflickr.com/3704/13711116474_9dfd934edf_c.jpg"
+category: reviews
+tags: [reviews, leatherman, knives]
 ---
 
 For my hiking & packrafting trips I was looking for a tool which is light and packs small and I came across the Leatherman Style CS 2. Here comes a short review.
