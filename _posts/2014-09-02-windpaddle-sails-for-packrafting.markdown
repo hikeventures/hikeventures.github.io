@@ -3,12 +3,9 @@ layout: post
 title: WindPaddle Sails for Packrafting
 date: "2014-09-02 12:57:50 +0300"
 comments: true
-author: Patrick
-published: true
-categories: Gear Reviews
 description: More fun with your Packraft with a sail on it
-keywords: "WindPaddle, sail, packraft"
-twitter_card: "http://farm8.staticflickr.com/7362/9185822642_885736f24b_c.jpg"
+category: destinations
+tags: [reviews, windpaddle sail, packrafting]
 ---
 
 With my packraft I used to paddle a lot in rivers and lakes. I was paddling sometimes for hours and at some point I was thinking that it would be really cool to have a sail or some sort of engine on your packraft. <a href="https://www.flickr.com/photos/90204224@N07/14933402357" title="WindPaddle Sail"><img src="https://farm4.staticflickr.com/3905/14933402357_c12660d4e6_b.jpg" width="1024" height="683" alt="WindPaddle Sail"></a><!--more-->
