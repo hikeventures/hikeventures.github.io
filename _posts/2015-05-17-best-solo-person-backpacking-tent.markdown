@@ -3,9 +3,9 @@ layout: post
 title: The best solo person backpacking tent in 2016
 date: 2016-01-03 00:07:07 +0300
 comments: true
-categories: best
 description: Overview of the best solo person backpacking tent for 2016.
-keywords: Tent, Tents, Gear, Camping, Outdoors, Hiking, Packrafting, Backpacking, hilleberg
+category: articles
+tags: [articles, best, tents]
 ---
 In this article I would like to give an overview about the best solo person backpacking tents available for 2015 / 2016 (personal view). I focus on Hilleberg tents as I already owned 2 Hillebegs in the past. I also added a MSR tent (which MSR provided us for testing) as I found it a good alternative which costs less than most of the Hilleberg tents. It's also important to know that each tent is made for a specific purpose so there is no one tent fits all purposes tent. Also it's worth to consider that a 1-person tent can be more heavy than a 2-person tent if you would distribute the weight of the 2-person tent over each person.
 
