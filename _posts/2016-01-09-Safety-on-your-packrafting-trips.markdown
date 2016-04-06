@@ -2,11 +2,10 @@
 layout: post
 title: Safety on your Packrafting trips
 date: "2016-01-09 06:29:01 +0300"
-categories: articles
 published: true
 description: How to have a safe packrafting trip
-keywords: "Hiking, Packrafting, Outdoors, Backpacking, Scandinavia"
-featured_image: "https://farm2.staticflickr.com/1650/24188416291_90a7103ccd_b.jpg"
+category: articles
+tags: [articles, packrafting]
 ---
 
 On our packrafting trips we always follow 3 steps if we come across a rapid which we don’t know and where we are not able to see what lies ahead of us.
