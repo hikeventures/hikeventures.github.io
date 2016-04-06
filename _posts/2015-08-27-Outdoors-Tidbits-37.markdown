@@ -2,12 +2,10 @@
 layout: post
 title: Outdoors Tidbits 37
 date: 2015-08-27T15:22:27.000Z
-categories: tidbits
 published: true
 description: "The latest outdoor gear reviews, tips & tricks - Nr. 37"
-keywords: "Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews"
-twitter_card: 
-  image: "https://farm1.staticflickr.com/607/20744712289_c15b856998_b.jpg"
+category: tidbits
+tags: [tidbits]
 ---
 
 After returning from our trips in Sweden, Poland and Japan we need some time to reflect on our trips and our gear which we have tested. In September we are going to participate at the Finnish Packraft Gathering which will be at Helvetinjärvi National Park from 18.09. - 20.09.
