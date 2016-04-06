@@ -3,11 +3,9 @@ layout: post
 title: Best outdoor case for Macbook Pro 13  Retina in 2016
 date: "2015-04-16 16:15:35 +0300"
 comments: true
-categories: gear
 description: An interesting MacBook case for your outdoor activities.
-keywords: "macbook, apple, case, bag, Hiking, Packrafting, Outdoors, Gear Reviews"
-featured_image: "https://farm9.staticflickr.com/8749/17167532371_f36eb8b1f1_b.jpg"
-published: true
+category: articles
+tags: [articles, best, thule, macbook]
 ---
 
 Recently, I was looking for a new case for my Macbook Pro 13"  Retina which would be also suitable for light outdoor activities and came across the Thule Gauntlet 13" MacBook Attaché which I found one of the best outdoor case for the Macbook Pro in 2015 / 2016.
