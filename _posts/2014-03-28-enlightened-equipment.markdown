@@ -2,13 +2,9 @@
 layout: post
 title: Enlightened Equipment
 date: "2014-04-02 17:39:39 +0200"
-author: Enlightened Equipment
-categories: Guest Posts
 description: Introduction of Enlightened Equipment
-keywords: "backpacking, Outdoors, Hiking, Gear, Camping, Enlightened Equipment"
-twitter_card: 
-  image: "https://farm8.staticflickr.com/7075/13468978294_55b8fb0dc2_c.jpg"
-published: true
+category: interviews
+tags: [interviews]
 ---
 
 <a href="http://www.enlightenedequipment.com/" target="_blank">Enlightened equipment</a> is about making the lightest, warmest, and smartest sleeping insulation possible. We have been making quilts for years now and our constant evolution has lead us to the best possible quilt design at prices that are surprisingly low.
