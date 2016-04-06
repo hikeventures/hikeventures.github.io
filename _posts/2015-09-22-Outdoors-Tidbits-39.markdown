@@ -2,10 +2,10 @@
 layout: post
 title: Outdoors Tidbits 39
 date: "2015-09-22 018:27:01 +0300"
-categories: tidbits
 published: true
 description: "The latest outdoor gear reviews, tips & tricks - Nr. 39"
-keywords: "Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews"
+category: tidbits
+tags: [tidbits]
 ---
 
 
