@@ -6,7 +6,7 @@ comments: true
 title: Therm-a-Rest EvoLite Review
 description: "A review about the Therm-a-Rest Evolite sleeping pad which we have tested in Sweden and Japan"
 category: reviews
-tags: [reviews,Therm-a-Rest, sleeping pads]
+tags: [reviews,therm-a-rest, sleeping pads]
 ---
 
 
