@@ -3,13 +3,9 @@ layout: post
 title: "Clair &amp; Maurer: AMC guide to winter hiking and camping"
 date: "2013-12-04 23:26:13 +0200"
 comments: true
-author: Konstantin
-categories: Books
 description: A great book to learn winter hiking and camping
-keywords: "Clair, Maurer, AMC guide, winter, hiking, camping, Outdoors"
-twitter_card: 
-  image: "http://farm3.staticflickr.com/2847/11212388224_98e61e4e5c.jpg"
-published: true
+category: reviews
+tags: [reviews,]
 ---
 
 Written by a husband-and-wife team of authors, this book was published by Appalachian Mountain Club in 2009. On its almost 200 pages it covers a variety of topics, all of which are approached with the peculiarities of winter hiking and camping in mind. 
