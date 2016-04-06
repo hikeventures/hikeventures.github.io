@@ -3,11 +3,9 @@ layout: post
 title: "Thoughts on upgrading my Sony A7r to Sony A9"
 date: 2014-12-12 14:31:16 +0200
 published: true
-categories: ['Articles']
 description: Upgrading the A7r to A9 or not?
-keywords: A7r, A9, camera, sony, photography, upgrading
-twitter_card:
-    image: https://farm3.staticflickr.com/2829/11856929704_8283086780_o.jpg
+category: articles
+tags: [articles, blogging, camera, photography, sony, a7r, a9]
 ---
 After having used my Sony A7r for a year, I would say that I had quite a lot of fun with it. However, there were a few aspects which could be improved from my point of view and the rumoured Sony A9 reinforced me in my decision in selling my Sony A7r.<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/11856929704"><img src="https://farm3.staticflickr.com/2829/11856929704_8283086780_o.jpg" width="1024" height="699"></a>
