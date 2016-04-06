@@ -4,9 +4,9 @@ title: The 5 Best Fleece Jackets for 2016
 date: 2015-03-04 17:20:20 +0200
 comments: true
 published: true
-categories: best
 description: Top 5 of the best fleece jackets 2015 for your next outdoor adventure
-keywords: fleece, jacket, 2016, Gear, Hiking, Climbing, Packrafting, insulation, outdoors, layering
+category: articles
+tags: [articles, best, jackets]
 ---
 A fleece jacket is a great garment which can be used as a mid-layer to keep you warm while you are active (climbing, hiking, skiing or biking) and here comes our buying guide of the best fleece jackets for men in 2016. Most of the manufacturers do also offer an equivalent female model.
 
