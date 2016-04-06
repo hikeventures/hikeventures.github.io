@@ -3,12 +3,9 @@ layout: post
 title: Interview with Haglöfs
 date: "2015-03-10 19:31:36 +0200"
 comments: true
-categories: interviews
-published: true
 description: Our interview with outdoor fashion and gear manufacturer Haglöfs.
-keywords: "haglöfs, Outdoors, hiking, backpacking, camping"
-twitter_card: 
-  image: "https://farm9.staticflickr.com/8615/16399657708_96629b7435_b.jpg"
+category: interviews
+tags: [interviews, haglöfs]
 ---
 
 Here comes our next interview with the Swedish Outdoor Gear manufacturer <a href="http://www.haglofs.com" target="_blank">Haglöfs</a> about their products and their company.<br><br>
