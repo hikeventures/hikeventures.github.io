@@ -4,7 +4,7 @@ title: "ISPO 2016 - Product Highlights"
 date: "2016-02-04 15:28:01 +0300"
 comments: true
 category: articles
-tags: [articles, ISPO]
+tags: [articles, ispo]
 description: Interviews with major outdoor brands about their product highlights at the ISPO 2016 in Munich.
 published: true
 ---
