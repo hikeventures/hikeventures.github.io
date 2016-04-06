@@ -3,13 +3,9 @@ layout: post
 title: Hyperlite Mountain Gear
 date: "2014-03-30 08:18:00 +0200"
 comments: true
-published: true
-author: Hyperlite Mountain Gear
-categories: Guest Posts
 description: "Hyperlite Mountain Gear - Ultralight Backpacks"
-keywords: "Hyperlite Mountain Gear, HMG, Gear, Hiking, Climbing, Packrafting, Skiing"
-twitter_card: 
-  image: "https://farm8.staticflickr.com/7050/13443837544_874a4b8c07_c.jpg"
+category: interviews
+tags: [interviews]
 ---
 
 
