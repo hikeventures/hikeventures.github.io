@@ -3,10 +3,10 @@ layout: post
 title: Water repellent down jackets Overview 2013
 date: 2013-03-03 19:03
 comments: true
-author: Patrick
-categories: articles
+published: false
 description: An overview about Windshell Jackets and Shirts
-keywords: water, repellent, down, Jackets, gear, hiking, outdoors
+category: articles
+tags: [articles, jackets, best]
 ---
 Water-repellent down jackets are new hot products which will appear more and more during this year on the market. The advantage of water-repellent down is that it dries faster and also insulates better when it's wet. Here are the first models. I will update this list during the year.The jackets are sorted according to weight.<!--more-->
 
