@@ -3,12 +3,10 @@ layout: post
 title: Cumulus Panyam 450
 date: "2014-04-20 12:13:17 +0300"
 comments: true
-categories: Gear Reviews
 description: "Cumulus Panyam 450 - Great 3 Season Sleeping Bag"
-keywords: "Packrafting, Gear Review, Sleeping Bag, 3-season, Camping, Hiking, outdoors"
-twitter_card: 
-  image: "https://farm8.staticflickr.com/7087/13946402053_2e2b43b24b_c.jpg"
-published: true
+category: reviews
+tags: [reviews, sleeping bags, cumulus]
+
 ---
 
 Looking for a warm high quality down sleeping bag for 4-season hiking, backpackgin, camping or other outdoor activities? The Cumulus Panyam 450 sleeping bag has been our choice for our trips to northern Sweden in autumn. Cumulus manufactures their sleeping bags in Poland and I found the price / value ratio of their sleeping bags much better than of those other big outdoor brands.
