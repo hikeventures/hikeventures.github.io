@@ -6,7 +6,7 @@ comments: true
 description: Exploring culture in Poznan and Slesia.
 keywords: "Poland, Slesia, Wrocław, Warsaw, castle, tourism, travel"
 category: destinations
-tags: [destinations, poznan, poland, Wrocław, Jawor, Wałbrzych]
+tags: [destinations, poznan, poland, wrocław, jawor, wałbrzych]
 ---
 
 This week we have been to Poland where we visited Poznan, Wrocław and Castle Książ in Wałbrzych to do a bit of sightseeing and to explore the Polish culture.
