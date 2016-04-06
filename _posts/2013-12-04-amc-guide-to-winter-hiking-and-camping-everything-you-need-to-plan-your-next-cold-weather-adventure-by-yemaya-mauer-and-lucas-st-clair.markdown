@@ -5,7 +5,7 @@ date: "2013-12-04 23:26:13 +0200"
 comments: true
 description: A great book to learn winter hiking and camping
 category: reviews
-tags: [reviews,]
+tags: [reviews, books]
 ---
 
 Written by a husband-and-wife team of authors, this book was published by Appalachian Mountain Club in 2009. On its almost 200 pages it covers a variety of topics, all of which are approached with the peculiarities of winter hiking and camping in mind. 
