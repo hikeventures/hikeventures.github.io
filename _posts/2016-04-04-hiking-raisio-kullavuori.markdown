@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hiking in Raisio - Kullavuori
+title: Hiking in Raisio Kullavuori
 date: 2016-04-04 06:31  +0300
 comments: true
 category: destinations
