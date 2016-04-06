@@ -2,12 +2,9 @@
 layout: post
 title: "The Wave of Arizona"
 date: 2014-03-29 09:16:01 +0200
-author: Fran
-categories: ['Guest Posts']
+category: interviews
+tags: [interviews]
 description: The Wave of Arizona - Photography
-keywords: backpacking, Outdoors, Hiking, The wave, Arizona, Photography
-twitter_card:
-    image: https://farm3.staticflickr.com/2938/13443284335_9b154c7eb6_c.jpg
 ---
 Last fall Fran Reisner, of <a href="http://journeyinfocus.com" target="_blank">Journey in Focus</a>, traveled to Kanab Utah with hopes of obtaining a coveted permit to hike The Wave. After four daily trips to the BLM office she finally... gleefully... walked out with a permit in hand.
 
