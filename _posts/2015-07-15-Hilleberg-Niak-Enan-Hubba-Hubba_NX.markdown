@@ -4,12 +4,9 @@ title: Hilleberg Niak 1.5 vs. Enan vs. Hubba Hubba NX
 date: "2015-07-15 17:51:07 +0300"
 comments: true
 published: true
-categories: 
-  - articles
 description: Considerations for a 3 season backpacking tent
-keywords: "hilleberg, msr, enan, NX, Niak , Gear, Camping, Outdoors, Hiking, Packrafting, Backpacking"
-twitter_card: 
-  image: "https://farm1.staticflickr.com/407/18948498964_e22e5df5de_o.jpg"
+category: articles
+tags: [articles, tents]
 ---
 
 
