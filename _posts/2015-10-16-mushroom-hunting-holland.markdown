@@ -2,10 +2,10 @@
 layout: post
 title: "Mushroom hunting in Steenwijk - Holland"
 date: 2015-10-16 005:44:01 +0300
-categories: ['destinations']
 published: true
 description: Hunting mushrooms on a nice autumn day in the Netherlands
-keywords: hiking, mushrooms, Outdoors
+category: destinations
+tags: [destinations, holland, hiking, steenwijk]
 ---
 Here are some pictures from last week's forest walk in Steenwijk, Netherlands.
 
