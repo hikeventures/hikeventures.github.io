@@ -3,7 +3,6 @@ layout: post
 title: "Video: Hiking and Packrafting in Poland"
 date: 2015-08-16 08:45:07 +0300
 comments: true
-categories: ['destinations']
 description: Hiking and Packrafting in Poland Video
 category: videos
 tags: [videos, packrafting, hiking, poland]
