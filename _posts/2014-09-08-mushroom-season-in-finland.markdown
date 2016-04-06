@@ -2,13 +2,10 @@
 layout: post
 title: "Mushroom season in Finland"
 date: 2014-09-08 16:52:26 +0300
-author: Patrick
 comments: true
-categories: ['Articles']
 description: Do you like Mushrooms? In Finland you can find them
-keywords: mushrooms, suomi, finland, nature, forest
-twitter_card:
-    image: https://farm4.staticflickr.com/3915/15178792975_90c97d3927_c.jpg
+category: articles
+tags: [articles, mushrooms, finland, hiking]
 ---
 It is autumn in Finland and the forests are full of mushrooms. Come and discover with me some mushrooms in Southern Finland. Your task on this adventure is to identify those mushrooms.
 <a href="https://www.flickr.com/photos/90204224@N07/15002036450" title="Mushrooms in Finland by HikeVentures, on Flickr"><img src="https://farm4.staticflickr.com/3846/15002036450_e92659f910_b.jpg" width="1024" height="683" alt="Mushrooms in Finland"></a><!--more-->This seems to be a mushroom family. My guess is that these are honey mushrooms. 
