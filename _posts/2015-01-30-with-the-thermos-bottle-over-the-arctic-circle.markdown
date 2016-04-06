@@ -3,13 +3,9 @@ layout: post
 title: With the Thermos Bottle over the Arctic Circle
 date: "2015-01-30 09:32:09 +0200"
 comments: true
-categories: 
-  - Gear Reviews
 description: We tested a Thermos bottle on the Fells of Lapland.
-keywords: "snowshoeing, thermos, thermos bottle, Gear Reviews, Hiking, skiing"
-twitter_card: 
-  image: "https://farm8.staticflickr.com/7336/15778412854_2310ed0fdb_b.jpg"
-published: true
+category: reviews
+tags: [reviews, kitchen, thermos]
 ---
 
 I use an insulated lightweight Thermos Bottle to carry some warm tea or coffee with me which I can enjoy during my breaks while I go for hiking, backpacking, snowshoeing or snowshoeing. Usually, I take a Thermos Bottle with me if my trips are rather short so there is no need for me to take a <a href="http://www.hikeventures.com/best-backpacking-stoves">camping stove</a> and a gas canister with me which also saves some weight. This week we went to Finnish Lapland with our Thermos bottle which we received for testing purposes. In general we were quite happy to have warm tea with us spending the whole day outside with temperatures on average around -10 C and cold wind during the day.
