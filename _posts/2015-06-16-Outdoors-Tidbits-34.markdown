@@ -4,10 +4,8 @@ title: Outdoors Tidbits 34
 date: 2015-06-16T08:22:51.000Z
 categories: tidbits
 description: "The best blog articles about hiking, backpacking and packrafting 34"
-keywords: "Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews"
-twitter_card: 
-  image: "https://c2.staticflickr.com/6/5479/9596226393_34ba3b93fb_b.jpg"
-published: true
+category: tidbits
+tags: [tidbits]
 ---
 
 This week has been quite busy for us, planning and arranging things for our upcoming trips in the next 2 months. In July we are going to have some adventures in Poland. Konstantin will then continue with a 3 weeks packrafting and hiking adventure in Japan. Once back from Japan we will participate in the Fjällräven Classic event in Sweden in August followed by a couple of days packrafting in the Swedish mountains most likely together with the <a href="http://deliveranceteam.outdrr.com">The Deliverance Team</a> and <a href="http://urbanpackrafter.com">Urbanpackrafter</a>.
