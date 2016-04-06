@@ -4,9 +4,9 @@ title: Turku Winter Wonderland at the Archipelago Sea
 date: 2016-01-18 06:00:19 +0300
 comments: true
 published: true
-categories: destinations
 description: A winter hike in Ruissalo Turku
-keywords: Hiking, Outdoors, Finland, Turku, Ruissalo
+category: destinations
+tags: [destinations, archipelago, turku, finland]
 ---
 Last weekend we got plenty of snow in Turku and I seized the opportunity to rush out with my camera to take some pictures. First I went to the city centre but then decided to drive to Ruissalo which is also a cool place during the summer time. 
 
