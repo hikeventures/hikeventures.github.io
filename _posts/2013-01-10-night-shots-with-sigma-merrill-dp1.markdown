@@ -2,12 +2,9 @@
 layout: post
 title: Night shots with Sigma Merrill DP1
 date: 2013-01-10 23:10
-author: Patrick
-published: true
-categories: articles
 description: Photography in the night with the Sigma Merrill DP1
-keywords: Night shots, Sigma, Merrill, DP1, photography
-featured_image: https://farm9.staticflickr.com/8515/8368721106_191f5527d0_b.jpg
+category: reviews
+tags: [reviews, sigma, camera, photography]
 ---
 Today, I wanted to test the performance of my Sigma Merrill DP1 in night condition here in Vaasa. The pictures below are taken with ISO100 and are crops. I also used a tripod. There are also rumours in the Internet that the battery just lasts 7 shots or so in cold conditions. I took around 15 pictures and the battery was not empty at all. Temperature was about -3C. Maybe I was just lucky with my batteries :)
 
