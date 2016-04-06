@@ -2,12 +2,9 @@
 layout: post
 title: Sigma Merrill DP1
 date: 2013-01-06 20:43
-author: Patrick
-published: true
-categories: gear
 description: A Sigma Merrill DP1 Camera Review
-keywords: Sigma, Merrill, DP1, photography, gear, review
-featured_image: http://farm9.staticflickr.com/8184/8353025530_b4c2e2571a_c.jpg
+category: reviews
+tags: [reviews, photography, camera, sigma]
 ---
 I just returned from Helsinki and want to share my first pictures with you which I took with my new Sigma Merrill DP1. 
 
