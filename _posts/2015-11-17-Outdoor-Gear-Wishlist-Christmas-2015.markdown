@@ -2,11 +2,11 @@
 layout: post
 title: "Outdoor Gear Ideas - Wishlist for Christmas 2015"
 date: "2015-11-17 007:30:01 +0300"
-categories: articles
 published: true
 description: My outdoor gear wishlist for Christmas 2015
-keywords: "hiking, Packrafting, Outdoors, Gear, gear list, christmas, wishlist"
-featured_image: "https://farm9.staticflickr.com/8665/16347592097_6e5522914d_b.jpg"
+category: articles
+tags: [articles, christmas]
+
 ---
 
 Christmas 2015 is just around the corner and I decided to share with you my outdoor gear ideas on my christmas wishlist for 2015 and which I intend to use on my next hiking, snowshoing or packrafting adventures (in case I would get the items).
