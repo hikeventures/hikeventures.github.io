@@ -3,13 +3,9 @@ layout: post
 title: "My three favourite hiking items"
 date: 2013-01-22 17:52
 comments: true
-author: Patrick
-published: true
-categories: ['Articles']
 description: Three items I take with me when I go hiking
-keywords: gear, hiking, outdoors
-twitter_card:
-    image: https://farm9.staticflickr.com/8043/8372530877_0de9aef5b2_b.jpg
+category: articles
+tags: [articles, hiking]
 ---
 <a href="https://www.flickr.com/photos/90204224@N07/8372530877" title="Victorinox Swiss Knife"><img src="https://farm9.staticflickr.com/8043/8372530877_0de9aef5b2_b.jpg" width="683" height="1024" alt="Victorinox Swiss Knife"></a><br>
 
