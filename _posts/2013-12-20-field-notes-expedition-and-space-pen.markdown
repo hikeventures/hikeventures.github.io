@@ -3,12 +3,9 @@ layout: post
 title: "How to document your hiking trip?"
 date: "2013-12-20 18:50:22 +0200"
 comments: true
-categories: Gear Reviews
 description: Maybe the best hiking gear for writers and journalists
-keywords: "Gear Review, Field Notes Expedition and Space Pen, Outdoors, Hiking"
-twitter_card: 
-  image: "http://farm4.staticflickr.com/3827/11544807355_5275cd0040_c.jpg"
-published: true
+category: reviews
+tags: [reviews, field notes, blogging]
 ---
 
 
