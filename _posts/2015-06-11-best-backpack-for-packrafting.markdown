@@ -3,9 +3,8 @@ layout: post
 title: Best Backpack for Packrafting
 date: 2016-01-03 22:16:01 +0200
 comments: true
-categories: best
-description: Looking for a backpack for your next packrafting adventure?
-keywords: Gear, Hiking, Packrafting, backpack
+category: articles
+tags: [articles, best, backpack, packrafting]
 ---
 Having used the HMG Porter 4400 for the last 2 years for my packrafting activities, I was interested to see what other backpacks there are currently on the market which are suitable for packrafting. My current backpack is made of Cuben Fiber. However, I would be interested to try out a backpack where the body of the backpack is a removable dry bag. In case I would get a puncture into my backpack I could easily replace the dry bag. This would be a cheaper and maybe more environmentally friendly solution in the long run.
 
