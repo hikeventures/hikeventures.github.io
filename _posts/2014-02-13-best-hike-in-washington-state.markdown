@@ -3,12 +3,9 @@ layout: post
 title: "Best hike in Washington State"
 date: 2014-02-13 06:51:16 +0200
 comments: true
-author: M.K. Leech Photography
-categories: ['Guest Posts']
 description: Hiking and Photography in Washington State
-keywords: Washington State, Hiking, photography
-twitter_card:
-    image: http://farm6.staticflickr.com/5522/12493303774_98a51ff83f_c.jpg
+category: interviews
+tags: [interviews]
 ---
 I enjoy long walks in the woods and sleeping on thinly insulated pads. And pictures.  I love taking pictures. I live in Washington State, USA. It is a beautiful place to live and explore.  
 
