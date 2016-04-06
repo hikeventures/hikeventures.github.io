@@ -2,12 +2,9 @@
 layout: post
 title: "Brazos Walking Sticks"
 date: 2014-02-21 22:39:35 +0200
-author: Brazos Walking Sticks
-categories: ['Guest Posts']
 description: Introducing Brazos Walking Sticks for your next hiking adventure
-keywords: Brazos Walking Sticks, Hiking, outdoors
-twitter_card:
-    image: https://v4s.yimg.com/sm/5503/12682816954_336ff888cd_c.jpg
+category: interviews
+tags: [interviews]
 ---
 Brazos Walking Sticks is a family operated and located in the beautiful Brazos River Valley area of central Texas. We have been producing high-quality, handcrafted walking sticks and canes for the better part of two decades.<br><br>
 <a href="http://www.flickr.com/photos/90204224@N07/12682816954/" title="Brazos Walking Sticks"><img src="https://v4s.yimg.com/sm/5503/12682816954_336ff888cd_c.jpg" width="800" height="527" alt="brazo2"></a>
