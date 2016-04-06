@@ -3,11 +3,10 @@ layout: post
 title: "Ideas for planning an outdoor trip in Poland"
 date: 2015-12-06 20:00:00 +0300
 comments: true
-categories: ['destinations']
 description: Planning a trip to Poland? Here are some outdoor activities ideas
-keywords: Poland, outdoors, ideas, activities
-twitter_card:
-    image: https://farm6.staticflickr.com/5634/23267573790_1da84da3e2_b.jpg
+category: articles
+tags: [articles, poland]
+
 ---
 As every year, this October we decided to bid farewell to autumn in our traditional way - by hunting for mushrooms. This time, however, we also combined it with staying for three nights in a guest house, a day cycling trip and two short forest hikes - a few ideas if you are planning an outdoor trip in Poland.
 <br><br>
