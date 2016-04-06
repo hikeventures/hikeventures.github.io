@@ -4,11 +4,9 @@ title: "Advent Calendar: Giveaway 3"
 date: "2014-12-05 08:05:42 +0200"
 comments: true
 published: true
-categories: giveaway
 description: Victorinox Cadet 5 Colors
-keywords: "victorinox, knife, outdoors, raffle, sweep, adventcalendar"
-twitter_card: 
-  image: "https://farm9.staticflickr.com/8623/15740288398_878977a906_b.jpg"
+category: campaigns
+tags: [campaigns]
 ---
 
 Having a good tool on the trail is almost as essential as having a backpack. However, such a tool should be lightweight, multi-functional and durable. And that's where the <a href="http://www.victorinox.com" target="_blank">Victorinox</a> Cadet 5 Colors comes in - a high quality Swiss engineered tool with 8 functions, a high-quality unvarnished cow-hide wallet and a good grip in your hands.
