@@ -3,14 +3,9 @@ layout: post
 title: The Last Adventurer
 date: "2014-02-13 07:00:16 +0200"
 comments: true
-author: The Last Adventurer
-categories: Guest Posts
-toc: true
 description: Introduction to The Last Adventurer blog
-keywords: "The Last Adventurer, blog"
-twitter_card: 
-  image: "http://farm8.staticflickr.com/7459/12492938765_579a0df475_c.jpg"
-published: true
+category: interviews
+tags: [interviews]
 ---
 
 My blog is about mountaineering, backpacking, and hiking, mostly in the United States, but in some international locations as well.
