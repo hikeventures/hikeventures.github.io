@@ -4,11 +4,9 @@ title: "Sony A7r ISO 50 - RAW - Night"
 date: 2013-11-25 22:41:27 +0200
 comments: true
 author: Patrick
-categories: ['Articles']
 description: Testing the Sony A7r ISO 50 at night
-keywords: Sony, A7r, ISO 50, RAW, Night, Photography
-twitter_card:
-    image: http://farm9.staticflickr.com/8070/8198008360_ececd25d8e_c.jpg
+category: blogging
+tags: [blogging, sony, a7r, camera]
 ---
 This is one of my first shots with the Sony A7r full-frame on ISO50. The stars are a bit blurred, however this is caused by the natural movement of our planet (you may click on the picture to see it in full size).
 
