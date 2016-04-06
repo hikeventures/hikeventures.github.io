@@ -3,12 +3,9 @@ layout: post
 title: "Inov-8 Roclite 295"
 date: "2013-03-21 17:53"
 comments: true
-categories: Gear Reviews
 description: "Inov-8 Roclite 295, Gear Review"
-keywords: "Inov-8 Roclite 295, Gear Reviews, hiking, outdoors, ultralight"
-twitter_card: 
-  image: "https://farm9.staticflickr.com/8522/8571446825_e8ed0fc70f_b.jpg"
-published: true
+category: reviews
+tags: [reviews, shoes]
 ---
 
 Are you looking for trail runners or lightweight hiking boots for your next hiking, backpacking or other backcountry trips? Then you could have a look on this short review about the Inov-8 Roclite 295. They might be not supportive like real hiking boots but if you are more towards ultralight hiking then trail runners (also called crossfit or cross training shoes) could be an interesting alternative depending on where you are planning to go.
