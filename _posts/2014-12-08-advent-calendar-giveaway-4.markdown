@@ -4,11 +4,9 @@ title: "Advent Calendar: Giveaway 4"
 date: 2014-12-08 22:38:21 +0200
 comments: true
 published: true
-categories: giveaway
 description: Thule Camera Bag for GoPro cameras
-keywords: thule, camera, bag, case, raffle, adventcalendar
-twitter_card:
-    image: https://farm8.staticflickr.com/7490/15952674596_d347bf8586_o.jpg
+category: campaigns
+tags: [campaigns]
 ---
 Having a GoPro camera is great. With all the multitude of various mounts and cases, you have seemingly endless possibilities to mix and match these ingredients to achieve a perfect combination that  suits your current filming conditions best. <br><br>
 
