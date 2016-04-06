@@ -3,11 +3,9 @@ layout: post
 title: "Advent Calendar: Giveaway 7"
 date: 2014-12-22 00:40:09 +0200
 comments: true
-categories: giveaway
 description: Thule Camera backack
-keywords: thule, backpack, camera, case, bag, backpack
-twitter_card:
-    image: https://farm8.staticflickr.com/7522/15391843303_551ab6e4dd_b.jpg
+category: campaigns
+tags: [campaigns]
 ---
 This time you have the chance to win a <a href="http://www.thule.com/en/fi/products/sleeves-and-cases/camera-bags-and-cases/camera-backpacks/thule-perspektiv-daypack-_-tl_85854227940_v2" target="_blank">Thule Perspektiv Daypack</a>.  Take your camera gear safely even to remote places. 
 <br><br>
