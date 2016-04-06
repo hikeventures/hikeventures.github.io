@@ -2,13 +2,10 @@
 layout: post
 title: Retkipaikka
 date: "2014-04-3 17:28:03 +0200"
-author: Retkipaikka
-categories: Guest Posts
+category: interviews
+tags: [interviews]
 description: Retkipaikka
-keywords: "backpacking, Outdoors, Hiking, Retkipaikka, camping"
-twitter_card: 
-  image: "https://farm4.staticflickr.com/3830/13451986043_93bc4ca8e3_c.jpg"
-published: true
+
 ---
 
 I came up first time with the idea of Retkipaikka blog about five years ago. It took three years to start it, but finally in February 2012 it was running. First it was supposed to be a place to share the hints of interesting places in nature I went, but pretty soon my brother and cousin joined the team.
