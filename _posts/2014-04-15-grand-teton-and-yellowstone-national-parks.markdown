@@ -5,7 +5,7 @@ date: 2014-04-15 20:07:35 +0300
 comments: true
 description: Adventures in the US National Parks
 category: destinations
-tags: [destinations, USA, yellowstone, grand teton]
+tags: [destinations, usa, yellowstone, grand teton]
 ---
 Last summer (July 2013) Fran Reisner of <a href="http://journeyinfocus.com" target="_blank">Journey in Focus</a> found herself drawn back to Grand Teton and Yellowstone National Parks for the third time since embarking on her journey two-and-a-half years ago. "The diversity of landscape and wildlife found in these two parks is remarkable, and truly irresistible to me" she says.
 
