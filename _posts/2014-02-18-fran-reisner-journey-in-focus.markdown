@@ -2,12 +2,9 @@
 layout: post
 title: "Fran Reisner - Journey in Focus"
 date: 2014-02-18 22:25:33 +0200
-author: Fran
-categories: ['Guest Posts']
 description: Fran Reisner Blog - Journey in Focus
-keywords: Fran Reisner, Journey in Focus, Hiking, outdoors, photography
-twitter_card:
-    image: http://farm4.staticflickr.com/3771/12619485515_7dd94427ff_o.jpg
+category: interviews
+tags: [interviews]
 ---
 In 2011 Fran Reisner, an international award winning photographer and speaker, embarked on an adventure that many dream about but few see to fruition when she sold her home, her portrait studio, and most of her possessions to purchase a motorhome and travel the country. Her goals were simple; to simplify life, enjoy traveling without strings, and pursue her love of photography and passion for life in a fresh new way.
 
