@@ -6,7 +6,7 @@ comments: true
 categories: best
 description: "Need power for your outdoor adventure? Take a USB battery with you."
 category: articles
-tags: [articles, batteries]
+tags: [articles, batteries, best]
 ---
 
 On our hiking and backpacking trips we need a lot of energy to power our USB devices such as our GoPro Hero camera, Suunto Ambit3, iPhones and iPads or headlamps. For a multi-day trip where we have no access to a power socket we solely rely on a portable USB battery to charge our devices. We are also lately experimenting with a solar panel and we will publish our findings on our blog latest by the end of the year.
