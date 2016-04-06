@@ -2,11 +2,10 @@
 layout: post
 title: Outdoors Tidbits 43
 date: "2016-01-03 19:29:01 +0300"
-categories: tidbits
 published: true
 description: "The latest outdoor gear reviews, tips & tricks - Nr. 43 -"
-keywords: "Tidbits, Hiking, Packrafting, Outdoors, Gear Reviews"
-featured_image: "https://farm2.staticflickr.com/1506/23321583314_a26354a959_b.jpg"
+category: tidbits
+tags: [tidbits]
 ---
 
 *Did you know that King Tutankhamen’s sarcophagus was uncovered near Luxor in Egypt on January 3rd, 1924?*
