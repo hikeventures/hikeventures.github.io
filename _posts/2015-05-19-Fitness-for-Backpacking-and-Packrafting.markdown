@@ -3,12 +3,9 @@ layout: post
 title: "Fitness for Backpacking and Packrafting"
 date: 2015-05-19 01:47:07 +0300
 comments: true
-categories: ['Articles']
 description: How I keep myself fit for backpacking and packrafting
-author: Patrick
-keywords: Outdoors, fitness, hiking, packrafting, Backpacking
-twitter_card:
-    image: https://c2.staticflickr.com/6/5349/17648754398_462b77909d_b.jpg
+category: articles
+tags: [articles, fitness]
 ---
 For every sport or activity where you move more than usual it's good to have regular exercise to keep your muscles trained. Having a good fitness will help you to backpack and packraft longer or more relaxed. 
 <a href="https://www.flickr.com/photos/90204224@N07/17648754398" title="Running"><img src="https://c2.staticflickr.com/6/5349/17648754398_462b77909d_b.jpg" width="1024" height="665" alt="Running"></a>
