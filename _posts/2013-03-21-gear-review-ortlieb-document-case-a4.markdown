@@ -3,12 +3,9 @@ layout: post
 title: Ortlieb Document Case
 date: "2013-03-21 18:48"
 comments: true
-categories: Gear Reviews
 description: Ortlieb Document Case Review
-keywords: "Ortlieb, Document Case, Gear Reviews,hiking, outdoors, camping"
-twitter_card: 
-  image: "http://farm9.staticflickr.com/8104/8577036409_b8bd345891_c.jpg"
-published: true
+category: reviews
+tags: [reviews, bags, ortlieb, maps]
 ---
 
 When you go hiking, backpacking, packrafting or plan any other activities in the backcountry then it's good to have a document case with you to protect your paper map. In this case the Ortlieb Document Case A4 is my map case to go and here is a short review. Before I had a Hagl&#1255;fs mapcase but the Ortlieb seems to be lighter. Beside the map you can also store other small items in the document case e.g. a small compass or brochures.
