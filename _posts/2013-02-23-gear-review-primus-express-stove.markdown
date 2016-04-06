@@ -3,11 +3,9 @@ layout: post
 title: Primus Express Stove
 date: 2013-02-23 15:10
 comments: true
-author: Patrick
-categories: gear
 description: Primus Express Stove Review
-keywords: Primus, Express Stove, hiking, outdoors, gear, review
-featured_image: http://farm9.staticflickr.com/8329/8372540157_00cee24602_c.jpg
+category: reviews
+tags: [reviews, primus, stove]
 ---
 <a href="https://www.flickr.com/photos/90204224@N07/8372540157" title="Primus Express Stove"><img src="https://farm9.staticflickr.com/8329/8372540157_94d5f4fca6_b.jpg" width="683" height="1024" alt="Primus Express Stove"></a><!--more-->
 
