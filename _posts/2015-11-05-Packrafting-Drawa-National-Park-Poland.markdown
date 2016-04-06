@@ -2,9 +2,9 @@
 layout: post
 title: "Packrafting the Drawa River in Poland"
 date: 2015-11-05 006:20:07 +0300
-categories: ['destinations']
 description: Our packrafting adventure in Poland
-keywords: Packrafting, Poland, Camping, Outdoors, Hiking, Packrafting, Backpacking
+category: destinations
+tags: [destinations, poland, packrafting]
 ---
 This summer after my return from Sweden, Marta and I went away for a couple of days and stayed in the neighbourhood of the Drawa National park (as we actually needed a licence to packraft in the Drawa National Park). During the stay we managed to go paddling twice - once on a lake (this video) and another time on the Drawa river itself. It was a warm windless evening, with a glorious sunset. Usually I am not so fond of lakes, but this time it was definitely an exception.
 <br><br>
