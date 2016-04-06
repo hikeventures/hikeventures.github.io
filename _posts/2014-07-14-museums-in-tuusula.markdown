@@ -3,12 +3,9 @@ layout: post
 title: Museums in Tuusula
 date: "2014-07-14 07:14:54 +0300"
 comments: true
-categories: destinations
 description: Bicycle adventure around lake Tuusula and learning about Finnish culture
-keywords: "Finland, Tuusula, Bicycling, Museum, outdoors, Culture"
-twitter_card: 
-  image: "https://farm3.staticflickr.com/2915/14623880836_d06811e68f_b.jpg"
-published: true
+category: destinations
+tags: [destinations, tuusula, finland, museums]
 ---
 
 This weekend I took my bicycle and cycled 25 km around lake Tuusula. The route is famous for its <a href="http://www.tuusulanrantatie.fi" target="_blank">'Rantatie'</a> where many Finnish artists lived in the 19th century and influenced Finnish culture.
