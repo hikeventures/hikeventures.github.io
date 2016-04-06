@@ -24,7 +24,7 @@ to the `site_tags` variable. -->
     </li>
   {% endunless %}{% endfor %}
 </ul>
-
+<br>
 <!-- Posts by Tag -->
 <div>
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
