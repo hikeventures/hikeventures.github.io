@@ -2,12 +2,9 @@
 layout: post
 title: Outdoors Tidbits 7
 date: "2014-09-27 06:18:04 +0300"
-categories: tidbits
 description: "The latest outdoor gear reviews, tips & tricks - Nr. 7"
-keywords: "Tidbits, Hiking, Packrafting, Outdoors, Photography, Gear Reviews"
-twitter_card: 
-  image: "https://farm9.staticflickr.com/8350/8198552930_97346916a8_c.jpg"
-published: true
+category: tidbits
+tags: [tidbits]
 ---
 
 We are currently working on a new logo for our blog. The <a href="http://korpijaakko.com/2014/08/27/the-first-finnish-packrafting-gathering/" target="_blank">first Finnish Packrafting Gathering</a> is getting closer and don't miss to join the Packrafting in Finland <a href="https://www.facebook.com/groups/851417628210793" target="_blank">Facebook Group</a>. On <a href="http://www.avantlink.com/click.php?tt=ml&amp;ti=313709&amp;pw=150351" target="_blank">Campsaver</a> you can receive 15% off your first order when you sign up for their newsletter. On Backcountry.com you can receive up to 50% off on their outlet products by using <a href="http://www.avantlink.com/click.php?tt=ml&amp;ti=373783&amp;pw=150351"> code: 50BUMP</a>.<a href="https://www.flickr.com/photos/90204224@N07/8198552930" title="Repovesi National Park" target="_blank"><img src="https://farm9.staticflickr.com/8350/8198552930_97346916a8_c.jpg" width="800" height="534" alt="Repovesi National Park in Finland"></a><!--more-->
