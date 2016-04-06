@@ -3,11 +3,9 @@ layout: post
 title: "Outdoors Tidbits 21"
 date: 2014-12-25 08:42:33 +0200
 comments: true
-categories: tidbits
 description: The latest outdoor gear reviews, tips & tricks - Nr. 21 - #outdoorstidbits
-keywords: Tidbits, Hiking, Packrafting, Outdoors, Photography, Gear Reviews
-twitter_card:
-    image: https://farm9.staticflickr.com/8270/15581097668_e291c7f81f_c.jpg
+category: tidbits
+tags: [tidbits]
 ---
 Patrick had a great morning porridge in Finland where temperatures have dropped to freezing -13C. However, it's still quite nice to go for a walk outside and enjoy the white winter wonderland. Konstantin is in Poland again working on a review and we have finally some time to discuss our Lapland trip in more detail during the holiday season. 
 <br><br>
