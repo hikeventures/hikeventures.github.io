@@ -3,12 +3,10 @@ layout: post
 title: "Interview with Devold"
 date: 2015-02-23 17:57:20 +0200
 comments: true
-categories: interviews
 published: true
 description: Our interview with Devold of Norway.
-keywords: Devold, Packrafting, Outdoors, hiking, backpacking, camping, wool, Norway, Norwegian wool
-twitter_card:
-    image: https://farm8.staticflickr.com/7417/16570851692_d2e7f6d024_b.jpg
+category: interviews
+tags: [interviews, devold]
 ---
 When we think of Norwegian wool, we think of <a href="http://www.devold.com" target="_blank">Devold</a> and have interviewed Devold concerning the company and their products.  <br><br><a href="https://www.flickr.com/photos/90204224@N07/16570851692" title="Devold.com by HikeVentures, on Flickr"><img src="https://farm8.staticflickr.com/7417/16570851692_d2e7f6d024_b.jpg" width="1024" height="681" alt="Devold.com"></a><br><!--more-->
 
