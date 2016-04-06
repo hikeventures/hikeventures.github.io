@@ -3,13 +3,9 @@ layout: post
 title: Do It Review
 date: "2014-02-19 18:22:24 +0200"
 author: Do It Review
-categories: Guest Posts
 description: Do It Review Blog Introduction
-toc: true
-keywords: "Do It Review, Hiking, outdoors, blog"
-twitter_card: 
-  image: "https://s3.yimg.com/so/7460/12637774184_0903048ed0_o.jpg"
-published: true
+category: interviews
+tags: [interviews]
 ---
 
 Yo Yo Yo Johnny_Hiker here from www.doitreviewit.co.nz. Yeah! I'm from the land of the long white cloud. This is what the Maori called New Zealand.
