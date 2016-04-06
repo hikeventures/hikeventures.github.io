@@ -24,3 +24,12 @@ After the breakfast that didn't only provides us with the energy for the paddlin
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26180650921/in/datetaken-public/" title="Swedish Packrafting Gathering 2015"><img src="https://farm2.staticflickr.com/1662/26180650921_df416c2b13_b.jpg" width="1024" height="680" alt="Swedish Packrafting Gathering 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+Packrafts? Check. Paddles? Check. Drysuits? Check. | While Henrik was waiting for us on the water, the rest took a bit more time to get ready.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26264997225/in/datetaken-public/" title="Packrafting Gathering in Sweden 2015"><img src="https://farm2.staticflickr.com/1492/26264997225_2d2745ae44_b.jpg" width="1024" height="680" alt="Packrafting Gathering in Sweden 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Trees, water and packrafts during the Packrafting roundup last year.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25992153150/in/datetaken-public/" title="Packrafting Gathering in Sweden 2015"><img src="https://farm2.staticflickr.com/1625/25992153150_21dc428a0d_b.jpg" width="1024" height="680" alt="Packrafting Gathering in Sweden 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26172557992/in/datetaken-public/" title="Packrafting Gathering in Sweden 2015"><img src="https://farm2.staticflickr.com/1445/26172557992_86160050b2_b.jpg" width="1024" height="680" alt="Packrafting Gathering in Sweden 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
