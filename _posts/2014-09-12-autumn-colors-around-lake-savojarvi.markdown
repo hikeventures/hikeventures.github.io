@@ -3,11 +3,9 @@ layout: post
 title: Autumn colors around lake Savojärvi
 date: "2014-09-12 19:17:19 +0300"
 comments: true
-categories: destinations
 description: Hiking on an autumn day in Kurjenrahka National Park
-keywords: "Hiking, Outdoors, Finland, Kurjenrahka, Savojärvi"
-featured_image: "https://farm3.staticflickr.com/2937/14106344644_b739c8232e_b.jpg"
-published: true
+category: destinations
+tags: [destinations, savojärvi, finland, kurjenrahka, hiking]
 ---
 
 Today I went hiking to the Kurjenrahka National Park in Finland which is located around 30 km north of Turku -  a heaven for mushroom lovers!
