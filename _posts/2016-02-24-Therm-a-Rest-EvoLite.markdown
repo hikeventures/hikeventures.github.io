@@ -3,10 +3,10 @@ published: true
 layout: post
 date: "2016-02-24 22:43:52 +0200"
 comments: true
-categories: gear
 title: Therm-a-Rest EvoLite Review
 description: "A review about the Therm-a-Rest Evolite sleeping pad which we have tested in Sweden and Japan"
-keywords: "Therm-a-Rest, sleeping pad, camping, backpacking, outdoors, gear, review, hiking"
+category: reviews
+tags: [reviews,Therm-a-Rest, sleeping pads]
 ---
 
 
