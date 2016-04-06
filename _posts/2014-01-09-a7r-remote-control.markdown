@@ -4,11 +4,9 @@ title: "a7R remote control"
 date: 2014-01-09 19:06:26 +0200
 comments: true
 author: Patrick
-categories: ['Gear Reviews']
 description: remote control for the Sony A7r
-keywords: a7R, remote control
-twitter_card:
-    image: http://farm3.staticflickr.com/2837/12029205675_217333155c_c.jpg
+category: reviews
+tags: [reviews, camera, photography, a7r, remote control]
 ---
 If you are looking for a dedicated inexpensive remote control for your Sony a7R to take some pictures without the fuss of starting apps etc. then you might consider this remote control which has been developed by a third party company (BV & Jo).
 
