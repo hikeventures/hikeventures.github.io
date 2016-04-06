@@ -3,12 +3,9 @@ layout: post
 title: Aquapac Waterproof Camera Pouch
 date: "2013-11-29 15:40"
 comments: true
-categories: Gear Reviews
 description: A good camera requires good protection against the elements
-keywords: "Gear Review, Aquapac, Waterproof, Camera Pouch, Photography"
-twitter_card: 
-  image: "http://farm4.staticflickr.com/3827/11544807355_5275cd0040_c.jpg"
-published: true
+category: reviews
+tags: [reviews, aquapac, bags, camera, photography]
 ---
 
 My Sony A7r arrived - but hey, how should I protect it from all the rain the water when I hike and <a href="http://hikeventures.com/gear-review-unpacking-alpacka-packraft/" target="_self">packraft</a>? Since I want to travel light, the bag should be small and light as well. After an email discussion with the aquapac customer service, I decided to go for their bags and here comes a short review about the Aquapac Camera Pouch.
