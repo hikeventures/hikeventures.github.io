@@ -3,11 +3,9 @@ layout: post
 title: "Dan Bailey: Outdoor Action and Outdoor Photography"
 date: 2015-05-24 20:18:07 +0300
 comments: true
-categories: ['books']
 description: A good book with ideas if you are interested in outdoor photography.
-keywords: outdoor, photography, book, Gear, Camping, Outdoors, Hiking, Packrafting, Backpacking
-twitter_card:
-    image: https://c1.staticflickr.com/9/8862/17861380309_f9749e3c57_o.jpg
+category: reviews
+tags: [books, reviews]
 ---
 Since I am interested in outdoor photography, I am currently looking for books which give me new ideas and inspirations on how I could take my pictures to the next level. This article is about the book "Outdoor Action and Adventure Photography" from Dan Bailey which is a very good book especially if you are new into outdoor photography. <br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/17861380309" title="Outdoor Action and Adventure Photography"><img src="https://c1.staticflickr.com/9/8862/17861380309_f9749e3c57_o.jpg" width="1024" height="768" alt="Outdoor Action and Adventure Photography"></a><!--more-->
