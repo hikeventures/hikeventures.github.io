@@ -1,0 +1,9 @@
+---
+layout: post
+title:test
+date: 2016-04-04 17.31  +0300
+comments: true
+category: destinations
+tags: [destinations, raisio, kullavuori, hiking]
+description: An outdoor adventure to Kullavuori in Raisio
+---
