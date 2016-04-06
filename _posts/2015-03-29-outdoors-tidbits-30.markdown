@@ -2,12 +2,9 @@
 layout: post
 title: Outdoors Tidbits 30
 date: "2015-03-29T07:56:19.000Z"
-categories: tidbits
 description: "The latest outdoor gear reviews, tips & tricks - Nr. 30"
-keywords: "Tidbits, Hiking, Packrafting, Outdoors, Photography, Gear Reviews"
-twitter_card: 
-  image: "https://farm9.staticflickr.com/8743/16732145327_10b4d24ef7_b.jpg"
-published: true
+category: tidbits
+tags: [tidbits]
 ---
 
 Last week Patrick was testing his new Therm-a-Rest XTherm while Konstantin was still writing on his Fjällräven pants review which we will publish shortly. Konstantin also received his new Anfibio Windpaddle Sail and Anfibio Throwbag from the [Packrafting Store](http://www.packrafting-store.de). We are also working on a very short video from our [Lapland trip](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/) earlier this year.
