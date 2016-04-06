@@ -3,11 +3,9 @@ layout: post
 title: "Advent Calendar: Giveaway 6"
 date: 2014-12-18 13:52:20 +0200
 comments: true
-categories: giveaway
 description: Goal Zero Guide 10 Plus Solar Kit
-keywords: goal zero, guide 10, plus, solar kit, raffle, adventcalendar
-twitter_card:
-    image: https://farm8.staticflickr.com/7527/15427006384_c5603d32d9_o.jpg
+category: campaigns
+tags: [campaigns]
 ---
 This time you have the chance to win the <a href="http://www.goalzero.com/p/79/guide-10-plus-solar-kit/24:1/" target="_blank">Goal Zero Guide 10 Plus Solar Kit</a> to charge your electronic devices like GPS, phone or headlamp on the trail. 
 <br><br>
