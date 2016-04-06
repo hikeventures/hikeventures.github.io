@@ -3,15 +3,10 @@ layout: post
 title: Laufbursche Huckepack hp450
 date: "2013-03-21 17:52"
 comments: true
-author: Patrick
-toc: true
-categories: Gear Reviews
 description: Laufbursche Huckepack hp450 Ultralight backpack review
-keywords: "Laufbursche, Huckepack, Reviews, hiking, backpack, ultralight"
-twitter_card: 
-  image: "https://farm9.staticflickr.com/8231/8576877609_d896526571_b.jpg"
-published: true
----
+category: reviews
+tags: [reviews, bags, laufbursche]
+--
 
 I was searching for a new ultralight backpack for my hiking, backpacking and packrafting trips and came accross the Laufbursche Huckepack which is manufactured in Germany and here comes a short review. The 450 grams and 40/52l Laufbursche Huckepack seems to be a perfect solution for a UL backpack and its' quality seems to be good too. It's also possible to have a custom made backpack as you can see in the pictures below. I chose a material which is slightly more heavy but more durable.
 <!--more-->
