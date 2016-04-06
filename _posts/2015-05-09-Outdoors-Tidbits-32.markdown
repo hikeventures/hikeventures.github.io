@@ -3,12 +3,10 @@ layout: post
 title: Outdoors Tidbits 32
 date: "2015-05-09 11:30:05 +0200"
 comments: true
-categories: tidbits
 description: "The latest outdoor gear reviews, tips & tricks - Nr. 32"
-keywords: "Tidbits, Hiking, Packrafting, Outdoors, Photography, Gear Reviews"
-twitter_card: 
-  image: "https://c1.staticflickr.com/9/8057/8196842193_f12073a92c_c.jpg"
-published: true
+category: tidbits
+tags: [tidbits]
+
 ---
 
 Konstantin has been to Belgium packrafting. You can find some pictures on <a href="https://instagram.com/hikeventure/">Instagram</a>. We have created a new <a href="https://www.facebook.com/groups/1394297800896638/">Facebook group</a> for Packrafters in Finland on Facebook. Feel free to join. We are also waiting eagerly for <a href="http://www.visitfinland.com/white-night-magic/">midsummer</a> here in Finland as the cold months are finally over. Are you an outdoor blogger? Join our <a href="http://www.hikeventures.com/blogs/">outdoor blog list</a>.
