@@ -3,12 +3,9 @@ layout: post
 title: "PMags"
 date: 2013-12-09 23:22:10 +0200
 comments: true
-author: PMags 
-categories: ['Guest Posts']
 description: PMags introduction
-keywords: PMags, Outdoors, Hiking
-twitter_card:
-    image: http://farm4.staticflickr.com/3827/11544807355_5275cd0040_c.jpg
+category: interviews
+tags: [interviews]
 ---
 <a href="http://www.pmags.com">PMags.com</a> is my home in cyberspace</a>. It is a way for me to write about one of my favourite passions: The outdoors.
 <!--more--><br>
