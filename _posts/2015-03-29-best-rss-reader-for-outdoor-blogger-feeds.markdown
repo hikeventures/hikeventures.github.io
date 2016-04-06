@@ -3,12 +3,9 @@ layout: post
 title: Best RSS feed Reader for Outdoor Bloggers
 date: "2015-03-28T07:56:19.000Z"
 comments: true
-categories: articles
 description: "Need a new RSS reader? Here is a list with the best RSS Reader for Outdoor Bloggers."
-keywords: "RSS, Reader, Hiking, Packrafting, Outdoors, Photography"
-twitter_card: 
-  image: "https://farm9.staticflickr.com/8698/16969404015_2b1aab47b7_b.jpg"
-published: true
+category: articles
+tags: [articles, rss, blogging]
 ---
 
 
