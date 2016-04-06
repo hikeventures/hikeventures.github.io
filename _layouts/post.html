@@ -14,12 +14,7 @@ published: true
     <center><h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
 
-<!-- Tags -->
-<ul class="tags">
-  {% for tag in page.tags %}
-    <font color="white"><li><a href="/tags#{{ tag }}" class="tag">{{ tag }}</a></li></font>
-  {% endfor %}
-</ul><br>
+<br>
 </center> 
 
 </header>
@@ -27,7 +22,12 @@ published: true
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
-
+<!-- Tags -->
+<ul class="tags">
+  {% for tag in page.tags %}
+    <font color="white"><li><a href="/tags#{{ tag }}" class="tag">{{ tag }}</a></li></font>
+  {% endfor %}
+</ul>
 </article>
 
 <div class="row">
