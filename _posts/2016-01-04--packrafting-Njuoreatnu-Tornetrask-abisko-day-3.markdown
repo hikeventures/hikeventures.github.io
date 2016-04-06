@@ -4,10 +4,9 @@ title: Packrafting the Njuoreatnu to Torneträsk - Abisko Sweden - Day 3
 date: 2016-01-04 06:00:00 +0300
 comments: true
 published: true
-categories: destinations
 description: Packrafting in the Swedish Mountains
-keywords: Packraft, Packrafting, Sweden, Njuoreatnu, Tornetrask
-featured_image: https://farm6.staticflickr.com/5656/23666479785_8413cf951a_b.jpg
+category: destinations
+tags: [destinations, njuoreatnu, torneträsk, abisko, sweden, packrafting]
 ---
 After a chilly night in our tent which we pitched on a small island we woke up still a little bit exhausted from the [previous day][1] and prepared some breakfast. While the fog was gone there were still a few clouds in the sky but the weather looked promising.
 
