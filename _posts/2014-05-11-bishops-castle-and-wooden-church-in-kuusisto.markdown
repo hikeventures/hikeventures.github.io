@@ -3,12 +3,9 @@ layout: post
 title: Bishops Castle and wooden church in Kuusisto
 date: "2014-05-11 18:56:48 +0300"
 comments: true
-categories: destinations
 description: Exploring the Bishop Castle in Kuusisto
-keywords: "Turku, Finland, Kuusisto, Sightseeing, Castle, Microadventure, Bicycling"
-twitter_card: 
-  image: "https://farm8.staticflickr.com/7315/13974376258_d892e9a3ff_c.jpg"
-published: true
+category: destinations
+tags: [destinations, turku, kuusisto, finland, castles]
 ---
 
 On mothers day I decided to get on my bicycle in Turku and explore the bishops castle (Kuusiston piispanlinna) and the wooden church in Kuusisto.
