@@ -3,11 +3,9 @@ layout: post
 title: Hilleberg Anjan
 date: "2013-04-14 10:54"
 comments: true
-categories: gear
 description: Hillebergs three season tent.  The Anjan Tent Review.
-keywords: "Hilleberg,  Anjan, Gear, review, tent"
-featured_image: "https://farm9.staticflickr.com/8541/8648026950_c0f7a5fdac_b.jpg"
-published: true
+category: reviews
+tags: [reviews, tents, hilleberg]
 ---
 
 
