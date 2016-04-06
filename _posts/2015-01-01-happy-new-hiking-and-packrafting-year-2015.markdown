@@ -3,11 +3,9 @@ layout: post
 title: "Happy new Hiking and Packrafting Year 2015"
 date: 2015-01-01 15:47:59 +0200
 comments: true
-categories: articles
 description: Happy New eyear 2015
-keywords: Tidbits, Hiking, Packrafting, Outdoors, Photography, Gear Reviews
-twitter_card:
-    image: https://farm9.staticflickr.com/8645/15542114254_01a8b4bca5_b.jpg
+category: news
+tags: [news]
 ---
 We wish you all a happy new hiking and packrafting year 2015! Here are our plans for 2015.<br><br>
 
