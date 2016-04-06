@@ -2,10 +2,10 @@
 layout: post
 title: "Fatbiking in Holland"
 date: 2015-11-20 001:25:07 +0300
-categories: articles
 published: true
 description: Are you interested in Fatbiking in Holland?
-keywords: Fatbiking, Outdoors, Hiking, Packrafting, Backpacking
+category: articles
+tags: [articles, fatbiking, netherlands]
 ---
 Today went to The Hague where he had a chance to test ride a fatbike. After his test ride it was quite clear for him that a fatbike would be a great Christmas present. Probably he won't get it except a christmas myracle happens.
 
