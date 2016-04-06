@@ -3,12 +3,9 @@ layout: post
 title: Outdoors Tidbits 20
 date: "2014-12-19 16:40:29 +0200"
 comments: true
-categories: tidbits
 description: "The latest outdoor gear reviews, tips & tricks - Nr. 20"
-keywords: "Tidbits, Hiking, Packrafting, Outdoors, Photography, Gear Reviews"
-twitter_card: 
-  image: "https://farm9.staticflickr.com/8270/15581097668_e291c7f81f_c.jpg"
-published: true
+category: tidbits
+tags: [tidbits]
 ---
 
 This is our last tidbits before Christmas. We are currently arranging the last bits and pieces for our lapland trip end of January 2015. And hey, you can still win our [Goal Zero Guide 10 Plus Solar Kit](http://hikeventures.com/advent-calendar-giveaway-6/) till 22.12.2014.
