@@ -3,12 +3,9 @@ layout: post
 title: "Like a Bigfoot"
 date: 2014-02-10 17:05:24 +0200
 comments: true
-author: Like a Bigfoot
-categories: ['Guest Posts']
 description: Blog of Like a Bigfoot
-keywords: Like a Bigfoot, Hiking, blog
-twitter_card:
-    image: http://farm8.staticflickr.com/7425/12436050875_d804795352_c.jpg
+category: interviews
+tags: [interviews]
 ---
 My name is Chris and over the last few years I have been on a journey to find the perfect balance between getting outdoors and staying healthy.  For the longest time I was a gym rat until I became sick of treadmills, fluorescent lights, and the smelly gym mats.  I began a search for a way to transform most of my workouts outdoors. 
 
