@@ -3,11 +3,9 @@ layout: post
 title: "One week Sightseeing in Berlin"
 date: 2013-08-14 18:20
 comments: true
-categories: ['destinations']
 description: Berlin - Exploring the capital of German
-keywords: Berlin, Germany, sightseeing, capital, tourism, sights
-twitter_card:
-    image: http://farm9.staticflickr.com/8070/8198008360_ececd25d8e_c.jpg
+category: destinations
+tags: [destinations, berlin, germany]
 ---
 I have tried to visit the best sights in Berlin during my week in the capital of Germany which are reachable by public transport - metro or bus - and there is plenty to see. You need to calculate at least a week if you want to stroll through all the museums and historical sights in Berlin.
 
