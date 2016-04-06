@@ -3,11 +3,9 @@ layout: post
 title: "Outdoors Tidbits 22"
 date: 2014-12-31 07:23:48 +0200
 comments: true
-categories: tidbits
 description: The latest outdoor gear reviews, tips & tricks - Nr. 22 - #outdoorstidbits
-keywords: Tidbits, Hiking, Packrafting, Outdoors, Photography, Gear Reviews
-twitter_card:
-    image: https://farm9.staticflickr.com/8270/15581097668_e291c7f81f_c.jpg
+category: tidbits
+tags: [tidbits]
 ---
 This week Konstantin went a couple of days hiking in the Polish Mountains while Patrick was investigating some possibilities for our Lapland trip which we have planned for end of January.  We have also updated our microphone to a <a href="http://amzn.to/1vFgyL8" target="_blank">Zoom H5</a> which we are going to use when shooting videos in 2015. <br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/8351963809"><img src="https://farm9.staticflickr.com/8468/8351963809_ef1ef59998_b.jpg" width="1024" height="364"></a>
