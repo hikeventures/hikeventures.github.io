@@ -20,7 +20,12 @@ published: true
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   
-  
+    <!-- Tags -->
+    <ul class="tags">
+      {% for tag in page.tags %}
+        <font color="white"><li><a href="/tags#{{ tag }}" class="tag">{{ tag }}</a></li></font>
+      {% endfor %}
+    </ul>
   
 </div>
 
