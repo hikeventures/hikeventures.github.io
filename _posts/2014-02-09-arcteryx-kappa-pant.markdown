@@ -3,12 +3,9 @@ layout: post
 title: Arcteryx Kappa Pants
 date: "2014-02-09 08:56:12 +0200"
 comments: true
-categories: Gear Reviews
 description: "Arcteryx Kappa Pants - Winter Pants for hiking, skiing and snowboarding"
-keywords: "Arcteryx, Kappa, Pants, Winter, Skiing, snowboarding, gear review"
-twitter_card: 
-  image: "http://farm8.staticflickr.com/7394/12133742174_d29c6f740e_c.jpg"
-published: true
+category: reviews
+tags: [reviews, pants, arcteryx]
 ---
 
 Winter time - freezing time! Or not? I have tested the Arcteryx Kappa Pants and here is a short review. I have tested the Kappa pants here in Finland at -21 °C and found them comfortable warm wearing merino pants under it. At around -10 °C I just skipped Merino. This are probably the best winter pants from my point of view. The Arcteryx Kappa Pants are soft-shell pants and made for active winter use like snowshoeing, winter hiking, skiing or snowboarding. If you plan to stay outside e.g. for winter camping I would rather recommend down pants. However, for my <a href="http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/" target="_self">snowshoeing activities</a>  in Finnish Lapland they have worked great and are currently my favourite outdoor pants for winter activities.<br><br>
