@@ -3,11 +3,10 @@ layout: post
 title: Outdoors Tidbits 2
 date: 2014-08-23 08:17:20 +0300
 comments: true
-categories: tidbits
 description: The latest outdoor gear reviews, tips & tricks - Nr. 2 - #outdoorstidbits
-keywords: tidbits, Hiking, Packrafting, Outdoors, Photography, Gear Reviews
-twitter_card:
-    image: https://farm4.staticflickr.com/3899/14818912328_5ca54676af_b.jpg
+category: tidbits
+
+tags: [tidbits]
 ---
 The week has been really busy as we redesigned our HikeVentures blog. Meanwhile it has rained a lot this week in Finland so it's a good time to test waterproof clothes. <br><br>If you are into Packrafting in Finland you may now also join our <a href="https://www.facebook.com/groups/851417628210793" target="_blank">Packrafting in Finland group</a> on Facebook. There is also going to be a <strong>Packraft Gathering</strong> in Finland in the coming weeks. You can sign up <a href="http://doodle.com/f9u3dt6ngdb6n9pw" target="_blank">here</a>.
 
