@@ -3,11 +3,9 @@ layout: post
 title: "Outdoors Tidbits 29"
 date: 2015-03-14 21:01:14 +0200
 comments: true
-categories: tidbits
 description: The latest outdoor gear reviews, tips & tricks - Nr. 29 - #outdoorstidbits
-keywords: Tidbits, Hiking, Packrafting, Outdoors, Photography, Gear Reviews
-twitter_card:
-    image: https://farm9.staticflickr.com/8645/15542114254_01a8b4bca5_b.jpg
+category: tidbits
+tags: [tidbits]
 ---
 This week Konstantin went packrafting to Scotland while Patrick ordered new packrafting gloves for our packrafting trip in April together with the Deliverance Team in Sweden. Patrick also went to the Meri Kutsuu exhibition in Turku this weekend to have a look on boats and boat equipment offered in the region. In July we are going hiking and packrafting in Poland.
 <br><br><a href="https://www.flickr.com/photos/90204224@N07/15542114254"><img src="https://farm9.staticflickr.com/8645/15542114254_01a8b4bca5_b.jpg" width="1024" height="565"></a><br><!--more--><br>
