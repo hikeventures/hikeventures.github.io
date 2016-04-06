@@ -3,10 +3,10 @@ layout: post
 title: Luci Outdoor Solar Lantern Review
 date: 2014-10-26 23:15:50 +0200
 comments: true
-categories: gear
 description: Solar Outdoor light which surprises
 keywords: Hiking, Packrafting, Outdoors, solar, Gear Reviews, Luci Outdoor, lantern, inflatable
-featured_image: https://farm6.staticflickr.com/5597/15636357331_9926cfd49a_b.jpg
+category: reviews
+tags: [reviews, lights, luci]
 ---
 
 A while ago I was contacted by a representative of  [MPOWERD][1], who asked me if I would be interested to review their new inflatable solar lantern, Luci Outdoor. I said yes and several weeks later a package from the USA was waiting for me at home. Inside this package was Luci. Below are my thoughts and experiences of using this lantern on my several trips (Lithuania, Latvia, Poland and here in the Netherlands) during the last three months. 
