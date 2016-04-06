@@ -3,11 +3,9 @@ layout: post
 title: ISPO 2015 Review
 date: 2015-02-07 09:12:05 +0100
 comments: true
-author: Patrick
-categories: articles
 description: Exploring gear at the ISPO in Munich 2015.
-keywords: ISPO, MUNICH, GEAR
-featured_image: https://farm8.staticflickr.com/7328/16462058835_413f97515e_b.jpg 
+category: articles
+tags: [articles, ispo]
 ---
 This week I went to the ISPO in Munich to look for new interesting products for our [hiking and packrafting adventures][1] and here is a short ISPO review. We had great outdoor adventures this year in [Finnish Lapland][2] and for 2015 I would be interested to [test][3] new outdoor gear. I started the day at 8.45 at the press centre where I received my press ID just right in time as the show started at 9 am. I focused my day on certain companies I was interested in and those which won an ISPO Award 2015.
 
