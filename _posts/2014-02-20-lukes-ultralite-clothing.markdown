@@ -3,13 +3,9 @@ layout: post
 title: Lukes Ultralite Clothing
 date: "2014-02-20 17:12:37 +0200"
 comments: true
-author: Lukes Ultralite Clothing
-categories: Guest Posts
 description: Lukes Ultralite Clothing Introduction
-keywords: "Lukes Ultralite Clothing, Hiking, ultralight, clothing"
-twitter_card: 
-  image: "https://farm8.staticflickr.com/7390/12656784423_04ac65e689_c.jpg"
-published: true
+category: interviews
+tags: [interviews]
 ---
 
 At Luke’s Ultralite we specialise in making the lightest possible in backpacking gear, by using the latest in materials.  Most of my products are sewn but when necessary or more practical a bonding method is used, like in our cuben fiber products.  If you see any product you would like to see in a different size or any custom addition this can more than likely be accommodated via email or calling me personally.   My number is 614-403-2476. 
