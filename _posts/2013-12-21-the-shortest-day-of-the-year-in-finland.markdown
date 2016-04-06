@@ -4,11 +4,9 @@ title: "The shortest day of the year in Finland"
 date: 2013-12-21 13:04:11 +0200
 comments: true
 author: Patrick
-categories: ['Articles']
 description: The winter is long and dark in Finland. 
-keywords: Hiking, Shortest day, Finland, Outdoors
-twitter_card:
-    image: http://farm3.staticflickr.com/2822/11477533336_1d04a0293c_c.jpg
+category: articles
+tags: [articles, finland]
 ---
 Today is the shortest day of the year. In Finland sunrise is expected to be at 10.13 in Vaasa and sunset at 14.51 - 4.5h sunshine in total.
 
