@@ -3,12 +3,9 @@ layout: post
 title: "Central Florida Hiker"
 date: 2014-02-14 16:30:25 +0200
 comments: true
-author: Central Florida Hiker
-categories: ['Guest Posts']
 description: Central Florida Hiker
-keywords: Central Florida Hiker, Hiking, outdoors, blog, Florida
-twitter_card:
-    image: http://farm4.staticflickr.com/3721/12261723486_2e0c0e5aa0_c.jpg
+category: interviews
+tags: [interviews]
 ---
 Central Florida Hiker was started in 2013 as a way for me to share my adventures as well as information on the hiking in Central Florida. When people think of Florida they immediately think of the beach. My goal is to get people excited about all of the hiking and camping opportunities we have in Florida that are often overlooked. 
 
