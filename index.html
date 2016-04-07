@@ -23,21 +23,22 @@ published: true
   <div class="container-fluid">
             <div class="row-fluid">
                     <div class="col-md-8">
-                                  <div class=" <ul class="post-list">
+                                  <ul class="post-list">
                                          {% for post in site.posts limit:2 %}
                                            <li>                                     
-    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+                                              
                                              <h2>
+                                               <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
                                                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                                              </h2>
                                              {{ post.excerpt }}<br>
                                            </li>
                                          {% endfor %}
 
-                                       </ul>
-                                  </div>
+                                    </ul>
+                    </div>
 
-
+        </div>
 
 </div>
 
