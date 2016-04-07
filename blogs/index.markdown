@@ -30,6 +30,8 @@ After a mini stroke (TIA) in February 2014, I decided to sell my house, give awa
 <a href="https://www.flickr.com/photos/90204224@N07/16635644863"><img src="https://farm9.staticflickr.com/8818/16635644863_43873e4da8_b.jpg" width="1024" height="768"></a>
 Everyone talks about the need to unplug from their stressful lives and connect with nature and themselves by spending time in nature. However, when faced with the possibility of getting 'out there', many people come up with excuses that stop them from doing that. Lotsafreshair is a blog and YouTube channel all about encouraging people to get out and blow away those excuses. From what to pack, what food to take or how to adjust a backpack, Lotsafreshair aims to connect people with nature and help them fall in love with their outside selves. It provides a mix of not only practical quick tips and how-to's, but inspirational journeys and adventures in Australia and overseas.<a href="https://www.facebook.com/lotsafreshair"><i class="fa fa-facebook"></i></a> <a href="http://twitter.com/Lotsafreshair"><i class="fa fa-twitter"></i></a>  <a href="http://instagram.com/Lotsafreshair"><i class="fa fa-instagram"></i></a>  <a href="https://www.youtube.com/user/Lotsafreshair"><i class="fa fa-youtube"></i></a>
 
+---
+
 ## Belgium
 
 ### <a href="https://kaspergeuns.com">kaspergeuns.com</a>
@@ -43,6 +45,8 @@ Everyone talks about the need to unplug from their stressful lives and connect w
 ### <a href="https://tsjolinge.wordpress.com">tsjolinge.wordpress.com</a>
 A young couple who like to share our outdoor experiences.
 
+---
+
 ## Canada
 
 ### <a href="https://hike365.wordpress.com/">hike365.org</a>
@@ -52,12 +56,16 @@ A young couple who like to share our outdoor experiences.
 ### <a href="http://www.playoutsideguide.com">playoutsideguide.com</a>
 Everything families need to know to get outside and have fun! Trip reports, pack lists, gear reviews, and more! <a href="https://twitter.com/playoutsidegal"><i class="fa fa-twitter"></i></a>  <a href="https://www.facebook.com/PlayOutsideGuide"><i class="fa fa-facebook"></i></a>  <a href="https://instagram.com/playoutsidegal"><i class="fa fa-instagram"></i></a>
 
+---
+
 ## Denmark
 
 ### <a href="http://urbanpackrafter.com">urbanpackrafter.com</a>
 
 <a href="https://www.flickr.com/photos/90204224@N07/16870181530"><img src="https://farm8.staticflickr.com/7705/16870181530_52d3758b98_b.jpg" width="1024" height="681"></a>
 My name is Jacob Kastrup Haagensen and I am a 34 year old Dane living in Copenhagen and working in the city administration. In the 2013 I brought a packraft and a year after I started documenting my trips by videos on the site <a href="http://www.urbanpackrafter.com">urbanpackrafter.com</a>. The idea was also to take micro adventures inside Copenhagen and other cities I visit. I want to inspire other packrafters also to use their packraft in the city. To see a city from the waterside gives you an hole new perspective on where you live. Educated in urban planning I have a love for cities and the opportunities they give. I also love the wild. Since my Boy Scout time I always being out in nature. I have a lot of love for the Scandinavian nature with its solitude and many of my wilderness trips goes to Sweden and Norway. A packraft gives other opportunities where lakes and rivers being trails instead of obstacles. <a href="https://twitter.com/urbanpackrafter"><i class="fa fa-twitter"></i></a>
+
+---
 
 ## Germany
 
@@ -71,6 +79,7 @@ Das Team von airFreshing.com besteht aus Bergfüchsen, Frischluftfans und ambiti
 ### <a href="http://outdoorfever.de/">outdoorfever.de</a>
 <a href="https://www.facebook.com/outdoorfever.de"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/outdoorfever"><i class="fa fa-twitter"></i></a>  <a href="http://www.flickr.com/photos/kraxel-magazin/"><i class="fa fa-flickr"></i></a>  <a href="https://plus.google.com/+OutdoorfeverDe/posts"><i class="fa fa-google-plus"></i></a>  <a href="https://www.pinterest.com/outdoorfever/"><i class="fa fa-pinterest"></i></a>
 
+---
 
 ## Sweden
 
@@ -86,6 +95,8 @@ Hey!  I'm Cesar and this is my blog.  I have been extremely interested in nature
 3.  Have an outlet to vent my nerdy backpacking obsessions and experiments, which are mostly centered around backpacking theory and gear.
 
 I hope my blog is helpful and/or enjoyable to read.  Take care and happy trails to you.
+
+---
 
 ## United Kingdom
 
@@ -120,6 +131,8 @@ The Bimbler Photo Blog is all about low octane adventure in South West UK with a
 <img src="https://farm4.staticflickr.com/3736/19978123638_64d435d118_b.jpg" width="960" height="720" alt="Copyright by onepaceforward.com">
 
 One Pace Forward is blog for hiking, adventure, travels, history & more, both in the UK and beyond. <a href="https://www.facebook.com/onepaceforward"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/onepaceforward"><i class="fa fa-twitter"></i></a>
+
+---
 
 ## United States
 
