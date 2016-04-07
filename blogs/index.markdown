@@ -11,7 +11,7 @@ published: true
 As we are always interested in meeting new outdoor enthusiasts (hiking, packrafting, bicycling, kayaking etc.) and read about gear and adventures from other outdoor bloggers, we have established a list with outdoor blogs you can visit. <a href="http://www.hikeventures.com/about/#contact">Send</a> us the URL to your blog if you want to submit your own outdoor blog to this list. The best blog posts will also appear in our <a href="http://www.hikeventures.com/Outdoors-Tidbits-42">#outdoorstidbits</a>. 
 
 ## Twiter list 
-Send us an <a href="http://www.hikeventures.com/about/#contact">email</a> and We might also add your blog to our <a href="https://twitter.com/HikeVentures/lists/outdoor-blogs">Twitter list</a> for outdoor bloggers.
+Send us an <a href="http://www.hikeventures.com/about/#contact">email</a> and we might also add your blog to our <a href="https://twitter.com/HikeVentures/lists/outdoor-blogs">Twitter list</a> for outdoor bloggers.
 
 ---
 
