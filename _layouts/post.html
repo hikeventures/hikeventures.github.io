@@ -60,7 +60,7 @@ Comment on this post on our <a href="https://www.facebook.com/HikeVentures/">Fac
             <h5><a href="{{ post.url }}">{{ post.title }}{{ commonTags }}</a></h5>
           </div>
         
-        {% increment count %}
+        {% assign count = count + 1 %}
         {% endfor %}
 
         {% endif %}
