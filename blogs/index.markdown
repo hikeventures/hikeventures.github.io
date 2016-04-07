@@ -139,7 +139,7 @@ Encouraging families to get outdoors together through our family adventures in h
 ### <a href="http://www.christownsendoutdoors.com">christownsendoutdoors.com</a>
 Outdoor writer and photographer with a passion for wilderness and mountains. <a href="http://facebook.com/cmtownsend"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/townsendoutdoor"><i class="fa fa-twitter"></i></a>
 
-### <a href="http://www.adventureswithpackraft.blogspot.fi">Adventures with Packrafts</a>
+### <a href="http://www.adventureswithpackraft.blogspot.fi">adventureswithpackraft.blogspot.fi</a>
 
 ### <a href="http://goatmanmike.com/">goatmanmike.com</a>
 
