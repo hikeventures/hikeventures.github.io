@@ -39,12 +39,12 @@ Everyone talks about the need to unplug from their stressful lives and connect w
 
 ## Belgium
 
-### <a href="https://kaspergeuns.com">Kasper & Charlotte</a>
+### <a href="https://kaspergeuns.com">kaspergeuns.com</a>
 
 <img src="https://farm1.staticflickr.com/297/19499672614_0dc5de9f99_b.jpg" width="960" height="960" alt="kasper &amp; charlotte">
 <a href="https://www.facebook.com/kasper.charlotte"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/kaspergeuns/"><i class="fa fa-twitter"></i></a>  <a href="https://instagram.com/KASPERGEUNS/"><i class="fa fa-instagram"></i></a>  <a href="https://vimeo.com/user10535942"><i class="fa fa-vimeo"></i></a>  <a href="https://www.pinterest.com/kaspergeuns/"><i class="fa fa-pinterest"></i></a>
 
-### <a href="http://www.davidcappelle.com/">Wandering David</a>
+### <a href="http://www.davidcappelle.com/">.davidcappelle.com</a>
 <a href="https://www.facebook.com/davidcappelle.blog"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/wandering_david"><i class="fa fa-twitter"></i></a>
 
 ### <a href="https://tsjolinge.wordpress.com">tsjolinge.wordpress.com</a>
@@ -52,7 +52,7 @@ A young couple who like to share our outdoor experiences.
 
 ## Canada
 
-### <a href="https://hike365.wordpress.com/">Hike365.org</a>
+### <a href="https://hike365.wordpress.com/">hike365.org</a>
 
 <a href="https://www.facebook.com/hike365"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/hike365"><i class="fa fa-twitter"></i></a>  <a href="https://instagram.com/p/5kRoHWOIFr/"><i class="fa fa-instagram"></i></a>
 
@@ -72,7 +72,7 @@ My name is Jacob Kastrup Haagensen and I am a 34 year old Dane living in Copenha
 
 ## Germany
 
-### <a href="http://airfreshing.com">Airfreshing.com</a>
+### <a href="http://airfreshing.com">airfreshing.com</a>
 
 Das Team von airFreshing.com besteht aus Bergfüchsen, Frischluftfans und ambitionierten Freizeitsportler. Und alle verfügen über das, was das erfrischend andere Outdoor-Onlinemagazin so erfolgreich macht: Leidenschaft. Seit 2009 behalten wir über das komplette Jahr hinweg immer alles im Blick, was unsere Leser wirklich interessiert – vom Testbericht über Eventhinweise bis hin zu den neuesten Trends im Outdoor- und Bergsportbereich. 
 
@@ -81,13 +81,13 @@ Das Team von airFreshing.com besteht aus Bergfüchsen, Frischluftfans und ambiti
 ### <a href="http://www.auf-den-berg.de/">auf-den-berg.de</a>
 <a href="https://www.facebook.com/aufdenbergde"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/aufdenbergde"><i class="fa fa-twitter"></i></a>  <a href="https://www.instagram.com/aufdenbergde/"><i class="fa fa-instagram"></i></a>  <a href="https://www.pinterest.com/aufdenbergde/"><i class="fa fa-pinterest"></i></a>
 
-### <a href="http://outdoorfever.de/">Outdoorfever.de</a>
+### <a href="http://outdoorfever.de/">outdoorfever.de</a>
 <a href="https://www.facebook.com/outdoorfever.de"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/outdoorfever"><i class="fa fa-twitter"></i></a>  <a href="http://www.flickr.com/photos/kraxel-magazin/"><i class="fa fa-flickr"></i></a>  <a href="https://plus.google.com/+OutdoorfeverDe/posts"><i class="fa fa-google-plus"></i></a>  <a href="https://www.pinterest.com/outdoorfever/"><i class="fa fa-pinterest"></i></a>
 
 
 ## Sweden
 
-### <a href="http://cesarandthewoods.blogspot.fi/">Cesar and the Woods</a>
+### <a href="http://cesarandthewoods.blogspot.fi/">cesarandthewoods.blogspot.fi</a>
 
 <img src="http://2.bp.blogspot.com/-DFTWNIebtbk/VU5BhAyRUWI/AAAAAAAAE8A/ITnWQyXqfFY/s1600/DSC01810.JPG">
 Hey!  I'm Cesar and this is my blog.  I have been extremely interested in nature and the outdoors since I was a small child, and started going camping/backpacking on my own when I was around 16 years old.  I was born in 1980 in Los Angeles, CA, to a Mexican father and Nicaraguan mother, and since have lived and traveled all over the world.  I have been living in Sweden since 2006 with my best friend and wife and our children, two healthy, happy, amazing boys that are the light of my life.  Here are the goals of my blog in a nutshell:
@@ -190,7 +190,7 @@ The Huckleberry Hiker covers news, events and discussions about all things hikin
 I’m a transplanted Southern Californian living in the Midwest. It’s taken some time, and plenty of searching, to appreciate the nature we have here. In the Midwest we don’t have the jagged peaks or deep canyons others do, but we do have trails to run and hike, rivers to canoe and kayak, and forests to explore. In winter we make do with ski hills, ride fat tire bikes, winter camping and snowshoeing to revisit favorite spots. Finding Adventure in my Backyard: trail running, hiking, camping, skiing, and pretty much want to try everything outdoors, at least once.
 <a href="http://www.facebook.com/MidwestMultisportLife"><i class="fa fa-facebook"></i></a>  <a href="http://twitter.com/kovasp"><i class="fa fa-twitter"></i></a>  <a href="http://instagram.com/kovasp"><i class="fa fa-instagram"></i></a>  <a href="https://www.youtube.com/user/kovasp"><i class="fa fa-youtube"></i></a>
 
-### <a href="http://www.missourihowell.com">Missouri Howell</a>
+### <a href="http://www.missourihowell.com">.missourihowell.com</a>
 <a href="https://www.facebook.com/missourihowell"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/MissouriHowell"><i class="fa fa-twitter"></i></a>  <a href="https://plus.google.com/u/0/105981686788990057744/posts"><i class="fa fa-google-plus"></i></a>  <a href="https://www.pinterest.com/divotdoggy/"><i class="fa fa-pinterest"></i></a>   <a href="https://instagram.com/missourihowell/"><i class="fa fa-instagram"></i></a>  <a href="https://www.youtube.com/channel/UCA9HWnKiqw2wmxOW85K_ecg"><i class="fa fa-youtube"></i></a>
 
 ### <a href="http://www.peakandpixel.com">peakandpixel.com</a>
@@ -202,7 +202,7 @@ It is because of our desire for adventure and our passion for the area that we a
 <a href="https://www.facebook.com/pureadirondacks"><i class="fa fa-facebook"></i></a>
  <a href="http://twitter.com/PureADK"><i class="fa fa-twitter"></i></a>  <a href="http://instagram.com/PureAdirondacks"><i class="fa fa-instagram"></i></a>  <a href="https://www.youtube.com/user/PureADK"><i class="fa fa-youtube"></i></a>
 
-### <a href="https://rivertoprambles.wordpress.com">Rivertop Rambles</a>
+### <a href="https://rivertoprambles.wordpress.com">rivertoprambles.wordpress.com</a>
 Adventures in Fly Fishing, Hiking, and Natural History
 
 ### <a href="http://socalhiker.net">socalhiker.net</a>
@@ -215,16 +215,16 @@ Find YOUR next adventure at SoCalHiker.
 <a href="http://www.facebook.com/SoCalHiker"><i class="fa fa-facebook"></i></a>
  <a href="http://twitter.com/theSoCalHiker"><i class="fa fa-twitter"></i></a>  <a href="http://instagram.com/theSoCalHiker"><i class="fa fa-instagram"></i></a>
 
-### <a href="http://www.trailtosummit.com">Trail to Summit</a>
+### <a href="http://www.trailtosummit.com">trailtosummit.com</a>
 Trail to Summit documents Allison's adventures throughout New Hampshire's White Mountains and beyond. You'll also find tasty recipes, gear reviews mainly focusing on ultralight hiking and backpacking, tips, and unique features on small companies and great people in the outdoors. There's a lot to discover out there. See you on the trail! 
 <a href="https://www.facebook.com/TrailToSummit"><i class="fa fa-facebook"></i></a>
  <a href="http://twitter.com/trailtosummit"><i class="fa fa-twitter"></i></a>  <a href="http://instagram.com/trailtosummit"><i class="fa fa-instagram"></i></a>  <a href="https://vimeo.com/user5372919"><i class="fa fa-vimeo"></i></a>  <a href="https://www.youtube.com/user/allison881000/videos"><i class="fa fa-youtube"></i></a>
 
-### <a href="https://trailsnailmud.wordpress.com/">Vermont Paddle Pups</a>
+### <a href="https://trailsnailmud.wordpress.com/">trailsnailmud.wordpress.com</a>
 <a href="https://www.flickr.com/photos/90204224@N07/16935466609"><img src="https://farm9.staticflickr.com/8813/16935466609_ba06b18ffe_b.jpg" width="1024" height="767"></a>
 A blog which shares and encourages safe, respectful, and awesomely fun adventures with dogs…canoeing,camping, skijoring, hiking, and more!
 
-### <a href="http://dustyhouseadventures.com">The Adventures of Dusty House</a>
+### <a href="http://dustyhouseadventures.com">dustyhouseadventures.com</a>
 <a href="https://twitter.com/adventuredusty"><i class="fa fa-twitter"></i></a>  <a href="https://www.facebook.com/dustyhouseadventures"><i class="fa fa-facebook"></i></a>
 
 ---
