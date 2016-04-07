@@ -31,7 +31,7 @@ Comment on this post on our <a href="https://www.facebook.com/HikeVentures/">Fac
 
 
 <br>
- {% for post in site.related_posts %}
+ {% for post in site.related_posts limit:5 %}
    <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
  {% endfor %}
 
