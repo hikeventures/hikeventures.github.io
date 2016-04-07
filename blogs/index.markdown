@@ -226,8 +226,5 @@ A blog which shares and encourages safe, respectful, and awesomely fun adventure
 
 ### <a href="http://dustyhouseadventures.com">The Adventures of Dusty House</a>
 <a href="https://twitter.com/adventuredusty"><i class="fa fa-twitter"></i></a>  <a href="https://www.facebook.com/dustyhouseadventures"><i class="fa fa-facebook"></i></a>
-   
-     
-     
-     <center><script type="text/javascript" src="//www.avantlink.com/link.php?ml=28937&amp;p=125311&amp;pw=150351&amp;ctc=Backcountry&amp;open=_blank"></script>
-</center>
+
+Feel free to  <a href="http://www.hikeventures.com/about/#contact">contact us</a> if you want to have your blog listed on our outdoor blogger list.
