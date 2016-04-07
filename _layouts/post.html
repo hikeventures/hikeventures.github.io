@@ -31,44 +31,9 @@ Comment on this post on our <a href="https://www.facebook.com/HikeVentures/">Fac
 
 
 <br>
-<div class="relatedPosts">
-
-    <h3>Related post</h3>
-
-    {% for post in site.posts %} 
-
-        {% assign sameTagCount = 0 %}
-        {% assign commonTags = '' %}
-
-        {% for tag in post.tags %}
-            {% if page.tags contains tag %}
-
-              {% assign sameTagCount = sameTagCount | plus: 1 %}
-              {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
-              {% assign commonTags = commonTags | append: tagmarkup %}
-
-            {% endif %}
-        {% endfor %}
-        
-  {% assign count = 0 %}
-        {% if sameTagCount >= 2 %}
-          
-          
-            {% if count < 5 %} 
-         <!-- display post -->
-
-          <div>
-            <h5><a href="{{ post.url }}">{{ post.title }}{{ commonTags }}</a></h5>
-          </div>
-        
-        {% assign count = count + 1 %}
-        {% endfor %}
-
-        {% endif %}
-
-    {% endfor %}
-
-</div>
+ {% for post in site.related_posts %}
+   <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+ {% endfor %}
 
 
 
