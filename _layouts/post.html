@@ -30,12 +30,12 @@ Comment on this post on our <a href="https://www.facebook.com/HikeVentures/">Fac
 
 
 
-
+<br>
 <div class="relatedPosts">
 
     <h3>Related post</h3>
 
-    {% for post in site.posts %}
+    {% for post in site.posts limit:5 %} 
 
         {% assign sameTagCount = 0 %}
         {% assign commonTags = '' %}
