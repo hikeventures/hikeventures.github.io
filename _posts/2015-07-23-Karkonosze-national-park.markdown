@@ -3,10 +3,9 @@ layout: post
 title: "Hiking from Poland to Czech Republic - Karkonosze National Park"
 date: 2015-07-23 06:13:07 +0300
 comments: true
-published: true
 description: Exploring the Karkonosze National Park
 category: destinations
-tags: [destinations, poland,, czech republic, karkonosze, hiking]
+tags: [destinations, poland, czech republic, karkonosze, hiking]
 ---
 On our trip to Poland we went to South, visiting the Karkonosze National Park via Jelenia Góra. After doing some <a href="http://www.hikeventures.com/Packrafting-River-Bobr-Poland/">Packrafting</a> the day before we decided to go hiking.  Karkonosze Mountains are especially famous for it's legends and fairy tales. It is said that Rübezahl - a mountain spirit should live here. While Konstantin decided to hike to a castle in the mountains I went on a hike to the Polish-Czech border. My <a href="http://amzn.to/1MJFLxk">Suunto Ambit3</a> was quite useful to find the way up to the top as I had no clue where the 'official' trail was. Luckily, I found it half way up. <a href="http://www.hikeventures.com/hiking-packrafting-poland-video/">Here</a> is also a short video.
  <br>
