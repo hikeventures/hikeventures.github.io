@@ -31,4 +31,27 @@ Trees, water and packrafts during the Packrafting roundup last year.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25992153150/in/datetaken-public/" title="Packrafting Gathering in Sweden 2015"><img src="https://farm2.staticflickr.com/1625/25992153150_21dc428a0d_b.jpg" width="1024" height="680" alt="Packrafting Gathering in Sweden 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+Whereas Jacob and I have brightly-coloured packrafts, <a href="http://deliveranceteam.outdrr.com/">thedeliveranceteam guys</a> prefer green which is more discreet.
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26172557992/in/datetaken-public/" title="Packrafting Gathering in Sweden 2015"><img src="https://farm2.staticflickr.com/1445/26172557992_86160050b2_b.jpg" width="1024" height="680" alt="Packrafting Gathering in Sweden 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+A man and his new drysuit. From what I could understand, it was the first time Martin used his new drysuit. And he enjoyed it a lot. No more sitting in the water. No more worries about being splashed all over.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26010997510/in/datetaken-public/" title="First Swedish Packrafting Meeting"><img src="https://farm2.staticflickr.com/1598/26010997510_cea147ee94_b.jpg" width="1024" height="680" alt="First Swedish Packrafting Meeting"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Time with the locals. If the 'authenticity of the experience' and the 'local perspective' are important concepts for you, then attending such events as this Swedish Packrafting roundup last year is a great chance to get all that. 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26283861275/in/datetaken-public/" title="First Swedish Packrafting Meeting"><img src="https://farm2.staticflickr.com/1528/26283861275_9dd7a9dcd5_b.jpg" width="1024" height="680" alt="First Swedish Packrafting Meeting"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+A spot of colour on a Swedish river. This is Jacob <a href="http://urbanpackrafter.com/">urbanpackrafter</a>, who, like me, seems to like a bit of colour when it comes to packrafting. He has a bright yellow paddle and a red YukonYak. Even his drysuit matches the boat. I, myself, might have a black drysuit, but my packraft is yellow. Which, incidentally, got me a nickname of Mr Chiquita from the local Team 'Green'. And you know what? - I am ok with that. Because I know that they are not 'mature' enough (pun intended 😜)
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25679022414/in/datetaken-public/" title="First Swedish Packrafting Meeting"><img src="https://farm2.staticflickr.com/1525/25679022414_63fa0a3b40_b.jpg" width="1024" height="680" alt="First Swedish Packrafting Meeting"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+
+
+
+
+
+
+
