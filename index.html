@@ -24,16 +24,19 @@ published: true
             <div class="row-fluid">
                     <div class="col-md-8">
                                   <ul class="post-list">
-                                         {% for post in site.posts limit:2 %}
-                                           <li>                                     
-                                              
-                                             <h2>
-                                               <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-                                               <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                                             </h2>
-                                             {{ post.excerpt }}<br>
-                                           </li>
-                                         {% endfor %}
+                                    
+                                    
+
+    {% for post in site.posts limit 2 %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+        {{ post.content | strip_html | truncatewords:75}}<br>
+            <a href="{{ post.url }}">Read more...</a><br><br>
+    {% endfor %}
+
+                                    
+                                    
+                                    
+                                 
 
                                     </ul>
                     </div>
