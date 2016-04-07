@@ -155,6 +155,7 @@ Outdoor writer and photographer with a passion for wilderness and mountains. <a 
 ### <a href="http://www.adventureswithpackraft.blogspot.fi">adventureswithpackraft.blogspot.fi</a>
 
 ### <a href="http://goatmanmike.com/">goatmanmike.com</a>
+My mission: To share the experiences I have during outdoor adventures in the American Southwest (focusing on AZ, UT, and CA) with others. I hope to get people interested in getting outside and enjoying the incredible landscape surrounding us. There is so much out there to see. Life has a finite amount of time with infinite possibilities, don’t wait, get out there!
 
 ### <a href="http://www.heartofthewoods.com">heartofthewoods.com</a>
 Heart of the Woods is an adventure, travel and simple living blog! You will find travel logs of different trips,  backpacking,  camping, snowboarding,  and other adventures. I also post on living more simply and naturally. <a href="https://www.facebook.com/heartofthewoodspage"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/_natashamila_"><i class="fa fa-twitter"></i></a>  <a href="https://instagram.com/Natasha.Mila"><i class="fa fa-instagram"></i></a>
