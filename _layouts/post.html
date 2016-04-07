@@ -35,7 +35,7 @@ Comment on this post on our <a href="https://www.facebook.com/HikeVentures/">Fac
 
     <h3>Related post</h3>
 
-    {% for post in site.posts limit:5 %} 
+    {% for post in site.posts %} 
 
         {% assign sameTagCount = 0 %}
         {% assign commonTags = '' %}
@@ -50,7 +50,7 @@ Comment on this post on our <a href="https://www.facebook.com/HikeVentures/">Fac
             {% endif %}
         {% endfor %}
 
-        {% if sameTagCount >= 2 %}
+        {% if sameTagCount >= 2 limit:5 %}
           <div>
             <h5><a href="{{ post.url }}">{{ post.title }}{{ commonTags }}</a></h5>
           </div>
