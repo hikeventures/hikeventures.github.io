@@ -76,6 +76,10 @@ Das Team von airFreshing.com besteht aus Bergfüchsen, Frischluftfans und ambiti
 ### <a href="http://www.auf-den-berg.de/">auf-den-berg.de</a>
 <a href="https://www.facebook.com/aufdenbergde"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/aufdenbergde"><i class="fa fa-twitter"></i></a>  <a href="https://www.instagram.com/aufdenbergde/"><i class="fa fa-instagram"></i></a>  <a href="https://www.pinterest.com/aufdenbergde/"><i class="fa fa-pinterest"></i></a>
 
+###<a href="http://www.tarjasblog.de/">tarjasblog.de</a>
+Finland & Photography. Tarjas blog covers everything about Finland and the Finns. Nature, events, culture, midnight sun or polar lights.
+<a href="https://www.facebook.com/tarjasblog.de/"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/TarjaP_"><i class="fa fa-twitter"></i></a>  <a href="https://www.instagram.com/tarjasblog.de/"><i class="fa fa-instagram"></i></a>  
+
 ### <a href="http://outdoorfever.de/">outdoorfever.de</a>
 <a href="https://www.facebook.com/outdoorfever.de"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/outdoorfever"><i class="fa fa-twitter"></i></a>  <a href="http://www.flickr.com/photos/kraxel-magazin/"><i class="fa fa-flickr"></i></a>  <a href="https://plus.google.com/+OutdoorfeverDe/posts"><i class="fa fa-google-plus"></i></a>  <a href="https://www.pinterest.com/outdoorfever/"><i class="fa fa-pinterest"></i></a>
 
