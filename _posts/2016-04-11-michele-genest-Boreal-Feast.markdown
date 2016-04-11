@@ -20,3 +20,5 @@ The Boreal Feast has 256 pages so it's quite extensive. The author seperated the
 according to the seasons and embellished the book with beautiful pictures throughout 
 
 the book. In this book you can find 12-course menu but also very simple dishes and drinks. It also covers ingredients like mushrooms birch syrup or blueberries or Panna Cotta in a more Scandinavian style.
+
+If you are interested to read more about the Scandinavian kitchen then you can order the book <a href="http://www.amazon.com/gp/product/1550176277/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1550176277&linkCode=as2&tag=hikeve-20&linkId=3EZE73DXNHX57DY6">here</a>.
