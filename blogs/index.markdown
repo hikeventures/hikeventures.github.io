@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The best Outdoor Blogs
+title: The Best Outdoor Blogs
 date: "2015-04-06 21:21"
 comments: false
 footer: false
