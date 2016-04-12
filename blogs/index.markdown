@@ -1,16 +1,16 @@
 ---
 layout: page
-title: List of Outdoor Bloggers
+title: The best Outdoor Blogs
 date: "2015-04-06 21:21"
 comments: false
 footer: false
 navbar: Blogs
 published: true
 ---
-As we are always interested in meeting new people who are interested in the outdoors like hiking, packrafting, bicycling, kayaking etc. we have established a list of outdoor bloggers. We also work together with some of the bloggers in our list or meet on certain events where we share ideas on new gear and trips. 
+As we are always interested in meeting new people who are interested in the outdoors like hiking, packrafting, bicycling, kayaking etc. we have established our own list of the best outdoor blogs. We also work together with some of the bloggers in our list or meet on certain events where we share ideas on new gear and trips.  
 
 ## How to submit your blog?
-<a href="http://www.hikeventures.com/about/#contact">Send</a> us the URL to your blog if you want to submit your own outdoor blog to our list. The best blog posts will also appear in our <a href="http://www.hikeventures.com/Outdoors-Tidbits-42">#outdoorstidbits</a>. 
+<a href="http://www.hikeventures.com/about/#contact">Send</a> us the URL to your blog if you want to submit your own outdoor blog to our list. We will visit your blog and decide if we will take it into our list. The best blog posts will also appear in our outdoor blog post newsletter on our blog <a href="http://www.hikeventures.com/Outdoors-Tidbits-42">#outdoorstidbits</a>. 
 
 ## Twitter list 
 Send us an <a href="http://www.hikeventures.com/about/#contact">email</a> and we might also add your blog to our <a href="https://twitter.com/HikeVentures/lists/outdoor-blogs">Twitter list</a> for outdoor bloggers.
