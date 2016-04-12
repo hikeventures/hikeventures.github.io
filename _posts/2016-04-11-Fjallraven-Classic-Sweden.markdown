@@ -25,3 +25,15 @@ I only realised how fast i was going only after we started to meet some people w
 Hiking towards the top of Sweden | Even though the track is relatively easy, the views around you can be breathtaking. 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26364870175/in/dateposted-public/" title="Fjällräven Classic in Sweden 2015"><img src="https://farm2.staticflickr.com/1572/26364870175_ce6f5ac685_b.jpg" width="1024" height="768" alt="Fjällräven Classic in Sweden 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+
+Almost at Kebnekaise Mountain Lodge | While a busy event, I managed to enjoy the solitude most of the time. Only when I was approaching the checkpoints I could really see the whole extent of it.
+
+
+
+
+
+
+
+
