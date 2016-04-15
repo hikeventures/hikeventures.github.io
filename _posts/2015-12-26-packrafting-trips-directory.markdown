@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Packrafting Trips Directory
+title: Packrafting Trip Directory
 date: 2015-12-26 08:00:41
 comments: true
 published: true
