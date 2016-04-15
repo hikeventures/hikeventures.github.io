@@ -75,7 +75,7 @@ Das Team von airFreshing.com besteht aus Bergfüchsen, Frischluftfans und ambiti
 <a href="https://www.facebook.com/aufdenbergde"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/aufdenbergde"><i class="fa fa-twitter"></i></a>  <a href="https://www.instagram.com/aufdenbergde/"><i class="fa fa-instagram"></i></a>  <a href="https://www.pinterest.com/aufdenbergde/"><i class="fa fa-pinterest"></i></a>
 
 ### <a href="http://www.packandtrek.de/">packandtrek.de</a>
-<a href="https://www.facebook.com/packandtrek/"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/packandtrek_de"><i class="fa fa-twitter"></i></a>  <a href="https://www.instagram.com/aufdenbergde/"><i class="fa fa-instagram"></i></a>
+<a href="https://www.facebook.com/packandtrek/"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/packandtrek_de"><i class="fa fa-twitter"></i></a>
 
 ### <a href="http://www.tarjasblog.de/">tarjasblog.de</a>
 Finland & Photography. Tarjas blog covers everything about Finland and the Finns. Nature, events, culture, midnight sun or polar lights. <a href="https://www.facebook.com/tarjasblog.de/"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/TarjaP_"><i class="fa fa-twitter"></i></a>  <a href="https://www.instagram.com/tarjasblog.de/"><i class="fa fa-instagram"></i></a> <a href="https://plus.google.com/u/0/108253975957652260757"><i class="fa fa-google-plus"></i></a> 
