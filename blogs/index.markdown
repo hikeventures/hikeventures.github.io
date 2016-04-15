@@ -11,10 +11,6 @@ As we are always interested in meeting new people who are interested in the outd
 
 ## How to submit your blog?
 <a href="http://www.hikeventures.com/about/#contact">Send</a> us the URL to your blog if you want to submit your own outdoor blog to our list. We will visit your blog and decide if we will take it into our list. The best blog posts will also appear in our outdoor blog post newsletter on our blog <a href="http://www.hikeventures.com/Outdoors-Tidbits-42">#outdoorstidbits</a>. 
-
-## Twitter list 
-Send us an <a href="http://www.hikeventures.com/about/#contact">email</a> and we might also add your blog to our <a href="https://twitter.com/HikeVentures/lists/outdoor-blogs">Twitter list</a> for outdoor bloggers.
-
 ---
 
 ## Australia
