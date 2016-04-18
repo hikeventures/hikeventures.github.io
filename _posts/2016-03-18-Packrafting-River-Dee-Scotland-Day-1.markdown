@@ -28,9 +28,6 @@ Talking about about the concept of the pot of tea - I hardly ever saw anything l
 
 Having ordered my pot of tea, I had a chance to look around. Besides the woman who severed me, there was another elderly woman, wearing a similar neat white apron. She was busy doing something behind a glass display which contained a five selection of most deliciously looking muffins and pastry. Looking at them I wished I still ate sugar. But I had to stay strong and I chased the tempting thoughts away. My pot of tea arrived and standing.
 
-## Invercauld bridge 
-Victorian bridges. Other traces of the Victorians. The Victorian Deeside.
-
 
 
 
@@ -60,6 +57,10 @@ Victorian bridges. Other traces of the Victorians. The Victorian Deeside.
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25815623486/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1441/25815623486_4cb468584a_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25746562021/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1670/25746562021_69799f21d2_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## Invercauld bridge 
+Victorian bridges. Other traces of the Victorians. The Victorian Deeside.
+
 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25841666865/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1624/25841666865_141d7f355a_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
