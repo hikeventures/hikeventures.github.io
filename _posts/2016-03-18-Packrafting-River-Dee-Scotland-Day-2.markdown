@@ -39,6 +39,7 @@ Exciting. Always something to do. But too low water levels and getting too much.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25720714182/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1675/25720714182_a36ac1bbe2_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+## Flat river and great scenery
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25815605716/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1626/25815605716_41a163739d_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
