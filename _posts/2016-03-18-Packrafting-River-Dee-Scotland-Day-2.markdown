@@ -56,6 +56,8 @@ The damaged bridges, the castle, part of the road, the caravan park - on the way
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25215064233/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1647/25215064233_39a66596cd_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25907955125/in/dateposted-public/" title="Packrafting the River Dee"><img src="https://farm2.staticflickr.com/1550/25907955125_a47d319830_b.jpg" width="1024" height="768" alt="Packrafting the River Dee"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 The water contaminated. And lots of sharp / metal objects in the water. Seen some signs or parts of metal sidings with jarred edges on the bottom, or sometimes pressed against the rocks. Paddle, be careful and don't think too much - self fulfilling prophecy.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25607404950/in/dateposted-public/" title="Packrafting the River Dee"><img src="https://farm2.staticflickr.com/1696/25607404950_39bdf8ce54_b.jpg" width="1024" height="768" alt="Packrafting the River Dee"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
