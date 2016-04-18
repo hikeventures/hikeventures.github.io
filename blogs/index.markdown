@@ -140,6 +140,10 @@ One Pace Forward is blog for hiking, adventure, travels, history & more, both in
 
 ## United States
 
+### <a href="http://adventures-in-the-outdoors.blogspot.fi/">adventures-in-the-outdoors.blogspot.fi</a>
+Adventure in the Outdoors is home to stories of hiking, camping, climbing and other outdoor adventures. There are trail news and information stories. For example, information on trail maintenance and building, lean-to reconstruction and more and events occurring throughout the region. We also have reviews of outdoor destinations, gear and advice. It's all here at Adventures in the Outdoors.<a href="https://www.facebook.com/AdventuresInTheOutdoors/"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/OutdrAdventures"><i class="fa fa-twitter"></i></a>  
+
+
 ### <a href="http://www.adventuretykes.com">adventuretykes.com</a>
 
 <a href="https://www.flickr.com/photos/90204224@N07/16967505087"><img src="https://farm8.staticflickr.com/7689/16967505087_21907bf92d_b.jpg" width="1024" height="768"></a>
