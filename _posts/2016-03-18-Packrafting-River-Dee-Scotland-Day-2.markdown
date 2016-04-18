@@ -9,9 +9,12 @@ tags: [destinations, packrafting, scotland]
 ---
 
 ## Balmoral - Camping in the neighbourhood of the Queen
-Queen's neighbours. Balmoral.
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25211137854/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1450/25211137854_9d7e60357f_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 
 ## Abergeldie - The falling castle
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25720715432/in/dateposted-public/" title="Flood Abergeldie Castle"><img src="https://farm2.staticflickr.com/1611/25720715432_b27ab8c091_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 
 ## River walking
 Exciting. Always something to do. But too low water levels and getting too much. A great river to paddle especially if more water. Never boating and nor changed much by men. At least not that visible.
