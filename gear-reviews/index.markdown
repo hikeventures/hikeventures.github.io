@@ -171,8 +171,7 @@ published: true
         </tr>
         <tr>
          <td><a href="/gear-review-suunto-ambit-2-black-hr">Suunto Ambit 2 Black HR</a></td>
-   
-     <td></td>
+   <td><a href="/best-wallet-hiking-backpacking">Fjällräven Zip Card Holder</a></td>
               <td></td>
         </tr>
 
