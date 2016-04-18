@@ -87,4 +87,7 @@ Wales to the shop warring my dry suit. Strange, but comfortable. I was not there
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25215061753/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1528/25215061753_a30bbe8b27_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-## Searching for a bus stop
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25787214502/in/dateposted-public/" title="Packrafting the River Dee"><img src="https://farm2.staticflickr.com/1499/25787214502_a9a3147979_b.jpg" width="1024" height="768" alt="Packrafting the River Dee"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## Searching for a bus
+
