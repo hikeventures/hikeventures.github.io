@@ -14,11 +14,15 @@ tags: [destinations, packrafting, scotland]
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25720718142/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1449/25720718142_2c1be50b32_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25211137854/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1450/25211137854_9d7e60357f_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 ## Visiting Balmoral Castle
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25211137854/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1450/25211137854_9d7e60357f_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## Back into the River Dee
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25215068423/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1448/25215068423_9ec4a41fda_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25279269183/in/dateposted-public/" title="Packrafting the River Dee"><img src="https://farm2.staticflickr.com/1629/25279269183_60a94b1ce6_b.jpg" width="1024" height="768" alt="Packrafting the River Dee"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 ## Abergeldie - The falling castle
