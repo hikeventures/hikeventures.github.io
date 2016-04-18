@@ -58,6 +58,8 @@ Wales to the shop warring my dry suit. Strange, but comfortable. I was not there
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25215064833/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1673/25215064833_b9a2ae895d_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+## Getting food in Ballater
+Wales to the shop warring my dry suit. Strange, but comfortable. I was not there to impress people, but to get the food. No one asked me any questions, I didn't give any one any explanations.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25215064233/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1647/25215064233_39a66596cd_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
