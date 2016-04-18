@@ -17,6 +17,11 @@ It's a 16.28 Scotrail train from Edinburgh Waverley to Aberdeen. The train is pa
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25607406640/in/dateposted-public/" title="Packrafting the River Dee"><img src="https://farm2.staticflickr.com/1679/25607406640_68168fafc5_b.jpg" width="1024" height="768" alt="Packrafting the River Dee"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+## With the Bus to Braemar
+The next morning we packed our backpacks and had a typical English breakfast in our hotel before we went to the bus station to catch the train to Braemar.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25787223842/in/dateposted-public/" title="Packrafting the River Dee"><img src="https://farm2.staticflickr.com/1720/25787223842_f9d79da718_b.jpg" width="1024" height="768" alt="Packrafting the River Dee"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## Arrival in Braemar
 The second of the three great rivers of Scotland. Next year the third?
 We were more than lucky with the weather. It was cold, but windless and very sunny.
