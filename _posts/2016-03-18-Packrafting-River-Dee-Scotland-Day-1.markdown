@@ -36,7 +36,7 @@ Queen's neighbours. Balmoral.
 Exciting. Always something to do. But too low water levels and getting too much. A great river to paddle especially if more water. Never boating and nor changed much by men. At least not that visible.
 
 
-## The flood and remains
+## The flood and remainings
 The damaged bridges, the castle, part of the road, the caravan park - on the way it looked like on the grensmaas. Lots of rubbish. On the way back, story from the guy, contamination with kerosine, the stationary trailer destroyed against the bridge. Furniture, contorted bikes, bedding, clothes, a small Scottish St. Andrew's flag, hanging on a tree. Trees. Lots of firewood. But also a few strainers. Passing by one of the sides, high undercut shore, fallen trees and the sound of slipping and falling rocks. Some trees overhanging and will follow soon.
 
 The water contaminated. And lots of sharp / metal objects in the water. Seen some signs or parts of metal sidings with jarred edges on the bottom, or sometimes pressed against the rocks. Paddle, be careful and don't think too much - self fulfilling prophecy.
