@@ -70,8 +70,12 @@ Wales to the shop warring my dry suit. Strange, but comfortable. I was not there
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25841647845/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1548/25841647845_0140cb2f01_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+## Rapid highlight
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25540954290/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1515/25540954290_39bebd5cd5_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+## Deflating the packrafts
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25215061753/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1528/25215061753_a30bbe8b27_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## Searching for a bus stop
