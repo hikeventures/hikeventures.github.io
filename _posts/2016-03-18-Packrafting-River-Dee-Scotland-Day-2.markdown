@@ -63,9 +63,7 @@ Wales to the shop warring my dry suit. Strange, but comfortable. I was not there
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25215064233/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1647/25215064233_39a66596cd_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25215063663/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1587/25215063663_013d3b3130_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
+## Preparing for the night
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25211131754/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1689/25211131754_27e4ebe7b6_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
