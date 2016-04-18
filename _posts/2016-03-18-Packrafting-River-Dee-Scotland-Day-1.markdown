@@ -103,6 +103,8 @@ Victorian bridges. Other traces of the Victorians. The Victorian Deeside.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25841679395/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1582/25841679395_279021f44d_b.jpg" width="1024" height="768" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25813042891/in/dateposted-public/" title="Packrafting the River Dee"><img src="https://farm2.staticflickr.com/1561/25813042891_409019ed99_b.jpg" width="1024" height="768" alt="Packrafting the River Dee"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## Camping nearby the Balmoral Castle
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25720721372/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1543/25720721372_88b2387369_b.jpg" width="1024" height="743" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
