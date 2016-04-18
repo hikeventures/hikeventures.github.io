@@ -8,7 +8,7 @@ category: review
 tags: [review, wallet]
 description: Discover the best wallet for your next hiking and backpacking trip
 ---
-When you are new into hiking and backpacking then you might come up with the question where to store your money and credit cards while on the trail?
+When you are new into hiking and backpacking then you might come up with the question where to store your money and credit cards while on the trail? Here is a short article about my personal wallet choice when I go outdoors.
    
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25893630833/in/dateposted-public/" title="Fjällräven Zip Card Holder"><img src="https://farm2.staticflickr.com/1706/25893630833_0449df22f3_b.jpg" width="1024" height="768" alt="Fjällräven Zip Card Holder"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <!--more-->
