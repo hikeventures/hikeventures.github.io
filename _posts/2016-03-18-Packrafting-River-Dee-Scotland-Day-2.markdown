@@ -11,7 +11,7 @@ tags: [destinations, packrafting, scotland]
 ## Balmoral - Camping in the neighbourhood of the Queen
 Queen's neighbours. Balmoral.
 
-## Abergeldie Castle - The falling castle
+## Abergeldie - The falling castle
 
 ## River walking
 Exciting. Always something to do. But too low water levels and getting too much. A great river to paddle especially if more water. Never boating and nor changed much by men. At least not that visible.
