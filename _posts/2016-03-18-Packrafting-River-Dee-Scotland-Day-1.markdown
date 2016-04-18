@@ -17,6 +17,8 @@ The second of the three great rivers of Scotland. Next year the third?
 We were more than lucky with the weather. It was cold, but windless and very sunny.
 When we arrived, we tried to step out where everyone did. And the bus driver asked us if we wanted to get out a bit further. How far? Just over that building. No thank you. Patrick went to buy done water and a toothbrush and then went back to the outdoor shop that we saw on the way. He had to get another pair of socks.
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25746584301/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1489/25746584301_ee7b436228_b.jpg" width="768" height="1024" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## Enjoying a cup of tea in Braemar
 While I was left with the luggage in the sun. The sun was marvellous. It's golden rays were  poring over me warming my whole body to the core. At the same time there were patches of snow lying around and the air gave that crispy smell that only winter has. How cold was it? I was not sure. On the opposite side from the bus stop I saw a tea room and I decided to move out things there. A middle aged man was sweeping the street next to it. So Patrick ran for his socks and I carried our bags to the hall and entered the place.
 The place looked cosy. There were not a lot of people there, just a couple that travelled with us from Aberdeen on the same bus. They didn't have a lot of luggage with them, but it seemed that they came to Breamar for a romantic getaway.
@@ -35,7 +37,6 @@ Victorian bridges. Other traces of the Victorians. The Victorian Deeside.
 
 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25746584301/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1489/25746584301_ee7b436228_b.jpg" width="768" height="1024" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 
