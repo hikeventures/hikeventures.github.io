@@ -169,6 +169,10 @@ My mission: To share the experiences I have during outdoor adventures in the Ame
 ### <a href="http://www.heartofthewoods.com">heartofthewoods.com</a>
 Heart of the Woods is an adventure, travel and simple living blog! You will find travel logs of different trips,  backpacking,  camping, snowboarding,  and other adventures. I also post on living more simply and naturally. <a href="https://www.facebook.com/heartofthewoodspage"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/_natashamila_"><i class="fa fa-twitter"></i></a>  <a href="https://instagram.com/Natasha.Mila"><i class="fa fa-instagram"></i></a>
 
+### <a href="http://www.hikingforward.com>hikingforward.com</a>
+<a href="https://www.facebook.com/hikingforward"><i class="fa fa-facebook"></i></a>  <a href="http://twitter.com/hikingforward"><i class="fa fa-twitter"></i></a> <a href="http://instagram.com/hikingforward"><i class="fa fa-instagram"></i></a>
+
+
 ### <a href="http://hikinginglacier.blogspot.com/">hikinginglacier.blogspot.com</a>
 The Huckleberry Hiker covers news, events and discussions about all things hiking in the Wyoming and Montana region, as well as our own adventures. We specifically focus on Glacier National Park and Grand Teton National Park. <a href="https://twitter.com/glacierhiker1"><i class="fa fa-twitter"></i></a> 
 <a href="https://www.facebook.com/heartofthewoodspage"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/_natashamila_"><i class="fa fa-twitter"></i></a>  <a href="https://instagram.com/Natasha.Mila"><i class="fa fa-instagram"></i></a>
