@@ -7,32 +7,47 @@ category: articles
 tags: [destinations, packrafting, scotland]
 description: Our February packrafting adventure in Scotland.
 ---
+## With the train from Edinburgh to Aberdeen
+It's a 16.28 Scotrail train from Edinburgh Waverley to Aberdeen. The train is packed. The train conductor apologies several times for this on the loudspeaker. Good thing we booked our seats. A woman behind us booked a forward seat but gets a small one on which she has to travel sideways. She swaps it with another person, who cannot find her reserved sit and is happy with this one. The scenery outdoor is great. We go over the bridge, just got listed by the unesco, and pass by to the othe side of the Forth. People step off and step on the train, but the further we go, the few people there are. We pass by places with difficult English names and completely unpronounceable Scottish. In the hotel last nigh in Aberdern saw BBC Alba - Gaelic language course - teaching how to say 13 ponds - douh. Repeated at least 20 times. Finally, we go over an impressive railway bridge in Dundee (is it the same name as in Australia, Patrick asks) and arrive in Aberdeen after dark.
 
-It's a 16.28 scotrail train from Edinburgh Waverley to Aberdeen.  The train is packed. The train conductor apologies several times for this on the loudspeaker. Good thing we booked our seats. A woman behind us booked a forward seat but gets a small one on which she has to travel sideways. She swaps it with another person, who cannot find her reserved sit and is happy with this one. The scenery outdoor is great. We go over the bridge, just got listed by the unesco, and pass by to the othe side of the Forth. People Sep off and step on the train, but the further  we go, the few people there are. We pass by places with difficult English names and completely unpronounceable Scottish. In the hotel last nigh in Aberdern saw BBC Alba - Gaelic language course - teaching how to say 13 ponds - douh. Repeated at least 20 times.
-Finally, we go over an impressive railway bridge in Dundee (is it the same name as in Australia, Patrick asks) and arrive in Aberdeen after dark.
+## Arrival in Braemar
 The second of the three great rivers of Scotland. Next year the third?
 We were more than lucky with the weather. It was cold, but windless and very sunny.
-When we arrived, we tried to step out where everyone did. And the bus driver asked us if we wanted to get out a bit further. How far? Just over that building. No thank you
-Patrick went to buy done water and a toothbrush and then went back to the outdoor shop that we saw on the way. He had to get another pair of socks.
+When we arrived, we tried to step out where everyone did. And the bus driver asked us if we wanted to get out a bit further. How far? Just over that building. No thank you. Patrick went to buy done water and a toothbrush and then went back to the outdoor shop that we saw on the way. He had to get another pair of socks.
+
+## Enjoying a cup of tea in Braemar
 While I was left with the luggage in the sun. The sun was marvellous. It's golden rays were  poring over me warming my whole body to the core. At the same time there were patches of snow lying around and the air gave that crispy smell that only winter has. How cold was it? I was not sure. On the opposite side from the bus stop I saw a tea room and I decided to move out things there. A middle aged man was sweeping the street next to it. So Patrick ran for his socks and I carried our bags to the hall and entered the place.
 The place looked cosy. There were not a lot of people there, just a couple that travelled with us from Aberdeen on the same bus. They didn't have a lot of luggage with them, but it seemed that they came to Breamar for a romantic getaway.
- When I entered, I was approached by a middle aged woman wearing a neat white apron, who asked me where I would like to sit. I chose the corner table with a bit of s view and in the sun coming through the window. The other sunny spot was already occupied by the couple. When I say down, the woman brought me the menu, which I didn't really need as I knew exactly what I wanted - a pot of tea.
+
+When I entered, I was approached by a middle aged woman wearing a neat white apron, who asked me where I would like to sit. I chose the corner table with a bit of s view and in the sun coming through the window. The other sunny spot was already occupied by the couple. When I say down, the woman brought me the menu, which I didn't really need as I knew exactly what I wanted - a pot of tea.
 Talking about about the concept of the pot of tea - I hardly ever saw anything like that on a menu anywhere else outside Britain. And as a tea drinker, I think it is a shame that people don't do it more often as the British got it right - one small cup of tea, the one that you usually get in the Netherlands or in other parts on the continental Europe, just won't do it. You cannot just have one. You need more. And a pot of tea is a perfect solution for it.
 
-Having ordered my pot of tea, I had a chance to look around. Besides the woman who severed me, there was another elderly woman, wearing a similar neat white apron. She was busy doing something behind a glass display which contained a five selection of most deliciously looking muffins and pastry. Looking at them I wished I still ate sugar. But I had to stay strong and I chased the tempting thoughts away.
-My pot of tea arrived and standing
+Having ordered my pot of tea, I had a chance to look around. Besides the woman who severed me, there was another elderly woman, wearing a similar neat white apron. She was busy doing something behind a glass display which contained a five selection of most deliciously looking muffins and pastry. Looking at them I wished I still ate sugar. But I had to stay strong and I chased the tempting thoughts away. My pot of tea arrived and standing.
 
-
+## Invercauld bridge 
 Victorian bridges. Other traces of the Victorians. The Victorian Deeside.
+
+## Balmoral - Camping in the neighbourhood of the Queen
 Queen's neighbours. Balmoral.
-The falling castle.
-The river walking.
+
+## Abergeldie Castle - The falling castle
+
+## River walking
 Exciting. Always something to do. But too low water levels and getting too much. A great river to paddle especially if more water. Never boating and nor changed much by men. At least not that visible.
 
-The flood and remains. The damaged bridges, the castle, part of the road, the caravan park - on the way it looked like on the grensmaas. Lots of rubbish. On the way back, story from the guy, contamination with kerosine, the stationary trailer destroyed against the bridge. Furniture, contorted bikes, bedding, clothes, a small Scottish St. Andrew's flag, hanging on a tree. Trees. Lots of firewood. But also a few strainers. Passing by one of the sides, high undercut shore, fallen trees and the sound of slipping and falling rocks. Some trees overhanging and will follow soon.
+
+## The flood and remains
+The damaged bridges, the castle, part of the road, the caravan park - on the way it looked like on the grensmaas. Lots of rubbish. On the way back, story from the guy, contamination with kerosine, the stationary trailer destroyed against the bridge. Furniture, contorted bikes, bedding, clothes, a small Scottish St. Andrew's flag, hanging on a tree. Trees. Lots of firewood. But also a few strainers. Passing by one of the sides, high undercut shore, fallen trees and the sound of slipping and falling rocks. Some trees overhanging and will follow soon.
+
 The water contaminated. And lots of sharp / metal objects in the water. Seen some signs or parts of metal sidings with jarred edges on the bottom, or sometimes pressed against the rocks. Paddle, be careful and don't think too much - self fulfilling prophecy.
-The town - went to get some food. First stopped out after the bridge - the one with the trailer - and went to Dreeside garage. Got tea and chocolate. Asked if there was anywhere to eat. Well, the town centre had all been flooded. Were they too? Yes. They got the water, but from the village, not directly from the river. When did it happen? On the 30th of December. Merry Christmas and a happy new year. in a way yes, he smiled bitterly. Got back.  Had tea with Patrick and then asked a passerby of there was a shop. We saw it, but I was not sure if it was open. Yes, behind the church. Just follow the main road. On the way, the shops closed. The Royal appointment for this or for that. Closed, the floor boards ripped off, heaters and fens staring there to dry the aftermath of the flood.
+
+## Tea Time in Ballater
+In Ballater stepped out after the bridge to get some food. The one with the trailer - and went to Dreeside garage. Got tea and chocolate. Asked if there was anywhere to eat. Well, the town centre had all been flooded. Were they too? Yes. They got the water, but from the village, not directly from the river. When did it happen? On the 30th of December. Merry Christmas and a happy new year. in a way yes, he smiled bitterly. Got back.  
+
+Had tea with Patrick and then asked a passerby of there was a shop. We saw it, but I was not sure if it was open. Yes, behind the church. Just follow the main road. On the way, the shops closed. The Royal appointment for this or for that. Closed, the floor boards ripped off, heaters and fens staring there to dry the aftermath of the flood.
 For more than 100 years not like that. People have already forgotten that it can be like that. And they got careless. But the nature reminds us of its might from time to time.
+
+## Getting food in Ballater
 Wales to the shop warring my dry suit. Strange, but comfortable. I was not there to impress people, but to get the food. No one asked me any questions, I didn't give any one any explanations.
 
 
