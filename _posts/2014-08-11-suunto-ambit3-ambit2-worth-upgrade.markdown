@@ -64,10 +64,9 @@ I have used the Suunto Ambit3 Sport for a couple of months and I am happy with i
 **Update 27.11.2015:** After having used the Suunto Traverse for a while I would prefer it over the Ambit3 as long as you are not into multisport. The Traverse also supports GLONASS. More [here][9] about the Suunto Traverse.
 
 ## Charging the Suunto Ambit3 or Traverse
+The Anker 2nd Gen Astro E5 16000mAh is my favourite USB battery which I use to charge all my electronic devices when I go hiking. 
 
 <a  href="http://www.amazon.com/gp/product/B00D5VAYRU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00D5VAYRU&linkCode=as2&tag=hikeve-20&linkId=XUHY3SIFZWEILXVV"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00D5VAYRU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00D5VAYRU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-The Anker 2nd Gen Astro E5 16000mAh is my favourite USB battery which I use to charge all my electronic devices when I go hiking. 
 
 ## Where to buy the Suunto Traverse
 <a  href="http://www.amazon.com/gp/product/B014PNZKC0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014PNZKC0&linkCode=as2&tag=hikeve-20&linkId=IMZJLZ6YNLBHIO2O"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B014PNZKC0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B014PNZKC0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
