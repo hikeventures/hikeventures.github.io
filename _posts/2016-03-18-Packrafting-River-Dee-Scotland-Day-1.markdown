@@ -7,11 +7,12 @@ category: articles
 tags: [destinations, packrafting, scotland]
 description: Our February packrafting adventure in Scotland.
 ---
-## Edinburgh
-In January we made plans to go packrafting in the Scottish Highlands and decided to raft down the River Dee for a couple of days.
-We met at the airport - Konstantin arrived just 1 hour later than Patrick - and we took the new tram from the airport to the city center.
+In January we made plans to go packrafting in the Scottish Highlands and decided to raft down the River Dee for a couple of days. Knowing that the temperatures were below 0 C degree during the night we were quite lucky with the weather as we had sunshine until the last day.
 
-Once we arrived in the city center we were searching for Konstantin's hotel where he was planning to stay for another week after our planned packrafting trip. We unloaded some of our clothes from our backpack in the hotel and started walking through the city towards the central station.
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25815623486/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1441/25815623486_4cb468584a_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## Meeting at the airport
+We met at the airport - Konstantin arrived just 1 hour later than Patrick - and we took the new tram from the airport to the city center. Once we arrived in the city center we were searching for Konstantin's hotel where he was planning to stay for another week after our planned packrafting trip. We unloaded some of our clothes from our backpack in the hotel and started walking through the city towards the central station.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25540996040/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1458/25540996040_7cab179cab_b.jpg" width="1024" height="768" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -65,8 +66,6 @@ Having ordered my pot of tea, I had a chance to look around. Besides the woman w
 ## Deer fencing
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25720731532/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1702/25720731532_b15b7974c6_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25815623486/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1441/25815623486_4cb468584a_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25746562021/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1670/25746562021_69799f21d2_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
