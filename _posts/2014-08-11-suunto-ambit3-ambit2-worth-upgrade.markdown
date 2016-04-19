@@ -18,64 +18,13 @@ Checking the altitude in [Finnish Lapland][1] with the Ambit3.
 
 **Update (22.01.2016):** Suunto has released the [Ambit3 Vertical][3] watch. It’s similar like the Traverse but with an additional graph which displays your ascent / descent.
 
+**Update (19.04.2016):** Suunto has released the Traverse Alpha which adds features for hunting and fishing to the regular Traverse. It's also a bit more expensive than the regular Traverse.
+
 ## Check for Discounts
 Before deciding if you should upgrade to an Ambit3 you should have a look at the <a href="http://www.hikeventures.com/deals/#Suunto+Ambit2">Ambit2 prices</a>  which are much lower than the <a href="http://www.hikeventures.com/deals/#Suunto+Ambit3">Ambit3 prices</a>.
 
 ## Differences between Ambit2 and Ambit3
 Basically, there is not much difference between the look of the Ambit2 and the Ambit3 (Sport model is a bit thinner) and I have summarised the most important improvements and specifications below:
-
-
-## Weight
-<div class="progress">
-<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="27" aria-valuemin="0" aria-valuemax="100" style="width: 27%">
-Apple Watch Sport - 25 grams <span class="sr-only">Apple Watch Sport 38mm - 25 grams</span>
-</div>
-</div>
-<div class="progress">
-<div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="74" aria-valuemin="0" aria-valuemax="100" style="width: 74%">
-Ambit3 Run - 68 grams  <span class="sr-only">Ambit3 Run - 68 grams</span>
-</div>
-</div>
-<div class="progress">
-<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="76" aria-valuemin="0" aria-valuemax="100" style="width: 76%">
-Ambit2 R - 70 grams<span class="sr-only">Ambit2 R - 70 grams</span>
-</div>
-</div>
-<div class="progress">
-<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="78" aria-valuemin="0" aria-valuemax="100" style="width: 78%">
-Ambit2 S - 72 grams  <span class="sr-only">Ambit2 S - 72 grams</span>
-</div>
-</div>
-<div class="progress">
-<div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="87" aria-valuemin="0" aria-valuemax="100" style="width: 87%">
-Ambit3 Sport - 80 grams <span class="sr-only">Ambit3 Sport - 80 grams</span>
-</div>
-</div>
-<div class="progress">
-<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="89" aria-valuemin="0" aria-valuemax="100" style="width: 89%">
-Garmin Fenix 3 - 82 grams  <span class="sr-only">Garmin Fenix 3 - 82 grams</span>
-</div>
-</div>
-<div class="progress">
-<div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="97" aria-valuemin="0" aria-valuemax="100" style="width: 97%">
-Ambit3 Peak - 89 grams <span class="sr-only">Ambit3 Peak - 89 grams</span>
-</div>
-</div>
-<div class="progress">
-<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="97" aria-valuemin="0" aria-valuemax="100" style="width: 97%">
-Ambit2 - 89 grams<span class="sr-only">Ambit2 - 89 grams</span>
-</div>
-</div>
-<div class="progress">
-<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%">
-Ambit2 Saphire - 92 grams<span class="sr-only">Ambit2 Saphire - 92 grams</span>
-</div>
-</div>
-<div class="progress">
-<div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%">
-Ambit3 Peak Saphire - 92 grams  <span class="sr-only">Ambit3 Peak Saphire - 92 grams</span>
-</div>
-</div>
 
 ## Connectivity
 The Suunto Ambit 3 allows you to connect the watch with a tablet or smartphone via Bluetooth as well as synchronising pictures on your smartphone with data from the Ambit3. So no USB cable needed anymore to transfer data which should also increase the lifespan of the battery.
