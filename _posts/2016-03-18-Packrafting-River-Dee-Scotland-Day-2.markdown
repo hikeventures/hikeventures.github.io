@@ -69,10 +69,13 @@ The water contaminated. And lots of sharp / metal objects in the water. Seen som
 ## Tea Time in Ballater
 In Ballater stepped out after the bridge to get some food. The one with the trailer - and went to Dreeside garage. Got tea and chocolate. Asked if there was anywhere to eat. Well, the town centre had all been flooded. Were they too? Yes. They got the water, but from the village, not directly from the river. When did it happen? On the 30th of December. Merry Christmas and a happy new year. in a way yes, he smiled bitterly. Got back.  
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25540988460/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1536/25540988460_2920202f27_o.jpg" width="1024" height="768" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25211164094/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1563/25211164094_ed2ac46f7d_o.jpg" width="1024" height="768" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Had tea with Patrick and then asked a passerby of there was a shop. We saw it, but I was not sure if it was open. Yes, behind the church. Just follow the main road. On the way, the shops closed. The Royal appointment for this or for that. Closed, the floor boards ripped off, heaters and fens staring there to dry the aftermath of the flood.
 For more than 100 years not like that. People have already forgotten that it can be like that. And they got careless. But the nature reminds us of its might from time to time.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25540988460/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1536/25540988460_2920202f27_o.jpg" width="1024" height="768" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 
 ## Getting food in Ballater
 Wales to the shop warring my dry suit. Strange, but comfortable. I was not there to impress people, but to get the food. No one asked me any questions, I didn't give any one any explanations.
