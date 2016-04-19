@@ -40,8 +40,7 @@ Everyone talks about the need to unplug from their stressful lives and connect w
 <img src="https://farm1.staticflickr.com/297/19499672614_0dc5de9f99_b.jpg" width="960" height="960" alt="kasper &amp; charlotte">
 <a href="https://www.facebook.com/kasper.charlotte"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/kaspergeuns/"><i class="fa fa-twitter"></i></a>  <a href="https://instagram.com/KASPERGEUNS/"><i class="fa fa-instagram"></i></a>  <a href="https://vimeo.com/user10535942"><i class="fa fa-vimeo"></i></a>  <a href="https://www.pinterest.com/kaspergeuns/"><i class="fa fa-pinterest"></i></a>
 
-### <a href="https://mattiemeetsnature.wordpress.com/">mattiemeetsnature.wordpress.com/</a>
-<img src="https://farm1.staticflickr.com/297/19499672614_0dc5de9f99_b.jpg" width="960" height="960" alt="kasper &amp; charlotte">
+### <a href="https://mattiemeetsnature.wordpress.com/">mattiemeetsnature.wordpress.com</a>
 <a href="https://www.facebook.com/mattiemeetsnature/"><i class="fa fa-facebook"></i></a> <a href="https://www.instagram.com/Mattie_Meets_Nature/"><i class="fa fa-instagram"></i></a>
 
 ### <a href="https://tsjolinge.wordpress.com">tsjolinge.wordpress.com</a>
