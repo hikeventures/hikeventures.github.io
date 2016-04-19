@@ -84,11 +84,9 @@ After the fence it was quite easy to paddle along the river and there were no ma
      
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25746562021/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1670/25746562021_69799f21d2_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-## Scouting at the Invercauld bridge 
-Victorian bridges. Other traces of the Victorians. The Victorian Deeside.
-
-
-
+## The Invercauld bridge 
+Before the invercauld bridge we were looking for a spot where we could step out of our packrafts so that we could go and scout the rapid which goes just under the bridge. Again the low water level didn't offer many opportunities to pass our first major obstacle as we realized on our scout. The Invercauld bridges were actually quite interesting and built in Victorian architecture style.
+     
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25841666865/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1624/25841666865_141d7f355a_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
