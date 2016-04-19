@@ -27,9 +27,13 @@ Personally, I like the new look of the Traverse (see picture above) more than th
 
 **Update 19.12.2015: **Suunto has released firmware 1.54 which brings GLONASS support to the Suunto Traverse - which means more accuracy of the GPS signals. However, I got a message on my Traverse that GLONASS will also consume more battery.
 
-**Update (7.1.2016):** Suunto has released the Suunto Ambit3 Vertical. <a href="http://www.hikeventures.com/deals/#Ambit3+Vertical">Ambit3 Vertical</a> if you are more into mountain running or Mountainbiking.
+**Update (7.1.2016):** Suunto has released the Suunto Ambit3 Vertical which is targeted towards mountain runners or mountain bikers.
 
-## Where to buy the Suunto?
+**Update (19.4.2016):** Suunto has released the Suunto Traverse Alpha which is targeted towards hunters and fishers.
+
+So far, I still think that the basic Suunto Traverse is the best option you can get for your money.
+
+## Where to buy the Suunto Traverse?
 <a  href="http://www.amazon.com/gp/product/B014PNZKC0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014PNZKC0&linkCode=as2&tag=hikeve-20&linkId=632KXW4PCPBDYU3S"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B014PNZKC0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B014PNZKC0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <br>
 Here is also an [article][1] where I was wearting the Suunto Ambit3 on a packrafting trip in the Swedish mountains.
