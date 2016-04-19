@@ -8,12 +8,18 @@ tags: [destinations, packrafting, scotland]
 description: Our February packrafting adventure in Scotland.
 ---
 ## Edinburgh
-In Edinburgh we left some of our luggage in a hotel where Konstantin was planning to stay for another week after the packrafting trip.
+In January we made plans to go packrafting in the Scottish Highlands and decided to raft down the River Dee for a couple of days.
+We met at the airport - Konstantin arrived just 1 hour later than Patrick - and we took the new tram from the airport to the city center.
+
+Once we arrived in the city center we were searching for Konstantin's hotel where he was planning to stay for another week after our planned packrafting trip. We unloaded some of our clothes from our backpack in the hotel and started walking through the city towards the central station.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25540996040/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1458/25540996040_7cab179cab_b.jpg" width="1024" height="768" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## With the train from Edinburgh to Aberdeen
-It's a 16.28 Scotrail train from Edinburgh Waverley to Aberdeen. The train is packed. The train conductor apologies several times for this on the loudspeaker. Good thing we booked our seats. A woman behind us booked a forward seat but gets a small one on which she has to travel sideways. She swaps it with another person, who cannot find her reserved sit and is happy with this one. The scenery outdoor is great. We go over the bridge, just got listed by the unesco, and pass by to the othe side of the Forth. People step off and step on the train, but the further we go, the few people there are. We pass by places with difficult English names and completely unpronounceable Scottish. In the hotel last nigh in Aberdern saw BBC Alba - Gaelic language course - teaching how to say 13 ponds - douh. Repeated at least 20 times. Finally, we go over an impressive railway bridge in Dundee (is it the same name as in Australia, Patrick asks) and arrive in Aberdeen after dark.
+At 16.28 we left Edinburgh  Waverly with the Scotrail train to Aberdeen. The train was packed and the train conductor apologiesed several times for this on the loudspeaker. Fortunately, we had both made a seat reservation. A woman behind us booked a forward seat but got a small one on which she had to travel sideways. She swapped it with another person, who was not able to find her reserved seat and was happy with the one she got. 
+
+## The Scottish Scenery
+The scenery outdoor is great. We go over the bridge, just got listed by the unesco, and pass by to the othe side of the Forth. People step off and step on the train, but the further we go, the few people there are. We pass by places with difficult English names and completely unpronounceable Scottish. In the hotel last nigh in Aberdern saw BBC Alba - Gaelic language course - teaching how to say 13 ponds - douh. Repeated at least 20 times. Finally, we go over an impressive railway bridge in Dundee (is it the same name as in Australia, Patrick asks) and arrive in Aberdeen after dark.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25607406640/in/dateposted-public/" title="Packrafting the River Dee"><img src="https://farm2.staticflickr.com/1679/25607406640_68168fafc5_b.jpg" width="1024" height="768" alt="Packrafting the River Dee"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
