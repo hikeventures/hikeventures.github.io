@@ -46,6 +46,8 @@ Talking about about the concept of the pot of tea - I hardly ever saw anything l
 Having ordered my pot of tea, I had a chance to look around. Besides the woman who severed me, there was another elderly woman, wearing a similar neat white apron. She was busy doing something behind a glass display which contained a five selection of most deliciously looking muffins and pastry. Looking at them I wished I still ate sugar. But I had to stay strong and I chased the tempting thoughts away. My pot of tea arrived and standing.
 
 ## On the way to the River Dee
+Refreshed we started walking to find a place where we could inflate our packrafts and finally start our packrafting trip. 
+   
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25607400980/in/dateposted-public/" title="Packrafting the River Dee"><img src="https://farm2.staticflickr.com/1442/25607400980_4a2ed0c9df_b.jpg" width="1024" height="768" alt="Packrafting the River Dee"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25813026991/in/dateposted-public/" title="Packrafting the River Dee"><img src="https://farm2.staticflickr.com/1540/25813026991_f2dc51fe86_b.jpg" width="1024" height="768" alt="Packrafting the River Dee"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
