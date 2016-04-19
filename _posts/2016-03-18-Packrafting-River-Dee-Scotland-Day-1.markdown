@@ -46,17 +46,21 @@ Talking about about the concept of the pot of tea - I hardly ever saw anything l
 Having ordered my pot of tea, I had a chance to look around. Besides the woman who severed me, there was another elderly woman, wearing a similar neat white apron. She was busy doing something behind a glass display which contained a five selection of most deliciously looking muffins and pastry. Looking at them I wished I still ate sugar. But I had to stay strong and I chased the tempting thoughts away. My pot of tea arrived and standing.
 
 ## On the way to the River Dee
-Refreshed we started walking to find a place where we could inflate our packrafts and finally start our packrafting trip. 
-   
+Refreshed we started walking to find a place where we could inflate our packrafts and finally start our packrafting trip. It has been very cold during the night and the gras was still frozen. However, the wonderful scenery and sun made us feel excited to start paddling and to get close to the nature.
+    
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25607400980/in/dateposted-public/" title="Packrafting the River Dee"><img src="https://farm2.staticflickr.com/1442/25607400980_4a2ed0c9df_b.jpg" width="1024" height="768" alt="Packrafting the River Dee"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
+    
+After a short hike we found a spot which was suiteable to inflate our packrafts and to easily get into the river. On some spots the river was partly frozen but as we realized later on it was not difficult to break with our packrafts through the ice.
+    
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25813026991/in/dateposted-public/" title="Packrafting the River Dee"><img src="https://farm2.staticflickr.com/1540/25813026991_f2dc51fe86_b.jpg" width="1024" height="768" alt="Packrafting the River Dee"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
+     
 ## Inflating the Packrafts
-
+Having in inflated our packrafts we were good to go. Konstantin inflated his packraft on a different spot but Patrick was the first one who made it into the river. 
+    
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25720737682/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1499/25720737682_7e90c9e959_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
+    
+   
+    
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25815608426/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1507/25815608426_e63297c5c8_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25211155704/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1543/25211155704_7246941e5b_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
