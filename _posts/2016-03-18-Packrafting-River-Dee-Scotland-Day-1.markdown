@@ -62,11 +62,17 @@ Having in inflated our packrafts we were good to go. Konstantin inflated his pac
 The mountains were still covered with snow. We actually had a discussion if we should go on a hiking trip before packrafting down the river Dee but decided to start paddling immediately as the weather forecast only promised good weather for the coming 2-3 days.
      
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25815608426/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1507/25815608426_e63297c5c8_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
+     
+Already at the beginning we realized that the water level of the Dee was quite low. Nevertheless, it was still possible to paddle.
+     
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25211155704/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1543/25211155704_7246941e5b_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
+     
+An advantage of a river with a low water level is that there are plenty of opportunities to get our of the packraft to have a break. We had our first brake already after 30 minutes or so.
+      
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25540976580/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1678/25540976580_95957933d6_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
+     
+Sometimes ice can create an interesting motive for pictures.
+      
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25607397050/in/dateposted-public/" title="Packrafting the River Dee"><img src="https://farm2.staticflickr.com/1699/25607397050_0013dbdd99_b.jpg" width="1024" height="768" alt="Packrafting the River Dee"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Deer fencing
