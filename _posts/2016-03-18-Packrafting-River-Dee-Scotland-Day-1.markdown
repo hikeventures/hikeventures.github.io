@@ -85,40 +85,47 @@ After the fence it was quite easy to paddle along the river and there were no ma
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25746562021/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1670/25746562021_69799f21d2_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## The Invercauld bridge 
-Before the invercauld bridge we were looking for a spot where we could step out of our packrafts so that we could go and scout the rapid which goes just under the bridge. Again the low water level didn't offer many opportunities to pass our first major obstacle as we realized on our scout. The Invercauld bridges were actually quite interesting and built in Victorian architecture style.
+Before the invercauld bridge we were looking for a spot where we could step out of our packrafts so that we could go and scout the rapid which goes just under the bridge. Again the low water level didn't offer many opportunities to pass our first major obstacle as we realized on our scout. 
      
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25841666865/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1624/25841666865_141d7f355a_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
-
+     
+Our first scout put Konstantins new <a href="http://www.hikeventures.com/Sea-to-Summit-Ultra-Flex-Booties/">Sea to Summit Ultra Flex Booties</a> into test.
+      
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25215076843/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1525/25215076843_72b6fa4c0b_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
+      
+The Invercauld bridges were actually quite interesting and built in Victorian architecture style.
+      
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25540972010/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1596/25540972010_8f7df53c2d_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
+     
+We were walking along a small path next to the river to find out if it was possible to paddle the rapid.
+     
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25540971350/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1514/25540971350_3513fb43df_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
-
+      
+a
+     
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25540970700/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1687/25540970700_3df0722898_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
+     
+    b
+     
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25746558441/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1481/25746558441_7f3751e22b_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
+     
+We went on and under the Invercauld bridge.
+     
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25211168844/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1577/25211168844_97c62028f0_o.jpg" width="1024" height="768" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
+     
+     
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25841663315/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1653/25841663315_8d3a19524b_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
-
+     
+As you can see on the picture the water level was quite low and it was hard to find the right spot to pass this rapid. There were many stones where you could get stuck with your packraft and flip over. Patrick decided to carry the packpack around and to take pictures of Konstantin paddling through the rapid. 
+     
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25215076133/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1595/25215076133_a6ef1fd5c2_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
-
+     
+Konstantin on a small rapid after the main rapid under the Invercauld bridge.
+     
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25815615286/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1617/25815615286_cde67d07b3_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
+     
+Looking backwards from our packrafts the Invercauld bridge were quite an experience.
+     
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25815614586/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1657/25815614586_cfb6efc395_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Cambus o' May bridge
