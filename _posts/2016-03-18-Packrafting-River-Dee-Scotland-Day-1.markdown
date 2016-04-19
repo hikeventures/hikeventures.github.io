@@ -58,9 +58,9 @@ After a short hike we found a spot which was suiteable to inflate our packrafts 
 Having in inflated our packrafts we were good to go. Konstantin inflated his packraft on a different spot but Patrick was the first one who made it into the river. 
     
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25720737682/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1499/25720737682_7e90c9e959_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-    
-   
-    
+     
+The mountains were still covered with snow. We actually had a discussion if we should go on a hiking trip before packrafting down the river Dee but decided to start paddling immediately as the weather forecast only promised good weather for the coming 2-3 days.
+     
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25815608426/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1507/25815608426_e63297c5c8_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25211155704/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1543/25211155704_7246941e5b_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
