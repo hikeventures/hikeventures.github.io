@@ -133,7 +133,11 @@ Looking backwards from our packrafts the Invercauld bridge was quite an experien
 The suspension bridge at Cambus O' May was built in 1905 and rebuilt in 1988 for safety reasons and one of the most popular destinations for tourists visiting Victorian sites in this area. 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25211142164/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1646/25211142164_58e03539d6_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
+     
+The Cambus O' May bridge got quite heavily damaged during the floods 3 months ago.
+     
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25813042891/in/dateposted-public/" title="Packrafting the River Dee"><img src="https://farm2.staticflickr.com/1561/25813042891_409019ed99_b.jpg" width="1024" height="768" alt="Packrafting the River Dee"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    
 ## Problems with the Packraft
 Konstantin's had some issues with his Alpacka Packraft during our trip. Air went out through the zippers and there was a puncture at the bottom of his packraft which he managed to temporarily quick fix it.
      
@@ -142,8 +146,6 @@ Konstantin's had some issues with his Alpacka Packraft during our trip. Air went
 After our trip Konstantin contacted Alpacka Raft and reported the issue on his packraft. Alpacka agreed to fix both issues on his packraft and also paid for the shipping fees. We would say that this is quite good customer service from Alpacka Raft. 
      
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25841679395/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1582/25841679395_279021f44d_b.jpg" width="1024" height="768" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25813042891/in/dateposted-public/" title="Packrafting the River Dee"><img src="https://farm2.staticflickr.com/1561/25813042891_409019ed99_b.jpg" width="1024" height="768" alt="Packrafting the River Dee"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Camping nearby Balmoral Castle
 
