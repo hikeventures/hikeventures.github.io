@@ -85,7 +85,7 @@ After the fence it was quite easy to paddle along the river and there were no ma
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25746562021/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1670/25746562021_69799f21d2_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## The Invercauld bridge 
-Before the invercauld bridge we were looking for a spot where we could step out of our packrafts so that we could go and scout the rapid which goes just under the bridge. Again the low water level didn't offer many opportunities to pass our first major obstacle as we realized on our scout. 
+The invercauld bridge was built in 1859 and we were looking for a spot where we could step out of our packrafts so that we could go and scout the rapid which flows just under the bridge. Again the low water level didn't offer many opportunities to pass our first major obstacle as we realized on our scout. 
      
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25841666865/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1624/25841666865_141d7f355a_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
      
@@ -125,11 +125,12 @@ Konstantin on a small rapid after the main rapid under the Invercauld bridge.
      
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25815615286/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1617/25815615286_cde67d07b3_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
      
-Looking backwards from our packrafts the Invercauld bridge were quite an experience.
+Looking backwards from our packrafts the Invercauld bridge was quite an experience.
      
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25815614586/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1657/25815614586_cfb6efc395_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-## Cambus o' May bridge
+## Cambus O' May suspension bridge
+The suspension bridge at Cambus O' May was built in 1905 and rebuilt in 1988 for safety reasons and one of the most popular destinations for tourists visiting Victorian sites in this area. 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25211142164/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1646/25211142164_58e03539d6_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
