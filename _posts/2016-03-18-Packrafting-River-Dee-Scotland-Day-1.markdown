@@ -148,5 +148,6 @@ After our trip Konstantin contacted Alpacka Raft and reported the issue on his p
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25841679395/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1582/25841679395_279021f44d_b.jpg" width="1024" height="768" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Camping nearby Balmoral Castle
-
+When the sun started to set we decided to look for a place where we could step out of our packrafts and to pitch our tent. It was already quite cold and we were already quite tired after this day. After we pitched our <a rel="nofollow" href="http://amzn.to/1Vj0UpY">MSR Hubba Hubba Tent</a> we prepared our dinner. Patrick enjoyed one of the meals which Konstantin brought from Japan while Konstantin prepared a Real Tumac dinner with our <a rel="nofollow" href="http://amzn.to/1Vj12Ws">MSR Windburner</a>.
+     
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25720721372/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1543/25720721372_88b2387369_b.jpg" width="1024" height="743" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
