@@ -7,18 +7,14 @@ published: false
 category: reviews
 tags: [reviews, books, kitchen, food, culture]
 ---
-Since I have been living in Finland since 2006 I have read a lot about the history and 
+Since I have been living in Finland since 2006 I have read a lot about the history and  culture of Finland and other Nordic countries. Food is also part of culture so I decided to read a bit more about the Nordic kitchen and came across Michele Genest book "The Boreal Feast" which covers culinary aspects of Canada, Finland, Norway and Sweden.
 
-culture of Finland and other Nordic countries. Food is also part of culture so I decided to 
+The Boreal Feast starts with an introuction where the author examines the meaning of "feast", the geographical area of the boreal forest and the importance of this area.
 
-read a bit more about the Scandinavian kitchen and came across Michele Genest book 
+Then the book continues describing dishes which can be prepared with ingrediants for each season. Each chapter represents one season and starts with an general introduction on whats happening in different nordic countries during this season culturally and also in the nature. The dishes are part of a menu and there is also a story which covers 2-3 pages where the author tells for example about a trip in Swedish Lapland to meet Sami Chefs.
 
-called "The Boreal Feast" which covers culinary aspects of Finland, Norway and Sweden.
+The book is also an excellent choice for Vegetarians as not all dishes contain meat.
 
-The Boreal Feast has 256 pages so it's quite extensive. The author seperated the book 
-
-according to the seasons and embellished the book with beautiful pictures throughout 
-
-the book. In this book you can find 12-course menu but also very simple dishes and drinks. It also covers ingredients like mushrooms birch syrup or blueberries or Panna Cotta in a more Scandinavian style.
+The Boreal Feast has 256 pages so it's quite extensive but the articles are well supported with pictures.
 
 If you are interested to read more about the Scandinavian kitchen then you can order the book <a href="http://www.amazon.com/gp/product/1550176277/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1550176277&linkCode=as2&tag=hikeve-20&linkId=3EZE73DXNHX57DY6">here</a>.
