@@ -83,4 +83,4 @@ The Viking Grace is one of the first ships which are powered with gas rather tha
 Finnish flag on the sunshine deck of the Viking Grace.
 <br><br><a href="https://www.flickr.com/photos/90204224@N07/19138034831" title="2015-05-31 16.50.02"><img src="https://c1.staticflickr.com/1/351/19138034831_77cb943522_o.jpg" width="992" height="744"></a><br>
 
-In general it was a nice weekend trip. I was a bit disappointed however that all the shops were closed in Mariehamn. Fortunately, there were some interesting museums to visit. Next time I will visit Aland I am planning to explore the area outside of Mariehamn including a visit to the castle and some hiking or biking.
+In general it was a nice weekend trip. I was a bit disappointed however that all the shops were closed in Mariehamn on Saturday. Fortunately, there were some interesting museums to visit. Next time when I am going to visit Aland I am planning to explore the area outside of Mariehamn including a visit to the castle and some hiking or biking.
