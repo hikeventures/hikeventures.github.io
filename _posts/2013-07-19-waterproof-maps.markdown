@@ -28,4 +28,5 @@ Calazo maps are printed on both sides and are available in the scales 1:100 000 
 
 ## Recommendation
 I can highly recommend the waterproof Calazo maps. We have tested a Calazo map on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden and the Calazo map performed quite well even on rainy days. As those maps are sometimes even cheaper than regular maps it is actually a no-brainer to get those tyvek maps.
-What is your experience with the Calazo Maps? Leave a comment below.
+
+What is your experience with the Calazo Maps?
