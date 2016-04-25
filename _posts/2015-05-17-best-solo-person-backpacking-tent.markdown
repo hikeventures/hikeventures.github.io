@@ -146,4 +146,4 @@ If I would choose the Hilleberg Unna as a summer tent then I would replace the s
 
 Please note that it's a good idea to have more space in your tent or a bigger vestibule if you are more into winter camping. For longer trips you should probably consider even bigger tents than the ones I have listed here.
 
-Here is also an [article](http://www.hikeventures.com/-packrafting-Njuoreatnu-Tornetrask-abisko-day-2/ "Packrafting in Sweden") about our packrafting trip in the Swedish mountains where we are using the MSR Hubba Hubba NX. 
+Here is also an [article](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/ "Packrafting in Sweden") about our packrafting trip in the Swedish mountains where we are using the MSR Hubba Hubba NX. 
