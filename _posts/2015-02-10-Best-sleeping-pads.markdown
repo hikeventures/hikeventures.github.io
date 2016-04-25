@@ -43,7 +43,7 @@ Exped Synmat UL 7
 
 
 ## R-value and Season
-The R-value of a Sleeping Pad indicates the thermal resistance of a sleeping pad. The higher the R-Value the more the sleeping pad is capable to keep you warm during cold nights. For summer and late spring / early autumn I would opt for a sleeping pad with an R-value between 2.0-3.0 depending on the location. For winter camping I would rather go for a sleeping pad with an R-Value of around 5 or more. I have a sleeping pad with an R-value of 3.3 which I have tested at around 0 degree Celsius during the night and I felt the cold. I guess that a sleeping pad with a R-value of around 4 would have been more suitable for this temperature. Feel free to leave a comment below on which R-value you prefer for spring, summer, autumn and winter (also mention your location).
+The R-value of a Sleeping Pad indicates the thermal resistance of a sleeping pad. The higher the R-Value the more the sleeping pad is capable to keep you warm during cold nights. For summer and late spring / early autumn I would opt for a sleeping pad with an R-value between 2.0-3.0 depending on the location. For winter camping I would rather go for a sleeping pad with an R-Value of around 5 or more. I have a sleeping pad with an R-value of 3.3 which I have tested at around 0 degree Celsius during the night and I felt the cold. I guess that a sleeping pad with a R-value of around 4 would have been more suitable for this temperature.
 
 
 ## Durability and Weight
