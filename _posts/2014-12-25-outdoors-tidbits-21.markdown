@@ -25,8 +25,6 @@ Gear of 2014. - [hikelighter.com](http://hikelighter.com/2014/12/24/gear-of-2014
 <br><br>
 Macro Nature Photography. - [bushwalkingblog.com.au](http://www.bushwalkingblog.com.au/macro-nature-photography/)
 <br><br>
-Cordillera Blanca Traverse Stage 4 the end. - [thehikinglife.com](http://www.thehikinglife.com/journal/2014/12/cordillera-blanca-traverse-stage-4-the-end/)
-<br><br>
 Top 10 Outdoor Items to get for Christmas. - [hikingforward.com](http://www.hikingforward.com/blog/top-10-outdoor-items-to-get-for-christmas-according-to-grace-and-gabby)
 <br><br>
 Blissful hiking is wishing a Merry Christmas. - [blissfulhiking.blogspot.fi](http://nblo.gs/12gsaz)
