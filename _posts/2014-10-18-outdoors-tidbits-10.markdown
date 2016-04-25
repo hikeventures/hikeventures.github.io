@@ -94,6 +94,5 @@ Haglöfs Rugged II Mountain Pants. - [climbinggearreviewsuk.wordpress.com](http:
 <br><br>
 Outdoor Research Heated Gloves. - [gearjunkie.com](http://gearjunkie.com/outdoor-research-lucent-heated-glove-review)
 <br><br>
-For winter touring theKastle TX97 review might be useful. - [exploretherockies.org](http://exploretherockies.org/2014/10/14/gear-review-kastle-tx97)<br><br>
 
 <iframe src="//player.vimeo.com/video/109053833" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/109053833">Alone on Voxnan. - Return to Civilization (Part 3)</a> from <a href="http://vimeo.com/urbanpackrafter">Urban Packrafter</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
