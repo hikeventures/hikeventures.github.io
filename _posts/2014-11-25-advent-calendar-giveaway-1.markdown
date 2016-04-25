@@ -7,7 +7,7 @@ published: true
 category: campaigns
 tags: [campaigns]
 ---
-Ho Ho Ho - Here comes our first giveaway - an [aquapac](http://store.aquapac.net/splash/index.html) waterproof camera pouch! This is a great camera bag which I use myself for my Sony A7r + Sony 35mm 2.8 lens. <br><br>
+Ho Ho Ho - Here comes our first giveaway - an aquapac waterproof camera pouch! This is a great camera bag which I use myself for my Sony A7r + Sony 35mm 2.8 lens. <br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/15876933245"><img src="https://farm8.staticflickr.com/7504/15876933245_5f2da0043d_b.jpg" width="1024" height="1024"></a><!--more--><br><br>
 
 On the bottom of the bag there is sufficient space to store another spare battery, remote control and SD cards. The camera pouch has a waterproof level of [IPX6](http://en.wikipedia.org/wiki/IP_Code) <br><br>
