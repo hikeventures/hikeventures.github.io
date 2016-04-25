@@ -46,4 +46,3 @@ Experienced Talvi. - [ainaylamaki.blogspot.com](http://ainaylamaki.blogspot.com/
 
 A trail report about the Havasupai Falls in Arizona. - [hikenoworklater.com](http://hikenoworklater.com/2014/11/08/trail-report-havasupai-falls-arizona)
 
-Hiking at  hiking at Raven’s Rock. - [outsidecincy.com](http://outsidecincy.com/2014/11/07/hiking-at-ravens-rock)
