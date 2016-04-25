@@ -8,7 +8,8 @@ category: tidbits
 tags: [tidbits]
 ---
 
-This week has been quite busy for us, planning and arranging things for our upcoming trips in the next 2 months. In July we are going to have some adventures in Poland. Konstantin will then continue with a 3 weeks packrafting and hiking adventure in Japan. Once back from Japan we will participate in the Fjällräven Classic event in Sweden in August followed by a couple of days packrafting in the Swedish mountains most likely together with the <a href="http://deliveranceteam.outdrr.com">The Deliverance Team</a> and <a href="http://urbanpackrafter.com">Urbanpackrafter</a>.
+This week has been quite busy for us, planning and arranging things for our upcoming trips in the next 2 months. In July we are going to have some adventures in Poland. Konstantin will then continue with a 3 weeks packrafting and hiking adventure in Japan. Once back from Japan we will participate in the Fjällräven Classic event in Sweden in August followed by a couple of days packrafting in the Swedish mountains most likely together with the <a href="http://deliveranceteam.outdrr.com">The Deliverance Team</a> and <a href="http://urbanpackrafter.com">Urbanpackrafter</a>.   
+    
 <a href="https://www.flickr.com/photos/90204224@N07/9596226393"><img src="https://c2.staticflickr.com/6/5479/9596226393_34ba3b93fb_b.jpg" width="1024" height="683"></a>
 
 ## Gear reviews
@@ -36,8 +37,6 @@ This week has been quite busy for us, planning and arranging things for our upco
 [Air Travel Tips for Hikers and Backpackers](http://toddthehiker.com/2015/06/12/air-travel-tips-for-hikers-and-backpackers)
 
 [5 Kinds of Hiking Footwear for Every Kind of Adventure.](http://outdoorsymama.blogspot.com/2015/06/5-kinds-of-hiking-footwear-for-every.html)
-
-[Which Kayak Should You Get For River Fishing?](http://www.greatoutdoorz.com/which-kayak-should-you-get-for-river-fishing/)
 
 [Im Alleingang nach Irland und Schottland](http://fraeulein-draussen.de/als-frau-alleine-nach-irland-schottland/)
 
