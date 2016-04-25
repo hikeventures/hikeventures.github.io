@@ -20,12 +20,6 @@ Checking the altitude in [Finnish Lapland][1] with the Ambit3.
 
 **Update (19.04.2016):** Suunto has released the <a href="http://www.suunto.com/Products/sports-watches/Suunto-Traverse-Alpha/Suunto-Traverse-Alpha-Foliage/">Traverse Alpha</a> which adds features for hunting and fishing to the regular Traverse. It's also a bit more expensive than the regular Traverse.
 
-## Check for Discounts
-Before deciding if you should upgrade to an Ambit3 you should have a look at the <a href="http://www.hikeventures.com/deals/#Suunto+Ambit2">Ambit2 prices</a>  which are much lower than the <a href="http://www.hikeventures.com/deals/#Suunto+Ambit3">Ambit3 prices</a>.
-
-## Differences between Ambit2 and Ambit3
-Basically, there is not much difference between the look of the Ambit2 and the Ambit3 (Sport model is a bit thinner) and I have summarised the most important improvements and specifications below:
-
 ## Connectivity
 The Suunto Ambit 3 allows you to connect the watch with a tablet or smartphone via Bluetooth as well as synchronising pictures on your smartphone with data from the Ambit3. So no USB cable needed anymore to transfer data which should also increase the lifespan of the battery.
 
@@ -71,6 +65,8 @@ The Anker 2nd Gen Astro E5 16000mAh is my favourite USB battery which I use to c
 ## Where to buy the Suunto Traverse
 <a  href="http://www.amazon.com/gp/product/B014PNZKC0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014PNZKC0&linkCode=as2&tag=hikeve-20&linkId=IMZJLZ6YNLBHIO2O"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B014PNZKC0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B014PNZKC0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+## Discounts
+Before deciding if you should upgrade to an Ambit3 you should have a look at the <a href="http://www.hikeventures.com/deals/#Suunto+Ambit2">Ambit2 prices</a>  which are much lower than the <a href="http://www.hikeventures.com/deals/#Suunto+Ambit3">Ambit3 prices</a>. If you don't need the latest and the best then the Ambit2 should be fine as well.
 
 
 
