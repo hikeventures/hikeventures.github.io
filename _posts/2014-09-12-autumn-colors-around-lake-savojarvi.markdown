@@ -93,4 +93,4 @@ Finally, I found the ultimate mushroom spot on the whole trail.
 To sum up, this was a great hike and I will come back another time in order to explore the Takaniitunvuori outlook and Vajosuo.
 
 ## Links
-Kurjenrahka National Park on <a href="http://www.outdoors.fi/destinations/nationalparks/kurjenrahka/Pages/Default.aspx">Outdoors.fi</a>
+Kurjenrahka National Park on <a href="http://www.nationalparks.fi/en/kurjenrahkanp">Outdoors.fi</a>
