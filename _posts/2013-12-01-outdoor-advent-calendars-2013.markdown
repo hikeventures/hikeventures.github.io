@@ -23,7 +23,6 @@ Here is my list for 2013 which includes advents calendars in German and English.
 *  roadbike.de: <a href="http://www.roadbike.de/advent.370547.9.htm" target="_blank">RoadBIKE Advenstkalender 2013</a>
 * trekkingmagazin.com: <a href="http://www.trekkingmagazin.com/" target="_blank">Trekking Magazin Adventskalender 2013</a>
 * runnersworld.de: <a href="http://www.runnersworld.de/community/adventskalender-2013.280852.htm" target="_blank">Runners World Advent Calendar 2013</a>
-* menshealth.de: <a href="http://www.menshealth.de/life/lifestyle/24-starke-gewinne-warten-hier-auf-sie.138987.htm" target="_blank">Men&#39;s Health Advents Kalender 2013</a>
 * womenshealth.de: <a href="http://www.womenshealth.de/life/lebensart/einfach-klicken-und-mitmachen.3496.htm" target="_blank">Women&#39;s Health Advents Kalender 2013</a> 
 * best-of-wandern.de: <a href="http://www.best-of-wandern.de/index.php/aktionen/adventskalender" target="_blank">Best of Wandern Advents Kalender 2013</a>
 * outdooractive.com: <a href="http://blog.outdooractive.com/de/2013/11/28/der-outdooractive-com-adventskalender-%E2%80%93-mitmachen-und-gewinnen/" target="_blank">Outdooractive Advent Kalender 2013</a>
