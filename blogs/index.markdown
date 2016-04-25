@@ -181,6 +181,7 @@ The Huckleberry Hiker covers news, events and discussions about all things hikin
 
 ### <a href="http://www.kellieclee.com">kellieclee.com</a>
 My blog is about exploring the outdoors and enjoying Nevada's wide open spaces.
+<a href="https://twitter.com/kelliehiking"><i class="fa fa-twitter"></i></a><a href="https://instagram.com/kellieexploring"><i class="fa fa-instagram"></i></a>
 
 ### <a href="http://www.midwestbasecamp.com">midwestbasecamp.com</a>
 I’m a transplanted Southern Californian living in the Midwest. It’s taken some time, and plenty of searching, to appreciate the nature we have here. In the Midwest we don’t have the jagged peaks or deep canyons others do, but we do have trails to run and hike, rivers to canoe and kayak, and forests to explore. In winter we make do with ski hills, ride fat tire bikes, winter camping and snowshoeing to revisit favorite spots. Finding Adventure in my Backyard: trail running, hiking, camping, skiing, and pretty much want to try everything outdoors, at least once. <a href="http://www.facebook.com/MidwestBasecamp"><i class="fa fa-facebook"></i></a>  <a href="http://twitter.com/KovasP"><i class="fa fa-twitter"></i></a>  <a href="http://instagram.com/kovasp"><i class="fa fa-instagram"></i></a>  <a href="https://www.youtube.com/user/kovasp"><i class="fa fa-youtube"></i></a>
