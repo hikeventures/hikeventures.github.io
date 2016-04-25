@@ -29,6 +29,3 @@ I have tested the Black Diamond Ultra Distance Z-Pole on <a href="http://hikeven
 
 ## Where to buy?
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B008V0C4VO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008V0C4VO&linkCode=as2&tag=hikeve-20&linkId=SJECAUMAYYAUC2NZ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008V0C4VO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B008V0C4VO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-
-What is your experience with the "Black Diamond Ultra Distance Z-Pole? Leave a comment below.
