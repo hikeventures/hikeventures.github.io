@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Michele Genest - The Boreal Feast
-date: 2016-04-11 18:31  +0300
+date: 2016-04-25 10:00  +0300
 comments: true
-published: false
+published: true
 category: reviews
 tags: [reviews, books, kitchen, food, culture]
 ---
-Since I have been living in Finland since 2006 I have read a lot about the history and  culture of Finland and other Nordic countries. Food is also part of culture so I decided to read a bit more about the Nordic kitchen and came across Michele Genest book "The Boreal Feast" which covers culinary aspects of Canada, Finland, Norway and Sweden.
+I am living in Finland since 2006 and read a lot about the history and culture of the Nordic countries (I can recommend the book <a href="http://amzn.to/1Smzvkk" rel="nowfollow">Sould of the North"</a> by Neil Kent). Food is also part of culture so I decided to read a bit more about the Nordic kitchen and came across Michele Genest book "The Boreal Feast" which covers culinary aspects of Canada, Finland and Sweden.
    
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26490029551/in/dateposted-public/" title="The Boreal Feast"><img src="https://farm2.staticflickr.com/1516/26490029551_bcf084d242_b.jpg" width="1024" height="768" alt="The Boreal Feast"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     
@@ -15,11 +15,15 @@ Since I have been living in Finland since 2006 I have read a lot about the histo
     
 The Boreal Feast starts with an introuction where the author examines the meaning of "feast", the geographical area of the boreal forest and the importance of this area.
 
-Then the book continues describing dishes which can be prepared with ingrediants for each season. Each chapter represents one season and starts with an general introduction on whats happening in different nordic countries during this season culturally and also in the nature. The dishes are part of a menu and there is also a story which covers 2-3 pages where the author tells for example about a trip in Swedish Lapland to meet Sami Chefs.
+The book continues describing dishes which can be prepared with ingrediants for each season. Each chapter represents one season and starts with an general introduction on what people do during each season in different nordic countries but also how the nature changes. 
 
-The book is also an excellent choice for Vegetarians as not all dishes contain meat.
+Each chapter is complemented by a 2-3 pages story. You will read about the author visiting Sami Chefs in Sweden, the Whitefish Season in Yukon, Midsummer, Swedish Fika, Fjällripa, Kräftskiva, a Northern Tea Party, the Riverboats in British Columbia or a 23-course meal at Fäviken Magasinet in Sweden.
 
-The Boreal Feast has 256 pages so it's quite extensive but the articles are well supported with pictures.
+The Boreal Feast ends with the Boreal Pantry Chapter where you can read which plants, herbs, berries, mushrooms and fish is common for each season in the Nordics.
+
+The book is also an excellent choice for Vegetarians as not all dishes described in the book do contain meat.
+
+The book has 256 pages and each receipt also comes with a pictures showing the dish. There are also plenty of pictures to each story in the book.
     
 <a  href="http://www.amazon.com/gp/product/1550176277/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1550176277&linkCode=as2&tag=hikeve-20&linkId=CQVOTB2X2YK6HSL3"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1550176277&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=1550176277" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
     
