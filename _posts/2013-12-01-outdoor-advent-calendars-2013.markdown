@@ -15,7 +15,6 @@ Again December and again time to open the first door of the advent calendar. Tim
 
 Here is my list for 2013 which includes advents calendars in German and English.
 
-*  scandinavianoutdoorstore.com: <a href="http://www.scandinavianoutdoorstore.com/joulutori/" target="_blank">Scandinavian Outdoor Store Joulutori 2013</a>
 * ukcampsite.co.uk: <a href="http://www.ukcampsite.co.uk/advent/" target="_blank">UK Campsite Advent Calendar 2013</a>
 *  outdoor-magazin.com: <a href="http://www.outdoor-magazin.com/advent.370588.3.htm#" target="_blank">outdoor Adventskalender 2013</a>
 *  klettern.de: <a href="http://www.klettern.de/news/adventskalender.370590.5.htm" target="_blank">klettern Adventskalender 2013</a>
