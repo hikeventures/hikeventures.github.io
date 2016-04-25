@@ -54,7 +54,7 @@ The [Latex Socks](http://www.packrafting-store.de/Clothing/Latex-socks::380.html
 A dry suite is the most expensive item in our Clothing Layering System. The [Anfibio Packsuite](http://www.packrafting-store.de/Clothing/Anfibio-Packsuit::378.html) is our dry suite. It's reasonably priced compared to other products and works quite well for us so far. You have to adjust the collar when you buy a new one so it snugs nicely around your throat.
 
 ## Your Layering System?
-Which layering system do you have? Can you recommend or would exchange any of the items described above? Leave a comment below!
+Which layering system do you have? Can you recommend or would exchange any of the items described above?
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/14057310391" title="Grensmaas Packrafting-27"><img src="https://farm8.staticflickr.com/7316/14057310391_1452e3b082_b.jpg" width="1024" height="683" alt="Grensmaas Packrafting-27"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
