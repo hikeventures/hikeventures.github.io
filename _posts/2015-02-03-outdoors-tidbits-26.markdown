@@ -93,8 +93,6 @@ Hiking solo or in a group? - [thehikinglife.com](http://www.thehikinglife.com/jo
 <br><br>
 Helpful tips for the Lowest to Highest Route. - [carrotquinn.com](http://carrotquinn.com/2015/01/28/helpful-tips-for-the-lowest-to-highest-route/)
 <br><br>
-Centennial Sunday – California’s West Ridge. - [exploretherockies.org](http://exploretherockies.org/2015/01/28/centennial-sunday-californias-west-ridge)
-<br><br>
 Trail Report - Cassidy Arch at Capitol Reef National Park. - [hikenoworklater.com](http://hikenoworklater.com/2015/01/27/trail-report-cassidy-arch-at-capitol-reef-national-park)
 <br><br>
 Backpacking Stoves For Cold Weather. - [woodtrekker.blogspot.com](http://woodtrekker.blogspot.com/2015/01/backpacking-stoves-for-cold-weather.html)
