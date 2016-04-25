@@ -16,8 +16,6 @@ The next days you are going to read about a trip to the Aland Islands and about 
 ## Articles
 [10 Bear Safety Tips for Hikers and Backpackers](http://feedproxy.google.com/~r/PlayOutsideGuide/~3/eQK2Aa-XXos/10-bear-safety-tips-for-hikers-and.html)
 
-[7 Pieces of Gear That You Must Carry With You at All Times While Climbing](http://www.greatoutdoorz.com/7-pieces-of-gear-that-you-must-carry-with-you-at-all-times-while-climbing/)
-
 [20 Photos That Will Make You Want To Visit Peru](http://trailtopeak.com/2015/06/03/20-photos-that-will-make-you-want-to-visit-peru)
 
 [Three Weeks in the Wonderland](http://korpijaakko.com/2015/05/30/three-weeks-in-the-wonderland)
