@@ -14,8 +14,6 @@ Ben Wyvis and Tops. - [ness64.wordpress.com](http://ness64.wordpress.com/2014/12
 <br><br>
 Long Path at Florence Mountain. - [harrimanhiker.com](http://www.harrimanhiker.com/2014/12/long-path-at-florence-mountain.html) 
 <br><br>
-Coffee Outside. - [outsidecincy.com](http://outsidecincy.com/2014/12/27/coffee-outside) 
-<br><br>
 Cycling across the Sonoran Desert. - [bikehikesafari.com](http://bikehikesafari.com/2014/12/21/cycling-across-the-sonoran-desert) 
 <br><br>
 Seals! A Walk on the Brier Island Coastal Trail Past Grand Passage Lightstation. - [anotherwalkinthepark.wordpress.com](https://anotherwalkinthepark.wordpress.com/2014/12/26/seals-a-walk-on-the-brier-island-coastal-trail-past-grand-passage-lightstation/) 
