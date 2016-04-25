@@ -16,7 +16,7 @@ When I was searching for a good book about Finnish Lapland, I found it quite har
 
 The book has been published by the <a href="http://www.crossbillguides.com/" target="_blank">Crossbill Guides Foundation</a> in the Netherlands together with <a href="http://www.metsa.fi" target="_blank">Metsähallitus</a> in Finland, WILDGuides, KNNV Publishing and Saxifraga foundation. Metsähallitus is a state owned organization in Finland which is responsible for the National Parks and also operates the <a href="http://www.outdoors.fi" target="_blank">Outdoors.fi</a> website. So the data in the book seems to come from a reliable source.
 
-On the Crossbill Guides website you can also find more <a href="http://www.crossbillguides.com/lapland" target="_blank">material</a> related to Finnish Lapland and some sample pages of the book e.g. a wildflower list.
+On the Crossbill Guides website you can also find more material related to Finnish Lapland and some sample pages of the book e.g. a wildflower list.
 
 ## Structure
 The book is structured:
