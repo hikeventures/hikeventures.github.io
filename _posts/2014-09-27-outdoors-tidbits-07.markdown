@@ -33,7 +33,6 @@ High Point Shelter to Vernon NJ. - <a href="https://birts.wordpress.com/2013/06/
 Grand Canyon. - <a href="http://adventurerintraining.wordpress.com/2014/09/24/grand-vacation-grand-canyon-day-2" target="_blank">adventurerintraining.wordpress.com</a>
 Yosemite National Park. - <a href="http://colettekay.com/2014/09/24/destination-yosemite-national-park" target="_blank">colettekay.com</a>
 Muir Trail. - <a href="http://saunteringjenni.wordpress.com/2014/09/24/day-twelve-in-the-shadow-of-a-hermit" target="_blank">saunteringjenni.wordpress.com</a>
-Inyo National Forest. - <a href="http://jacobsigala.com/2014/09/23/inyo-to-midnight-lake" target="_blank">jacobsigala.com</a>
 Appalachian Trail. - <a href="http://tjamrog.wordpress.com/2014/09/23/day-3-report-where-we-evacuate-a-hiker-in-the-hundred-mile-wilderness" target="_blank">tjamrog.wordpress.com</a>
 The Colorado Trail. - <a href="http://adventuresofacouchsurfer.com/2014/09/22/the-colorado-trail-segment-4" target="_blank">adventuresofacouchsurfer.com</a>
 3 Days in Cornwall. - <a href="http://lifeisacamino.com/2014/09/22/3-days-in-cornwall" target="_blank">lifeisacamino.com</a>
