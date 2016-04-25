@@ -28,6 +28,4 @@ Here is my list for 2013 which includes advents calendars in German and English.
 * best-of-wandern.de: <a href="http://www.best-of-wandern.de/index.php/aktionen/adventskalender" target="_blank">Best of Wandern Advents Kalender 2013</a>
 * outdooractive.com: <a href="http://blog.outdooractive.com/de/2013/11/28/der-outdooractive-com-adventskalender-%E2%80%93-mitmachen-und-gewinnen/" target="_blank">Outdooractive Advent Kalender 2013</a>
 * tatoka.eu: <a href="http://adventskalender.tatonka.eu/" target="_blank">Tatonka Advent Kalender 2013</a>
-* cavallo.de: <a href="http://www.cavallo.de/advent.370591.233219.htm?odckampagne=adv13-hbg" target="_blank">Cavallo Adventskalender 2013</a><br><br>
-
-Please leave a comment, if you know any other outdoor advent calendar.
+* cavallo.de: <a href="http://www.cavallo.de/advent.370591.233219.htm?odckampagne=adv13-hbg" target="_blank">Cavallo Adventskalender 2013</a>
