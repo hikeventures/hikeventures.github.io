@@ -28,6 +28,5 @@ You may want to hike off trail or there are no trails at all in the National Par
 In mountainous area navigation can be more straightforward than on a flat field since the mountains will be your navigation points and you may also be able to navigate through mountainous terrain without a GPS. However, a GPS is quite nice to have as you may be able to track your route and watch it later on your PC. The <a href="http://hikeventures.com/gear-review-suunto-ambit-2-black-hr/" target="_self"> Suunto Ambit2</a> for example is a quite good GPS watch for navigation in the mountains.
 
 ## Links
-<a href="http://silva.se/node/5675" target="_blank">Silva Carabiner 10</a>
 <a href="http://www.suunto.com/Products/sports-watches/Suunto-Ambit2/Suunto-Ambit2-Black/" target="_blank">Suunto Ambit2</a>
 <a href="http://www.calazo.se" target="_blank">Calazo maps</a></div></div>
