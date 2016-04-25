@@ -22,8 +22,6 @@ Hayduke Trail [Updated Gear](http://www.walkingwithwired.com/2015/03/11-days-til
 <br><br>
 Theodore Roosevelt National Park - Sunset at the Oxbow [Sunset at the Oxbow](http://astheyare.net/2015/03/12/theodore-roosevelt-national-park-north-unit-sunset-at-the-oxbow).
 <br><br>
-Millet Myo Sulfure [Review](http://www.airfreshing.com/testbericht-millet-myo-sulfur-kletterschuh-2015.html).
-<br><br>
 Bicycling Around The World [Book review](http://www.mikaelstrandberg.com/2015/03/13/book-review-bicycling-around-the-world/).
 <br><br>
 AquaGlide Chelan HB Tandem XL Inflatable Kayak [Review](https://airkayaks.wordpress.com/2015/03/13/product-review-aquaglide-chelan-hb-tandem-xl-inflatable-kayak-for-1-3-paddlers/).
