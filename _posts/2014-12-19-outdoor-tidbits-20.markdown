@@ -44,8 +44,6 @@ Walking kit that doesn’t break the bank. - <a href="http://www.macsadventure.c
 
 Pal, Canyon Anza Borrego Desert State Park. - <a href="http://hikingsdcounty.com/palm-canyon-anza-borrego-desert-state-park/">hikingsdcounty</a>
 
-Montane Super Terra Pants Review. - <a href="http://www.myoutdoors.co.uk/clothing/trousers/512-montane-super-terra-pants-reviewed">myoutdoors.co.uk</a>
-
 10 reasons to hike the Appalachian Trail (in German). - <a href="http://feel4nature.com/10-gruende-warum-du-den-appalachian-trail-wandern-solltest/2014">feel4nature.com</a>
 
 Hiking with donkeys (in German). - <a href="http://www.greensoul.de/eselwandern/">greensoul.de</a>
