@@ -8,7 +8,7 @@ category: campaigns
 tags: [campaigns]
 ---
 
-This time you have the chance to win the <a href="http://www.backcountryaccess.com/product/a2-saw-ext/" target="_blank">Backcountry Access Arsenal Shovel A-2 with 35 cm wood/snow saw</a> (our shovel however is not the extendable). The BCA A-2 is a great rescue tool in case of an avalanche.
+This time you have the chance to win the Backcountry Access Arsenal Shovel A-2 with 35 cm wood/snow saw (our shovel however is not the extendable). The BCA A-2 is a great rescue tool in case of an avalanche.
 
 <a href="https://www.flickr.com/photos/90204224@N07/15391843303"><img src="https://farm8.staticflickr.com/7522/15391843303_551ab6e4dd_b.jpg" width="1000" height="1000"></a>
 
