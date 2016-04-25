@@ -52,8 +52,6 @@ Ursack Minor critter bag [Review](http://treelinebackpacker.com/2015/03/08/ursac
 <br><br>
 A Hiker's [Responsibility](https://just2hikers.wordpress.com/2015/03/09/trail-magic-leave-no-trace/)
 <br><br>
-Barnhardt [Canyon](http://arizonahiking.blogspot.com/2015/03/barnhardt-canyon.html).
-<br><br>
 Sitton Peak [Trail](http://trailtopeak.com/2015/03/10/sitton-peak-trail-03-08-15).
 <br><br>
 Middle Fork [Trail](https://bbrelje.wordpress.com/2014/12/14/middle-fork-trail-and-other-december-activities/).
