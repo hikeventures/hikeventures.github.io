@@ -23,7 +23,7 @@ The Boreal Feast ends with the Boreal Pantry Chapter where you can read which pl
 
 The book is also an excellent choice for Vegetarians as not all dishes described in the book do contain meat.
 
-The book has 256 pages and each receipt also comes with a pictures showing the dish. There are also plenty of pictures to each story in the book. If you are interested to read more about the Nordic kitchen then you can order the book <a href="http://www.amazon.com/gp/product/1550176277/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1550176277&linkCode=as2&tag=hikeve-20&linkId=3EZE73DXNHX57DY6">here</a>.
+The book has 256 pages and each receipt also comes with a pictures showing the dish. There are also plenty of pictures to each story in the book. If you are interested to read more on how to prepare Nordic dishes then you can order the book <a href="http://www.amazon.com/gp/product/1550176277/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1550176277&linkCode=as2&tag=hikeve-20&linkId=3EZE73DXNHX57DY6">here</a>.
     
 <a  href="http://www.amazon.com/gp/product/1550176277/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1550176277&linkCode=as2&tag=hikeve-20&linkId=CQVOTB2X2YK6HSL3"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1550176277&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=1550176277" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
