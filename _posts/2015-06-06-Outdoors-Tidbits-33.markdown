@@ -27,8 +27,6 @@ The next days you are going to read about a trip to the Aland Islands and about 
 ## Gear Reviews
 [Marmot Crux Jacket Ultralight Rain Shell](http://thebigoutside.com/review-marmot-crux-jacket-ultralight-rain-shell/)
 
-[BioLite Camping Stove](http://jcjustcamping.com/biolite-camping-stove-review)
-
 [Salomon X-Alp GTX](https://climbinggearreviewsuk.wordpress.com/2015/06/04/salomon-x-alp-gtx/)
 
 [Exped SynMat Hyperlite Air Mattress](http://thebigoutside.com/gear-review-exped-synmat-hyperlite-air-mattress/)
