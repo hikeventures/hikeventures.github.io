@@ -28,8 +28,6 @@ What's more, I can also use my MacBook without taking it out from the case. Let'
 
 Personally, I think that a case without room for accessories doesn't make much sense. Maybe for a 1 day trip but once the battery of your MacBook is empty you need a charger.
 
-What do you think about the Thule Gauntlet 13" MacBook Attaché? Or do you have any other recommendation? Leave a comment below!
-
 ## Where to buy the Thule Gauntlet
 You can get the Thule Gauntlet from 
 <a rel="nofollow" href="http://amzn.to/1PDWP8a">Amazon</a>.
