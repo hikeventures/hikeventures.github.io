@@ -8,7 +8,7 @@ description: How we prepare for Fjällräven Classic
 category: articles
 tags: [articles, fjällräven, hiking, sweden]
 ---
-This year we have signed up for [Fjällräven Classic][1] in Northern Sweden - a 110 km hike (Kungsleden - also called King's Trail) with about 2000 participants. We are going to be in group 7 which starts on August 9th at 09.00 am with over 200 group participants. Here is a link to the official [start list][2].
+This year we have signed up for [Fjällräven Classic][1] in Northern Sweden - a 110 km hike (Kungsleden - also called King's Trail) with about 2000 participants. We are going to be in group 7 which starts on August 9th at 09.00 am with over 200 group participants. Here is a link to the official start list.
 
 <a href="https://www.flickr.com/photos/90204224@N07/16482970962" title="Fjällräven Classic"><img src="https://farm8.staticflickr.com/7421/16482970962_e112076e05_b.jpg" width="1024" height="688" alt="Fjällräven Classic"></a><!--more-->
 
@@ -58,7 +58,6 @@ At the moment we are trying to find an inexpensive way to get to Kiruna. Konstan
 We are already quite excited. Are you going to participate at Fjällräven Classic as well? Let us know!
 
 [1]:	http://www.fjallraven.com/classic/
-[2]:	http://www.fjallraven.com/catalog/product/view/id/19254/s/start-list/category/485/
 [3]:	http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/
 [4]:	http://hikeventures.com/gear-review-jetboil-sol-ti/
 [5]:	http://hikeventures.com/gear-review-katadyn-mini-water-filter/
