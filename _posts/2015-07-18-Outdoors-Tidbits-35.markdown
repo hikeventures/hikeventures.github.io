@@ -33,8 +33,6 @@ After our hiking and packrafting trip in Poland, Konstantin went off to his hone
 
 [Inov-8 Race Ultra Shell HZ](http://hikelighter.com/2015/07/07/inov-8-race-ultra-shell-hz)
 
-[Fire Maple Stove](http://jcjustcamping.com/fire-maple-stove)
-
 [Island Voyage 2 Inflatable Kayak](https://airkayaks.wordpress.com/2015/07/05/product-review-island-voyage-2-inflatable-kayak-from-advanced-elements/)
 
 [Vango Venom 200 Down Sleeping Bag](http://www.hikersblog.co.uk/vango-venom-200-down-sleeping-bag-review/)
