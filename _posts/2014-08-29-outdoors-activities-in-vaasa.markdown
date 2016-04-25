@@ -246,7 +246,7 @@ Crossing a bridge to Aurinkolaavu to a very well maintained refuge with fire woo
 
 <a href="http://www.flickr.com/photos/90204224@N07/12135313906/"><img src="http://farm8.staticflickr.com/7351/12135313906_8a0cea20af_c.jpg" width="800" height="534" alt="HMG Porter 4400 backpack"></a>
 
-Searching in my <a href="http://hikeventures.com/gear-review-hmg-porter-4400-black/" target="_self">backpack</a> for food - sausages (makkara) and my <a href="http://hikeventures.com/thermos-bottle/" target="_self">Thermos bottle</a>.
+Searching in my <a href="http://hikeventures.com/gear-review-hmg-porter-4400-black/" target="_self">backpack</a> for food - sausages (makkara) and my <a href="http://www.hikeventures.com/with-the-thermos-bottle-over-the-arctic-circle/" target="_self">Thermos bottle</a>.
 
 <a href="http://www.flickr.com/photos/90204224@N07/12133797844/"><img src="http://farm8.staticflickr.com/7336/12133797844_33761479a8_c.jpg" width="800" height="534" alt="Thermos Bottle"></a>
 
