@@ -20,5 +20,7 @@ Then the book continues describing dishes which can be prepared with ingrediants
 The book is also an excellent choice for Vegetarians as not all dishes contain meat.
 
 The Boreal Feast has 256 pages so it's quite extensive but the articles are well supported with pictures.
-
+    
+<a  href="http://www.amazon.com/gp/product/1550176277/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1550176277&linkCode=as2&tag=hikeve-20&linkId=CQVOTB2X2YK6HSL3"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1550176277&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=1550176277" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+    
 If you are interested to read more about the Scandinavian kitchen then you can order the book <a href="http://www.amazon.com/gp/product/1550176277/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1550176277&linkCode=as2&tag=hikeve-20&linkId=3EZE73DXNHX57DY6">here</a>.
