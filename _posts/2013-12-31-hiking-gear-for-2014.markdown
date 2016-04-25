@@ -64,7 +64,7 @@ For the winter, a hydro-down jacket or a jacket with a coreloft/down would be in
 If am doing activities, I will rather use a fleece than a down jacket. Currently, I am using a Haglöfs Micro Top fleece which is quite light. However, it would be easier to put the fleece on/off if it would have a full zip. My current option for 2014 might be an <a href="http://arcteryx.com/product.aspx?language=EN&gender=Mens&model=Delta-LT-Jacket" target="_blank">Arcteryx Delta LT jacket</a>.
 
 <h2>Socks</h2>
-I will keep my <a href="http://hikeventures.com/hiking-socks-for-every-season/" target="_self">Smartwool PhD Outdoor Light Mini</a>. They dry reasonably fast on the trail and keep my feet warm if wet.
+I will keep my Smartwool PhD Outdoor Light Mini. They dry reasonably fast on the trail and keep my feet warm if wet.
 
 <h2>Underwear</h2>
 Icebreaker Anatomica Brief
