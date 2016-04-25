@@ -45,11 +45,7 @@ The next days you are going to read about a trip to the Aland Islands and about 
 
 [The North Face Shadow 30+10](https://climbinggearreviewsuk.wordpress.com/2015/05/27/the-north-face-shadow-3010-review/)
 
-[The North Face Tadpole 2](http://jcjustcamping.com/the-north-face-tadpole-2-review)
-
 [Berghaus Arnside quarter zip micro fleece](http://www.hikersblog.co.uk/berghaus-arnside-quarter-zip-micro-fleece/)
-
-[Outdoor Tech Buckshot Pro](http://jcjustcamping.com/outdoor-tech-buckshot-pro-review)
 
 [Outdoor Research Deviator Hoody](http://thebigoutside.com/review-outdoor-research-deviator-hoody/)
 
