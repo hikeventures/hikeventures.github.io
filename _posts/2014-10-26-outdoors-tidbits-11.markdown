@@ -41,8 +41,6 @@ Hiking Ben More in the Scottish Highlands. - [incompleatist.wordpress.com](http:
 Hiking in the Gallitzin State Forest. - [hikebyfaith.com](http://hikebyfaith.com/2014/10/20/trail-review-bog-boulder-trail)
 <br><br>
 Exploring Horseshoe Lake. - [mikereidphotography.wordpress.com](http://mikereidphotography.wordpress.com/2014/10/20/last-of-the-larches-horseshoe-lake)
- <br><br> 
-Hiking the Bear Lake to Powell. - [exploretherockies.org](http://exploretherockies.org/2014/10/21/meandering-the-divide-bear-lake-to-powell)
 <br><br>
 Exploring Dunluce Castle in  Northern Ireland. - [jaspasjourney.wordpress.com](http://jaspasjourney.wordpress.com/2014/10/21/dunluce-castle-northern-ireland) 
  <br><br> 
