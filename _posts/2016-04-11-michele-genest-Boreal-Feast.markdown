@@ -25,5 +25,5 @@ The book is also an excellent choice for Vegetarians as not all dishes described
 
 The book has 256 pages and each receipt also comes with a pictures showing the dish. There are also plenty of pictures to each story in the book. If you are interested to read more on how to prepare Nordic dishes then you can order the book <a href="http://www.amazon.com/Boreal-Feast-Culinary-Journey-through/dp/1550176277" rel="nofollow">here</a>.
     
-<a  href="http://www.amazon.com/Boreal-Feast-Culinary-Journey-through/dp/1550176277" href="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1550176277&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=1550176277" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="http://www.amazon.com/Boreal-Feast-Culinary-Journey-through/dp/1550176277" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1550176277&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=1550176277" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
