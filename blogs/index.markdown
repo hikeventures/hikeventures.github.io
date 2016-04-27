@@ -170,7 +170,14 @@ Outdoor writer and photographer with a passion for wilderness and mountains. <a 
 My mission: To share the experiences I have during outdoor adventures in the American Southwest (focusing on AZ, UT, and CA) with others. I hope to get people interested in getting outside and enjoying the incredible landscape surrounding us. There is so much out there to see. Life has a finite amount of time with infinite possibilities, don’t wait, get out there!
 
 ### <a href="http://www.heartofthewoods.com">heartofthewoods.com</a>
-Heart of the Woods is an adventure, travel and simple living blog! You will find travel logs of different trips,  backpacking,  camping, snowboarding,  and other adventures. I also post on living more simply and naturally. <a href="https://www.facebook.com/heartofthewoodspage"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/_natashamila_"><i class="fa fa-twitter"></i></a>  <a href="https://instagram.com/Natasha.Mila"><i class="fa fa-instagram"></i></a>
+Heartofthewoods.com inspires and informs you how to adventure more often and more effectively. Natasha Mila, founder, believes it is possible to adventure outdoors and travel no matter what your lifestyle or budget!
+
+Takeaways from this site:
+1. You will adventure more often.
+2. You will adventure more cost effectively.
+3. You will improve your adventures by finding new food to eat, places to go, gear to use, etc.
+
+<a href="https://www.facebook.com/heartofthewoodspage"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/_natashamila_"><i class="fa fa-twitter"></i></a>  <a href="https://instagram.com/Natasha.Mila"><i class="fa fa-instagram"></i></a>
 
 ### <a href="http://www.hikingforward.com">hikingforward.com</a>
 <a href="https://www.facebook.com/hikingforward"><i class="fa fa-facebook"></i></a>  <a href="http://twitter.com/hikingforward"><i class="fa fa-twitter"></i></a> <a href="http://instagram.com/hikingforward"><i class="fa fa-instagram"></i></a>
