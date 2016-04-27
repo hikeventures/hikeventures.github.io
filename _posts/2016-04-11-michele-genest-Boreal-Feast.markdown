@@ -7,7 +7,6 @@ published: true
 category: reviews
 tags: [reviews, books, kitchen, food, culture]
 ---
-eBay
 I am living in Finland since 2006 and read a lot about the history and culture of the Nordic countries (I can recommend the book <a href="http://amzn.to/1Smzvkk" rel="nowfollow">Soul of the North"</a> by Neil Kent). Food is part of culture so I decided to read a bit more about the Nordic kitchen and came across Michele Genest book "The Boreal Feast" which covers culinary aspects of Canada, Finland and Sweden. Here comes a short review about the Boreal Feast.
    
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26490029551/in/dateposted-public/" title="The Boreal Feast"><img src="https://farm2.staticflickr.com/1516/26490029551_bcf084d242_b.jpg" width="1024" height="768" alt="The Boreal Feast"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
