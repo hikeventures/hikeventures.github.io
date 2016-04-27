@@ -170,6 +170,8 @@ Outdoor writer and photographer with a passion for wilderness and mountains. <a 
 My mission: To share the experiences I have during outdoor adventures in the American Southwest (focusing on AZ, UT, and CA) with others. I hope to get people interested in getting outside and enjoying the incredible landscape surrounding us. There is so much out there to see. Life has a finite amount of time with infinite possibilities, don’t wait, get out there!
 
 ### <a href="http://www.heartofthewoods.com">heartofthewoods.com</a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26604683511/in/dateposted-public/" title="heartofthewoods.com"><img src="https://farm2.staticflickr.com/1698/26604683511_d9a0bd6409_b.jpg" width="1024" height="683" alt="heartofthewoods.com"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  
 Heartofthewoods.com inspires and informs you how to adventure more often and more effectively. Natasha Mila, founder, believes it is possible to adventure outdoors and travel no matter what your lifestyle or budget!
 
 Takeaways from this site:
