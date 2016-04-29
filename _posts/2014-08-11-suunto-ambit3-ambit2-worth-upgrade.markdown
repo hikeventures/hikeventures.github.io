@@ -16,7 +16,7 @@ Checking the altitude in [Finnish Lapland][1] with the Ambit3.
 
 **Update (20.10.2015):** Suunto has released the Traverse GPS watch. [Here][2] you can read what's different to the Ambit3.
 
-**Update (22.01.2016):** Suunto has released the [Ambit3 Vertical][3] watch. It’s similar like the Traverse but with an additional graph which displays your ascent / descent.
+**Update (22.01.2016):** Suunto has released the Ambit3 Vertical watch. It’s similar like the Traverse but with an additional graph which displays your ascent / descent.
 
 **Update (19.04.2016):** Suunto has released the <a href="http://www.suunto.com/Products/sports-watches/Suunto-Traverse-Alpha/Suunto-Traverse-Alpha-Foliage/">Traverse Alpha</a> which adds features for hunting and fishing to the regular Traverse. It's also a bit more expensive than the regular Traverse.
 
