@@ -39,9 +39,8 @@ It's always a good idea to check if there are snowshoe deals available if you ar
 - Optional, 5-inch (13-cm) tails for improved flotation   
 - Torsion2 crampons
 
-<a href="http://www.hikeventures.com/deals/#MSR+Lightning+Ascent+25"><button class="btn btn-danger">Compare prices</button></a><br><br>
-
-
+   
+   
 ### Tubbs Men's FLEX VRT 24
 
 <a href="http://www.amazon.com/gp/product/B00Q904HD6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q904HD6&linkCode=as2&tag=hikeve-20&linkId=775ITK4RI5T2U3CQ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q904HD6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q904HD6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -54,9 +53,8 @@ It's always a good idea to check if there are snowshoe deals available if you ar
 - DYNAMICFIT BINDING
 - FLEXTail
 
-<a href="http://www.hikeventures.com/deals/#tubbs+flex+vrt"><button class="btn btn-danger">Compare prices</button></a>
-
-
+  
+  
 ### Atlas Race 22
 
 <a href="http://www.amazon.com/gp/product/B007F9BTPE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007F9BTPE&linkCode=as2&tag=hikeve-20&linkId=JBGK6MDC2HPRRMDZ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007F9BTPE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B007F9BTPE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -68,8 +66,8 @@ It's always a good idea to check if there are snowshoe deals available if you ar
 - The Atlas Race is the lightest snowshoe in our list.
 - Titanium toe and heel crampon
 
-<a href="http://www.hikeventures.com/deals/#atlas+race+22"><button class="btn btn-danger">Compare prices</button></a>
-
+  
+  
 ### MSR Lightning Explore 25
 
 <a href="http://www.amazon.com/gp/product/B00LFJNWGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNWGO&linkCode=as2&tag=hikeve-20&linkId=5DOFWDAR6SHYQAWV"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJNWGO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJNWGO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -82,7 +80,8 @@ It's always a good idea to check if there are snowshoe deals available if you ar
 - HyperLink binding   
 - Ergo Televators   
 - Optional, 5-inch (13-cm) tails for improved flotation
-
+  
+  
 ### MSR Revo Ascent 25
 
 <a href="http://www.amazon.com/gp/product/B00LFJO5NI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJO5NI&linkCode=as2&tag=hikeve-20&linkId=ADHSRTEBIYMKSWHX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJO5NI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJO5NI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -95,8 +94,8 @@ It's always a good idea to check if there are snowshoe deals available if you ar
 - Ergo Televators
 - Optional, 5-inch (13-cm) tails for improved flotation
 
-<a href="http://www.hikeventures.com/deals/#msr+revo+ascent+25"><button class="btn btn-danger">Compare prices</button></a>
-
+  
+  
 
 ### Tubbs Men's Xpedition 25
 
@@ -109,7 +108,6 @@ It's always a good idea to check if there are snowshoe deals available if you ar
 - Carbon steel Cobra toe crampon   
 - Grappler heel cleat  
 
-<a href="http://www.hikeventures.com/deals/#tubbs+expedition+25"><button class="btn btn-danger">Compare prices</button></a>
 
 ## What makes a good snowshoe
 
