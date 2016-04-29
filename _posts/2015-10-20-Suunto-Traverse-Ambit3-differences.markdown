@@ -33,9 +33,8 @@ Personally, I like the new look of the Traverse (see picture above) more than th
 
 So far, I still think that the basic Suunto Traverse is the best option you can get for your money.
 
-## Where to buy the Suunto Traverse?
 <a  href="http://www.amazon.com/gp/product/B014PNZKC0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014PNZKC0&linkCode=as2&tag=hikeve-20&linkId=632KXW4PCPBDYU3S"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B014PNZKC0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B014PNZKC0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-<br>
+   
 Here is also an [article][1] where I was wearing the Suunto Ambit3 on a packrafting trip in the Swedish mountains.
 
 [1]:	http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/
