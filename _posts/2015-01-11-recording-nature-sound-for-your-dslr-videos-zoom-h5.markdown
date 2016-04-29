@@ -10,14 +10,14 @@ tags: [articles, blogging]
 ---
 
 Having used my Sony A7r for over 1 year (but recently sold) I am planning to get better sound on my Videos once I get my new camera. The onboard microphone is more or less useless when filming in a windy place and in general you get better audio with an external microphone.
-
+   
 <a href="https://www.flickr.com/photos/90204224@N07/15630751654" title="Zoom H5"><img src="https://farm8.staticflickr.com/7468/15630751654_424fb06abb_b.jpg" width="1024" height="657" alt="Zoom H5"></a>
-
+   
 First of all it was important to know which type of microphone I would need. The <a href="http://amzn.to/1yTJDZs">Zoom H5</a> comes with an X/Y microphone which seems to be a good microphone to record the environment but also towards a certain direction. For a more focused recording (e.g. if you want to record a bird in the distance), a shotgun microphone would be even better and I might consider buying a <a href="http://amzn.to/14jumU0">Sennheiser MKE 600</a> in the future as well.
-
+   
 <a href="https://www.flickr.com/photos/90204224@N07/16251312821" title="Zoom H5"><img src="https://farm8.staticflickr.com/7533/16251312821_8db614634c_b.jpg" width="1024" height="679" alt="Zoom H5"></a><br>
-
-## H5 features
+   
+## Features
 After doing some research online, I decided to buy the <a href="http://amzn.to/1yTJDZs">Zoom H5</a> for the following reasons:
 
 * Shock mounted X/Y microphone structure which minimises external vibration noise
