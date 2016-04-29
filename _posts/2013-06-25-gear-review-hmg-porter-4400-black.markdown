@@ -54,6 +54,3 @@ HMG Porter 4400 on an <a href="http://hikeventures.com/gear-review-unpacking-alp
 
 ## Recommendation
 I have tested the HMG Porter 4400 on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a>  in Sweden. On long backpacking trips saving weight is quite important. I wouldn't say that the HMG Porter 4400 is super durable, however having a waterproof backpack and saving 1-2 kg on weight due to the lower weight of the HMG Porter 4400 its quite worth the investment and also contributed to my outdoor experience. I am going to patch the holes in my backpack and then it should be fine for another 1-2 years. 
-
-## Where to buy
-Have a look here:  <a href="http://www.hikeventures.com/deals/#HMG+Porter"><button class="btn btn-danger">Compare prices</button></a>
