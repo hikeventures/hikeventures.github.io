@@ -17,9 +17,6 @@ Konstantin wearing the Montane Minimus Jacket on our [trip](http://hikeventures.
 
 You might want to wear your waterproof jacket only occasionally e.g. if it starts raining or if it gets very windy but you will appreciate to stay dry and warm on the trail or if you perform any other outdoor activities in the long run.  Also consider taking lightweight waterproof [rain pants](http://www.hikeventures.com/best-rain-pants/ "Best Rain Pants 2016") with you.
 
-## Deals or Full price?
-It's always a good idea to check if there are some deals available. You can try our [price comparison tool](http://www.hikeventures.com/deals/ "Best price for rain jackets") to find the best price offered by several outdoor stores across the U.S.
-
 ### Berghaus Vapourlight Hyper Smock 2.0
  <a rel="nofollow" href="http://www.amazon.com/gp/product/B00SHH9E3W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SHH9E3W&linkCode=as2&tag=hikeve-20&linkId=FCQDAPPO56OTZDB3"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SHH9E3W&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00SHH9E3W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -27,8 +24,6 @@ It's always a good idea to check if there are some deals available. You can try 
 **Fabric:** Hydroshell Hyper   
 
 The Berghaus Vapourlight Hyper Smock 2.0 is the lightest waterproof jacket in our selection. With 75 grams it's nearly invisible in your backpack but featuring even a a small pocket for essentials. If you need a lightweigh emergency jacket or a lightweight running jacket then the Berghaus Vapourlight Hyper Smock 2.0 should be your choice. Be aware that such light jackets are not made to carry heavy load e.g. a backpack. If you are into backpacking then have a look on the jackets below. the Berghaus Vapourlight Hyper Smock 2.0 won the Ispo Award 2014/2015.
-
- <a href="http://www.hikeventures.com/deals/#Berghaus+Vapourlight Hyper+Smock+2"><button class="btn btn-danger">Compare prices</button></a>
 
 ### The Rab Flashpoint Jacket
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00UI4SP6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UI4SP6O&linkCode=as2&tag=hikeve-20&linkId=UF2ERPU6WIB5S727"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00UI4SP6O&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00UI4SP6O" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -48,8 +43,6 @@ The Montane Minimus Jacket is similar to the the Montane Minimus Smock with the 
 
 I would choose the Montane Minimus Jacket as my go-to jacket if every gram counts and you want to have a full-zip jacket. If durability is also an important aspect then you should have a look at the new Arcteryx Zeta LT Jacket which comes next in my list.
 
- <a href="http://www.hikeventures.com/deals/#montane+minimus+jacket"><button class="btn btn-danger">Compare prices</button></a>
- 
 ### Arcteryx Zeta LT Jacket
  <a rel="nofollow" href="http://www.amazon.com/gp/product/B00Q837B50/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q837B50&linkCode=as2&tag=hikeve-20&linkId=Z43W3DTANP74O3MC"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q837B50&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q837B50" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -58,8 +51,6 @@ I would choose the Montane Minimus Jacket as my go-to jacket if every gram count
 
 The Zeta LT Jacket would be my favourite choice if I would select a new waterproof jacket. It comes with the new Gore Tex GORE C-KNIT backer technology which should be super comfortable on the skin and even more breathable. There is also a lighter jacket out which is called Norvan Jacket and comes with only 215 grams. However, I would not choose it for packrafting as the fabric N20p 3L is quite thin compared to the Arcteryx Zeta LT Jacket. The Norvan jacket is more suitable for runners or if you don't wear a backpack.
 
-<a href="http://www.hikeventures.com/deals/#Arcteryx+zeta"><button class="btn btn-danger">Compare prices</button></a>
-
 ### Mountain Hardwear Plasmonic Jacket
  <a rel="nofollow" href="http://www.amazon.com/gp/product/B010N9XVY4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B010N9XVY4&linkCode=as2&tag=hikeve-20&linkId=VMEOHRWCSWDP5XOF"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B010N9XVY4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B010N9XVY4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -67,8 +58,6 @@ The Zeta LT Jacket would be my favourite choice if I would select a new waterpro
 **Fabric:** Dry Q EVAP 70D 2 5L  
 
 The Mountain Hardwear Plasmonic Jacket is one of the best selling jackets from Mountain Hardwear and made especially for hiking and backpacking.
-
-<a href="http://www.hikeventures.com/deals/#Plasmonic+Jacket"><button class="btn btn-danger">Compare prices</button></a>
 
 ## Best fabric for waterproof jackets
 You should look for a waterproof jacket which is made of light fabrics. In terms of e.g. GORE-TEX, I would opt for GORE-TEX Active Shield or the new GORE C-KNIT backer technology which comes with the new Arcteryx Zeta LT Jacket. However, you will sweat in all waterproof jackets if you are active.
