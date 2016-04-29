@@ -82,8 +82,6 @@ All in all, this is a very good inflatable solar lantern, which is also a good v
 * To charge it on the go, use the handles to attach the lantern to the top/back of your backpack. However, if you are planning to go bushwhacking, make sure that it is attached securely, as the lantern might snag on something and the handles might not withstand a strong tug. It might be an idea to attach it to the sternum strap on the front to keep it out of harm's way.
 * Play with it and find your own ways of using it. Share them with us.
 
-<a href="http://www.hikeventures.com/deals/#Luci+Lantern"><button class="btn btn-danger">Compare prices</button></a>
-
 [1]:	https://www.mpowerd.com
 [2]:	https://www.mpowerd.com
 [3]:	http://hikeventures.com/petzl-nao-headlamp-test/
