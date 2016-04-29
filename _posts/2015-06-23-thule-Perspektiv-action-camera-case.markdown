@@ -66,6 +66,4 @@ On the other hand, the answer is “no”, because for its size and capacity, th
 
 <a href="https://www.flickr.com/photos/90204224@N07/19089319372" title="Thule Perspektiv Action Camera Case"><img src="https://c1.staticflickr.com/1/485/19089319372_88c2fd8e91_b.jpg" width="1024" height="680" alt="9s"></a>
  
-On the whole, even though it is not waterproof and weighs almost 230 grams, I really like the storage space, the two separate compartments (each one designed for a different purpose), the adaptability and versatility of its usage as well as the overall quality of the case. Once again, this Thule product shows that it was designed with the needs of the end customer in mind and it does what it promises to do – to keep your action camera(s) safe and in one place in-between the jobs.
-
-<a href="http://www.hikeventures.com/deals/#thule+perspektiv+action+camera+case"><button class="btn btn-danger">Compare prices</button></a>
+On the whole, even though it is not waterproof and weighs almost 230 grams, I really like the storage space, the two separate compartments (each one designed for a different purpose), the adaptability and versatility of its usage as well as the overall quality of the case. Once again, this Thule Perspektiv Action Camera Case shows that it was designed with the needs of the end customer in mind and it does what it promises to do – to keep your action camera(s) safe and in one place in-between the jobs.
