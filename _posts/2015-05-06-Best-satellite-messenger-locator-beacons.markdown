@@ -37,7 +37,6 @@ It's always a good idea to check if there are some deals available. You can try 
 - Pair with mobile devices
 - Message size: 160 characters
 
-<a href="http://www.hikeventures.com/deals/#InReach+InReach+SE+GPS"><button class="btn btn-danger">Compare prices</button></a>
 
 ### DeLorme InReach Explorer 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00I6EY01C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00I6EY01C&linkCode=as2&tag=hikeve-20&linkId=5XJQ3SFWBJDA27QP"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00I6EY01C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00I6EY01C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -50,8 +49,6 @@ It's always a good idea to check if there are some deals available. You can try 
 - Barometric Altimeter & Accelerometer
 - weight: 190 grams
 
-<a href="http://www.hikeventures.com/deals/#InReach+Explorer+GPS"><button class="btn btn-danger">Compare prices</button></a>
-
 ### SPOT Gen3
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00C8S8S4W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00C8S8S4W&linkCode=as2&tag=hikeve-20&linkId=OIB6QWHIQEBL5ZEW"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00C8S8S4W&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00C8S8S4W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -61,8 +58,6 @@ It's always a good idea to check if there are some deals available. You can try 
 - Custom messages which can be used as a secondary OK message or personal help alert
 - Message size: 41 characters
 - Weight 114 grams
-
-<a href="http://www.hikeventures.com/deals/#Spot+Gen3+Satellite+Messenger"><button class="btn btn-danger">Compare prices</button></a>
 
 ### ACR ResQlink+ 406
 
@@ -74,5 +69,3 @@ It's always a good idea to check if there are some deals available. You can try 
 - Buoyant
 - No messaging
 - Weight: 153 grams
-
-<a href="http://www.hikeventures.com/deals/#ACR+ResQlink+406"><button class="btn btn-danger">Compare prices</button></a>
