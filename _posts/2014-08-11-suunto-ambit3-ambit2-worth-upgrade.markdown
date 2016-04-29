@@ -8,15 +8,15 @@ category: articles
 tags: [articles, suunto, ambit2, ambit3, gps, watches]
 ---
 
-GPS watches like the Ambit2 or Ambit3 are quite interesting gadgets if you want to track your route or if you want to plan your route ahead. In general, the only model I could think of which comes close to the Ambit3 is the Garmin Fenix 3 which has a colour display. However, to me the Ambit3 feels just more solid as a product and the Apple Watch does not have an integrated GPS. I use my Ambit3 mainly for running, packrafting and hiking and upgraded from the Ambit2 to the Ambit3 Sport.
+GPS watches like the Ambit2 or Ambit3 are quite interesting gadgets if you want to track your route or if you want to plan your route ahead. In general, the only model I could think of which comes close to the Suunto Ambit3 is the Garmin Fenix 3 which has a colour display. However, to me the Ambit3 feels just more solid as a product and the Apple Watch does not have an integrated GPS. I use my Ambit3 mainly for running, packrafting and hiking and upgraded from the Suunto Ambit2 to the Suunto Ambit3 Sport.
     
 <a href="https://www.flickr.com/photos/90204224@N07/15913318153"><img src="https://farm8.staticflickr.com/7306/15913318153_e26043e992_b.jpg" width="1024" height="680"></a>
    
 Checking the altitude in [Finnish Lapland][1] with the Ambit3.
 
-**Update (20.10.2015):** Suunto has released the Traverse GPS watch. [Here][2] you can read what's different to the Ambit3.
+**Update (20.10.2015):** Suunto has released the Suunto Traverse GPS watch. [Here][2] you can read what's different to the Ambit3.
 
-**Update (22.01.2016):** Suunto has released the Ambit3 Vertical watch. It’s similar like the Traverse but with an additional graph which displays your ascent / descent.
+**Update (22.01.2016):** Suunto has released the Suunto Ambit3 Vertical watch. It’s similar like the Traverse but with an additional graph which displays your ascent / descent.
 
 **Update (19.04.2016):** Suunto has released the <a href="http://www.suunto.com/Products/sports-watches/Suunto-Traverse-Alpha/Suunto-Traverse-Alpha-Foliage/">Traverse Alpha</a> which adds features for hunting and fishing to the regular Traverse. It's also a bit more expensive than the regular Traverse.
 
@@ -24,7 +24,7 @@ Checking the altitude in [Finnish Lapland][1] with the Ambit3.
 The Suunto Ambit 3 allows you to connect the watch with a tablet or smartphone via Bluetooth as well as synchronising pictures on your smartphone with data from the Ambit3. So no USB cable needed anymore to transfer data which should also increase the lifespan of the battery.
 
 ## Notifications
-You can get notifications of incoming calls, SMS or Facebook updates on your Ambit3. Personally, I don't use this feature that much. But it's nice to have.
+You can get notifications of incoming calls, SMS or Facebook updates on your Suunto Ambit3. Personally, I don't use this feature that much. But it's nice to have.
 
 ## Videos
 It's possible to create videos with the [Movescount App][4] which uses your tracking data in order to display your route. You can also take pictures with your phone and integrate those into your video. I think this is a quite nice feature to share your trip with your friends.
@@ -55,7 +55,7 @@ I have used the Suunto Ambit3 Sport for a couple of months and I am happy with i
 
 **Update 29.03.2015:** Suunto has released a firmware update which increased the battery time of the Ambit watches as you can read [here][8]: "With GPS accuracy set to Best/Good/Ok, the numbers are accordingly: Ambit3 Peak – 20h/30h/200h"
 
-**Update 27.11.2015:** After having used the Suunto Traverse for a while I would prefer it over the Ambit3 as long as you are not into multisport. The Traverse also supports GLONASS. More [here][9] about the Suunto Traverse.
+**Update 27.11.2015:** After having used the Suunto Traverse for a while I would prefer it over the Suunto Ambit3 as long as you are not into multisport. The Traverse also supports GLONASS. More [here][9] about the Suunto Traverse.
 
 ## Charging the Suunto Ambit3 or Traverse
 The Anker 2nd Gen Astro E5 16000mAh is my favourite USB battery which I use to charge all my electronic devices when I go hiking. 
