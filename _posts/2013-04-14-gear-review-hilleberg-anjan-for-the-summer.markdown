@@ -54,8 +54,5 @@ The Hilleberg Anjan tent seems to be the perfect 3 season tent. It is easy to se
 
 In the picture below you can see Konstantin preparing his packraft on our one week <a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/">trip</a> in Northern Sweden. In our backpack we also had our Hilleberg Anjan with us. There are as good as no shelters and having a reliable tent was a must for us. The Anjan did quite well!
 
-## Where to buy the Hilleberg Anjan tent?
-Have a look [here](http://www.hikeventures.com/deals/#Hilleberg+Anjan) or on <a href="http://amzn.to/1MSku9N">Amazon</a>.
-
 <a  href="http://www.amazon.com/gp/product/B00QVPI1S6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QVPI1S6&linkCode=as2&tag=hikeve-20&linkId=F63JCGW2AQMBK4YD"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00QVPI1S6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00QVPI1S6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
