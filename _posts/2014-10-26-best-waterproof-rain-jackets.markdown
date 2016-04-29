@@ -39,7 +39,7 @@ The Rab Flashpoint Jacket is also a super light rain jacket. With 185 grams it's
 **Weight:** 208 grams   
 **Fabric:**  PERTEX Shield +  
 
-The Montane Minimus Jacket is similar to the the Montane Minimus Smock with the difference that it has an adjustable hoody and a long The Montane Minimus Jacket is similar to the the Montane Minimus Smock with the difference that it has an adjustable hoody and a long front zipper to easily put on / off the jacket. This can be an advantage if you are in the mountains and is suddenly starts to rain. It also features an fully adjustable helmet compatible mountain hood. 
+ The Montane Minimus Jacket is similar to the Montane Minimus Smock with the difference that it has an adjustable hoody and a long front zipper to easily put on / off the jacket. This can be an advantage if you are in the mountains and is suddenly starts to rain. It also features an fully adjustable helmet compatible mountain hood. 
 
 I would choose the Montane Minimus Jacket as my go-to jacket if every gram counts and you want to have a full-zip jacket. If durability is also an important aspect then you should have a look at the new Arcteryx Zeta LT Jacket which comes next in my list.
 
