@@ -24,5 +24,4 @@ I have tested the Katadyn Mini Water Filter on <a href="http://hikeventures.com/
 
 <a href="https://www.flickr.com/photos/90204224@N07/9599019542" title="Filtering Water with Katadyn in Sarek"><img src="https://farm8.staticflickr.com/7459/9599019542_097779e2ae_b.jpg" width="1024" height="683" alt="Filtering Water with Katadyn in Sarek"></a><br>
 
-## Where to buy the Katadyn Mini Water Filter?
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B003C1EVQ8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003C1EVQ8&linkCode=as2&tag=hikeve-20&linkId=BHWL7A4Q5OEKAWPK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003C1EVQ8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B003C1EVQ8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
