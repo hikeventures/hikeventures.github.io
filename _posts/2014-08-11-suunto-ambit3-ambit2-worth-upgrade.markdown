@@ -9,9 +9,9 @@ tags: [articles, suunto, ambit2, ambit3, gps, watches]
 ---
 
 GPS watches like the Ambit2 or Ambit3 are quite interesting gadgets if you want to track your route or if you want to plan your route ahead. In general, the only model I could think of which comes close to the Ambit3 is the Garmin Fenix 3 which has a colour display. However, to me the Ambit3 feels just more solid as a product and the Apple Watch does not have an integrated GPS. I use my Ambit3 mainly for running, packrafting and hiking and upgraded from the Ambit2 to the Ambit3 Sport.
-
+    
 <a href="https://www.flickr.com/photos/90204224@N07/15913318153"><img src="https://farm8.staticflickr.com/7306/15913318153_e26043e992_b.jpg" width="1024" height="680"></a>
-
+   
 Checking the altitude in [Finnish Lapland][1] with the Ambit3.
 
 **Update (20.10.2015):** Suunto has released the Traverse GPS watch. [Here][2] you can read what's different to the Ambit3.
@@ -62,12 +62,7 @@ The Anker 2nd Gen Astro E5 16000mAh is my favourite USB battery which I use to c
 
 <a  href="http://www.amazon.com/gp/product/B00D5VAYRU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00D5VAYRU&linkCode=as2&tag=hikeve-20&linkId=XUHY3SIFZWEILXVV"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00D5VAYRU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00D5VAYRU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-## Where to buy the Suunto Traverse
 <a  href="http://www.amazon.com/gp/product/B014PNZKC0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014PNZKC0&linkCode=as2&tag=hikeve-20&linkId=IMZJLZ6YNLBHIO2O"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B014PNZKC0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B014PNZKC0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-## Discounts
-Before deciding if you should upgrade to an Ambit3 you should have a look at the <a href="http://www.hikeventures.com/deals/#Suunto+Ambit2">Ambit2 prices</a>  which are much lower than the <a href="http://www.hikeventures.com/deals/#Suunto+Ambit3">Ambit3 prices</a>. If you don't need the latest and the best then the Ambit2 should be fine as well.
-
 
 
 [1]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/
