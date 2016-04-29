@@ -35,11 +35,11 @@ The tent has also reflective stripes so you can find it if it's too dark.
 
 Plenty of storage room for gear. The GT model of this tent has even more storage capacity.
 
-<a href="https://www.flickr.com/photos/90204224@N07/13637447343" title="Mountian Equipment AR Ultralite "><img src="https://farm4.staticflickr.com/3666/13637447343_ecbe278ff6_b.jpg" width="1024" height="683" alt="Mountian Equipment AR Ultralite"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/13637447343" title="Mountian Equipment AR Ultralite"><img src="https://farm4.staticflickr.com/3666/13637447343_ecbe278ff6_b.jpg" width="1024" height="683" alt="Mountian Equipment AR Ultralite"></a>
 
 The Hilleberg Anjan 3 compared to Mountain Equipment AR Ultralite 2. The Hilleberg is just slightly bigger and 200 grams heavier but you will enjoy plenty of more space.
 
-<a href="https://www.flickr.com/photos/90204224@N07/13933287604"><img src="https://farm8.staticflickr.com/7228/13933287604_218a763eb1_b.jpg" width="1024" height="683" "></a>
+<a href="https://www.flickr.com/photos/90204224@N07/13933287604"><img src="https://farm8.staticflickr.com/7228/13933287604_218a763eb1_b.jpg" width="1024" height="683"></a>
 
 The Hilleberg Anjan 3 is a good choice if you are big or if you just want to have more room in the tent to store gear inside of the tent or just to play some cards if it's raining outside.
   
