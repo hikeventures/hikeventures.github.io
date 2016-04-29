@@ -9,7 +9,7 @@ tags: [reviews, montane minimus, jackets]
 ---
 
 For my hiking and packrafting adventures in summer and autumn, I was looking for a rain shell which is super light and still breathes quite well. After comparing some smocks and jackets I decided to give the Montane Minimus Smock a try. This is probably one of the lightest rain jacket which you can buy for your hiking or backpacking trips and here comes a short review.
-
+   
 <a href="https://www.flickr.com/photos/90204224@N07/8738822666" title="Montane Minimus Smock"><img src="https://farm8.staticflickr.com/7288/8738822666_4067f044d0_b.jpg" width="600" alt="Montane Minimus Smock"></a>
 <!--more-->
 
@@ -44,6 +44,4 @@ Jacket inside out with the mesh front bag.
 I have tested the Montane Minimus Smock <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self"> on my trip to Sarek National Park</a> in Sweden. If you are looking for a waterproof and lightweight jacket then you should give the Montane Minimus Smock a try. Personally, I would recommend the <a href="http://amzn.to/1lBVJ4S">Montane Minimus Jacket</a> over Montane Minimus Smock. It's just much easier to put-on/off the jacket. If you want something more durable then I can also recommend the [Arcteryx Tecto FL jacket](http://hikeventures.com/arcteryx-tecto-fl-jacket/).
 
 ## Where to buy the Montane Minimus Smock?
-<script type="text/javascript" src="http://www.avantlink.com/api.php?module=ProductSearch&affiliate_id=125311&website_id=150351&merchant_ids&search_results_sort_order=Retail+Price|asc&output=js&search_results_merchant_limit=1&search_advanced_syntax=1&search_results_options=noheader&search_results_count=1&search_results_layout=list&search_results_fields=|Merchant+Name|Product+Name|Retail+Price&search_term=Montane Minimus Smock"></script>
-
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00BXML3R8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BXML3R8&linkCode=as2&tag=hikeve-20&linkId=PC5T6GM7G3I5D5PP"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BXML3R8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00BXML3R8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
