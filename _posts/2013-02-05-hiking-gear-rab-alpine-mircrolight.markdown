@@ -20,6 +20,3 @@ The Rab Microlight Alpine Jacket weights 345 grams is filled with 140 grams of 7
 
 ## Recommendation
 The Rab Microlight Alpine Jacket is a nice down jacket which is also quite affordable. If you look for a real winter down jacket then the <a href="http://amzn.to/1I4ao2P">Rab Positron Jacket</a> might be an alternative (at least I would pick it as my winter down jacket). However, if you are looking for a jacket which you can wear in the evenings in the camp or as a midlayer during the winter then the Rab Microlight Alpine Jacket is a great choice. Here you can find a list of my favourite <a href="http://www.hikeventures.com/best-down-jackets/">down jackets</a>.
-
-## Where to buy the Rab Alpine Microlight?
-Have a look here: <a href="http://www.hikeventures.com/deals/#Rab+Alpine+Microlight"><button class="btn btn-danger">Compare prices</button></a>
