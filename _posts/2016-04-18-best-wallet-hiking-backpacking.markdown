@@ -17,7 +17,7 @@ Sometimes - especially when you are new into hiking and backacking - you don't r
 
 But not only weight is an important factor when considering which wallet to choose. In some countries there is no need to have cash with you e.g. in Finland you can pay in most places with a card. Maybe there are some exceptions where you still need some cash with you but in most places you will be fine with a card. In countries where you can pay mostly with cards you can even take a smaller wallet with you like the Fjällräven Zip Card Holder.
 
-However, if you still prefer to have notes and coins with you then there is also the <a href="http://amzn.to/1VcvOA6" target="_blank">Fjällräven Zip Wallet</a> which is a  bit bigger than the <a href="http://amzn.to/22GvpVF" target="_blank">Fjällräven Zip Card Holder</a> and has more compartments to store your cards and money.
+However, if you still prefer to have notes and coins with you then there is also the Fjällräven Zip Wallet which is a  bit bigger than the Fjällräven Zip Card Holder and has more compartments to store your cards and money.
 
 <a  href="http://www.amazon.com/gp/product/B00SV3VMAA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SV3VMAA&linkCode=as2&tag=hikeve-20&linkId=V7S5GUAZJAGX4CXV"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SV3VMAA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00SV3VMAA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
