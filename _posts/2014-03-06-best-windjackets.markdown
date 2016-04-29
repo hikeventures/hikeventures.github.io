@@ -35,15 +35,13 @@ It's always a good idea to check deals on wind jackets if you are on a budget. H
 
 ### Patagonia Houdini
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00KSQTZQQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KSQTZQQ&linkCode=as2&tag=hikeve-20&linkId=KM4EAWTFISSHOM2C"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00KSQTZQQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00KSQTZQQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="http://www.amazon.com/gp/product/B01ANCS38K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01ANCS38K&linkCode=as2&tag=hikeve-20&linkId=BOE3T2FI3DGVW7LR"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01ANCS38K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B01ANCS38K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 113 grams   
 **Fabric:** 15-denier nylon ripstop      
 **Awards:** Outdoor Gear Lab Top Pick   
 
 The Patagonia Houdini is another great wind jacket which got recommended by many other outdoor enthusiasts. It comes with a zippered chest pocket and the hood is adjustable. There is also a reflective logo on the front and back which comes quite handy during night hikes.
-
-<a href="http://www.hikeventures.com/deals/#patagonia+houdini"><button class="btn btn-danger">Compare prices</button></a>
 
 ### Arcteryx Incendo Hoody
 
@@ -55,7 +53,6 @@ The Patagonia Houdini is another great wind jacket which got recommended by many
 
 The Arcteryx Incendo Hoody has breathable mesh panels under the arms, a hood and a full front zip. It also features an internal MP3 pocket with audio ports, a side stow pocket and reflective blazes.
 
-<a href="http://www.hikeventures.com/deals/#Arcteryx+incendo+hoody"><button class="btn btn-danger">Compare prices</button></a>
 
 ### Arcteryx Squamish Hoody
 
@@ -67,7 +64,6 @@ The Arcteryx Incendo Hoody has breathable mesh panels under the arms, a hood and
 
 The Arcteryx Squamish Hoody comes with a hood, full front zip and a front pocket. This jacket also has cuff adjusters and a reflective logo.
 
-<a href="http://www.hikeventures.com/deals/#Arcteryx+squamish+hoody"><button class="btn btn-danger">Compare prices</button></a>
 
 ### Mountain Hardwear Ghost Whisperer Hooded Jacket
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00DH44IEU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DH44IEU&linkCode=as2&tag=hikeve-20&linkId=4GK24YGHCR22L4NQ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DH44IEU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DH44IEU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -76,5 +72,3 @@ The Arcteryx Squamish Hoody comes with a hood, full front zip and a front pocket
 **Fabric:** Whisperer 7D x 10D Ripstop   
 
 The Mountain Hardwear Ghost Whisperer Hooded Jacket is similar as the lighter Anorak model however it comes with a hood. In case of wind jackets I would go for a hooded model on your next hiking trips. Our Editor's Choice when low weight should be the most important factor.
-
-<a href="http://www.hikeventures.com/deals/#ghost+whisperer+hooded+jacket"><button class="btn btn-danger">Compare prices</button></a>
