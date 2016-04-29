@@ -194,7 +194,7 @@ We would go for a hooded down jacket, as you can use the hood also in your sleep
 
 ### How to clean a down jacket?
 
-The best way to clean a down jacket is to wash it inside out in a washing machine with very low speed. As washing liquid we always use [Nikwax Downwash](http://amzn.to/1LhYFiY) and sometimes additionally [Nikwax Downproof](http://amzn.to/22asIxd) to make the down a bit more resistant against moisture.
+The best way to clean a down jacket is to wash it inside out in a washing machine with very low speed. As washing liquid we always use Nikwax Downwash and sometimes additionally Nikwax Downproof to make the down a bit more resistant against moisture.
 
 ### What is the difference in traditional and hydrophobic down (or HydroDown)?
 
