@@ -42,9 +42,9 @@ The Hilleberg Anjan 3 compared to Mountain Equipment AR Ultralite 2. The Hillebe
 <a href="https://www.flickr.com/photos/90204224@N07/13933287604"><img src="https://farm8.staticflickr.com/7228/13933287604_218a763eb1_b.jpg" width="1024" height="683" "></a>
 
 The Hilleberg Anjan 3 is a good choice if you are big or if you just want to have more room in the tent to store gear inside of the tent or just to play some cards if it's raining outside.
-
+  
 <a href="https://www.flickr.com/photos/90204224@N07/9596230289"><img src="https://c1.staticflickr.com/3/2822/9596230289_9b0f70706d_o.jpg" width="991" height="567"></a>
-
+   
 Konstantin prepared food in front of the Hilleberg Anjan 2 with our <a href="http://hikeventures.com/gear-review-jetboil-sol-ti/" target="_self">Jetboil Sol Ti boiler</a> on our trip to <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">Sarek in Sweden</a>.
 
 <a href="http://bit.ly/1q2KxZ8"><img src="https://farm3.staticflickr.com/2855/9599002048_34cc6c5857_h.jpg" width="1600" height="797" alt="Night in Sarek Sweden"></a>
