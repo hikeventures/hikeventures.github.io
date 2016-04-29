@@ -16,9 +16,6 @@ With [Tubbs snowshoes](http://hikeventures.com/tubbs-xpedition-snowshoes/ "Tubbs
 
 Currently, I am using the [Black Diamond Ultra Distance Z-Poles](http://www.hikeventures.com/gear-review-black-diamond-ultra-distance-z-pole/ "Black Diamond Ultra Distance Z-Poles") which are not made for snowshoeing as you can not add snow baskets on those trekking poles. However, I have also used them on our snowshoeing trip in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Finnish Lapland") - Urho Kekkonen National Park - where I realised that snow baskets might be quite useful. For 3-season trips however they are great. You can see my trekking poles in action in our trip in [Swedish Lapland (Sarek National Park)](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Swedish Lapland").
 
-## Deals or Full price?
-It's always a good idea to check if there are some deals available. You can try our [price comparison tool](http://www.hikeventures.com/deals/ "Deals") to find the best price offered by several outdoor stores across the U.S.
-
 
 ### MSR Flight 3
 
@@ -26,8 +23,6 @@ It's always a good idea to check if there are some deals available. You can try 
 
 **weight:** 490 grams   
 The MSR Flight 3 is made of 7000-series Aluminium and has a non-absorbing foam grip and glove friendly straps. We have tested the MSR Flight 2 in the [Austrian Alps](http://www.hikeventures.com/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/ "Austrian Alps"). They are great for summer and winter. If you look specifically for winter poles then you should have a look at the MSR Deploy T-2 or T-3 (below).
-
-<a href="http://www.hikeventures.com/deals/#msr+flight+3"><button class="btn btn-danger">Compare prices</button></a>
 
 ### MSR Deploy T-3
 <a  href="http://www.amazon.com/gp/product/B00FQU5KD6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FQU5KD6&linkCode=as2&tag=hikeve-20&linkId=RM7QJSFHFODR6F3U"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00FQU5KD6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00FQU5KD6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -42,9 +37,6 @@ The MSR Deploy T-3 are great for snowshoeing. We have tested the Deploy T-2 in t
 **weight:** 520 grams   
    
 The Black Diamond Expedition 3 poles are made of Aluminium and can also be used as ski poles. The poles also come with a 4-season strap in case you want to use gloves during the winter season. These poles come with trekking and snow baskets.
-   
-<a href="http://www.hikeventures.com/deals/#black+diamond+expedition+3"><button class="btn btn-danger">Compare prices</button></a>
-
 
 ### Black Diamond Distance Carbon Z
 
@@ -53,8 +45,6 @@ The Black Diamond Expedition 3 poles are made of Aluminium and can also be used 
 **weight:** 285 grams   
 
 The Black Diamond Distance Carbon Z is made of carbon and suitable for fast-packing adventures. The poles are 3-section foldable.   
-
-<a href="http://www.hikeventures.com/deals/#black+diamond+distance+carbon+z"><button class="btn btn-danger">Compare prices</button></a>
 
 
 ### Black Diamond Distance Carbon FLZ
@@ -72,8 +62,6 @@ The Black Diamond Distance Carbon FLZ are made of carbon fibre those poles come 
 **weight:** 432 grams    
 
 The Leki Micro series are foldable hiking poles from Leki and are made of Aluminium.
-
-<a href="http://www.hikeventures.com/deals/#leki+micro+ti"><button class="btn btn-danger">Compare prices</button></a>
 
 <a href="https://www.flickr.com/photos/90204224@N07/16507495306"><img src="https://farm8.staticflickr.com/7432/16507495306_31a0dc37c5_b.jpg" width="1024" height="680"></a>
 
