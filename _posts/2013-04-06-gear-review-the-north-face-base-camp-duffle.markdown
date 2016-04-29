@@ -25,7 +25,4 @@ And an internal mash bag with a key strap.
 I use the North Face Base Camp Duffle mainly to transport my gear between airports. So far, the bag gives a solid impression and worked quite well for me. If I would were to buy a Duffle again I would take the largest size to cram in even more stuff especially if you also need clothes which are not related to your hiking trip.
 <img src="http://farm9.staticflickr.com/8254/8624813100_cdabac8954_c.jpg" width="1150" alt="The North Face Base Camp Duffle">
 
-## Where to buy the North Face Base Camp Duffle?
-<script type="text/javascript" src="http://www.avantlink.com/api.php?module=ProductSearch&affiliate_id=125311&website_id=150351&merchant_ids&search_results_sort_order=Retail+Price|asc&output=js&search_results_merchant_limit=1&search_advanced_syntax=1&search_results_options=noheader&search_results_count=1&search_results_layout=list&search_results_fields=|Merchant+Name|Product+Name|Retail+Price&search_term=The North Face Base Camp Duffle"></script>
-
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00WI09NQC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00WI09NQC&linkCode=as2&tag=hikeve-20&linkId=VDBTX2LMJGDTX7GQ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00WI09NQC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00WI09NQC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
