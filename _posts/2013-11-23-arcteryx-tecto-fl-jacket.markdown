@@ -9,6 +9,7 @@ tags: [reviews, arcteryx, jackets]
 ---
 
 Looking for a lightweight waterproof jacket for your next hiking, backpacking or any other backcountry adventure? The Arcteryx Tecto FL Jacket could be your next jacket and here comes a short review. After my hiking trip in [Sarek](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) where I used the <a href="http://hikeventures.com/gear-review-montane-minimus-smock/" target="_self">Montane Minimus Smock</a>, I noticed that it would be better to have a full-zip jacket. It's just much more easier to get it on and off. Of course, a full-zip jacket is somewhat more heavy but a full-zip jacket just works better for me.
+   
 <a href="https://www.flickr.com/photos/90204224@N07/11379723083" title="Arcteryx Tecto FL"><img src="https://farm6.staticflickr.com/5520/11379723083_5cf7ba4ecc_b.jpg" width="1024" height="466" alt="Arcteryx Tecto FL"></a>
 <!--more-->
 
@@ -25,8 +26,5 @@ The close-to-body fit is especially suitable for those who are performing activi
  
 ## Recommendation
 The Arcteryx Tecto FL jacket is a great jacket for being active outdoors. It is also lightweight and packs small since it has less pockets and a minimalistic cut. However, If you are looking for a lighter jacket and if you are on a budget then you could also have a look at the <a href="http://hikeventures.com/gear-review-montane-minimus-smock/">Montane Minimus Jacket</a>. I found the Montane Minimus jacket less durable than the Arcteryx Tecto FL jacket but it's almost invisible in your backpack. My preference goes towards the Arcteryx Tecto FL Jacket. I am also using the Tecto FL when I cycle to work during the winter time here in Finland. 
-
-## Where to buy the Arcteryx Tecto FL Jacket?
-<script type="text/javascript" src="http://www.avantlink.com/api.php?module=ProductSearch&affiliate_id=125311&website_id=150351&merchant_ids&search_results_sort_order=Retail+Price|asc&output=js&search_results_merchant_limit=1&search_advanced_syntax=1&search_results_options=noheader&search_results_count=1&search_results_layout=list&search_results_fields=|Merchant+Name|Product+Name|Retail+Price&search_term=Arcteryx Tecto FL jacket Men"></script>
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00BJLEQNG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BJLEQNG&linkCode=as2&tag=hikeve-20&linkId=SMNBW35C7YL4GFBG"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BJLEQNG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00BJLEQNG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
