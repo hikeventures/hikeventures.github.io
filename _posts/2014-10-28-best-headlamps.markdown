@@ -28,29 +28,6 @@ Konstantin wearing a Petzl Nao on the top of a fell on our [trip in Lapland](htt
 | [Black Diamond Storm](http://www.hikeventures.com/deals/#black+diamond+storm "Black Diamond Storm") | 110 | 160 |
 | [Petzl E+LITE](http://www.hikeventures.com/deals/#petzl+e+lite "Petzl E+LITE") | 27 | 26 |
 
-
-## What makes a good headlamp?
-When deciding which headlamp you should purchase, you have to consider the factors below and if they are applicable for your outdoor adventure needs. Should your headlamp be:
-
-* waterproof or water resistant?
-* lightweight?
-* pack small e.g. for running or ultralight backpacking?
-* adjust it's light automatically?
-* rechargeable with USB in case you carry a USB battery as I do in order to be able to charge my [Suunto Ambit3](http://www.hikeventures.com/suunto-ambit3-ambit2-worth-upgrade/ "Suunto Ambit 3") and camera gear as well?
-* easy adjustable with gloves for winter activities?
-* used in very cold condition (to carry the battery nearby your body to avoid battery drain)?
-* comfortable to wear?
-* battery life on each recharge?
-
-## Deals
-<div class="row">
-  <div class="col-sm-12">
-<center>
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=headlamp  AND petzl OR headlamp  AND black diamond OR headlamp  AND Princeton&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
-</center>
-  </div>
-</div>
-
 ### Petzl Nao 
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00LMCATH4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LMCATH4&linkCode=as2&tag=hikeve-20&linkId=NB7B66USP2WK5M3D"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LMCATH4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LMCATH4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -136,3 +113,28 @@ The Black Diamond Storm is a little bit more heavy than the Petzl Tikka XP but t
 **Lumen:** 26  
 
 This is an emergency headlamp from Petzl. This headlamp features a lock and has a IP X7 classification. It could be also a good choice for ultralight enthusiasts who can manage with less light. It can be used in a temperature range from -30C to +60C and it's batteries can be stored for 10 years.
+  
+   
+   
+
+## Deals
+<div class="row">
+  <div class="col-sm-12">
+<center>
+ <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=headlamp  AND petzl OR headlamp  AND black diamond OR headlamp  AND Princeton&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
+</center>
+  </div>
+</div>
+   
+## What makes a good headlamp?
+When deciding which headlamp you should purchase, you have to consider the factors below and if they are applicable for your outdoor adventure needs. Should your headlamp be:
+
+* waterproof or water resistant?
+* lightweight?
+* pack small e.g. for running or ultralight backpacking?
+* adjust it's light automatically?
+* rechargeable with USB in case you carry a USB battery as I do in order to be able to charge my [Suunto Ambit3](http://www.hikeventures.com/suunto-ambit3-ambit2-worth-upgrade/ "Suunto Ambit 3") and camera gear as well?
+* easy adjustable with gloves for winter activities?
+* used in very cold condition (to carry the battery nearby your body to avoid battery drain)?
+* comfortable to wear?
+* battery life on each recharge?
