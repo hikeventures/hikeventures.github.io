@@ -44,8 +44,6 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hik
 
 The Mountain Hardware Ghost Whisperer Hooded Down Jacket is one of the lightest down jackets available. This is a great jacket for camping during spring, summer and autumn or as a light mid-layer for the winter. If you are looking for a proper winter jacket then we would rather pick the Rab Infinity Endurance or the Rab Positron jacket. For a stylish jacket to use during winter mainly in town we would go for the Arcteryx Ceres jacket.
 
-<a href="http://www.hikeventures.com/deals/#Ghost+Whisperer+Hooded+Down+Jacket"><button class="btn btn-danger">Compare prices</button></a><br><br>
-
 ### Arcteryx Cerium LT Hoody (850 fp) 
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00Q9MHXN0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q9MHXN0&linkCode=as2&tag=hikeve-20&linkId=Y5N4EYNVYQ5UDXXJ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q9MHXN0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q9MHXN0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/>
@@ -54,8 +52,6 @@ The Mountain Hardware Ghost Whisperer Hooded Down Jacket is one of the lightest 
 **Award:** ISPO Award Winner 2014
 
 Similar as the Arcteryx Cerium LT Jacket just with a hoodie. We would pick the Cerium LT Hoody if we would have to choose a down jacket for moderate winter or for camping during spring and autumn. LT stands for lightweight in the Arcteryx product line.
-
-<a href="http://www.hikeventures.com/deals/#Arcteryx+Cerium"><button class="btn btn-danger">Compare prices</button></a>
 
 ### Arcteryx Ceres Jacket (850 fp)
 
@@ -66,8 +62,6 @@ Similar as the Arcteryx Cerium LT Jacket just with a hoodie. We would pick the C
 
 More heavy than the other jackets in our list, the Arcteryx Ceres Jacket is made for the deep winter where warmth is the most important factor. This jacket is a probably a great option if you also want to have a fashionable jacket to wear in the city.
 
-<a href="http://www.hikeventures.com/deals/#Ceres+Jacket"><button class="btn btn-danger">Compare prices</button></a>
-
 ### Western Mountaineering Flash Jacket (850 fp)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00O85G9XA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00O85G9XA&linkCode=as2&tag=hikeve-20&linkId=T3YZSF3ZRC6WCK3I" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00O85G9XA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00O85G9XA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/>
@@ -75,8 +69,6 @@ More heavy than the other jackets in our list, the Arcteryx Ceres Jacket is made
 **Weight:** 290 grams
 
 The Western Mountaineering Flash Jacket is a very good jacket for hiking trips in moderate cold conditions (spring and autumn). It's lightweight, has a good warmth-weight ratio and the full zipper have insulated draft protection.
-
-<a href="http://www.hikeventures.com/deals/" onclick="location.href=this.href+'?key=Western Mountaineering Flash Jacket';return false;"><button class="btn btn-danger">Compare prices</button></a>
 
 ### Marmot Quasar Hoody (900 fp)
 
@@ -86,8 +78,6 @@ The Western Mountaineering Flash Jacket is a very good jacket for hiking trips i
 
 The Marmot Quasar Hoody is also an interesting jacket with it's high down fill power covered by light Pertex Quantum fabric (similar as other models in our list) which makes it also somewhat water repellent. The additional zip on the front adds a little bit more weight to the jacket. We would wear the Marmot Quasar Hoody during moderate winter or camping during spring and summer.
 
-<a href="http://www.hikeventures.com/deals/#GMarmot+Quasar+Hoody"><button class="btn btn-danger">Compare prices</button></a>
-
 ### Arcteryx Cerium SV Hoody (850 fp)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GW80Q9E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW80Q9E&linkCode=as2&tag=hikeve-20&linkId=WCQGDJJ5MREZ5EUX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW80Q9E&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW80Q9E" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -96,8 +86,6 @@ The Marmot Quasar Hoody is also an interesting jacket with it's high down fill p
 
 The Arcteryx Cerium SV Hoody is part of Arcteryx severe weather product line - most durable materials which provides most weather protection. We would wear this jacket during the winter. For camping during spring and summer it's probably going to be a bit too warm.
 
-<a href="http://www.hikeventures.com/deals/#Cerium+SV+Hoody"><button class="btn btn-danger">Compare prices</button></a>
- 
 ### 7. The North Face Super Diez Hooded Jacket (900 fp)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00PJBP5SM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PJBP5SM&linkCode=as2&tag=hikeve-20&linkId=GZG3FTWKKEAVL7UC"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00PJBP5SM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00PJBP5SM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -105,8 +93,6 @@ The Arcteryx Cerium SV Hoody is part of Arcteryx severe weather product line - m
 **Weight:** 477 grams
 
 The The North Face Super Diez Hooded Jacket is a mountaineering and alpine climbing jacket which has an internal zip chest pocket and a DWR coating which repels light moisture. The 900 fp offers a great weight to warmth ratio.
-
-<a href="http://www.hikeventures.com/deals/#The+North+Face+Super+Diez+Jacket"><button class="btn btn-danger">Compare prices</button></a>
 
 ### Patagonia Men's Down Hooded Jacket (800 fp)
 
@@ -116,7 +102,6 @@ The The North Face Super Diez Hooded Jacket is a mountaineering and alpine climb
 
 Patagonia is another popular outdoor brand and delivers a super light down jacket which comes with 2 zipped hand warmer pockets and elastic-bound cuffs and hem. The shell of the jacket is durable water repellent. The Patagonia Men's Down Hooded Jacket can be used as a light winter jacket.
 
-<a href="http://www.hikeventures.com/deals/#Hi+Loft+Hooded+Down+Jacket"><button class="btn btn-danger">Compare prices</button></a>
 
 ### Rab Infinity Endurance Jacket (850 fp)
 
@@ -126,8 +111,6 @@ Patagonia is another popular outdoor brand and delivers a super light down jacke
 
 The  Rab Infinity Endurance Jacket is a technical alpine or mountaineering jacket. It's high fill power and low weight makes this probably one of the best lightweight winter down jackets. If you need a warmer jacket then the Rab Positron Jacket would be an alternative option which adds approximately 30% more warmth.
 
-<a href="http://www.hikeventures.com/deals/#Rab+Infinity+Endurance+Jacket"><button class="btn btn-danger">Compare prices</button></a>
-
 ### Rab Positron Jacket (800 fp)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00XJO2X18/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00XJO2X18&linkCode=as2&tag=hikeve-20&linkId=5POHXUOALSVWVY2B"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00XJO2X18&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00XJO2X18" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -135,8 +118,6 @@ The  Rab Infinity Endurance Jacket is a technical alpine or mountaineering jacke
 **Weight:** 720 grams
 
 The  Rab Positron Jacket is proper box-wall down winter jacket with a water-resistant outer fabric. The manufacturer claims that it has been designed for mountain and expedition use up to 6000m. This jacket delivers about 30% more warmth than the Rab Infinity Endurance jacket.
-
-<a href="http://www.hikeventures.com/deals/#Positron+Jacket"><button class="btn btn-danger">Compare prices</button></a>
 
 ## Deals or Full price?
 It's always a good idea to check if there are some deals available before buying the latest model. Sometimes there is not that much difference to the older model. You can also try our <a href="/deals/">price comparison tool</a> to find the best price offered by several outdoor stores across the U.S.
