@@ -44,8 +44,6 @@ You should also have a look on current rain pants deals before deciding on which
 
 The Montane Minimus pants are super light and pack easily into every backpack. These are great waterproof pants for the warmer months. These pants do also have zippers on the lower part of the leg so you can pull them on and off even with boots on.
 
-<a href="http://www.hikeventures.com/deals/#montane+minimus+pants"><button class="btn btn-danger">Compare prices</button></a>
-
 ### Montane Atomic Pants
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B007RLM8JQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007RLM8JQ&linkCode=as2&tag=hikeve-20&linkId=GBWCT2S4ZY3KW4PQ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007RLM8JQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B007RLM8JQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -54,8 +52,6 @@ The Montane Minimus pants are super light and pack easily into every backpack. T
 **Fabric:** PERTEX Shield 
 
 The Montane Atomic Pants are a bit more durable than the Montane Minimus Pants but comes with 44 grams more weight. Also a great choice if you go hiking in the mountains during the warmer months.
-
-<a href="http://www.hikeventures.com/deals/#montane+atomic+pants"><button class="btn btn-danger">Compare prices</button></a>
 
 ### Mountain Hardwear Plasmic Pant
 
@@ -66,8 +62,6 @@ The Montane Atomic Pants are a bit more durable than the Montane Minimus Pants b
 
 The Mountain Hardwear Plasmic Pants are slightly more heavy than the Montane pants but they come with some additional features. These pants have articulated knees which increases your mobility and also a bag with a zipper where you can store small items. If you need to have a pocket on your waterproof pants then go for this model.
 
-<a href="http://www.hikeventures.com/deals/#plasmic+pants"><button class="btn btn-danger">Compare prices</button></a>
-
 ### Rab Cohort Pants
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00IE7RQXK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IE7RQXK&linkCode=as2&tag=hikeve-20&linkId=PRR24YQ36UTAPGWX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00IE7RQXK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00IE7RQXK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -76,8 +70,6 @@ The Mountain Hardwear Plasmic Pants are slightly more heavy than the Montane pan
 **Fabric:** Pertex Shield+ 2.5L
 
 The Rab Cohort Pants are great if you want to have 3/4 length side zips. This feature is quite useful if you are planning to quickly pull on / off your pants frequently or for venting.
-
-<a href="http://www.hikeventures.com/deals/#cohort+pants"><button class="btn btn-danger">Compare prices</button></a>
 
 ### Arcteryx Beta SL Pants
 
@@ -88,8 +80,6 @@ The Rab Cohort Pants are great if you want to have 3/4 length side zips. This fe
 
 SL stands for Super Light in the Arcteryx product range. This model is reinforced in key wear areas, has articulated knees but only comes with lower leg zippers.
 
-<a href="http://www.hikeventures.com/deals/#arcteryx+beta+sl+pants"><button class="btn btn-danger">Compare prices</button></a>
-
 ### Rab Xiom Pants
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00J9TT81K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00J9TT81K&linkCode=as2&tag=hikeve-20&linkId=MHJSBR5TLFK3KQRM"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00J9TT81K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00J9TT81K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -98,8 +88,6 @@ SL stands for Super Light in the Arcteryx product range. This model is reinforce
 **Fabric:** Pertex Shield+ 3L
 
 The Rab Xiom Pants come in a more durable fabric than the Montane pants listed above. They also have 3/4 length side zips. These pants also features and elastic waistband with drawcord (as most of the models listed above). If some more durability and 3/4 length side zips are important for you then you should go for these pants rather than choosing super lightweight pants.
-
-<a href="http://www.hikeventures.com/deals/#xiom+pants"><button class="btn btn-danger">Compare prices</button></a>
 
 
 <a href="https://www.flickr.com/photos/90204224@N07/9598980244" title="Montane Minimus Pants"><img src="https://farm4.staticflickr.com/3767/9598980244_fccc7cd8c6_b.jpg" width="1024" height="683" alt="Montane Minimus Pants"></a>
