@@ -26,8 +26,6 @@ Konstantin with the [Jetboil Sol Ti](http://hikeventures.com/gear-review-jetboil
 
 The MSR MicroRocket is the lightest stove in our list. If saving weight has your highest priority and you want to use a gas stove then you should go for the MSR MicroRocket.
 
-<a href="http://www.hikeventures.com/deals/#msr+microrocket"><button class="btn btn-danger">Compare prices</button></a>
-
 ### MSR WindPro II
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B005I6PNZS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005I6PNZS&linkCode=as2&tag=hikeve-20&linkId=NCXX5MK756QD4MWS"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005I6PNZS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005I6PNZS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />   
@@ -37,8 +35,6 @@ The MSR MicroRocket is the lightest stove in our list. If saving weight has your
 **Fuel:** Gas   
 
 The MSR WindPro II is a nice stove for those who want to have the burner separated which gives more stability but also the possibility to keep the gas canister warm in colder temperatures.
-
-<a href="http://www.hikeventures.com/deals/#msr+windpro"><button class="btn btn-danger">Compare prices</button></a>
 
 
 ### Jetboil Flash
@@ -52,7 +48,6 @@ The MSR WindPro II is a nice stove for those who want to have the burner separat
 
 The MSR Flash offers a push-button igniter and a heat indicator. The Jetboil Flash is suitable as a 2 person stove. If you travel solo have a look at the other stoves below.
 
-<a href="http://www.hikeventures.com/deals/#jetboil+flash"><button class="btn btn-danger">Compare prices</button></a>
 
 ### Jetboil MiniMo
 
@@ -63,8 +58,6 @@ The MSR Flash offers a push-button igniter and a heat indicator. The Jetboil Fla
 **Fuel:** Gas   
 
 The Jetboil MiniMo o stove offers you one of the best simmer control, metal handles, and a low spoon angle for easy eating. The bottom cover can also be used as a bowl. As a whole product the Jetboil MiniMo might be a nice solution and not even that heavy considering that it offers 2 products in one (stove and bowl).
-
-<a href="http://www.hikeventures.com/deals/#jetboil+minimo"><button class="btn btn-danger">Compare prices</button></a>
 
 
 ### MSR WindBoiler 
@@ -77,8 +70,6 @@ The Jetboil MiniMo o stove offers you one of the best simmer control, metal hand
 
 The MSR WindBoiler is the latest addition on the stove market from MSR. This stove is marketed to operate very well under windy conditions. The MSR Windboiler is currently our favourite stove on our trips (for 2 person) even so it weights a little bit more than the other stoves. If you are traveling alone then the Jetboil MiniMo (see below) might be a good alternative.
 
-<a href="http://www.hikeventures.com/deals/#msr+reactor"><button class="btn btn-danger">Compare prices</button></a>
-
 ### MSR XGK EX
 
 <a  href="http://www.amazon.com/gp/product/B000EUMKFO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000EUMKFO&linkCode=as2&tag=hikeve-20&linkId=VXEWELGDXLVW6BJU"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000EUMKFO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B000EUMKFO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -88,8 +79,6 @@ The MSR WindBoiler is the latest addition on the stove market from MSR. This sto
 **Fuel:** Multiple   
 
 The MSR XGK EX is probably the best choice if you need a stove which can handle multiple fuels in extreme conditions.
-
-<a href="http://www.hikeventures.com/deals/#msr+XGK"><button class="btn btn-danger">Compare prices</button></a>
 
 ## Deals
 It's always a good idea to check if there are stove deals available. Here you can find a list of current deals:
