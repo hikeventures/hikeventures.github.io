@@ -23,12 +23,13 @@ Planning to go hiking or backpacking or any other backcountry adventure? Then yo
 | [Arcteryx Beta SL Pants](http://www.hikeventures.com/deals/#arcteryx+beta+sl+pants "Arcteryx Beta SL Pants") | 260 |
 | [Rab Xiom Pants](http://www.hikeventures.com/deals/#xiom+pants "Rab Xiom Pants") | 270 |
 
+
 ## Deals
-It's always a good idea to check deals on wind jackets if you are on a budget. Here is a list of current rain pants deals from several outdoor stores in the U.S.:
+It's always a good idea to check deals on rain pants if you are on a budget. Here is a list of current rain pants deals from several outdoor stores in the U.S.:
 <div class="row">
   <div class="col-sm-12">
 <center>
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=rain jacket men AND the north face OR rain jacket men AND Westcomb OR rain jacket men AND Mountain Hardwear OR rain jacket men AND Montane OR rain jacket men AND Berghaus OR rain jacket men AND Rab&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
+ <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=rain pants men AND the north face OR rain pants men AND Westcomb OR rain pants men AND Mountain Hardwear OR rain pants men AND Montane OR rain pants men AND Berghaus OR rain pants men AND Rab&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
 </center>
   </div>
 </div>
