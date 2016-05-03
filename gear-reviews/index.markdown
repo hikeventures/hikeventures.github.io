@@ -117,7 +117,7 @@ published: true
           <tr>
 
             <td><a href="/gear-review-unpacking-alpacka-packraft">Alpacka Raft Yukon Yak</a></td>
-            <td><a href="/www.hikeventures.com/anfibio-packsuit/">Anfibio Packsuitk</a></td>
+            <td><a href="/www.hikeventures.com/anfibio-packsuit/">Anfibio Packsuit</a></td>
             <td><a href="/astral-ytv">Astral YTV</a></td>
            
 
