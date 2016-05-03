@@ -45,7 +45,7 @@ We took it quite easy on that day, saving our energy for the packrafting round-u
 Below you can watch Cajs Video recorded with the GoPro Hero Session camera.
     
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=irwlhDapFz0"></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/irwlhDapFz0"></iframe>
 </div>
     
 After some paddling we decided to have a break in one of the islands and to explore it a little bit. There were plenty of birds on the island but they flew away once we came closer to the island.
