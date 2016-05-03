@@ -29,6 +29,11 @@ The setting sun is beautiful (and romantic) anywhere. It can make even a total d
      
 ## Bamboo
 I am really really really fascinated with bamboo. Before I went to Japan, One of my dreams was to walk through a bamboo forest. And you know what? I haven't done it yet. This picture was taken in one of the three most beautiful/famous gardens in Japan - Koraku-en in Okayama. We went there with @gumngum and his two lovely sons. It was a very beautiful place indeed. But I still haven't been to a bamboo forest. Maybe this year.
-       
+
 ## Packrafting in Japan
 An important part of packrafting is scouting. Especially if the river has been changed out of all recognition by the torrential rains during a typhoon. Here @gumngum, @chang_narug and I are looking if it is possible to run the #shimanto river. And the answer to it - yes it was.
+
+
+It was like walking above the clouds.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26162504684/in/dateposted-public/" title="Hiking and Packrafting in Japan"><img src="https://farm2.staticflickr.com/1464/26162504684_f479c44d4e_b.jpg" width="1024" height="680" alt="Hiking and Packrafting in Japan"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
