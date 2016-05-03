@@ -3,7 +3,7 @@ layout: post
 title: Testing the Anfibio Packsuit and preparing for the Swedish Packrafting Round-Up 2016
 date: 2016-05-03 09:58  +0300
 comments: true
-published: false
+published: true
 category: gear
 tags: [gear, finland, packrafting, anfibio]
 description: The Anfibio Packsuite and Swedish Packrafting Round-Up 2016 preperations
