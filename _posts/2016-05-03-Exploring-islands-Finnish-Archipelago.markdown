@@ -5,7 +5,7 @@ date: 2016-05-03 09:58  +0300
 comments: true
 published: false
 category: gear
-tags: [gear, finland, packrafting]
+tags: [gear, finland, packrafting, anfibio]
 description: The Anfibio Packsuite and Swedish Packrafting Round-Up 2016 preperations
 ---
 Last Sunday, <a href=caide.kuvat.fi">Caj</a> and his wife joined me for a trip in the Finnish Archipelago Sea around Ruisalo in Turku as they wanted to test their new Anfibio Packsuit which they ordered from the <a href="http://www.packrafting-store.de/Clothing/Anfibio-Packsuit::378.html">Packrafting Store</a> in Germany. Caj was already a bit in panic if he would receive his drysuite on time as he was planning to take it to the <a href="https://www.facebook.com/events/501436800038543/">Swedish Packrafting Round-Up 2016</a> which will take place next weekend.
