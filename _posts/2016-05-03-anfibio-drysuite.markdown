@@ -64,7 +64,7 @@ On the way back we had to wait again for a ship to pass by.
     
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26677523662/in/dateposted-public/" title="Packrafting in Turku"><img src="https://farm2.staticflickr.com/1504/26677523662_db7caf7906_b.jpg" width="1000" height="665" alt="Packrafting in Turku"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
       
-Once we came closer to the shore we had plenty of fun watching Caj testing his new Anfibio Drysuite.
+Once we came closer to the shore we had plenty of fun watching Caj testing his new Anfibio Packsuit.
      
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/KWnlN7klqJI"></iframe>
