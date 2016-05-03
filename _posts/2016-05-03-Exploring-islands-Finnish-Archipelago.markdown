@@ -12,7 +12,7 @@ Last Sunday, <a href=caide.kuvat.fi">Caj</a> and his wife joined me for a trip i
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26742804516/in/dateposted-public/" title="Packrafting in Turku"><img src="https://farm2.staticflickr.com/1461/26742804516_281978b871_b.jpg" width="1024" height="768" alt="Packrafting in Turku"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-The islands of Turku are quite interesting places to visit and easily to reach. You can also read about my <a href="http://www.hikeventures.com/Paddling-the-Archipelago-Sea/">paddling trips</a> in the Turku Archipelago from last year. 
+Caj decided to take his GoPro Hero Session camera to film our paddling adventure around the Turku islands. I have paddled already <a href="http://www.hikeventures.com/Paddling-the-Archipelago-Sea/">last year</a> quite a lot in the Turku Archipelago during the seasons.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26742804196/in/dateposted-public/" title="Packrafting in Turku"><img src="https://farm2.staticflickr.com/1538/26742804196_62d0e57212_b.jpg" width="1024" height="768" alt="Packrafting in Turku"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
