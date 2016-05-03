@@ -117,17 +117,25 @@ published: true
           <tr>
 
             <td><a href="/gear-review-unpacking-alpacka-packraft">Alpacka Raft Yukon Yak</a></td>
+            <td><a href="/www.hikeventures.com/anfibio-packsuit/">Anfibio Packsuitk</a></td>
             <td><a href="/astral-ytv">Astral YTV</a></td>
-           <td><a href="http://hikeventures.com/petzl-meteor-3-plus-helmet">Petzl Meteor 3+ Helmet</a></td>
+           
 
 
           </tr>
         <tr>
-
+<td><a href="http://hikeventures.com/petzl-meteor-3-plus-helmet">Petzl Meteor 3+ Helmet</a></td>
 <td><a href="http://www.hikeventures.com/Sea-to-Summit-Ultra-Flex-Booties/">Sea to Summit Ultra Flex Booties</a></td>
          <td><a href="/gear-preview-werner-shuna-paddles">Werner Shuna Paddles</a></td>
-        <td><a href="http://hikeventures.com/windpaddle-sails-for-packrafting">WindPaddle Sail</a></td></tr>
-
+        </tr>
+                <tr>
+<td><a href="http://hikeventures.com/windpaddle-sails-for-packrafting">WindPaddle Sail</a></td>
+<td></td>
+<td></td>
+        </tr>
+        
+        
+        
         
         
         <tr style="background:#EEEEEE;">
