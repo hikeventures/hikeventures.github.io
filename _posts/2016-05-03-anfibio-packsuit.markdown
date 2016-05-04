@@ -43,8 +43,12 @@ We took it quite easy on that day, saving our energy for the packrafting round-u
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26165741924/in/dateposted-public/" title="Packrafting in Turku"><img src="https://farm2.staticflickr.com/1504/26165741924_def2ded531_b.jpg" width="1000" height="665" alt="Packrafting in Turku"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     
 Below you can watch Cajs Video recorded with the GoPro Hero Session camera.
+
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/irwlhDapFz0?rel=0"></iframe>
+</div>
     
-<iframe width="560" height="315" src="https://www.youtube.com/embed/irwlhDapFz0?rel=0" frameborder="0" allowfullscreen></iframe>
     
 After some paddling we decided to have a break in one of the islands and to explore it a little bit. There were plenty of birds on the island but they flew away once we came closer to the island.
      
