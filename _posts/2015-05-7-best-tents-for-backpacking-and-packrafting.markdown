@@ -14,7 +14,6 @@ For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](
 <!--more-->
 
 ## Deals
-It's always a good idea to check deals on tents if you are on a budget. Here is a list of current rain pants deals from several outdoor stores in the U.S.:
 <div class="row">
   <div class="col-sm-12">
 <center>
