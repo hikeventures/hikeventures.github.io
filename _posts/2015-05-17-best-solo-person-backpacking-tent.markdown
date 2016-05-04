@@ -14,7 +14,6 @@ In this article I would like to give an overview about the best solo person back
 
 
 ## Deals
-It's always a good idea to check deals on tents if you are on a budget. Here is a list of current rain pants deals from several outdoor stores in the U.S.:
 <div class="row">
   <div class="col-sm-12">
 <center>
