@@ -22,7 +22,6 @@ A wind jacket is much lighter and you won't sweat that much in it compared to a 
 In the evenings while sitting in the camp I then swap my [fleece](http://www.hikeventures.com/best-fleece-jackets/ "Fleece Jackets") and wind jacket combo with a [down jacket](#) which keeps me warm when I am sitting around.
 
 ## Deals
-It's always a good idea to check deals on wind jackets if you are on a budget. Here is a list of current wind jacket deals from severl outdoor stores in the U.S.:
 <div class="row">
   <div class="col-sm-12">
 <center>
