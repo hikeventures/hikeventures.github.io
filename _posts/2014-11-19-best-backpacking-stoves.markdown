@@ -81,7 +81,6 @@ The MSR WindBoiler is the latest addition on the stove market from MSR. This sto
 The MSR XGK EX is probably the best choice if you need a stove which can handle multiple fuels in extreme conditions.
 
 ## Deals
-It's always a good idea to check if there are stove deals available. Here you can find a list of current deals:
 <div class="row">
   <div class="col-sm-12">
 <center>
