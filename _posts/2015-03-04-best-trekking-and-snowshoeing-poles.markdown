@@ -17,7 +17,6 @@ With [Tubbs snowshoes](http://hikeventures.com/tubbs-xpedition-snowshoes/ "Tubbs
 Currently, I am using the [Black Diamond Ultra Distance Z-Poles](http://www.hikeventures.com/gear-review-black-diamond-ultra-distance-z-pole/ "Black Diamond Ultra Distance Z-Poles") which are not made for snowshoeing as you can not add snow baskets on those trekking poles. However, I have also used them on our snowshoeing trip in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Finnish Lapland") - Urho Kekkonen National Park - where I realised that snow baskets might be quite useful. For 3-season trips however they are great. You can see my trekking poles in action in our trip in [Swedish Lapland (Sarek National Park)](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Swedish Lapland").
 
 ## Deals
-It's always a good idea to check deals on trekking poles if you are on a budget. Here is a list of current rain pants deals from several outdoor stores in the U.S.:
 <div class="row">
   <div class="col-sm-12">
 <center>
