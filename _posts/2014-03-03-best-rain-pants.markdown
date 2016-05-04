@@ -25,7 +25,6 @@ Planning to go hiking or backpacking or any other backcountry adventure? Then yo
 
 
 ## Deals
-It's always a good idea to check deals on rain pants if you are on a budget. Here is a list of current rain pants deals from several outdoor stores in the U.S.:
 <div class="row">
   <div class="col-sm-12">
 <center>
