@@ -26,4 +26,6 @@ That's how your trunk looks like when you go packrafting.
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26673104960/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7726/26673104960_58a33ecd00_b.jpg" width="1024" height="996" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
+On the first day Henrik welcomed everyone and gave a short briefing.
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26342189713/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7019/26342189713_fedecd1f13_b.jpg" width="1024" height="759" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
