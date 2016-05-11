@@ -20,3 +20,10 @@ Plenty of Hyperlite Mountain Gear was around like the Ultamid tarp. Probably nee
 Welcome to the HikeVentures tent. We had our little flag with is. It was much easier to find our tent again ... :)
         
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26930417545/in/dateposted-public/" title="Swedish Packrafting Round-Up 2016"><img src="https://farm8.staticflickr.com/7536/26930417545_daf4712b01_b.jpg" width="1024" height="640" alt="Swedish Packrafting Round-Up 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+That's how your trunk looks like when you go packrafting.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26673104960/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7726/26673104960_58a33ecd00_b.jpg" width="1024" height="996" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+
