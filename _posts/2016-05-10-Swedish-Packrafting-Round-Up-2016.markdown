@@ -49,10 +49,6 @@ After our breakfast we packed our gear and inflated our packrafts. Henrik gave a
        
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26914515216/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7632/26914515216_e6dc0a73f1_b.jpg" width="1024" height="768" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
-Almost ready to go. Final preparations on packrafts and gear.
-       
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26948231525/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7716/26948231525_74ec86ef42_b.jpg" width="1024" height="680" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-       
 Last gear checks before riding the rapid with our packrafts.
        
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26879917251/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7542/26879917251_be4d366273_b.jpg" width="1024" height="680" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
