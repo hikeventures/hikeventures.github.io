@@ -20,17 +20,46 @@ Plenty of Hyperlite Mountain Gear was around like the Ultamid tarp. Probably nee
 Welcome to the HikeVentures tent. We had our little flag with is. It was much easier to find our tent again ... :)
         
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26930417545/in/dateposted-public/" title="Swedish Packrafting Round-Up 2016"><img src="https://farm8.staticflickr.com/7536/26930417545_daf4712b01_b.jpg" width="1024" height="640" alt="Swedish Packrafting Round-Up 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
+       
 That's how your trunk looks like when you go packrafting.
-
+       
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26673104960/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7726/26673104960_58a33ecd00_b.jpg" width="1024" height="996" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
+       
 On the first day Henrik welcomed everyone and gave a short briefing.
-
+       
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26342189713/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7019/26342189713_fedecd1f13_b.jpg" width="1024" height="759" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
+       
 While the others were still pitching their tents Konstantin, Patrick and Caj went for a short rapid ride on the Voxnan.
-
+       
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26878638661/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7473/26878638661_c090b4ef83_b.jpg" width="1024" height="768" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+       
+Enjoying the the first evening around the camp fire. 
+       
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26342637494/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7347/26342637494_04d39968ac_b.jpg" width="1024" height="637" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+       
+The next morning Konstantin prepared his breakfast sausage on our camp fire.
+       
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26914515896/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7180/26914515896_116c065b4b_b.jpg" width="1024" height="718" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+       
+While <a href="http://urbanpackrafter.com/">Jacob</a> enjoyed fresh beacon.
+       
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26914515746/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7259/26914515746_0c3c39e7c0_b.jpg" width="1024" height="680" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+       
+After our breakfast we packed our gear and inflated our packrafts. Henrik gave another briefing about the trip and meeting points.
+       
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26914515216/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7632/26914515216_e6dc0a73f1_b.jpg" width="1024" height="768" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+       
+Almost ready to depart. Final preparations on packrafts and gear.
+       
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26948231525/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7716/26948231525_74ec86ef42_b.jpg" width="1024" height="680" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+       
+Last evaluations if paddling would be faster with a different paddle.
+       
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26879917251/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7542/26879917251_be4d366273_b.jpg" width="1024" height="680" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+       
+Into the rapid. It took a while until everyone was with the packraft in the Voxnan river.
+       
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26914516236/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7456/26914516236_91b3c44d20_b.jpg" width="1024" height="680" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+       
+       
+              
