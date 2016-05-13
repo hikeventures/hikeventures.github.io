@@ -241,20 +241,54 @@ There were a few green packrafts probably belonging to the Swedish paddlers...
        
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26985805915/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7037/26985805915_9a435f58c7_b.jpg" width="1024" height="714" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
+Who wouldn't like to paddle here?
        
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26380302894/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7518/26380302894_8d7ef811cf_b.jpg" width="1024" height="681" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
+Fixing a Carls packraft while Urban Packrafter and HikeVentures filming the scene.
        
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26985806145/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7548/26985806145_abfbd2fdf5_b.jpg" width="1024" height="637" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
+For some this was the last rapid on the Voxnan.
        
-       
-       
-       
-       
-       
-
-
-
-
-
-
-
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26380303244/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7600/26380303244_c252a34327_b.jpg" width="1024" height="675" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
+        
+The place where some of us had to end their journey on the Voxnan. People where crying.
+        
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26985806365/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7417/26985806365_108b1d739f_b.jpg" width="1024" height="717" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+        
+While some of us had to pick up their cars from our starting location others were slowly packing their gear.
+        
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26380303604/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7314/26380303604_94bc8f5a5a_b.jpg" width="1024" height="580" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+        
+ Some of us continued to Camp Vinströmmen - The wine rapid. Where Alpacka showed us some of their new products - Self-bailing packraft and the Apocalypse. After some test paddling on land they made it into the wine rapid as well. Konstantin Gridnevskiy full of excitement which boat to choose while Jakob trying some moves.
+        
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26985806615/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7198/26985806615_5fc74973c3_b.jpg" width="1024" height="679" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+        
+After the Vinströmmen has been paddled we enjoyed a nice evening on the fire.
+        
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26380304044/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7273/26380304044_412884c5d4_b.jpg" width="1024" height="740" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+        
+One more reason to go camping... 
+        
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26380304314/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7551/26380304314_10c373feae_b.jpg" width="1024" height="768" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
+        
+The next day Jacob interviewed some of us for <a href="http://urbanpackrafter.com/">Urbanpackrafter.com</a>
+        
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26917254451/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7568/26917254451_6aff36bd6f_b.jpg" width="1024" height="668" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+        
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26381632483/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7067/26381632483_2349087230_b.jpg" width="1024" height="698" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+        
+Konstantin packing. It's time to drive back to Stockholm where he has to catch the plane to Amsterdam. The following week he will paddle again ... in Belgium.
+        
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26381632483/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7067/26381632483_2349087230_b.jpg" width="1024" height="698" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+        
+Patrick Dormischian and Caj Koskinen saying bye bye to Konstantin Gridnevskiy at the airport in Stockholm.
+        
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26381627983/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7096/26381627983_51e2a06359_b.jpg" width="750" height="1000" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+        
+Caj Koskinen and Patrick spent the whole day in Stockholm, walking through the old town and watching the preparations for the <a href="http://www.eurovision.tv/">SBS Eurovision song contest</a>. At 8 pm we left with <a href="http://www.vikingline.com/">Viking Line</a> from Stockholm back home to Turku. Let's meet again next year for the Swedish Packrafting Round-Up organized by the <a href="http://deliveranceteam.outdrr.com/">The Deliverance Team</a> who did a really great job! Thank you! ‪
+        
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26917254551/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7686/26917254551_064705d868_b.jpg" width="1024" height="768" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+        
+We will add a few more pictures later on from the Vinströmmen rapid. So stay tuned :)
