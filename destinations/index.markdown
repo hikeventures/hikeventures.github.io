@@ -456,6 +456,14 @@ footer: false
         	<img src="https://farm2.staticflickr.com/1489/24239565312_6c178026a9_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Trollsjön</p>
         </div></div></a></div></div>
+        
+           <div class="col-xs-6"><div class="hovereffect">
+            <a class="thumbnail" href="http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/" style="color: #FFF; border: 0px;">
+        <div class="thumbnail text-center">
+        	<img src="https://farm8.staticflickr.com/7038/26713214620_879b297792_z.jpg" alt="" class="img-responsive">
+        <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Voxnan</p>
+        </div></div></a></div></div>
+        
 </div>  
 <center><script type="text/javascript" src="//www.avantlink.com/link.php?ml=28937&amp;p=125311&amp;pw=150351&amp;ctc=Backcountry&amp;open=_blank"></script>
 </center>
