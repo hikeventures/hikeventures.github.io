@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Swedish Packrafting Round-Up 2016 at the river Voxnan
+title: First Swedish Packrafting Round-Up 2016
 date: 2016-05-13 14:00  +0300
 comments: true
 category: destinations
