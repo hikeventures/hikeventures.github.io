@@ -278,8 +278,6 @@ The next day Jacob interviewed some of us for <a href="http://urbanpackrafter.co
         
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26917254451/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7568/26917254451_6aff36bd6f_b.jpg" width="1024" height="668" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
         
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26381632483/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7067/26381632483_2349087230_b.jpg" width="1024" height="698" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-        
 Konstantin packing. It's time to drive back to Stockholm where he has to catch the plane to Amsterdam. The following week he will paddle again ... in Belgium.
         
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26381632483/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7067/26381632483_2349087230_b.jpg" width="1024" height="698" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
