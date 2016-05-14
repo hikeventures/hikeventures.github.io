@@ -150,7 +150,7 @@ Lunch break at the dam.
        
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26888502082/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7240/26888502082_13f2597fa9_b.jpg" width="1024" height="681" alt="Swedish Packrafting Round Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
- Konstantin seems to be quite happy in his banana boat.
+ Konstantin seems to be quite happy in his banana boat while wearing his Julbo Race 2.0 sun glasses.
        
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26377303664/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7588/26377303664_ffed66a337_b.jpg" width="1024" height="681" alt="Swedish Packrafting Round Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
