@@ -10,14 +10,10 @@ description: The first Swedish Packrafting Round-Up at the river Voxnan
 Henrik from the <a href="http://deliveranceteam.outdrr.com/">Deliverance Team</a> organised the first Swedish Packrafting Round-Up at the river Voxnan in Sweden and we decided to sign up on this event on <a href="https://www.facebook.com/events/501436800038543/">Facebook</a>. The swedish Packrafting Round-Up was also a great opportunity to meet <a href="http://www.alpackaraft.com/">Alpackaraft</a> - the manufacturer of our packrafts.
 After a 4 hours drive from Stockholm we arrived at the starting point. We were 20 people from different countries and it was nice to see what kind of gear people had in their backpacks.
             
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26653224630/in/dateposted-public/" title="Swedish Packrafting Round-Up 2016"><img src="https://farm8.staticflickr.com/7774/26653224630_9e8a0a3537_b.jpg" width="1024" height="681" alt="Swedish Packrafting Round-Up 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<!--more-->
-    
-Plenty of Hyperlite Mountain Gear was around like the Ultamid tarp. Probably need to get a new backpack by the end of the year as my HMG Porter is slowly wearing off. Just not sure if it's going to be white or black ...
+There was plenty of Hyperlite Mountain Gear around like the HMG Ultamid tarp. I probably need to get a new backpack by the end of the year as my Hyperlite Mountain Gear Porter is slowly wearing off. Just not sure if it's going to be black or white ...
         
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26835366172/in/dateposted-public/" title="Hyperlite Mountain Gear Tent &amp; Ultamid Tarp"><img src="https://farm8.staticflickr.com/7432/26835366172_4b9630972f_b.jpg" width="1024" height="723" alt="Hyperlite Mountain Gear Tent &amp; Ultamid Tarp"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-       
+ <!--more-->      
 Welcome to the HikeVentures tent. We had our little flag with is. It was much easier to find our MSR Hubba Hubba tent again ... :)
         
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26930417545/in/dateposted-public/" title="Swedish Packrafting Round-Up 2016"><img src="https://farm8.staticflickr.com/7536/26930417545_daf4712b01_b.jpg" width="1024" height="640" alt="Swedish Packrafting Round-Up 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -30,11 +26,11 @@ On the first day Henrik welcomed everyone and gave a short briefing.
        
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26342189713/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7019/26342189713_fedecd1f13_b.jpg" width="1024" height="759" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
-While the others were still pitching their tents Konstantin, Patrick and Caj went for a short rapid ride on the Voxnan.
+While the others were still pitching their tents Konstantin, Patrick and Caj went for a short rapid ride on the Voxnan. Even so the rapids don't look too dangerous it's always a good idea to wear a dry suite and a helmet (here the Petzl Meteor 3 helmet).
        
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26878638661/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7473/26878638661_c090b4ef83_b.jpg" width="1024" height="768" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
-Enjoying the the first evening around the camp fire. 
+Enjoying the the first evening around the camp fire. Konstantin is wearing his new Lundhags Jaure Light boots and Lundhags Merino Hoodie.
        
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26342637494/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7347/26342637494_04d39968ac_b.jpg" width="1024" height="637" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
@@ -114,7 +110,7 @@ Where is the next rapid?
        
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26888501672/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7783/26888501672_5515ca4f22_b.jpg" width="1024" height="637" alt="Swedish Packrafting Round Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
-This is Patrick from HikeVentures. You probably won't see him on many pictures since he is the guy who has to take them. Thanks to <a href="http://caide.kuvat.fi/">Caj</a> who took this picture.
+This is Patrick from HikeVentures. You probably won't see him on many pictures since he is the guy who has to take them. Thanks to <a href="http://caide.kuvat.fi/">Caj</a> who took this picture. Patrick also enjoy his new Julbo Swell sunglasses. They optics adapts itself according to the light and they can also float on the water which comes quite handy when going packrafting.
        
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26873718832/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7213/26873718832_c77a751c32_b.jpg" width="1024" height="875" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
@@ -146,7 +142,7 @@ Lunch break at the dam.
        
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26377303394/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7293/26377303394_8fb101d6e2_b.jpg" width="1024" height="602" alt="Swedish Packrafting Round Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
- In the Nordics there are a lot of pine trees. No need to take Gas with you.
+ In the Nordics there are a lot of pine trees. No need to take gas with you when you have a Boilerwerk Backcountry Boiler.
        
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26377303654/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7355/26377303654_591b551e2f_b.jpg" width="1024" height="713" alt="Swedish Packrafting Round Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
