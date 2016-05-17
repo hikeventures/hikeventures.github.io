@@ -278,7 +278,7 @@ Konstantin packing. It's time to drive back to Stockholm where he has to catch t
         
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26381632483/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7067/26381632483_2349087230_b.jpg" width="1024" height="698" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
         
-Patrick Dormischian and Caj Koskinen saying bye bye to Konstantin Gridnevskiy at the airport in Stockholm.
+Patrick and Caj saying bye bye to Konstantin Gridnevskiy at the airport in Stockholm.
         
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26381627983/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7096/26381627983_51e2a06359_b.jpg" width="750" height="1000" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
         
