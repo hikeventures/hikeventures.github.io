@@ -76,7 +76,7 @@ Another exciting packrafter in the Canyon.
        
 Konstantin in the Canyon.
        
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26361240524/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7651/26361240524_7443be447b_b.jpg" width="1024" height="673" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26362312073/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7093/26362312073_933b0c4c1b_b.jpg" width="1024" height="631" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
 Henrik from the <a href="http://deliveranceteam.outdrr.com/">The Deliverance Team</a> was pretty good in shape as well.
        
