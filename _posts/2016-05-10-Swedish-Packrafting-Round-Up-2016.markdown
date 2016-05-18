@@ -262,7 +262,7 @@ While some of us had to pick up their cars from our starting location others wer
         
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26985806615/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7198/26985806615_5fc74973c3_b.jpg" width="1024" height="679" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
                  
- Jeremie and Konstantin racing in the Vinströmmen.
+ Jeremie and Konstantin racing in the Vinströmmen. There was an Alapacka Ghost, Alpacka Scout, Alpacka Apocalypse and a self-bailing Alpacka Raft in the rapid.
                  
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26814282920/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7150/26814282920_319b55b813_b.jpg" width="1024" height="455" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
                  
