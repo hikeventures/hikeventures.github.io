@@ -310,4 +310,7 @@ Patrick and Caj saying bye bye to Konstantin Gridnevskiy at the airport in Stock
         
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26917254551/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7686/26917254551_064705d868_b.jpg" width="1024" height="768" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
         
-We will add a few more pictures later on from the Vinströmmen rapid. So stay tuned :)
+**Update 18.05.2016:* The Vinströmmen rapid Video is online:
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/mX_StQmS0nM"></iframe>
+</div>
