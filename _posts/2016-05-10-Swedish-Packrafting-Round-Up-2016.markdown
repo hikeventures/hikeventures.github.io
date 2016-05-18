@@ -261,7 +261,31 @@ While some of us had to pick up their cars from our starting location others wer
  Some of us continued to Camp Vinströmmen - The wine rapid. Where Alpacka showed us some of their new products - Self-bailing packraft and the Apocalypse. After some test paddling on land they made it into the wine rapid as well. Konstantin Gridnevskiy full of excitement which boat to choose while Jakob trying some moves.
         
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26985806615/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7198/26985806615_5fc74973c3_b.jpg" width="1024" height="679" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-        
+                 
+ Jeremie and Konstantin racing in the Vinströmmen.
+                 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26814282920/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7150/26814282920_319b55b813_b.jpg" width="1024" height="455" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+                 
+Look at Konstantin's smile ... it almost seems like he is responsible for Jacob's situation in the Vinströmmen.
+                 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27020171481/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7569/27020171481_b8e076f21e_b.jpg" width="1024" height="484" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+                 
+With the Alpacka Raft Ghost it was probably a bit more challenging to get through the Vinstömen rapid.
+                 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27020171381/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7120/27020171381_e0a4231152_b.jpg" width="1024" height="610" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+                 
+The Vinströmmen rapid was at some spots a bit more demanding.
+                 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27055196146/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7422/27055196146_582552d20c_b.jpg" width="1024" height="601" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+                 
+And it was not possible for Jacob to get into his packraft again.
+                 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26814282600/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7464/26814282600_8400ee806b_b.jpg" width="1024" height="643" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+                 
+But fortunately, everyone made it safely through the rapid.
+                 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26814282560/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7682/26814282560_59d5a1502c_b.jpg" width="1024" height="473" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+                 
 After the Vinströmmen has been paddled we enjoyed a nice evening on the fire.
         
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26380304044/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7273/26380304044_412884c5d4_b.jpg" width="1024" height="740" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
