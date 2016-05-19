@@ -13,15 +13,6 @@ For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](
 
 <!--more-->
 
-## Deals
-<div class="row">
-  <div class="col-sm-12">
-<center>
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=tent AND 1 person OR tenst AND 2 person&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=200&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
-</center>
-  </div>
-</div>
-
 ## Freestanding tents
 
 ### Hilleberg Allak
@@ -133,6 +124,15 @@ If you are traveling with your friend then the Hilleberg Anjan 3 is our top choi
 The Hilleberg Nallo is probably the best choice if you want a 4-season tent which offers the most space and a vestibule for the least weight. If you don't need a freestanding tent and the best weight / space ratio 4-season tent then you should pick the Nallo.
 
 <a href="http://www.hikeventures.com/deals/#nallo+tent"><button class="btn btn-danger">Compare prices</button></a>
+
+## Deals
+<div class="row">
+  <div class="col-sm-12">
+<center>
+ <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=tent AND 1 person OR tenst AND 2 person&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=200&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
+</center>
+  </div>
+</div>
 
 ## Considerations when choosing a tent
 
