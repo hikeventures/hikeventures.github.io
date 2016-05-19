@@ -15,19 +15,6 @@ Since I recently decided to upgraded my headlamp, I compared different models on
 
 Konstantin wearing a Petzl Nao on the top of a fell on our [trip in Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Trip in Lapland")
 
-## The best headlamps of 2016
-
-| Model (click to check prices) | Weight (grams) | Lumen |
-| :--- | :---: | :---: |
-| [Petzl Nao](http://www.hikeventures.com/deals/#petzl+nao "Petzl Nao") | 187 | 575 |
-| [Petzl Tikka RXP](http://www.hikeventures.com/deals/#petzl+tikka "Petzl Tikka RXP") | 115 | 215 |
-| [Black Diamond Icon](http://www.hikeventures.com/deals/#black+diamond+icon "Black Diamond Icon") | 220 | 200 |
-| [Zebralight H600 Mk II 18650 XM-L2](http://www.amazon.com/gp/product/B00HIW1I2C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HIW1I2C&linkCode=as2&tag=hikeve-20&linkId=LCSF7G25EDO752O5 "Zebralight H600 Mk II 18650 XM-L2") | 39 | 1090 |
-| [Princeton Tec Apex](http://www.hikeventures.com/deals/#princeton+tec+apex "Princeton Tec Apex") | 279 | 275 |
-| [Petzl Tikka R+](http://www.hikeventures.com/deals/#petzl+tikka+r "Petzl Tikka R+") | 85 | 170 |
-| [Black Diamond Storm](http://www.hikeventures.com/deals/#black+diamond+storm "Black Diamond Storm") | 110 | 160 |
-| [Petzl E+LITE](http://www.hikeventures.com/deals/#petzl+e+lite "Petzl E+LITE") | 27 | 26 |
-
 ---
 
 ### [Petzl Nao](http://www.backcountry.com/petzl-nao-headlamp)
