@@ -53,6 +53,8 @@ I use my watch mainly for running (check [my profile][5] on Movescount) and hiki
 ## Worth to upgrade?
 I have used the Suunto Ambit3 Sport for a couple of months and I am happy with it. I like the blue colour, the slimmer design compared to the peak model, the accuracy of the GPS signal and the shorter time it take to locate satellites. For runners it's already worth to upgrade just because of the smaller HR monitor which will give you a better running experience. I also like the Bluetooth feature so I can get my data also on the Movescount Server if I am not on a computer. If you are into Social Media then the Movescount app will also be a great tool to show-cast your activities in a video.
 
+---
+
 ## Deals
 <div class="row">
   <div class="col-sm-12">
@@ -61,6 +63,8 @@ I have used the Suunto Ambit3 Sport for a couple of months and I am happy with i
 </center>
   </div>
 </div>
+
+---
 
 **Update 29.03.2015:** Suunto has released a firmware update which increased the battery time of the Ambit watches as you can read [here][8]: "With GPS accuracy set to Best/Good/Ok, the numbers are accordingly: Suunto Ambit3 Peak – 20h/30h/200h"
 
