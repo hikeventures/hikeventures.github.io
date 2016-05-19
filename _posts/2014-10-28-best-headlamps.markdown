@@ -79,7 +79,7 @@ The ZebraLight H600 Mk II 18650 XM-L2 is IP X7 waterproof and sports 1090 Lumen.
 **Weight:** 279 grams   
 **Lumen:** 275  
 
-The Princeton Tec Apex is the brightest headlamp Princeton Tec has to offer. It's battery is also located on the back of the head. Unfortunately, this headlamp does not offer any recharging possibilities via USB so you have to rely on 4 AA batteries. The headlamp comes is IP X7 waterproof.
+The Princeton Tec Apex is the brightest headlamp Princeton Tec has to offer. It's battery is also located on the back of the head. Unfortunately, this headlamp does not offer any recharging possibilities via USB so you have to rely on 4 AA batteries. The headlamp is rated as IP X7 (waterproof).
 
 <a href="http://www.backcountry.com/princeton-tec-apex-headlamp"><button type="button" class="btn btn-danger">Read more about the Princeton Tec Apex</button></a>
 
