@@ -121,7 +121,8 @@ The Black Diamond Storm is a little bit more heavy than the Petzl Tikka XP but t
 This is an emergency headlamp from Petzl. This headlamp features a lock and has a IP X7 classification. It could be also a good choice for ultralight enthusiasts who can manage with less light. It can be used in a temperature range from -30C to +60C and it's batteries can be stored for 10 years. If you want to see more into the distance then this is probably not the headlamp you should consider to buy.
   
 <a href="http://www.backcountry.com/petzl-elite-emergency-headlamp"><button type="button" class="btn btn-danger">Read more about the Petzl e+LITE</button></a>    
-   
+  
+---
 
 ## Deals
 <div class="row">
