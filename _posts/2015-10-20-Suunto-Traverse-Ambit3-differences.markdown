@@ -17,7 +17,7 @@ The most important difference is probably that the Suunto Traverse has a vibrati
 
 The Suunto Traverse weights about 80 grams and it's water resistance is 100 m. The Ambit3 is only 50 m water resistant. Both - the Ambit3 Peak and the Traverse have a Barometer. The menu on the Traverse is also more simplified than on the Ambit3 which I personally prefer. The Traverse has also a flashlight function which could be quite useful (for example if you need to search something in your tent). Below you can see my Suunto Traverse next to my Finnish Roselli knife.
   
-![Suunto Traverse](https://farm9.staticflickr.com/8836/17649022620_b7c5293739_b.jpghttps://farm8.staticflickr.com/7138/26503377864_db26a8025b_b.jpg "Suunto Traverse and Roselli Knife")
+![Suunto Traverse](https://farm8.staticflickr.com/7138/26503377864_db26a8025b_b.jpg "Suunto Traverse and Roselli Knife")
   
 Personally, I like the new look of the Traverse more than the look of the Ambit3. Also the wrist strap of the Traverse feels somewhat more comfortable than the one on the Suunto Ambit3. If you are more into trail running (on hills or mountains), mountainbiking or climbing then you should probably for the Suunto Ambit3 Vertical. If you are more into Fishing or Hunting then you should consider getting the Suunto Traverse Alpha.
 
