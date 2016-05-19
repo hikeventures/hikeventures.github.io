@@ -105,7 +105,7 @@ You can dive 100m instead of 50m and the battery capacity is twice as big on the
 ## Wrist strap
 The strap for the Ambit3 Sport is water repellent and made from a silicone compound  which feels more lighter according to Suunto (which I confirm after my last run with the Ambit3 Sport).
 
-## Movescount software
+## Movescount
 The new movescount software is available to all Suunto watches. However, bluetooth features are just working with the old models. Below some screenshots. For example you can create pictures and maps with current data on it.
 
 ## My favourite Ambit3 model
