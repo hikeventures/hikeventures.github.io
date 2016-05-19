@@ -38,7 +38,7 @@ Konstantin wearing a Petzl Nao on the top of a fell on our [trip in Lapland](htt
 
 The [Petzl Nao](http://hikeventures.com/petzl-nao-headlamp-test/ "Petzl Nao") features over 575 lumen, 200 Lumen more than the old model. It's reactive lightning system let's you also adjust the light level automatically without turning or pushing any buttons on the headlamp. You are able to charge the battery of the Petzl Nao within 5 hours. Usually, I also take an additional battery with me such as the [Anker Astro 3E](http://hikeventures.com/how-to-charge-your-batteries-when-you-are-outdoors/ "Anker Astro") to charge my headlamp and other USB devices during my trips. You can also adjust the straps not the sides and on the top. I also have the Petzl Nao [belt kit](http://bit.ly/1pVhFUd "belt kit"), which allows me to carry the battery in my backpack or on my belt rather than on my head. It does not just feel better to have less weight on your head but also prevents battery drain if the temperatures are low. With the OS by Petzl you are also able to adjust the light levels on your PC / Mac. The Petzl Nao is my preferred headlamp!
     
-<a href=""><button type="button" class="btn btn-danger">Read more about the Petzl Nao</button></a>
+<a href="http://www.backcountry.com/petzl-nao-headlamp"><button type="button" class="btn btn-danger">Read more about the Petzl Nao</button></a>
     
 ### Petzl Tikka RXP
 
