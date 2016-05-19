@@ -11,16 +11,15 @@ tags: [articles, suunto, watch]
 
 Suunto has recently released it's latest GPS watch - the Suunto Traverse - which is especially interesting for those interested in hiking and backpacking. So what are the differences between the Suunto Ambit3 and the Suunto Traverse? Well, there are a couple of differences...
  
- ![][image-1]
+ ![Suunto Ambit3][https://farm9.staticflickr.com/8836/17649022620_b7c5293739_b.jpg]
  
-The most important difference is probably that the Suunto Traverse has a vibration alarm and that the GPS receiver is now 'invisible' built into the watch. Moreover, the Suunto Traverse has a thinner (1mm) built. However, there are no multisport functions in the Suunto Traverse available. So, if you are more into triathlon then you should probably still go for the Suunto Ambit3 rather than the Suunto Traverse. 
+The most important difference is probably that the Suunto Traverse has a vibration alarm and that the GPS receiver is now 'invisible' built into the watch. Moreover, the Suunto Traverse has a thinner (1mm) built. However, you will not find multisport functions in the Suunto Traverse. So, if you are for example more into triathlon then you should probably go for the Suunto Ambit3 Vertical rather than the regular Suunto Traverse. I mainly go running and hiking so the regular Suunto Traverse is the best option for me and there is no need to pay for features which I don't use.
 
-The Suunto Traverse weights about 80 grams and it's water resistance is 100 m. The Ambit3 is only 50 m water resistant. Both - the Ambit3 Peak and the Traverse have a Barometer. The menu on the Traverse is also more simplified than on the Ambit3 which I personally prefer. The Traverse has also a flashlight function which could be quite useful if you need to search something in short distance e.g. in your tent.
+The Suunto Traverse weights about 80 grams and it's water resistance is 100 m. The Ambit3 is only 50 m water resistant. Both - the Ambit3 Peak and the Traverse have a Barometer. The menu on the Traverse is also more simplified than on the Ambit3 which I personally prefer. The Traverse has also a flashlight function which could be quite useful if you need to search something in short distance e.g. in your tent. Below you can see my Suunto Traverse next to my Finnish Roselli knife.
   
-<blockquote class="instagram-media" data-instgrm-version="5" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://instagram.com/p/-EMvYLLtTn/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A photo posted by HikeVentures (@hikeventure)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-11-14T12:41:45+00:00">Nov 14, 2015 at 4:41am PST</time></p></div></blockquote> <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+ ![Suunto Traverse][https://farm9.staticflickr.com/8836/17649022620_b7c5293739_b.jpghttps://farm8.staticflickr.com/7138/26503377864_db26a8025b_b.jpg]
   
-  
-Personally, I like the new look of the Traverse (see picture above) more than the look of the Ambit3. I have pre-tested the Traverse in an outdoor shop and the wrist band of the Traverse feels a somewhat more comfortable than on the Ambit3. I will update this post once I have tested the Suunto Traverse.
+Personally, I like the new look of the Traverse more than the look of the Ambit3. Also the wrist strap of the Traverse feels somewhat more comfortable than the one on the Suunto Ambit3. If you are more into trail running (on hills or mountains), mountainbiking or climbing then you should probably for the Suunto Ambit3 Vertical. If you are more into Fishing or Hunting then you should consider getting the Suunto Traverse Alpha.
 
 **Update 14.11.2015:**Today, I finally got the Suunto Traverse as you can see on our Instagram account below. It feels and looks much better on the wrist than the Ambit3. Now going running and test it for the first time :)
 
@@ -32,12 +31,8 @@ Personally, I like the new look of the Traverse (see picture above) more than th
 
 **Update (19.4.2016):** Suunto has released the Suunto Traverse Alpha which is targeted towards hunters and fishers.
 
-So far, I still think that the basic Suunto Traverse is the best option you can get for your money.
-
 <a  href="http://www.amazon.com/gp/product/B014PNZKC0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014PNZKC0&linkCode=as2&tag=hikeve-20&linkId=632KXW4PCPBDYU3S"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B014PNZKC0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B014PNZKC0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
    
-Here is also an [article][1] where I was wearing the Suunto Ambit3 on a packrafting trip in the Swedish mountains.
+Need some more inspirations on how to use the Suunto Ambit or Suunto Traverse watch? Here is a [trip report][http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/] from the Swedish mountains where I was wearing the Suunto Ambit3 on a packrafting trip.
 
-[1]:	http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/
 
-[image-1]:	https://farm9.staticflickr.com/8836/17649022620_b7c5293739_b.jpg "Suunto Traverse Ambit3"
