@@ -87,7 +87,7 @@ The Black Diamond ReVolt headlamp comes with a proximity, distance, dim, strobe,
 
 <a href="http://www.backcountry.com/black-diamond-revolt-headlamp"><button type="button" class="btn btn-danger">Read more about the Black Diamond ReVolt</button></a>   
    
-### Black Diamond Storm
+### [Black Diamond Storm](http://www.backcountry.com/black-diamond-storm-headlamp)  
 
 <a href="http://www.amazon.com/gp/product/B00H3MXOQU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00H3MXOQU&linkCode=as2&tag=hikeve-20&linkId=A2I5SXTJTBEA7KOK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00H3MXOQU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00H3MXOQU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -96,18 +96,19 @@ The Black Diamond ReVolt headlamp comes with a proximity, distance, dim, strobe,
 
 The Black Diamond Storm is a little bit more heavy than the Petzl Tikka XP but the headlamp shields better against water (IP X7).
 
+<a href="http://www.backcountry.com/black-diamond-storm-headlamp"><button type="button" class="btn btn-danger">Read more about the Black Diamond Storm</button></a>   
    
    
-### Petzl E+LITE
+### [Petzl e+LITE](http://www.backcountry.com/petzl-elite-emergency-headlamp)  
 
 <a href="http://www.amazon.com/gp/product/B008AUBOTS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008AUBOTS&linkCode=as2&tag=hikeve-20&linkId=V5A2XQXJ3LK3X3NP"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008AUBOTS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B008AUBOTS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 27 grams   
 **Lumen:** 26  
 
-This is an emergency headlamp from Petzl. This headlamp features a lock and has a IP X7 classification. It could be also a good choice for ultralight enthusiasts who can manage with less light. It can be used in a temperature range from -30C to +60C and it's batteries can be stored for 10 years.
+This is an emergency headlamp from Petzl. This headlamp features a lock and has a IP X7 classification. It could be also a good choice for ultralight enthusiasts who can manage with less light. It can be used in a temperature range from -30C to +60C and it's batteries can be stored for 10 years. If you want to see more into the distance then this is probably not the headlamp you should consider to buy.
   
-   
+ <a href="http://www.backcountry.com/petzl-elite-emergency-headlamp"><button type="button" class="btn btn-danger">Read more about the Petzl e+LITE</button></a>    
    
 
 ## Deals
