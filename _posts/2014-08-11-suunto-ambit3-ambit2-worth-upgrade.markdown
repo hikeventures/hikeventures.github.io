@@ -14,12 +14,6 @@ GPS watches like the Suunto Ambit2 or Suunto Ambit3 are quite interesting gadget
    
 Checking the altitude in [Finnish Lapland][1] with the Ambit3.
 
-**Update (20.10.2015):** Suunto has released the Suunto Traverse GPS watch. [Here][2] you can read what's different to the Ambit3.
-
-**Update (22.01.2016):** Suunto has released the Suunto Ambit3 Vertical watch. It’s similar like the Traverse but with an additional graph which displays your ascent / descent.
-
-**Update (19.04.2016):** Suunto has released the <a href="http://www.suunto.com/Products/sports-watches/Suunto-Traverse-Alpha/Suunto-Traverse-Alpha-Foliage/">Traverse Alpha</a> which adds features for hunting and fishing to the regular Traverse. It's also a bit more expensive than the regular Traverse.
-
 ## Connectivity
 The Suunto Ambit 3 allows you to connect the watch with a tablet or smartphone via Bluetooth as well as synchronising pictures on your smartphone with data from the Suunto Ambit3. So no USB cable needed anymore to transfer data which should also increase the lifespan of the battery.
 
@@ -65,11 +59,17 @@ I have used the Suunto Ambit3 Sport for a couple of months and I am happy with i
 </div>
 
 ---
-
 **Update 29.03.2015:** Suunto has released a firmware update which increased the battery time of the Ambit watches as you can read [here][8]: "With GPS accuracy set to Best/Good/Ok, the numbers are accordingly: Suunto Ambit3 Peak – 20h/30h/200h"
+
+**Update (20.10.2015):** Suunto has released the Suunto Traverse GPS watch. [Here][2] you can read what's different to the Ambit3.
 
 **Update 27.11.2015:** After having used the Suunto Traverse for a while I would prefer it over the Suunto Ambit3 as long as you are not into multisport. The Suunto Traverse also supports GLONASS. More [here][9] about the Suunto Traverse.
 
+**Update (22.01.2016):** Suunto has released the Suunto Ambit3 Vertical watch. It’s similar like the Traverse but with an additional graph which displays your ascent / descent.
+
+**Update (19.04.2016):** Suunto has released the <a href="http://www.suunto.com/Products/sports-watches/Suunto-Traverse-Alpha/Suunto-Traverse-Alpha-Foliage/">Traverse Alpha</a> which adds features for hunting and fishing to the regular Traverse. It's also a bit more expensive than the regular Traverse.
+
+    
 <a  href="http://www.amazon.com/gp/product/B014PNZKC0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014PNZKC0&linkCode=as2&tag=hikeve-20&linkId=IMZJLZ6YNLBHIO2O"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B014PNZKC0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B014PNZKC0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
