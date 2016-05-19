@@ -9,7 +9,7 @@ tags: [articles, best, lamps]
 ---
 A good lightweight led headlamp is an essential part for many outdoor activities likes hiking, running, cycling, A good lightweight led headlamp is an essential part for many outdoor activities likes hiking, running, cycling, packrafting, ski touring or climbing or any other backcountry trip. 
 
-Since I recently decided to upgraded my headlamp, I compared different models online and here is my buying guide of the best headlamps for 2016 sorted according to Lumen (total amount of visible light). Personally, I like the Petzl Nao most. I have also used the previous model of the Nao in [Swedish Lapland](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Swedish Lapland").
+Since I recently decided to upgraded my headlamp, I compared different models online and here is my buying guide of the best headlamps for 2016 sorted according to Lumen (total amount of visible light). Personally, I like the Petzl Nao most since it has plenty of features and also offers the Petzl Nao Belt Kit which allows me to carry the battery under the jacket rather than on my head which can shorten the beattery life especially in [colder regions](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/). I have also used the previous model of the Nao in [Swedish Lapland](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Swedish Lapland").
 
 <a href="http://www.amazon.com/Petzl-NAO-Headlamp-575-Lumens/" rel="nofollow"><img src="https://farm8.staticflickr.com/7457/15910915424_192439b27f_b.jpg"></a>
 
