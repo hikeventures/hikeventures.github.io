@@ -30,7 +30,7 @@ You can get notifications of incoming calls, SMS or Facebook updates on your Suu
 It's possible to create videos with the [Movescount App][4] which uses your tracking data in order to display your route. You can also take pictures with your phone and integrate those into your video. I think this is a quite nice feature to share your trip with your friends.
 
 ## Smaller and independent HR monitor
-The heart rate monitor of the Ambit3 is notably smaller than the one which came with the Ambit2. On my first run with the heart rate monitor I couldn't hardly feel it compared to the old HR monitor. What's more, you can also use the HR Monitor without the watch and synchronise your heart rate data later on.
+The heart rate monitor of the Suunto Ambit3 is notably smaller than the one which came with the Suunto Ambit2. On my first run with the heart rate monitor I couldn't hardly feel it compared to the old HR monitor. What's more, you can also use the HR Monitor without the watch and synchronise your heart rate data later on.
 
 ## GPS signal
 The Suunto Ambit3 uses a SiRFstarV GPS chip (Ambit2 is using SiRFstarIV), but the accuracy remains the same. SiRFstarV chips are capable of tracking NAVSTAR, GLONASS, Galileo, Compass, SBAS, and future GNSS signals. When I tested the watch I had the impression that the watch got the GPS signal almost instantly. At least it felt much faster than on the Suunto Ambit2.
@@ -48,12 +48,12 @@ The strap for the Suunto Ambit3 Sport is water repellent and made from a silicon
 The new movescount software is available to all Suunto watches. However, bluetooth features are just working with the old models. Below some screenshots. For example you can create pictures and maps with current data on it.
 
 ## My favourite Ambit3 model
-I use my watch mainly for running (check [my profile][5] on Movescount) and hiking (e.g. in [Finland][6] or [Sweden][7]) and I don't really need a barometer (I hardly used any of the barometer functions of the Suunto Ambit2 on my last trips).  That's why I picked the Ambit3 Sport. It's a great watch for running and does not feel that bulky as the Peak model. Moreover, pushing the buttons on the Ambit3 is much smoother than on the Ambit2. Also the backlight of the Ambit models look really cool and it really helps to read your data when jogging in the evening. There is also the Runner version which is called Ambit3 Run. It's slightly lighter than the Ambit3 Sport, however you will miss features related to swimming, multisport or biking.
+I use my watch mainly for running (check [my profile][5] on Movescount) and hiking (e.g. in [Finland][6] or [Sweden][7]) and I don't really need a barometer (I hardly used any of the barometer functions of the Suunto Ambit2 on my last trips).  That's why I picked the Suunto Ambit3 Sport. It's a great watch for running and does not feel that bulky as the Peak model. Moreover, pushing the buttons on the Suunto Ambit3 is much smoother than on the Ambit2. Also the backlight of the Ambit models look really cool and it really helps to read your data when jogging in the evening. There is also the Runner version which is called Ambit3 Run. It's slightly lighter than the Ambit3 Sport, however you will miss features related to swimming, multisport or biking.
 
 ## Worth to upgrade?
 I have used the Suunto Ambit3 Sport for a couple of months and I am happy with it. I like the blue colour, the slimmer design compared to the peak model, the accuracy of the GPS signal and the shorter time it take to locate satellites. For runners it's already worth to upgrade just because of the smaller HR monitor which will give you a better running experience. I also like the Bluetooth feature so I can get my data also on the Movescount Server if I am not on a computer. If you are into Social Media then the Movescount app will also be a great tool to show-cast your activities in a video.
 
-**Update 29.03.2015:** Suunto has released a firmware update which increased the battery time of the Ambit watches as you can read [here][8]: "With GPS accuracy set to Best/Good/Ok, the numbers are accordingly: Ambit3 Peak – 20h/30h/200h"
+**Update 29.03.2015:** Suunto has released a firmware update which increased the battery time of the Ambit watches as you can read [here][8]: "With GPS accuracy set to Best/Good/Ok, the numbers are accordingly: Suunto Ambit3 Peak – 20h/30h/200h"
 
 **Update 27.11.2015:** After having used the Suunto Traverse for a while I would prefer it over the Suunto Ambit3 as long as you are not into multisport. The Suunto Traverse also supports GLONASS. More [here][9] about the Suunto Traverse.
 
