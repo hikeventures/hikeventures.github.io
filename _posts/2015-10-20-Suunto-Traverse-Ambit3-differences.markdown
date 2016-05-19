@@ -10,14 +10,14 @@ tags: [articles, suunto, watch]
 ---
 
 Suunto has recently released it's latest GPS watch - the Suunto Traverse - which is especially interesting for those interested in hiking and backpacking. So what are the differences between the Suunto Ambit3 and the Suunto Traverse? Well, there are a couple of differences...
- 
- ![Suunto Ambit3][https://farm9.staticflickr.com/8836/17649022620_b7c5293739_b.jpg "Suunto Ambit3"]
- 
+  
+![Suunto Ambit3][https://farm9.staticflickr.com/8836/17649022620_b7c5293739_b.jpg "Suunto Ambit3"]
+  
 The most important difference is probably that the Suunto Traverse has a vibration alarm and that the GPS receiver is now 'invisible' built into the watch. Moreover, the Suunto Traverse has a thinner (1mm) built. However, you will not find multisport functions in the Suunto Traverse. So, if you are for example more into triathlon then you should probably go for the Suunto Ambit3 Vertical rather than the regular Suunto Traverse. I mainly go running and hiking so the regular Suunto Traverse is the best option for me and there is no need to pay for features which I don't use.
 
 The Suunto Traverse weights about 80 grams and it's water resistance is 100 m. The Ambit3 is only 50 m water resistant. Both - the Ambit3 Peak and the Traverse have a Barometer. The menu on the Traverse is also more simplified than on the Ambit3 which I personally prefer. The Traverse has also a flashlight function which could be quite useful (for example if you need to search something in your tent). Below you can see my Suunto Traverse next to my Finnish Roselli knife.
   
- ![Suunto Traverse][https://farm9.staticflickr.com/8836/17649022620_b7c5293739_b.jpghttps://farm8.staticflickr.com/7138/26503377864_db26a8025b_b.jpg "Suunto Traverse and Roselli Knife"]
+![Suunto Traverse][https://farm9.staticflickr.com/8836/17649022620_b7c5293739_b.jpghttps://farm8.staticflickr.com/7138/26503377864_db26a8025b_b.jpg "Suunto Traverse and Roselli Knife"]
   
 Personally, I like the new look of the Traverse more than the look of the Ambit3. Also the wrist strap of the Traverse feels somewhat more comfortable than the one on the Suunto Ambit3. If you are more into trail running (on hills or mountains), mountainbiking or climbing then you should probably for the Suunto Ambit3 Vertical. If you are more into Fishing or Hunting then you should consider getting the Suunto Traverse Alpha.
 
