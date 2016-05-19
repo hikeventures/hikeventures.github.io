@@ -42,7 +42,6 @@ Almost half the Lumen power of the Petzl Nao,  the Petzl Tikka RXP is much light
 <a href="http://www.backcountry.com/petzl-tikka-rxp-headlamp"><button type="button" class="btn btn-danger">Read more about the Petzl Tikka RXP</button></a>   
 
 ### [Black Diamond Icon](http://www.backcountry.com/black-diamond-icon-headlamp)   
-### Black Diamond Icon
 
 <a href="http://www.amazon.com/gp/product/B005FNCPBE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005FNCPBE&linkCode=as2&tag=hikeve-20&linkId=WBUHJA3GU3TCBJXQ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005FNCPBE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005FNCPBE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
