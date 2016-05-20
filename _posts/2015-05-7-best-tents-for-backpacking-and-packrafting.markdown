@@ -25,7 +25,8 @@ For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](
 The Hilleberg Allak has the advantage that it has 2 entrances and it which makes it quite easy to get in and out of the tent if you are travelling with someone else. Another advantage of
 having two entrances is that you are more flexible with the venting options. The disadvantage we see with this tent compared to the Jannu is that it weights slightly more and that it is also slightly more narrow than the Jannu (130 cm rather than 145 cm). The Allak is 5 cm taller than the Jannu and offers a better possibility to sit in it.
 
-### Hilleberg Unna
+### [Hilleberg Unna](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Unna-1-Person-Tent_10101489_10208_10000001_-1_)
+
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00IU0UMSC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IU0UMSC&linkCode=as2&tag=hikeve-20&linkId=EAFEBCVMMSNCWMCD"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00IU0UMSC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00IU0UMSC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The Hilleberg Unna is a freestanding one person tent and offers 0.5 m2 more room than the Hilleberg Soulo. However, it does not have a dedicated vestibule but you can create a vestibule in the Unna by disconnecting a corner in the inner tent or take your gear inside (while leaving your backpack outside or storing it between the inner and outer tent). The large entrance can be used as an excellent "panorama window".
@@ -34,7 +35,10 @@ The Hilleberg Unna is a freestanding one person tent and offers 0.5 m2 more room
 **Weight:** 2.2 kg   
 **Area inner tent:** 2.5 m² 
  
-### Hilleberg Soulo
+ <a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Unna-1-Person-Tent_10101489_10208_10000001_-1"><button type="button" class="btn btn-danger">Read more about the Hilleberg Unna</button></a>  
+ 
+### [Hilleberg Soulo](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Soulo-1-Person-Tent_10101479_10208_10000001_-1_)
+
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B004LAP3G6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004LAP3G6&linkCode=as2&tag=hikeve-20&linkId=7TXJU4WYWUN5PLN3"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004LAP3G6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B004LAP3G6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Fabric:** Kerlon 1200   
@@ -42,6 +46,8 @@ The Hilleberg Unna is a freestanding one person tent and offers 0.5 m2 more room
 **Area inner tent:** 2.0 m²  
 
 The Hilleberg Soulo is a very strong solo expedition tent. If strength is important to you and you need a dedicated vestibule then you should choose the Soulo rather than the Unna.
+
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Soulo-1-Person-Tent_10101479_10208_10000001_-1"><button type="button" class="btn btn-danger">Read more about the Hilleberg Soulo</button></a>  
 
 ## Non-freestanding tents
 
