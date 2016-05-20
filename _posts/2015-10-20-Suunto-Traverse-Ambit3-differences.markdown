@@ -35,7 +35,7 @@ Personally, I like the new look of the Suunto Traverse more than the look of the
 
 ---
 
-**Update 14.11.2015:**Today, I finally got the Suunto Traverse as you can see on our Instagram account below. It feels and looks much better on the wrist than the Ambit3. Now going running and test it for the first time :)
+**Update 14.11.2015:**I finally got the Suunto Traverse as you can see on our Instagram account below. It feels and looks much better on the wrist than the Ambit3. Now going running and test it for the first time :)
 
 **Update 27.11.2015: **After testing the Suunto Traverse for 2 weeks I prefer it over the Ambit3 as an outdoor watch. For multisport however I would still buy the Ambit3 since the Traverse lacks this feature.
 
