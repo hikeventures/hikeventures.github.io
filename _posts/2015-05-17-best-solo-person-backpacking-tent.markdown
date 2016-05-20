@@ -129,14 +129,14 @@ The Hilleberg Nallo is probably the best choice if you want a 4-season tent whic
 
 
 ## Conclusion
-There is no best all purpose tent especially if you are weight conscious. The Soulo seems to be the toughest tent for stormy weather and winter camping but comes with additional weight while the Enan or the Niak could be the perfect summer hiking tent where strength and durability is less important. 
+There is no best all purpose tent especially if you are weight conscious. The Hilleberg Soulo seems to be the toughest tent for stormy weather and winter camping but comes with additional weight while the Hilleberg Enan or the Hilleberg Niak could be the perfect summer hiking tent where strength and durability is less important. 
 
-If you do both, summer and winter camping and weight is important for you then the best solution would be to get two tents - the Enan / Niak / Hubba Hubba NX for summer and the Soulo / Unna / Nallo for winter camping. If you do only 3-season backpacking in unexposed environment and you prefer some comfort then I would go for the Anjan 2 or the Niak 1.5 (especially if you are tall) as it offers more space and is stronger than the Enan.
+If you do both, summer and winter camping and weight is important for you then the best solution would be to get two tents - the Hilleberg Enan / Hilleberg Niak / MSR Hubba Hubba NX for summer and the Soulo / Unna / Nallo for winter camping. If you do only 3-season backpacking in unexposed environment and you prefer some comfort then I would go for the Hilleberg Anjan 2, Hilleberg Niak 1.5 or MSR Hubba Hubba NX (especially if you are tall) as it offers more space and is stronger than the Hilleberg Enan.
 
 Hilleberg recommended me to take a tent with Kerlon 1200 or 1800 if I would go into an exposed environment or on longer trips. As I will use my tent mostly in Northern Scandinavia I would opt for the Hilleberg Unna as a self-standing 4-season solo tent. It has more space then the Soulo, is more versatile, weights less and also costs less. For 3-season I would choose the Hilleberg Niak or the MSR Hubba Hubba NX.
 
 If I would choose the Hilleberg Unna as a summer tent then I would replace the standard Mesh with the Hilleberg Mesh Inner Tent to increase venting during the summer. With the inner mesh I should have the perfect spring/summer/autumn tent which can also handle strong winds but at the same time I would also be able to use it as a winter tent by using the standard inner tent of the Unna. 
 
-Please note that it's a good idea to have more space in your tent or a bigger vestibule if you are more into winter camping. For longer trips you should probably consider even bigger tents than the ones I have listed here.
+It's a good idea to have more space in your tent or a bigger vestibule if you are more into winter camping. For longer trips you should probably consider even bigger tents than the ones I have listed here.
 
-Here is also an [article](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/ "Packrafting in Sweden") about our packrafting trip in the Swedish mountains where we are using the MSR Hubba Hubba NX. 
+Here is also an [article](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/ "Packrafting in Sweden") about our packrafting trip in the Swedish mountains where we were camping in our MSR Hubba Hubba NX. 
