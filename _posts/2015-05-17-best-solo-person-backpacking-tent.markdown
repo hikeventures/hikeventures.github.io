@@ -137,6 +137,10 @@ The Hilleberg Nallo is probably the best choice if you want a 4-season tent whic
   </div>
 </div>
 
+
+### Winter camping
+If I would need to choose a tent for winter camping then I would rather opt for a bigger tent with a vestibule than the ones listed here.
+
 ## Conclusion
 There is no best all purpose tent especially if you are weight conscious. The Hilleberg Soulo seems to be the toughest tent for stormy weather and winter camping but comes with additional weight while the Hilleberg Enan or the Hilleberg Niak could be the perfect summer hiking tent where strength and durability is less important. 
 
@@ -144,18 +148,13 @@ If you do both, summer and winter camping and weight is important for you then t
 
 Hilleberg recommended me to take a tent with Kerlon 1200 or 1800 if I would go into an exposed environment or on longer trips. As I will use my tent mostly in Northern Scandinavia I would opt for the Hilleberg Unna as a self-standing 4-season solo tent. It has more space then the Soulo, is more versatile, weights less and also costs less. For 3-season I would choose the Hilleberg Niak or the MSR Hubba Hubba NX.
 
-If I would choose the Hilleberg Unna as a summer tent then I would replace the standard Mesh with the Hilleberg Mesh Inner Tent to increase venting during the summer. With the inner mesh I should have the perfect spring/summer/autumn tent which can also handle strong winds but at the same time I would also be able to use it as a winter tent by using the standard inner tent of the Unna. 
-
-It's a good idea to have more space in your tent or a bigger vestibule if you are more into winter camping. For longer winter trips you should probably consider even bigger tents than the tents I have listed here.
-
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25215098683/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1472/25215098683_07c6ffbfb8_b.jpg" width="1024" height="768" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
    
 On our packrafting trip in Scotland we had a MSR Hubba Hubba NX with us which is also a great 3-season tent, offers space for 2 and costs less than the Hilleberg tents.
 
-
 ## Final word
 My preference goes towards the Hilleberg Unna as my favourite solo-person backpacking tent as it is self standing, offers inside more space than the Hilleberg Soulo and can also be pitched on difficult terrain. The Hilleberg Unna can also be used as a winter tent. The Hilleberg Unna is somewhat more heavy than the MSR Hubba Hubba NX or the Hilleberg Enan / Niak but you get a tent which works in every condition and is more durable which is especially important if you are planning to hike in remote areas for a longer period. 
 
-Also if you are into Sea Kayaking a self-standing durable tent against strong winds is probably a better option than an ultralight tent. If you are still not sure if you should consider the Hilleberg Soulo or the Hilleberg Unna then you should also consider your height. I am 180 cm tall and the Soulo was just too short for me. My foot / head touched the tent walls of the Soulo which means that my sleeping bag would get wet during the night (wet down does not insulate). 
+Also if you are into sea kayaking a self-standing durable tent against strong winds is probably a better option than an ultralight tent. If you are still not sure if you should consider the Hilleberg Soulo or the Hilleberg Unna then you should also consider your height. I am 180 cm tall and the Soulo was just too short for me. My foot / head touched the tent walls of the Soulo which means that my sleeping bag would get wet during the night (wet down does not insulate). There is also the Hilleberg Inner Mesh available for the Hilleberg Unna which I would buy additionally to modify the Hilleberg Unna to a summer tent with better air ventilation.
 
 Here is also an [article](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/ "Packrafting in Sweden") about our packrafting trip in the Swedish mountains where we were camping in our MSR Hubba Hubba NX. 
