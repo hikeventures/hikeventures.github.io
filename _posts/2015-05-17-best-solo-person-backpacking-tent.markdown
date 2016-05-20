@@ -22,8 +22,7 @@ Further, it's also worth to consider that a 1-person tent can be more heavy than
 A Hilleberg Nallo in the back and Hilleberg Anjan in the front.
 <!--more-->
 
-
-### Hilleberg Enan
+### [Hilleberg Enan](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Enan-1-Person-Tent_10274355_10208_10000001_-1_)
 
 <a href="http://www.amazon.com/gp/product/B00UZ8ZNDQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UZ8ZNDQ&linkCode=as2&tag=hikeve-20&linkId=XBQVK7AJ3UD7ESR7"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00UZ8ZNDQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00UZ8ZNDQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -37,7 +36,8 @@ A Hilleberg Nallo in the back and Hilleberg Anjan in the front.
 
 The Hilleberg Enan is the ultralight model of the Akto. If you don't require much space and use your tent only during the warmer months (3-season) then the Hilleberg Enan might be a good option. This type of tent is good for fast pack and go. If you are more into base camping, are very tall or want to have more space e.g. during a longer period of rain then the Hilleberg Anjan 2 or the Hilleberg Unna would be a better choice. The Enan has a mesh on one end which should provide great ventilation if pitched in wind direction.
 
-### Hilleberg Akto
+### [Hilleberg Akto](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Akto-1-Person-Tent_10101417_10208_10000001_-1_)
+
 <a href="http://www.amazon.com/gp/product/B003X2HQPY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003X2HQPY&linkCode=as2&tag=hikeve-20&linkId=FCTXO35WV5CXK5P7"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003X2HQPY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B003X2HQPY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Length:** 220 cm   
@@ -50,7 +50,7 @@ The Hilleberg Enan is the ultralight model of the Akto. If you don't require muc
 
 The Hilleberg Akto is the 4-season model of the Hilleberg Enan and more suitable for harsh weather conditions than the Hilleberg Enan. It is a bit longer than the Hilleberg Enan and more suitable if you are taller. This comes at an additional weight of 600 grams. However, [condensation](http://dzjow.com/2011/11/21/9-years-with-a-hilleberg-akto/ "Codensation Hilleberg") might be an issue with this tent (also reported [here](http://www.backpacking.net/hilleberg-akto-review.html#condensation "condensation Hilleberg") which is of course bad if you plan a longer tour with a down sleeping bag and you face a long period or rain or moisture where you are not able to dry your sleeping bag during the day. Another reason why I would opt for a bigger tent like the Hilleberg Anjan 2 or Hilleberg Unna if you need a 4-season tent because it's less likely that your sleeping bag touches the inner tent if you have more space.
 
-### Hilleberg Niak 1.5
+### [Hilleberg Niak 1.5](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Niak-1-5-Person-Tent_10306870_10208_10000001_-1_)
 
 <a  href="http://www.amazon.com/gp/product/B01AT52A08/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AT52A08&linkCode=as2&tag=hikeve-20&linkId=2JIQ4SO5RH5PZJXL"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01AT52A08&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B01AT52A08" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -62,8 +62,8 @@ The Hilleberg Niak 1.5 is a non-freestanding 1-2 person tent.
 
 The Hilleberg Niak 1.5 is the latest yellow label tent from Hilleberg. If you need more space than in the Hilleberg Enan e.g. if there is a longer rain period where you have to sit in the tent or if you want to take your dog with you. The Hilleberg Niak 1.5 is more a 1-person rather han a 2-person tent and comes with a vestibule to store your gear. If you need a spacious solo 3-season tent then the Hilleberg Niak 1.5 could be a good choice if you are looking for a tent with low weight. Alternatively, I would choose the MSR Hubba Hubba NX which is also less pricey and offers slightly more room.
 
+### [Hubba Hubba NX](http://www.moosejaw.com/moosejaw/shop/product_MSR-Hubba-Hubba-NX-2-Person-Tent_10238367_10208_10000001_-1_)
 
-### Hubba Hubba NX
 <a href="http://www.amazon.com/gp/product/B00G7H9CAY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G7H9CAY&linkCode=as2&tag=hikeve-20&linkId=EX4S5YFHURHMA3L5"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00G7H9CAY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00G7H9CAY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The MSR Hubba Hubba NX is a freestanding 3-season 2-person tent.
@@ -74,7 +74,7 @@ The MSR Hubba Hubba NX is a freestanding 3-season 2-person tent.
 
 The MSR Hubba Hubba NX is also a great 3-season tent and costs much less than the Hilleberg Niak 1.5. However, the Hilleberg has a stronger floor material (50D). If you are low on budget then the MSR Hubba Hubba would be our pick. If you want a freestanding 4-season tent then go for the Hilleberg Unna.
 
-### Hilleberg Anjan 2
+### [Hilleberg Anjan 2](http://www.bentgate.com/hilleberg-anjan-2-tent/)
 
 <a href="http://www.amazon.com/gp/product/B00IU0XEW8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IU0XEW8&linkCode=as2&tag=hikeve-20&linkId=CJ3OYX574GJJ5DNZ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00IU0XEW8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00IU0XEW8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -88,7 +88,7 @@ The MSR Hubba Hubba NX is also a great 3-season tent and costs much less than th
 
 The Hilleberg Anjan was our summer tent (even so I have the 3 person model) before we replaced it with the MSR Hubba Hubba NX (see above) because we enjoyed the seperate entrances and vestibules which the Hubba Hubba NX offers. The Hubba Hubba NX also has an inner tent which offers you the possibility to look outside. For the  Hilleberg Anjan you have to buy a seperate inner mesh. The Hilleberg Anjan is 700 grams more heavy than the Enan but you get lot's of space and may even use it as a 2-person tent. Your sleeping bag is less likely to become wet (except at the foot end from my own experience but you can cover the foot part of your sleeping bag with your waterproof jacket. If you have to sit in the tent for a longer period then having more space is much more beneficial in terms of comfort.
 
-### Hilleberg Unna
+### [Hilleberg Unna](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Unna-1-Person-Tent_10101489_10208_10000001_-1_)
 
 <a href="http://www.amazon.com/gp/product/B00IU0UMSC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IU0UMSC&linkCode=as2&tag=hikeve-20&linkId=IH74WSYOYDCATOTX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00IU0UMSC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00IU0UMSC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -102,7 +102,8 @@ The Hilleberg Anjan was our summer tent (even so I have the 3 person model) befo
 
 The Hilleberg Unna is completely freestanding. The advantage of the Unna is the big entrance which can be used as a panorama window and that you can create a vestibule by detaching one corner of the inner tent while still having enough space to sleep in it. The Hilleberg Unna can also be used as a 2-person tent but you may not have a lot of space. The Hilleberg Unna is a 4-season tent. Make sure that you get the Mesh inner tent for the Hilleberg Unna to get a much better ventilation during the summer months. The Hilleberg Unna is my favourite 1-person tent which I would consider to buy as it is self-standing and should do a great job on paddling trips with a Kajak or Packraft as well.
 
-### Hilleberg Soulo
+### [Hilleberg Soulo](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Soulo-1-Person-Tent_10101479_10208_10000001_-1_)
+
 <a href="http://www.amazon.com/gp/product/B004LAP3G6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004LAP3G6&linkCode=as2&tag=hikeve-20&linkId=4R5WXJMR7LNA2MKY"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004LAP3G6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B004LAP3G6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Length:** 220 cm   
@@ -115,7 +116,8 @@ The Hilleberg Unna is completely freestanding. The advantage of the Unna is the 
 
 The Hilleberg Soulo is a solo expedition tent which can be used under very harsh condition. It's stronger than the Unna and has a designated vestibule, however the inner tent offers less space than the Unna. This tent could (like the Unna) be useful for sea kayaking or mountaineering as it is completely freestanding. It's a bit more heavy and shorter than the Unna. If you don't need a self-standing 4-season tent then I would choose the MSR Hubba Hubba NX.
 
-### Hilleberg Nallo
+### [Hilleberg Nallo](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Nallo-2-Person-Tent_10101453_10208_10000001_-1_)
+
 <a href="http://www.amazon.com/gp/product/B00LMR6HSO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LMR6HSO&linkCode=as2&tag=hikeve-20&linkId=4YIQPTOP7VXOY4EM"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LMR6HSO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LMR6HSO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Length:** 220 cm   
