@@ -136,11 +136,11 @@ Hilleberg recommended me to take a tent with Kerlon 1200 or 1800 if I would go i
 
 If I would choose the Hilleberg Unna as a summer tent then I would replace the standard Mesh with the Hilleberg Mesh Inner Tent to increase venting during the summer. With the inner mesh I should have the perfect spring/summer/autumn tent which can also handle strong winds but at the same time I would also be able to use it as a winter tent by using the standard inner tent of the Unna. 
 
-It's a good idea to have more space in your tent or a bigger vestibule if you are more into winter camping. For longer trips you should probably consider even bigger tents than the ones I have listed here.
+It's a good idea to have more space in your tent or a bigger vestibule if you are more into winter camping. For longer winter trips you should probably consider even bigger tents than the tents I have listed here.
 
 ## Final word
 My preference goes towards the Hilleberg Unna as it is self standing, offers inside more space than the Hilleberg Soulo and can also be pitched on difficult terrain. The Hilleberg Unna can also be used as a winter tent. The Hilleberg Unna is somewhat more heavy than the MSR Hubba Hubba NX or the Hilleberg Enan / Niak but you get a tent which works in every condition and is more durable which is especially important if you are planning to hike in remote areas for a longer period. 
 
-Also if you are into Sea Kayaking a self-standing durable tent against strong winds is probably a better option than an ultralight tent. If you are still not sure if you should consider the Hilleberg Soulo or the Hilleberg Unna then you should also consider your height. I am 180 cm tall and the Soulo was just too short for me. My foot / head touched the tent walls which means that my sleeping bag would get wet during the night (wet down does not insulate).
+Also if you are into Sea Kayaking a self-standing durable tent against strong winds is probably a better option than an ultralight tent. If you are still not sure if you should consider the Hilleberg Soulo or the Hilleberg Unna then you should also consider your height. I am 180 cm tall and the Soulo was just too short for me. My foot / head touched the tent walls of the Soulo which means that my sleeping bag would get wet during the night (wet down does not insulate).
 
 Here is also an [article](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/ "Packrafting in Sweden") about our packrafting trip in the Swedish mountains where we were camping in our MSR Hubba Hubba NX. 
