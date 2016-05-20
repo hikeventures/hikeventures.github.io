@@ -23,10 +23,10 @@ You can get notifications of incoming calls, SMS or Facebook updates on your Suu
 ## Videos
 It's possible to create videos with the [Movescount App][4] which uses your tracking data to display your route. You can also take pictures with your phone and integrate those into your videos. I think this is a quite nice feature which allows you to share your trips with your friends.
 
-## HR monitor
+## Heart Rate Monitor
 The heart rate monitor of the Suunto Ambit3 is notably smaller than the one which came with the Suunto Ambit2. On my first run with the heart rate monitor I hardly noticed that I am wearing it compared to the old HR monitor. What's more, you can also use the HR Monitor without the watch and synchronise your heart rate data later on.
 
-## GPS signal
+## GPS
 The Suunto Ambit3 uses a SiRFstarV GPS chip (Ambit2 is using SiRFstarIV), but the accuracy remains the same. SiRFstarV chips are capable of tracking NAVSTAR, GLONASS, Galileo, Compass, SBAS, and future GNSS signals. When I tested the watch I had the impression that the watch got the GPS signal almost instantly. At least it felt significantly faster than on the Suunto Ambit2.
 
 ## Barometer
