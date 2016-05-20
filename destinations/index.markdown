@@ -465,5 +465,3 @@ footer: false
         </div></div></a></div></div>
         
 </div>  
-<center><script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;ctc=destination&amp;open=_blank"></script>
-</center>
