@@ -16,6 +16,8 @@ It's also important to know that each tent is made for a specific purpose so the
 Further, it's also worth to consider that a 1-person tent can be more heavy than a 2-person tent if you would distribute the weight of the 2-person tent over 2 persons. 
 
 <img src="https://c2.staticflickr.com/6/5600/15455033882_22ac28bbe8_b.jpg">
+    
+A Hilleberg Nallo in the back and Hilleberg Anjan in the front.
 <!--more-->
 
 
