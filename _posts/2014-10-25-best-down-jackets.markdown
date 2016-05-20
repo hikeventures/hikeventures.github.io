@@ -19,23 +19,6 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hik
 
 <!--more-->
 
-
-## The best down jackets 2016
-
-| Model (click to check prices) | Weight (grams) | Fill Power (cuin) | 
-| :--- | :---: | ---: |
-| [Mountain Hardware Ghost Whisperer Hooded Down Jacket](http://www.hikeventures.com/deals/#Ghost+Whisperer+Hooded+Down+Jacket "Mountain Hardware Ghost Whisperer Hooded Down Jacket") | 212 | 800 |
-| [Arcteryx Cerium LT Hoody](http://www.hikeventures.com/deals/#Arcteryx+Cerium "Arcteryx Cerium LT Hoody") | 275 | 850 |
-| [Arcteryx Ceres Jacket](http://www.hikeventures.com/deals/#Ceres+Jacket "Arcteryx Ceres Jacket") | 850 | 850 |
-| [Western Mountaineering Flash Jacket](http://www.hikeventures.com/deals/#Mountaineering+Flash+jacket "Western Mountaineering Flash Jacket") | 290 | 850 |
-| [Marmot Quasar Hoody](http://www.hikeventures.com/deals/#GMarmot+Quasar+Hoody "Marmot Quasar Hoody") | 372 | 900  |
-| [Arcteryx Cerium SV Hoody](http://www.hikeventures.com/deals/#Cerium+SV+Hoody "Arcteryx Cerium SV Hoody") | 440 | 850 |
-| [The North Face Super Diez Hooded Jacket](http://www.hikeventures.com/deals/#The+North+Face+Super+Diez+Jacket "The North Face Super Diez Hooded Jacket") | 477 | 900 |
-| [Patagonia Men's Down Hooded Jacket](http://www.hikeventures.com/deals/#Hi+Loft+Hooded+Down+Jacket "Patagonia Men's Down Hooded Jacket") | 550 | 800 |
-| [Rab Infinity Endurance Jacket](http://www.hikeventures.com/deals/#xiom+pants "http://www.hikeventures.com/deals/#Rab+Infinity+Endurance+Jacket") | 575 | 850 |
-| [Rab Positron Jacket](http://www.hikeventures.com/deals/#Positron+Jacket "Rab Positron Jacket") | 720 | 800 |
-
-
 ### Mountain Hardware Ghost Whisperer Hooded Down Jacket (800 fp)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GULW0DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GULW0DS&linkCode=as2&tag=hikeve-20&linkId=RSEZE3QFDW2FVB3A" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GULW0DS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GULW0DS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
