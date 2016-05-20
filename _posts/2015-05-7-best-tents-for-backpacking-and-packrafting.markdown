@@ -45,7 +45,7 @@ The Hilleberg Soulo is a very strong solo expedition tent. If strength is import
 
 ## Non-freestanding tents
 
-### Hilleberg Enan
+### [Hilleberg Enan](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Enan-1-Person-Tent_10274355_10208_10000001_-1_)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00UZ8ZPIE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UZ8ZPIE&linkCode=as2&tag=hikeve-20&linkId=J5D2VAGZEEOJ4END"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00UZ8ZPIE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00UZ8ZPIE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -57,7 +57,9 @@ The Hilleberg Enan is a non-freestanding 1 person tent.
 
 If you are travelling alone on a shorter trip where you don't have lot's of gear with you then the Hilleberg Enan with 1100 grams could be a light choice during the warmer months. The only disadvantage we see with this tent is that it's not very roomy. It's also shorter then the Akto and you can only sit in one position in this tent. Venting should be quite good if you position one end of the tent with the mesh towards the wind.
 
-### Hilleberg Niak 1.5
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Enan-1-Person-Tent_10274355_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Hilleberg Enan</button></a> 
+
+### [Hilleberg Niak 1.5](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Niak-1-5-Person-Tent_10306870_10208_10000001_-1_)
 
 <a  href="http://www.amazon.com/gp/product/B01AT52A08/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AT52A08&linkCode=as2&tag=hikeve-20&linkId=2TDIHYJWJ46ET5ID"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01AT52A08&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B01AT52A08" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -69,9 +71,10 @@ The Hilleberg Niak 1.5 is a non-freestanding 1 person tent.
 
 The Enan as a solo tent looks like an interesting tent for the summer months. However, if you need more space e.g. if there is a longer rain period then you would appreciate most likely the new Niak 1.5. It can accommodate 1-2 persons and has a vestibule to store your gear. I was actually interested in getting the Hilleberg Unna or the Akto as a go-to solo tent but I would prefer having the Niak 1.5 if I would just use it during the warmer months.
 
-<a href="http://www.hikeventures.com/deals/#niak+tent"><button class="btn btn-danger">Compare prices</button></a>
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Niak-1-5-Person-Tent_10306870_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Hilleberg Niak</button></a> 
 
-### Hilleberg Akto
+### [Hilleberg Akto](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Akto-1-Person-Tent_10101417_10208_10000001_-1_)
+
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00TKHF7E8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TKHF7E8&linkCode=as2&tag=hikeve-20&linkId=VP7IBWWKQQ3PVKWT"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00TKHF7E8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00TKHF7E8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The Hilleberg Akto is a non-freestanding 1-person tent for 4 seasons.
@@ -82,9 +85,10 @@ The Hilleberg Akto is a non-freestanding 1-person tent for 4 seasons.
 
 The Akto is a solo tent with low weight and quite popular among solo travellers. If you are not going into extreme conditions then this could be a great solo tent if you don't need a lot of space. For harsher conditions I would rather pick the Hilleberg Soulo or the Unna which comes with more space. 
 
-<a href="http://www.hikeventures.com/deals/#akto+tent"><button class="btn btn-danger">Compare prices</button></a>
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Akto-1-Person-Tent_10101417_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Hilleberg Akto</button></a> 
 
-### Hubba Hubba NX
+### [MSR Hubba Hubba NX](http://www.moosejaw.com/moosejaw/shop/product_MSR-Hubba-Hubba-NX-2-Person-Tent_10238367_10208_10000001_-1_)
+
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00G7H9CAY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G7H9CAY&linkCode=as2&tag=hikeve-20&linkId=EX4S5YFHURHMA3L5"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00G7H9CAY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00G7H9CAY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The MSR Hubba Hubba NX is a freestanding 2-person tent for 3 seasons.
@@ -95,10 +99,9 @@ The MSR Hubba Hubba NX is a freestanding 2-person tent for 3 seasons.
 
 The MSR Hubba Hubba NX is a great 3 season tent and it even costs almost half the price of a Hilleberg tent. The Hilleberg just has a stronger floor material (50D) compared to the MSR but you get plenty of room. I think it's a tough decision to choose between the Niak 1.5 and the Hubba Hubba NX. If you are low on budget then we could highly recommend the Hubba Hubba NX as we have also used it on our trip in Sweden and Japan. Reviews soon available on our blog.
 
-<a href="http://www.hikeventures.com/deals/#hubba+hubba+nx"><button class="btn btn-danger">Compare prices</button></a>
+<a href="http://www.moosejaw.com/moosejaw/shop/product_MSR-Hubba-Hubba-NX-2-Person-Tent_10238367_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the MSR Hubba Hubba NX</button></a> 
 
-
-### Hilleberg Anjan 3
+### [Hilleberg Anjan 2](http://www.bentgate.com/hilleberg-anjan-3-tent/)
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00JBUC8V4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JBUC8V4&linkCode=as2&tag=hikeve-20&linkId=LOTRXVRJVO6XQYX4"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00JBUC8V4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00JBUC8V4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Fabric:** Kerlon 1000   
@@ -107,10 +110,10 @@ The MSR Hubba Hubba NX is a great 3 season tent and it even costs almost half th
 
 If you are traveling with your friend then the Hilleberg Anjan 3 is our top choice during the warmer months. We would definitely choose the 3 person version of this tent since the 2 person version is just too small (own experience) for 2 people.
 
-<a href="http://www.hikeventures.com/deals/#anjan+tent"><button class="btn btn-danger">Compare prices</button></a>
+<a href="http://www.bentgate.com/hilleberg-anjan-3-tent/"><button type="button" class="btn btn-danger">Read more about the Hilleberg Anjan</button></a>  
 
+### [Hilleberg Nallo](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Nallo-3-Person-Tent_10101458_10208_10000001_-1_)
 
-### Hilleberg Nallo
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00LMR6HSO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LMR6HSO&linkCode=as2&tag=hikeve-20&linkId=4YIQPTOP7VXOY4EM"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LMR6HSO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LMR6HSO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Length:** 220 cm   
@@ -123,8 +126,7 @@ If you are traveling with your friend then the Hilleberg Anjan 3 is our top choi
 
 The Hilleberg Nallo is probably the best choice if you want a 4-season tent which offers the most space and a vestibule for the least weight. If you don't need a freestanding tent and the best weight / space ratio 4-season tent then you should pick the Nallo.
 
-<a href="http://www.hikeventures.com/deals/#nallo+tent"><button class="btn btn-danger">Compare prices</button></a>
-
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Nallo-3-Person-Tent_10101458_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Hilleberg Nallo</button></a> 
 ---
 
 ## Discounts
