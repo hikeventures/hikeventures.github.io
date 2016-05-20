@@ -144,6 +144,11 @@ If I would choose the Hilleberg Unna as a summer tent then I would replace the s
 
 It's a good idea to have more space in your tent or a bigger vestibule if you are more into winter camping. For longer winter trips you should probably consider even bigger tents than the tents I have listed here.
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25215098683/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1472/25215098683_07c6ffbfb8_b.jpg" width="1024" height="768" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+   
+On our packrafting trip in Scotland we had a MSR Hubba Hubba NX with us.
+
+
 ## Final word
 My preference goes towards the Hilleberg Unna as it is self standing, offers inside more space than the Hilleberg Soulo and can also be pitched on difficult terrain. The Hilleberg Unna can also be used as a winter tent. The Hilleberg Unna is somewhat more heavy than the MSR Hubba Hubba NX or the Hilleberg Enan / Niak but you get a tent which works in every condition and is more durable which is especially important if you are planning to hike in remote areas for a longer period. 
 
