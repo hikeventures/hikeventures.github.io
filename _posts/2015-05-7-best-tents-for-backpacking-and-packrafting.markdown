@@ -125,6 +125,8 @@ The Hilleberg Nallo is probably the best choice if you want a 4-season tent whic
 
 <a href="http://www.hikeventures.com/deals/#nallo+tent"><button class="btn btn-danger">Compare prices</button></a>
 
+---
+
 ## Discounts
 <div class="row">
   <div class="col-sm-12">
@@ -133,6 +135,8 @@ The Hilleberg Nallo is probably the best choice if you want a 4-season tent whic
 </center>
   </div>
 </div>
+
+---
 
 ## Considerations when choosing a tent
 
