@@ -38,6 +38,8 @@ The Hilleberg Enan is the ultralight model of the Akto. If you don't require muc
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Enan-1-Person-Tent_10274355_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Hilleberg Enan</button></a>  
 
+---
+
 ### [Hilleberg Akto](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Akto-1-Person-Tent_10101417_10208_10000001_-1_)
 
 <a href="http://www.amazon.com/gp/product/B003X2HQPY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003X2HQPY&linkCode=as2&tag=hikeve-20&linkId=FCTXO35WV5CXK5P7"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003X2HQPY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B003X2HQPY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -54,6 +56,8 @@ The Hilleberg Akto is the 4-season model of the Hilleberg Enan and more suitable
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Akto-1-Person-Tent_10101417_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Hilleberg Akto</button></a>  
 
+---
+
 ### [Hilleberg Niak 1.5](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Niak-1-5-Person-Tent_10306870_10208_10000001_-1_)
 
 <a  href="http://www.amazon.com/gp/product/B01AT52A08/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AT52A08&linkCode=as2&tag=hikeve-20&linkId=2JIQ4SO5RH5PZJXL"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01AT52A08&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B01AT52A08" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -68,6 +72,8 @@ The Hilleberg Niak 1.5 is the latest yellow label tent from Hilleberg. If you ne
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Niak-1-5-Person-Tent_10306870_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Hilleberg Niak</button></a>  
 
+---
+
 ### [MSR Hubba Hubba NX](http://www.moosejaw.com/moosejaw/shop/product_MSR-Hubba-Hubba-NX-2-Person-Tent_10238367_10208_10000001_-1_)
 
 <a href="http://www.amazon.com/gp/product/B00G7H9CAY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G7H9CAY&linkCode=as2&tag=hikeve-20&linkId=EX4S5YFHURHMA3L5"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00G7H9CAY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00G7H9CAY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -81,6 +87,8 @@ The MSR Hubba Hubba NX is a freestanding 3-season 2-person tent.
 The MSR Hubba Hubba NX is also a great 3-season tent and costs much less than the Hilleberg Niak 1.5. However, the Hilleberg has a stronger floor material (50D). If you are low on budget then the MSR Hubba Hubba would be our pick. If you want a freestanding 4-season tent then go for the Hilleberg Unna.
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_MSR-Hubba-Hubba-NX-2-Person-Tent_10238367_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the MSR Hubba Hubba NX</button></a>  
+
+---
 
 ### [Hilleberg Anjan 2](http://www.bentgate.com/hilleberg-anjan-2-tent/)
 
@@ -98,6 +106,8 @@ The Hilleberg Anjan was our summer tent (even so I have the 3 person model) befo
 
 <a href="http://www.bentgate.com/hilleberg-anjan-2-tent/"><button type="button" class="btn btn-danger">Read more about the Hilleberg Anjan</button></a>  
 
+---
+
 ### [Hilleberg Unna](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Unna-1-Person-Tent_10101489_10208_10000001_-1_)
 
 <a href="http://www.amazon.com/gp/product/B00IU0UMSC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IU0UMSC&linkCode=as2&tag=hikeve-20&linkId=IH74WSYOYDCATOTX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00IU0UMSC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00IU0UMSC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -114,6 +124,8 @@ The Hilleberg Unna is completely freestanding. The advantage of the Unna is the 
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Unna-1-Person-Tent_10101489_10208_10000001_-1"><button type="button" class="btn btn-danger">Read more about the Hilleberg Unna</button></a>  
 
+---
+
 ### [Hilleberg Soulo](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Soulo-1-Person-Tent_10101479_10208_10000001_-1_)
 
 <a href="http://www.amazon.com/gp/product/B004LAP3G6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004LAP3G6&linkCode=as2&tag=hikeve-20&linkId=4R5WXJMR7LNA2MKY"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004LAP3G6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B004LAP3G6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -129,6 +141,8 @@ The Hilleberg Unna is completely freestanding. The advantage of the Unna is the 
 The Hilleberg Soulo is a solo expedition tent which can be used under very harsh condition. It's stronger than the Unna and has a designated vestibule, however the inner tent offers less space than the Unna. This tent could (like the Unna) be useful for sea kayaking or mountaineering as it is completely freestanding. It's a bit more heavy and shorter than the Unna. If you don't need a self-standing 4-season tent then I would choose the MSR Hubba Hubba NX.
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Soulo-1-Person-Tent_10101479_10208_10000001_-1"><button type="button" class="btn btn-danger">Read more about the Hilleberg Soulo</button></a>  
+
+---
 
 ### [Hilleberg Nallo](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Nallo-2-Person-Tent_10101453_10208_10000001_-1_)
 
