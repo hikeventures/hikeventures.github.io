@@ -28,7 +28,7 @@ Further, it's also worth to consider that a 1-person tent can be more heavy than
 **Height:** 95 cm  
 **Inner Space:** 1.7 m²  
 **Vestibule:** 0.8 m²  
-**Weight:** 1100 grams 
+**Weight:** 1100 grams   
 **Fabric:**  Kerlon 600   
 
 The Hilleberg Enan is the ultralight model of the Akto.  If you don't require much space and use your tent only during the warmer months (3-season) then the Enan might be a good option. This type of tent is good for fast pack and go. If you are more into base camping, are very tall or want to have more space e.g. during a longer period of rain then the Anjan 2 or the Unna would be a better choice. The Enan has a mesh on one end which should provide great ventilation if pitched in wind direction.
