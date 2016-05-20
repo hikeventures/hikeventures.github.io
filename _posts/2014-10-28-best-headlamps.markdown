@@ -24,7 +24,7 @@ Konstantin wearing a Petzl Nao on the top of a fell on our [trip in Lapland](htt
 **Weight:** 187 grams   
 **Lumen:** 575   
 **Awards:** ISPO Award 2012   
-Watertightness: IP X4 (water resistant)
+**Watertightness:** IP X4 (water resistant)
 
 The [Petzl Nao](http://hikeventures.com/petzl-nao-headlamp-test/ "Petzl Nao") features over 575 lumen, 200 Lumen more than the old model. It's reactive lightning system let's you also adjust the light level automatically without turning or pushing any buttons on the headlamp. You are able to charge the battery of the Petzl Nao within 5 hours. Usually, I also take an additional battery with me such as the Anker Astro E5 to charge my headlamp and other USB devices during my trips. You can also adjust the straps not the sides and on the top. I also have the [Petzl Nao Belt Kit](http://www.backcountry.com/petzl-nao-belt-kit), which allows me to carry the battery in my backpack or on my belt rather than on my head. It does not just feel better to have less weight on your head but also prevents battery drain if the temperatures are low. With the OS by Petzl you are also able to adjust the light levels on your PC / Mac. The Petzl Nao is my preferred headlamp! If you are looking for a lighter headlamp which can also be charged by USB then have a look at the Petzl Tikka RXP.
     
@@ -68,7 +68,7 @@ With 220 grams and 'only' 200 Lumen, the Black Diamond Icon has a much lower Lum
 
 **Weight:** 39 grams (excl. batteries)   
 **Lumen:** 1090  
-** Watertightness:** IP X7 (watertight)
+**Watertightness:** IP X7 (watertight)
 
 [Jaakko](http://korpijaakko.com/ "Jaako") suggested me the Zebralight H600 Mk II. It features lot's of power for little weight. However, it has no USB connection to charge it's battery. If you don't mind carrying additional battieries with you then the Zebralight might be a great choice too.
 
@@ -82,7 +82,7 @@ With 220 grams and 'only' 200 Lumen, the Black Diamond Icon has a much lower Lum
 
 **Weight:** 279 grams   
 **Lumen:** 275  
-**Watertightness: IP X7 (watertight)
+**Watertightness:** IP X7 (watertight)
 
 The Princeton Tec Apex is the brightest headlamp Princeton Tec has to offer. It's battery is also located on the back of the head. Unfortunately, this headlamp does not offer any recharging possibilities via USB so you have to rely on 4 AA batteries. 
 
