@@ -9,7 +9,7 @@ tags: [articles, best, jackets]
 ---
 Here is our buying guide of the best summer and winter down jackets for 2016 which you can take on your next hiking, backpacking, skiing, snowboarding, mountaineering, climbing, photography or any other backcountry outdoors adventure to stay warm. 
 
-The down jackets in our buying guide are sorted according to weight and we have just selected goose down jackets with a fill power of 800 and more since they offer the best warmth-weight ratio and are considered to be lightweight down jackets. 
+The down jackets in our buying guide are sorted according to their weight and we have just selected goose down jackets with a fill power of 800 and more since they offer the best warmth-weight ratio and are considered to be lightweight down jackets. 
 
 The down jackets in our list are all men down jackets but most manufacturers do also have an equivalent down jacket model for women in their portfolio. Please note that we have not tested the down jackets in our list but selected them according to our own preferences.
 
