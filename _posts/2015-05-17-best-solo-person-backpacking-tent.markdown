@@ -23,13 +23,13 @@ Further, it's also worth to consider that a 1-person tent can be more heavy than
 
 <a href="http://www.amazon.com/gp/product/B00UZ8ZNDQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UZ8ZNDQ&linkCode=as2&tag=hikeve-20&linkId=XBQVK7AJ3UD7ESR7"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00UZ8ZNDQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00UZ8ZNDQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-Length: 215 cm  
-Width: 60 cm (95cm)   
-Height: 95 cm  
-Inner Space: 1.7 m²  
-Vestibule: 0.8 m²  
-Weight: 1100 grams 
-Fabric:  Kerlon 600   
+**Length:** 215 cm  
+**Width:** 60 cm (95cm)   
+**Height:** 95 cm  
+**Inner Space:** 1.7 m²  
+**Vestibule:** 0.8 m²  
+**Weight:** 1100 grams 
+**Fabric:**  Kerlon 600   
 
 The Hilleberg Enan is the ultralight model of the Akto.  If you don't require much space and use your tent only during the warmer months (3-season) then the Enan might be a good option. This type of tent is good for fast pack and go. If you are more into base camping, are very tall or want to have more space e.g. during a longer period of rain then the Anjan 2 or the Unna would be a better choice. The Enan has a mesh on one end which should provide great ventilation if pitched in wind direction.
 
