@@ -32,8 +32,8 @@ The Suunto Ambit3 uses a SiRFstarV GPS chip (Ambit2 is using SiRFstarIV), but th
 ## Barometer
 The Suunto Ambit3 Sport model is slimmer and lighter but it does not have a barometer. Do you need the barometer if you can get the altitude data via GPS anyway? Most likely the altitude differences will be shown more accurately as the watch combines data from the GPS and the barometer. However, you might need to adjust the barometer occasionally on your trip. If you have a mobile phone with you and there is internet reception then you can also get the weather forecast from the internet. So the barometer is not really necessary if you are interested in the weather trend. Also it is worth to check the weather trend before your trip. Consider to get the Suunto Traverse (no multisport features) or Suunto Ambit3 Vertical (multisport features) if you need a barometer.
 
-## Waterproofness and battery capacity
-You can dive 100m instead of 50m and the battery capacity is twice as big on the Suunto Ambit3 Peak than on the Suunto Ambit3 Sport model. I use Suunto Ambit3 also to track my route when I am adventuring with my packraft. I would not even consider to buy any sport watch which is not waterproof.
+## Watertightness and Battery
+You can dive 100m instead of 50m and the battery capacity is twice as big on the Suunto Ambit3 Peak than on the Suunto Ambit3 Sport model. I use Suunto Ambit3 also to track my route when I am adventuring with my packraft. I would not even consider to buy any sport watch which is not watertight.
 
 ## Wrist strap
 The strap for the Suunto Ambit3 Sport is water repellent and made from a silicone compound which feels more lighter and softer on your skin.
@@ -45,11 +45,11 @@ The new movescount software is available to all Suunto watches.
 I use my Suunto Traverse (upgraded from the Suunto Ambit3 Sport) watch mainly for running (check [my profile][5] on Movescount) and hiking (e.g. in [Finland][6] or [Sweden][7]). When I had the Suunto Ambit3 Sport I realized that it does not feel that bulky as the Peak model. Moreover, pushing the buttons on the Suunto Ambit3 is much smoother than on the Ambit2. Also the backlight of the Ambit models look really cool and it really helps to read your data when jogging in the evening. There is also the Runner version which is called Ambit3 Run. It's slightly lighter than the Ambit3 Sport, however you will miss features related to swimming, multisport or biking.
 
 ## Worth to upgrade?
-I have used the Suunto Ambit3 Sport for a couple of months and I was happy with it before I [upgraded to the Suunto Traverse](http://www.hikeventures.com/Suunto-Traverse-Ambit3-differences/). I liked the blue colour, the slimmer design compared to the peak model, the accuracy of the GPS signal and the shorter time it take to locate satellites. For runners it's already worth to upgrade just because of the smaller HR monitor which will give you a better running experience. I also like the Bluetooth feature so I can get my data also on the Movescount Server if I am not on a computer. If you are into Social Media then the Movescount app will also be a great tool to show-cast your activities in a video.
+I have used the Suunto Ambit3 Sport for a couple of months and I was happy with it before I [upgraded to the Suunto Traverse](http://www.hikeventures.com/Suunto-Traverse-Ambit3-differences/). I liked the blue colour, the slimmer design compared to the Suunto Ambit3 Peak, the accuracy of the GPS signal and the shorter time it take to locate satellites. For runners it's already worth to upgrade just because of the smaller HR monitor which will give you a better running experience. I also like the Bluetooth feature so I can get my data also on the Movescount Server if I am not on a computer. If you are into Social Media then the Movescount app will also be a great tool to show-cast your activities in a video.
 
 ---
 
-## Deals
+## Discounts
 <div class="row">
   <div class="col-sm-12">
 <center>
