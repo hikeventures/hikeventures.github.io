@@ -15,7 +15,7 @@ For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](
 
 ## Freestanding tents
 
-### Hilleberg Allak
+### [Hilleberg Allak](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Allak-2-Person-Tent_10101420_10208_10000001_-1_)
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B003X2JUM6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003X2JUM6&linkCode=as2&tag=hikeve-20&linkId=MPFYT4UWH4JSFZEJ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003X2JUM6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B003X2JUM6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Fabric:** Kerlon 1200   
@@ -24,6 +24,8 @@ For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](
 
 The Hilleberg Allak has the advantage that it has 2 entrances and it which makes it quite easy to get in and out of the tent if you are travelling with someone else. Another advantage of
 having two entrances is that you are more flexible with the venting options. The disadvantage we see with this tent compared to the Jannu is that it weights slightly more and that it is also slightly more narrow than the Jannu (130 cm rather than 145 cm). The Allak is 5 cm taller than the Jannu and offers a better possibility to sit in it.
+
+ <a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Allak-2-Person-Tent_10101420_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Hilleberg Allak</button></a> 
 
 ### [Hilleberg Unna](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Unna-1-Person-Tent_10101489_10208_10000001_-1_)
 
