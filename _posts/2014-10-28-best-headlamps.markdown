@@ -24,6 +24,7 @@ Konstantin wearing a Petzl Nao on the top of a fell on our [trip in Lapland](htt
 **Weight:** 187 grams   
 **Lumen:** 575   
 **Awards:** ISPO Award 2012   
+Watertightness: IP X4 (water resistant)
 
 The [Petzl Nao](http://hikeventures.com/petzl-nao-headlamp-test/ "Petzl Nao") features over 575 lumen, 200 Lumen more than the old model. It's reactive lightning system let's you also adjust the light level automatically without turning or pushing any buttons on the headlamp. You are able to charge the battery of the Petzl Nao within 5 hours. Usually, I also take an additional battery with me such as the Anker Astro E5 to charge my headlamp and other USB devices during my trips. You can also adjust the straps not the sides and on the top. I also have the [Petzl Nao Belt Kit](http://www.backcountry.com/petzl-nao-belt-kit), which allows me to carry the battery in my backpack or on my belt rather than on my head. It does not just feel better to have less weight on your head but also prevents battery drain if the temperatures are low. With the OS by Petzl you are also able to adjust the light levels on your PC / Mac. The Petzl Nao is my preferred headlamp! If you are looking for a lighter headlamp which can also be charged by USB then have a look at the Petzl Tikka RXP.
     
@@ -38,6 +39,7 @@ The [Petzl Nao](http://hikeventures.com/petzl-nao-headlamp-test/ "Petzl Nao") fe
 **Weight:** 115 grams   
 **Lumen:** 215   
 **Awards:** ISPO Award Gold Winner 2013   
+**Watertightness:** IP X4 (water resistant)
 
 Almost half the Lumen power of the Petzl Nao,  the Petzl Tikka RXP is much lighter than the Nao. If you don't like to carry the additional battery pack on the back of your head and prefer a less bulky headlamp then the Tikka RXP could be your choice. The Tikka RXP also features Petzl's reactive lightning system. The Tikka RXP should also be a great headlamp for trail running too. The USB port on the headlamp also allows you to charge The Tikka RXP with a battery bank like the Anker Astro E5. A less pricey alternative to the Petzl Tikka RXP would be the Black Diamon ReVolt. However, it does not have [reactive lightning](https://www.petzl.com/US/en/Sport/REACTIVE-LIGHTING-technology). Personally, I think reactive lightning is a nice to have feature but not something I would spend additional money on it.
 
@@ -52,8 +54,9 @@ Almost half the Lumen power of the Petzl Nao,  the Petzl Tikka RXP is much light
 **Weight:** 220 grams   
 **Lumen:** 200      
 **Awards:** Top Pick - Outdoor Gear Lab 2014, Editors Choice Award 2014 - Fish Alaska  
-
-With 220 grams and 'only' 200 Lumen, the Black Diamond Icon has a much lower Lumen/Weight ratio. However, the Black Diamond Icon seems  is waterproof (IP X7: 1 m under the water for 30 minutes) compared to the Petzl headlamps which are weather resistant (IP X4: resistant agains water splashes). For very wet conditions you should probably go for this headlamp. With the Icon you also have to carry it's battery pack on the back of your head.
+**Watertightness:** IP X7 (watertight)
+     
+With 220 grams and 'only' 200 Lumen, the Black Diamond Icon has a much lower Lumen/Weight ratio. For very wet conditions you should probably go for the Black Diamond Icon. However, with it's external battery it needs probably more room in your backpack and you will also carry more weight on your head.
 
 <a href="http://www.backcountry.com/black-diamond-icon-headlamp"><button type="button" class="btn btn-danger">Read more about the Black Diamond Icon</button></a>
 
@@ -65,8 +68,9 @@ With 220 grams and 'only' 200 Lumen, the Black Diamond Icon has a much lower Lum
 
 **Weight:** 39 grams (excl. batteries)   
 **Lumen:** 1090  
+** Watertightness:** IP X7 (watertight)
 
-The ZebraLight H600 Mk II 18650 XM-L2 is IP X7 waterproof and sports 1090 Lumen. [Jaakko](http://korpijaakko.com/ "Jaako") suggested this headlamp. Lot's of power for little weight. Has no USB connection to charge it's battery.
+[Jaakko](http://korpijaakko.com/ "Jaako") suggested me the Zebralight H600 Mk II. It features lot's of power for little weight. However, it has no USB connection to charge it's battery. If you don't mind carrying additional battieries with you then the Zebralight might be a great choice too.
 
 <a href="http://www.amazon.com/gp/product/B00HIW1I2C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HIW1I2C&linkCode=as2&tag=hikeve-20&linkId=LCSF7G25EDO752O5"><button type="button" class="btn btn-danger">Read more about the Zebralight H600 Mk II</button></a>
 
@@ -78,8 +82,9 @@ The ZebraLight H600 Mk II 18650 XM-L2 is IP X7 waterproof and sports 1090 Lumen.
 
 **Weight:** 279 grams   
 **Lumen:** 275  
+**Watertightness: IP X7 (watertight)
 
-The Princeton Tec Apex is the brightest headlamp Princeton Tec has to offer. It's battery is also located on the back of the head. Unfortunately, this headlamp does not offer any recharging possibilities via USB so you have to rely on 4 AA batteries. The headlamp is rated as IP X7 (waterproof).
+The Princeton Tec Apex is the brightest headlamp Princeton Tec has to offer. It's battery is also located on the back of the head. Unfortunately, this headlamp does not offer any recharging possibilities via USB so you have to rely on 4 AA batteries. 
 
 <a href="http://www.backcountry.com/princeton-tec-apex-headlamp"><button type="button" class="btn btn-danger">Read more about the Princeton Tec Apex</button></a>
 
@@ -91,8 +96,9 @@ The Princeton Tec Apex is the brightest headlamp Princeton Tec has to offer. It'
 
 **Weight:** 98 grams   
 **Lumen:** 130   
+**Watertightness:** IP X4 (water resistant)
 
-The Black Diamond ReVolt headlamp comes with a proximity, distance, dim, strobe, and red night vision modes and needs 3 AAA batteries. The three-level power meter shows you how much battery is still left. The ReVolt has an IPX 4 rating.
+The Black Diamond ReVolt headlamp comes with a proximity, distance, dim, strobe, and red night vision modes and needs 3 AAA batteries. The three-level power meter shows you how much battery is still left.
 
 <a href="http://www.backcountry.com/black-diamond-revolt-headlamp"><button type="button" class="btn btn-danger">Read more about the Black Diamond ReVolt</button></a>   
 
@@ -104,8 +110,9 @@ The Black Diamond ReVolt headlamp comes with a proximity, distance, dim, strobe,
 
 **Weight:** 110 grams   
 **Lumen:** 160  
+**Watertightness:** IP X4 (watertight)
 
-The Black Diamond Storm is a little bit more heavy than the Petzl Tikka XP but the headlamp shields better against water (IP X7).
+The Black Diamond Storm is a little bit more heavy than the Petzl Tikka XP. The Storm works with 4 AAA batteries and can not be charged via USB.
 
 <a href="http://www.backcountry.com/black-diamond-storm-headlamp"><button type="button" class="btn btn-danger">Read more about the Black Diamond Storm</button></a>   
 
@@ -117,14 +124,15 @@ The Black Diamond Storm is a little bit more heavy than the Petzl Tikka XP but t
 
 **Weight:** 27 grams   
 **Lumen:** 26  
+**Watertightness:** IP X7 (watertight)
 
-This is an emergency headlamp from Petzl. This headlamp features a lock and has a IP X7 classification. It could be also a good choice for ultralight enthusiasts who can manage with less light. It can be used in a temperature range from -30C to +60C and it's batteries can be stored for 10 years. If you want to see more into the distance then this is probably not the headlamp you should consider to buy.
+The Petzl e+LITE is the emergency headlamp from Petzl. It could also be a good choice for ultralight enthusiasts who can manage with less light. It can be used in a temperature range from -30C to +60C and it's batteries can be stored for 10 years. If you want to see more into the distance then this is probably not the headlamp you should consider to buy.
   
 <a href="http://www.backcountry.com/petzl-elite-emergency-headlamp"><button type="button" class="btn btn-danger">Read more about the Petzl e+LITE</button></a>    
   
 ---
 
-## Deals
+## Discounts
 <div class="row">
   <div class="col-sm-12">
 <center>
