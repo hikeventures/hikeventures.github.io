@@ -19,16 +19,7 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hik
 
 <!--more-->
 
-## Deals
-<div class="row">
-  <div class="col-sm-12">
-<center>
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=down jackets men AND the north face OR down jackets men AND Columbia OR down jackets men AND Arcteryx OR down jackets men AND Montane OR down jackets men AND Berghaus OR down jackets men AND Rab&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
-</center>
-  </div>
-</div>
 
- 
 ## The best down jackets 2016
 
 | Model (click to check prices) | Weight (grams) | Fill Power (cuin) | 
@@ -138,7 +129,14 @@ The  Rab Infinity Endurance Jacket is a technical alpine or mountaineering jacke
 
 The  Rab Positron Jacket is proper box-wall down winter jacket with a water-resistant outer fabric. The manufacturer claims that it has been designed for mountain and expedition use up to 6000m. This jacket delivers about 30% more warmth than the Rab Infinity Endurance jacket.
 
-
+## Discounts
+<div class="row">
+  <div class="col-sm-12">
+<center>
+ <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=down jackets men AND the north face OR down jackets men AND Columbia OR down jackets men AND Arcteryx OR down jackets men AND Montane OR down jackets men AND Berghaus OR down jackets men AND Rab&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
+</center>
+  </div>
+</div>
 
 
 
