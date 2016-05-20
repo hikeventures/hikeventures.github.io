@@ -159,7 +159,7 @@ The Hilleberg Nallo is probably the best choice if you want a 4-season tent whic
 
 ---
 
-### Winter camping
+## Winter camping
 If I would need to choose a tent for winter camping then I would rather opt for a bigger tent with a vestibule than the ones listed here.
 
 ## Conclusion
