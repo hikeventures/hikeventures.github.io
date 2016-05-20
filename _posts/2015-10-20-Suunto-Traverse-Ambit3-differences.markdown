@@ -23,7 +23,7 @@ Personally, I like the new look of the Suunto Traverse more than the look of the
 
 ---
 
-## Deals
+## Discounts
 
 <div class="row">
   <div class="col-sm-12">
