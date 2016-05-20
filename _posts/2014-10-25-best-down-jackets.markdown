@@ -76,7 +76,7 @@ The Marmot Quasar Hoody is also an interesting jacket with it's high down fill p
 The Arcteryx Cerium SV Hoody is part of Arcteryx severe weather product line - most durable materials which provides most weather protection. We would wear this jacket during the winter. For camping during spring and summer it's probably going to be a bit too warm.
   
   
-### 7. The North Face Super Diez Hooded Jacket (900 fp)
+### The North Face Super Diez Hooded Jacket (900 fp)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00PJBP5SM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PJBP5SM&linkCode=as2&tag=hikeve-20&linkId=GZG3FTWKKEAVL7UC"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00PJBP5SM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00PJBP5SM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
