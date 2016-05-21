@@ -22,8 +22,7 @@ For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](
 **Weight:** 3.3 kg   
 **Area inner tent:** 2.8 m²   
 
-The Hilleberg Allak has the advantage that it has 2 entrances and it which makes it quite easy to get in and out of the tent if you are travelling with someone else. Another advantage of
-having two entrances is that you are more flexible with the venting options. The disadvantage we see with this tent compared to the Jannu is that it weights slightly more and that it is also slightly more narrow than the Jannu (130 cm rather than 145 cm). The Allak is 5 cm taller than the Jannu and offers a better possibility to sit in it.
+The Hilleberg Allak has the advantage that it has 2 entrances and it which makes it quite easy to get in and out of the tent if you are travelling with someone else. Another advantage of having two entrances is that you are more flexible with the venting options. The disadvantage we see with this tent compared to the Jannu is that it weights slightly more and that it is also slightly more narrow than the Jannu (130 cm rather than 145 cm). The Allak is 5 cm taller than the Jannu and offers a better possibility to sit in it.
 
  <a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Allak-2-Person-Tent_10101420_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Hilleberg Allak</button></a> 
 
@@ -152,6 +151,21 @@ The Hilleberg Nallo is probably the best choice if you want a 4-season tent whic
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Nallo-3-Person-Tent_10101458_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Hilleberg Nallo</button></a> 
 
+
+### [Hyperlite Mountain Gear UltaMid 2](https://www.hyperlitemountaingear.com/ultamid-2.html)
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26835366172/in/dateposted-public/" title="Hyperlite Mountain Gear Tent &amp; Ultamid Tarp"><img src="https://farm8.staticflickr.com/7432/26835366172_4b9630972f_b.jpg" width="1024" height="723" alt="Hyperlite Mountain Gear Tent &amp; Ultamid Tarp"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+**Length:** 271.8 cm   
+**Width:v 210.8 cm   
+**Height:** 162.6 cm   
+**Weight:** 499 grams    
+**Fabric:** Dyneema® (Cuben Fiber)
+
+The Hyperlite Mountain Gear UltaMid 2 is an ultralight tent designed if you want to camp in unexposed environments. On the <a href="http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/">packrafting round-up in Sweden</a> I had the chance to see the Hyperlite Mountain Gear UltaMid 2 and were quite impressed.
+
+<a href="https://www.hyperlitemountaingear.com/ultamid-2.html"><button type="button" class="btn btn-danger">Read more about the Hyperlite Mountain Gear UltaMid</button></a> 
+
 ---
 
 ## Discounts
@@ -204,14 +218,8 @@ I recently asked Hilleberg concerning their fabrics and they recommended to go f
 
 As I also want to use my tent in remote areas of Scandinavia where some parts do not even have cell phone coverage in case of an emergency (except if you have a GPS messenger) the Enan and the Niak 1.5 (3-season tents with Kerlon 600) are not going to be my go-to tents.
 
-As a freestanding 2-person tent I would either pick the Allak as a 2-person tent or the MSR Hubba Hubba NX.
+Personally, I would choose the Hilleberg Unna as a 1-person tent since I need a freestanding tent for packrafting and kayaking but on the same time it is light enough for backpacking. The Unna also offers lots of space and might be also more suitable for taller people. On the other hand we were also able to camp so far without a freestanding tent on all of our trips. I would even prefer the Hilleberg Soulo over the Hilleberg Unna but if you are 180 cm tall then you will touch the tent walls with your head / foot and your sleeping bag will get wet resulting in a loss of insulation and you might start feeling cold.
 
-Personally, I would choose the Hilleberg Unna as a 1-person tent since I need a freestanding tent for packrafting and kayaking but on the same time it is light enough for backpacking. The Unna also offers lots of space and might be also more suitable for taller people. On the other hand we were also able to camp so far without a freestanding tent on all of our trips. In our opinion the MSR Hubba Hubba NX is enough tent for a good price for most of our trips we are doing (MSR provided us the Hubba Hubba NX for testing). Also the MSR Hubba Hubba NX offers 2 vestibules to store gear.
+In our opinion the MSR Hubba Hubba NX offers a good price-value ratio if you only camp occasionally. However, we also found that the thin fabric on the MSR Hubba Hubba NX might be an issue if you are planning to camp a lot or you just have to be a bit careful where you pitch your tent. I would not consider to buy the new MSR Carbon Reflex or MSR FreeLite tents as they are using an even thinner fabric than the MSR Hubba NX which we found already quite delicate.
 
-Also consider that if your tent is too small your sleeping bag gets wet if it touches the tent walls (and a small tent can get even smaller in strong winds). Some people said that venting could be an issue with the Unna but they replaced the standard inner tent with the Mesh inner tent sold my Hilleberg to convert it to probably best solo tent with great venting ability for the warmer months which can also handle strong winds.
-
-However, if you want a 4-season tent with a plenty of space and a dedicated vestibule then the Nallo is probably the best choice (it's not freestanding).
-
-The Soulo is the best 1-person tent for harsh weather conditions while the Unna is more versatile, bigger and a bit lighter than the Soulo. 
-
-To sum it up. As a 1 or 2-person non-freestanding tent I would choose the MSR Hubba Hubba NX and as a 1-person freestanding tent the Hilleberg Unna with a seperate inner mesh tent provided by Hilleberg. As a winter tent I would probably choose the Kaitum, Nammatj or Nallo.
+If you do winter camping then it's probably a good idea to get an even bigger tent like the Hilleberg Kaitum.
