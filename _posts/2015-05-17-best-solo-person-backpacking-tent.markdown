@@ -160,6 +160,24 @@ The Hilleberg Nallo is probably the best choice if you want a 4-season tent whic
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Nallo-2-Person-Tent_10101453_10208_10000001_-1"><button type="button" class="btn btn-danger">Read more about the Hilleberg Nallo</button></a>  
 
+
+### [Hyperlite Mountain Gear UltaMid 2](https://www.hyperlitemountaingear.com/ultamid-2.html)
+
+<a href="http://www.amazon.com/gp/product/B00LMR6HSO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LMR6HSO&linkCode=as2&tag=hikeve-20&linkId=4YIQPTOP7VXOY4EM"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LMR6HSO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LMR6HSO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Length:** 220 cm   
+**Width:v 130 cm   
+**Height:** 100 cm   
+**Inner Space:** 2.8 m²    
+**Vestibule:** 1.3 m²     
+**Weight:** 2400 grams    
+**Fabric:**  Kerlon 1200  
+
+The Hilleberg Nallo is probably the best choice if you want a 4-season tent which offers the most space and a vestibule for the least weight. If you don't need a freestanding tent and want the best weight/space ratio 4-season tent then you should pick the Hilleberg Nallo.
+
+<a href="https://www.hyperlitemountaingear.com/ultamid-2.html"><button type="button" class="btn btn-danger">Read more about the Hyperlite Mountain Gear UltaMid</button></a>  
+
+
 ---
 
 ## Discounts
