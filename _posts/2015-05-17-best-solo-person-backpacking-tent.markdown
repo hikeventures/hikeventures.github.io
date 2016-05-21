@@ -198,7 +198,7 @@ The Hilleberg Soulo seems to be the toughest tent for stormy weather and winter 
 If you are looking for a sturdy tent with lots of space and a vestibule then you should get the Hilleberg Anjan 2 or the MSR Hubba NX as a 3-season tent or the Hilleberg Nallo 2 as a 4-season tent (or a bigger Hilleberg tent if you plan longer winter trips). Those tents are not self-standing.
 
 ### Best 1-person ultralight tent
-If low weight is your most important factor then you should consider the Hyperlite Mountain Gear Ulta Mid tent, followed by the Hilleberg Enan (or the Hilleberg Niak 1.5 if you need more space).
+If low weight is your most important factor then you should consider the Hyperlite Mountain Gear Ulta Mid tent, followed by the Hilleberg Enan (or the Hilleberg Niak 1.5 if you need more space). MSR also offers the new MSR FreeLite 1 (1000 grams) and the MSR Carbon Reflex 1 (790 grams) but they are less durable than the MSR Hubba NX (1290 grams). We found that the fabric on the MSR Hubba NX was already quite delicate (especially the floor) and the MSR Freelite 1 and MSR Carbon Reflex 1 have a slightly lower weight because they are using a thinner material on the floor and the rainfly than the MSR Hubba NX.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25215098683/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1472/25215098683_07c6ffbfb8_b.jpg" width="1024" height="768" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
    
