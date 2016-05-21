@@ -163,17 +163,15 @@ The Hilleberg Nallo is probably the best choice if you want a 4-season tent whic
 
 ### [Hyperlite Mountain Gear UltaMid 2](https://www.hyperlitemountaingear.com/ultamid-2.html)
 
-<a href="http://www.amazon.com/gp/product/B00LMR6HSO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LMR6HSO&linkCode=as2&tag=hikeve-20&linkId=4YIQPTOP7VXOY4EM"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LMR6HSO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LMR6HSO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26835366172/in/dateposted-public/" title="Hyperlite Mountain Gear Tent &amp; Ultamid Tarp"><img src="https://farm8.staticflickr.com/7432/26835366172_4b9630972f_b.jpg" width="1024" height="723" alt="Hyperlite Mountain Gear Tent &amp; Ultamid Tarp"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-**Length:** 220 cm   
-**Width:v 130 cm   
-**Height:** 100 cm   
-**Inner Space:** 2.8 m²    
-**Vestibule:** 1.3 m²     
-**Weight:** 2400 grams    
-**Fabric:**  Kerlon 1200  
+**Length:** 271.8 cm   
+**Width:v 210.8 cm   
+**Height:** 162.6 cm   
+**Weight:** 499 grams    
+**Fabric:** Dyneema® (Cuben Fiber)
 
-The Hilleberg Nallo is probably the best choice if you want a 4-season tent which offers the most space and a vestibule for the least weight. If you don't need a freestanding tent and want the best weight/space ratio 4-season tent then you should pick the Hilleberg Nallo.
+If you are looking for a fast and light tent which also protects you from bugs then the Hyperlite Mountain Gear UltaMid 2 could be your choice. The UltaMid 2 is an ultralight tent which works well if you are planning to camp on unexposed environments. I tool the picture above of the UltaMid tent on our packrafting round-up in Sweden. There were actually 2 of those Ultra-Mids on this event. The only issue I have with the white cuben fiber fabric is that it might lose it's shiny white color after a while. That's why I ordered my Hyperlite Mountain Gear Porter 4400 backpack a few years ago in black.
 
 <a href="https://www.hyperlitemountaingear.com/ultamid-2.html"><button type="button" class="btn btn-danger">Read more about the Hyperlite Mountain Gear UltaMid</button></a>  
 
@@ -195,7 +193,15 @@ The Hilleberg Nallo is probably the best choice if you want a 4-season tent whic
 If I would need to choose a tent for winter camping then I would rather opt for a bigger tent with a vestibule than the ones listed here.
 
 ## Conclusion
-There is no best all purpose tent especially if you are weight conscious. The Hilleberg Soulo seems to be the toughest tent for stormy weather and winter camping but comes with additional weight while the Hilleberg Enan or the Hilleberg Niak could be the perfect summer hiking tent where strength and durability is less important. 
+There is no best all purpose tent especially if you are weight conscious. 
+
+### Best self-standing 1-person tent for exposed & harsh environments
+The Hilleberg Soulo seems to be the toughest tent for stormy weather and winter camping but comes with additional weight. If you are taller than 175 cm then I would recommend you to get the Hilleberg Unna instead (which is also my favourite tent even so I like the external design of the Soulo more).
+
+### Best 1-Berson tent with priority on space and vestibule
+If you are looking for a sturdy tent with lots of space and a vestibule then you should get the Hilleberg Anjan 2 or the MSR Hubba Hubba NX as a 3-season tent or the Hilleberg Nallo 2 as a 4-season tent (or a bigger Hilleberg tent if you plan longer winter trips). Those tents are not self-standing.
+
+### 
 
 If you do both, summer and winter camping and weight is important for you then the best solution would be to get two tents - the Hilleberg Enan / Hilleberg Niak / MSR Hubba Hubba NX for summer and the Soulo / Unna / Nallo for winter camping. If you do only 3-season backpacking in unexposed environment and you prefer some comfort then I would go for the Hilleberg Anjan 2, Hilleberg Niak 1.5 or MSR Hubba Hubba NX (especially if you are tall) as it offers more space and is stronger than the Hilleberg Enan.
 
