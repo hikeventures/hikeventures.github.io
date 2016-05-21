@@ -9,11 +9,7 @@ tags: [articles, best, tents]
 ---
 Are you looking for a new tent and want to know which one is the best solo backpacking tent? Well, the best 1-person tent can be a different one in different environments and situations. Are you planning a trip to remote areas? Do you want to use your tent during the winter? Or are you an ultralight aficionado?
 
-I would like to give an overview about the best solo person backpacking tents available for 2016. My focus goes towards Hilleberg tents - [which are used on many expeditions worldwide](http://europe.hilleberg.com/EN/tent-adventures/testimonials/) - as I have already owned 2 Hillebeg tents in the past and was quite happy with them. 
-
-I have also added a MSR tent (which MSR provided us for testing) as I found it a good alternative on our trips to [Sweden](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/) or Japan. The MSR tents offer quite good quality and costs less than most of the Hilleberg tents. 
-
-It's also important to know that each tent is made for a specific purpose so there is no one tent fits all tent. Some also prefer to sleep in a tarp rather than in a tent. However, I will not iclude any tarps in this article since it's all about tents.
+I would like to give an overview about the best solo backpacking tents available for 2016. It's important to know that each tent is made for a specific purpose so there is no one tent fits all tent. Some also prefer to sleep in a tarp rather than in a tent. However, I will not iclude any tarps in this article since it's all about tents.
 
 Further, it's also worth to consider that a 1-person tent can be more heavy than a 2-person tent if you would distribute the weight of the 2-person tent over 2 persons. So hiking with another person can make you carry less weight.
 
@@ -171,7 +167,7 @@ The Hilleberg Nallo is probably the best choice if you want a 4-season tent whic
 **Weight:** 499 grams    
 **Fabric:** Dyneema® (Cuben Fiber)
 
-If you are looking for a fast and light tent which also protects you from bugs then the Hyperlite Mountain Gear UltaMid 2 could be your choice. The UltaMid 2 is an ultralight tent which works well if you are planning to camp on unexposed environments. I tool the picture above of the UltaMid tent on our packrafting round-up in Sweden. There were actually 2 of those Ultra-Mids on this event. The only issue I have with the white cuben fiber fabric is that it might lose it's shiny white color after a while. That's why I ordered my Hyperlite Mountain Gear Porter 4400 backpack a few years ago in black.
+If you are looking for a fast and light tent which also protects you from bugs then the Hyperlite Mountain Gear UltaMid 2 could be your choice. The UltaMid 2 is an ultralight tent which works well if you are planning to camp on unexposed environments. I took the picture above of the UltaMid 2 tent on the <a href="http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/">packrafting round-up in Sweden</a>. There were actually 2 of those Ultra-Mids on this event. The only issue I have with the white cuben fiber fabric is that it might lose it's shiny white color after a while. That's why I ordered my Hyperlite Mountain Gear Porter 4400 backpack a few years ago in black.
 
 <a href="https://www.hyperlitemountaingear.com/ultamid-2.html"><button type="button" class="btn btn-danger">Read more about the Hyperlite Mountain Gear UltaMid</button></a>  
 
@@ -201,18 +197,15 @@ The Hilleberg Soulo seems to be the toughest tent for stormy weather and winter 
 ### Best 1-Berson tent with priority on space and vestibule
 If you are looking for a sturdy tent with lots of space and a vestibule then you should get the Hilleberg Anjan 2 or the MSR Hubba Hubba NX as a 3-season tent or the Hilleberg Nallo 2 as a 4-season tent (or a bigger Hilleberg tent if you plan longer winter trips). Those tents are not self-standing.
 
-### 
-
-If you do both, summer and winter camping and weight is important for you then the best solution would be to get two tents - the Hilleberg Enan / Hilleberg Niak / MSR Hubba Hubba NX for summer and the Soulo / Unna / Nallo for winter camping. If you do only 3-season backpacking in unexposed environment and you prefer some comfort then I would go for the Hilleberg Anjan 2, Hilleberg Niak 1.5 or MSR Hubba Hubba NX (especially if you are tall) as it offers more space and is stronger than the Hilleberg Enan.
-
-Hilleberg recommended me to take a tent with Kerlon 1200 or 1800 if I would go into an exposed environment or on longer trips. As I will use my tent mostly in Northern Scandinavia I would opt for the Hilleberg Unna as a self-standing 4-season solo tent. It has more space then the Soulo, is more versatile, weights less and also costs less. For 3-season I would choose the Hilleberg Niak or the MSR Hubba Hubba NX.
+### Best 1-person ultralight tent
+If low weight is your most important factor then you should consider the Hyperlite Mountain Gear Ulta Mid tent, followed by the Hilleberg Enan (or the Hilleberg Niak 1.5 if you need more space).
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25215098683/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1472/25215098683_07c6ffbfb8_b.jpg" width="1024" height="768" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
    
 On our packrafting trip in Scotland we had a MSR Hubba Hubba NX with us which is also a great 3-season tent, offers space for 2 and costs less than the Hilleberg tents.
 
 ## Final word
-My preference goes towards the Hilleberg Unna as my favourite solo-person backpacking tent as it is self standing, offers inside more space than the Hilleberg Soulo and can also be pitched on difficult terrain. The Hilleberg Unna can also be used as a winter tent. The Hilleberg Unna is somewhat more heavy than the MSR Hubba Hubba NX or the Hilleberg Enan / Niak but you get a tent which works in every condition and is more durable which is especially important if you are planning to hike in remote areas for a longer period. 
+My personal preference goes towards the Hilleberg Unna as my favourite solo-person backpacking tent as it is self standing, offers inside more space than the Hilleberg Soulo and can also be pitched on difficult terrain. The Hilleberg Unna can also be used as a winter tent. The Hilleberg Unna is somewhat more heavy than the MSR Hubba Hubba NX or the Hilleberg Enan / Niak but you get a tent which works in every condition and is more durable which is especially important if you are planning to hike in remote areas for a longer period. 
 
 Also if you are into sea kayaking a self-standing durable tent against strong winds is probably a better option than an ultralight tent. If you are still not sure if you should consider the Hilleberg Soulo or the Hilleberg Unna then you should also consider your height. I am 180 cm tall and the Soulo was just too short for me. My foot / head touched the tent walls of the Soulo which means that my sleeping bag would get wet during the night (wet down does not insulate). There is also the Hilleberg Inner Mesh available for the Hilleberg Unna which I would buy additionally to modify the Hilleberg Unna to a summer tent with better air ventilation.
 
