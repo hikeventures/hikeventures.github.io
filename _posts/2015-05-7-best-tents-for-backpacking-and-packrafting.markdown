@@ -211,6 +211,8 @@ Do you want to have a tent which packs small so it fits into your backpack when 
 ### Additional Features
 I like the pockets on the wall of our Hilleberg Anjan tent which are just located at the right and left side of the entrance. I usually store small items in it such as a pocket knife, my watch or a headlamp. Also a clothes line which goes through the tent can be useful to dry clothes as you can see in the picture below. Reflectors may also help you to spot your tent during the night.
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25215098683/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1472/25215098683_07c6ffbfb8_b.jpg" width="1024" height="768" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## Conclusion
 To conclude, it's quite hard to say which tent is the best tent. It all depends on your needs and where you are planning to use the tent. Currently, we are using the MSR Hubba Hubba NX and the Anjan 3 (see also [here](http://www.hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/ "Hilleberg Anjan Tent")) which works great during spring, summer and autumn. The only disadvantage with the Anjan 3 is that it is not freestanding.
 
