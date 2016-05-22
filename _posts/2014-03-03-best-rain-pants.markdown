@@ -7,7 +7,7 @@ description: Top 6 of the best Waterproof pants 2016 which protects you during y
 category: articles
 tags: [articles, best, pants]
 ---
-Planning to go hiking or backpacking or any other backcountry adventure? Then you should consider to pack lightweight rain pants in into your backpack and here is our buying guide of the best rain pants for 2016. If the weather turns nasty you will be happy to have rain gear to stay dry and warm on the trail. The models which we have selected are rain pants for men. We have not tested those rain pants ourselves but we compared their specifications. The rain pants are sorted according to their weight. Most models are also available for women.
+Planning to go hiking or backpacking or any other backcountry adventure? Then you should consider to pack lightweight rain pants in into your backpack and here is our buying guide of the best rain pants for 2016. If the weather turns nasty you will be happy to have rain gear to stay dry and warm on the trail. The models which we have selected are rain pants for men. We have not tested those rain pants ourselves but we compared their specifications. The rain pants are sorted according to their weight. Most models are also available for women. Below you can see Patrick filtering water with the Montane Minimus Pants in the [Sarek National Park in Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/).
 
 <a href="https://www.flickr.com/photos/90204224@N07/9598980244" title="Montane Minimus Pants"><img src="https://farm4.staticflickr.com/3767/9598980244_fccc7cd8c6_b.jpg" width="1024" height="683" alt="Montane Minimus Pants"></a>
 <!--more-->
@@ -83,7 +83,7 @@ Montane Minimus pants on our [packrafting trip](http://hikeventures.com/hiking-a
 ---
 
 
-The list I have compiled below is sorted by the weight of the pants and not by their performance. Why I sorted them by their weight? Well, usually you only wear waterproof pants when it rains. When it stops raining you will pack your waterproof pants back into your backpack. The pants in my list are for emergency situations so they will also pack quite small as the Montane Minimus pants (see picture above). Also consider to take a [waterproof jacket](http://www.hikeventures.com/best-waterproof-rain-jackets) with you.
+The list I have compiled is sorted by the weight of the pants and not by their performance. Why I sorted them by weight? Well, usually you only wear waterproof pants when it rains. When it stops raining you will pack your waterproof pants back into your backpack. The pants in my list are for emergency situations so they will also pack quite small as the Montane Minimus pants (see picture above). Also consider to take a [waterproof jacket](http://www.hikeventures.com/best-waterproof-rain-jackets) with you.
 
 ## Which fabric?
 If you are planning to go skiing then you should maybe consider waterproof pants with Gore-Tex Pro or Active shell. However, those pants will be more heavy than the models listed below and also take more space in your backpack so I have not considered them in my list. Generally speaking, you will sweat in all waterproof clothes if you are active. However, some are a little bit more breathable than others. I had good experience with Pertex Shield so far.
