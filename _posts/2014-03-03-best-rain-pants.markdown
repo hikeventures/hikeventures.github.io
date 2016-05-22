@@ -12,28 +12,6 @@ Planning to go hiking or backpacking or any other backcountry adventure? Then yo
 <a href="https://www.flickr.com/photos/90204224@N07/13685518345" title="Best Rain Pants 2016"><img src="https://c4.staticflickr.com/8/7206/13685518345_0d22860c15_o.jpg" width="992" height="662" alt="Best Rain Pants 2016"></a>
 <!--more-->
 
-## The best rain pants 2016
-
-| Model (click to check prices) | Weight (grams) | 
-| :--- | :---: |
-| [Montane Minimus Pants](http://www.hikeventures.com/deals/#montane+minimus+pants "Check Prices") | 141 |
-| [Montane Atomic Pants](http://www.hikeventures.com/deals/#montane+Atomic+pants "Montane Atomic Pants") | 185 |
-| [Mountain Hardwear Plasmic Pants](http://www.hikeventures.com/deals/#plasmic+pants "Mountain Hardwear Plasmic Pant") | 204 |
-| [Rab Cohort Pants](http://www.hikeventures.com/deals/#cohort+pants "Rab Cohort Pants") | 240 |
-| [Arcteryx Beta SL Pants](http://www.hikeventures.com/deals/#arcteryx+beta+sl+pants "Arcteryx Beta SL Pants") | 260 |
-| [Rab Xiom Pants](http://www.hikeventures.com/deals/#xiom+pants "Rab Xiom Pants") | 270 |
-
-
-## Deals
-<div class="row">
-  <div class="col-sm-12">
-<center>
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=rain pants men AND the north face OR rain pants men AND Westcomb OR rain pants men AND Mountain Hardwear OR rain pants men AND Montane OR rain pants men AND Berghaus OR rain pants men AND Rab&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
-</center>
-  </div>
-</div>
-
-   
    <div class="row">
   <div class="col-sm-12">
 <center>
@@ -102,7 +80,21 @@ The Rab Xiom Pants come in a more durable fabric than the Montane pants listed a
 
 Montane Minimus pants on our [packrafting trip](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1) in Sweden.
 
-The list I have compiled below is sorted according to the weight of the pants and not according to their performance. Why I sorted them according to their weight? Well, usually you only wear waterproof pants when it rains. When it stops raining you will pack your waterproof pants back into your backpack. The pants in my list are for emergency situations so they will also pack quite small as the Montane Minimus pants (see picture above). Also consider to take a [waterproof jacket](http://www.hikeventures.com/best-waterproof-rain-jackets) with you.
+---
+
+## Deals
+<div class="row">
+  <div class="col-sm-12">
+<center>
+ <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=rain pants men AND the north face OR rain pants men AND Westcomb OR rain pants men AND Mountain Hardwear OR rain pants men AND Montane OR rain pants men AND Berghaus OR rain pants men AND Rab&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
+</center>
+  </div>
+</div>
+
+---
+
+
+The list I have compiled below is sorted by the weight of the pants and not by their performance. Why I sorted them by their weight? Well, usually you only wear waterproof pants when it rains. When it stops raining you will pack your waterproof pants back into your backpack. The pants in my list are for emergency situations so they will also pack quite small as the Montane Minimus pants (see picture above). Also consider to take a [waterproof jacket](http://www.hikeventures.com/best-waterproof-rain-jackets) with you.
 
 ## Which fabric?
 If you are planning to go skiing then you should maybe consider waterproof pants with Gore-Tex Pro or Active shell. However, those pants will be more heavy than the models listed below and also take more space in your backpack so I have not considered them in my list. Generally speaking, you will sweat in all waterproof clothes if you are active. However, some are a little bit more breathable than others. I had good experience with Pertex Shield so far.
