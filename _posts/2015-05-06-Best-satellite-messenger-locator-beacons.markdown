@@ -18,7 +18,7 @@ With a Satellite Messenger you can also inform your family and friends about you
  
 There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR. Currently, we are testing the InReach Explorer but we have not tested the other devices yet. While it's possible to send text messages with the devices from DeLorme and SPOT you may use ACR only to send a rescue signal (also called Personal Locator Beacon). The main advantage of the ACR is that you don't have to pay a subscription fee to use the GPS network. If messaging is not important for you, then you should go for the ACR ResQlink+ 406. The ACR device is also quite interesting for paddlers since it is able to float. Alternatively, you will see from the specifications below that the DeLorme devices are slightly heavier but come with more functionalities than the SPOT devices. 
 
-### [DeLorme InReach SE](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens)
+### [DeLorme InReach SE](https://www.rei.com/product/857610/delorme-inreach-se-2-way-satellite-communicator)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00BX7TJ2O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BX7TJ2O&linkCode=as2&tag=hikeve-20&linkId=7W7RNFRH662YDNGV"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BX7TJ2O&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00BX7TJ2O" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -35,9 +35,9 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 * Pair with mobile devices
 * Message size: 160 characters
 
-<a href="http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the DeLorme InReach SE</button></a> 
+<a href="https://www.rei.com/product/857610/delorme-inreach-se-2-way-satellite-communicator"><button type="button" class="btn btn-danger">Read more about the DeLorme InReach SE</button></a> 
 
-### [DeLorme InReach Explorer](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens)
+### [DeLorme InReach Explorer](https://www.rei.com/product/877499/delorme-inreach-explorer-satellite-messenger)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00I6EY01C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00I6EY01C&linkCode=as2&tag=hikeve-20&linkId=5XJQ3SFWBJDA27QP"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00I6EY01C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00I6EY01C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -49,9 +49,9 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 * Barometric Altimeter & Accelerometer
 * weight: 190 grams
 
-<a href="http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the DeLorme InReach Explorer</button></a> 
+<a href="https://www.rei.com/product/877499/delorme-inreach-explorer-satellite-messenger"><button type="button" class="btn btn-danger">Read more about the DeLorme InReach Explorer</button></a> 
 
-### [SPOT Gen3](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens)
+### [SPOT Gen3](https://www.rei.com/product/860469/spot-gen3-satellite-gps-messenger)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00C8S8S4W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00C8S8S4W&linkCode=as2&tag=hikeve-20&linkId=OIB6QWHIQEBL5ZEW"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00C8S8S4W&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00C8S8S4W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -62,9 +62,9 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 * Message size: 41 characters
 * Weight 114 grams
 
-<a href="http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the SPOT Gen3</button></a> 
+<a href="https://www.rei.com/product/860469/spot-gen3-satellite-gps-messenger"><button type="button" class="btn btn-danger">Read more about the SPOT Gen3</button></a> 
 
-### [ACR ResQlink+ 406](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens)
+### [ACR ResQlink+ 406](https://www.rei.com/product/843146/acr-electronics-resqlink-gps-personal-locator-beacon)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B0083KHR3W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0083KHR3W&linkCode=as2&tag=hikeve-20&linkId=JA77DOCMUQDNHR6Q"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0083KHR3W&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0083KHR3W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -75,4 +75,4 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 * No messaging
 * Weight: 153 grams
 
-<a href="http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the ACR ResQlink+ 406</button></a> 
+<a href="https://www.rei.com/product/843146/acr-electronics-resqlink-gps-personal-locator-beacon"><button type="button" class="btn btn-danger">Read more about the ACR ResQlink+ 406</button></a> 
