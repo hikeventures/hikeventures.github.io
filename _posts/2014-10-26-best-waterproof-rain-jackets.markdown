@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The 5 Best Rain Jackets for 2016
+title: The 6 Best Rain Jackets for 2016
 date: 2016-01-04 12:33:51 +0200
 comments: true
 description: Overview of the best rain Jackets in 2016
@@ -28,7 +28,18 @@ The Berghaus Vapourlight Hyper Smock 2.0 is the lightest waterproof jacket in ou
 
 <a href="http://www.backcountry.com/berghaus-vapourlight-hyper-hooded-smock-2.0-mens"><button type="button" class="btn btn-danger">Read more about the Berghaus Vapourlight Hyper Smock 2.0</button></a>  
 
-### [The Rab Flashpoint Jacket](http://www.moosejaw.com/moosejaw/shop/product_Rab-Men-s-Flashpoint-Jacket_10271705_10208_10000001_-1_)
+### [Outdoor Research Helium II Jacket](http://www.backcountry.com/outdoor-research-helium-jacket-mens)
+
+<a  href="http://www.amazon.com/gp/product/B005BV88T8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005BV88T8&linkCode=as2&tag=hikeve-20&linkId=JO3FT2NIOPZSMMGK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005BV88T8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005BV88T8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight:** 180 grams   
+**Fabric:** Pertex Shield, nylon ripstop (30D)
+
+The Outdoor Research Helium II Jacket is also a quite popular rain jacket. It features a single-pull hood drawcord to adjust coverage, zippered Napoleon pocket and elastic cuffs.
+
+<a href="http://www.backcountry.com/outdoor-research-helium-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Outdoor Research Helium II Jacket</button></a>  
+
+### [Rab Flashpoint Jacket](http://www.moosejaw.com/moosejaw/shop/product_Rab-Men-s-Flashpoint-Jacket_10271705_10208_10000001_-1_)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00UI4SP6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UI4SP6O&linkCode=as2&tag=hikeve-20&linkId=UF2ERPU6WIB5S727"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00UI4SP6O&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00UI4SP6O" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -95,4 +106,4 @@ My advice would be to use a [wind jacket](http://www.hikeventures.com/best-windj
 
 Nonetheless, if you are planning to use your jacket for skiing or snowboarding a more durable fabric like GORE-TEX ProShell or in certain cases also the GORE-TEX Active or GORE C-KNIT fabric would be more suitable rather than a thin Pertex Shield + fabric as you don't want to get immediately a hole into your jacket.
 
-However, if you want to have a light jacket for hiking or backpacking which packs easyly into your backpack then the lighter jackets from Berghaus, Rab or Montane are a good options from my experience.
+However, if you want to have a light jacket for hiking or backpacking which packs easyly into your backpack then the lighter jackets from Berghaus, Rab, Outdoor Research or Montane are a good options as well. Remember, you will probably have your rain jacket most of the time in your backpack if you check the weather in advance before you head to the trail. I would rather buy a lighter and less durable rain jacket. I had a good experience with the Montane Minimus Jacket on the trail.
