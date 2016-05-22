@@ -12,7 +12,7 @@ Planning to go hiking or backpacking or any other backcountry adventure? Then yo
 <a href="https://www.flickr.com/photos/90204224@N07/13685518345" title="Best Rain Pants 2016"><img src="https://c4.staticflickr.com/8/7206/13685518345_0d22860c15_o.jpg" width="992" height="662" alt="Best Rain Pants 2016"></a>
 <!--more-->
 
-### [Montane Minimus Pants](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens)
+### [Montane Minimus Pants](http://www.campsaver.com/minimus-pants-men-s)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B007RLM6VG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007RLM6VG&linkCode=as2&tag=hikeve-20&linkId=FWJFGCKUDWO36GKL"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007RLM6VG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B007RLM6VG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -21,9 +21,9 @@ Planning to go hiking or backpacking or any other backcountry adventure? Then yo
 
 The Montane Minimus pants are super light and pack easily into every backpack. These are great waterproof pants for the warmer months. These pants do also have zippers on the lower part of the leg so you can pull them on and off even with boots on.
 
-<a href="http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Montane Minimus Pants</button></a>  
+<a href="http://www.campsaver.com/minimus-pants-men-s"><button type="button" class="btn btn-danger">Read more about the Montane Minimus Pants</button></a>  
 
-### [Montane Atomic Pants](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens)
+### [Montane Atomic Pants](http://www.moosejaw.com/moosejaw/shop/product_Montane-Men-s-Atomic-Pant_10276270_10208_10000001_-1_)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B007RLM8JQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007RLM8JQ&linkCode=as2&tag=hikeve-20&linkId=GBWCT2S4ZY3KW4PQ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007RLM8JQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B007RLM8JQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -32,9 +32,9 @@ The Montane Minimus pants are super light and pack easily into every backpack. T
 
 The Montane Atomic Pants are a bit more durable than the Montane Minimus Pants but comes with 44 grams more weight. Also a great choice if you go hiking in the mountains during the warmer months.
 
-<a href="http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about theMontane Atomic Pants</button></a>  
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Montane-Men-s-Atomic-Pant_10276270_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about theMontane Atomic Pants</button></a>  
 
-### [Mountain Hardwear Plasmic Pant](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens)
+### [Mountain Hardwear Plasmic Pant](http://www.backcountry.com/mountain-hardwear-plasmic-pant-mens)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B0089PN410/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0089PN410&linkCode=as2&tag=hikeve-20&linkId=SCOBGEQN4LMQSIUF"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0089PN410&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0089PN410" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -43,20 +43,9 @@ The Montane Atomic Pants are a bit more durable than the Montane Minimus Pants b
 
 The Mountain Hardwear Plasmic Pants are slightly more heavy than the Montane pants but they come with some additional features. These pants have articulated knees which increases your mobility and also a bag with a zipper where you can store small items. If you need to have a pocket on your waterproof pants then go for this model.
 
-<a href="http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Mountain Hardwear Plasmic Pant</button></a>  
+<a href="http://www.backcountry.com/mountain-hardwear-plasmic-pant-mens"><button type="button" class="btn btn-danger">Read more about the Mountain Hardwear Plasmic Pant</button></a>  
 
-### [Rab Cohort Pants](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens)
-
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00IE7RQXK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IE7RQXK&linkCode=as2&tag=hikeve-20&linkId=PRR24YQ36UTAPGWX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00IE7RQXK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00IE7RQXK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Weight:** 240 grams   
-**Fabric:** Pertex Shield+ 2.5L
-
-The Rab Cohort Pants are great if you want to have 3/4 length side zips. This feature is quite useful if you are planning to quickly pull on / off your pants frequently or for venting.
-
-<a href="http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Rab Cohort Pants</button></a>  
-
-### [Arcteryx Beta SL Pants](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens)
+### [Arcteryx Beta SL Pants](http://www.backcountry.com/arcteryx-beta-sl-pant-mens)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GV31UGI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GV31UGI&linkCode=as2&tag=hikeve-20&linkId=HNWG2CPEBZ3YDLI7"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GV31UGI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GV31UGI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -65,9 +54,9 @@ The Rab Cohort Pants are great if you want to have 3/4 length side zips. This fe
 
 SL stands for Super Light in the Arcteryx product range. This model is reinforced in key wear areas, has articulated knees but only comes with lower leg zippers.
 
-<a href="http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Arcteryx Beta SL Pants</button></a>  
+<a href="http://www.backcountry.com/arcteryx-beta-sl-pant-mens"><button type="button" class="btn btn-danger">Read more about the Arcteryx Beta SL Pants</button></a>  
 
-### [Rab Xiom Pants](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens)
+### [Rab Xiom Pants](http://www.campsaver.com/xiom-pant-men-s)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00J9TT81K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00J9TT81K&linkCode=as2&tag=hikeve-20&linkId=MHJSBR5TLFK3KQRM"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00J9TT81K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00J9TT81K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -76,7 +65,7 @@ SL stands for Super Light in the Arcteryx product range. This model is reinforce
 
 The Rab Xiom Pants come in a more durable fabric than the Montane pants listed above. They also have 3/4 length side zips. These pants also features and elastic waistband with drawcord (as most of the models listed above). If some more durability and 3/4 length side zips are important for you then you should go for these pants rather than choosing super lightweight pants.
 
-<a href="http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Rab Xiom Pants</button></a>  
+<a href="http://www.campsaver.com/xiom-pant-men-s"><button type="button" class="btn btn-danger">Read more about the Rab Xiom Pants</button></a>  
 
 <a href="https://www.flickr.com/photos/90204224@N07/9598980244" title="Montane Minimus Pants"><img src="https://farm4.staticflickr.com/3767/9598980244_fccc7cd8c6_b.jpg" width="1024" height="683" alt="Montane Minimus Pants"></a>
 
