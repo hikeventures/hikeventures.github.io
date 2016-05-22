@@ -9,7 +9,7 @@ tags: [articles, best, pants]
 ---
 Planning to go hiking or backpacking or any other backcountry adventure? Then you should consider to pack lightweight rain pants in into your backpack and here is our buying guide of the best rain pants for 2016. If the weather turns nasty you will be happy to have rain gear to stay dry and warm on the trail. The models which we have selected are rain pants for men. We have not tested those rain pants ourselves but we compared their specifications. The rain pants are sorted according to their weight. Most models are also available for women.
 
-<a href="https://www.flickr.com/photos/90204224@N07/13685518345" title="Best Rain Pants 2016"><img src="https://c4.staticflickr.com/8/7206/13685518345_0d22860c15_o.jpg" width="992" height="662" alt="Best Rain Pants 2016"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/9598980244" title="Montane Minimus Pants"><img src="https://farm4.staticflickr.com/3767/9598980244_fccc7cd8c6_b.jpg" width="1024" height="683" alt="Montane Minimus Pants"></a>
 <!--more-->
 
 ### [Montane Minimus Pants](http://www.campsaver.com/minimus-pants-men-s)
@@ -66,8 +66,6 @@ SL stands for Super Light in the Arcteryx product range. This model is reinforce
 The Rab Xiom Pants come in a more durable fabric than the Montane pants listed above. They also have 3/4 length side zips. These pants also features and elastic waistband with drawcord (as most of the models listed above). If some more durability and 3/4 length side zips are important for you then you should go for these pants rather than choosing super lightweight pants.
 
 <a href="http://www.campsaver.com/xiom-pant-men-s"><button type="button" class="btn btn-danger">Read more about the Rab Xiom Pants</button></a>  
-
-<a href="https://www.flickr.com/photos/90204224@N07/9598980244" title="Montane Minimus Pants"><img src="https://farm4.staticflickr.com/3767/9598980244_fccc7cd8c6_b.jpg" width="1024" height="683" alt="Montane Minimus Pants"></a>
 
 Montane Minimus pants on our [packrafting trip](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1) in Sweden.
 
