@@ -21,6 +21,56 @@ A wind jacket is much lighter and you won't sweat that much in it compared to a 
 
 In the evenings while sitting in the camp I then swap my [fleece](http://www.hikeventures.com/best-fleece-jackets/ "Fleece Jackets") and wind jacket combo with a [down jacket](#) which keeps me warm when I am sitting around.
 
+---
+### [Patagonia Houdini](https://www.rei.com/product/893303/patagonia-houdini-jacket-mens)
+
+<a  href="http://www.amazon.com/gp/product/B01ANCS38K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01ANCS38K&linkCode=as2&tag=hikeve-20&linkId=BOE3T2FI3DGVW7LR"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01ANCS38K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B01ANCS38K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight:** 113 grams   
+**Fabric:** 15-denier nylon ripstop      
+**Awards:** Outdoor Gear Lab Top Pick   
+
+The Patagonia Houdini is another great wind jacket which got recommended by many other outdoor enthusiasts. It comes with a zippered chest pocket and the hood is adjustable. There is also a reflective logo on the front and back which comes quite handy during night hikes.
+
+<a href="https://www.rei.com/product/893303/patagonia-houdini-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Patagonia Houdini</button></a>  
+
+### [Arcteryx Incendo Hoody](https://www.rei.com/product/895292/arcteryx-incendo-hoodie-mens)
+
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GW7ZHG2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZHG2&linkCode=as2&tag=hikeve-20&linkId=TRAIMP6VVV2WPE4A"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7ZHG2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7ZHG2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight:** 130 grams   
+**Fabric:** Luminara—Stretch nylon ripstop    
+**Awards:** Best On Test - Outdoor Fitness Magazine (UK)   
+
+The Arcteryx Incendo Hoody has breathable mesh panels under the arms, a hood and a full front zip. It also features an internal MP3 pocket with audio ports, a side stow pocket and reflective blazes.
+
+<a href="https://www.rei.com/product/895292/arcteryx-incendo-hoodie-mens"><button type="button" class="btn btn-danger">Read more about the Arcteryx Incendo Hoody</button></a>  
+
+### [Arcteryx Squamish Hoody](http://www.backcountry.com/arcteryx-squamish-hooded-jacket-mens)
+
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00G9HPWU6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G9HPWU6&linkCode=as2&tag=hikeve-20&linkId=BWQUNX6BXF6UDSMC"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00G9HPWU6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00G9HPWU6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight:** 155 grams   
+**Fabric:** Luminara—Stretch nylon ripstop   
+**Awards:** Outdoor Gear Lab Editors Choice   
+
+The Arcteryx Squamish Hoody comes with a hood, full front zip and a front pocket. This jacket also has cuff adjusters and a reflective logo.
+
+<a href="http://www.backcountry.com/arcteryx-squamish-hooded-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Arcteryx Squamish Hoody</button></a>  
+
+### [Mountain Hardwear Ghost Whisperer Hooded Jacket](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens)
+
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00DH44IEU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DH44IEU&linkCode=as2&tag=hikeve-20&linkId=4GK24YGHCR22L4NQ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DH44IEU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DH44IEU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight:** 59 grams   
+**Fabric:** Whisperer 7D x 10D Ripstop   
+
+The Mountain Hardwear Ghost Whisperer Hooded Jacket is similar as the lighter Anorak model however it comes with a hood. In case of wind jackets I would go for a hooded model on your next hiking trips. Our Editor's Choice when low weight should be the most important factor.
+
+<a href="http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Mountain Hardwear Ghost Whisperer Hooded Jacket</button></a>  
+
+---
+
 ## Deals
 <div class="row">
   <div class="col-sm-12">
@@ -31,43 +81,3 @@ In the evenings while sitting in the camp I then swap my [fleece](http://www.hik
 </div>
 
 ---
-
-### Patagonia Houdini
-
-<a  href="http://www.amazon.com/gp/product/B01ANCS38K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01ANCS38K&linkCode=as2&tag=hikeve-20&linkId=BOE3T2FI3DGVW7LR"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01ANCS38K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B01ANCS38K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Weight:** 113 grams   
-**Fabric:** 15-denier nylon ripstop      
-**Awards:** Outdoor Gear Lab Top Pick   
-
-The Patagonia Houdini is another great wind jacket which got recommended by many other outdoor enthusiasts. It comes with a zippered chest pocket and the hood is adjustable. There is also a reflective logo on the front and back which comes quite handy during night hikes.
-
-### Arcteryx Incendo Hoody
-
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GW7ZHG2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZHG2&linkCode=as2&tag=hikeve-20&linkId=TRAIMP6VVV2WPE4A"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7ZHG2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7ZHG2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Weight:** 130 grams   
-**Fabric:** Luminara—Stretch nylon ripstop    
-**Awards:** Best On Test - Outdoor Fitness Magazine (UK)   
-
-The Arcteryx Incendo Hoody has breathable mesh panels under the arms, a hood and a full front zip. It also features an internal MP3 pocket with audio ports, a side stow pocket and reflective blazes.
-
-
-### Arcteryx Squamish Hoody
-
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00G9HPWU6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G9HPWU6&linkCode=as2&tag=hikeve-20&linkId=BWQUNX6BXF6UDSMC"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00G9HPWU6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00G9HPWU6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Weight:** 155 grams   
-**Fabric:** Luminara—Stretch nylon ripstop   
-**Awards:** Outdoor Gear Lab Editors Choice   
-
-The Arcteryx Squamish Hoody comes with a hood, full front zip and a front pocket. This jacket also has cuff adjusters and a reflective logo.
-
-
-### Mountain Hardwear Ghost Whisperer Hooded Jacket
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00DH44IEU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DH44IEU&linkCode=as2&tag=hikeve-20&linkId=4GK24YGHCR22L4NQ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DH44IEU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DH44IEU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Weight:** 59 grams   
-**Fabric:** Whisperer 7D x 10D Ripstop   
-
-The Mountain Hardwear Ghost Whisperer Hooded Jacket is similar as the lighter Anorak model however it comes with a hood. In case of wind jackets I would go for a hooded model on your next hiking trips. Our Editor's Choice when low weight should be the most important factor.
