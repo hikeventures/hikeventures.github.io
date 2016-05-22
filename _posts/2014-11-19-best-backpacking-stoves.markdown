@@ -15,8 +15,7 @@ A portable and lightweight camping stove is one of the most essential item to ha
 
 Konstantin with the [Jetboil Sol Ti](http://hikeventures.com/gear-review-jetboil-sol-ti/ "Jetboil Sol Ti") in [Sarek National Park](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Sarek National Park") in Sweden.
 
-
-### MSR MicroRocket
+### [MSR MicroRocket](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00F0BSDO4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F0BSDO4&linkCode=as2&tag=hikeve-20&linkId=GXQ24IC7MGCK4GWX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00F0BSDO4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00F0BSDO4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -26,7 +25,9 @@ Konstantin with the [Jetboil Sol Ti](http://hikeventures.com/gear-review-jetboil
 
 The MSR MicroRocket is the lightest stove in our list. If saving weight has your highest priority and you want to use a gas stove then you should go for the MSR MicroRocket.
 
-### MSR WindPro II
+<a href="http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the MSR MicroRocket</button></a>  
+
+### [MSR WindPro II](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B005I6PNZS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005I6PNZS&linkCode=as2&tag=hikeve-20&linkId=NCXX5MK756QD4MWS"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005I6PNZS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005I6PNZS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />   
 
@@ -36,8 +37,9 @@ The MSR MicroRocket is the lightest stove in our list. If saving weight has your
 
 The MSR WindPro II is a nice stove for those who want to have the burner separated which gives more stability but also the possibility to keep the gas canister warm in colder temperatures.
 
+<a href="http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the MSR WindPro II</button></a>  
 
-### Jetboil Flash
+### [Jetboil Flash](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B002N18PHO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002N18PHO&linkCode=as2&tag=hikeve-20&linkId=BDKQURIJ7SHGUV2E"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002N18PHO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B002N18PHO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -48,8 +50,9 @@ The MSR WindPro II is a nice stove for those who want to have the burner separat
 
 The MSR Flash offers a push-button igniter and a heat indicator. The Jetboil Flash is suitable as a 2 person stove. If you travel solo have a look at the other stoves below.
 
+<a href="http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Jetboil Flash</button></a>  
 
-### Jetboil MiniMo
+### [Jetboil MiniMo](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens)
 
 <a  href="http://www.amazon.com/gp/product/B00KXP7CUI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KXP7CUI&linkCode=as2&tag=hikeve-20&linkId=63NECFHTZ3EYX64N"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00KXP7CUI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00KXP7CUI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -59,8 +62,9 @@ The MSR Flash offers a push-button igniter and a heat indicator. The Jetboil Fla
 
 The Jetboil MiniMo o stove offers you one of the best simmer control, metal handles, and a low spoon angle for easy eating. The bottom cover can also be used as a bowl. As a whole product the Jetboil MiniMo might be a nice solution and not even that heavy considering that it offers 2 products in one (stove and bowl).
 
+<a href="http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Jetboil MiniMo</button></a>  
 
-### MSR WindBoiler 
+### [MSR WindBoiler](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00NPPWOJ2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NPPWOJ2&linkCode=as2&tag=hikeve-20&linkId=G7LF7ACULXJOSCLX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00NPPWOJ2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00NPPWOJ2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -70,7 +74,9 @@ The Jetboil MiniMo o stove offers you one of the best simmer control, metal hand
 
 The MSR WindBoiler is the latest addition on the stove market from MSR. This stove is marketed to operate very well under windy conditions. The MSR Windboiler is currently our favourite stove on our trips (for 2 person) even so it weights a little bit more than the other stoves. If you are traveling alone then the Jetboil MiniMo (see below) might be a good alternative.
 
-### MSR XGK EX
+<a href="http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the MSR WindBoiler</button></a>  
+
+### [MSR XGK EX](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens)
 
 <a  href="http://www.amazon.com/gp/product/B000EUMKFO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000EUMKFO&linkCode=as2&tag=hikeve-20&linkId=VXEWELGDXLVW6BJU"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000EUMKFO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B000EUMKFO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -79,6 +85,10 @@ The MSR WindBoiler is the latest addition on the stove market from MSR. This sto
 **Fuel:** Multiple   
 
 The MSR XGK EX is probably the best choice if you need a stove which can handle multiple fuels in extreme conditions.
+
+<a href="http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the MSR XGK EX</button></a>  
+
+---
 
 ## Deals
 <div class="row">
@@ -89,6 +99,7 @@ The MSR XGK EX is probably the best choice if you need a stove which can handle 
   </div>
 </div>
 
+---
    
    
 ## How to choose the best camping stove?
