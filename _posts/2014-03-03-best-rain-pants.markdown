@@ -51,7 +51,7 @@ The Mountain Hardwear Plasmic Pants are slightly more heavy than the Montane pan
 **Weight:** 225 grams   
 **Fabric:** GORE-TEX PacLite 
 
-The Haglöfs L.I.M. III pants are part of Haglöfs Ultralight product range and quite popular in Scandinavia. The zippers on the legs help to put those pants on while wearing shoes.
+The Haglöfs L.I.M. III pants are part of Haglöfs Ultralight product range and quite popular in Scandinavia. The zippers on the legs help to put those pants on while wearing hiking boots.
 
 <a href="http://www.backcountry.com/haglfs-l.i.m.-iii-pant-mens"><button type="button" class="btn btn-danger">Read more about the Haglöfs L.I.M. III pants</button></a>  
 
