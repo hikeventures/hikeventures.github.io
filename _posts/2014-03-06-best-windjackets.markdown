@@ -46,6 +46,17 @@ The Arcteryx Incendo Hoody has breathable mesh panels under the arms, a hood and
 
 <a href="https://www.rei.com/product/895292/arcteryx-incendo-hoodie-mens"><button type="button" class="btn btn-danger">Read more about the Arcteryx Incendo Hoody</button></a>  
 
+### [The North Face Fuseform Eragon](http://www.backcountry.com/the-north-face-fuseform-eragon-wind-jacket-mens)
+
+<a  href="http://www.amazon.com/gp/product/B015940COK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B015940COK&linkCode=as2&tag=hikeve-20&linkId=BJU5MZ2MPTNXIRPE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B015940COK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B015940COK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight:** 140 grams   
+**Fabric:** WindWall (100% nylon)
+
+The North Face Fuseform Eragon has fewer seams and a streamlined, Alpine-specific fit.
+
+<a href="http://www.backcountry.com/the-north-face-fuseform-eragon-wind-jacket-mens"><button type="button" class="btn btn-danger">Read more about the The North Face Fuseform Eragon</button></a> 
+
 ### [Arcteryx Squamish Hoody](http://www.backcountry.com/arcteryx-squamish-hooded-jacket-mens)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00G9HPWU6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G9HPWU6&linkCode=as2&tag=hikeve-20&linkId=BWQUNX6BXF6UDSMC"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00G9HPWU6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00G9HPWU6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -58,24 +69,13 @@ The Arcteryx Squamish Hoody comes with a hood, full front zip and a front pocket
 
 <a href="http://www.backcountry.com/arcteryx-squamish-hooded-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Arcteryx Squamish Hoody</button></a>  
 
-### [Outdoor Research Helium II Rain Jacket](https://www.rei.com/product/846522/outdoor-research-helium-ii-rain-jacket-mens)
-
-<a  href="http://www.amazon.com/gp/product/B005BV87WQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005BV87WQ&linkCode=as2&tag=hikeve-20&linkId=VVLZ4Y37FE2AJ5RZ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005BV87WQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005BV87WQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Weight:** 180 grams   
-**Fabric:** Pertex Shield+ 2.5L, 100% nylon 30D ripstop 
-
-Outdoor Research Helium II Rain Jacket is also a quite popular wind breaker.
-
-<a href="https://www.rei.com/product/846522/outdoor-research-helium-ii-rain-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Outdoor Research Helium II Rain Jacket</button></a>  
-
 ---
 
 ## Discounts
 <div class="row">
   <div class="col-sm-12">
 <center>
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=wind jacket men AND the north face OR wind jacket men AND Columbia OR wind jacket men AND Westcomb OR wind jacket men AND Mountain Hardwear OR wind jacket men AND Montane OR wind jacket men AND Berghaus OR wind jacket men AND Rab&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_price_minimum=50&search_on_sale_only=1&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
+ <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=wind AND jacket&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_price_minimum=50&search_on_sale_only=1&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
 </center>
   </div>
 </div>
