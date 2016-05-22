@@ -58,16 +58,16 @@ The Arcteryx Squamish Hoody comes with a hood, full front zip and a front pocket
 
 <a href="http://www.backcountry.com/arcteryx-squamish-hooded-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Arcteryx Squamish Hoody</button></a>  
 
-### [Mountain Hardwear Ghost Whisperer Hooded Jacket](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens)
+### [Outdoor Research Helium II Rain Jacket](https://www.rei.com/product/846522/outdoor-research-helium-ii-rain-jacket-mens)
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00DH44IEU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DH44IEU&linkCode=as2&tag=hikeve-20&linkId=4GK24YGHCR22L4NQ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DH44IEU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DH44IEU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="http://www.amazon.com/gp/product/B005BV87WQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005BV87WQ&linkCode=as2&tag=hikeve-20&linkId=VVLZ4Y37FE2AJ5RZ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005BV87WQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005BV87WQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 59 grams   
-**Fabric:** Whisperer 7D x 10D Ripstop   
+**Weight:** 180 grams   
+**Fabric:** Pertex Shield+ 2.5L, 100% nylon 30D ripstop 
 
-The Mountain Hardwear Ghost Whisperer Hooded Jacket is similar as the lighter Anorak model however it comes with a hood. In case of wind jackets I would go for a hooded model on your next hiking trips. Our Editor's Choice when low weight should be the most important factor.
+Outdoor Research Helium II Rain Jacket is also a quite popular wind breaker.
 
-<a href="http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Mountain Hardwear Ghost Whisperer Hooded Jacket</button></a>  
+<a href="https://www.rei.com/product/846522/outdoor-research-helium-ii-rain-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Outdoor Research Helium II Rain Jacket</button></a>  
 
 ---
 
@@ -81,3 +81,6 @@ The Mountain Hardwear Ghost Whisperer Hooded Jacket is similar as the lighter An
 </div>
 
 ---
+
+## Conclusion
+There is probably not much difference between the wind breakers in my buying guide about the best wind jackets and it's more about your own preference towards color and brand. I am wearing the[Arcteryx Squamish Hoody](http://www.backcountry.com/arcteryx-squamish-hooded-jacket-mens) since years and I am quite happy with it. Konstantin just recently got a [Patagonia Houdini](https://www.rei.com/product/893303/patagonia-houdini-jacket-mens) and is also very pleased with it.
