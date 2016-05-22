@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The 5 Best Rain Pants for 2016
+title: The 6 Best Rain Pants for 2016
 date: 2015-02-08 09:13:12 +0200
 comments: true
 description: Top 6 of the best Waterproof pants 2016 which protects you during your outdoor adventures.
@@ -44,6 +44,16 @@ The Montane Atomic Pants are a bit more durable than the Montane Minimus Pants b
 The Mountain Hardwear Plasmic Pants are slightly more heavy than the Montane pants but they come with some additional features. These pants have articulated knees which increases your mobility and also a bag with a zipper where you can store small items. If you need to have a pocket on your waterproof pants then go for this model.
 
 <a href="http://www.backcountry.com/mountain-hardwear-plasmic-pant-mens"><button type="button" class="btn btn-danger">Read more about the Mountain Hardwear Plasmic Pant</button></a>  
+
+
+### [Haglöfs L.I.M. III pants](http://www.backcountry.com/haglfs-l.i.m.-iii-pant-mens)
+
+**Weight:** 225 grams   
+**Fabric:** GORE-TEX PacLite 
+
+The Haglöfs L.I.M. III pants are part of Haglöfs Ultralight product range and quite popular in Scandinavia. The zippers on the legs help to put those pants on while wearing shoes.
+
+<a href="http://www.backcountry.com/haglfs-l.i.m.-iii-pant-mens"><button type="button" class="btn btn-danger">Read more about the Haglöfs L.I.M. III pants</button></a>  
 
 ### [Arcteryx Beta SL Pants](http://www.backcountry.com/arcteryx-beta-sl-pant-mens)
 
