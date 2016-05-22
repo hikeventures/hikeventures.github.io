@@ -22,6 +22,7 @@ A wind jacket is much lighter and you won't sweat that much in it compared to a 
 In the evenings while sitting in the camp I then swap my [fleece](http://www.hikeventures.com/best-fleece-jackets/ "Fleece Jackets") and wind jacket combo with a [down jacket](#) which keeps me warm when I am sitting around.
 
 ---
+
 ### [Patagonia Houdini](https://www.rei.com/product/893303/patagonia-houdini-jacket-mens)
 
 <a  href="http://www.amazon.com/gp/product/B01ANCS38K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01ANCS38K&linkCode=as2&tag=hikeve-20&linkId=BOE3T2FI3DGVW7LR"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01ANCS38K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B01ANCS38K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
