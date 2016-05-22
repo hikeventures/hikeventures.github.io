@@ -14,17 +14,7 @@ On the picture above I am walking with my Tubbs Xpedition snowshoes in [Finnish 
  
 Considering your own body and gear weight is important when choosing snow shoes. The more weight you want to carry the bigger the surface of the snowshoe should be. Also look at the size of the crampons and if the binding is suitable / durable or if you prefer fixed-rotation or full-rotation bindings.
 
-## Deals
-<div class="row">
-  <div class="col-sm-12">
-<center>
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=snowshoe&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
-</center>
-  </div>
-</div>
-<br> 
-
-### MSR Lightning Ascent 25
+### [MSR Lightning Ascent 25](http://www.backcountry.com/msr-lightning-ascent)
 
 <a href="http://www.amazon.com/gp/product/B00LFJNHQ4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNHQ4&linkCode=as2&tag=hikeve-20&linkId=YIDJETI36CMR7GF4"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJNHQ4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJNHQ4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -32,15 +22,15 @@ Considering your own body and gear weight is important when choosing snow shoes.
 **application:** mountain   
 **awards:** Outdoor Gearlab Editors' Choice    
 
-- The MSR Lightning Ascent is our favourite snowshoe (pick the MSR Revo Ascent below if you are looking for a more durable version).
-- Ergo Televators   
-- PosiLock AT bindings - MSR's most secure, freeze-resistant attachment   
-- Optional, 5-inch (13-cm) tails for improved flotation   
-- Torsion2 crampons
+* The MSR Lightning Ascent is our favourite snowshoe (pick the MSR Revo Ascent below if you are looking for a more durable version).
+* Ergo Televators   
+* PosiLock AT bindings - MSR's most secure, freeze-resistant attachment   
+* Optional, 5-inch (13-cm) tails for improved flotation   
+* Torsion2 crampons
 
+<a href="http://www.backcountry.com/msr-lightning-ascent"><button type="button" class="btn btn-danger">Read more about the MSR Lightning Ascent 25</button></a>  
    
-   
-### Tubbs Men's FLEX VRT 24
+### [Tubbs FLEX VRT 24](http://www.moosejaw.com/moosejaw/shop/product_Tubbs-Men-s-Flex-VRT-Snowshoe_10259131_10208_10000001_-1_)
 
 <a href="http://www.amazon.com/gp/product/B00Q904HD6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q904HD6&linkCode=as2&tag=hikeve-20&linkId=775ITK4RI5T2U3CQ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q904HD6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q904HD6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -48,13 +38,13 @@ Considering your own body and gear weight is important when choosing snow shoes.
 **application:** mountain   
 **awards:** ISPO Award 2014/2015   
 
-- Viper 2.0 carbon steel toe crampon   
-- DYNAMICFIT BINDING
-- FLEXTail
+* Viper 2.0 carbon steel toe crampon   
+* DYNAMICFIT BINDING
+* FLEXTail
 
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Tubbs-Men-s-Flex-VRT-Snowshoe_10259131_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Tubbs Men's FLEX VRT 24</button></a>  
   
-  
-### Atlas Race 22
+### [Atlas Race 22](http://www.moosejaw.com/moosejaw/shop/product_Atlas-Snow-Race-Snowshoe_10202841_10208_10000001_-1_)
 
 <a href="http://www.amazon.com/gp/product/B007F9BTPE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007F9BTPE&linkCode=as2&tag=hikeve-20&linkId=JBGK6MDC2HPRRMDZ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007F9BTPE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B007F9BTPE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -62,51 +52,66 @@ Considering your own body and gear weight is important when choosing snow shoes.
 **application:** running   
 **awards:** Outside Magazine Gear of the Year Award Winner 2013
 
-- The Atlas Race is the lightest snowshoe in our list.
-- Titanium toe and heel crampon
+* The Atlas Race is the lightest snowshoe in our list.
+* Titanium toe and heel crampon
 
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Atlas-Snow-Race-Snowshoe_10202841_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Atlas Race 22</button></a>  
   
-  
-### MSR Lightning Explore 25
+### [MSR Lightning Explore 25](http://www.backcountry.com/msr-lightning-explore-snowshoe-mens)
 
 <a href="http://www.amazon.com/gp/product/B00LFJNWGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNWGO&linkCode=as2&tag=hikeve-20&linkId=5DOFWDAR6SHYQAWV"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJNWGO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJNWGO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **weight:** 1870 grams   
 **application:** mountain   
 
-- Pivot crampons   
-- Axis Gait Technology   
-- HyperLink binding   
-- Ergo Televators   
-- Optional, 5-inch (13-cm) tails for improved flotation
-  
-  
-### MSR Revo Ascent 25
+* Pivot crampons   
+* Axis Gait Technology   
+* HyperLink binding   
+* Ergo Televators   
+* Optional, 5-inch (13-cm) tails for improved flotation
+ 
+<a href="http://www.backcountry.com/msr-lightning-explore-snowshoe-mens"><button type="button" class="btn btn-danger">Read more about the MSR Lightning Explore 25</button></a>  
+ 
+### [MSR Revo Ascent 25](http://www.backcountry.com/msr-revo-ascent-snowshoe-mens)
 
 <a href="http://www.amazon.com/gp/product/B00LFJO5NI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJO5NI&linkCode=as2&tag=hikeve-20&linkId=ADHSRTEBIYMKSWHX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJO5NI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJO5NI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **weight:** 1970 grams   
 **application:** mountain  
 
-- Split teeth of Torsion2 crampons
-- PosiLock AT bindings
-- Ergo Televators
-- Optional, 5-inch (13-cm) tails for improved flotation
+* Split teeth of Torsion2 crampons
+* PosiLock AT bindings
+* Ergo Televators
+* Optional, 5-inch (13-cm) tails for improved flotation
 
+<a href="http://www.backcountry.com/msr-revo-ascent-snowshoe-mens"><button type="button" class="btn btn-danger">Read more about the MSR Revo Ascent 25</button></a>  
   
   
-
-### Tubbs Men's Xpedition 25
+### [Tubbs Xpedition 25](http://www.backcountry.com/tubbs-xpedition-snowshoe-mens)
 
 <a href="http://www.amazon.com/gp/product/B00ECPPX8S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ECPPX8S&linkCode=as2&tag=hikeve-20&linkId=HCYZ4YFLRZOVRSLA"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ECPPX8S&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00ECPPX8S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **weight:** 2090 grams   
 **application:** mountain 
 
-- ReAct binding   
-- Carbon steel Cobra toe crampon   
-- Grappler heel cleat  
+* ReAct binding   
+* Carbon steel Cobra toe crampon   
+* Grappler heel cleat  
 
+<a href="http://www.backcountry.com/tubbs-xpedition-snowshoe-mens"><button type="button" class="btn btn-danger">Read more about the Tubbs Men's Xpedition 25</button></a>  
+
+---
+
+## Discounts
+<div class="row">
+  <div class="col-sm-12">
+<center>
+ <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=snowshoe&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
+</center>
+  </div>
+</div>
+
+---
 
 ## What makes a good snowshoe
 
