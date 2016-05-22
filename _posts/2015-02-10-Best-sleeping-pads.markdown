@@ -12,55 +12,9 @@ tags: [reviews, sleeping pads, best]
 In this blog post you can find the best sleeping pads which are available in 2016. I have sorted my list according to the weight of the sleeping pads and also indicated the R-value of the sleeping pads so you can choose the one which would be most suitable for your next outdoor adventure. From my selection of the best sleeping pads I have only tested the Therm-a-Rest NeoAir XTherm, Therm-a-Rest Evolite and the Exped SYNMAT UL 7 M (you can [see](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) the SYNMAT UL 7 M in action on our hiking and packrafting trip in the Swedish Mountains).
 
 <a href="https://www.flickr.com/photos/90204224@N07/9599003854" title="Best sleeping pads 2016"><img src="https://c1.staticflickr.com/3/2882/9599003854_415a4828f0_o.jpg" width="992" height="661" alt="Best sleeping pads in 2016"></a><a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/"></a><!--more-->
-
-
-## Deals
-<div class="row">
-  <div class="col-sm-12">
-<center>
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=sleeping pad  AND therm-a-rest OR sleeping pad  AND big agnes OR sleeping pad  AND msr OR sleeping pad  AND exped OR sleeping pad  AND klymit OR sleeping pad  AND sea to summit&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
-</center>
-  </div>
-</div>
-<br>
   
 <img src="https://farm6.staticflickr.com/5590/14925237036_4743bca2f4_b.jpg" width="1024" height="683" alt="Exped Synmat UL 7">
 Exped Synmat UL 7
-
-
-## Factors determining the best sleeping pad
-* Weight (do you want an ultralight sleeping pad?)
-* Size (does it need to pack small?)
-* Pad for summer, winter, or 4-season?
-* Sleeping area (do I need a bigger size because I am a big guy?)
-* Ease of inflate / deflate
-* Is weight more important to me than comfort?
-* Durability (a thinner fabric may be less durable / may not be that puncture resistant)
-* Do I want to have a  inflatable mattress, a self-inflating pad or a camping foam?
-* Are the edges of the pad supportive?
-* Does the pad slip easily in the tent?
-* Does the pad make noise when I sleep on it (ear plugs might help)?
-
-
-## R-value and Season
-The R-value of a Sleeping Pad indicates the thermal resistance of a sleeping pad. The higher the R-Value the more the sleeping pad is capable to keep you warm during cold nights. For summer and late spring / early autumn I would opt for a sleeping pad with an R-value between 2.0-3.0 depending on the location. For winter camping I would rather go for a sleeping pad with an R-Value of around 5 or more. I have a sleeping pad with an R-value of 3.3 which I have tested at around 0 degree Celsius during the night and I felt the cold. I guess that a sleeping pad with a R-value of around 4 would have been more suitable for this temperature.
-
-
-## Durability and Weight
-Another consideration when choosing a sleeping pad is the durability which is especially important when you go hiking in remote areas. I prefer to take a more heavier and durable 
-sleeping pad with me rather than waking up in the night with a puncture in my sleeping pad. If you are looking for the lightest sleeping pad with the highest R-Value then the Therm-a-Rest NeoAir XTherm Sleeping Pad should be a good choice. At least I would choose it as my go-to sleeping pad. 
-
-
-## Repair Kit
-A good sleeping pad also comes with a repair kit. You don't want to be in the wilderness just to realise in the middle of your trip that you won't be able to use your sleeping pad anymore. If you want to be on the safe side then you could also use a foam pad (e.g. the Therm-a-rest Z LITE SOL) instead of an inflatable sleeping pad or a combination of both depending if you go for summer or winter camping.
-
-
-## Personal experience
-Personally, I found my Therm-a-Rest NeoAir XTherm more comfortable than my EXPED SYNMAT UL 7 M and it insulates more while being lighter. I found the Therm-a-rest more comfortable because of it's surface pattern. I just don't get along with those vertically grooves on the EXPED. I also found that the Therm-a-rest is more stable to sleep on. Having said that, it's still possible to sleep on the EXPED depending on your own preference. Below the surface of the EXPED Synmat UL 7 M compared to the Therm-a-Rest NeoAir XTherm. 
-
-However, the Therm-a-Rest NeoAir XTherm is a bit more expensive than the SYNMAT UL 7 M. What I like on the SYNMAT is that it is easy to inflate and deflate. For the Therm-a-rest it took me a couple of seconds longer because of the smaller valve compared to the EXPED. Since I found the Therm-a-Rest NeoAir XTherm a reference model for cold temperatures, I didn't include any other sleeping pads which are more heavy except the Therm-a-Rest EvoLite since it is a self-inflating pad for the warmer months.
-
-
 
 <div class="table-responsive">
 <table class="table">
@@ -107,3 +61,47 @@ However, the Therm-a-Rest NeoAir XTherm is a bit more expensive than the SYNMAT 
 <td width="10%"><a href="http://www.hikeventures.com/deals/#evolite"><button class="btn btn-danger">Compare prices</button></a></td>
 </tr></table></div>
 
+---
+
+## Discounts
+<div class="row">
+  <div class="col-sm-12">
+<center>
+ <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=sleeping pad  AND therm-a-rest OR sleeping pad  AND big agnes OR sleeping pad  AND msr OR sleeping pad  AND exped OR sleeping pad  AND klymit OR sleeping pad  AND sea to summit&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
+</center>
+  </div>
+</div>
+
+---
+
+## Factors determining the best sleeping pad
+* Weight (do you want an ultralight sleeping pad?)
+* Size (does it need to pack small?)
+* Pad for summer, winter, or 4-season?
+* Sleeping area (do I need a bigger size because I am a big guy?)
+* Ease of inflate / deflate
+* Is weight more important to me than comfort?
+* Durability (a thinner fabric may be less durable / may not be that puncture resistant)
+* Do I want to have a  inflatable mattress, a self-inflating pad or a camping foam?
+* Are the edges of the pad supportive?
+* Does the pad slip easily in the tent?
+* Does the pad make noise when I sleep on it (ear plugs might help)?
+
+
+## R-value and Season
+The R-value of a Sleeping Pad indicates the thermal resistance of a sleeping pad. The higher the R-Value the more the sleeping pad is capable to keep you warm during cold nights. For summer and late spring / early autumn I would opt for a sleeping pad with an R-value between 2.0-3.0 depending on the location. For winter camping I would rather go for a sleeping pad with an R-Value of around 5 or more. I have a sleeping pad with an R-value of 3.3 which I have tested at around 0 degree Celsius during the night and I felt the cold. I guess that a sleeping pad with a R-value of around 4 would have been more suitable for this temperature.
+
+
+## Durability and Weight
+Another consideration when choosing a sleeping pad is the durability which is especially important when you go hiking in remote areas. I prefer to take a more heavier and durable 
+sleeping pad with me rather than waking up in the night with a puncture in my sleeping pad. If you are looking for the lightest sleeping pad with the highest R-Value then the Therm-a-Rest NeoAir XTherm Sleeping Pad should be a good choice. At least I would choose it as my go-to sleeping pad. 
+
+
+## Repair Kit
+A good sleeping pad also comes with a repair kit. You don't want to be in the wilderness just to realise in the middle of your trip that you won't be able to use your sleeping pad anymore. If you want to be on the safe side then you could also use a foam pad (e.g. the Therm-a-rest Z LITE SOL) instead of an inflatable sleeping pad or a combination of both depending if you go for summer or winter camping.
+
+
+## Personal experience
+Personally, I found my Therm-a-Rest NeoAir XTherm more comfortable than my EXPED SYNMAT UL 7 M and it insulates more while being lighter. I found the Therm-a-rest more comfortable because of it's surface pattern. I just don't get along with those vertically grooves on the EXPED. I also found that the Therm-a-rest is more stable to sleep on. Having said that, it's still possible to sleep on the EXPED depending on your own preference. Below the surface of the EXPED Synmat UL 7 M compared to the Therm-a-Rest NeoAir XTherm. 
+
+However, the Therm-a-Rest NeoAir XTherm is a bit more expensive than the SYNMAT UL 7 M. What I like on the SYNMAT is that it is easy to inflate and deflate. For the Therm-a-rest it took me a couple of seconds longer because of the smaller valve compared to the EXPED. Since I found the Therm-a-Rest NeoAir XTherm a reference model for cold temperatures, I didn't include any other sleeping pads which are more heavy except the Therm-a-Rest EvoLite since it is a self-inflating pad for the warmer months.
