@@ -13,7 +13,7 @@ Planning to go hiking, backpacking, running, cycling, mountaineering or on any o
 
 <!--more-->
 
-Konstantin wearing the Montane Minimus Jacket on our [trip](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Rain Jacket in Sarek Nationak Park") in the Sarek National Park in Sweden.
+Konstantin wearing the Montane Minimus Jacket on our [trip](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Rain Jacket in Sarek Nationak Park") in the Sarek National Park in Sweden - also considered of being one of the last wilderness areas in Europe.
 
 You might want to wear your waterproof jacket only occasionally e.g. if it starts raining or if it gets very windy but you will appreciate to stay dry and warm on the trail or if you perform any other outdoor activities in the long run.  Also consider taking lightweight waterproof [rain pants](http://www.hikeventures.com/best-rain-pants/ "Best Rain Pants 2016") with you.
 
