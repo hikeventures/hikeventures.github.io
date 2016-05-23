@@ -3,6 +3,7 @@ layout: post
 title: Julbo Swell Review
 date: 2016-05-23 19:00 +0300
 comments: true
+published: true
 category: reviews
 tags: [reviews, julbo, glasses]
 description: Our review on the Julbo Swell
