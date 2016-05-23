@@ -138,6 +138,12 @@ One of the brave ones who managed the Hogförsen rapid.
        
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26949413436/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7712/26949413436_d984c40cd1_b.jpg" width="1024" height="628" alt="Swedish Packrafting Round Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a href="http://www.urbanpackrafter.com">Jacob enjoying the Hogförsen rapid</a>.
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="//www.youtube.com/embed/fT_RfNNECA4"></iframe>
+</div>
+
 After the rapid is time to enjoy the nature and to relax.
        
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26888501962/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7170/26888501962_67d259be88_b.jpg" width="1024" height="681" alt="Swedish Packrafting Round Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
