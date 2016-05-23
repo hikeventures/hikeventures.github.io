@@ -9,10 +9,18 @@ category: articles
 tags: [articles, gloves, best]
 ---
 
+For my next snowshoeing trip in Lapland I was looking for a new pair of gloves or mittens to replace my old gloves which were "nothing special" compared to the ones presented in this buying guide.
+
+It always takes time to find the right product and everyone has a different taste on features or design so I decided to come up with a list of winter gloves / mittens from different brands which received good recommendations.
+
 ## Gloves or Mittens?
+Gloves give you more dexterity (that's the magic selling word in the world of goves manufactures) than mittens. However, mittens keep your fingers warmer than gloves.
 
+Gloves and mittens allow you to layer. Layering is an important aspect for everyone interested in outdoor activities and a liner glove can be regarded as the underwear for your fingers. If you need additional warmth add a merino liner glove under your regular glove and your fingers will feel warmer.
 
+There is also an option from Hestra available - the [Hestra Army Leather Heli 3-Finger Glove](http://www.backcountry.com/hestra-heli-3-finger-glove "Hestra Army Leather Heli 3-Finger Glove") - which sits in between mitts and gloves are probably also a good option for example if you need to handle a camera. This model is my favourite model of all gloves in this list. 
 
+However, you can also just take your main gloves off and operate your camera by just wearing the liner gloves. Once you have taken your picture you just put your main gloves back over the merino liner gloves.  
 
 ## Best Mittens for Skiing, Snowboarding or Snowshoeing
 
