@@ -3,7 +3,6 @@ layout: post
 title: Julbo Swell Review
 date: 2016-05-23 19:00 +0300
 comments: true
-published: false
 category: reviews
 tags: [reviews, julbo, glasses]
 description: Our review on the Julbo Swell
@@ -45,7 +44,7 @@ The curved temples and the adjusable cord on the Julbo Swell provide a good hold
 
 The wrap-around + style which was featured also promised to be true. I hardly had any issues with disturbing light shining through the edges of the Julbo Swell.
 
-The Octopus lenses were also new to me and this lens feature was also quite useful especially when you paddle from a brighter spot on the river to shadowy place. The lens automatically adjusts the amount of light (photochromic) it let's through depending on the light which reaches the lens. The Octopus lens is also a water-repellent and polarizing lens especially developed for all water sports which were also useful while paddling on the river.
+The Octopus lenses were also new to me and this lens feature was also quite useful especially when you paddle from a brighter spot on the river to shadowy place. The lens automatically adjusts the amount of light (photochromic) it let's through depending on the light which reaches the lens. The Octopus lens is also a water-repellent and polarizing lens especially developed for all water sports which were also useful while paddling on the river and my glasses were cleaner during the packrafting trip than with regular lenses.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27055196146/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7422/27055196146_582552d20c_b.jpg" width="1024" height="601" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -62,6 +61,8 @@ The lens comes with a stuff sack which can be used to clean the lenses and a har
 The Julbo Swell is also suitable for prescription lenses as a RX Trem version. There is also a Julbo Swell available with a polarized 3 lenses.
 
 ---
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27101083392/in/dateposted-public/" title="Julbo Swell"><img src="https://farm8.staticflickr.com/7431/27101083392_95b30b9dc0_b.jpg" width="1024" height="768" alt="Julbo Swell"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Conclusion
 The Julbo Swell checked all boxes which I had from a packrafting sunglass. The Julbo Swell is super light and very comfortable to wear. 
