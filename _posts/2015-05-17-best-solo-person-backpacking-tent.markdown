@@ -162,7 +162,7 @@ The Hilleberg Nallo is probably the best choice if you want a 4-season tent whic
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26835366172/in/dateposted-public/" title="Hyperlite Mountain Gear Tent &amp; Ultamid Tarp"><img src="https://farm8.staticflickr.com/7432/26835366172_4b9630972f_b.jpg" width="1024" height="723" alt="Hyperlite Mountain Gear Tent &amp; Ultamid Tarp"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Length:** 271.8 cm   
-**Width:v 210.8 cm   
+**Width:** 210.8 cm   
 **Height:** 162.6 cm   
 **Weight:** 499 grams    
 **Fabric:** Dyneema® (Cuben Fiber)
