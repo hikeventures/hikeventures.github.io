@@ -14,12 +14,10 @@ After having had my old sunglasses for over 3 years I thought it was time to upg
 
 <!--more-->
 
----
 
 ## Alternatives
 Alternatives to the Julbo Swell which I would have considered as packrafting sun glasses are the brand new Julbo Race 2.0  Nautic which Konstantin is going to review for HikeVentures within the next weeks and the Suunto Wave which is a few grams heavier than the Julbo Swell but features a natural front air flow.
 
----
 
 ## Features
 **Weight:** 28 grams
@@ -28,7 +26,6 @@ Alternatives to the Julbo Swell which I would have considered as packrafting sun
 **Strap:** adjustable
 **Temples:** curved
 
----
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26873718832/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7213/26873718832_c77a751c32_b.jpg" width="1024" height="875" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -51,17 +48,14 @@ The Octopus lenses were also new to me and this lens feature was also quite usef
 
 Sun glasses for packrafting need to stay on your face even when the rapid gets rough.
 
----
 
 ## Packaging
 The lens comes with a stuff sack which can be used to clean the lenses and a hard cover box.
 
----
 
 ## Variations
 The Julbo Swell is also suitable for prescription lenses as a RX Trem version. There is also a Julbo Swell available with a polarized 3 lenses.
 
----
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27101083392/in/dateposted-public/" title="Julbo Swell"><img src="https://farm8.staticflickr.com/7431/27101083392_95b30b9dc0_b.jpg" width="1024" height="768" alt="Julbo Swell"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
