@@ -193,7 +193,7 @@ published: true
         
         
             <tr style="background:#EEEEEE;">
-            <td><strong>Tents & Sleeping bag</strong></td><td></td><td></td></tr><tr>
+            <td><strong>Tents & Sleeping bags</strong></td><td></td><td></td></tr><tr>
            <td><a href="http://hikeventures.com/cumulus-panyam-450">Cumulus Panyam 450</a></td>
             <td><a href="http://hikeventures.com/exped-synmat-ul-7">Exped SynMat UL 7</td>
             <td><a href="http://hikeventures.com/exped-air-pillow-ul">Exped Air Pillow UL</a></td>
