@@ -20,11 +20,11 @@ Alternatives to the Julbo Swell which I would have considered as packrafting sun
 
 
 ## Features
-**Weight:** 28 grams
-**Lens:** octopus lens cat. 2-4
-**Frame:** floating, blue-yellow, polypropylene
-**Strap:** adjustable
-**Temples:** curved
+**Weight:** 28 grams    
+**Lens:** octopus lens cat. 2-4    
+**Frame:** floating, blue-yellow, polypropylene    
+**Strap:** adjustable    
+**Temples:** curved    
 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26873718832/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7213/26873718832_c77a751c32_b.jpg" width="1024" height="875" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
