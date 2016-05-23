@@ -61,3 +61,5 @@ The Julbo Swell is also suitable for prescription lenses as a RX Trem version. T
 The Julbo Swell checked all boxes which I had from a packrafting sunglass. The Julbo Swell is super light and very comfortable to wear. 
 
 If I could think of something negative about the Julbo Swell then it would be that the lenses grew damp a few times since there are no openings on the lens where the air could circulate. Fortunately, the lens only grew damp two times during the whole trip and was not a major issue. I would recommend the Julbo Swell to anyone who is looking for light packrafting glasses with a fresh design.
+
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Julbo-Swell-Polarized-Sunglasses_10232525_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Julbo Swell</button></a>
