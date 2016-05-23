@@ -41,6 +41,10 @@ The next morning Konstantin prepared his breakfast sausage on our camp fire.
 While <a href="http://urbanpackrafter.com/">Jacob</a> enjoyed fresh beacon.
        
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26914515746/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7259/26914515746_0c3c39e7c0_b.jpg" width="1024" height="680" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+We also prepared some porridge with our MSR WindBurner stove.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26579901894/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7688/26579901894_67426bc555_b.jpg" width="1024" height="761" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
 After our breakfast we packed our gear and inflated our packrafts. Henrik gave another briefing about the trip and meeting points.
        
@@ -110,7 +114,7 @@ Where is the next rapid?
        
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26888501672/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7783/26888501672_5515ca4f22_b.jpg" width="1024" height="637" alt="Swedish Packrafting Round Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
-This is Patrick from HikeVentures. You probably won't see him on many pictures since he is the guy who has to take them. Thanks to <a href="http://caide.kuvat.fi/">Caj</a> who took this picture. Patrick also enjoy his new Julbo Swell sunglasses. They optics adapts itself according to the light and they can also float on the water which comes quite handy when going packrafting.
+This is Patrick from HikeVentures. You probably won't see him on many pictures since he is the guy who has to take them. Thanks to <a href="http://caide.kuvat.fi/">Caj</a> who took this picture. Patrick also enjoy his new Julbo Swell sunglasses. The glasses of the Julbo Swell can adapt to the light and they can also float on the water which comes quite handy when going packrafting.
        
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26873718832/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7213/26873718832_c77a751c32_b.jpg" width="1024" height="875" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
@@ -153,7 +157,11 @@ Lunch break at the dam.
  Konstantin seems to be quite happy in his banana boat while wearing his Julbo Race 2.0 sun glasses.
        
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26377303664/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7588/26377303664_ffed66a337_b.jpg" width="1024" height="681" alt="Swedish Packrafting Round Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-       
+
+Patrick enjoyed wearing his new Julbo Swell glasses. They were quite comfortable and light.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27152697396/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7346/27152697396_5c004ed994_b.jpg" width="1024" height="608" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
  Caj Koskinen on the Voxnan.
        
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26888502342/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7118/26888502342_25646e8511_b.jpg" width="1024" height="681" alt="Swedish Packrafting Round Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -229,6 +237,14 @@ Sometimes shit happens.
 After a long paddling day it was time to say good night and prepare for the next day.
        
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26917253041/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7698/26917253041_5a1ab4374d_b.jpg" width="1024" height="768" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Patrick enjoyed his breakfast ... porridge with apple and cinemon.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27117236211/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7435/27117236211_aee9dd55ee_b.jpg" width="1024" height="647" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+We have also spotted some pirates on the Voxnan.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27152698296/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7502/27152698296_29f002befe_b.jpg" width="982" height="1000" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
 The next day Konstantin, Caj and Jacob on the Voxnan again.
        
@@ -297,7 +313,11 @@ One more reason to go camping...
 The next day Jacob interviewed some of us for <a href="http://urbanpackrafter.com/">Urbanpackrafter.com</a>
         
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26917254451/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7568/26917254451_6aff36bd6f_b.jpg" width="1024" height="668" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-        
+
+We had a good sleep in our MSR Hubba Hubba NX.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27152697216/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7601/27152697216_f9d9ec905a_b.jpg" width="1024" height="768" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Konstantin packing. It's time to drive back to Stockholm where he has to catch the plane to Amsterdam. The following week he will paddle again ... in Belgium.
         
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26381632483/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7067/26381632483_2349087230_b.jpg" width="1024" height="698" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
