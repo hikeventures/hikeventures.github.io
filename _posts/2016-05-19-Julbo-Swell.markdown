@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Julbo Swell Review
-date: 2016-05-20 07:30 +0300
+date: 2016-05-23 19:00 +0300
 comments: true
 published: false
 category: reviews
@@ -9,6 +9,10 @@ tags: [reviews, julbo, glasses]
 description: Our review on the Julbo Swell
 ---
 After having had my old sunglasses for over 3 years I thought it was time to upgrade my sunglasses to a newer model. As [we interviewed Julbo on the ISPO 2016](https://www.youtube.com/watch?v=vdb3m52FdvM) in Munich I decided to have a look on their product range and came across the Julbo Swell which could become my new sun glasses for our packrafting trips.
+   
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27152697396/in/photolist-HdLXe5-HnoEX7-dKWT8w-dXZ33V-HaFrBx-GRud4u" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7346/27152697396_5c004ed994_b.jpg" width="1024" height="608" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<!--more-->
 
 ---
 
@@ -26,6 +30,10 @@ Alternatives to the Julbo Swell which I would have considered as packrafting sun
 
 ---
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26873718832/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7213/26873718832_c77a751c32_b.jpg" width="1024" height="875" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+The Julbo Swell features also a fresh and stylish design.
+
 ## Field Testing
 Julbo provided me with a brand new Julbo Swell with Octopus lenses to test it on our hiking and packrafting trips and  2 weeks ago I had the opportunity to test the Julbo Swell on the Swedish Packrafting Round-Up 2016 () on the Voxnan river in Sweden. 
 
@@ -33,11 +41,15 @@ We were actually quite lucky with the weather. The week before it was still cold
 
 The Julbo Swell is made from ultralight material to ensure that it floats on the water. This was one of the main features I was looking for in my new sun glasses as there are plenty of opportunities on a rapid to lose your sunglasses.
 
-The curved temples on the Julbo Swell provide a good hold on the face and head. Actually, the Julbo Swell never fell off by itself during the whole packrafting trip in Sweden.
+The curved temples and the adjusable cord on the Julbo Swell provide a good hold on the face and head. Actually, the Julbo Swell never fell off by itself during the whole packrafting trip in Sweden. 
 
-The wrap-around + style which was featured also promised to be true. I hardly had any issues with disturbing light shining through the eaches of the Julbo Swell.
+The wrap-around + style which was featured also promised to be true. I hardly had any issues with disturbing light shining through the edges of the Julbo Swell.
 
 The Octopus lenses were also new to me and this lens feature was also quite useful especially when you paddle from a brighter spot on the river to shadowy place. The lens automatically adjusts the amount of light (photochromic) it let's through depending on the light which reaches the lens. The Octopus lens is also a water-repellent and polarizing lens especially developed for all water sports which were also useful while paddling on the river.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27055196146/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7422/27055196146_582552d20c_b.jpg" width="1024" height="601" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Sun glasses for packrafting need to stay on your face even when the rapid gets rough.
 
 ---
 
