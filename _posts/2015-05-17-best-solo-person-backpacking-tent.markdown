@@ -15,7 +15,7 @@ Further, it's also worth to consider that a 1-person tent can be more heavy than
 
 <img src="https://c2.staticflickr.com/6/5600/15455033882_22ac28bbe8_b.jpg">
     
-A Hilleberg Nallo in the back and Hilleberg Anjan in the front.
+A Hilleberg Nallo in the back and a Hilleberg Anjan in the front.
 <!--more-->
 
 ### [Hilleberg Enan](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Enan-1-Person-Tent_10274355_10208_10000001_-1_)
