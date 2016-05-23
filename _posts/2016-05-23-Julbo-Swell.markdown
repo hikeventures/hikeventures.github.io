@@ -16,7 +16,7 @@ After having had my old sunglasses for over 3 years I thought it was time to upg
 
 
 ## Alternatives
-Alternatives to the Julbo Swell which I would have considered as packrafting sun glasses are the brand new Julbo Race 2.0  Nautic which Konstantin is going to review for HikeVentures within the next weeks and the Suunto Wave which is a few grams heavier than the Julbo Swell but features a natural front air flow.
+Alternatives to the Julbo Swell which I would have considered as packrafting sun glasses are the brand new Julbo Race 2.0  Nautic which Konstantin is going to review for HikeVentures within the next weeks and the Julbo Wave which is a few grams heavier than the Julbo Swell but features a natural front air flow.
 
 
 ## Features
