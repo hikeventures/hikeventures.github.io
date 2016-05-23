@@ -52,12 +52,10 @@ Sun glasses for packrafting need to stay on your face even when the rapid gets r
 ## Packaging
 The lens comes with a stuff sack which can be used to clean the lenses and a hard cover box.
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27101083392/in/dateposted-public/" title="Julbo Swell"><img src="https://farm8.staticflickr.com/7431/27101083392_95b30b9dc0_b.jpg" width="1024" height="768" alt="Julbo Swell"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Variations
 The Julbo Swell is also suitable for prescription lenses as a RX Trem version. There is also a Julbo Swell available with a polarized 3 lenses.
-
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27101083392/in/dateposted-public/" title="Julbo Swell"><img src="https://farm8.staticflickr.com/7431/27101083392_95b30b9dc0_b.jpg" width="1024" height="768" alt="Julbo Swell"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Conclusion
 The Julbo Swell checked all boxes which I had from a packrafting sunglass. The Julbo Swell is super light and very comfortable to wear. 
