@@ -32,7 +32,7 @@ Alternatives to the Julbo Swell which I would have considered as packrafting sun
 The Julbo Swell features also a fresh and stylish design.
 
 ## Field Testing
-Julbo provided me with a brand new Julbo Swell with Octopus lenses to test it on our hiking and packrafting trips and  2 weeks ago I had the opportunity to test the Julbo Swell on the Swedish Packrafting Round-Up 2016 () on the Voxnan river in Sweden. 
+Julbo provided me with a brand new Julbo Swell with Octopus lenses to test it on our hiking and packrafting trips and  2 weeks ago I had the opportunity to test the Julbo Swell on the [Swedish Packrafting Round-Up 2016](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/) on the Voxnan river in Sweden. 
 
 We were actually quite lucky with the weather. The week before it was still cold and cloudy but on the days we were paddling the sun was shining every day and I even burned my face except there where I was wearing the Julbo Swell. The sun in the Nordics can be quite strong  - so lesson learned - I will use sun lotion on my next packrafting trip in Scandinavia.
 
