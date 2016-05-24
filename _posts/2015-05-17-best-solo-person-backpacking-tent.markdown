@@ -210,3 +210,21 @@ My personal preference goes towards the Hilleberg Unna as my favourite solo back
 Finally, if you are into sea kayaking a self-standing durable tent against strong winds is probably a better option than an ultralight tent. If you are still not sure if you should buy the Hilleberg Soulo or the Hilleberg Unna then you should also consider your height. I am 180 cm tall and the Hilleberg Soulo was just too short for me. My foot / head touched the tent walls of the Hilleberg Soulo which means that my sleeping bag would get wet during the night (wet down does not insulate). There is also the Hilleberg Inner Mesh available for the Hilleberg Unna which I would buy additionally to modify the Hilleberg Unna to a summer tent with better air ventilation. The mesh is also available for the Hilleberg Soulo.
 
 Here is also an [article](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/ "Packrafting in Sweden") about our packrafting trip in the Swedish mountains where we were camping in our MSR Hubba Hubba NX. After one year of usage we have a slight hole on the floor but otherwise we have no complaints about it as a 3-season tent.
+
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "bottom";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Tent Suggestions";
+amzn_assoc_default_search_phrase = "hilleberg tent";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
