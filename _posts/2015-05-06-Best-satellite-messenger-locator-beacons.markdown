@@ -8,13 +8,13 @@ category: articles
 tags: [articles, best, gps]
 ---
 
-A satellite messenger, GPS Tracker or a Personal Locator Beacon should be with you on your hiking, backpacking, packrafting or kayaking trip if you are planning to go to areas where you don't have any phone reception. In case of an accident you won't be able to call for help without a satellite messenger. Here is our list of the best satellite messengers and personal locator beacons for 2016.
+A satellite messenger, GPS Tracker or a Personal Locator Beacon should be with you on your hiking, backpacking, packrafting or kayaking trip if you are planning to go to areas where you don't have any phone reception. In case of an accident you won't be able to call for help without a satellite messenger. Here is my list of the best satellite messengers and personal locator beacons for 2016.
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B0083KHR3W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0083KHR3W&linkCode=as2&tag=hikeve-20&linkId=JA77DOCMUQDNHR6Q"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0083KHR3W&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0083KHR3W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <!--more-->
 
-With a Satellite Messenger you can also inform your family and friends about your current location and that everything is fine with you so they don't have to worry. Here an example: We have been once to the [Sarek National park](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Sarek National Park") in Sweden where we didn't have phone reception and on this trip we decided that we will definitely take a satellite messenger with us if we go there again in the future. It can take up to 2-3 days to get out of the National Park and in case of an emergency it might be quite hard to find help as you may only see 2 other hikers a day if at all.
+With a Satellite Messenger you can also inform your family and friends about your current location and that everything is fine with you so they don't have to worry. Here an example: I have been once to the [Sarek National park](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Sarek National Park") in Sweden where I didn't have phone reception and on this trip I decided that we will definitely take a satellite messenger with me if I would ever go there again in the future. It can take up to 2-3 days to get out of the National Park and in case of an emergency it might be quite hard to find help as you may only see 2 other hikers a day if at all.
 
 ---
 
@@ -24,7 +24,7 @@ Me hiking in the Sarek National Park in Sweden - also considered as one of the l
 
 ---
  
-There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR. Currently, we are testing the InReach Explorer but we have not tested the other devices yet. While it's possible to send text messages with the devices from DeLorme and SPOT you may use ACR only to send a rescue signal (also called Personal Locator Beacon). The main advantage of the ACR is that you don't have to pay a subscription fee to use the GPS network. If messaging is not important for you, then you should go for the ACR ResQlink+ 406. The ACR device is also quite interesting for paddlers since it is able to float. Alternatively, you will see from the specifications below that the DeLorme devices are slightly heavier but come with more functionalities than the SPOT devices. 
+There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR. Currently, I am testing the InReach Explorer which works so far quite well. Fortunately, I was not in need to make an emergency call yet. While it's possible to send text messages with the devices from DeLorme and SPOT you may use ACR only to send a rescue signal (also called Personal Locator Beacon). The main advantage of the ACR is that you don't have to pay a subscription fee to use the GPS network. If messaging is not important for you, then you should go for the ACR ResQlink+ 406. The ACR device is also quite interesting for paddlers since it is able to float. Alternatively, you will see from the specifications below that the DeLorme devices have slightly more weight but come with more functionalities than the SPOT devices. 
 
 ---
 
