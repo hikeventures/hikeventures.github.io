@@ -73,9 +73,11 @@ The Arcteryx Squamish Hoody comes with a hood, full front zip and a front pocket
 ## Conclusion
 There is probably not much difference between the wind breakers in my buying guide about the best wind jackets and it's more about your own preference towards color and brand. I am wearing the[Arcteryx Squamish Hoody](http://www.backcountry.com/arcteryx-squamish-hooded-jacket-mens) since years and I am quite happy with it. Konstantin just recently got a [Patagonia Houdini](https://www.rei.com/product/893303/patagonia-houdini-jacket-mens) and is also very pleased with it.
 
+---
+
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "true";
+amzn_assoc_search_bar = "false";
 amzn_assoc_tracking_id = "hikeve-20";
 amzn_assoc_search_bar_position = "bottom";
 amzn_assoc_ad_mode = "search";
@@ -83,7 +85,7 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Wind Jackets Suggestions";
-amzn_assoc_default_search_phrase = "wind jacket";
+amzn_assoc_default_search_phrase = "arcteryx wind jacket";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
 </script>
