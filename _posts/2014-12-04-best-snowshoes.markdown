@@ -103,7 +103,7 @@ Considering your own body and gear weight is important when choosing your snowsh
 <a  href="http://www.amazon.com/gp/product/B0000AN4EK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000AN4EK&linkCode=as2&tag=hikeve-20&linkId=4JUOH2Q6ICUQI46M"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0000AN4EK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0000AN4EK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **weight:** 2100 grams   
-**application:** backcountry, summit and trail   
+**application:** backcountry & mountain
 
 * The Atlas 12 Series frame is made of 7075 aluminum 
 * Flagship snowshoe of Atlas
