@@ -87,7 +87,7 @@ The Leki Micro series are foldable hiking poles from Leki and are made of Alumin
 
 <a href="https://www.flickr.com/photos/90204224@N07/16507495306"><img src="https://farm8.staticflickr.com/7432/16507495306_31a0dc37c5_b.jpg" width="1024" height="680"></a>
 
-Snow baskets are especially useful in deep powder snow when snowshoeing for example on our [trip in Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Finnish Lapland").
+Snow baskets are especially useful in deep powder snow. Konstantin snowshoeing [in Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Finnish Lapland").
 
 ---
 
@@ -109,6 +109,8 @@ When choosing your trekking or snowshoeing poles you should consider the followi
 * Do I want to have adjustable poles? They pack smaller but may not be that durable as the ones which can not be sticked together.
 * Material of the handle - e.g. foam, cork, etc.
 * Weight (lightweight or ultralight poles e.g. made of Carbon or Aluminium)
+
+---
 
 ## Differences between trekking and snowshoeing poles
 I would say the main difference between snowshoe and hiking poles is the possibility to add a snow basket to the poles. This winter when I went to Finnish Lapland I took my hiking poles with me which I wanted to use for snowshoeing and realised that there is no possibility to add snow baskets on them. For this reason I have separated the list below into two sections. One section is for poles which can be used only for hiking or trekking and the other section is for poles which can be used for hiking and snowshoeing.
