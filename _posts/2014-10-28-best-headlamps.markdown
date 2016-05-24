@@ -140,6 +140,8 @@ The Petzl e+LITE is the emergency headlamp from Petzl. It could also be a good c
 </center>
   </div>
 </div>
+
+---
    
 ## What makes a good headlamp?
 When deciding which headlamp you should purchase, you have to consider the factors below and if they are applicable for your outdoor adventure needs. Should your headlamp be:
@@ -153,3 +155,23 @@ When deciding which headlamp you should purchase, you have to consider the facto
 * used in very cold condition (to carry the battery nearby your body to avoid battery drain)?
 * comfortable to wear?
 * battery life on each recharge?
+
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "bottom";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Headlamps Suggestions";
+amzn_assoc_default_search_phrase = "headlamp";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
