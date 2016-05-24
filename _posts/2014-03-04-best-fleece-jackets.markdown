@@ -98,7 +98,7 @@ A good idea is also to combine a fleece jacket with a [wind jacket](http://www.h
   
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "true";
+amzn_assoc_search_bar = "false";
 amzn_assoc_tracking_id = "hikeve-20";
 amzn_assoc_search_bar_position = "bottom";
 amzn_assoc_ad_mode = "search";
