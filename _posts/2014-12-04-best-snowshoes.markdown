@@ -14,6 +14,8 @@ On the picture you can see me walking with my Tubbs Xpedition snowshoes in [Finn
  
 Considering your own body and gear weight is important when choosing snowshoes. The more weight you want to carry the bigger the surface of the snowshoe should be. Also look at the size of the crampons and if the binding is suitable / durable or if you prefer fixed-rotation or full-rotation bindings.
 
+---
+
 ### [MSR Lightning Ascent 25](http://www.backcountry.com/msr-lightning-ascent)
 
 <a href="http://www.amazon.com/gp/product/B00LFJNHQ4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNHQ4&linkCode=as2&tag=hikeve-20&linkId=YIDJETI36CMR7GF4"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJNHQ4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJNHQ4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -30,6 +32,8 @@ Considering your own body and gear weight is important when choosing snowshoes. 
 
 <a href="http://www.backcountry.com/msr-lightning-ascent"><button type="button" class="btn btn-danger">Read more about the MSR Lightning Ascent 25</button></a>  
    
+---
+   
 ### [Tubbs FLEX VRT 24](http://www.moosejaw.com/moosejaw/shop/product_Tubbs-Men-s-Flex-VRT-Snowshoe_10259131_10208_10000001_-1_)
 
 <a href="http://www.amazon.com/gp/product/B00Q904HD6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q904HD6&linkCode=as2&tag=hikeve-20&linkId=775ITK4RI5T2U3CQ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q904HD6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q904HD6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -43,7 +47,9 @@ Considering your own body and gear weight is important when choosing snowshoes. 
 * FLEXTail
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Tubbs-Men-s-Flex-VRT-Snowshoe_10259131_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Tubbs Men's FLEX VRT 24</button></a>  
-  
+
+---
+
 ### [Atlas Race 22](http://www.moosejaw.com/moosejaw/shop/product_Atlas-Snow-Race-Snowshoe_10202841_10208_10000001_-1_)
 
 <a href="http://www.amazon.com/gp/product/B007F9BTPE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007F9BTPE&linkCode=as2&tag=hikeve-20&linkId=JBGK6MDC2HPRRMDZ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007F9BTPE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B007F9BTPE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -56,6 +62,8 @@ Considering your own body and gear weight is important when choosing snowshoes. 
 * Titanium toe and heel crampon
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Atlas-Snow-Race-Snowshoe_10202841_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Atlas Race 22</button></a>  
+  
+---
   
 ### [MSR Lightning Explore 25](http://www.backcountry.com/msr-lightning-explore-snowshoe-mens)
 
@@ -72,6 +80,8 @@ Considering your own body and gear weight is important when choosing snowshoes. 
  
 <a href="http://www.backcountry.com/msr-lightning-explore-snowshoe-mens"><button type="button" class="btn btn-danger">Read more about the MSR Lightning Explore 25</button></a>  
  
+---
+
 ### [MSR Revo Ascent 25](http://www.backcountry.com/msr-revo-ascent-snowshoe-mens)
 
 <a href="http://www.amazon.com/gp/product/B00LFJO5NI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJO5NI&linkCode=as2&tag=hikeve-20&linkId=ADHSRTEBIYMKSWHX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJO5NI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJO5NI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -86,6 +96,7 @@ Considering your own body and gear weight is important when choosing snowshoes. 
 
 <a href="http://www.backcountry.com/msr-revo-ascent-snowshoe-mens"><button type="button" class="btn btn-danger">Read more about the MSR Revo Ascent 25</button></a>  
   
+---
   
 ### [Tubbs Xpedition 25](http://www.backcountry.com/tubbs-xpedition-snowshoe-mens)
 
