@@ -27,6 +27,8 @@ The MSR MicroRocket is the lightest stove in our list. If saving weight has your
 
 <a href="http://www.backcountry.com/msr-micro-rocket-stove"><button type="button" class="btn btn-danger">Read more about the MSR MicroRocket</button></a>  
 
+---
+
 ### [MSR WindPro II](http://www.omcgear.com/msr-windpro-ii-stove-1.html)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B005I6PNZS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005I6PNZS&linkCode=as2&tag=hikeve-20&linkId=NCXX5MK756QD4MWS"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005I6PNZS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005I6PNZS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />   
@@ -38,6 +40,8 @@ The MSR MicroRocket is the lightest stove in our list. If saving weight has your
 The MSR WindPro II is a nice stove for those who want to have the burner separated which gives more stability but also the possibility to keep the gas canister warm in colder temperatures. The MSR WindPro II also simmers quite well and the larger diameter of the burner lets you allow to use larger pots. If you are planning to travel in more harsh conditions then the MSR XGK EX would be a better choice.
 
 <a href="http://www.omcgear.com/msr-windpro-ii-stove-1.html"><button type="button" class="btn btn-danger">Read more about the MSR WindPro II</button></a>  
+
+---
 
 ### [Jetboil MicroMo](http://www.backcountry.com/jetboil-micromo-personal-cooking-system)
 
@@ -52,6 +56,8 @@ The Jetboil MicroMo offers a push-button igniter and a heat indicator and comes 
 
 <a href="http://www.backcountry.com/jetboil-micromo-personal-cooking-system"><button type="button" class="btn btn-danger">Read more about the Jetboil MicroMo</button></a>  
 
+---
+
 ### [Jetboil MiniMo](http://www.backcountry.com/jetboil-minimo-cooking-system)
 
 <a  href="http://www.amazon.com/gp/product/B00KXP7CUI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KXP7CUI&linkCode=as2&tag=hikeve-20&linkId=63NECFHTZ3EYX64N"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00KXP7CUI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00KXP7CUI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -65,6 +71,8 @@ The Jetboil MiniMo offers you one of the best simmer controls, metal handles, an
 
 <a href="http://www.backcountry.com/jetboil-minimo-cooking-system"><button type="button" class="btn btn-danger">Read more about the Jetboil MiniMo</button></a>  
 
+---
+
 ### [MSR WindBurner](https://www.rei.com/product/890802/msr-windburner-stove-system)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00NPPWOJ2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NPPWOJ2&linkCode=as2&tag=hikeve-20&linkId=G7LF7ACULXJOSCLX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00NPPWOJ2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00NPPWOJ2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -77,6 +85,8 @@ The Jetboil MiniMo offers you one of the best simmer controls, metal handles, an
 The MSR WindBurner is the latest addition on the stove market from MSR. This stove is marketed to operate very well under windy conditions. The MSR WindBurner is currently our favourite stove on our trips (for 2 person) even so it weights a little bit more than the other stoves. If you are traveling alone then the Jetboil MiniMo might be a good alternative.
 
 <a href="https://www.rei.com/product/890802/msr-windburner-stove-system"><button type="button" class="btn btn-danger">Read more about the MSR WindBurner</button></a>  
+
+---
 
 ### [MSR XGK EX](http://www.backcountry.com/msr-xgk-ex-stove)
 
