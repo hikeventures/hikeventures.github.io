@@ -35,7 +35,7 @@ The MSR MicroRocket is the lightest stove in our list. If saving weight has your
 **Burn Time:** 3.6 minutes       
 **Fuel:** Gas   
 
-The MSR WindPro II is a nice stove for those who want to have the burner separated which gives more stability but also the possibility to keep the gas canister warm in colder temperatures.
+The MSR WindPro II is a nice stove for those who want to have the burner separated which gives more stability but also the possibility to keep the gas canister warm in colder temperatures. The MSR WindPro II also simmers quite well and the larger diameter of the burner lets you allow to use larger pots. If you are planning to travel in more harsh conditions then the MSR XGK EX would be a better choice.
 
 <a href="http://www.omcgear.com/msr-windpro-ii-stove-1.html"><button type="button" class="btn btn-danger">Read more about the MSR WindPro II</button></a>  
 
