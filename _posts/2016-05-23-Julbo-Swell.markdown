@@ -46,8 +46,9 @@ The Julbo Swell is made from ultralight material to ensure that it floats on the
 ---
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27146234641/in/dateposted-public/" title="Packrafting in Eastern Poland"><img src="https://c2.staticflickr.com/8/7491/27146234641_532b1b2529_b.jpg" width="1024" height="671" alt="Packrafting in Eastern Poland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-   
+     
 Konstantin wearing the Julbo Swell while packrafting in Poland.
+
 ---
 
 The curved temples and the adjusable cord on the Julbo Swell provide a good hold on the face and head. Actually, the Julbo Swell never fell off by itself during the whole packrafting trip in Sweden. 
