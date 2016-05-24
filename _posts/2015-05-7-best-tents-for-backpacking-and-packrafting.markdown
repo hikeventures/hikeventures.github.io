@@ -227,3 +227,23 @@ Personally, I would choose the Hilleberg Unna as a 1-person tent since I need a 
 In my opinion the MSR Hubba Hubba NX offers a good price-value ratio if you only camp occasionally. However, we also found that the thin floor fabric on the MSR Hubba Hubba NX could cause an issue if you are planning to camp a lot or you just have to be a bit careful where you pitch your tent. I would not consider buying the new MSR Carbon Reflex or MSR FreeLite tents as they are using an even thinner floor fabric than the MSR Hubba NX.
 
 If you do winter camping then it's probably a good idea to get an even bigger tent like the Hilleberg Kaitum.
+
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "bottom";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Tent Suggestions";
+amzn_assoc_default_search_phrase = "hilleberg tent";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
