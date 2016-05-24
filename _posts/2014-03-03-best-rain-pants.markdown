@@ -93,17 +93,19 @@ Montane Minimus pants on our [packrafting trip](http://hikeventures.com/hiking-a
 ---
 
 
-The list I have compiled is sorted by the weight of the pants and not by their performance. Why I sorted them by weight? Well, usually you only wear waterproof pants when it rains. When it stops raining you will pack your waterproof pants back into your backpack. The pants in my list are for emergency situations so they will also pack quite small as the Montane Minimus pants (see picture above). Also consider to take a [waterproof jacket](http://www.hikeventures.com/best-waterproof-rain-jackets) with you.
+The list I have compiled is sorted by the weight of the pants and not by their performance. Why I sorted them by weight? Well, usually you only wear waterproof pants when it rains. When it stops raining you will pack your waterproof pants back into your backpack. The pants in my list are for emergency situations so they will also pack quite small as the Montane Minimus pants (see picture above). Also consider to take a [waterproof jacket](http://www.hikeventures.com/best-rain-jackets) with you.
 
 ## Which fabric?
 If you are planning to go skiing then you should maybe consider waterproof pants with Gore-Tex Pro or Active shell. However, those pants will be more heavy than the models listed below and also take more space in your backpack so I have not considered them in my list. Generally speaking, you will sweat in all waterproof clothes if you are active. However, some are a little bit more breathable than others. I had good experience with Pertex Shield so far.
 
 ## Features and weight
 You should consider if you really need 3/4 length side zips or pockets on your pants. They are nice to have features but they will come with some additional weight. Please note that I have not tested the products myself (except the Montane Minimus Pants).
+
+---
  
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "true";
+amzn_assoc_search_bar = "false";
 amzn_assoc_tracking_id = "hikeve-20";
 amzn_assoc_search_bar_position = "bottom";
 amzn_assoc_ad_mode = "search";
