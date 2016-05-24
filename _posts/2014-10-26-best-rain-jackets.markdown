@@ -107,3 +107,19 @@ My advice would be to use a [wind jacket](http://www.hikeventures.com/best-windj
 Nonetheless, if you are planning to use your jacket for skiing or snowboarding a more durable fabric like GORE-TEX ProShell or in certain cases also the GORE-TEX Active or GORE C-KNIT fabric would be more suitable rather than a thin Pertex Shield + fabric as you don't want to get immediately a hole into your jacket.
 
 However, if you want to have a light jacket for hiking or backpacking which packs easyly into your backpack then the lighter jackets from Berghaus, Rab, Outdoor Research or Montane are a good options as well. Remember, you will probably have your rain jacket most of the time in your backpack if you check the weather in advance before you head to the trail. I would rather buy a lighter and less durable rain jacket. I had a good experience with the Montane Minimus Jacket on the trail.
+  
+ <script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "true";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "bottom";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Search Results from Amazon";
+amzn_assoc_default_search_phrase = "Rain Jackets";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
