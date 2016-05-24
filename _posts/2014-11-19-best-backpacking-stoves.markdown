@@ -48,7 +48,7 @@ The MSR WindPro II is a nice stove for those who want to have the burner separat
 **Fuel:** Gas   
 **Cooking cup size:** 0.8 liter    
 
-The Jetboil MicroMo offers a push-button igniter and a heat indicator and comes with a 0.8 liter cooking cup. The Jetboil MicorMo is cold weather comppatible down to -6C. The Jetboil MicroMo can also store the gas canister.
+The Jetboil MicroMo offers a push-button igniter and a heat indicator and comes with a 0.8 liter cooking cup. The Jetboil MicorMo is cold weather compatible down to -6C. The Jetboil MicroMo can also store the gas canister.
 
 <a href="http://www.backcountry.com/jetboil-micromo-personal-cooking-system"><button type="button" class="btn btn-danger">Read more about the Jetboil MicroMo</button></a>  
 
