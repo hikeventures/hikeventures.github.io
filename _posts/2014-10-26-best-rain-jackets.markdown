@@ -111,6 +111,10 @@ The Mountain Hardwear Plasmonic Jacket is one of the best selling jackets from M
 
 ---
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9599019542/in/photolist-fCeu5W-fBZ9Pa-fCewCu-fCeuVs-fBZ6JB-fBZ5re-fBZaMc-fCewQ3-fBZbjB-fBZapV-fBZ4QB-fBZ7rH-fCeqR1-fCetpG-fBZcd4-fBZ7U8-fCescG-fCeoTj-fCeso7-fBZ5CR-fCeugy-fBZ4Fk-fCerZw-fCemGh-eixRoh-eis7oH-fBZ3ND-fCerDj-fBZd5R-fCeta7-fCevtj-fBZc4Z-fCevFQ-fCemih-fBZ4gV-fBZ5VP-fCeqcS-fBZ3mc-fCesMw-fBZ8hP-fCeped-fBZcNa-fBZbAg-fCesyW-fCeoi5-fBZ6UV-fBZ7fZ-fCepBj-fCed8L-fBYSLc" title="Filtering Water with Katadyn in Sarek"><img src="https://c7.staticflickr.com/8/7459/9599019542_097779e2ae_b.jpg" width="1024" height="683" alt="Filtering Water with Katadyn in Sarek"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Patrick filtering water with the [Katadyn Mini](http://www.backcountry.com/katadyn-mini-ceramic-microfilter) and wearing the [Montane Minimus Jacket](http://www.backcountry.com/montane-minimus-jacket-mens) on our [trip](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Rain Jacket in Sarek Nationak Park") in the Sarek National Park in Sweden.
+
 ## Best fabric for waterproof jackets
 You should look for a waterproof jacket which is made of light fabrics. In terms of e.g. GORE-TEX, I would opt for GORE-TEX Active Shield or the new GORE C-KNIT backer technology which comes with the new Arcteryx Zeta LT Jacket. However, you will sweat in all waterproof jackets if you are active.
 
