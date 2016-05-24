@@ -7,7 +7,7 @@ description: Need a new camoing stove? Here are the best stoves for 2016.
 category: articles
 tags: [articles, best, stoves]
 ---
-A portable and lightweight camping stove is one of the most essential item to have on your adventures to boil water for tea, coffee or dehydrated meals. Here comes our buying guide with the best lightweight camping stoves in 2016 for your next hiking, backpacking, packrafting, mountaineering or any other backcountry trip. The stoves are sorted according to their weight and we have picked them according to our own preferences. Also it's a good idea to have a [Light My Fire Swedish FireSteel](http://amzn.to/22kZs72) with you. Sometimes matches can get wet but with the Swedish FireSteel you don't have to worry about that. Just make sure that you know how to use the FireSteel before you set out to the backcountry. 
+A portable and lightweight camping stove is one of the most essential item to have on your adventures to boil water for tea, coffee or dehydrated meals. Here comes our buying guide with the best lightweight camping stoves in 2016 for your next hiking, backpacking, packrafting, mountaineering or any other backcountry trip. The stoves are sorted according to their weight and we have picked them according to our own preferences. Also it's a good idea to have a <a href="http://amzn.to/22kZs72" rel="nofollo">Light My Fire Swedish FireSteel</a> with you. Sometimes matches can get wet but with the Swedish FireSteel you don't have to worry about that. Just make sure that you know how to use the FireSteel before you set out to the backcountry. 
 
 ![](https://c1.staticflickr.com/3/2822/9596230289_9b0f70706d_o.jpg "Best Backpacking Stoves 2016")
 
@@ -48,7 +48,7 @@ The MSR WindPro II is a nice stove for those who want to have the burner separat
 **Fuel:** Gas   
 **Awards:** Outdoor Gear Lab Top Pick  
 
-The MSR Flash offers a push-button igniter and a heat indicator. The Jetboil Flash is suitable as a 2 person stove. If you travel solo have a look at the other stoves below.
+The Jetboil Flash offers a push-button igniter and a heat indicator. The Jetboil Flash is a 2 person stove. If you travel solo have a look at the other stoves below.
 
 <a href="https://www.rei.com/product/791308/jetboil-flash-cooking-system"><button type="button" class="btn btn-danger">Read more about the Jetboil Flash</button></a>  
 
@@ -60,7 +60,7 @@ The MSR Flash offers a push-button igniter and a heat indicator. The Jetboil Fla
 **Burn Time:** 2.15 min for 1/2 l      
 **Fuel:** Gas   
 
-The Jetboil MiniMo o stove offers you one of the best simmer control, metal handles, and a low spoon angle for easy eating. The bottom cover can also be used as a bowl. As a whole product the Jetboil MiniMo might be a nice solution and not even that heavy considering that it offers 2 products in one (stove and bowl).
+The Jetboil MiniMo offers you one of the best simmer controls, metal handles, and a low spoon angle for easy eating. The bottom cover can also be used as a bowl. As a whole product the Jetboil MiniMo might be a nice solution and not even that heavy considering that it offers 2 products in one (stove and bowl).
 
 <a href="http://www.backcountry.com/jetboil-minimo-cooking-system"><button type="button" class="btn btn-danger">Read more about the Jetboil MiniMo</button></a>  
 
@@ -72,7 +72,7 @@ The Jetboil MiniMo o stove offers you one of the best simmer control, metal hand
 **Burn Time:** 2.5 (0.5 Liter)   
 **Fuel:** Gas   
 
-The MSR WindBurner is the latest addition on the stove market from MSR. This stove is marketed to operate very well under windy conditions. The MSR WindBurner is currently our favourite stove on our trips (for 2 person) even so it weights a little bit more than the other stoves. If you are traveling alone then the Jetboil MiniMo (see below) might be a good alternative.
+The MSR WindBurner is the latest addition on the stove market from MSR. This stove is marketed to operate very well under windy conditions. The MSR WindBurner is currently our favourite stove on our trips (for 2 person) even so it weights a little bit more than the other stoves. If you are traveling alone then the Jetboil MiniMo might be a good alternative.
 
 <a href="https://www.rei.com/product/890802/msr-windburner-stove-system"><button type="button" class="btn btn-danger">Read more about the MSR WindBurner</button></a>  
 
