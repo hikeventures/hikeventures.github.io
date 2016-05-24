@@ -72,7 +72,7 @@ The Jetboil MiniMo offers you one of the best simmer controls, metal handles, an
 **Weight:** 432 grams   
 **Burn Time:** 2 min 30 seconds for 0.5 liter    
 **Fuel:** Gas   
-** Cooking cup size:** 1 liter   
+**Cooking cup size:** 1 liter   
 
 The MSR WindBurner is the latest addition on the stove market from MSR. This stove is marketed to operate very well under windy conditions. The MSR WindBurner is currently our favourite stove on our trips (for 2 person) even so it weights a little bit more than the other stoves. If you are traveling alone then the Jetboil MiniMo might be a good alternative.
 
