@@ -113,7 +113,7 @@ When choosing your trekking or snowshoeing poles you should consider the followi
 ---
 
 ## Differences between trekking and snowshoeing poles
-I would say that the main difference between snowshoe and hiking poles is the possibility to add a snow basket to the poles and to expand or shorten the poles while wearing gloves. My preference as the best trekking and snowhoeing poles goes towards the [MSR Flight 3](http://www.backcountry.com/msr-flight-3-trekking-pole).
+I would say that the main difference between snowshoe and hiking poles is the possibility to add a snow basket to the poles and to expand or shorten the poles while wearing gloves. My preference as the best trekking and snowhoeing pole goes towards the [MSR Flight 3](http://www.backcountry.com/msr-flight-3-trekking-pole).
 
 ---
 
