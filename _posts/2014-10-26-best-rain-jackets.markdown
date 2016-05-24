@@ -108,9 +108,11 @@ Nonetheless, if you are planning to use your jacket for skiing or snowboarding a
 
 However, if you want to have a light jacket for hiking or backpacking which packs easyly into your backpack then the lighter jackets from Berghaus, Rab, Outdoor Research or Montane are a good options as well. Remember, you will probably have your rain jacket most of the time in your backpack if you check the weather in advance before you head to the trail. I would rather buy a lighter and less durable rain jacket. I had a good experience with the Montane Minimus Jacket on the trail.
   
+---
+  
  <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "true";
+amzn_assoc_search_bar = "false";
 amzn_assoc_tracking_id = "hikeve-20";
 amzn_assoc_search_bar_position = "bottom";
 amzn_assoc_ad_mode = "search";
