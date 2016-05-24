@@ -21,6 +21,8 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hik
 
 <!--more-->
 
+---
+
 ### [Mountain Hardware Ghost Whisperer Hooded Down Jacket (800 fp)](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GULW0DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GULW0DS&linkCode=as2&tag=hikeve-20&linkId=RSEZE3QFDW2FVB3A" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GULW0DS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GULW0DS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -30,6 +32,8 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hik
 The Mountain Hardware Ghost Whisperer Hooded Down Jacket is one of the lightest down jackets available. This is a great jacket for camping during spring, summer and autumn or as a light mid-layer for the winter. If you are looking for a proper winter jacket then we would rather pick the Rab Infinity Endurance or the Rab Positron jacket. For a stylish jacket to use during winter mainly in town we would go for the Arcteryx Ceres jacket.
 
 <a href="http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Ghost Whisperer Hooded Down Jacket</button></a>  
+
+---
   
 ### [Arcteryx Cerium LT Hoody (850 fp)](http://www.backcountry.com/arcteryx-cerium-lt-hooded-down-jacket-mens)  
 
@@ -40,6 +44,8 @@ The Mountain Hardware Ghost Whisperer Hooded Down Jacket is one of the lightest 
 Similar as the Arcteryx Cerium LT Jacket just with a hoodie. We would pick the Cerium LT Hoody if we would have to choose a down jacket for moderate winter or for camping during spring and autumn. LT stands for lightweight in the Arcteryx product line.
 
 <a href="http://www.backcountry.com/arcteryx-cerium-lt-hooded-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Cerium LT Hoody</button></a>  
+
+---
   
 ### [Arcteryx Ceres Jacket (850 fp)](http://gearx.com/arc-teryx-ceres-jacket-m)    
 
@@ -50,6 +56,8 @@ Similar as the Arcteryx Cerium LT Jacket just with a hoodie. We would pick the C
 More heavy than the other jackets in our list, the Arcteryx Ceres Jacket is made for the deep winter where warmth is the most important factor. This jacket is a probably a great option if you also want to have a fashionable jacket to wear in the city.
 
 <a href="http://gearx.com/arc-teryx-ceres-jacket-m"><button type="button" class="btn btn-danger">Read more about the Ceres Jacket</button></a>  
+
+---
   
 ### [Western Mountaineering Flash Jacket (850 fp)](http://www.backcountry.com/western-mountaineering-flash-down-jacket-mens)     
 
@@ -61,6 +69,8 @@ The Western Mountaineering Flash Jacket is a very good jacket for hiking trips i
 
 <a href="http://www.backcountry.com/western-mountaineering-flash-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Flash Jacket</button></a>  
 
+---
+
 ### [Marmot Quasar Hoody (900 fp)](http://www.moosejaw.com/moosejaw/shop/product_Marmot-Men-s-Quasar-Hoody_10221652_10208_10000001_-1_)   
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00DNNZ3KI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DNNZ3KI&linkCode=as2&tag=hikeve-20&linkId=UITTBILMF3IBYVRI"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DNNZ3KI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DNNZ3KI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -70,6 +80,8 @@ The Western Mountaineering Flash Jacket is a very good jacket for hiking trips i
 The Marmot Quasar Hoody is also an interesting jacket with it's high down fill power covered by light Pertex Quantum fabric (similar as other models in our list) which makes it also somewhat water repellent. The additional zip on the front adds a little bit more weight to the jacket. We would wear the Marmot Quasar Hoody during moderate winter or camping during spring and summer.
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Marmot-Men-s-Quasar-Hoody_10221652_10208_10000001_-1"><button type="button" class="btn btn-danger">Read more about the Quasar Hoody</button></a>  
+
+---
 
 ### [Arcteryx Cerium SV Hoody (850 fp)](http://www.backcountry.com/arcteryx-cerium-sv-hooded-down-jacket-mens)     
   
@@ -81,6 +93,8 @@ The Arcteryx Cerium SV Hoody is part of Arcteryx severe weather product line - m
 
 <a href="http://www.backcountry.com/arcteryx-cerium-sv-hooded-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Cerium SV Hoody</button></a>  
   
+---  
+  
 ### [The North Face Super Diez Hooded Jacket (900 fp)](http://www.moosejaw.com/moosejaw/shop/product_The-North-Face-Men-s-Super-Diez-Hooded-Jacket_10284860_10208_10000001_-1_)     
  
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00PJBP5SM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PJBP5SM&linkCode=as2&tag=hikeve-20&linkId=GZG3FTWKKEAVL7UC"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00PJBP5SM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00PJBP5SM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -90,6 +104,8 @@ The Arcteryx Cerium SV Hoody is part of Arcteryx severe weather product line - m
 The The North Face Super Diez Hooded Jacket is a mountaineering and alpine climbing jacket which has an internal zip chest pocket and a DWR coating which repels light moisture. The 900 fp offers a great weight to warmth ratio.
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_The-North-Face-Men-s-Super-Diez-Hooded-Jacket_10284860_10208_10000001_-1"><button type="button" class="btn btn-danger">Read more about the Super Diez Hooded Jacket</button></a>  
+
+---
 
 ### [Patagonia Men's Down Hooded Jacket (800 fp)](http://www.backcountry.com/patagonia-hi-loft-down-hooded-sweater-mens)     
    
@@ -101,6 +117,8 @@ Patagonia is another popular outdoor brand and delivers a super light down jacke
   
 <a href="http://www.backcountry.com/patagonia-hi-loft-down-hooded-sweater-mens"><button type="button" class="btn btn-danger">Read more about the Patagonia Down Hooded Jacket</button></a>  
 
+---
+
 ### [Rab Infinity Endurance Jacket (850 fp)](http://www.backcountry.com/rab-infinity-endurance-down-jacket-mens)     
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00DTT6DXC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DTT6DXC&linkCode=as2&tag=hikeve-20&linkId=N7SHBEPWSYPV25ZK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DTT6DXC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DTT6DXC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -110,6 +128,8 @@ Patagonia is another popular outdoor brand and delivers a super light down jacke
 The  Rab Infinity Endurance Jacket is a technical alpine or mountaineering jacket. It's high fill power and low weight makes this probably one of the best lightweight winter down jackets. If you need a warmer jacket then the Rab Positron Jacket would be an alternative option which adds approximately 30% more warmth.
 
 <a href="http://www.backcountry.com/rab-infinity-endurance-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Rab Infinity Endurance Jacket</button></a>    
+
+---
 
 ### [Rab Positron Jacket (800 fp)](http://www.backcountry.com/rab-positron-down-jacket-mens)  
 
@@ -139,71 +159,119 @@ The  Rab Positron Jacket is proper box-wall down winter jacket with a water-resi
 
 You should avoid wearing your down-jacket while you are active (e.g. hiking, biking, climbing or skiing) since down insulates less when it gets wet. So ideally you wear a fleece jacket when you are active and switch to your down jacket when you are resting.
 
+---
+
 ### When not to wear a down jacket?
 
 You should avoid wearing your down-jacket while you are active (e.g. hiking, biking, climbing or skiing) since down insulates less when it gets wet. So ideally you wear a fleece jacket when you are active and switch to your down jacket when you are resting.
+
+---
 
 ### What is down quality?
 
 A high down quality indicates that less down is needed to keep you warm for the same weight (e.g. a fill power of 900 keeps you more warm than a fill power of 700 with the same amount of down) - having higher warmth-to-weight ratio. A down jacket with the highest fill power and the lightest shell fabric can be considered an ultralight down jacket. Fill power is measured by cuin. A ratio of 90:10 expresses the down-feather ratio (90% down and 10% feathers).
 
+---
+
 ### Are down jackets waterproof?
 
 The shell of your down jacket is slightly water repellent in order to keep the down dry in case you get into very light rain. If you expect to get more rain, swap the down jacket with a [fleece jacket](http://www.hikeventures.com/best-fleece-jackets/ "fleece jacket") and pull on a [rain jacket](http://www.hikeventures.com/best-waterproof-rain-jackets/ "rain jacket"). So in general, down jackets are not waterproof.
 
-### How are down jackets designed?
+---
 
+### How are down jackets designed?
 
 The baffles of a down jacket keep the down in place. There are two possibilities to create those baffles:
 
 * Stitch-through baffles (stitches are the areas where cold can come through the jacket)
 * Box wall baffles (better option as there are no areas on the jacket which are not filled with down as opposed to the stitch-through design).
 
+---
 
 ### Should a down jacket have a hood?
 
 We would go for a hooded down jacket, as you can use the hood also in your sleeping bag if temperatures drop below of what your sleeping bag is capable to handle.
+
+---
 
 ### What is the difference in traditional and hydrophobic down (or HydroDown)?
 
 Hydrophobic down does not absorb water that quickly as traditional down. A hydrophobic down jacket keeps its insulation longer than a traditional down jacket if it gets wet.
 
+---
+
 ### Down jackets compared to synthetic filled jackets
 
 Synthetic filled jackets keep you dry even so when they are wet. Disadvantages of a synthetic filled jacket is it's shorter life and it takes more space to pack it in the backpack. It also weights more to deliver the same amount of warmth compared to a down filled jacket. Down is more durable than synthetic fill, more breathable, windproof but also dries slower. A wet down jacket also weights more than a wet synthetic jacket since it absorbs more water. Usually, we carry our down jacket and sleeping bag in a waterproof stuff sack if we don't need them.
+
+---
 
 ### Which design features are important on a down jacket?
 
 To keep the warmth inside your jacket, a waist drawstring and wrist closures (e.g. Velcro) are important features. Pockets and a hood are useful as well. The hood should be sewed to the jacket if you want to get maximum warmth. Less pockets and zippers on a down jacket can also reduce weight.
 
+---
+
 ### Which fabric shell should be used on a lightweight down jacket?
 
 Many new down jackets feature nowadays a light ripstop shell to make the down jacket a bit resistant against moisture. One disadvantage of those light ripstop shells is that they are not very durable and if it starts raining your down jacket will still soak up water. However, we found them to be sufficient as we usually only wear a down jacket to walk around in camp or as an additional layer in my sleeping bag. So in general, we don't find it important to have a waterproof down jacket which would also lower the breathability of the down jacket.
 
+---
+
 ### Should a down jacket have a hood?
 
 We would go for a hooded down jacket, as you can use the hood also in your sleeping bag if temperatures drop below of what your sleeping bag is capable to handle.
+
+---
 
 ### How to clean a down jacket?
 
 The best way to clean a down jacket is to wash it inside out in a washing machine with very low speed. As washing liquid we always use Nikwax Downwash and sometimes additionally Nikwax Downproof to make the down a bit more resistant against moisture.
 
+---
+
 ### What is the difference in traditional and hydrophobic down (or HydroDown)?
 
 Hydrophobic down does not absorb water that quickly as traditional down. A hydrophobic down jacket keeps its insulation longer than a traditional down jacket if it gets wet.
+
+---
 
 ### Down jackets compared to synthetic filled jackets
 
 Synthetic filled jackets keep you dry even so when they are wet. Disadvantages of a synthetic filled jacket is it's shorter life and it takes more space to pack it in the backpack. It also weights more to deliver the same amount of warmth compared to a down filled jacket. Down is more durable than synthetic fill, more breathable, windproof but also dries slower. A wet down jacket also weights more than a wet synthetic jacket since it absorbs more water. Usually, we carry our down jacket and sleeping bag in a waterproof stuff sack if we don't need them.
 
+---
+
 ### Which design features are important on a down jacket?
 
 To keep the warmth inside your jacket, a waist drawstring and wrist closures (e.g. Velcro) are important features. Pockets and a hood are useful as well. The hood should be sewed to the jacket if you want to get maximum warmth. Less pockets and zippers on a down jacket can also reduce weight.
+
+---
 
 ### Which fabric shell should be used on a lightweight down jacket?
 
 Many new down jackets feature nowadays a light ripstop shell to make the down jacket a bit resistant against moisture. One disadvantage of those light ripstop shells is that they are not very durable and if it starts raining your down jacket will still soak up water. However, we found them to be sufficient as we usually only wear a down jacket to walk around in camp or as an additional layer in my sleeping bag. So in general, we don't find it important to have a waterproof down jacket which would also lower the breathability of the down jacket.
 
+---
+
 ### How to keep a down jacket dry?
 
 You can keep your down jacket dry by storing it in a waterproof compression bag when you are hiking in wet conditions and to use your down jacket only in your tent.
+
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Suggested Down Jackets";
+amzn_assoc_default_search_phrase = "down jacket 800";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "94ae095fd527d4f97d365afbd4404fcf";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
