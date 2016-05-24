@@ -10,7 +10,7 @@ Here is my buying guide for the best snowshoes for 2016 sorted by weight. Snowsh
  
 <a href="https://www.flickr.com/photos/90204224@N07/18240641010" title="Best snowhoes of 2016"><img src="https://c4.staticflickr.com/8/7780/18240641010_a4f51acf96_o.jpg" width="992" height="659" alt="Best Snowshoes of 2016"></a><!--more-->
 
-On the picture above I am walking with my Tubbs Xpedition snowshoes in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Snowshoeing in Urho Kekkonen National Park").
+On the picture you can see me walking with my Tubbs Xpedition snowshoes in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Snowshoeing in Urho Kekkonen National Park").
  
 Considering your own body and gear weight is important when choosing snowshoes. The more weight you want to carry the bigger the surface of the snowshoe should be. Also look at the size of the crampons and if the binding is suitable / durable or if you prefer fixed-rotation or full-rotation bindings.
 
@@ -126,6 +126,11 @@ Considering your own body and gear weight is important when choosing snowshoes. 
 * Adjustability (e.g. binding to tighten your snowshoes on your foot)
 * Does it fit to your "snowshoe boots" (e.g. I use my hiking boots)
 * Do you want snowshoes for beginners? (they are cheaper and technically less advanced)
+
+---
+
+## Conclusion
+So which are the best snowshoes for 2016? My preference goes towards a light snowshoe which has a good grip. I would probably choose the [MSR Lightning Ascent](http://www.backcountry.com/msr-lightning-ascent). The [MSR Revo Ascent 25](http://www.backcountry.com/msr-revo-ascent-snowshoe-mens) would be my second choice because of the additional weight. The advantage of the MSR Revo Ascent it that it is a bit more durable than the MSR Lightning Ascent.
 
 ---
 
