@@ -105,4 +105,24 @@ The MSR XGK EX is probably the best choice if you need a stove which can handle 
 ## How to choose the best camping stove?
 It all depends on your requirements. Do you need a simple and lightweight camping stove then the MSR MicroRocket would be a good choice. Do you plan a trip to colder regions or areas where you have to use different fuels? Then a camping stove with a separated gas canister (so you can keep the gas canister warm) like the MSR Dragonfly should be on your choice. 
 
-My preference in most cases goes towards a camping stove which boils water quickly and uses a low amount of fuel as I am usually traveling with dehydrated food packages where I just have to add boiling water e.g. the MSR WindBurner or the Jetboil Flash. If you are traveling to different continents then a multi-fuel stove might be the best solution.
+My preference in most cases goes towards a camping stove which boils water quickly and uses a low amount of fuel as I am usually traveling with dehydrated food packages where I just have to add boiling water e.g. the MSR WindBurner or the Jetboil MiniMo - both of them can also handle cold temperatures down to -6C. If you are traveling to different continents then a multi-fuel stove might be the best solution.
+
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "bottom";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Camping Stoves Suggestions";
+amzn_assoc_default_search_phrase = "jetboil";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
