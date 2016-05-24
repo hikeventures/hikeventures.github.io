@@ -39,9 +39,9 @@ The MSR WindPro II is a nice stove for those who want to have the burner separat
 
 <a href="http://www.omcgear.com/msr-windpro-ii-stove-1.html"><button type="button" class="btn btn-danger">Read more about the MSR WindPro II</button></a>  
 
-### [Jetboil MicroMo](https://www.rei.com/product/791308/jetboil-flash-cooking-system)
+### [Jetboil MicroMo](http://www.backcountry.com/jetboil-micromo-personal-cooking-system)
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B002N18PHO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002N18PHO&linkCode=as2&tag=hikeve-20&linkId=BDKQURIJ7SHGUV2E"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002N18PHO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B002N18PHO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="http://www.amazon.com/gp/product/B019GPIYZC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019GPIYZC&linkCode=as2&tag=hikeve-20&linkId=MRADQZHAE2DN5ZNE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B019GPIYZC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B019GPIYZC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 400 grams   
 **Burn Time:** 2 min 15 sec for 0.5 liter    
@@ -50,7 +50,7 @@ The MSR WindPro II is a nice stove for those who want to have the burner separat
 
 The Jetboil MicroMo offers a push-button igniter and a heat indicator and comes with a 0.8 liter cooking cup. The Jetboil MicorMo is cold weather comppatible down to -6C. The Jetboil MicroMo can also store the gas canister.
 
-<a href="https://www.rei.com/product/791308/jetboil-flash-cooking-system"><button type="button" class="btn btn-danger">Read more about the Jetboil Flash</button></a>  
+<a href="http://www.backcountry.com/jetboil-micromo-personal-cooking-system"><button type="button" class="btn btn-danger">Read more about the Jetboil MicroMo</button></a>  
 
 ### [Jetboil MiniMo](http://www.backcountry.com/jetboil-minimo-cooking-system)
 
