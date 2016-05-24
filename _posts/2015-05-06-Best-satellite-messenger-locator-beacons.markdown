@@ -94,7 +94,7 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 <a href="https://www.rei.com/product/843146/acr-electronics-resqlink-gps-personal-locator-beacon"><button type="button" class="btn btn-danger">Read more about the ACR ResQlink+ 406</button></a> 
 
 ## Conclusion
-My personal preference goes towards the  [DeLorme InReach Explorer](https://www.rei.com/product/877499/delorme-inreach-explorer-satellite-messenger) as it has also messenger function. If you don't need the messenger and tracking function then you should probably get the [ACR ResQlink+ 406](https://www.rei.com/product/843146/acr-electronics-resqlink-gps-personal-locator-beacon).
+My personal preference goes towards the  [DeLorme InReach Explorer](https://www.rei.com/product/877499/delorme-inreach-explorer-satellite-messenger) as it has also messenger function. If I would not need the messenger and tracking function then I would probably get the [ACR ResQlink+ 406](https://www.rei.com/product/843146/acr-electronics-resqlink-gps-personal-locator-beacon).
 
 ---
 
