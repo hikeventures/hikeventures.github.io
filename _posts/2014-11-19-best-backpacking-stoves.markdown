@@ -32,23 +32,23 @@ The MSR MicroRocket is the lightest stove in our list. If saving weight has your
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B005I6PNZS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005I6PNZS&linkCode=as2&tag=hikeve-20&linkId=NCXX5MK756QD4MWS"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005I6PNZS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005I6PNZS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />   
 
 **Weight:** 187 grams   
-**Burn Time:** 3.6   
+**Burn Time:** 3.6 minutes       
 **Fuel:** Gas   
 
 The MSR WindPro II is a nice stove for those who want to have the burner separated which gives more stability but also the possibility to keep the gas canister warm in colder temperatures.
 
 <a href="http://www.omcgear.com/msr-windpro-ii-stove-1.html"><button type="button" class="btn btn-danger">Read more about the MSR WindPro II</button></a>  
 
-### [Jetboil Flash](https://www.rei.com/product/791308/jetboil-flash-cooking-system)
+### [Jetboil MicroMo](https://www.rei.com/product/791308/jetboil-flash-cooking-system)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B002N18PHO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002N18PHO&linkCode=as2&tag=hikeve-20&linkId=BDKQURIJ7SHGUV2E"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002N18PHO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B002N18PHO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 400 grams   
-**Burn Time:** 2.5 (0.5 Liter)   
+**Burn Time:** 2 min 15 sec for 0.5 liter    
 **Fuel:** Gas   
-**Awards:** Outdoor Gear Lab Top Pick  
+**Cooking cup size:** 0.8 liter    
 
-The Jetboil Flash offers a push-button igniter and a heat indicator. The Jetboil Flash is a 2 person stove. If you travel solo have a look at the other stoves below.
+The Jetboil MicroMo offers a push-button igniter and a heat indicator and comes with a 0.8 liter cooking cup. The Jetboil MicorMo is cold weather comppatible down to -6C. The Jetboil MicroMo can also store the gas canister.
 
 <a href="https://www.rei.com/product/791308/jetboil-flash-cooking-system"><button type="button" class="btn btn-danger">Read more about the Jetboil Flash</button></a>  
 
@@ -57,8 +57,9 @@ The Jetboil Flash offers a push-button igniter and a heat indicator. The Jetboil
 <a  href="http://www.amazon.com/gp/product/B00KXP7CUI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KXP7CUI&linkCode=as2&tag=hikeve-20&linkId=63NECFHTZ3EYX64N"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00KXP7CUI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00KXP7CUI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 415 grams   
-**Burn Time:** 2.15 min for 1/2 l      
+**Burn Time:** 2 min 15 sec for 0.5 liter      
 **Fuel:** Gas   
+**Cooking Cup Size:** 1 liter   
 
 The Jetboil MiniMo offers you one of the best simmer controls, metal handles, and a low spoon angle for easy eating. The bottom cover can also be used as a bowl. As a whole product the Jetboil MiniMo might be a nice solution and not even that heavy considering that it offers 2 products in one (stove and bowl).
 
@@ -69,8 +70,9 @@ The Jetboil MiniMo offers you one of the best simmer controls, metal handles, an
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00NPPWOJ2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NPPWOJ2&linkCode=as2&tag=hikeve-20&linkId=G7LF7ACULXJOSCLX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00NPPWOJ2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00NPPWOJ2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 432 grams   
-**Burn Time:** 2.5 (0.5 Liter)   
+**Burn Time:** 2 min 30 seconds for 0.5 liter    
 **Fuel:** Gas   
+** Cooking cup size:** 1 liter   
 
 The MSR WindBurner is the latest addition on the stove market from MSR. This stove is marketed to operate very well under windy conditions. The MSR WindBurner is currently our favourite stove on our trips (for 2 person) even so it weights a little bit more than the other stoves. If you are traveling alone then the Jetboil MiniMo might be a good alternative.
 
@@ -81,7 +83,7 @@ The MSR WindBurner is the latest addition on the stove market from MSR. This sto
 <a  href="http://www.amazon.com/gp/product/B000EUMKFO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000EUMKFO&linkCode=as2&tag=hikeve-20&linkId=VXEWELGDXLVW6BJU"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000EUMKFO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B000EUMKFO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 489 grams (packed)   
-**Burn Time:** 2.8 (1 Liter) with kerosene fuel   
+**Burn Time:** 2.8 minutes for 1 liter with kerosene fuel   
 **Fuel:** Multiple   
 
 The MSR XGK EX is probably the best choice if you need a stove which can handle multiple fuels in extreme conditions.
