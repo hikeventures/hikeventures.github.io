@@ -115,14 +115,17 @@ The Mountain Hardwear Plasmonic Jacket is one of the best selling jackets from M
 
 Patrick filtering water with the [Katadyn Mini](http://www.backcountry.com/katadyn-mini-ceramic-microfilter) and wearing the [Montane Minimus Jacket](http://www.backcountry.com/montane-minimus-jacket-mens) on our [trip](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Rain Jacket in Sarek Nationak Park") in the Sarek National Park in Sweden.
 
-## Best fabric for waterproof jackets
-You should look for a waterproof jacket which is made of light fabrics. In terms of e.g. GORE-TEX, I would opt for GORE-TEX Active Shield or the new GORE C-KNIT backer technology which comes with the new Arcteryx Zeta LT Jacket. However, you will sweat in all waterproof jackets if you are active.
+## Which fabric?
+You should look for a rain jacket which is made of light fabrics. In terms of e.g. GORE-TEX, I would opt for GORE-TEX Active Shield or the new GORE C-KNIT backer technology which comes with the new Arcteryx Zeta LT Jacket. However, you will sweat in all rain jackets if you are active regardless of the fabric.
 
-My advice would be to use a [wind jacket](http://www.hikeventures.com/best-windjackets/ "Wind Jackets") when it is not raining and switch to a rain jacket once it starts raining. At least this has worked out best for me on my hiking trips.
+### Rain jacket for winter
+if you are planning to wear your jacket for skiing or snowboarding a more durable fabric like GORE-TEX ProShell or in certain cases also the GORE-TEX Active or GORE C-KNIT fabric would be more suitable rather than a thin Pertex Shield+ fabric because those fabrics are more durable.
 
-Nonetheless, if you are planning to use your jacket for skiing or snowboarding a more durable fabric like GORE-TEX ProShell or in certain cases also the GORE-TEX Active or GORE C-KNIT fabric would be more suitable rather than a thin Pertex Shield + fabric as you don't want to get immediately a hole into your jacket.
+### Rain jacket for summer
+If you plan a hiking trip then I would recommend you to wear a [wind jacket](http://www.hikeventures.com/best-windjackets/ "Wind Jackets") when it is not raining and switch to a rain jacket once it starts raining. At least this strategy has worked out best for me on my hiking trips even so I had to carry 2 jackets. However, a [wind jacket](http://www.hikeventures.com/best-windjackets/ "Wind Jacket") is so light that you probably won't notice it in your backpack.
 
-However, if you want to have a light jacket for hiking or backpacking which packs easyly into your backpack then the lighter jackets from Berghaus, Rab, Outdoor Research or Montane are a good options as well. Remember, you will probably have your rain jacket most of the time in your backpack if you check the weather in advance before you head to the trail. I would rather buy a lighter and less durable rain jacket. I had a good experience with the Montane Minimus Jacket on the trail.
+### Rain jacket for hiking
+If you are looking for a rain jacket for your next hiking trip then you should consider to get a lightweight rain jacket as you will probably have your rain jacket most of the time in your backpack (depending on the weather). I had good experience with the [Montane Minimus Jacket](http://www.backcountry.com/montane-minimus-jacket-mens) on the trail.
   
 ---
   
