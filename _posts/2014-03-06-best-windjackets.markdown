@@ -35,6 +35,8 @@ The Patagonia Houdini is another great wind jacket which got recommended by many
 
 <a href="https://www.rei.com/product/893303/patagonia-houdini-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Patagonia Houdini</button></a>  
 
+---
+
 ### [Arcteryx Incendo Hoody](https://www.rei.com/product/895292/arcteryx-incendo-hoodie-mens)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GW7ZHG2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZHG2&linkCode=as2&tag=hikeve-20&linkId=TRAIMP6VVV2WPE4A"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7ZHG2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7ZHG2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -47,6 +49,8 @@ The Arcteryx Incendo Hoody has breathable mesh panels under the arms, a hood and
 
 <a href="https://www.rei.com/product/895292/arcteryx-incendo-hoodie-mens"><button type="button" class="btn btn-danger">Read more about the Arcteryx Incendo Hoody</button></a>  
 
+---
+
 ### [The North Face Fuseform Eragon](http://www.backcountry.com/the-north-face-fuseform-eragon-wind-jacket-mens)
 
 <a  href="http://www.amazon.com/gp/product/B015940COK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B015940COK&linkCode=as2&tag=hikeve-20&linkId=BJU5MZ2MPTNXIRPE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B015940COK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B015940COK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -57,6 +61,8 @@ The Arcteryx Incendo Hoody has breathable mesh panels under the arms, a hood and
 The North Face Fuseform Eragon has fewer seams and a streamlined, Alpine-specific fit.
 
 <a href="http://www.backcountry.com/the-north-face-fuseform-eragon-wind-jacket-mens"><button type="button" class="btn btn-danger">Read more about the The North Face Fuseform Eragon</button></a> 
+
+---
 
 ### [Arcteryx Squamish Hoody](http://www.backcountry.com/arcteryx-squamish-hooded-jacket-mens)
 
@@ -69,6 +75,8 @@ The North Face Fuseform Eragon has fewer seams and a streamlined, Alpine-specifi
 The Arcteryx Squamish Hoody comes with a hood, full front zip and a front pocket. This jacket also has cuff adjusters and a reflective logo.
 
 <a href="http://www.backcountry.com/arcteryx-squamish-hooded-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Arcteryx Squamish Hoody</button></a>  
+
+---
 
 ## Conclusion
 There is probably not much difference between the wind breakers in my buying guide about the best wind jackets and it's more about your own preference towards color and brand. I am wearing the[Arcteryx Squamish Hoody](http://www.backcountry.com/arcteryx-squamish-hooded-jacket-mens) since years and I am quite happy with it. Konstantin just recently got a [Patagonia Houdini](https://www.rei.com/product/893303/patagonia-houdini-jacket-mens) and is also very pleased with it.
