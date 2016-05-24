@@ -126,3 +126,23 @@ Considering your own body and gear weight is important when choosing snowshoes. 
 * Adjustability (e.g. binding to tighten your snowshoes on your foot)
 * Does it fit to your "snowshoe boots" (e.g. I use my hiking boots)
 * Do you want snowshoes for beginners? (they are cheaper and technically less advanced)
+
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "bottom";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Snowshoes Suggestions";
+amzn_assoc_default_search_phrase = "snowshoes";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
