@@ -50,21 +50,6 @@ Considering your own body and gear weight is important when choosing your snowsh
 
 ---
 
-### [Atlas Race 22](http://www.moosejaw.com/moosejaw/shop/product_Atlas-Snow-Race-Snowshoe_10202841_10208_10000001_-1_)
-
-<a href="http://www.amazon.com/gp/product/B007F9BTPE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007F9BTPE&linkCode=as2&tag=hikeve-20&linkId=JBGK6MDC2HPRRMDZ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007F9BTPE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B007F9BTPE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**weight:** 980 grams   
-**application:** running   
-**awards:** Outside Magazine Gear of the Year Award Winner 2013
-
-* The Atlas Race is the lightest snowshoe in our list.
-* Titanium toe and heel crampon
-
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Atlas-Snow-Race-Snowshoe_10202841_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Atlas Race 22</button></a>  
-  
----
-  
 ### [MSR Lightning Explore 25](http://www.backcountry.com/msr-lightning-explore-snowshoe-mens)
 
 <a href="http://www.amazon.com/gp/product/B00LFJNWGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNWGO&linkCode=as2&tag=hikeve-20&linkId=5DOFWDAR6SHYQAWV"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJNWGO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJNWGO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -113,6 +98,24 @@ Considering your own body and gear weight is important when choosing your snowsh
 
 ---
 
+### [Atlas 12 Series](http://www.backcountry.com/atlas-12-series-snowshoe)
+
+<a  href="http://www.amazon.com/gp/product/B0000AN4EK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000AN4EK&linkCode=as2&tag=hikeve-20&linkId=4JUOH2Q6ICUQI46M"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0000AN4EK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0000AN4EK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**weight:** 2100 grams   
+**application:** backcountry, summit and trail   
+
+* The Atlas 12 Series frame is made of 7075 aluminum 
+* Flagship snowshoe of Atlas
+* Reactive frame
+* Wrapp pro binding
+* Spring-loaded suspension
+* Duratek Decking
+
+<a href="http://www.backcountry.com/atlas-12-series-snowshoe"><button type="button" class="btn btn-danger">Read more about the Atlas 12 Series</button></a>  
+  
+---
+
 ## Discounts
 <div class="row">
   <div class="col-sm-12">
@@ -146,7 +149,7 @@ Konstantin snowshoeing in the [Austrian Alps](http://www.hikeventures.com/Testin
 ---
 
 ## Conclusion
-So which are the best snowshoes for 2016? My preference goes towards a light snowshoe which has a good grip. I would probably choose the [MSR Lightning Ascent](http://www.backcountry.com/msr-lightning-ascent). The [MSR Revo Ascent 25](http://www.backcountry.com/msr-revo-ascent-snowshoe-mens) would be my second choice because of the additional weight. The advantage of the MSR Revo Ascent it that it is a bit more durable than the MSR Lightning Ascent.
+So which are the best snowshoes for 2016? My preference goes towards a light snowshoe which has a good grip in the backcountry and in the mountains. I would probably choose the [MSR Lightning Ascent](http://www.backcountry.com/msr-lightning-ascent). The [MSR Revo Ascent 25](http://www.backcountry.com/msr-revo-ascent-snowshoe-mens) would be my second choice because of the additional weight. The advantage of the MSR Revo Ascent it that it is a bit more durable than the MSR Lightning Ascent. 
 
 ---
 
