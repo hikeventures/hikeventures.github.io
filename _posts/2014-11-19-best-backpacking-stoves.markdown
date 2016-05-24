@@ -13,7 +13,7 @@ A portable and lightweight camping stove is one of the most essential item to ha
 
 <!--more-->
 
-Konstantin with the [Jetboil Sol Ti](http://hikeventures.com/gear-review-jetboil-sol-ti/ "Jetboil Sol Ti") in [Sarek National Park](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Sarek National Park") in Sweden.
+Konstantin with a [Jetboil stove](http://hikeventures.com/gear-review-jetboil-sol-ti/ "Jetboil Sol Ti") in [Sarek National Park](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Sarek National Park") in Sweden.
 
 ### [MSR MicroRocket](http://www.backcountry.com/msr-micro-rocket-stove)
 
