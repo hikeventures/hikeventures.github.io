@@ -92,7 +92,7 @@ The MSR XGK EX is probably the best choice if you need a stove which can handle 
 
 ---
 
-## Deals
+## Discounts
 <div class="row">
   <div class="col-sm-12">
 <center>
