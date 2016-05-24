@@ -12,7 +12,7 @@ Here is my buying guide for the best snowshoes for 2016 sorted by weight. Snowsh
 
 On the picture you can see me walking with my Tubbs Xpedition snowshoes in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Snowshoeing in Urho Kekkonen National Park").
  
-Considering your own body and gear weight is important when choosing snowshoes. The more weight you want to carry the bigger the surface of the snowshoe should be. Also look at the size of the crampons and if the binding is suitable / durable or if you prefer fixed-rotation or full-rotation bindings.
+Considering your own body and gear weight is important when choosing your snowshoes. The more weight you want to carry the bigger the surface of the snowshoe should be. Also look at the size of the crampons and if the binding is suitable / durable or if you prefer fixed-rotation or full-rotation bindings.
 
 ---
 
@@ -123,6 +123,11 @@ Considering your own body and gear weight is important when choosing snowshoes. 
 </div>
 
 ---
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24785831751/in/photolist-Dm1oBg-DJ5oFY-Dm1YSa-DSbpUy-CWZxhh-DUv9z4-DLeSfK-DLeWra-CWZhq3-DsowUj-CWZoVY-DJ55xd-CWYQyo-CX6sRF-DUueLP-Dm1SnM-DJ5qtf-CX6ZLM-r3peJw-qNgY7t" title="MSR Lightning Ascent and MSR Flight 2"><img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="MSR Lightning Ascent and MSR Flight 2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+   
+Konstantin snowshoeing in the [Austrian Alps](http://www.hikeventures.com/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/) with this [MSR Lightning Ascent](http://www.backcountry.com/msr-lightning-ascent).
+   
 
 ## What makes a good snowshoe
 
