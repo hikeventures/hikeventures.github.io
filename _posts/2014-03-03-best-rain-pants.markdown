@@ -23,6 +23,8 @@ The Montane Minimus pants are super light and pack easily into every backpack. T
 
 <a href="http://www.campsaver.com/minimus-pants-men-s"><button type="button" class="btn btn-danger">Read more about the Montane Minimus Pants</button></a>  
 
+---
+
 ### [Montane Atomic Pants](http://www.moosejaw.com/moosejaw/shop/product_Montane-Men-s-Atomic-Pant_10276270_10208_10000001_-1_)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B007RLM8JQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007RLM8JQ&linkCode=as2&tag=hikeve-20&linkId=GBWCT2S4ZY3KW4PQ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007RLM8JQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B007RLM8JQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -33,6 +35,8 @@ The Montane Minimus pants are super light and pack easily into every backpack. T
 The Montane Atomic Pants are a bit more durable than the Montane Minimus Pants but comes with 44 grams more weight. Also a great choice if you go hiking in the mountains during the warmer months.
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Montane-Men-s-Atomic-Pant_10276270_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about theMontane Atomic Pants</button></a>  
+
+---
 
 ### [Mountain Hardwear Plasmic Pant](http://www.backcountry.com/mountain-hardwear-plasmic-pant-mens)
 
@@ -45,6 +49,7 @@ The Mountain Hardwear Plasmic Pants are slightly more heavy than the Montane pan
 
 <a href="http://www.backcountry.com/mountain-hardwear-plasmic-pant-mens"><button type="button" class="btn btn-danger">Read more about the Mountain Hardwear Plasmic Pant</button></a>  
 
+---
 
 ### [Haglöfs L.I.M. III pants](http://www.backcountry.com/haglfs-l.i.m.-iii-pant-mens)
 
@@ -54,6 +59,8 @@ The Mountain Hardwear Plasmic Pants are slightly more heavy than the Montane pan
 The Haglöfs L.I.M. III pants are part of Haglöfs Ultralight product range and quite popular in Scandinavia. The zippers on the legs help to put those pants on while wearing hiking boots.
 
 <a href="http://www.backcountry.com/haglfs-l.i.m.-iii-pant-mens"><button type="button" class="btn btn-danger">Read more about the Haglöfs L.I.M. III pants</button></a>  
+
+---
 
 ### [Arcteryx Beta SL Pants](http://www.backcountry.com/arcteryx-beta-sl-pant-mens)
 
@@ -65,6 +72,8 @@ The Haglöfs L.I.M. III pants are part of Haglöfs Ultralight product range and 
 SL stands for Super Light in the Arcteryx product range. This model is reinforced in key wear areas, has articulated knees but only comes with lower leg zippers.
 
 <a href="http://www.backcountry.com/arcteryx-beta-sl-pant-mens"><button type="button" class="btn btn-danger">Read more about the Arcteryx Beta SL Pants</button></a>  
+
+---
 
 ### [Rab Xiom Pants](http://www.campsaver.com/xiom-pant-men-s)
 
