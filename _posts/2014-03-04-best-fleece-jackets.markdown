@@ -16,18 +16,12 @@ A fleece jacket is a great garment which can be used as a mid-layer to keep you 
 
 While [Packrafting in Sarek](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Packrafting in Sarek") Patrick was always wearing a fleece during the day.
 
-## How to use a fleece?
-A fleece jacket can be also use as an outer shell if it's not raining but they are not windproof so you should also consider to get a [wind jacket](http://www.hikeventures.com/best-windjackets/ "Wind Jackets") when buying a fleece. Wind jackets are more breathable than rain jackets since they are not waterproof and you won't sweat that much in a wind jacket. In situations where you are not active (e.g. sitting in your camp or taking pictures) you should rather consider buying a [down jacket](http://www.hikeventures.com/best-down-jackets/ "Down Jackets"). Down does not insulate if it gets wet but keeps you warmer than fleece when dry.
+---
 
-## Deals
-<div class="row">
-  <div class="col-sm-12">
-<center>
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=fleece jacket men AND the north face OR fleece jacket men AND Columbia OR fleece jacket men AND Westcomb OR fleece jacket men AND Mountain Hardwear OR fleece jacket men AND Montane OR fleece jacket men AND Berghaus OR fleece jacket men AND Rab&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
-</center>
-  </div>
-</div>
-<br> 
+## When to wear a fleece jacket?
+Fleece jackets can be worn as an outer shell if it's not raining but they are not windproof so you should also consider to get a [wind jacket](http://www.hikeventures.com/best-windjackets/ "Wind Jackets") when buying a fleece. Wind jackets are more breathable than [rain jackets](http://www.hikeventures.com/best-rain-jackets/) since they are not waterproof and you won't sweat that much in a wind jacket. In situations where you are not active (e.g. sitting in your camp or taking pictures) you should rather consider buying a [down jacket](http://www.hikeventures.com/best-down-jackets/ "Down Jackets"). Down does not insulate if it gets wet but keeps you warmer than fleece when dry.
+
+---
 
 ## Best fleece jackets for 2016
 
@@ -42,6 +36,8 @@ The Acteryx Thetis Zip Neck fleece is more a fleece for those who are planning t
 
 <a href="http://www.hikeventures.com/deals/#arcteryx+thetis+zip+neck"><button class="btn btn-danger">Compare prices</button></a>
 
+---
+
 ### Mammut Moench Longsleeve
 
 <a href="http://www.amazon.com/gp/product/B005JWKXC4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005JWKXC4&linkCode=as2&tag=hikeve-20&linkId=AM7UMWDALROAZGHE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005JWKXC4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005JWKXC4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></td><td>
@@ -52,6 +48,8 @@ The Acteryx Thetis Zip Neck fleece is more a fleece for those who are planning t
 The Mammut Moench Longsleeve features a stretchy fabric which should keep you dry and allow your body to move with ease. This should be a good fleece for activities in the mountains.
 
 <a href="http://www.hikeventures.com/deals/#mammut+moench"><button class="btn btn-danger">Compare prices</button></a>
+
+---
 
 ### Rab Micro Pull-on
 
@@ -64,6 +62,8 @@ The Rab Micro Pull-on is also a light fleece pullover. It's fabric is made of re
 
 <a href="http://www.hikeventures.com/deals/#micro+pull+on"><button class="btn btn-danger">Compare prices</button></a>
 
+---
+
 ### Arcteryx Delta LT Zip Neck
 
 <a href="http://www.amazon.com/gp/product/B00GW7ZQG8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZQG8&linkCode=as2&tag=hikeve-20&linkId=TWGUKPE3JX4IKWXK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7ZQG8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7ZQG8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -75,10 +75,26 @@ The Arcteryx Delta LT Zip Neck is also a nice fleece. I have currently the Delta
 
 <a href="http://www.hikeventures.com/deals/#Arcteryx+delta+lt+zip"><button class="btn btn-danger">Compare prices</button></a>
 
+---
+
+## Discounts
+<div class="row">
+  <div class="col-sm-12">
+<center>
+ <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=fleece jacket men AND the north face OR fleece jacket men AND Columbia OR fleece jacket men AND Westcomb OR fleece jacket men AND Mountain Hardwear OR fleece jacket men AND Montane OR fleece jacket men AND Berghaus OR fleece jacket men AND Rab&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
+</center>
+  </div>
+</div>
+<br> 
+
+---
+
 ## Best Fleece Fabric
 Keep in mind that lighter material might be less durable depending on the technology used. Polartec Classic 100 fleece is in most cases sufficient if you go hiking. Polartec Power Stretch might be more interesting for those folks going climbing. Also consider if you need pockets or a full-zip jacket on your fleece as they might weight more. 
 
-A good idea is also to combine a fleece jacket with a [wind jacket](http://www.hikeventures.com/best-windjackets/ "wind jackets") since fleece jackets are not windproof and you won't sweat that much in a wind jacket than in a [rain jacket](http://www.hikeventures.com/best-waterproof-rain-jackets/).
+A good idea is also to combine a fleece jacket with a [wind jacket](http://www.hikeventures.com/best-windjackets/ "wind jackets") since fleece jackets are not windproof and you won't sweat that much in a wind jacket than in a [rain jacket](http://www.hikeventures.com/best-rain-jackets/).
+
+---
   
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
@@ -95,3 +111,5 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
