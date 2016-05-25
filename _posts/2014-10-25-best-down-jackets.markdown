@@ -7,23 +7,6 @@ description: Need a warm jacket for your autumn or winter? We found the best dow
 category: articles
 tags: [articles, best, jackets]
 ---
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Sleeping Pad Suggestions";
-amzn_assoc_default_search_phrase = "therm-a-rest xtherm";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "4ed4f3a73554e18518356cdc84379cf8";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
-
 Here is our buying guide of the best summer and winter down jackets for 2016 which you can take on your next hiking, backpacking, skiing, snowboarding, mountaineering, climbing, photography or any other backcountry outdoor adventure to stay warm. 
 
 We usually go hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe and have selected the down jackets we would consider to buy accordingly. [Here](http://www.hikeventures.com/destinations/) you can find a list of destinations we have visisted so far.
