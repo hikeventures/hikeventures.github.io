@@ -75,8 +75,8 @@ In this blog post you can find the best sleeping pads which are available in 201
 <li> Does the pad slip easily in the tent?</li>
 <li> Does the pad make noise when I sleep on it (ear plugs might help)?</li>
 </ul>
-<hr>
 
+<hr>
 
 <h2> Discounts</H2>
 
