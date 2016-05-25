@@ -6,7 +6,7 @@ comments: true
 category: articles
 tags: [articles, best, backpack, packrafting]
 ---
-Having used the HMG Porter 4400 for the last 2 years for my packrafting activities, I was interested to see what other backpacks there are currently on the market which are suitable for packrafting. My current backpack is made of Cuben Fiber. However, I would be interested to try out a backpack where the body of the backpack is a removable dry bag. In case I would get a puncture into my backpack I could easily replace the dry bag. This would be a cheaper and maybe more environmentally friendly solution in the long run.
+In this artcile I would like to present the best backpacks with are available for packrafting. Having used the [HMG Porter 4400](https://www.hyperlitemountaingear.com/4400-porter.html)  for the last 3 years on my packrafting trips I was interested to see which alternatives would be available on the market. Gernerally, speaking I was not able to find any alternative to the [HMG Porter 4400](https://www.hyperlitemountaingear.com/4400-porter.html) which is that light and feels like a proper backpack when I bought it. So let's see what other options are available nowadays.
 
 <a href="https://www.flickr.com/photos/90204224@N07/13979508784" title="The best backpack for packrafting"><img src="https://c2.staticflickr.com/8/7211/13979508784_43bee1910b_b.jpg" width="1024" height="683"></a>
 
@@ -77,4 +77,4 @@ Weight: 1179 grams (without dry sack)
 ---
 
 ## Conclusion
-My favourite backpack is the [HMG Porter 4400](https://www.hyperlitemountaingear.com/4400-porter.html) and I use it since 3 years as my packrafting backpack. I did not have any issues with it so far. There are just a few small spots which are wearing off but it would have happen to any other backpack as well.
+My favourite backpack is still the [HMG Porter 4400](https://www.hyperlitemountaingear.com/4400-porter.html) and I use it since 3 years as my packrafting backpack. I did not have any issues with it so far. There are just a few small spots which are wearing off but it would have happen to any other backpack as well.
