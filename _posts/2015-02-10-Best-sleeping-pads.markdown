@@ -59,9 +59,11 @@ In this blog post you can find the best sleeping pads which are available in 201
 <td width="10%"><a href="http://www.hikeventures.com/deals/#evolite"><button class="btn btn-danger">Compare prices</button></a></td>
 </tr></table></div>
 
+
 ---
 
 <img src="https://farm6.staticflickr.com/5590/14925237036_4743bca2f4_b.jpg" width="1024" height="683" alt="Exped Synmat UL 7">
+    
 Exped Synmat UL 7
 
 ---
