@@ -270,7 +270,7 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Suggested Down Jackets";
-amzn_assoc_default_search_phrase = "down jacket 800";
+amzn_assoc_default_search_phrase = "arcteryx down jacket";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "94ae095fd527d4f97d365afbd4404fcf";
 </script>
