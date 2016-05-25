@@ -84,7 +84,7 @@ The Hilleberg Niak 1.5 is a non-freestanding 1 person tent.
 **Weight:** 1.7 kg   
 **Area inner tent:** 2.6 m²   
 
-The Enan as a solo tent looks like an interesting tent for the summer months. However, if you need more space e.g. if there is a longer rain period then you would appreciate most likely the new Niak 1.5. It can accommodate 1-2 persons and has a vestibule to store your gear. I was actually interested in getting the Hilleberg Unna or the Akto as a go-to solo tent but I would prefer having the Niak 1.5 if I would just use it during the warmer months.
+The Enan as a solo tent looks like an interesting tent for the summer months. However, if you need more space e.g. if there is a longer rain period then you would appreciate most likely the new Niak 1.5. It can accommodate 1-2 persons and has a vestibule to store your gear. I was actually interested in getting the Hilleberg Soulo or the Akto as a go-to solo tent but I would prefer having the Niak 1.5 if I would just use it during the warmer months.
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Niak-1-5-Person-Tent_10306870_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Hilleberg Niak</button></a> 
 
@@ -100,7 +100,7 @@ The Hilleberg Akto is a non-freestanding 1-person tent for 4 seasons.
 **Weight:** 1.7 kg
 **Area inner tent:** 2.6 m²
 
-The Akto is a solo tent with low weight and quite popular among solo travellers. If you are not going into extreme conditions then this could be a great solo tent if you don't need a lot of space. For harsher conditions I would rather pick the Hilleberg Soulo or the Unna which comes with more space. 
+The Akto is a solo tent with low weight and quite popular among solo travellers. If you are not going into extreme conditions then this could be a great solo tent if you don't need a lot of space. For harsher conditions I would rather pick the Hilleberg Soulo which comes with more space. 
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Akto-1-Person-Tent_10101417_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Hilleberg Akto</button></a> 
 
@@ -194,7 +194,7 @@ Another consideration might be if you need a freestanding dome tent or a tunnel 
 Do you want to leave your inner tent at home to save some weight and use the outer tent as a tarp?
 
 ### Mesh as an inner tent?
-In the warmer months you would like to have a mesh as an inner tent either to have a better air circulation or to have a panorama view if there are no clouds in the sky. Not all tents have a mesh as an inner tent (e.g. Hilleberg) and you need to purchase them separately.
+In the warmer months you would like to have a mesh as an inner tent either to have a better air circulation or to have a panorama view if there are no clouds in the sky. Not all tents have a mesh as an inner tent (e.g. Hilleberg) and you need to purchase it separately.
 
 ### Protected or unprotected areas
 Are you hiking in a protected area like a forest or an unprotected area like on a hill or mountain which requires a stronger tent.
@@ -220,13 +220,11 @@ The MSR Hubba Hubba NX on our packrafting trip in Scotland in February 2016.
 ## Conclusion
 It's quite hard to say which tent is the best. It all depends on your needs and where you are planning to use the tent. Currently, we are using the MSR Hubba Hubba NX and the Anjan 3 (see also [here](http://www.hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/ "Hilleberg Anjan Tent")) which are great tents for spring, summer and autumn. The only disadvantage with the Anjan 3 is that it is not freestanding.
 
-I recently asked Hilleberg concerning their fabrics and they recommended to go for Kerlon 1200 or 1800 for exposed environment and long duration trips. As I also want to take my tent to more remote areas of Scandinavia where some parts do not even have cell phone coverage so I could call for help in case of an emergency (except if you have a GPS messenger) the Enan and the Niak 1.5 (3-season tents with Kerlon 600) are not going to be my go-to tents.
-
-Personally, I would choose the Hilleberg Unna as a 1-person tent since I need a freestanding tent for packrafting and kayaking but on the same time it is light enough for backpacking. The Unna also offers lots of space and might be also more suitable if you are 176 cm or taller. I would even prefer the Hilleberg Soulo (it just looks nice) over the Hilleberg Unna but if you are 180 cm tall then you are going to touch the tent walls of the Hilleberg Soulo with your head / foot and your sleeping bag will get wet. This means that your sleeping bag will lose insulation and you might start feeling cold during the night.
+If I were to choose a new tent then I would probably choose the Hilleberg Soulu as a 1-person tent since I need a freestanding tent for packrafting and kayaking but on the same time it is light enough for backpacking. However, if you are 180 cm or taller then the Hilleberg Soulo might be too short for you.
 
 In my opinion the MSR Hubba Hubba NX offers a good price-value ratio if you only camp occasionally. However, we also found that the thin floor fabric on the MSR Hubba Hubba NX could cause an issue if you are planning to camp a lot or you just have to be a bit careful where you pitch your tent. I would not consider buying the new MSR Carbon Reflex or MSR FreeLite tents as they are using an even thinner floor fabric than the MSR Hubba NX.
 
-If you do winter camping then it's probably a good idea to get an even bigger tent like the Hilleberg Kaitum.
+If you do winter camping then it's probably a good idea to get an even bigger tent like the [Hilleberg Kaitum](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Kaitum-2-Person-Tent_10101437_10208_10000001_-1_) or [Nammatj](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Nammatj-GT-2-Person-Tent_10101469_10208_10000001_-1_).
 
 ---
 
