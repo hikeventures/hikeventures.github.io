@@ -32,4 +32,20 @@ In general, we also liked the camera lens protection. Even so there is no physic
 
 However, we will test the new Thule Atmos X5 (which is supposed to be waterproof) on our iPhones on our next trip probably in Poland or Japan. If the X5 works as promised it will probably be our outdoor smartphone case of choice for our upcoming hiking and packrafting adventures.
 
-<a  href="http://www.amazon.com/gp/product/B00PAYZE5W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PAYZE5W&linkCode=as2&tag=hikeve-20&linkId=XWN23HYJ4K7DC3UA"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00PAYZE5W&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00PAYZE5W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Thule-Atmos-X4-iPhone-6-Case_10281416_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Thule X4</button></a>  
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Thule Case Suggerstions";
+amzn_assoc_default_search_phrase = "Thule X5";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "330741f8294ab70702f9709e72539f77";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
