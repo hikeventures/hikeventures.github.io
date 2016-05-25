@@ -422,11 +422,5 @@ Sarek was a great experience and we look forward to visit the Sarek National Par
 <a href="https://www.flickr.com/photos/90204224@N07/9596162859"><img src="https://farm6.staticflickr.com/5336/9596162859_3d2d76ede9_b.jpg" width="1024" height="281"></a>
 By ferry from Umea to Vaasa. Bye bye Sweden.
 
-## Others who have been in Sarek
-
-* [Hiking Adventures in Sarek National Park](http://lauragoesworld.wordpress.com/2014/09/10/hiking-adventures-in-sarek-national-park/)
-* [Sarek National Park—Conclusion](http://streamsandforests.wordpress.com/2014/09/08/sarek-national-park-conclusion)
-
-
 ## Links
-Our <a href="http://hikeventures.com/sarek-packrafting-video/" target="_blank">Sarek video</a>.
+Our <a href="http://hikeventures.com/sarek-packrafting-video/" target="_blank">Our Sarek packrafting video</a>.
