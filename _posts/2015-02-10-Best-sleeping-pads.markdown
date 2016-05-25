@@ -4,7 +4,7 @@ title: The Best Sleeping Pads for 2016
 date: "2016-01-03 18:49:09 +0200"
 comments: true
 published: true
-description: "Need a new Sleeping Pad? Here is an overview of the best sleeping pads on the market!"
+description: Need a new Sleeping Pad? Here is our selection of the best sleeping pads on the market!
 category: reviews
 tags: [reviews, sleeping pads, best]
 ---
@@ -81,7 +81,7 @@ Exped Synmat UL 7
 
 <h2> Factors determining the best sleeping pad </h2>
 <li>
-<ul> Weight (do you want an ultralight sleeping pad?)<br>     </ul>
+<ul> Weight (do you want an ultralight sleeping pad?)   </ul>
 <ul> Size (does it need to pack small?)</ul>
 <ul> Pad for summer, winter, or 4-season?</ul>
 <ul> Sleeping area (do I need a bigger size because I am a big guy?)</ul>
