@@ -45,8 +45,22 @@ Personally, I like the new look of the Suunto Traverse more than the look of the
 
 **Update (19.4.2016):** Suunto has released the Suunto Traverse Alpha which is targeted towards hunters and fishers.
 
-<a  href="http://www.amazon.com/gp/product/B014PNZKC0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014PNZKC0&linkCode=as2&tag=hikeve-20&linkId=632KXW4PCPBDYU3S"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B014PNZKC0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B014PNZKC0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-   
 Need some more inspirations on how to use the Suunto Ambit or Suunto Traverse watch? Here is a [trip report](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/) from the Swedish mountains where I was wearing the Suunto Ambit3 on a packrafting trip.
 
+---
 
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Suunto Watch Suggestions";
+amzn_assoc_default_search_phrase = "Suunto GPS";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "b584bb12b91da85107bc0ed5aa6d043f";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
