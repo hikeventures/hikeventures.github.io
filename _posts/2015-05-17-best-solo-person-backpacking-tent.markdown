@@ -217,14 +217,14 @@ Here is also an [article](http://www.hikeventures.com/packrafting-Njuoreatnu-Tor
 amzn_assoc_placement = "adunit0";
 amzn_assoc_search_bar = "false";
 amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "bottom";
+amzn_assoc_search_bar_position = "top";
 amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_title = "Tent Suggestions";
-amzn_assoc_default_search_phrase = "hilleberg tent";
+amzn_assoc_title = "1-Person Tent Suggestions";
+amzn_assoc_default_search_phrase = "Hilleberg 1-person tent";
 amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
+amzn_assoc_linkid = "b584bb12b91da85107bc0ed5aa6d043f";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
