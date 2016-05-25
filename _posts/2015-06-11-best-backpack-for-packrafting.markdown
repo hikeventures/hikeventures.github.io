@@ -24,47 +24,57 @@ From my point of view a good packrafting backpack should have the following feat
 * lightweight
 * attachable to your packraft
 
-## Deals or Full price?
-It's always a good idea to check if there are some deals available. You can try our [price comparison tool](http://www.hikeventures.com/deals/ "Price Comparison") to find the best price offered by several outdoor stores across the U.S.
-
-## HMG Windrider 4400
+## [HMG Windrider 4400](https://www.hyperlitemountaingear.com/4400-windrider.html)
 The HMG Windrider is similar as the HMG Porter 4400 but comes already with three mesh pockets which I find quite useful if you want to quickly store some gear.
 
 Weight: 992 grams  
 Volume: 70l  
 Fabric: 15D Cuben Fiber  
 
-You can check out the HMG Windrider on the [HMG website](http://bit.ly/1IyJksY "HMG").
+<a href="https://www.hyperlitemountaingear.com/4400-windrider.html">Read more about the HMG Windrider 4400</button></a>  
 
-## HMG Porter 4400
+---
+
+## [HMG Porter 4400](https://www.hyperlitemountaingear.com/4400-porter.html)
 This is my current backpack with a volume of 70l. It felt comfortable to carry also on longer distances but after 2 years it shows some wear and has a couple of punctures. The HMG Porter is made of Cuben Fiber but I am not sure if I should get another one since I found the fabric not that durable and with punctures on my backpack the backpack loses it's main feature - being waterproof. 
 
 Weight: 1065 grams  
 Volume: 70l  
 Fabric: 15D Cuben Fiber
 
-You can check out the HMG Porter on the [HMG website](http://bit.ly/1IyJ8dq "HMG").
+<a href="https://www.hyperlitemountaingear.com/4400-porter.html"><button type="button" class="btn btn-danger">Read more about the HMG Porter 4400</button></a>  
 
-## Sea to Summit Hydraulic Dry Pack
+---
+
+## [Sea to Summit Hydraulic Dry Pack](http://www.backcountry.com/sea-to-summit-hydraulic-dry-pack)
 The Sea to Summit Hydraulic Dry Packs looked to me as an interesting alternative to my HMG backpack until I realised that the carrying system could be a problem. It does not have a proper back panel which might be an issue when carrying your backpack over longer distances.
 
 Weight: 1319 grams  
 Volume: 90l  
 Fabric: 600D TPU laminated fabric
 
-You can check out the Sea to Summit Hydraulic Dry Pack [here](http://bit.ly/1C1hoFt "Sea to Summit Hydraulic Dry Sack").
+<a href="http://www.backcountry.com/sea-to-summit-hydraulic-dry-pack"><button type="button" class="btn btn-danger">Read more about the Sea to Summit Hydraulic Dry Pack</button></a>  
 
-## ULA Epic
+---
+
+## [ULA Epic](http://www.ula-equipment.com/product_p/epic.htm?avad=150351_eb5dd49b)
 The ULA Epic seems to be the best choice beside the NRS Paragon Pack if I want to have a backpack where I can exchange the dry bag. The ULA Epic is quite flexible and you can attach a 30-75l dry back on it. Having had a 70l pack before the additional 5l on a 75l dry back would come quite handy on an extended trip where I have to carry loads of food and my camera with me. The additional pockets on the ULA Epic also add another 9l of volume to the pack.
 
 Weight: 922 grams (without dry sack)  
 Volume: 30-75l  
 
-You can find the ULA Epic [here](http://www.ula-equipment.com/product_p/epic.htm "ULA Epic").
+<a href="http://www.ula-equipment.com/product_p/epic.htm?avad=150351_eb5dd49b"><button type="button" class="btn btn-danger">Read more about the ULA Epic</button></a>  
 
-## NRS Paragon Pack
+---
+
+## [NRS Paragon Pack](http://www.moosejaw.com/moosejaw/shop/product_NRS-Paragon-Pack_10275460_10208_10000001_-1_)
 The NRS Paragon Pack is quite versatile like the ULA Epic and you can use smaller and bigger dry bags with it as well as you can read in the [Q&A section](http://www.nrs.com/product/2933/nrs-paragon-pack2 "NRS Paragon Pack"). The straps on the back of the NRS Paragon Pack also look like you can attach your paddles to the backpack.
 
 Weight: 1179 grams (without dry sack)
 
-You can buy the NRS Paragon [here](http://bit.ly/1GABxcz "NRS Paragon Pack").
+<a href="http://www.moosejaw.com/moosejaw/shop/product_NRS-Paragon-Pack_10275460_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the  NRS Paragon</button></a> 
+
+---
+
+## Conclusion
+My favourite backpack is the [HMG Porter 4400](https://www.hyperlitemountaingear.com/4400-porter.html) and I use it since 3 years as my packrafting backpack. I did not have any issues with it so far. There are just a few small spots which are wearing off but it would have happen to any other backpack as well.
