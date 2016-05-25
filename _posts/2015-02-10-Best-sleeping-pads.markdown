@@ -11,11 +11,9 @@ tags: [reviews, sleeping pads, best]
 
 In this blog post you can find the best sleeping pads which are available in 2016. I have sorted my list according to the weight of the sleeping pads and also indicated the R-value of the sleeping pads so you can choose the one which would be most suitable for your next outdoor adventure. From my selection of the best sleeping pads I have only tested the Therm-a-Rest NeoAir XTherm, Therm-a-Rest Evolite and the Exped SYNMAT UL 7 M (you can [see](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) the SYNMAT UL 7 M in action on our hiking and packrafting trip in the Swedish Mountains).
 
-<a href="https://www.flickr.com/photos/90204224@N07/9599003854" title="Best sleeping pads 2016"><img src="https://c1.staticflickr.com/3/2882/9599003854_415a4828f0_o.jpg" width="992" height="661" alt="Best sleeping pads in 2016"></a><a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/"></a><!--more-->
+<a href="https://www.flickr.com/photos/90204224@N07/9599003854" title="Best sleeping pads 2016"><img src="https://c1.staticflickr.com/3/2882/9599003854_415a4828f0_o.jpg" width="992" height="661" alt="Best sleeping pads in 2016"></a><a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/"></a>
+<!--more-->
   
-<img src="https://farm6.staticflickr.com/5590/14925237036_4743bca2f4_b.jpg" width="1024" height="683" alt="Exped Synmat UL 7">
-Exped Synmat UL 7
-
 <div class="table-responsive">
 <table class="table">
 <tr>
@@ -60,6 +58,11 @@ Exped Synmat UL 7
 <td width="10%">480</td>
 <td width="10%"><a href="http://www.hikeventures.com/deals/#evolite"><button class="btn btn-danger">Compare prices</button></a></td>
 </tr></table></div>
+
+---
+
+<img src="https://farm6.staticflickr.com/5590/14925237036_4743bca2f4_b.jpg" width="1024" height="683" alt="Exped Synmat UL 7">
+Exped Synmat UL 7
 
 ---
 
