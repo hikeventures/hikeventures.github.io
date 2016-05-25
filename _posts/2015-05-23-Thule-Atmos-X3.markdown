@@ -58,3 +58,21 @@ But the case has its limitations as well. As it is open, it does not provide any
 This all may change very soon as I have heard that Thule is planning to release a waterproof version of Atmos mobile case, which would be definitely something I will be interested in once it is available on the market. It would definitely be nice to enjoy the solid feel of the present case, while resting assured that no harm can be done to the phone in case it gets into the water. And I also hope that the new case would also have some kind of attachment point that I could use to fasten a lanyard or a strap. What the incident with my old phone has taught me is that it is not enough to keep your phone waterproof. It is also necessary to keep your phone. Full stop. 
 
 My verdict – even though Thule Atmos X3 has its limitations (especially when dealing with it on the water - check the the new Thule X5 if you need a waterproof solution), it is definitely something that I would recommend. Eventually it was one of the main reasons why I made up my mind to upgrade to iPhone 6.
+
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Thule Case Suggerstions";
+amzn_assoc_default_search_phrase = "Thule X5";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "330741f8294ab70702f9709e72539f77";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
