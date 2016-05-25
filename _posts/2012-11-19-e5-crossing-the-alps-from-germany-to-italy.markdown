@@ -100,6 +100,11 @@ View towards the Dolomites in South Tyrol.
 
 On our last day we hiked from the Meraner Hut to Bozen and then took the bus back to Oberstdorf. I can warmly recommend this trip. You may also meet like-minded hikers during the trip or on the huts as well and enjoy the great Austrian and Italian kitchen.
 
+## Books
+<a  href="http://www.amazon.com/gp/product/1852844922/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1852844922&linkCode=as2&tag=hikeve-20&linkId=SBLRW5OEAJM53B25"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1852844922&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=1852844922" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+There is also a book in English about the E5 available: <a href="http://amzn.to/1RpVxO9" rel="nofollow>Across the Eastern Alps: The E5: The E5 from Lake Constance to Verona</a>
+
 ## Links
 
 * [Oberstdorf][20]
