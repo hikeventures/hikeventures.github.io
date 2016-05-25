@@ -67,6 +67,7 @@ Exped Synmat UL 7
 ---
 
 ## Discounts
+
 <div class="row">
   <div class="col-sm-12">
 <center>
