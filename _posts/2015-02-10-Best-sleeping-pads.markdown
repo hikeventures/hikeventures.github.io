@@ -13,8 +13,50 @@ In this blog post you can find the best sleeping pads which are available in 201
 
 <a href="https://www.flickr.com/photos/90204224@N07/9599003854" title="Best sleeping pads 2016"><img src="https://c1.staticflickr.com/3/2882/9599003854_415a4828f0_o.jpg" width="992" height="661" alt="Best sleeping pads in 2016"></a>Sleeping bag in <a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/">Sarek National Park</a> in Sweden.
 <!--more-->
-  
 
+## Therm-a-Rest NeoAir XLite
+
+**R-Value:** 3.2   
+**Weight:** 350   
+
+<a href="https://www.rei.com/product/881574/therm-a-rest-neoair-xlite-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest NeoAir XLite</button></a>  
+
+---
+
+## Sea to Summit Ultralight
+
+**R-Value:** 0.7   
+**Weight:** 355   
+
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Sea-to-Summit-UltraLight-Mat_10291712_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Sea to Summit Ultralight</button></a>
+
+---
+
+## Therm-a-Rest NeoAir XTherm 
+
+**R-Value:** 5.7     
+**Weight:** 410    
+
+<a href="https://www.rei.com/product/881575/therm-a-rest-neoair-xtherm-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest NeoAir XTherm</button></a>
+
+---
+
+## Therm-a-Rest Z LITE SOL
+
+**R-Value:** 2.6  
+**Weight:** 410   
+
+<a href="https://www.rei.com/product/829826/therm-a-rest-z-lite-sol-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest Z LITE SOL</button></a>
+
+---
+
+## Exped Synmat UL 7
+
+**R-Value:** 3.3   
+**Weight:** 450   
+
+<a href="https://www.rei.com/product/811907/exped-synmat-ul-7-air-pad"><button type="button" class="btn btn-danger">Read more about the Exped Synmat UL 7</button></a>
+  
 <hr>
 
 <h2> Factors determining the best sleeping pad </h2>
