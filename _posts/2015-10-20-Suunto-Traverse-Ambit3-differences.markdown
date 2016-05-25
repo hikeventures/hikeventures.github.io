@@ -59,7 +59,7 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Suunto Watch Suggestions";
-amzn_assoc_default_search_phrase = "Suunto GPS";
+amzn_assoc_default_search_phrase = "Suunto traverse";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "b584bb12b91da85107bc0ed5aa6d043f";
 </script>
