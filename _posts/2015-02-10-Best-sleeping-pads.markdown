@@ -80,19 +80,19 @@ Exped Synmat UL 7
 <hr>
 
 <h2> Factors determining the best sleeping pad </h2>
-<li>
-<ul> Weight (do you want an ultralight sleeping pad?)   </ul>
-<ul> Size (does it need to pack small?)</ul>
-<ul> Pad for summer, winter, or 4-season?</ul>
-<ul> Sleeping area (do I need a bigger size because I am a big guy?)</ul>
-<ul> Ease of inflate / deflate</ul>
-<ul> Is weight more important to me than comfort?</ul>
-<ul> Durability (a thinner fabric may be less durable / may not be that puncture resistant)</ul>
-<ul> Do I want to have a  inflatable mattress, a self-inflating pad or a camping foam?</ul>
-<ul> Are the edges of the pad supportive?</ul>
-<ul> Does the pad slip easily in the tent?</ul>
-<ul> Does the pad make noise when I sleep on it (ear plugs might help)?</ul>
-</li>
+<ul>
+<li> Weight (do you want an ultralight sleeping pad?)   </li>
+<li> Size (does it need to pack small?)</li>
+<li> Pad for summer, winter, or 4-season?</li>
+<li> Sleeping area (do I need a bigger size because I am a big guy?)</li>
+<li> Ease of inflate / deflate</li>
+<li> Is weight more important to me than comfort?</li>
+<li> Durability (a thinner fabric may be less durable / may not be that puncture resistant)</li>
+<li> Do I want to have a  inflatable mattress, a self-inflating pad or a camping foam?</li>
+<li> Are the edges of the pad supportive?</li>
+<li> Does the pad slip easily in the tent?</li>
+<li> Does the pad make noise when I sleep on it (ear plugs might help)?</li>
+</ul>
 <hr>
 
 <h2> R-value and Season </h2>
