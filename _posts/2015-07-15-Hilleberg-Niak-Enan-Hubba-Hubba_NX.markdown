@@ -20,14 +20,26 @@ The other solo tent offered by Hilleberg is the Enan which weights 1.1 kg but ha
 
 So for 500 grams you get more space. It would be interesting to test the Niak 1.5 just to see if the new fabric which is also used with the Enan is durable and worth the investment.  
 
-Alternatively, Konstantin is currently testing the HUBBA HUBBA NX in Japan which is a freestanding 2-person tent for 3 seasons. What I really liked on the MSR is the Mesh on the inner tent which could even allow you to watch stars at night and of course that it is freestanding which is especially useful if you go paddling here in the Finnish Archipelago. The Hubba Hubba packs small, weights only 1.54 kg and costs less than the Hillebergs. The Hillebergs might have a quality edge but the MSR should do the Job as well for considerably less money.
+Alternatively, Konstantin is currently testing the MSR Hubba Hubba NX in Japan which is a freestanding 2-person tent for 3 seasons. What I really liked on the MSR is the Mesh on the inner tent which could even allow you to watch stars at night and of course that it is freestanding which is especially useful if you go paddling here in the Finnish Archipelago. The Hubba Hubba packs small, weights only 1.54 kg and costs less than the Hillebergs. The Hillebergs might have a quality edge but the MSR should do the job as well for considerably less money.
 
 Anyways, have a look on our blog if you are interested in the Hubba Hubba NX for an extensive review in the near future. Unfortunately, we don't have the Hillebergs available to test but there may come a review in the future as well. 
 
-Which tent would you pick? The MSR Hubba Hubba NX, the Hilleberg Enan or the Niak?
+Here you can read more about the [Hilleberg Niak](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Niak-1-5-Person-Tent_10306870_10208_10000001_-1_), [Hilleberg Enan](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Enan-1-Person-Tent_10274355_10208_10000001_-1_) and the [MSR Hubba Hubba NX](http://www.moosejaw.com/moosejaw/shop/product_MSR-Hubba-Hubba-NX-2-Person-Tent_10238367_10208_10000001_-1_).
 
-## MSR Hubba Hubba NX
-<script type="text/javascript" src="http://www.avantlink.com/api.php?module=ProductSearch&affiliate_id=125311&website_id=150351&merchant_ids&search_results_sort_order=Retail+Price|asc&output=js&search_results_count=5&search_results_layout=list&search_results_fields=|Merchant+Name|Product+Name|Retail+Price&search_term=MSR Hubba hubba NX"></script>
+---
 
-## Hilleberg Enan
-<script type="text/javascript" src="http://www.avantlink.com/api.php?module=ProductSearch&affiliate_id=125311&website_id=150351&merchant_ids&search_results_sort_order=Retail+Price|asc&output=js&search_results_count=5&search_results_layout=list&search_results_fields=|Merchant+Name|Product+Name|Retail+Price&search_term=Hilleberg Enan"></script>
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Search Results from Amazon";
+amzn_assoc_default_search_phrase = "MSR Hubba Hubba NX";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "330741f8294ab70702f9709e72539f77";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
