@@ -14,50 +14,6 @@ In this blog post you can find the best sleeping pads which are available in 201
 <a href="https://www.flickr.com/photos/90204224@N07/9599003854" title="Best sleeping pads 2016"><img src="https://c1.staticflickr.com/3/2882/9599003854_415a4828f0_o.jpg" width="992" height="661" alt="Best sleeping pads in 2016"></a>Sleeping bag in <a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/">Sarek National Park</a> in Sweden.
 <!--more-->
   
-<div class="table">
-<table class="table">
-<tr>
-<td width="70%"><h4>Model</h4> &nbsp;</td>
-<td width = "10%"><h4>R</h4> &nbsp;</td>
-<td width = "10%"><h4>Weight</h4> &nbsp;</td>
-<td width = "10%"></td>
-</tr>
-<tr>
-<td width="70%"><h4>Therm-a-Rest NeoAir XLite</h4></td>
-<td width="10%">3.2</td>
-<td width="10%">350</td>
-<td width="10%"><a href="http://www.hikeventures.com/deals/#neoair+xlite"><button class="btn btn-danger">Compare prices</button></a></td></tr>
-
-<tr>
-<td width="70%"><h4>Sea to Summit Ultralight</h4></td>
-<td width="10%">0.7</td>
-<td width="10%">355</td>
-<td width="10%"><a href="http://www.hikeventures.com/deals/#sea+to+summit+ultralight"><button class="btn btn-danger">Compare prices</button></a></td>
-</tr>
-
-<tr>
-<td width="70%"><h4>Therm-a-Rest NeoAir XTherm <span class="label label-danger">Editors Choice</span></h4></td>
-<td width="10%">5.7</td>
-<td width="10%">410</td>
-<td width="10%"><a href="http://www.hikeventures.com/deals/#neoair+xtherm"><button class="btn btn-danger">Compare prices</button></a></td>
-</tr>
-<tr>
-<td width="70%"><h4>Therm-a-Rest Z LITE SOL</td>
-<td width="10%">2.6</td>
-<td width="10%">410</td>
-<td width="10%">
-<a href="http://www.hikeventures.com/deals/#z+lite+sol"><button class="btn btn-danger">Compare prices</button></a></td></tr>
-<tr>
-<td width="70%"><h4>Exped Synmat UL 7</h4></td>
-<td width="10%">3.3</td>
-<td width="10%">450</td>
-<td width="10%"><a href="http://www.hikeventures.com/deals/#exped+synmat+ul+7"><button class="btn btn-danger">Compare prices</button></a></td>
-</tr><tr>
-<td width="70%"><h4>Therm-a-Rest EvoLite</h4></td>
-<td width="10%">2.1</td>
-<td width="10%">480</td>
-<td width="10%"><a href="http://www.hikeventures.com/deals/#evolite"><button class="btn btn-danger">Compare prices</button></a></td>
-</tr></table></div>
 
 <hr>
 
