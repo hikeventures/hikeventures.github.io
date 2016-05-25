@@ -103,7 +103,7 @@ On our last day we hiked from the Meraner Hut to Bozen and then took the bus bac
 ## Books
 <a  href="http://www.amazon.com/gp/product/1852844922/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1852844922&linkCode=as2&tag=hikeve-20&linkId=SBLRW5OEAJM53B25"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1852844922&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=1852844922" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-There is also a book in English about the E5 available: <a href="http://amzn.to/1RpVxO9" rel="nofollow>Across the Eastern Alps: The E5: The E5 from Lake Constance to Verona</a>
+There is also a book in English about the E5 available: <a href="http://amzn.to/1RpVxO9" rel="nofollow">Across the Eastern Alps: The E5: The E5 from Lake Constance to Verona</a>
 
 ## Links
 
@@ -116,7 +116,7 @@ There is also a book in English about the E5 available: <a href="http://amzn.to/
 * [Bolzano][26]
 * [Deutscher Alpenverein][27] (as a member of the DAV you get discounts on the huts (website only in German)
 
-Interested in another mountain adventure? Here is our [story][28] about our packrafting trip in the Swedish mountains.
+Interested to read about another mountain adventure in Sweden? Here is our [story][28] about our packrafting trip in the Swedish mountains.
 
 [1]:	http://www.flickr.com/photos/90204224@N07/8199115122/
 [2]:	http://www.flickr.com/photos/90204224@N07/8197987855/
