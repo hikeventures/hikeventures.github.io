@@ -21,7 +21,7 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
     </tr>
     <tr>
     <td>3600</td>
-    <td>2200</td>
+    <td>2300</td>
     <td>1300</td>
     </tr>
   </table>
