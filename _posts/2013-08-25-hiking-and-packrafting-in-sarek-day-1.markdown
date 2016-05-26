@@ -293,11 +293,11 @@ On the pass we had an excellent view towards the Liehtjitjavrre lake ...
 
 <a href="https://www.flickr.com/photos/90204224@N07/9596213385"><img src="https://farm8.staticflickr.com/7393/9596213385_7305ec38d7_b.jpg" width="1024" height="683"></a>
 
-... and the Bierikjahka river.
+... and the Bierikjahka river...
 
-<a href="https://www.flickr.com/photos/90204224@N07/9606193064"><img src="https://farm4.staticflickr.com/3670/9606193064_01bf36511a_b.jpg" width="1024" height="683"></a></a>
+<a href="https://www.flickr.com/photos/90204224@N07/9606193064"><img src="https://farm4.staticflickr.com/3670/9606193064_01bf36511a_b.jpg" width="1024" height="683"></a>
 
-Hiking along the Bierikjahka river.
+where we were hiking and packrafting.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9606193690"><img src="https://farm8.staticflickr.com/7439/9606193690_699e17f34d_b.jpg" width="1024" height="683"></a>
 
