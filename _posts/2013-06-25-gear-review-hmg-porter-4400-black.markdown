@@ -8,15 +8,15 @@ category: reviews
 tags: [reviews, hmg, bags]
 ---
 
-Since I recently purchased a packraft, I realised quickly that my <a href="http://hikeventures.com/gear-review-laufbursche-huckepack-hp450/" target="_self">Laufbursche Huckepack</a>  is going to be a bit small for a multi-day packrafting trip. So I decided to order one of those HMG porter from the U.S. and are quite happy with it as an ultralight backpack for hiking, backpacking, packrafting and other backcountry trips and here comes a short review.
+Since I recently purchased a packraft, I realised quickly that my <a href="http://hikeventures.com/gear-review-laufbursche-huckepack-hp450/" target="_self">Laufbursche Huckepack</a>  is going to be a bit small for a multi-day packrafting trip. So I decided to order a Hyperlite Mountain Gear Porter 4400. I have used the Porter for a couple of years and I am quite happy with it as an ultralight backpack for hiking, backpacking, packrafting and other backcountry trips. Here is a short review and some pictures of the Hyperlite Mountain Gear Porter 4400.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9185837748" title="HMG Porter 4400 "><img src="https://farm8.staticflickr.com/7392/9185837748_10b63a2e5d_b.jpg" width="600" height="661"></a>
 <!--more-->
 
-After discussing for a while with the HMG owner, I was offered a backpack which is using 150 denier nylon instead of the 50 denier nylon which comes with the regular backpack. Even so the pack is slightly more heavy, I will be able to enjoy longer durability of this pack which is quite important to me if I buy a backpack in this price range. Below the pictures of HMG Porter 4400 black (which is not offered on the HMG website yet) incl. the Porter Stuff Pocket.
+After a short discussion with the HMG owner, I was offered a backpack which is made of 150 denier nylon instead of the 50 denier nylon which comes with the regular backpack. Even so the pack is slightly heavier, it should be more durable than the lighter version. Below the pictures of HMG Porter 4400 black incl. the Porter Stuff Pocket.
 
 ## Features
-The HMG Porter 4400 is more durable than the regular porter. This backpack is also waterproof and lightweight. It comes with YKK zippers, an emergency whistle and is comfortable to carry. If you are into packrafting then it's also easy to attach a packraft on top of the HMG Porter.
+The HMG Porter 4400 is more durable than the regular porter. The HMG Porter 4400 is also waterproof and lightweight. It comes with YKK zippers, an emergency whistle and is comfortable to carry. If you are into packrafting then it's also easy to attach a packraft on top of the HMG Porter.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9183618679" ><img src="https://farm4.staticflickr.com/3685/9183618679_a9993d4690_b.jpg" width="1024" height="717"></a>
 
@@ -42,7 +42,7 @@ The emergency whistle which comes with the HMP Porter 4400 could be quite useful
 
 <a href="https://www.flickr.com/photos/90204224@N07/9133568219" ><img src="https://farm6.staticflickr.com/5339/9133568219_1a0325ef86_b.jpg" width="1024" height="766"></a>
 
-Inside of the backpack you can find a small pocket were you can store money etc.
+Inside the backpack you can find a small pocket where you can store money etc.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9596207069/in/photolist-fBZ532-pUo8mD-oXDYGk-pUdwjt-pEYJuR-oXE2fB-pUdRyR-pUoAwv-oXBLkm-poxnZk-oJ8gpE-powDBq-poxmfi-oJ8edf-pF42Q1-oJ8gvw-oJ8ecd-poud2T-poucUZ-pEYKYc-oJ8eVY-oMnq8m-oCa2tz-qGeLzL-oynWmG-o5hewa-oJ8eZL-oJ8gwo-pxHKk7-pgfSgQ-nL1MUx-o3pn9J-nL2jzi-nKYQwD-o3mhXy-nhWeWB-nijCVw-noqfLG-judAPh-jumE37-judPj7-fCerDj-fCepBj-fCenzd-fBZ4QB-fBZaBp-fBZapV-fCemih-fCeped-fCeqR1" title="Sarek Sweden"><img src="https://c6.staticflickr.com/8/7392/9596207069_876c019ced_b.jpg" width="992" height="661" alt="Sarek Sweden"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -53,6 +53,6 @@ HMG Porter 4400 on our trip in <a href="http://www.hikeventures.com/hiking-and-p
 <a href="https://www.flickr.com/photos/90204224@N07/9594886682" title="SDIM3477 by HikeVentures, on Flickr"><img src="https://farm8.staticflickr.com/7326/9594886682_ebf0d25e33_b.jpg" width="1024" height="683"></a>
 
 ## Recommendation
-I have tested the HMG Porter 4400 on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a>  in Sweden. On long backpacking trips saving weight is quite important. I wouldn't say that the HMG Porter 4400 is super durable, however having a waterproof backpack and saving 1-2 kg on weight due to the lower weight of the HMG Porter 4400 its quite worth the investment and also contributed to my outdoor experience. I am going to patch the holes in my backpack and then it should be fine for another 1-2 years. 
+I have tested the HMG Porter 4400 for a couple of years on hiking and packrafting trips. On long backpacking trips saving weight is quite important. I wouldn't say that the HMG Porter 4400 is super durable (I got 2 tiny wholes in my backpack after 3 years), however there is hardly any gear available which will not wear off after some time. Having a somewhat waterproof backpack and saving 1-2 kg on weight due to the lower weight of the Porter its quite worth the investment. I am going to patch the holes in my backpack and then it should be fine for another 1-2 years. 
 
 <a href="https://www.hyperlitemountaingear.com/4400-porter.html"><button type="button" class="btn btn-danger">Read more about the HMG Porter 4400</button></a>  
