@@ -20,9 +20,9 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
     <td width="33%"><a href="https://www.facebook.com/HikeVentures">Facebook</a></td>
     </tr>
     <tr>
-    <td>3600</td>
+    <td>3700</td>
     <td>2300</td>
-    <td>1300</td>
+    <td>1400</td>
     </tr>
   </table>
 </div>
