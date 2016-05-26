@@ -44,9 +44,9 @@ The emergency whistle which comes with the HMP Porter 4400 could be quite useful
 
 Inside of the backpack you can find a small pocket were you can store money etc.
 
-<a href="https://www.flickr.com/photos/90204224@N07/9275207432" title="SDIM2656 by HikeVentures, on Flickr"><img src="https://farm8.staticflickr.com/7346/9275207432_7cdbaf09ae_b.jpg" width="1024" height="683"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9596207069/in/photolist-fBZ532-pUo8mD-oXDYGk-pUdwjt-pEYJuR-oXE2fB-pUdRyR-pUoAwv-oXBLkm-poxnZk-oJ8gpE-powDBq-poxmfi-oJ8edf-pF42Q1-oJ8gvw-oJ8ecd-poud2T-poucUZ-pEYKYc-oJ8eVY-oMnq8m-oCa2tz-qGeLzL-oynWmG-o5hewa-oJ8eZL-oJ8gwo-pxHKk7-pgfSgQ-nL1MUx-o3pn9J-nL2jzi-nKYQwD-o3mhXy-nhWeWB-nijCVw-noqfLG-judAPh-jumE37-judPj7-fCerDj-fCepBj-fCenzd-fBZ4QB-fBZaBp-fBZapV-fCemih-fCeped-fCeqR1" title="Sarek Sweden"><img src="https://c6.staticflickr.com/8/7392/9596207069_876c019ced_b.jpg" width="992" height="661" alt="Sarek Sweden"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-HMG Porter 4400 on an <a href="http://hikeventures.com/gear-review-unpacking-alpacka-packraft/" target="_self">Alpacka Yukon Yak Packraft</a>.
+HMG Porter 4400 on our trip in <a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">Sarek National Park</a> in Sweden.
 
 <img src="https://farm4.staticflickr.com/3715/9606341414_ea6945a4fb_b.jpg" width="992" height="661"></a>
 
