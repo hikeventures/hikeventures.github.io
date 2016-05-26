@@ -19,7 +19,7 @@ Patrick hiking in [Sarek National Park](http://hikeventures.com/hiking-and-packr
 ## Windproof or Waterproof?
 A wind jacket is much lighter and you won't sweat that much in it compared to a [rain jacket](http://www.hikeventures.com/best-rain-jackets/ "Best Rain Jackets"). My own preference goes towards carrying both - a wind jacket AND a rain jacket - and to wear them according to the current weather situation. If it's raining, I am obviously going to wear a rain jacket but if it's dry and there is only a cold wind blowing then I quickly pull on a wind jacket over my [fleece](http://www.hikeventures.com/best-fleece-jackets/ "Best Fleece Jackets"). 
 
-In the evenings while sitting in the camp I swap my [fleece](http://www.hikeventures.com/best-fleece-jackets/ "Fleece Jackets") and wind jacket combo with a [down jacket](#) to keep myself warm.
+In the evenings while sitting in the camp I swap my [fleece](http://www.hikeventures.com/best-fleece-jackets/ "Fleece Jackets") and wind jacket combo with a [down jacket](http://www.hikeventures.com/best-down-jackets/).
 
 ---
 
