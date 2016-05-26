@@ -18,6 +18,21 @@ Further, it's also worth to consider that a 1-person tent can be more heavy than
 A Hilleberg Nallo in the back and a Hilleberg Anjan in the front.
 <!--more-->
 
+### [Fly Creek HV UL1](https://www.rei.com/product/895953/big-agnes-fly-creek-hv-ul1-tent)
+
+<a  href="http://www.amazon.com/gp/product/B00GSYH1T0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GSYH1T0&linkCode=as2&tag=hikeve-20&linkId=UQ5VQ5S2FSWYOS4K"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GSYH1T0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GSYH1T0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Length:** 218 cm  
+**Width:** 71 cm (95cm)   
+**Height:** 97 cm  
+**Inner Space:** 1.8 m²  
+**Vestibule:** 0.45 m²  
+**Weight:** 935 grams   
+
+The Big Agnes Fly Creek HV UL1 is a new product in the Big Agnes Ultralight tent range. It is a bit longer and taller than the Hilleberg Enan but has a smaller vestibule. Fly and floor have 1200mm waterproof polyurethane coating.
+
+<a href="https://www.rei.com/product/895953/big-agnes-fly-creek-hv-ul1-tent"><button type="button" class="btn btn-danger">Read more about the Big Agnes Fly Creek HV UL1</button></a>  
+
 ### [Hilleberg Enan](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Enan-1-Person-Tent_10274355_10208_10000001_-1_)
 
 <a href="http://www.amazon.com/gp/product/B00UZ8ZNDQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UZ8ZNDQ&linkCode=as2&tag=hikeve-20&linkId=XBQVK7AJ3UD7ESR7"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00UZ8ZNDQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00UZ8ZNDQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -185,9 +200,6 @@ If you are looking for a fast and light tent which also protects you from bugs t
 
 ---
 
-## Winter camping
-If I would need to choose a tent for winter camping then I would rather opt for a bigger tent with a vestibule than the ones listed here.
-
 ## Conclusion
 Every tent is made for it's own purpose.
 
@@ -198,16 +210,24 @@ The Hilleberg Soulo seems to be the toughest tent for stormy weather and winter 
 If you are looking for a sturdy tent with lots of space and a vestibule then you should get the Hilleberg Anjan 2, Hilleberg Niak or the MSR Hubba NX as a 3-season tent or the Hilleberg Nallo 2 as a 4-season tent (these tents are not self-standing). 
 
 ### Best 1-person ultralight tent
-If low weight is your most important factor then you should consider the Hyperlite Mountain Gear Ulta Mid tent followed by the Hilleberg Enan (or the Hilleberg Niak 1.5 if you need more space). MSR also offers the new MSR FreeLite 1 (1000 grams) and the MSR Carbon Reflex 1 (790 grams) but they are less durable than the MSR Hubba NX (1290 grams). We found that the floor fabric on the MSR Hubba NX was already quite delicate and the MSR Freelite 1 and MSR Carbon Reflex 1 have a slightly lower weight because they are having a thinner material on the floor and the rainfly than the MSR Hubba NX. Also keep in mind that the shiny white color of the Hyperlite Mountain Gear UltaMid will turn into greyish over the time.
+If low weight is your most important factor then you should consider the Hyperlite Mountain Gear Ulta Mid tent, the Hilleberg Enan (or the Hilleberg Niak 1.5 if you need more space), the MSR Hubba NX or the Big Agnes Fly Creek HV UL1 Tent. The prices on the MSR and the Big Agnes are considerably lower than on the Hilleberg tents.
+
+MSR also offers the new MSR FreeLite 1 (1000 grams) and the MSR Carbon Reflex 1 (790 grams) but they are less durable than the MSR Hubba NX (1290 grams). We found that the floor fabric on the MSR Hubba NX was already quite delicate and the MSR Freelite 1 and MSR Carbon Reflex 1 have a slightly lower weight because they are having a thinner material on the floor and the rainfly than the MSR Hubba NX. Also keep in mind that the shiny white color of the Hyperlite Mountain Gear UltaMid will turn into greyish over the time.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25215098683/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1472/25215098683_07c6ffbfb8_b.jpg" width="1024" height="768" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
    
 On our packrafting trip in Scotland we had a MSR Hubba Hubba NX with us which is also a great 3-season tent, offers space for 2 and costs less than the Hilleberg tents.
 
 ## Final word
-My personal preference goes towards the Hilleberg Soulo or the Hilleberg Nallo as my favourite solo backpacking tent. The Hilleberg Soulo is self-standing and can also be pitched on difficult terrain. The Hilleberg Soulo can also be used as a winter tent. The Hilleberg Soulo comes with more weight than for example the MSR Hubba NX or the Hilleberg Enan / Niak but you get a tent which works in every condition and is more durable which is especially important if you are planning to hike in remote areas for a longer period. I also want to mention that weight is not the most important factor for me. I rather prefer durability and comfort on a low weight. On the other hand the Hilleberg Nallo 2 would be a good choice if you prefer more space and a dedicated vestibule rather having a self-standing tent like the Soulo. If you only plan to hike during the snow free months then the Hilleberg Niak should be a good choice.
+My personal preference goes towards the Hilleberg Soulo or the Hilleberg Nallo as my favourite solo 4-season backpacking tent. The Hilleberg Soulo is self-standing and can also be pitched on difficult terrain. 
 
-Finally, if you are into sea kayaking a self-standing durable tent against strong winds is probably a better option than an ultralight tent. There is also the Hilleberg Inner Mesh available for the Hilleberg tents which I would buy additionally to modify the Hilleberg tents to a summer tent with better air ventilation.
+If I were to choose an ultralight 3-season tent then I would probably go for the Hilleberg Niak (expensive option) or if I were on a budget then the MSR Hubba NX and the Big Agnes Fly Creek HV UL1 Tent.
+
+The Hilleberg Soulo is certainly more durable than the ultralight 3-season tents but if you treat them carefully then they should also last for a while and you don't have to carry too much weight.
+
+Finally, if you are into sea kayaking a self-standing durable tent - like the Hilleberg Soulo - which can handle strong winds is probably a better option than an ultralight tent as you don't have to carry the tent anyway.
+
+There is also the Hilleberg Inner Mesh available for the Hilleberg tents which I would buy additionally to modify the Hilleberg tents to a summer tent with better air ventilation.
 
 Here is also an [article](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/ "Packrafting in Sweden") about our packrafting trip in the Swedish mountains where we were camping in our MSR Hubba Hubba NX. After one year of usage we have a slight hole on the floor but otherwise we have no complaints about it as a 3-season tent.
 
