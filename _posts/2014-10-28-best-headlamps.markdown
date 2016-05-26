@@ -145,7 +145,7 @@ The Petzl e+LITE is the emergency headlamp from Petzl. It could also be a good c
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15581097668/in/photolist-pJRcuY-nbZrcA-nbXFbR-n9UVEg-hXNmLH-hXMq24-hXMK7h-hXNm3Z-dXbkpf-dL8yRc-dNuTzR-dNAuXb" title="Petzl Nao 2"><img src="https://c5.staticflickr.com/9/8270/15581097668_e4633233a6_b.jpg" width="1024" height="683" alt="Petzl Nao 2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     
-The [Petzl Nao](http://www.backcountry.com/petzl-nao-headlamp) headlamp is my favourite headlamp model.
+The [Petzl Nao](http://www.backcountry.com/petzl-nao-headlamp) headlamp is one of my favourite headlamps.
 
 ---   
    
