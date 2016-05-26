@@ -7,7 +7,7 @@ description: The best tent for our backpacking and packrafting adventures.
 category: articles
 tags: [articles, tents, best]
 ---
-For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](http://www.hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/ "Hilleberg Anjan") which has served us quite well so far in [Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Packrafting in Sarek"), [the Netherlands](http://www.hikeventures.com/packrafting-in-the-weerribben-wieden-national-park/ "Packrafting in the Netherlands") and [Finland](http://www.hikeventures.com/halloween-adventure-at-lake-suolijarvi/ "Packrafting in Finland"). However, we are always looking for ways to get better gear and realised that a freestanding dome tent would be the ultimate tent solution for our packrafting and kayaking adventures as we also came across some areas where pitching a tunnel tent was quite difficult. The list below contains freestanding and non-freestanding tents which we are currently considering as the best solutions for kayaking and packrafting in 2015 / 2016.
+For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](http://www.hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/ "Hilleberg Anjan") which has served us quite well so far in [Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Packrafting in Sarek"), [the Netherlands](http://www.hikeventures.com/packrafting-in-the-weerribben-wieden-national-park/ "Packrafting in the Netherlands") and [Finland](http://www.hikeventures.com/halloween-adventure-at-lake-suolijarvi/ "Packrafting in Finland"). As I am constantly looking for good gear to enhance our "outdoor experience" I have compiled a list of tents which I would consider to buy if I were to buy a new tent - it contains freestanding and non-freestanding tents as well as normal and ultralight tents.
 
 ![Best tent for Packrafting and Backpacking](https://c1.staticflickr.com/3/2855/9599002048_b8561d2abd_b.jpg "Best Solo Tent for packrafting and backpacking")
 
@@ -22,7 +22,7 @@ For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](
 **Weight:** 3.3 kg   
 **Area inner tent:** 2.8 m²   
 
-The Hilleberg Allak has the advantage that it has 2 entrances and it which makes it quite easy to get in and out of the tent if you are travelling with someone else. Another advantage of having two entrances is that you are more flexible with the venting options. The disadvantage we see with this tent compared to the Jannu is that it weights slightly more and that it is also slightly more narrow than the Jannu (130 cm rather than 145 cm). The Allak is 5 cm taller than the Jannu and offers a better possibility to sit in it.
+The Hilleberg Allak has the advantage that it has 2 entrances and it which makes it quite easy to get in and out of the tent if you are travelling with someone else and weight is not that important to you. Another advantage of having two entrances is that you are more flexible with the air venting options. The disadvantage we see with this tent compared to the Hilleberg Jannu is that it weights slightly more and that it is also slightly more narrow than the Jannu (130 cm rather than 145 cm). The Allak is 5 cm taller than the Hilleberg Jannu and offers a better possibility to sit in it.
 
  <a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Allak-2-Person-Tent_10101420_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Hilleberg Allak</button></a> 
 
@@ -131,7 +131,7 @@ The MSR Hubba Hubba NX is a freestanding 2-person tent for 3 seasons.
 **Weight:** 1.7 kg   
 **Area inner tent:** 2.7 m²   
 
-The MSR Hubba Hubba NX is a great 3 season tent and it even costs almost half the price of a Hilleberg tent. The Hilleberg just has a stronger floor material (50D) compared to the MSR but you get plenty of room. I think it's a tough decision to choose between the Niak 1.5 and the Hubba Hubba NX. If you are low on budget then we could highly recommend the Hubba Hubba NX as we have also used it on our trip in Sweden and Japan. Reviews soon available on our blog.
+The MSR Hubba Hubba NX is a great 3 season tent and it even costs almost half the price of a Hilleberg tent. The Hilleberg just has a stronger floor material (50D) compared to the MSR but you get plenty of room. I think it's a tough decision to choose between the Niak 1.5 and the Hubba Hubba NX. If you are low on budget then we could highly recommend the Hubba Hubba NX as we have also used it on our trip in Sweden and Japan. A review will soon be available on our blog.
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_MSR-Hubba-Hubba-NX-2-Person-Tent_10238367_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the MSR Hubba Hubba NX</button></a> 
 
@@ -144,7 +144,7 @@ The MSR Hubba Hubba NX is a great 3 season tent and it even costs almost half th
 **Weight:** 1.9 kg   
 **Area inner tent:** 3.4 m²   
 
-If you are traveling with your friend then the Hilleberg Anjan 3 is our top choice during the warmer months. We would definitely choose the 3 person version of this tent since the 2 person version is just too small (own experience) for 2 people.
+If you are traveling with your friend then the Hilleberg Anjan 3 is our top choice during the warmer months. We would definitely choose the 3 person version of this tent since the 2-person model is a bit narrow for 2 people even so it's possible to sleep in it. However, the Hilleberg Anjan 2 is also an excellent choice as a 1-person tent if you need more space.
 
 <a href="http://www.bentgate.com/hilleberg-anjan-3-tent/"><button type="button" class="btn btn-danger">Read more about the Hilleberg Anjan</button></a>  
 
@@ -197,13 +197,13 @@ The Hyperlite Mountain Gear UltaMid 2 is an ultralight tent designed if you want
 ## Considerations when choosing a tent
 
 ### Tent footprint
-Do you need a tent footprint? Well, I have never used a tent footprint and from my point of view your tent should last for a while if you clear the ground before you pitch it. I consider a tent footprint as unnecessary weight if you go hiking but it might be useful if you go on a trip by kayak where weight is not that important.
+I consider a tent footprint as unnecessary weight if you go hiking but it might be useful if you want to limit floor condensation. However, on ultralight tents like the MSR Hubba Hubba NX I would definitely use a tent footprint.
 
 ### Tent stakes & poles
 Tents usually come with tent stakes. If you want to save a little bit of weight then you could also purchase separate carbon stakes and poles like the [MSR Carbon Core Stake Kit](http://amzn.to/1Q32GJG "MSR Carbon Core") which weights only 6 grams.
 
 ### Tunnel tent or dome tent?
-Another consideration might be if you need a freestanding dome tent or a tunnel tent. A tunnel tent might be lighter but on the other hand you are able to pitch a freestanding dome tent also on places which are not suitable for tunnel tents e.g. when you go paddling and you want to camp on a (rocky) small island or on a sandy beach. There are also self-supporting tents which are more or less freestanding but still need 2 or more stakes. Currently, I am having a Hilleberg Anjan 3 - a tunnel tent - which I am quite happy with. But since we are also [paddling](http://www.hikeventures.com/sarek-packrafting-video/ "Packrafting Video")quite often I will most likely get another tent which is freestanding e.g. the Hilleberg Allak which I have also listed below. Since a dome tent can carry more snow load it's also perfectly suited for winter camping.
+Another consideration might be if you need a freestanding dome tent or a tunnel tent. A tunnel tent might be lighter but a freestanding tent can be pitched on more difficult ground like a rock or on a sand beach. There are also self-supporting tents which are more or less freestanding but still need 2 or more stakes. Currently, I am having a tunnel tent - the Hilleberg Anjan 3 - and I am quite happy with it.
 
 ### Tent as a Tarp?
 Do you want to leave your inner tent at home to save some weight and use the outer tent as a tarp?
@@ -233,7 +233,7 @@ I like the pockets on the wall of our Hilleberg Anjan tent which are just locate
 The MSR Hubba Hubba NX on our packrafting trip in Scotland in February 2016.
   
 ## Conclusion
-It's quite hard to say which tent is the best. It all depends on your needs and where you are planning to use the tent. Currently, we are using the MSR Hubba Hubba NX and the Anjan 3 (see also [here](http://www.hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/ "Hilleberg Anjan Tent")) which are great tents for spring, summer and autumn. The only disadvantage with the Anjan 3 is that it is not freestanding but we didn't have any issues yet on any of our trips to find a place to pitch it.
+It's quite hard to say which tent is the best. It all depends on your needs and where you are planning to use the tent. Currently, we are using the MSR Hubba Hubba NX and the Anjan 3 (see also [here](http://www.hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/ "Hilleberg Anjan Tent")) which are great tents for spring, summer and autumn. The only disadvantage with the Anjan 3 is that it is not freestanding but we didn't have any issues so far on any of our trips to find a place to pitch it.
 
 ### Best 4-season tent for 1 person
 If I were to choose a new tent then I would probably choose the [Hilleberg Soulo](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Soulo-1-Person-Tent_10101479_10208_10000001_-1_) as a 1-person and 4-season tent since I would prefer to have a freestanding tent for packrafting and kayaking. However, if you are 180 cm or taller then the Hilleberg Soulo might be too short for you. Alternatively, the Hilleberg Nallo 2 would be a good choice if you are taller or want more space.
