@@ -55,7 +55,7 @@ After we left the forrest, going became easier (it was easier to see where you w
 
 <a href="https://www.flickr.com/photos/90204224@N07/9592091969"><img src="https://farm4.staticflickr.com/3753/9592091969_a9cf6f440a_b.jpg" width="1024" height="683"></a>
 
-Upon reaching some heights, we had a fantastic view over the Nieras fj&## 228;lls and had a short break trying to take in all the serene beauty of this area.
+Upon reaching some heights, we had a fantastic view over the Nieras Fjälls and had a short break trying to take in all the serene beauty of this area.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9592365487"><img src="https://farm8.staticflickr.com/7368/9592365487_5771577106_b.jpg" width="1024" height="683"></a>
 
