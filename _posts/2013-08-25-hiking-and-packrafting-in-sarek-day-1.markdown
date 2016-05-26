@@ -95,9 +95,9 @@ On the second day we woke up at 10.30 and it was cloudy, windy and the morning t
 
 <a href="https://www.flickr.com/photos/90204224@N07/9596215171"><img src="https://farm4.staticflickr.com/3791/9596215171_d612311845_b.jpg" width="1024" height="683"></a>
 
-<a href="https://www.flickr.com/photos/90204224@N07/9599008642"><img src="https://farm6.staticflickr.com/5449/9599008642_0968b8ab4c_b.jpg" width="1024" height="683"></a></a>
+<a href="https://www.flickr.com/photos/90204224@N07/9599008642"><img src="https://farm6.staticflickr.com/5449/9599008642_0968b8ab4c_b.jpg" width="1024" height="683"></a>
 
-We prepared hot water with our <a href="http://hikeventures.com/gear-review-jetboil-sol-ti/" target="_self">stove</a> and after having had a cup of tea, some nuts and a muesli bar we packed our camp and inflated our <a href="http://hikeventures.com/gear-review-unpacking-alpacka-packraft/" target="_self">packrafts</a> and <a href="http://hikeventures.com/gear-preview-werner-shuna-paddles/" target="_self">paddles</a> for the first trip on a lake in Sarek. Since packrafting is a quite wet activity its important to keep your clothes and food dry by using a <a href="http://hikeventures.com/gear-review-sea-to-summit-ultra-sil-drysack/" target="_blank">drysack</a>.
+We were preparing hot water with our <a href="http://hikeventures.com/gear-review-jetboil-sol-ti/" target="_self">stove</a> and after having had a cup of tea, some nuts and a muesli bar we packed our camp and inflated our <a href="http://hikeventures.com/gear-review-unpacking-alpacka-packraft/" target="_self">packrafts</a> and <a href="http://hikeventures.com/gear-preview-werner-shuna-paddles/" target="_self">paddles</a> for the first trip on a lake in Sarek. Since packrafting is a quite wet activity its important to keep your clothes and food dry by using a <a href="http://hikeventures.com/gear-review-sea-to-summit-ultra-sil-drysack/" target="_blank">drysack</a>.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9596216703"><img src="https://farm4.staticflickr.com/3748/9596216703_3f4c4db24f_b.jpg" width="1024" height="683"></a>
 
