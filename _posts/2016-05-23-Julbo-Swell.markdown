@@ -55,7 +55,12 @@ The curved temples and the adjusable cord on the Julbo Swell provide a good hold
 
 The wrap-around + style which was featured also promised to be true. I hardly had any issues with disturbing light shining through the edges of the Julbo Swell.
 
-The Octopus lenses were also new to me and this lens feature was also quite useful especially when you paddle from a brighter spot on the river to shadowy place. The lens automatically adjusts the amount of light (photochromic) it let's through depending on the light which reaches the lens. The Octopus lens is also a water-repellent and polarizing lens especially developed for all water sports which were also useful while paddling on the river and my glasses were cleaner during the packrafting trip than with regular lenses.
+The Octopus lenses were also new to me and this lens feature was also quite useful especially when you paddle from a brighter spot on the river to a more shadowy place. The lens automatically adjusts the amount of light (photochromic) it let's through depending on the light which reaches the lens. The Octopus lens is also a water-repellent and polarizing lens especially developed for all water sports which were also useful while paddling on the river and my glasses were cleaner during the packrafting trip than with regular lenses.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26649754174/in/dateposted-public/" title="Swamp in Poland"><img src="https://c7.staticflickr.com/8/7422/26649754174_b9e960bb27_b.jpg" width="664" height="1000" alt="Swamp in Poland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+The Julbo Swell is also great for hiking or backpacking. In the picture above you can see Konstantin walking in a swamp in Poland wearing the Julbo Swell.
+
 
 ---
 
