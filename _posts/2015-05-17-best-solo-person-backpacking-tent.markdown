@@ -22,6 +22,8 @@ A Hilleberg Nallo in the back and a Hilleberg Anjan in the front.
 
 <a  href="http://www.amazon.com/gp/product/B00GSYH1T0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GSYH1T0&linkCode=as2&tag=hikeve-20&linkId=UQ5VQ5S2FSWYOS4K"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GSYH1T0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GSYH1T0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+The Big Agnes Fly Creek HV UL1 is a 1-person and 3-season tent.
+
 **Length:** 218 cm  
 **Width:** 71 cm (95cm)   
 **Height:** 97 cm  
@@ -38,6 +40,8 @@ The Big Agnes Fly Creek HV UL1 is a new product in the Big Agnes Ultralight tent
 ### [Hilleberg Enan](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Enan-1-Person-Tent_10274355_10208_10000001_-1_)
 
 <a href="http://www.amazon.com/gp/product/B00UZ8ZNDQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UZ8ZNDQ&linkCode=as2&tag=hikeve-20&linkId=XBQVK7AJ3UD7ESR7"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00UZ8ZNDQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00UZ8ZNDQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+The Hilleberg Enan is a 1-person and 3-season tent.
 
 **Length:** 215 cm  
 **Width:** 60 cm (95cm)   
@@ -56,6 +60,8 @@ The Hilleberg Enan is the ultralight model of the Akto. If you don't require muc
 ### [Hilleberg Akto](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Akto-1-Person-Tent_10101417_10208_10000001_-1_)
 
 <a href="http://www.amazon.com/gp/product/B003X2HQPY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003X2HQPY&linkCode=as2&tag=hikeve-20&linkId=FCTXO35WV5CXK5P7"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003X2HQPY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B003X2HQPY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+The Hilleberg Akto is a 1-person and 4-season tent.
 
 **Length:** 220 cm   
 **Width:** 62 cm (90cm)   
@@ -107,6 +113,8 @@ The MSR Hubba NX is also a great 3-season tent and costs much less than the Hill
 
 <a href="http://www.amazon.com/gp/product/B00IU0XEW8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IU0XEW8&linkCode=as2&tag=hikeve-20&linkId=CJ3OYX574GJJ5DNZ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00IU0XEW8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00IU0XEW8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+The Hilleberg Anjan 2 is a 1-person and 3-season tent.
+
 **Length:** 220 cm   
 **Width:** 130 cm   
 **Height:** 100 cm   
@@ -124,6 +132,8 @@ The Hilleberg Anjan was our summer tent (even so I have the 3 person model) befo
 ### [Hilleberg Unna](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Unna-1-Person-Tent_10101489_10208_10000001_-1_)
 
 <a href="http://www.amazon.com/gp/product/B00IU0UMSC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IU0UMSC&linkCode=as2&tag=hikeve-20&linkId=IH74WSYOYDCATOTX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00IU0UMSC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00IU0UMSC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+The Hilleberg Unna is a 1-person and 4-season tent.
 
 **Length:** 230 cm   
 **Width:** 110 cm   
@@ -143,6 +153,8 @@ The Hilleberg Unna is completely freestanding. The advantage of the Unna is the 
 
 <a href="http://www.amazon.com/gp/product/B004LAP3G6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004LAP3G6&linkCode=as2&tag=hikeve-20&linkId=4R5WXJMR7LNA2MKY"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004LAP3G6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B004LAP3G6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+The Hilleberg Akto is a 1-person and 4-season tent.
+
 **Length:** 220 cm   
 **Width:** 105 cm    
 **Height:** 95 cm    
@@ -161,6 +173,8 @@ The Hilleberg Soulo is a solo expedition tent which can be used under very harsh
 
 <a href="http://www.amazon.com/gp/product/B00LMR6HSO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LMR6HSO&linkCode=as2&tag=hikeve-20&linkId=4YIQPTOP7VXOY4EM"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LMR6HSO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LMR6HSO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+The Hilleberg Akto is a 1-person and 4-season tent.
+
 **Length:** 220 cm   
 **Width:** 130 cm   
 **Height:** 100 cm   
@@ -178,13 +192,15 @@ The Hilleberg Nallo is probably the best choice if you want a 4-season tent whic
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26835366172/in/dateposted-public/" title="Hyperlite Mountain Gear Tent &amp; Ultamid Tarp"><img src="https://farm8.staticflickr.com/7432/26835366172_4b9630972f_b.jpg" width="1024" height="723" alt="Hyperlite Mountain Gear Tent &amp; Ultamid Tarp"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+The Hilleberg Akto is a 2-person and 4-season tent.
+
 **Length:** 271.8 cm   
 **Width:** 210.8 cm   
 **Height:** 162.6 cm   
 **Weight:** 499 grams    
 **Fabric:** Dyneema® (Cuben Fiber)
 
-If you are looking for a fast and light tent which also protects you from bugs then the Hyperlite Mountain Gear UltaMid 2 could be your choice. The UltaMid 2 is an ultralight tent which works well if you are planning to camp on unexposed environments. I took the picture above of the UltaMid 2 tent on the <a href="http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/">packrafting round-up in Sweden</a>. There were actually 2 of those Ultra-Mids on this event. The only issue I have with the white cuben fiber fabric is that it might lose it's shiny white color after a while. That's why I ordered my Hyperlite Mountain Gear Porter 4400 backpack a few years ago in black.
+If you are looking for a fast and light tent which also protects you from bugs then the Hyperlite Mountain Gear UltaMid 2 could be your choice. The UltaMid 2 is an ultralight tent which is supposed to work well in bad weather. I took the picture above of the UltaMid 2 tent on the <a href="http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/">packrafting round-up in Sweden</a>. There were actually 2 of those Ultra-Mids on this event. The only issue I have with the white cuben fiber fabric is that it might lose it's shiny white color after a while. That's why I ordered my Hyperlite Mountain Gear Porter 4400 backpack a few years ago in black.
 
 <a href="https://www.hyperlitemountaingear.com/ultamid-2.html"><button type="button" class="btn btn-danger">Read more about the Hyperlite Mountain Gear UltaMid</button></a>  
 
