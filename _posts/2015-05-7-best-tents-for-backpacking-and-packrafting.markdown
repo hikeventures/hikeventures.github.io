@@ -111,9 +111,9 @@ The Enan as a solo tent looks like an interesting tent for the summer months. Ho
 
 The Hilleberg Akto is a non-freestanding 1-person tent for 4 seasons.
 
-**Fabric:** Kerlon 1200
-**Weight:** 1.7 kg
-**Area inner tent:** 2.6 m²
+**Fabric:** Kerlon 1200   
+**Weight:** 1.7 kg   
+**Area inner tent:** 2.6 m²   
 
 The Akto is a solo tent with low weight and quite popular among solo travellers. If you are not going into extreme conditions then this could be a great solo tent if you don't need a lot of space. For harsher conditions I would rather pick the Hilleberg Soulo which comes with more space. 
 
@@ -172,7 +172,7 @@ The Hilleberg Nallo is probably the best choice if you want a 4-season tent whic
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26835366172/in/dateposted-public/" title="Hyperlite Mountain Gear Tent &amp; Ultamid Tarp"><img src="https://farm8.staticflickr.com/7432/26835366172_4b9630972f_b.jpg" width="1024" height="723" alt="Hyperlite Mountain Gear Tent &amp; Ultamid Tarp"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Length:** 271.8 cm   
-**Width:v 210.8 cm   
+**Width:** 210.8 cm   
 **Height:** 162.6 cm   
 **Weight:** 499 grams    
 **Fabric:** Dyneema® (Cuben Fiber)
