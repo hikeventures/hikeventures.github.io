@@ -45,7 +45,7 @@ The Patagonia Houdini is another great wind jacket which got recommended by many
 **Fabric:** Luminara—Stretch nylon ripstop    
 **Awards:** Best On Test - Outdoor Fitness Magazine (UK)   
 
-The Arcteryx Incendo Hoody has breathable mesh panels under the arms, a hood and a full front zip. It also features an internal MP3 pocket with audio ports, a side stow pocket and reflective blazes.
+The Arcteryx Incendo Hoody has breathable mesh panels under the arms, a hood and a full front zip. It also features an internal MP3 pocket with audio ports, a side stow pocket and reflective blazes. The Incendo Hoody is more a running jacket than a hiking jacket but could be an alternative to the Arcteryx Squamish Hoody if you are an Arcteryx fan and want to save a few grams.
 
 <a href="https://www.rei.com/product/895292/arcteryx-incendo-hoodie-mens"><button type="button" class="btn btn-danger">Read more about the Arcteryx Incendo Hoody</button></a>  
 
