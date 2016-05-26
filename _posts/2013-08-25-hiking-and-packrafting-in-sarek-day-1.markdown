@@ -297,12 +297,6 @@ On the pass we had an excellent view towards the Liehtjitjavrre lake ...
 
 <a href="https://www.flickr.com/photos/90204224@N07/9606193064"><img src="https://farm4.staticflickr.com/3670/9606193064_01bf36511a_b.jpg" width="1024" height="683"></a>
 
-where we were hiking and packrafting.
-
-<a href="https://www.flickr.com/photos/90204224@N07/9606193690"><img src="https://farm8.staticflickr.com/7439/9606193690_699e17f34d_b.jpg" width="1024" height="683"></a>
-
-Again a Reindeer.
-
 <a href="https://www.flickr.com/photos/90204224@N07/9602966999"><img src="https://farm8.staticflickr.com/7379/9602966999_ea9cbdacdc_b.jpg" width="1024" height="683"></a>
 We reached the Rahpajahka river which leads to Rapadalen were packrafting is prohibited.
 
