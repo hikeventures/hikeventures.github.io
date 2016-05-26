@@ -10,7 +10,6 @@ tags: [destinations, sarek, sweden, packrafting, hiking]
 
 This year we went on a 6 days packrafting and hiking trip in Sarek. We travelled from Vaasa by <a href="http://www.wasaline.com/en/" target="_blank">wasaline ferry</a> to Umea and then by a hiker train (it seemed that the only people who travelled north were planning to go on a hike in the fj&auml;lls) to G&auml;llivare. Transportation to Sarek from Umea is not that frequent so there is a possibility that you have to stay one night in Umea. 
 
-<a href="https://www.flickr.com/photos/90204224@N07/9596210073"><img src="https://farm8.staticflickr.com/7359/9596210073_1dfeed9bf1_z.jpg" width="600" alt="Hiking in Sarek National Park in Sweden"></a>
 <!--more-->
 
 
