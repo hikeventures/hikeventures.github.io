@@ -32,7 +32,7 @@ The Hilleberg Allak has the advantage that it has 2 entrances and it which makes
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00IU0UMSC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IU0UMSC&linkCode=as2&tag=hikeve-20&linkId=EAFEBCVMMSNCWMCD"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00IU0UMSC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00IU0UMSC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-The Hilleberg Unna is a freestanding one person tent and offers 0.5 m2 more room than the Hilleberg Soulo. However, it does not have a dedicated vestibule but you can create a vestibule in the Unna by disconnecting a corner in the inner tent or take your gear inside (while leaving your backpack outside or storing it between the inner and outer tent). The large entrance can be used as an excellent "panorama window".
+The Hilleberg Unna is a freestanding one person tent and offers 0.5 m2 more room than the Hilleberg Soulo. However, it does not have a dedicated vestibule but you can create a vestibule in the Unna by disconnecting a corner in the inner tent or take your gear inside (while leaving your backpack outside or storing it between the inner and outer tent). The large entrance can be used as an excellent "panorama window". The Hilleberg Unna is a bit heavy compared to the Hilleberg Niak and I would recommend the Hilleberg Unna over the Hilleberg Niak only if you need a freestanding tent or a tent for winter camping. If you want to use the Hilleberg Unna as a summer tent then you should consider getting a Hilleberg Inner Mesh for better air ventilation.
 
 **Fabric:** Kerlon 1200    
 **Weight:** 2.2 kg   
@@ -57,6 +57,21 @@ The Hilleberg Soulo is a very strong solo expedition tent. If strength is import
 ---
 
 ## Non-freestanding tents
+
+### [Fly Creek HV UL1](https://www.rei.com/product/895953/big-agnes-fly-creek-hv-ul1-tent)
+
+<a  href="http://www.amazon.com/gp/product/B00GSYH1T0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GSYH1T0&linkCode=as2&tag=hikeve-20&linkId=UQ5VQ5S2FSWYOS4K"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GSYH1T0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GSYH1T0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Length:** 218 cm  
+**Width:** 71 cm (95cm)   
+**Height:** 97 cm  
+**Inner Space:** 1.8 m²  
+**Vestibule:** 0.45 m²  
+**Weight:** 935 grams   
+
+The Big Agnes Fly Creek HV UL1 is the lightest tent in this list. It is a bit taller and longer than the Hilleberg Enan but has a smaller vestibule. Fly and floor have 1200mm waterproof polyurethane coating.
+
+<a href="https://www.rei.com/product/895953/big-agnes-fly-creek-hv-ul1-tent"><button type="button" class="btn btn-danger">Read more about the Big Agnes Fly Creek HV UL1</button></a>  
 
 ### [Hilleberg Enan](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Enan-1-Person-Tent_10274355_10208_10000001_-1_) 
 
@@ -218,11 +233,13 @@ I like the pockets on the wall of our Hilleberg Anjan tent which are just locate
 The MSR Hubba Hubba NX on our packrafting trip in Scotland in February 2016.
   
 ## Conclusion
-It's quite hard to say which tent is the best. It all depends on your needs and where you are planning to use the tent. Currently, we are using the MSR Hubba Hubba NX and the Anjan 3 (see also [here](http://www.hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/ "Hilleberg Anjan Tent")) which are great tents for spring, summer and autumn. The only disadvantage with the Anjan 3 is that it is not freestanding.
+It's quite hard to say which tent is the best. It all depends on your needs and where you are planning to use the tent. Currently, we are using the MSR Hubba Hubba NX and the Anjan 3 (see also [here](http://www.hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/ "Hilleberg Anjan Tent")) which are great tents for spring, summer and autumn. The only disadvantage with the Anjan 3 is that it is not freestanding but we didn't have any issues yet on any of our trips to find a place to pitch it.
 
-If I were to choose a new tent then I would probably choose the Hilleberg Soulu as a 1-person tent since I need a freestanding tent for packrafting and kayaking but on the same time it is light enough for backpacking. However, if you are 180 cm or taller then the Hilleberg Soulo might be too short for you.
+### Best 4-season tent for 1 person
+If I were to choose a new tent then I would probably choose the [Hilleberg Soulo](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Soulo-1-Person-Tent_10101479_10208_10000001_-1_) as a 1-person and 4-season tent since I would prefer to have a freestanding tent for packrafting and kayaking. However, if you are 180 cm or taller then the Hilleberg Soulo might be too short for you. Alternatively, the Hilleberg Nallo 2 would be a good choice if you are taller or want more space.
 
-In my opinion the MSR Hubba Hubba NX offers a good price-value ratio if you only camp occasionally. However, we also found that the thin floor fabric on the MSR Hubba Hubba NX could cause an issue if you are planning to camp a lot or you just have to be a bit careful where you pitch your tent. I would not consider buying the new MSR Carbon Reflex or MSR FreeLite tents as they are using an even thinner floor fabric than the MSR Hubba NX.
+### Best 3-season tent for 1 person
+In my opinion the [MSR Hubba Hubba NX](http://www.backcountry.com/msr-hubba-hubba-nx-tent-2-person-3-season) or the [Big Agnes Fly Creek HV UL1](https://www.rei.com/product/895953/big-agnes-fly-creek-hv-ul1-tent) are the best 3-season tents available. However, we also found that the thin floor fabric on the MSR Hubba Hubba NX could cause an issue if you are planning to camp a lot or you just have to be a bit careful where you pitch your tent. I would not consider buying the new MSR Carbon Reflex or MSR FreeLite tents as they are having an even thinner floor fabric than the MSR Hubba NX. There is also the [MSR Hubba Gear Shed](http://www.moosejaw.com/moosejaw/shop/product_MSR-Hubba-Gear-Shed_10271838_10208_10000001_-1_) available which you can attach to the MSR Hubba NX or the MSR Hubba Hubba NX. The gear shed could be quite useful to protect your gear.
 
 If you do winter camping then it's probably a good idea to get an even bigger tent like the [Hilleberg Kaitum](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Kaitum-2-Person-Tent_10101437_10208_10000001_-1_) or [Nammatj](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Nammatj-GT-2-Person-Tent_10101469_10208_10000001_-1_).
 
