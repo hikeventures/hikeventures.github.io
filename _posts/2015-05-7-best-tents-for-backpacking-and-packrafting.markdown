@@ -15,9 +15,27 @@ For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](
 
 ## Freestanding tents
 
+### [MSR Hubba Hubba NX](http://www.moosejaw.com/moosejaw/shop/product_MSR-Hubba-Hubba-NX-2-Person-Tent_10238367_10208_10000001_-1_)
+
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00G7H9CAY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G7H9CAY&linkCode=as2&tag=hikeve-20&linkId=EX4S5YFHURHMA3L5"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00G7H9CAY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00G7H9CAY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+The MSR Hubba Hubba NX is a freestanding 2-person tent for 3 seasons.
+
+**Persons:** 2   
+**Fabric:** 20D ripstop / 30D ripstop (floor)   
+**Weight:** 1.7 kg   
+**Area inner tent:** 2.7 m²   
+
+The MSR Hubba Hubba NX is a great 3 season tent and it even costs almost half the price of a Hilleberg tent. The Hilleberg just has a stronger floor material (50D) compared to the MSR but you get plenty of room. I think it's a tough decision to choose between the Niak 1.5 and the Hubba Hubba NX. If you are low on budget then we could highly recommend the Hubba Hubba NX as we have also used it on our trip in Sweden and Japan. A review will soon be available on our blog.
+
+<a href="http://www.moosejaw.com/moosejaw/shop/product_MSR-Hubba-Hubba-NX-2-Person-Tent_10238367_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the MSR Hubba Hubba NX</button></a> 
+
+---
+
 ### [Hilleberg Allak](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Allak-2-Person-Tent_10101420_10208_10000001_-1_)
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B003X2JUM6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003X2JUM6&linkCode=as2&tag=hikeve-20&linkId=MPFYT4UWH4JSFZEJ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003X2JUM6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B003X2JUM6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+**Persons:** 1   
 **Fabric:** Kerlon 1200   
 **Weight:** 3.3 kg   
 **Area inner tent:** 2.8 m²   
@@ -34,6 +52,7 @@ The Hilleberg Allak has the advantage that it has 2 entrances and it which makes
 
 The Hilleberg Unna is a freestanding one person tent and offers 0.5 m2 more room than the Hilleberg Soulo. However, it does not have a dedicated vestibule but you can create a vestibule in the Unna by disconnecting a corner in the inner tent or take your gear inside (while leaving your backpack outside or storing it between the inner and outer tent). The large entrance can be used as an excellent "panorama window". The Hilleberg Unna is a bit heavy compared to the Hilleberg Niak and I would recommend the Hilleberg Unna over the Hilleberg Niak only if you need a freestanding tent or a tent for winter camping. If you want to use the Hilleberg Unna as a summer tent then you should consider getting a Hilleberg Inner Mesh for better air ventilation.
 
+**Persons:** 1   
 **Fabric:** Kerlon 1200    
 **Weight:** 2.2 kg   
 **Area inner tent:** 2.5 m² 
@@ -46,6 +65,7 @@ The Hilleberg Unna is a freestanding one person tent and offers 0.5 m2 more room
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B004LAP3G6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004LAP3G6&linkCode=as2&tag=hikeve-20&linkId=7TXJU4WYWUN5PLN3"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004LAP3G6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B004LAP3G6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+**Persons:** 1   
 **Fabric:** Kerlon 1200   
 **Weight:** 2.4 kg   
 **Area inner tent:** 2.0 m²  
@@ -62,6 +82,7 @@ The Hilleberg Soulo is a very strong solo expedition tent. If strength is import
 
 <a  href="http://www.amazon.com/gp/product/B00GSYH1T0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GSYH1T0&linkCode=as2&tag=hikeve-20&linkId=UQ5VQ5S2FSWYOS4K"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GSYH1T0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GSYH1T0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+**Persons:** 1   
 **Length:** 218 cm  
 **Width:** 71 cm (95cm)   
 **Height:** 97 cm  
@@ -77,8 +98,7 @@ The Big Agnes Fly Creek HV UL1 is the lightest tent in this list. It is a bit ta
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00UZ8ZPIE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UZ8ZPIE&linkCode=as2&tag=hikeve-20&linkId=J5D2VAGZEEOJ4END"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00UZ8ZPIE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00UZ8ZPIE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-The Hilleberg Enan is a non-freestanding 1 person tent.
-
+**Persons:** 1   
 **Fabric:** Kerlon 600   
 **Weight:** 1.1 kg   
 **Area inner tent:** 1.7 m²  
@@ -93,8 +113,7 @@ If you are travelling alone on a shorter trip where you don't have lot's of gear
 
 <a  href="http://www.amazon.com/gp/product/B01AT52A08/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AT52A08&linkCode=as2&tag=hikeve-20&linkId=2TDIHYJWJ46ET5ID"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01AT52A08&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B01AT52A08" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-The Hilleberg Niak 1.5 is a non-freestanding 1 person tent.
-
+**Persons:** 1-2    
 **Fabric:** Kerlon 600   
 **Weight:** 1.7 kg   
 **Area inner tent:** 2.6 m²   
@@ -109,8 +128,8 @@ The Enan as a solo tent looks like an interesting tent for the summer months. Ho
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00TKHF7E8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TKHF7E8&linkCode=as2&tag=hikeve-20&linkId=VP7IBWWKQQ3PVKWT"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00TKHF7E8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00TKHF7E8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-The Hilleberg Akto is a non-freestanding 1-person tent for 4 seasons.
 
+**Persons:** 1   
 **Fabric:** Kerlon 1200   
 **Weight:** 1.7 kg   
 **Area inner tent:** 2.6 m²   
@@ -121,25 +140,10 @@ The Akto is a solo tent with low weight and quite popular among solo travellers.
 
 ---
 
-### [MSR Hubba Hubba NX](http://www.moosejaw.com/moosejaw/shop/product_MSR-Hubba-Hubba-NX-2-Person-Tent_10238367_10208_10000001_-1_)
-
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00G7H9CAY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G7H9CAY&linkCode=as2&tag=hikeve-20&linkId=EX4S5YFHURHMA3L5"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00G7H9CAY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00G7H9CAY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-The MSR Hubba Hubba NX is a freestanding 2-person tent for 3 seasons.
-
-**Fabric:** 20D ripstop / 30D ripstop (floor)   
-**Weight:** 1.7 kg   
-**Area inner tent:** 2.7 m²   
-
-The MSR Hubba Hubba NX is a great 3 season tent and it even costs almost half the price of a Hilleberg tent. The Hilleberg just has a stronger floor material (50D) compared to the MSR but you get plenty of room. I think it's a tough decision to choose between the Niak 1.5 and the Hubba Hubba NX. If you are low on budget then we could highly recommend the Hubba Hubba NX as we have also used it on our trip in Sweden and Japan. A review will soon be available on our blog.
-
-<a href="http://www.moosejaw.com/moosejaw/shop/product_MSR-Hubba-Hubba-NX-2-Person-Tent_10238367_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the MSR Hubba Hubba NX</button></a> 
-
----
-
 ### [Hilleberg Anjan 2](http://www.bentgate.com/hilleberg-anjan-3-tent/)
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00JBUC8V4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JBUC8V4&linkCode=as2&tag=hikeve-20&linkId=LOTRXVRJVO6XQYX4"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00JBUC8V4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00JBUC8V4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+**Persons:** 1-2   
 **Fabric:** Kerlon 1000   
 **Weight:** 1.9 kg   
 **Area inner tent:** 3.4 m²   
@@ -154,6 +158,7 @@ If you are traveling with your friend then the Hilleberg Anjan 3 is our top choi
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00LMR6HSO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LMR6HSO&linkCode=as2&tag=hikeve-20&linkId=4YIQPTOP7VXOY4EM"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LMR6HSO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LMR6HSO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+**Persons:** 1-2   
 **Length:** 220 cm   
 **Width:** 130 cm   
 **Height:** 100 cm   
@@ -171,6 +176,7 @@ The Hilleberg Nallo is probably the best choice if you want a 4-season tent whic
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26835366172/in/dateposted-public/" title="Hyperlite Mountain Gear Tent &amp; Ultamid Tarp"><img src="https://farm8.staticflickr.com/7432/26835366172_4b9630972f_b.jpg" width="1024" height="723" alt="Hyperlite Mountain Gear Tent &amp; Ultamid Tarp"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+**Persons:** 1-2   
 **Length:** 271.8 cm   
 **Width:** 210.8 cm   
 **Height:** 162.6 cm   
