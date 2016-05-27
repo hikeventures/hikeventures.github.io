@@ -81,7 +81,7 @@ The Hilleberg Akto is the 4-season model of the Hilleberg Enan and more suitable
 
 <a  href="http://www.amazon.com/gp/product/B01AT52A08/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AT52A08&linkCode=as2&tag=hikeve-20&linkId=2JIQ4SO5RH5PZJXL"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01AT52A08&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B01AT52A08" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-The Hilleberg Niak 1.5 is a non-freestanding 1-2 person tent and a 3-season tent.
+The Hilleberg Niak 1.5 is a freestanding 1-2 person tent for 3-seasons.
 
 **Fabric:** Kerlon 600   
 **Weight:** 1.7 kg   
