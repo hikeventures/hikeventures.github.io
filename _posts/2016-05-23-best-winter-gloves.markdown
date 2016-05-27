@@ -79,13 +79,13 @@ The Canada Goose Down Gloves are similar to the Canada Goose Down Mitten and pro
 
 ---
 
-### [The North Face Patrol Glove](http://www.backcountry.com/the-north-face-patrol-ski-glove)
+### [Black Diamond Patrol Gloves](http://www.backcountry.com/black-diamond-patrol-glove-bld3346)
 
-<a  href="http://www.amazon.com/gp/product/B0099OD8WU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0099OD8WU&linkCode=as2&tag=hikeve-20&linkId=7UFY7M7UUZFGJOVY"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0099OD8WU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0099OD8WU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="http://www.amazon.com/gp/product/B00EOA9KP8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EOA9KP8&linkCode=as2&tag=hikeve-20&linkId=PQ5WOIXIL6LOB7JO"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00EOA9KP8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00EOA9KP8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-The North Face Patrol Gloves are waterproof and come with a lining and PrimaLoft insulation. The North Face Patrol Gloves are probably not that warm as the Down filled gloves from Canada Goose.
+The Black Diamond Patrol Gloves are waterproof and come with a PrimoLoft One insulation and a Polartec Thermal Pro High Loft fleece. The gloves are suitable from 0 to 30 degrees Fahrenheit.
 
-<a href="http://www.backcountry.com/black-diamond-icon-headlamp"><button type="button" class="btn btn-danger">Read more about the The North Face Patrol Glove</button></a>  
+<a href="http://www.backcountry.com/black-diamond-patrol-glove-bld3346"><button type="button" class="btn btn-danger">Read more about the The North Face Patrol Glove</button></a>  
 
 ---
 
@@ -105,5 +105,5 @@ The Arc'teryx Gothic Glove comes with ultra soft merino wool and an anatomical f
 
 ---
 
-##Conclusion
+## Conclusion
 My personal preference goes towards the [Hestra Army Leather Heli 3-Finger Glove](http://www.backcountry.com/hestra-heli-3-finger-glove "Hestra Army Leather Heli 3-Finger Glove"). I need to have one finger freely moving around to control my camera without having to take off my gloves all the time. At the same time this glove keeps the fingers warm which I don't need to operate my camera. However, if you are looking for the ultimate in warmth then you should probably go for real mittens.
