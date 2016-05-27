@@ -56,6 +56,8 @@ The Canada Goose Down Mittens are water- and windproof and filled with 525 Fill 
 
 <a href="http://www.backcountry.com/canada-goose-down-glove-mens"><button type="button" class="btn btn-danger">Read more about the Canada Goose Down Glove</button></a>  
 
+The Canada Goose Down Gloves are similar to the Canada Goose Down Mitten and probably a better choice if you need to use your fingers a lot. However, they will be not as warm as the Canada Goose Down Mitten and they also do not come with a removeable glove liner.
+
 ### [The North Face Patrol Glove](http://www.backcountry.com/the-north-face-patrol-ski-glove)
 
 <a href="http://www.backcountry.com/black-diamond-icon-headlamp"><button type="button" class="btn btn-danger">Read more about the The North Face Patrol Glove</button></a>  
