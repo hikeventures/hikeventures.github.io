@@ -60,9 +60,22 @@ The Canada Goose Down Gloves are similar to the Canada Goose Down Mitten and pro
 
 ### [The North Face Patrol Glove](http://www.backcountry.com/the-north-face-patrol-ski-glove)
 
+The North Face Patrol Gloves are waterproof and come with a lining and PrimaLoft insulation. The North Face Patrol Gloves are probably not that warm as the Down filled gloves from Canada Goose.
+
 <a href="http://www.backcountry.com/black-diamond-icon-headlamp"><button type="button" class="btn btn-danger">Read more about the The North Face Patrol Glove</button></a>  
 
 ## Best Liner Gloves
+
+### [http://www.backcountry.com/arcteryx-gothic-glove](Arc'teryx Gothic Glove)
+
+The Arc'teryx Gothic Glove comes with ultra soft merino wool and an anatomical form fit. TheArc'teryx Gothic Glove is probably my favourite choice.
+
+<a href="http://www.backcountry.com/black-diamond-icon-headlamp"><button type="button" class="btn btn-danger">Read more about the The Arc'teryx Gothic Glove</button></a>  
+
+### [Icebreaker Oasis 200 Glove Liner](http://www.backcountry.com/the-north-face-patrol-ski-glove)
+
+<a href="http://www.backcountry.com/icebreaker-glove-liner"><button type="button" class="btn btn-danger">Read more about the The cebreaker Oasis 200 Glove Liner</button></a>  
+
 
 
 ##Conclusion
