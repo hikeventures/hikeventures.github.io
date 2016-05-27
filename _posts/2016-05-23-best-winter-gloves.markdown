@@ -3,7 +3,7 @@ layout: post
 title: The 5 best winter gloves of 2016 / 2017
 date: 2016-01-03 19:10:07 +0300
 comments: true
-description: The 5 best winter gloves for skiing, snowboarding or snowshoeing
+description: The 8 best winter gloves for skiing, snowboarding or snowshoeing
 category: articles
 tags: [articles, gloves, best]
 ---
@@ -92,13 +92,19 @@ The Black Diamond Patrol Gloves are waterproof and come with a PrimoLoft One ins
 
 ### [Arc'teryx Gothic Glove](http://www.backcountry.com/arcteryx-gothic-glove)
 
-The Arc'teryx Gothic Glove comes with ultra soft merino wool and an anatomical form fit. TheArc'teryx Gothic Glove is probably my favourite choice.
+<a  href="http://www.amazon.com/gp/product/B0128ZMB38/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0128ZMB38&linkCode=as2&tag=hikeve-20&linkId=FFSORBCFNMC4XSRF"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0128ZMB38&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0128ZMB38" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+The Arc'teryx Gothic Glove comes with ultra soft merino wool and an anatomical form fit. The Arc'teryx Gothic Glove is probably my favourite choice.
 
 <a href="http://www.backcountry.com/black-diamond-icon-headlamp"><button type="button" class="btn btn-danger">Read more about the The Arc'teryx Gothic Glove</button></a>  
 
 ---
 
 ### [Icebreaker Oasis 200 Glove Liner](http://www.backcountry.com/the-north-face-patrol-ski-glove)
+
+<a  href="http://www.amazon.com/gp/product/B00123O1X6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00123O1X6&linkCode=as2&tag=hikeve-20&linkId=RL26KBPHOCOLQWQ6"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00123O1X6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00123O1X6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+Not that expensive like the Arc'teryx Gothic Glove the Icebreaker Oasis 200 Glove Liner is a more affordable alternative with a similar quality.
 
 <a href="http://www.backcountry.com/icebreaker-glove-liner"><button type="button" class="btn btn-danger">Read more about the Icebreaker Oasis 200 Glove Liner</button></a>  
 
