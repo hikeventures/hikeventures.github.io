@@ -7,7 +7,7 @@ description: The 5 best winter gloves for skiing, snowboarding or snowshoeing
 category: articles
 tags: [articles, gloves, best]
 ---
-For my next snowshoeing trip in Lapland I was looking for a new pair of gloves or mittens to replace my old gloves which were "nothing special" compared to the ones presented in this buying guide.
+For my next snowshoeing trip in Lapland I was looking for a new pair of gloves or mittens to replace my old gloves which were "nothing special" compared to the ones presented in this buying guide where I selected the best gloves for skiing, snowboarding or snowshoeing.
 
 It always takes time to find the right product and everyone has a different taste on features or design so I decided to come up with a list of winter gloves / mittens from different brands which received good recommendations.
 
@@ -88,7 +88,7 @@ The Black Diamond Patrol Gloves are waterproof and come with a PrimoLoft One ins
 
 ---
 
-## Best Liner Gloves
+## Best Merino Liner Gloves
 
 ### [Arc'teryx Gothic Glove](http://www.backcountry.com/arcteryx-gothic-glove)
 
@@ -105,4 +105,4 @@ The Arc'teryx Gothic Glove comes with ultra soft merino wool and an anatomical f
 ---
 
 ## Conclusion
-My personal preference goes towards the [Hestra Army Leather Heli 3-Finger Glove](http://www.backcountry.com/hestra-heli-3-finger-glove "Hestra Army Leather Heli 3-Finger Glove"). I need to have one finger freely moving around to control my camera without having to take off my gloves all the time. At the same time this glove keeps the fingers warm which I don't need to operate my camera. However, if you are looking for the ultimate in warmth then you should probably go for [mittens](http://www.backcountry.com/hestra-heli-mitt).
+My personal preference goes towards the [Hestra Army Leather Heli 3-Finger Glove](http://www.backcountry.com/hestra-heli-3-finger-glove "Hestra Army Leather Heli 3-Finger Glove"). I need to have one finger freely moving around to control my camera without having to take off my gloves all the time. At the same time this glove keeps the fingers warm which I don't need to operate my camera. However, if you are looking for the ultimate in warmth then you should probably go for [mittens](http://www.backcountry.com/hestra-heli-mitt). If the liners which are provided with the gloves are too warm you can either remove them or replace them with thinner merino liner gloves.
