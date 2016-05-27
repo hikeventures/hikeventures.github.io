@@ -44,6 +44,8 @@ The Mountain Hardwear Absolute Zero Mitten was designed for the most extreme col
 
 ### [Canada Goose Down Mittens](http://www.backcountry.com/canada-goose-down-mitten-mens)
 
+The Canada Goose Down Mittens are water- and windproof and filled with 525 Fill Power White Goose Down and come with a Velcro closure for wrist cinch, hardface fleece cuffs and glove clips. The only downside on the Canada Goose Down Mittens is that they don't have a removeable liner.
+
 <a href="http://www.backcountry.com/canada-goose-down-mitten-mens"><button type="button" class="btn btn-danger">Read more about the http://www.backcountry.com/canada-goose-down-mitten-mens</button></a>  
 
 ---
