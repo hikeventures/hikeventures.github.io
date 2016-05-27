@@ -32,6 +32,21 @@ The MSR Hubba Hubba NX is a great 3 season tent and it even costs almost half th
 
 ---
 
+### [Hilleberg Niak 1.5](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Niak-1-5-Person-Tent_10306870_10208_10000001_-1_)
+
+<a  href="http://www.amazon.com/gp/product/B01AT52A08/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AT52A08&linkCode=as2&tag=hikeve-20&linkId=2TDIHYJWJ46ET5ID"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01AT52A08&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B01AT52A08" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Persons:** 1-2    
+**Fabric:** Kerlon 600   
+**Weight:** 1.7 kg   
+**Area inner tent:** 2.6 m²   
+
+The Enan as a solo tent looks like an interesting tent for the summer months. However, if you need more space e.g. if there is a longer rain period then you would appreciate most likely the new Niak 1.5. It can accommodate 1-2 persons and has a vestibule to store your gear. I was actually interested in getting the Hilleberg Soulo or the Akto as a go-to solo tent but I would prefer having the Niak 1.5 if I would just use it during the warmer months.
+
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Niak-1-5-Person-Tent_10306870_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Hilleberg Niak</button></a> 
+
+---
+
 ### [Hilleberg Allak](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Allak-2-Person-Tent_10101420_10208_10000001_-1_)
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B003X2JUM6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003X2JUM6&linkCode=as2&tag=hikeve-20&linkId=MPFYT4UWH4JSFZEJ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003X2JUM6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B003X2JUM6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -106,21 +121,6 @@ The Big Agnes Fly Creek HV UL1 is the lightest tent in this list. It is a bit ta
 If you are travelling alone on a shorter trip where you don't have lot's of gear with you then the Hilleberg Enan with 1100 grams could be a light choice during the warmer months. The only disadvantage we see with this tent is that it's not very roomy. It's also shorter then the Akto and you can only sit in one position in this tent. Venting should be quite good if you position one end of the tent with the mesh towards the wind.
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Enan-1-Person-Tent_10274355_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Hilleberg Enan</button></a> 
-
----
-
-### [Hilleberg Niak 1.5](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Niak-1-5-Person-Tent_10306870_10208_10000001_-1_)
-
-<a  href="http://www.amazon.com/gp/product/B01AT52A08/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AT52A08&linkCode=as2&tag=hikeve-20&linkId=2TDIHYJWJ46ET5ID"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01AT52A08&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B01AT52A08" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Persons:** 1-2    
-**Fabric:** Kerlon 600   
-**Weight:** 1.7 kg   
-**Area inner tent:** 2.6 m²   
-
-The Enan as a solo tent looks like an interesting tent for the summer months. However, if you need more space e.g. if there is a longer rain period then you would appreciate most likely the new Niak 1.5. It can accommodate 1-2 persons and has a vestibule to store your gear. I was actually interested in getting the Hilleberg Soulo or the Akto as a go-to solo tent but I would prefer having the Niak 1.5 if I would just use it during the warmer months.
-
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Niak-1-5-Person-Tent_10306870_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Hilleberg Niak</button></a> 
 
 ---
 
