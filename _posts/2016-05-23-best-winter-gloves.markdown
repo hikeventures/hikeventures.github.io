@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The 5 best winter gloves
+title: The 5 best winter gloves of 2016 / 2017
 date: 2016-01-03 19:10:07 +0300
 comments: true
 published: false
@@ -26,13 +26,19 @@ However, you can also just take your main gloves off and operate your camera by 
 
 ### [Outdoor Research Alti Mittens](http://www.backcountry.com/outdoor-research-alti-mitt-mens-odr0813)
 
+The Outdoor Research Alti Mittens gloves have been designed for 8,000-meter peaks and Arctic expeditions. The OR Alti Mittens are made by breathable and waterproof GORE-TEX®, high-loft Moonlite Pile™ fleece and water-resistant PrimaLoft® Gold Insulation. It is also possible to remove the liners layer to dry them over the night.
+
 <a href="http://www.backcountry.com/outdoor-research-alti-mitt-mens-odr0813"><button type="button" class="btn btn-danger">Read more about the Outdoor Research Alti Mittens</button></a>  
 
 ### [Hestra Heli Mitten](http://www.backcountry.com/hestra-heli-mitt)
 
+The Hestra Heli Mitten comes with a removeable liner and is wind- and waterproof. The Heli Mitten has also a pre-curved design. If I were to buy new gloves then I would probably buy the Hestra Heli Mitten.
+
 <a href="http://www.backcountry.com/hestra-heli-mitt"><button type="button" class="btn btn-danger">Read more about the Hestra Heli Mitten</button></a>  
 
 ### [Mountain Hardwear Absolute Zero Mitten](http://www.backcountry.com/mountain-hardwear-absolute-zero-mitt)
+
+The Mountain Hardwear Absolute Zero Mitten was designed for the most extreme cold weather conditions. It comes with a Q.Shield® DOWN 800-fill and is shielded by a waterproof, windproof OutDry® membrane. The Absolute Zero Mitten also comes with a high-pile fleece liner. 
 
 <a href="http://www.backcountry.com/mountain-hardwear-absolute-zero-mitt"><button type="button" class="btn btn-danger">Read more about the Mountain Hardwear Absolute Zero Mitten</button></a>  
 
