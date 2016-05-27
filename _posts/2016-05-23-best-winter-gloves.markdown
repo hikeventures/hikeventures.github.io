@@ -42,7 +42,7 @@ The Outdoor Research Alti Mittens gloves have been designed for 8,000-meter peak
 
 The Hestra Army Leather Heli 3-Finger Glove comes with a removeable liner and is wind- and waterproof. The Hestra Army Leather Heli 3-Finger Glove has also a pre-curved design. One free-moving finger is just sufficient to operate for example a camera while the other fingers stay warm as in a mitten. If I were to buy new gloves then I would probably buy these gloves. There is also the [Hestra Heli Ergo Grip Glove](http://www.backcountry.com/hestra-heli-glove) available if you prefer to have a regular glove.
 
-<a href="http://www.backcountry.com/hestra-heli-3-finger-glove"><button type="button" class="btn btn-danger">Read more about theHestra Army Leather Heli 3-Finger Glove</button></a>  
+<a href="http://www.backcountry.com/hestra-heli-3-finger-glove"><button type="button" class="btn btn-danger">Read more about the Hestra Army Leather Heli 3-Finger Glove</button></a>  
 
 ---
 
@@ -62,7 +62,7 @@ The Mountain Hardwear Absolute Zero Mitten was designed for the most extreme col
 
 The Canada Goose Down Mittens are water- and windproof and filled with 525 Fill Power White Goose Down and come with a Velcro closure for wrist cinch, hardface fleece cuffs and glove clips. The only downside on the Canada Goose Down Mittens is that they don't have a removeable liner.
 
-<a href="http://www.backcountry.com/canada-goose-down-mitten-mens"><button type="button" class="btn btn-danger">Read more about the http://www.backcountry.com/canada-goose-down-mitten-mens</button></a>  
+<a href="http://www.backcountry.com/canada-goose-down-mitten-mens"><button type="button" class="btn btn-danger">Read more about the Canada Goose Down Mittens</button></a>  
 
 ---
 
