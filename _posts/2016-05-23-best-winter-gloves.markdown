@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The 8 best winter gloves of 2016 / 2017
+title: The best winter gloves and mittens of 2016 / 2017 for Skiing, Snowboarding and Snowshoeing
 date: 2016-01-03 19:10:07 +0300
 comments: true
 description: The best winter gloves for skiing, snowboarding or snowshoeing
@@ -24,7 +24,7 @@ However, you can also just take your main gloves off and operate your camera by 
 
 ---
 
-## Best Mittens for Skiing, Snowboarding or Snowshoeing
+## Best Mittens
 
 ### [Outdoor Research Alti Mittens](http://www.backcountry.com/outdoor-research-alti-mitt-mens-odr0813)
 
@@ -66,7 +66,7 @@ The Canada Goose Down Mittens are water- and windproof and filled with 525 Fill 
 
 ---
 
-## Best Winter Gloves for Skiing, Snowboarding or Snowshoeing
+## Best Gloves
 
 ### [Canada Goose Down Glove](http://www.backcountry.com/canada-goose-down-glove-mens)
 
