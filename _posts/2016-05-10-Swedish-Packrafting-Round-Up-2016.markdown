@@ -246,7 +246,7 @@ After a long paddling day it was time to say good night and prepare for the next
 
 Patrick enjoyed his breakfast ... porridge with apple and cinemon.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27117236211/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7435/27117236211_aee9dd55ee_b.jpg" width="1024" height="647" alt="Swedish Packrafting Round-Up - Lundhags Jaure Light - Lundhags Merino Full Zip Hoodie - Kupilka - Lundhags Makke Pants"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27117236211/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7435/27117236211_aee9dd55ee_b.jpg" width="1024" height="647" alt="Swedish Packrafting Round-Up - Lundhags Jaure Light - Lundhags Merino Full Zip Hoodie - Kupilka - Lundhags Makke Pants - Rosellli Carpenter Knife"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 We have also spotted some pirates on the Voxnan.
 
