@@ -306,31 +306,31 @@ And it was not possible for Jacob to get into his packraft again.
                  
 But fortunately, everyone made it safely through the rapid.
                  
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26814282560/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7682/26814282560_59d5a1502c_b.jpg" width="1024" height="473" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26814282560/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7682/26814282560_59d5a1502c_b.jpg" width="1024" height="473" alt="Swedish Packrafting Round-Up - Alpacka Raft Ghost and Scout - Urbanpackrafter - Werner Shuna Paddles - Aqua Bound"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
                  
 After the Vinströmmen has been paddled we enjoyed a nice evening on the fire.
         
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26380304044/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7273/26380304044_412884c5d4_b.jpg" width="1024" height="740" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26380304044/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7273/26380304044_412884c5d4_b.jpg" width="1024" height="740" alt="Swedish Packrafting Round-Up - Lundhags Jaure Light - Lundhags Merino Full Zip Hoodie - Nalgene Everyday"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
         
 One more reason to go camping... 
         
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26380304314/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7551/26380304314_10c373feae_b.jpg" width="1024" height="768" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26380304314/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7551/26380304314_10c373feae_b.jpg" width="1024" height="768" alt="Swedish Packrafting Round-Up - Sunset in the Swedish Forest"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
         
 The next day Jacob interviewed some of us for <a href="http://urbanpackrafter.com/">Urbanpackrafter.com</a>
         
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26917254451/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7568/26917254451_6aff36bd6f_b.jpg" width="1024" height="668" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26917254451/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7568/26917254451_6aff36bd6f_b.jpg" width="1024" height="668" alt="Swedish Packrafting Round-Up - Urbanpackrafter - Rode VideoMic Pro - Injuring Eternity"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 We had a good sleep in our MSR Hubba Hubba NX.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27152697216/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7601/27152697216_f9d9ec905a_b.jpg" width="1024" height="768" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27152697216/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7601/27152697216_f9d9ec905a_b.jpg" width="1024" height="768" alt="Swedish Packrafting Round-Up - Cumulus Panyam 450 - MSR Hubba Hubba NX - Therm-a-Rest XTherm - Mountain Equipment Fitzroy Jacket"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Konstantin packing. It's time to drive back to Stockholm where he has to catch the plane to Amsterdam. The following week he will paddle again ... in Belgium.
         
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26381632483/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7067/26381632483_2349087230_b.jpg" width="1024" height="698" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26381632483/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7067/26381632483_2349087230_b.jpg" width="1024" height="698" Petzl Meteor 3 - Sea to Summit Ultra Flex Booties - Overboard Waterproof SLR Bag - Teva Sandals - Julbo Race 2.0"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
         
 Patrick and Caj saying bye bye to Konstantin Gridnevskiy at the airport in Stockholm.
         
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26381627983/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7096/26381627983_51e2a06359_b.jpg" width="750" height="1000" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26381627983/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7096/26381627983_51e2a06359_b.jpg" width="750" height="1000" alt="Swedish Packrafting Round-Up - Julbo Race 2.0 - Lundhags Jaure Light - Icebreaker - Suunto Core Tech Top LS Half Zip"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
         
 <a href="http://caide.kuvat.fi/">Caj</a> and Patrick spent the whole day in Stockholm, walking through the old town and watching the preparations for the <a href="http://www.eurovision.tv/">SBS Eurovision song contest</a>. At 8 pm we left with <a href="http://www.vikingline.com/">Viking Line</a> from Stockholm back home to Turku. Let's meet again next year for the Swedish Packrafting Round-Up organized by the <a href="http://deliveranceteam.outdrr.com/">The Deliverance Team</a>. They did a really great job! We also want to thank <a href="https://www.hyperlitemountaingear.com/">Hyperlite Mountain Gear</a> who provided a nice Dyneema Cuben Fiber bag for the Alpacka Repair Kit.‪
         
