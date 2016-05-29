@@ -104,19 +104,19 @@ Queuing was quite common especially before a rapid.
        
 There is hardly any rapid which can't be handled by the <a href="http://deliveranceteam.outdrr.com/">The Deliverance Team</a>
        
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26888501332/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7205/26888501332_e7c4b9f8ba_b.jpg" width="1024" height="459" alt="Swedish Packrafting Round Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26888501332/in/dateposted-public/" title="Swedish Packrafting Round Up - Alpacka Raft - Astral Designs YTV - Werner Shuna Paddle - Aqua Bound"><img src="https://farm8.staticflickr.com/7205/26888501332_e7c4b9f8ba_b.jpg" width="1024" height="459" alt="Swedish Packrafting Round Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
 Michael cruising a rapid on the Voxnan.
        
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26377302944/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7686/26377302944_095e88dd02_b.jpg" width="1024" height="585" alt="Swedish Packrafting Round Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26377302944/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7686/26377302944_095e88dd02_b.jpg" width="1024" height="585" alt="Swedish Packrafting Round Up - Alpacka Raft - HMG Hyperlite Mountain Gear Porter 4400 - GoPro Hero - Ray Ban"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
 Where is the next rapid?
        
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26888501672/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7783/26888501672_5515ca4f22_b.jpg" width="1024" height="637" alt="Swedish Packrafting Round Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26888501672/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7783/26888501672_5515ca4f22_b.jpg" width="1024" height="637" alt="Swedish Packrafting Round Up - Astral Designs GreenJacket - Alpacka Raft - The Deliverance Team"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
 This is Patrick from HikeVentures. You probably won't see him on many pictures since he is the guy who has to take them. Thanks to <a href="http://caide.kuvat.fi/">Caj</a> who took this picture. Patrick also enjoy his new Julbo Swell sunglasses. The glasses of the Julbo Swell can adapt to the light and they can also float on the water which comes quite handy when going packrafting.
        
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26873718832/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7213/26873718832_c77a751c32_b.jpg" width="1024" height="875" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26873718832/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7213/26873718832_c77a751c32_b.jpg" width="1024" height="875" alt="Swedish Packrafting Round-Up - Julbo Swell - Devold Expedition"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
 Do you know what this is? No, you won't use it to knit fancy dry suites. This rope can rescue life in certain situations.
        
@@ -128,15 +128,15 @@ Perfect view towards the Swedish landscape.
        
 Some people prefer to stand when packrafting.
        
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26888501802/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7130/26888501802_356ae4b58c_b.jpg" width="1024" height="724" alt="Swedish Packrafting Round Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26888501802/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7130/26888501802_356ae4b58c_b.jpg" width="1024" height="724" alt="Swedish Packrafting Round Up - Astral Designs YTV - Alpacka Raft - Aqua Bound Paddles"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
 Packrafters are sometimes hard to spot in the rapid.
        
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26377303224/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7268/26377303224_981c006a22_b.jpg" width="1024" height="541" alt="Swedish Packrafting Round Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26377303224/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7268/26377303224_981c006a22_b.jpg" width="1024" height="541" alt="Swedish Packrafting Round Up - Alpacka Raft in the Hogförsen rapid"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
 One of the brave ones who managed the Hogförsen rapid.
        
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26949413436/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7712/26949413436_d984c40cd1_b.jpg" width="1024" height="628" alt="Swedish Packrafting Round Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26949413436/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7712/26949413436_d984c40cd1_b.jpg" width="1024" height="628" alt="Swedish Packrafting Round Up - Alpacka Raft - Aqua Bound Paddles"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a href="http://www.urbanpackrafter.com">Jacob</a> enjoying the Hogförsen rapid.
 
@@ -146,83 +146,83 @@ One of the brave ones who managed the Hogförsen rapid.
 
 After the rapid is time to enjoy the nature and to relax.
        
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26888501962/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7170/26888501962_67d259be88_b.jpg" width="1024" height="681" alt="Swedish Packrafting Round Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26888501962/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7170/26888501962_67d259be88_b.jpg" width="1024" height="681" alt="Swedish Packrafting Round Up - Alpacka Raft"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
 Lunch break at the dam.
        
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26377303394/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7293/26377303394_8fb101d6e2_b.jpg" width="1024" height="602" alt="Swedish Packrafting Round Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26377303394/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7293/26377303394_8fb101d6e2_b.jpg" width="1024" height="602" alt="Swedish Packrafting Round Up - Alpacka Raft - The Deliverance Team - Luci Outdoor Lantern"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
  In the Nordics there are a lot of pine trees. No need to take gas with you when you have a Boilerwerk Backcountry Boiler.
        
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26377303654/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7355/26377303654_591b551e2f_b.jpg" width="1024" height="713" alt="Swedish Packrafting Round Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26377303654/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7355/26377303654_591b551e2f_b.jpg" width="1024" height="713" alt="Swedish Packrafting Round Up - Boilerwerks Backcountry Boiler - Alpacka Raft - Oakley"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
 <a href="http://www.alpackaraft.com/">Alpacka Raft</a> showed us how to fix a packraft.
        
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26888502082/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7240/26888502082_13f2597fa9_b.jpg" width="1024" height="681" alt="Swedish Packrafting Round Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26888502082/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7240/26888502082_13f2597fa9_b.jpg" width="1024" height="681" alt="Swedish Packrafting Round Up - How to fix a packraft"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
  Konstantin seems to be quite happy in his banana boat while wearing his Julbo Race 2.0 sun glasses.
        
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26377303664/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7588/26377303664_ffed66a337_b.jpg" width="1024" height="681" alt="Swedish Packrafting Round Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26377303664/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7588/26377303664_ffed66a337_b.jpg" width="1024" height="681" alt="Swedish Packrafting Round Up - Alpacka Raft - Petzl Meteor Helmet - Julbo Race 2.0 - Hyperlite Mountain Gear HMG Porter 4400 - GoPro Hero 4 Black - Sea to Summit Ultra Flex Booties"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Patrick enjoyed wearing his new Julbo Swell glasses. They were quite comfortable and light.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27152697396/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7346/27152697396_5c004ed994_b.jpg" width="1024" height="608" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27152697396/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7346/27152697396_5c004ed994_b.jpg" width="1024" height="608" alt="Swedish Packrafting Round-Up - Petzl Meteor Helmet - Julbo Swell - HMG Porter 4400 - Werner Shuna Paddles"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
  Caj Koskinen on the Voxnan.
        
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26888502342/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7118/26888502342_25646e8511_b.jpg" width="1024" height="681" alt="Swedish Packrafting Round Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26888502342/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7118/26888502342_25646e8511_b.jpg" width="1024" height="681" alt="Swedish Packrafting Round Up - GoPro Session camera"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
 Konstantin pulling a tree down.
          
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26949414356/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7762/26949414356_e2a7b332e6_b.jpg" width="1024" height="681" alt="Swedish Packrafting Round Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26949414356/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7762/26949414356_e2a7b332e6_b.jpg" width="1024" height="681" alt="Swedish Packrafting Round Up - Julbo Race 2.0 - Petzl Meteor Helmet - Alpacka Raft - Werner Shuna Paddles - HMG Porter 4400"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
         
 Jacob cruising on the Voxnan.
         
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26952421316/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7046/26952421316_6cc8f392ea_b.jpg" width="1024" height="617" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26952421316/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7046/26952421316_6cc8f392ea_b.jpg" width="1024" height="617" alt="Swedish Packrafting Round-Up - Petzl Meteor Helmet - Alpacka Raft - Therm-a-Rest Z-Lite Sol - Werner Shuna Paddles - HMG Porter 4400"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
         
 Jeremie fighting with a rapid.
         
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26952422416/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7416/26952422416_c0085a2336_b.jpg" width="1024" height="608" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26952422416/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7416/26952422416_c0085a2336_b.jpg" width="1024" height="608" alt="Swedish Packrafting Round-Up - Alpacka Raft"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
         
 Torbjörn on the Voxnan - The more it splashes the better the ride. 
         
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26952422676/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7219/26952422676_a1d56e590d_b.jpg" width="1024" height="591" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26952422676/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7219/26952422676_a1d56e590d_b.jpg" width="1024" height="591" alt="Swedish Packrafting Round-Up - Alpacka Raft"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
         
 Carl from the <a href="http://deliveranceteam.outdrr.com/">The Deliverance Team</a> is taking it easy on the Voxnan.
         
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26380300054/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7083/26380300054_abd1854d65_b.jpg" width="1024" height="583" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26380300054/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7083/26380300054_abd1854d65_b.jpg" width="1024" height="583" alt="Swedish Packrafting Round-Up - Alpacka Raft - GoPro Hero camera"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
         
 Sometimes packrafting is not that easy.
         
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26380299364/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7795/26380299364_0705544dcd_b.jpg" width="1024" height="633" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26380299364/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7795/26380299364_0705544dcd_b.jpg" width="1024" height="633" alt="Swedish Packrafting Round-Up - Alpacka Raft - Astral Designs V-Eight - Aqua Bound Paddles"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
         
 A PFD and a drysuite can help in certain situations.
         
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26952420936/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7485/26952420936_ee0b2988c9_b.jpg" width="1024" height="681" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26952420936/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7485/26952420936_ee0b2988c9_b.jpg" width="1024" height="681" alt="Swedish Packrafting Round-Up - Alpacka Raft"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
         
 <a href="http://www.alpackaraft.com/">Alpacka Raft</a> and <a href="http://www.hikeventures.com">HikeVentures</a> scouting the Voxnan.
         
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26952422936/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7614/26952422936_7489b40de2_b.jpg" width="1024" height="703" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26952422936/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7614/26952422936_7489b40de2_b.jpg" width="1024" height="703" alt="Swedish Packrafting Round-Up - Astral Designs YTV - Werner Shuna Paddles - Alpacka Raft - Julbo Race 2.0 - HMG Porter 4400 - GoPro Hero 4 - Aqua-Bound Paddles"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
         
 The <a href="http://deliveranceteam.outdrr.com/">The Deliverance Team</a> has welcomed us to the spot where we spent the second night with a pirate flag. Great idea!
         
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26381629443/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7058/26381629443_3408e6b06a_b.jpg" width="1024" height="759" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26381629443/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7058/26381629443_3408e6b06a_b.jpg" width="1024" height="759" alt="Swedish Packrafting Round-Up - Alpacka Raft - Astral Designs YTV"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
         
 Konstantin carrying his banana boat to the camp site.
         
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26380300394/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7708/26380300394_bb9d052ed7_b.jpg" width="1024" height="660" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26380300394/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7708/26380300394_bb9d052ed7_b.jpg" width="1024" height="660" alt="Swedish Packrafting Round-Up - Alpacka Raft - Julbo Race 2.0 - Werner Shuna Paddles - Sea to Summit Ultra Flex Booties"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
         
 Packrafts nicely parked at the second camp.
         
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26381630913/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7300/26381630913_f10e1b103a_b.jpg" width="1024" height="681" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26381630913/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7300/26381630913_f10e1b103a_b.jpg" width="1024" height="681" alt="Swedish Packrafting Round-Up - Hilleberg Akto - Alpacka Raft - Laurel Design"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
         
 <a href="http://urbanpackrafter.com/">Urban Packrafter</a> interviewing <a href="http://www.hikeventures.com">HikeVentures</a>.
         
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26712109960/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7044/26712109960_73e5e5fbf5_b.jpg" width="1024" height="607" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26712109960/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7044/26712109960_73e5e5fbf5_b.jpg" width="1024" height="607" alt="Swedish Packrafting Round-Up - Alpacka Raft - Lundhags Jaure Light - Urbanpackrafter"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
         
 Packrafters are also very skilled in decorating christmas trees.
         
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26381629923/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7782/26381629923_5debeb382b_b.jpg" width="1024" height="601" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26381629923/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7782/26381629923_5debeb382b_b.jpg" width="1024" height="601" alt="Swedish Packrafting Round-Up - HMG UltaMid"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
 Hanging around in the camp.
        
@@ -234,19 +234,19 @@ Can you smell the sausages?
        
 Hightech at the Swedish Packrafting Round-Up - An Alpacka Raft and a Hilleberg Soulo tent.
        
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26380302324/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7222/26380302324_2bb392f91d_b.jpg" width="1024" height="668" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26380302324/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7222/26380302324_2bb392f91d_b.jpg" width="1024" height="668" alt="Swedish Packrafting Round-Up - Hilleberg Soulo - Alpacka Raft"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
 Sometimes shit happens.
        
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26985805475/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7248/26985805475_d5974f511c_b.jpg" width="1024" height="681" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26985805475/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7248/26985805475_d5974f511c_b.jpg" width="1024" height="681" alt="Swedish Packrafting Round-Up - Moose shit"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
 After a long paddling day it was time to say good night and prepare for the next day.
        
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26917253041/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7698/26917253041_5a1ab4374d_b.jpg" width="1024" height="768" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26917253041/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7698/26917253041_5a1ab4374d_b.jpg" width="1024" height="768" alt="Swedish Packrafting Round-Up - hiking flag"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Patrick enjoyed his breakfast ... porridge with apple and cinemon.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27117236211/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7435/27117236211_aee9dd55ee_b.jpg" width="1024" height="647" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27117236211/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7435/27117236211_aee9dd55ee_b.jpg" width="1024" height="647" alt="Swedish Packrafting Round-Up - Lundhags Jaure Light - Lundhags Merino Full Zip Hoodie - Kupilka - Lundhags Makke Pants"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 We have also spotted some pirates on the Voxnan.
 
