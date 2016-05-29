@@ -84,23 +84,23 @@ Konstantin in the Canyon.
        
 Henrik from the <a href="http://deliveranceteam.outdrr.com/">The Deliverance Team</a> was pretty good in shape as well.
        
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26361239754/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7096/26361239754_a706ac859c_b.jpg" width="1024" height="576" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26361239754/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7096/26361239754_a706ac859c_b.jpg" width="1024" height="576" alt="Swedish Packrafting Round-Up - Alpacka Raft"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
 So was Carl from the <a href="http://deliveranceteam.outdrr.com/">The Deliverance Team</a>
        
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26362311913/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7376/26362311913_ebf790923b_b.jpg" width="1024" height="607" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26362311913/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7376/26362311913_ebf790923b_b.jpg" width="1024" height="607" alt="Swedish Packrafting Round-Up - Alpacka Raft - GoPro Hero camera"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
 and Michael ....
        
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26361239644/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7503/26361239644_5d54f541ea_b.jpg" width="1024" height="536" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26361239644/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7503/26361239644_5d54f541ea_b.jpg" width="1024" height="536" alt="Swedish Packrafting Round-Up - Alpacka Raft - Hyperlite Mountain Gear Porter 4400 - HMG - Astral Designs"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
 ... and Torbjörn
        
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26361240524/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7651/26361240524_7443be447b_b.jpg" width="1024" height="673" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26361240524/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7651/26361240524_7443be447b_b.jpg" width="1024" height="673" alt="Swedish Packrafting Round-Up - Alpacka Raft"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
 Queuing was quite common especially before a rapid.
        
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26377302274/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7529/26377302274_23fb45b134_b.jpg" width="1024" height="548" alt="Swedish Packrafting Round Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26377302274/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://farm8.staticflickr.com/7529/26377302274_23fb45b134_b.jpg" width="1024" height="548" alt="Swedish Packrafting Round Up - Alpacka Raft - Werner Shuna Paddles - Petzl Meteor Helmet - Julbo Race 2.0 - HMG Hyperlite Mountain Gear Porter 4400 - Astral Designs V-Eight"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
        
 There is hardly any rapid which can't be handled by the <a href="http://deliveranceteam.outdrr.com/">The Deliverance Team</a>
        
