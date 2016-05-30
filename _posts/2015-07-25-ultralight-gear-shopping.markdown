@@ -10,7 +10,7 @@ tags: [articles, ultralight]
 ---
 If you are planning a long hiking trip then you probably would like to save some weight and decide to buy ultralight gear either in your local camping store or a dedicated ultraligh gear shop. If you have ever done an extensive hike - especially in an environment where weather is not predictable i.e. cold and wet for several days - relying solely on ultralight gear might not be the best option if you are not willing to sacrifice on comfort.
 
-<img src="https://farm4.staticflickr.com/3715/9606341414_ea6945a4fb_b.jpg" width="992" height="661" alt="Ultralight Hiking"><!--more-->
+<img src="https://farm4.staticflickr.com/3715/9606341414_ea6945a4fb_b.jpg" width="992" height="661" alt="Ultralight Hiking - HMG Porter 4400 - Montane Minimus Jacket"><!--more-->
 
 ## Less weight equals more comfort?
 Obviously, if you have to carry less weight you will enjoy your hike more. However,  from my point of view weight is only one factor which adds up to  'fun' in backpacking. Once I went hiking to the [Swedish mountains][1] where I tested the principles of ultralight hiking to some point by having some ultralight gear with me and here are my thoughts with gear I carried with me.  
@@ -31,7 +31,7 @@ However, if you have sun and the temperatures are fine then they dry quite fast.
 
 Would I go on such a hike again with trail runners? Most likely not if I am planning to hike several days again in unpredictable weather conditions. I am most likely going to take my Hanwag Banks GTX with me.
 
-<img src="https://farm4.staticflickr.com/3815/9596183907_732d266e5d_b.jpg" width="1024" height="683" alt="Inov-8 Trail Runners">
+<img src="https://farm4.staticflickr.com/3815/9596183907_732d266e5d_b.jpg" width="1024" height="683" alt="Ultralight Hiking and Backpacking Inov-8 Trail Runners">
 
 ### Rain clothes
 With rain jackets and pants you can probably save some weight if you chose them carefully. Ultralight versions may not be that durable but they pack small and I can replace them after some trips (even if it costs me some money). I made quite good experience with the Montane Minimus gear on our trip - super light and packs small.
@@ -45,7 +45,7 @@ Here you can save weight as well. Take the latest smartphone from e.g. Apple or 
 ### Camping kitchen
 I don't take any plates or big knifes with me. I have a Titanium spoon or a spork and I take dehydrated food with me where you just have to pour water - which I heat up with my [Jetboil Sol Ti][7] - into the package (I have not tried to heat up water in stormy and wet weather on an Esbit stove yet to save even more weight...maybe leave a comment below if you have experience with an Esbit stove). I use my tea cup also to prepare porridge for breakfast. Dried nuts / fruits and small chocolate bars also worked well. A stove which can boil water quickly can also reduce the amount of gas you have to carry with you. A plastic bottle / [water filter][8] combination worked as well for me. So should you take a frying pan with you? Well if you can prepare your food only with a frying pan then take it with you. Of course you have to carry more weight but you might also enjoy your trip more.
 
-<img src="https://farm8.staticflickr.com/7459/9599019542_097779e2ae_b.jpg" width="1024" height="683" alt="Ultralight rain clothes and water filter">
+<img src="https://farm8.staticflickr.com/7459/9599019542_097779e2ae_b.jpg" width="1024" height="683" alt="Ultralight rain clothes and Katadyn water filter - Montane Minimus Jacket - Sweden - National Park - Sarek">
 
 ### Other gear
 Since we also take in most cases our packrafts with us - which adds on additional weight (around 3.5 kg if we leave our dry suits at home) - talking about ultralight backpacking may become a matter of definition. 
