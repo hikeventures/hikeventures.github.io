@@ -58,28 +58,28 @@ Once I reached the top I saw one of the border stones which seperates Poland and
 <br>
 It was quite nice to hike along the border and I also met other hikers there. The trail on the main ridge is called 'Polish–Czech Friendship Trail' and crosses all summits. In the background you can see Śnieżne Kotły - one of the two glacial cirques - where you can also find the mountain peak Łabski Szczyt - which serves as a radio and TV tower - the source of the river Elbe. On my backpack you can see a <a href="http://amzn.to/1MpjibL">Thule Legend GoPro Case</a> which we got sponsored from Thule. More about this GoPro case soon on our blog...
  <br><br>
-<img src="https://farm1.staticflickr.com/416/19575348491_0a419dd365_o.jpg" width="992" height="744" >
+<img src="https://farm1.staticflickr.com/416/19575348491_0a419dd365_o.jpg" width="992" height="744" alt="Hiking Karkonosze National Park">
 <br>
-<img src="https://farm1.staticflickr.com/544/19575347911_05371d64fb_o.jpg" width="992" height="744" >
+<img src="https://farm1.staticflickr.com/544/19575347911_05371d64fb_o.jpg" width="992" height="744" alt="Hiking Karkonosze National Park">
 <br>
-<img src="https://farm1.staticflickr.com/476/19383102528_a00cfdb7fe_o.jpg" width="992" height="744" >
+<img src="https://farm1.staticflickr.com/476/19383102528_a00cfdb7fe_o.jpg" width="992" height="744" alt="Hiking Karkonosze National Park" >
 <br>
 View towards the Czech Republic
 <br><br> 
-<img src="https://farm4.staticflickr.com/3823/18950138873_f516cc4fbb_o.jpg" width="992" height="744" >
+<img src="https://farm4.staticflickr.com/3823/18950138873_f516cc4fbb_o.jpg" width="992" height="744" alt="Hiking Polish Czech border - Thule Legend GoPro Case - Salomon Speedcross 2 - Laufbursche Huckepack - Nalgene Bottle" >
 <br>
 A big rock formation on the trail - Muzske Kameny (1417 m)
  <br><br>
-<img src="https://farm4.staticflickr.com/3804/19384507409_38125cac04_o.jpg" width="992" height="744" >
+<img src="https://farm4.staticflickr.com/3804/19384507409_38125cac04_o.jpg" width="992" height="744" alt="Hiking Karkonosze National Park">
 <br>
-<img src="https://farm1.staticflickr.com/376/19383102648_5bc8ebea21_o.jpg" width="992" height="744" >
+<img src="https://farm1.staticflickr.com/376/19383102648_5bc8ebea21_o.jpg" width="992" height="744" alt="Hiking Karkonosze National Park">
 <br>
 And a smaller rock formation next to the big one.
  <br><br>
-<img src="https://farm1.staticflickr.com/550/19564206952_be6e2c6fe0_o.jpg" width="992" height="744" >
+<img src="https://farm1.staticflickr.com/550/19564206952_be6e2c6fe0_o.jpg" width="992" height="744" alt="Hiking Karkonosze National Park">
 <br>
 Czech journalist Rudolf Kalman died here during a snow storm on 14 January 1929.
  <br><br>
-<img src="https://farm4.staticflickr.com/3785/19383103188_784b80e1a1_o.jpg" width="992" height="744" >
+<img src="https://farm4.staticflickr.com/3785/19383103188_784b80e1a1_o.jpg" width="992" height="744" alt="Hiking Karkonosze National Park">
 <br>
 Due to the limited amount of time we spent in this part of Poland I was only able to do a day trip. Anyway, the next day I got muscle ache in my legs since I also went 10 km jogging up the mountain on the morning before the hike. Just not used to run in the mountains anymore as when I lived in Austria. Next time I would like to hike the complete trail if I plan to come here again. Here is the GPS data from <a hre="http://www.movescount.com/moves/move68498799">hiking</a> and <a href="http://www.movescount.com/moves/move68437371">jogging</a>.
