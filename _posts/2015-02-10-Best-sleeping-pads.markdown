@@ -87,7 +87,7 @@ In this blog post you can find the best sleeping pads available in 2016. I have 
 
 ---
 
-<img src="https://farm6.staticflickr.com/5590/14925237036_4743bca2f4_b.jpg" width="1024" height="683" alt="Exped Synmat UL 7">
+<img src="https://farm6.staticflickr.com/5590/14925237036_4743bca2f4_b.jpg" width="1024" height="683" alt="Exped Synmat UL 7 and Exped Air Pillow">
     
 [Exped Synmat UL 7](https://www.rei.com/product/811907/exped-synmat-ul-7-air-pad)
 
