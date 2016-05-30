@@ -113,7 +113,7 @@ The MSR XGK EX is probably the best choice if you need a stove which can handle 
 
 ---
    
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9596216703/in/album-72157646473505683/" title="Jetboil Sol Ti in Sarek"><img src="https://c8.staticflickr.com/4/3748/9596216703_3f4c4db24f_b.jpg" width="1024" height="683" alt="Jetboil Sol Ti in Sarek"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9596216703/in/album-72157646473505683/" title="Jetboil Sol Ti in Sarek"><img src="https://c8.staticflickr.com/4/3748/9596216703_3f4c4db24f_b.jpg" width="1024" height="683" alt="Best Backpacking and Camping stoves in 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
    
 A Jetboil stove on our trip in [http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/](Swedish Lapland).
 
