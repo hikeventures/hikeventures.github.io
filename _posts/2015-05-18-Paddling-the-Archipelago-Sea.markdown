@@ -221,90 +221,90 @@ I am still excited about the Archipelago Sea. You can have endless [microadventu
 
 If you are excited about packrafting you may also watch my [video][36] about wind paddle sailing here around Turku.
 
-[1]:	https://www.flickr.com/photos/90204224@N07/17598040058
+[1]:	https://www.flickr.com/photos/90204224@N07/17598040058 "Packrafting in the Turku Archipelago - Alpacka Raft Astral Designs YTV Werner Shuna Palm Hook Gloves and Nalgene Bottle"
 [2]:	http://www.hikeventures.com/hiking-on-the-aland-islands/
-[3]:	https://www.flickr.com/photos/90204224@N07/17163342294
-[4]:	https://www.flickr.com/photos/90204224@N07/17783116172
-[5]:	https://www.flickr.com/photos/90204224@N07/17785799665
-[6]:	https://www.flickr.com/photos/90204224@N07/17165494363
-[7]:	https://www.flickr.com/photos/90204224@N07/17785806595
-[8]:	https://www.flickr.com/photos/90204224@N07/17599586709
-[9]:	https://www.flickr.com/photos/90204224@N07/17783126312
-[10]:	https://www.flickr.com/photos/90204224@N07/17598054748
-[11]:	https://www.flickr.com/photos/90204224@N07/17598313990
-[12]:	https://www.flickr.com/photos/90204224@N07/17598056508
-[13]:	https://www.flickr.com/photos/90204224@N07/17598316850
-[14]:	https://www.flickr.com/photos/90204224@N07/17599591299
-[15]:	https://www.flickr.com/photos/90204224@N07/17913972604 "Packrafting in the Turku Archipelago"
-[16]:	https://www.flickr.com/photos/90204224@N07/17915980773 "Packrafting in the Turku Archipelago"
-[17]:	https://www.flickr.com/photos/90204224@N07/18348978210
-[18]:	https://www.flickr.com/photos/90204224@N07/17913972864
-[19]:	https://www.flickr.com/photos/90204224@N07/18348978370
-[20]:	https://www.flickr.com/photos/90204224@N07/18348978590
-[21]:	https://www.flickr.com/photos/90204224@N07/18538639551
-[22]:	https://www.flickr.com/photos/90204224@N07/23291954442/in/dateposted-public/ "Packrafting Archipelago Sea"
-[23]:	https://www.flickr.com/photos/90204224@N07/23317891031/in/dateposted-public/ "Packrafting Archipelago Sea"
-[24]:	https://www.flickr.com/photos/90204224@N07/23400453255/in/dateposted-public/ "Packrafting Archipelago Sea"
-[25]:	https://www.flickr.com/photos/90204224@N07/23104679240/in/dateposted-public/ "Packrafting Archipelago Sea"
-[26]:	https://www.flickr.com/photos/90204224@N07/23291984732/in/dateposted-public/ "Packrafting Archipelago Sea"
-[27]:	https://www.flickr.com/photos/90204224@N07/23374289326/in/dateposted-public/ "DSC_11Packrafting Archipelago Sea54"
-[28]:	https://www.flickr.com/photos/90204224@N07/22773256803/in/dateposted-public/ "Packrafting Archipelago Sea"
-[29]:	https://www.flickr.com/photos/90204224@N07/23032465249/in/dateposted-public/ "Packrafting Archipelago Sea"
-[30]:	https://www.flickr.com/photos/90204224@N07/23291952932/in/dateposted-public/ "Packrafting Archipelago Sea"
-[31]:	https://www.flickr.com/photos/90204224@N07/23032461319/in/dateposted-public/ "Packrafting Archipelago Sea"
-[32]:	https://www.flickr.com/photos/90204224@N07/22773235853/in/dateposted-public/ "Packrafting Archipelago Sea"
-[33]:	https://www.flickr.com/photos/90204224@N07/23104640200/in/dateposted-public/ "Packrafting Archipelago Sea"
-[34]:	https://www.flickr.com/photos/90204224@N07/23032450729/in/dateposted-public/ "Packrafting Archipelago Sea"
+[3]:	https://www.flickr.com/photos/90204224@N07/17163342294 "Packrafting in the Turku Archipelago - Suunto Ambit3 and Palm Hook Gloves"
+[4]:	https://www.flickr.com/photos/90204224@N07/17783116172 "Packrafting in the Turku Archipelago - Alpacka Raft"
+[5]:	https://www.flickr.com/photos/90204224@N07/17785799665 "Packrafting in the Turku Archipelago spring - Alpacka Raft"
+[6]:	https://www.flickr.com/photos/90204224@N07/17165494363 "Packrafting in the Turku Archipelago - Alpacka Raft"
+[7]:	https://www.flickr.com/photos/90204224@N07/17785806595 "Packrafting in the Turku Archipelago - Alpacka Raft"
+[8]:	https://www.flickr.com/photos/90204224@N07/17599586709 "Packrafting in the Turku Archipelago - Alpacka Raft Werner Shuna"
+[9]:	https://www.flickr.com/photos/90204224@N07/17783126312 "Packrafting in the Turku Archipelago - Alpacka Raft"
+[10]:	https://www.flickr.com/photos/90204224@N07/17598054748 "Packrafting in the Turku Archipelago - Suunto Ambit3 Alpacka Raft"
+[11]:	https://www.flickr.com/photos/90204224@N07/17598313990 "Packrafting in the Turku Archipelago - House island"
+[12]:	https://www.flickr.com/photos/90204224@N07/17598056508 "Packrafting in the Turku Archipelago spring - Alpacka Raft Nalgene Everyday Bottle"
+[13]:	https://www.flickr.com/photos/90204224@N07/17598316850 "Packrafting in the Turku Archipelago spring - mussles"
+[14]:	https://www.flickr.com/photos/90204224@N07/17599591299 "Packrafting in the Turku Archipelago - plants and stones"
+[15]:	https://www.flickr.com/photos/90204224@N07/17913972604 "Packrafting in the Turku Archipelago summer - alpacka raft werner shuna nalgene bottle "
+[16]:	https://www.flickr.com/photos/90204224@N07/17915980773 "Packrafting in the Turku Archipelago alpacka raft"
+[17]:	https://www.flickr.com/photos/90204224@N07/18348978210 "Packrafting in the Turku Archipelago summer"
+[18]:	https://www.flickr.com/photos/90204224@N07/17913972864 "Packrafting in the Turku Archipelago summer buoy"
+[19]:	https://www.flickr.com/photos/90204224@N07/18348978370 "Packrafting in the Turku Archipelago summer alpacka raft windpaddle sail wernerpaddle shuna"
+[20]:	https://www.flickr.com/photos/90204224@N07/18348978590 "Packrafting in the Turku Archipelago summer - boat traffic sign"
+[21]:	https://www.flickr.com/photos/90204224@N07/18538639551 "Packrafting in the Turku Archipelago summer villas"
+[22]:	https://www.flickr.com/photos/90204224@N07/23291954442/in/dateposted-public/ "Packrafting Archipelago Sea autumn trail hiking"
+[23]:	https://www.flickr.com/photos/90204224@N07/23317891031/in/dateposted-public/ "Packrafting Archipelago Sea autumn HMG Porter 4400"
+[24]:	https://www.flickr.com/photos/90204224@N07/23400453255/in/dateposted-public/ "Archipelago Sea trail forest autumn"
+[25]:	https://www.flickr.com/photos/90204224@N07/23104679240/in/dateposted-public/ "Archipelago Sea camp fire place autumn hiking"
+[26]:	https://www.flickr.com/photos/90204224@N07/23291984732/in/dateposted-public/ "Packrafting Archipelago Sea Alpacka Raft Werner Shuna HMG Porter 4400"
+[27]:	https://www.flickr.com/photos/90204224@N07/23374289326/in/dateposted-public/ "Turku Archipelago Sea Islands"
+[28]:	https://www.flickr.com/photos/90204224@N07/22773256803/in/dateposted-public/ "Turku Archipelago Sea Rocks"
+[29]:	https://www.flickr.com/photos/90204224@N07/23032465249/in/dateposted-public/ "Packrafting Archipelago Sea Turku paddling Werner Shuna"
+[30]:	https://www.flickr.com/photos/90204224@N07/23291952932/in/dateposted-public/ "Packrafting Archipelago Sea alpackaraft HMG Porter 4400 beach"
+[31]:	https://www.flickr.com/photos/90204224@N07/23032461319/in/dateposted-public/ "Packrafting Archipelago Sea Turku leafs"
+[32]:	https://www.flickr.com/photos/90204224@N07/22773235853/in/dateposted-public/ "Turku Archipelago Sea House"
+[33]:	https://www.flickr.com/photos/90204224@N07/23104640200/in/dateposted-public/ "Packrafting Archipelago Sea HMG Porter 4400 Alpacka Raft"
+[34]:	https://www.flickr.com/photos/90204224@N07/23032450729/in/dateposted-public/ "Packrafting Archipelago Sea Alpacka Raft Leafs autumn"
 [35]:	http://www.hikeventures.com/destinations/
 [36]:	http://www.hikeventures.com/Windpaddle-sailing-packraft/
 
-[image-1]:	https://c4.staticflickr.com/8/7662/17598040058_62a14e4b20_b.jpg
-[image-2]:	https://c1.staticflickr.com/9/8805/17163342294_c58a3859ac_b.jpg
-[image-3]:	https://c1.staticflickr.com/9/8691/17783116172_7e30ded116_b.jpg
-[image-4]:	https://c2.staticflickr.com/6/5447/17785799665_8895b07bf7_b.jpg
-[image-5]:	https://c4.staticflickr.com/8/7788/17165494363_f730bb484a_b.jpg
-[image-6]:	https://c2.staticflickr.com/6/5450/17785806595_abe32c2e58_b.jpg
-[image-7]:	https://c2.staticflickr.com/6/5349/17599586709_ed6dd5a8e7_b.jpg
-[image-8]:	https://c1.staticflickr.com/9/8704/17783126312_2c0ceab526_b.jpg
-[image-9]:	https://c2.staticflickr.com/6/5340/17598054748_e88bd09618_b.jpg
-[image-10]:	https://c1.staticflickr.com/9/8838/17598313990_831c14b849_b.jpg
-[image-11]:	https://c2.staticflickr.com/6/5340/17598056508_d94f5b6273_b.jpg
-[image-12]:	https://c2.staticflickr.com/6/5456/17598316850_4752ff0749_b.jpg
-[image-13]:	https://c2.staticflickr.com/8/7677/17599591299_d2c521c0ef_b.jpg
-[image-14]:	https://c1.staticflickr.com/1/261/17913972604_32a7d0658b_o.jpg
-[image-15]:	https://c1.staticflickr.com/1/287/17915980773_c2e8515f52_o.jpg
-[image-16]:	https://c1.staticflickr.com/1/452/18348978210_a4b3a20845_o.jpg
-[image-17]:	https://c1.staticflickr.com/9/8871/17913972864_f8936afb2d_o.jpg
-[image-18]:	https://c1.staticflickr.com/1/358/18348978370_29b5a39b2d_o.jpg
-[image-19]:	https://c1.staticflickr.com/1/487/18348978590_f35e6614b4_o.jpg
-[image-20]:	https://c1.staticflickr.com/1/287/18538639551_b53a6cbf70_o.jpg
-[image-21]:	https://farm1.staticflickr.com/760/21333986643_7c4720cb1f_b.jpg
-[image-22]:	https://farm1.staticflickr.com/574/21955120945_f1efafa1d4_b.jpg
-[image-23]:	https://farm6.staticflickr.com/5662/21332397954_ef1c2f6969_b.jpg
-[image-24]:	https://farm6.staticflickr.com/5658/21332403914_e1058e18f7_b.jpg
-[image-25]:	https://farm6.staticflickr.com/5657/21333982213_9d8a489a31_b.jpg
-[image-26]:	https://farm1.staticflickr.com/743/21942969082_c54effb789_b.jpg
-[image-27]:	https://farm1.staticflickr.com/763/21964850981_d22ffa8627_b.jpg
-[image-28]:	https://farm1.staticflickr.com/716/21955066435_ee654a5f07_b.jpg
-[image-29]:	https://farm1.staticflickr.com/565/21333940993_df452652bc_b.jpg
-[image-30]:	https://farm6.staticflickr.com/5617/21928917046_b3d5403193_b.jpg
-[image-31]:	https://farm1.staticflickr.com/573/21942995802_a394f42f02_b.jpg
-[image-32]:	https://farm6.staticflickr.com/5773/21964877561_a0f373d329_b.jpg
-[image-33]:	https://farm6.staticflickr.com/5709/21942991522_90459ed626_b.jpg
-[image-34]:	https://farm6.staticflickr.com/5814/21767019090_8861ee3482_b.jpg
-[image-35]:	https://farm6.staticflickr.com/5771/21768216239_b0eac275d2_b.jpg
-[image-36]:	https://farm1.staticflickr.com/759/21964887681_0dda97bb5a_b.jpg
-[image-37]:	https://farm1.staticflickr.com/628/21964889451_e0e920df1d_b.jpg
-[image-38]:	https://farm1.staticflickr.com/754/23291954442_5610d9bdc4_b.jpg
-[image-39]:	https://farm6.staticflickr.com/5787/23317891031_c5e77e3da1_b.jpg
-[image-40]:	https://farm6.staticflickr.com/5826/23400453255_d0ec6a2c6b_b.jpg
-[image-41]:	https://farm6.staticflickr.com/5798/23104679240_b482e615f6_b.jpg
-[image-42]:	https://farm1.staticflickr.com/732/23291984732_6a3412d5a3_b.jpg
-[image-43]:	https://farm6.staticflickr.com/5794/23374289326_e715d6d71b_b.jpg
-[image-44]:	https://farm6.staticflickr.com/5717/22773256803_c15718eb32_b.jpg
-[image-45]:	https://farm6.staticflickr.com/5824/23032465249_60dce9d6a7_b.jpg
-[image-46]:	https://farm6.staticflickr.com/5629/23291952932_535c3789d9_b.jpg
-[image-47]:	https://farm6.staticflickr.com/5679/23032461319_9ca32a77c5_b.jpg
-[image-48]:	https://farm1.staticflickr.com/768/22773235853_228edcf94a_b.jpg
-[image-49]:	https://farm1.staticflickr.com/649/23104640200_249fd97577_b.jpg
-[image-50]:	https://farm1.staticflickr.com/624/23032450729_6a9aee0b11_b.jpg
+[image-1]:	https://c4.staticflickr.com/8/7662/17598040058_62a14e4b20_b.jpg "Packrafting Turku Archipelago Spring Paddling Astral Designs YTV Palm Hook Gloves"
+[image-2]:	https://c1.staticflickr.com/9/8805/17163342294_c58a3859ac_b.jpg "Packrafting Turku Archipelago Spring Paddling Suunto Ambit3 Palm Hook Gloves"
+[image-3]:	https://c1.staticflickr.com/9/8691/17783116172_7e30ded116_b.jpg "Packrafting Turku Archipelago Spring Paddling alpacka raft lake"
+[image-4]:	https://c2.staticflickr.com/6/5447/17785799665_8895b07bf7_b.jpg "Packrafting Turku Archipelago Spring Paddling alpacka raft"
+[image-5]:	https://c4.staticflickr.com/8/7788/17165494363_f730bb484a_b.jpg "Packrafting Turku Archipelago Spring Paddling alpacka raft"
+[image-6]:	https://c2.staticflickr.com/6/5450/17785806595_abe32c2e58_b.jpg "Packrafting Turku Archipelago Spring Paddling alpacka raft pales"
+[image-7]:	https://c2.staticflickr.com/6/5349/17599586709_ed6dd5a8e7_b.jpg "Packrafting Turku Archipelago Spring Paddling alpacka raft werner shuna"
+[image-8]:	https://c1.staticflickr.com/9/8704/17783126312_2c0ceab526_b.jpg "Packrafting Turku Archipelago Spring Paddling alpacka raft"
+[image-9]:	https://c2.staticflickr.com/6/5340/17598054748_e88bd09618_b.jpg "Packrafting Turku Archipelago Spring Paddling suunto ambit3"
+[image-10]:	https://c1.staticflickr.com/9/8838/17598313990_831c14b849_b.jpg "Packrafting Turku Archipelago Spring Paddling cottages sea"
+[image-11]:	https://c2.staticflickr.com/6/5340/17598056508_d94f5b6273_b.jpg "Packrafting Turku Archipelago Spring Paddling nalgene everyday bottle"
+[image-12]:	https://c2.staticflickr.com/6/5456/17598316850_4752ff0749_b.jpg "Packrafting Turku Archipelago Spring Paddling mussles"
+[image-13]:	https://c2.staticflickr.com/8/7677/17599591299_d2c521c0ef_b.jpg "Packrafting Turku Archipelago Spring Paddling feathers birds"
+[image-14]:	https://c1.staticflickr.com/1/261/17913972604_32a7d0658b_o.jpg "Packrafting Turku Archipelago Spring Paddling alpacka raft windpaddle sail werner shuna"
+[image-15]:	https://c1.staticflickr.com/1/287/17915980773_c2e8515f52_o.jpg "Packrafting Turku Archipelago Spring Paddling alpacka raft"
+[image-16]:	https://c1.staticflickr.com/1/452/18348978210_a4b3a20845_o.jpg "Packrafting Turku Archipelago Spring Paddling pales"
+[image-17]:	https://c1.staticflickr.com/9/8871/17913972864_f8936afb2d_o.jpg "Packrafting Turku Archipelago Spring Paddling buoy"
+[image-18]:	https://c1.staticflickr.com/1/358/18348978370_29b5a39b2d_o.jpg "Packrafting Turku Archipelago Spring Paddling windpaddle sail werner shuna alpacka raft"
+[image-19]:	https://c1.staticflickr.com/1/487/18348978590_f35e6614b4_o.jpg "Packrafting Turku Archipelago Spring Paddling sign"
+[image-20]:	https://c1.staticflickr.com/1/287/18538639551_b53a6cbf70_o.jpg "Packrafting Turku Archipelago Spring Paddling villa"
+[image-21]:	https://farm1.staticflickr.com/760/21333986643_7c4720cb1f_b.jpg "Packrafting Turku Archipelago Autumn Paddling trail signpost hiking"
+[image-22]:	https://farm1.staticflickr.com/574/21955120945_f1efafa1d4_b.jpg "Packrafting Turku Archipelago Autumn Paddling hmg porter4400 trail forest hiking"
+[image-23]:	https://farm6.staticflickr.com/5662/21332397954_ef1c2f6969_b.jpg "Turku Archipelago Autumn Paddling trail forest"
+[image-24]:	https://farm6.staticflickr.com/5658/21332403914_e1058e18f7_b.jpg "Packrafting Turku Archipelago Autumn Paddling camping place fireplace"
+[image-25]:	https://farm6.staticflickr.com/5657/21333982213_9d8a489a31_b.jpg "Packrafting Turku Archipelago Autumn Paddling alpacka raft werner shuna hmg porter 4400"
+[image-26]:	https://farm1.staticflickr.com/743/21942969082_c54effb789_b.jpg "Packrafting Turku Archipelago Autumn Paddling islands"
+[image-27]:	https://farm1.staticflickr.com/763/21964850981_d22ffa8627_b.jpg "Packrafting Turku Archipelago Autumn Paddling rocks coast"
+[image-28]:	https://farm1.staticflickr.com/716/21955066435_ee654a5f07_b.jpg "Packrafting Turku Archipelago Autumn Paddling werner shuna"
+[image-29]:	https://farm1.staticflickr.com/565/21333940993_df452652bc_b.jpg "Packrafting Turku Archipelago Autumn Paddling alpacka raft hmg porter 4400"
+[image-30]:	https://farm6.staticflickr.com/5617/21928917046_b3d5403193_b.jpg "Packrafting Turku Archipelago Autumn Paddling leafs"
+[image-31]:	https://farm1.staticflickr.com/573/21942995802_a394f42f02_b.jpg "Packrafting Turku Archipelago Autumn Paddling house"
+[image-32]:	https://farm6.staticflickr.com/5773/21964877561_a0f373d329_b.jpg "Packrafting Turku Archipelago Autumn Paddling alpacka raft hmg proter 4400"
+[image-33]:	https://farm6.staticflickr.com/5709/21942991522_90459ed626_b.jpg "Packrafting Turku Archipelago Autumn Paddling hmg porter alpacka raft leafs"
+[image-34]:	https://farm6.staticflickr.com/5814/21767019090_8861ee3482_b.jpg "Packrafting Turku Archipelago Autumn Paddling rocks"
+[image-35]:	https://farm6.staticflickr.com/5771/21768216239_b0eac275d2_b.jpg "Turku Archipelago Autumn Paddling sailing boat"
+[image-36]:	https://farm1.staticflickr.com/759/21964887681_0dda97bb5a_b.jpg "Packrafting Turku Archipelago Autumn Paddling hmg proter 4400 alpacka raft"
+[image-37]:	https://farm1.staticflickr.com/628/21964889451_e0e920df1d_b.jpg "Packrafting Turku Archipelago Autumn Paddling house life-buoy life-saver"
+[image-38]:	https://farm1.staticflickr.com/754/23291954442_5610d9bdc4_b.jpg "Packrafting Turku Archipelago Winter Paddling hmg porter 4400 alpacka raft"
+[image-39]:	https://farm6.staticflickr.com/5787/23317891031_c5e77e3da1_b.jpg "Packrafting Turku Archipelago Winter Paddling alpacka raft werner shuna hmg porter 4400"
+[image-40]:	https://farm6.staticflickr.com/5826/23400453255_d0ec6a2c6b_b.jpg "Packrafting Turku Archipelago Winter Paddling house boat"
+[image-41]:	https://farm6.staticflickr.com/5798/23104679240_b482e615f6_b.jpg "Packrafting Turku Archipelago Winter Paddling rain clouds"
+[image-42]:	https://farm1.staticflickr.com/732/23291984732_6a3412d5a3_b.jpg "Packrafting Turku Archipelago Winter Paddling stay"
+[image-43]:	https://farm6.staticflickr.com/5794/23374289326_e715d6d71b_b.jpg "Packrafting Turku Archipelago Winter Paddling island"
+[image-44]:	https://farm6.staticflickr.com/5717/22773256803_c15718eb32_b.jpg "Packrafting Turku Archipelago Winter Paddling alpacka raft werner shuna camp"
+[image-45]:	https://farm6.staticflickr.com/5824/23032465249_60dce9d6a7_b.jpg "Packrafting Turku Archipelago Winter Paddling sunset sea"
+[image-46]:	https://farm6.staticflickr.com/5629/23291952932_535c3789d9_b.jpg "Packrafting Turku Archipelago Winter Paddling Jetboil stove tea campping"
+[image-47]:	https://farm6.staticflickr.com/5679/23032461319_9ca32a77c5_b.jpg "Packrafting Turku Archipelago Winter Paddling sunset"
+[image-48]:	https://farm1.staticflickr.com/768/22773235853_228edcf94a_b.jpg "Packrafting Turku Archipelago Winter Paddling Storm rough sea"
+[image-49]:	https://farm1.staticflickr.com/649/23104640200_249fd97577_b.jpg "Packrafting Turku Archipelago Winter Paddling Werner Shuna"
+[image-50]:	https://farm1.staticflickr.com/624/23032450729_6a9aee0b11_b.jpg "Packrafting Turku Archipelago Winter Paddling"
