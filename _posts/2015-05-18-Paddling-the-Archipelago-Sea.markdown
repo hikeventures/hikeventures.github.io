@@ -133,7 +133,7 @@ Signs of autumn...
 
 ![Packrafting in Turku Archipelago][image-30]
 
-\<img src="https://farm1.staticflickr.com/616/21766995890\_0098a651eb\_b.jpg" width="1024" height="768" alt="Packrafting in Turku Archipelago"\>
+<img src="https://farm1.staticflickr.com/616/21766995890_0098a651eb_b.jpg" width="1024" height="768" alt="Packrafting in Turku Archipelago">
 
 After strolling around on the island I found this hut which is probably used as a Sauna or a fire place.
 
