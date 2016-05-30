@@ -22,7 +22,7 @@ Do you recognise where we were? It is one of the three most iconic views in Japa
 ## Crossing one of a dozen of bridges on the Odai-Ga-Hara trail
 Extremely beautiful, this trail is not for people who are afraid of heights. Closed due to a landslide for almost 10 years, it was reopened in 2014 giving us an opportunity to be done of the 'first' foreign hikers there when we walked it last summer.
     
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26358044050/in/dateposted-public/" title="Hiking in Japan"><img src="https://farm2.staticflickr.com/1663/26358044050_cbee352bd5_b.jpg" width="1024" height="1024" alt="Hiking in Japan"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26358044050/in/dateposted-public/" title="Hiking in Japan"><img src="https://farm2.staticflickr.com/1663/26358044050_cbee352bd5_b.jpg" width="1024" height="1024" alt="Trekking and Packrafting in Japan Northern Alps"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
      
 ## Sunset in Japan Northern Alps
 The setting sun is beautiful (and romantic) anywhere. It can make even a total dumpster look special. However in the mountains, which are great on their own, the real magic happens. Where was your favourite subset ever? Do you remember?
@@ -36,4 +36,4 @@ An important part of packrafting is scouting. Especially if the river has been c
 
 It was like walking above the clouds.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26162504684/in/dateposted-public/" title="Hiking and Packrafting in Japan"><img src="https://farm2.staticflickr.com/1464/26162504684_f479c44d4e_b.jpg" width="1024" height="680" alt="Hiking and Packrafting in Japan"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26162504684/in/dateposted-public/" title="Hiking and Packrafting in Japan"><img src="https://farm2.staticflickr.com/1464/26162504684_f479c44d4e_b.jpg" width="1024" height="680" alt="Trekking and Packrafting in Japan Northern Alps"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
