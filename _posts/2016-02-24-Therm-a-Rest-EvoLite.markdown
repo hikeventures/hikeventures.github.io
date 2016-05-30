@@ -12,7 +12,7 @@ tags: [reviews,therm-a-rest, sleeping pads]
 
 Last year we hiking and packrafting in Japan and Sweden and here is a review about the self-inflating Therm-a-Rest EvoLite sleeping pad which we received from Therm-a-Rest.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24872785289/in/dateposted-public/" title="Therm-a-Rest EvoLite"><img src="https://farm2.staticflickr.com/1619/24872785289_d994a8c482_b.jpg" width="1024" height="680" alt="Therm-a-Rest EvoLite"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24872785289/in/dateposted-public/" title="Therm-a-Rest EvoLite"><img src="https://farm2.staticflickr.com/1619/24872785289_d994a8c482_b.jpg" width="1024" height="680" alt="Therm-a-Rest EvoLite Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <!--more-->
 
@@ -26,13 +26,13 @@ In the picture below you can see what’s included in the EvoLite package. A stu
 ## EvoLite Field Testing
 We have tested the EvoLite in Japan and Sweden. On the picture below you can see the EvoLite on top of our MSR Hubba NX tent in Japan.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25240471705/in/dateposted-public/" title="Therm-a-Rest EvoLite"><img src="https://farm2.staticflickr.com/1529/25240471705_877417690f_b.jpg" width="1024" height="768" alt="Therm-a-Rest EvoLite"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25240471705/in/dateposted-public/" title="Therm-a-Rest EvoLite"><img src="https://farm2.staticflickr.com/1529/25240471705_877417690f_b.jpg" width="1024" height="768" alt="Therm-a-Rest EvoLite Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The best way to set up your camp is to get the EvoLite pat out of the stuff bag and then focus on other things (e.g. preparing a meal or pitching the tent) while the EvoLite inflates and add the missing air via the valve into the sleeping pad after a couple of minutes. 
 
 We have used the EvoLite indoors and outdoors in Japan. The temperatures in Japan are quite high during the summer and a great place where you could use the EvoLite.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25122203772/in/dateposted-public/" title="Therm-a-Rest EvoLite"><img src="https://farm2.staticflickr.com/1618/25122203772_939c337b5e_b.jpg" width="1024" height="768" alt="Therm-a-Rest EvoLite"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25122203772/in/dateposted-public/" title="Therm-a-Rest EvoLite"><img src="https://farm2.staticflickr.com/1618/25122203772_939c337b5e_b.jpg" width="1024" height="768" alt="Therm-a-Rest EvoLite Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Below Marta on the EvoLite in Japan. Seems that she made a satisfied impression on the EvoLite. Next to her the <a rel="nofollow" href="http://www.amazon.com/gp/product/B00TSFYZAE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TSFYZAE&linkCode=as2&tag=hikeve-20&linkId=WRWW2DWHEYZIT5QG">Therm-a-Rest NeoAir XTherm</a>.
 
