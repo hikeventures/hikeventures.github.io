@@ -8,69 +8,69 @@ category: destinations
 tags: [destinations, packrafting, helvetinjärvi, finland]
 ---
 Last weekend we participated in the second packrafting gathering organized by <a href="http://korpijaakko.com">Korpijaakko</a> at Helvetinjärvi National Park. The weather was quite mixed on Friday and we also had heavy rain on the way to the National Park but Saturday was a perfect packrafting day with with clouds and sun. We paddled in different lakes so there was quite a bit of hiking included. The scenery itself was beautiful with leaves changing there colors into autumn mode. Probably, the paddle trip would have been even more colorful in 1-2 weeks but it was still great.<br><br>
-<img src="https://farm1.staticflickr.com/658/21564749576_6dfefdb6c7_b.jpg" width="1000" height="654"><!--more-->
+<img src="https://farm1.staticflickr.com/658/21564749576_6dfefdb6c7_b.jpg" width="1000" height="654" alt"Finnish Packrafting Gathering Meeting - Alpacka Raft"><!--more-->
 
 Once we arrived on Friday at the National Park we pitched our <a href="http://amzn.to/1Jk9N72">MSR Hubba Hubba NX</a> tent and enjoyed a nice evening at the fireplace talking about the upcoming trip, gear and other stuff.
 
-<img src="https://farm1.staticflickr.com/564/21564757086_9d5beff87d_b.jpg" width="1000" height="569" alt="Packrafting in Helvetinjärvi National Park Finland">
+<img src="https://farm1.staticflickr.com/564/21564757086_9d5beff87d_b.jpg" width="1000" height="569" alt="Packrafting in Helvetinjärvi National Park Finland - Planning Map">
 
 Saturday morning we woke up quite late (10 am) and once we crawled out of the tent we saw 2 other packrafters already returning from their morning fishing trip with their packrafts and 2 pikes.
 
-<img src="https://farm1.staticflickr.com/637/21564754636_c8d64ba3e3_b.jpg" width="1000" height="750">
+<img src="https://farm1.staticflickr.com/637/21564754636_c8d64ba3e3_b.jpg" width="1000" height="750" alt="Fishing Finnish National Park">
 
 Patrick went to the well to get some water so we could get it boiling in our <a href="http://amzn.to/1OKnRh7">MSR WindBoiler</a>.
 
-<img src="https://farm1.staticflickr.com/677/20969809503_86f92a201a_b.jpg" width="1000" height="750">
+<img src="https://farm1.staticflickr.com/677/20969809503_86f92a201a_b.jpg" width="1000" height="750" alt="Pumping water Finnish NAtional Park Finland Well">
 
 The breakfast table.
 
-<img src="https://farm1.staticflickr.com/608/20968162204_8f679145e2_b.jpg" width="750" height="1000">
+<img src="https://farm1.staticflickr.com/608/20968162204_8f679145e2_b.jpg" width="750" height="1000" alt="Dinner Camping Finland National Park">
 
 
 Our tent city ...
 
-<img src="https://farm1.staticflickr.com/748/21591003765_afc379017e_b.jpg" width="1000" height="637">
+<img src="https://farm1.staticflickr.com/748/21591003765_afc379017e_b.jpg" width="1000" height="637" alt="Camping Finland National Park - Hilleberg Radj">
 
 After having breakfast we dried our sleeping bags and pads and packed.
 
-<img src="https://farm6.staticflickr.com/5780/21564756326_d66cef81d1_b.jpg" width="1000" height="614">
+<img src="https://farm6.staticflickr.com/5780/21564756326_d66cef81d1_b.jpg" width="1000" height="614" alt="Alpacka Raft - MSR Huba Hubba NX - Cumulus Panyam">
 
 Creature of the forest ...
 
-<img src="https://farm6.staticflickr.com/5662/21599794531_fec2419084_b.jpg" width="1000" height="592">
+<img src="https://farm6.staticflickr.com/5662/21599794531_fec2419084_b.jpg" width="1000" height="592" alt="Spider Finland National Park">
 
 Saturday was also quite windy so we were able to use our <a href="http://amzn.to/1YtQ6F0">Windpaddle sails</a> on some parts of the trip.
 
-<img src="https://farm1.staticflickr.com/676/21402894500_5e53932aaa_b.jpg" width="1000" height="750">
+<img src="https://farm1.staticflickr.com/676/21402894500_5e53932aaa_b.jpg" width="1000" height="750" alt="Windpaddle Sail Finland Alpacka Raft National Park">
 
 Konstantin got special <a href="http://suski.pictures.fi">media attention</a> while windpaddling.
 
-<img src="https://farm6.staticflickr.com/5798/21402901090_4b29c3d642_b.jpg" width="1000" height="750">
+<img src="https://farm6.staticflickr.com/5798/21402901090_4b29c3d642_b.jpg" width="1000" height="750" alt="Windpaddle Sail Alpacka Raft - Suski Pictures">
 
 The mix of sun,clouds and wind made it very pleasant to paddle especially since we were wearing dry suites.
 
-<img src="https://farm6.staticflickr.com/5711/21404016449_761f514f09_b.jpg" width="1000" height="518">
+<img src="https://farm6.staticflickr.com/5711/21404016449_761f514f09_b.jpg" width="1000" height="518" alt="Packrafting Finland National Park Alpacka Raft">
 
 Lake hopping requires to jump in and out of the packraft ...
 
-<img src="https://farm6.staticflickr.com/5629/21564752366_33c87fd173_b.jpg" width="1000" height="475">
+<img src="https://farm6.staticflickr.com/5629/21564752366_33c87fd173_b.jpg" width="1000" height="475" alt="Alpacka Raft Finland">
 
 ... and also to walk through the wilderness with your packraft...
 
-<img src="https://farm1.staticflickr.com/622/20968159014_baa31485a0_b.jpg" width="1000" height="750">
+<img src="https://farm1.staticflickr.com/622/20968159014_baa31485a0_b.jpg" width="1000" height="750" alt="HMG Porter 4400 Alpacka Raft Finland">
 
 ... and having breaks inbetween.
 
-<img src="https://farm6.staticflickr.com/5790/21564747286_c8897f1c56_b.jpg" width="1000" height="526">
+<img src="https://farm6.staticflickr.com/5790/21564747286_c8897f1c56_b.jpg" width="1000" height="526" alt="Alpacka Raft">
 
 But once you reach the next lake you can enjoy the breeze of the wind on your face ...
 
-<img src="https://farm6.staticflickr.com/5812/21590996025_45c714a0d9_b.jpg" width="1000" height="522">
+<img src="https://farm6.staticflickr.com/5812/21590996025_45c714a0d9_b.jpg" width="1000" height="522" alt="Rocks Finland National Park Lake">
 
 
 ... rock formations sticking up the lake ...
 
-<img src="https://farm1.staticflickr.com/775/21403099878_be1b6d820c_b.jpg" width="719" height="1000">
+<img src="https://farm1.staticflickr.com/775/21403099878_be1b6d820c_b.jpg" width="719" height="1000" alt="Plants Finland NAtional Park">
 
 ... and lake plants.
 
