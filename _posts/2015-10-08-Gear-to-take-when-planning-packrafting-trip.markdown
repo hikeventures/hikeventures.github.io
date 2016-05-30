@@ -11,7 +11,7 @@ tags: [articles, packrafting]
 
 In this post I give a summary / gear list on what gear to take when planning a packrafting trip. I will describe the factors affecting which gear to take, essential packrafting gear, packrafting gear for whitewater, gear needed for the camp site and additional gear. Additional items might be added in the future.
 
-<img src="https://farm8.staticflickr.com/7392/9596207069_876c019ced_b.jpg" width="992" height="661" alt="Packrafting Gear in Sweden">
+<img src="https://farm8.staticflickr.com/7392/9596207069_876c019ced_b.jpg" width="992" height="661" alt="Packrafting Gear in Sweden - Alpacka Raft - HMG Porter 4400">
 <!--more-->
 
 ## Factors
@@ -38,7 +38,7 @@ Are trees growing in the area? Is the wood usable (e.g. after long raining seaso
 
 ### Climate / Weather forecast
 
-<img src="https://farm3.staticflickr.com/2902/14037187416_273d7cd323_b.jpg" width="1024" height="683" alt="Essential Packrafting Gear">
+<img src="https://farm3.staticflickr.com/2902/14037187416_273d7cd323_b.jpg" width="1024" height="683" alt="Petzl Meteor Helmet - HMG Porter 4400 - Alpacka Raft - Essential Packrafting Gear">
 
 ---
 
@@ -59,7 +59,7 @@ A <a href="http://amzn.to/1NpYbHz">paddle leash</a> can help to prevent losing y
 ### Windpaddle Sail
 If you expect to have strong wind then a <a href="http://www.hikeventures.com/windpaddle-sails-for-packrafting/">windpaddle sail</a> could be beneficial.
 
-<img src="https://farm6.staticflickr.com/5604/15791886561_17a9a75924_b.jpg" width="1024" height="683" alt="Layering Clothing for Packrafting">
+<img src="https://farm6.staticflickr.com/5604/15791886561_17a9a75924_b.jpg" width="1024" height="683" alt="Layering Clothing for Packrafting - Teva Sandals - Icebreaker Anatomic Brief - Smartwool Socks - Anfibio Packsuit">
 
 ---
 
@@ -86,7 +86,7 @@ On very windy, cold or sunny places it’s good to wear a cap (even under the he
 ### Shorts / swim suite
 In warmer conditions and if you are planning to packraft nearby the shore a swim suite / shorts can be worn instead of waterproof clothing.
 
-<img src="https://farm4.staticflickr.com/3907/14281650547_4ee73fde90_b.jpg" width="1024" height="683" alt="Gear for packrafting in Whitewater">
+<img src="https://farm4.staticflickr.com/3907/14281650547_4ee73fde90_b.jpg" width="1024" height="683" alt="Gear for packrafting in Whitewater - Petzl Meteor Helmet - Werner Shuna - HMG Porter 4400">
 
 ---
 
@@ -107,7 +107,7 @@ A <a href="http://www.packrafting-store.de/Safety/Anfibio-Throwbag::415.html">th
 ### Spray deck /skirt
 A spray deck keep the water out of your boat. You wear it under your life jacket.
 
-<img src="https://farm3.staticflickr.com/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Packrafting Gear for the camp site">
+<img src="https://farm3.staticflickr.com/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Packrafting Gear for the camp site - Hilleberg Anjan - Jetboil stove">
 
 ---
 
@@ -134,7 +134,7 @@ In order to avoid carrying a lot of water it might be a good idea to take a wate
 ### Headlamp
 A <a href="http://www.hikeventures.com/petzl-nao-headlamp-test/">headlamp</a> helps you during the night or in emergency situations.
 
-<img src="https://farm3.staticflickr.com/2949/15432217426_7c63863b6a_b.jpg" width="1024" height="683" alt="Other packrafting gear">
+<img src="https://farm3.staticflickr.com/2949/15432217426_7c63863b6a_b.jpg" width="1024" height="683" alt="Other packrafting gear - HMG Porter 4400 - Petzl Meteor Helmet - Aquapac Camera Pouch">
 
 ---
 
