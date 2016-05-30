@@ -9,7 +9,7 @@ tags: [articles, packrafting]
 ---
 
 Layering your clothing properly is also important when going packrafting. In this blog post I am going to give you an overview over my clothing layering system mainly for spring and autumn.<br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/15791886561" title="Layering Clothing for Packrafting - Icebreaker Anatomic Brief - Anfibio Packsuit"><img src="https://c2.staticflickr.com/6/5604/15791886561_17a9a75924_b.jpg" width="1024" height="683" alt="Layering Clothing for Packrafting"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/15791886561" title="Layering Clothing for Packrafting - Icebreaker Anatomic Brief - Anfibio Packsuit - Smartwool Socks"><img src="https://c2.staticflickr.com/6/5604/15791886561_17a9a75924_b.jpg" width="1024" height="683" alt="Layering Clothing for Packrafting"></a>
 <!--more-->
 
 And here is what you see on the picture above:
@@ -56,6 +56,6 @@ A dry suite is the most expensive item in our Clothing Layering System. The [Anf
 ## Your Layering System?
 Which layering system do you have? Can you recommend or would exchange any of the items described above?
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/14057310391" title="Grensmaas Packrafting-27"><img src="https://farm8.staticflickr.com/7316/14057310391_1452e3b082_b.jpg" width="1024" height="683" alt="Grensmaas Packrafting-27"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/14057310391" title="Grensmaas Packrafting-27"><img src="https://farm8.staticflickr.com/7316/14057310391_1452e3b082_b.jpg" width="1024" height="683" alt="Packrafting Clothes and Gear - Petzl Meteor Helmet - Werner Shuna Paddles - HMG Porter 4400"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Konstantin adjusting his backpack on [our trip](http://hikeventures.com/packrafting-on-the-grensmaas/) in the Netherlands
