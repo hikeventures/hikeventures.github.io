@@ -9,7 +9,7 @@ tags: [articles, tents, best]
 ---
 For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](http://www.hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/ "Hilleberg Anjan") which has served us quite well so far in [Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Packrafting in Sarek"), [the Netherlands](http://www.hikeventures.com/packrafting-in-the-weerribben-wieden-national-park/ "Packrafting in the Netherlands") and [Finland](http://www.hikeventures.com/halloween-adventure-at-lake-suolijarvi/ "Packrafting in Finland"). As I am constantly looking for good gear to enhance our "outdoor experience" I have compiled a list of tents which I would consider to buy if I were to buy a new tent - it contains freestanding and non-freestanding tents as well as normal and ultralight tents.
 
-![Best tent for Packrafting and Backpacking](https://c1.staticflickr.com/3/2855/9599002048_b8561d2abd_b.jpg "Best Solo Tent for packrafting and backpacking")
+![Best tent for Packrafting and Backpacking](https://c1.staticflickr.com/3/2855/9599002048_b8561d2abd_b.jpg "Best Solo 1-person Tent for packrafting and backpacking")
 
 <!--more-->
 
