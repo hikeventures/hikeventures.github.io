@@ -50,12 +50,31 @@ Currently, I am using the [Neoprene dry gloves](http://www.packrafting-store.de/
 ### Latex Socks and Sandals
 The [Latex Socks](http://www.packrafting-store.de/Clothing/Latex-socks::380.html) work quite well for us. They are also sealing nicely if used together with a dry suite. Highly recommended. Use them together with the [Teva Sandals](http://amzn.to/1q3n3KJ).
 
-### Anfibio Packsuite
-A dry suite is the most expensive item in our Clothing Layering System. The [Anfibio Packsuite](http://www.packrafting-store.de/Clothing/Anfibio-Packsuit::378.html) is our dry suite. It's reasonably priced compared to other products and works quite well for us so far. You have to adjust the collar when you buy a new one so it snugs nicely around your throat.
+---
 
-## Your Layering System?
-Which layering system do you have? Can you recommend or would exchange any of the items described above?
+### Anfibio Packsuit
+A dry suite is the most expensive item in our Clothing Layering System. The [Anfibio Packsuit](http://www.packrafting-store.de/Clothing/Anfibio-Packsuit::378.html) is our dry suite. It's reasonably priced compared to other products and works quite well for us so far. You have to adjust the collar when you buy a new one so it snugs nicely around your throat.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/14057310391" title="Grensmaas Packrafting-27"><img src="https://farm8.staticflickr.com/7316/14057310391_1452e3b082_b.jpg" width="1024" height="683" alt="Packrafting Clothes and Gear - Petzl Meteor Helmet - Werner Shuna Paddles - HMG Porter 4400"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Konstantin adjusting his backpack on [our trip](http://hikeventures.com/packrafting-on-the-grensmaas/) in the Netherlands
+
+It's also a good idea to have specific clothes for the summer like the [Icebreaker Cool-Lite Sphere T-Shirt](http://www.sierratradingpost.com/item~p~9674t/) or the [Astral Designs V-Eight PFD](https://www.rei.com/product/881421/astral-v-eight-pfd).
+
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Packrafting Suggestions";
+amzn_assoc_default_search_phrase = "Astral Designs V-Eight";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "9a725873569a009ac5497b65cc30560e";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
