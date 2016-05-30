@@ -9,7 +9,7 @@ tags: [best, snowshoeing, articles]
 ---
 Trekking and snowshoeing poles are especially useful if you have to walk up or down a hill or a mountain or if you have to walk in deep powder snow. You could also use those poles for Nordic Walking in your neighbourhood. In this article you can find the best trekking and snowshoeing poles for 2016 which I would consider to buy. The poles are sorted by their weight and not by their performance.
 
-<a href="https://www.flickr.com/photos/90204224@N07/18240641010" title="Best trekking and snowshoeing poles 2016"><img src="https://c4.staticflickr.com/8/7780/18240641010_a4f51acf96_o.jpg" width="992" height="659" alt="Snowshoeing in Finnish Lapland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/18240641010" title="Best trekking and snowshoeing poles 2016"><img src="https://c4.staticflickr.com/8/7780/18240641010_a4f51acf96_o.jpg" width="992" height="659" alt="The best snowshoeing and trekking poles of 2016 / 2017 - Snowshoeing in Finnish Lapland"></a>
 <!--more-->
 
 Patrick snowshoeing in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Finnish Lapland").
@@ -85,7 +85,7 @@ The Leki Micro series are foldable hiking poles from Leki and are made of Alumin
 
 <a href="http://www.backcountry.com/leki-micro-vario-ti-trekking-poles"><button type="button" class="btn btn-danger">Read more about the Leki Micro Ti</button></a>  
 
-<a href="https://www.flickr.com/photos/90204224@N07/16507495306"><img src="https://farm8.staticflickr.com/7432/16507495306_31a0dc37c5_b.jpg" width="1024" height="680"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16507495306"><img src="https://farm8.staticflickr.com/7432/16507495306_31a0dc37c5_b.jpg" width="1024" height="680" alt="The best snowshoeing and trekking poles of 2017 - Lapland - Finland"></a>
 
 Snow baskets are especially useful in deep powder snow. Konstantin snowshoeing [in Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Finnish Lapland").
 
