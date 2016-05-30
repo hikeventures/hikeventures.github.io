@@ -26,7 +26,7 @@ Another advantage of living in Turku is that the living costs are lower compared
 
 I still have to discover the Teijo National Park and the light towers in this area which will probably happen next summer. There is also the Kurjenrahka National Park nearby Turku which I can recommend.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/90204224@N07/24353067621/in/dateposted-public/" title="Turku, Finland"><img src="https://farm2.staticflickr.com/1520/24353067621_0d9a05e916_b.jpg" width="1024" height="681" alt="Winter Wonderland Turku, Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/90204224@N07/24353067621/in/dateposted-public/" title="Turku, Finland"><img src="https://farm2.staticflickr.com/1520/24353067621_0d9a05e916_b.jpg" width="1024" height="681" alt="Winter Wonderland Turku in Finland - Ship Ice sea"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Beside the Archipelago Sea I can also recommend a visit to the [Urho Kekkonen National Park][4] in Finnish Lapland.
 
