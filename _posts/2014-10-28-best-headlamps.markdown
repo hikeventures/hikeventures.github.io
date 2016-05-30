@@ -11,7 +11,7 @@ A good lightweight led headlamp is an essential part for many outdoor activities
 
 I have recently decided to upgraded my headlamp and compared different models online. Here is my buying guide of the best headlamps for 2016 sorted by Lumen (total amount of visible light). Personally, I like the Petzl Nao most since it has plenty of features and also offers the Petzl Nao Belt Kit which allows me to carry the battery under the jacket rather than on my head which can shorten the beattery life especially in [colder regions](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/). I have also used the previous model of the Nao in [Swedish Lapland](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Swedish Lapland").
 
-<a href="http://www.amazon.com/Petzl-NAO-Headlamp-575-Lumens/" rel="nofollow"><img src="https://farm8.staticflickr.com/7457/15910915424_192439b27f_b.jpg"></a>
+<a href="http://www.amazon.com/Petzl-NAO-Headlamp-575-Lumens/" rel="nofollow"><img src="https://farm8.staticflickr.com/7457/15910915424_192439b27f_b.jpg" alt="Best headlamps of 2016 - Petzl Nao in Finland"></a>
 
 Konstantin wearing a Petzl Nao on the top of a fell in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Trip in Lapland")
 
@@ -143,7 +143,7 @@ The Petzl e+LITE is the emergency headlamp from Petzl. It could also be a good c
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15581097668/in/photolist-pJRcuY-nbZrcA-nbXFbR-n9UVEg-hXNmLH-hXMq24-hXMK7h-hXNm3Z-dXbkpf-dL8yRc-dNuTzR-dNAuXb" title="Petzl Nao 2"><img src="https://c5.staticflickr.com/9/8270/15581097668_e4633233a6_b.jpg" width="1024" height="683" alt="Petzl Nao 2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15581097668/in/photolist-pJRcuY-nbZrcA-nbXFbR-n9UVEg-hXNmLH-hXMq24-hXMK7h-hXNm3Z-dXbkpf-dL8yRc-dNuTzR-dNAuXb" title="Petzl Nao 2"><img src="https://c5.staticflickr.com/9/8270/15581097668_e4633233a6_b.jpg" width="1024" height="683" alt="Best headlamps in 2016 - Petzl Nao"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     
 The [Petzl Nao](http://www.backcountry.com/petzl-nao-headlamp) headlamp is one of my favourite headlamps.
 
