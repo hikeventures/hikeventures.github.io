@@ -73,107 +73,107 @@ Later on we also participated in a guided tour which was organised by the Fell C
  <br>
 Back in the Fell Centre we went to the smoke sauna and had a swim in the river next to it.
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16533532095" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7303/16533532095_91b22373c2_b.jpg" width="1024" height="680" alt="Winter Wonderland Urho Kekkonan Natioanl Park Kiilopää"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16533532095" title="Iceicles at the Kiilopää Fell Center in Finnish Lapland on our Skiing and Snowshoeing trip"><img src="https://farm8.staticflickr.com/7303/16533532095_91b22373c2_b.jpg" width="1024" height="680" alt="Winter Wonderland Urho Kekkonan Natioanl Park Kiilopää"></a>
  <br>
-<a href="https://www.flickr.com/photos/90204224@N07/15910934984" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8561/15910934984_33b602aaff_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/15910934984" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8561/15910934984_33b602aaff_b.jpg" width="1024" height="680" alt="The Smoke Sauna of the Fell Center in Kiilopää Suomen Latu"></a>
  <br>
-<a href="https://www.flickr.com/photos/90204224@N07/16345820088" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8677/16345820088_d8b6cb5254_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16345820088" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8677/16345820088_d8b6cb5254_b.jpg" width="1024" height="680" alt="Stairs down to the Smoke Sauna and outdoor pool at the Fell Center in Kiilopää Lapland"></a>
  <br>
-<a href="https://www.flickr.com/photos/90204224@N07/16346029840" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8587/16346029840_087921db4d_b.jpg" width="929" height="1024" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16346029840" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8587/16346029840_087921db4d_b.jpg" width="929" height="1024" alt="Dinner Buffet at the Fell Center Kiilopää Suomen Latu Winter"></a>
  <br>
 Dinner at the Fell Center Kiilopää.
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16347587377" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7453/16347587377_f8e2cce4e3_b.jpg" width="1024" height="1024" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16347587377" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7453/16347587377_f8e2cce4e3_b.jpg" width="1024" height="1024" alt="Menu at the Fell Center Kiilopää Suomen Latu Winter"></a>
  <br>
 The next day we went to the Saariselkä Ski Resort to do some sledding.
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16345817828" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7428/16345817828_2f7d53df98_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16345817828" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7428/16345817828_2f7d53df98_b.jpg" width="1024" height="680" alt="Saariselkä Ski Resort Sledding bridge skiing winter"></a>
  <br>
 Endless amount of snow mobiles.
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/15910932374" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7294/15910932374_ecb1de5594_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/15910932374" title="Saariselkä Snow Mobiles Winter"><img src="https://farm8.staticflickr.com/7294/15910932374_ecb1de5594_b.jpg" width="1024" height="680" alt="Saariselkä Snow Mobiles Winter - Lapland Finland"></a>
  <br>
 And of course Santa's Office (by Arctic Resort Kakslauttanen).
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/15913321903" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7295/15913321903_f568d56d05_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/15913321903" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7295/15913321903_f568d56d05_b.jpg" width="1024" height="680" alt="Santa's Office in Saariselkä Finnish Lapland - Finland - Arctic Resort Kakslauttanen"></a>
  <br>
 Patrick entering a Tipi which we found on the way up to the Fell. Here we had a short break to warm ourselves up with warm tea.
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/15913827373" title="Finnish Lapland"><img src="https://farm9.staticflickr.com/8571/15913827373_5e547e9a9e_b.jpg" width="1024" height="680" alt="Finnish Lapland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/15913827373" title="Tipi Saariselkä Skiing snowshoeing Thermos bottle - Arcteryx Tecto FL Jacket and Arcteryx Kappa Pants"><img src="https://farm9.staticflickr.com/8571/15913827373_5e547e9a9e_b.jpg" width="1024" height="680" alt="Finnish Lapland"></a>
  <br>
 Konstantin taking pictures from the top of the Fell.
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16507482946" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8617/16507482946_df99121b3b_b.jpg" width="1024" height="768" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16507482946" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8617/16507482946_df99121b3b_b.jpg" width="1024" height="768" alt="Taking pictures during our Snowshoeing trip in Saariselkä Fell photo camera winter"></a>
  <br>
-<a href="https://www.flickr.com/photos/90204224@N07/16533526225" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7305/16533526225_dcc67ed95f_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16533526225" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7305/16533526225_dcc67ed95f_b.jpg" width="1024" height="680" alt="Lapland Landscape fence reindeer Saariselkä Finland"></a>
  <br>
 The view from the summit was just breathtaking.
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16347228589" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7405/16347228589_95a1a67c89_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16347228589" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7405/16347228589_95a1a67c89_b.jpg" width="1024" height="680" alt="Trees Winter Saariselkä Panorama Lapland Finland"></a>
  <br>
 Searching for the right way to walk.
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16531785111" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8615/16531785111_ae734f1226_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16531785111" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8615/16531785111_ae734f1226_b.jpg" width="1024" height="680" alt="Trees Lapland Finland Arcteryx Tecto FL jacket Kappa Pants Suunto Ambit3 Saariselkä winter snowshoeing"></a>
 <br> 
 Checking the altitude with the Suunto Ambit3.
 <br><br> 
-<a href="https://www.flickr.com/photos/90204224@N07/15913318153" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7306/15913318153_e26043e992_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/15913318153" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7306/15913318153_e26043e992_b.jpg" width="1024" height="680" alt="Wearing a Suunto Ambit3 in Saariselkä Snowshoeing winter"></a>
 <br> 
 View towards the Saariselkä ski resort.
 <br><br> 
-<a href="https://www.flickr.com/photos/90204224@N07/16347226899" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7454/16347226899_760507c522_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16347226899" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7454/16347226899_760507c522_b.jpg" width="1024" height="680" alt="View towards Saariselkä Ski resort in winter - Lapland Finland"></a>
  <br>
 Konstantin sitting in a small hut on the way back to the centre of Saariselkä to take the bus back to Kiilopää.
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16347226439" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7326/16347226439_f105d40569_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16347226439" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7326/16347226439_f105d40569_b.jpg" width="1024" height="680" alt="Saariselkä Snowshoeing hut architecture Lapland Finland winter"></a>
  <br>
 Ready for snowshoeing adventures!
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16345805318" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7336/16345805318_4f4aeece6d_o.jpg" width="960" height="960" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16345805318" title="Kiilopää Snowshoeing Winter Lapland Finland Arcteryx Tecto FL Jacket Kappa Pants"><img src="https://farm8.staticflickr.com/7336/16345805318_4f4aeece6d_o.jpg" width="960" height="960" alt="Observing a snowshoeing group on their way down from the Fell Lapland Finland"></a>
  <br>
 A group of tourists doing snowshoeing on the other fell.
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16347596307" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7399/16347596307_6bda2248a6_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16347596307" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7399/16347596307_6bda2248a6_b.jpg" width="1024" height="680" alt="Walking along a reindeer fence in Finnish Lapland Kiilopää Saariselkä Lapland Finland during winter"></a>
  <br>
 Patrick walking next to a reindeer fence.
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16347592097" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8665/16347592097_6e5522914d_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16347592097" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8665/16347592097_6e5522914d_b.jpg" width="1024" height="680" alt="snowshoeing in Urho Kekkonen Nationalpark Winter Panorama Lapland Finland"></a>
  <br>
-<a href="https://www.flickr.com/photos/90204224@N07/15913311563" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7379/15913311563_d6e21d4d1c_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/15913311563" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7379/15913311563_d6e21d4d1c_b.jpg" width="1024" height="680" alt="Observing Reindeers Winter Urho Kekkonen National Park Lapland Finland"></a>
  <br>
 And then we also some some reindeers ...
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16347223629" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7452/16347223629_782c048e1f_b.jpg" width="1024" height="551" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16347223629" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7452/16347223629_782c048e1f_b.jpg" width="1024" height="551" alt="Reindeer Fence Urho Kekkonen National Park Kiilopää Lapland Finland"></a>
  <br>
 Searching for a spot to cross the fence ....
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16532446182" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8584/16532446182_65d7ffc351_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16532446182" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8584/16532446182_65d7ffc351_b.jpg" width="1024" height="680" alt="Waypoing Urho Kekkonen National Park Winter Lapland Finland"></a>
  <br>
-<a href="https://www.flickr.com/photos/90204224@N07/16347222209" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7296/16347222209_b1e6869d8d_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16347222209" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7296/16347222209_b1e6869d8d_b.jpg" width="1024" height="680" alt="Snowshoeing in Urho Kekkonen National Park Kiilopää Lapland Finland"></a>
  <br>
-<a href="https://www.flickr.com/photos/90204224@N07/16507493946" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7413/16507493946_86bbe04b39_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16507493946" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7413/16507493946_86bbe04b39_b.jpg" width="1024" height="680" alt="Entrance Reindeer Fence Kiilopää Urho Kekkonen National Park Lapland Finland"></a>
  <br>
 And then we found a gate to cross the reindeer fence ...
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16345808988" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8588/16345808988_d29f96d613_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16345808988" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8588/16345808988_d29f96d613_b.jpg" width="1024" height="680" alt="Luulampi Päivätupa Snowshoeing winter"></a>
  <br>
 The Luulampi Päivätupa hut where we decided to stay for a while before we returned back.
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16532443742" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7454/16532443742_c14b399366_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16532443742" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7454/16532443742_c14b399366_b.jpg" width="1024" height="680" alt="Snowshoes in Lapland Finland"></a>
 <br> 
 Leaving our snowshoes in front of the hut.
 <br><br> 
-<a href="https://www.flickr.com/photos/90204224@N07/16507483516" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8595/16507483516_80f9804aa6_b.jpg" width="1024" height="1024" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16507483516" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8595/16507483516_80f9804aa6_b.jpg" width="1024" height="1024" alt="Burning Fire Urho Kekkonen National Park"></a>
  <br>
 And lit on a fire to warm ourselves up.
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16531777241" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7457/16531777241_fc6f735e74_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16531777241" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7457/16531777241_fc6f735e74_b.jpg" width="1024" height="680" alt="Urho Kekkonen National Park Kiilopää Tree snow winter landscape Lapland Finland"></a>
  <br>
 Then we continues our way back to the Fell Centre Kiilopää.
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16507494486" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8626/16507494486_dff3aa0e2d_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16507494486" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8626/16507494486_dff3aa0e2d_b.jpg" width="1024" height="680" alt="Tubbs XPlorer and MSR Ascent Lightning in Urho Kekkonen National Park in Lapland Finland"></a>
  <br>
-<a href="https://www.flickr.com/photos/90204224@N07/16532447652" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8593/16532447652_f6a99007a5_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16532447652" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8593/16532447652_f6a99007a5_b.jpg" width="1024" height="680" alt="Having fun with snowshoes in Urho Kekkonen National Park Kiilopää Lapland Finland"></a>
  <br>
 <a href="https://www.flickr.com/photos/90204224@N07/16533522375" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7413/16533522375_72fd4c7022_b.jpg" width="1024" height="680" alt="Lapland Finland"></a> <br>
 In general we had a very great time in Saariselkä and Kiilopää. We can highly recommend the Fell Centre Kiilopää. The price value is really good, your are close to the wilderness, the food was good quality and staff was nice too. We will definitely come back here in the future.
