@@ -9,71 +9,71 @@ category: articles
 tags: [articles, snowshoeing, finland, urho kekkonen]
 ---
 End of January we took a plane from Helsinki to Ivalo with Norwegian to do some snowshoeing and cross-country skiing in Finnish Lapland. Even so it was quite cloudy on our trip we were lucky as most of the tourists visiting Saariselkä are usually visiting Lapland between February and April. So it was not that crowded. Nevertheless, we decided to stay with Suomen Latu in Kiilopää which is located at the entrance of the Urho Kekkonen National Park for three reasons - less tourists, more wilderness and only 20 km away from Saariselkä which we visited with the daily ski bus running between Kiilopää and Saariselkä. <br><br> 
-<a href="https://www.flickr.com/photos/90204224@N07/16347221659" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8673/16347221659_3952a1c6de_b.jpg" width="1024" height="680" alt="Lapland Finland"></a><br><!--more--><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16347590197" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8656/16347590197_77b1385e6c_b.jpg" width="1024" height="721" alt="Lapland Finland"></a> <br>
+<a href="https://www.flickr.com/photos/90204224@N07/16347221659" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8673/16347221659_3952a1c6de_b.jpg" width="1024" height="680" alt="Snowshoeing and Cross-Country Skiing in Finnish Lapland - Finland"></a><br><!--more--><br>
+<a href="https://www.flickr.com/photos/90204224@N07/16347590197" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8656/16347590197_77b1385e6c_b.jpg" width="1024" height="721" alt="With Norwegian Air from Helsinki to Ivalo in Finnish Lapland - Finland"></a> <br>
 In Helsinki we were waiting to get on board of the Norwegian flight to Ivalo.
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16507483236" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7407/16507483236_a91fe9a8b4_b.jpg" width="1024" height="1024" alt="Lapland Finland"></a><br>
+<a href="https://www.flickr.com/photos/90204224@N07/16507483236" title="Arriving at Ivalo Airport in Finnish Lapland - Finland"><img src="https://farm8.staticflickr.com/7407/16507483236_a91fe9a8b4_b.jpg" width="1024" height="1024" alt="View from the Norwegian Air plane over Finnish Lapland Finland"></a><br>
  
 The flight was pretty smooth. We had no turbulences. Here a view over Lapland shortly before landing in Ivalo.
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16347589587" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7312/16347589587_7d279f160d_b.jpg" width="1024" height="238" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16347589587" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7312/16347589587_7d279f160d_b.jpg" width="1024" height="238" alt="Landing in Ivalo Airport - Finnish Lapland - Finland Winter"></a>
  <br>
 At the Ivalo Airport you have to walk from the plane to the terminal in order to pick up your luggage. The airport is quite small but is decorated in a "Lapland style".
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16533517585" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7409/16533517585_c3bea68af4_b.jpg" width="1024" height="676" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16533517585" title="Taking pictures in Ivalo Airport - Lapland Finland Scenery and Landscape"><img src="https://farm8.staticflickr.com/7409/16533517585_c3bea68af4_b.jpg" width="1024" height="676" alt="Lapland Finland"></a>
  <br>
-<a href="https://www.flickr.com/photos/90204224@N07/16346050770" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8649/16346050770_9bdcced575_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16346050770" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8649/16346050770_9bdcced575_b.jpg" width="1024" height="680" alt="Lapland Airports Finland - Finavia"></a>
  <br>
-<a href="https://www.flickr.com/photos/90204224@N07/16507488136" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7386/16507488136_c3d6ddeda1_b.jpg" width="1024" height="768" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16507488136" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7386/16507488136_c3d6ddeda1_b.jpg" width="1024" height="768" alt="With the bus from Ivalo Airport to Kiilopää Suomen Latu hostel - Lapland Finland"></a>
  <br>
 With the Eskelinen bus we went from Ivalo Airport to Kiilopää. We paid for the bus ticket 13 EUR.
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16508007196" title="Finnish Lapland"><img src="https://farm9.staticflickr.com/8627/16508007196_18b9381238_b.jpg" width="1024" height="680" alt="Finnish Lapland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16508007196" title="Finnish Lapland"><img src="https://farm9.staticflickr.com/8627/16508007196_18b9381238_b.jpg" width="1024" height="680" alt="Skiing and Snowshoeing Suomen Latu Kiilopää Hostel - Finnish Lapland"></a>
  <br>
 Once we arrived the Fell Center Kiilopää we got our room key from the reception, carried our luggage to the room and changed our clothes in order to get ready for our first adventure. Night Snowshoeing!
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16346030040" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8593/16346030040_ea65c56eba_b.jpg" width="1024" height="1024" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16346030040" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8593/16346030040_ea65c56eba_b.jpg" width="1024" height="1024" alt="Entrance to the Urhonen Kekkonen National Park at Kiilopää Suomen Latu UKK Finland winter"></a>
  <br>
 The entrance of the Urho Kekkonen National Park where we started our night snowshoeing tour.
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16347236669" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7283/16347236669_fd593f696e_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16347236669" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7283/16347236669_fd593f696e_b.jpg" width="1024" height="680" alt="Moon and stars over the Urho Kekkonen National Park at Kiilopää"></a>
  <br>
 The moon was sufficient to brighten up the area for snowshoeing.
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16346050110" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8641/16346050110_49d7416bb5_b.jpg" width="680" height="1024" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16346050110" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8641/16346050110_49d7416bb5_b.jpg" width="680" height="1024" alt="Trees covered in Snow - winter Urho Kekkonen National Park - Lapland Finland"></a>
  <br>
 Like frozen creatures on our way up to the Fell.
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/15910915424"><img src="https://c4.staticflickr.com/8/7457/15910915424_9e1aef9840_o.jpg" width="992" height="659"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/15910915424"><img src="https://c4.staticflickr.com/8/7457/15910915424_9e1aef9840_o.jpg" width="992" height="659" alt="Snowshoeing with a headlamp in Urho Kekkonen National Park - Kiilopää"></a>
  <br>
 The peak of the Fell.
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16347214459" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7313/16347214459_091a199e4b_b.jpg" width="1024" height="225" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16347214459" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7313/16347214459_091a199e4b_b.jpg" width="1024" height="225" alt="View from a Fell during winter in the Urho Kekkonen National Park - Kiilopää Snowshoeing - Lapland Finland"></a>
  <br>
 The next day we woke up early and went cross-country skiing. We borrowed the whole equipment from the Fell Centre and they also properly waxed the skis beforehand.
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16347587207" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8634/16347587207_b89ae2f64c_b.jpg" width="1024" height="233" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16347587207" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8634/16347587207_b89ae2f64c_b.jpg" width="1024" height="233" alt="View from a Fell during winter in the Urho Kekkonen National Park - Kiilopää Snowshoeing - Lapland Finland"></a>
  <br>
 The weather turned however bad and we had to ski in a snow storm.
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16532458772" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7423/16532458772_3bd1dce6de_b.jpg" width="1024" height="536" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16532458772" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7423/16532458772_3bd1dce6de_b.jpg" width="1024" height="536" alt="Snow Storm in Urho Kekkonen National Park - Kiilopää - Cross-Country Skiing - Winter Lapland Finland"></a>
  <br>
-<a href="https://www.flickr.com/photos/90204224@N07/16507495306" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7432/16507495306_31a0dc37c5_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16507495306" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7432/16507495306_31a0dc37c5_b.jpg" width="1024" height="680" alt="View from a Fell during winter in the Urho Kekkonen National Park - Kiilopää Snowshoeing - Lapland Finland"></a>
  <br>
-<a href="https://www.flickr.com/photos/90204224@N07/16533533655" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7414/16533533655_48a3a27dd7_b.jpg" width="1024" height="644" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16533533655" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7414/16533533655_48a3a27dd7_b.jpg" width="1024" height="644" alt="Cross-Country Skiing in Urho Kekkonen Natioanl Park Winter Lapland Kiilopää"></a>
  <br>
 Trying to capture some images and videos with the GoPro camera.
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/15913326233" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7331/15913326233_8fd5e78591_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/15913326233" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7331/15913326233_8fd5e78591_b.jpg" width="1024" height="680" alt="Winter Gear for Snowshoeing and Skiing - Wearing a GoPro camera and an Arcteryx Tecto FL jacket in Urho Kekkonen National Park - Lapland Finland - Suunto Ambit3"></a>
  <br>
 Later on we also participated in a guided tour which was organised by the Fell Centre. The guide was French and lived in Finland for over 16 years.
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16345822578" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7316/16345822578_4216bc3ef0_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16345822578" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7316/16345822578_4216bc3ef0_b.jpg" width="1024" height="680" alt="Winter Wonderland Finnish Lapland Finland"></a>
  <br>
 Back in the Fell Centre we went to the smoke sauna and had a swim in the river next to it.
  <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16533532095" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7303/16533532095_91b22373c2_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16533532095" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7303/16533532095_91b22373c2_b.jpg" width="1024" height="680" alt="Winter Wonderland Urho Kekkonan Natioanl Park Kiilopää"></a>
  <br>
 <a href="https://www.flickr.com/photos/90204224@N07/15910934984" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8561/15910934984_33b602aaff_b.jpg" width="1024" height="680" alt="Lapland Finland"></a>
  <br>
