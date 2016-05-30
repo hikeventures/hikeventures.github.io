@@ -18,7 +18,7 @@ The receipes presented in this book range from breakfast meals, breads, drinks, 
 
 At the end of the book is also a list of suggested reading from the author.
 
-If you don't have a dehydrator at home then you can get a basic dehydrator at Amazon <a href="http://amzn.to/14ZAS3q" rel="nofollow">US</a>.
+If you don't have a dehydrator at home then you can get a basic dehydrator at <a href="http://amzn.to/14ZAS3q" rel="nofollow">Amazon</a>.
 
 ---
 
