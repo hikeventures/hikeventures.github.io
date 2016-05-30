@@ -42,7 +42,22 @@ The GoPro Hero 4 looks more like a camera which fits better on the front of your
 
 <a href="http://www.amazon.com/gp/product/B00NIYNUF2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NIYNUF2&linkCode=as2&tag=hikeve-20&linkId=6QOKQTO4LSBPAVZT"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00NIYNUF2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00NIYNUF2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;">
 
-Which action camera do you prefer for your outdoor adventures? Leave a comment below!
+If you need a smaller camera then the GoPro Hero Session is probably the best pick. Hopefully, we will see the GoPro Hero5 and the GoPro Drone Karma this year as well. There are rumors that the new GoPro Hero5 will have better connectivity features.
 
-## Where to buy the GoPro Hero 4
-  <script type="text/javascript" src="http://www.avantlink.com/api.php?module=ProductSearch&affiliate_id=125311&website_id=150351&merchant_ids&search_results_sort_order=Retail+Price|asc&output=js&search_results_count=5&search_results_layout=list&search_results_fields=|Merchant+Name|Product+Name|Retail+Price&search_term=GoPro Hero 4"></script><br>
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "GoPro Suggestions";
+amzn_assoc_default_search_phrase = "gopro hero ";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "9a725873569a009ac5497b65cc30560e";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
