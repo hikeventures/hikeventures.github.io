@@ -20,13 +20,30 @@ It's quite easy to read how much water is left in the Nalgene bottle due to the 
 
 The large opening of the bottle makes it quite easy to use a water purifier like the Kathadyn Mini Filter. You can also easily add ice cubes into the Nalgene water bottle.
 
-<a href="https://www.flickr.com/photos/90204224@N07/17897231902"><img src="https://c2.staticflickr.com/6/5464/17897231902_da7ee91b30_b.jpg" width="1024" height="768"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/17897231902"><img src="https://c2.staticflickr.com/6/5464/17897231902_da7ee91b30_b.jpg" width="1024" height="768" alt="Best water bottle for outdoors - Nalgene"></a>
 
 Initially, I was reluctant to buy this water bottle as I thought it's just an average plastic bottle which you can get much cheaper. But if I think of the advantages (e.g. that it's BPA free) and that I will use it quite often then I think it's worth the investment and would recommend the Nalgene everyday bottle for hiking and backpacking trips. Alternatively, if you want to have a filter integrated into the bottle then you could also have a look into this [solution][1].
 
 <a href="https://www.flickr.com/photos/90204224@N07/17783118222" title="Nalgene Everyday water bottle"><img src="https://c2.staticflickr.com/6/5344/17783118222_65d04aeb17_b.jpg" width="1024" height="768" alt="Nalgene Everyday water bottle"></a>
 
-## Where to buy the Nalgene bottle
-<a href="http://www.hikeventures.com/deals/" onclick="location.href=this.href+'?key=Nalgene bottle’;return false;"><button class="btn btn-danger">Compare prices</button></a>
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Julbo-Swell-Polarized-Sunglasses_10232525_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Julbo Swell</button></a>
+
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Nalgene Suggestions";
+amzn_assoc_default_search_phrase = "Nalgene";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "9a725873569a009ac5497b65cc30560e";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 [1]:	http://amzn.to/1BcH4yr
