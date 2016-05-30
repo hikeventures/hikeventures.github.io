@@ -8,12 +8,12 @@ category: articles
 tags: [articles, fitness]
 ---
 For every sport or activity where you move more than usual it's good to have regular exercise to keep your muscles trained. Having a good fitness will help you to backpack and packraft longer or more relaxed. 
-<a href="https://www.flickr.com/photos/90204224@N07/17648754398" title="Running"><img src="https://c2.staticflickr.com/6/5349/17648754398_462b77909d_b.jpg" width="1024" height="665" alt="Running"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/17648754398" title="Running"><img src="https://c2.staticflickr.com/6/5349/17648754398_462b77909d_b.jpg" width="1024" height="665" alt="Running Arcteryx Squamish Hoodie Asics T41RQ"></a>
 <!--more--><br>
 In order to keep myself in shape I run approximately 3-4 times a week and each run having a distance of approximately 9-15 km. That's about 1100 km every year. If you are not into running and would like to start with it then it's important to get proper running shoes to avoid injuries. 
  
 To find the right running shoes, you should first find out what type of running shoe you need. Your local sports shop might be able to meassure if you have a neutral, pronator or supinator foot type. In my case I have a neutral foot type. Moreover, if you run as often as I do (since 20 years) you should also invest every year into new running shoes. Idealy, you should have 2 pairs of shoes which you exchange regularly. 
-<a href="https://www.flickr.com/photos/90204224@N07/17836566475" title="Running Shoes"><img src="https://c1.staticflickr.com/9/8872/17836566475_cce991ebf7_b.jpg" width="1024" height="768" alt="Running Shoes"></a> 
+<a href="https://www.flickr.com/photos/90204224@N07/17836566475" title="Running Shoes"><img src="https://c1.staticflickr.com/9/8872/17836566475_cce991ebf7_b.jpg" width="1024" height="768" alt="Running Shoes Asics T41RQ"></a> 
 I found running quite relaxing. Usually, I don't run with full speed. Sometimes I do intervals, where I run 10-20 seconds with full speed. But in general I take it quite easy and enjoy the nature on the island where I am living while running. 
 <a href="https://www.flickr.com/photos/90204224@N07/17214047704"><img src="https://c2.staticflickr.com/6/5331/17214047704_bef3cc2bf7_b.jpg" width="1024" height="768"></a> 
 <a href="https://www.flickr.com/photos/90204224@N07/17649022330"><img src="https://c2.staticflickr.com/6/5469/17649022330_f2196c0b37_b.jpg" width="1024" height="768"></a>
