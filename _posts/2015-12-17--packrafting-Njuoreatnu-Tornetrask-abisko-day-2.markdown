@@ -10,7 +10,7 @@ tags: [destinations, njuoreatnu, torneträsk, abisko, sweden]
 ---
 We fell asleep almost instantly the night before in our tent which we pitched on an island in the lake Inngajávri after having [packrafted][1] till late in the night. Patrick only had a few issues with his sleeping pad - the Therm-a-Rest Evolite which is a self-inflating sleeping pad for the summer - which was probably not that suitable for lower night temperatures here in the North. Patrick had to wear an additional Merino base layer and added another layer of thermo foil on top of his sleeping pad to get a proper insulation. Konstantin however had a proper night sleep on his Therm-a-Rest NeoAir Xtherm. 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/23038401724/in/dateposted-public/" title="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"><img src="https://farm1.staticflickr.com/668/23038401724_c44ed21b04_b.jpg" width="1024" height="768" alt="MSR Hubba Hubba NX Sweden Abisko"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><!--more-->
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/23038401724/in/dateposted-public/" title="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"><img src="https://farm1.staticflickr.com/668/23038401724_c44ed21b04_b.jpg" width="1024" height="768" alt="MSR Hubba Hubba NX Sweden Abisko - Therm-a-Rest XTherm - Exped Air Pillow"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><!--more-->
 
 And that's how the tent wall looks like when you go camping in Scandinavia - hungry mosquitoes waiting for their breakfast.
 
