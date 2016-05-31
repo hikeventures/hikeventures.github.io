@@ -27,6 +27,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 * Extreme 8000 Pro Jacket
 * Ramche 2
 
+---
+
 ## Brunton
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2NewGBQQB6U?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
@@ -45,6 +47,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27332926966/in/dateposted-public/" title="ISPO 2016 - Brunton Hot Seat"><img src="https://c7.staticflickr.com/8/7220/27332926966_e4c645b53f_b.jpg" width="1024" height="768" alt="ISPO 2016 - Brunton Hot Seat"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+---
+
 ## Fjällräven
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9QtBYzT8iio?rel=0"></iframe>
@@ -60,6 +64,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27332927266/in/dateposted-public/" title="ISPO 2016 - Fjällräven Booth"><img src="https://c3.staticflickr.com/8/7085/27332927266_1563239668_b.jpg" width="1024" height="768" alt="ISPO 2016 - Fjällräven ISPO Award Winner - Booth"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27332927096/in/dateposted-public/" title="ISPO 2016 - Fjällräven Lappland Eco-Shell Poncho"><img src="https://c1.staticflickr.com/8/7207/27332927096_f3d9da0038_b.jpg" width="750" height="1000" alt="ISPO 2016 - Fjällräven Lappland Eco-Shell Poncho"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+---
 
 ## Goal Zero
 <div class="embed-responsive embed-responsive-16by9">
@@ -77,6 +83,7 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26758978804/in/dateposted-public/" title="ISPO 2016 - Goal Zero Nomad Solar Panel"><img src="https://c5.staticflickr.com/8/7210/26758978804_d43a7468b9_b.jpg" width="750" height="1000" alt="ISPO 2016 - Goal Zero Nomad Solar Panel"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+---
 
 ## Gregory
 <div class="embed-responsive embed-responsive-16by9">
@@ -88,6 +95,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 * Salvo / Sula (green backpack)
 * Targhee (yellow backpack)
 
+---
+
 ## Haglöfs
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2LtIxEurfOg?rel=0"></iframe>
@@ -96,6 +105,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 ### Product Highlights
 * Essens Mimic Jacket
 * Spitz Jacket
+
+---
 
 ## Hanwag
 <div class="embed-responsive embed-responsive-16by9">
@@ -106,6 +117,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 * Alaska Winter
 * Belorado GTX (Winter)
 * Tolja
+
+---
 
 ## Hestra
 <div class="embed-responsive embed-responsive-16by9">
@@ -119,6 +132,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26758979214/in/dateposted-public/" title="ISPO 2016 - Hestra Ergo Grip Glove"><img src="https://c7.staticflickr.com/8/7250/26758979214_1dc8a0ac9a_b.jpg" width="750" height="1000" alt="ISPO 2016 - Hestra Ergo Grip Active Glove"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+---
+
 ## Houdini
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Wa7DCO-aj3I?rel=0"></iframe>
@@ -127,6 +142,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 ### Product Highlights
 * Power Houdini
 * Wooler Houdi
+
+---
 
 ## Icebreaker
 <div class="embed-responsive embed-responsive-16by9">
@@ -138,6 +155,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 * Comet
 * Helix Jacket
 
+---
+
 ## Julbo
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vdb3m52FdvM?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
@@ -147,6 +166,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 * Aero
 * Trek
 * Wave
+
+---
 
 ## Klättermusen
 <div class="embed-responsive embed-responsive-16by9">
@@ -158,6 +179,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 * Brage
 * Skoll
 
+---
+
 ## LifeStraw
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/f58qpBLo_U4?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
@@ -167,6 +190,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 * LifeStraw Personal
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27295807551/in/dateposted-public/" title="ISPO 2016 - Sawyer Water Filtration"><img src="https://c8.staticflickr.com/8/7332/27295807551_85b0ce58e2_b.jpg" width="1024" height="768" alt="ISPO 2016 - LifeStraw"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+---
 
 ## Lundhags
 <div class="embed-responsive embed-responsive-16by9">
@@ -178,6 +203,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26758979644/in/dateposted-public/" title="ISPO 2016 - Lundhags Skare Boots"><img src="https://c5.staticflickr.com/8/7317/26758979644_3fc721dc1a_b.jpg" width="1024" height="768" alt="ISPO 2016 - Lundhags Skare Boot"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+---
+
 ## Marmot
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vN-sU8SPfuc?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
@@ -188,6 +215,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 * Women's Cheeky Pant
 * Marmot NanoPro
 
+---
+
 ## Malachowski
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/obPjD97BJcs?rel=0"></iframe>
@@ -197,6 +226,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 * Ultralight II 500
 * Ultralight II 300
 * Climber II Down Jacket
+
+---
 
 ## Montane
 <div class="embed-responsive embed-responsive-16by9">
@@ -212,6 +243,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27332925796/in/dateposted-public/" title="ISPO 2016 - Montane Hi-Q Luxe Jacket"><img src="https://c5.staticflickr.com/8/7457/27332925796_0088c18ccc_b.jpg" width="750" height="1000" alt="ISPO 2016 - Montane Hi-Q Luxe Jacket"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+---
+
 ## NRS
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/PeXBQkWJIzQ?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
@@ -222,6 +255,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 * Co-Pilot Knife
 * Ninja
 * Crux Dry Suite
+
+---
 
 ## Oru Kayaks
 <div class="embed-responsive embed-responsive-16by9">
@@ -242,6 +277,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27295809011/in/dateposted-public/" title="ISPO 2016 - Oru Coast Kayake &amp; Oru Bay"><img src="https://c4.staticflickr.com/8/7486/27295809011_c90875b446_b.jpg" width="1024" height="768" alt="ISPO 2016 - Oru Coast Kayake &amp; Oru Bay"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+---
+
 ## OverBoard
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FgLNtfCIxy4?rel=0"></iframe>
@@ -249,6 +286,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 
 ### Product Highlights
 * Pro-Light Waterproof Backpack
+
+---
 
 ## Palm
 <div class="embed-responsive embed-responsive-16by9">
@@ -261,6 +300,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26758979104/in/dateposted-public/" title="ISPO 2016 - Palm Glide PFD"><img src="https://c1.staticflickr.com/8/7222/26758979104_ff67689c4a_b.jpg" width="1024" height="768" alt="ISPO 2016 - Palm Glide PFD"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+---
+
 ## Panino
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/mOH1WAZqgc4?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
@@ -268,6 +309,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 
 ### Product Highlights
 * Panino Camera
+
+---
 
 ## Pajak
 <div class="embed-responsive embed-responsive-16by9">
@@ -279,6 +322,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 * Phantom Jacket
 * Phantom Parka
 
+---
+
 ## Petzl
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UZziPhCDN48?rel=0"></iframe>
@@ -287,6 +332,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 ### Product Highlights
 * Petzl Reactik+
 * Petzl Nao+ Bluetooth
+
+---
 
 ## Rab
 <div class="embed-responsive embed-responsive-16by9">
@@ -298,6 +345,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 * Rab Nebula Jacket
 * Rab Merino+ Hoody
 
+---
+
 ## Subtech Sports
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4K4PRElMS5E?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
@@ -305,6 +354,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 
 ### Product Highlights
 * Pro Drybag 45L
+
+---
 
 ## The North Face
 <div class="embed-responsive embed-responsive-16by9">
@@ -315,6 +366,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 * Thermoball Jacket
 * FuseForm Jacket
 * Ultra Fastpack Mid Gore-Tex
+
+---
 
 ## Thule
 <div class="embed-responsive embed-responsive-16by9">
@@ -334,6 +387,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27332925606/in/dateposted-public/" title="ISPO 2016 - Thule Chariot CX 1"><img src="https://c7.staticflickr.com/8/7433/27332925606_b18db135d2_b.jpg" width="1024" height="768" alt="ISPO 2016 - Thule Chariot CX 1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+---
+
 ## TomTom
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/tJvQmqgZGc0?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM"></iframe>
@@ -342,6 +397,8 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 ### Product Highlights:
 * Bandit Action Camera
 * Runner 2
+
+---
 
 ## Yeti
 <div class="embed-responsive embed-responsive-16by9">
@@ -354,16 +411,24 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27295807021/in/dateposted-public/" title="ISPO 2016 - Yeti Down"><img src="https://c6.staticflickr.com/8/7221/27295807021_284c704a82_b.jpg" width="750" height="1000" alt="ISPO 2016 - Yeti Down"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+---
+
 ## Tent Village
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27332927486/in/dateposted-public/" title="ISPO 2016 - Tents"><img src="https://c7.staticflickr.com/8/7396/27332927486_55561b873d_b.jpg" width="1024" height="768" alt="ISPO 2016 - Tents"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+---
 
 ## Chinese Pavillion
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27332924486/in/dateposted-public/" title="ISPO 2016 - China Pavillion"><img src="https://c7.staticflickr.com/8/7388/27332924486_07f1e85bcc_b.jpg" width="1024" height="768" alt="ISPO 2016 - China Pavillion"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+---
+
 ## Tough Mudder
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27295806991/in/dateposted-public/" title="ISPO 2016 - Tough Mudder"><img src="https://c8.staticflickr.com/8/7193/27295806991_802c2c4098_b.jpg" width="1024" height="768" alt="ISPO 2016 - Tough Mudder"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+---
 
 ## Conclusion
 This year was very exciting for us as we did our first video series with several outdoor brands. Some brands did not offer any new products while others were quite innovative. We also liked that there was a dedicated section for bloggers where we could recharge our devices and have a cup of coffee. We also enjoyed the Thule Party. In 2017 we will probably visit the ISPO again and also have a look at the OutdoorExpo in Fridrichshafen which comes quite handy as it's just 30 km from Patrick's parents house.
