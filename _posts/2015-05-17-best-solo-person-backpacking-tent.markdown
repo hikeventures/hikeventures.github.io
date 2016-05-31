@@ -51,7 +51,7 @@ The Hilleberg Enan is a 1-person and 3-season tent.
 **Weight:** 1100 grams   
 **Fabric:**  Kerlon 600   
 
-The Hilleberg Enan is the ultralight model of the Akto. If you don't require much space and use your tent only during the warmer months (3-season) then the Hilleberg Enan might be a good option. This type of tent is good for fast pack and go. If you are more into base camping, are very tall or want to have more space e.g. during a longer period of rain then the Hilleberg Anjan 2 or the Hilleberg Unna would be a better choice. The Enan has a mesh on one end which should provide great ventilation if pitched in wind direction.
+The Hilleberg Enan is the ultralight model of the Akto. If you don't require much space and use your tent only during the warmer months (3-season) then the Hilleberg Enan might be a good option. This type of tent is good for fast pack and go. If you are more into base camping, are very tall or want to have more space e.g. during a longer period of rain then the Hilleberg Nallo would be a better choice. The Enan has a mesh on one end which should provide great ventilation if pitched in wind direction.
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Enan-1-Person-Tent_10274355_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Hilleberg Enan</button></a>  
 
@@ -109,46 +109,6 @@ The MSR Hubba NX is also a great 3-season tent and costs much less than the Hill
 
 ---
 
-### [Hilleberg Anjan 2](http://www.bentgate.com/hilleberg-anjan-2-tent/)
-
-<a href="http://www.amazon.com/gp/product/B00IU0XEW8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IU0XEW8&linkCode=as2&tag=hikeve-20&linkId=CJ3OYX574GJJ5DNZ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00IU0XEW8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00IU0XEW8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-The Hilleberg Anjan 2 is a 1-person and 3-season tent.
-
-**Length:** 220 cm   
-**Width:** 130 cm   
-**Height:** 100 cm   
-**Inner Space:** 2.8 m²    
-**Vestibule:** 2.4 m²    
-**Weight:** 1800 grams   
-**Fabric:**  Kerlon 1000    
-
-The Hilleberg Anjan was our summer tent (even so I have the 3 person model) before we replaced it with the MSR Hubba Hubba NX (see above) because we enjoyed the seperate entrances and vestibules which the Hubba Hubba NX offers. The Hubba Hubba NX also has an inner tent which offers you the possibility to look outside. For the  Hilleberg Anjan you have to buy a seperate inner mesh. The Hilleberg Anjan is 700 grams more heavy than the Enan but you get lot's of space and may even use it as a 2-person tent. Your sleeping bag is less likely to become wet (except at the foot end from my own experience but you can cover the foot part of your sleeping bag with your waterproof jacket. If you have to sit in the tent for a longer period then having more space is much more beneficial in terms of comfort. If you need a 4-season tent tunnel tent then the Nallo 2 is probably your tent.
-
-<a href="http://www.bentgate.com/hilleberg-anjan-2-tent/"><button type="button" class="btn btn-danger">Read more about the Hilleberg Anjan</button></a>  
-
----
-
-### [Hilleberg Unna](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Unna-1-Person-Tent_10101489_10208_10000001_-1_)
-
-<a href="http://www.amazon.com/gp/product/B00IU0UMSC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IU0UMSC&linkCode=as2&tag=hikeve-20&linkId=IH74WSYOYDCATOTX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00IU0UMSC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00IU0UMSC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-The Hilleberg Unna is a 1-person and 4-season tent.
-
-**Length:** 230 cm   
-**Width:** 110 cm   
-**Height:** 100 cm   
-**Inner Space:** 2.5 m²     
-**Vestibule:** 0 m²    
-**Weight:** 2200 grams   
-**Fabric:**  Kerlon 1200   
-
-The Hilleberg Unna is completely freestanding. The advantage of the Unna is the big entrance which can be used as a panorama window and that you can create a vestibule by detaching one corner of the inner tent while still having enough space to sleep in it. The Hilleberg Unna can also be used as a 2-person tent but you may not have a lot of space. The Hilleberg Unna is a 4-season tent. Make sure that you get the Mesh inner tent for the Hilleberg Unna to get a much better ventilation during the summer months. 
-
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Unna-1-Person-Tent_10101489_10208_10000001_-1"><button type="button" class="btn btn-danger">Read more about the Hilleberg Unna</button></a>  
-
----
-
 ### [Hilleberg Soulo](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Soulo-1-Person-Tent_10101479_10208_10000001_-1_)
 
 <a href="http://www.amazon.com/gp/product/B004LAP3G6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004LAP3G6&linkCode=as2&tag=hikeve-20&linkId=4R5WXJMR7LNA2MKY"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004LAP3G6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B004LAP3G6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -163,7 +123,7 @@ The Hilleberg Akto is a 1-person and 4-season tent.
 **Weight:** 2400 grams   
 **Fabric:**  Kerlon 1200  
 
-The Hilleberg Soulo is a solo expedition tent which can be used under very harsh condition. It's stronger than the Unna and has a designated vestibule, however the inner tent offers less space than the Unna. This tent could (like the Unna) be useful for sea kayaking or mountaineering as it is completely freestanding. It's a bit heavier and shorter than the Unna. If you don't need a self-standing 4-season tent then I would choose the MSR Hubba NX or the MSR Hubba Hubba NX (2-person tent) if you need more space. If you don't plan to do winter camping then the Hilleberg Soulo is probably going to be too much tent for your needs.
+The Hilleberg Soulo is a solo expedition tent which can be used under very harsh condition. It's stronger than the Hilleberg Unna and has a designated vestibule, however the inner tent offers less space than the Unna. This tent could (like the Unna) be useful for sea kayaking or mountaineering as it is completely freestanding. It's a bit heavier and shorter than the Unna. If you don't need a self-standing 4-season tent then I would choose the MSR Hubba NX or the MSR Hubba Hubba NX (2-person tent) if you need more space. If you don't plan to do winter camping then the Hilleberg Soulo is probably going to be too much tent for your needs.
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Soulo-1-Person-Tent_10101479_10208_10000001_-1"><button type="button" class="btn btn-danger">Read more about the Hilleberg Soulo</button></a>  
 
@@ -222,10 +182,10 @@ If you are looking for a fast and light tent which also protects you from bugs t
 Every tent is made for it's own purpose.
 
 ### Best self-standing 1-person tent for exposed & harsh environments
-The Hilleberg Soulo seems to be the toughest tent for stormy weather and winter camping but comes with additional weight. If you are taller than 175 cm then I would recommend you to get the Hilleberg Unna instead.
+The Hilleberg Soulo seems to be the toughest tent for stormy weather and winter camping but comes with additional weight. 
 
 ### Best 1-Berson tent with priority on space and vestibule
-If you are looking for a sturdy tent with lots of space and a vestibule then you should get the Hilleberg Anjan 2, Hilleberg Niak or the MSR Hubba NX as a 3-season tent or the Hilleberg Nallo 2 as a 4-season tent (these tents are not self-standing). 
+If you are looking for a sturdy tent with lots of space and a vestibule then you should get the Hilleberg Nallo, Hilleberg Niak or the MSR Hubba NX as a 3-season tent or the Hilleberg Nallo 2 as a 4-season tent (these tents are not self-standing). 
 
 ### Best 1-person ultralight tent
 If low weight is your most important factor then you should consider the Hyperlite Mountain Gear Ulta Mid tent, the Hilleberg Enan (or the Hilleberg Niak 1.5 if you need more space), the MSR Hubba NX or the Big Agnes Fly Creek HV UL1 Tent. The prices on the MSR and the Big Agnes are considerably lower than on the Hilleberg tents.
