@@ -188,7 +188,7 @@ The Hilleberg Soulo seems to be the toughest tent for stormy weather and winter 
 If you are looking for a sturdy tent with lots of space and a vestibule then you should get the Hilleberg Nallo, Hilleberg Niak or the MSR Hubba NX as a 3-season tent or the Hilleberg Nallo 2 as a 4-season tent (these tents are not self-standing). 
 
 ### Best 1-person ultralight tent
-If low weight is your most important factor then you should consider the Hyperlite Mountain Gear Ulta Mid tent, the Hilleberg Enan (or the Hilleberg Niak 1.5 if you need more space), the MSR Hubba NX or the Big Agnes Fly Creek HV UL1 Tent. The prices on the MSR and the Big Agnes are considerably lower than on the Hilleberg tents.
+If low weight is your most important factor then you should consider the Hyperlite Mountain Gear Ulta Mid tent, the Hilleberg Enan (or the Hilleberg Niak 1.5 if you need more space), the MSR Hubba NX or the Big Agnes Fly Creek HV UL1 tent. The prices on the MSR and the Big Agnes are considerably lower than on the Hilleberg tents.
 
 MSR also offers the new MSR FreeLite 1 (1000 grams) and the MSR Carbon Reflex 1 (790 grams) but they are less durable than the MSR Hubba NX (1290 grams). We found that the floor fabric on the MSR Hubba NX was already quite delicate and the MSR Freelite 1 and MSR Carbon Reflex 1 have a slightly lower weight because they are having a thinner material on the floor and the rainfly than the MSR Hubba NX. Also keep in mind that the shiny white color of the Hyperlite Mountain Gear UltaMid will turn into greyish over the time.
 
@@ -197,15 +197,13 @@ MSR also offers the new MSR FreeLite 1 (1000 grams) and the MSR Carbon Reflex 1 
 On our packrafting trip in Scotland we had a MSR Hubba Hubba NX with us which is also a great 3-season tent, offers space for 2 and costs less than the Hilleberg tents.
 
 ## Final word
-My personal preference goes towards the Hilleberg Soulo or the Hilleberg Nallo as my favourite solo 4-season backpacking tent. The Hilleberg Soulo is self-standing and can also be pitched on difficult terrain. 
+My personal preference goes towards the Hilleberg Soulo or the Hilleberg Nallo as my favourite solo 4-season backpacking tent. The Hilleberg Soulo is self-standing and can also be pitched on difficult terrain. Many use those tents also as a 3-season tent. If you get an inner mesh tent from Hilleberg then you can even get a better air ventilation in your tent. 
 
-If I were to choose an ultralight 3-season tent then I would probably go for the Hilleberg Niak (expensive option) or if I were on a budget then the MSR Hubba NX and the Big Agnes Fly Creek HV UL1 Tent.
+If I were to choose an ultralight 3-season tent then I would probably go for the Hilleberg Niak or the Hilleberg Enan (smaller than the Hilleberg Niak) or if I were on a budget then the MSR Hubba NX and the Big Agnes Fly Creek HV UL1 Tent.
 
 The Hilleberg Soulo is certainly more durable than the ultralight 3-season tents but if you treat them carefully then they should also last for a while and you don't have to carry too much weight.
 
-Finally, if you are into sea kayaking a self-standing durable tent - like the Hilleberg Soulo - which can handle strong winds is probably a better option than an ultralight tent as you don't have to carry the tent anyway.
-
-There is also the Hilleberg Inner Mesh available for the Hilleberg tents which I would buy additionally to modify the Hilleberg tents to a summer tent with better air ventilation.
+Finally, if you are into sea kayaking a self-standing durable tent - like the Hilleberg Soulo or the Hilleberg Nallo - which can handle strong winds is probably a better option than an ultralight tent as you don't have to carry the tent anyway when you are paddling.
 
 Here is also an [article](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/ "Packrafting in Sweden") about our packrafting trip in the Swedish mountains where we were camping in our MSR Hubba Hubba NX. After one year of usage we have a slight hole on the floor but otherwise we have no complaints about it as a 3-season tent.
 
@@ -220,9 +218,9 @@ amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_title = "Tent Suggestions";
-amzn_assoc_default_search_phrase = "big agnes 1 person tent";
+amzn_assoc_title = "Best Solo Tent Recommendations";
+amzn_assoc_default_search_phrase = "hilleberg enan";
 amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "75423f47404034fca6a94a7131a07a63";
+amzn_assoc_linkid = "0fc96b12130070d577082516582bc019";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
