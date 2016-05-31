@@ -418,7 +418,7 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 
 ---
 
-## Chinese Pavillion
+## China Pavilion
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27332924486/in/dateposted-public/" title="ISPO 2016 - China Pavillion"><img src="https://c7.staticflickr.com/8/7388/27332924486_07f1e85bcc_b.jpg" width="1024" height="768" alt="ISPO 2016 - China Pavillion"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
