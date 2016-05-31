@@ -47,35 +47,6 @@ The Enan as a solo tent looks like an interesting tent for the summer months. Ho
 
 ---
 
-### [Hilleberg Allak](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Allak-2-Person-Tent_10101420_10208_10000001_-1_)
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B003X2JUM6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003X2JUM6&linkCode=as2&tag=hikeve-20&linkId=MPFYT4UWH4JSFZEJ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003X2JUM6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B003X2JUM6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Persons:** 1   
-**Fabric:** Kerlon 1200   
-**Weight:** 3.3 kg   
-**Area inner tent:** 2.8 m²   
-
-The Hilleberg Allak has the advantage that it has 2 entrances and it which makes it quite easy to get in and out of the tent if you are travelling with someone else and weight is not that important to you. Another advantage of having two entrances is that you are more flexible with the air venting options. The disadvantage we see with this tent compared to the Hilleberg Jannu is that it weights slightly more and that it is also slightly more narrow than the Jannu (130 cm rather than 145 cm). The Allak is 5 cm taller than the Hilleberg Jannu and offers a better possibility to sit in it.
-
- <a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Allak-2-Person-Tent_10101420_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Hilleberg Allak</button></a> 
-
----
-
-### [Hilleberg Unna](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Unna-1-Person-Tent_10101489_10208_10000001_-1_)
-
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00IU0UMSC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IU0UMSC&linkCode=as2&tag=hikeve-20&linkId=EAFEBCVMMSNCWMCD"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00IU0UMSC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00IU0UMSC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-The Hilleberg Unna is a freestanding one person tent and offers 0.5 m2 more room than the Hilleberg Soulo. However, it does not have a dedicated vestibule but you can create a vestibule in the Unna by disconnecting a corner in the inner tent or take your gear inside (while leaving your backpack outside or storing it between the inner and outer tent). The large entrance can be used as an excellent "panorama window". The Hilleberg Unna is a bit heavy compared to the Hilleberg Niak and I would recommend the Hilleberg Unna over the Hilleberg Niak only if you need a freestanding tent or a tent for winter camping. If you want to use the Hilleberg Unna as a summer tent then you should consider getting a Hilleberg Inner Mesh for better air ventilation.
-
-**Persons:** 1   
-**Fabric:** Kerlon 1200    
-**Weight:** 2.2 kg   
-**Area inner tent:** 2.5 m² 
- 
- <a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Unna-1-Person-Tent_10101489_10208_10000001_-1"><button type="button" class="btn btn-danger">Read more about the Hilleberg Unna</button></a>  
- 
---- 
- 
 ### [Hilleberg Soulo](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Soulo-1-Person-Tent_10101479_10208_10000001_-1_)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B004LAP3G6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004LAP3G6&linkCode=as2&tag=hikeve-20&linkId=7TXJU4WYWUN5PLN3"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004LAP3G6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B004LAP3G6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -140,20 +111,6 @@ The Akto is a solo tent with low weight and quite popular among solo travellers.
 
 ---
 
-### [Hilleberg Anjan 2](http://www.bentgate.com/hilleberg-anjan-3-tent/)
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00JBUC8V4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JBUC8V4&linkCode=as2&tag=hikeve-20&linkId=LOTRXVRJVO6XQYX4"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00JBUC8V4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00JBUC8V4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Persons:** 1-2   
-**Fabric:** Kerlon 1000   
-**Weight:** 1.9 kg   
-**Area inner tent:** 3.4 m²   
-
-If you are traveling with your friend then the Hilleberg Anjan 3 is our top choice during the warmer months. We would definitely choose the 3 person version of this tent since the 2-person model is a bit narrow for 2 people even so it's possible to sleep in it. However, the Hilleberg Anjan 2 is also an excellent choice as a 1-person tent if you need more space.
-
-<a href="http://www.bentgate.com/hilleberg-anjan-3-tent/"><button type="button" class="btn btn-danger">Read more about the Hilleberg Anjan</button></a>  
-
----
-
 ### [Hilleberg Nallo](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Nallo-3-Person-Tent_10101458_10208_10000001_-1_)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00LMR6HSO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LMR6HSO&linkCode=as2&tag=hikeve-20&linkId=4YIQPTOP7VXOY4EM"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LMR6HSO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LMR6HSO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -209,7 +166,7 @@ I consider a tent footprint as unnecessary weight if you go hiking but it might 
 Tents usually come with tent stakes. If you want to save a little bit of weight then you could also purchase separate carbon stakes and poles like the [MSR Carbon Core Stake Kit](http://amzn.to/1Q32GJG "MSR Carbon Core") which weights only 6 grams.
 
 ### Tunnel tent or dome tent?
-Another consideration might be if you need a freestanding dome tent or a tunnel tent. A tunnel tent might be lighter but a freestanding tent can be pitched on more difficult ground like a rock or on a sand beach. There are also self-supporting tents which are more or less freestanding but still need 2 or more stakes. Currently, I am having a tunnel tent - the Hilleberg Anjan 3 - and I am quite happy with it.
+Another consideration might be if you need a freestanding dome tent or a tunnel tent. A tunnel tent might be lighter but a freestanding tent can be pitched on more difficult ground like a rock or on a sand beach. There are also self-supporting tents which are more or less freestanding but still need 2 or more stakes. Currently, I am having a tunnel tent - the Hilleberg Anjan 3 - and I am quite happy with it but I am thinking to exchange it with a Nallo 3 and a mesh inner Tent.
 
 ### Tent as a Tarp?
 Do you want to leave your inner tent at home to save some weight and use the outer tent as a tarp?
@@ -229,17 +186,12 @@ Do you need a vestibule to store gear or cook when it's raining?
 ### Size & Weight
 Do you want to have a tent which packs small so it fits into your backpack when going hiking (an ultralight tent) or can the tent be bigger and heavier since you are transporting it with a kayak or packraft?
 
-### Additional Features
-I like the pockets on the wall of our Hilleberg Anjan tent which are just located at the right and left side of the entrance. I usually store small items in it such as a pocket knife, my watch or a headlamp. Also a clothes line which goes through the tent can be useful to dry clothes as you can see in the picture below. Reflectors may also help you to spot your tent during the night.
-
-  
-
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25215098683/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1472/25215098683_07c6ffbfb8_b.jpg" width="1024" height="768" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
    
 The MSR Hubba Hubba NX on our packrafting trip in Scotland in February 2016.
   
 ## Conclusion
-It's quite hard to say which tent is the best. It all depends on your needs and where you are planning to use the tent. Currently, we are using the MSR Hubba Hubba NX and the Anjan 3 (see also [here](http://www.hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/ "Hilleberg Anjan Tent")) which are great tents for spring, summer and autumn. The only disadvantage with the Anjan 3 is that it is not freestanding but we didn't have any issues so far on any of our trips to find a place to pitch it.
+It's quite hard to say which tent is the best. It all depends on your needs and where you are planning to use the tent. Currently, we are using the MSR Hubba Hubba NX and the Anjan 3 (see also [here](http://www.hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/ "Hilleberg Anjan Tent")) which are great tents for spring, summer and autumn. The only disadvantage with the Anjan 3 is that it is not freestanding but we didn't have any issues so far on any of our trips to find a place to pitch it. However, I would recommend getting the Nallo 3 instead of the Anjan.
 
 ### Best 4-season tent for 1 person
 If I were to choose a new tent then I would probably choose the [Hilleberg Soulo](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Soulo-1-Person-Tent_10101479_10208_10000001_-1_) as a 1-person and 4-season tent since I would prefer to have a freestanding tent for packrafting and kayaking. However, if you are 180 cm or taller then the Hilleberg Soulo might be too short for you. Alternatively, the Hilleberg Nallo 2 would be a good choice if you are taller or want more space.
