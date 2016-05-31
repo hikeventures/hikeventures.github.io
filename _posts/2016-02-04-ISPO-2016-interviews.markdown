@@ -369,3 +369,5 @@ This year we have been to the ISPO in Munich to create a series of videos where 
 This year was very exciting for us as we did our first video series with several outdoor brands. Some brands did not offer any new products while others were quite innovative. We also liked that there was a dedicated section for bloggers where we could recharge our devices and have a cup of coffee. We also enjoyed the Thule Party. In 2017 we will probably visit the ISPO again and also have a look at the OutdoorExpo in Fridrichshafen which comes quite handy as it's just 30 km from Patrick's parents house.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27332927726/in/dateposted-public/" title="ISPO 2016 - Checking Schedule"><img src="https://c7.staticflickr.com/8/7001/27332927726_783d728188_b.jpg" width="1024" height="768" alt="ISPO 2016 - Checking Schedule"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Patrick checking the schedule in the Blogger Corner.
