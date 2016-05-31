@@ -197,13 +197,13 @@ MSR also offers the new MSR FreeLite 1 (1000 grams) and the MSR Carbon Reflex 1 
 On our packrafting trip in Scotland we had a MSR Hubba Hubba NX with us which is also a great 3-season tent, offers space for 2 and costs less than the Hilleberg tents.
 
 ## Final word
-My personal preference goes towards the Hilleberg Soulo or the Hilleberg Nallo as my favourite solo 4-season backpacking tent. The Hilleberg Soulo is self-standing and can also be pitched on difficult terrain. Many use those tents also as a 3-season tent. If you get an inner mesh tent from Hilleberg then you can even get a better air ventilation in your tent. 
+My personal preference goes towards the Hilleberg Soulo or the Hilleberg Nallo 2 as my favourite solo 4-season backpacking tent. The Hilleberg Soulo is self-standing and can also be pitched on difficult terrain. Many use those tents also as a 3-season tent. If you get an inner mesh tent from Hilleberg then you can even get a better air ventilation in your tent. The Nallo offers more space than the Soulo and would be my first choice (even so the tent is called Nallo 2, it's better suited as a solo tent than a 2-person tent).
 
 If I were to choose an ultralight 3-season tent then I would probably go for the Hilleberg Niak or the Hilleberg Enan (smaller than the Hilleberg Niak) or if I were on a budget then the MSR Hubba NX and the Big Agnes Fly Creek HV UL1 Tent.
 
 The Hilleberg Soulo is certainly more durable than the ultralight 3-season tents but if you treat them carefully then they should also last for a while and you don't have to carry too much weight.
 
-Finally, if you are into sea kayaking a self-standing durable tent - like the Hilleberg Soulo or the Hilleberg Nallo - which can handle strong winds is probably a better option than an ultralight tent as you don't have to carry the tent anyway when you are paddling.
+Finally, if you are into sea kayaking a self-standing durable tent - like the Hilleberg Soulo or the Hilleberg Nallo 2 - which can handle strong winds is probably a better option than an ultralight tent as you don't have to carry the tent anyway when you are paddling.
 
 Here is also an [article](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/ "Packrafting in Sweden") about our packrafting trip in the Swedish mountains where we were camping in our MSR Hubba Hubba NX. After one year of usage we have a slight hole on the floor but otherwise we have no complaints about it as a 3-season tent.
 
@@ -219,7 +219,7 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Best Solo Tent Recommendations";
-amzn_assoc_default_search_phrase = "hilleberg enan";
+amzn_assoc_default_search_phrase = "hilleberg nallo 2";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "0fc96b12130070d577082516582bc019";
 </script>
