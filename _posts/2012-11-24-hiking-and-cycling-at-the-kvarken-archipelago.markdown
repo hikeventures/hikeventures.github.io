@@ -21,6 +21,8 @@ Unfortunately, there is no good bus connection from Vaasa to Bj&#246;rk&#246;by,
 <a href="http://www.flickr.com/photos/90204224@N07/8197787874/"><img src="http://farm9.staticflickr.com/8344/8197787874_dba280322a_c.jpg" width="534" alt="UNESCO Kvarken Archipelago"></a>
 <div class="block">
 It took me about 2 hours from Vaasa to Björköby by bicycle. I passed the longest bridge in Finland, small villages and cycled next to the sea. There are also plenty of hiking possibilities e.g. the nature trail Bodvattnet runt which passes Bodback - an old harbour - but some require to a <a href="http://www.kvarkenworldheritage.fi/experience-kvarken/boat-transport/" target="_blank">arrange a boat</a> beforehand. There are also boat museum and an annual sailing race event called <a href="http://sv.wikipedia.org/wiki/Postrodden" target="_blank">Postrodden</a>.
-<a href="http://www.flickr.com/photos/90204224@N07/8196683667/"><img src="http://farm9.staticflickr.com/8346/8196683667_b737c8a6f2_c.jpg" width="1000" alt="Kvarken Archipelago - Visiting Saltkaret observation tower"></a><!-- more -->Once I arrived there I climbed up the Saltkaret observation tower and enjoyed the scenic view.
+<a href="http://www.flickr.com/photos/90204224@N07/8196683667/"><img src="http://farm9.staticflickr.com/8346/8196683667_b737c8a6f2_c.jpg" width="1000" alt="Kvarken Archipelago - Visiting Saltkaret observation tower"></a>
+
+Once I arrived there I climbed up the Saltkaret observation tower and enjoyed the scenic view.
 
 The local community should maybe think of better transportation possibilities and arrangements for hikers which I found personally very poor for a World Heritage site. However, I can recommend the <a href="http://www.pohjanmaanmuseo.fi/?page=TERRANOVA&setlang=l3" target="_blank">Terranova museum</a> in Vaasa which describes quite well the Kvarken Archipelago.
