@@ -138,7 +138,7 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Camping Stoves Suggestions";
-amzn_assoc_default_search_phrase = "MSR Windburner";
+amzn_assoc_default_search_phrase = "Jetboil";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
 </script>
