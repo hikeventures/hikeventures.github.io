@@ -20,9 +20,9 @@ The Steripen Freedom weights only 75 grams and rechargeable via USB (e.g. with a
 
 <a href="https://www.flickr.com/photos/90204224@N07/8571447235"><img src="https://farm9.staticflickr.com/8365/8571447235_ae827d05ae_b.jpg" width="1024" height="866" alt="Steripen Freedom usage water filter treatment unboxing parts"></a>
 
-<a href="https://www.flickr.com/photos/90204224@N07/8572540826"><img src="https://farm9.staticflickr.com/8531/8572540826_73150347e9_b.jpg" width="1024" height="749" alt="Steripen Freedom hiking water filter treatment"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/8572540826"><img src="https://farm9.staticflickr.com/8531/8572540826_73150347e9_b.jpg" width="1024" height="749" alt="Steripen Freedom hiking water filter treatment unboxing parts"></a>
 
-<a href="https://www.flickr.com/photos/90204224@N07/8571447087"><img src="https://farm9.staticflickr.com/8093/8571447087_c83f27284e_b.jpg" width="1024" height="316" alt="Steripen Freedom backpacking water filter treatment"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/8571447087"><img src="https://farm9.staticflickr.com/8093/8571447087_c83f27284e_b.jpg" width="1024" height="316" alt="Steripen Freedom backpacking water filter treatment charging USB"></a>
 
 ---
 
