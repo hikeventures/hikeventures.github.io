@@ -7,7 +7,7 @@ description: 10 reasons why I like Packrafting
 category: articles
 tags: [articles, packrafting]
 ---
-<a href="http://www.flickr.com/photos/90204224@N07/8729735329/" ><img src="http://farm8.staticflickr.com/7425/8729735329_78a6f1a644_c.jpg" width="1150" alt="Packrafting in Finland"></a>
+<a href="http://www.flickr.com/photos/90204224@N07/8729735329/" ><img src="http://farm8.staticflickr.com/7425/8729735329_78a6f1a644_c.jpg" width="1150" alt="Reasons to go Packrafting"></a>
 <ul>
 <li>I can take my Packraft everywhere since it is very light</li>
 <li>It inflates/deflates within a couple of minutes</li>
