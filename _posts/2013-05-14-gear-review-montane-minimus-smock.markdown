@@ -10,7 +10,7 @@ tags: [reviews, montane minimus, jackets]
 
 For my hiking and packrafting adventures in summer and autumn, I was looking for a rain shell which is super light and still breathes quite well. After comparing some smocks and jackets I decided to give the Montane Minimus Smock a try. This is probably one of the lightest rain jacket which you can buy for your hiking or backpacking trips and here comes a short review.
    
-<a href="https://www.flickr.com/photos/90204224@N07/8738822666" title="Montane Minimus Smock"><img src="https://farm8.staticflickr.com/7288/8738822666_4067f044d0_b.jpg" width="600" alt="Montane Minimus Smock"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/8738822666" title="Montane Minimus Smock unboxing"><img src="https://farm8.staticflickr.com/7288/8738822666_4067f044d0_b.jpg" width="600" alt="Montane Minimus Smock"></a>
 <!--more-->
 
 ---
@@ -20,11 +20,11 @@ The Montane Minimus Smock weights 143 grams and is almost inivisible in your bac
 
 From my experience, a rain jacket stays most of the time in the backpack and I don't see any point to carry a 500 grams jacket with me which I never use most of the time. Alternatively, there is also the <a href="http://hikeventures.com/arcteryx-tecto-fl-jacket/" target="_self">Arcteryx Tecto FL jacket</a> which weights a bit more, is a bit more durable since it is made of Gore-Tex active shell and has a full-zip so you can easily pull the jacket on and off which I found a bit difficult with the Montane Minimus Smock.
 
-<a href="https://www.flickr.com/photos/90204224@N07/8737704339"><img src="https://farm8.staticflickr.com/7283/8737704339_876ba713a1_b.jpg" width="958" height="1024" alt="Montane Minimus Smock"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/8737704339"><img src="https://farm8.staticflickr.com/7283/8737704339_876ba713a1_b.jpg" width="958" height="1024" alt="Montane Minimus Smock field test"></a>
 
 That's how the Montane Minimus Smock is packed
 
-<a href="https://www.flickr.com/photos/90204224@N07/8737697963"><img src="https://farm8.staticflickr.com/7282/8737697963_ee03cff4e7_b.jpg" width="1024" height="683" alt="Montane Minimus Smock"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/8737697963"><img src="https://farm8.staticflickr.com/7282/8737697963_ee03cff4e7_b.jpg" width="1024" height="683" alt="Montane Minimus Smock review"></a>
 
 YKK Aqua Guard Zip to keep you dry.
 
