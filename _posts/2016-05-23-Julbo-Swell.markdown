@@ -103,7 +103,7 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Julbo Sunglasses Suggestions";
-amzn_assoc_default_search_phrase = "Julbo Octopus";
+amzn_assoc_default_search_phrase = "Julbo";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "0b60dd3a4d9005ae2f2639b410692f9a";
 </script>
