@@ -11,19 +11,19 @@ tags: [articles,packrafting]
 
 As I recently bought a new Alpacka packraft, learning how to Packraft is now essential for me. Since I am living in Finland - a country with 100.000 lakes - packrafting could enhance the possibilities to see the landscape from a different point of view than on a normal hiking trip. As I am planning to take my Yukon Yak Packraft to <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">Sarek National Park in Sweden</a> this year, I still need to exercise a little bit in order to be ready for this trip.
 
-<a href="https://www.flickr.com/photos/90204224@N07/8714403482"><img src="https://farm9.staticflickr.com/8277/8714403482_520cf243ab_b.jpg" width="1024" height="683" alt="Packrafting Finland"></a><!--more-->
+<a href="https://www.flickr.com/photos/90204224@N07/8714403482"><img src="https://farm9.staticflickr.com/8277/8714403482_520cf243ab_b.jpg" width="1024" height="683" alt="Learn how to Packraft - Learning Packrafting in Finland"></a><!--more-->
 
-<a href="https://www.flickr.com/photos/90204224@N07/8714403426"><img src="https://farm9.staticflickr.com/8552/8714403426_98e19fe539_b.jpg" width="1024" height="441" alt="Packrafting Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/8714403426"><img src="https://farm9.staticflickr.com/8552/8714403426_98e19fe539_b.jpg" width="1024" height="441" alt="Learn how to Packraft - Learning Packrafting in Finland"></a>
 
-<a href="https://www.flickr.com/photos/90204224@N07/8713281179"><img src="https://farm9.staticflickr.com/8272/8713281179_b398dfd180_b.jpg" width="1009" height="559" alt="Packrafting Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/8713281179"><img src="https://farm9.staticflickr.com/8272/8713281179_b398dfd180_b.jpg" width="1009" height="559" alt="Learn how to Packraft - Learning Packrafting in Finland"></a>
 
 The water at this point of the year is still freezing cold. Wearing a pair of socks (e.g. waterproof Sealskinz) and sitting on some sort of isolated pad (e.g. the one which comes with the packraft) is a must. 
 
-<a href="https://www.flickr.com/photos/90204224@N07/8714404044" title="Packrafting Finland"><img src="https://farm9.staticflickr.com/8123/8714404044_a11c07874f_b.jpg" width="1024" height="641" alt="Packrafting Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/8714404044" title="Packrafting Finland"><img src="https://farm9.staticflickr.com/8123/8714404044_a11c07874f_b.jpg" width="1024" height="641" alt="Learn how to Packraft - Learning Packrafting in Finland"></a>
 
 View from the cockpit. In the front there is enough space for a backpack. Still need to get a dry bag though...
 
-<a href="https://www.flickr.com/photos/90204224@N07/8713281883"><img src="https://farm9.staticflickr.com/8130/8713281883_dcc0a57ac0_b.jpg" width="1024" height="568" alt="Packrafting Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/8713281883"><img src="https://farm9.staticflickr.com/8130/8713281883_dcc0a57ac0_b.jpg" width="1024" height="568" alt="Learn how to Packraft - Learning Packrafting in Finland"></a>
 
 ## Packraft and Backpacks
 I also do like Packrafting because you can easily pack your Packraft into a backpack. It folds small and is not heavy. 
