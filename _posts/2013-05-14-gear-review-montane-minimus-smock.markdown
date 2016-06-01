@@ -24,19 +24,19 @@ From my experience, a rain jacket stays most of the time in the backpack and I d
 
 That's how the Montane Minimus Smock is packed
 
-<a href="https://www.flickr.com/photos/90204224@N07/8737697963"><img src="https://farm8.staticflickr.com/7282/8737697963_ee03cff4e7_b.jpg" width="1024" height="683" alt="Montane Minimus Smock review"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/8737697963"><img src="https://farm8.staticflickr.com/7282/8737697963_ee03cff4e7_b.jpg" width="1024" height="683" alt="Montane Minimus Smock review hiking"></a>
 
 YKK Aqua Guard Zip to keep you dry.
 
-<a href="https://www.flickr.com/photos/90204224@N07/8738816154"><img src="https://farm8.staticflickr.com/7288/8738816154_8af54f41a5_b.jpg" width="1024" height="683" alt="Montane Minimus Smock"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/8738816154"><img src="https://farm8.staticflickr.com/7288/8738816154_8af54f41a5_b.jpg" width="1024" height="683" alt="Montane Minimus Smock backpacking"></a>
 
 Pertex Shield+ and reflectors which are quite useful for night hikes.
 
-<a href="https://www.flickr.com/photos/90204224@N07/8737696937"><img src="https://farm8.staticflickr.com/7287/8737696937_f5aab01ef4_b.jpg" width="1024" height="683" alt="Montane Minimus Smock"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/8737696937"><img src="https://farm8.staticflickr.com/7287/8737696937_f5aab01ef4_b.jpg" width="1024" height="683" alt="Montane Minimus Smock trail running"></a>
 
 Stuff Sack to pack the Minimus Smock.
 
-<a href="https://www.flickr.com/photos/90204224@N07/8737693517"><img src="https://farm8.staticflickr.com/7287/8737693517_ce54af6288_b.jpg" width="1024" height="683" alt="Montane Minimus Smock"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/8737693517"><img src="https://farm8.staticflickr.com/7287/8737693517_ce54af6288_b.jpg" width="1024" height="683" alt="Montane Minimus Smock ultralight rain jacket"></a>
 
 Jacket inside out with the mesh front bag.
 
