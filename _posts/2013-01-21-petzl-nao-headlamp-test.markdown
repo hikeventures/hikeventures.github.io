@@ -34,11 +34,12 @@ Level 3 - High<br><br>
 
 The know to switch between the different light levels.<br>
 
-<img src="http://farm8.staticflickr.com/7442/11133158173_0c177e50af_c.jpg" width="1150"  alt="Petzl Nao"><br>
+<img src="http://farm8.staticflickr.com/7442/11133158173_0c177e50af_c.jpg" width="1150"  alt="Petzl Nao USB Socket"><br>
 The cable to the battery socket can also be extended with the <a href="http://amzn.to/1T3jCwV">Petzl extension cable</a> which is especially useful during winter trips as the battery life will be shortener when exposed to the cold. With the extension cable you can carry the battery e.g. on your belt nearby the body to keep it warm rather than on your head.<br><br>
 
-<img src="http://farm6.staticflickr.com/5496/11133040624_82874aca51_c.jpg" width="1150" alt="Petzl Nao"><br>
-You can charge the Nao directly on your computer and anything else which has an USB socket like the <a href="http://hikeventures.com/how-to-charge-your-batteries-when-you-are-outdoors/" target="_self">Anker Astro 3 battery.</a><br><br>
+<img src="http://farm6.staticflickr.com/5496/11133040624_82874aca51_c.jpg" width="1150" alt="Petzl Nao rechargable battery"><br>
+You can charge the Nao directly on your computer and anything else which has an USB socket like the <a href="http://hikeventures.com/how-to-charge-your-batteries-when-you-are-outdoors/" target="_self">Anker Astro 3 battery.</a>
+   
 <img src="http://farm9.staticflickr.com/8230/8402476695_e20a34831b_c.jpg" width="1150"  alt="Petzl Nao">
 
 ---
