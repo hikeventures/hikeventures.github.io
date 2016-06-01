@@ -13,7 +13,3 @@ tags: [reviews, books]
 
 ## Where to buy?
 <a href="http://www.amazon.com/gp/product/0953195651/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0953195651&linkCode=as2&tag=hikeve-20" target="_blank">Amazon.com</a> 
-
-<a href="http://www.amazon.co.uk/gp/product/0953195651/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0953195651&linkCode=as2&tag=hikeve07-21" target="_blank">Amazon.co.uk</a>
-
-<a href="http://www.amazon.de/gp/product/0953195651/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=0953195651&linkCode=as2&tag=hikeve-21" target="_blank">Amazon.de</a>
