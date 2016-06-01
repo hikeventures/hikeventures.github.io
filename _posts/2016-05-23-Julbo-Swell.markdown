@@ -103,7 +103,7 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Julbo Suggestions";
-amzn_assoc_default_search_phrase = "Julbo swell";
+amzn_assoc_default_search_phrase = "Julbo";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "75e9c26018a8fec2a893b0893869dacc";
 </script>
