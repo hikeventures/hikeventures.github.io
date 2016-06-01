@@ -18,11 +18,11 @@ If you like mushrooms, make sure to keep your eyes open. You can collect them on
 
 [![backpacking seitseminen national park][image-2]][2]
 
-We entered the Park via the Seitseminen Visitor Centre where we got maps and snacks as well as internet access. After having refreshed ourselves in the Visitor Centre we started walking towards the Kovero Crown Tenant Farm. 
+We entered the Park via the Seitseminen Nature Centre where we got maps and snacks as well as internet access. After having refreshed ourselves in the Visitor Centre we started walking towards the Kovero Crown Tenant Farm. 
 
 [![camping seitseminen national park][image-3]][3]
 
-The farm has been renovated and looks the same as in the 1930s. 
+The Kovero Crown Tenant Farm has been renovated and looks the same as in the 1930s. 
 
 [![travel seitseminen national park][image-4]][4]
 
@@ -79,14 +79,14 @@ To summarise, Seitseminen is quite a relaxing place for a weekend trip where you
 [10]:	https://www.flickr.com/photos/90204224@N07/8197932533 "Seitseminen National Park Mylly"
 [11]:	https://www.flickr.com/photos/90204224@N07/8224436924 "Seitseminen National Park"
 
-[image-1]:	https://farm9.staticflickr.com/8480/8197699522_e8e26659ee_b.jpg
-[image-2]:	https://farm9.staticflickr.com/8489/8223401641_bc0d091e9c_b.jpg
-[image-3]:	https://farm9.staticflickr.com/8485/8224484012_6bc7333402_b.jpg
-[image-4]:	https://farm9.staticflickr.com/8349/8197945897_a617feb5b9_b.jpg
-[image-5]:	https://farm9.staticflickr.com/8068/8223389815_ed9e12883a_b.jpg
-[image-6]:	https://farm9.staticflickr.com/8068/8224472056_69f21fb71a_b.jpg
-[image-7]:	https://farm9.staticflickr.com/8480/8199030362_3abb6254de_b.jpg
-[image-8]:	https://farm9.staticflickr.com/8488/8197951913_997fe270a9_b.jpg
-[image-9]:	https://farm9.staticflickr.com/8345/8224447372_4d75a29595_b.jpg
-[image-10]:	https://farm9.staticflickr.com/8057/8197932533_0f109daa06_b.jpg
-[image-11]:	https://farm9.staticflickr.com/8344/8224436924_2762288f9f_b.jpg
+[image-1]:	https://farm9.staticflickr.com/8480/8197699522_e8e26659ee_b.jpg "Hiking in Seitseminen National Park - Trail"
+[image-2]:	https://farm9.staticflickr.com/8489/8223401641_bc0d091e9c_b.jpg "Hiking in Seitseminen National Park - Mushroom Hunting"
+[image-3]:	https://farm9.staticflickr.com/8485/8224484012_6bc7333402_b.jpg "Seitseminen National Park - Seitseminen Nature Center"
+[image-4]:	https://farm9.staticflickr.com/8349/8197945897_a617feb5b9_b.jpg "Seitseminen National Park - Kovero Crown Tenant Farm"
+[image-5]:	https://farm9.staticflickr.com/8068/8223389815_ed9e12883a_b.jpg "Seitseminen National Park - Iso Kivijärvi"
+[image-6]:	https://farm9.staticflickr.com/8068/8224472056_69f21fb71a_b.jpg "Seitseminen National Park - animals frog"
+[image-7]:	https://farm9.staticflickr.com/8480/8199030362_3abb6254de_b.jpg "Seitseminen National Park - Camping Fire Place"
+[image-8]:	https://farm9.staticflickr.com/8488/8197951913_997fe270a9_b.jpg "Seitseminen National Park - Cooking camping"
+[image-9]:	https://farm9.staticflickr.com/8345/8224447372_4d75a29595_b.jpg "Seitseminen National Park - Mylly"
+[image-10]:	https://farm9.staticflickr.com/8057/8197932533_0f109daa06_b.jpg "Seitseminen National Park - Mylly"
+[image-11]:	https://farm9.staticflickr.com/8344/8224436924_2762288f9f_b.jpg "Seitseminen National Park - Directions"
