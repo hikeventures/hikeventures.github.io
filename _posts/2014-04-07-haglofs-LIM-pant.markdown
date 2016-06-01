@@ -11,6 +11,8 @@ tags: [reviews, haglöfs, pants]
 Are you looking for waterproof rain pants for your next hiking, backpacking or any other backcountry trips? The Haglöfs L.I.M III Pants are one of the lightest pants on the market and here comes a short review.
    
 <a href="https://www.flickr.com/photos/90204224@N07/13685518345"><img src="https://c4.staticflickr.com/8/7206/13685518345_0d22860c15_o.jpg" width="992" height="662" alt="Haglöfs LIM Pants"></a>
+
+---
    
 ## Features
 The main difference between the L.I.M. II and III pants is only a better material. The features of both pants are the same. The Haglöfs L.I.M III pants weight only 225 grams, features full side-zippers to easily pull on/off the pants during the hike and is comfortable to wear due to the elasticated waist and articulated knees.
@@ -24,6 +26,10 @@ The integrated belt also helps to cut weight.
 Elastic straps on your ankles keeps dirt and water out.
 
 The only downside on the Haglöfs L.I.M III pants are that they are made out of Gore-Tex Paclite which I found not that breathable as other fabrics (also there might be not that much difference as most waterproof garments will cause condensation once you start your outdoor activity). However, if you are looking for rain pants to use in an emergency situation and which packs light then the Haglöfs L.I.M III Pant might be the right pants for you due to it's low weight and long side-zippers. [Here][1] you can find more rain pants which I would consider to buy.
+
+<a href="http://www.backcountry.com/haglfs-l.i.m.-iii-pant-mens"><button type="button" class="btn btn-danger">Read more about the Haglöfs L.I.M. III pant</button></a>
+
+---
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
