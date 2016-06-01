@@ -14,6 +14,7 @@ Winter time - freezing time! Or not? I have tested the Arcteryx Kappa Pant and h
 
 ## Features
 The Arcteryx Kappa pant is 600 grams light, moisture-resistand and windproof. They are also comfortable to wear and their insulation consists of Coreloft. The side-zippers make it easy to put-on/off the pants and the adjustable webbing belt saves weight to a conventional belt as well. The quality of the Kappa Pant is also on the high-end side but you have to pay for it of course.
+   
 <img src="http://farm3.staticflickr.com/2882/12133360105_becc09d986_c.jpg" width="534" height="800" alt="Arcteryx Kappa Pant">
 
 ---
