@@ -35,10 +35,10 @@ Unfortunately, northern lights are not that common in Vaasa and there also needs
 [7]:	http://www.flickr.com/photos/90204224@N07/8566801716/
 [8]:	http://www.flickr.com/photos/90204224@N07/8565706103/
 
-[image-1]:	http://farm9.staticflickr.com/8237/8566804142_5e07258bbc_c.jpg
-[image-2]:	http://farm9.staticflickr.com/8519/8565707339_4de34afb4d_c.jpg
-[image-3]:	http://farm9.staticflickr.com/8389/8565706939_4317cf8668_c.jpg
-[image-4]:	http://farm9.staticflickr.com/8246/8566802836_723f4d4fef_c.jpg
-[image-5]:	http://farm9.staticflickr.com/8377/8566803036_b30f4a6acb_c.jpg
-[image-6]:	http://farm9.staticflickr.com/8385/8566801716_307caa97ac_c.jpg
-[image-7]:	http://farm9.staticflickr.com/8241/8565706103_4dc9a82004_c.jpg
+[image-1]:	http://farm9.staticflickr.com/8237/8566804142_5e07258bbc_c.jpg "Northern Lights Aurora Borealis in Vaasa - Arctic Circle"
+[image-2]:	http://farm9.staticflickr.com/8519/8565707339_4de34afb4d_c.jpg "Northern Lights Aurora Borealis in Vaasa - Arctic Circle"
+[image-3]:	http://farm9.staticflickr.com/8389/8565706939_4317cf8668_c.jpg "Northern Lights Aurora Borealis in Vaasa - Arctic Circle"
+[image-4]:	http://farm9.staticflickr.com/8246/8566802836_723f4d4fef_c.jpg "Northern Lights Aurora Borealis in Vaasa - Arctic Circle"
+[image-5]:	http://farm9.staticflickr.com/8377/8566803036_b30f4a6acb_c.jpg "Northern Lights Aurora Borealis in Vaasa - Arctic Circle"
+[image-6]:	http://farm9.staticflickr.com/8385/8566801716_307caa97ac_c.jpg "Northern Lights Aurora Borealis in Vaasa - Arctic Circle"
+[image-7]:	http://farm9.staticflickr.com/8241/8565706103_4dc9a82004_c.jpg "Northern Lights Aurora Borealis in Vaasa - Arctic Circle"
