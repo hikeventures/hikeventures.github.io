@@ -14,7 +14,3 @@ Mike Clelland's Ultralight Backpackin' Tips is an easy to read and highly entert
 
 ## Where to buy?
 <a href="http://www.amazon.com/gp/product/0762763841/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0762763841&linkCode=as2&tag=hikeve-20" target="_blank">Amazon.com</a>
-
-<a href="http://www.amazon.co.uk/gp/product/0762763841/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0762763841&linkCode=as2&tag=hikeve07-21" target="_blank">Amazon.co.uk</a>
-
-<a href="http://www.amazon.de/gp/product/0762763841/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=0762763841&linkCode=as2&tag=hikeve-21" target="_blank">Amazon.de</a>
