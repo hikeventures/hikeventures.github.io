@@ -13,23 +13,48 @@ I was looking for a lightweight compact camping stove where I can place my jetbo
 
 The jetboil stove can heat 0.5 l in 2 minutes and 15 seconds which is equal to 12 liters for a 100g canister. It has a weight of 240 g. The stove can be operated either with the titanium cooking cup or with e.g. a frying pan by exchanging the top piece. The stove also comes with a plastic tripod in order to give the stove a stable position. The stove gives a quite solid impression.
     
-<a href="https://www.flickr.com/photos/90204224@N07/8552911716" title="Jetboil Sol Ti"><img src="https://farm9.staticflickr.com/8231/8552911716_8c74f6a5c4_b.jpg" width="600" alt="Jetboil Sol Ti"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/8552911716" title="Jetboil Sol Ti"><img src="https://farm9.staticflickr.com/8231/8552911716_8c74f6a5c4_b.jpg" width="600" alt="Jetboil Sol Ti hiking and backpacking stove"></a>
 <!--more-->
+
+---
 
 ## Features
 The Jetboil Sol Ti boils 0.8l water fast, is packable and weights only 240 grams. A 100 grams gas canister can boil around 12 liter of water.
 
-<a href="https://www.flickr.com/photos/90204224@N07/8552860540" title="Jetboil Sol Ti"><img src="https://farm9.staticflickr.com/8229/8552860540_27dbcfbc7f_b.jpg" width="1024" height="566" alt="Jetboil Sol Ti"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/8552860540" title="Jetboil Sol Ti"><img src="https://farm9.staticflickr.com/8229/8552860540_27dbcfbc7f_b.jpg" width="1024" height="566" alt="Jetboil Sol Ti hiking and backpacking stove"></a>
 
 Parts which are included with the Jetboil Sol Ti
 
-<a href="https://www.flickr.com/photos/90204224@N07/8551708953" title="Jetboil Sol Ti"><img src="https://farm9.staticflickr.com/8243/8551708953_09a57a6b4e_b.jpg" width="1024" height="861" alt="Jetboil Sol Ti"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/8551708953" title="Jetboil Sol Ti"><img src="https://farm9.staticflickr.com/8243/8551708953_09a57a6b4e_b.jpg" width="1024" height="861" alt="Jetboil Sol Ti hiking and backpacking stove"></a>
 
 All parts can be easily placed within the Titanium cup
+
+---
 
 ## Recommendation
 I have tested the Jetboil Sol Ti on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden. It was the perfect outdoor stove for us. Lightweight and fast. However, this stove is only for boiling water. If you want to fry something you need to look for another stove.
 
-<a href="https://www.flickr.com/photos/90204224@N07/9596216703" title="Jetboil Sol Ti in Sarek"><img src="https://farm4.staticflickr.com/3748/9596216703_3f4c4db24f_b.jpg" width="1024" height="683" alt="Jetboil Sol Ti in Sarek"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/9596216703" title="Jetboil Sol Ti in Sarek"><img src="https://farm4.staticflickr.com/3748/9596216703_3f4c4db24f_b.jpg" width="1024" height="683" alt="Jetboil Sol Ti hiking and backpacking stove"></a>
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B004RA03LK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004RA03LK&linkCode=as2&tag=hikeve-20&linkId=F7AWYGN3OMOXRXHI"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004RA03LK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B004RA03LK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+---
+
+## Alternatives
+Have a look at the newer models like the [Jetboil MiniMo](http://www.backcountry.com/jetboil-minimo-cooking-system) or the MSR [WindBurner](http://www.backcountry.com/msr-windboiler-personal-stove-system) if you want a newer and better stove.
+
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Water Filter Suggestions";
+amzn_assoc_default_search_phrase = "jetboil";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "3b59edd59f23213f9e3bbcd8046ee503";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
