@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Video - Travelling in Japan 2015
-date: 2016-05-26 10:00  +0300
+date: 2016-06-01 15:45  +0300
 comments: true
 published: false
 category: destinations
