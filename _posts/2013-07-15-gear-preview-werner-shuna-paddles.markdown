@@ -13,10 +13,14 @@ Having purchased a <a hre="http://hikeventures.com/gear-review-unpacking-alpacka
 <img src="http://farm4.staticflickr.com/3709/9295040842_f7031d2f8e_c.jpg" alt="Werner Shuna Paddles">
 <!--more-->
 
+---
+
 ## Wish list for my Packrafting Paddles
 There are a few features which I was looking for with my paddles. They should be lightweight, not too expensive, durable, portable to carry around with my backpack and of course also look nice.
 
 I did some research and learned  about the Werner Shuna paddles which should be one of the best paddles on the market.Unfortunately, they were not offered as a 4 pieces version on the Werner website when I bought them but it is possible to order custom made paddles which come in 4 pieces.
+
+---
 
 ## Features
 The Werner Shuna paddles are high quality carbon paddles with a great design and a weight of 780 grams. There are also several colors available.
@@ -41,9 +45,29 @@ The angle is adjustable as you can see on the left hand side of the paddle.
    
 I really like the design of these paddles. They just look great and they are super light. If you have the money to buy a <a hre="http://hikeventures.com/gear-review-unpacking-alpacka-packraft/" target="_self">packraft</a> then you should definitely not save on your paddles.
 
+---
+
 ## Recommendation
 We have tested the Werner Shuna paddles on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden. They are light, performed very well and they look nice too. Highly recommended. 
 
 <strong>Update: </strong>I have used the Werner Shuna paddles now for over 1.5 years and I am still happy with them. They also helped me to get out when I got stuck between some rocks in the rapids and they didn't break. They just have a few scratches on the surface so far. I would say that they are worth the money I have spent!
 
 <a href="http://www.backcountry.com/werner-shuna-2-piece-paddle-glass-blades-straight-fiber-glass-shaft"><button type="button" class="btn btn-danger">Read more about the Werner Shuna Paddles</button></a> 
+
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Paddle Suggestions";
+amzn_assoc_default_search_phrase = "werner shuna";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "d0f44bf67133aaf87e8a18d1fe87ceb7";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
