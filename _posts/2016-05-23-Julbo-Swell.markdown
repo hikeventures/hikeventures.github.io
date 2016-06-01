@@ -91,6 +91,8 @@ If I could think of something negative about the Julbo Swell then it would be th
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Julbo-Swell-Polarized-Sunglasses_10232525_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Julbo Swell</button></a>
 
+---
+
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
 amzn_assoc_search_bar = "false";
@@ -101,8 +103,8 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Julbo Suggestions";
-amzn_assoc_default_search_phrase = "Julbo Swell";
+amzn_assoc_default_search_phrase = "Julbo swell";
 amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "9a725873569a009ac5497b65cc30560e";
+amzn_assoc_linkid = "75e9c26018a8fec2a893b0893869dacc";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
