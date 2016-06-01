@@ -25,8 +25,30 @@ Both wallets are made of G-1000 fabric - a synthetic / cotton mixture which Fjä
 
 <a  href="http://www.amazon.com/gp/product/B00SVCRDKO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SVCRDKO&linkCode=as2&tag=hikeve-20&linkId=NOZFI5R7S4BF7ZNL"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SVCRDKO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00SVCRDKO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+---
+
 ## Alternatives
 If you are on a budget then there is no need to spend a lot of money on expensive wallets. An inexpensive alternative to the wallets which I have mentioned above is a simple plastic bag where you can store your money while on the trail. This is probably an even safer option to keep your notes and cards dry.
 
+---
+
 ##  Conclusion
 If functionality is the main criteria for choosing your wallet for your next hiking or backpacking trip then you should probably go for a cheap plastic bag. If you also want a fashionable wallet which you can use as a regular wallet in the city then I would recommend one of the Fjällräven wallets. To make them 100% waterproof you might however still place it in some sort of plastic bag or at least wax the G-1000 fabric. Personally, I use both - a Fjällräven Zip Card Holder and a plastic bag when I go packrafting.
+
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "true";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Fjällräven Wallet Suggestions";
+amzn_assoc_default_search_phrase = "fjällräven wallet";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "c79b816115a0b8f7de5e5cd6559b2053";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
