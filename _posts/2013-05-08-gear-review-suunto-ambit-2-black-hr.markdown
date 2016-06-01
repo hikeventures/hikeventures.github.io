@@ -9,7 +9,7 @@ tags: [reviews, suunto, gps, watch]
 ---
 For those folks who would like to keep track on where they hiked, biked etc. should have a look on GPS watches like the Suunto Ambit2. Sure, you can also do this with an app on your phone but personally I found it more comfortable to have a watch on my wrist. Having had the Suunto Ambit before the Suunto Ambit 2 also adds altitude GPS functionality and "Find back" support.
    
-<a href="https://www.flickr.com/photos/90204224@N07/9599014438" title="Suunto Ambit 2"><img src="https://farm3.staticflickr.com/2866/9599014438_4f27c21c17_b.jpg" width="1024" height="683" alt="Suunto Ambit 2 in Sarek"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/9599014438" title="Suunto Ambit 2"><img src="https://farm3.staticflickr.com/2866/9599014438_4f27c21c17_b.jpg" width="1024" height="683" alt="Suunto Ambit2 in Sarek"></a>
 <!--more-->
 
 ---
@@ -35,11 +35,11 @@ Suunto Ambit2 is a great tool for outdoor activities like hiking, running, cycli
    
 There are also currently over 1000 apps available which you can upload to your watch or you can create your own app.
    
-<a href="https://www.flickr.com/photos/90204224@N07/11137895256"><img src="https://farm8.staticflickr.com/7403/11137895256_ca2d5a0430_b.jpg" width="1024" height="680"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/11137895256"><img src="https://farm8.staticflickr.com/7403/11137895256_ca2d5a0430_b.jpg" width="1024" height="680" alt="Suunto Ambit2 apps movescount"></a>
    
 Charging and transferring data is done with this USB cable.
     
-<a href="https://www.flickr.com/photos/90204224@N07/8720670118"><img src="https://farm8.staticflickr.com/7309/8720670118_1f3b7c3812_b.jpg" width="1024" height="683"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/8720670118"><img src="https://farm8.staticflickr.com/7309/8720670118_1f3b7c3812_b.jpg" width="1024" height="683" alt="Suunto Ambit2 USB"></a>
 
 ---
 
