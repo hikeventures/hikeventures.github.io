@@ -24,4 +24,26 @@ I have tested the Katadyn Mini Water Filter on <a href="http://hikeventures.com/
 
 <a href="https://www.flickr.com/photos/90204224@N07/9599019542" title="Filtering Water with Katadyn in Sarek"><img src="https://farm8.staticflickr.com/7459/9599019542_097779e2ae_b.jpg" width="1024" height="683" alt="Filtering Water with Katadyn in Sarek"></a><br>
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B003C1EVQ8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003C1EVQ8&linkCode=as2&tag=hikeve-20&linkId=BHWL7A4Q5OEKAWPK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003C1EVQ8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B003C1EVQ8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Katadyn-Mini-Ceramic-Microfilter_10094418_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Katadyn Mini</button></a>
+
+## Alternative
+If you are looking for an ultralight water filter where you don't have to pump then you should have a look at the [Sawyer Water Filter](https://www.rei.com/product/890900/sawyer-mini-water-filter) which also comes with a lower price tag.
+
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Water Filter Suggestions";
+amzn_assoc_default_search_phrase = "katadyn mini";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "3b59edd59f23213f9e3bbcd8046ee503";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
