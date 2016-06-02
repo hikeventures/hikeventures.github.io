@@ -54,6 +54,7 @@ My Inov-8 ultralight hiking shoes on [our hiking trip](http://www.hikeventures.c
 
 <a  href="http://www.amazon.com/gp/product/B0113P30VG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0113P30VG&linkCode=as2&tag=hikeve-20&linkId=DVTNAJVQHSVBFXM5"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0113P30VG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0113P30VG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+The Adidas Terrex Solo are flexible shoes with a breathable mesh upper. The Terrex Solo also has a Stealth® rubber toe cap to protect your toes and the TRAXION™ outsole should provide a god grip.
 
 <a href="http://www.backcountry.com/adidas-outdoor-terrex-solo-approach-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Adidas Terrex Solo</button></a> 
 
