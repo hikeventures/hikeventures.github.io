@@ -3,11 +3,11 @@ layout: post
 title: The 5 Best Hiking Boots for 2016
 date: 2016-03-02 09:13:12 +0200
 comments: true
-published: true
 description: Looking for new hiking boots? Here are the best boots for hiking and backpacking for 2016
 category: articles
 tags: [articles, best, shoes]
 ---
+Proper hiking boots are important if you are planning to hike in the mountains or with a heavy backpack. For day trips which are not that demanding [http://www.hikeventures.com/best-ultralight-hiking-shoes/](lightweight hiking shoes) could be an alternative to traditional hiking boots. However, after my trips in the [Alps](http://www.hikeventures.com/e5-crossing-the-alps-from-germany-to-italy/) and in [Swedish Lapland](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) I am not such a fan of ultralight hiking shoes and would rather take a pair of proper hiking boots with me.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27313686292/in/dateposted-public/" title="Lundhags Jaure Light"><img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="1024" height="643" alt="The best Hiking Boots 2016 - Lundhags Jaure Light"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
@@ -90,7 +90,7 @@ The Scarpa R-EVOLUTION GTX is a supportive and light hiking boot for the mountai
 
 ---
 ## Conclusion
-
+A proper hiking shoe is one of the most important item on your hiking gear list. Consider the environment where you would like to hike. Do you want lighter or more stable hiking boots? My personal preference goes towards the Hanwag Banks GTX beside my Lundhags Jaure Light which are mainly sold in Europe. Have a look on [http://www.hikeventures.com/best-ultralight-hiking-shoes/](lightweight hiking shoes) if you are not planning less demanding trail hikes and day trips.
 
 ---
 
