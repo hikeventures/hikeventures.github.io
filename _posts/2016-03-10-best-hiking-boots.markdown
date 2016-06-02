@@ -89,6 +89,7 @@ The Scarpa R-EVOLUTION GTX is a supportive and light hiking boot for the mountai
 
 
 ---
+
 ## Conclusion
 A proper hiking shoe is one of the most important item on your hiking gear list. Consider the environment where you would like to hike. Do you want lighter or more stable hiking boots? My personal preference goes towards the Hanwag Banks GTX beside my Lundhags Jaure Light which are mainly sold in Europe. Have a look on [lightweight hiking shoes](http://www.hikeventures.com/best-ultralight-hiking-shoes/) if you are not planning less demanding trail hikes and day trips.
 
