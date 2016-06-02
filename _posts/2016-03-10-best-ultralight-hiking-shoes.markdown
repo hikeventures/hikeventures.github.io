@@ -10,23 +10,47 @@ tags: [articles, best, shoes]
 ---
 
 
-
-Inov-8 Men's Roclite 282 GTX
+[Inov-8 Roclite 282 GTX](http://www.backcountry.com/inov-8-roclite-282-gtx-trail-running-shoe-mens)
 
 **Weight:** 282 grams
 
-Adidas Terrex Solo
+<a  href="http://www.amazon.com/gp/product/B00QTCYO1E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QTCYO1E&linkCode=as2&tag=hikeve-20&linkId=XWRB6N6GRHOGOXFB"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00QTCYO1E&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00QTCYO1E" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+<a href="http://www.backcountry.com/inov-8-roclite-282-gtx-trail-running-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Inov-8 Roclite 282 GTX</button></a> 
+
+[Adidas Terrex Solo](http://www.backcountry.com/adidas-outdoor-terrex-solo-approach-shoe-mens)
 
 **Weight:** 349 grams
 
-Terrex Fast R GTX
+<a  href="http://www.amazon.com/gp/product/B0113P30VG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0113P30VG&linkCode=as2&tag=hikeve-20&linkId=DVTNAJVQHSVBFXM5"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0113P30VG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0113P30VG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+<a href="http://www.backcountry.com/adidas-outdoor-terrex-solo-approach-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Adidas Terrex Solo</button></a> 
+
+[Terrex Fast R GTX](http://www.backcountry.com/adidas-outdoor-terrex-fast-r-gtx-hiking-shoe-mens)
 
 **Weight:** 411 grams
 
-Scarpa Zen Pro
+<a  href="http://www.amazon.com/gp/product/B00L1RI2T2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00L1RI2T2&linkCode=as2&tag=hikeve-20&linkId=FZUPTISQVG3NFLKT"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00L1RI2T2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00L1RI2T2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+<a href="http://www.backcountry.com/adidas-outdoor-terrex-fast-r-gtx-hiking-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Terrex Fast R GTX</button></a> 
+
+[Scarpa Zen Pro](http://www.backcountry.com/scarpa-zen-pro-hiking-shoe-mens)
 
 **Weight:** 480 grams
 
-Acrux² FL GTX Approach 
+<a  href="http://www.amazon.com/gp/product/B001Q09DFG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001Q09DFG&linkCode=as2&tag=hikeve-20&linkId=FSSAENSQWIPARDEA"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001Q09DFG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B001Q09DFG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+<a href="http://www.backcountry.com/scarpa-zen-pro-hiking-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Scarpa Zen Pro</button></a> 
+
+[Acrux2 FL GTX Approach](http://www.backcountry.com/arcteryx-acrux2-fl-approach-shoe-mens) 
 
 **Weight:** 492 g
+
+<a  href="http://www.amazon.com/gp/product/B00O4CHAL2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00O4CHAL2&linkCode=as2&tag=hikeve-20&linkId=QBJ2UINAADDHALYZ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00O4CHAL2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00O4CHAL2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+<a href="http://www.backcountry.com/arcteryx-acrux2-fl-approach-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Acrux² FL GTX Approach</button></a> 
