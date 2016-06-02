@@ -132,7 +132,7 @@ Considering your own body and gear weight is important when choosing your snowsh
 Konstantin snowshoeing in the [Austrian Alps](http://www.hikeventures.com/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/) with this [MSR Lightning Ascent](http://www.backcountry.com/msr-lightning-ascent).
    
 
-## What makes a good snowshoe
+## Features of a good snowshoe
 
 * Weight (for running or carrying you should choose lighter snowshoes)
 * Application e.g. aerobic, running, recreational or for mountaineering
