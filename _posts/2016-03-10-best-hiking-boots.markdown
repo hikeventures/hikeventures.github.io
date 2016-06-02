@@ -27,58 +27,55 @@ tags: [articles, best, shoes]
 * Heavier than [ultralight hiking shoes](http://www.hikeventures.com/best-ultralight-hiking-shoes/).
 * Sometimes more expensive.
 
-
-
-
 ---
 
-[Inov-8 Roclite 286 GTX](http://www.backcountry.com/arcteryx-acrux2-fl-approach-shoe-mens) 
+[Inov-8 Roclite 286 GTX](http://www.backcountry.com/inov-8-roclite-286-gtx-hiking-boot-mens) 
 
 **Weight:** 286 grams
 
+The Inov-8 Roclite 286 GTX is waterproof and offers natural movement and is made for fastpacking. While the boot is flexible it also offers ankle stabilty.
 
-
-<a href="http://www.backcountry.com/arcteryx-acrux2-fl-approach-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Inov-8 Roclite 286 GTX</button></a>
+<a href="http://www.backcountry.com/inov-8-roclite-286-gtx-hiking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Inov-8 Roclite 286 GTX</button></a>
 
 ---
 
-[Adidas Terrex Fast R Mid GTX](http://www.backcountry.com/inov-8-roclite-282-gtx-trail-running-shoe-mens)
+[Adidas Terrex Fast R Mid GTX](http://www.backcountry.com/adidas-outdoor-terrex-fast-r-mid-gtx-hiking-boot-mens)
 
 **Weight:** 435 grams
 
 
 
 
-<a href="http://www.backcountry.com/inov-8-roclite-282-gtx-trail-running-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Adidas Terrex Fast R Mid GTX</button></a> 
+<a href="http://www.backcountry.com/adidas-outdoor-terrex-fast-r-mid-gtx-hiking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Adidas Terrex Fast R Mid GTX</button></a> 
 
 ---
 
-[Hanwag Banks GTX](http://www.backcountry.com/adidas-outdoor-terrex-solo-approach-shoe-mens)
+[Hanwag Banks GTX](https://www.rei.com/product/100194/hanwag-banks-gtx-boots-mens)
 
 **Weight:** 610 grams
 
 
-<a href="http://www.backcountry.com/adidas-outdoor-terrex-solo-approach-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Hanwag Banks GTX</button></a> 
+<a href="https://www.rei.com/product/100194/hanwag-banks-gtx-boots-mens"><button type="button" class="btn btn-danger">Read more about the Hanwag Banks GTX</button></a> 
 
 ---
 
-[Arc'teryx Men's Bora2 Mid](http://www.backcountry.com/adidas-outdoor-terrex-fast-r-gtx-hiking-shoe-mens)
+[Arc'teryx Men's Bora2 Mid](http://www.backcountry.com/arcteryx-bora-mid-backpacking-boot-mens)
 
 **Weight:** 619 grams
 
 
 
-<a href="http://www.backcountry.com/adidas-outdoor-terrex-fast-r-gtx-hiking-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Arc'teryx Men's Bora2 Mid</button></a> 
+<a href="http://www.backcountry.com/arcteryx-bora-mid-backpacking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Arc'teryx Men's Bora2 Mid</button></a> 
 
 ---
 
-[Scarpa R-EVOLUTION GTX](http://www.backcountry.com/scarpa-zen-pro-hiking-shoe-mens)
+[Scarpa R-EVOLUTION GTX](http://www.backcountry.com/scarpa-r-evolution-gtx-backpacking-boot-mens)
 
 **Weight:** 659 grams
 
 
 
-<a href="http://www.backcountry.com/scarpa-zen-pro-hiking-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Scarpa R-EVOLUTION GTX</button></a> 
+<a href="http://www.backcountry.com/scarpa-r-evolution-gtx-backpacking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Scarpa R-EVOLUTION GTX</button></a> 
 
 
 ---
