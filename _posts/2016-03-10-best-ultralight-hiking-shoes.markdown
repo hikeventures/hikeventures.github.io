@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The 5 Best Ultralight Hiking Shoes for 2016
-date: 2016-06-02 09:13:12 +0200
+date: 2016-03-02 09:13:12 +0200
 comments: true
-published: false
+published: true
 description: Looking for light alternatives to heavy hiking boots? Here are the best ultralight hiking shoes for 2016
 category: articles
 tags: [articles, best, shoes]
@@ -42,6 +42,8 @@ My Inov-8 ultralight hiking shoes on [our hiking trip](http://www.hikeventures.c
 **Weight:** 282 grams
 
 <a  href="http://www.amazon.com/gp/product/B00QTCYO1E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QTCYO1E&linkCode=as2&tag=hikeve-20&linkId=XWRB6N6GRHOGOXFB"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00QTCYO1E&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00QTCYO1E" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+The ROCLITE 282 GTX promises a combination of natural movement and flexibility with breathability offered by Gore flex with its 1.4 billion pores per square centimeter which makes the Roclite 282 watertight. The outsole of the Roclite 282 GTX offers good grip on wet rocks.
 
 
 <a href="http://www.backcountry.com/inov-8-roclite-282-gtx-trail-running-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Inov-8 Roclite 282 GTX</button></a> 
