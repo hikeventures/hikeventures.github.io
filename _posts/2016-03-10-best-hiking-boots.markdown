@@ -57,6 +57,8 @@ The Inov-8 Roclite 286 GTX is waterproof and offers natural movement and is made
 
 <a href="https://www.amazon.com/gp/product/B00YT7F7N0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00YT7F7N0&linkCode=as2&tag=hikeve-20&linkId=d9335355600b6ebb12050a8b9a514ec6"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00YT7F7N0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00YT7F7N0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+The Hanwag Banks are one of my favourite lightweigh hiking boots. Their upper come in Cordura/Nubuk leather and their GORE-TEX lining makes them waterproof and breathable. The rubber toe caps protect your toes and there is also a shock absorber in the heel.
+
 <a href="https://www.rei.com/product/100194/hanwag-banks-gtx-boots-mens"><button type="button" class="btn btn-danger">Read more about the Hanwag Banks GTX</button></a> 
 
 ---
