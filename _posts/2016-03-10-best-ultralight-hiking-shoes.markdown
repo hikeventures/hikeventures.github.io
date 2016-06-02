@@ -48,7 +48,7 @@ tags: [articles, best, shoes]
 
 [Acrux2 FL GTX Approach](http://www.backcountry.com/arcteryx-acrux2-fl-approach-shoe-mens) 
 
-**Weight:** 492 g
+**Weight:** 492 grams
 
 <a  href="http://www.amazon.com/gp/product/B00O4CHAL2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00O4CHAL2&linkCode=as2&tag=hikeve-20&linkId=QBJ2UINAADDHALYZ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00O4CHAL2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00O4CHAL2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
