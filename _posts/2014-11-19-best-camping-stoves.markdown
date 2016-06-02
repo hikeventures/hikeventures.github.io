@@ -122,7 +122,7 @@ A Jetboil stove on our trip in [http://www.hikeventures.com/hiking-and-packrafti
 ## How to choose the best camping stove?
 It all depends on your requirements. Do you need a simple and lightweight camping stove then the MSR MicroRocket would be a good choice but your stove won't have any wind protection and you need an aditional cup to boil the water. 
 
-My preference goes towards a camping stove which boils water quickly and uses low amount of fuel as I am usually traveling with dehydrated food packages where I just have to add boiling water to the food package. My favourite stove for Scandinavia are the [MSR WindBurner](http://www.backcountry.com/msr-windboiler-personal-stove-system) or the [Jetboil MiniMo](http://www.backcountry.com/jetboil-minimo-cooking-system) - both of them can also handle cold temperatures down to -6C. 
+My preference goes towards a camping stove which boils water quickly and uses low amount of fuel as I am usually traveling with dehydrated food packages where I just have to add boiling water to the food package. My favourite stove for Scandinavia are the [MSR WindBurner](http://www.backcountry.com/msr-windboiler-personal-stove-system) or the [Jetboil MiniMo](http://www.backcountry.com/jetboil-minimo-cooking-system) - both of them can also handle cold temperatures down to -6C while the MSR WinBurner stove can handle wind better than the Jetboil MiniMo.
 
 If you are traveling to different continents then a multi-fuel stove might be the best solution as gas canisters might not be sold everywhere. For winter camping you should probably also consider a multifuel stove like the [MSR XGK EX](http://www.backcountry.com/msr-xgk-ex-stove).
 
