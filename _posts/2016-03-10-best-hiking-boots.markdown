@@ -1,4 +1,4 @@
-  ---
+---
 layout: post
 title: The 5 Best Hiking Boots for 2016
 date: 2016-03-02 09:13:12 +0200
