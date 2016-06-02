@@ -49,6 +49,9 @@ The Inov-8 Roclite 286 GTX is waterproof and offers natural movement and is made
 
 <a href="https://www.amazon.com/gp/product/B0113OXSEG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0113OXSEG&linkCode=as2&tag=hikeve-20&linkId=8431343daa475dc15988522b9d737a13"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0113OXSEG&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0113OXSEG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+The Adidas Terrex Fast R Mid GTX can - despite it's low weight - also be worn in the mountain. The shoes come with protective weldings and a grippy Continental™ Rubber outsole for a good grip on the trail.
+
+
 <a href="http://www.backcountry.com/adidas-outdoor-terrex-fast-r-mid-gtx-hiking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Adidas Terrex Fast R Mid GTX</button></a> 
 
 ---
@@ -91,7 +94,7 @@ The Scarpa R-EVOLUTION GTX is a supportive and light hiking boot for the mountai
 ---
 
 ## Conclusion
-A proper hiking shoe is one of the most important item on your hiking gear list. Consider the environment where you would like to hike. Do you want lighter or more stable hiking boots? My personal preference goes towards the Hanwag Banks GTX beside my Lundhags Jaure Light which are mainly sold in Europe. Have a look on [lightweight hiking shoes](http://www.hikeventures.com/best-ultralight-hiking-shoes/) if you are not planning less demanding trail hikes and day trips.
+A proper hiking shoe is one of the most important item on your hiking gear list. Consider the environment where you would like to hike. Do you want lighter or more stable hiking boots? My personal preference goes towards the Adidas Terrex Fast R Mid GTX or the Hanwag Banks GTX. I also like my Lundhags Jaure Light but they are mainly sold in Europe. Have a look on [lightweight hiking shoes](http://www.hikeventures.com/best-ultralight-hiking-shoes/) if you are planning less demanding trail hikes and day trips.
 
 ---
 
