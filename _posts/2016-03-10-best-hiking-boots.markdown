@@ -32,53 +32,54 @@ tags: [articles, best, shoes]
 
 ---
 
-[Inov-8 Roclite 282 GTX](http://www.backcountry.com/inov-8-roclite-282-gtx-trail-running-shoe-mens)
+[Inov-8 Roclite 286 GTX](http://www.backcountry.com/arcteryx-acrux2-fl-approach-shoe-mens) 
 
-**Weight:** 282 grams
-
-
+**Weight:** 286 grams
 
 
-<a href="http://www.backcountry.com/inov-8-roclite-282-gtx-trail-running-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Inov-8 Roclite 282 GTX</button></a> 
 
----
-
-[Adidas Terrex Solo](http://www.backcountry.com/adidas-outdoor-terrex-solo-approach-shoe-mens)
-
-**Weight:** 349 grams
-
-
-<a href="http://www.backcountry.com/adidas-outdoor-terrex-solo-approach-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Adidas Terrex Solo</button></a> 
+<a href="http://www.backcountry.com/arcteryx-acrux2-fl-approach-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Inov-8 Roclite 286 GTX</button></a>
 
 ---
 
-[Adidas Terrex Fast R GTX](http://www.backcountry.com/adidas-outdoor-terrex-fast-r-gtx-hiking-shoe-mens)
+[Adidas Terrex Fast R Mid GTX](http://www.backcountry.com/inov-8-roclite-282-gtx-trail-running-shoe-mens)
 
-**Weight:** 411 grams
-
-
-
-<a href="http://www.backcountry.com/adidas-outdoor-terrex-fast-r-gtx-hiking-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Terrex Fast R GTX</button></a> 
-
----
-
-[Scarpa Zen Pro](http://www.backcountry.com/scarpa-zen-pro-hiking-shoe-mens)
-
-**Weight:** 480 grams
+**Weight:** 435 grams
 
 
 
-<a href="http://www.backcountry.com/scarpa-zen-pro-hiking-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Scarpa Zen Pro</button></a> 
+
+<a href="http://www.backcountry.com/inov-8-roclite-282-gtx-trail-running-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Adidas Terrex Fast R Mid GTX</button></a> 
 
 ---
 
-[Arcteryx Acrux2 FL GTX Approach](http://www.backcountry.com/arcteryx-acrux2-fl-approach-shoe-mens) 
+[Hanwag Banks GTX](http://www.backcountry.com/adidas-outdoor-terrex-solo-approach-shoe-mens)
 
-**Weight:** 492 grams
+**Weight:** 610 grams
+
+
+<a href="http://www.backcountry.com/adidas-outdoor-terrex-solo-approach-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Hanwag Banks GTX</button></a> 
+
+---
+
+[Arc'teryx Men's Bora2 Mid](http://www.backcountry.com/adidas-outdoor-terrex-fast-r-gtx-hiking-shoe-mens)
+
+**Weight:** 619 grams
 
 
 
-<a href="http://www.backcountry.com/arcteryx-acrux2-fl-approach-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Acrux² FL GTX Approach</button></a> 
+<a href="http://www.backcountry.com/adidas-outdoor-terrex-fast-r-gtx-hiking-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Arc'teryx Men's Bora2 Mid</button></a> 
+
+---
+
+[Scarpa R-EVOLUTION GTX](http://www.backcountry.com/scarpa-zen-pro-hiking-shoe-mens)
+
+**Weight:** 659 grams
+
+
+
+<a href="http://www.backcountry.com/scarpa-zen-pro-hiking-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Scarpa R-EVOLUTION GTX</button></a> 
+
 
 ---
 ## Conclusion
