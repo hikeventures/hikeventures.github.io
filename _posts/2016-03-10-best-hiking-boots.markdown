@@ -10,13 +10,15 @@ tags: [articles, best, shoes]
 ---
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27313686292/in/dateposted-public/" title="Lundhags Jaure Light"><img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="1024" height="643" alt="The best Hiking Boots 2016 - Lundhags Jaure Light"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
+
+
 <!--more-->
 
 ---
 
 ## Advantages of hiking boots
 
-* They support your ankle.
+* They support your ankle and offer more stability while hiking on the trail.
 * Let you carry more load over a longer distance
 * More durable than [http://www.hikeventures.com/best-ultralight-hiking-shoes/](ultralight hiking shoes).
 
@@ -25,7 +27,7 @@ tags: [articles, best, shoes]
 ## Disadvantages of hiking boots
 
 * Heavier than [ultralight hiking shoes](http://www.hikeventures.com/best-ultralight-hiking-shoes/).
-* Sometimes more expensive.
+* Sometimes more expensive than ultralight hiking shoes.
 
 ---
 
