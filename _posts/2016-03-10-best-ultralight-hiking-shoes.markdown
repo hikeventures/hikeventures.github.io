@@ -113,7 +113,7 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Ultralight Hiking Shoes Suggestions";
-amzn_assoc_default_search_phrase = "scarpa zen pro";
+amzn_assoc_default_search_phrase = "Inov-8 Roclite";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "0d18f88262f19f39fc7a13f07ae2563b";
 </script>
