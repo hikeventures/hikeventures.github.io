@@ -23,7 +23,7 @@ If you are into ultralight hiking then you are probably also interested into my 
 
 ## Disadvantages of ultralight hiking shoes
 
-* There is a chance that you will get wet feet since those shoes don't go over your ankles especially if you don't buy a GTX (waterproof) shoe.
+* There is a chance that you will get wet feet since those shoes don't go over your ankles especially if you don't buy a GTX (waterproof) shoe. One solution to keep your feet dry would be to wear latex socks over your regular [(merino) socks](http://www.backcountry.com/icebreaker-hike-mid-crew-sock-mens-ice0793).
 * Ultralight Hiking Shoes won't give you much support when carry a heavier backpack.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9596183907/in/album-72157646473352583/" title="SDIM4200"><img src="https://c4.staticflickr.com/4/3815/9596183907_732d266e5d_b.jpg" width="1024" height="683" alt="SDIM4200"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
