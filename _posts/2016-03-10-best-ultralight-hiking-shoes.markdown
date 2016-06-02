@@ -14,12 +14,16 @@ If you are into ultralight hiking then you are probably also interested into my 
 
 <!--more-->
 
+---
+
 ## Advantages of ultralight hiking shoes
 
 * They are very lightweight compared to traditional hiking or backpacking boots.
 * They don't need that much space to store them.
 * They dry faster.
 * Sometimes they costs are lower.
+
+---
 
 ## Disadvantages of ultralight hiking shoes
 
@@ -30,7 +34,7 @@ If you are into ultralight hiking then you are probably also interested into my 
    
 My Inov-8 ultralight hiking shoes on [our hiking trip](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) in the Sarek National Park in Sweden. I had constantly wet feet.
 
-
+---
 
 [Inov-8 Roclite 282 GTX](http://www.backcountry.com/inov-8-roclite-282-gtx-trail-running-shoe-mens)
 
@@ -41,6 +45,8 @@ My Inov-8 ultralight hiking shoes on [our hiking trip](http://www.hikeventures.c
 
 <a href="http://www.backcountry.com/inov-8-roclite-282-gtx-trail-running-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Inov-8 Roclite 282 GTX</button></a> 
 
+---
+
 [Adidas Terrex Solo](http://www.backcountry.com/adidas-outdoor-terrex-solo-approach-shoe-mens)
 
 **Weight:** 349 grams
@@ -49,6 +55,8 @@ My Inov-8 ultralight hiking shoes on [our hiking trip](http://www.hikeventures.c
 
 
 <a href="http://www.backcountry.com/adidas-outdoor-terrex-solo-approach-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Adidas Terrex Solo</button></a> 
+
+---
 
 [Terrex Fast R GTX](http://www.backcountry.com/adidas-outdoor-terrex-fast-r-gtx-hiking-shoe-mens)
 
@@ -59,6 +67,8 @@ My Inov-8 ultralight hiking shoes on [our hiking trip](http://www.hikeventures.c
 
 <a href="http://www.backcountry.com/adidas-outdoor-terrex-fast-r-gtx-hiking-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Terrex Fast R GTX</button></a> 
 
+---
+
 [Scarpa Zen Pro](http://www.backcountry.com/scarpa-zen-pro-hiking-shoe-mens)
 
 **Weight:** 480 grams
@@ -68,6 +78,8 @@ My Inov-8 ultralight hiking shoes on [our hiking trip](http://www.hikeventures.c
 
 <a href="http://www.backcountry.com/scarpa-zen-pro-hiking-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Scarpa Zen Pro</button></a> 
 
+---
+
 [Acrux2 FL GTX Approach](http://www.backcountry.com/arcteryx-acrux2-fl-approach-shoe-mens) 
 
 **Weight:** 492 grams
@@ -76,3 +88,21 @@ My Inov-8 ultralight hiking shoes on [our hiking trip](http://www.hikeventures.c
 
 
 <a href="http://www.backcountry.com/arcteryx-acrux2-fl-approach-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Acrux² FL GTX Approach</button></a> 
+
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Ultralight Hiking Shoes Suggestions";
+amzn_assoc_default_search_phrase = "scarpa zen pro";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "0d18f88262f19f39fc7a13f07ae2563b";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
