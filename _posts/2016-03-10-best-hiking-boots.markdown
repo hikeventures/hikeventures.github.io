@@ -104,7 +104,7 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Hiking Boot Suggestions";
-amzn_assoc_default_search_phrase = "Hiking Boots";
+amzn_assoc_default_search_phrase = "Hanwag Hiking Boots";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "0d18f88262f19f39fc7a13f07ae2563b";
 </script>
