@@ -85,6 +85,8 @@ My Inov-8 ultralight hiking shoes on [our hiking trip](http://www.hikeventures.c
 
 **Weight:** 492 grams
 
+The most innovative part in the Arcteryx Acrux2 FL GTX are probably the removable and interchangeable footwear liners for different weather and terrain conditions (for example use a more insulated layer if you are planning to go hiking in a colder environment). The Arcteryx Acrux2 FL GTX  comes with a GORE-TEX® liner makes the shoe waterproof. The Vibram® sole gives the Acrux2 also a safe grip in the field. The Arcteryx Acrux2 is also made of fast drying materials.
+
 <a  href="http://www.amazon.com/gp/product/B00O4CHAL2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00O4CHAL2&linkCode=as2&tag=hikeve-20&linkId=QBJ2UINAADDHALYZ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00O4CHAL2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00O4CHAL2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
