@@ -63,7 +63,7 @@ The Inov-8 Roclite 286 GTX is waterproof and offers natural movement and is made
 
 **Weight:** 619 grams
 
-
+The Arc'teryx Men's Bora2 Mid comes with the Arcteryx Adaptive Fit technology - a removable inner liner which can be replaced with a insulated mid liner for hiking in colder conditions. The Vibram® Arc’teryx Hiking Outsole provides traction with grip.
 
 <a href="http://www.backcountry.com/arcteryx-bora-mid-backpacking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Arc'teryx Men's Bora2 Mid</button></a> 
 
@@ -73,7 +73,7 @@ The Inov-8 Roclite 286 GTX is waterproof and offers natural movement and is made
 
 **Weight:** 659 grams
 
-
+The Scarpa R-EVOLUTION GTX is a supportive and light hiking boot for the mountains. The Gore-Tex Performance Comfort liner keeps your foot dry.
 
 <a href="http://www.backcountry.com/scarpa-r-evolution-gtx-backpacking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Scarpa R-EVOLUTION GTX</button></a> 
 
