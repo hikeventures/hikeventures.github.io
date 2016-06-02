@@ -8,6 +8,22 @@ description: Looking for light alternatives to heavy hiking boots? Here are the 
 category: articles
 tags: [articles, best, shoes]
 ---
+If you are into ultralight hiking then you are probably also interested into my buying guide for the best ultralight hiking shoes for 2016 which might be probably useful especially for those who have done traditional hiking and are trying to shed some weight.
+
+<!--more-->
+
+## Advantages of ultralight hiking shoes
+
+* They are very lightweight compared to traditional hiking or backpacking boots.
+* They don't need that much space to store them.
+* They dry faster.
+* Sometimes they costs are lower.
+
+## Disadvantages of ultralight hiking shoes
+
+* There is a chance that you will get wet feet since those shoes don't go over your ankles especially if you don't buy a GTX (waterproof) shoe.
+* Ultralight Hiking Shoes won't give you much support when carry a heavier backpack.
+
 
 
 [Inov-8 Roclite 282 GTX](http://www.backcountry.com/inov-8-roclite-282-gtx-trail-running-shoe-mens)
