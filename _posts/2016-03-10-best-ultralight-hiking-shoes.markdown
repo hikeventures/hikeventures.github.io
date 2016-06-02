@@ -59,12 +59,13 @@ My Inov-8 ultralight hiking shoes on [our hiking trip](http://www.hikeventures.c
 
 ---
 
-[Terrex Fast R GTX](http://www.backcountry.com/adidas-outdoor-terrex-fast-r-gtx-hiking-shoe-mens)
+[Adidas Terrex Fast R GTX](http://www.backcountry.com/adidas-outdoor-terrex-fast-r-gtx-hiking-shoe-mens)
 
 **Weight:** 411 grams
 
 <a  href="http://www.amazon.com/gp/product/B00L1RI2T2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00L1RI2T2&linkCode=as2&tag=hikeve-20&linkId=FZUPTISQVG3NFLKT"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00L1RI2T2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00L1RI2T2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+The Adidas Terrex Fast R GTX are light athletic shoes which are - due to their protective weldings and a grippy Continental™ Rubber outsole - also suitable to wear on the mountain. 
 
 <a href="http://www.backcountry.com/adidas-outdoor-terrex-fast-r-gtx-hiking-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Terrex Fast R GTX</button></a> 
 
@@ -76,6 +77,7 @@ My Inov-8 ultralight hiking shoes on [our hiking trip](http://www.hikeventures.c
 
 <a  href="http://www.amazon.com/gp/product/B001Q09DFG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001Q09DFG&linkCode=as2&tag=hikeve-20&linkId=FSSAENSQWIPARDEA"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001Q09DFG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B001Q09DFG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+The Scarpa Zen Pro comes with a Vibram sole and PU-injected leather along the side to improve abrasion resistance. The Scarpa Zen Pro is a quite popular shoe and many like it's grip and feel on the foot.
 
 <a href="http://www.backcountry.com/scarpa-zen-pro-hiking-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Scarpa Zen Pro</button></a> 
 
