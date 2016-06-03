@@ -137,7 +137,7 @@ The Vasque Breeze 2.0 GTX comes with GORE-TEX® with Extended Comfort Technology
 ---
 
 ## Regular hiking boots vs. shell boots
-If you live in Europe then you could also have a look on shell boots like the [Lundhags Jaure Light](http://www.lundhags.com/Products/Boots/Shell-Boots/3-layer-Boots/Jaure-Light-Mid/(color)/923) but they are mainly sold in Europe. Shell boots are a bit different than regular hiking boots and require you to wear 2 pair of socks. However, they dry faster if they get wet since there is no thick liner in the boots which require to dry. You just have to dry your socks and and the shoe inserts. The leather of the shoe will be a bit moisture but with proper <a href="http://amzn.to/287Cjc1" rel="nofollow">merino wool socks</a> you probably won't notice much of it.
+If you live in Europe then you could also have a look on shell boots like the [Lundhags Jaure Light](http://www.lundhags.com/Products/Boots/Shell-Boots/3-layer-Boots/Jaure-Light-Mid/(color)/923) but they are mainly sold in Europe. Shell boots are a bit different than regular hiking boots and require you to wear 2 pair of socks. However, they dry faster if they get wet since there is no thick liner in the boots which require to dry. You just have to dry your socks and and the shoe inserts. The leather of the shoe will be a bit moisture but with proper <a href="http://amzn.to/287Cjc1" rel="nofollow">merino wool socks</a> you probably won't notice much of it. The [Arc'teryx Men's Bora2 Mid](http://www.backcountry.com/arcteryx-bora-mid-backpacking-boot-mens) is another example of a shell boot.
 
 ---
 
