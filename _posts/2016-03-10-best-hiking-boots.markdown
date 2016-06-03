@@ -110,6 +110,15 @@ The Scarpa R-EVOLUTION GTX is a supportive and light hiking boot for the mountai
 
 <a href="http://www.backcountry.com/scarpa-r-evolution-gtx-backpacking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Scarpa R-EVOLUTION GTX</button></a> 
 
+---
+
+[Merrell Moab Ventilator Mid](http://www.moosejaw.com/moosejaw/shop/product_Merrell-Men-s-Moab-Ventilator-Mid-Boot_10110157_10208_10000001_-1_)
+
+**Weight:** 879 grams
+
+<a  href="http://www.amazon.com/gp/product/B000KR3COE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000KR3COE&linkCode=as2&tag=hikeve-20&linkId=IZYEREDONE4PYKOS"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000KR3COE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B000KR3COE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Merrell-Men-s-Moab-Ventilator-Mid-Boot_10110157_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Merrell Moab Ventilator Mid</button></a> 
 
 ---
 
