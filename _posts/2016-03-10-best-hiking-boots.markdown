@@ -128,7 +128,7 @@ The Merrell Moab Ventilator Mid comes with a breathable mesh lining and a Vibram
 
 **Weight:** 1140 grams
 
-<a  href="http://www.amazon.com/gp/product/B000KR3COE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000KR3COE&linkCode=as2&tag=hikeve-20&linkId=IZYEREDONE4PYKOS"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000KR3COE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B000KR3COE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="http://www.amazon.com/gp/product/B008O5B0OS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008O5B0OS&linkCode=as2&tag=hikeve-20&linkId=A4NSRZ3BKK7BEAOB"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008O5B0OS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B008O5B0OS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The Vasque Breeze 2.0 GTX comes with GORE-TEX® with Extended Comfort Technology to keep your foot dry while the molded rubber toe cap will protect your toes. The Vasque Breeze 2.0 GTX is a boot which can be worn for multiple day hikes and will give you stability if you have to carry more load.
 
