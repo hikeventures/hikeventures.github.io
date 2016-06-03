@@ -139,8 +139,12 @@ The Vasque Breeze 2.0 GTX comes with GORE-TEX® with Extended Comfort Technology
 ## Regular hiking boots vs. shell boots
 If you live in Europe then you could also have a look on shell boots like the [Lundhags Jaure Light](http://www.lundhags.com/Products/Boots/Shell-Boots/3-layer-Boots/Jaure-Light-Mid/(color)/923) but they are mainly sold in Europe. Shell boots are a bit different than regular hiking boots and require you to wear 2 pair of socks. However, they dry faster if they get wet since there is no thick liner in the boots which require to dry. You just have to dry your socks and and the shoe inserts. The leather of the shoe will be a bit moisture but with proper <a href="http://amzn.to/287Cjc1" rel="nofollow">merino wool socks</a> you probably won't notice much of it.
 
+---
+
 ## Regular hiking boots vs. ultralight hiking boots
 If you plan a hike in less demanding terrain or where you don't need much of ankle support because you don't have to carry a heavy backpack then you could also have a look on [lightweight hiking shoes](http://www.hikeventures.com/best-ultralight-hiking-shoes/) as an alternative to regular hiking boots. You will probably enjoy your hike more with lighter hiking boots.
+
+---
 
 ## Conclusion
 A proper hiking shoe is one of the most important item on your hiking gear list. Consider the environment where you would like to hike. Do you want lighter or more stable hiking boots? A higher shaft gives you more stability if you have to carry a heavy backpack. It might be also a good idea to get regular hiking boots and lightweight hiking shoes if you are planning to do both - multiple and day hikes.
