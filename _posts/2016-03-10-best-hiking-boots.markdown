@@ -124,6 +124,18 @@ The Merrell Moab Ventilator Mid comes with a breathable mesh lining and a Vibram
 
 ---
 
+[Vasque Breeze 2.0 GTX](http://www.moosejaw.com/moosejaw/shop/product_Merrell-Men-s-Moab-Ventilator-Mid-Boot_10110157_10208_10000001_-1_)
+
+**Weight:** 1140 grams
+
+<a  href="http://www.amazon.com/gp/product/B000KR3COE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000KR3COE&linkCode=as2&tag=hikeve-20&linkId=IZYEREDONE4PYKOS"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000KR3COE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B000KR3COE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+The Vasque Breeze 2.0 GTX comes with GORE-TEX® with Extended Comfort Technology to keep your foot dry while the molded rubber toe cap will protect your toes. The Vasque Breeze 2.0 GTX is a boot which can be worn for multiple day hikes and will give you stability if you have to carry more load.
+
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Merrell-Men-s-Moab-Ventilator-Mid-Boot_10110157_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Vasque Breeze 2.0 GTX</button></a> 
+
+---
+
 ## Conclusion
 A proper hiking shoe is one of the most important item on your hiking gear list. Consider the environment where you would like to hike. Do you want lighter or more stable hiking boots? My personal preference goes towards the Adidas Terrex Fast R Mid GTX or the Hanwag Banks GTX. I also like my Lundhags Jaure Light but they are mainly sold in Europe. Have a look on [lightweight hiking shoes](http://www.hikeventures.com/best-ultralight-hiking-shoes/) if you are planning less demanding trail hikes and day trips.
 
