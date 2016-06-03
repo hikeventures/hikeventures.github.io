@@ -94,6 +94,8 @@ The Arc'teryx Men's Bora2 Mid comes with the Arcteryx Adaptive Fit technology - 
 
 **Weight:** 640 grams
 
+<a href="https://www.amazon.com/gp/product/B00KWK2JSE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KWK2JSE&linkCode=as2&tag=hikeve-20&linkId=8519013172ecaf7c4ca0d337dcf6a87e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00KWK2JSE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00KWK2JSE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 The Salomon Quest 4D 2 GTX has been developed through experience in trail running and offers a great fit and stability. The Contagrip® soles can handle dry, hard, loose and wet surfaces.
 
 <a href="http://www.backcountry.com/salomon-quest-4d-2-gtx-backpacking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Salomon QUEST 4D 2 GTX</button></a> 
