@@ -137,7 +137,11 @@ The Vasque Breeze 2.0 GTX comes with GORE-TEX® with Extended Comfort Technology
 ---
 
 ## Conclusion
-A proper hiking shoe is one of the most important item on your hiking gear list. Consider the environment where you would like to hike. Do you want lighter or more stable hiking boots? My personal preference goes towards the Adidas Terrex Fast R Mid GTX or the Hanwag Banks GTX. I also like my Lundhags Jaure Light but they are mainly sold in Europe. Have a look on [lightweight hiking shoes](http://www.hikeventures.com/best-ultralight-hiking-shoes/) if you are planning less demanding trail hikes and day trips.
+A proper hiking shoe is one of the most important item on your hiking gear list. Consider the environment where you would like to hike. Do you want lighter or more stable hiking boots? A higher shaft gives you more stability if you have to carry a heavy backpack. 
+
+If you live in Europe then you could also have a look on shell boots like the [Lundhags Jaure Light](http://www.lundhags.com/Products/Boots/Shell-Boots/3-layer-Boots/Jaure-Light-Mid/(color)/923) but they are mainly sold in Europe. Shell boots are a bit different than regualar hiking boots and require you to wear 2 pair of socks. However, they dry faster if they get wet since there is no thick liner in the boots.
+
+Have a look on [lightweight hiking shoes](http://www.hikeventures.com/best-ultralight-hiking-shoes/) if you are planning less demanding trail hikes and day trips.
 
 ---
 
