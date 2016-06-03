@@ -44,6 +44,11 @@ On our blog we are reviewing outdoor gear which we receive from well known outdo
 
 <hr>
 
+## Blog Collaboration
+We maintain a list of the [http://www.hikeventures.com/blogs/](best outdoor blogs). Contact us if you want to become part of it.
+
+<hr>
+
 ## Affiliate Links
 On some of our pages you will find affiliate links. HikeVentures is a participant in AvantLink and the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
 
