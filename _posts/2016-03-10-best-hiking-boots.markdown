@@ -124,6 +124,18 @@ The Merrell Moab Ventilator Mid comes with a breathable mesh lining and a Vibram
 
 ---
 
+[Lowa Renegade GTX® Mid](http://www.backcountry.com/lowa-renegade-gtx-mid-hiking-boot-mens)
+
+**Weight:** 1110 grams
+
+The Lowa Renegade GTX® Mid is one of Lowa's best selling hiking shoe which is waterproof and offers stability and comfort. The VIBRAM® Evo sole offers good grip.
+
+<a  href="http://www.amazon.com/gp/product/B002MPPV8M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002MPPV8M&linkCode=as2&tag=hikeve-20&linkId=5DHA3LOIUZFVBQNY"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002MPPV8M&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B002MPPV8M" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<a href="http://www.backcountry.com/lowa-renegade-gtx-mid-hiking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Lowa Renegade GTX® Mid</button></a> 
+
+---
+
 [Vasque Breeze 2.0 GTX](http://www.moosejaw.com/moosejaw/shop/product_Merrell-Men-s-Moab-Ventilator-Mid-Boot_10110157_10208_10000001_-1_)
 
 **Weight:** 1140 grams
