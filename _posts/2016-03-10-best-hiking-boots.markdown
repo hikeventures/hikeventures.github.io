@@ -1,13 +1,13 @@
 ---
 layout: post
-title: The 5 Best Hiking Boots for 2016
+title: The Best Hiking Boots for 2016
 date: 2016-03-02 09:13:12 +0200
 comments: true
 description: Looking for new hiking boots? Here are the best boots for hiking and backpacking for 2016
 category: articles
 tags: [articles, best, shoes]
 ---
-Proper hiking boots are important if you are planning to hike in the mountains or with a heavy backpack. For day trips which are not that demanding [http://www.hikeventures.com/best-ultralight-hiking-shoes/](lightweight hiking shoes) could be an alternative to traditional hiking boots. However, after my trips in the [Alps](http://www.hikeventures.com/e5-crossing-the-alps-from-germany-to-italy/) and in [Swedish Lapland](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) I am not such a fan of ultralight hiking shoes and would rather take a pair of proper hiking boots with me.
+Proper hiking boots are important if you are planning to hike in the mountains or with a heavy backpack. For day trips which are not that demanding [http://www.hikeventures.com/best-ultralight-hiking-shoes/](lightweight hiking shoes) could be an alternative to traditional hiking boots. However, after my trips in the [Alps](http://www.hikeventures.com/e5-crossing-the-alps-from-germany-to-italy/) and in [Swedish Lapland](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) I am not such a fan of ultralight hiking shoes and would rather take a pair of proper hiking boots with me. I have sorted the shoes in this article by weight so you can select the lightest option if you are weight sensitive. 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27313686292/in/dateposted-public/" title="Lundhags Jaure Light"><img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="1024" height="643" alt="The best Hiking Boots 2016 - Lundhags Jaure Light"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
@@ -56,13 +56,25 @@ The Adidas Terrex Fast R Mid GTX can - despite it's low weight - also be worn in
 
 ---
 
+[KEEN Targhee II Mid](http://www.backcountry.com/keen-targhee-ii-mid-tac-hiking-boot-mens)
+
+**Weight:** 494 grams
+
+<a  href="http://www.amazon.com/gp/product/B00E0JHEWE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00E0JHEWE&linkCode=as2&tag=hikeve-20&linkId=NW5PAHXUPAEXB4ZE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00E0JHEWE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00E0JHEWE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+The Keen targhee II Mid is made of Nubuk leather and a waterproof breathable membrane. The EVA Footbed of the KEEN Targhee II Mid can be removed and the ESS shank offers torsion stability.
+
+<a href="http://www.backcountry.com/keen-targhee-ii-mid-tac-hiking-boot-mens"><button type="button" class="btn btn-danger">Read more about the KEEN Targhee II Mid</button></a> 
+
+---
+
 [Hanwag Banks GTX](https://www.rei.com/product/100194/hanwag-banks-gtx-boots-mens)
 
 **Weight:** 610 grams
 
 <a href="https://www.amazon.com/gp/product/B00YT7F7N0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00YT7F7N0&linkCode=as2&tag=hikeve-20&linkId=d9335355600b6ebb12050a8b9a514ec6"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00YT7F7N0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00YT7F7N0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-The Hanwag Banks are one of my favourite lightweigh hiking boots. Their upper come in Cordura/Nubuk leather and their GORE-TEX lining makes them waterproof and breathable. The rubber toe caps protect your toes and there is also a shock absorber in the heel.
+The Hanwag Banks upper comes with Cordura/Nubuk leather and the GORE-TEX lining makes the boots waterproof and breathable. The rubber toe caps protect your toes and there is also a shock absorber in the heel.
 
 <a href="https://www.rei.com/product/100194/hanwag-banks-gtx-boots-mens"><button type="button" class="btn btn-danger">Read more about the Hanwag Banks GTX</button></a> 
 
@@ -77,6 +89,15 @@ The Hanwag Banks are one of my favourite lightweigh hiking boots. Their upper co
 The Arc'teryx Men's Bora2 Mid comes with the Arcteryx Adaptive Fit technology - a removable inner liner which can be replaced with a insulated mid liner for hiking in colder conditions. The Vibram® Arc’teryx Hiking Outsole provides traction with grip.
 
 <a href="http://www.backcountry.com/arcteryx-bora-mid-backpacking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Arc'teryx Men's Bora2 Mid</button></a> 
+
+---
+[Salomon QUEST 4D 2 GTX®](http://www.backcountry.com/salomon-quest-4d-2-gtx-backpacking-boot-mens)
+
+**Weight:** 640 grams
+
+The Salomon Quest 4D 2 GTX has been developed through experience in trail running and offers a great fit and stability. The Contagrip® soles can handle dry, hard, loose and wet surfaces.
+
+<a href="http://www.backcountry.com/salomon-quest-4d-2-gtx-backpacking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Salomon QUEST 4D 2 GTX</button></a> 
 
 ---
 
