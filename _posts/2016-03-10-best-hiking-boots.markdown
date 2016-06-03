@@ -159,7 +159,7 @@ If you plan a hike in less demanding terrain or where you don't need much of ank
 ---
 
 ## Conclusion
-A proper hiking shoe is one of the most important item on your hiking gear list. Consider the environment where you would like to hike. Do you want lighter or more stable hiking boots? A higher shaft gives you more stability if you have to carry a heavy backpack. It might be also a good idea to get regular hiking boots and lightweight hiking shoes if you are planning to do both - multiple and day hikes.
+A proper hiking shoe is one of the most important item on your hiking gear list. Consider the environment where you would like to hike. Do you want lighter or more stable hiking boots? A higher shaft gives you more stability if you have to carry a heavy backpack. It might be also a good idea to get regular hiking boots and lightweight hiking shoes if you are planning to do both - multiple days and day hikes.
 
 ---
 
