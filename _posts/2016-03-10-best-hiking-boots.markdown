@@ -51,7 +51,6 @@ The Inov-8 Roclite 286 GTX is waterproof and offers natural movement and is made
 
 The Adidas Terrex Fast R Mid GTX can - despite it's low weight - also be worn in the mountain. The shoes come with protective weldings and a grippy Continental™ Rubber outsole for a good grip on the trail.
 
-
 <a href="http://www.backcountry.com/adidas-outdoor-terrex-fast-r-mid-gtx-hiking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Adidas Terrex Fast R Mid GTX</button></a> 
 
 ---
