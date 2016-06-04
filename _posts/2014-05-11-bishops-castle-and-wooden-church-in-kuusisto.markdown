@@ -36,13 +36,13 @@ The castle was built in the 14th century and served as a fortification until it 
 
 <a href="https://www.flickr.com/photos/90204224@N07/13974797660" ><img src="https://farm8.staticflickr.com/7308/13974797660_d810f5f6c3_b.jpg" width="1024" height="683" ></a>
 
-<a href="https://www.flickr.com/photos/90204224@N07/13974797519" ><img src="https://farm3.staticflickr.com/2916/13974797519_20b822dcfe_b.jpg" width="1024" height="683" ></a>
+<a href="https://www.flickr.com/photos/90204224@N07/13974797519" ><img src="https://farm3.staticflickr.com/2916/13974797519_20b822dcfe_b.jpg" width="1024" height="683" alt="history architecture finland turku"></a>
 
-<a href="https://www.flickr.com/photos/90204224@N07/13974894270" ><img src="https://farm8.staticflickr.com/7441/13974894270_fb06cd0957_b.jpg" width="683" height="1024" ></a>
+<a href="https://www.flickr.com/photos/90204224@N07/13974894270" ><img src="https://farm8.staticflickr.com/7441/13974894270_fb06cd0957_b.jpg" width="683" height="1024" alt="historical building turku kuusisto" ></a>
 
-<a href="https://www.flickr.com/photos/90204224@N07/13974944378" ><img src="https://farm8.staticflickr.com/7438/13974944378_96d1fd77bf_b.jpg" width="1024" height="683" ></a>
+<a href="https://www.flickr.com/photos/90204224@N07/13974944378" ><img src="https://farm8.staticflickr.com/7438/13974944378_96d1fd77bf_b.jpg" width="1024" height="683" alt="old castles around turku" ></a>
 
-<a href="https://www.flickr.com/photos/90204224@N07/13975011268" ><img src="https://farm8.staticflickr.com/7370/13975011268_50ff110d67_b.jpg" width="1024" height="683" ></a>
+<a href="https://www.flickr.com/photos/90204224@N07/13975011268" ><img src="https://farm8.staticflickr.com/7370/13975011268_50ff110d67_b.jpg" width="1024" height="683" alt="ruins kuusisto finland turku sightseeing tourism highlights" ></a>
 
 ## Links
 <a href="http://www.movescount.com/moves/move31394610" target="_blank">GPS Data</a>
