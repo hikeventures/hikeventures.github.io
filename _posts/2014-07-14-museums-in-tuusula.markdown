@@ -10,9 +10,9 @@ tags: [destinations, tuusula, finland, museums]
 
 This weekend I took my bicycle and cycled 25 km around lake Tuusula. The route is famous for its <a href="http://www.tuusulanrantatie.fi" target="_blank">'Rantatie'</a> where many Finnish artists lived in the 19th century and influenced Finnish culture.
 
-<a href="https://www.flickr.com/photos/90204224@N07/14623880836" title="Tusula Museum"><img src="https://farm3.staticflickr.com/2915/14623880836_d06811e68f_b.jpg" width="1024" height="683" alt="Tuusula Museum"></a><!--more-->
+<a href="https://www.flickr.com/photos/90204224@N07/14623880836" title="Tusula Lotta Museum"><img src="https://farm3.staticflickr.com/2915/14623880836_d06811e68f_b.jpg" width="1024" height="683" alt="Tuusula Lotta Museum sightseeing travel"></a><!--more-->
 
-<a href="https://www.flickr.com/photos/90204224@N07/14460129088"><img src="https://farm6.staticflickr.com/5477/14460129088_e728f14293_b.jpg" width="1024" height="683"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/14460129088"><img src="https://farm6.staticflickr.com/5477/14460129088_e728f14293_b.jpg" width="1024" height="683" alt="Tuusula rantatie museums sightseeing">></a>
  
 <a href="https://www.flickr.com/photos/90204224@N07/14460109268"><img src="https://farm4.staticflickr.com/3907/14460109268_d839f95f8d_b.jpg" width="1024" height="683"></a>
  On the trip there were many traditional houses.
@@ -23,13 +23,13 @@ This weekend I took my bicycle and cycled 25 km around lake Tuusula. The route i
  
 <a href="https://www.flickr.com/photos/90204224@N07/14648620844"><img src="https://farm4.staticflickr.com/3869/14648620844_0115691b04_b.jpg" width="683" height="1024"></a>
  
-<a href="https://www.flickr.com/photos/90204224@N07/14647580841"><img src="https://farm6.staticflickr.com/5579/14647580841_a0d4383fd5_b.jpg" width="1024" height="683"></a>
- 
+<a href="https://www.flickr.com/photos/90204224@N07/14647580841"><img src="https://farm6.staticflickr.com/5579/14647580841_a0d4383fd5_b.jpg" width="1024" height="683" alt="Halosenniemi"></a>
+  Art Museum tuusula
 <a href="http://www.halosenniemi.fi" target="_blank">Halosenniemi</a> - Art museum dedicated to <a href="http://en.wikipedia.org/wiki/Pekka_Halonen" target="_blank">Pekka Halonen</a> (1865 - 1933) - a painter of Finnish landscapes and people 
 
 <a href="https://www.flickr.com/photos/90204224@N07/14650824055"><img src="https://farm4.staticflickr.com/3872/14650824055_b40fa4eabc_b.jpg" width="1024" height="683"></a>
  
-<a href="https://www.flickr.com/photos/90204224@N07/14464444747"><img src="https://farm6.staticflickr.com/5580/14464444747_199cc3dc22_b.jpg" width="683" height="1024"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/14464444747"><img src="https://farm6.staticflickr.com/5580/14464444747_199cc3dc22_b.jpg" width="683" height="1024" alt="Pekka Halonen house"></a>
  
 Big window of Pekka Halonens house. 
 
@@ -45,7 +45,7 @@ The house is sourrounded by beautiful landscape
  
 <a href="https://www.flickr.com/photos/90204224@N07/14647622671"><img src="https://farm6.staticflickr.com/5501/14647622671_a472dc5e1d_b.jpg" width="1024" height="683"></a>
  
-<a href="https://www.flickr.com/photos/90204224@N07/14646430102"><img src="https://farm3.staticflickr.com/2916/14646430102_3561b0a921_b.jpg" width="1024" height="683"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/14646430102"><img src="https://farm3.staticflickr.com/2916/14646430102_3561b0a921_b.jpg" width="1024" height="683" alt="Lotta Svart"></a>
  
 <a href="http://www.lottamuseo.fi/en/" target="_blank">Lotta Museum</a> is dedicated to <a href="http://en.wikipedia.org/wiki/Lotta_Svärd" target="_blank">Lotta Svart</a> - voluntary paramilitary organisation for women formed in 1918
  
