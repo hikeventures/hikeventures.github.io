@@ -11,12 +11,12 @@ tags: [reviews,petzl, carabiner]
 
 The Petzl Attache 3D is a new version of the Petzl Attache carabiner which is 31 percent lighter than the original. I will use this carabiner mainly to attach stuff to my backpack which I consider as quite handy especially after my last trip to <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">Sarek</a>.
    
-<img src="http://farm8.staticflickr.com/7374/11703861195_10eb9ccfd2_c.jpg">
+<img src="http://farm8.staticflickr.com/7374/11703861195_10eb9ccfd2_c.jpg alt="Petzl Attache 3D review">
 
 ## Features
 The Petzl Attache 3D is 55 grams light, has a barrel lock and a good design.
 
-<img src="http://farm4.staticflickr.com/3830/11704221924_eab1b4e842_c.jpg" alt="Petzl Attache 3D">
+<img src="http://farm4.staticflickr.com/3830/11704221924_eab1b4e842_c.jpg" alt="Petzl Attache 3D preview">
 
 Petzl Attache 3D gate barrel locked.
 
