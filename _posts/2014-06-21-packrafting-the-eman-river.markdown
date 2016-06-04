@@ -66,11 +66,21 @@ Konstantin exercised a little bit with his packraft in case he would fell off hi
 
 After our break we enjoyed more rapids.
 
-<a href="https://www.flickr.com/photos/90204224@N07/14464867451/" title="Påskallavik Packrafting"><img src="https://farm6.staticflickr.com/5475/14464867451_4125d8f360_b.jpg" width="1024" height="683" alt="Påskallavik Packrafting"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/14464867451/" title="Påskallavik Packrafting"><img src="https://farm6.staticflickr.com/5475/14464867451_4125d8f360_b.jpg" width="1024" height="683" alt="Påskallavik Packrafting alpacka raft"></a>
 
+We finally got out of the river in Påskallavik where we got immediately attacked by black flies again.
 
 <a href="https://www.flickr.com/photos/90204224@N07/14281652678/" title="Påskallavik Sunset"><img src="https://farm3.staticflickr.com/2901/14281652678_6376fa8a21_b.jpg" width="1024" height="683" alt="Påskallavik Sunset"></a>
-We finally got out of the river in Påskallavik where we got immediately attacked by black flies again.<a href="https://www.flickr.com/photos/90204224@N07/14464879951/" title="Påskallavik Harbour"><img src="https://farm3.staticflickr.com/2928/14464879951_43be6dde32_b.jpg" width="1024" height="683" alt="Påskallavik Harbour"></a>After we deflated our packrafts we decided to walk to the city center and to stay the night at the coast.<a href="https://www.flickr.com/photos/90204224@N07/14281794127/" title="Påskallavik Camping"><img src="https://farm3.staticflickr.com/2907/14281794127_0f825345f5_b.jpg" width="1024" height="683" alt="Påskallavik Camping"></a>Even so we slept under the open sky we were able to sleep well until 9 am.In general, the route seems to be manageable also for "experienced beginners" if you know where to step out and skip the risky parts (especially where the dams are or if you see obstacles like a fallen tree on a rapid). If you have only time for 1 day we would definitely recommend the part between Fliseryd and Påskallavik.
+
+After we deflated our packrafts we decided to walk to the city center and to stay the night at the coast.
+
+<a href="https://www.flickr.com/photos/90204224@N07/14464879951/" title="Påskallavik Harbour"><img src="https://farm3.staticflickr.com/2928/14464879951_43be6dde32_b.jpg" width="1024" height="683" alt="Påskallavik Harbour"></a>
+
+Even so we slept under the open sky we were able to sleep well until 9 am.
+
+<a href="https://www.flickr.com/photos/90204224@N07/14281794127/" title="Påskallavik Camping"><img src="https://farm3.staticflickr.com/2907/14281794127_0f825345f5_b.jpg" width="1024" height="683" alt="Påskallavik Camping"></a>
+
+In general, the route seems to be manageable also for "experienced beginners" if you know where to step out and skip the risky parts (especially where the dams are or if you see obstacles like a fallen tree on a rapid). If you have only time for 1 day we would definitely recommend the part between Fliseryd and Påskallavik.
 
 ## Links
 <a href="http://www.movescount.com/moves/move33882499" target="_blank">GPS Data Day 1</a>
