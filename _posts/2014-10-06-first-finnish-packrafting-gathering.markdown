@@ -205,45 +205,45 @@ Thanks to [Jaakko][48] who organised the event. Hope to see you all next time ag
 [50]:	http://www.timoanttalainen.com
 [51]:	http://korpijaakko.com
 
-[image-1]:	https://farm4.staticflickr.com/3933/15455162392_6e03ca6687_b.jpg
-[image-2]:	https://farm3.staticflickr.com/2950/15268839149_e33abf4966_b.jpg
-[image-3]:	https://farm4.staticflickr.com/3927/15455263722_c485aa5375_b.jpg
-[image-4]:	https://farm4.staticflickr.com/3931/15269053667_56c38068ee_b.jpg
-[image-5]:	https://farm4.staticflickr.com/3927/15268881899_fd7b4ca37b_b.jpg
-[image-6]:	https://farm4.staticflickr.com/3932/15269025698_f3ec17e50a_b.jpg
-[image-7]:	https://farm4.staticflickr.com/3931/15452446561_b7b98fa574_b.jpg
-[image-8]:	https://farm3.staticflickr.com/2941/15455579955_db47a21efa_b.jpg
-[image-9]:	https://farm4.staticflickr.com/3928/15268853790_1286a3528c_b.jpg
-[image-10]:	https://farm3.staticflickr.com/2948/15268995267_913ba7bdb3_b.jpg
-[image-11]:	https://farm3.staticflickr.com/2941/15452389991_b2c13f07c6_b.jpg
-[image-12]:	https://farm3.staticflickr.com/2946/15452374731_35fbc36e93_b.jpg
-[image-13]:	https://farm4.staticflickr.com/3932/15268730309_8321a4b215_b.jpg
-[image-14]:	https://farm6.staticflickr.com/5601/15268915517_4e60767bd6_b.jpg
-[image-15]:	https://farm4.staticflickr.com/3935/15268913847_e44dc86f6c_b.jpg
-[image-16]:	https://farm4.staticflickr.com/3929/15268857228_5cc24bc834_b.jpg
-[image-17]:	https://farm3.staticflickr.com/2945/15455113192_d90fc880eb_b.jpg
-[image-18]:	https://farm3.staticflickr.com/2950/15268752580_388f66764c_b.jpg
-[image-19]:	https://farm4.staticflickr.com/3935/15432345276_02430c1fe8_b.jpg
-[image-20]:	https://farm6.staticflickr.com/5598/15268684439_c7947a7d89_b.jpg
-[image-21]:	https://farm6.staticflickr.com/5600/15268839808_34b519d199_b.jpg
-[image-22]:	https://farm4.staticflickr.com/3928/15268675729_42597bf87b_b.jpg
-[image-23]:	https://farm3.staticflickr.com/2946/15268717108_1f7d6f0deb_b.jpg
-[image-24]:	https://farm4.staticflickr.com/3929/15268612709_916e979de0_b.jpg
-[image-25]:	https://farm4.staticflickr.com/3935/15455354385_70e4ce3834_b.jpg
-[image-26]:	https://farm6.staticflickr.com/5600/15455033882_22ac28bbe8_b.jpg
-[image-27]:	https://farm4.staticflickr.com/3929/15268686900_cbfa5ee62f_b.jpg
-[image-28]:	https://farm4.staticflickr.com/3928/15268644430_feef258e9b_b.jpg
-[image-29]:	https://farm6.staticflickr.com/5600/15268775077_c497cd1aab_b.jpg
-[image-30]:	https://farm6.staticflickr.com/5601/15452188051_ab58bc8153_b.jpg
-[image-31]:	https://farm4.staticflickr.com/3935/15452172581_fbe32542cb_b.jpg
-[image-32]:	https://farm6.staticflickr.com/5598/15432222986_fdee4c3dc9_b.jpg
-[image-33]:	https://farm3.staticflickr.com/2949/15432217426_7c63863b6a_b.jpg
-[image-34]:	https://farm6.staticflickr.com/5599/15432207786_a8f288d013_b.jpg
-[image-35]:	https://farm6.staticflickr.com/5599/15455270295_d63b539a6d_b.jpg
-[image-36]:	https://farm3.staticflickr.com/2947/15268649098_23a492f6d2_b.jpg
-[image-37]:	https://farm4.staticflickr.com/3931/15268707397_8ae234a594_b.jpg
-[image-38]:	https://farm4.staticflickr.com/3932/15268665278_341d3b2c00_b.jpg
-[image-39]:	https://farm3.staticflickr.com/2941/15455291595_630056a7ae_b.jpg
-[image-40]:	https://farm4.staticflickr.com/3933/15268494279_8f44b6d6c4_b.jpg
-[image-41]:	https://farm3.staticflickr.com/2948/15268537980_3f0ec7b39a_b.jpg
-[image-42]:	https://farm6.staticflickr.com/5598/15455255775_da9af934a6_b.jpg
+[image-1]:	https://farm4.staticflickr.com/3933/15455162392_6e03ca6687_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-2]:	https://farm3.staticflickr.com/2950/15268839149_e33abf4966_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-3]:	https://farm4.staticflickr.com/3927/15455263722_c485aa5375_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-4]:	https://farm4.staticflickr.com/3931/15269053667_56c38068ee_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-5]:	https://farm4.staticflickr.com/3927/15268881899_fd7b4ca37b_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-6]:	https://farm4.staticflickr.com/3932/15269025698_f3ec17e50a_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-7]:	https://farm4.staticflickr.com/3931/15452446561_b7b98fa574_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-8]:	https://farm3.staticflickr.com/2941/15455579955_db47a21efa_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-9]:	https://farm4.staticflickr.com/3928/15268853790_1286a3528c_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-10]:	https://farm3.staticflickr.com/2948/15268995267_913ba7bdb3_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-11]:	https://farm3.staticflickr.com/2941/15452389991_b2c13f07c6_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-12]:	https://farm3.staticflickr.com/2946/15452374731_35fbc36e93_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-13]:	https://farm4.staticflickr.com/3932/15268730309_8321a4b215_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-14]:	https://farm6.staticflickr.com/5601/15268915517_4e60767bd6_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-15]:	https://farm4.staticflickr.com/3935/15268913847_e44dc86f6c_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-16]:	https://farm4.staticflickr.com/3929/15268857228_5cc24bc834_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-17]:	https://farm3.staticflickr.com/2945/15455113192_d90fc880eb_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-18]:	https://farm3.staticflickr.com/2950/15268752580_388f66764c_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-19]:	https://farm4.staticflickr.com/3935/15432345276_02430c1fe8_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-20]:	https://farm6.staticflickr.com/5598/15268684439_c7947a7d89_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-21]:	https://farm6.staticflickr.com/5600/15268839808_34b519d199_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-22]:	https://farm4.staticflickr.com/3928/15268675729_42597bf87b_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-23]:	https://farm3.staticflickr.com/2946/15268717108_1f7d6f0deb_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-24]:	https://farm4.staticflickr.com/3929/15268612709_916e979de0_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-25]:	https://farm4.staticflickr.com/3935/15455354385_70e4ce3834_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-26]:	https://farm6.staticflickr.com/5600/15455033882_22ac28bbe8_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-27]:	https://farm4.staticflickr.com/3929/15268686900_cbfa5ee62f_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-28]:	https://farm4.staticflickr.com/3928/15268644430_feef258e9b_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-29]:	https://farm6.staticflickr.com/5600/15268775077_c497cd1aab_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-30]:	https://farm6.staticflickr.com/5601/15452188051_ab58bc8153_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-31]:	https://farm4.staticflickr.com/3935/15452172581_fbe32542cb_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-32]:	https://farm6.staticflickr.com/5598/15432222986_fdee4c3dc9_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-33]:	https://farm3.staticflickr.com/2949/15432217426_7c63863b6a_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-34]:	https://farm6.staticflickr.com/5599/15432207786_a8f288d013_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-35]:	https://farm6.staticflickr.com/5599/15455270295_d63b539a6d_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-36]:	https://farm3.staticflickr.com/2947/15268649098_23a492f6d2_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-37]:	https://farm4.staticflickr.com/3931/15268707397_8ae234a594_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-38]:	https://farm4.staticflickr.com/3932/15268665278_341d3b2c00_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-39]:	https://farm3.staticflickr.com/2941/15455291595_630056a7ae_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-40]:	https://farm4.staticflickr.com/3933/15268494279_8f44b6d6c4_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-41]:	https://farm3.staticflickr.com/2948/15268537980_3f0ec7b39a_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
+[image-42]:	https://farm6.staticflickr.com/5598/15455255775_da9af934a6_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
