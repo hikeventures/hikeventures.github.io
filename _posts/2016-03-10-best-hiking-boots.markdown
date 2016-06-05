@@ -165,6 +165,96 @@ A proper hiking shoe is one of the most important item on your hiking gear list.
 
 ---
 
+## What is the average hiking boot weight
+The average hiking boot weight is probably between 400 and 600 grams per shoe. There are also lightwieght hiking shoes available which weight below 300 grams per shoe.
+
+## Hiking boot weight comparison
+Stable hiking boots with a high shaft weight usually more than [mid](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=low+hiking+boots) hiking boots or [low](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=low+hiking+boots) hiking boots. Sole, toe protection and inner shoe liner also contribute to the weight of hiking boots. If you want to compare the weight of hiking boots then it's a good idea to compare those hiking boots components as well.
+
+## Are hiking boot bags useful?
+Sometimes it's a good idea to pack your hiking boots into a hiking boot bag to keep the dirt away from your other gear. For packrafting I use a waterproof stuff sack to keep my hiking boots dry while paddling and attach the bag to my backpack in front of my packraft. [Here](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=dry+bag) you can find some dry bags.
+
+## What are the best hiking boots brands?
+There are many brands out there which are manufacturing good hiking schoes. Some examples are:
+
+* Hanwag
+* Asolo
+* Scarpa
+* Keen
+* Merrell
+* Adidas
+* Zamberlan
+* Haglöfs
+* Lundhags
+* etc.
+
+## Hiking boots for kids
+There are also hiking boots available for kids. Have a look [here](https://www.rei.com/c/kids-hiking-boots)
+
+## Hiking boots for wide feet
+Many brands also offer their hiking boots in a wider version if you have wide feet. Have a look [here](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=wide+shoes)
+
+## Hiking boots for toddlers
+There are also hiking boots available for toddlers. Have a look [here](https://www.rei.com/search.html?q=toddler+boots).
+
+## How to choose hiking boots?
+There are several factors on how you should choose your hiking boots.
+
+Heavier hiking boots with a high shaft are probably a good choice if you:
+
+* carry a heavy backpack
+* need anchle support
+* need waterproof shoes or protection to the anchle
+
+In most of the other cases a lightweight [low](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=low+hiking+boots) or [mid](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=mid+hiking+boots) hiking boot might be a better option e.g. if you plan a non-demanding day hike.
+
+## Toes are hurting in your hiking boots
+If your toes are hurting in your hiking boots then you should consider getting a bigger pair of hiking boots. Alternatively, you could also try to wear thinner socks but in most cases your hiking boots are just too small.
+
+## Hiking boots in snow
+Hiking boots can also be used in snow. Either you wear a thick pair of [merino socks](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=merino+socks+icebreaker+hike) (or 2 pairs of socks) if you have summer hiking boots or you buy winter hiking boots which a thermal liner in it.
+
+## Hiking boot insoles (for flat feets)
+Some hiking boot brands also offer [insoles](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=insoles+hiking) if you have flat feets. Alternatively, there are also third party brands manufacturing insoles e.g. for flat feets.
+
+## Hiking boots lifetime warranty
+When you decide on buying hiking boots then you could also check if the boots you wish to buy offer some sort of lifetime warranty. In most cases there is no warranty on parts which are wearing off naturally over the years but it's a good idea to check in advance what is covered under lifetime warranty.
+
+## Hiking boot materials
+Hiking boots are made of different materials. Examples are Nubuk leather, Gore-Tex liners or Cordura. If you are looking for a very breathable shoe then hiking boots which are entirely made of leather are probably a good option.
+
+## Hiking boots mid vs. low
+Deciding between [mid](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=mid+hiking+boots) vs. [low](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=low+hiking+boots) hiking boots is sometimes also a difficult decission. [Mid](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=mid+hiking+boots) hiking boots are a good option if you need somewhat anchle support and if you carry a medium weight backpack. Some people also hike entirely with [low](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=low+hiking+boots) hiking boots but for stability and protetion you should rather choose a hiking boot with a higher shaft.
+
+## hiking boots mid vs. high
+So what are the differences bewtween mid vs. high hiking boots? Hiking boots with a high shaft offer the advantage over mid hiking boots that they give you great stabilty while wearing heavy load and if you walk in difficult terrain e.g. mountains, dense bushes etc.
+
+## Hiking boots or trail runners
+Some people prefer to wear trail runners rather than hiking boots. Trail runners are much lighter but do not offer the protection and stability offered by regular hiking boots. Sometimes you also get wet feet and you need to dry your trail runners nearby the camp fire.
+
+## Hiking boots quality
+The quality of hiking boots depends on the brands and are in most cases also reflected by the price. A good pair of leather hiking boots are expensive but the manufacturere also offers options to repair or to replace certain parts if they wear off over the time. A good sole manufacturere is probably Vibram.
+
+## Hiking boot repair
+Some manufacturers offers the option to replace the sole or repair your shoes if they wear off. However, if you are not that much in love with your hiking boots then you can also buy a new pair of hiking boots every 10 years or so.
+
+## Hiking boot sizing
+It's a good idea to try on your hiking boots and test walk with them in the store before you buy them. Some shoes can also cause you blisters if they are new or if you buy them too small. To prevent blisters buy the shoes a little bit bigger and wear proper [merino socks](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=icebreaker+merino+socks+hike). If you are planning to buy shell hiking boots then you have to wear 2 pairs of socks. A liner and mid or heavy cushioning socks. Wearing two pairs of socks prevent you of getting blisters.
+
+## Hiking boot sole material
+Good hiking boots should have a stiff sole. However, if you are planning to hike mostly on proper trails or roads then you can also choose hiking boots which do not have a stiff sole.
+
+## Hiking boot sole repair and sole replacement
+If you buy your hiking boots from a good shoe maker then you will in most cases also be offered to have your sole repaired or replaced over the time. This will however cost you in most cases some money.
+
+## Hiking boots waterproof or not
+Should your hiking boots be waterproof? In most cases this is a good feature but it also has an impact on the breathability of your hiking boots. Try a pair of shell boots which are entirely made of leather. They offer good water protection and high breathability.
+
+## Hiking boots with arch support
+If you need arch support on your hiking boots then you should probably buy a seperate [insole](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=insoles+hiking) and replace it with the regular insole of your hiking boots.
+
+---
+
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
 amzn_assoc_search_bar = "false";
