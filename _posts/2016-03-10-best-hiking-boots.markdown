@@ -177,15 +177,15 @@ Sometimes it's a good idea to pack your hiking boots into a hiking boot bag to k
 ## What are the best hiking boots brands?
 There are many brands out there which are manufacturing good hiking schoes. Some examples are:
 
-* Hanwag
-* Asolo
-* Scarpa
-* Keen
-* Merrell
 * Adidas
-* Zamberlan
+* Asolo
 * Haglöfs
+* Keen
 * Lundhags
+* Meindl
+* Merrell
+* Scarpa
+* Zamberlan
 * etc.
 
 ## Hiking boots for kids
@@ -198,7 +198,7 @@ Many brands also offer their hiking boots in a wider version if you have wide fe
 There are also hiking boots available for toddlers. Have a look [here](https://www.rei.com/search.html?q=toddler+boots).
 
 ## How to choose hiking boots?
-There are several factors on how you should choose your hiking boots.
+There are several factors on how you should choose your hiking boots. Some brands also categorize their boots into activities or the difficulty of your hike. A good example can be seen on the [Meindl website](http://www.meindl.de/english/service/service_3.html).
 
 Heavier hiking boots with a high shaft are probably a good choice if you:
 
@@ -239,7 +239,7 @@ The quality of hiking boots depends on the brands and are in most cases also ref
 Some manufacturers offers the option to replace the sole or repair your shoes if they wear off. However, if you are not that much in love with your hiking boots then you can also buy a new pair of hiking boots every 10 years or so.
 
 ## Hiking boot sizing
-It's a good idea to try on your hiking boots and test walk with them in the store before you buy them. Some shoes can also cause you blisters if they are new or if you buy them too small. To prevent blisters buy the shoes a little bit bigger and wear proper [merino socks](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=icebreaker+merino+socks+hike). If you are planning to buy shell hiking boots then you have to wear 2 pairs of socks. A liner and mid or heavy cushioning socks. Wearing two pairs of socks prevent you of getting blisters.
+It's a good idea to try on your hiking boots and test walk with them in the store before you buy them. Some shoes can also cause you blisters if they are new or if you buy them too small. To prevent blisters buy the shoes a little bit bigger and wear proper [merino socks](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=icebreaker+merino+socks+hike). If you are planning to buy shell hiking boots then you have to wear 2 pairs of socks. A liner and mid or heavy cushioning socks. Wearing two pairs of socks prevent you of getting blisters. 
 
 ## Hiking boot sole material
 Good hiking boots should have a stiff sole. However, if you are planning to hike mostly on proper trails or roads then you can also choose hiking boots which do not have a stiff sole.
