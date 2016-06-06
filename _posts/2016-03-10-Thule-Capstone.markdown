@@ -1,6 +1,14 @@
 ---
+layout: post
+title: JAPAN, THUVI and I: Thule Capstone 50L Women’s Hiking Pack Review
+date: 2016-06-06 07:30 +0300
+comments: true
 published: false
+category: reviews
+tags: [reviews, Thule, backpack]
+description: Our review on the Thule X5 watertight phone case
 ---
+
 We are at the Toyama train station – a gateway to the Japanese Northern Alps and our starting point for a multi-day hike over some of the most beautiful terrain in Japan. As always we are looking for lockers to leave some of our gear that we have on this three-week trip and we don’t need in the mountains. This way, for the next couple of days we can hike ‘light’. And while it would seem like an easy task – just find a locker, open it, stuff a few extra unnecessary things in, pay and leave – it was not always that easy. Especially as we were carrying what seemed to be a wagonful of ‘stuff’ for various activities (such as hiking, packrafting, wild camping and city tripping) during our stay in Japan, all of it cramped in or otherwise attached to our backpacks. 
    
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27492852495/in/dateposted-public/" title="Thule Capstone"><img src="https://c8.staticflickr.com/8/7316/27492852495_f571c7ddd0_b.jpg" width="1024" height="768" alt="Thule Capstone"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
