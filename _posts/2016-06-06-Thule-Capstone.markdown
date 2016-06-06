@@ -3,7 +3,7 @@ layout: post
 title: JAPAN, THUVI and I - Thule Capstone 50L Women’s Hiking Pack Review
 date: 2016-06-06 07:30 +0300
 comments: true
-published: false
+published: true
 category: reviews
 tags: [reviews, Thule, backpack]
 description: Our review on the Thule X5 watertight phone case
