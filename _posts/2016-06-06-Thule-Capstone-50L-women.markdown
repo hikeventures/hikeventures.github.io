@@ -74,7 +74,7 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Backpack Suggestions";
-amzn_assoc_default_search_phrase = "thule capstone";
+amzn_assoc_default_search_phrase = "thule capstone women";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "4f249f05152921c94622ad8452e27839";
 </script>
