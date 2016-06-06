@@ -58,7 +58,7 @@ In this blog post you can find the best sleeping pads available in 2016. I have 
   
 ---
 
-## Factors determining the best sleeping pad 
+## How to choose a sleeping pad?
 
 * Weight (do you want an ultralight sleeping pad?)
 * Size (does it need to pack small?)
