@@ -41,7 +41,10 @@ published: true
              <td><a href="/Thule-Chasm-XL-Duffle-Bag">Thule Chasm Duffle</a></td>
              
 
-          <td></td>
+          <td>
+          <a href="/Thule-Capstone-50L-women/">Thule Capstone 50L Women</a>
+          
+          </td>
 
           </tr>
 
