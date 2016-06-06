@@ -47,8 +47,24 @@ Eventually my relationship with Thuvi grew on its honeymoon in Japan and on a nu
 Well, the tickets have been bought and the plans have been made (this year we are going to hiking and packrafting to Hokkaido as well). All is left is to pack the bags, which should be much easier this year. At least in theory …   
    
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26883581674/in/dateposted-public/" title="Thule Capstone"><img src="https://c3.staticflickr.com/8/7489/26883581674_635501fe9b_b.jpg" width="1024" height="768" alt="Thule Capstone"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-   
-http://www.moosejaw.com/moosejaw/shop/product_Thule-Women-s-Capstone-50L-Hiking-Pack_10281072_10208_10000001_-1_
+      
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Thule-Women-s-Capstone-50L-Hiking-Pack_10281072_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Thule Capstone 50L</button></a>   
+    
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Backpack Suggestions";
+amzn_assoc_default_search_phrase = "thule capstone";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "4f249f05152921c94622ad8452e27839";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 
 
