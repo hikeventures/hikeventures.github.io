@@ -163,6 +163,99 @@ When deciding which headlamp you should purchase, you have to consider the facto
 * battery life on each recharge?
 
 ---
+## Adjustment
+Headlamps can be adjusted either by their headstrap or by tilting the bulb.
+
+---
+
+## Bulbs
+LED bulbs are usually built into headlamps. 
+
+---
+
+## Batteries
+Headlamps usually use lithium CR2032 batteries, AA or AAA batteries. Some headlamps can also be recharged via USB.
+
+---
+
+## Brands
+The most popular headlamp brands are:
+---
+* [Black Diamond](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=headlamps+black+diamond)
+* [Fenix](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=headlamps+fenix)
+* [Goal Zero](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=headlamps+goal+zero)
+* [LED Lenser](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=headlamps+led-lenser)
+* [Mammut](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=headlamps+mammut)
+* [Petzl](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=headlamps+petzl)
+* [Princeton Tec](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=headlamps+princeton+tec)
+* [Snow Peak](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=headlamps+snow+peak)
+
+---
+
+## Case and Covers
+A [case](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=headlamp+case) can protect your headlamp.
+
+---
+
+## Diffuser
+A diffuser might be useful when you go backpacking and won't need a spotlight.
+
+---
+
+## Dimmer switch
+Most headlamps come with a dimmer switch which increases or decreases the light of your headlamp. Lower the dimmer can reduce the battery usage of your headlamp. 
+
+---
+
+## Headband
+The headband holds the headlamp on your head. The headband is usually an elastic strap.
+
+---
+
+## Illumination distance
+The illumination distance refers to the distance. The further you look the lower will be the illumination of the area.
+
+---
+
+## Leveling
+Some manufacturers offer automatic levelling of their headlamp. The headlamp beam will be weaker if you get closer to an object (e.g. reading a book) while the headlamp beam gets stronger if you look into the distance.
+
+---
+
+## Protect
+You can carry your headlamp in a pouch to protect the lens. Some headlamps can also be locked to avoid accidental switching on. Let batteries dry if they get wet. [Here](https://www.petzl.com/company/protecting-equipment-tips_EN.pdf?v=1) you can read more about protection.
+
+---
+
+## Restoration Kit
+If the LED is damaged then you probably need to buy a new headlamp as they can not be replaced in most cases. Check the warranty leaflet of your headlamp manufacturer.
+
+---
+
+## Rechargeable
+You can either buy rechargeable batteries or charge your headlamp with a power bank or [recharger](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=recharger) if it has a USB connection.
+
+---
+
+## Red light
+Some headlamps offer a red light mode. Red light is quite useful if you don't want to disturb others around you ... e.g. reading a book in a tent.
+
+---
+
+## Strap
+The headlamp strap is usually adjustable.
+
+---
+
+## Spotlight
+The spotlight of a headlamp refers to the point of visible light. The spotlight can be wide or centred. 
+
+---
+
+## Waterproof / Watertight
+Not every headlamp is watertight. Some headlamps are only splash proof. Have a look at the IPX rating which indicates how watertight a headlamp is.
+
+---
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
