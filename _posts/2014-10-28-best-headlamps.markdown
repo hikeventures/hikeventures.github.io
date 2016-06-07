@@ -222,12 +222,12 @@ Some manufacturers offer automatic levelling of their headlamp. The headlamp bea
 
 ---
 
-## Protect
+## Protection
 You can carry your headlamp in a pouch to protect the lens. Some headlamps can also be locked to avoid accidental switching on. Let batteries dry if they get wet. [Here](https://www.petzl.com/company/protecting-equipment-tips_EN.pdf?v=1) you can read more about protection.
 
 ---
 
-## Restoration Kit
+## Restoration
 If the LED is damaged then you probably need to buy a new headlamp as they can not be replaced in most cases. Check the warranty leaflet of your headlamp manufacturer.
 
 ---
