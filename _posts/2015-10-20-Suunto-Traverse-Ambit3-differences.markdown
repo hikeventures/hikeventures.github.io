@@ -45,6 +45,8 @@ Personally, I like the new look of the Suunto Traverse more than the look of the
 
 **Update (19.4.2016):** Suunto has released the Suunto Traverse Alpha which is targeted towards hunters and fishers.
 
+**Update (7.6.2016):** Suunto has released the Suunto Spartan - A premium multisport watch with color display
+
 Need some more inspirations on how to use the Suunto Ambit or Suunto Traverse watch? Here is a [trip report](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/) from the Swedish mountains where I was wearing the Suunto Ambit3 on a packrafting trip.
 
 ---
