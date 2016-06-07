@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hilleberg Anjan
+title: Hilleberg Anjan Review
 date: "2013-04-14 10:54"
 comments: true
 description: Hillebergs three season tent.  The Anjan Tent Review.
