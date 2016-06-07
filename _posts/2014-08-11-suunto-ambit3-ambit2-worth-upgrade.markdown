@@ -69,6 +69,8 @@ I have used the Suunto Ambit3 Sport for a couple of months and I was happy with 
 
 **Update (19.04.2016):** Suunto has released the <a href="http://www.suunto.com/Products/sports-watches/Suunto-Traverse-Alpha/Suunto-Traverse-Alpha-Foliage/">Traverse Alpha</a> which adds features for hunting and fishing to the regular Traverse. It's also a bit more expensive than the regular Traverse.
 
+**Update (7.6.2016):** Suunto has released the Suunto Spartan - A premium multisport watch with color display.
+
 ---
 
 <script type="text/javascript">
