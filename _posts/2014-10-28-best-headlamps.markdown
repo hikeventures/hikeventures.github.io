@@ -149,7 +149,7 @@ The [Petzl Nao](http://www.backcountry.com/petzl-nao-headlamp) headlamp is one o
 
 ---   
    
-## What makes a good headlamp?
+## How to choose a good headlamp?
 When deciding which headlamp you should purchase, you have to consider the factors below and if they are applicable for your outdoor adventure needs. Should your headlamp be:
 
 * waterproof or water resistant?
