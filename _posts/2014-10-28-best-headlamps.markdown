@@ -156,7 +156,7 @@ When deciding which headlamp you should purchase, you have to consider the facto
 * lightweight?
 * pack small e.g. for running or ultralight backpacking?
 * adjust it's light automatically?
-* rechargeable with USB in case you carry a USB battery as I do in order to be able to charge my [Suunto Ambit3](http://www.hikeventures.com/suunto-ambit3-ambit2-worth-upgrade/ "Suunto Ambit 3") and camera gear as well?
+* rechargeable with USB in case you carry a USB battery as I do in order to be able to charge my [Suunto Ambit3](http://www.hikeventures.com/suunto-ambit3-ambit2-worth-upgrade/ "Suunto Ambit3") and camera gear as well?
 * easy adjustable with gloves for winter activities?
 * used in very cold condition (to carry the battery nearby your body to avoid battery drain)?
 * comfortable to wear?
