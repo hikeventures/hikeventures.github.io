@@ -1,5 +1,12 @@
 ---
+layout: post
+title: The best outdoor gps watch for 2016 with color display
+date: 2016-06-08 17:20:20 +0200
+comments: true
 published: false
+description: Our selection of the best outdoor smart watch for 2016.
+category: articles
+tags: [articles, best, jackets]
 ---
 
 The best Outdoor GPS watches for hiking and backpacking with colour display. 
