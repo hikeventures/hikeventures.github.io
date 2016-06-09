@@ -56,7 +56,7 @@ Eventually my relationship with Thuvi grew on its honeymoon in Japan and on a nu
    
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26883580604/in/dateposted-public/" title="Thule Capstone"><img src="https://c5.staticflickr.com/8/7332/26883580604_7c5563cc79_b.jpg" width="768" height="1024" alt="Thule Capstone 50L Women hiking backpack in Japan"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
    
-Well, the tickets have been bought and the plans have been made (this year we are going to hiking and packrafting to Hokkaido as well). All is left is to pack the bags, which should be much easier this year. At least in theory …   
+Well, the tickets have been bought and the plans have been made (this year we are going to hiking and packrafting to Hokkaido as well). All is left is to pack the bags, which should be much easier this year. At least in theory …   
    
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26883581674/in/dateposted-public/" title="Thule Capstone"><img src="https://c3.staticflickr.com/8/7489/26883581674_635501fe9b_b.jpg" width="1024" height="768" alt="Thule Capstone 50L Women hiking backpack in Japan"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
       
