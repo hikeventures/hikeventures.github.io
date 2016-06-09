@@ -39,7 +39,7 @@ We have visited the Urho Kekkonen National Park in Finland for a winter adventur
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/16347221659" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8673/16347221659_3952a1c6de_b.jpg" width="1024" height="680" alt="Best place to go snowshoeing and skiing in Lapland Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-What are the best places you have visited in Scandinavia for hiking, backpacking, kayaking or packrafting? Interested in Scotland? Here is our backpacking trip in the [Scottish Highlands][10].
+Those were the best places we have visited so far in Scandinavia. We will probably add a few more destinations for hiking, backpacking, kayaking or packrafting in the future as we are planning more outdoor trips in Scandinavia. 
 
 [1]:	http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Sarek"
 [2]:	http://www.auroraskystation.com/en/ "Aurora Sky Station"
