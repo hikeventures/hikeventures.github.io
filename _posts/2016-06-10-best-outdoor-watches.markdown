@@ -12,11 +12,11 @@ In this article I would like to present the best outdoor GPS watches with color 
 
 Currently, I am wearing a [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) which has a monochrome display. I am quite satisfied with my Suutno Traverse watch so far but would be interested to see which watches with colour display would be available as alternatives.
 
-Probably, one challenge of watches having a colour display and a GPS is the battery life. The <a href="http://amzn.to/1YdNH1H" rel="nofollow">Casio Smart Outdoor Watch WSD-F10</a> advertises it's watch with 3 days in monochrome mode however the WDS-F10 does not have a GPS built in. My Traverse lasts approximately 1 day if I switch the GPS on depending on the tracking frequency.
-
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/8620278312/in/album-72157648805512885/" title="Suunto Ambit 2"><img src="https://c1.staticflickr.com/9/8386/8620278312_aed75fec08_k.jpg" width="2048" height="1365" alt="best outdoor GPS watch color display 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <!--more-->
+
+Probably, one challenge of watches having a colour display and a GPS is the battery life. The <a href="http://amzn.to/1YdNH1H" rel="nofollow">Casio Smart Outdoor Watch WSD-F10</a> advertises it's watch with 3 days in monochrome mode however the WDS-F10 does not have a GPS built in. My Traverse lasts approximately 1 day if I switch the GPS on depending on the tracking frequency.
 
 The watches are listed by their weight. The specifications like the battery life have been taken from the manufacturers website and I have not tested the watches myself.
 
