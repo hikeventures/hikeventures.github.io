@@ -8,7 +8,7 @@ category: destinations
 tags: [destinations, sarek, sweden, packrafting, hiking]
 ---
 
-This year we went on a 6 days packrafting and hiking trip in Sarek. We travelled from Vaasa by <a href="http://www.wasaline.com/en/" target="_blank">wasaline ferry</a> to Umea and then by a hiker train (it seemed that the only people who travelled north were planning to go on a hike in the fj&auml;lls) to G&auml;llivare. Transportation to Sarek from Umea is not that frequent so there is a possibility that you have to stay one night in Umea. 
+This year we went on a 6 days packrafting and hiking trip in Sarek. We travelled from Vaasa by <a href="http://www.wasaline.com/en/" target="_blank">wasaline ferry</a> to Umea and then by a hiker train (it seemed that the only people who travelled north were planning to go on a hike in the fells) to G&auml;llivare. Transportation to Sarek from Umea is not that frequent so there is a possibility that you have to stay one night in Umea. 
 
 <!--more-->
 
@@ -30,7 +30,7 @@ At 12 pm we started our trip from Suorva by crossing the dam and hiking a short 
 
 Lunch break at the spot where the trail ends. <a href="http://adventurefood.com/en/" target="_blank">Adventure Food</a> Pasta alle Nocci which we prepared with our <a href="http://hikeventures.com/gear-review-jetboil-sol-ti/" target="_self">Jetboil Sol Ti stove</a> tasted quite good compared to some other food we carried.
 
-After having had lunch we planned to reach the Vuosskeljavrre lake which was behind the Hallji fj&auml;ll. To reach it, we had to ascend over 500 meters. As the trail ended, we had no choice than to try to navigate through the wild terrain which turned out to be the first of many times we had to do it. Going through the forrest was probably the toughest besides going uphill and jumping from one stone to another.
+After having had lunch we planned to reach the Vuosskeljavrre lake which was behind the Hallji fell. To reach it, we had to ascend over 500 meters. As the trail ended, we had no choice than to try to navigate through the wild terrain which turned out to be the first of many times we had to do it. Going through the forrest was probably the toughest besides going uphill and jumping from one stone to another.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9594878450"><img src="https://farm4.staticflickr.com/3803/9594878450_a2a40251fa_b.jpg" width="1024" height="683" alt="hiking, backpacking and packrafting in Sarek National Park" alt="Sarek National Park Sweden stone surface"></a>
 
@@ -91,7 +91,7 @@ After having had dinner we enjoyed a beautiful red sunset which we thought would
 
 <a href="https://www.flickr.com/photos/90204224@N07/9592109299"><img src="https://farm4.staticflickr.com/3727/9592109299_3d30b7574e_b.jpg" width="1024" height="683" alt="Vuosskeljavrre lake Sarek National Park Sweden"></a>
 
-## Day 2: From Vuosskeljavrre to Tjevrra Fjäll
+## Day 2: From Vuosskeljavrre to Tjevrra fell
 On the second day we woke up at 10.30 and it was cloudy, windy and the morning temperature had dropped towards 12 C.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9596215171"><img src="https://farm4.staticflickr.com/3791/9596215171_d612311845_b.jpg" width="1024" height="683" alt="Vuosskeljavrre lake Sarek National Park Sweden view from Hillebeg Anjan tent"></a>
@@ -150,7 +150,7 @@ The <a href="http://hikeventures.com/gear-review-hmg-porter-4400-black/" target=
 
 <a href="https://www.flickr.com/photos/90204224@N07/9596226393"><img src="https://farm6.staticflickr.com/5479/9596226393_34ba3b93fb_b.jpg" width="1024" height="683" alt="packrafting alpacka raft Sarek National Park Sweden"></a>
 
-In the late afternoon we had to filter some water as our water bottles were almost empty after hours of paddling and we still needed some reserves in order to walk around the Tjevrra fjäll and to make dinner and tea.
+In the late afternoon we had to filter some water as our water bottles were almost empty after hours of paddling and we still needed some reserves in order to walk around the Tjevrra fell and to make dinner and tea.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9599019542"><img src="https://farm8.staticflickr.com/7459/9599019542_097779e2ae_b.jpg" width="1024" height="683" alt="Montane minimus smock and katadyn hiker pro filter hiking Sarek National Park Sweden"></a>
 
@@ -168,7 +168,7 @@ The landscape was again impressive and we had the feeling of walking on a differ
 
 At 11 pm we pitched our <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/" target="_self">tent</a> and prepared dinner - Patrick had Travellunch Erbseneintopf and Konstantin Travellunch Linseneintopf mit Schinken (lentils with ham) which we both graded with 3.5 out of 5 - and tea with our <a href="http://hikeventures.com/gear-review-jetboil-sol-ti/" target="_self">Jetboil Sol Ti stove</a>. Temperatures were again very low and we just wanted to get into our warm sleeping bags in order to rest for the upcoming day.
 
-## Day 3: From Tjevrra Fjäll to Vuojnesskajdde Fjäll
+## Day 3: From Tjevrra fell to Vuojnesskajdde fell
 On day 3 we woke up at 8 am with temperatures around 10 C in the tent. The night was quite stormy but we didn't have any rain.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9596230731"><img src="https://farm8.staticflickr.com/7284/9596230731_c5b3d4bff8_b.jpg" width="1024" height="541" alt="Hilleberg Anjan tent in Sarek National Park summer"></a>
@@ -193,7 +193,7 @@ Massive rocks are spread all over the terrain.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9599027418"><img src="https://c4.staticflickr.com/8/7385/9599027418_a38b42401e_o.jpg" width="992" height="661" alt="panorama summer mountains in Sarek National Park hiking hmg porter 4400 packrafting"></a>
 
-After we passed the the Tjevrra fjäll we had a fantastic view over the Sarektjahkka. Even so we had very light rain ocassionally, my <a href="http://hikeventures.com/gear-review-arcteryx-palisade-pants/" target="_self">Arcteryx Palisade Pants</a> dried quite quickly.
+After we passed the the Tjevrra fell we had a fantastic view over the Sarektjahkka. Even so we had very light rain ocassionally, my <a href="http://hikeventures.com/gear-review-arcteryx-palisade-pants/" target="_self">Arcteryx Palisade Pants</a> dried quite quickly.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9599028770"><img src="https://farm3.staticflickr.com/2890/9599028770_28d0a1d994_b.jpg" width="1024" height="683" alt="panorama summer mountains in Sarek National Park"></a>
 
@@ -261,13 +261,13 @@ After we passed the cascade with the bridge we decided to deflate our packrafts 
 
 <a href="https://www.flickr.com/photos/90204224@N07/9596209089"><img src="https://farm3.staticflickr.com/2822/9596209089_beafd68dd7_b.jpg" width="1024" height="683" alt="packrafting in Sarek National Park - Guhkesvagge river moon"></a>
 
-At the Vuojnesskajdde fj&auml;ll we found a nice spot to camp with a great view over the Liehtjitjavrre and Vuoinesluobbala lake.
+At the Vuojnesskajdde fell we found a nice spot to camp with a great view over the Liehtjitjavrre and Vuoinesluobbala lake.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9599002048"><img src="https://farm3.staticflickr.com/2855/9599002048_b8561d2abd_b.jpg" width="1024" height="510" alt="Vuojnesskajdde Hilleberg tent in Sarek National Park - Guhkesvagge river - moon - night"></a>
 
 We finally went to bed by midnight after having prepared dinner with our <a href="http://hikeventures.com/gear-review-jetboil-sol-ti/" target="_self">stove</a>. Patrick had <a href="http://www.trekneat.com/" target="_blank">Trek&Eat</a> Pasta with Soja Bolognese (4 out of 5) and Konstantin <a href="http://www.travellunch.de/" target="_blank">Travellunch</a> mashed potatoes with ham (5 out of 5). On that day we have seen in total 6 other hikers of which 4 of them have camped about 500 meters away from us.
 
-## Day 4: From Vuojnesskajdde Fjäll to Laddebakte Fjäll
+## Day 4: From Vuojnesskajdde fell to Laddebakte fell
 Our camp in the morning of day 4. On the background you can see our construction (a rope and 2 walking poles) were we dried our clothes. Our <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/" target="_self">tent</a> still performs very well.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9599003202"><img src="https://farm4.staticflickr.com/3673/9599003202_f593eb5e87_b.jpg" width="1024" height="683" alt="Vuojnesskajdde Fell - Hilleberg Tent in Sarek National Park - Guhkesvagge river"></a>
@@ -298,14 +298,14 @@ On the pass we had an excellent view towards the Liehtjitjavrre lake ...
 <a href="https://www.flickr.com/photos/90204224@N07/9602966999"><img src="https://farm8.staticflickr.com/7379/9602966999_ea9cbdacdc_b.jpg" width="1024" height="683" alt="hiking Sarek National Park"></a>
 We reached the Rahpajahka river which leads to Rapadalen were packrafting is prohibited.
 
-We were packrafting the Rahpaadno river down towards the Laddebakte fjäll where we stayed over night. At this point we decided to hike back to the Liehtjitjavrre lake as the stream was to strong and unpredictable for our taste and to hike along the Rahpa&auml;dno river was not very inviting either since the vegetation was very dense and the weather changed into rain and cold wind.
+We were packrafting the Rahpaadno river down towards the Laddebakte fell where we stayed over night. At this point we decided to hike back to the Liehtjitjavrre lake as the stream was to strong and unpredictable for our taste and to hike along the Rahpa&auml;dno river was not very inviting either since the vegetation was very dense and the weather changed into rain and cold wind.
 
-## Day 5: From Laddebakte Fjäll to Lake Guordesluoppal
+## Day 5: From Laddebakte fell to Lake Guordesluoppal
 On day 5 we were hiking and packrafting over 20 km. Once we packed our camp we found one of those emergency shelters which are also marked on the map. Those shelters do also provide tools and a place to make fire.
 
-<a href="https://www.flickr.com/photos/90204224@N07/9606342602"><img src="https://farm6.staticflickr.com/5331/9606342602_f3ac32cc72_b.jpg" width="1024" height="683" alt="Laddebakte Fjäll in Sarek National Park"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/9606342602"><img src="https://farm6.staticflickr.com/5331/9606342602_f3ac32cc72_b.jpg" width="1024" height="683" alt="Laddebakte fell in Sarek National Park"></a>
 
-<a href="https://www.flickr.com/photos/90204224@N07/9606341984"><img src="https://farm6.staticflickr.com/5339/9606341984_25d1cff683_b.jpg" width="1024" height="683" alt="SDIM4191" alt="Laddebakte Fjäll in Sarek National Park"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/9606341984"><img src="https://farm6.staticflickr.com/5339/9606341984_25d1cff683_b.jpg" width="1024" height="683" alt="SDIM4191" alt="Laddebakte fell in Sarek National Park"></a>
 
 The weather was not pleasant at all - rainy, cold, windy and we also had to find our way through marshes, dense bushes and steep hills back to the Bielaj&auml;vr&auml;tja lake. We were really happy that we had <a href="http://hikeventures.com/gear-review-black-diamond-ultra-distance-z-pole/" target="_self">hiking poles</a> with us.
 
@@ -351,7 +351,7 @@ While Konstantin is still preparing his <a href="http://hikeventures.com/gear-re
 
 <a href="https://www.flickr.com/photos/90204224@N07/9603103073"><img src="https://farm3.staticflickr.com/2822/9603103073_8f620babbe_b.jpg" width="1024" height="683" alt="Sarek National Park Guordesluoppal Katadyn Hiker Pro water filter and montane minimus pants jacket inov-8 295"></a>
 
-<a href="http://hikeventures.com/gear-review-katadyn-mini-water-filter/" target="_self">Filtering water</a> for the trip through the fj&auml;lls - especially for crossing the pass between Slugga and Gahppo.
+<a href="http://hikeventures.com/gear-review-katadyn-mini-water-filter/" target="_self">Filtering water</a> for the trip through the fells - especially for crossing the pass between Slugga and Gahppo.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9603392761"><img src="https://farm8.staticflickr.com/7344/9603392761_f045a2ca87_b.jpg" width="1024" height="683" alt="Sarek National Park Slugga and Gahppo"></a>
 
