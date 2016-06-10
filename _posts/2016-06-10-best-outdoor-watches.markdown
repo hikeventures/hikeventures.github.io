@@ -134,4 +134,4 @@ The Suunto Spartan is the latest smart watch addition in the Suunto range. Unfor
 ---
 
 ## Conclusion
-My personal preference goes towards the Suunto Sparta even so it has not been released yet as I need an outdoor watch which has GPS built in. If I would not need a built-in GPS then I would probably buy the Apple Watch as an Apple phone user or the Moto 360 Sport or the Casio WSD-F10 if I would be an Android phone user.
+My personal preference goes towards Garmin Fenix 3 of the released watches. I will however wait to see the specifications of Suunto Sparta before I make any purchase decisions as I need an outdoor watch which has GPS built in. As a current Suunto user I have already my GPS data stored in [Movescount](http://www.movescount.com/members/member140205-HikeVentures) so switching brands is anyway not an easy option for me. If I would not need a built-in GPS then I would probably buy the Apple Watch as an Apple phone user or the Moto 360 Sport or the Casio WSD-F10 if I would be an Android phone user.
