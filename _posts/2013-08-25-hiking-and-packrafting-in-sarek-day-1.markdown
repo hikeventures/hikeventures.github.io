@@ -90,7 +90,7 @@ After having had dinner we enjoyed a beautiful red sunset which we thought would
 
 <a href="https://www.flickr.com/photos/90204224@N07/9592109299"><img src="https://farm4.staticflickr.com/3727/9592109299_3d30b7574e_b.jpg" width="1024" height="683"></a>
 
-## Day 2: From Vuosskeljavrre toTjevrra Fjäll
+## Day 2: From Vuosskeljavrre to Tjevrra Fjäll
 On the second day we woke up at 10.30 and it was cloudy, windy and the morning temperature had dropped towards 12 C.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9596215171"><img src="https://farm4.staticflickr.com/3791/9596215171_d612311845_b.jpg" width="1024" height="683"></a>
