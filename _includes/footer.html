@@ -85,6 +85,14 @@
 
 <!-- Fade & scale -->
 
+if (!localStorage.getItem("visited")) {
+    //show the div
+
+    //Set the key
+
+
+
+
 <div id="fadeandscale" class="well">
     <h4>Visit our Facebook Page</h4>
 
@@ -92,6 +100,17 @@
 
     <button class="fadeandscale_close btn btn-default">Close</button>
 </div>
+
+
+
+    localStorage.setItem("visited", "true");
+}
+
+//clear localStorage on tab close
+window.onbeforeunload = function() {
+    localStorage.removeItem("visited");
+};
+
 
 <script>
 
