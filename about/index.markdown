@@ -80,7 +80,7 @@ The Netherlands<br><br>
 <i class="fa fa-envelope fa-lg"></i> <a href="mailto:contact@hikeventures.com">contact@hikeventures.com</a>
    
    
-<a rel='nofollow' href='http://' border='0' style='cursor:default'><img src='https://chart.googleapis.com/chart?cht=qr&chl=BEGIN%3AVCARD%0AVERSION%3A3.0%0AN%3A-%3B-%0AFN%3A-%20-%0AORG%3AHikeVentures%0ATITLE%3A-%0AADR%3A%3B%3B-%3B-%3B-%3B-%3B-%0ATEL%3BWORK%3BVOICE%3A-%0ATEL%3BCELL%3A%2B358%2050%20572%2084%2089%0ATEL%3BFAX%3A-%0AEMAIL%3BWORK%3BINTERNET%3Acontact%40hikeventures.com%0AURL%3Awww.hikeventures.com%0ABDAY%3A%0AEND%3AVCARD%0A&chs=180x180&choe=UTF-8&chld=L|2' alt=''></a>
+<a rel='nofollow' href='http://' border='0' style='cursor:default'></a><img src='https://chart.googleapis.com/chart?cht=qr&chl=BEGIN%3AVCARD%0AVERSION%3A3.0%0AN%3ADormischian%3BPatrick%0AFN%3APatrick%20Dormischian%0AORG%3AHikeVentures%0ATITLE%3A-%0AADR%3A%3B%3B-%3B-%3B-%3B-%3B-%0ATEL%3BWORK%3BVOICE%3A-%0ATEL%3BCELL%3A%2B358%2050%20572%2084%2089%0ATEL%3BFAX%3A-%0AEMAIL%3BWORK%3BINTERNET%3Acontact%40hikeventures.com%0AURL%3Awww.hikeventures.com%0ABDAY%3A%0AEND%3AVCARD%0A&chs=180x180&choe=UTF-8&chld=L|2' alt=''>
 
 
 [1]:	https://docs.google.com/forms/d/1K1EQy1eARL_RGYzCwON1KJ1PxjB3ZF4QVc_CobsXBp0/edit?usp=forms_home
