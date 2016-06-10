@@ -15,17 +15,9 @@ published: true
 
 <hr>
 Comment on this post on our <a href="https://www.facebook.com/HikeVentures/">Facebook page</a> or on <a href="https://twitter.com/HikeVentures">Twitter</a>. Visit us on <a href="https://www.instagram.com/hikeventures/">Instagram</a> or on <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw">YouTube</a>.<br>
-<br>
-    <!-- Tags --> 
-    <ul class="tags">
-      {% for tag in page.tags %}
-        <font color="white"><li><a href="/tags#{{ tag }}" class="tag">{{ tag }}</a></li></font>
-      {% endfor %}
-    </ul>
-<br>
-<div class="relatedPosts">
 <hr>
 
+<div class="relatedPosts">
   <h3>Related post</h3>
 
   {% comment %}---> the maximum number of related to posts 
@@ -71,6 +63,15 @@ Comment on this post on our <a href="https://www.facebook.com/HikeVentures/">Fac
 </div>
 
 </div><hr>
+
+    <!-- Tags --> 
+    <ul class="tags">
+      {% for tag in page.tags %}
+        <font color="white"><li><a href="/tags#{{ tag }}" class="tag">{{ tag }}</a></li></font>
+      {% endfor %}
+    </ul>
+<br>
+
 </article>
 
 <div class="row">
