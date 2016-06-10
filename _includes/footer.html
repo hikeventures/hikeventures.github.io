@@ -99,12 +99,31 @@
 
  $(document).ready(function () {
  
+
+ 
+function init() {
+
+
     $('#fadeandscale').popup({
         pagecontainer: '.container',
         transition: 'all 0.3s',
-        autoopen: false
-    
+        autoopen: true
     });
+    
+    
+    
+
+    init.called = true;
+}
+init();
+if(init.called) {
+    //stuff
+}
+ 
+ 
+
+
+
 
     
 });
