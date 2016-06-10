@@ -20,9 +20,9 @@ From G&auml;llivare we took a bus (<a href="http://www.bussgods.se" target="_bla
 
 <a href="https://www.flickr.com/photos/90204224@N07/9592076425"><img src="https://farm6.staticflickr.com/5530/9592076425_298313bc51_b.jpg" width="1024" height="683" alt="hiking, backpacking and packrafting in Sarek National Park Suorva dam Jiertajavrre"></a>
 
-At 12 pm we started our trip from Suorva by crossing the dam and hiking a short distance along the the Jiertajavrre on a trail which lead us trough a dense birch tree forrest full of big stones/boulders and marshes.
+At 12 pm we started our trip from Suorva by crossing the dam and hiking a short distance along the the Jiertajavrre on a trail which lead us trough a dense birch tree forrest full of big stones / boulders and marshes.
 
-<a href="https://www.flickr.com/photos/90204224@N07/9594871244"><img src="https://farm8.staticflickr.com/7351/9594871244_51515bb296_b.jpg" width="1024" height="683"alt="hiking, backpacking and packrafting in Sarek National Park Suorva dam Jiertajavrre"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/9594871244"><img src="https://farm8.staticflickr.com/7351/9594871244_51515bb296_b.jpg" width="1024" height="683" alt="hiking, backpacking and packrafting in Sarek National Park Suorva dam Jiertajavrre"></a>
 
 <a href="https://www.flickr.com/photos/90204224@N07/9592078521"><img src="https://farm8.staticflickr.com/7284/9592078521_465f1cb220_b.jpg" width="1024" height="683" alt="hiking, backpacking and packrafting in Sarek National Park Suorva dam Jiertajavrre"></a>
 
