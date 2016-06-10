@@ -45,14 +45,6 @@
         
 <a class="initialism fadeandscale_open btn btn-success" href="#fadeandscale">Fade &amp; scale</a>
 
-<div id="my_popup">
-
-    ...popup content...
-
-    <!-- Add an optional button to close the popup -->
-    <button class="my_popup_close">Close</button>
-
-</div>
 
     
 </footer>
@@ -104,6 +96,12 @@
 </div>
 
 <script>
+
+$(document).ready(function() {
+   $('#fadeandscale').trigger('click');
+});
+
+
 $(document).ready(function () {
     $('#fadeandscale').popup({
         pagecontainer: '.container',
