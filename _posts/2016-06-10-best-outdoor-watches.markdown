@@ -20,26 +20,6 @@ Probably, one challenge of watches having a colour display and a GPS is the batt
 
 The watches are listed by their weight. The specifications like the battery life have been taken from the manufacturers website and I have not tested the watches myself.
 
-## <a href="http://amzn.to/1t7QAFm" rel="nofollow">Motorola Moto 360 Sport</a>
-
-<a href="https://www.amazon.com/gp/product/B016CKHAZO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B016CKHAZO&linkCode=as2&tag=hikeve-20&linkId=4c6098a87f5b1865e89b5e207acc1007"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B016CKHAZO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B016CKHAZO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Weight:** 54 grams  
-**Battery Life:** 1 day  
-**Operating System:** Android Wear™  
-**Water Resistance:** IP67 - not   waterproof   
-**Display:** 360x325   
-**Touchscreen:** no   
-**Wi-Fi:** yes   
-**Bluetooth:** 4.0   
-**Heart Rate Monitor:** Optical heart rate monitor (PPG)   
-**GPS:** yes   
-**Wireless charging:** yes   
-
-Another interesting Outdoor watch is the Motorola Moto 360 Sport which is targeted towards Android users as it has the AndroidWear™ operating system on board. It also features an optical hear rate monitor directly on the watch which can only be found on the Apple watch so far. No need to wear a hear rate monitor around your chest. One highlight of the Moto 360 Sport is probably it's high resolution / display. 
-
-<a href="http://amzn.to/1RWNLvb" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Moto 360 Sport</button></a>
-
 ---
 
 ## <a href="http://amzn.to/1t7QAFm" rel="nofollow">Apple Watch Sport 38mm</a>
@@ -61,6 +41,26 @@ Another interesting Outdoor watch is the Motorola Moto 360 Sport which is target
 The Apple Watch Sport 38mm is for those folks who like to have their Apple phone with them. Unfortunately, the Apple Watch (like the Casio WSD-F10) lacks a built in GPS and might not be suited for those who would like to leave their mobile phone at home.
 
 <a href="http://amzn.to/1RWNLvb" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Apple Watch Sport</button></a>
+
+## <a href="http://amzn.to/1t7QAFm" rel="nofollow">Motorola Moto 360 Sport</a>
+
+<a href="https://www.amazon.com/gp/product/B016CKHAZO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B016CKHAZO&linkCode=as2&tag=hikeve-20&linkId=4c6098a87f5b1865e89b5e207acc1007"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B016CKHAZO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B016CKHAZO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight:** 54 grams  
+**Battery Life:** 1 day  
+**Operating System:** Android Wear™  
+**Water Resistance:** IP67 - not   waterproof   
+**Display:** 360x325   
+**Touchscreen:** no   
+**Wi-Fi:** yes   
+**Bluetooth:** 4.0   
+**Heart Rate Monitor:** Optical heart rate monitor (PPG)   
+**GPS:** yes   
+**Wireless charging:** yes   
+
+Another interesting Outdoor watch is the Motorola Moto 360 Sport which is targeted towards Android users as it has the AndroidWear™ operating system on board. It also features an optical hear rate monitor directly on the watch which can only be found on the Apple watch so far. No need to wear a hear rate monitor around your chest. One highlight of the Moto 360 Sport is probably it's high resolution / display. 
+
+<a href="http://amzn.to/1RWNLvb" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Moto 360 Sport</button></a>
 
 ---
 
@@ -134,4 +134,4 @@ The Suunto Spartan is the latest smart watch addition in the Suunto range. Unfor
 ---
 
 ## Conclusion
-My personal preference goes towards Garmin Fenix 3 of the currently released watches with color display. However, I will wait to see the specifications of Suunto Spartan before I make any purchase decisions as I need an outdoor watch which has GPS built in. As a current Suunto user I have already my GPS data stored in [Movescount](http://www.movescount.com/members/member140205-HikeVentures) so switching brands is anyway not an easy option for me. If I would not need a built-in GPS then I would probably buy the Apple Watch as an Apple phone user or the Moto 360 Sport or the Casio WSD-F10 if I would be an Android phone user.
+My personal preference goes towards [Garmin Fenix 3](http://www.backcountry.com/garmin-fenix-3-bundle) of the currently released watches with color display. However, I will wait to see the specifications of Suunto Spartan before I make any purchase decisions as I need an outdoor watch which has GPS built in. As a current Suunto user I have already my GPS data stored in [Movescount](http://www.movescount.com/members/member140205-HikeVentures) so switching brands is anyway not an easy option for me. If I would not need a built-in GPS then I would probably buy the <a href="http://amzn.to/1t7QAFm" rel="nofollow">Apple Watch Sport</a> as an Apple phone user or the <a href="http://amzn.to/1t7QAFm" rel="nofollow">Motorola Moto 360 Sport</a> or the <a href="http://amzn.to/1YdNH1H" rel="nofollow">Casio WSD-F10</a> if I would be an Android phone user.
