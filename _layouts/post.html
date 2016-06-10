@@ -58,7 +58,7 @@ Comment on this post on our <a href="https://www.facebook.com/HikeVentures/">Fac
 
     {% if sameTagCount >= minCommonTags %}
       
-      <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
       {% if maxRelatedCounter >= maxRelated %}
