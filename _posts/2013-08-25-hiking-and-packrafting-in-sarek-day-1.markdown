@@ -91,6 +91,8 @@ After having had dinner we enjoyed a beautiful red sunset which we thought would
 
 <a href="https://www.flickr.com/photos/90204224@N07/9592109299"><img src="https://farm4.staticflickr.com/3727/9592109299_3d30b7574e_b.jpg" width="1024" height="683" alt="Vuosskeljavrre lake Sarek National Park Sweden"></a>
 
+---
+
 ## Day 2: From Vuosskeljavrre to Tjevrra fell
 On the second day we woke up at 10.30 and it was cloudy, windy and the morning temperature had dropped towards 12 C.
 
@@ -167,6 +169,8 @@ The landscape was again impressive and we had the feeling of walking on a differ
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9596230289" title="Hiking and Packrafting in Sarek"><img src="https://farm3.staticflickr.com/2822/9596230289_9b0f70706d_o.jpg" width="991" height="567" alt="Hiking and Packrafting in Sarek hilleberg tent jetboil stove night camping"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 At 11 pm we pitched our <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/" target="_self">tent</a> and prepared dinner - Patrick had Travellunch Erbseneintopf and Konstantin Travellunch Linseneintopf mit Schinken (lentils with ham) which we both graded with 3.5 out of 5 - and tea with our <a href="http://hikeventures.com/gear-review-jetboil-sol-ti/" target="_self">Jetboil Sol Ti stove</a>. Temperatures were again very low and we just wanted to get into our warm sleeping bags in order to rest for the upcoming day.
+
+---
 
 ## Day 3: From Tjevrra fell to Vuojnesskajdde fell
 On day 3 we woke up at 8 am with temperatures around 10 C in the tent. The night was quite stormy but we didn't have any rain.
@@ -267,6 +271,8 @@ At the Vuojnesskajdde fell we found a nice spot to camp with a great view over t
 
 We finally went to bed by midnight after having prepared dinner with our <a href="http://hikeventures.com/gear-review-jetboil-sol-ti/" target="_self">stove</a>. Patrick had <a href="http://www.trekneat.com/" target="_blank">Trek&Eat</a> Pasta with Soja Bolognese (4 out of 5) and Konstantin <a href="http://www.travellunch.de/" target="_blank">Travellunch</a> mashed potatoes with ham (5 out of 5). On that day we have seen in total 6 other hikers of which 4 of them have camped about 500 meters away from us.
 
+---
+
 ## Day 4: From Vuojnesskajdde fell to Laddebakte fell
 Our camp in the morning of day 4. On the background you can see our construction (a rope and 2 walking poles) were we dried our clothes. Our <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/" target="_self">tent</a> still performs very well.
 
@@ -299,6 +305,8 @@ On the pass we had an excellent view towards the Liehtjitjavrre lake ...
 We reached the Rahpajahka river which leads to Rapadalen were packrafting is prohibited.
 
 We were packrafting the Rahpaadno river down towards the Laddebakte fell where we stayed over night. At this point we decided to hike back to the Liehtjitjavrre lake as the stream was to strong and unpredictable for our taste and to hike along the Rahpa&auml;dno river was not very inviting either since the vegetation was very dense and the weather changed into rain and cold wind.
+
+---
 
 ## Day 5: From Laddebakte fell to Lake Guordesluoppal
 On day 5 we were hiking and packrafting over 20 km. Once we packed our camp we found one of those emergency shelters which are also marked on the map. Those shelters do also provide tools and a place to make fire.
@@ -340,6 +348,8 @@ At 11 pm we decided to get our <a href="http://hikeventures.com/petzl-nao-headla
 This was the worst day of all and we also do not have that many pictures of this day since it was just not possible to get any good pictures due to the bad weather. 
 
 For those folk who are planning to use <a href="http://hikeventures.com/gear-review-inov-8-roclite-295/" target="_self">trail-runners</a> which are not waterproof ... Patrick had constantly wet feet on this trip. If there is not enough sun then there is no chance that you will have dry shoes. Patrick also used Sealakinz socks but they weard off after 2 days. The best combination would be to use merino socks and trail-runners if you don't want to use waterproof shoes. 
+
+---
 
 ## Day 6: From Lake Guordesluoppal to Stora Sjöfallets and back home
 <a href="https://www.flickr.com/photos/90204224@N07/9606337334"><img src="https://farm8.staticflickr.com/7324/9606337334_fcddf49763_b.jpg" width="1024" height="683" alt="Sarek National Park Guordesluoppal"></a>
@@ -420,6 +430,8 @@ Sarek was a great experience and we look forward to visit the Sarek National Par
 <a href="https://www.flickr.com/photos/90204224@N07/9596162859"><img src="https://farm6.staticflickr.com/5336/9596162859_3d2d76ede9_b.jpg" width="1024" height="281" alt="travelling by ferry from Umeå to Vaasa windmills"></a>
 
 By ferry from Umea to Vaasa. Bye bye Sweden.
+
+---
 
 ## Links
 Our <a href="http://hikeventures.com/sarek-packrafting-video/" target="_blank">Sarek packrafting video</a>.
