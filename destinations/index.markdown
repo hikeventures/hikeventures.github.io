@@ -139,6 +139,14 @@ footer: false
             <p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Nuuksio</p>
         </div></div></a></div></div>
 
+  <div class="col-xs-6"><div class="hovereffect">
+            <a class="thumbnail" href="http://www.hikeventures.com/hiking-in-nuuksio-national-park-finland/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
+        <img src="https://c5.staticflickr.com/8/7456/27408617540_23f355b69a_b.jpg" alt="" class="img-responsive">
+        <div class="caption">
+            <p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Örö</p>
+        </div></div></a></div></div>
+
+
 
   <div class="col-xs-6"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/hiking-in-repovesi-national-park-finland/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
