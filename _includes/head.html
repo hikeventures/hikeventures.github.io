@@ -70,15 +70,15 @@
       google.charts.setOnLoadCallback(drawChart);
       function drawChart() {
         var data = google.visualization.arrayToDataTable([
-          ['Month',  'May', 'June'],
-          ['Instagram', 3200,         3300],
-          ['Facebook',     2400,         2500],
-          ['Twitter',        1400,         1500],
+          ['Month',  'June'],
+          ['Instagram',        3300],
+          ['Facebook',           2500],
+          ['Twitter',            1500],
         ]);
 
         var options = {
-          title: 'Social Meia Followers',
-          vAxis: {title: 'Accumulated Rating'},
+          title: 'Social Media Followers',
+          vAxis: {title: ''},
           isStacked: true
         };
 
