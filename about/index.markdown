@@ -14,8 +14,7 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 <div id="g21" class="gauge"></div>
 <div id="g31" class="gauge"></div>
 </div>
-    <script src="../raphael-2.1.4.min.js"></script>
-    <script src="../justgage.js"></script>
+
     <script>
     document.addEventListener("DOMContentLoaded", function(event) {
         var g11, g21, g31;
