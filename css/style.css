@@ -371,3 +371,53 @@ input {
 .tag:hover::after {
    border-left-color: #FF8000;
 }
+
+
+
+/* Gauge */
+
+body {
+   
+    }
+    /* clearfix */
+
+    .clear:before,
+    .clear:after {
+        content: "";
+        display: table;
+    }
+
+    .clear:after {
+        clear: both;
+    }
+
+    .clear {
+        *zoom: 1;
+    }
+
+    .wrapper1 {
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        margin: 30px;
+        border: 1px solid #cccccc;
+    }
+
+    .gauge {
+        display: block;
+        float: left;
+    }
+
+    #g11 {
+        width: 20%;
+    }
+
+    #g21 {
+        width: 60%;
+    }
+
+    #g31 {
+        width: 20%;
+    }
