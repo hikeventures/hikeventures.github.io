@@ -9,19 +9,19 @@ footer: false
 ---
 HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoeing, cycling and urban microadventures. We <a href="http://www.hikeventures.com/destinations/">adventure</a> mainly in Europe but sometimes we also visit places like Japan or Russia. HikeVentures was established in 2012.
  
- <div class="wrapper clear">
-        <div id="g1" class="gauge"></div>
-        <div id="g2" class="gauge"></div>
-        <div id="g3" class="gauge"></div>
+ <div class="wrapper1 clear">
+        <div id="g11" class="gauge"></div>
+        <div id="g21" class="gauge"></div>
+        <div id="g31" class="gauge"></div>
     </div>
     <script src="../raphael-2.1.4.min.js"></script>
     <script src="../justgage.js"></script>
     <script>
     document.addEventListener("DOMContentLoaded", function(event) {
-        var g1, g2, g3;
+        var g11, g21, g31;
 
-        var g1 = new JustGage({
-            id: "g1",
+        var g11 = new JustGage({
+            id: "g11",
             value: getRandomInt(0, 1000),
             min: 0,
             max: 1000,
@@ -29,8 +29,8 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
             donut: true
         });
 
-        var g2 = new JustGage({
-            id: "g2",
+        var g21 = new JustGage({
+            id: "g21",
             value: getRandomInt(0, 100),
             min: 0,
             max: 100,
@@ -39,8 +39,8 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
             donut: true
         });
 
-        var g3 = new JustGage({
-            id: "g3",
+        var g31 = new JustGage({
+            id: "g31",
             value: getRandomInt(0, 100),
             min: 0,
             max: 100,
