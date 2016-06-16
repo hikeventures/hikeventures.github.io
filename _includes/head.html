@@ -89,17 +89,17 @@
         chart.draw(data, options);
 
         setInterval(function() {
-          data.setValue(0, 1, 40 + Math.round(60 * Math.random()));
+          data.setValue(0, 1, 3700 + Math.round(60 * Math.random()));
           chart.draw(data, options);
-        }, 13000);
+        }, 3700);
         setInterval(function() {
-          data.setValue(1, 1, 40 + Math.round(60 * Math.random()));
+          data.setValue(1, 1, 2400 + Math.round(60 * Math.random()));
           chart.draw(data, options);
-        }, 5000);
+        }, 2400);
         setInterval(function() {
-          data.setValue(2, 1, 60 + Math.round(20 * Math.random()));
+          data.setValue(2, 1,1400 + Math.round(20 * Math.random()));
           chart.draw(data, options);
-        }, 26000);
+        }, 1400);
       }
     </script>
 {% endif %}
