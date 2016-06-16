@@ -9,26 +9,11 @@ footer: false
 ---
 HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoeing, cycling and urban microadventures. We <a href="http://www.hikeventures.com/destinations/">adventure</a> mainly in Europe but sometimes we also visit places like Japan or Russia. HikeVentures was established in 2012.
 
+## Followers on Social Media
+
 <div id="chart_div" style="width: 100%; height: 600px;"></div>
 
-## Followers on Social Media
-  
- <div class="table-responsive">
-  <table class="table">
-      <tr>
-    <td width="33%"><a href="https://instagram.com/hikeventures/">Instagram</a> </td>
-    <td width="33%"><a href="https://twitter.com/hikeventures">Twitter</a>  </td>
-    <td width="33%"><a href="https://www.facebook.com/HikeVentures">Facebook</a></td>
-    </tr>
-    <tr>
-    <td>3700</td>
-    <td>2300</td>
-    <td>1400</td>
-    </tr>
-  </table>
-</div>
-
-We are also on [Movescount](http://www.movescount.com/members/member140205-HikeVentures).
+Visit us on <a href="https://instagram.com/hikeventures/">Instagram</a>, <a href="https://twitter.com/hikeventures">Twitter</a> and <a href="https://www.facebook.com/HikeVentures">Facebook</a>. We are also on [Movescount](http://www.movescount.com/members/member140205-HikeVentures).
 
 ## HikeVenturers
 <a href="https://www.facebook.com/profile.php?id=100009207710788">Patrick</a> was born 1978 in South Germany nearby the Alps where he was hiking and skiing extensively especially in Austria. Having parents from Iran and Austria travelling was always part of Patrick's life. Patrick moved to Finland in 2006 and currently lives on an island in the Archipelago Sea on the South West Coast of Finland which is a great place for exploring some of the 6500 islands by packraft, kayak, bicycle or foot. Patrick has also lived several months in Australia where he was diving with sharks and explored the blue mountains. Moreover, he has also worked in the Swiss mountains for several months which was a perfect place for snowboarding and skiing adventures in powder snow. Having relatives in Canada, Patrick also visited Banff National Park, traveled to China, Thailand, Romania, the Arab Emirates and India.<br><br>
