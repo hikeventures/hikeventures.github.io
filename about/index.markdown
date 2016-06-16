@@ -12,6 +12,7 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
      
      
 ## Followers on Social Media
+
 <div class="table-responsive">
   <table class="table">
       <tr>
