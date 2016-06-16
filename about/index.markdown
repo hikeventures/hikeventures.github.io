@@ -9,11 +9,11 @@ footer: false
 ---
 HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoeing, cycling and urban microadventures. We <a href="http://www.hikeventures.com/destinations/">adventure</a> mainly in Europe but sometimes we also visit places like Japan or Russia. HikeVentures was established in 2012.
  
- <div class="wrapper1 clear">
-        <div id="g11" class="gauge"></div>
-        <div id="g21" class="gauge"></div>
-        <div id="g31" class="gauge"></div>
-    </div>
+<div class="wrapper1 clear">
+<div id="g11" class="gauge"></div>
+<div id="g21" class="gauge"></div>
+<div id="g31" class="gauge"></div>
+</div>
     <script src="../raphael-2.1.4.min.js"></script>
     <script src="../justgage.js"></script>
     <script>
