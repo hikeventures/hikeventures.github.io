@@ -64,24 +64,26 @@
 {% if page.title == 'About' %}
 
 
- <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <script type="text/javascript">
-      google.charts.load("current", {packages:["corechart"]});
+      google.charts.load('current', {'packages':['corechart']});
       google.charts.setOnLoadCallback(drawChart);
       function drawChart() {
         var data = google.visualization.arrayToDataTable([
-          ['Dinosaur', 'Length'],
-          ['Instagram', 3700],
-          ['Facebook', 2400],
-          ['Twitter', 1400],
+          ['Month',  'May', 'June'],
+          ['Instagram', 3200,         3300],
+          ['Facebook',     2400,         2500],
+          ['Twitter',        1400,         1500],
         ]);
 
         var options = {
-          title: 'Lengths of dinosaurs, in meters',
-          legend: { position: 'none' },
+          title: 'Social Meia Followers',
+          vAxis: {title: 'Accumulated Rating'},
+          isStacked: true
         };
 
-        var chart = new google.visualization.Histogram(document.getElementById('chart_div'));
+        var chart = new google.visualization.SteppedAreaChart(document.getElementById('chart_div'));
+
         chart.draw(data, options);
       }
     </script>
