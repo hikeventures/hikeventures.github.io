@@ -27,6 +27,50 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
   </table>
 </div>
 
+    <div class="wrapper clear">
+        <div id="g1" class="gauge"></div>
+        <div id="g2" class="gauge"></div>
+        <div id="g3" class="gauge"></div>
+    </div>
+    <script src="../raphael-2.1.4.min.js"></script>
+    <script src="../justgage.js"></script>
+    <script>
+    document.addEventListener("DOMContentLoaded", function(event) {
+        var g1, g2, g3;
+
+        var g1 = new JustGage({
+            id: "g1",
+            value: getRandomInt(0, 1000),
+            min: 0,
+            max: 1000,
+            relativeGaugeSize: true,
+            donut: true
+        });
+
+        var g2 = new JustGage({
+            id: "g2",
+            value: getRandomInt(0, 100),
+            min: 0,
+            max: 100,
+            title: "Very long title",
+            relativeGaugeSize: true,
+            donut: true
+        });
+
+        var g3 = new JustGage({
+            id: "g3",
+            value: getRandomInt(0, 100),
+            min: 0,
+            max: 100,
+            title: "Very long title",
+            label: "label",
+            relativeGaugeSize: true,
+            donut: true
+        });
+    });
+    </script>
+
+
 We are also on [Movescount](http://www.movescount.com/members/member140205-HikeVentures).
 
 ## HikeVenturers
