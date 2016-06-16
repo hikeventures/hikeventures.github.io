@@ -9,49 +9,6 @@ footer: false
 ---
 HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoeing, cycling and urban microadventures. We <a href="http://www.hikeventures.com/destinations/">adventure</a> mainly in Europe but sometimes we also visit places like Japan or Russia. HikeVentures was established in 2012.
  
-<div class="wrapper1 clear">
-<div id="g11" class="gauge"></div>
-<div id="g21" class="gauge"></div>
-<div id="g31" class="gauge"></div>
-</div>
-
-    <script>
-    document.addEventListener("DOMContentLoaded", function(event) {
-        var g11, g21, g31;
-
-        var g11 = new JustGage({
-            id: "g11",
-            value: getRandomInt(0, 1000),
-            min: 0,
-            max: 1000,
-            relativeGaugeSize: true,
-            donut: true
-        });
-
-        var g21 = new JustGage({
-            id: "g21",
-            value: getRandomInt(0, 100),
-            min: 0,
-            max: 100,
-            title: "Very long title",
-            relativeGaugeSize: true,
-            donut: true
-        });
-
-        var g31 = new JustGage({
-            id: "g31",
-            value: getRandomInt(0, 100),
-            min: 0,
-            max: 100,
-            title: "Very long title",
-            label: "label",
-            relativeGaugeSize: true,
-            donut: true
-        });
-    });
-    </script>
-
-
 ## Followers on Social Media
   
  <div class="table-responsive">
@@ -68,7 +25,6 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
     </tr>
   </table>
 </div>
-
 
 We are also on [Movescount](http://www.movescount.com/members/member140205-HikeVentures).
 
