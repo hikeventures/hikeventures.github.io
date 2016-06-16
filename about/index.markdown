@@ -8,27 +8,8 @@ sharing: false
 footer: false
 ---
 HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoeing, cycling and urban microadventures. We <a href="http://www.hikeventures.com/destinations/">adventure</a> mainly in Europe but sometimes we also visit places like Japan or Russia. HikeVentures was established in 2012.
-  
-     
-     
-## Followers on Social Media
-
-<div class="table-responsive">
-  <table class="table">
-      <tr>
-    <td width="33%"><a href="https://instagram.com/hikeventures/">Instagram</a> </td>
-    <td width="33%"><a href="https://twitter.com/hikeventures">Twitter</a>  </td>
-    <td width="33%"><a href="https://www.facebook.com/HikeVentures">Facebook</a></td>
-    </tr>
-    <tr>
-    <td>3700</td>
-    <td>2300</td>
-    <td>1400</td>
-    </tr>
-  </table>
-</div>
-
-    <div class="wrapper clear">
+ 
+ <div class="wrapper clear">
         <div id="g1" class="gauge"></div>
         <div id="g2" class="gauge"></div>
         <div id="g3" class="gauge"></div>
@@ -70,6 +51,24 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
         });
     });
     </script>
+
+
+## Followers on Social Media
+  
+ <div class="table-responsive">
+  <table class="table">
+      <tr>
+    <td width="33%"><a href="https://instagram.com/hikeventures/">Instagram</a> </td>
+    <td width="33%"><a href="https://twitter.com/hikeventures">Twitter</a>  </td>
+    <td width="33%"><a href="https://www.facebook.com/HikeVentures">Facebook</a></td>
+    </tr>
+    <tr>
+    <td>3700</td>
+    <td>2300</td>
+    <td>1400</td>
+    </tr>
+  </table>
+</div>
 
 
 We are also on [Movescount](http://www.movescount.com/members/member140205-HikeVentures).
