@@ -89,15 +89,15 @@
         chart.draw(data, options);
 
         setInterval(function() {
-          data.setValue(0, 1, 3700 + Math.round(60 * Math.random()));
+          data.setValue(0, 1, 3700));
           chart.draw(data, options);
         }, 3700);
         setInterval(function() {
-          data.setValue(1, 1, 2400 + Math.round(60 * Math.random()));
+          data.setValue(1, 1, 2400));
           chart.draw(data, options);
         }, 2400);
         setInterval(function() {
-          data.setValue(2, 1,1400 + Math.round(20 * Math.random()));
+          data.setValue(2, 1,1400));
           chart.draw(data, options);
         }, 1400);
       }
