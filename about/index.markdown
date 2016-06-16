@@ -9,17 +9,19 @@ footer: false
 ---
 HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoeing, cycling and urban microadventures. We <a href="http://www.hikeventures.com/destinations/">adventure</a> mainly in Europe but sometimes we also visit places like Japan or Russia. HikeVentures was established in 2012.
 
-## Followers on Social Media
-
-<div id="chart_div" style="width: 100%; height: 600px;"></div>
-
-Visit us on <a href="https://instagram.com/hikeventures/">Instagram</a>, <a href="https://twitter.com/hikeventures">Twitter</a> and <a href="https://www.facebook.com/HikeVentures">Facebook</a>. We are also on [Movescount](http://www.movescount.com/members/member140205-HikeVentures).
-
 ## HikeVenturers
 <a href="https://www.facebook.com/profile.php?id=100009207710788">Patrick</a> was born 1978 in South Germany nearby the Alps where he was hiking and skiing extensively especially in Austria. Having parents from Iran and Austria travelling was always part of Patrick's life. Patrick moved to Finland in 2006 and currently lives on an island in the Archipelago Sea on the South West Coast of Finland which is a great place for exploring some of the 6500 islands by packraft, kayak, bicycle or foot. Patrick has also lived several months in Australia where he was diving with sharks and explored the blue mountains. Moreover, he has also worked in the Swiss mountains for several months which was a perfect place for snowboarding and skiing adventures in powder snow. Having relatives in Canada, Patrick also visited Banff National Park, traveled to China, Thailand, Romania, the Arab Emirates and India.<br><br>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27117236211/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://c4.staticflickr.com/8/7435/27117236211_aee9dd55ee_b.jpg" width="1024" height="647" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br>
 <hr>
 <a href="https://www.facebook.com/konstantin.gridnevskiy" target="_blank">Konstantin</a> is living in the Netherlands and was born 1978 in Russia. Konstantin is teaching adventure and heritage tourism at an University of Applied Science. Konstantin is our GoPro Hero camera expert. Inspired as a kid by the adventures of his father in Russia Konstantin followed him into his foot steps into the great outdoors. Living in densly populated Netherlands he is also very excited about microadventures which could be interesting for our urban readers. Konstantin is also very interested in hiking and packrafting adventures in Japan. Konstantin is our expert when it comes to <a href="http://www.hikeventures.com/Survey-The-use-of-Technology-Outdoors/">conducting  research</a>.<br><br><a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25211155704/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://c1.staticflickr.com/2/1543/25211155704_7246941e5b_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br>
+
+<hr>
+
+## Followers on Social Media
+
+<div id="chart_div" style="width: 100%; height: 600px;"></div>
+
+Visit us on <a href="https://instagram.com/hikeventures/">Instagram</a>, <a href="https://twitter.com/hikeventures">Twitter</a> and <a href="https://www.facebook.com/HikeVentures">Facebook</a>. We are also on [Movescount](http://www.movescount.com/members/member140205-HikeVentures).
 
 <hr>
 ## Press Trips
