@@ -8,3 +8,59 @@ category: reviews
 tags: [reviews, Thule, phone]
 description: Our review on the Thule X5 watertight phone case
 ---
+
+---
+
+## Fiel Testing
+
+---
+
+## Features
+
+Features
+
+Waterproof and dustproof case with IP68 rating ensures your phone is protected from the elements
+Easy snap-on and snap-off case expertly engineered to ensure water-tight fit every time
+StratoShield screen protector delivers 5 times the impact protection (compared to screen alone)
+StratoShield guards against impact, scratches, glare and fingerprints while maintaining touch-screen responsiveness
+2 meter drop tested: Shock-stop corners and bi-component armor provide exceptional protection
+Textured backpanels enhance grip
+Compatible with Touch ID™ sensor
+Easy and full access to all ports
+Removable wrist strap
+
+
+Technical specifications
+External height	15 cm
+External length	7.8 cm
+External depth	1.7 cm
+Weight (kg)	0.1 kg
+Colour	Floro/Dark Shadow
+Material	Polycarbonate
+Model name	TAIE-5124
+Model number	3203214
+
+---
+
+## Conclusion
+
+
+<a href="http://amzn.to/21q2eGI"><button type="button" class="btn btn-danger">Read more about the Thule Atmos X5</button></a>
+
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Thule Atmos X5";
+amzn_assoc_default_search_phrase = "thule atmos x5";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "d6fd3ed4bc9d6548d1028880155aeb04";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
