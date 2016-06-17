@@ -25,7 +25,7 @@ Visit us on <a href="https://instagram.com/hikeventures/">Instagram</a>, <a href
 
 <hr>
 ## Press Trips
-We can visit your destination and write a trip report for you. Are you looking for fresh content ideas? We can bring our packrafts and promote your country off the beaten track as well. We will also share our content on our social media channels. Just  <a href="#contact">contact us</a> us if you have any questions.
+We can visit your destination and write a trip report for you. Are you looking for fresh content ideas? We can bring our packrafts and promote your destination off the beaten track as well. We will also share our content on our social media channels. Just  <a href="#contact">contact us</a> us if you have any questions.
 
 <hr>
 ## Gear Testing
