@@ -13,6 +13,8 @@ Here comes a short review about the Mountain Equipment Fitzroy Jacket. On our tr
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25401969810/in/dateposted-public/" title="Mountain Equipment Fitzroy Jacket Review"><img src="https://farm2.staticflickr.com/1441/25401969810_8a545bc7b2_b.jpg" width="1024" height="768" alt="Mountain Equipment Fitzroy Jacket Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <!--more-->
 
+---
+
 Once we arrived in Edinburgh we had a stroll through the city where we passed by a couple of outdoor stores and I was lucky to find a really good deal on the Fitzroy jacket. After my purchase I felt much better going camping in a tent on subzero degrees even so I had my regular <a href="http://www.hikeventures.com/cumulus-panyam-450/">Cumulus Panyam 450</a> sleeping bag and my <a href="http://www.hikeventures.com/gear-review-katabatic-gear-chisos/">Katabatic Chisos Quilt</a> as an additional sleeping bag layer with me. 
 
 A down jacket would probably not have worked very well in rainy and wet conditions. Luckily we had 2 days of sun shine on our paddling trip but the weather became quite nasty on the third day with strong winds and rain in the evening. 
@@ -23,8 +25,30 @@ The Fitzroy also comes with a stuff bag. Obviously, a synthetic jacket does not 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25610109461/in/dateposted-public/" title="Mountain Equipment Fitzroy Jacket Review"><img src="https://farm2.staticflickr.com/1647/25610109461_6e4f8d7348_b.jpg" width="1024" height="768" alt="Mountain Equipment Fitzroy Jacket Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+---
+
 ## Technology
 The Mountain Equipment Fitzroy Jacket comes with Primaloft® GOLD and DRILITE® Loft. Those are one of the best synthetic materials for insulation.
 
+---
+
 ## Price
 It is less pricey than an equivalent down jacket. However, the Fitzroy might have more weight (645 grams) and and takes more space in your backpack than an equivalent down jacket.
+
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Insulated Jacket Suggestions";
+amzn_assoc_default_search_phrase = "insulated jacket men north face";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "01e41640c72b4d87bf9d65f3f64a24eb";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
