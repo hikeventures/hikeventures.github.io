@@ -77,6 +77,8 @@ Another light sleeping pad is the Sea to Summit Ultralight which featuers a more
 **Fabric:** 30D   
 **Fabric bottom:** 70D   
 
+The Ther-a-Rest NeoAir XTherm is a sleeping pad for late spring, winter or early spring. However, in Scandinavia it is my go-to sleeping bag throughout the year.
+
 <a href="https://www.rei.com/product/881575/therm-a-rest-neoair-xtherm-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest NeoAir XTherm</button></a>
 
 ---
@@ -85,6 +87,8 @@ Another light sleeping pad is the Sea to Summit Ultralight which featuers a more
 
 **R-Value:** 2.6  
 **Weight:** 410   
+
+The Ther-a-Rest Z LITE SOL is a foam sleeping pad which is a safe choice than an air sleeping pad. You can also use this pad in combination with an air sleeping pad to get the ultimate in comfort and insulation.
 
 <a href="https://www.rei.com/product/829826/therm-a-rest-z-lite-sol-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest Z LITE SOL</button></a>
 
@@ -96,6 +100,8 @@ Another light sleeping pad is the Sea to Summit Ultralight which featuers a more
 **Weight:** 450  
 **Fabric:** 20D   
 
+The Exped Synmat UL 7 was my go-to sleeping pad for a couple of years, however I have replaced it with the Therm-a-Rest XTherm as it offers a better insulation / weight ratio.
+
 <a href="https://www.rei.com/product/811907/exped-synmat-ul-7-air-pad"><button type="button" class="btn btn-danger">Read more about the Exped Synmat UL 7</button></a>
 
 ---
@@ -105,6 +111,8 @@ Another light sleeping pad is the Sea to Summit Ultralight which featuers a more
 **R-Value:** 2.1   
 **Weight:** 520  
 **Fabric:** 30D   
+
+If you don't want to spend so much time inflating your sleeping pad then the Therm-a-Rest EvoLite might be an intersting sleeping pad for the summer. However, the foam of the pad makes it a heavier choice and you don't get such a good insulation as in other air pads.
 
 <a href="http://www.backcountry.com/therm-a-rest-evolite-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest EvoLite</button></a>  
   
