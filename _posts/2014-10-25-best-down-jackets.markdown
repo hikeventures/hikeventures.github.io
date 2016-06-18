@@ -33,15 +33,15 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hik
 
 | Jacket | Weight |
 | ------------- |-------------|
-| [Mountain Hardware Ghost Whisperer Hooded Down Jacket (800 fp)](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens) | 0.47 lb / 212 g |
+| [Mountain Hardware Ghost Whisperer Hooded Down Jacket (800 fp)](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens) | &nbsp; 0.47 lb / 212 g |
 | [Arcteryx Cerium LT Hoody (850 fp)](http://www.backcountry.com/arcteryx-cerium-lt-hooded-down-jacket-mens)      | 0.6 lb / 275 g | 
 | [Western Mountaineering Flash Jacket (850 fp)](http://www.backcountry.com/western-mountaineering-flash-down-jacket-mens)     | 0.64 lb / 290 g |
 | [Marmot Quasar Hoody (900 fp)](http://www.moosejaw.com/moosejaw/shop/product_Marmot-Men-s-Quasar-Hoody_10221652_10208_10000001_-1_) |  0.82 lb / 372 g |
-| [Arcteryx Cerium SV Hoody (850 fp)](http://www.backcountry.com/arcteryx-cerium-sv-hooded-down-jacket-mensv) | 0.97 lb / 440 g &nbsp;  | 
-| [The North Face Super Diez Hooded Jacket (900 fp)](http://www.moosejaw.com/moosejaw/shop/product_The-North-Face-Men-s-Super-Diez-Hooded-Jacket_10284860_10208_10000001_-1_) | 1.05 lb / 477 g &nbsp; |
-| [Patagonia Men's Down Hooded Jacket (800 fp)](http://www.backcountry.com/patagonia-hi-loft-down-hooded-sweater-mens) | 1.2 lb / 550 g &nbsp;  |
-| [Rab Infinity Endurance Jacket (850 fp)](http://www.backcountry.com/rab-infinity-endurance-down-jacket-mens) | 1.26 lb / 575 g &nbsp; |
-| [Rab Positron Jacket (800 fp)](http://www.backcountry.com/rab-positron-down-jacket-mens) | 1.58 lb / 720 g &nbsp; |
+| [Arcteryx Cerium SV Hoody (850 fp)](http://www.backcountry.com/arcteryx-cerium-sv-hooded-down-jacket-mensv) | 0.97 lb / 440 g  | 
+| [The North Face Super Diez Hooded Jacket (900 fp)](http://www.moosejaw.com/moosejaw/shop/product_The-North-Face-Men-s-Super-Diez-Hooded-Jacket_10284860_10208_10000001_-1_) | 1.05 lb / 477 g |
+| [Patagonia Men's Down Hooded Jacket (800 fp)](http://www.backcountry.com/patagonia-hi-loft-down-hooded-sweater-mens) | 1.2 lb / 550 g |
+| [Rab Infinity Endurance Jacket (850 fp)](http://www.backcountry.com/rab-infinity-endurance-down-jacket-mens) | 1.26 lb / 575 g |
+| [Rab Positron Jacket (800 fp)](http://www.backcountry.com/rab-positron-down-jacket-mens) | 1.58 lb / 720 g |
 | [Arcteryx Ceres Jacket (850 fp](http://gearx.com/arc-teryx-ceres-jacket-m) | 1.89 lb / 860 g | 
 
 ---
