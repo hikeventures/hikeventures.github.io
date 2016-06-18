@@ -22,6 +22,32 @@ In this blog post you can find the best sleeping pads available in 2016. I have 
 
 ---
 
+# How to choose the best sleeping pad?
+
+* Weight (do you want an ultralight sleeping pad?)
+* Size (does it need to pack small?)
+* Pad for summer, winter, or 4-season?
+* Sleeping area (do I need a bigger size because I am a big guy?)
+* Ease of inflate / deflate
+* Is weight more important to me than comfort?
+* Durability (a thinner fabric may be less durable / may not be that puncture resistant)
+* Do I want to have a  inflatable mattress, a self-inflating pad or a camping foam?
+* Are the edges of the pad supportive?
+* Does the pad slip easily in the tent?
+* Does the pad make noise when I sleep on it (ear plugs might help)?
+
+---
+
+# Overview of the best Sleeping Pads of 2016
+
+| Sleeping Pad | R-Value | Weight  | Type  |
+| ------------- |:-------------:|:----:| -----:|
+| [Sea to Summit Ultralight](http://www.moosejaw.com/moosejaw/shop/product_Sea-to-Summit-UltraLight-Mat_10291712_10208_10000001_-1_)      | 0.7 | 355 g |  |
+| [Therm-a-Rest Z LITE SOL](https://www.rei.com/product/829826/therm-a-rest-z-lite-sol-sleeping-pad) | 2.6     | 410 |   |
+| [Exped Synmat UL 7](https://www.rei.com/product/811907/exped-synmat-ul-7-air-pad) | 3.3     | 4.5 |   |
+| [Therm-a-Rest NeoAir XTherm](https://www.rei.com/product/881575/therm-a-rest-neoair-xtherm-sleeping-pad)    | 5.7      | 410 g |   |
+
+
 ## [Sea to Summit Ultralight](http://www.moosejaw.com/moosejaw/shop/product_Sea-to-Summit-UltraLight-Mat_10291712_10208_10000001_-1_)
 
 **R-Value:** 0.7   
@@ -56,23 +82,6 @@ In this blog post you can find the best sleeping pads available in 2016. I have 
 
 <a href="https://www.rei.com/product/811907/exped-synmat-ul-7-air-pad"><button type="button" class="btn btn-danger">Read more about the Exped Synmat UL 7</button></a>
   
----
-
-## How to choose a sleeping pad?
-
-* Weight (do you want an ultralight sleeping pad?)
-* Size (does it need to pack small?)
-* Pad for summer, winter, or 4-season?
-* Sleeping area (do I need a bigger size because I am a big guy?)
-* Ease of inflate / deflate
-* Is weight more important to me than comfort?
-* Durability (a thinner fabric may be less durable / may not be that puncture resistant)
-* Do I want to have a  inflatable mattress, a self-inflating pad or a camping foam?
-* Are the edges of the pad supportive?
-* Does the pad slip easily in the tent?
-* Does the pad make noise when I sleep on it (ear plugs might help)?
-
-
 ---
 
 ## Discounts
