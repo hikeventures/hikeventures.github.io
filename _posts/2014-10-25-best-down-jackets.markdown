@@ -1,11 +1,17 @@
 ---
 layout: post
 title: What are the best Down Jackets for 2016
-date: 2016-01-03 20:43:52 +0200
+date: '2016-01-03 20:43:52 +0200'
 comments: true
-description: Need a warm jacket for your autumn or winter? We found the best down jackets for 2016
+description: >-
+  Need a warm jacket for your autumn or winter? We found the best down jackets
+  for 2016
 category: articles
-tags: [articles, best, jackets]
+tags:
+  - articles
+  - best
+  - jackets
+published: true
 ---
 Here is our buying guide of the best summer and winter down jackets for 2016 which you can take on your next hiking, backpacking, skiing, snowboarding, mountaineering, climbing, photography or any other backcountry outdoor adventure to stay warm. 
 
@@ -20,6 +26,24 @@ The down jackets in our list are all men down jackets but most manufacturers do 
 Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Finnish Lapland").
 
 <!--more-->
+
+---
+
+# Overview of the best down jackets of  2016
+
+| Sleeping Pad | Weight  | Fabric |
+| ------------- |:-------------:|:----:| :-----:|
+| [Mountain Hardware Ghost Whisperer Hooded Down Jacket (800 fp)](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens) | 0.77 lb / 212 g |
+| [Arcteryx Cerium LT Hoody (850 fp)](http://www.backcountry.com/arcteryx-cerium-lt-hooded-down-jacket-mens)      | 0.78 lb / 275 g | 
+| [Arcteryx Ceres Jacket (850 fp](http://gearx.com/arc-teryx-ceres-jacket-m) | 0.9 lb / 860 g | 
+| [Western Mountaineering Flash Jacket (850 fp)](http://www.backcountry.com/western-mountaineering-flash-down-jacket-mens)     | 0.9 lb / 290 g |
+| [Marmot Quasar Hoody (900 fp)](http://www.moosejaw.com/moosejaw/shop/product_Marmot-Men-s-Quasar-Hoody_10221652_10208_10000001_-1_) |  0.99 lb / 372 g |
+| [Arcteryx Cerium SV Hoody (850 fp)](http://www.backcountry.com/arcteryx-cerium-sv-hooded-down-jacket-mensv) | 1.15 lb / 440 g &nbsp;  | 
+| [The North Face Super Diez Hooded Jacket (900 fp)](http://www.moosejaw.com/moosejaw/shop/product_The-North-Face-Men-s-Super-Diez-Hooded-Jacket_10284860_10208_10000001_-1_) | 1.15 lb / 477 g &nbsp; |
+| [Patagonia Men's Down Hooded Jacket (800 fp)](http://www.backcountry.com/patagonia-hi-loft-down-hooded-sweater-mens) | 1.15 lb / 550 g &nbsp;  |
+| [Rab Infinity Endurance Jacket (850 fp)](http://www.backcountry.com/rab-infinity-endurance-down-jacket-mens) | 1.15 lb / 575 g &nbsp; |
+| [Rab Positron Jacket (800 fp)](http://www.backcountry.com/rab-positron-down-jacket-mens) | 1.15 lb / 720 g &nbsp; |
+
 
 ---
 
