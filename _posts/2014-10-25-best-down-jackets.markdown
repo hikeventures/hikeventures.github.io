@@ -42,7 +42,7 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hik
 | [Patagonia Men's Down Hooded Jacket (800 fp)](http://www.backcountry.com/patagonia-hi-loft-down-hooded-sweater-mens) | 1.2 lb / 550 g |
 | [Rab Infinity Endurance Jacket (850 fp)](http://www.backcountry.com/rab-infinity-endurance-down-jacket-mens) | 1.26 lb / 575 g |
 | [Rab Positron Jacket (800 fp)](http://www.backcountry.com/rab-positron-down-jacket-mens) | 1.58 lb / 720 g |
-| [Arcteryx Ceres Jacket (850 fp](http://gearx.com/arc-teryx-ceres-jacket-m) | 1.89 lb / 860 g | 
+| [Arcteryx Ceres Jacket (850 fp)](http://gearx.com/arc-teryx-ceres-jacket-m) | 1.89 lb / 860 g | 
 
 ---
 
