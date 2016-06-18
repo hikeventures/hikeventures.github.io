@@ -34,11 +34,11 @@ In this blog post you can find the best sleeping pads available in 2016. I have 
 # Overview of the best Sleeping Pads of 2016
 
 | Sleeping Pad | R-Value | Weight  | Type  |
-| ------------- |:-------------:|:----:| -----:|
+| ------------- |:-------------:|:----:| :-----:|
 | [Sea to Summit Ultralight](http://www.moosejaw.com/moosejaw/shop/product_Sea-to-Summit-UltraLight-Mat_10291712_10208_10000001_-1_)      | 0.7 | 355 g | air  |
-| [Therm-a-Rest Z LITE SOL](https://www.rei.com/product/829826/therm-a-rest-z-lite-sol-sleeping-pad) | 2.6     | 410 | foam   |
-| [Therm-a-Rest NeoAir XLite](https://www.rei.com/product/881574/therm-a-rest-neoair-xlite-sleeping-pad) | 3.2     | 350 | foam   |
-| [Exped Synmat UL 7](https://www.rei.com/product/811907/exped-synmat-ul-7-air-pad) | 3.3     | 450 |  air |
+| [Therm-a-Rest Z LITE SOL](https://www.rei.com/product/829826/therm-a-rest-z-lite-sol-sleeping-pad) | 2.6     | 410 g | foam   |
+| [Therm-a-Rest NeoAir XLite](https://www.rei.com/product/881574/therm-a-rest-neoair-xlite-sleeping-pad) | 3.2     | 350 g | foam   |
+| [Exped Synmat UL 7](https://www.rei.com/product/811907/exped-synmat-ul-7-air-pad) | 3.3     | 450 g |  air |
 | [Therm-a-Rest NeoAir XTherm](https://www.rei.com/product/881575/therm-a-rest-neoair-xtherm-sleeping-pad)    | 5.7      | 410 g | air   |
 
 > The table above is sorted by R-Value.
