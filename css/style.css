@@ -372,52 +372,30 @@ input {
    border-left-color: #FF8000;
 }
 
+/* Table design */
 
+.gist-file .gist-file-code .markdown table { 
+display: block; 
+width: 100%; 
+overflow: auto; 
+word-break: normal; 
+word-break: keep-all 
+}
 
-/* Gauge */
+.gist-file .gist-file-code .markdown table th { 
+font-weight: bold 
+}
 
-body {
-   
-    }
-    /* clearfix */
+.gist-file .gist-file-code .markdown table th,.gist-file .gist-file-code .markdown table td { 
+padding: 6px 13px; 
+border: 1px solid #ddd 
+}
 
-    .clear:before,
-    .clear:after {
-        content: "";
-        display: table;
-    }
+.gist-file .gist-file-code .markdown table tr { 
+background-color: #fff; 
+border-top: 1px solid #ccc 
+}
 
-    .clear:after {
-        clear: both;
-    }
-
-    .clear {
-        *zoom: 1;
-    }
-
-    .wrapper1 {
-        position: absolute;
-        top: 0;
-        right: 0;
-        bottom: 0;
-        left: 0;
-        margin: 30px;
-        border: 1px solid #cccccc;
-    }
-
-    .gauge {
-        display: block;
-        float: left;
-    }
-
-    #g11 {
-        width: 20%;
-    }
-
-    #g21 {
-        width: 60%;
-    }
-
-    #g31 {
-        width: 20%;
-    }
+.gist-file .gist-file-code .markdown table tr:nth-child(2n) { 
+background-color: #f8f8f8 
+} 
