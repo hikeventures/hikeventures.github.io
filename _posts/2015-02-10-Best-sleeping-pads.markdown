@@ -122,6 +122,8 @@ The Exped Synmat UL 7 was my go-to sleeping pad for a couple of years, however I
 **Weight:** 520  
 **Fabric:** 30D   
 
+<a href="https://www.amazon.com/gp/product/B00PZKXB2Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PZKXB2Y&linkCode=as2&tag=hikeve-20&linkId=7de4b697126cb0f135e9550bf812d9fc"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00PZKXB2Y&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00PZKXB2Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 If you don't want to spend so much time inflating your sleeping pad then the Therm-a-Rest EvoLite might be an intersting sleeping pad for the summer. However, the foam of the pad makes it a heavier choice and you don't get such a good insulation as in other air pads.
 
 <a href="http://www.backcountry.com/therm-a-rest-evolite-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest EvoLite</button></a>  
