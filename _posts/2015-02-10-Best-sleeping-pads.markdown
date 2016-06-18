@@ -43,12 +43,16 @@ In this blog post you can find the best sleeping pads available in 2016. I have 
 
 > The table above is sorted by R-Value.
 
+---
+
 ## [Therm-a-Rest NeoAir XLite](https://www.rei.com/product/881574/therm-a-rest-neoair-xlite-sleeping-pad)
 
 **R-Value:** 3.2   
 **Weight:** 350   
 
 <a href="https://www.rei.com/product/881574/therm-a-rest-neoair-xlite-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest NeoAir XLite</button></a>  
+
+---
 
 ## [Sea to Summit Ultralight](http://www.moosejaw.com/moosejaw/shop/product_Sea-to-Summit-UltraLight-Mat_10291712_10208_10000001_-1_)
 
