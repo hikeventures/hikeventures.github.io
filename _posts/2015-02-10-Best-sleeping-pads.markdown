@@ -40,7 +40,7 @@ In this blog post you can find the best sleeping pads available in 2016. I have 
 | [Therm-a-Rest Z LITE SOL](https://www.rei.com/product/829826/therm-a-rest-z-lite-sol-sleeping-pad) | 2.6 | 0.9 lb / 410 g | foam   | - |
 | [Therm-a-Rest NeoAir XTherm](https://www.rei.com/product/881575/therm-a-rest-neoair-xtherm-sleeping-pad)    | 5.7 | 0.9 lb / 410 g | air   | 30D |
 | [Exped Synmat UL 7](https://www.rei.com/product/811907/exped-synmat-ul-7-air-pad) | 3.3 | 0.99 lb / 450 g |  air | 20D |
-| [Therm-a-Rest EvoLite](https://www.rei.com/product/829826/therm-a-rest-z-lite-sol-sleeping-pad) | 2.1 | 1.15 lb / 520 g  | air/foam   | 30D |
+| [Therm-a-Rest EvoLite](https://www.rei.com/product/829826/therm-a-rest-z-lite-sol-sleeping-pad) | 2.1 | 1.15 lb / 520 g &nbsp;  | air/foam   | 30D |
 
 > The table above is sorted by weight.
 
