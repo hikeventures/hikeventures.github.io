@@ -22,11 +22,11 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 
  <div class="table-responsive">   
  <table class="table">
-     	      <tr>
+    <tr>
      <td width="33%"><a href="https://instagram.com/hikeventures/">Instagram</a> </td>	
      <td width="33%"><a href="https://twitter.com/hikeventures">Twitter</a>  </td>
      <td width="33%"><a href="https://www.facebook.com/HikeVentures">Facebook</a></td>
-     </tr>		  
+   </tr>		  
      <tr>		    
      <td>3700</td>		     
      <td>2300</td>		     
