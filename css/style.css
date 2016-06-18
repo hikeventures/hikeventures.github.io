@@ -372,30 +372,3 @@ input {
    border-left-color: #FF8000;
 }
 
-/* Table design */
-
-.gist-file .gist-file-code .markdown table { 
-display: block; 
-width: 100%; 
-overflow: auto; 
-word-break: normal; 
-word-break: keep-all 
-}
-
-.gist-file .gist-file-code .markdown table th { 
-font-weight: bold 
-}
-
-.gist-file .gist-file-code .markdown table th,.gist-file .gist-file-code .markdown table td { 
-padding: 6px 13px; 
-border: 1px solid #ddd 
-}
-
-.gist-file .gist-file-code .markdown table tr { 
-background-color: #fff; 
-border-top: 1px solid #ccc 
-}
-
-.gist-file .gist-file-code .markdown table tr:nth-child(2n) { 
-background-color: #f8f8f8 
-} 
