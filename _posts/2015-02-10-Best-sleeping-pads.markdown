@@ -13,13 +13,6 @@ In this blog post you can find the best sleeping pads available in 2016. I have 
 <a href="https://www.flickr.com/photos/90204224@N07/9599003854" title="Best sleeping pads 2016"><img src="https://c1.staticflickr.com/3/2882/9599003854_415a4828f0_o.jpg" width="992" height="661" alt="Best sleeping pads in 2016 - cumulus panyam exped synmat UL7"></a>Sleeping bag in <a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/">Sarek National Park</a> in Sweden.
 <!--more-->
 
-## [Therm-a-Rest NeoAir XLite](https://www.rei.com/product/881574/therm-a-rest-neoair-xlite-sleeping-pad)
-
-**R-Value:** 3.2   
-**Weight:** 350   
-
-<a href="https://www.rei.com/product/881574/therm-a-rest-neoair-xlite-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest NeoAir XLite</button></a>  
-
 ---
 
 # How to choose the best sleeping pad?
@@ -44,10 +37,18 @@ In this blog post you can find the best sleeping pads available in 2016. I have 
 | ------------- |:-------------:|:----:| -----:|
 | [Sea to Summit Ultralight](http://www.moosejaw.com/moosejaw/shop/product_Sea-to-Summit-UltraLight-Mat_10291712_10208_10000001_-1_)      | 0.7 | 355 g | air  |
 | [Therm-a-Rest Z LITE SOL](https://www.rei.com/product/829826/therm-a-rest-z-lite-sol-sleeping-pad) | 2.6     | 410 | foam   |
+| [Therm-a-Rest NeoAir XLite](https://www.rei.com/product/881574/therm-a-rest-neoair-xlite-sleeping-pad) | 3.2     | 350 | foam   |
 | [Exped Synmat UL 7](https://www.rei.com/product/811907/exped-synmat-ul-7-air-pad) | 3.3     | 450 |  air |
 | [Therm-a-Rest NeoAir XTherm](https://www.rei.com/product/881575/therm-a-rest-neoair-xtherm-sleeping-pad)    | 5.7      | 410 g | air   |
 
 > The table above is sorted by R-Value.
+
+## [Therm-a-Rest NeoAir XLite](https://www.rei.com/product/881574/therm-a-rest-neoair-xlite-sleeping-pad)
+
+**R-Value:** 3.2   
+**Weight:** 350   
+
+<a href="https://www.rei.com/product/881574/therm-a-rest-neoair-xlite-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest NeoAir XLite</button></a>  
 
 ## [Sea to Summit Ultralight](http://www.moosejaw.com/moosejaw/shop/product_Sea-to-Summit-UltraLight-Mat_10291712_10208_10000001_-1_)
 
