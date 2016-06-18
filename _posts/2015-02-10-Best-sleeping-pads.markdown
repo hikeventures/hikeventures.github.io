@@ -33,14 +33,14 @@ In this blog post you can find the best sleeping pads available in 2016. I have 
 
 # Overview of the best Sleeping Pads of 2016
 
-| Sleeping Pad | R-Value | Weight  | Type  |
+| Sleeping Pad | R-Value | Weight  | Type  | Fabric |
 | ------------- |:-------------:|:----:| :-----:|
-| [Therm-a-Rest NeoAir XLite](https://www.rei.com/product/881574/therm-a-rest-neoair-xlite-sleeping-pad) | 3.2 | 350 g | air   |
-| [Sea to Summit Ultralight](http://www.moosejaw.com/moosejaw/shop/product_Sea-to-Summit-UltraLight-Mat_10291712_10208_10000001_-1_)      | 0.7 | 355 g | air  |
-| [Therm-a-Rest Z LITE SOL](https://www.rei.com/product/829826/therm-a-rest-z-lite-sol-sleeping-pad) | 2.6 | 410 g | foam   |
-| [Therm-a-Rest NeoAir XTherm](https://www.rei.com/product/881575/therm-a-rest-neoair-xtherm-sleeping-pad)    | 5.7 | 410 g | air   |
-| [Exped Synmat UL 7](https://www.rei.com/product/811907/exped-synmat-ul-7-air-pad) | 3.3 | 450 g |  air |
-| [Therm-a-Rest EvoLite](https://www.rei.com/product/829826/therm-a-rest-z-lite-sol-sleeping-pad) | 2.1 | 520 g | air/foam   |
+| [Therm-a-Rest NeoAir XLite](https://www.rei.com/product/881574/therm-a-rest-neoair-xlite-sleeping-pad) | 3.2 | 350 g | air   | 30D |
+| [Sea to Summit Ultralight](http://www.moosejaw.com/moosejaw/shop/product_Sea-to-Summit-UltraLight-Mat_10291712_10208_10000001_-1_)      | 0.7 | 355 g | air  | 40D |
+| [Therm-a-Rest Z LITE SOL](https://www.rei.com/product/829826/therm-a-rest-z-lite-sol-sleeping-pad) | 2.6 | 410 g | foam   | |
+| [Therm-a-Rest NeoAir XTherm](https://www.rei.com/product/881575/therm-a-rest-neoair-xtherm-sleeping-pad)    | 5.7 | 410 g | air   | 30D |
+| [Exped Synmat UL 7](https://www.rei.com/product/811907/exped-synmat-ul-7-air-pad) | 3.3 | 450 g |  air | 20D |
+| [Therm-a-Rest EvoLite](https://www.rei.com/product/829826/therm-a-rest-z-lite-sol-sleeping-pad) | 2.1 | 520 g | air/foam   | 30D |
 
 > The table above is sorted by weight.
 
@@ -49,7 +49,10 @@ In this blog post you can find the best sleeping pads available in 2016. I have 
 ## [Therm-a-Rest NeoAir XLite](https://www.rei.com/product/881574/therm-a-rest-neoair-xlite-sleeping-pad)
 
 **R-Value:** 3.2   
-**Weight:** 350   
+**Weight:** 350  
+**Fabric:** 30D   
+
+The Therm-a-Rest NeoAir Xlite is a solid 3-season air sleeping pad which you could consider if you look for a pad which packs light.
 
 <a href="https://www.rei.com/product/881574/therm-a-rest-neoair-xlite-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest NeoAir XLite</button></a>  
 
@@ -58,7 +61,10 @@ In this blog post you can find the best sleeping pads available in 2016. I have 
 ## [Sea to Summit Ultralight](http://www.moosejaw.com/moosejaw/shop/product_Sea-to-Summit-UltraLight-Mat_10291712_10208_10000001_-1_)
 
 **R-Value:** 0.7   
-**Weight:** 355   
+**Weight:** 355    
+**Fabric:** 40D   
+
+Another light sleeping pad is the Sea to Summit Ultralight which featuers a more durable fabric than the Therm-aRest Neo Air Xlite while the NeoAir Xlite will give you a better insulation.
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Sea-to-Summit-UltraLight-Mat_10291712_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Sea to Summit Ultralight</button></a>
 
@@ -67,7 +73,9 @@ In this blog post you can find the best sleeping pads available in 2016. I have 
 ## [Therm-a-Rest NeoAir XTherm](https://www.rei.com/product/881575/therm-a-rest-neoair-xtherm-sleeping-pad)
 
 **R-Value:** 5.7     
-**Weight:** 410    
+**Weight:** 410     
+**Fabric:** 30D   
+**Fabric bottom:** 70D   
 
 <a href="https://www.rei.com/product/881575/therm-a-rest-neoair-xtherm-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest NeoAir XTherm</button></a>
 
@@ -85,7 +93,8 @@ In this blog post you can find the best sleeping pads available in 2016. I have 
 ## [Exped Synmat UL 7](https://www.rei.com/product/811907/exped-synmat-ul-7-air-pad)
 
 **R-Value:** 3.3   
-**Weight:** 450   
+**Weight:** 450  
+**Fabric:** 20D   
 
 <a href="https://www.rei.com/product/811907/exped-synmat-ul-7-air-pad"><button type="button" class="btn btn-danger">Read more about the Exped Synmat UL 7</button></a>
 
@@ -94,7 +103,8 @@ In this blog post you can find the best sleeping pads available in 2016. I have 
 ## [Therm-a-Rest EvoLite](http://www.backcountry.com/therm-a-rest-evolite-sleeping-pad)
 
 **R-Value:** 2.1   
-**Weight:** 520   
+**Weight:** 520  
+**Fabric:** 30D   
 
 <a href="http://www.backcountry.com/therm-a-rest-evolite-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest EvoLite</button></a>  
   
