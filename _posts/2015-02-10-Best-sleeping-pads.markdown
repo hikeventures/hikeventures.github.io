@@ -77,7 +77,7 @@ Another light sleeping pad is the Sea to Summit Ultralight which featuers a more
 **Fabric:** 30D   
 **Fabric bottom:** 70D   
 
-The Ther-a-Rest NeoAir XTherm is a sleeping pad for late spring, winter or early spring. However, in Scandinavia it is my go-to sleeping bag throughout the year.
+The Therm-a-Rest NeoAir XTherm is a sleeping pad for late spring, winter or early spring. However, in Scandinavia it is my go-to sleeping bag throughout the year.
 
 <a href="https://www.rei.com/product/881575/therm-a-rest-neoair-xtherm-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest NeoAir XTherm</button></a>
 
@@ -88,7 +88,7 @@ The Ther-a-Rest NeoAir XTherm is a sleeping pad for late spring, winter or early
 **R-Value:** 2.6  
 **Weight:** 410   
 
-The Ther-a-Rest Z LITE SOL is a foam sleeping pad which is a safe choice than an air sleeping pad. You can also use this pad in combination with an air sleeping pad to get the ultimate in comfort and insulation.
+The Therm-a-Rest Z LITE SOL is a foam sleeping pad which is a safe choice than an air sleeping pad. You can also use this pad in combination with an air sleeping pad to get the ultimate in comfort and insulation.
 
 <a href="https://www.rei.com/product/829826/therm-a-rest-z-lite-sol-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest Z LITE SOL</button></a>
 
