@@ -19,9 +19,11 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 
 ## Followers on Social Media
 
-<div id="chart_div" style="width: 100%; height: 600px;"></div>
+| [Instagram](https://instagram.com/hikeventures/)    | [Twitter](https://twitter.com/hikeventures)           | [Facebook](https://www.facebook.com/HikeVentures)  |
+| :-------------: |:-------------:| :-----:|
+| 3700     | 2400 | 1400 |
 
-Visit us on <a href="https://instagram.com/hikeventures/">Instagram</a>, <a href="https://twitter.com/hikeventures">Twitter</a>, <a href="https://www.facebook.com/HikeVentures">Facebook</a> and <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw">YouTube</a>. We are also on [Movescount](http://www.movescount.com/members/member140205-HikeVentures).
+ We are also on [Movescount](http://www.movescount.com/members/member140205-HikeVentures) and <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw">YouTube</a>.
 
 <hr>
 ## Press Trips
