@@ -145,7 +145,9 @@ published: true
 
             <td><a href="/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/">MSR Revo Ascent</a></td>
             <td><a href="/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/">MSR Lightning Ascent</a></td>
-            <td><a href="/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/">MSR Deploy T2</a></td></tr><tr>
+            <td><a href="/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/">MSR Deploy T2</a></td></tr>
+            
+            <tr>
             <td><a href="/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/">MSR Flight 2</a></td>
                <td><a href="/tubbs-xpedition-snowshoes">Tubbs Xpedition Snowshoes</a></td><td></td>
             
@@ -181,7 +183,7 @@ published: true
         <tr>
          <td><a href="/gear-review-suunto-ambit-2-black-hr">Suunto Ambit 2 Black HR</a></td>
    <td><a href="/best-wallet-hiking-backpacking">Fjällräven Zip Card Holder</a></td>
-              <td><a href="/Julbo-Swell/">Julbo Swell</a></td>
+              <td><a href="/Julbo-Swell">Julbo Swell</a></td>
         </tr>
 
 
@@ -205,7 +207,8 @@ published: true
 
 
             <td><a href="/gear-review-hilleberg-anjan-for-the-summer">Hilleberg Anjan 2</a></td>
-            <td><a href="/gear-review-katabatic-gear-chisos">Katabatic Gear Chisos Quilt</a></td><td><a href="/mountain-equipment-ar-ultralite-2/" target="_self">Mountain Equipment AR Ultralite 2</a></td>
+            <td><a href="/gear-review-katabatic-gear-chisos">Katabatic Gear Chisos Quilt</a></td>
+            <td><a href="/mountain-equipment-ar-ultralite-2/" target="_self">Mountain Equipment AR Ultralite 2</a></td>
 
          </tr>
        
@@ -219,12 +222,6 @@ published: true
          </tr>
        
        
-
-  
-       
-       
-       <tr><td></td><td></td><td></td>
-</tr>
   
 
         
