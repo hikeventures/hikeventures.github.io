@@ -31,12 +31,11 @@ published: true
 
           </tr>
           
-             <tr>
+       <tr>
              <td><a href="/Thule-Atmos-X3">Thule Atmos X3</a></td>
              <td><a href="/Thule-Atmos-X4/">Thule Atmos X4</a></td>
-             <td>
-          <a href="/Thule-Capstone-50L-women/">Thule Capstone 50L Women</a>
-          </td>
+             <td><a href="/Thule-Capstone-50L-women/">Thule Capstone 50L Women</a>  </td>
+        
           </tr>
 
           <tr>
@@ -85,18 +84,20 @@ published: true
        
             <td><strong>Clothing & Layering</strong></td><td></td><td></td></tr>
 
-
+<tr>
             <td><a href="/arcteryx-kappa-pant">Arcteryx Kappa Pants</a></td>
             <td><a href="/gear-review-arcteryx-palisade-pants">Arcteryx Palisade Pants</a></td>
    <td><a href="/gear-review-arcteryx-squamish-hoody">Arcteryx Squamish Hoody</a></td>
 
-        </tr><tr>
+        </tr>
+        <tr>
 
            <td><a href="/arcteryx-tecto-fl-jacket">Arcteryx Tecto FL jacket</a></td>
             <td><a href="/deuter-boulder-gaiter">Deuter Boulder Gaiter</a></td>
               <td><a href="http://hikeventures.com/haglofs-LIM-pant/" target="_self">Haglöfs L.I.M III Pants</a></td>
 
-        </tr><tr>
+        </tr>
+        <tr>
 
 
 
@@ -105,7 +106,8 @@ published: true
            <td><a href="/Mountain-Equipment-Fitzroy-Jacket/">Mountain Equipment Fitzroy Jacket</a></td>
                  
 
-        </tr><tr> <td><a href="/hiking-gear-rab-alpine-mircrolight">Rab Microlight Alpine Jacket</a></td>
+        </tr>
+        <tr> <td><a href="/hiking-gear-rab-alpine-mircrolight">Rab Microlight Alpine Jacket</a></td>
         	<td><a href="/gear-review-montbell-u-dot-l-down-parka">Montbell U.L. Down Parka</a></td>
         	<td><a href="http://hikeventures.com/polychromelab-alta-quota/" target="_self">polychromelab Alta Quota</a></td>
 
@@ -177,7 +179,7 @@ published: true
             <td><a href="/petzl-nao-headlamp-test">Petzl Nao headlamp</a></td>
 
         </tr>
-
+<tr>
 
             <td><a href="/sigma-merrill-dp1-short-review-and-sample-images-from-helsinki">Sigma Merrill DP1</a></td>
              	<td><a href="http://hikeventures.com/solarmonkey-adventurer">Solarmonkey Adventurer</a></td>
