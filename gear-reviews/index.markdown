@@ -139,49 +139,8 @@ published: true
 </tr>
         
 
-<tr style="background:#EEEEEE;">
-        	<td><strong>Snowshoeing</strong></td><td></td><td></td></tr>
-        <tr>
-
-            <td><a href="/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/">MSR Revo Ascent</a></td>
-            <td><a href="/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/">MSR Lightning Ascent</a></td>
-            <td><a href="/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/">MSR Deploy T2</a></td>
-      </tr>
-            
-    <tr>
-            <td><a href="/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/">MSR Flight 2</a></td>
-               <td><a href="/tubbs-xpedition-snowshoes">Tubbs Xpedition Snowshoes</a></td>
-               <td></td>
-            
-      </tr>
-        
-        
-        <tr style="background:#EEEEEE;">
-        	<td><strong>Other Gear</strong></td><td></td><td></td></tr>
-        <tr>
-
-            <td><a href="/how-to-charge-your-batteries-when-you-are-outdoors">Anker Astro E3 battery</a></td>
-            <td><a href="/best-portable-usb-battery-for-hiking-backpacking">Anker Astro E5 battery</a></td>
-
-            <td><a href="/gear-review-black-diamond-ultra-distance-z-pole">Black Diamond Ultra Distance Z-Poles</a></td>
-      </tr>
-      <tr>
-               <td><a href="http://hikeventures.com/waterproof-maps">Calazo Maps</a></td>
-            <td><a href="/field-notes-expedition-and-space-pen">Field Notes Expedition and Space Pen</a></td>
-                       <td><a href="/luci-r-outdoor-not-a-toy">Luci Outdoor Latern</a></td>
-
-	</tr><tr>
-               		<td><a href="http://hikeventures.com/luminaid">luminAID</a></td>
-               <td><a href="/petzl-attache-3d">Petzl Attache 3D</a></td>
-            <td><a href="/petzl-nao-headlamp-test">Petzl Nao headlamp</a></td>
-
-        </tr>
 
 
-
-       
-       
-  
 
 
 
