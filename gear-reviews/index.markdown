@@ -223,12 +223,4 @@ published: true
   
        
        
-       <tr><td></td><td></td><td></td></tr>
-  
-
-        
-        </tbody>
-      </table>
-
-</div>
-
+       <tr><td></td><td></td><td></td>
