@@ -83,6 +83,13 @@ Comment on this post on our <a href="https://www.facebook.com/HikeVentures/">Fac
 <hr>
 </div>
 
+<div>
+<div class="page_nav">
+{% if page.previous.url %}<a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>{% endif %}
+{% if page.next.url %}<a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>{% endif %}
+</div>
+</div>
+
 </div>
 
 </article>
@@ -122,16 +129,7 @@ Comment on this post on our <a href="https://www.facebook.com/HikeVentures/">Fac
             </div>
             
             
-         <div class="col-md-12">
 
-<div>
-<div class="page_nav">
-{% if page.previous.url %}<a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>{% endif %}
-{% if page.next.url %}<a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>{% endif %}
-</div>
-</div>
-
-</div>
 </div>
   
  
