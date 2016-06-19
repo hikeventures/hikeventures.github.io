@@ -50,7 +50,7 @@ published: true
               </tr>
 
 
-        <tr><td></td><td></td><td></td></tr> 
+      
  
  
  
@@ -72,9 +72,7 @@ published: true
 
         </tr>
 
-    	<tr>
-    		<td></td><td></td><td></td>
-    	</tr>      
+       
   
   
   
@@ -118,7 +116,7 @@ published: true
 <td></td>
         </tr>
 
-        <tr><td></td><td></td><td></td></tr>
+     
        <tr style="background:#EEEEEE;">
         <td><strong>Packrafting</strong></td><td></td><td></td></tr><tr>
           <tr>
@@ -193,12 +191,6 @@ published: true
         </tr>
 
 
-        	<tr>
-            <td></td>
-          	<td></td>
-          	<td></td>
-        </tr>
-        
         
         
             <tr style="background:#EEEEEE;">
