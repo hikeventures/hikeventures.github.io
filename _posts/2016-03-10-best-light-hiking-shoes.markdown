@@ -36,7 +36,7 @@ If you are into ultralight hiking then you are probably also interested into my 
 * Ultralight Hiking Shoes won't give you much support when carry a heavier backpack.
 * Durability can be an issue if your shoe is made of very thin and leightweight materials.
 
-# Overview of the best light hiking shoes
+# Overview of the best ultralight hiking shoes
 
 | Shoes | Weight |
 | :------------- |:-------------:|
