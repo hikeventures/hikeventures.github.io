@@ -1,12 +1,17 @@
 ---
 layout: post
 title: The Best Sleeping Pads for 2016
-date: "2016-01-03 18:49:09 +0200"
+date: '2016-01-03 18:49:09 +0200'
 comments: true
 published: true
-description: Need a new Sleeping Pad? Here is our selection of the best sleeping pads on the market!
+description: >-
+  Need a new Sleeping Pad? Here is our selection of the best sleeping pads on
+  the market!
 category: reviews
-tags: [reviews, sleeping pads, best]
+tags:
+  - reviews
+  - sleeping pads
+  - best
 ---
 In this blog post you can find the best sleeping pads available in 2016. I have sorted the sleeping pads by their weight and not by performance and also indicated the R-value of each sleeping pads so you can choose the one which would be most suitable for your next outdoor adventure. From my selection of the best sleeping pads I have only tested the Therm-a-Rest NeoAir XTherm, the self-inflating Therm-a-Rest Evolite and the Exped SYNMAT UL 7 M (you can [see](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) the SYNMAT UL 7 M in action on our hiking and packrafting trip in the Swedish Mountains).
 
@@ -148,22 +153,22 @@ If you don't want to spend so much time inflating your sleeping pad then the The
 
 ---
 
-## R-value and Season 
+## Which R-value is the best for which season when choosing a sleeping pad?
 The R-value of a Sleeping Pad indicates the thermal resistance of a sleeping pad. The higher the R-Value the more the sleeping pad is capable to keep you warm during cold nights. For summer and late spring / early autumn I would opt for a sleeping pad with an R-value between 2.0-3.0 depending on the location. For winter camping I would rather go for a sleeping pad with an R-Value of around 5 or more. I have a sleeping pad with an R-value of 3.3 which I have tested at around 0 degree Celsius during the night and I felt the cold. I guess that a sleeping pad with a R-value of around 4 would have been more suitable for this temperature.
 
 ---
 
-## Air and hand pumps / Inflators
+## Air and hand pumps / Inflators for sleeping pads.
 Some sleeping pad manufacturers also selling [air pumps](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=sleeping+pads+pump) for their sleeping pads. Inflating your sleeping pad with an air pump is the most convenient way but adds to the weight of your backpack depending if you use a mechanical air pump or a plastic pump sack.
 
 ---
 
-## Alternatives
+## What are the alternatives to sleeping pads?
 If you are looking for an alternative to your sleeping pad then you could either collect a lot of moss or use any gear which you are carrying with you and could server as a sleeping pad. Just be aware that the insulation might be not that efficient than with a regular sleeping pad. You should probably test such alternatives in your backyard before heading to more remote places.
 
 ---
 
-## Brands / Manufacturers
+## What are the best brands / manufacturers offering sleeping pads?
 There are several brands designing sleeping pads. Some examples are:
 
 * [ALPS Mountaineering](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=alps+mountaineering+pad)
@@ -177,82 +182,82 @@ There are several brands designing sleeping pads. Some examples are:
 
 ---
 
-## Dimensions
+## Which dimensions should a sleeping pad have?
 Before you decide on buying a sleeping pad you should measure the dimensions of e.g. you tent. Some sleeping pads are different in their width and length and you may not be able to fit your sleeping pad into your tent. Also make sure that your sleeping pad is long enough.
 
 ---
 
-## Durability
+## How durable are sleeping pads?
 The durability of a sleeping pad depends on how you treat your pad and how often you use it. The durability can be different for every brand and model. Ultralight sleeping pads wear off much faster than regular sleeping pads since they are made of thinner and lighter materials. 
 
 ---
 
-## Down
+## How about sleeping pads filled with down?
 [Winter sleeping pads](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=winter+sleeping+pad) are sometimes filled with down or covered with a thermal foil layer to increase the insulation. 
 
 ---
 
-## Dry or stuff sack
+## Using a dry or stuff sack to pack your sleeping pad.
 To keep your sleeping pad dry you can stuff it into a [dry sack](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=dry+sack). There is usually also a dry sack included when you buy a sleeping pad.
 
 ---
 
-## Foam
+## When should I use a foam sleeping pad?
 If you want to be on the safe side then you should buy a sleeping pad which is made of foam as it can not get any punctures. They might be less cosy to sleep on so you might look for a soft camping ground. The [Therm-a-Rest Lite SOL](http://www.backcountry.com/therm-a-rest-z-lite-sol-sleeping-pad) is a popular foam sleeping pad.
 
 ---
 
-## Side sleeper
+## Which sleeping pad should I use as a side sleeper?
 If you are a side sleeper or turn around while sleeping then you should probably get a wider sleeping pad. The [NeoAirs](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=neoair) are popular sleeping pads. 
 
 ---
 
-## Hiking vs camping
+## Is there any difference between hiking and camping sleeping pads?
 When comparing [hiking](http://www.backcountry.com/Store/catalog/search.jsp?q=camping sleeping pads) vs [camping](http://www.backcountry.com/Store/catalog/search.jsp?q=hiking sleeping pads) then you could select a lighter sleeping pad when you are hiking and a more comfortable and probably heavier one when you only plan to go camping. 
 
 ---
 
-## Sleeping pad for baby
+## Are there sleeping pads for babies?
 Some manufacturers also offer [sleeping pads for kids](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=kid+sleeping+pads) but you can also just use a [regular sized](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=sleeping+pads) sleeping pad.
 
 ---
 
-## Grip
+## Why is it important that my sleeping pad has grip?
 Some sleeping pads have less grip than others which may cause them to slip around in the tent more than other pads.
 
 ---
 
-## Repair glue / Repair kit / Patch kit
+## Are there Repair glue / Repair kit / Patch kit for sleeping pads?
 Most sleeping pads come with a repair kit (or patch kit) which includes a repair glue. You can also [purchase](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=sleeping+pads+repair+glue) them separately.
 
 ---
 
-## Hammock
+## Can I use a sleeping pad in a hammock?
 You can use your sleeping pad also in a hammock to increase insulation. 
 
 ---
 
-## Insulation (r-value)
+## How is the insulation (r-value) of sleeping pads?
 The r-value indicates the insulation of a sleeping pad. Down or a thermal foil can also add to the insulation and are usually found on winter sleeping pads.
 
 ---
 
-## Lightweight
+## Are there lightweight sleeping pads?
 Sleeping pads should be lightweight if you are planning to go on a hiking trip. I found the [Therm-A-Rest XTherm](http://www.backcountry.com/therm-a-rest-neoair-xtherm-sleeping-pad) a good compromise between insulation and weight.
 
 ---
 
-## Length & Width
+## What is the best length and width of sleeping pads?
 Sleeping pads come in different length and width. Choose the one which comes closer to your length. Choose a wide sleeping pad if you move around while sleeping or if you are a big person.
 
 ---
 
-## Leak
+## What should I do if my sleeping pad leaks?
 If your sleeping pad is leaking because you got a puncture then you should fix it with a [repair kit](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=repaid+kit+sleeping+pad) or buy a new sleeping pad.
 
 ---
 
-## Material
+## What materials are used to make sleeping pads?
 Sleeping pads are usually made of foam or plastic.
 
 ---
@@ -262,87 +267,87 @@ Some sleeping pads are made of memory foam which moulds to a warm body.
 
 ---
 
-## Most comfortable sleeping pad
+## What are the most comfortable sleeping pads?
 The most comfortable sleeping pad is usually more heavy and thicker. Also here it depends on your needs. A sleeping pad can be super comfortable but it may be a trade off if you have to carry your heavy and comfortable sleeping pad the whole day.
 
 ---
 
-## Non inflatable pads
+## What are non inflatable sleeping pads?
 Non-inflatable sleeping pads are the safest pads for back-country adventures. They can't get any puncture but they are not as comfortable as inflatable pads.
 
 ---
 
-## Noisy sleeping pads
+## Are sleeping pads noisy?
 Some sleeping pads may be more noisy to sleep on especially if they have an insulation foil as a thermal layer. A good solution towards noisy sleeping pads are ear plugs.
 
 ---
 
-## How to attach on a backpack
+## How should I attach my sleeping pad on a backpack?
 A sleeping pad can be attached on the backpack. A good spot is either on the side or on the top of the backpack.
 
 ---
 
-## Sheet
+## Should I use a sheet on my sleeping pad?
 If you prefer to have your sleeping pad like your bed at home then you could cover your sleeping pad with a [sheet](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=sleeping+pad+sheet).
 
 ---
 
-## Self inflating
+## Are self inflating sleeping pads better than air or foam pads?
 [Self-inflating sleeping pads](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=sleeping+pad+self-inflating) have a special foam which do not require you to inflate the pad yourself. One disadvantage of a self-inflating sleeping pad is the additional weight which comes with such a foam.
 
 ---
 
-## Side sleeper
+## Which sleeping pad should I buy if I am a side sleeper?
 If you are a side sleeper then you should look out for a wider sleeping pad like the [Therm-A-Rest NeoAir XTherm](http://www.backcountry.com/therm-a-rest-neoair-xtherm-max-sleeping-pad).
 
 ---
 
-## Storage
+## How should I store my sleeping pad?
 On the trail you can store your sleeping pad in a stuff sack. Usually, I just use the stuff sack to store my sleeping pad at home.
 
 ---
 
-## Thickness
+## How thick should a sleeping pad be?
 The thickness of a sleeping pad is also (but not only) an indication on how well a pad insulates.
 
 ---
 
-## Types
+## What types of sleeping pads are available?
 There are three types of sleeping pads available: self-inflating foam-and-air, inflatable and closed-cell foam pads.
 
 ---
 
-## Temperature rating
+## What are the temperature ratings of sleeping pads?
 The temperature rating of a sleeping pad depends on the thickness, filling, insulation foil or foam of a pad and is usually indicated by the r-value.
 
 ---
 
-## Ultralight
+## What are ultralight sleeping pads?
 Some brands offer ultralight sleeping pads. Their size is probably optimized or they use lighter materials. My favourite ultralight 4-season sleeping pad is the [Therm-A-Rest NeoAir XTherm](http://www.backcountry.com/therm-a-rest-neoair-xtherm-max-sleeping-pad).
 
 ---
 
-## Sleeping Pad vs inflatable air mattress
+## Sleeping pad vs inflatable air mattress
 A foam sleeping pad might be less comfortable and bulky than a air mattress however a foam mattress is a safer option agains punctures compared to an air mattress.
 
 ---
 
-## Valve replacement or valve repair
+## Are there valve replacement or valve repair for sleeping pads?
 Some sleeping pad manufacturers offer [valve repair kids](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=sleeping+pad+valve) which you can purchase additionally.
 
 ---
 
-## Pillow
+## Should I take a sleeping pad pillow on my hiking trip?
 Some manufacturers are also selling [inflatable air pillows](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=air+pillow). You can also use spare clothes as an alternative to an air pillow.  
 
 ---
 
-## Winter sleeping pads
+## What are the best winter sleeping pads?
 Winter sleeping pads are usually thicker and have a special insulation like down or a foil which increases their r-value. One of my favourite winter sleeping pads is the [Therm-A-Rest NeoAir XTherm](http://www.backcountry.com/therm-a-rest-neoair-xtherm-max-sleeping-pad)
 
 ---
 
-## Weight limit
+## Is there a weight limit for sleeping pads?
 There is no weight limit on sleeping pads. You have to decide yourself how much comfort you want and if it's worth to carry it.
 
 ---
