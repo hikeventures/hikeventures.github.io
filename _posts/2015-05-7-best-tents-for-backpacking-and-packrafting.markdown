@@ -17,6 +17,8 @@ For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](
 
 <!--more-->
 
+---
+
 # Overview of the best tents for backpacking, hiking and packrafting in 2016
 
 | Product | Weight |
@@ -31,6 +33,7 @@ For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](
 | [Hilleberg Soulo](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Soulo-1-Person-Tent_10101479_10208_10000001_-1_) |  5.3 lb / 2400 grams |
 | [Hilleberg Nallo](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Nallo-3-Person-Tent_10101458_10208_10000001_-1_) |  5.3 lb / 2400 grams |
 
+---
 
 # The best freestanding and self-supporting tents
 
