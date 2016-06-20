@@ -26,9 +26,9 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 
 ## Followers on Social Media	
 
-**Instagram:** 3800  
-**Twitter:** 2300   
-**Facebook:** 1400   
+**[Instagram](https://www.instagram.com/hikeventures/):** 3800  
+**[Twitter](https://twitter.com/HikeVentures):** 2300   
+**[Facebook](https://www.facebook.com/HikeVentures):** 1400   
 
 We are also on [Movescount](http://www.movescount.com/members/member140205-HikeVentures) and <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw">YouTube</a>.
 
