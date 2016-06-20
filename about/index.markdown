@@ -46,7 +46,7 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 ---
 
 ## Press Trips
-We can visit your destination and write a trip report for you. Are you looking for fresh content ideas? We can bring our packrafts and promote your destination off the beaten track as well. We will also share our content on our social media channels. Just  <a href="#contact">contact us</a> us if you have any questions.
+We can visit your destination and write a trip report for you. Are you looking for fresh content ideas? We can bring our packrafts and promote your destination off the beaten track as well. Just  <a href="#contact">contact us</a> us if you have any questions.
 
 ---
 
