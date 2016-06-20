@@ -42,8 +42,7 @@ If you are into ultralight hiking then you are probably also interested into my 
 | :------------- |:-------------:|
 | [Inov-8 Roclite 282 GTX](http://www.backcountry.com/inov-8-roclite-282-gtx-trail-running-shoe-mens) | &nbsp; 0.62 lb / 282 g |
 | [Adidas Terrex Solo](http://www.backcountry.com/adidas-outdoor-terrex-solo-approach-shoe-mens)    | 0.77 lb / 349 g | 
-| [Adidas Terrex Fast R GTX](http://www.backcountry.com/adidas-outdoor-terrex-fast-r-gtx-hiking-shoe-mens)
-    | 0.9 lb / 411 g |
+| [Adidas Terrex Fast R GTX](http://www.backcountry.com/adidas-outdoor-terrex-fast-r-gtx-hiking-shoe-mens) | 0.9 lb / 411 g |
 | [Scarpa Zen Pro](http://www.backcountry.com/scarpa-zen-pro-hiking-shoe-mens) |  1.05 lb / 480 g |
 | [Arcteryx Acrux2 FL GTX Approach](http://www.backcountry.com/arcteryx-acrux2-fl-approach-shoe-mens) |  1.09 lb / 492 g |
 
