@@ -21,11 +21,11 @@ Are you planning a hiking, backpacking or packrafting trip in Scandinavia? Here 
 
 | Country | National Park / Area | 
 |:----|:---:|
-| Sweden | [Sarek National Park](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) |
+| Sweden | [Sarek](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) |
 | Sweden | [Torneträsk lake](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/) |
 | Finland | [ÅLand](http://www.hikeventures.com/hiking-on-the-aland-islands/) |
 | Norway | [Alta River](http://www.hikeventures.com/Packrafting-Alta-River/) |
-| Finland | [Urho Kekkonen National Park](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/) |
+| Finland | [Urho Kekkonen](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/) |
 
 ---
 
