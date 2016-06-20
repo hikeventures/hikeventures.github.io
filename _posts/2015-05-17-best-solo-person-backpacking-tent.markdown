@@ -30,6 +30,7 @@ A Hilleberg Nallo in the back and a Hilleberg Anjan in the front.
 | [Fly Creek HV UL1](https://www.rei.com/product/895953/big-agnes-fly-creek-hv-ul1-tent) |  2.1 lb / 935 grams |
 | [Hilleberg Enan](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Enan-1-Person-Tent_10274355_10208_10000001_-1_) |  2.5 lb / 1100 grams |
 | [MSR Hubba NX](http://www.backcountry.com/msr-hubba-nx-tent-1-person-3-season) |  2.9 lb / 1290 grams |
+| [Marmot Force UL 2P](http://www.backcountry.com/marmot-force-ul-2p-tent-2-person-3-season) |  2.9 lb / 1320 grams |
 | [Hilleberg Akto](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Akto-1-Person-Tent_10101417_10208_10000001_-1_) |  3.8 lb / 1700 grams |
 | [Hilleberg Niak 1.5](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Niak-1-5-Person-Tent_10306870_10208_10000001_-1_) |  3.8 lb / 1700 grams |
 | [Hilleberg Soulo](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Soulo-1-Person-Tent_10101479_10208_10000001_-1_) |  5.3 lb / 2400 grams |
