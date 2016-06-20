@@ -22,9 +22,9 @@ Are you planning a hiking, backpacking or packrafting trip in Scandinavia? Here 
 | Country | National Park / Area | 
 |:----|:---:|
 | Sweden | [Sarek](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) |
-| Sweden | [Torneträsk lake](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/) |
-| Finland | [ÅLand](http://www.hikeventures.com/hiking-on-the-aland-islands/) |
-| Norway | [Alta River](http://www.hikeventures.com/Packrafting-Alta-River/) |
+| Sweden | [Torneträsk](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/) |
+| Finland | [Åland](http://www.hikeventures.com/hiking-on-the-aland-islands/) |
+| Norway | [Alta river](http://www.hikeventures.com/Packrafting-Alta-River/) |
 | Finland | [Urho Kekkonen](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/) |
 
 ---
@@ -64,4 +64,4 @@ We have visited the Urho Kekkonen National Park in Finland for a winter adventur
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/16347221659" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8673/16347221659_3952a1c6de_b.jpg" width="1024" height="680" alt="Best place to go snowshoeing and skiing in Lapland Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Those were the best places we have visited so far in Scandinavia. We will probably add a few more destinations for hiking, backpacking, kayaking or packrafting in the future as we are planning more outdoor trips in Scandinavia. 
+Those were the best places we have visited so far in Scandinavia. We will probably add a few more destinations for hiking, backpacking, kayaking or packrafting in the future as we are planning more outdoor trips in Scandinavia.
