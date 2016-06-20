@@ -253,9 +253,9 @@ amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_title = "Best Solo Tent Recommendations";
-amzn_assoc_default_search_phrase = "hilleberg nallo 2";
+amzn_assoc_title = "Tent Suggestions";
+amzn_assoc_default_search_phrase = "2p tent";
 amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "0fc96b12130070d577082516582bc019";
+amzn_assoc_linkid = "d851141fbebd325de6befd648bc80425";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
