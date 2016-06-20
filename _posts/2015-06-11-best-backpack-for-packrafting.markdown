@@ -1,10 +1,15 @@
 ---
 layout: post
 title: Best Backpack for Packrafting
-date: 2016-01-03 22:16:01 +0200
+date: '2016-01-03 22:16:01 +0200'
 comments: true
 category: articles
-tags: [articles, best, backpack, packrafting]
+tags:
+  - articles
+  - best
+  - backpack
+  - packrafting
+published: true
 ---
 In this artcile I would like to present the best backpacks with are available for packrafting. Having used the [HMG Porter 4400](https://www.hyperlitemountaingear.com/4400-porter.html)  for the last 3 years on my packrafting trips I was interested to see which alternatives would be available on the market. Gernerally, speaking I was not able to find any alternative to the [HMG Porter 4400](https://www.hyperlitemountaingear.com/4400-porter.html) which is that light and feels like a proper backpack when I bought it. So let's see what other options are available nowadays.
 
@@ -12,7 +17,10 @@ In this artcile I would like to present the best backpacks with are available fo
 
 <!--more-->
 
-## Features of a good packrafting backpack
+---
+
+# Features of a good packrafting backpack
+
 From my point of view a good packrafting backpack should have the following features:
 
 * waterproof 
@@ -24,6 +32,17 @@ From my point of view a good packrafting backpack should have the following feat
 * lightweight
 * attachable to your packraft
 
+---
+
+# Overview of the best backpacks for packrafting for 2016
+| [ULA Epic](http://www.ula-equipment.com/product_p/epic.htm?avad=150351_eb5dd49b) |  2 lb / 922 grams |
+| [HMG Windrider 4400](https://www.hyperlitemountaingear.com/4400-windrider.html) |  2.19 lb / 992 grams |
+| [HMG Porter 4400](https://www.hyperlitemountaingear.com/4400-porter.html) |  2.35 lb / 1065 grams |
+| [NRS Paragon Pack](http://www.moosejaw.com/moosejaw/shop/product_NRS-Paragon-Pack_10275460_10208_10000001_-1_) |  2.6 lb / 1179 grams |
+| [Sea to Summit Hydraulic Dry Pack](http://www.backcountry.com/sea-to-summit-hydraulic-dry-pack) |  2.91 lb / 1319 grams |
+
+---
+
 ## [HMG Windrider 4400](https://www.hyperlitemountaingear.com/4400-windrider.html)
 The HMG Windrider is similar as the HMG Porter 4400 but comes already with three mesh pockets which I find quite useful if you want to quickly store some gear.
 
@@ -32,6 +51,7 @@ The HMG Windrider is similar as the HMG Porter 4400 but comes already with three
 **Fabric:** 15D Cuben Fiber  
 
 <a href="https://www.hyperlitemountaingear.com/4400-windrider.html"><button type="button" class="btn btn-danger">Read more about the HMG Windrider 4400</button></a>  
+
 ---
 
 ## [HMG Porter 4400](https://www.hyperlitemountaingear.com/4400-porter.html)
@@ -75,5 +95,5 @@ The NRS Paragon Pack is quite versatile like the ULA Epic and you can use smalle
 
 ---
 
-## Conclusion
+# Conclusion
 My favourite backpack is still the [HMG Porter 4400](https://www.hyperlitemountaingear.com/4400-porter.html) and I use it since 3 years as my packrafting backpack. I did not have any issues with it so far. There are just a few small spots which are wearing off but it would have happen to any other backpack as well.
