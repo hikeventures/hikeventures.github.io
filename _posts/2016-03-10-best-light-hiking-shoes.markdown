@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The 5 Best Light Summer Hiking Shoes for 2016
+title: The 5 Best Ultralight Summer Hiking Shoes for 2016
 date: '2016-03-02 09:13:12 +0200'
 comments: true
 published: true
