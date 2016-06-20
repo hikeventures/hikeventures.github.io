@@ -23,6 +23,7 @@ For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](
 | [Hyperlite Mountain Gear UltaMid 2](https://www.hyperlitemountaingear.com/ultamid-2.html) |  1.1 lb / 499 grams |
 | [Fly Creek HV UL1](https://www.rei.com/product/895953/big-agnes-fly-creek-hv-ul1-tent) |  2.1 lb / 935 grams |
 | [Hilleberg Enan](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Enan-1-Person-Tent_10274355_10208_10000001_-1_)  |  2.4 lb / 1100 grams |
+| [Marmot Force 2P UL](http://www.backcountry.com/marmot-force-ul-2p-tent-2-person-3-season)  |  2.9 lb / 1320 grams |
 | [Hilleberg Akto](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Akto-1-Person-Tent_10101417_10208_10000001_-1_) |  3.8 lb / 1700 grams |
 | [MSR Hubba Hubba NX](http://www.moosejaw.com/moosejaw/shop/product_MSR-Hubba-Hubba-NX-2-Person-Tent_10238367_10208_10000001_-1_) |  3.8 lb / 1700 grams |
 | [Hilleberg Niak 1.5](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Niak-1-5-Person-Tent_10306870_10208_10000001_-1_) |  3.8 lb / 1700 grams |
@@ -31,6 +32,21 @@ For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](
 
 
 # The best freestanding and self-supporting tents
+
+## [Marmot Force UL 2P](http://www.backcountry.com/marmot-force-ul-2p-tent-2-person-3-season)
+
+<a href="https://www.amazon.com/gp/product/B00M85RDHS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00M85RDHS&linkCode=as2&tag=hikeve-20&linkId=5f772e039fab5f9894178931a800150c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00M85RDHS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00M85RDHS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+The Marmot Force UL 2P is a freestanding 2-person tent for 3 seasons.
+
+**Persons:** 2   
+**Fabric:** 15D ripstop / 20D ripstop (floor)   
+**Weight:** 1.320 kg   
+**Area inner tent:** 2.6 m²   
+
+The Marmot Force UL 2P is a new freestanding tent which comes in a super light package. The Marmot Force UL 2P also uses a very thin tent fabric so you should also handle it carefully. I would also get a [tent footprint](http://www.backcountry.com/marmot-force-ul-2p-footprint) with this tent. I will use the Marmot Force UL 2P this year in Scandinavia as a 1 person tent.
+
+<a href="http://www.backcountry.com/marmot-force-ul-2p-tent-2-person-3-season"><button type="button" class="btn btn-danger">Read more about the Marmot Force UL 2P</button></a> 
 
 ## [MSR Hubba Hubba NX](http://www.moosejaw.com/moosejaw/shop/product_MSR-Hubba-Hubba-NX-2-Person-Tent_10238367_10208_10000001_-1_)
 
