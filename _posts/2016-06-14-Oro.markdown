@@ -1,12 +1,16 @@
 ---
 layout: post
 title: Örö Island - A Mediterranean gem in Finland
-date: 2016-06-14 17:41
+date: '2016-06-14 17:41'
 comments: true
 published: true
 description: A packrafting adventures in the Finnish Archipelago.
 category: destinations
-tags: [destinations, Finland, Finnish Archipelago, Örö]
+tags:
+  - destinations
+  - Finland
+  - Finnish Archipelago
+  - Örö
 ---
 The gear is packed. The packrafts are inflated. The sails are ready. And so we are. There are some clouds in the sky and the wind is strong and blowing in the right direction, our destination being the island of Örö. 
 The island of Örö is located in the outer archipelago and is one of the last big islands before the open sea. Örö offers a lot of cultural history (military) and a diverse landscape. It's also a great place for hiking since the routes are well marked on the trail and on (free) maps. There are two main ones - the blue-blazed “6’’ trail”, leading through the southern part of the island (5.3 km), and a red-blazed “120mm trail”, covering the north (5.6 km). The total length of all paths and roads is around 16.5 km and there is a large number of interpretation panels in 3 languages (Swedish, Finnish and English) that deal with the natural and military history of the island and provide interesting explanation of what one can see on the island. Besides hiking, it is possible to use a bike to mover around the island. To do that you can either rent one or bring your own. Fishing, birdwatching and geocaching are also popular activities among visitors to the island. If you are into diving, then you may need a special permission to do it on Örö. However, it's quite easy to find out what's allowed and what is not as this information is provided at several places. The ferry from Kasnäs to Örö costs 16 EUR one way or 25 EUR if you buy a return ticket. Bicycles can also be taken on the ferry.
@@ -91,8 +95,6 @@ Patrick activating his [Suunto Traverse](http://www.backcountry.com/suunto-trave
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27609266931/in/album-72157669691179556/" title="Örö Island Finland 2016"><img src="https://c4.staticflickr.com/8/7443/27609266931_e056e36f72_b.jpg" width="1024" height="768" alt="Örö Island Finland harbour kayak packrafting suunto traverse alpacka raft hmg porter 4400 windpaddle sail"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 After a short stop at the harbour, we decided to paddle to the take-out place at a bay in the south of the island. On the way, we saw a large number of swans, who were possibly hiding from the wind on the leeward side of the island. Or maybe they preferred the areas that were not frequented by humans. Regardless of the reason, we could count around 15 swans around the bay the next morning. 
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27405232810/in/album-72157669691179556/" title="Örö Island Finland 2016"><img src="https://c3.staticflickr.com/8/7358/27405232810_39297284dc_b.jpg" width="1024" height="250" alt="Örö Island Finland swans"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## How to get on Örö island with your packraft of kayak?
 
