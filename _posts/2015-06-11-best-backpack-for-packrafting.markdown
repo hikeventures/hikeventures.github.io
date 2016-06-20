@@ -34,7 +34,7 @@ From my point of view a good packrafting backpack should have the following feat
 
 ---
 
-# Overview of the best backpacks for packrafting for 2016
+# Overview of the best backpacks for packrafting
 
 | [ULA Epic](http://www.ula-equipment.com/product_p/epic.htm?avad=150351_eb5dd49b) |  2 lb / 922 grams |
 | [HMG Windrider 4400](https://www.hyperlitemountaingear.com/4400-windrider.html) |  2.19 lb / 992 grams |
