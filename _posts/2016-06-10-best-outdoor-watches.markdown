@@ -1,24 +1,27 @@
 ---
 layout: post
 title: The best GPS outdoor watches for 2016 with color display
-date: 2016-06-10 13:46:20 +0200
+date: '2016-06-10 13:46:20 +0200'
 comments: true
 published: true
 description: Our selection of the best outdoor smart watch for 2016.
 category: articles
-tags: [articles, best, watches]
+tags:
+  - articles
+  - best
+  - watches
 ---
-In this article I would like to present the best outdoor GPS watches with color display which are currently available for hiking, backpacking, running or any other outdoor activity.
+Today I would like to present you the best outdoor GPS watches with color display which you can wear on your next hiking or backpacking trip, for running or on any other outdoor activity.
 
-Currently, I am wearing a [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) which has a monochrome display. I am quite satisfied with my Suunto Traverse so far but would be interested to see which alternative outdoor watches would be available which feature a color display.
+At the moment I am wearing a [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) which has a monochrome display. I am quite satisfied with my Suunto Traverse so far but I would be interested to get an outdoor watch which features a color display.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/8620278312/in/album-72157648805512885/" title="Suunto Ambit 2"><img src="https://c1.staticflickr.com/9/8386/8620278312_aed75fec08_k.jpg" width="2048" height="1365" alt="best outdoor GPS watch color display 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <!--more-->
 
-Probably, one challenge of watches having a colour display and a GPS is the battery life. The <a href="http://amzn.to/1YdNH1H" rel="nofollow">Casio Smart Outdoor Watch WSD-F10</a> advertises it's watch with 3 days in monochrome mode however the WDS-F10 does not have a GPS built in. My Traverse lasts approximately 1 day if I switch the GPS on depending on the tracking frequency.
+Probably one disadvantage of watches having a colour display and a GPS was their short battery life in the past. The <a href="http://amzn.to/1YdNH1H" rel="nofollow">Casio Smart Outdoor Watch WSD-F10</a> advertises it's watch with 3 days in monochrome mode however the WDS-F10 does not have a GPS built in. My Traverse lasts approximately 1 day if I switch the GPS on depending on the tracking frequency and GPS accuracy.
 
-The watches are listed by their weight. The specifications like the battery life have been taken from the manufacturers website and I have not tested the watches myself.
+The watches in my list are sorted by their weight and I have taken the specifications like the battery life from the manufacturers website. I have not tested the watches myself yet.
 
 ---
 
@@ -134,4 +137,4 @@ The Suunto Spartan is the latest smart watch addition in the Suunto range. Unfor
 ---
 
 ## Conclusion
-My personal preference goes towards [Garmin Fenix 3](http://www.backcountry.com/garmin-fenix-3-bundle) of the currently released watches with color display. However, I will wait to see the specifications of [Suunto Spartan Ultra](http://www.suunto.com/sports-watch-collections/Suunto-Spartan-Collection/) before I make any purchase decisions as I need an outdoor watch which has GPS built in. As a current Suunto user I have already my GPS data stored in [Movescount](http://www.movescount.com/members/member140205-HikeVentures) so switching brands is anyway not an easy option for me. If I would not need a built-in GPS then I would probably buy the <a href="http://amzn.to/1t7QAFm" rel="nofollow">Apple Watch Sport</a> as an Apple phone user or the <a href="http://amzn.to/1t7QAFm" rel="nofollow">Motorola Moto 360 Sport</a> or the <a href="http://amzn.to/1YdNH1H" rel="nofollow">Casio WSD-F10</a> if I would be an Android phone user.
+From the currently released outdoor watches with color display I would probably pick the [Garmin Fenix 3](http://www.backcountry.com/garmin-fenix-3-bundle). However, before buying any watch I will wait to see the specifications of the [Suunto Spartan Ultra](http://www.suunto.com/sports-watch-collections/Suunto-Spartan-Collection/). As a current [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) user I have already my GPS data stored in [Movescount](http://www.movescount.com/members/member140205-HikeVentures) so switching brands is anyway not an easy option for me. If I would not need a built-in GPS then I would probably buy the <a href="http://amzn.to/1t7QAFm" rel="nofollow">Apple Watch Sport</a> as an Apple phone user or the <a href="http://amzn.to/1t7QAFm" rel="nofollow">Motorola Moto 360 Sport</a> or the <a href="http://amzn.to/1YdNH1H" rel="nofollow">Casio WSD-F10</a> if I would be an Android phone user.
