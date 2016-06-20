@@ -137,7 +137,7 @@ The Hilleberg Niak 1.5 is the latest yellow label tent from Hilleberg. If you ne
 The MSR Hubba NX is a freestanding 3-season 1-person tent.
 
 **Fabric:** 20D ripstop / 30D ripstop (floor)   
-**Weight:** 1.29 kg kg   
+**Weight:** 1290 grams   
 **Area inner tent:** 1.67 m²  
 
 The MSR Hubba NX is also a great 3-season tent and costs much less than the Hilleberg Niak 1.5. However, the Hilleberg has a stronger floor material (50D). If you are low on budget then the MSR Hubba would be our pick. If you want a freestanding 4-season tent then go for the Hilleberg Soulo.
