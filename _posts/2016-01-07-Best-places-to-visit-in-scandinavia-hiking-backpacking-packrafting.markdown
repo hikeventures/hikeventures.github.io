@@ -17,7 +17,7 @@ Are you planning a hiking, backpacking or packrafting trip in Scandinavia? Here 
 
 ---
 
-# Overview of the best places to visit in Scandinavia
+# Overview of the best places to visit in Scandinavia for hiking and backpacking
 
 | Country | National Park / Area | 
 |:----|:---:|
