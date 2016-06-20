@@ -23,7 +23,7 @@ Patrick snowshoeing in [Finnish Lapland](http://www.hikeventures.com/snowshoeing
 Currently, I am using the Black Diamond Ultra Distance Z-Poles which are not made for snowshoeing as it's not possible to add snow baskets on those trekking poles. However, I have also used them on our snowshoeing trip in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Finnish Lapland") - Urho Kekkonen National Park - where I realised that snow baskets might be quite useful. For 3-season trips however they are great. You can see my trekking poles in action in our trip in [Swedish Lapland (Sarek National Park)](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Swedish Lapland"). Most recently, I have added a pair of dedicated snowshoe poles to my gear - the MSR Deploy TR-2 - which I have already tested in the [Austrian Alps](http://www.hikeventures.com/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/).
 
 
-# Overview of the best ski and snowshoeing poles for 2016
+# Overview of the best trekking and snowshoeing poles for 2016
 
 | Product | Weight |
 | :--- | :---: |
