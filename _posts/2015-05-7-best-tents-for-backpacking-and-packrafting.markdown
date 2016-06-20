@@ -22,7 +22,7 @@ For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](
 
 | [Hyperlite Mountain Gear UltaMid 2](https://www.hyperlitemountaingear.com/ultamid-2.html) |  1.1 lb / 499 grams |
 | [Fly Creek HV UL1](https://www.rei.com/product/895953/big-agnes-fly-creek-hv-ul1-tent) |  2.1 lb / 935 grams |
-| [Hilleberg Enan](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Enan-1-Person-Tent_10274355_10208_10000001_-1_)  |  2.6 lb / 110095953/big-agnes-fly-creek-hv-ul1-tent) |  2.4 lb / 1100 grams |
+| [Hilleberg Enan](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Enan-1-Person-Tent_10274355_10208_10000001_-1_)  |  2.4 lb / 1100 grams |
 | [Hilleberg Akto](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Akto-1-Person-Tent_10101417_10208_10000001_-1_) |  3.8 lb / 1700 grams |
 | [MSR Hubba Hubba NX](http://www.moosejaw.com/moosejaw/shop/product_MSR-Hubba-Hubba-NX-2-Person-Tent_10238367_10208_10000001_-1_) |  3.8 lb / 1700 grams |
 | [Hilleberg Niak 1.5](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Niak-1-5-Person-Tent_10306870_10208_10000001_-1_) |  3.8 lb / 1700 grams |
