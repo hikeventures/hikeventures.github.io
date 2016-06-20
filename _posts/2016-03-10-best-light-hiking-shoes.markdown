@@ -46,6 +46,8 @@ If you are into ultralight hiking then you are probably also interested into my 
 | [Scarpa Zen Pro](http://www.backcountry.com/scarpa-zen-pro-hiking-shoe-mens) |  1.05 lb / 480 g |
 | [Arcteryx Acrux2 FL GTX Approach](http://www.backcountry.com/arcteryx-acrux2-fl-approach-shoe-mens) |  1.09 lb / 492 g |
 
+---
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9596183907/in/album-72157646473352583/" title="SDIM4200"><img src="https://c4.staticflickr.com/4/3815/9596183907_732d266e5d_b.jpg" width="1024" height="683" alt="SDIM4200" alt="The best ultralight hiking shoes 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8" ></script>
    
 My Inov-8 ultralight hiking shoes on [our hiking trip](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) in the Sarek National Park in Sweden. I had constantly wet feet.
