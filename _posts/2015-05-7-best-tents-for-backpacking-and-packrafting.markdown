@@ -26,8 +26,7 @@ For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](
 | [Hilleberg Akto](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Akto-1-Person-Tent_10101417_10208_10000001_-1_) |  3.8 lb / 1700 grams |
 | [MSR Hubba Hubba NX](http://www.moosejaw.com/moosejaw/shop/product_MSR-Hubba-Hubba-NX-2-Person-Tent_10238367_10208_10000001_-1_) |  3.8 lb / 1700 grams |
 | [Hilleberg Niak 1.5](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Niak-1-5-Person-Tent_10306870_10208_10000001_-1_) |  3.8 lb / 1700 grams |
-| [Hilleberg Soulo](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Soulo-1-Person-Tent_10101479_10208_10000001_-1_)
- |  5.3 lb / 2400 grams |
+| [Hilleberg Soulo](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Soulo-1-Person-Tent_10101479_10208_10000001_-1_) |  5.3 lb / 2400 grams |
 | [Hilleberg Nallo](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Nallo-3-Person-Tent_10101458_10208_10000001_-1_) |  5.3 lb / 2400 grams |
 
 
