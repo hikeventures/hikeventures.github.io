@@ -26,7 +26,7 @@ The watches in my list are sorted by their weight and I have taken the specifica
 # Overview of the best outdoor gps watches for 2016
 
 | Watch | Weight |
-| :-------------: |:-------------:|
+| :------------- |:-------------:|
 | [Apple Watch Sport 38mm](http://amzn.to/1t7QAFm) | &nbsp; 0.06 lb / 25 g |
 | [Motorola Moto 360 Sport](http://amzn.to/1t7QAFm)      | 0.09 lb / 45 g | 
 | [Garmin Fenix 3](http://www.backcountry.com/garmin-fenix-3-bundle)     | 0.18 lb / 82 g |
