@@ -24,7 +24,7 @@ A Hilleberg Nallo in the back and a Hilleberg Anjan in the front.
 
 ---
 
-# Overview of the best solo backpacking and hiking tents for 2016
+# Overview of the best solo (1-person) tents for 2016
 
 | [Hyperlite Mountain Gear UltaMid 2](https://www.hyperlitemountaingear.com/ultamid-2.html) |  1.1 lb / 499 grams |
 | [Fly Creek HV UL1](https://www.rei.com/product/895953/big-agnes-fly-creek-hv-ul1-tent) |  2.1 lb / 935 grams |
