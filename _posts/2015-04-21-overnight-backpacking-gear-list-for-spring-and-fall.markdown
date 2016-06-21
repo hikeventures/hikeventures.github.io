@@ -1,16 +1,19 @@
 ---
 layout: post
 title: Overnight Backpacking Gear List for Spring and Fall
-date: "2015-04-21 16:32:59 +0300"
+date: '2015-04-21 16:32:59 +0300'
 description: Gear list on what to pack when going for an overnight backpacking trip.
 comments: true
 category: articles
-tags: [articles, list]
+tags:
+  - articles
+  - list
+published: true
 ---
 
 
 I have compiled a list with essential items which are on my backpacking gear list when going for an overnight hiking trip. This list is my personal list so you can add other items to the list as well if you feel that there is a need of having them on your own outdoor adventure. To see the list and the weight of each item click <a href="#list">here</a>. 
-<a href="https://www.flickr.com/photos/90204224@N07/8730115713"><img src="https://farm8.staticflickr.com/7376/8730115713_639c658b91_b.jpg" width="1024" height="683" alt="Overnight Backpacking Gear List - Therm-a-rest Z Sol and Exped Synmat UL7 and Katabatic Gear Chisos"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/8730115713"><img src="https://farm8.staticflickr.com/7376/8730115713_639c658b91_b.jpg" width="100%" alt="Overnight Backpacking Gear List - Therm-a-rest Z Sol and Exped Synmat UL7 and Katabatic Gear Chisos"></a>
 
 ## Considerations for a gear list
 * Duration of the trip (Day trip / overnight / self-supported expedition)
@@ -27,7 +30,7 @@ A tent or a bivy is essential to protect you against rain, wind and mosquitoes. 
 
 Personally, I always take my <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/">Hilleberg Anjan 3</a> with me. This is my standard tent and perfect for hikes with 2 people (even so it says 3) because the extra space comes quite handy if you have to sit in the tent for a longer period or if you just need more space to roll around in the tent, store some gear or if you just want to play cards. Of course, the 2 person tent saves you some weight but after having had the 2 person Hilleberg Anjan for a while I won't miss the space and comfort which I get with the <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/">Hilleberg Anjan 3</a> if I go hiking with a friend. Here is a <a href="http://www.hikeventures.com/best-tents-for-backpacking-and-packrafting/">list</a > with good tents. 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9596230289" title="Hiking and Packrafting in Sarek"><img src="https://farm3.staticflickr.com/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Essential gear for overnight backpacking trips is a tent like the Hilleberg Nallo or Anjan"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9596230289" title="Hiking and Packrafting in Sarek"><img src="https://farm3.staticflickr.com/2822/9596230289_599fa0cde2_b.jpg" width="100%" alt="Essential gear for overnight backpacking trips is a tent like the Hilleberg Nallo or Anjan"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Sleeping Pad
 The last 2 years I have used the <a
@@ -42,7 +45,7 @@ href="javascript: void 0" onclick="avPcwShowPopupFromSearch('Jetboil Sol Ti','se
 href="javascript: void 0" onclick="avPcwShowPopupFromSearch('MSR Windboiler','search_results_count=5');">MSR Windboiler</a> if you just want to boil water and if you have your gas cartridge with you. If you need a more flexible solution concerning the gas you are burning the you should consider the <a
 href="javascript: void 0" onclick="avPcwShowPopupFromSearch('MSR Whisperlite International','search_results_count=5');">MSR Whisperlite International</a>. This stove is also useful if you want to fry food and not just boil water.You can find a list of the latest stoves <a href="http://hikeventures.com/best-backpacking-stoves/">here</a >. Also I pack matches as a backup solution into my backpack even so some stoves can be started without them. If you need a spoon or a fork you might be interested in a Spork. 
 
-<a href="https://www.flickr.com/photos/90204224@N07/9596216703"><img src="https://farm4.staticflickr.com/3748/9596216703_3f4c4db24f_b.jpg" class="img-responsive" width="1024" height="683" alt="Essential overnigh backpacking gear - camping stove like the Jetboil Sol, MiniMo, MicroMo or MSR WindBoiler"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/9596216703"><img src="https://farm4.staticflickr.com/3748/9596216703_3f4c4db24f_b.jpg" class="img-responsive" width="100%" alt="Essential overnigh backpacking gear - camping stove like the Jetboil Sol, MiniMo, MicroMo or MSR WindBoiler"></a>
 
 ## Sleeping Bag or Quilt
 A quilt comes quite handy during the summer months or if you want to save weight. However, if you move a lot while sleeping you should consider a sleeping bag as there is always a chance that cold air might come in from the side of the quilt during the night. Currently, I am using the Cumulus Panyam 450 sleeping bag. Another high end sleeping bag manufacturer is the German company Yeti. It's a bit more expensive than the Cumulus (a Polish company). For example the <a href="http://amzn.to/1JprWSL">Yeti VIB 250</a> Sleeping bag which is suitable till -9C. I would always take a sleeping bag which has more tolerance to colder temperatures. If it is too warm you can always open the sleeping bag. Alternatively, you can also layer e.g. a down jacket / pants with a sleeping bag suitable for warmer temperatures. When chosing a sleeping bag consider taking a sleeping bag which has high down cuin. There is now also down available which is more resistant against water and moisture. As you may know, down is losing it's insulation once it get's wet. For example, the <a
