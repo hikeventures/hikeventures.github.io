@@ -1,16 +1,24 @@
 ---
 layout: post
 title: Mountain Equipment Fitzroy Jacket Review
-date: 2016-03-11 19:06 +0300
+date: '2016-03-11 19:06 +0300'
 comments: true
 category: reviews
-tags: [reviews, mountainequipment, jackets]
-description: We were testing the Mountain Equipment Fitzroy Jacket on our packrafting trip in Scotland
-keywords: Hiking, packrafting, gear review, Mountain Equipment, Fitzroy, Jacket, outdoors
+tags:
+  - reviews
+  - mountainequipment
+  - jackets
+description: >-
+  We were testing the Mountain Equipment Fitzroy Jacket on our packrafting trip
+  in Scotland
+keywords: >-
+  Hiking, packrafting, gear review, Mountain Equipment, Fitzroy, Jacket,
+  outdoors
+published: true
 ---
 Here comes a short review about the Mountain Equipment Fitzroy Jacket. On our trip to Scotland I took my light <a href="http://www.hikeventures.com/gear-review-montbell-u-dot-l-down-parka/">Montbell Down UL Down Jacket</a> with me. Initially, I thought that my down jacket would be sufficient but realised later on that it was probably a smart choice to purchase my new Mountain Equipment Fityroy Jacket. Having done some research on synthetic jackets before our Scotland trip I was already quite focused on the Mountain Equipment Fitzroy Jacket if I would find it for a good price as winter sales was still ongoing.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25401969810/in/dateposted-public/" title="Mountain Equipment Fitzroy Jacket Review"><img src="https://farm2.staticflickr.com/1441/25401969810_8a545bc7b2_b.jpg" width="1024" height="768" alt="Mountain Equipment Fitzroy Jacket Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25401969810/in/dateposted-public/" title="Mountain Equipment Fitzroy Jacket Review"><img src="https://farm2.staticflickr.com/1441/25401969810_8a545bc7b2_b.jpg" width="100%" alt="Mountain Equipment Fitzroy Jacket Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <!--more-->
 
 ---
