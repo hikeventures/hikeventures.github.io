@@ -24,12 +24,12 @@ Considering your own body and gear weight is important when choosing your snowsh
 
 | Model | Weight |
 | :------------- |:-------------:|
-|  [MSR Lightning Ascent 25](http://www.backcountry.com/msr-lightning-ascent) | &nbsp; 0.62 lb / 1780 grams |
-| [MSR Lightning Explore 25](http://www.backcountry.com/msr-lightning-explore-snowshoe-mens) | 0.9 lb / 1870 grams |
-| [MSR Revo Ascent 25](http://www.backcountry.com/msr-revo-ascent-snowshoe-mens) |  1.05 lb / 1970 grams |
-| [Tubbs FLEX VRT 24](http://www.moosejaw.com/moosejaw/shop/product_Tubbs-Men-s-Flex-VRT-Snowshoe_10259131_10208_10000001_-1_)   | 0.77 lb / 2040 grams | 
-| [Tubbs Xpedition 25](http://www.backcountry.com/tubbs-xpedition-snowshoe-mens) |  1.09 lb / 2090 grams |
-| [Atlas 12 Series](http://www.backcountry.com/atlas-12-series-snowshoe) |  1.09 lb / 2100 grams |
+|  [MSR Lightning Ascent 25](http://www.backcountry.com/msr-lightning-ascent) | &nbsp; 3.9 lb / 1780 grams |
+| [MSR Lightning Explore 25](http://www.backcountry.com/msr-lightning-explore-snowshoe-mens) | 4.1 lb / 1870 grams |
+| [MSR Revo Ascent 25](http://www.backcountry.com/msr-revo-ascent-snowshoe-mens) | 4.3 lb / 1970 grams |
+| [Tubbs FLEX VRT 24](http://www.moosejaw.com/moosejaw/shop/product_Tubbs-Men-s-Flex-VRT-Snowshoe_10259131_10208_10000001_-1_)   | 4.5 lb / 2040 grams | 
+| [Tubbs Xpedition 25](http://www.backcountry.com/tubbs-xpedition-snowshoe-mens) |  4.6 lb / 2090 grams |
+| [Atlas 12 Series](http://www.backcountry.com/atlas-12-series-snowshoe) |  4.6 lb / 2100 grams |
 
 > Table is sorted by weight
 
