@@ -36,6 +36,8 @@ If you are into ultralight hiking then you are probably also interested into my 
 * Ultralight Hiking Shoes won't give you much support when carry a heavier backpack.
 * Durability can be an issue if your shoe is made of very thin and leightweight materials.
 
+---
+
 # Overview of the best ultralight hiking shoes
 
 | Shoes | Weight |
@@ -45,6 +47,8 @@ If you are into ultralight hiking then you are probably also interested into my 
 | [Adidas Terrex Fast R GTX](http://www.backcountry.com/adidas-outdoor-terrex-fast-r-gtx-hiking-shoe-mens) | 0.9 lb / 411 g |
 | [Scarpa Zen Pro](http://www.backcountry.com/scarpa-zen-pro-hiking-shoe-mens) |  1.05 lb / 480 g |
 | [Arcteryx Acrux2 FL GTX Approach](http://www.backcountry.com/arcteryx-acrux2-fl-approach-shoe-mens) |  1.09 lb / 492 g |
+
+> Table is sorted by weight
 
 ---
 
