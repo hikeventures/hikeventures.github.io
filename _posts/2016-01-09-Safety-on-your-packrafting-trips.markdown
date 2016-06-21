@@ -1,16 +1,18 @@
 ---
 layout: post
 title: Safety on your Packrafting trips
-date: "2016-01-09 06:29:01 +0300"
+date: '2016-01-09 06:29:01 +0300'
 published: true
 description: How to have a safe packrafting trip
 category: articles
-tags: [articles, packrafting]
+tags:
+  - articles
+  - packrafting
 ---
 
 On our packrafting trips we always follow 3 steps if we come across a rapid which we don’t know and where we are not able to see what lies ahead of us.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24188416291/in/dateposted-public/" title="Safety on your packrafting trip"><img src="https://farm2.staticflickr.com/1650/24188416291_90a7103ccd_b.jpg" width="1024" height="768" alt="Safety on your packrafting trip - Anfibio Packsuit - Suunto Ambit3 - HMG Porter 4400 - Alpackaraft"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24188416291/in/dateposted-public/" title="Safety on your packrafting trip"><img src="https://farm2.staticflickr.com/1650/24188416291_90a7103ccd_b.jpg" width="100%" alt="Safety on your packrafting trip - Anfibio Packsuit - Suunto Ambit3 - HMG Porter 4400 - Alpackaraft"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 ## Step 1: Scout
