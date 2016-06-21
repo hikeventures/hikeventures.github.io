@@ -1,15 +1,16 @@
 ---
 layout: post
 title: Outdoors Tidbits 36
-date: 2015-08-19T08:07:27.000Z
+date: {}
 published: true
-description: "The latest outdoor gear reviews, tips & tricks - Nr. 36"
+description: 'The latest outdoor gear reviews, tips & tricks - Nr. 36'
 category: tidbits
-tags: [tidbits]
+tags:
+  - tidbits
 ---
 
 This summer was quite interesting. HikeVentures has been in Poland, Japan, Sweden and Norway and we have to go through all of our pictures and pick the best ones for our readers. Make sure to check out <a href="https://instagram.com/hikeventure">Instagram</a> and <a href="https://www.facebook.com/HikeVentures">Facebook</a> as we will publish some pictures there as well.
-So what are our upcoming adventure plans? Next weeend Patrick is most likely traveling again to the <a href="http://www.hikeventures.com/hiking-on-the-aland-islands/">Aland Islands</a> to enjoy the beautiful Archipelago from the ferry. In September, HikeVentures will be in Norway again and most likely also participating in the upcoming Finnish Packrafting Gathering 2016. Here are the latest outdoor blog posts from the last 4 weeks.<img src="https://farm1.staticflickr.com/413/19108454846_d2b196136b_b.jpg" width="992" height="744" alt="Viking Grace">
+So what are our upcoming adventure plans? Next weeend Patrick is most likely traveling again to the <a href="http://www.hikeventures.com/hiking-on-the-aland-islands/">Aland Islands</a> to enjoy the beautiful Archipelago from the ferry. In September, HikeVentures will be in Norway again and most likely also participating in the upcoming Finnish Packrafting Gathering 2016. Here are the latest outdoor blog posts from the last 4 weeks.<img src="https://farm1.staticflickr.com/413/19108454846_d2b196136b_b.jpg" width="100%"  alt="Viking Grace">
 
 ## New products
 [Hyperlite Mountain Gear - Dyneema Duffel Bag](http://blog.hyperlitemountaingear.com/its-a-beast-hyperlite-mountain-gears-new-dyneema-duffel-bag/)
