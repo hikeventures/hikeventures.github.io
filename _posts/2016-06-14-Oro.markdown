@@ -43,7 +43,7 @@ The ferry from Kasnäs to Örö costs 16 EUR one way or 25 EUR if you buy a retu
 
 The entrance to the Archipelago Nature Centre Blue Mussel.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27073203593/in/album-72157669691179556/" title="Örö Island Finland"><img src="https://c2.staticflickr.com/8/7436/27073203593_bd84082086_b.jpg" width="1024" height="768" alt="Örö Island Finland Archipelago Nature Centre Blue Mussel Blåmusslan Kasnäs entrance"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27073203593/in/album-72157669691179556/" title="Örö Island Finland"><img src="https://c2.staticflickr.com/8/7436/27073203593_bd84082086_b.jpg" width="100%" alt="Örö Island Finland Archipelago Nature Centre Blue Mussel Blåmusslan Kasnäs entrance"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 In the [Archipelago Nature Centre Blue Mussel](http://www.nationalparks.fi/archipelagonaturecentre/visit) we received plenty of information and very good service from its staff. In the nature centre you can learn a lot about the flora and fauna of the Finnish Archipelago. Unfortunately, the information boards are all in Finnish and Swedish but there was also a booklet in English available, which guided us through the nature centre.
 
