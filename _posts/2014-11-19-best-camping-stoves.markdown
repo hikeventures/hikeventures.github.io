@@ -1,11 +1,14 @@
 ---
 layout: post
 title: The 6 Best Camping Stoves 2016
-date: 2016-01-03 00:42:09 +0300
+date: '2016-01-03 00:42:09 +0300'
 published: true
 description: Need a new camoing stove? Here are the best stoves for 2016.
 category: articles
-tags: [articles, best, stoves]
+tags:
+  - articles
+  - best
+  - stoves
 ---
 A portable and lightweight camping stove is one of the most essential item to have on your adventures to boil water for tea, coffee or dehydrated meals. Here comes my buying guide with the best lightweight camping stoves in 2016 for your next hiking, backpacking, packrafting, mountaineering or any other backcountry trip. The stoves in this guide are sorted by their weight. Also it's a good idea to have a <a href="http://amzn.to/22kZs72" rel="nofollo">Light My Fire Swedish FireSteel</a> with you even so the stove offers an igniter as there is a possibility that the igniter may break during your trip. I would also pack <a href="http://amzn.to/22kZs72" rel="nofollo">Swedish FireSteel</a> into my backpack rather than matches. Matches can get wet but with the <a href="http://amzn.to/22kZs72" rel="nofollo">Swedish FireSteel</a> you don't have to worry about that. Just make sure that you know how to use the <a href="http://amzn.to/22kZs72" rel="nofollo">Light My Fire Swedish FireSteel</a> before you set out to the backcountry. 
 
@@ -15,7 +18,25 @@ A portable and lightweight camping stove is one of the most essential item to ha
 
 Konstantin with a [Jetboil stove](http://hikeventures.com/gear-review-jetboil-sol-ti/ "Jetboil Sol Ti") in [Sarek National Park](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Sarek National Park") in Sweden.
 
-### [MSR MicroRocket](http://www.backcountry.com/msr-micro-rocket-stove)
+---
+
+# Overview of the best camping stoves for 2016
+
+| Model | Weight |
+| :------------- |:-------------:|
+|  [MSR MicroRocket](http://www.backcountry.com/msr-micro-rocket-stove) | &nbsp; 0.16 lb / 73 grams |
+| [MSR WindPro II](http://www.omcgear.com/msr-windpro-ii-stove-1.html) | 0.41 lb / 187 grams |
+| [Jetboil MicroMo](http://www.backcountry.com/jetboil-micromo-personal-cooking-system) |  0.89 lb / 400 grams |
+| [Jetboil MiniMo](http://www.backcountry.com/jetboil-minimo-cooking-system)   | 0.91 lb / 415 grams | 
+| [MSR WindBurner](https://www.rei.com/product/890802/msr-windburner-stove-system) |  0.95 lb / 432 grams |
+| [MSR XGK EX](http://www.backcountry.com/msr-xgk-ex-stove) |  1.08 lb / 489 grams |
+
+> Table is sorted by weight
+
+
+---
+
+## [MSR MicroRocket](http://www.backcountry.com/msr-micro-rocket-stove)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00F0BSDO4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F0BSDO4&linkCode=as2&tag=hikeve-20&linkId=GXQ24IC7MGCK4GWX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00F0BSDO4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00F0BSDO4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -29,7 +50,7 @@ The MSR MicroRocket is the lightest stove in our list. If saving weight has your
 
 ---
 
-### [MSR WindPro II](http://www.omcgear.com/msr-windpro-ii-stove-1.html)
+## [MSR WindPro II](http://www.omcgear.com/msr-windpro-ii-stove-1.html)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B005I6PNZS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005I6PNZS&linkCode=as2&tag=hikeve-20&linkId=NCXX5MK756QD4MWS"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005I6PNZS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005I6PNZS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />   
 
@@ -43,7 +64,7 @@ The MSR WindPro II is a nice stove for those who want to have the burner separat
 
 ---
 
-### [Jetboil MicroMo](http://www.backcountry.com/jetboil-micromo-personal-cooking-system)
+## [Jetboil MicroMo](http://www.backcountry.com/jetboil-micromo-personal-cooking-system)
 
 <a  href="http://www.amazon.com/gp/product/B019GPIYZC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019GPIYZC&linkCode=as2&tag=hikeve-20&linkId=MRADQZHAE2DN5ZNE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B019GPIYZC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B019GPIYZC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -58,7 +79,7 @@ The Jetboil MicroMo offers a push-button igniter and a heat indicator and comes 
 
 ---
 
-### [Jetboil MiniMo](http://www.backcountry.com/jetboil-minimo-cooking-system)
+## [Jetboil MiniMo](http://www.backcountry.com/jetboil-minimo-cooking-system)
 
 <a  href="http://www.amazon.com/gp/product/B00KXP7CUI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KXP7CUI&linkCode=as2&tag=hikeve-20&linkId=63NECFHTZ3EYX64N"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00KXP7CUI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00KXP7CUI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -73,7 +94,7 @@ The Jetboil MiniMo offers you one of the best simmer controls, metal handles, an
 
 ---
 
-### [MSR WindBurner](https://www.rei.com/product/890802/msr-windburner-stove-system)
+## [MSR WindBurner](https://www.rei.com/product/890802/msr-windburner-stove-system)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00NPPWOJ2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NPPWOJ2&linkCode=as2&tag=hikeve-20&linkId=G7LF7ACULXJOSCLX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00NPPWOJ2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00NPPWOJ2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -88,7 +109,7 @@ The MSR WindBurner is the latest addition on the stove market from MSR. This sto
 
 ---
 
-### [MSR XGK EX](http://www.backcountry.com/msr-xgk-ex-stove)
+## [MSR XGK EX](http://www.backcountry.com/msr-xgk-ex-stove)
 
 <a  href="http://www.amazon.com/gp/product/B000EUMKFO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000EUMKFO&linkCode=as2&tag=hikeve-20&linkId=VXEWELGDXLVW6BJU"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000EUMKFO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B000EUMKFO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
