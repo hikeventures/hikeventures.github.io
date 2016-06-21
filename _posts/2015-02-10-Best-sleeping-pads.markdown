@@ -36,7 +36,7 @@ In this blog post you can find the best sleeping pads available in 2016. I have 
 
 ---
 
-# Overview of the best Sleeping Pads of 2016
+# Overview of the best sleeping pads of 2016
 
 | Sleeping Pad | R-Value | Weight  | Type  | Fabric |
 | ------------- |:-------------:|:----:| :-----:|
