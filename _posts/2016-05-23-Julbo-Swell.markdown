@@ -1,27 +1,30 @@
 ---
 layout: post
 title: Julbo Swell Review
-date: 2016-05-23 19:00 +0300
+date: '2016-05-23 19:00 +0300'
 comments: true
 published: true
 category: reviews
-tags: [reviews, julbo, glasses]
+tags:
+  - reviews
+  - julbo
+  - glasses
 description: Our review on the Julbo Swell
 ---
 After having had my old sunglasses for over 3 years I thought it was time to upgrade my sunglasses to a newer model. As [we interviewed Julbo on the ISPO 2016](https://www.youtube.com/watch?v=vdb3m52FdvM) in Munich I decided to have a look on their product range and came across the Julbo Swell which could become my new sun glasses for our packrafting trips.
    
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27152697396/in/photolist-HdLXe5-HnoEX7-dKWT8w-dXZ33V-HaFrBx-GRud4u" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7346/27152697396_5c004ed994_b.jpg" width="1024" height="608" alt="Julbo Swell on the Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27152697396/in/photolist-HdLXe5-HnoEX7-dKWT8w-dXZ33V-HaFrBx-GRud4u" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7346/27152697396_5c004ed994_b.jpg" width="100%" alt="Julbo Swell on the Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <!--more-->
 
 ---
 
-## Alternatives
+# Alternative sunglasses to Julbo Swell
 Alternatives to the Julbo Swell which I would have considered as packrafting sun glasses are the brand new Julbo Race 2.0  Nautic which Konstantin is going to review for HikeVentures within the next weeks and the Julbo Wave which is a few grams heavier than the Julbo Swell but features a natural front air flow.
 
 ---
 
-## Features
+# Features
 **Weight:** 28 grams    
 **Lens:** octopus lens cat. 2-4    
 **Frame:** floating, blue-yellow, polypropylene    
@@ -30,13 +33,13 @@ Alternatives to the Julbo Swell which I would have considered as packrafting sun
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26873718832/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7213/26873718832_c77a751c32_b.jpg" width="1024" height="875" alt="Wearing a Julbo Swell in Sweden"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26873718832/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7213/26873718832_c77a751c32_b.jpg" width="100%" alt="Wearing a Julbo Swell in Sweden"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The Julbo Swell features also a fresh and stylish design.
 
 ---
 
-## Field Testing
+# Field Testing
 Julbo provided me with a brand new Julbo Swell with Octopus lenses to test it on our hiking and packrafting trips and  2 weeks ago I had the opportunity to test the Julbo Swell on the [Swedish Packrafting Round-Up 2016](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/) on the Voxnan river in Sweden. 
 
 We were actually quite lucky with the weather. The week before it was still cold and cloudy but on the days we were paddling the sun was shining every day and I even burned my face except there where I was wearing the Julbo Swell. The sun in the Nordics can be quite strong  - so lesson learned - I will use sun lotion on my next packrafting trip in Scandinavia.
@@ -45,7 +48,7 @@ The Julbo Swell is made from ultralight material to ensure that it floats on the
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27146234641/in/dateposted-public/" title="Packrafting in Eastern Poland with a Julbo Swell"><img src="https://c2.staticflickr.com/8/7491/27146234641_532b1b2529_b.jpg" width="1024" height="671" alt="Packrafting in Eastern Poland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27146234641/in/dateposted-public/" title="Packrafting in Eastern Poland with a Julbo Swell"><img src="https://c2.staticflickr.com/8/7491/27146234641_532b1b2529_b.jpg" width="100%" alt="Packrafting in Eastern Poland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
      
 Konstantin wearing the Julbo Swell while packrafting in Poland.
 
@@ -64,27 +67,27 @@ The Julbo Swell is also great for hiking or backpacking. In the picture above yo
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27055196146/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7422/27055196146_582552d20c_b.jpg" width="1024" height="601" alt="Paddling with a Julbo Swell"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27055196146/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7422/27055196146_582552d20c_b.jpg" width="100%" alt="Paddling with a Julbo Swell"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Sun glasses for packrafting need to stay on your face even when the rapid gets rough.
 
 ---
 
-## Packaging
+# Packaging
 The lens comes with a stuff sack which can be used to clean the lenses and a hard cover box.
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27101083392/in/dateposted-public/" title="Julbo Swell"><img src="https://farm8.staticflickr.com/7431/27101083392_95b30b9dc0_b.jpg" width="1024" height="768" alt="What's in the box - Julbo Swell - unboxing"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27101083392/in/dateposted-public/" title="Julbo Swell"><img src="https://farm8.staticflickr.com/7431/27101083392_95b30b9dc0_b.jpg" width="100%" alt="What's in the box - Julbo Swell - unboxing"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
-## Variations
+# Variations
 The Julbo Swell is also suitable for prescription lenses as a RX Trem version. There is also a Julbo Swell available with a polarized 3 lenses.
 
 ---
 
-## Conclusion
+# Conclusion
 The Julbo Swell checked all boxes which I had from a packrafting sunglass. The Julbo Swell is super light and very comfortable to wear. 
 
 If I could think of something negative about the Julbo Swell then it would be that the lenses grew damp a few times since there are no openings on the lens where the air could circulate. Fortunately, the lens only grew damp two times during the whole trip and was not a major issue. I would recommend the Julbo Swell to anyone who is looking for light packrafting glasses with a fresh design.
