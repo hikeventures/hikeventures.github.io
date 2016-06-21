@@ -28,12 +28,12 @@ Currently, I am using the Black Diamond Ultra Distance Z-Poles which are not mad
 
 | Product | Weight |
 | :--- | :---: |
-| [Black Diamond Distance Carbon Z](http://www.backcountry.com/black-diamond-distance-trekking-pole) |  1.4 lb / 285 grams |
-| [Black Diamond Distance Carbon FLZ](https://www.rei.com/product/879955/black-diamond-distance-carbon-flz-trekking-poles-pair) |  1.4 lb / 355 grams |
-| [Leki Micro Ti](http://www.backcountry.com/leki-micro-vario-ti-trekking-poles) |  1.4 lb / 432 grams |
-| [MSR Flight 3](http://www.backcountry.com/msr-flight-3-trekking-pole) |  0.7 lb / 490 grams |
-| [Black Diamond Expedition 3](https://www.rei.com/product/876929/black-diamond-expedition-3-ski-poles-pair) |  1.1 lb / 520 grams |
-| [MSR Deploy T-3](http://www.backcountry.com/msr-deploy-tr-3-trekking-pole) |  1 lb / 635 grams |
+| [Black Diamond Distance Carbon Z](http://www.backcountry.com/black-diamond-distance-trekking-pole) |  0.62 lb / 285 grams |
+| [Black Diamond Distance Carbon FLZ](https://www.rei.com/product/879955/black-diamond-distance-carbon-flz-trekking-poles-pair) |  0.8 lb / 355 grams |
+| [Leki Micro Ti](http://www.backcountry.com/leki-micro-vario-ti-trekking-poles) |  0.8 lb / 432 grams |
+| [MSR Flight 3](http://www.backcountry.com/msr-flight-3-trekking-pole) |  1.1 lb / 490 grams |
+| [Black Diamond Expedition 3](https://www.rei.com/product/876929/black-diamond-expedition-3-ski-poles-pair) |  1.2 lb / 520 grams |
+| [MSR Deploy T-3](http://www.backcountry.com/msr-deploy-tr-3-trekking-pole) |  1.4 lb / 635 grams |
 
 ---
 
