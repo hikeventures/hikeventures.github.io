@@ -1,14 +1,16 @@
 ---
 layout: post
-title: "Outdoors Tidbits 22"
-date: 2014-12-31 07:23:48 +0200
+title: Outdoors Tidbits 22
+date: '2014-12-31 07:23:48 +0200'
 comments: true
-description: The latest outdoor gear reviews, tips & tricks - Nr. 22 - #outdoorstidbits
+description: 'The latest outdoor gear reviews, tips & tricks - Nr. 22 -'
 category: tidbits
-tags: [tidbits]
+tags:
+  - tidbits
+published: true
 ---
 This week Konstantin went a couple of days hiking in the Polish Mountains while Patrick was investigating some possibilities for our Lapland trip which we have planned for end of January.  We have also updated our microphone to a <a href="http://amzn.to/1vFgyL8" target="_blank">Zoom H5</a> which we are going to use when shooting videos in 2015. <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/8351963809"><img src="https://farm9.staticflickr.com/8468/8351963809_ef1ef59998_b.jpg" width="1024" height="364"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/8351963809"><img src="https://farm9.staticflickr.com/8468/8351963809_ef1ef59998_b.jpg" width="100%"></a>
 <br><!--more--><br>
 Ben Wyvis and Tops. - [ness64.wordpress.com](http://ness64.wordpress.com/2014/12/26/ben-wyvis-tops) 
 <br><br>
@@ -22,7 +24,7 @@ Bukhansan Winter Magic. - [groovybowsequence.com](http://groovybowsequence.com/2
 <br><br>
 Gear Review: NUUN Active Hydration Tablets. - [trailtopeak.com](http://trailtopeak.com/2014/12/26/gear-review-nuun-active-hydration-tablets-1010) 
 <br><br>
-<iframe src="//player.vimeo.com/video/40900990" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/40900990">Snow Flapping Sarek</a> from <a href="http://vimeo.com/stevebehaeghel">steve behaeghel</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="//player.vimeo.com/video/40900990" width="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/40900990">Snow Flapping Sarek</a> from <a href="http://vimeo.com/stevebehaeghel">steve behaeghel</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br><br>
 Therm-a-Rest Z Lite Sol Sleeping Pad. - [trailtopeak.com](http://trailtopeak.com/2014/12/26/therm-a-rest-z-lite-sol-sleeping-pad-910) 
 <br><br>
@@ -42,7 +44,7 @@ Jumping on a mountain. - [thruhiker2013.wordpress.com](http://thruhiker2013.word
 <br><br>
 El Balcon de Iberia in Cuba. - [besthike.com](http://besthike.com/2014/12/28/el-balcon-de-iberia-cuba/) 
 <br><br>
-<iframe src="//player.vimeo.com/video/115153736" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/115153736">PNW: Packrafting iN Winter.</a> from <a href="http://vimeo.com/user191910">LaceMine29.com</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="//player.vimeo.com/video/115153736" width="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/115153736">PNW: Packrafting iN Winter.</a> from <a href="http://vimeo.com/user191910">LaceMine29.com</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 <br><br>
 Hiking at Baugo Creek County Park. - [outsidethebend.com](http://outsidethebend.com/2014/12/28/hiking-at-ferrettiebaugo-creek-county-park) 
 <br><br>
@@ -82,4 +84,4 @@ Gear of the year 2015. - [testedtodestruction.com](http://testedtodestruction.bl
 <br><br>
 Fuel Efficiency – Jetboils vs. Regular Stoves. - [adventuresinstoving.blogspot.com](http://adventuresinstoving.blogspot.com/2014/12/fuel-efficiency-jetboils-vs-regular.html) 
 <br><br>
-Maricopa Trail. - [arizonahiking.blogspot.com](http://arizonahiking.blogspot.com/2014/12/maricopa-trail.html) 
+Maricopa Trail. - [arizonahiking.blogspot.com](http://arizonahiking.blogspot.com/2014/12/maricopa-trail.html)
