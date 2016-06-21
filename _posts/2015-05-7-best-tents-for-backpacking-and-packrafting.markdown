@@ -21,7 +21,7 @@ For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](
 
 # Overview of the best tents for backpacking, hiking and packrafting in 2016
 
-| Product | Weight |
+| Model | Weight |
 |:------|:-----:|
 | [Hyperlite Mountain Gear UltaMid 2](https://www.hyperlitemountaingear.com/ultamid-2.html) |  1.1 lb / 499 grams |
 | [Fly Creek HV UL1](https://www.rei.com/product/895953/big-agnes-fly-creek-hv-ul1-tent) |  2.1 lb / 935 grams |
