@@ -19,13 +19,19 @@ The island of Örö is located in the outer archipelago and is one of the last b
 
 <!--more-->
 
+---
+
 # Hiking on Örö
 
 Örö is also a great place for hiking since the routes are well marked on the trail and on (free) maps. There are two main ones - the blue-blazed “6’’ trail”, leading through the southern part of the island (5.3 km), and a red-blazed “120mm trail”, covering the north (5.6 km). The total length of all paths and roads is around 16.5 km and there is a large number of interpretation panels in 3 languages (Swedish, Finnish and English) that deal with the natural and military history of the island and provide interesting explanation of what one can see on the island. 
 
+---
+
 # Leisure activities on Örö
 
 Besides hiking, it is possible to use a bike to mover around the island. To do that you can either rent one or bring your own. Fishing, birdwatching and geocaching are also popular activities among visitors to the island. If you are into diving, then you may need a special permission to do it on Örö. However, it's quite easy to find out what's allowed and what is not as this information is provided at several places. 
+
+---
 
 # Getting by ferry from Kasnäs to Örö
 
@@ -50,6 +56,8 @@ Patrick with the English booklet in the tower of the nature centre.
 The tower can be used to enjoy the view of the area, but also as a quiet place to enjoy reading a book or two about the Archipelago, which are also provided there.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27073203883/in/album-72157669691179556/" title="Örö Island Finland 2016"><img src="https://c4.staticflickr.com/8/7428/27073203883_0b23675fea_b.jpg" width="1024" height="768" alt="Örö Island Finland Archipelago Nature Centre Blue Mussel Blåmusslan kasnäs"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+---
 
 # Packrafting from Kasnäs to Örö
 
@@ -108,11 +116,15 @@ Patrick activating his [Suunto Traverse](http://www.backcountry.com/suunto-trave
 
 After a short stop at the harbour, we decided to paddle to the take-out place at a bay in the south of the island. On the way, we saw a large number of swans, who were possibly hiding from the wind on the leeward side of the island. Or maybe they preferred the areas that were not frequented by humans. Regardless of the reason, we could count around 15 swans around the bay the next morning. 
 
+---
+
 # How to get on Örö island with your packraft of kayak?
 
 It is not allowed to enter the Örö island at any other spot than the harbour or the dedicated landing spot for kayakers shown in the picture below.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27073202953/in/album-72157669691179556/" title="Örö Island Finland"><img src="https://c2.staticflickr.com/8/7515/27073202953_9823352a88_b.jpg" width="1024" height="768" alt="Örö Island kayaking packrafting reach enter land harbour"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+---
 
 # Camping on Örö
 
@@ -153,6 +165,8 @@ The several public toilets, spread out around the island, are very clean and hav
 ‘When nature calls’ on Örö ...
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27683700985/in/album-72157669691179556/" title="Örö Island Finland"><img src="https://c2.staticflickr.com/8/7178/27683700985_eb083e3fdd_b.jpg" width="1024" height="768" alt="Örö Island Finland toilets"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+---
 
 # Exploring the Örö Island: Military Past
 The main cultural sights on the island are related to the history of costal defences in Finland starting with the last years of the rule of tsarist Russia and until the present day. Ranging from fortifications and tranches, to barracks and cobbled roads, the island’s rich military history is evident on every step. 
@@ -241,10 +255,14 @@ Here is another example of such ‘child-proofing’ – it is a sign in three l
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27683697745/in/album-72157669691179556/" title="Danger signs on Örö"><img src="https://c2.staticflickr.com/8/7589/27683697745_f44b7b9f7c_b.jpg" width="1024" height="768" alt="Danger signs on Örö island Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+---
+
 # Conclusion
 We really enjoyed our trip to Örö and it's probably one of the best sights you can visit if you are interested into fortresses or the Finnish Archipelago - it's a perfect blend of history and nature. Also don't miss the view from the Lövö bridge when you drive from Turku or Helsinki to Kasnäs. From the Lövö bridge you can enjoy a beautiful view over a part of the Finnish Archipelago. The Lövö bridge is is 473 m long and 19 meter high. There is also the [Coastal Trail Bicycle Route](http://www.visitkimitoon.fi/en/kustrutten) going from Salo to Kasnäs if you prefer to come by bicycle.
 
-# Where to get more information?
+---
+
+# Where to get more information about Örö?
 There are several websites where you can get more information about Örö. 
 
 * [visitörö.fi](http://xn--visitr-0xab.fi/en/)
