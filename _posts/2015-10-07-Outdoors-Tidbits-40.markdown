@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Outdoors Tidbits 40"
-date: 2015-10-07 018:27:01 +0300
+title: Outdoors Tidbits 40
+date: '2015-10-07 018:27:01 +0300'
 published: true
-description: The latest outdoor gear reviews, tips & tricks - Nr. 40 - #outdoorstidbits
+description: 'The latest outdoor gear reviews, tips & tricks - Nr. 40 -'
 category: tidbits
-tags: [tidbits]
+tags:
+  - tidbits
 ---
 Here comes our latest outdoors tidbits with the latest outdoors tips and tricks and gear reviews. Temperatures are dropping and it's time to think about winter gear. We had already the first snow up North in Lapland. We are also working on a gear review which we will publish this week as well.
 
-<img src="https://farm6.staticflickr.com/5831/21942983082_dd6aba7c05_b.jpg" width="1024" height="768" alt="Packrafting in Turku Archipelago"><!--more-->
+<img src="https://farm6.staticflickr.com/5831/21942983082_dd6aba7c05_b.jpg" width="100%" alt="Packrafting in Turku Archipelago"><!--more-->
 
 ## Gear on Sale (7. October 2015)
 <a href="http://www.backcountry.com/arcteryx-cerium-lt-hooded-down-jacket-mens?CMP_SKU=ARC3662&MER=0406&utm_source=Avantlink&utm_source=Affiliate&mr:trackingCode=23B113D4-C204-E311-92D4-BC305BF82376&mr:referralID=NA&avad=150351_a9a6ad56">Arc'teryx Cerium LT Hooded Down Jacket</a>
@@ -39,7 +40,7 @@ Here comes our latest outdoors tidbits with the latest outdoors tips and tricks 
 
 <a href="http://outdoorsymama.blogspot.com/2015/09/fall-gear-layering-guide-4-must-have.html">Fall gear layering  guide</a>
 
-<iframe src="https://player.vimeo.com/video/140952129" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/140952129">Alone on Fjätan</a> from <a href="https://vimeo.com/urbanpackrafter">Urban Packrafter</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="https://player.vimeo.com/video/140952129" width="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/140952129">Alone on Fjätan</a> from <a href="https://vimeo.com/urbanpackrafter">Urban Packrafter</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## Gear Reviews
 <a href="http://thebigoutside.com/gear-review-aquamira-and-lifestraw-water-filter-bottles">Aquamira Lifestraw water filter bottles</a>
