@@ -35,6 +35,8 @@ In the evenings while sitting in the camp I swap my [fleece](http://www.hikevent
 | [The North Face Fuseform Eragon](http://www.backcountry.com/the-north-face-fuseform-eragon-wind-jacket-mens)     | 0.3 lb / 140 g |
 | [Arcteryx Squamish Hoody](http://www.backcountry.com/arcteryx-squamish-hooded-jacket-mens) |  0.34 lb / 155 g |
 
+> Table is sorted by weight
+
 ---
 
 ## [Patagonia Houdini](https://www.rei.com/product/893303/patagonia-houdini-jacket-mens)
