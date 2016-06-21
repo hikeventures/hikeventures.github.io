@@ -1,16 +1,17 @@
 ---
 layout: post
 title: Outdoors Tidbits 37
-date: 2015-08-27T15:22:27.000Z
+date: {}
 published: true
-description: "The latest outdoor gear reviews, tips & tricks - Nr. 37"
+description: 'The latest outdoor gear reviews, tips & tricks - Nr. 37'
 category: tidbits
-tags: [tidbits]
+tags:
+  - tidbits
 ---
 
 After returning from our trips in Sweden, Poland and Japan we need some time to reflect on our trips and our gear which we have tested. In September we are going to participate at the Finnish Packraft Gathering which will be at Helvetinjärvi National Park from 18.09. - 20.09.
 
-<img src="https://farm1.staticflickr.com/607/20744712289_c15b856998_b.jpg" width="1024" height="768" alt="From Stockholm to Turku">
+<img src="https://farm1.staticflickr.com/607/20744712289_c15b856998_b.jpg" width="100%"  alt="From Stockholm to Turku">
 
 ## New Products
 <a href="http://amzn.to/1hIvRCI">Lowepro Photo Sport BP 200 AW II - Backpack</a> for mirrorless and compact DSLR Cameras.
