@@ -1,14 +1,16 @@
 ---
 layout: post
 title: Outdoors Tidbits 31
-date: 2015-04-12T08:22:51.000Z
-description: "The latest outdoor gear reviews, tips & tricks - Nr. 31"
+date: {}
+description: 'The latest outdoor gear reviews, tips & tricks - Nr. 31'
 category: tidbits
-tags: [tidbits]
+tags:
+  - tidbits
+published: true
 ---
 
 Only 5 days left and we will happily packrafting in Sweden. What's new on HikeVentures? If you are an outdoor blogger, you can [submit](http://hikeventures.com/blogs/) your blog to our outdoor blog list so other readers can check out your blog as well. 
-<a href="https://www.flickr.com/photos/90204224@N07/8198203106"><img src="https://farm9.staticflickr.com/8340/8198203106_c0d6968dc9_b.jpg" width="1024" height="683"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/8198203106"><img src="https://farm9.staticflickr.com/8340/8198203106_c0d6968dc9_b.jpg" width="100%"></a>
 
 ## Trip Reports and Advice
 [E1: Fjärås to Jonsered ](http://nielsenbrown.com/2015/03/29/e1-fjaras-to-jonsered)
