@@ -1,12 +1,15 @@
 ---
 layout: post
 title: The 5 Best Fleece Jackets for 2016
-date: 2015-03-04 17:20:20 +0200
+date: '2015-03-04 17:20:20 +0200'
 comments: true
 published: true
 description: Top 5 of the best fleece jackets 2015 for your next outdoor adventure
 category: articles
-tags: [articles, best, jackets]
+tags:
+  - articles
+  - best
+  - jackets
 ---
 A fleece jacket is a great garment which can be used as a mid-layer to keep you warm while you are active (climbing, hiking, skiing or biking) and here comes our buying guide of the best fleece jackets for men in 2016. Most of the manufacturers do also offer an equivalent female model.
 
@@ -23,9 +26,20 @@ Fleece jackets can be worn as an outer shell if it's not raining but they are no
 
 ---
 
-## Best fleece jackets for 2016
+# Overview of the best fleece jackets for 2016
 
-### Arcteryx Thetis Zip Neck
+| Jacket | Weight |
+| ------------- |-------------:|
+| [Arcteryx Thetis Zip Neck](http://www.hikeventures.com/deals/#arcteryx+thetis+zip+neck) | &nbsp; 0.45 lb / 205 g |
+| [Mammut Moench Longsleeve](http://www.hikeventures.com/deals/#mammut+moench)   | 0.45 lb / 205 g | 
+| [Rab Micro Pull-on](http://www.hikeventures.com/deals/#micro+pull+on)     | 0.52 lb / 238 g |
+| [Arcteryx Delta LT Zip Neck](http://www.hikeventures.com/deals/#Arcteryx+delta+lt+zip) |  0.53 lb / 240 g |
+
+> Table is sorted by weight
+
+---
+
+## Arcteryx Thetis Zip Neck
 
 <a href="http://www.amazon.com/gp/product/B00GW7XOMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7XOMQ&linkCode=as2&tag=hikeve-20&linkId=KYPIGZUYHRQY4JNT"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7XOMQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7XOMQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -38,7 +52,7 @@ The Acteryx Thetis Zip Neck fleece is more a fleece for those who are planning t
 
 ---
 
-### Mammut Moench Longsleeve
+## Mammut Moench Longsleeve
 
 <a href="http://www.amazon.com/gp/product/B005JWKXC4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005JWKXC4&linkCode=as2&tag=hikeve-20&linkId=AM7UMWDALROAZGHE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005JWKXC4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005JWKXC4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -51,7 +65,7 @@ The Mammut Moench Longsleeve features a stretchy fabric which should keep you dr
 
 ---
 
-### Rab Micro Pull-on
+## Rab Micro Pull-on
 
 <a  href="http://www.amazon.com/gp/product/B00MVV2BDK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MVV2BDK&linkCode=as2&tag=hikeve-20&linkId=O35AIPYX5EH2BEVJ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00MVV2BDK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00MVV2BDK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -64,7 +78,7 @@ The Rab Micro Pull-on is also a light fleece pullover. It's fabric is made of re
 
 ---
 
-### Arcteryx Delta LT Zip Neck
+## Arcteryx Delta LT Zip Neck
 
 <a href="http://www.amazon.com/gp/product/B00GW7ZQG8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZQG8&linkCode=as2&tag=hikeve-20&linkId=TWGUKPE3JX4IKWXK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7ZQG8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7ZQG8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -77,7 +91,7 @@ The Arcteryx Delta LT Zip Neck is also a nice fleece. I have currently the Delta
 
 ---
 
-## Discounts
+# Discounts
 <div class="row">
   <div class="col-sm-12">
 <center>
@@ -89,7 +103,7 @@ The Arcteryx Delta LT Zip Neck is also a nice fleece. I have currently the Delta
 
 ---
 
-## Best Fleece Fabric
+# Best Fleece Fabric
 Keep in mind that lighter material might be less durable depending on the technology used. Polartec Classic 100 fleece is in most cases sufficient if you go hiking. Polartec Power Stretch might be more interesting for those folks going climbing. Also consider if you need pockets or a full-zip jacket on your fleece as they might weight more. 
 
 A good idea is also to combine a fleece jacket with a [wind jacket](http://www.hikeventures.com/best-windjackets/ "wind jackets") since fleece jackets are not windproof and you won't sweat that much in a wind jacket than in a [rain jacket](http://www.hikeventures.com/best-rain-jackets/).
