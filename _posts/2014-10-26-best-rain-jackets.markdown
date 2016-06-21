@@ -23,7 +23,7 @@ You might want to wear your waterproof jacket only occasionally e.g. if it start
 
 ---
 
-# Overview of the best down jackets of  2016
+# Overview of the best down jackets of 2016
 
 | Jacket | Weight |
 | ------------- |-------------:|
