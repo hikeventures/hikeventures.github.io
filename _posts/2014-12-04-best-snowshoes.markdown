@@ -1,10 +1,14 @@
 ---
 layout: post
 title: The Best Snowshoes for 2016
-date: 2016-01-03 09:19:51 +0200
+date: '2016-01-03 09:19:51 +0200'
 comments: true
 category: articles
-tags: [articles, best, snowshoeing]
+tags:
+  - articles
+  - best
+  - snowshoeing
+published: true
 ---
 Here is my buying guide for the best snowshoes for 2016 sorted by weight. Snowshoes are quite interesting if you are planning to ascent a mountain, walk in powder snow or do any other winter backcountry trips. Snowshoeing is easy to learn and not that expensive. Also consider to get a pair of [snowshoe poles](http://www.hikeventures.com/best-trekking-and-snowshoeing-poles/ "trekking and snowshoeing poles") for your snowshoeing trips as they will help you a lot on your snowshoeing adventure.
  
@@ -16,7 +20,22 @@ Considering your own body and gear weight is important when choosing your snowsh
 
 ---
 
-### [MSR Lightning Ascent 25](http://www.backcountry.com/msr-lightning-ascent)
+# Overview of the best snowshoes 2016
+
+| Shoes | Weight |
+| :------------- |:-------------:|
+|  [MSR Lightning Ascent 25](http://www.backcountry.com/msr-lightning-ascent) | &nbsp; 0.62 lb / 1780 grams |
+| [MSR Lightning Explore 25](http://www.backcountry.com/msr-lightning-explore-snowshoe-mens) | 0.9 lb / 1870 grams |
+| [MSR Revo Ascent 25](http://www.backcountry.com/msr-revo-ascent-snowshoe-mens) |  1.05 lb / 1970 grams |
+| [Tubbs FLEX VRT 24](http://www.moosejaw.com/moosejaw/shop/product_Tubbs-Men-s-Flex-VRT-Snowshoe_10259131_10208_10000001_-1_)   | 0.77 lb / 2040 grams | 
+| [Tubbs Xpedition 25](http://www.backcountry.com/tubbs-xpedition-snowshoe-mens) |  1.09 lb / 2090 grams |
+| [Atlas 12 Series](http://www.backcountry.com/atlas-12-series-snowshoe) |  1.09 lb / 2100 grams |
+
+> Table is sorted by weight
+
+---
+
+## [MSR Lightning Ascent 25](http://www.backcountry.com/msr-lightning-ascent)
 
 <a href="http://www.amazon.com/gp/product/B00LFJNHQ4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNHQ4&linkCode=as2&tag=hikeve-20&linkId=YIDJETI36CMR7GF4"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJNHQ4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJNHQ4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -34,7 +53,7 @@ Considering your own body and gear weight is important when choosing your snowsh
    
 ---
    
-### [Tubbs FLEX VRT 24](http://www.moosejaw.com/moosejaw/shop/product_Tubbs-Men-s-Flex-VRT-Snowshoe_10259131_10208_10000001_-1_)
+## [Tubbs FLEX VRT 24](http://www.moosejaw.com/moosejaw/shop/product_Tubbs-Men-s-Flex-VRT-Snowshoe_10259131_10208_10000001_-1_)
 
 <a href="http://www.amazon.com/gp/product/B00Q904HD6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q904HD6&linkCode=as2&tag=hikeve-20&linkId=775ITK4RI5T2U3CQ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q904HD6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q904HD6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -50,7 +69,7 @@ Considering your own body and gear weight is important when choosing your snowsh
 
 ---
 
-### [MSR Lightning Explore 25](http://www.backcountry.com/msr-lightning-explore-snowshoe-mens)
+## [MSR Lightning Explore 25](http://www.backcountry.com/msr-lightning-explore-snowshoe-mens)
 
 <a href="http://www.amazon.com/gp/product/B00LFJNWGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNWGO&linkCode=as2&tag=hikeve-20&linkId=5DOFWDAR6SHYQAWV"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJNWGO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJNWGO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -67,7 +86,7 @@ Considering your own body and gear weight is important when choosing your snowsh
  
 ---
 
-### [MSR Revo Ascent 25](http://www.backcountry.com/msr-revo-ascent-snowshoe-mens)
+## [MSR Revo Ascent 25](http://www.backcountry.com/msr-revo-ascent-snowshoe-mens)
 
 <a href="http://www.amazon.com/gp/product/B00LFJO5NI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJO5NI&linkCode=as2&tag=hikeve-20&linkId=ADHSRTEBIYMKSWHX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJO5NI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJO5NI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -83,7 +102,7 @@ Considering your own body and gear weight is important when choosing your snowsh
   
 ---
   
-### [Tubbs Xpedition 25](http://www.backcountry.com/tubbs-xpedition-snowshoe-mens)
+## [Tubbs Xpedition 25](http://www.backcountry.com/tubbs-xpedition-snowshoe-mens)
 
 <a href="http://www.amazon.com/gp/product/B00ECPPX8S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ECPPX8S&linkCode=as2&tag=hikeve-20&linkId=HCYZ4YFLRZOVRSLA"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ECPPX8S&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00ECPPX8S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -98,7 +117,7 @@ Considering your own body and gear weight is important when choosing your snowsh
 
 ---
 
-### [Atlas 12 Series](http://www.backcountry.com/atlas-12-series-snowshoe)
+## [Atlas 12 Series](http://www.backcountry.com/atlas-12-series-snowshoe)
 
 <a  href="http://www.amazon.com/gp/product/B0000AN4EK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000AN4EK&linkCode=as2&tag=hikeve-20&linkId=4JUOH2Q6ICUQI46M"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0000AN4EK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0000AN4EK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -116,7 +135,7 @@ Considering your own body and gear weight is important when choosing your snowsh
   
 ---
 
-## Discounts
+# Discounts
 <div class="row">
   <div class="col-sm-12">
 <center>
@@ -131,8 +150,11 @@ Considering your own body and gear weight is important when choosing your snowsh
    
 Konstantin snowshoeing in the [Austrian Alps](http://www.hikeventures.com/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/) with this [MSR Lightning Ascent](http://www.backcountry.com/msr-lightning-ascent).
    
+---
 
-## Features of a good snowshoe
+# How to choose snowshoes?
+
+There are several criterias you should take into consideration when you are planning to buy snowshoes:
 
 * Weight (for running or carrying you should choose lighter snowshoes)
 * Application e.g. aerobic, running, recreational or for mountaineering
@@ -148,7 +170,7 @@ Konstantin snowshoeing in the [Austrian Alps](http://www.hikeventures.com/Testin
 
 ---
 
-## Conclusion
+# Conclusion
 So which are the best snowshoes for 2016? My preference goes towards a light snowshoe which has a good grip in the backcountry and in the mountains. I would probably choose the [MSR Lightning Ascent](http://www.backcountry.com/msr-lightning-ascent). The [MSR Revo Ascent 25](http://www.backcountry.com/msr-revo-ascent-snowshoe-mens) would be my second choice because of the additional weight. The advantage of the MSR Revo Ascent it that it is a bit more durable than the MSR Lightning Ascent. 
 
 ---
