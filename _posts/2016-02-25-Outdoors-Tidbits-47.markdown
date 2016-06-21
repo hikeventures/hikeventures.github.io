@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Outdoors Tidbits 47
-date: "2016-02-25 05:28:01 +0300"
+date: '2016-02-25 05:28:01 +0300'
 published: true
-description: The latest outdoor gear reviews, tips & tricks - Nr. 47
+description: 'The latest outdoor gear reviews, tips & tricks - Nr. 47'
 category: tidbits
-tags: [tidbits]
+tags:
+  - tidbits
 ---
 *26.02.1919 - The Grand Canyon National Park was established.*
 
@@ -13,7 +14,7 @@ Konstantin has been travelling to Italy 2 weeks ago and currently we are prepari
 
 P.S. As an outdoor blogger you might have a chance to appear in our #OutdoorsTidbits and on our <a href="http://www.hikeventures.com/blogs/">Outdoor Blogger list</a>. Just send us your URL.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24251111034/in/dateposted-public/" title="Snowshoeing in Montafon, Vorarlberg in Austria"><img src="https://farm2.staticflickr.com/1444/24251111034_c22cba2bd2_b.jpg" width="1024" height="681" alt="Snowshoeing in Montafon, Vorarlberg in Austria"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24251111034/in/dateposted-public/" title="Snowshoeing in Montafon, Vorarlberg in Austria"><img src="https://farm2.staticflickr.com/1444/24251111034_c22cba2bd2_b.jpg" width="100%" alt="Snowshoeing in Montafon, Vorarlberg in Austria"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <!--more-->
 
 ## Gear Reviews
