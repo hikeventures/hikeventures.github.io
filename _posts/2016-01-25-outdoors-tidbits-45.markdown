@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Outdoors Tidbits 45
-date: 2016-01-25 00:00:01 +0300
+date: '2016-01-25 00:00:01 +0300'
 published: false
-description: The latest outdoor gear reviews, tips & tricks - Nr. 45 - #OutdoorsTidbits
+description: 'The latest outdoor gear reviews, tips & tricks - Nr. 45 -'
 category: tidbits
-tags: [tidbits]
+tags:
+  - tidbits
 ---
 *25.01.1905 - The World’s larger diamond was found in South Africa weighing 590 grams and called the “Culling”.*
 
@@ -13,7 +14,7 @@ This week we are at the ISPO in Munich where we check out new gear for our hikin
 
 We have also have a new RSS feed. Update or subscribe our RSS [here](http://feedio.co/@hikeventures/feed "RSS"). #OutdoorsTidbits
 
- <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/16462058835/in/album-72157651140432606/" title="ISPO Entrance"><img src="https://farm8.staticflickr.com/7328/16462058835_413f97515e_b.jpg" width="1024" height="768" alt="ISPO Entrance"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+ <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/16462058835/in/album-72157651140432606/" title="ISPO Entrance"><img src="https://farm8.staticflickr.com/7328/16462058835_413f97515e_b.jpg" width="100%" alt="ISPO Entrance"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Gear Reviews
 [Marmot Zion Jacket](http://thebigoutside.com/review-marmot-zion-jacket/ "Wednesday 20 January 2016 at 13:00 Review: Marmot Zion Jacket MichaelALanza The Big Outside")
