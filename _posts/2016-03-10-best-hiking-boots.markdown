@@ -39,6 +39,8 @@ Proper hiking boots are important if you are planning to hike in the mountains o
 
 # Overview of the best hiking boots for 2016
 
+| Model | Weight |
+|:------|:-----:|
 | [Inov-8 Roclite 286 GTX](http://www.backcountry.com/inov-8-roclite-286-gtx-hiking-boot-mens) |  0.7 lb / 286 grams |
 | [Adidas Terrex Fast R Mid GTX](http://www.backcountry.com/adidas-outdoor-terrex-fast-r-mid-gtx-hiking-boot-mens) |  1 lb / 435 grams |
 | [KEEN Targhee II Mid](http://www.backcountry.com/keen-targhee-ii-mid-tac-hiking-boot-mens) |  1.1 lb / 494 grams |
