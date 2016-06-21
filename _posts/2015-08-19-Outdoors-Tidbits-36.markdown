@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Outdoors Tidbits 36
-date: {}
+date: 2015-06-25T08:22:51.000Z
 published: true
 description: 'The latest outdoor gear reviews, tips & tricks - Nr. 36'
 category: tidbits
