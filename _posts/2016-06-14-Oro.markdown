@@ -13,11 +13,23 @@ tags:
   - Örö
 ---
 The gear is packed. The packrafts are inflated. The sails are ready. And so we are. There are some clouds in the sky and the wind is strong and blowing in the right direction, our destination being the island of Örö. 
-The island of Örö is located in the outer archipelago and is one of the last big islands before the open sea. Örö offers a lot of cultural history (military) and a diverse landscape. It's also a great place for hiking since the routes are well marked on the trail and on (free) maps. There are two main ones - the blue-blazed “6’’ trail”, leading through the southern part of the island (5.3 km), and a red-blazed “120mm trail”, covering the north (5.6 km). The total length of all paths and roads is around 16.5 km and there is a large number of interpretation panels in 3 languages (Swedish, Finnish and English) that deal with the natural and military history of the island and provide interesting explanation of what one can see on the island. Besides hiking, it is possible to use a bike to mover around the island. To do that you can either rent one or bring your own. Fishing, birdwatching and geocaching are also popular activities among visitors to the island. If you are into diving, then you may need a special permission to do it on Örö. However, it's quite easy to find out what's allowed and what is not as this information is provided at several places. The ferry from Kasnäs to Örö costs 16 EUR one way or 25 EUR if you buy a return ticket. Bicycles can also be taken on the ferry.
+The island of Örö is located in the outer archipelago and is one of the last big islands before the open sea. Örö offers a lot of cultural history (military) and a diverse landscape. 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27683698955/in/album-72157669691179556/" title="Örö Island Finland"><img src="https://c4.staticflickr.com/8/7627/27683698955_0ca3be0e0e_b.jpg" width="1024" height="768" alt="Örö Island Finland Ferry Arriving Ejskär"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <!--more-->
+
+# Hiking on Örö
+
+Örö is also a great place for hiking since the routes are well marked on the trail and on (free) maps. There are two main ones - the blue-blazed “6’’ trail”, leading through the southern part of the island (5.3 km), and a red-blazed “120mm trail”, covering the north (5.6 km). The total length of all paths and roads is around 16.5 km and there is a large number of interpretation panels in 3 languages (Swedish, Finnish and English) that deal with the natural and military history of the island and provide interesting explanation of what one can see on the island. 
+
+# Leisure activities on Örö
+
+Besides hiking, it is possible to use a bike to mover around the island. To do that you can either rent one or bring your own. Fishing, birdwatching and geocaching are also popular activities among visitors to the island. If you are into diving, then you may need a special permission to do it on Örö. However, it's quite easy to find out what's allowed and what is not as this information is provided at several places. 
+
+# Getting by ferry from Kasnäs to Örö
+
+The ferry from Kasnäs to Örö costs 16 EUR one way or 25 EUR if you buy a return ticket. Bicycles can also be taken on the ferry. More information is also available on [visitörö.fi](http://xn--visitr-0xab.fi/index.php/en/travel/connecting-vessels).
 
 ---
 
@@ -234,6 +246,6 @@ We really enjoyed our trip to Örö and it's probably one of the best sights you
 # Where to get more information?
 There are several websites where you can get more information about Örö. 
 
+* [visitörö.fi](http://xn--visitr-0xab.fi/en/)
 * [nationalparks.fi](http://www.nationalparks.fi/oro)
 * [visitkimitoon.fi](http://www.visitkimitoon.fi/)
-* [ferry.fi](http://lautta.net/)
