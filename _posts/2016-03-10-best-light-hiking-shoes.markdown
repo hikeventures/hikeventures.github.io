@@ -40,7 +40,7 @@ If you are into ultralight hiking then you are probably also interested into my 
 
 # Overview of the best ultralight hiking shoes
 
-| Shoes | Weight |
+| Model | Weight |
 | :------------- |:-------------:|
 | [Inov-8 Roclite 282 GTX](http://www.backcountry.com/inov-8-roclite-282-gtx-trail-running-shoe-mens) | &nbsp; 0.62 lb / 282 g |
 | [Adidas Terrex Solo](http://www.backcountry.com/adidas-outdoor-terrex-solo-approach-shoe-mens)    | 0.77 lb / 349 g | 
