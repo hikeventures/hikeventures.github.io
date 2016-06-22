@@ -206,6 +206,7 @@ When deciding which headlamp you should purchase, you have to consider the facto
 * battery life on each recharge?
 
 ---
+
 ## How to adjust a headlamp?
 Headlamps can be adjusted either by their headstrap or by tilting the bulb.
 
