@@ -225,6 +225,17 @@ Usually, I put my tent into a compression sack to get more space in my backpack 
 
 <a href="https://www.amazon.com/gp/product/B00SUDY9EM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SUDY9EM&linkCode=as2&tag=hikeve-20&linkId=16d737f5ad282e8329e468a92146474a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00SUDY9EM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00SUDY9EM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+[MSR Carbon Stake Kit](http://amzn.to/28NbAJL)
+
+The MSR Carbok Stake Kit is one of my favourite accessories. You can safe quite some weight with those pegs as each of them weights only 6 grams.
+
+<a href="https://www.amazon.com/gp/product/B006ZJI83Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006ZJI83Q&linkCode=as2&tag=hikeve-20&linkId=598e157cf73c25ba8ba048edb6335843"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B006ZJI83Q&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B006ZJI83Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+[MPOWERD Luci Outdoor - Inflatable Solar Light](http://amzn.to/28VLNQ6)
+
+The MPOWERD Luci Outdoor is probably one of the best products you can take on your camping trip. You charge the lamp during your hike. Once it gets dark you inflate Luci and you have plenty of light. Read also our [review](http://www.hikeventures.com/luci-r-outdoor-not-a-toy/).
+
+<a href="https://www.amazon.com/gp/product/B00F5TI7C4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F5TI7C4&linkCode=as2&tag=hikeve-20&linkId=be7820944e18e0c7737d7145427544ee"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00F5TI7C4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00F5TI7C4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ---
 
