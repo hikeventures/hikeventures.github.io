@@ -418,10 +418,11 @@ align-items: center; /* align vertical */
     font-family: 'Amatic SC'
 }
 
-div > div.video:before {
+div > div.video:after {
     content:'Facebook: 1400';
     font-size: xx-large;
     position:absolute;
+    z-index: 2000;
     top:0%;
     display: flex;
     justify-content: center; /* align horizontal */
