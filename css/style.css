@@ -400,6 +400,7 @@ float:left;
     width:100%;
     min-height:50px;
     background-color:#000;
-     opacity: 0.5;
+    opacity: 0.5;
+    bottom: 0;
     z-index:300000;
 }
