@@ -391,66 +391,6 @@ input {
 }
 
 
-/* Social Bar */
-
-#mode1 {
-    font-size: xx-large;
-    justify-content: center; /* align horizontal */
-    align-items: center; /* align vertical */
-    text-align:center;
-    color:white;
- cursor: hover;
- 
-    background:#FF8000;;
-    font-family: 'Amatic SC';
-    
-    padding-top: 5px;
-    padding-bottom: 5px;
-   
-}
-
-
-#mode2 {
-  
-    font-size: xx-large;
-    justify-content: center; /* align horizontal */
-    align-items: center; /* align vertical */
-    text-align:center;
-    color:white;
-    cursor: hover;
-
-    background:#aed167;
-    font-family: 'Amatic SC';
-    
-    padding-top: 5px;
-    padding-bottom: 5px;
-}
-
-
-#mode1 a:link,
-#mode1 a:visited {
-   color: white;
-   text-decoration: none;
-}
-
-#mode1 a:hover {
-   color: yellow;
-   text-decoration: none;
-
-}
-
-#mode2 a:link,
-#mode2 a:visited {
-   color: white;
-   text-decoration: none;
-}
-
-#mode2 a:hover {
-   color: yellow;
-   text-decoration: none;
- 
-}
-
 
 
 
