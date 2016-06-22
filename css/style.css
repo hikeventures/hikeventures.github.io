@@ -436,7 +436,12 @@ input {
 }
 
 #mode2 a:link,
-#mode2 a:visited,
-#mode2 a:hover {
+#mode2 a:visited {
    color: white;
+   text-decoration: none;
+}
+
+#mode2 a:hover {
+   color: red;
+   text-decoration: none;
 }
