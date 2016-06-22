@@ -403,6 +403,10 @@ input {
  
     background:#FF8000;;
     font-family: 'Amatic SC';
+    
+    padding-top: 5px;
+    padding-bottom: 5px;
+   
 }
 
 
@@ -415,4 +419,7 @@ input {
 
     background:#aed167;
     font-family: 'Amatic SC';
+    
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
