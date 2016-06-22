@@ -85,11 +85,11 @@ If you go on a longer hiking trip then it's good to have an external USB battery
 </div>
 
 ---
-**Update 29.03.2015:** Suunto has released a firmware update which increased the battery time of the Ambit watches as you can read [here][8]: "With GPS accuracy set to Best/Good/Ok, the numbers are accordingly: Suunto Ambit3 Peak – 20h/30h/200h"
+**Update (29.03.2015):** Suunto has released a firmware update which increased the battery time of the Ambit watches as you can read [here][8]: "With GPS accuracy set to Best/Good/Ok, the numbers are accordingly: Suunto Ambit3 Peak – 20h/30h/200h"
 
 **Update (20.10.2015):** Suunto has released the Suunto Traverse GPS watch. [Here][2] you can read what's different to the Ambit3.
 
-**Update 27.11.2015:** After having used the Suunto Traverse for a while I would prefer it over the Suunto Ambit3 as long as you are not into multisport. The Suunto Traverse also supports GLONASS. More [here][9] about the Suunto Traverse.
+**Update (27.11.2015):** After having used the Suunto Traverse for a while I would prefer it over the Suunto Ambit3 as long as you are not into multisport. The Suunto Traverse also supports GLONASS. More [here][9] about the Suunto Traverse.
 
 **Update (22.01.2016):** Suunto has released the Suunto Ambit3 Vertical watch. It’s similar like the Traverse but with an additional graph which displays your ascent / descent.
 
