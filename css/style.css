@@ -393,13 +393,10 @@ input {
 
 /* Video Overlay */
 
-div.video1 {
-    position:relative;
-  
-   
+
 }
-div.video1:before {
-    content:'Twitter: 2400';
+div.twitter {
+    
     font-size: xx-large;
     position:absolute;
     top:0%;
@@ -407,8 +404,6 @@ display: flex;
 justify-content: center; /* align horizontal */
 align-items: center; /* align vertical */
     left:33%;
-    height:60px;
-    width:34%;
     border-radius:0px;
     border:0px solid #000;
     text-align:center;
@@ -418,8 +413,8 @@ align-items: center; /* align vertical */
     font-family: 'Amatic SC'
 }
 
-div > div.video1:after {
-    content:'Facebook: 1400';
+div.facebook {
+  
     font-size: xx-large;
     position:absolute;
     z-index: 2000;
@@ -428,19 +423,18 @@ div > div.video1:after {
     justify-content: center; /* align horizontal */
     align-items: center; /* align vertical */
     right:0%;
-    height:60px;
-    width:33%;
+
     border-radius:0px;
     border:0px solid #000;
     text-align:center;
     line-height:30px;
     background:#aed167;
-    transition:all 200ms ease-in;
+ 
     font-family: 'Amatic SC'
 }
 
-div > div > div.video1:after {
-    content:'Instagram: 3800';
+div.instagram {
+  
      font-size: xx-large;
   
     position:absolute;
@@ -449,14 +443,14 @@ div > div > div.video1:after {
     justify-content: center; /* align horizontal */
     align-items: center; /* align vertical */
     left:0%;
-    height:60px;
-    width:33%;
+
+ 
     border-radius:0px;
     border:0px solid #000;
     text-align:center;
     line-height:30px;
     background:#aed167;
-    transition:all 200ms ease-in;
+
     font-family: 'Amatic SC';
 }
 
