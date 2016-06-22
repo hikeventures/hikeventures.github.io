@@ -226,7 +226,7 @@ If you are looking for a fast and light tent which also protects you from bugs t
 
 # Accessories
 
-[Sea to Summit Ultra-Sil eVENT Compression Dry Sack](http://amzn.to/28MSD9O)
+## [Sea to Summit Ultra-Sil eVENT Compression Dry Sack](http://amzn.to/28MSD9O)
 
 Usually, I put my tent into a compression sack to get more space in my backpack and keep the poles and pegs seperated. The Sea to Summit Ultra-Sil eVENT Compression Dry Sack is currently my favourite compression sack.
 
@@ -234,7 +234,7 @@ Usually, I put my tent into a compression sack to get more space in my backpack 
 
 ---
 
-[MSR Carbon Stake Kit](http://amzn.to/28NbAJL)
+## [MSR Carbon Stake Kit](http://amzn.to/28NbAJL)
 
 The MSR Carbok Stake Kit is one of my favourite accessories. You can safe quite some weight with those pegs as each of them weights only 6 grams.
 
@@ -242,7 +242,7 @@ The MSR Carbok Stake Kit is one of my favourite accessories. You can safe quite 
 
 ---
 
-[MPOWERD Luci Outdoor - Inflatable Solar Light](http://amzn.to/28VLNQ6)
+## [MPOWERD Luci Outdoor - Inflatable Solar Light](http://amzn.to/28VLNQ6)
 
 The MPOWERD Luci Outdoor is probably one of the best products you can take on your camping trip. You charge the lamp during your hike. Once it gets dark you inflate Luci and you have plenty of light. Read also our [review](http://www.hikeventures.com/luci-r-outdoor-not-a-toy/).
 
