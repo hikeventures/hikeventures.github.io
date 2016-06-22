@@ -391,9 +391,7 @@ input {
 }
 
 
-/* Video Overlay */
-
-
+/* Social Bar */
 
 #mode1 {
     font-size: xx-large;
@@ -435,6 +433,11 @@ input {
    color: white;
 }
 
+#mode1 a:hover {
+   color: red;
+   text-decoration: none;
+}
+
 #mode2 a:link,
 #mode2 a:visited {
    color: white;
@@ -445,3 +448,7 @@ input {
    color: red;
    text-decoration: none;
 }
+
+
+
+
