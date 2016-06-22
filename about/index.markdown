@@ -11,7 +11,7 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 
 ---
 
-## HikeVenturers
+# HikeVenturers
 
 
 <div class="my-fluid-container">
@@ -38,7 +38,7 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 
 ---
 
-## Followers on Social Media	
+# Followers on Social Media	
 
 **[Instagram](https://www.instagram.com/hikeventures/):** 3800  
 **[Twitter](https://twitter.com/HikeVentures):** 2300   
@@ -48,38 +48,38 @@ We are also on [Movescount](http://www.movescount.com/members/member140205-HikeV
 
 ---
 
-## Press Trips
+# Press Trips
 We can visit your destination and write a trip report for you. Are you looking for fresh content ideas? We can bring our packrafts and promote your destination off the beaten track as well. Just  <a href="#contact">contact us</a> us if you have any questions.
 
 ---
 
-## Gear Testing
+# Gear Testing
 On our blog we are reviewing outdoor gear which we receive from well known outdoor brands. <a href="http://www.hikeventures.com/Thule-Chasm-XL-Duffle-Bag/">Here</a> is an example of a more detailed review which we wrote for a company. Feel free to <a href="#contact">contact us</a> if you want us to test one of your products on our trips. Please note that we will express our own opinion on your products in our reviews.<br><br>
 <img src="https://farm6.staticflickr.com/5683/21885051180_963c46af51_b.jpg" width="1000" height="363" alt="Packrafting in Abisko, Sweden">
 
 ---
 
-## Blog Collaboration
+# Blog Collaboration
 We maintain a list of the [best outdoor blogs](http://www.hikeventures.com/blogs/). Contact us if you want to become part of it.
 
 ---
 
-## Affiliate Links
+# Affiliate Links
 On some of our pages you will find affiliate links. HikeVentures is a participant in AvantLink and the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
 
 ---
 
-## Disclaimer
+# Disclaimer
 We do not guarantee for the correctness of the information on this website. Product recommendations are based on personal views. We are also not responsible for any injuries occurred by following our gear and activities advices.
 
 ---
 
-## Copyright
+# Copyright
 All content on www.hikeventures.com must not be used without the permission of hikeventures.com.
 
 ---
 
-## <a name="contact" style="color: rgb(250,250,250)"><font color="000000">Contact</font></a>
+# <a name="contact" style="color: rgb(250,250,250)"><font color="000000">Contact</font></a>
 Patrick Dormischian<br>
 Ravaksenkatu 31 C 6<br>
 20900 Turku<br>
