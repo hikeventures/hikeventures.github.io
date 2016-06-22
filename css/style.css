@@ -428,9 +428,9 @@ input {
 
 
 #mode1 a:link,
-#mode1 a:visited,
-#mode1 a:hover {
+#mode1 a:visited {
    color: white;
+   text-decoration: none;
 }
 
 #mode1 a:hover {
