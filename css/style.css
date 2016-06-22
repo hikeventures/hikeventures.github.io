@@ -400,7 +400,7 @@ input {
     justify-content: center; /* align horizontal */
     align-items: center; /* align vertical */
     text-align:center;
-    font:white;
+    color:white;
  cursor: hover;
  
     background:#FF8000;;
@@ -418,7 +418,7 @@ input {
     justify-content: center; /* align horizontal */
     align-items: center; /* align vertical */
     text-align:center;
-    font:white;
+    color:white;
     cursor: hover;
 
     background:#aed167;
