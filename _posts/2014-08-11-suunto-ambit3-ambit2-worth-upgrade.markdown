@@ -54,6 +54,8 @@ I use my Suunto Traverse (upgraded from the Suunto Ambit3 Sport) watch mainly fo
 # Worth to upgrade?
 I have used the Suunto Ambit3 Sport for a couple of months and I was happy with it before I [upgraded to the Suunto Traverse](http://www.hikeventures.com/Suunto-Traverse-Ambit3-differences/). I liked the blue colour, the slimmer design compared to the Suunto Ambit3 Peak, the accuracy of the GPS signal and the shorter time it take to locate satellites. For runners it's already worth to upgrade just because of the smaller HR monitor which will give you a better running experience. I also like the Bluetooth feature so I can get my data also on the Movescount Server if I am not on a computer. If you are into Social Media then the Movescount app will also be a great tool to show-cast your activities in a video.
 
+---
+
 # Accessories
 Here are some accessories which you can buy for your Suunto Traverse:
 
@@ -79,8 +81,6 @@ If you go on a longer hiking trip then it's good to have an external USB battery
 The Suunto Wristop Computer Bike Adaptor might be a good choice if you want to have your Suunto watch screen always in front of you.
 
 <a href="https://www.amazon.com/gp/product/B00005N9DU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00005N9DU&linkCode=as2&tag=hikeve-20&linkId=ed3bdcc64953b6e74d3c0a8c77395f0f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00005N9DU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00005N9DU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-
 
 ---
 
