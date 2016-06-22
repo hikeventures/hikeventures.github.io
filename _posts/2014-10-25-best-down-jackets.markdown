@@ -179,7 +179,7 @@ More heavy than the other jackets in our list, the Arcteryx Ceres Jacket is made
 
 # Accessories
 
-[Sea to Summit Ultra-Sil eVENT Compression Dry Sack](http://amzn.to/28MSD9O)
+## [Sea to Summit Ultra-Sil eVENT Compression Dry Sack](http://amzn.to/28MSD9O)
 
 Down is the perfect gear which can be compressed. Use a compression dry sack to decrease the size of your down jacket and your sleeping bag to a minimum. The Sea to Summit Ultra-Sil eVENT Compression Dry Sack is one of the view compression sacks which are actually waterproof.
 
@@ -187,7 +187,7 @@ Down is the perfect gear which can be compressed. Use a compression dry sack to 
 
 ---
 
-[Nikwax Down Wash Direct](http://amzn.to/28LFRYL)
+## [Nikwax Down Wash Direct](http://amzn.to/28LFRYL)
 
 Use Nikwax Down Wash to wash your down jacket.
 
@@ -195,7 +195,7 @@ Use Nikwax Down Wash to wash your down jacket.
 
 ---
 
-[Nikwax Down Proof Waterproofing](http://amzn.to/28SBv1J)
+## [Nikwax Down Proof Waterproofing](http://amzn.to/28SBv1J)
 
 Nikwax Down Proof helps to make your down more water repellent. Down insulates less when it gets wet and with Nikwax Down Proof you can protect your down a little bit.
 
