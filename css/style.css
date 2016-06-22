@@ -395,7 +395,7 @@ input {
 
 
 }
-div.twitter1 {
+div.twitter_front {
     
     font-size: xx-large;
     justify-content: center; /* align horizontal */
@@ -407,7 +407,7 @@ div.twitter1 {
 }
 
 
-div.facebook {
+div.facebook_front {
     font-size: xx-large;
     justify-content: center; /* align horizontal */
     align-items: center; /* align vertical */
@@ -418,7 +418,7 @@ div.facebook {
 }
 
 
-div.instagram {
+div.instagram_front {
   
     font-size: xx-large;
     justify-content: center; /* align horizontal */
