@@ -88,7 +88,7 @@ If you want to protect your watch screen somewhat then you might consider gettin
 
 ---
 
-## [Suunto Smart Belt](http://amzn.to/28Q3cuz)
+## [Suunto Smart Belt](http://www.backcountry.com/suunto-smart-belt)
 If you are into running or cycling then you might be interested in your hear rate. The Suunto Smart Belt sends the data to your Suunto Traverse.
 
 <a href="https://www.amazon.com/gp/product/B00LVNEDDU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LVNEDDU&linkCode=as2&tag=hikeve-20&linkId=4a84a24f1bb726b645aa94750720818e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00LVNEDDU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00LVNEDDU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
