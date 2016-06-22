@@ -63,32 +63,8 @@
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
 <!-- End Cookie Consent plugin -->
 
+
 {% if page.title == 'About' %}
-
-
-    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-    <script type="text/javascript">
-      google.charts.load('current', {'packages':['corechart']});
-      google.charts.setOnLoadCallback(drawChart);
-      function drawChart() {
-        var data = google.visualization.arrayToDataTable([
-          ['Channel',  'Instagram', 'Facebook', 'Twitter'],
-          ['May',        3600, 2300, 2300],
-          ['June',           3700, 2400, 2400],
-          
-        ]);
-
-        var options = {
-          title: '',
-          vAxis: {title: ''},
-          isStacked: true
-        };
-
-        var chart = new google.visualization.SteppedAreaChart(document.getElementById('chart_div'));
-
-        chart.draw(data, options);
-      }
-    </script>
 {% endif %}
 
 
