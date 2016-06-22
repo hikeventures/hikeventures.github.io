@@ -398,85 +398,33 @@ input {
 div.twitter {
     
     font-size: xx-large;
-    position:absolute;
-    top:0%;
-display: flex;
-justify-content: center; /* align horizontal */
-align-items: center; /* align vertical */
-    left:33%;
-    border-radius:0px;
-    border:0px solid #000;
-    text-align:center;
-    line-height:30px;
-    background:#FF8000;
-    transition:all 200ms ease-in;
-    font-family: 'Amatic SC'
-}
-
-div.facebook {
-  
-    font-size: xx-large;
-    position:absolute;
-    z-index: 2000;
-    top:0%;
-    display: flex;
     justify-content: center; /* align horizontal */
     align-items: center; /* align vertical */
-    right:0%;
-
-    border-radius:0px;
-    border:0px solid #000;
     text-align:center;
     line-height:30px;
     background:#aed167;
- 
-    font-family: 'Amatic SC'
-}
-
-div.instagram {
-  
-     font-size: xx-large;
-  
-    position:absolute;
-    bottom:0%;
-    display: flex;
-    justify-content: center; /* align horizontal */
-    align-items: center; /* align vertical */
-    left:0%;
-
- 
-    border-radius:0px;
-    border:0px solid #000;
-    text-align:center;
-    line-height:30px;
-    background:#aed167;
-
     font-family: 'Amatic SC';
 }
 
-.embed-responsive {
-  position: relative;
-  display: block;
-  height: 0;
-  padding: 0;
-  overflow: hidden;
+
+div.facebook {
+    font-size: xx-large;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+    text-align:center;
+    line-height:30px;
+    background:#aed167;
+    font-family: 'Amatic SC';
 }
-.embed-responsive .embed-responsive-item,
-.embed-responsive iframe,
-.embed-responsive embed,
-.embed-responsive object,
-.embed-responsive video {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  border: 0;
-}
-.embed-responsive-16by9 {
-  padding-bottom: 56.25%;
-}
-.embed-responsive-4by3 {
-  padding-bottom: 75%;
+
+
+div.instagram {
+  
+    font-size: xx-large;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+    text-align:center;
+    line-height:30px;
+    background:#aed167;
+    font-family: 'Amatic SC';
 }
