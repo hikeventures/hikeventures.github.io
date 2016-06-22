@@ -418,7 +418,7 @@ align-items: center; /* align vertical */
     font-family: 'Amatic SC'
 }
 
-div > div.video:after {
+div > div.video:before {
     content:'Facebook: 1400';
     font-size: xx-large;
     position:absolute;
