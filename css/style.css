@@ -434,7 +434,7 @@ input {
 }
 
 #mode1 a:hover {
-   color: red;
+   color: yellow;
    text-decoration: none;
 }
 
@@ -445,7 +445,7 @@ input {
 }
 
 #mode2 a:hover {
-   color: red;
+   color: yellow;
    text-decoration: none;
 }
 
