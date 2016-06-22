@@ -14,7 +14,7 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 <div id="video_box">
     <div id="video_overlays"></div>
     <div>
-        <video width="100%" id="player" poster="https://c4.staticflickr.com/8/7369/27683698835_582e5b868c_o.jpg" controls  type="video/mp4" onclick="this.play();">Your browser does not support this streaming content.</video>
+        <video width="100%" id="player" controls  type="video/mp4" onclick="this.play();">Your browser does not support this streaming content.</video>
     </div>
 </div>
    </div>
