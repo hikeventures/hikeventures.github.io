@@ -27,12 +27,14 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27117236211/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://c4.staticflickr.com/8/7435/27117236211_aee9dd55ee_b.jpg" width="100%" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br>
 
 </div>
-</div></div></div>
+</div>
+<div class="col-md-6"> 
+<a href="https://www.facebook.com/konstantin.gridnevskiy" target="_blank">Konstantin</a> is living in the Netherlands and was born 1978 in Russia. Konstantin is teaching adventure and heritage tourism at an University of Applied Science. Konstantin is our GoPro Hero camera expert. Inspired as a kid by the adventures of his father in Russia Konstantin followed him into his foot steps into the great outdoors. Living in densly populated Netherlands he is also very excited about microadventures which could be interesting for our urban readers. Konstantin is also very interested in hiking and packrafting adventures in Japan. Konstantin is our expert when it comes to <a href="http://www.hikeventures.com/Survey-The-use-of-Technology-Outdoors/">conducting  research</a>.
+</div>
 
----
-
-### Konstantin
-<a href="https://www.facebook.com/konstantin.gridnevskiy" target="_blank">Konstantin</a> is living in the Netherlands and was born 1978 in Russia. Konstantin is teaching adventure and heritage tourism at an University of Applied Science. Konstantin is our GoPro Hero camera expert. Inspired as a kid by the adventures of his father in Russia Konstantin followed him into his foot steps into the great outdoors. Living in densly populated Netherlands he is also very excited about microadventures which could be interesting for our urban readers. Konstantin is also very interested in hiking and packrafting adventures in Japan. Konstantin is our expert when it comes to <a href="http://www.hikeventures.com/Survey-The-use-of-Technology-Outdoors/">conducting  research</a>.<br><br><a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25211155704/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://c1.staticflickr.com/2/1543/25211155704_7246941e5b_b.jpg" width="100%" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br>
+<div class="col-md-6"> 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25211155704/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://c1.staticflickr.com/2/1543/25211155704_7246941e5b_b.jpg" width="100%" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div></div>
 
 ---
 
