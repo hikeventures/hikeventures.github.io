@@ -174,6 +174,7 @@ In cold conditions you can extend the battery life of your Petzl Nao by wearing 
 
 <a href="https://www.amazon.com/gp/product/B007K03PLY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007K03PLY&linkCode=as2&tag=hikeve-20&linkId=2887c84eaa99f85590d37548953ce119"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B007K03PLY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B007K03PLY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+---
 
 ## [EasyAcc Rugged Outdoor Power Bank (IP67 Waterproof / 20000mAh)](http://amzn.to/28V8l3t)
 If you plan to do a longer trip then it might be a good idea to charge your headlamp from time to time. Just make sure that the battery of your headlamp (e.g. the Petzl Nao) can be recharged with a USB cable.
@@ -181,7 +182,6 @@ If you plan to do a longer trip then it might be a good idea to charge your head
 <a href="https://www.amazon.com/gp/product/B01B73I5ZU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01B73I5ZU&linkCode=as2&tag=hikeve-20&linkId=47d7ed2d86df59bde1e15986668ca7b5"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01B73I5ZU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01B73I5ZU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ---
-
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15581097668/in/photolist-pJRcuY-nbZrcA-nbXFbR-n9UVEg-hXNmLH-hXMq24-hXMK7h-hXNm3Z-dXbkpf-dL8yRc-dNuTzR-dNAuXb" title="Petzl Nao 2"><img src="https://c5.staticflickr.com/9/8270/15581097668_e4633233a6_b.jpg" width="1024" height="683" alt="Best headlamps in 2016 - Petzl Nao"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     
