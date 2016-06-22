@@ -135,7 +135,7 @@ If you don't want to spend so much time inflating your sleeping pad then the The
   
 ---
 
-## Discounts
+# Discounts
 
 <div class="row">
 <div class="col-sm-12">
@@ -144,6 +144,40 @@ If you don't want to spend so much time inflating your sleeping pad then the The
 </center>
   </div>
 </div>
+
+---
+
+# Accessories
+
+Here are a few accessories which could be quite handy in combination with your sleeping pad:
+
+## [Therm-a-Rest NeoAir Mini Pump](http://amzn.to/28QxVru)
+
+The NeoAir® Mini Pump inflates a NeoAir mattress in around 3 minutes. 
+
+<a href="https://www.amazon.com/gp/product/B008O6JDKK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008O6JDKK&linkCode=as2&tag=hikeve-20&linkId=ba34b83037b701b6a0f7f3a022f97fea"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B008O6JDKK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B008O6JDKK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+---
+
+## [Therm-A-Rest NeoAir Torrent Air Pump](http://amzn.to/28N3Bi9)
+
+The Torrent Pump inflates a large mattress in about 1.5 minutes.
+
+<a href="https://www.amazon.com/gp/product/B00HP4WOR6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HP4WOR6&linkCode=as2&tag=hikeve-20&linkId=4ce2274897060040af1b0578024a23da"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00HP4WOR6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00HP4WOR6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+---
+
+## [Therm-a-Rest AirTap Pump Kit](http://amzn.to/28VQp8T)
+
+The AirTap pump helps you to inflate your sleeping pad faster and prevents your pad from collecting moist air. It can be used with the included bag or just any other bag.
+<a href="https://www.amazon.com/gp/product/B004NBF9Z8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004NBF9Z8&linkCode=as2&tag=hikeve-20&linkId=cd3118372e6ec9f5e68f238071b9bcef"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B004NBF9Z8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B004NBF9Z8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+---
+
+## [Therm-A-Rest Instant Field Repair Kit](http://amzn.to/28LV24t)
+New sleeping pads usually come with a field repair kit. However, sometimes you may lose your repair kit or just need a new one.
+
+<a href="https://www.amazon.com/gp/product/B00G4V53FQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G4V53FQ&linkCode=as2&tag=hikeve-20&linkId=b353f857f5eb4f576e3ff02564d8bd6f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00G4V53FQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00G4V53FQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ---
 
