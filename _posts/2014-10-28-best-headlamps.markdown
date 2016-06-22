@@ -155,7 +155,7 @@ The Petzl e+LITE is the emergency headlamp from Petzl. It could also be a good c
   
 ---
 
-# Accessoiries
+# Accessories
 
 ## [Petzl EXTENSION CABLE for NAO headlamp](http://amzn.to/28MZ63w)
 
