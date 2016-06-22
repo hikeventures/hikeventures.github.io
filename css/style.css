@@ -397,8 +397,9 @@ input {
 #video_overlays {
 position:absolute;
 float:left;
-    width:640px;
-    min-height:370px;
+    width:100%;
+    min-height:50px;
     background-color:#000;
+     opacity: 0.5;
     z-index:300000;
 }
