@@ -395,18 +395,18 @@ input {
 
 
 
-#facebook_front {
+#mode1 {
     font-size: xx-large;
     justify-content: center; /* align horizontal */
     align-items: center; /* align vertical */
     text-align:center;
  
-    background:#aed167;
+    background:#FF8000;;
     font-family: 'Amatic SC';
 }
 
 
-#instagram_front {
+#mode2 {
   
     font-size: xx-large;
     justify-content: center; /* align horizontal */
