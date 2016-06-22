@@ -401,6 +401,7 @@ input {
     align-items: center; /* align vertical */
     text-align:center;
     font:white;
+ cursor: hover;
  
     background:#FF8000;;
     font-family: 'Amatic SC';
@@ -418,6 +419,7 @@ input {
     align-items: center; /* align vertical */
     text-align:center;
     font:white;
+    cursor: hover;
 
     background:#aed167;
     font-family: 'Amatic SC';
