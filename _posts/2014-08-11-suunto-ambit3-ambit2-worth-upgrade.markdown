@@ -71,10 +71,10 @@ If you are into running or cycling then you might be interested in your hear rat
 <a href="https://www.amazon.com/gp/product/B00LVNEDDU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LVNEDDU&linkCode=as2&tag=hikeve-20&linkId=4a84a24f1bb726b645aa94750720818e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00LVNEDDU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00LVNEDDU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
-## [EasyAcc 20000mAh Rugged Outdoor Power Bank (IP67 Waterproof)](http://amzn.to/28V8l3t)
-If you go on a longer hiking trip then it's good to have an external USB battery with you to charge your Suunto once it run out of battery. I always take my Anker Astro E5 with me when I go on trips which are longer than 1 day and I can also charge my other devices with it.
+## [EasyAcc Rugged Outdoor Power Bank (IP67 Waterproof / 20000mAh)](http://amzn.to/28V8l3t)
+If you go on a longer hiking trip then it's good to have an external USB battery with you to charge your Suunto once it run out of battery. 
 
-<a href="https://www.amazon.com/gp/product/B00D5VAYRU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00D5VAYRU&linkCode=as2&tag=hikeve-20&linkId=933b70969065ad8139b669001a17ecb5"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00D5VAYRU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00D5VAYRU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B01B73I5ZU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01B73I5ZU&linkCode=as2&tag=hikeve-20&linkId=47d7ed2d86df59bde1e15986668ca7b5"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01B73I5ZU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01B73I5ZU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
 ## [Suunto Wristop Computer Bike Adaptor](http://amzn.to/28V6hrU)
