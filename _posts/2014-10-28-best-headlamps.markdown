@@ -168,7 +168,7 @@ The Petzl e+LITE is the emergency headlamp from Petzl. It could also be a good c
 
 # Accessories
 
-## [Petzl EXTENSION CABLE for NAO](http://amzn.to/28MZ63w)
+## [Petzl EXTENSION CABLE for NAO](http://www.backcountry.com/petzl-nao-belt-kit)
 
 In cold conditions you can extend the battery life of your Petzl Nao by wearing the battery nearby your body. Just attach the extension cable between your battery and the headlamp and you are good to go.
 
