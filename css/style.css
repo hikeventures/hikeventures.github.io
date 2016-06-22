@@ -400,6 +400,7 @@ input {
     justify-content: center; /* align horizontal */
     align-items: center; /* align vertical */
     text-align:center;
+    font:white;
  
     background:#FF8000;;
     font-family: 'Amatic SC';
@@ -416,6 +417,7 @@ input {
     justify-content: center; /* align horizontal */
     align-items: center; /* align vertical */
     text-align:center;
+    font:white;
 
     background:#aed167;
     font-family: 'Amatic SC';
