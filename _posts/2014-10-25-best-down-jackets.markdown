@@ -178,6 +178,29 @@ More heavy than the other jackets in our list, the Arcteryx Ceres Jacket is made
 
 ---
 
+# Accessories
+
+[Sea to Summit Ultra-Sil eVENT Compression Dry Sack](http://amzn.to/28MSD9O)
+
+Down is the perfect gear which can be compressed. Use a compression dry sack to decrease the size of your down jacket and your sleeping bag to a minimum. The Sea to Summit Ultra-Sil eVENT Compression Dry Sack is one of the view compression sacks which are actually waterproof.
+
+<a href="https://www.amazon.com/gp/product/B00SUDY9EM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SUDY9EM&linkCode=as2&tag=hikeve-20&linkId=16d737f5ad282e8329e468a92146474a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00SUDY9EM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00SUDY9EM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+[Nikwax Down Wash Direct](http://amzn.to/28LFRYL)
+
+Use Nikwax Down Wash to wash your down jacket.
+
+<a href="https://www.amazon.com/gp/product/B00XI1WT20/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00XI1WT20&linkCode=as2&tag=hikeve-20&linkId=c3c4439de353bcbe73f51529506bd904"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00XI1WT20&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00XI1WT20" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+[Nikwax Down Proof Waterproofing](http://amzn.to/28SBv1J)
+
+Nikwax Down Proof helps to make your down more water repellent. Down insulates less when it gets wet and with Nikwax Down Proof you can protect your down a little bit.
+
+<a href="https://www.amazon.com/gp/product/B001OPF4ME/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001OPF4ME&linkCode=as2&tag=hikeve-20&linkId=7fb79637721016c5341362451750b228"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001OPF4ME&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001OPF4ME" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+---
+
 # FAQ on Down Jackets
 
 ## When not to wear a down jacket?
