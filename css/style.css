@@ -394,24 +394,13 @@ input {
 /* Video Overlay */
 
 
-}
-#twitter_front {
-    font-size: xx-large;
-    justify-content: center; /* align horizontal */
-    align-items: center; /* align vertical */
-    text-align:center;
-    line-height:30px;
-    background:#aed167;
-    font-family: 'Amatic SC';
-}
-
 
 #facebook_front {
     font-size: xx-large;
     justify-content: center; /* align horizontal */
     align-items: center; /* align vertical */
     text-align:center;
-    line-height:30px;
+ 
     background:#aed167;
     font-family: 'Amatic SC';
 }
@@ -423,7 +412,7 @@ input {
     justify-content: center; /* align horizontal */
     align-items: center; /* align vertical */
     text-align:center;
-    line-height:30px;
+
     background:#aed167;
     font-family: 'Amatic SC';
 }
