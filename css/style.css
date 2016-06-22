@@ -391,16 +391,69 @@ input {
 }
 
 
-#video_box{
-    float:left;
-}
-#video_overlays {
-position:absolute;
-float:left;
+/* Video Overlay */
+
+div.video {
+    position:relative;
     width:100%;
-    min-height:50px;
-    background-color:#000;
-    opacity: 0.5;
-    bottom: 0;
-    z-index:300000;
+}
+div.video:before {
+    content:'Twitter: 2400';
+    font-size: xx-large;
+    position:absolute;
+    bottom:0%;
+display: flex;
+justify-content: center; /* align horizontal */
+align-items: center; /* align vertical */
+    left:33%;
+    height:60px;
+    width:34%;
+    border-radius:0px;
+    border:0px solid #000;
+    text-align:center;
+    line-height:30px;
+    background:#FF8000;
+    transition:all 200ms ease-in;
+    font-family: 'Amatic SC'
+}
+
+div > div.video:after {
+    content:'Facebook: 1400';
+    font-size: xx-large;
+    position:absolute;
+    bottom:0%;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+    right:0%;
+    height:60px;
+    width:33%;
+    border-radius:0px;
+    border:0px solid #000;
+    text-align:center;
+    line-height:30px;
+    background:#aed167;
+    transition:all 200ms ease-in;
+    font-family: 'Amatic SC'
+}
+
+div > div > div.video:after {
+    content:'Instagram: 3800';
+     font-size: xx-large;
+  
+    position:absolute;
+    bottom:0%;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+    left:0%;
+    height:60px;
+    width:33%;
+    border-radius:0px;
+    border:0px solid #000;
+    text-align:center;
+    line-height:30px;
+    background:#aed167;
+    transition:all 200ms ease-in;
+    font-family: 'Amatic SC';
 }
