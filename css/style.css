@@ -436,6 +436,7 @@ input {
 #mode1 a:hover {
    color: yellow;
    text-decoration: none;
+   background: #red;
 }
 
 #mode2 a:link,
@@ -447,6 +448,7 @@ input {
 #mode2 a:hover {
    color: yellow;
    text-decoration: none;
+   background: #red;
 }
 
 
