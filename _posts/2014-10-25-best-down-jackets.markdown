@@ -21,7 +21,7 @@ The down jackets in our buying guide are sorted by weight and we have just selec
 
 The down jackets in our list are all men down jackets but most manufacturers do also have an equivalent down jacket model for women in their portfolio. 
 
-<a href="https://www.flickr.com/photos/90204224@N07/18424590651" title="best down jackets 2016"><img src="https://c2.staticflickr.com/8/7793/18424590651_c838138d3d_o.jpg" width="100%" alt="best down jackets in 2016 - Konstantin wearing a down jacket in Finnish Lapland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/18424590651" title="best down jackets 2016"><img src="https://c2.staticflickr.com/8/7793/18424590651_c838138d3d_o.jpg" width="100%" alt="best down jackets 2016"></a>
 
 Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Finnish Lapland").
 
