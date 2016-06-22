@@ -46,17 +46,21 @@ You can link a hear rate monitor to your Suunto watch.
 
 <a href="https://www.amazon.com/gp/product/B00LVNEDDU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LVNEDDU&linkCode=as2&tag=hikeve-20&linkId=4a84a24f1bb726b645aa94750720818e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00LVNEDDU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00LVNEDDU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+---
 
 ## [Traverse Screen Protector](http://amzn.to/28OSNim)
 Screen protectors do not only exists for mobile phones. You can also protect your Suunto watch with a screen protector.
 
 <a href="https://www.amazon.com/gp/product/B01G4J0230/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01G4J0230&linkCode=as2&tag=hikeve-20&linkId=e7b3849132f7af30d060ac14b876efa2"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01G4J0230&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01G4J0230" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+---
+
 ## [EasyAcc Rugged Outdoor Power Bank (IP67 Waterproof / 20000mAh)](http://amzn.to/28V8l3t)
 On longer trips it's quite convenient to have a power bank with you. Usually, I charge my Suunto watch every day if I am on a backpacking trip. 
 
 <a href="https://www.amazon.com/gp/product/B01B73I5ZU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01B73I5ZU&linkCode=as2&tag=hikeve-20&linkId=47d7ed2d86df59bde1e15986668ca7b5"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01B73I5ZU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01B73I5ZU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+---
 
 ## [Suunto Wristop Computer Bike Adaptor](http://amzn.to/28V6hrU)
 On longer bicycle trips it might be quite convenient to have the Suunto watch attached on the Suunto Wristop Computer Bike Adaptor to keep track of your performance.
