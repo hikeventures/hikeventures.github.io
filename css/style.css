@@ -396,13 +396,12 @@ input {
 
 }
 div.twitter_front {
-    
     font-size: xx-large;
     justify-content: center; /* align horizontal */
     align-items: center; /* align vertical */
     text-align:center;
     line-height:30px;
-    background:#FF8000;
+    background:#aed167;
     font-family: 'Amatic SC';
 }
 
