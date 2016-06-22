@@ -396,6 +396,7 @@ input {
 div.video {
     position:relative;
     width:100%;
+    hight:100%;
 }
 div.video:before {
     content:'Twitter: 2400';
