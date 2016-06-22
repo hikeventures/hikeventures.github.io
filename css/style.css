@@ -427,3 +427,16 @@ input {
     padding-top: 5px;
     padding-bottom: 5px;
 }
+
+
+#mode1 a:link,
+#mode1 a:visited,
+#mode1 a:hover {
+   color: white;
+}
+
+#mode2 a:link,
+#mode2 a:visited,
+#mode2 a:hover {
+   color: white;
+}
