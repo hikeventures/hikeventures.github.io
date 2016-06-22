@@ -391,4 +391,14 @@ input {
 }
 
 
-
+#video_box{
+    float:left;
+}
+#video_overlays {
+position:absolute;
+float:left;
+    width:640px;
+    min-height:370px;
+    background-color:#000;
+    z-index:300000;
+}
