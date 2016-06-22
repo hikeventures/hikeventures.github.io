@@ -422,7 +422,7 @@ div > div.video:after {
     content:'Facebook: 1400';
     font-size: xx-large;
     position:absolute;
-    bottom:0%;
+    top:0%;
     display: flex;
     justify-content: center; /* align horizontal */
     align-items: center; /* align vertical */
