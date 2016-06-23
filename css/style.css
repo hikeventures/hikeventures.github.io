@@ -1,7 +1,9 @@
-.container-fluid {
-     padding:-20 !important;
+.container {
+     padding-right: 0 impotant!; /*15px in bootstrap.css*/
+     padding-left: 0 impotant!;  /*idem*/
+     margin-right: auto impotant!;
+     margin-left: auto impotant!;
 }
-
 
 /* submit and search button on blog */
 
