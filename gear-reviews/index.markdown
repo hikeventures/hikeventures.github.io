@@ -8,7 +8,7 @@ footer: false
 published: true
 ---
 
-
+<div class="table">
 
       <table class="table table-hover table-condensed">
         <tbody>
@@ -248,4 +248,4 @@ published: true
         
         </tbody>
       </table>
-
+</div>
