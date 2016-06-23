@@ -7,19 +7,10 @@
      margin-left: auto;
 }
 
-.home
+.page-content
 {
-	  padding-right: 0 !important; /*15px in bootstrap.css*/
-     padding-left: 0 !important;  /*idem*/
-     margin-right: auto;
-     margin-left: auto;
-}
-
-
-.row
-{
-	  padding-right: 0 !important; /*15px in bootstrap.css*/
-     padding-left: 0 !important;  /*idem*/
+	  padding-right: -30 !important; /*15px in bootstrap.css*/
+     padding-left: -30 !important;  /*idem*/
      margin-right: auto;
      margin-left: auto;
 }
