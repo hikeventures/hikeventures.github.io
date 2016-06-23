@@ -1,3 +1,10 @@
+.img-responsive {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+
 /* submit and search button on blog */
 
 input {
