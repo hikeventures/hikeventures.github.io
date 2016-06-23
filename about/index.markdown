@@ -24,7 +24,7 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 </div>
 <div class="col-md-8"> 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27117236211/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://c4.staticflickr.com/8/7435/27117236211_aee9dd55ee_b.jpg" width="100%" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27117236211/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://c4.staticflickr.com/8/7435/27117236211_aee9dd55ee_b.jpg" width="100%" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br><br>
 
 </div>
 </div>
