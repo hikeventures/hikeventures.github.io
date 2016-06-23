@@ -11,7 +11,7 @@ footer: false
                 <h2 class="page-header">Austria</h2>
             </div>
 
-             <div class="col-xs-12"><div class="hovereffect">
+             <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/e5-crossing-the-alps-from-germany-to-italy/" style="color: #FFF; border: 0px;">
         <div class="thumbnail text-center">
         	<img src="https://farm2.staticflickr.com/1615/24321011066_e5ce7b207e_z.jpg" alt="" class="img-responsive">
@@ -19,7 +19,7 @@ footer: false
         </div></div></a></div></div>
         
         
-                     <div class="col-xs-12"><div class="hovereffect">
+                     <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/" style="color: #FFF; border: 0px;">
         <div class="thumbnail text-center">
         	<img src="https://c8.staticflickr.com/8/7140/27787110055_38cd164c19_z.jpg" alt="" class="img-responsive">
