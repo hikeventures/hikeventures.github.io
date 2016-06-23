@@ -1,14 +1,14 @@
 .page-content
 {
-  padding-right: 0; /*15px in bootstrap.css*/
-     padding-left: 0;  /*idem*/
+  padding-right: 0 !important; /*15px in bootstrap.css*/
+     padding-left: 0 !important;  /*idem*/
      margin-right: auto;
      margin-left: auto;	
 }
 .wrapper
 {
-	  padding-right:-15; /*15px in bootstrap.css*/
-     padding-left: -15;  /*idem*/
+	  padding-right: 0 !important; /*15px in bootstrap.css*/
+     padding-left: 0 !important;  /*idem*/
      margin-right: auto;
      margin-left: auto;
 }
