@@ -11,7 +11,23 @@ published: true
           
           <div class="row">
                    
-                    <div class="col-lg-8 col-md-8 col-xs-8"> 
+                    <div class="col-xs-12"> 
+                                   <div class="home"> 
+                                        <ul class="post-list"> 
+                                          {% for post in site.posts limit:2 %} 
+                                            <li> 
+                                              <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> 
+                                              <h2> 
+                                               <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><font color="#FF8000"><i class="fa fa-compass"></i>&nbsp;</font> {{ post.title }}</a> 
+                                              </h2> 
+                                              {{ post.excerpt }}<a href="{{ post.url }}">Read more...</a>
+                                            </li>
+                                          {% endfor %} 
+                                        </ul> 
+                                   </div> 
+                      </div> 
+                   
+                    <div class="col-lg-8 col-md-8"> 
 
 
                                    <div class="home"> 
@@ -29,6 +45,24 @@ published: true
                                    </div> 
                       </div> 
 
+
+
+                    <div class="col-xs-12">
+
+                        <div class="alignleft">
+                               <div class="headline"> <h4><span class="label" style="background:#FF8000"><a href="http://www.hikeventures.com/archive/"><font style="color:#FFFFFF">Latest Blogs</font></a></span></h4>
+                               </div>
+
+                                            {% for post in site.posts limit:5 %}
+                                            <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a><hr>{% endfor %}
+
+
+                        </div>
+
+                        <center>
+                        <a href="http://www.avantlink.com/click.php?tt=ml&amp;ti=462137&amp;pw=150351&amp;ctc=start side" target="_blank"><img src="//www.avantlink.com/gbi/13582/462137/125311/150351/image.jpg?ctc=start side" width="100%" style="border: 0px;" alt="" /></a>
+                        </center>
+                    </div>
 
 
                     <div class="col-lg-4 col-md-4">
