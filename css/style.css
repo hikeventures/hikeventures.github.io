@@ -5,7 +5,13 @@
      margin-right: auto;
      margin-left: auto;	
 }
-
+.wrapper
+{
+	  padding-right:-25; /*15px in bootstrap.css*/
+     padding-left: -25;  /*idem*/
+     margin-right: auto;
+     margin-left: auto;
+}
 
 
 /* submit and search button on blog */
