@@ -1,4 +1,11 @@
+.container-fluid {
+     padding:0 !important;
+}
+
+
 /* submit and search button on blog */
+
+
 
 input {
     -webkit-appearance: none;
