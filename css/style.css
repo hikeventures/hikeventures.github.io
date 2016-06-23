@@ -9,8 +9,8 @@
 
 .page-content
 {
-	  padding-right: -30 !important; /*15px in bootstrap.css*/
-     padding-left: -30 !important;  /*idem*/
+	  padding-right: 0px !important; /*15px in bootstrap.css*/
+     padding-left: 0px !important;  /*idem*/
      margin-right: auto;
      margin-left: auto;
 }
