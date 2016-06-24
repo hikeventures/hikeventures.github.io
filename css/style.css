@@ -18,7 +18,7 @@ height: 10px;
 
 /* Destination page */
 
-.col-lg-12-destination
+.col-lg-12-destination, .col-md-12-destination, .col-sm-12-destination, .col-xs-12-destination
 {
     padding-left: 15px !important;
     padding-right: 15px !important;
