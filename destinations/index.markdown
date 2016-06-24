@@ -31,7 +31,7 @@ footer: false
 
 
 <div class="row">
-	<div class="col-lg-12">
+ <div class="col-lg-12-destination">
         <h2 class="page-header">Belgium</h2>
         </div>
 
@@ -57,7 +57,7 @@ footer: false
 
 
 <div class="row">            
-  <div class="col-lg-12">
+  <div class="col-lg-12-destination">
         <h2 class="page-header">Finland</h2>
         </div>
 
@@ -237,7 +237,7 @@ footer: false
 
 
 <div class="row">
-<div class="col-lg-12">
+ <div class="col-lg-12-destination">
                 <h2 class="page-header">Germany</h2>
             </div>
 
@@ -259,7 +259,7 @@ footer: false
 
 
 <div class="row">
-<div class="col-lg-12">
+ <div class="col-lg-12-destination">
                 <h2 class="page-header">Ireland</h2>
             </div>
 
@@ -276,7 +276,7 @@ footer: false
 
 
 <div class="row">
-<div class="col-lg-12">
+ <div class="col-lg-12-destination">
                 <h2 class="page-header">Japan</h2>
             </div>
 
@@ -292,7 +292,7 @@ footer: false
 
 
 <div class="row">
-<div class="col-lg-12">
+ <div class="col-lg-12-destination">
                 <h2 class="page-header">Netherlands</h2>
             </div>
 
@@ -332,7 +332,7 @@ footer: false
 
 
 <div class="row">
-<div class="col-lg-12">
+ <div class="col-lg-12-destination">
                 <h2 class="page-header">Lithuania</h2>
             </div>
 
@@ -347,7 +347,7 @@ footer: false
 </div>
 
 <div class="row">
-<div class="col-lg-12">
+ <div class="col-lg-12-destination">
                 <h2 class="page-header">Norway</h2>
             </div>
 
@@ -363,7 +363,7 @@ footer: false
 
 
 <div class="row">
- <div class="col-lg-12">
+ <div class="col-lg-12-destination">
                 <h2 class="page-header">Poland</h2>
             </div>
 
@@ -412,7 +412,7 @@ footer: false
 
 
 <div class="row">
-<div class="col-lg-12">
+ <div class="col-lg-12-destination">
                 <h2 class="page-header">Scotland</h2>
             </div>
 
@@ -426,7 +426,7 @@ footer: false
 
 
 <div class="row">
-<div class="col-lg-12">
+ <div class="col-lg-12-destination">
                 <h2 class="page-header">Sweden</h2>
             </div>
 
