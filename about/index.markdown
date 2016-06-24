@@ -16,7 +16,7 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 <hr>
 
 <div class="row">
- <div class="col-lg-12 col-sm-12 col-xs-12">
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> 
                      
@@ -30,7 +30,7 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 
 
 </div></div></div>
- <div class="col-lg-12 col-sm-12 col-xs-12">
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25211155704/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://c1.staticflickr.com/2/1543/25211155704_7246941e5b_b.jpg" width="100%" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br>
