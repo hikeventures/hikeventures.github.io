@@ -9,7 +9,7 @@ footer: false
 <div class="my-fluid-container">
 <div class="row">
    <div class="col-lg-12">
-               <center> <h2 class="page-header">Austria</h2><center>
+               <center> <h2 class="page-header">Austria</h2></center>
             </div>
 
              <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
