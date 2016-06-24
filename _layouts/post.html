@@ -9,8 +9,7 @@ published: true
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header">
     <center><h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <!-- Go to www.addthis.com/dashboard to customize your tools -->
-<div class="addthis_sharing_toolbox"></div>
+
     
 
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
@@ -27,9 +26,6 @@ published: true
   <div class="post-content" itemprop="articleBody">
     {{ content }}
 
-<hr>
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-Share: <div class="addthis_sharing_toolbox"></div>
 <hr>
 <form action='http://www.feedio.co/@hikeventures/verify' id='subscribe_widget_hikeventures' method='post' style='border:0px solid #ccc;padding:0px;text-align:left;' target='popupwindow'>
 <font color="black">Subscribe to our newsletter with our latest posts. You can unsubscribe any time. Enter your email address: &nbsp;<input name='email' style='width:140px' type='text'><input type='submit' value='JOIN US'></font>
