@@ -8,7 +8,7 @@ footer: false
 ---
 <div class="row">
    <div class="col-lg-12-destination">
-                <h2 class="page-header">Austria</h2>
+               <center> <h2 class="page-header">Austria</h2></center>
             </div>
 
              <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
@@ -32,7 +32,7 @@ footer: false
 
 <div class="row">
  <div class="col-lg-12-destination">
-        <h2 class="page-header">Belgium</h2>
+       <center> <h2 class="page-header">Belgium</h2></center>
         </div>
 
              <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
@@ -58,7 +58,7 @@ footer: false
 
 <div class="row">            
   <div class="col-lg-12-destination">
-        <h2 class="page-header">Finland</h2>
+     <center>   <h2 class="page-header">Finland</h2></center>
         </div>
 
              <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
@@ -238,7 +238,7 @@ footer: false
 
 <div class="row">
  <div class="col-lg-12-destination">
-                <h2 class="page-header">Germany</h2>
+              <center>  <h2 class="page-header">Germany</h2></center>
             </div>
 
              <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
@@ -260,7 +260,7 @@ footer: false
 
 <div class="row">
  <div class="col-lg-12-destination">
-                <h2 class="page-header">Ireland</h2>
+             <center>   <h2 class="page-header">Ireland</h2></center>
             </div>
 
              <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
@@ -277,7 +277,7 @@ footer: false
 
 <div class="row">
  <div class="col-lg-12-destination">
-                <h2 class="page-header">Japan</h2>
+            <center>    <h2 class="page-header">Japan</h2></center>
             </div>
 
             <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
@@ -293,7 +293,7 @@ footer: false
 
 <div class="row">
  <div class="col-lg-12-destination">
-                <h2 class="page-header">Netherlands</h2>
+             <center>   <h2 class="page-header">Netherlands</h2></center>
             </div>
 
              <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
@@ -333,7 +333,7 @@ footer: false
 
 <div class="row">
  <div class="col-lg-12-destination">
-                <h2 class="page-header">Lithuania</h2>
+              <center>  <h2 class="page-header">Lithuania</h2></center>
             </div>
 
              <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
@@ -348,7 +348,7 @@ footer: false
 
 <div class="row">
  <div class="col-lg-12-destination">
-                <h2 class="page-header">Norway</h2>
+             <center>   <h2 class="page-header">Norway</h2></center>
             </div>
 
            <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
@@ -364,7 +364,7 @@ footer: false
 
 <div class="row">
  <div class="col-lg-12-destination">
-                <h2 class="page-header">Poland</h2>
+              <center>  <h2 class="page-header">Poland</h2></center>
             </div>
 
              <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
@@ -413,7 +413,7 @@ footer: false
 
 <div class="row">
  <div class="col-lg-12-destination">
-                <h2 class="page-header">Scotland</h2>
+           <center>     <h2 class="page-header">Scotland</h2></center>
             </div>
 
              <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
@@ -427,7 +427,7 @@ footer: false
 
 <div class="row">
  <div class="col-lg-12-destination">
-                <h2 class="page-header">Sweden</h2>
+          <center>      <h2 class="page-header">Sweden</h2></center>
             </div>
 
              <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
