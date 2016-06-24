@@ -358,7 +358,7 @@ footer: false
 </div>   
 
 
- <div class="row" style="margin-right:0px;margin-left:0px">
+ <div class="row">
    <div class="col-lg-12-destination col-md-12-destination col-sm-12-destination col-xs-12-destination">
           <center>      <h2 class="page-header">Sweden</h2></center>
             </div>
