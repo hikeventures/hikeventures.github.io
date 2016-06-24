@@ -51,11 +51,11 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 
 <h1> Followers on Social Media </h1>
 
-**[Instagram](https://www.instagram.com/hikeventures/):** 3800  
-**[Twitter](https://twitter.com/HikeVentures):** 2300   
-**[Facebook](https://www.facebook.com/HikeVentures):** 1400   
+<a href="https://www.instagram.com/hikeventures/">Instagram</a>: </strong>3800  
+<a href="https://twitter.com/HikeVentures">Twitter</a>: </strong>2300   
+<a href="https://www.facebook.com/HikeVentures">Facebook</a>: </strong>1400   
 
-We are also on [Movescount](http://www.movescount.com/members/member140205-HikeVentures) and <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw">YouTube</a>.
+We are also on <a href="http://www.movescount.com/members/member140205-HikeVentures">Movescount</a> and <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw">YouTube</a>.
 
 <hr>
 
@@ -71,7 +71,7 @@ On our blog we are reviewing outdoor gear which we receive from well known outdo
 <hr>
 
 <h1> Blog Collaboration</h1> 
-We maintain a list of the [best outdoor blogs](http://www.hikeventures.com/blogs/). Contact us if you want to become part of it.
+We maintain a list of the <a href="http://www.hikeventures.com/blogs/">best outdoor blogs</a>. Contact us if you want to become part of it.
 
 <hr>
 
