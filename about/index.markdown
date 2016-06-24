@@ -17,7 +17,7 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 
 <div class="row">
 <div class="col-lg-12 col-md-1 col-sm-12 col-xs-12"> 
-                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4"> 
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4"> 
                      
             <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27117236211/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://c4.staticflickr.com/8/7435/27117236211_aee9dd55ee_b.jpg" width="100%" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br>   
 
@@ -29,7 +29,7 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 
 
 
-</div>
+
 </div>
 <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4"> 
 
