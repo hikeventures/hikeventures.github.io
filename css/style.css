@@ -50,8 +50,8 @@ height: 10px;
 {
      padding-right: 0 !important; /*15px in bootstrap.css*/
      padding-left: 0 !important;  /*idem*/
-     margin-right: 0px !important; /*auto*/
-     margin-left: auto !important; /*auto*/
+     margin-right: auto; /*auto*/
+     margin-left: auto; /*auto*/
 }
 
 
