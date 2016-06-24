@@ -41,10 +41,10 @@ background:#FF8000;
 
 /* Logo positioning */
 .headline {
-  position: absolute;
+  position: relative;
   z-index: 1;
   top: 0px;
-  left: 50%;
+  left: 0;
 
   text-decoration: none;
 }
