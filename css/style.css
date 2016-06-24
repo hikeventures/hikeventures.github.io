@@ -396,3 +396,28 @@ input {
 
   text-decoration: none;
 }
+
+
+
+
+/* RSS */
+div.demo {
+    display: table;
+    width: 100%;
+    table-layout: fixed;    /* For cells of equal size */
+}
+div.demo span {
+    display: table-cell;
+    text-align: center;
+}
+
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+}
