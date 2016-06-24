@@ -10,8 +10,8 @@
 
 .wrapper
 {
-     padding-right: 15 !important; /*15px in bootstrap.css*/
-     padding-left: 15 !important;  /*idem*/
+     padding-right: 0 !important; /*15px in bootstrap.css*/
+     padding-left: 0 !important;  /*idem*/
      margin-right: auto;
      margin-left: auto;
 }
