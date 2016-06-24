@@ -16,12 +16,6 @@
      margin-left: auto;
 }
 
-/* white border around image */
-
-img {
- box-shadow: 8px 8px 10px #aaa !important;
-}
-
 
 /* submit and search button on blog */
 
