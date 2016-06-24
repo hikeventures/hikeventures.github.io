@@ -20,8 +20,8 @@ height: 10px;
 
 .col-lg-12-destination, .col-md-12-destination, .col-sm-12-destination, .col-xs-12-destination
 {
-    padding-left: 15px !important;
-    padding-right: 15px !important;
+    padding-left: 35px !important;
+    padding-right: 35px !important;
 }
 
 
@@ -30,8 +30,8 @@ height: 10px;
 
 .wrapper
 {
-     padding-right: 5 !important; /*15px in bootstrap.css*/
-     padding-left: 5 !important;  /*idem*/
+     padding-right: 0 !important; /*15px in bootstrap.css*/
+     padding-left: 0 !important;  /*idem*/
      margin-right: auto;
      margin-left: auto;
 }
