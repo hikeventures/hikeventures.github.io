@@ -8,8 +8,7 @@ sharing: false
 footer: false
 ---
 
-<div style="padding-right: 10px; padding-left:10px">
-<H1>HikeVenturers</H1>
+# HikeVenturers
 HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoeing, cycling and urban microadventures. We <a href="http://www.hikeventures.com/destinations/">adventure</a> mainly in Europe but sometimes we also visit places like Japan or Russia. HikeVentures was established in 2012.
 
 ---
@@ -49,7 +48,7 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 
 ---
 
-# Followers on Social Media	
+# Followers on Social Media
 
 **[Instagram](https://www.instagram.com/hikeventures/):** 3800  
 **[Twitter](https://twitter.com/HikeVentures):** 2300   
@@ -106,6 +105,5 @@ email: <a href="mailto:contact@hikeventures.com">contact@hikeventures.com</a>
    
 <a rel='nofollow' href='http://' border='0' style='cursor:default'></a><img src='https://chart.googleapis.com/chart?cht=qr&chl=BEGIN%3AVCARD%0AVERSION%3A3.0%0AN%3ADormischian%3BPatrick%0AFN%3APatrick%20Dormischian%0AORG%3AHikeVentures%0ATITLE%3A-%0AADR%3A%3B%3B-%3B-%3B-%3B-%3B-%0ATEL%3BWORK%3BVOICE%3A-%0ATEL%3BCELL%3A%2B358%2050%20572%2084%2089%0ATEL%3BFAX%3A-%0AEMAIL%3BWORK%3BINTERNET%3Acontact%40hikeventures.com%0AURL%3Awww.hikeventures.com%0ABDAY%3A%0AEND%3AVCARD%0A&chs=180x180&choe=UTF-8&chld=L|2' alt=''>
 
-</div>
 
 [1]:	https://docs.google.com/forms/d/1K1EQy1eARL_RGYzCwON1KJ1PxjB3ZF4QVc_CobsXBp0/edit?usp=forms_home
