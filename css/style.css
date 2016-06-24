@@ -17,8 +17,8 @@ height: 10px;
 
 .wrapper
 {
-     padding-right: 10 !important; /*15px in bootstrap.css*/
-     padding-left: 10 !important;  /*idem*/
+     padding-right: 0 !important; /*15px in bootstrap.css*/
+     padding-left: 0 !important;  /*idem*/
      margin-right: auto;
      margin-left: auto;
 }
