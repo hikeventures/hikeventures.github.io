@@ -1,3 +1,20 @@
+/* twitter headline */
+
+a.twitter:hover {
+  color: black ;
+}
+
+a.twitter:link {
+    color: black;
+}
+
+/* visited link */
+a.twitter:visited {
+    color: black;
+}
+
+
+
 /* hr style */
 hr.hr_bottom
 {
