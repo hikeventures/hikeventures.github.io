@@ -265,17 +265,17 @@ footer: false
         <div class="thumbnail text-center">
         	<img src="https://farm2.staticflickr.com/1543/23720395583_577ed817f4_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Grensmaas</p>
-        </div></div></a></div>              <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
+      </div></div></a></div></div>         <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/hiking-in-zuid-kenemerland-middenduin-netherlands/" style="color: #FFF; border: 0px;">
         <div class="thumbnail text-center">
         	<img src="https://farm2.staticflickr.com/1599/24347200595_95fd71e7f9_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Middenduin</p>
-        </div></div></a></div>              <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
+          </div></div></a></div></div>             <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/mushroom-hunting-holland/" style="color: #FFF; border: 0px;">
         <div class="thumbnail text-center">
         	<img src="https://farm2.staticflickr.com/1566/24239565662_d16c8c4be2_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Steenwijk</p>
-        </div></div></a></div>              <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
+           </div></div></a></div></div>           <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/packrafting-in-the-weerribben-wieden-national-park/" style="color: #FFF; border: 0px;">
         <div class="thumbnail text-center">
         	<img src="https://farm2.staticflickr.com/1451/23979413229_79dd66d77a_z.jpg" alt="" class="img-responsive">
@@ -318,27 +318,27 @@ footer: false
         <div class="thumbnail text-center">
         	<img src="https://farm2.staticflickr.com/1616/24347198645_baeebca871_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Beskid Mountains</p>
-        </div></div></a></div>             <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
+         </div></div></a></div></div>           <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/Packrafting-Drawa-National-Park-Poland/" style="color: #FFF; border: 0px;">
         <div class="thumbnail text-center">
         	<img src="https://farm2.staticflickr.com/1652/24321585336_8fea038a8a_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Drawa River</p>
-        </div></div></a></div>              <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
+          </div></div></a></div></div>            <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/Karkonosze-national-park/" style="color: #FFF; border: 0px;">
         <div class="thumbnail text-center">
         	<img src="https://farm2.staticflickr.com/1446/24321008456_0df382dc71_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Karkonosze</p>
-        </div></div></a></div>              <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
+        </div></div></a></div></div>             <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/the-silent-hunt-in-poland/" style="color: #FFF; border: 0px;">
         <div class="thumbnail text-center">
         	<img src="https://farm2.staticflickr.com/1581/23720394613_1e0758973a_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Puszcza Notecka</p>
-        </div></div></a></div>        <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
+           </div></div></a></div></div>      <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/ideas-planning-outdoor-trip-poland/" style="color: #FFF; border: 0px;">
         <div class="thumbnail text-center">
         	<img src="https://farm2.staticflickr.com/1570/24347199435_cc32f67f4c_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Sieraków</p>
-        </div></div></a></div>
+        </div></div></a></div></div>
 </div>
 
 
