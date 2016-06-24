@@ -24,6 +24,13 @@ height: 10px;
     padding-right: 15px !important;
 }
 
+
+div.thumbnail
+{
+border=0 !important;	
+}
+
+
 .wrapper
 {
      padding-right: 0 !important; /*15px in bootstrap.css*/
