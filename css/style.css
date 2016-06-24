@@ -15,6 +15,15 @@ height: 10px;
 }
 
 
+
+/* Destination page */
+
+.col-lg-12-destination
+{
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+}
+
 .wrapper
 {
      padding-right: 0 !important; /*15px in bootstrap.css*/
