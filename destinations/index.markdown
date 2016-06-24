@@ -7,7 +7,7 @@ navbar: Destinations
 footer: false
 ---
 <div class="row">
-   <div class="col-lg-12">
+   <div class="col-lg-12-destination">
                 <h2 class="page-header">Austria</h2>
             </div>
 
