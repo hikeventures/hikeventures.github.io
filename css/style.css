@@ -32,6 +32,11 @@ height: 10px;
     margin-right: 0px !important;
 }
 
+.row {
+    margin-left: 0 px;
+    margin-right: 0 px;
+}
+
 .post-content
 {
     padding-left: 0px !important;
