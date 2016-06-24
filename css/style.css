@@ -94,11 +94,15 @@ background:#FF8000;
 .av_search_results_grid_row {
 	background-color: #ffffff;
 }
+
+
 img {
           display: block;
           height: auto;
           max-width: 100%;
-   }
+  }
+   
+   
 html,body{height:100%;}#footer{height:30px;background-color:#eeeeee}#footer p{line-height:30px;margin-bottom:0}
 
 #footer {
@@ -132,7 +136,7 @@ html,body{height:100%;}#footer{height:30px;background-color:#eeeeee}#footer p{li
 
 
 body{
-font: 16px Verdana, serif;line-height: 200%;
+font: line-height: 200%;
 }
 
 
