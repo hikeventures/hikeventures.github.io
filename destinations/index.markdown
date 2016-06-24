@@ -239,7 +239,7 @@ footer: false
         	<img src="https://farm2.staticflickr.com/1520/23719023194_71e4d91548_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Count Kerry</p>
         </div></div></a></div></div>
-
+</div>
 
 
 <div class="row">
@@ -253,7 +253,7 @@ footer: false
         	<img src="https://farm2.staticflickr.com/1637/24052205750_c3f6f93889_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Tateyama Mountain</p>
         </div></div></a></div></div>
-
+</div>
 
 <div class="row">
   <div class="col-lg-12-destination col-md-12-destination col-sm-12-destination col-xs-12-destination">
@@ -295,6 +295,8 @@ footer: false
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Kuršiu Nerija</p>
         </div></div></a></div></div>
 
+</div>
+
 <div class="row">
  <div class="col-lg-12-destination">
              <center>   <h2 class="page-header">Norway</h2></center>
@@ -306,7 +308,7 @@ footer: false
         	<img src="https://farm2.staticflickr.com/1718/24347771835_cd687ed083_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Alta River</p>
         </div></div></a></div></div>
-
+</div>
 
 <div class="row">
    <div class="col-lg-12-destination col-md-12-destination col-sm-12-destination col-xs-12-destination">
@@ -402,5 +404,5 @@ footer: false
         	<img src="https://farm8.staticflickr.com/7038/26713214620_879b297792_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Voxnan</p>
         </div></div></a></div></div>
-        
+        </div>
 </div> 
