@@ -404,5 +404,5 @@ footer: false
         	<img src="https://farm8.staticflickr.com/7038/26713214620_879b297792_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Voxnan</p>
         </div></div></a></div></div>
-       
+    </div>    
 </div> 
