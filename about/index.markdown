@@ -11,11 +11,11 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 
 ---
 
-# HikeVenturers
+<H1>HikeVenturers</H1>
 
 
 
-            <div class="row">
+<div class="row">
 <div class="col-lg-12 col-md-1 col-sm-12 col-xs-12"> 
                      <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4"> 
                      
