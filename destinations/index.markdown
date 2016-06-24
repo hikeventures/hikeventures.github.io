@@ -100,35 +100,35 @@ footer: false
         <img src="https://farm2.staticflickr.com/1461/23720395243_73244d16ee_z.jpg" alt="" class="img-responsive">
         <div class="caption">
             <p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Kymijoki</p>
-        </div></div></a></div></div>
+        </div></div></a></div>
 
              <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/Mariehamn-aland-islands-worth-a-visit/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
         <img src="https://farm2.staticflickr.com/1672/24264717071_d1c9df1a0a_z.jpg" alt="" class="img-responsive">
         <div class="caption">
             <p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Mariehamn</p>
-        </div></div></a></div></div>
+        </div></div></a></div>
 
    <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/Naantali/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
         <img src="https://farm2.staticflickr.com/1693/24321010126_84c55abefb_z.jpg" alt="" class="img-responsive">
         <div class="caption">
             <p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Naantali</p>
-        </div></div></a></div></div>
+        </div></div></a></div>
 
    <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/observing-northern-lights-in-vaasa-finland/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
         <img src="https://farm2.staticflickr.com/1445/23979415199_ab9d4f3643_z.jpg" alt="" class="img-responsive">
         <div class="caption">
             <p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Northern Lights</p>
-        </div></div></a></div></div>
+        </div></div></a></div>
 
   <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/hiking-in-nuuksio-national-park-finland/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
         <img src="https://farm2.staticflickr.com/1638/24347200335_48f9eb2881_z.jpg" alt="" class="img-responsive">
         <div class="caption">
             <p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Nuuksio</p>
-        </div></div></a></div></div>
+        </div></div></a></div>
 
  <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/hiking-in-nuuksio-national-park-finland/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
@@ -141,21 +141,21 @@ footer: false
         <img src="https://farm2.staticflickr.com/1654/23719021984_96798d3865_z.jpg" alt="" class="img-responsive">
         <div class="caption">
             <p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Repovesi</p>
-        </div></div></a></div></div>
+        </div></div></a></div>
 
  <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/hiking-in-seitseminen-national-park-finland/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
         <img src="https://farm2.staticflickr.com/1667/23720394203_823cb16313_z.jpg" alt="" class="img-responsive">
         <div class="caption">
             <p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Seitseminen</p>
-        </div></div></a></div></div>
+        </div></div></a></div>
 
   <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/halloween-adventure-at-lake-suolijarvi/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
         <img src="https://farm2.staticflickr.com/1620/24321009286_ed0df462f5_z.jpg" alt="" class="img-responsive">
         <div class="caption">
             <p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Suolijärvi</p>
-        </div></div></a></div></div>
+        </div></div></a></div>
 
          <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/Packrafting-Aura-River-Turku/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
@@ -172,7 +172,8 @@ footer: false
         <img src="https://farm2.staticflickr.com/1698/24051632460_1d96e8a1bd_z.jpg" alt="" class="img-responsive">
         <div class="caption">
             <p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Turku-Stockholm Cruise</p>
-        </div></div></a></div>          <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
+        </div></div></a></div>  
+        <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/ruissalo-turku/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
         <img src="https://farm2.staticflickr.com/1551/23979414889_43ce4431d8_z.jpg" alt="" class="img-responsive">
         <div class="caption">
@@ -182,7 +183,7 @@ footer: false
         <img src="https://farm2.staticflickr.com/1490/24264715551_b8001a58b6_z.jpg" alt="" class="img-responsive">
         <div class="caption">
             <p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Tuusula</p>
-        </div></div></a></div></div>
+        </div></div></a></div>
 
           <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
@@ -216,14 +217,14 @@ footer: false
         <div class="thumbnail text-center">
         	<img src="https://farm2.staticflickr.com/1485/24321008626_beb18a4ba9_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Berlin</p>
-        </div></div></a></div></div>
+        </div></div></a></div>
 
             <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/visiting-lake-constance-for-3-days/" style="color: #FFF; border: 0px;">
         <div class="thumbnail text-center">
         	<img src="https://farm2.staticflickr.com/1665/24321008506_980bdfa58e_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Bodensee</p>
-        </div></div></a></div></div>
+        </div></div></a></div>
 </div>
 
 
@@ -238,10 +239,7 @@ footer: false
         <div class="thumbnail text-center">
         	<img src="https://farm2.staticflickr.com/1520/23719023194_71e4d91548_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Count Kerry</p>
-        </div></div></a></div></div>
-
-
-
+        </div></div></a></div>
 <div class="row">
    <div class="col-lg-12-destination col-md-12-destination col-sm-12-destination col-xs-12-destination">
             <center>    <h2 class="page-header">Japan</h2></center>
@@ -252,10 +250,7 @@ footer: false
         <div class="thumbnail text-center">
         	<img src="https://farm2.staticflickr.com/1637/24052205750_c3f6f93889_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Tateyama Mountain</p>
-        </div></div></a></div></div>
-
-
-<div class="row">
+        </div></div></a></div><div class="row">
   <div class="col-lg-12-destination col-md-12-destination col-sm-12-destination col-xs-12-destination">
              <center>   <h2 class="page-header">Netherlands</h2></center>
             </div>
@@ -280,10 +275,7 @@ footer: false
         <div class="thumbnail text-center">
         	<img src="https://farm2.staticflickr.com/1451/23979413229_79dd66d77a_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Weerribben Wieden</p>
-        </div></div></a></div></div>
-
-
-<div class="row">
+        </div></div></a></div><div class="row">
   <div class="col-lg-12-destination col-md-12-destination col-sm-12-destination col-xs-12-destination">
               <center>  <h2 class="page-header">Lithuania</h2></center>
             </div>
@@ -305,10 +297,9 @@ footer: false
         <div class="thumbnail text-center">
         	<img src="https://farm2.staticflickr.com/1718/24347771835_cd687ed083_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Alta River</p>
-        </div></div></a></div></div>
-
-
-<div class="row">
+        </div></div></a></div>
+        
+        <div class="row">
    <div class="col-lg-12-destination col-md-12-destination col-sm-12-destination col-xs-12-destination">
               <center>  <h2 class="page-header">Poland</h2></center>
             </div>
@@ -352,7 +343,7 @@ footer: false
         <div class="thumbnail text-center">
         	<img src="https://farm2.staticflickr.com/1654/23979414679_4036eec501_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Highlands</p>
-        </div></div></a></div></div>
+        </div></div></a></div>
 </div>   
 
 
@@ -366,41 +357,41 @@ footer: false
         <div class="thumbnail text-center">
         	<img src="https://farm2.staticflickr.com/1672/24264715711_8946189a6a_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Torneträsk</p>
-        </div></div></a></div></div>
+        </div></div></a></div>
 
             <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/packrafting-the-eman-river/" style="color: #FFF; border: 0px;">
         <div class="thumbnail text-center">
         	<img src="https://farm2.staticflickr.com/1645/24051634340_13a646e174_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Emån River</p>
-        </div></div></a></div></div>
+        </div></div></a></div>
 
               <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/sightseeing-in-kalmar/" style="color: #FFF; border: 0px;">
         <div class="thumbnail text-center">
         	<img src="https://farm2.staticflickr.com/1718/23719022844_f94777c062_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Kalmar</p>
-        </div></div></a></div></div>
+        </div></div></a></div>
 
               <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" style="color: #FFF; border: 0px;">
         <div class="thumbnail text-center">
         	<img src="https://farm2.staticflickr.com/1519/24347199985_44c7525d17_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Sarek</p>
-        </div></div></a></div></div>
+        </div></div></a></div>
 
              <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/Packrafting-cleanest-lake-Sweden-Trollsjon/" style="color: #FFF; border: 0px;">
         <div class="thumbnail text-center">
         	<img src="https://farm2.staticflickr.com/1489/24239565312_6c178026a9_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Trollsjön</p>
-        </div></div></a></div></div>
+        </div></div></a></div>
         
            <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/" style="color: #FFF; border: 0px;">
         <div class="thumbnail text-center">
         	<img src="https://farm8.staticflickr.com/7038/26713214620_879b297792_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Voxnan</p>
-        </div></div></a></div></div>
+        </div></div></a></div>
         
 </div> 
