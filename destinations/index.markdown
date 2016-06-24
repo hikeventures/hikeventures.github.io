@@ -6,7 +6,6 @@ comments: false
 navbar: Destinations
 footer: false
 ---
-<div class="my-fluid-container">
 <div class="row">
    <div class="col-lg-12">
                 <h2 class="page-header">Austria</h2>
@@ -473,4 +472,4 @@ footer: false
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:white;">Voxnan</p>
         </div></div></a></div></div>
         
-</div> </div>  
+</div> 
