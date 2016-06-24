@@ -6,7 +6,7 @@ comments: false
 navbar: Destinations
 footer: false
 ---
-<div class="row row-new">
+ <div class="row">
    <div class="col-lg-12-destination col-md-12-destination col-sm-12-destination col-xs-12-destination">
                <center> <h2 class="page-header">Austria</h2></center>
             </div>
@@ -30,7 +30,7 @@ footer: false
 </div>   
 
 
-<div class="row row-new">
+ <div class="row">
    <div class="col-lg-12-destination col-md-12-destination col-sm-12-destination col-xs-12-destination">
        <center> <h2 class="page-header">Belgium</h2></center>
         </div>
@@ -56,7 +56,7 @@ footer: false
 
 
 
-<div class="row row-new">            
+ <div class="row">            
     <div class="col-lg-12-destination col-md-12-destination col-sm-12-destination col-xs-12-destination">
      <center>   <h2 class="page-header">Finland</h2></center>
         </div>
@@ -206,7 +206,7 @@ footer: false
 
 
 
-<div class="row row-new">
+ <div class="row">
    <div class="col-lg-12-destination col-md-12-destination col-sm-12-destination col-xs-12-destination">
               <center>  <h2 class="page-header">Germany</h2></center>
             </div>
@@ -228,7 +228,7 @@ footer: false
 
 
 
-<div class="row row-new">
+ <div class="row">
    <div class="col-lg-12-destination col-md-12-destination col-sm-12-destination col-xs-12-destination">
              <center>   <h2 class="page-header">Ireland</h2></center>
             </div>
@@ -242,7 +242,7 @@ footer: false
 </div>
 
 
-<div class="row row-new">
+ <div class="row">
    <div class="col-lg-12-destination col-md-12-destination col-sm-12-destination col-xs-12-destination">
             <center>    <h2 class="page-header">Japan</h2></center>
             </div>
@@ -255,7 +255,7 @@ footer: false
         </div></div></a></div></div>
 </div>
 
-<div class="row row-new">
+ <div class="row">
   <div class="col-lg-12-destination col-md-12-destination col-sm-12-destination col-xs-12-destination">
              <center>   <h2 class="page-header">Netherlands</h2></center>
             </div>
@@ -283,7 +283,7 @@ footer: false
         </div></div></a></div></div>
 
 
-<div class="row row-new">
+ <div class="row">
   <div class="col-lg-12-destination col-md-12-destination col-sm-12-destination col-xs-12-destination">
               <center>  <h2 class="page-header">Lithuania</h2></center>
             </div>
@@ -297,7 +297,7 @@ footer: false
 
 </div>
 
-<div class="row row-new">
+ <div class="row">
  <div class="col-lg-12-destination">
              <center>   <h2 class="page-header">Norway</h2></center>
             </div>
@@ -310,7 +310,7 @@ footer: false
         </div></div></a></div></div>
 </div>
 
-<div class="row row-new">
+ <div class="row">
    <div class="col-lg-12-destination col-md-12-destination col-sm-12-destination col-xs-12-destination">
               <center>  <h2 class="page-header">Poland</h2></center>
             </div>
@@ -344,7 +344,7 @@ footer: false
 </div>
 
 
-<div class="row row-new">
+ <div class="row">
    <div class="col-lg-12-destination col-md-12-destination col-sm-12-destination col-xs-12-destination">
            <center>     <h2 class="page-header">Scotland</h2></center>
             </div>
@@ -358,7 +358,7 @@ footer: false
 </div>   
 
 
-<div class="row row-new">
+ <div class="row" style="margin-right:0px;margin-left:0px">
    <div class="col-lg-12-destination col-md-12-destination col-sm-12-destination col-xs-12-destination">
           <center>      <h2 class="page-header">Sweden</h2></center>
             </div>
