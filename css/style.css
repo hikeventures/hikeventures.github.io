@@ -277,24 +277,6 @@ input {
 }
 
 
-.logo {
-  position: absolute;
-  z-index: 1;
-  
-  top: 5px;
-  align: right;
-}
-/* Logo positioning */
-.headline {
-  position: relative;
-  z-index: 1;
-  top: 0px;
-  left: 0;
-
-  text-decoration: none;
-}
-
-
 
 // Tags
 
