@@ -20,21 +20,27 @@ height: 10px;
 
 .col-lg-12-destination, .col-md-12-destination, .col-sm-12-destination, .col-xs-12-destination
 {
-    padding-left: 10px !important;
-    padding-right: 10px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
 }
 
 .page-content
 {
-    padding-left: 10px !important;
-    padding-right: 10px !important;
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+}
+
+.page-content
+{
+    padding-left: 5px !important;
+    padding-right: 5px !important;
 }
 
 
 .wrapper
 {
-     padding-right: 0 !important; /*15px in bootstrap.css*/
-     padding-left: 0 !important;  /*idem*/
+     padding-right: 10 !important; /*15px in bootstrap.css*/
+     padding-left: 10 !important;  /*idem*/
      margin-right: auto;
      margin-left: auto;
 }
