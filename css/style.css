@@ -19,8 +19,7 @@
 /* white border around image */
 
 img {
-    margin: 4px 0 0 4px;
-    box-shadow: 0 0 0 4px #fff;
+ box-shadow: 8px 8px 10px #aaa;
 }
 
 
