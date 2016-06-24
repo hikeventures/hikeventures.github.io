@@ -21,7 +21,7 @@ footer: false
         
                      <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/" style="color: #FFF; border: 0px;">
-        <div class="thumbnail text-center">
+        <div class="thumbnail text-center" style="border:0px !important">
         	<img src="https://c8.staticflickr.com/8/7140/27787110055_38cd164c19_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:x-large;color:#FFF;">Montafon</p>
         </div></div></a></div></div>
