@@ -16,7 +16,12 @@
      margin-left: auto;
 }
 
+/* white border around image */
 
+img {
+    margin: 4px 0 0 4px;
+    box-shadow: 0 0 0 4px #fff;
+}
 
 
 /* submit and search button on blog */
