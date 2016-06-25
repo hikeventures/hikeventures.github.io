@@ -24,9 +24,7 @@ paginate: 2
 gems:
   - jekyll-archives
   - jekyll-paginate
-  - jekyll-lunr-js-search
   - jekyll-minifier
-  - jemoji
   - jekyll-seo-tag
 
 
@@ -50,9 +48,6 @@ jekyll-minifier:
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
 #production_url : http://www.hikeventures.com
-
-fb_admins:          https://www.facebook.com/HikeVentures
-fb_appid:           302249686541495
 
 description: Hiking and Packrafting Blog
 
