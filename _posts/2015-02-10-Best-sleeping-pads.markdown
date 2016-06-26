@@ -20,22 +20,6 @@ In this blog post you can find the best sleeping pads available in 2016. I have 
 
 ---
 
-# How to choose the best sleeping pad?
-
-* Weight (do you want an ultralight sleeping pad?)
-* Size (does it need to pack small?)
-* Pad for summer, winter, or 4-season?
-* Sleeping area (do I need a bigger size because I am a big guy?)
-* Ease of inflate / deflate
-* Is weight more important to me than comfort?
-* Durability (a thinner fabric may be less durable / may not be that puncture resistant)
-* Do I want to have a  inflatable mattress, a self-inflating pad or a camping foam?
-* Are the edges of the pad supportive?
-* Does the pad slip easily in the tent?
-* Does the pad make noise when I sleep on it (ear plugs might help)?
-
----
-
 # Overview of the best sleeping pads of 2016
 
 | Sleeping Pad | R-Value | Weight  | Type  | Fabric |
@@ -184,6 +168,22 @@ New sleeping pads usually come with a field repair kit. However, sometimes you m
 <img src="https://farm6.staticflickr.com/5590/14925237036_4743bca2f4_b.jpg" width="1024" height="683" alt="Exped Synmat UL 7 and Exped Air Pillow">
     
 [Exped Synmat UL 7](https://www.rei.com/product/811907/exped-synmat-ul-7-air-pad)
+
+---
+
+# How to choose the best sleeping pad?
+
+* Weight (do you want an ultralight sleeping pad?)
+* Size (does it need to pack small?)
+* Pad for summer, winter, or 4-season?
+* Sleeping area (do I need a bigger size because I am a big guy?)
+* Ease of inflate / deflate
+* Is weight more important to me than comfort?
+* Durability (a thinner fabric may be less durable / may not be that puncture resistant)
+* Do I want to have a  inflatable mattress, a self-inflating pad or a camping foam?
+* Are the edges of the pad supportive?
+* Does the pad slip easily in the tent?
+* Does the pad make noise when I sleep on it (ear plugs might help)?
 
 ---
 
