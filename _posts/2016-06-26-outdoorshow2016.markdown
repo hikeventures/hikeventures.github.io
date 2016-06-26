@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 4 reasons why we are not visiting the OutDoor Show 2016 in Friedrichshafen
-date: '2016-06-26 10:11'
+date: 2016-06-26 10:11
 comments: true
-published: true
 description: OutDoor Show 2016 in Friedrichshafen
 category: articles
 tags: [articles, OutDoorShow]
