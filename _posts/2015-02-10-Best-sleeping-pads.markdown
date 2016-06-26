@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Best Sleeping Pads for 2016
+title: The Best Sleeping Pads in 2016
 date: '2016-01-03 18:49:09 +0200'
 comments: true
 published: true
@@ -17,6 +17,10 @@ In this blog post you can find the best sleeping pads available in 2016. I have 
 
 <a href="https://www.flickr.com/photos/90204224@N07/9599003854" title="Best sleeping pads 2016"><img src="https://c1.staticflickr.com/3/2882/9599003854_415a4828f0_o.jpg" width="992" height="661" alt="Best sleeping pads in 2016 - cumulus panyam exped synmat UL7"></a>Sleeping bag in <a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/">Sarek National Park</a> in Sweden.
 <!--more-->
+
+---
+
+<center><script type="text/javascript" src="//www.avantlink.com/link.php?ml=1430&amp;p=125311&amp;pw=150351&amp;ctc=in post&amp;open=_blank"></script></center>
 
 ---
 
