@@ -283,16 +283,16 @@ Here is also an [article](http://www.hikeventures.com/packrafting-Njuoreatnu-Tor
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
+amzn_assoc_search_bar = "true";
 amzn_assoc_tracking_id = "hikeve-20";
 amzn_assoc_search_bar_position = "top";
 amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_title = "Best Solo Tent Recommendations";
-amzn_assoc_default_search_phrase = "hilleberg nallo 2";
+amzn_assoc_title = "Search Results from Amazon";
+amzn_assoc_default_search_phrase = "msr tent";
 amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "0fc96b12130070d577082516582bc019";
+amzn_assoc_linkid = "385f1677b41003bae75b5ead0f65ebc7";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
