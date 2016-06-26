@@ -29,8 +29,16 @@ published: true
 Comment on this post on our <a href="https://www.facebook.com/HikeVentures/">Facebook page</a> or on <a href="https://twitter.com/HikeVentures">Twitter</a> or watch one of our <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw">YouTube videos</a>. Subscribe to our <a href="http://www.feedio.co/@hikeventures/">RSS feed</a>.<br>
 
 <hr>
-<form action='http://www.feedio.co/@hikeventures/verify' id='subscribe_widget_hikeventures' method='post' style='border:0px solid #ccc;padding:0px;text-align:left;' target='popupwindow'>
+<form onsubmit="return submit_email();" action='http://www.feedio.co/@hikeventures/verify' id='subscribe_widget_hikeventures' method='post' style='border:0px solid #ccc;padding:0px;text-align:left;' target='popupwindow'>
 <font color="black">Subscribe to our newsletter with our latest posts. You can unsubscribe any time. Enter your email address: &nbsp;<input name='email' style='width:140px' type='text'><input type='submit' value='JOIN US'></font>
+
+<script>
+function submit_email() {
+document.getElementsByName("email").item(0).value
+    alert(document.getElementsByName("email").item(0).value);
+    return false;
+}
+</script>
 
 <hr>
 <div class="relatedPosts">
