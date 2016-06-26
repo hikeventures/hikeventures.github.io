@@ -20,7 +20,7 @@ In this blog post you can find the best sleeping pads available in 2016. I have 
 
 ---
 
-<center><script type="text/javascript" src="//www.avantlink.com/link.php?ml=1430&amp;p=125311&amp;pw=150351&amp;ctc=in post&amp;open=_blank"></script></center>
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=1430&amp;p=125311&amp;pw=150351&amp;ctc=in post&amp;open=_blank"></script>
 
 ---
 
