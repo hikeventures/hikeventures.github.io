@@ -1,8 +1,6 @@
 ---
 layout: post
-title: >-
-  The best winter gloves and mittens of 2016 for Skiing, Snowboarding and
-  Snowshoeing
+title: The best ski and snowboarding gloves for 2016
 date: '2016-01-03 19:10:07 +0300'
 comments: true
 description: 'The best winter gloves for skiing, snowboarding or snowshoeing'
@@ -13,7 +11,7 @@ tags:
   - best
 published: true
 ---
-For my next snowshoeing trip in Lapland I was looking for a new pair of gloves or mittens to replace my old gloves which were "nothing special" compared to the ones presented in this buying guide where I selected the best gloves for skiing, snowboarding or snowshoeing.
+For my next snowshoeing trip in Lapland I was looking for a new pair of gloves or mittens to replace my old gloves which were "nothing special" compared to the ones presented in this buying guide for 2016 where I selected the best gloves for skiing, snowboarding or snowshoeing.
 
 It always takes time to find the right product and everyone has a different taste on features or design so I decided to come up with a list of winter gloves / mittens from different brands which received good recommendations.
 
@@ -30,7 +28,7 @@ However, you can also just take your main gloves off and operate your camera by 
 
 ---
 
-# Overview of the best winter gloves 2016
+# Overview of the best ski and snowboarding gloves for 2016
 
 | Comany| Model | 
 | :------------- |:-------------:|
@@ -40,8 +38,6 @@ However, you can also just take your main gloves off and operate your camera by 
 | Canada Goose | [Down Mittens](http://www.backcountry.com/canada-goose-down-mitten-mens) | 
 | Canada Goose | [Down Glove](http://www.backcountry.com/canada-goose-down-glove-mens) |
 | Black Diamond | [Black Diamond Patrol Gloves](http://www.backcountry.com/black-diamond-patrol-glove-bld3346) | 
-| Arcteryx | [Gothic Glove](http://www.backcountry.com/arcteryx-gothic-glove) | 
-| Icebreaker | [Oasis 200 Glove Liner](http://www.backcountry.com/the-north-face-patrol-ski-glove) |
 
 ---
 
