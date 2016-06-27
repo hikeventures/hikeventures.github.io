@@ -258,7 +258,7 @@ select, input, button {
 
 
 input {
-    border: 2px solid white !important; 
+    border: 2px solid #FF8000 !important; 
     -webkit-box-shadow: 
       inset 0 0 4px  rgba(0,0,0,0.1),
             0 0 8px rgba(0,0,0,0.1) !important; 
