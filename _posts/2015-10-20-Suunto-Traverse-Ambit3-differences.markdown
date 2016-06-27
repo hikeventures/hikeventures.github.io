@@ -26,18 +26,6 @@ Personally, I like the new look of the Suunto Traverse more than the look of the
 
 ---
 
-# Discounts
-
-<div class="row">
-  <div class="col-sm-12">
-<center>
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=Suunto AND Ambit3 OR Suunto AND Traverse &search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=100&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
-</center>
-  </div>
-</div>
-
----
-
 # Accessories
 Some suggestions about useful accessories for your Suunto watch:
 
@@ -66,6 +54,18 @@ On longer trips it's quite convenient to have a power bank with you. Usually, I 
 On longer bicycle trips it might be quite convenient to have the Suunto watch attached on the Suunto Wristop Computer Bike Adaptor to keep track of your performance.
 
 <a href="https://www.amazon.com/gp/product/B00005N9DU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00005N9DU&linkCode=as2&tag=hikeve-20&linkId=ed3bdcc64953b6e74d3c0a8c77395f0f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00005N9DU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00005N9DU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+---
+
+# Discounts
+
+<div class="row">
+  <div class="col-sm-12">
+<center>
+ <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=Suunto AND Ambit3 OR Suunto AND Traverse &search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=100&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
+</center>
+  </div>
+</div>
 
 ---
 
