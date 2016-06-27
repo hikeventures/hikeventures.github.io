@@ -48,7 +48,7 @@ Inside the backpack you can find a small pocket where you can store money etc.
 
 HMG Porter 4400 on our trip in <a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">Sarek National Park</a> in Sweden.
 
-<img src="https://farm4.staticflickr.com/3715/9606341414_ea6945a4fb_b.jpg" width="992" height="661" alt="Hyperlite Mountain Gear HMG Porter 4400 black"></a>
+<img src="https://farm4.staticflickr.com/3715/9606341414_ea6945a4fb_b.jpg" width="992" height="661" alt="Hyperlite Mountain Gear HMG Porter 4400 black">
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9599011328/in/photolist-fCerDj-fCepBj-fCenzd-fBZ4QB-fBZaBp-fBZapV-fCemih-fCeped-fCeqR1-fBZ4gV-fBSiR1-eZHHyS-eZwmzH-eZwnjz-f9kibF-qGiGy4-nKY2Vf-qpTkCn-o3abCZ-nKXNaZ-o3mqEN-nZzaEg-nB97hW-nTASyZ-ngeWSY-nhY6vf-nigBVG-ni2363-nk4iyH-nk15SB-njZKir-nigVpE-nihVsz-nqwZew-judzQ3-juf1Lf-jk3X3E-fBYSht-eViiG5-eV6V7H-eViiks-eZwkQe-eZwn1x-eZHKmd-eZwrT6-eZwrx8-eZwq6g-eZHNqh-eZHPwU-eZwqNX" title="Hiking and Packrafting in Sarek"><img src="https://c1.staticflickr.com/8/7402/9599011328_a1849b4dea_b.jpg" width="1024" height="624" alt="Hiking and Packrafting in Sarek"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
