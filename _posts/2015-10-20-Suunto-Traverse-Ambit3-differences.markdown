@@ -26,14 +26,14 @@ Personally, I like the new look of the Suunto Traverse more than the look of the
 
 ---
 
-# Suunto Ambit3 Vertical
+# <a href="http://amzn.to/290sqqE" rel="nofollow">Suunto Ambit3 Vertical</a>
 If you are more into trail running (on hills or mountains), mountainbiking, climbing or into multisport then you should probably go for the <a href="http://amzn.to/290sqqE" rel="nofollow">Suunto Ambit3 Vertical</a>. The Suunto Ambit3 gives you a summary of your vertical gains and also displays the altitude during your ascent.
 
 <a href="https://www.amazon.com/gp/product/B01AGK1CUK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AGK1CUK&linkCode=as2&tag=hikeve-20&linkId=e88ee85cc37dd473812d405d9bbd5f8d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01AGK1CUK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01AGK1CUK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ---
 
-# Suunto Traverse Alpha
+# <a href="http://amzn.to/28Xm2B3" rel="nofollow">Suunto Traverse Alpha</a>
 If you are more into fishing or hunting then you should consider getting the <a href="http://amzn.to/28Xm2B3" rel="nofollow">Suunto Traverse Alpha</a>. The Suunto Traverse Alpha gives you the following additional features to the regular Suunto Traverse:
 
 * Automatic Shot detection
