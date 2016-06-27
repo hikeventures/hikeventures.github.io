@@ -41,7 +41,6 @@ However, you can also just take your main gloves off and operate your camera by 
 | Canada Goose | [Down Glove](http://www.backcountry.com/canada-goose-down-glove-mens) |
 | Black Diamond | [Black Diamond Patrol Gloves](http://www.backcountry.com/black-diamond-patrol-glove-bld3346) | 
 | Arcteryx | [Gothic Glove](http://www.backcountry.com/arcteryx-gothic-glove) | 
-| Arcteryx | [Gothic Glove](http://www.backcountry.com/arcteryx-gothic-glove) | 
 | Icebreaker | [Oasis 200 Glove Liner](http://www.backcountry.com/the-north-face-patrol-ski-glove) |
 
 ---
