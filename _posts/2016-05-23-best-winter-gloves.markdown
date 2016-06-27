@@ -1,7 +1,7 @@
 ---
 layout: post
 title: >-
-  The best winter gloves and mittens of 2016 / 2017 for Skiing, Snowboarding and
+  The best winter gloves and mittens of 2016 for Skiing, Snowboarding and
   Snowshoeing
 date: '2016-01-03 19:10:07 +0300'
 comments: true
@@ -29,6 +29,25 @@ There is also an option from Hestra available - the [Hestra Army Leather Heli 3-
 However, you can also just take your main gloves off and operate your camera by just wearing the liner gloves. Once you have taken your picture you just put your main gloves back over the merino liner gloves.  
 
 ---
+
+# Overview of the best winter gloves 2016
+
+| Comany| Model | 
+| :------------- |:-------------:|
+| Outdoor Research | [Alti Mittens](http://www.backcountry.com/outdoor-research-alti-mitt-mens-odr0813) |
+| Hestra | [Army Leather Heli 3-Finger Glove](http://www.backcountry.com/hestra-heli-3-finger-glove) |
+| Mountain Hardwear | [Absolute Zero Mitten](http://www.backcountry.com/mountain-hardwear-absolute-zero-mitt) | 
+| Canada Goose | [Down Mittens](http://www.backcountry.com/canada-goose-down-mitten-mens) | 
+| Canada Goose | [Down Glove](http://www.backcountry.com/canada-goose-down-glove-mens) |
+| Black Diamond | [Black Diamond Patrol Gloves](http://www.backcountry.com/black-diamond-patrol-glove-bld3346) | 
+| Arcteryx | [Gothic Glove](http://www.backcountry.com/arcteryx-gothic-glove) | 
+| Arcteryx | [Gothic Glove](http://www.backcountry.com/arcteryx-gothic-glove) | 
+| Icebreaker | [Oasis 200 Glove Liner](http://www.backcountry.com/the-north-face-patrol-ski-glove) |
+
+> Table is sorted by weight
+
+---
+
 
 # Best Mittens
 
