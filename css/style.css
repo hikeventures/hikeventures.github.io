@@ -1,3 +1,8 @@
+ul,li {
+margin:0;
+padding-left:10px !important;
+}
+
 
 /* hr style */
 hr.hr_bottom
