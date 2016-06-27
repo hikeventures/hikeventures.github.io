@@ -98,7 +98,7 @@ On longer bicycle trips it might be quite convenient to have the Suunto watch at
 
 **Update (19.4.2016):** Suunto has released the Suunto Traverse Alpha which is targeted towards hunters and fishers.
 
-**Update (7.6.2016):** Suunto has released the Suunto Spartan - A premium multisport watch with color display
+**Update (7.6.2016):** Suunto announced the Suunto Spartan - A premium multisport watch with color display
 
 ---
 
