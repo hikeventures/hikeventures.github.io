@@ -44,8 +44,6 @@ However, you can also just take your main gloves off and operate your camera by 
 | Arcteryx | [Gothic Glove](http://www.backcountry.com/arcteryx-gothic-glove) | 
 | Icebreaker | [Oasis 200 Glove Liner](http://www.backcountry.com/the-north-face-patrol-ski-glove) |
 
-> Table is sorted by weight
-
 ---
 
 
