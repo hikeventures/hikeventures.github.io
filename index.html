@@ -19,9 +19,9 @@ published: true
                                           {% for post in site.posts limit:2 %} 
                                             <li> 
                                               <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> 
-                                              <h1> 
-                                               <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><h1 style="font-size:200%;"> {{ post.title }}</a> 
-                                              </h1> 
+                                              <h1 style="font-size:200%;">
+                                               <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a> </h1>
+                                              
                                               {{ post.excerpt }}<a href="{{ post.url }}"><font style="background-color: #FF8000; color:white; padding:5px;">Read more...</font></a>
                                             </li><hr>
                                           {% endfor %} 
