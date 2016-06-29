@@ -16,11 +16,12 @@ As we are frequently on packrafting trips we are of course always looking for ne
 ---
 
 # How to choose the best PFD?
-The best PFD for your next packrafting adventure depends on where you are planning to packraft. Are you planning to packraft in a strong rapid then you probably need more capable PFD  than packrafting on a calm lake. Also when you plan to packraft in the open sea you should look for a PFD which can also handle stormy sea conditions as the weather can also change quickly on the sea. Of course, you should always check the weather conditions before you go packrafting on the sea. Packrafts are actually not meant to be used on the sea but we have also paddled on the baltic sea in Finland and it worked quite well with our windpaddle sail. However, we made sure that there was a ferry connection on the way back as it would have been quite hard to paddle the whole way back.
+The best PFD for your next packrafting adventure depends on where you are planning to packraft. Are you planning to packraft in a strong rapid then you probably need more capable PFD  than packrafting on a calm lake. Also when you plan to packraft in the open sea you should look for a PFD which can also handle stormy sea conditions as the weather can also change quickly on the sea. Of course, you should always check the weather conditions before you go packrafting on the sea. Packrafts are actually not meant to be used on the sea but we have also paddled on the Baltic Sea in Finland and it worked quite well with our windpaddle sail. 
 
-PFD's are categorized by pfdma.org ([http://www.pfdma.org/choosing/types.aspx)](http://www.pfdma.org/choosing/types.aspx)into different classes (USCG and State Law Enforcement agencies require and/or recommend different Types of lifejackets for different applications) and I would recommend to read through the pfdma.org pages to make sure that you select the right one if you live in the U.S.
+PFD's are categorized by [pfdma.org](http://www.pfdma.org/choosing/types.aspx) into different classes (USCG and State Law Enforcement agencies require and/or recommend different Types of lifejackets for different applications) and I would recommend to read through the [pfdma.org](http://www.pfdma.org/choosing/types.aspx) pages to make sure that you select the right one if you live in the U.S.
 
-For our paddling (we are paddling with a dry suite and usually class 2 and sometimes class 3 rapids, we would choose the following life jackets:
+When we go paddling the we are usually wearing a dry suite and we would rate the difficulty of the river which we are usually paddling between class 2 and class 3. The following PFD's are quite light and can also be carried with your backpack.
+
 
 ## [Astral Design YTV](http://www.backcountry.com/astral-ytv-personal-flotation-device)
 
