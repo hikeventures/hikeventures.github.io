@@ -62,7 +62,7 @@ The Astral Designs V-Eight has 2 zippered front pockets and made for the summer.
 
 **Weight:** 1.4 lbs / 607 grams
 
-The Palm Alpha is one of the lightest white water life jackets on the market. It does not has any special features or pockets. The Palm Alpha also passed the ISO 12402-5 (water sports) and ISO 12402-6 (paddlesport) standards. 
+The Palm Alpha is one of the lightest white water life jackets on the market. It does not has any special features but a small pocket on the inside part. The Palm Alpha also passed the ISO 12402-5 (water sports) and ISO 12402-6 (paddlesport) standards. 
 
 <a href="https://www.amazon.com/gp/product/B00SL7IY84/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SL7IY84&linkCode=as2&tag=hikeve-20&linkId=d7b6b512d5f3a3e5428922541d672fbd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00SL7IY84&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00SL7IY84" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
