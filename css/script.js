@@ -123,7 +123,7 @@ function avMakeHttpRequest(strUrl)
 
 /* GoSquared */
 
-<script>
+
 $( document ).ready(function() {
   $('#subscribe_widget_hikeventures').submit(function(event){
     var user_email = $('#email_input').val()
@@ -132,4 +132,4 @@ $( document ).ready(function() {
     });
   });
 });
-</script>
+
