@@ -25,21 +25,34 @@ We are usually wearing a dry suite when we go packrafting and we would rate the 
 
 ---
 
-## [Astral Design YTV](http://www.backcountry.com/astral-ytv-personal-flotation-device)
+# Overview of the best PFDs and life jackets for packrafting
+
+| Product | Weight |
+|-----|:----:|
+|[Astral Designs V-Eight](https://www.rei.com/product/881421/astral-v-eight-pfd) | 1 lb 24 oz / 563 grams |
+|[Palm Alpha](http://amzn.to/29kvV8M)   |  1.4 lbs / 607 grams  |
+|[Astral Designs Sea Wolf](https://www.rei.com/product/867519/astral-sea-wolf-pfd-mens)| 1.7 lbs / 766 grams |
+|[Astral Designs YTV](http://www.backcountry.com/astral-ytv-personal-flotation-device) | 1 lb 12 oz / 794 grams |
+
+> Table is sorted by weight
+
+---
+
+## [Astral Designs YTV](http://www.backcountry.com/astral-ytv-personal-flotation-device)
 
 **Weight:** 1 lb 12 oz / 794 grams
 
-The Astral Design YTV is a great choice if you want to have a minimalistic life jacket. The Astral Design YTV is classified as a Type V jacket by the US Coast Guard. It also has 2 zippered front pockets. 
+The Astral Designs YTV is a great choice if you want to have a minimalistic life jacket. The Astral Designs YTV is classified as a Type V jacket by the US Coast Guard. It also has 2 zippered front pockets. 
 
 <a href="https://www.amazon.com/gp/product/B01BMZWV6C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01BMZWV6C&linkCode=as2&tag=hikeve-20&linkId=0fb99e04474c270ca1f5d07c107a0dd9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01BMZWV6C&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01BMZWV6C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ---
 
-## [Astral Design V-Eight](https://www.rei.com/product/881421/astral-v-eight-pfd)
+## [Astral Designs V-Eight](https://www.rei.com/product/881421/astral-v-eight-pfd)
 
 **Weight:** 1 lb 24 oz / 563 grams
 
-The Astral Design V-Eight has 2 zippered front pockets and made for the summer. The air can flow straight through the mesh to your skin which makes paddling with this jacket a more pleasent activity during the warmer months. The back side of the V-Eight does also not interfere with your packraft seat. The V-Eight also has a quick access knife tab.
+The Astral Designs V-Eight has 2 zippered front pockets and made for the summer. The air can flow straight through the mesh to your skin which makes paddling with this jacket a more pleasent activity during the warmer months. The back side of the V-Eight does also not interfere with your packraft seat. The V-Eight also has a quick access knife tab.
 
 <a href="https://www.amazon.com/gp/product/B00TMANL50/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TMANL50&linkCode=as2&tag=hikeve-20&linkId=254bf432198b3c65cdd8cabe819e726a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00TMANL50&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00TMANL50" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -55,7 +68,7 @@ The Palm Alpha is one of the lightest white water life jackets on the market. It
 
 ---
 
-## <a href="https://www.rei.com/product/867519/astral-sea-wolf-pfd-mens" rel="nofollow">Astral Sea Wolf</a>
+## [Astral Designs Sea Wolf](https://www.rei.com/product/867519/astral-sea-wolf-pfd-mens)
 
 **Weight:** 1.7 lbs / 766 grams
 
@@ -72,9 +85,10 @@ We would not recommend inflatable PFD's. Of course they are not that bulky than 
 ---
 
 # Accesories
+Beside a PFD we also found the following packrafting accessories quite useful.
 
 ## [NRS Pilot River Knife](https://www.rei.com/product/101755/nrs-pilot-river-knife)
-The NRS Pilot River Knife can be attached to the front of the Astral Design YTV and V-Eight. The knife might be quite handy if you get stuff somewhere or if you need to help someone.
+The NRS Pilot River Knife can be attached to the front of the Astral Designs YTV and V-Eight. The knife might be quite handy if you get stuff somewhere or if you need to help someone.
 
 <a href="https://www.amazon.com/gp/product/B001UICFRC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001UICFRC&linkCode=as2&tag=hikeve-20&linkId=593b72bccf776c9eac85ed2681826cae"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001UICFRC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001UICFRC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -87,16 +101,27 @@ The NRS Co-Pilot River Knife is the shorter version of the NRS Pilot Knife.
 
 ---
 
-##[NRS Wedge Rescue Throw Bag](https://www.rei.com/product/881345/nrs-wedge-rescue-throw-bag)
+## [NRS Wedge Rescue Throw Bag](https://www.rei.com/product/881345/nrs-wedge-rescue-throw-bag)
 You can attache the NRS Wedge Rescue Throw Bag on your packraft and quick access it if you need it.
 
 <a href="https://www.amazon.com/gp/product/B0028EHPTA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0028EHPTA&linkCode=as2&tag=hikeve-20&linkId=0c7f1d02ef740d6a818a23c7d4b3eaa0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0028EHPTA&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0028EHPTA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## [Sea to Summit Ultra Flex Booties](https://www.rei.com/product/883302/sea-to-summit-ultra-flex-water-booties)
+The Sea to Summit Ultra Flex Booties protect your feet when you walk in the river and also helps somewhat to keep your feet warm.
+
+<a href="https://www.amazon.com/gp/product/B00W5P5BU2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00W5P5BU2&linkCode=as2&tag=hikeve-20&linkId=ff2d0de60ceb7abc7e35c33e0dcd1648"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00W5P5BU2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00W5P5BU2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## [Sea to Summit Paddle Leash](https://www.rei.com/product/819342/sea-to-summit-paddle-leash)
+The Sea to Summit Paddle Leash is light and assures that you don't loose your paddle on the river. Just attach it to your paddle and to your packraft.
+
+<a href="https://www.amazon.com/gp/product/B0057NYFGK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0057NYFGK&linkCode=as2&tag=hikeve-20&linkId=647e0271b44aa8591e6b9fc3c9f5183d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0057NYFGK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0057NYFGK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 
 ---
 
 # Conclusion
 
-Wearing a PFD does not need to be a burdern The latest PFD's are quite stylish and we hope that we were able to give you some good ideas on which PFD you could get for yourself. We are currently using the Palm Alpha and the YTV Astral Design but the Astral Design V-Eight life jacket was also quite popular for many who participated in the [Swedish Packrafting Round-Up 2016](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/).
+Wearing a PFD does not need to be a burdern The latest PFD's are quite stylish and we hope that we were able to give you some good ideas on which PFD you could get for yourself. We are currently using the Palm Alpha and the YTV Astral Designs but the Astral Designs V-Eight life jacket was also quite popular for many who participated in the [Swedish Packrafting Round-Up 2016](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/).
 
 ---
 
