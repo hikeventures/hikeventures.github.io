@@ -4,9 +4,7 @@ title: The Best Lightweight Sleeping Pads in 2016
 date: '2016-01-03 18:49:09 +0200'
 comments: true
 published: true
-description: >-
-  Need a new Sleeping Pad? Here is our selection of the best sleeping pads on
-  the market!
+description: Need a new Sleeping Pad? Here is our selection of the best sleeping pads on the market!
 category: reviews
 tags:
   - reviews
@@ -20,7 +18,7 @@ In this blog post you can find the best lightweight sleeping pads available in 2
 
 ---
 
-# Overview of the best sleeping pads of 2016
+# Overview of the best lightweight sleeping pads of 2016
 
 | Sleeping Pad | R-Value | Weight  | Type  | Fabric |
 | ------------- |:-------------:|:----:| :-----:|
