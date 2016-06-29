@@ -125,8 +125,8 @@ function avMakeHttpRequest(strUrl)
 
 <script>
 $( document ).ready(function() {
-  $('#form_id').submit(function(event){
-    var user_email = $('#input_id').val()
+  $('#subscribe_widget_hikeventures').submit(function(event){
+    var user_email = $('#email_input').val()
     _gs('identify', {
       email: user_email
     });
