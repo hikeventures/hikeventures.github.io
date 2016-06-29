@@ -3,7 +3,7 @@ layout: post
 title: Örö Island - A Mediterranean gem in Finland
 date: 2016-06-14 17:41
 comments: true
-published: false
+published: true
 description: A packrafting adventures in the Finnish Archipelago.
 category: destinations
 tags: [destinations, Finland, Finnish Archipelago, Örö]
