@@ -10,9 +10,9 @@ tags:
   - best
   - pfd
 ---
-As we are frequently on packrafting trips we are of course always looking for new packrafting gear like a PFD (personal floating device). Here comes our selection of the best life jackets (also called PFD - Personal Floating Device) for 2016.
+As we are frequently on packrafting trips we are of course always looking for new packrafting gear like a PFD (personal floating device) or life jacket. Here comes our selection of the best PFDs for 2016.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26814282560/in/photolist-GRud1y-GRud2f-HdLXe5-GXhAVa-H1kVQW-H1kVFN-H1kVZo-H1zXZH-GcfJST-GcfLdt-H1zXXZ-H4Gfns-Gc8XtE-Gc8Xp1-Gc8Xjm-HaFrzP-GRud7L-HaFrBx-Gc8WNG-HnoFdC-HjfVzn-GRud4u-H7Dj8R-GRudb3-Gc8XbL-H7Dj4x-Gc8X5y-H7DiZK-H7DiVM-Gc8WYw-H4GeQA-H7DiSk-H7DiNc-GcfKKp-Gc8WBj-H7DiKr-GGsxE1-GcfKhk-H1zXxF-GcfKsk-GcfKj4-Gc8Weq-H4Gdkb-HnoEX7-GaxJKr-H5RYDr-GajbUD-GXb3Qv-H2KqTT-GBfK6G" title="Swedish Packrafting Round-Up"><img src="https://c1.staticflickr.com/8/7682/26814282560_a47eb37791_o.jpg" width="100%" alt="The best PFD Life Jacket for packrafting"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26814282560/in/photolist-GRud1y-GRud2f-HdLXe5-GXhAVa-H1kVQW-H1kVFN-H1kVZo-H1zXZH-GcfJST-GcfLdt-H1zXXZ-H4Gfns-Gc8XtE-Gc8Xp1-Gc8Xjm-HaFrzP-GRud7L-HaFrBx-Gc8WNG-HnoFdC-HjfVzn-GRud4u-H7Dj8R-GRudb3-Gc8XbL-H7Dj4x-Gc8X5y-H7DiZK-H7DiVM-Gc8WYw-H4GeQA-H7DiSk-H7DiNc-GcfKKp-Gc8WBj-H7DiKr-GGsxE1-GcfKhk-H1zXxF-GcfKsk-GcfKj4-Gc8Weq-H4Gdkb-HnoEX7-GaxJKr-H5RYDr-GajbUD-GXb3Qv-H2KqTT-GBfK6G" title="Swedish Packrafting Round-Up"><img src="https://c1.staticflickr.com/8/7682/26814282560_a47eb37791_o.jpg" width="100%" alt="The best PFD Life Jackets for packrafting"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <!--more-->
 
