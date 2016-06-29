@@ -42,7 +42,7 @@ published: true
                                </div>
 
                                             {% for post in site.posts limit:5 %}
-                                            <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a><hr>{% endfor %}
+                                            <span>{{ post.date | date_to_string }}</span> &raquo; <a style="color:black; hover:#1a0000;" href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a><hr>{% endfor %}
 
 
                         </div>
