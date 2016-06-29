@@ -21,7 +21,7 @@ The best PFD for your next packrafting adventure depends on where you are planni
 
 PFD's are categorized by [pfdma.org](http://www.pfdma.org/choosing/types.aspx) into different classes (USCG and State Law Enforcement agencies require and/or recommend different Types of lifejackets for different applications) and I would recommend to read through the [pfdma.org](http://www.pfdma.org/choosing/types.aspx) pages to make sure that you select the right one if you live in the U.S.
 
-When we go paddling the we are usually wearing a dry suite and we would rate the difficulty of the river which we are usually paddling between class 2 and class 3. The following PFD's are quite light and can also be carried with your backpack.
+We are usually wearing a dry suite when we go packrafting and we would rate the difficulty of the river which we are usually paddling between class 2 and class 3. The following PFD's are quite light and can also be carried with your backpack like the [HMG Porter 4400](http://www.hikeventures.com/gear-review-hmg-porter-4400-black/) which is our go-to packrafting backpack.
 
 
 ## [Astral Design YTV](http://www.backcountry.com/astral-ytv-personal-flotation-device)
@@ -69,9 +69,24 @@ If you need a PFD where you can store a lot's of stuff in it then you should hav
 
 We would not recommend inflatable PFD's. Of course they are not that bulky than regular PFD's but we don't feel that they are that safe like regular PFD's. However, if you are still interested in an inflatable PFD then you could probably have a look into the [MTI Fuid 2.0](https://www.rei.com/product/869119/mti-fluid-20-belt-pack-inflatable-pfd).
 
----
+# Accesories
 
-Wearing a PFD does not need to be a burder. The latest PFD's are quite stylish and we hope that we were able to give you some good ideas on which PFD you could get for yourself. We are currently using the Palm Alpha and the YTV Astral Design but the Astral Design V-Eight life jacket was also quite popular for many who participated in the [Swedish Packrafting Round-Up 2016](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/).
+## [NRS Pilot River Knife](https://www.rei.com/product/101755/nrs-pilot-river-knife)
+The NRS Pilot River Knife can be attached to the front of the Astral Design YTV and V-Eight. The knife might be quite handy if you get stuff somewhere or if you need to help someone.
+
+<a href="https://www.amazon.com/gp/product/B001UICFRC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001UICFRC&linkCode=as2&tag=hikeve-20&linkId=593b72bccf776c9eac85ed2681826cae"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001UICFRC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001UICFRC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## [NRS Co-Pilot River Knife](https://www.rei.com/product/101754/nrs-co-pilot-river-knife-yellow)
+The NRS Co-Pilot River Knife is the shorter version of the NRS Pilot Knife.
+
+<a href="https://www.amazon.com/gp/product/B014OTTE4U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014OTTE4U&linkCode=as2&tag=hikeve-20&linkId=31c1e32939b4c5d0a67323b2c3d5975e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B014OTTE4U&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B014OTTE4U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+
+
+# Conclusion
+
+Wearing a PFD does not need to be a burdern The latest PFD's are quite stylish and we hope that we were able to give you some good ideas on which PFD you could get for yourself. We are currently using the Palm Alpha and the YTV Astral Design but the Astral Design V-Eight life jacket was also quite popular for many who participated in the [Swedish Packrafting Round-Up 2016](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/).
 
 ---
 
