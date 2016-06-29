@@ -42,7 +42,8 @@ published: true
                                </div>
 
                                             {% for post in site.posts limit:5 %}
-                                            <span>{{ post.date | date_to_string }}</span> &raquo; <a style="color:black; hover:#708090;" href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a><hr>{% endfor %}
+                                            <span>{{ post.date | date_to_string }}</span> &raquo; <a  onMouseOver="this.style.color='#708090'"
+   onMouseOut="this.style.color='black'"; style="text-decoration: none;" href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a><hr>{% endfor %}
 
 
                         </div>
