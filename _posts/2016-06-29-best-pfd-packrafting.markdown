@@ -1,9 +1,8 @@
 ---
 layout: post
 title: The best pfd or life jacket for packrafting
-date: '2016-06-29 09:46:20 +0200'
+date: '2016-05-29 09:46:20 +0200'
 comments: true
-published: false
 description: PFD's we would take on our packrafting trip
 category: best
 tags:
@@ -15,7 +14,7 @@ As we are frequently on packrafting trips we are of course always looking for ne
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26814282560/in/photolist-GRud1y-GRud2f-HdLXe5-GXhAVa-H1kVQW-H1kVFN-H1kVZo-H1zXZH-GcfJST-GcfLdt-H1zXXZ-H4Gfns-Gc8XtE-Gc8Xp1-Gc8Xjm-HaFrzP-GRud7L-HaFrBx-Gc8WNG-HnoFdC-HjfVzn-GRud4u-H7Dj8R-GRudb3-Gc8XbL-H7Dj4x-Gc8X5y-H7DiZK-H7DiVM-Gc8WYw-H4GeQA-H7DiSk-H7DiNc-GcfKKp-Gc8WBj-H7DiKr-GGsxE1-GcfKhk-H1zXxF-GcfKsk-GcfKj4-Gc8Weq-H4Gdkb-HnoEX7-GaxJKr-H5RYDr-GajbUD-GXb3Qv-H2KqTT-GBfK6G" title="Swedish Packrafting Round-Up"><img src="https://c1.staticflickr.com/8/7682/26814282560_a47eb37791_o.jpg" width="100%" alt="The best PFD Life Jacket for packrafting"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
----
+<!--more-->
 
 # How to choose the best PFD?
 The best PFD for your next packrafting adventure depends on where you are planning to packraft. Are you planning to packraft in a strong rapid then you probably need more capable PFD  than packrafting on a calm lake. Also when you plan to packraft in the open sea you should look for a PFD which can also handle stormy sea conditions as the weather can also change quickly on the sea. Of course, you should always check the weather conditions before you go packrafting on the sea. Packrafts are actually not meant to be used on the sea but we have also paddled on the Baltic Sea in Finland and it worked quite well with our windpaddle sail. 
