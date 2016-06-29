@@ -135,8 +135,8 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "PFD suggestions";
-amzn_assoc_default_search_phrase = "pfd";
+amzn_assoc_default_search_phrase = "Astral designs";
 amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "78413c95e14d2f123feb6172290c7761";
+amzn_assoc_linkid = "8b6cf7f3e8c5fbd4e1712dfe9e9156c9";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
