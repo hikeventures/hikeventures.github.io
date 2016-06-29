@@ -221,8 +221,10 @@ font: line-height: 200%;
 
 }
 
-
-
+.thumbnail {
+    
+    border: 1px dotted !important;
+}
 
 // Post Next or Prev
 .page_nav {
