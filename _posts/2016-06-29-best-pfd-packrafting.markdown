@@ -122,16 +122,15 @@ The Sea to Summit Ultra Flex Booties protect your feet when you walk in the rive
 
 <a href="https://www.amazon.com/gp/product/B00W5P5BU2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00W5P5BU2&linkCode=as2&tag=hikeve-20&linkId=ff2d0de60ceb7abc7e35c33e0dcd1648"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00W5P5BU2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00W5P5BU2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-## [Sea to Summit Paddle Leash](https://www.rei.com/product/819342/sea-to-summit-paddle-leash)
+## [Sea to Summit Paddle Leash](http://amzn.to/295kdRT)
 The Sea to Summit Paddle Leash is light and assures that you don't loose your paddle on the river. Just attach it to your paddle and to your packraft.
 
-<a href="https://www.amazon.com/gp/product/B0057NYFGK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0057NYFGK&linkCode=as2&tag=hikeve-20&linkId=647e0271b44aa8591e6b9fc3c9f5183d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0057NYFGK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0057NYFGK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B012NRXPPO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B012NRXPPO&linkCode=as2&tag=hikeve-20&linkId=8726042078b3f76f62040852ba7e887f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B012NRXPPO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B012NRXPPO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
 ---
 
 # Conclusion
-
 Wearing a PFD does not need to be a burdern The latest PFD's are quite stylish and we hope that we were able to give you some good ideas on which PFD you could get for yourself. We are currently using the Palm Alpha and the YTV Astral Designs but the Astral Designs V-Eight life jacket was also quite popular for many who participated in the [Swedish Packrafting Round-Up 2016](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/).
 
 ---
