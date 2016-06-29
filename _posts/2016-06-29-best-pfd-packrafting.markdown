@@ -23,20 +23,32 @@ PFD's are categorized by pfdma.org ([http://www.pfdma.org/choosing/types.aspx)](
 For our paddling (we are paddling with a dry suite and usually class 2 and sometimes class 3 rapids, we would choose the following life jackets:
 
 ## [Astral Design YTV](http://www.backcountry.com/astral-ytv-personal-flotation-device)
-<a href="https://www.amazon.com/gp/product/B01BMZWV6C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01BMZWV6C&linkCode=as2&tag=hikeve-20&linkId=0fb99e04474c270ca1f5d07c107a0dd9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01BMZWV6C&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01BMZWV6C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+**Weight:** 1 lb 12 oz / 794 grams
+
+The Astral Design YTV is a great choice if you want to have a minimalistic life jacket. The Astral Design YTV is classified as a Type V jacket by the US Coast Guard. It also has 2 zippered front pockets. 
+
+<a href="https://www.amazon.com/gp/product/B01BMZWV6C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01BMZWV6C&linkCode=as2&tag=hikeve-20&linkId=0fb99e04474c270ca1f5d07c107a0dd9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01BMZWV6C&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01BMZWV6C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ---
 
 ## [Astral Design V-Eight](https://www.rei.com/product/881421/astral-v-eight-pfd)
-<a href="https://www.amazon.com/gp/product/B00TMANL50/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TMANL50&linkCode=as2&tag=hikeve-20&linkId=254bf432198b3c65cdd8cabe819e726a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00TMANL50&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00TMANL50" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-The Astral Design V-Eight is a PFD for the summer. It's mesh lets the air flow straight to your body. It's slso s great life jacket since the back part of the PFD is positioned higher than on a regular PFD.
 
+**Weight:** 1 lb 24 oz / 563 grams
+
+The Astral Design V-Eight has 2 zippered front pockets and made for the summer. The air can flow straight through the mesh to your skin which makes paddling with this jacket a more pleasent activity during the warmer months. The back side of the V-Eight does also not interfere with your packraft seat. The V-Eight also has a quick access knife tab.
+
+<a href="https://www.amazon.com/gp/product/B00TMANL50/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TMANL50&linkCode=as2&tag=hikeve-20&linkId=254bf432198b3c65cdd8cabe819e726a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00TMANL50&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00TMANL50" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
 ---
 
 ## <a href="http://amzn.to/29kvV8M" rel="nofollow">Palm Alpha</a>
+
+**Weight:** 1.4 lbs / 607 grams
+
+The Palm Alpha is one of the lightest white water life jackets on the market. It does not has any special features or pockets. The Palm Alpha also passed the ISO 12402-5 (water sports) and ISO 12402-6 (paddlesport) standards. 
+
 <a href="https://www.amazon.com/gp/product/B00SL7IY84/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SL7IY84&linkCode=as2&tag=hikeve-20&linkId=d7b6b512d5f3a3e5428922541d672fbd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00SL7IY84&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00SL7IY84" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
