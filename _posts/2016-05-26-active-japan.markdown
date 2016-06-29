@@ -20,5 +20,6 @@ This video is a glimpse of what we did last year. We hiked in the Northern Alps 
 Last year we enjoyed every step of this adventure, regardless how wet, hot or sweaty it was at times. And now we are ready and looking for more. Japan, here we come…
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="//www.youtube.com/embed/k6IzwpS9YwI"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/k6IzwpS9YwI"></iframe>
 </div>
+
