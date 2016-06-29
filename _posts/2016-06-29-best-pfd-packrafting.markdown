@@ -52,46 +52,25 @@ The Palm Alpha is one of the lightest white water life jackets on the market. It
 
 <a href="https://www.amazon.com/gp/product/B00SL7IY84/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SL7IY84&linkCode=as2&tag=hikeve-20&linkId=d7b6b512d5f3a3e5428922541d672fbd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00SL7IY84&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00SL7IY84" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+---
+
+## <a href="https://www.rei.com/product/867519/astral-sea-wolf-pfd-mens" rel="nofollow">Astral Sea Wolf</a>
+
+**Weight:** 1.7 lbs / 766 grams
+
+If you need a PFD where you can store a lot's of stuff in it then you should have a look at the Astral Sea Wolf PFD. The Astral Sea Wolf PFD has a large front storage compartment where you can store your your phone or snacks while paddling. It's a little bit heavier than the other PFD's in this list but on a long paddling day this PFD could be quite useful.
+
+<a href="https://www.amazon.com/gp/product/B00ILHKYAK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ILHKYAK&linkCode=as2&tag=hikeve-20&linkId=8bd526c578279fdf0604cbab13ae67bd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00ILHKYAK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00ILHKYAK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ---
 
-## Inflatable Pfd
+## Inflatable PFD's
 
+We would not recommend inflatable PFD's. Of course they are not that bulky than regular PFD's but we don't feel that they are that safe like regular PFD's. However, if you are still interested in an inflatable PFD then you could probably have a look into the [MTI Fuid 2.0](https://www.rei.com/product/869119/mti-fluid-20-belt-pack-inflatable-pfd).
 
-Most adults need an extra 7 to 12 pounds of buoyancy to keep their head above water. Below is a list of minimum buoyancy for each type of lifejacket.
+---
 
-Type I22 lbs.
-Type II15.5 lbs.
-Type III15.5 lbs.
-Ring Buoy16.5 lbs.
-Boat Cushion18 lbs.
-Hybrid inflatable22/7.5 lbs.
-Special use device15.5 to 22 lbs.
-Offshore Lifejacket (Type 1)
-
-This lifejacket is designed for extended survival in rough, open water. It usually will turn an unconscious person face up and has over 22 pounds of buoyancy. This is the best lifejacket to keep you afloat in remote regions where rescue may be slow in coming.
-
-Near Shore Buoyant Vest (Type II)
-
-This "classic" lifejacket comes in several sizes for adults and children and is for calm inland water where there is chance of fast rescue. It is less bulky and less expensive than a Type I, and many will turn an unconscious person face-up in the water.
-
-Flotation Aid (Type III)
-
-These lifejackets are generally considered the most comfortable, with styles for different boating activities and sports. They are for use in calm water where there is good chance of fast rescue since they will generally not turn an unconscious person face-up. Flotation aids come in many sizes and styles.
-
-Throwable Device (Type IV)
-
-These are designed to be thrown to a person in the water. Throwable devices include boat cushions, ring buoys, and horseshoe buoys. They are not designed to be worn and must be supplemented by wearable lifejacket. It is important to keep these devices immediately available for emergencies, and they should not be used for small children, non-swimmers, or unconscious people.
-
-Special Use Device (Type V)
-
-Special use lifejackets include work vests, deck suits, and hybrids for restricted use. Hybrid vests contain some internal buoyancy and are inflatable to provide additional flotation.
-
-Inflatable LifeJackets
-
-Inflatable lifejackets rely on inflatable chambers that provide buoyancy when inflated. Uninflated, inflatable life jackets are less bulky than inherently buoyant life jackets. Inflatables come in a variety of U.S. Coast Guard-defined performance types. The specific type of life jacket is determined by characteristics such as its amount of buoyancy, its in-water performance and its type of inflation mechanism. To understand the details of a life jacket, read the life jacket label and owners manual, and consult your dealer or retailer if necessary.
-
-All inflatables contain a backup oral inflation tube (which also serves as the deflation tube).
+Wearing a PFD does not need to be a burder. The latest PFD's are quite stylish and we hope that we were able to give you some good ideas on which PFD you could get for yourself. We are currently using the Palm Alpha and the YTV Astral Design but the Astral Design V-Eight life jacket was also quite popular for many who participated in the [Swedish Packrafting Round-Up 2016](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/).
 
 ---
 
