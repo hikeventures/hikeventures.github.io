@@ -33,6 +33,7 @@ We are usually wearing a dry suite when we go packrafting and we would rate the 
 |[Palm Alpha](http://amzn.to/29kvV8M)   |  1.4 lbs / 607 grams  |
 |[Astral Designs Sea Wolf](https://www.rei.com/product/867519/astral-sea-wolf-pfd-mens)| 1.7 lbs / 766 grams |
 |[Astral Designs YTV](http://www.backcountry.com/astral-ytv-personal-flotation-device) | 1 lb 12 oz / 794 grams |
+|[Palm FX](http://amzn.to/292fRLY) | 1.9 lbs / 877 grams |
 
 > Table is sorted by weight
 
@@ -75,6 +76,16 @@ The Palm Alpha is one of the lightest white water life jackets on the market. It
 If you need a PFD where you can store a lot's of stuff in it then you should have a look at the Astral Sea Wolf PFD. The Astral Sea Wolf PFD has a large front storage compartment where you can store your your phone or snacks while paddling. It's a little bit heavier than the other PFD's in this list but on a long paddling day this PFD could be quite useful.
 
 <a href="https://www.amazon.com/gp/product/B00ILHKYAK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ILHKYAK&linkCode=as2&tag=hikeve-20&linkId=8bd526c578279fdf0604cbab13ae67bd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00ILHKYAK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00ILHKYAK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+---
+
+## [Palm FX](http://amzn.to/292fRLY)
+
+**Weight:** 1.9 lbs / 877 grams
+
+Palm FX is another PFD which offers plenty or storage room for long packrafting trips. It also features failsafe shoulder straps and passed ISO 12402-5 (water sports) and ISO 12402-6 (paddlesport) standards.
+
+<a href="https://www.amazon.com/gp/product/B018ETXYF6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B018ETXYF6&linkCode=as2&tag=hikeve-20&linkId=2ecf853ac2c36d666ec79c5b077c9075"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B018ETXYF6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B018ETXYF6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ---
 
