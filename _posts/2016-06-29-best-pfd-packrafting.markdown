@@ -23,6 +23,7 @@ PFD's are categorized by [pfdma.org](http://www.pfdma.org/choosing/types.aspx) i
 
 We are usually wearing a dry suite when we go packrafting and we would rate the difficulty of the river which we are usually paddling between class 2 and class 3. The following PFD's are quite light and can also be carried with your backpack like the [HMG Porter 4400](http://www.hikeventures.com/gear-review-hmg-porter-4400-black/) which is our go-to packrafting backpack.
 
+---
 
 ## [Astral Design YTV](http://www.backcountry.com/astral-ytv-personal-flotation-device)
 
@@ -41,7 +42,6 @@ The Astral Design YTV is a great choice if you want to have a minimalistic life 
 The Astral Design V-Eight has 2 zippered front pockets and made for the summer. The air can flow straight through the mesh to your skin which makes paddling with this jacket a more pleasent activity during the warmer months. The back side of the V-Eight does also not interfere with your packraft seat. The V-Eight also has a quick access knife tab.
 
 <a href="https://www.amazon.com/gp/product/B00TMANL50/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TMANL50&linkCode=as2&tag=hikeve-20&linkId=254bf432198b3c65cdd8cabe819e726a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00TMANL50&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00TMANL50" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
 
 ---
 
@@ -69,6 +69,8 @@ If you need a PFD where you can store a lot's of stuff in it then you should hav
 
 We would not recommend inflatable PFD's. Of course they are not that bulky than regular PFD's but we don't feel that they are that safe like regular PFD's. However, if you are still interested in an inflatable PFD then you could probably have a look into the [MTI Fuid 2.0](https://www.rei.com/product/869119/mti-fluid-20-belt-pack-inflatable-pfd).
 
+---
+
 # Accesories
 
 ## [NRS Pilot River Knife](https://www.rei.com/product/101755/nrs-pilot-river-knife)
@@ -76,15 +78,21 @@ The NRS Pilot River Knife can be attached to the front of the Astral Design YTV 
 
 <a href="https://www.amazon.com/gp/product/B001UICFRC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001UICFRC&linkCode=as2&tag=hikeve-20&linkId=593b72bccf776c9eac85ed2681826cae"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001UICFRC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001UICFRC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+---
+
 ## [NRS Co-Pilot River Knife](https://www.rei.com/product/101754/nrs-co-pilot-river-knife-yellow)
 The NRS Co-Pilot River Knife is the shorter version of the NRS Pilot Knife.
 
 <a href="https://www.amazon.com/gp/product/B014OTTE4U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014OTTE4U&linkCode=as2&tag=hikeve-20&linkId=31c1e32939b4c5d0a67323b2c3d5975e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B014OTTE4U&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B014OTTE4U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+---
+
 ##[NRS Wedge Rescue Throw Bag](https://www.rei.com/product/881345/nrs-wedge-rescue-throw-bag)
 You can attache the NRS Wedge Rescue Throw Bag on your packraft and quick access it if you need it.
 
 <a href="https://www.amazon.com/gp/product/B0028EHPTA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0028EHPTA&linkCode=as2&tag=hikeve-20&linkId=0c7f1d02ef740d6a818a23c7d4b3eaa0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0028EHPTA&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0028EHPTA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+---
 
 # Conclusion
 
