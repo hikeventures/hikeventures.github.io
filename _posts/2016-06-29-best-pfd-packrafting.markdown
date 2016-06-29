@@ -131,7 +131,7 @@ The Sea to Summit Paddle Leash is light and assures that you don't loose your pa
 ---
 
 # Conclusion
-Wearing a PFD does not need to be a burdern. The latest PFD's are quite stylish and we hope that we were able to give you some good ideas on which PFD you could get for yourself. We are currently using the Palm Alpha and the YTV Astral Designs but the Astral Designs V-Eight life jacket was also quite popular for many who participated in the [Swedish Packrafting Round-Up 2016](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/).
+Wearing a PFD does not need to be a burdern. The latest PFD's are quite stylish and we hope that we were able to give you some good ideas on which PFD you could get for yourself. We are currently using the Palm Alpha and the Astral Designs YTV PFDs. The Astral Designs V-Eight life jacket was also quite popular among a few paddlers who participated in the [Swedish Packrafting Round-Up 2016](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/).
 
 ---
 
