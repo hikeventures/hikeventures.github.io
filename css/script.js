@@ -121,3 +121,15 @@ function avMakeHttpRequest(strUrl)
 }
 
 
+/* GoSquared */
+
+<script>
+$( document ).ready(function() {
+  $('#form_id').submit(function(event){
+    var user_email = $('#input_id').val()
+    _gs('identify', {
+      email: user_email
+    });
+  });
+});
+</script>
