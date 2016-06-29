@@ -20,7 +20,7 @@ published: true
                                             <li> 
                                               <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> 
                                               
-                                               <a class="post-link" style="font-weight: bold;" href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a><hr> 
+                                               <a class="post-link" style="font-weight: bold;" href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a> 
                                               {{ post.excerpt }}<a href="{{ post.url }}"><font style="background-color: #FF8000; color:white; padding:5px;">Read more...</font></a>
                                             </li>
                                           {% endfor %} 
