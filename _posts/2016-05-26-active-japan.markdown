@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Hiking, Packrafting and Camping in Japan'
-date: '2016-05-29 10:00  +0300'
+date: '2016-06-30 10:00  +0300'
 comments: true
-published: false
+published: true
 category: destinations
 tags:
   - destinations
