@@ -23,9 +23,10 @@ As you know, last year we went to Japan for three weeks. And it was great. So gr
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/k6IzwpS9YwI?rel=0"></iframe>
 </div>
-   
+
+<br> 
 <!--more-->
-<br>   
+  
     
 There is just over a week left before the trip and Marta and I have ‘reisefieber’.  We don’t know what the three-week trip will be exactly like, but we are certain that it will be great. And what else can it be? After all, it’s Japan.
 
