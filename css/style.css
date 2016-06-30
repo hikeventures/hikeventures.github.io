@@ -1,3 +1,10 @@
+@media all and (max-width: 767px) { /* screen size until 500px */
+    body {
+        font-size: 0.9em !important; /* 0.8x default size */
+        }
+    }
+
+
 a{
 	text-decoration:none !important;
 }
