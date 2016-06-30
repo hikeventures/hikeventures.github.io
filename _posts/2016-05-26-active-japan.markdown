@@ -1,12 +1,18 @@
 ---
 layout: post
-title: Video - Active in Japan 2015
-date: 2016-05-29 10:00  +0300
+title: 'Hiking, Packrafting and Camping in Japan'
+date: '2016-05-29 10:00  +0300'
 comments: true
 published: false
 category: destinations
-tags: [destinations, japan, videos, hiking, packrafting, camping]
-description: How we went hiking, packrafting and camping during our trip in Japan in 2015.
+tags:
+  - destinations
+  - japan
+  - videos
+  - hiking
+  - packrafting
+  - camping
+description: 'How we went hiking, packrafting and camping during our trip in Japan in 2015.'
 ---
 
 As you know, last year we went to Japan for three weeks. And it was great. So great that we decided to go back this year again. 
@@ -22,4 +28,3 @@ Last year we enjoyed every step of this adventure, regardless how wet, hot or sw
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/k6IzwpS9YwI"></iframe>
 </div>
-
