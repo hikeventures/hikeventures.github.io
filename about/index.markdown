@@ -2,10 +2,11 @@
 layout: page
 title: About
 navbar: About
-date: 2012-11-25 17:43
+date: '2012-11-25 17:43'
 comments: false
 sharing: false
 footer: false
+published: true
 ---
 
 <div class="my-fluid-container">
@@ -95,10 +96,6 @@ Patrick Dormischian<br>
 Ravaksenkatu 31 C 6<br>
 20900 Turku<br>
 Finland<br><br>
-Konstantin Gridnevskiy<br>
-Mondriaanstraat 94<br>
-8918 DH Leeuwarden<br>
-The Netherlands<br><br>
 
 phone: +358 50 572 84 89<br>
 email: <a href="mailto:contact@hikeventures.com">contact@hikeventures.com</a>
