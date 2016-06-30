@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The best PFD or life jacket for packrafting
+title: The best PFD / life jacket for packrafting
 date: '2016-05-29 09:46:20 +0200'
 comments: true
 description: PFD's we would take on our packrafting trip
@@ -26,7 +26,7 @@ We are usually wearing a dry suite when we go packrafting and we would rate the 
 
 ---
 
-# Overview of the best PFDs and life jackets for packrafting
+# Overview of the best PFDs / life jackets for packrafting
 
 | Product | Weight |
 |-----|:----:|
