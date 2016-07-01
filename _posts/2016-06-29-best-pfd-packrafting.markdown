@@ -114,12 +114,16 @@ The NRS Pilot River Knife can be attached to the front of the Astral Designs YTV
 
 <a href="https://www.amazon.com/gp/product/B001UICFRC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001UICFRC&linkCode=as2&tag=hikeve-20&linkId=593b72bccf776c9eac85ed2681826cae"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001UICFRC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001UICFRC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+<a href="https://www.rei.com/product/101755/nrs-pilot-river-knife" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the NRS Pilot River Knife</button></a>
+
 ---
 
 ## [NRS Co-Pilot River Knife](https://www.rei.com/product/101754/nrs-co-pilot-river-knife-yellow)
 The NRS Co-Pilot River Knife is the shorter version of the NRS Pilot Knife.
 
 <a href="https://www.amazon.com/gp/product/B014OTTE4U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014OTTE4U&linkCode=as2&tag=hikeve-20&linkId=31c1e32939b4c5d0a67323b2c3d5975e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B014OTTE4U&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B014OTTE4U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<a href="https://www.rei.com/product/101754/nrs-co-pilot-river-knife-yellow" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the NRS Co-Pilot River Knife</button></a>
 
 ---
 
@@ -128,16 +132,25 @@ You can attache the NRS Wedge Rescue Throw Bag on your packraft and quick access
 
 <a href="https://www.amazon.com/gp/product/B0028EHPTA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0028EHPTA&linkCode=as2&tag=hikeve-20&linkId=0c7f1d02ef740d6a818a23c7d4b3eaa0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0028EHPTA&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0028EHPTA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+<a href="https://www.rei.com/product/881345/nrs-wedge-rescue-throw-bag" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the NRS Wedge Rescue Throw Bag</button></a>
+
+---
+
 ## [Sea to Summit Ultra Flex Booties](https://www.rei.com/product/883302/sea-to-summit-ultra-flex-water-booties)
 The Sea to Summit Ultra Flex Booties protect your feet when you walk in the river and also helps somewhat to keep your feet warm.
 
 <a href="https://www.amazon.com/gp/product/B00W5P5BU2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00W5P5BU2&linkCode=as2&tag=hikeve-20&linkId=ff2d0de60ceb7abc7e35c33e0dcd1648"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00W5P5BU2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00W5P5BU2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<a href="https://www.rei.com/product/883302/sea-to-summit-ultra-flex-water-booties" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Sea to Summit Ultra Flex Booties</button></a>
+
+---
 
 ## [Sea to Summit Paddle Leash](http://amzn.to/295kdRT)
 The Sea to Summit Paddle Leash is light and assures that you don't loose your paddle on the river. Just attach it to your paddle and to your packraft.
 
 <a href="https://www.amazon.com/gp/product/B012NRXPPO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B012NRXPPO&linkCode=as2&tag=hikeve-20&linkId=8726042078b3f76f62040852ba7e887f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B012NRXPPO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B012NRXPPO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+<a href="http://amzn.to/295kdRT" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Sea to Summit Paddle Leash</button></a>
 
 ---
 
