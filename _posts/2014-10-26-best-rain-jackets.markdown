@@ -149,6 +149,8 @@ if you are planning to wear your jacket for skiing or snowboarding a more durabl
 If you plan a hiking trip then I would recommend you to wear a [wind jacket](http://www.hikeventures.com/best-windjackets/ "Wind Jackets") when it is not raining and switch to a rain jacket once it starts raining. At least this strategy has worked out best for me on my hiking trips even so I had to carry two jackets. However, a [wind jacket](http://www.hikeventures.com/best-windjackets/ "Wind Jacket") is so light that you probably won't notice it in your backpack. 
 
 If you are looking for a rain jacket for your next hiking trip then you should consider to get a lightweight rain jacket as you will probably have your rain jacket most of the time in your backpack (depending on the weather). I had good experience with the [Montane Minimus Jacket](http://www.backcountry.com/montane-minimus-jacket-mens) on the trail.
+
+I hope you found this article useful to find your best men rain jacket in 2016.
   
 ---
   
