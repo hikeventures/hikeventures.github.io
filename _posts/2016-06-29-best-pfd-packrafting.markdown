@@ -48,6 +48,8 @@ The Astral Designs YTV is a great choice if you want to have a minimalistic life
 
 <a href="https://www.amazon.com/gp/product/B01BMZWV6C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01BMZWV6C&linkCode=as2&tag=hikeve-20&linkId=0fb99e04474c270ca1f5d07c107a0dd9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01BMZWV6C&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01BMZWV6C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+<a href="http://www.backcountry.com/astral-ytv-personal-flotation-device" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Astral Designs YTV</button></a>
+
 ---
 
 ## [Astral Designs V-Eight](https://www.rei.com/product/881421/astral-v-eight-pfd)
@@ -57,6 +59,8 @@ The Astral Designs YTV is a great choice if you want to have a minimalistic life
 The Astral Designs V-Eight has 2 zippered front pockets and made for the summer. The air can flow straight through the mesh to your skin which makes paddling with this jacket a more pleasent activity during the warmer months. The back side of the V-Eight does also not interfere with your packraft seat. The V-Eight also has a quick access knife tab.
 
 <a href="https://www.amazon.com/gp/product/B00TMANL50/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TMANL50&linkCode=as2&tag=hikeve-20&linkId=254bf432198b3c65cdd8cabe819e726a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00TMANL50&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00TMANL50" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<a href="https://www.rei.com/product/881421/astral-v-eight-pfd" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Astral Designs V-Eight</button></a>
 
 ---
 
@@ -68,6 +72,8 @@ The Palm Alpha is one of the lightest white water life jackets on the market. It
 
 <a href="https://www.amazon.com/gp/product/B00SL7IY84/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SL7IY84&linkCode=as2&tag=hikeve-20&linkId=d7b6b512d5f3a3e5428922541d672fbd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00SL7IY84&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00SL7IY84" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+<a href="http://amzn.to/29kvV8M" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Palm Alpha</button></a>
+
 ---
 
 ## [Astral Designs Sea Wolf](https://www.rei.com/product/867519/astral-sea-wolf-pfd-mens)
@@ -78,6 +84,8 @@ If you need a PFD where you can store a lot's of stuff in it then you should hav
 
 <a href="https://www.amazon.com/gp/product/B00ILHKYAK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ILHKYAK&linkCode=as2&tag=hikeve-20&linkId=8bd526c578279fdf0604cbab13ae67bd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00ILHKYAK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00ILHKYAK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+<a href="https://www.rei.com/product/867519/astral-sea-wolf-pfd-mens"><button type="button" class="btn btn-danger">Read more about the Astral Designs Sea Wolf</button></a>
+
 ---
 
 ## [Palm FX](http://amzn.to/292fRLY)
@@ -87,6 +95,8 @@ If you need a PFD where you can store a lot's of stuff in it then you should hav
 Palm FX is another PFD which offers plenty or storage room for long packrafting trips. It also features failsafe shoulder straps and passed ISO 12402-5 (water sports) and ISO 12402-6 (paddlesport) standards.
 
 <a href="https://www.amazon.com/gp/product/B018ETXYF6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B018ETXYF6&linkCode=as2&tag=hikeve-20&linkId=2ecf853ac2c36d666ec79c5b077c9075"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B018ETXYF6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B018ETXYF6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<a href="http://amzn.to/292fRLY" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Palm FX</button></a>
 
 ---
 
