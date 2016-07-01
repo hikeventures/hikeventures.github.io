@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The 6 Best Rain Jackets for 2016 for Hiking and Backpacking
+title: The 6 Best Men Rain Jackets 2016 for Hiking and Backpacking
 date: '2016-01-04 12:33:51 +0200'
 comments: true
-description: Overview of the best rain Jackets in 2016 for hiking and backpacking
+description: Overview of the best men rain Jackets in 2016 for hiking and backpacking
 category: articles
 tags:
   - articles
