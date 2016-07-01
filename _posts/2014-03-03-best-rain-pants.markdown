@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The 6 Best Rain Pants for 2016
+title: The 6 Best Rain Pants for 2016 for hiking and backpacking
 date: 2015-02-08 09:13:12 +0200
 comments: true
 description: Top 6 of the best Waterproof pants 2016 which protects you during your outdoor adventures.
