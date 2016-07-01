@@ -1,13 +1,13 @@
 ---
 layout: post
-title: The 6 Best Rain Pants for 2016 for Hiking and Backpacking
+title: The 6 Best Men Rain Pants 2016 for Hiking and Backpacking
 date: 2015-02-08 09:13:12 +0200
 comments: true
 description: Top 6 of the best Waterproof pants 2016 which protects you during your outdoor adventures.
 category: articles
 tags: [articles, best, pants]
 ---
-Planning to go hiking or backpacking or any other backcountry adventure? Then you should consider to pack lightweight rain pants in into your backpack and here is our buying guide of the best rain pants for 2016. If the weather turns nasty you will be happy to have rain gear to stay dry and warm on the trail. The models which we have selected are rain pants for men. We have not tested those rain pants ourselves but we compared their specifications. The rain pants are sorted according to their weight. Most models are also available for women. Below you can see Patrick filtering water with the Montane Minimus Pants in the [Sarek National Park in Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/).
+Planning to go hiking or backpacking or any other backcountry adventure? Then you should consider to pack lightweight rain pants in into your backpack and here is our buying guide of the best men rain pants for 2016. If the weather turns nasty you will be happy to have rain gear to stay dry and warm on the trail. The models which we have selected are rain pants for men. We have not tested those rain pants ourselves but we compared their specifications. The rain pants are sorted according to their weight. Most models are also available for women. Below you can see Patrick filtering water with the Montane Minimus Pants in the [Sarek National Park in Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/).
 
 <a href="https://www.flickr.com/photos/90204224@N07/9598980244" title="Montane Minimus Pants"><img src="https://farm4.staticflickr.com/3767/9598980244_fccc7cd8c6_b.jpg" width="1024" height="683" alt="Montane Minimus Pants"></a>
 <!--more-->
@@ -109,6 +109,8 @@ If you are planning to go skiing then you should maybe consider waterproof pants
 
 ## Features and weight
 You should consider if you really need 3/4 length side zips or pockets on your pants. They are nice to have features but they will come with some additional weight. Please note that I have not tested the products myself (except the Montane Minimus Pants).
+
+I hope you found this article useful to find your best men rain pants in 2016.
 
 ---
  
