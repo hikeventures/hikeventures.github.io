@@ -3,7 +3,7 @@ layout: post
 title: "Video - The Fortress Island of Örö"
 date: 2016-07-08 00:49
 comments: true
-published: false
+published: true
 description: Hiking and Packrafting Adventures on Örö
 category: videos
 tags: [videos, örö, packrafting, finland, hiking]
