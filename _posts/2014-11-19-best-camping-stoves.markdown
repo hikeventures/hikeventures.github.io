@@ -147,6 +147,8 @@ My preference goes towards a camping stove which boils water quickly and uses lo
 
 If you are traveling to different continents then a multi-fuel stove might be the best solution as gas canisters might not be sold everywhere. For winter camping you should probably also consider a multifuel stove like the [MSR XGK EX](http://www.backcountry.com/msr-xgk-ex-stove).
 
+*Disclosure:* I have not tested every product in this article.
+
 ---
 
 <script type="text/javascript">
