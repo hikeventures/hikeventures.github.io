@@ -301,6 +301,10 @@ Not every headlamp is watertight. Some headlamps are only splash proof. Have a l
 
 ---
 
+*Disclosure:* I have not tested every product in this article.
+
+---
+
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
 amzn_assoc_search_bar = "false";
