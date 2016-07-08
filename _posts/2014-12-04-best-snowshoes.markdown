@@ -173,6 +173,8 @@ There are several criterias you should take into consideration when you are plan
 # Conclusion
 So which are the best snowshoes for 2016? My preference goes towards a light snowshoe which has a good grip in the backcountry and in the mountains. I would probably choose the [MSR Lightning Ascent](http://www.backcountry.com/msr-lightning-ascent). The [MSR Revo Ascent 25](http://www.backcountry.com/msr-revo-ascent-snowshoe-mens) would be my second choice because of the additional weight. The advantage of the MSR Revo Ascent it that it is a bit more durable than the MSR Lightning Ascent. 
 
+*Disclosure:* I have not tested every product in this article.
+
 ---
 
 <script type="text/javascript">
