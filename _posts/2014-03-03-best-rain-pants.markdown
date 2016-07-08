@@ -112,6 +112,8 @@ You should consider if you really need 3/4 length side zips or pockets on your p
 
 I hope you found this article useful to find your best men rain pants in 2016.
 
+*Disclosure:* I have not tested every product in this article.
+
 ---
  
 <script type="text/javascript">
