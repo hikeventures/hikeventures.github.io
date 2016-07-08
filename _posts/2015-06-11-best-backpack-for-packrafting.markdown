@@ -100,3 +100,5 @@ The NRS Paragon Pack is quite versatile like the ULA Epic and you can use smalle
 
 # Conclusion
 My favourite backpack is still the [HMG Porter 4400](https://www.hyperlitemountaingear.com/4400-porter.html) and I use it since 3 years as my packrafting backpack. I did not have any issues with it so far. There are just a few small spots which are wearing off but it would have happen to any other backpack as well.
+
+*Disclosure:* I have not tested every product in this article.
