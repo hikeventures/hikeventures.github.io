@@ -152,6 +152,8 @@ If you are looking for a rain jacket for your next hiking trip then you should c
 
 I hope you found this article useful to find your best men rain jacket in 2016.
   
+*Disclosure:* I have not tested every product in this article.
+  
 ---
   
  <script type="text/javascript">
