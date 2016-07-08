@@ -310,6 +310,10 @@ You can keep your down jacket dry by storing it in a waterproof compression bag 
 
 ---
 
+*Disclosure:* I have not tested every product in this article.
+
+---
+
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
 amzn_assoc_search_bar = "false";
