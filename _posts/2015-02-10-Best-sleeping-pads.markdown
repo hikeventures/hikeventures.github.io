@@ -389,6 +389,8 @@ So which is the best sleeping pad for 2016? I found my Therm-a-Rest NeoAir XTher
 
 However, the Therm-a-Rest NeoAir XTherm is a bit more expensive than the SYNMAT UL 7 M. What I like on the SYNMAT is that it is easy to inflate and deflate. For the Therm-a-rest it took me a little bit longer because of the smaller valve compared to the EXPED. Since I found the Therm-a-Rest NeoAir XTherm a reference model for cold temperatures, I didn't include any other sleeping pads which are more heavy except the Therm-a-Rest EvoLite since it is a self-inflating pad for the warmer months. If I would go on a trip then my preference would go towards the Therm-a-rest XTherm - which is the best sleeping pad in my opinion. In very cold conditions I would combine the Therm-a-Rest XTherm with the Therm-a-Rest Z Sol. I hope you that this article helps you to pick your best sleeping pad in 2016.
 
+*Disclosure:* I have not tested every product in this article.
+
 ---
 
 <script type="text/javascript">
