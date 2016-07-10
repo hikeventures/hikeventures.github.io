@@ -60,3 +60,27 @@ I have tested the HMG Porter 4400 for a couple of years on hiking and packraftin
 ---
 
 <script type="text/javascript" src="//www.avantlink.com/link.php?ml=462125&amp;p=125311&amp;pw=150351&amp;ctc=HMG Post&amp;open=_blank"></script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Review",
+  "itemReviewed": {
+    "@type": "Thing",
+    "name": "HMG Porter 4400"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "HikeVentures"
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "9",
+    "bestRating": "10"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "HikeVentures"
+  }
+}
+</script>
