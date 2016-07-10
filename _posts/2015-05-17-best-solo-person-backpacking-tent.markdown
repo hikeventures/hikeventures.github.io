@@ -24,7 +24,7 @@ A Hilleberg Nallo in the back and a Hilleberg Anjan in the front.
 
 ---
 
-# Overview of the best solo (1-person) tents for 2016
+# Overview of the best solo tents for 2016
 
 | Model | Weight |
 |:------|:-----:|
