@@ -12,6 +12,22 @@ Planning to go hiking or backpacking or any other backcountry adventure? Then yo
 <a href="https://www.flickr.com/photos/90204224@N07/9598980244" title="Montane Minimus Pants"><img src="https://farm4.staticflickr.com/3767/9598980244_fccc7cd8c6_b.jpg" width="1024" height="683" alt="Montane Minimus Pants"></a>
 <!--more-->
 
+---
+
+# Overview of the best rain pants of 2016
+
+| Jacket | Weight |
+| ------------- |-------------:|
+| [Montane Minimus Pants](http://www.campsaver.com/minimus-pants-men-s) | &nbsp; 0.31 lb / 141 g |
+| [Montane Atomic Pants](http://www.moosejaw.com/moosejaw/shop/product_Montane-Men-s-Atomic-Pant_10276270_10208_10000001_-1_)      | 0.41 lb / 185 g | 
+| [Mountain Hardwear Plasmic Pant](http://www.backcountry.com/mountain-hardwear-plasmic-pant-mens)     | 0.45 lb / 204 g |
+| [Haglöfs L.I.M. III pants](http://www.backcountry.com/haglfs-l.i.m.-iii-pant-mens) |  0.5 lb / 225 g |
+| [Arcteryx Beta SL Pants](http://www.backcountry.com/arcteryx-beta-sl-pant-mens) | 0.6 lb / 260 g |
+| [Rab Xiom Pants](http://www.campsaver.com/xiom-pant-men-s) | 0.61 lb / 270 g  | 
+
+---
+
+
 ### [Montane Minimus Pants](http://www.campsaver.com/minimus-pants-men-s)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B007RLM6VG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007RLM6VG&linkCode=as2&tag=hikeve-20&linkId=FWJFGCKUDWO36GKL"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007RLM6VG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B007RLM6VG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
