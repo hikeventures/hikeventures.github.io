@@ -1,27 +1,11 @@
----
-layout: default
-published: true
----
 
-
-
-
-<div itemscope itemtype="https://schema.org/BlogPosting">
-<meta itemprop="creator" content="HikeVentures">
-<header class="post-header">
-    <center><h1 itemprop="name">{ { page.title } }</h1>
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="post-header">
+    <center><h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
 
     
-<time itemprop="datePublished" datetime="{ { page.date | date_to_xmlschema } }">
-      { { page.date | date_to_long_string } }
-  </time>
 
-    <span class="tags">
-      { % for tag in page.tags  % }
-      <a href="/posts/tags.html#{ { tag } }"><span itemprop="keywords">{ { tag } }</span></a>
-      { % endfor % }
-    </span>
-
+<p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
 </center> 
 
 </header>
@@ -32,7 +16,7 @@ published: true
 
     <div class="col-sm-8 col-lg-8 col-md-8 col-xs-12"> 
 
-  <div class="post" itemprop="articleBody">
+  <div class="post-content" itemprop="articleBody">
     {{ content }}
 <br>
 Comment on this post on our <a href="https://www.facebook.com/HikeVentures/">Facebook page</a> or on <a href="https://twitter.com/HikeVentures">Twitter</a> or watch one of our <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw">YouTube videos</a>.
@@ -120,5 +104,4 @@ Comment on this post on our <a href="https://www.facebook.com/HikeVentures/">Fac
             
             
 
-</div></div>
-
+</div>
