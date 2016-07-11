@@ -21,7 +21,7 @@ In this post I would like to give an overview about the best camera bags which y
 Overview of the best camera bags for 2016
 
 | Product | Weight |
-|:-----:|----:|
+|:-----|----:|
 |<a href="http://amzn.to/29zNP9o" rel="nofollow">Aquapac Waterproof SLR Camera Case<a> | 7.6 oz / 216 grams   |
 |[Thule Covert Camera Backpack](https://www.rei.com/product/877640/thule-covert-camera-backpack) | 14.1 oz / 400 grams  |
 |<a href="http://amzn.to/29vBhTa" rel="nofollow">Ortlieb Camera Bag Aqua Zoom</a> | 12 oz / 340 grams   |
