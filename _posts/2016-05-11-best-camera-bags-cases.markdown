@@ -69,7 +69,7 @@ For packrafting and kayaking I would like to have a camera bag which is complete
 
 ---
 
-<h2><a href="http://amzn.to/29zNP9o" rel="nofollow">Aquapac Waterproof SLR Camera Case<a></h2>
+<h2><a href="http://amzn.to/29zNP9o" rel="nofollow">Aquapac Waterproof SLR Camera Case</a></h2>
 
 <a href="https://www.amazon.com/gp/product/B0044LXK3A/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0044LXK3A&linkCode=as2&tag=hikeve-20&linkId=36f37f4564dc7a70c12f18f8f96e2123"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0044LXK3A&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0044LXK3A" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
