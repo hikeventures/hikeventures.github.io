@@ -23,12 +23,12 @@ Overview of the best camera bags for 2016
 | Product | Weight |
 |:-----:|----:|
 |<a href="http://amzn.to/29zNP9o" rel="nofollow">Aquapac Waterproof SLR Camera Case<a> | 7.6 oz / 216 grams   |
-|[Thule Covert Camera Backpack](https://www.rei.com/product/877640/thule-covert-camera-backpack) | 14.1 ounces / 400 grams  |
+|[Thule Covert Camera Backpack](https://www.rei.com/product/877640/thule-covert-camera-backpack) | 14.1 oz / 400 grams  |
 |<a href="http://amzn.to/29vBhTa" rel="nofollow">Ortlieb Camera Bag Aqua Zoom</a> | 12 oz / 340 grams   |
 |<a href="http://amzn.to/29YPNOV" rel="nofollow">Lowepro Nova Sport 7L AW Camera Bag</a> | 17.6 oz / 500 grams  |
-|<a href="http://amzn.to/29vFJkX" rel="nofollow">ONA The Bowery Camera Bag</a> | 1.4 lbs / 635 grams |
-|[Thule Covert Camera Messenger Bag - Small](https://www.rei.com/product/887508/thule-covert-camera-messenger-bag-small) | 1.94 lb / 880 grams  |
-|[Pelican 1200 Case](https://www.rei.com/product/778223/pelican-1200-case-with-foam) | 2 lbs. 14 oz. / 1305 grams  |
+|<a href="http://amzn.to/29vFJkX" rel="nofollow">ONA The Bowery Camera Bag</a> | 22.4 oz / 635 grams |
+|[Thule Covert Camera Messenger Bag - Small](https://www.rei.com/product/887508/thule-covert-camera-messenger-bag-small) | 31 oz / 880 grams  |
+|[Pelican 1200 Case](https://www.rei.com/product/778223/pelican-1200-case-with-foam) | 46 oz / 1305 grams  |
 
 ---
 
