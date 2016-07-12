@@ -25,6 +25,8 @@ Planning to go hiking or backpacking or any other backcountry adventure? Then yo
 | [Arcteryx Beta SL Pants](http://www.backcountry.com/arcteryx-beta-sl-pant-mens) | 0.6 lb / 260 g |
 | [Rab Xiom Pants](http://www.campsaver.com/xiom-pant-men-s) | 0.61 lb / 270 g  | 
 
+> Table sorted by weight
+
 ---
 
 
