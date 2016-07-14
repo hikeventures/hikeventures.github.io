@@ -7,7 +7,7 @@ category: articles
 tags: [destinations, packrafting, scotland]
 description: Our February packrafting adventure in Scotland.
 ---
-In January we made plans to go packrafting in the Scottish Highlands and decided to raft down the River Dee for a couple of days. Knowing that the temperatures were below 0 C degree during the night we were quite lucky with the weather as we had sunshine until the last day.
+In January we made plans to go packrafting in the Scottish Highlands and decided to raft down the River Dee for a couple of days. Knowing that the temperatures were below 0 C degree during the night we were quite lucky with the weather as we had sunshine until the last day. For Konstantin the River Dee was the the second of the three great rivers of Scotland. Maybe Next year he will have a chance to do the third?
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25815623486/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1441/25815623486_4cb468584a_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -30,7 +30,6 @@ The next morning we packed our backpacks and had a typical English breakfast in 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25787223842/in/dateposted-public/" title="Packrafting the River Dee"><img src="https://farm2.staticflickr.com/1720/25787223842_f9d79da718_b.jpg" width="1024" height="768" alt="Packrafting the River Dee"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Arrival in Braemar
-The second of the three great rivers of Scotland. Next year the third?
 We were more than lucky with the weather. It was cold, but windless and very sunny.
 When we arrived, we tried to step out where everyone did. And the bus driver asked us if we wanted to get out a bit further. How far? Just over that building. No thank you. Patrick went to buy done water and a toothbrush and then went back to the outdoor shop that we saw on the way. He had to get another pair of socks.
 
