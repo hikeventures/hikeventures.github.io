@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The best camera bags and cases for hiking, backpacking and kayaking in 2016
+title: The best camera bags for hiking and kayaking in 2016
 date: '2016-05-11 15:40:20 +0200'
 comments: true
 published: true
@@ -29,6 +29,8 @@ Overview of the best camera bags for 2016
 |<a href="http://amzn.to/29vFJkX" rel="nofollow">ONA The Bowery Camera Bag</a> | 22.4 oz / 635 grams |
 |[Thule Covert Camera Messenger Bag - Small](https://www.rei.com/product/887508/thule-covert-camera-messenger-bag-small) | 31 oz / 880 grams  |
 |[Pelican 1200 Case](https://www.rei.com/product/778223/pelican-1200-case-with-foam) | 46 oz / 1305 grams  |
+
+> Table is sorted by weight
 
 ---
 
