@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Packrafting the River Dee in Scotland - Day 1
-date: 2016-07-15 23:44
+date: 2016-07-15 06:49
 published: true
 category: destinations
 tags: [destinations, packrafting, scotland]
@@ -155,6 +155,6 @@ When the sun started to set we decided to look for a place where we could step o
      
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25720721372/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1543/25720721372_88b2387369_b.jpg" width="1024" height="743" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
      
-Then it was time to crawl into our sleeping bags where we reviewed the day and our experiences and slowly fell aslpeep under the trees while listening to the flow of the river dee. 
+Then it was time to crawl into our sleeping bags where we reviewed the day and our experiences and slowly fell aslpeep under the stars while listening to the flow of the river dee. 
      
-To be continued ....
+More about day 2 of our packrafting trip in Scotland soon on our blog ....
