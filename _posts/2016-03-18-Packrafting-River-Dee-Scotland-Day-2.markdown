@@ -4,7 +4,7 @@ title: Packrafting the River Dee in Scotland - Day 2
 date: 2016-03-18 23:44
 published: false
 description: Our February packrafting adventure in Scotland.
-category: articles
+category: destinations
 tags: [destinations, packrafting, scotland]
 ---
 ## Balmoral - Camping in the neighbourhood of the Queen
