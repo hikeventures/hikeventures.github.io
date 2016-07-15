@@ -3,7 +3,7 @@ layout: post
 title: Packrafting the River Dee in Scotland - Day 1
 date: 2016-07-15 23:44
 published: true
-category: articles
+category: destinations
 tags: [destinations, packrafting, scotland]
 description: Our February packrafting adventure in Scotland.
 ---
