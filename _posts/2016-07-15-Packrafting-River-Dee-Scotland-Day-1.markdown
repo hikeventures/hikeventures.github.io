@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Packrafting the River Dee in Scotland - Day 1
-date: 2016-03-18 23:44
+date: 2016-07-15 23:44
 published: false
 category: articles
 tags: [destinations, packrafting, scotland]
@@ -10,7 +10,9 @@ description: Our February packrafting adventure in Scotland.
 In January we made plans to go packrafting in the Scottish Highlands and decided to raft down the River Dee for a couple of days. Knowing that the temperatures were below 0 C degree during the night we were quite lucky with the weather as we had sunshine until the last day. For Konstantin the River Dee was the the second of the three great rivers of Scotland. Maybe Next year he will have a chance to do the third?
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25815623486/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1441/25815623486_4cb468584a_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
+   
+<!--more-->
+   
 ## Meeting at the airport
 We met at the airport in Edinburgh - Konstantin arrived just 1 hour later than Patrick - and we took the new tram from the airport to the city center. Once we arrived in the city center we were searching for Konstantin's hotel where he was planning to stay for another week after our planned packrafting trip. We unloaded some of our clothes from our backpack in the hotel and started walking through the city towards the central station.
 
@@ -30,12 +32,12 @@ The next morning we packed our backpacks and had a typical English breakfast in 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25787223842/in/dateposted-public/" title="Packrafting the River Dee"><img src="https://farm2.staticflickr.com/1720/25787223842_f9d79da718_b.jpg" width="1024" height="768" alt="Packrafting the River Dee"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Arrival in Braemar
-We were more than lucky with the weather. It was cold, but windless and very sunny. When we arrived, we tried to step out where everyone did but the bus driver asked us if we wanted to get out a bit further. How far? Just over that building. No thank you, we rather walk and explore the village. Patrick went to the local grocery store to buy bottled water and a toothbrush and then went had a look in the outdoor shop that we saw on the way as he needed another pair of socks to wear them under the drysuite to keep the feet warm in the freezing water.
+We were more than lucky with the weather. It was cold, but windless and very sunny. When we arrived, we tried to step out where everyone did but the bus driver asked us if we wanted to get out a bit further. How far? Just over that building. No thank you, we rather walk and explore the village. Patrick went to the local grocery store to buy bottled water and a toothbrush and then went had a look in the outdoor shop that we saw on the way as he needed another [pair of socks](https://www.rei.com/product/887221/darn-tough-hiker-boot-socks-mens) to wear them under the drysuite to keep the feet warm in the freezing water. Patrick asked for Icebreaker socks but the sales person adviced him to try [Darn Tourgh Hiker socks](https://www.rei.com/product/887221/darn-tough-hiker-boot-socks-mens) as they were more durable according to him. But were they? well time will tell.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25746584301/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1489/25746584301_ee7b436228_b.jpg" width="768" height="1024" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Enjoying a cup of tea in Braemar
-Konstantin was left with the luggage in the sun while Patrick did his shoppings. The sun was just marvellous. Konstantin felt that it's golden rays were  poring over him warming his whole body to the core. At the same time there were patches of snow lying around and the air gave that crispy smell that only winter has. 
+Konstantin was left with the luggage in the sun while Patrick did his shopping. The sun was just marvellous. Konstantin felt that it's golden rays were  poring over him warming his whole body to the core. At the same time there were patches of snow lying around and the air gave that crispy smell that only winter has. 
 
 On the opposite side from the bus stop Konstantin discovered a tea room and decided to move our things there. A middle aged man was sweeping the street next to it. So Patrick ran for his socks while Konstantin carried our bags to the hall and entered the place.
 The place looked cosy. There were not a lot of people there, just a couple that travelled with us from Aberdeen on the same bus. They didn't have a lot of luggage with them, but it seemed that they came to Breamar for a romantic getaway.
@@ -44,10 +46,10 @@ When Konstantin entered, he was approached by a middle aged woman wearing a neat
 
 Talking about the concept of the pot of tea - Konstantin hardly ever saw anything like that on a menu anywhere else outside Britain. And as a tea drinker, he thought that it's a shame that people don't do it more often as the British got it right - one small cup of tea, the one that you usually get in the Netherlands or in other parts on the continental Europe, just won't do it. You cannot just have one. You need more. And a pot of tea is a perfect solution for it.
 
-Having ordered his pot of tea, he had a chance to look around. Besides the woman who severed him, there was another elderly woman, wearing a similar neat white apron. She was busy doing something behind a glass display which contained a five selection of most deliciously looking muffins and pastry. Looking at them he wished that he would still eat sugar. But Konstantin had to stay strong and chased the tempting thoughts away. His pot of tea arrived and standing.
+Having ordered his pot of tea, Konstantin had a chance to look around. Besides the woman who severed him, there was another elderly woman, wearing a similar neat white apron. She was busy doing something behind a glass display which contained a five selection of most deliciously looking muffins and pastry. Looking at them he wished that he would still eat sugar. But Konstantin had to stay strong and chased the tempting thoughts away. His pot of tea arrived and standing.
 
 ## On the way to the River Dee
-Refreshed we started walking to find a place where we could inflate our packrafts and finally start our packrafting trip. It has been very cold during the night and the gras was still frozen. However, the wonderful scenery and sun made us feel excited to start paddling and to get close to the nature.
+Refreshed we started walking to find a place where we could inflate our packrafts and to finally start with our packrafting trip. It has been very cold during the night and the gras was still frozen. However, the wonderful scenery and sun made us feel excited to start paddling and to get close to the nature.
     
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25607400980/in/dateposted-public/" title="Packrafting the River Dee"><img src="https://farm2.staticflickr.com/1442/25607400980_4a2ed0c9df_b.jpg" width="1024" height="768" alt="Packrafting the River Dee"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     
@@ -56,15 +58,15 @@ After a short hike we found a spot which was suiteable to inflate our packrafts 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25813026991/in/dateposted-public/" title="Packrafting the River Dee"><img src="https://farm2.staticflickr.com/1540/25813026991_f2dc51fe86_b.jpg" width="1024" height="768" alt="Packrafting the River Dee"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
      
 ## Inflating the Packrafts
-Having in inflated our packrafts we were good to go. Konstantin inflated his packraft on a different spot but Patrick was the first one who made it into the river. 
+Having inflated our packrafts we were good to go. Konstantin inflated his packraft on a different spot but Patrick was the first one who made it into the river. 
     
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25720737682/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1499/25720737682_7e90c9e959_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
      
-The mountains were still covered with snow. We actually had a discussion if we should go on a hiking trip before packrafting down the river Dee but decided to start paddling immediately as the weather forecast only promised good weather for the coming 2-3 days.
+The mountains were still covered with snow. We actually had a discussion if we should go on a hiking trip before packrafting down the river Dee but decided to start paddling immediately as the weather forecast only promised good weather for the coming 2 days.
      
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25815608426/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1507/25815608426_e63297c5c8_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
      
-Already at the beginning we realized that the water level of the Dee was quite low. Nevertheless, it was still possible to paddle.
+Already at the beginning we realized that the water level of the Dee was quite low. Nevertheless, it was still possible to paddle but we had to step out occassionally and walk in the cold river. That's the part where Patrick's additional [socks](https://www.rei.com/product/887221/darn-tough-hiker-boot-socks-mens) became an important part of gear.
      
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25211155704/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1543/25211155704_7246941e5b_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
      
@@ -149,7 +151,7 @@ After our trip Konstantin contacted Alpacka Raft and reported the issue on his p
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25841679395/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1582/25841679395_279021f44d_b.jpg" width="1024" height="768" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Camping nearby Balmoral Castle
-When the sun started to set we decided to look for a place where we could step out of our packrafts and to pitch our tent. It was already quite cold and we were already quite tired after this day. After we pitched our <a rel="nofollow" href="http://amzn.to/1Vj0UpY">MSR Hubba Hubba Tent</a> we prepared our dinner. Patrick enjoyed one of the meals which Konstantin brought from Japan while Konstantin prepared a Real Tumac dinner with our <a rel="nofollow" href="http://amzn.to/1Vj12Ws">MSR Windburner</a>.
+When the sun started to set we decided to look for a place where we could step out of our packrafts and to pitch our tent. It was already quite cold and we were already quite tired after this day. After we pitched our [MSR Hubba Hubba Tent](https://www.rei.com/product/863076/msr-hubba-hubba-nx-tent) we prepared our dinner. Patrick enjoyed one of the meals which Konstantin brought from Japan while Konstantin prepared a Real Tumac dinner with our [MSR Windburner](https://www.rei.com/product/890802/msr-windburner-stove-system).
      
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25720721372/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1543/25720721372_88b2387369_b.jpg" width="1024" height="743" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
      
