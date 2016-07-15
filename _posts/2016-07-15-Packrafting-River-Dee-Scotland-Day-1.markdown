@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Packrafting the River Dee in Scotland - Day 1
+title: "Packrafting the River Dee in Scotland - Day 1"
 date: 2016-07-15 06:49
 category: destinations
 tags: [destinations, packrafting, scotland]
