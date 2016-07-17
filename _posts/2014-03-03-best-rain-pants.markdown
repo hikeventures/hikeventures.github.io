@@ -1,11 +1,17 @@
 ---
 layout: post
 title: The 6 Best Men Rain Pants 2016 for Hiking and Backpacking
-date: 2015-02-08 09:13:12 +0200
+date: '2015-02-08 09:13:12 +0200'
 comments: true
-description: Top 6 of the best Waterproof pants 2016 which protects you during your outdoor adventures.
+description: >-
+  Top 6 of the best Waterproof pants 2016 which protects you during your outdoor
+  adventures.
 category: articles
-tags: [articles, best, pants]
+tags:
+  - articles
+  - best
+  - pants
+published: true
 ---
 Planning to go hiking or backpacking or any other backcountry adventure? Then you should consider to pack lightweight rain pants in into your backpack and here is our buying guide of the best men rain pants for 2016. If the weather turns nasty you will be happy to have rain gear to stay dry and warm on the trail. The models which we have selected are rain pants for men. We have not tested those rain pants ourselves but we compared their specifications. The rain pants are sorted according to their weight. Most models are also available for women. Below you can see Patrick filtering water with the Montane Minimus Pants in the [Sarek National Park in Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/).
 
@@ -16,7 +22,7 @@ Planning to go hiking or backpacking or any other backcountry adventure? Then yo
 
 # Overview of the best rain pants of 2016
 
-| Jacket | Weight |
+| Rain Pants | Weight |
 | ------------- |-------------:|
 | [Montane Minimus Pants](http://www.campsaver.com/minimus-pants-men-s) | &nbsp; 0.31 lb / 141 g |
 | [Montane Atomic Pants](http://www.moosejaw.com/moosejaw/shop/product_Montane-Men-s-Atomic-Pant_10276270_10208_10000001_-1_)      | 0.41 lb / 185 g | 
