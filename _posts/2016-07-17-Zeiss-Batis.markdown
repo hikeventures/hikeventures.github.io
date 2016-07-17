@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Zeiss Batis 25mm and Sony A7 Test - The best combo for outdoor photography?
-date: '2016-07-17 14:00:20 +0200'
-comments: true
-published: true
+date: '2016-07-17 12:00:20 +0200'
 description: Some thoughts about the Zeiss Batis 25mm 
 category: best
 tags:
