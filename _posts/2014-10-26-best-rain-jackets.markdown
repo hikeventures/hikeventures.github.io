@@ -23,9 +23,9 @@ You might want to wear your waterproof jacket only occasionally e.g. if it start
 
 ---
 
-# Overview of the best down jackets of 2016
+# Overview of the best rain jackets of 2016
 
-| Jacket | Weight |
+| Rain Jacket | Weight |
 | ------------- |-------------:|
 | [Berghaus Vapourlight Hyper Smock 2.0](http://www.backcountry.com/berghaus-vapourlight-hyper-hooded-smock-2.0-mens) | &nbsp; 0.17 lb / 75 g |
 | [Outdoor Research Helium II Jacket](http://www.backcountry.com/outdoor-research-helium-jacket-mens)      | 0.4 lb / 180 g | 
