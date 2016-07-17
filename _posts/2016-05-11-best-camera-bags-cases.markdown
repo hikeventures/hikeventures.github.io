@@ -1,10 +1,12 @@
 ---
 layout: post
-title: The best camera bags for hiking and kayaking in 2016
+title: 'The best outdoor camera bags for Sony A7II, a6300 or a6000'
 date: '2016-05-11 15:40:20 +0200'
 comments: true
 published: true
-description: Our selection of the best camera bags and cases for your next outdoor adventures
+description: >-
+  Our selection of the best camera bags and cases for your next outdoor
+  adventures
 category: best
 tags:
   - articles
@@ -12,13 +14,13 @@ tags:
   - camera
 ---
 
-In this post I would like to give an overview about the best camera bags which you can use for e.g. hiking, backpacking, canoeing or packrafting. As I have recently upgraded my own camera gear I was in need of a new camera case which I can use for my outdoor adventures. I was looking for a camera bag or case which packs small and actually came to the conclusion that I would need different camera bags for my DSLR or MILC for different activities.
+In this post I would like to give an overview about the best camera bags for your Sony A7, A7II A7RII or A7SII (and also a6300 or a6000 since they share a similar form factor) which you can use for e.g. hiking, backpacking, canoeing or packrafting. As I have recently upgraded my own camera gear I was in need of a new camera case which I can use for my outdoor adventures. I was looking for a camera bag or case which packs small and actually came to the conclusion that I would need different camera bags for my MILC for different activities. So here are my favourite bags which I have found so far (I will update this list in the future).
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/16507482946/in/album-72157651193131682/" title="Lapland Finland"><img src="https://c3.staticflickr.com/9/8617/16507482946_94d0b3ba64_k.jpg" width="100%" alt="Best DSLR MILC Camera Bags for hiking, backpacking, kayaking and packrafting"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
-Overview of the best camera bags for 2016
+Overview of the best camera bags for Sony A7 or a6300
 
 | Product | Weight |
 |:-----|----:|
@@ -164,7 +166,7 @@ Silica gel absorbs moisture in the camera bag. It's always a good idea to have 1
 ---
 
 # Conclusion
-From my point of view there is no best camera bag which fits every situation but having the right camera gear for different activities is essential to protect your gear and also to enjoy photography more. I hope you are able to find your camera bag for your next hiking, backpacking, kayaking or packrafting adventure.
+From my point of view there is no best camera bag which fits every situation but having the right camera gear for different activities is essential to protect your gear and also to enjoy photography with your Sony A7 or a6300 more. I hope you are able to find your camera bag for your next hiking, backpacking, kayaking or packrafting adventure.
 
 ---
 
