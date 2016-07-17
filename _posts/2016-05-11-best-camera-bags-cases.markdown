@@ -22,7 +22,7 @@ In this post I would like to give an overview about the best camera bags for you
 
 Overview of the best camera bags for Sony A7 or a6300
 
-| Product | Weight |
+| Camera Bag | Weight |
 |:-----|----:|
 |<a href="http://amzn.to/29zNP9o" rel="nofollow">Aquapac Waterproof SLR Camera Case<a> | 7.6 oz / 216 grams   |
 |[Thule Covert Camera Backpack](https://www.rei.com/product/877640/thule-covert-camera-backpack) | 14.1 oz / 400 grams  |
