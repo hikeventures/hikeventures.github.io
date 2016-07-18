@@ -12,6 +12,8 @@ We had a good night sleep after the [first day](http://www.hikeventures.com/Pack
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25215070553/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1651/25215070553_2bf0cca03f_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25815612786/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1650/25815612786_b90a0983cb_b.jpg" width="681" height="1024" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25211168184/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1566/25211168184_7033bd4e8d_o.jpg" width="1024" height="768" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
