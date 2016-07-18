@@ -20,7 +20,7 @@ The worst was hoever not to sit in a frozen packraft ...
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25211168184/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1566/25211168184_7033bd4e8d_o.jpg" width="1024" height="768" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-For breakfast we still had some japanese dehydrated camping food with us which taste much better than the camping food you can buy in our camping stores. So we ignited our [MSR Windburner stove](http://www.backcountry.com/msr-windboiler-personal-stove-system) and got the water boiling.
+For breakfast we still had some japanese dehydrated camping food with us which taste much better than the camping food you can buy in our camping stores. So we ignited our [MSR Windburner stove](http://www.backcountry.com/msr-windboiler-personal-stove-system) with our [Light My Fire FireSteel Scout 2.0 Fire Starter](https://www.rei.com/product/102301/light-my-fire-firesteel-scout-20-fire-starter) and got the water boiling.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25720718142/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1449/25720718142_2c1be50b32_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
