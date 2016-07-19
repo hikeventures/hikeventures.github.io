@@ -76,12 +76,12 @@ After our lunch break the river continued to be quite flat but we were able to p
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25815605716/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1626/25815605716_41a163739d_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-The river was marked from the last flood. Fallen trees and the shore are wittnesses of this tragic event 2 months ago.
+The river was marked from the last flood. Fallen trees and the undercut shore are wittnesses of this tragic event 2 months ago.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25215064833/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1673/25215064833_b9a2ae895d_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## The flood and remainings
-The damaged bridges, the castle, part of the road, the caravan park - on the way it looked like on the [Grensmaas](http://www.hikeventures.com/packrafting-on-the-grensmaas/) where we paddled a while ago. Lots of rubbish. On the way back, story from the guy, contamination with kerosine, the stationary trailer destroyed against the bridge. Furniture, contorted bikes, bedding, clothes, a small Scottish St. Andrew's flag, hanging on a tree. Trees. Lots of firewood. But also a few strainers. Passing by one of the sides, high undercut shore, fallen trees and the sound of slipping and falling rocks. Some trees overhanging and will follow soon.
+The damaged bridges, the castle, part of the road, the caravan park - on the way it looked like on the [Grensmaas](http://www.hikeventures.com/packrafting-on-the-grensmaas/) where we paddled a while ago. Lots of rubbish. We also met a local guy on our trip who was taking pictures on the river. He told us that the stationary trailer destroyed against a bridge on the river. There was all kind of stuff in the river once we paddled it further down. Furniture, contorted bikes, bedding, clothes and a small Scottish St. Andrew's flag was hanging on a tree. However, there was also something positive on the flood. We were able to find  a lot of firewood.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25215064233/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1647/25215064233_39a66596cd_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
