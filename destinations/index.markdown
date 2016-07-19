@@ -425,7 +425,7 @@ footer: false
         </div></div></a></div></div>
         
                <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
-            <a class="thumbnail" href="http://www.hikeventures.com/3-days-in-the-scottish-highlands/" style="color: #FFF; border: 0px;">
+            <a class="thumbnail" href="http://www.hikeventures.com/Packrafting-River-Dee-Scotland-1/" style="color: #FFF; border: 0px;">
         <div class="thumbnail text-center">
         	<img src="https://c5.staticflickr.com/2/1678/25540976580_95957933d6_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">River Dee</p>
