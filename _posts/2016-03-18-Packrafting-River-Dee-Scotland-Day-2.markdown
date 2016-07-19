@@ -49,18 +49,24 @@ After some paddling we passed by Abergeldie which almost fell into the river aft
 
 
 ## River walking
-Exciting. Always something to do. But too low water levels and getting too much. A great river to paddle especially if more water. Never boating and nor changed much by men. At least not that visible.
+
+The scenery was again breathtaking on the second day. Even so the night was freezing cold the the sun kept us warm once we came closer to lunch time.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25815608426/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1507/25815608426_e63297c5c8_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Unfortunately, the water level was just too low on some spots so we had to step out and walk from time to time.
+
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25279269933/in/dateposted-public/" title="Packrafting the River Dee"><img src="https://farm2.staticflickr.com/1544/25279269933_39cc3de477_b.jpg" width="1024" height="768" alt="Packrafting the River Dee"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 ## Lunch break
 
+After some paddling we found a really nice beach with rocks and gravel on the left hand side of the river where we stepped out to have our lunch breack.
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25841652095/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1650/25841652095_5b227f9e94_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-
+We filled the [MSR Windburner stove](http://www.backcountry.com/msr-windboiler-personal-stove-system) with water from the river and a few minutes later we poured it into our dehydrated lunch packages.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25720714182/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1675/25720714182_a36ac1bbe2_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
