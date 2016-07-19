@@ -26,16 +26,25 @@ For breakfast we still had some japanese dehydrated camping food with us which t
 
 ## Visiting Balmoral Castle
 
+Since we just camped almost next to the Balmoral Castle we decided to get a bit closer and explore it a bit. 
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25211137854/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1450/25211137854_9d7e60357f_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Back into the River Dee
 
+Once back from the Balmoral Castle we packed our gear and got our packraft ready. The day was again beautiful and we were quite excited to continue our trip.
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25215068423/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1448/25215068423_9ec4a41fda_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+There was ice everywhere but fortunately it didn't have any impact on our packrafting trip.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25279269183/in/dateposted-public/" title="Packrafting the River Dee"><img src="https://farm2.staticflickr.com/1629/25279269183_60a94b1ce6_b.jpg" width="1024" height="768" alt="Packrafting the River Dee"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 ## Abergeldie - The falling castle
+
+After some paddling we passed by Abergeldie which almost fell into the river after the last flood. It seems that they were able to prevent the worst so we were still able to get a nice picture with us and the castle.
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25787216672/in/dateposted-public/" title="Packrafting the River Dee"><img src="https://farm2.staticflickr.com/1530/25787216672_68a74b166e_b.jpg" width="1024" height="768" alt="Packrafting the River Dee"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
