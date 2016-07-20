@@ -52,6 +52,7 @@ A young couple who like to share our outdoor experiences.
 ## Bosnia Herzegovina
 
 ### <a href="http://thewildone.me/">thewildone.me</a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28428477595/in/dateposted-public/" title="thewildone.me"><img src="https://c4.staticflickr.com/9/8726/28428477595_93ef22df14_b.jpg" width="1024" height="680" alt="thewildone.me"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 My name is Sabina Sirćo and I'm young blogger from Sarajevo, the capital city of Bosnia and Herzegovina. I’m a passionate hiker and I enjoy traveling and writing about my adventures. For me hiking through dense forests, across mountains and untamed territory is like meditating. I love the feeling of freedom and adventure that comes from hiking and traveling.
 
 <a href="https://www.facebook.com/thewildone.me/"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/thewildoneme"><i class="fa fa-twitter"></i></a>  <a href="https://www.instagram.com/the_wildone6/
