@@ -15,16 +15,24 @@ description: Our review on the Thule Sapling Elite Child Carrier
 
 ## Features
 
-Fully adjustable back panel and hipbelt provide a perfect fit and comfortable carry and make the transition between parents quick and easy
-Mesh pockets, hydration reservoir sleeve, a removable backpack and a large zippered compartment store water, diapers, clothes, rain gear, and other essentials
-Keep essentials close at hand with two extra roomy zippered hipbelt pockets that store toys, snacks and gadgets
-Mirror lets you monitor your precious cargo
-Load stabilizer straps allow on-the-go adjustments to the backpack's center of gravity by pulling the child closer to the parent for a more comfortable carry
-Deployable sunshade keeps your child cool and protected from the harsh sun
-Plush, height adjustable, ergonomic seat efficiently distributes the child’s weight by providing inner thigh support
-Dual access loading allows you to load your child from the top or side of the carrier
-Removable stirrups let your little one rest their legs and readjust themselves on the trail
-Breathable back panel provides padding and support at critical contact points, allowing air to circulate around your back, keeping you cool
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27817737344/in/dateposted-public/" title="Thule Sapling Elite Child Carrier"><img src="https://c1.staticflickr.com/9/8699/27817737344_8d818cfb80_k.jpg" width="2048" height="1367" alt="Thule Sapling Elite Child Carrier"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28434132705/in/dateposted-public/" title="Thule Sapling Elite Child Carrier"><img src="https://c2.staticflickr.com/8/7484/28434132705_ca31fc40b4_k.jpg" width="2048" height="1367" alt="Thule Sapling Elite Child Carrier"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28355399161/in/dateposted-public/" title="Thule Sapling Elite Child Carrier"><img src="https://c2.staticflickr.com/9/8829/28355399161_7776849f56_k.jpg" width="2048" height="1362" alt="Thule Sapling Elite Child Carrier"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28355403121/in/dateposted-public/" title="Thule Sapling Elite Child Carrier"><img src="https://c2.staticflickr.com/9/8787/28355403121_958fe13169_k.jpg" width="2048" height="1362" alt="Thule Sapling Elite Child Carrier"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28329242242/in/dateposted-public/" title="Thule Sapling Elite Child Carrier"><img src="https://c3.staticflickr.com/9/8659/28329242242_c9121ad269_k.jpg" width="1362" height="2048" alt="Thule Sapling Elite Child Carrier"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28151193330/in/dateposted-public/" title="Thule Sapling Elite Child Carrier"><img src="https://c3.staticflickr.com/8/7794/28151193330_9ba1f760b7_k.jpg" width="2048" height="1362" alt="Thule Sapling Elite Child Carrier"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28434173405/in/dateposted-public/" title="Thule Sapling Elite Child Carrier"><img src="https://c6.staticflickr.com/9/8855/28434173405_e3a1b1004e_k.jpg" width="2048" height="1362" alt="Thule Sapling Elite Child Carrier"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28329260142/in/dateposted-public/" title="Thule Sapling Elite Child Carrier"><img src="https://c7.staticflickr.com/9/8576/28329260142_4239d81ef3_k.jpg" width="2048" height="1362" alt="Thule Sapling Elite Child Carrier"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 
 
 Material	210D Cordura nylon, 420D nylon
