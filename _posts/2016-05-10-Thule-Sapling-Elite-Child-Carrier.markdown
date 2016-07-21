@@ -17,12 +17,6 @@ I was carrying the Thule Sampling Elite mainly in the forests around our neighbo
 
 Of course it is quite hard to see what your child is doing in the back while you are walking along the trail. Thule was thinking ahead and added a mirror in one of the hipbelt pockets which you can take out to monitor your child. My child felt also more comfortable when she saw me smiling to her from time to time so this is a simple but really great feature.
 
-Talking about the seat on the backpack. You can load your child either from the top or the side into the seat.
-
-Removable stirrups let your little one rest their legs and readjust
-
-## Features
-
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27817737344/in/dateposted-public/" title="Thule Sapling Elite Child Carrier"><img src="https://c1.staticflickr.com/9/8699/27817737344_8d818cfb80_k.jpg" width="2048" height="1367" alt="Thule Sapling Elite Child Carrier"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
@@ -42,6 +36,8 @@ The Sampling Elite also has a fully adjustable  back panel and hip belt so you c
 On the lower backside of the backpack there is also a bag with a zipper where I stored items which I could  need during the trip like diapers, jackets, baby clothes, backpack rain cover or snacks. Moreover, there are also 2 zippered hipbelt pockets where you can store for example snacks, keys or your phone. If you plan to go on a longer trip then you can also store a water hydration bag in the backpack.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28151193330/in/dateposted-public/" title="Thule Sapling Elite Child Carrier"><img src="https://c3.staticflickr.com/8/7794/28151193330_9ba1f760b7_k.jpg" width="2048" height="1362" alt="Thule Sapling Elite Child Carrier"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Talking about the seat on the backpack. You can load your child either from the top or the side into the seat. The Sapling Elite has also removable stirrups so the child can rest it's legs and readjust.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28434173405/in/dateposted-public/" title="Thule Sapling Elite Child Carrier"><img src="https://c6.staticflickr.com/9/8855/28434173405_e3a1b1004e_k.jpg" width="2048" height="1362" alt="Thule Sapling Elite Child Carrier"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
