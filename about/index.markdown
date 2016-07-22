@@ -77,12 +77,18 @@ We maintain a list of the <a href="http://www.hikeventures.com/blogs/">best outd
 <hr>
 
 <h1>  Affiliate Links</h1> 
-On some of our pages you will find affiliate links. HikeVentures is a participant in AvantLink and the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
+On some of our pages you will find affiliate links. HikeVentures is a participant in AvantLink and the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. Affiliate links help us to keep this blog going and to finance some of our trips and gear.
 
 <hr>
 
 <h1> Disclaimer</h1> 
-We do not guarantee for the correctness of the information on this website. Product recommendations are based on personal views. We are also not responsible for any injuries occurred by following our gear and activities advices.
+We do not guarantee for the correctness of the information on this website. Product recommendations are based on personal views. We are also not responsible for any injuries occurred by following our gear and activities advices. We are not responsible for the actions of your advertisers or sponsors. For example, when you buy a product or service based upon a link from your blog, you must take action with that exact company to resolve any issues, not with us. All the information provided on your blog is for entertainment purposes only.
+
+<hr>
+
+<h1>Reserve Rights</h1>
+
+We reserve the right to change the focus on our blog, to shut it down, sell it or to change the terms of use at our own discretion.
 
 <hr>
 
