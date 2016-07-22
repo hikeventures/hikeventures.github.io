@@ -148,3 +148,8 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "ec4b1ecaff9224e05d5eb9b30680ad1a";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
+# Disclosure
+The products in this article have not been tested by us. This page contains affiliate links. Read more [here](The products in this article have not been tested by us. This page contains affiliate links. Read more [here](http://www.hikeventures.com/about/).
