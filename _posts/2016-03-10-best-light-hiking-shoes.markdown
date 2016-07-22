@@ -119,6 +119,7 @@ The most innovative part in the Arcteryx Acrux2 FL GTX are probably the removabl
 <a href="http://www.backcountry.com/arcteryx-acrux2-fl-approach-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Acrux² FL GTX Approach</button></a> 
 
 ---
+
 # Conclusion
 Choosing the right ultralight hiking shoes is not just a matter of specs and features but also about the design. The Inov-8 Roclite 282 GTX are probably the best shoes which you can get if you look for the lightest weight and a good sole. At least I was happy with my Inov-8 shoes when I was hiking 1 week in Sweden beside having constantly we feet. However, in some cases you can also dry them in the evenings on a camp fire (if it's allowed in the area where you are planning to go hiking). The most important factors for me are weight, grip of the sole and if they can dry fast.
 
@@ -139,3 +140,8 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "0d18f88262f19f39fc7a13f07ae2563b";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
+# Disclosure
+The products in this article have not been tested by us. This page contains affiliate links. Read more [here](http://www.hikeventures.com/about/).
