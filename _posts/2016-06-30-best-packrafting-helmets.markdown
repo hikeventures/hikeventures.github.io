@@ -157,5 +157,5 @@ amzn_assoc_linkid = "1b9d1e4302c0c92ff457962d6ba0d67b";
 
 ---
 
-# Disclaimer
+# Disclosure
 The products in this article have not been tested by us. This page contains affiliate links. Read more [here](The products in this article have not been tested by us. This page contains affiliate links. Read more [here](http://www.hikeventures.com/about/).
