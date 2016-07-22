@@ -3,7 +3,6 @@ layout: post
 title: Lundhags Jaure Light High II
 date: 2016-07-22 15:30 +0300
 comments: true
-published: false
 category: reviews
 tags: [reviews, Lundhags, Boots]
 description: The Lundhags Jaure Light High II and Mid II - The best hiking shell boots?
