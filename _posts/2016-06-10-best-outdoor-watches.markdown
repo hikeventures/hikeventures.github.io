@@ -151,5 +151,5 @@ From the currently released outdoor watches with color display I would probably 
 
 ---
 
-# Disclaimer
-The products in this article have not been tested by us. This page contains affiliate links. Read more [here](The products in this article have not been tested by us. This page contains affiliate links. Read more [here](http://www.hikeventures.com/about/).
+# Disclosure
+The products in this article have not been tested by us. This page contains affiliate links. Read more [here](http://www.hikeventures.com/about/).
