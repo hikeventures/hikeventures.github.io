@@ -111,8 +111,6 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 # Conclusion
 My personal preference goes towards the  [DeLorme InReach Explorer](https://www.rei.com/product/877499/delorme-inreach-explorer-satellite-messenger) as it has also messenger function. If I would not need the messenger and tracking function then I would probably get the [ACR ResQlink+ 406](https://www.rei.com/product/843146/acr-electronics-resqlink-gps-personal-locator-beacon).
 
-*Disclosure:* I have not tested every product in this article.
-
 ---
 
 <script type="text/javascript">
@@ -130,3 +128,8 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
+# Disclosure
+The products in this article have not been tested by us. This page contains affiliate links. Read more [here](http://www.hikeventures.com/about/).
