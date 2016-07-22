@@ -148,3 +148,8 @@ The Suunto Spartan is the latest smart watch addition in the Suunto range. Unfor
 
 ## Conclusion
 From the currently released outdoor watches with color display I would probably pick the [Garmin Fenix 3](http://www.backcountry.com/garmin-fenix-3-bundle). However, before buying any watch I will wait to see the specifications of the [Suunto Spartan Ultra](http://www.suunto.com/sports-watch-collections/Suunto-Spartan-Collection/). As a current [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) user I have already my GPS data stored in [Movescount](http://www.movescount.com/members/member140205-HikeVentures) so switching brands is anyway not an easy option for me. If I would not need a built-in GPS then I would probably buy the <a href="http://amzn.to/1t7QAFm" rel="nofollow">Apple Watch Sport</a> as an Apple phone user or the <a href="http://amzn.to/1t7QAFm" rel="nofollow">Motorola Moto 360 Sport</a> or the <a href="http://amzn.to/1YdNH1H" rel="nofollow">Casio WSD-F10</a> if I would be an Android phone user.
+
+---
+
+# Disclaimer
+The products in this article have not been tested by us. This page contains affiliate links. Read more [here](The products in this article have not been tested by us. This page contains affiliate links. Read more [here](http://www.hikeventures.com/about/).
