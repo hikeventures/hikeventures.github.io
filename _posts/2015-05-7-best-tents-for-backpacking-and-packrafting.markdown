@@ -246,8 +246,6 @@ In my opinion the [MSR Hubba Hubba NX](http://www.backcountry.com/msr-hubba-hubb
 
 If you do winter camping then it's probably a good idea to get an even bigger tent like the [Hilleberg Kaitum](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Kaitum-2-Person-Tent_10101437_10208_10000001_-1_) or [Nammatj](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Nammatj-GT-2-Person-Tent_10101469_10208_10000001_-1_).
 
-*Disclosure:* I have not tested every product in this article.
-
 ---
 
 <script type="text/javascript">
@@ -265,3 +263,8 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "d851141fbebd325de6befd648bc80425";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
+# Disclosure
+The products in this article have not been tested by us. This page contains affiliate links. Read more [here](http://www.hikeventures.com/about/).
