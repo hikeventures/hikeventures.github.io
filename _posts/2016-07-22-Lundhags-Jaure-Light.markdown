@@ -1,11 +1,17 @@
 ---
 layout: post
-title: Lundhags Jaure Light High II and Mid II - The best shell boots for hiking and trekking?
-date: 2016-07-22 13:30 +0200
+title: >-
+  Lundhags Jaure Light High II and Mid II - The best shell boots for hiking and
+  trekking?
+date: '2016-07-22 13:30 +0200'
 comments: true
 category: reviews
-tags: [reviews, Lundhags, Boots]
+tags:
+  - reviews
+  - Lundhags
+  - Boots
 description: The Lundhags Jaure Light High II and Mid II
+published: true
 ---
 We are wearing since 1 year the Lundhags Jaure Light High on our trips and got quite excited when Lundhags announced their new Lundhags Jaure Light High II which will be available in the colors Petrol/Bronze and Black Rush and the Lundhags Jaure Light Mid II which will be available in the color  Black/Rush. Even so our boots are relatively new it's always good to hear that the Lundhags Jaure Light High could be even optimized even further.
 
@@ -35,3 +41,6 @@ Lundhags Jaure Light High on our [hiking and packrafting trip in Finland](http:/
 We think those new features are already worth to upgrade to the newest model once they are on the market in March 2017 even so we are already quite happy with the current Jaure Light High boots. Of course, we are still be able to hike with the current Jaure Light High model but having an even better boot sounds quite exciting. We really like to wear shell boots on our hiking trips and it's quite comfortable to walk in them too. You just need to wear 2 pairs of socks which could however be a bit warm during the summer months but it's still possible to wear them. Currently, we combine our Lundhags Jaure Light High with Icebreaker [Liners](http://www.backcountry.com/icebreaker-hike-liner-crew-sock-mens) and the Icebreaker [Hike+ Light](http://www.backcountry.com/icebreaker-hike-lite-crew-sock-mens-ice0791) and [Hike+ Mid](http://www.backcountry.com/icebreaker-hike-mid-crew-sock-mens-ice0793).
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28437731156/in/dateposted-public/" title="Lundhags Jaure Light High"><img src="https://c5.staticflickr.com/9/8520/28437731156_cc34f8eddd_k.jpg" width="2048" height="1360" alt="Lundhags Jaure Light High"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+# Disclosure
+Lundhags has provided us with a discount on their products.
