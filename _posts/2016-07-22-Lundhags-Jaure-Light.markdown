@@ -26,7 +26,7 @@ The Lundhags Jaure Light Mid II and High II will have the following improved fea
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28355393661/in/dateposted-public/" title="Lundhags Jaure Light High"><img src="https://c6.staticflickr.com/9/8474/28355393661_e14b6f4d3c_k.jpg" width="2048" height="1536" alt="Lundhags Jaure Light High"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
    
-Lundhags Jaure Light High on our (hiking and packrafting trip in Finland](http://www.hikeventures.com/Oro/)
+Lundhags Jaure Light High on our [hiking and packrafting trip in Finland](http://www.hikeventures.com/Oro/)
 
 We think those new features are already worth to upgrade to the newest model once they are on the Market in March even so we were already quite happy with the current Jaure Light High boots. Of course, we would still be able to hike with the current Jaure Light High model but having an even better model sounds quite exciting. We really like shell boots for our hiking trips and it's quite comfortable to walk in them. You just need to wear 2 pairs of socks which could be however a bit warm during the summer months. Currently, we combine our Lundhags Jaure Light High with Icebreaker [Liners](http://www.backcountry.com/icebreaker-hike-liner-crew-sock-mens) and the Icebreaker [Hike+ Light](http://www.backcountry.com/icebreaker-hike-lite-crew-sock-mens-ice0791) and [Hike+ Mid](http://www.backcountry.com/icebreaker-hike-mid-crew-sock-mens-ice0793).
 
