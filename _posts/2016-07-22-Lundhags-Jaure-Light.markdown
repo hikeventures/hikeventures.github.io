@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lundhags Jaure Light High II
-date: 2016-07-22 15:30 +0300
+date: 2016-07-22 13:30 +0200
 comments: true
 category: reviews
 tags: [reviews, Lundhags, Boots]
