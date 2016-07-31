@@ -73,6 +73,8 @@ Here are some features of the Marmot Force UL 2P:
 # Conclusion
 I would recommend the Marmot Force UL 2P if you use it occasionally. I liked the weight, the panorama windows on both sides and that there is enough space for your gear under the vestibules. I also did not get any holes in the tent floor during my one week trip. The air flow was also ok with both outer tent doors closed but was even better when slightly opened. The mesh of the inner tent seems to be a bit fragile and should be improved to increase the durability of the tent as it looked a bit damaged after a few days. Apart from that I was quite happy with the tent.
 
+<a href="http://www.backcountry.com/marmot-force-ul-2p-tent-2-person-3-season" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Marmot Force UL 2P</button></a>
+
 ---
 
 <script type="text/javascript">
