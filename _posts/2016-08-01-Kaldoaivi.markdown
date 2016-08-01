@@ -91,23 +91,35 @@ We put our dry suites on and hiked 1 km to a lake. The sun was shining and the w
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28693125625/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c2.staticflickr.com/9/8483/28693125625_966273fed2_k.jpg" width="2048" height="1362" alt="Astral V-Eight PFD, HMG Porter and Alpackaraft in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-First we paddled to a rapid and then to a fjell. Then I was testing my new Astral Designs V-Eight PFD with my dry suit and we decided to 
-climb a Fjell afterwards. There were many blueberries. On top of the Fjell we found  a few Koskenkorva bottles. Beside this we had a stunning view over the whole area. An eagle was circling on top of us.
+First we paddled to a rapid and then to a fjell. Then I was testing my new Astral Designs V-Eight PFD with my dry suit and we decided to climb a Fjell afterwards. There were many blueberries. 
 
-Once we walked diwn the Fjell and reached the lake where we left our packrafts, I decided to go for a swim with my PFD but without dry suite. I had plenty of time as Katja noticed that she forgot her hat on the top of the Fjell so she went up again to search for it.
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408874080/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/9/8464/28408874080_4a0515d1da_k.jpg" width="2048" height="1365" alt="Testing Astral V-Eight in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Once Katja returned with her hat we paddled to a sand beach, had a swim and then lunch. Tacos with beans and hazelnut tofu was on the menu. Patrick washed his clothes in the lake while Katja and Caj prepared our meal.
+On top of the Sotavaara Fjell 220 m above the sea level we found  a few Koskenkorva bottles. Beside this we had a stunning view over the whole area. An eagle was circling on top of us.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28661106596/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/9/8765/28661106596_fdc7761fe1_k.jpg" width="2048" height="1365" alt="Climbing Sotavaara Fjell in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+We walked down the Fjell and reached the Leutolahti lake where we left our alpackaraft packrafts. I decided to go for a swim with my PFD but without dry suite. I had plenty of time as Katja noticed that she forgot her hat on the top of the Fjell so she went up again to search for it.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28693130765/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c6.staticflickr.com/9/8346/28693130765_df8b439024_k.jpg" width="2048" height="1360" alt="Swimming and camp fire in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Once Katja returned with her hat we paddled to a sand beach on the Mutusjärvi, had a swim and then lunch. Tacos with beans and hazelnut tofu was on the menu. Patrick washed his clothes in the lake while Katja and Caj prepared our meal.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076095654/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c7.staticflickr.com/9/8600/28076095654_f6ff2e895e_k.jpg" width="2048" height="1368" alt="Sand beach at Leutolahti in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Rapids and a waterfall
+After lunch we jumped into our packrafts and approached the first rapids. We paddled through all of them except the waterfall.
 
-After lunch we approached the first rapids. We paddled through all of them except the waterfall.
+We were paddling on a polpular wilderness fishing river in Finland - the Kaamasjoki - and a fishing permit is needed for those planning to fish here. And indeed, there were many fishermen along the river. At some point we had to start walking in the river since the river became very shallow.
 
-We were paddling on the most popular wilderness fishing river in Finland and a fishing permit is needed for those planning to fish here. And indeed, there were many fishermen along the river. At some point we had to start walking in the river since the river became very shallow.
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28615539861/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c6.staticflickr.com/9/8322/28615539861_ec24449d1a_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P and Thermarest XTherm in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-We pitched our tent at 10pm, made fire and then it started to rain again. On the other side of the river were we had our camp were fishermen and a dog which was chasing birds. After a cup of tea it was time to go sleeping.
+We pitched our tent at 10pm, made fire and then it started to rain again. On the other side of the river were we had our camp were fishermen and a dog which was chasing birds. Once it stoped raining I tried to dry some of my gear. My Thermarest XTherm was completely wet. After a cup of tea it was time to go sleeping.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28615541061/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c6.staticflickr.com/9/8786/28615541061_9d63a0bfd1_k.jpg" width="2048" height="1357" alt="Blå Band camping food in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # Day 3
-The next day it was stullraining in the morning. I woke up at 9 am. Caj and Katja were still sleeping for another hour. I decided to sit in the tent and to wait that it finally stopped raining. 
+The next day it was still raining in the morning. I woke up at 9 am. Caj and Katja were still sleeping for another hour. I decided to sit in the tent and to wait that it finally stopped raining. 
 
 When Caj and Katja climbed out of their tent we prepared fire and breakfast and packed our gear. It was time to paddle again.
 
@@ -133,12 +145,22 @@ At the end of the lake we decided to pitch our tents. And it started to rain aga
 ## Preparing dinner
 Then we started to collect firewood and prepared our dinner. Fortunately, we were able to find the root of a pine tree - which contains tar - so we were able to lit a fire in the rain. 
 
-Mashed potatoes, vegetarian chorizo with onions and paprika in tomatoe sauce was our dinner. Katja dehydrated the vegetables herself and it tastes delicious. Much better than any ready made camping food. At 12pm straight after dinner we went into our tents and skipped the evening tea as we were so tired. It started to rain again.
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076097904/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/9/8607/28076097904_37a9b52446_k.jpg" width="2048" height="1365" alt="Camping in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Mashed potatoes, vegetarian chorizo with onions and paprika in tomatoe sauce was our dinner. Katja dehydrated the vegetables herself and it tastes delicious. Much better than any ready made camping food. At 12 pm straight after dinner we went into our tents and skipped the evening tea as we were so tired. It started to rain again.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28661114216/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/9/8178/28661114216_0250bfefb7_k.jpg" width="2048" height="1365" alt="Rain Lake Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # Day 4
-I woke up at 8 am. The others were still sleeping. Again we had a lot of wind but it was not raining. I decided to walk around and to explore the area a bit with my Sony A7 / Zeiss Batis 25mm combo and took a few pictures until Caj and Katja woke up. We prepared breakfast, packed our gear and crossed the nearby road to the last big lake called Sevettijärvi - a 10 km lake to paddle through. We were quite lucky with the wind as it was blowing in the right direction so we did not have to paddle against it. It was quite and we enjoyed the view towards the fjälls. Just now and then a car passed by  on the road which was going next to the sea. The deppest point of the lake was 43m but we paddled on the right hand side and were able to see the ground of the lake as it was not that deep here. There were plenty of rocks on the ground of the lake and that's probably also the reason why the water of the lake felt warmer than the air (15C).
+I woke up at 8 am. The others were still sleeping. Again we had a lot of wind but it was not raining. I decided to walk around and to explore the area a bit with my Sony A7 / Zeiss Batis 25mm combo and took a few pictures until Caj and Katja woke up. 
 
-At 4.30 pm Caj left us to get the Car and we transported his car to the next sand beach where we agreed to meet. As the wind came sidewards towards us it was a bit harder to paddle. Caj arrived at the sand beach before we were able to reach it. We carried our packrafts to the shore, deflated our packrafts and packed our gear into the car. 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076098984/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/9/8675/28076098984_8e84bae4c0_k.jpg" width="2048" height="1365" alt="Preparing Breakfast - Coffee and Tea - Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+We prepared breakfast, packed our gear and crossed the nearby road to the last big lake - Sevettijärvi - a 10 km lake to paddle through. We were quite lucky with the wind as it was blowing in the right direction so we did not have to paddle against it. It was quite and we enjoyed the view towards the fjälls. Just now and then a car passed by  on the road which was going next to the sea. The deppest point of the lake was 43 m but we paddled on the right hand side and were able to see the ground of the lake as it was not that deep here. There were plenty of rocks on the ground of the lake and that's probably also the reason why the water of the lake felt warmer than the air (15C).
+
+At 4.30 pm Caj left us to get the Car and we transported his car to the next sand beach where we agreed to meet. As the wind came sidewards towards us it was a bit harder to paddle. Caj arrived at the sand beach before we were able to reach it. We carried our packrafts to the shore, deflated our packrafts and packed our gear into the car. While I was wearing only sandals the last 4 days it was now time to wear my hiking boots - Lundhags Jaure Light hiking boots.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28587408802/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c3.staticflickr.com/9/8156/28587408802_46f3cd3050_k.jpg" width="2048" height="1365" alt="Lundhags Jaure Light High  hiking boots in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # A night in a cabin
 This night we dicided to stay in a cabin as most of our gear was wet and we had plans to drive to Norway to see the Arctic Sea which is just a one hour drive away from Sevettijärvi. 
