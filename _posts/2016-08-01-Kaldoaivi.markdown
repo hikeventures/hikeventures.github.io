@@ -45,7 +45,21 @@ After the Siida museum we decided to have lunch in the nearby village. The food 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28587409972/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/9/8740/28587409972_ef30aa5a04_k.jpg" width="2048" height="1310" alt="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # Day 1
-After we recharged with pancakes we went to the starting point of our packrafting trip and inflated our packrafts. There were many mosquitoes when we started to inflate our packrafts and Caj and Katja decided to use some mosquitoe spray. Once we prepared our gear we walked 500 m to the nearby lake and started paddling and finally got rid of the mosquities once we were on the lake.
+After we recharged with pancakes we went to the starting point of our packrafting trip and inflated our packrafts. There were many mosquitoes. Caj and Katja decided to use some mosquitoe spray. 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28693117495/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c8.staticflickr.com/9/8649/28693117495_602896641a_k.jpg" width="2048" height="1339" alt="Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+After a few meters hiking we saw already some cloudberries - those berries taste great and have a lot of Vitamin C.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28587410222/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c7.staticflickr.com/9/8561/28587410222_c5ce9d8e75_k.jpg" width="2048" height="1365" alt="Cloudberries Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Once we reached the lake we prepared our gear and started paddling.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408869970/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c3.staticflickr.com/9/8585/28408869970_fff4932fcf_k.jpg" width="2048" height="1365" alt="Animal Skull Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+The first view minutes were already fantastic and we finally we got rid of the mosquities once we were on the lake.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408870540/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/8/7737/28408870540_09d9641a79_k.jpg" width="2048" height="1365" alt="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## snow mobiles, quad bike and a sunset
 During our trip we came across to many signs which marked the snowmobile path which goes over the lakes during the winter time. We had to step out once we crossed to lake to walk a few hundred meters crossing a reindeer fence until we reached the next lake. After a some paddling it was time to hike again next to a swamp for another 1 km.
