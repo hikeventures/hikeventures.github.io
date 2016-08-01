@@ -103,7 +103,7 @@ We put our dry suites on and hiked 1 km to the Opukasjärvi lake. The sun was sh
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28693125625/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c2.staticflickr.com/9/8483/28693125625_966273fed2_k.jpg" width="2048" height="1362" alt="Opukasjärvi Astral V-Eight PFD, HMG Porter and Alpackaraft in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-First we paddled to a rapid and then to the Opukassokka Fjell on the opposite site of the lake. Then I was testing my new Astral Designs V-Eight PFD with my dry suit and we decided to climb a Fjell afterwards. There were many blueberries. 
+First we paddled to a rapid and then to the Opukassokka Fjell on the opposite site of the lake. Then I was testing my new [Astral Designs V-Eight PFD](http://www.backcountry.com/astral-v-eight-personal-flotation-device) with my dry suit and we decided to climb a Fjell afterwards. There were many blueberries. 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408874080/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/9/8464/28408874080_4a0515d1da_k.jpg" width="2048" height="1365" alt="Testing Astral V-Eight in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -128,7 +128,7 @@ We were paddling one of the most polpular wilderness fishing river in Finland an
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28615539861/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c6.staticflickr.com/9/8322/28615539861_ec24449d1a_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P and Thermarest XTherm in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-We pitched our tent at 10pm, made fire and then it started to rain again. On the other side of the Näätämöjoki were we had our camp were fishermen and a dog which was chasing birds. Once it stoped raining I tried to dry some of my gear. My Thermarest XTherm was completely wet. After a cup of tea it was time to go sleeping.
+We pitched our tent at 10pm, made fire and then it started to rain again. On the other side of the Näätämöjoki were we had our camp were fishermen and a dog which was chasing birds. Once it stoped raining I tried to dry some of my gear. My [Thermarest XTherm](http://www.backcountry.com/therm-a-rest-neoair-xtherm-sleeping-pad) was completely wet. After a cup of tea it was time to go sleeping.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28615541061/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c6.staticflickr.com/9/8786/28615541061_9d63a0bfd1_k.jpg" width="2048" height="1357" alt="Blå Band camping food in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -225,4 +225,4 @@ There was also some sort of art hanging from the tree - a lot of postcards arran
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076101634/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c3.staticflickr.com/9/8787/28076101634_dde2cc7db2_k.jpg" width="2048" height="1365" alt="Postcards Sevettijärvi Art Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Now it's time to drive to Norway to see the Arctic Sea... It's going to be a one hour drive with our car to Kirkoniemi. More soon on our blog.
+Now it's time to drive to Norway to visit the Arctic Sea... It's going to be a one hour drive with our car to Kirkenes. More soon on our blog.
