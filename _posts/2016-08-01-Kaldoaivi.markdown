@@ -90,7 +90,7 @@ Once we pitched our tents we collected firewood and prepared our dinner. We had 
 Suddenly, we heared some voices and saw a group of 4 people hiking against our direction. They were probably hiking to a summer cottage. It was 12pm when we finally fell asleep. It started to rain during the night but we stayed dry in our tents. 
 
 # Day 2
-The next morning I woke up at 9 am. Caj and Katja were still sleeping till 10 am. We prepared porridge, tea and had some ruis chips before we packed our gear and refilled our water bottles on the stream. I used a Sawyer water filter even so it would be probably possible to drink the water straight away from the stream. 
+The next morning I woke up at 9 am. Caj and Katja were still sleeping till 10 am. We prepared porridge, tea and had some ruis chips before we packed our gear and refilled our water bottles on the stream. I used a [Sawyer water filter](https://www.rei.com/product/890900/sawyer-mini-water-filter) even so it would be probably possible to drink the water straight away from the stream and filled my [Nalgene bottle](https://www.rei.com/product/106339/rei-nalgene-wide-mouth-loop-top-water-bottle-32-fl-oz).
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28587411252/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/8/7577/28587411252_fbc6557eca_k.jpg" width="2048" height="1365" alt="Sawyer Water Filter in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -180,7 +180,7 @@ Then we had to paddle to the next section of the Jänisjärvi lake on a stream r
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076106064/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/9/8576/28076106064_4e9dbf76e7_k.jpg" width="2048" height="1536" alt="Jänisjärvi Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Pitching our tents
-At the end of the lake we decided to pitch our tents. And it started to rain again. Pitching a tent in the rain is quite a good test on how fast you can set up a tent when you are in a hurry. On this trip I was testing the Marmot Force UL 2P and had a bit of a trouble to place the outer tent into the right direction since I was not able to see the markings on the outer tent properly. However, the inner tent did not get that wet and I dried the inner tent with my towel. 
+At the end of the lake we decided to pitch our tents. And it started to rain again. Pitching a tent in the rain is quite a good test on how fast you can set up a tent when you are in a hurry. On this trip I was testing the [Marmot Force UL 2P](http://www.backcountry.com/marmot-force-ul-2p-tent-2-person-3-season) and had a bit of a trouble to place the outer tent into the right direction since I was not able to see the markings on the outer tent properly. However, the inner tent did not get that wet and I dried the inner tent with my towel. 
 
 ## Preparing dinner
 Then we started to collect firewood and prepared our dinner. Fortunately, we were able to find the root of a pine tree - which contains tar - so we were able to lit a fire in the rain. 
