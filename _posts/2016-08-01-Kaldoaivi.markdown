@@ -21,7 +21,7 @@ On July 24th at 8.50 am it was time to get on board of the Finnair flight AY557 
 Having been around Ivalo last year during the winter time with Konstantin, I decided to go on a hiking and packrafting trip with [Caj](http://caide.kuvat.fi/) who was also traveling with me earlier this year to the first [Swedish Packrafting Round Up](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/) on the Voxnan river in Sweden. 
 
 # On the plane to Ivalo
-The Finnair flight was quite peacful even so it was fully booked. I was sitting on the second last row of the plane. Usually, I prefer to sit more in the front of thebplane since it's faster to get out and there is no queue of people waiting to get into the toilet. Anyway the cabin crew was friendly and served me free blueberry juice and tea which I was sipping slowly while watching out of the window - clouds passing by below me somewhere over Kajaani. 
+The Finnair flight was quite peacful even so it was fully booked. I was sitting on the second last row of the plane. Usually, I prefer to sit more in the front of the plane since it's faster to get out and there is no queue of people waiting to get into the toilet. Anyway the cabin crew was friendly and served me free blueberry juice and tea which I was sipping slowly while watching out of the window - clouds passing by below me somewhere over Kajaani. 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28587408582/in/dateposted-public/" title="Finnair Flight Kaldoaivi Wilderness Area Finland"><img src="https://c7.staticflickr.com/9/8449/28587408582_f8e2fb27cb_k.jpg" width="2048" height="1194" alt="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -120,7 +120,7 @@ Once Katja returned with her hat we paddled to a sand beach on the Opukasjärvi,
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076095654/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c7.staticflickr.com/9/8600/28076095654_f6ff2e895e_k.jpg" width="2048" height="1368" alt="Sand beach at Opukasjärvi in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Rapids and a waterfall
-After lunch we jumped into our packrafts and approached the Näätämöjoki. We paddled through the whole river except the waterfall.
+After lunch we jumped into our packrafts and approached the Näätämöjoki.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076103474/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c3.staticflickr.com/9/8833/28076103474_f6b0272474_k.jpg" width="2048" height="1536" alt="Näätämöjoki Waterfall in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -128,7 +128,7 @@ We were paddling one of the most polpular wilderness fishing river in Finland an
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28615539861/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c6.staticflickr.com/9/8322/28615539861_ec24449d1a_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P and Thermarest XTherm in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-We pitched our tent at 10pm, made fire and then it started to rain again. On the other side of the Näätämöjoki were we had our camp were fishermen and a dog which was chasing birds. Once it stoped raining I tried to dry some of my gear. My [Thermarest XTherm](http://www.backcountry.com/therm-a-rest-neoair-xtherm-sleeping-pad) was completely wet. After a cup of tea it was time to go sleeping.
+We pitched our tent at 10 pm, made fire and then it started to rain again. On the other side of the Näätämöjoki were we had our camp were fishermen and a dog which was chasing birds. Once it stoped raining I tried to dry some of my gear. My [Thermarest XTherm](http://www.backcountry.com/therm-a-rest-neoair-xtherm-sleeping-pad) was completely wet. After a cup of tea it was time to go sleeping.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28615541061/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c6.staticflickr.com/9/8786/28615541061_9d63a0bfd1_k.jpg" width="2048" height="1357" alt="Blå Band camping food in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
