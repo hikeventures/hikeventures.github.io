@@ -79,6 +79,15 @@ footer: false
             <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Helvetinjärvi</p>
         </div></div></a></div></div>
 
+  <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
+            <a class="thumbnail" href="http://www.hikeventures.com/Kaldoaivi/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
+        <img src="https://c1.staticflickr.com/9/8719/28663962176_3055c55a87_z.jpg" alt="" class="img-responsive">
+        <div class="caption">
+            <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Kaldoaivi</p>
+        </div></div></a></div></div>
+
+
+
         <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/hiking-raisio-kullavuori/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
         <img src="https://farm2.staticflickr.com/1454/26133584902_94ac514aae_z.jpg" alt="" class="img-responsive">
