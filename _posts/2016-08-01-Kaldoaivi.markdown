@@ -134,12 +134,26 @@ The next day it was still raining in the morning. I woke up at 9 am. Caj and Kat
 When Caj and Katja climbed out of their tent we prepared fire and breakfast and packed our gear. It was time to paddle again.
 
 ## Fishermen and a hike
-Patrick paddled the first 30 min and scouted the area while Katja and Caj where packing their backpacks on their packrafts.
+Patrick paddled the first 30 min and scouted the Näätämöjoki river while Katja and Caj were still packing their backpacks on their packrafts.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28615557241/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c2.staticflickr.com/9/8658/28615557241_b51c5e6aae_k.jpg" width="2048" height="1536" alt="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 There were many fishermen, a few huts and smaller rapids along the river. At some point we had to leave the Näätämöjoki, deflated the packrafts and hiked on a trail for about 3 km through an area with rocks and old pine trees until we reached the Syrjäjärvi lake.
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28587426782/in/dateposted-public/" title="Hiking and Alpackaraft Astral Designs V-Eight Packrafting Kaldoaivi Wilderness Area Finland"><img src="https://c7.staticflickr.com/8/7772/28587426782_ae039ba4b8_k.jpg" width="2048" height="1536" alt="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+The trail went up and down. Once we walked the wrong trail and decided to walk off the beaten path to get back to our trail.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28587427062/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c7.staticflickr.com/9/8606/28587427062_f65351ad7b_k.jpg" width="2048" height="1536" alt="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Someone left the root of a pine tree on a stone. They contain tar and are quite useful to prepare a fire when it's wet.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076105124/in/dateposted-public/" title="Pine Tree root tar fire in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/9/8697/28076105124_f165f9f281_k.jpg" width="2048" height="1536" alt="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## Back to the water
-We were paddling again for 1 km until we reached a spot where we had to change to the Rekkiluobâl lake. The two lakes were seperated  by a reindear fence and a small piece of land. Fortunately, we found a door in the fence and were able to carry our packrafts to the other lake. 
+We were paddling again for 1 km until we reached a spot where we had to change to the Rekkiluobâl lake. The two lakes were seperated  by a reindear fence and a small piece of land. Fortunately, we found a door in the fence and were able to carry our packrafts from the Syrjäjärvi to the Rekkiluobâl lake. 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28587409132/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/9/8121/28587409132_a089c32406_k.jpg" width="2048" height="1536" alt="Syrjäjärvi Reindeer Fence in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Two rapids and an accident
 There were 2 rapids which were running against us. At the first rapid we were able to paddle up. On the second rapid we had to step out and walk around it. Caj tried to pull his packraft with a rope up the rapid but it did not work. The packraft flipped and Katja fell into the rapid while she was trying to help Caj. Caj was a bit disappointed after this event and wanted to set the camp but we decided to continue paddling until we found a better spot to camp. 
