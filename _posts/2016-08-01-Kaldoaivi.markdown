@@ -95,36 +95,36 @@ I also discussed the use of ultralight gear on our trips and we both came to the
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408871560/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/9/8631/28408871560_19f702eb26_k.jpg" width="2048" height="1431" alt="Packing Gear Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Hiking, climbing and swimming
-We put our dry suites on and hiked 1 km to a lake. The sun was shining and the water was warm. 
+We put our dry suites on and hiked 1 km to the Opukasjärvi lake. The sun was shining and the water was warm. 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28693125625/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c2.staticflickr.com/9/8483/28693125625_966273fed2_k.jpg" width="2048" height="1362" alt="Astral V-Eight PFD, HMG Porter and Alpackaraft in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28693125625/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c2.staticflickr.com/9/8483/28693125625_966273fed2_k.jpg" width="2048" height="1362" alt="Opukasjärvi Astral V-Eight PFD, HMG Porter and Alpackaraft in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-First we paddled to a rapid and then to a fjell. Then I was testing my new Astral Designs V-Eight PFD with my dry suit and we decided to climb a Fjell afterwards. There were many blueberries. 
+First we paddled to a rapid and then to the Opukassokka Fjell on the opposite site of the lake. Then I was testing my new Astral Designs V-Eight PFD with my dry suit and we decided to climb a Fjell afterwards. There were many blueberries. 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408874080/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/9/8464/28408874080_4a0515d1da_k.jpg" width="2048" height="1365" alt="Testing Astral V-Eight in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-On top of the Sotavaara Fjell 220 m above the sea level we found  a few Koskenkorva bottles. Beside this we had a stunning view over the whole area. An eagle was circling on top of us.
+On top of the Opukassokka Fjell we found  a few Koskenkorva bottles. Beside this we had a stunning view over the whole area. An eagle was circling on top of us.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28661106596/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/9/8765/28661106596_fdc7761fe1_k.jpg" width="2048" height="1365" alt="Climbing Sotavaara Fjell in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28661106596/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/9/8765/28661106596_fdc7761fe1_k.jpg" width="2048" height="1365" alt="Climbing Opukassokka Fjell in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-We walked down the Fjell and reached the Leutolahti lake where we left our alpackaraft packrafts. I decided to go for a swim with my PFD but without dry suite. I had plenty of time as Katja noticed that she forgot her hat on the top of the Fjell so she went up again to search for it.
+We walked down the Opukassokka Fjell and reached the Opukasjärvi lake where we left our alpackaraft packrafts. I decided to go for a swim with my PFD but without dry suite. I had plenty of time as Katja noticed that she forgot her hat on the top of the Fjell so she went up again to search for it.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28693130765/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c6.staticflickr.com/9/8346/28693130765_df8b439024_k.jpg" width="2048" height="1360" alt="Swimming and camp fire in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28693130765/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c6.staticflickr.com/9/8346/28693130765_df8b439024_k.jpg" width="2048" height="1360" alt="Swimming and camp fire in  Opukasjärvi Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Once Katja returned with her hat we paddled to a sand beach on the Mutusjärvi, had a swim and then lunch. Tacos with beans and hazelnut tofu was on the menu. Patrick washed his clothes in the lake while Katja and Caj prepared our meal.
+Once Katja returned with her hat we paddled to a sand beach on the Opukasjärvi, had a swim and then lunch. Tacos with beans and hazelnut tofu was on the menu. Patrick washed his clothes in the lake while Katja and Caj prepared our meal.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076095654/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c7.staticflickr.com/9/8600/28076095654_f6ff2e895e_k.jpg" width="2048" height="1368" alt="Sand beach at Leutolahti in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076095654/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c7.staticflickr.com/9/8600/28076095654_f6ff2e895e_k.jpg" width="2048" height="1368" alt="Sand beach at Opukasjärvi in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Rapids and a waterfall
-After lunch we jumped into our packrafts and approached the first rapids. We paddled through all of them except the waterfall.
+After lunch we jumped into our packrafts and approached the Näätämöjoki. We paddled through the whole river except the waterfall.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076103474/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c3.staticflickr.com/9/8833/28076103474_f6b0272474_k.jpg" width="2048" height="1536" alt="Waterfall in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076103474/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c3.staticflickr.com/9/8833/28076103474_f6b0272474_k.jpg" width="2048" height="1536" alt="Näätämöjoki Waterfall in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-We were paddling on a polpular wilderness fishing river in Finland - the Kaamasjoki - and a fishing permit is needed for those planning to fish here. And indeed, there were many fishermen along the river. At some point we had to start walking in the river since the river became very shallow.
+We were paddling one of the most polpular wilderness fishing river in Finland and a fishing permit is needed for those planning to fish here. And indeed, there were many fishermen along the river. At some point we had to start walking in the river since the river became very shallow.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28615539861/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c6.staticflickr.com/9/8322/28615539861_ec24449d1a_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P and Thermarest XTherm in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-We pitched our tent at 10pm, made fire and then it started to rain again. On the other side of the river were we had our camp were fishermen and a dog which was chasing birds. Once it stoped raining I tried to dry some of my gear. My Thermarest XTherm was completely wet. After a cup of tea it was time to go sleeping.
+We pitched our tent at 10pm, made fire and then it started to rain again. On the other side of the Näätämöjoki were we had our camp were fishermen and a dog which was chasing birds. Once it stoped raining I tried to dry some of my gear. My Thermarest XTherm was completely wet. After a cup of tea it was time to go sleeping.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28615541061/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c6.staticflickr.com/9/8786/28615541061_9d63a0bfd1_k.jpg" width="2048" height="1357" alt="Blå Band camping food in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -136,10 +136,10 @@ When Caj and Katja climbed out of their tent we prepared fire and breakfast and 
 ## Fishermen and a hike
 Patrick paddled the first 30 min and scouted the area while Katja and Caj where packing their backpacks on their packrafts.
 
-There were many fishermen, a few huts and smaller rapids along the river. At some point we had to leave the river, deflated the packrafts and hiked for about 3 km through an area with rocks and old pine trees until we reached the to next lake.
+There were many fishermen, a few huts and smaller rapids along the river. At some point we had to leave the Näätämöjoki, deflated the packrafts and hiked on a trail for about 3 km through an area with rocks and old pine trees until we reached the Syrjäjärvi lake.
 
 ## Back to the water
-We were paddling again for 1 km until we reached a spot where we had to change to another lake which was seperated to our lake by a reindear fence and a small piece of land. Fortunately, we found a door in the fence and were able to carry our packrafts to the other lake. 
+We were paddling again for 1 km until we reached a spot where we had to change to the Rekkiluobâl lake. The two lakes were seperated  by a reindear fence and a small piece of land. Fortunately, we found a door in the fence and were able to carry our packrafts to the other lake. 
 
 ## Two rapids and an accident
 There were 2 rapids which were running against us. At the first rapid we were able to paddle up. On the second rapid we had to step out and walk around it. Caj tried to pull his packraft with a rope up the rapid but it did not work. The packraft flipped and Katja fell into the rapid while she was trying to help Caj. Caj was a bit disappointed after this event and wanted to set the camp but we decided to continue paddling until we found a better spot to camp. 
