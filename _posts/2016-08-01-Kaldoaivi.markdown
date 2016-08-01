@@ -71,10 +71,16 @@ The next lake was 3 km long and we enjoyed a great sunset while we were paddling
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28693118815/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c8.staticflickr.com/9/8630/28693118815_ce6d53cd7b_k.jpg" width="2048" height="1365" alt="Camping in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## At the camp
-Once we pitched our tents we collected firewood and prepared our dinner. We had Pasta with hazenut tofu, tea and brasilian nuts. Suddenly, we heared some voices and saw a group of 4 people hiking against our direction. They were probably hiking to a summer cottage. It was 12pm when we finally fell asleep. It started to rain during the night but we stayed dry in our tents. As this was the first night for me in my new tent which I reeived from Marmot I decided to open both side doors of the tent to get a better air circulation in the the tent.
+Once we pitched our tents we collected firewood and prepared our dinner. We had Pasta with hazenut tofu, tea and brasilian nuts. Suddenly, we heared some voices and saw a group of 4 people hiking against our direction. They were probably hiking to a summer cottage. It was 12pm when we finally fell asleep. It started to rain during the night but we stayed dry in our tents. As this was the first night for me in my new tent which I received from Marmot I decided to open both side doors of the tent to get a better air circulation in the the tent.
 
 # Day 2
-The next morning I woke up at 9 am. Caj and Katja were still sleeping till 10 am. We prepared porridge, tea and had some ruis chips before we packed our gear and refilled our water bottles on the stream. I used a Sawyer water filter even so it would be probably possible to drink the water straight away from the stream. I also discussed the use  of ultralight gear on our trips and we both came to the conclusion that comfort is the most important aspect for us on our trips.
+The next morning I woke up at 9 am. Caj and Katja were still sleeping till 10 am. We prepared porridge, tea and had some ruis chips before we packed our gear and refilled our water bottles on the stream. I used a Sawyer water filter even so it would be probably possible to drink the water straight away from the stream. 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28587411252/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/8/7577/28587411252_fbc6557eca_k.jpg" width="2048" height="1365" alt="Sawyer Water Filter in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+I also discussed the use of ultralight gear on our trips and we both came to the conclusion that comfort is the most important aspect for us on our trips. Then it was time to pack our gear.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408871560/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/9/8631/28408871560_19f702eb26_k.jpg" width="2048" height="1431" alt="Packing Gear Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Hiking, climbing and swimming
 We put our dry suites on and hiked 1 km to a lake. The sun was shining and the water was warm. First we paddled to a rapid and then to a fjell. Then I was testing my new Astral Designs V-Eight PFD with my dry suit and we decided to 
