@@ -53,22 +53,30 @@ After a few meters hiking we saw already some cloudberries - those berries taste
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28587410222/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c7.staticflickr.com/9/8561/28587410222_c5ce9d8e75_k.jpg" width="2048" height="1365" alt="Cloudberries Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Once we reached the lake we prepared our gear and started paddling.
+Once we reached the Ailijärvi lake we prepared our gear and started paddling.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408869970/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c3.staticflickr.com/9/8585/28408869970_fff4932fcf_k.jpg" width="2048" height="1365" alt="Animal Skull Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The first view minutes were already fantastic and we finally we got rid of the mosquities once we were on the lake.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408870540/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/8/7737/28408870540_09d9641a79_k.jpg" width="2048" height="1365" alt="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408870540/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/8/7737/28408870540_09d9641a79_k.jpg" width="2048" height="1365" alt="Ailijärvi Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Snow mobile tracks, quad bike and a sunset
-During our trip we came across to many signs which marked the snowmobile path which goes over the lakes during the winter time. We had to step out once we crossed to lake to walk a few hundred meters crossing a reindeer fence until we reached the next lake. After a some paddling it was time to hike again next to a swamp for another 1 km.
+During our trip we came across to many signs which marked the snowmobile path which goes over the lakes during the winter time. We had to step out once we crossed to Ailijärvi lake to walk a few hundred meters crossing a reindeer fence until we reached the Katriinajärvi lake. 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076102624/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/9/8423/28076102624_cbc2741c07_k.jpg" width="2048" height="1536" alt="Reindeer Fence Katriinajärvi Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+After a some paddling it was time to hike again next to a swamp for another 1 km until we reached the Sundeejärvi lake.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408870920/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/9/8195/28408870920_72569182fb_k.jpg" width="2048" height="1365" alt="Flowers and plants in the Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-The next lake was 3 km long and we enjoyed a great sunset while we were paddling there with our packrafts. Suddenly, we heard a strange sound coming from the forest. A local person was driving with his quad bike transporting some sort of metal sheet behind him generating a horrible noise. Once we reached the end of the lake we stepped out and hiked another 500 meters until we found a good place to pitch our tents.
+The Sundeejärvi lake was 3 km long and we enjoyed a great sunset while we were paddling there with our packrafts. 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28693118815/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c8.staticflickr.com/9/8630/28693118815_ce6d53cd7b_k.jpg" width="2048" height="1365" alt="Camping in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28693144165/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c6.staticflickr.com/9/8604/28693144165_f8b5238f19_k.jpg" width="2048" height="1536" alt="Sunset Sundeejärvi Sevettijärvi Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Suddenly, we heard a strange sound coming from the forest. A local person was driving with his quad bike transporting some sort of metal sheet behind him generating a horrible noise. Once we reached the end of the lake we stepped out and hiked another 500 meters until we found a good place to pitch our tents between the Sundeejärvi and the Opukasjärvi lakes.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28693118815/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c8.staticflickr.com/9/8630/28693118815_ce6d53cd7b_k.jpg" width="2048" height="1365" alt="Opukasjärvi Sundeejärvi Camping in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## At the camp
 Once we pitched our tents we collected firewood and prepared our dinner. We had Pasta with hazenut tofu, tea and brasilian nuts.
@@ -109,6 +117,8 @@ Once Katja returned with her hat we paddled to a sand beach on the Mutusjärvi, 
 
 ## Rapids and a waterfall
 After lunch we jumped into our packrafts and approached the first rapids. We paddled through all of them except the waterfall.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076103474/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c3.staticflickr.com/9/8833/28076103474_f6b0272474_k.jpg" width="2048" height="1536" alt="Waterfall in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 We were paddling on a polpular wilderness fishing river in Finland - the Kaamasjoki - and a fishing permit is needed for those planning to fish here. And indeed, there were many fishermen along the river. At some point we had to start walking in the river since the river became very shallow.
 
