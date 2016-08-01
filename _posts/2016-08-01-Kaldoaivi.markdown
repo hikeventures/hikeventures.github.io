@@ -61,7 +61,7 @@ The first view minutes were already fantastic and we finally we got rid of the m
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408870540/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/8/7737/28408870540_09d9641a79_k.jpg" width="2048" height="1365" alt="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-## snow mobiles, quad bike and a sunset
+## Snow mobile tracks, quad bike and a sunset
 During our trip we came across to many signs which marked the snowmobile path which goes over the lakes during the winter time. We had to step out once we crossed to lake to walk a few hundred meters crossing a reindeer fence until we reached the next lake. After a some paddling it was time to hike again next to a swamp for another 1 km.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408870920/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/9/8195/28408870920_72569182fb_k.jpg" width="2048" height="1365" alt="Flowers and plants in the Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -71,7 +71,11 @@ The next lake was 3 km long and we enjoyed a great sunset while we were paddling
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28693118815/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c8.staticflickr.com/9/8630/28693118815_ce6d53cd7b_k.jpg" width="2048" height="1365" alt="Camping in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## At the camp
-Once we pitched our tents we collected firewood and prepared our dinner. We had Pasta with hazenut tofu, tea and brasilian nuts. Suddenly, we heared some voices and saw a group of 4 people hiking against our direction. They were probably hiking to a summer cottage. It was 12pm when we finally fell asleep. It started to rain during the night but we stayed dry in our tents. As this was the first night for me in my new tent which I received from Marmot I decided to open both side doors of the tent to get a better air circulation in the the tent.
+Once we pitched our tents we collected firewood and prepared our dinner. We had Pasta with hazenut tofu, tea and brasilian nuts.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28587412032/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/8/7645/28587412032_97628b42d7_k.jpg" width="2048" height="1365" alt="Preparing a camp fire in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Suddenly, we heared some voices and saw a group of 4 people hiking against our direction. They were probably hiking to a summer cottage. It was 12pm when we finally fell asleep. It started to rain during the night but we stayed dry in our tents. 
 
 # Day 2
 The next morning I woke up at 9 am. Caj and Katja were still sleeping till 10 am. We prepared porridge, tea and had some ruis chips before we packed our gear and refilled our water bottles on the stream. I used a Sawyer water filter even so it would be probably possible to drink the water straight away from the stream. 
