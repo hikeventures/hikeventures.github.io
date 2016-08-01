@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Packrafting in Finnish Lapland - Kaldoivi Wilderness Area
+title: Packrafting in Finnish Lapland - Kaldoaivi Wilderness Area
 date: '2016-08-01 14:41'
 comments: true
 published: true
