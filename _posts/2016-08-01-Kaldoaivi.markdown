@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Packrafting in Finnish Lapland - Kaldoivi Wilderness Area
-date: '2016-08-01 07:41'
+date: '2016-08-01 14:41'
 comments: true
-published: false
+published: true
 description: A packrafting adventures in the Finnish Lapland.
 category: destinations
 tags:
@@ -13,6 +13,10 @@ tags:
   - packrafting
 ---
 On July 24th at 8.50 am it was time to get on board of the Finnair flight AY557 which departed from Helsinki for a 1 hours and 20 minutes flight north to Ivalo - deep in Finnish Lapland. 1 week of hiking and packrafting in the Kaldoaivi Wilderness Area was in front of me - including a visit to Siida, a museum which displays Saami art and culture. Having bought a museum card for Finland (59 EUR) I was able to visit most of the museums for 1 year. Since entrance to a museum in Finland usually costs around 9-10 EUR it's more than worth to buy it if you travel around in Finland.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28693113745/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c2.staticflickr.com/8/7562/28693113745_b251e02b0e_k.jpg" width="2048" height="1536" alt="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<!--more-->
 
 Having been around Ivalo last year during the winter time with Konstantin, I decided to go on a hiking and packrafting trip with Caj who was also traveling with me earlier this year to the first Swedish Packrafting Round Up on the Voxnan river in Sweden. 
 
@@ -169,6 +173,8 @@ Caj showing our location on the map.
 ## Two big lakes
 We reached the Räkkijärvi lake and there were 2 cottages on the shore. One person was sitting in front of a cottage and we also saw a lot of smoke coming out of his chemney. He also had a propeller plane which can land on lakes. We enjoyed the silence and were lucky with the wind which was blowing in our direction so we did not have to paddle that hard.
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28077388483/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c4.staticflickr.com/9/8678/28077388483_760324b730_k.jpg" width="2048" height="1536" alt="Räkkijärvi Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Then we had to paddle to the next section of the Jänisjärvi lake on a stream running against us and then for another hour on the lake while enjoying the scenery. There was a higher Fjell at the end of the lake with an antenna on it. This was more or less the place where we were planning to set up our camp and we pulled out our packrafts from the lake.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076106064/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/9/8576/28076106064_4e9dbf76e7_k.jpg" width="2048" height="1536" alt="Jänisjärvi Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -190,9 +196,15 @@ I woke up at 8 am. The others were still sleeping. Again we had a lot of wind bu
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076098984/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/9/8675/28076098984_8e84bae4c0_k.jpg" width="2048" height="1365" alt="Preparing Breakfast - Coffee and Tea - Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-We prepared breakfast, packed our gear and crossed the nearby road to the last big lake - Sevettijärvi - a 10 km lake to paddle through. We were quite lucky with the wind as it was blowing in the right direction so we did not have to paddle against it. It was quite and we enjoyed the view towards the fjälls. Just now and then a car passed by  on the road which was going next to the sea. The deppest point of the lake was 43 m but we paddled on the right hand side and were able to see the ground of the lake as it was not that deep here. There were plenty of rocks on the ground of the lake and that's probably also the reason why the water of the lake felt warmer than the air (15C).
+We prepared breakfast, packed our gear and crossed the nearby road to the last big lake - Sevettijärvi - a 10 km lake to paddle through. We were quite lucky with the wind as it was blowing in the right direction so we did not have to paddle against it. It was quite and we enjoyed the view towards the fjälls. Just now and then a car passed by  on the road which was going next to the sea. The deepest point of the lake was 43 m but we paddled on the right hand side and were able to see the ground of the lake as it was not that deep here. There were plenty of rocks on the ground of the lake and that's probably also the reason why the water of the lake felt warmer than the air (15C).
 
-At 4.30 pm Caj left us to get the Car and we transported his car to the next sand beach where we agreed to meet. As the wind came sidewards towards us it was a bit harder to paddle. Caj arrived at the sand beach before we were able to reach it. We carried our packrafts to the shore, deflated our packrafts and packed our gear into the car. While I was wearing only sandals the last 4 days it was now time to wear my hiking boots - Lundhags Jaure Light hiking boots.
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28077388243/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c4.staticflickr.com/9/8794/28077388243_b4fbb82428_k.jpg" width="2048" height="1536" alt="Packrafting Sevettijärvi in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+At 4.30 pm Caj left us to get the Car and we transported his car to the next sand beach where we agreed to meet. As the wind came sidewards towards us it was a bit harder to paddle. Caj arrived at the sand beach before we were able to reach it. We carried our packrafts to the shore, deflated our packrafts and packed our gear into the car. 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076106854/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c7.staticflickr.com/9/8727/28076106854_cebbb1a9e2_k.jpg" width="2048" height="1536" alt="Alpackaraft Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+While I was wearing only sandals the last 4 days it was now time to wear my hiking boots - Lundhags Jaure Light hiking boots.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28587408802/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c3.staticflickr.com/9/8156/28587408802_46f3cd3050_k.jpg" width="2048" height="1365" alt="Lundhags Jaure Light High  hiking boots in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
