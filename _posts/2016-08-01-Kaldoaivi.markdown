@@ -12,7 +12,7 @@ tags:
   - Kaldoaivi
   - packrafting
 ---
-On July 24th at 8.50am it was time to get on board of the Finnair flight AY557 which departed from Helsinki for a 1 hours and 20 minutes flight north to Ivalo - deep in Finnish Lapland. 1 week of hiking and packrafting in the Kaldoaivi Wilderness Area was in front of me - including a visit to Siida, a museum which displays Saami art and culture. Having bought a museum card for Finland (59 EUR) I was able to visit most of the museums for 1 year. Since entrance to a museum usually costs around 9-10 EUR it's more than worth it if you travel around in Finland.
+On July 24th at 8.50 am it was time to get on board of the Finnair flight AY557 which departed from Helsinki for a 1 hours and 20 minutes flight north to Ivalo - deep in Finnish Lapland. 1 week of hiking and packrafting in the Kaldoaivi Wilderness Area was in front of me - including a visit to Siida, a museum which displays Saami art and culture. Having bought a museum card for Finland (59 EUR) I was able to visit most of the museums for 1 year. Since entrance to a museum usually costs around 9-10 EUR it's more than worth it if you travel around in Finland.
 
 Having been around Ivalo last year during the winter time with Konstantin, I decided to go on a hiking and packrafting trip with Caj who was also traveling with me earlier this year to the first Swedish Packrafting Round Up on the Voxnan river in Sweden. 
 
@@ -59,7 +59,7 @@ We were paddling on the most popular wilderness fishing river in Finland and a f
 We pitched our tent at 10pm, made fire and then it started to rain again. On the other side of the river were we had our camp were fishermen and a dog which was chasing birds. After a cup of tea it was time to go sleeping.
 
 # Day 3
-The next day it was stullraining in the morning. I woke up at 9am. Caj and Katja were still sleeping for another hour. I decided to sit in the tent and to wait that it finally stopped raining. 
+The next day it was stullraining in the morning. I woke up at 9 am. Caj and Katja were still sleeping for another hour. I decided to sit in the tent and to wait that it finally stopped raining. 
 
 When Caj and Katja climbed out of their tent we prepared fire and breakfast and packed our gear. It was time to paddle again.
 
