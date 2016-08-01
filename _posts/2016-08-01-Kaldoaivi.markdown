@@ -148,7 +148,7 @@ The trail went up and down. Once we walked the wrong trail and decided to walk o
 
 Someone left the root of a pine tree on a stone. They contain tar and are quite useful to prepare a fire when it's wet.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076105124/in/dateposted-public/" title="Pine Tree root tar fire in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/9/8697/28076105124_f165f9f281_k.jpg" width="2048" height="1536" alt="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076105124/in/dateposted-public/" title="Pine Tree root tar fire in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/9/8697/28076105124_f165f9f281_k.jpg" width="2048" height="1536" alt="Pine tree tar fire Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Back to the water
 We were paddling again for 1 km until we reached a spot where we had to change to the Rekkiluobâl lake. The two lakes were seperated  by a reindear fence and a small piece of land. Fortunately, we found a door in the fence and were able to carry our packrafts from the Syrjäjärvi to the Rekkiluobâl lake. 
@@ -156,12 +156,22 @@ We were paddling again for 1 km until we reached a spot where we had to change t
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28587409132/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/9/8121/28587409132_a089c32406_k.jpg" width="2048" height="1536" alt="Syrjäjärvi Reindeer Fence in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Two rapids and an accident
-There were 2 rapids which were running against us. At the first rapid we were able to paddle up. On the second rapid we had to step out and walk around it. Caj tried to pull his packraft with a rope up the rapid but it did not work. The packraft flipped and Katja fell into the rapid while she was trying to help Caj. Caj was a bit disappointed after this event and wanted to set the camp but we decided to continue paddling until we found a better spot to camp. 
+There were 2 rapids which were running against us until we reached the Räkkijärvi. At the first rapid we were able to paddle up the stream. On the second rapid - the Täyttämakoski - we had to step out and walk around it. 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28587427752/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/8/7596/28587427752_2e355a574e_k.jpg" width="2048" height="1536" alt="Täyttämakoski Rapid in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Caj tried to pull his packraft with a rope up the Täyttämakoski rapid but it did not work. The packraft flipped and Katja fell into the rapid while she was trying to help Caj. Caj was a bit disappointed after this event and wanted to set the camp but we decided to continue paddling until we found a better spot to camp. 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28077386593/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c2.staticflickr.com/9/8625/28077386593_77bb162c11_k.jpg" width="2048" height="1536" alt="Map in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Caj showing our location on the map.
 
 ## Two big lakes
-We reached a bigger lake and there were 2 cottages on the shore. One person was sitting in front of a cottage and we also saw a lot of smoke coming out of his chemney. He also had a propeller plane which can land on lakes. We enjoyed the silence and were lucky with the wind which was blowing in our direction so we did not have to paddle that hard.
+We reached the Räkkijärvi lake and there were 2 cottages on the shore. One person was sitting in front of a cottage and we also saw a lot of smoke coming out of his chemney. He also had a propeller plane which can land on lakes. We enjoyed the silence and were lucky with the wind which was blowing in our direction so we did not have to paddle that hard.
 
-Then we had to paddle to the next section of the lake on a stream running against us and then for another hour on the lake while enjoying the scenery. There was a higher Fjell at the end of the lake with an antenna on it. This was more or less the place where we were planning to set up our camp.
+Then we had to paddle to the next section of the Jänisjärvi lake on a stream running against us and then for another hour on the lake while enjoying the scenery. There was a higher Fjell at the end of the lake with an antenna on it. This was more or less the place where we were planning to set up our camp and we pulled out our packrafts from the lake.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076106064/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/9/8576/28076106064_4e9dbf76e7_k.jpg" width="2048" height="1536" alt="Jänisjärvi Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Pitching our tents
 At the end of the lake we decided to pitch our tents. And it started to rain again. Pitching a tent in the rain is quite a good test on how fast you can set up a tent when you are in a hurry. On this trip I was testing the Marmot Force UL 2P and had a bit of a trouble to place the outer tent into the right direction since I was not able to see the markings on the outer tent properly. However, the inner tent did not get that wet and I dried the inner tent with my towel. 
