@@ -87,7 +87,11 @@ I also discussed the use of ultralight gear on our trips and we both came to the
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408871560/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/9/8631/28408871560_19f702eb26_k.jpg" width="2048" height="1431" alt="Packing Gear Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Hiking, climbing and swimming
-We put our dry suites on and hiked 1 km to a lake. The sun was shining and the water was warm. First we paddled to a rapid and then to a fjell. Then I was testing my new Astral Designs V-Eight PFD with my dry suit and we decided to 
+We put our dry suites on and hiked 1 km to a lake. The sun was shining and the water was warm. 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28693125625/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c2.staticflickr.com/9/8483/28693125625_966273fed2_k.jpg" width="2048" height="1362" alt="Astral V-Eight PFD, HMG Porter and Alpackaraft in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+First we paddled to a rapid and then to a fjell. Then I was testing my new Astral Designs V-Eight PFD with my dry suit and we decided to 
 climb a Fjell afterwards. There were many blueberries. On top of the Fjell we found  a few Koskenkorva bottles. Beside this we had a stunning view over the whole area. An eagle was circling on top of us.
 
 Once we walked diwn the Fjell and reached the lake where we left our packrafts, I decided to go for a swim with my PFD but without dry suite. I had plenty of time as Katja noticed that she forgot her hat on the top of the Fjell so she went up again to search for it.
