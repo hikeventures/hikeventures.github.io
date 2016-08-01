@@ -94,7 +94,7 @@ The next morning I woke up at 9 am. Caj and Katja were still sleeping till 10 am
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28587411252/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/8/7577/28587411252_fbc6557eca_k.jpg" width="2048" height="1365" alt="Sawyer Water Filter in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-I also discussed the use of ultralight gear on our trips and we both came to the conclusion that comfort is the most important aspect for us on our trips. Then it was time to pack our gear.
+I also discussed the use of ultralight gear on our trips and we both came to the conclusion that comfort is the most important aspect for us on our trips. I was using my new [Western Mountaineering Versalite](http://www.backcountry.com/western-mountaineering-versalite-super-sleeping-bag-10-degree-down-wes0034) sleeping bag on this trip and I never felt cold.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408871560/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/9/8631/28408871560_19f702eb26_k.jpg" width="2048" height="1431" alt="Packing Gear Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
