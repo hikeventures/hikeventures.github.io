@@ -163,6 +163,20 @@ At 4.30 pm Caj left us to get the Car and we transported his car to the next san
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28587408802/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c3.staticflickr.com/9/8156/28587408802_46f3cd3050_k.jpg" width="2048" height="1365" alt="Lundhags Jaure Light High  hiking boots in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # A night in a cabin
-This night we dicided to stay in a cabin as most of our gear was wet and we had plans to drive to Norway to see the Arctic Sea which is just a one hour drive away from Sevettijärvi. 
+This night we dicided to stay in a cabin as most of our gear was wet and we had plans to drive to Norway to see the Arctic Sea which is just a one-two hours drive away from Sevettijärvi. 
 
-Once we arrived at the cabin place we had a pancake, booked a sauna and hanged our clothes to dry.  The cabin including pandcakes, coffee, tea and sauna was 74 EUR which is reasonably priced and actually quite cheap for an accomodation in Finland. At 10.30 we fell asleep with a few mosquitoes flying around in our cabin. The next morning we woke up at 9 am, had some pancakes and packed our bags. On the way to the main road we passed by an old russian cemetary. Most of the names on the grave stones had similar last names. There was also some sort of art hanging from the tree - a lot of postcards arranged in the shape of Finland, with postcards from different places in Finland. Now it's time to drive to Norway to see the Arctic Sea... It's going to be a one hour drive with our car. More soon on our blog.
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28077375743/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c8.staticflickr.com/9/8279/28077375743_8aff836117_k.jpg" width="2048" height="1033" alt="Peuralammen Camping Sevettijärvi in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Once we arrived at the Peuralammen Camping in Sevettijärvi we had a pancake, booked a sauna and hanged our clothes to dry.  
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076099554/in/dateposted-public/" title="Sauna Peuralammen Camping in Sevettijärvi Finland"><img src="https://c3.staticflickr.com/9/8478/28076099554_30c0a65388_k.jpg" width="2048" height="1365" alt="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+The cabin including pandcakes, coffee, tea and sauna was 74 EUR which is reasonably priced and actually quite cheap for an accomodation in Finland. At 10.30 we fell asleep with a few mosquitoes flying around in our cabin. The next morning we woke up at 9 am, had some pancakes and packed our bags. On the way to the main road we passed by an old Russian cemetery. Most of the names on the grave stones had similar last names. 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28077378033/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c2.staticflickr.com/9/8808/28077378033_bb05d3a443_k.jpg" width="2048" height="1365" alt="Orthodox Cemetery Sevettijärvi Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+There was also some sort of art hanging from the tree - a lot of postcards arranged in the shape of Finland, with postcards from different places in Finland. 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076101634/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c3.staticflickr.com/9/8787/28076101634_dde2cc7db2_k.jpg" width="2048" height="1365" alt="Postcards Sevettijärvi Art Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Now it's time to drive to Norway to see the Arctic Sea... It's going to be a one hour drive with our car to Kirkoniemi. More soon on our blog.
