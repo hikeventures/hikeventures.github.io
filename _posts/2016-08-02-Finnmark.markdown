@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hiking and Packrafting in Norway - Finnmark
+title: Hiking and Packrafting in Northern Norway - Finnmark
 date: '2016-08-02 07:41'
 comments: true
 published: true
