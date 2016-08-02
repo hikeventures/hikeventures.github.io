@@ -343,6 +343,22 @@ footer: false
 
 <div class="row">
 <div class="col-lg-12">
+               <center> <h2 class="page-header">Norway</h2></center>
+            </div>
+
+             <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
+            <a class="thumbnail" href="http://www.hikeventures.com/Finnmark/" style="color: #FFF; border: 0px;">
+        <div class="thumbnail text-center">
+        	<img src="https://c7.staticflickr.com/9/8584/28100945734_3347f11b6b_o.jpg" alt="" class="img-responsive">
+        <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Varanger Fjord</p>
+        </div></div></a></div></div>
+
+
+</div>
+
+
+<div class="row">
+<div class="col-lg-12">
                <center> <h2 class="page-header">Lithuania</h2></center>
             </div>
 
