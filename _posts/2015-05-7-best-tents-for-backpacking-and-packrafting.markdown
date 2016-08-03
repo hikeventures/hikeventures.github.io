@@ -48,7 +48,7 @@ The Marmot Force UL 2P is a freestanding 2-person tent for 3 seasons.
 **Weight:** 1.320 kg   
 **Area inner tent:** 2.6 m²   
 
-The Marmot Force UL 2P is a new freestanding tent which comes in a super light package. The Marmot Force UL 2P also uses a very thin tent fabric so you should also handle it carefully. I would also get a [tent footprint](http://www.backcountry.com/marmot-force-ul-2p-footprint) with this tent. I will use the Marmot Force UL 2P this year in Scandinavia as a 1 person tent.
+The Marmot Force UL 2P is a new freestanding tent which comes in a super light package. The Marmot Force UL 2P also uses a very thin tent fabric so you should also handle it carefully. I would also get a [tent footprint](http://www.backcountry.com/marmot-force-ul-2p-footprint) with this tent. I will use the Marmot Force UL 2P this year in Scandinavia as a 1 person tent. I have used the Marmot Force UL 2P on my trips in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/) and [Norway](http://www.hikeventures.com/Finnmark/).
 
 <a href="http://www.backcountry.com/marmot-force-ul-2p-tent-2-person-3-season"><button type="button" class="btn btn-danger">Read more about the Marmot Force UL 2P</button></a> 
 
