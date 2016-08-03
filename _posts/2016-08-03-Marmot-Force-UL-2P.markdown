@@ -13,7 +13,7 @@ published: true
 ---
 A few weeks ago I received the Marmot Force UL 2P from Marmot to test it on my summer trips in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/) and [Norway](http://www.hikeventures.com/Finnmark/). I was interested in the Marmot Force UL 2P as I was looking for a light 3-season solo tent which can also handle somewhat stronger winds on the Norwegian coast.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408877980/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/9/8664/28408877980_66faf6d0b7_b.jpg" width="683" height="1024" alt="Marmot Force UL 2P Test"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716081045/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Norway"><img src="https://c6.staticflickr.com/9/8173/28716081045_3a83f76f0a_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 <!--more-->
@@ -22,8 +22,7 @@ A few weeks ago I received the Marmot Force UL 2P from Marmot to test it on my s
 # Initial thoughts
 My first thoughts were that the tent is very light but also found that one peg was missing and that a small piece of the inner tent mesh was a bit distorted. I was a bit worried that the inner tent may not survive one week in the wilderness. The fabric of the tent is quite thin and I was considering using an additional tent footprint under the tent to avoid getting holes into the tent floor. However, I decided to use the tent without the additional tent footprint to test the durability of the tent floor.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408877980/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/9/8664/28408877980_664284aaa5_k.jpg" width="1365" height="2048" alt="Marmot Force UL 2P inner tent"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408877980/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/9/8664/28408877980_66faf6d0b7_b.jpg" width="683" height="1024" alt="Marmot Force UL 2P Test"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 That's how it looks like when you lie in the Marmot tent. There were plenty of mosquitoes on my trip in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/).
 
 ---
