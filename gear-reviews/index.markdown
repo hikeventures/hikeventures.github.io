@@ -257,9 +257,9 @@ published: true
         </tr>
         <tr>
 
-
+<td><a href="/gear-review-katabatic-gear-chisos">Katabatic Gear Chisos Quilt</a></td>
               <td><a href="/Marmot-Force-UL-2P/" target="_self">Marmot Force UL 2P</a></td>
-            <td><a href="/gear-review-katabatic-gear-chisos">Katabatic Gear Chisos Quilt</a></td>
+            
           
 
          </tr>
