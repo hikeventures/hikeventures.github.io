@@ -38,7 +38,6 @@ I pitched the tent the first time without using any manual as I piteched already
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28098548314/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Norway"><img src="https://c3.staticflickr.com/9/8759/28098548314_3618ccb134_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-
 ---
 
 # Features
@@ -68,25 +67,26 @@ I used the pocket over my head to store my ear plugs.
 
 ---
 
-# Negative
-* Outer tent is not self standing. Not possible to remove inner tent from outer tent when it's raining.
-* The foot part could be a bit higher but it's sufficient.
-* Inner tent mesh is a bit fragile.
-* Pegs could be of better quality / lighter.
+# Positive
+* Can handle stronger winds if pitched correctly.
+* The Inner tent is self-supporting (pegs needed to create proper room in the tent)
+* Two vestibules to store a lot of gear. 
+* Two doors allows entrance and exit from both sides of the tent.
+* It's possible to sit in the tent.
+* Space for additional gear next to the sleeping pad.
+* Many pockets on the inner tent to store your phone or earplugs.
+* Big side windows on both sides for panorama view and air ventilation.
+* Tent floor seems to be quite durable. No holes after a one week trip in Finnish Lapland and Norway.
+* Inner tent is completely made of mesh which allows star gazing if used without the outer tent.
 
 ---
 
-# Positive
-* Can handle stronger wind but I would probably get a stronger tent if I were planning to go to a very exposed area.
-* The Inner tent is self-supporting (pegs needed to create proper room in the tent)
-* Two vestibules to store a lot of gear. Also allows entrance and exit from both sides of the tent.
-* Air flow is quite good.
-* Tent hight is ok to sit in it.
-* Space for additional gear inside the inner tent.
-* Many pockets inside the tent to store your phone or earplugs.
-* Big side windows on both sides for panorama view.
-* Tent floor seems to be quite durable. No holes after a one week trip in Finnish Lapland and Norway.
-* Inner tent is made of mesh which allows star gazing if used without the outer tent.
+# Negative
+* Outer tent is not self standing. Not possible to first remove inner tent from the outer tent when it's raining to keep the inner tent dry.
+* Inner tent mesh is a bit fragile and distortes easily.
+* Pegs could be of better quality / lighter.
+
+---
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28587415592/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/8/7722/28587415592_24c832102f_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P Inner Tent Mesh"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -95,7 +95,7 @@ I liked that the inner tent was made completely of mesh.
 ---
 
 # Conclusion
-I would recommend the Marmot Force UL 2P if you use it occasionally. I liked the weight, the panorama windows on both sides and that there is enough space for your gear under the vestibules. I also did not get any holes in the tent floor during my one week trip. The air flow was also ok with both outer tent doors closed but was even better when slightly opened. The mesh of the inner tent seems to be a bit fragile and should be improved to increase the durability of the tent as it looked a bit damaged after a few days. Apart from that I was quite happy with the tent.
+I would recommend the Marmot Force UL 2P if you need a light 3-season solo tent. I liked the weight, the panorama windows on both sides and that there is enough space for your gear under the vestibules. I also did not get any holes in the tent floor during my one week trip. The air flow was also ok with both outer tent doors closed but was even better when slightly opened. The mesh of the inner tent seems to be a bit fragile and should be improved to increase the durability of the tent as the inner mesh tent looked a bit damaged after a few days. Apart from that I was quite happy with the tent.
 
 <a href="http://www.backcountry.com/marmot-force-ul-2p-tent-2-person-3-season" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Marmot Force UL 2P</button></a>
 
