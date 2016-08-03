@@ -72,6 +72,7 @@ I used the pocket over my head to store my ear plugs.
 * Outer tent is not self standing. Not possible to remove inner tent from outer tent when it's raining.
 * The foot part could be a bit higher but it's sufficient.
 * Inner tent mesh is a bit fragile.
+* Pegs could be of better quality / lighter.
 
 ---
 
