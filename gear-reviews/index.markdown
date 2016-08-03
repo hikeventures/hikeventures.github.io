@@ -258,18 +258,18 @@ published: true
         <tr>
 
 
-            
+              <td><a href="/Marmot-Force-UL-2P/" target="_self">Marmot Force UL 2P</a></td>
             <td><a href="/gear-review-katabatic-gear-chisos">Katabatic Gear Chisos Quilt</a></td>
-            <td><a href="/mountain-equipment-ar-ultralite-2/" target="_self">Mountain Equipment AR Ultralite 2</a></td>
+          
 
          </tr>
        
        
         <tr>
 
-
+  <td><a href="/mountain-equipment-ar-ultralite-2/" target="_self">Mountain Equipment AR Ultralite 2</a></td>
             <td><a href="http://www.hikeventures.com/Therm-a-Rest-EvoLite/">Therm-a-Rest EvoLite</a></td>
-            <td></td>
+            
 
          </tr>
 
