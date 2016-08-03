@@ -59,7 +59,7 @@ I pitched the tent the first time without using any manual as I pitched already 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076097384/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/9/8069/28076097384_1992cf13e2_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P pockets"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-There are plenty of pockets in the tent to store small gear and snacks.
+There are plenty of pockets in the tent to store small gear (e.g. iPhone) and snacks.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28615542111/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c8.staticflickr.com/9/8840/28615542111_bca0e35f77_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P pockets"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
