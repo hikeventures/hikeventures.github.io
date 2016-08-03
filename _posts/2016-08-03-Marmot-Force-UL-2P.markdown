@@ -46,14 +46,14 @@ I pitched the tent the first time without using any manual as I pitched already 
 * The tent has a volume optimized structure which promised more livable space.
 * Two doors and two vestibules makes it easy for 2 people to get in and out as well as organize gear.
 * The tent has a freestanding design which allows to pitch it also in difficult terrain.
-* A lamp shade pocket holds your headlamp
-* Color Coded "Easy Pitch" clips and poles
-* Interior pockets to organize small gear
-* Light-Reflective Points
-* Weight: 2lbs 14.5oz (1320g)
-* Tent floor fabric: 20D
-* Vestibule area: 7.9 sq ft, 0.73 sq m | 3.8 sq ft, 0.35 sq m
-* Tent floor area: 28 sq ft, 2.6 sq m
+* A lamp shade pocket holds your headlamp    
+* Color Coded "Easy Pitch" clips and poles    
+* Interior pockets to organize small gear    
+* Light-Reflective Points    
+* Weight: 2lbs 14.5oz (1320g)     
+* Tent floor fabric: 20D     
+* Vestibule area: 7.9 sq ft, 0.73 sq m | 3.8 sq ft, 0.35 sq m    
+* Tent floor area: 28 sq ft, 2.6 sq m    
 * Tent dimensions: 38 x 50 x 85in, 97 x 127 x 214cm
 * Tent weight: 1300 grams
 
