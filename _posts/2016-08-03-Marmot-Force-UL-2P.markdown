@@ -53,7 +53,8 @@ I pitched the tent the first time without using any manual as I pitched already 
 * Light-Reflective Points    
 * Weight: 2lbs 14.5oz (1320g)     
 * Tent floor fabric: 20D     
-* Vestibule area: 7.9 sq ft, 0.73 sq m | 3.8 sq ft, 0.35 sq m    
+* Vestibule area 1: 7.9 sq ft, 0.73 sq m    
+* Vestibule area 2: 3.8 sq ft, 0.35 sq m    
 * Tent floor area: 28 sq ft, 2.6 sq m    
 * Tent dimensions: 38 x 50 x 85in, 97 x 127 x 214cm
 * Tent weight: 1300 grams
