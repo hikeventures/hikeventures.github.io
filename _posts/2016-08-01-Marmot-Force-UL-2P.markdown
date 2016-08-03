@@ -11,9 +11,9 @@ tags:
 description: Review of the Marmot Force UL 2P
 published: false
 ---
-A few weeks ago I received the Marmot Force UL 2P from Marmot to test it on my summer trips in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/) and [Norway](http://www.hikeventures.com/Finnmark/).
+A few weeks ago I received the Marmot Force UL 2P from Marmot to test it on my summer trips in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/) and [Norway](http://www.hikeventures.com/Finnmark/). I was interested in the Marmot Force UL 2P as I was looking for a light 3-season solo tent which can also handle winds on the Norwegian coast.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28098548314/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Norway"><img src="https://c3.staticflickr.com/9/8759/28098548314_3618ccb134_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716081045/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Norway"><img src="https://c6.staticflickr.com/9/8173/28716081045_3a83f76f0a_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P Test"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
@@ -29,7 +29,7 @@ That's how it looks like when you lie in the Marmot tent. There were plenty of m
 # Pitching the tent
 I pitched the tent without using any manual as I piteched already quite many tents in the past. I would say that it is quite easy to pitch the tent once you know in which direction the long pole should go and once you find the markings on the outer tent to set it up into the right direction. The tent only requires 6 pegs. There are also velcro straps on the outer tent to attach them to the poles. Pitching the tent a second time was much faster once I knew how to set it up correctly.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716081045/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Norway"><img src="https://c6.staticflickr.com/9/8173/28716081045_3a83f76f0a_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P Test"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28098548314/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Norway"><img src="https://c3.staticflickr.com/9/8759/28098548314_3618ccb134_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 ---
