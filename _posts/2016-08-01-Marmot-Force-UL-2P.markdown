@@ -11,7 +11,7 @@ tags:
 description: Review of the Marmot Force UL 2P
 published: false
 ---
-A few weeks ago I received the Marmot Force UL 2P from Marmot to test it on my summer trip in Finnish Lapland. Once I received the tent I pitched it in our yard to pre-check if it would be suitable for my trip.
+A few weeks ago I received the Marmot Force UL 2P from Marmot to test it on my summer trips in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/) and [Norway](http://www.hikeventures.com/Finnmark/).
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28098548314/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Norway"><img src="https://c3.staticflickr.com/9/8759/28098548314_3618ccb134_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
