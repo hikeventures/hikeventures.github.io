@@ -27,14 +27,14 @@ That's how it looks like when you lie in the Marmot tent. There were plenty of m
 ---
 
 # Field testing
-I was testing the Marmot Force UL 2P on a one week trip in Finnish Lapland and in Northern Norway at the coast of the Arctic Sea. It was raining every night and in Norway we had strong winds. We pitched our tents in the direction of the wind nearby the coast on a more wind protected area but the wind was still considerably strong. At one point the tent got a bit flat because of the wind so I would probably not use it on a very exposed area on the Norwegian coast. However, I was able to sleep in the tent every night without having any issues.
+I was testing the Marmot Force UL 2P on a one week trip in Finnish Lapland and in Northern Norway at the coast of the Arctic Sea. It was raining every night and in Norway we had strong winds. We pitched our tents in the direction of the wind nearby the coast on a more wind protected area but the wind was still considerably strong. At one point the tent got a bit flat because of the wind so I would probably not use it on a very exposed area on the Norwegian coast. However, I was able to sleep comfortably in the tent one week without having any issues.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28431574600/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Norway"><img src="https://c1.staticflickr.com/9/8634/28431574600_c262b110ef_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P on HMG Porter 4400 backpack"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
 # Pitching the tent
-I pitched the tent without using any manual as I piteched already quite many tents in the past. I would say that it is quite easy to pitch the tent. I only struggled a bit at the beginning to find the markings on the outer tent to lay it into the right direction on top of the inner tent. The tent only requires 6 pegs so pitching the tent goes relatively fast. There are also several velcro straps on the outer tent to attach the outer tent properly to the poles. Pitching the tent a second time was much faster once I knew how to set it up correctly.
+I pitched the tent the first time without using any manual as I piteched already quite many tents in the past. I would say that it is quite easy to pitch the tent. I only struggled a bit to lay the outer tent into the right direction on top of the inner tent because I did not notice the markings on the outer tent. The tent only requires 6 pegs so pitching the tent goes relatively fast. There are also several velcro straps on the outer tent to attach the outer tent properly to the poles. Pitching the tent a second time was much faster once I knew how to set it up correctly.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28098548314/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Norway"><img src="https://c3.staticflickr.com/9/8759/28098548314_3618ccb134_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
