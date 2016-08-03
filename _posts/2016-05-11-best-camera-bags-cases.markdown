@@ -168,6 +168,10 @@ Silica gel absorbs moisture in the camera bag. It's always a good idea to have 1
 # Conclusion
 From my point of view there is no best camera bag which fits every situation but having the right camera gear for different activities is essential to protect your gear and also to enjoy photography with your Sony A7 or a6300 more. I hope you are able to find your camera bag for your next hiking, backpacking, kayaking or packrafting adventure.
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716060755/in/photolist-JP8CEz-JNYoHW-KKxjpM-pbERVy" title="Hiking and Packrafting in Norway"><img src="https://c4.staticflickr.com/9/8606/28716060755_0596cd42cf_k.jpg" width="2048" height="1365" alt="Lowepro Nova Sport 7L AW Camera Bag A7 Batis 25"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+With the Lowepro Nova Sport 7L in [Northern Norway](http://www.hikeventures.com/Finnmark/).
+
 ---
 
 <script type="text/javascript">
