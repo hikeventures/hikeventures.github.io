@@ -20,6 +20,10 @@ A few weeks ago I received the Marmot Force UL 2P from Marmot to test it on my s
 # Materials
 My first thoughts were that the tent is very light but also found that one peg was missing and that a small piece of the inner tent mesh (about 1cm2) was a bit damaged. However as I received the tent for testing it was ok but I was not sure if this tent will survive 1 week in the wilderness. The fabric is quite thin and I was considering using an additional floor sheet under the tent to avoid getting holes into the tent floor. Weight is of course a marketing feature but I would rather carry a few more grams with me rather than having a less durable tent.
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408877980/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/9/8664/28408877980_664284aaa5_k.jpg" width="1365" height="2048" alt="Marmot Force UL 2P inner tent"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+That's how it looks like when you lie in the Marmot tent. There were plenty of mosquitoes on my trip in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/).
+
 ---
 
 # Pitching the tent
