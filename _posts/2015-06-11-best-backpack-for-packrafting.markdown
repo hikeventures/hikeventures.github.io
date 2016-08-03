@@ -104,4 +104,4 @@ My favourite backpack is still the [HMG Porter 4400](https://www.hyperlitemounta
 ---
 
 # Disclosure
-The products in this article have not been tested by us. This page contains affiliate links. Read more [here](http://www.hikeventures.com/about/).
+I have used the HMG Porter 4400 on my recent trips in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/) and [Norway](http://www.hikeventures.com/Finnmark/). Other products in this article have not been tested by us. This page contains affiliate links. Read more [here](http://www.hikeventures.com/about/).
