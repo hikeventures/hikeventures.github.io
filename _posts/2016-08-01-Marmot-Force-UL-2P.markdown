@@ -17,12 +17,19 @@ A few weeks ago I received the Marmot Force UL 2P from Marmot to test it on my s
 
 ---
 
-# Materials
-My first thoughts were that the tent is very light but also found that one peg was missing and that a small piece of the inner tent mesh (about 1cm2) was a bit damaged. However as I received the tent for testing it was ok but I was not sure if this tent will survive 1 week in the wilderness. The fabric is quite thin and I was considering using an additional floor sheet under the tent to avoid getting holes into the tent floor. Weight is of course a marketing feature but I would rather carry a few more grams with me rather than having a less durable tent.
+# Initial thoughts
+My first thoughts were that the tent is very light but also found that one peg was missing and that a small piece of the inner tent mesh (about 1 cm2) was a bit damaged. When I received the tent for testing it was ok but I was not sure if this tent will survive 1 week in the wilderness. The fabric of the tent is quite thin and I was considering using an additional floor sheet under the tent to avoid getting holes into the tent floor. Weight is of course a marketing feature but I would rather carry a few more grams with me rather than having a less durable tent.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408877980/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/9/8664/28408877980_664284aaa5_k.jpg" width="1365" height="2048" alt="Marmot Force UL 2P inner tent"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 That's how it looks like when you lie in the Marmot tent. There were plenty of mosquitoes on my trip in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/).
+
+---
+
+# Field testing
+I was testing the Marmot Force UL 2P on a one week trip in Finnish Lapland and in Norway at the coast of the Arctic Sea. It was raining every night and in Norway we had strong wind. We pitched our tents in the direction of the wind nearby the coast on a more wind protected area but the wind was still considerably strong. At one point the tent got a bit flat because of the wind so I would probably not use it on a very exposed area on the Norwegian coast. However, I was able to sleep in the tent every night without having any issues.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28431574600/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Norway"><img src="https://c1.staticflickr.com/9/8634/28431574600_c262b110ef_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P on HMG Porter 4400 backpack"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
@@ -31,13 +38,6 @@ I pitched the tent without using any manual as I piteched already quite many ten
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28098548314/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Norway"><img src="https://c3.staticflickr.com/9/8759/28098548314_3618ccb134_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-
----
-
-# Field testing
-I was testing the Marmot Force UL 2P on a one week trip in Finnish Lapland and in Norway at the Arctic Sea. It was raining every night and in Norway we had strong wind. I was not sure if the Marmot tent could handle the strong wind but I was able to sleep in it the whole night without any issues.
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28431574600/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Norway"><img src="https://c1.staticflickr.com/9/8634/28431574600_c262b110ef_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P on HMG Porter 4400 backpack"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
