@@ -1,0 +1,9 @@
+---
+layout: post
+title: Teijo National Park
+date: '2016-08-08 13:44 +0200'
+description: A hiking day in the Teijo National Park in Finland
+category: destinations
+published: false
+tags: [destinations, hiking, finland]
+---
