@@ -83,7 +83,7 @@ The Mountain Hardwear Plasmic Pants are slightly more heavy than the Montane pan
 **Weight:** 205 grams   
 **Fabric:** Pertex Shield 2.5 Layer
 
-The Rab Fuse Pants are lightest-weight waterproof pants from Rab. They also feature knee articulation. 
+The Rab Fuse Pants are the lightest-weight waterproof pants from Rab. They also feature knee articulation. 
 
 <a href="http://www.campsaver.com/fuse-pant-men-s"><button type="button" class="btn btn-danger">Read more about the Rab Fuse Pants</button></a>  
 
