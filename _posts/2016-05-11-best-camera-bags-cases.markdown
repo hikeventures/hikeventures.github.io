@@ -184,7 +184,7 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Search Results from Amazon";
-amzn_assoc_default_search_phrase = "dslr camera bag";
+amzn_assoc_default_search_phrase = "A7 camera bag";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "c2f0c4818ccf2afe65d6fdcba299fde6";
 </script>
