@@ -182,7 +182,7 @@ footer: false
         
         
          <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
-            <a class="thumbnail" href="http://www.hikeventures.com/Packrafting-Aura-River-Turku/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
+            <a class="thumbnail" href="http://www.hikeventures.com/Teijo/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
         <img src="https://c8.staticflickr.com/9/8791/28230945743_9c5c4503b4_z.jpg" alt="Teijo National Park" class="img-responsive">
         <div class="caption">
             <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Teijo National Park</p>
