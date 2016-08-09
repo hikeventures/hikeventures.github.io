@@ -1,25 +1,35 @@
 ---
 layout: post
 title: Teijo National Park
-date: '2016-08-08 13:44 +0200'
+date: '2016-08-09 07:14 +0200'
 description: A hiking day in the Teijo National Park in Finland
 category: destinations
-published: false
+published: true
 tags: [destinations, hiking, finland]
 ---
-
+Last weekend I visited the Teijo National Park located South-East of Turku about 1.15 hours to drive from there. Teijo National Park has a lot of variety like lakes, marshes, forests, marshes and a sea bay and the marked trails are easy to hike. Teijo National Park is suitable for those who don't have much hiking experience.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28739977592/in/dateposted-public/" title="Teijo National Park Finland"><img src="https://c1.staticflickr.com/9/8198/28739977592_c89797e4f9_k.jpg" width="2048" height="1152" alt="Hiking Teijo National Park Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <!--more-->
 
+I parked my car nearby the nature center at Matildanjärvi. The nature center offers plenty of information about the national park and you can also get a free copy of a map. 
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28813689916/in/dateposted-public/" title="Teijo National Park Finland"><img src="https://c5.staticflickr.com/9/8443/28813689916_31dbb3c565_k.jpg" width="2048" height="1152" alt="Hiking Teijo National Park Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+I hiked along the trail along Matildanjärvi. On the trail are several fire places and lean-to shelters. I passed by at Kavanderinlahti - where a group of girls had prepared their camp for the night - and Roosinniemi before leaving Matildanjärvi.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28813721986/in/dateposted-public/" title="Teijo National Park Finland"><img src="https://c3.staticflickr.com/9/8720/28813721986_1a01fe7f57_k.jpg" width="2048" height="1152" alt="Hiking Teijo National Park Finland Nature Center"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+While hiking I dicided to add Puolakkajärvi to my trip as well - the next nearby located lake to Matildanjärvi. 
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28739997002/in/dateposted-public/" title="Teijo National Park Finland"><img src="https://c3.staticflickr.com/9/8725/28739997002_00ee1f7273_k.jpg" width="2048" height="1152" alt="Teijo National Park Finland Information Board"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+Puolakkajärvi is partly located outside of the Teijo National Park which is ok to hike but nothing special until you reach the Endal lean-to shelter.
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28739996282/in/dateposted-public/" title="Teijo National Park Finland"><img src="https://c3.staticflickr.com/9/8754/28739996282_70ec19a291_k.jpg" width="2048" height="1152" alt="Teijo National Park Finland Signs"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+From Endal I continued walking to Teerisaari, Vicksbäckinlahti and then back to Matildanjärvi where Isoholma was the last lean-to shelter on the way back to my starting point.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28227593504/in/dateposted-public/" title="Teijo National Park Finland"><img src="https://c1.staticflickr.com/8/7535/28227593504_781d6da6eb_k.jpg" width="2048" height="1152" alt="Teijo National Park Finland Stairs"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -41,3 +51,5 @@ tags: [destinations, hiking, finland]
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28844973025/in/dateposted-public/" title="Teijo National Park Finland"><img src="https://c2.staticflickr.com/9/8759/28844973025_74264e78a7_k.jpg" width="2048" height="1152" alt="Teijo National Park Finland Matildanjärvi"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28769027071/in/dateposted-public/" title="Teijo National Park Finland"><img src="https://c8.staticflickr.com/9/8646/28769027071_11f570ecdb_k.jpg" width="2048" height="1152" alt="Teijo National Park Finland Trail"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Teijo National Park is a great place to escape to the nature, it's close to Turku and offers plenty of facilities. I will probably come back here in a few months during the winter to try out some winter camping.
