@@ -144,7 +144,7 @@ The list I have compiled is sorted by the weight of the pants and not by their p
 If you are planning to go skiing then you should maybe consider waterproof pants with Gore-Tex Pro or Active shell. However, those pants will be more heavy than the models listed below and also take more space in your backpack so I have not considered them in my list. Generally speaking, you will sweat in all waterproof clothes if you are active. However, some are a little bit more breathable than others. I had good experience with Pertex Shield so far.
 
 ## Features and weight
-You should consider if you really need 3/4 length side zips or pockets on your pants. They are nice to have features but they will come with some additional weight. Please note that I have not tested the products myself (except the Montane Minimus Pants).
+You should consider if you really need 3/4 length side zips or pockets on your pants. They are nice to have features but they will come with some additional weight.
 
 I hope you found this article useful to find your best men rain pants in 2016.
 
