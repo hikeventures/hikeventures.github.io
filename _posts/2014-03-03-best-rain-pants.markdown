@@ -76,6 +76,19 @@ The Mountain Hardwear Plasmic Pants are slightly more heavy than the Montane pan
 
 ---
 
+### [Rab Fuse Pants](http://www.campsaver.com/fuse-pant-men-s)
+
+<a href="https://www.amazon.com/gp/product/B00UMIW9JU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UMIW9JU&linkCode=as2&tag=hikeve-20&linkId=055e9dee0e87b8f31ff80a02c6308d6c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00UMIW9JU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00UMIW9JU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight:** 205 grams   
+**Fabric:** Pertex Shield 2.5 Layer
+
+The Rab Fuse Pants are lightest-weight waterproof pants from Rab. They also feature knee articulation. 
+
+<a href="http://www.campsaver.com/fuse-pant-men-s"><button type="button" class="btn btn-danger">Read more about the Rab Fuse Pants</button></a>  
+
+---
+
 ### [Haglöfs L.I.M. III pants](http://www.backcountry.com/haglfs-l.i.m.-iii-pant-mens)
 
 **Weight:** 225 grams   
@@ -97,21 +110,6 @@ The Haglöfs L.I.M. III pants are part of Haglöfs Ultralight product range and 
 SL stands for Super Light in the Arcteryx product range. This model is reinforced in key wear areas, has articulated knees but only comes with lower leg zippers.
 
 <a href="http://www.backcountry.com/arcteryx-beta-sl-pant-mens"><button type="button" class="btn btn-danger">Read more about the Arcteryx Beta SL Pants</button></a>  
-
----
-
-### [Rab Xiom Pants](http://www.campsaver.com/xiom-pant-men-s)
-
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00J9TT81K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00J9TT81K&linkCode=as2&tag=hikeve-20&linkId=MHJSBR5TLFK3KQRM"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00J9TT81K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00J9TT81K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Weight:** 270 grams   
-**Fabric:** Pertex Shield+ 3L
-
-The Rab Xiom Pants come in a more durable fabric than the Montane pants listed above. They also have 3/4 length side zips. These pants also features and elastic waistband with drawcord (as most of the models listed above). If some more durability and 3/4 length side zips are important for you then you should go for these pants rather than choosing super lightweight pants.
-
-<a href="http://www.campsaver.com/xiom-pant-men-s"><button type="button" class="btn btn-danger">Read more about the Rab Xiom Pants</button></a>  
-
-Montane Minimus pants on our [packrafting trip](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1) in Sweden.
 
 ---
 
@@ -139,7 +137,6 @@ The Rab Firewall Pants are made for active use during winter. The Rab Firewall p
 </div>
 
 ---
-
 
 The list I have compiled is sorted by the weight of the pants and not by their performance. Why I sorted them by weight? Well, usually you only wear waterproof pants when it rains. When it stops raining you will pack your waterproof pants back into your backpack. The pants in my list are for emergency situations so they will also pack quite small as the Montane Minimus pants (see picture above). Also consider to take a [waterproof jacket](http://www.hikeventures.com/best-rain-jackets) with you.
 
