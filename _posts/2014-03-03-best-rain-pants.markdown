@@ -13,7 +13,7 @@ tags:
   - pants
 published: true
 ---
-Planning to go hiking or backpacking or any other backcountry adventure? Then you should consider to pack lightweight rain pants in into your backpack and here is our buying guide of the best men rain pants for 2016. If the weather turns nasty you will be happy to have rain gear to stay dry and warm on the trail. The models which we have selected are rain pants for men. We have not tested those rain pants ourselves but we compared their specifications. The rain pants are sorted according to their weight. Most models are also available for women. Below you can see Patrick filtering water with the Montane Minimus Pants in the [Sarek National Park in Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/).
+Planning to go hiking or backpacking or any other backcountry adventure? Then you should consider to pack lightweight rain pants in into your backpack and here is our buying guide of the best men rain pants for 2016. If the weather turns nasty you will be happy to have rain gear to stay dry and warm on the trail. The models which we have selected are rain pants for men. We have not tested those rain pants ourselves but we compared their specifications. The rain pants are sorted according to their weight. Most models are also available for women.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9598980244" title="Montane Minimus Pants"><img src="https://farm4.staticflickr.com/3767/9598980244_fccc7cd8c6_b.jpg" width="1024" height="683" alt="Montane Minimus Pants"></a>
 
