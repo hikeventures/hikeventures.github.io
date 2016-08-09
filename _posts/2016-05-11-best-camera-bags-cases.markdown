@@ -170,7 +170,7 @@ From my point of view there is no best camera bag which fits every situation but
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716060755/in/photolist-JP8CEz-JNYoHW-KKxjpM-pbERVy" title="Hiking and Packrafting in Norway"><img src="https://c4.staticflickr.com/9/8606/28716060755_0596cd42cf_k.jpg" width="2048" height="1365" alt="Lowepro Nova Sport 7L AW Camera Bag A7 Batis 25"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-With the Lowepro Nova Sport 7L in [Northern Norway](http://www.hikeventures.com/Finnmark/).
+With the <a href="http://amzn.to/29YPNOV" rel="nofollow">Lowepro Nova Sport 7L</a> in [Northern Norway](http://www.hikeventures.com/Finnmark/).
 
 ---
 
