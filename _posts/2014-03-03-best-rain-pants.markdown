@@ -27,9 +27,10 @@ Planning to go hiking or backpacking or any other backcountry adventure? Then yo
 | [Montane Minimus Pants](http://www.campsaver.com/minimus-pants-men-s) | &nbsp; 0.31 lb / 141 g |
 | [Montane Atomic Pants](http://www.moosejaw.com/moosejaw/shop/product_Montane-Men-s-Atomic-Pant_10276270_10208_10000001_-1_)      | 0.41 lb / 185 g | 
 | [Mountain Hardwear Plasmic Pant](http://www.backcountry.com/mountain-hardwear-plasmic-pant-mens)     | 0.45 lb / 204 g |
+| [Rab Fuse Pants](http://www.campsaver.com/fuse-pant-men-s) | 0.45 lb / 205 g  | 
 | [Haglöfs L.I.M. III pants](http://www.backcountry.com/haglfs-l.i.m.-iii-pant-mens) |  0.5 lb / 225 g |
 | [Arcteryx Beta SL Pants](http://www.backcountry.com/arcteryx-beta-sl-pant-mens) | 0.6 lb / 260 g |
-| [Rab Xiom Pants](http://www.campsaver.com/xiom-pant-men-s) | 0.61 lb / 270 g  | 
+| [Rab Firewall Pants](http://www.campsaver.com/firewall-pant-men-s) | 0.7 lb / 319 g  | 
 
 > Table sorted by weight
 
@@ -113,6 +114,20 @@ The Rab Xiom Pants come in a more durable fabric than the Montane pants listed a
 Montane Minimus pants on our [packrafting trip](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1) in Sweden.
 
 ---
+
+### [Rab Firewall Pants](http://www.campsaver.com/firewall-pant-men-s)
+
+<a href="https://www.amazon.com/gp/product/B01C644O04/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01C644O04&linkCode=as2&tag=hikeve-20&linkId=0ab2f639df8dd66b00bcd42eed08d32a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01C644O04&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01C644O04" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight:** 319 grams   
+**Fabric:** Pertex Shield+ 3L
+
+The Rab Firewall Pants are made for active use during winter. The Rab Firewall pants comes with an elasticated waistband and knee articulations and are compatible with winter boots.
+
+<a href="http://www.campsaver.com/firewall-pant-men-s"><button type="button" class="btn btn-danger">Read more about the Rab Firewall Pants</button></a> 
+
+---
+
 
 ## Discounts
 <div class="row">
