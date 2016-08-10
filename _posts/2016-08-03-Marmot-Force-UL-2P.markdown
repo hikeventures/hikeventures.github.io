@@ -91,9 +91,9 @@ I used the pocket over my head to store my ear plugs.
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28587415592/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/8/7722/28587415592_24c832102f_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P Inner Tent Mesh"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28600247640/in/dateposted-public/" title="Marmot Force UL 2P"><img src="https://c1.staticflickr.com/9/8648/28600247640_efe63d8e8f_k.jpg" width="2048" height="1152" alt="Marmot Force UL 2P"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-I liked that the inner tent was completely made of mesh.
+I liked that the inner tent was completely made of mesh. Here you can see the Marmot Force UL 2P on our trip in [Northern Norway](http://www.hikeventures.com/Finnmark/).
 
 ---
 
