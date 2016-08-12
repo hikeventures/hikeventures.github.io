@@ -89,8 +89,9 @@ My name is Jacob Kastrup Haagensen and I am a 34 year old Dane living in Copenha
 
 ## Germany
 
-### <a href="http://airfreshing.com">airfreshing.com</a>
+### <a href="http://abenteuer-almanach.de/">abenteuer-almanach.de</a>
 
+### <a href="http://airfreshing.com">airfreshing.com</a>
 Das Team von airFreshing.com besteht aus Bergfüchsen, Frischluftfans und ambitionierten Freizeitsportler. Und alle verfügen über das, was das erfrischend andere Outdoor-Onlinemagazin so erfolgreich macht: Leidenschaft. Seit 2009 behalten wir über das komplette Jahr hinweg immer alles im Blick, was unsere Leser wirklich interessiert – vom Testbericht über Eventhinweise bis hin zu den neuesten Trends im Outdoor- und Bergsportbereich. <a href="https://www.facebook.com/airFreshing/"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/airfreshing"><i class="fa fa-twitter"></i></a>  <a href="https://www.instagram.com/airfreshing/"><i class="fa fa-instagram"></i></a>
 
 ### <a href="http://www.auf-den-berg.de/">auf-den-berg.de</a>
