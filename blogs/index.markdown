@@ -99,6 +99,7 @@ Das Team von airFreshing.com besteht aus Bergfüchsen, Frischluftfans und ambiti
 
 ### <a href="http://www.frankenlandler.com/">frankenlandler.com</a>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28851407721/in/dateposted-public/" title="FrankenLandler"><img src="https://c2.staticflickr.com/9/8717/28851407721_8f9c7811de_c.jpg" width="533" height="800" alt="FrankenLandler"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+   
 Good day, I'm Oli - also known as the Franken Landler. Franken Landler is the new blog from the Nurnberger country with hiking descriptions from Franconia and the Alps. Exxpect to read easy family hikes combined with tips and news around hiking and nature.
 <a href="https://www.facebook.com/frankenlandler/"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/FrankenLandler"><i class="fa fa-twitter"></i></a>  <a href="https://www.instagram.com/frankenlandler/"><i class="fa fa-instagram"></i></a>
 
