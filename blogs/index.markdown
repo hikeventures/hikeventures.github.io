@@ -102,6 +102,9 @@ Are you intersted in trekking? Do you plan your own tour? Are you looking for th
 ### <a href="http://www.tarjasblog.de/">tarjasblog.de</a>
 Finland & Photography. Tarjas blog covers everything about Finland and the Finns. Nature, events, culture, midnight sun or polar lights. <a href="https://www.facebook.com/tarjasblog.de/"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/TarjaP_"><i class="fa fa-twitter"></i></a>  <a href="https://www.instagram.com/tarjasblog.de/"><i class="fa fa-instagram"></i></a> <a href="https://plus.google.com/u/0/108253975957652260757"><i class="fa fa-google-plus"></i></a> 
 
+### <a href="http://www.traumsteige.com/">traumsteige.com</a>
+<a href="https://www.facebook.com/Traumsteige1/"><i class="fa fa-facebook"></i></a> 
+
 ### <a href="http://outdoorfever.de/">outdoorfever.de</a>
 <a href="https://www.facebook.com/outdoorfever.de"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/outdoorfever"><i class="fa fa-twitter"></i></a>  <a href="http://www.flickr.com/photos/kraxel-magazin/"><i class="fa fa-flickr"></i></a>  <a href="https://plus.google.com/+OutdoorfeverDe/posts"><i class="fa fa-google-plus"></i></a>  <a href="https://www.pinterest.com/outdoorfever/"><i class="fa fa-pinterest"></i></a>
 
