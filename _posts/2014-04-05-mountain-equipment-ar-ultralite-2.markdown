@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mountain Equipment AR Ultralite 2
+title: Mountain Equipment AR Ultralite 2 Review
 date: "2014-04-05 08:44:22 +0300"
 comments: true
 description: "Mountain Equipment AR Ultralite 2 - Ultralight tent"
@@ -32,3 +32,20 @@ The pegs and poles of the Mountain Equipment AR Ultralite 2 are made of Aluminiu
 <a href="https://www.flickr.com/photos/90204224@N07/13637524555/" ><img src="https://farm6.staticflickr.com/5315/13637524555_745a8c097d_b.jpg" width="1024" height="683" ></a>
 
 Timo, the owner of the Mountain Equipment AR Ultralite 2 has not tested the Mountain Equipment AR Ultralite 2 extensively but will keep us updated with a more expensive review of the Mountain Equipment AR Ultralite 2 after his first trips. below.
+
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Search Results for Ultralight Tent";
+amzn_assoc_default_search_phrase = "ultralight tent";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
