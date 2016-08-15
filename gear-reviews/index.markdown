@@ -157,19 +157,22 @@ published: true
             <td><a href="/anfibio-packsuit/">Anfibio Packsuit</a></td>
              </tr>
 <tr>
-            <td><a href="/astral-ytv">Astral YTV</a></td>
+<td><a href="/astral-v-eight/">Astral Designs V-Eight</a></td>
+            <td><a href="/astral-ytv">Astral Designs YTV</a></td>
            
 
-      <td><a href="/petzl-meteor-3-plus-helmet">Petzl Meteor 3+ Helmet</a></td>
+
       
        </tr>
 <tr>
+      <td><a href="/petzl-meteor-3-plus-helmet">Petzl Meteor 3+ Helmet</a></td>
       <td><a href="/Sea-to-Summit-Ultra-Flex-Booties">Sea to Summit Ultra Flex Booties</a></td>
-      <td><a href="/gear-preview-werner-shuna-paddles">Werner Shuna Paddles</a></td>
+      
 </tr>
 <tr>
+<td><a href="/gear-preview-werner-shuna-paddles">Werner Shuna Paddles</a></td>
       <td><a href="/windpaddle-sails-for-packrafting">WindPaddle Sail</a></td>
-      <td></td>
+      
      
 </tr>
         
