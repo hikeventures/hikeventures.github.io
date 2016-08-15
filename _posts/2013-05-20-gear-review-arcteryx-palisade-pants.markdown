@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Arcteryx Palisade Pants
+title: Arcteryx Palisade Pants Review
 date: "2013-05-20 20:21"
 comments: true
 description: "Lightweight and fast drying - Arcteryx Palisade Pants Review"
@@ -8,7 +8,7 @@ category: reviews
 tags: [reviews, arcteryx, pants]
 ---
 
-After having had my Fj&auml;llr&auml;ven Abisko pants for over 2 years during my hiking, backpacking and packrafting trips I was in the market to look for new pants. I was looking for pants which are quick-drying, minimalistic and lightweight. The minimalistic feature is quite important for me as I might need to pull over my waterproof pants when I go packrafting. After having had several options in my mind I finally pulled the trigger on the Arcteryx Palisade Pants.
+After having had my Fj&auml;llr&auml;ven Abisko pants for over 2 years during my hiking, backpacking and packrafting trips I was in the market to look for new pants. I was looking for pants which are quick-drying, minimalistic and lightweight. The minimalistic feature is quite important for me as I might need to pull over my waterproof pants when I go packrafting. After having had several options in my mind I finally pulled the trigger on the Arcteryx Palisade Pants and here comes a short review.
    
 <a href="https://www.flickr.com/photos/90204224@N07/8758780310" title="Arcteryx Palisade Pants"><img src="https://farm6.staticflickr.com/5343/8758780310_499eaf5e63_b.jpg" width="1024" height="683" alt="Arcteryx Palisade Pants Ultralight hiking pants"></a>
 
