@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Petzl Meteor 3+ Helmet
+title: Petzl Meteor 3+ Helmet Review
 date: "2014-04-17 18:01:01 +0200"
 comments: true
 published: true
@@ -11,7 +11,7 @@ tags: [reviews, petzl, helmet, packrafting]
 
 For our packrafting trips we were looking for a suitable helmet and came across the Petzl Meteor 3+ helmet which has also a certification to be used as a watersports helmet (see Petzl website for more details). A helmet is an important safety tool which we are also using for slower rapids where you can e.g. also get stuck in a tree and fall out of the packraft. Here comes a short review of a helmet which I found to be one of the best lightweight packrafting helmets available.
    
-<a href="https://www.flickr.com/photos/90204224@N07/13884350431/" ><img src="https://farm8.staticflickr.com/7383/13884350431_55197840aa_b.jpg" width="683" height="1024" alt="Petzl Meteor 3 helmet"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/13884350431/" ><img src="https://farm8.staticflickr.com/7383/13884350431_55197840aa_b.jpg" width="683" height="1024" alt="Petzl Meteor 3 helmet review"></a>
 
 ## Features
 The Petzl Meteor 3+ Helmet is certified for climbing and watersports and weights 235 grams. There are clips to attach a headlamp and the headband is adjustable. There are ventilation holes on the helmet and an adjustable chinstrap with magnetic buckle. The helmet also comes with a storage bag. Certification(s): CE EN 12492, UIAA (escalade).
@@ -42,4 +42,20 @@ Petzl Meteor 3+ helmet worked well on our packrafting trip in the Netherlands.
 ## Recommendation
 The Petzl Meteor 3+ is comfortable to wear and a lightweight helmet which can easily be transported on your backpack along your outdoor trips. It's just worth to have some additional safety especially on your head since rivers can be unpredictable and you may also lose control of your packraft. The helmet also vents nicely so I was not really sweating under it. It's also possible to wear some sort of fleece cap under it if you plan to go packrafting during the colder days of the year.
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B004LYNR7Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004LYNR7Y&linkCode=as2&tag=hikeve-20&linkId=GLC3LN3VJWSWQKCX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004LYNR7Y&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B004LYNR7Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.usoutdoor.com/petzl-charlet/petzl-meteor-iii-plus-climbing-helmet/"><button type="button" class="btn btn-danger">Read more about the Petzl Meteor 3</button></a>
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Search Results for Salomon Speedcross";
+amzn_assoc_default_search_phrase = "petzl meteor";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
