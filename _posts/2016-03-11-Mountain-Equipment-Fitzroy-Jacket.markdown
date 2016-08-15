@@ -54,9 +54,9 @@ amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_title = "Insulated Jacket Suggestions";
-amzn_assoc_default_search_phrase = "insulated jacket men north face";
+amzn_assoc_title = "Search Results for PFDs";
+amzn_assoc_default_search_phrase = "primaloft gold jacket";
 amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "01e41640c72b4d87bf9d65f3f64a24eb";
+amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
