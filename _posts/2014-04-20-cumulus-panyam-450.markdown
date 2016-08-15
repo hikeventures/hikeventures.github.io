@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cumulus Panyam 450
+title: Cumulus Panyam 450 Review
 date: "2014-04-20 12:13:17 +0300"
 comments: true
 description: "Cumulus Panyam 450 - Great 3 Season Sleeping Bag"
@@ -34,3 +34,19 @@ Cumulus Panyam 450 in <a href="http://hikeventures.com/hiking-and-packrafting-in
 The trapezoid chamber baffling system delivers a higher degree of warmth compared to other baffling systems. There is a full-length zipper on the sleeping bag which helps to ventilate if it is getting too warm in the Panyam 450. It's also quite easy to get the sleeping bag in the stuff sack which comes with the Panyam 450. 
 
 Moreover, the elastic hood and collar worked perfectly and kept me warm in my sleeping bag. As I was looking for a 3 season sleeping bag I was so far very happy with the Panyam 450 and would recommend it. Also there was no need to have a heavy synthetic sleeping bag if you just take care that the down does not get wet i.e. having a proper air ventilation in your tent or dry your sleeping bag in the sun while you rest e.g. while having breakfast in the morning. <a href="http://www.hikeventures.com/packrafting-the-eman-river/">Here</a> is another trip where we were packrafting the Eman river in Sweden and took our Cumulus Panyam 450 with us.
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Search Results for Sleeping Bags";
+amzn_assoc_default_search_phrase = "down sleeping bag";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
