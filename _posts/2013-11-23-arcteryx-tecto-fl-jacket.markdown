@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Arcteryx Tecto FL Jacket
+title: Arcteryx Tecto FL Jacket Review
 date: "2013-12-15 09:50"
 comments: true
 description: Great waterproof jacket for activities outdoors
