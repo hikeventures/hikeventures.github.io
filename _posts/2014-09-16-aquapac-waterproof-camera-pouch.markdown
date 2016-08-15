@@ -25,4 +25,20 @@ This bag is small and fits easily into every backpack. You can carry it with a s
 ## Recommendation
 Manufacturing and materials seems to have high quality on the Aquapac Waterproof Camera Pouch. This seems to be a good bag for outdoor activities where water is involved. However, I found it a bit difficult to access the camera quickly. The Ortlieb camera bags seems to be a better alternative regarding accessing your camera quickly.  The Aquapac  Waterproof Camera Pouch has 5 years warranty and is PVC free. The Aquapac customer service was also helpful. I always got an answer to my emails and was promised to send the pouch bag in case the size would be too small.
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B0044LRNVA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0044LRNVA&linkCode=as2&tag=hikeve-20&linkId=TLHHU3NTMDDWFUYC"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0044LRNVA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0044LRNVA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.sunnysports.com/nspc/p-apcspcp/aquapac-storm-proof-camera-pouch/"><button type="button" class="btn btn-danger">Read more about the Aquapac Camera Pouch</button></a> 
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Search Results for PFDs";
+amzn_assoc_default_search_phrase = "aquapac camera";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
