@@ -60,9 +60,9 @@ amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_title = "Sleeping Pad Suggestions";
-amzn_assoc_default_search_phrase = "therm-a-rest";
+amzn_assoc_title = "Search Results for PFDs";
+amzn_assoc_default_search_phrase = "quilt camping";
 amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "3b59edd59f23213f9e3bbcd8046ee503";
+amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
