@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Montane Minimus Smock
+title: Montane Minimus Smock Review
 date: "2013-05-14 18:21"
 comments: true
 description: Montane Minimus Smock Review
