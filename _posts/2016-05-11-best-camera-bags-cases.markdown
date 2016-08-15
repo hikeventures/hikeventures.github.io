@@ -176,21 +176,20 @@ With the <a href="http://amzn.to/29YPNOV" rel="nofollow">Lowepro Nova Sport 7L</
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "true";
+amzn_assoc_search_bar = "false";
 amzn_assoc_tracking_id = "hikeve-20";
 amzn_assoc_search_bar_position = "top";
 amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_title = "Search Results from Amazon";
-amzn_assoc_default_search_phrase = "A7 camera bag";
+amzn_assoc_title = "Search Results for PFDs";
+amzn_assoc_default_search_phrase = "a6300 accessories";
 amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "c2f0c4818ccf2afe65d6fdcba299fde6";
+amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
 ---
 
 # Disclosure
-The products in this article have not been tested by us. This page contains affiliate links. Read more [here](http://www.hikeventures.com/about/).
+Not all the products in this article have been tested by us. This page contains affiliate links. Read more [here](http://www.hikeventures.com/about/).
