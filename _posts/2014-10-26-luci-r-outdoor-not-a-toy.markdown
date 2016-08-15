@@ -95,10 +95,10 @@ amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_title = "Luci Outdoor Lantern Suggestions";
-amzn_assoc_default_search_phrase = "Luci Outdoor Lantern";
+amzn_assoc_title = "Search Results for Luci";
+amzn_assoc_default_search_phrase = "luci solar light";
 amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "9a725873569a009ac5497b65cc30560e";
+amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
