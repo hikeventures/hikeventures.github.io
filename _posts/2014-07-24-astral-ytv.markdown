@@ -10,11 +10,11 @@ tags: [reviews, pfd, astral designs, packrafting]
 
 The Astral Designs YTV is my new PFD which is replacing my good old <a href="http://www.packrafting-store.de/Safety/Secumar-Vivo-50::388.html" target="_blank">Secumar Vivo 50</a> which I used for packrafting and here comes a short review. While the Astral YTV with its 798 grams is almost twice as heavy as my Secumar with its 280 grams, it has some nice additional features and is also the lightest whitewater PFD on the market.
    
-<a href="https://www.flickr.com/photos/90204224@N07/14547568237" title="Astral YTV"><img src="https://farm4.staticflickr.com/3899/14547568237_44d9c29d97_b.jpg" width="1024" height="683" alt="Astral YTV"></a><!--more-->
+<a href="https://www.flickr.com/photos/90204224@N07/14547568237" title="Astral YTV"><img src="https://farm4.staticflickr.com/3899/14547568237_44d9c29d97_b.jpg" width="1024" height="683" alt="Astral YTV Review"></a><!--more-->
    
 In the attached booklet the Astral YTF is classified as a Type V PDF which is should give you a stable face-up position in calm water for a conscious wearer and is approved for use only as a substitute for a type III PFD by the U.S. Coast Guard carriage requirements. The attached booklet gives also some tips on how to survive in cold water.
    
-<a href="https://www.flickr.com/photos/90204224@N07/14547384619"><img src="https://farm4.staticflickr.com/3910/14547384619_caa0b16b89_b.jpg" width="1024" height="683"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/14547384619"><img src="https://farm4.staticflickr.com/3910/14547384619_caa0b16b89_b.jpg"  alt="Astral YTV Review" width="1024" height="683"></a>
    
 The Astral YTV contains a quick access knife tab for emergency situations.
    
@@ -22,7 +22,7 @@ The Astral YTV contains a quick access knife tab for emergency situations.
    
 There are 2 front pockets where you can store e.g. keys or snacks.
 
-<a href="https://www.flickr.com/photos/90204224@N07/15503233709"><img src="https://farm6.staticflickr.com/5607/15503233709_a5022364f4_b.jpg" width="1024" height="683"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/15503233709"><img src="https://farm6.staticflickr.com/5607/15503233709_a5022364f4_b.jpg" width="1024" height="683"  alt="Astral YTV Review"></a>
    
 Astral logo on the back site of the YTV lifejacket.
   
