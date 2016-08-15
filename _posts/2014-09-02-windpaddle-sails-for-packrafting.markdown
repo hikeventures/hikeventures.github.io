@@ -37,4 +37,18 @@ Below you can see a video how I use the windpaddle sail with a packraft.
   <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/137692156"></iframe> <p><a href="https://vimeo.com/137692156">Windpaddle Sailing with my Packraft in Finland</a> from <a href="https://vimeo.com/user15105973">Hikeventures</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B004BJXBJS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004BJXBJS&linkCode=as2&tag=hikeve-20&linkId=5T6TXBBDHV4ZXCWL"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004BJXBJS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B004BJXBJS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Search Results for Windpaddle Sail";
+amzn_assoc_default_search_phrase = "windpaddle sail";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
