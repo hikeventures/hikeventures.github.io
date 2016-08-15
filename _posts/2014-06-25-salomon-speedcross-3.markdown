@@ -28,4 +28,20 @@ Moreover, I also found the Quicklace™ quite interesting as there is no bumblin
 
 Looking at the sole of the Speedcross 3 it seems to me quite obvious that the shoe should have a very good grip which should perform great in muddy conditions. Personally, I wouldn't wear this shoe if I would go on a trip to <a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/">Sarek National Park</a> since I had constantly wet feet with my old trail runners there but for shorter trips or for trips in more dry conditions the Speedcross 3 should be a good alternative to a normal hiking boot. The only issue I had with this shoe is that it might be very slippery on wet stone. Also when you are planning to carry a lot of gear then a more supportive or traditional hiking boots would make more sense.
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B004LB4V72/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004LB4V72&linkCode=as2&tag=hikeve-20&linkId=CLF5GLZX4KXWKWCL"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004LB4V72&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B004LB4V72" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.backcountry.com/salomon-speedcross-3-climashield-trail-running-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Salomon Speedcross</button></a> 
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Search Results for Salomon Speedcross";
+amzn_assoc_default_search_phrase = "salomon speedcross";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
