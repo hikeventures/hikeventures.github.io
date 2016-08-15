@@ -38,7 +38,7 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Search Results for PFDs";
-amzn_assoc_default_search_phrase = "astral ytv";
+amzn_assoc_default_search_phrase = "Astral ytv";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
 </script>
