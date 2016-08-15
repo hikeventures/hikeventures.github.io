@@ -74,6 +74,11 @@ On longer bicycle trips it might be quite convenient to have the Suunto watch at
 
 <a href="https://www.amazon.com/gp/product/B00005N9DU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00005N9DU&linkCode=as2&tag=hikeve-20&linkId=ed3bdcc64953b6e74d3c0a8c77395f0f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00005N9DU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00005N9DU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+## [Quad Lock Bike Mount Kit for iPhone 6/6S PLUS]()
+If you have an iPhone you could also get a Quad Lock Bike Mount Kit and attach it next to the <a href="http://amzn.to/28V6hrU" rel="nofollow">Suunto Wristop Computer Bike Adaptor</a>. It's quite handy to have your iPhone in front of you when you are on a tour. You can easily check maps, use the iPhone as a second screen for your Ambit watch (to display e.g. speed or distance) or just to listen to radio.
+
+<a href="https://www.amazon.com/gp/product/B00X3LNYG0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X3LNYG0&linkCode=as2&tag=hikeve-20&linkId=8750a11f14e8d1f1bdb09f35a6b933a2"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00X3LNYG0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00X3LNYG0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 ---
 
 # Discounts
