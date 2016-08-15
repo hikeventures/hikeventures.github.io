@@ -85,3 +85,20 @@ However, if you are planning to take additional items with you on your snowshoei
 In general, we were satisfied with the MSR snowshoeing gear and we would recommend it to anyone planning a snowshoeing trip with light but quality stuff. We will continue testing our snowshoes and poles on our future trips and share our further impressions and experiences in the update to this article.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24251132954/in/dateposted-public/" title="Snowshoeing in Montafon, Vorarlberg in Austria"><img src="https://farm2.staticflickr.com/1454/24251132954_5625b1c4d3_b.jpg" width="100%" alt="Snowshoeing in Montafon, Vorarlberg in Austria"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Search Results for Windpaddle Sail";
+amzn_assoc_default_search_phrase = "msr snowshoe";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
