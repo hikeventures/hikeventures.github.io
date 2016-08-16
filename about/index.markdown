@@ -60,19 +60,9 @@ We are also on <a href="http://www.movescount.com/members/member140205-HikeVentu
 
 <hr>
 
-<h1>  Press Trips</h1> 
-We can visit your destination and write a trip report for you. Are you looking for fresh content ideas? We can bring our packrafts and promote your destination off the beaten track as well. Just  <a href="#contact">contact us</a> us if you have any questions.
-
-<hr>
-
 <h1> Gear Testing</h1> 
 On our blog we are reviewing outdoor gear which we receive from well known outdoor brands. <a href="http://www.hikeventures.com/Thule-Chasm-XL-Duffle-Bag/">Here</a> is an example of a more detailed review which we wrote for a company. Feel free to <a href="#contact">contact us</a> if you want us to test one of your products on our trips. Please note that we will express our own opinion on your products in our reviews.<br><br>
 <img src="https://farm6.staticflickr.com/5683/21885051180_963c46af51_b.jpg" width="1000" height="363" alt="Packrafting in Abisko, Sweden">
-
-<hr>
-
-<h1> Blog Collaboration</h1> 
-We maintain a list of the <a href="http://www.hikeventures.com/blogs/">best outdoor blogs</a>. Contact us if you want to become part of it.
 
 <hr>
 
