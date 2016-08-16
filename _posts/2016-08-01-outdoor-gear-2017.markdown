@@ -2,7 +2,7 @@
 layout: post
 title: The best new backpacking tents for 2017
 date: '2016-08-01 00:42:09 +0300'
-published: false
+published: true
 description: Need a new tent for your next outdoor adventure? Here are the latest models for 2017.
 category: articles
 tags:
