@@ -23,18 +23,27 @@ For 2017 we can expect to see plenty of new tents on the market. The trend goes 
 |:---|:---:|
 |Hilleberg Kaitum 4	|no info yet|
 |Marmot Bolt 2P	|1050|
-|Hogan SUL 1-2P	|1100|
+|Marmot Bolt 3P	|no info yet|
+|VauDe Hogan SUL 1-2P	|1100|
 |Terra Nova Starlite 1	|1120|
 |MSR Advance Pro 2	|1300|
 |MSR Access 1	|1370|
-|Hogan SUL 2P	|1430|
+|VauDe Hogan SUL 2P	|1430|
+|Marmot Tungsten UL 2P | 1470 |
+|Marmot Tungsten UL 3P | 1850 |
 |Terra Nova Starlite 2	|1530|
 |MSR Access 2	|1640|
 |Therm-a-Rest Slacker Hammock House	|1644|
 |Hilleberg Anjan	|1800|
 |Terra Nova Helm 1	|1875|
-|Hogan SUL XT 2-3P	|1950|
+|VauDe Hogan SUL XT 2-3P	|1950|
+Marmot
 |MSR Access 3	|1960|
+|Marmot Limelight 2P | no info yet |
+|Marmot Limelight 3P | no info yet |
+|Marmot Limelight 4P | no info yet |
+|Marmot Haldor 2P | no info yet |
+|Marmot Tungsten UL 3P | 1850 |
 |MSR Hubba Tour 1	|2030|
 |Hilleberg Anjan GT	|2100|
 |Hilleberg Rogen	|2100|
@@ -99,6 +108,9 @@ The MSR Remote Tents are designed to protect alpinists. They are more livable an
 
 * MSR Remote 2 (2.95 kg)
 * MSR Remote 3 (3.46 kg)
+
+# Marmot Haldor
+The Marmot Haldor tent is a solution for a normal camping holiday. It can be set-up fast and provides a Lamp Shade Pocket to create ambient light in your tent with your headlamp.
 
 # Therm-a-Rest Tranquility 6 Tent  
 The freestanding Tranquility is a 6-person tent offering lots of space, easy set-up, strength and comfort and designed for those who are looking for the ultimate in basecamping luxury. The Tranquility tent also offers pass-through ports for solar/electronic connectivity. The Therm-a-Rest Tranquility 6 weights 7.85 kg.
