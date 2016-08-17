@@ -31,7 +31,7 @@ The watches in my list are sorted by their weight and I have taken the specifica
 | [Motorola Moto 360 Sport](http://amzn.to/1t7QAFm)      | 0.09 lb / 45 g | 
 | [Garmin Fenix 3](http://www.backcountry.com/garmin-fenix-3-bundle)     | 0.18 lb / 82 g |
 | [Casio WSD-F10](http://amzn.to/1YdNH1H) |  0.2 lb / 93 g |
-| [Suunto Spartan Ultra](http://www.suunto.com/sports-watch-collections/Suunto-Spartan-Collection/) |  ? lb / ? g |
+| [Suunto Spartan Ultra](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch) |  ? lb / ? g |
 
 ---
 
@@ -93,7 +93,7 @@ Another interesting Outdoor watch is the Motorola Moto 360 Sport which is target
 **GPS:** yes, including GLONASS   
 **Wireless charging:** no   
 
-The Garmin Fenix 3 can be connected to Android and Apple phones and was one of the first proper sport watches which featured a graphic display and is going to be challenged by the new Suunto Spartan.
+The Garmin Fenix 3 can be connected to Android and Apple phones and was one of the first proper sport watches which featured a graphic display and is going to be challenged by the new [Suunto Spartan](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch).
 
 <a href="http://www.backcountry.com/garmin-fenix-3-bundle"><button type="button" class="btn btn-danger">Read more about the Garmin Fenix 3</button></a>
 
@@ -126,7 +126,7 @@ In general, I found that the Casio WSD-F10 looks quite nice. I like the displays
 
 ---
 
-## [Suunto Spartan Ultra](http://www.suunto.com/sports-watch-collections/Suunto-Spartan-Collection/)
+## [Suunto Spartan Ultra](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch)
 
 **Weight:** ? grams   
 **Battery Life:** ?   
@@ -142,12 +142,12 @@ In general, I found that the Casio WSD-F10 looks quite nice. I like the displays
 
 The Suunto Spartan is the latest smart watch addition in the Suunto range. Unfortunately, there are no specifications about the Suunto Spartan available yet beside that it's going to be the first Suunto watch which features a colour display. As Suunto watches can be connected to Moveslink - the Suunto Online Sport Community - it is possible to use the Suunto Spartan either with your Android phone or with your iphone. I will updated this section  about the Suunto Spartan in a few weeks.
 
-<a href="http://www.suunto.com/sports-watch-collections/Suunto-Spartan-Collection/"><button type="button" class="btn btn-danger">Read more about the Suunto Spartan Ultra</button></a>
+<a href="https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch"><button type="button" class="btn btn-danger">Read more about the Suunto Spartan Ultra</button></a>
 
 ---
 
 ## Conclusion
-From the currently released outdoor watches with color display I would probably pick the [Garmin Fenix 3](http://www.backcountry.com/garmin-fenix-3-bundle). However, before buying any watch I will wait to see the specifications of the [Suunto Spartan Ultra](http://www.suunto.com/sports-watch-collections/Suunto-Spartan-Collection/). As a current [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) user I have already my GPS data stored in [Movescount](http://www.movescount.com/members/member140205-HikeVentures) so switching brands is anyway not an easy option for me. If I would not need a built-in GPS then I would probably buy the <a href="http://amzn.to/1t7QAFm" rel="nofollow">Apple Watch Sport</a> as an Apple phone user or the <a href="http://amzn.to/1t7QAFm" rel="nofollow">Motorola Moto 360 Sport</a> or the <a href="http://amzn.to/1YdNH1H" rel="nofollow">Casio WSD-F10</a> if I would be an Android phone user.
+From the currently released outdoor watches with color display I would probably pick the [Garmin Fenix 3](http://www.backcountry.com/garmin-fenix-3-bundle). However, before buying any watch I will wait to see the specifications of the [Suunto Spartan Ultra](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch). As a current [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) user I have already my GPS data stored in [Movescount](http://www.movescount.com/members/member140205-HikeVentures) so switching brands is anyway not an easy option for me. If I would not need a built-in GPS then I would probably buy the <a href="http://amzn.to/1t7QAFm" rel="nofollow">Apple Watch Sport</a> as an Apple phone user or the <a href="http://amzn.to/1t7QAFm" rel="nofollow">Motorola Moto 360 Sport</a> or the <a href="http://amzn.to/1YdNH1H" rel="nofollow">Casio WSD-F10</a> if I would be an Android phone user.
 
 ---
 
