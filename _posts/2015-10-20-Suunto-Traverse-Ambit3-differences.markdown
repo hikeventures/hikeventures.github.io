@@ -103,7 +103,7 @@ If you have an iPhone you could also get a Quad Lock Bike Mount Kit and attach i
 
 **Update (19.4.2016):** Suunto has released the Suunto Traverse Alpha which is targeted towards hunters and fishers.
 
-**Update (7.6.2016):** Suunto announced the Suunto Spartan - A premium multisport watch with color display
+**Update (7.6.2016):** Suunto announced the [Suunto Spartan](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch) - A premium multisport watch with color display
 
 ---
 
