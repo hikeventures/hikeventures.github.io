@@ -50,3 +50,6 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "9a725873569a009ac5497b65cc30560e";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+# Disclosure
+This page contains affiliate links. Read more [here](http://www.hikeventures.com/about/).
