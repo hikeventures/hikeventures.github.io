@@ -11,7 +11,7 @@ tags:
   - backpacks
 ---
 
-Are you looking for a new backpack in 2017 for your next hiking or backpacking adventures? Here is a selection of the best new backpack models for 2017. 
+Are you looking for a new backpack in 2017 for your next hiking or backpacking adventures? Here is a selection of the best new backpack models for 2017. This is not a complete list but a selection of backpacks which I feel are worth to mention. When buying a backpack it's usually a good idea to buy a backpack for a specific purpose. For a multiday hiking trip you should get probably the largest size possible (depending on how much clothes and food you need).
 
 |Backpack|Weight (grams)|
 |:---|---:|
@@ -24,8 +24,9 @@ Are you looking for a new backpack in 2017 for your next hiking or backpacking a
 | Berhaus Freeflow 30| 1105|
 | Berhaus Freeflow 35| 1305 |
 | Berhaus Freeflow 40| 1485|
-| Fjällräven Abisko Friluft 35 | 1550 grams|
-| Fjällräven Abisko Friluft 45 |1600 grams|
+| Fjällräven Abisko Friluft 35 | 1550 |
+| Fjällräven Abisko Friluft 45 | 1600 |
+| Hyperlite Mountain Gear Daypack| 539 |
 | Thule Capstone | |
 | Thule Capstone | |
 | Thule Capstone | |
@@ -65,6 +66,11 @@ The Fjällräven Abisko Friluft is designed for hot and humid climates and made 
 
 * Fjällräven Abisko Friluft 35 (1550 grams)
 * Fjällräven Abisko Friluft 45 (1600 grams)
+
+# Hyperlite Mountain Gear
+
+## Hyperlite Mountain Gear Daypack 
+The Hyperlite Mountain Gear Daypack has been designed for daytrips and weights 539 grams. Some of the backpacks features are a large external front pocket, removeable ice axe attachements, side water bottle pockets, water-resistant YKK zipper, internal zippered pocket for small gear. The Daypack is available in small, medium and large.
 
 # Ortlieb
 
