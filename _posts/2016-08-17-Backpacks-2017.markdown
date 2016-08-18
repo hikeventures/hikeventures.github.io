@@ -11,30 +11,31 @@ tags:
   - backpacks
 ---
 
-Are you looking for a new backpack in 2017 for your next hiking or backpacking adventures? Here is a selection of the best new backpack models for 2017. This is not a complete list but a selection of backpacks which I feel are worth to mention. When buying a backpack it's usually a good idea to buy a backpack for a specific purpose. For a multiday hiking trip you should get probably the largest size possible (depending on how much clothes and food you need).
+Are you looking for a new backpack in 2017 for your next hiking or backpacking adventures? Here is a selection of the best new backpack models for 2017. When buying a backpack it's usually a good idea to buy a backpack for a specific purpose. For a multiday hiking trip you should get probably the largest size possible (depending on how much clothes and food you need).
 
 |Backpack|Weight (grams)|
 |:---|---:|
 | Berghaus Remote 12 | 460 |
+| Hyperlite Mountain Gear Daypack| 539 |
 | Berghaus Remote 20 | 605 |
 | Berghaus Remote 28 | 755 |
+| Thule Capstone 22 | 880 |
 | Berghaus Remote 35 | 900 |
 | Berhaus Freeflow 20| 840 |
-| Berhaus Freeflow 25| 1155|
-| Berhaus Freeflow 30| 1105|
+| Berhaus Freeflow 25| 1155 |
+| Berhaus Freeflow 30| 1105 |
+| Thule Capstone 32| 1220 |
 | Berhaus Freeflow 35| 1305 |
+| Thule Capstone 40 | 1400 |
+| Thule Capstone 50 | 1460 |
 | Berhaus Freeflow 40| 1485|
 | Fjällräven Abisko Friluft 35 | 1550 |
 | Fjällräven Abisko Friluft 45 | 1600 |
-| Hyperlite Mountain Gear Daypack| 539 |
-| Thule Capstone | |
-| Thule Capstone | |
-| Thule Capstone | |
-| Thule Capstone | |
-| Thule Guidepost | |
-| Thule Guidepost | |
-| Thule Guidepost | |
-|Ortlieb Elevation Pro2| 1700|
+| Ortlieb Elevation Pro2 | 1700 |
+| Thule Guidepost 65 | 2663 |
+| Thule Guidepost 75 | 2759 |
+| Thule Guidepost 85| 2862 |
+
 
 > Table is sorted by weight
 
@@ -75,15 +76,24 @@ The Hyperlite Mountain Gear Daypack has been designed for daytrips and weights 5
 # Ortlieb
 
 ## Ortlieb Elevation Pro2
-The Ortlieb Elevation Pro2 is a heavy duty waterproof alpine backpack available with 42L and was developed with the Austrian Alpine Rescue Team. The backpack features a waterproof zippered pocket and a rope can be attached on the fixing straps as well. The lid compartment can be taken off. You can also store your hydration system in the inner pocket.
+The Ortlieb Elevation Pro2 is a heavy duty waterproof alpine backpack available with 42L and was developed with the Austrian Alpine Rescue Team. The backpack features a waterproof zippered pocket and a rope can be attached on the fixing straps as well. The lid compartment can be taken off. You can also store your hydration system in the inner pocket. The Ortlieb Elevation Pro2 weights 1700 grams
 
 # Thule
 
-## Thule Capstone 22, 32, 40 and 50 
+## Thule Capstone 22L, 32L, 40L and 50L 
 Thule updated it's Capstone range for 2017 with an improved shoulder adjustment system and a VersaClick hip belt - an interchangeable system to customize the backpack with other accessories.
+
+* Thule Capstone 22 (880 grams)
+* Thule Capstone 32 (1220 grams)
+* Thule Capstone 40 (1400 grams)
+* Thule Capstone 50 (1460 grams) 
 
 ## Thule Guidepost 65L, 75L and 85L
 The Thule Guidepost will offer an updated suspension system and hipbelt in 2017. There is also a new QuickFit shoulder harness on the Thule Guidepost offering 3 different shoulder strap width dettings. Thule will also oxchange the 88L Guidepost backpack with 85L version in 2017. The Thule Guidepost will also feature the VersaClick hipbelt. Also new is the PowerPocket in the backpack's lid to store your mobile devices.
+
+*Thule Guidepost 65L (2663 grams)
+*Thule Guidepost 75L (2759 grams)
+*Thule Guidepost 85L (2862 grams)
 
 ---
 
