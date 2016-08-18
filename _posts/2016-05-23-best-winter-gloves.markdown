@@ -152,4 +152,4 @@ amzn_assoc_linkid = "ec4b1ecaff9224e05d5eb9b30680ad1a";
 ---
 
 # Disclosure
-The products in this article have not been tested by us. This page contains affiliate links. Read more [here](The products in this article have not been tested by us. This page contains affiliate links. Read more [here](http://www.hikeventures.com/about/).
+The products in this article have not been tested by us. This page contains affiliate links. Read more [here](http://www.hikeventures.com/about/).
