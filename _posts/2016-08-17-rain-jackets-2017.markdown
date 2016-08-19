@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The best new rain jackets for 2017
-date: '2016-08-17 09:42:09 +0300'
-published: false
+date: '2016-08-01 09:42:09 +0300'
+published: true
 description: An overview of the newest rain jackets on the market.
 category: articles
 tags:
@@ -17,14 +17,16 @@ Here is a selection of the best new rain jackets for 2017 on the market. This is
 
 |Jacket | Weight (grams) |
 |:---|---:|
-|Berghaus Hyper 100 Jacket | 97 grams |
-|Berghaus Deluge Light Jacket | 300 grams|
-|Berghaus Hillwalker Jacket | 300 grams |
-|Berghaus Paclite Storm Jacket | 300 grams |
+|Berghaus Hyper 100 Jacket | 97 |
+| Mammut Rainspeed Ultralight HS
+Jacket | 120 |
+|Berghaus Deluge Light Jacket | 300 |
+|Berghaus Hillwalker Jacket | 300 |
+|Berghaus Paclite Storm Jacket | 300 |
 |Marmot Magus Jacket| 300 grams |
-|Berghaus Extrem Light Paclite Jacket | 320 grams|
-|Marmot Knife Edge Jacket| 327 grams |
-|Berghaus Storm Jacket| 614 grams|
+|Berghaus Extrem Light Paclite Jacket | 320 |
+|Marmot Knife Edge Jacket| 327 |
+|Berghaus Storm Jacket| 614 |
 
 > Table is sorted by weight
 
@@ -47,6 +49,14 @@ The Hillwalker Jacket has been designed for hiking or walking and is made of a 2
 
 ## Berghaus Paclite Storm Jacket
 The Paclite Storm Jacket is a waterproof jacket for the trail. It weights 300 grams and comes with a GORE-TEX Paclite fabric. The jacket features a fixed fully adjustable hood, a water resistant zip, dropped hem and two water resistant zip pockets.
+
+---
+
+# Mammut
+
+## Mammut Rainspeed Ultralight HS Jacket
+
+The Mammut Rainspeed Ultralight HS Jacket is made from GORE-TEX Active technology and made from a single piece of fabric. The seams are welded using ultrasound technology. The jacket weights 120 grams. It also comes with a chest pocket and reflective logos.
 
 ---
 
