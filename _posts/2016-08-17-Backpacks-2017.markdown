@@ -2,7 +2,7 @@
 layout: post
 title: The best new hiking and backpacking backpacks for 2017
 date: '2016-08-01 00:42:09 +0300'
-published: false
+published: true
 description: Need a new backpack for your next outdoor adventure? Here are a selection of the latest models for 2017.
 category: articles
 tags:
@@ -108,4 +108,4 @@ The Thule Guidepost will offer an updated suspension system and hipbelt in 2017.
 
 ---
 
-I hope this list helps you a bit to find your best backpack for 2017 to enjoy your next outdoor adventure. I have not tested any of those backpacks nor it's a complete list of all new backpacks but it should give you some ideas on what's on the market.
+I hope this list helps you a bit to find your best backpack for 2017 to enjoy your next outdoor adventure. I have not tested any of those backpacks nor it's a complete list of all new backpacks but it should give you some ideas on what's on the market this year.
