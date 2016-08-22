@@ -21,7 +21,6 @@ For 2017 we can expect to see plenty of new tents on the market. The trend goes 
 
 | Tent | Weight (grams) |
 |:---|:---:|
-|Hilleberg Kaitum 4	|no info yet|
 |Hyperlite Mountain Gear UltaMid 2|499|
 |Hyperlite Mountain Gear UltaMid 4|620|
 |Marmot Bolt 2P	|1050|
@@ -50,6 +49,7 @@ For 2017 we can expect to see plenty of new tents on the market. The trend goes 
 |MSR Remote 2	|2950|
 |MSR Remote 3	|3460|
 |Marmot Limelight 4P | 3700 |
+|Hilleberg Kaitum 4	|4600|
 |Therm-a-Rest Tranquility 6	|7850|
 |MSR H.U.B.	|21770|
 
