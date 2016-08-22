@@ -10,6 +10,7 @@ tags:
   - best
   - bicycling
 ---
+Last Friday I stated my bicycle trip from Turku along the Archipelago Trail - a 250 km trip around the Turku Archipelago. The whole trip took me 27 hours to complete and I spent 1 night in my tent nearby the ferry harbour leaving from Kustavi.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28507750853/in/dateposted-public/" title="The Archipelago Trail | Saariston Rengastie"><img src="https://c6.staticflickr.com/9/8474/28507750853_9b39187d5d_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie Turku Surly Disc Trucker Ortlieb Back Roller Classic"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -132,3 +133,6 @@ The Nagu church dates back from the 1400-century.
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29095829416/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c1.staticflickr.com/9/8068/29095829416_735c74ea53_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Kirjalansalmen silta"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29023170842/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c3.staticflickr.com/9/8556/29023170842_3298258a6a_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+# Conclusion
+I really enjoyed this bicycle trip but I would only recommend the part from Kustavi to Turku. The part between Turku and Kustavi is not that exciting except the city of Naantali (one of the highlights on this trip) and maybe the Askainen Knights Park and Louhisaari Manor (which I did not visit). Also I was cycling quite fast so you should probably add another day into your itinery in case you are planning to cycle the Archipelago Trail as well.
