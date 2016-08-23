@@ -164,10 +164,9 @@ And then the ferry from Houtskär to Korpo which was one of the longer ferry tri
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29095893496/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c1.staticflickr.com/9/8367/29095893496_66b49dcf18_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Roslax Kivimo färja"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29128637925/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c6.staticflickr.com/9/8301/29128637925_f9e27f947c_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie kykrka Korpo Houtskär ferry"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-After a few ferry trips I finally arrived in Nagu or Nauvo.
+After a few ferry trips I finally arrived in Nagu (or Nauvo).
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29023233282/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c3.staticflickr.com/9/8275/29023233282_1b82964e20_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Nauvo Church nagu"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -189,11 +188,11 @@ Nauvo is the biggest town on the islands. Nauvo has a nice harbour with plenty o
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28506645534/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8485/28506645534_956400680a_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Nauvo Nagu harbour"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-There is also a Tourist Information at the harbour in Nouvo.
+There was also a Tourist Information at the harbour in Nouvo.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29023191292/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c5.staticflickr.com/9/8027/29023191292_d8203b74f9_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Nauvo Nagu Tourist Information"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-After having bought some snacks in the local grocery store I decided to continue my bicycle trip. Only 60 km left to Turku. Initially, I have planned another night in a tent but there were not that many sights between Nouvo and Turku (at least for me as I live in this area for 2 years).
+After having bought some snacks in the local grocery store I decided to continue my bicycle trip. Only 60 km left to Turku. Initially, I have planned another night in a tent but decided to cycle back home at the same day.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29023237972/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c5.staticflickr.com/9/8489/29023237972_70242fdb82_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie fields autumn"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
