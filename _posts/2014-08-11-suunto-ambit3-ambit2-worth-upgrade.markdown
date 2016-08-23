@@ -141,17 +141,17 @@ The Suunto watches also work great together with an e.g. iPhone which can be use
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
+amzn_assoc_search_bar = "true";
 amzn_assoc_tracking_id = "hikeve-20";
 amzn_assoc_search_bar_position = "top";
 amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_title = "Suunto Watch Suggestions";
-amzn_assoc_default_search_phrase = "Suunto ambit3 vertical";
+amzn_assoc_title = "GPS Outdoor Watches";
+amzn_assoc_default_search_phrase = "suunto spartan";
 amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "b584bb12b91da85107bc0ed5aa6d043f";
+amzn_assoc_linkid = "edb1d00e614ad3a35eb0a5421405645c";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
