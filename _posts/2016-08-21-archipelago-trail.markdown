@@ -38,17 +38,13 @@ The neoclassical Askaisten Church was the next highlight on the Archipelago trai
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28839812670/in/dateposted-public/" title="The Archipelago Trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8394/28839812670_68b412cb50_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie Askaisten Church Kirkko"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Just next to the Askaisten Church is the 'Askaisten Ritaripuisto' - or The Knights' Park.
+Just next to the Askaisten Church is the 'Askaisten Ritaripuisto' - or The Knights' Park which was founded in 2007 to honor the Finnish war veterans. The stone shows the Mannerheim Cross.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29126592675/in/dateposted-public/" title="The Archipelago Trail | Saariston Rengastie"><img src="https://c4.staticflickr.com/9/8056/29126592675_d9d6f672d3_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie Askaisten Church Kirkko"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29126592675/in/dateposted-public/" title="The Archipelago Trail | Saariston Rengastie"><img src="https://c4.staticflickr.com/9/8056/29126592675_d9d6f672d3_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie Askaisten Ritaripuisto The Knights' Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+Then my trip continued to Kustavi along fields and there were some bridges on the way. Fortunately, it was full moon so it was not that dark to bicycle. The road felt a bit dangerous to drive in the night since the cars were passing by with very high speed but it was still ok to cycle in the night.
 
-
-
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29093763286/in/dateposted-public/" title="The Archipelago Trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8503/29093763286_3847971a3d_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie Askaisten Ritaripuisto The Knights' Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-The park is founded in honour of the Knights of the Mannerheim Cross and all the Finnish veterans. It is a unique distinction to the Knights and the whole generation of war veterans. The park was solemnly inaugurated for the 140th anniversary of Marshal C.G. E. Mannerheim in 2007. -- change
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29093763286/in/dateposted-public/" title="The Archipelago Trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8503/29093763286_3847971a3d_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie moon"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28842099470/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8705/28842099470_3c65eed5dc_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie moon"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
