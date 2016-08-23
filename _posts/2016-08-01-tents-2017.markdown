@@ -21,34 +21,50 @@ For 2017 we can expect to see plenty of new tents on the market. The trend goes 
 
 | Tent | Weight (grams) |
 |:---|:---:|
+| Big Agnes Onyx UL Tarp|397|
 |Hyperlite Mountain Gear UltaMid 2|499|
 |Hyperlite Mountain Gear UltaMid 4|620|
 |Marmot Bolt 2P	|1050|
 |VauDe Hogan SUL 1-2P	|1100|
 |Terra Nova Starlite 1	|1120|
+|Big Agnes Copper Spur 2 Platinum|1190|
+|Big Agnes Copper Spur HV UL1 1 Person|1190|
+|Big Agnes Copper Spur HV UL mtnGLO 1 Person|1220|
 |MSR Advance Pro 2	|1300|
 |MSR Access 1	|1370|
 |VauDe Hogan SUL 2P	|1430|
+|Big Agnes Copper Spur HV UL2 2 Person|1470|
 |Marmot Tungsten UL 2P | 1470 |
+|Big Agnes Copper Spur HV UL mtnGLO 2 Person|1500|
 |Terra Nova Starlite 2	|1530|
+|Big Agnes Happy Hooligan UL2 HV UL2 2 Person|1620|
 |MSR Access 2	|1640|
 |Therm-a-Rest Slacker Hammock House	|1644|
+|Big Agnes Copper Spur HV UL3 3 Person|1730|
+|Big Agnes Copper Spur HV UL mtnGLO 3 Person|1760|
 |Hilleberg Anjan	|1800|
 |Marmot Tungsten UL 3P | 1850 |
 |Terra Nova Helm 1	|1875|
 |VauDe Hogan SUL XT 2-3P	|1950|
 |MSR Access 3	|1960|
+|Big Agnes Happy Hooligan UL3 HV UL3 3 Person|2010|
+|Big Agnes Tuffy SL2+|2070|
 |Marmot Alvar 2P| 2500 |
 |Marmot Haldor 2P | 2900 |
 |MSR Hubba Tour 1	|2030|
 |Hilleberg Anjan GT	|2100|
 |Hilleberg Rogen	|2100|
+|Big Agnes Copper Spur HV UL mtnGLO 4 Person|2210|
+|Big Agnes BLACKTAIL 4|2270|
 |Terra Nova Helm 2	|2270|
+|Big Agnes Van Camp SL|2330|
 |Terra Nova Starlite 3	|2380|
 |MSR Hubba Tour 2	|2470|
+|Big Agnes Copper Spur HV UL4 4 Person|2490|
 |MSR Remote 2	|2950|
 |MSR Remote 3	|3460|
 |Marmot Limelight 4P | 3700 |
+|Big Agnes Tumble 4 mtnGLO|3880|
 |Hilleberg Kaitum 4	|4600|
 |Therm-a-Rest Tranquility 6	|7850|
 |MSR H.U.B.	|21770|
@@ -56,8 +72,6 @@ For 2017 we can expect to see plenty of new tents on the market. The trend goes 
 > Table is sorted by weight
 
 ---
-
-# Big Agnes
 
 ## Big Agnes Copper Spur 2 Platinum
 The Big Agnes Copper Spur 2 Platinum is a three season free standing ultraligt tent and weights 1190 grams.
@@ -84,14 +98,19 @@ The Big Agnes Happy Hooligan UL is a three season free standing ultralight tent.
 * Big Agnes Happy Hooligan UL3 HV UL3 3 Person (2010 grams)
 
 ## Big Agnes Tuffy SL2+
+The Big Agnes Tuffy SL2+ is a three season free standing ultralight tent and weights 2070 grams.
 
 ## Big Agnes Van Camp SL
+The Big Agnes Van Camp SL is a three season free standing ultralight tent and weights 2330 grams.
 
 ## Big Agnes Tumble 4 mtnGLO
+The Big Agnes Tumble 4 mtnGLO is a three season free standing tent with mtnGLO tent light technology and weights 3880 grams.
 
 ## Big Agnes Onyx UL Tarp
+The Big Agnes Onyx UL Tarp is an ultralight backpacking tarp and weights 397 grams.
 
 ## Big Agnes BLACKTAIL 4
+The Big Agnes BLACKTAIL 4 is a three season free standing tent and weights 2270 grams.
 
 
 # Hilleberg
