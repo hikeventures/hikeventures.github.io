@@ -26,11 +26,11 @@ Then the trail continued over the Särkänsalmen Silta (bridge).
 
 From the Särkänsalmen Silta (bridge) I enjoyed a nice view.
 
-<a data-flickr<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28839805960/in/dateposted-public/" title="The Archipelago Trail | Saariston Rengastie"><img src="https://c1.staticflickr.com/9/8591/28839805960_a8466d97ae_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie Särkänsalmen Silta"></a><script async src="//embed
+<img src="https://c1.staticflickr.com/9/8591/28839805960_a8466d97ae_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie Särkänsalmen Silta">
 
 Then I saw a bird tower on the way and decided to explore it a bit.
 
-<img src="https://c5.staticflickr.com/9/8422/29093730836_39b215c6c0_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie Raisio Bird Tower Lintu Tori"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://c5.staticflickr.com/9/8422/29093730836_39b215c6c0_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie Raisio Bird Tower Lintu Tori">
 
 Those signs could be found along the Archipelago Trail. Unfortunately, I went to the wrong direction (the short Archipelago Trail) so I had to cycle 20 km back.
 
