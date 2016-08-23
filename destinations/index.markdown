@@ -62,6 +62,15 @@ footer: false
         <center><h2 class="page-header">Finland</h2></center>
         </div>
 
+
+<div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
+            <a class="thumbnail" href="http://www.hikeventures.com/archipelago-trail/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
+        <img src="https://c2.staticflickr.com/9/8400/28561417953_9be0b67110_z.jpg" alt="" class="img-responsive">
+        <div class="caption">
+            <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">The Archipelago Trail</p>
+        </div></div></a></div></div>
+
+
              <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/hiking-on-the-aland-islands/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
         <img src="https://farm2.staticflickr.com/1451/24347201385_c2aeff193d_z.jpg" alt="" class="img-responsive">
