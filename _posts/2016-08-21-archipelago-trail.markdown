@@ -74,10 +74,10 @@ I found it quite interesting that there was a button to call the ferry.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28842072680/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c1.staticflickr.com/9/8082/28842072680_9f314c2849_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie ferry Iniö"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-There was a "traffic light" mounted on the ferry which showed which cars could leave from which lane from the ferry.
-
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29051614571/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c4.staticflickr.com/9/8090/29051614571_40699ea003_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie farm "></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+There was a "traffic light" mounted on the ferry which showed which cars could leave from which lane from the ferry.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29023378532/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c5.staticflickr.com/9/8234/29023378532_b65c6280ec_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö farm house"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
