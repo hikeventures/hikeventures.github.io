@@ -76,18 +76,16 @@ I found it quite interesting that there was a button to call the ferry.
 
 There was a "traffic light" mounted on the ferry which showed which cars could leave from which lane from the ferry.
 
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29051614571/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c4.staticflickr.com/9/8090/29051614571_40699ea003_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie farm "></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-An old farm house nearby Iniö.
-
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29023378532/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c5.staticflickr.com/9/8234/29023378532_b65c6280ec_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö farm house"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-The Iniö church was built in the 18th century.
+An old farm house nearby Iniö.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28506832494/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8199/28506832494_fa8f6dd16d_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö church"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-The sailing ship hanging from the ceyling is a quite common features accross the churches in this region (also in Sweden).
+The Iniö church was built in the 18th century.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29023364902/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/8/7770/29023364902_550eb33607_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö church kirkko"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
