@@ -10,7 +10,7 @@ tags:
   - best
   - bicycling
 ---
-Last Friday I stated my bicycle trip from Turku along the Archipelago Trail - a 250 km trip around the Turku Archipelago. The whole trip took me 27 hours to complete and I spent 1 night in my tent nearby the ferry harbour leaving from Kustavi.
+Last Friday I stated my bicycle trip from Turku along the Archipelago Trail - a 250 km trip around the Turku Archipelago. The whole trip took me 27 hours to complete and I spent 1 night in my tent nearby the ferry harbour leaving from Kustavi. I have planned this bicycle trip already for a long time but never had time to do it. I found the islands most interesting on this trip and I would probably go for next bicycle trip to the Åland but this won't happen this year anymore.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28507750853/in/dateposted-public/" title="The Archipelago Trail | Saariston Rengastie"><img src="https://c6.staticflickr.com/9/8474/28507750853_9b39187d5d_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie Turku Surly Disc Trucker Ortlieb Back Roller Classic"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
