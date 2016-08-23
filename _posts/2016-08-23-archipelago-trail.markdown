@@ -10,7 +10,7 @@ tags:
   - best
   - bicycling
 ---
-Last Friday I stated my bicycle trip from Turku along the Archipelago Trail - a 250 km trip around the Turku Archipelago. The whole trip took me 27 hours to complete and I spent 1 night in my tent nearby the ferry harbour leaving from Kustavi. I have planned this bicycle trip already for a long time but never had time to do it. I found the islands most interesting on this trip and I would probably go for next bicycle trip to the Åland but this won't happen this year anymore. Below you can see my Surly Disc Trucker on a bridge in Turku. I just bought a pair of [Ortlieb Back Roller Classics](https://www.rei.com/product/885299/ortlieb-back-roller-classic-panniers-pair) a week ago as well.
+Last Friday I decided to bicycle from Turku along the Archipelago Trail - a 250 km trip around the Turku Archipelago. The whole trip took me 27 hours to complete and I spent 1 night in my tent nearby the ferry harbour leaving from Kustavi. I have planned this bicycle trip already a long time ago but never had time to do it. I am also interested to do a bicycle tour in Åland but this won't happen this year anymore. Below you can see my Surly Disc Trucker on a bridge in Turku. I just bought a pair of [Ortlieb Back Roller Classics](https://www.rei.com/product/885299/ortlieb-back-roller-classic-panniers-pair) a week ago as well.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28507750853/in/dateposted-public/" title="The Archipelago Trail | Saariston Rengastie"><img src="https://c6.staticflickr.com/9/8474/28507750853_9b39187d5d_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie Turku Surly Disc Trucker Ortlieb Back Roller Classic"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -24,15 +24,15 @@ Then the trail continued over the Särkänsalmen Silta (bridge).
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28504585774/in/dateposted-public/" title="The Archipelago Trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8887/28504585774_a441ba3413_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie Särkänsalmen Silta"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-From the Särkänsalmen Silta (bridge) I enjoyed a nice view.
+From the Särkänsalmen Silta (bridge) I had a nice view over the sea. There were so many bridges on this trail that you don't have to rush to get a good picture from any of those bridges.
 
 <img src="https://c1.staticflickr.com/9/8591/28839805960_a8466d97ae_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie Särkänsalmen Silta">
 
-Then I saw a bird tower on the way and decided to explore it a bit.
+My next stop after Raisio was a bird tower and I decided to explore it a bit.
 
 <img src="https://c5.staticflickr.com/9/8422/29093730836_39b215c6c0_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie Raisio Bird Tower Lintu Tori">
 
-Those signs could be found along the Archipelago Trail. Unfortunately, I went to the wrong direction (the short Archipelago Trail) so I had to cycle 20 km back.
+Those signs on the road could be found along the Archipelago Trail and it's a good idea to have them there so you know that you are on the right track.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28507782673/in/dateposted-public/" title="The Archipelago Trail | Saariston Rengastie"><img src="https://c2.staticflickr.com/9/8195/28507782673_a0c50548b2_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -44,7 +44,7 @@ Just next to the Askaisten Church is the 'Askaisten Ritaripuisto' - or The Knigh
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29126592675/in/dateposted-public/" title="The Archipelago Trail | Saariston Rengastie"><img src="https://c4.staticflickr.com/9/8056/29126592675_d9d6f672d3_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie Askaisten Ritaripuisto The Knights' Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Then my trip continued to Kustavi along fields and there were some bridges on the way. Fortunately, it was full moon so it was not that dark to bicycle. The road felt a bit dangerous to drive in the night since the cars were passing by with very high speed but it was still ok to cycle in the night. Once I arrived nearby the Hepponiemi ferry at 12 pm I decided to pitch my tent nearby the street as the first ferry was about to leave at around 8 am. 
+Then my trip continued to Kustavi along fields and bridges. Fortunately, the full moon lightened up the night so it was not too dark to cycle. The road felt a bit dangerous to cycle during the night as there were quite a few cars passing by with very high speed.Once I arrived nearby the Hepponiemi ferry at 12 pm I decided to pitch my tent nearby the street as the first ferry was about to leave at around 8 am. 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29093763286/in/dateposted-public/" title="The Archipelago Trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8503/29093763286_3847971a3d_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie moon"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
