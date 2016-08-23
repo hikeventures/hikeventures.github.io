@@ -211,6 +211,8 @@ The Kirjalansalmen silta (bridge) was probably the most impressive bridge on thi
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29095829416/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c1.staticflickr.com/9/8068/29095829416_735c74ea53_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Kirjalansalmen silta"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+Enjoyed a last view from the next bridge and then I arrived in Turku.
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29023170842/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c3.staticflickr.com/9/8556/29023170842_3298258a6a_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # Conclusion
