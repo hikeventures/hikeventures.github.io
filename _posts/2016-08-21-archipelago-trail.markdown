@@ -91,15 +91,17 @@ The sailing ship hanging from the ceyling is a quite common features accross the
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29023364902/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/8/7770/29023364902_550eb33607_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö church kirkko"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+The sailing ship hanging from the ceyling is a quite common features accross the churches in this region (also in Sweden).
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29023360032/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c1.staticflickr.com/9/8044/29023360032_5489938570_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö church"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Distances shown in Iniö. I followed the direction to the Lanthandel Kauppa to have my breakfast.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29023360032/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c1.staticflickr.com/9/8044/29023360032_5489938570_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö signs"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29051579421/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c6.staticflickr.com/9/8495/29051579421_1ff2625ee7_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö signs"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Maypoles were a common feature on the Archipelago trail as well.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29051579421/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c6.staticflickr.com/9/8495/29051579421_1ff2625ee7_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö maypole"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29128743345/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c2.staticflickr.com/9/8374/29128743345_47d13e9abd_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29128743345/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c2.staticflickr.com/9/8374/29128743345_47d13e9abd_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie maypole Iniö"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28506793244/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c5.staticflickr.com/9/8038/28506793244_4a8eca0dba_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Midsummer Pole"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
