@@ -34,13 +34,16 @@ Those signs could be found along the Archipelago Trail. Unfortunately, I went to
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28507782673/in/dateposted-public/" title="The Archipelago Trail | Saariston Rengastie"><img src="https://c2.staticflickr.com/9/8195/28507782673_a0c50548b2_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28839812670/in/dateposted-public/" title="The Archipelago Trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8394/28839812670_68b412cb50_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+The neoclassical Askaisten Church was the next highlight on the Archipelago trail which dates back form the 17th century and was the chapel of the Louhisaari Manor where the Mannerheim family used to live. The church is also part of the oldest tourist route in Finland - the Seven Churches Tour.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28839812670/in/dateposted-public/" title="The Archipelago Trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8394/28839812670_68b412cb50_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie Askaisten Church Kirkko"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Just next to the Askaisten Church is the 'Askaisten Ritaripuisto' - or The Knights' Park.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29126592675/in/dateposted-public/" title="The Archipelago Trail | Saariston Rengastie"><img src="https://c4.staticflickr.com/9/8056/29126592675_d9d6f672d3_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie Askaisten Church Kirkko"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-This neoclassical church was built by the owner of Louhisaari Manor, Governor-general Herman Claes'son Fleming in 1653 as the chapel church of Louhisaari Manor. Later on, Louhisaari was long owned by the Mannerheim family, and Marshal Carl Gustav Mannerheim was born there. There is a funeral chapel of the Mannerheim family in the cemetery.
 
-The Askainen noblemen's church is part of the oldest tourist route in Finland, the Seven Churches Tour, together with Raisio, Masku, Nousiainen, Lemu, Merimasku and Naantali. -- change
+
 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29093763286/in/dateposted-public/" title="The Archipelago Trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8503/29093763286_3847971a3d_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie Askaisten Ritaripuisto The Knights' Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
