@@ -54,27 +54,50 @@ Then it was time to wait in Hepponimi to wait for the ferry to Iniö. This was t
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28506866934/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8021/28506866934_996e32eeef_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö finnferry hepponimi"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29051627881/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c2.staticflickr.com/9/8134/29051627881_2022336dcb_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Kustavi Iniö ferry Aura surly disc trucker"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Hepponimi - the place where the ferry left.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29051627881/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c2.staticflickr.com/9/8134/29051627881_2022336dcb_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Kustavi Iniö ferry Aura"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+On the way from Hepponimi to Kannvik.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29128759995/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c4.staticflickr.com/8/7529/29128759995_df1a040f06_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Kustavi Iniö harbour satama Kannvik Hepponiemi"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+At Kannvik there were only a few cars waiting to get on the ferry.
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28506859034/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c3.staticflickr.com/9/8165/28506859034_f0e87235d2_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Kustavi Iniö aura ferry"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28506855134/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8148/28506855134_31e4c6b61e_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Kustavi Iniö ferry"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Once I arrived in Kannvik I cycled straight to the next ferry point. 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28842072680/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c1.staticflickr.com/9/8082/28842072680_9f314c2849_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28506855134/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8148/28506855134_31e4c6b61e_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö ferry"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29051614571/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c4.staticflickr.com/9/8090/29051614571_40699ea003_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie surly disc trucker skagen ferry "></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+I found it quite interesting that there was a button to call the ferry.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29023378532/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c5.staticflickr.com/9/8234/29023378532_b65c6280ec_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie skagen ferry"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28842072680/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c1.staticflickr.com/9/8082/28842072680_9f314c2849_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie ferry Iniö"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28506832494/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8199/28506832494_fa8f6dd16d_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö farm"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+There was a "traffic light" mounted on the ferry which showed which cars could leave from which lane from the ferry.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29051614571/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c4.staticflickr.com/9/8090/29051614571_40699ea003_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie farm "></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+An old farm house nearby Iniö.
+
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29023378532/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c5.staticflickr.com/9/8234/29023378532_b65c6280ec_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö farm house"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+The Iniö church was built in the 18th century.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28506832494/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8199/28506832494_fa8f6dd16d_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö church"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+The sailing ship hanging from the ceyling is a quite common features accross the churches in this region (also in Sweden).
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29023364902/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/8/7770/29023364902_550eb33607_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö church kirkko"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29023360032/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c1.staticflickr.com/9/8044/29023360032_5489938570_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö church kirkko"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Distances shown in Iniö. I followed the direction to the Lanthandel Kauppa to have my breakfast.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29051579421/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c6.staticflickr.com/9/8495/29051579421_1ff2625ee7_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29023360032/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c1.staticflickr.com/9/8044/29023360032_5489938570_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö signs"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Maypoles were a common feature on the Archipelago trail as well.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29051579421/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c6.staticflickr.com/9/8495/29051579421_1ff2625ee7_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö maypole"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29128743345/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c2.staticflickr.com/9/8374/29128743345_47d13e9abd_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
