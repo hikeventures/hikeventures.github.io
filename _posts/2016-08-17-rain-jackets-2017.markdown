@@ -70,3 +70,19 @@ The Marmot Knife Edge Jacket is an extra light jacket for climbing or mountainee
 ---
 
 I have not tested any of those jackets but I like to know whats available on the market because as I like to optimize my gear. Some rain jacket models in this list are made for running but I think that they still might be useful for hiking trips. I will add a few more models in the future. 
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "true";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "GPS Outdoor Watches";
+amzn_assoc_default_search_phrase = "suunto spartan";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "edb1d00e614ad3a35eb0a5421405645c";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
