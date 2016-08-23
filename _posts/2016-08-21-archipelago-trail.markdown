@@ -2,7 +2,7 @@
 layout: post
 title: Cycling the 250 km Archipelago Trail in Finland
 date: '2016-08-22 09:42:09 +0300'
-published: false
+published: true
 description: A bicycle adventures on the Finnish Archipelago Trail
 category: articles
 tags:
