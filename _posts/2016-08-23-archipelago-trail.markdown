@@ -28,7 +28,7 @@ From the Särkänsalmen Silta (bridge) I had a nice view over the sea. There wer
 
 <img src="https://c1.staticflickr.com/9/8591/28839805960_a8466d97ae_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie Särkänsalmen Silta">
 
-My next stop after Raisio was a bird tower and I decided to explore it a bit.
+Then I came across a bird tower just after Raisio and I decided to explore it a bit.
 
 <img src="https://c5.staticflickr.com/9/8422/29093730836_39b215c6c0_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie Raisio Bird Tower Lintu Tori">
 
@@ -44,45 +44,45 @@ Just next to the Askaisten Church is the 'Askaisten Ritaripuisto' - or The Knigh
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29126592675/in/dateposted-public/" title="The Archipelago Trail | Saariston Rengastie"><img src="https://c4.staticflickr.com/9/8056/29126592675_d9d6f672d3_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie Askaisten Ritaripuisto The Knights' Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Then my trip continued to Kustavi along fields and bridges. Fortunately, the full moon lightened up the night so it was not too dark to cycle. The road felt a bit dangerous to cycle during the night as there were quite a few cars passing by with very high speed.Once I arrived nearby the Hepponiemi ferry at 12 pm I decided to pitch my tent nearby the street as the first ferry was about to leave at around 8 am. 
+My trip continued to Kustavi along fields and bridges. Fortunately, the full moon lightened up the night so it was not too dark to cycle. The road felt a bit dangerous to cycle during the night as there were quite a few cars passing by with very high speed. Once I arrived nearby the Hepponiemi ferry at 12 pm I decided to pitch my [Marmot Force UL 2P](http://www.backcountry.com/marmot-force-ul-2p-tent-2-person-3-season) tent (which Marmot provided me for my trips this year) nearby the street as the first ferry was about to leave at around 8 am. 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29093763286/in/dateposted-public/" title="The Archipelago Trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8503/29093763286_3847971a3d_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie moon"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-The next morning I woke up at 7 am. I packed my [tent](http://www.backcountry.com/marmot-force-ul-2p-tent-2-person-3-season) and packed everything into my [Ortlieb Backroller Classic](https://www.rei.com/product/885299/ortlieb-back-roller-classic-panniers-pair) bags.
+The next morning I woke up at 7 am. I packed my [tent](http://www.backcountry.com/marmot-force-ul-2p-tent-2-person-3-season) and my other gear into my [Ortlieb Backroller Classic](https://www.rei.com/product/885299/ortlieb-back-roller-classic-panniers-pair) bags and cycled to the harbour.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28842099470/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8705/28842099470_3c65eed5dc_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Marmot Force UL 2P Surly Disc Trucker"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Then it was time to wait in Hepponimi to wait for the ferry to Iniö. This was the first ferry this morning. There was also a cafe on the ferry but it was closed during the trip. Transportation was free of charge.
+When I arrived in Hepponimi harbour there were already quite a few cars queuing to get onto the ferry to Iniö. There were only 2 others with their bicycles. Once I went on board I discovered that there was also a cafe. Unfortunately, it was closed during the whole trip. Transportation however was free of charge.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28506866934/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8021/28506866934_996e32eeef_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö finnferry hepponimi"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Hepponimi - the place where the ferry left.
+Looking backwards from the ferry. Hepponimi - the place where the ferry left.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29051627881/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c2.staticflickr.com/9/8134/29051627881_2022336dcb_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Kustavi Iniö ferry Aura"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-On the way from Hepponimi to Kannvik.
+On the way from Hepponimi to Kannvik. It felt a bit cold and windy but I always like to be on the sea and really enjoyed it.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29128759995/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c4.staticflickr.com/8/7529/29128759995_df1a040f06_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Kustavi Iniö harbour satama Kannvik Hepponiemi"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-At Kannvik there were only a few cars waiting to get on the ferry.
+At Kannvik harbour were only a few cars queuing for the ferry.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28506859034/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c3.staticflickr.com/9/8165/28506859034_f0e87235d2_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Kustavi Iniö aura ferry"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Once I arrived in Kannvik I cycled straight to the next ferry point. 
+Once I arrived in Kannvik I cycled straight to the next ferry point. There were no significant sights or attractions on the way.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28506855134/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8148/28506855134_31e4c6b61e_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö ferry"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-I found it quite a good idea that there was a button to call the ferry.
+Need to get to the other site with the ferry? Just push the button to call the ferry. Great service!
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28842072680/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c1.staticflickr.com/9/8082/28842072680_9f314c2849_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie ferry Iniö"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29051614571/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c4.staticflickr.com/9/8090/29051614571_40699ea003_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie farm "></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-There was a "traffic light" mounted on the ferry which showed which cars could leave from which lane from the ferry.
+There was a "traffic light" mounted on the ferry which showed which cars could leave from which lane.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29023378532/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c5.staticflickr.com/9/8234/29023378532_b65c6280ec_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö farm house"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-An old farm house nearby Iniö.
+An old farm house nearby Iniö. The old car in front of it was quite interesting.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28506832494/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8199/28506832494_fa8f6dd16d_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö church"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -90,7 +90,7 @@ The Iniö church was built in the 18th century.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29023364902/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/8/7770/29023364902_550eb33607_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö church kirkko"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-The sailing ship hanging from the ceyling is a quite common features accross the churches in this region (also in Sweden).
+A sailing ship hanging from the ceiling of the church - a quite common feature accross the churches in this region (also in Sweden).
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29023360032/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c1.staticflickr.com/9/8044/29023360032_5489938570_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö church"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -98,15 +98,15 @@ Distances shown in Iniö. I followed the direction to the Lanthandel Kauppa to h
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29051579421/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c6.staticflickr.com/9/8495/29051579421_1ff2625ee7_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö signs"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Maypoles were a common feature on the Archipelago trail as well.
+Maypoles were also a common feature on the Archipelago trail.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29128743345/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c2.staticflickr.com/9/8374/29128743345_47d13e9abd_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie maypole Iniö"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-At Iniö Landhandel I had my breakfast. A group of motorcycle riders from the previous ferry were also there.
+At Iniö Landhandel I had my breakfast. A group of motorcycle riders from the previous ferry were also there. I ordered tea and had a pastry - also called Wiener in Finland.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28506793244/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c5.staticflickr.com/9/8038/28506793244_4a8eca0dba_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö Landhandel"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-At Iniö were two ferries leaving - I took the one to Houtskari.
+At Iniö were ferries leaving to two different locations - I took the one to Houtskari.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29128734415/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c8.staticflickr.com/9/8148/29128734415_fc2da6b704_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie ferry Houtskari Iniö"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -114,15 +114,15 @@ I paid 15 EUR to get with my bicycle onto the ferry. There was also a cafe on bo
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29128727135/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c8.staticflickr.com/9/8476/29128727135_134daa6531_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie ferry Houtskari Iniö"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-A sailing ship betwen Houtskari and Iniö.
+And I saw so many sailing ships on my bicycle trip.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29051553541/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c6.staticflickr.com/9/8577/29051553541_e5b075aa63_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie ferry Houtskari Iniö sailing ship"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Then we arrived in Mossala. The first thing we were able to see was the Mossala Island Resort.
+Then we arrived in Mossala and the Mossala Island Resort was probably "the place to sleep" on this island.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29051546501/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c6.staticflickr.com/9/8609/29051546501_5b664bb71c_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Mossala Island Resort Harbour"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Again there was a nice maypole and an old windmill. 
+Again there was a nice maypole and an old windmill. I have seen the same kind of windmill already on different places in Western Finland.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28509862783/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c8.staticflickr.com/9/8544/28509862783_9965aad2da_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Mossala windmill maypole"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -132,15 +132,15 @@ The next ferry went from Mossala to Björkö. Again free of charge.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29051519871/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c8.staticflickr.com/8/7631/29051519871_a2e0711aa7_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Mossala Farm"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-As it was already 1 pm I decided to have lunch in the Pub Pelago.
+At 1 pm I felt a bit hungry and decided to have lunch in the Pub Pelago.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29051504761/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c2.staticflickr.com/9/8108/29051504761_7d905dad5b_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Björkö Pub Pelago"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-I decided to take a Halloumi salad. It was 9.80 EUR. There was also a bigger portion available for 15 EUR.
+I ordered a Halloumi salad and paid 9.80 EUR. There was also a bigger portion available for 15 EUR and it was really delicious. I can recommend you to stop by there as well. They are also selling burgers.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29128702595/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c4.staticflickr.com/9/8538/29128702595_aef3c7050e_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Pub Pelago Mossala halloumi salad pub pelago"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-After lunch I continued riding in Björkö. One ferry employee told me that the population is 80% Swedish and 20% Finnish speaking on these islands.
+After lunch I continued cycling in Björkö. One ferry employee told me that the population is 80% Swedish and 20% Finnish speaking on these islands.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29095959106/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c3.staticflickr.com/9/8348/29095959106_3e80b16f01_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie björkö cycling"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -171,11 +171,11 @@ After a few ferry trips I finally arrived in Nagu or Nauvo.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29023233282/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c3.staticflickr.com/9/8275/29023233282_1b82964e20_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Nauvo Church nagu"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Again there was a sailing ship attached to the ceyling of the church.
+Again there was a sailing ship attached to the ceiling of the church.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28509776853/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c6.staticflickr.com/9/8396/28509776853_f03c0f3bc4_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Nauvo Church nagu kykrka ship"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-The Nagu or Nauvo church dates back from the 1400-century. 
+The Nagu (or Nauvo) church was built in the 1400-century. 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29095863606/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8198/29095863606_629cee002f_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Nauvo Church nagu kykrka"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -183,7 +183,7 @@ My Surly Disc Trucker still made a good impression after 200 km cycling.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29051444141/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c6.staticflickr.com/9/8458/29051444141_6fd58b9001_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Surly Disc Trukker"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Nauvo is the biggest town on the islands. There is a nice harbor with plenty of restaurants.
+Nauvo is the biggest town on the islands. Nauvo has a nice harbour with plenty of restaurants.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28509758963/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c4.staticflickr.com/9/8072/28509758963_6b08bf6596_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Nauvo Nagu restaurants"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
