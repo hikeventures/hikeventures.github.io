@@ -19,3 +19,20 @@ Fjällräven launches the world's first trekking tights featuring zippered hand 
 
 ## Fjällräven Abisko Shade Trousers
 The Fjällräven Abisko Shade Trousers are made for warm and sunny climates. Those trousers use a new fabric called Fjällräven G-1000 Air. The trousers feature side ventilation zippers and a ventilating rear yoke. It's also possible to roll up the legs and attach them at 3/4-length with straps. The Fjällräven Abisko Shade Trousers weights 350 grams.
+
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "true";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Search Results from Amazon";
+amzn_assoc_default_search_phrase = "suunto spartan";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "edb1d00e614ad3a35eb0a5421405645c";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
