@@ -150,7 +150,7 @@ From Kivimio I took the next ferry to Roslax.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29095942246/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8884/29095942246_e1488caba6_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Kivimo Roslax ferry"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-And then the ferry from Houtskär to Korpo.
+And then the ferry from Houtskär to Korpo which was one of the longer ferry trips.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28841977990/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8346/28841977990_f3af1d2ae9_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Houtskär Korpo ferry"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -165,31 +165,49 @@ And then the ferry from Houtskär to Korpo.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29128637925/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c6.staticflickr.com/9/8301/29128637925_f9e27f947c_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie kykrka Korpo Houtskär ferry"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+After a few ferry trips I finally arrived in Nagu or Nauvo.
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29023233282/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c3.staticflickr.com/9/8275/29023233282_1b82964e20_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Nauvo Church nagu"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+Again there was a sailing ship attached to the ceyling of the church.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28509776853/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c6.staticflickr.com/9/8396/28509776853_f03c0f3bc4_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Nauvo Church nagu kykrka"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28509776853/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c6.staticflickr.com/9/8396/28509776853_f03c0f3bc4_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Nauvo Church nagu kykrka ship"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-The Nagu church dates back from the 1400-century. 
+The Nagu or Nauvo church dates back from the 1400-century. 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29095863606/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8198/29095863606_629cee002f_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Nauvo Church nagu kykrka"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+My Surly Disc Trucker still made a good impression after 200 km cycling.
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29051444141/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c6.staticflickr.com/9/8458/29051444141_6fd58b9001_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Surly Disc Trukker"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28509758963/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c4.staticflickr.com/9/8072/28509758963_6b08bf6596_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Nauvo Nagu"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Nauvo is the biggest town on the islands. There is a nice harbor with plenty of restaurants.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28509758963/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c4.staticflickr.com/9/8072/28509758963_6b08bf6596_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Nauvo Nagu restaurants"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28506645534/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8485/28506645534_956400680a_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Nauvo Nagu harbour"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+There is also a Tourist Information at the harbour in Nouvo.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29023191292/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c5.staticflickr.com/9/8027/29023191292_d8203b74f9_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Nauvo Nagu Tourist Information"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+After having bought some snacks in the local grocery store I decided to continue my bicycle trip. Only 60 km left to Turku. Initially, I have planned another night in a tent but there were not that many sights between Nouvo and Turku (at least for me as I live in this area for 2 years).
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29023237972/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c5.staticflickr.com/9/8489/29023237972_70242fdb82_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie fields autumn"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+View from the Norrströmmenin bridge.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28841929580/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c5.staticflickr.com/9/8530/28841929580_50d43ec78b_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Norrströmmenin silta bridge"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+Unfortuantely, I did not spot any reindeers on my trip.
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29023184652/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c5.staticflickr.com/9/8493/29023184652_8e5fc5c728_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie road sign reindeer"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+Again I had to take a ferry from Parainen to Nauvo.
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28841915400/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c1.staticflickr.com/9/8285/28841915400_e9d22f3c39_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Ferry Prostvik Lillmälö"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+The Kirjalansalmen silta (bridge) was probably the most impressive bridge on this trail.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29095829416/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c1.staticflickr.com/9/8068/29095829416_735c74ea53_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Kirjalansalmen silta"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
