@@ -101,15 +101,25 @@ Maypoles were a common feature on the Archipelago trail as well.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29128743345/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c2.staticflickr.com/9/8374/29128743345_47d13e9abd_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie maypole Iniö"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28506793244/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c5.staticflickr.com/9/8038/28506793244_4a8eca0dba_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Midsummer Pole"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+At Iniö Landhandel I had my breakfast. A group of motorcycle riders from the previous ferry were also there.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29128734415/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c8.staticflickr.com/9/8148/29128734415_fc2da6b704_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö Lanthandel"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28506793244/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c5.staticflickr.com/9/8038/28506793244_4a8eca0dba_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö Landhandel"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+At Iniö were two ferries leaving - I took the one to Houtskari.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29128734415/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c8.staticflickr.com/9/8148/29128734415_fc2da6b704_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie ferry Houtskari Iniö"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+I paid 15 EUR to get with my bicycle onto the ferry. There was also a cafe on board.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29128727135/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c8.staticflickr.com/9/8476/29128727135_134daa6531_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie ferry Houtskari Iniö"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29051553541/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c6.staticflickr.com/9/8577/29051553541_e5b075aa63_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie ferry Houtskari Iniö"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+A sailing ship betwen Houtskari and Iniö.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29051546501/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c6.staticflickr.com/9/8609/29051546501_5b664bb71c_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie sailing boat"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29051553541/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c6.staticflickr.com/9/8577/29051553541_e5b075aa63_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie ferry Houtskari Iniö sailing ship"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Then we arrived in Mossala. The first thing we were able to see was the Mossala Island Resort.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29051546501/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c6.staticflickr.com/9/8609/29051546501_5b664bb71c_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Mossala Island Resort Harbour"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28509862783/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c8.staticflickr.com/9/8544/28509862783_9965aad2da_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Mossala Island Resort Harbour"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
