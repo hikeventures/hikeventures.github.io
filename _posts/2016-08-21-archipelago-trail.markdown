@@ -28,7 +28,7 @@ From the Särkänsalmen Silta (bridge) I enjoyed a nice view.
 
 Then I saw a bird tower on the way and decided to explore it a bit.
 
--embed="true"  href="https://www.flickr.com/photos/90204224@N07/29093730836/in/dateposted-public/" title="The Archipelago Trail | Saariston Rengastie"><img src="https://c5.staticflickr.com/9/8422/29093730836_39b215c6c0_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie Raisio Bird Tower Lintu Tori"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://c5.staticflickr.com/9/8422/29093730836_39b215c6c0_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie Raisio Bird Tower Lintu Tori"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Those signs could be found along the Archipelago Trail. Unfortunately, I went to the wrong direction (the short Archipelago Trail) so I had to cycle 20 km back.
 
@@ -70,10 +70,9 @@ Once I arrived in Kannvik I cycled straight to the next ferry point.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28506855134/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8148/28506855134_31e4c6b61e_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Iniö ferry"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-I found it quite interesting that there was a button to call the ferry.
+I found it quite a good idea that there was a button to call the ferry.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28842072680/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c1.staticflickr.com/9/8082/28842072680_9f314c2849_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie ferry Iniö"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29051614571/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c4.staticflickr.com/9/8090/29051614571_40699ea003_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie farm "></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -121,23 +120,39 @@ Then we arrived in Mossala. The first thing we were able to see was the Mossala 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29051546501/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c6.staticflickr.com/9/8609/29051546501_5b664bb71c_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Mossala Island Resort Harbour"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28509862783/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c8.staticflickr.com/9/8544/28509862783_9965aad2da_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Mossala Island Resort Harbour"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Again there was a nice maypole and an old windmill. 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28509862783/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c8.staticflickr.com/9/8544/28509862783_9965aad2da_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Mossala windmill maypole"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29023299892/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c5.staticflickr.com/9/8288/29023299892_57dcfb3eae_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Mossala wind mill"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+The next ferry went from Mossala to Björkö. Again free of charge.
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29051519871/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c8.staticflickr.com/8/7631/29051519871_a2e0711aa7_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Mossala Farm"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29051504761/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c2.staticflickr.com/9/8108/29051504761_7d905dad5b_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Mossala ferry"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+As it was already 1 pm I decided to have lunch in the Pub Pelago.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29128702595/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c4.staticflickr.com/9/8538/29128702595_aef3c7050e_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Pub Pelago Mossala"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29051504761/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c2.staticflickr.com/9/8108/29051504761_7d905dad5b_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Björkö Pub Pelago"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29095959106/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c3.staticflickr.com/9/8348/29095959106_3e80b16f01_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+I decided to take a Halloumi salad. It was 9.80 EUR. There was also a bigger portion available for 15 EUR.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28509816533/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c6.staticflickr.com/8/7528/28509816533_792a6a52d6_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Pub Pelago Mossala"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29128702595/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c4.staticflickr.com/9/8538/29128702595_aef3c7050e_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Pub Pelago Mossala halloumi salad pub pelago"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29095942246/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8884/29095942246_e1488caba6_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Wicked Chilli Bike Mount"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+After lunch I continued riding in Björkö. One ferry employee told me that the population is 80% Swedish and 20% Finnish speaking on these islands.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28841977990/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8346/28841977990_f3af1d2ae9_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Midsummer Pole"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29095959106/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c3.staticflickr.com/9/8348/29095959106_3e80b16f01_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie björkö cycling"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+And again a maypole.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28509816533/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c6.staticflickr.com/8/7528/28509816533_792a6a52d6_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Björkö Maypole Wicked Chilli Bike Mount"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+From Kivimio I took the next ferry to Roslax.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29095942246/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8884/29095942246_e1488caba6_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Kivimo Roslax ferry"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+And then the ferry from Houtskär to Korpo.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28841977990/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8346/28841977990_f3af1d2ae9_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Houtskär Korpo ferry"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29095918806/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/8/7554/29095918806_f07aad9d18_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Mossala Björkö"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
