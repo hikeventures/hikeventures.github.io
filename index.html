@@ -4,111 +4,94 @@ published: true
 ---
 
 <div class="home">
-          
-
-
-          <div class="my-fluid-container">
-          
-          <div class="row">
-                   
-           
-                
-                    <div class="col-sm-8 col-lg-8 col-md-8 col-xs-12"> 
-
-      <ul class="post-list"> 
-                                          {% for post in site.posts limit:2 %} 
-                                            <li> 
-                                              <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> 
-                                              
-                                               <a class="post-link" style="font-weight: bold;font-size:140%;color: black;text-decoration: none;" onMouseOver="this.style.color='#708090'"
-   onMouseOut="this.style.color='black'"; href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a>
-                                              {{ post.excerpt }}<a href="{{ post.url }}"><font style="background-color: #FF8000; color:white; padding:5px;">Read more...</font></a>
-                                            </li>
-                                          {% endfor %} 
-                                        </ul> 
-                                    
-                                  
-                                  
-                      </div> 
-
-
-
-                     <div class="col-sm-4 col-lg-4 col-md-4 col-xs-12"> 
-  
-                        <div class="alignleft">
-                                  
-                               
-                               
-                               <div> <a href="http://www.hikeventures.com/archive/"><font style="border-radius: 5px;background:#AFD336;color:#FFFFFF;font-family: 'Amatic SC', cursive;padding:5px;">Recent Posts</font></a>
-                               </div>
-
-                                            {% for post in site.posts limit:5 %}
-                                            <span>{{ post.date | date_to_string }}</span> &raquo; <a  onMouseOver="this.style.color='#708090'"
-   onMouseOut="this.style.color='black'"; style="text-decoration: none; color:black;" href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a><hr>{% endfor %}
-
-
+    <div class="my-fluid-container">
+        <div class="row">
+            <div class="col-sm-7 col-lg-7 col-md-7 col-xs-12">
+                <div class="post-list">
+                    {% for post in paginator.posts %}
+                    <div class="post">
+                        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+                        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                        <div class="post-content">
+                            {{ post.excerpt }}
                         </div>
-                        <center>
-                                   <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/HikeVentures" data-chrome="noborders" height="600px" width="100%"
-  data-link-color="#FF8000" data-widget-id="272762413726695424">Tweets by @HikeVentures</a>
-            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-          
-                        </center>
+                        <a class="post-more" href="{{ post.url | prepend: site.baseurl }}">READ MORE…</a>
                     </div>
-
-          </div>
-            
-         </div>
-            
-      </div>       
-             
- <hr>
-
- <div class="my-fluid-container">
-<div> <a href="https://www.instagram.com/hikeventures/"><font style="border-radius: 5px;background:#AFD336;color:#FFFFFF;font-family: 'Amatic SC', cursive;padding:5px;">Instagram</font></a>
-
- </div>
-  <div class="my-fluid-container"> <div class="row">
-     <div class="col-lg-4 col-md-4">
-           <div class="hovereffect">
-               <a class="thumbnail" href="https://www.instagram.com/p/7QBFDcLtcu/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
-               <img src="https://farm2.staticflickr.com/1610/23772985064_3fbd9bc04d.jpg" alt="" class="img-responsive">
-                     <div class="caption">
-                           <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Japan</p>
-                     </div> 
+                    {% endfor %}
+                </div>
+                <div class="pagination">
+                    {% if paginator.previous_page %}
+                    <a href="{{ paginator.previous_page_path }}" class="previous">← Older</a>
+                    {% endif %}
+                    {% assign min_page = paginator.page | minus: 2 %}
+                    {% if min_page < 1 %}
+                    {% assign min_page = 1 %}
+                    {% endif %}
+                    {% assign max_page = min_page | plus: 4 %}
+                    {% if max_page > paginator.total_pages %}
+                    {% assign max_page = paginator.total_pages %}
+                    {% assign min_page = max_page | minus: 4 %}
+                    {% endif %}
+                    <div class="pagination-number">
+                        <a href="{{ site.url }}" class="page_number first">«</a>{% for i in (min_page..max_page) %}<a href="{% if i == 1 %}{{ site.url }}{% else %}{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', i }}{% endif %}" class="page_number{% if i == paginator.page %} current{% endif %}" style="left: -{{ forloop.index }}px;">{{ i }}</a>{% endfor %}<a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', paginator.total_pages }}" class="page_number last" style="left: -6px;">»</a>
+                    </div>
+                    {% if paginator.next_page %}
+                    <a href="{{ paginator.next_page_path }}" class="next">Newer →</a>
+                    {% endif %}
+                </div>
             </div>
-         </a>
-     </div>
-  </div>
-  
-
-     <div class="col-lg-4 col-md-4">
-         <div class="hovereffect">
-         <a class="thumbnail" href="https://www.instagram.com/p/BAmCJxHLtYA/" style="color: #FFF; border: 0px;">
-          <div class="thumbnail text-center">
-               <img src="https://farm2.staticflickr.com/1567/24352382561_1ff06e93d3.jpg" alt="" class="img-responsive">
-               <div class="caption">
-                   <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Finland</p>
-                </div> 
-          </div>
-          </a>
-     </div>
-  </div>
-
-       <div class="col-lg-4 col-md-4">
-         <div class="hovereffect">
-             <a class="thumbnail" href="https://www.instagram.com/p/-HrSq_rtdb/" style="color: #FFF; border: 0px;">
-              <div class="thumbnail text-center">
-                  <img src="https://farm2.staticflickr.com/1654/23774388833_a6c5f6768b.jpg" alt="" class="img-responsive">
-                  <div class="caption">
-                        <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Sweden</p>
-                  </div> 
-              </div>
-            </a>
-         </div>
+            <div class="col-sm-1 col-lg-1 col-md-1 col-xs-12"></div>
+            <div class="col-sm-4 col-lg-4 col-md-4 col-xs-12">
+                <div class="sidebar-title">
+                    <a href="/archive/"><span class="icon"></span>RECENT POSTS</a>
+                </div>
+                <div class="recent-posts">
+                {% for post in site.posts limit:5 %}
+                    <a class="recent-post" href="{{ BASE_PATH }}{{ post.url }}">
+                        <span class="recent-post-date">{{ post.date | date_to_string }}</span>
+                        <span class="recent-post-title" >{{ post.title }}</span>
+                    </a>
+                {% endfor %}
+                </div>
+                <div class="sidebar-title">
+                    <a href="https://www.instagram.com/hikeventures/"><span class="icon"></span>HikeVentures</a>
+                </div>
+                <div class="sidebar-image">
+                    <a class="thumbnail" href="https://www.instagram.com/p/7QBFDcLtcu/">
+                        <img src="https://farm2.staticflickr.com/1610/23772985064_3fbd9bc04d.jpg" alt="">
+                        <div class="overlay"></div>
+                        <span class="caption">Japan</span>
+                    </a>
+                </div>
+                <div class="sidebar-image">
+                    <a class="thumbnail" href="https://www.instagram.com/p/BAmCJxHLtYA/">
+                        <img src="https://farm2.staticflickr.com/1567/24352382561_1ff06e93d3.jpg" alt="">
+                        <div class="overlay"></div>
+                        <span class="caption">Finland</p></span>
+                    </a>
+                </div>
+                <div class="sidebar-image">
+                    <a class="thumbnail" href="https://www.instagram.com/p/-HrSq_rtdb/">
+                        <img src="https://farm2.staticflickr.com/1654/23774388833_a6c5f6768b.jpg" alt="">
+                        <div class="overlay"></div>
+                        <span class="caption">Sweden</span>
+                    </a>
+                </div>
+                <center>
+                    <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/HikeVentures"
+                       data-chrome="noborders" height="600px" width="100%"
+                       data-link-color="#FF8000" data-widget-id="272762413726695424">Tweets by @HikeVentures</a>
+                    <script>!function (d, s, id) {
+                        var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
+                        if (!d.getElementById(id)) {
+                            js = d.createElement(s);
+                            js.id = id;
+                            js.src = p + "://platform.twitter.com/widgets.js";
+                            fjs.parentNode.insertBefore(js, fjs);
+                        }
+                    }(document, "script", "twitter-wjs");</script>
+                </center>
+            </div>
         </div>
-     
-     
-   </div>  
-   </div> 
-
+    </div>
+</div>
