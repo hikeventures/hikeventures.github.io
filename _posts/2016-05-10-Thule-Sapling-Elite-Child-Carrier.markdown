@@ -43,21 +43,17 @@ Talking about the seat on the backpack. You can load your child either from the 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28329260142/in/dateposted-public/" title="Thule Sapling Elite Child Carrier"><img src="https://c7.staticflickr.com/9/8576/28329260142_4239d81ef3_k.jpg" width="2048" height="1362" alt="Thule Sapling Elite Child Carrier"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-
-
-Material	210D Cordura nylon, 420D nylon
-Support/Suspension	fully adjustable
-Shoulder Straps	padded
-Waist Belt	yes, padded
-Pockets	1 removable backpack, 1 large zippered compartment, 2 side mesh, 2 zippered waist belt
-Sun/Rain Cover	yes
-
 ---
 
 ## Conclusion
-
+The Thule Sapling Elite Child carrier was comfortable to carry thanks to the padded shoulder straps, waist belt and the fully adjustable suspension system. I also stored a raincover in the bag of the backpack which I could easily access in case it would start raining. My child also asked me a couple of times if I could carry her around in the backpack so I assume that she liked the child carrier backpack as well. More testing is needed to test the durability of the backpack but my first impressions are quite positive. The only negative point I could think of is that the backpack could fall forward with the child if it stands with the stand on the ground.
 
 <a href="http://www.backcountry.com/thule-chariot-sapling-elite-child-carrier"><button type="button" class="btn btn-danger">Read more about the Thule Sapling Child Carrier</button></a>
+
+---
+
+# Disclosure
+I received the Thule Sapling Elite Child Carrier for testing from Thule.
 
 ---
 
