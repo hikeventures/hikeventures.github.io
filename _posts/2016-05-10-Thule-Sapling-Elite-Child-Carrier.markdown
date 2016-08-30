@@ -10,15 +10,14 @@ description: Our review on the Thule Sapling Elite Child Carrier
 ---
 Recently, I was looking for a child carrier backpack since I was interested to bring our child clother to nature. Carrying a child in a backpack feels more convenient than cruising with a stroller in the nature and you can more easily access places off the beaten track. This is a first short review about the Thule Sampling Elite Child Carrier Backpack which I got provided by Thule to test it here in Finland. I will add more details to this review over the time.
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27817737344/in/dateposted-public/" title="Thule Sapling Elite Child Carrier"><img src="https://c1.staticflickr.com/9/8699/27817737344_8d818cfb80_k.jpg" width="2048" height="1367" alt="Thule Sapling Elite Child Carrier"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 <!--more-->
 
 # Field Testing
 I was carrying the Thule Sampling Elite mainly in the forests around our neighborhood and in the outskirts of Turku nearby the sea where I was walking on narrow trails in the forest. The Thule Sampling Elite is also very comfortable to carry when you walk up a hill and the child (14 kg) did not feel that heavy on the back either.
 
 Of course it is quite hard to see what your child is doing in the back while you are walking along the trail. Thule was thinking ahead and added a mirror in one of the hipbelt pockets which you can take out to monitor your child. My child felt also more comfortable when she saw me smiling to her from time to time so this is a simple but really great feature.
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27817737344/in/dateposted-public/" title="Thule Sapling Elite Child Carrier"><img src="https://c1.staticflickr.com/9/8699/27817737344_8d818cfb80_k.jpg" width="2048" height="1367" alt="Thule Sapling Elite Child Carrier"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28434132705/in/dateposted-public/" title="Thule Sapling Elite Child Carrier"><img src="https://c2.staticflickr.com/8/7484/28434132705_ca31fc40b4_k.jpg" width="2048" height="1367" alt="Thule Sapling Elite Child Carrier"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
