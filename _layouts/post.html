@@ -3,112 +3,130 @@ layout: default
 published: true
 ---
 
+<div class="my-fluid-container">
+    <div class="row">
+        <div class="col-sm-7 col-lg-7 col-md-7 col-xs-12">
+            <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+                <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                <div class="post-content" itemprop="articleBody">
+                    {{ content }}
+                    <br>
+                    Comment on this post on our <a href="https://www.facebook.com/HikeVentures/">Facebook page</a> or on <a
+                        href="https://twitter.com/HikeVentures">Twitter</a> or watch one of our <a
+                        href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw">YouTube videos</a>.
+                    <hr>
+                    <form action='http://www.feedio.co/@hikeventures/verify' id='subscribe_widget_hikeventures'
+                          method='post' style='border:0px solid #ccc;padding:0px;text-align:left;' target='popupwindow'>
+                        <font color="black">Subscribe to our <a href="http://www.feedio.co/@hikeventures/">RSS feed</a> or
+                            newsletter with our latest posts. You can unsubscribe any time. Enter your email address: &nbsp;<input
+                                    name='email' id='email_input' style='width:140px' type='text'><input
+                                    style="color: white !important; background-color:#FF8000 !important;" type='submit'
+                                    value='JOIN US'></font>
+                    </form>
+                    <hr>
+                    <div class="relatedPosts">
+                        <h3>Related post</h3>
+                        {% comment %}---> the maximum number of related to posts
+                        to be printed {% endcomment %}
+                        {% assign maxRelated = 4 %}
 
+                        {% comment %}---> the minimum number of common tags
+                        to have for a post to be considered
+                        as a related post {% endcomment %}
+                        {% assign minCommonTags = 2 %}
 
+                        {% assign maxRelatedCounter = 0 %}
 
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-  <header class="post-header">
-    <center><h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+                        {% for post in site.posts %}
 
-    
+                        {% assign sameTagCount = 0 %}
+                        {% assign commonTags = '' %}
 
-<p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p>
-</center> 
-
-</header>
-<hr style="border: 2px dashed #C0C0C0" color="#FFFFFF" size="3">
-
-
-  <div class="my-fluid-container">
-
-    <div class="col-sm-8 col-lg-8 col-md-8 col-xs-12"> 
-
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
-<br>
-Comment on this post on our <a href="https://www.facebook.com/HikeVentures/">Facebook page</a> or on <a href="https://twitter.com/HikeVentures">Twitter</a> or watch one of our <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw">YouTube videos</a>.
-<hr>
-<form action='http://www.feedio.co/@hikeventures/verify' id='subscribe_widget_hikeventures' method='post' style='border:0px solid #ccc;padding:0px;text-align:left;' target='popupwindow'>
-<font color="black">Subscribe to our <a href="http://www.feedio.co/@hikeventures/">RSS feed</a> or newsletter with our latest posts. You can unsubscribe any time. Enter your email address: &nbsp;<input name='email' id='email_input' style='width:140px' type='text'><input style="color: white !important; background-color:#FF8000 !important;" type='submit' value='JOIN US'></font>
-</form>
-
-<hr>
-<div class="relatedPosts">
-  <h3>Related post</h3>
-
-  {% comment %}---> the maximum number of related to posts 
-                    to be printed {% endcomment %}
-  {% assign maxRelated = 4 %}
-
-  {% comment %}---> the minimum number of common tags 
-                    to have for a post to be considered 
-                    as a related post {% endcomment %}
-  {% assign minCommonTags =  2 %}
-
-  {% assign maxRelatedCounter = 0 %}
-
-  {% for post in site.posts %}
-
-    {% assign sameTagCount = 0 %}
-    {% assign commonTags = '' %}
-
-    {% for tag in post.tags %}
-      {% comment %}---> Only compare if post is 
+                        {% for tag in post.tags %}
+                        {% comment %}---> Only compare if post is
                         not same as current page {% endcomment %}
-      {% if post.url != page.url %}
-        {% if page.tags contains tag %}
-          {% assign sameTagCount = sameTagCount | plus: 1 %}
-          {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
-          {% assign commonTags = commonTags | append: tagmarkup %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
+                        {% if post.url != page.url %}
+                        {% if page.tags contains tag %}
+                        {% assign sameTagCount = sameTagCount | plus: 1 %}
+                        {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
+                        {% assign commonTags = commonTags | append: tagmarkup %}
+                        {% endif %}
+                        {% endif %}
+                        {% endfor %}
 
-    {% if sameTagCount >= minCommonTags %}
-      
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      <br>
-      {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
-      {% if maxRelatedCounter >= maxRelated %}
-        {% break %}
-      {% endif %}
-    {% endif %}
+                        {% if sameTagCount >= minCommonTags %}
 
-  {% endfor %}
-</div>
+                        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                        <br>
+                        {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+                        {% if maxRelatedCounter >= maxRelated %}
+                        {% break %}
+                        {% endif %}
+                        {% endif %}
 
-<hr>
-
-<div class="page_nav">
-{% if page.previous.url %}<a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>{% endif %}
-{% if page.next.url %}<a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>{% endif %}
-</div>
-
-
-
-</article>
-  
- <div class="col-sm-4 col-lg-4 col-md-4 col-xs-12"> 
-
-   
-                        <div class="alignleft">
-                              <div> <a href="http://www.hikeventures.com/archive/"><font style="border-radius: 5px;background:#AFD336;color:#FFFFFF;font-family: 'Amatic SC', cursive;padding:5px;">Recent Posts</font></a>
-                               </div>
-
-
-                                            {% for post in site.posts limit:5 %}
-                                            <span>{{ post.date | date_to_string }}</span> &raquo; <a  onMouseOver="this.style.color='#708090'"
-   onMouseOut="this.style.color='black'"; style="text-decoration: none; color:black;" href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a><hr>{% endfor %}
-
-
-                        </div>
-
-     </div>
-
+                        {% endfor %}
+                    </div>
+                    <div class="page_nav">
+                        {% if page.previous.url %}<a class="prev" href="{{page.previous.url}}">&laquo;
+                        {{page.previous.title}}</a>{% endif %}
+                        {% if page.next.url %}<a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>{%
+                        endif %}
+                    </div>
                 </div>
-            
+            </article>
+        </div>
+        <div class="col-sm-1 col-lg-1 col-md-1 col-xs-12"></div>
+        <div class="col-sm-4 col-lg-4 col-md-4 col-xs-12">
+            <div class="sidebar-title">
+                <a href="/archive/"><span class="icon"></span>RECENT POSTS</a>
             </div>
-            
-            
-
+            <div class="recent-posts">
+                {% for post in site.posts limit:5 %}
+                <a class="recent-post" href="{{ BASE_PATH }}{{ post.url }}">
+                    <span class="recent-post-date">{{ post.date | date_to_string }}</span>
+                    <span class="recent-post-title" >{{ post.title }}</span>
+                </a>
+                {% endfor %}
+            </div>
+            <div class="sidebar-title">
+                <a href="https://www.instagram.com/hikeventures/"><span class="icon"></span>HikeVentures</a>
+            </div>
+            <div class="sidebar-image">
+                <a class="thumbnail" href="https://www.instagram.com/p/7QBFDcLtcu/">
+                    <img src="https://farm2.staticflickr.com/1610/23772985064_3fbd9bc04d.jpg" alt="">
+                    <div class="overlay"></div>
+                    <span class="caption">Japan</span>
+                </a>
+            </div>
+            <div class="sidebar-image">
+                <a class="thumbnail" href="https://www.instagram.com/p/BAmCJxHLtYA/">
+                    <img src="https://farm2.staticflickr.com/1567/24352382561_1ff06e93d3.jpg" alt="">
+                    <div class="overlay"></div>
+                    <span class="caption">Finland</p></span>
+                </a>
+            </div>
+            <div class="sidebar-image">
+                <a class="thumbnail" href="https://www.instagram.com/p/-HrSq_rtdb/">
+                    <img src="https://farm2.staticflickr.com/1654/23774388833_a6c5f6768b.jpg" alt="">
+                    <div class="overlay"></div>
+                    <span class="caption">Sweden</span>
+                </a>
+            </div>
+            <center>
+                <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/HikeVentures"
+                   data-chrome="noborders" height="600px" width="100%"
+                   data-link-color="#FF8000" data-widget-id="272762413726695424">Tweets by @HikeVentures</a>
+                <script>!function (d, s, id) {
+                    var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
+                    if (!d.getElementById(id)) {
+                        js = d.createElement(s);
+                        js.id = id;
+                        js.src = p + "://platform.twitter.com/widgets.js";
+                        fjs.parentNode.insertBefore(js, fjs);
+                    }
+                }(document, "script", "twitter-wjs");</script>
+            </center>
+        </div>
+    </div>
 </div>

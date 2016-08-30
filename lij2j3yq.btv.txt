@@ -1,0 +1,36 @@
+﻿Merge remote-tracking branch 'refs/remotes/origin/new_design'
+
+# Conflicts:
+#	_includes/header.html
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	modified:   .gitignore
+#	modified:   Gemfile.lock
+#	modified:   _config.yml
+#	modified:   _includes/footer.html
+#	modified:   _includes/head.html
+#	modified:   _includes/header.html
+#	modified:   _layouts/default.html
+#	modified:   _layouts/page.html
+#	modified:   _layouts/post.html
+#	modified:   _sass/_base.scss
+#	modified:   css/main.scss
+#	new file:   css/new.css
+#	new file:   fonts/TrashHand.TTF
+#	new file:   fonts/norwester.otf
+#	modified:   index.html
+#
+

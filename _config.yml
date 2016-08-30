@@ -19,12 +19,11 @@ author :
   googleplus: HikeVentures
   pinterest: hikeventures
 
-paginate: 2
+paginate: 4
 
 gems:
   - jekyll-archives
   - jekyll-paginate
-  - jekyll-minifier
   - jekyll-seo-tag
 
 
@@ -34,10 +33,6 @@ url: http://www.hikeventures.com
 author:
   name: HikeVentures
   email: contact@hikeventures.com
-
-
-jekyll-minifier:
-  exclude: 'atom.xml' # Exclude files from processing - file name, glob pattern or array of file names and glob patterns
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
