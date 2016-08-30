@@ -49,10 +49,10 @@ published: true
 
 <tr>
         
-
+ <td><a href="/Thule-Legend-GoPro-case-etui">Thule Legend GoPro</a></td>
           <td><a href="/thule-Perspektiv-action-camera-case">Thule Perspektiv Action Camera Case</a></td>
 
-      <td><a href="/Thule-Legend-GoPro-case-etui">Thule Legend GoPro</a></td>
+     
        
              
 
