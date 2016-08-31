@@ -183,13 +183,6 @@ If you plan to do a longer trip then it might be a good idea to charge your head
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15581097668/in/photolist-pJRcuY-nbZrcA-nbXFbR-n9UVEg-hXNmLH-hXMq24-hXMK7h-hXNm3Z-dXbkpf-dL8yRc-dNuTzR-dNAuXb" title="Petzl Nao 2"><img src="https://c5.staticflickr.com/9/8270/15581097668_e4633233a6_b.jpg" width="1024" height="683" alt="Best headlamps in 2016 - Petzl Nao"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-    
-The [Petzl Nao](http://www.backcountry.com/petzl-nao-headlamp) headlamp is one of my favourite headlamps.
-
----   
-
-
 # FAQ on headlamps
    
 ## How to choose a good headlamp?
@@ -204,6 +197,12 @@ When deciding which headlamp you should purchase, you have to consider the facto
 * used in very cold condition (to carry the battery nearby your body to avoid battery drain)?
 * comfortable to wear?
 * battery life on each recharge?
+
+---
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15581097668/in/photolist-pJRcuY-nbZrcA-nbXFbR-n9UVEg-hXNmLH-hXMq24-hXMK7h-hXNm3Z-dXbkpf-dL8yRc-dNuTzR-dNAuXb" title="Petzl Nao 2"><img src="https://c5.staticflickr.com/9/8270/15581097668_e4633233a6_b.jpg" width="1024" height="683" alt="Best headlamps in 2016 - Petzl Nao"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    
+The [Petzl Nao](http://www.backcountry.com/petzl-nao-headlamp) headlamp is one of my favourite headlamps.
 
 ---
 
