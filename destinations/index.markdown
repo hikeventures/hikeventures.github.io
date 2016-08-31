@@ -40,7 +40,7 @@ footer: false
             <a class="thumbnail" href="http://www.hikeventures.com/Packrafting-in-Belgium/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
         <img src="https://farm2.staticflickr.com/1522/24636460000_af7bde811e_z.jpg" alt="" class="img-responsive">
         <div class="caption">
-            <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">The Semois</p>
+            <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Semois</p>
         </div></div></a></div></div>
        
 
@@ -48,7 +48,7 @@ footer: false
             <a class="thumbnail" href="http://www.hikeventures.com/Packrafting-Ardennes/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
         <img src="https://farm2.staticflickr.com/1697/24305033203_0687083ffd_z.jpg" alt="" class="img-responsive">
         <div class="caption">
-            <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">The Ourthe</p>
+            <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Ourthe</p>
         </div></div></a></div></div>
 </div>    
 
@@ -76,7 +76,7 @@ footer: false
             <a class="thumbnail" href="http://www.hikeventures.com/archipelago-trail/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
         <img src="https://c2.staticflickr.com/9/8400/28561417953_9be0b67110_z.jpg" alt="" class="img-responsive">
         <div class="caption">
-            <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">The Archipelago Trail</p>
+            <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Turku Archipelago Trail</p>
         </div></div></a></div></div>
 
 
