@@ -173,7 +173,9 @@ More heavy than the other jackets in our list, the Arcteryx Ceres Jacket is made
 
   </div>
 </div>
-<br><br><br>
+<br>
+<br>
+<br>
 <hr>
 
 # Accessories
