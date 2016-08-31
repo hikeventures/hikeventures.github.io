@@ -100,19 +100,20 @@ The Thule Guidepost will offer an updated suspension system and hipbelt in 2017.
 
 I hope this list helps you a bit to find your best backpack for 2017 to enjoy your next outdoor adventure. I have not tested any of those backpacks nor it's a complete list of all new backpacks but it should give you some ideas on what's on the market this year.
 
+---
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "true";
+amzn_assoc_search_bar = "false";
 amzn_assoc_tracking_id = "hikeve-20";
 amzn_assoc_search_bar_position = "top";
 amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_title = "GPS Outdoor Watches";
-amzn_assoc_default_search_phrase = "suunto spartan";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "edb1d00e614ad3a35eb0a5421405645c";
+amzn_assoc_title = "Search Results from Amazon";
+amzn_assoc_default_search_phrase = "backpacking";
+amzn_assoc_default_category = "Books";
+amzn_assoc_linkid = "7922fa089d307bdc80cd95b1a56dcdf7";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
