@@ -1,12 +1,9 @@
 ---
 published: true
 layout: post
-date: '2016-02-24 22:43:52 +0200'
-comments: true
+date: 2016-02-24 22:43:52 +0200
 title: Therm-a-Rest EvoLite Review
-description: >-
-  A review about the Therm-a-Rest Evolite sleeping pad which we have tested in
-  Sweden and Japan
+description: A review about the Therm-a-Rest Evolite sleeping pad which we have tested in Sweden and Japan
 category: reviews
 tags:
   - reviews

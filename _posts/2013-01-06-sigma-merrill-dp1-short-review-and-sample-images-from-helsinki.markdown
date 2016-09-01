@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sigma Merrill DP1
-date: 2013-01-06 20:43
+date: 2013-01-06 20:43 +0300
 description: A Sigma Merrill DP1 Camera Review
 category: reviews
 tags: [reviews, photography, camera, sigma]

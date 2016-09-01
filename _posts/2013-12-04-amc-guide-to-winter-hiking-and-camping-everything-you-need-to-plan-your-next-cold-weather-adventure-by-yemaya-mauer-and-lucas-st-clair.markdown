@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Clair &amp; Maurer: AMC guide to winter hiking and camping"
-date: "2013-12-04 23:26:13 +0200"
-comments: true
+title: Clair &amp; Maurer: AMC guide to winter hiking and camping
+date: 2013-12-04 23:26:13 +0200
 description: A great book to learn winter hiking and camping
 category: reviews
 tags: [reviews, books]

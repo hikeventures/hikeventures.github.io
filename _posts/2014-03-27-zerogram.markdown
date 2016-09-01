@@ -1,8 +1,8 @@
 ---
 layout: post
-title: zerogram
-date: "2014-04-01 07:40:00 +0200"
-description: zerogram outdoor gear company
+title: Zerogram Interview
+date: 2014-04-01 07:40:00 +0200
+description: A short presentation of the outdoor company zerogram
 category: interviews
 tags: [interviews]
 ---

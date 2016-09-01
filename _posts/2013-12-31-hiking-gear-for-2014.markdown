@@ -1,9 +1,7 @@
 ---
 layout: post
-title: "Hiking Gear for 2014"
+title: Hiking Gear for 2014
 date: 2013-12-31 09:33:04 +0200
-comments: true
-author: Patrick
 description: Gear I am planning to buy for 2014
 category: articles
 tags: [articles, best, hiking]

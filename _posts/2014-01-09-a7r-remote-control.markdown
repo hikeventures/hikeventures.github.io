@@ -1,9 +1,7 @@
 ---
 layout: post
-title: "a7R remote control"
+title: a7R remote control
 date: 2014-01-09 19:06:26 +0200
-comments: true
-author: Patrick
 description: remote control for the Sony A7r
 category: reviews
 tags: [reviews, camera, photography, a7r, remote control]

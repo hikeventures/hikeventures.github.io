@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Michele Genest - The Boreal Feast
-date: '2016-04-25 10:00  +0300'
-comments: true
+date: 2016-04-25 10:00 +0300
 published: true
 category: reviews
 tags:

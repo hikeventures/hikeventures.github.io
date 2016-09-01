@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The 4 Best Wind Jackets for 2016
-date: '2016-01-04 10:56:22 +0200'
-comments: true
+date: 2016-01-04 10:56:22 +0200
 published: true
 description: Top 5 windproof Jackets for 2016 for your next outdoor adventure!
 category: articles

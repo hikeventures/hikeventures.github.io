@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Primus Express Stove
-date: 2013-02-23 15:10
-comments: true
+date: 2013-02-23 15:10 +0300
 description: Primus Express Stove Review
 category: reviews
 tags: [reviews, primus, stove]

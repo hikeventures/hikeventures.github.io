@@ -1,8 +1,7 @@
 ---
 layout: post
 title: e5 - Crossing the Alps from Germany to Italy
-date: 2012-11-25 17:41
-comments: true
+date: 2012-11-25 17:41 +0300
 description: Walking from Germany to Italy. Our 6 days adventure in the Alps.
 category: destinations
 tags: [destinations, alps, mountains, e5]

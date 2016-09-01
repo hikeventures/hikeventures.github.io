@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Wave of Arizona"
+title: The Wave of Arizona
 date: 2014-03-29 09:16:01 +0200
 category: interviews
 tags: [interviews]

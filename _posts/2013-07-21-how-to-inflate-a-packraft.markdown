@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Learning how to Packraft
-date: 2013-05-06 16:52
-comments: true
+date: 2013-05-06 16:52 +0300
 description: Learning Packrafting is not difficult - as long as you don't go for whitewater
 category: articles
 tags: [articles, packrafting]

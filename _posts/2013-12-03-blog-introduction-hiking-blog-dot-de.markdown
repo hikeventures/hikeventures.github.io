@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Hiking-Blog"
+title: Hiking-Blog
 date: 2013-12-03 16:13:49 +0200
-comments: true
 description: Introduction of the Hiking-Blog
 category: interviews
 tags: [interviews]

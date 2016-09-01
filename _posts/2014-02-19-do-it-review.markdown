@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do It Review
-date: "2014-02-19 18:22:24 +0200"
+date: 2014-02-19 18:22:24 +0200
 author: Do It Review
 description: Do It Review Blog Introduction
 category: interviews

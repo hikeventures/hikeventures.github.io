@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fran Reisner - Journey in Focus"
+title: Fran Reisner - Journey in Focus
 date: 2014-02-18 22:25:33 +0200
 description: Fran Reisner Blog - Journey in Focus
 category: interviews

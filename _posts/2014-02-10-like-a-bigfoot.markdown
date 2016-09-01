@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Like a Bigfoot"
+title: Like a Bigfoot
 date: 2014-02-10 17:05:24 +0200
-comments: true
 description: Blog of Like a Bigfoot
 category: interviews
 tags: [interviews]

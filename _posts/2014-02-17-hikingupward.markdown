@@ -1,8 +1,7 @@
 ---
 layout: post
 title: HikingUpward
-date: "2014-02-17 19:04:47 +0200"
-comments: true
+date: 2014-02-17 19:04:47 +0200
 description: HikingUpward Blog Introduction
 category: interviews
 tags: [interviews]

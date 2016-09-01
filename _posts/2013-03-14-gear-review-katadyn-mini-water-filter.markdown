@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Katadyn Mini Water Filter
-date: "2013-03-14 17:39"
-comments: true
+date: 2013-03-14 17:39 +0300
 description: "Katadyn Mini Water Filter - Your next water filter  Review"
 category: reviews
 tags: [reviews, kitchen, katadyn]

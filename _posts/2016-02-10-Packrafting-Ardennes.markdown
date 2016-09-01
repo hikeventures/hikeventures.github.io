@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Packrafting the Ourthe in the Belgian Ardennes"
+title: Packrafting the Ourthe in the Belgian Ardennes
 date: 2016-02-10 06:45:00 +0300
-comments: true
 published: true
 description: Packrafting adventure in the Belgian Ardennes
 category: destinations

@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Werner Shuna - Best Packrafting Paddles?"
-date: "2013-07-15 19:59"
-comments: true
-description: "The best paddles for your packrafting adventure - Werner Shuna"
+title: Werner Shuna - Best Packrafting Paddles?
+date: 2013-07-15 19:59 +0300
+description: The best paddles for your packrafting adventure - Werner Shuna
 category: reviews
 tags: [reviews, wernerpaddles, packrafting]
 ---

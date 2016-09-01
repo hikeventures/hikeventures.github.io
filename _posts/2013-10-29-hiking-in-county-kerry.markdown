@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Hiking in County Kerry
-date: 2013-10-29 23:54
-comments: true
+date: 2013-10-29 23:54 +0300
 description: Our adventure to the highest mountain of Ireland.
 category: destinations
 tags: [destinations, ireland, mountains]

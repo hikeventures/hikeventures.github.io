@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Rab Microlight Alpine Jacket Review
-date: "2013-02-05 19:35"
-comments: true
+date: 2013-02-05 19:35 +0300
 published: true
 description: Review on the Rab Microlight Alpine Jacket
 category: reviews

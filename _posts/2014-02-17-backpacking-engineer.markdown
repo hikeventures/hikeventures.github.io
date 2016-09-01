@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Backpacking Engineer"
+title: Backpacking Engineer Interview
 date: 2014-02-17 19:21:00 +0200
-comments: true
 description: Blog introduction of the Backpacking Engineer
 category: interviews
 tags: [interviews]

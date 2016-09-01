@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Nature Travel Network"
-date: 2013-12-20 05:14:52
-comments: true
+title: Nature Travel Network
+date: 2013-12-20 05:14:52 +0300
 description: Introduction of the Nature Travel Network
 category: interviews
 tags: [interviews]

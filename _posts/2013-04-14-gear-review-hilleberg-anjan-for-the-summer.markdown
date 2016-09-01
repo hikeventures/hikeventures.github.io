@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Hilleberg Anjan Review
-date: "2013-04-14 10:54"
-comments: true
+date: 2013-04-14 10:54 +0300
 description: Hillebergs three season tent.  The Anjan Tent Review.
 category: reviews
 tags: [reviews, tents, hilleberg]

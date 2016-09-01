@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Hiking in Seitseminen
-date: 2012-11-27 16:28
-comments: true
+date: 2012-11-27 16:28 +0300
 description: Our adventure at Seitseminen National Park - Beautiful lakes and hiking trails
 category: destinations
 tags: [destinations, hiking, seitseminen, finland]

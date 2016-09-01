@@ -1,9 +1,7 @@
 ---
 layout: post
-title: "Hiking the Trail"
-date: 2013-12-20 05:17:39
-comments: true
-author: Introduction of Hiking the Trail blog
+title: Hiking the Trail Interview
+date: 2013-12-20 05:17:39 +0300
 description: Hiking the Trail
 category: interviews
 tags: [interviews]

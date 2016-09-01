@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Retkipaikka
-date: "2014-04-3 17:28:03 +0200"
+date: 2014-04-3 17:28:03 +0200
 category: interviews
 tags: [interviews]
 description: Retkipaikka

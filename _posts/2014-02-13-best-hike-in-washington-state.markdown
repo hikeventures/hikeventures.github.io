@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Best hike in Washington State"
+title: Best hike in Washington State
 date: 2014-02-13 06:51:16 +0200
-comments: true
 description: Hiking and Photography in Washington State
 category: interviews
 tags: [interviews]

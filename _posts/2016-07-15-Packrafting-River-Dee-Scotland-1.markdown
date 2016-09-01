@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Packrafting the River Dee in Scotland - Day 1
-date: '2016-07-15 06:46:20 +0200'
+date: 2016-07-15 06:46:20 +0200
 category: destinations
 published: true
 tags: [destinations, packrafting, scotland]

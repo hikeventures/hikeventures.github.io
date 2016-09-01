@@ -1,9 +1,8 @@
 ---
 layout: post
 title: The best ski and snowboarding gloves for 2016
-date: '2016-01-03 19:10:07 +0300'
-comments: true
-description: 'The best winter gloves for skiing, snowboarding or snowshoeing'
+date: 2016-01-03 19:10:07 +0300
+description: The best winter gloves for skiing, snowboarding or snowshoeing
 category: articles
 tags:
   - articles

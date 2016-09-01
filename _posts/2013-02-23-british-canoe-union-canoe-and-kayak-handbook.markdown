@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "British Canoe Union: Canoe and Kayak Handbook"
-date: "2013-02-23 14:27"
-comments: true
+title: British Canoe Union: Canoe and Kayak Handbook
+date: 2013-02-23 14:27 +0300
 published: true
 description: Review of a Canoe and Kayak Handbook
 category: reviews

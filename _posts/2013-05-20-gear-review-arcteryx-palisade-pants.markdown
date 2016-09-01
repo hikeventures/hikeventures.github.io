@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Arcteryx Palisade Pants Review
-date: "2013-05-20 20:21"
-comments: true
-description: "Lightweight and fast drying - Arcteryx Palisade Pants Review"
+date: 2013-05-20 20:21 +0300
+description: Lightweight and fast drying - Arcteryx Palisade Pants Review
 category: reviews
 tags: [reviews, arcteryx, pants]
 ---

@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Petzl Attache 3D
-date: "2014-01-02 10:19:11 +0200"
-comments: true
-description: "A carabiner which I also use for Hiking and Packrafting - Petzl Attache 3D"
+date: 2014-01-02 10:19:11 +0200
+description: A carabiner which I also use for Hiking and Packrafting - Petzl Attache 3D
 category: reviews
 tags: [reviews,petzl, carabiner]
 

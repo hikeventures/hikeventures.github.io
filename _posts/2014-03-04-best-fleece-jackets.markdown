@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The 5 Best Fleece Jackets for 2016
-date: '2015-03-04 17:20:20 +0200'
-comments: true
+date: 2015-03-04 17:20:20 +0200
 published: true
 description: Top 5 of the best fleece jackets 2015 for your next outdoor adventure
 category: articles

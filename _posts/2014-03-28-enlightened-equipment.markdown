@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Enlightened Equipment
-date: "2014-04-02 17:39:39 +0200"
+date: 2014-04-02 17:39:39 +0200
 description: Introduction of Enlightened Equipment
 category: interviews
 tags: [interviews]

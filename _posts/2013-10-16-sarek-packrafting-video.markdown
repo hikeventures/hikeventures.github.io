@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Sarek Packrafting Video"
-date: 2013-10-16 00:49
-comments: true
+title: Sarek Packrafting Video
+date: 2013-10-16 00:49 +0300
 description: Sarek Packrafting Video
 category: videos
 tags: [videos, sarek, packrafting, sweden]

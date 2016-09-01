@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "A Spectacular Day in Mount Rainer National Park"
+title: A Spectacular Day in Mount Rainer National Park
 date: 2014-02-21 22:21:20 +0200
-comments: true
 description: Discover Mount Rainer National Park
 category: interviews
 tags: [interviews]

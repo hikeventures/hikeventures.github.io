@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Navigation Tools for Hiking
-date: "2013-07-20 13:38"
-comments: true
+date: 2013-07-20 13:38 +0300
 description: Tools I use for Hiking and Packrafting
 category: reviews
 tags: [reviews, maps, calazo]

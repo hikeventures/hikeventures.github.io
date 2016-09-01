@@ -1,9 +1,7 @@
 ---
 layout: post
-title: "The shortest day of the year in Finland"
+title: The shortest day of the year in Finland
 date: 2013-12-21 13:04:11 +0200
-comments: true
-author: Patrick
 description: The winter is long and dark in Finland. 
 category: articles
 tags: [articles, finland]

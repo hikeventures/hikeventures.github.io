@@ -2,7 +2,6 @@
 layout: post
 title: Thule RideAlong Review
 date: 2016-06-18 07:30 +0300
-comments: true
 published: false
 category: reviews
 tags: [reviews, Thule, bicycling]

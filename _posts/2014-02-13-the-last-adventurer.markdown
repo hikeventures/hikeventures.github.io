@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The Last Adventurer
-date: "2014-02-13 07:00:16 +0200"
-comments: true
+date: 2014-02-13 07:00:16 +0200
 description: Introduction to The Last Adventurer blog
 category: interviews
 tags: [interviews]

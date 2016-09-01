@@ -2,7 +2,6 @@
 layout: post
 title: Sea to Summit Ultra Flex Booties Review
 date: 2016-03-23 07:30 +0300
-comments: true
 published: true
 category: reviews
 tags: [reviews, seatosummit, packrafting, shoes]

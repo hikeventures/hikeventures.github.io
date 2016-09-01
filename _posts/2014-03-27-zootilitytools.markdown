@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZootilityTools"
+title: ZootilityTools
 date: 2014-03-31 11:09:00 +0200
 description: ZootilityTools Blog Introduction
 category: interviews

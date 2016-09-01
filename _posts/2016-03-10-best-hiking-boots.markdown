@@ -1,11 +1,8 @@
 ---
 layout: post
 title: The Best Hiking Boots for 2016
-date: '2016-03-02 09:13:12 +0200'
-comments: true
-description: >-
-  Looking for new hiking boots? Here are the best boots for hiking and
-  backpacking for 2016
+date: 2016-03-02 09:13:12 +0200
+description: Looking for new hiking boots? Here are the best boots for hiking and backpacking for 2016
 category: articles
 tags:
   - articles

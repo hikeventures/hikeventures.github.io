@@ -1,13 +1,9 @@
 ---
 published: true
 layout: post
-date: '2016-02-08 07:28:01 +0300'
-description: >-
-  Testing the MSR Revo Ascent, Lightning Ascent, Deploy TR-2 and Flight 2 in the
-  Austrian Alps
-title: >-
-  Reviewing the MSR Revo Ascent, Ascent Light, Deploy TR-2 and Flight 2 in the
-  Austrian Alps
+date: 2016-02-08 07:28:01 +0300
+description: Testing the MSR Revo Ascent, Lightning Ascent, Deploy TR-2 and Flight 2 in the Austrian Alps
+title: Reviewing the MSR Revo Ascent, Ascent Light, Deploy TR-2 and Flight 2 in the Austrian Alps
 category: reviews
 tags:
   - reviews

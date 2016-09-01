@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Survey - The use of Technology Outdoors
-date: '2016-01-10 16:00:01 +0300'
+date: 2016-01-10 16:00:01 +0300
 published: true
 description: Survey on how people use technology outdoors
 category: articles

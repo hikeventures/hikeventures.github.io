@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Lukes Ultralite Clothing
-date: "2014-02-20 17:12:37 +0200"
-comments: true
+date: 2014-02-20 17:12:37 +0200
 description: Lukes Ultralite Clothing Introduction
 category: interviews
 tags: [interviews]

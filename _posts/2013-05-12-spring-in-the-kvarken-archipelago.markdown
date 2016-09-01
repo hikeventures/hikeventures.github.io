@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Spring in the Kvarken Archipelago"
-date: 2013-05-12 18:46
-comments: true
+title: Spring in the Kvarken Archipelago
+date: 2013-05-12 18:46 +0300
 description: First signs of spring in the Kvarken Archipelago
 category: destinations
 tags: [destinations, finland, archipelago]

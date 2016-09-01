@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Suunto Ambit2 Black HR
-date: "2013-05-08 16:38"
-comments: true
-description: "GPS watch - Suunto Ambit2 Black HR"
+title: Suunto Ambit2 Black HR Review
+date: 2013-05-08 16:38 +0300
+description: GPS watch - Suunto Ambit2 Black HR
 category: reviews
 tags: [reviews, suunto, gps, watch]
 ---

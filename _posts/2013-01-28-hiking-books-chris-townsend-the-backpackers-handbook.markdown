@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Chris Townsend - The Backpacker's Handbook
-date: 2013-01-28 17:09
-comments: true
+date: 2013-01-28 17:09 +0300
 description: Chris Townsend - The Backpacker's Handbook
 category: reviews
 tags: [reviews, books, hiking]

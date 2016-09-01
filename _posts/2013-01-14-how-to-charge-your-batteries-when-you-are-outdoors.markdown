@@ -1,8 +1,7 @@
 ---
 layout: post
 title: How to charge your batteries when you are outdoors?
-date: 2013-01-14 18:19
-comments: true
+date: 2013-01-14 18:19 +0300
 description: Instructions on how to charge your batteries when you are outdoors
 category: articles
 tags: [articles, batteries]

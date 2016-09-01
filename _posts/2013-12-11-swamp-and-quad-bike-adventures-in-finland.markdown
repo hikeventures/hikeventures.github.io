@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Swamp and Quad bike adventures in Finland"
-date: 2012-12-11 20:43
-comments: true
+title: Swamp and Quad bike adventures in Finland
+date: 2012-12-11 20:43 +0300
 description: Adventuring through the Finnish wilderness with a quad bike.
 category: articles
 tags: [articles, quad bike, finland]

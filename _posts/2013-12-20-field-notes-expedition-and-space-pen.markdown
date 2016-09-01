@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "How to document your hiking trip?"
-date: "2013-12-20 18:50:22 +0200"
-comments: true
+title: How to document your hiking trip?
+date: 2013-12-20 18:50:22 +0200
 description: Maybe the best hiking gear for writers and journalists
 category: reviews
 tags: [reviews, field notes, blogging]

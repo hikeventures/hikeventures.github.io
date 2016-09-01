@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Mountain Equipment AR Ultralite 2 Review
-date: "2014-04-05 08:44:22 +0300"
-comments: true
-description: "Mountain Equipment AR Ultralite 2 - Ultralight tent"
+date: 2014-04-05 08:44:22 +0300
+description: Mountain Equipment AR Ultralite 2 - Ultralight tent
 category: reviews
 tags: [reviews, mountain equipment, tents]
 ---

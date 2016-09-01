@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The best PFD / Life Jacket for Packrafting
-date: '2016-05-29 09:46:20 +0200'
-comments: true
+date: 2016-05-29 09:46:20 +0200
 description: PFD's we would take on our packrafting trip
 category: best
 tags:

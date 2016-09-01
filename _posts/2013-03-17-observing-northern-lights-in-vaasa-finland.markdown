@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Observing Northern Lights in Vaasa
-date: 2013-03-17 23:28
-comments: true
+date: 2013-03-17 23:28 +0300
 description: When Northern Lights appear in Vaasa
 category: articles
 tags: [articles, vaasa, northern lights]

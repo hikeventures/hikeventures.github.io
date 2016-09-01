@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lost Swiss Miss"
+title: Lost Swiss Miss Interview
 date: 2014-01-11 17:14:15 +0200
 description: Lost Swiss Miss Blog Introduction
 category: interviews

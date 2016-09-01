@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Meanderthals"
+title: Meanderthals
 date: 2014-02-14 22:56:18 +0200
-comments: true
 description: Blog intorduction of the Meanderthals
 category: interviews
 tags: [interviews]

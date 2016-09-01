@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Klymit"
+title: Klymit Interview
 date: 2013-12-16 19:01:32 +0200
-comments: true
 description: Introduction of Klymit Outdoor Gear
 category: interviews
 tags: [interviews]

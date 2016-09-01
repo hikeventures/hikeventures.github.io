@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Ortlieb Document Case
-date: "2013-03-21 18:48"
-comments: true
+date: 2013-03-21 18:48 +0300
 description: Ortlieb Document Case Review
 category: reviews
 tags: [reviews, bags, ortlieb, maps]

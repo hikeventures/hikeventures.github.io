@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Food list for Sarek"
+title: Food list for Hiking and Packrafting in the Sarek National Park
 date: 2013-07-18 16:00
-comments: true
 description: Our food list for our Sarek adventure
 category: articles
 tags: [articles, sarek, sweden, kitchen, food, list]

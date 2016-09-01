@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Arcteryx Kappa Pant Review
-date: "2014-02-09 08:56:12 +0200"
-comments: true
-description: "Arcteryx Kappa Pant - Winter Pants for hiking, skiing and snowboarding"
+date: 2014-02-09 08:56:12 +0200
+description: Arcteryx Kappa Pant - Winter Pants for hiking, skiing and snowboarding
 category: reviews
 tags: [reviews, pants, arcteryx]
 ---

@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Central Florida Hiker"
+title: Central Florida Hiker
 date: 2014-02-14 16:30:25 +0200
-comments: true
 description: Central Florida Hiker
 category: interviews
 tags: [interviews]

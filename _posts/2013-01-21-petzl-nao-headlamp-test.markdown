@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Petzl Nao
-date: 2013-01-21 23:22
-comments: true
+date: 2013-01-21 23:22 +0300
 description: Petzl Nao headlamp
 category: reviews
 tags: [reviews, petzl, lamps]

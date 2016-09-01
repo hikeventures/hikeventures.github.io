@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Katabatic Gear Chisos
-date: "2013-05-12 09:34"
-comments: true
+title: Katabatic Gear Chisos Review
+date: 2013-05-12 09:34 +0300
 description: Katabatic Gear Chisos Review
 category: reviews
 tags: [reviews, katabatic gear, sleeping bags]

@@ -1,15 +1,12 @@
 ---
 layout: post
 title: ISPO 2016 - Product Highlights
-date: '2016-02-04 15:28:01 +0300'
-comments: true
+date: 2016-02-04 15:28:01 +0300
 category: articles
 tags:
   - articles
   - ispo
-description: >-
-  Interviews with major outdoor brands about their product highlights at the
-  ISPO 2016 in Munich.
+description: Interviews with major outdoor brands about their product highlights at the ISPO 2016 in Munich.
 published: true
 ---
 This year we have been to the ISPO in Munich to create a series of videos where we interviewed 31 outdoor brands about their latest product highlights for 2016. We have not done any video interviews in the past so this was an exciting opportunity to get more into videos and at the same time meet new people. Also new at the ISPO this year was that there was a dedicated lounge for bloggers. You can find the playlist of all of our ISPO 2016 videos [here](https://www.youtube.com/playlist?list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM).

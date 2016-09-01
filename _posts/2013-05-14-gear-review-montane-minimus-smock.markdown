@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Montane Minimus Smock Review
-date: "2013-05-14 18:21"
-comments: true
+date: 2013-05-14 18:21 +0300
 description: Montane Minimus Smock Review
 category: reviews
 tags: [reviews, montane minimus, jackets]

@@ -1,9 +1,8 @@
 ---
 layout: post
 title: GoExpo 2014 in Helsinki
-date: "2014-03-09 21:15:24 +0200"
-comments: true
-description: "GoExpo 2014 - Outdoor Exhibition in Helsinki"
+date: 2014-03-09 21:15:24 +0200
+description: GoExpo 2014 - Outdoor Exhibition in Helsinki
 category: articles
 tags: [articles, goexpo, helsinki, finland]
 ---

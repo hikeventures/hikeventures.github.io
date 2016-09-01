@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Howlingmist"
+title: Howlingmist
 date: 2014-02-09 19:19:03 +0200
-comments: true
 description: Introduction to the blog Howlingmist
 category: interviews
 tags: [interviews]

@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "My three favourite hiking items"
-date: 2013-01-22 17:52
-comments: true
+title: My three favourite hiking items
+date: 2013-01-22 17:52 +0300
 description: Three items I take with me when I go hiking
 category: articles
 tags: [articles, hiking]

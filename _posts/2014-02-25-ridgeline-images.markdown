@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ridgeline Images"
+title: Ridgeline Images
 date: 2014-02-25 19:07:23 +0200
 category: interviews
 tags: [interviews]

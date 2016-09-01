@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Outdoors Tidbits 47
-date: '2016-02-25 05:28:01 +0300'
+date: 2016-02-25 05:28:01 +0300
 published: true
-description: 'The latest outdoor gear reviews, tips & tricks - Nr. 47'
+description: The latest outdoor gear reviews, tips & tricks - Nr. 47
 category: tidbits
 tags:
   - tidbits

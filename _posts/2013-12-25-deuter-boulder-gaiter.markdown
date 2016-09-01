@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Deuter Boulder Gaiter
+title: Deuter Boulder Gaiter Review
 date: 2013-12-25T21:05:59.000Z
-comments: true
 description: Gaiter protect you of water and dirt getting into your shoes.
 category: reviews
 tags: [reviews, deuter, gaiter]

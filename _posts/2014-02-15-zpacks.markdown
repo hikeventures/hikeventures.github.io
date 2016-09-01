@@ -1,8 +1,7 @@
 ---
 layout: post
-title: ZPacks
-date: "2014-02-15 18:33:40 +0200"
-comments: true
+title: ZPacks Interview
+date: 2014-02-15 18:33:40 +0200
 description: ZPacks Introduction
 category: interviews
 tags: [interviews]

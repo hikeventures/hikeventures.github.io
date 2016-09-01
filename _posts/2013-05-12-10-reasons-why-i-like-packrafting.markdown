@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "10 reasons why I like Packrafting"
-date: 2013-05-12 06:57
-comments: true
+title: 10 reasons why I like Packrafting
+date: 2013-05-12 06:57 +0300
 description: 10 reasons why I like Packrafting
 category: articles
 tags: [articles, packrafting]

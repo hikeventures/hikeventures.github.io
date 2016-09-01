@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Arcteryx Squamish Hoody
-date: "2013-07-01 20:03"
-comments: true
+title: Arcteryx Squamish Hoody Review
+date: 2013-07-01 20:03 +0300
 description: Probably the best wind jacket for your next adventure Arcteryx Squamish Hoody
 category: reviews
 tags: [reviews, arcteryx, jackets]

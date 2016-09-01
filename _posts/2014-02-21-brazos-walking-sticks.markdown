@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brazos Walking Sticks"
+title: Brazos Walking Sticks
 date: 2014-02-21 22:39:35 +0200
 description: Introducing Brazos Walking Sticks for your next hiking adventure
 category: interviews

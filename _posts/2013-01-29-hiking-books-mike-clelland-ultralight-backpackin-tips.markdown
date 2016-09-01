@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Mike Clelland - Ultralight Backpackin' Tips"
-date: "2013-01-29 17:40"
-comments: true
+title: Mike Clelland - Ultralight Backpackin' Tips
+date: 2013-01-29 17:40 +0300
 description: Good book about ultralight backpacking
 category: reviews
 tags: [reviews,books]

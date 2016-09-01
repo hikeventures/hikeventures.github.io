@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The best wallet for hiking and backpacking
-date: '2016-04-18 07:31  +0300'
-comments: true
+date: 2016-04-18 07:31 +0300
 published: true
 category: review
 tags:

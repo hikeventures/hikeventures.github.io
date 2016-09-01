@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Trekking and Packrafting in Japan Northern Alps
-date: '2016-04-11 06:31  +0300'
-comments: true
+date: 2016-04-11 06:31 +0300
 published: false
 category: destinations
 tags:

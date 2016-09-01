@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Turku Winter Wonderland at the Archipelago Sea
-date: '2016-01-18 06:00:19 +0300'
-comments: true
+date: 2016-01-18 06:00:19 +0300
 published: true
 description: A winter hike in Ruissalo Turku
 category: destinations

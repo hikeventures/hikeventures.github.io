@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Review: Tubbs Xpedition Snowshoe"
-date: "2013-12-10 21:11"
-comments: true
+title: Review: Tubbs Xpedition Snowshoe
+date: 2013-12-10 21:11 +0300
 description: Explore the great outdoors with these snowshoes
 category: reviews
 tags: [reviews, tubbs, snowshoeing]

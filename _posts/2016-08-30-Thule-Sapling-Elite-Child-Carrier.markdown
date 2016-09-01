@@ -2,7 +2,6 @@
 layout: post
 title: Thule Sapling Elite Child Carrier Review
 date: 2016-08-30 14:10 +0300
-comments: true
 published: true
 category: reviews
 tags: [reviews, Thule, backpack]

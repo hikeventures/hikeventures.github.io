@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Montbell U.L. Down Parka Review
-date: "2013-03-21 17:52"
-comments: true
-description: "Perfect down Parka for the winter and autumn months - Montbell U.L. Down Parka Review"
+date: 2013-03-21 17:52 +0300
+description: Perfect down Parka for the winter and autumn months - Montbell U.L. Down Parka Review
 category: reviews
 tags: [reviews, jackets]
 ---

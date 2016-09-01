@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Vaasa Time-lapse"
+title: Vaasa Time-lapse
 date: 2014-01-30 22:11:11 +0200
-comments: true
 description: Time-lapse Video mad in Vaasa
 category: videos
 tags: [videos, timelapse, vaasa, finland]

@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Kinttupolulla"
+title: Kinttupolulla
 date: 2014-02-11 20:49:38 +0200
-comments: true
 description: Kinttupolulla
 category: interviews
 tags: [interviews]

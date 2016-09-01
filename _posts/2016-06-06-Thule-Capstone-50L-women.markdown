@@ -1,8 +1,7 @@
 ---
 layout: post
-title: 'JAPAN, THUVI and I - Thule Capstone 50L Women’s Hiking Pack Review'
-date: '2016-06-06 07:30 +0300'
-comments: true
+title: JAPAN, THUVI and I - Thule Capstone 50L Women’s Hiking Pack Review
+date: 2016-06-06 07:30 +0300
 published: true
 category: reviews
 tags:
