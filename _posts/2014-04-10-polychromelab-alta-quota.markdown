@@ -1,10 +1,9 @@
 ---
 layout: post
 title: polychromeLAB Alta Quota
-date: "2014-04-14 21:09:26 +0200"
-comments: true
+date: 2014-04-14 21:09:26 +0200
 published: true
-description: "polychromeLAB Alta Quota - High Tech Outdoor Jacket from Italy"
+description: polychromeLAB Alta Quota - High Tech Outdoor Jacket from Italy
 category: reviews
 tags: [reviews, jackets, polychromelab]
 ---

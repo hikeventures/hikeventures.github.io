@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Advent Calendar: Giveaway 6"
+title: Advent Calendar: Giveaway 6
 date: 2014-12-18 13:52:20 +0200
-comments: true
 description: Goal Zero Guide 10 Plus Solar Kit
 category: campaigns
 tags: [campaigns]

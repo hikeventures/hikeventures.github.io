@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Leatherman Style CS Review
-date: "2014-04-08 08:34:58 +0200"
+date: 2014-04-08 08:34:58 +0200
 published: true
-description: "Our Review for the Leatherman Style CS - outdoor tool"
+description: Our Review for the Leatherman Style CS - outdoor tool
 category: reviews
 tags: [reviews, leatherman, knives]
 ---

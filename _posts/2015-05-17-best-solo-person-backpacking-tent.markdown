@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The best solo person backpacking tent in 2016
-date: '2016-01-03 00:07:07 +0300'
-comments: true
+date: 2016-01-03 00:07:07 +0300
 description: Overview of the best solo person backpacking tent for 2016.
 category: articles
 tags:

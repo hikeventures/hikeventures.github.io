@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Exped Air Pillow UL
-date: "2014-08-18 21:06:55 +0300"
+date: 2014-08-18 21:06:55 +0300
 comments: true
-description: "Ultralight air pillow for the great outdoors - Exped Air Pillow UL Review"
+description: Ultralight air pillow for the great outdoors - Exped Air Pillow UL Review
 category: reviews
 tags: [reviews, exped, sleeping pads]
 ---

@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Naantali - one of the best places to visit at the Baltic Sea
-date: '2015-06-30 06:56:00 +0300'
-comments: true
-description: Naantali - The gold coast of Finland
+title: Naantali - one of the best places to visit at the Baltic Sea nearby Turku.
+date: 2015-06-30 06:56:00 +0300
+description: A day visit in Naantali - The gold coast of Finland.
 category: destinations
 tags:
   - destinations

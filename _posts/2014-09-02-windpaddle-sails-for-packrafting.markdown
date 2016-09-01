@@ -1,8 +1,7 @@
 ---
 layout: post
 title: WindPaddle Sails for Packrafting Review
-date: "2014-09-02 12:57:50 +0300"
-comments: true
+date: 2014-09-02 12:57:50 +0300
 description: More fun with your Packraft with a sail on it
 category: destinations
 tags: [reviews, windpaddle sail, packrafting]

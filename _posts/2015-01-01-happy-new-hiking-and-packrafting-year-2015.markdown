@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Happy new Hiking and Packrafting Year 2015"
+title: Happy new Hiking and Packrafting Year 2015
 date: 2015-01-01 15:47:59 +0200
-comments: true
 description: Happy New eyear 2015
 category: news
 tags: [news]

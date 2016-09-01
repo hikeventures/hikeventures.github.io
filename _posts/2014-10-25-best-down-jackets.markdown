@@ -1,10 +1,8 @@
 ---
 layout: post
 title: What are the best Down Jackets for 2016
-date: '2016-01-03 20:43:52 +0200'
-comments: true
-description: Need a warm jacket for your autumn or winter? We found the best down jackets
-  for 2016
+date: 2016-01-03 20:43:52 +0200
+description: Need a warm jacket for your autumn or winter? We found the best down jackets for 2016
 category: articles
 tags:
   - articles

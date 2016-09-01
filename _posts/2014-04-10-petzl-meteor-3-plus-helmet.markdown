@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Petzl Meteor 3+ Helmet Review
-date: "2014-04-17 18:01:01 +0200"
-comments: true
+date: 2014-04-17 18:01:01 +0200
 published: true
-description: "Petzl Meteor 3+ - A helmet for Packrafting and Climbing"
+description: Petzl Meteor 3+ - A helmet for Packrafting and Climbing
 category: reviews
 tags: [reviews, petzl, helmet, packrafting]
 ---

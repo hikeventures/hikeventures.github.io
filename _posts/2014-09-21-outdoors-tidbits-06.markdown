@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Outdoors Tidbits 6"
+title: Outdoors Tidbits 6
 date: 2014-09-21 07:42:26 +0300
-comments: true
-description: The latest outdoor gear reviews, tips & tricks - Nr. 6 - #outdoorstidbits
+description: The latest outdoor gear reviews, tips & tricks - Nr. 6
 category: tidbits
 tags: [tidbits]
 ---

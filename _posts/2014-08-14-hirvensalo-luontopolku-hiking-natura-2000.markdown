@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Hirvensalo Luontopolku Hiking - Natura 2000"
+title: Hirvensalo Luontopolku Hiking - Natura 2000
 date: 2014-08-14 22:05:28 +0300
-comments: true
 description: Hiking in Hirvensalo on the Natura 2000 trail
 category: destinations
 tags: [destinations, finland, hirvensalo, turku, hiking]

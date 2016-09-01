@@ -1,12 +1,9 @@
 ---
 layout: post
 title: Gear List for Fjällräven Classic
-date: '2015-07-28 21:14:07 +0300'
-comments: true
+date: 2015-07-28 21:14:07 +0300
 published: true
-description: >-
-  Here is the gear which I take to Sweden for Fjällräven Classic and additional
-  packrafting
+description: Here is the gear which I take to Sweden for Fjällräven Classic and additional packrafting
 category: articles
 tags:
   - articles

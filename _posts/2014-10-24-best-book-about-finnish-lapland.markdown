@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Best book about Finnish Lapland
-date: "2014-10-24 17:27:50 +0300"
-comments: true
+date: 2014-10-24 17:27:50 +0300
 description: Need a good book about Finnish Lapland. This is the one.
 category: reviews
 tags: [reviews, books, finland, lapland]

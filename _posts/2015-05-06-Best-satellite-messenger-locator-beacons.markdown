@@ -1,9 +1,8 @@
 ---
 layout: post
-title: 'Best Satellite Messenger, Locator and Personal Beacon 2016'
-date: '2016-01-03 12:35:07 +0300'
-comments: true
-description: Planning to go hiking in the remote wilderness? Be prepared to get help!
+title: Best Satellite Messenger, Locator and Personal Beacon 2016
+date: 2016-01-03 12:35:07 +0300
+description: Planning to go hiking in the remote wilderness? Be prepared to get help with a GPS Satellite Messenger.
 category: articles
 tags:
   - articles

@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Advent Calendar 2014"
+title: Advent Calendar 2014
 date: 2014-11-21 16:08:42 +0200
-comments: true
 published: true
 description: Outdoors Advent Calendar 2014 - Win cool outdoor gear!
 category: campaigns

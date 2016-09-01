@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Lapland Winter Adventure Video
-date: '2015-04-18 20:41:56 +0300'
-comments: true
+date: 2015-04-18 20:41:56 +0300
 category: videos
 tags:
   - videos

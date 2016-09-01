@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Ruissalo - Turku"
+title: What to do in Ruissalo (Turku) in 1 day?
 date: 2014-05-17 19:46:05 +0300
-comments: true
 description: A day adventure on Ruissalo in Turku. Birds, Ferries and history.
 category: destinations
 tags: [destinations, ruissalo, turku, finland]

@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Exploring Vajosuo and Takaniitunvuori"
+title: Exploring Vajosuo and Takaniitunvuori
 date: 2014-09-28 08:10:32 +0300
-comments: true
 description: Exploring the Kurjenrahka National Park
 category: destinations
 tags: [destinations, kurjenrahka, finland, hiking]

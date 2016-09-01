@@ -2,7 +2,6 @@
 layout: post
 title: Luci Outdoor Solar Lantern Review
 date: 2014-10-26 23:15:50 +0200
-comments: true
 description: Solar Outdoor light which surprises
 keywords: Hiking, Packrafting, Outdoors, solar, Gear Reviews, Luci Outdoor, lantern, inflatable
 category: reviews

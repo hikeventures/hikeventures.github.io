@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Mushroom season in Finland"
+title: Mushroom season in Finland
 date: 2014-09-08 16:52:26 +0300
-comments: true
 description: Do you like Mushrooms? In Finland you can find them
 category: articles
 tags: [articles, mushrooms, finland, hiking]

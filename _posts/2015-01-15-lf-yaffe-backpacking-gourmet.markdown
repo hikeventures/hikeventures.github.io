@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Backpack Gourmet
-date: "2015-01-15 17:38:55 +0200"
-comments: true
-description: "Tired of ready made camping food? Prepare your dehydrated food at home"
+date: 2015-01-15 17:38:55 +0200
+description: "Tired of ready made camping food? Prepare your dehydrated food at home
 category: reviews
 tags: [reviews, books]
 ---

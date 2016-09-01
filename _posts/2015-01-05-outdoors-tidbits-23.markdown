@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Outdoors Tidbits 23"
+title: Outdoors Tidbits 23
 date: 2015-01-05 08:21:56 +0200
-comments: true
 description: Outdoors Tidbits 23
 category: tidbits
 tags: [tidbits]

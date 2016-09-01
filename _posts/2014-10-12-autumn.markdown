@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Last colours of autumn in Finland
-date: "2014-10-12 17:39:36 +0300"
-comments: true
+date: 2014-10-12 17:39:36 +0300
 description: Autumn in a Finnish Forest 2014
 category: articles
 tags: [articles, finland]

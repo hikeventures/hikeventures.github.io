@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The 8 Best Headlamps for 2016
-date: '2016-01-03 23:02:20 +0200'
-comments: true
+date: 2016-01-03 23:02:20 +0200
 description: Find the best headlamps for your next outdoor adventure
 category: articles
 tags:

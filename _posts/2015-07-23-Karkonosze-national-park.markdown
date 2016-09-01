@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Hiking from Poland to Czech Republic. The Karkonosze National Park
-date: '2015-07-23 06:13:07 +0300'
-comments: true
+date: 2015-07-23 06:13:07 +0300
 description: Exploring the Karkonosze National Park
 category: destinations
 tags:

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The best packrafting gloves? - Palm Hook Gloves
-date: '2015-05-19 15:35:07 +0300'
-comments: true
+date: 2015-05-19 15:35:07 +0300
 description: In search of the best packrafting gloves.
 category: articles
 tags:

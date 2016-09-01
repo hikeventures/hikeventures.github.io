@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Outdoors Tidbits 40
-date: '2015-10-07 018:27:01 +0300'
+date: 2015-10-07 018:27:01 +0300
 published: true
-description: 'The latest outdoor gear reviews, tips & tricks - Nr. 40 -'
+description: The latest outdoor gear reviews, tips & tricks - Nr. 40
 category: tidbits
 tags:
   - tidbits

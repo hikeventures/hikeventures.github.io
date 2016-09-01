@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The holy mountains of Japan - Fuji, Haku and Tate"
+title: The holy mountains of Japan - Fuji, Haku and Tate
 date: 2015-09-03T06:46:27+03:00
 category: articles
 tags: [articles, japan, mountains]

@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Advent Calendar: Giveaway 7"
+title: Advent Calendar: Giveaway 7
 date: 2014-12-22 00:40:09 +0200
-comments: true
 description: Thule Camera backack
 category: campaigns
 tags: [campaigns]

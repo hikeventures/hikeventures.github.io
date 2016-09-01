@@ -2,7 +2,6 @@
 layout: post
 title: Turku - Stockholm Cruise with Viking Line
 date: 2014-06-17 21:13:11 +0300
-comments: true
 description: With Viking Line from Turku to Stockholm
 category: articles
 tags: [articles, cruise, stockholm, finland, turku, sweden, viking line]

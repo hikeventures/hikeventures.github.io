@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 'Dan Bailey: Outdoor Action and Outdoor Photography'
-date: '2015-05-24 20:18:07 +0300'
-comments: true
-description: A good book with ideas if you are interested in outdoor photography.
+date: 2015-05-24 20:18:07 +0300
+description: A good book with ideas if you are interested in outdoor action photography.
 category: reviews
 tags:
   - books

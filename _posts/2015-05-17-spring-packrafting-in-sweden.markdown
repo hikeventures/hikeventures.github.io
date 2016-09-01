@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Spring Packrafting in Sweden
-date: '2015-05-17 08:10:07 +0300'
-comments: true
+date: 2015-05-17 08:10:07 +0300
 description: A video about a packrafting meeting in Sweden
 category: reviews
 tags:

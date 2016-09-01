@@ -2,8 +2,7 @@
 layout: post
 title: Winter Packrafting
 date: 2015-03-17T15:37:20.000Z
-comments: true
-description: "Interested in winter packrafting? Here are our thoughts."
+description: Interested in winter packrafting? Here are our thoughts.
 category: articles
 tags: [articles, packrafting]
 ---

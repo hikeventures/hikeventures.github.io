@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "How to record nature sound for your DSLR videos - Zoom H5"
-date: "2015-01-11 13:32:02 +0200"
-author: Patrick
-toc: true
-description: "Looking for better sound quality for your DSLR Video? Consider the Zoom H5"
+title: How to record nature sound for your DSLR videos - Zoom H5
+date: 2015-01-11 13:32:02 +0200
+description: Looking for better sound quality for your DSLR Video? Consider the Zoom H5
 category: articles
 tags: [articles, blogging]
 ---

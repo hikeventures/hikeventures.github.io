@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Bishops Castle and wooden church in Kuusisto
-date: "2014-05-11 18:56:48 +0300"
-comments: true
+date: 2014-05-11 18:56:48 +0300
 description: Exploring the Bishop Castle in Kuusisto
 category: destinations
 tags: [destinations, turku, kuusisto, finland, castles]

@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Visiting Mariehamn on the Åland Islands"
+title: Visiting Mariehamn on the Åland Islands
 date: 2015-06-28 09:12:00 +0300
-comments: true
 description: A weekend at Mariehamn on tha Aland Islands
 category: destinations
 tags: [destinations, finland, åland, mariehamn, ships]

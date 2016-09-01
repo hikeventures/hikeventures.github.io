@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Video: Packrafting Gathering at Helvetinjärvi National Park"
+title: Video: Packrafting Gathering at Helvetinjärvi National Park
 date: 2015-09-21 011:40:07 +0300
-comments: true
 description: A basic video about our packrafting gathering in Helvetinjärvi National Park
 category: videos
 tags: [destinations, helvetinjärvi, packrafting, videos]

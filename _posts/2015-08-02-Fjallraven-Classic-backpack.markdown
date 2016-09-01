@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Preparing for Fjällräven Classic
-date: '2015-02-08 17:56:41 +0100'
-comments: true
+date: 2015-02-08 17:56:41 +0100
 published: true
 description: How we prepare for Fjällräven Classic
 category: articles

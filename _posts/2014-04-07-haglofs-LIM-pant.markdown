@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Haglöfs L.I.M III Pants Review
-date: "2014-04-07 07:53:20 +0300"
-comments: true
-description: "Haglöfs L.I.M III Pant - Light and Waterproof Outdoor Pants"
+date: 2014-04-07 07:53:20 +0300
+description: Haglöfs L.I.M III Pant - Light and Waterproof Outdoor Pants
 category: reviews
 tags: [reviews, haglöfs, pants]
 ---

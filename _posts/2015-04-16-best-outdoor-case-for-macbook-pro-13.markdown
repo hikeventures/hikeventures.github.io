@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Best outdoor case for Macbook Pro 13  Retina in 2016
-date: '2015-04-16 16:15:35 +0300'
-comments: true
+date: 2015-04-16 16:15:35 +0300
 description: An interesting MacBook case for your outdoor activities.
 category: articles
 tags:

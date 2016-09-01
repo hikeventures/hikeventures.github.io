@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Advent Calendar: Giveaway 4"
+title: Advent Calendar: Giveaway 4
 date: 2014-12-08 22:38:21 +0200
-comments: true
 published: true
 description: Thule Camera Bag for GoPro cameras
 category: campaigns

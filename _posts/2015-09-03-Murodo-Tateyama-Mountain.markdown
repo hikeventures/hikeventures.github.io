@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Murodo - Hiking the Tateyama mountain in Japan"
+title: Murodo - Hiking the Tateyama mountain in Japan
 date: 2015-09-03T06:46:27+03:00
 description: Murodo, Tateyama mountain, Japan
 category: destinations

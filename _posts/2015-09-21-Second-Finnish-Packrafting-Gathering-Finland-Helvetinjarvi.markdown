@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Second Finnish Packrafting Gathering at Helvetinjärvi National Park
-date: '2015-09-21 011:40:07 +0300'
-comments: true
+date: 2015-09-21 011:40:07 +0300
 description: A short trip report about the second packrafting gathering in Finland
 category: destinations
 tags:

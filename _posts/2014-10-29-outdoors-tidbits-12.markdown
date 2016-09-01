@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Outdoors Tidbits 12"
+title: Outdoors Tidbits 12
 date: 2014-10-29 22:08:10 +0200
-comments: true
-author: Patrick
-description: The latest outdoor gear reviews, tips & tricks - Nr. 12 - #outdoorstidbits
+description: The latest outdoor gear reviews, tips & tricks - Nr. 12
 category: tidbits
 tags: [tidbits]
 ---

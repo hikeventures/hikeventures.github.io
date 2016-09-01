@@ -1,10 +1,7 @@
 ---
 layout: post
-title: >-
-  Thule Legend GoPro Case Review - Keeps your action camera gear organised and
-  protected
-date: '2015-09-27 01:45:07 +0300'
-comments: true
+title: Thule Legend GoPro Case Review - Keeps your action camera gear organised and protected
+date: 2015-09-27 01:45:07 +0300
 description: Keep your action camera organised and protected on your adventures.
 category: reviews
 tags:

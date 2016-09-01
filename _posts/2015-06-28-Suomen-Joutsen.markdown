@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "My visit on the Museumship Suomen Joutsen in Turku"
+title: My visit on the Museumship Suomen Joutsen in Turku
 date: 2015-07-02 20:05:01 +0300
-comments: true
-description: A weekend at Mariehamn on tha Aland Islands
+description: A weekend at Mariehamn on tha Aland Islands where I visited a museum ship.
 category: destinations
 tags: [destinations, finland, turku, museums, ships]
 ---

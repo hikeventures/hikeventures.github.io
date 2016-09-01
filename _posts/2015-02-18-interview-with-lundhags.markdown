@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Interview with Lundhags"
+title: Interview with Lundhags
 date: 2015-02-20 06:19:00 +0200
-comments: true
 published: true
 description: Our interview with outdoor fashion and gear manufacturer Lundhags.
 category: interviews

@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Cumulus Panyam 450 Review
-date: "2014-04-20 12:13:17 +0300"
-comments: true
-description: "Cumulus Panyam 450 - Great 3 Season Sleeping Bag"
+date: 2014-04-20 12:13:17 +0300
+description: Cumulus Panyam 450 - Great 3 Season Sleeping Bag
 category: reviews
 tags: [reviews, sleeping bags, cumulus]
 

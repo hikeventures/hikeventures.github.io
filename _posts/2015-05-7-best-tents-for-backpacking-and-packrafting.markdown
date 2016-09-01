@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 9 Best Tents For Backpacking And Packrafting in 2016
-date: '2016-01-03 19:10:07 +0300'
-comments: true
+date: 2016-01-03 19:10:07 +0300
 description: The best tent for our backpacking and packrafting adventures.
 category: articles
 tags:

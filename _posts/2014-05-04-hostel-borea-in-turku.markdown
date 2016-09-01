@@ -2,7 +2,6 @@
 layout: post
 title: Review - Hostel Borea in Turku
 date: 2014-05-04 19:58:18 +0300
-comments: true
 description: An alternative way to overnight in Turku - on a Ship Hotel!
 category: articles
 tags: [articles, accommodations, turku, finland, ships]

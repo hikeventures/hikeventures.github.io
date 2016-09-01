@@ -2,7 +2,6 @@
 layout: post
 title: 14 best Outdoor Books about Hiking and Climbing 2016
 date: 2014-12-17 17:49:58 +0200
-comments: true
 description: Need some adventures? Check our Outdoor Books Guide for 2016
 category: articles
 tags: [articles, best, books, hiking]

@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Sightseeing in Kalmar"
+title: Sightseeing in Kalmar
 date: 2014-06-20 13:46:18 +0300
-comments: true
 description: Exploring the city of Kalmar in Sweden
 category: destinations
 tags: [destinations, kalmar, sweden, castles]

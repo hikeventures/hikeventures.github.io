@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "A summer day in Helsinki 2014"
+title: A summer day in Helsinki 2014
 date: 2014-06-01 17:05:52 +0300
-comments: true
 description: A summer adventure in Helsinki 2014
 category: destinations
 tags: [destinations,helsinki, finland]

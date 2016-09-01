@@ -1,11 +1,8 @@
 ---
 layout: post
 title: The best trekking and snowshoeing poles for 2016
-date: '2016-01-03 16:08:38 +0200'
-comments: true
-description: >-
-  Need new trekking poles for your hiking and snowshoeing adventures? We found
-  the best poles for 2016
+date: 2016-01-03 16:08:38 +0200
+description: Need new trekking poles for your hiking and snowshoeing adventures? We found the best poles for 2016
 category: articles
 tags:
   - best

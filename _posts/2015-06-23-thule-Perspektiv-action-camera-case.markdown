@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Thule Perspektiv Action Camera Case Review: The Home for Your Action Camera In-between the Action"
-date: "2015-06-22 06:45:07 +0300"
-comments: true
-description: "Keep your action camera safe in-between your adventures."
+title: Thule Perspektiv Action Camera Case Review: The Home for Your Action Camera In-between the Action
+date: 2015-06-22 06:45:07 +0300
+description: Keep your action camera safe in-between your adventures.
 category: reviews
 tags: [reviews, thule, bags, gopro]
 ---

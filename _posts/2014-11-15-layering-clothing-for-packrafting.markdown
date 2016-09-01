@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Layering Clothing for Packrafting
-date: "2014-11-15 16:11:42 +0200"
-comments: true
+date: 2014-11-15 16:11:42 +0200
 description: How to layer your clothing when you go packrafting
 category: articles
 tags: [articles, packrafting]

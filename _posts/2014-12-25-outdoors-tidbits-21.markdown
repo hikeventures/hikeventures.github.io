@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Outdoors Tidbits 21"
+title: Outdoors Tidbits 21
 date: 2014-12-25 08:42:33 +0200
-comments: true
-description: The latest outdoor gear reviews, tips & tricks - Nr. 21 - #outdoorstidbits
+description: The latest outdoor gear reviews, tips & tricks - Nr. 21
 category: tidbits
 tags: [tidbits]
 ---

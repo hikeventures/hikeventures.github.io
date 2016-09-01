@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The best water bottle for hiking and backpacking 2016
-date: '2015-05-20 23:10:07 +0300'
-comments: true
+date: 2015-05-20 23:10:07 +0300
 description: In search of the best hiking and backpacking water bottle
 category: destinations
 tags:

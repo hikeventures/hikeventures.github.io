@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Best Outdoor Action Camera for 2016 - GoPro vs. Sony
-date: '2015-08-18 07:28:01 +0300'
-comments: true
+date: 2015-08-18 07:28:01 +0300
 description: Which Action Camera? GoPro Hero 4 vs. Sony FDR-X1000V
 category: articles
 tags:

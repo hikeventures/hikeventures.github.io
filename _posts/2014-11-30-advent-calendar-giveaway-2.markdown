@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Advent Calendar: Giveaway 2"
+title: Advent Calendar: Giveaway 2
 date: 2014-12-04 16 :50:39 +0200
-comments: true
 published: true
 category: campaigns
 tags: [campaigns]

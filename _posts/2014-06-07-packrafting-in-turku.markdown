@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Packrafting in Turku"
+title: Packrafting in Turku
 date: 2014-06-07 20:39:30 +0300
-comments: true
 description: Packrafting Microadventure in Turku
 category: destinations
 tags: [destinations, turku, finland, packrafting]

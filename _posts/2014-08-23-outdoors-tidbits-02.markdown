@@ -2,7 +2,6 @@
 layout: post
 title: Outdoors Tidbits 2
 date: 2014-08-23 08:17:20 +0300
-comments: true
 description: The latest outdoor gear reviews, tips & tricks - Nr. 2 - #outdoorstidbits
 category: tidbits
 

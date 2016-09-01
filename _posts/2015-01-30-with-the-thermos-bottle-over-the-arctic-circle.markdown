@@ -1,8 +1,7 @@
 ---
 layout: post
 title: With the Thermos Bottle over the Arctic Circle
-date: "2015-01-30 09:32:09 +0200"
-comments: true
+date: 2015-01-30 09:32:09 +0200
 description: We tested a Thermos bottle on the Fells of Lapland.
 category: reviews
 tags: [reviews, kitchen, thermos]

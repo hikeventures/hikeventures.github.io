@@ -1,9 +1,8 @@
 ---
 layout: post
 title: LuminAID Review
-date: "2014-04-22 18:40:05 +0200"
-comments: true
-description: "luminAid - An inflatable solar light for your hiking trip"
+date: 2014-04-22 18:40:05 +0200
+description: luminAid - An inflatable solar light for your hiking trip
 category: reviews
 tags: [reviews, luminaid, lights]
 

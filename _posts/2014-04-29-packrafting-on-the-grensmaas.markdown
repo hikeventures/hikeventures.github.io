@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Packrafting on the Grensmaas
-date: "2014-04-29 10:47:10 +0300"
-comments: false
+date: 2014-04-29 10:47:10 +0300
 description: Packrafting on the border between the Netherlands and Belgium
 category: destinations
 tags: [destinations, grensmaas, netherlands]

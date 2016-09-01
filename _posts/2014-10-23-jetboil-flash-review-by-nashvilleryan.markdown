@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Jetboil Flash Review by Nashvilleryan
-date: "2014-10-23 20:32:47 +0300"
-comments: true
+date: 2014-10-23 20:32:47 +0300
 description: Jetboil Flash. The outdoor stove reviewed by Nashvilleryan
 category: reviews
 tags: [reviews, jetboil, stove]

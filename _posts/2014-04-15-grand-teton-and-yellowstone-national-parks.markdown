@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Grand Teton and Yellowstone National Parks"
+title: Grand Teton and Yellowstone National Parks
 date: 2014-04-15 20:07:35 +0300
-comments: true
 description: Adventures in the US National Parks
 category: destinations
 tags: [destinations, usa, yellowstone, grand teton]

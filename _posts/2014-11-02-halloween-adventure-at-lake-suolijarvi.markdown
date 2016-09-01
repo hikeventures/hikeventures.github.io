@@ -2,7 +2,6 @@
 layout: post
 title: Halloween Adventure at Lake Suolijärvi
 date: 2014-11-02 10:31:22 +0200
-comments: true
 description: Our Hiking and Paddling Adventure on Halloween in Finland
 category: destinations
 tags: [destinations, hiking, packrafting, suolijärvi, finland]

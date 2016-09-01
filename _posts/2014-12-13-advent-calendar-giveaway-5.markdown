@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Advent Calendar: Giveaway 5"
+title: Advent Calendar: Giveaway 5
 date: "2014-12-13 16:10:50 +0200"
-comments: true
-description: "Backcountry Access A-2 with saw"
+description: Backcountry Access A-2 with saw
 category: campaigns
 tags: [campaigns]
 ---

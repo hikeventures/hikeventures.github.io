@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Interview with Devold"
+title: Interview with Devold
 date: 2015-02-23 17:57:20 +0200
-comments: true
 published: true
 description: Our interview with Devold of Norway.
 category: interviews

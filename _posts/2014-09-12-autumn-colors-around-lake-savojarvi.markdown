@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Autumn colors around lake Savojärvi
-date: "2014-09-12 19:17:19 +0300"
-comments: true
+date: 2014-09-12 19:17:19 +0300
 description: Hiking on an autumn day in Kurjenrahka National Park
 category: destinations
 tags: [destinations, savojärvi, finland, kurjenrahka, hiking]

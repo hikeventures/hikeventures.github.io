@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Interview with Werner Paddles
-date: "2015-02-18 16:55:11 +0200"
-comments: true
+date: 2015-02-18 16:55:11 +0200
 published: true
 description: Our interview with Werner Paddles.
 category: interviews

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Best Backpack for Packrafting
-date: '2016-01-03 22:16:01 +0200'
-comments: true
+date: 2016-01-03 22:16:01 +0200
 category: articles
 tags:
   - articles

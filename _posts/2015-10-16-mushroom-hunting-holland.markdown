@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mushroom hunting in Steenwijk - Holland"
+title: Mushroom hunting in Steenwijk - Holland
 date: 2015-10-16 005:44:01 +0300
 published: true
 description: Hunting mushrooms on a nice autumn day in the Netherlands

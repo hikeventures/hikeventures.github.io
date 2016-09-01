@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Packrafting the Emån River
-date: "2014-06-21 16:25:37 +0300"
-comments: true
+date: 2014-06-21 16:25:37 +0300
 description: Packrafting trip in Southern Sweden
 category: destinations
 tags: [destinations, packrafting, emån, sweden]

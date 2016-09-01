@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Best Snowshoes for 2016
-date: '2016-01-03 09:19:51 +0200'
-comments: true
+date: 2016-01-03 09:19:51 +0200
+description: Our selection of the best snowshoes for 2016.
 category: articles
 tags:
   - articles

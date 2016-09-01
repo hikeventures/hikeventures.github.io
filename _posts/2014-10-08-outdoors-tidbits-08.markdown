@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Outdoors Tidbits 8"
+title: Outdoors Tidbits 8
 date: 2014-10-08 21:24:12 +0300
 description: The latest outdoor gear reviews, tips & tricks - Nr. 8 - #outdoorstidbits
 category: tidbits

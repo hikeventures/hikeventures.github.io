@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Interview with Haglöfs
-date: "2015-03-10 19:31:36 +0200"
-comments: true
+date: 2015-03-10 19:31:36 +0200
 description: Our interview with outdoor fashion and gear manufacturer Haglöfs.
 category: interviews
 tags: [interviews, haglöfs]

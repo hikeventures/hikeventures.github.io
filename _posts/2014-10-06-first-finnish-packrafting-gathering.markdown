@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Finnish Packrafting Gathering"
+title: First Finnish Packrafting Gathering
 date: 2014-10-06 08:30:40 +0300
 description: Short review of the first Finnish Packrafting Gathering in Finland
 category: destinations

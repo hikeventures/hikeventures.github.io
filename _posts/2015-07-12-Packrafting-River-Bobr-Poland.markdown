@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Packrafting River Bóbr in Poland"
+title: Packrafting River Bóbr in Poland
 date: 2015-07-14 22:12:07 +0300
-comments: true
 description: Exploring River Bóbr with our packrafts
 category: destinations
 tags: [destinations, packrafting, poland]

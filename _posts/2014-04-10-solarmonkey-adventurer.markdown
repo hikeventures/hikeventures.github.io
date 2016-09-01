@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Solarmonkey Adventurer
-date: "2014-04-15 16:33:34 +0200"
-comments: true
+date: 2014-04-15 16:33:34 +0200
 published: true
 description: Powertraveler Solar Monkey Adventurer Panel Review
 category: reviews

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Differences between Suunto Traverse and Ambit3
-date: '2015-10-20 05:59:40 +0200'
-comments: true
+date: 2015-10-20 05:59:40 +0200
 published: true
 description: What are the differences between the Suunto Traverse and the Ambit3?
 category: articles

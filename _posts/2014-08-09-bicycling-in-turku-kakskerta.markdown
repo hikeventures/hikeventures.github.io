@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Bicycling in Turku Kakskerta
-date: "2014-08-09 19:38:44 +0300"
-comments: true
+date: 2014-08-09 19:38:44 +0300
 description: Bicycle Trip in Turku
 category: destinations
 tags: [destinations, turku, finland, kakskerta, bicycling]

@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Advent Calendar 2014 wrap-up"
+title: Advent Calendar 2014 wrap-up
 date: 2014-12-27 10:50:09 +0200
-comments: true
 description: A short wrap-up about our advent calendar 2014
 category: campaign
 tags: [campaign]

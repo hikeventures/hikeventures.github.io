@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Outdoors Tidbits 41
-date: '2015-10-19 021:56:01 +0300'
-description: 'The latest outdoor gear reviews, tips & tricks - Nr. 41 -'
+date: 2015-10-19 021:56:01 +0300
+description: The latest outdoor gear reviews, tips & tricks - Nr. 41
 category: tidbits
 tags:
   - tidbits

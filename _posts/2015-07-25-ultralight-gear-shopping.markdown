@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Ultralight Outdoor Gear Shopping - Sacrificing comfort for saving weight?
-date: '2015-07-25 10:51:07 +0300'
-comments: true
+date: 2015-07-25 10:51:07 +0300
 published: true
 description: Some thoughts on shopping ultralight gear
 category: articles

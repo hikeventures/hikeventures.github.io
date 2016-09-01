@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 6 Best Camping Stoves 2016
-date: '2016-01-03 00:42:09 +0300'
+date: 2016-01-03 00:42:09 +0300
 published: true
 description: Need a new camoing stove? Here are the best stoves for 2016.
 category: articles

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windpaddle sailing with my packraft"
+title: Windpaddle sailing with my packraft
 date: 2015-08-29T19:24:27+03:00
 description: Windpaddle Sailing in the Turku Archipelago with a Packraft
 category: videos

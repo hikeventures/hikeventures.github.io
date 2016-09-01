@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Lithuanian Sahara"
+title: Hiking in the Lithuanian Sahara
 date: 2014-11-03 21:53:00 +0200
-comments: true
 description: Exploring the Kuršių Nerija National Park in Lithuania
 category: destinations
 tags: [destinations, lithuania, hiking, kuršių nerija]

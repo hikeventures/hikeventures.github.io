@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Snowshoeing and Cross-Country Skiing in Urho Kekkonen National Park and Saariselkä"
+title: Snowshoeing and Cross-Country Skiing in Urho Kekkonen National Park and Saariselkä
 date: 2015-02-16 19:29:56 +0200
-comments: true
 published: true
 description: Our adventures in Finnish Lapland. Snowshoeing, Cross-country skiing and emptiness 
 category: articles

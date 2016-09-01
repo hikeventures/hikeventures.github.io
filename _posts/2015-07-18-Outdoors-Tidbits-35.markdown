@@ -2,7 +2,7 @@
 layout: post
 title: Outdoors Tidbits 35
 date: 2015-06-20T08:22:51.000Z
-description: 'The latest outdoor gear reviews, tips & tricks - Nr. 35'
+description: The latest outdoor gear reviews, tips & tricks - Nr. 35
 category: tidbits
 tags:
   - tidbits

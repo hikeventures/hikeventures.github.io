@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Timelapse: Shibuja Tokyo by Night"
+title: Timelapse: Shibuja Tokyo by Night
 date: 2015-09-02T06:46:27+03:00
 description: Shibuja Tokyo by Night
 category: videos

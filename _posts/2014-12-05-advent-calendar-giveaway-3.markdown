@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Advent Calendar: Giveaway 3"
-date: "2014-12-05 08:05:42 +0200"
-comments: true
+title: Advent Calendar: Giveaway 3
+date: 2014-12-05 08:05:42 +0200
 published: true
 description: Victorinox Cadet 5 Colors
 category: campaigns

@@ -2,7 +2,6 @@
 layout: post
 title: Outdoors Activities in Vaasa
 date: 2014-08-29 13:38:54 +0300
-comments: true
 description: Ideas on how you can spend your time outdoors in Vaasa.
 category: destinations
 tags: [destinations, packrafting, vaasa, finland, hiking]

@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Outdoors Tidbits 20
-date: "2014-12-19 16:40:29 +0200"
-comments: true
-description: "The latest outdoor gear reviews, tips & tricks - Nr. 20"
+date: 2014-12-19 16:40:29 +0200
+description: The latest outdoor gear reviews, tips & tricks - Nr. 20
 category: tidbits
 tags: [tidbits]
 ---

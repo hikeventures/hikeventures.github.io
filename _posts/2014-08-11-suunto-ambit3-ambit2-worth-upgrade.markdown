@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Suunto Ambit3 vs. Ambit2 - Worth to upgrade?
-date: '2014-08-11 16:43:23 +0300'
-comments: true
+date: 2014-08-11 16:43:23 +0300
 description: Great GPS watch gets even better! Upgrade to Ambit3 or stick with Ambit2?
 category: articles
 tags:

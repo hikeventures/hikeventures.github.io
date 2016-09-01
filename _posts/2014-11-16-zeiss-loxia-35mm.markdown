@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Sony 35mm 2.8 or Zeiss Loxia 35mm 2.0?"
-date: "2014-11-16 17:40:41 +0200"
-comments: true
+title: Sony 35mm 2.8 or Zeiss Loxia 35mm 2.0? - A short review.
+date: 2014-11-16 17:40:41 +0200
 published: true
 description: Evaluating if a Zeiss Loxia 35mm should be my new lens
 category: articles

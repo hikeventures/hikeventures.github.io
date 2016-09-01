@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Best Portable USB Battery for Hiking and Backpacking
-date: "2015-06-18 11:35:07 +0300"
-comments: true
-description: "Need power for your outdoor adventure? Take a USB battery with you."
+date: 2015-06-18 11:35:07 +0300
+description: Need power for your outdoor adventure? Take a USB battery with you.
 category: articles
 tags: [articles, batteries, best]
 ---

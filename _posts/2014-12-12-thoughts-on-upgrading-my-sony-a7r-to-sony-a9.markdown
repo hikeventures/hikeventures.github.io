@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Thoughts on upgrading my Sony A7r to Sony A9"
+title: Thoughts on upgrading my Sony A7 to Sony A9
 date: 2014-12-12 14:31:16 +0200
 published: true
-description: Upgrading the A7r to A9 or not?
+description: Upgrading the Sony A7 to A9 or not?
 category: articles
 tags: [articles, blogging, camera, photography, sony, a7r, a9]
 ---
@@ -23,4 +23,4 @@ Specifications of the A9 are not quite clear yet. <a href="http://www.sonyalphar
 
 I would prefer less MP but the possibilities to record 4K internally as I don't want to carry more gear with me (beside the additional costs). It would be better if Sony could build the camera in a slightly bigger camera body if heat generation in the small camera body seems to be an issue. Also I would prefer more dynamic range rather than MP.  I am excited to see if the new sensor will be a Bayer Sensor or a new Multilayer Sensor ...
 
-What are your thoughts? Are you going to stick with your A7r?
+What are your thoughts? Are you going to stick with your A7 or would you upgrade to a possible Sony A9?
