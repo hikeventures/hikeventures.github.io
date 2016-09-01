@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Best Outdoor Blogs 2016"
+title: Best Outdoor Blogs 2016
 date: 2015-12-13 06:24:00 +0300
-comments: true
 published: false
 categories: articles
 description: Our selection of the best outdoor blogs for 2016

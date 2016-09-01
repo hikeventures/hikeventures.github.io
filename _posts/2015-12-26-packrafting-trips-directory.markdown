@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Packrafting Trip Directory
-date: '2015-12-26 07:23:48 +0200'
-comments: true
+date: 2015-12-26 07:23:48 +0200
 published: true
 description: A collection of packrafting trip ideas - From packrafters for packrafters
 category: articles

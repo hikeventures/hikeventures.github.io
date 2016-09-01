@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Packrafting the Njuoreatnu to Torneträsk - Abisko Sweden - Day 3
-date: '2016-01-04 06:00:00 +0300'
-comments: true
+date: 2016-01-04 06:00:00 +0300
 published: true
 description: Packrafting in the Swedish Mountains
 category: destinations

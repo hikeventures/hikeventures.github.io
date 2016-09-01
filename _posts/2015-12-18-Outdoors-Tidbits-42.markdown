@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Outdoors Tidbits 42
-date: "2015-12-18 06:00:01 +0300"
+date: 2015-12-18 06:00:01 +0300
 published: true
-description: "The latest outdoor gear reviews, tips & tricks - Nr. 42"
+description: The latest outdoor gear reviews, tips & tricks - Nr. 42
 category: tidbits
 tags: [tidbits]
 ---

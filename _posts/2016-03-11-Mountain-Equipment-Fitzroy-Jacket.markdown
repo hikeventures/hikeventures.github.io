@@ -1,19 +1,14 @@
 ---
 layout: post
 title: Mountain Equipment Fitzroy Jacket Review
-date: '2016-03-11 19:06 +0300'
-comments: true
+date: 2016-03-11 19:06 +0300
 category: reviews
 tags:
   - reviews
   - mountainequipment
   - jackets
-description: >-
-  We were testing the Mountain Equipment Fitzroy Jacket on our packrafting trip
-  in Scotland
-keywords: >-
-  Hiking, packrafting, gear review, Mountain Equipment, Fitzroy, Jacket,
-  outdoors
+description: We were testing the Mountain Equipment Fitzroy Jacket on our packrafting trip in Scotland
+keywords: Hiking, packrafting, gear review, Mountain Equipment, Fitzroy, Jacket, outdoors
 published: true
 ---
 Here comes a short review about the Mountain Equipment Fitzroy Jacket. On our trip to Scotland I took my light <a href="http://www.hikeventures.com/gear-review-montbell-u-dot-l-down-parka/">Montbell Down UL Down Jacket</a> with me. Initially, I thought that my down jacket would be sufficient but realised later on that it was probably a smart choice to purchase my new Mountain Equipment Fityroy Jacket. Having done some research on synthetic jackets before our Scotland trip I was already quite focused on the Mountain Equipment Fitzroy Jacket if I would find it for a good price as winter sales was still ongoing.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fatbiking in Holland"
+title: Fatbiking in Holland
 date: 2015-11-20 001:25:07 +0300
 published: true
 description: Are you interested in Fatbiking in Holland?

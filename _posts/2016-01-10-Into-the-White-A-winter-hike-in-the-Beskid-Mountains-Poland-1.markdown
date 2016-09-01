@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Into the White – A winter hike in the Beskid Mountains in Poland - Part 1
-date: '2016-01-10 23:41:18 +0300'
+date: 2016-01-10 23:41:18 +0300
 comments: true
-description: 'A winter hike in the Beskid Mountains, Poland'
-keywords: 'Poland, hiking, winter, Beskid, Mountains'
+description: A winter hike in the Beskid Mountains, Poland
+keywords: Poland, hiking, winter, Beskid, Mountains
 category: destinations
 tags:
   - destinations

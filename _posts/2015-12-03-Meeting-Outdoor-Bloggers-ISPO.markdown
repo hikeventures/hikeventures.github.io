@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Meeting Outdoor Bloggers at the ISPO in Munich
-date: '2015-12-03 08:05:05 +0100'
+date: 2015-12-03 08:05:05 +0100
 comments: true
 description: Get connected at the ISPO with Outdoor Bloggers
 category: articles

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Ideas for planning an outdoor trip in Poland
-date: '2015-12-06 20:00:00 +0300'
-comments: true
+date: 2015-12-06 20:00:00 +0300
 description: Planning a trip to Poland? Here are some outdoor activities ideas
 category: articles
 tags:

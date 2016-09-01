@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '5 best places in Scandinavia to go hiking, backpacking or packrafting'
-date: '2016-01-07 06:29:01 +0300'
+title: 5 best places in Scandinavia to go hiking, backpacking or packrafting
+date: 2016-01-07 06:29:01 +0300
 published: true
 description: The best outdoor places we have visited in Scandinavia.
 category: articles

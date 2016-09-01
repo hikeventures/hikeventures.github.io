@@ -1,8 +1,7 @@
 ---
 layout: post
-title: 'Thule Chasm XL Duffle Bag Review – Carry Big, Store Small'
-date: '2015-11-23 00:04'
-comments: true
+title: Thule Chasm XL Duffle Bag Review – Carry Big, Store Small
+date: 2015-11-23 00:04 +0300
 published: true
 description: Thule Chasm XL Duffle Bag Review
 category: reviews

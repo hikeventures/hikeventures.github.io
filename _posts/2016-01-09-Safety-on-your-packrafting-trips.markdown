@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Safety on your Packrafting trips
-date: '2016-01-09 06:29:01 +0300'
+date: 2016-01-09 06:29:01 +0300
 published: true
 description: How to have a safe packrafting trip
 category: articles
