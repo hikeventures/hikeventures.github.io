@@ -1,6 +1,13 @@
 ---
+layout: post
+title: Western Mountaineering Versalite
+date: 2016-06-18 07:30 +0300
 published: false
+category: reviews
+tags: [reviews, Thule, bicycling]
+description: Our review on the Thule RideAlong
 ---
+
 ## Fiel Testing
 
 ---

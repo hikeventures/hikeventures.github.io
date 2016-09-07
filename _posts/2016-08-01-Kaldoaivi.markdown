@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hiking and Packrafting in Finnish Lapland - Kaldoaivi Wilderness Area
-date: 2016-08-01 14:41
+date: 2016-08-01 07:30 +0300
 published: true
 description: A packrafting adventures in the Finnish Lapland.
 category: destinations
