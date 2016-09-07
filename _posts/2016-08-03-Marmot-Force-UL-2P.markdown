@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Marmot Force UL 2P Review
-date: 2016-08-03T23:20:00+03:00
+date: 2016-08-03 07:30:00 +0300
 category: reviews
 tags:
   - reviews

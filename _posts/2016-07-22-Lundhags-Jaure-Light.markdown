@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lundhags Jaure Light High II and Mid II - The best shell boots for hiking and trekking?
-date: 2016-07-22 13:30 +0200
+date: 2016-07-22 07:30:00 +0300
 category: reviews
 tags:
   - reviews

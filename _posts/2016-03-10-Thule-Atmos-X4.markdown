@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thule Atmos X4 Review
-date: 2016-03-10 14:31 +0300
+date: 2016-03-10 07:30:00 +0300
 published: true
 description: We were testing the Thule X4 on our packrafting trip in Scotland
 category: reviews

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hiking, Packrafting and Camping in Japan
-date: 2016-06-30 10:00  +0300
+date: 2016-06-30 07:30:00 +0300
 published: true
 category: destinations
 tags:

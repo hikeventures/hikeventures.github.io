@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mountain Equipment Fitzroy Jacket Review
-date: 2016-03-11 19:06 +0300
+date: 2016-03-11 07:30:00 +0300
 category: reviews
 tags:
   - reviews

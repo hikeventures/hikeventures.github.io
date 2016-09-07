@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Packrafting in Norway
-date: 2016-04-11 06:31 +0300
+date: 2016-04-11 07:30:00 +0300
 comments: true
 published: false
 category: destinations

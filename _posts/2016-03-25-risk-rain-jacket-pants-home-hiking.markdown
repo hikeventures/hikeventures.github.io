@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The risk of leaving your rain jacket and pants at home when going hiking or backpacking
-date: 2016-03-25 17:28 +0300
+date: 2016-03-25 07:30:00 +0300
 published: true
 description: Interested in ultralight hiking? Make sure that you don't go too light.
 category: articles

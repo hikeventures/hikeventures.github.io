@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Swedish Packrafting Round-Up 2016
-date: 2016-05-13 14:00 +0300
+date: 2016-05-13 07:30:00 +0300
 category: destinations
 tags:
   - destinations

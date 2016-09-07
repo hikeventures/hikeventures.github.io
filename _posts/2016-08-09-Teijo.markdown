@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Teijo National Park
-date: 2016-08-09T23:20:00+03:00
+date: 2016-08-09 07:30:00 +0300
 description: A hiking day in the Teijo National Park in Finland
 category: destinations
 published: true

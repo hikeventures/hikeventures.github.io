@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Julbo Swell Review
-date: 2016-05-23 19:00 +0300
+date: 2016-05-23 07:30:00 +0300
 published: true
 category: reviews
 tags:

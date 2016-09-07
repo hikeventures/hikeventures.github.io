@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Video - The Fortress Island of Örö
-date: 2016-07-08 07:30 +0300
+date: 2016-07-08 07:30:00 +0300
 published: true
 description: Hiking and Packrafting Adventures on Örö
 category: videos
