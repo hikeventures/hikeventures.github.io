@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Four seasons of Packrafting in the Archipelago Sea
-date: 2015-05-18 06:56
+date: 2015-05-18 18:04:22 +0200
 title: Packrafting the Archipelago Sea around Turku during 4 seasons
 description: Packrafting in the Archipelago Sea
 category: destinations

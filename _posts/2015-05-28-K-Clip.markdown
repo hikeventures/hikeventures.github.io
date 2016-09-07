@@ -1,7 +1,7 @@
 ---
 layout: post
 title: K-Clip Saves Your Broken Backpack
-date: 2015-05-28 17:41
+date: 2015-05-28 18:04:22 +0200
 published: true
 description: K-clip replaces your broken bucket on your backpack
 category: articles

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Outdoors Tidbits 34
-date: 2015-06-16T08:22:51.000Z
+date: 2015-06-16 18:04:22 +0200
 categories: tidbits
 description: The best blog articles about hiking, backpacking and packrafting 34
 category: tidbits

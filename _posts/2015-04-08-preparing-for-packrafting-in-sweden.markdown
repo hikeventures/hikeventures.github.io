@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Preparing for Packrafting in Sweden
-date: 2015-04-08T19:09:08+03:00
+date: 2015-04-08 18:04:22 +0200
 description: Preparing for packrafting in Sweden
 category: articles
 tags: [articles, packrafting, sweden]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Outdoors Tidbits 31
-date: 2015-09-07T06:46:27+03:00
+date: 2015-09-07 18:04:22 +0200
 description: The latest outdoor gear reviews, tips & tricks - Nr. 31
 category: tidbits
 tags:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best RSS feed Reader for Outdoor Bloggers
-date: 2015-03-28T07:56:19.000Z
+date: 2015-03-28 18:04:22 +0200
 description: Need a new RSS reader? Here is a list with the best RSS Reader for Outdoor Bloggers.
 category: articles
 tags: [articles, rss, blogging]
