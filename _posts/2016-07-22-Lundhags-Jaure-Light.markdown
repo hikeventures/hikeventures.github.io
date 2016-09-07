@@ -1,14 +1,13 @@
 ---
 layout: post
 title: Lundhags Jaure Light High II and Mid II - The best shell boots for hiking and trekking?
+description: The Lundhags Jaure Light High II and Mid II
 date: 2016-07-22 07:30:00 +0300
 category: reviews
 tags:
   - reviews
   - Lundhags
   - Boots
-description: The Lundhags Jaure Light High II and Mid II
-published: true
 ---
 We are wearing since 1 year the Lundhags Jaure Light High on our trips and got quite excited when Lundhags announced their new Lundhags Jaure Light High II which will be available in the colors Petrol/Bronze and Black Rush and the Lundhags Jaure Light Mid II which will be available in the color  Black/Rush. Even so our boots are relatively new it's always good to hear that the Lundhags Jaure Light High could be even optimized even further.
 

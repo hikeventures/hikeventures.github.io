@@ -1,10 +1,14 @@
 ---
 layout: post
 title: e5 - Crossing the Alps from Germany to Italy
-date: 2012-11-25 07:30:00 +0300
 description: Walking from Germany to Italy. Our 6 days adventure in the Alps.
+date: 2012-11-25 07:30:00 +0300
 category: destinations
-tags: [destinations, alps, mountains, e5]
+tags: 
+   - destinations
+   - alps
+   - mountains
+   - e5
 ---
 On this trip we were hiking around 160 km from Germany to Italy. The demanding part was however not the distance but walking up and down a mountain on a daily base. The E5 originally starts from Konstanz (Germany) and ends in Verona (Italy). However, most hikers start the tour from Oberstdorf - since this is the part where you are actually in the Alps - and finish the tour in Meran. 
 

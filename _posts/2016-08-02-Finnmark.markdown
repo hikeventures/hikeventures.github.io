@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Hiking and Packrafting in Northern Norway - Finnmark
-date: 2016-08-02 07:30:00 +0300
-published: true
 description: A hiking and packrafting adventure in Northern Norway.
+date: 2016-08-02 07:30:00 +0300
 category: destinations
 tags:
   - destinations
-  - NorwayFinnamrk
+  - Norway
+  - Finnamrk
   - Kaldoaivi
   - packrafting
 ---

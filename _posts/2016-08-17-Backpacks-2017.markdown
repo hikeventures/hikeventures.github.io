@@ -1,9 +1,8 @@
 ---
 layout: post
 title: The best new hiking and backpacking backpacks for 2017
-date: 2016-08-01 07:30:00 +0300
-published: true
 description: Need a new backpack for your next outdoor adventure? Here are a selection of the latest models for 2017.
+date: 2016-08-01 07:30:00 +0300
 category: articles
 tags:
   - articles

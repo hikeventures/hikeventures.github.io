@@ -1,14 +1,13 @@
 ---
 layout: post
 title: Julbo Swell Review
+description: Our review on the Julbo Swell
 date: 2016-05-23 07:30:00 +0300
-published: true
 category: reviews
 tags:
   - reviews
   - julbo
   - glasses
-description: Our review on the Julbo Swell
 ---
 After having had my old sunglasses for over 3 years I thought it was time to upgrade my sunglasses to a newer model. As [we interviewed Julbo on the ISPO 2016](https://www.youtube.com/watch?v=vdb3m52FdvM) in Munich I decided to have a look on their product range and came across the Julbo Swell which could become my new sun glasses for our packrafting trips.
    

@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Teijo National Park
-date: 2016-08-09 07:30:00 +0300
 description: A hiking day in the Teijo National Park in Finland
+date: 2016-08-09 07:30:00 +0300
 category: destinations
-published: true
-tags: [destinations, hiking, finland]
+tags: 
+  - destinations
+  - hiking
+  - finland
 ---
 Last weekend I visited the Teijo National Park located about 1.15 hours South-East of Turku to go hiking. Teijo National Park has a lot of variety like lakes, marshes, forests, marshes and a sea bay. The marked trails are easy to hike. Teijo National Park is suitable for those who don't have much hiking experience.
 

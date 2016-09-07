@@ -1,11 +1,15 @@
 ---
 layout: post
 title: Video: Hiking and Packrafting in Finnish Lapland and Northern Norway
-date: 2016-08-10 07:30:00 +0300
-comments: true
 description: A short video about our outdoor adventures in the North
+date: 2016-08-10 07:30:00 +0300
 category: videos
-tags: [videos, kaldoaivi, norway, packrafting, finland]
+tags: 
+  - videos
+  - kaldoaivi
+  - norway 
+  - packrafting
+  - finland
 ---
 Here comes a short video about our Hiking and Packrafting adventure together with [Caj](http://caide.kuvat.fi/) and Katja in Finnish Lapland and Northern Norway.
 

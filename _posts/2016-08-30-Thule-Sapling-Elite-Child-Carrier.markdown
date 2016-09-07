@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Thule Sapling Elite Child Carrier Review
-date: 2016-08-30 07:30:00 +0300
-published: true
-category: reviews
-tags: [reviews, Thule, backpack]
 description: Our review on the Thule Sapling Elite Child Carrier
+date: 2016-08-30 07:30:00 +0300
+category: reviews
+tags: 
+  - reviews
+  - Thule 
+  - backpack
 ---
 Recently, I was looking for a child carrier backpack since I was interested to bring our child clother to nature. Carrying a child in a backpack feels more convenient than cruising with a stroller in the nature and you can more easily access places off the beaten track. This is a first short review about the Thule Sampling Elite Child Carrier Backpack which I got provided by Thule to test it here in Finland. I will add more details to this review over the time.
 
