@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Inov-8 Roclite 295 Review
-date: 2013-03-21 17:53 +0300
+date: 2013-03-21 07:30:00 +0300
 description: "Inov-8 Roclite 295, Gear Review"
 category: reviews
 tags: [reviews, shoes, inov-8]

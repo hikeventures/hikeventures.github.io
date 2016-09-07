@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hiking and Packrafting in Sarek
-date: 2013-08-25 21:39 +0300
+date: 2013-08-25 07:30:00 +0300
 description: Exploring the Scandinavian Mountains. The Last Wilderness of Europe
 category: destinations
 tags: [destinations, sarek, sweden, packrafting, hiking]

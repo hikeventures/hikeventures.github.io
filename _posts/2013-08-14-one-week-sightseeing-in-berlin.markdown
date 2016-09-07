@@ -1,7 +1,7 @@
 ---
 layout: post
 title: One week Sightseeing in Berlin
-date: 2013-08-14 18:20 +0300
+date: 2013-08-14 07:30:00 +0300
 description: Berlin - Exploring the capital of German
 category: destinations
 tags: [destinations, berlin, germany]

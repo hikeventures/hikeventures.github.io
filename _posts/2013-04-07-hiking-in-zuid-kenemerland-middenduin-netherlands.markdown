@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hiking in Zuid-Kenemerland - Middenduin - Netherlands
-date: 2013-04-07 10:27 +0300
+date: 2013-04-07 07:30:00 +0300
 description: Hiking adventure in Zuid-Kenemerland
 category: destinations
 tags: [destinations, netherlands]

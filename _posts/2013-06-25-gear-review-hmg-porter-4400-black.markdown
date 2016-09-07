@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HMG Porter 4400 Black Review
-date: 2013-06-25 16:58 +0300
+date: 2013-06-25 07:30:00 +0300
 description: Review of the Hiking and Packrafting backpack - HMG Porter 4400 black
 category: reviews
 tags: [reviews, hmg, bags]

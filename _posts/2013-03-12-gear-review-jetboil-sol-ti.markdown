@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jetboil Sol Ti
-date: 2013-03-12 22:25 +0300
+date: 2013-03-12 07:30:00 +0300
 categories: Gear Reviews
 description: Jetboil Sol Ti Review
 category: reviews

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sea to Summit Ultra Sil Drysack Review
-date: 2013-04-08 20:50 +0300
+date: 2013-04-08 07:30:00 +0300
 description: Sea to Summit Ultra Sil Drysack Review
 category: reviews
 tags: [reviews, sea to summit, dry sacks]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kvarken Archipelago
-date: 2012-11-25 23:44 +0300
+date: 2012-11-25 07:30:00 +0300
 description: Kvarken Archipelago
 category: destinations
 tags: [destinations, archipelago, finland]

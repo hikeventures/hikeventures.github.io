@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Packrafting the cleanest lake in Sweden - Trollsjön
-date: 2015-11-08 006:20:07 +0300
+date: 2015-11-08 06:20:07 +0300
 published: true
 description: Another packrafting adventure in Sweden
 category: destinations

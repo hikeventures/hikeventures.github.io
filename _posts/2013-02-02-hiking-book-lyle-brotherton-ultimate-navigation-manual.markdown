@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lyle Brotherton - Ultimate Navigation Manual
-date: 2013-02-02 14:59 +0300
+date: 2013-02-02 07:30:00 +0300
 author: Patrick
 categories: books
 category: reviews

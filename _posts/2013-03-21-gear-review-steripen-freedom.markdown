@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SteriPen Freedom
-date: 2013-03-21 17:52 +0300
+date: 2013-03-21 07:30:00 +0300
 description: SteriPen Freedom Review
 category: reviews
 tags: [reviews, steripen, kitchen]

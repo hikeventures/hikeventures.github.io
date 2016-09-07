@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Black Diamond Ultra Distance Z-Pole
-date: 2013-02-06 16:47 +0300
+date: 2013-02-06 07:30:00 +0300
 published: true
 description: Black Diamond Ultra Distance Z-Pole Review
 category: reviews

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Outdoor Gear Ideas - Wishlist for Christmas 2015
-date: 2015-11-17 007:30:01 +0300
+date: 2015-11-17 07:30:01 +0300
 published: true
 description: My outdoor gear wishlist for Christmas 2015
 category: articles

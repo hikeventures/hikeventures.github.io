@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Backcountry Skiing - Skills for Ski Touring and Ski Mountaineering
-date: 2013-02-23 14:28 +0300
+date: 2013-02-23 07:30:00 +0300
 description: Good book about Backcountry Skiing skills
 category: reviews
 tags: [reviews, books]

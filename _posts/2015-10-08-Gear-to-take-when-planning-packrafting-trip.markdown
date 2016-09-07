@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What gear to take when planning a packrafting trip
-date: 2015-10-09 015:55:01 +0300
+date: 2015-10-09 15:55:01 +0300
 published: true
 description: A list of gear needed when planning a packrafting trip
 category: articles

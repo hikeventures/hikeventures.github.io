@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hiking in the Scottish Highlands
-date: 2013-07-16 00:20 +0300
+date: 2013-07-16 07:30:00 +0300
 description: Exploring the Scottish Highlands
 category: destinations
 tags: [destinations, scotland, mountains, scottish highlands]

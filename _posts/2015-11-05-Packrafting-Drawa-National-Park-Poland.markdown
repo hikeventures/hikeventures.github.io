@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Packrafting the Drawa River in Poland
-date: 2015-11-05 006:20:07 +0300
+date: 2015-11-05 06:20:07 +0300
 description: Our packrafting adventure in Poland
 category: destinations
 tags: [destinations, poland, packrafting]

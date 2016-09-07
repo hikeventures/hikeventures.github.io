@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Horror books or how to prepare yourself for the winter
-date: 2013-11-17 16:28 +0300
+date: 2013-11-17 07:30:00 +0300
 description: Outdoors books we are going to review in the future
 category: articles
 tags: [articles, books]

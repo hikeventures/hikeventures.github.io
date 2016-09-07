@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The silent hunt in Poland
-date: 2013-11-03 21:10 +0300
+date: 2013-11-03 07:30:00 +0300
 description: Hiking and hunting for mushrooms in Poland
 category: destinations
 tags: [poland, destinations, mushrooms]

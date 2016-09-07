@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Water repellent down jackets Overview 2013
-date: 2013-03-03 19:03 +0300
+date: 2013-03-03 07:30:00 +0300
 published: false
 description: An overview about Windshell Jackets and Shirts
 category: articles

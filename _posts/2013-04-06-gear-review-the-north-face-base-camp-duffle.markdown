@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The North Face Base Camp Duffle
-date: 2013-04-06 16:05 +0300
+date: 2013-04-06 07:30:00 +0300
 description: The North Face Base Camp Duffle
 category: reviews
 tags: [reviews, the north face, bags]

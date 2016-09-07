@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Laufbursche Huckepack hp450
-date: 2013-03-21 17:52 +0300
+date: 2013-03-21 07:30:00 +0300
 description: Laufbursche Huckepack hp450 Ultralight backpack review
 category: reviews
 tags: [reviews, bags, laufbursche, backpacks]
