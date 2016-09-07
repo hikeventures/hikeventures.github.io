@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thule RideAlong Review
-date: 2016-06-1807:30:00 +0300
+date: 2016-06-18 07:30:00 +0300
 published: false
 category: reviews
 tags: [reviews, Thule, bicycling]

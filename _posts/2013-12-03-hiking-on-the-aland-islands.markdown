@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hiking on the Åland Islands
-date: 2012-06-29 14:24 +0300
+date: 2012-06-29 14:24:00 +0300
 description: Discovering the Finnish Archipelago
 category: destinations
 tags: [destinations, åland, hiking]
