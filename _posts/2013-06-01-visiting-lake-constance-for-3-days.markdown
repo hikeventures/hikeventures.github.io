@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lake constance in 3 days
-date: 2013-06-01 22:08
+date: 2013-06-01 22:08 +0300
 description: On this adventure I enjoyed the scenic view towards the Alps. 
 category: destinations
 tags: [destinations, lake constance, germany, bodensee]

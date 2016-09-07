@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hiking in Repovesi National Park
-date: "2012-11-26 17:11"
+date: 2012-11-26 17:11 +0300
 comments: true
 description: Our adventure to the Repovesi National Park. One of the best National Parks in Southern Finland.
 category: destinations

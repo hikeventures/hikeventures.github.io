@@ -1,7 +1,7 @@
 ---
 layout: post
 title: One Hundred Mountains
-date: 2013-12-05 20:37:27 +0200
+date: 2013-12-05 20:37:27 +0300
 description: Introduction of the One Hundred Mountains blog
 category: interviews
 tags: [interviews]

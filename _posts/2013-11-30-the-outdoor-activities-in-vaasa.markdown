@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hiking and Packrafting in Vaasa
-date: 2013-11-30 15:50:28 +0200
+date: 2013-11-30 15:50:28 +0300
 description: Hiking and Packrafting in Vaasa
 category: destinations
 tags: [destinations, vaasa, finland, hiking]

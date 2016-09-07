@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "PMags"
-date: 2013-12-09 23:22:10 +0200
+title: PMags
+date: 2013-12-09 23:22:10 +0300
 comments: true
 description: PMags introduction
 category: interviews

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gear for free! - Outdoor Advent Calendars
-date: 2013-12-01 08:27:52 +0200
+date: 2013-12-01 08:27:52 +0300
 description: Christmas time is Outdoor Advent Calendar time
 category: campaigns
 tags: [campaigns]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sony A7r ISO 50 - RAW - Night
-date: 2013-11-25 22:41:27 +0200
+date: 2013-11-25 22:41:27 +0300
 description: Testing the Sony A7r ISO 50 at night
 category: blogging
 tags: [blogging, sony, a7r, photography, camera]

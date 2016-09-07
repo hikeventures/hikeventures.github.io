@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nuuksio National Park
-date: 2012-11-25 17:42
+date: 2012-11-25 17:42 +0300
 published: true
 description: The National Park nearby the capital of Finland
 category: destinations
