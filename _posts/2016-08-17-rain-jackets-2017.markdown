@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The best new rain jackets for 2017
-date: 2016-08-01 09:42:09 +0300
+date: 2016-08-01T23:20:00+03:00
 published: true
 description: An overview of the newest rain jackets on the market.
 category: articles

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cycling the 250 km Turku Archipelago Trail in Finland
-date: 2016-08-23 09:42:09 +0300
+date: 2016-08-23T23:20:00+03:00
 published: true
 description: A bicycle adventures on the Finnish Archipelago Trail
 category: articles

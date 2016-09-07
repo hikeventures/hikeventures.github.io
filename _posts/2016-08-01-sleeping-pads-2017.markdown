@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The best new sleeping pads in 2017
-date: 2016-08-01 18:49:09 +0200
+date: 2016-08-01T23:20:00+03:00
 published: true
 description: A selection of the best hiking and backpacking sleeping pads for 2017
 category: articles

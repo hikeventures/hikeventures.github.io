@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hiking and Packrafting in Northern Norway - Finnmark
-date: 2016-08-02 07:41 +0300
+date: 2016-08-02T23:20:00+03:00
 published: true
 description: A hiking and packrafting adventure in Northern Norway.
 category: destinations

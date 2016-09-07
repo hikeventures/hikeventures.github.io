@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Video: Hiking and Packrafting in Finnish Lapland and Northern Norway
-date: 2016-08-10 12:59 +0300
+date: 2016-08-10 11:47:24 +0300
 comments: true
 description: A short video about our outdoor adventures in the North
 category: videos
