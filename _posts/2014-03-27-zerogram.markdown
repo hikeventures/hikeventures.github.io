@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Zerogram Interview
-date: 2014-04-01 07:40:00 +0200
 description: A short presentation of the outdoor company zerogram
+date: 2014-04-01 07:40:00
 category: interviews
-tags: [interviews]
+tags: 
+  - interviews
+layout: post
 ---
 
 <a href="http://www.zerogram.co.kr" target="_blank">Zerogram</a>, a Korea’s innovative lighter backpacking gear manufacturer.  I had dreamed of outdoor business since sometime after I began to mountaineering but it was obscure until I was inspired to start zerogram while I was hiking through John Muir Thru-hike in California, and I resolved to manufacture both minimal and eco-friendly outdoor gear then. I have hiked the trekking of Patagonia, in January 2014. I got also strong inspiration.
