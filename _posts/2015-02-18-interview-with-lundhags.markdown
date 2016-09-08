@@ -1,11 +1,12 @@
 ---
-layout: post
 title: Interview with Lundhags
-date: 2015-02-20 06:19:00 +0200
-published: true
 description: Our interview with outdoor fashion and gear manufacturer Lundhags.
+date: 2015-02-20 06:19:00
 category: interviews
-tags: [interviews, lundhags]
+tags: 
+  - interviews
+  - lundhags
+layout: post
 ---
 Our interview with outdoor fashion and gear manufacturer <a href="http://www.lundhags.com" target="_blank">Lundhags</a>. Photo by Erik Olsson/Lundhags.<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/16399657708" title="Lundhags"><img src="https://farm9.staticflickr.com/8615/16399657708_96629b7435_b.jpg" width="1024" height="683" alt="Lundhags"></a><br><!--more--><br>
