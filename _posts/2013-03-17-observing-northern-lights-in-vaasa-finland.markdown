@@ -1,10 +1,13 @@
 ---
-layout: post
 title: Observing Northern Lights in Vaasa
-date: 2013-03-17 07:30:00 +0300
 description: When Northern Lights appear in Vaasa
+date: 2013-03-17 07:30:00
 category: articles
-tags: [articles, vaasa, northern lights]
+tags: 
+  - articles
+  - vaasa
+  - northern lights
+layout: post
 ---
 Northern Lights are caused by the collision of energetic charged particles with atoms in the high altitude atmosphere. The auroral zone is typically 10&#176; to 20&#176; from the magnetic pole defined by the axis of the Earth's magnetic dipole. Aurora borealis are named after the Roman goddess of dawn, Aurora, and the Greek name for the north wind, Boreas, by Pierre Gassendi in 1621. Aalto University in Helsinki has also published a [study][1] of aurora related sound and electric field effects. 2013 seems to be a great year to observe Northern Lights in Finland.
 
