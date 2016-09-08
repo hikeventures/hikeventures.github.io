@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Packrafting the River Dee in Scotland - Day 1
-date: 2016-07-15 06:46:20 +0200
-category: destinations
-published: true
-tags: [destinations, packrafting, scotland]
 description: Our February packrafting adventure in Scotland.
+date: 2016-07-15 06:46:20
+category: destinations
+tags: 
+  - destinations
+  - packrafting
+  - scotland
 ---
 
 In January we made plans to go packrafting in the Scottish Highlands and decided to raft down the River Dee for a couple of days. Knowing that the temperatures were below 0 C degree during the night we were quite lucky with the weather as we had sunshine until the last day. For Konstantin the River Dee was the the second of the three great rivers of Scotland. Maybe Next year he will have a chance to do the third?
