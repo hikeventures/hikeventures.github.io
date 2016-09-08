@@ -1,10 +1,13 @@
 ---
-layout: post
 title: Sea to Summit Ultra Sil Drysack Review
-date: 2013-04-08 07:30:00 +0300
 description: Sea to Summit Ultra Sil Drysack Review
+date: 2013-04-08 07:30:00
 category: reviews
-tags: [reviews, sea to summit, dry sacks]
+tags: 
+  - reviews
+  - sea to summit
+  - dry sacks
+layout: post
 ---
 
 Recently, I purchased a new backpack and was in need of getting a dry sack where I can stuff my clothes etc. in to keep them dry in case of rain while on the trail. So I took a look on the Sea to Summit Ultra-Sil Drysack for my next hiking, backpacking and packrafting trips and here is a short review.
