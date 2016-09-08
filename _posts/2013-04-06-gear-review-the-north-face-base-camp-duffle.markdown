@@ -1,10 +1,13 @@
 ---
-layout: post
 title: The North Face Base Camp Duffle
-date: 2013-04-06 07:30:00 +0300
 description: The North Face Base Camp Duffle
+date: 2013-04-06 07:30:00
 category: reviews
-tags: [reviews, the north face, bags]
+tags: 
+  - reviews
+  - the north face
+  - bags
+layout: post
 ---
 
 Having used my old 10 EUR bag which I have used the last 2 years, I decided to upgrade the bag I am using for traveling and transporting my outdoor gear. After reviewing several options, I went for the North Face Base Camp Duffle L, which was on sale during Easter and here comes a short review.
