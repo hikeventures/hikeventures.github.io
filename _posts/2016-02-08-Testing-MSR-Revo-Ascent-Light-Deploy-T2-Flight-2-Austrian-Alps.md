@@ -1,9 +1,7 @@
 ---
-published: true
-layout: post
-date: 2016-02-08 07:28:01 +0300
 description: Testing the MSR Revo Ascent, Lightning Ascent, Deploy TR-2 and Flight 2 in the Austrian Alps
 title: Reviewing the MSR Revo Ascent, Ascent Light, Deploy TR-2 and Flight 2 in the Austrian Alps
+date: 2016-02-08 07:28:01
 category: reviews
 tags:
   - reviews
@@ -12,6 +10,7 @@ tags:
   - snowshoeing
   - austria
   - mountains
+layout: post
 ---
 After the ISPO in Munich we went to Gaschurn in Austria to test our MSR Lightning Ascent and MSR Revo snowshoes (provided by MSR) as well as the MSR Flight 2 and MSR Deploy TR-2 poles in the Alps.
    
