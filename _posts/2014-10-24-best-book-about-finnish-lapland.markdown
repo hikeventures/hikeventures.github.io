@@ -1,10 +1,14 @@
 ---
-layout: post
 title: Best book about Finnish Lapland
-date: 2014-10-24 17:27:50 +0300
 description: Need a good book about Finnish Lapland. This is the one.
+date: 2014-10-24 17:27:50
 category: reviews
-tags: [reviews, books, finland, lapland]
+tags: 
+  - reviews
+  - books
+  - finland
+  - lapland
+layout: post
 ---
 
 Lapland is definitely a place worth to visit if you are into Hiking / Bakpacking or Packrafting. However, it's also good to know the history, nature and culture if you are planning to visit a new hiking destination. For Finnish Lapland I would definitely recommend you the Crossbill Guide for Finnish Lapland including Kuusamo.
