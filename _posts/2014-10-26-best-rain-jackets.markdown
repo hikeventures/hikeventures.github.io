@@ -1,14 +1,13 @@
 ---
-layout: post
 title: The 6 Best Men Rain Jackets 2016 for Hiking and Backpacking
-date: 2016-01-04 12:33:51 +0200
 description: Overview of the best men rain Jackets in 2016 for hiking and backpacking
+date: 2016-01-04 12:33:51
 category: articles
 tags:
   - articles
   - best
   - jackets
-published: true
+layout: post
 ---
  Here is my buying guide of the best men rain jackets for 2016. The rain jackets which I have selected below are sorted by weight. Planning to go hiking, backpacking, running, cycling, mountaineering or on any other backcountry trip? Then you should have a lightweight rain jacket in your backpack to stay dry and warm on your outdoor adventure. Most of the jackets I have listed in this post are also available for women.
 
