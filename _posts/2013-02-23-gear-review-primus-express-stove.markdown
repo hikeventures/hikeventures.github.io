@@ -1,10 +1,13 @@
 ---
-layout: post
 title: Primus Express Stove
-date: 2013-02-23 07:30:00 +0300
 description: Primus Express Stove Review
+date: 2013-02-23 07:30:00
 category: reviews
-tags: [reviews, primus, stove]
+tags: 
+  - reviews
+  - primus
+  - stove
+layout: post
 ---
 <a href="https://www.flickr.com/photos/90204224@N07/8372540157" title="Primus Express Stove"><img src="https://farm9.staticflickr.com/8329/8372540157_94d5f4fca6_b.jpg" width="683" height="1024" alt="Primus Express Stove hiking and backpacking ultralight"></a><!--more-->
 
