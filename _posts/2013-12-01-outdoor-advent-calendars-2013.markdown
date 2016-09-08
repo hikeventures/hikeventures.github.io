@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Gear for free! - Outdoor Advent Calendars
-date: 2013-12-01 08:27:52 +0300
 description: Christmas time is Outdoor Advent Calendar time
+date: 2013-12-01 08:27:52
 category: campaigns
-tags: [campaigns]
+tags: 
+  - campaigns
+layout: post
 ---
 Again December and again time to open the first door of the advent calendar. Time to look for some websites which give away free hiking and outdoor gear. <br><br>
 
