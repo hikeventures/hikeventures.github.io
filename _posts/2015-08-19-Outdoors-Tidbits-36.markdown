@@ -1,12 +1,11 @@
 ---
-layout: post
 title: Outdoors Tidbits 36
-date: 2015-06-25 18:04:22 +0200
-published: true
 description: The latest outdoor gear reviews, tips & tricks - Nr. 36
+date: 2015-06-25 18:04:22
 category: tidbits
 tags:
   - tidbits
+layout: post
 ---
 
 This summer was quite interesting. HikeVentures has been in Poland, Japan, Sweden and Norway and we have to go through all of our pictures and pick the best ones for our readers. Make sure to check out <a href="https://instagram.com/hikeventure">Instagram</a> and <a href="https://www.facebook.com/HikeVentures">Facebook</a> as we will publish some pictures there as well.
