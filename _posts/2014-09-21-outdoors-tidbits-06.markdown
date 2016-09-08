@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Outdoors Tidbits 6
-date: 2014-09-21 07:42:26 +0300
 description: The latest outdoor gear reviews, tips & tricks - Nr. 6
+date: 2014-09-21 07:42:26
 category: tidbits
-tags: [tidbits]
+tags: 
+  - tidbits
+layout: post
 ---
 Patrick has tested his [Suunto Ambit3 Sport HR](http://amzn.to/1uTyALR) a couple of times and really loves it! The [first Finnish Packrafting Gathering](http://korpijaakko.com/2014/08/27/the-first-finnish-packrafting-gathering/) is getting closer and don't miss to join the Packrafting in Finland [Facebook Group](https://www.facebook.com/groups/851417628210793/)<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/15030793280"><img src="https://farm4.staticflickr.com/3895/15030793280_7db6c5f857_b.jpg" width="1024" height="683"></a><!--more-->
