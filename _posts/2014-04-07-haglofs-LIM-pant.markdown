@@ -1,10 +1,13 @@
 ---
-layout: post
 title: Haglöfs L.I.M III Pants Review
-date: 2014-04-07 07:53:20 +0300
 description: Haglöfs L.I.M III Pant - Light and Waterproof Outdoor Pants
+date: 2014-04-07 07:53:20 +0300
 category: reviews
-tags: [reviews, haglöfs, pants]
+tags: 
+  - reviews
+  - haglöfs
+  - pants
+layout: post
 ---
 
 Are you looking for waterproof rain pants for your next hiking, backpacking or any other backcountry trips? The Haglöfs L.I.M III Pants are one of the lightest pants on the market and here comes a short review.
