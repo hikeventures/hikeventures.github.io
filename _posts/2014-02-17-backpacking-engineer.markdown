@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Backpacking Engineer Interview
-date: 2014-02-17 19:21:00 +0200
 description: Blog introduction of the Backpacking Engineer
+date: 2014-02-17 19:21:00
 category: interviews
-tags: [interviews]
+tags: 
+  - interviews
 ---
 Hello, to all you awesome HikeVentures followers! Nice to meet you. I am Night Terror from Backpacking Engineer (<a href="http://www.backpackingengineer.com">www.backpackingengineer.com</a>). 
 
