@@ -1,14 +1,13 @@
 ---
-layout: post
 title: The 4 Best Wind Jackets for 2016
-date: 2016-01-04 10:56:22 +0200
-published: true
 description: Top 5 windproof Jackets for 2016 for your next outdoor adventure!
+date: 2016-01-04 10:56:22
 category: articles
 tags:
   - articles
   - best
   - jackets
+layout: post
 ---
 To protect yourself agains cold winds on the trail you should pack a lightweight wind jacket into your backpack when you go hiking, backpacking, climbing, cycling, running or plan any other backcountry trip. A windbreaker does not need much space so you can easily store it in your backpack. Also make sure that you buy a hooded wind jacket and not a wind pullover. Here is my buying guide of the best wind jackets in 2016.
 
