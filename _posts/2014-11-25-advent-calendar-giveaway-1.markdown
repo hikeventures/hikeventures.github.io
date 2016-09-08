@@ -1,10 +1,10 @@
 ---
-layout: post
 title: Advent Calendar: Giveaway 1
-date: 2014-11-25 18:04:22 +0200
-published: true
+date: 2014-11-25 18:04:22
 category: campaigns
-tags: [campaigns]
+tags: 
+  - campaigns
+layout: post
 ---
 Ho Ho Ho - Here comes our first giveaway - an aquapac waterproof camera pouch! This is a great camera bag which I use myself for my Sony A7r + Sony 35mm 2.8 lens. <br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/15876933245"><img src="https://farm8.staticflickr.com/7504/15876933245_5f2da0043d_b.jpg" width="1024" height="1024"></a><!--more--><br><br>
