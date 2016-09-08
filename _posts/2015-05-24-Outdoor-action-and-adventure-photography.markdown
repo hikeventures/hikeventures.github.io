@@ -1,5 +1,5 @@
 ---
-title: Dan Bailey: Outdoor Action and Outdoor Photography
+title: Dan Bailey - Outdoor Action and Outdoor Photography
 description: A good book with ideas if you are interested in outdoor action photography.
 date: 2015-05-24 20:18:00
 category: reviews
