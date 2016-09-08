@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Outdoors Tidbits 43
-date: 2016-01-03 19:29:01 +0300
-published: true
 description: The latest outdoor gear reviews, tips & tricks - Nr. 43
+date: 2016-01-03 19:29:01
 category: tidbits
 tags:
   - tidbits
