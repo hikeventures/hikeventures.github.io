@@ -1,5 +1,5 @@
 ---
-title: Advent Calendar: Giveaway 1
+title: Advent Calendar - Giveaway 1
 date: 2014-11-25 18:04:22
 category: campaigns
 tags: 
