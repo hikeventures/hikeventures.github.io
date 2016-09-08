@@ -1,14 +1,13 @@
 ---
-layout: post
 title: The 6 Best Men Rain Pants 2016 for Hiking and Backpacking
-date: 2015-02-08 09:13:12 +0200
-description: Top 6 of the best Waterproof pants 2016 which protects you during your outdoor adventures.
+description: Top 6 of the best Waterproof pants 2016 which protects you during your outdoor adventures
+date: 2015-02-08 09:13:12
 category: articles
 tags:
   - articles
   - best
   - pants
-published: true
+layout: post
 ---
 Planning to go hiking or backpacking or any other backcountry adventure? Then you should consider to pack lightweight rain pants in into your backpack and here is our buying guide of the best men rain pants for 2016. If the weather turns nasty you will be happy to have rain gear to stay dry and warm on the trail. The models which we have selected are rain pants for men. We have not tested those rain pants ourselves but we compared their specifications. The rain pants are sorted according to their weight. Most models are also available for women.
 
