@@ -1,10 +1,13 @@
 ---
-layout: post
 title: Waterproof Maps for Hiking and Packrafting
-date: 2013-07-19 07:30:00 +0300
 description: Forget traditional paper maps. Waterproof maps are the way to go
+date: 2013-07-19 07:30:00
 category: reviews
-tags: [reviews, calazo, maps]
+tags: 
+  - reviews
+  - calazo
+  - maps
+layout: post
 ---
 
 A map is one of the most important item which should be in your backpack on every hiking and packrafting trip. However, when your map gets wet you may end up with the situation that you are not able to use your map anymore. For this reason a waterproof Calazo map was our choice for our hiking trip and packrafting trip in the Swedish mountains.
