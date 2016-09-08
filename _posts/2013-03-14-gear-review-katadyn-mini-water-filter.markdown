@@ -1,10 +1,13 @@
 ---
-layout: post
-title: Katadyn Mini Water Filter
-date: 2013-03-14 07:30:00 +0300
-description: "Katadyn Mini Water Filter - Your next water filter  Review"
+title: Katadyn Mini Water Filter Review
+description: Katadyn Mini Water Filter - Your next water filter
+date: 2013-03-14 07:30:00
 category: reviews
-tags: [reviews, kitchen, katadyn]
+tags: 
+  - reviews
+  - kitchen
+  - katadyn
+layout: post
 ---
 
 I was looking for a water purifier which I can take on my hiking, backpacking and packrafting trips which is light and does not need much space and decided to go with a Katadyn Mini + <a href="http://hikeventures.com/gear-review-steripen-freedom/" target="_self">UV SteriPen</a> combination (since the Kadyn Mini is not a solution against Viruses) and here comes a short review.
