@@ -1,14 +1,13 @@
 ---
-layout: post
 title: Packrafting in Belgium - Paddling the Semois
-date: 2015-05-22 19:40:07 +0300
 description: A packrafting meeting in Belgium - paddling the Semois.
+date: 2015-05-22 19:40:07
 category: destinations
 tags:
   - destinations
   - packrafting
   - belgium
-published: true
+layout: post
 ---
 About three weeks ago, Konstantin joined the other 20 packrafters for a Packrafting Weekend organized by <a href="http://hikingadvisor.be">hikingadvisor.be</a> in the south of Belgium on the Semois where we met in the morning of the 11th of April.<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/17929366185"><img src="https://c4.staticflickr.com/8/7667/17929366185_cd7151a98a_o.jpg" width="100%"></a><!--more-->
