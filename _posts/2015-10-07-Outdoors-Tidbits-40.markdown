@@ -1,12 +1,11 @@
 ---
-layout: post
 title: Outdoors Tidbits 40
-date: 2015-10-07 018:27:01 +0300
-published: true
 description: The latest outdoor gear reviews, tips & tricks - Nr. 40
+date: 2015-10-07 018:27:01
 category: tidbits
 tags:
   - tidbits
+layout: post
 ---
 Here comes our latest outdoors tidbits with the latest outdoors tips and tricks and gear reviews. Temperatures are dropping and it's time to think about winter gear. We had already the first snow up North in Lapland. We are also working on a gear review which we will publish this week as well.
 
