@@ -1,10 +1,13 @@
 ---
-layout: post
 title: Montane Minimus Smock Review
-date: 2013-05-14 07:30:00 +0300
 description: Montane Minimus Smock Review
+date: 2013-05-14 07:30:00
 category: reviews
-tags: [reviews, montane minimus, jackets]
+tags: 
+  - reviews
+  - montane minimus
+  - jackets
+layout: post
 ---
 
 For my hiking and packrafting adventures in summer and autumn, I was looking for a rain shell which is super light and still breathes quite well. After comparing some smocks and jackets I decided to give the Montane Minimus Smock a try. This is probably one of the lightest rain jacket which you can buy for your hiking or backpacking trips and here comes a short review.
