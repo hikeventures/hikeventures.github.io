@@ -1,10 +1,13 @@
 ---
-layout: post
 title: Hiking on the Åland Islands
-date: 2012-06-29 14:24:00 +0300
 description: Discovering the Finnish Archipelago
+date: 2012-06-29 14:24:00
 category: destinations
-tags: [destinations, åland, hiking]
+tags: 
+  - destinations
+  - åland
+  - hiking
+layout: post
 ---
 This weekend I went to K&ouml;kar, a Swedish speaking municipality with a population of 244 and is part of the &Aring;land Islands (belonging to Finland) which are located between Finland and Sweden. The &Aring;land islands can be reached by ferry from Turku within 2.5 hours.
 
