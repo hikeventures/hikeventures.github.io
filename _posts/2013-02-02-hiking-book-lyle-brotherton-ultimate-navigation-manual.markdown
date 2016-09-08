@@ -1,11 +1,12 @@
 ---
-layout: post
 title: Lyle Brotherton - Ultimate Navigation Manual
-date: 2013-02-02 07:30:00 +0300
-author: Patrick
-categories: books
+description: Our book review about Lyle Brothertons Ultimate Navigation Manual
+date: 2013-02-02 07:30:00
 category: reviews
-tags: [reviews, books]
+tags: 
+  - reviews
+  - books
+layout: post
 ---
 
 If you are looking for the ultimate navigation manual then you should give Lyle Brotherton's Ultimate Navigation Manual a try. Its' 359 pages are packed with everything you always wanted to know about navigation.
