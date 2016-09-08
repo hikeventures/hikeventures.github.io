@@ -1,10 +1,13 @@
 ---
-layout: post
 title: Arcteryx Tecto FL Jacket Review
-date: 2013-12-15 07:30:00 +0300
 description: Great waterproof jacket for activities outdoors
+date: 2013-12-15 07:30:00
 category: reviews
-tags: [reviews, arcteryx, jackets]
+tags: 
+  - reviews
+  - arcteryx
+  - jackets
+layout: post
 ---
 
 Looking for a lightweight waterproof jacket for your next hiking, backpacking or any other backcountry adventure? The Arcteryx Tecto FL Jacket could be your next jacket and here comes a short review. After my hiking trip in [Sarek](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) where I used the <a href="http://hikeventures.com/gear-review-montane-minimus-smock/" target="_self">Montane Minimus Smock</a>, I noticed that it would be better to have a full-zip jacket. It's just much more easier to get it on and off. Of course, a full-zip jacket is somewhat more heavy but a full-zip jacket just works better for me.
