@@ -1,10 +1,12 @@
 ---
-layout: post
 title: Layering Clothing for Packrafting
-date: 2014-11-15 16:11:42 +0200
 description: How to layer your clothing when you go packrafting
+date: 2014-11-15 16:11:42
 category: articles
-tags: [articles, packrafting]
+tags: 
+  - articles
+  - packrafting
+layout: post
 ---
 
 Layering your clothing properly is also important when going packrafting. In this blog post I am going to give you an overview over my clothing layering system mainly for spring and autumn.<br><br>
