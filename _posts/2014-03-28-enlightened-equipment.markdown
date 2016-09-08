@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Enlightened Equipment
-date: 2014-04-02 17:39:39 +0200
 description: Introduction of Enlightened Equipment
+date: 2014-04-02 17:39:39
 category: interviews
-tags: [interviews]
+tags: 
+  - interviews
+layout: post
 ---
 
 <a href="http://www.enlightenedequipment.com/" target="_blank">Enlightened equipment</a> is about making the lightest, warmest, and smartest sleeping insulation possible. We have been making quilts for years now and our constant evolution has lead us to the best possible quilt design at prices that are surprisingly low.
