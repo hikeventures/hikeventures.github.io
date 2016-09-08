@@ -1,10 +1,13 @@
 ---
-layout: post
 title: Hiking in the Scottish Highlands
-date: 2013-07-16 07:30:00 +0300
 description: Exploring the Scottish Highlands
+date: 2013-07-16 07:30:00
 category: destinations
-tags: [destinations, scotland, mountains, scottish highlands]
+tags: 
+  - destinations
+  - scotland
+  - mountains
+layout: post
 ---
 
 The Scottish Highlands are a perfect destination for those who like hiking. In our case we started hike from Dalwhinnie train station. We walked along Lake 'Loch Ericht', camping at night on the shore.
