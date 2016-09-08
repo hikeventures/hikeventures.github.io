@@ -1,10 +1,14 @@
 ---
 layout: post
 title: Astral Designs V-Eight Review
-date: 2016-08-15 07:30:00 +0300
 description: Summer PFD for Kayaking and Packrafting
+date: 2016-08-15 07:30:00
 category: reviews
-tags: [reviews, pfd, astral designs, packrafting]
+tags: 
+  - reviews
+  - pfd
+  - astral designs
+  - packrafting
 ---
 A few months ago I bought an Astral Design V-Eight as my new go-to PFD for packrafting. I was looking for a lightweight PFD which is comfortable to wear and has some pockets. Previously, I had already the [Astral YTV](http://www.hikeventures.com/astral-ytv/) but lost it on a packrafting trip in [Northern Sweden](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/).
 
