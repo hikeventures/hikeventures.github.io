@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Best hike in Washington State
-date: 2014-02-13 06:51:16 +0200
 description: Hiking and Photography in Washington State
+date: 2014-02-13 06:51:16
 category: interviews
-tags: [interviews]
+tags:
+  - interviews
+layout: post
 ---
 I enjoy long walks in the woods and sleeping on thinly insulated pads. And pictures.  I love taking pictures. I live in Washington State, USA. It is a beautiful place to live and explore.  
 
