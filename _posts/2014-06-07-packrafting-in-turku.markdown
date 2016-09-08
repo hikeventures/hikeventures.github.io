@@ -1,10 +1,14 @@
 ---
-layout: post
 title: Packrafting in Turku
-date: 2014-06-07 20:39:30 +0300
 description: Packrafting Microadventure in Turku
+date: 2014-06-07 20:39:30
 category: destinations
-tags: [destinations, turku, finland, packrafting]
+tags: 
+  - destinations
+  - turku
+  - finland
+  - packrafting
+layout: post
 ---
 Today, I packed my packraft and went to the coast of Turku in order to exercise a little bit for our trip in Sweden next week. I paddled around 5 km, however there are endless possibilities to paddle as there are plenty of islands in the Baltic Sea around Turku.<BR><BR>
 
