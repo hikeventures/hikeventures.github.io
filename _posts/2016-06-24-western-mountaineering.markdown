@@ -3,7 +3,7 @@ published: false
 layout: post
 title: Western Mountaineering Versalite
 description: Our review on the Thule RideAlong
-date: 2016-06-18 07:30:00 +0300
+date: 2016-06-18 07:30:00
 category: reviews
 tags: 
   -reviews 
