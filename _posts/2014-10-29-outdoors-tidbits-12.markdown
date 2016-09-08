@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Outdoors Tidbits 12
-date: 2014-10-29 22:08:10 +0200
 description: The latest outdoor gear reviews, tips & tricks - Nr. 12
+date: 2014-10-29 22:08:10
 category: tidbits
-tags: [tidbits]
+tags:
+  - tidbits
+layout: post
 ---
 Konstantin has received his new Petzl Nao headlamp and Patrick might go on a packrafting trip this weekend in Finland. Have a great Halloween!<br><br>
 
