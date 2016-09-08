@@ -1,11 +1,11 @@
 ---
-layout: post
 title: Outdoors Tidbits 42
-date: 2015-12-18 06:00:01 +0300
-published: true
 description: The latest outdoor gear reviews, tips & tricks - Nr. 42
+date: 2015-12-18 06:00:01
 category: tidbits
-tags: [tidbits]
+tags:
+  - tidbits
+layout: post
 ---
 
 Christmas is getting closer and we are looking forward to finalize our gear reviews and trip reports during the holidays. We will publish articles about the MSR Windboiler and the Hubba Hubba NX, the Therm-a-rest Evolite, our hiking and packrafting trip in Japan, the Fjällräven Classic in Sweden and the continuation of <a href="http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/">Packrafting in the Swedish Mountains</a>. 
