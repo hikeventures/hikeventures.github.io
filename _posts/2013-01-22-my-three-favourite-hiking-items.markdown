@@ -1,10 +1,12 @@
 ---
-layout: post
 title: My three favourite hiking items
-date: 2013-01-22 07:30:00 +0300
 description: Three items I take with me when I go hiking
+date: 2013-01-22 07:30:00
 category: articles
-tags: [articles, hiking]
+tags: 
+  - articles
+  - hiking
+layout: post
 ---
 <a href="https://www.flickr.com/photos/90204224@N07/8372530877" title="Victorinox Swiss Knife"><img src="https://farm9.staticflickr.com/8043/8372530877_0de9aef5b2_b.jpg" width="683" height="1024" alt="Victorinox Swiss Knife"></a><br>
 
