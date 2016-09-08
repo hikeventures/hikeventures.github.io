@@ -1,13 +1,12 @@
 ---
-layout: post
 title: Fitness and Excercising for Hiking, Backpacking and Packrafting
-date: 2015-05-19 01:47:07 +0300
 description: How I prepare myself for the next outdoor adventure.
+date: 2015-05-19 01:47:07
 category: articles
 tags:
   - articles
   - fitness
-published: true
+layout: post
 ---
 For every sport or activity where you move more than usual it's good to have regular exercise to keep your muscles trained. Having a good fitness and exercise regularly will help you to hike, backpack and packraft longer or more relaxed. 
 <a href="https://www.flickr.com/photos/90204224@N07/17648754398" title="Running"><img src="https://c2.staticflickr.com/6/5349/17648754398_462b77909d_b.jpg" width="100%" alt="Running Arcteryx Squamish Hoodie Asics T41RQ"></a>
