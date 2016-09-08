@@ -1,8 +1,7 @@
 ---
-layout: post
 title: Suunto Ambit3 vs. Ambit2 - Worth to upgrade?
-date: 2014-08-11 16:43:23 +0300
 description: Great GPS watch gets even better! Upgrade to Ambit3 or stick with Ambit2?
+date: 2014-08-11 16:43:23
 category: articles
 tags:
   - articles
@@ -11,7 +10,7 @@ tags:
   - ambit3
   - gps
   - watches
-published: true
+layout: post
 ---
 
 GPS watches like the Suunto Ambit2 or Suunto Ambit3 are quite interesting gadgets if you want to track your route or if you want to plan your route ahead. In general, the only model I could think of which comes close to the Suunto Ambit3 is the Garmin Fenix 3 which has a colour display. However, to me the Suunto Ambit3 feels just more solid as a product and the Apple Watch does not have an integrated GPS. I use my Suunto Ambit3 mainly for running, packrafting and hiking and upgraded from the Suunto Ambit2 to the Suunto Ambit3 Sport. Update: I have <a href="http://www.hikeventures.com/Suunto-Traverse-Ambit3-differences/">upgraded</a> my Suunto Ambit 3 to the Suunto Traverse. If you need a multisport watch then you should rather consider the Suunto Ambit3 Vertical watch rather than the Suunto Traverse.
