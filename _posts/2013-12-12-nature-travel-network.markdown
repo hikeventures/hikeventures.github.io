@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Nature Travel Network
-date: 2013-12-20 05:14:52 +0300
 description: Introduction of the Nature Travel Network
+date: 2013-12-20 05:14:52
 category: interviews
-tags: [interviews]
+tags: 
+  - interviews
+layout: post
 ---
 Travellers share the same wanderlust, but we travel for different reasons. Many of us travel to experience nature, for instance. 
 
