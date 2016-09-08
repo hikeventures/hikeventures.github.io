@@ -1,11 +1,11 @@
 ---
-layout: post
 title: Do It Review
-date: 2014-02-19 18:22:24 +0200
-author: Do It Review
 description: Do It Review Blog Introduction
+date: 2014-02-19 18:22:24
 category: interviews
-tags: [interviews]
+tags: 
+  - interviews
+layout: post
 ---
 
 Yo Yo Yo Johnny_Hiker here from www.doitreviewit.co.nz. Yeah! I'm from the land of the long white cloud. This is what the Maori called New Zealand.
