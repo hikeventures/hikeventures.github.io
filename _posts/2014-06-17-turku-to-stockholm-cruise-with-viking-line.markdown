@@ -1,10 +1,17 @@
 ---
-layout: post
 title: Turku - Stockholm Cruise with Viking Line
-date: 2014-06-17 21:13:11 +0300
 description: With Viking Line from Turku to Stockholm
+date: 2014-06-17 21:13:11
 category: articles
-tags: [articles, cruise, stockholm, finland, turku, sweden, viking line]
+tags: 
+  - articles
+  - cruise
+  - stockholm
+  - finland
+  - turku
+  - sweden
+  - viking line
+layout: post
 ---
 As I was planning to meet Konstantin in Sweden, I took a Viking Ferry in order to get from Turku to Stockholm. I really enjoyed this Viking Cruise with the new ferry, the [Viking Line][1].
 
