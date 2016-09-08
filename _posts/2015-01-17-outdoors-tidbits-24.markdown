@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Outdoors Tidbits 24
-date: 2015-01-17 11:45:40 +0200
 description: The latest outdoor gear reviews, tips & tricks - Nr. 24
+date: 2015-01-17 11:45:40
 category: tidbits
-tags: [tidbits]
+tags: 
+  - tidbits
+layout: post
 ---
 One more week to go and then we are traveling to Lapland. We have also new gear in our backpack which we are going to test. Below a picture of Scottish lochs and munros which Konstantin took 1.5 years ago. Hope you enjoy reading our hiking tidbits.<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/16111536158"><img src="https://farm8.staticflickr.com/7532/16111536158_0b45f0efc7_o.jpg" width="640" height="640"></a><br><!--more--><br>
