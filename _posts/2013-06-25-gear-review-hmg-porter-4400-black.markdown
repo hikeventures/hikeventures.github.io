@@ -1,10 +1,13 @@
 ---
-layout: post
 title: HMG Porter 4400 Black Review
-date: 2013-06-25 07:30:00 +0300
 description: Review of the Hiking and Packrafting backpack - HMG Porter 4400 black
+date: 2013-06-25 07:30:00
 category: reviews
-tags: [reviews, hmg, bags]
+tags: 
+  - reviews
+  - hmg
+  - bags
+layout: post
 ---
 
 Since I recently purchased a packraft, I realised quickly that my <a href="http://hikeventures.com/gear-review-laufbursche-huckepack-hp450/" target="_self">Laufbursche Huckepack</a>  is going to be a bit small for a multi-day packrafting trip. So I decided to order a Hyperlite Mountain Gear Porter 4400. I have used the Porter for a couple of years and I am quite happy with it as I can use it as an ultralight backpack for hiking, backpacking, packrafting and other backcountry trips. Here is a short review and some pictures of the Hyperlite Mountain Gear Porter 4400.
