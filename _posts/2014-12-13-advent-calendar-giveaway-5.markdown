@@ -1,5 +1,5 @@
 ---
-title: Advent Calendar: Giveaway 5
+title: Advent Calendar - Giveaway 5
 description: Backcountry Access A-2 with saw
 date: 2014-12-13 16:10:50
 category: campaigns
