@@ -1,9 +1,7 @@
 ---
-layout: post
 title: Packrafting the Njuoreatnu to Torneträsk - Abisko Sweden - Day 2
-date: 2015-12-22 10:08:00 +0300
-published: true
 description: Packrafting in the Swedish Mountains
+date: 2015-12-22 10:08:00
 category: destinations
 tags:
   - destinations
@@ -11,6 +9,7 @@ tags:
   - torneträsk
   - abisko
   - sweden
+layout: post
 ---
 We fell asleep almost instantly the night before in our tent which we pitched on an island in the lake Inngajávri after having [packrafted][1] till late in the night. Patrick only had a few issues with his sleeping pad - the Therm-a-Rest Evolite which is a self-inflating sleeping pad for the summer - which was probably not that suitable for lower night temperatures here in the North. Patrick had to wear an additional Merino base layer and added another layer of thermo foil on top of his sleeping pad to get a proper insulation. Konstantin however had a proper night sleep on his Therm-a-Rest NeoAir Xtherm. 
 
