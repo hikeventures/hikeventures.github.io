@@ -1,10 +1,12 @@
 ---
-layout: post
 title: Interview with Haglöfs
-date: 2015-03-10 19:31:36 +0200
 description: Our interview with outdoor fashion and gear manufacturer Haglöfs.
+date: 2015-03-10 19:31:36
 category: interviews
-tags: [interviews, haglöfs]
+tags: 
+  - interviews
+  - haglöfs
+layout: post
 ---
 
 Here comes our next interview with the Swedish Outdoor Gear manufacturer <a href="http://www.haglofs.com" target="_blank">Haglöfs</a> about their products and their company.<br><br>
