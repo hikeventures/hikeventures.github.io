@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Rab Microlight Alpine Jacket Review
-date: 2013-02-05 07:30:00 +0300
-published: true
-description: Review on the Rab Microlight Alpine Jacket
+description: Our review about the Rab Microlight Alpine Jacket
+date: 2013-02-05 07:30:00
 category: reviews
-tags: [reviews, jackets, rab]
+tags: 
+  - reviews
+  - jackets
+  - rab
+layout: post
 ---
 
 If you are looking for a new down jacket which you can use during your hiking, backpacking or any other backcountry adventure mainly during spring and autumn  or as a midlayer during winter then the Rab Microlight Alpine Jacket could be an option and here comes a short review. I was hiking with this jacket in -5 °C and felt comfortably warm just wearing a t-shirt under it. However, I started to feel cold at this temperature when I was not moving.
