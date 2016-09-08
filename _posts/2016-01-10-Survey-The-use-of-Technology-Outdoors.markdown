@@ -1,13 +1,12 @@
 ---
-layout: post
 title: Survey - The use of Technology Outdoors
-date: 2016-01-10 16:00:01 +0300
-published: true
 description: Survey on how people use technology outdoors
+date: 2016-01-10 16:00:01
 category: articles
 tags:
   - articles
   - survey
+layout: post
 ---
 We are currently researching the impact of portable electronic devices on risk management in remote areas which is why we are looking for outdoor enthusiasts walking off the beaten tracks. Therefore we designed a questionnaire which would take you less than 7 minutes to complete. 
 
