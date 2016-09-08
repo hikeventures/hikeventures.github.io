@@ -1,10 +1,12 @@
 ---
 layout: post
 title: 4 reasons why we are not visiting the OutDoor Show 2016 in Friedrichshafen
-date: 2016-06-26 07:30:00 +0300
 description: OutDoor Show 2016 in Friedrichshafen
+date: 2016-06-26 07:30:00
 category: articles
-tags: [articles, OutDoorShow]
+tags: 
+  - articles
+  - OutDoorShow
 ---
 
 We decided this year not to visit the OutdoorShow in Friedrichshafen. After having visited the [ISPO 2016](http://www.hikeventures.com/ISPO-2016-interviews/) in Munich we decided that we will spend our time on a few trips and visit the OutdoorShow in Friedrichshafen in 2017. 
