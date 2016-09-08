@@ -1,11 +1,14 @@
 ---
+published: false
 layout: post
 title: Thule X5 Review
-date: 2016-05-10 07:30:00 +0300
-published: false
-category: reviews
-tags: [reviews, Thule, phone]
 description: Our review on the Thule X5 watertight phone case
+date: 2016-05-10 07:30:00
+category: reviews
+tags: 
+  - reviews
+  - thule
+  - phone
 ---
 
 ---
