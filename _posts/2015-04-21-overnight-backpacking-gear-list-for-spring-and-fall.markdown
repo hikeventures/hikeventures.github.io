@@ -1,13 +1,12 @@
 ---
-layout: post
 title: Overnight Backpacking Gear List for Spring and Fall
-date: 2015-04-21 16:32:59 +0300
 description: Gear list on what to pack when going for an overnight backpacking trip.
+date: 2015-04-21 16:32:59
 category: articles
 tags:
   - articles
   - list
-published: true
+layout: post
 ---
 
 
