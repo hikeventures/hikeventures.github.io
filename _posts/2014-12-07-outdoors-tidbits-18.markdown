@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Outdoors Tidbits 18
-date: 2014-12-07 17:58:00 +0200
-description: The latest outdoor gear reviews, tips & tricks - Nr. 18 - #outdoorstidbits
+description: The latest outdoor gear reviews, tips & tricks - Nr. 18
+date: 2014-12-07 17:58:00
 category: tidbits
-tags: [tidbits]
+tags: 
+  - tidbits
+layout: post
 ---
 Our advent calendar is up and running and we have sent out the first prizes to the lucky winners. What's more? Konstantin decided to purchase a [Brompton Bicycle](http://www.brompton.com) to get into Bikerafting,  Patrick was admitted to the [ISPO MUNICH](http://munich.ispo.com/en/index.html) in February 2015 and then we have also both signed up for the [Fjällräven Classic](http://www.fjallraven.com/classic) - a 110 km hike in Northern Sweden in August 2015. We are in group 7 which starts on August 9th at 09.00 am. Exciting times ahead!<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/15966292941"><img src="https://farm8.staticflickr.com/7496/15966292941_2f171cb3ed_o.jpg" width="1000" height="667"></a><!--more-->
