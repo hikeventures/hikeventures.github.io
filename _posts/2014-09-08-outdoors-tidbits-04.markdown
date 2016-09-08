@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Outdoors Tidbits 4
-date: 2014-09-08 10:12:08 +0300
-description: The latest outdoor gear reviews, tips & tricks - Nr. 4 - #outdoorstidbits
+description: The latest outdoor gear reviews, tips & tricks - Nr. 4
+date: 2014-09-08 10:12:08
 category: tidbits
-tags: [tidbits]
+tags:
+  - tidbits
+layout: post
 ---
 Konstantin lost his iphone in a lake while packrafting last weekend and was able to fish it out the next day (still working) while Patrick was packsailing around Turku. There should be just more wind ... <br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/14989210509"><img src="https://farm4.staticflickr.com/3914/14989210509_5843d64fd7_o.jpg" width="640" height="640" alt="ecase saved my life"></a>
