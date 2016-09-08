@@ -1,10 +1,13 @@
 ---
-layout: post
 title: Hiking Gear for 2014
-date: 2013-12-31 09:33:04 +0200
 description: Gear I am planning to buy for 2014
+date: 2013-12-31 09:33:04
 category: articles
-tags: [articles, best, hiking]
+tags: 
+  - articles
+  - best
+  - hiking
+layout: post
 ---
 Are you planning to buy new gear for your next hiking adventure in 2014? Here is a list of gear I am using or which I am planning to purchase in 2014. When I purchase gear, I usually look into functionality/technology, design and weight.
 
