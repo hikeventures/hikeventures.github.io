@@ -1,10 +1,15 @@
 ---
-layout: post
 title: Visiting Mariehamn on the Åland Islands
-date: 2015-06-28 09:12:00 +0300
 description: A weekend at Mariehamn on tha Aland Islands
+date: 2015-06-28 09:12:00
 category: destinations
-tags: [destinations, finland, åland, mariehamn, ships]
+tags: 
+  - destinations
+  - finland
+  - åland
+  - mariehamn
+  - ships
+layout: post
 ---
 A few weeks ago I decided to cruise from Turku to Mariehamn on the Aland Islands for a short weekend brake and to explore the city a little bit. Was it worth to visit Mariehamn? Well, taking one of the ferries (in my case Viking Line) from Turku to Mariehamn is already worth to do the trip. It's actually also possible to do some sort of picnic cruise - meaning you will be on the ferry for 12 hours and enjoy a breakfast, lunch or dinner buffet. As I planned to stay one night in Mariehamn I decided to have a lunch buffet (costing around 30 EUR) on each way with Viking Line - highly recommeneded. The food tastes good and you have tons of food options to choose from.
 <br><br>
