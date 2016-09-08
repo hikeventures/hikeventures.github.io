@@ -1,15 +1,14 @@
 ---
-layout: post
 title: Hiking in Raisio Kullavuori
-date: 2016-04-04 07:30:00 +0300
+description: An outdoor adventure to Kullavuori in Raisio
+date: 2016-04-04 07:30:00
 category: destinations
 tags:
   - destinations
   - raisio
   - kullavuori
   - hiking
-description: An outdoor adventure to Kullavuori in Raisio
-published: true
+layout: post
 ---
 Last weekend I went with <a href="http://caide.kuvat.fi/">Caj</a> to Raisio to visit the Kullavuori watch tower which is a short hike (around 2.5 km in one direction) from the nearby ABC Raisio gas station where we parked our cars. 
 
