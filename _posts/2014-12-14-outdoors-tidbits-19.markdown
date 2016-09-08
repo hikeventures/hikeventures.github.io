@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Outdoors Tidbits 19
-date: 2014-12-14 16:27:38 +0200
 description: The latest outdoor gear reviews, tips & tricks - Nr. 19
+date: 2014-12-14 16:27:38
 category: tidbits
-tags: [tidbits]
+tags: 
+  - tidbits
+layout: post
 ---
 
 You only have a couple of hours left to win our [Thule GoPro Camera bag](http://hikeventures.com/advent-calendar-giveaway-4/). What's more? We got the [motrr Galileo](http://motrr.com) to give you an entirely new impression of our adventures. Konstantin went bike-rafting this weekend with his new Brompton bicycle. Also he will fly over from the Netherlands to Finland end of January for some adventures in Lapland. You will read about it on HikeVentures!
