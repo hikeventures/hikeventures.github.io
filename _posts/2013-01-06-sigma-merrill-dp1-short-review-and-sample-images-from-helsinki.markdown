@@ -1,10 +1,14 @@
 ---
-layout: post
-title: Sigma Merrill DP1
-date: 2013-01-06 07:30:00 +0300
+title: Sigma Merrill DP1 Review
 description: A Sigma Merrill DP1 Camera Review
+date: 2013-01-06 07:30:00
 category: reviews
-tags: [reviews, photography, camera, sigma]
+tags: 
+  - reviews
+  - photography
+  - camera
+  - sigma
+layout: post
 ---
 I just returned from Helsinki and want to share my first pictures with you which I took with my new Sigma Merrill DP1. 
 
