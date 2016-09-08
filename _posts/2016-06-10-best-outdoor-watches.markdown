@@ -1,9 +1,8 @@
 ---
 layout: post
 title: The best GPS outdoor watches for 2016 with color display
-date: 2016-06-10 13:46:20 +0200
-published: true
 description: Our selection of the best outdoor smart watch for 2016.
+date: 2016-06-10 13:46:20
 category: articles
 tags:
   - articles
