@@ -1,14 +1,13 @@
 ---
-layout: post
 title: The best solo person backpacking tent in 2016
-date: 2016-01-03 00:07:07 +0300
 description: Overview of the best solo person backpacking tent for 2016.
+date: 2016-01-03 00:07:07
 category: articles
 tags:
   - articles
   - best
   - tents
-published: true
+layout: post
 ---
 Are you looking for a new tent and want to know which one is the best solo backpacking tent? Well, the best 1-person tent can be a different one in different environments and situations. Are you planning a trip to remote areas? Do you want to use your tent during the winter? Or are you an ultralight aficionado?
 
