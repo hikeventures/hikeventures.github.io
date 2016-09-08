@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Lost Swiss Miss Interview
-date: 2014-01-11 17:14:15 +0200
 description: Lost Swiss Miss Blog Introduction
+date: 2014-01-11 17:14:15
 category: interviews
-tags: [interviews]
+tags: 
+  - interviews
+layout: post
 ---
 Hi I’m Sarah, I have been exploring the world one step at a time since 2011. Travel and hiking are my passions and I’m currently living in Switzerland.<br><br>
 <img src="http://farm4.staticflickr.com/3823/11888426963_f9e2b3ffd0_c.jpg"><!--more--><br>
