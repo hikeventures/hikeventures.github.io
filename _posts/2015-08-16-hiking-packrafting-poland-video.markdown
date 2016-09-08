@@ -1,5 +1,5 @@
 ---
-title: Video: Hiking and Packrafting in Poland
+title: Video - Hiking and Packrafting in Poland
 description: Hiking and Packrafting in Poland Video
 date: 2015-08-16 08:45:07
 category: videos
