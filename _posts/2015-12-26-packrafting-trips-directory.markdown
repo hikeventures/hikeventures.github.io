@@ -1,14 +1,13 @@
 ---
-layout: post
 title: Packrafting Trip Directory
-date: 2015-12-26 07:23:48 +0200
-published: true
 description: A collection of packrafting trip ideas - From packrafters for packrafters
+date: 2015-12-26 07:23:48
 category: articles
 tags:
   - articles
   - directory
   - packrafting
+layout: post
 ---
 In our packrafting trips directory you can find packrafting trip ideas from other packrafters around the world who would like to share their packrafting adventure with other packrafters. Our packrafting trip directory is constantly evolving so feel free to bookmark and visit this directory for new packrafting ideas in the future. Feel free to [submit][1] your own trips (as many as you want) and share your trips and images using #PackraftingTrips in social media.
 
