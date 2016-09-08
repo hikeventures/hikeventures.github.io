@@ -1,14 +1,13 @@
 ---
 layout: post
 title: Trekking and Packrafting in Japan Northern Alps
-date: 2016-04-11 07:30:00 +0300
-published: false
+description: Our trekking and packrafting adventures in the Japanese Alps
+date: 2016-04-11 07:30:00
 category: destinations
 tags:
   - destinations
   - japan
   - hiking
-description: Our trekking and packrafting adventures in the Japanese Alps
 ---
 Last year we spent four days trekking in the Northern Alps of Japan - one of the most beautiful natural settings in Japan - which was a really special way to start our holidays.
     
