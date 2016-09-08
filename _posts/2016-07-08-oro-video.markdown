@@ -1,11 +1,15 @@
 ---
 layout: post
 title: Video - The Fortress Island of Örö
-date: 2016-07-08 07:30:00 +0300
-published: true
 description: Hiking and Packrafting Adventures on Örö
+date: 2016-07-08 07:30:00
 category: videos
-tags: [videos, örö, packrafting, finland, hiking]
+tags: 
+  - videos
+  - örö
+  - packrafting
+  - finland
+  - hiking
 ---
 Last month we have visited the Fortress Island of Örö in the Finnish Archipelago. Once a military island, Örö is now a beautiful destination where you can enjoy a gorgeous view towards the baltic sea while learning about the history of the island on one if it's trails. [Here](http://www.hikeventures.com/Oro/) you can see more pictures and our trip report from Örö.
 
