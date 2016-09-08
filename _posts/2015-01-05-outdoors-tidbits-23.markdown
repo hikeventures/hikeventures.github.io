@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Outdoors Tidbits 23
-date: 2015-01-05 08:21:56 +0200
 description: Outdoors Tidbits 23
+date: 2015-01-05 08:21:56
 category: tidbits
-tags: [tidbits]
+tags: 
+  - tidbits
+layout: post
 ---
 Konstantin returned from his winter hike in Poland where he tested some gear which we have received from some sponsors. I have also selected some booths to visit at the ISPO 2015 show in Munich.  ISPO offers an [iphone app](https://itunes.apple.com/us/app/ispo-munich-2015/id774932557?mt=8) this year which you can use to select and locate the different companies at the show. It's pretty cool.<br><br> 
 <a href="https://www.flickr.com/photos/90204224@N07/11364450534" title="Sunrise Vaasa"><img src="https://farm6.staticflickr.com/5501/11364450534_fda331ca57_b.jpg" width="1024" height="398" alt="Sunrise Vaasa"></a><br><!--more--><br>
