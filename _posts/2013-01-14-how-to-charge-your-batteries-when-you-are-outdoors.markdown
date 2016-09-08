@@ -1,10 +1,12 @@
 ---
-layout: post
 title: How to charge your batteries when you are outdoors?
-date: 2013-01-14 07:30:00 +0300
 description: Instructions on how to charge your batteries when you are outdoors
+date: 2013-01-14 07:30:00
 category: articles
-tags: [articles, batteries]
+tags: 
+  - articles
+  - batteries
+layout: post
 ---
 Most of my gear is equipped with an USB connection e.g. my <a href="http://hikeventures.com/gear-review-suunto-ambit-2-black-hr/" target="_self">Suunto Ambit 2</a>, my phone, my camera or my <a href="http://hikeventures.com/petzl-nao-headlamp-test/" target="_blank">Petzl Nao headlamp</a>. But hey, I always run out of battery after 2 or 3 days and there is no USB connection in the forrest in order to charge my devices.
    
