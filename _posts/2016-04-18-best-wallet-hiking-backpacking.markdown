@@ -1,13 +1,12 @@
 ---
 layout: post
 title: The best wallet for hiking and backpacking
-date: 2016-04-18 07:30:00 +0300
-published: true
+description: Discover the best wallet for your next hiking and backpacking trip
+date: 2016-04-18 07:30:00
 category: review
 tags:
   - review
   - wallet
-description: Discover the best wallet for your next hiking and backpacking trip
 ---
 When you are new into hiking and backpacking then you might come up with the question where to store your money and credit cards while on the trail? Here is a short article about my personal wallet choice when I go outdoors.
    
