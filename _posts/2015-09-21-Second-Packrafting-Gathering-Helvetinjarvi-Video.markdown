@@ -1,5 +1,5 @@
 ---
-title: Video: Packrafting Gathering at Helvetinjärvi National Park
+title: Video - Packrafting Gathering at Helvetinjärvi National Park
 description: A basic video about our packrafting gathering in Helvetinjärvi National Park
 date: 2015-09-21 011:40:07
 category: videos
