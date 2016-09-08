@@ -1,10 +1,13 @@
 ---
-layout: post
-title: SteriPen Freedom
-date: 2013-03-21 07:30:00 +0300
+title: SteriPen Freedom Review
 description: SteriPen Freedom Review
+date: 2013-03-21 07:30:00
 category: reviews
-tags: [reviews, steripen, kitchen]
+tags: 
+  - reviews
+  - steripen
+  - kitchen
+layout: post
 ---
 
 The SteriPen Freedom with its 75 grams is currently the lightest UV pen from SteriPen. We will use this UV pen in combination with a [ceramic water filter][1] to clean the water from possible viruses as well. 
