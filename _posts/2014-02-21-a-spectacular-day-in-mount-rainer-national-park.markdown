@@ -1,10 +1,11 @@
 ---
-layout: post
 title: A Spectacular Day in Mount Rainer National Park
-date: 2014-02-21 22:21:20 +0200
 description: Discover Mount Rainer National Park
+date: 2014-02-21 22:21:20
 category: interviews
-tags: [interviews]
+tags: 
+  - interviews
+layout: post
 ---
 On a late summer day in 2013 Fran Reisner enjoyed a spectacular day hiking at Mount Rainier in Washington State (USA) ... 
 
