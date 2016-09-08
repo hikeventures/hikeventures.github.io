@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Outdoors Tidbits 21
-date: 2014-12-25 08:42:33 +0200
 description: The latest outdoor gear reviews, tips & tricks - Nr. 21
+date: 2014-12-25 08:42:33
 category: tidbits
-tags: [tidbits]
+tags: 
+  - tidbits
+layout: post
 ---
 Patrick had a great morning porridge in Finland where temperatures have dropped to freezing -13C. However, it's still quite nice to go for a walk outside and enjoy the white winter wonderland. Konstantin is in Poland again working on a review and we have finally some time to discuss our Lapland trip in more detail during the holiday season. 
 <br><br>
