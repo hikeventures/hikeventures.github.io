@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Hiking-Blog
-date: 2013-12-03 16:13:49 +0300
 description: Introduction of the Hiking-Blog
+date: 2013-12-03 16:13:49
 category: interviews
-tags: [interviews]
+tags: 
+  - interviews
+layout: post
 ---
 The Hiking Blog exists since 2010 and it is a hobby project of mine . The blog reflects my outdoor passion and for me it is a great way to share my hobby with people who are out in nature like me.<br><br>
 
