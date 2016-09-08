@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Outdoors Tidbits 33
-date: 2015-06-06 08:30:01 +0200
 description: The latest outdoor gear reviews, tips & tricks - Nr. 33
+date: 2015-06-06 08:30:01
 category: tidbits
-tags: [tidbits]
+tags:
+  - tidbits
+layout: post
 ---
 
 
