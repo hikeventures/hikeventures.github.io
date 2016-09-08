@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Outdoors Tidbits 25
-date: 2015-01-28 05:06:30 +0200
 description: The latest outdoor gear reviews, tips & tricks - Nr. 25
+date: 2015-01-28 05:06:30
 category: tidbits
-tags: [tidbits]
+tags: 
+  - tidbits
+layout: post
 ---
 We are currently adventuring in Lapland. So far we have done a lot of Snowshoeing and Cross-Country Skiing in Kiilopää and Saariselkä. Unfortunately, we didn't have much sun so far but it's still great here. Below you can see an image of the moon shining over the Urho Kekkonen National Park. You will read more on our blog soon.
 <br><br>
