@@ -1,14 +1,13 @@
 ---
-layout: post
 title: Differences between Suunto Traverse and Ambit3
-date: 2015-10-20 05:59:40 +0200
-published: true
 description: What are the differences between the Suunto Traverse and the Ambit3?
+date: 2015-10-20 05:59:40
 category: articles
 tags:
   - articles
   - suunto
   - watch
+layout: post
 ---
 
 Suunto has recently released it's latest GPS watch - the Suunto Traverse - which is especially interesting for those interested in hiking and backpacking. So what are the differences between the Suunto Ambit3 and the Suunto Traverse? Well, there are a couple of differences...
