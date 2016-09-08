@@ -2,7 +2,7 @@
 layout: post
 title: Thule Sapling Elite Child Carrier Review
 description: Our review on the Thule Sapling Elite Child Carrier
-date: 2016-08-30 07:30:00 +0300
+date: 2016-08-30 07:30:00
 category: reviews
 tags: 
   - reviews
