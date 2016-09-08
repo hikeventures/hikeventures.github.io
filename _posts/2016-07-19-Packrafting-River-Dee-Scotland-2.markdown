@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Packrafting the River Dee in Scotland - Day 2 and 3
-date: 2016-07-19 07:30:00 +0300
 description: Our February packrafting adventure in Scotland Day 2 and 3.
+date: 2016-07-19 07:30:00
 category: destinations
-published: true
-tags: [destinations, packrafting, scotland]
+tags: 
+  - destinations
+  - packrafting
+  - scotland
 ---
 
 We had a good night sleep after the [first day](http://www.hikeventures.com/Packrafting-River-Dee-Scotland-1/) of paddling down the River Dee from Braemar. Everything was frozen when we woke up. The day however seems again to be quite promising with a blue sky and nice scenery.
