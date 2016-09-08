@@ -1,10 +1,10 @@
 ---
-layout: post
-title: Advent Calendar: Giveaway 2
-date: 2014-12-04 16 18:04:22 +0200
-published: true
+title: Advent Calendar - Giveaway 2
+date: 2014-12-04 16 18:04:22
 category: campaigns
-tags: [campaigns]
+tags: 
+  - campaigns
+layout: post
 ---
 I am quite sure that many of you would like to have a proper water filter under the christmas tree which you can use in your adventures in 2015. Well, now you can win one on HikeVentures! <br><br>
 
