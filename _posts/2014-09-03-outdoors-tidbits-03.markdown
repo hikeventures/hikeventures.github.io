@@ -1,11 +1,11 @@
 ---
-layout: post
 title: Outdoors Tidbits 3
-date: 2014-09-03 05:57:25 +0300
-description: The latest outdoor gear reviews, tips & tricks - Nr. 3 - #outdoorstidbits
+description: The latest outdoor gear reviews, tips & tricks - Nr. 3
+date: 2014-09-03 05:57:25
 category: tidbits
-
-tags: [tidbits]
+layout: post
+tags: 
+  - tidbits
 ---
 Konstantin has done some Wadlopen in the Netherlands while Patrick was test driving his Packraft with his new [WindPaddle Sail](http://hikeventures.com/windpaddle-sails-for-packrafting/) in the Turku Archipelago. The confirmed date for the [Finnish Packraft Gathering](http://korpijaakko.com/2014/08/27/the-first-finnish-packrafting-gathering/) seems to be now from 3.10. - 5.10.2014.
 
