@@ -1,11 +1,11 @@
 ---
-layout: post
 title: PMags
-date: 2013-12-09 23:22:10 +0300
-comments: true
 description: PMags introduction
+date: 2013-12-09 23:22:10
 category: interviews
-tags: [interviews]
+tags: 
+  - interviews
+layout: post
 ---
 <a href="http://www.pmags.com">PMags.com</a> is my home in cyberspace</a>. It is a way for me to write about one of my favourite passions: The outdoors.
 <!--more--><br>
