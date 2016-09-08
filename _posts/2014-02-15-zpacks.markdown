@@ -1,10 +1,11 @@
 ---
-layout: post
 title: ZPacks Interview
-date: 2014-02-15 18:33:40 +0200
 description: ZPacks Introduction
+date: 2014-02-15 18:33:40
 category: interviews
-tags: [interviews]
+tags: 
+  - interviews
+layout: post
 ---
 
 We try to build the lightest weight functional backpacking gear possible. We make everything from tents, backpack, sleeping bags, and rain gear to many accessory items. Most of our gear items are things I designed for myself for my own long hikes, or products customers requested. I have done four long thru-hikes now and I use that experience to design the gear that is necessary to do those kinds of trips.
