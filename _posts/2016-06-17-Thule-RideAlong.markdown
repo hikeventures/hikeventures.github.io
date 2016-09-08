@@ -1,11 +1,14 @@
 ---
+published: false
 layout: post
 title: Thule RideAlong Review
-date: 2016-06-18 07:30:00 +0300
-published: false
-category: reviews
-tags: [reviews, Thule, bicycling]
 description: Our review on the Thule RideAlong
+date: 2016-06-18 07:30:00
+category: reviews
+tags: 
+  - reviews
+  - thule
+  - bicycling
 ---
 
 ## Fiel Testing
