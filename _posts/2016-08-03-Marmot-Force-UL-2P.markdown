@@ -1,14 +1,13 @@
 ---
 layout: post
 title: Marmot Force UL 2P Review
-date: 2016-08-03 07:30:00 +0300
+description: Review of the Marmot Force UL 2P
+date: 2016-08-03 07:30:00
 category: reviews
 tags:
   - reviews
   - Marmot
   - Tents
-description: Review of the Marmot Force UL 2P
-published: true
 ---
 A few weeks ago I received the Marmot Force UL 2P from Marmot to test it on my summer trips in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/) and [Norway](http://www.hikeventures.com/Finnmark/). I was interested in the Marmot Force UL 2P as I was looking for a light 3-season solo tent which can also handle somewhat stronger winds on the Norwegian coast.
 
