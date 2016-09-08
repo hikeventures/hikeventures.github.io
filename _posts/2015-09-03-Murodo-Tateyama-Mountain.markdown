@@ -1,10 +1,15 @@
 ---
-layout: post
 title: Murodo - Hiking the Tateyama mountain in Japan
-date: 2015-09-03 18:04:22 +0200
 description: Murodo, Tateyama mountain, Japan
+date: 2015-09-03 18:04:22
 category: destinations
-tags: [destinations, hiking, japan, tateyama, mountain]
+tags: 
+  - destinations
+  - hiking
+  - japan
+  - tateyama mountain
+  - mountains
+layout: post
 ---
 The sunset over Murodo, Tateyama mountain, Japan. That was out first day in the Japan alps and the second day in Japan. And we had a late start that day. The reason for it was that we spent the first night in Kanazawa and we needed to travel for several hours to get to Murodo, the entry point of our multi day hike. 
 
