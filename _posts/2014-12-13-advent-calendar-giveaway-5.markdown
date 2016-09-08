@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Advent Calendar: Giveaway 5
-date: 2014-12-13 16:10:50 +0200
 description: Backcountry Access A-2 with saw
+date: 2014-12-13 16:10:50
 category: campaigns
-tags: [campaigns]
+tags: 
+  - campaigns
+layout: post
 ---
 
 This time you have the chance to win the Backcountry Access Arsenal Shovel A-2 with 35 cm wood/snow saw (our shovel however is not the extendable). The BCA A-2 is a great rescue tool in case of an avalanche.
