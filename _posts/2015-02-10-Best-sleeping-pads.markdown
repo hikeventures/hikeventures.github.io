@@ -1,14 +1,13 @@
 ---
-layout: post
 title: The Best Lightweight Sleeping Pads in 2016
-date: 2016-01-03 18:49:09 +0200
-published: true
 description: Need a new Sleeping Pad? Here is our selection of the best sleeping pads on the market!
+date: 2016-01-03 18:49:09
 category: reviews
 tags:
   - reviews
   - sleeping pads
   - best
+layout: post
 ---
 In this blog post you can find the best lightweight sleeping pads available in 2016. I have sorted the sleeping pads by their weight and not by performance and also indicated the R-value of each sleeping pads so you can choose the one which would be most suitable for your next outdoor adventure. From my selection of the best sleeping pads I have only tested the Therm-a-Rest NeoAir XTherm, the self-inflating Therm-a-Rest Evolite and the Exped SYNMAT UL 7 M (you can [see](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) the SYNMAT UL 7 M in action on our hiking and packrafting trip in the Swedish Mountains).
 
