@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Outdoors Tidbits 28
-date: 2015-03-02 20:57:58 +0200
 description: The latest outdoor gear reviews, tips & tricks - Nr. 28
+date: 2015-03-02 20:57:58
 category: tidbits
-tags: [tidbits]
+tags: 
+  - tidbits
+layout: post
 ---
 Currently, we are working on a review about the Fjällräven Barents Pro pants and a trip report about hiking in the Beskids. So what are the upcoming plans? From 13.3. - 15.3. Patrick is going to visit the Meri Kutsuu exhibition in Turku which also features an outdoor area. Also we made our travel arrangements for our Packrafting trip in Sweden this April. Patrick is going to take the Viking Line Ferry from Turku while Konstantin is going to take a flight from Amsterdam to Stockholm. In Stockholm we are going to rent a car and then it's just a 2 hours drive to our river where we are going to Packraft.<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/16347223629"><img src="https://farm8.staticflickr.com/7452/16347223629_782c048e1f_b.jpg" width="1024" height="551"></a><br><!--more--><br>
