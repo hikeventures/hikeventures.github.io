@@ -1,10 +1,14 @@
 ---
-layout: post
 title: Exploring Vajosuo and Takaniitunvuori
-date: 2014-09-28 08:10:32 +0300
 description: Exploring the Kurjenrahka National Park
+date: 2014-09-28 08:10:32
 category: destinations
-tags: [destinations, kurjenrahka, finland, hiking]
+tags: 
+  - destinations
+  - kurjenrahka
+  - finland
+  - hiking
+layout: post
 ---
 Saturday I went out to the woods again to explore other parts of the Kurjenrahka National Park nearby Turku where [I went](http://hikeventures.com/autumn-colors-around-lake-savojarvi/) already 2 weeks ago for a hiking trip. First, I explored the bird tower at Vajosuo and then I went to Takaniitunvuori which is located west to Savojärvi.
 
