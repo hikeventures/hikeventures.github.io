@@ -1,5 +1,5 @@
 ---
-title: Advent Calendar: Giveaway 7
+title: Advent Calendar - Giveaway 7
 description: Thule Camera backack
 date: 2014-12-22 00:40:09
 category: campaigns
