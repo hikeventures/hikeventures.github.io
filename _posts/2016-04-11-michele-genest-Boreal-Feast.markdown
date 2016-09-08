@@ -1,8 +1,7 @@
 ---
-layout: post
-title: Michele Genest - The Boreal Feast
+title: Michele Genest - The Boreal Feast Review
+description: Book review on how to prepare food from ingredients in the North.
 date: 2016-04-25 07:30:00 +0300
-published: true
 category: reviews
 tags:
   - reviews
@@ -10,6 +9,7 @@ tags:
   - kitchen
   - food
   - culture
+layout: post
 ---
 I am living in Finland since 2006 and read a lot about the history and culture of the Nordic countries (I can recommend the book <a href="http://www.amazon.com/Soul-North-Architectural-Countries-1700-1940/dp/1861890672" rel="nowfollow">"Soul of the North"</a> by Neil Kent). Food is part of culture so I decided to read a bit more about the Nordic kitchen and came across Michele Genest book "The Boreal Feast" which covers culinary aspects of Canada, Finland and Sweden. Here comes a short review about the Boreal Feast.
    
