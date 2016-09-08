@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Like a Bigfoot
-date: 2014-02-10 17:05:24 +0200
 description: Blog of Like a Bigfoot
+date: 2014-02-10 17:05:24
 category: interviews
-tags: [interviews]
+tags:
+  - interviews
+layout: post
 ---
 My name is Chris and over the last few years I have been on a journey to find the perfect balance between getting outdoors and staying healthy.  For the longest time I was a gym rat until I became sick of treadmills, fluorescent lights, and the smelly gym mats.  I began a search for a way to transform most of my workouts outdoors. 
 
