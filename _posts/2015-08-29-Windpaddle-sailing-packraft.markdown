@@ -1,10 +1,14 @@
 ---
-layout: post
 title: Windpaddle sailing with my packraft
-date: 2015-08-29 18:04:22 +0200
 description: Windpaddle Sailing in the Turku Archipelago with a Packraft
+date: 2015-08-29 18:04:22
 category: videos
-tags: [videos, packrafting, turku, finland]
+tags: 
+  - videos
+  - packrafting
+  - turku
+  - finland
+layout: post
 ---
 Today we had quite good weather here in Finland to go windpaddle sailing with my packraft....
 
