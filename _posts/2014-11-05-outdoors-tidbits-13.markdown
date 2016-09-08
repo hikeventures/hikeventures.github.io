@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Outdoors Tidbits 13
-date: 2014-11-05 17:39:24 +0200
-description: The latest outdoor gear reviews, tips & tricks - Nr. 13 - #outdoorstidbits
+description: The latest outdoor gear reviews, tips & tricks - Nr. 13
+date: 2014-11-05 17:39:24
 category: tidbits
-tags: [tidbits]
+tags: 
+  - tidbits
+layout: post
 ---
 Last weekend [Patrick](http://hikeventures.com/halloween-adventure-at-lake-suolijarvi/) has been to Lake Suolijärvi together with [Janne](http://avisuora.wordpress.com/2014/11/04/lampipoukkoilua-kytaja-usmin-ulkoilualueella-1-2-11-2014)  and the first [review](http://adventuresinstoving.blogspot.com/2014/11/the-new-msr-windboiler.html)  about the new MSR Windboiler is out.<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/15504207410"><img src="https://farm6.staticflickr.com/5600/15504207410_acae91444f_b.jpg" width="1024" height="683"></a><!--more--><br><br>
