@@ -1,10 +1,12 @@
 ---
-layout: post
 title: Mike Clelland - Ultralight Backpackin' Tips
-date: 2013-01-29 07:30:00 +0300
 description: Good book about ultralight backpacking
+date: 2013-01-29 07:30:00
 category: reviews
-tags: [reviews,books]
+tags: 
+  - reviews
+  - books
+layout: post
 ---
 
 Mike Clelland's Ultralight Backpackin' Tips is an easy to read and highly entertaining book. You simply don't want to stop reading. It's full of funny illustrations which help you to understand the topics. Even if you are already familiar with lightweight camping, I would recommend to buy this book just because of the illustrations in it. The book has 133 pages.
