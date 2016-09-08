@@ -1,11 +1,14 @@
 ---
+published: false
 layout: post
 title: Thule Upslope 35L Review
-date: 2016-05-10 07:30:00 +0300
-published: false
-category: reviews
-tags: [reviews, Thule, backpack]
 description: Our review on the Thule Upslope 35L
+date: 2016-05-10 07:30:00 +0300
+category: reviews
+tags: 
+  - reviews
+  - thule
+  - backpack
 ---
 ## Fiel Testing
 
