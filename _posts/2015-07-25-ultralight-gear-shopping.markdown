@@ -1,13 +1,12 @@
 ---
-layout: post
 title: Ultralight Outdoor Gear Shopping - Sacrificing comfort for saving weight?
-date: 2015-07-25 10:51:07 +0300
-published: true
 description: Some thoughts on shopping ultralight gear
+date: 2015-07-25 10:51:07
 category: articles
 tags:
   - articles
   - ultralight
+layout: post
 ---
 If you are planning a long hiking trip then you probably would like to save some weight and decide to buy ultralight gear either in your local camping store or a dedicated ultraligh gear shop. If you have ever done an extensive hike - especially in an environment where weather is not predictable i.e. cold and wet for several days - relying solely on ultralight gear might not be the best option if you are not willing to sacrifice on comfort.
 
