@@ -1,10 +1,14 @@
 ---
-layout: post
 title: Mushroom season in Finland
-date: 2014-09-08 16:52:26 +0300
 description: Do you like Mushrooms? In Finland you can find them
+date: 2014-09-08 16:52:26
 category: articles
-tags: [articles, mushrooms, finland, hiking]
+tags: 
+  - articles
+  - mushrooms
+  - finland
+  - hiking
+layout: post
 ---
 It is autumn in Finland and the forests are full of mushrooms. Come and discover with me some mushrooms in Southern Finland. Your task on this adventure is to identify those mushrooms.
    
