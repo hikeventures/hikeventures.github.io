@@ -1,11 +1,13 @@
 ---
-layout: post
 title: polychromeLAB Alta Quota
-date: 2014-04-14 21:09:26 +0200
-published: true
 description: polychromeLAB Alta Quota - High Tech Outdoor Jacket from Italy
+date: 2014-04-14 21:09:26
 category: reviews
-tags: [reviews, jackets, polychromelab]
+tags: 
+  - reviews
+  - jackets
+  - polychromelab
+layout: post
 ---
 
 PolychromeLab has recently sent me one of their Alta Quota jackets in order to review it. My first impression is quite positive even so I need to test the Alta Quota more over a longer period and in more sunny conditions. One of the main feature of this jacket is that once you turn it inside out it either cools (silver fabric outside) or warms (black fabric outside) you.
