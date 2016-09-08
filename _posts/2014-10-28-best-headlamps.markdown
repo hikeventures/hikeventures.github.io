@@ -1,14 +1,13 @@
 ---
-layout: post
 title: The 8 Best Headlamps for 2016
-date: 2016-01-03 23:02:20 +0200
 description: Find the best headlamps for your next outdoor adventure
+date: 2016-01-03 23:02:20
 category: articles
 tags:
   - articles
   - best
   - lamps
-published: true
+layout: post
 ---
 A good lightweight led headlamp is an essential part for many outdoor activities likes hiking, running, cycling, camping, reading or hunting. A good lightweight led headlamp is an essential part for many outdoor activities likes hiking, running, cycling, packrafting, ski touring or climbing or any other backcountry trip. 
 
