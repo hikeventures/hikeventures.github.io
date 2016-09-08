@@ -1,12 +1,11 @@
 ---
-layout: post
 title: Outdoors Tidbits 38
-date: 2015-09-15 07:28:01 +0300
-published: true
 description: The latest outdoor gear reviews, tips & tricks - Nr. 38
+date: 2015-09-15 07:28:01
 category: tidbits
 tags:
   - tidbits
+layout: post
 ---
 
 
