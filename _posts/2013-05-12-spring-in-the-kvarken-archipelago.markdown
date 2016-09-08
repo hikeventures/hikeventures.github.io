@@ -1,10 +1,13 @@
 ---
-layout: post
 title: Spring in the Kvarken Archipelago
-date: 2013-05-12 07:30:00 +0300
 description: First signs of spring in the Kvarken Archipelago
+date: 2013-05-12 07:30:00
 category: destinations
-tags: [destinations, finland, archipelago]
+tags: 
+  - destinations
+  - finland
+  - archipelago
+layout: post
 ---
 Today, I had a short trip to Bj&#214;rkoby in the Kvarken Archipelago and finally all the snow has melted and the birds returned from the South.
 
