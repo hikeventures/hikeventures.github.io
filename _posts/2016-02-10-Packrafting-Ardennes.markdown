@@ -1,11 +1,14 @@
 ---
-layout: post
 title: Packrafting the Ourthe in the Belgian Ardennes
-date: 2016-02-10 06:45:00 +0300
-published: true
 description: Packrafting adventure in the Belgian Ardennes
+date: 2016-02-10 06:45:00
 category: destinations
-tags: [destinations, belgium, ardennes, packrafting]
+tags: 
+  - destinations
+  - belgium
+  - ardennes
+  - packrafting
+layout: post
 ---
 Last autumn, I had a chance to join a two-day Packrafting gathering in the Belgian Ardennes to packraft the Ourthe. I heard about it when I contacted Joery and asked him if he was planning anything interesting. He said 'yes' and sent me the link to the description of this event on their blog. Briefly what it said was that a lot of packrafters were located in the Low Lands, which was why it would be nice to meet up and paddle together on the last weekend of November. I thought it was a great idea and I said I was in.
 
