@@ -1,10 +1,15 @@
 ---
-layout: post
 title: Hiking and Packrafting in Sarek
-date: 2013-08-25 07:30:00 +0300
 description: Exploring the Scandinavian Mountains. The Last Wilderness of Europe
+date: 2013-08-25 07:30:00
 category: destinations
-tags: [destinations, sarek, sweden, packrafting, hiking]
+tags: 
+  - destinations
+  - sarek
+  - sweden
+  - packrafting
+  - hiking
+layout: post
 ---
 
 This year we went on a 6 days packrafting and hiking trip in Sarek. We travelled from Vaasa by <a href="http://www.wasaline.com/en/" target="_blank">wasaline ferry</a> to Umea and then by a hiker train (it seemed that the only people who travelled north were planning to go on a hike in the fells) to G&auml;llivare. Transportation to Sarek from Umea is not that frequent so there is a possibility that you have to stay one night in Umea. 
