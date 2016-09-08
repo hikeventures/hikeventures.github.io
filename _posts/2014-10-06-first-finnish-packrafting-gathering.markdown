@@ -1,10 +1,14 @@
 ---
-layout: post
 title: First Finnish Packrafting Gathering
-date: 2014-10-06 08:30:40 +0300
 description: Short review of the first Finnish Packrafting Gathering in Finland
+date: 2014-10-06 08:30:40
 category: destinations
-tags: [destinations,packrafting, kymijoki,finland]
+tags: 
+  - destinations
+  - packrafting
+  - kymijoki
+  - finland
+layout: post
 ---
 Last weekend I have been to the first Finnish Packrafting Gathering in Finland which took place at the Kymijoki river and was organised by [Jaakko][1] and here are some impressions.
 
