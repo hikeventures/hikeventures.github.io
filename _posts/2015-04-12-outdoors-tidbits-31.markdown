@@ -1,12 +1,11 @@
 ---
-layout: post
 title: Outdoors Tidbits 31
-date: 2015-09-07 18:04:22 +0200
 description: The latest outdoor gear reviews, tips & tricks - Nr. 31
+date: 2015-09-07 18:04:22
 category: tidbits
 tags:
   - tidbits
-published: true
+layout: post
 ---
 
 Only 5 days left and we will happily packrafting in Sweden. What's new on HikeVentures? If you are an outdoor blogger, you can [submit](http://hikeventures.com/blogs/) your blog to our outdoor blog list so other readers can check out your blog as well. 
