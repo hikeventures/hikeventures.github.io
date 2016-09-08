@@ -1,10 +1,11 @@
 ---
-layout: post
 title: One Hundred Mountains
-date: 2013-12-05 20:37:27 +0300
 description: Introduction of the One Hundred Mountains blog
+date: 2013-12-05 20:37:27
 category: interviews
-tags: [interviews]
+tags: 
+  - interviews
+layout: post
 ---
 
 If you open a hiking map to any of Japan's mountain ranges, you'll see a few peaks marked as "Nihon Hyakumeizan" - members of the One Hundred Mountains of Japan. These mountains are the personal choice of a writer called Fukada Kyuya, who published a best-selling book about them in 1964.<br><br>
