@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Hyperlite Mountain Gear
-date: 2014-03-30 08:18:00 +0200
 description: Hyperlite Mountain Gear - Ultralight Backpacks
+date: 2014-03-30 08:18:00
 category: interviews
-tags: [interviews]
+tags: 
+  - interviews
+layout: post
 ---
 
 
