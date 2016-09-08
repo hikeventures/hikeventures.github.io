@@ -1,14 +1,13 @@
 ---
-layout: post
 title: The best water bottle for hiking and backpacking 2016
-date: 2015-05-20 23:10:07 +0300
 description: In search of the best hiking and backpacking water bottle
+date: 2015-05-20 23:10:07
 category: destinations
 tags:
   - articles
   - best
   - cooking
-published: true
+layout: post
 ---
 
 I have tried a couple of water bottles in the past when I went hiking, backpacking or packrafting and of course you can also get along with an average water bottle from the grocery store but the Nalgene is so far the best water bottle for our hiking, backpacking or packrafting activities.
