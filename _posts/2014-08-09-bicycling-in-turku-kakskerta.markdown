@@ -1,10 +1,15 @@
 ---
-layout: post
 title: Bicycling in Turku Kakskerta
-date: 2014-08-09 19:38:44 +0300
 description: Bicycle Trip in Turku
+date: 2014-08-09 19:38:44
 category: destinations
-tags: [destinations, turku, finland, kakskerta, bicycling]
+tags: 
+  - destinations
+  - turku
+  - finland
+  - kakskerta
+  - bicycling
+layout: post
 ---
 
 Today, I went for a 2h (30 km) bicycle trip around Kakskerta island in Turku which is an island next to the Hirvensalo island where I recently moved to.
