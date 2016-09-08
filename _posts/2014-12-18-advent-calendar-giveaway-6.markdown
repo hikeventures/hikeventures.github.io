@@ -1,5 +1,5 @@
 ---
-title: Advent Calendar: Giveaway 6
+title: Advent Calendar - Giveaway 6
 description: Goal Zero Guide 10 Plus Solar Kit
 date: 2014-12-18 13:52:20
 category: campaigns
