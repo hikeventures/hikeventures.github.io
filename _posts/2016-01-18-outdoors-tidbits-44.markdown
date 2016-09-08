@@ -1,12 +1,11 @@
 ---
-layout: post
 title: Outdoors Tidbits 44
-date: 2016-01-18 00:00:01 +0300
-published: true
 description: The latest outdoor gear reviews, tips & tricks - Nr. 44
+date: 2016-01-18 00:00:01 +0300
 category: tidbits
 tags:
   - tidbits
+layout: post
 ---
 *17.01.1773 - Capt James Cook was the first person who crossed the Antarctic Circle (66° 33' S)*
 
