@@ -1,14 +1,13 @@
 ---
 layout: post
 title: First Swedish Packrafting Round-Up 2016
-date: 2016-05-13 07:30:00 +0300
+description: The first Swedish Packrafting Round-Up at the river Voxnan
+date: 2016-05-13 07:30:00
 category: destinations
 tags:
   - destinations
   - Sweden
   - packrafting
-description: The first Swedish Packrafting Round-Up at the river Voxnan
-published: true
 ---
 Henrik from the <a href="http://deliveranceteam.outdrr.com/">Deliverance Team</a> organised the first Swedish Packrafting Round-Up at the river Voxnan in Sweden and we decided to sign up on this event on <a href="https://www.facebook.com/events/501436800038543/">Facebook</a>. The swedish Packrafting Round-Up was also a great opportunity to meet <a href="http://www.alpackaraft.com/">Alpackaraft</a> - the manufacturer of our packrafts.
 After a 4 hours drive from Stockholm we arrived at the starting point. We were 20 people from different countries and it was nice to see what kind of gear people had in their backpacks.
