@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Klymit Interview
-date: 2013-12-16 19:01:32 +0200
 description: Introduction of Klymit Outdoor Gear
+date: 2013-12-16 19:01:32
 category: interviews
-tags: [interviews]
+tags: 
+  - interviews
+layout: post
 ---
 We are <a href="http://www.klymit.com" target="_blank">Klymit</a>. So when Patrick asked me to write a little piece on Klymit for HikeVenture, I admittedly was not sure where to start.  To those uninitiated, Klymit is a high end outdoors brand that has been around for 4 years now and makes great gear for adventure.
 
