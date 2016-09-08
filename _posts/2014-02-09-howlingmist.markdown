@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Howlingmist
-date: 2014-02-09 19:19:03 +0200
 description: Introduction to the blog Howlingmist
+date: 2014-02-09 19:19:03
 category: interviews
-tags: [interviews]
+tags: 
+  - interviews
+layout: post
 ---
 <a href="http://www.howlingmist.blogspot.com" target="_blank">Howlingmist.blogsport.com</a> is a blog I started a few years ago to catalogue my activities.  It is still just a personal diary but I hope some of the things I do and places I visit might be of some interest.
 
