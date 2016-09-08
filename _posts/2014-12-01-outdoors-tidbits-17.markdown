@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Outdoors Tidbits 17
-date: 2014-12-01 17:51:55 +0200
 description: The latest outdoor gear reviews, tips & tricks - Nr. 17
+date: 2014-12-01 17:51:55
 category: tidbits
-tags: [tidbits]
+tags: 
+  - tidbits
+layout: post
 ---
 The deadline for our [first giveaway](http://hikeventures.com/advent-calendar-giveaway-1/) in our advent calendar is approaching. I am just preparing the blog post for our second giveaway which is a must-have for every backpacker!<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/15351292307"><img src="https://farm4.staticflickr.com/3929/15351292307_5849419a61_o.jpg" width="640" height="640"></a><!--more-->
