@@ -1,14 +1,13 @@
 ---
-layout: post
 title: Thule Atmos X4 Review
-date: 2016-03-10 07:30:00 +0300
-published: true
 description: We were testing the Thule X4 on our packrafting trip in Scotland
+date: 2016-03-10 07:30:00
 category: reviews
 tags:
   - reviews
   - thule
   - phone
+layout: post
 ---
 On our packrafting trip in Scotland I have tried out the Thule X4 smartphone case which we received from Thule to test them on our iPhone 6. Konstantin had already some experience with the X3 case so we were sitting together after our packrafting trip in the Scottish Highlands to discuss the main differences between the X3 and the X4 during our 2 1/2 hours train trip from Aberdeen to Edinburgh.
 
