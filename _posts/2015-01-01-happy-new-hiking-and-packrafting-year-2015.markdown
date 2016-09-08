@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Happy new Hiking and Packrafting Year 2015
-date: 2015-01-01 15:47:59 +0200
 description: Happy New eyear 2015
+date: 2015-01-01 15:47:59
 category: news
-tags: [news]
+tags: 
+  - news
+layout: post
 ---
 We wish you all a happy new hiking and packrafting year 2015! Here are our plans for 2015.<br><br>
 
