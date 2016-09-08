@@ -1,10 +1,14 @@
 ---
-layout: post
 title: What to do in Ruissalo (Turku) in 1 day?
-date: 2014-05-17 19:46:05 +0300
 description: A day adventure on Ruissalo in Turku. Birds, Ferries and history.
+date: 2014-05-17 19:46:05
 category: destinations
-tags: [destinations, ruissalo, turku, finland]
+tags: 
+  - destinations
+  - ruissalo
+  - turku
+  - finland
+layout: post
 ---
 Today, I went on a day trip to Ruissalo. Ruissalo is the recreational island of Turku. It was involved in the Crimean war between the Swedish and Russians and nowadays it's a paradise for bird watchers, golfers and joggers. Since the island is quite big, I grabbed my bicycle and set off.<br><br>
 
