@@ -1,10 +1,11 @@
 ---
-layout: post
 title: The Last Adventurer
-date: 2014-02-13 07:00:16 +0200
 description: Introduction to The Last Adventurer blog
+date: 2014-02-13 07:00:16
 category: interviews
-tags: [interviews]
+tags: 
+  - interviews
+layout: post
 ---
 
 My blog is about mountaineering, backpacking, and hiking, mostly in the United States, but in some international locations as well.
