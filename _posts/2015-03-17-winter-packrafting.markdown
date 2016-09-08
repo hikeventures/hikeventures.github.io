@@ -1,10 +1,12 @@
 ---
-layout: post
 title: Winter Packrafting
-date: 2015-03-17 18:04:22 +0200
 description: Interested in winter packrafting? Here are our thoughts.
+date: 2015-03-17 18:04:22
 category: articles
-tags: [articles, packrafting]
+tags: 
+  - articles
+  - packrafting
+layout: post
 ---
 
 A couple of weeks ago when we still had ice and snow in Southern Finland I decided to take my packraft to do some winter packrafting and to paddle along the ice shore in Turku. So far I have only packrafted during the warmer months of the year except last autumn when I was packrafting at [Suolijärvi](http://hikeventures.com/halloween-adventure-at-lake-suolijarvi/) temperatures also dropped to 0C during the night. 
