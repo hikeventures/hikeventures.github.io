@@ -1,11 +1,11 @@
 ---
-layout: post
 title: Retkipaikka
-date: 2014-04-3 17:28:03 +0200
-category: interviews
-tags: [interviews]
 description: Retkipaikka
-
+date: 2014-04-3 17:28:03
+category: interviews
+tags: 
+  - interviews
+layout: post
 ---
 
 I came up first time with the idea of Retkipaikka blog about five years ago. It took three years to start it, but finally in February 2012 it was running. First it was supposed to be a place to share the hints of interesting places in nature I went, but pretty soon my brother and cousin joined the team.
