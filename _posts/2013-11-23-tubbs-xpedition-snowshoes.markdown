@@ -1,5 +1,5 @@
 ---
-title: Review: Tubbs Xpedition Snowshoe
+title: Tubbs Xpedition Snowshoe Review
 description: Explore the great outdoors with these snowshoes
 date: 2013-12-10 07:30:00
 category: reviews
