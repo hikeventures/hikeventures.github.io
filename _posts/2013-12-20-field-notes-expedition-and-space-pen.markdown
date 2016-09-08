@@ -1,10 +1,13 @@
 ---
-layout: post
 title: How to document your hiking trip?
-date: 2013-12-20 18:50:22 +0200
 description: Maybe the best hiking gear for writers and journalists
+date: 2013-12-20 18:50:22
 category: reviews
-tags: [reviews, field notes, blogging]
+tags: 
+  - reviews
+  - field notes
+  - blogging
+layout: post
 ---
 
 
