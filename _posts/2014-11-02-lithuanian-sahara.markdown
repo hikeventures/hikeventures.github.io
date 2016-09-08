@@ -1,10 +1,13 @@
 ---
-layout: post
 title: Hiking in the Lithuanian Sahara
-date: 2014-11-03 21:53:00 +0200
 description: Exploring the Kuršių Nerija National Park in Lithuania
+date: 2014-11-03 21:53:00
 category: destinations
-tags: [destinations, lithuania, hiking, kuršių nerija]
+tags: 
+  - destinations
+  - lithuania
+  - hiking
+layout: post
 ---
 Located on the Curonian Spit, Kuršių Nerija National Park is truly a very special place in Lithuania. Packed with tourists in summer and almost abandoned in winter, this narrow strip of sand offers a lot of opportunities to be in the nature, especially if you try to avoid the most touristic spots, such as the villages of Nida or Juodkrante. <br><br>
 
