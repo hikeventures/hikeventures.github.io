@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Hiking the Trail Interview
-date: 2013-12-20 05:17:39 +0300
 description: Hiking the Trail
+date: 2013-12-20 05:17:39
 category: interviews
-tags: [interviews]
+tags: 
+  - interviews
+layout: post
 ---
 Hiking the Trail was started several years ago to chronicle my
 Appalachian Trail thru hike in spring of 2013.
