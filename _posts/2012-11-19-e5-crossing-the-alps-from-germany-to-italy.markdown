@@ -3,21 +3,21 @@ title: e5 - Crossing the Alps from Germany to Italy
 description: Walking from Germany to Italy. Our 6 days adventure in the Alps.
 date: 2012-11-25 07:30:00
 category: destinations
-tags: 
+tags:
    - destinations
    - alps
    - mountains
    - e5
 layout: post
 ---
-On this trip we were hiking around 160 km from Germany to Italy. The demanding part was however not the distance but walking up and down a mountain on a daily base. The E5 originally starts from Konstanz (Germany) and ends in Verona (Italy). However, most hikers start the tour from Oberstdorf - since this is the part where you are actually in the Alps - and finish the tour in Meran. 
+On this trip we were hiking around 160 km from Germany to Italy. The demanding part was however not the distance but walking up and down a mountain on a daily base. The E5 originally starts from Konstanz (Germany) and ends in Verona (Italy). However, most hikers start the tour from Oberstdorf - since this is the part where you are actually in the Alps - and finish the tour in Meran.
 
 ![][image-1]
 <!--more-->
 
 > The route contains of about 20.000 metres in altitude and does not require any special skills or alpine gear. However, you should be in a good shape to be able to walk 1000 metres in altitude a day. The route has a length of about 170 km.
 
-The trip across the Alps took us 6 days and we were walking about 10 hours a day. Concerning the costs you can calculate about 20 EUR per night to stay in a hut excl. food (which would be another 15-20 EUR for breakfast and dinner at the hut). 
+The trip across the Alps took us 6 days and we were walking about 10 hours a day. Concerning the costs you can calculate about 20 EUR per night to stay in a hut excluding food (which would be another 15-20 EUR for breakfast and dinner at the hut). 
 
 From Oberstdorf you reach Austria via the Unteren Madeljoch and continue via the Allgäuer, Lechtaler and Ötztaler Alps until you reach Italy via the Timmelsjoch. From there your way continues in South Tyrol until you reach Bozen. Highlight of the tour are e.g. the Geigenkamm and the Pitztal (where you reach an altitude of 3000 m).
 
@@ -107,7 +107,7 @@ On our last day we hiked from the Meraner Hut to Bozen and then took the bus bac
 
 ## Books
 There is also a book in English about the E5 available: <a href="http://amzn.to/1RpVxO9" rel="nofollow">Across the Eastern Alps: The E5: The E5 from Lake Constance to Verona</a>
-    
+
 <a  href="http://www.amazon.com/gp/product/1852844922/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1852844922&linkCode=as2&tag=hikeve-20&linkId=SBLRW5OEAJM53B25"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1852844922&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=1852844922" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ---
