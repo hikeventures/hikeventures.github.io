@@ -1,10 +1,16 @@
 ---
-layout: post
 title: My Sony A7 - Macbook - Lightroom workflow
-date: 2014-10-21 19:10:36 +0300
 description: Got an A7? See how I manage my files with my Macbook Pro
+date: 2014-10-21 19:10:36
 category: articles
-tags: [articles, photography, a7r, camera, macbook, lightroom, blogging]
+tags: 
+  - articles
+  - photography
+  - camera
+  - macbook
+  - lightroom
+  - blogging
+layout: post
 ---
 
 
