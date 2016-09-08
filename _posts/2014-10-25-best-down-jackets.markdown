@@ -1,14 +1,13 @@
 ---
-layout: post
 title: What are the best Down Jackets for 2016
-date: 2016-01-03 20:43:52 +0200
 description: Need a warm jacket for your autumn or winter? We found the best down jackets for 2016
+date: 2016-01-03 20:43:52
 category: articles
 tags:
   - articles
   - best
   - jackets
-published: true
+layout: post
 ---
 Here is our buying guide of the best summer and winter down jackets for 2016 which you can take on your next hiking, backpacking, skiing, snowboarding, mountaineering, climbing, photography or any other backcountry outdoor adventure to stay warm. 
 
