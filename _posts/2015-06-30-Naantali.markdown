@@ -1,14 +1,13 @@
 ---
-layout: post
 title: Naantali - one of the best places to visit at the Baltic Sea nearby Turku.
-date: 2015-06-30 06:56:00 +0300
 description: A day visit in Naantali - The gold coast of Finland.
+date: 2015-06-30 06:56:00
 category: destinations
 tags:
   - destinations
   - finland
   - naantali
-published: true
+layout: post
 ---
 
 2 weeks ago I went to Naantali, which is only 14km away from Turku to visit it's old wooden houses in Mannerheimintie and along the guest harbour with it's nice restaurants and a great view towards the church and kultaranta - the summer residence of the President of Finland. There is also the observation tower which is one of the remaining old buildings from the old spa in Naantali. I would say Naantali is definitely one of the best places to visit at the baltic sea if you are interested in cities and culture.
