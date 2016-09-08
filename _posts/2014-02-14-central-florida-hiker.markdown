@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Central Florida Hiker
-date: 2014-02-14 16:30:25 +0200
 description: Central Florida Hiker
+date: 2014-02-14 16:30:25
 category: interviews
-tags: [interviews]
+tags: 
+  - interviews
+layout: post
 ---
 Central Florida Hiker was started in 2013 as a way for me to share my adventures as well as information on the hiking in Central Florida. When people think of Florida they immediately think of the beach. My goal is to get people excited about all of the hiking and camping opportunities we have in Florida that are often overlooked. 
 
