@@ -1,11 +1,14 @@
 ---
-layout: post
 title: Packrafting the cleanest lake in Sweden - Trollsjön
-date: 2015-11-08 06:20:07 +0300
-published: true
 description: Another packrafting adventure in Sweden
+date: 2015-11-08 06:20:07
 category: destinations
-tags: [destinations, packrafting, sweden, trollsjön]
+tags:
+  - destinations
+  - packrafting
+  - sweden
+  - trollsjön
+layout: post
 ---
 This August Patrick and I went to Swedish Lapland. We wanted to participate in Fjellraven Classic and spend the extra days before and after it packrafting. But Patrick had to go back home earlier than planned and I was left alone for the race (which I completed within three days instead of the planned five) as well as after it. This is a story about one of my microadventures where I was packrafting the cleanest lake in Sweden called Trollsjön.
 
