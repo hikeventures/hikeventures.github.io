@@ -1,14 +1,13 @@
 ---
 layout: post
 title: The best PFD / Life Jacket for Packrafting
-date: 2016-05-29 09:46:20 +0200
 description: PFD's we would take on our packrafting trip
+date: 2016-05-29 09:46:20
 category: best
 tags:
   - articles
   - best
   - pfd
-published: true
 ---
 As we are frequently on packrafting trips we are of course always looking for new packrafting gear like a PFD (personal floating device) or life jacket. Here comes our selection of the best PFDs.
 
