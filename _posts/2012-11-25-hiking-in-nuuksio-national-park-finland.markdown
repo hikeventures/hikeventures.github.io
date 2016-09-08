@@ -1,11 +1,14 @@
 ---
-layout: post
 title: Nuuksio National Park
-date: 2012-11-25 07:30:00 +0300
-published: true
 description: The National Park nearby the capital of Finland
+date: 2012-11-25 07:30:00
 category: destinations
-tags: [destinations, nuuksio, finland, hiking]
+tags: 
+  - destinations
+  - nuuksio
+  - finland
+  - hiking
+layout: post
 ---
 The Nuuksio National Park is located close to Helsinki (1 hour bus trip - 85A from Espoo Centre) and a popular place for people living in Helsinki to get away from the busy city life and enjoy the outdoors and go hiking, camping, packrafing or kayaking. You will find gorges formed by the last ice age, valleys, 43 lakes and hills which are up to 110 meters.
 
