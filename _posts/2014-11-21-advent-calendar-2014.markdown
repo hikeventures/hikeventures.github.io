@@ -1,11 +1,11 @@
 ---
-layout: post
 title: Advent Calendar 2014
-date: 2014-11-21 16:08:42 +0200
-published: true
 description: Outdoors Advent Calendar 2014 - Win cool outdoor gear!
+date: 2014-11-21 16:08:42
 category: campaigns
-tags: [campaigns]
+tags: 
+  - campaigns
+layout: post
 ---
 <a href="https://www.flickr.com/photos/90204224@N07/15658373079"><img src="https://farm8.staticflickr.com/7481/15658373079_b150a16f52_c.jpg" width="1150"></a>
 <br><br>
