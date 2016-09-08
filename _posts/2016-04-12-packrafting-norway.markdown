@@ -1,15 +1,14 @@
 ---
-layout: post
-title: Packrafting in Norway
-date: 2016-04-11 07:30:00 +0300
-comments: true
 published: false
+title: Packrafting in Norway
+description: Our packrafting adventures in Norway
+date: 2016-04-11 07:30:00
 category: destinations
 tags:
   - destinations
   - norway
   - packrafting
-description: Our packrafting adventures in Norway
+layout: post
 ---
 Packrafting in Norway. Last summer after the Fjällräven Classic, I hitched a ride to Norway and spent two days and nights packrafting there on the sea in a Fjord.
 
