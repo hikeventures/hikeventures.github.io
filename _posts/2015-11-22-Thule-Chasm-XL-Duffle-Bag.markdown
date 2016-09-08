@@ -1,14 +1,13 @@
 ---
-layout: post
 title: Thule Chasm XL Duffle Bag Review – Carry Big, Store Small
-date: 2015-11-23 07:30:00 +0300
-published: true
 description: Thule Chasm XL Duffle Bag Review
+date: 2015-11-23 07:30:00
 category: reviews
 tags:
   - reviews
   - thule
   - bags
+layout: post
 ---
 Which bag do you take if you are going on winter adventure in Finnish Lapland and you need to take a lot of gear with you? Or what do you do if you need to pack for summer holidays during which you are visiting Japan and the North of Sweden and you do not have time to come back home to repack? Or simply if you are going on a business trip to Scotland or Norway which you want to combine with packrafting and camping? I don’t know which bag you would use, but I used my Thule Chasm XL (provided by Thule) and here is a short review of my experiences with it so far.
 <br><br>
