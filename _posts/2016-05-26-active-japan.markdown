@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Hiking, Packrafting and Camping in Japan
-date: 2016-06-30 07:30:00 +0300
-published: true
+description: How we went hiking, packrafting and camping during our trip in Japan in 2015.
+date: 2016-06-30 07:30:00
 category: destinations
 tags:
   - destinations
@@ -11,7 +11,6 @@ tags:
   - hiking
   - packrafting
   - camping
-description: How we went hiking, packrafting and camping during our trip in Japan in 2015.
 ---
 
 As you know, last year we went to Japan for three weeks. And it was great. So great that we decided to go back this year again. 
