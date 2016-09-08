@@ -1,10 +1,15 @@
 ---
-layout: post
 title: Hirvensalo Luontopolku Hiking - Natura 2000
-date: 2014-08-14 22:05:28 +0300
 description: Hiking in Hirvensalo on the Natura 2000 trail
+date: 2014-08-14 22:05:28
 category: destinations
-tags: [destinations, finland, hirvensalo, turku, hiking]
+tags: 
+  - destinations
+  - finland
+  - hirvensalo
+  - turku
+  - hiking
+layout: post
 ---
 Today, I went for an evening hike along the luontopolku in Friskala (Turku) which is part of the Natura 2000 network. Highlight were the bird tower, horses and cows.
 
