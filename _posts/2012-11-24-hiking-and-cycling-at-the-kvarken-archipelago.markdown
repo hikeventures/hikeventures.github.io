@@ -1,10 +1,13 @@
 ---
-layout: post
-title: Kvarken Archipelago
-date: 2012-11-25 07:30:00 +0300
-description: Kvarken Archipelago
+title: What to see at the Kvarken Archipelago?
+description: A few ideas on what you can see at the Kvarken Archipelago
+date: 2012-11-25 07:30:00
 category: destinations
-tags: [destinations, archipelago, finland]
+tags: 
+  - destinations
+  - archipelago
+  - finland
+layout: post
 ---
 Today, I went with the bicycle from Vaasa to Bjököby where I planned to visit the Kvarken Archipelago - an UNESCO World Heritage site. The distance to the Swedish mainland is just about 80 km and the depth of the water is max. about 25 meters. The area has been populated by human beings since 7000 years.
 
