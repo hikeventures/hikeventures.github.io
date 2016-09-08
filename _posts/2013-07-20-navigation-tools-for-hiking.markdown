@@ -1,10 +1,13 @@
 ---
-layout: post
 title: Navigation Tools for Hiking
-date: 2013-07-20 07:30:00 +0300
 description: Tools I use for Hiking and Packrafting
+date: 2013-07-20 07:30:00
 category: reviews
-tags: [reviews, maps, calazo]
+tags: 
+  - reviews
+  - maps
+  - calazo
+layout: post
 ---
 
 For our hiking trip in Sweden we are going to use 3 navigation tools in order to find our way through the Swedish mountains. 
