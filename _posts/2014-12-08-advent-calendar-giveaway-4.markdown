@@ -1,11 +1,11 @@
 ---
-layout: post
-title: Advent Calendar: Giveaway 4
-date: 2014-12-08 22:38:21 +0200
-published: true
+title: Advent Calendar - Giveaway 4
 description: Thule Camera Bag for GoPro cameras
+date: 2014-12-08 22:38:21
 category: campaigns
-tags: [campaigns]
+tags: 
+  - campaigns
+layout: post
 ---
 Having a GoPro camera is great. With all the multitude of various mounts and cases, you have seemingly endless possibilities to mix and match these ingredients to achieve a perfect combination that  suits your current filming conditions best. <br><br>
 
