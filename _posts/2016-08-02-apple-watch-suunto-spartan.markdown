@@ -2,7 +2,7 @@
 layout: post
 title: Apple Watch 2 or Suunto Spartan - GPS and Battery Life
 description: Some thoughts about the GPS and battery life of the Apple Watch 2 and Suunto Spartan
-date: 2016-08-09 07:30:00
+date: 2016-08-02 07:30:00
 category: articles
 tags:
   - articles
