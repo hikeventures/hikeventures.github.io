@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Teijo National Park
-description: Apple Watch 2 or Suunto Spartan - GPS and Battery Life
+title: Apple Watch 2 or Suunto Spartan - GPS and Battery Life
+description: Some thoughts about the GPS and battery life of the Apple Watch 2 and Suunto Spartan
 date: 2016-08-09 07:30:00
 category: articles
 tags:
