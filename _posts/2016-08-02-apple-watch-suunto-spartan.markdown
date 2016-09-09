@@ -35,7 +35,7 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Search Results from Amazon";
-amzn_assoc_default_search_phrase = "Suunto Spartan";
+amzn_assoc_default_search_phrase = "Apple Watch 2";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "067627c2089eb71085c3a24c35942813";
 </script>
