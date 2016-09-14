@@ -221,7 +221,7 @@ Headlamps usually use lithium CR2032 batteries, AA or AAA batteries. Some headla
 
 ## What are the best headlamp brands?
 The most popular headlamp brands are:
----
+
 * [Black Diamond](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=headlamps+black+diamond)
 * [Fenix](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=headlamps+fenix)
 * [Goal Zero](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=headlamps+goal+zero)
