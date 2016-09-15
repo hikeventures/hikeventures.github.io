@@ -16,6 +16,20 @@ Suunto has recently released it's latest GPS watch - the Suunto Traverse - which
   
 The most important difference is probably that the Suunto Traverse has a vibration alarm and that the GPS receiver is now 'invisible' built into the watch. Moreover, the Suunto Traverse has a thinner (1mm) built. However, you will not find multisport functions in the Suunto Traverse. So, if you are for example more into triathlon then you should probably go for the [Suunto Ambit3 Vertical](http://www.backcountry.com/suunto-ambit3-vertical-watch) rather than the regular Suunto Traverse. I mainly go running and hiking so the regular Suunto Traverse is the best option for me and there is no need to pay for features which I don't use. If 
 
+---
+
+# Discounts
+
+<div class="row">
+  <div class="col-sm-12">
+<center>
+ <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=Suunto AND Ambit3 OR Suunto AND Traverse &search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=300&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
+</center>
+  </div>
+</div>
+
+---
+
 The Suunto Traverse weights about 80 grams and it's water resistance is 100 m. The Ambit3 is only 50 m water resistant. Both - the Suunto Ambit3 Peak and the Traverse have a barometer. The menu on the Suunto Traverse is also more simplified than on the Suunto Ambit3 which I personally prefer. The Traverse has also a flashlight function which could be quite useful (for example if you need to search something in your tent). Below you can see my Suunto Traverse next to my Finnish Roselli knife.
   
 ![Suunto Traverse](https://farm8.staticflickr.com/7138/26503377864_db26a8025b_b.jpg "Suunto Traverse and Roselli Knife")
@@ -76,18 +90,6 @@ On longer bicycle trips it might be quite convenient to have the Suunto watch at
 If you have an iPhone you could also get a Quad Lock Bike Mount Kit and attach it next to the <a href="http://amzn.to/28V6hrU" rel="nofollow">Suunto Wristop Computer Bike Adaptor</a>. It's quite handy to have your iPhone in front of you when you are on a tour. You can easily check maps, use the iPhone as a second screen for your Ambit watch (to display e.g. speed or distance) or just to listen to radio.
 
 <a href="https://www.amazon.com/gp/product/B00X3LNYG0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X3LNYG0&linkCode=as2&tag=hikeve-20&linkId=8750a11f14e8d1f1bdb09f35a6b933a2"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00X3LNYG0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00X3LNYG0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
----
-
-# Discounts
-
-<div class="row">
-  <div class="col-sm-12">
-<center>
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=Suunto AND Ambit3 OR Suunto AND Traverse &search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=300&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
-</center>
-  </div>
-</div>
 
 ---
 
