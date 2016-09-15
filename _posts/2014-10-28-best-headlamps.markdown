@@ -164,6 +164,24 @@ The Petzl e+LITE is the emergency headlamp from Petzl. It could also be a good c
 
 ---
 
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "bottom";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Headlamps Suggestions";
+amzn_assoc_default_search_phrase = "headlamp";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
 # Accessories
 
 ## [Petzl EXTENSION CABLE for NAO](http://www.backcountry.com/petzl-nao-belt-kit)
@@ -295,24 +313,6 @@ The spotlight of a headlamp refers to the point of visible light. The spotlight 
 
 ## Are headlamps waterproof or watertight?
 Not every headlamp is watertight. Some headlamps are only splash proof. Have a look at the IPX rating which indicates how watertight a headlamp is.
-
----
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "bottom";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Headlamps Suggestions";
-amzn_assoc_default_search_phrase = "headlamp";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
 
