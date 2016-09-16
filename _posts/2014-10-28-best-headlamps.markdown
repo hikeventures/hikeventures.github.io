@@ -27,7 +27,7 @@ Konstantin wearing a Petzl Nao on the top of a fell in [Finnish Lapland](http://
 | [Petzl E+LITE](http://www.hikeventures.com/deals/#petzl+e+lite "Petzl E+LITE") | 27 grams / 0.06 lbs | 26 |
 | [Zebralight H600 Mk II 18650 XM-L2](http://www.amazon.com/gp/product/B00HIW1I2C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HIW1I2C&linkCode=as2&tag=hikeve-20&linkId=LCSF7G25EDO752O5 "Zebralight H600 Mk II 18650 XM-L2") | 39 grams / 0.09 lbs | 1090 |
 | [Petzl Tikka R+](http://www.hikeventures.com/deals/#petzl+tikka+r "Petzl Tikka R+") | 85 grams / 0.18 lbs | 170 |
-| [Black Diamond ReVolt Headlamp](http://www.backcountry.com/black-diamond-revolt-headlamp)  |   98 grams / 0.22 lbs | 130 |
+| [Black Diamond ReVolt](http://www.backcountry.com/black-diamond-revolt-headlamp)  |   98 grams / 0.22 lbs | 130 |
 | [Black Diamond Storm](http://www.hikeventures.com/deals/#black+diamond+storm "Black Diamond Storm") | 110 grams / 0.24 lbs | 160 |
 | [Petzl Tikka RXP](http://www.hikeventures.com/deals/#petzl+tikka "Petzl Tikka RXP") | 115 grams / 0.25 lbs | 215 |
 | [Petzl Nao](http://www.hikeventures.com/deals/#petzl+nao "Petzl Nao") | 187 grams / 0.4 lbs | 575 |
