@@ -52,7 +52,7 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 
 <h1> Followers on Social Media </h1>
 
-<strong><a href="https://www.instagram.com/hikeventures/">Instagram</a>: </strong>3800 <br> 
+<strong><a href="https://www.instagram.com/hikeventures/">Instagram</a>: </strong>4100 <br> 
 <strong><a href="https://twitter.com/HikeVentures">Twitter</a>: </strong>2600   <br> 
 <strong><a href="https://www.facebook.com/HikeVentures">Facebook</a>: </strong>1500   <br>
 
@@ -96,5 +96,4 @@ Finland<br><br>
 phone: +358 50 572 84 89<br>
 email: <a href="mailto:contact@hikeventures.com">contact@hikeventures.com</a>
 
-   
 </div>
