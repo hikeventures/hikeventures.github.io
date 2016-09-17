@@ -19,12 +19,6 @@ Apple and Suunto recently announced their new smartwatches - the Apple Watch Ser
 
 When Apple released the Apple Watch for the first time I decided to purchase a [Suunto Traverse](http://www.hikeventures.com/Suunto-Traverse-Ambit3-differences/) simply because it offered GPS and better battery life. The battery life of the Apple Watch might be ok if you plan to go running for 1 hour or so but if you go on a long hike with GPS switched on you don't want to start charging your watch every view hours. My [Suunto Traverse](http://www.hikeventures.com/Suunto-Traverse-Ambit3-differences/) could handle a full day of hiking with GPS switched on. As Apple did not mention anything about an improved battery life of the Apple Watch Series 2 we can probably expect a battery life of 18 hours with GPS switched off.
 
-Apple has worked with Nike and developed the Apple Watch Nike+ which offers some additional features for runners. If you are just into running then the Apple Watch Nike+ sounds like a nice package as you don't need such a long battery life and it also comes with an built in heart-rate monitor on your wrist. The [Suunto Spartan](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch) still requires you to wear a heart-rate monitor around your chest.
-
-# Conclusion
-
-If you are into multisport or any activity which lasts several hours then I would probably get the [Suunto Spartan](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch). If you only go running then the Apple Watch Nike+ is probably a better option. If you are an iPhone user then the Apple Watch Series 2 is obviously a better choice if you don't plan activities which lasts several hours. However, as I have not tested the Apple Watch Series 2 I will need to see how long the watch might actually work with GPS switched on.
-
 ---
 
 <script type="text/javascript">
@@ -42,3 +36,11 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "067627c2089eb71085c3a24c35942813";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
+Apple has worked with Nike and developed the Apple Watch Nike+ which offers some additional features for runners. If you are just into running then the Apple Watch Nike+ sounds like a nice package as you don't need such a long battery life and it also comes with an built in heart-rate monitor on your wrist. The [Suunto Spartan](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch) still requires you to wear a heart-rate monitor around your chest.
+
+# Conclusion
+
+If you are into multisport or any activity which lasts several hours then I would probably get the [Suunto Spartan](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch). If you only go running then the Apple Watch Nike+ is probably a better option. If you are an iPhone user then the Apple Watch Series 2 is obviously a better choice if you don't plan activities which lasts several hours. However, as I have not tested the Apple Watch Series 2 I will need to see how long the watch might actually work with GPS switched on.
