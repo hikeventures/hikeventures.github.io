@@ -4,7 +4,7 @@ date: 2016-09-18 05:28:01
 category: competition
 tags:
   - photography
-- competition
+  - competition
 layout: post
 ---
 Showcase your pictures! From this week you have the chance to show your pictures to our readers. Every week we will select the best pictures and publish them on our blog.
