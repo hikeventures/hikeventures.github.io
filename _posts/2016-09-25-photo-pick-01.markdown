@@ -1,10 +1,15 @@
 ---
 published: false
+title: HV readers photo pick
+date: 2016-09-25 05:28:01
+category: photo
+tags:
+  - photo
+layout: post
 ---
-HV readers photo of the week
 
 1. Submit your picture with a message here: facebook.com/HikeVentures/
 2. Like and comment the pictures from other readers here: https://www.facebook.com/HikeVentures/photos
 3. We will select the pictures with the most likes and comments and post it on our blog and on flickr.
 
-Important: Feel free to add a link to your page to promote yourself when you submit your picture.
+**Important:** Feel free to add a link to your page to promote yourself when you submit your picture.
