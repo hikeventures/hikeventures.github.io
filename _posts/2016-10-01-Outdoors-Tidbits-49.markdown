@@ -23,6 +23,14 @@ Camping Gear Deals at <a target="_blank" href="https://www.amazon.com/s/ref=amb_
 
 ## Gear Reviews
 
+---
+
 ## Trip Reports
 
+---
+
 ## Photography News
+
+---
+
+Want to see your blog post here as well? Submit your article [here](https://www.facebook.com/HikeVentures/) and we may select it.
