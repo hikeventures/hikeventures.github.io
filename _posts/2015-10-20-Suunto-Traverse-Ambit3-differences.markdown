@@ -36,6 +36,7 @@ The Suunto Traverse weights about 80 grams and it's water resistance is 100 m. T
   
 Personally, I like the new look of the Suunto Traverse more than the look of the Suunto Ambit3. Also the wrist strap of the Suunto Traverse feels somewhat more comfortable than the one on the Suunto Ambit3. 
 
+---
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
@@ -53,6 +54,7 @@ amzn_assoc_linkid = "edb1d00e614ad3a35eb0a5421405645c";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
+---
 
 # <a href="http://amzn.to/290sqqE" rel="nofollow">Suunto Ambit3 Vertical</a>
 If you are more into trail running (on hills or mountains), mountainbiking, climbing or into multisport then you should probably go for the <a href="http://amzn.to/290sqqE" rel="nofollow">Suunto Ambit3 Vertical</a>. The Suunto Ambit3 gives you a summary of your vertical gains and also displays the altitude during your ascent.
