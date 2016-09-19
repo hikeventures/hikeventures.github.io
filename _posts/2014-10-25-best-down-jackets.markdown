@@ -42,6 +42,24 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hik
 
 ---
 
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Suggested Down Jackets";
+amzn_assoc_default_search_phrase = "arcteryx down jacket";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "94ae095fd527d4f97d365afbd4404fcf";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
 ## [Mountain Hardware Ghost Whisperer Hooded Down Jacket (800 fp)](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GULW0DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GULW0DS&linkCode=as2&tag=hikeve-20&linkId=RSEZE3QFDW2FVB3A" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GULW0DS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GULW0DS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -305,24 +323,6 @@ Many new down jackets feature nowadays a light ripstop shell to make the down ja
 ## How to keep a down jacket dry?
 
 You can keep your down jacket dry by storing it in a waterproof compression bag when you are hiking in wet conditions and to use your down jacket only in your tent.
-
----
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Suggested Down Jackets";
-amzn_assoc_default_search_phrase = "arcteryx down jacket";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "94ae095fd527d4f97d365afbd4404fcf";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
 
