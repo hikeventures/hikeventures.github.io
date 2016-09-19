@@ -31,6 +31,24 @@ With a Satellite Messenger you can also inform your family and friends about you
 
 ---
 
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "bottom";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Satellite Messengers Suggestions";
+amzn_assoc_default_search_phrase = "satellite messenger";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9606193064/in/photolist-fCSfwm-fBZaBp-fBZ86t-fCenzd-fCerPS-fCeu5W-fBZ9Pa-fCewCu-fCeuVs-fBZ6JB-fBZ5re-fBZaMc-fCewQ3-fBZbjB-fBZapV-fBZ4QB-fBZ7rH-fCeqR1-fCetpG-fBZcd4-fBZ7U8-fCescG-fCeoTj-fCeso7-fBZ5CR-fCeugy-fBZ4Fk-fCerZw-fCemGh-eixRoh-eis7oH-fBZ3ND-fCerDj-fBZd5R-fCeta7-fCevtj-fBZc4Z-fCevFQ-fCemih-fBZ4gV-fBZ5VP-fCeqcS-fBZ3mc-fCesMw-fBZ8hP-fCeped-fBZcNa-fBZbAg-fCesyW-fCeoi5" title="Best GPS Satellite Messenger 2016 / 2017 - DeLorme InReach SE can be useful in Northern Sweden"><img src="https://c1.staticflickr.com/4/3670/9606193064_01bf36511a_b.jpg" width="100%" alt="Hiking and Packrafting in Sarek Sweden"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Me hiking in the Sarek National Park in Sweden - also considered as one of the last wilderness areas in Europe
@@ -106,26 +124,10 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 
 <a href="https://www.rei.com/product/843146/acr-electronics-resqlink-gps-personal-locator-beacon"><button type="button" class="btn btn-danger">Read more about the ACR ResQlink+ 406</button></a> 
 
-# Conclusion
-My personal preference goes towards the  [DeLorme InReach Explorer](https://www.rei.com/product/877499/delorme-inreach-explorer-satellite-messenger) as it has also messenger function. If I would not need the messenger and tracking function then I would probably get the [ACR ResQlink+ 406](https://www.rei.com/product/843146/acr-electronics-resqlink-gps-personal-locator-beacon).
-
 ---
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "bottom";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Satellite Messengers Suggestions";
-amzn_assoc_default_search_phrase = "satellite messenger";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+# Conclusion
+My personal preference goes towards the  [DeLorme InReach Explorer](https://www.rei.com/product/877499/delorme-inreach-explorer-satellite-messenger) as it has also messenger function. If I would not need the messenger and tracking function then I would probably get the [ACR ResQlink+ 406](https://www.rei.com/product/843146/acr-electronics-resqlink-gps-personal-locator-beacon).
 
 ---
 
