@@ -34,9 +34,27 @@ Wearing the [Montane Minimus Pants](http://www.campsaver.com/minimus-pants-men-s
 > Table sorted by weight
 
 ---
+ 
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "bottom";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Rain Pants Suggestions";
+amzn_assoc_default_search_phrase = "rain pants";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
 
 
-### [Montane Minimus Pants](http://www.campsaver.com/minimus-pants-men-s)
+# [Montane Minimus Pants](http://www.campsaver.com/minimus-pants-men-s)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B007RLM6VG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007RLM6VG&linkCode=as2&tag=hikeve-20&linkId=FWJFGCKUDWO36GKL"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007RLM6VG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B007RLM6VG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -49,7 +67,7 @@ The Montane Minimus pants are super light and pack easily into every backpack. T
 
 ---
 
-### [Montane Atomic Pants](http://www.moosejaw.com/moosejaw/shop/product_Montane-Men-s-Atomic-Pant_10276270_10208_10000001_-1_)
+# [Montane Atomic Pants](http://www.moosejaw.com/moosejaw/shop/product_Montane-Men-s-Atomic-Pant_10276270_10208_10000001_-1_)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B007RLM8JQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007RLM8JQ&linkCode=as2&tag=hikeve-20&linkId=GBWCT2S4ZY3KW4PQ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007RLM8JQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B007RLM8JQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -62,7 +80,7 @@ The Montane Atomic Pants are a bit more durable than the Montane Minimus Pants b
 
 ---
 
-### [Mountain Hardwear Plasmic Pant](http://www.backcountry.com/mountain-hardwear-plasmic-pant-mens)
+# [Mountain Hardwear Plasmic Pant](http://www.backcountry.com/mountain-hardwear-plasmic-pant-mens)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B0089PN410/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0089PN410&linkCode=as2&tag=hikeve-20&linkId=SCOBGEQN4LMQSIUF"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0089PN410&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0089PN410" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -75,7 +93,7 @@ The Mountain Hardwear Plasmic Pants are slightly more heavy than the Montane pan
 
 ---
 
-### [Rab Fuse Pants](http://www.campsaver.com/fuse-pant-men-s)
+# [Rab Fuse Pants](http://www.campsaver.com/fuse-pant-men-s)
 
 <a href="https://www.amazon.com/gp/product/B00UMIW9JU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UMIW9JU&linkCode=as2&tag=hikeve-20&linkId=055e9dee0e87b8f31ff80a02c6308d6c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00UMIW9JU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00UMIW9JU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -88,7 +106,7 @@ The Rab Fuse Pants are the lightest-weight waterproof pants from Rab. They also 
 
 ---
 
-### [Haglöfs L.I.M. III pants](http://www.backcountry.com/haglfs-l.i.m.-iii-pant-mens)
+# [Haglöfs L.I.M. III pants](http://www.backcountry.com/haglfs-l.i.m.-iii-pant-mens)
 
 **Weight:** 225 grams   
 **Fabric:** GORE-TEX PacLite 
@@ -99,7 +117,7 @@ The Haglöfs L.I.M. III pants are part of Haglöfs Ultralight product range and 
 
 ---
 
-### [Arcteryx Beta SL Pants](http://www.backcountry.com/arcteryx-beta-sl-pant-mens)
+# [Arcteryx Beta SL Pants](http://www.backcountry.com/arcteryx-beta-sl-pant-mens)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GV31UGI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GV31UGI&linkCode=as2&tag=hikeve-20&linkId=HNWG2CPEBZ3YDLI7"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GV31UGI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GV31UGI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -112,7 +130,7 @@ SL stands for Super Light in the Arcteryx product range. This model is reinforce
 
 ---
 
-### [Rab Firewall Pants](http://www.campsaver.com/firewall-pant-men-s)
+# [Rab Firewall Pants](http://www.campsaver.com/firewall-pant-men-s)
 
 <a href="https://www.amazon.com/gp/product/B01C644O04/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01C644O04&linkCode=as2&tag=hikeve-20&linkId=0ab2f639df8dd66b00bcd42eed08d32a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01C644O04&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01C644O04" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -126,7 +144,7 @@ The Rab Firewall Pants are made for active use during winter. The Rab Firewall p
 ---
 
 
-## Discounts
+# Discounts
 <div class="row">
   <div class="col-sm-12">
 <center>
@@ -146,24 +164,6 @@ If you are planning to go skiing then you should maybe consider waterproof pants
 You should consider if you really need 3/4 length side zips or pockets on your pants. They are nice to have features but they will come with some additional weight.
 
 I hope you found this article useful to find your best men rain pants in 2016.
-
----
- 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "bottom";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Rain Pants Suggestions";
-amzn_assoc_default_search_phrase = "rain pants";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
 
