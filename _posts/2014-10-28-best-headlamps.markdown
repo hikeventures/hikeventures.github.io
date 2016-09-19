@@ -20,7 +20,7 @@ Konstantin wearing a Petzl Nao on the top of a fell in [Finnish Lapland](http://
 
 ---
 
-## Overview of the best headlamps of 2016
+# Overview of the best headlamps of 2016
 
 | Model | Weight | Lumen |
 | :--- | :---: | :---: |
@@ -38,7 +38,7 @@ Konstantin wearing a Petzl Nao on the top of a fell in [Finnish Lapland](http://
 
 ---
 
-## [Petzl Nao](http://www.backcountry.com/petzl-nao-headlamp)
+# [Petzl Nao](http://www.backcountry.com/petzl-nao-headlamp)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00LMCATH4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LMCATH4&linkCode=as2&tag=hikeve-20&linkId=NB7B66USP2WK5M3D"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LMCATH4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LMCATH4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -53,7 +53,7 @@ The [Petzl Nao](http://hikeventures.com/petzl-nao-headlamp-test/ "Petzl Nao") fe
 
 ---    
 
-## [Petzl Tikka RXP](http://www.backcountry.com/petzl-tikka-rxp-headlamp)
+# [Petzl Tikka RXP](http://www.backcountry.com/petzl-tikka-rxp-headlamp)
 
 <a href="http://www.amazon.com/gp/product/B00BA4R43Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BA4R43Q&linkCode=as2&tag=hikeve-20&linkId=BMMHTF6L4KCESYEM"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BA4R43Q&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00BA4R43Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -68,7 +68,7 @@ Almost half the Lumen power of the Petzl Nao,  the Petzl Tikka RXP is much light
 
 ---
 
-## [Black Diamond Icon](http://www.backcountry.com/black-diamond-icon-headlamp)   
+# [Black Diamond Icon](http://www.backcountry.com/black-diamond-icon-headlamp)   
 
 <a href="http://www.amazon.com/gp/product/B005FNCPBE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005FNCPBE&linkCode=as2&tag=hikeve-20&linkId=WBUHJA3GU3TCBJXQ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005FNCPBE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005FNCPBE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -83,7 +83,7 @@ With 220 grams and 'only' 200 Lumen, the Black Diamond Icon has a much lower Lum
 
 ---
    
-## [Zebralight H600 Mk II 18650 XM-L2](http://www.amazon.com/gp/product/B00HIW1I2C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HIW1I2C&linkCode=as2&tag=hikeve-20&linkId=LCSF7G25EDO752O5)   
+# [Zebralight H600 Mk II 18650 XM-L2](http://www.amazon.com/gp/product/B00HIW1I2C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HIW1I2C&linkCode=as2&tag=hikeve-20&linkId=LCSF7G25EDO752O5)   
 
 <a href="http://www.amazon.com/gp/product/B00HIW1I2C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HIW1I2C&linkCode=as2&tag=hikeve-20&linkId=SXRO3IZVWEGIXOPW"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HIW1I2C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00HIW1I2C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -97,7 +97,7 @@ With 220 grams and 'only' 200 Lumen, the Black Diamond Icon has a much lower Lum
 
 ---
    
-## [Princeton Tec Apex](http://www.backcountry.com/princeton-tec-apex-headlamp)
+# [Princeton Tec Apex](http://www.backcountry.com/princeton-tec-apex-headlamp)
 
 <a href="http://www.amazon.com/gp/product/B00F5EA7LI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F5EA7LI&linkCode=as2&tag=hikeve-20&linkId=CBMFG5EQHMBGE3I5"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00F5EA7LI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00F5EA7LI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -111,7 +111,7 @@ The Princeton Tec Apex is the brightest headlamp Princeton Tec has to offer. It'
 
 ---
 
-## [Black Diamond ReVolt Headlamp](http://www.backcountry.com/black-diamond-revolt-headlamp)   
+# [Black Diamond ReVolt Headlamp](http://www.backcountry.com/black-diamond-revolt-headlamp)   
 
 <a  href="http://www.amazon.com/gp/product/B00LAEZEN8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LAEZEN8&linkCode=as2&tag=hikeve-20&linkId=Z2ZEQ56UMSSEFBID"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LAEZEN8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LAEZEN8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -125,7 +125,7 @@ The Black Diamond ReVolt headlamp comes with a proximity, distance, dim, strobe,
 
 ---
 
-## [Black Diamond Storm](http://www.backcountry.com/black-diamond-storm-headlamp)  
+# [Black Diamond Storm](http://www.backcountry.com/black-diamond-storm-headlamp)  
 
 <a href="http://www.amazon.com/gp/product/B00H3MXOQU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00H3MXOQU&linkCode=as2&tag=hikeve-20&linkId=A2I5SXTJTBEA7KOK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00H3MXOQU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00H3MXOQU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -139,7 +139,7 @@ The Black Diamond Storm is a little bit more heavy than the Petzl Tikka XP. The 
 
 ---   
    
-## [Petzl e+LITE](http://www.backcountry.com/petzl-elite-emergency-headlamp)  
+# [Petzl e+LITE](http://www.backcountry.com/petzl-elite-emergency-headlamp)  
 
 <a href="http://www.amazon.com/gp/product/B008AUBOTS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008AUBOTS&linkCode=as2&tag=hikeve-20&linkId=V5A2XQXJ3LK3X3NP"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008AUBOTS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B008AUBOTS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
