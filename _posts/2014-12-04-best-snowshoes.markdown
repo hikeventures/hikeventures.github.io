@@ -145,6 +145,24 @@ Considering your own body and gear weight is important when choosing your snowsh
 
 ---
 
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "bottom";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Snowshoes Suggestions";
+amzn_assoc_default_search_phrase = "snowshoes";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24785831751/in/photolist-Dm1oBg-DJ5oFY-Dm1YSa-DSbpUy-CWZxhh-DUv9z4-DLeSfK-DLeWra-CWZhq3-DsowUj-CWZoVY-DJ55xd-CWYQyo-CX6sRF-DUueLP-Dm1SnM-DJ5qtf-CX6ZLM-r3peJw-qNgY7t" title="MSR Lightning Ascent and MSR Flight 2"><img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="MSR Lightning Ascent and MSR Flight 2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
    
 Konstantin snowshoeing in the [Austrian Alps](http://www.hikeventures.com/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/) with this [MSR Lightning Ascent](http://www.backcountry.com/msr-lightning-ascent).
@@ -171,24 +189,6 @@ There are several criterias you should take into consideration when you are plan
 
 # Conclusion
 So which are the best snowshoes for 2016? My preference goes towards a light snowshoe which has a good grip in the backcountry and in the mountains. I would probably choose the [MSR Lightning Ascent](http://www.backcountry.com/msr-lightning-ascent). The [MSR Revo Ascent 25](http://www.backcountry.com/msr-revo-ascent-snowshoe-mens) would be my second choice because of the additional weight. The advantage of the MSR Revo Ascent it that it is a bit more durable than the MSR Lightning Ascent. 
-
----
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "bottom";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Snowshoes Suggestions";
-amzn_assoc_default_search_phrase = "snowshoes";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
 
