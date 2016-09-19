@@ -110,9 +110,7 @@ The Arcteryx Delta LT Zip Neck is also a nice fleece. I have currently the Delta
 # Discounts
 <div class="row">
   <div class="col-sm-12">
-<center>
  <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=fleece jacket men AND the north face OR fleece jacket men AND Columbia OR fleece jacket men AND arcteryx OR fleece jacket men AND Mountain Hardwear OR fleece jacket men AND Montane OR fleece jacket men AND Berghaus OR fleece jacket men AND Rab&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
-</center>
   </div>
 </div>
 <br> 
