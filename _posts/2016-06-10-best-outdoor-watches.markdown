@@ -33,6 +33,24 @@ The watches in my list are sorted by their weight and I have taken the specifica
 
 ---
 
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Search Results from Amazon";
+amzn_assoc_default_search_phrase = "Apple Watch Series 2";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "586471a69afcbdad2092eabf0fcc4bbc";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
 ## <a href="http://amzn.to/1t7QAFm" rel="nofollow">Apple Watch Sport 38mm</a>
 
 <a href="https://www.amazon.com/gp/product/B00WP9NFUG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00WP9NFUG&linkCode=as2&tag=hikeve-20&linkId=3200cc07a8c693c957f3fda23a3d495c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00WP9NFUG&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00WP9NFUG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
