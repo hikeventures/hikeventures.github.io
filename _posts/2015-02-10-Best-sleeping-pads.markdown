@@ -31,6 +31,36 @@ In this blog post you can find the best lightweight sleeping pads available in 2
 
 ---
 
+# Discounts
+
+<div class="row">
+<div class="col-sm-12">
+<center>
+ <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=NeoAir&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=80&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
+</center>
+  </div>
+</div>
+
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Sleeping Pad Suggestions";
+amzn_assoc_default_search_phrase = "Thermarest NeoAir";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "b584bb12b91da85107bc0ed5aa6d043f";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
 ## [Therm-a-Rest NeoAir XLite](https://www.rei.com/product/881574/therm-a-rest-neoair-xlite-sleeping-pad)
 
 **R-Value:** 3.2   
@@ -113,36 +143,6 @@ If you don't want to spend so much time inflating your sleeping pad then the The
 
 <a href="http://www.backcountry.com/therm-a-rest-evolite-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest EvoLite</button></a>  
   
----
-
-# Discounts
-
-<div class="row">
-<div class="col-sm-12">
-<center>
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=NeoAir&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=80&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
-</center>
-  </div>
-</div>
-
----
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Sleeping Pad Suggestions";
-amzn_assoc_default_search_phrase = "Thermarest NeoAir";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "b584bb12b91da85107bc0ed5aa6d043f";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
 ---
 
 # Accessories
