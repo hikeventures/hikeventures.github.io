@@ -37,6 +37,24 @@ In the evenings while sitting in the camp I swap my [fleece](http://www.hikevent
 
 ---
 
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "bottom";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Wind Jackets Suggestions";
+amzn_assoc_default_search_phrase = "arcteryx wind jacket";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
 ## [Patagonia Houdini](https://www.rei.com/product/893303/patagonia-houdini-jacket-mens)
 
 <a  href="http://www.amazon.com/gp/product/B01ANCS38K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01ANCS38K&linkCode=as2&tag=hikeve-20&linkId=BOE3T2FI3DGVW7LR"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01ANCS38K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B01ANCS38K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -94,24 +112,6 @@ The Arcteryx Squamish Hoody comes with a hood, full front zip and a front pocket
 
 # Conclusion
 There is probably not much difference between the wind breakers in my buying guide about the best wind jackets and it's more about your own preference towards color and brand. I am wearing the [Arcteryx Squamish Hoody](http://www.backcountry.com/arcteryx-squamish-hooded-jacket-mens) since years and I am quite happy with it. Konstantin just recently got a [Patagonia Houdini](https://www.rei.com/product/893303/patagonia-houdini-jacket-mens) and is also very pleased with it.
-
----
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "bottom";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Wind Jackets Suggestions";
-amzn_assoc_default_search_phrase = "arcteryx wind jacket";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
 
