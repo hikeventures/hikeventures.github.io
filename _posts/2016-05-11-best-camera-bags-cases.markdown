@@ -32,6 +32,24 @@ Overview of the best camera bags for Sony A7 or a6300
 
 ---
 
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Search Results for PFDs";
+amzn_assoc_default_search_phrase = "a6300 accessories";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
 # Best camera bags for hiking and backpacking
 
 When I plan to go hiking or backpacking I would like to have a camera bag where I can easily access my camera. My camera bag should also be water resistant or waterproof if I don't have space to carry my camera in my backpack in case the weather turns bad. Here are the camera bags and cases which I would consider for my next hiking or backpacking trip.
@@ -168,23 +186,6 @@ From my point of view there is no best camera bag which fits every situation but
 
 With the <a href="http://amzn.to/29YPNOV" rel="nofollow">Lowepro Nova Sport 7L</a> in [Northern Norway](http://www.hikeventures.com/Finnmark/).
 
----
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Search Results for PFDs";
-amzn_assoc_default_search_phrase = "a6300 accessories";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 ---
 
 # Disclosure
