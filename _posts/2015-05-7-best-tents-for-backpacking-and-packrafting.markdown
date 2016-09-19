@@ -33,6 +33,24 @@ For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](
 
 ---
 
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Tent Suggestions";
+amzn_assoc_default_search_phrase = "2p tent";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "d851141fbebd325de6befd648bc80425";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
 # The best freestanding and self-supporting tents
 
 ## [Marmot Force UL 2P](http://www.backcountry.com/marmot-force-ul-2p-tent-2-person-3-season)
@@ -243,24 +261,6 @@ If I were to choose a new tent then I would probably choose the [Hilleberg Soulo
 In my opinion the [MSR Hubba Hubba NX](http://www.backcountry.com/msr-hubba-hubba-nx-tent-2-person-3-season) or the [Big Agnes Fly Creek HV UL1](https://www.rei.com/product/895953/big-agnes-fly-creek-hv-ul1-tent) are the best 3-season tents available. However, we also found that the thin floor fabric on the MSR Hubba Hubba NX could cause an issue if you are planning to camp a lot or you just have to be a bit careful where you pitch your tent. I would probably not consider buying the new MSR Carbon Reflex or MSR FreeLite tents as they are having an even thinner floor fabric than the MSR Hubba NX. However, if you don't mind their delicate fabric then they are one of the best tents if you want to be fast and light on the trail. There is also the [MSR Hubba Gear Shed](http://www.moosejaw.com/moosejaw/shop/product_MSR-Hubba-Gear-Shed_10271838_10208_10000001_-1_) available which you can attach to the MSR Hubba NX or the MSR Hubba Hubba NX. The gear shed could be quite useful to protect your gear.
 
 If you do winter camping then it's probably a good idea to get an even bigger tent like the [Hilleberg Kaitum](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Kaitum-2-Person-Tent_10101437_10208_10000001_-1_) or [Nammatj](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Nammatj-GT-2-Person-Tent_10101469_10208_10000001_-1_).
-
----
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Tent Suggestions";
-amzn_assoc_default_search_phrase = "2p tent";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "d851141fbebd325de6befd648bc80425";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
 
