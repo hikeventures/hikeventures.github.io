@@ -20,7 +20,7 @@ Currently, I am using the Black Diamond Ultra Distance Z-Poles which are not mad
 
 ---
 
-# Overview of the best trekking and snowshoeing poles for 2016
+# The best trekking and snowshoeing poles 2016
 
 | Product | Weight |
 | :--- | :---: |
