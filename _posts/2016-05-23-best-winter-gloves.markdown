@@ -39,6 +39,24 @@ However, you can also just take your main gloves off and operate your camera by 
 
 ---
 
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Winter Gloves Suggestions";
+amzn_assoc_default_search_phrase = "hestra army leather heli";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "ec4b1ecaff9224e05d5eb9b30680ad1a";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
 
 # Best Mittens
 
@@ -128,24 +146,6 @@ Not that expensive like the Arc'teryx Gothic Glove the Icebreaker Oasis 200 Glov
 
 # Conclusion
 My personal preference goes towards the [Hestra Army Leather Heli 3-Finger Glove](http://www.backcountry.com/hestra-heli-3-finger-glove "Hestra Army Leather Heli 3-Finger Glove"). I need to have one finger freely moving around to control my camera without having to take off my gloves all the time. At the same time this glove keeps the fingers warm which I don't need to operate my camera. However, if you are looking for the ultimate in warmth then you should probably go for [mittens](http://www.backcountry.com/hestra-heli-mitt). If the liners which are provided with the gloves are too warm you can either remove them or replace them with thinner merino liner gloves.
-
----
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Winter Gloves Suggestions";
-amzn_assoc_default_search_phrase = "hestra army leather heli";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "ec4b1ecaff9224e05d5eb9b30680ad1a";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
 
