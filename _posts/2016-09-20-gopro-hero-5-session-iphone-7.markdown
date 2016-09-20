@@ -1,5 +1,5 @@
 ---
-title: GoPro Hero 5 Black, GoPro Hero 5 Session or Iphone 7 for outdoor videos? Which is better?
+title: GoPro Hero 5 Black, GoPro Hero 5 Session or Iphone 7 for outdoor action videos? Which one is better?
 description: Your next Outdoor Camera? GoPro Hero 5 or iPhone 7?
 date: 2016-09-20 09:20:20
 category: articles
