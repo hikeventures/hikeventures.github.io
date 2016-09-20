@@ -25,7 +25,7 @@ The iPhone 7 can record 4K at 30fps while the GoPro Hero5 cameras can record 30 
 The iPhone has a 12MP camera with an ƒ/1.8 aperture while the GoPro Hero5 Black has a 12MP camera and the GoPro Hero5 Session has a 10 MP camera with ƒ/2.8.
 
 ## Video stabilization
-The GoPro5 Black and Session do have video stabilization while the iPhone 7 does not have such a feature.
+The GoPro5 Black, GoPro Session and the iPhone have image stabilization.
 
 # Conclusion
 Looking at the specifications you can certainly get better pictures with the iPhone 7. The video features are more or less the same and the higher aperture on the GoPro should not make a significant difference during daylight. 
