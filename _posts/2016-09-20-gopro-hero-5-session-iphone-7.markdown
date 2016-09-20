@@ -34,8 +34,6 @@ So which one should you buy? If you are more into hardcore adventures then the G
 
 Certainly, you will also get more scratches on your iPhone 7 screen which is much larger than the camera lens of the GoPro Hero5 Black / Session. 
 
-The iPhone 7 is more for activities which does not involve a lot of shaking since it does not have any built in video stabilization. However, for activities like hiking, backpacking or mountaineering I see the iPhone 7 as a better option than the GoPro 5 Black or Session.
-
 If audio recording is not important to you then you can also get the older <a href="http://amzn.to/2cDRqEi" rel="nofollow">GoPro Session</a> instead and safe some money.
 
 
