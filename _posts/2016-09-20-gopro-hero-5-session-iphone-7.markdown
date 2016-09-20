@@ -38,6 +38,7 @@ The iPhone 7 is more for activities which does not involve a lot of shaking sinc
 
 If audio recording is not important to you then you can also get the older <a href="http://amzn.to/2cDRqEi" rel="nofollow">GoPro Session</a> instead and safe some money.
 
+---
 
 # Discounts
 <div class="row">
@@ -47,6 +48,7 @@ If audio recording is not important to you then you can also get the older <a hr
 </div>
 <br> 
 
+---
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
