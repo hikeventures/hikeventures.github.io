@@ -1,7 +1,7 @@
 ---
 title: GoPro Hero 5 Black and GoPro Hero 5 Session. Worth to upgrade?
 description: Your next Outdoor Camera? GoPro Hero 5 Black or Session?
-date: 2015-08-14 09:20:20
+date: 2016-08-14 09:20:20
 category: articles
 tags:
   - articles
