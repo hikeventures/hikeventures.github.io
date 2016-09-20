@@ -53,7 +53,7 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Search Results from Amazon";
-amzn_assoc_default_search_phrase = "GoPro Hero 5";
+amzn_assoc_default_search_phrase = "GoPro Hero5";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "4ceb5fab457ef9f18ca31d9888299986";
 </script>
