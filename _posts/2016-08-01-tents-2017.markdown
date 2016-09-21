@@ -16,6 +16,8 @@ For 2017 we can expect to see plenty of new tents on the market. The trend goes 
 
 <!--more-->
 
+---
+
 # Overview of the best new backpacking tents for 2017
 
 | Tent | Weight (grams) |
@@ -69,6 +71,17 @@ For 2017 we can expect to see plenty of new tents on the market. The trend goes 
 |MSR H.U.B.	|21770|
 
 > Table is sorted by weight and only contains a selection of brands.
+
+---
+
+# Discounts
+<div class="row">
+  <div class="col-sm-12">
+
+ <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=tent AND 1 person OR tent AND 2 person&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=200&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
+
+  </div>
+</div>
 
 ---
 
@@ -210,17 +223,6 @@ The Vaude Hogan SUL tents are the new ultralight tents from Vaude for 2017. The 
 ---
 
 So which tent should you choose? It's definitely a hard question as there are many high quality tents out there. Do you need a winter tent or a 3-season tent? Idealy, you should buy a dedicated tent for different seasons or purposes to get your best tent for 2017. For example on our [hiking and packrafting trip in Norway](http://www.hikeventures.com/finland-norway/) I have only used a lightweight 3-season tent which I received for testing from a company. I was not that happy with the durability of the inner mesh tent but on the other hand I did not have to carry that much weight and enjoyed my trip.
-
----
-
-# Discounts
-<div class="row">
-  <div class="col-sm-12">
-
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=tent AND 1 person OR tent AND 2 person&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=200&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
-
-  </div>
-</div>
 
 ---
 
