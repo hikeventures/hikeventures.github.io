@@ -36,7 +36,7 @@ Having IP67 on the iPhone is nice but let's face it if you fall or jump into a l
 
 Certainly, you will also get more scratches on your iPhone 7 screen which is much larger than the camera lens of the GoPro Hero5 Black / Session. 
 
-If audio recording is not important to you then you can also get the older <a href="http://amzn.to/2cDRqEi" rel="nofollow">GoPro Session</a> instead and safe some money.
+If audio recording is not important to you then you can also get the older <a href="http://amzn.to/2cDRqEi" rel="nofollow">GoPro Session</a> instead and save some money.
 
 
 ---
