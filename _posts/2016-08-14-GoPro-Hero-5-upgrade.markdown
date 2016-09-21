@@ -38,8 +38,15 @@ The GoPro Hero5 Black has also a touch screen while you have to buy a separate t
 ## Location Capture
 The GoPro Hero5 offers location capture so you always know where you have recorded your video.
 
+## Voice control
+The Hero5 models can be operated by voice control. Just say "GoPro start recording".
+
 # Conclusion
-Now the question remains if you should upgrade from your GoPro Hero4 Black to the GoPro Hero5 Black. Well, if you need Video stabilization and want to record audio when you do water sports then the GoPro Hero 5 Black is definitely the camera you should upgrade to. Since it also comes with a touch screen you can safe another 70 EUR in buying an additional touchscreen for your GoPro Hero4 Black. I also found the price quire reasonable with only 400 EUR which is 100 EUR less than what you have paid when the GoPro Hero4 Black came out. If you you don't need image stabilization, location capture and raw images then you should definitely look into the new GoPro Session as well as it offers the same specs as the regular model just in a smaller camera body.
+Now the question remains if you should upgrade from your GoPro Hero4 Black to the GoPro Hero5 Black. Well, if you need Video stabilization and want to record audio when you do water sports then the GoPro Hero 5 Black is definitely the camera you should upgrade to. Since the GoPro Hero 5 Black also comes with a touch screen you can safe another 70 EUR than buying an additional touchscreen for your GoPro Hero4 Black. 
+
+I also found the price of the Hero5 Black quite reasonable with only 400 EUR which is 100 EUR less than what you have paid when the GoPro Hero4 Black came out. 
+
+If you you don't need location capture and raw images then you should definitely look into the new GoPro Session as well as it offers the same specs as the regular model just in a smaller camera body.
 
 
 ---
