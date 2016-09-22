@@ -1,0 +1,51 @@
+---
+title: The SanDisk UHS-II 1TB SDXC on a Sony A7 and as a possible SSD alternative. 
+description: Could SD cards replace your SSD drive in the future?
+date: 2016-09-22 06:50:20
+category: articles
+tags:
+  - articles
+  - cameras
+layout: post
+---
+Sandisk has recently introduced it's new SanDisk 1TB SDXC card which could be quite interesting if you take a lot of pictures and videos on your trip. Even so the Sony A7 does not support UHS-II the benefit of USH-II are more visible when reading the files into your computer. In addition you have a future proof SD card for future camera generations.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/16507482946/in/photolist-qGQmse-q3hwoU-r9HdQA-r9HdZU-qUxN4g-rbV4BL-qUxNTH-rbRHKM-qUxP2D-qWZDDU-rc1DjZ-qfcV5n-qUxKka-r9HayW-qffws2-qUzE8R-qUrFbG-q6yz5f-qUxPwM-qGRYcg-qUqAaj-qeZFSf-qUqAsU-qfcWc2-qUqwrC-qeZGDf-rc1F5c-qUqAQh-qUqBzd-qUzEbM-qfcXtF-q3uXXe-rc1Fx6-rbVb1C-qUxL2v-r9KRpJ-qFsUGz-qUxRW6-qUrMdb-qeZAQ1-qUrFf9-r9Hc7q-qUrMpy-qSuGqw-rc1AL2-qUzEQT-r9Hcwo-qUzF2p-q3huqW-pvvkzn" title="Sandisk 1TB UHS-II Sony A7"><img src="https://c3.staticflickr.com/9/8617/16507482946_94d0b3ba64_k.jpg" width="2048" height="1536" alt="Lapland Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<!--more-->
+
+Currently, I have no computer available at home since I am waiting for the new Macbook Pro to be released and I need to have my files and data available on a different computer. As I don't want to carry a hard drive with me I just use my SD cards as my mobile drive ... and it works. 
+
+Price aside, being able to store 1TB on a SD card is just amazing. Of course, I could also buy a simple 1 TB hard drive which is probably a cheaper solution but it's just more bulky. 
+
+However, looking into the future I believe that SD cards could be a great option to carry your data in your wallet. You can easily take them everywhere with you to store your day to day files but also use them to take pictures. At the same time you backup your files to the cloud.
+
+If you think that the new SanDisk 1TB SDXC card is too expensive then you could also just buy a few smaller SD UHS-II cards to store your data which is also a safer option in case one of your SD cards fails in the field. Just make sure that those cards are SD UHS-II cards so you could use them for example with the <a href="Sandisk Extreme PRO Card Reader" target="_blank" rel="nofollow">Sandisk Extreme PRO Card Reader</a> to increase the reading speed on your computer if your computer does not support UHS-II cards yet.
+
+## What about the speed?
+The read speed of UHS-II cards is 280MB/s while the write speed is 250MB/s.
+On the other hand SSD cards like the new portable <a href="http://amzn.to/2cSwzhm" rel="nofollow" target="_blank">Samsung T3</a> have a data transfer speed of 450MB/s. 
+
+## Workflow
+I usually copy the files I am planning to work with to my internal SSD drive on my Macbook before I start working with them. I constantly backup all my files stored on my computer and on my external drives to the cloud. 
+
+## Conclusion
+If speed is more important to you then you should consider the <a href="http://amzn.to/2cSwzhm" rel="nofollow" target="_blank">Samsung T3 SSD</a>. If you are looking for the smallest portable solution to store your data then UHS-II cards (e.g. from SanDisk or Lexar) are the way to go from my point of view. 
+
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Search Results from Amazon";
+amzn_assoc_default_search_phrase = "UHS-II";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "fe4c4db1f2e2065051a866f3cb6a49a5";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
