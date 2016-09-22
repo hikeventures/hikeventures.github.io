@@ -8,7 +8,7 @@ tags:
   - cameras
 layout: post
 ---
-Sandisk has recently introduced it's new SanDisk 1TB SDXC card which could be quite interesting if you take a lot of pictures and videos on your trip. Even so the Sony A7 does not support UHS-II the benefit of USH-II are more visible when reading the files into your computer. In addition you have a future proof SD card for future camera generations.
+Sandisk has recently introduced it's new SanDisk 1TB SDXC card which could be quite interesting if you take a lot of pictures and videos on your trip. Even so the Sony A7 does not support UHS-II the benefit of USH-II are more visible when reading the files into your computer. In addition you have a future-proof SD card for future camera generations.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/16507482946/in/photolist-qGQmse-q3hwoU-r9HdQA-r9HdZU-qUxN4g-rbV4BL-qUxNTH-rbRHKM-qUxP2D-qWZDDU-rc1DjZ-qfcV5n-qUxKka-r9HayW-qffws2-qUzE8R-qUrFbG-q6yz5f-qUxPwM-qGRYcg-qUqAaj-qeZFSf-qUqAsU-qfcWc2-qUqwrC-qeZGDf-rc1F5c-qUqAQh-qUqBzd-qUzEbM-qfcXtF-q3uXXe-rc1Fx6-rbVb1C-qUxL2v-r9KRpJ-qFsUGz-qUxRW6-qUrMdb-qeZAQ1-qUrFf9-r9Hc7q-qUrMpy-qSuGqw-rc1AL2-qUzEQT-r9Hcwo-qUzF2p-q3huqW-pvvkzn" title="Sandisk 1TB UHS-II Sony A7"><img src="https://c3.staticflickr.com/9/8617/16507482946_94d0b3ba64_k.jpg" width="2048" height="1536" alt="Sandisk 1TB UHS-II Sony A7"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
