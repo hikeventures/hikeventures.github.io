@@ -13,10 +13,10 @@ Camping Gear Deals at  <a target="_blank" rel="nofollow" href="https://www.amazo
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15328753858/in/photolist-pCTf3y-pozkf1-pF3Zwy-pAZPNu-pD1wwh-pAZQiY-pAZPWW-pCLoYP-pCLp1x-pmxtmC-pmxStC-pD3Anc-pD1xwd-pD3As2-pmyib2-pxKTst-pggNrb-oUdAx3-gMCaYa-gMDbTT-gMCfAh" title="HikeVentures Tidbits Gear Trip Report Photography News"><img src="https://c3.staticflickr.com/4/3932/15328753858_16a537c062_o.jpg" width="1314" height="877" alt="HikeVentures Tidbits Gear Trip Report Photography News"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-GoPro released it's [Karma Drone](https://www.bhphotovideo.com/c/product/1283469-REG/gopro_rkwxx_001_karma_core_quadcopter.html/BI/19674/KBID/12320/kw/GOKC/DFF/d10-v2-t1-xGOKC)   
+GoPro released it's [Karma Drone](https://www.bhphotovideo.com/c/product/1283469-REG/gopro_rkwxx_001_karma_core_quadcopter.html/BI/19674/KBID/12320/kw/GOKC/DFF/d10-v2-t1-xGOKC).   
 [Flickr Marketplace](http://www.dpreview.com/news/7241326722/flickr-marketplace-image-licensing-program-shuttered) is shutting down.   
 [Lightroom 6.7](http://blogs.adobe.com/lightroomjournal/2016/09/lightroom-cc-2015-7-now-available.html) is out.   
-Sandisk announced it's new [1TB UHS-II SD card](https://www.sandisk.com/about/media-center/press-releases/2016/western-digital-demonstrates-prototype-of-the-worlds-first-1terabyte-SDXC-card)   
+Sandisk announced it's new [1TB UHS-II SD card](https://www.sandisk.com/about/media-center/press-releases/2016/western-digital-demonstrates-prototype-of-the-worlds-first-1terabyte-SDXC-card).   
 Book Review: [Thru Hiking will break your heart](http://campfirechic.com/2016/09/thru-hiking-will-break-your-heart.html).   
 [Alps Mountaineering Featherlite Air Mat][1] review.   
 [Haglofs Gram Comp 25 Backpack][2] review.   
