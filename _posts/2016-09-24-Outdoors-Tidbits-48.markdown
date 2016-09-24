@@ -118,7 +118,6 @@ Trail Meal:[Great tasting meals to make in your Windburner Stove](http://s454105
 
 <A href="http://www.bhphotovideo.com/find/dealZone.jsp?BI=19674&KW=&KBID=12320&img=bh_dealzone-200x250.gif">
 <img src="http://www.bhphotovideo.com/images/affiliateimages/bh_dealzone-200x250.gif" border="0"></a>
-<img src="http://affiliates.bhphotovideo.com/showban.asp?id=12320&img=bh_dealzone-200x250.gif" border=0>
 
 ---
 
