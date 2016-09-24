@@ -22,7 +22,6 @@ Book Review: [Thru Hiking will break your heart](http://campfirechic.com/2016/09
 [Haglofs Gram Comp 25 Backpack Review][2] by Outdoors Fathers.   
 [Inov-8 Evoskin](http://bushcraft.at/review-inov-8-evoskin/) review.   
 [Travel Chair](http://www.missourihowell.com/2016/09/23/gear-review-travelchair/) review.   
-Top five women's [mountain bikes](http://thegirloutdoors.co.uk/2016/09/23/top-five-ladies-mountain-bikes-2016/).   
 [Outdoor Research Whirlwind Hoody](http://www.littlegrunts.com/outdoor-research-whirlwind-hoody-orinsightlab/).   
 [Patagonia Nano Puff Hoody](https://thebigoutside.com/review-patagonia-nano-puff-hoody/).   
 A review about the [Deuter Speed Lite 20 Daypack](https://thebigoutside.com/gear-review-deuter-speed-lite-20-daypack/).   
