@@ -21,17 +21,100 @@ Camping Gear Deals at <a target="_blank" href="https://www.amazon.com/s/ref=amb_
 
 ---
 
-## Gear Reviews
+# Photography News
+
+[Flickr Marketplace](http://www.dpreview.com/news/7241326722/flickr-marketplace-image-licensing-program-shuttered) is shutting down.
+
+[Lightroom 6.7](http://www.dpreview.com/news/9412105592/adobe-lightroom-cc-2015-7-and-lightroom-6-7-available-now) is out.
+
+[Sandisk 1TB SD card](http://www.dpreview.com/news/2261035063/sandisk-1tb-sdxc-card-prototype-unveiled-at-photokina)
+
+[](https://gearjunkie.com/gopro-karma-drone)
+
+---
+
+# Gear Reviews
+
 [Alps Mountaineering Featherlite Air Mat Review ][1] by Hiking the Trail
 
 [Haglofs Gram Comp 25 Backpack Review][2] by Outdoors Fathers
+
+[Inov-8 Evoskin](http://bushcraft.at/review-inov-8-evoskin/) review.
+
+[Travel Chair](http://www.missourihowell.com/2016/09/23/gear-review-travelchair/) review.
+
+Top five women's [mountain bikes](http://thegirloutdoors.co.uk/2016/09/23/top-five-ladies-mountain-bikes-2016/)
+
+[Outdoor Research Whirlwind Hoody](http://www.littlegrunts.com/outdoor-research-whirlwind-hoody-orinsightlab/)
+
+[Patagonia Nano Puff Hoody](https://thebigoutside.com/review-patagonia-nano-puff-hoody/)
+
+https://thebigoutside.com/gear-review-deuter-speed-lite-20-daypack/
+
+http://www.littlegrunts.com/black-diamond-dawn-wall-hoodie-review/
+
+http://www.thealpinestart.com/2016/09/review-helinox-cot-lite/
+
 ---
 
-## Trip Reports
+# Trip Reports
+
+Packrafting in [Vätsäri](http://caide.kuvat.fi/blog/47/vatsari%2C+the+king+of+finnish+wilderness+areas)
+
+Planning and preparing for the [Cordillera Huayhuash Circuit](http://appalachiantrailgirl.com/cordillera-huayhuash-circuit-planning-preparing/)
+
+Glen Aulin [Backpacking Trip](http://campfirechic.com/2016/09/glen-aulin-backpacking-trip.html)
+
+Hiking in the [Lüneburger Heide (in German)](https://fotografischereisenundwanderungen.com/2016/09/23/lueneburger-heide-wandern-im-land-der-heidschnucke/)
+
+[Weekend in Alpbachtal (in German)](https://www.berghelden.de/blog/wochenende-alpbachtal/)
+
+[Valley Forge and Montgomery County](http://www.hikingthetrail.com/2016/09/valley-forge-and-montgomery-county-trip-july-2016/) in July
+
+Hiking in [Zillertal, Austria](http://www.gipfel-glueck.de/hoher-riffler-zillertal/)
+
+Hiking [Long Canyon](http://www.modernhiker.com/2016/09/21/hiking-long-canyon/)
+
+[](http://www.bergheimat.net/2016/09/2-tage-am-wolfgangsee-durch-die-seenot.html)
+
+[](http://gipfelfieber.com/2016/09/21/canyoning-extrem-kobelache-alles-geht-den-bach-runter/)
+
+[](http://3upadventures.com/2016/09/21/colorado-13er-brown-mountain/)
+
+[](https://walkingwomad.com/2016/09/21/zermatt/)
+
+[](http://www.modernhiker.com/2016/09/20/hiking-the-pipiwai-trail-to-waimoku-falls/)
+
+[](https://walkingwomad.com/2016/09/20/5-symbolic-miles-along-the-pacific-crest-trail/)
+
+[](http://www.adventure-inspired.com/2016/09/heather-maple-pass-loop-washington.html)
+
+[](http://campfirechic.com/2016/09/thru-hiking-will-break-your-heart.html)
+
+Hiking in [Dartmoor](http://www.twoblondeswalking.com/man-made/)
+
+Hiking in [Corsica](http://www.auf-den-berg.de/wandern/korsika/wanderung-zu-dem-gumpen-von-purcaraccia/) (in German)
+
+[](http://gipfelfieber.com/2016/09/21/canyoning-extrem-kobelache-alles-geht-den-bach-runter/)) (in German)
+
 
 ---
 
-## Photography News
+# Tips and News
+
+Some tips when you [need water](http://blissfulhiking.blogspot.com/2016/09/i-need-water-7-things-you-can-do-in-dry.html)
+
+Self driving [wheel backpack](https://hiking.org/2016/09/22/self-driving-wheel-backpacks/)
+
+(http://mehr-berge.de/vernuenftige-tourenplanung/)
+
+Breaking the [AT record](http://northeastexplorer.com/wordpress/?p=3995)
+
+[](http://www.freshoffthegrid.com/grilled-sweet-potato-fajitas/)
+
+[](http://s454105314.onlinehome.us/msr_blog/5-great-tasting-meals-to-make-in-your-windburner-stove-system/)
+
+[](http://www.hikingthetrail.com/2016/09/7-must-have-items-for-wilderness-survival/)
 
 ---
 
