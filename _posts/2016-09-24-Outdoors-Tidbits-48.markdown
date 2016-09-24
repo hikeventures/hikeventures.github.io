@@ -18,15 +18,15 @@ GoPro released it's [Karma Drone](https://www.bhphotovideo.com/c/product/1283469
 [Lightroom 6.7](http://blogs.adobe.com/lightroomjournal/2016/09/lightroom-cc-2015-7-now-available.html) is out.   
 Sandisk announced it's new [1TB UHS-II SD card](https://www.sandisk.com/about/media-center/press-releases/2016/western-digital-demonstrates-prototype-of-the-worlds-first-1terabyte-SDXC-card)   
 Book Review: [Thru Hiking will break your heart](http://campfirechic.com/2016/09/thru-hiking-will-break-your-heart.html).   
-[Alps Mountaineering Featherlite Air Mat Review ][1] by Hiking the Trail.   
-[Haglofs Gram Comp 25 Backpack Review][2] by Outdoors Fathers.   
+[Alps Mountaineering Featherlite Air Mat][1] review.   
+[Haglofs Gram Comp 25 Backpack][2] review.   
 [Inov-8 Evoskin](http://bushcraft.at/review-inov-8-evoskin/) review.   
 [Travel Chair](http://www.missourihowell.com/2016/09/23/gear-review-travelchair/) review.   
-[Outdoor Research Whirlwind Hoody](http://www.littlegrunts.com/outdoor-research-whirlwind-hoody-orinsightlab/).   
-[Patagonia Nano Puff Hoody](https://thebigoutside.com/review-patagonia-nano-puff-hoody/).   
-A review about the [Deuter Speed Lite 20 Daypack](https://thebigoutside.com/gear-review-deuter-speed-lite-20-daypack/).   
-[Black Diamond Dawn Wall Hoodie](http://www.littlegrunts.com/black-diamond-dawn-wall-hoodie-review/).   
-[Helinox Cot Lite](http://www.thealpinestart.com/2016/09/review-helinox-cot-lite/).   
+[Outdoor Research Whirlwind Hoody](http://www.littlegrunts.com/outdoor-research-whirlwind-hoody-orinsightlab/) review.   
+[Patagonia Nano Puff Hoody](https://thebigoutside.com/review-patagonia-nano-puff-hoody/) review.   
+[Deuter Speed Lite 20 Daypack](https://thebigoutside.com/gear-review-deuter-speed-lite-20-daypack/) review.   
+[Black Diamond Dawn Wall Hoodie](http://www.littlegrunts.com/black-diamond-dawn-wall-hoodie-review/) review.   
+[Helinox Cot Lite](http://www.thealpinestart.com/2016/09/review-helinox-cot-lite/) review.   
 Pepping at the Finnish [Packraft Gathering](http://leftbound.com/blog/2016/09/21/Peeping-At-The-Packraft-Gathering/).   
 Packrafting in [Vätsäri](http://caide.kuvat.fi/blog/47/vatsari%2C+the+king+of+finnish+wilderness+areas).   
 Self driving [wheel backpack](https://hiking.org/2016/09/22/self-driving-wheel-backpacks/).   
