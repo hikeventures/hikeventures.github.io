@@ -8,11 +8,6 @@ tags:
   - tidbits
 layout: post
 ---
-24.02.1919 - The Grand Canyon National Park was established.
-
-Intro bla bla
-
----
 
 Camera & Accessories Deals at <a target="_blank" rel="nofollow" href="https://www.amazon.de/b/?_encoding=UTF8&camp=1638&creative=6742&linkCode=ur2&node=5457338031&pf_rd_i=571860&pf_rd_m=A3JWKAKR8XB7XF&pf_rd_p=1067386747&pf_rd_r=5564YVT458WCD2B30ZR9&pf_rd_s=merchandised-search-leftnav&pf_rd_t=101&site-redirect=de&tag=hikeve-21" rel="nofollow">Amazon.de</a><img src="http://ir-de.amazon-adsystem.com/e/ir?t=hikeve-21&l=ur2&o=3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/>, 
 <a target="_blank" rel="nofollow" href="https://www.amazon.co.uk/discounts-offers-pc-electronics/b/?_encoding=UTF8&camp=1634&creative=6738&linkCode=ur2&node=590987031&tag=hikeve07-21" rel="nofollow">Amazon.co.uk</a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=hikeve07-21&l=ur2&o=2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/>, <a target="_blank" href="https://www.amazon.com/s/ref=s9_acss_bw_ln_camcolla_1_1?rh=i%3Aelectronics%2Cn%3A761198&ie=UTF8&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-leftnav&pf_rd_r=VJHQ4RB0RC82JN9P0705&pf_rd_t=101&pf_rd_p=2580408662&pf_rd_i=502394&_encoding=UTF8&tag=hikeve-20&linkCode=ur2&linkId=71ecc71caff04cc23a9737fbf6aa20a2&camp=1789&creative=9325" rel="nofollow">Amazon.com</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> and <a href="http://www.bhphotovideo.com/find/dealZone.jsp/BI/19674/KBID/12320">Bhphoto</a>.
@@ -22,99 +17,95 @@ Camping Gear Deals at <a target="_blank" href="https://www.amazon.com/s/ref=amb_
 ---
 
 # Photography News
+GoPro released it's [Karma Drone](https://www.bhphotovideo.com/c/product/1283469-REG/gopro_rkwxx_001_karma_core_quadcopter.html/BI/19674/KBID/12320/kw/GOKC/DFF/d10-v2-t1-xGOKC)
 
 [Flickr Marketplace](http://www.dpreview.com/news/7241326722/flickr-marketplace-image-licensing-program-shuttered) is shutting down.
 
-[Lightroom 6.7](http://www.dpreview.com/news/9412105592/adobe-lightroom-cc-2015-7-and-lightroom-6-7-available-now) is out.
+[Lightroom 6.7](http://blogs.adobe.com/lightroomjournal/2016/09/lightroom-cc-2015-7-now-available.html) is out.
 
-[Sandisk 1TB SD card](http://www.dpreview.com/news/2261035063/sandisk-1tb-sdxc-card-prototype-unveiled-at-photokina)
-
-[](https://gearjunkie.com/gopro-karma-drone)
+Sandisk announced it's new [1TB UHS-II SD card](https://www.sandisk.com/about/media-center/press-releases/2016/western-digital-demonstrates-prototype-of-the-worlds-first-1terabyte-SDXC-card)
 
 ---
 
 # Gear Reviews
 
-[Alps Mountaineering Featherlite Air Mat Review ][1] by Hiking the Trail
+Book Review: [Thru Hiking will break your heart](http://campfirechic.com/2016/09/thru-hiking-will-break-your-heart.html).
 
-[Haglofs Gram Comp 25 Backpack Review][2] by Outdoors Fathers
+[Alps Mountaineering Featherlite Air Mat Review ][1] by Hiking the Trail.
+
+[Haglofs Gram Comp 25 Backpack Review][2] by Outdoors Fathers.
 
 [Inov-8 Evoskin](http://bushcraft.at/review-inov-8-evoskin/) review.
 
 [Travel Chair](http://www.missourihowell.com/2016/09/23/gear-review-travelchair/) review.
 
-Top five women's [mountain bikes](http://thegirloutdoors.co.uk/2016/09/23/top-five-ladies-mountain-bikes-2016/)
+Top five women's [mountain bikes](http://thegirloutdoors.co.uk/2016/09/23/top-five-ladies-mountain-bikes-2016/).
 
-[Outdoor Research Whirlwind Hoody](http://www.littlegrunts.com/outdoor-research-whirlwind-hoody-orinsightlab/)
+[Outdoor Research Whirlwind Hoody](http://www.littlegrunts.com/outdoor-research-whirlwind-hoody-orinsightlab/).
 
-[Patagonia Nano Puff Hoody](https://thebigoutside.com/review-patagonia-nano-puff-hoody/)
+[Patagonia Nano Puff Hoody](https://thebigoutside.com/review-patagonia-nano-puff-hoody/).
 
-https://thebigoutside.com/gear-review-deuter-speed-lite-20-daypack/
+A review about the [Deuter Speed Lite 20 Daypack](https://thebigoutside.com/gear-review-deuter-speed-lite-20-daypack/).
 
-http://www.littlegrunts.com/black-diamond-dawn-wall-hoodie-review/
+[Black Diamond Dawn Wall Hoodie](http://www.littlegrunts.com/black-diamond-dawn-wall-hoodie-review/).
 
-http://www.thealpinestart.com/2016/09/review-helinox-cot-lite/
+[Helinox Cot Lite](http://www.thealpinestart.com/2016/09/review-helinox-cot-lite/).
 
 ---
 
 # Trip Reports
 
-Packrafting in [Vätsäri](http://caide.kuvat.fi/blog/47/vatsari%2C+the+king+of+finnish+wilderness+areas)
+Packrafting in [Vätsäri](http://caide.kuvat.fi/blog/47/vatsari%2C+the+king+of+finnish+wilderness+areas).
 
-Planning and preparing for the [Cordillera Huayhuash Circuit](http://appalachiantrailgirl.com/cordillera-huayhuash-circuit-planning-preparing/)
+Planning and preparing for the [Cordillera Huayhuash Circuit](http://appalachiantrailgirl.com/cordillera-huayhuash-circuit-planning-preparing/).
 
-Glen Aulin [Backpacking Trip](http://campfirechic.com/2016/09/glen-aulin-backpacking-trip.html)
+Glen Aulin [Backpacking Trip](http://campfirechic.com/2016/09/glen-aulin-backpacking-trip.html).
 
-Hiking in the [Lüneburger Heide (in German)](https://fotografischereisenundwanderungen.com/2016/09/23/lueneburger-heide-wandern-im-land-der-heidschnucke/)
+Hiking in the [Lüneburger Heide (in German)](https://fotografischereisenundwanderungen.com/2016/09/23/lueneburger-heide-wandern-im-land-der-heidschnucke/).
 
-[Weekend in Alpbachtal (in German)](https://www.berghelden.de/blog/wochenende-alpbachtal/)
+[Weekend in Alpbachtal (in German)](https://www.berghelden.de/blog/wochenende-alpbachtal/).
 
-[Valley Forge and Montgomery County](http://www.hikingthetrail.com/2016/09/valley-forge-and-montgomery-county-trip-july-2016/) in July
+[Valley Forge and Montgomery County](http://www.hikingthetrail.com/2016/09/valley-forge-and-montgomery-county-trip-july-2016/) in July.
 
-Hiking in [Zillertal, Austria](http://www.gipfel-glueck.de/hoher-riffler-zillertal/)
+Hiking in [Zillertal, Austria](http://www.gipfel-glueck.de/hoher-riffler-zillertal/).
 
-Hiking [Long Canyon](http://www.modernhiker.com/2016/09/21/hiking-long-canyon/)
+Hiking [Long Canyon](http://www.modernhiker.com/2016/09/21/hiking-long-canyon/).
 
-[](http://www.bergheimat.net/2016/09/2-tage-am-wolfgangsee-durch-die-seenot.html)
+[Wolgangsee](http://www.bergheimat.net/2016/09/2-tage-am-wolfgangsee-durch-die-seenot.html) (in German).
 
-[](http://gipfelfieber.com/2016/09/21/canyoning-extrem-kobelache-alles-geht-den-bach-runter/)
+Canoyoning in the [Kobelache](http://gipfelfieber.com/2016/09/21/canyoning-extrem-kobelache-alles-geht-den-bach-runter/)(in German).
 
-[](http://3upadventures.com/2016/09/21/colorado-13er-brown-mountain/)
+Colorado 13er [Brown Mountain](http://3upadventures.com/2016/09/21/colorado-13er-brown-mountain/).
 
-[](https://walkingwomad.com/2016/09/21/zermatt/)
+[Zermatt](https://walkingwomad.com/2016/09/21/zermatt/).
 
-[](http://www.modernhiker.com/2016/09/20/hiking-the-pipiwai-trail-to-waimoku-falls/)
+[Pipiwai Trail to Waimoku Falls](http://www.modernhiker.com/2016/09/20/hiking-the-pipiwai-trail-to-waimoku-falls/).
 
-[](https://walkingwomad.com/2016/09/20/5-symbolic-miles-along-the-pacific-crest-trail/)
+5 symbolic miles on the [PCT](https://walkingwomad.com/2016/09/20/5-symbolic-miles-along-the-pacific-crest-trail/).
 
-[](http://www.adventure-inspired.com/2016/09/heather-maple-pass-loop-washington.html)
+[Heather Maple Pass Loop](http://www.adventure-inspired.com/2016/09/heather-maple-pass-loop-washington.html) Washington.
 
-[](http://campfirechic.com/2016/09/thru-hiking-will-break-your-heart.html)
+Hiking in [Dartmoor](http://www.twoblondeswalking.com/man-made/).
 
-Hiking in [Dartmoor](http://www.twoblondeswalking.com/man-made/)
-
-Hiking in [Corsica](http://www.auf-den-berg.de/wandern/korsika/wanderung-zu-dem-gumpen-von-purcaraccia/) (in German)
-
-[](http://gipfelfieber.com/2016/09/21/canyoning-extrem-kobelache-alles-geht-den-bach-runter/)) (in German)
-
+Hiking in [Corsica](http://www.auf-den-berg.de/wandern/korsika/wanderung-zu-dem-gumpen-von-purcaraccia/) (in German).
 
 ---
 
 # Tips and News
 
-Some tips when you [need water](http://blissfulhiking.blogspot.com/2016/09/i-need-water-7-things-you-can-do-in-dry.html)
+Some tips when you [need water](http://blissfulhiking.blogspot.com/2016/09/i-need-water-7-things-you-can-do-in-dry.html).
 
-Self driving [wheel backpack](https://hiking.org/2016/09/22/self-driving-wheel-backpacks/)
+Self driving [wheel backpack](https://hiking.org/2016/09/22/self-driving-wheel-backpacks/).
 
-(http://mehr-berge.de/vernuenftige-tourenplanung/)
+How to [plan](http://mehr-berge.de/vernuenftige-tourenplanung/) your trip (in German).
 
-Breaking the [AT record](http://northeastexplorer.com/wordpress/?p=3995)
+Breaking the [AT record](http://northeastexplorer.com/wordpress/?p=3995).
 
-[](http://www.freshoffthegrid.com/grilled-sweet-potato-fajitas/)
+Trail Meal: [Grilled Sweet Potato Fajitas](http://www.freshoffthegrid.com/grilled-sweet-potato-fajitas/).
 
-[](http://s454105314.onlinehome.us/msr_blog/5-great-tasting-meals-to-make-in-your-windburner-stove-system/)
+Trail Meal:[Great tasting meals to make in your Windburner Stove](http://s454105314.onlinehome.us/msr_blog/5-great-tasting-meals-to-make-in-your-windburner-stove-system/).
 
-[](http://www.hikingthetrail.com/2016/09/7-must-have-items-for-wilderness-survival/)
+[Must have items](http://www.hikingthetrail.com/2016/09/7-must-have-items-for-wilderness-survival/) for wilderness survival.
 
 ---
 
