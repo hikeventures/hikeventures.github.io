@@ -18,8 +18,8 @@ GoPro released it's [Karma Drone](https://www.bhphotovideo.com/c/product/1283469
 [Lightroom 6.7](http://blogs.adobe.com/lightroomjournal/2016/09/lightroom-cc-2015-7-now-available.html) is out.   
 Sandisk announced it's new [1TB UHS-II SD card](https://www.sandisk.com/about/media-center/press-releases/2016/western-digital-demonstrates-prototype-of-the-worlds-first-1terabyte-SDXC-card).   
 Book Review: [Thru Hiking will break your heart](http://campfirechic.com/2016/09/thru-hiking-will-break-your-heart.html).   
-[Alps Mountaineering Featherlite Air Mat][1] review.   
-[Haglofs Gram Comp 25 Backpack][2] review.   
+[Alps Mountaineering Featherlite Air Mat][http://www.hikingthetrail.com/2016/09/alps-mountaineering-featherlite-air-mat-review/] review.   
+[Haglofs Gram Comp 25 Backpack][http://www.outdoorsfather.com/2016/09/gear-review-haglofs-gram-comp-25-backpack/] review.   
 [Inov-8 Evoskin](http://bushcraft.at/review-inov-8-evoskin/) review.   
 [Travel Chair](http://www.missourihowell.com/2016/09/23/gear-review-travelchair/) review.   
 [Outdoor Research Whirlwind Hoody](http://www.littlegrunts.com/outdoor-research-whirlwind-hoody-orinsightlab/) review.   
@@ -36,10 +36,6 @@ Trail Meal:[Great tasting meals to make in your Windburner Stove](http://s454105
 ---
    
 Want to see your blog post here as well?   
-Submit a message with a link to your article [here][3] and we may publish it.
+Submit a message with a link to your article [here][http://www.hikeventures.com/Outdoors-Tidbits-48/] and we may publish it.
 
 ---
-
-[1]:	http://www.hikingthetrail.com/2016/09/alps-mountaineering-featherlite-air-mat-review/ "Alps Mountaineering Featherlite Air Mat Review"
-[2]:	http://www.outdoorsfather.com/2016/09/gear-review-haglofs-gram-comp-25-backpack/
-[3]:	https://www.facebook.com/HikeVentures/
