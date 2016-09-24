@@ -33,7 +33,7 @@ Self driving [wheel backpack](https://hiking.org/2016/09/22/self-driving-wheel-b
 Trail Meal: [Grilled Sweet Potato Fajitas](http://www.freshoffthegrid.com/grilled-sweet-potato-fajitas/).   
 Trail Meal:[Great tasting meals to make in your Windburner Stove](http://s454105314.onlinehome.us/msr_blog/5-great-tasting-meals-to-make-in-your-windburner-stove-system/).   
    
-Want to see your blog post here as well? Submit a link to your article [here][3] and we may publish it.
+Want to see your blog post here as well? Submit a message with a link to your article [here][3] and we may publish it.
 
 [1]:	http://www.hikingthetrail.com/2016/09/alps-mountaineering-featherlite-air-mat-review/ "Alps Mountaineering Featherlite Air Mat Review"
 [2]:	http://www.outdoorsfather.com/2016/09/gear-review-haglofs-gram-comp-25-backpack/
