@@ -60,6 +60,8 @@ A review about the [Deuter Speed Lite 20 Daypack](https://thebigoutside.com/gear
 
 # Trip Reports
 
+Pepping at the Finnish [Packraft Gathering](http://leftbound.com/blog/2016/09/21/Peeping-At-The-Packraft-Gathering/).
+
 Packrafting in [Vätsäri](http://caide.kuvat.fi/blog/47/vatsari%2C+the+king+of+finnish+wilderness+areas).
 
 Planning and preparing for the [Cordillera Huayhuash Circuit](http://appalachiantrailgirl.com/cordillera-huayhuash-circuit-planning-preparing/).
@@ -120,7 +122,7 @@ Trail Meal:[Great tasting meals to make in your Windburner Stove](http://s454105
 
 ---
 
-Want to see your blog post here as well? Submit a link to your article [here][3] and we may select it.
+Want to see your blog post here as well? Submit a link to your article [here][3] and we may publish it.
 
 [1]:	http://www.hikingthetrail.com/2016/09/alps-mountaineering-featherlite-air-mat-review/ "Alps Mountaineering Featherlite Air Mat Review"
 [2]:	http://www.outdoorsfather.com/2016/09/gear-review-haglofs-gram-comp-25-backpack/
