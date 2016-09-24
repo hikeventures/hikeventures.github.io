@@ -27,6 +27,12 @@ Sandisk announced it's new [1TB UHS-II SD card](https://www.sandisk.com/about/me
 
 ---
 
+<A href="http://www.bhphotovideo.com/find/dealZone.jsp?BI=19674&KW=&KBID=12320&img=bh_dealzone-200x250.gif">
+<img src="http://www.bhphotovideo.com/images/affiliateimages/bh_dealzone-200x250.gif" border="0"></a>
+<img src="http://affiliates.bhphotovideo.com/showban.asp?id=12320&img=bh_dealzone-200x250.gif" border=0>
+
+---
+
 # Gear Reviews
 
 Book Review: [Thru Hiking will break your heart](http://campfirechic.com/2016/09/thru-hiking-will-break-your-heart.html).
