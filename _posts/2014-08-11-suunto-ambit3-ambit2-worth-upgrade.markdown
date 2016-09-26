@@ -31,7 +31,7 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Suunto Spartan on Amazon";
-amzn_assoc_default_search_phrase = "suunto spartan";
+amzn_assoc_default_search_phrase = "Suunto Spartan";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "edb1d00e614ad3a35eb0a5421405645c";
 </script>
