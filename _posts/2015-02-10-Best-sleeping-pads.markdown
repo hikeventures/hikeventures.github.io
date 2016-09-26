@@ -41,24 +41,6 @@ In this blog post you can find the best lightweight sleeping pads available in 2
 
 ---
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Sleeping Pad Suggestions";
-amzn_assoc_default_search_phrase = "Thermarest NeoAir";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "b584bb12b91da85107bc0ed5aa6d043f";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
----
-
 ## [Therm-a-Rest NeoAir XLite](https://www.rei.com/product/881574/therm-a-rest-neoair-xlite-sleeping-pad)
 
 **R-Value:** 3.2   
@@ -177,9 +159,21 @@ New sleeping pads usually come with a field repair kit. However, sometimes you m
 
 ---
 
-<img src="https://farm6.staticflickr.com/5590/14925237036_4743bca2f4_b.jpg" width="1024" height="683" alt="Exped Synmat UL 7 and Exped Air Pillow">
-    
-[Exped Synmat UL 7](https://www.rei.com/product/811907/exped-synmat-ul-7-air-pad)
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Sleeping Pad Suggestions";
+amzn_assoc_default_search_phrase = "Thermarest NeoAir";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "b584bb12b91da85107bc0ed5aa6d043f";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
 
