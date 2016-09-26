@@ -21,6 +21,24 @@ Checking the altitude in [Finnish Lapland][1] with the Ambit3.
 
 ---
 
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "true";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "GPS Outdoor Watches";
+amzn_assoc_default_search_phrase = "suunto spartan";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "edb1d00e614ad3a35eb0a5421405645c";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
 # Connectivity
 The Suunto Ambit 3 allows you to connect the watch with a tablet or smartphone via Bluetooth. You can also synchronise pictures on your smartphone with data from the Suunto Ambit3. There is no USB cable needed anymore to transfer data from your watch to your computer. This should also have an impact on the lifespan of the battery of the watch.
 
@@ -134,24 +152,6 @@ The Suunto watches also work great together with an e.g. iPhone which can be use
 **Update (19.04.2016):** Suunto has released the <a href="http://www.suunto.com/Products/sports-watches/Suunto-Traverse-Alpha/Suunto-Traverse-Alpha-Foliage/">Traverse Alpha</a> which adds features for hunting and fishing to the regular Traverse. It's also a bit more expensive than the regular Traverse.
 
 **Update (7.6.2016):** Suunto has released the [Suunto Spartan](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch) - A premium multisport watch with color display.
-
----
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "true";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "GPS Outdoor Watches";
-amzn_assoc_default_search_phrase = "suunto spartan";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "edb1d00e614ad3a35eb0a5421405645c";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 
 [1]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/
