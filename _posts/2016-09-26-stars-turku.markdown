@@ -1,6 +1,6 @@
 ---
 published: true
-title: Astrophotography - The stars over Turku in Finland with Zeiss Batis 20mm and Sony A7
+title: Astrophotography - The stars over Turku in Finland - Zeiss Batis 20mm and Sony A7
 date: 2016-09-26 08:28:01
 category: article
 tags:
