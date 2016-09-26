@@ -13,7 +13,7 @@ Yesterday, [Caj](http://caide.kuvat.fi), Katja and me went to Ruissalo in Turku 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29308114364/in/dateposted-public/" title="Ruissalo Turku"><img src="https://c5.staticflickr.com/9/8062/29308114364_776d89edfe_k.jpg" width="2048" height="1152" alt="Astrophotography Zeiss Batis 20mm Sony A7 Turku Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<!-- more-- >
+<!--more-->
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29308113654/in/dateposted-public/" title="Ruissalo Turku"><img src="https://c7.staticflickr.com/9/8185/29308113654_a7d9271f7d_k.jpg" width="2048" height="1133" alt="Astrophotography Zeiss Batis 20mm Sony A7 Turku Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
