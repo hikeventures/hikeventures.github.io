@@ -9,7 +9,7 @@ tags:
 layout: post
 ---
 
-Yesterday, [Caj](http://caide.kuvat.fi), Katja and me went to Ruissalo in Turku to do some Astrophotography with our with our cameras. I had a Zeiss Batis 20mm mounted on my Sony A7. Unfortunately, it was not completely dark when we arrived in Ruissalo so we had to wait 1 hours until we could take some proper pictures. However, the milky way was still not properly visible. The pictures are all taken with ISO 1600 and have been a bit modified in Lightroom. The digital control panel on the Zeiss Batis lens really helped in the night to see if the lens is set to infinity.
+Yesterday, [Caj](http://caide.kuvat.fi), Katja and me went to Ruissalo in Turku to try some astrophotography with our with our cameras. I had a Zeiss Batis 20mm mounted on my Sony A7. Unfortunately, it was not completely dark when we arrived in Ruissalo so we had to wait 1 hours until we could take some proper pictures. However, the milky way was still not properly visible. The pictures are all taken with ISO 1600 and have been a bit modified in Lightroom. The digital control panel on the Zeiss Batis lens really helped in the night to see if the lens is set to infinity.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29308114364/in/dateposted-public/" title="Ruissalo Turku"><img src="https://c5.staticflickr.com/9/8062/29308114364_776d89edfe_k.jpg" width="2048" height="1152" alt="Astrophotography Zeiss Batis 20mm Sony A7 Turku Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
