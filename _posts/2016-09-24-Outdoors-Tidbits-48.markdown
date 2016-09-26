@@ -34,6 +34,6 @@ Trail Meal:[Great tasting meals to make in your Windburner Stove](http://s454105
 ---
    
 Want to see a link to your blog post here as well?   
-Submit a message with a link to your article [here](http://www.hikeventures.com/Outdoors-Tidbits-48/) and we may publish it.
+Submit a message with a link [here](http://www.hikeventures.com/Outdoors-Tidbits-48/) and we may publish it next time.
 
 ---
