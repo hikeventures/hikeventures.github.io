@@ -21,7 +21,7 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> 
                      
-            <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27117236211/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://c4.staticflickr.com/8/7435/27117236211_aee9dd55ee_b.jpg" width="100%" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br>   
+            <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27117236211/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://c4.staticflickr.com/8/7435/27117236211_aee9dd55ee_b.jpg" width="100%" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br><br>   
 
             </div>
             
@@ -37,9 +37,7 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> 
             
-            <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25211155704/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://c1.staticflickr.com/2/1543/25211155704_7246941e5b_b.jpg" width="100%" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br><br>
-            <iframe src="https://www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fkonstantin.gridnevskiy&width=0&height=80&layout=standard&size=large&show_faces=true&appId" width="0" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-            
+            <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25211155704/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://c1.staticflickr.com/2/1543/25211155704_7246941e5b_b.jpg" width="100%" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br>
             </div>
 
             <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> 
