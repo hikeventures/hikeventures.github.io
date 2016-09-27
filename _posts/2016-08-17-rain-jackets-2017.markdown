@@ -101,3 +101,10 @@ amzn_assoc_default_category = "Books";
 amzn_assoc_linkid = "7922fa089d307bdc80cd95b1a56dcdf7";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
+# Disclosure
+I have not tested the products mentioned in this article. This list only represents a few brands. This article contains affiliate links.
+
+---
