@@ -27,8 +27,9 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
             
             <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> 
             
-            <a href="https://www.facebook.com/profile.php?id=100009207710788">Patrick</a> was born 1978 in South Germany nearby the Alps where he was hiking and skiing extensively especially in Austria. Having parents from Iran and Austria travelling was always part of Patrick's life. Patrick moved to Finland in 2006 and currently lives on an island in the Archipelago Sea on the South West Coast of Finland which is a great place for exploring some of the 6500 islands by packraft, kayak, bicycle or foot. Patrick has also lived several months in Australia where he was diving with sharks and explored the blue mountains. Moreover, he has also worked in the Swiss mountains for several months which was a perfect place for snowboarding and skiing adventures in powder snow. Having relatives in Canada, Patrick also visited Banff National Park, traveled to China, Thailand, Romania, the Arab Emirates and India.<br><br>
+            <a href="https://www.facebook.com/profile.php?id=100009207710788">Patrick</a> was born 1978 in South Germany nearby the Alps where he was hiking and skiing extensively especially in Austria. Having parents from Iran and Austria travelling was always part of Patrick's life. Patrick moved to Finland in 2006 and currently lives on an island in the Archipelago Sea on the South West Coast of Finland which is a great place for exploring some of the 6500 islands by packraft, kayak, bicycle or foot. Patrick has also lived several months in Australia where he was diving with sharks and explored the blue mountains. Moreover, he has also worked in the Swiss mountains for several months which was a perfect place for snowboarding and skiing adventures in powder snow. Having relatives in Canada, Patrick also visited Banff National Park, traveled to China, Thailand, Romania, the Arab Emirates and India.<br>
             
+ <iframe src="https://www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fpatrickdormischian&width=450&height=80&layout=standard&size=large&show_faces=true&appId" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>           
             
             </div>
  </div></div>
@@ -37,7 +38,7 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"> 
             
             <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25211155704/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://c1.staticflickr.com/2/1543/25211155704_7246941e5b_b.jpg" width="100%" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br>
-            
+            <iframe src="https://www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fkonstantin.gridnevskiy&width=0&height=80&layout=standard&size=large&show_faces=true&appId" width="0" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
             
             </div>
 
