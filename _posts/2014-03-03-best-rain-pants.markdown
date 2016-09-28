@@ -34,22 +34,13 @@ Wearing the [Montane Minimus Pants](http://www.campsaver.com/minimus-pants-men-s
 > Table sorted by weight
 
 ---
- 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "bottom";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Rain Pants Suggestions";
-amzn_assoc_default_search_phrase = "rain pants";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+# Discounts
+<div class="row">
+  <div class="col-sm-12">
+ <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=rain pants men AND the north face OR rain pants men AND Westcomb OR rain pants men AND Mountain Hardwear OR rain pants men AND Montane OR rain pants men AND Berghaus OR rain pants men AND Rab&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=80&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=5&search_results_sort_order=Sale+Price"></script>
+  </div>
+</div>
 
 ---
 
@@ -143,16 +134,6 @@ The Rab Firewall Pants are made for active use during winter. The Rab Firewall p
 
 ---
 
-
-# Discounts
-<div class="row">
-  <div class="col-sm-12">
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=rain pants men AND the north face OR rain pants men AND Westcomb OR rain pants men AND Mountain Hardwear OR rain pants men AND Montane OR rain pants men AND Berghaus OR rain pants men AND Rab&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=70&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
-  </div>
-</div>
-
----
-
 The list I have compiled is sorted by the weight of the pants and not by their performance. Why I sorted them by weight? Well, usually you only wear waterproof pants when it rains. When it stops raining you will pack your waterproof pants back into your backpack. The pants in my list are for emergency situations so they will also pack quite small as the Montane Minimus pants (see picture above). Also consider to take a [waterproof jacket](http://www.hikeventures.com/best-rain-jackets) with you.
 
 ## Which fabric?
@@ -162,6 +143,24 @@ If you are planning to go skiing then you should maybe consider waterproof pants
 You should consider if you really need 3/4 length side zips or pockets on your pants. They are nice to have features but they will come with some additional weight.
 
 I hope you found this article useful to find your best men rain pants in 2016.
+
+---
+ 
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "bottom";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Amazon Search Results";
+amzn_assoc_default_search_phrase = "rain pants";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
 
