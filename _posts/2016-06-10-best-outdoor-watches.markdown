@@ -23,35 +23,66 @@ The watches in my list are sorted by their weight and I have taken the specifica
 
 # Overview of the best outdoor gps watches for 2016
 
-| Model | Weight |
-| :------------- |:-------------:|
-| [Apple Watch Sport 38mm](http://amzn.to/1t7QAFm) | &nbsp; 0.06 lb / 25 g |
-| [Motorola Moto 360 Sport](http://amzn.to/1t7QAFm)      | 0.09 lb / 45 g | 
-| [Garmin Fenix 3](http://www.backcountry.com/garmin-fenix-3-bundle)     | 0.18 lb / 82 g |
-| [Casio WSD-F10](http://amzn.to/1YdNH1H) |  0.2 lb / 93 g |
-| [Suunto Spartan Ultra](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch) |  ? lb / ? g |
+<table>
+<tr>
+<td><strong>Model</strong>
+</td>
+<td><strong>Weight</strong>
+</td>
+</tr>
+<tr>
+<td><a href="http://amzn.to/2dysTQc" rel="nofollow">Apple Watch Sport 42mm</a>
+</td>
+<td>0.06 lb / 34.2 g
+</td>
+</tr>
+<tr>
+<td><a href="http://amzn.to/1t7QAFm" rel="nofollow">Motorola Moto 360 Sport</a>
+</td>
+<td>0.09 lb / 45 g
+</td>
+</tr>
+<tr>
+<td><a href="http://www.backcountry.com/garmin-fenix-3-bundle" rel="nofollow">Garmin Fenix 3</a>
+</td>
+<td>0.18 lb / 82 g
+</td>
+</tr>
+<tr>
+<td><a href="http://amzn.to/1YdNH1H" rel="nofollow">Casio WSD-F10</a>
+</td>
+<td>0.2 lb / 93 g
+</td>
+</tr>
+<tr>
+<td><a href="https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch" rel="nofollow">Suunto Spartan Ultra</a>
+</td>
+<td>0.16 / 73 g
+</td>
+</tr>
+</table>
 
 ---
 
-## <a href="http://amzn.to/1t7QAFm" rel="nofollow">Apple Watch Sport 38mm</a>
+## <a href="http://amzn.to/2dysTQc" rel="nofollow">Apple Watch Series 2 42mm Sport</a>
 
-<a href="https://www.amazon.com/gp/product/B00WP9NFUG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00WP9NFUG&linkCode=as2&tag=hikeve-20&linkId=3200cc07a8c693c957f3fda23a3d495c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00WP9NFUG&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00WP9NFUG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B01LWDOLXJ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LWDOLXJ&linkCode=as2&tag=hikeve-20&linkId=6c2759682407cddfae56b0f8746ba809"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LWDOLXJ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LWDOLXJ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 25 grams  
-**Battery Life:** 18 hours  
-**Operating System:** watchOS 2  
-**Water Resistance:** IPX7 - splash and water resistant but not waterproof      
-**Display:** 272x340   
+**Weight:** 34.2 grams  
+**Battery Life:** 18 hours (not in training mode) 
+**Operating System:** watchOS 3  
+**Water Resistance:** Water resistance rating of 50 meters under ISO standard 22810:2010
+**Display:** 312x319   
 **Touchscreen:** Force Touch   
 **Wi-Fi:** yes   
 **Bluetooth:** 4.0   
-**Heart Rate Monitor:** Heart Rate Sensor   
-**GPS:** via smartphone 
-**Wireless charging:** no   
+**Heart Rate Monitor:** wrist-based   
+**GPS:** yes
+**Wireless charging:** yes   
 
-The Apple Watch Sport 38mm is for those folks who like to have their Apple phone with them. Unfortunately, the Apple Watch (like the Casio WSD-F10) lacks a built in GPS and might not be suited for those who would like to leave their mobile phone at home.
+The Apple watch SERIES 2 42mm is for those folks who like to have their iPhone with them. The new Apple Watch Series 2 also features a built-in GPS and is an excellent choice if you exercise 1-2 hours a day. However, if you are more into multisport or longer cycling or hiking trips I would rather buy the new Suunto Spartan which can be used much longer in training mode than the Apple Watch Series 2. Both watches - the Suunto Spartan and the Apple Watch Series 2 are suitable for swimmers. However, the Apple Watch Series 2 should not be used for diving.
 
-<a href="http://amzn.to/1RWNLvb" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Apple Watch Sport</button></a>
+<a href="http://amzn.to/2dysTQc" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Apple Watch Series 2 Sport</button></a>
 
 ## <a href="http://amzn.to/1t7QAFm" rel="nofollow">Motorola Moto 360 Sport</a>
 
