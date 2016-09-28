@@ -54,7 +54,7 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hik
 <br>
 <br>
 
----
+<hr>
 
 ## [Mountain Hardware Ghost Whisperer Hooded Down Jacket (800 fp)](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens)
 
