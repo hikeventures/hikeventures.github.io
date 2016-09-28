@@ -244,6 +244,8 @@ I went sleeping around 12 pm and woke up the next morning around 8am. We packed 
 
 I had a great week and I am looking forward to visit Finnish Lapland and Norway again. Here is also a [short video](http://www.hikeventures.com/finland-norway/) about our trip.
 
+---
+
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
 amzn_assoc_search_bar = "false";
@@ -259,3 +261,5 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "cf23da51abb156e309d4b850be09dbb5";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
