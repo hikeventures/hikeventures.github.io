@@ -243,3 +243,19 @@ I went sleeping around 12 pm and woke up the next morning around 8am. We packed 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28100355503/in/dateposted-public/" title="Hiking and Packrafting in Finland"><img src="https://c8.staticflickr.com/9/8359/28100355503_7852b4d62d_o.jpg" width="5724" height="3816" alt="Hiking and Packrafting in Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 I had a great week and I am looking forward to visit Finnish Lapland and Norway again. Here is also a [short video](http://www.hikeventures.com/finland-norway/) about our trip.
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Search Results from Amazon";
+amzn_assoc_default_search_phrase = "northern norway";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "cf23da51abb156e309d4b850be09dbb5";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
