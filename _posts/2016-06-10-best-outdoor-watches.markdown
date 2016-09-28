@@ -33,24 +33,6 @@ The watches in my list are sorted by their weight and I have taken the specifica
 
 ---
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Search Results from Amazon";
-amzn_assoc_default_search_phrase = "Apple Watch Series 2";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "586471a69afcbdad2092eabf0fcc4bbc";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
----
-
 ## <a href="http://amzn.to/1t7QAFm" rel="nofollow">Apple Watch Sport 38mm</a>
 
 <a href="https://www.amazon.com/gp/product/B00WP9NFUG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00WP9NFUG&linkCode=as2&tag=hikeve-20&linkId=3200cc07a8c693c957f3fda23a3d495c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00WP9NFUG&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00WP9NFUG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -144,19 +126,21 @@ In general, I found that the Casio WSD-F10 looks quite nice. I like the displays
 
 ## [Suunto Spartan Ultra](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch)
 
-**Weight:** ? grams   
-**Battery Life:** ?   
-**Operating System:** ?   
-**Water Resistance:** ?   
-**Display:** ?   
-**Touchscreen:** ?   
-**Wi-Fi:** ?   
-**Bluetooth:** ?   
-**Heart Rate Monitor:** yes   
-**GPS:** ?   
-**Wireless charging:** ?   
+<a href="https://www.amazon.com/gp/product/B01I05C446/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01I05C446&linkCode=as2&tag=hikeve-20&linkId=c2ad8fc23315853230439ded9ec5099b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01I05C446&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01I05C446" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-The Suunto Spartan is the latest smart watch addition in the Suunto range. Unfortunately, there are no specifications about the Suunto Spartan available yet beside that it's going to be the first Suunto watch which features a colour display. As Suunto watches can be connected to Moveslink - the Suunto Online Sport Community - it is possible to use the Suunto Spartan either with your Android phone or with your iphone. I will updated this section  about the Suunto Spartan in a few weeks.
+**Weight:** 73 grams   
+**Battery Life:** 18 hours (training mode)   
+**Operating System:** 100 meters  
+**Water Resistance:** ?   
+**Display:** 300x300 pixels   
+**Touchscreen:** yes   
+**Wi-Fi:** no   
+**Bluetooth:** yes    
+**Heart Rate Monitor:** yes   
+**GPS:** yes (incl. GLONASS)   
+**Wireless charging:** no   
+
+The Suunto Spartan is the latest smart watch addition in the Suunto range. Unfortunately, there are no specifications about the Suunto Spartan available yet beside that it's going to be the first Suunto watch which features a colour display. As Suunto watches can be connected to Moveslink - the Suunto Online Sport Community - it is possible to use the Suunto Spartan either with your Android phone or with your iPhone. 
 
 <a href="https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch"><button type="button" class="btn btn-danger">Read more about the Suunto Spartan Ultra</button></a>
 
@@ -164,6 +148,24 @@ The Suunto Spartan is the latest smart watch addition in the Suunto range. Unfor
 
 ## Conclusion
 From the currently released outdoor watches with color display I would probably pick the [Garmin Fenix 3](http://www.backcountry.com/garmin-fenix-3-bundle). However, before buying any watch I will wait to see the specifications of the [Suunto Spartan Ultra](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch). As a current [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) user I have already my GPS data stored in [Movescount](http://www.movescount.com/members/member140205-HikeVentures) so switching brands is anyway not an easy option for me. If I would not need a built-in GPS then I would probably buy the <a href="http://amzn.to/1t7QAFm" rel="nofollow">Apple Watch Sport</a> as an Apple phone user or the <a href="http://amzn.to/1t7QAFm" rel="nofollow">Motorola Moto 360 Sport</a> or the <a href="http://amzn.to/1YdNH1H" rel="nofollow">Casio WSD-F10</a> if I would be an Android phone user.
+
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Search Results from Amazon";
+amzn_assoc_default_search_phrase = "Apple Watch Series 2";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "586471a69afcbdad2092eabf0fcc4bbc";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
 
