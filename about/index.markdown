@@ -71,7 +71,7 @@ On some of our pages you will find affiliate links. HikeVentures is a participan
 <hr>
 
 <h1> Disclaimer</h1> 
-We do not guarantee for the correctness of the information on this website. Product recommendations are based on personal views. We are also not responsible for any injuries occurred by following our gear and activities advices. We are not responsible for the actions of your advertisers or sponsors. For example, when you buy a product or service based upon a link from your blog, you must take action with that exact company to resolve any issues, not with us. All the information provided on your blog is for entertainment purposes only.
+We do not guarantee for the correctness of the information on this website. Product recommendations are based on personal views. We are also not responsible for any injuries occurred by following our gear and activities advices. We are not responsible for the actions of your advertisers or sponsors. For example, when you buy a product or service based upon a link from your blog, you must take action with that exact company to resolve any issues, not with us. All the information provided on our blog is for entertainment purposes only.
 
 <hr>
 
