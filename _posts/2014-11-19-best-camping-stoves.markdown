@@ -45,24 +45,6 @@ Konstantin with a [Jetboil stove](http://hikeventures.com/gear-review-jetboil-so
 
 ---
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "bottom";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Camping Stove Suggestions";
-amzn_assoc_default_search_phrase = "Jetboil";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
----
-
 ## [MSR MicroRocket](http://www.backcountry.com/msr-micro-rocket-stove)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00F0BSDO4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F0BSDO4&linkCode=as2&tag=hikeve-20&linkId=GXQ24IC7MGCK4GWX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00F0BSDO4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00F0BSDO4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -162,6 +144,24 @@ It all depends on your requirements. Do you need a simple and lightweight campin
 My preference goes towards a camping stove which boils water quickly and uses low amount of fuel as I am usually traveling with dehydrated food packages where I just have to add boiling water to the food package. My favourite stove for Scandinavia are the [MSR WindBurner](http://www.backcountry.com/msr-windboiler-personal-stove-system) or the [Jetboil MiniMo](http://www.backcountry.com/jetboil-minimo-cooking-system) - both of them can also handle cold temperatures down to -6C while the MSR WinBurner stove can handle wind better than the Jetboil MiniMo.
 
 If you are traveling to different continents then a multi-fuel stove might be the best solution as gas canisters might not be sold everywhere. For winter camping you should probably also consider a multifuel stove like the [MSR XGK EX](http://www.backcountry.com/msr-xgk-ex-stove).
+
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "bottom";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Camping Stove Suggestions";
+amzn_assoc_default_search_phrase = "Jetboil";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
 
