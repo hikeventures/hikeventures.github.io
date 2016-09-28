@@ -199,13 +199,12 @@ amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_title = "Tent Suggestions";
-amzn_assoc_default_search_phrase = "2p tent";
+amzn_assoc_title = "Search Results from Amazon";
+amzn_assoc_default_search_phrase = "tent msr";
 amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "d851141fbebd325de6befd648bc80425";
+amzn_assoc_linkid = "965296fb866182bb89b535202541adda";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
 ---
 
 # How to choose a tent?
