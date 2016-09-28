@@ -168,10 +168,10 @@ amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_title = "Sleeping Pad Suggestions";
-amzn_assoc_default_search_phrase = "Thermarest NeoAir";
+amzn_assoc_title = "Search Results from Amazon";
+amzn_assoc_default_search_phrase = "sleeping pad therm-a-rest";
 amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "b584bb12b91da85107bc0ed5aa6d043f";
+amzn_assoc_linkid = "965296fb866182bb89b535202541adda";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
