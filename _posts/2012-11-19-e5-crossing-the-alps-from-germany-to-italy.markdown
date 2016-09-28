@@ -105,10 +105,21 @@ On our last day we hiked from the Meraner Hut to Bozen and then took the bus bac
 
 ---
 
-## Books
-There is also a book in English about the E5 available: <a href="http://amzn.to/1RpVxO9" rel="nofollow">Across the Eastern Alps: The E5: The E5 from Lake Constance to Verona</a>
-
-<a  href="http://www.amazon.com/gp/product/1852844922/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1852844922&linkCode=as2&tag=hikeve-20&linkId=SBLRW5OEAJM53B25"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1852844922&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=1852844922" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Search Results from Amazon";
+amzn_assoc_default_search_phrase = "hiking european alps";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "cf23da51abb156e309d4b850be09dbb5";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
 
