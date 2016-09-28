@@ -115,8 +115,8 @@ amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_title = "Wind Jackets Suggestions";
-amzn_assoc_default_search_phrase = "arcteryx wind jacket";
+amzn_assoc_title = "Amazon Search Suggestions";
+amzn_assoc_default_search_phrase = "arcteryx squamish";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
 </script>
