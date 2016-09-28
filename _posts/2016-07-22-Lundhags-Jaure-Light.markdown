@@ -9,7 +9,7 @@ tags:
   - Lundhags
   - Boots
 ---
-We are wearing since 1 year the Lundhags Jaure Light High on our trips and got quite excited when Lundhags announced their new Lundhags Jaure Light High II which will be available in the colors Petrol/Bronze and Black Rush and the Lundhags Jaure Light Mid II which will be available in the color  Black/Rush. Even so our boots are relatively new it's always good to hear that the Lundhags Jaure Light High could be even optimized even further.
+We are wearing since 1 year the Lundhags Jaure Light High on our trips which we received from Lundhags for a lower price and got quite excited when Lundhags announced their new Lundhags Jaure Light High II which will be available in the colors Petrol/Bronze and Black Rush and the Lundhags Jaure Light Mid II which will be available in the color  Black/Rush. Even so our boots are relatively new it's always good to hear that the Lundhags Jaure Light High could be even optimized even further.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28187003200/in/dateposted-public/" title="Lundhags Jaure Light High"><img src="https://c1.staticflickr.com/9/8467/28187003200_576ebbf2f0_k.jpg" width="2048" height="1236" alt="Lundhags Jaure Light High"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
