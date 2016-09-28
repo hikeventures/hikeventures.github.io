@@ -170,6 +170,29 @@ The Vasque Breeze 2.0 GTX comes with GORE-TEX® with Extended Comfort Technology
 
 ---
 
+# Conclusion
+A proper hiking shoe is one of the most important item on your hiking gear list. Consider the environment where you would like to hike. Do you want lighter or more stable hiking boots? A higher shaft gives you more stability if you have to carry a heavy backpack. It might be also a good idea to get regular hiking boots and lightweight hiking shoes if you are planning to do both - multiple days and day hikes.
+
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Hiking Boot Suggestions";
+amzn_assoc_default_search_phrase = "Hiking Boots";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "0d18f88262f19f39fc7a13f07ae2563b";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
 # FAQ on Hiking Boots
 
 ## Regular hiking boots vs. shell hiking boots
@@ -179,11 +202,6 @@ If you live in Europe then you could also have a look on shell boots like the [L
 
 ## Regular hiking boots vs. ultralight hiking boots
 If you plan a hike in less demanding terrain or where you don't need much of ankle support because you don't have to carry a heavy backpack then you could also have a look on [lightweight hiking shoes](http://www.hikeventures.com/best-ultralight-hiking-shoes/) as an alternative to regular hiking boots. You will probably enjoy your hike more with lighter hiking boots.
-
----
-
-# Conclusion
-A proper hiking shoe is one of the most important item on your hiking gear list. Consider the environment where you would like to hike. Do you want lighter or more stable hiking boots? A higher shaft gives you more stability if you have to carry a heavy backpack. It might be also a good idea to get regular hiking boots and lightweight hiking shoes if you are planning to do both - multiple days and day hikes.
 
 ---
 
@@ -274,24 +292,6 @@ Should your hiking boots be waterproof? In most cases this is a good feature but
 
 ## Are there hiking boots with arch support?
 If you need arch support on your hiking boots then you should probably buy a seperate [insole](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=insoles+hiking) and replace it with the regular insole of your hiking boots.
-
----
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Hiking Boot Suggestions";
-amzn_assoc_default_search_phrase = "Hiking Boots";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "0d18f88262f19f39fc7a13f07ae2563b";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
 
