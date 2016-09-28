@@ -40,6 +40,16 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hik
 | [Rab Positron Jacket (800 fp)](http://www.backcountry.com/rab-positron-down-jacket-mens) | 1.58 lb / 720 g |
 | [Arcteryx Ceres Jacket (850 fp)](http://gearx.com/arc-teryx-ceres-jacket-m) | 1.89 lb / 860 g | 
 
+
+# Discounts
+<div class="row-flex">
+  <div class="col-sm-12 col-lg-12  col-md-12 col-xs-12">
+
+ <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=down jackets men&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=20&search_price_minimum=150&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=5&search_results_sort_order=Sale+Price"></script>
+
+  </div>
+</div>
+
 ---
 
 ## [Mountain Hardware Ghost Whisperer Hooded Down Jacket (800 fp)](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens)
@@ -159,24 +169,6 @@ The  Rab Positron Jacket is proper box-wall down winter jacket with a water-resi
 More heavy than the other jackets in our list, the Arcteryx Ceres Jacket is made for the deep winter where warmth is the most important factor. This jacket is a probably a great option if you also want to have a fashionable jacket to wear in the city.
 
 <a href="http://gearx.com/arc-teryx-ceres-jacket-m"><button type="button" class="btn btn-danger">Read more about the Ceres Jacket</button></a>  
-
----
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Suggested Down Jackets";
-amzn_assoc_default_search_phrase = "arcteryx down jacket";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "94ae095fd527d4f97d365afbd4404fcf";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
 
@@ -310,6 +302,24 @@ Many new down jackets feature nowadays a light ripstop shell to make the down ja
 ## How to keep a down jacket dry?
 
 You can keep your down jacket dry by storing it in a waterproof compression bag when you are hiking in wet conditions and to use your down jacket only in your tent.
+
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Amazon Search Results";
+amzn_assoc_default_search_phrase = "arcteryx down jacket";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "94ae095fd527d4f97d365afbd4404fcf";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
 
