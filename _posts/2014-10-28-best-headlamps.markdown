@@ -41,7 +41,7 @@ Konstantin wearing a Petzl Nao on the top of a fell in [Finnish Lapland](http://
 # Discounts
 <div class="row">
   <div class="col-sm-12">
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=headlamp AND revolt&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=120&search_price_minimum=40&search_on_sale_level=25&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
+ <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=headlamp AND revolt&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=120&search_price_minimum=40&search_on_sale_level=25&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=5&search_results_sort_order=Sale+Price"></script>
   </div>
 </div>
 
@@ -189,7 +189,7 @@ amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_title = "Headlamps Suggestions";
+amzn_assoc_title = "Amazon Search Results";
 amzn_assoc_default_search_phrase = "headlamp";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
