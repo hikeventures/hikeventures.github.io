@@ -43,6 +43,12 @@ The watches in my list are sorted by their weight and I have taken the specifica
 </td>
 </tr>
 <tr>
+<td><a href="https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch" rel="nofollow">Suunto Spartan Ultra</a>
+</td>
+<td>0.16 / 73 g
+</td>
+</tr>
+<tr>
 <td><a href="http://www.backcountry.com/garmin-fenix-3-bundle" rel="nofollow">Garmin Fenix 3</a>
 </td>
 <td>0.18 lb / 82 g
@@ -52,12 +58,6 @@ The watches in my list are sorted by their weight and I have taken the specifica
 <td><a href="http://amzn.to/1YdNH1H" rel="nofollow">Casio WSD-F10</a>
 </td>
 <td>0.2 lb / 93 g
-</td>
-</tr>
-<tr>
-<td><a href="https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch" rel="nofollow">Suunto Spartan Ultra</a>
-</td>
-<td>0.16 / 73 g
 </td>
 </tr>
 </table>
@@ -178,7 +178,9 @@ The Suunto Spartan is the latest smart watch addition in the Suunto range. Unfor
 ---
 
 ## Conclusion
-From the currently released outdoor watches with color display I would probably pick the [Garmin Fenix 3](http://www.backcountry.com/garmin-fenix-3-bundle). However, before buying any watch I will wait to see the specifications of the [Suunto Spartan Ultra](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch). As a current [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) user I have already my GPS data stored in [Movescount](http://www.movescount.com/members/member140205-HikeVentures) so switching brands is anyway not an easy option for me. If I would not need a built-in GPS then I would probably buy the <a href="http://amzn.to/1t7QAFm" rel="nofollow">Apple Watch Sport</a> as an Apple phone user or the <a href="http://amzn.to/1t7QAFm" rel="nofollow">Motorola Moto 360 Sport</a> or the <a href="http://amzn.to/1YdNH1H" rel="nofollow">Casio WSD-F10</a> if I would be an Android phone user.
+From the currently released outdoor watches with color display I would probably pick the [Suunto Spartan Ultra](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch). As a current [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) user I have already my GPS data stored in [Movescount](http://www.movescount.com/members/member140205-HikeVentures) so switching brands is anyway not an easy option for me. 
+
+If I would not need the longer training mode (GPS) of the Suunto Spartan then I would probably buy the <a href="http://amzn.to/2dysTQc" rel="nofollow">Apple Watch Series 2 Sport</a> as I have an iPhone.
 
 ---
 
