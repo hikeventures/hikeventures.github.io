@@ -43,6 +43,7 @@ Wearing the [Montane Minimus Pants](http://www.campsaver.com/minimus-pants-men-s
 </div>
 
 **Tip:** <a href="http://www.hikeventures.com/deals/">Here</a> you can search and compare gear prices of different stores.
+
 ---
 
 
