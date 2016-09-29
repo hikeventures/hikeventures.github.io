@@ -33,7 +33,7 @@ Wearing the [Montane Minimus Pants](http://www.campsaver.com/minimus-pants-men-s
 
 > Table sorted by weight
 
----
+<hr>
 
 # Deals
 <div class="row">
@@ -44,7 +44,7 @@ Wearing the [Montane Minimus Pants](http://www.campsaver.com/minimus-pants-men-s
 
 <strong>Tip:</strong> <a href="http://www.hikeventures.com/deals/">Here</a> you can search and compare gear prices of different stores.
 
----
+<hr>
 
 
 # [Montane Minimus Pants](http://www.campsaver.com/minimus-pants-men-s)
