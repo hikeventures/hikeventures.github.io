@@ -31,7 +31,7 @@ In this blog post you can find the best lightweight sleeping pads available in 2
 
 ---
 
-# Discounts
+# Deals
 
 <div class="row">
 <div class="col-sm-12">
