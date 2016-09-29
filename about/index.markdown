@@ -57,6 +57,9 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 <br>
 <br>
 <img src="http://www.hikeventures.com/about/thule.jpeg" alt="Thule" width="300">
+<br>
+<br>
+<img src="http://www.hikeventures.com/about/werner.jpg" alt="Werner Paddles" width="300">
 
 <hr>
 
