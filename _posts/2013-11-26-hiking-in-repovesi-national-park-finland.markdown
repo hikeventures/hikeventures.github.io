@@ -19,6 +19,10 @@ This is the main entrance to Repovesi National Park. We actually left the park f
 
 <a href="https://www.flickr.com/photos/90204224@N07/8198639492" title="Blueberries from Repovesi National Park"><img src="https://farm9.staticflickr.com/8488/8198639492_5cd3f6b50e_h.jpg" width="1600" height="1067" alt="Blueberries from Repovesi National Park in Finland"></a>
 
+View from Murjanvuori.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29965930926/in/dateposted-public/" title="Hiking in Repovesi National Park Murjanvuori"><img src="https://c7.staticflickr.com/6/5717/29965930926_e38d842c8f_o.jpg" width="1500" height="1000" alt="Hiking in Repovesi National Park Murjanvuori"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ##  Sights
 The Olhavanvuori Rock is 50 m high and glows on sunny days in different colors. It has prehistoric rock paintings and is perfect for climbers.
 
