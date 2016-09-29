@@ -21,21 +21,14 @@ Checking the altitude in [Finnish Lapland][1] with the Ambit3.
 
 ---
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "true";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Suunto Spartan GPS watch";
-amzn_assoc_default_search_phrase = "Suunto Spartan";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "edb1d00e614ad3a35eb0a5421405645c";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+# Deals
+<div class="row">
+  <div class="col-sm-12">
+ <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=Suunto Ambit3 OR Suunto Traverse OR Suunto Ambit2 OR Suunto Spartan&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=200&search_on_sale_level=25&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
+  </div>
+</div>
+<br>
+<strong>Tip:</strong> <a href="http://www.hikeventures.com/deals/">Here</a> you can search and compare gear prices of different stores.
 
 ---
 
@@ -130,12 +123,21 @@ The Suunto watches also work great together with an e.g. iPhone which can be use
 
 ---
 
-# Discounts
-<div class="row">
-  <div class="col-sm-12">
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=Suunto AND Ambit3 OR Suunto AND Traverse &search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=200&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
-  </div>
-</div>
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "true";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Suunto Spartan GPS watch";
+amzn_assoc_default_search_phrase = "Suunto Spartan";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "edb1d00e614ad3a35eb0a5421405645c";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
 
