@@ -46,8 +46,6 @@ Fleece jackets can be worn as an outer shell if it's not raining but they are no
 <br>
 <strong>Tip:</strong> <a href="http://www.hikeventures.com/deals/">Here</a> you can search and compare gear prices of different stores.
 
-<hr>
-
 ---
 
 # Arcteryx Thetis Zip Neck
