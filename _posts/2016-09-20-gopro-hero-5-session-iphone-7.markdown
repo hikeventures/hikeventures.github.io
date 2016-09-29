@@ -30,11 +30,11 @@ The GoPro5 Black, GoPro Session and the iPhone have image stabilization.
 # Conclusion
 Looking at the specifications you can certainly get better pictures with the iPhone 7. The video features are more or less the same and the higher aperture on the GoPro should not make a significant difference during daylight. 
 
-So which one should you buy? If you are more into hardcore adventures then the GoPro might still be the better choice especially if you are into diving or any water sports. 
+So which one should you buy? If you are more into hardcore adventures then the [GoPro Hero5 Black](https://www.rei.com/product/114467/gopro-hero5-black-camera) or the [GoPro Hero5 Session](https://www.rei.com/product/114468/gopro-hero5-session-camera) might still be the better choice especially if you are into diving or any water sports. 
 
 Having IP67 on the iPhone is nice but let's face it if you fall or jump into a lake you may sink deeper than 1 meter and a GoPro is more affordable than an iPhone 7 in case it would brake.
 
-Certainly, you will also get more scratches on your iPhone 7 screen which is much larger than the camera lens of the GoPro Hero5 Black / Session. 
+Certainly, you will also get more scratches on your iPhone 7 screen which is much larger than the camera lens of the [GoPro Hero5 Black](https://www.rei.com/product/114467/gopro-hero5-black-camera) / [GoPro Hero5 Session](https://www.rei.com/product/114468/gopro-hero5-session-camera). 
 
 If audio recording is not important to you then you can also get the older <a href="http://amzn.to/2cDRqEi" rel="nofollow">GoPro Session</a> instead and save some money.
 
