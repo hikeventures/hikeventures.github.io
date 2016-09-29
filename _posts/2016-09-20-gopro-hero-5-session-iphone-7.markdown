@@ -32,7 +32,7 @@ Looking at the specifications you can certainly get better pictures with the iPh
 
 So which one should you buy? If you are more into hardcore adventures then the [GoPro Hero5 Black](https://www.rei.com/product/114467/gopro-hero5-black-camera) or the [GoPro Hero5 Session](https://www.rei.com/product/114468/gopro-hero5-session-camera) might still be the better choice especially if you are into diving or any water sports. 
 
-Having IP67 on the iPhone is nice but let's face it if you fall or jump into a lake you may sink deeper than 1 meter and a GoPro is more affordable than an iPhone 7 in case it would brake.
+Having IP67 on the iPhone is nice but if you jump into a lake and the GoPro breaks for some reason then you are better off than with a broken iPhone 7.
 
 Certainly, you will also get more scratches on your iPhone 7 screen which is much larger than the camera lens of the [GoPro Hero5 Black](https://www.rei.com/product/114467/gopro-hero5-black-camera) / [GoPro Hero5 Session](https://www.rei.com/product/114468/gopro-hero5-session-camera). 
 
