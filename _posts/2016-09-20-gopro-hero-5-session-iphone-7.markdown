@@ -34,10 +34,9 @@ So which one should you buy? If you are more into hardcore adventures then the [
 
 Having IP67 on the iPhone is nice but if you jump into a lake and the GoPro breaks for some reason then you are better off than with a broken iPhone 7.
 
-Certainly, you will also get more scratches on your iPhone 7 screen which is much larger than the camera lens of the [GoPro Hero5 Black](https://www.rei.com/product/114467/gopro-hero5-black-camera) / [GoPro Hero5 Session](https://www.rei.com/product/114468/gopro-hero5-session-camera). 
+Certainly, you might also get more scratches on your iPhone 7 screen. The surface of the iPhone screen is much larger than the surface of the camera lens of the [GoPro Hero5 Black](https://www.rei.com/product/114467/gopro-hero5-black-camera) / [GoPro Hero5 Session](https://www.rei.com/product/114468/gopro-hero5-session-camera). 
 
-If audio recording is not important to you then you can also get the older <a href="http://amzn.to/2cDRqEi" rel="nofollow">GoPro Session</a> instead and save some money.
-
+If audio recording is not important to you then you could also consider purchasing the older <a href="http://amzn.to/2cDRqEi" rel="nofollow">GoPro Session</a> instead and save some money.
 
 ---
 
