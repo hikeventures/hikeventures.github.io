@@ -50,6 +50,8 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 <hr>
 
 <h1>Partners and Sponsors</h1>
+<img src="http://www.hikeventures.com/about/msr.jpeg" alt="MSR" width="300">
+<img src="http://www.hikeventures.com/about/thermarest.jpg" alt="Therm-a-rest" width="300">
 <img src="http://www.hikeventures.com/about/thule.jpeg" alt="Thule" width="300">
 
 <hr>
