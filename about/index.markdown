@@ -106,6 +106,11 @@ Ravaksenkatu 31 C 6<br>
 20900 Turku<br>
 Finland<br><br>
 
+Konstantin Gridnevsky<br>
+Mondriaanstraat 94<br>
+8918 DH Leeuwarden<br>
+The Netherlands<br><br>
+
 phone: +358 50 572 84 89<br>
 email: <a href="mailto:contact@hikeventures.com">contact@hikeventures.com</a>
 
