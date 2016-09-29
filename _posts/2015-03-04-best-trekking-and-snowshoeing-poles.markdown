@@ -42,6 +42,8 @@ Currently, I am using the Black Diamond Ultra Distance Z-Poles which are not mad
 
   </div>
 </div>
+<br>
+<strong>Tip:</strong> <a href="http://www.hikeventures.com/deals/">Here</a> you can search and compare gear prices of different stores.
 
 ---
 

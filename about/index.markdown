@@ -49,11 +49,25 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 
 <hr>
 
+<h1>Partners and Sponsors</h1>
+<img src="http://www.hikeventures.com/about/msr.jpg" alt="MSR" width="300">
+<br>
+<br>
+<img src="http://www.hikeventures.com/about/thermarest.jpg" alt="Therm-a-rest" width="300">
+<br>
+<br>
+<img src="http://www.hikeventures.com/about/thule.jpeg" alt="Thule" width="300">
+<br>
+<br>
+<img src="http://www.hikeventures.com/about/werner.jpg" alt="Werner Paddles" width="300">
+
+<hr>
+
 <h1> Followers on Social Media </h1>
 
-<strong><a href="https://www.instagram.com/hikeventures/">Instagram</a>: </strong>4100 <br> 
-<strong><a href="https://twitter.com/HikeVentures">Twitter</a>: </strong>2600   <br> 
-<strong><a href="https://www.facebook.com/HikeVentures">Facebook</a>: </strong>1500   <br>
+<a href="https://www.instagram.com/hikeventures/">Instagram</a>: 4100 <br> 
+<a href="https://twitter.com/HikeVentures">Twitter</a>: 2600   <br> 
+<a href="https://www.facebook.com/HikeVentures">Facebook</a>: 1500   <br>
 
 We are also on <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw">YouTube</a>.
 
@@ -91,6 +105,11 @@ Patrick Dormischian<br>
 Ravaksenkatu 31 C 6<br>
 20900 Turku<br>
 Finland<br><br>
+
+Konstantin Gridnevsky<br>
+Mondriaanstraat 94<br>
+8918 DH Leeuwarden<br>
+The Netherlands<br><br>
 
 phone: +358 50 572 84 89<br>
 email: <a href="mailto:contact@hikeventures.com">contact@hikeventures.com</a>

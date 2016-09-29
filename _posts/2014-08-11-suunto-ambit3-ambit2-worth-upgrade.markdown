@@ -13,7 +13,7 @@ tags:
 layout: post
 ---
 
-GPS watches like the Suunto Ambit2 or Suunto Ambit3 are quite interesting gadgets if you want to track your route or if you want to plan your route ahead. In general, the only model I could think of which comes close to the Suunto Ambit3 is the Garmin Fenix 3 which has a colour display. However, to me the Suunto Ambit3 feels just more solid as a product and the Apple Watch does not have an integrated GPS. I use my Suunto Ambit3 mainly for running, packrafting and hiking and upgraded from the Suunto Ambit2 to the Suunto Ambit3 Sport. Update: I have <a href="http://www.hikeventures.com/Suunto-Traverse-Ambit3-differences/">upgraded</a> my Suunto Ambit 3 to the Suunto Traverse. If you need a multisport watch then you should rather consider the Suunto Ambit3 Vertical watch rather than the Suunto Traverse.
+GPS watches like the Suunto Ambit2 or Suunto Ambit3 are quite interesting gadgets if you want to track your route or if you want to plan your route ahead. In general, the only model I could think of which comes close to the Suunto Ambit3 is the Garmin Fenix 3 which has a colour display. However, to me the [Suunto Ambit3](http://www.backcountry.com/suunto-ambit3-sport-gps-watch) or [Suunto Traverse](http://www.backcountry.com/suunto-ambit3-sport-gps-watch) just feels more solid as a product. Suunto recently released the [Suunto Spartan](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch) - a GPS watch with color display and touch screen. Then there is also the new <a href="http://amzn.to/2dt4Oyt" rel="nofollow" target="_blank">Apple Watch Series 2</a> which however does not have such a long battery life. I use my Suunto Ambit3 mainly for running, packrafting and hiking and upgraded from the Suunto Ambit2 to the Suunto Ambit3 Sport. Update: I have <a href="http://www.hikeventures.com/Suunto-Traverse-Ambit3-differences/">upgraded</a> my Suunto Ambit 3 to the Suunto Traverse. If you need a multisport watch then you should rather consider the Suunto Ambit3 Vertical or the Suunto Spartan rather than the Suunto Traverse.
     
 <a href="https://www.flickr.com/photos/90204224@N07/15913318153"><img src="https://farm8.staticflickr.com/7306/15913318153_e26043e992_b.jpg" width="1024" height="680"></a>
    
@@ -21,21 +21,14 @@ Checking the altitude in [Finnish Lapland][1] with the Ambit3.
 
 ---
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "true";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Suunto Spartan GPS watch";
-amzn_assoc_default_search_phrase = "Suunto Spartan";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "edb1d00e614ad3a35eb0a5421405645c";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+# Deals
+<div class="row">
+  <div class="col-sm-12">
+ <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=Suunto Ambit3 OR Suunto Traverse OR Suunto Ambit2 OR Suunto Spartan&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=220&search_on_sale_level=25&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=5&search_results_sort_order=Sale+Price"></script>
+  </div>
+</div>
+<br>
+<strong>Tip:</strong> <a href="http://www.hikeventures.com/deals/">Here</a> you can search and compare gear prices of different stores.
 
 ---
 
@@ -90,7 +83,7 @@ I use my Suunto Traverse (upgraded from the Suunto Ambit3 Sport) watch mainly fo
 ---
 
 # Worth to upgrade?
-I have used the Suunto Ambit3 Sport for a couple of months and I was happy with it before I [upgraded to the Suunto Traverse](http://www.hikeventures.com/Suunto-Traverse-Ambit3-differences/). I liked the blue colour, the slimmer design compared to the Suunto Ambit3 Peak, the accuracy of the GPS signal and the shorter time it take to locate satellites. For runners it's already worth to upgrade just because of the smaller HR monitor which will give you a better running experience. I also like the Bluetooth feature so I can get my data also on the Movescount Server if I am not on a computer. If you are into Social Media then the Movescount app will also be a great tool to show-cast your activities in a video.
+I was wearing the [Suunto Ambit3 Sport](https://www.rei.com/product/879412/suunto-ambit3-sport-gps-multifunction-heart-rate-monitor) for a couple of months and I was happy with it before I upgraded to the [Suunto Traverse](https://www.rei.com/product/898278/suunto-traverse-gps-multifunction-watch) which looks much nicer since the GPS module is now invisible. I liked the blue colour, the slimmer design compared to the Suunto Ambit3 Sport, the accuracy of the GPS signal and the somewhat shorter time it take to locate satellites. For runners it's already worth to upgrade just because of the smaller HR monitor which will give you a better running experience. I also like the Bluetooth feature so I can get my data also on the Movescount Server if I am not on a computer. If you are into Social Media then the Movescount app will also be a great tool to show-cast your activities in a video. If you want to have the latest technology then you should consider the Suunto Spartan or the <a href="http://amzn.to/2dt4Oyt" rel="nofollo" target="_blank">Apple Watch Series 2</a>. The <a href="https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch">Suunto Spartan</a> will be more suitable for those who need long battery life e.g. if you plan to go hiking or multisport activities.
 
 ---
 
@@ -130,15 +123,6 @@ The Suunto watches also work great together with an e.g. iPhone which can be use
 
 ---
 
-# Discounts
-<div class="row">
-  <div class="col-sm-12">
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=Suunto AND Ambit3 OR Suunto AND Traverse &search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=200&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
-  </div>
-</div>
-
----
-
 **Update (29.03.2015):** Suunto has released a firmware update which increased the battery time of the Ambit watches as you can read [here][8]: "With GPS accuracy set to Best/Good/Ok, the numbers are accordingly: Suunto Ambit3 Peak – 20h/30h/200h"
 
 **Update (20.10.2015):** Suunto has released the Suunto Traverse GPS watch. [Here][2] you can read what's different to the Ambit3.
@@ -150,6 +134,26 @@ The Suunto watches also work great together with an e.g. iPhone which can be use
 **Update (19.04.2016):** Suunto has released the <a href="http://www.suunto.com/Products/sports-watches/Suunto-Traverse-Alpha/Suunto-Traverse-Alpha-Foliage/">Traverse Alpha</a> which adds features for hunting and fishing to the regular Traverse. It's also a bit more expensive than the regular Traverse.
 
 **Update (7.6.2016):** Suunto has released the [Suunto Spartan](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch) - A premium multisport watch with color display.
+
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Amazon Search Results";
+amzn_assoc_default_search_phrase = "Suunto Spartan";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "edb1d00e614ad3a35eb0a5421405645c";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
 
 
 [1]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/
