@@ -49,6 +49,11 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 
 <hr>
 
+<h1>Partners and Sponsors</h1>
+<img src="http://www.hikeventures.com/about/thule.jpeg" alt="Thule">
+
+<hr>
+
 <h1> Followers on Social Media </h1>
 
 <strong><a href="https://www.instagram.com/hikeventures/">Instagram</a>: </strong>4100 <br> 
