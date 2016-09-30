@@ -53,7 +53,7 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 <img src="http://www.hikeventures.com/about/msr.jpg" alt="MSR" width="300">
 <br>
 <br>
-<img src="http://www.hikeventures.com/about/palm.jpg" alt="Palm" width="300">
+<img src="http://www.hikeventures.com/about/Palm.jpg" alt="Palm" width="300">
 <br>
 <br>
 <img src="http://www.hikeventures.com/about/thermarest.jpg" alt="Therm-a-rest" width="300">
