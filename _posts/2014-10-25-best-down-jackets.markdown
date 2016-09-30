@@ -28,7 +28,7 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hik
 # Overview of the best down jackets of  2016
 
 | Jacket | Weight |
-| ------------- |-------------:|
+| ------------- |:-------------|
 | [Mountain Hardware Ghost Whisperer Hooded Down Jacket (800 fp)](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens) | &nbsp; 0.47 lb / 212 g |
 | [Arcteryx Cerium LT Hoody (850 fp)](http://www.backcountry.com/arcteryx-cerium-lt-hooded-down-jacket-mens)      | 0.6 lb / 275 g | 
 | [Western Mountaineering Flash Jacket (850 fp)](http://www.backcountry.com/western-mountaineering-flash-down-jacket-mens)     | 0.64 lb / 290 g |
