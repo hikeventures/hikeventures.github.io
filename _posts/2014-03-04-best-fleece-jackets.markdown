@@ -27,8 +27,8 @@ Fleece jackets can be worn as an outer shell if it's not raining but they are no
 # Overview of the best fleece jackets for 2016
 
 | Jacket | Weight |
-| ------------- |-------------:|
-| [Arcteryx Thetis Zip Neck](http://www.hikeventures.com/deals/#arcteryx+thetis+zip+neck) | &nbsp; 0.45 lb / 205 g |
+| ------------- |:-------------|
+| [Arcteryx Thetis Zip Neck](http://www.hikeventures.com/deals/#arcteryx+thetis+zip+neck) | 0.45 lb / 205 g |
 | [Mammut Moench Longsleeve](http://www.hikeventures.com/deals/#mammut+moench)   | 0.45 lb / 205 g | 
 | [Rab Micro Pull-on](http://www.hikeventures.com/deals/#micro+pull+on)     | 0.52 lb / 238 g |
 | [Arcteryx Delta LT Zip Neck](http://www.hikeventures.com/deals/#Arcteryx+delta+lt+zip) |  0.53 lb / 240 g |
