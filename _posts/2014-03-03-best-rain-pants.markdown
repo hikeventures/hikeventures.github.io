@@ -22,7 +22,7 @@ Wearing the [Montane Minimus Pants](http://www.campsaver.com/minimus-pants-men-s
 # Overview of the best rain pants of 2016
 
 | Rain Pants | Weight |
-| ------------- |-------------:|
+| ------------- |:-------------:|
 | [Montane Minimus Pants](http://www.campsaver.com/minimus-pants-men-s) | &nbsp; 0.31 lb / 141 g |
 | [Montane Atomic Pants](http://www.moosejaw.com/moosejaw/shop/product_Montane-Men-s-Atomic-Pant_10276270_10208_10000001_-1_)      | 0.41 lb / 185 g | 
 | [Mountain Hardwear Plasmic Pant](http://www.backcountry.com/mountain-hardwear-plasmic-pant-mens)     | 0.45 lb / 204 g |
