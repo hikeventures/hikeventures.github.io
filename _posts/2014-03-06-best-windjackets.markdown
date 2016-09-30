@@ -27,8 +27,8 @@ In the evenings while sitting in the camp I swap my [fleece](http://www.hikevent
 # Overview of the best wind jackets for 2016
 
 | Jacket | Weight |
-| ------------- |-------------:|
-| [Patagonia Houdini](https://www.rei.com/product/893303/patagonia-houdini-jacket-mens) | &nbsp; 0.25 lb / 113 g |
+| ------------- |:------------|
+| [Patagonia Houdini](https://www.rei.com/product/893303/patagonia-houdini-jacket-mens) | 0.25 lb / 113 g |
 | [Arcteryx Incendo Hoody](https://www.rei.com/product/895292/arcteryx-incendo-hoodie-mens)   | 0.29 lb / 130 g | 
 | [The North Face Fuseform Eragon](http://www.backcountry.com/the-north-face-fuseform-eragon-wind-jacket-mens)     | 0.3 lb / 140 g |
 | [Arcteryx Squamish Hoody](http://www.backcountry.com/arcteryx-squamish-hooded-jacket-mens) |  0.34 lb / 155 g |
@@ -40,7 +40,7 @@ In the evenings while sitting in the camp I swap my [fleece](http://www.hikevent
 # Deals
 <div class="row">
   <div class="col-sm-12">
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=Marmot wind men OR wind arcteryx men OR Patagonia wind men OR North Face wind men&search_advanced_syntax=-ski-softshell-cycling-insulated&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=20&search_price_minimum=70&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
+ <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=Marmot wind men -ski -softshell -cycling -insulated OR wind arcteryx men -ski -softshell -cycling -insulated OR Patagonia wind men -ski -softshell -cycling -insulated OR North Face wind men -ski -softshell -cycling -insulated&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=20&search_price_minimum=70&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
   </div>
 </div>
 <br>
