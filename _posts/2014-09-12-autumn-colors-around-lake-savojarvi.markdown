@@ -75,7 +75,7 @@ After strolling along the Luontopolku I decided to continue my hike along the Sa
 
 <a href="https://www.flickr.com/photos/90204224@N07/15214233901" ><img src="https://farm4.staticflickr.com/3880/15214233901_053ea5823a_b.jpg" width="1024" height="683" alt="Kurjenrahka National Park"></a>
 
-<a href="https://www.flickr.com/photos/90204224@N07/15030744877" ><img src="https://farm4.staticflickr.com/3854/15030744877_544a6427a4_b.jpg" width="1024" height="683"alt="Savojärvi trail Kurjenrahka National Park"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/15030744877" ><img src="https://farm4.staticflickr.com/3854/15030744877_544a6427a4_b.jpg" width="1024" height="683" alt="Savojärvi trail Kurjenrahka National Park"></a>
 On the trail always a view towards the lake Savojärvi and the smell of spruces in my nose.
 
 <a href="https://www.flickr.com/photos/90204224@N07/15194242336" ><img src="https://farm4.staticflickr.com/3862/15194242336_bc0012c241_b.jpg" width="1024" height="683" alt="Kurjenrahka National Park"></a>
