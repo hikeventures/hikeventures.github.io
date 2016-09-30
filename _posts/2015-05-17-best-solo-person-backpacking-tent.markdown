@@ -22,7 +22,7 @@ A Hilleberg Nallo in the back and a Hilleberg Anjan in the front.
 
 ---
 
-# Overview of the best solo tents for 2016
+# The best solo tents for 2016
 
 | Model | Weight |
 |:------|:-----|
@@ -49,7 +49,6 @@ A Hilleberg Nallo in the back and a Hilleberg Anjan in the front.
 <br>
 <strong>Tip:</strong> <a href="http://www.hikeventures.com/deals/">Here</a> you can search and compare gear prices of different stores.
 
-<hr>
 ---
 
 ## [Fly Creek HV UL1](https://www.rei.com/product/895953/big-agnes-fly-creek-hv-ul1-tent)
