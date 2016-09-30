@@ -23,7 +23,7 @@ Konstantin wearing a Petzl Nao on the top of a fell in [Finnish Lapland](http://
 # Overview of the best headlamps of 2016
 
 | Model | Weight | Lumen |
-| :--- | :---: | :---: |
+| :--- | :--- | :--- |
 | [Petzl E+LITE](http://www.hikeventures.com/deals/#petzl+e+lite "Petzl E+LITE") | 27 grams / 0.06 lbs | 26 |
 | [Zebralight H600 Mk II 18650 XM-L2](http://www.amazon.com/gp/product/B00HIW1I2C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HIW1I2C&linkCode=as2&tag=hikeve-20&linkId=LCSF7G25EDO752O5 "Zebralight H600 Mk II 18650 XM-L2") | 39 grams / 0.09 lbs | 1090 |
 | [Petzl Tikka R+](http://www.hikeventures.com/deals/#petzl+tikka+r "Petzl Tikka R+") | 85 grams / 0.18 lbs | 170 |
