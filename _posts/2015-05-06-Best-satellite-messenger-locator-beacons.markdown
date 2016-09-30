@@ -20,7 +20,7 @@ With a Satellite Messenger you can also inform your family and friends about you
 
 ---
 
-# Overview of the best satellite gps messengers for 2016
+# The best satellite gps messengers for 2016
 
 | Product | Weight |
 |:------|:-----|
