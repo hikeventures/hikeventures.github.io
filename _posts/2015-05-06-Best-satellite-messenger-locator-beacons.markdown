@@ -23,7 +23,7 @@ With a Satellite Messenger you can also inform your family and friends about you
 # Overview of the best satellite gps messengers for 2016
 
 | Product | Weight |
-|:------|:-----:|
+|:------|:-----|
 | [SPOT Gen3](https://www.rei.com/product/860469/spot-gen3-satellite-gps-messenger) |  0.25 lb / 114 grams |
 | [ACR ResQlink+ 406](https://www.rei.com/product/843146/acr-electronics-resqlink-gps-personal-locator-beacon) |  0.34 lb / 153 grams |
 | [DeLorme InReach SE](https://www.rei.com/product/857610/delorme-inreach-se-2-way-satellite-communicator) |  0.4 lb / 190 grams |
