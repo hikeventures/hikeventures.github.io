@@ -19,7 +19,7 @@ In this blog post you can find the best lightweight sleeping pads available in 2
 # Overview of the best lightweight sleeping pads of 2016
 
 | Sleeping Pad | R-Value | Weight  | Type  | Fabric |
-| ------------- |:-------------:|:----:| :-----:|
+| ------------- |:-------------|:----| :-----|
 | [Therm-a-Rest NeoAir XLite](https://www.rei.com/product/881574/therm-a-rest-neoair-xlite-sleeping-pad) | 3.2 | 0.77 lb / 350 g | air   | 30D |
 | [Sea to Summit Ultralight](http://www.moosejaw.com/moosejaw/shop/product_Sea-to-Summit-UltraLight-Mat_10291712_10208_10000001_-1_)      | 0.7 | 0.78 lb / 355 g | air  | 40D |
 | [Therm-a-Rest Z LITE SOL](https://www.rei.com/product/829826/therm-a-rest-z-lite-sol-sleeping-pad) | 2.6 | 0.9 lb / 410 g | foam   | - |
