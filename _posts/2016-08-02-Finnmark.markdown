@@ -256,7 +256,7 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Search Results from Amazon";
-amzn_assoc_default_search_phrase = "northern norway";
+amzn_assoc_default_search_phrase = "Norway";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "cf23da51abb156e309d4b850be09dbb5";
 </script>
