@@ -19,7 +19,7 @@ Here is a selection of the best new rain jackets for 2017 on the market. This is
 #The best new waterproof rain jackets 2017
 
 |Jacket | Weight (grams) |
-|:------|-----:|
+|:------|:-----:|
 |Berghaus Hyper 100 Jacket | 97 |
 | Mammut Rainspeed Ultralight HS Jacket | 120 |
 |Haglöfs L.I.M. Proof Jacket | 210|
