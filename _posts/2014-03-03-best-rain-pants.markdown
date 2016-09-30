@@ -19,7 +19,7 @@ Wearing the [Montane Minimus Pants](http://www.campsaver.com/minimus-pants-men-s
 
 ---
 
-# Overview of the best rain pants of 2016
+# The best rain pants of 2016
 
 | Rain Pants | Weight |
 | ------------- |:-------------|
