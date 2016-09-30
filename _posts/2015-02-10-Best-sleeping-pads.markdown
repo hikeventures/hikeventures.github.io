@@ -16,7 +16,7 @@ In this blog post you can find the best lightweight sleeping pads available in 2
 
 ---
 
-# Overview of the best lightweight sleeping pads of 2016
+# The best lightweight sleeping pads of 2016
 
 | Sleeping Pad | R-Value | Weight  | Type  | Fabric |
 | ------------- |:-------------|:----| :-----|
