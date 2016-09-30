@@ -22,7 +22,7 @@ Konstantin with a [Jetboil stove](http://hikeventures.com/gear-review-jetboil-so
 # Overview of the best camping stoves for 2016
 
 | Model | Weight |
-| :------------- |:-------------:|
+| :------------- |:-------------|
 |  [MSR MicroRocket](http://www.backcountry.com/msr-micro-rocket-stove) | &nbsp; 0.16 lb / 73 grams |
 | [MSR WindPro II](http://www.omcgear.com/msr-windpro-ii-stove-1.html) | 0.41 lb / 187 grams |
 | [Jetboil MicroMo](http://www.backcountry.com/jetboil-micromo-personal-cooking-system) |  0.89 lb / 400 grams |
