@@ -22,7 +22,7 @@ Considering your own body and gear weight is important when choosing your snowsh
 # Overview of the best snowshoes 2016
 
 | Model | Weight |
-| :------------- |:-------------:|
+| :------------- |:-------------|
 |  [MSR Lightning Ascent 25](http://www.backcountry.com/msr-lightning-ascent) | &nbsp; 3.9 lb / 1780 grams |
 | [MSR Lightning Explore 25](http://www.backcountry.com/msr-lightning-explore-snowshoe-mens) | 4.1 lb / 1870 grams |
 | [MSR Revo Ascent 25](http://www.backcountry.com/msr-revo-ascent-snowshoe-mens) | 4.3 lb / 1970 grams |
