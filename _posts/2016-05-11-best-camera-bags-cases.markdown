@@ -19,7 +19,7 @@ In this post I would like to give an overview about the best camera bags for you
 Overview of the best camera bags for Sony A7 or a6300
 
 | Camera Bag | Weight |
-|:-----|----:|
+|:-----|:----|
 |<a href="http://amzn.to/29zNP9o" rel="nofollow">Aquapac Waterproof SLR Camera Case<a> | 7.6 oz / 216 grams   |
 |[Thule Covert Camera Backpack](https://www.rei.com/product/877640/thule-covert-camera-backpack) | 14.1 oz / 400 grams  |
 |<a href="http://amzn.to/29vBhTa" rel="nofollow">Ortlieb Camera Bag Aqua Zoom</a> | 12 oz / 340 grams   |
@@ -29,24 +29,6 @@ Overview of the best camera bags for Sony A7 or a6300
 |[Pelican 1200 Case](https://www.rei.com/product/778223/pelican-1200-case-with-foam) | 46 oz / 1305 grams  |
 
 > Table is sorted by weight
-
----
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Search Results for PFDs";
-amzn_assoc_default_search_phrase = "a6300 accessories";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
 
@@ -185,6 +167,24 @@ From my point of view there is no best camera bag which fits every situation but
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716060755/in/photolist-JP8CEz-JNYoHW-KKxjpM-pbERVy" title="Hiking and Packrafting in Norway"><img src="https://c4.staticflickr.com/9/8606/28716060755_0596cd42cf_k.jpg" width="2048" height="1365" alt="Lowepro Nova Sport 7L AW Camera Bag A7 Batis 25"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 With the <a href="http://amzn.to/29YPNOV" rel="nofollow">Lowepro Nova Sport 7L</a> in [Northern Norway](http://www.hikeventures.com/Finnmark/).
+
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Search Results for PFDs";
+amzn_assoc_default_search_phrase = "a6300 accessories";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
 
