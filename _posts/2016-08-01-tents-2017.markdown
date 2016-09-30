@@ -236,9 +236,9 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Search Results from Amazon";
-amzn_assoc_default_search_phrase = "hiking";
-amzn_assoc_default_category = "Books";
-amzn_assoc_linkid = "7922fa089d307bdc80cd95b1a56dcdf7";
+amzn_assoc_default_search_phrase = "tent msr";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "965296fb866182bb89b535202541adda";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
