@@ -2,16 +2,16 @@
 
 table
 {
-        width: 100%; !important;
+        width: 100% !important;
 }
       table tr th
 {
-        text-align: left; !important;
-        padding: 0 30px; !important;
+        text-align: left !important;
+        padding: 0 30px !important;
 }
       table tr td
 {
-        padding: 0 30px; !important;
+        padding: 0 30px !important;
 }
 
 
