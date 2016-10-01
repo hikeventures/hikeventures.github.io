@@ -10,6 +10,8 @@ tags:
    - e5
 layout: post
 ---
+bla bla
+
 On this trip we were hiking around 160 km from Germany to Italy. The demanding part was however not the distance but walking up and down a mountain on a daily base. The E5 originally starts from Konstanz (Germany) and ends in Verona (Italy). However, most hikers start the tour from Oberstdorf - since this is the part where you are actually in the Alps - and finish the tour in Meran.
 
 ![][image-1]
@@ -17,7 +19,7 @@ On this trip we were hiking around 160 km from Germany to Italy. The demanding p
 
 > The route contains of about 20.000 metres in altitude and does not require any special skills or alpine gear. However, you should be in a good shape to be able to walk 1000 metres in altitude a day. The route has a length of about 170 km.
 
-The trip across the Alps took us 6 days and we were walking about 10 hours a day. Concerning the costs you can calculate about 20 EUR per night to stay in a hut excluding food (which would be another 15-20 EUR for breakfast and dinner at the hut). 
+The trip across the Alps took us 6 days and we were walking about 10 hours a day. Concerning the costs you can calculate about 20 EUR per night to stay in a hut excluding food (which would be another 15-20 EUR for breakfast and dinner at the hut).
 
 From Oberstdorf you reach Austria via the Unteren Madeljoch and continue via the Allgäuer, Lechtaler and Ötztaler Alps until you reach Italy via the Timmelsjoch. From there your way continues in South Tyrol until you reach Bozen. Highlight of the tour are e.g. the Geigenkamm and the Pitztal (where you reach an altitude of 3000 m).
 
