@@ -10,8 +10,6 @@ tags:
    - e5
 layout: post
 ---
-bla bla
-
 On this trip we were hiking around 160 km from Germany to Italy. The demanding part was however not the distance but walking up and down a mountain on a daily base. The E5 originally starts from Konstanz (Germany) and ends in Verona (Italy). However, most hikers start the tour from Oberstdorf - since this is the part where you are actually in the Alps - and finish the tour in Meran.
 
 ![][image-1]
