@@ -1,7 +1,6 @@
 var existingTitle = 'Sale Price';
 var newTitle = 'Price';
-var newTitle1 = 'Price';
-var newTitle2 = 'Discount';
+
 var tableHeaderElements = document.getElementsByTagName('th');
 for (var i = 0; i < tableHeaderElements.length; i++) {
     if (tableHeaderElements[i].innerHTML.indexOf(searchString) !== -1) {
@@ -12,10 +11,7 @@ for (var i = 0; i < tableHeaderElements.length; i++) {
 
 
 var existingTitle1 = 'Retail Price';
-
-var newTitle = 'Price';
 var newTitle1 = 'Price';
-var newTitle2 = 'Discount';
 var tableHeaderElements = document.getElementsByTagName('th');
 for (var i = 0; i < tableHeaderElements.length; i++) {
     if (tableHeaderElements[i].innerHTML.indexOf(searchString) !== -1) {
@@ -27,8 +23,6 @@ for (var i = 0; i < tableHeaderElements.length; i++) {
 
 
 var existingTitle2 = 'Price Discount Percent';
-var newTitle = 'Price';
-var newTitle1 = 'Price';
 var newTitle2 = 'Discount';
 var tableHeaderElements = document.getElementsByTagName('th');
 for (var i = 0; i < tableHeaderElements.length; i++) {
