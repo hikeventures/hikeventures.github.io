@@ -7,6 +7,7 @@ category: tidbits
 tags:
   - tidbits
 layout: post
+
 ---
 
 From 7-9 October you can participate in the Outdoor Land Fair - Salon in the Paseo Rochefort Sur-Mer S/N Torrelavega (Cantabria).
