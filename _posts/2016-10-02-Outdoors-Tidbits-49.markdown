@@ -11,7 +11,7 @@ layout: post
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/8223401641/in/album-72157648805255125/" title="Seitseminen National Park"><img src="https://c2.staticflickr.com/9/8489/8223401641_929964c519_h.jpg" width="1600" height="1067" alt="Seitseminen National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Alpackaraft posted on Instagram that there will be a <a href="https://www.instagram.com/p/BJIbIVKhkpW/">packrafting roundup</a> on the 24.2.-25.2.2017 in New Zealand.   
-Andy will be hosting the 1st Scottish packraft and adventure bike round-up from May 20th-21st 2017.
+Andy will be hosting the 1st Scottish packraft and adventure bike round-up from May 20th-21st 2017.  
 Jacob published a blog post about the <a href="http://urbanpackrafter.com/Together-on-Voxnan">Packraft Gathering 2016 in Sweden</a>. Here is also a <a href="https://vimeo.com/184230182">trailer</a>.   
 Willem published a video about his solo hiking and packrafting expedition in Southwest Greenland <a href="https://vimeo.com/183643681">   
 Björn published a video about his 4 days packrafting trip in <a href="https://www.youtube.com/watch?v=KTnAjIpUt58&feature=youtu.be">Rogen</a>.   
