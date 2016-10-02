@@ -1,5 +1,4 @@
 ---
-published: true
 title: Outdoors Tidbits 49
 description: Hiking, Packrafting & Photography News - Nr. 49
 date: 2016-10-02 05:28:01
