@@ -18,7 +18,7 @@ When you already own the GoPro Hero4 Black or Session you are probably wondering
 The main difference between the GoPro Hero4 Black and the GoPro Hero 5 Black is that the Hero5 Black you can actually record audio as the GoPro Hero5 Black does not need a camera housing anymore.
 
 ## 4K Video Quality
-The 4K video option remains similar. Both camera models can record 4K with 30 FPS. 
+The 4K video option remains similar. Both camera models can record 4K with 30 FPS.
 
 ## Picture Quality
 Both GoPro's have a 12MP camera with ƒ/2.8.
@@ -33,7 +33,7 @@ The battery capacity has increased from 1160 mAh to 1220mAh.
 The GoPro Hero5 Black has video stabilization while the GoPro Hero4 Black does not.
 
 ## Touchscreen
-The GoPro Hero5 Black has also a touch screen while you have to buy a separate touchscreen for the GoPro Hero4 Black. 
+The GoPro Hero5 Black has also a touch screen while you have to buy a separate touchscreen for the GoPro Hero4 Black.
 
 ## Location Capture
 The GoPro Hero5 offers location capture so you always know where you have recorded your video.
@@ -42,11 +42,11 @@ The GoPro Hero5 offers location capture so you always know where you have record
 The Hero5 models can be operated by voice control. Just say "GoPro start recording".
 
 # Conclusion
-Now the question remains if you should upgrade from your GoPro Hero4 Black to the GoPro Hero5 Black. Well, if you need Video stabilization and want to record audio when you do water sports then the GoPro Hero 5 Black is definitely the camera you should upgrade to. Since the GoPro Hero 5 Black also comes with a touch screen you can safe another 70 EUR than buying an additional touchscreen for your GoPro Hero4 Black. 
+Now the question remains if you should upgrade from your GoPro Hero4 Black to the [GoPro Hero5 Black](https://www.rei.com/product/114467/gopro-hero5-black-camera). Well, if you need Video stabilization and want to record audio when you do water sports then the [GoPro Hero 5 Black](https://www.rei.com/product/114467/gopro-hero5-black-camera) is definitely the camera you should upgrade to. Since the [GoPro Hero 5 Black](https://www.rei.com/product/114467/gopro-hero5-black-camera) also comes with a touch screen you can safe another 70 EUR than buying an additional touchscreen for your GoPro Hero4 Black.
 
-I also found the price of the Hero5 Black quite reasonable with only 400 EUR which is 100 EUR less than what you have paid when the GoPro Hero4 Black came out. 
+I also found the price of the [GoPro Hero 5 Black](https://www.rei.com/product/114467/gopro-hero5-black-camera) quite reasonable with only 400 EUR which is 100 EUR less than what you have paid when the GoPro Hero4 Black came out. 
 
-If you you don't need location capture and raw images then you should definitely look into the new GoPro Session as well as it offers the same specs as the regular model just in a smaller camera body.
+If you you don't need location capture and raw images then you should definitely look into the new [GoPro Session](https://www.rei.com/product/114468/gopro-hero5-session-camera) as well as it offers the same specs as the regular model just in a smaller camera body.
 
 
 ---
