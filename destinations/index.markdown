@@ -18,16 +18,16 @@ footer: false
         	<img src="https://farm2.staticflickr.com/1615/24321011066_e5ce7b207e_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:#FFF;">E5: Alps</p>
         </div></div></a></div></div>
-        
-        
+
+
                      <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/" style="color: #FFF; border: 0px;">
         <div class="thumbnail text-center">
         	<img src="https://c8.staticflickr.com/8/7140/27787110055_38cd164c19_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:#FFF;">Montafon</p>
         </div></div></a></div></div>
-        
-        
+
+
 </div>   
 
 
@@ -42,7 +42,7 @@ footer: false
         <div class="caption">
             <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Semois</p>
         </div></div></a></div></div>
-       
+
 
             <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/Packrafting-Ardennes/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
@@ -107,7 +107,7 @@ footer: false
 
 
               <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
-            <a class="thumbnail" href="http://www.hikeventures.com/autumn-colors-around-lake-savojarvi/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
+            <a class="thumbnail" href="http://www.hikeventures.com/kurjenrahka-2/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
         <img src="https://farm2.staticflickr.com/1667/23720395163_b376a310d8_z.jpg" alt="" class="img-responsive">
         <div class="caption">
             <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Kurjenrahka</p>
@@ -186,16 +186,16 @@ footer: false
         <div class="caption">
             <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Suolijärvi</p>
         </div></div></a></div></div>
-        
-        
-        
+
+
+
          <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/Teijo/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
         <img src="https://c8.staticflickr.com/9/8791/28230945743_9c5c4503b4_z.jpg" alt="Teijo National Park" class="img-responsive">
         <div class="caption">
             <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Teijo National Park</p>
         </div></div></a></div></div>
-        
+
 
          <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/Packrafting-Aura-River-Turku/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
@@ -255,7 +255,7 @@ footer: false
 
 
 
-           
+
 </div>
 
 
@@ -459,7 +459,7 @@ footer: false
         	<img src="https://farm2.staticflickr.com/1654/23979414679_4036eec501_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Highlands</p>
         </div></div></a></div></div>
-        
+
                <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/Packrafting-River-Dee-Scotland-1/" style="color: #FFF; border: 0px;">
         <div class="thumbnail text-center">
@@ -509,12 +509,12 @@ footer: false
         	<img src="https://farm2.staticflickr.com/1489/24239565312_6c178026a9_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Trollsjön</p>
         </div></div></a></div></div>
-        
+
            <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/" style="color: #FFF; border: 0px;">
         <div class="thumbnail text-center">
         	<img src="https://farm8.staticflickr.com/7038/26713214620_879b297792_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Voxnan</p>
         </div></div></a></div></div>
-        
+
 </div> </div>  
