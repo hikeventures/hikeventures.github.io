@@ -1,5 +1,5 @@
 ---
-title: Autumn colors around lake Savojärvi
+title: Hiking in the Kurjenrahka National Park - Part 1
 description: Hiking on an autumn day in Kurjenrahka National Park
 date: 2014-09-12 19:17:19
 category: destinations
@@ -7,7 +7,7 @@ tags:
   - destinations
   - savojärvi
   - finland
-  - kurjenrahka
+  - kurjenrahka national park
   - hiking
 layout: post
 ---
@@ -29,7 +29,7 @@ In the Kurjenpesä visitor center I was able to pick up a free map.
 I started my hike on the Savonjarven Kierros which goes around the Savojärvi lake.
 
 <a href="https://www.flickr.com/photos/90204224@N07/15214404221" ><img src="https://farm4.staticflickr.com/3916/15214404221_34089da989_b.jpg" width="1024" height="683" alt="Kuhankuono boundary stone" ></a>
-I discovered the Kuhankuono boundary stone which has been an important boundary mark since 600 years. 
+I discovered the Kuhankuono boundary stone which has been an important boundary mark since 600 years.
 
 <a href="https://www.flickr.com/photos/90204224@N07/15030872887" ><img src="https://farm6.staticflickr.com/5572/15030872887_26a07242ec_b.jpg" width="1024" height="683" alt="Kurjenrahka National Park"></a>
 My hike continues along mires and spruces.
@@ -61,10 +61,10 @@ The markings in the Kurjenrahka National Park as excellent.
 I decided to walk along the Luontopolku which goes through an old-growth forest before continuing my hike along the shore of lake Savojärvi.
 
 <a href="https://www.flickr.com/photos/90204224@N07/15194305956" ><img src="https://farm4.staticflickr.com/3887/15194305956_9f42a0fbb9_b.jpg" width="1024" height="683" alt="Kurjenrahka National Park"></a>
-The boundaries of the National Park ... 
+The boundaries of the National Park ...
 
 <a href="https://www.flickr.com/photos/90204224@N07/15030759018" ><img src="https://farm6.staticflickr.com/5584/15030759018_651399cb57_b.jpg" width="1024" height="683" alt="Kurjenrahka National Park"></a>
-Again mushrooms... 
+Again mushrooms...
 
 <a href="https://www.flickr.com/photos/90204224@N07/15216938502" ><img src="https://farm4.staticflickr.com/3856/15216938502_a6ff261216_b.jpg" width="1024" height="683" alt="Kurjenrahka National Park"></a>
 
@@ -94,7 +94,4 @@ Again, well marked trails.
 <a href="https://www.flickr.com/photos/90204224@N07/15214160101" ><img src="https://farm6.staticflickr.com/5581/15214160101_818772f6a4_b.jpg" width="1024" height="683" alt="Kurjenrahka National Park"></a>
 Finally, I found the ultimate mushroom spot on the whole trail.
 
-To sum up, this was a great hike and I will come back another time in order to explore the Takaniitunvuori outlook and Vajosuo.
-
-## Links
-Kurjenrahka National Park on <a href="http://www.nationalparks.fi/en/kurjenrahkanp">Outdoors.fi</a>
+To sum up, this was a great hike and I will come back another time in order to explore the Takaniitunvuori outlook and Vajosuo. <a href="http://www.hikeventures.com/autumn-colors-around-lake-savojarvi/">2 years</a> later I went for another hike to Kujenrahka National Park. 
