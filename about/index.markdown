@@ -64,7 +64,8 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
       <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
             <img src="http://www.hikeventures.com/about/thermarest.jpg" alt="Therm-a-rest" width="300">
       </div>
-
+</div>
+<div class="row-fluid">
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
             <img src="http://www.hikeventures.com/about/thule.jpg" alt="Thule" width="300">
         </div>
@@ -72,6 +73,8 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
               <img src="http://www.hikeventures.com/about/werner.jpg" alt="Werner Paddles" width="300">
         </div>
+          <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+          </div>
 
 </div>
 
