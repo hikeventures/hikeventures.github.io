@@ -19,19 +19,19 @@ Last weekend we decided to visit the Kurjenrahka National Park with <a href="htt
 
 The trail continued through swamps and since we arrived quite late the sun was setting also slowly.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29454438693/in/dateposted-public/" title="Kurjenrahka National Park Finland"><img src="https://c6.staticflickr.com/6/5790/29454438693_03eede225c_k.jpg" width="2048" height="1152" alt="Kurjenrahka National Park Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29454438693/in/dateposted-public/" title="Kurjenrahka National Park Finland zeiss batis 25mm"><img src="https://c6.staticflickr.com/6/5790/29454438693_03eede225c_k.jpg" width="2048" height="1152" alt="Kurjenrahka National Park Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 However, we had plenty of fun on the trail.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29998383301/in/dateposted-public/" title="Kurjenrahka National Park Finland"><img src="https://c6.staticflickr.com/8/7761/29998383301_e39b7d336a_k.jpg" width="2048" height="1152" alt="Kurjenrahka National Park Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29998383301/in/dateposted-public/" title="Kurjenrahka National Park Finland"><img src="https://c6.staticflickr.com/8/7761/29998383301_e39b7d336a_k.jpg" width="2048" height="1152" alt="Kurjenrahka National Park Finland zeiss batis 25mm"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 From time to time we had a look on the map.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30081631975/in/dateposted-public/" title="KurjenrahkaNational Park Finland"><img src="https://c8.staticflickr.com/6/5699/30081631975_0dbc2ecd3e_k.jpg" width="2048" height="1152" alt="KurjenrahkaNational Park Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30081631975/in/dateposted-public/" title="KurjenrahkaNational Park Finland"><img src="https://c8.staticflickr.com/6/5699/30081631975_0dbc2ecd3e_k.jpg" width="2048" height="1152" alt="KurjenrahkaNational Park Finland zeiss batis 25mm"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Then we arrived at a dam where we had a nice view over the Savojärvi lake.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29998382291/in/dateposted-public/" title="Kurjenrahka National Park Finland"><img src="https://c4.staticflickr.com/9/8557/29998382291_15e1c7fb20_k.jpg" width="2048" height="1152" alt="Kurjenrahka National Park Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29998382291/in/dateposted-public/" title="Kurjenrahka National Park Finland"><img src="https://c4.staticflickr.com/9/8557/29998382291_15e1c7fb20_k.jpg" width="2048" height="1152" alt="Kurjenrahka National Park Finland zeiss batis 25mm"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Those were probably the last warm autumn days in Southern Finland and the nights are already getting colder.
 
