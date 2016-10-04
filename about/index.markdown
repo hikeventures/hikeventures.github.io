@@ -68,7 +68,7 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 <img src="http://www.hikeventures.com/about/werner.jpg" alt="Werner Paddles" width="300">
-</div></div>
+</div></div></div>
 <hr>
 
 <h1> Followers on Social Media </h1>
