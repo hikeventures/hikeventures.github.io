@@ -47,7 +47,8 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
             </div>
 </div>
 </div>
-
+<br>
+<br>
 <hr>
 
 <h1>Partners and Sponsors</h1>
