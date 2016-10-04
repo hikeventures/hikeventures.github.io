@@ -82,7 +82,7 @@ var newTitle1 = 'Discount';
 var tableHeaderElements = document.getElementsByTagName('th');
 for (var i = 0; i < tableHeaderElements.length; i++) {
     if (tableHeaderElements[i].innerHTML.indexOf(searchString) !== -1) {
-        tableHeaderElements[i].innerHTML=tableHeaderElements[i].innerHTML.replace(existingTitle,newTitle);          break;
+        tableHeaderElements[i].innerHTML=tableHeaderElements[i].innerHTML.replace(existingTitle,newTitle);         
         tableHeaderElements[i].innerHTML=tableHeaderElements[i].innerHTML.replace(existingTitle1,newTitle1);          break;
     }
 }
