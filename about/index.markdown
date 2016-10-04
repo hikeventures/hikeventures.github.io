@@ -66,7 +66,7 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
             <img src="http://www.hikeventures.com/about/thermarest.jpg" alt="Therm-a-rest" width="300">
       </div>
       </div></div>
-      
+      <br>
       <div class="container-fluid">
       <div class="row-fluid">
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
