@@ -42,7 +42,7 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 
             <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
             <a href="https://www.facebook.com/konstantin.gridnevskiy" target="_blank">Konstantin</a> is living in the Netherlands and was born 1978 in Russia. Konstantin is teaching adventure and heritage tourism at an University of Applied Science. Konstantin is our GoPro Hero camera expert. Inspired as a kid by the adventures of his father in Russia Konstantin followed him into his foot steps into the great outdoors. Living in densly populated Netherlands he is also very excited about microadventures which could be interesting for our urban readers. Konstantin is also very interested in hiking and packrafting adventures in Japan. Konstantin is our expert when it comes to <a href="http://www.hikeventures.com/Survey-The-use-of-Technology-Outdoors/">conducting  research</a>.<br>
-            <iframe src="//www.facebook.com/plugins/follow?href=https%3A%2F%2Fwww.facebook.com%2Fkonstantin.gridnevskiy&amp;layout=standard&amp;show_faces=true&amp;colorscheme=light&amp;width=450&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
+            <iframe src="//www.facebook.com/plugins/follow?href=https%3A%2F%2Fwww.facebook.com%2Fkonstantin.gridnevskiy&amp;layout=standard&size=large&amp;show_faces=true&amp;colorscheme=light&amp;width=450&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
             </div>
 </div>
 </div>
@@ -50,20 +50,23 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 <hr>
 
 <h1>Partners and Sponsors</h1>
+<div class="row">
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 <img src="http://www.hikeventures.com/about/msr.jpg" alt="MSR" width="300">
-<br>
-<br>
+</div><div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 <img src="http://www.hikeventures.com/about/Palm.jpg" alt="Palm" width="300">
-<br>
-<br>
+</div><div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 <img src="http://www.hikeventures.com/about/thermarest.jpg" alt="Therm-a-rest" width="300">
-<br>
-<br>
+</div><div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 <img src="http://www.hikeventures.com/about/thule.jpg" alt="Thule" width="300">
-<br>
-<br>
+</div><div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 <img src="http://www.hikeventures.com/about/werner.jpg" alt="Werner Paddles" width="300">
-
+</div></div></div>
 <hr>
 
 <h1> Followers on Social Media </h1>
