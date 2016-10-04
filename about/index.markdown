@@ -15,7 +15,7 @@ published: true
 HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoeing, cycling and urban microadventures. We <a href="http://www.hikeventures.com/destinations/">adventure</a> mainly in Europe but sometimes we also visit places like Japan or Russia. HikeVentures was established in 2012.
 
 <hr>
-
+<div class="container-fluid">
 <div class="row">
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
@@ -32,7 +32,9 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
  <iframe src="https://www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fpatrickdormischian&width=450&height=80&layout=standard&size=large&show_faces=true&appId" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>           
 
             </div>
- </div></div>
+ </div></div></div>
+
+ <div class="container-fluid">
 <div class="row-fluid">
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
@@ -47,40 +49,41 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
             </div>
 </div>
 </div>
-
+</div>
+<br>
+<br>
 <hr>
 
 <h1>Partners and Sponsors</h1>
+<div class="container-fluid">
 <div class="row-fluid">
 
 
       <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-            <img src="http://www.hikeventures.com/about/msr.jpg" alt="MSR" width="300">
+                       <img src="http://www.hikeventures.com/about/thule.jpg" alt="Thule" width="300">
       </div>
       <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-            <img src="http://www.hikeventures.com/about/Palm.jpg" alt="Palm" width="300">
+                  <img src="http://www.hikeventures.com/about/werner.jpg" alt="Werner Paddles" width="300">
       </div>
 
       <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
             <img src="http://www.hikeventures.com/about/thermarest.jpg" alt="Therm-a-rest" width="300">
       </div>
-<<<<<<< HEAD
-</div>
-
-
-=======
-      </div>
+      </div></div>
+      <br>
+      <div class="container-fluid">
       <div class="row-fluid">
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-            <img src="http://www.hikeventures.com/about/thule.jpg" alt="Thule" width="300">
+        <img src="http://www.hikeventures.com/about/msr.jpg" alt="MSR" width="300">
+
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-              <img src="http://www.hikeventures.com/about/werner.jpg" alt="Werner Paddles" width="300">
+        <img src="http://www.hikeventures.com/about/Palm.jpg" alt="Palm" width="300">
+
         </div>
         <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"></div>
-</div>
->>>>>>> origin/master
+</div></div>
 
 <hr>
 
