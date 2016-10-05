@@ -22,6 +22,8 @@ PFD's are categorized by [pfdma.org](http://www.pfdma.org/choosing/types.aspx) i
 
 We are usually wearing a dry suite when we go packrafting and we would rate the difficulty of the river which we are usually paddling between class 2 and class 3. The following PFD's are quite light and can also be carried with your backpack like the [HMG Porter 4400](http://www.hikeventures.com/gear-review-hmg-porter-4400-black/) which is our go-to packrafting backpack.
 
+We have not tested all the PFDs in this article but those are our favourites if we were to buy a new one. The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
+
 ---
 
 # Overview of the best PFDs / life jackets for packrafting
@@ -174,7 +176,3 @@ amzn_assoc_linkid = "8b6cf7f3e8c5fbd4e1712dfe9e9156c9";
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
-
-# Disclaimer
-The products in this article have not been tested by us. This page contains affiliate links. Read more [here](The products in this article have not been tested by us. This page contains affiliate links. Read more [here](http://www.hikeventures.com/about/).
-
