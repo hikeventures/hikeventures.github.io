@@ -37,7 +37,7 @@ In this blog post you can find the best lightweight sleeping pads available in 2
 
 
 <br>
-<strong>Tip:</strong> <a href="http://www.hikeventures.com/deals/">Here</a> you can search and compare gear prices of different stores.
+<strong>Tip:</strong> <a href="http://www.hikeventures.com/deals/" target="_blank">Here</a> you can search and compare gear prices of different stores.
 
 ---
 
