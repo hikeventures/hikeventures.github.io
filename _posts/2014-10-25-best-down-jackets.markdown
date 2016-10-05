@@ -43,7 +43,7 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hik
 
 <hr>
 
-# Deals
+# Discounts
 
  <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=down jacket -boy -Nishikawa&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=25&search_price_minimum=110&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
 
@@ -60,7 +60,7 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hik
 
 The Mountain Hardware Ghost Whisperer Hooded Down Jacket is one of the lightest down jackets available. This is a great jacket for camping during spring, summer and autumn or as a light mid-layer for the winter. If you are looking for a proper winter jacket then we would rather pick the Rab Infinity Endurance or the Rab Positron jacket. For a stylish jacket to use during winter mainly in town we would go for the Arcteryx Ceres jacket.
 
-<a href="http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Ghost Whisperer Hooded Down Jacket</button></a>  
+<a href="http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Ghost Whisperer Hooded Down Jacket</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
 
 ---
 
@@ -72,7 +72,7 @@ The Mountain Hardware Ghost Whisperer Hooded Down Jacket is one of the lightest 
 
 Similar as the Arcteryx Cerium LT Jacket just with a hoodie. We would pick the Cerium LT Hoody if we would have to choose a down jacket for moderate winter or for camping during spring and autumn. LT stands for lightweight in the Arcteryx product line.
 
-<a href="http://www.backcountry.com/arcteryx-cerium-lt-hooded-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Cerium LT Hoody</button></a>  
+<a href="http://www.backcountry.com/arcteryx-cerium-lt-hooded-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Cerium LT Hoody</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
 
 ---
 
@@ -84,7 +84,7 @@ Similar as the Arcteryx Cerium LT Jacket just with a hoodie. We would pick the C
 
 The Western Mountaineering Flash Jacket is a very good jacket for hiking trips in moderate cold conditions (spring and autumn). It's lightweight, has a good warmth-weight ratio and the full zipper have insulated draft protection.
 
-<a href="http://www.backcountry.com/western-mountaineering-flash-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Flash Jacket</button></a>  
+<a href="http://www.backcountry.com/western-mountaineering-flash-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Flash Jacket</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
 
 ---
 
@@ -96,7 +96,7 @@ The Western Mountaineering Flash Jacket is a very good jacket for hiking trips i
 
 The Marmot Quasar Hoody is also an interesting jacket with it's high down fill power covered by light Pertex Quantum fabric (similar as other models in our list) which makes it also somewhat water repellent. The additional zip on the front adds a little bit more weight to the jacket. We would wear the Marmot Quasar Hoody during moderate winter or camping during spring and summer.
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Marmot-Men-s-Quasar-Hoody_10221652_10208_10000001_-1"><button type="button" class="btn btn-danger">Read more about the Quasar Hoody</button></a>  
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Marmot-Men-s-Quasar-Hoody_10221652_10208_10000001_-1"><button type="button" class="btn btn-danger">Read more about the Quasar Hoody</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
 
 ---
 
@@ -108,7 +108,7 @@ The Marmot Quasar Hoody is also an interesting jacket with it's high down fill p
 
 The Arcteryx Cerium SV Hoody is part of Arcteryx severe weather product line - most durable materials which provides most weather protection. We would wear this jacket during the winter. For camping during spring and summer it's probably going to be a bit too warm.
 
-<a href="http://www.backcountry.com/arcteryx-cerium-sv-hooded-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Cerium SV Hoody</button></a>  
+<a href="http://www.backcountry.com/arcteryx-cerium-sv-hooded-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Cerium SV Hoody</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
 
 ---  
 
@@ -120,7 +120,7 @@ The Arcteryx Cerium SV Hoody is part of Arcteryx severe weather product line - m
 
 The The North Face Super Diez Hooded Jacket is a mountaineering and alpine climbing jacket which has an internal zip chest pocket and a DWR coating which repels light moisture. The 900 fp offers a great weight to warmth ratio.
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_The-North-Face-Men-s-Super-Diez-Hooded-Jacket_10284860_10208_10000001_-1"><button type="button" class="btn btn-danger">Read more about the Super Diez Hooded Jacket</button></a>  
+<a href="http://www.moosejaw.com/moosejaw/shop/product_The-North-Face-Men-s-Super-Diez-Hooded-Jacket_10284860_10208_10000001_-1"><button type="button" class="btn btn-danger">Read more about the Super Diez Hooded Jacket</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
 
 ---
 
@@ -132,7 +132,7 @@ The The North Face Super Diez Hooded Jacket is a mountaineering and alpine climb
 
 Patagonia is another popular outdoor brand and delivers a super light down jacket which comes with 2 zipped hand warmer pockets and elastic-bound cuffs and hem. The shell of the jacket is durable water repellent. The Patagonia Men's Down Hooded Jacket can be used as a light winter jacket.
 
-<a href="http://www.backcountry.com/patagonia-hi-loft-down-hooded-sweater-mens"><button type="button" class="btn btn-danger">Read more about the Patagonia Down Hooded Jacket</button></a>  
+<a href="http://www.backcountry.com/patagonia-hi-loft-down-hooded-sweater-mens"><button type="button" class="btn btn-danger">Read more about the Patagonia Down Hooded Jacket</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
 
 ---
 
@@ -144,7 +144,7 @@ Patagonia is another popular outdoor brand and delivers a super light down jacke
 
 The  Rab Infinity Endurance Jacket is a technical alpine or mountaineering jacket. It's high fill power and low weight makes this probably one of the best lightweight winter down jackets. If you need a warmer jacket then the Rab Positron Jacket would be an alternative option which adds approximately 30% more warmth.
 
-<a href="http://www.backcountry.com/rab-infinity-endurance-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Rab Infinity Endurance Jacket</button></a>    
+<a href="http://www.backcountry.com/rab-infinity-endurance-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Rab Infinity Endurance Jacket</button></a>    <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
 
 ---
 
@@ -156,7 +156,7 @@ The  Rab Infinity Endurance Jacket is a technical alpine or mountaineering jacke
 
 The  Rab Positron Jacket is proper box-wall down winter jacket with a water-resistant outer fabric. The manufacturer claims that it has been designed for mountain and expedition use up to 6000m. This jacket delivers about 30% more warmth than the Rab Infinity Endurance jacket.
 
-<a href="http://www.backcountry.com/rab-positron-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Rab Positron Jacket</button></a>
+<a href="http://www.backcountry.com/rab-positron-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Rab Positron Jacket</button></a> <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
 
 ---
 
@@ -168,7 +168,7 @@ The  Rab Positron Jacket is proper box-wall down winter jacket with a water-resi
 
 More heavy than the other jackets in our list, the Arcteryx Ceres Jacket is made for the deep winter where warmth is the most important factor. This jacket is a probably a great option if you also want to have a fashionable jacket to wear in the city.
 
-<a href="http://gearx.com/arc-teryx-ceres-jacket-m"><button type="button" class="btn btn-danger">Read more about the Ceres Jacket</button></a>  
+<a href="http://gearx.com/arc-teryx-ceres-jacket-m"><button type="button" class="btn btn-danger">Read more about the Ceres Jacket</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
 
 ---
 
