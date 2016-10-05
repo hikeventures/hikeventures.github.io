@@ -8,6 +8,8 @@ footer: false
 published: true
 ---
 
+**Tip:** You can compare prices and find discounts <a href="http://www.hikeventures.com/deals/">here</a> (U.S. only).
+
 <div class="table">
 
       <table class="table table-hover table-condensed">
