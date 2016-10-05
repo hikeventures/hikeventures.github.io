@@ -56,7 +56,7 @@ In the evenings while sitting in the camp I swap my [fleece](http://www.hikevent
 
 The Patagonia Houdini is another great wind jacket which got recommended by many other outdoor enthusiasts. It comes with a zippered chest pocket and the hood is adjustable. There is also a reflective logo on the front and back which comes quite handy during night hikes.
 
-<a href="https://www.rei.com/product/893303/patagonia-houdini-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Patagonia Houdini</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
+<a href="https://www.rei.com/product/893303/patagonia-houdini-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Patagonia Houdini</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
 
 ---
 
@@ -70,7 +70,7 @@ The Patagonia Houdini is another great wind jacket which got recommended by many
 
 The Arcteryx Incendo Hoody has breathable mesh panels under the arms, a hood and a full front zip. It also features an internal MP3 pocket with audio ports, a side stow pocket and reflective blazes. The Incendo Hoody is more a running jacket than a hiking jacket but could be an alternative to the Arcteryx Squamish Hoody if you are an Arcteryx fan and want to save a few grams.
 
-<a href="https://www.rei.com/product/895292/arcteryx-incendo-hoodie-mens"><button type="button" class="btn btn-danger">Read more about the Arcteryx Incendo Hoody</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
+<a href="https://www.rei.com/product/895292/arcteryx-incendo-hoodie-mens"><button type="button" class="btn btn-danger">Read more about the Arcteryx Incendo Hoody</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
 
 ---
 
@@ -83,7 +83,7 @@ The Arcteryx Incendo Hoody has breathable mesh panels under the arms, a hood and
 
 The North Face Fuseform Eragon has fewer seams and a streamlined, Alpine-specific fit.
 
-<a href="http://www.backcountry.com/the-north-face-fuseform-eragon-wind-jacket-mens"><button type="button" class="btn btn-danger">Read more about the The North Face Fuseform Eragon</button></a> <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
+<a href="http://www.backcountry.com/the-north-face-fuseform-eragon-wind-jacket-mens"><button type="button" class="btn btn-danger">Read more about the The North Face Fuseform Eragon</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
 
 ---
 
@@ -97,7 +97,7 @@ The North Face Fuseform Eragon has fewer seams and a streamlined, Alpine-specifi
 
 The Arcteryx Squamish Hoody comes with a hood, full front zip and a front pocket. This jacket also has cuff adjusters and a reflective logo.
 
-<a href="http://www.backcountry.com/arcteryx-squamish-hooded-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Arcteryx Squamish Hoody</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
+<a href="http://www.backcountry.com/arcteryx-squamish-hooded-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Arcteryx Squamish Hoody</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
 
 ---
 
