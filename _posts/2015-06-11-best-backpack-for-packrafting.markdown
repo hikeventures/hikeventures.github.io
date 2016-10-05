@@ -14,7 +14,7 @@ In this artcile I would like to present the best backpacks with are available fo
 
 <a href="https://www.flickr.com/photos/90204224@N07/13979508784" title="The best backpack for packrafting"><img src="https://c2.staticflickr.com/8/7211/13979508784_43bee1910b_b.jpg" width="1024" height="683" alt="HMG Porter 4400 Alpack Pack Packraft - Best Backpack for Packrafting"></a>
 
-We have not tested every backpack in this article but those are our favourites if we were to buy a new fleece jacketbackpack. The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
+We have not tested every backpack in this article but those are our favourites if we were to buy a new fleece backpack. The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
 
 <!--more-->
 
