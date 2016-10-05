@@ -31,7 +31,7 @@ We have not tested all the helmets in this article but those are our favourites 
 # Overview of the best packrafting and kayaking helmets
 
 | Product | Weight |
-| --- | :---:|
+| :--- | :---|
 |[NRS WRSI Trident Composite Helmet](http://www.backcountry.com/nrs-wrsi-trident-composite-helmet)|1.87 lbs / 848 grams|
 |[NRS WRSI Current Helmet](http://www.backcountry.com/nrs-wrsi-current-helmet)|1.14 lbs / 517 grams|
 |[Sweet Protection Strutter Helmet](http://www.backcountry.com/sweet-protection-strutter-helmet)|0.9 lbs / 400 grams|
