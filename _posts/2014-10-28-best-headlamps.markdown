@@ -17,7 +17,7 @@ I have recently decided to upgraded my headlamp and compared different models. H
 
 Konstantin wearing a Petzl Nao on the top of a fell in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Trip in Lapland")
 
-We have not tested the all the headlamps in this article but those are our favourites if we were to buy a new headlamp. The links on this site contains affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
+We have not tested the all the headlamps in this article but those are our favourites if we were to buy a new headlamp. The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
 
 ---
 
