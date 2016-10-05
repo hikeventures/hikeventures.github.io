@@ -24,6 +24,8 @@ Here you can find [one of our trips](http://www.hikeventures.com/Swedish-Packraf
 
 <!--more-->
 
+We have not tested all the helmets in this article but those are our favourites if we were to buy a new one. The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
+
 ---
 
 # Overview of the best packrafting and kayaking helmets
@@ -154,6 +156,3 @@ amzn_assoc_linkid = "1b9d1e4302c0c92ff457962d6ba0d67b";
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
-
-# Disclosure
-The products in this article have not been tested by us. This page contains affiliate links. Read more [here](http://www.hikeventures.com/about/).
