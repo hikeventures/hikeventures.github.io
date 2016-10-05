@@ -9,6 +9,7 @@ published: true
 ---
 **Tip:** You can compare prices and find discounts on gear <a href="http://www.hikeventures.com/deals/">here</a> (U.S. only).
 <br>
+<br>
 <div class="table">
 
       <table class="table table-hover table-condensed">
