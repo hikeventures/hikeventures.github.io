@@ -18,6 +18,9 @@ Further, it's also worth to consider that a 1-person tent can be more heavy than
 <img src="https://c2.staticflickr.com/6/5600/15455033882_22ac28bbe8_b.jpg" width="100%" alt="Best Solo 1-person backpacking tent of 2016 / 2017">
     
 A Hilleberg Nallo in the back and a Hilleberg Anjan in the front.
+
+We have not tested all the tents in this article but those are our favourites if we were to buy a new tent. The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
+
 <!--more-->
 
 ---
@@ -293,6 +296,3 @@ amzn_assoc_linkid = "965296fb866182bb89b535202541adda";
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
-
-# Disclosure
-The products in this article have not been tested by us. This page contains affiliate links. Read more [here](http://www.hikeventures.com/about/).
