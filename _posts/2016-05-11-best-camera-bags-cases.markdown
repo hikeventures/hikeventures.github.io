@@ -10,7 +10,7 @@ tags:
   - camera
 ---
 
-In this post I would like to give an overview about the best camera bags for your Sony A7, A7II A7RII or A7SII (and also a6300 or a6000 since they share a similar form factor) which you can use for hiking, backpacking, canoeing or packrafting. As I have recently upgraded my own camera gear which I am planning to take to [our trips](http://www.hikeventures.com/destinations/),  I was in need of a new camera case which I can use for my outdoor adventures. I was looking for a camera bag or case which packs small and actually came to the conclusion that I would need different camera bags for my MILC for different activities. So here are my favourite bags which I have found so far (I will update this list in the future).
+In this post I would like to give an overview about the best camera bags for your Sony A7, A7II A7RII or A7SII (and also a6300 or a6000 since they share a similar form factor) which you can use for hiking, backpacking, canoeing or packrafting. As I have recently upgraded my own camera gear which I am planning to take to [our trips](http://www.hikeventures.com/destinations/),  I was in need of a new camera case which I can use for my outdoor adventures. I was looking for a camera bag or case which packs small and actually came to the conclusion that I would need different camera bags for my MILC for different activities. So here are my favourite bags which I have found so far (I will update this list in the future). I have not tested all the camera bags in this article but those are my favourites if we were to buy a new one. The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/16507482946/in/album-72157651193131682/" title="Lapland Finland"><img src="https://c3.staticflickr.com/9/8617/16507482946_94d0b3ba64_k.jpg" width="100%" alt="Best DSLR MILC Camera Bags for hiking, backpacking, kayaking and packrafting"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -187,6 +187,3 @@ amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
-
-# Disclosure
-Not all the products in this article have been tested by us. This page contains affiliate links. Read more [here](http://www.hikeventures.com/about/).
