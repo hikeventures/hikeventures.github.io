@@ -28,7 +28,7 @@ Initially, I was reluctant to buy this water bottle as I thought it's just an av
 
 <a href="https://www.flickr.com/photos/90204224@N07/17783118222" title="Nalgene Everyday water bottle"><img src="https://c2.staticflickr.com/6/5344/17783118222_65d04aeb17_b.jpg" width="100%" alt="Nalgene Everyday water bottle"></a>
 
-<a href="http://www.backcountry.com/nalgene-wide-mouth-tritan-bottle-32oz"><button type="button" class="btn btn-danger">Read more about the Nalgene Bottle</button></a> <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
+<a href="http://www.backcountry.com/nalgene-wide-mouth-tritan-bottle-32oz"><button type="button" class="btn btn-danger">Read more about the Nalgene Bottle</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
 
 ---
 
