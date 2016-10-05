@@ -17,6 +17,8 @@ A portable and lightweight camping stove is one of the most essential item to ha
 
 Konstantin with a [Jetboil stove](http://hikeventures.com/gear-review-jetboil-sol-ti/ "Jetboil Sol Ti") in [Sarek National Park](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Sarek National Park") in Sweden.
 
+We have not tested the camping stoves in this article but those are our favourites if we were to buy a new camping stove. The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
+
 ---
 
 # Overview of the best camping stoves for 2016
@@ -163,6 +165,3 @@ amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
-
-# Disclosure
-The products in this article have not been tested by us. This page contains affiliate links. Read more [here](http://www.hikeventures.com/about/).
