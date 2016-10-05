@@ -46,7 +46,7 @@ The Astral Designs YTV is a great choice if you want to have a minimalistic life
 
 <a href="https://www.amazon.com/gp/product/B01BMZWV6C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01BMZWV6C&linkCode=as2&tag=hikeve-20&linkId=0fb99e04474c270ca1f5d07c107a0dd9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01BMZWV6C&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01BMZWV6C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="http://www.backcountry.com/astral-ytv-personal-flotation-device" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Astral Designs YTV</button></a> <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
+<a href="http://www.backcountry.com/astral-ytv-personal-flotation-device" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Astral Designs YTV</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
 
 ---
 
@@ -58,7 +58,7 @@ The Astral Designs V-Eight has 2 zippered front pockets and made for the summer.
 
 <a href="https://www.amazon.com/gp/product/B00TMANL50/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TMANL50&linkCode=as2&tag=hikeve-20&linkId=254bf432198b3c65cdd8cabe819e726a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00TMANL50&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00TMANL50" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="https://www.rei.com/product/881421/astral-v-eight-pfd" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Astral Designs V-Eight</button></a> <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
+<a href="https://www.rei.com/product/881421/astral-v-eight-pfd" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Astral Designs V-Eight</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
 
 ---
 
@@ -70,7 +70,7 @@ The Palm Alpha is one of the lightest white water life jackets on the market. It
 
 <a href="https://www.amazon.com/gp/product/B00SL7IY84/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SL7IY84&linkCode=as2&tag=hikeve-20&linkId=d7b6b512d5f3a3e5428922541d672fbd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00SL7IY84&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00SL7IY84" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="http://amzn.to/29kvV8M" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Palm Alpha</button></a> <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
+<a href="http://amzn.to/29kvV8M" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Palm Alpha</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
 
 ---
 
@@ -82,7 +82,7 @@ If you need a PFD where you can store a lot's of stuff in it then you should hav
 
 <a href="https://www.amazon.com/gp/product/B00ILHKYAK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ILHKYAK&linkCode=as2&tag=hikeve-20&linkId=8bd526c578279fdf0604cbab13ae67bd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00ILHKYAK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00ILHKYAK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="https://www.rei.com/product/867519/astral-sea-wolf-pfd-mens"><button type="button" class="btn btn-danger">Read more about the Astral Designs Sea Wolf</button></a> <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
+<a href="https://www.rei.com/product/867519/astral-sea-wolf-pfd-mens"><button type="button" class="btn btn-danger">Read more about the Astral Designs Sea Wolf</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
 
 ---
 
@@ -94,7 +94,7 @@ Palm FX is another PFD which offers plenty or storage room for long packrafting 
 
 <a href="https://www.amazon.com/gp/product/B018ETXYF6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B018ETXYF6&linkCode=as2&tag=hikeve-20&linkId=2ecf853ac2c36d666ec79c5b077c9075"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B018ETXYF6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B018ETXYF6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="http://amzn.to/292fRLY" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Palm FX</button></a> <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
+<a href="http://amzn.to/292fRLY" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Palm FX</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
 
 ---
 
@@ -112,7 +112,7 @@ The NRS Pilot River Knife can be attached to the front of the Astral Designs YTV
 
 <a href="https://www.amazon.com/gp/product/B001UICFRC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001UICFRC&linkCode=as2&tag=hikeve-20&linkId=593b72bccf776c9eac85ed2681826cae"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001UICFRC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001UICFRC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="https://www.rei.com/product/101755/nrs-pilot-river-knife" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the NRS Pilot River Knife</button></a> <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
+<a href="https://www.rei.com/product/101755/nrs-pilot-river-knife" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the NRS Pilot River Knife</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
 
 ---
 
@@ -121,7 +121,7 @@ The NRS Co-Pilot River Knife is the shorter version of the NRS Pilot Knife.
 
 <a href="https://www.amazon.com/gp/product/B014OTTE4U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014OTTE4U&linkCode=as2&tag=hikeve-20&linkId=31c1e32939b4c5d0a67323b2c3d5975e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B014OTTE4U&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B014OTTE4U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="https://www.rei.com/product/101754/nrs-co-pilot-river-knife-yellow" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the NRS Co-Pilot River Knife</button></a> <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
+<a href="https://www.rei.com/product/101754/nrs-co-pilot-river-knife-yellow" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the NRS Co-Pilot River Knife</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
 
 ---
 
@@ -130,7 +130,7 @@ You can attache the NRS Wedge Rescue Throw Bag on your packraft and quick access
 
 <a href="https://www.amazon.com/gp/product/B0028EHPTA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0028EHPTA&linkCode=as2&tag=hikeve-20&linkId=0c7f1d02ef740d6a818a23c7d4b3eaa0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0028EHPTA&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0028EHPTA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="https://www.rei.com/product/881345/nrs-wedge-rescue-throw-bag" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the NRS Wedge Rescue Throw Bag</button></a> <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
+<a href="https://www.rei.com/product/881345/nrs-wedge-rescue-throw-bag" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the NRS Wedge Rescue Throw Bag</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
 
 ---
 
@@ -139,7 +139,7 @@ The Sea to Summit Ultra Flex Booties protect your feet when you walk in the rive
 
 <a href="https://www.amazon.com/gp/product/B00W5P5BU2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00W5P5BU2&linkCode=as2&tag=hikeve-20&linkId=ff2d0de60ceb7abc7e35c33e0dcd1648"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00W5P5BU2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00W5P5BU2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="https://www.rei.com/product/883302/sea-to-summit-ultra-flex-water-booties" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Sea to Summit Ultra Flex Booties</button></a> <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
+<a href="https://www.rei.com/product/883302/sea-to-summit-ultra-flex-water-booties" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Sea to Summit Ultra Flex Booties</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
 
 ---
 
@@ -148,7 +148,7 @@ The Sea to Summit Paddle Leash is light and assures that you don't loose your pa
 
 <a href="https://www.amazon.com/gp/product/B012NRXPPO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B012NRXPPO&linkCode=as2&tag=hikeve-20&linkId=8726042078b3f76f62040852ba7e887f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B012NRXPPO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B012NRXPPO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="http://amzn.to/295kdRT" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Sea to Summit Paddle Leash</button></a> <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
+<a href="http://amzn.to/295kdRT" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Sea to Summit Paddle Leash</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
 
 ---
 
