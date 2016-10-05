@@ -46,7 +46,7 @@ Now the question remains if you should upgrade from your GoPro Hero4 Black to th
 
 I also found the price of the [GoPro Hero 5 Black](https://www.rei.com/product/114467/gopro-hero5-black-camera) quite reasonable with only 400 EUR which is 100 EUR less than what you have paid when the GoPro Hero4 Black came out.
 
-If you you don't need location capture and raw images then you should definitely look into the new [GoPro Session](https://www.rei.com/product/114468/gopro-hero5-session-camera) as well as it offers the same specs as the regular model just in a smaller camera body.
+If you you don't need location capture and raw images then you should definitely look into the new [GoPro Session](https://www.rei.com/product/114468/gopro-hero5-session-camera) as well as it offers the same specs as the regular model just in a smaller camera body. You may also check for <a href="/deals/" target="_blank">here</a>.
 
 ---
 
