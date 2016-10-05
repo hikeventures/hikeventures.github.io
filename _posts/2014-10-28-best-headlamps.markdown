@@ -17,6 +17,8 @@ I have recently decided to upgraded my headlamp and compared different models. H
 
 Konstantin wearing a Petzl Nao on the top of a fell in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Trip in Lapland")
 
+We have not tested the all the headlamps in this article but those are our favourites if we were to buy a new fleece jacket headlamp. The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
+
 ---
 
 # Overview of the best headlamps of 2016
@@ -318,6 +320,3 @@ The spotlight of a headlamp refers to the point of visible light. The spotlight 
 Not every headlamp is watertight. Some headlamps are only splash proof. Have a look at the IPX rating which indicates how watertight a headlamp is.
 
 ---
-
-# Disclosure
-The products in this article have not been tested by us. This page contains affiliate links. Read more [here](http://www.hikeventures.com/about/).
