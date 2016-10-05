@@ -170,6 +170,3 @@ If you are looking for a rain jacket for your next hiking trip then you should c
 I hope you found this article useful to find your rain jacket in 2016.
   
 ---
- 
-# Disclosure
-The products in this article have not been tested by us. This page contains affiliate links. Read more [here](http://www.hikeventures.com/about/).
