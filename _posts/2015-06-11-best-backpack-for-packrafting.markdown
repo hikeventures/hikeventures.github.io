@@ -52,7 +52,7 @@ The HMG Windrider is similar as the HMG Porter 4400 but comes already with three
 **Volume:** 70l  
 **Fabric:** 15D Cuben Fiber  
 
-<a href="https://www.hyperlitemountaingear.com/4400-windrider.html"><button type="button" class="btn btn-danger">Read more about the HMG Windrider 4400</button></a>  
+<a href="https://www.hyperlitemountaingear.com/4400-windrider.html"><button type="button" class="btn btn-danger">Read more about the HMG Windrider 4400</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
 
 ---
 
@@ -63,7 +63,7 @@ This is my current backpack with a volume of 70l. It felt comfortable to carry a
 **Volume:** 70l  
 **Fabric:** 15D Cuben Fiber
 
-<a href="https://www.hyperlitemountaingear.com/4400-porter.html"><button type="button" class="btn btn-danger">Read more about the HMG Porter 4400</button></a>  
+<a href="https://www.hyperlitemountaingear.com/4400-porter.html"><button type="button" class="btn btn-danger">Read more about the HMG Porter 4400</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
 
 ---
 
@@ -74,7 +74,7 @@ The Sea to Summit Hydraulic Dry Packs looked to me as an interesting alternative
 **Volume:** 90l  
 **Fabric:** 600D TPU laminated fabric
 
-<a href="http://www.backcountry.com/sea-to-summit-hydraulic-dry-pack"><button type="button" class="btn btn-danger">Read more about the Sea to Summit Hydraulic Dry Pack</button></a>  
+<a href="http://www.backcountry.com/sea-to-summit-hydraulic-dry-pack"><button type="button" class="btn btn-danger">Read more about the Sea to Summit Hydraulic Dry Pack</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
 
 ---
 
@@ -84,7 +84,7 @@ The ULA Epic seems to be the best choice beside the NRS Paragon Pack if I want t
 **Weight:** 922 grams (without dry sack)  
 **Volume:** 30-75l  
 
-<a href="http://www.ula-equipment.com/product_p/epic.htm?avad=150351_eb5dd49b"><button type="button" class="btn btn-danger">Read more about the ULA Epic</button></a>  
+<a href="http://www.ula-equipment.com/product_p/epic.htm?avad=150351_eb5dd49b"><button type="button" class="btn btn-danger">Read more about the ULA Epic</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
 
 ---
 
@@ -93,7 +93,7 @@ The NRS Paragon Pack is quite versatile like the ULA Epic and you can use smalle
 
 **Weight:** 1179 grams (without dry sack)
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_NRS-Paragon-Pack_10275460_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the  NRS Paragon</button></a> 
+<a href="http://www.moosejaw.com/moosejaw/shop/product_NRS-Paragon-Pack_10275460_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the  NRS Paragon</button></a> <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
 
 ---
 
