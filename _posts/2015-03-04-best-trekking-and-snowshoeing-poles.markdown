@@ -33,7 +33,7 @@ Currently, I am using the Black Diamond Ultra Distance Z-Poles which are not mad
 
 ---
 
-# Deals
+# Discounts
 
  <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=trekking poles -xenon&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=70&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=5&search_results_sort_order=Sale+Price"></script>
 
@@ -50,7 +50,7 @@ Currently, I am using the Black Diamond Ultra Distance Z-Poles which are not mad
 
 The MSR Flight 3 is made of 7000-series Aluminium and has a non-absorbing foam grip and glove friendly straps. We have tested the MSR Flight 2 in the [Austrian Alps](http://www.hikeventures.com/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/ "Austrian Alps"). They are great for summer and winter. If you look specifically for winter poles then you should have a look at the MSR Deploy T-2 or T-3 (below).
 
-<a href="http://www.backcountry.com/msr-flight-3-trekking-pole"><button type="button" class="btn btn-danger">Read more about the MSR Flight 3</button></a>  
+<a href="http://www.backcountry.com/msr-flight-3-trekking-pole"><button type="button" class="btn btn-danger">Read more about the MSR Flight 3</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
 
 ---
 
@@ -61,7 +61,7 @@ The MSR Flight 3 is made of 7000-series Aluminium and has a non-absorbing foam g
 
 The MSR Deploy T-3 are great for snowshoeing. We have tested the Deploy T-2 in the Austrian Alps [Austrian Alps](http://www.hikeventures.com/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/ "Austrian Alps"). If you are looking for poles which you can also use during the summer then you should have a look at the MSR Flight 3. There are 2 models available, the MSR Deploy T-2 and T-3 with the only difference that the T3 packs smaller.
 
-<a href="http://www.backcountry.com/msr-deploy-tr-3-trekking-pole"><button type="button" class="btn btn-danger">Read more about the MSR Deploy T-3</button></a>  
+<a href="http://www.backcountry.com/msr-deploy-tr-3-trekking-pole"><button type="button" class="btn btn-danger">Read more about the MSR Deploy T-3</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
 
 ---
 
@@ -73,7 +73,7 @@ The MSR Deploy T-3 are great for snowshoeing. We have tested the Deploy T-2 in t
    
 The Black Diamond Expedition 3 poles are made of Aluminium and can also be used as ski poles. The poles also come with a 4-season strap in case you want to use gloves during the winter season. These poles come with trekking and snow baskets.
 
-<a href="https://www.rei.com/product/876929/black-diamond-expedition-3-ski-poles-pair"><button type="button" class="btn btn-danger">Read more about the Black Diamond Expedition 3</button></a>  
+<a href="https://www.rei.com/product/876929/black-diamond-expedition-3-ski-poles-pair"><button type="button" class="btn btn-danger">Read more about the Black Diamond Expedition 3</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
 
 ---
 
@@ -85,7 +85,7 @@ The Black Diamond Expedition 3 poles are made of Aluminium and can also be used 
 
 The Black Diamond Distance Carbon Z is made of carbon and suitable for fast-packing adventures. The poles are 3-section foldable.   
 
-<a href="http://www.backcountry.com/black-diamond-distance-trekking-pole"><button type="button" class="btn btn-danger">Read more about the Black Diamond Distance Carbon Z</button></a>  
+<a href="http://www.backcountry.com/black-diamond-distance-trekking-pole"><button type="button" class="btn btn-danger">Read more about the Black Diamond Distance Carbon Z</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
 
 ---
 
@@ -97,7 +97,7 @@ The Black Diamond Distance Carbon Z is made of carbon and suitable for fast-pack
 
 The Black Diamond Distance Carbon FLZ are made of carbon fibre those poles come with FlickLock Pro adjustability. The poles are 3-section foldable.   
 
-<a href="https://www.rei.com/product/879955/black-diamond-distance-carbon-flz-trekking-poles-pair"><button type="button" class="btn btn-danger">Read more about the Ghost Whisperer Hooded Down Jacket</button></a>  
+<a href="https://www.rei.com/product/879955/black-diamond-distance-carbon-flz-trekking-poles-pair"><button type="button" class="btn btn-danger">Read more about the Ghost Whisperer Hooded Down Jacket</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
 
 ---
 
@@ -109,7 +109,7 @@ The Black Diamond Distance Carbon FLZ are made of carbon fibre those poles come 
 
 The Leki Micro series are foldable hiking poles from Leki and are made of Aluminium.
 
-<a href="http://www.backcountry.com/leki-micro-vario-ti-trekking-poles"><button type="button" class="btn btn-danger">Read more about the Leki Micro Ti</button></a>  
+<a href="http://www.backcountry.com/leki-micro-vario-ti-trekking-poles"><button type="button" class="btn btn-danger">Read more about the Leki Micro Ti</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
 
 <a href="https://www.flickr.com/photos/90204224@N07/16507495306"><img src="https://farm8.staticflickr.com/7432/16507495306_31a0dc37c5_b.jpg" width="1024" height="680" alt="The best snowshoeing and trekking poles of 2017 - Lapland - Finland"></a>
 
