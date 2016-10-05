@@ -11,11 +11,11 @@ layout: post
 ---
 Here is our buying guide of the best summer and winter down jackets for 2016 which you can take on your next hiking, backpacking, skiing, snowboarding, mountaineering, climbing, photography or any other backcountry outdoor adventure to stay warm.
 
-We usually go hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe and have selected the down jackets we would consider to buy accordingly. [Here](http://www.hikeventures.com/destinations/) you can find a list of destinations we have visisted so far.
+We usually go hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe and have selected the down jackets we would consider to buy accordingly. [Here](http://www.hikeventures.com/destinations/) you can find a list of destinations we have visisted so far 
 
 The down jackets in our buying guide are sorted by weight and we have just selected goose down jackets with a fill power of 800 and more since they offer the best warmth-weight ratio and are considered to be lightweight down jackets. We have included down jackets which you can use as a 3-season down jacket as well as winter down jackets. The lighter jackets usually come with less down and are more suitable for warmer months or as a midlayer during the winter.
 
-The down jackets in our list are all men down jackets but most brands do also have an equivalent down jacket model for women in their portfolio.
+The down jackets in our list are all men down jackets but most brands do also have an equivalent down jacket model for women in their portfolio. We have not tested the fleece jackets in this article but those are our favourites if we were to buy a new fleece jacket. The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
 
 <a href="https://www.flickr.com/photos/90204224@N07/18424590651" title="best down jackets 2016"><img src="https://c2.staticflickr.com/8/7793/18424590651_c838138d3d_o.jpg" width="100%" alt="best down jackets 2016"></a>
 
@@ -322,6 +322,3 @@ Many new down jackets feature nowadays a light ripstop shell to make the down ja
 You can keep your down jacket dry by storing it in a waterproof compression bag when you are hiking in wet conditions and to use your down jacket only in your tent.
 
 ---
-
-# Disclosure
-The products in this article have not been tested by us. This page contains affiliate links. Read more [here](http://www.hikeventures.com/about/).
