@@ -7,7 +7,7 @@ comments: false
 footer: false
 published: true
 ---
-**Tip:** You can compare prices and find discounts <a href="http://www.hikeventures.com/deals/">here</a> (U.S. only).
+**Tip:** You can compare prices and find discounts on gear <a href="http://www.hikeventures.com/deals/">here</a> (U.S. only).
 <br>
 <div class="table">
 
