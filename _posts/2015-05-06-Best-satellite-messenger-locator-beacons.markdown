@@ -14,6 +14,8 @@ A satellite messenger, GPS Tracker or a Personal Locator Beacon should be with y
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B0083KHR3W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0083KHR3W&linkCode=as2&tag=hikeve-20&linkId=JA77DOCMUQDNHR6Q"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0083KHR3W&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0083KHR3W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+I have not tested all devices in this article but those are our favourites if I were to buy a new one. The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
+
 <!--more-->
 
 With a Satellite Messenger you can also inform your family and friends about your current location and that everything is fine with you so they don't have to worry. Here an example: I have been once to the [Sarek National park](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Sarek National Park") in Sweden where I didn't have phone reception and on this trip I decided that we will definitely take a satellite messenger with me if I would ever go there again in the future. It can take up to 2-3 days to get out of the National Park and in case of an emergency it might be quite hard to find help as you may only see 2 other hikers a day if at all.
@@ -130,6 +132,3 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 My personal preference goes towards the  [DeLorme InReach Explorer](https://www.rei.com/product/877499/delorme-inreach-explorer-satellite-messenger) as it has also messenger function. If I would not need the messenger and tracking function then I would probably get the [ACR ResQlink+ 406](https://www.rei.com/product/843146/acr-electronics-resqlink-gps-personal-locator-beacon).
 
 ---
-
-# Disclosure
-The products in this article have not been tested by us. This page contains affiliate links. Read more [here](http://www.hikeventures.com/about/).
