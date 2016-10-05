@@ -9,11 +9,13 @@ table
         
         padding: 0 30px !important;
          padding-left: 0px !important;
+        width: 25%;
 }
       table tr td
 {
         padding: 0 30px !important;
         padding-left: 0px !important;
+        width: 25%;
 }
 
 
