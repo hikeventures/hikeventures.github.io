@@ -19,7 +19,7 @@ I would also pack <a href="http://amzn.to/22kZs72" rel="nofollo">Swedish FireSte
 
 Konstantin with a [Jetboil stove](http://hikeventures.com/gear-review-jetboil-sol-ti/ "Jetboil Sol Ti") in [Sarek National Park](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Sarek National Park") in Sweden.
 
-We have not tested all the camping stoves in this article but those are our favourites if we were to buy a new camping stove. The links on this site contains affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
+We have not tested all the camping stoves in this article but those are our favourites if we were to buy a new camping stove. The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
 
 ---
 
