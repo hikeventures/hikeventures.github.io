@@ -17,7 +17,9 @@ Today I would like to present you the best outdoor GPS watches with color displa
 
 Probably one disadvantage of watches having a colour display and a GPS was their short battery life in the past. The <a href="http://amzn.to/1YdNH1H" rel="nofollow">Casio Smart Outdoor Watch WSD-F10</a> advertises it's watch with 3 days in monochrome mode however the WDS-F10 does not have a GPS built in. My Traverse lasts approximately 1 day if I switch the GPS on depending on the tracking frequency and GPS accuracy.
 
-The watches in my list are sorted by their weight and I have taken the specifications like the battery life from the manufacturers website. I have not tested the watches myself yet.
+The watches in my list are sorted by their weight and I have taken the specifications like the battery life from the manufacturers website. 
+
+I have not tested the outdoor watches in this article but those are my favourites if we were to buy a new one. The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
 
 ---
 
@@ -201,6 +203,3 @@ amzn_assoc_linkid = "586471a69afcbdad2092eabf0fcc4bbc";
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
-
-# Disclosure
-The products in this article have not been tested by us. This page contains affiliate links. Read more [here](http://www.hikeventures.com/about/).
