@@ -15,7 +15,9 @@ When you already own the GoPro Hero4 Black or Session you are probably wondering
 
 <!--more-->
 
-The main difference between the GoPro Hero4 Black and the GoPro Hero 5 Black is that the Hero5 Black you can actually record audio as the GoPro Hero5 Black does not need a camera housing anymore.
+The main difference between the GoPro Hero4 Black and the GoPro Hero 5 Black is that the Hero5 Black you can actually record audio as the GoPro Hero5 Black does not need a camera housing anymore. 
+
+The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
 
 ## 4K Video Quality
 The 4K video option remains similar. Both camera models can record 4K with 30 FPS.
@@ -42,7 +44,7 @@ The GoPro Hero5 offers location capture so you always know where you have record
 The Hero5 models can be operated by voice control. Just say "GoPro start recording".
 
 # Conclusion
-Now the question remains if you should upgrade from your GoPro Hero4 Black to the [GoPro Hero5 Black](https://www.rei.com/product/114467/gopro-hero5-black-camera). Well, if you need Video stabilization and want to record audio when you do water sports then the [GoPro Hero 5 Black](https://www.rei.com/product/114467/gopro-hero5-black-camera) is definitely the camera you should upgrade to. Since the [GoPro Hero 5 Black](https://www.rei.com/product/114467/gopro-hero5-black-camera) also comes with a touch screen you can safe another 70 EUR than buying an additional touchscreen for your GoPro Hero4 Black.
+Now the question remains if you should upgrade from your GoPro Hero4 Black to the GoPro Hero5 Black. Well, if you need Video stabilization and want to record audio when you do water sports then the GoPro Hero 5 Black is definitely the camera you should upgrade to. Since the GoPro Hero 5 Black also comes with a touch screen you can safe another 70 EUR than buying an additional touchscreen for your GoPro Hero4 Black.
 
 I also found the price of the [GoPro Hero 5 Black](https://www.rei.com/product/114467/gopro-hero5-black-camera) quite reasonable with only 400 EUR which is 100 EUR less than what you have paid when the GoPro Hero4 Black came out.
 
