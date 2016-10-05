@@ -11,7 +11,7 @@ tags:
 layout: post
 ---
 
-Recently, I was looking for a new case for my Macbook Pro 13"  Retina which would be also suitable for light outdoor activities and came across the Thule Gauntlet 13" MacBook Attaché which I found one of the best outdoor case for the Macbook Pro in 2015 / 2016.
+Recently, I was looking for a new case for my Macbook Pro 13"  Retina which would be also suitable for light outdoor activities and came across the Thule Gauntlet 13" MacBook Attaché which I found one of the best outdoor case for the Macbook Pro in 2015 / 2016. The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
 
 <a href="https://www.flickr.com/photos/90204224@N07/17167532371" ><img src="https://farm9.staticflickr.com/8749/17167532371_f36eb8b1f1_b.jpg" width="100%" alt="Thule Gauntlet - Best Macbook Pro Case for Outdoors"></a><!--more-->
 
