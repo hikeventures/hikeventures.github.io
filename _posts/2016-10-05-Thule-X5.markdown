@@ -3,9 +3,9 @@ published: false
 layout: post
 title: Thule X5 Review
 description: Our review on the Thule X5 watertight phone case
-date: 2016-05-10 07:30:00
+date: 2016-10-05 07:30:00
 category: reviews
-tags: 
+tags:
   - reviews
   - thule
   - phone
