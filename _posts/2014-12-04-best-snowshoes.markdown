@@ -34,7 +34,7 @@ Considering your own body and gear weight is important when choosing your snowsh
 
 ---
 
-# Deals
+# Discounts
 
  <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=snowshoe&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=100&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
 
@@ -58,7 +58,7 @@ Considering your own body and gear weight is important when choosing your snowsh
 * Optional, 5-inch (13-cm) tails for improved flotation   
 * Torsion2 crampons
 
-<a href="http://www.backcountry.com/msr-lightning-ascent"><button type="button" class="btn btn-danger">Read more about the MSR Lightning Ascent 25</button></a>  
+<a href="http://www.backcountry.com/msr-lightning-ascent"><button type="button" class="btn btn-danger">Read more about the MSR Lightning Ascent 25</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
    
 ---
    
@@ -74,7 +74,7 @@ Considering your own body and gear weight is important when choosing your snowsh
 * DYNAMICFIT BINDING
 * FLEXTail
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Tubbs-Men-s-Flex-VRT-Snowshoe_10259131_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Tubbs Men's FLEX VRT 24</button></a>  
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Tubbs-Men-s-Flex-VRT-Snowshoe_10259131_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Tubbs Men's FLEX VRT 24</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
 
 ---
 
@@ -91,7 +91,7 @@ Considering your own body and gear weight is important when choosing your snowsh
 * Ergo Televators   
 * Optional, 5-inch (13-cm) tails for improved flotation
  
-<a href="http://www.backcountry.com/msr-lightning-explore-snowshoe-mens"><button type="button" class="btn btn-danger">Read more about the MSR Lightning Explore 25</button></a>  
+<a href="http://www.backcountry.com/msr-lightning-explore-snowshoe-mens"><button type="button" class="btn btn-danger">Read more about the MSR Lightning Explore 25</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
  
 ---
 
@@ -107,7 +107,7 @@ Considering your own body and gear weight is important when choosing your snowsh
 * Ergo Televators
 * Optional, 5-inch (13-cm) tails for improved flotation
 
-<a href="http://www.backcountry.com/msr-revo-ascent-snowshoe-mens"><button type="button" class="btn btn-danger">Read more about the MSR Revo Ascent 25</button></a>  
+<a href="http://www.backcountry.com/msr-revo-ascent-snowshoe-mens"><button type="button" class="btn btn-danger">Read more about the MSR Revo Ascent 25</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
   
 ---
   
@@ -122,7 +122,7 @@ Considering your own body and gear weight is important when choosing your snowsh
 * Carbon steel Cobra toe crampon   
 * Grappler heel cleat  
 
-<a href="http://www.backcountry.com/tubbs-xpedition-snowshoe-mens"><button type="button" class="btn btn-danger">Read more about the Tubbs Men's Xpedition 25</button></a>  
+<a href="http://www.backcountry.com/tubbs-xpedition-snowshoe-mens"><button type="button" class="btn btn-danger">Read more about the Tubbs Men's Xpedition 25</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
 
 ---
 
@@ -140,7 +140,7 @@ Considering your own body and gear weight is important when choosing your snowsh
 * Spring-loaded suspension
 * Duratek Decking
 
-<a href="http://www.backcountry.com/atlas-12-series-snowshoe"><button type="button" class="btn btn-danger">Read more about the Atlas 12 Series</button></a>  
+<a href="http://www.backcountry.com/atlas-12-series-snowshoe"><button type="button" class="btn btn-danger">Read more about the Atlas 12 Series</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
   
 ---
 
