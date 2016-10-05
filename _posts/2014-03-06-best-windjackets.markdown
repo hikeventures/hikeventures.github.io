@@ -9,7 +9,9 @@ tags:
   - jackets
 layout: post
 ---
-To protect yourself agains cold winds on the trail you should pack a lightweight wind jacket into your backpack when you go hiking, backpacking, climbing, cycling, running or plan any other backcountry trip. A windbreaker does not need much space so you can easily store it in your backpack. Also make sure that you buy a hooded wind jacket and not a wind pullover. Here is my buying guide of the best wind jackets in 2016. We have not tested every wind jacket in this article but those are our favourites if we were to buy a new wind jacket. The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
+To protect yourself agains cold winds on the trail you should pack a lightweight wind jacket into your backpack when you go hiking, backpacking, climbing, cycling, running or plan any other backcountry trip. A windbreaker does not need much space so you can easily store it in your backpack. Also make sure that you buy a hooded wind jacket and not a wind pullover. Here is my buying guide of the best wind jackets in 2016. 
+
+We have not tested every wind jacket in this article but those are our favourites if we were to buy a new wind jacket. The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
 
 ![](https://c2.staticflickr.com/8/7385/9599027418_a38b42401e_o.jpg "Best Wind Jackets 2016")
 
