@@ -19,7 +19,7 @@ Konstantin wearing the [Montane Minimus Jacket](http://www.backcountry.com/monta
 
 You might want to wear your waterproof jacket only occasionally e.g. if it starts raining or if it gets very windy but you will appreciate to stay dry and warm on the trail or if you perform any other outdoor activities in the long run.  Also consider taking lightweight waterproof [rain pants](http://www.hikeventures.com/best-rain-pants/ "Best Rain Pants 2016") with you. 
 
-We have not tested all the rain jackets in this article but those are our favourites if we were to buy a new rain jacket. The links on this site contains affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
+We have not tested all the rain jackets in this article but those are our favourites if we were to buy a new rain jacket. The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
 
 ---
 
