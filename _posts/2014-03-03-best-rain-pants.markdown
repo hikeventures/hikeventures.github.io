@@ -52,7 +52,7 @@ Wearing the [Montane Minimus Pants](http://www.campsaver.com/minimus-pants-men-s
 
 The Montane Minimus pants are super light and pack easily into every backpack. These are great waterproof pants for the warmer months. These pants do also have zippers on the lower part of the leg so you can pull them on and off even with boots on.
 
-<a href="http://www.campsaver.com/minimus-pants-men-s"><button type="button" class="btn btn-danger">Read more about the Montane Minimus Pants</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
+<a href="http://www.campsaver.com/minimus-pants-men-s"><button type="button" class="btn btn-danger">Read more about the Montane Minimus Pants</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
 
 ---
 
@@ -65,7 +65,7 @@ The Montane Minimus pants are super light and pack easily into every backpack. T
 
 The Montane Atomic Pants are a bit more durable than the Montane Minimus Pants but comes with 44 grams more weight. Also a great choice if you go hiking in the mountains during the warmer months.
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Montane-Men-s-Atomic-Pant_10276270_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about theMontane Atomic Pants</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Montane-Men-s-Atomic-Pant_10276270_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about theMontane Atomic Pants</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
 
 ---
 
@@ -78,7 +78,7 @@ The Montane Atomic Pants are a bit more durable than the Montane Minimus Pants b
 
 The Mountain Hardwear Plasmic Pants are slightly more heavy than the Montane pants but they come with some additional features. These pants have articulated knees which increases your mobility and also a bag with a zipper where you can store small items. If you need to have a pocket on your waterproof pants then go for this model.
 
-<a href="http://www.backcountry.com/mountain-hardwear-plasmic-pant-mens"><button type="button" class="btn btn-danger">Read more about the Mountain Hardwear Plasmic Pant</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
+<a href="http://www.backcountry.com/mountain-hardwear-plasmic-pant-mens"><button type="button" class="btn btn-danger">Read more about the Mountain Hardwear Plasmic Pant</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
 
 ---
 
@@ -91,7 +91,7 @@ The Mountain Hardwear Plasmic Pants are slightly more heavy than the Montane pan
 
 The Rab Fuse Pants are the lightest-weight waterproof pants from Rab. They also feature knee articulation. 
 
-<a href="http://www.campsaver.com/fuse-pant-men-s"><button type="button" class="btn btn-danger">Read more about the Rab Fuse Pants</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
+<a href="http://www.campsaver.com/fuse-pant-men-s"><button type="button" class="btn btn-danger">Read more about the Rab Fuse Pants</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
 
 ---
 
@@ -102,7 +102,7 @@ The Rab Fuse Pants are the lightest-weight waterproof pants from Rab. They also 
 
 The Haglöfs L.I.M. III pants are part of Haglöfs Ultralight product range and quite popular in Scandinavia. The zippers on the legs help to put those pants on while wearing hiking boots.
 
-<a href="http://www.backcountry.com/haglfs-l.i.m.-iii-pant-mens"><button type="button" class="btn btn-danger">Read more about the Haglöfs L.I.M. III pants</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
+<a href="http://www.backcountry.com/haglfs-l.i.m.-iii-pant-mens"><button type="button" class="btn btn-danger">Read more about the Haglöfs L.I.M. III pants</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
 
 ---
 
@@ -115,7 +115,7 @@ The Haglöfs L.I.M. III pants are part of Haglöfs Ultralight product range and 
 
 SL stands for Super Light in the Arcteryx product range. This model is reinforced in key wear areas, has articulated knees but only comes with lower leg zippers.
 
-<a href="http://www.backcountry.com/arcteryx-beta-sl-pant-mens"><button type="button" class="btn btn-danger">Read more about the Arcteryx Beta SL Pants</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
+<a href="http://www.backcountry.com/arcteryx-beta-sl-pant-mens"><button type="button" class="btn btn-danger">Read more about the Arcteryx Beta SL Pants</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
 
 ---
 
@@ -128,7 +128,7 @@ SL stands for Super Light in the Arcteryx product range. This model is reinforce
 
 The Rab Firewall Pants are made for active use during winter. The Rab Firewall pants comes with an elasticated waistband and knee articulations and are compatible with winter boots.
 
-<a href="http://www.campsaver.com/firewall-pant-men-s"><button type="button" class="btn btn-danger">Read more about the Rab Firewall Pants</button></a> <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
+<a href="http://www.campsaver.com/firewall-pant-men-s"><button type="button" class="btn btn-danger">Read more about the Rab Firewall Pants</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
 
 ---
 
