@@ -76,7 +76,7 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 * Pair with mobile devices
 * Message size: 160 characters
 
-<a href="https://www.rei.com/product/857610/delorme-inreach-se-2-way-satellite-communicator"><button type="button" class="btn btn-danger">Read more about the DeLorme InReach SE</button></a> 
+<a href="https://www.rei.com/product/857610/delorme-inreach-se-2-way-satellite-communicator"><button type="button" class="btn btn-danger">Read more about the DeLorme InReach SE</button></a> <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
 
 ---
 
@@ -92,7 +92,7 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 * Barometric Altimeter & Accelerometer
 * weight: 190 grams
 
-<a href="https://www.rei.com/product/877499/delorme-inreach-explorer-satellite-messenger"><button type="button" class="btn btn-danger">Read more about the DeLorme InReach Explorer</button></a> 
+<a href="https://www.rei.com/product/877499/delorme-inreach-explorer-satellite-messenger"><button type="button" class="btn btn-danger">Read more about the DeLorme InReach Explorer</button></a> <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
 
 ---
 
@@ -107,7 +107,7 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 * Message size: 41 characters
 * Weight 114 grams
 
-<a href="https://www.rei.com/product/860469/spot-gen3-satellite-gps-messenger"><button type="button" class="btn btn-danger">Read more about the SPOT Gen3</button></a> 
+<a href="https://www.rei.com/product/860469/spot-gen3-satellite-gps-messenger"><button type="button" class="btn btn-danger">Read more about the SPOT Gen3</button></a> <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
 
 ---
 
@@ -122,7 +122,7 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 * No messaging
 * Weight: 153 grams
 
-<a href="https://www.rei.com/product/843146/acr-electronics-resqlink-gps-personal-locator-beacon"><button type="button" class="btn btn-danger">Read more about the ACR ResQlink+ 406</button></a> 
+<a href="https://www.rei.com/product/843146/acr-electronics-resqlink-gps-personal-locator-beacon"><button type="button" class="btn btn-danger">Read more about the ACR ResQlink+ 406</button></a> <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> 
 
 ---
 
