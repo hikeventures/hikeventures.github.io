@@ -31,7 +31,7 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hik
 
 <div class="table-responsive">
 
-      <table class="table table-hover table-bordered table-striped">
+      <table class="table table-hover table-bordered">
 
         <thead>
              <tr>
