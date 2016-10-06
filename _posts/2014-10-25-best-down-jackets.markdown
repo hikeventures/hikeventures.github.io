@@ -49,43 +49,43 @@ We have not tested all the down jackets in this article but those are our favori
         </tr>
 
         <tr>
-          <td><a href="http://www.backcountry.com/arcteryx-cerium-lt-hooded-down-jacket-mens" target="_blank">Arcteryx Cerium LT Hoody (850fp)</a></td><td>275g</td>
+          <td><a href="http://www.hikeventures.com/deals/#arcteryx+cerium+LT+hoody" target="_blank">Arcteryx Cerium LT Hoody (850fp)</a></td><td>275g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.backcountry.com/western-mountaineering-flash-down-jacket-mens" target="_blank">Western Mountaineering Flash Jacket (850fp)</a></td><td>290g</td>
+          <td><a href="http://www.hikeventures.com/deals/#western+flash+jacket" target="_blank">Western Mountaineering Flash Jacket (850fp)</a></td><td>290g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.moosejaw.com/moosejaw/shop/product_Marmot-Men-s-Quasar-Hoody_10221652_10208_10000001_-1_" target="_blank">Marmot Quasar Hoody (900fp)</a></td><td>372g</td>
+          <td><a href="http://www.hikeventures.com/deals/#marmot+quasar+hoody" target="_blank">Marmot Quasar Hoody (900fp)</a></td><td>372g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.backcountry.com/the-north-face-premonition-down-jacket-mens" target="_blank">The North Face Premonition Jacket (800fp)</a></td><td>440g</td>
+          <td><a href="http://www.hikeventures.com/deals/#premonition+jacket" target="_blank">The North Face Premonition Jacket (800fp)</a></td><td>440g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.backcountry.com/arcteryx-cerium-sv-hooded-down-jacket-mensv" target="_blank">Arcteryx Cerium SV Hoody (850fp)</a></td><td>440g</td>
+          <td><a href="http://www.hikeventures.com/deals/#arcteryx+cerium+sv+jacket" target="_blank">Arcteryx Cerium SV Hoody (850fp)</a></td><td>440g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.backcountry.com/patagonia-hi-loft-down-hooded-sweater-mens" target="_blank">Patagonia Men's Down Hooded Jacket (800fp)</a></td><td>550g</td>
+          <td><a href="http://www.hikeventures.com/deals/#patagonia+down+hooded" target="_blank">Patagonia Men's Down Hooded Jacket (800fp)</a></td><td>550g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.backcountry.com/rab-infinity-endurance-down-jacket-mens" target="_blank">Rab Infinity Endurance Jacket (850fp)</a></td><td>575g</td>
+          <td><a href="http://www.hikeventures.com/deals/#rab+infinity+endurance" target="_blank">Rab Infinity Endurance Jacket (850fp)</a></td><td>575g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.backcountry.com/rab-positron-down-jacket-mens" target="_blank">Rab Positron Jacket (800fp)</a></td><td>720g</td>
+          <td><a href="http://www.hikeventures.com/deals/#rab+positron+jacket" target="_blank">Rab Positron Jacket (800fp)</a></td><td>720g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.backcountry.com/rab-positron-down-jacket-mens" target="_blank">The North Face Immaculator Parka (800fp)</a></td><td>720g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Imaculator+Parka" target="_blank">The North Face Immaculator Parka (800fp)</a></td><td>720g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.backcountry.com/arcteryx-ceres-down-jacket-mens" target="_blank">Arcteryx Ceres Jacket (850fp)</a></td><td>860g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Arcteryx+ceres+jacket" target="_blank">Arcteryx Ceres Jacket (850fp)</a></td><td>860g</td>
         </tr>
 
         </tbody>
