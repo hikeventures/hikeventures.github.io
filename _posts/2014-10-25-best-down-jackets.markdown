@@ -27,7 +27,7 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hik
 
 ---
 
-# Overview of the best down jackets of  2016
+# The best down jackets of  2016
 
 <div class="table">
 
