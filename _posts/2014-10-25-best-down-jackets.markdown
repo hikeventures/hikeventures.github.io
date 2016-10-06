@@ -29,6 +29,27 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hik
 
 # Overview of the best down jackets of  2016
 
+<div class="table">
+
+      <table class="table table-hover table-condensed">
+
+        <thead>
+             <tr>
+                <th style="background:#EEEEEE;">Jacket</th><th>Weight</strong</th>
+             </tr>
+        </thead>
+
+        <tbody>
+        <tr>
+          <td><a href="http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens">Mountain Hardware Ghost Whisperer Hooded Down Jacket</a></td><td>212g</td>
+        </tr>
+        </tbody>
+
+      </table>
+</div>
+
+
+
 | Jacket | Weight |
 | ------------- |:-------------|
 | [Mountain Hardware Ghost Whisperer Hooded Down Jacket (800 fp)](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens) | 212g |
