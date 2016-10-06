@@ -11,7 +11,9 @@ layout: post
 ---
 A good lightweight headlamp is an essential part for many outdoor activities likes hiking, running, cycling, packrafting, ski touring or climbing or any other backcountry trip.
 
-I have recently decided to upgraded my headlamp and compared different models. Here is my buying guide of the best headlamps for 2016 sorted by Lumen (total amount of visible light). Personally, I like the Petzl Nao Plus most since it has plenty of features and also offers the Petzl Nao Belt Kit which allows me to carry the battery under the jacket rather than on my head which can shorten the beattery life especially when wearing in [colder regions](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/). I have also used the previous model of the Nao in [Swedish Lapland](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Swedish Lapland").
+I have recently decided to upgraded my headlamp and compared different models. Here is my buying guide of the best headlamps for 2016 sorted by Lumen (total amount of visible light).
+
+Personally, I like the Petzl Nao Plus most since it has plenty of features and also offers the Petzl Nao Belt Kit which allows me to carry the battery under the jacket rather than on my head which can shorten the beattery life especially when wearing in [colder regions](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/). I have also used the previous model of the Nao in [Swedish Lapland](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Swedish Lapland").
 
 <a href="http://www.amazon.com/Petzl-NAO-Headlamp-575-Lumens/" rel="nofollow"><img src="https://farm8.staticflickr.com/7457/15910915424_192439b27f_b.jpg" alt="Best headlamps of 2016 - Petzl Nao in Finland"></a>
 
@@ -37,39 +39,39 @@ We have not tested all the headlamps but those are our favorites if we were to b
 
         <tbody>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#petzl+e+lite">Petzl E+LITE</a></td><td>27g</td><td>26g</td>
+          <td><a href="http://www.hikeventures.com/deals/#petzl+e+lite" target="_blank">Petzl E+LITE</a></td><td>27g</td><td>26g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.amazon.com/gp/product/B00HIW1I2C/" rel="nofollow">Zebralight H600 Mk II 18650 XM-L2</a></td><td>39g</td><td>1090</td>
+          <td><a href="http://www.amazon.com/gp/product/B00HIW1I2C/" rel="nofollow" target="_blank">Zebralight H600 Mk II 18650 XM-L2</a></td><td>39g</td><td>1090</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#petzl+tikka+r">Petzl Tikka R+</a></td><td>85g</td><td>170</td>
+          <td><a href="http://www.hikeventures.com/deals/#petzl+tikka+r" target="_blank">Petzl Tikka R+</a></td><td>85g</td><td>170</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#black+diamond+revolt">Black Diamond Revolt</a></td><td>85g</td><td>170</td>
+          <td><a href="http://www.hikeventures.com/deals/#black+diamond+revolt" target="_blank">Black Diamond Revolt</a></td><td>85g</td><td>170</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#black+diamond+storm">Black Diamond Storm</a></td><td>110g</td><td>160</td>
+          <td><a href="http://www.hikeventures.com/deals/#black+diamond+storm" target="_blank">Black Diamond Storm</a></td><td>110g</td><td>160</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#petzl+tikka">Petzl Tikka RXP</a></td><td>115g</td><td>215</td>
+          <td><a href="http://www.hikeventures.com/deals/#petzl+tikka" target="_blank">Petzl Tikka RXP</a></td><td>115g</td><td>215</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#petzl+nao+plus">Petzl Nao Plus</a></td><td>187g</td><td>750</td>
+          <td><a href="http://www.hikeventures.com/deals/#petzl+nao+plus" target="_blank">Petzl Nao Plus</a></td><td>187g</td><td>750</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#black+diamond+icon">Black Diamond Icon</a></td><td>220g</td><td>200</td>
+          <td><a href="http://www.hikeventures.com/deals/#black+diamond+icon" target="_blank">Black Diamond Icon</a></td><td>220g</td><td>200</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#princeton+tec+apex">Princeton Tec Apex</a></td><td>279g</td><td>275g</td>
+          <td><a href="http://www.hikeventures.com/deals/#princeton+tec+apex" target="_blank">Princeton Tec Apex</a></td><td>279g</td><td>275g</td> 
         </tr>
 
         </tbody>
