@@ -132,7 +132,7 @@ However, if you plan to go only ocassionally on outdoor trips or to a trip where
 </table/
 </div>
 
----
+<hr>
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
@@ -150,7 +150,7 @@ amzn_assoc_linkid = "965296fb866182bb89b535202541adda";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
----
+<hr>
 
 
 <h2><a href="http://www.hikeventures.com/deals/#big+agnes+copper+spur" target="_blank">Big Agnes Copper Spur 2 Platinum</a></h2>
@@ -288,8 +288,8 @@ The Vaude Hogan SUL tents are the new ultralight tents from Vaude for 2017. The 
 * Hogan SUL 2P (1430 grams,  235 x 130 cm)
 * Hogan SUL XT 2-3P (1950 grams, 235 x 165 cm)
 
----
+<hr>
 
 So which tent should you choose? It's definitely a hard question as there are many high quality tents out there. Do you need a winter tent or a 3-season tent? Idealy, you should buy a dedicated tent for different seasons or purposes to get your best tent for 2017. For example on our [hiking and packrafting trip in Norway](http://www.hikeventures.com/finland-norway/) I have only used a lightweight 3-season tent which I received for testing from a company. I was not that happy with the durability of the inner mesh tent but on the other hand I did not have to carry that much weight and enjoyed my trip.
 
----
+<hr>
