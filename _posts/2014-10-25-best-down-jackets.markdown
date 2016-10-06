@@ -35,7 +35,7 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hik
 
         <thead>
              <tr>
-                <th style="background:#EEEEEE;">Jacket</th><th>Weight</strong</th>
+                <th>Jacket</th><th>Weight</th>
              </tr>
         </thead>
 
