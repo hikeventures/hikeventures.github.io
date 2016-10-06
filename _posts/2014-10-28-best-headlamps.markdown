@@ -13,9 +13,13 @@ A good lightweight headlamp is an essential part for many outdoor activities lik
 
 Personally, I like the Petzl Nao Plus most since it has plenty of features and also offers the Petzl Nao Belt Kit which allows me to carry the battery under the jacket rather than on my head which can shorten the beattery life especially when wearing in [colder regions](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/). I have also used the previous model of the Nao in [Swedish Lapland](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Swedish Lapland").
 
+---
+
 <a href="http://www.amazon.com/Petzl-NAO-Headlamp-575-Lumens/" rel="nofollow"><img src="https://farm8.staticflickr.com/7457/15910915424_192439b27f_b.jpg" alt="Best headlamps of 2016 - Petzl Nao in Finland"></a>
 
 Konstantin wearing a Petzl Nao on the top of a fell in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Trip in Lapland")
+
+---
 
 However, for hikes during the summer you can also take a very simple and light headlamp rather the Petzl Nao Plus. However, it's easier to navigate with a stronger headlamp (e.g. in the forest) as you can see further.
 
