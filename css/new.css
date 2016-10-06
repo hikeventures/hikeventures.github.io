@@ -4,18 +4,25 @@ table
 {
         width: 100% !important;
 }
-      table tr th
-{
 
-        padding: 0 30px !important;
-         padding-left: 0px !important;
-        width: 33%;
+
+tr td:first-child {
+  padding: 0 30px !important;
+   padding-left: 0px !important;
+  width: 50% !important;
 }
-      table tr td
-{
-        padding: 0 30px !important;
-        padding-left: 0px !important;
-        width: 33%;
+tr td:last-child {
+  padding-left: 0px !important;
+  width: 25% !important;
+}
+tr th:first-child {
+  padding: 0 30px !important;
+   padding-left: 0px !important;
+   width: 50% !important;
+}
+tr th:last-child {
+  padding-left: 0px !important;
+  width: 25% !important;
 }
 
 
