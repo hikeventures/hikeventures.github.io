@@ -10,30 +10,36 @@ tags:
 layout: post
 ---
 
-Suunto has recently released it's latest GPS watch - the Suunto Traverse - which is especially interesting for those interested in hiking and backpacking. So what are the differences between the Suunto Ambit3 and the Suunto Traverse? Well, there are a couple of differences. Please note that the links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are). 
-  
-![Suunto Ambit3](https://farm9.staticflickr.com/8836/17649022620_b7c5293739_b.jpg "Suunto Ambit3") 
-  
-The most important difference is probably that the Suunto Traverse has a vibration alarm and that the GPS receiver is now 'invisible' built into the watch. Moreover, the Suunto Traverse has a thinner (1mm) built. However, you will not find multisport functions in the Suunto Traverse. So, if you are for example more into triathlon then you should probably go for the [Suunto Ambit3 Vertical](http://www.backcountry.com/suunto-ambit3-vertical-watch) rather than the regular Suunto Traverse. 
+Suunto has recently released it's latest GPS watch - the Suunto Traverse - which is especially interesting for those interested in hiking and backpacking. So what are the differences between the Suunto Ambit3 and the Suunto Traverse?
 
-I mainly go running and hiking so the regular Suunto Traverse is the best option for me and there is no need to pay for features which I don't use. Of course I could also get the new [Suunto Spartan](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch) which features a color display and a touch screen. Beside that there are not significant new features on the Suunto Spartan compared to the Suunto Traverse or Ambit3 Vertical.   
+**Note:** The links in this article contain affiliate links. If you purchase through the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
+
+![Suunto Ambit3](https://farm9.staticflickr.com/8836/17649022620_b7c5293739_b.jpg "Suunto Ambit3")
+
+The most important difference is probably that the Suunto Traverse has a vibration alarm and that the GPS receiver is now 'invisible' built into the watch. Moreover, the Suunto Traverse has a thinner (1mm) built. However, you will not find multisport functions in the Suunto Traverse. So, if you are for example more into triathlon then you should probably go for the [Suunto Ambit3 Vertical](http://www.backcountry.com/suunto-ambit3-vertical-watch) rather than the regular Suunto Traverse.
+
+I mainly go running and hiking so the regular Suunto Traverse is the best option for me and there is no need to pay for features which I don't use. Of course I could also get the new [Suunto Spartan](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch) which features a color display and a touch screen. But are those two features worth the premium price over the Suunto Traverse or Ambit3 Vertical? It's up to you! Personally, I don't need them but I would probably buy the Spartan if I would have sufficient money and no Suunto Traverse on my wrist. If you are on a budget then it's also a good idea to look at discounts (see below).
 
 ---
 
 # Discounts
 
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=Suunto Ambit3 Vertical -westcomb -jackson OR Suunto Traverse -westcomb -jackson OR Suunto Spartan -westcomb -jackson&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=300&search_on_sale_level=25&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=6&search_results_sort_order=Sale+Price"></script>
- 
+ <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=Suunto Ambit3 Vertical -westcomb -jackson OR Suunto Traverse -westcomb -jackson OR Suunto Spartan -westcomb -jackson&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=300&search_on_sale_level=25&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=5&search_results_sort_order=Sale+Price"></script>
+
 <br>
 <strong>Tip:</strong> <a href="http://www.hikeventures.com/deals/" target="_blank">Here</a> you can search and compare gear prices of different stores.
 
 ---
 
 The Suunto Traverse weights about 80 grams and it's water resistance is 100 m. The Ambit3 is only 50 m water resistant. Both - the Suunto Ambit3 Peak and the Traverse have a barometer. The menu on the Suunto Traverse is also more simplified than on the Suunto Ambit3 which I personally prefer. The Traverse has also a flashlight function which could be quite useful (for example if you need to search something in your tent). Below you can see my Suunto Traverse next to my Finnish Roselli knife.
-  
+
+<hr>
+
 ![Suunto Traverse](https://farm8.staticflickr.com/7138/26503377864_db26a8025b_b.jpg "Suunto Traverse and Roselli Knife")
-  
-Personally, I like the new look of the Suunto Traverse more than the look of the Suunto Ambit3. Also the wrist strap of the Suunto Traverse feels somewhat more comfortable than the one on the Suunto Ambit3. 
+
+<hr>
+
+Personally, I like the new look of the Suunto Traverse more than the look of the Suunto Ambit3. Also the wrist strap of the Suunto Traverse feels somewhat more comfortable than the one on the Suunto Ambit3.
 
 ---
 
@@ -74,7 +80,7 @@ Screen protectors do not only exists for mobile phones. You can also protect you
 ---
 
 ## [EasyAcc Rugged Outdoor Power Bank (IP67 Waterproof / 20000mAh)](http://amzn.to/28V8l3t)
-On longer trips it's quite convenient to have a power bank with you. Usually, I charge my Suunto watch every day if I am on a backpacking trip. 
+On longer trips it's quite convenient to have a power bank with you. Usually, I charge my Suunto watch every day if I am on a backpacking trip.
 
 <a href="https://www.amazon.com/gp/product/B01B73I5ZU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01B73I5ZU&linkCode=as2&tag=hikeve-20&linkId=47d7ed2d86df59bde1e15986668ca7b5"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01B73I5ZU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01B73I5ZU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -119,8 +125,8 @@ amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_title = "Suunto Spartan GPS watch";
-amzn_assoc_default_search_phrase = "suunto spartan";
+amzn_assoc_title = "Amazon Search Results";
+amzn_assoc_default_search_phrase = "Suunto Traverse";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "edb1d00e614ad3a35eb0a5421405645c";
 </script>
