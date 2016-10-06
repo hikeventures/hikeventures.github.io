@@ -33,7 +33,7 @@ Personally, I don't need a touch screen and a color display but I would probably
 
 ---
 
-The Suunto Traverse weights about 80 grams and it's water resistance is 100 m. The Ambit3 is only 50 m water resistant. Both - the Suunto Ambit3 Peak and the Traverse have a barometer. The menu on the Suunto Traverse is also more simplified than on the Suunto Ambit3 which I personally prefer. The Traverse has also a flashlight function which could be quite useful (for example if you need to search something in your tent). Below you can see my Suunto Traverse next to my Finnish Roselli knife.
+The Suunto Traverse weights about 80 grams and it's water resistance is 100 m. The old Ambit3 (Peak) is only 50 m water resistant. Both - the old Suunto Ambit3 (Peak) and the Traverse have a barometer. The menu on the Suunto Traverse is also more simplified than on the old Suunto Ambit3 (Peak) which I personally prefer. The Traverse has also a flashlight function which could be quite useful (for example if you need to search something in your tent). Below you can see my Suunto Traverse next to my Finnish Roselli knife.
 
 <hr>
 
@@ -41,12 +41,12 @@ The Suunto Traverse weights about 80 grams and it's water resistance is 100 m. T
 
 <hr>
 
-Personally, I like the new look of the Suunto Traverse more than the look of the Suunto Ambit3. Also the wrist strap of the Suunto Traverse feels somewhat more comfortable than the one on the old Suunto Ambit3.
+Personally, I like the new look of the Suunto Traverse more than the look of the old Suunto Ambit3. Also the wrist strap of the Suunto Traverse feels somewhat more comfortable than the one on the old Suunto Ambit3.
 
 ---
 
 # <a href="http://www.hikeventures.com/deals/#Suunto+Ambit3+Vertical" rel="nofollow">Suunto Ambit3 Vertical</a>
-If you are more into trail running (on hills or mountains), mountainbiking, climbing or into multisport then you should probably go for the <a href="http://amzn.to/290sqqE" rel="nofollow">Suunto Ambit3 Vertical</a> or the Suunto Spartan. The Suunto Ambit3 Vertical gives you a summary of your vertical gains and also displays the altitude during your ascent.
+If you are more into trail running (on hills or mountains), mountainbiking, climbing or into multisport then you should probably go for the <a href="http://amzn.to/290sqqE" rel="nofollow">Suunto Ambit3 Vertical</a> or the Suunto Spartan. The Suunto Ambit3 Vertical gives you a summary of your vertical gains and also displays the altitude during your ascent. This is an updated version of the old Ambit3 (Peak).
 
 <a href="https://www.amazon.com/gp/product/B01AGK1CUK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AGK1CUK&linkCode=as2&tag=hikeve-20&linkId=e88ee85cc37dd473812d405d9bbd5f8d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01AGK1CUK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01AGK1CUK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -118,7 +118,7 @@ If you have an iPhone you could also get a Quad Lock Bike Mount Kit and attach i
 
 ---
 
-Need some more inspirations on how to use the Suunto Ambit or Suunto Traverse watch? Here is a [trip report](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/) from the Swedish mountains where I was wearing the Suunto Ambit3 on a packrafting trip.
+Need some more inspirations on how to use the Suunto Ambit or Suunto Traverse watch? Here is a [trip report](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/) from the Swedish mountains where I was wearing the old Suunto Ambit3 on a packrafting trip.
 
 ---
 
