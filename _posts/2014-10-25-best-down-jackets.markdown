@@ -41,28 +41,49 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hik
 
         <tbody>
         <tr>
-          <td><a href="http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens">Mountain Hardware Ghost Whisperer Hooded Down Jacket</a></td><td>212g</td>
+          <td><a href="http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens">Mountain Hardware Ghost Whisperer Hooded Down Jacket (800fp)</a></td><td>212g</td>
         </tr>
+
+        <tr>
+          <td><a href="http://www.backcountry.com/arcteryx-cerium-lt-hooded-down-jacket-mens">Arcteryx Cerium LT Hoody (850fp)</a></td><td>275g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.backcountry.com/western-mountaineering-flash-down-jacket-mens">Western Mountaineering Flash Jacket (850 fp)</a></td><td>290g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.moosejaw.com/moosejaw/shop/product_Marmot-Men-s-Quasar-Hoody_10221652_10208_10000001_-1_">Marmot Quasar Hoody (900 fp)</a></td><td>372g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.backcountry.com/arcteryx-cerium-sv-hooded-down-jacket-mensv">Arcteryx Cerium SV Hoody (850 fp)</a></td><td>440g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.moosejaw.com/moosejaw/shop/product_The-North-Face-Men-s-Super-Diez-Hooded-Jacket_10284860_10208_10000001_-1_">The North Face Super Diez Hooded Jacket (900 fp)</a></td><td>477g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.backcountry.com/patagonia-hi-loft-down-hooded-sweater-mens">Patagonia Men's Down Hooded Jacket (800 fp)</a></td><td>550g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.backcountry.com/rab-infinity-endurance-down-jacket-mens">Rab Infinity Endurance Jacket (850 fp)</a></td><td>575g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.backcountry.com/rab-positron-down-jacket-mens">Rab Positron Jacket (800 fp)</a></td><td>720g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://gearx.com/arc-teryx-ceres-jacket-m">Arcteryx Ceres Jacket (850 fp)</a></td><td>860g</td>
+        </tr>
+
         </tbody>
 
       </table>
 </div>
-
-
-
-| Jacket | Weight |
-| ------------- |:-------------|
-| [Mountain Hardware Ghost Whisperer Hooded Down Jacket (800 fp)](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens) | 212g |
-| [Arcteryx Cerium LT Hoody (850 fp)](http://www.backcountry.com/arcteryx-cerium-lt-hooded-down-jacket-mens)      | 275g |
-| [Western Mountaineering Flash Jacket (850 fp)](http://www.backcountry.com/western-mountaineering-flash-down-jacket-mens)     | 290g |
-| [Marmot Quasar Hoody (900 fp)](http://www.moosejaw.com/moosejaw/shop/product_Marmot-Men-s-Quasar-Hoody_10221652_10208_10000001_-1_) | 372g |
-| [Arcteryx Cerium SV Hoody (850 fp)](http://www.backcountry.com/arcteryx-cerium-sv-hooded-down-jacket-mensv) | 440g  |
-| [The North Face Super Diez Hooded Jacket (900 fp)](http://www.moosejaw.com/moosejaw/shop/product_The-North-Face-Men-s-Super-Diez-Hooded-Jacket_10284860_10208_10000001_-1_) | 477 g |
-| [Patagonia Men's Down Hooded Jacket (800 fp)](http://www.backcountry.com/patagonia-hi-loft-down-hooded-sweater-mens) | 550g |
-| [Rab Infinity Endurance Jacket (850 fp)](http://www.backcountry.com/rab-infinity-endurance-down-jacket-mens) | 575g |
-| [Rab Positron Jacket (800 fp)](http://www.backcountry.com/rab-positron-down-jacket-mens) | 720g |
-| [Arcteryx Ceres Jacket (850 fp)](http://gearx.com/arc-teryx-ceres-jacket-m) | 860g |
-
 
 <hr>
 
