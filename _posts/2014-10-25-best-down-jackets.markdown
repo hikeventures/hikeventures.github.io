@@ -11,7 +11,7 @@ layout: post
 ---
 Here is our buying guide of the best summer and winter down jackets for 2016 which you can take on your next hiking, backpacking, skiing, snowboarding, mountaineering, climbing, photography or any other backcountry outdoor adventure to stay warm.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and always keep an eye on the market for new and better products which we could possibly take on our trips in the future.
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and always keep an eye on the market for better products which we could possibly take on our trips in the future.
 
 The down jackets we have selected are sorted by weight and we have just selected goose down jackets with a fill power of 800 and more since they offer the best warmth-weight ratio and are considered to be lightweight down jackets. We have included down jackets which you can use as a 3-season down jacket as well as winter down jackets. The lighter jackets usually come with less down and are more suitable for warmer months or as a mid-layer during the winter.
 
