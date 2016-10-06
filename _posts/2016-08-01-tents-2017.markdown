@@ -12,9 +12,9 @@ tags:
 
 For 2017 we can expect to see plenty of new tents on the market. The trend goes clearly towards lightweight tents. But are lightweight tents always the best option? It depends. Ultralight gear is sometimes made of materials which are not very durable. For example chances are high that you get a hole in your tent floor if the tent floor fabric is very thin.
 
-However, if you plan to go only ocassionally on outdoor trips or you plan a trip where you must carry less weight then buying a superlight tent might be a better option even so you may compromise with the durability of the tent. The list contains only a selection of new tents and I might add a few more later on.
+However, if you plan to go only ocassionally on outdoor trips or to a trip where you need to carry less weight then buying a superlight tent might be a better option even so you may compromise with the durability of the tent. The list contains only a selection of new tents and I might add a few more later on. The table below is sorted by the weight of the tents.
 
-The links on this site contain affiliate links. If you purchase thru the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read who we are.
+**Note:** The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read who we are.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15455033882/in/album-72157648791533361/" title="First Finnish Packraft Gathering"><img src="https://c3.staticflickr.com/6/5600/15455033882_43028c91d5_k.jpg" width="2048" height="1367" alt="The best new backpacking tents and accessories for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -22,7 +22,7 @@ The links on this site contain affiliate links. If you purchase thru the links y
 
 ---
 
-# Overview of the best new backpacking tents for 2017
+# The best new backpacking tents for 2017
 
 | Tent | Weight (grams) |
 |:---|:---:|
@@ -74,13 +74,11 @@ The links on this site contain affiliate links. If you purchase thru the links y
 |Therm-a-Rest Tranquility 6	|7850|
 |MSR H.U.B.	|21770|
 
-> Table is sorted by weight and only contains a selection of brands.
-
 ---
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
+amzn_assoc_search_bar = "true";
 amzn_assoc_tracking_id = "hikeve-20";
 amzn_assoc_search_bar_position = "top";
 amzn_assoc_ad_mode = "search";
@@ -88,7 +86,7 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Search Results from Amazon";
-amzn_assoc_default_search_phrase = "tent msr";
+amzn_assoc_default_search_phrase = "Tent MSR";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "965296fb866182bb89b535202541adda";
 </script>
