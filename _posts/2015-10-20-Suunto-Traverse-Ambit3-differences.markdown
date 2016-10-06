@@ -68,7 +68,6 @@ If you are more into fishing or hunting then you should consider getting the <a 
 ---
 
 # Accessories
-Some suggestions about useful accessories for your Suunto watch:
 
 ## [Suunto Smart Belt](http://www.backcountry.com/suunto-smart-belt)
 You can link a hear rate monitor to your Suunto watch.
