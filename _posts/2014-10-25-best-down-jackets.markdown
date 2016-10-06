@@ -15,7 +15,7 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
 The down jackets we have selected are sorted by weight and we have just selected goose down jackets with a fill power of 800 and more since they offer the best warmth-weight ratio and are considered to be lightweight down jackets. We have included down jackets which you can use as a 3-season down jacket as well as winter down jackets. The lighter jackets usually come with less down and are more suitable for warmer months or as a mid-layer during the winter.
 
-We have also included a section with discounts in this article as sometimes you might also get a down jacket for a significant lower price especially at the end of the season when stores want to clear their stock. Sometimes the new models just come with a different color so it's worth to have a look on the old models as well.
+Sometimes you might also get a down jacket for a significant lower price especially at the end of the season when stores want to clear their stock. In many cases the new models just come with a different color so it's worth to have a look on the old models as well. <a href="http://www.hikeventures.com/deals/" target="_blank">Here</a> you can find discounts and compare prices of different stores in the U.S.
 
 We have not tested all the down jackets in this article but those are our favorites if we were to buy a new down jacket. The links on this site contain affiliate links. If you purchase through the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
 
