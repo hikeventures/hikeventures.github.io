@@ -222,13 +222,13 @@ Nikwax Down Proof helps to make your down more water repellent. Down insulates l
 
 ## When not to wear a down jacket?
 
-You should avoid wearing your down-jacket while you are active (e.g. hiking, biking, climbing or skiing) since down insulates less when it gets wet. So ideally you wear a fleece jacket when you are active and switch to your down jacket when you are resting.
+You should avoid wearing your down-jacket while you are active (e.g. hiking, biking, climbing or skiing) since down insulates less when it gets wet. So ideally you wear a [fleece jacket](http://www.hikeventures.com/best-fleece-jackets/) when you are active and switch to your down jacket when you are resting.
 
 ---
 
 ## When not to wear a down jacket?
 
-You should avoid wearing your down-jacket while you are active (e.g. hiking, biking, climbing or skiing) since down insulates less when it gets wet. So ideally you wear a fleece jacket when you are active and switch to your down jacket when you are resting.
+You should avoid wearing your down-jacket while you are active (e.g. hiking, biking, climbing or skiing) since down insulates less when it gets wet. So ideally you wear a [fleece jacket](http://www.hikeventures.com/best-fleece-jackets/) when you are active and switch to your down jacket when you are resting.
 
 ---
 
