@@ -19,7 +19,7 @@ Suunto recently released the [Suunto Spartan](https://www.rei.com/product/107290
 
 Update: I have <a href="http://www.hikeventures.com/Suunto-Traverse-Ambit3-differences/">upgraded</a> my Suunto Ambit 3 to the Suunto Traverse. If you need a multisport watch then you should rather consider the Suunto Ambit3 Vertical or the Suunto Spartan rather than the Suunto Traverse.
 
-** Note:** The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read who we are.
+**Note:** The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read who we are.
 
 <a href="https://www.flickr.com/photos/90204224@N07/15913318153"><img src="https://farm8.staticflickr.com/7306/15913318153_e26043e992_b.jpg" width="1024" height="680"></a>
 
