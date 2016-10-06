@@ -54,7 +54,7 @@ If you are more into trail running (on hills or mountains), mountainbiking, clim
 ---
 
 # <a href="http://amzn.to/28Xm2B3" rel="nofollow">Suunto Traverse Alpha</a>
-If you are more into fishing or hunting then you should consider getting the <a href="http://amzn.to/28Xm2B3" rel="nofollow">Suunto Traverse Alpha</a>. The Suunto Traverse Alpha gives you the following additional features to the regular Suunto Traverse:
+If you are more into fishing or hunting then you should consider getting the <a href="http://amzn.to/28Xm2B3" rel="nofollow">Suunto Traverse Alpha</a>. The Suunto Traverse Alpha gives you the following additional features to the [regular Suunto Traverse](http://www.hikeventures.com/deals/#Suunto+Traverse):
 
 * Automatic Shot detection
 * Fishing and hunting specific POI types
