@@ -78,6 +78,15 @@ If you are more into fishing or hunting then you should consider getting the <a 
 
 ---
 
+# <a href="https://www.rei.com/product/898278/suunto-traverse-gps-multifunction-watch" rel="nofollow">Suunto Traverse</a>
+And then you have the basic Suunto Traverse which I am also wearing on my wrist.
+
+<a href="https://www.amazon.com/gp/product/B014PNZKC0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014PNZKC0&linkCode=as2&tag=hikeve-20&linkId=7539f58f7072b85f393d5bd7e7e76df9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B014PNZKC0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B014PNZKC0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<a href="https://www.rei.com/product/898278/suunto-traverse-gps-multifunction-watch" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Suunto Traverse</button></a> <a href="http://www.hikeventures.com/deals/#Suunto+Traverse" target="_blank"><button type="button" class="btn btn-warning">Compare Prices</button></a>
+
+---
+
 # Accessories
 
 ## [Suunto Smart Belt](http://www.backcountry.com/suunto-smart-belt)
