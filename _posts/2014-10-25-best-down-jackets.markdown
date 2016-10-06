@@ -87,15 +87,6 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hik
 
 <hr>
 
-# Discounts
-
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=down jacket -boy -Nishikawa&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=25&search_price_minimum=110&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=6&search_results_sort_order=Sale+Price"></script>
-
-<br>
-<strong>Tip:</strong> <a href="http://www.hikeventures.com/deals/" target="_blank">Here</a> you can search and compare gear prices of different stores.
-
-<hr>
-
 ## [Mountain Hardware Ghost Whisperer Hooded Down Jacket (800 fp)](http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GULW0DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GULW0DS&linkCode=as2&tag=hikeve-20&linkId=RSEZE3QFDW2FVB3A" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GULW0DS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GULW0DS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -258,10 +249,19 @@ Nikwax Down Proof helps to make your down more water repellent. Down insulates l
 
 <a href="https://www.amazon.com/gp/product/B001OPF4ME/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001OPF4ME&linkCode=as2&tag=hikeve-20&linkId=7fb79637721016c5341362451750b228"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001OPF4ME&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001OPF4ME" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
----
+<hr>
+
+# Discounts
+
+<script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=down jacket -boy -Nishikawa&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=25&search_price_minimum=110&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=6&search_results_sort_order=Sale+Price"></script>
+
+<br>
+<strong>Tip:</strong> <a href="http://www.hikeventures.com/deals/" target="_blank">Here</a> you can search and compare gear prices of different stores.
+
+<hr>
 
 # FAQ on Down Jackets
-     
+
 ## When not to wear a down jacket?
 
 You should avoid wearing your down-jacket while you are active (e.g. hiking, biking, climbing or skiing) since down insulates less when it gets wet. So ideally you wear a [fleece jacket](http://www.hikeventures.com/best-fleece-jackets/) when you are active and switch to your down jacket when you are resting.
