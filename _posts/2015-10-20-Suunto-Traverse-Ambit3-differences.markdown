@@ -24,7 +24,7 @@ I mainly go running and hiking so the regular Suunto Traverse is the best option
 
 # Discounts
 
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=Suunto Ambit3 Vertical -westcomb -jackson OR Suunto Traverse -westcomb -jackson OR Suunto Spartan -westcomb -jackson&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=300&search_on_sale_level=25&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=5&search_results_sort_order=Sale+Price"></script>
+ <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=Suunto Ambit3 Vertical -Ambit2 -westcomb -jackson OR Suunto Traverse -Ambit2 -westcomb -jackson OR Suunto Spartan -westcomb -Ambit2 -jackson&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=300&search_on_sale_level=25&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=5&search_results_sort_order=Sale+Price"></script>
 
 <br>
 <strong>Tip:</strong> <a href="http://www.hikeventures.com/deals/" target="_blank">Here</a> you can search and compare gear prices of different stores.
@@ -39,14 +39,17 @@ The Suunto Traverse weights about 80 grams and it's water resistance is 100 m. T
 
 <hr>
 
-Personally, I like the new look of the Suunto Traverse more than the look of the Suunto Ambit3. Also the wrist strap of the Suunto Traverse feels somewhat more comfortable than the one on the Suunto Ambit3.
+Personally, I like the new look of the Suunto Traverse more than the look of the Suunto Ambit3. Also the wrist strap of the Suunto Traverse feels somewhat more comfortable than the one on the old Suunto Ambit3.
 
 ---
 
-# <a href="http://amzn.to/290sqqE" rel="nofollow">Suunto Ambit3 Vertical</a>
-If you are more into trail running (on hills or mountains), mountainbiking, climbing or into multisport then you should probably go for the <a href="http://amzn.to/290sqqE" rel="nofollow">Suunto Ambit3 Vertical</a>. The Suunto Ambit3 gives you a summary of your vertical gains and also displays the altitude during your ascent.
+# <a href="http://www.hikeventures.com/deals/#Suunto+Ambit3+Vertical" rel="nofollow">Suunto Ambit3 Vertical</a>
+If you are more into trail running (on hills or mountains), mountainbiking, climbing or into multisport then you should probably go for the <a href="http://amzn.to/290sqqE" rel="nofollow">Suunto Ambit3 Vertical</a> or the Suunto Spartan. The Suunto Ambit3 Vertical gives you a summary of your vertical gains and also displays the altitude during your ascent.
 
 <a href="https://www.amazon.com/gp/product/B01AGK1CUK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AGK1CUK&linkCode=as2&tag=hikeve-20&linkId=e88ee85cc37dd473812d405d9bbd5f8d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01AGK1CUK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01AGK1CUK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<a href="http://amzn.to/2duWnR3" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Suunto Ambit3 Vertical</button></a> <a href="http://www.hikeventures.com/deals/#Suunto+Ambit3+Vertical" target="_blank"><button type="button" class="btn btn-warning">Compare Prices</button></a>
+
 
 ---
 
@@ -59,6 +62,8 @@ If you are more into fishing or hunting then you should consider getting the <a 
 * Red backlight, Night Vision Goggle compatible
 
 <a href="https://www.amazon.com/gp/product/B01EMEZWIE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01EMEZWIE&linkCode=as2&tag=hikeve-20&linkId=06c51ab5e85c88a347f1630794284af6"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01EMEZWIE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01EMEZWIE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<a href="http://amzn.to/2dUmh2z" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Suunto Traverse Alpha</button></a> <a href="http://www.hikeventures.com/deals/#Suunto+Traverse+Alpha" target="_blank"><button type="button" class="btn btn-warning">Compare Prices</button></a>
 
 ---
 
