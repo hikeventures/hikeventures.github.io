@@ -12,7 +12,7 @@ tags:
 
 For 2017 we can expect to see plenty of new tents on the market. The trend goes clearly towards lightweight tents. But are lightweight tents always the best option? It depends. Ultralight gear is sometimes made of materials which are not very durable. For example chances are high that you get a hole in your tent floor if the tent floor fabric is very thin.
 
-However, if you plan to go only ocassionally on outdoor trips or to a trip where you need to carry less weight then buying a superlight tent might be a better option even so you may compromise with the durability of the tent. The list contains only a selection of new tents and I might add a few more later on. The table below is sorted by the weight of the tents.
+However, if you plan to go only ocassionally on outdoor trips or to a trip where you need to carry less weight then buying a superlight tent might be a better option even so you may compromise with the durability of the tent. The list contains only a selection of new tents and I might add a few more later on. The table below is sorted by the weight of the tents and I have only listed the smallest or an updated model of a series.
 
 **Note:** The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read who we are.
 
@@ -24,55 +24,113 @@ However, if you plan to go only ocassionally on outdoor trips or to a trip where
 
 # The best new backpacking tents for 2017
 
-| Tent | Weight (grams) |
-|:---|:---:|
-| Big Agnes Onyx UL Tarp|397|
-|[Hyperlite Mountain Gear UltaMid 2](http://www.backcountry.com/hyperlite-mountain-gear-ultamid-2)|499|
-|[Hyperlite Mountain Gear UltaMid 4](http://www.backcountry.com/hyperlite-mountain-gear-ultamid-4)|620|
-|Marmot Bolt 2P	|1050|
-|VauDe Hogan SUL 1-2P	|1100|
-|Terra Nova Starlite 1	|1120|
-|Big Agnes Copper Spur 2 Platinum|1190|
-|Big Agnes Copper Spur HV UL1 1 Person|1190|
-|Big Agnes Copper Spur HV UL mtnGLO 1 Person|1220|
-|MSR Advance Pro 2	|1300|
-|MSR Access 1	|1370|
-|VauDe Hogan SUL 2P	|1430|
-|Big Agnes Copper Spur HV UL2 2 Person|1470|
-|Marmot Tungsten UL 2P | 1470 |
-|Big Agnes Copper Spur HV UL mtnGLO 2 Person|1500|
-|Terra Nova Starlite 2	|1530|
-|Big Agnes Happy Hooligan UL2 HV UL2 2 Person|1620|
-|MSR Access 2	|1640|
-|Therm-a-Rest Slacker Hammock House	|1644|
-|Big Agnes Copper Spur HV UL3 3 Person|1730|
-|Big Agnes Copper Spur HV UL mtnGLO 3 Person|1760|
-|[Hilleberg Anjan](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Anjan-2-Person-Tent_10188463_10208_10000001_-1_)	|1800|
-|Marmot Tungsten UL 3P | 1850 |
-|Terra Nova Helm 1	|1875|
-|VauDe Hogan SUL XT 2-3P	|1950|
-|MSR Access 3	|1960|
-|Big Agnes Happy Hooligan UL3 HV UL3 3 Person|2010|
-|Big Agnes Tuffy SL2+|2070|
-|Marmot Alvar 2P| 2500 |
-|Marmot Haldor 2P | 2900 |
-|MSR Hubba Tour 1	|2030|
-|[Hilleberg Anjan GT](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Anjan-GT-2-Person-Tent_10213161_10208_10000001_-1_)	|2100|
-|[Hilleberg Rogen](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Rogen-Dome-Tent_10188474_10208_10000001_-1_)	|2100|
-|Big Agnes Copper Spur HV UL mtnGLO 4 Person|2210|
-|Big Agnes BLACKTAIL 4|2270|
-|Terra Nova Helm 2	|2270|
-|Big Agnes Van Camp SL|2330|
-|Terra Nova Starlite 3	|2380|
-|MSR Hubba Tour 2	|2470|
-|Big Agnes Copper Spur HV UL4 4 Person|2490|
-|MSR Remote 2	|2950|
-|MSR Remote 3	|3460|
-|Marmot Limelight 4P | 3700 |
-|Big Agnes Tumble 4 mtnGLO|3880|
-|Hilleberg Kaitum 4	|4600|
-|Therm-a-Rest Tranquility 6	|7850|
-|MSR H.U.B.	|21770|
+<div class="table-responsive">
+
+      <table class="table table-hover table-bordered list_items">
+
+        <thead>
+             <tr>
+                <th>Tent</th><th>Weight</th>
+             </tr>
+        </thead>
+
+        <tbody>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Onyx+UL+Tarp" target="_blank">Big Agnes Onyx UL Tarp</a></td><td>397g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Hyperlite+Mountain+Gear+UltaMid" target="_blank">Hyperlite Mountain Gear UltaMid</a></td><td>499g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Marmot+Bolt" target="_blank">Marmot Bolt 2P</a></td><td>1050g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#VauDe+Hogan+SUL" target="_blank">VauDe Hogan SUL 1-2P</a></td><td>1100g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Terra+Nova+Starlite" target="_blank"Terra Nova Starlite</a></td><td>1120g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Copper+Spur" target="_blank">Big Agnes Copper Spur 2 Platinum</a></td><td>1190g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Copper+Spur+HV+UL" target="_blank">Big Agnes Copper Spur HV UL1</a></td><td>1190g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#MSR+Advance+Pro" target="_blank">MSR Advance Pro</a></td><td>1300g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#MSR+Access" target="_blank">MSR Access</a></td><td>1370g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Marmot+Tungsten+UL" target="_blank">Marmot Tungsten UL 2P</a></td><td>1470g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#ThermaRest+Slacker+Hammock+House" target="_blank">Therm-a-Rest Slacker Hammock House</a></td><td>1644g</td>
+        </tr>
+
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Hilleberg+Anjan" target="_blank">Hilleberg Anjan</a></td><td>1800g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Terra+Nova+Helm" target="_blank">Terra Nova Helm</a></td><td>1875g</td>
+        </tr>
+
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Tuffy" target="_blank">Big Agnes Tuffy</a></td><td>2070g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Marmot+Alvar" target="_blank">Marmot Alvar</a></td><td>2500g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Marmot+Haldor" target="_blank">Marmot Haldor 2P</a></td><td>2900g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#MSR+Hubba+Tour" target="_blank">MSR Hubba Tour 1</a></td><td>2030g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Hilleberg+Rogen" target="_blank">Hilleberg Rogen</a></td><td>2100g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Blacktail" target="_blank">Big Agnes Blacktail</a></td><td>2270g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Camp+SL" target="_blank">Big Agnes Van Camp SL</a></td><td>2330g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Marmot+Limelight+4P" target="_blank">Marmot Limelight 4P</a></td><td>3700g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Tumble+4" target="_blank">Big Agnes Tumble 4 mtnGLO</a></td><td>3880g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Hilleberg+Kaitum+4" target="_blank">Hilleberg Kaitum 4 mtnGLO</a></td><td>4600g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Thermarest+Tranquility+6" target="_blank">Therm-a-Rest Tranquility 6</a></td><td>7850g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#MSR+H.U.B" target="_blank">MSR H.U.B.</a></td><td>21770g</td>
+        </tr>
+</tbody>
+</table/
+</div>
 
 ---
 
