@@ -19,6 +19,23 @@ table.list_items tr th:last-child {
   width: 20% !important;
 }
 
+table.list_items_3 tr td:first-child {
+
+  width: 80% !important;
+}
+table.list_items_3 tr td:last-child {
+
+  width: 10% !important;
+}
+table.list_items_3 tr th:first-child {
+
+   width: 80% !important;
+}
+table.list_items_3 tr th:last-child {
+
+  width: 10% !important;
+}
+
 table
 {
         width: 100% !important;
