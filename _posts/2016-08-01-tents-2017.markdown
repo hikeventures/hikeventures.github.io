@@ -48,7 +48,7 @@ However, if you plan to go only ocassionally on outdoor trips or to a trip where
           <td><a href="http://www.hikeventures.com/deals/#VauDe+Hogan+SUL" target="_blank">VauDe Hogan SUL 1-2P</a></td><td>1100g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Terra+Nova+Starlite" target="_blank"Terra Nova Starlite</a></td><td>1120g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Terra+Nova+Starlite" target="_blank">Terra Nova Starlite</a></td><td>1120g</td>
         </tr>
 
         <tr>
