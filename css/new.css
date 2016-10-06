@@ -2,6 +2,22 @@
 
 
 
+table.list_items tr td:first-child {
+
+  width: 80% !important;
+}
+table.list_items tr td:last-child {
+
+  width: 20% !important;
+}
+table.list_items tr th:first-child {
+
+   width: 80% !important;
+}
+table.list_items tr th:last-child {
+
+  width: 20% !important;
+}
 
 table
 {
