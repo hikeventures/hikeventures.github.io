@@ -13,17 +13,17 @@ tags:
 layout: post
 ---
 
-GPS watches like the Suunto Ambit2 or Suunto Ambit3 are quite interesting gadgets if you want to track your route or if you want to plan your route ahead. In general, the only model I could think of which comes close to the Suunto Ambit3 is the Garmin Fenix 3 which has a colour display. However, to me the [Suunto Ambit3](http://www.backcountry.com/suunto-ambit3-sport-gps-watch) or [Suunto Traverse](http://www.backcountry.com/suunto-ambit3-sport-gps-watch) just feels more solid as a product. 
+GPS watches like the Suunto Ambit2 or Suunto Ambit3 are quite interesting gadgets if you want to track your route or if you want to plan your route ahead. In general, the only model I could think of which comes close to the Suunto Ambit3 is the Garmin Fenix 3 which has a colour display. However, to me the [Suunto Ambit3](http://www.backcountry.com/suunto-ambit3-sport-gps-watch) or [Suunto Traverse](http://www.backcountry.com/suunto-ambit3-sport-gps-watch) just feels more solid as a product.
 
-Suunto recently released the [Suunto Spartan](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch) - a GPS watch with color display and touch screen. Then there is also the new <a href="http://amzn.to/2dt4Oyt" rel="nofollow" target="_blank">Apple Watch Series 2</a> which however does not have such a long battery life. I use my Suunto Ambit3 mainly for running, packrafting and hiking and upgraded from the Suunto Ambit2 to the Suunto Ambit3 Sport. 
+Suunto recently released the [Suunto Spartan](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch) - a GPS watch with color display and touch screen. Then there is also the new <a href="http://amzn.to/2dt4Oyt" rel="nofollow" target="_blank">Apple Watch Series 2</a> which however does not have such a long battery life. I use my Suunto Ambit3 mainly for running, packrafting and hiking and upgraded from the Suunto Ambit2 to the Suunto Ambit3 Sport.
 
 Update: I have <a href="http://www.hikeventures.com/Suunto-Traverse-Ambit3-differences/">upgraded</a> my Suunto Ambit 3 to the Suunto Traverse. If you need a multisport watch then you should rather consider the Suunto Ambit3 Vertical or the Suunto Spartan rather than the Suunto Traverse.
 
-The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
-    
+** Note:** The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read who we are.
+
 <a href="https://www.flickr.com/photos/90204224@N07/15913318153"><img src="https://farm8.staticflickr.com/7306/15913318153_e26043e992_b.jpg" width="1024" height="680"></a>
-   
-Checking the altitude in [Finnish Lapland][1] with the Ambit3.
+
+Checking the altitude in [Finnish Lapland][1] with the Ambit3 Sport.
 
 ---
 
@@ -77,7 +77,7 @@ The strap for the Suunto Ambit3 Sport is water repellent and made from a silicon
 ---
 
 # Movescount software
-The new movescount software is available to all Suunto watches. 
+The new movescount software is available to all Suunto watches.
 
 ---
 
@@ -127,7 +127,7 @@ If you are into running or cycling then you might be interested in your hear rat
 ---
 
 ## <a href="http://amzn.to/28V8l3t" rel="nofollow">EasyAcc Rugged Outdoor Power Bank (IP67 Waterproof / 20000mAh)</a>
-If you go on a longer hiking trip then it's good to have an external USB battery with you to charge your Suunto once it run out of battery. 
+If you go on a longer hiking trip then it's good to have an external USB battery with you to charge your Suunto once it run out of battery.
 
 <a href="https://www.amazon.com/gp/product/B01B73I5ZU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01B73I5ZU&linkCode=as2&tag=hikeve-20&linkId=47d7ed2d86df59bde1e15986668ca7b5"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01B73I5ZU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01B73I5ZU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
