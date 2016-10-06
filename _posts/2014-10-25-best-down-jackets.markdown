@@ -151,7 +151,7 @@ The Marmot Quasar Hoody is also an interesting jacket with it's high down fill p
 
 The North Face Premonition Jacket is part of The North Faces Steep Series collection for on-mountain performance like snowboarding, skiing or climbing. It features two internal pockets and two hand pockets as well as a chest pocket. It also has an under-helmet fitted hood and a relaxed ergo fit.
 
-<a href="http://www.backcountry.com/the-north-face-premonition-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Cerium SV HoodyPremonition Jacket</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.backcountry.com/the-north-face-premonition-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Premonition Jacket</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
