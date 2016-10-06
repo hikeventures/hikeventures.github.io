@@ -45,7 +45,7 @@ We have not tested all the down jackets in this article but those are our favori
 
         <tbody>
         <tr>
-          <td><a href="http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens">Mountain Hardware Ghost Whisperer Hooded Down Jacket (800fp)</a></td><td>212g</td>
+          <td><a href="http://www.hikeventures.com/deals/#ghost+whisperer+hooded">Mountain Hardware Ghost Whisperer Hooded Down Jacket (800fp)</a></td><td>212g</td>
         </tr>
 
         <tr>
@@ -103,7 +103,7 @@ We have not tested all the down jackets in this article but those are our favori
 
 The Mountain Hardware Ghost Whisperer Hooded Down Jacket is one of the lightest down jackets available. This is a great jacket for camping during spring, summer and autumn or as a light mid-layer for the winter. If you are looking for a proper winter jacket then we would rather pick the Rab Infinity Endurance or the Rab Positron jacket. For a stylish jacket to use during winter mainly in town we would go for the Arcteryx Ceres jacket.
 
-<a href="http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Ghost Whisperer Hooded Down Jacket</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Ghost Whisperer Hooded Down Jacket</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Compare Prices</button></a>
 
 ---
 
@@ -115,7 +115,7 @@ The Mountain Hardware Ghost Whisperer Hooded Down Jacket is one of the lightest 
 
 Similar as the Arcteryx Cerium LT Jacket just with a hoodie. We would pick the Cerium LT Hoody if we would have to choose a down jacket for moderate winter or for camping during spring and autumn. LT stands for lightweight in the Arcteryx product line.
 
-<a href="http://www.backcountry.com/arcteryx-cerium-lt-hooded-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Cerium LT Hoody</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.backcountry.com/arcteryx-cerium-lt-hooded-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Cerium LT Hoody</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Compare Prices</button></a>
 
 ---
 
@@ -127,7 +127,7 @@ Similar as the Arcteryx Cerium LT Jacket just with a hoodie. We would pick the C
 
 The Western Mountaineering Flash Jacket is a very good jacket for hiking trips in moderate cold conditions (spring and autumn). It's lightweight, has a good warmth-weight ratio and the full zipper have insulated draft protection.
 
-<a href="http://www.backcountry.com/western-mountaineering-flash-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Flash Jacket</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.backcountry.com/western-mountaineering-flash-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Flash Jacket</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Compare Prices</button></a>
 
 ---
 
@@ -139,7 +139,7 @@ The Western Mountaineering Flash Jacket is a very good jacket for hiking trips i
 
 The Marmot Quasar Hoody is also an interesting jacket with it's high down fill power covered by light Pertex Quantum fabric (similar as other models in our list) which makes it also somewhat water repellent. The additional zip on the front adds a little bit more weight to the jacket. We would wear the Marmot Quasar Hoody during moderate winter or camping during spring and summer.
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Marmot-Men-s-Quasar-Hoody_10221652_10208_10000001_-1"><button type="button" class="btn btn-danger">Read more about the Quasar Hoody</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Marmot-Men-s-Quasar-Hoody_10221652_10208_10000001_-1"><button type="button" class="btn btn-danger">Read more about the Quasar Hoody</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Compare Prices</button></a>
 
 ---
 
@@ -151,7 +151,7 @@ The Marmot Quasar Hoody is also an interesting jacket with it's high down fill p
 
 The North Face Premonition Jacket is part of The North Faces Steep Series collection for on-mountain performance like snowboarding, skiing or climbing. It features two internal pockets and two hand pockets as well as a chest pocket. It also has an under-helmet fitted hood and a relaxed ergo fit.
 
-<a href="http://www.backcountry.com/the-north-face-premonition-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Premonition Jacket</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.backcountry.com/the-north-face-premonition-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Premonition Jacket</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Compare Prices</button></a>
 
 ---
 
@@ -163,7 +163,7 @@ The North Face Premonition Jacket is part of The North Faces Steep Series collec
 
 The Arcteryx Cerium SV Hoody is part of Arcteryx severe weather product line - most durable materials which provides most weather protection. We would wear this jacket during the winter. For camping during spring and summer it's probably going to be a bit too warm.
 
-<a href="http://www.backcountry.com/arcteryx-cerium-sv-hooded-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Cerium SV Hoody</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.backcountry.com/arcteryx-cerium-sv-hooded-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Cerium SV Hoody</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Compare Prices</button></a>
 
 ---  
 
@@ -175,7 +175,7 @@ The Arcteryx Cerium SV Hoody is part of Arcteryx severe weather product line - m
 
 Patagonia is another popular outdoor brand and delivers a super light down jacket which comes with 2 zipped hand warmer pockets and elastic-bound cuffs and hem. The shell of the jacket is durable water repellent. The Patagonia Men's Down Hooded Jacket can be used as a light winter jacket.
 
-<a href="http://www.backcountry.com/patagonia-hi-loft-down-hooded-sweater-mens"><button type="button" class="btn btn-danger">Read more about the Patagonia Down Hooded Jacket</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.backcountry.com/patagonia-hi-loft-down-hooded-sweater-mens"><button type="button" class="btn btn-danger">Read more about the Patagonia Down Hooded Jacket</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Compare Prices</button></a>
 
 ---
 
@@ -187,7 +187,7 @@ Patagonia is another popular outdoor brand and delivers a super light down jacke
 
 The  Rab Infinity Endurance Jacket is a technical alpine or mountaineering jacket. It's high fill power and low weight makes this probably one of the best lightweight winter down jackets. If you need a warmer jacket then the Rab Positron Jacket would be an alternative option which adds approximately 30% more warmth.
 
-<a href="http://www.backcountry.com/rab-infinity-endurance-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Rab Infinity Endurance Jacket</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.backcountry.com/rab-infinity-endurance-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Rab Infinity Endurance Jacket</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Compare Prices</button></a>
 
 ---
 
@@ -199,7 +199,7 @@ The  Rab Infinity Endurance Jacket is a technical alpine or mountaineering jacke
 
 The  Rab Positron Jacket is proper box-wall down winter jacket with a water-resistant outer fabric. The manufacturer claims that it has been designed for mountain and expedition use up to 6000m. This jacket delivers about 30% more warmth than the Rab Infinity Endurance jacket.
 
-<a href="http://www.backcountry.com/rab-positron-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Rab Positron Jacket</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.backcountry.com/rab-positron-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Rab Positron Jacket</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Compare Prices</button></a>
 
 ---
 
@@ -211,7 +211,7 @@ The  Rab Positron Jacket is proper box-wall down winter jacket with a water-resi
 
 The North Face Immaculator Parka features an alpine fit and is made for those very cold days. It also has a fixed adjustable helmet-compatible hood as well as a zip hand and internal chest pockets.
 
-<a href="http://www.backcountry.com/the-north-face-immaculator-down-parka-mens"><button type="button" class="btn btn-danger">Read more about the Immaculator Parka</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.backcountry.com/the-north-face-immaculator-down-parka-mens"><button type="button" class="btn btn-danger">Read more about the Immaculator Parka</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Compare Prices</button></a>
 
 ---
 
@@ -223,7 +223,7 @@ The North Face Immaculator Parka features an alpine fit and is made for those ve
 
 More heavy than the other jackets in our list, the Arcteryx Ceres Jacket is made for the deep winter where warmth is the most important factor. This jacket is a probably a great option if you also want to have a fashionable jacket to wear in the city.
 
-<a href="http://www.backcountry.com/arcteryx-ceres-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Ceres Jacket</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.backcountry.com/arcteryx-ceres-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Ceres Jacket</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Compare Prices</button></a>
 
 ---
 
