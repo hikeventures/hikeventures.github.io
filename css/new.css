@@ -9,20 +9,20 @@ table
 tr td:first-child {
   padding: 0 10px !important;
    padding-left: 0px !important;
-  width: 50% !important;
+  width: 70% !important;
 }
 tr td:last-child {
   padding-left: 0px !important;
-  width: 25% !important;
+  width: 15% !important;
 }
 tr th:first-child {
   padding: 0 10px !important;
    padding-left: 0px !important;
-   width: 50% !important;
+   width: 70% !important;
 }
 tr th:last-child {
   padding-left: 0px !important;
-  width: 25% !important;
+  width: 15% !important;
 }
 
 
