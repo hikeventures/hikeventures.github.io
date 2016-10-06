@@ -17,7 +17,7 @@ The down jackets we have selected are sorted by weight and we have just selected
 
 Sometimes you might also get a down jacket for a significant lower price especially at the end of the season when stores want to clear their stock. In many cases the new models just come with a different color so it's worth to have a look on the old models as well. <a href="http://www.hikeventures.com/deals/" target="_blank">Here</a> you can find discounts and compare prices of different stores in the U.S.
 
-We have not tested all the down jackets in this article but those are our favorites if we were to buy a new down jacket. The links on this site contain affiliate links. If you purchase through the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
+We have not tested all the down jackets in this article but those are our favorites if we were to buy a new down jacket. The links on this site contain affiliate links. If you purchase through the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read on who we are).
 
 <a href="https://www.flickr.com/photos/90204224@N07/18424590651" title="best down jackets 2016"><img src="https://c2.staticflickr.com/8/7793/18424590651_c838138d3d_o.jpg" width="100%" alt="best down jackets 2016"></a>
 
