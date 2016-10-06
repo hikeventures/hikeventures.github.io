@@ -24,7 +24,7 @@ I mainly go running and hiking so the regular Suunto Traverse is the best option
 
 # Discounts
 
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=Suunto Ambit3 Vertical -Ambit2 -westcomb -jackson OR Suunto Traverse -Ambit2 -westcomb -jackson OR Suunto Spartan -westcomb -Ambit2 -jackson&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=300&search_on_sale_level=25&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=5&search_results_sort_order=Sale+Price"></script>
+ <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=Suunto Ambit3 Vertical -elementum -Ambit2 -westcomb -jackson OR Suunto Traverse -Ambit2 -westcomb -elementum -jackson OR Suunto Spartan -elementum -westcomb -Ambit2 -jackson&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=300&search_on_sale_level=25&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=5&search_results_sort_order=Sale+Price"></script>
 
 <br>
 <strong>Tip:</strong> <a href="http://www.hikeventures.com/deals/" target="_blank">Here</a> you can search and compare gear prices of different stores.
