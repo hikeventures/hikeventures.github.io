@@ -61,10 +61,6 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hik
         </tr>
 
         <tr>
-          <td><a href="http://www.moosejaw.com/moosejaw/shop/product_The-North-Face-Men-s-Super-Diez-Hooded-Jacket_10284860_10208_10000001_-1_">The North Face Super Diez Hooded Jacket (900 fp)</a></td><td>477g</td>
-        </tr>
-
-        <tr>
           <td><a href="http://www.backcountry.com/patagonia-hi-loft-down-hooded-sweater-mens">Patagonia Men's Down Hooded Jacket (800 fp)</a></td><td>550g</td>
         </tr>
 
@@ -77,7 +73,7 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland](http://www.hik
         </tr>
 
         <tr>
-          <td><a href="http://gearx.com/arc-teryx-ceres-jacket-m">Arcteryx Ceres Jacket (850 fp)</a></td><td>860g</td>
+          <td><a href="http://www.backcountry.com/arcteryx-ceres-down-jacket-mens">Arcteryx Ceres Jacket (850 fp)</a></td><td>860g</td>
         </tr>
 
         </tbody>
@@ -147,18 +143,6 @@ The Arcteryx Cerium SV Hoody is part of Arcteryx severe weather product line - m
 
 ---  
 
-## [The North Face Super Diez Hooded Jacket (900 fp)](http://www.moosejaw.com/moosejaw/shop/product_The-North-Face-Men-s-Super-Diez-Hooded-Jacket_10284860_10208_10000001_-1_)     
-
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00PJBP5SM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PJBP5SM&linkCode=as2&tag=hikeve-20&linkId=GZG3FTWKKEAVL7UC"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00PJBP5SM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00PJBP5SM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Weight:** 477g
-
-The The North Face Super Diez Hooded Jacket is a mountaineering and alpine climbing jacket which has an internal zip chest pocket and a DWR coating which repels light moisture. The 900 fp offers a great weight to warmth ratio.
-
-<a href="http://www.moosejaw.com/moosejaw/shop/product_The-North-Face-Men-s-Super-Diez-Hooded-Jacket_10284860_10208_10000001_-1"><button type="button" class="btn btn-danger">Read more about the Super Diez Hooded Jacket</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
-
----
-
 ## [Patagonia Men's Down Hooded Jacket (800 fp)](http://www.backcountry.com/patagonia-hi-loft-down-hooded-sweater-mens)     
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00OZGABKY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OZGABKY&linkCode=as2&tag=hikeve-20&linkId=OLFQERZDADI4UC3J"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00OZGABKY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00OZGABKY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -195,7 +179,7 @@ The  Rab Positron Jacket is proper box-wall down winter jacket with a water-resi
 
 ---
 
-## [Arcteryx Ceres Jacket (850 fp)](http://gearx.com/arc-teryx-ceres-jacket-m)    
+## [Arcteryx Ceres Jacket (850 fp)](http://www.backcountry.com/arcteryx-ceres-down-jacket-mens)    
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GV47ZVQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GV47ZVQ&linkCode=as2&tag=hikeve-20&linkId=W5UOOTWBV54OBDXF" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GV47ZVQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20"></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GV47ZVQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -203,7 +187,7 @@ The  Rab Positron Jacket is proper box-wall down winter jacket with a water-resi
 
 More heavy than the other jackets in our list, the Arcteryx Ceres Jacket is made for the deep winter where warmth is the most important factor. This jacket is a probably a great option if you also want to have a fashionable jacket to wear in the city.
 
-<a href="http://gearx.com/arc-teryx-ceres-jacket-m"><button type="button" class="btn btn-danger">Read more about the Ceres Jacket</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.backcountry.com/arcteryx-ceres-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Ceres Jacket</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
