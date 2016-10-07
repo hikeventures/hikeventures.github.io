@@ -73,7 +73,7 @@ The links on this site contain affiliate links. If you purchase thru the links y
 <hr>
 
 <h2><a href="http://www.hikeventures.com/deals/#Big+Agnes+Ultralight+Awesome+Mummy" target="_blank">Big Agnes Ultralight Awesome Mummy</a></h2>
-
+<br>
 <h2><a href="http://www.hikeventures.com/deals/#Big+Agnes+Q-Core" target="_blank">Big Agnes Q-Core SLX</a></h2>
 The Big Agnes Q-Core SLX is an ultralight 3-season sleeping pad with a weight of 466 grams (regular size) for temperatures down to -9C. The new double rip-stop improves durability and tear strength by 25%.
 
@@ -83,8 +83,7 @@ The Big Agnes Air Core Ultra is a warm weather sleeping pad for temperatures dow
 <h2><a href="http://www.hikeventures.com/deals/#Big+Agnes+insulated+Air+Core+Ultra" target="_blank">Big Agnes Insulated Air Core Ultra</a></h2>
 The Big Agnes Insulated Air Core Ultra is a superlight 3-season sleeping pad for temperatures down to -9C and weights 598 grams (regular size). It has a 25% increased durability and tear strength and an antimicrobial treatment.
 
-
-## Big Agnes Q-Core Deluxe
+<h2><a href="http://www.hikeventures.com/deals/#big+agnes+q-core+deluxe" target="_blank">Big Agnes Q-Core Deluxe</a></h2>
 The Big Agnes Q-Core Deluxe is a superlight 3-season sleeping pad for temperatures down to -9C.
 
 <h2><a href="http://www.hikeventures.com/deals/#Klymit+Double+V" target="_blank">Klymit Double V</a></h2>
@@ -99,18 +98,18 @@ The Therm-a-Rest NeoAir All Season SV is a four season sleeping pad which includ
 <h2><a href="http://www.hikeventures.com/deals/#slacker+hammock+pad" target="_blank">Therm-a-Rest Slacker Hammock Pad & Snuggler</a></h2>
 The Therm-a-Rest Slacker Hammock Pad was designed to fit inside a Therm-a-Rest Slacker hammock which incorporates self-inflating foam with air channels to increase warmth and loft. The pad weights 435 g (15 oz) / 698 g (1 lb 9 oz) and costs around 80 EUR.
 
-## Therm-a-Rest Synergy Sheets &  Synergy Coupler
+<h2><a href="http://www.hikeventures.com/deals/#thermarest+synergy+sheet" target="_blank">Therm-a-Rest Synergy Sheets & Synergy Coupler</a></h2>
 The Therm-a-Rest Synergy Sheets adds breathability, warmth, cleanliness and comfort to the sleeping systems. The Therm-a-Rest Synergy sheets fits around all Therm-a-Rest mattresses. The Therm-a-Rest Synergy Coupler Sheet provides next to skin comfort while joining two mattresses together to create a double bed. The price for the Therm-a-Rest Synergy Sheets &  Synergy Coupler are about 50 EUR each.
 
 <h2><a href="http://www.hikeventures.com/deals/#Trail+Trail+King+SV" target="_blank">Therm-a-Rest Trail King SV</a></h2>
 The Therm-a-RestTrail King SV is a self-inflation sleeping pad. The Trail King SV includes AirFrame construction which alternates foam and air channels and SpeedValve technology for fast inflation and deflation. The Therm-a-RestTrail King SV weights 822 grams (regular) and will cost around 150 EUR.
 
----
+<hr>
 
 # Conclusion
 Personally, I like the [Therm-a-Rest XTherm](http://www.hikeventures.com/deals/#neoair-xtherm) the most and I use it during summer and winter time. Even so it is not the newest sleeping pad on the market, it provides high insulation and comes with low weight. I always carry it on our [hiking and packrafting trips](http://www.hikeventures.com/destinations/).
 
----
+<hr>
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
@@ -128,4 +127,4 @@ amzn_assoc_linkid = "965296fb866182bb89b535202541adda";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
----
+<hr>
