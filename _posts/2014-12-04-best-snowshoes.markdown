@@ -45,7 +45,7 @@ We have not tested every snowshoe in this article but those are our favourites i
           <td><a href="http://www.hikeventures.com/deals/#MSR+Revo+Ascent" target="_blank" rel="nofollow">MSR Revo Ascent 25</a></td><td>1970g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Tubbs+Flex+VRT+24" target="_blank" rel="nofollow"Tubbs Flex VRT 24</a></td><td>2040g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Tubbs+Flex+VRT+24" target="_blank" rel="nofollow">Tubbs Flex VRT 24</a></td><td>2040g</td>
         </tr>
         <tr>
           <td><a href="http://www.hikeventures.com/deals/#MSR+Lightning+AscentTubbs+Xpedition+25" target="_blank" rel="nofollow">Tubbs Xpedition 25</a></td><td>2090g</td>
