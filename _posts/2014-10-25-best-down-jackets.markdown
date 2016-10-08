@@ -39,7 +39,7 @@ We have not tested all the down jackets in this article but those are our favori
 
         <thead>
              <tr>
-                <th>Jacket</th><th>Weight</th>
+                <th>Down Jacket</th><th>Weight</th>
              </tr>
         </thead>
 
