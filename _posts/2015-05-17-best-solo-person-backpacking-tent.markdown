@@ -26,11 +26,8 @@ We have not tested all the tents in this article but those are our favourites if
 ---
 
 # The best solo tents for 2016
-
 <div class="table-responsive">
-
-      <table class="table table-hover table-bordered list_items">
-
+<table class="table table-hover table-bordered list_items">
         <thead>
              <tr>
                 <th>Tent</th><th>Weight</th>
