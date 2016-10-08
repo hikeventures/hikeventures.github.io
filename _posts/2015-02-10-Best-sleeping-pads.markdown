@@ -13,7 +13,7 @@ In this blog post you can find the best lightweight sleeping pads available in 2
 
 <a href="https://www.flickr.com/photos/90204224@N07/9599003854" title="Best sleeping pads 2016"><img src="https://c1.staticflickr.com/3/2882/9599003854_415a4828f0_o.jpg" width="992" height="661" alt="Best sleeping pads in 2016"></a>Sleeping bag in <a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/">Sarek National Park</a> in Sweden.
 
-The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read who we are.
+The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
 
 <!--more-->
 
