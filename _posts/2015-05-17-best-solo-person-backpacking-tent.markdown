@@ -25,7 +25,7 @@ We have not tested all the tents in this article but those are our favourites if
 
 <hr>
 
-<h1> The best solo tents for 2016</h1>
+<h1>The best solo tents for 2016</h1>
 <div class="table-responsive">
 <table class="table table-hover table-bordered list_items">
         <thead>
