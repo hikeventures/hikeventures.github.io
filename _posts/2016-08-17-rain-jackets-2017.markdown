@@ -18,65 +18,94 @@ The links on this site contain affiliate links. If you purchase thru the links y
 
 ---
 
-# The best new waterproof rain jackets 2017
+# The best new rain jackets 2017
 
-|Jacket | Weight (grams) |
-|:------|:-----:|
-|Berghaus Hyper 100 Jacket | 97 |
-| Mammut Rainspeed Ultralight HS Jacket | 120 |
-|Haglöfs L.I.M. Proof Jacket | 210|
-|Berghaus Deluge Light Jacket | 300 |
-|Berghaus Hillwalker Jacket | 300 |
-|Berghaus Paclite Storm Jacket | 300 |
-|Marmot Magus Jacket| 300 |
-|Berghaus Extrem Light Paclite Jacket | 320 |
-|Marmot Knife Edge Jacket| 327 |
-|Haglöfs Kabi (K2) Jacket Women |340|
-|Berghaus Storm Jacket| 614 |
+<div class="table-responsive">
 
-> Table is sorted by weight and only contains a selection of brands.
+      <table class="table table-hover table-bordered list_items">
 
+        <thead>
+             <tr>
+                <th>Jacket</th><th>Weight</th>
+             </tr>
+        </thead>
+
+        <tbody>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Berghaus+hyper+100" target="_blank">Berghaus Hyper 100 Jacket</a></td><td>97g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Berghaus+Remotemammut+rainspeed+ultralight+hs+jacket" target="_blank">Mammut Rainspeed Ultralight HS Jacket</a></td><td>120g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Haglöfs+L.I.M.+Proof+Jacket" target="_blank">Haglöfs L.I.M. Proof Jacket</a></td><td>210g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Berghaus+Deluge+Light+Jacket" target="_blank">Berghaus Deluge Light Jacket</a></td><td>300g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Berghaus+Hillwalker+Jacket" target="_blank">Berghaus Hillwalker Jacket</a></td><td>300g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Berghaus+Paclite+Storm+Jacket" target="_blank">Berghaus Paclite Storm Jacket</a></td><td>300g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Marmot+Magus+Jacket" target="_blank">Marmot Magus Jacket</a></td><td>300g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Berghaus+Extrem+Light+Paclite+Jacket" target="_blank">Berghaus Extrem Light Paclite Jacket</a></td><td>320g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Marmot+Knife+Edge+Jacket" target="_blank">Marmot Knife Edge Jacket</a></td><td>327g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Haglöfs+Kabi+Jacket+Women" target="_blank">Haglöfs Kabi (K2) Jacket Women</a></td><td>340g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Berghaus+Remote" target="_blank">Berghaus Storm Jacket</a></td><td>614g</td>
+        </tr>
+  </tbody>
+  </table>
+  </div>
 <hr>
 
-# Deals
-<script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=Marmot rain jacket -ski -softshell -cycling -insulated -wind OR rain jacket arcteryx -ski -softshell -cycling -insulated -wind OR Patagonia rain jacket -ski -softshell -cycling -insulated -wind&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=20&search_price_minimum=140&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
-<br>
-<strong>Tip:</strong> <a href="http://www.hikeventures.com/deals/" target="_blank">Here</a> you can search and compare gear prices of different stores.
-
-<hr>
-
-## Berghaus Hyper 100 jacket
+<h2><a href="http://www.hikeventures.com/deals/#Berghaus+hyper+100" target="_blank">Berghaus Hyper 100 Jacket</a></h2>
 The Berghaus Hyper 100 jacket won the 2016 OutDoor Industry Awards. The Hyper 100 is the world’s lightest full mountain waterproof jacket in a three layer fabric. The jackets weights 97 grams and has a waterproofness of 20,000mm and a breathability of 50,000g/m2/24hrs.
 
-## Berghaus Deluge Light Jacket
+<h2><a href="http://www.hikeventures.com/deals/#Berghaus+Deluge+Light+Jacket" target="_blank">Berghaus Deluge Light Jacket</a></h2>
 The Deluge Light Jacket is a waterproof jacket for every day. It features an adjustable hood and elasticated cuffs. The jacket weights 300 grams and offers 10,000mm waterproofness and a breathability of 8,000g/m2/24hrs.
 
-## Berghaus Extrem Light Paclite Jacket
+<h2><a href="http://www.hikeventures.com/deals/#Berghaus+Extrem+Light+Paclite+Jacket" target="_blank">Berghaus Extrem Light Paclite Jacket</a></h2>
 The Extrem Light Paclite Jacket is a lightweight jacket for the alpine summer days. It's made of GORE-TEX Paclite and made with Colourkind eco fabric (63% fewer chemicals and 89% less water used during the manufacturing process). It features a fully adjustable hood suitable for a climbing helmet and an internal stash pocket. The jacket weights 320 grams.
 
-## Berghaus Storm Jacket
+<h2><a href="http://www.hikeventures.com/deals/#Berghaus+Remote" target="_blank">Berghaus Storm Jacket</a></h2>
 The Berghaus Storm Jacket weights 300 grams and packs small. It has an adjustable hood, dropped back hem and a water-resistant zip and 2 water-resistant pockets.
 
-## Berghaus Hillwalker Jacket
+<h2><a href="http://www.hikeventures.com/deals/#Berghaus+Hillwalker+Jacket" target="_blank">Berghaus Hillwalker Jacket</a></h2>
 The Hillwalker Jacket has been designed for hiking or walking and is made of a 2-Layer GORE-TEX Performance Shell. The jacket weights 614 grams and features a roll-away hood and two handwarmer pockets.
 
-## Berghaus Paclite Storm Jacket
+<h2><a href="http://www.hikeventures.com/deals/#Berghaus+Paclite+Storm+Jacket" target="_blank">Berghaus Paclite Storm Jacket</a></h2>
 The Paclite Storm Jacket is a waterproof jacket for the trail. It weights 300 grams and comes with a GORE-TEX Paclite fabric. The jacket features a fixed fully adjustable hood, a water resistant zip, dropped hem and two water resistant zip pockets.
 
-## Haglöfs Kabi (K2) Jacket
+<h2><a href="http://www.hikeventures.com/deals/#Haglöfs+Kabi+Jacket+Women" target="_blank">Haglöfs Kabi (K2) Jacket Women</a></h2>
 The Haglöfs Kabi (K2) Jacket weights 340 grams and has been designed for women. It features 3-layer Gore-Tex C-knit and Paclite fabric and a design which allows maximum freedom of movement.
 
-## Haglöfs L.I.M Proof Jacket
+<h2><a href="http://www.hikeventures.com/deals/#Haglöfs+L.I.M.+Proof+Jacket" target="_blank">Haglöfs L.I.M. Proof Jacket</a></h2>
 The Haglöfs L.I.M Proof Jacket weights 230 grams and is a super lightweight rain jacket for hiking or trekking. It also features articulated sleeves and elasticated cuffs. The fabric is a 2,5 layer fabric with 10.000 mm moisture permeability.
 
-## Mammut Rainspeed Ultralight HS Jacket
-
+<h2><a href="http://www.hikeventures.com/deals/#Berghaus+Remotemammut+rainspeed+ultralight+hs+jacket" target="_blank">Mammut Rainspeed Ultralight HS Jacket</a></h2>
 The Mammut Rainspeed Ultralight HS Jacket is made from GORE-TEX Active technology and made from a single piece of fabric. The seams are welded using ultrasound technology. The jacket weights 120 grams. It also comes with a chest pocket and reflective logos.
 
-## Marmot Magus Jacket
+<h2><a href="http://www.hikeventures.com/deals/#Marmot+Magus+Jacket" target="_blank">Marmot Magus Jacket</a></h2>
 The Marmot Magus Jacket is an all purpose stretch jacket for activities which requires a lot of movement. It features a chest pocket, hand pockets and an adjustable hood and hem.
 
-## Marmot Knife Edge Jacket
+<h2><a href="http://www.hikeventures.com/deals/#Marmot+Knife+Edge+Jacket" target="_blank">Marmot Knife Edge Jacket</a></h2>
 The Marmot Knife Edge Jacket is an extra light jacket for climbing or mountaineering. The fabric is Gore-Tex Paclite.
 
 ---
