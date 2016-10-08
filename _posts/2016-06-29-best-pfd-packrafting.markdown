@@ -45,7 +45,7 @@ We have not tested all the PFDs in this article but those are our favorites if w
           <td><a href="http://www.hikeventures.com/deals/#astral+designs+eight" target="_blank">Astral Designs V-Eight</a></td><td>563g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Palm+Alpha" target="_blank">Palm Alpha</a></td><td>607g</td>
+          <td><a href="http://amzn.to/29kvV8M" target="_blank" rel="nofollow">Palm Alpha</a></td><td>607g</td>
         </tr>
         <tr>
           <td><a href="http://www.hikeventures.com/deals/#Astral+Designs+Sea+Wolf" target="_blank">Astral Designs Sea Wolf</a></td><td>766g</td>
@@ -54,7 +54,7 @@ We have not tested all the PFDs in this article but those are our favorites if w
           <td><a href="http://www.hikeventures.com/deals/#Astral+Designs+YTV" target="_blank">Astral Designs YTV</a></td><td>794g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Palm+FX" target="_blank">Palm FX</a></td><td>877g</td>
+          <td><a href="http://amzn.to/292fRLY" target="_blank" rel="nofollow">Palm FX</a></td><td>877g</td>
         </tr>
 </tbody>
 </table>
@@ -70,7 +70,7 @@ The Astral Designs YTV is a great choice if you want to have a minimalistic life
 
 <a href="https://www.amazon.com/gp/product/B01BMZWV6C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01BMZWV6C&linkCode=as2&tag=hikeve-20&linkId=0fb99e04474c270ca1f5d07c107a0dd9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01BMZWV6C&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01BMZWV6C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="http://www.backcountry.com/astral-ytv-personal-flotation-device" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Astral Designs YTV</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.backcountry.com/astral-ytv-personal-flotation-device" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Astral Designs YTV</button></a> <a href="/deals/#astral+designs+ytv" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -82,7 +82,7 @@ The Astral Designs V-Eight has 2 zippered front pockets and made for the summer.
 
 <a href="https://www.amazon.com/gp/product/B00TMANL50/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TMANL50&linkCode=as2&tag=hikeve-20&linkId=254bf432198b3c65cdd8cabe819e726a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00TMANL50&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00TMANL50" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="https://www.rei.com/product/881421/astral-v-eight-pfd" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Astral Designs V-Eight</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="https://www.rei.com/product/881421/astral-v-eight-pfd" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Astral Designs V-Eight</button></a> <a href="/deals/#astral+designs+eight" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -106,7 +106,7 @@ If you need a PFD where you can store a lot's of stuff in it then you should hav
 
 <a href="https://www.amazon.com/gp/product/B00ILHKYAK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ILHKYAK&linkCode=as2&tag=hikeve-20&linkId=8bd526c578279fdf0604cbab13ae67bd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00ILHKYAK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00ILHKYAK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="https://www.rei.com/product/867519/astral-sea-wolf-pfd-mens"><button type="button" class="btn btn-danger">Read more about the Astral Designs Sea Wolf</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="https://www.rei.com/product/867519/astral-sea-wolf-pfd-mens"><button type="button" class="btn btn-danger">Read more about the Astral Designs Sea Wolf</button></a> <a href="/deals/#astral+designs+sea+wolf" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
