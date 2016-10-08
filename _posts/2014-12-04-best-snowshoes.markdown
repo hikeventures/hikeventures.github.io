@@ -10,11 +10,11 @@ tags:
 layout: post
 ---
 Here is my buying guide for the best snowshoes for 2016 sorted by weight. Snowshoes are quite interesting if you are planning to ascent a mountain, walk in powder snow or do any other winter backcountry trips. Snowshoeing is easy to learn and not that expensive. Also consider to get a pair of [snowshoe poles](http://www.hikeventures.com/best-trekking-and-snowshoeing-poles/ "trekking and snowshoeing poles") for your snowshoeing trips as they will help you a lot on your snowshoeing adventure.
- 
+
 <a href="https://www.flickr.com/photos/90204224@N07/18240641010" title="Best snowhoes of 2016"><img src="https://c4.staticflickr.com/8/7780/18240641010_a4f51acf96_o.jpg" width="992" height="659" alt="Best Snowshoes of 2016"></a><!--more-->
 
 On the picture you can see me walking with my Tubbs Xpedition snowshoes in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Snowshoeing in Urho Kekkonen National Park").
- 
+
 Considering your own body and gear weight is important when choosing your snowshoes. The more weight you want to carry the bigger the surface of the snowshoe should be. Also look at the size of the crampons and if the binding is suitable / durable or if you prefer fixed-rotation or full-rotation bindings.
 
 We have not tested every snowshoe in this article but those are our favourites if we were to buy new snowshoes. The links on this site contain affiliate links. If you purchase thru the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
@@ -23,27 +23,40 @@ We have not tested every snowshoe in this article but those are our favourites i
 
 # Overview of the best snowshoes 2016
 
-| Model | Weight |
-| :------------- |:-------------|
-|  [MSR Lightning Ascent 25](http://www.backcountry.com/msr-lightning-ascent) | 3.9 lb / 1780 grams |
-| [MSR Lightning Explore 25](http://www.backcountry.com/msr-lightning-explore-snowshoe-mens) | 4.1 lb / 1870 grams |
-| [MSR Revo Ascent 25](http://www.backcountry.com/msr-revo-ascent-snowshoe-mens) | 4.3 lb / 1970 grams |
-| [Tubbs FLEX VRT 24](http://www.moosejaw.com/moosejaw/shop/product_Tubbs-Men-s-Flex-VRT-Snowshoe_10259131_10208_10000001_-1_)   | 4.5 lb / 2040 grams | 
-| [Tubbs Xpedition 25](http://www.backcountry.com/tubbs-xpedition-snowshoe-mens) |  4.6 lb / 2090 grams |
-| [Atlas 12 Series](http://www.backcountry.com/atlas-12-series-snowshoe) |  4.6 lb / 2100 grams |
+<div class="table-responsive">
 
-> Table is sorted by weight
+      <table class="table table-hover table-bordered list_items_3">
 
----
+        <thead>
+             <tr>
+                <th>Snowshoes</th><th>Weight</th>
+             </tr>
+        </thead>
 
-# Discounts
+        <tbody>
 
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=snowshoe&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=100&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#MSR+Lightning+Ascent" target="_blank" rel="nofollow">MSR Lightning Ascent 25</a></td><td>1780g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#MSR+Lightning+Explore+25" target="_blank" rel="nofollow">MSR Lightning Ascent Explore 25</a></td><td>1870g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#MSR+Revo+Ascent" target="_blank" rel="nofollow">MSR Revo Ascent 25</a></td><td>1970g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Tubbs+Flex+VRT+24" target="_blank" rel="nofollow"Tubbs Flex VRT 24</a></td><td>2040g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#MSR+Lightning+AscentTubbs+Xpedition+25" target="_blank" rel="nofollow">Tubbs Xpedition 25</a></td><td>2090g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Atlas-12" target="_blank" rel="nofollow">Atlas 12</a></td><td>2100g</td>
+        </tr>
+</tbody>
+</table>
+</div>
 
-<br>
-<strong>Tip:</strong> <a href="http://www.hikeventures.com/deals/" target="_blank">Here</a> you can search and compare gear prices of different stores.
-
-<hr>
 ---
 
 ## [MSR Lightning Ascent 25](http://www.backcountry.com/msr-lightning-ascent)
@@ -60,10 +73,10 @@ We have not tested every snowshoe in this article but those are our favourites i
 * Optional, 5-inch (13-cm) tails for improved flotation   
 * Torsion2 crampons
 
-<a href="http://www.backcountry.com/msr-lightning-ascent"><button type="button" class="btn btn-danger">Read more about the MSR Lightning Ascent 25</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="http://www.backcountry.com/msr-lightning-ascent"><button type="button" class="btn btn-danger">Read more about the MSR Lightning Ascent 25</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
-   
+
 ## [Tubbs FLEX VRT 24](http://www.moosejaw.com/moosejaw/shop/product_Tubbs-Men-s-Flex-VRT-Snowshoe_10259131_10208_10000001_-1_)
 
 <a href="http://www.amazon.com/gp/product/B00Q904HD6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q904HD6&linkCode=as2&tag=hikeve-20&linkId=775ITK4RI5T2U3CQ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q904HD6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q904HD6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -76,7 +89,7 @@ We have not tested every snowshoe in this article but those are our favourites i
 * DYNAMICFIT BINDING
 * FLEXTail
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Tubbs-Men-s-Flex-VRT-Snowshoe_10259131_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Tubbs Men's FLEX VRT 24</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Tubbs-Men-s-Flex-VRT-Snowshoe_10259131_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Tubbs Men's FLEX VRT 24</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -92,9 +105,9 @@ We have not tested every snowshoe in this article but those are our favourites i
 * HyperLink binding   
 * Ergo Televators   
 * Optional, 5-inch (13-cm) tails for improved flotation
- 
-<a href="http://www.backcountry.com/msr-lightning-explore-snowshoe-mens"><button type="button" class="btn btn-danger">Read more about the MSR Lightning Explore 25</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
- 
+
+<a href="http://www.backcountry.com/msr-lightning-explore-snowshoe-mens"><button type="button" class="btn btn-danger">Read more about the MSR Lightning Explore 25</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+
 ---
 
 ## [MSR Revo Ascent 25](http://www.backcountry.com/msr-revo-ascent-snowshoe-mens)
@@ -109,22 +122,22 @@ We have not tested every snowshoe in this article but those are our favourites i
 * Ergo Televators
 * Optional, 5-inch (13-cm) tails for improved flotation
 
-<a href="http://www.backcountry.com/msr-revo-ascent-snowshoe-mens"><button type="button" class="btn btn-danger">Read more about the MSR Revo Ascent 25</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
-  
+<a href="http://www.backcountry.com/msr-revo-ascent-snowshoe-mens"><button type="button" class="btn btn-danger">Read more about the MSR Revo Ascent 25</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+
 ---
-  
+
 ## [Tubbs Xpedition 25](http://www.backcountry.com/tubbs-xpedition-snowshoe-mens)
 
 <a href="http://www.amazon.com/gp/product/B00ECPPX8S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ECPPX8S&linkCode=as2&tag=hikeve-20&linkId=HCYZ4YFLRZOVRSLA"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ECPPX8S&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00ECPPX8S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **weight:** 2090 grams   
-**application:** mountain 
+**application:** mountain
 
 * ReAct binding   
 * Carbon steel Cobra toe crampon   
 * Grappler heel cleat  
 
-<a href="http://www.backcountry.com/tubbs-xpedition-snowshoe-mens"><button type="button" class="btn btn-danger">Read more about the Tubbs Men's Xpedition 25</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="http://www.backcountry.com/tubbs-xpedition-snowshoe-mens"><button type="button" class="btn btn-danger">Read more about the Tubbs Men's Xpedition 25</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -135,21 +148,21 @@ We have not tested every snowshoe in this article but those are our favourites i
 **weight:** 2100 grams   
 **application:** backcountry & mountain
 
-* The Atlas 12 Series frame is made of 7075 aluminum 
+* The Atlas 12 Series frame is made of 7075 aluminum
 * Flagship snowshoe of Atlas
 * Reactive frame
 * Wrapp pro binding
 * Spring-loaded suspension
 * Duratek Decking
 
-<a href="http://www.backcountry.com/atlas-12-series-snowshoe"><button type="button" class="btn btn-danger">Read more about the Atlas 12 Series</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="http://www.backcountry.com/atlas-12-series-snowshoe"><button type="button" class="btn btn-danger">Read more about the Atlas 12 Series</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24785831751/in/photolist-Dm1oBg-DJ5oFY-Dm1YSa-DSbpUy-CWZxhh-DUv9z4-DLeSfK-DLeWra-CWZhq3-DsowUj-CWZoVY-DJ55xd-CWYQyo-CX6sRF-DUueLP-Dm1SnM-DJ5qtf-CX6ZLM-r3peJw-qNgY7t" title="MSR Lightning Ascent and MSR Flight 2"><img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="MSR Lightning Ascent and MSR Flight 2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-   
+
 Konstantin snowshoeing in the [Austrian Alps](http://www.hikeventures.com/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/) with this [MSR Lightning Ascent](http://www.backcountry.com/msr-lightning-ascent).
-   
+
 ---
 
 # How to choose snowshoes?
@@ -171,7 +184,7 @@ There are several criterias you should take into consideration when you are plan
 ---
 
 # Conclusion
-So which are the best snowshoes for 2016? My preference goes towards a light snowshoe which has a good grip in the backcountry and in the mountains. I would probably choose the [MSR Lightning Ascent](http://www.backcountry.com/msr-lightning-ascent). The [MSR Revo Ascent 25](http://www.backcountry.com/msr-revo-ascent-snowshoe-mens) would be my second choice because of the additional weight. The advantage of the MSR Revo Ascent it that it is a bit more durable than the MSR Lightning Ascent. 
+So which are the best snowshoes for 2016? My preference goes towards a light snowshoe which has a good grip in the backcountry and in the mountains. I would probably choose the [MSR Lightning Ascent](http://www.backcountry.com/msr-lightning-ascent). The [MSR Revo Ascent 25](http://www.backcountry.com/msr-revo-ascent-snowshoe-mens) would be my second choice because of the additional weight. The advantage of the MSR Revo Ascent it that it is a bit more durable than the MSR Lightning Ascent.
 
 ---
 
