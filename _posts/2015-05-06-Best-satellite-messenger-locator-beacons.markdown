@@ -12,7 +12,13 @@ layout: post
 
 A satellite messenger, GPS Tracker or a Personal Locator Beacon should be with you on your hiking, backpacking, packrafting or kayaking trip if you are planning to go to areas where you don't have any phone reception. In case of an accident you won't be able to call for help without a satellite messenger. Here is my list of the best satellite messengers and personal locator beacons for 2016.
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B0083KHR3W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0083KHR3W&linkCode=as2&tag=hikeve-20&linkId=JA77DOCMUQDNHR6Q"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0083KHR3W&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0083KHR3W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+---
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9606193064/in/photolist-fCSfwm-fBZaBp-fBZ86t-fCenzd-fCerPS-fCeu5W-fBZ9Pa-fCewCu-fCeuVs-fBZ6JB-fBZ5re-fBZaMc-fCewQ3-fBZbjB-fBZapV-fBZ4QB-fBZ7rH-fCeqR1-fCetpG-fBZcd4-fBZ7U8-fCescG-fCeoTj-fCeso7-fBZ5CR-fCeugy-fBZ4Fk-fCerZw-fCemGh-eixRoh-eis7oH-fBZ3ND-fCerDj-fBZd5R-fCeta7-fCevtj-fBZc4Z-fCevFQ-fCemih-fBZ4gV-fBZ5VP-fCeqcS-fBZ3mc-fCesMw-fBZ8hP-fCeped-fBZcNa-fBZbAg-fCesyW-fCeoi5" title="Best GPS Satellite Messenger 2016 / 2017 - DeLorme InReach SE can be useful in Northern Sweden"><img src="https://c1.staticflickr.com/4/3670/9606193064_01bf36511a_b.jpg" width="100%" alt="Hiking and Packrafting in Sarek Sweden"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Me hiking in the Sarek National Park in Sweden - also considered as one of the last wilderness areas in Europe
+
+---
 
 I have not tested all devices in this article but those are our favourites if I were to buy a new one. The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
 
@@ -67,12 +73,6 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
----
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9606193064/in/photolist-fCSfwm-fBZaBp-fBZ86t-fCenzd-fCerPS-fCeu5W-fBZ9Pa-fCewCu-fCeuVs-fBZ6JB-fBZ5re-fBZaMc-fCewQ3-fBZbjB-fBZapV-fBZ4QB-fBZ7rH-fCeqR1-fCetpG-fBZcd4-fBZ7U8-fCescG-fCeoTj-fCeso7-fBZ5CR-fCeugy-fBZ4Fk-fCerZw-fCemGh-eixRoh-eis7oH-fBZ3ND-fCerDj-fBZd5R-fCeta7-fCevtj-fBZc4Z-fCevFQ-fCemih-fBZ4gV-fBZ5VP-fCeqcS-fBZ3mc-fCesMw-fBZ8hP-fCeped-fBZcNa-fBZbAg-fCesyW-fCeoi5" title="Best GPS Satellite Messenger 2016 / 2017 - DeLorme InReach SE can be useful in Northern Sweden"><img src="https://c1.staticflickr.com/4/3670/9606193064_01bf36511a_b.jpg" width="100%" alt="Hiking and Packrafting in Sarek Sweden"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-Me hiking in the Sarek National Park in Sweden - also considered as one of the last wilderness areas in Europe
 
 ---
 
@@ -143,7 +143,7 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 * No messaging
 * Weight: 153 grams
 
-<a href="https://www.rei.com/product/843146/acr-electronics-resqlink-gps-personal-locator-beacon"><button type="button" class="btn btn-danger">Read more about the ACR ResQlink+ 406</button></a> <a href="/deals/#acr+resqlink" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="https://www.rei.com/product/843146/acr-electronics-resqlink-gps-personal-locator-beacon"><button type="button" class="btn btn-danger">Read more about the ACR ResQlink+ 406</button></a> <a href="/deals/#acr+resqlink" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
