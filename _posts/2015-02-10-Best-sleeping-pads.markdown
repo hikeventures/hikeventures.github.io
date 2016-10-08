@@ -33,27 +33,27 @@ The links on this site contain affiliate links. If you purchase through the link
 
         <tbody>
         <tr>
-          <td><a href="https://http://www.hikeventures.com/#deals+NeoAir+Xlite" target="_blank" rel="nofollow">Therm-a-Rest NeoAir XLite</a></td><td>3.2</td><td>350g</td>
+          <td><a href="http://www.hikeventures.com/#deals+NeoAir+Xlite" target="_blank" rel="nofollow">Therm-a-Rest NeoAir XLite</a></td><td>3.2</td><td>350g</td>
         </tr>
 
         <tr>
-          <td><a href="https://http://www.hikeventures.com/#deals+sea+summit+ultralight" target="_blank" rel="nofollow">Sea to Summit Ultralight</a></td><td>0.7</td><td>355g</td>
+          <td><a href="http://www.hikeventures.com/#deals+sea+summit+ultralight" target="_blank" rel="nofollow">Sea to Summit Ultralight</a></td><td>0.7</td><td>355g</td>
         </tr>
 
         <tr>
-          <td><a href="https://http://www.hikeventures.com/#deals+Z+Lite+Sol" target="_blank" rel="nofollow">Therm-a-Rest Z LITE SOL</a></td><td>2.6</td><td>410g</td>
+          <td><a href="http://www.hikeventures.com/#deals+Z+Lite+Sol" target="_blank" rel="nofollow">Therm-a-Rest Z LITE SOL</a></td><td>2.6</td><td>410g</td>
         </tr>
 
         <tr>
-          <td><a href="https://http://www.hikeventures.com/#deals+NeoAir+XTherm" target="_blank" rel="nofollow">Therm-a-Rest NeoAir XTherm</a></td><td>5.7</td><td>410g</td>
+          <td><a href="http://www.hikeventures.com/#deals+NeoAir+XTherm" target="_blank" rel="nofollow">Therm-a-Rest NeoAir XTherm</a></td><td>5.7</td><td>410g</td>
         </tr>
 
         <tr>
-          <td><a href="https://http://www.hikeventures.com/#exped+synmat+ul+7+pad" target="_blank" rel="nofollow">Exped Synmat UL 7</a></td><td>3.3</td><td>450g</td>
+          <td><a href="http://www.hikeventures.com/#exped+synmat+ul+7+pad" target="_blank" rel="nofollow">Exped Synmat UL 7</a></td><td>3.3</td><td>450g</td>
         </tr>
 
         <tr>
-          <td><a href="https://http://www.hikeventures.com/#evolite" target="_blank" rel="nofollow">Therm-a-Rest Evolite</a></td><td>2.1</td><td>520g</td>
+          <td><a href="http://www.hikeventures.com/#evolite" target="_blank" rel="nofollow">Therm-a-Rest Evolite</a></td><td>2.1</td><td>520g</td>
         </tr>
 </tbody>
 </table>
@@ -71,7 +71,7 @@ The links on this site contain affiliate links. If you purchase through the link
 
 ---
 
-## [Therm-a-Rest NeoAir XLite](https://http://www.hikeventures.com/#deals+NeoAir+Xlite)
+## [Therm-a-Rest NeoAir XLite](http://www.hikeventures.com/#deals+NeoAir+Xlite)
 
 **R-Value:** 3.2   
 **Weight:** 350 g  
@@ -81,11 +81,11 @@ The links on this site contain affiliate links. If you purchase through the link
 
 The Therm-a-Rest NeoAir Xlite is a solid 3-season air sleeping pad which you could consider if you look for a pad which packs light.
 
-<a href="https://www.rei.com/product/881574/therm-a-rest-neoair-xlite-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest NeoAir XLite</button></a>  <a href="https://http://www.hikeventures.com/#deals+NeoAir+Xlite" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="https://www.rei.com/product/881574/therm-a-rest-neoair-xlite-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest NeoAir XLite</button></a>  <a href="http://www.hikeventures.com/#deals+NeoAir+Xlite" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
-## [Sea to Summit Ultralight](https://http://www.hikeventures.com/#deals+sea+summit+ultralight)
+## [Sea to Summit Ultralight](http://www.hikeventures.com/#deals+sea+summit+ultralight)
 
 **R-Value:** 0.7   
 **Weight:** 355 g   
@@ -95,11 +95,11 @@ The Therm-a-Rest NeoAir Xlite is a solid 3-season air sleeping pad which you cou
 
 Another light sleeping pad is the Sea to Summit Ultralight which featuers a more durable fabric than the Therm-aRest Neo Air Xlite while the NeoAir Xlite will give you a better insulation.
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Sea-to-Summit-UltraLight-Mat_10291712_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Sea to Summit Ultralight</button></a> <a href="https://http://www.hikeventures.com/#deals+sea+summit+ultralight" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Sea-to-Summit-UltraLight-Mat_10291712_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Sea to Summit Ultralight</button></a> <a href="http://www.hikeventures.com/#deals+sea+summit+ultralight" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
-## [Therm-a-Rest NeoAir XTherm](https://http://www.hikeventures.com/#deals+NeoAir+XTherm)
+## [Therm-a-Rest NeoAir XTherm](http://www.hikeventures.com/#deals+NeoAir+XTherm)
 
 **R-Value:** 5.7     
 **Weight:**  410 g     
@@ -110,11 +110,11 @@ Another light sleeping pad is the Sea to Summit Ultralight which featuers a more
 
 The Therm-a-Rest NeoAir XTherm is a sleeping pad for late spring, winter or early spring. However, in Scandinavia it is my go-to sleeping bag throughout the year.
 
-<a href="https://www.rei.com/product/881575/therm-a-rest-neoair-xtherm-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest NeoAir XTherm</button></a> <a href="https://http://www.hikeventures.com/#deals+NeoAir+XTherm" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="https://www.rei.com/product/881575/therm-a-rest-neoair-xtherm-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest NeoAir XTherm</button></a> <a href="http://www.hikeventures.com/#deals+NeoAir+XTherm" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
-## [Therm-a-Rest Z LITE SOL](https://http://www.hikeventures.com/#deals+Z+Lite+Sol)
+## [Therm-a-Rest Z LITE SOL](http://www.hikeventures.com/#deals+Z+Lite+Sol)
 
 **R-Value:** 2.6  
 **Weight:**  410 g
@@ -123,11 +123,11 @@ The Therm-a-Rest NeoAir XTherm is a sleeping pad for late spring, winter or earl
 
 The Therm-a-Rest Z LITE SOL is a foam sleeping pad which is a safe choice than an air sleeping pad. You can also use this pad in combination with an air sleeping pad to get the ultimate in comfort and insulation.
 
-<a href="https://www.rei.com/product/829826/therm-a-rest-z-lite-sol-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest Z LITE SOL</button></a> <a href="https://http://www.hikeventures.com/#deals+Z+Lite+Sol" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="https://www.rei.com/product/829826/therm-a-rest-z-lite-sol-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest Z LITE SOL</button></a> <a href="http://www.hikeventures.com/#deals+Z+Lite+Sol" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
-## [Exped Synmat UL 7](https://http://www.hikeventures.com/#exped+synmat+ul+7+pad)
+## [Exped Synmat UL 7](http://www.hikeventures.com/#exped+synmat+ul+7+pad)
 
 **R-Value:** 3.3   
 **Weight:** 450 g
@@ -137,11 +137,11 @@ The Therm-a-Rest Z LITE SOL is a foam sleeping pad which is a safe choice than a
 
 The Exped Synmat UL 7 was my go-to sleeping pad for a couple of years, however I have replaced it with the Therm-a-Rest XTherm as it offers a better insulation / weight ratio.
 
-<a href="https://www.rei.com/product/811907/exped-synmat-ul-7-air-pad"><button type="button" class="btn btn-danger">Read more about the Exped Synmat UL 7</button></a> <a href="https://http://www.hikeventures.com/#exped+synmat+ul+7+pad" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="https://www.rei.com/product/811907/exped-synmat-ul-7-air-pad"><button type="button" class="btn btn-danger">Read more about the Exped Synmat UL 7</button></a> <a href="http://www.hikeventures.com/#exped+synmat+ul+7+pad" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
-## [Therm-a-Rest EvoLite](https://http://www.hikeventures.com/#evolite)
+## [Therm-a-Rest EvoLite](http://www.hikeventures.com/#evolite)
 
 **R-Value:** 2.1   
 **Weight:** 520 g
@@ -151,7 +151,7 @@ The Exped Synmat UL 7 was my go-to sleeping pad for a couple of years, however I
 
 If you don't want to spend so much time inflating your sleeping pad then the Therm-a-Rest EvoLite might be an intersting sleeping pad for the summer. However, the foam of the pad makes it a heavier choice and you don't get such a good insulation as in other air pads.
 
-<a href="http://www.backcountry.com/therm-a-rest-evolite-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest EvoLite</button></a>  <a href="https://http://www.hikeventures.com/#evolite" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.backcountry.com/therm-a-rest-evolite-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest EvoLite</button></a>  <a href="http://www.hikeventures.com/#evolite" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
