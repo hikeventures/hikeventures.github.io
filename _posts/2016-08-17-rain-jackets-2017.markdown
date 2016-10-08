@@ -36,7 +36,7 @@ The links on this site contain affiliate links. If you purchase thru the links y
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Berghaus+Remotemammut+rainspeed+ultralight+hs+jacket" target="_blank">Mammut Rainspeed Ultralight HS Jacket</a></td><td>120g</td>
+          <td><a href="http://www.hikeventures.com/deals/#mammut+rainspeed+ultralight+hs+jacket" target="_blank">Mammut Rainspeed Ultralight HS Jacket</a></td><td>120g</td>
         </tr>
 
         <tr>
@@ -44,7 +44,7 @@ The links on this site contain affiliate links. If you purchase thru the links y
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Berghaus+Deluge+Light+Jacket" target="_blank">Berghaus Deluge Light Jacket</a></td><td>300g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Berghaus+Deluge+Jacket" target="_blank">Berghaus Deluge Light Jacket</a></td><td>300g</td>
         </tr>
 
         <tr>
@@ -78,7 +78,7 @@ The links on this site contain affiliate links. If you purchase thru the links y
 <h2><a href="http://www.hikeventures.com/deals/#Berghaus+hyper+100" target="_blank">Berghaus Hyper 100 Jacket</a></h2>
 The Berghaus Hyper 100 jacket won the 2016 OutDoor Industry Awards. The Hyper 100 is the world’s lightest full mountain waterproof jacket in a three layer fabric. The jackets weights 97 grams and has a waterproofness of 20,000mm and a breathability of 50,000g/m2/24hrs.
 
-<h2><a href="http://www.hikeventures.com/deals/#Berghaus+Deluge+Light+Jacket" target="_blank">Berghaus Deluge Light Jacket</a></h2>
+<h2><a href="http://www.hikeventures.com/deals/#Berghaus+Deluge+Jacket" target="_blank">Berghaus Deluge Light Jacket</a></h2>
 The Deluge Light Jacket is a waterproof jacket for every day. It features an adjustable hood and elasticated cuffs. The jacket weights 300 grams and offers 10,000mm waterproofness and a breathability of 8,000g/m2/24hrs.
 
 <h2><a href="http://www.hikeventures.com/deals/#Berghaus+Extrem+Light+Paclite+Jacket" target="_blank">Berghaus Extrem Light Paclite Jacket</a></h2>
@@ -99,7 +99,7 @@ The Haglöfs Kabi (K2) Jacket weights 340 grams and has been designed for women.
 <h2><a href="http://www.hikeventures.com/deals/#Haglöfs+L.I.M.+Proof+Jacket" target="_blank">Haglöfs L.I.M. Proof Jacket</a></h2>
 The Haglöfs L.I.M Proof Jacket weights 230 grams and is a super lightweight rain jacket for hiking or trekking. It also features articulated sleeves and elasticated cuffs. The fabric is a 2,5 layer fabric with 10.000 mm moisture permeability.
 
-<h2><a href="http://www.hikeventures.com/deals/#Berghaus+Remotemammut+rainspeed+ultralight+hs+jacket" target="_blank">Mammut Rainspeed Ultralight HS Jacket</a></h2>
+<h2><a href="http://www.hikeventures.com/deals/#mammut+rainspeed+ultralight+hs+jacket" target="_blank">Mammut Rainspeed Ultralight HS Jacket</a></h2>
 The Mammut Rainspeed Ultralight HS Jacket is made from GORE-TEX Active technology and made from a single piece of fabric. The seams are welded using ultrasound technology. The jacket weights 120 grams. It also comes with a chest pocket and reflective logos.
 
 <h2><a href="http://www.hikeventures.com/deals/#Marmot+Magus+Jacket" target="_blank">Marmot Magus Jacket</a></h2>
