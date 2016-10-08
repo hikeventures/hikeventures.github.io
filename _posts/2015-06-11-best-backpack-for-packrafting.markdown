@@ -68,7 +68,7 @@ From my point of view a good packrafting backpack should have the following feat
 ---
 
 ## [HMG Windrider 4400](https://www.hyperlitemountaingear.com/4400-windrider.html)
-The HMG Windrider is similar as the HMG Porter 4400 but comes already with three mesh pockets which I find quite useful if you want to quickly store some gear.
+The HMG Windrider is similar as the HMG Porter 4400 but comes already with three mesh pockets which I find quite useful if you want to quickly store some gear. This is probably the best lightweight packrafting backpack you can buy at the moment.
 
 **Weight:** 992 grams  
 **Volume:** 70l  
@@ -120,7 +120,7 @@ The NRS Paragon Pack is quite versatile like the ULA Epic and you can use smalle
 ---
 
 # Conclusion
-My favorite backpack is still the [HMG Porter 4400](https://www.hyperlitemountaingear.com/4400-porter.html) and I use it since 3 years as my packrafting backpack. I did not have any issues with it so far. There are just a few small spots which are wearing off but it would have happen to any other backpack as well.
+My favorite backpack so far was the [HMG Porter 4400](https://www.hyperlitemountaingear.com/4400-porter.html) and I use it since 3 years as my packrafting backpack. I did not have any issues with it so far. There are just a few small spots which are wearing off but it would have happen to any other backpack as well. However, if I were to buy a new backpack for my packrafting trips then I would probably buy the [HMG Windrider](https://www.hyperlitemountaingear.com/4400-windrider.html) since I would be able to store more gear in the outer mash pockets.
 
 ---
 
