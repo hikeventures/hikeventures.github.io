@@ -106,7 +106,7 @@ Another light sleeping pad is the Sea to Summit Ultralight which featuers a more
 
 The Therm-a-Rest NeoAir XTherm is a sleeping pad for late spring, winter or early spring. However, in Scandinavia it is my go-to sleeping bag throughout the year.
 
-<a href="https://www.rei.com/product/881575/therm-a-rest-neoair-xtherm-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest NeoAir XTherm</button></a> <a href=" www.hikeventures.com/deals/#NeoAir+XTherm" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="https://www.rei.com/product/881575/therm-a-rest-neoair-xtherm-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest NeoAir XTherm</button></a> <a href="http://www.hikeventures.com/deals/#NeoAir+XTherm" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
