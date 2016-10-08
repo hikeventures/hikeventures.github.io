@@ -33,19 +33,19 @@ The links on this site contain affiliate links. If you purchase through the link
 
         <tbody>
         <tr>
-          <td><a href="http://www.hikeventures.com/#deals+NeoAir+Xlite" target="_blank" rel="nofollow">Therm-a-Rest NeoAir XLite</a></td><td>3.2</td><td>350g</td>
+          <td><a href="http://www.hikeventures.com/deals/#NeoAir+Xlite" target="_blank" rel="nofollow">Therm-a-Rest NeoAir XLite</a></td><td>3.2</td><td>350g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/#deals+sea+summit+ultralight" target="_blank" rel="nofollow">Sea to Summit Ultralight</a></td><td>0.7</td><td>355g</td>
+          <td><a href="http://www.hikeventures.com/deals/#sea+summit+ultralight" target="_blank" rel="nofollow">Sea to Summit Ultralight</a></td><td>0.7</td><td>355g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/#deals+Z+Lite+Sol" target="_blank" rel="nofollow">Therm-a-Rest Z LITE SOL</a></td><td>2.6</td><td>410g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Z+Lite+Sol" target="_blank" rel="nofollow">Therm-a-Rest Z LITE SOL</a></td><td>2.6</td><td>410g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/#deals+NeoAir+XTherm" target="_blank" rel="nofollow">Therm-a-Rest NeoAir XTherm</a></td><td>5.7</td><td>410g</td>
+          <td><a href="http://www.hikeventures.com/deals/#NeoAir+XTherm" target="_blank" rel="nofollow">Therm-a-Rest NeoAir XTherm</a></td><td>5.7</td><td>410g</td>
         </tr>
 
         <tr>
@@ -65,13 +65,9 @@ The links on this site contain affiliate links. If you purchase through the link
 
  <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=NeoAir&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=100&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=7&search_results_sort_order=Sale+Price"></script>
 
-
-<br>
-<strong>Tip:</strong> <a href="http://www.hikeventures.com/deals/" target="_blank">Here</a> you can search and compare gear prices of different stores.
-
 ---
 
-## [Therm-a-Rest NeoAir XLite](http://www.hikeventures.com/#deals+NeoAir+Xlite)
+## [Therm-a-Rest NeoAir XLite](http://www.hikeventures.com/deals/#NeoAir+Xlite)
 
 **R-Value:** 3.2   
 **Weight:** 350 g  
@@ -81,11 +77,11 @@ The links on this site contain affiliate links. If you purchase through the link
 
 The Therm-a-Rest NeoAir Xlite is a solid 3-season air sleeping pad which you could consider if you look for a pad which packs light.
 
-<a href="https://www.rei.com/product/881574/therm-a-rest-neoair-xlite-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest NeoAir XLite</button></a>  <a href="http://www.hikeventures.com/#deals+NeoAir+Xlite" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="https://www.rei.com/product/881574/therm-a-rest-neoair-xlite-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest NeoAir XLite</button></a>  <a href="http://www.hikeventures.com/deals/#NeoAir+Xlite" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
-## [Sea to Summit Ultralight](http://www.hikeventures.com/#deals+sea+summit+ultralight)
+## [Sea to Summit Ultralight](http://www.hikeventures.com/deals/#sea+summit+ultralight)
 
 **R-Value:** 0.7   
 **Weight:** 355 g   
@@ -95,11 +91,11 @@ The Therm-a-Rest NeoAir Xlite is a solid 3-season air sleeping pad which you cou
 
 Another light sleeping pad is the Sea to Summit Ultralight which featuers a more durable fabric than the Therm-aRest Neo Air Xlite while the NeoAir Xlite will give you a better insulation.
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Sea-to-Summit-UltraLight-Mat_10291712_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Sea to Summit Ultralight</button></a> <a href="http://www.hikeventures.com/#deals+sea+summit+ultralight" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Sea-to-Summit-UltraLight-Mat_10291712_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Sea to Summit Ultralight</button></a> <a href="http://www.hikeventures.com/deals/#sea+summit+ultralight" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
-## [Therm-a-Rest NeoAir XTherm](http://www.hikeventures.com/#deals+NeoAir+XTherm)
+## [Therm-a-Rest NeoAir XTherm](http://www.hikeventures.com/deals/#NeoAir+XTherm)
 
 **R-Value:** 5.7     
 **Weight:**  410 g     
@@ -110,11 +106,11 @@ Another light sleeping pad is the Sea to Summit Ultralight which featuers a more
 
 The Therm-a-Rest NeoAir XTherm is a sleeping pad for late spring, winter or early spring. However, in Scandinavia it is my go-to sleeping bag throughout the year.
 
-<a href="https://www.rei.com/product/881575/therm-a-rest-neoair-xtherm-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest NeoAir XTherm</button></a> <a href="http://www.hikeventures.com/#deals+NeoAir+XTherm" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="https://www.rei.com/product/881575/therm-a-rest-neoair-xtherm-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest NeoAir XTherm</button></a> <a href=" www.hikeventures.com/deals/#NeoAir+XTherm" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
-## [Therm-a-Rest Z LITE SOL](http://www.hikeventures.com/#deals+Z+Lite+Sol)
+## [Therm-a-Rest Z LITE SOL](http://www.hikeventures.com/deals/#Z+Lite+Sol)
 
 **R-Value:** 2.6  
 **Weight:**  410 g
@@ -123,7 +119,7 @@ The Therm-a-Rest NeoAir XTherm is a sleeping pad for late spring, winter or earl
 
 The Therm-a-Rest Z LITE SOL is a foam sleeping pad which is a safe choice than an air sleeping pad. You can also use this pad in combination with an air sleeping pad to get the ultimate in comfort and insulation.
 
-<a href="https://www.rei.com/product/829826/therm-a-rest-z-lite-sol-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest Z LITE SOL</button></a> <a href="http://www.hikeventures.com/#deals+Z+Lite+Sol" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="https://www.rei.com/product/829826/therm-a-rest-z-lite-sol-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest Z LITE SOL</button></a> <a href="http://www.hikeventures.com/deals/#Z+Lite+Sol" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
