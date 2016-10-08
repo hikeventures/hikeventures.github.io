@@ -10,7 +10,7 @@ tags:
 layout: post
 ---
 
-Planning to go hiking or backpacking or any other backcountry adventure? Then you should consider to pack lightweight rain pants in into your backpack and here is our buying guide of the best men rain pants for 2016. If the weather turns nasty you will be happy to have rain gear to stay dry and warm on the trail. The models which we have selected are rain pants for men. We have not tested those rain pants ourselves but we compared their specifications. The rain pants are sorted according to their weight. 
+Planning to go hiking or backpacking or any other backcountry adventure? Then you should consider to pack lightweight rain pants in into your backpack and here is our buying guide of the best men rain pants for 2016. If the weather turns nasty you will be happy to have rain gear to stay dry and warm on the trail. The models which we have selected are rain pants for men. We have not tested those rain pants ourselves but we compared their specifications. The rain pants are sorted according to their weight.
 
 The links on this site contain affiliate links. If you purchase thru the links you help support our blog. Here you can read on <a href="http://www.hikeventures.com/about/" target="_blank">who</a> we are.
 
@@ -24,27 +24,43 @@ Wearing the [Montane Minimus Pants](http://www.campsaver.com/minimus-pants-men-s
 
 # The best rain pants of 2016
 
-| Rain Pants | Weight |
-| ------------- |:-------------|
-| [Montane Minimus Pants](http://www.campsaver.com/minimus-pants-men-s) | 0.31 lb / 141 g |
-| [Montane Atomic Pants](http://www.moosejaw.com/moosejaw/shop/product_Montane-Men-s-Atomic-Pant_10276270_10208_10000001_-1_)      | 0.41 lb / 185 g | 
-| [Mountain Hardwear Plasmic Pant](http://www.backcountry.com/mountain-hardwear-plasmic-pant-mens)     | 0.45 lb / 204 g |
-| [Rab Fuse Pants](http://www.campsaver.com/fuse-pant-men-s) | 0.45 lb / 205 g  | 
-| [Haglöfs L.I.M. III pants](http://www.backcountry.com/haglfs-l.i.m.-iii-pant-mens) |  0.5 lb / 225 g |
-| [Arcteryx Beta SL Pants](http://www.backcountry.com/arcteryx-beta-sl-pant-mens) | 0.6 lb / 260 g |
-| [Rab Firewall Pants](http://www.campsaver.com/firewall-pant-men-s) | 0.7 lb / 319 g  | 
+<div class="table-responsive">
 
-> Table sorted by weight
+      <table class="table table-hover table-bordered list_items">
+
+        <thead>
+             <tr>
+                <th>Pants</th><th>Weight</th>
+             </tr>
+        </thead>
+
+        <tbody>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Montane+Minimus+Pants" target="_blank">Montane Minimus Pants</a></td><td>141g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Montane+Atomic+Pants" target="_blank">Montane Atomic Pants</a></td><td>185g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Mountain+Hardwear+Plasmic+Pants" target="_blank">Mountain Hardwear Plasmic Pants</a></td><td>204g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Rab+Fuse+Pants" target="_blank">Rab Fuse Pants</a></td><td>205g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Haglofs+LIM+III" target="_blank">Haglöfs L.I.M. III Pants</a></td><td>225g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Arcteryx+Beta+SL" target="_blank">Arcteryx Beta SL Pants</a></td><td>260g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Arcteryx+Beta+SRab+Firewall+PantsL" target="_blank">Rab Firewall Pants</a></td><td>319g</td>
+        </tr>
+</tbody>
+</table>
+</div>
 
 <hr>
-
-# Discounts
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=Rain Pants -snow -anglers -stretch -jacket -hybrid&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=20&search_price_minimum=70&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
-<br>
-<strong>Tip:</strong> <a href="http://www.hikeventures.com/deals/">Here</a> you can search and compare gear prices of different stores.
-
-<hr>
-
 
 # [Montane Minimus Pants](http://www.campsaver.com/minimus-pants-men-s)
 
@@ -55,7 +71,7 @@ Wearing the [Montane Minimus Pants](http://www.campsaver.com/minimus-pants-men-s
 
 The Montane Minimus pants are super light and pack easily into every backpack. These are great waterproof pants for the warmer months. These pants do also have zippers on the lower part of the leg so you can pull them on and off even with boots on.
 
-<a href="http://www.campsaver.com/minimus-pants-men-s"><button type="button" class="btn btn-danger">Read more about the Montane Minimus Pants</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="http://www.campsaver.com/minimus-pants-men-s"><button type="button" class="btn btn-danger">Read more about the Montane Minimus Pants</button></a> <a href="/deals/#montane+minimus+pants" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -64,11 +80,11 @@ The Montane Minimus pants are super light and pack easily into every backpack. T
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B007RLM8JQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007RLM8JQ&linkCode=as2&tag=hikeve-20&linkId=GBWCT2S4ZY3KW4PQ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007RLM8JQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B007RLM8JQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 185 grams   
-**Fabric:** PERTEX Shield 
+**Fabric:** PERTEX Shield
 
 The Montane Atomic Pants are a bit more durable than the Montane Minimus Pants but comes with 44 grams more weight. Also a great choice if you go hiking in the mountains during the warmer months.
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Montane-Men-s-Atomic-Pant_10276270_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about theMontane Atomic Pants</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Montane-Men-s-Atomic-Pant_10276270_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about theMontane Atomic Pants</button></a> <a href="/deals/#montane+atomic+pants" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -77,11 +93,11 @@ The Montane Atomic Pants are a bit more durable than the Montane Minimus Pants b
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B0089PN410/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0089PN410&linkCode=as2&tag=hikeve-20&linkId=SCOBGEQN4LMQSIUF"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0089PN410&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0089PN410" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 204 grams   
-**Fabric:** Dry.Q EVAP 40D 2.5L 
+**Fabric:** Dry.Q EVAP 40D 2.5L
 
 The Mountain Hardwear Plasmic Pants are slightly more heavy than the Montane pants but they come with some additional features. These pants have articulated knees which increases your mobility and also a bag with a zipper where you can store small items. If you need to have a pocket on your waterproof pants then go for this model.
 
-<a href="http://www.backcountry.com/mountain-hardwear-plasmic-pant-mens"><button type="button" class="btn btn-danger">Read more about the Mountain Hardwear Plasmic Pant</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="http://www.backcountry.com/mountain-hardwear-plasmic-pant-mens"><button type="button" class="btn btn-danger">Read more about the Mountain Hardwear Plasmic Pant</button></a>  <a href="/deals/#mountain+hardwear+plasmic+pants" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -92,20 +108,20 @@ The Mountain Hardwear Plasmic Pants are slightly more heavy than the Montane pan
 **Weight:** 205 grams   
 **Fabric:** Pertex Shield 2.5 Layer
 
-The Rab Fuse Pants are the lightest-weight waterproof pants from Rab. They also feature knee articulation. 
+The Rab Fuse Pants are the lightest-weight waterproof pants from Rab. They also feature knee articulation.
 
-<a href="http://www.campsaver.com/fuse-pant-men-s"><button type="button" class="btn btn-danger">Read more about the Rab Fuse Pants</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="http://www.campsaver.com/fuse-pant-men-s"><button type="button" class="btn btn-danger">Read more about the Rab Fuse Pants</button></a> <a href="/deals/#rab+fuse+pants" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
 # [Haglöfs L.I.M. III pants](http://www.backcountry.com/haglfs-l.i.m.-iii-pant-mens)
 
 **Weight:** 225 grams   
-**Fabric:** GORE-TEX PacLite 
+**Fabric:** GORE-TEX PacLite
 
 The Haglöfs L.I.M. III pants are part of Haglöfs Ultralight product range and quite popular in Scandinavia. The zippers on the legs help to put those pants on while wearing hiking boots.
 
-<a href="http://www.backcountry.com/haglfs-l.i.m.-iii-pant-mens"><button type="button" class="btn btn-danger">Read more about the Haglöfs L.I.M. III pants</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="http://www.backcountry.com/haglfs-l.i.m.-iii-pant-mens"><button type="button" class="btn btn-danger">Read more about the Haglöfs L.I.M. III pants</button></a>  <a href="/deals/#haglofs+lim+III+pants" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -114,11 +130,11 @@ The Haglöfs L.I.M. III pants are part of Haglöfs Ultralight product range and 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GV31UGI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GV31UGI&linkCode=as2&tag=hikeve-20&linkId=HNWG2CPEBZ3YDLI7"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GV31UGI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GV31UGI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 260 grams   
-**Fabric:** N40r GORE-TEX fabric with PacLite 
+**Fabric:** N40r GORE-TEX fabric with PacLite
 
 SL stands for Super Light in the Arcteryx product range. This model is reinforced in key wear areas, has articulated knees but only comes with lower leg zippers.
 
-<a href="http://www.backcountry.com/arcteryx-beta-sl-pant-mens"><button type="button" class="btn btn-danger">Read more about the Arcteryx Beta SL Pants</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="http://www.backcountry.com/arcteryx-beta-sl-pant-mens"><button type="button" class="btn btn-danger">Read more about the Arcteryx Beta SL Pants</button></a> <a href="/deals/#arcteryx+beta+sl+pants" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -131,7 +147,7 @@ SL stands for Super Light in the Arcteryx product range. This model is reinforce
 
 The Rab Firewall Pants are made for active use during winter. The Rab Firewall pants comes with an elasticated waistband and knee articulations and are compatible with winter boots.
 
-<a href="http://www.campsaver.com/firewall-pant-men-s"><button type="button" class="btn btn-danger">Read more about the Rab Firewall Pants</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="http://www.campsaver.com/firewall-pant-men-s"><button type="button" class="btn btn-danger">Read more about the Rab Firewall Pants</button></a> <a href="/deals/#rab+firewall+pants" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -146,10 +162,10 @@ You should consider if you really need 3/4 length side zips or pockets on your p
 I hope you found this article useful to find your best men rain pants in 2016.
 
 ---
- 
+
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
+amzn_assoc_search_bar = "true";
 amzn_assoc_tracking_id = "hikeve-20";
 amzn_assoc_search_bar_position = "bottom";
 amzn_assoc_ad_mode = "search";
