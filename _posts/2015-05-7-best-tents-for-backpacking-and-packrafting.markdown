@@ -17,28 +17,49 @@ For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](
 
 ---
 
-# Overview of the best tents for backpacking, hiking and packrafting in 2016
+# The best tents for backpacking, hiking and packrafting in 2016
 
-| Model | Weight |
-|:------|:-----|
-| [Hyperlite Mountain Gear UltaMid 2](https://www.hyperlitemountaingear.com/ultamid-2.html) |  1.1 lb / 499 grams |
-| [Fly Creek HV UL1](https://www.rei.com/product/895953/big-agnes-fly-creek-hv-ul1-tent) |  2.1 lb / 935 grams |
-| [Hilleberg Enan](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Enan-1-Person-Tent_10274355_10208_10000001_-1_)  |  2.4 lb / 1100 grams |
-| [Marmot Force 2P UL](http://www.backcountry.com/marmot-force-ul-2p-tent-2-person-3-season)  |  2.9 lb / 1320 grams |
-| [Hilleberg Akto](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Akto-1-Person-Tent_10101417_10208_10000001_-1_) |  3.8 lb / 1700 grams |
-| [MSR Hubba Hubba NX](http://www.moosejaw.com/moosejaw/shop/product_MSR-Hubba-Hubba-NX-2-Person-Tent_10238367_10208_10000001_-1_) |  3.8 lb / 1700 grams |
-| [Hilleberg Niak 1.5](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Niak-1-5-Person-Tent_10306870_10208_10000001_-1_) |  3.8 lb / 1700 grams |
-| [Hilleberg Soulo](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Soulo-1-Person-Tent_10101479_10208_10000001_-1_) |  5.3 lb / 2400 grams |
-| [Hilleberg Nallo](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Nallo-3-Person-Tent_10101458_10208_10000001_-1_) |  5.3 lb / 2400 grams |
+<div class="table-responsive">
+<table class="table table-hover table-bordered list_items">
+        <thead>
+             <tr>
+                <th>Tent</th><th>Weight</th>
+             </tr>
+        </thead>
 
----
+        <tbody>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#UltaMid" target="_blank">Hyperlite Mountain Gear UltaMid 2</a></td><td>499g</td>>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Fly+Creek+HV+UL1" target="_blank">Fly Creek HV UL1</a></td><td>935g</td>>
+        </tr>
 
-# Discounts
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Hilleberg+Enan" target="_blank">Hilleberg Enan</a></td><td>1100g</td>>
+        </tr>
 
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=tent AND 1 person OR tent AND 2 person&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=200&search_on_sale_level=30&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
-
-<br>
-<strong>Tip:</strong> <a href="http://www.hikeventures.com/deals/" target="_blank">Here</a> you can search and compare gear prices of different stores.
+          <tr>
+            <td><a href="http://www.hikeventures.com/deals/#MSR+Hubba+NX" target="_blank">MSR Hubba NX</a></td><td>1290g</td>>
+          </tr>
+          <tr>
+            <td><a href="http://www.hikeventures.com/deals/#Marmot+Force+UL+2P" target="_blank">Marmot Force UL 2P</a></td><td>1320g</td>>
+          </tr>
+          <tr>
+            <td><a href="http://www.hikeventures.com/deals/#Hilleberg+Akto" target="_blank">Hilleberg Akto</a></td><td>1700g</td>>
+          </tr>
+          <tr>
+            <td><a href="http://www.hikeventures.com/deals/#Hilleberg+Niak" target="_blank">Hilleberg Niak</a></td><td>1700g</td>>
+          </tr>
+          <tr>
+            <td><a href="http://www.hikeventures.com/deals/#Hilleberg+Soulo" target="_blank">Hilleberg Soulo</a></td><td>2400g</td>>
+          </tr>
+          <tr>
+            <td><a href="http://www.hikeventures.com/deals/#Hilleberg+Nallo" target="_blank">Hilleberg Nallo</a></td><td>2400g</td>>
+          </tr>
+</tbody>
+</table>
+</div>
 
 ---
 
@@ -57,7 +78,7 @@ The Marmot Force UL 2P is a freestanding 2-person tent for 3 seasons.
 
 The Marmot Force UL 2P is a new freestanding tent which comes in a super light package. The Marmot Force UL 2P also uses a very thin tent fabric so you should also handle it carefully. I would also get a [tent footprint](http://www.backcountry.com/marmot-force-ul-2p-footprint) with this tent. I will use the Marmot Force UL 2P this year in Scandinavia as a 1 person tent. I have used the Marmot Force UL 2P on my trips in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/) and [Norway](http://www.hikeventures.com/Finnmark/).
 
-<a href="http://www.backcountry.com/marmot-force-ul-2p-tent-2-person-3-season"><button type="button" class="btn btn-danger">Read more about the Marmot Force UL 2P</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="http://www.backcountry.com/marmot-force-ul-2p-tent-2-person-3-season"><button type="button" class="btn btn-danger">Read more about the Marmot Force UL 2P</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ## [MSR Hubba Hubba NX](http://www.moosejaw.com/moosejaw/shop/product_MSR-Hubba-Hubba-NX-2-Person-Tent_10238367_10208_10000001_-1_)
 
@@ -72,7 +93,7 @@ The MSR Hubba Hubba NX is a freestanding 2-person tent for 3 seasons.
 
 The MSR Hubba Hubba NX is a great 3 season tent and it even costs almost half the price of a Hilleberg tent. The Hilleberg just has a stronger floor material (50D) compared to the MSR but you get plenty of room. I think it's a tough decision to choose between the Niak 1.5 and the Hubba Hubba NX. If you are low on budget then we could highly recommend the Hubba Hubba NX as we have also used it on our trip in Sweden and Japan. A review will soon be available on our blog.
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_MSR-Hubba-Hubba-NX-2-Person-Tent_10238367_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the MSR Hubba Hubba NX</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="http://www.moosejaw.com/moosejaw/shop/product_MSR-Hubba-Hubba-NX-2-Person-Tent_10238367_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the MSR Hubba Hubba NX</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -87,7 +108,7 @@ The MSR Hubba Hubba NX is a great 3 season tent and it even costs almost half th
 
 The Enan as a solo tent looks like an interesting tent for the summer months. However, if you need more space e.g. if there is a longer rain period then you would appreciate most likely the new Niak 1.5. It can accommodate 1-2 persons and has a vestibule to store your gear. I was actually interested in getting the Hilleberg Soulo or the Akto as a go-to solo tent but I would prefer having the Niak 1.5 if I would just use it during the warmer months.
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Niak-1-5-Person-Tent_10306870_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Hilleberg Niak</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Niak-1-5-Person-Tent_10306870_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Hilleberg Niak</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -102,7 +123,7 @@ The Enan as a solo tent looks like an interesting tent for the summer months. Ho
 
 The Hilleberg Soulo is a very strong solo expedition tent. If strength is important to you and you need a dedicated vestibule then you should choose the Soulo rather than the Unna.
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Soulo-1-Person-Tent_10101479_10208_10000001_-1"><button type="button" class="btn btn-danger">Read more about the Hilleberg Soulo</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Soulo-1-Person-Tent_10101479_10208_10000001_-1"><button type="button" class="btn btn-danger">Read more about the Hilleberg Soulo</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -122,9 +143,9 @@ The Hilleberg Soulo is a very strong solo expedition tent. If strength is import
 
 The Big Agnes Fly Creek HV UL1 is the lightest tent in this list. It is a bit taller and longer than the Hilleberg Enan but has a smaller vestibule. Fly and floor have 1200mm waterproof polyurethane coating.
 
-<a href="https://www.rei.com/product/895953/big-agnes-fly-creek-hv-ul1-tent"><button type="button" class="btn btn-danger">Read more about the Big Agnes Fly Creek HV UL1</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="https://www.rei.com/product/895953/big-agnes-fly-creek-hv-ul1-tent"><button type="button" class="btn btn-danger">Read more about the Big Agnes Fly Creek HV UL1</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
-## [Hilleberg Enan](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Enan-1-Person-Tent_10274355_10208_10000001_-1_) 
+## [Hilleberg Enan](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Enan-1-Person-Tent_10274355_10208_10000001_-1_)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00UZ8ZPIE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UZ8ZPIE&linkCode=as2&tag=hikeve-20&linkId=J5D2VAGZEEOJ4END"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00UZ8ZPIE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00UZ8ZPIE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -135,7 +156,7 @@ The Big Agnes Fly Creek HV UL1 is the lightest tent in this list. It is a bit ta
 
 If you are travelling alone on a shorter trip where you don't have lot's of gear with you then the Hilleberg Enan with 1100 grams could be a light choice during the warmer months. The only disadvantage we see with this tent is that it's not very roomy. It's also shorter then the Akto and you can only sit in one position in this tent. Venting should be quite good if you position one end of the tent with the mesh towards the wind.
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Enan-1-Person-Tent_10274355_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Hilleberg Enan</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Enan-1-Person-Tent_10274355_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Hilleberg Enan</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -149,9 +170,9 @@ If you are travelling alone on a shorter trip where you don't have lot's of gear
 **Weight:** 1.7 kg   
 **Area inner tent:** 2.6 m²   
 
-The Akto is a solo tent with low weight and quite popular among solo travellers. If you are not going into extreme conditions then this could be a great solo tent if you don't need a lot of space. For harsher conditions I would rather pick the Hilleberg Soulo which comes with more space. 
+The Akto is a solo tent with low weight and quite popular among solo travellers. If you are not going into extreme conditions then this could be a great solo tent if you don't need a lot of space. For harsher conditions I would rather pick the Hilleberg Soulo which comes with more space.
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Akto-1-Person-Tent_10101417_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Hilleberg Akto</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Akto-1-Person-Tent_10101417_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Hilleberg Akto</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -170,7 +191,7 @@ The Akto is a solo tent with low weight and quite popular among solo travellers.
 
 The Hilleberg Nallo is probably the best choice if you want a 4-season tent which offers the most space and a vestibule for the least weight. If you don't need a freestanding tent and the best weight / space ratio 4-season tent then you should pick the Nallo.
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Nallo-3-Person-Tent_10101458_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Hilleberg Nallo</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Nallo-3-Person-Tent_10101458_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Hilleberg Nallo</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 
 ## [Hyperlite Mountain Gear UltaMid 2](https://www.hyperlitemountaingear.com/ultamid-2.html)
@@ -186,7 +207,7 @@ The Hilleberg Nallo is probably the best choice if you want a 4-season tent whic
 
 The Hyperlite Mountain Gear UltaMid 2 is an ultralight tent designed if you want to camp in unexposed environments. On the <a href="http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/">packrafting round-up in Sweden</a> I had the chance to see the Hyperlite Mountain Gear UltaMid 2 and were quite impressed.
 
-<a href="https://www.hyperlitemountaingear.com/ultamid-2.html"><button type="button" class="btn btn-danger">Read more about the Hyperlite Mountain Gear UltaMid</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="https://www.hyperlitemountaingear.com/ultamid-2.html"><button type="button" class="btn btn-danger">Read more about the Hyperlite Mountain Gear UltaMid</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -225,7 +246,7 @@ Do you want to leave your inner tent at home to save some weight and use the out
 In the warmer months you would like to have a mesh as an inner tent either to have a better air circulation or to have a panorama view if there are no clouds in the sky. Not all tents have a mesh as an inner tent (e.g. Hilleberg) and you need to purchase it separately.
 
 ## Which tent should I choose in different environments?
-Are you hiking in a protected area like a forest or an unprotected area like on a hill or mountain which requires a stronger tent. 
+Are you hiking in a protected area like a forest or an unprotected area like on a hill or mountain which requires a stronger tent.
 
 ## Which tent should I choose for different seasons?
 Do you plan to use your tent during 3 or 4 seasons (winter)? The fabric of the tent has an impact on the weight and the durability of the tent. Of course 4 season tents will have a stronger fabric but will also weight much more. Hilleberg for example gives an good overview of the [tear strength](http://www.hilleberg.com/home/tent_info/tearstrength.php "Tear Strength Hilleberg") of the fabrics they are using for their products.
@@ -239,11 +260,11 @@ Do you want to have a tent which packs small so it fits into your backpack when 
 ---
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25215098683/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1472/25215098683_07c6ffbfb8_b.jpg" width="1024" height="768" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-   
+
 The MSR Hubba Hubba NX on our packrafting trip in Scotland in February 2016.
-  
---- 
- 
+
+---
+
 # Conclusion
 It's quite hard to say which tent is the best. It all depends on your needs and where you are planning to use the tent. Currently, we are using the MSR Hubba Hubba NX and the Anjan 3 (see also [here](http://www.hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/ "Hilleberg Anjan Tent")) which are great tents for spring, summer and autumn. The only disadvantage with the Anjan 3 is that it is not freestanding but we didn't have any issues so far on any of our trips to find a place to pitch it. However, I would recommend getting the Nallo 3 instead of the Anjan.
 
