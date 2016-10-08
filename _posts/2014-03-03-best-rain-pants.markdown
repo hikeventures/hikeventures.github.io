@@ -12,7 +12,7 @@ layout: post
 
 Planning to go hiking or backpacking or any other backcountry adventure? Then you should consider to pack lightweight rain pants in into your backpack and here is our buying guide of the best men rain pants for 2016. If the weather turns nasty you will be happy to have rain gear to stay dry and warm on the trail. The models which we have selected are rain pants for men. We have not tested those rain pants ourselves but we compared their specifications. The rain pants are sorted according to their weight. 
 
-The links on this site contain affiliate links. If you purchase thru the links you help support our blog (here you can read <a href="http://www.hikeventures.com/about/" target="_blank">who</a> we are).
+The links on this site contain affiliate links. If you purchase thru the links you help support our blog. Here you can read on <a href="http://www.hikeventures.com/about/" target="_blank">who</a> we are.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9598980244" title="Montane Minimus Pants"><img src="https://farm4.staticflickr.com/3767/9598980244_fccc7cd8c6_b.jpg" width="1024" height="683" alt="Montane Minimus Pants"></a>
 
