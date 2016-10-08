@@ -24,7 +24,7 @@ A wind jacket is much lighter and you won't sweat that much in it compared to a 
 
 ---
 
-# Overview of the best wind jackets for 2016
+# The best wind jackets for 2016
 
 <div class="table-responsive">
 <table class="table table-hover table-bordered list_items">
