@@ -24,7 +24,7 @@ The GoPro cameras are waterproof down to 10 meters while the iPhone 7 can be sub
 The iPhone 7 can record 4K at 30fps while the GoPro Hero5 cameras can record 30 frames per second.
 
 ## Picture Quality
-The iPhone has a 12MP camera with an ƒ/1.8 aperture while the GoPro Hero5 Black has a 12MP camera and the GoPro Hero5 Session has a 10 MP camera with ƒ/2.8.
+The iPhone has a 12MP camera with an ƒ/1.8 aperture while the <a href="http://www.hikeventures.com/deals/#gopro+hero5" rel="nofollow" target="_blank">GoPro Hero5 Black</a> has a 12MP camera and the <a href="http://www.hikeventures.com/deals/#gopro+hero5+session" rel="nofollow" target="_blank">GoPro Hero5 Session</a> has a 10 MP camera with ƒ/2.8.
 
 ## Video stabilization
 The GoPro5 Black, GoPro Session and the iPhone have image stabilization.
