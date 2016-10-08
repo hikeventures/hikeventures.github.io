@@ -9,7 +9,7 @@ tags:
   - shoes
 layout: post
 ---
-If you are into ultralight hiking then you are probably also interested into my buying guide for the best light summer hiking shoes for 2016. If you are coming from traditional hiking boots then you may notice that lightweight trail shoes can save you a lot of weight. 
+If you are into ultralight hiking then you are probably also interested into my buying guide for the best light summer hiking shoes for 2016. If you are coming from traditional hiking boots then you may notice that lightweight trail shoes can save you a lot of weight.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15189713140/in/album-72157646473352583/" title="Kurjenrahka National Park"><img src="https://c5.staticflickr.com/3/2942/15189713140_cf23bd9412_b.jpg" width="100%" alt="The best ultralight hiking shoes 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -36,20 +36,40 @@ If you are into ultralight hiking then you are probably also interested into my 
 
 # Overview of the best ultralight hiking shoes
 
-| Model | Weight |
-| :------------- |:-------------:|
-| [Inov-8 Roclite 282 GTX](http://www.backcountry.com/inov-8-roclite-282-gtx-trail-running-shoe-mens) | &nbsp; 0.62 lb / 282 g |
-| [Adidas Terrex Solo](http://www.backcountry.com/adidas-outdoor-terrex-solo-approach-shoe-mens)    | 0.77 lb / 349 g | 
-| [Adidas Terrex Fast R GTX](http://www.backcountry.com/adidas-outdoor-terrex-fast-r-gtx-hiking-shoe-mens) | 0.9 lb / 411 g |
-| [Scarpa Zen Pro](http://www.backcountry.com/scarpa-zen-pro-hiking-shoe-mens) |  1.05 lb / 480 g |
-| [Arcteryx Acrux2 FL GTX Approach](http://www.backcountry.com/arcteryx-acrux2-fl-approach-shoe-mens) |  1.09 lb / 492 g |
+<div class="table-responsive">
 
-> Table is sorted by weight
+      <table class="table table-hover table-bordered list_items">
+
+        <thead>
+             <tr>
+                <th>Shoes</th><th>Weight</th>
+             </tr>
+        </thead>
+
+        <tbody>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#inov+roclite+282+gtx" target="_blank">Inov-8 Roclite 282 GTX</a></td><td>282g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#adidas+terrex+solo" target="_blank">Adidas Terrex Solo</a></td><td>349g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#adidas+terrex+fast+gtx" target="_blank">Adidas Terrex Fast R GTX</a></td><td>411g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Scarpa+Zen+Pro" target="_blank">Scarpa Zen Pro</a></td><td>480g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Arcteryx+Acrux2+FL+GTX" target="_blank">Arcteryx Acrux2 FL GTX Approach</a></td><td>492g</td>
+        </tr>
+</tbody>
+</table>
+</div>
 
 ---
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9596183907/in/album-72157646473352583/" title="SDIM4200"><img src="https://c4.staticflickr.com/4/3815/9596183907_732d266e5d_b.jpg" width="1024" height="683" alt="SDIM4200" alt="The best ultralight hiking shoes 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8" ></script>
-   
+
 My Inov-8 ultralight hiking shoes on [our hiking trip](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) in the Sarek National Park in Sweden. I had constantly wet feet.
 
 ---
@@ -63,7 +83,7 @@ My Inov-8 ultralight hiking shoes on [our hiking trip](http://www.hikeventures.c
 The ROCLITE 282 GTX promises a combination of natural movement and flexibility with breathability offered by Gore flex with its 1.4 billion pores per square centimeter which makes the Roclite 282 watertight. The outsole of the Roclite 282 GTX offers good grip on wet rocks.
 
 
-<a href="http://www.backcountry.com/inov-8-roclite-282-gtx-trail-running-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Inov-8 Roclite 282 GTX</button></a> 
+<a href="http://www.backcountry.com/inov-8-roclite-282-gtx-trail-running-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Inov-8 Roclite 282 GTX</button></a>
 
 ---
 
@@ -75,7 +95,7 @@ The ROCLITE 282 GTX promises a combination of natural movement and flexibility w
 
 The Adidas Terrex Solo are flexible shoes with a breathable mesh upper. The Terrex Solo also has a Stealth® rubber toe cap to protect your toes and the TRAXION™ outsole should provide a god grip.
 
-<a href="http://www.backcountry.com/adidas-outdoor-terrex-solo-approach-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Adidas Terrex Solo</button></a> 
+<a href="http://www.backcountry.com/adidas-outdoor-terrex-solo-approach-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Adidas Terrex Solo</button></a>
 
 ---
 
@@ -85,9 +105,9 @@ The Adidas Terrex Solo are flexible shoes with a breathable mesh upper. The Terr
 
 <a  href="http://www.amazon.com/gp/product/B00L1RI2T2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00L1RI2T2&linkCode=as2&tag=hikeve-20&linkId=FZUPTISQVG3NFLKT"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00L1RI2T2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00L1RI2T2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-The Adidas Terrex Fast R GTX are light athletic shoes which are - due to their protective weldings and a grippy Continental™ Rubber outsole - also suitable to wear on the mountain. 
+The Adidas Terrex Fast R GTX are light athletic shoes which are - due to their protective weldings and a grippy Continental™ Rubber outsole - also suitable to wear on the mountain.
 
-<a href="http://www.backcountry.com/adidas-outdoor-terrex-fast-r-gtx-hiking-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Terrex Fast R GTX</button></a> 
+<a href="http://www.backcountry.com/adidas-outdoor-terrex-fast-r-gtx-hiking-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Terrex Fast R GTX</button></a>
 
 ---
 
@@ -99,11 +119,11 @@ The Adidas Terrex Fast R GTX are light athletic shoes which are - due to their p
 
 The Scarpa Zen Pro comes with a Vibram sole and PU-injected leather along the side to improve abrasion resistance. The Scarpa Zen Pro is a quite popular shoe and many like it's grip and feel on the foot.
 
-<a href="http://www.backcountry.com/scarpa-zen-pro-hiking-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Scarpa Zen Pro</button></a> 
+<a href="http://www.backcountry.com/scarpa-zen-pro-hiking-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Scarpa Zen Pro</button></a>
 
 ---
 
-## [Arcteryx Acrux2 FL GTX Approach](http://www.backcountry.com/arcteryx-acrux2-fl-approach-shoe-mens) 
+## [Arcteryx Acrux2 FL GTX Approach](http://www.backcountry.com/arcteryx-acrux2-fl-approach-shoe-mens)
 
 **Weight:** 492 grams
 
@@ -112,7 +132,7 @@ The most innovative part in the Arcteryx Acrux2 FL GTX are probably the removabl
 <a  href="http://www.amazon.com/gp/product/B00O4CHAL2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00O4CHAL2&linkCode=as2&tag=hikeve-20&linkId=QBJ2UINAADDHALYZ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00O4CHAL2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00O4CHAL2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
-<a href="http://www.backcountry.com/arcteryx-acrux2-fl-approach-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Acrux² FL GTX Approach</button></a> 
+<a href="http://www.backcountry.com/arcteryx-acrux2-fl-approach-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Acrux² FL GTX Approach</button></a>
 
 ---
 
