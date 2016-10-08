@@ -11,7 +11,7 @@ layout: post
 ---
 To protect yourself agains cold winds on the trail you should pack a lightweight wind jacket into your backpack when you go hiking, backpacking, climbing, cycling, running or plan any other backcountry trip. A windbreaker does not need much space so you can easily store it in your backpack. Also make sure that you buy a hooded wind jacket and not a wind pullover. Here is my buying guide of the best wind jackets in 2016.
 
-We have not tested every wind jacket in this article but those are our favourites if we were to buy a new wind jacket. The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
+We have not tested every wind jacket in this article but those are our favourites if we were to buy a new wind jacket. The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read who we are.
 
 ![](https://c2.staticflickr.com/8/7385/9599027418_a38b42401e_o.jpg "Best Wind Jackets 2016")
 
@@ -20,9 +20,7 @@ We have not tested every wind jacket in this article but those are our favourite
 Patrick hiking in [Sarek National Park](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Best Wind Jackets 2016") in Sweden wearing an [Arcteryx Squamish Hoody](http://hikeventures.com/gear-review-arcteryx-squamish-hoody/ "Arcteryx Squamish Hoody") wind jacket.
 
 # Should your hiking jacket be waterproof or only windproof?
-A wind jacket is much lighter and you won't sweat that much in it compared to a [rain jacket](http://www.hikeventures.com/best-rain-jackets/ "Best Rain Jackets"). My own preference goes towards carrying both - a wind jacket AND a rain jacket - and to wear them according to the current weather situation. If it's raining, I am obviously going to wear a rain jacket but if it's dry and there is only a cold wind blowing then I quickly pull on a wind jacket over my [fleece](http://www.hikeventures.com/best-fleece-jackets/ "Best Fleece Jackets").
-
-In the evenings while sitting in the camp I swap my [fleece](http://www.hikeventures.com/best-fleece-jackets/ "Fleece Jackets") and wind jacket combo with a [down jacket](http://www.hikeventures.com/best-down-jackets/).
+A wind jacket is much lighter and you won't sweat that much in it compared to a [rain jacket](http://www.hikeventures.com/best-rain-jackets/ "Best Rain Jackets"). My own preference goes towards carrying both - a wind jacket AND a rain jacket - and to wear them according to the current weather situation. If it's raining, I am obviously going to wear a rain jacket but if it's dry and there is only a cold wind blowing then I quickly pull on a wind jacket over my [fleece](http://www.hikeventures.com/best-fleece-jackets/ "Best Fleece Jackets").In the evenings while sitting in the camp I swap my [fleece](http://www.hikeventures.com/best-fleece-jackets/ "Fleece Jackets") and wind jacket combo with a [down jacket](http://www.hikeventures.com/best-down-jackets/).
 
 ---
 
