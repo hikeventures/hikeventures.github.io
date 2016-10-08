@@ -24,7 +24,7 @@ Here you can find [one of our trips](http://www.hikeventures.com/Swedish-Packraf
 
 <!--more-->
 
-We have not tested all the helmets in this article but those are our favourites if we were to buy a new one. The links on this site contain affiliate links. If you purchase thru the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read who we are.
+We have not tested all the helmets in this article but those are our favorites if we were to buy a new one. The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read who we are.
 
 ---
 
