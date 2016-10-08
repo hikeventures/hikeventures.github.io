@@ -24,25 +24,44 @@ With a Satellite Messenger you can also inform your family and friends about you
 
 # The best satellite gps messengers for 2016
 
-| Product | Weight |
-|:------|:-----|
-| [SPOT Gen3](https://www.rei.com/product/860469/spot-gen3-satellite-gps-messenger) |  0.25 lb / 114 grams |
-| [ACR ResQlink+ 406](https://www.rei.com/product/843146/acr-electronics-resqlink-gps-personal-locator-beacon) |  0.34 lb / 153 grams |
-| [DeLorme InReach SE](https://www.rei.com/product/857610/delorme-inreach-se-2-way-satellite-communicator) |  0.4 lb / 190 grams |
-| [DeLorme InReach Explorer](https://www.rei.com/product/877499/delorme-inreach-explorer-satellite-messenger) |  0.4 lb / 190 grams |
+<div class="table-responsive">
+<table class="table table-hover table-bordered list_items">
+        <thead>
+             <tr>
+                <th>Tent</th><th>Weight</th>
+             </tr>
+        </thead>
+
+        <tbody>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Spot+Gen3" target="_blank">SPOT Gen3</a></td><td>114g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#ACR+ResQlink" target="_blank">ACR ResQlink+</a></td><td>153g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Delorme+Inreach+SE" target="_blank">DeLorme InReach SE</a></td><td>190g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Delorme+Explorer" target="_blank">DeLorme InReach Explorer</a></td><td>190g</td>
+        </tr>
+      </tbody>
+      </table>
+  </div>
+
 
 ---
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
+amzn_assoc_search_bar = "true";
 amzn_assoc_tracking_id = "hikeve-20";
 amzn_assoc_search_bar_position = "bottom";
 amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_title = "Satellite Messengers Suggestions";
+amzn_assoc_title = "Amazon Search Results";
 amzn_assoc_default_search_phrase = "satellite messenger";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
@@ -56,8 +75,8 @@ amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
 Me hiking in the Sarek National Park in Sweden - also considered as one of the last wilderness areas in Europe
 
 ---
- 
-There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR. Currently, I am testing the InReach Explorer which works so far quite well. Fortunately, I was not in need to make an emergency call yet. While it's possible to send text messages with the devices from DeLorme and SPOT you may use ACR only to send a rescue signal (also called Personal Locator Beacon). The main advantage of the ACR is that you don't have to pay a subscription fee to use the GPS network. If messaging is not important for you, then you should go for the ACR ResQlink+ 406. The ACR device is also quite interesting for paddlers since it is able to float. Alternatively, you will see from the specifications below that the DeLorme devices have slightly more weight but come with more functionalities than the SPOT devices. 
+
+There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR. Currently, I am testing the InReach Explorer which works so far quite well. Fortunately, I was not in need to make an emergency call yet. While it's possible to send text messages with the devices from DeLorme and SPOT you may use ACR only to send a rescue signal (also called Personal Locator Beacon). The main advantage of the ACR is that you don't have to pay a subscription fee to use the GPS network. If messaging is not important for you, then you should go for the ACR ResQlink+ 406. The ACR device is also quite interesting for paddlers since it is able to float. Alternatively, you will see from the specifications below that the DeLorme devices have slightly more weight but come with more functionalities than the SPOT devices.
 
 ---
 
@@ -78,7 +97,7 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 * Pair with mobile devices
 * Message size: 160 characters
 
-<a href="https://www.rei.com/product/857610/delorme-inreach-se-2-way-satellite-communicator"><button type="button" class="btn btn-danger">Read more about the DeLorme InReach SE</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="https://www.rei.com/product/857610/delorme-inreach-se-2-way-satellite-communicator"><button type="button" class="btn btn-danger">Read more about the DeLorme InReach SE</button></a> <a href="/deals/#delorme+inreach+se" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -94,7 +113,7 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 * Barometric Altimeter & Accelerometer
 * weight: 190 grams
 
-<a href="https://www.rei.com/product/877499/delorme-inreach-explorer-satellite-messenger"><button type="button" class="btn btn-danger">Read more about the DeLorme InReach Explorer</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="https://www.rei.com/product/877499/delorme-inreach-explorer-satellite-messenger"><button type="button" class="btn btn-danger">Read more about the DeLorme InReach Explorer</button></a> <a href="/deals/#delorme+inreach+explorer" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -109,7 +128,7 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 * Message size: 41 characters
 * Weight 114 grams
 
-<a href="https://www.rei.com/product/860469/spot-gen3-satellite-gps-messenger"><button type="button" class="btn btn-danger">Read more about the SPOT Gen3</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="https://www.rei.com/product/860469/spot-gen3-satellite-gps-messenger"><button type="button" class="btn btn-danger">Read more about the SPOT Gen3</button></a> <a href="/deals/#spot+gen3" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -124,7 +143,7 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 * No messaging
 * Weight: 153 grams
 
-<a href="https://www.rei.com/product/843146/acr-electronics-resqlink-gps-personal-locator-beacon"><button type="button" class="btn btn-danger">Read more about the ACR ResQlink+ 406</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="https://www.rei.com/product/843146/acr-electronics-resqlink-gps-personal-locator-beacon"><button type="button" class="btn btn-danger">Read more about the ACR ResQlink+ 406</button></a> <a href="/deals/#acr+resqlink" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
 
 ---
 
