@@ -30,7 +30,7 @@ A wind jacket is much lighter and you won't sweat that much in it compared to a 
 <table class="table table-hover table-bordered list_items">
         <thead>
              <tr>
-                <th>Tent</th><th>Weight</th>
+                <th>Wind Jacket</th><th>Weight</th>
              </tr>
         </thead>
 

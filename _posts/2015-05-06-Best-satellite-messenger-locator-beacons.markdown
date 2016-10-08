@@ -34,7 +34,7 @@ With a Satellite Messenger you can also inform your family and friends about you
 <table class="table table-hover table-bordered list_items">
         <thead>
              <tr>
-                <th>Tent</th><th>Weight</th>
+                <th>GPS Messenger</th><th>Weight</th>
              </tr>
         </thead>
 
