@@ -48,13 +48,13 @@ We have not tested all the helmets in this article but those are our favourites 
           <td><a href="http://www.hikeventures.com/deals/#NRS+WRSI+Current+Helmet" target="_blank">NRS WRSI Current Helmet</a></td><td>517g</td>
         </tr>
         <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Predator+Shiznit+helmet" target="_blank">Predator Shiznit Helmet</a></td><td>500g</td>
+        </tr>
+        <tr>
           <td><a href="http://www.hikeventures.com/deals/#Sweet+Protection+Strutter+Helmet" target="_blank">Sweet Protection Strutter Helmet</a></td><td>400g</td>
         </tr>
         <tr>
           <td><a href="http://www.hikeventures.com/deals/#Petzl+Meteor+3+Helmet" target="_blank">Petzl Meteor 3+ Helmet</a></td><td>235g</td>
-        </tr>
-        <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Predator+Shiznit+helmet" target="_blank">Predator Shiznit Helmet</a></td><td>500g</td>
         </tr>
 </tbody>
 </table>
