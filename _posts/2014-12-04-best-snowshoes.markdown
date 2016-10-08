@@ -17,7 +17,7 @@ On the picture you can see me walking with my Tubbs Xpedition snowshoes in [Finn
 
 Considering your own body and gear weight is important when choosing your snowshoes. The more weight you want to carry the bigger the surface of the snowshoe should be. Also look at the size of the crampons and if the binding is suitable / durable or if you prefer fixed-rotation or full-rotation bindings.
 
-We have not tested every snowshoe in this article but those are our favourites if we were to buy new snowshoes. The links on this site contain affiliate links. If you purchase thru the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
+We have not tested every snowshoe in this article but those are our favorites if we were to buy new snowshoes. The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
 
 ---
 
