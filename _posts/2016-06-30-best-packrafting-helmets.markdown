@@ -16,7 +16,7 @@ If you are planning to do whitewater packrafting or kayaking then you should pro
 * Is the helmet certified for whitewater (e.g. CE EN 1385)?
 * Do you need a visor for additional face protection or against the sun?
 * Is the helmet lightweight so it feels comfortable to wear it for a longer period?
-* Do you need ear protection? 
+* Do you need ear protection?
 
 Here you can find [one of our trips](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/) in Sweden where we were wearing helmets.
 
@@ -30,15 +30,35 @@ We have not tested all the helmets in this article but those are our favourites 
 
 # Overview of the best packrafting and kayaking helmets
 
-| Product | Weight |
-| :--- | :---|
-|[NRS WRSI Trident Composite Helmet](http://www.backcountry.com/nrs-wrsi-trident-composite-helmet)|1.87 lbs / 848 grams|
-|[NRS WRSI Current Helmet](http://www.backcountry.com/nrs-wrsi-current-helmet)|1.14 lbs / 517 grams|
-|[Sweet Protection Strutter Helmet](http://www.backcountry.com/sweet-protection-strutter-helmet)|0.9 lbs / 400 grams|
-|[Petzl Meteor 3+ Helmet](http://www.backcountry.com/sweet-protection-strutter-helmet)|0.5 lbs / 235 grams|
-|[Predator Shiznit Helmet](http://amzn.to/2952d5F)|1.5 lbs / 500 grams|
+<div class="table-responsive">
 
+      <table class="table table-hover table-bordered list_items">
 
+        <thead>
+             <tr>
+                <th>Helmet</th><th>Weight</th>
+             </tr>
+        </thead>
+
+        <tbody>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#NRS+WRSI+Trident+Composite+Helmet" target="_blank">NRS WRSI Trident Composite Helmet</a></td><td>848g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#NRS+WRSI+Current+Helmet" target="_blank">NRS WRSI Current Helmet</a></td><td>517g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Sweet+Protection+Strutter+Helmet" target="_blank">Sweet Protection Strutter Helmet</a></td><td>400g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Petzl+Meteor+3+Helmet" target="_blank">Petzl Meteor 3+ Helmet</a></td><td>235g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Predator+Shiznit+helmet" target="_blank">Predator Shiznit Helmet</a></td><td>500g</td>
+        </tr>
+</tbody>
+</table>
+</div>
 
 ---
 
@@ -50,7 +70,7 @@ We have not tested all the helmets in this article but those are our favourites 
 
 The NRS WRSI Trident Composite is made of a carbon composite shell and features a visor,  EVA pads to customize your helmet.
 
-<a href="http://www.backcountry.com/nrs-wrsi-trident-composite-helmet" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the NRS Helmet</button></a>
+<a href="http://www.backcountry.com/nrs-wrsi-trident-composite-helmet" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the NRS Helmet</button></a>  <a href="/deals/#NRS+WRSI+trident+composite+helmet" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -62,7 +82,7 @@ The NRS WRSI Trident Composite is made of a carbon composite shell and features 
 
 NRS WRSI Current Helmet is made of a ABS plastic shell with polyurethane sub-shell and features an EVA foam liner.
 
-<a href="http://www.backcountry.com/nrs-wrsi-current-helmet" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the NRS helmet</button></a>
+<a href="http://www.backcountry.com/nrs-wrsi-current-helmet" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the NRS helmet</button></a>  <a href="/deals/#NRS+WRSI+Current+helmet" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -74,7 +94,7 @@ NRS WRSI Current Helmet is made of a ABS plastic shell with polyurethane sub-she
 
 The Shred Ready Super Scrappy Kayak helmet is an ABS molded shell with a VN foam liner. Removable ear flaps can be attached to the helmet. The helmet can be worn backwards and forwards.
 
-<a href="http://www.backcountry.com/shred-ready-super-scrappy-helmet" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Shred Helmet</button></a>
+<a href="http://www.backcountry.com/shred-ready-super-scrappy-helmet" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Shred Helmet</button></a>  <a href="/deals/#shred+ready+super+scrappy+kayak+helmet" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -84,7 +104,7 @@ The Shred Ready Super Scrappy Kayak helmet is an ABS molded shell with a VN foam
 
 The Shred Ready Standard Full-Cut Kayak helmet is made of an ABS injection molded shell with EPP liner, a soft nylon webbing, stainless steel rivets and a four-point retention system.
 
-<a href="http://www.backcountry.com/shred-ready-standard-full-cut-helmet" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Shred Ready Helmet</button></a>
+<a href="http://www.backcountry.com/shred-ready-standard-full-cut-helmet" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Shred Ready Helmet</button></a>  <a href="/deals/#shred+ready+standard+full+cut+kayak+helmet" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -97,7 +117,7 @@ The Shred Ready Standard Full-Cut Kayak helmet is made of an ABS injection molde
 
 The Sweet Protection Strutter Helmet features LFT shell technology which combines polyamide and long fiberglass and an EVA liner absorbs impacts without cracking
 
-<a href="http://www.backcountry.com/sweet-protection-strutter-helmet" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Sweet Protection Strutter Helmet</button></a>
+<a href="http://www.backcountry.com/sweet-protection-strutter-helmet" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Sweet Protection Strutter Helmet</button></a>  <a href="/deals/#sweet+protection+strutter+helmet" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -107,7 +127,7 @@ The Sweet Protection Strutter Helmet features LFT shell technology which combine
 
 The Petzl Meteor 3+ helmet is one of the lightest certified paddling helmets on the market. If you want to go light then the Meteor 3+ is probably your helmet.
 
-<a href="http://www.usoutdoor.com/petzl-charlet/petzl-meteor-iii-plus-climbing-helmet/" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Petzl Meteor 3+ Helmet</button></a>
+<a href="http://www.usoutdoor.com/petzl-charlet/petzl-meteor-iii-plus-climbing-helmet/" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Petzl Meteor 3+ Helmet</button></a>  <a href="/deals/#petzl+meteor+3+helmet" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -119,7 +139,7 @@ The Predator Shiznit helmet looks good and protects your face. With 500 grams it
 
 <a href="https://www.amazon.com/gp/product/B00GHGJEPI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GHGJEPI&linkCode=as2&tag=hikeve-20&linkId=dd5adb457c1f5e2ecc5f3be27f1037e4"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00GHGJEPI&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00GHGJEPI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="http://amzn.to/2952d5F" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Predator Shiznit Helmet</button></a>
+<a href="http://amzn.to/2952d5F" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Predator Shiznit Helmet</button></a>  <a href="/deals/#predator+shiznit+helmet" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -141,15 +161,15 @@ Wearing an helmet is an important part of (whitewater) packrafting and kayaking.
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
+amzn_assoc_search_bar = "true";
 amzn_assoc_tracking_id = "hikeve-20";
 amzn_assoc_search_bar_position = "top";
 amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_title = "Water helmet suggestions";
-amzn_assoc_default_search_phrase = "water helmet";
+amzn_assoc_title = "Amazon Search Results";
+amzn_assoc_default_search_phrase = "kayaking helmet";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "1b9d1e4302c0c92ff457962d6ba0d67b";
 </script>
