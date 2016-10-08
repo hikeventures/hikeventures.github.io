@@ -53,7 +53,7 @@ We have not tested all the camping stoves in this article but those are our favo
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#msr+windnurner" target="_blank">MSR WindBurner</a></td><td>432g</td>
+          <td><a href="http://www.hikeventures.com/deals/#msr+windburner" target="_blank">MSR WindBurner</a></td><td>432g</td>
         </tr>
 
         <tr>
@@ -123,7 +123,7 @@ The Jetboil MiniMo offers you one of the best simmer controls, metal handles, an
 
 ---
 
-<h2><a href="http://www.hikeventures.com/deals/#msr+windnurner" target="_blank">MSR WindBurner</a></h2>
+<h2><a href="http://www.hikeventures.com/deals/#msr+windburner" target="_blank">MSR WindBurner</a></h2>
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00NPPWOJ2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NPPWOJ2&linkCode=as2&tag=hikeve-20&linkId=G7LF7ACULXJOSCLX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00NPPWOJ2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00NPPWOJ2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -134,7 +134,7 @@ The Jetboil MiniMo offers you one of the best simmer controls, metal handles, an
 
 The MSR WindBurner is the latest addition on the stove market from MSR. This stove is marketed to operate very well under windy conditions. The MSR WindBurner is currently our favourite stove on our trips (for 2 person) even so it weights a little bit more than the other stoves. If you are traveling alone then the Jetboil MiniMo might be a good alternative.
 
-<a href="https://www.rei.com/product/890802/msr-windburner-stove-system"><button type="button" class="btn btn-danger">Read more about the MSR WindBurner</button></a>  <a href="http://www.hikeventures.com/deals/#msr+windnurner" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="https://www.rei.com/product/890802/msr-windburner-stove-system"><button type="button" class="btn btn-danger">Read more about the MSR WindBurner</button></a>  <a href="http://www.hikeventures.com/deals/#msr+windburner" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
