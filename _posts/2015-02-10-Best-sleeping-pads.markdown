@@ -123,7 +123,7 @@ The Therm-a-Rest Z LITE SOL is a foam sleeping pad which is a safe choice than a
 
 ---
 
-## [Exped Synmat UL 7](http://www.hikeventures.com/#exped+synmat+ul+7+pad)
+## [Exped Synmat UL 7](http://www.hikeventures.com/deals/#exped+synmat+ul+7+pad)
 
 **R-Value:** 3.3   
 **Weight:** 450 g
@@ -133,11 +133,11 @@ The Therm-a-Rest Z LITE SOL is a foam sleeping pad which is a safe choice than a
 
 The Exped Synmat UL 7 was my go-to sleeping pad for a couple of years, however I have replaced it with the Therm-a-Rest XTherm as it offers a better insulation / weight ratio.
 
-<a href="https://www.rei.com/product/811907/exped-synmat-ul-7-air-pad"><button type="button" class="btn btn-danger">Read more about the Exped Synmat UL 7</button></a> <a href="http://www.hikeventures.com/#exped+synmat+ul+7+pad" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="https://www.rei.com/product/811907/exped-synmat-ul-7-air-pad"><button type="button" class="btn btn-danger">Read more about the Exped Synmat UL 7</button></a> <a href="http://www.hikeventures.com/deals/#exped+synmat+ul+7+pad" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
-## [Therm-a-Rest EvoLite](http://www.hikeventures.com/#evolite)
+## [Therm-a-Rest EvoLite](http://www.hikeventures.com/deals/#evolite)
 
 **R-Value:** 2.1   
 **Weight:** 520 g
@@ -147,7 +147,7 @@ The Exped Synmat UL 7 was my go-to sleeping pad for a couple of years, however I
 
 If you don't want to spend so much time inflating your sleeping pad then the Therm-a-Rest EvoLite might be an intersting sleeping pad for the summer. However, the foam of the pad makes it a heavier choice and you don't get such a good insulation as in other air pads.
 
-<a href="http://www.backcountry.com/therm-a-rest-evolite-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest EvoLite</button></a>  <a href="http://www.hikeventures.com/#evolite" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.backcountry.com/therm-a-rest-evolite-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest EvoLite</button></a>  <a href="http://www.hikeventures.com/deals/#evolite" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -163,7 +163,7 @@ The NeoAir® Mini Pump inflates a NeoAir mattress in around 3 minutes.
 
 ---
 
-## [Therm-A-Rest NeoAir Torrent Air Pump](http://www.backcountry.com/therm-a-rest-neoair-torrent-pump)
+## [Therm-A-Rest NeoAir Torrent Air Pump](http://hikeventures.com/deals/#neoair+torrent+pump)
 
 The Torrent Pump inflates a large mattress in about 1.5 minutes.
 
@@ -171,14 +171,7 @@ The Torrent Pump inflates a large mattress in about 1.5 minutes.
 
 ---
 
-## [Therm-a-Rest AirTap Pump Kit](http://www.backcountry.com/therm-a-rest-airtrap-pump-kit)
-
-The AirTap pump helps you to inflate your sleeping pad faster and prevents your pad from collecting moist air. It can be used with the included bag or just any other bag.
-<a href="https://www.amazon.com/gp/product/B004NBF9Z8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004NBF9Z8&linkCode=as2&tag=hikeve-20&linkId=cd3118372e6ec9f5e68f238071b9bcef"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B004NBF9Z8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B004NBF9Z8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
----
-
-## [Therm-A-Rest Instant Field Repair Kit](http://www.backcountry.com/therm-a-rest-instant-field-repair-kit)
+## [Therm-A-Rest Instant Field Repair Kit](http://hikeventures.com/deals/#instant+field+repair+kit)
 New sleeping pads usually come with a field repair kit. However, sometimes you may lose your repair kit or just need a new one.
 
 <a href="https://www.amazon.com/gp/product/B00G4V53FQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G4V53FQ&linkCode=as2&tag=hikeve-20&linkId=b353f857f5eb4f576e3ff02564d8bd6f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00G4V53FQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00G4V53FQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
