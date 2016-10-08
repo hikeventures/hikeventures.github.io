@@ -21,11 +21,11 @@ A Hilleberg Nallo in the back and a Hilleberg Anjan in the front.
 
 We have not tested all the tents in this article but those are our favourites if we were to buy a new tent. The links on this site contain affiliate links. If you purchase thru the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read who we are.
 
-<!--more-->
 
----
 
-# The best solo tents for 2016
+<hr>
+
+<h1> The best solo tents for 2016</h1>
 <div class="table-responsive">
 <table class="table table-hover table-bordered list_items">
         <thead>
