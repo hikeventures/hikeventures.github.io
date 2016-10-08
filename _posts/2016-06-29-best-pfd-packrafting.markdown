@@ -64,7 +64,7 @@ We have not tested all the PFDs in this article but those are our favorites if w
 
 ## [Astral Designs YTV](http://www.backcountry.com/astral-ytv-personal-flotation-device)
 
-**Weight:** 1 lb 12 oz / 794 grams
+**Weight:** 794 grams
 
 The Astral Designs YTV is a great choice if you want to have a minimalistic life jacket. The Astral Designs YTV is classified as a Type V jacket by the US Coast Guard. It also has 2 zippered front pockets.
 
@@ -76,7 +76,7 @@ The Astral Designs YTV is a great choice if you want to have a minimalistic life
 
 ## [Astral Designs V-Eight](https://www.rei.com/product/881421/astral-v-eight-pfd)
 
-**Weight:** 1 lb 24 oz / 563 grams
+**Weight:** 563 grams
 
 The Astral Designs V-Eight has 2 zippered front pockets and made for the summer. The air can flow straight through the mesh to your skin which makes paddling with this jacket a more pleasent activity during the warmer months. The back side of the V-Eight does also not interfere with your packraft seat. The V-Eight also has a quick access knife tab.
 
@@ -88,7 +88,7 @@ The Astral Designs V-Eight has 2 zippered front pockets and made for the summer.
 
 ## <a href="http://amzn.to/29kvV8M" rel="nofollow">Palm Alpha</a>
 
-**Weight:** 1.4 lbs / 607 grams
+**Weight:** 607 grams
 
 The Palm Alpha is one of the lightest white water life jackets on the market. It does not has any special features but a small pocket on the inside part. The Palm Alpha also passed the ISO 12402-5 (water sports) and ISO 12402-6 (paddlesport) standards.
 
@@ -100,7 +100,7 @@ The Palm Alpha is one of the lightest white water life jackets on the market. It
 
 ## [Astral Designs Sea Wolf](https://www.rei.com/product/867519/astral-sea-wolf-pfd-mens)
 
-**Weight:** 1.7 lbs / 766 grams
+**Weight:** 766 grams
 
 If you need a PFD where you can store a lot's of stuff in it then you should have a look at the Astral Sea Wolf PFD. The Astral Sea Wolf PFD has a large front storage compartment where you can store your your phone or snacks while paddling. It's a little bit heavier than the other PFD's in this list but on a long paddling day this PFD could be quite useful.
 
@@ -112,7 +112,7 @@ If you need a PFD where you can store a lot's of stuff in it then you should hav
 
 ## [Palm FX](http://amzn.to/292fRLY)
 
-**Weight:** 1.9 lbs / 877 grams
+**Weight:** 877 grams
 
 Palm FX is another PFD which offers plenty or storage room for long packrafting trips. It also features failsafe shoulder straps and passed ISO 12402-5 (water sports) and ISO 12402-6 (paddlesport) standards.
 

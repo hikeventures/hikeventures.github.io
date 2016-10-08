@@ -64,7 +64,7 @@ We have not tested all the helmets in this article but those are our favorites i
 
 ## [NRS WRSI Trident Composite Helmet](http://www.backcountry.com/nrs-wrsi-trident-composite-helmet)
 
-*Weight:* 1.87 lbs / 848 grams
+*Weight:* 848 grams
 
 <a href="https://www.amazon.com/gp/product/B00HZ273DI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HZ273DI&linkCode=as2&tag=hikeve-20&linkId=537b27d2f0dac8e8bc4d4ac952663d48"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00HZ273DI&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00HZ273DI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -76,7 +76,7 @@ The NRS WRSI Trident Composite is made of a carbon composite shell and features 
 
 ## [NRS WRSI Current Helmet](http://www.backcountry.com/nrs-wrsi-current-helmet)
 
-*Weight:* 1.14 lbs / 517 grams
+*Weight:* 517 grams
 
 <a href="https://www.amazon.com/gp/product/B00HUX4682/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HUX4682&linkCode=as2&tag=hikeve-20&linkId=b2587ae9f6c3b513df7e56b67acd2592"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00HUX4682&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00HUX4682" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -110,7 +110,7 @@ The Shred Ready Standard Full-Cut Kayak helmet is made of an ABS injection molde
 
 ## [Sweet Protection Strutter Helmet](http://www.backcountry.com/sweet-protection-strutter-helmet)
 
-*Weight:* 0.9 lbs / 400 grams
+*Weight:* 400 grams
 *Certification:* EN 1385
 
 <a href="https://www.amazon.com/gp/product/B01BKZF6N4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01BKZF6N4&linkCode=as2&tag=hikeve-20&linkId=cc2f2a5a7904c5026deb377ce9fde69d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01BKZF6N4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01BKZF6N4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -123,7 +123,7 @@ The Sweet Protection Strutter Helmet features LFT shell technology which combine
 
 ## [Petzl Meteor 3+ Helmet](http://www.backcountry.com/sweet-protection-strutter-helmet)
 
-*Weight:* 0.5 lbs / 235 grams
+*Weight:* 235 grams
 
 The Petzl Meteor 3+ helmet is one of the lightest certified paddling helmets on the market. If you want to go light then the Meteor 3+ is probably your helmet.
 
@@ -133,7 +133,7 @@ The Petzl Meteor 3+ helmet is one of the lightest certified paddling helmets on 
 
 ## [Predator Shiznit Helmet](http://amzn.to/2952d5F)
 
-*Weight:* 1.5 lbs / 500 grams
+*Weight:* 500 grams
 
 The Predator Shiznit helmet looks good and protects your face. With 500 grams it's a bit more heavy than the Sweet helmet but comes with a lower price tag.
 
