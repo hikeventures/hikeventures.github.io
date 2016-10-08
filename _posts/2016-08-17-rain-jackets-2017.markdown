@@ -26,7 +26,7 @@ The links on this site contain affiliate links. If you purchase thru the links y
 
         <thead>
              <tr>
-                <th>Jacket</th><th>Weight</th>
+                <th>Rain Jacket</th><th>Weight</th>
              </tr>
         </thead>
 
