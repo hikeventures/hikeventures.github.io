@@ -9,9 +9,9 @@ tags:
   - stoves
 layout: post
 ---
-A portable and lightweight camping stove is one of the most essential item to have on your adventures to boil water for tea, coffee or dehydrated meals. Here comes my buying guide with the best lightweight camping stoves in 2016 for your next hiking, backpacking, packrafting, mountaineering or any other backcountry trip. The stoves in this guide are sorted by their weight. Also it's a good idea to have a <a href="http://amzn.to/22kZs72" rel="nofollo">Light My Fire Swedish FireSteel</a> with you even so the stove offers an igniter as there is a possibility that the igniter may break during your trip. 
+A portable and lightweight camping stove is one of the most essential item to have on your adventures to boil water for tea, coffee or dehydrated meals. Here comes my buying guide with the best lightweight camping stoves in 2016 for your next hiking, backpacking, packrafting, mountaineering or any other backcountry trip. The stoves in this guide are sorted by their weight. Also it's a good idea to have a <a href="http://amzn.to/22kZs72" rel="nofollo">Light My Fire Swedish FireSteel</a> with you even so the stove offers an igniter as there is a possibility that the igniter may break during your trip.
 
-I would also pack <a href="http://amzn.to/22kZs72" rel="nofollo">Swedish FireSteel</a> into my backpack rather than matches. Matches can get wet but with the <a href="http://amzn.to/22kZs72" rel="nofollo">Swedish FireSteel</a> you don't have to worry about that. Just make sure that you know how to use the <a href="http://amzn.to/22kZs72" rel="nofollo">Light My Fire Swedish FireSteel</a> before you set out to the backcountry. 
+I would also pack <a href="http://amzn.to/22kZs72" rel="nofollo">Swedish FireSteel</a> into my backpack rather than matches. Matches can get wet but with the <a href="http://amzn.to/22kZs72" rel="nofollo">Swedish FireSteel</a> you don't have to worry about that. Just make sure that you know how to use the <a href="http://amzn.to/22kZs72" rel="nofollo">Light My Fire Swedish FireSteel</a> before you set out to the backcountry.
 
 ![](https://c1.staticflickr.com/3/2822/9596230289_9b0f70706d_o.jpg "Best Backpacking Stoves 2016")
 
@@ -23,28 +23,45 @@ We have not tested all the camping stoves in this article but those are our favo
 
 ---
 
-# Overview of the best camping stoves for 2016
+# The best camping stoves for 2016
 
-| Model | Weight |
-| :------------- |:-------------|
-|  [MSR MicroRocket](http://www.backcountry.com/msr-micro-rocket-stove) | &nbsp; 0.16 lb / 73 grams |
-| [MSR WindPro II](http://www.omcgear.com/msr-windpro-ii-stove-1.html) | 0.41 lb / 187 grams |
-| [Jetboil MicroMo](http://www.backcountry.com/jetboil-micromo-personal-cooking-system) |  0.89 lb / 400 grams |
-| [Jetboil MiniMo](http://www.backcountry.com/jetboil-minimo-cooking-system)   | 0.91 lb / 415 grams | 
-| [MSR WindBurner](https://www.rei.com/product/890802/msr-windburner-stove-system) |  0.95 lb / 432 grams |
-| [MSR XGK EX](http://www.backcountry.com/msr-xgk-ex-stove) |  1.08 lb / 489 grams |
+<div class="table-responsive">
 
-> Table is sorted by weight
+      <table class="table table-hover table-bordered list_items">
 
----
+        <thead>
+             <tr>
+                <th>Camping Stove</th><th>Weight</th>
+             </tr>
+        </thead>
 
-## Discounts
+        <tbody>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#msr+micro+rocket" target="_blank">MSR Micro Rocket</a></td><td>73g</td>
+        </tr>
 
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=stove jetboil OR MSR stove&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=60&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=5&search_results_sort_order=Sale+Price"></script>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#msr+windpro+II" target="_blank">MSR WindPro II</a></td><td>187g</td>
+        </tr>
 
-<br>
-<strong>Tip:</strong> <a href="http://www.hikeventures.com/deals/" target="_blank">Here</a> you can search and compare gear prices of different stores.
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#jetboil+micromo" target="_blank">Jetboil MicroMo</a></td><td>400g</td>
+        </tr>
 
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#jetboil+minimo" target="_blank">Jetboil MiniMo</a></td><td>415g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#msr+windnurner" target="_blank">MSR WindBurner</a></td><td>432g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#msr+xgk+ex" target="_blank">MSR XGK EX</a></td><td>489g</td>
+        </tr>
+</tbody>
+</table>
+</div>
 
 ---
 
@@ -58,7 +75,7 @@ We have not tested all the camping stoves in this article but those are our favo
 
 The MSR MicroRocket is the lightest stove in our list. If saving weight has your highest priority and you want to use a gas stove then you should go for the MSR MicroRocket.
 
-<a href="http://www.backcountry.com/msr-micro-rocket-stove"><button type="button" class="btn btn-danger">Read more about the MSR MicroRocket</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="http://www.backcountry.com/msr-micro-rocket-stove"><button type="button" class="btn btn-danger">Read more about the MSR MicroRocket</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -72,7 +89,7 @@ The MSR MicroRocket is the lightest stove in our list. If saving weight has your
 
 The MSR WindPro II is a nice stove for those who want to have the burner separated which gives more stability but also the possibility to keep the gas canister warm in colder temperatures. The MSR WindPro II also simmers quite well and the larger diameter of the burner lets you allow to use larger pots. If you are planning to travel in more harsh conditions then the MSR XGK EX would be a better choice.
 
-<a href="http://www.omcgear.com/msr-windpro-ii-stove-1.html"><button type="button" class="btn btn-danger">Read more about the MSR WindPro II</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="http://www.omcgear.com/msr-windpro-ii-stove-1.html"><button type="button" class="btn btn-danger">Read more about the MSR WindPro II</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -87,7 +104,7 @@ The MSR WindPro II is a nice stove for those who want to have the burner separat
 
 The Jetboil MicroMo offers a push-button igniter and a heat indicator and comes with a 0.8 liter cooking cup. The Jetboil MicorMo is cold weather compatible down to -6C. The Jetboil MicroMo can also store the gas canister.
 
-<a href="http://www.backcountry.com/jetboil-micromo-personal-cooking-system"><button type="button" class="btn btn-danger">Read more about the Jetboil MicroMo</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="http://www.backcountry.com/jetboil-micromo-personal-cooking-system"><button type="button" class="btn btn-danger">Read more about the Jetboil MicroMo</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -102,7 +119,7 @@ The Jetboil MicroMo offers a push-button igniter and a heat indicator and comes 
 
 The Jetboil MiniMo offers you one of the best simmer controls, metal handles, and a low spoon angle for easy eating. The bottom cover can also be used as a bowl. As a whole product the Jetboil MiniMo might be a nice solution and not even that heavy considering that it offers 2 products in one (stove and bowl).
 
-<a href="http://www.backcountry.com/jetboil-minimo-cooking-system"><button type="button" class="btn btn-danger">Read more about the Jetboil MiniMo</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="http://www.backcountry.com/jetboil-minimo-cooking-system"><button type="button" class="btn btn-danger">Read more about the Jetboil MiniMo</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -117,7 +134,7 @@ The Jetboil MiniMo offers you one of the best simmer controls, metal handles, an
 
 The MSR WindBurner is the latest addition on the stove market from MSR. This stove is marketed to operate very well under windy conditions. The MSR WindBurner is currently our favourite stove on our trips (for 2 person) even so it weights a little bit more than the other stoves. If you are traveling alone then the Jetboil MiniMo might be a good alternative.
 
-<a href="https://www.rei.com/product/890802/msr-windburner-stove-system"><button type="button" class="btn btn-danger">Read more about the MSR WindBurner</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="https://www.rei.com/product/890802/msr-windburner-stove-system"><button type="button" class="btn btn-danger">Read more about the MSR WindBurner</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -131,18 +148,18 @@ The MSR WindBurner is the latest addition on the stove market from MSR. This sto
 
 The MSR XGK EX is probably the best choice if you need a stove which can handle multiple fuels in extreme conditions.
 
-<a href="http://www.backcountry.com/msr-xgk-ex-stove"><button type="button" class="btn btn-danger">Read more about the MSR XGK EX</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="http://www.backcountry.com/msr-xgk-ex-stove"><button type="button" class="btn btn-danger">Read more about the MSR XGK EX</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9596216703/in/album-72157646473505683/" title="Jetboil Sol Ti in Sarek"><img src="https://c8.staticflickr.com/4/3748/9596216703_3f4c4db24f_b.jpg" width="1024" height="683" alt="Best Backpacking and Camping stoves in 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-   
+
 A Jetboil stove on our trip in [http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/](Swedish Lapland).
 
 ---
-   
+
 ## How to choose the best camping stove?
-It all depends on your requirements. Do you need a simple and lightweight camping stove then the MSR MicroRocket would be a good choice but your stove won't have any wind protection and you need an aditional cup to boil the water. 
+It all depends on your requirements. Do you need a simple and lightweight camping stove then the MSR MicroRocket would be a good choice but your stove won't have any wind protection and you need an aditional cup to boil the water.
 
 My preference goes towards a camping stove which boils water quickly and uses low amount of fuel as I am usually traveling with dehydrated food packages where I just have to add boiling water to the food package. My favourite stove for Scandinavia are the [MSR WindBurner](http://www.backcountry.com/msr-windboiler-personal-stove-system) or the [Jetboil MiniMo](http://www.backcountry.com/jetboil-minimo-cooking-system) - both of them can also handle cold temperatures down to -6C while the MSR WinBurner stove can handle wind better than the Jetboil MiniMo.
 
