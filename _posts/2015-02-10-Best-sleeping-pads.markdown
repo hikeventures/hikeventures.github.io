@@ -27,7 +27,7 @@ The links on this site contain affiliate links. If you purchase through the link
 
         <thead>
              <tr>
-                <th>Camera Bag</th><th>R-Value</th><th>Weight</th>
+                <th>Sleeping Pad</th><th>R-Value</th><th>Weight</th>
              </tr>
         </thead>
 
