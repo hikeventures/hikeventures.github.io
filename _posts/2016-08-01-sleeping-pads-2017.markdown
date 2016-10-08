@@ -39,25 +39,25 @@ The links on this site contain affiliate links. If you purchase thru the links y
           <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Q-Core" target="_blank">Big Agnes Q-Core SLX</a></td><td>TBA</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Air+Core+Ultra" target="_blank">Big Agnes Air Core Ultra</a></td><td>566</td>
+          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Air+Core+Ultra" target="_blank">Big Agnes Air Core Ultra</a></td><td>566g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Insulated+Air+Core+Ultra" target="_blank">Big Agnes Insulated Air Core Ultra</a></td><td>598</td>
+          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Insulated+Air+Core+Ultra" target="_blank">Big Agnes Insulated Air Core Ultra</a></td><td>598g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#NeoAir+All+Season+SV" target="_blank">Therm-a-Rest NeoAir All Season SV</a></td><td>650</td>
+          <td><a href="http://www.hikeventures.com/deals/#NeoAir+All+Season+SV" target="_blank">Therm-a-Rest NeoAir All Season SV</a></td><td>650g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#slacker+hammock+pad" target="_blank">Therm-a-Rest Slacker Hammock Pad</a></td><td>698</td>
+          <td><a href="http://www.hikeventures.com/deals/#slacker+hammock+pad" target="_blank">Therm-a-Rest Slacker Hammock Pad</a></td><td>698g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Klymit+hammock">Klymit Hammock V</a></td><td>743</td>
+          <td><a href="http://www.hikeventures.com/deals/#Klymit+hammock">Klymit Hammock V</a></td><td>743g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Trail+Trail+King+SV" target="_blank">Therm-a-Rest Trail King SV</a></td><td>822</td>
+          <td><a href="http://www.hikeventures.com/deals/#Trail+Trail+King+SV" target="_blank">Therm-a-Rest Trail King SV</a></td><td>822g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Klymit+Double+V" target="_blank">Klymit Double V</a></td><td>1150</td>
+          <td><a href="http://www.hikeventures.com/deals/#Klymit+Double+V" target="_blank">Klymit Double V</a></td><td>1150g</td>
         </tr>
 </tbody>
 </table>
