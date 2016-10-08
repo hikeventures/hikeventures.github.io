@@ -20,7 +20,7 @@ Me hiking in the Sarek National Park in Sweden - also considered as one of the l
 
 ---
 
-I have not tested all devices in this article but those are our favourites if I were to buy a new one. The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
+I have not tested all devices in this article but those are our favourites if I were to buy a new one. The links on this site contain affiliate links. If you purchase thru the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
 
 <!--more-->
 
