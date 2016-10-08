@@ -40,7 +40,7 @@ The links on this site contain affiliate links. If you purchase thru the links y
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Haglöfs+L.I.M.+Proof+Jacket" target="_blank">Haglöfs L.I.M. Proof Jacket</a></td><td>210g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Haglofs+L.I.M.+Proof+Jacket" target="_blank">Haglöfs L.I.M. Proof Jacket</a></td><td>210g</td>
         </tr>
 
         <tr>
@@ -65,7 +65,7 @@ The links on this site contain affiliate links. If you purchase thru the links y
           <td><a href="http://www.hikeventures.com/deals/#Marmot+Knife+Edge+Jacket" target="_blank">Marmot Knife Edge Jacket</a></td><td>327g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Haglöfs+Kabi+Jacket+Women" target="_blank">Haglöfs Kabi (K2) Jacket Women</a></td><td>340g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Haglofs+Kabi+Jacket+Women" target="_blank">Haglöfs Kabi (K2) Jacket Women</a></td><td>340g</td>
         </tr>
         <tr>
           <td><a href="http://www.hikeventures.com/deals/#Berghaus+Remote" target="_blank">Berghaus Storm Jacket</a></td><td>614g</td>
@@ -93,10 +93,10 @@ The Hillwalker Jacket has been designed for hiking or walking and is made of a 2
 <h2><a href="http://www.hikeventures.com/deals/#Berghaus+Paclite+Storm+Jacket" target="_blank">Berghaus Paclite Storm Jacket</a></h2>
 The Paclite Storm Jacket is a waterproof jacket for the trail. It weights 300 grams and comes with a GORE-TEX Paclite fabric. The jacket features a fixed fully adjustable hood, a water resistant zip, dropped hem and two water resistant zip pockets.
 
-<h2><a href="http://www.hikeventures.com/deals/#Haglöfs+Kabi+Jacket+Women" target="_blank">Haglöfs Kabi (K2) Jacket Women</a></h2>
+<h2><a href="http://www.hikeventures.com/deals/#Haglofs+Kabi+Jacket+Women" target="_blank">Haglöfs Kabi (K2) Jacket Women</a></h2>
 The Haglöfs Kabi (K2) Jacket weights 340 grams and has been designed for women. It features 3-layer Gore-Tex C-knit and Paclite fabric and a design which allows maximum freedom of movement.
 
-<h2><a href="http://www.hikeventures.com/deals/#Haglöfs+L.I.M.+Proof+Jacket" target="_blank">Haglöfs L.I.M. Proof Jacket</a></h2>
+<h2><a href="http://www.hikeventures.com/deals/#Haglofs+L.I.M.+Proof+Jacket" target="_blank">Haglöfs L.I.M. Proof Jacket</a></h2>
 The Haglöfs L.I.M Proof Jacket weights 230 grams and is a super lightweight rain jacket for hiking or trekking. It also features articulated sleeves and elasticated cuffs. The fabric is a 2,5 layer fabric with 10.000 mm moisture permeability.
 
 <h2><a href="http://www.hikeventures.com/deals/#mammut+rainspeed+ultralight+hs+jacket" target="_blank">Mammut Rainspeed Ultralight HS Jacket</a></h2>
