@@ -28,7 +28,7 @@ We have not tested all the helmets in this article but those are our favourites 
 
 ---
 
-# Overview of the best packrafting and kayaking helmets
+# The best packrafting and kayaking helmets
 
 <div class="table-responsive">
 
