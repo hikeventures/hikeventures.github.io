@@ -173,39 +173,9 @@ The Thule Covert Camera Messenger Bag comes with a removable camera pod system a
 
 <hr>
 
-# Accessories
-Depending on my camera case I would also consider the following accessories which I would buy for my mobile adventure with my camera.
-
-## [Pelican 0915 SD Card Case](https://www.rei.com/product/834605/pelican-0915-sd-card-case)
-
-<a href="https://www.amazon.com/gp/product/B005D2JE2A/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005D2JE2A&linkCode=as2&tag=hikeve-20&linkId=d624696b2adf15dca716fbb04aa37e06"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B005D2JE2A&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B005D2JE2A" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-The Pelican SD card case might be interesting if you want to store your SD cards on a safe place while being outdoors.
-
-<a href="https://www.rei.com/product/834605/pelican-0915-sd-card-case"><button type="button" class="btn btn-danger">Read more about the Pelican 0915 SD Card Case</button></a>
-
-<h2><a href="http://amzn.to/29r1qNl" rel="nofollow">Olympus Silica Gel - 5 Pack</a></h2>
-
-<a href="https://www.amazon.com/gp/product/B00014K3WK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00014K3WK&linkCode=as2&tag=hikeve-20&linkId=ae155447b52e48c3465aa27dd44e5a8c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00014K3WK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00014K3WK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-Silica gel absorbs moisture in the camera bag. It's always a good idea to have 1 or 2 bags of silica gel in your camera bag.
-
-<a href="http://amzn.to/29r1qNl" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Olympus Silica Gel</button></a>
-
-<hr>
-
-# Conclusion
-From my point of view there is no best camera bag which fits every situation but having the right camera gear for different activities is essential to protect your gear and also to enjoy photography with your Sony A7 or a6300 more. I hope you are able to find your camera bag for your next hiking, backpacking, kayaking or packrafting adventure.
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716060755/in/photolist-JP8CEz-JNYoHW-KKxjpM-pbERVy" title="Hiking and Packrafting in Norway"><img src="https://c4.staticflickr.com/9/8606/28716060755_0596cd42cf_k.jpg" width="2048" height="1365" alt="Lowepro Nova Sport 7L AW Camera Bag A7 Batis 25"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-With the <a href="http://amzn.to/29YPNOV" rel="nofollow">Lowepro Nova Sport 7L</a> in [Northern Norway](http://www.hikeventures.com/Finnmark/).
-
-<hr>
-
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
+amzn_assoc_search_bar = "true";
 amzn_assoc_tracking_id = "hikeve-20";
 amzn_assoc_search_bar_position = "top";
 amzn_assoc_ad_mode = "search";
@@ -218,5 +188,14 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+<hr>
+
+# Conclusion
+From my point of view there is no best camera bag which fits every situation but having the right camera gear for different activities is essential to protect your gear and also to enjoy photography with your Sony A7 or a6300 more. I hope you are able to find your camera bag for your next hiking, backpacking, kayaking or packrafting adventure.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716060755/in/photolist-JP8CEz-JNYoHW-KKxjpM-pbERVy" title="Hiking and Packrafting in Norway"><img src="https://c4.staticflickr.com/9/8606/28716060755_0596cd42cf_k.jpg" width="2048" height="1365" alt="Lowepro Nova Sport 7L AW Camera Bag A7 Batis 25"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+With the <a href="http://amzn.to/29YPNOV" rel="nofollow">Lowepro Nova Sport 7L</a> in [Northern Norway](http://www.hikeventures.com/Finnmark/).
 
 <hr>
