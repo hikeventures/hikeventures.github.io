@@ -10,7 +10,7 @@ tags:
   - shoes
 published: true
 ---
-Proper hiking boots are important if you are planning to hike in the mountains or with a heavy backpack. For day trips which are not that demanding [lightweight hiking shoes](http://www.hikeventures.com/best-ultralight-hiking-shoes/) could be an alternative to traditional hiking boots. However, after my trips in the [Alps](http://www.hikeventures.com/e5-crossing-the-alps-from-germany-to-italy/) and in [Swedish Lapland](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) I am not such a fan of ultralight hiking shoes and would rather take a pair of proper hiking boots with me. I have sorted the shoes in this article by weight so you can select the lightest option if you are weight sensitive. 
+Proper hiking boots are important if you are planning to hike in the mountains or with a heavy backpack. For day trips which are not that demanding [lightweight hiking shoes](http://www.hikeventures.com/best-ultralight-hiking-shoes/) could be an alternative to traditional hiking boots. However, after my trips in the [Alps](http://www.hikeventures.com/e5-crossing-the-alps-from-germany-to-italy/) and in [Swedish Lapland](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) I am not such a fan of ultralight hiking shoes and would rather take a pair of proper hiking boots with me. I have sorted the shoes in this article by weight so you can select the lightest option if you are weight sensitive.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27313686292/in/dateposted-public/" title="Lundhags Jaure Light"><img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="100%" alt="The best Hiking Boots 2016 - Lundhags Jaure Light"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
@@ -36,24 +36,66 @@ Proper hiking boots are important if you are planning to hike in the mountains o
 
 # Overview of the best hiking boots for 2016
 
-| Model | Weight |
-|:------|:-----:|
-| [Inov-8 Roclite 286 GTX](http://www.backcountry.com/inov-8-roclite-286-gtx-hiking-boot-mens) |  0.7 lb / 286 grams |
-| [Adidas Terrex Fast R Mid GTX](http://www.backcountry.com/adidas-outdoor-terrex-fast-r-mid-gtx-hiking-boot-mens) |  1 lb / 435 grams |
-| [KEEN Targhee II Mid](http://www.backcountry.com/keen-targhee-ii-mid-tac-hiking-boot-mens) |  1.1 lb / 494 grams |
-| [Hanwag Banks GTX](https://www.rei.com/product/100194/hanwag-banks-gtx-boots-mens) |  1.4 lb / 610 grams |
-| [Arc'teryx Men's Bora2 Mid](http://www.backcountry.com/arcteryx-bora-mid-backpacking-boot-mens) |  1.4 lb / 619 grams |
-| [Salomon QUEST 4D 2 GTX®](http://www.backcountry.com/salomon-quest-4d-2-gtx-backpacking-boot-mens) |  1.4 lb / 640 grams |
-| [Scarpa R-EVOLUTION GTX](http://www.backcountry.com/scarpa-r-evolution-gtx-backpacking-boot-mens) |  1.5 lb / 659 grams |
-| [Merrell Moab Ventilator Mid](http://www.moosejaw.com/moosejaw/shop/product_Merrell-Men-s-Moab-Ventilator-Mid-Boot_10110157_10208_10000001_-1_) |  1.9 lb / 879 grams |
-| [Lowa Renegade GTX® Mid](http://www.backcountry.com/lowa-renegade-gtx-mid-hiking-boot-mens) |  2.4 lb / 1100 grams |
-| [Vasque Breeze 2.0 GTX](http://www.moosejaw.com/moosejaw/shop/product_Merrell-Men-s-Moab-Ventilator-Mid-Boot_10110157_10208_10000001_-1_) |  2.5 lb / 1140 grams |
+<div class="table-responsive">
+
+      <table class="table table-hover table-bordered list_items">
+
+        <thead>
+             <tr>
+                <th>Shoes</th><th>Weight</th>
+             </tr>
+        </thead>
+
+        <tbody>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#inov+roclite+282+gtx" target="_blank">Inov-8 Roclite 286 GTX</a></td><td>286g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#adidas+terrex+fast+mid+gtx" target="_blank">Adidas Terrex Fast R Mid GTX</a></td><td>435g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#KEEN+Targhee+II+Mid" target="_blank">KEEN Targhee II Mid</a></td><td>494g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Hanwag+Banks+GTX" target="_blank">Hanwag Banks GTX</a></td><td>610g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Arcteryx+Men+Bora2+Mid" target="_blank">Arc'teryx Men's Bora2 Mid</a></td><td>619g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Arcteryx+Men+Bora2+Mid" target="_blank">Arc'teryx Men's Bora2 Mid</a></td><td>619g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Salomon+QUEST+4D+GTX" target="_blank">Salomon QUEST 4D 2 GTX</a></td><td>640g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Scarpa+EVOLUTION+GTX" target="_blank">Scarpa R-EVOLUTION GTX</a></td><td>659g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Merrell+Moab+Ventilator+Mid" target="_blank">Merrell Moab Ventilator Mid</a></td><td>879g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Merrell+Moab+Ventilator+Mid" target="_blank">Merrell Moab Ventilator Mid</a></td><td>879g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Lowa+Renegade+GTX+Mid" target="_blank">Lowa Renegade GTX® Mid</a></td><td>1100g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Vasque+Breeze+2+GTX" target="_blank">Vasque Breeze 2.0 GTX</a></td><td>1140g</td>
+        </tr>
+</tbody>
+</table>
+</div>
 
 ---
 
-## [Inov-8 Roclite 286 GTX](http://www.backcountry.com/inov-8-roclite-286-gtx-hiking-boot-mens) 
+## [Inov-8 Roclite 286 GTX](http://www.backcountry.com/inov-8-roclite-286-gtx-hiking-boot-mens)
 
-**Weight:** 0.7 lb / 286 grams
+**Weight:** 286 grams
 
 <a href="https://www.amazon.com/gp/product/B00DHNFGN8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DHNFGN8&linkCode=as2&tag=hikeve-20&linkId=6f8ea1e480104883e77cbc427c18ba04"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00DHNFGN8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00DHNFGN8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -65,108 +107,108 @@ The Inov-8 Roclite 286 GTX is waterproof and offers natural movement and is made
 
 ## [Adidas Terrex Fast R Mid GTX](http://www.backcountry.com/adidas-outdoor-terrex-fast-r-mid-gtx-hiking-boot-mens)
 
-**Weight:** 1 lb / 435 grams
+**Weight:** 435 grams
 
 <a href="https://www.amazon.com/gp/product/B0113OXSEG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0113OXSEG&linkCode=as2&tag=hikeve-20&linkId=8431343daa475dc15988522b9d737a13"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0113OXSEG&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0113OXSEG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The Adidas Terrex Fast R Mid GTX can - despite it's low weight - also be worn in the mountain. The shoes come with protective weldings and a grippy Continental™ Rubber outsole for a good grip on the trail.
 
-<a href="http://www.backcountry.com/adidas-outdoor-terrex-fast-r-mid-gtx-hiking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Adidas Terrex Fast R Mid GTX</button></a> 
+<a href="http://www.backcountry.com/adidas-outdoor-terrex-fast-r-mid-gtx-hiking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Adidas Terrex Fast R Mid GTX</button></a>
 
 ---
 
 ## [KEEN Targhee II Mid](http://www.backcountry.com/keen-targhee-ii-mid-tac-hiking-boot-mens)
 
-**Weight:** 1.1 lb / 494 grams 
+**Weight:** 494 grams
 
 <a  href="http://www.amazon.com/gp/product/B00E0JHEWE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00E0JHEWE&linkCode=as2&tag=hikeve-20&linkId=NW5PAHXUPAEXB4ZE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00E0JHEWE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00E0JHEWE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The Keen targhee II Mid is made of Nubuk leather and a waterproof breathable membrane. The EVA Footbed of the KEEN Targhee II Mid can be removed and the ESS shank offers torsion stability.
 
-<a href="http://www.backcountry.com/keen-targhee-ii-mid-tac-hiking-boot-mens"><button type="button" class="btn btn-danger">Read more about the KEEN Targhee II Mid</button></a> 
+<a href="http://www.backcountry.com/keen-targhee-ii-mid-tac-hiking-boot-mens"><button type="button" class="btn btn-danger">Read more about the KEEN Targhee II Mid</button></a>
 
 ---
 
 ## [Hanwag Banks GTX](https://www.rei.com/product/100194/hanwag-banks-gtx-boots-mens)
 
-**Weight:** 1.4 lb / 610 grams 
+**Weight:** 610 grams
 
 <a href="https://www.amazon.com/gp/product/B00YT7F7N0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00YT7F7N0&linkCode=as2&tag=hikeve-20&linkId=d9335355600b6ebb12050a8b9a514ec6"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00YT7F7N0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00YT7F7N0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The Hanwag Banks upper comes with Cordura/Nubuk leather and the GORE-TEX lining makes the boots waterproof and breathable. The rubber toe caps protect your toes and there is also a shock absorber in the heel.
 
-<a href="https://www.rei.com/product/100194/hanwag-banks-gtx-boots-mens"><button type="button" class="btn btn-danger">Read more about the Hanwag Banks GTX</button></a> 
+<a href="https://www.rei.com/product/100194/hanwag-banks-gtx-boots-mens"><button type="button" class="btn btn-danger">Read more about the Hanwag Banks GTX</button></a>
 
 ---
 
 ## [Arc'teryx Men's Bora2 Mid](http://www.backcountry.com/arcteryx-bora-mid-backpacking-boot-mens)
 
-**Weight:** 1.4 lb / 619 grams 
+**Weight:** 619 grams
 
 <a href="https://www.amazon.com/gp/product/B00ZUYI8PU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZUYI8PU&linkCode=as2&tag=hikeve-20&linkId=e7abea06442c0bc8d175a2e5d319b9cd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00ZUYI8PU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00ZUYI8PU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The Arc'teryx Men's Bora2 Mid comes with the Arcteryx Adaptive Fit technology - a removable inner liner which can be replaced with a insulated mid liner for hiking in colder conditions. The Vibram® Arc’teryx Hiking Outsole provides traction with grip.
 
-<a href="http://www.backcountry.com/arcteryx-bora-mid-backpacking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Arc'teryx Men's Bora2 Mid</button></a> 
+<a href="http://www.backcountry.com/arcteryx-bora-mid-backpacking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Arc'teryx Men's Bora2 Mid</button></a>
 
 ---
 ## [Salomon QUEST 4D 2 GTX®](http://www.backcountry.com/salomon-quest-4d-2-gtx-backpacking-boot-mens)
 
-**Weight:** 1.4 lb / 640 grams
+**Weight:** 640 grams
 
 <a href="https://www.amazon.com/gp/product/B00KWK2JSE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KWK2JSE&linkCode=as2&tag=hikeve-20&linkId=8519013172ecaf7c4ca0d337dcf6a87e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00KWK2JSE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00KWK2JSE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The Salomon Quest 4D 2 GTX has been developed through experience in trail running and offers a great fit and stability. The Contagrip® soles can handle dry, hard, loose and wet surfaces.
 
-<a href="http://www.backcountry.com/salomon-quest-4d-2-gtx-backpacking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Salomon QUEST 4D 2 GTX</button></a> 
+<a href="http://www.backcountry.com/salomon-quest-4d-2-gtx-backpacking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Salomon QUEST 4D 2 GTX</button></a>
 
 ---
 
 ## [Scarpa R-EVOLUTION GTX](http://www.backcountry.com/scarpa-r-evolution-gtx-backpacking-boot-mens)
 
-**Weight:** 1.5 lb / 659 grams
+**Weight:** 659 grams
 
 <a href="https://www.amazon.com/gp/product/B0126ITSJC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0126ITSJC&linkCode=as2&tag=hikeve-20&linkId=e9ed7d57d4187c35ba18a9753faca0e6"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0126ITSJC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0126ITSJC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The Scarpa R-EVOLUTION GTX is a supportive and light hiking boot for the mountains. The Gore-Tex Performance Comfort liner keeps your foot dry.
 
-<a href="http://www.backcountry.com/scarpa-r-evolution-gtx-backpacking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Scarpa R-EVOLUTION GTX</button></a> 
+<a href="http://www.backcountry.com/scarpa-r-evolution-gtx-backpacking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Scarpa R-EVOLUTION GTX</button></a>
 
 ---
 
 ## [Merrell Moab Ventilator Mid](http://www.moosejaw.com/moosejaw/shop/product_Merrell-Men-s-Moab-Ventilator-Mid-Boot_10110157_10208_10000001_-1_)
 
-**Weight:** 1.9 lb / 879 grams 
+**Weight:** 879 grams
 
 <a  href="http://www.amazon.com/gp/product/B000KR3COE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000KR3COE&linkCode=as2&tag=hikeve-20&linkId=IZYEREDONE4PYKOS"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000KR3COE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B000KR3COE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The Merrell Moab Ventilator Mid comes with a breathable mesh lining and a Vibram® Multi-Sport Sole/TC5+ Rubber and a contured footbed with organic odor control. The Merrell Moab Ventilator Mid are suitable for summer hikes. The Moab Ventilator also has a leather toe cap to protect your toes.
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Merrell-Men-s-Moab-Ventilator-Mid-Boot_10110157_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Merrell Moab Ventilator Mid</button></a> 
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Merrell-Men-s-Moab-Ventilator-Mid-Boot_10110157_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Merrell Moab Ventilator Mid</button></a>
 
 ---
 
 ## [Lowa Renegade GTX® Mid](http://www.backcountry.com/lowa-renegade-gtx-mid-hiking-boot-mens)
 
-**Weight:** 2.4 lb / 1100 grams
+**Weight:** 1100 grams
 
 The Lowa Renegade GTX® Mid is one of Lowa's best selling hiking shoe which is waterproof and offers stability and comfort. The VIBRAM® Evo sole offers good grip.
 
 <a  href="http://www.amazon.com/gp/product/B002MPPV8M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002MPPV8M&linkCode=as2&tag=hikeve-20&linkId=5DHA3LOIUZFVBQNY"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002MPPV8M&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B002MPPV8M" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="http://www.backcountry.com/lowa-renegade-gtx-mid-hiking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Lowa Renegade GTX® Mid</button></a> 
+<a href="http://www.backcountry.com/lowa-renegade-gtx-mid-hiking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Lowa Renegade GTX® Mid</button></a>
 
 ---
 
 ## [Vasque Breeze 2.0 GTX](http://www.moosejaw.com/moosejaw/shop/product_Merrell-Men-s-Moab-Ventilator-Mid-Boot_10110157_10208_10000001_-1_)
 
-**Weight:** 2.5 lb / 1140 grams
+**Weight:** 1140 grams
 
 <a  href="http://www.amazon.com/gp/product/B008O5B0OS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008O5B0OS&linkCode=as2&tag=hikeve-20&linkId=A4NSRZ3BKK7BEAOB"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008O5B0OS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B008O5B0OS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The Vasque Breeze 2.0 GTX comes with GORE-TEX® with Extended Comfort Technology to keep your foot dry while the molded rubber toe cap will protect your toes. The Vasque Breeze 2.0 GTX is a boot which can be worn for multiple day hikes and will give you stability if you have to carry more load.
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Merrell-Men-s-Moab-Ventilator-Mid-Boot_10110157_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Vasque Breeze 2.0 GTX</button></a> 
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Merrell-Men-s-Moab-Ventilator-Mid-Boot_10110157_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Vasque Breeze 2.0 GTX</button></a>
 
 ---
 
@@ -279,7 +321,7 @@ The quality of hiking boots depends on the brands and are in most cases also ref
 Some manufacturers offers the option to replace the sole or repair your shoes if they wear off. However, if you are not that much in love with your hiking boots then you can also buy a new pair of hiking boots every 10 years or so.
 
 ## What is the right sizing of hiking boots?
-It's a good idea to try on your hiking boots and test walk with them in the store before you buy them. Some shoes can also cause you blisters if they are new or if you buy them too small. To prevent blisters buy the shoes a little bit bigger and wear proper [merino socks](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=icebreaker+merino+socks+hike). If you are planning to buy shell hiking boots then you have to wear 2 pairs of socks. A liner and mid or heavy cushioning socks. Wearing two pairs of socks prevent you of getting blisters. 
+It's a good idea to try on your hiking boots and test walk with them in the store before you buy them. Some shoes can also cause you blisters if they are new or if you buy them too small. To prevent blisters buy the shoes a little bit bigger and wear proper [merino socks](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=icebreaker+merino+socks+hike). If you are planning to buy shell hiking boots then you have to wear 2 pairs of socks. A liner and mid or heavy cushioning socks. Wearing two pairs of socks prevent you of getting blisters.
 
 ## What is the sole material of hiking boots?
 Good hiking boots should have a stiff sole. However, if you are planning to hike mostly on proper trails or roads then you can also choose hiking boots which do not have a stiff sole.
