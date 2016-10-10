@@ -4,8 +4,7 @@ title: About
 navbar: About
 date: '2012-11-25 17:43'
 comments: false
-sharing: false
-footer: false
+sharing: falsefooter: false
 published: true
 ---
 
@@ -32,8 +31,8 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
  <iframe src="https://www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fpatrickdormischian&width=450&height=80&layout=standard&size=large&show_faces=true&appId" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>           
 
             </div>
- </div></div></div>
-
+ </div></div>
+ 
  <div class="container-fluid">
 <div class="row-fluid">
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
