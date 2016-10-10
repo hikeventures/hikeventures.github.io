@@ -4,7 +4,8 @@ title: About
 navbar: About
 date: '2012-11-25 17:43'
 comments: false
-sharing: falsefooter: false
+sharing: false
+footer: false
 published: true
 ---
 
