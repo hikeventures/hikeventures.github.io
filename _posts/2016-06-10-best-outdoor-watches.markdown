@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The best GPS outdoor watches for 2016 with color display
+title: The best outdoor GPS watches for 2016 with color display for hiking and backpacking.
 description: Our selection of the best outdoor smart watch for 2016.
 date: 2016-06-10 13:46:20
 category: articles
@@ -9,7 +9,7 @@ tags:
   - best
   - watches
 ---
-Today I would like to present you the best outdoor GPS watches with color display which you can wear on your next hiking or backpacking trip, for running or on any other outdoor activity. At the moment I am wearing a [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) which has a monochrome display. I am quite satisfied with my [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) so far but I would be interested to get an outdoor watch which features a color display.
+Today I would like to present you the best outdoor GPS watches with color display for hiking and backpacking which you can wear on your next hiking or backpacking trip, for running or on any other outdoor activity. At the moment I am wearing a [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) which has a monochrome display. I am quite satisfied with my [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) so far but I would be interested to get an outdoor watch which features a color display.
 
 I have not tested all the watches in this article but those are my favourites if we were to buy a new one. The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
 
@@ -33,31 +33,31 @@ Probably one disadvantage of watches having a colour display and a GPS was their
 <tr>
 <td><a href="http://amzn.to/2dysTQc" rel="nofollow">Apple Watch Sport 42mm</a>
 </td>
-<td>0.06 lb / 34.2 g
+<td>34.2g
 </td>
 </tr>
 <tr>
 <td><a href="http://amzn.to/1t7QAFm" rel="nofollow">Motorola Moto 360 Sport</a>
 </td>
-<td>0.09 lb / 45 g
+<td>45g
 </td>
 </tr>
 <tr>
 <td><a href="https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch" rel="nofollow">Suunto Spartan Ultra</a>
 </td>
-<td>0.16 / 73 g
+<td>73g
 </td>
 </tr>
 <tr>
 <td><a href="http://www.backcountry.com/garmin-fenix-3-bundle" rel="nofollow">Garmin Fenix 3</a>
 </td>
-<td>0.18 lb / 82 g
+<td>82g
 </td>
 </tr>
 <tr>
 <td><a href="http://amzn.to/1YdNH1H" rel="nofollow">Casio WSD-F10</a>
 </td>
-<td>0.2 lb / 93 g
+<td>93g
 </td>
 </tr>
 </table>
