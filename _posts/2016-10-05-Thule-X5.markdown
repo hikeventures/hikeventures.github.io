@@ -1,53 +1,53 @@
 ---
-published: false
 layout: post
-title: Thule X5 Review
+title: Thule X5 for iPhone 6 and 6s Review
 description: Our review on the Thule X5 watertight phone case
-date: 2016-10-05 07:30:00
+date: 2016-10-11 04:30:00
 category: reviews
 tags:
   - reviews
   - thule
-  - phone
+  - cases
+  - iPhone
 ---
 
----
+A few months ago we received the Thule X5 iPhone 6 case from Thule which we have tested on our trips this year. Since we are approaching 2017 it's time to write a short review about our experience with the Thule X5.
 
-## Fiel Testing
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28098574144/in/photolist-JNYx9U-JLZkAy-Joaba7-KjCn2k-KcEQhr-KcERsH-KamLK5-KjCz84-KamS4G-JTCe1f-EVU9jS-F7oFw8-GLALk5-HA39Mp-HgWr2h-JNYxnE-KCDzhi-JP8Cjp-HTs418-HsYjcf/" title="Hiking and Packrafting in Norway"><img src="https://c1.staticflickr.com/8/7764/28098574144_7f1fefe9c0_k.jpg" width="2048" height="1365" alt="Thule X5 iPhone 6 review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
----
+<!--more-->
 
-## Features
+# Fiel Testing
+We have tested the Thule X5 on our packrafting trips in Scotland, Sweden, Japan, Russia and France this year. The trip reports will be available soon as well on our blog.
 
-Features
+In general we were quite happy with the Thule X5. The Thule X5 case is waterproof. However, we have not tested yet if the case would be waterproof as well if we would submerge it for a longer time in 1-2 meters but for our regular packrafting use we could not find any faults at all. We also did not perform any specific drop test but once Patrick's phone dropped from 1 meter and it did not have any impact on the phone.
 
-Waterproof and dustproof case with IP68 rating ensures your phone is protected from the elements
-Easy snap-on and snap-off case expertly engineered to ensure water-tight fit every time
-StratoShield screen protector delivers 5 times the impact protection (compared to screen alone)
-StratoShield guards against impact, scratches, glare and fingerprints while maintaining touch-screen responsiveness
-2 meter drop tested: Shock-stop corners and bi-component armor provide exceptional protection
-Textured backpanels enhance grip
-Compatible with Touch ID™ sensor
-Easy and full access to all ports
-Removable wrist strap
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28100347523/in/dateposted-public/" title="Hiking and Packrafting in Norway"><img src="https://c4.staticflickr.com/9/8504/28100347523_5169a9f878_k.jpg" width="2048" height="1365" alt="Thule X5 iPhone 6 test"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+**Positive**
+* The Thulse X5 is durable.
+* You can access the headset and charging ports without removing the whole case.
+* The case is leightweight.
+* The wrist strap makes sure that you don't accidentally drop or lose your phone.
+* Has a good grip in your hands.
 
-Technical specifications
-External height	15 cm
-External length	7.8 cm
-External depth	1.7 cm
-Weight (kg)	0.1 kg
-Colour	Floro/Dark Shadow
-Material	Polycarbonate
-Model name	TAIE-5124
-Model number	3203214
+**Negative**
+* The microphone does not work if the case is closed. 
+* It's not that easy to remove the phone from the case.
 
 ---
 
-## Conclusion
+# Features
+The case has IP68 rating and the StratoShield screen protector delivers 5 times the impact protection. It also helps against impact, scratches, glare and fingerprints. The case also works with the Touch ID™ sensor or the iPhone. The case weights 100 grams and is made of Polycarbonate.
 
+---
 
-<a href="http://amzn.to/21q2eGI"><button type="button" class="btn btn-danger">Read more about the Thule Atmos X5</button></a>
+# Conclusion
+We were quite happy with the Thule X5 and would take it any day with us to our future trips. If Thule could find a way to fix the negative issues mentioned above then it would be the perfect waterproof case for the iPhone 6. However, even with the view issues we had with the case it is still a great case which we could recommend for your next outdoor adventure.
+
+Thule just recently released the Atmos X3 for the iPhone 7 and the Atmos X4 for the iPhone 7 and 7 Plus. While the Atmos X3 (read our review) and X4 (read our review) are not waterproof cases as the Atmos X5 we can also recommend them to protect your iPhone from activities where no water is involved.
+
+<a href="http://amzn.to/21q2eGI" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Thule Atmos X5</button></a>
 
 ---
 
@@ -60,8 +60,8 @@ amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_title = "Thule Atmos X5";
-amzn_assoc_default_search_phrase = "thule atmos x5";
+amzn_assoc_title = "Amazon Search Results";
+amzn_assoc_default_search_phrase = "Thule Atmos X5";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "d6fd3ed4bc9d6548d1028880155aeb04";
 </script>
