@@ -21,7 +21,7 @@ Probably one disadvantage of watches having a colour display and a GPS was their
 
 ---
 
-# Overview of the best outdoor gps watches for 2016
+# The best outdoor gps watches for 2016
 
 <table>
 <tr>
