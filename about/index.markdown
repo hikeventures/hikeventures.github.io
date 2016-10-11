@@ -82,7 +82,10 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
         <img src="http://www.hikeventures.com/about/Palm.jpg" alt="Palm" width="300">
 
         </div>
-        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12"></div>
+       <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+        <img src="http://www.hikeventures.com/about/alpacka.jpg" alt="Palm" width="300">
+
+        </div>
 </div></div>
 
 <hr>
