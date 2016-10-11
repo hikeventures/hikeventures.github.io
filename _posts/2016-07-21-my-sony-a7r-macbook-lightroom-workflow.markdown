@@ -53,3 +53,21 @@ There are several ways to transfer your files and work with them. The process de
 The links on this site contain affiliate links. If you purchase thru the links you help support our blog. Here you can read on who we are.
 
 ---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "true";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Search Results from Amazon";
+amzn_assoc_default_search_phrase = "Samsung T3";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "d995dd7aa02d336b4c22488be86b6355";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
