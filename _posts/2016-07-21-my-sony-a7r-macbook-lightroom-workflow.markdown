@@ -1,5 +1,5 @@
 ---
-title: My Sony A7, Macbook Pro 2016, Samsung T3 and Lightroom workflow
+title: My Sony A7, Macbook Pro 2016, Samsung T3, LG 27 4K IPS monitor and Lightroom workflow
 description: Got an A7? See how I manage my files with my Macbook Pro
 date: 2016-07-21 19:10:36
 category: articles
@@ -42,6 +42,10 @@ Finally, I save the new metadata and Lightroom adds the data to an XMP sidecar f
 
 If you are using Adobe Cloud then the <a href="http://amzn.to/2e5mRqy" rel="nofollow">	
 WD 2TB My Passport Wireless Pro</a> might be also a nice solution to stream your files wirelessly on all your devices.
+
+As a monitor I am planning to connect my Macbook Pro 2016 to the new <a href="http://amzn.to/2dIi1S1" rel="nofollow">LG 27 4K IPS (27UD68P) monitor</a> which has a USB-C connection.
+
+<a href="https://www.amazon.com/gp/product/B01CDYB0QS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CDYB0QS&linkCode=as2&tag=hikeve-20&linkId=7375cf6ca195b2d5a8bd8ad498ea0baf" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01CDYB0QS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01CDYB0QS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## Conclusion
 There are several ways to transfer your files and work with them. The process described above is just my personal preference. You could also create a similar workflow with less expensive hard drives but the ones I mentioned in this article are currently my personal favorites even so they might be a bit expensive.
