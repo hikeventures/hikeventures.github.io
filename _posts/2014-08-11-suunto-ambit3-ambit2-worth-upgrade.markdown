@@ -21,18 +21,21 @@ Suunto recently released the [Suunto Spartan](https://www.rei.com/product/107290
 
 **Note:** The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read who we are.
 
-<a href="https://www.flickr.com/photos/90204224@N07/15913318153"><img src="https://farm8.staticflickr.com/7306/15913318153_e26043e992_b.jpg" width="1024" height="680"></a>
-
-Checking the altitude in [Finnish Lapland][1] with the Ambit3 Sport.
-
----
-
-# Discounts
-
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=Suunto Ambit3 -core -glacier -quest OR Suunto Traverse -core -glacier -quest OR Suunto Ambit2 -core -glacier -quest OR Suunto Spartan -core -glacier -quest&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_price_minimum=220&search_on_sale_level=25&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=5&search_results_sort_order=Sale+Price"></script>
-
-<br>
-<strong>Tip:</strong> <a href="http://www.hikeventures.com/deals/">Here</a> you can search and compare gear prices of different stores.
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Amazon Search Results";
+amzn_assoc_default_search_phrase = "Suunto Ambit3 Vertical";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "edb1d00e614ad3a35eb0a5421405645c";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
 
@@ -88,24 +91,6 @@ I use my Suunto Traverse (upgraded from the Suunto Ambit3 Sport) watch mainly fo
 
 # Worth to upgrade?
 I was wearing the [Suunto Ambit3 Sport](https://www.rei.com/product/879412/suunto-ambit3-sport-gps-multifunction-heart-rate-monitor) for a couple of months and I was happy with it before I upgraded to the [Suunto Traverse](https://www.rei.com/product/898278/suunto-traverse-gps-multifunction-watch) which looks much nicer since the GPS module is now invisible. I liked the blue colour, the slimmer design compared to the Suunto Ambit3 Sport, the accuracy of the GPS signal and the somewhat shorter time it take to locate satellites. For runners it's already worth to upgrade just because of the smaller HR monitor which will give you a better running experience. I also like the Bluetooth feature so I can get my data also on the Movescount Server if I am not on a computer. If you are into Social Media then the Movescount app will also be a great tool to show-cast your activities in a video. If you want to have the latest technology then you should consider the Suunto Spartan or the <a href="http://amzn.to/2dt4Oyt" rel="nofollo" target="_blank">Apple Watch Series 2</a>. The <a href="https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch">Suunto Spartan</a> will be more suitable for those who need long battery life e.g. if you plan to go hiking or multisport activities.
-
----
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Amazon Search Results";
-amzn_assoc_default_search_phrase = "Suunto Ambit3 Vertical";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "edb1d00e614ad3a35eb0a5421405645c";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
 
