@@ -37,8 +37,8 @@ amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_title = "Winter Pant Suggestions";
-amzn_assoc_default_search_phrase = "arcteryx winter pants";
+amzn_assoc_title = "Amazon Search Results";
+amzn_assoc_default_search_phrase = "arcteryx kappa pant";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "d0f44bf67133aaf87e8a18d1fe87ceb7";
 </script>
