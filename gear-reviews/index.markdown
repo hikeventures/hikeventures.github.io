@@ -41,18 +41,19 @@ published: true
 
 <tr>
              <td><a href="/Thule-Atmos-X3">Thule Atmos X3</a></td>
-             <td><a href="/Thule-Atmos-X4/">Thule Atmos X4</a></td>
+             <td><a href="/Thule-Atmos-
+	     /">Thule Atmos X4</a></td>
              </tr>
              <tr>
-
+  <td><a href="/Thule-X5/">Thule Atmos X5</a></td>
              <td><a href="/Thule-Capstone-50L-women/">Thule Capstone 50L Women</a>  </td>
-          <td><a href="/Thule-Chasm-XL-Duffle-Bag">Thule Chasm Duffle</a></td>
+         
 </tr>
 
 <tr>
-
+ <td><a href="/Thule-Chasm-XL-Duffle-Bag">Thule Chasm Duffle</a></td>
  <td><a href="/Thule-Legend-GoPro-case-etui">Thule Legend GoPro</a></td>
-          <td><a href="/thule-Perspektiv-action-camera-case">Thule Perspektiv Action Camera Case</a></td>
+        
 
 
 
@@ -61,11 +62,11 @@ published: true
  </tr>
 
 <tr>
-
+  <td><a href="/thule-Perspektiv-action-camera-case">Thule Perspektiv Action Camera Case</a></td>
 
           <td><a href="/Thule-Sapling-Elite-Child-Carrier/">Thule Sapling Elite Child Carrier</a></td>
 
-      <td></td>
+<td></td>
 
 
 
