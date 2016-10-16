@@ -13,12 +13,6 @@ Today I would like to present you the best outdoor GPS watches with color displa
 
 I have not tested all the watches in this article but those are my favourites if we were to buy a new one. The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/8620278312/in/album-72157648805512885/" title="Suunto Ambit 2"><img src="https://c1.staticflickr.com/9/8386/8620278312_aed75fec08_k.jpg" width="2048" height="1365" alt="best outdoor GPS watch color display 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<!--more-->
-
-Probably one disadvantage of watches having a colour display and a GPS was their short battery life in the past. The <a href="http://amzn.to/1YdNH1H" rel="nofollow">Casio Smart Outdoor Watch WSD-F10</a> advertises it's watch with 3 days in monochrome mode however the WDS-F10 does not have a GPS built in. My Traverse lasts approximately 1 day if I switch the GPS on depending on the tracking frequency and GPS accuracy. The watches in my list are sorted by their weight.
-
 ---
 
 # The best outdoor gps watches for 2016
@@ -64,12 +58,20 @@ Probably one disadvantage of watches having a colour display and a GPS was their
 
 ---
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/8620278312/in/album-72157648805512885/" title="Suunto Ambit 2"><img src="https://c1.staticflickr.com/9/8386/8620278312_aed75fec08_k.jpg" width="2048" height="1365" alt="best outdoor GPS watch color display 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<!--more-->
+
+Probably one disadvantage of watches having a colour display and a GPS was their short battery life in the past. The <a href="http://amzn.to/1YdNH1H" rel="nofollow">Casio Smart Outdoor Watch WSD-F10</a> advertises it's watch with 3 days in monochrome mode however the WDS-F10 does not have a GPS built in. My Traverse lasts approximately 1 day if I switch the GPS on depending on the tracking frequency and GPS accuracy. The watches in my list are sorted by their weight.
+
+---
+
 ## <a href="http://amzn.to/2dysTQc" rel="nofollow">Apple Watch Series 2 Sport 42mm</a>
 
 <a href="https://www.amazon.com/gp/product/B01LWDOLXJ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LWDOLXJ&linkCode=as2&tag=hikeve-20&linkId=6c2759682407cddfae56b0f8746ba809"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LWDOLXJ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LWDOLXJ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 34.2 grams  
-**Battery Life:** 18 hours (not in training mode) 
+**Battery Life:** 18 hours (not in training mode)
 **Operating System:** watchOS 3  
 **Water Resistance:** Water resistance rating of 50 meters under ISO standard 22810:2010
 **Display:** 312x319   
@@ -100,7 +102,7 @@ The Apple watch SERIES 2 42mm is for those folks who like to have their iPhone w
 **GPS:** yes   
 **Wireless charging:** yes   
 
-Another interesting Outdoor watch is the Motorola Moto 360 Sport which is targeted towards Android users as it has the AndroidWear™ operating system on board. It also features an optical hear rate monitor directly on the watch which can only be found on the Apple watch so far. No need to wear a hear rate monitor around your chest. One highlight of the Moto 360 Sport is probably it's high resolution / display. 
+Another interesting Outdoor watch is the Motorola Moto 360 Sport which is targeted towards Android users as it has the AndroidWear™ operating system on board. It also features an optical hear rate monitor directly on the watch which can only be found on the Apple watch so far. No need to wear a hear rate monitor around your chest. One highlight of the Moto 360 Sport is probably it's high resolution / display.
 
 <a href="http://amzn.to/1RWNLvb" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Moto 360 Sport</button></a>
 
@@ -171,14 +173,14 @@ In general, I found that the Casio WSD-F10 looks quite nice. I like the displays
 **GPS:** yes (incl. GLONASS)   
 **Wireless charging:** no   
 
-The Suunto Spartan is the latest smart watch addition in the Suunto range. Unfortunately, there are no specifications about the Suunto Spartan available yet beside that it's going to be the first Suunto watch which features a colour display. As Suunto watches can be connected to Moveslink - the Suunto Online Sport Community - it is possible to use the Suunto Spartan either with your Android phone or with your iPhone. 
+The Suunto Spartan is the latest smart watch addition in the Suunto range. Unfortunately, there are no specifications about the Suunto Spartan available yet beside that it's going to be the first Suunto watch which features a colour display. As Suunto watches can be connected to Moveslink - the Suunto Online Sport Community - it is possible to use the Suunto Spartan either with your Android phone or with your iPhone.
 
 <a href="https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch"><button type="button" class="btn btn-danger">Read more about the Suunto Spartan Ultra</button></a>
 
 ---
 
 ## Conclusion
-From the currently released outdoor watches with color display I would probably pick the [Suunto Spartan Ultra](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch). As a current [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) user I have already my GPS data stored in [Movescount](http://www.movescount.com/members/member140205-HikeVentures) so switching brands is anyway not an easy option for me. 
+From the currently released outdoor watches with color display I would probably pick the [Suunto Spartan Ultra](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch). As a current [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) user I have already my GPS data stored in [Movescount](http://www.movescount.com/members/member140205-HikeVentures) so switching brands is anyway not an easy option for me.
 
 If I would not need the longer training mode (GPS) of the Suunto Spartan then I would probably buy the <a href="http://amzn.to/2dysTQc" rel="nofollow">Apple Watch Series 2 Sport</a> as I have an iPhone. I would also pick the 42 mm Apple Sport version as I prefer a bigger screen.
 

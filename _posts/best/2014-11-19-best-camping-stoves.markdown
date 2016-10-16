@@ -11,15 +11,8 @@ layout: post
 ---
 A portable and lightweight camping stove is one of the most essential item to have on your adventures to boil water for tea, coffee or dehydrated meals. Here comes my buying guide with the best lightweight camping stoves in 2016 for your next hiking, backpacking, packrafting, mountaineering or any other backcountry trip. The stoves in this guide are sorted by their weight. Also it's a good idea to have a <a href="http://amzn.to/22kZs72" rel="nofollo">Light My Fire Swedish FireSteel</a> with you even so the stove offers an igniter as there is a possibility that the igniter may break during your trip.
 
-I would also pack <a href="http://amzn.to/22kZs72" rel="nofollo">Swedish FireSteel</a> into my backpack rather than matches. Matches can get wet but with the <a href="http://amzn.to/22kZs72" rel="nofollo">Swedish FireSteel</a> you don't have to worry about that. Just make sure that you know how to use the <a href="http://amzn.to/22kZs72" rel="nofollo">Light My Fire Swedish FireSteel</a> before you set out to the backcountry.
+I would also pack <a href="http://amzn.to/22kZs72" rel="nofollo">Swedish FireSteel</a> into my backpack rather than matches. Matches can get wet but with the <a href="http://amzn.to/22kZs72" rel="nofollo">Swedish FireSteel</a> you don't have to worry about that. Just make sure that you know how to use the <a href="http://amzn.to/22kZs72" rel="nofollo">Light My Fire Swedish FireSteel</a> before you set out to the backcountry. We have not tested all the camping stoves in this article but those are our favourites if we were to buy a new camping stove. The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
 
-![](https://c1.staticflickr.com/3/2822/9596230289_9b0f70706d_o.jpg "Best Backpacking Stoves 2016")
-
-<!--more-->
-
-Konstantin with a [Jetboil stove](http://hikeventures.com/gear-review-jetboil-sol-ti/ "Jetboil Sol Ti") in [Sarek National Park](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Sarek National Park") in Sweden.
-
-We have not tested all the camping stoves in this article but those are our favourites if we were to buy a new camping stove. The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
 
 ---
 
@@ -62,6 +55,15 @@ We have not tested all the camping stoves in this article but those are our favo
 </tbody>
 </table>
 </div>
+
+<!--more-->
+
+---
+
+
+![](https://c1.staticflickr.com/3/2822/9596230289_9b0f70706d_o.jpg "Best Backpacking Stoves 2016")
+
+Konstantin with a [Jetboil stove](http://hikeventures.com/gear-review-jetboil-sol-ti/ "Jetboil Sol Ti") in [Sarek National Park](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Sarek National Park") in Sweden.
 
 ---
 

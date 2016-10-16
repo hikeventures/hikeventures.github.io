@@ -16,10 +16,6 @@ I would like to give an overview about the best solo backpacking tents available
 
 Further, it's also worth to consider that a 1-person tent can be more heavy than a 2-person tent if you would distribute the weight of the 2-person tent over 2 persons. So hiking with another person can make you carry less weight.
 
-<img src="https://c2.staticflickr.com/6/5600/15455033882_22ac28bbe8_b.jpg" width="100%" alt="Best Solo 1-person backpacking tent of 2016 / 2017">
-
-A Hilleberg Nallo in the back and a Hilleberg Anjan in the front.
-
 We have not tested all the tents in this article but those are our favourites if we were to buy a new tent. The links on this site contain affiliate links. If you purchase thru the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read who we are.
 
 
@@ -68,6 +64,14 @@ We have not tested all the tents in this article but those are our favourites if
 </tbody>
 </table>
 </div>
+
+---
+
+<img src="https://c2.staticflickr.com/6/5600/15455033882_22ac28bbe8_b.jpg" width="100%" alt="Best Solo 1-person backpacking tent of 2016 / 2017">
+
+A Hilleberg Nallo in the back and a Hilleberg Anjan in the front.
+
+<!--more-->
 
 ---
 

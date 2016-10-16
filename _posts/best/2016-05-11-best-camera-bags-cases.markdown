@@ -14,18 +14,7 @@ In this post I would like to give an overview about the best camera bags for you
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716060755/in/photolist-JP8CEz-JNYoHW-KKxjpM-pbERVy" title="Hiking and Packrafting in Norway"><img src="https://c4.staticflickr.com/9/8606/28716060755_0596cd42cf_k.jpg" width="2048" height="1365" alt="Lowepro Nova Sport 7L AW Best Camera Bag A7 Batis 25"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-With the <a href="http://amzn.to/29YPNOV" rel="nofollow">Lowepro Nova Sport 7L</a> in [Northern Norway](http://www.hikeventures.com/Finnmark/).
-
----
-
-So here are my favorite camera bags which I have found so far (I will update this list in the future). The list below is sorted by weight. I have not tested all the camera bags in this article but those are my favorites if we were to buy a new one. The links on this site contain affiliate links. If you purchase through the links you help support our blog. (<a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read who we are.
-
----
-
 # The best camera bags for Sony A7 or a6300
-
 
 <div class="table-responsive">
 
@@ -69,7 +58,19 @@ So here are my favorite camera bags which I have found so far (I will update thi
       </table>
 </div>
 
-<hr>
+---
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716060755/in/photolist-JP8CEz-JNYoHW-KKxjpM-pbERVy" title="Hiking and Packrafting in Norway"><img src="https://c4.staticflickr.com/9/8606/28716060755_0596cd42cf_k.jpg" width="2048" height="1365" alt="Lowepro Nova Sport 7L AW Best Camera Bag A7 Batis 25"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+With the <a href="http://amzn.to/29YPNOV" rel="nofollow">Lowepro Nova Sport 7L</a> in [Northern Norway](http://www.hikeventures.com/Finnmark/).
+
+---
+
+<!--more-->
+
+So here are my favorite camera bags which I have found so far (I will update this list in the future). The list below is sorted by weight. I have not tested all the camera bags in this article but those are my favorites if we were to buy a new one. The links on this site contain affiliate links. If you purchase through the links you help support our blog. (<a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read who we are.
+
+---
 
 # Best camera bags for hiking and backpacking
 

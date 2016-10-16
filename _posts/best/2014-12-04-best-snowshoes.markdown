@@ -9,19 +9,11 @@ tags:
   - snowshoeing
 layout: post
 ---
-Here is my buying guide for the best snowshoes for 2016 sorted by weight. Snowshoes are quite interesting if you are planning to ascent a mountain, walk in powder snow or do any other winter backcountry trips. Snowshoeing is easy to learn and not that expensive. Also consider to get a pair of [snowshoe poles](http://www.hikeventures.com/best-trekking-and-snowshoeing-poles/ "trekking and snowshoeing poles") for your snowshoeing trips as they will help you a lot on your snowshoeing adventure.
-
-<a href="https://www.flickr.com/photos/90204224@N07/18240641010" title="Best snowhoes of 2016"><img src="https://c4.staticflickr.com/8/7780/18240641010_a4f51acf96_o.jpg" width="992" height="659" alt="Best Snowshoes of 2016"></a><!--more-->
-
-On the picture you can see me walking with my Tubbs Xpedition snowshoes in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Snowshoeing in Urho Kekkonen National Park").
-
-Considering your own body and gear weight is important when choosing your snowshoes. The more weight you want to carry the bigger the surface of the snowshoe should be. Also look at the size of the crampons and if the binding is suitable / durable or if you prefer fixed-rotation or full-rotation bindings.
-
-We have not tested every snowshoe in this article but those are our favorites if we were to buy new snowshoes. The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
+Here is my buying guide for the best snowshoes for 2016 sorted by weight. Snowshoes are quite interesting if you are planning to ascent a mountain, walk in powder snow or do any other winter backcountry trips. Snowshoeing is easy to learn and not that expensive. Also consider to get a pair of [snowshoe poles](http://www.hikeventures.com/best-trekking-and-snowshoeing-poles/ "trekking and snowshoeing poles") for your snowshoeing trips as they will help you a lot on your snowshoeing adventure. We have not tested every snowshoe in this article but those are our favorites if we were to buy new snowshoes. The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
 
 ---
 
-# Overview of the best snowshoes 2016
+# The best snowshoes 2016
 
 <div class="table-responsive">
 
@@ -56,6 +48,19 @@ We have not tested every snowshoe in this article but those are our favorites if
 </tbody>
 </table>
 </div>
+
+---
+
+
+<a href="https://www.flickr.com/photos/90204224@N07/18240641010" title="Best snowhoes of 2016"><img src="https://c4.staticflickr.com/8/7780/18240641010_a4f51acf96_o.jpg" width="992" height="659" alt="Best Snowshoes of 2016"></a><!--more-->
+
+On the picture you can see me walking with my Tubbs Xpedition snowshoes in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Snowshoeing in Urho Kekkonen National Park").
+
+<!--more-->
+
+---
+
+Considering your own body and gear weight is important when choosing your snowshoes. The more weight you want to carry the bigger the surface of the snowshoe should be. Also look at the size of the crampons and if the binding is suitable / durable or if you prefer fixed-rotation or full-rotation bindings.
 
 ---
 

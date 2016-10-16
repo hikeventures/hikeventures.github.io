@@ -13,29 +13,29 @@ For my next snowshoeing trip in Lapland I was looking for a new pair of gloves o
 
 It always takes time to find the right product and everyone has a different taste on features or design so I decided to come up with a list of winter gloves / mittens from different brands which received good recommendations.
 
+# The best ski and snowboarding gloves for 2016
+
+| Comany| Model |
+| :------------- |:-------------:|
+| Outdoor Research | [Alti Mittens](http://www.backcountry.com/outdoor-research-alti-mitt-mens-odr0813) |
+| Hestra | [Army Leather Heli 3-Finger Glove](http://www.backcountry.com/hestra-heli-3-finger-glove) |
+| Mountain Hardwear | [Absolute Zero Mitten](http://www.backcountry.com/mountain-hardwear-absolute-zero-mitt) |
+| Canada Goose | [Down Mittens](http://www.backcountry.com/canada-goose-down-mitten-mens) |
+| Canada Goose | [Down Glove](http://www.backcountry.com/canada-goose-down-glove-mens) |
+| Black Diamond | [Black Diamond Patrol Gloves](http://www.backcountry.com/black-diamond-patrol-glove-bld3346) |
+
 ---
+
+<!--more-->
 
 ## Gloves or Mittens?
 Gloves give you more dexterity (that's the magic selling word in the world of goves manufactures) than mittens. However, mittens keep your fingers warmer than gloves.
 
 Gloves and mittens allow you to layer. Layering is an important aspect for everyone interested in outdoor activities and a liner glove can be regarded as the underwear for your fingers. If you need additional warmth add a merino liner glove under your regular glove and your fingers will feel warmer.
 
-There is also an option from Hestra available - the [Hestra Army Leather Heli 3-Finger Glove](http://www.backcountry.com/hestra-heli-3-finger-glove "Hestra Army Leather Heli 3-Finger Glove") - which sits in between mitts and gloves are probably also a good option for example if you need to handle a camera. This model is my favourite model of all gloves in this list. 
+There is also an option from Hestra available - the [Hestra Army Leather Heli 3-Finger Glove](http://www.backcountry.com/hestra-heli-3-finger-glove "Hestra Army Leather Heli 3-Finger Glove") - which sits in between mitts and gloves are probably also a good option for example if you need to handle a camera. This model is my favourite model of all gloves in this list.
 
 However, you can also just take your main gloves off and operate your camera by just wearing the liner gloves. Once you have taken your picture you just put your main gloves back over the merino liner gloves.  
-
----
-
-# Overview of the best ski and snowboarding gloves for 2016
-
-| Comany| Model | 
-| :------------- |:-------------:|
-| Outdoor Research | [Alti Mittens](http://www.backcountry.com/outdoor-research-alti-mitt-mens-odr0813) |
-| Hestra | [Army Leather Heli 3-Finger Glove](http://www.backcountry.com/hestra-heli-3-finger-glove) |
-| Mountain Hardwear | [Absolute Zero Mitten](http://www.backcountry.com/mountain-hardwear-absolute-zero-mitt) | 
-| Canada Goose | [Down Mittens](http://www.backcountry.com/canada-goose-down-mitten-mens) | 
-| Canada Goose | [Down Glove](http://www.backcountry.com/canada-goose-down-glove-mens) |
-| Black Diamond | [Black Diamond Patrol Gloves](http://www.backcountry.com/black-diamond-patrol-glove-bld3346) | 
 
 ---
 
@@ -84,7 +84,7 @@ The Hestra Army Leather Heli 3-Finger Glove comes with a removeable liner and is
 
 <a  href="http://www.amazon.com/gp/product/B00QKPCQ88/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QKPCQ88&linkCode=as2&tag=hikeve-20&linkId=ZJU5VKKA7UWNEDT6"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00QKPCQ88&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00QKPCQ88" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-The Mountain Hardwear Absolute Zero Mitten was designed for the most extreme cold weather conditions. It comes with a Q.Shield® DOWN 800-fill and is shielded by a waterproof, windproof OutDry® membrane. The Absolute Zero Mitten also comes with a high-pile fleece liner. 
+The Mountain Hardwear Absolute Zero Mitten was designed for the most extreme cold weather conditions. It comes with a Q.Shield® DOWN 800-fill and is shielded by a waterproof, windproof OutDry® membrane. The Absolute Zero Mitten also comes with a high-pile fleece liner.
 
 <a href="http://www.backcountry.com/mountain-hardwear-absolute-zero-mitt"><button type="button" class="btn btn-danger">Read more about the Mountain Hardwear Absolute Zero Mitten</button></a>  
 

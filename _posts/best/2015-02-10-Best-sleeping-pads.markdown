@@ -9,13 +9,7 @@ tags:
   - best
 layout: post
 ---
-In this blog post you can find the best lightweight sleeping pads available in 2016. I have sorted the sleeping pads by their weight and not by performance and also indicated the R-value of each sleeping pads so you can choose the one which would be most suitable for your next outdoor adventure. From my selection of the best sleeping pads I have only tested the Therm-a-Rest NeoAir XTherm, the self-inflating Therm-a-Rest Evolite and the Exped SYNMAT UL 7 M (you can [see](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) the SYNMAT UL 7 M in action on our hiking and packrafting trip in the Swedish Mountains). From all sleeping pads I would probably recommend you the <a href="http://www.hikeventures.com/deals/#XTherm" target="_blank">Therm-a-Rest XTherm</a> most.
-
-<a href="https://www.flickr.com/photos/90204224@N07/9599003854" title="Best sleeping pads 2016"><img src="https://c1.staticflickr.com/3/2882/9599003854_415a4828f0_o.jpg" width="992" height="661" alt="Best sleeping pads in 2016"></a>Sleeping bag in <a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/">Sarek National Park</a> in Sweden.
-
-The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
-
-<!--more-->
+In this blog post you can find the best lightweight sleeping pads available in 2016. I have sorted the sleeping pads by their weight and not by performance and also indicated the R-value of each sleeping pads so you can choose the one which would be most suitable for your next outdoor adventure. From my selection of the best sleeping pads I have only tested the Therm-a-Rest NeoAir XTherm, the self-inflating Therm-a-Rest Evolite and the Exped SYNMAT UL 7 M (you can [see](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) the SYNMAT UL 7 M in action on our hiking and packrafting trip in the Swedish Mountains). From all sleeping pads I would probably recommend you the <a href="http://www.hikeventures.com/deals/#XTherm" target="_blank">Therm-a-Rest XTherm</a> most. The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
 
 ---
 
@@ -58,6 +52,12 @@ The links on this site contain affiliate links. If you purchase through the link
 </tbody>
 </table>
 </div>
+
+---
+
+<a href="https://www.flickr.com/photos/90204224@N07/9599003854" title="Best sleeping pads 2016"><img src="https://c1.staticflickr.com/3/2882/9599003854_415a4828f0_o.jpg" width="992" height="661" alt="Best sleeping pads in 2016"></a>Sleeping bag in <a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/">Sarek National Park</a> in Sweden.
+
+<!--more-->
 
 ---
 

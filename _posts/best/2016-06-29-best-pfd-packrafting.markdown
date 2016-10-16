@@ -11,22 +11,7 @@ tags:
 ---
 As we are frequently on packrafting trips we are of course always looking for new packrafting gear like a PFD (personal floating device) or life jacket. Here comes our selection of the best PFDs.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26814282560/in/photolist-GRud1y-GRud2f-HdLXe5-GXhAVa-H1kVQW-H1kVFN-H1kVZo-H1zXZH-GcfJST-GcfLdt-H1zXXZ-H4Gfns-Gc8XtE-Gc8Xp1-Gc8Xjm-HaFrzP-GRud7L-HaFrBx-Gc8WNG-HnoFdC-HjfVzn-GRud4u-H7Dj8R-GRudb3-Gc8XbL-H7Dj4x-Gc8X5y-H7DiZK-H7DiVM-Gc8WYw-H4GeQA-H7DiSk-H7DiNc-GcfKKp-Gc8WBj-H7DiKr-GGsxE1-GcfKhk-H1zXxF-GcfKsk-GcfKj4-Gc8Weq-H4Gdkb-HnoEX7-GaxJKr-H5RYDr-GajbUD-GXb3Qv-H2KqTT-GBfK6G" title="Swedish Packrafting Round-Up"><img src="https://c1.staticflickr.com/8/7682/26814282560_a47eb37791_o.jpg" width="100%" alt="The best PFD Life Jackets for packrafting"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
-
-<!--more-->
-
-# How to choose the best PFD?
-The best PFD for your next packrafting adventure depends on where you are planning to packraft. Are you planning to packraft in a strong rapid then you probably need more capable PFD  than packrafting on a calm lake. Also when you plan to packraft in the open sea you should look for a PFD which can also handle stormy sea conditions as the weather can also change quickly on the sea. Of course, you should always check the weather conditions before you go packrafting on the sea. Packrafts are actually not meant to be used on the sea but we have also paddled on the Baltic Sea in Finland and it worked quite well with our windpaddle sail.
-
-PFD's are categorized by [pfdma.org](http://www.pfdma.org/choosing/types.aspx) into different classes (USCG and State Law Enforcement agencies require and/or recommend different Types of lifejackets for different applications) and I would recommend to read through the [pfdma.org](http://www.pfdma.org/choosing/types.aspx) pages to make sure that you select the right one if you live in the U.S.
-
-We are usually wearing a dry suite when we go packrafting and we would rate the difficulty of the river which we are usually paddling between class 2 and class 3. The following PFD's are quite light and can also be carried with your backpack like the [HMG Porter 4400](http://www.hikeventures.com/gear-review-hmg-porter-4400-black/) which is our go-to packrafting backpack.
-
-We have not tested all the PFDs in this article but those are our favorites if we were to buy a new one. The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read who we are.
-
----
+<hr>
 
 # The best PFDs / life jackets for packrafting
 
@@ -59,6 +44,23 @@ We have not tested all the PFDs in this article but those are our favorites if w
 </tbody>
 </table>
 </div>
+
+<hr>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26814282560/in/photolist-GRud1y-GRud2f-HdLXe5-GXhAVa-H1kVQW-H1kVFN-H1kVZo-H1zXZH-GcfJST-GcfLdt-H1zXXZ-H4Gfns-Gc8XtE-Gc8Xp1-Gc8Xjm-HaFrzP-GRud7L-HaFrBx-Gc8WNG-HnoFdC-HjfVzn-GRud4u-H7Dj8R-GRudb3-Gc8XbL-H7Dj4x-Gc8X5y-H7DiZK-H7DiVM-Gc8WYw-H4GeQA-H7DiSk-H7DiNc-GcfKKp-Gc8WBj-H7DiKr-GGsxE1-GcfKhk-H1zXxF-GcfKsk-GcfKj4-Gc8Weq-H4Gdkb-HnoEX7-GaxJKr-H5RYDr-GajbUD-GXb3Qv-H2KqTT-GBfK6G" title="Swedish Packrafting Round-Up"><img src="https://c1.staticflickr.com/8/7682/26814282560_a47eb37791_o.jpg" width="100%" alt="The best PFD Life Jackets for packrafting"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
+
+<!--more-->
+
+# How to choose the best PFD?
+The best PFD for your next packrafting adventure depends on where you are planning to packraft. Are you planning to packraft in a strong rapid then you probably need more capable PFD  than packrafting on a calm lake. Also when you plan to packraft in the open sea you should look for a PFD which can also handle stormy sea conditions as the weather can also change quickly on the sea. Of course, you should always check the weather conditions before you go packrafting on the sea. Packrafts are actually not meant to be used on the sea but we have also paddled on the Baltic Sea in Finland and it worked quite well with our windpaddle sail.
+
+PFD's are categorized by [pfdma.org](http://www.pfdma.org/choosing/types.aspx) into different classes (USCG and State Law Enforcement agencies require and/or recommend different Types of lifejackets for different applications) and I would recommend to read through the [pfdma.org](http://www.pfdma.org/choosing/types.aspx) pages to make sure that you select the right one if you live in the U.S.
+
+We are usually wearing a dry suite when we go packrafting and we would rate the difficulty of the river which we are usually paddling between class 2 and class 3. The following PFD's are quite light and can also be carried with your backpack like the [HMG Porter 4400](http://www.hikeventures.com/gear-review-hmg-porter-4400-black/) which is our go-to packrafting backpack.
+
+We have not tested all the PFDs in this article but those are our favorites if we were to buy a new one. The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read who we are.
 
 ---
 

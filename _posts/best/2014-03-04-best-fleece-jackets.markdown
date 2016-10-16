@@ -9,20 +9,9 @@ tags:
   - jackets
 layout: post
 ---
-A fleece jacket is a great garment which can be used as a mid-layer to keep you warm while you are active (climbing, hiking, skiing or biking) and here comes our buying guide of the best fleece jackets for men in 2016. 
+A fleece jacket is a great garment which can be used as a mid-layer to keep you warm while you are active (climbing, hiking, skiing or biking) and here comes our buying guide of the best fleece jackets for men in 2016.
 
 We have not tested the fleece jackets in this article but those are our favourites if we were to buy a new fleece jacket. The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
-
-![](https://c2.staticflickr.com/8/7392/9596207069_e56577d034_o.jpg "Best Wind Jackets 2016")
-
-<!--more-->
-
-While [Packrafting in Sarek](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Packrafting in Sarek") Patrick was always wearing a fleece during the day.
-
----
-
-## When to wear a fleece jacket?
-Fleece jackets can be worn as an outer shell if it's not raining but they are not windproof so you should also consider to get a [wind jacket](http://www.hikeventures.com/best-windjackets/ "Wind Jackets") when buying a fleece. Wind jackets are more breathable than [rain jackets](http://www.hikeventures.com/best-rain-jackets/) since they are not waterproof and you won't sweat that much in a wind jacket. In situations where you are not active (e.g. sitting in your camp or taking pictures) you should rather consider buying a [down jacket](http://www.hikeventures.com/best-down-jackets/ "Down Jackets"). Down does not insulate if it gets wet but keeps you warmer than fleece when dry.
 
 ---
 
@@ -31,11 +20,23 @@ Fleece jackets can be worn as an outer shell if it's not raining but they are no
 | Jacket | Weight |
 | ------------- |:-------------|
 | [Arcteryx Thetis Zip Neck](http://www.hikeventures.com/deals/#arcteryx+thetis+zip+neck) | 0.45 lb / 205 g |
-| [Mammut Moench Longsleeve](http://www.hikeventures.com/deals/#mammut+moench)   | 0.45 lb / 205 g | 
+| [Mammut Moench Longsleeve](http://www.hikeventures.com/deals/#mammut+moench)   | 0.45 lb / 205 g |
 | [Rab Micro Pull-on](http://www.hikeventures.com/deals/#micro+pull+on)     | 0.52 lb / 238 g |
 | [Arcteryx Delta LT Zip Neck](http://www.hikeventures.com/deals/#Arcteryx+delta+lt+zip) |  0.53 lb / 240 g |
 
-> Table is sorted by weight
+---
+
+
+![](https://c2.staticflickr.com/8/7392/9596207069_e56577d034_o.jpg "Best Wind Jackets 2016")
+
+While [Packrafting in Sarek](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Packrafting in Sarek") Patrick was always wearing a fleece during the day.
+
+<!--more-->
+
+---
+
+## When to wear a fleece jacket?
+Fleece jackets can be worn as an outer shell if it's not raining but they are not windproof so you should also consider to get a [wind jacket](http://www.hikeventures.com/best-windjackets/ "Wind Jackets") when buying a fleece. Wind jackets are more breathable than [rain jackets](http://www.hikeventures.com/best-rain-jackets/) since they are not waterproof and you won't sweat that much in a wind jacket. In situations where you are not active (e.g. sitting in your camp or taking pictures) you should rather consider buying a [down jacket](http://www.hikeventures.com/best-down-jackets/ "Down Jackets"). Down does not insulate if it gets wet but keeps you warmer than fleece when dry.
 
 ---
 
@@ -55,7 +56,7 @@ Fleece jackets can be worn as an outer shell if it's not raining but they are no
 
 The Acteryx Thetis Zip Neck fleece is more a fleece for those who are planning to sweat during the winter e.g. if you are planning to go running or hike up a mountain. It's fabric should dry quite fast and transport moisture away from the body.
 
-<a href="http://www.hikeventures.com/deals/#arcteryx+thetis+zip+neck"><button class="btn btn-danger">Compare prices</button></a> 
+<a href="http://www.hikeventures.com/deals/#arcteryx+thetis+zip+neck"><button class="btn btn-danger">Compare prices</button></a>
 
 ---
 
@@ -92,14 +93,14 @@ The Rab Micro Pull-on is also a light fleece pullover. It's fabric is made of re
 **Weight:** 240 grams   
 **Fabric:** Polartec Classic 100 Micro Velour Small Grid   
 
-The Arcteryx Delta LT Zip Neck is also a nice fleece. I have currently the Delta LT Zip Jacket model which is similar to this model except that you have a full zip on the front. 
+The Arcteryx Delta LT Zip Neck is also a nice fleece. I have currently the Delta LT Zip Jacket model which is similar to this model except that you have a full zip on the front.
 
 <a href="http://www.hikeventures.com/deals/#Arcteryx+delta+lt+zip"><button class="btn btn-danger">Compare prices</button></a>
 
 
 
 # Best Fleece Fabric
-Keep in mind that lighter material might be less durable depending on the technology used. Polartec Classic 100 fleece is in most cases sufficient if you go hiking. Polartec Power Stretch might be more interesting for those folks going climbing. Also consider if you need pockets or a full-zip jacket on your fleece as they might weight more. 
+Keep in mind that lighter material might be less durable depending on the technology used. Polartec Classic 100 fleece is in most cases sufficient if you go hiking. Polartec Power Stretch might be more interesting for those folks going climbing. Also consider if you need pockets or a full-zip jacket on your fleece as they might weight more.
 
 A good idea is also to combine a fleece jacket with a [wind jacket](http://www.hikeventures.com/best-windjackets/ "wind jackets") since fleece jackets are not windproof and you won't sweat that much in a wind jacket than in a [rain jacket](http://www.hikeventures.com/best-rain-jackets/).
 

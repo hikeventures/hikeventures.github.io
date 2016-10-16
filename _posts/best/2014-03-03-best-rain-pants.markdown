@@ -14,12 +14,6 @@ Planning to go hiking or backpacking or any other backcountry adventure? Then yo
 
 The links on this site contain affiliate links. If you purchase thru the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
 
-<a href="https://www.flickr.com/photos/90204224@N07/9598980244" title="Montane Minimus Pants"><img src="https://farm4.staticflickr.com/3767/9598980244_fccc7cd8c6_b.jpg" width="1024" height="683" alt="Montane Minimus Pants"></a>
-
-Wearing the [Montane Minimus Pants](http://www.campsaver.com/minimus-pants-men-s) rain pants on our hiking and packrafting trip in [Sarek National Park](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) in Sweden.
-
-<!--more-->
-
 ---
 
 # The best rain pants of 2016
@@ -59,6 +53,14 @@ Wearing the [Montane Minimus Pants](http://www.campsaver.com/minimus-pants-men-s
 </tbody>
 </table>
 </div>
+
+<hr>
+
+<a href="https://www.flickr.com/photos/90204224@N07/9598980244" title="Montane Minimus Pants"><img src="https://farm4.staticflickr.com/3767/9598980244_fccc7cd8c6_b.jpg" width="1024" height="683" alt="Montane Minimus Pants"></a>
+
+Wearing the [Montane Minimus Pants](http://www.campsaver.com/minimus-pants-men-s) rain pants on our hiking and packrafting trip in [Sarek National Park](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) in Sweden.
+
+<!--more-->
 
 <hr>
 
