@@ -11,11 +11,7 @@ layout: post
 ---
 Here is my buying guide of the best men rain jackets for 2016. The rain jackets which I have selected below are sorted by weight. Planning to go hiking, backpacking, running, cycling, mountaineering or on any other backcountry trip? Then you should have a lightweight rain jacket in your backpack to stay dry and warm on your outdoor adventure.
 
-Konstantin wearing the [Montane Minimus Jacket](http://www.backcountry.com/montane-minimus-jacket-mens) on our [trip](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Rain Jacket in Sarek Nationak Park") in the Sarek National Park in Sweden - also considered of being one of the last wilderness areas in Europe.
-
 You might want to wear your waterproof jacket only occasionally e.g. if it starts raining or if it gets very windy but you will appreciate to stay dry and warm on the trail or if you perform any other outdoor activities in the long run.  Also consider taking lightweight waterproof [rain pants](http://www.hikeventures.com/best-rain-pants/ "Best Rain Pants 2016") with you.
-
-We have not tested all the rain jackets in this article but those are our favourites if we were to buy a new rain jacket. The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
 
 ---
 
@@ -59,10 +55,16 @@ We have not tested all the rain jackets in this article but those are our favour
 </table>
 </div>
 
+---
+
+We have not tested all the rain jackets in this article but those are our favourites if we were to buy a new rain jacket. The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
 
 ---
 
 ![](https://c2.staticflickr.com/4/3715/9606341414_1446e73767_o.jpg "Best Rain Jackets in 2016")
+
+Konstantin wearing the [Montane Minimus Jacket](http://www.backcountry.com/montane-minimus-jacket-mens) on our [trip](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Rain Jacket in Sarek Nationak Park") in the Sarek National Park in Sweden - also considered of being one of the last wilderness areas in Europe.
+
 
 <!--more-->
 

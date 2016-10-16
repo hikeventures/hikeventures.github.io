@@ -9,7 +9,7 @@ tags:
   - best
 layout: post
 ---
-For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](http://www.hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/ "Hilleberg Anjan") which has served us quite well so far in [Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Packrafting in Sarek"), [the Netherlands](http://www.hikeventures.com/packrafting-in-the-weerribben-wieden-national-park/ "Packrafting in the Netherlands") and [Finland](http://www.hikeventures.com/halloween-adventure-at-lake-suolijarvi/ "Packrafting in Finland"). As I am constantly looking for good gear to enhance our "outdoor experience" I have compiled a list of tents which I would consider to buy if I were to buy a new tent - it contains freestanding and non-freestanding tents as well as normal and ultralight tents. The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
+For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](http://www.hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/ "Hilleberg Anjan") which has served us quite well so far in [Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Packrafting in Sarek"), [the Netherlands](http://www.hikeventures.com/packrafting-in-the-weerribben-wieden-national-park/ "Packrafting in the Netherlands") and [Finland](http://www.hikeventures.com/halloween-adventure-at-lake-suolijarvi/ "Packrafting in Finland"). As I am constantly looking for good gear to enhance our "outdoor experience" I have compiled a list of tents which I would consider to buy if I were to buy a new tent - it contains freestanding and non-freestanding tents as well as normal and ultralight tents.
 
 ---
 
@@ -56,6 +56,10 @@ For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](
 </tbody>
 </table>
 </div>
+
+---
+
+The links on this site contain affiliate links. If you purchase through the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
 
 ---
 

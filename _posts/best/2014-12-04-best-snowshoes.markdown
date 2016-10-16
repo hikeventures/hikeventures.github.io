@@ -9,7 +9,7 @@ tags:
   - snowshoeing
 layout: post
 ---
-Here is my buying guide for the best snowshoes for 2016 sorted by weight. Snowshoes are quite interesting if you are planning to ascent a mountain, walk in powder snow or do any other winter backcountry trips. Snowshoeing is easy to learn and not that expensive. Also consider to get a pair of [snowshoe poles](http://www.hikeventures.com/best-trekking-and-snowshoeing-poles/ "trekking and snowshoeing poles") for your snowshoeing trips as they will help you a lot on your snowshoeing adventure. We have not tested every snowshoe in this article but those are our favorites if we were to buy new snowshoes. The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
+Here is my buying guide for the best snowshoes for 2016 sorted by weight. Snowshoes are quite interesting if you are planning to ascent a mountain, walk in powder snow or do any other winter backcountry trips. Snowshoeing is easy to learn and not that expensive. Also consider to get a pair of [snowshoe poles](http://www.hikeventures.com/best-trekking-and-snowshoeing-poles/ "trekking and snowshoeing poles") for your snowshoeing trips as they will help you a lot on your snowshoeing adventure.
 
 ---
 
@@ -48,6 +48,10 @@ Here is my buying guide for the best snowshoes for 2016 sorted by weight. Snowsh
 </tbody>
 </table>
 </div>
+
+---
+
+We have not tested every snowshoes in this article but those are our favorites if we were to buy new snowshoes. The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
 
 ---
 

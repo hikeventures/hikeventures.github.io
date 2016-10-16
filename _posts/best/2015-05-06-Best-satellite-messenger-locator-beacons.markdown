@@ -14,20 +14,6 @@ A satellite messenger, GPS Tracker or a Personal Locator Beacon should be with y
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9606193064/in/photolist-fCSfwm-fBZaBp-fBZ86t-fCenzd-fCerPS-fCeu5W-fBZ9Pa-fCewCu-fCeuVs-fBZ6JB-fBZ5re-fBZaMc-fCewQ3-fBZbjB-fBZapV-fBZ4QB-fBZ7rH-fCeqR1-fCetpG-fBZcd4-fBZ7U8-fCescG-fCeoTj-fCeso7-fBZ5CR-fCeugy-fBZ4Fk-fCerZw-fCemGh-eixRoh-eis7oH-fBZ3ND-fCerDj-fBZd5R-fCeta7-fCevtj-fBZc4Z-fCevFQ-fCemih-fBZ4gV-fBZ5VP-fCeqcS-fBZ3mc-fCesMw-fBZ8hP-fCeped-fBZcNa-fBZbAg-fCesyW-fCeoi5" title="Best GPS Satellite Messenger 2016 / 2017 - DeLorme InReach SE can be useful in Northern Sweden"><img src="https://c1.staticflickr.com/4/3670/9606193064_01bf36511a_b.jpg" width="100%" alt="Hiking and Packrafting in Sarek Sweden"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-Me hiking in the Sarek National Park in Sweden - also considered as one of the last wilderness areas in Europe
-
----
-
-I have not tested all devices in this article but those are our favourites if I were to buy a new one. The links on this site contain affiliate links. If you purchase thru the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
-
-<!--more-->
-
-With a Satellite Messenger you can also inform your family and friends about your current location and that everything is fine with you so they don't have to worry. Here an example: I have been once to the [Sarek National park](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Sarek National Park") in Sweden where I didn't have phone reception and on this trip I decided that we will definitely take a satellite messenger with me if I would ever go there again in the future. It can take up to 2-3 days to get out of the National Park and in case of an emergency it might be quite hard to find help as you may only see 2 other hikers a day if at all.
-
----
-
 # The best satellite gps messengers for 2016
 
 <div class="table-responsive">
@@ -55,6 +41,20 @@ With a Satellite Messenger you can also inform your family and friends about you
       </table>
   </div>
 
+
+---
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9606193064/in/photolist-fCSfwm-fBZaBp-fBZ86t-fCenzd-fCerPS-fCeu5W-fBZ9Pa-fCewCu-fCeuVs-fBZ6JB-fBZ5re-fBZaMc-fCewQ3-fBZbjB-fBZapV-fBZ4QB-fBZ7rH-fCeqR1-fCetpG-fBZcd4-fBZ7U8-fCescG-fCeoTj-fCeso7-fBZ5CR-fCeugy-fBZ4Fk-fCerZw-fCemGh-eixRoh-eis7oH-fBZ3ND-fCerDj-fBZd5R-fCeta7-fCevtj-fBZc4Z-fCevFQ-fCemih-fBZ4gV-fBZ5VP-fCeqcS-fBZ3mc-fCesMw-fBZ8hP-fCeped-fBZcNa-fBZbAg-fCesyW-fCeoi5" title="Best GPS Satellite Messenger 2016 / 2017 - DeLorme InReach SE can be useful in Northern Sweden"><img src="https://c1.staticflickr.com/4/3670/9606193064_01bf36511a_b.jpg" width="100%" alt="Hiking and Packrafting in Sarek Sweden"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Me hiking in the Sarek National Park in Sweden - also considered as one of the last wilderness areas in Europe
+
+<!--more-->
+
+---
+
+I have not tested all devices in this article but those are our favourites if I were to buy a new one. The links on this site contain affiliate links. If you purchase thru the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
+
+With a Satellite Messenger you can also inform your family and friends about your current location and that everything is fine with you so they don't have to worry. Here an example: I have been once to the [Sarek National park](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Sarek National Park") in Sweden where I didn't have phone reception and on this trip I decided that we will definitely take a satellite messenger with me if I would ever go there again in the future. It can take up to 2-3 days to get out of the National Park and in case of an emergency it might be quite hard to find help as you may only see 2 other hikers a day if at all.
 
 ---
 

@@ -11,8 +11,6 @@ tags:
 ---
 Today I would like to present you the best outdoor GPS watches with color display for hiking and backpacking which you can wear on your next hiking or backpacking trip, for running or on any other outdoor activity. At the moment I am wearing a [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) which has a monochrome display. I am quite satisfied with my [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) so far but I would be interested to get an outdoor watch which features a color display.
 
-I have not tested all the watches in this article but those are my favourites if we were to buy a new one. The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
-
 ---
 
 # The best outdoor gps watches for 2016
@@ -58,6 +56,10 @@ I have not tested all the watches in this article but those are my favourites if
 
 ---
 
+I have not tested all the watches in this article but those are my favourites if we were to buy a new one. The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
+
+---
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/8620278312/in/album-72157648805512885/" title="Suunto Ambit 2"><img src="https://c1.staticflickr.com/9/8386/8620278312_aed75fec08_k.jpg" width="2048" height="1365" alt="best outdoor GPS watch color display 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <!--more-->
@@ -68,7 +70,7 @@ Probably one disadvantage of watches having a colour display and a GPS was their
 
 ## <a href="http://amzn.to/2dysTQc" rel="nofollow">Apple Watch Series 2 Sport 42mm</a>
 
-<a href="https://www.amazon.com/gp/product/B01LWDOLXJ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LWDOLXJ&linkCode=as2&tag=hikeve-20&linkId=6c2759682407cddfae56b0f8746ba809"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LWDOLXJ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LWDOLXJ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B01LW9G4UO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LW9G4UO&linkCode=as2&tag=hikeve-20&linkId=1d879893fd442284bffcaecbf986807d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LW9G4UO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LW9G4UO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 34.2 grams  
 **Battery Life:** 18 hours (not in training mode)
