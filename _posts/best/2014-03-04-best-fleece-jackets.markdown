@@ -11,8 +11,6 @@ layout: post
 ---
 A fleece jacket is a great garment which can be used as a mid-layer to keep you warm while you are active (climbing, hiking, skiing or biking) and here comes our buying guide of the best fleece jackets for men in 2016.
 
-We have not tested the fleece jackets in this article but those are our favourites if we were to buy a new fleece jacket. The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
-
 ---
 
 # Overview of the best fleece jackets for 2016
@@ -26,6 +24,9 @@ We have not tested the fleece jackets in this article but those are our favourit
 
 ---
 
+We have not tested the fleece jackets in this article but those are our favourites if we were to buy a new fleece jacket. The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
+
+---
 
 ![](https://c2.staticflickr.com/8/7392/9596207069_e56577d034_o.jpg "Best Wind Jackets 2016")
 

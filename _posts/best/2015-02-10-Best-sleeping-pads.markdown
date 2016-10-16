@@ -9,7 +9,7 @@ tags:
   - best
 layout: post
 ---
-In this blog post you can find the best lightweight sleeping pads available in 2016. I have sorted the sleeping pads by their weight and not by performance and also indicated the R-value of each sleeping pads so you can choose the one which would be most suitable for your next outdoor adventure. From my selection of the best sleeping pads I have only tested the Therm-a-Rest NeoAir XTherm, the self-inflating Therm-a-Rest Evolite and the Exped SYNMAT UL 7 M (you can [see](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) the SYNMAT UL 7 M in action on our hiking and packrafting trip in the Swedish Mountains). From all sleeping pads I would probably recommend you the <a href="http://www.hikeventures.com/deals/#XTherm" target="_blank">Therm-a-Rest XTherm</a> most. The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
+In this blog post you can find the best lightweight sleeping pads available in 2016. I have sorted the sleeping pads by their weight and not by performance and also indicated the R-value of each sleeping pads so you can choose the one which would be most suitable for your next outdoor adventure. From my selection of the best sleeping pads I have only tested the Therm-a-Rest NeoAir XTherm, the self-inflating Therm-a-Rest Evolite and the Exped SYNMAT UL 7 M (you can [see](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) the SYNMAT UL 7 M in action on our hiking and packrafting trip in the Swedish Mountains). From all sleeping pads I would probably recommend you the <a href="http://www.hikeventures.com/deals/#XTherm" target="_blank">Therm-a-Rest XTherm</a> most.
 
 ---
 
@@ -52,6 +52,10 @@ In this blog post you can find the best lightweight sleeping pads available in 2
 </tbody>
 </table>
 </div>
+
+---
+
+The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
 
 ---
 

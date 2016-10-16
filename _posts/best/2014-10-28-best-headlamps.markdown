@@ -72,6 +72,11 @@ Personally, I like the Petzl Nao Plus most since it has plenty of features and a
 
 ---
 
+We have not tested all the headlamps but those are our favorites if we were to buy a new headlamp. The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
+
+
+---
+
 <a href="http://www.amazon.com/Petzl-NAO-Headlamp-575-Lumens/" rel="nofollow"><img src="https://farm8.staticflickr.com/7457/15910915424_192439b27f_b.jpg" alt="Best headlamps of 2016 - Petzl Nao in Finland"></a>
 
 Konstantin wearing a Petzl Nao on the top of a fell in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Trip in Lapland")
@@ -81,8 +86,6 @@ Konstantin wearing a Petzl Nao on the top of a fell in [Finnish Lapland](http://
 ---
 
 However, for hikes during the summer you can also take a very simple and light headlamp rather the Petzl Nao Plus. However, it's easier to navigate with a stronger headlamp (e.g. in the forest) as you can see further.
-
-We have not tested all the headlamps but those are our favorites if we were to buy a new headlamp. The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
 
 ---
 
