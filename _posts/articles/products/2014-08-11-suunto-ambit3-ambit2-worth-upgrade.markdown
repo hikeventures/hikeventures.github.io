@@ -19,7 +19,7 @@ Suunto recently released the [Suunto Spartan](https://www.rei.com/product/107290
 
 **Update:** I have <a href="http://www.hikeventures.com/Suunto-Traverse-Ambit3-differences/">upgraded</a> my Suunto Ambit 3 to the Suunto Traverse. If you need a multisport watch then you should rather consider the Suunto Ambit3 Vertical or the Suunto Spartan rather than the Suunto Traverse.
 
-**Note:** The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read who we are.
+---
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
@@ -141,6 +141,10 @@ The Suunto watches also work great together with an e.g. iPhone which can be use
 **Update (19.04.2016):** Suunto has released the <a href="http://www.suunto.com/Products/sports-watches/Suunto-Traverse-Alpha/Suunto-Traverse-Alpha-Foliage/">Traverse Alpha</a> which adds features for hunting and fishing to the regular Traverse. It's also a bit more expensive than the regular Traverse.
 
 **Update (7.6.2016):** Suunto has released the [Suunto Spartan](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch) - A premium multisport watch with color display.
+
+---
+
+The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read who we are.
 
 ---
 

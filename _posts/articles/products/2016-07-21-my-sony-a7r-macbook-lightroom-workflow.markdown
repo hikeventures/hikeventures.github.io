@@ -3,7 +3,7 @@ title: My Sony A7, Macbook Pro 2016, Samsung T3, LG 27 4K IPS monitor and Lightr
 description: Got an A7? See how I manage my files with my Macbook Pro
 date: 2016-07-21 19:10:36
 category: articles
-tags: 
+tags:
   - articles
   - photography
   - camera
@@ -40,7 +40,7 @@ Finally, I save the new metadata and Lightroom adds the data to an XMP sidecar f
 
 <a href="https://www.amazon.com/gp/product/B01F5LVTPS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01F5LVTPS&linkCode=as2&tag=hikeve-20&linkId=1bc14a3257f137758e1afaedf09a94cd" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01F5LVTPS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01F5LVTPS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-If you are using Adobe Cloud then the <a href="http://amzn.to/2e5mRqy" rel="nofollow">	
+If you are using Adobe Cloud then the <a href="http://amzn.to/2e5mRqy" rel="nofollow">
 WD 2TB My Passport Wireless Pro</a> might be also a nice solution to stream your files wirelessly on all your devices.
 
 As a monitor I am planning to connect my Macbook Pro 2016 to the new <a href="http://amzn.to/2dIi1S1" rel="nofollow">LG 27 4K IPS (27UD68P) monitor</a> which has a USB-C connection.
@@ -49,8 +49,6 @@ As a monitor I am planning to connect my Macbook Pro 2016 to the new <a href="ht
 
 ## Conclusion
 There are several ways to transfer your files and work with them. The process described above is just my personal preference. You could also create a similar workflow with less expensive hard drives but the ones I mentioned in this article are currently my personal favorites even so they might be a bit expensive.
-
-The links on this site contain affiliate links. If you purchase thru the links you help support our blog. Here you can read on who we are.
 
 ---
 
@@ -69,5 +67,9 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "d995dd7aa02d336b4c22488be86b6355";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
+The links on this site contain affiliate links. If you purchase through the links you help support our blog. Here you can read on who we are.
 
 ---

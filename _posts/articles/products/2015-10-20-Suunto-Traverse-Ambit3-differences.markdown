@@ -12,8 +12,6 @@ layout: post
 
 Suunto has recently released it's latest GPS watch - the Suunto Traverse - which is especially interesting for those interested in hiking and backpacking. So what are the differences between the Suunto Ambit3 and the Suunto Traverse?
 
-**Note:** The links in this article contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
-
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
 amzn_assoc_search_bar = "true";
@@ -133,5 +131,9 @@ If you have an iPhone you could also get a Quad Lock Bike Mount Kit and attach i
 ---
 
 Need some more inspirations on how to use the Suunto Ambit or Suunto Traverse watch? Here is a [trip report](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/) from the Swedish mountains where I was wearing the old Suunto Ambit3 on a packrafting trip.
+
+---
+
+The links in this article contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
 
 ---

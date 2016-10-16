@@ -13,8 +13,6 @@ Recently, GoPro announced it's new GoPro Hero5 Black and it's GoPro Hero5 Sessio
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26814282730/in/dateposted-public/" title="GoPro Hero 5 Black Session iPhone7"><img src="https://c3.staticflickr.com/8/7270/26814282730_361f410d48_o.jpg" width="1200" height="797" alt="GoPro Hero5 Black Session iPhone7"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-**Note:** The links on this site contain affiliate links. If you purchase thru the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
-
 <!--more-->
 
 ## Waterproofness
@@ -57,5 +55,9 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "a188e5e0d670dce5eb148c0ba05f58f5";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
+The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
 
 ---
