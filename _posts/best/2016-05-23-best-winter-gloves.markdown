@@ -15,14 +15,40 @@ It always takes time to find the right product and everyone has a different tast
 
 # The best ski and snowboarding gloves for 2016
 
-| Comany| Model |
-| :------------- |:-------------:|
-| Outdoor Research | [Alti Mittens](http://www.backcountry.com/outdoor-research-alti-mitt-mens-odr0813) |
-| Hestra | [Army Leather Heli 3-Finger Glove](http://www.backcountry.com/hestra-heli-3-finger-glove) |
-| Mountain Hardwear | [Absolute Zero Mitten](http://www.backcountry.com/mountain-hardwear-absolute-zero-mitt) |
-| Canada Goose | [Down Mittens](http://www.backcountry.com/canada-goose-down-mitten-mens) |
-| Canada Goose | [Down Glove](http://www.backcountry.com/canada-goose-down-glove-mens) |
-| Black Diamond | [Black Diamond Patrol Gloves](http://www.backcountry.com/black-diamond-patrol-glove-bld3346) |
+
+<div class="table-responsive">
+
+      <table class="table table-hover table-bordered list_items">
+
+        <thead>
+             <tr>
+                <th>Gloves</th><th>Brand</th>
+             </tr>
+        </thead>
+
+        <tbody>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Outdoor+Research+Alti+Mittens" target="_blank">Alti Mittens</a></td><td>Outdoor Research</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#army+leather+heli+glove" target="_blank">Army Leather Heli Glove</a></td><td>Hestra</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#mountain+hardwear" target="_blank">Absolute Zero Mitten</a></td><td>Mountain Hardwear</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#canada+goose+down+mittens" target="_blank">Down Mittens</a></td><td>Canada Goose</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#canada+goose+down+glove" target="_blank">Down Glove</a></td><td>Canada Goose</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#black+diamond+patrol+glove" target="_blank">Patrol Glove</a></td><td>Black Diamond</td>
+        </tr>
+</tbody>
+</table>
+</div>
+
 
 ---
 
