@@ -11,15 +11,15 @@ layout: post
 
 Interested in Paddling and Whitewater packrafting courses in Europe? Here are a few [dates](http://www.outdooranimation.be/kalender-2017/).
 
-[Two Against Nature - Packrafting Suilven](http://www.songofthepaddle.co.uk/forum/showthread.php?52516-Two-Against-Nature-To-Suilven-and-Beyond)
+[Two Against Nature - Packrafting Suilven](http://www.songofthepaddle.co.uk/forum/showthread.php?52516-Two-Against-Nature-To-Suilven-and-Beyond).
 
-Injuring Eternity has been to the [Forsfest Carnage](https://injuringeternity.net/2016/10/11/forsfest-carnage/)
+Injuring Eternity has been to the [Forsfest Carnage](https://injuringeternity.net/2016/10/11/forsfest-carnage/).
 
-American Packrafting Association posted a video about the [Packrafting Round-Up 2016](https://vimeo.com/187153577)
+American Packrafting Association posted a video about the [Packrafting Round-Up 2016](https://vimeo.com/187153577).
 
-Here you can learn how to make a [DIY Hobo Stick Stove](https://www.youtube.com/watch?v=bbnxtiL9anQ&feature=youtu.be)
+Here you can learn how to make a [DIY Hobo Stick Stove](https://www.youtube.com/watch?v=bbnxtiL9anQ&feature=youtu.be).
 
-[Backpacking, canyoneering, packrafting trip in a remote part of the Grand Canyon](https://www.youtube.com/watch?v=nQUnF-XjVbU)
+A video about a [Backpacking, canyoneering, packrafting trip in a remote part of the Grand Canyon](https://www.youtube.com/watch?v=nQUnF-XjVbU).
 
 ---
 
