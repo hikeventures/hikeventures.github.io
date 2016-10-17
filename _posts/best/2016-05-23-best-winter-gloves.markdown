@@ -15,7 +15,6 @@ It always takes time to find the right product and everyone has a different tast
 
 # The best ski and snowboarding gloves for 2016
 
-
 <div class="table-responsive">
 
       <table class="table table-hover table-bordered list_items">
