@@ -215,23 +215,6 @@ The Hyperlite Mountain Gear UltaMid 2 is an ultralight tent designed if you want
 
 ---
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "true";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Search Results from Amazon";
-amzn_assoc_default_search_phrase = "tent msr";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "965296fb866182bb89b535202541adda";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
----
-
 # How to choose a tent?
 
 ## Do I need a tent footprint when I go camping?
@@ -284,4 +267,21 @@ In my opinion the [MSR Hubba Hubba NX](http://www.backcountry.com/msr-hubba-hubb
 
 If you do winter camping then it's probably a good idea to get an even bigger tent like the [Hilleberg Kaitum](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Kaitum-2-Person-Tent_10101437_10208_10000001_-1_) or [Nammatj](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Nammatj-GT-2-Person-Tent_10101469_10208_10000001_-1_).
 
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "true";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Search Results from Amazon";
+amzn_assoc_default_search_phrase = "tent msr";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "965296fb866182bb89b535202541adda";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 ---

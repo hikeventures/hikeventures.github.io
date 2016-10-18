@@ -175,24 +175,6 @@ New sleeping pads usually come with a field repair kit. However, sometimes you m
 
 ---
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Search Results from Amazon";
-amzn_assoc_default_search_phrase = "sleeping pad therm-a-rest";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "965296fb866182bb89b535202541adda";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
----
-
 # How to choose the best sleeping pad?
 
 * Weight (do you want an ultralight sleeping pad?)
@@ -412,5 +394,23 @@ There is no weight limit on sleeping pads. You have to decide yourself how much 
 So which is the best sleeping pad for 2016? I found my Therm-a-Rest NeoAir XTherm more comfortable than my EXPED SYNMAT UL 7 M and it insulates more while being lighter. I found the Therm-a-rest more comfortable because of it's surface pattern. I just don't get along with those vertically grooves on the EXPED. I also found that the Therm-a-rest is more stable to sleep on. Having said that, it's still possible to sleep on the EXPED depending on your own preference. Below the surface of the EXPED Synmat UL 7 M compared to the Therm-a-Rest NeoAir XTherm.
 
 However, the Therm-a-Rest NeoAir XTherm is a bit more expensive than the SYNMAT UL 7 M. What I like on the SYNMAT is that it is easy to inflate and deflate. For the Therm-a-rest it took me a little bit longer because of the smaller valve compared to the EXPED. Since I found the Therm-a-Rest NeoAir XTherm a reference model for cold temperatures, I didn't include any other sleeping pads which are more heavy except the Therm-a-Rest EvoLite since it is a self-inflating pad for the warmer months. If I would go on a trip then my preference would go towards the Therm-a-rest XTherm - which is the best sleeping pad in my opinion. In very cold conditions I would combine the Therm-a-Rest XTherm with the Therm-a-Rest Z Sol. I hope you that this article helps you to pick your best sleeping pad in 2016.
+
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Search Results from Amazon";
+amzn_assoc_default_search_phrase = "sleeping pad therm-a-rest";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "965296fb866182bb89b535202541adda";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
