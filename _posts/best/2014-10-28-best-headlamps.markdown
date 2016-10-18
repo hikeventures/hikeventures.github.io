@@ -77,11 +77,6 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
 Konstantin wearing a Petzl Nao on the top of a fell in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Trip in Lapland")
 
-
----
-
-However, for hikes during the summer you can also take a very simple and light headlamp rather the Petzl Nao Plus. However, it's easier to navigate with a stronger headlamp (e.g. in the forest) as you can see further.
-
 ---
 
 # [Petzl Nao Plus](http://amzn.to/2d29ys9)
