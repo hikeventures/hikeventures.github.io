@@ -17,7 +17,7 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
 <div class="table-responsive">
 
-      <table class="table table-hover table-bordered list_items">
+      <table class="table table-hover table-bordered list_items_2">
 
         <thead>
              <tr>
