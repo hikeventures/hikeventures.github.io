@@ -9,7 +9,7 @@ tags:
   - lamps
 layout: post
 ---
-A good lightweight headlamp is an essential part for many outdoor activities likes hiking, running, cycling, packrafting, ski touring or climbing or any other backcountry trip.
+Planning a winter trip in the North or just need a headlamp for the night? A good lightweight headlamp is an essential part for many outdoor activities likes hiking, running, cycling, packrafting, ski touring or climbing or any other backcountry trip. It can be a life saver and should always be in your backpack.
 
 Personally, I like the Petzl Nao Plus most since it has plenty of features and also offers the Petzl Nao Belt Kit which allows me to carry the battery under the jacket rather than on my head which can shorten the beattery life especially when wearing in [colder regions](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/). I have also used the previous model of the Nao in [Swedish Lapland](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Swedish Lapland").
 

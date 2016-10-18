@@ -9,9 +9,9 @@ tags:
   - stoves
 layout: post
 ---
-A portable and lightweight camping stove is one of the most essential item to have on your adventures to boil water for tea, coffee or dehydrated meals. Here comes my buying guide with the best lightweight camping stoves in 2016 for your next hiking, backpacking, packrafting, mountaineering or any other backcountry trip.
+Planning an outdoor adventure and still searching for the right camping stove? A portable and lightweight camping stove is one of the most essential item to have on your adventures to boil water for tea, coffee or dehydrated meals. Here comes my buying guide with the best lightweight camping stoves which I have selected for 2016. They can be used for hiking, backpacking, packrafting, mountaineering or any other backcountry trip.
 
-It's also a good idea to have a <a href="http://amzn.to/22kZs72" rel="nofollo">Light My Fire Swedish FireSteel</a> with you even so the stove offers an igniter as there is a possibility that the igniter may break during your trip.
+You probably take matches with you to ignite your stove. As an alternative, I found the <a href="http://amzn.to/22kZs72" rel="nofollo">Light My Fire Swedish FireSteel</a> quite useful and it does not really matter if it get's wet. It will still work. It might be not that easy to ignite the stove but it's more reliable and I always take my Swedish FireSteel with me together with matches.
 
 We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we are not able to test every product, we follow the market quite closely and compare the specifications of new products as you can see in the list below. The links on this site contain affiliate links.
 

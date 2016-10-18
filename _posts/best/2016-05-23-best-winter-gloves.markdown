@@ -9,7 +9,7 @@ tags:
   - gloves
   - best
 ---
-For my next snowshoeing trip in Lapland I was looking for a new pair of gloves or mittens to replace my old gloves. Here is my buying guide for 2016 where I selected the best (my favourite) gloves suitable for skiing, snowboarding or snowshoeing.
+For my next snowshoeing trip in Lapland I was looking for a new pair of gloves or mittens to replace my old gloves. Here are the best winter gloves which I would consider to buy in 2016 for skiing, snowboarding or snowshoeing.
 
 We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we are not able to test every product, we follow the market quite closely and compare the specifications of new products as you can see in the list below. The links on this site contain affiliate links.
 

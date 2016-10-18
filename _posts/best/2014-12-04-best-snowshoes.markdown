@@ -9,7 +9,7 @@ tags:
   - snowshoeing
 layout: post
 ---
-Here is my buying guide for the best snowshoes for 2016. Snowshoes are quite interesting if you are planning to ascent a mountain, walk in powder snow or do any other winter backcountry trips. Snowshoeing is easy to learn and not that expensive. Also consider to get a pair of [snowshoe poles](http://www.hikeventures.com/best-trekking-and-snowshoeing-poles/ "trekking and snowshoeing poles") for your snowshoeing trips as they will help you a lot on your snowshoeing adventure.
+We have been snowshoing in Finnish Lapland and in the Austrian Alps last year and we decided to come up with a list with the best snowshoes for 2016 which we would consider to buy and share it with you. Snowshoes are quite useful if you are planning to ascent a mountain or walk in powder snow. Snowshoeing is easy to learn and not that expensive. Also consider to get a pair of [snowshoe poles](http://www.hikeventures.com/best-trekking-and-snowshoeing-poles/ "trekking and snowshoeing poles") for your snowshoeing trips as they will help you a lot on your snowshoeing adventure.
 
 We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we are not able to test every product, we follow the market quite closely and compare the specifications of new products as you can see in the list below. The links on this site contain affiliate links.
 
