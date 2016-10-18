@@ -9,7 +9,11 @@ tags:
   - articles
 layout: post
 ---
-Trekking and snowshoeing poles are especially useful if you have to walk up or down a hill or a mountain or if you have to walk in deep powder snow. You could also use those poles for Nordic Walking in your neighbourhood. In this article you can find the best trekking and snowshoeing poles for 2016 which I would consider to buy. The poles are sorted by their weight and not by their performance.
+Trekking and snowshoeing poles are especially useful if you have to walk up or down a hill or a mountain or if you have to walk in deep powder snow. You could also use those poles for Nordic Walking in your neighbourhood. In this article you can find the best trekking and snowshoeing poles for 2016 which I would consider to buy.
+
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and we always [keep an eye on the market](http://www.hikeventures.com/ISPO-2016-interviews/) for better products which we could possibly take on our trips in the future. The links on this site contain affiliate links and the snowshoeing and trekking poles below would be our choice if we were to buy new snowshoeing or trekking poles.
+
+
 
 ---
 
@@ -47,17 +51,14 @@ Trekking and snowshoeing poles are especially useful if you have to walk up or d
 </tbody>
 </table>
 </div>
-
+<!--more-->
 
 <a href="https://www.flickr.com/photos/90204224@N07/18240641010" title="Best trekking and snowshoeing poles 2016"><img src="https://c4.staticflickr.com/8/7780/18240641010_a4f51acf96_o.jpg" width="992" height="659" alt="The best snowshoeing and trekking poles of 2016 / 2017 - Snowshoeing in Finnish Lapland"></a>
 
-<!--more-->
 
 Patrick snowshoeing in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Finnish Lapland").
 
 Currently, I am using the Black Diamond Ultra Distance Z-Poles which are not made for snowshoeing as it's not possible to add snow baskets on those trekking poles. However, I have also used them on our snowshoeing trip in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Finnish Lapland") - Urho Kekkonen National Park - where I realised that snow baskets might be quite useful. For 3-season trips however they are great. You can see my trekking poles in action in our trip in [Swedish Lapland (Sarek National Park)](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Swedish Lapland"). Most recently, I have added a pair of dedicated snowshoe poles to my gear - the MSR Deploy TR-2 - which I have already tested in the [Austrian Alps](http://www.hikeventures.com/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/).
-
-We have not tested all the poles in this article but those are our favourites if we were to buy a new poles. The links on this site contain affiliate links. If you purchase thru the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read who we are.
 
 ---
 

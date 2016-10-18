@@ -71,13 +71,12 @@ Proper hiking boots are important if you are planning to hike in the mountains o
 </tbody>
 </table>
 </div>
+<!--more-->
 
 ---
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27313686292/in/dateposted-public/" title="Lundhags Jaure Light"><img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="100%" alt="The best Hiking Boots 2016 - Lundhags Jaure Light"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
 
-
-<!--more-->
 
 ---
 

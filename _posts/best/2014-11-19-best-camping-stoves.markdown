@@ -11,6 +11,8 @@ layout: post
 ---
 A portable and lightweight camping stove is one of the most essential item to have on your adventures to boil water for tea, coffee or dehydrated meals. Here comes my buying guide with the best lightweight camping stoves in 2016 for your next hiking, backpacking, packrafting, mountaineering or any other backcountry trip. The stoves in this guide are sorted by their weight. Also it's a good idea to have a <a href="http://amzn.to/22kZs72" rel="nofollo">Light My Fire Swedish FireSteel</a> with you even so the stove offers an igniter as there is a possibility that the igniter may break during your trip.
 
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and we always [keep an eye on the market](http://www.hikeventures.com/ISPO-2016-interviews/) for better products which we could possibly take on our trips in the future. The links on this site contain affiliate links and the camping stoves below would be our choice if we were to buy a new camping stove.
+
 ---
 
 # The best camping stoves for 2016
@@ -55,7 +57,7 @@ A portable and lightweight camping stove is one of the most essential item to ha
 
 <!--more-->
 
-I would also pack <a href="http://amzn.to/22kZs72" rel="nofollo">Swedish FireSteel</a> into my backpack rather than matches. Matches can get wet but with the <a href="http://amzn.to/22kZs72" rel="nofollo">Swedish FireSteel</a> you don't have to worry about that. Just make sure that you know how to use the <a href="http://amzn.to/22kZs72" rel="nofollo">Light My Fire Swedish FireSteel</a> before you set out to the backcountry. We have not tested all the camping stoves in this article but those are our favourites if we were to buy a new camping stove. The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
+I would also pack <a href="http://amzn.to/22kZs72" rel="nofollo">Swedish FireSteel</a> into my backpack rather than matches. Matches can get wet but with the <a href="http://amzn.to/22kZs72" rel="nofollo">Swedish FireSteel</a> you don't have to worry about that. Just make sure that you know how to use the <a href="http://amzn.to/22kZs72" rel="nofollo">Light My Fire Swedish FireSteel</a> before you set out to the backcountry.
 
 
 ---

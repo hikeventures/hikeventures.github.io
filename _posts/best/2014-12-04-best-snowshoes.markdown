@@ -9,7 +9,9 @@ tags:
   - snowshoeing
 layout: post
 ---
-Here is my buying guide for the best snowshoes for 2016 sorted by weight. Snowshoes are quite interesting if you are planning to ascent a mountain, walk in powder snow or do any other winter backcountry trips. Snowshoeing is easy to learn and not that expensive. Also consider to get a pair of [snowshoe poles](http://www.hikeventures.com/best-trekking-and-snowshoeing-poles/ "trekking and snowshoeing poles") for your snowshoeing trips as they will help you a lot on your snowshoeing adventure.
+Here is my buying guide for the best snowshoes for 2016. Snowshoes are quite interesting if you are planning to ascent a mountain, walk in powder snow or do any other winter backcountry trips. Snowshoeing is easy to learn and not that expensive. Also consider to get a pair of [snowshoe poles](http://www.hikeventures.com/best-trekking-and-snowshoeing-poles/ "trekking and snowshoeing poles") for your snowshoeing trips as they will help you a lot on your snowshoeing adventure.
+
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and we always [keep an eye on the market](http://www.hikeventures.com/ISPO-2016-interviews/) for better products which we could possibly take on our trips in the future. The links on this site contain affiliate links and the snowshoes below would be our choice if we were to buy new snowshoes.
 
 ---
 
@@ -48,10 +50,7 @@ Here is my buying guide for the best snowshoes for 2016 sorted by weight. Snowsh
 </tbody>
 </table>
 </div>
-
----
-
-We have not tested every snowshoes in this article but those are our favorites if we were to buy new snowshoes. The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
+<!--more-->
 
 ---
 
@@ -60,7 +59,6 @@ We have not tested every snowshoes in this article but those are our favorites i
 
 On the picture you can see me walking with my Tubbs Xpedition snowshoes in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Snowshoeing in Urho Kekkonen National Park").
 
-<!--more-->
 
 ---
 

@@ -13,6 +13,8 @@ For my next snowshoeing trip in Lapland I was looking for a new pair of gloves o
 
 It always takes time to find the right product and everyone has a different taste on features or design so I decided to come up with a list of winter gloves / mittens from different brands which received good recommendations.
 
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and we always [keep an eye on the market](http://www.hikeventures.com/ISPO-2016-interviews/) for better products which we could possibly take on our trips in the future. The links on this site contain affiliate links and the winter gloves below would be our choice if we were to buy new gloves for our next winter adventure.
+
 # The best ski and snowboarding gloves for 2016
 
 <div class="table-responsive">
@@ -49,9 +51,10 @@ It always takes time to find the right product and everyone has a different tast
 </div>
 
 
+<!--more-->
+
 ---
 
-<!--more-->
 
 ## Gloves or Mittens?
 Gloves give you more dexterity (that's the magic selling word in the world of goves manufactures) than mittens. However, mittens keep your fingers warmer than gloves.

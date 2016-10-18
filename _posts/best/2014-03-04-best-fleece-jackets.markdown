@@ -9,7 +9,9 @@ tags:
   - jackets
 layout: post
 ---
-A fleece jacket is a great garment which can be used as a mid-layer to keep you warm while you are active (climbing, hiking, skiing or biking) and here comes our buying guide of the best fleece jackets for men in 2016.
+A fleece jacket can be used as a mid-layer to keep you warm while you are active (climbing, hiking, skiing or biking) and dries rather fast. For wet conditions a fleece jacket is a better choice than a down jacket to protect yourself against the cold.
+
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and we always [keep an eye on the market](http://www.hikeventures.com/ISPO-2016-interviews/) for better products which we could possibly take on our trips in the future. The links on this site contain affiliate links and the fleece jackets below would be our choice if we were to buy a new fleece jacket.
 
 ---
 
@@ -22,17 +24,14 @@ A fleece jacket is a great garment which can be used as a mid-layer to keep you 
 | [Rab Micro Pull-on](http://www.hikeventures.com/deals/#micro+pull+on)     | 0.52 lb / 238 g |
 | [Arcteryx Delta LT Zip Neck](http://www.hikeventures.com/deals/#Arcteryx+delta+lt+zip) |  0.53 lb / 240 g |
 
----
 
-We have not tested the fleece jackets in this article but those are our favourites if we were to buy a new fleece jacket. The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
+<!--more-->
 
 ---
 
 ![](https://c2.staticflickr.com/8/7392/9596207069_e56577d034_o.jpg "Best Wind Jackets 2016")
 
 While [Packrafting in Sarek](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Packrafting in Sarek") Patrick was always wearing a fleece during the day.
-
-<!--more-->
 
 ---
 

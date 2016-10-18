@@ -12,6 +12,8 @@ layout: post
 
 A satellite messenger, GPS Tracker or a Personal Locator Beacon should be with you on your hiking, backpacking, packrafting or kayaking trip if you are planning to go to areas where you don't have any phone reception. In case of an accident you won't be able to call for help without a satellite messenger. Here is my list of the best satellite messengers and personal locator beacons for 2016.
 
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and we always [keep an eye on the market](http://www.hikeventures.com/ISPO-2016-interviews/) for better products which we could possibly take on our trips in the future. The links on this site contain affiliate links and the satellite messenger below would be our choice if we were to buy a new satellite messenger.
+
 ---
 
 # The best satellite gps messengers for 2016
@@ -40,7 +42,7 @@ A satellite messenger, GPS Tracker or a Personal Locator Beacon should be with y
       </tbody>
       </table>
   </div>
-
+<!--more-->
 
 ---
 
@@ -48,11 +50,9 @@ A satellite messenger, GPS Tracker or a Personal Locator Beacon should be with y
 
 Me hiking in the Sarek National Park in Sweden - also considered as one of the last wilderness areas in Europe
 
-<!--more-->
+
 
 ---
-
-I have not tested all devices in this article but those are our favourites if I were to buy a new one. The links on this site contain affiliate links. If you purchase thru the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
 
 With a Satellite Messenger you can also inform your family and friends about your current location and that everything is fine with you so they don't have to worry. Here an example: I have been once to the [Sarek National park](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Sarek National Park") in Sweden where I didn't have phone reception and on this trip I decided that we will definitely take a satellite messenger with me if I would ever go there again in the future. It can take up to 2-3 days to get out of the National Park and in case of an emergency it might be quite hard to find help as you may only see 2 other hikers a day if at all.
 

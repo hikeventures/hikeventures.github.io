@@ -14,6 +14,8 @@ Are you looking for a new tent and want to know which one is the best solo backp
 
 I would like to give an overview about the best solo backpacking tents available for 2016. It's important to know that each tent is made for a specific purpose so there is no one tent fits all tent. Some also prefer to sleep in a tarp rather than in a tent. However, I will not include any tarps in this article.
 
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and we always [keep an eye on the market](http://www.hikeventures.com/ISPO-2016-interviews/) for better tents which we could possibly take on our trips in the future. The links on this site contain affiliate links and the tents below would be our choice if we were to buy a new tent.
+
 <hr>
 
 <h1>The best solo tents for 2016</h1>
@@ -58,21 +60,16 @@ I would like to give an overview about the best solo backpacking tents available
 </tbody>
 </table>
 </div>
-
+<!--more-->
 <hr>
 
 Further, it's also worth to consider that a 1-person tent can be more heavy than a 2-person tent if you would distribute the weight of the 2-person tent over 2 persons. So hiking with another person can make you carry less weight.
-
-We have not tested all the tents in this article but those are our favourites if we were to buy a new tent. The links on this site contain affiliate links. If you purchase thru the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read who we are.
-
 
 <hr>
 
 <img src="https://c2.staticflickr.com/6/5600/15455033882_22ac28bbe8_b.jpg" width="100%" alt="Best Solo 1-person backpacking tent of 2016 / 2017">
 
 A Hilleberg Nallo in the back and a Hilleberg Anjan in the front.
-
-<!--more-->
 
 <hr>
 

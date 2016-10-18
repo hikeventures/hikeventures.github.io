@@ -9,7 +9,9 @@ tags:
   - jackets
 layout: post
 ---
-To protect yourself agains cold winds on the trail you should pack a lightweight wind jacket into your backpack when you go hiking, backpacking, climbing, cycling, running or plan any other backcountry trip. A windbreaker does not need much space so you can easily store it in your backpack. Also make sure that you buy a hooded wind jacket and not a wind pullover. Here is my buying guide of the best wind jackets in 2016.
+To protect yourself agains cold winds on the trail you should pack a lightweight wind jacket into your backpack when you go hiking, backpacking, climbing, cycling, running or plan any other backcountry trip. A windbreaker does not need much space so you can easily store it in your backpack. Also make sure that you buy a hooded wind jacket and not a wind pullover.
+
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and we always [keep an eye on the market](http://www.hikeventures.com/ISPO-2016-interviews/) for better products which we could possibly take on our trips in the future. The links on this site contain affiliate links and the wind jackets below would be our choice if we were to buy a new wind jacket.
 
 <hr>
 
@@ -39,19 +41,13 @@ To protect yourself agains cold winds on the trail you should pack a lightweight
         </tbody>
 </table>
 </div>
-
-<hr>
-
-We have not tested every wind jacket in this article but those are our favourites if we were to buy a new wind jacket. The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
-
-
+<!--mmore-->
 <hr>
 
 ![](https://c2.staticflickr.com/8/7385/9599027418_a38b42401e_o.jpg "Best Wind Jackets 2016")
 
 Patrick hiking in [Sarek National Park](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Best Wind Jackets 2016") in Sweden wearing an [Arcteryx Squamish Hoody](http://hikeventures.com/gear-review-arcteryx-squamish-hoody/ "Arcteryx Squamish Hoody") wind jacket.
 
-<!--more-->
 
 <hr>
 

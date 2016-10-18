@@ -13,6 +13,8 @@ Here is my buying guide of the best men rain jackets for 2016. The rain jackets 
 
 You might want to wear your waterproof jacket only occasionally e.g. if it starts raining or if it gets very windy but you will appreciate to stay dry and warm on the trail or if you perform any other outdoor activities in the long run.  Also consider taking lightweight waterproof [rain pants](http://www.hikeventures.com/best-rain-pants/ "Best Rain Pants 2016") with you.
 
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and we always [keep an eye on the market](http://www.hikeventures.com/ISPO-2016-interviews/) for better products which we could possibly take on our trips in the future. The links on this site contain affiliate links and the rain jackets below would be our choice if we were to buy a new rain jacket.
+
 ---
 
 # The best rain jackets 2016
@@ -54,11 +56,7 @@ You might want to wear your waterproof jacket only occasionally e.g. if it start
 </tbody>
 </table>
 </div>
-
----
-
-We have not tested all the rain jackets in this article but those are our favourites if we were to buy a new rain jacket. The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
-
+<!--more-->
 ---
 
 ![](https://c2.staticflickr.com/4/3715/9606341414_1446e73767_o.jpg "Best Rain Jackets in 2016")
@@ -66,7 +64,7 @@ We have not tested all the rain jackets in this article but those are our favour
 Konstantin wearing the [Montane Minimus Jacket](http://www.backcountry.com/montane-minimus-jacket-mens) on our [trip](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Rain Jacket in Sarek Nationak Park") in the Sarek National Park in Sweden - also considered of being one of the last wilderness areas in Europe.
 
 
-<!--more-->
+
 
 <hr>
 

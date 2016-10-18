@@ -10,7 +10,9 @@ tags:
 layout: post
 ---
 
-Planning to go hiking or backpacking or any other backcountry adventure? Then you should consider to pack lightweight rain pants in into your backpack and here is our buying guide of the best men rain pants for 2016. If the weather turns nasty you will be happy to have rain gear to stay dry and warm on the trail. The models which we have selected are rain pants for men. We have not tested those rain pants ourselves but we compared their specifications. The rain pants are sorted according to their weight.
+Planning to go hiking or backpacking or any other backcountry adventure? Then you should consider to pack lightweight rain pants in into your backpack to stay dry and warm on the trail when the weather turns bad.
+
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and we always [keep an eye on the market](http://www.hikeventures.com/ISPO-2016-interviews/) for better products which we could possibly take on our trips in the future. The links on this site contain affiliate links and the rain pants below would be our choice if we were to buy new rain pants.
 
 ---
 
@@ -51,16 +53,14 @@ Planning to go hiking or backpacking or any other backcountry adventure? Then yo
 </tbody>
 </table>
 </div>
+<!--more-->
 
-<hr>
-The links on this site contain affiliate links. If you purchase thru the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
 <hr>
 
 <a href="https://www.flickr.com/photos/90204224@N07/9598980244" title="Montane Minimus Pants"><img src="https://farm4.staticflickr.com/3767/9598980244_fccc7cd8c6_b.jpg" width="1024" height="683" alt="Montane Minimus Pants"></a>
 
 Wearing the [Montane Minimus Pants](http://www.campsaver.com/minimus-pants-men-s) rain pants on our hiking and packrafting trip in [Sarek National Park](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) in Sweden.
 
-<!--more-->
 
 <hr>
 

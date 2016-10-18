@@ -18,7 +18,8 @@ If you are planning to do whitewater packrafting or kayaking then you should pro
 * Is the helmet lightweight so it feels comfortable to wear it for a longer period?
 * Do you need ear protection?
 
-Here you can find [one of our trips](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/) in Sweden where we were wearing helmets.
+Here you can find [one of our trips](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/) in Sweden where we were wearing helmets. We have not tested all the helmets in this article but those are our favorites if we were to buy a new one. The links on this site contain afiliate links.
+
 
 <hr>
 
@@ -53,14 +54,12 @@ Here you can find [one of our trips](http://www.hikeventures.com/Swedish-Packraf
 </tbody>
 </table>
 </div>
-
+<!--more-->
 <hr>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/14281650547/in/photolist-o1sHd9-nL1pNj-nL2jzi-nL2c9g-o5h1EP-nKYQwD-o3abCZ-o5eCPi-nKXNaZ-o3mqEN-o1pT3W-o3a4ZZ-nKXHCH-o3mhXy-fBZaMc-fBZ3ND-fe5yWu-fbDJTN-eiqbb6-ATS9vT-fa8gei-fanvNS-fa8fXP-fanujW-fa8fjR-fanuP5-fanuam-ecnxxQ-ecgUtr-ecgUrk-ecnxEY-ecgUza-ecgUDe-eZHHyS-eZwkQe-eZwn1x-eZwmzH-eZwnjz-f9khAR-ecgULp-ecgUH4-ecny25-eZHKmd-ecgUPV-fdRbUD-ecgUZp-fdQg5n-fbptrD-fe5yih-ecny5G" title="Packrafting Emån River"><img src="https://c4.staticflickr.com/4/3907/14281650547_9a4ceebb99_h.jpg" width="1600" height="1068" alt="Packrafting Emån River"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<!--more-->
 
-We have not tested all the helmets in this article but those are our favorites if we were to buy a new one. The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read who we are.
 
 ---
 

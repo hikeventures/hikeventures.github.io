@@ -11,6 +11,8 @@ layout: post
 ---
 If you are into ultralight hiking then you are probably also interested into my buying guide for the best light summer hiking shoes for 2016. If you are coming from traditional hiking boots then you may notice that lightweight trail shoes can save you a lot of weight.
 
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and we always [keep an eye on the market](http://www.hikeventures.com/ISPO-2016-interviews/) for better products which we could possibly take on our trips in the future. The links on this site contain affiliate links.
+
 ---
 
 # The best ultralight hiking shoes
@@ -44,12 +46,11 @@ If you are into ultralight hiking then you are probably also interested into my 
 </tbody>
 </table>
 </div>
-
+<!--more-->
 ---
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15189713140/in/album-72157646473352583/" title="Kurjenrahka National Park"><img src="https://c5.staticflickr.com/3/2942/15189713140_cf23bd9412_b.jpg" width="100%" alt="The best ultralight hiking shoes 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<!--more-->
 
 ---
 
@@ -160,6 +161,3 @@ amzn_assoc_linkid = "0d18f88262f19f39fc7a13f07ae2563b";
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
-
-# Disclosure
-The products in this article have not been tested by us. This page contains affiliate links. Read more [here](http://www.hikeventures.com/about/).
