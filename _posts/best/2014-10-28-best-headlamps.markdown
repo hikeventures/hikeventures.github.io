@@ -338,11 +338,6 @@ Some headlamps offer a red light mode. Red light is quite useful if you don't wa
 
 ---
 
-## Headlamp Strap
-The headlamp strap is usually adjustable.
-
----
-
 ## What is the spotlight of a headlamp?
 The spotlight of a headlamp refers to the point of visible light. The spotlight can be wide or centred.
 
