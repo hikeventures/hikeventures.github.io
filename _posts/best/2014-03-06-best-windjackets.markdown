@@ -11,7 +11,7 @@ layout: post
 ---
 To protect yourself agains cold winds on the trail you should pack a lightweight wind jacket into your backpack when you go hiking, backpacking, climbing, cycling, running or plan any other backcountry trip. A windbreaker does not need much space so you can easily store it in your backpack. Also make sure that you buy a wind jacket with a hoodie.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and we always [keep an eye on the market](http://www.hikeventures.com/ISPO-2016-interviews/) for better products which we could possibly take on our trips in the future. The links on this site contain affiliate links.
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we are not able to test every product, we follow the market quite closely and compare the specifications of new products as you can see in the list below. The links on this site contain affiliate links.
 
 <hr>
 
