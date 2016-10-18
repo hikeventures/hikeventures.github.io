@@ -22,19 +22,19 @@ table.list_items tr th:last-child {
 
 table.list_items_2 tr td:first-child {
 
-  width: 70% !important;
+  width: 60% !important;
 }
 table.list_items_2 tr td:last-child {
 
-  width: 30% !important;
+  width: 40% !important;
 }
 table.list_items_2 tr th:first-child {
 
-   width: 70% !important;
+   width: 60% !important;
 }
 table.list_items_2 tr th:last-child {
 
-  width: 30% !important;
+  width: 40% !important;
 }
 
 

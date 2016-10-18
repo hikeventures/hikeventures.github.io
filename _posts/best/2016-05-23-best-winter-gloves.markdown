@@ -13,6 +13,8 @@ For my next snowshoeing trip in Lapland I was looking for a new pair of gloves o
 
 We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we are not able to test every product, we follow the market quite closely and compare the specifications of new products as you can see in the list below. The links on this site contain affiliate links.
 
+---
+
 # The best ski and snowboarding gloves for 2016
 
 <div class="table-responsive">
@@ -62,24 +64,6 @@ Gloves and mittens allow you to layer. Layering is an important aspect for every
 There is also an option from Hestra available - the [Hestra Army Leather Heli 3-Finger Glove](http://www.backcountry.com/hestra-heli-3-finger-glove "Hestra Army Leather Heli 3-Finger Glove") - which sits in between mitts and gloves are probably also a good option for example if you need to handle a camera. This model is my favourite model of all gloves in this list.
 
 However, you can also just take your main gloves off and operate your camera by just wearing the liner gloves. Once you have taken your picture you just put your main gloves back over the merino liner gloves.  
-
----
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Winter Gloves Suggestions";
-amzn_assoc_default_search_phrase = "hestra army leather heli";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "ec4b1ecaff9224e05d5eb9b30680ad1a";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
 
@@ -175,5 +159,20 @@ My personal preference goes towards the [Hestra Army Leather Heli 3-Finger Glove
 
 ---
 
-# Disclosure
-The products in this article have not been tested by us. This page contains affiliate links. Read more [here](http://www.hikeventures.com/about/).
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Winter Gloves Suggestions";
+amzn_assoc_default_search_phrase = "hestra army leather heli";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "ec4b1ecaff9224e05d5eb9b30680ad1a";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
