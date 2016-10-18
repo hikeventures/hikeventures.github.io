@@ -11,6 +11,9 @@ tags:
 ---
 As we are frequently on packrafting trips we are of course always looking for new packrafting gear like a PFD (personal floating device) or life jacket. Here comes our selection of the best PFDs.
 
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and we always [keep an eye on the market](http://www.hikeventures.com/ISPO-2016-interviews/) for better products which we could possibly take on our trips in the future. The links on this site contain affiliate links.
+
+
 <hr>
 
 # The best PFDs / life jackets for packrafting
@@ -48,8 +51,6 @@ As we are frequently on packrafting trips we are of course always looking for ne
 <hr>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26814282560/in/photolist-GRud1y-GRud2f-HdLXe5-GXhAVa-H1kVQW-H1kVFN-H1kVZo-H1zXZH-GcfJST-GcfLdt-H1zXXZ-H4Gfns-Gc8XtE-Gc8Xp1-Gc8Xjm-HaFrzP-GRud7L-HaFrBx-Gc8WNG-HnoFdC-HjfVzn-GRud4u-H7Dj8R-GRudb3-Gc8XbL-H7Dj4x-Gc8X5y-H7DiZK-H7DiVM-Gc8WYw-H4GeQA-H7DiSk-H7DiNc-GcfKKp-Gc8WBj-H7DiKr-GGsxE1-GcfKhk-H1zXxF-GcfKsk-GcfKj4-Gc8Weq-H4Gdkb-HnoEX7-GaxJKr-H5RYDr-GajbUD-GXb3Qv-H2KqTT-GBfK6G" title="Swedish Packrafting Round-Up"><img src="https://c1.staticflickr.com/8/7682/26814282560_a47eb37791_o.jpg" width="100%" alt="The best PFD Life Jackets for packrafting"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
 
 
 # How to choose the best PFD?
