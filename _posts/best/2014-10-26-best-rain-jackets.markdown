@@ -148,24 +148,6 @@ The Zeta LT Jacket would be my favourite choice if I would select a new waterpro
 
 ---
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "bottom";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Amazon Search Results";
-amzn_assoc_default_search_phrase = "Arcteryx rain jacket";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
----
-
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9599019542/in/photolist-fCeu5W-fBZ9Pa-fCewCu-fCeuVs-fBZ6JB-fBZ5re-fBZaMc-fCewQ3-fBZbjB-fBZapV-fBZ4QB-fBZ7rH-fCeqR1-fCetpG-fBZcd4-fBZ7U8-fCescG-fCeoTj-fCeso7-fBZ5CR-fCeugy-fBZ4Fk-fCerZw-fCemGh-eixRoh-eis7oH-fBZ3ND-fCerDj-fBZd5R-fCeta7-fCevtj-fBZc4Z-fCevFQ-fCemih-fBZ4gV-fBZ5VP-fCeqcS-fBZ3mc-fCesMw-fBZ8hP-fCeped-fBZcNa-fBZbAg-fCesyW-fCeoi5-fBZ6UV-fBZ7fZ-fCepBj-fCed8L-fBYSLc" title="Filtering Water with Katadyn in Sarek"><img src="https://c7.staticflickr.com/8/7459/9599019542_097779e2ae_b.jpg" width="1024" height="683" alt="Best Rain Jackets in 2016 - Filtering Water with Katadyn in Sarek with a Montane Minimus Jacket"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Patrick filtering water with the [Katadyn Mini](http://www.backcountry.com/katadyn-mini-ceramic-microfilter) and wearing the [Montane Minimus Jacket](http://www.backcountry.com/montane-minimus-jacket-mens) on our [trip](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Rain Jacket in Sarek Nationak Park") in the Sarek National Park in Sweden.
@@ -188,5 +170,23 @@ If you plan a hiking trip then I would recommend you to wear a [wind jacket](htt
 If you are looking for a rain jacket for your next hiking trip then you should consider to get a lightweight rain jacket as you will probably have your rain jacket most of the time in your backpack (depending on the weather). I had good experience with the [Montane Minimus Jacket](http://www.backcountry.com/montane-minimus-jacket-mens) on the trail.
 
 I hope you found this article useful to find your rain jacket in 2016.
+
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "bottom";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Amazon Search Results";
+amzn_assoc_default_search_phrase = "Arcteryx rain jacket";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
