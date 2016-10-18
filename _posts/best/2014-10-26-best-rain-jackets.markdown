@@ -169,8 +169,6 @@ If you plan a hiking trip then I would recommend you to wear a [wind jacket](htt
 
 If you are looking for a rain jacket for your next hiking trip then you should consider to get a lightweight rain jacket as you will probably have your rain jacket most of the time in your backpack (depending on the weather). I had good experience with the [Montane Minimus Jacket](http://www.backcountry.com/montane-minimus-jacket-mens) on the trail.
 
-I hope you found this article useful to find your rain jacket in 2016.
-
 ---
 
 <script type="text/javascript">
