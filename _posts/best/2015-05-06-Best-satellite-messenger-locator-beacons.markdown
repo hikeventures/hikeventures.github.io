@@ -12,7 +12,7 @@ layout: post
 
 A satellite messenger, GPS Tracker or a Personal Locator Beacon should be with you on your hiking, backpacking, packrafting or kayaking trip if you are planning to go to areas where you don't have any phone reception. In case of an accident you won't be able to call for help without a satellite messenger. Here is my list of the best satellite messengers and personal locator beacons for 2016.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and we always [keep an eye on the market](http://www.hikeventures.com/ISPO-2016-interviews/) for better products which we could possibly take on our trips in the future. The links on this site contain affiliate links and the satellite messenger below would be our choice if we were to buy a new satellite messenger.
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and we always [keep an eye on the market](http://www.hikeventures.com/ISPO-2016-interviews/) for better products which we could possibly take on our trips in the future. The links on this site contain affiliate links.
 
 ---
 

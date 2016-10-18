@@ -12,7 +12,7 @@ layout: post
 
 Planning to go hiking or backpacking or any other backcountry adventure? Then you should consider to pack lightweight rain pants in into your backpack to stay dry and warm on the trail when the weather turns bad.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and we always [keep an eye on the market](http://www.hikeventures.com/ISPO-2016-interviews/) for better products which we could possibly take on our trips in the future. The links on this site contain affiliate links and the rain pants below would be our choice if we were to buy new rain pants.
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and we always [keep an eye on the market](http://www.hikeventures.com/ISPO-2016-interviews/) for better products which we could possibly take on our trips in the future. The links on this site contain affiliate links.
 
 ---
 

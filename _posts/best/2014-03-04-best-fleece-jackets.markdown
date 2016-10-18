@@ -11,7 +11,7 @@ layout: post
 ---
 A fleece jacket can be used as a mid-layer to keep you warm while you are active (climbing, hiking, skiing or biking) and dries rather fast. For wet conditions a fleece jacket is a better choice than a down jacket to protect yourself against the cold.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and we always [keep an eye on the market](http://www.hikeventures.com/ISPO-2016-interviews/) for better products which we could possibly take on our trips in the future. The links on this site contain affiliate links and the fleece jackets below would be our choice if we were to buy a new fleece jacket.
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and we always [keep an eye on the market](http://www.hikeventures.com/ISPO-2016-interviews/) for better products which we could possibly take on our trips in the future. The links on this site contain affiliate links.
 
 ---
 

@@ -9,11 +9,9 @@ tags:
   - jackets
 layout: post
 ---
-Here is my buying guide of the best men rain jackets for 2016. The rain jackets which I have selected below are sorted by weight. Planning to go hiking, backpacking, running, cycling, mountaineering or on any other backcountry trip? Then you should have a lightweight rain jacket in your backpack to stay dry and warm on your outdoor adventure.
+Here is my buying guide of the best men rain jackets for 2016. Planning to go hiking, backpacking, running, cycling, mountaineering or on any other backcountry trip? Then you should have a lightweight rain jacket in your backpack to stay dry and warm on your outdoor adventure. Also consider taking lightweight waterproof [rain pants](http://www.hikeventures.com/best-rain-pants/ "Best Rain Pants 2016") with you.
 
-You might want to wear your waterproof jacket only occasionally e.g. if it starts raining or if it gets very windy but you will appreciate to stay dry and warm on the trail or if you perform any other outdoor activities in the long run.  Also consider taking lightweight waterproof [rain pants](http://www.hikeventures.com/best-rain-pants/ "Best Rain Pants 2016") with you.
-
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and we always [keep an eye on the market](http://www.hikeventures.com/ISPO-2016-interviews/) for better products which we could possibly take on our trips in the future. The links on this site contain affiliate links and the rain jackets below would be our choice if we were to buy a new rain jacket.
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and we always [keep an eye on the market](http://www.hikeventures.com/ISPO-2016-interviews/) for better products which we could possibly take on our trips in the future. The links on this site contain affiliate links.
 
 ---
 
