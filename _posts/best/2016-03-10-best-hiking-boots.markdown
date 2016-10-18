@@ -10,9 +10,9 @@ tags:
   - shoes
 published: true
 ---
-Proper hiking boots are important if you are planning to hike in the mountains or with a heavy backpack. For day trips which are not that demanding [lightweight hiking shoes](http://www.hikeventures.com/best-ultralight-hiking-shoes/) could be an alternative to traditional hiking boots. However, after my trips in the [Alps](http://www.hikeventures.com/e5-crossing-the-alps-from-germany-to-italy/) and in [Swedish Lapland](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) I am not such a fan of ultralight hiking shoes and would rather take a pair of proper hiking boots with me.
+Proper hiking boots are important if you are planning to hike in the mountains or with a heavy backpack. For day trips which are not that demanding [lightweight hiking shoes][1] could be an alternative to traditional hiking boots. However, after my trips in the [Alps][2] and in [Swedish Lapland][3] I am not such a fan of ultralight hiking shoes and would rather take a pair of proper hiking boots with me.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we are not able to test every product, we follow the market quite closely and compare the specifications of new products as you can see in the list below. The links on this site contain affiliate links.
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][4]) and even so we are not able to test every product, we follow the market quite closely and compare the specifications of new products as you can read[^1] below.
 
 
 ---
@@ -77,7 +77,7 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27313686292/in/dateposted-public/" title="Lundhags Jaure Light"><img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="100%" alt="The best Hiking Boots 2016 - Lundhags Jaure Light"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27313686292/in/dateposted-public/" title="Lundhags Jaure Light"><img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="100%" alt="The best Hiking Boots 2016 - Lundhags Jaure Light"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 
 ---
@@ -92,12 +92,12 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
 # Disadvantages of hiking boots
 
-* Heavier than [ultralight hiking shoes](http://www.hikeventures.com/best-ultralight-hiking-shoes/).
+* Heavier than [ultralight hiking shoes][5].
 * Sometimes more expensive than ultralight hiking shoes.
 
 ---
 
-## [Inov-8 Roclite 286 GTX](http://www.backcountry.com/inov-8-roclite-286-gtx-hiking-boot-mens)
+## [Inov-8 Roclite 286 GTX][6]
 
 **Weight:** 286 grams
 
@@ -109,7 +109,7 @@ The Inov-8 Roclite 286 GTX is waterproof and offers natural movement and is made
 
 ---
 
-## [Adidas Terrex Fast R Mid GTX](http://www.backcountry.com/adidas-outdoor-terrex-fast-r-mid-gtx-hiking-boot-mens)
+## [Adidas Terrex Fast R Mid GTX][7]
 
 **Weight:** 435 grams
 
@@ -121,7 +121,7 @@ The Adidas Terrex Fast R Mid GTX can - despite it's low weight - also be worn in
 
 ---
 
-## [KEEN Targhee II Mid](http://www.backcountry.com/keen-targhee-ii-mid-tac-hiking-boot-mens)
+## [KEEN Targhee II Mid][8]
 
 **Weight:** 494 grams
 
@@ -133,7 +133,7 @@ The Keen targhee II Mid is made of Nubuk leather and a waterproof breathable mem
 
 ---
 
-## [Hanwag Banks GTX](https://www.rei.com/product/100194/hanwag-banks-gtx-boots-mens)
+## [Hanwag Banks GTX][9]
 
 **Weight:** 610 grams
 
@@ -145,7 +145,7 @@ The Hanwag Banks upper comes with Cordura/Nubuk leather and the GORE-TEX lining 
 
 ---
 
-## [Arc'teryx Men's Bora2 Mid](http://www.backcountry.com/arcteryx-bora-mid-backpacking-boot-mens)
+## [Arc'teryx Men's Bora2 Mid][10]
 
 **Weight:** 619 grams
 
@@ -156,7 +156,7 @@ The Arc'teryx Men's Bora2 Mid comes with the Arcteryx Adaptive Fit technology - 
 <a href="http://www.backcountry.com/arcteryx-bora-mid-backpacking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Arc'teryx Men's Bora2 Mid</button></a>
 
 ---
-## [Salomon QUEST 4D 2 GTX®](http://www.backcountry.com/salomon-quest-4d-2-gtx-backpacking-boot-mens)
+## [Salomon QUEST 4D 2 GTX®][11]
 
 **Weight:** 640 grams
 
@@ -168,7 +168,7 @@ The Salomon Quest 4D 2 GTX has been developed through experience in trail runnin
 
 ---
 
-## [Scarpa R-EVOLUTION GTX](http://www.backcountry.com/scarpa-r-evolution-gtx-backpacking-boot-mens)
+## [Scarpa R-EVOLUTION GTX][12]
 
 **Weight:** 659 grams
 
@@ -180,7 +180,7 @@ The Scarpa R-EVOLUTION GTX is a supportive and light hiking boot for the mountai
 
 ---
 
-## [Merrell Moab Ventilator Mid](http://www.moosejaw.com/moosejaw/shop/product_Merrell-Men-s-Moab-Ventilator-Mid-Boot_10110157_10208_10000001_-1_)
+## [Merrell Moab Ventilator Mid][13]
 
 **Weight:** 879 grams
 
@@ -192,7 +192,7 @@ The Merrell Moab Ventilator Mid comes with a breathable mesh lining and a Vibram
 
 ---
 
-## [Lowa Renegade GTX® Mid](http://www.backcountry.com/lowa-renegade-gtx-mid-hiking-boot-mens)
+## [Lowa Renegade GTX® Mid][14]
 
 **Weight:** 1100 grams
 
@@ -204,7 +204,7 @@ The Lowa Renegade GTX® Mid is one of Lowa's best selling hiking shoe which is w
 
 ---
 
-## [Vasque Breeze 2.0 GTX](http://www.moosejaw.com/moosejaw/shop/product_Merrell-Men-s-Moab-Ventilator-Mid-Boot_10110157_10208_10000001_-1_)
+## [Vasque Breeze 2.0 GTX][15]
 
 **Weight:** 1140 grams
 
@@ -242,12 +242,12 @@ amzn_assoc_linkid = "0d18f88262f19f39fc7a13f07ae2563b";
 # FAQ on Hiking Boots
 
 ## Regular hiking boots vs. shell hiking boots
-If you live in Europe then you could also have a look on shell boots like the [Lundhags Jaure Light](http://www.lundhags.com/Products/Boots/Shell-Boots/3-layer-Boots/Jaure-Light-Mid/(color)/923) but they are mainly sold in Europe. Shell boots are a bit different than regular hiking boots and require you to wear 2 pair of socks. However, they dry faster if they get wet since there is no thick liner in the boots which require to dry. You just have to dry your socks and and the shoe inserts. The leather of the shoe will be a bit moisture but with proper <a href="http://amzn.to/287Cjc1" rel="nofollow">merino wool socks</a> you probably won't notice much of it. The [Arc'teryx Men's Bora2 Mid](http://www.backcountry.com/arcteryx-bora-mid-backpacking-boot-mens) is another example of a shell boot.
+If you live in Europe then you could also have a look on shell boots like the [Lundhags Jaure Light][16] but they are mainly sold in Europe. Shell boots are a bit different than regular hiking boots and require you to wear 2 pair of socks. However, they dry faster if they get wet since there is no thick liner in the boots which require to dry. You just have to dry your socks and and the shoe inserts. The leather of the shoe will be a bit moisture but with proper <a href="http://amzn.to/287Cjc1" rel="nofollow">merino wool socks</a> you probably won't notice much of it. The [Arc'teryx Men's Bora2 Mid][17] is another example of a shell boot.
 
 ---
 
 ## Regular hiking boots vs. ultralight hiking boots
-If you plan a hike in less demanding terrain or where you don't need much of ankle support because you don't have to carry a heavy backpack then you could also have a look on [lightweight hiking shoes](http://www.hikeventures.com/best-ultralight-hiking-shoes/) as an alternative to regular hiking boots. You will probably enjoy your hike more with lighter hiking boots.
+If you plan a hike in less demanding terrain or where you don't need much of ankle support because you don't have to carry a heavy backpack then you could also have a look on [lightweight hiking shoes][18] as an alternative to regular hiking boots. You will probably enjoy your hike more with lighter hiking boots.
 
 ---
 
@@ -255,10 +255,10 @@ If you plan a hike in less demanding terrain or where you don't need much of ank
 The average hiking boot weight is probably between 400 and 600 grams per shoe. There are also lightwieght hiking shoes available which weight below 300 grams per shoe.
 
 ## Hiking boot weight comparison
-Stable hiking boots with a high shaft weight usually more than [mid](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=low+hiking+boots) hiking boots or [low](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=low+hiking+boots) hiking boots. Sole, toe protection and inner shoe liner also contribute to the weight of hiking boots. If you want to compare the weight of hiking boots then it's a good idea to compare those hiking boots components as well.
+Stable hiking boots with a high shaft weight usually more than [mid][19] hiking boots or [low][20] hiking boots. Sole, toe protection and inner shoe liner also contribute to the weight of hiking boots. If you want to compare the weight of hiking boots then it's a good idea to compare those hiking boots components as well.
 
 ## Are hiking boot bags useful?
-Sometimes it's a good idea to pack your hiking boots into a hiking boot bag to keep the dirt away from your other gear. For packrafting I use a waterproof stuff sack to keep my hiking boots dry while paddling and attach the bag to my backpack in front of my packraft. [Here](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=dry+bag) you can find some dry bags.
+Sometimes it's a good idea to pack your hiking boots into a hiking boot bag to keep the dirt away from your other gear. For packrafting I use a waterproof stuff sack to keep my hiking boots dry while paddling and attach the bag to my backpack in front of my packraft. [Here][21] you can find some dry bags.
 
 ## What are the best hiking boots brands?
 There are many brands out there which are manufacturing good hiking schoes. Some examples are:
@@ -275,16 +275,16 @@ There are many brands out there which are manufacturing good hiking schoes. Some
 * etc.
 
 ## Hiking boots for kids
-There are also hiking boots available for kids. Have a look [here](https://www.rei.com/c/kids-hiking-boots)
+There are also hiking boots available for kids. Have a look [here][22]
 
 ## Hiking boots for wide feet
-Many brands also offer their hiking boots in a wider version if you have wide feet. Have a look [here](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=wide+shoes)
+Many brands also offer their hiking boots in a wider version if you have wide feet. Have a look [here][23]
 
 ## Hiking boots for toddlers
-There are also hiking boots available for toddlers. Have a look [here](https://www.rei.com/search.html?q=toddler+boots).
+There are also hiking boots available for toddlers. Have a look [here][24].
 
 ## How to choose hiking boots?
-There are several factors on how you should choose your hiking boots. Some brands also categorize their boots into activities or the difficulty of your hike. A good example can be seen on the [Meindl website](http://www.meindl.de/english/service/service_3.html).
+There are several factors on how you should choose your hiking boots. Some brands also categorize their boots into activities or the difficulty of your hike. A good example can be seen on the [Meindl website][25].
 
 Heavier hiking boots with a high shaft are probably a good choice if you:
 
@@ -292,16 +292,16 @@ Heavier hiking boots with a high shaft are probably a good choice if you:
 * need anchle support
 * need waterproof shoes or protection to the anchle
 
-In most of the other cases a lightweight [low](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=low+hiking+boots) or [mid](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=mid+hiking+boots) hiking boot might be a better option e.g. if you plan a non-demanding day hike.
+In most of the other cases a lightweight [low][26] or [mid][27] hiking boot might be a better option e.g. if you plan a non-demanding day hike.
 
 ## What to do against hurting toes in your hiking boots?
 If your toes are hurting in your hiking boots then you should consider getting a bigger pair of hiking boots. Alternatively, you could also try to wear thinner socks but in most cases your hiking boots are just too small.
 
 ## What are good hiking boots for snow?
-Hiking boots can also be used in snow. Either you wear a thick pair of [merino socks](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=merino+socks+icebreaker+hike) (or 2 pairs of socks) if you have summer hiking boots or you buy winter hiking boots which a thermal liner in it.
+Hiking boots can also be used in snow. Either you wear a thick pair of [merino socks][28] (or 2 pairs of socks) if you have summer hiking boots or you buy winter hiking boots which a thermal liner in it.
 
 ## Are there hiking boot insoles (for flat feets)?
-Some hiking boot brands also offer [insoles](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=insoles+hiking) if you have flat feets. Alternatively, there are also third party brands manufacturing insoles e.g. for flat feets.
+Some hiking boot brands also offer [insoles][29] if you have flat feets. Alternatively, there are also third party brands manufacturing insoles e.g. for flat feets.
 
 ## Do hiking boots have lifetime warranty?
 When you decide on buying hiking boots then you could also check if the boots you wish to buy offer some sort of lifetime warranty. In most cases there is no warranty on parts which are wearing off naturally over the years but it's a good idea to check in advance what is covered under lifetime warranty.
@@ -310,7 +310,7 @@ When you decide on buying hiking boots then you could also check if the boots yo
 Hiking boots are made of different materials. Examples are Nubuk leather, Gore-Tex liners or Cordura. If you are looking for a very breathable shoe then hiking boots which are entirely made of leather are probably a good option.
 
 ## Hiking boots mid vs. low
-Deciding between [mid](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=mid+hiking+boots) vs. [low](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=low+hiking+boots) hiking boots is sometimes also a difficult decission. [Mid](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=mid+hiking+boots) hiking boots are a good option if you need somewhat anchle support and if you carry a medium weight backpack. Some people also hike entirely with [low](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=low+hiking+boots) hiking boots but for stability and protetion you should rather choose a hiking boot with a higher shaft.
+Deciding between [mid][30] vs. [low][31] hiking boots is sometimes also a difficult decission. [Mid][32] hiking boots are a good option if you need somewhat anchle support and if you carry a medium weight backpack. Some people also hike entirely with [low][33] hiking boots but for stability and protetion you should rather choose a hiking boot with a higher shaft.
 
 ## hiking boots mid vs. high
 So what are the differences bewtween mid vs. high hiking boots? Hiking boots with a high shaft offer the advantage over mid hiking boots that they give you great stabilty while wearing heavy load and if you walk in difficult terrain e.g. mountains, dense bushes etc.
@@ -325,7 +325,7 @@ The quality of hiking boots depends on the brands and are in most cases also ref
 Some manufacturers offers the option to replace the sole or repair your shoes if they wear off. However, if you are not that much in love with your hiking boots then you can also buy a new pair of hiking boots every 10 years or so.
 
 ## What is the right sizing of hiking boots?
-It's a good idea to try on your hiking boots and test walk with them in the store before you buy them. Some shoes can also cause you blisters if they are new or if you buy them too small. To prevent blisters buy the shoes a little bit bigger and wear proper [merino socks](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=icebreaker+merino+socks+hike). If you are planning to buy shell hiking boots then you have to wear 2 pairs of socks. A liner and mid or heavy cushioning socks. Wearing two pairs of socks prevent you of getting blisters.
+It's a good idea to try on your hiking boots and test walk with them in the store before you buy them. Some shoes can also cause you blisters if they are new or if you buy them too small. To prevent blisters buy the shoes a little bit bigger and wear proper [merino socks][34]. If you are planning to buy shell hiking boots then you have to wear 2 pairs of socks. A liner and mid or heavy cushioning socks. Wearing two pairs of socks prevent you of getting blisters.
 
 ## What is the sole material of hiking boots?
 Good hiking boots should have a stiff sole. However, if you are planning to hike mostly on proper trails or roads then you can also choose hiking boots which do not have a stiff sole.
@@ -337,9 +337,48 @@ If you buy your hiking boots from a good shoe maker then you will in most cases 
 Should your hiking boots be waterproof? In most cases this is a good feature but it also has an impact on the breathability of your hiking boots. Try a pair of shell boots which are entirely made of leather. They offer good water protection and high breathability.
 
 ## Are there hiking boots with arch support?
-If you need arch support on your hiking boots then you should probably buy a seperate [insole](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=insoles+hiking) and replace it with the regular insole of your hiking boots.
+If you need arch support on your hiking boots then you should probably buy a seperate [insole][35] and replace it with the regular insole of your hiking boots.
 
 ---
 
 # Disclosure
-The products in this article have not been tested by us. This page contains affiliate links. Read more [here](http://www.hikeventures.com/about/).
+The products in this article have not been tested by us. This page contains affiliate links. Read more [here][36].
+
+[^1]:	links contain affiliate links
+
+[1]:	http://www.hikeventures.com/best-ultralight-hiking-shoes/
+[2]:	http://www.hikeventures.com/e5-crossing-the-alps-from-germany-to-italy/
+[3]:	http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/
+[4]:	http://www.hikeventures.com/destinations/
+[5]:	http://www.hikeventures.com/best-ultralight-hiking-shoes/
+[6]:	http://www.backcountry.com/inov-8-roclite-286-gtx-hiking-boot-mens
+[7]:	http://www.backcountry.com/adidas-outdoor-terrex-fast-r-mid-gtx-hiking-boot-mens
+[8]:	http://www.backcountry.com/keen-targhee-ii-mid-tac-hiking-boot-mens
+[9]:	https://www.rei.com/product/100194/hanwag-banks-gtx-boots-mens
+[10]:	http://www.backcountry.com/arcteryx-bora-mid-backpacking-boot-mens
+[11]:	http://www.backcountry.com/salomon-quest-4d-2-gtx-backpacking-boot-mens
+[12]:	http://www.backcountry.com/scarpa-r-evolution-gtx-backpacking-boot-mens
+[13]:	http://www.moosejaw.com/moosejaw/shop/product_Merrell-Men-s-Moab-Ventilator-Mid-Boot_10110157_10208_10000001_-1_
+[14]:	http://www.backcountry.com/lowa-renegade-gtx-mid-hiking-boot-mens
+[15]:	http://www.moosejaw.com/moosejaw/shop/product_Merrell-Men-s-Moab-Ventilator-Mid-Boot_10110157_10208_10000001_-1_
+[16]:	http://www.lundhags.com/Products/Boots/Shell-Boots/3-layer-Boots/Jaure-Light-Mid/(color)/923
+[17]:	http://www.backcountry.com/arcteryx-bora-mid-backpacking-boot-mens
+[18]:	http://www.hikeventures.com/best-ultralight-hiking-shoes/
+[19]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=low+hiking+boots
+[20]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=low+hiking+boots
+[21]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=dry+bag
+[22]:	https://www.rei.com/c/kids-hiking-boots
+[23]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=wide+shoes
+[24]:	https://www.rei.com/search.html?q=toddler+boots
+[25]:	http://www.meindl.de/english/service/service_3.html
+[26]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=low+hiking+boots
+[27]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=mid+hiking+boots
+[28]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=merino+socks+icebreaker+hike
+[29]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=insoles+hiking
+[30]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=mid+hiking+boots
+[31]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=low+hiking+boots
+[32]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=mid+hiking+boots
+[33]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=low+hiking+boots
+[34]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=icebreaker+merino+socks+hike
+[35]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=insoles+hiking
+[36]:	http://www.hikeventures.com/about/

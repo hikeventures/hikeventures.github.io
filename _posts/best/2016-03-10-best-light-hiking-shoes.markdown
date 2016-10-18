@@ -11,7 +11,7 @@ layout: post
 ---
 If you are into ultralight hiking then you are probably also interested into my buying guide for the best light summer hiking shoes for 2016. If you are coming from traditional hiking boots then you may notice that lightweight trail shoes can save you a lot of weight.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we are not able to test every product, we follow the market quite closely and compare the specifications of new products as you can see in the list below. The links on this site contain affiliate links.
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market quite closely and compare the specifications of new products as you can read[^1] below.
 
 ---
 
@@ -65,7 +65,7 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
 # Disadvantages of ultralight hiking shoes
 
-* There is a chance that you will get wet feet since those shoes don't go over your ankles especially if you don't buy a GTX (waterproof) shoe. One solution to keep your feet dry would be to wear latex socks over your regular [(merino) socks](http://www.backcountry.com/icebreaker-hike-mid-crew-sock-mens-ice0793).
+* There is a chance that you will get wet feet since those shoes don't go over your ankles especially if you don't buy a GTX (waterproof) shoe. One solution to keep your feet dry would be to wear latex socks over your regular [(merino) socks][2].
 * Ultralight Hiking Shoes won't give you much support when carry a heavier backpack.
 * Durability can be an issue if your shoe is made of very thin and leightweight materials.
 
@@ -73,11 +73,11 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9596183907/in/album-72157646473352583/" title="SDIM4200"><img src="https://c4.staticflickr.com/4/3815/9596183907_732d266e5d_b.jpg" width="1024" height="683" alt="SDIM4200" alt="The best ultralight hiking shoes 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8" ></script>
 
-My Inov-8 ultralight hiking shoes on [our hiking trip](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) in the Sarek National Park in Sweden. I had constantly wet feet.
+My Inov-8 ultralight hiking shoes on [our hiking trip][3] in the Sarek National Park in Sweden. I had constantly wet feet.
 
 ---
 
-## [Inov-8 Roclite 282 GTX](http://www.backcountry.com/inov-8-roclite-282-gtx-trail-running-shoe-mens)
+## [Inov-8 Roclite 282 GTX][4]
 
 **Weight:** 282 grams
 
@@ -90,7 +90,7 @@ The ROCLITE 282 GTX promises a combination of natural movement and flexibility w
 
 ---
 
-## [Adidas Terrex Solo](http://www.backcountry.com/adidas-outdoor-terrex-solo-approach-shoe-mens)
+## [Adidas Terrex Solo][5]
 
 **Weight:** 349 grams
 
@@ -102,7 +102,7 @@ The Adidas Terrex Solo are flexible shoes with a breathable mesh upper. The Terr
 
 ---
 
-## [Adidas Terrex Fast R GTX](http://www.backcountry.com/adidas-outdoor-terrex-fast-r-gtx-hiking-shoe-mens)
+## [Adidas Terrex Fast R GTX][6]
 
 **Weight:** 411 grams
 
@@ -114,7 +114,7 @@ The Adidas Terrex Fast R GTX are light athletic shoes which are - due to their p
 
 ---
 
-## [Scarpa Zen Pro](http://www.backcountry.com/scarpa-zen-pro-hiking-shoe-mens)
+## [Scarpa Zen Pro][7]
 
 **Weight:** 480 grams
 
@@ -126,7 +126,7 @@ The Scarpa Zen Pro comes with a Vibram sole and PU-injected leather along the si
 
 ---
 
-## [Arcteryx Acrux2 FL GTX Approach](http://www.backcountry.com/arcteryx-acrux2-fl-approach-shoe-mens)
+## [Arcteryx Acrux2 FL GTX Approach][8]
 
 **Weight:** 492 grams
 
@@ -161,3 +161,14 @@ amzn_assoc_linkid = "0d18f88262f19f39fc7a13f07ae2563b";
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
+
+[^1]:	links contain affiliate links
+
+[1]:	http://www.hikeventures.com/destinations/
+[2]:	http://www.backcountry.com/icebreaker-hike-mid-crew-sock-mens-ice0793
+[3]:	http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/
+[4]:	http://www.backcountry.com/inov-8-roclite-282-gtx-trail-running-shoe-mens
+[5]:	http://www.backcountry.com/adidas-outdoor-terrex-solo-approach-shoe-mens
+[6]:	http://www.backcountry.com/adidas-outdoor-terrex-fast-r-gtx-hiking-shoe-mens
+[7]:	http://www.backcountry.com/scarpa-zen-pro-hiking-shoe-mens
+[8]:	http://www.backcountry.com/arcteryx-acrux2-fl-approach-shoe-mens

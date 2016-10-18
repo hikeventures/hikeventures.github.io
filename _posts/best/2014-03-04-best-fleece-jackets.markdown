@@ -9,9 +9,9 @@ tags:
   - jackets
 layout: post
 ---
-Are you planning an outdoor adventure to a place where it's wet or humid? Then you should have a fleece jacket in your backpack. A fleece jacket can be used as a mid-layer to keep you warm while you are active (climbing, hiking, skiing or biking) and dries rather fast. For wet conditions a fleece jacket is a better choice than a [down jacket](http://www.hikeventures.com/best-down-jackets/) to protect yourself against the cold as down will lose it's insulation once it's wet.
+Are you planning an outdoor adventure to a place where it's wet or humid? Then you should have a fleece jacket in your backpack. A fleece jacket can be used as a mid-layer to keep you warm while you are active (climbing, hiking, skiing or biking) and dries rather fast. For wet conditions a fleece jacket is a better choice than a [down jacket][1] to protect yourself against the cold as down will lose it's insulation once it's wet.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we are not able to test every product, we follow the market quite closely and compare the specifications of new products as you can see in the list below. The links on this site contain affiliate links.
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][2]) and even so we are not able to test every product, we follow the market quite closely and compare the specifications of new products as you can read[^1] below.
 
 ---
 
@@ -19,24 +19,24 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
 | Jacket | Weight |
 | ------------- |:-------------|
-| [Arcteryx Thetis Zip Neck](http://www.hikeventures.com/deals/#arcteryx+thetis+zip+neck) | 0.45 lb / 205 g |
-| [Mammut Moench Longsleeve](http://www.hikeventures.com/deals/#mammut+moench)   | 0.45 lb / 205 g |
-| [Rab Micro Pull-on](http://www.hikeventures.com/deals/#micro+pull+on)     | 0.52 lb / 238 g |
-| [Arcteryx Delta LT Zip Neck](http://www.hikeventures.com/deals/#Arcteryx+delta+lt+zip) |  0.53 lb / 240 g |
+| [Arcteryx Thetis Zip Neck][3] | 0.45 lb / 205 g |
+| [Mammut Moench Longsleeve][4]   | 0.45 lb / 205 g |
+| [Rab Micro Pull-on][5]     | 0.52 lb / 238 g |
+| [Arcteryx Delta LT Zip Neck][6] |  0.53 lb / 240 g |
 
 
 <!--more-->
 
 ---
 
-![](https://c2.staticflickr.com/8/7392/9596207069_e56577d034_o.jpg "Best Wind Jackets 2016")
+![][image-1]
 
-While [Packrafting in Sarek](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Packrafting in Sarek") Patrick was always wearing a fleece during the day.
+While [Packrafting in Sarek][7] Patrick was always wearing a fleece during the day.
 
 ---
 
 ## When to wear a fleece jacket?
-Fleece jackets can be worn as an outer shell if it's not raining but they are not windproof so you should also consider to get a [wind jacket](http://www.hikeventures.com/best-windjackets/ "Wind Jackets") when buying a fleece. Wind jackets are more breathable than [rain jackets](http://www.hikeventures.com/best-rain-jackets/) since they are not waterproof and you won't sweat that much in a wind jacket. In situations where you are not active (e.g. sitting in your camp or taking pictures) you should rather consider buying a [down jacket](http://www.hikeventures.com/best-down-jackets/ "Down Jackets"). Down does not insulate if it gets wet but keeps you warmer than fleece when dry.
+Fleece jackets can be worn as an outer shell if it's not raining but they are not windproof so you should also consider to get a [wind jacket][8] when buying a fleece. Wind jackets are more breathable than [rain jackets][9] since they are not waterproof and you won't sweat that much in a wind jacket. In situations where you are not active (e.g. sitting in your camp or taking pictures) you should rather consider buying a [down jacket][10]. Down does not insulate if it gets wet but keeps you warmer than fleece when dry.
 
 ---
 
@@ -51,8 +51,8 @@ Fleece jackets can be worn as an outer shell if it's not raining but they are no
 
 <a href="http://www.amazon.com/gp/product/B00GW7XOMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7XOMQ&linkCode=as2&tag=hikeve-20&linkId=KYPIGZUYHRQY4JNT"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7XOMQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7XOMQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 205 grams    
-**Fabric:** Polartec Power Dry   
+**Weight:** 205 grams  
+**Fabric:** Polartec Power Dry  
 
 The Acteryx Thetis Zip Neck fleece is more a fleece for those who are planning to sweat during the winter e.g. if you are planning to go running or hike up a mountain. It's fabric should dry quite fast and transport moisture away from the body.
 
@@ -64,7 +64,7 @@ The Acteryx Thetis Zip Neck fleece is more a fleece for those who are planning t
 
 <a href="http://www.amazon.com/gp/product/B005JWKXC4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005JWKXC4&linkCode=as2&tag=hikeve-20&linkId=AM7UMWDALROAZGHE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005JWKXC4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005JWKXC4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 205 grams   
+**Weight:** 205 grams  
 **Fabric:** Polartec Power Stretch  
 
 The Mammut Moench Longsleeve features a stretchy fabric which should keep you dry and allow your body to move with ease. This should be a good fleece for activities in the mountains.
@@ -77,7 +77,7 @@ The Mammut Moench Longsleeve features a stretchy fabric which should keep you dr
 
 <a  href="http://www.amazon.com/gp/product/B00MVV2BDK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MVV2BDK&linkCode=as2&tag=hikeve-20&linkId=O35AIPYX5EH2BEVJ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00MVV2BDK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00MVV2BDK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 238 grams   
+**Weight:** 238 grams  
 **Fabric:** Polartec Classic Micro (recycled)  
 
 The Rab Micro Pull-on is also a light fleece pullover. It's fabric is made of recycled fabric if you prefer to opt for products and also keep nature in mind.
@@ -90,8 +90,8 @@ The Rab Micro Pull-on is also a light fleece pullover. It's fabric is made of re
 
 <a href="http://www.amazon.com/gp/product/B00GW7ZQG8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZQG8&linkCode=as2&tag=hikeve-20&linkId=TWGUKPE3JX4IKWXK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7ZQG8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7ZQG8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 240 grams   
-**Fabric:** Polartec Classic 100 Micro Velour Small Grid   
+**Weight:** 240 grams  
+**Fabric:** Polartec Classic 100 Micro Velour Small Grid  
 
 The Arcteryx Delta LT Zip Neck is also a nice fleece. I have currently the Delta LT Zip Jacket model which is similar to this model except that you have a full zip on the front.
 
@@ -102,7 +102,7 @@ The Arcteryx Delta LT Zip Neck is also a nice fleece. I have currently the Delta
 # Best Fleece Fabric
 Keep in mind that lighter material might be less durable depending on the technology used. Polartec Classic 100 fleece is in most cases sufficient if you go hiking. Polartec Power Stretch might be more interesting for those folks going climbing. Also consider if you need pockets or a full-zip jacket on your fleece as they might weight more.
 
-A good idea is also to combine a fleece jacket with a [wind jacket](http://www.hikeventures.com/best-windjackets/ "wind jackets") since fleece jackets are not windproof and you won't sweat that much in a wind jacket than in a [rain jacket](http://www.hikeventures.com/best-rain-jackets/).
+A good idea is also to combine a fleece jacket with a [wind jacket][11] since fleece jackets are not windproof and you won't sweat that much in a wind jacket than in a [rain jacket][12].
 
 ---
 
@@ -123,3 +123,20 @@ amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
+
+[^1]:	links contain affiliate links
+
+[1]:	http://www.hikeventures.com/best-down-jackets/
+[2]:	http://www.hikeventures.com/destinations/
+[3]:	http://www.hikeventures.com/deals/#arcteryx+thetis+zip+neck
+[4]:	http://www.hikeventures.com/deals/#mammut+moench
+[5]:	http://www.hikeventures.com/deals/#micro+pull+on
+[6]:	http://www.hikeventures.com/deals/#Arcteryx+delta+lt+zip
+[7]:	http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Packrafting in Sarek"
+[8]:	http://www.hikeventures.com/best-windjackets/ "Wind Jackets"
+[9]:	http://www.hikeventures.com/best-rain-jackets/
+[10]:	http://www.hikeventures.com/best-down-jackets/ "Down Jackets"
+[11]:	http://www.hikeventures.com/best-windjackets/ "wind jackets"
+[12]:	http://www.hikeventures.com/best-rain-jackets/
+
+[image-1]:	https://c2.staticflickr.com/8/7392/9596207069_e56577d034_o.jpg "Best Wind Jackets 2016"

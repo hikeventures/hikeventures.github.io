@@ -11,8 +11,7 @@ layout: post
 ---
 Trekking and snowshoeing poles are especially useful if you have to walk up or down a mountain or if you have to walk in deep powder snow. You can also use those poles for nordic walking. In this blog post I have selected the best trekking and snowshoeing poles for 2016 which I would consider to buy.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we are not able to test every product, we follow the market quite closely and compare the specifications of new products as you can see in the list below. The links on this site contain affiliate links.
-
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market quite closely and compare the specifications of new products as you can read[^1] below.
 
 ---
 
@@ -57,40 +56,40 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 <a href="https://www.flickr.com/photos/90204224@N07/18240641010" title="Best trekking and snowshoeing poles 2016"><img src="https://c4.staticflickr.com/8/7780/18240641010_a4f51acf96_o.jpg" width="992" height="659" alt="The best snowshoeing and trekking poles of 2016 / 2017 - Snowshoeing in Finnish Lapland"></a>
 
 
-Patrick snowshoeing in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Finnish Lapland").
+Patrick snowshoeing in [Finnish Lapland][2].
 
-Currently, I am using the Black Diamond Ultra Distance Z-Poles which are not made for snowshoeing as it's not possible to add snow baskets on those trekking poles. However, I have also used them on our snowshoeing trip in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Finnish Lapland") - Urho Kekkonen National Park - where I realised that snow baskets might be quite useful. For 3-season trips however they are great. You can see my trekking poles in action in our trip in [Swedish Lapland (Sarek National Park)](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Swedish Lapland"). Most recently, I have added a pair of dedicated snowshoe poles to my gear - the MSR Deploy TR-2 - which I have already tested in the [Austrian Alps](http://www.hikeventures.com/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/).
+Currently, I am using the Black Diamond Ultra Distance Z-Poles which are not made for snowshoeing as it's not possible to add snow baskets on those trekking poles. However, I have also used them on our snowshoeing trip in [Finnish Lapland][3] - Urho Kekkonen National Park - where I realised that snow baskets might be quite useful. For 3-season trips however they are great. You can see my trekking poles in action in our trip in [Swedish Lapland (Sarek National Park)][4]. Most recently, I have added a pair of dedicated snowshoe poles to my gear - the MSR Deploy TR-2 - which I have already tested in the [Austrian Alps][5].
 
 ---
 
-## [MSR Flight 3](http://www.backcountry.com/msr-flight-3-trekking-pole)
+## [MSR Flight 3][6]
 
 <a href="http://www.amazon.com/gp/product/B00FQ837V0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FQ837V0&linkCode=as2&tag=hikeve-20&linkId=NF74EJFOBHVBOVXE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00FQ837V0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00FQ837V0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**weight:** 490 grams   
+**weight:** 490 grams  
 
-The MSR Flight 3 is made of 7000-series Aluminium and has a non-absorbing foam grip and glove friendly straps. We have tested the MSR Flight 2 in the [Austrian Alps](http://www.hikeventures.com/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/ "Austrian Alps"). They are great for summer and winter. If you look specifically for winter poles then you should have a look at the MSR Deploy T-2 or T-3 (below).
+The MSR Flight 3 is made of 7000-series Aluminium and has a non-absorbing foam grip and glove friendly straps. We have tested the MSR Flight 2 in the [Austrian Alps][7]. They are great for summer and winter. If you look specifically for winter poles then you should have a look at the MSR Deploy T-2 or T-3 (below).
 
 <a href="http://www.backcountry.com/msr-flight-3-trekking-pole"><button type="button" class="btn btn-danger">Read more about the MSR Flight 3</button></a>  <a href="/deals/#msr+flight+3" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
-## [MSR Deploy T-3](http://www.backcountry.com/msr-deploy-tr-3-trekking-pole)
+## [MSR Deploy T-3][8]
 <a  href="http://www.amazon.com/gp/product/B00FQU5KD6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FQU5KD6&linkCode=as2&tag=hikeve-20&linkId=RM7QJSFHFODR6F3U"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00FQU5KD6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00FQU5KD6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**weight:** 635 grams   
+**weight:** 635 grams  
 
-The MSR Deploy T-3 are great for snowshoeing. We have tested the Deploy T-2 in the Austrian Alps [Austrian Alps](http://www.hikeventures.com/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/ "Austrian Alps"). If you are looking for poles which you can also use during the summer then you should have a look at the MSR Flight 3. There are 2 models available, the MSR Deploy T-2 and T-3 with the only difference that the T3 packs smaller.
+The MSR Deploy T-3 are great for snowshoeing. We have tested the Deploy T-2 in the Austrian Alps [Austrian Alps][9]. If you are looking for poles which you can also use during the summer then you should have a look at the MSR Flight 3. There are 2 models available, the MSR Deploy T-2 and T-3 with the only difference that the T3 packs smaller.
 
 <a href="http://www.backcountry.com/msr-deploy-tr-3-trekking-pole"><button type="button" class="btn btn-danger">Read more about the MSR Deploy T-3</button></a>  <a href="/deals/#msr+deploy" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
-## [Black Diamond Expedition 3](https://www.rei.com/product/876929/black-diamond-expedition-3-ski-poles-pair)
+## [Black Diamond Expedition 3][10]
 
 <a href="http://www.amazon.com/gp/product/B00MGQXVKW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MGQXVKW&linkCode=as2&tag=hikeve-20&linkId=7USCDAVWZRIA5VHA"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00MGQXVKW&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00MGQXVKW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**weight:** 520 grams   
+**weight:** 520 grams  
 
 The Black Diamond Expedition 3 poles are made of Aluminium and can also be used as ski poles. The poles also come with a 4-season strap in case you want to use gloves during the winter season. These poles come with trekking and snow baskets.
 
@@ -98,35 +97,35 @@ The Black Diamond Expedition 3 poles are made of Aluminium and can also be used 
 
 ---
 
-## [Black Diamond Distance Carbon Z](http://www.backcountry.com/black-diamond-distance-trekking-pole)
+## [Black Diamond Distance Carbon Z][11]
 
 <a href="http://www.amazon.com/gp/product/B00LU1E9J6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LU1E9J6&linkCode=as2&tag=hikeve-20&linkId=SQ74AUKGGVR6J5J5"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LU1E9J6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LU1E9J6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**weight:** 285 grams   
+**weight:** 285 grams  
 
-The Black Diamond Distance Carbon Z is made of carbon and suitable for fast-packing adventures. The poles are 3-section foldable.   
+The Black Diamond Distance Carbon Z is made of carbon and suitable for fast-packing adventures. The poles are 3-section foldable.  
 
 <a href="http://www.backcountry.com/black-diamond-distance-trekking-pole"><button type="button" class="btn btn-danger">Read more about the Black Diamond Distance Carbon Z</button></a>  <a href="/deals/#black+diamond+distance+carbon" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
-## [Black Diamond Distance Carbon FLZ](https://www.rei.com/product/879955/black-diamond-distance-carbon-flz-trekking-poles-pair)
+## [Black Diamond Distance Carbon FLZ][12]
 
 <a href="http://www.amazon.com/gp/product/B00LU1E9J6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LU1E9J6&linkCode=as2&tag=hikeve-20&linkId=PMVOHR3LVH3T2AAQ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LU1E9J6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LU1E9J6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**weight:** 355 grams   
+**weight:** 355 grams  
 
-The Black Diamond Distance Carbon FLZ are made of carbon fibre those poles come with FlickLock Pro adjustability. The poles are 3-section foldable.   
+The Black Diamond Distance Carbon FLZ are made of carbon fibre those poles come with FlickLock Pro adjustability. The poles are 3-section foldable.  
 
 <a href="https://www.rei.com/product/879955/black-diamond-distance-carbon-flz-trekking-poles-pair"><button type="button" class="btn btn-danger">Read more about the Ghost Whisperer Hooded Down Jacket</button></a>  <a href="/deals/#black+diamond+distance+carbon+flz" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
-## [Leki Micro Ti](http://www.backcountry.com/leki-micro-vario-ti-trekking-poles)
+## [Leki Micro Ti][13]
 
 <a href="http://www.amazon.com/gp/product/B00I5IVTUE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00I5IVTUE&linkCode=as2&tag=hikeve-20&linkId=4JMZ5BH5JJ367DOU"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00I5IVTUE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00I5IVTUE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**weight:** 432 grams    
+**weight:** 432 grams  
 
 The Leki Micro series are foldable hiking poles from Leki and are made of Aluminium.
 
@@ -134,7 +133,7 @@ The Leki Micro series are foldable hiking poles from Leki and are made of Alumin
 
 <a href="https://www.flickr.com/photos/90204224@N07/16507495306"><img src="https://farm8.staticflickr.com/7432/16507495306_31a0dc37c5_b.jpg" width="1024" height="680" alt="The best snowshoeing and trekking poles of 2017 - Lapland - Finland"></a>
 
-Snow baskets are especially useful in deep powder snow. Konstantin snowshoeing [in Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Finnish Lapland").
+Snow baskets are especially useful in deep powder snow. Konstantin snowshoeing [in Finnish Lapland][14].
 
 ---
 
@@ -168,6 +167,24 @@ When choosing your trekking or snowshoeing poles you should consider the followi
 ---
 
 # Differences between trekking and snowshoeing poles
-I would say that the main difference between snowshoe and hiking poles is the possibility to add a snow basket to the poles and to expand or shorten the poles while wearing gloves. My preference as the best trekking and snowhoeing pole goes towards the [MSR Flight 3](http://www.hikeventures.com/deals/#msr+flight+3).
+I would say that the main difference between snowshoe and hiking poles is the possibility to add a snow basket to the poles and to expand or shorten the poles while wearing gloves. My preference as the best trekking and snowhoeing pole goes towards the [MSR Flight 3][15].
 
 ---
+
+[^1]:	links contain affiliate links
+
+[1]:	http://www.hikeventures.com/destinations/
+[2]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Finnish Lapland"
+[3]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Finnish Lapland"
+[4]:	http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Swedish Lapland"
+[5]:	http://www.hikeventures.com/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/
+[6]:	http://www.backcountry.com/msr-flight-3-trekking-pole
+[7]:	http://www.hikeventures.com/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/ "Austrian Alps"
+[8]:	http://www.backcountry.com/msr-deploy-tr-3-trekking-pole
+[9]:	http://www.hikeventures.com/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/ "Austrian Alps"
+[10]:	https://www.rei.com/product/876929/black-diamond-expedition-3-ski-poles-pair
+[11]:	http://www.backcountry.com/black-diamond-distance-trekking-pole
+[12]:	https://www.rei.com/product/879955/black-diamond-distance-carbon-flz-trekking-poles-pair
+[13]:	http://www.backcountry.com/leki-micro-vario-ti-trekking-poles
+[14]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Finnish Lapland"
+[15]:	http://www.hikeventures.com/deals/#msr+flight+3

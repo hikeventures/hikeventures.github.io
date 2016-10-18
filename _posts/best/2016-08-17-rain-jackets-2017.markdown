@@ -9,9 +9,9 @@ tags:
   - best
   - rain jackets
 ---
-Need a new rain jacket for your next outdoor adventure? I always take a rain jacket with me when I go [hiking](http://www.hikeventures.com/destinations/) or cycling. Depending on the season or activity it might also be a good idea to have different rain jackets. For example if I go on a hiking or backpacking trip I usually take a very light rain jacket. For winter activities like skiing or snowboarding I would rather take a more durable jacket with me. Here is a selection of the best new rain jackets for 2017 on the market. This is not a complete list and I may add a few more models in the future.
+Need a new rain jacket for your next outdoor adventure? I always take a rain jacket with me when I go [hiking][1] or cycling. Depending on the season or activity it might also be a good idea to have different rain jackets. For example if I go on a hiking or backpacking trip I usually take a very light rain jacket. For winter activities like skiing or snowboarding I would rather take a more durable jacket with me. Here is a selection of the best new rain jackets for 2017 on the market. This is not a complete list and I may add a few more models in the future.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we are not able to test every product, we follow the market quite closely and compare the specifications of new products as you can see in the list below. The links on this site contain affiliate links.
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][2]) and even so we are not able to test every product, we follow the market quite closely and compare the specifications of new products as you can read[^1] below.
 
 ---
 
@@ -129,3 +129,8 @@ amzn_assoc_linkid = "965296fb866182bb89b535202541adda";
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
+
+[^1]:	links contain affiliate links
+
+[1]:	http://www.hikeventures.com/destinations/
+[2]:	http://www.hikeventures.com/destinations/

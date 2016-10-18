@@ -18,7 +18,7 @@ If you are planning to do whitewater packrafting or kayaking then you should pro
 * Is the helmet lightweight so it feels comfortable to wear it for a longer period?
 * Do you need ear protection?
 
-Here you can find [one of our trips](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/) in Sweden where we were wearing helmets. We have not tested all the helmets in this article but those are our favorites if we were to buy a new one. The links on this site contain afiliate links.
+Here you can find [one of our trips][1] in Sweden where we were wearing helmets. We have not tested all the helmets in this article[^1] but those are our favorites if we were to buy a new one.
 
 
 <hr>
@@ -63,7 +63,7 @@ Here you can find [one of our trips](http://www.hikeventures.com/Swedish-Packraf
 
 ---
 
-## [NRS WRSI Trident Composite Helmet](http://www.backcountry.com/nrs-wrsi-trident-composite-helmet)
+## [NRS WRSI Trident Composite Helmet][2]
 
 *Weight:* 848 grams
 
@@ -75,7 +75,7 @@ The NRS WRSI Trident Composite is made of a carbon composite shell and features 
 
 ---
 
-## [NRS WRSI Current Helmet](http://www.backcountry.com/nrs-wrsi-current-helmet)
+## [NRS WRSI Current Helmet][3]
 
 *Weight:* 517 grams
 
@@ -87,7 +87,7 @@ NRS WRSI Current Helmet is made of a ABS plastic shell with polyurethane sub-she
 
 ---
 
-## [Shred Ready Super Scrappy Kayak Helmet](http://www.backcountry.com/shred-ready-super-scrappy-helmet)
+## [Shred Ready Super Scrappy Kayak Helmet][4]
 
 *Certification:* CE 1385
 
@@ -99,7 +99,7 @@ The Shred Ready Super Scrappy Kayak helmet is an ABS molded shell with a VN foam
 
 ---
 
-## [Shred Ready Standard Full-Cut Kayak Helmet](http://www.backcountry.com/shred-ready-standard-full-cut-helmet)
+## [Shred Ready Standard Full-Cut Kayak Helmet][5]
 
 <a href="https://www.amazon.com/gp/product/B00417BQO2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00417BQO2&linkCode=as2&tag=hikeve-20&linkId=6c0c9c101dac64b5febc8813de1d8f9d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00417BQO2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00417BQO2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -109,7 +109,7 @@ The Shred Ready Standard Full-Cut Kayak helmet is made of an ABS injection molde
 
 ---
 
-## [Sweet Protection Strutter Helmet](http://www.backcountry.com/sweet-protection-strutter-helmet)
+## [Sweet Protection Strutter Helmet][6]
 
 *Weight:* 400 grams
 *Certification:* EN 1385
@@ -122,7 +122,7 @@ The Sweet Protection Strutter Helmet features LFT shell technology which combine
 
 ---
 
-## [Petzl Meteor 3+ Helmet](http://www.backcountry.com/sweet-protection-strutter-helmet)
+## [Petzl Meteor 3+ Helmet][7]
 
 *Weight:* 235 grams
 
@@ -132,7 +132,7 @@ The Petzl Meteor 3+ helmet is one of the lightest certified paddling helmets on 
 
 ---
 
-## [Predator Shiznit Helmet](http://amzn.to/2952d5F)
+## [Predator Shiznit Helmet][8]
 
 *Weight:* 500 grams
 
@@ -146,7 +146,7 @@ The Predator Shiznit helmet looks good and protects your face. With 500 grams it
 
 # Alternatives
 
-There is also a Russian manufacturer [Waterlogy](http://waterlogy.ru/products/shlem-vodnyy) selling helmets for 3000 Rubels. Here is their marketing video giving some indication about the durability of their products ... :)
+There is also a Russian manufacturer [Waterlogy][9] selling helmets for 3000 Rubels. Here is their marketing video giving some indication about the durability of their products ... :)
 <br>
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/HmSb1Myx6Y0?rel=0"></iframe>
@@ -156,7 +156,7 @@ There is also a Russian manufacturer [Waterlogy](http://waterlogy.ru/products/sh
 ---
 
 # Conclusion
-Wearing an helmet is an important part of (whitewater) packrafting and kayaking. With many options on the markets you have to decide yourself which helmet is the best for you considering, weight, protective features, design and price. As a lightweight helmet we were quite happy with the [Petzl Meteor 3+ helmet](http://www.backcountry.com/sweet-protection-strutter-helmet). This year we are going to test the [Predator Shiznit helmet](http://amzn.to/2952d5F).
+Wearing an helmet is an important part of (whitewater) packrafting and kayaking. With many options on the markets you have to decide yourself which helmet is the best for you considering, weight, protective features, design and price. As a lightweight helmet we were quite happy with the [Petzl Meteor 3+ helmet][10]. This year we are going to test the [Predator Shiznit helmet][11].
 
 ---
 
@@ -177,3 +177,17 @@ amzn_assoc_linkid = "1b9d1e4302c0c92ff457962d6ba0d67b";
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
+
+[^1]:	contains affiliate links
+
+[1]:	http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/
+[2]:	http://www.backcountry.com/nrs-wrsi-trident-composite-helmet
+[3]:	http://www.backcountry.com/nrs-wrsi-current-helmet
+[4]:	http://www.backcountry.com/shred-ready-super-scrappy-helmet
+[5]:	http://www.backcountry.com/shred-ready-standard-full-cut-helmet
+[6]:	http://www.backcountry.com/sweet-protection-strutter-helmet
+[7]:	http://www.backcountry.com/sweet-protection-strutter-helmet
+[8]:	http://amzn.to/2952d5F
+[9]:	http://waterlogy.ru/products/shlem-vodnyy
+[10]:	http://www.backcountry.com/sweet-protection-strutter-helmet
+[11]:	http://amzn.to/2952d5F
