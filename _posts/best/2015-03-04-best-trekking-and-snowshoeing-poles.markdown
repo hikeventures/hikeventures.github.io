@@ -52,6 +52,8 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 </div>
 <!--more-->
 
+---
+
 <a href="https://www.flickr.com/photos/90204224@N07/18240641010" title="Best trekking and snowshoeing poles 2016"><img src="https://c4.staticflickr.com/8/7780/18240641010_a4f51acf96_o.jpg" width="992" height="659" alt="The best snowshoeing and trekking poles of 2016 / 2017 - Snowshoeing in Finnish Lapland"></a>
 
 

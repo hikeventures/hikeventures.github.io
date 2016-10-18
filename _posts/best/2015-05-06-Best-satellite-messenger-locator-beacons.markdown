@@ -42,6 +42,7 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
       </tbody>
       </table>
   </div>
+  
 <!--more-->
 
 ---
