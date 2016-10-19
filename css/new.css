@@ -386,6 +386,12 @@ header .header-links a:hover {
     transition: all 0.2s;
 }
 
+
+.avantlink . img {
+    width: 100%;
+    height: auto;
+}
+
 .sidebar-image .thumbnail span.caption {
     position: absolute;
     top: 40%;
@@ -423,6 +429,8 @@ header .header-links a:hover {
 .sidebar-image .thumbnail:hover img {
     transform: scale(1.1);
 }
+
+
 
 footer {
     height: 200px;
