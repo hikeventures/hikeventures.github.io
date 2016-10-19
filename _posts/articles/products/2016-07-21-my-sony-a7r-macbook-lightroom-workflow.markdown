@@ -12,7 +12,7 @@ tags:
   - blogging
 layout: post
 ---
-Today (updated 11.10.2016), I would like to present my planned workflow using the Sony A7, Samsung T3, Lightroom and the Macbook Pro 2016 which will probably be released soon. Whenever, I buy a new Macbook I also look on what accessories would be available to improve my photography workflow.
+Today (updated 11.10.2016), I would like to present[^1] my planned workflow using the Sony A7, Samsung T3, Lightroom and the Macbook Pro 2016 which will probably be released soon. Whenever, I buy a new Macbook I also look on what accessories would be available to improve my photography workflow.
 
 I bought my <a href="http://amzn.to/2d46BsB" rel="nofollow">Sony A7</a> a few months ago as I wanted to have a full frame camera. The Sony A7 is a real bargain compared to the more expensive <a href="http://amzn.to/2dFsEoM" rel="nofollow">Sony A7RII</a>. At the moment I don't need 4K, hundreds of AF tracking points and burst speed is also not important for me. So there is actually no reason for me to pay 2000 EUR more for a camera where I don't use all the functions.
 
@@ -70,6 +70,4 @@ amzn_assoc_linkid = "d995dd7aa02d336b4c22488be86b6355";
 
 ---
 
-The links on this site contain affiliate links. If you purchase through the links you help support our blog. Here you can read on who we are.
-
----
+[^1]:	article contains affiliate links
