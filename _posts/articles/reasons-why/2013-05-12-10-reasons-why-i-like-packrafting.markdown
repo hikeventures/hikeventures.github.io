@@ -9,6 +9,7 @@ tags:
 layout: post
 ---
 <a href="http://www.flickr.com/photos/90204224@N07/8729735329/" ><img src="http://farm8.staticflickr.com/7425/8729735329_78a6f1a644_c.jpg" width="1150" alt="Reasons and advantages to go Packrafting"></a>
+
 <ul>
 <li>I can take my Packraft everywhere since it is very light</li>
 <li>It inflates/deflates within a couple of minutes</li>
