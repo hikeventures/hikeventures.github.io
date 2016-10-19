@@ -9,9 +9,9 @@ tags:
   - sleeping pads
   - best
 ---
-In this article you can find a selection of the best new sleeping pads for 2017. There are different sleeping pads for different seasons or climates available. The R-value indicates how much insulation a sleeping pad provides. In the conclusion you can find the sleeping pad which I would recommend.
+In this blog post you can find a selection of the best new sleeping pads for 2017. There are different sleeping pads for different seasons or climates available. The R-value indicates how much insulation a sleeping pad provides. In the conclusion you can find the sleeping pad which I would recommend.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product we follow the market quite closely and compare the specifications of new products as you can read[^1] below.
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we are not able to test every product, we follow the market quite closely and compare the specifications of new products as you can read[^1] below.
 
 <hr>
 
@@ -145,5 +145,3 @@ amzn_assoc_linkid = "965296fb866182bb89b535202541adda";
 <hr>
 
 [^1]:	links contain affiliate links
-
-[1]:	http://www.hikeventures.com/destinations/

@@ -11,7 +11,7 @@ tags:
 ---
 As we are frequently on packrafting trips we are always interested to look out for new packrafting gear like a PFD (personal floating device) or life jacket. Here is an overview of the best PFDs which we would consider to buy.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market quite closely and compare the specifications of new products as you can read[^1] below.
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we are not able to test every product, we follow the market quite closely and compare the specifications of new products as you can read[^1] below.
 
 
 <hr>
@@ -56,15 +56,15 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 # How to choose the best PFD?
 The best PFD for your next packrafting adventure depends on where you are planning to packraft. Are you planning to packraft in a strong rapid then you probably need more capable PFD  than packrafting on a calm lake. Also when you plan to packraft in the open sea you should look for a PFD which can also handle stormy sea conditions as the weather can also change quickly on the sea. Of course, you should always check the weather conditions before you go packrafting on the sea. Packrafts are actually not meant to be used on the sea but we have also paddled on the Baltic Sea in Finland and it worked quite well with our windpaddle sail.
 
-PFD's are categorized by [pfdma.org][2] into different classes (USCG and State Law Enforcement agencies require and/or recommend different Types of lifejackets for different applications) and I would recommend to read through the [pfdma.org][3] pages to make sure that you select the right one if you live in the U.S.
+PFD's are categorized by [pfdma.org](http://www.pfdma.org/choosing/types.aspx) into different classes (USCG and State Law Enforcement agencies require and/or recommend different Types of lifejackets for different applications) and I would recommend to read through the [pfdma.org](http://www.pfdma.org/choosing/types.aspx) pages to make sure that you select the right one if you live in the U.S.
 
-We are usually wearing a dry suite when we go packrafting and we would rate the difficulty of the river which we are usually paddling between class 2 and class 3. The following PFD's are quite light and can also be carried with your backpack like the [HMG Porter 4400][4] which is our go-to packrafting backpack.
+We are usually wearing a dry suite when we go packrafting and we would rate the difficulty of the river which we are usually paddling between class 2 and class 3. The following PFD's are quite light and can also be carried with your backpack like the [HMG Porter 4400](http://www.hikeventures.com/gear-review-hmg-porter-4400-black/) which is our go-to packrafting backpack.
 
 We have not tested all the PFDs in this article but those are our favorites if we were to buy a new one. The links on this site contain affiliate links.
 
 ---
 
-## [Astral Designs YTV][5]
+## [Astral Designs YTV](http://www.backcountry.com/astral-ytv-personal-flotation-device)
 
 **Weight:** 794 grams
 
@@ -76,7 +76,7 @@ The Astral Designs YTV is a great choice if you want to have a minimalistic life
 
 ---
 
-## [Astral Designs V-Eight][6]
+## [Astral Designs V-Eight](https://www.rei.com/product/881421/astral-v-eight-pfd)
 
 **Weight:** 563 grams
 
@@ -100,7 +100,7 @@ The Palm Alpha is one of the lightest white water life jackets on the market. It
 
 ---
 
-## [Astral Designs Sea Wolf][7]
+## [Astral Designs Sea Wolf](https://www.rei.com/product/867519/astral-sea-wolf-pfd-mens)
 
 **Weight:** 766 grams
 
@@ -112,7 +112,7 @@ If you need a PFD where you can store a lot's of stuff in it then you should hav
 
 ---
 
-## [Palm FX][8]
+## [Palm FX](http://amzn.to/292fRLY)
 
 **Weight:** 877 grams
 
@@ -126,14 +126,14 @@ Palm FX is another PFD which offers plenty or storage room for long packrafting 
 
 ## Inflatable PFD's
 
-We would not recommend inflatable PFD's. Of course they are not that bulky than regular PFD's but we don't feel that they are that safe like regular PFD's. However, if you are still interested in an inflatable PFD then you could probably have a look into the [MTI Fuid 2.0][9].
+We would not recommend inflatable PFD's. Of course they are not that bulky than regular PFD's but we don't feel that they are that safe like regular PFD's. However, if you are still interested in an inflatable PFD then you could probably have a look into the [MTI Fuid 2.0](https://www.rei.com/product/869119/mti-fluid-20-belt-pack-inflatable-pfd).
 
 ---
 
 # Accesories
 Beside a PFD we also found the following packrafting accessories quite useful.
 
-## [NRS Pilot River Knife][10]
+## [NRS Pilot River Knife](https://www.rei.com/product/101755/nrs-pilot-river-knife)
 The NRS Pilot River Knife can be attached to the front of the Astral Designs YTV and V-Eight. The knife might be quite handy if you get stuff somewhere or if you need to help someone.
 
 <a href="https://www.amazon.com/gp/product/B001UICFRC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001UICFRC&linkCode=as2&tag=hikeve-20&linkId=593b72bccf776c9eac85ed2681826cae"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001UICFRC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001UICFRC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -142,7 +142,7 @@ The NRS Pilot River Knife can be attached to the front of the Astral Designs YTV
 
 ---
 
-## [NRS Co-Pilot River Knife][11]
+## [NRS Co-Pilot River Knife](https://www.rei.com/product/101754/nrs-co-pilot-river-knife-yellow)
 The NRS Co-Pilot River Knife is the shorter version of the NRS Pilot Knife.
 
 <a href="https://www.amazon.com/gp/product/B014OTTE4U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014OTTE4U&linkCode=as2&tag=hikeve-20&linkId=31c1e32939b4c5d0a67323b2c3d5975e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B014OTTE4U&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B014OTTE4U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -151,7 +151,7 @@ The NRS Co-Pilot River Knife is the shorter version of the NRS Pilot Knife.
 
 ---
 
-## [NRS Wedge Rescue Throw Bag][12]
+## [NRS Wedge Rescue Throw Bag](https://www.rei.com/product/881345/nrs-wedge-rescue-throw-bag)
 You can attache the NRS Wedge Rescue Throw Bag on your packraft and quick access it if you need it.
 
 <a href="https://www.amazon.com/gp/product/B0028EHPTA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0028EHPTA&linkCode=as2&tag=hikeve-20&linkId=0c7f1d02ef740d6a818a23c7d4b3eaa0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0028EHPTA&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0028EHPTA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -160,7 +160,7 @@ You can attache the NRS Wedge Rescue Throw Bag on your packraft and quick access
 
 ---
 
-## [Sea to Summit Ultra Flex Booties][13]
+## [Sea to Summit Ultra Flex Booties](https://www.rei.com/product/883302/sea-to-summit-ultra-flex-water-booties)
 The Sea to Summit Ultra Flex Booties protect your feet when you walk in the river and also helps somewhat to keep your feet warm.
 
 <a href="https://www.amazon.com/gp/product/B00W5P5BU2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00W5P5BU2&linkCode=as2&tag=hikeve-20&linkId=ff2d0de60ceb7abc7e35c33e0dcd1648"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00W5P5BU2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00W5P5BU2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -169,7 +169,7 @@ The Sea to Summit Ultra Flex Booties protect your feet when you walk in the rive
 
 ---
 
-## [Sea to Summit Paddle Leash][14]
+## [Sea to Summit Paddle Leash](http://amzn.to/295kdRT)
 The Sea to Summit Paddle Leash is light and assures that you don't loose your paddle on the river. Just attach it to your paddle and to your packraft.
 
 <a href="https://www.amazon.com/gp/product/B012NRXPPO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B012NRXPPO&linkCode=as2&tag=hikeve-20&linkId=8726042078b3f76f62040852ba7e887f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B012NRXPPO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B012NRXPPO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -179,7 +179,7 @@ The Sea to Summit Paddle Leash is light and assures that you don't loose your pa
 ---
 
 # Conclusion
-Wearing a PFD does not need to be a burdern. The latest PFD's are quite stylish and we hope that we were able to give you some good ideas on which PFD you could get for yourself. We are currently using the Palm Alpha and the Astral Designs YTV PFDs. The Astral Designs V-Eight life jacket was also quite popular among a few paddlers who participated in the [Swedish Packrafting Round-Up 2016][15]. It's probably a good idea to invest a bit money into a good PFD if you plan to go packrafting frequently. Safety goes first!
+Wearing a PFD does not need to be a burdern. The latest PFD's are quite stylish and we hope that we were able to give you some good ideas on which PFD you could get for yourself. We are currently using the Palm Alpha and the Astral Designs YTV PFDs. The Astral Designs V-Eight life jacket was also quite popular among a few paddlers who participated in the [Swedish Packrafting Round-Up 2016](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/). It's probably a good idea to invest a bit money into a good PFD if you plan to go packrafting frequently. Safety goes first!
 
 ---
 
@@ -202,19 +202,3 @@ amzn_assoc_linkid = "8b6cf7f3e8c5fbd4e1712dfe9e9156c9";
 ---
 
 [^1]:	links contain affiliate links
-
-[1]:	http://www.hikeventures.com/destinations/
-[2]:	http://www.pfdma.org/choosing/types.aspx
-[3]:	http://www.pfdma.org/choosing/types.aspx
-[4]:	http://www.hikeventures.com/gear-review-hmg-porter-4400-black/
-[5]:	http://www.backcountry.com/astral-ytv-personal-flotation-device
-[6]:	https://www.rei.com/product/881421/astral-v-eight-pfd
-[7]:	https://www.rei.com/product/867519/astral-sea-wolf-pfd-mens
-[8]:	http://amzn.to/292fRLY
-[9]:	https://www.rei.com/product/869119/mti-fluid-20-belt-pack-inflatable-pfd
-[10]:	https://www.rei.com/product/101755/nrs-pilot-river-knife
-[11]:	https://www.rei.com/product/101754/nrs-co-pilot-river-knife-yellow
-[12]:	https://www.rei.com/product/881345/nrs-wedge-rescue-throw-bag
-[13]:	https://www.rei.com/product/883302/sea-to-summit-ultra-flex-water-booties
-[14]:	http://amzn.to/295kdRT
-[15]:	http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/
