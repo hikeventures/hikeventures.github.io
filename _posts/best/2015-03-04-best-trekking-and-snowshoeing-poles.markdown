@@ -14,7 +14,6 @@ Trekking and snowshoeing poles are especially useful if you have to walk up or d
 
 We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market quite closely and compare the specifications of new products as you can read[^1] below.
 
-
 ---
 
 # The best trekking and snowshoeing poles 2016
