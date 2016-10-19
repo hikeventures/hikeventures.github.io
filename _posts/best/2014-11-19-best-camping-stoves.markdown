@@ -14,6 +14,7 @@ Planning an outdoor adventure and still searching for the right camping stove? A
 You probably take matches with you to ignite your stove. As an alternative, I found the <a href="http://amzn.to/22kZs72" rel="nofollo">Light My Fire Swedish FireSteel</a> quite useful and it does not really matter if it get's wet. It will still work. It might be not that easy to ignite the stove but it's more reliable and I always take my Swedish FireSteel with me together with matches.
 
 We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market quite closely and compare the specifications of new products as you can read[^1] below.
+
 ---
 
 # The best camping stoves for 2016
@@ -58,7 +59,7 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
 <!--more-->
 
----- 
+----
 
 I would also pack <a href="http://amzn.to/22kZs72" rel="nofollo">Swedish FireSteel</a> into my backpack rather than matches. Matches can get wet but with the <a href="http://amzn.to/22kZs72" rel="nofollo">Swedish FireSteel</a> you don't have to worry about that. Just make sure that you know how to use the <a href="http://amzn.to/22kZs72" rel="nofollo">Light My Fire Swedish FireSteel</a> before you set out to the backcountry.
 
