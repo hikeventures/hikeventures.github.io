@@ -27,7 +27,7 @@ But you know what they say – “never say never”, and indeed, after a while,
 
 ---
 
-# Reason 5: They look nice
+# Reason 5: Icebreaker t-shirts look nice
 I like the cut (in most cases they make me look rather slim and trim) and I love the colours and colour combinations. Recently, Icebreaker has also started to produce t-shirts with prints. And they are good. What I understood from their brochures, they sometimes work with famous artists on the design and when you buy a t-shirt like that, it almost feels like you also buy a piece of art.
 
 And talking about the prints, right now I have two Icebreaker t-shirts like that. One of them is with a print of a mountain range across the chest, and the other with a bike and a canoe attached to it. Yes, it is about bikerafting - a very suitable shirt for my kind of sport. Of course, having a packraft on it would be even better, but I think it is still a bit too early to ask for it. Or can I?
@@ -42,7 +42,7 @@ And you know what? The designs are so nice that I feel very comfortable to wear 
 
 ---
 
-# Reason 4: They feel soft
+# Reason 4: Icebreaker t-shirts feel soft
 For me wool was always something very warm and very itchy. Actually wool and itchy were almost synonymous. And indeed, what can you expect if most of the wool in my childhood was either regular sheep’s wool, or, in some rare cases, lamb’s or camel’s wool (I have a very warm and very itchy blanket that caused many a sleepless night). Cashmere was probably the only soft wool that I knew, but it was very expensive and very delicate (I remember my mother washed a cashmere sweater at a higher temperature than allowed and… well, let say it was very very slimming after that…).
 
 Otherwise, all wool in my life was rather coarse and itchy. I even remember that we had a joke about woollen underwear – it was something that no one wanted to have because the last thing you want is to have wool next to your, hmmmm, tender parts. The Big Bang Theory played on these properties of wool as well, when Sheldon forced Leonard to wear a woollen sweater to make him uncomfortable so that the latter would understand what it was to be Sheldon.
@@ -57,7 +57,7 @@ And this is why I like merino and Icebreaker garments in particular – they don
 
 ---
 
-# Reason 3: They are very warm
+# Reason 3: Icebreaker t-shirts are very warm
 Yes, they are. Well, exactly how warm they are would, of course, depend on the thickness of the material usually represented by a number, which stands for the fabric’s weight in grams per square meter. And there are two most common types used by Icebreaker for t-shirts. These are 150 (or ultralight) and 200 (or lightweight). The former is meant to be rather versatile and could be used in all seasons, whereas the latter is more for moderate to cool conditions.  
 
 And it is very true – I have a few Icebreaker t-shirts in 150 and a few in 200. And the ones in 150 are great on their own in summer, but I also wear them in combination with other items throughout the year. Often, on hiking and packrafting trips I use them as a base layer or nightwear (and sometimes even both).
@@ -76,7 +76,7 @@ And even though it felt a bit strange to wear something woollen when the tempera
 
 ---
 
-# Reason 2: They are durable
+# Reason 2: Icebreaker t-shirts are durable
 Well, nothing is forever, but the Icebreaker garments, similarly to their namesakes, can take a lot of abuse. I have a number of t-shirts (and other items) and I have used them extensively throughout the last several years. And because they are so versatile, I tend to wear them more than any other t-shirts that I have. 
 
 And I don’t mean just in the outdoors, but also in my everyday life (see Reasons 4 and 5). I will not be able to say exactly how long an icebreaker t-shirt would last as that would depend on a number of parameters (including the weight of the material), but I can say for sure that it takes a good couple of years before they start to give up.
@@ -87,7 +87,7 @@ However, you will still have some time to save money as it takes a while before 
 
 ---
 
-# Reason 1: They don’t smell
+# Reason 1: Icebreaker t-shirts don’t smell
 And the number one reason why I like them is … (drumroll, please) … they don’t stink. The sales person was absolutely right - even after a week of non-stop wearing it is still ok. And when I say ‘non-stop’ I really mean it. I had weeks when I was literally living in one, that icebreaker being an extension of me. Of course if you wear them for so long, they do not smell fresh any more, but that is not a problem because they do not smell bad either.
 
 Moreover, even if they start ‘smelling a bit’, you can always do one of two things. The first option is to wash it and let it quickly dry. As the material is rather thin (especially the 150 ones), you can do it within one night easily. 
