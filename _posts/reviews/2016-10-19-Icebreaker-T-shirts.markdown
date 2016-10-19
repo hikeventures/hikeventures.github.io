@@ -12,7 +12,9 @@ tags:
   - t-shirts
 ---
 
-The first time I heard about Icebreaker was about 5 or 6 years ago when together with my Adventure Tourism students I went for a short ‘gear talk’ to our local outdoor shop. The sales guy told us that they had some t-shirts that were “really cool” because you could wear them for a long time and they wouldn’t “stink”. What he said made me really interested so I decided to have a look at them, but was immediately taken back by the price. “What? 60 Euro? I never…” I said to myself and moved on to other things.
+The first time I heard about Icebreaker was about 5 or 6 years ago when together with my Adventure Tourism students I went for a short ‘gear talk’ to our local outdoor shop. The sales guy told us that they had some t-shirts that were “really cool” because you could wear them for a long time and they wouldn’t “stink”. 
+
+What he said made me really interested so I decided to have a look at them, but was immediately taken back by the price. “What? 60 Euro? I never…” I said to myself and moved on to other things.
 
 But you know what they say – “never say never”, and indeed, after a while, I bought one Icebreaker t-shirt and was immediately sold. And now, I am a happy owner and user of a rather large ‘collection’ of various Icebreaker items (ranging from t-shirts to sweaters and from gloves to underwear) and I still cannot seem to have enough of them still. And here is the countdown of the five most important reasons why.
 
