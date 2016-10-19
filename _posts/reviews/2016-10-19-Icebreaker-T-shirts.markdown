@@ -33,10 +33,8 @@ And you know what? The designs are so nice that I feel very comfortable to wear 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30390165776/in/dateposted-public/" title="Icebreaker t-shirts look good"><img src="https://c1.staticflickr.com/9/8550/30390165776_ce8d18cf51_k.jpg" width="2048" height="1365" alt="Icebreaker t-shirt tshirt merino wool design"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 * A 'bikerafting' print on my Icebreaker t-shirt (on the left) and fitting in with my colleagues at work (on the right)
----
 
 ---
-
 
 # Reason 4: They feel soft
 For me wool was always something very warm and very itchy. Actually wool and itchy were almost synonymous. And indeed, what can you expect if most of the wool in my childhood was either regular sheep’s wool, or, in some rare cases, lamb’s or camel’s wool (I have a very warm and very itchy blanket that caused many a sleepless night). Cashmere was probably the only soft wool that I knew, but it was very expensive and very delicate (I remember my mother washed a cashmere sweater at a higher temperature than allowed and… well, let say it was very very slimming after that…).
@@ -48,7 +46,6 @@ And this is why I like merino and Icebreaker garments in particular – they don
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30339912621/in/dateposted-public/" title="Wearing an Icebreaker while 'swamp-tramping' in Poland"><img src="https://c6.staticflickr.com/6/5722/30339912621_5f55cec9f0_h.jpg" width="1063" height="1600" alt="julbo swamp Icebreaker t-shirt tshirt merino wool Poland Biebrza hike patagonia"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 * 'Swamp-tramping' in Poland this spring
----
 
 ---
 
@@ -60,21 +57,15 @@ However, if it is really hot, even ultralight t-shirts might be too much. That i
 ---
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29794614113/in/dateposted-public/" title="Konstantin wearing his 'featherweight' Icebreaker t-shirt"><img src="https://c2.staticflickr.com/6/5506/29794614113_1b0e26d535_k.jpg" width="2048" height="1536" alt="tshirt Featherweight Icebreaker t-shirt Japan travel merino wool"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<<<<<<< HEAD
-
-* Wearing my 'featherweight' icebreaker during our trip to Japan last year
-=======
 
 * Wearing my 'featherweight' icebreaker during our trip to Japan last year
 
->>>>>>> origin/master
 ---
 
 # Reason 2: They are durable
 Well, nothing is forever, but the Icebreaker garments, similarly to their namesakes, can take a lot of abuse. I have a number of t-shirts (and other items) and I have used them extensively throughout the last several years. And because they are so versatile, I tend to wear them more than any other t-shirts that I have. And I don’t mean just in the outdoors, but also in my everyday life (see Reasons 4 and 5). I will not be able to say exactly how long an icebreaker t-shirt would last as that would depend on a number of parameters (including the weight of the material), but I can say for sure that it takes a good couple of years before they start to give up.
 
 And even then, you can still manage to carry on for a while: the first sign of the icebreaker getting old is the appearance of tiny holes, which can still be patched. But once these holes appear, there is no turning back. Sooner or later you will need to decommission it. However, you will still have some time to save money as it takes a while before you cannot wear it any more. So far, I have only one t-shirt, my first icebreaker, that is beyond repair. The rest are still doing fine.
----
 
 ---
 
@@ -85,21 +76,12 @@ Moreover, even if they start ‘smelling a bit’, you can always do one of two 
 
 And when talking about Icebreaker t-shirts and odour-resistance, you do not need to take my word for that alone. Go and ask my wife, who is ‘über’-hygienic. She grew up with a mother who is a microbiologist so, her natural tendency would be to change her t-shirts several times a day, even in the most remote areas. If she had a chance, of course. But when I introduced her to Icebreaker, she instantly became a full-time convert and she does not want to buy anything less than that. For example, last year, when we travelled in Japan for three weeks, she took a couple of icebreakers as well as a few cotton t-shirts with her. But she ended up using only the latter, the cotton ones lying as dead weight at the bottom of the backpack. That is why this year, when we were preparing for our new Japan trip, she said that she would only take Icebreaker t-shirts and that’s all. And she actually did exactly that and never regretted her decision.
 
----
-
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30390165446/in/dateposted-public/" title="Marta wearing her Icebreaker t-shirt in Japan"><img src="https://c7.staticflickr.com/9/8407/30390165446_808a99d388_k.jpg" width="2048" height="1536" alt="Icebreaker tshirt merino wool t-shirt Japan Osaka travelling travel moomin"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<<<<<<< HEAD
-
-* Marta in her Icebreaker t-shirt at the Osaka train station this year
-=======
 
 * Marta in her Icebreaker t-shirt at the Osaka train station this year
 
->>>>>>> origin/master
----
 
 To sum it up, I love my icebreakers because they look nice on me, I can wear them for a long time during trips and in my everyday life and because they keep me warm. And of course, because they “do not stink”.
----
 
 Final comment: Only recently, my wife told me that she would like to ask Santa Claus for a black icebreaker to replace her favourite one which was stolen earlier this year. And I have a feeling that he might grant her that wish.
 
