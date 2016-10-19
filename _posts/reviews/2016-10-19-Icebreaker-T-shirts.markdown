@@ -58,11 +58,15 @@ And this is why I like merino and Icebreaker garments in particular – they don
 ---
 
 # Reason 3: They are very warm
-Yes, they are. Well, exactly how warm they are would, of course, depend on the thickness of the material usually represented by a number, which stands for the fabric’s weight in grams per square meter. And there are two most common types used by Icebreaker for t-shirts. These are 150 (or ultralight) and 200 (or lightweight). The former is meant to be rather versatile and could be used in all seasons, whereas the latter is more for moderate to cool conditions.  And it is very true – I have a few Icebreaker t-shirts in 150 and a few in 200. And the ones in 150 are great on their own in summer, but I also wear them in combination with other items throughout the year. Often, on hiking and packrafting trips I use them as a base layer or nightwear (and sometimes even both).
+Yes, they are. Well, exactly how warm they are would, of course, depend on the thickness of the material usually represented by a number, which stands for the fabric’s weight in grams per square meter. And there are two most common types used by Icebreaker for t-shirts. These are 150 (or ultralight) and 200 (or lightweight). The former is meant to be rather versatile and could be used in all seasons, whereas the latter is more for moderate to cool conditions.  
+
+And it is very true – I have a few Icebreaker t-shirts in 150 and a few in 200. And the ones in 150 are great on their own in summer, but I also wear them in combination with other items throughout the year. Often, on hiking and packrafting trips I use them as a base layer or nightwear (and sometimes even both).
 
 However, if it is really hot, even ultralight t-shirts might be too much. That is why they also have something even lighter than ultralight (yes, it seems to be possible) and they call it featherweight. The name, regardless how suggestive it might be, does not actually presuppose that you have to put on feathers. 
 
-What it simply means is that the weight of the fabric is between 120 and 135 grams (‘as light as a feather’ I guess) and, because of that, such garments are better suited for warm to hot conditions. And indeed I have one t-shirt like that, which I used last summer in Japan. And even though it felt a bit strange to wear something woollen when the temperatures are in the upper 30s (and I am talking about Celsius here and not Fahrenheit), it actually was very pleasant. Especially when I made it wet, which helped me to stay cool.
+What it simply means is that the weight of the fabric is between 120 and 135 grams (‘as light as a feather’ I guess) and, because of that, such garments are better suited for warm to hot conditions. And indeed I have one t-shirt like that, which I used last summer in Japan. 
+
+And even though it felt a bit strange to wear something woollen when the temperatures are in the upper 30s (and I am talking about Celsius here and not Fahrenheit), it actually was very pleasant. Especially when I made it wet, which helped me to stay cool.
 
 ---
 
@@ -86,7 +90,9 @@ However, you will still have some time to save money as it takes a while before 
 # Reason 1: They don’t smell
 And the number one reason why I like them is … (drumroll, please) … they don’t stink. The sales person was absolutely right - even after a week of non-stop wearing it is still ok. And when I say ‘non-stop’ I really mean it. I had weeks when I was literally living in one, that icebreaker being an extension of me. Of course if you wear them for so long, they do not smell fresh any more, but that is not a problem because they do not smell bad either.
 
-Moreover, even if they start ‘smelling a bit’, you can always do one of two things. The first option is to wash it and let it quickly dry. As the material is rather thin (especially the 150 ones), you can do it within one night easily. If it is still wet or you do not have that much time, you can still dry it on the go. The wool, even when it is wet, keeps you rather warm (the most dreadful moment is when you put it on, but very quickly it feels fine again) and, in some cases, like when I did it in Japan last year, it can actually be rather refreshing. The other option is to expose it to some wind and cold. 
+Moreover, even if they start ‘smelling a bit’, you can always do one of two things. The first option is to wash it and let it quickly dry. As the material is rather thin (especially the 150 ones), you can do it within one night easily. 
+
+If it is still wet or you do not have that much time, you can still dry it on the go. The wool, even when it is wet, keeps you rather warm (the most dreadful moment is when you put it on, but very quickly it feels fine again) and, in some cases, like when I did it in Japan last year, it can actually be rather refreshing. The other option is to expose it to some wind and cold. 
 
 I have heard from my grandmother that in the past, one way to ‘refresh’ woollen thing was to put them into a freeze (which in my part of Russia in winter time was just outside). You need to make sure that it is not wet though otherwise you will literally need to break the ice…
 
