@@ -60,7 +60,9 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 </table>
 </div><!--more-->
 
----
+<hr>
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
+<hr>
 
 ![Best tent for Packrafting and Backpacking](https://c1.staticflickr.com/3/2855/9599002048_b8561d2abd_b.jpg "Best Solo 1-person Tent for packrafting and backpacking")
 

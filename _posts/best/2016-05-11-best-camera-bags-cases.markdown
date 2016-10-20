@@ -58,7 +58,9 @@ In this blog post[^1] I would like to give an overview about the best camera bag
       </table>
 </div>
 <!--more-->
----
+<hr>
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
+<hr>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716060755/in/photolist-JP8CEz-JNYoHW-KKxjpM-pbERVy" title="Hiking and Packrafting in Norway"><img src="https://c4.staticflickr.com/9/8606/28716060755_0596cd42cf_k.jpg" width="2048" height="1365" alt="Lowepro Nova Sport 7L AW Best Camera Bag A7 Batis 25"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

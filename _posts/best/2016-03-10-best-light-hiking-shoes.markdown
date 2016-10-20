@@ -47,7 +47,9 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 </table>
 </div>
 <!--more-->
----
+<hr>
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
+<hr>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15189713140/in/album-72157646473352583/" title="Kurjenrahka National Park"><img src="https://c5.staticflickr.com/3/2942/15189713140_cf23bd9412_b.jpg" width="100%" alt="The best ultralight hiking shoes 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

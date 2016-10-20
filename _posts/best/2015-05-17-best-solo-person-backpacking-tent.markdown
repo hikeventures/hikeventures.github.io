@@ -62,6 +62,8 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 </div>
 <!--more-->
 <hr>
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
+<hr>
 
 Further, it's also worth to consider that a 1-person tent can be more heavy than a 2-person tent if you would distribute the weight of the 2-person tent over 2 persons. So hiking with another person can make you carry less weight.
 
