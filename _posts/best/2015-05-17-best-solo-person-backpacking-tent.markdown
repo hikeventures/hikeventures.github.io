@@ -29,33 +29,33 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
         <tbody>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#UltaMid" target="_blank">Hyperlite Mountain Gear UltaMid 2</a></td><td>499g</td>
+          <td><a href="http://www.hikeventures.com/deals/#UltaMid" target="_blank" rel="nofollow">Hyperlite Mountain Gear UltaMid 2</a></td><td>499g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Fly+Creek+HV+UL1" target="_blank">Fly Creek HV UL1</a></td><td>935g</td>
+          <td><a href="http://amzn.to/2eTL32m" target="_blank" rel="nofollow">Fly Creek HV UL1</a></td><td>935g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Hilleberg+Enan" target="_blank">Hilleberg Enan</a></td><td>1100g</td>
+          <td><a href="http://amzn.to/2ea6rBS" target="_blank" rel="nofollow">Hilleberg Enan</a></td><td>1100g</td>
         </tr>
 
           <tr>
-            <td><a href="http://www.hikeventures.com/deals/#MSR+Hubba+NX" target="_blank">MSR Hubba NX</a></td><td>1290g</td>
+            <td><a href="http://amzn.to/2eTNt0P" target="_blank" rel="nofollow">MSR Hubba NX</a></td><td>1290g</td>
           </tr>
           <tr>
-            <td><a href="http://www.hikeventures.com/deals/#Marmot+Force+UL+2P" target="_blank">Marmot Force UL 2P</a></td><td>1320g</td>
+            <td><a href="http://amzn.to/2e3enRM" target="_blank" rel="nofollow">Marmot Force UL 2P</a></td><td>1320g</td>
           </tr>
           <tr>
-            <td><a href="http://www.hikeventures.com/deals/#Hilleberg+Akto" target="_blank">Hilleberg Akto</a></td><td>1700g</td>
+            <td><a href="http://amzn.to/2euL9cG" target="_blank" rel="nofollow">Hilleberg Akto</a></td><td>1700g</td>
           </tr>
           <tr>
-            <td><a href="http://www.hikeventures.com/deals/#Hilleberg+Niak" target="_blank">Hilleberg Niak</a></td><td>1700g</td>
+            <td><a href="http://amzn.to/2e3bd0i" target="_blank" rel="nofollow">Hilleberg Niak</a></td><td>1700g</td>
           </tr>
           <tr>
-            <td><a href="http://www.hikeventures.com/deals/#Hilleberg+Soulo" target="_blank">Hilleberg Soulo</a></td><td>2400g</td>
+            <td><a href="http://amzn.to/2e3bf89" target="_blank" rel="nofollow">Hilleberg Soulo</a></td><td>2400g</td>
           </tr>
           <tr>
-            <td><a href="http://www.hikeventures.com/deals/#Hilleberg+Nallo" target="_blank">Hilleberg Nallo</a></td><td>2400g</td>
+            <td><a href="http://amzn.to/2e8sRRw" target="_blank" rel="nofollow">Hilleberg Nallo</a></td><td>2400g</td>
           </tr>
 </tbody>
 </table>
