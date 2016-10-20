@@ -11,7 +11,7 @@ layout: post
 ---
 Do you wear a fleece on your hike but still feel cold. Well, it's probably because your fleece jacket does not protect you against cold winds. A lightweight wind jacket is probably one of the most useful piece of clothes which you can take when going hiking, backpacking, climbing, cycling, running or plan any other backcountry trip. A wind jacket does not need much space so you can easily store it in your backpack. Just make sure that you buy a wind jacket with a hoodie.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market and compare the specifications of new products. Here comes our buying guide[^1].
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market and compare the specifications of new products. Here comes our buying guide.This blog post contains affiliate links.
 
 <hr>
 
@@ -135,8 +135,6 @@ amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
-
-[^1]:	links contain affiliate links
 
 [1]:	http://www.hikeventures.com/destinations/
 [2]:	http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Best Wind Jackets 2016"

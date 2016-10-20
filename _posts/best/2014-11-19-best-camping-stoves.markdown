@@ -13,7 +13,7 @@ Planning an outdoor adventure and still searching for the right camping stove? A
 
 You probably take matches with you to ignite your stove. As an alternative, I found the <a href="http://amzn.to/22kZs72" rel="nofollo">Light My Fire Swedish FireSteel</a> quite useful and it does not really matter if it get's wet. It will still work. It might be not that easy to ignite the stove but it's more reliable and I always take my Swedish FireSteel with me together with matches.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market and compare the specifications of new products. Here comes our buying guide[^1].
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market and compare the specifications of new products. Here comes our buying guide.This blog post contains affiliate links.
 
 ---
 
@@ -189,8 +189,6 @@ My preference goes towards a camping stove which boils water quickly and uses lo
 If you are traveling to different continents then a multi-fuel stove might be the best solution as gas canisters might not be sold everywhere. For winter camping you should probably also consider a multifuel stove like the [MSR XGK EX][6].
 
 ---
-
-[^1]:	links contain affiliate links
 
 [1]:	http://www.hikeventures.com/destinations/
 [2]:	http://hikeventures.com/gear-review-jetboil-sol-ti/ "Jetboil Sol Ti"

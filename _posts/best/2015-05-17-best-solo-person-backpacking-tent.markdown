@@ -14,7 +14,7 @@ Are you looking for a new tent and want to know which one is the best solo backp
 
 I would like to give an overview about the best solo backpacking tents which we have selected for 2016. It's important to know that each tent is made for a specific purpose so there is no one tent fits all tent. Just as a side note - I have not included tarps in my selection.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market and compare the specifications of new products. Here comes our buying guide[^1].
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market and compare the specifications of new products. Here comes our buying guide.This blog post contains affiliate links.
 
 <hr>
 
@@ -322,5 +322,3 @@ amzn_assoc_linkid = "965296fb866182bb89b535202541adda";
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 <hr>
-
-[^1]:	links contain affiliate links

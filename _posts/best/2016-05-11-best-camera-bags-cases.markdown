@@ -10,7 +10,9 @@ tags:
   - camera
 ---
 
-In this blog post[^1] I would like to give an overview about the best camera bags which I would select for a Sony A7, A7II A7RII or A7SII (and also a6500, a6300 or a6000 since they share a similar form factor). Different cases might be useful for different activities e.g. you might select a different camera bag when you go hiking than you would choose when planning to go on a kayaking or packrafting trip. As I have recently upgraded my own camera gear which I am planning to take to [our trips](http://www.hikeventures.com/destinations/),  I was in need of a new camera case which I can use for my outdoor adventures. I was looking for a camera bag or case which packs small and actually came to the conclusion that I would need different camera bags for my MILC for different activities.
+In this blog post[^1] I would like to give an overview about the best camera bags which I would select for a Sony A7, A7II A7RII or A7SII (and also a6500, a6300 or a6000 since they share a similar form factor). Different cases might be useful for different activities e.g. you might select a different camera bag when you go hiking than you would choose when planning to go on a kayaking or packrafting trip. 
+
+As I have recently upgraded my own camera gear which I am planning to take to [our trips](http://www.hikeventures.com/destinations/),  I was in need of a new camera case which I can use for my outdoor adventures. I was looking for a camera bag or case which packs small and actually came to the conclusion that I would need different camera bags for my MILC for different activities. This blog post contains affiliate links.
 
 ---
 
@@ -198,5 +200,3 @@ amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
 From my point of view there is no best camera bag which fits every situation but having the right camera gear for different activities is essential to protect your gear and also to enjoy photography with your Sony A7 or a6300 more. I hope you are able to find your camera bag for your next hiking, backpacking, kayaking or packrafting adventure.
 
 <hr>
-
-[^1]:	links contain affiliate links

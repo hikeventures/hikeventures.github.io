@@ -12,7 +12,7 @@ tags:
 
 For 2017 we can expect to see plenty of new tents on the market. The trend goes clearly towards lightweight tents. But are lightweight tents always the best option? It depends. Ultralight gear is sometimes made of materials which are not very durable. For example chances are high that you get a hole in your tent floor if the tent floor fabric is very thin.
 
-However, if you plan to go only ocassionally on outdoor trips or if you are into ultralight backpacking then buying a superlight tent might be a better option even so you may compromise with the durability of the tent. The list below contains only a selection of new / updated tents and I might add a few more later on.
+However, if you plan to go only ocassionally on outdoor trips or if you are into ultralight backpacking then buying a superlight tent might be a better option even so you may compromise with the durability of the tent. The list below contains only a selection of new / updated tents and I might add a few more later on. This blog post contains affiliate links.
 
 <hr>
 <script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
@@ -299,5 +299,3 @@ amzn_assoc_linkid = "965296fb866182bb89b535202541adda";
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 <hr>
-
-[^1]:	links contain affiliate links

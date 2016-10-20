@@ -11,7 +11,7 @@ layout: post
 ---
 For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](http://www.hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/ "Hilleberg Anjan") which has served us quite well so far in [Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Packrafting in Sarek"), [the Netherlands](http://www.hikeventures.com/packrafting-in-the-weerribben-wieden-national-park/ "Packrafting in the Netherlands") and [Finland](http://www.hikeventures.com/halloween-adventure-at-lake-suolijarvi/ "Packrafting in Finland"). I have listed freestanding and non-freestanding tents in this blog post as well as normal and ultralight tents.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market and compare the specifications of new products. Here comes our buying guide[^1].
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market and compare the specifications of new products. Here comes our buying guide.This blog post contains affiliate links.
 
 
 ---
@@ -287,5 +287,3 @@ amzn_assoc_linkid = "965296fb866182bb89b535202541adda";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 ---
-
-[^1]:	links contain affiliate links
