@@ -11,7 +11,7 @@ layout: post
 ---
 In this blog post you can find the best lightweight sleeping pads which we would consider to buy in 2016. I have indicated the R-value of each sleeping pads so you can choose the one which would be most suitable for your next outdoor adventure. From the selection below I have only tested the Therm-a-Rest NeoAir XTherm, the self-inflating Therm-a-Rest Evolite and the Exped SYNMAT UL 7 M (you can [see][1] the SYNMAT UL 7 M in action on our hiking and packrafting trip in the Swedish Mountains). From all sleeping pads I would probably recommend you the <a href="http://www.hikeventures.com/deals/#XTherm" target="_blank">Therm-a-Rest XTherm</a> most.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market and compare the specifications of new products. Here comes our buying guide[^1].
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market and compare the specifications of new products. Here comes our buying guide (this blog post contains affiliate links).
 
 ---
 
@@ -414,8 +414,6 @@ amzn_assoc_linkid = "965296fb866182bb89b535202541adda";
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
-
-[^1]:	links contain affiliate links
 
 [1]:	http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/
 [2]:	http://www.hikeventures.com/destinations/

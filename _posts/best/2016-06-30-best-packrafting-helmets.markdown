@@ -18,7 +18,7 @@ If you are planning to do whitewater packrafting or kayaking then you should pro
 * Is the helmet lightweight so it feels comfortable to wear it for a longer period?
 * Do you need ear protection?
 
-Here you can find [one of our trips](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/) in Sweden where we were wearing helmets. We have not tested all the helmets in this article[^1] but those are our favorites if we were to buy a new one.
+Here you can find [one of our trips](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/) in Sweden where we were wearing helmets. We have not tested all the helmets in this article[^1] but those are our favorites if we were to buy a new one. This blog post contains affiliate links.
 
 
 <hr>
@@ -179,5 +179,3 @@ amzn_assoc_linkid = "1b9d1e4302c0c92ff457962d6ba0d67b";
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
-
-[^1]:	links contain affiliate links
