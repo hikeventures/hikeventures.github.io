@@ -30,25 +30,25 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
         <tbody>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Montane+Minimus+Pant" target="_blank">Montane Minimus Pants</a></td><td>141g</td>
+          <td><a href="http://amzn.to/2e8l2eE" target="_blank" rel="nofollow">Montane Minimus Pants</a></td><td>141g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Montane+Atomic+Pant" target="_blank">Montane Atomic Pants</a></td><td>185g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Montane+Atomic+Pant" target="_blank" rel="nofollow">Montane Atomic Pants</a></td><td>185g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Mountain+Hardwear+Plasmic+Pant" target="_blank">Mountain Hardwear Plasmic Pants</a></td><td>204g</td>
+          <td><a href="http://amzn.to/2e33KOw" target="_blank" rel="nofollow">Mountain Hardwear Plasmic Pants</a></td><td>204g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Rab+Fuse+Pant" target="_blank">Rab Fuse Pants</a></td><td>205g</td>
+          <td><a href="http://amzn.to/2e9UXy5" target="_blank" rel="nofollow">Rab Fuse Pants</a></td><td>205g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Haglofs+LIM+III+pant" target="_blank">Haglöfs L.I.M. III Pants</a></td><td>225g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Haglofs+LIM+III+pant" target="_blank" rel="nofollow">Haglöfs L.I.M. III Pants</a></td><td>225g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Arcteryx+Beta+SL+pant" target="_blank">Arcteryx Beta SL Pants</a></td><td>260g</td>
+          <td><a href="http://amzn.to/2drImA6" target="_blank" rel="nofollow">Arcteryx Beta SL Pants</a></td><td>260g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Arcteryx+Beta+Rab+Firewall+Pant" target="_blank">Rab Firewall Pants</a></td><td>319g</td>
+          <td><a href="http://amzn.to/2eI58JB" target="_blank" rel="nofollow">Rab Firewall Pants</a></td><td>319g</td>
         </tr>
 </tbody>
 </table>
