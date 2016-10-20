@@ -5,10 +5,10 @@ description: A microadventure in the North of the Netherlands
 date: 2016-10-21 00:30:00
 category: trips
 tags:
-  - trip
-  - national park
+  - destination
+  - hiking
   - The Netherlands
-  - Drents-Friese Wold
+  - Drents-Friese Wold National Park
   - dunes
   - sheep
 ---
