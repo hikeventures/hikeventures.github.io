@@ -29,47 +29,47 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
         <tbody>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#ghost+whisperer+hooded" target="_blank">Mountain Hardware Ghost Whisperer Hooded Down Jacket (800fp)</a></td><td>212g</td>
+          <td><a href="http://amzn.to/2doK4aj" target="_blank" rel="nofollow">Mountain Hardware Ghost Whisperer Hooded Down Jacket (800fp)</a></td><td>212g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#arcteryx+cerium+LT+hoody" target="_blank">Arcteryx Cerium LT Hoody (850fp)</a></td><td>275g</td>
+          <td><a href="http://amzn.to/2doJmJP" target="_blank" rel="nofollow">Arcteryx Cerium LT Hoody (850fp)</a></td><td>275g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#western+flash+jacket" target="_blank">Western Mountaineering Flash Jacket (850fp)</a></td><td>290g</td>
+          <td><a href="http://amzn.to/2e7TgPr" target="_blank" rel="nofollow">Western Mountaineering Flash Jacket (850fp)</a></td><td>290g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#marmot+quasar+hoody" target="_blank">Marmot Quasar Hoody (900fp)</a></td><td>372g</td>
+          <td><a href="http://amzn.to/2elEHtO" target="_blank" rel="nofollow">Marmot Quasar Hoody (900fp)</a></td><td>372g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#premonition+jacket" target="_blank">The North Face Premonition Jacket (800fp)</a></td><td>440g</td>
+          <td><a href="http://amzn.to/2ek1RxR" target="_blank" rel="nofollow">The North Face Premonition Jacket (800fp)</a></td><td>440g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#arcteryx+cerium+sv+jacket" target="_blank">Arcteryx Cerium SV Hoody (850fp)</a></td><td>440g</td>
+          <td><a href="http://amzn.to/2dBjOHV" target="_blank" rel="nofollow">Arcteryx Cerium SV Hoody (850fp)</a></td><td>440g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#patagonia+down+hooded" target="_blank">Patagonia Men's Down Hooded Jacket (800fp)</a></td><td>550g</td>
+          <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Patagonia Men's Down Hooded Jacket (800fp)</a></td><td>550g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#rab+infinity+endurance" target="_blank">Rab Infinity Endurance Jacket (850fp)</a></td><td>575g</td>
+          <td><a href="http://amzn.to/2e9t7BZ" target="_blank" rel="nofollow">Rab Infinity Endurance Jacket (850fp)</a></td><td>575g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#rab+positron+jacket" target="_blank">Rab Positron Jacket (800fp)</a></td><td>720g</td>
+          <td><a href="http://amzn.to/2e7V1Mx" target="_blank" rel="nofollow">Rab Positron Jacket (800fp)</a></td><td>720g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Immaculator+Parka" target="_blank">The North Face Immaculator Parka (800fp)</a></td><td>720g</td>
+          <td><a href="http://amzn.to/2e2FVXu" target="_blank" rel="nofollow">The North Face Immaculator Parka (800fp)</a></td><td>720g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Arcteryx+ceres+jacket" target="_blank">Arcteryx Ceres Jacket (850fp)</a></td><td>860g</td>
+          <td><a href="http://amzn.to/2endumN" target="_blank" rel="nofollow">Arcteryx Ceres Jacket (850fp)</a></td><td>860g</td>
         </tr>
 
         </tbody>
