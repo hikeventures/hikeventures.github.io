@@ -37,16 +37,16 @@ Here you can find [one of our trips](http://www.hikeventures.com/Swedish-Packraf
 
         <tbody>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#NRS+WRSI+Trident+Composite+Helmet" target="_blank">NRS WRSI Trident Composite Helmet</a></td><td>848g</td>
+          <td><a href="http://amzn.to/2dQcgyQ" target="_blank">NRS WRSI Trident Composite Helmet</a></td><td>848g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#NRS+WRSI+Current+Helmet" target="_blank">NRS WRSI Current Helmet</a></td><td>517g</td>
+          <td><a href="http://amzn.to/2eIhYHX" target="_blank">NRS WRSI Current Helmet</a></td><td>517g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Predator+Shiznit+helmet" target="_blank">Predator Shiznit Helmet</a></td><td>500g</td>
+          <td><a href="http://amzn.to/2eTQCy0" target="_blank">Predator Shiznit Helmet</a></td><td>500g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Sweet+Protection+Strutter+Helmet" target="_blank">Sweet Protection Strutter Helmet</a></td><td>400g</td>
+          <td><a href="http://amzn.to/2ea50Dt" target="_blank">Sweet Protection Strutter Helmet</a></td><td>400g</td>
         </tr>
         <tr>
           <td><a href="http://www.hikeventures.com/deals/#Petzl+Meteor+3+Helmet" target="_blank">Petzl Meteor 3+ Helmet</a></td><td>235g</td>
