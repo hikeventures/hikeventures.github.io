@@ -31,39 +31,39 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
         <tbody>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#petzl+e+lite" target="_blank">Petzl E+LITE</a></td><td>27g</td><td>26</td>
+          <td><a href="http://amzn.to/2drHzyP" target="_blank" rel="nofollow">Petzl E+LITE</a></td><td>27g</td><td>26</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.amazon.com/gp/product/B00HIW1I2C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HIW1I2C&linkCode=as2&tag=hikeve-20&linkId=SXRO3IZVWEGIXOPW" rel="nofollow" target="_blank">Zebralight H600 Mk II 18650 XM-L2</a></td><td>39g</td><td>1090</td>
+          <td><a href="http://amzn.to/2e8kRQg" rel="nofollow" target="_blank">Zebralight H600 Mk II 18650 XM-L2</a></td><td>39g</td><td>1090</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#petzl+tikka+r" target="_blank">Petzl Tikka R+</a></td><td>85g</td><td>170</td>
+          <td><a href="http://amzn.to/2e35oQp" target="_blank" rel="nofollow">Petzl Tikka R+</a></td><td>85g</td><td>170</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#black+diamond+revolt" target="_blank">Black Diamond Revolt</a></td><td>85g</td><td>170</td>
+          <td><a href="http://amzn.to/2eTHqJP" target="_blank" rel="nofollow">Black Diamond Revolt</a></td><td>85g</td><td>170</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#black+diamond+storm" target="_blank">Black Diamond Storm</a></td><td>110g</td><td>160</td>
+          <td><a href="http://amzn.to/2e34Jyw" target="_blank" rel="nofollow">Black Diamond Storm</a></td><td>110g</td><td>160</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#petzl+tikka" target="_blank">Petzl Tikka RXP</a></td><td>115g</td><td>215</td>
+          <td><a href="http://amzn.to/2drHpaV" target="_blank" rel="nofollow">Petzl Tikka RXP</a></td><td>115g</td><td>215</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#petzl+nao+plus" target="_blank">Petzl Nao Plus</a></td><td>187g</td><td>750</td>
+          <td><a href="http://amzn.to/2drIdg3" target="_blank" rel="nofollow">Petzl Nao Plus</a></td><td>187g</td><td>750</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#black+diamond+icon" target="_blank">Black Diamond Icon</a></td><td>220g</td><td>200</td>
+          <td><a href="http://amzn.to/2evTLRy" target="_blank" rel="nofollow">Black Diamond Icon</a></td><td>220g</td><td>200</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#princeton+tec+apex" target="_blank">Princeton Tec Apex</a></td><td>279g</td><td>275</td>
+          <td><a href="http://amzn.to/2e35AiF" target="_blank" rel="nofollow">Princeton Tec Apex</a></td><td>279g</td><td>275</td>
         </tr>
 
         </tbody>
