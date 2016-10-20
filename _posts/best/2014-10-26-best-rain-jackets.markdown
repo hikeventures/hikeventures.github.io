@@ -29,27 +29,27 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
         <tbody>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Berghaus+Vapourlight+Hyper+Smock" target="_blank" rel="nofollow">Berghaus Vapourlight Hyper Smock 2.0</a></td><td>75g</td>
+          <td><a href="http://amzn.to/2e34CD3" target="_blank" rel="nofollow">Berghaus Vapourlight Hyper Smock 2.0</a></td><td>75g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Outdoor+Research+Helium+II+Jacket" target="_blank" rel="nofollow">Outdoor Research Helium II Jacket</a></td><td>180g</td>
+          <td><a href="http://amzn.to/2dBLJYc" target="_blank" rel="nofollow">Outdoor Research Helium II Jacket</a></td><td>180g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Rab+Flashpoint+jacket" target="_blank" rel="nofollow">Rab Flashpoint Jacket</a></td><td>185g</td>
+          <td><a href="http://amzn.to/2evQYHY" target="_blank" rel="nofollow">Rab Flashpoint Jacket</a></td><td>185g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#montane+minimus+jacket" target="_blank" rel="nofollow">Montane Minimus Jacket</a></td><td>208g</td>
+          <td><a href="http://amzn.to/2e31BCI" target="_blank" rel="nofollow">Montane Minimus Jacket</a></td><td>208g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Mountain+Hardwear+Plasmonic+Jacket" target="_blank" rel="nofollow">Mountain Hardwear Plasmonic Jacket</a></td><td>323g</td>
+          <td><a href="http://amzn.to/2e33vTI" target="_blank" rel="nofollow">Mountain Hardwear Plasmonic Jacket</a></td><td>323g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Arcteryx+Zeta+LT+Jacket" target="_blank" rel="nofollow">Arcteryx Zeta LT Jacket</a></td><td>335g</td>
+          <td><a href="http://amzn.to/2eTGFR8" target="_blank" rel="nofollow">Arcteryx Zeta LT Jacket</a></td><td>335g</td>
         </tr>
 </tbody>
 </table>
