@@ -59,7 +59,9 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
 <!--more-->
 
-----
+<hr>
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
+<hr>
 
 I would also pack <a href="http://amzn.to/22kZs72" rel="nofollo">Swedish FireSteel</a> into my backpack rather than matches. Matches can get wet but with the <a href="http://amzn.to/22kZs72" rel="nofollo">Swedish FireSteel</a> you don't have to worry about that. Just make sure that you know how to use the <a href="http://amzn.to/22kZs72" rel="nofollo">Light My Fire Swedish FireSteel</a> before you set out to the backcountry.
 
