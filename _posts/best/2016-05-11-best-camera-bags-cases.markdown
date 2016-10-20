@@ -32,7 +32,7 @@ In this blog post[^1] I would like to give an overview about the best camera bag
         </tr>
 
         <tr>
-          <td><a href="https://www.rei.com/product/877640/thule-covert-camera-backpack" target="_blank" rel="nofollow">Thule Covert Camera Backpack</a></td><td>400g</td>
+          <td><a href="http://amzn.to/2evZ8Qo" target="_blank" rel="nofollow">Thule Covert Camera Backpack</a></td><td>400g</td>
         </tr>
 
         <tr>
@@ -48,11 +48,11 @@ In this blog post[^1] I would like to give an overview about the best camera bag
         </tr>
 
         <tr>
-          <td><a href="https://www.rei.com/product/887508/thule-covert-camera-messenger-bag-small" target="_blank" rel="nofollow">Thule Covert Camera Messenger Bag - Small</a></td><td>880g</td>
+          <td><a href="http://amzn.to/2e8soyG" target="_blank" rel="nofollow">Thule Covert Camera Messenger Bag - Small</a></td><td>880g</td>
         </tr>
 
         <tr>
-          <td><a href="https://www.rei.com/product/778223/pelican-1200-case-with-foam" target="_blank" rel="nofollow">Pelican 1200 Case</a></td><td>1305g</td>
+          <td><a href="http://amzn.to/2e3bJv1" target="_blank" rel="nofollow">Pelican 1200 Case</a></td><td>1305g</td>
         </tr>
         </tbody>
       </table>

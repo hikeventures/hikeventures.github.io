@@ -37,13 +37,13 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 </td>
 </tr>
 <tr>
-<td><a href="https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch" rel="nofollow">Suunto Spartan Ultra</a>
+<td><a href="http://amzn.to/2dQau0A" rel="nofollow">Suunto Spartan Ultra</a>
 </td>
 <td>73g
 </td>
 </tr>
 <tr>
-<td><a href="http://www.backcountry.com/garmin-fenix-3-bundle" rel="nofollow">Garmin Fenix 3</a>
+<td><a href="http://amzn.to/2ea5ERr" rel="nofollow">Garmin Fenix 3</a>
 </td>
 <td>82g
 </td>
