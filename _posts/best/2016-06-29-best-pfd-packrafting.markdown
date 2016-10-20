@@ -38,7 +38,7 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
           <td><a href="http://amzn.to/2e3bK2d" target="_blank">Astral Designs Sea Wolf</a></td><td>766g</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2e3aex9 target="_blank">Astral Designs YTV</a></td><td>794g</td>
+          <td><a href="http://amzn.to/2e3aex9" target="_blank">Astral Designs YTV</a></td><td>794g</td>
         </tr>
         <tr>
           <td><a href="http://amzn.to/292fRLY" target="_blank" rel="nofollow">Palm FX</a></td><td>877g</td>
