@@ -29,22 +29,22 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
         <tbody>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Outdoor+Research+Alti+Mittens" target="_blank">Alti Mittens</a></td><td>Outdoor Research</td>
+          <td><a href="http://amzn.to/2dQ8w0a" target="_blank" rel="nofollow">Alti Mittens</a></td><td>Outdoor Research</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#army+leather+heli+glove" target="_blank">Army Leather Heli Glove</a></td><td>Hestra</td>
+          <td><a href="http://amzn.to/2eIcmNU" target="_blank" rel="nofollow">Army Leather Heli Glove</a></td><td>Hestra</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#mountain+hardwear" target="_blank">Absolute Zero Mitten</a></td><td>Mountain Hardwear</td>
+          <td><a href="http://amzn.to/2ea3MIb" target="_blank" rel="nofollow">Absolute Zero Mitten</a></td><td>Mountain Hardwear</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#canada+goose+down+mittens" target="_blank">Down Mittens</a></td><td>Canada Goose</td>
+          <td><a href="http://amzn.to/2ew0z1D" target="_blank" rel="nofollow">Down Mittens</a></td><td>Canada Goose</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#canada+goose+down+glove" target="_blank">Down Glove</a></td><td>Canada Goose</td>
+          <td><a href="http://amzn.to/2dQafmq" target="_blank" rel="nofollow">Down Glove</a></td><td>Canada Goose</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#black+diamond+patrol+glove" target="_blank">Patrol Glove</a></td><td>Black Diamond</td>
+          <td><a href="http://amzn.to/2e3bqjY" target="_blank" rel="nofollow">Patrol Glove</a></td><td>Black Diamond</td>
         </tr>
 </tbody>
 </table>
@@ -53,7 +53,9 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
 <!--more-->
 
----
+<hr>
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
+<hr>
 
 
 ## Gloves or Mittens?

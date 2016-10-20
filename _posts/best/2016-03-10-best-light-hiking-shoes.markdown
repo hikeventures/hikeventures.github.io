@@ -29,25 +29,27 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
         <tbody>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#inov+roclite+282+gtx" target="_blank">Inov-8 Roclite 282 GTX</a></td><td>282g</td>
+          <td><a href="http://amzn.to/2dpfixR" target="_blank" rel="nofollow">Inov-8 Roclite 282 GTX</a></td><td>282g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#adidas+terrex+solo" target="_blank">Adidas Terrex Solo</a></td><td>349g</td>
+          <td><a href="http://amzn.to/2evYGlp" target="_blank" rel="nofollow">Adidas Terrex Solo</a></td><td>349g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#adidas+terrex+fast+gtx" target="_blank">Adidas Terrex Fast R GTX</a></td><td>411g</td>
+          <td><a href="http://amzn.to/2dQb52q" target="_blank" rel="nofollow">Adidas Terrex Fast R GTX</a></td><td>411g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Scarpa+Zen+Pro" target="_blank">Scarpa Zen Pro</a></td><td>480g</td>
+          <td><a href="http://amzn.to/2e8qSg3" target="_blank" rel="nofollow">Scarpa Zen Pro</a></td><td>480g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Arcteryx+Acrux2+FL+GTX" target="_blank">Arcteryx Acrux2 FL GTX Approach</a></td><td>492g</td>
+          <td><a href="http://amzn.to/2e8sy9m" target="_blank" rel="nofollow">Arcteryx Acrux2 FL GTX Approach</a></td><td>492g</td>
         </tr>
 </tbody>
 </table>
 </div>
 <!--more-->
----
+<hr>
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
+<hr>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15189713140/in/album-72157646473352583/" title="Kurjenrahka National Park"><img src="https://c5.staticflickr.com/3/2942/15189713140_cf23bd9412_b.jpg" width="100%" alt="The best ultralight hiking shoes 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

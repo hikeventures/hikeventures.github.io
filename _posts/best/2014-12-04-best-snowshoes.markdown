@@ -30,29 +30,31 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
         <tbody>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#MSR+Lightning+Ascent" target="_blank" rel="nofollow">MSR Lightning Ascent 25</a></td><td>1780g</td>
+          <td><a href="http://amzn.to/2evU8vs" target="_blank" rel="nofollow">MSR Lightning Ascent 25</a></td><td>1780g</td>
         </tr>
         <tr>
           <td><a href="http://www.hikeventures.com/deals/#MSR+Lightning+Explore+25" target="_blank" rel="nofollow">MSR Lightning Ascent Explore 25</a></td><td>1870g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#MSR+Revo+Ascent" target="_blank" rel="nofollow">MSR Revo Ascent 25</a></td><td>1970g</td>
+          <td><a href="http://amzn.to/2ea20qB" target="_blank" rel="nofollow">MSR Revo Ascent 25</a></td><td>1970g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Tubbs+Flex+VRT+24" target="_blank" rel="nofollow">Tubbs Flex VRT 24</a></td><td>2040g</td>
+          <td><a href="http://amzn.to/2evSOZo" target="_blank" rel="nofollow">Tubbs Flex VRT 24</a></td><td>2040g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#MSR+Lightning+AscentTubbs+Xpedition+25" target="_blank" rel="nofollow">Tubbs Xpedition 25</a></td><td>2090g</td>
+          <td><a href="http://amzn.to/2evSQR0" target="_blank" rel="nofollow">Tubbs Xpedition 25</a></td><td>2090g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Atlas-12" target="_blank" rel="nofollow">Atlas 12</a></td><td>2100g</td>
+          <td><a href="http://amzn.to/2eTG0PH" target="_blank" rel="nofollow">Atlas 12</a></td><td>2100g</td>
         </tr>
 </tbody>
 </table>
 </div>
 <!--more-->
 
----
+<hr>
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
+<hr>
 
 
 <a href="https://www.flickr.com/photos/90204224@N07/18240641010" title="Best snowhoes of 2016"><img src="https://c4.staticflickr.com/8/7780/18240641010_a4f51acf96_o.jpg" width="992" height="659" alt="Best Snowshoes of 2016"></a><!--more-->

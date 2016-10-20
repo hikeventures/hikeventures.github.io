@@ -17,6 +17,10 @@ When you already own the GoPro Hero4 Black or Session you are probably wondering
 
 The main difference between the GoPro Hero4 Black and the GoPro Hero 5 Black is that the Hero5 Black you can actually record audio as the GoPro Hero5 Black does not need a camera housing anymore.
 
+<hr>
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
+<hr>
+
 ## 4K Video Quality
 The 4K video option remains similar. Both camera models can record 4K with 30 FPS.
 

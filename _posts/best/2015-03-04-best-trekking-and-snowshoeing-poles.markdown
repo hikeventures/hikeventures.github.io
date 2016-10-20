@@ -30,29 +30,30 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
         <tbody>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#black+diamond+distance+carbon+z" target="_blank">Black Diamond Distance Carbon Z</a></td><td>285g</td>
+          <td><a href="http://amzn.to/2e38FPT" target="_blank" rel="nofollow">Black Diamond Distance Carbon Z</a></td><td>285g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#black+diamond+distance+carbon+flz" target="_blank">Black Diamond Distance Carbon FLZ</a></td><td>355g</td>
+          <td><a href="http://amzn.to/2e35k3a" target="_blank" rel="nofollow">Black Diamond Distance Carbon FLZ</a></td><td>355g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#leki+micro+ti" target="_blank">Leki Micro Ti</a></td><td>432g</td>
+          <td><a href="http://amzn.to/2e38jsm" target="_blank" rel="nofollow">Leki Micro Ti</a></td><td>432g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#MSR+Flight+3" target="_blank">MSR Flight 3</a></td><td>490g</td>
+          <td><a href="http://amzn.to/2dpdy7I" target="_blank" rel="nofollow">MSR Flight 3</a></td><td>490g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#black+diamond+expedition+3" target="_blank">Black Diamond Expedition 3</a></td><td>520g</td>
+          <td><a href="http://amzn.to/2eTLQ3j" target="_blank" rel="nofollow">Black Diamond Expedition 3</a></td><td>520g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#msr+deploy" target="_blank">MSR Deploy T-3</a></td><td>635g</td>
+          <td><a href="http://amzn.to/2eTLoCj" target="_blank" rel="nofollow">MSR Deploy T-3</a></td><td>635g</td>
         </tr>
 </tbody>
 </table>
 </div>
 <!--more-->
-
----
+<hr>
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
+<hr>
 
 <a href="https://www.flickr.com/photos/90204224@N07/18240641010" title="Best trekking and snowshoeing poles 2016"><img src="https://c4.staticflickr.com/8/7780/18240641010_a4f51acf96_o.jpg" width="992" height="659" alt="The best snowshoeing and trekking poles of 2016 / 2017 - Snowshoeing in Finnish Lapland"></a>
 

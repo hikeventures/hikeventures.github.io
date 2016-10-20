@@ -17,17 +17,38 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
 # Overview of the best fleece jackets for 2016
 
-| Jacket | Weight |
-| ------------- |:-------------|
-| [Arcteryx Thetis Zip Neck][3] | 0.45 lb / 205 g |
-| [Mammut Moench Longsleeve][4]   | 0.45 lb / 205 g |
-| [Rab Micro Pull-on][5]     | 0.52 lb / 238 g |
-| [Arcteryx Delta LT Zip Neck][6] |  0.53 lb / 240 g |
+<div class="table-responsive">
 
+      <table class="table table-hover table-bordered list_items">
+
+        <thead>
+             <tr>
+                <th>Jacket</th><th>Weight</th>
+             </tr>
+        </thead>
+
+        <tbody>
+        <tr>
+          <td><a href="http://amzn.to/2dBJvs1" target="_blank" rel="nofollow">Arcteryx Thetis Zip Neck</a></td><td>205g</td>
+        </tr>
+        <tr>
+          <td><a href="http://amzn.to/2eTDybV" target="_blank" rel="nofollow">Mammut Moench Longsleeve</a></td><td>205g</td>
+        </tr>
+        <tr>
+          <td><a href="http://amzn.to/2elW3qj" target="_blank" rel="nofollow">Rab Micro Pull-on</a></td><td>238g</td>
+        </tr>
+        <tr>
+          <td><a href="http://amzn.to/2evRjuo" target="_blank" rel="nofollow">Arcteryx Delta LT Zip Neck</a></td><td>240g</td>
+        </tr>
+        </tbody>
+  </table>
+</div>
 
 <!--more-->
 
----
+<hr>
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
+<hr>
 
 ![][image-1]
 
@@ -37,13 +58,6 @@ While [Packrafting in Sarek][7] Patrick was always wearing a fleece during the d
 
 ## When to wear a fleece jacket?
 Fleece jackets can be worn as an outer shell if it's not raining but they are not windproof so you should also consider to get a [wind jacket][8] when buying a fleece. Wind jackets are more breathable than [rain jackets][9] since they are not waterproof and you won't sweat that much in a wind jacket. In situations where you are not active (e.g. sitting in your camp or taking pictures) you should rather consider buying a [down jacket][10]. Down does not insulate if it gets wet but keeps you warmer than fleece when dry.
-
----
-
-# Discounts
- <script type="text/javascript" src="http://classic.avantlink.com/api.php?affiliate_id=125311&module=ProductSearch&output=js&website_id=150351&search_term=fleece jacket men AND the north face OR fleece jacket men AND Columbia OR fleece jacket men AND arcteryx OR fleece jacket men AND Mountain Hardwear OR fleece jacket men AND Montane OR fleece jacket men AND Berghaus OR fleece jacket men AND Rab&search_advanced_syntax=1&merchant_ids=10008%7C10060%7C11741%7C10913%7C11243%7C10785%7C10086%7C13273%7C10083%7C10248%7C10049%7C10921%7C10279%7C10345%7C10593%7C10337%7C10943&search_on_sale_only=1&search_on_sale_level=20&search_results_layout=list&search_results_fields=Product+Name%7CSale+Price%7CPrice+Discount+Percent&search_results_count=8&search_results_sort_order=Sale+Price"></script>
-<br>
-<strong>Tip:</strong> <a href="http://www.hikeventures.com/deals/" target="_blank">Here</a> you can search and compare gear prices of different stores.
 
 ---
 

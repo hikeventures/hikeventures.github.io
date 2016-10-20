@@ -28,16 +28,16 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
         <tbody>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Spot+Gen3" target="_blank">SPOT Gen3</a></td><td>114g</td>
+          <td><a href="http://amzn.to/2eTKIN3" target="_blank" rel="nofollow">SPOT Gen3</a></td><td>114g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#ACR+ResQlink" target="_blank">ACR ResQlink+</a></td><td>153g</td>
+          <td><a href="http://amzn.to/2e39b0g" target="_blank" rel="nofollow">ACR ResQlink+</a></td><td>153g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Delorme+Inreach+SE" target="_blank">DeLorme InReach SE</a></td><td>190g</td>
+          <td><a href="http://amzn.to/2e39EPT" target="_blank" rel="nofollow">DeLorme InReach SE</a></td><td>190g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Delorme+Explorer" target="_blank">DeLorme InReach Explorer</a></td><td>190g</td>
+          <td><a href="http://amzn.to/2e39SXr" target="_blank" rel="nofollow">DeLorme InReach Explorer</a></td><td>190g</td>
         </tr>
       </tbody>
       </table>
@@ -45,7 +45,9 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
 <!--more-->
 
----
+<hr>
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
+<hr>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9606193064/in/photolist-fCSfwm-fBZaBp-fBZ86t-fCenzd-fCerPS-fCeu5W-fBZ9Pa-fCewCu-fCeuVs-fBZ6JB-fBZ5re-fBZaMc-fCewQ3-fBZbjB-fBZapV-fBZ4QB-fBZ7rH-fCeqR1-fCetpG-fBZcd4-fBZ7U8-fCescG-fCeoTj-fCeso7-fBZ5CR-fCeugy-fBZ4Fk-fCerZw-fCemGh-eixRoh-eis7oH-fBZ3ND-fCerDj-fBZd5R-fCeta7-fCevtj-fBZc4Z-fCevFQ-fCemih-fBZ4gV-fBZ5VP-fCeqcS-fBZ3mc-fCesMw-fBZ8hP-fCeped-fBZcNa-fBZbAg-fCesyW-fCeoi5" title="Best GPS Satellite Messenger 2016 / 2017 - DeLorme InReach SE can be useful in Northern Sweden"><img src="https://c1.staticflickr.com/4/3670/9606193064_01bf36511a_b.jpg" width="100%" alt="Hiking and Packrafting in Sarek Sweden"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

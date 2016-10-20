@@ -7,9 +7,9 @@ comments: false
 footer: false
 published: true
 ---
-**Tip:** You can compare prices and find discounts on gear <a href="http://www.hikeventures.com/deals/">here</a> (U.S. only).
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
 <br>
-<br>
+
 <div class="table-responsive">
 
       <table class="table table-hover table-condensed table-bordered">
@@ -47,7 +47,7 @@ published: true
              <tr>
   <td><a href="/Thule-X5/">Thule Atmos X5</a></td>
              <td><a href="/Thule-Capstone-50L-women/">Thule Capstone 50L Women</a>  </td>
-         
+
 </tr>
 
 <tr>

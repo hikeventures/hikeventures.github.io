@@ -37,16 +37,16 @@ Here you can find [one of our trips](http://www.hikeventures.com/Swedish-Packraf
 
         <tbody>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#NRS+WRSI+Trident+Composite+Helmet" target="_blank">NRS WRSI Trident Composite Helmet</a></td><td>848g</td>
+          <td><a href="http://amzn.to/2dQcgyQ" target="_blank">NRS WRSI Trident Composite Helmet</a></td><td>848g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#NRS+WRSI+Current+Helmet" target="_blank">NRS WRSI Current Helmet</a></td><td>517g</td>
+          <td><a href="http://amzn.to/2eIhYHX" target="_blank">NRS WRSI Current Helmet</a></td><td>517g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Predator+Shiznit+helmet" target="_blank">Predator Shiznit Helmet</a></td><td>500g</td>
+          <td><a href="http://amzn.to/2eTQCy0" target="_blank">Predator Shiznit Helmet</a></td><td>500g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Sweet+Protection+Strutter+Helmet" target="_blank">Sweet Protection Strutter Helmet</a></td><td>400g</td>
+          <td><a href="http://amzn.to/2ea50Dt" target="_blank">Sweet Protection Strutter Helmet</a></td><td>400g</td>
         </tr>
         <tr>
           <td><a href="http://www.hikeventures.com/deals/#Petzl+Meteor+3+Helmet" target="_blank">Petzl Meteor 3+ Helmet</a></td><td>235g</td>
@@ -55,6 +55,8 @@ Here you can find [one of our trips](http://www.hikeventures.com/Swedish-Packraf
 </table>
 </div>
 <!--more-->
+<hr>
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
 <hr>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/14281650547/in/photolist-o1sHd9-nL1pNj-nL2jzi-nL2c9g-o5h1EP-nKYQwD-o3abCZ-o5eCPi-nKXNaZ-o3mqEN-o1pT3W-o3a4ZZ-nKXHCH-o3mhXy-fBZaMc-fBZ3ND-fe5yWu-fbDJTN-eiqbb6-ATS9vT-fa8gei-fanvNS-fa8fXP-fanujW-fa8fjR-fanuP5-fanuam-ecnxxQ-ecgUtr-ecgUrk-ecnxEY-ecgUza-ecgUDe-eZHHyS-eZwkQe-eZwn1x-eZwmzH-eZwnjz-f9khAR-ecgULp-ecgUH4-ecny25-eZHKmd-ecgUPV-fdRbUD-ecgUZp-fdQg5n-fbptrD-fe5yih-ecny5G" title="Packrafting Emån River"><img src="https://c4.staticflickr.com/4/3907/14281650547_9a4ceebb99_h.jpg" width="1600" height="1068" alt="Packrafting Emån River"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

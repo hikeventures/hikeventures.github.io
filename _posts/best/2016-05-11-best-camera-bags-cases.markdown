@@ -32,7 +32,7 @@ In this blog post[^1] I would like to give an overview about the best camera bag
         </tr>
 
         <tr>
-          <td><a href="https://www.rei.com/product/877640/thule-covert-camera-backpack" target="_blank" rel="nofollow">Thule Covert Camera Backpack</a></td><td>400g</td>
+          <td><a href="http://amzn.to/2evZ8Qo" target="_blank" rel="nofollow">Thule Covert Camera Backpack</a></td><td>400g</td>
         </tr>
 
         <tr>
@@ -48,17 +48,19 @@ In this blog post[^1] I would like to give an overview about the best camera bag
         </tr>
 
         <tr>
-          <td><a href="https://www.rei.com/product/887508/thule-covert-camera-messenger-bag-small" target="_blank" rel="nofollow">Thule Covert Camera Messenger Bag - Small</a></td><td>880g</td>
+          <td><a href="http://amzn.to/2e8soyG" target="_blank" rel="nofollow">Thule Covert Camera Messenger Bag - Small</a></td><td>880g</td>
         </tr>
 
         <tr>
-          <td><a href="https://www.rei.com/product/778223/pelican-1200-case-with-foam" target="_blank" rel="nofollow">Pelican 1200 Case</a></td><td>1305g</td>
+          <td><a href="http://amzn.to/2e3bJv1" target="_blank" rel="nofollow">Pelican 1200 Case</a></td><td>1305g</td>
         </tr>
         </tbody>
       </table>
 </div>
 <!--more-->
----
+<hr>
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
+<hr>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716060755/in/photolist-JP8CEz-JNYoHW-KKxjpM-pbERVy" title="Hiking and Packrafting in Norway"><img src="https://c4.staticflickr.com/9/8606/28716060755_0596cd42cf_k.jpg" width="2048" height="1365" alt="Lowepro Nova Sport 7L AW Best Camera Bag A7 Batis 25"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

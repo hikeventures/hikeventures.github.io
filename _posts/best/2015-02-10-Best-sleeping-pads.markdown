@@ -29,38 +29,38 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
         <tbody>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#NeoAir+Xlite" target="_blank" rel="nofollow">Therm-a-Rest NeoAir XLite</a></td><td>3.2</td><td>350g</td>
+          <td><a href="http://amzn.to/2dpbvAF" target="_blank" rel="nofollow">Therm-a-Rest NeoAir XLite</a></td><td>3.2</td><td>350g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#sea+summit+ultralight" target="_blank" rel="nofollow">Sea to Summit Ultralight</a></td><td>0.7</td><td>355g</td>
+          <td><a href="http://amzn.to/2dBNq82" target="_blank" rel="nofollow">Sea to Summit Ultralight</a></td><td>0.7</td><td>355g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Z+Lite+Sol" target="_blank" rel="nofollow">Therm-a-Rest Z LITE SOL</a></td><td>2.6</td><td>410g</td>
+          <td><a href="http://amzn.to/2e8kepY" target="_blank" rel="nofollow">Therm-a-Rest Z LITE SOL</a></td><td>2.6</td><td>410g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#NeoAir+XTherm" target="_blank" rel="nofollow">Therm-a-Rest NeoAir XTherm</a></td><td>5.7</td><td>410g</td>
+          <td><a href="http://amzn.to/2elYMQq" target="_blank" rel="nofollow">Therm-a-Rest NeoAir XTherm</a></td><td>5.7</td><td>410g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/#exped+synmat+ul+7+pad" target="_blank" rel="nofollow">Exped Synmat UL 7</a></td><td>3.3</td><td>450g</td>
+          <td><a href="http://amzn.to/2eIa0OZ" target="_blank" rel="nofollow">Exped Synmat UL 7</a></td><td>3.3</td><td>450g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/#evolite" target="_blank" rel="nofollow">Therm-a-Rest Evolite</a></td><td>2.1</td><td>520g</td>
+          <td><a href="http://amzn.to/2dBNswR" target="_blank" rel="nofollow">Therm-a-Rest Evolite</a></td><td>2.1</td><td>520g</td>
         </tr>
 </tbody>
 </table>
 </div>
 <!--more-->
 
----
+<hr>
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
+<hr>
 
 <a href="https://www.flickr.com/photos/90204224@N07/9599003854" title="Best sleeping pads 2016"><img src="https://c1.staticflickr.com/3/2882/9599003854_415a4828f0_o.jpg" width="992" height="661" alt="Best sleeping pads in 2016"></a>Sleeping bag in <a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/">Sarek National Park</a> in Sweden.
-
-
 
 ---
 

@@ -27,21 +27,23 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
         <tbody>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Patagonia+Houdini" target="_blank">Patagonia Houdini</a></td><td>113g</td>
+          <td><a href="http://amzn.to/2e32HhL" rel="nofollow" target="_blank">Patagonia Houdini</a></td><td>113g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Arcteryx+Incendo+Hoody" target="_blank">Arcteryx Incendo Hoody</a></td><td>130g</td>
+          <td><a href="http://amzn.to/2drJ00m" target="_blank" rel="nofollow">Arcteryx Incendo Hoody</a></td><td>130g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Fuseform+Eragon" target="_blank">The North Face Fuseform Eragon</a></td><td>140g</td>
+          <td><a href="http://amzn.to/2e9Y8pz" target="_blank" rel="nofollow">The North Face Fuseform Eragon</a></td><td>140g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#arcteryx+squamish" target="_blank">Arcteryx Squamish Hoody</a></td><td>155g</td>
+          <td><a href="http://amzn.to/2elVY64" target="_blank" rel="nofollow">Arcteryx Squamish Hoody</a></td><td>155g</td>
         </tr>
         </tbody>
 </table>
 </div>
-<!--mmore-->
+<!--more-->
+<hr>
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
 <hr>
 
 ![][image-1]

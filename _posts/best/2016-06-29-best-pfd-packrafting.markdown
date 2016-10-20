@@ -29,16 +29,16 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
         <tbody>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#astral+designs+eight" target="_blank">Astral Designs V-Eight</a></td><td>563g</td>
+          <td><a href="http://amzn.to/2ea3m4B" target="_blank">Astral Designs V-Eight</a></td><td>563g</td>
         </tr>
         <tr>
           <td><a href="http://amzn.to/29kvV8M" target="_blank" rel="nofollow">Palm Alpha</a></td><td>607g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Astral+Designs+Sea+Wolf" target="_blank">Astral Designs Sea Wolf</a></td><td>766g</td>
+          <td><a href="http://amzn.to/2e3bK2d" target="_blank">Astral Designs Sea Wolf</a></td><td>766g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Astral+Designs+YTV" target="_blank">Astral Designs YTV</a></td><td>794g</td>
+          <td><a href="http://amzn.to/2e3aex9" target="_blank">Astral Designs YTV</a></td><td>794g</td>
         </tr>
         <tr>
           <td><a href="http://amzn.to/292fRLY" target="_blank" rel="nofollow">Palm FX</a></td><td>877g</td>
@@ -47,6 +47,8 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 </table>
 </div>
 <!--more-->
+<hr>
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
 <hr>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26814282560/in/photolist-GRud1y-GRud2f-HdLXe5-GXhAVa-H1kVQW-H1kVFN-H1kVZo-H1zXZH-GcfJST-GcfLdt-H1zXXZ-H4Gfns-Gc8XtE-Gc8Xp1-Gc8Xjm-HaFrzP-GRud7L-HaFrBx-Gc8WNG-HnoFdC-HjfVzn-GRud4u-H7Dj8R-GRudb3-Gc8XbL-H7Dj4x-Gc8X5y-H7DiZK-H7DiVM-Gc8WYw-H4GeQA-H7DiSk-H7DiNc-GcfKKp-Gc8WBj-H7DiKr-GGsxE1-GcfKhk-H1zXxF-GcfKsk-GcfKj4-Gc8Weq-H4Gdkb-HnoEX7-GaxJKr-H5RYDr-GajbUD-GXb3Qv-H2KqTT-GBfK6G" title="Swedish Packrafting Round-Up"><img src="https://c1.staticflickr.com/8/7682/26814282560_a47eb37791_o.jpg" width="100%" alt="The best PFD Life Jackets for packrafting"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
