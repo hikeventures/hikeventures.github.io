@@ -30,22 +30,22 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
         <tbody>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#MSR+Lightning+Ascent" target="_blank" rel="nofollow">MSR Lightning Ascent 25</a></td><td>1780g</td>
+          <td><a href="http://amzn.to/2evU8vs" target="_blank" rel="nofollow">MSR Lightning Ascent 25</a></td><td>1780g</td>
         </tr>
         <tr>
           <td><a href="http://www.hikeventures.com/deals/#MSR+Lightning+Explore+25" target="_blank" rel="nofollow">MSR Lightning Ascent Explore 25</a></td><td>1870g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#MSR+Revo+Ascent" target="_blank" rel="nofollow">MSR Revo Ascent 25</a></td><td>1970g</td>
+          <td><a href="http://amzn.to/2ea20qB" target="_blank" rel="nofollow">MSR Revo Ascent 25</a></td><td>1970g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Tubbs+Flex+VRT+24" target="_blank" rel="nofollow">Tubbs Flex VRT 24</a></td><td>2040g</td>
+          <td><a href="http://amzn.to/2evSOZo" target="_blank" rel="nofollow">Tubbs Flex VRT 24</a></td><td>2040g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#MSR+Lightning+AscentTubbs+Xpedition+25" target="_blank" rel="nofollow">Tubbs Xpedition 25</a></td><td>2090g</td>
+          <td><a href="http://amzn.to/2evSQR0" target="_blank" rel="nofollow">Tubbs Xpedition 25</a></td><td>2090g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Atlas-12" target="_blank" rel="nofollow">Atlas 12</a></td><td>2100g</td>
+          <td><a href="http://amzn.to/2eTG0PH" target="_blank" rel="nofollow">Atlas 12</a></td><td>2100g</td>
         </tr>
 </tbody>
 </table>
