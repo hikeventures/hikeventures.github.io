@@ -12,7 +12,7 @@ tags:
   - t-shirts
 ---
 
-The first time I heard about Icebreaker was about 5 or 6 years ago when together with my Adventure Tourism students I went for a short ‘gear talk’ to our local outdoor shop. The sales guy told us that they had some t-shirts that were “really cool” because you could wear them for a long time and they wouldn’t “stink”. 
+The first time I heard about Icebreaker was about 5 or 6 years ago when together with my Adventure Tourism students I went for a short ‘gear talk’ to our local outdoor shop. The sales guy told us that they had some t-shirts that were “really cool” because you could wear them for a long time and they wouldn’t “stink”.
 
 What he said made me really interested so I decided to have a look at them, but was immediately taken back by the price. “What? 60 Euro? I never…” I said to myself and moved on to other things.
 
@@ -62,9 +62,9 @@ Yes, they are. Well, exactly how warm they are would, of course, depend on the t
 
 And it is very true – I have a few Icebreaker t-shirts in 150 and a few in 200. And the ones in 150 are great on their own in summer, but I also wear them in combination with other items throughout the year. Often, on hiking and packrafting trips I use them as a base layer or nightwear (and sometimes even both).
 
-However, if it is really hot, even ultralight t-shirts might be too much. That is why they also have something even lighter than ultralight (yes, it seems to be possible) and they call it featherweight. The name, regardless how suggestive it might be, does not actually presuppose that you have to put on feathers. 
+However, if it is really hot, even ultralight t-shirts might be too much. That is why they also have something even lighter than ultralight (yes, it seems to be possible) and they call it featherweight. The name, regardless how suggestive it might be, does not actually presuppose that you have to put on feathers.
 
-What it simply means is that the weight of the fabric is between 120 and 135 grams (‘as light as a feather’ I guess) and, because of that, such garments are better suited for warm to hot conditions. And indeed I have one t-shirt like that, which I used last summer in Japan. 
+What it simply means is that the weight of the fabric is between 120 and 135 grams (‘as light as a feather’ I guess) and, because of that, such garments are better suited for warm to hot conditions. And indeed I have one t-shirt like that, which I used last summer in Japan.
 
 And even though it felt a bit strange to wear something woollen when the temperatures are in the upper 30s (and I am talking about Celsius here and not Fahrenheit), it actually was very pleasant. Especially when I made it wet, which helped me to stay cool.
 
@@ -77,11 +77,11 @@ And even though it felt a bit strange to wear something woollen when the tempera
 ---
 
 # Reason 2: Icebreaker t-shirts are durable
-Well, nothing is forever, but the Icebreaker garments, similarly to their namesakes, can take a lot of abuse. I have a number of t-shirts (and other items) and I have used them extensively throughout the last several years. And because they are so versatile, I tend to wear them more than any other t-shirts that I have. 
+Well, nothing is forever, but the Icebreaker garments, similarly to their namesakes, can take a lot of abuse. I have a number of t-shirts (and other items) and I have used them extensively throughout the last several years. And because they are so versatile, I tend to wear them more than any other t-shirts that I have.
 
 And I don’t mean just in the outdoors, but also in my everyday life (see Reasons 4 and 5). I will not be able to say exactly how long an icebreaker t-shirt would last as that would depend on a number of parameters (including the weight of the material), but I can say for sure that it takes a good couple of years before they start to give up.
 
-And even then, you can still manage to carry on for a while: the first sign of the icebreaker getting old is the appearance of tiny holes, which can still be patched. But once these holes appear, there is no turning back. Sooner or later you will need to decommission it. 
+And even then, you can still manage to carry on for a while: the first sign of the icebreaker getting old is the appearance of tiny holes, which can still be patched. But once these holes appear, there is no turning back. Sooner or later you will need to decommission it.
 
 However, you will still have some time to save money as it takes a while before you cannot wear it any more. So far, I have only one t-shirt, my first icebreaker, that is beyond repair. The rest are still doing fine.
 
@@ -90,15 +90,15 @@ However, you will still have some time to save money as it takes a while before 
 # Reason 1: Icebreaker t-shirts don’t smell
 And the number one reason why I like them is … (drumroll, please) … they don’t stink. The sales person was absolutely right - even after a week of non-stop wearing it is still ok. And when I say ‘non-stop’ I really mean it. I had weeks when I was literally living in one, that icebreaker being an extension of me. Of course if you wear them for so long, they do not smell fresh any more, but that is not a problem because they do not smell bad either.
 
-Moreover, even if they start ‘smelling a bit’, you can always do one of two things. The first option is to wash it and let it quickly dry. As the material is rather thin (especially the 150 ones), you can do it within one night easily. 
+Moreover, even if they start ‘smelling a bit’, you can always do one of two things. The first option is to wash it and let it quickly dry. As the material is rather thin (especially the 150 ones), you can do it within one night easily.
 
-If it is still wet or you do not have that much time, you can still dry it on the go. The wool, even when it is wet, keeps you rather warm (the most dreadful moment is when you put it on, but very quickly it feels fine again) and, in some cases, like when I did it in Japan last year, it can actually be rather refreshing. The other option is to expose it to some wind and cold. 
+If it is still wet or you do not have that much time, you can still dry it on the go. The wool, even when it is wet, keeps you rather warm (the most dreadful moment is when you put it on, but very quickly it feels fine again) and, in some cases, like when I did it in Japan last year, it can actually be rather refreshing. The other option is to expose it to some wind and cold.
 
 I have heard from my grandmother that in the past, one way to ‘refresh’ woollen thing was to put them into a freeze (which in my part of Russia in winter time was just outside). You need to make sure that it is not wet though otherwise you will literally need to break the ice…
 
-And when talking about Icebreaker t-shirts and odour-resistance, you do not need to take my word for that alone. Go and ask my wife, who is ‘über’-hygienic. She grew up with a mother who is a microbiologist so, her natural tendency would be to change her t-shirts several times a day, even in the most remote areas. If she had a chance, of course. 
+And when talking about Icebreaker t-shirts and odour-resistance, you do not need to take my word for that alone. Go and ask my wife, who is ‘über’-hygienic. She grew up with a mother who is a microbiologist so, her natural tendency would be to change her t-shirts several times a day, even in the most remote areas. If she had a chance, of course.
 
-But when I introduced her to Icebreaker, she instantly became a full-time convert and she does not want to buy anything less than that. For example, last year, when we travelled in Japan for three weeks, she took a couple of icebreakers as well as a few cotton t-shirts with her. But she ended up using only the latter, the cotton ones lying as dead weight at the bottom of the backpack. 
+But when I introduced her to Icebreaker, she instantly became a full-time convert and she does not want to buy anything less than that. For example, last year, when we travelled in Japan for three weeks, she took a couple of icebreakers as well as a few cotton t-shirts with her. But she ended up using only the latter, the cotton ones lying as dead weight at the bottom of the backpack.
 
 That is why this year, when we were preparing for our new Japan trip, she said that she would only take Icebreaker t-shirts and that’s all. And she actually did exactly that and never regretted her decision.
 
@@ -127,7 +127,7 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Amazon Search Results";
-amzn_assoc_default_search_phrase = "Icebreaker";
+amzn_assoc_default_search_phrase = "Icebreaker Tee";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "d6fd3ed4bc9d6548d1028880155aeb04";
 </script>
