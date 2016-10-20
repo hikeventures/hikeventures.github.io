@@ -29,19 +29,19 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
         <tbody>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#inov+roclite+282+gtx" target="_blank">Inov-8 Roclite 282 GTX</a></td><td>282g</td>
+          <td><a href="http://amzn.to/2dpfixR" target="_blank" rel="nofollow">Inov-8 Roclite 282 GTX</a></td><td>282g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#adidas+terrex+solo" target="_blank">Adidas Terrex Solo</a></td><td>349g</td>
+          <td><a href="http://amzn.to/2evYGlp" target="_blank" rel="nofollow">Adidas Terrex Solo</a></td><td>349g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#adidas+terrex+fast+gtx" target="_blank">Adidas Terrex Fast R GTX</a></td><td>411g</td>
+          <td><a href="http://amzn.to/2dQb52q" target="_blank" rel="nofollow">Adidas Terrex Fast R GTX</a></td><td>411g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Scarpa+Zen+Pro" target="_blank">Scarpa Zen Pro</a></td><td>480g</td>
+          <td><a href="http://amzn.to/2e8qSg3" target="_blank" rel="nofollow">Scarpa Zen Pro</a></td><td>480g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Arcteryx+Acrux2+FL+GTX" target="_blank">Arcteryx Acrux2 FL GTX Approach</a></td><td>492g</td>
+          <td><a href="http://amzn.to/2e8sy9m" target="_blank" rel="nofollow">Arcteryx Acrux2 FL GTX Approach</a></td><td>492g</td>
         </tr>
 </tbody>
 </table>

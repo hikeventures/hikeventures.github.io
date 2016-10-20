@@ -28,16 +28,16 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
         <tbody>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Spot+Gen3" target="_blank">SPOT Gen3</a></td><td>114g</td>
+          <td><a href="http://amzn.to/2eTKIN3" target="_blank" rel="nofollow">SPOT Gen3</a></td><td>114g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#ACR+ResQlink" target="_blank">ACR ResQlink+</a></td><td>153g</td>
+          <td><a href="http://amzn.to/2e39b0g" target="_blank" rel="nofollow">ACR ResQlink+</a></td><td>153g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Delorme+Inreach+SE" target="_blank">DeLorme InReach SE</a></td><td>190g</td>
+          <td><a href="http://amzn.to/2e39EPT" target="_blank" rel="nofollow">DeLorme InReach SE</a></td><td>190g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Delorme+Explorer" target="_blank">DeLorme InReach Explorer</a></td><td>190g</td>
+          <td><a href="http://amzn.to/2e39SXr" target="_blank" rel="nofollow">DeLorme InReach Explorer</a></td><td>190g</td>
         </tr>
       </tbody>
       </table>

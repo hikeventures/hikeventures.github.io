@@ -31,44 +31,38 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
         <tbody>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#inov+roclite+282+gtx" target="_blank">Inov-8 Roclite 286 GTX</a></td><td>286g</td>
+          <td><a href="http://amzn.to/2ea4yVV" target="_blank" rel="nofollow">Inov-8 Roclite 286 GTX</a></td><td>286g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#adidas+terrex+fast+mid+gtx" target="_blank">Adidas Terrex Fast R Mid GTX</a></td><td>435g</td>
+          <td><a href="http://amzn.to/2eTO96E" target="_blank" rel="nofollow">Adidas Terrex Fast R Mid GTX</a></td><td>435g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#KEEN+Targhee+II+Mid" target="_blank">KEEN Targhee II Mid</a></td><td>494g</td>
+          <td><a href="http://amzn.to/2euHc7E" target="_blank" rel="nofollow">KEEN Targhee II Mid</a></td><td>494g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Hanwag+Banks+GTX" target="_blank">Hanwag Banks GTX</a></td><td>610g</td>
+          <td><a href="http://amzn.to/2ea4pli" target="_blank" rel="nofollow">Hanwag Banks GTX</a></td><td>610g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Arcteryx+Men+Bora2+Mid" target="_blank">Arc'teryx Men's Bora2 Mid</a></td><td>619g</td>
+          <td><a href="http://amzn.to/2e36TOA" target="_blank" rel="nofollow">Arc'teryx Men's Bora2 Mid</a></td><td>619g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Arcteryx+Men+Bora2+Mid" target="_blank">Arc'teryx Men's Bora2 Mid</a></td><td>619g</td>
+          <td><a href="http://amzn.to/2evYDpE" target="_blank" rel="nofollow">Salomon QUEST 4D 2 GTX</a></td><td>640g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Salomon+QUEST+4D+GTX" target="_blank">Salomon QUEST 4D 2 GTX</a></td><td>640g</td>
+          <td><a href="http://amzn.to/2eTIxcv" target="_blank" rel="nofollow">Scarpa R-EVOLUTION GTX</a></td><td>659g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Scarpa+EVOLUTION+GTX" target="_blank">Scarpa R-EVOLUTION GTX</a></td><td>659g</td>
+          <td><a href="http://amzn.to/2dpckcI" target="_blank" rel="nofollow">Merrell Moab Ventilator Mid</a></td><td>879g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Merrell+Moab+Ventilator+Mid" target="_blank">Merrell Moab Ventilator Mid</a></td><td>879g</td>
+          <td><a href="http://amzn.to/2eTM2Q7" target="_blank" rel="nofollow">Lowa Renegade GTX® Mid</a></td><td>1100g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Merrell+Moab+Ventilator+Mid" target="_blank">Merrell Moab Ventilator Mid</a></td><td>879g</td>
-        </tr>
-        <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Lowa+Renegade+GTX+Mid" target="_blank">Lowa Renegade GTX® Mid</a></td><td>1100g</td>
-        </tr>
-        <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Vasque+Breeze+2+GTX" target="_blank">Vasque Breeze 2.0 GTX</a></td><td>1140g</td>
+          <td><a href="http://amzn.to/2eTNIt2" target="_blank" rel="nofollow">Vasque Breeze 2.0 GTX</a></td><td>1140g</td>
         </tr>
 </tbody>
 </table>
