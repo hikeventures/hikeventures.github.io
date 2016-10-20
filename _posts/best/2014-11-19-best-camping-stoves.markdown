@@ -31,27 +31,27 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
         <tbody>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#msr+micro+rocket" target="_blank">MSR Micro Rocket</a></td><td>73g</td>
+          <td><a href="http://amzn.to/2eI6dBv" target="_blank" rel="nofollow">MSR Micro Rocket</a></td><td>73g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#msr+windpro+II" target="_blank">MSR WindPro II</a></td><td>187g</td>
+          <td><a href="http://amzn.to/2dBLCMt" target="_blank" rel="nofollow">MSR WindPro II</a></td><td>187g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#jetboil+micromo" target="_blank">Jetboil MicroMo</a></td><td>400g</td>
+          <td><a href="http://amzn.to/2elZvBk" target="_blank" rel="nofollow">Jetboil MicroMo</a></td><td>400g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#jetboil+minimo" target="_blank">Jetboil MiniMo</a></td><td>415g</td>
+          <td><a href="http://amzn.to/2e37Vdw" target="_blank" rel="nofollow">Jetboil MiniMo</a></td><td>415g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#msr+windburner" target="_blank">MSR WindBurner</a></td><td>432g</td>
+          <td><a href="http://amzn.to/2e8lKIJ" target="_blank" rel="nofollow">MSR WindBurner</a></td><td>432g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#msr+xgk+ex" target="_blank">MSR XGK EX</a></td><td>489g</td>
+          <td><a href="http://amzn.to/2evVrud" target="_blank" rel="nofollow">MSR XGK EX</a></td><td>489g</td>
         </tr>
 </tbody>
 </table>
