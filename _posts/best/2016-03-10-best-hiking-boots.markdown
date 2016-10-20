@@ -59,7 +59,7 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
           <td><a href="http://amzn.to/2dpckcI" target="_blank" rel="nofollow">Merrell Moab Ventilator Mid</a></td><td>879g</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2eTM2Q7" target="_blank" rel="nofollow">Lowa Renegade GTX® Mid</a></td><td>1100g</td>
+          <td><a href="http://amzn.to/2eTM2Q7" target="_blank" rel="nofollow">Lowa Renegade GTX Mid</a></td><td>1100g</td>
         </tr>
         <tr>
           <td><a href="http://amzn.to/2eTNIt2" target="_blank" rel="nofollow">Vasque Breeze 2.0 GTX</a></td><td>1140g</td>
