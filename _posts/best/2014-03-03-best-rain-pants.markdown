@@ -12,7 +12,7 @@ layout: post
 
 Planning to go hiking, backpacking or any other backcountry adventure? Then you should consider to pack lightweight rain pants in into your backpack. Rain pants will help you to stay dry and warm and is one of the most essential items you should have when planning an outdoor trip. Personally, I prefer to take the lightest rain clothes with me during my summer and autumn hikes as they will probably stay most of the time in my backpack. If you plan to wear your rain jacket on a daily base with a backpack on your shoulders you should probably buy a rain jacket with a more durable fabric which might also weight more.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market and compare the specifications of new products. Here comes our buying guide.This blog post contains affiliate links.
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market and compare the specifications of new pants. Here comes our rain pants buying guide for 2016 (this blog post contains affiliate links).
 
 ---
 

@@ -11,7 +11,7 @@ layout: post
 ---
 Do you need a new down jacket for the winter or for a cold summer night during a hike? Here is our buying guide[^1] of the best summer and winter down jackets which we have selected for 2016. We have selected a broad range of down jackets which can be worn in different conditions and for different activities like hiking, backpacking, skiing, snowboarding, mountaineering, climbing or any other backcountry outdoor adventure.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market and compare the specifications of new products. Here comes our buying guide.This blog post contains affiliate links.
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market and compare the specifications of new jackets. Here comes our down jacket buying guide for 2016 (this blog post contains affiliate links).
 
 <hr>
 

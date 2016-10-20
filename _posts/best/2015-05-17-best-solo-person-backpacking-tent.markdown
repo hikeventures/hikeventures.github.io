@@ -14,7 +14,8 @@ Are you looking for a new tent and want to know which one is the best solo backp
 
 I would like to give an overview about the best solo backpacking tents which we have selected for 2016. It's important to know that each tent is made for a specific purpose so there is no one tent fits all tent. Just as a side note - I have not included tarps in my selection.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market and compare the specifications of new products. Here comes our buying guide.This blog post contains affiliate links.
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market and compare the specifications of new tents. Here comes our tent buying guide for 2016 (this blog post contains affiliate links).
+
 
 <hr>
 
@@ -125,7 +126,7 @@ The Marmot Force UL 2P is a freestanding 3-season tent for two persons.
 **Weight:** 1.320 kg   
 **Area inner tent:** 2.6 m²   
 
-Even so the Marmot Force UL 2P is advertised as a 2 person tent, I would rather use it as a 1 person tent. As the tent has a rather thin floor, I would also get a [tent footprint](http://www.backcountry.com/marmot-force-ul-2p-footprint) with this tent. If you are looking for a light 3-season tent then the Marmot UL 2P could be a good option. I have used the Marmot Force UL 2P on my trips in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/) and [Norway](http://www.hikeventures.com/Finnmark/).
+Even so the Marmot Force UL 2P is advertised as a 2 person tent, I would rather use it as a 1 person tent. As the tent has a rather thin floor, I would also get a [tent footprint](http://www.backcountry.com/marmot-force-ul-2p-footprint) with this tent. If you are looking for a light 3-season tent then the Marmot UL 2P could be a good option. I have used the Marmot Force UL 2P on my trips in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/) and [Norway](http://www.hikeventures.com/Finnmark/). Marmot provided us the tent for testing.
 
 <a href="http://www.backcountry.com/marmot-force-ul-2p-tent-2-person-3-season"><button type="button" class="btn btn-danger">Read more about the Marmot Force UL 2P</button></a> <a href="/deals/#marmot+Force+UL" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
