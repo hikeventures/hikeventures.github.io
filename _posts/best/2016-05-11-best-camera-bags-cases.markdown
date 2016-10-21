@@ -10,7 +10,7 @@ tags:
   - camera
 ---
 
-In this blog post[^1] I would like to give an overview about the best camera bags which I would select for a Sony A7, A7II A7RII or A7SII (and also a6500, a6300 or a6000 since they share a similar form factor). Different cases might be useful for different activities e.g. you might select a different camera bag when you go hiking than you would choose when planning to go on a kayaking or packrafting trip.
+In this blog post I would like to give an overview about the best camera bags which I would select for a Sony A7, A7II A7RII or A7SII (and also a6500, a6300 or a6000 since they share a similar form factor). Different cases might be useful for different activities e.g. you might select a different camera bag when you go hiking than you would choose when planning to go on a kayaking or packrafting trip.
 
 As I have recently upgraded my own camera, I was in need of a new camera case which I can use for my outdoor adventures. I was looking for a camera bag or case which packs small and actually came to the conclusion that I would need different camera bags for my MILC for different activities. This blog post contains affiliate links.
 
