@@ -18,6 +18,8 @@ I bought my <a href="http://amzn.to/2d46BsB" rel="nofollow">Sony A7</a> a few mo
 
 My lens collection consists of the <a href="http://amzn.to/2e2gvHo" rel="nofollow">Samyang 14mm f2.8</a>, <a href="http://amzn.to/2e5khks" rel="nofollow">Zeiss Batis 25mm f2</a> and currently I am saving for the <a href="http://amzn.to/2e5ktQM" rel="nofollow">Sony 70-200 f4</a>. The Samyang is a real bargain compared to the other two lenses but you get a pretty good image quality with it. Some people had some issues with the durability of the Samyang but for me it's just a play around lens. Usually, I have my Zeiss Batis 25mm on my Sony A7.
 
+<!--more-->
+
 <a href="https://www.amazon.com/gp/product/B00IAOS4Y2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IAOS4Y2&linkCode=as2&tag=hikeve-20&linkId=0d8c73ea2c73fcb91754f80976da6906" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00IAOS4Y2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00IAOS4Y2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Previously, I also had the <a href="http://amzn.to/1widRB9" rel="nofollow">Sony 35mm F2.8 Sonnar T* FE ZA</a> but the Zeiss Batis is much nicer and with 25mm you have more creative possibilities from my point of view.

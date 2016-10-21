@@ -40,7 +40,7 @@ I really like the idea to have less cables on my desk so USB-C is going to be a 
 The LG 27UD88 is the latest display from Lenovo which features 99% SRGB color gamut, a color depth of 10 bit (8bit + A-FRC) and a response time of 5 ms GTS. The brightness of the screen is 350 cd/m2 and the contrast ratio is 1000 : 1. The screen also has 2 x HDMI 2.0, 1 x DisplayPort (ver1.2) and 2 x USB 3.0.
 
 <a href="http://amzn.to/2dEVRzy" rel="nofollow" target="blank"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
-
+<!--more-->
 <hr>
 
 <h1> Lenovo ThinkVision X1</h1>
