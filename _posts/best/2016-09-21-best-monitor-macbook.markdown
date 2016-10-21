@@ -17,7 +17,7 @@ I really like the idea to have less cables on my desk so USB-C is going to be a 
 <table class="table table-hover table-bordered list_items_4">
         <thead>
              <tr>
-                <th>Monitor</th><th>Contrast Ratio</th><th>sRGB color gamut</th>
+                <th>4K USB-C Monitor</th><th>Contrast Ratio</th><th>sRGB color gamut</th>
              </tr>
         </thead>
 
