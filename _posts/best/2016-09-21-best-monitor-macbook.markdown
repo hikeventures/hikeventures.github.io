@@ -49,3 +49,21 @@ The LG 27UD88 is the latest display from Lenovo which features 99% SRGB color ga
 The Lenovo ThinkVision X1 has HDMI2.0 and DP1.2 ports a FHD camera with dual-array microphone and stereo speakers. The Lenovo ThinkVision X1 is the world’s 1st monitor with TUV Eye Comfort certification. The monitor has 100% sRGB color gamut.
 
 <a href="http://amzn.to/2dEVRzy" rel="nofollow" target="blank"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+
+<hr>
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "top";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Search Results from Amazon";
+amzn_assoc_default_search_phrase = "4K USB-C";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "c8fbd44fb8175bb79ed521d4925db8c9";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
