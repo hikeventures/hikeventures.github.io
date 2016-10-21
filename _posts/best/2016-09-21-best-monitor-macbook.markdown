@@ -14,7 +14,7 @@ I really like the idea to have less cables on my desk so USB-C is going to be a 
 <hr>
 
 <div class="table-responsive">
-<table class="table table-hover table-bordered list_items">
+<table class="table table-hover table-bordered list_items_4">
         <thead>
              <tr>
                 <th>Monitor</th><th>Contrast Ratio</th><th>sRGB color gamut</th>
