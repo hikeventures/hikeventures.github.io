@@ -10,9 +10,9 @@ tags:
 layout: post
 ---
 
-A satellite messenger, GPS Tracker or a Personal Locator Beacon should be with you on your hiking, backpacking, packrafting or kayaking trip. They are especially useful if you are planning to go to areas where you don't have any phone reception. In case of an accident you won't be able to call for help without a satellite messenger. Here is my list of the best satellite messengers which I would consider to buy in 2016.
+A satellite messenger, GPS Tracker or a Personal Locator Beacon should be with you on your hiking, backpacking, packrafting or kayaking trip. They are especially useful if you are planning to go to areas where you don't have any phone reception. In case of an accident you won't be able to call for help without a satellite messenger.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market and compare the specifications of new products. Here comes our buying guide (this blog post contains affiliate links).
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market and compare the specifications of new gps messengers. Here comes our satellite messenger buying guide for 2016 (this blog post contains affiliate links).
 
 ---
 
@@ -155,6 +155,10 @@ My personal preference goes towards the  [DeLorme InReach Explorer][7] as it has
 
 ---
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
 [1]:	http://www.hikeventures.com/destinations/
 [2]:	http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Sarek National Park"
 [3]:	https://www.rei.com/product/857610/delorme-inreach-se-2-way-satellite-communicator

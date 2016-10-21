@@ -10,7 +10,7 @@ tags:
   - rain jackets
 ---
 
-Need a new rain jacket for your next outdoor adventure? I always take a rain jacket with me when I go [hiking](http://www.hikeventures.com/destinations/) or cycling. Depending on the season or activity it might also be a good idea to have different rain jackets. For example if I go on a hiking or backpacking trip I usually take a very light rain jacket. For winter activities like skiing or snowboarding I would rather take a more durable jacket with me. Here is a selection of the best new rain jackets for 2017 on the market. This is not a complete list and I may add a few more models in the future.
+Need a new rain jacket for your next outdoor adventure? I always take a rain jacket with me when I go [hiking](http://www.hikeventures.com/destinations/) or cycling. Depending on the season or activity it might also be a good idea to have different rain jackets. For example if I go on a hiking or backpacking trip I usually take a very light rain jacket. For winter activities like skiing or snowboarding I would rather take a more durable jacket with me. Here is a selection of the best new rain jackets for 2017 on the market. This is not a complete list and I may add a few more models in the future. This blog post contains affiliate links.
 
 <hr>
 <script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
@@ -120,9 +120,10 @@ Some rain jacket models in this list are made for running but I think that they 
 
 ---
 
+
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
+amzn_assoc_search_bar = "true";
 amzn_assoc_tracking_id = "hikeve-20";
 amzn_assoc_search_bar_position = "top";
 amzn_assoc_ad_mode = "search";
@@ -130,10 +131,13 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Search Results from Amazon";
-amzn_assoc_default_search_phrase = "rain jacket arcteryx men";
+amzn_assoc_default_search_phrase = "rain jacket arcteryx";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "965296fb866182bb89b535202541adda";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<<<<<<< HEAD
 
 ---
+=======
+>>>>>>> origin/master
