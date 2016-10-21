@@ -27,7 +27,7 @@ I really like the idea to have less cables on my desk so USB-C is going to be a 
         </tr>
         <tr>
           <td><a href="http://amzn.to/2dEVRzy" rel="nofollow" target="_blank">Lenovo ThinkVision X1</a></td><td>1300 : 1</td><td>100%</td>
-        </tr
+        </tr>
 </tbody>
 </table>
 </div>
