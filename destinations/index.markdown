@@ -324,6 +324,16 @@ footer: false
               <center>  <h2 class="page-header">Netherlands</h2></center>
             </div>
 
+
+
+
+<div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
+<a class="thumbnail" href="http://www.hikeventures.com/Visit-to-Drents-Friese-Wold-National-Park/" style="color: #FFF; border: 0px;">
+<div class="thumbnail text-center">
+<img src="https://c2.staticflickr.com/6/5542/29823536273_d71c9d8b67_k.jpg" alt="" class="img-responsive">
+<div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Drents-Friese Wold National Park</p>
+</div></div></a></div></div>
+
              <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/packrafting-on-the-grensmaas/" style="color: #FFF; border: 0px;">
         <div class="thumbnail text-center">
