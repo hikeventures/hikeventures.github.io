@@ -52,9 +52,8 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 </div>
 <!--more-->
 
-<hr>
 <script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
-<hr>
+
 
 
 <a href="https://www.flickr.com/photos/90204224@N07/18240641010" title="Best snowhoes of 2016"><img src="https://c4.staticflickr.com/8/7780/18240641010_a4f51acf96_o.jpg" width="992" height="659" alt="Best Snowshoes of 2016"></a><!--more-->

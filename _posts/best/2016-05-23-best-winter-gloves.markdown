@@ -53,10 +53,8 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
 <!--more-->
 
-<hr>
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
-<hr>
 
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
 
 ## Gloves or Mittens?
 Gloves give you more dexterity (that's the magic selling word in the world of goves manufactures) than mittens. However, mittens keep your fingers warmer than gloves.

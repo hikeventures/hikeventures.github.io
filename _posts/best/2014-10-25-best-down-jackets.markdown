@@ -77,9 +77,9 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
       </table>
 </div>
 <!--mmore-->
-<hr>
+
 <script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
-<hr>
+
 
 <a href="https://www.flickr.com/photos/90204224@N07/18424590651" title="best down jackets 2016"><img src="https://c2.staticflickr.com/8/7793/18424590651_c838138d3d_o.jpg" width="100%" alt="best down jackets 2016"></a>
 

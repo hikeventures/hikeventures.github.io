@@ -49,9 +49,9 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
 <!--more-->
 
-<hr>
+
 <script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
-<hr>
+
 
 <a href="https://www.flickr.com/photos/90204224@N07/13979508784" title="The best backpack for packrafting"><img src="https://c2.staticflickr.com/8/7211/13979508784_43bee1910b_b.jpg" width="1024" height="683" alt="HMG Porter 4400 Alpack Pack Packraft - Best Backpack for Packrafting"></a>
 
