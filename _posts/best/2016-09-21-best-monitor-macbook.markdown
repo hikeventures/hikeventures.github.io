@@ -11,7 +11,7 @@ As we are approaching a new Apple event in a few days where we will most likely 
 
 I really like the idea to have less cables on my desk so USB-C is going to be a really nice feature. There will be no need to plug and unplug USB cables anymore on the Macbook Pro. All my USB cables will be connected to my monitor and there will be just one single USB-C which is connected to my Macbook Pro. So here is a selection of the best USB-C monitors which I would consider to buy (this blog post contains affiliate links). Currently, there are 2 monitors available with a 27" screen.
 
----
+<hr>
 
 <div class="table-responsive">
 <table class="table table-hover table-bordered list_items_3">
@@ -41,7 +41,8 @@ The LG 27UD88 is the latest display from Lenovo which features 99% SRGB color ga
 
 <a href="http://amzn.to/2dEVRzy" rel="nofollow" target="blank"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
----
+<hr>
+
 <h1> Lenovo ThinkVision X1</h1>
 <a href="https://www.amazon.com/gp/product/B01EORW6YM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01EORW6YM&linkCode=as2&tag=hikeve-20&linkId=f43cc1738aa7806bd1bb12c3e2670ce2" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01EORW6YM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01EORW6YM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
