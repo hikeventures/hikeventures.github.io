@@ -7,7 +7,7 @@ tags:
   - macbook
 layout: post
 ---
-As we are approaching a new Apple event in a few days where we will most likely see new Macbook Pros I was curious to find out which USB-C 4K monitor I should get to connect it with my new Macbook Pro. I really would like to have an external 4K monitor with my Macbook Pro since it is much more convenient to edit pictures.
+As I am planning to buy a new Macbook Pro I was curious to find out which USB-C 4K monitor I should get to connect it with my new Macbook Pro. I really would like to have an external 4K monitor with my Macbook Pro since it is much more convenient to edit pictures.
 
 I really like the idea to have less cables on my desk so USB-C is going to be a really nice feature. There will be no need to plug and unplug USB cables anymore on the Macbook Pro. All my USB cables will be connected to my monitor and there will be just one single USB-C which is connected to my Macbook Pro. So here is a selection of the best USB-C monitors which I would consider to buy (this blog post contains affiliate links). Currently, there are 2 monitors available with a 27" screen.
 
