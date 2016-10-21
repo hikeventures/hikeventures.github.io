@@ -14,7 +14,6 @@ Trekking and snowshoeing poles are especially useful if you have to walk up or d
 
 We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market and compare the specifications of new trekking poles. Here comes our trekking poles buying guide for 2016 (this blog post contains affiliate links).
 
-
 ---
 
 # The best trekking and snowshoeing poles 2016
@@ -73,7 +72,7 @@ Currently, I am using the Black Diamond Ultra Distance Z-Poles which are not mad
 
 The MSR Flight 3 is made of 7000-series Aluminium and has a non-absorbing foam grip and glove friendly straps. We have tested the MSR Flight 2 in the [Austrian Alps][7]. They are great for summer and winter. If you look specifically for winter poles then you should have a look at the MSR Deploy T-2 or T-3 (below).
 
-<a href="http://www.backcountry.com/msr-flight-3-trekking-pole"><button type="button" class="btn btn-danger">Read more about the MSR Flight 3</button></a>  <a href="/deals/#msr+flight+3" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#msr+flight+3" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -84,7 +83,7 @@ The MSR Flight 3 is made of 7000-series Aluminium and has a non-absorbing foam g
 
 The MSR Deploy T-3 are great for snowshoeing. We have tested the Deploy T-2 in the Austrian Alps [Austrian Alps][9]. If you are looking for poles which you can also use during the summer then you should have a look at the MSR Flight 3. There are 2 models available, the MSR Deploy T-2 and T-3 with the only difference that the T3 packs smaller.
 
-<a href="http://www.backcountry.com/msr-deploy-tr-3-trekking-pole"><button type="button" class="btn btn-danger">Read more about the MSR Deploy T-3</button></a>  <a href="/deals/#msr+deploy" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#msr+deploy" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -96,7 +95,7 @@ The MSR Deploy T-3 are great for snowshoeing. We have tested the Deploy T-2 in t
 
 The Black Diamond Expedition 3 poles are made of Aluminium and can also be used as ski poles. The poles also come with a 4-season strap in case you want to use gloves during the winter season. These poles come with trekking and snow baskets.
 
-<a href="https://www.rei.com/product/876929/black-diamond-expedition-3-ski-poles-pair"><button type="button" class="btn btn-danger">Read more about the Black Diamond Expedition 3</button></a>  <a href="/deals/#black+diamond+expedition" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#black+diamond+expedition" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -108,7 +107,7 @@ The Black Diamond Expedition 3 poles are made of Aluminium and can also be used 
 
 The Black Diamond Distance Carbon Z is made of carbon and suitable for fast-packing adventures. The poles are 3-section foldable.  
 
-<a href="http://www.backcountry.com/black-diamond-distance-trekking-pole"><button type="button" class="btn btn-danger">Read more about the Black Diamond Distance Carbon Z</button></a>  <a href="/deals/#black+diamond+distance+carbon" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#black+diamond+distance+carbon" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -120,7 +119,7 @@ The Black Diamond Distance Carbon Z is made of carbon and suitable for fast-pack
 
 The Black Diamond Distance Carbon FLZ are made of carbon fibre those poles come with FlickLock Pro adjustability. The poles are 3-section foldable.  
 
-<a href="https://www.rei.com/product/879955/black-diamond-distance-carbon-flz-trekking-poles-pair"><button type="button" class="btn btn-danger">Read more about the Ghost Whisperer Hooded Down Jacket</button></a>  <a href="/deals/#black+diamond+distance+carbon+flz" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#black+diamond+distance+carbon+flz" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -132,7 +131,7 @@ The Black Diamond Distance Carbon FLZ are made of carbon fibre those poles come 
 
 The Leki Micro series are foldable hiking poles from Leki and are made of Aluminium.
 
-<a href="http://www.backcountry.com/leki-micro-vario-ti-trekking-poles"><button type="button" class="btn btn-danger">Read more about the Leki Micro Ti</button></a>  <a href="/deals/#leki+micro+ti" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#leki+micro+ti" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 <a href="https://www.flickr.com/photos/90204224@N07/16507495306"><img src="https://farm8.staticflickr.com/7432/16507495306_31a0dc37c5_b.jpg" width="1024" height="680" alt="The best snowshoeing and trekking poles of 2017 - Lapland - Finland"></a>
 
@@ -172,12 +171,6 @@ When choosing your trekking or snowshoeing poles you should consider the followi
 # Differences between trekking and snowshoeing poles
 I would say that the main difference between snowshoe and hiking poles is the possibility to add a snow basket to the poles and to expand or shorten the poles while wearing gloves. My preference as the best trekking and snowhoeing pole goes towards the [MSR Flight 3][15].
 
----
-
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/master
 [1]:	http://www.hikeventures.com/destinations/
 [2]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Finnish Lapland"
 [3]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Finnish Lapland"

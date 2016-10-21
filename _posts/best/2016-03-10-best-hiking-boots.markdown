@@ -100,7 +100,7 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
 The Inov-8 Roclite 286 GTX is waterproof and offers natural movement and is made for fastpacking. While the boot is flexible it also offers ankle stabilty.
 
-<a href="http://www.backcountry.com/inov-8-roclite-286-gtx-hiking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Inov-8 Roclite 286 GTX</button></a>
+<a href="http://www.backcountry.com/inov-8-roclite-286-gtx-hiking-boot-mens"><button type="button" class="btn btn-danger">Buy</button></a>
 
 ---
 
@@ -112,7 +112,7 @@ The Inov-8 Roclite 286 GTX is waterproof and offers natural movement and is made
 
 The Adidas Terrex Fast R Mid GTX can - despite it's low weight - also be worn in the mountain. The shoes come with protective weldings and a grippy Continental™ Rubber outsole for a good grip on the trail.
 
-<a href="http://www.backcountry.com/adidas-outdoor-terrex-fast-r-mid-gtx-hiking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Adidas Terrex Fast R Mid GTX</button></a>
+<a href="http://www.backcountry.com/adidas-outdoor-terrex-fast-r-mid-gtx-hiking-boot-mens"><button type="button" class="btn btn-danger">Buy/button></a>
 
 ---
 
@@ -124,7 +124,7 @@ The Adidas Terrex Fast R Mid GTX can - despite it's low weight - also be worn in
 
 The Keen targhee II Mid is made of Nubuk leather and a waterproof breathable membrane. The EVA Footbed of the KEEN Targhee II Mid can be removed and the ESS shank offers torsion stability.
 
-<a href="http://www.backcountry.com/keen-targhee-ii-mid-tac-hiking-boot-mens"><button type="button" class="btn btn-danger">Read more about the KEEN Targhee II Mid</button></a>
+<a href="http://www.backcountry.com/keen-targhee-ii-mid-tac-hiking-boot-mens"><button type="button" class="btn btn-danger">Buy</button></a>
 
 ---
 
@@ -136,7 +136,7 @@ The Keen targhee II Mid is made of Nubuk leather and a waterproof breathable mem
 
 The Hanwag Banks upper comes with Cordura/Nubuk leather and the GORE-TEX lining makes the boots waterproof and breathable. The rubber toe caps protect your toes and there is also a shock absorber in the heel.
 
-<a href="https://www.rei.com/product/100194/hanwag-banks-gtx-boots-mens"><button type="button" class="btn btn-danger">Read more about the Hanwag Banks GTX</button></a>
+<a href="https://www.rei.com/product/100194/hanwag-banks-gtx-boots-mens"><button type="button" class="btn btn-danger">Buy</button></a>
 
 ---
 
@@ -148,7 +148,7 @@ The Hanwag Banks upper comes with Cordura/Nubuk leather and the GORE-TEX lining 
 
 The Arc'teryx Men's Bora2 Mid comes with the Arcteryx Adaptive Fit technology - a removable inner liner which can be replaced with a insulated mid liner for hiking in colder conditions. The Vibram® Arc’teryx Hiking Outsole provides traction with grip.
 
-<a href="http://www.backcountry.com/arcteryx-bora-mid-backpacking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Arc'teryx Men's Bora2 Mid</button></a>
+<a href="http://www.backcountry.com/arcteryx-bora-mid-backpacking-boot-mens"><button type="button" class="btn btn-danger">Buy</button></a>
 
 ---
 ## [Salomon QUEST 4D 2 GTX®](http://www.backcountry.com/salomon-quest-4d-2-gtx-backpacking-boot-mens)
@@ -159,7 +159,7 @@ The Arc'teryx Men's Bora2 Mid comes with the Arcteryx Adaptive Fit technology - 
 
 The Salomon Quest 4D 2 GTX has been developed through experience in trail running and offers a great fit and stability. The Contagrip® soles can handle dry, hard, loose and wet surfaces.
 
-<a href="http://www.backcountry.com/salomon-quest-4d-2-gtx-backpacking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Salomon QUEST 4D 2 GTX</button></a>
+<a href="http://www.backcountry.com/salomon-quest-4d-2-gtx-backpacking-boot-mens"><button type="button" class="btn btn-danger">Buy</button></a>
 
 ---
 
@@ -171,7 +171,7 @@ The Salomon Quest 4D 2 GTX has been developed through experience in trail runnin
 
 The Scarpa R-EVOLUTION GTX is a supportive and light hiking boot for the mountains. The Gore-Tex Performance Comfort liner keeps your foot dry.
 
-<a href="http://www.backcountry.com/scarpa-r-evolution-gtx-backpacking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Scarpa R-EVOLUTION GTX</button></a>
+<a href="http://www.backcountry.com/scarpa-r-evolution-gtx-backpacking-boot-mens"><button type="button" class="btn btn-danger">Buy</button></a>
 
 ---
 
@@ -183,7 +183,7 @@ The Scarpa R-EVOLUTION GTX is a supportive and light hiking boot for the mountai
 
 The Merrell Moab Ventilator Mid comes with a breathable mesh lining and a Vibram® Multi-Sport Sole/TC5+ Rubber and a contured footbed with organic odor control. The Merrell Moab Ventilator Mid are suitable for summer hikes. The Moab Ventilator also has a leather toe cap to protect your toes.
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Merrell-Men-s-Moab-Ventilator-Mid-Boot_10110157_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Merrell Moab Ventilator Mid</button></a>
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Merrell-Men-s-Moab-Ventilator-Mid-Boot_10110157_10208_10000001_-1_"><button type="button" class="btn btn-danger">Buy</button></a>
 
 ---
 
@@ -195,7 +195,7 @@ The Lowa Renegade GTX® Mid is one of Lowa's best selling hiking shoe which is w
 
 <a  href="http://www.amazon.com/gp/product/B002MPPV8M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002MPPV8M&linkCode=as2&tag=hikeve-20&linkId=5DHA3LOIUZFVBQNY"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002MPPV8M&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B002MPPV8M" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="http://www.backcountry.com/lowa-renegade-gtx-mid-hiking-boot-mens"><button type="button" class="btn btn-danger">Read more about the Lowa Renegade GTX® Mid</button></a>
+<a href="http://www.backcountry.com/lowa-renegade-gtx-mid-hiking-boot-mens"><button type="button" class="btn btn-danger">Buy</button></a>
 
 ---
 
@@ -207,7 +207,7 @@ The Lowa Renegade GTX® Mid is one of Lowa's best selling hiking shoe which is w
 
 The Vasque Breeze 2.0 GTX comes with GORE-TEX® with Extended Comfort Technology to keep your foot dry while the molded rubber toe cap will protect your toes. The Vasque Breeze 2.0 GTX is a boot which can be worn for multiple day hikes and will give you stability if you have to carry more load.
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Merrell-Men-s-Moab-Ventilator-Mid-Boot_10110157_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Vasque Breeze 2.0 GTX</button></a>
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Merrell-Men-s-Moab-Ventilator-Mid-Boot_10110157_10208_10000001_-1_"><button type="button" class="btn btn-danger">Buy</button></a>
 
 ---
 

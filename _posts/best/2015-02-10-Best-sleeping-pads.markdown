@@ -74,7 +74,7 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
 The Therm-a-Rest NeoAir Xlite is a solid 3-season air sleeping pad which you could consider if you look for a pad which packs light.
 
-<a href="https://www.rei.com/product/881574/therm-a-rest-neoair-xlite-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest NeoAir XLite</button></a>  <a href="http://www.hikeventures.com/deals/#NeoAir+Xlite" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.hikeventures.com/deals/#NeoAir+Xlite" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -88,7 +88,7 @@ The Therm-a-Rest NeoAir Xlite is a solid 3-season air sleeping pad which you cou
 
 Another light sleeping pad is the Sea to Summit Ultralight which featuers a more durable fabric than the Therm-aRest Neo Air Xlite while the NeoAir Xlite will give you a better insulation.
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Sea-to-Summit-UltraLight-Mat_10291712_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Sea to Summit Ultralight</button></a> <a href="http://www.hikeventures.com/deals/#sea+summit+ultralight" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.hikeventures.com/deals/#sea+summit+ultralight" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -103,7 +103,7 @@ Another light sleeping pad is the Sea to Summit Ultralight which featuers a more
 
 The Therm-a-Rest NeoAir XTherm is a sleeping pad for late spring, winter or early spring. However, in Scandinavia it is my go-to sleeping bag throughout the year.
 
-<a href="https://www.rei.com/product/881575/therm-a-rest-neoair-xtherm-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest NeoAir XTherm</button></a> <a href="http://www.hikeventures.com/deals/#NeoAir+XTherm" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.hikeventures.com/deals/#NeoAir+XTherm" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -116,7 +116,7 @@ The Therm-a-Rest NeoAir XTherm is a sleeping pad for late spring, winter or earl
 
 The Therm-a-Rest Z LITE SOL is a foam sleeping pad which is a safe choice than an air sleeping pad. You can also use this pad in combination with an air sleeping pad to get the ultimate in comfort and insulation.
 
-<a href="https://www.rei.com/product/829826/therm-a-rest-z-lite-sol-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest Z LITE SOL</button></a> <a href="http://www.hikeventures.com/deals/#Z+Lite+Sol" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.hikeventures.com/deals/#Z+Lite+Sol" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -130,7 +130,7 @@ The Therm-a-Rest Z LITE SOL is a foam sleeping pad which is a safe choice than a
 
 The Exped Synmat UL 7 was my go-to sleeping pad for a couple of years, however I have replaced it with the Therm-a-Rest XTherm as it offers a better insulation / weight ratio.
 
-<a href="https://www.rei.com/product/811907/exped-synmat-ul-7-air-pad"><button type="button" class="btn btn-danger">Read more about the Exped Synmat UL 7</button></a> <a href="http://www.hikeventures.com/deals/#exped+synmat+ul+7+pad" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.hikeventures.com/deals/#exped+synmat+ul+7+pad" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -144,7 +144,7 @@ The Exped Synmat UL 7 was my go-to sleeping pad for a couple of years, however I
 
 If you don't want to spend so much time inflating your sleeping pad then the Therm-a-Rest EvoLite might be an intersting sleeping pad for the summer. However, the foam of the pad makes it a heavier choice and you don't get such a good insulation as in other air pads.
 
-<a href="http://www.backcountry.com/therm-a-rest-evolite-sleeping-pad"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest EvoLite</button></a>  <a href="http://www.hikeventures.com/deals/#evolite" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.hikeventures.com/deals/#evolite" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 

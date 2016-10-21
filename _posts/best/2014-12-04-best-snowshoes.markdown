@@ -13,8 +13,6 @@ We have been snowshoing in Finnish Lapland and in the Austrian Alps last year an
 
 We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market and compare the specifications of new snowshoes. Here comes our snowshoe buying guide for 2016 (this blog post contains affiliate links).
 
->>>>>>> origin/master
-
 ---
 
 # The best snowshoes 2016
@@ -84,7 +82,7 @@ Considering your own body and gear weight is important when choosing your snowsh
 * Optional, 5-inch (13-cm) tails for improved flotation   
 * Torsion2 crampons
 
-<a href="http://www.backcountry.com/msr-lightning-ascent"><button type="button" class="btn btn-danger">Read more about the MSR Lightning Ascent 25</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -100,7 +98,7 @@ Considering your own body and gear weight is important when choosing your snowsh
 * DYNAMICFIT BINDING
 * FLEXTail
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Tubbs-Men-s-Flex-VRT-Snowshoe_10259131_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Tubbs Men's FLEX VRT 24</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -117,7 +115,7 @@ Considering your own body and gear weight is important when choosing your snowsh
 * Ergo Televators
 * Optional, 5-inch (13-cm) tails for improved flotation
 
-<a href="http://www.backcountry.com/msr-lightning-explore-snowshoe-mens"><button type="button" class="btn btn-danger">Read more about the MSR Lightning Explore 25</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -133,7 +131,7 @@ Considering your own body and gear weight is important when choosing your snowsh
 * Ergo Televators
 * Optional, 5-inch (13-cm) tails for improved flotation
 
-<a href="http://www.backcountry.com/msr-revo-ascent-snowshoe-mens"><button type="button" class="btn btn-danger">Read more about the MSR Revo Ascent 25</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -148,7 +146,7 @@ Considering your own body and gear weight is important when choosing your snowsh
 * Carbon steel Cobra toe crampon
 * Grappler heel cleat
 
-<a href="http://www.backcountry.com/tubbs-xpedition-snowshoe-mens"><button type="button" class="btn btn-danger">Read more about the Tubbs Men's Xpedition 25</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -166,7 +164,7 @@ Considering your own body and gear weight is important when choosing your snowsh
 * Spring-loaded suspension
 * Duratek Decking
 
-<a href="http://www.backcountry.com/atlas-12-series-snowshoe"><button type="button" class="btn btn-danger">Read more about the Atlas 12 Series</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 

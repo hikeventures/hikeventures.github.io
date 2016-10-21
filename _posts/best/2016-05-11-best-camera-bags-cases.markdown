@@ -10,7 +10,7 @@ tags:
   - camera
 ---
 
-In this blog post[^1] I would like to give an overview about the best camera bags which I would select for a Sony A7, A7II A7RII or A7SII (and also a6500, a6300 or a6000 since they share a similar form factor). Different cases might be useful for different activities e.g. you might select a different camera bag when you go hiking than you would choose when planning to go on a kayaking or packrafting trip. 
+In this blog post[^1] I would like to give an overview about the best camera bags which I would select for a Sony A7, A7II A7RII or A7SII (and also a6500, a6300 or a6000 since they share a similar form factor). Different cases might be useful for different activities e.g. you might select a different camera bag when you go hiking than you would choose when planning to go on a kayaking or packrafting trip.
 
 As I have recently upgraded my own camera gear which I am planning to take to [our trips](http://www.hikeventures.com/destinations/),  I was in need of a new camera case which I can use for my outdoor adventures. I was looking for a camera bag or case which packs small and actually came to the conclusion that I would need different camera bags for my MILC for different activities. This blog post contains affiliate links.
 
@@ -87,7 +87,7 @@ When I plan to go hiking or backpacking I would like to have a camera bag where 
 
 The Lowepro Nova Sport 7L AW is a camera bag with a removeable camera insert. It is available in red and grey and can also store a tablet. The Nova Sport 7L also comes with an all weather cover so it's great for hiking trips. However, if you plan to go kayaking or packrafting then it might be a better idea to store the Nova Sport in an dry sack.
 
-<a href="http://amzn.to/29YPNOV" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Lowepro Nova Sport 7L</button></a>
+<a href="http://amzn.to/29YPNOV" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 <hr>
 
@@ -100,7 +100,7 @@ The Lowepro Nova Sport 7L AW is a camera bag with a removeable camera insert. It
 
 The Ortlieb Camera Bag Aqua Zoom is is dust and splash proof but you should not submerge it under water.
 
-<a href="http://amzn.to/29vBhTa" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Ortlieb Camera Bag Aqua Zoom</button></a>
+<a href="http://amzn.to/29vBhTa" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 <hr>
 
@@ -118,7 +118,7 @@ For packrafting and kayaking I would like to have a camera bag which is complete
 
 The Aquqpac Waterproof SLR Camera Case is 100% waterproof to IPX8 and can be submerged to 5m for 30 mins. The Aquacase case also features an optically-clear acrylic lens for clear pictures. The case will also float on the water with your camera in it but Aquapac mentions that you should test the case with your camera before you take the case into the field.
 
-<a href="http://amzn.to/29zNP9o" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Aquapac case</button></a>
+<a href="http://amzn.to/29zNP9o" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 <hr>
 
@@ -131,7 +131,7 @@ The Aquqpac Waterproof SLR Camera Case is 100% waterproof to IPX8 and can be sub
 
 The Pelican 1200 case is a bit heavier than the other bags and cases but it protects your camera not only from moisture but also from bumps. The company claims that you can submerge the case 1m for 30 minutes. The case also comes with a foam which you can customize the case. The case has an atmospheric purge valve and a neoprene o-ring seal.
 
-<a href="http://amzn.to/29zNP9o"><button type="button" class="btn btn-danger">Read more about the Pelican 1200 Case</button></a>
+<a href="http://amzn.to/29zNP9o"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 <hr>
 
@@ -149,7 +149,7 @@ The Thule Convert Camera Backpack offers space for a DSLR and an attached wide a
 
 <a href="https://www.amazon.com/gp/product/B00JXECZSE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JXECZSE&linkCode=as2&tag=hikeve-20&linkId=81edc424d9dc6074372a108183c60bd0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00JXECZSE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00JXECZSE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="https://www.rei.com/product/877640/thule-covert-camera-backpack"><button type="button" class="btn btn-danger">Read more about the Thule Covert Camera Backpack</button></a>
+<a href="https://www.rei.com/product/877640/thule-covert-camera-backpack"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 <hr>
 
@@ -162,7 +162,7 @@ The Thule Convert Camera Backpack offers space for a DSLR and an attached wide a
 
 ONA The Bowery Camera Bag has been handcrafted with premium waxed canvas and full-grain leather details. The camera can store one camera and one small lens.
 
-<a href="http://amzn.to/29vFJkX" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the ONA The Bowery Camera Bag</button></a>
+<a href="http://amzn.to/29vFJkX" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 <hr>
 
@@ -176,7 +176,7 @@ ONA The Bowery Camera Bag has been handcrafted with premium waxed canvas and ful
 
 The Thule Covert Camera Messenger Bag comes with a removable camera pod system and an iPad pocket. There is room for a compact DSLR and 2 lenses or a flash.
 
-<a href="https://www.rei.com/product/887508/thule-covert-camera-messenger-bag-small"><button type="button" class="btn btn-danger">Read more about the Thule Covert Camera Messenger Bag</button></a>
+<a href="https://www.rei.com/product/887508/thule-covert-camera-messenger-bag-small"><button type="button" class="btn btn-danger">Buy</button></a>
 
 <hr>
 

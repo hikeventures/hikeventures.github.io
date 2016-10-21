@@ -77,7 +77,7 @@ Konstantin wearing the [Montane Minimus Jacket][3] on our [trip][4] in the Sarek
 
 The Berghaus Vapourlight Hyper Smock 2.0 is the lightest waterproof jacket in our selection. With 75 grams it's nearly invisible in your backpack but featuring even a a small pocket for essentials. If you need a lightweigh emergency jacket or a lightweight running jacket then the Berghaus Vapourlight Hyper Smock 2.0 should be your choice. Be aware that such light jackets are not made to carry heavy load e.g. a backpack. If you are into backpacking then have a look on the jackets below. the Berghaus Vapourlight Hyper Smock 2.0 won the Ispo Award 2014/2015.
 
-<a href="http://www.backcountry.com/berghaus-vapourlight-hyper-hooded-smock-2.0-mens"><button type="button" class="btn btn-danger">Read more about the Berghaus Vapourlight Hyper Smock 2.0</button></a>  <a href="http://www.hikeventures.com/deals/#Berghaus+Vapourlight+Hyper+Smock" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.hikeventures.com/deals/#Berghaus+Vapourlight+Hyper+Smock" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -90,7 +90,7 @@ The Berghaus Vapourlight Hyper Smock 2.0 is the lightest waterproof jacket in ou
 
 The Outdoor Research Helium II Jacket is also a quite popular rain jacket. It features a single-pull hood drawcord to adjust coverage, zippered Napoleon pocket and elastic cuffs.
 
-<a href="http://www.backcountry.com/outdoor-research-helium-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Outdoor Research Helium II Jacket</button></a> <a href="http://www.hikeventures.com/deals/#Outdoor+Research+Helium+II+Jacket" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.hikeventures.com/deals/#Outdoor+Research+Helium+II+Jacket" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -103,7 +103,7 @@ The Outdoor Research Helium II Jacket is also a quite popular rain jacket. It fe
 
 The Rab Flashpoint Jacket is also a super light rain jacket. With 185 grams it's you won't feel it either in your backpack. Also a great jacket for trail running. Not as durable if you are planning to carry a backpack.
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Rab-Men-s-Flashpoint-Jacket_10271705_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Rab Flashpoint Jacket</button></a>  <a href="http://www.hikeventures.com/deals/#Rab+Flashpoint+jacket" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.hikeventures.com/deals/#Rab+Flashpoint+jacket" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -118,7 +118,7 @@ The Rab Flashpoint Jacket is also a super light rain jacket. With 185 grams it's
 
 I would choose the Montane Minimus Jacket as my go-to jacket if every gram counts and you want to have a full-zip jacket. If durability is also an important aspect then you should have a look at the new Arcteryx Zeta LT Jacket which comes next in my list.
 
-<a href="http://www.backcountry.com/montane-minimus-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Montane Minimus Jacket</button></a>  <a href="http://www.hikeventures.com/deals/#montane+minimus+jacket" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.hikeventures.com/deals/#montane+minimus+jacket" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -132,7 +132,7 @@ I would choose the Montane Minimus Jacket as my go-to jacket if every gram count
 The Mountain Hardwear Plasmonic Jacket is one of the best selling jackets from Mountain Hardwear and made especially for hiking and backpacking.
 
 
-<a href="http://www.backcountry.com/mountain-hardwear-plasmonic-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Mountain Hardwear Plasmonic Jacket</button></a>  <a href="http://www.hikeventures.com/deals/#Mountain+Hardwear+Plasmonic+Jacket" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.hikeventures.com/deals/#Mountain+Hardwear+Plasmonic+Jacket" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 
 ---
@@ -146,7 +146,7 @@ The Mountain Hardwear Plasmonic Jacket is one of the best selling jackets from M
 
 The Zeta LT Jacket would be my favourite choice if I would select a new waterproof jacket. It comes with the new Gore Tex GORE C-KNIT backer technology which should be super comfortable on the skin and even more breathable. There is also a lighter jacket out which is called Norvan Jacket and comes with only 215 grams. However, I would not choose it for packrafting as the fabric N20p 3L is quite thin compared to the Arcteryx Zeta LT Jacket. The Norvan jacket is more suitable for runners or if you don't wear a backpack.
 
-<a href="http://www.backcountry.com/arcteryx-zeta-lt-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Arcteryx Zeta LT Jacket</button></a>  <a href="http://www.hikeventures.com/deals/#Arcteryx+Zeta+LT+Jacket" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.hikeventures.com/deals/#Arcteryx+Zeta+LT+Jacket" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 

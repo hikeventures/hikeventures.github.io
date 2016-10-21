@@ -88,7 +88,7 @@ Probably one disadvantage of watches having a colour display and a GPS was their
 
 The Apple watch SERIES 2 42mm is for those folks who like to have their iPhone with them. The new Apple Watch Series 2 also features a built-in GPS and is an excellent choice if you exercise 1-2 hours a day. However, if you are more into multisport or longer cycling or hiking trips I would rather buy the new Suunto Spartan which can be used much longer in training mode than the Apple Watch Series 2. Both watches - the Suunto Spartan and the Apple Watch Series 2 are suitable for swimmers. However, the Apple Watch Series 2 should not be used for diving.
 
-<a href="http://amzn.to/2dysTQc" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Apple Watch Series 2 Sport</button></a>
+<a href="http://amzn.to/2dysTQc" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ## <a href="http://amzn.to/1t7QAFm" rel="nofollow">Motorola Moto 360 Sport</a>
 
@@ -108,7 +108,7 @@ The Apple watch SERIES 2 42mm is for those folks who like to have their iPhone w
 
 Another interesting Outdoor watch is the Motorola Moto 360 Sport which is targeted towards Android users as it has the AndroidWear™ operating system on board. It also features an optical hear rate monitor directly on the watch which can only be found on the Apple watch so far. No need to wear a hear rate monitor around your chest. One highlight of the Moto 360 Sport is probably it's high resolution / display.
 
-<a href="http://amzn.to/1RWNLvb" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Moto 360 Sport</button></a>
+<a href="http://amzn.to/1RWNLvb" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -130,7 +130,7 @@ Another interesting Outdoor watch is the Motorola Moto 360 Sport which is target
 
 The Garmin Fenix 3 can be connected to Android and Apple phones and was one of the first proper sport watches which featured a graphic display and is going to be challenged by the new [Suunto Spartan](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch).
 
-<a href="http://www.backcountry.com/garmin-fenix-3-bundle"><button type="button" class="btn btn-danger">Read more about the Garmin Fenix 3</button></a>
+<a href="http://www.backcountry.com/garmin-fenix-3-bundle"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -157,7 +157,7 @@ Apple users should probably look at an alternative watch as the the Casio WSD-F1
 
 In general, I found that the Casio WSD-F10 looks quite nice. I like the displays and AndroidWear as an OS should probably offer nice upgrade functionalities in the future. The only disadvantage I see with this watch is that I basically need to carry my smartphone with me as the watch does not have a built-in GPS. For me as a runner and hiker I would prefer a watch with a dedicated GPS module on board.
 
-<a href="http://amzn.to/1YdNH1H" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Casio WSD-F10</button></a>
+<a href="http://amzn.to/1YdNH1H" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -179,7 +179,7 @@ In general, I found that the Casio WSD-F10 looks quite nice. I like the displays
 
 The Suunto Spartan is the latest smart watch addition in the Suunto range. Unfortunately, there are no specifications about the Suunto Spartan available yet beside that it's going to be the first Suunto watch which features a colour display. As Suunto watches can be connected to Moveslink - the Suunto Online Sport Community - it is possible to use the Suunto Spartan either with your Android phone or with your iPhone.
 
-<a href="https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch"><button type="button" class="btn btn-danger">Read more about the Suunto Spartan Ultra</button></a>
+<a href="https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch"><button type="button" class="btn btn-danger">Buy on REI</button></a>
 
 ---
 
@@ -207,7 +207,3 @@ amzn_assoc_linkid = "586471a69afcbdad2092eabf0fcc4bbc";
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/master
