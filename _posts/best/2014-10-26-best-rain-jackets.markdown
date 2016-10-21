@@ -11,7 +11,7 @@ layout: post
 ---
 Do you know how to stay warm during a hiking trip? Don't get wet! Here is my buying guide of the best rain jackets which I have selected for 2016. Planning to go hiking, backpacking, running, cycling, mountaineering or on any other backcountry trip? Then you should have a lightweight rain jacket in your backpack. A rain jacket does not need to weight much and can be a life saver especially when it's cold. Also consider taking lightweight waterproof [rain pants][1] with you.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market and compare the specifications of new jackets. Here comes our rain jacket buying guide for 2016 (this blog post contains affiliate links).
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we are not able to test every product, we follow the market and compare the specifications of new jackets. Here comes our rain jacket buying guide for 2016 (this blog post contains affiliate links).
 
 ---
 
