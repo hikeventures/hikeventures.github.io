@@ -32,9 +32,11 @@ The most important difference is probably that the Suunto Traverse has a vibrati
 
 I mainly go running and hiking so the regular Suunto Traverse is the best option for me and there is no need to pay for features which I don't use. Of course I could also get the new [Suunto Spartan](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch) which features a color display and a touch screen. But are those two features worth the premium price over the Suunto Traverse or Ambit3 Vertical? It's up to you!
 
-Personally, I don't need a touch screen and a color display but I would probably buy the Spartan if I would have sufficient money and no Suunto Traverse on my wrist yet. If you are on a budget then it's also a good idea to look at discounts (see below).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
+> On our packrafting trip in the Sarek National Park in Sweden we had also a Suunto with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
----
+
+Personally, I don't need a touch screen and a color display but I would probably buy the Spartan if I would have sufficient money and no Suunto Traverse on my wrist yet. If you are on a budget then it's also a good idea to look at discounts (see below).
 
 The Suunto Traverse weights about 80 grams and it's water resistance is 100 m. The old Ambit3 (Peak) is only 50 m water resistant. Both - the old Suunto Ambit3 (Peak) and the Traverse have a barometer. The menu on the Suunto Traverse is also more simplified than on the old Suunto Ambit3 (Peak) which I personally prefer. The Traverse has also a flashlight function which could be quite useful (for example if you need to search something in your tent). Below you can see my Suunto Traverse next to my Finnish Roselli knife.
 

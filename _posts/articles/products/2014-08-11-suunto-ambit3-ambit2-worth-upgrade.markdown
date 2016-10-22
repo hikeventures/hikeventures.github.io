@@ -52,7 +52,8 @@ You can get notifications of incoming calls, SMS or Facebook updates on your Suu
 # Videos
 It's possible to create videos with the [Movescount App][4] which uses your tracking data to display your route. You can also take pictures with your phone and integrate those into your videos. I think this is a quite nice feature which allows you to share your trips with your friends.
 
----
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
+> On our packrafting trip in the Sarek National Park in Sweden we had also a Suunto with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
 # Heart Rate Monitor
 The heart rate monitor of the Suunto Ambit3 is notably smaller than the one which came with the Suunto Ambit2. On my first run with the heart rate monitor I hardly noticed that I am wearing it compared to the old HR monitor. What's more, you can also use the HR Monitor without the watch and synchronise your heart rate data later on.

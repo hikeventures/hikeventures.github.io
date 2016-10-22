@@ -66,6 +66,6 @@ amzn_assoc_linkid = "e899350e29f667efc95eb96b505756d3";
 If you are into multisport or any activity which lasts several hours then I would probably get the [Suunto Spartan](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch). If you only go running then the Apple Watch Nike+ is probably a better option. If you are an iPhone user then the Apple Watch Series 2 is obviously a better choice if you don't plan activities which lasts several hours. However, as I have not tested the <a href="http://amzn.to/2dt4Oyt" target="_blank" rel="nofollow">Apple Watch Series 2</a> I will need to see how long the watch might actually work with GPS switched on.
 
 ---
-The links on this site contains affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read who we are.
 
----
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
+> On our packrafting trip in the Sarek National Park in Sweden we had also a Suunto with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
