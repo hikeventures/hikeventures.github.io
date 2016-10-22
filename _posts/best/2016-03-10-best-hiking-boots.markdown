@@ -83,7 +83,13 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 * Let you carry more load over a longer distance
 * More durable than [http://www.hikeventures.com/best-ultralight-hiking-shoes/](ultralight hiking shoes).
 
----
+<hr>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
+> On our packrafting trip in the Sarek National Park in Sweden we had an Inov-8 Roclite 295 with us. <a href="http://www.youtube.com/user/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
+
+<hr>
 
 # Disadvantages of hiking boots
 

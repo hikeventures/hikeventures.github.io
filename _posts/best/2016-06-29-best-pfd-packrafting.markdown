@@ -64,7 +64,13 @@ We are usually wearing a dry suite when we go packrafting and we would rate the 
 
 We have not tested all the PFDs in this article but those are our favorites if we were to buy a new one. The links on this site contain affiliate links.
 
----
+<hr>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
+> Our packrafting trip in the Sarek National Park in Sweden. <a href="http://www.youtube.com/user/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
+
+<hr>
 
 ## [Astral Designs YTV](http://www.backcountry.com/astral-ytv-personal-flotation-device)
 

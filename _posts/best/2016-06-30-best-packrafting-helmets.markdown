@@ -58,8 +58,13 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 <script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/14281650547/in/photolist-o1sHd9-nL1pNj-nL2jzi-nL2c9g-o5h1EP-nKYQwD-o3abCZ-o5eCPi-nKXNaZ-o3mqEN-o1pT3W-o3a4ZZ-nKXHCH-o3mhXy-fBZaMc-fBZ3ND-fe5yWu-fbDJTN-eiqbb6-ATS9vT-fa8gei-fanvNS-fa8fXP-fanujW-fa8fjR-fanuP5-fanuam-ecnxxQ-ecgUtr-ecgUrk-ecnxEY-ecgUza-ecgUDe-eZHHyS-eZwkQe-eZwn1x-eZwmzH-eZwnjz-f9khAR-ecgULp-ecgUH4-ecny25-eZHKmd-ecgUPV-fdRbUD-ecgUZp-fdQg5n-fbptrD-fe5yih-ecny5G" title="Packrafting Emån River"><img src="https://c4.staticflickr.com/4/3907/14281650547_9a4ceebb99_h.jpg" width="1600" height="1068" alt="Packrafting Emån River"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<hr>
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
+> Our packrafting trip in the Sarek National Park in Sweden. <a href="http://www.youtube.com/user/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
+
+<hr>
 
 
 ---

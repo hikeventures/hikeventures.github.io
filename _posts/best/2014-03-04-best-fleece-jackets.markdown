@@ -59,7 +59,8 @@ While [Packrafting in Sarek][7] Patrick was always wearing a fleece during the d
 ## When to wear a fleece jacket?
 Fleece jackets can be worn as an outer shell if it's not raining but they are not windproof so you should also consider to get a [wind jacket][8] when buying a fleece. Wind jackets are more breathable than [rain jackets][9] since they are not waterproof and you won't sweat that much in a wind jacket. In situations where you are not active (e.g. sitting in your camp or taking pictures) you should rather consider buying a [down jacket][10]. Down does not insulate if it gets wet but keeps you warmer than fleece when dry.
 
----
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
+> On our packrafting trip in the Sarek National Park in Sweden we had also fleece jackets with us. <a href="http://www.youtube.com/user/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
 # Arcteryx Thetis Zip Neck
 
