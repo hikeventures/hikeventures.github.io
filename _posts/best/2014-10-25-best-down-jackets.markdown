@@ -95,7 +95,7 @@ Sometimes you might also get a down jacket for a significant lower price especia
 <hr>
 
 
-<iframe width="100%" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
 > On our packrafting trip in the Sarek National Park in Sweden we had also down jackets with us.
 
 <hr>

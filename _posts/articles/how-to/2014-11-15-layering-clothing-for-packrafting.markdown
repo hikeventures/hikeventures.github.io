@@ -56,7 +56,7 @@ The [Latex Socks](http://www.packrafting-store.de/Clothing/Latex-socks::380.html
 ### Anfibio Packsuit
 A dry suite is the most expensive item in our Clothing Layering System. The [Anfibio Packsuit](http://www.packrafting-store.de/Clothing/Anfibio-Packsuit::378.html) is our dry suite. It's reasonably priced compared to other products and works quite well for us so far. You have to adjust the collar when you buy a new one so it snugs nicely around your throat.
 
-<iframe width="100%" src="https://www.youtube.com/embed/KWnlN7klqJI" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/KWnlN7klqJI" frameborder="0" allowfullscreen></iframe>
 > Caj testing his dry suite
 
 It's also a good idea to have specific clothes for the summer like the [Icebreaker Cool-Lite Sphere T-Shirt](http://www.sierratradingpost.com/item~p~9674t/) or the [Astral Designs V-Eight PFD](https://www.rei.com/product/881421/astral-v-eight-pfd).
