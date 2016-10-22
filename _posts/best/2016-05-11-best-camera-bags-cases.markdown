@@ -14,7 +14,7 @@ In this blog post I would like to give an overview about the best camera bags wh
 
 As I have recently upgraded my own camera, I was in need of a new camera case which I can use for my outdoor adventures. I was looking for a camera bag or case which packs small and actually came to the conclusion that I would need different camera bags for my MILC for different activities. This blog post contains affiliate links.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we are not able to test every product, we follow the market and compare the specifications of new products (this blog post contains affiliate links).
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new products (this blog post contains affiliate links).
 
 ---
 
