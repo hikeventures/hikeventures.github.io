@@ -24,5 +24,8 @@ I believe that the ultralight principle should only be applied on gear to cut we
 ## Should I replace my rain gear with an umbrella when hiking?
 Some people were talking about replacing their rain gear with an umbrella. A few years ago I was interested in trying out this concept and purchased an umbrella especially made for hiking. Did it work? Well, to some extend if there is no wind. Your pants are still getting wet and when there is wind then you will have rain also coming in from the side. If the wind gets a bit stronger then the umbrella just folds up like any ordinary umbrella. Personally, I would **never** take an umbrella to a hiking trip anymore.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
+> On our packrafting trip in the Sarek National Park in Sweden we had also rain jackets with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
+
 ## Conclusion
 So should you take your rain jacket and pants on your next hiking trip. I would say: "Yes, definitely if you want to enjoy your time outdoors as much as possible and stay healthy".

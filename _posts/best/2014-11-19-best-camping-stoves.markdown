@@ -164,7 +164,7 @@ The MSR XGK EX is probably the best choice if you need a stove which can handle 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-> On our packrafting trip in the Sarek National Park in Sweden we also had our camping stove with us. <a href="http://www.youtube.com/user/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
+> On our packrafting trip in the Sarek National Park in Sweden we also had our camping stove with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
 <hr>
 

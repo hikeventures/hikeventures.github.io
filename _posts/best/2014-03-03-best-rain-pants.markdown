@@ -153,7 +153,7 @@ The Rab Firewall Pants are made for active use during winter. The Rab Firewall p
 <a href="/deals/#rab+firewall+pant" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-> On our packrafting trip in the Sarek National Park in Sweden we had also rain pants with us. <a href="http://www.youtube.com/user/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
+> On our packrafting trip in the Sarek National Park in Sweden we had also rain pants with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
 The rain pants in my list are for emergency situations so they will also pack quite small as the Montane Minimus pants (see picture above). Also consider to take a [waterproof jacket][11] with you.
 

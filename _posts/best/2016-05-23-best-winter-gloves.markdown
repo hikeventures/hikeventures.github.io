@@ -67,6 +67,10 @@ However, you can also just take your main gloves off and operate your camera by 
 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IG-hPfj-d1M" frameborder="0" allowfullscreen></iframe>
+> Snowshoeing and skiingi n Finnish Lapland. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
+
+---
 
 # Best Mittens
 

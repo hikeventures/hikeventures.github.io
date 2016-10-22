@@ -197,7 +197,7 @@ The Petzl e+LITE is the emergency headlamp from Petzl. It could also be a good c
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-> On trips like in Northern Sweden we also had our headlamps with us. <a href="http://www.youtube.com/user/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
+> On trips like in Northern Sweden we also had our headlamps with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
 <hr>
 

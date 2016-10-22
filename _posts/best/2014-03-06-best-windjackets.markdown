@@ -57,7 +57,7 @@ Patrick hiking in [Sarek National Park][2] in Sweden wearing an [Arcteryx Squami
 A wind jacket is much lighter and you won't sweat that much in it compared to a [rain jacket][4]. My own preference goes towards carrying both - a wind jacket AND a rain jacket - and to wear them according to the current weather situation. If it's raining, I am obviously going to wear a rain jacket but if it's dry and there is only a cold wind blowing then I quickly pull on a wind jacket over my [fleece][5].In the evenings while sitting in the camp I swap my [fleece][6] and wind jacket combo with a [down jacket][7].
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-> On our packrafting trip in the Sarek National Park in Sweden we had also wind jackets with us. <a href="http://www.youtube.com/user/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
+> On our packrafting trip in the Sarek National Park in Sweden we had also wind jackets with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
 ## [Patagonia Houdini][8]
 

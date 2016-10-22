@@ -59,7 +59,7 @@ A dry suite is the most expensive item in our Clothing Layering System. The [Anf
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KWnlN7klqJI" frameborder="0" allowfullscreen></iframe>
-> Caj testing his dry suite.  <a href="http://www.youtube.com/user/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
+> Caj testing his dry suite.  <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
 ---
 

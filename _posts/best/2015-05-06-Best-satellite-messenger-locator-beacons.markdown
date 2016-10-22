@@ -63,7 +63,7 @@ With a Satellite Messenger you can also inform your family and friends about you
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-> On remote backcountry trips like our trip in the Sarek National Park in Sweden it's a good idea to have a GPS messenger with you. <a href="http://www.youtube.com/user/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
+> On remote backcountry trips like our trip in the Sarek National Park in Sweden it's a good idea to have a GPS messenger with you. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
 <hr>
 
