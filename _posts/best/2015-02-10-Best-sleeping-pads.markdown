@@ -70,11 +70,11 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 **Weight:** 350 g  
 **Fabric:** 30D  
 
-<a href="https://www.amazon.com/gp/product/B00PZL15OY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PZL15OY&linkCode=as2&tag=hikeve-20&linkId=5fda56383b6e7ecd83ffee998ddbe42b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00PZL15OY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00PZL15OY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B00PZL15OY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PZL15OY&linkCode=as2&tag=hikeve-20&linkId=5fda56383b6e7ecd83ffee998ddbe42b" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00PZL15OY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00PZL15OY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The Therm-a-Rest NeoAir Xlite is a solid 3-season air sleeping pad which you could consider if you look for a pad which packs light.
 
-<a href="http://www.hikeventures.com/deals/#NeoAir+Xlite" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://amzn.to/2dpbvAF" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 ---
 
@@ -84,11 +84,11 @@ The Therm-a-Rest NeoAir Xlite is a solid 3-season air sleeping pad which you cou
 **Weight:** 355 g  
 **Fabric:** 40D  
 
-<a href="https://www.amazon.com/gp/product/B00MTZP8RY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MTZP8RY&linkCode=as2&tag=hikeve-20&linkId=44fb9d7c681394023185b0482e181c5e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00MTZP8RY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00MTZP8RY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B00MTZP8RY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MTZP8RY&linkCode=as2&tag=hikeve-20&linkId=44fb9d7c681394023185b0482e181c5e" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00MTZP8RY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00MTZP8RY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Another light sleeping pad is the Sea to Summit Ultralight which featuers a more durable fabric than the Therm-aRest Neo Air Xlite while the NeoAir Xlite will give you a better insulation.
 
-<a href="http://www.hikeventures.com/deals/#sea+summit+ultralight" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://amzn.to/2dBNq82" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 ---
 
@@ -99,11 +99,11 @@ Another light sleeping pad is the Sea to Summit Ultralight which featuers a more
 **Fabric:** 30D  
 **Fabric bottom:** 70D  
 
-<a href="https://www.amazon.com/gp/product/B00TSFYZAE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TSFYZAE&linkCode=as2&tag=hikeve-20&linkId=25c9ce32924da763f8646aec664470c1"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00TSFYZAE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00TSFYZAE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B00TSFYZAE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TSFYZAE&linkCode=as2&tag=hikeve-20&linkId=25c9ce32924da763f8646aec664470c1" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00TSFYZAE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00TSFYZAE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The Therm-a-Rest NeoAir XTherm is a sleeping pad for late spring, winter or early spring. However, in Scandinavia it is my go-to sleeping bag throughout the year.
 
-<a href="http://www.hikeventures.com/deals/#NeoAir+XTherm" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://amzn.to/2elYMQq" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 ---
 
@@ -112,11 +112,11 @@ The Therm-a-Rest NeoAir XTherm is a sleeping pad for late spring, winter or earl
 **R-Value:** 2.6  
 **Weight:**  410 g
 
-<a href="https://www.amazon.com/gp/product/B005I6R0WC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005I6R0WC&linkCode=as2&tag=hikeve-20&linkId=cd2dc0ea0537f09b2be8968a9dd8422d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B005I6R0WC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B005I6R0WC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B005I6R0WC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005I6R0WC&linkCode=as2&tag=hikeve-20&linkId=cd2dc0ea0537f09b2be8968a9dd8422d" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B005I6R0WC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B005I6R0WC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The Therm-a-Rest Z LITE SOL is a foam sleeping pad which is a safe choice than an air sleeping pad. You can also use this pad in combination with an air sleeping pad to get the ultimate in comfort and insulation.
 
-<a href="http://www.hikeventures.com/deals/#Z+Lite+Sol" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://amzn.to/2e8kepY" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 ---
 
@@ -126,11 +126,11 @@ The Therm-a-Rest Z LITE SOL is a foam sleeping pad which is a safe choice than a
 **Weight:** 450 g
 **Fabric:** 20D  
 
-<a href="https://www.amazon.com/gp/product/B0047BXBUO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0047BXBUO&linkCode=as2&tag=hikeve-20&linkId=03286004564378e768bb3446d9c72c00"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0047BXBUO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0047BXBUO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B0047BXBUO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0047BXBUO&linkCode=as2&tag=hikeve-20&linkId=03286004564378e768bb3446d9c72c00" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0047BXBUO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0047BXBUO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The Exped Synmat UL 7 was my go-to sleeping pad for a couple of years, however I have replaced it with the Therm-a-Rest XTherm as it offers a better insulation / weight ratio.
 
-<a href="http://www.hikeventures.com/deals/#exped+synmat+ul+7+pad" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://amzn.to/2eIa0OZ" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 ---
 
@@ -140,11 +140,11 @@ The Exped Synmat UL 7 was my go-to sleeping pad for a couple of years, however I
 **Weight:** 520 g
 **Fabric:** 30D  
 
-<a href="https://www.amazon.com/gp/product/B00PZKXB2Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PZKXB2Y&linkCode=as2&tag=hikeve-20&linkId=7de4b697126cb0f135e9550bf812d9fc"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00PZKXB2Y&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00PZKXB2Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B00PZKXB2Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PZKXB2Y&linkCode=as2&tag=hikeve-20&linkId=7de4b697126cb0f135e9550bf812d9fc" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00PZKXB2Y&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00PZKXB2Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 If you don't want to spend so much time inflating your sleeping pad then the Therm-a-Rest EvoLite might be an intersting sleeping pad for the summer. However, the foam of the pad makes it a heavier choice and you don't get such a good insulation as in other air pads.
 
-<a href="http://www.hikeventures.com/deals/#evolite" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://amzn.to/2dBNswR" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 <hr>
 
@@ -162,7 +162,7 @@ Here are a few accessories which could be quite handy in combination with your s
 
 The NeoAir® Mini Pump inflates a NeoAir mattress in around 3 minutes.
 
-<a href="https://www.amazon.com/gp/product/B008O6JDKK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008O6JDKK&linkCode=as2&tag=hikeve-20&linkId=ba34b83037b701b6a0f7f3a022f97fea"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B008O6JDKK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B008O6JDKK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B008O6JDKK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008O6JDKK&linkCode=as2&tag=hikeve-20&linkId=ba34b83037b701b6a0f7f3a022f97fea" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B008O6JDKK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B008O6JDKK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ---
 
@@ -170,14 +170,14 @@ The NeoAir® Mini Pump inflates a NeoAir mattress in around 3 minutes.
 
 The Torrent Pump inflates a large mattress in about 1.5 minutes.
 
-<a href="https://www.amazon.com/gp/product/B00HP4WOR6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HP4WOR6&linkCode=as2&tag=hikeve-20&linkId=4ce2274897060040af1b0578024a23da"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00HP4WOR6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00HP4WOR6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B00HP4WOR6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HP4WOR6&linkCode=as2&tag=hikeve-20&linkId=4ce2274897060040af1b0578024a23da" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00HP4WOR6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00HP4WOR6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ---
 
 ## [Therm-A-Rest Instant Field Repair Kit][11]
 New sleeping pads usually come with a field repair kit. However, sometimes you may lose your repair kit or just need a new one.
 
-<a href="https://www.amazon.com/gp/product/B00G4V53FQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G4V53FQ&linkCode=as2&tag=hikeve-20&linkId=b353f857f5eb4f576e3ff02564d8bd6f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00G4V53FQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00G4V53FQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B00G4V53FQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G4V53FQ&linkCode=as2&tag=hikeve-20&linkId=b353f857f5eb4f576e3ff02564d8bd6f" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00G4V53FQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00G4V53FQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ---
 
