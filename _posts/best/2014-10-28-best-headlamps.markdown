@@ -148,7 +148,7 @@ With 220 grams and 'only' 200 Lumen, the Black Diamond Icon has a much lower Lum
 
 The Princeton Tec Apex is the brightest headlamp Princeton Tec has to offer. It's battery is also located on the back of the head. Unfortunately, this headlamp does not offer any recharging possibilities via USB so you have to rely on 4 AA batteries.
 
-<a href="http://amzn.to/2e35AiF" target="_blank"rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a> <a href="http://www.hikeventures.com/deals/#princeton+Tec+Apex" target="_blank"><button type="button" class="btn btn-warning">Compare Prices</button></a>
+<a href="http://amzn.to/2e35AiF" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a> <a href="http://www.hikeventures.com/deals/#princeton+Tec+Apex" target="_blank"><button type="button" class="btn btn-warning">Compare Prices</button></a>
 
 ---
 
@@ -202,7 +202,7 @@ Konstantin wearing a Petzl Nao on the top of a fell in [Finnish Lapland][4]
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "true";
+amzn_assoc_search_bar = "false";
 amzn_assoc_tracking_id = "hikeve-20";
 amzn_assoc_search_bar_position = "bottom";
 amzn_assoc_ad_mode = "search";
