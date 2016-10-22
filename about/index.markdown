@@ -33,7 +33,7 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 
             </div>
             </div></div></div>
- 
+
  <div class="container-fluid">
 <div class="row-fluid">
 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -140,5 +140,8 @@ The Netherlands<br><br>
 
 phone: +358 50 572 84 89<br>
 email: <a href="mailto:contact@hikeventures.com">contact@hikeventures.com</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
+> On our packrafting trip in the Sarek National Park in Sweden. <a href="http://www.youtube.com/user/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
 </div>
