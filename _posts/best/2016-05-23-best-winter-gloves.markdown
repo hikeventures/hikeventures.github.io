@@ -80,7 +80,7 @@ However, you can also just take your main gloves off and operate your camera by 
 
 The Outdoor Research Alti Mittens gloves have been designed for 8,000-meter peaks and Arctic expeditions. The OR Alti Mittens are made by breathable and waterproof GORE-TEX®, high-loft Moonlite Pile™ fleece and water-resistant PrimaLoft® Gold Insulation. It is also possible to remove the liners layer to dry them over the night.
 
-<a href="http://www.backcountry.com/outdoor-research-alti-mitt-mens-odr0813" rel="nofollow"><button type="button" class="btn btn-danger">Buy</button></a>  
+<a href="http://www.backcountry.com/outdoor-research-alti-mitt-mens-odr0813" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Backcountry.com</button></a>  
 
 ---
 
@@ -90,7 +90,7 @@ The Outdoor Research Alti Mittens gloves have been designed for 8,000-meter peak
 
 The Hestra Army Leather Heli 3-Finger Glove comes with a removeable liner and is wind- and waterproof. The Hestra Army Leather Heli 3-Finger Glove has also a pre-curved design. One free-moving finger is just sufficient to operate for example a camera while the other fingers stay warm as in a mitten. If I were to buy new gloves then I would probably buy these gloves. There is also the [Hestra Heli Ergo Grip Glove](http://www.backcountry.com/hestra-heli-glove) available if you prefer to have a regular glove.
 
-<a href="http://www.backcountry.com/hestra-heli-3-finger-glove" rel="nofollow"><button type="button" class="btn btn-danger">Buy</button></a>  
+<a href="http://www.backcountry.com/hestra-heli-3-finger-glove" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Backcountry.com</button></a>  
 
 ---
 
@@ -100,7 +100,7 @@ The Hestra Army Leather Heli 3-Finger Glove comes with a removeable liner and is
 
 The Mountain Hardwear Absolute Zero Mitten was designed for the most extreme cold weather conditions. It comes with a Q.Shield® DOWN 800-fill and is shielded by a waterproof, windproof OutDry® membrane. The Absolute Zero Mitten also comes with a high-pile fleece liner.
 
-<a href="http://www.backcountry.com/mountain-hardwear-absolute-zero-mitt" rel="nofollow"><button type="button" class="btn btn-danger">Buy</button></a>  
+<a href="http://www.backcountry.com/mountain-hardwear-absolute-zero-mitt" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Backcountry.com</button></a>  
 
 ---
 
@@ -110,7 +110,7 @@ The Mountain Hardwear Absolute Zero Mitten was designed for the most extreme col
 
 The Canada Goose Down Mittens are water- and windproof and filled with 525 Fill Power White Goose Down and come with a Velcro closure for wrist cinch, hardface fleece cuffs and glove clips. The only downside on the Canada Goose Down Mittens is that they don't have a removeable liner.
 
-<a href="http://www.backcountry.com/canada-goose-down-mitten-mens" rel="nofollow"><button type="button" class="btn btn-danger">Buy</button></a>  
+<a href="http://www.backcountry.com/canada-goose-down-mitten-mens" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Backcountry.com</button></a>  
 
 ---
 
@@ -122,7 +122,7 @@ The Canada Goose Down Mittens are water- and windproof and filled with 525 Fill 
 
 The Canada Goose Down Gloves are similar to the Canada Goose Down Mitten and probably a better choice if you need to use your fingers a lot. However, they will be not as warm as the Canada Goose Down Mitten and they also do not come with a removeable glove liner.
 
-<a href="http://www.backcountry.com/canada-goose-down-glove-mens" rel="nofollow"><button type="button" class="btn btn-danger">Buy</button></a>  
+<a href="http://www.backcountry.com/canada-goose-down-glove-mens" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Backcountry.com</button></a>  
 
 ---
 
@@ -132,7 +132,7 @@ The Canada Goose Down Gloves are similar to the Canada Goose Down Mitten and pro
 
 The Black Diamond Patrol Gloves are waterproof and come with a PrimoLoft One insulation and a Polartec Thermal Pro High Loft fleece. The gloves are suitable from 0 to 30 degrees Fahrenheit.
 
-<a href="http://www.backcountry.com/black-diamond-patrol-glove-bld3346" rel="nofollow"><button type="button" class="btn btn-danger">Buy</button></a>  
+<a href="http://www.backcountry.com/black-diamond-patrol-glove-bld3346" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Backcountry.com</button></a>  
 
 ---
 
@@ -144,7 +144,7 @@ The Black Diamond Patrol Gloves are waterproof and come with a PrimoLoft One ins
 
 The Arc'teryx Gothic Glove comes with ultra soft merino wool and an anatomical form fit. The Arc'teryx Gothic Glove is probably my favourite choice.
 
-<a href="http://www.backcountry.com/black-diamond-icon-headlamp" rel="nofollow"><button type="button" class="btn btn-danger">Buy</button></a>  
+<a href="http://www.backcountry.com/black-diamond-icon-headlamp" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Backcountry.com</button></a>  
 
 ---
 
@@ -154,7 +154,7 @@ The Arc'teryx Gothic Glove comes with ultra soft merino wool and an anatomical f
 
 Not that expensive like the Arc'teryx Gothic Glove the Icebreaker Oasis 200 Glove Liner is a more affordable alternative with a similar quality.
 
-<a href="http://www.backcountry.com/icebreaker-glove-liner" rel="nofollow"><button type="button" class="btn btn-danger">Buy</button></a>  
+<a href="http://www.backcountry.com/icebreaker-glove-liner" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Backcountry.com</button></a>  
 
 ---
 
@@ -172,7 +172,7 @@ amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_title = "Winter Gloves Suggestions";
+amzn_assoc_title = "Amazon Search Results";
 amzn_assoc_default_search_phrase = "hestra army leather heli";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "ec4b1ecaff9224e05d5eb9b30680ad1a";
