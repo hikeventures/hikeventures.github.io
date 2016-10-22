@@ -118,7 +118,7 @@ The ULA Epic seems to be the best choice beside the NRS Paragon Pack if I want t
 **Weight:** 922 grams (without dry sack)  
 **Volume:** 30-75l  
 
-<a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> <a href="/deals/#ula+epic" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#ula+epic" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -138,7 +138,7 @@ My favorite backpack so far was the [HMG Porter 4400](https://www.hyperlitemount
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "true";
+amzn_assoc_search_bar = "false";
 amzn_assoc_tracking_id = "hikeve-20";
 amzn_assoc_search_bar_position = "top";
 amzn_assoc_ad_mode = "search";
