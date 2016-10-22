@@ -12,6 +12,20 @@ layout: post
 
 Suunto has recently released it's latest GPS watch - the Suunto Traverse - which is especially interesting for those interested in hiking and backpacking. So what are the differences between the Suunto Ambit3 and the Suunto Traverse?
 
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
+> On our packrafting trip in the Sarek National Park in Sweden we had also a Suunto with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
+
+
+---
+
+The most important difference is probably that the Suunto Traverse has a vibration alarm and that the GPS receiver is now 'invisible' built into the watch. Moreover, the Suunto Traverse has a thinner (1mm) built. However, you will not find multisport functions in the Suunto Traverse. So, if you are for example more into triathlon then you should probably go for the [Suunto Ambit3 Vertical](http://www.backcountry.com/suunto-ambit3-vertical-watch) rather than the regular Suunto Traverse.
+
+I mainly go running and hiking so the regular Suunto Traverse is the best option for me and there is no need to pay for features which I don't use. Of course I could also get the new [Suunto Spartan](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch) which features a color display and a touch screen. But are those two features worth the premium price over the Suunto Traverse or Ambit3 Vertical? It's up to you!
+
+---
+
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
 amzn_assoc_search_bar = "false";
@@ -28,13 +42,7 @@ amzn_assoc_linkid = "edb1d00e614ad3a35eb0a5421405645c";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-The most important difference is probably that the Suunto Traverse has a vibration alarm and that the GPS receiver is now 'invisible' built into the watch. Moreover, the Suunto Traverse has a thinner (1mm) built. However, you will not find multisport functions in the Suunto Traverse. So, if you are for example more into triathlon then you should probably go for the [Suunto Ambit3 Vertical](http://www.backcountry.com/suunto-ambit3-vertical-watch) rather than the regular Suunto Traverse.
-
-I mainly go running and hiking so the regular Suunto Traverse is the best option for me and there is no need to pay for features which I don't use. Of course I could also get the new [Suunto Spartan](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch) which features a color display and a touch screen. But are those two features worth the premium price over the Suunto Traverse or Ambit3 Vertical? It's up to you!
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-> On our packrafting trip in the Sarek National Park in Sweden we had also a Suunto with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
-
+---
 
 Personally, I don't need a touch screen and a color display but I would probably buy the Spartan if I would have sufficient money and no Suunto Traverse on my wrist yet. If you are on a budget then it's also a good idea to look at discounts (see below).
 
