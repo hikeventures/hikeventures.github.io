@@ -30,43 +30,43 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
         <tbody>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Berghaus+hyper+100" target="_blank">Berghaus Hyper 100 Jacket</a></td><td>97g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Berghaus+hyper+100" target="_blank" rel="nofollow">Berghaus Hyper 100 Jacket</a></td><td>97g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#mammut+rainspeed+ultralight+hs+jacket" target="_blank">Mammut Rainspeed Ultralight HS Jacket</a></td><td>120g</td>
+          <td><a href="http://www.hikeventures.com/deals/#mammut+rainspeed+ultralight+hs+jacket" target="_blank" rel="nofollow">Mammut Rainspeed Ultralight HS Jacket</a></td><td>120g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Haglofs+L.I.M.+Proof+Jacket" target="_blank">Haglöfs L.I.M. Proof Jacket</a></td><td>210g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Haglofs+L.I.M.+Proof+Jacket" target="_blank" rel="nofollow">Haglöfs L.I.M. Proof Jacket</a></td><td>210g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Berghaus+Deluge+Jacket" target="_blank">Berghaus Deluge Light Jacket</a></td><td>300g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Berghaus+Deluge+Jacket" target="_blank" rel="nofollow">Berghaus Deluge Light Jacket</a></td><td>300g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Berghaus+Hillwalker+Jacket" target="_blank">Berghaus Hillwalker Jacket</a></td><td>300g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Berghaus+Hillwalker+Jacket" target="_blank" rel="nofollow">Berghaus Hillwalker Jacket</a></td><td>300g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Berghaus+Paclite+Storm+Jacket" target="_blank">Berghaus Paclite Storm Jacket</a></td><td>300g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Berghaus+Paclite+Storm+Jacket" target="_blank" rel="nofollow">Berghaus Paclite Storm Jacket</a></td><td>300g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Marmot+Magus+Jacket" target="_blank">Marmot Magus Jacket</a></td><td>300g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Marmot+Magus+Jacket" target="_blank" rel="nofollow">Marmot Magus Jacket</a></td><td>300g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Berghaus+Extrem+Light+Paclite+Jacket" target="_blank">Berghaus Extrem Light Paclite Jacket</a></td><td>320g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Berghaus+Extrem+Light+Paclite+Jacket" target="_blank" rel="nofollow">Berghaus Extrem Light Paclite Jacket</a></td><td>320g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Marmot+Knife+Edge+Jacket" target="_blank">Marmot Knife Edge Jacket</a></td><td>327g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Marmot+Knife+Edge+Jacket" target="_blank" rel="nofollow">Marmot Knife Edge Jacket</a></td><td>327g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Haglofs+Kabi+Jacket+Women" target="_blank">Haglöfs Kabi (K2) Jacket Women</a></td><td>340g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Haglofs+Kabi+Jacket+Women" target="_blank" rel="nofollow">Haglöfs Kabi (K2) Jacket Women</a></td><td>340g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Berghaus+Remote" target="_blank">Berghaus Storm Jacket</a></td><td>614g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Berghaus+Remote" target="_blank" rel="nofollow">Berghaus Storm Jacket</a></td><td>614g</td>
         </tr>
   </tbody>
   </table>

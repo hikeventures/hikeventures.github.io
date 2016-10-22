@@ -32,97 +32,97 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
         <tbody>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Onyx+UL+Tarp" target="_blank">Big Agnes Onyx UL Tarp</a></td><td>397g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Onyx+UL+Tarp" target="_blank" rel="nofollow">Big Agnes Onyx UL Tarp</a></td><td>397g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Hyperlite+Mountain+Gear+UltaMid" target="_blank">Hyperlite Mountain Gear UltaMid</a></td><td>499g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Hyperlite+Mountain+Gear+UltaMid" target="_blank" rel="nofollow"Hyperlite Mountain Gear UltaMid</a></td><td>499g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Marmot+Bolt" target="_blank">Marmot Bolt 2P</a></td><td>1050g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Marmot+Bolt" target="_blank" rel="nofollow">Marmot Bolt 2P</a></td><td>1050g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#VauDe+Hogan+SUL" target="_blank">VauDe Hogan SUL 1-2P</a></td><td>1100g</td>
+          <td><a href="http://www.hikeventures.com/deals/#VauDe+Hogan+SUL" target="_blank" rel="nofollow">VauDe Hogan SUL 1-2P</a></td><td>1100g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Terra+Nova+Starlite" target="_blank">Terra Nova Starlite</a></td><td>1120g</td>
-        </tr>
-
-        <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Copper+Spur" target="_blank">Big Agnes Copper Spur 2 Platinum</a></td><td>1190g</td>
-        </tr>
-        <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Copper+Spur+HV+UL" target="_blank">Big Agnes Copper Spur HV UL1</a></td><td>1190g</td>
-        </tr>
-        <tr>
-          <td><a href="http://www.hikeventures.com/deals/#MSR+Advance+Pro" target="_blank">MSR Advance Pro</a></td><td>1300g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Terra+Nova+Starlite" target="_blank" rel="nofollow">Terra Nova Starlite</a></td><td>1120g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#MSR+Access" target="_blank">MSR Access</a></td><td>1370g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Copper+Spur" target="_blank" rel="nofollow">Big Agnes Copper Spur 2 Platinum</a></td><td>1190g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Copper+Spur+HV+UL" target="_blank" rel="nofollow">Big Agnes Copper Spur HV UL1</a></td><td>1190g</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#MSR+Advance+Pro" target="_blank" rel="nofollow">MSR Advance Pro</a></td><td>1300g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Marmot+Tungsten+UL" target="_blank">Marmot Tungsten UL 2P</a></td><td>1470g</td>
+          <td><a href="http://www.hikeventures.com/deals/#MSR+Access" target="_blank" rel="nofollow">MSR Access</a></td><td>1370g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#ThermaRest+Slacker+Hammock+House" target="_blank">Therm-a-Rest Slacker Hammock House</a></td><td>1644g</td>
-        </tr>
-
-
-        <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Hilleberg+Anjan" target="_blank">Hilleberg Anjan</a></td><td>1800g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Marmot+Tungsten+UL" target="_blank" rel="nofollow">Marmot Tungsten UL 2P</a></td><td>1470g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Terra+Nova+Helm" target="_blank">Terra Nova Helm</a></td><td>1875g</td>
+          <td><a href="http://www.hikeventures.com/deals/#ThermaRest+Slacker+Hammock+House" target="_blank" rel="nofollow">Therm-a-Rest Slacker Hammock House</a></td><td>1644g</td>
         </tr>
 
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Tuffy" target="_blank">Big Agnes Tuffy</a></td><td>2070g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Hilleberg+Anjan" target="_blank" rel="nofollow">Hilleberg Anjan</a></td><td>1800g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Marmot+Alvar" target="_blank">Marmot Alvar</a></td><td>2500g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Terra+Nova+Helm" target="_blank" rel="nofollow">Terra Nova Helm</a></td><td>1875g</td>
+        </tr>
+
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Tuffy" target="_blank" rel="nofollow">Big Agnes Tuffy</a></td><td>2070g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Marmot+Haldor" target="_blank">Marmot Haldor 2P</a></td><td>2900g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Marmot+Alvar" target="_blank" rel="nofollow">Marmot Alvar</a></td><td>2500g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#MSR+Hubba+Tour" target="_blank">MSR Hubba Tour 1</a></td><td>2030g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Marmot+Haldor" target="_blank" rel="nofollow">Marmot Haldor 2P</a></td><td>2900g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Hilleberg+Rogen" target="_blank">Hilleberg Rogen</a></td><td>2100g</td>
+          <td><a href="http://www.hikeventures.com/deals/#MSR+Hubba+Tour" target="_blank" rel="nofollow">MSR Hubba Tour 1</a></td><td>2030g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Blacktail" target="_blank">Big Agnes Blacktail</a></td><td>2270g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Hilleberg+Rogen" target="_blank" rel="nofollow">Hilleberg Rogen</a></td><td>2100g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Camp+SL" target="_blank">Big Agnes Van Camp SL</a></td><td>2330g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Blacktail" target="_blank" rel="nofollow">Big Agnes Blacktail</a></td><td>2270g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Marmot+Limelight+4P" target="_blank">Marmot Limelight 4P</a></td><td>3700g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Camp+SL" target="_blank" rel="nofollow">Big Agnes Van Camp SL</a></td><td>2330g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Tumble+4" target="_blank">Big Agnes Tumble 4 mtnGLO</a></td><td>3880g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Marmot+Limelight+4P" target="_blank" rel="nofollow">Marmot Limelight 4P</a></td><td>3700g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Hilleberg+Kaitum+4" target="_blank">Hilleberg Kaitum 4 mtnGLO</a></td><td>4600g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Tumble+4" target="_blank" rel="nofollow">Big Agnes Tumble 4 mtnGLO</a></td><td>3880g</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://www.hikeventures.com/deals/#Hilleberg+Kaitum+4" target="_blank" rel="nofollow">Hilleberg Kaitum 4 mtnGLO</a></td><td>4600g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Thermarest+Tranquility+6" target="_blank">Therm-a-Rest Tranquility 6</a></td><td>7850g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Thermarest+Tranquility+6" target="_blank" rel="nofollow">Therm-a-Rest Tranquility 6</a></td><td>7850g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#MSR+H.U.B" target="_blank">MSR H.U.B.</a></td><td>21770g</td>
+          <td><a href="http://www.hikeventures.com/deals/#MSR+H.U.B" target="_blank" rel="nofollow">MSR H.U.B.</a></td><td>21770g</td>
         </tr>
 </tbody>
 </table>

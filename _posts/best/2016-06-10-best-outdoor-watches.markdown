@@ -72,7 +72,7 @@ Probably one disadvantage of watches having a colour display and a GPS was their
 
 ## <a href="http://amzn.to/2dysTQc" rel="nofollow">Apple Watch Series 2 Sport 42mm</a>
 
-<a href="https://www.amazon.com/gp/product/B01LW9G4UO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LW9G4UO&linkCode=as2&tag=hikeve-20&linkId=1d879893fd442284bffcaecbf986807d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LW9G4UO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LW9G4UO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B01LW9G4UO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LW9G4UO&linkCode=as2&tag=hikeve-20&linkId=1d879893fd442284bffcaecbf986807d" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LW9G4UO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LW9G4UO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 34.2 grams  
 **Battery Life:** 18 hours (not in training mode)
@@ -92,7 +92,7 @@ The Apple watch SERIES 2 42mm is for those folks who like to have their iPhone w
 
 ## <a href="http://amzn.to/1t7QAFm" rel="nofollow">Motorola Moto 360 Sport</a>
 
-<a href="https://www.amazon.com/gp/product/B016CKHAZO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B016CKHAZO&linkCode=as2&tag=hikeve-20&linkId=4c6098a87f5b1865e89b5e207acc1007"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B016CKHAZO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B016CKHAZO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B016CKHAZO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B016CKHAZO&linkCode=as2&tag=hikeve-20&linkId=4c6098a87f5b1865e89b5e207acc1007" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B016CKHAZO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B016CKHAZO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 54 grams  
 **Battery Life:** 1 day  
@@ -114,7 +114,7 @@ Another interesting Outdoor watch is the Motorola Moto 360 Sport which is target
 
 ## [Garmin Fenix 3](http://www.backcountry.com/garmin-fenix-3-bundle)
 
-<a href="https://www.amazon.com/gp/product/B01A5HIQ7Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01A5HIQ7Q&linkCode=as2&tag=hikeve-20&linkId=3361c3ff4f51ddbeb0f8fd1c9f2e25aa"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01A5HIQ7Q&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01A5HIQ7Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B01A5HIQ7Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01A5HIQ7Q&linkCode=as2&tag=hikeve-20&linkId=3361c3ff4f51ddbeb0f8fd1c9f2e25aa" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01A5HIQ7Q&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01A5HIQ7Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 82 grams   
 **Battery Life:** 50 hours (UltraTrac mode), 20 hours (GPS training mode), 6 weeks (watch mode)   
@@ -130,7 +130,7 @@ Another interesting Outdoor watch is the Motorola Moto 360 Sport which is target
 
 The Garmin Fenix 3 can be connected to Android and Apple phones and was one of the first proper sport watches which featured a graphic display and is going to be challenged by the new [Suunto Spartan](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch).
 
-<a href="http://www.backcountry.com/garmin-fenix-3-bundle"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://www.backcountry.com/garmin-fenix-3-bundle" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -163,7 +163,7 @@ In general, I found that the Casio WSD-F10 looks quite nice. I like the displays
 
 ## [Suunto Spartan Ultra](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch)
 
-<a href="https://www.amazon.com/gp/product/B01I05C446/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01I05C446&linkCode=as2&tag=hikeve-20&linkId=c2ad8fc23315853230439ded9ec5099b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01I05C446&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01I05C446" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B01I05C446/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01I05C446&linkCode=as2&tag=hikeve-20&linkId=c2ad8fc23315853230439ded9ec5099b" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01I05C446&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01I05C446" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 73 grams   
 **Battery Life:** 18 hours (training mode)   
@@ -179,7 +179,7 @@ In general, I found that the Casio WSD-F10 looks quite nice. I like the displays
 
 The Suunto Spartan is the latest smart watch addition in the Suunto range. Unfortunately, there are no specifications about the Suunto Spartan available yet beside that it's going to be the first Suunto watch which features a colour display. As Suunto watches can be connected to Moveslink - the Suunto Online Sport Community - it is possible to use the Suunto Spartan either with your Android phone or with your iPhone.
 
-<a href="https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch"><button type="button" class="btn btn-danger">Buy on REI</button></a>
+<a href="https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch" rel="nofollow"><button type="button" class="btn btn-danger">Buy on REI</button></a>
 
 <hr>
 

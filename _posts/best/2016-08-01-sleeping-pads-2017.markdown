@@ -29,31 +29,31 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
         <tbody>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Ultralight+Awesome+Mummy" target="_blank">Big Agnes Ultralight Awesome Mummy</a></td><td>TBA</td>
+          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Ultralight+Awesome+Mummy" target="_blank" rel="nofollow">Big Agnes Ultralight Awesome Mummy</a></td><td>TBA</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Q-Core" target="_blank">Big Agnes Q-Core SLX</a></td><td>TBA</td>
+          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Q-Core" target="_blank" rel="nofollow">Big Agnes Q-Core SLX</a></td><td>TBA</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Air+Core+Ultra" target="_blank">Big Agnes Air Core Ultra</a></td><td>566g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Air+Core+Ultra" target="_blank" rel="nofollow">Big Agnes Air Core Ultra</a></td><td>566g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Insulated+Air+Core+Ultra" target="_blank">Big Agnes Insulated Air Core Ultra</a></td><td>598g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Insulated+Air+Core+Ultra" target="_blank" rel="nofollow">Big Agnes Insulated Air Core Ultra</a></td><td>598g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#NeoAir+All+Season+SV" target="_blank">Therm-a-Rest NeoAir All Season SV</a></td><td>650g</td>
+          <td><a href="http://www.hikeventures.com/deals/#NeoAir+All+Season+SV" target="_blank" rel="nofollow">Therm-a-Rest NeoAir All Season SV</a></td><td>650g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#slacker+hammock+pad" target="_blank">Therm-a-Rest Slacker Hammock Pad</a></td><td>698g</td>
+          <td><a href="http://www.hikeventures.com/deals/#slacker+hammock+pad" target="_blank" rel="nofollow">Therm-a-Rest Slacker Hammock Pad</a></td><td>698g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Klymit+hammock">Klymit Hammock V</a></td><td>743g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Klymit+hammock" rel="nofollow">Klymit Hammock V</a></td><td>743g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Trail+Trail+King+SV" target="_blank">Therm-a-Rest Trail King SV</a></td><td>822g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Trail+Trail+King+SV" target="_blank" rel="nofollow">Therm-a-Rest Trail King SV</a></td><td>822g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Klymit+Double+V" target="_blank">Klymit Double V</a></td><td>1150g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Klymit+Double+V" target="_blank" rel="nofollow">Klymit Double V</a></td><td>1150g</td>
         </tr>
 </tbody>
 </table>

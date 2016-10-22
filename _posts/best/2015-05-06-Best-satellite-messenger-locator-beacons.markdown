@@ -12,7 +12,7 @@ layout: post
 
 A satellite messenger, GPS Tracker or a Personal Locator Beacon should be with you on your hiking, backpacking, packrafting or kayaking trip. They are especially useful if you are planning to go to areas where you don't have any phone reception. In case of an accident you won't be able to call for help without a satellite messenger.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we are not able to test every product, we follow the market and compare the specifications of new gps messengers. Here comes our satellite messenger buying guide for 2016 (this blog post contains affiliate links).
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new gps messengers. Here comes our satellite messenger buying guide for 2016 (this blog post contains affiliate links).
 
 ---
 
@@ -106,7 +106,7 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 * Pair with mobile devices
 * Message size: 160 characters
 
-<a href="/deals/#delorme+inreach+se" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://amzn.to/2e39EPT" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 ---
 
@@ -122,7 +122,7 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 * Barometric Altimeter & Accelerometer
 * weight: 190 grams
 
-<a href="/deals/#delorme+inreach+explorer" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://amzn.to/2e39SXr" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 ---
 
@@ -137,7 +137,7 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 * Message size: 41 characters
 * Weight 114 grams
 
-<a href="/deals/#spot+gen3" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://amzn.to/2eTKIN3" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 ---
 
@@ -152,7 +152,7 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 * No messaging
 * Weight: 153 grams
 
-<a href="/deals/#acr+resqlink" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://amzn.to/2e39b0g" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 ---
 
