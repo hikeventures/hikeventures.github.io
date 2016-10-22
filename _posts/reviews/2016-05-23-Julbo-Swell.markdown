@@ -10,7 +10,7 @@ tags:
   - glasses
 ---
 After having had my old sunglasses for over 3 years I thought it was time to upgrade my sunglasses to a newer model. As [we interviewed Julbo on the ISPO 2016](https://www.youtube.com/watch?v=vdb3m52FdvM) in Munich I decided to have a look on their product range and came across the Julbo Swell which could become my new sun glasses for our packrafting trips.
-   
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27152697396/in/photolist-HdLXe5-HnoEX7-dKWT8w-dXZ33V-HaFrBx-GRud4u" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7346/27152697396_5c004ed994_b.jpg" width="100%" alt="Julbo Swell on the Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <!--more-->
@@ -38,7 +38,7 @@ The Julbo Swell features also a fresh and stylish design.
 ---
 
 # Field Testing
-Julbo provided me with a brand new Julbo Swell with Octopus lenses to test it on our hiking and packrafting trips and  2 weeks ago I had the opportunity to test the Julbo Swell on the [Swedish Packrafting Round-Up 2016](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/) on the Voxnan river in Sweden. 
+Julbo provided me with a brand new Julbo Swell with Octopus lenses to test it on our hiking and packrafting trips and  2 weeks ago I had the opportunity to test the Julbo Swell on the [Swedish Packrafting Round-Up 2016](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/) on the Voxnan river in Sweden.
 
 We were actually quite lucky with the weather. The week before it was still cold and cloudy but on the days we were paddling the sun was shining every day and I even burned my face except there where I was wearing the Julbo Swell. The sun in the Nordics can be quite strong  - so lesson learned - I will use sun lotion on my next packrafting trip in Scandinavia.
 
@@ -47,12 +47,12 @@ The Julbo Swell is made from ultralight material to ensure that it floats on the
 ---
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27146234641/in/dateposted-public/" title="Packrafting in Eastern Poland with a Julbo Swell"><img src="https://c2.staticflickr.com/8/7491/27146234641_532b1b2529_b.jpg" width="100%" alt="Packrafting in Eastern Poland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-     
+
 Konstantin wearing the Julbo Swell while packrafting in Poland.
 
 ---
 
-The curved temples and the adjusable cord on the Julbo Swell provide a good hold on the face and head. Actually, the Julbo Swell never fell off by itself during the whole packrafting trip in Sweden. 
+The curved temples and the adjusable cord on the Julbo Swell provide a good hold on the face and head. Actually, the Julbo Swell never fell off by itself during the whole packrafting trip in Sweden.
 
 The wrap-around + style which was featured also promised to be true. I hardly had any issues with disturbing light shining through the edges of the Julbo Swell.
 
@@ -86,11 +86,16 @@ The Julbo Swell is also suitable for prescription lenses as a RX Trem version. T
 ---
 
 # Conclusion
-The Julbo Swell checked all boxes which I had from a packrafting sunglass. The Julbo Swell is super light and very comfortable to wear. 
+The Julbo Swell checked all boxes which I had from a packrafting sunglass. The Julbo Swell is super light and very comfortable to wear.
 
 If I could think of something negative about the Julbo Swell then it would be that the lenses grew damp a few times since there are no openings on the lens where the air could circulate. Fortunately, the lens only grew damp two times during the whole trip and was not a major issue. I would recommend the Julbo Swell to anyone who is looking for light packrafting glasses with a fresh design.
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Julbo-Swell-Polarized-Sunglasses_10232525_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Julbo Swell</button></a>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vdb3m52FdvM" frameborder="0" allowfullscreen></iframe>
+> Konstantin testing the Julbo Wave, Trek and Aero sunglasses at the ISPO 2016 in Munich.<a href="http://bit.ly/2evfPMf" rel="nofollow">Subscribe</a> to our YouTube channel if you like our video.
 
 ---
 
