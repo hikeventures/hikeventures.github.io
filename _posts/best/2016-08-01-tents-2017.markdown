@@ -35,7 +35,7 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
           <td><a href="http://www.hikeventures.com/deals/#Big+Agnes+Onyx+UL+Tarp" target="_blank" rel="nofollow">Big Agnes Onyx UL Tarp</a></td><td>397g</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Hyperlite+Mountain+Gear+UltaMid" target="_blank" rel="nofollow"Hyperlite Mountain Gear UltaMid</a></td><td>499g</td>
+          <td><a href="http://www.hikeventures.com/deals/#Hyperlite+Mountain+Gear+UltaMid" target="_blank" rel="nofollow">Hyperlite Mountain Gear UltaMid</a></td><td>499g</td>
         </tr>
         <tr>
           <td><a href="http://www.hikeventures.com/deals/#Marmot+Bolt" target="_blank" rel="nofollow">Marmot Bolt 2P</a></td><td>1050g</td>
@@ -135,12 +135,8 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
 > On our packrafting trip in the Sarek National Park in Sweden we had a Hilleberg tent with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
+
 <hr>
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15455033882/in/album-72157648791533361/" title="First Finnish Packraft Gathering"><img src="https://c3.staticflickr.com/6/5600/15455033882_43028c91d5_k.jpg" width="2048" height="1367" alt="The best new backpacking tents and accessories for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
----
-
 
 <h2><a href="http://www.hikeventures.com/deals/#big+agnes+copper+spur" target="_blank">Big Agnes Copper Spur 2 Platinum</a></h2>
 The Big Agnes Copper Spur 2 Platinum is a three season free standing ultraligt tent and weights 1190 grams.
@@ -283,9 +279,13 @@ So which tent should you choose? It's definitely a hard question as there are ma
 
 <hr>
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15455033882/in/album-72157648791533361/" title="First Finnish Packraft Gathering"><img src="https://c3.staticflickr.com/6/5600/15455033882_43028c91d5_k.jpg" width="2048" height="1367" alt="The best new backpacking tents and accessories for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<hr>
+
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "true";
+amzn_assoc_search_bar = "false";
 amzn_assoc_tracking_id = "hikeve-20";
 amzn_assoc_search_bar_position = "top";
 amzn_assoc_ad_mode = "search";

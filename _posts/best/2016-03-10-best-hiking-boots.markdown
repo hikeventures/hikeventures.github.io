@@ -112,11 +112,11 @@ The Inov-8 Roclite 286 GTX is waterproof and offers natural movement and is made
 
 **Weight:** 435 grams
 
-<a href="https://www.amazon.com/gp/product/B0113OXSEG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0113OXSEG&linkCode=as2&tag=hikeve-20&linkId=8431343daa475dc15988522b9d737a13"rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0113OXSEG&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0113OXSEG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B0113OXSEG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0113OXSEG&linkCode=as2&tag=hikeve-20&linkId=8431343daa475dc15988522b9d737a13" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0113OXSEG&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0113OXSEG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The Adidas Terrex Fast R Mid GTX can - despite it's low weight - also be worn in the mountain. The shoes come with protective weldings and a grippy Continental™ Rubber outsole for a good grip on the trail.
 
-<a href="http://www.backcountry.com/adidas-outdoor-terrex-fast-r-mid-gtx-hiking-boot-mens"rel="nofollow"><button type="button" class="btn btn-danger">Buy/button></a>
+<a href="http://www.backcountry.com/adidas-outdoor-terrex-fast-r-mid-gtx-hiking-boot-mens" rel="nofollow"><button type="button" class="btn btn-danger">Buy</button></a>
 
 ---
 
@@ -222,7 +222,7 @@ A proper hiking shoe is one of the most important item on your hiking gear list.
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "true";
+amzn_assoc_search_bar = "false";
 amzn_assoc_tracking_id = "hikeve-20";
 amzn_assoc_search_bar_position = "top";
 amzn_assoc_ad_mode = "search";

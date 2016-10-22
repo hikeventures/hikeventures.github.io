@@ -55,7 +55,7 @@ A wind jacket is much lighter and you won't sweat that much in it compared to a 
 
 ## [Patagonia Houdini][8]
 
-<a  href="http://www.amazon.com/gp/product/B01ANCS38K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01ANCS38K&linkCode=as2&tag=hikeve-20&linkId=BOE3T2FI3DGVW7LR"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01ANCS38K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B01ANCS38K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="http://www.amazon.com/gp/product/B01ANCS38K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01ANCS38K&linkCode=as2&tag=hikeve-20&linkId=BOE3T2FI3DGVW7LR" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01ANCS38K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B01ANCS38K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 113 grams  
 **Fabric:** 15-denier nylon ripstop  
@@ -63,7 +63,7 @@ A wind jacket is much lighter and you won't sweat that much in it compared to a 
 
 The Patagonia Houdini is another great wind jacket which got recommended by many other outdoor enthusiasts. It comes with a zippered chest pocket and the hood is adjustable. There is also a reflective logo on the front and back which comes quite handy during night hikes.
 
-<a href="/deals/#patagonia+houdini" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://amzn.to/2e32HhL" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 ---
 
@@ -77,7 +77,7 @@ The Patagonia Houdini is another great wind jacket which got recommended by many
 
 The Arcteryx Incendo Hoody has breathable mesh panels under the arms, a hood and a full front zip. It also features an internal MP3 pocket with audio ports, a side stow pocket and reflective blazes. The Incendo Hoody is more a running jacket than a hiking jacket but could be an alternative to the Arcteryx Squamish Hoody if you are an Arcteryx fan and want to save a few grams.
 
-<a href="/deals/#arcteryx+incendo" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://amzn.to/2drJ00m" target="_blank"rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 ---
 
@@ -90,7 +90,7 @@ The Arcteryx Incendo Hoody has breathable mesh panels under the arms, a hood and
 
 The North Face Fuseform Eragon has fewer seams and a streamlined, Alpine-specific fit.
 
-<a href="/deals/#fuseform+eragon" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://amzn.to/2e9Y8pz" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 ---
 
@@ -104,7 +104,7 @@ The North Face Fuseform Eragon has fewer seams and a streamlined, Alpine-specifi
 
 The Arcteryx Squamish Hoody comes with a hood, full front zip and a front pocket. This jacket also has cuff adjusters and a reflective logo.
 
-<a href="/deals/#arcteryx+squamish" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://amzn.to/2elVY64" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 <hr>
 

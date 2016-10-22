@@ -73,9 +73,7 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15189713140/in/album-72157646473352583/" title="Kurjenrahka National Park"><img src="https://c5.staticflickr.com/3/2942/15189713140_cf23bd9412_b.jpg" width="100%" alt="The best ultralight hiking shoes 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9596183907/in/album-72157646473352583/" title="SDIM4200"><img src="https://c4.staticflickr.com/4/3815/9596183907_732d266e5d_b.jpg" width="1024" height="683" alt="SDIM4200" alt="The best ultralight hiking shoes 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8" ></script>
-
-My Inov-8 ultralight hiking shoes on [our hiking trip](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) in the Sarek National Park in Sweden. I had constantly wet feet.
+My Inov-8 ultralight hiking shoes on [our hiking trip](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) in Finland.
 
 ---
 
@@ -155,7 +153,7 @@ amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_title = "Ultralight Hiking Shoes Suggestions";
+amzn_assoc_title = "Amazon Search Results";
 amzn_assoc_default_search_phrase = "Inov-8 Roclite";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "0d18f88262f19f39fc7a13f07ae2563b";
