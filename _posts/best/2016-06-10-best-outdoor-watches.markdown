@@ -57,10 +57,15 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 </table>
 
 
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
-
-
 <!--more-->
+
+<hr>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
+> On our packrafting trip in the Sarek National Park in Sweden a GPS watch could be quite useful. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
+
+<hr>
 
 Probably one disadvantage of watches having a colour display and a GPS was their short battery life in the past. The <a href="http://amzn.to/1YdNH1H" rel="nofollow">Casio Smart Outdoor Watch WSD-F10</a> advertises it's watch with 3 days in monochrome mode however the WDS-F10 does not have a GPS built in. My Traverse lasts approximately 1 day if I switch the GPS on depending on the tracking frequency and GPS accuracy. The watches in my list are sorted by their weight.
 
@@ -180,12 +185,6 @@ In general, I found that the Casio WSD-F10 looks quite nice. I like the displays
 The Suunto Spartan is the latest smart watch addition in the Suunto range. Unfortunately, there are no specifications about the Suunto Spartan available yet beside that it's going to be the first Suunto watch which features a colour display. As Suunto watches can be connected to Moveslink - the Suunto Online Sport Community - it is possible to use the Suunto Spartan either with your Android phone or with your iPhone.
 
 <a href="https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch" rel="nofollow"><button type="button" class="btn btn-danger">Buy on REI</button></a>
-
-<hr>
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-> On our packrafting trip in the Sarek National Park in Sweden a GPS watch could be quite useful. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
 <hr>
 

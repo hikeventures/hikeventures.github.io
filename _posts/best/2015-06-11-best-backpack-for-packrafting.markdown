@@ -50,14 +50,15 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 <!--more-->
 
 
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
+<hr>
 
 
-<a href="https://www.flickr.com/photos/90204224@N07/13979508784" title="The best backpack for packrafting"><img src="https://c2.staticflickr.com/8/7211/13979508784_43bee1910b_b.jpg" width="1024" height="683" alt="HMG Porter 4400 Alpack Pack Packraft - Best Backpack for Packrafting"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
+> On our packrafting trip in the Sarek National Park in Sweden we had a HMG Porter with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
 <!--more-->
 
----
+<hr>
 
 # Features of a good packrafting backpack
 
@@ -74,12 +75,6 @@ From my point of view a good packrafting backpack should have the following feat
 
 <hr>
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-> On our packrafting trip in the Sarek National Park in Sweden we had a HMG Porter with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
-
-<hr>
-
 ## [HMG Windrider 4400](https://www.hyperlitemountaingear.com/4400-windrider.html)
 The HMG Windrider is similar as the HMG Porter 4400 but comes already with three mesh pockets which I find quite useful if you want to quickly store some gear. This is probably the best lightweight packrafting backpack you can buy at the moment.
 
@@ -89,7 +84,11 @@ The HMG Windrider is similar as the HMG Porter 4400 but comes already with three
 
 <a href="/deals/#windrider+4400" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
----
+<hr>
+
+<a href="https://www.flickr.com/photos/90204224@N07/13979508784" title="The best backpack for packrafting"><img src="https://c2.staticflickr.com/8/7211/13979508784_43bee1910b_b.jpg" width="1024" height="683" alt="HMG Porter 4400 Alpack Pack Packraft - Best Backpack for Packrafting"></a>
+
+<hr>
 
 ## [HMG Porter 4400](https://www.hyperlitemountaingear.com/4400-porter.html)
 This is my current backpack with a volume of 70l. It felt comfortable to carry also on longer distances but after 2 years it shows some wear and has a couple of punctures. The HMG Porter is made of Cuben Fiber but I am not sure if I should get another one since I found the fabric not that durable and with punctures on my backpack the backpack loses it's main feature - being waterproof.

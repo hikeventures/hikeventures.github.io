@@ -43,21 +43,15 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 </div>
 <!--more-->
 
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
+<hr>
 
-
-![][image-1]
-
-Patrick hiking in [Sarek National Park][2] in Sweden wearing an [Arcteryx Squamish Hoody][3] wind jacket.
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
+> On our packrafting trip in the Sarek National Park in Sweden we had also wind jackets with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
 <hr>
 
 # Should your hiking jacket be waterproof or only windproof?
 A wind jacket is much lighter and you won't sweat that much in it compared to a [rain jacket][4]. My own preference goes towards carrying both - a wind jacket AND a rain jacket - and to wear them according to the current weather situation. If it's raining, I am obviously going to wear a rain jacket but if it's dry and there is only a cold wind blowing then I quickly pull on a wind jacket over my [fleece][5].In the evenings while sitting in the camp I swap my [fleece][6] and wind jacket combo with a [down jacket][7].
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-> On our packrafting trip in the Sarek National Park in Sweden we had also wind jackets with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
 ## [Patagonia Houdini][8]
 
@@ -112,7 +106,13 @@ The Arcteryx Squamish Hoody comes with a hood, full front zip and a front pocket
 
 <a href="/deals/#arcteryx+squamish" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
----
+<hr>
+
+![][image-1]
+
+Patrick hiking in [Sarek National Park][2] in Sweden wearing an [Arcteryx Squamish Hoody][3] wind jacket.
+
+<hr>
 
 # Conclusion
 There is probably not much difference between the wind breakers in my buying guide about the best wind jackets and it's more about your own preference towards color and brand. I am wearing the [Arcteryx Squamish Hoody][12] since years and I am quite happy with it. Konstantin just recently got a [Patagonia Houdini][13] and is also very pleased with it.

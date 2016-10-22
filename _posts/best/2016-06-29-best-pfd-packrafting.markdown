@@ -30,16 +30,16 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
         <tbody>
         <tr>
-          <td><a href="http://amzn.to/2ea3m4B" target="_blank">Astral Designs V-Eight</a></td><td>563g</td>
+          <td><a href="http://amzn.to/2ea3m4B" target="_blank" rel="nofollow">Astral Designs V-Eight</a></td><td>563g</td>
         </tr>
         <tr>
           <td><a href="http://amzn.to/29kvV8M" target="_blank" rel="nofollow">Palm Alpha</a></td><td>607g</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2e3bK2d" target="_blank">Astral Designs Sea Wolf</a></td><td>766g</td>
+          <td><a href="http://amzn.to/2e3bK2d" target="_blank" rel="nofollow">Astral Designs Sea Wolf</a></td><td>766g</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2e3aex9" target="_blank">Astral Designs YTV</a></td><td>794g</td>
+          <td><a href="http://amzn.to/2e3aex9" target="_blank" rel="nofollow">Astral Designs YTV</a></td><td>794g</td>
         </tr>
         <tr>
           <td><a href="http://amzn.to/292fRLY" target="_blank" rel="nofollow">Palm FX</a></td><td>877g</td>
@@ -49,11 +49,13 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 </div>
 <!--more-->
 
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
+<hr>
 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26814282560/in/photolist-GRud1y-GRud2f-HdLXe5-GXhAVa-H1kVQW-H1kVFN-H1kVZo-H1zXZH-GcfJST-GcfLdt-H1zXXZ-H4Gfns-Gc8XtE-Gc8Xp1-Gc8Xjm-HaFrzP-GRud7L-HaFrBx-Gc8WNG-HnoFdC-HjfVzn-GRud4u-H7Dj8R-GRudb3-Gc8XbL-H7Dj4x-Gc8X5y-H7DiZK-H7DiVM-Gc8WYw-H4GeQA-H7DiSk-H7DiNc-GcfKKp-Gc8WBj-H7DiKr-GGsxE1-GcfKhk-H1zXxF-GcfKsk-GcfKj4-Gc8Weq-H4Gdkb-HnoEX7-GaxJKr-H5RYDr-GajbUD-GXb3Qv-H2KqTT-GBfK6G" title="Swedish Packrafting Round-Up"><img src="https://c1.staticflickr.com/8/7682/26814282560_a47eb37791_o.jpg" width="100%" alt="The best PFD Life Jackets for packrafting"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
+> Our packrafting trip in the Sarek National Park in Sweden. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
+<hr>
 
 # How to choose the best PFD?
 The best PFD for your next packrafting adventure depends on where you are planning to packraft. Are you planning to packraft in a strong rapid then you probably need more capable PFD  than packrafting on a calm lake. Also when you plan to packraft in the open sea you should look for a PFD which can also handle stormy sea conditions as the weather can also change quickly on the sea. Of course, you should always check the weather conditions before you go packrafting on the sea. Packrafts are actually not meant to be used on the sea but we have also paddled on the Baltic Sea in Finland and it worked quite well with our windpaddle sail.
@@ -64,13 +66,8 @@ We are usually wearing a dry suite when we go packrafting and we would rate the 
 
 We have not tested all the PFDs in this article but those are our favorites if we were to buy a new one. The links on this site contain affiliate links.
 
-<hr>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26814282560/in/photolist-GRud1y-GRud2f-HdLXe5-GXhAVa-H1kVQW-H1kVFN-H1kVZo-H1zXZH-GcfJST-GcfLdt-H1zXXZ-H4Gfns-Gc8XtE-Gc8Xp1-Gc8Xjm-HaFrzP-GRud7L-HaFrBx-Gc8WNG-HnoFdC-HjfVzn-GRud4u-H7Dj8R-GRudb3-Gc8XbL-H7Dj4x-Gc8X5y-H7DiZK-H7DiVM-Gc8WYw-H4GeQA-H7DiSk-H7DiNc-GcfKKp-Gc8WBj-H7DiKr-GGsxE1-GcfKhk-H1zXxF-GcfKsk-GcfKj4-Gc8Weq-H4Gdkb-HnoEX7-GaxJKr-H5RYDr-GajbUD-GXb3Qv-H2KqTT-GBfK6G" title="Swedish Packrafting Round-Up"><img src="https://c1.staticflickr.com/8/7682/26814282560_a47eb37791_o.jpg" width="100%" alt="The best PFD Life Jackets for packrafting"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-> Our packrafting trip in the Sarek National Park in Sweden. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
-
-<hr>
 
 ## [Astral Designs YTV](http://www.backcountry.com/astral-ytv-personal-flotation-device)
 

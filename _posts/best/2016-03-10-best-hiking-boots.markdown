@@ -69,20 +69,6 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 <!--more-->
 
 
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
-
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27313686292/in/dateposted-public/" title="Lundhags Jaure Light"><img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="100%" alt="The best Hiking Boots 2016 - Lundhags Jaure Light"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
-
-
----
-
-# Advantages of hiking boots
-
-* They support your ankle and offer more stability while hiking on the trail.
-* Let you carry more load over a longer distance
-* More durable than [http://www.hikeventures.com/best-ultralight-hiking-shoes/](ultralight hiking shoes).
-
 <hr>
 
 
@@ -91,12 +77,24 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
 <hr>
 
+# Advantages of hiking boots
+
+* They support your ankle and offer more stability while hiking on the trail.
+* Let you carry more load over a longer distance
+* More durable than [http://www.hikeventures.com/best-ultralight-hiking-shoes/](ultralight hiking shoes).
+
+
 # Disadvantages of hiking boots
 
 * Heavier than [ultralight hiking shoes](http://www.hikeventures.com/best-ultralight-hiking-shoes/).
 * Sometimes more expensive than ultralight hiking shoes.
 
----
+
+<hr>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27313686292/in/dateposted-public/" title="Lundhags Jaure Light"><img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="100%" alt="The best Hiking Boots 2016 - Lundhags Jaure Light"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
+
+<hr>
 
 ## [Inov-8 Roclite 286 GTX](http://www.backcountry.com/inov-8-roclite-286-gtx-hiking-boot-mens)
 

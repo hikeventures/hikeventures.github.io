@@ -56,16 +56,10 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 </div>
 <!--more-->
 
+<hr>
 
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
-
-
-![][image-1]
-
-Konstantin wearing the [Montane Minimus Jacket][3] on our [trip][4] in the Sarek National Park in Sweden - also considered of being one of the last wilderness areas in Europe.
-
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
+> On our packrafting trip in the Sarek National Park in Sweden we had also rain jackets with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
 <hr>
 
@@ -172,8 +166,13 @@ If you plan a hiking trip then I would recommend you to wear a [wind jacket][8] 
 
 If you are looking for a rain jacket for your next hiking trip then you should consider to get a lightweight rain jacket as you will probably have your rain jacket most of the time in your backpack (depending on the weather). I had good experience with the [Montane Minimus Jacket][10] on the trail.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-> On our packrafting trip in the Sarek National Park in Sweden we had also rain jackets with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
+<hr>
+
+![][image-1]
+
+Konstantin wearing the [Montane Minimus Jacket][3] on our [trip][4] in the Sarek National Park in Sweden - also considered of being one of the last wilderness areas in Europe.
+
+<hr>
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";

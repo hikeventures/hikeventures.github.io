@@ -73,7 +73,13 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
   </div>
 <!--more-->
 
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
+<hr>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
+> On our packrafting trip in the Sarek National Park in Sweden. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
+
+<hr>
 
 <h2><a href="http://www.hikeventures.com/deals/#Berghaus+hyper+100" target="_blank">Berghaus Hyper 100 Jacket</a></h2>
 The Berghaus Hyper 100 jacket won the 2016 OutDoor Industry Awards. The Hyper 100 is the world’s lightest full mountain waterproof jacket in a three layer fabric. The jackets weights 97 grams and has a waterproofness of 20,000mm and a breathability of 50,000g/m2/24hrs.
@@ -110,12 +116,6 @@ The Marmot Knife Edge Jacket is an extra light jacket for climbing or mountainee
 
 <hr>
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-> On our packrafting trip in the Sarek National Park in Sweden. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
-
-<hr>
-
 Some rain jacket models in this list are designed for running but I think that they still might be useful for hiking trips as well. I will probably add a few more models in the future.
 
 ---
@@ -123,7 +123,7 @@ Some rain jacket models in this list are designed for running but I think that t
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "true";
+amzn_assoc_search_bar = "false";
 amzn_assoc_tracking_id = "hikeve-20";
 amzn_assoc_search_bar_position = "top";
 amzn_assoc_ad_mode = "search";
