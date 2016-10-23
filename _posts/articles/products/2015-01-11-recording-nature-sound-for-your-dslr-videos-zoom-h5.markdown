@@ -76,7 +76,7 @@ I will most likely test the <a href="http://amzn.to/1yTJDZs" rel="nofollow">Zoom
 ---
 
 # Improving Lightning
-Obviously, with the equipment mentioned above you should get great audio quality for your videos. To improve your videos and pictures I would also recommend an additional LED light. I recently discovered that Manfrotto has a really nice and compact LED light - the <a href="http://amzn.to/2eG3GnK" rel="nofollow" target="_blank">Manfrotto LUMIMUSE 8 LED Light</a> which I am planning to use for indoor interviews. It should also work quite well to take along on hiking trips since it is so compact.
+Obviously, with the equipment mentioned above you should get great audio quality for your videos. To improve your videos and pictures I would also recommend an additional LED light. I recently discovered that Manfrotto has a really nice and compact LED light - the <a href="http://amzn.to/2eG3GnK" rel="nofollow" target="_blank">Manfrotto LUMIMUSE 8 LED Light</a> - which I am planning to use for indoor or night filming. It should also work quite well to take along on hiking trips since it is so compact.
 
 <a href="https://www.amazon.com/gp/product/B00WS2EL62/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00WS2EL62&linkCode=as2&tag=hikeve-20&linkId=5c8074fcaceaf51adaf93e9d9ff0de8c" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00WS2EL62&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00WS2EL62" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
