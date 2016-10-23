@@ -14,7 +14,7 @@ I really like the idea to have less cables on my desk so USB-C is going to be a 
 <hr>
 <h1>The best 27-inch 4K USB-C Monitors</h1>
 <div class="table-responsive">
-<table class="table table-hover table-bordered list_items_4">
+<table class="table table-hover table-bordered list_items_5">
         <thead>
              <tr>
                 <th>Monitor</th><th>Contrast Ratio</th><th>sRGB color gamut</th><th>sRGB color gamut</th><th>response time</th>
@@ -49,6 +49,11 @@ The LG 27UD88 is the latest display from Lenovo which features 99% SRGB color ga
 The Lenovo ThinkVision X1 has HDMI2.0 and DP1.2 ports a FHD camera with dual-array microphone and stereo speakers. The Lenovo ThinkVision X1 is the world’s 1st monitor with TUV Eye Comfort certification. The monitor has 100% sRGB color gamut. The response time is 6ms.
 
 <a href="http://amzn.to/2dEVRzy" rel="nofollow" target="blank"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+
+<hr>
+
+<h1>Conclusion</h1>
+On paper, the Lenovo seems to have an edge for those working with pictures while the LG would be more a gaming monitor. However, the differences between those 2 monitors is not that big and it's probably just a matter of design preference and money you are planning to spend on your new monitor.
 
 <hr>
 
