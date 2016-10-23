@@ -95,7 +95,7 @@ If I could think of something negative about the Julbo Swell then it would be th
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vdb3m52FdvM" frameborder="0" allowfullscreen></iframe>
-> Konstantin testing the Julbo Wave, Trek and Aero sunglasses at the ISPO 2016 in Munich.<a href="http://bit.ly/2evfPMf" rel="nofollow">Subscribe</a> to our YouTube channel if you like our video.
+> Konstantin testing the Julbo Wave, Trek and Aero sunglasses at the ISPO 2016 in Munich. <a href="http://bit.ly/2evfPMf" rel="nofollow">Subscribe</a> to our YouTube channel if you like our video.
 
 ---
 
