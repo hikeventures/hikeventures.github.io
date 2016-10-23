@@ -11,8 +11,6 @@ tags:
 ---
 As we are frequently on packrafting trips we are always interested to look out for new packrafting gear like a PFD (personal floating device) or life jacket. Here is an overview of the best PFDs which we would consider to buy.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new PFDs. Here comes our PFD buying guide for 2016 (this blog post contains affiliate links).
-
 
 <hr>
 
@@ -50,7 +48,10 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 <!--more-->
 
 <hr>
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new PFDs. Here comes our PFD buying guide for 2016 (this blog post contains affiliate links).
 
+
+<hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
 > Our packrafting trip in the Sarek National Park in Sweden. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.

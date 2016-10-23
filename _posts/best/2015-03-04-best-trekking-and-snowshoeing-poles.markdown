@@ -12,8 +12,6 @@ layout: post
 
 Trekking and snowshoeing poles are especially useful if you have to walk up or down a mountain or if you have to walk in deep powder snow. You can also use those poles for nordic walking. In this blog post I have selected the best trekking and snowshoeing poles for 2016 which I would consider to buy.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new trekking poles. Here comes our trekking poles buying guide for 2016 (this blog post contains affiliate links).
-
 ---
 
 # The best trekking and snowshoeing poles 2016
@@ -51,6 +49,12 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 </table>
 </div>
 <!--more-->
+
+---
+
+
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new trekking poles. Here comes our trekking poles buying guide for 2016 (this blog post contains affiliate links).
+
 
 ---
 

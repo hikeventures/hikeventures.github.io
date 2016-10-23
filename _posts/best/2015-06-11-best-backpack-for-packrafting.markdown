@@ -12,12 +12,9 @@ layout: post
 ---
 In this blog post I would like to present the best backpacks with are available for packrafting. Having used the [HMG Porter 4400](https://www.hyperlitemountaingear.com/4400-porter.html)  for the last 3 years on my packrafting trips I was interested to see which alternatives would be available on the market. Gernerally, speaking I was not able to find any alternative to the HMG Porter 4400 which is that light and feels like a proper backpack when I bought it.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new backpacks. Here comes our down backpack buying guide for 2016 (this blog post contains affiliate links).
-
-
 ---
 
-# Overview of the best backpacks for packrafting
+# The best backpacks for packrafting
 
 <div class="table-responsive">
 <table class="table table-hover table-bordered list_items">
@@ -52,6 +49,9 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
 <hr>
 
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new backpacks. Here comes our down backpack buying guide for 2016 (this blog post contains affiliate links).
+
+<hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
 > On our packrafting trip in the Sarek National Park in Sweden we had a HMG Porter with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.

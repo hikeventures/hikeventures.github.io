@@ -11,8 +11,6 @@ tags:
 ---
 Today I would like to present you the best outdoor GPS watches which feature a color display. They can be used for hiking, backpacking, running or any other outdoor activity. At the moment I am wearing a [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) which has a monochrome display. I am quite satisfied with my [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) so far but I would be interested to get an outdoor watch which features a color display.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new watches. Here comes our gps watch buying guide for 2016 (this blog post contains affiliate links).
-
 ---
 
 # The best outdoor gps watches for 2016
@@ -60,7 +58,10 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 <!--more-->
 
 <hr>
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new watches. Here comes our gps watch buying guide for 2016 (this blog post contains affiliate links).
 
+
+<hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
 > On our packrafting trip in the Sarek National Park in Sweden a GPS watch could be quite useful. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.

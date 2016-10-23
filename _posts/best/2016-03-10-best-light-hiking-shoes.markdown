@@ -11,8 +11,6 @@ layout: post
 ---
 If you are into ultralight hiking then you are probably also interested into my buying guide for the best light summer hiking shoes for 2016. If you are coming from traditional hiking boots then you may notice that lightweight trail shoes can save you a lot of weight.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new shoes. Here comes our hiking shoes buying guide for 2016 (this blog post contains affiliate links).
-
 ---
 
 # The best ultralight hiking shoes
@@ -49,8 +47,10 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 <!--more-->
 
 <hr>
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new shoes. Here comes our hiking shoes buying guide for 2016 (this blog post contains affiliate links).
 
 
+<hr>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
 > On our packrafting trip in the Sarek National Park in Sweden we had an Inov-8 Roclite 295 with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 

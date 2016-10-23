@@ -13,8 +13,6 @@ Planning a winter trip in the North or just need a headlamp for the night? A goo
 
 Personally, I like the Petzl Nao Plus most since it has plenty of features and also offers the Petzl Nao Belt Kit which allows me to carry the battery under the jacket rather than on my head which can shorten the beattery life especially when wearing in [colder regions][1]. I have also used the previous model of the Nao in [Swedish Lapland][2].
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new headlamps. Here comes our headlamps buying guide for 2016 (this blog post contains affiliate links).
-
 ---
 
 # The best headlamps of 2016
@@ -73,7 +71,9 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 <!--more-->
 
 <hr>
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new headlamps. Here comes our headlamps buying guide for 2016 (this blog post contains affiliate links).
 
+<hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
 > On trips like in Northern Sweden we also had our headlamps with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
