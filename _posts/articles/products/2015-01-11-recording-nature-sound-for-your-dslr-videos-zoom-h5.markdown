@@ -29,8 +29,6 @@ First of all it was important to know which type of microphone I would need. The
 * Offers Phantom Power to external microphones
 * 2 AA batteries needed but can also be powered via USB by using an external battery like the <a href="http://amzn.to/1slxquk">Anker Astro 3</a><br><br>
 
-<a href="https://www.flickr.com/photos/90204224@N07/15630752434" title="Zoom H5"><img src="https://farm8.staticflickr.com/7527/15630752434_862665f4c3_b.jpg" width="768" height="1024" alt="Zoom H5 package unboxing"></a>
-
 ---
 
 # Weight Zoom H5
