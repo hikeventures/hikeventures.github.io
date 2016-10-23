@@ -3,7 +3,7 @@ title: Pitching Hilleberg Anjan 2 on snow
 description: A high quality 3 season tent which is leighweight and packs small
 date: 2013-01-13 07:30:00
 category: reviews
-tags: 
+tags:
   - reviews
   - hilleberg
   - tents
@@ -19,10 +19,10 @@ The Hilleberg Anjan 2 is actually a lightweight (1.8 kg packed) 3 season tent. H
 
 Have a look <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/" target="_self">here</a> if you want to see how the Anjan 2 looks during the summer months.
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Anjan-GT-2-Person-Tent_10213161_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Hilleberg Anjan</button></a>
+<a href="http://amzn.to/2evrnml" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ## Recommendation
-If you are looking for a 4-season tent then the [Hilleberg Nallo](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Nallo-2-Person-Tent_10101453_10208_10000001_-1_) is probably the better choice.
+If you are looking for a 4-season tent then the <a href="http://amzn.to/2eloCEw" rel="nofollow" target="_blank">Hilleberg Nallo</a>is probably the better choice.
 
 ---
 
