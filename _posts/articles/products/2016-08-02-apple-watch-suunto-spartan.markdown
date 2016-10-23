@@ -27,7 +27,6 @@ When Apple released the Apple Watch for the first time I decided to purchase a [
 ---
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9599011940/in/photolist-pR5WvQ-oUMs5L-ptyErN-pcgLEg-qfcV5n-poxm2c-e8Kbq9-fCesyW-hYdCdQ-rc1Fx6-duC1dY-fhgYiE-ehBHpm-ehvX1p-fdecUN-dLvA6z-niePbn-ehBHp1-fCerPS-pC4agQ-pUdwjt-nijCVw-nB7WFa-fBZ7fZ-hXRuvz-sTzRxs-s9EBGJ-J2qeyW-vwWEhv-vPqH22-uSq1oC-vNPEKA-t4miJj-qHtRc2-vM7J91" title="Hiking and Packrafting in Sarek"><img src="https://c5.staticflickr.com/6/5450/9599011940_504b6d399e_k.jpg" width="2048" height="1365" alt="Suunto Spartan or Apple Watch Series 2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-s
 
 ---
 
