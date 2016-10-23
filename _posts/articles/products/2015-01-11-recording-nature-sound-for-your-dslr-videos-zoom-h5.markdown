@@ -11,7 +11,7 @@ layout: post
 
 Having used my Sony A7 for over 1 year (but recently sold) I am planning to get better sound on my Videos once I get my new camera. The onboard microphone is more or less useless when filming in a windy place and in general you get better audio with an external microphone.
 
-<a href="http://amzn.to/2dxQkfS" title="Zoom H5" rel="nofollow"><img src="https://farm8.staticflickr.com/7468/15630751654_424fb06abb_b.jpg" width="1024" height="657" alt="best external audio recorder Zoom H5"></a>
+<a href="http://amzn.to/2dxQkfS" title="Zoom H5" rel="nofollow"><img src="https://farm8.staticflickr.com/7468/15630751654_424fb06abb_b.jpg" width="1024" height="657" alt="best external audio recorder Zoom H5 sony a7"></a>
 
 First of all it was important to know which type of microphone I would need. The <a href="http://amzn.to/1yTJDZs" rel="nofollow">Zoom H5</a> comes with an X/Y microphone which seems to be a good microphone to record the environment but also towards a certain direction. For a more focused recording (e.g. if you want to record a bird in the distance), a shotgun microphone would be even better and I might consider buying a <a href="http://amzn.to/14jumU0" rel="nofollow">Sennheiser MKE 600</a> in the future as well.
 
@@ -29,7 +29,7 @@ First of all it was important to know which type of microphone I would need. The
 * Offers Phantom Power to external microphones
 * 2 AA batteries needed but can also be powered via USB by using an external battery like the <a href="http://amzn.to/1slxquk">Anker Astro 3</a><br><br>
 
-<a href="https://www.flickr.com/photos/90204224@N07/15630752434" title="Zoom H5"><img src="https://farm8.staticflickr.com/7527/15630752434_862665f4c3_b.jpg" width="768" height="1024" alt="Best Video Mic Recorder Outdoors - Zoom H5"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/15630752434" title="Zoom H5"><img src="https://farm8.staticflickr.com/7527/15630752434_862665f4c3_b.jpg" width="768" height="1024" alt="Zoom H5 package unboxing"></a>
 
 ---
 
