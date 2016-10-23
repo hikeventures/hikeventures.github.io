@@ -57,13 +57,9 @@ It's always good to protect your electronic devices when you work outdoors. Zoom
 - Battery switch with "Low Batt" indicator
 - Rugged all-metal housing
 
-The Sennheiser MKE 600 comes with a foam windshield and a shock mount. However I might also consider getting a windscreen for outdoor recording like the <a href="http://amzn.to/2eFD5po" rel="nofollow" target="_blank">Sennheiser MZH 600</a>.
+The Sennheiser MKE 600 comes with a foam windshield and a shock mount. However I might also consider getting a Rycote 15cm Classic-Softie (19/22) for outdoor recording like the <a href="http://amzn.to/2eFD5po" rel="nofollow" target="_blank">Sennheiser MZH 600</a>.
 
 <a href="https://www.amazon.com/gp/product/B00B8Z76X0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00B8Z76X0&linkCode=as2&tag=hikeve-20&linkId=17b78af7afe16f089958b85dbfab4df7" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00B8Z76X0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00B8Z76X0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-An alternative to the Sennheiser MZH 600 would be the <a href="http://amzn.to/2ejHPGX" rel="nofollow" target="_blank">Rycote 15cm Classic-Softie (19/22)</a>. Rycote probably sets the industry standards for windscreens but they also cost almost twice as much as the regular ones from Stennheiser.
-
-<a href="https://www.amazon.com/gp/product/B00MHSCDL2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MHSCDL2&linkCode=as2&tag=hikeve-20&linkId=e536cf051c70ac9d4a61359e89d82145" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00MHSCDL2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00MHSCDL2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ---
 
