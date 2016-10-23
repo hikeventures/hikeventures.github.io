@@ -45,10 +45,6 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
         </tr>
 
         <tr>
-          <td><a href="http://amzn.to/2ek1RxR" target="_blank" rel="nofollow">The North Face Premonition Jacket (800fp)</a></td><td>440g</td>
-        </tr>
-
-        <tr>
           <td><a href="http://amzn.to/2dBjOHV" target="_blank" rel="nofollow">Arcteryx Cerium SV Hoody (850fp)</a></td><td>440g</td>
         </tr>
 
@@ -147,18 +143,6 @@ The Western Mountaineering Flash Jacket is a very good jacket for hiking trips i
 The Marmot Quasar Hoody is also an interesting jacket with it's high down fill power covered by light Pertex Quantum fabric (similar as other models in our list) which makes it also somewhat water repellent. The additional zip on the front adds a little bit more weight to the jacket. We would wear the Marmot Quasar Hoody during moderate winter or camping during spring and summer.
 
 <a href="http://amzn.to/2elEHtO" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
-
-<hr>
-
-<h2><a href="http://amzn.to/2ek1RxR" target="_blank" rel="nofollow">The North Face Premonition Jacket (800fp)</a></h2>  
-
-<a rel="nofollow" href="https://www.amazon.com/gp/product/B018TRHCEM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B018TRHCEM&linkCode=as2&tag=hikeve-20&linkId=71b828b2050fcce419c4374194f37eb5"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B018TRHCEM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B018TRHCEM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Weight:** 415g
-
-The North Face Premonition Jacket is part of The North Faces Steep Series collection for on-mountain performance like snowboarding, skiing or climbing. It features two internal pockets and two hand pockets as well as a chest pocket. It also has an under-helmet fitted hood and a relaxed ergo fit.
-
-<a href="http://amzn.to/2ek1RxR" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 <hr>
 
