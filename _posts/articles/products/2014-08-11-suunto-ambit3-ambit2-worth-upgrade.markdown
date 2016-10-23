@@ -13,9 +13,9 @@ tags:
 layout: post
 ---
 
-GPS watches like the Suunto Ambit2 or Suunto Ambit3 are quite interesting gadgets if you want to track your route or if you want to plan your route ahead. In general, the only model I could think of which comes close to the Suunto Ambit3 is the Garmin Fenix 3 which has a colour display. However, to me the [Suunto Ambit3](http://www.backcountry.com/suunto-ambit3-sport-gps-watch) or [Suunto Traverse](http://www.backcountry.com/suunto-ambit3-sport-gps-watch) just feels more solid as a product.
+GPS watches like the Suunto Ambit2 or Suunto Ambit3 are quite interesting gadgets if you want to track your route or if you want to plan your route ahead. In general, the only model I could think of which comes close to the Suunto Ambit3 is the Garmin Fenix 3 which has a colour display. However, my personal preference goes towards the <a href="http://amzn.to/2ey5Pmh" rel="nofollow" target="_blank">Suunto Ambit3</a> or <a href="http://amzn.to/2eklrdT" rel="nofollow" target="_blank">Suunto Traverse</a> (this blog post contains affiliate links).
 
-Suunto recently released the [Suunto Spartan](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch) - a GPS watch with color display and touch screen. Then there is also the new <a href="http://amzn.to/2dt4Oyt" rel="nofollow" target="_blank">Apple Watch Series 2</a> which however does not have such a long battery life. I use my Suunto Ambit3 mainly for running, packrafting and hiking and upgraded from the Suunto Ambit2 to the Suunto Ambit3 Sport.
+Suunto recently released the <a href="http://amzn.to/2eAj31a" rel="nofollow" target="_blank">Suunto Spartan</a> - a GPS watch with color display and touch screen. Then there is also the new <a href="http://amzn.to/2ekkYbG" rel="nofollow" target="_blank">Apple Watch Series 2</a> which however does not have such a long battery life. I use my Suunto Ambit3 mainly for running, packrafting and hiking and upgraded from the Suunto Ambit2 to the Suunto Ambit3 Sport.
 
 **Update:** I have <a href="http://www.hikeventures.com/Suunto-Traverse-Ambit3-differences/">upgraded</a> my Suunto Ambit 3 to the Suunto Traverse. If you need a multisport watch then you should rather consider the Suunto Ambit3 Vertical or the Suunto Spartan rather than the Suunto Traverse.
 
@@ -96,7 +96,7 @@ I use my Suunto Traverse (upgraded from the Suunto Ambit3 Sport) watch mainly fo
 ---
 
 # Worth to upgrade?
-I was wearing the [Suunto Ambit3 Sport](https://www.rei.com/product/879412/suunto-ambit3-sport-gps-multifunction-heart-rate-monitor) for a couple of months and I was happy with it before I upgraded to the [Suunto Traverse](https://www.rei.com/product/898278/suunto-traverse-gps-multifunction-watch) which looks much nicer since the GPS module is now invisible. I liked the blue colour, the slimmer design compared to the Suunto Ambit3 Sport, the accuracy of the GPS signal and the somewhat shorter time it take to locate satellites. For runners it's already worth to upgrade just because of the smaller HR monitor which will give you a better running experience. I also like the Bluetooth feature so I can get my data also on the Movescount Server if I am not on a computer. If you are into Social Media then the Movescount app will also be a great tool to show-cast your activities in a video. If you want to have the latest technology then you should consider the Suunto Spartan or the <a href="http://amzn.to/2dt4Oyt" rel="nofollo" target="_blank">Apple Watch Series 2</a>. The <a href="https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch">Suunto Spartan</a> will be more suitable for those who need long battery life e.g. if you plan to go hiking or multisport activities.
+I was wearing the <a href="http://amzn.to/2ey5Pmh" rel="nofollow" target="_blank">Suunto Ambit3</a> for a couple of months and I was happy with it before I upgraded to the <a href="http://amzn.to/2eklrdT" rel="nofollow" target="_blank">Suunto Traverse</a> which looks much nicer since the GPS module is now invisible. I liked the blue colour, the slimmer design compared to the Suunto Ambit3 Sport, the accuracy of the GPS signal and the somewhat shorter time it take to locate satellites. For runners it's already worth to upgrade just because of the smaller HR monitor which will give you a better running experience. I also like the Bluetooth feature so I can get my data also on the Movescount Server if I am not on a computer. If you are into Social Media then the Movescount app will also be a great tool to show-cast your activities in a video. If you want to have the latest technology then you should consider the Suunto Spartan or the <a href="http://amzn.to/2dt4Oyt" rel="nofollo" target="_blank">Apple Watch Series 2</a>. The<a href="http://amzn.to/2ey33gQ" rel="nofollow" target="_blank">Suunto Spartan</a> will be more suitable for those who need long battery life e.g. if you plan to go hiking or multisport activities.
 
 ---
 
@@ -106,33 +106,34 @@ Here are some accessories which you can buy for your Suunto Traverse:
 ## <a href="http://amzn.to/28OSNim" rel="nofollow">Traverse Screen Protector</a>
 If you want to protect your watch screen somewhat then you might consider getting a screen protector for your Suunto Traverse.
 
-<a href="https://www.amazon.com/gp/product/B01G4J0230/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01G4J0230&linkCode=as2&tag=hikeve-20&linkId=e7b3849132f7af30d060ac14b876efa2"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01G4J0230&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01G4J0230" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B01G4J0230/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01G4J0230&linkCode=as2&tag=hikeve-20&linkId=e7b3849132f7af30d060ac14b876efa2" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01G4J0230&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01G4J0230" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ---
 
-## [Suunto Smart Belt](http://www.backcountry.com/suunto-smart-belt)
+<h2><a href="https://www.amazon.com/gp/product/B00LVNEDDU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LVNEDDU&linkCode=as2&tag=hikeve-20&linkId=4a84a24f1bb726b645aa94750720818e" rel="nofollow" target="_blank">Suunto Smart Belt</a></h2>
+
 If you are into running or cycling then you might be interested in your hear rate. The Suunto Smart Belt sends the data to your Suunto Traverse.
 
-<a href="https://www.amazon.com/gp/product/B00LVNEDDU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LVNEDDU&linkCode=as2&tag=hikeve-20&linkId=4a84a24f1bb726b645aa94750720818e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00LVNEDDU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00LVNEDDU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B00LVNEDDU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LVNEDDU&linkCode=as2&tag=hikeve-20&linkId=4a84a24f1bb726b645aa94750720818e" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00LVNEDDU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00LVNEDDU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ---
 
 ## <a href="http://amzn.to/28V8l3t" rel="nofollow">EasyAcc Rugged Outdoor Power Bank (IP67 Waterproof / 20000mAh)</a>
 If you go on a longer hiking trip then it's good to have an external USB battery with you to charge your Suunto once it run out of battery.
 
-<a href="https://www.amazon.com/gp/product/B01B73I5ZU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01B73I5ZU&linkCode=as2&tag=hikeve-20&linkId=47d7ed2d86df59bde1e15986668ca7b5"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01B73I5ZU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01B73I5ZU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B01B73I5ZU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01B73I5ZU&linkCode=as2&tag=hikeve-20&linkId=47d7ed2d86df59bde1e15986668ca7b5" rel="nofollow" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01B73I5ZU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01B73I5ZU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ---
 
 ## <a href="http://amzn.to/28V6hrU" rel="nofollow">Suunto Wristop Computer Bike Adaptor</a>
 The Suunto Wristop Computer Bike Adaptor might be a good choice if you want to have your Suunto watch screen always in front of you.
 
-<a href="https://www.amazon.com/gp/product/B00005N9DU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00005N9DU&linkCode=as2&tag=hikeve-20&linkId=ed3bdcc64953b6e74d3c0a8c77395f0f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00005N9DU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00005N9DU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B00005N9DU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00005N9DU&linkCode=as2&tag=hikeve-20&linkId=ed3bdcc64953b6e74d3c0a8c77395f0f" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00005N9DU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00005N9DU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## [Quad Lock Bike Mount Kit for iPhone 6/6S PLUS]()
-The Suunto watches also work great together with an e.g. iPhone which can be used as a second screen and can be mounted next to the <a href="http://amzn.to/28V6hrU" rel="nofollow">Suunto Wristop Computer Bike Adaptor</a>. On bicycle tours it's great to have your iPhone in front of you to read the map or to listen to radio.
+The Suunto watches also work great together with an e.g. iPhone which can be used as a second screen and can be mounted next to the <a href="http://amzn.to/28V6hrU" rel="nofollow" target="_blank">Suunto Wristop Computer Bike Adaptor</a>. On bicycle tours it's great to have your iPhone in front of you to read the map or to listen to radio.
 
-<a href="https://www.amazon.com/gp/product/B00X3LNYG0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X3LNYG0&linkCode=as2&tag=hikeve-20&linkId=8750a11f14e8d1f1bdb09f35a6b933a2"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00X3LNYG0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00X3LNYG0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B00X3LNYG0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X3LNYG0&linkCode=as2&tag=hikeve-20&linkId=8750a11f14e8d1f1bdb09f35a6b933a2" rel="nofollow" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00X3LNYG0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00X3LNYG0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ---
 
@@ -144,9 +145,9 @@ The Suunto watches also work great together with an e.g. iPhone which can be use
 
 **Update (22.01.2016):** Suunto has released the Suunto Ambit3 Vertical watch. It’s similar like the Traverse but with an additional graph which displays your ascent / descent.
 
-**Update (19.04.2016):** Suunto has released the <a href="http://www.suunto.com/Products/sports-watches/Suunto-Traverse-Alpha/Suunto-Traverse-Alpha-Foliage/">Traverse Alpha</a> which adds features for hunting and fishing to the regular Traverse. It's also a bit more expensive than the regular Traverse.
+**Update (19.04.2016):** Suunto has released the <a href="http://amzn.to/2eWKIwI" rel="nofollow" target="_blank">Traverse Alpha</a> which adds features for hunting and fishing to the regular Traverse. It's also a bit more expensive than the regular Traverse.
 
-**Update (7.6.2016):** Suunto has released the [Suunto Spartan](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch) - A premium multisport watch with color display.
+**Update (7.6.2016):** Suunto has released the <a href="http://amzn.to/2edjBKs" rel="nofollow" target="_blank">Suunto Spartan</a> - A premium multisport watch with color display.
 
 ---
 
