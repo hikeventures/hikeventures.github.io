@@ -1,5 +1,5 @@
 ---
-title: The best 4K USB-C Monitors for Macbook Pro
+title: The best 27-inch 4K USB-C Monitors for Macbook Pro
 description: My selection of the best 4K USB-C Monitors for the Macbook Pro
 date: 2016-09-21 05:28:01
 category: best
@@ -12,7 +12,7 @@ As I am planning to buy a new Macbook Pro I was curious to find out which USB-C 
 I really like the idea to have less cables on my desk so USB-C is going to be a really nice feature. There will be no need to plug and unplug USB cables anymore on the Macbook Pro. All my USB cables will be connected to my monitor and there will be just one single USB-C which is connected to my Macbook Pro. So here is a selection of the best USB-C monitors which I would consider to buy (this blog post contains affiliate links). Currently, there are 2 monitors available with a 27" screen.
 
 <hr>
-<h1>The best 4K USB-C Monitors</h1>
+<h1>The best 27-inch 4K USB-C Monitors</h1>
 <div class="table-responsive">
 <table class="table table-hover table-bordered list_items_4">
         <thead>
