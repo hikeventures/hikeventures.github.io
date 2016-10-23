@@ -11,7 +11,7 @@ tags:
   - gps
   - watch
 ---
-Apple and Suunto recently announced their new smartwatches - the Apple Watch Series 2 and the <a href="http://amzn.to/2edjBKs" rel="nofollow" target="_blank">Suunto Spartan</a>. As I use my watch mainly for running and hiking I am interested in a watch which is water resistant and offer a long battery life. Both watches - the <a href="http://amzn.to/2edjBKs" rel="nofollow" target="_blank">Suunto Spartan</a> and the Apple Watch 2 offer water resistant but the big question is still which performs better in battery life?
+Apple and Suunto recently announced their new smartwatches - the Apple Watch Series 2 and the <a href="http://amzn.to/2edjBKs" rel="nofollow" target="_blank">Suunto Spartan</a>. As I use my watch mainly for running and hiking I am interested in a watch which is water resistant and offer a long battery life. Both watches - the <a href="http://amzn.to/2edjBKs" rel="nofollow" target="_blank">Suunto Spartan</a> and the Apple Watch 2 offer water resistant but the big question is still which performs better in battery life? This blog post contains affiliate links.
 
 ---
 

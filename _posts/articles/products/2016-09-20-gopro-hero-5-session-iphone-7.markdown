@@ -9,7 +9,7 @@ tags:
 layout: post
 ---
 
-Recently, GoPro announced it's new GoPro Hero5 Black and it's GoPro Hero5 Session and I was wondering if there is actually a need to buy any of those GoPro cameras if you can also buy a more or less waterproof IPhone 7?
+Recently, GoPro announced it's new GoPro Hero5 Black and it's GoPro Hero5 Session and I was wondering if there is actually a need to buy any of those GoPro cameras if you can also buy a more or less waterproof IPhone 7? This blog post contains affiliate links.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26814282730/in/dateposted-public/" title="GoPro Hero 5 Black Session iPhone7"><img src="https://c3.staticflickr.com/8/7270/26814282730_361f410d48_o.jpg" width="1200" height="797" alt="GoPro Hero5 Black Session iPhone7"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -38,7 +38,7 @@ So which one should you buy? If you are more into hardcore adventures then the G
 
 Having IP67 on the iPhone is nice but if you jump into a lake and the GoPro breaks for some reason then you are better off than with a broken iPhone 7.
 
-Certainly, you might also get more scratches on your iPhone 7 screen. The surface of the iPhone screen is much larger than the surface of the camera lens of the [GoPro Hero5 Black](https://www.rei.com/product/114467/gopro-hero5-black-camera) / [GoPro Hero5 Session](https://www.rei.com/product/114468/gopro-hero5-session-camera).
+Certainly, you might also get more scratches on your iPhone 7 screen. The surface of the iPhone screen is much larger than the surface of the camera lens of the <a href="http://amzn.to/2ekq5Zy" rel="nofollow" target="_blank">GoPro Hero 5 Black</a> / <a href="http://amzn.to/2el7Buj" rel="nofollow" target="_blank">GoPro Session</a>.
 
 If audio recording is not important to you then you could also consider purchasing the older <a href="http://amzn.to/2cDRqEi" rel="nofollow">GoPro Session</a> instead and save some money. You may also check for discounts <a href="/deals/" target="_blank">here</a>.
 
