@@ -64,7 +64,7 @@ While [Packrafting in Sarek][7] Patrick was always wearing a fleece during the d
 
 <hr>
 
-# Arcteryx Thetis Zip Neck
+<h1><a href="http://www.amazon.com/gp/product/B00GW7XOMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7XOMQ&linkCode=as2&tag=hikeve-20&linkId=KYPIGZUYHRQY4JNT" rel="nofollow" target="_blank">Arcteryx Thetis Zip Neck</a></h1>
 
 <a href="http://www.amazon.com/gp/product/B00GW7XOMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7XOMQ&linkCode=as2&tag=hikeve-20&linkId=KYPIGZUYHRQY4JNT"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7XOMQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7XOMQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -73,11 +73,11 @@ While [Packrafting in Sarek][7] Patrick was always wearing a fleece during the d
 
 The Acteryx Thetis Zip Neck fleece is more a fleece for those who are planning to sweat during the winter e.g. if you are planning to go running or hike up a mountain. It's fabric should dry quite fast and transport moisture away from the body.
 
-<a href="http://www.hikeventures.com/deals/#arcteryx+thetis+zip+neck"><button class="btn btn-danger">Compare prices</button></a>
+<a href="http://www.amazon.com/gp/product/B00GW7XOMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7XOMQ&linkCode=as2&tag=hikeve-20&linkId=KYPIGZUYHRQY4JNT"><button class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
-# Mammut Moench Longsleeve
+<h1><a href="http://www.amazon.com/gp/product/B005JWKXC4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005JWKXC4&linkCode=as2&tag=hikeve-20&linkId=AM7UMWDALROAZGHE" rel="nofollow" target="_blank">Mammut Moench Longsleeve</a></h1>
 
 <a href="http://www.amazon.com/gp/product/B005JWKXC4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005JWKXC4&linkCode=as2&tag=hikeve-20&linkId=AM7UMWDALROAZGHE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005JWKXC4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005JWKXC4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -86,11 +86,11 @@ The Acteryx Thetis Zip Neck fleece is more a fleece for those who are planning t
 
 The Mammut Moench Longsleeve features a stretchy fabric which should keep you dry and allow your body to move with ease. This should be a good fleece for activities in the mountains.
 
-<a href="http://www.hikeventures.com/deals/#mammut+moench"><button class="btn btn-danger">Compare prices</button></a>
+<a href="http://www.amazon.com/gp/product/B005JWKXC4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005JWKXC4&linkCode=as2&tag=hikeve-20&linkId=AM7UMWDALROAZGHE"><button class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
-# Rab Micro Pull-on
+<h1><a href="http://www.amazon.com/gp/product/B00MVV2BDK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MVV2BDK&linkCode=as2&tag=hikeve-20&linkId=O35AIPYX5EH2BEVJ" rel="nofollow" target="_blank">Rab Micro Pull-on</a></h1>
 
 <a  href="http://www.amazon.com/gp/product/B00MVV2BDK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MVV2BDK&linkCode=as2&tag=hikeve-20&linkId=O35AIPYX5EH2BEVJ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00MVV2BDK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00MVV2BDK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -99,11 +99,11 @@ The Mammut Moench Longsleeve features a stretchy fabric which should keep you dr
 
 The Rab Micro Pull-on is also a light fleece pullover. It's fabric is made of recycled fabric if you prefer to opt for products and also keep nature in mind.
 
-<a href="http://www.hikeventures.com/deals/#micro+pull+on"><button class="btn btn-danger">Compare prices</button></a>
+<a href="http://www.amazon.com/gp/product/B00MVV2BDK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MVV2BDK&linkCode=as2&tag=hikeve-20&linkId=O35AIPYX5EH2BEVJ"><button class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
-# Arcteryx Delta LT Zip Neck
+<h1><a href="http://www.amazon.com/gp/product/B00GW7ZQG8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZQG8&linkCode=as2&tag=hikeve-20&linkId=TWGUKPE3JX4IKWXK" rel="nofollow" target="_blank">Arcteryx Delta LT Zip Neck</a></h1>
 
 <a href="http://www.amazon.com/gp/product/B00GW7ZQG8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZQG8&linkCode=as2&tag=hikeve-20&linkId=TWGUKPE3JX4IKWXK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7ZQG8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7ZQG8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -112,7 +112,7 @@ The Rab Micro Pull-on is also a light fleece pullover. It's fabric is made of re
 
 The Arcteryx Delta LT Zip Neck is also a nice fleece. I have currently the Delta LT Zip Jacket model which is similar to this model except that you have a full zip on the front.
 
-<a href="http://www.hikeventures.com/deals/#Arcteryx+delta+lt+zip"><button class="btn btn-danger">Compare prices</button></a>
+<a href="http://www.amazon.com/gp/product/B00GW7ZQG8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZQG8&linkCode=as2&tag=hikeve-20&linkId=TWGUKPE3JX4IKWXK"><button class="btn btn-danger">Buy on Amazon</button></a>
 
 
 
@@ -132,7 +132,7 @@ amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_title = "Fleece Jackets Suggestions";
+amzn_assoc_title = "Amazon Search Results";
 amzn_assoc_default_search_phrase = "arcteryx Fleece Jackets";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
@@ -142,11 +142,6 @@ amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
 ---
 
 [1]:	http://www.hikeventures.com/best-down-jackets/
-[2]:	http://www.hikeventures.com/destinations/
-[3]:	http://www.hikeventures.com/deals/#arcteryx+thetis+zip+neck
-[4]:	http://www.hikeventures.com/deals/#mammut+moench
-[5]:	http://www.hikeventures.com/deals/#micro+pull+on
-[6]:	http://www.hikeventures.com/deals/#Arcteryx+delta+lt+zip
 [7]:	http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Packrafting in Sarek"
 [8]:	http://www.hikeventures.com/best-windjackets/ "Wind Jackets"
 [9]:	http://www.hikeventures.com/best-rain-jackets/
