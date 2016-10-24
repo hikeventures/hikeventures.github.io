@@ -3,13 +3,13 @@ title: Hilleberg Anjan Review
 description: Hillebergs three season tent.  The Anjan Tent Review.
 date: 2013-04-14 07:30:00
 category: reviews
-tags: 
+tags:
   - reviews
   - tents
   - hilleberg
 layout: post
 ---
-A couple of months ago, I was looking for a new tent which I can use during my planned hikes in Sweden and Finland and for other backpacking, packrafting and camping trips.  After some field testing I am now able to write a short review about my experiences with the Hilleberg Anjan 2 which I found to be one of the best 3-season tunnel tents. An alternative would be the Nallo 2 (as a 4-season tent) or the Kaitum 2 (if you need more space). If you are planning to get a 2-person tent then you should get the Anjan 3, Nallo 3 or Kaitum 3. It just feels to crammed in the smaller models but they work very well as 1-person tents. Just as a side note, I went hiking with both - the Anjan 2 and the Anjan 3. 
+A couple of months ago, I was looking for a new tent which I can use during my planned hikes in Sweden and Finland and for other backpacking, packrafting and camping trips.  After some field testing I am now able to write a short review about my experiences with the Hilleberg Anjan 2 which I found to be one of the best 3-season tunnel tents. An alternative would be the Nallo 2 (as a 4-season tent) or the Kaitum 2 (if you need more space). If you are planning to get a 2-person tent then you should get the Anjan 3, Nallo 3 or Kaitum 3. It just feels to crammed in the smaller models but they work very well as 1-person tents. Just as a side note, I went hiking with both - the Anjan 2 and the Anjan 3.
 
 Further, I would not get the GT version If I were to buy the Anjan or the Nallo. If you need a bigger vestibule then its probably better to take a seperate tarp with you. Yor Anjan tent will be more versatile in this way. Further, there is also not that much weight difference between the Anjan 2 and the Anjan 3 so it's probably a good decision to take the Anjan 3 in any case.
 
@@ -46,9 +46,9 @@ The Hilleberg Anjan 3 compared to Mountain Equipment AR Ultralite 2. The Hillebe
 <a href="https://www.flickr.com/photos/90204224@N07/13933287604"><img src="https://farm8.staticflickr.com/7228/13933287604_218a763eb1_b.jpg" width="1024" height="683" alt="Hilleberg Anjan 3 inside - inner tent size"></a>
 
 The Hilleberg Anjan 3 is a good choice if you are big or if you just want to have more room in the tent to store gear inside of the tent or just to play some cards if it's raining outside.
-  
+
 <a href="https://www.flickr.com/photos/90204224@N07/9596230289"><img src="https://c1.staticflickr.com/3/2822/9596230289_9b0f70706d_o.jpg" width="991" height="567" alt="Hilleberg Anjan Night"></a>
-   
+
 Konstantin prepared food in front of the Hilleberg Anjan 2 with our <a href="http://hikeventures.com/gear-review-jetboil-sol-ti/" target="_self">Jetboil Sol Ti boiler</a> on our trip to <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">Sarek in Sweden</a>.
 
 <a href="http://bit.ly/1q2KxZ8"><img src="https://farm3.staticflickr.com/2855/9599002048_34cc6c5857_h.jpg" width="1600" height="797" alt="Hilleberg Anjan - Night in Sarek Sweden"></a>
@@ -60,7 +60,8 @@ The Hilleberg Anjan tent seems to be the perfect 3 season tent. It is easy to se
 
 In the picture below you can see Konstantin preparing his packraft on our one week <a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/">trip</a> in Northern Sweden. In our backpack we also had our Hilleberg Anjan with us. There are as good as no shelters and having a reliable tent was a must for us. The Anjan did quite well!
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Anjan-2-Person-Tent_10188463_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Hilleberg Anjan</button></a>
+<a href="http://amzn.to/2evrnml" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+
 
 ---
 
@@ -79,4 +80,3 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "3b59edd59f23213f9e3bbcd8046ee503";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
