@@ -74,7 +74,7 @@ If I plan to attach both - a LED light (see below) and my Sennheiser MKE - to my
 ---
 
 # Cables
-To connect the Sennheiser MKE 600 straight to your Sony A7 you would need a <a href="http://amzn.to/2ebT0gZ" rel="nofollow" target="_blank">Sennheiser KA 600</a> cable. If you want to connect your Sennheiser MKE 600 to your Zoom H5 then you should also get a <a href="http://amzn.to/2eG7o0g" rel="nofollow" target="_blank">XLR cable</a>.
+To connect the Sennheiser MKE 600 straight to your Sony A7 you would need a <a href="http://amzn.to/2ebT0gZ" rel="nofollow" target="_blank">Sennheiser KA 600</a> cable. If you want to connect your Sennheiser MKE 600 to your Zoom H5 then you should also get a <a href="http://amzn.to/2eG7o0g" rel="nofollow" target="_blank">XLR cable</a>. To connect the Sennheiser MKE 600 with the Zoom H5 you also need to have <a href="http://amzn.to/2eHakul" rel="nofollow" target="_blank">XLR male to female cable</a>.
 
 ---
 
