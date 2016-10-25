@@ -82,7 +82,7 @@ The Astral Designs YTV is a great choice if you want to have a minimalistic life
 
 ---
 
-<h2><a href="https://www.amazon.com/gp/product/B00TMANL50/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TMANL50&linkCode=as2&tag=hikeve-20&linkId=254bf432198b3c65cdd8cabe819e726a" rel="nofollow"></a>Astral Designs V-Eight</a></h2>
+<h2><a href="https://www.amazon.com/gp/product/B00TMANL50/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TMANL50&linkCode=as2&tag=hikeve-20&linkId=254bf432198b3c65cdd8cabe819e726a" rel="nofollow">Astral Designs V-Eight</a></h2>
 
 **Weight:** 563 grams
 
@@ -139,7 +139,7 @@ We would not recommend inflatable PFD's. Of course they are not that bulky than 
 # Accesories
 Beside a PFD we also found the following packrafting accessories quite useful.
 
-<h2><a href="https://www.amazon.com/gp/product/B001UICFRC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001UICFRC&linkCode=as2&tag=hikeve-20&linkId=593b72bccf776c9eac85ed2681826cae" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001UICFRC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20"></a>NRS Pilot River Knife</a></h2>
+<h2><a href="https://www.amazon.com/gp/product/B001UICFRC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001UICFRC&linkCode=as2&tag=hikeve-20&linkId=593b72bccf776c9eac85ed2681826cae" rel="nofollow">NRS Pilot River Knife</a></h2>
 The NRS Pilot River Knife can be attached to the front of the Astral Designs YTV and V-Eight. The knife might be quite handy if you get stuff somewhere or if you need to help someone.
 
 <a href="https://www.amazon.com/gp/product/B001UICFRC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001UICFRC&linkCode=as2&tag=hikeve-20&linkId=593b72bccf776c9eac85ed2681826cae" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001UICFRC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001UICFRC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
