@@ -121,7 +121,7 @@ The Aquqpac Waterproof SLR Camera Case is 100% waterproof to IPX8 and can be sub
 
 <hr>
 
-## [Pelican 1200 Case](https://www.rei.com/product/778223/pelican-1200-case-with-foam)
+<h2><a href="https://www.amazon.com/gp/product/B0051QYF5E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0051QYF5E&linkCode=as2&tag=hikeve-20&linkId=b35f232fa3758e5efbfc6f9d4e425fbd" rel="nofollow">Pelican 1200 Case</a></h2>
 
 *Weight:* 1305 grams    
 *Dimenstions:* 9.25 x 7.12 x 4.12 inches    
@@ -139,7 +139,7 @@ When I take my camera to the city, I prefer to have a camera bag which looks a b
 
 <hr>
 
-## [Thule Covert Camera Backpack](https://www.rei.com/product/877640/thule-covert-camera-backpack)
+<h2><a href="https://www.amazon.com/gp/product/B00JXECZSE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JXECZSE&linkCode=as2&tag=hikeve-20&linkId=81edc424d9dc6074372a108183c60bd0" rel="nofollow" target="_blank">Thule Covert Camera Backpack</a></h2>
 
 *Weight:* 400 grams    
 *Dimenstions:* 22 x 17.7 x 7.9 inches    
@@ -148,11 +148,11 @@ The Thule Convert Camera Backpack offers space for a DSLR and an attached wide a
 
 <a href="https://www.amazon.com/gp/product/B00JXECZSE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JXECZSE&linkCode=as2&tag=hikeve-20&linkId=81edc424d9dc6074372a108183c60bd0" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00JXECZSE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00JXECZSE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="https://www.rei.com/product/877640/thule-covert-camera-backpack" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="https://www.amazon.com/gp/product/B00JXECZSE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JXECZSE&linkCode=as2&tag=hikeve-20&linkId=81edc424d9dc6074372a108183c60bd0" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 <hr>
 
-<h2><a href="http://amzn.to/29vFJkX" rel="nofollow">ONA The Bowery Camera Bag</a></h2>
+<h2><a href="http://amzn.to/29vFJkX" rel="nofollow" target="_blank">ONA The Bowery Camera Bag</a></h2>
 
 *Weight:*  635 grams    
 *Dimenstions:* 10 X 6 X 4 inches
@@ -161,12 +161,12 @@ The Thule Convert Camera Backpack offers space for a DSLR and an attached wide a
 
 ONA The Bowery Camera Bag has been handcrafted with premium waxed canvas and full-grain leather details. The camera can store one camera and one small lens.
 
-<a href="http://amzn.to/29vFJkX" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/29vFJkX" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 <hr>
 
 
-## [Thule Covert Camera Messenger Bag - Small](https://www.rei.com/product/887508/thule-covert-camera-messenger-bag-small)
+<h2><a href="https://www.amazon.com/gp/product/B00QWRMWKQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QWRMWKQ&linkCode=as2&tag=hikeve-20&linkId=5ee40d217ef34eff10943d4153566e80" rel="nofollow" target="_blank">Thule Covert Camera Messenger Bag - Small</a></h2>
 
 *Weight:* 880 grams    
 *Dimenstions:* 9.4 X 16.9 X 6.3 inches
@@ -175,7 +175,7 @@ ONA The Bowery Camera Bag has been handcrafted with premium waxed canvas and ful
 
 The Thule Covert Camera Messenger Bag comes with a removable camera pod system and an iPad pocket. There is room for a compact DSLR and 2 lenses or a flash.
 
-<a href="https://www.rei.com/product/887508/thule-covert-camera-messenger-bag-small" rel="nofollow"><button type="button" class="btn btn-danger">Buy</button></a>
+<a href="https://www.amazon.com/gp/product/B00QWRMWKQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QWRMWKQ&linkCode=as2&tag=hikeve-20&linkId=5ee40d217ef34eff10943d4153566e80" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 <hr>
 
