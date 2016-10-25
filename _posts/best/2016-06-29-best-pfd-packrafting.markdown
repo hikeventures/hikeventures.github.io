@@ -70,7 +70,7 @@ We have not tested all the PFDs in this article but those are our favorites if w
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26814282560/in/photolist-GRud1y-GRud2f-HdLXe5-GXhAVa-H1kVQW-H1kVFN-H1kVZo-H1zXZH-GcfJST-GcfLdt-H1zXXZ-H4Gfns-Gc8XtE-Gc8Xp1-Gc8Xjm-HaFrzP-GRud7L-HaFrBx-Gc8WNG-HnoFdC-HjfVzn-GRud4u-H7Dj8R-GRudb3-Gc8XbL-H7Dj4x-Gc8X5y-H7DiZK-H7DiVM-Gc8WYw-H4GeQA-H7DiSk-H7DiNc-GcfKKp-Gc8WBj-H7DiKr-GGsxE1-GcfKhk-H1zXxF-GcfKsk-GcfKj4-Gc8Weq-H4Gdkb-HnoEX7-GaxJKr-H5RYDr-GajbUD-GXb3Qv-H2KqTT-GBfK6G" title="Swedish Packrafting Round-Up"><img src="https://c1.staticflickr.com/8/7682/26814282560_a47eb37791_o.jpg" width="100%" alt="The best PFD Life Jackets for packrafting"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
-## [Astral Designs YTV](http://www.backcountry.com/astral-ytv-personal-flotation-device)
+<h2><a href="https://www.amazon.com/gp/product/B01BMZWV6C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01BMZWV6C&linkCode=as2&tag=hikeve-20&linkId=0fb99e04474c270ca1f5d07c107a0dd9" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01BMZWV6C&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" >Astral Designs YTV</a></h2>
 
 **Weight:** 794 grams
 
@@ -82,7 +82,7 @@ The Astral Designs YTV is a great choice if you want to have a minimalistic life
 
 ---
 
-## [Astral Designs V-Eight](https://www.rei.com/product/881421/astral-v-eight-pfd)
+<h2><a href="https://www.amazon.com/gp/product/B00TMANL50/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TMANL50&linkCode=as2&tag=hikeve-20&linkId=254bf432198b3c65cdd8cabe819e726a" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00TMANL50&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a>Astral Designs V-Eight](https://www.rei.com/product/881421/astral-v-eight-pfd)</a></h2>
 
 **Weight:** 563 grams
 
@@ -94,7 +94,7 @@ The Astral Designs V-Eight has 2 zippered front pockets and made for the summer.
 
 ---
 
-## <a href="http://amzn.to/29kvV8M" rel="nofollow">Palm Alpha</a>
+<h2><a href="http://amzn.to/29kvV8M" rel="nofollow">Palm Alpha</a></h2>
 
 **Weight:** 607 grams
 
@@ -106,7 +106,7 @@ The Palm Alpha is one of the lightest white water life jackets on the market. It
 
 ---
 
-## [Astral Designs Sea Wolf](https://www.rei.com/product/867519/astral-sea-wolf-pfd-mens)
+<h2><a href="https://www.amazon.com/gp/product/B00ILHKYAK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ILHKYAK&linkCode=as2&tag=hikeve-20&linkId=8bd526c578279fdf0604cbab13ae67bd" rel="nofollow">Astral Designs Sea Wolf</a></h2>
 
 **Weight:** 766 grams
 
@@ -118,7 +118,7 @@ If you need a PFD where you can store a lot's of stuff in it then you should hav
 
 ---
 
-## [Palm FX](http://amzn.to/292fRLY)
+<h2><a href="https://www.amazon.com/gp/product/B018ETXYF6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B018ETXYF6&linkCode=as2&tag=hikeve-20&linkId=2ecf853ac2c36d666ec79c5b077c9075" rel="nofollow">Palm FX</a></h2>
 
 **Weight:** 877 grams
 
@@ -139,43 +139,43 @@ We would not recommend inflatable PFD's. Of course they are not that bulky than 
 # Accesories
 Beside a PFD we also found the following packrafting accessories quite useful.
 
-## [NRS Pilot River Knife](https://www.rei.com/product/101755/nrs-pilot-river-knife)
+<h2><a href="https://www.amazon.com/gp/product/B001UICFRC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001UICFRC&linkCode=as2&tag=hikeve-20&linkId=593b72bccf776c9eac85ed2681826cae" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001UICFRC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a>NRS Pilot River Knife</a></h2>
 The NRS Pilot River Knife can be attached to the front of the Astral Designs YTV and V-Eight. The knife might be quite handy if you get stuff somewhere or if you need to help someone.
 
 <a href="https://www.amazon.com/gp/product/B001UICFRC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001UICFRC&linkCode=as2&tag=hikeve-20&linkId=593b72bccf776c9eac85ed2681826cae" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001UICFRC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001UICFRC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="/deals/" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
+<a href="https://www.amazon.com/gp/product/B001UICFRC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001UICFRC&linkCode=as2&tag=hikeve-20&linkId=593b72bccf776c9eac85ed2681826cae" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 ---
 
-## [NRS Co-Pilot River Knife](https://www.rei.com/product/101754/nrs-co-pilot-river-knife-yellow)
+<h2><a href="https://www.amazon.com/gp/product/B014OTTE4U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014OTTE4U&linkCode=as2&tag=hikeve-20&linkId=31c1e32939b4c5d0a67323b2c3d5975e" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B014OTTE4U&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" >NRS Co-Pilot River Knife</a></h2>
 The NRS Co-Pilot River Knife is the shorter version of the NRS Pilot Knife.
 
 <a href="https://www.amazon.com/gp/product/B014OTTE4U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014OTTE4U&linkCode=as2&tag=hikeve-20&linkId=31c1e32939b4c5d0a67323b2c3d5975e" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B014OTTE4U&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B014OTTE4U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="/deals/" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
+<a href="https://www.amazon.com/gp/product/B014OTTE4U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014OTTE4U&linkCode=as2&tag=hikeve-20&linkId=31c1e32939b4c5d0a67323b2c3d5975e" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 ---
 
-## [NRS Wedge Rescue Throw Bag](https://www.rei.com/product/881345/nrs-wedge-rescue-throw-bag)
+<h2><a href="https://www.amazon.com/gp/product/B0028EHPTA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0028EHPTA&linkCode=as2&tag=hikeve-20&linkId=0c7f1d02ef740d6a818a23c7d4b3eaa0" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0028EHPTA&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" >NRS Wedge Rescue Throw Bag</a></h2>
 You can attache the NRS Wedge Rescue Throw Bag on your packraft and quick access it if you need it.
 
 <a href="https://www.amazon.com/gp/product/B0028EHPTA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0028EHPTA&linkCode=as2&tag=hikeve-20&linkId=0c7f1d02ef740d6a818a23c7d4b3eaa0" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0028EHPTA&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0028EHPTA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="/deals/" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
+<a href="https://www.amazon.com/gp/product/B0028EHPTA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0028EHPTA&linkCode=as2&tag=hikeve-20&linkId=0c7f1d02ef740d6a818a23c7d4b3eaa0" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 ---
 
-## [Sea to Summit Ultra Flex Booties](https://www.rei.com/product/883302/sea-to-summit-ultra-flex-water-booties)
+<h2><a href="https://www.amazon.com/gp/product/B00W5P5BU2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00W5P5BU2&linkCode=as2&tag=hikeve-20&linkId=ff2d0de60ceb7abc7e35c33e0dcd1648" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00W5P5BU2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" >Sea to Summit Ultra Flex Booties</a></h2>
 The Sea to Summit Ultra Flex Booties protect your feet when you walk in the river and also helps somewhat to keep your feet warm.
 
 <a href="https://www.amazon.com/gp/product/B00W5P5BU2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00W5P5BU2&linkCode=as2&tag=hikeve-20&linkId=ff2d0de60ceb7abc7e35c33e0dcd1648" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00W5P5BU2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00W5P5BU2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="/deals/" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
+<a href="https://www.amazon.com/gp/product/B00W5P5BU2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00W5P5BU2&linkCode=as2&tag=hikeve-20&linkId=ff2d0de60ceb7abc7e35c33e0dcd1648" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 ---
 
-## [Sea to Summit Paddle Leash](http://amzn.to/295kdRT)
+<h2><a href="https://www.amazon.com/gp/product/B012NRXPPO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B012NRXPPO&linkCode=as2&tag=hikeve-20&linkId=8726042078b3f76f62040852ba7e887f" rel="nofollow">Sea to Summit Paddle Leash</a></h2>
 The Sea to Summit Paddle Leash is light and assures that you don't loose your paddle on the river. Just attach it to your paddle and to your packraft.
 
 <a href="https://www.amazon.com/gp/product/B012NRXPPO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B012NRXPPO&linkCode=as2&tag=hikeve-20&linkId=8726042078b3f76f62040852ba7e887f" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B012NRXPPO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B012NRXPPO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
