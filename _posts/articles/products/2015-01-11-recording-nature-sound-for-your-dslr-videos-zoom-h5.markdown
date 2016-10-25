@@ -61,6 +61,18 @@ The Sennheiser MKE 600 comes with a foam windshield and a shock mount. However I
 
 ---
 
+# Shock mount
+I am using a <a href="http://amzn.to/2eqJE2f" rel="nofollow" target="_blank">
+Rycote InVision Video Mic Lyre Shockmount</a> to attach my Sennheiser MKE 600 to my Sony A7.
+
+<a href="https://www.amazon.com/gp/product/B002YN87TC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002YN87TC&linkCode=as2&tag=hikeve-20&linkId=5f90b9756621b31c6852a03052a06213" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B002YN87TC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20"  rel="nofollow" target="_blank"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B002YN87TC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+If I plan to attach both - a LED light (see below) and my Sennheiser MKE - to my Sony A7, then I attach also mount a <a href="http://amzn.to/2eH2pwO" rel="nofollow" target="_blank">Rycote 20cm Hot Shoe Extension</a> on my Sony A7.
+
+<a href="https://www.amazon.com/gp/product/B002JBFCKQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002JBFCKQ&linkCode=as2&tag=hikeve-20&linkId=fdba43b0525dc406576809977d70dd60"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B002JBFCKQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20"  rel="nofollow" target="_blank"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B002JBFCKQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+---
+
 # Cables
 To connect the Sennheiser MKE 600 straight to your Sony A7 you would need a <a href="http://amzn.to/2ebT0gZ" rel="nofollow" target="_blank">Sennheiser KA 600</a> cable. If you want to connect your Sennheiser MKE 600 to your Zoom H5 then you should also get a <a href="http://amzn.to/2eG7o0g" rel="nofollow" target="_blank">XLR cable</a>.
 
