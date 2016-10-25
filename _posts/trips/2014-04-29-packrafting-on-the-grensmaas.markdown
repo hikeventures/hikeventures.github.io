@@ -137,7 +137,7 @@ Since a couple of weeks we were thinking of possibilities to go packrafting in t
 <figcaption><br>There was another ferry operating between Millen and Grevenbicht</figcaption></figure>
 <br>
 After we packed our packrafts and gear we walked around in Grevenbicht. The people were quite friendly and communicative. We went to a local bakery and to Albert Heijn to get some food while waiting for the bus to Sittards train station. In general, we enjoyed the second day much more since the Grensmaas had a stronger current and the weather was perfect too once the fog disappered in the morning.
-<br>
+<br><br>
 <h2> Links</h2>
 
 <a href="http://www.movescount.com/moves/move29413524" target="_blank">GPS Data day 1</a>
