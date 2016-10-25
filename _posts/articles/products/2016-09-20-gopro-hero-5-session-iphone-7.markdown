@@ -15,6 +15,8 @@ Recently, GoPro announced it's new GoPro Hero5 Black and it's GoPro Hero5 Sessio
 
 <!--more-->
 
+---
+
 ## Waterproofness
 The GoPro cameras are waterproof down to 10 meters while the iPhone 7 can be submerged 1 meter for half an hour (IP67).
 
@@ -59,9 +61,5 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "a188e5e0d670dce5eb148c0ba05f58f5";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
----
-
-The links on this site contain affiliate links. If you purchase through the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
 
 ---
