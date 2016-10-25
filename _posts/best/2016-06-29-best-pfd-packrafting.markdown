@@ -175,15 +175,6 @@ The Sea to Summit Ultra Flex Booties protect your feet when you walk in the rive
 
 ---
 
-<h2><a href="https://www.amazon.com/gp/product/B012NRXPPO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B012NRXPPO&linkCode=as2&tag=hikeve-20&linkId=8726042078b3f76f62040852ba7e887f" rel="nofollow">Sea to Summit Paddle Leash</a></h2>
-The Sea to Summit Paddle Leash is light and assures that you don't loose your paddle on the river. Just attach it to your paddle and to your packraft.
-
-<a href="https://www.amazon.com/gp/product/B012NRXPPO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B012NRXPPO&linkCode=as2&tag=hikeve-20&linkId=8726042078b3f76f62040852ba7e887f" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B012NRXPPO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B012NRXPPO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-<a href="http://amzn.to/295kdRT" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
-
----
-
 # Conclusion
 Wearing a PFD does not need to be a burdern. The latest PFD's are quite stylish and we hope that we were able to give you some good ideas on which PFD you could get for yourself. We are currently using the Palm Alpha and the Astral Designs YTV PFDs. The Astral Designs V-Eight life jacket was also quite popular among a few paddlers who participated in the [Swedish Packrafting Round-Up 2016](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/). It's probably a good idea to invest a bit money into a good PFD if you plan to go packrafting frequently. Safety goes first!
 
