@@ -30,7 +30,7 @@ First of all it was important to know which type of microphone I would need. The
 * 2 AA batteries needed but can also be powered via USB by using an external battery like the <a href="http://amzn.to/1slxquk">Anker Astro 3</a><br><br>
 
 <a href="https://www.amazon.com/gp/product/B001QWBM62/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001QWBM62&linkCode=as2&tag=hikeve-20&linkId=d6a8d302bce0ac18083d112d2fa605d0" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001QWBM62&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001QWBM62" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
->Zoom H4n Pro is not as expensive as the Zoom H5 but you won't be able to remove the microphone on the H4n Pro
+> Zoom H4n Pro is not as expensive as the Zoom H5 but you won't be able to remove the microphone on the H4n Pro
 
 # Weight Zoom H5
 
