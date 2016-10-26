@@ -19,20 +19,20 @@ Once we are on a spot where the rapid gets stronger and where we cannot see what
 
 ## Step 2: Evaluate
 Once we scouted the rapid, we decide if we should paddle through it or not. Some of the criteria we use in our evaluation process are:
-   
+  
 * Are there any obstacles? Is there a safe way to avoid them?
 * How long is the critical part of the rapid?
 * Do we have enough experience to paddle the critical part of the rapid?
 * Where can we get out of the rapid in case of an emergency situation?
 * How easy or difficult is it to get out of the rapid?
 * Does anyone need to stay on the ground to secure the other?
-* Who wants to go first? 
+* Who wants to go first?
 	  
 ## Step 3: Packraft, Carry or Deflate
-After evaluating the rapid we decide if we should packraft the rapid, carry our packrafts around the critical spots or to deflate our packrafts if we have to carry them for a longer time. 
+After evaluating the rapid we decide if we should packraft the rapid, carry our packrafts around the critical spots or to deflate our packrafts if we have to carry them for a longer time.
 
-[Here][1] you can read about some of our packrafting trips in Scandinavia. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
+> Our packrafting trip in the Sarek National Park in Sweden. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
-How are you dealing with an unknown rapid to have a safe packrafting trip?
 
 [1]:	http://www.hikeventures.com/Best-places-to-visit-in-scandinavia-hiking-backpacking-packrafting/ "5 best places to packraft in Scandinavia"

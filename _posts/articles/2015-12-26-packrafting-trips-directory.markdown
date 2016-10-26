@@ -19,7 +19,7 @@ In our packrafting trips directory you can find packrafting trip ideas from othe
 [Semois River][2] - 2 days / class 2 - A packrafting weekend with 20 other packrafters.
 
 ## Denmark
-[The Harbor of Copenhagen][3] - 1 day / class 1 - The harbor of Copenhagen is a great spot to packraft. Packraft the canals around the medieval town or packraft around the little mermaid or Nyhavn. 
+[The Harbor of Copenhagen][3] - 1 day / class 1 - The harbor of Copenhagen is a great spot to packraft. Packraft the canals around the medieval town or packraft around the little mermaid or Nyhavn.
 
 ## Finland
 [Kymijoki River][4] - 2 days / class 2 - Packrafting gathering South-Eastern Finland with participants from UK, Germany, Finland and France.
@@ -36,15 +36,15 @@ In our packrafting trips directory you can find packrafting trip ideas from othe
 ## Sweden
 [Eman River][8] - 2 days / class 2 - A packrafting adventure in Southern Sweden which can be combined with a visit to the nearby city of Kalmar.
 
-[Trollsjön Lake][9] - 2 days / class 2 - At the Trollsjön lake you have the chance to packrafting on the cleanest lake of Sweden. 
+[Trollsjön Lake][9] - 2 days / class 2 - At the Trollsjön lake you have the chance to packrafting on the cleanest lake of Sweden.
 
-[Fjätan][10] - 7 days / class 3 - In july 2015 I did a pioneer journey down the hole river Fjätan in the county Härjedalen and Dalarna in Northwest Sweden. The river 86km in length is one of the many tributary rivers that build up the big river Österdalsälven from the mountains close to the Swedish - Norwegian border. 
+[Fjätan][10] - 7 days / class 3 - In july 2015 I did a pioneer journey down the hole river Fjätan in the county Härjedalen and Dalarna in Northwest Sweden. The river 86km in length is one of the many tributary rivers that build up the big river Österdalsälven from the mountains close to the Swedish - Norwegian border.
 
 [Voxnan][11] - 6 days / class 3 - The Voxnan river goes through a vast wilderness of Swedish boreal forest and has plenty of rapids. The river is perfect for packrafters who want to get experience with paddling whitewater. Most rapids are graded class 1 to 2 and there is a couple of higher graded rapids as well you either can try or go around. I paddled the river solo in 2014.
 
 [Krokan][12] - 2 days / class 4 - In autumn 2014 Urban Packrafter did a weekend trip to Krokån in Halland, Sweden. Hiked from the small town Vivjunga, Småland, Friday after work and ended in Knäred, Halland. Krokån is a tributary to the river Lagan. The part between Porsebygget and Knäred has approximately nine whitewater sections graded 2-4.
 
-[Savean][13] - 1 day / class 3 - A daytrip to Säveån in Sweden. Säveån is an easy accessible river. 30 minutes away from Gothenburg by public transportation. The river section paddled was between the train stations of Floda and Stenkullen with two major rapids - the Kusaforsen (graded 3-4) and the S-kurvan (graded 2-3). 
+[Savean][13] - 1 day / class 3 - A daytrip to Säveån in Sweden. Säveån is an easy accessible river. 30 minutes away from Gothenburg by public transportation. The river section paddled was between the train stations of Floda and Stenkullen with two major rapids - the Kusaforsen (graded 3-4) and the S-kurvan (graded 2-3).
 
 [Svartedalen][14] - 2 days / class 1 - Started in Grossbyn and paddled over the five lakes Bredvatten, Rödvatten, Torrsgårdsvatten, Kroksjön and Stendammen. Ended up paddling the river Göte Älv to the town of Älvängen. To days, 10 km hiking and 20 km of packrafting.
 
@@ -61,6 +61,9 @@ In our packrafting trips directory you can find packrafting trip ideas from othe
 [South West][19] - 2 days / class 1 - A Bimble around Poole Harbour
 
 [Lake District National Park][20] - 2 days / class 1 - Two days of paddling and wild camping in the sunshine. About as far removed from whitewater as you can get though bonus points should be awarded for having a nap on buttermere.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
+> Our packrafting trip in the Sarek National Park in Sweden. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
 [1]:	https://docs.google.com/forms/d/1NDeTKpJI0kuTqzsSKUMUHhKKlsxSNrYH6UiZOUe3rrw/viewform?usp=send_form
 [2]:	http://www.hikeventures.com/Packrafting-in-Belgium/

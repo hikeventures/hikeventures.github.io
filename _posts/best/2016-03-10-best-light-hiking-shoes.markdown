@@ -11,9 +11,6 @@ layout: post
 ---
 If you are into ultralight hiking then you are probably also interested into my buying guide for the best light summer hiking shoes for 2016. If you are coming from traditional hiking boots then you may notice that lightweight trail shoes can save you a lot of weight.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market and compare the specifications of new shoes. Here comes our hiking shoes buying guide for 2016 (this blog post contains affiliate links).
-
-
 ---
 
 # The best ultralight hiking shoes
@@ -48,14 +45,16 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 </table>
 </div>
 <!--more-->
+
 <hr>
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new shoes. Here comes our hiking shoes buying guide for 2016 (this blog post contains affiliate links).
+
+
 <hr>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
+> On our packrafting trip in the Sarek National Park in Sweden we had an Inov-8 Roclite 295 with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15189713140/in/album-72157646473352583/" title="Kurjenrahka National Park"><img src="https://c5.staticflickr.com/3/2942/15189713140_cf23bd9412_b.jpg" width="100%" alt="The best ultralight hiking shoes 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
----
+<hr>
 
 # Advantages of ultralight hiking shoes
 
@@ -64,7 +63,7 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 * They dry faster.
 * Sometimes they costs are lower.
 
----
+
 
 # Disadvantages of ultralight hiking shoes
 
@@ -72,11 +71,9 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 * Ultralight Hiking Shoes won't give you much support when carry a heavier backpack.
 * Durability can be an issue if your shoe is made of very thin and leightweight materials.
 
----
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15189713140/in/album-72157646473352583/" title="Kurjenrahka National Park"><img src="https://c5.staticflickr.com/3/2942/15189713140_cf23bd9412_b.jpg" width="100%" alt="The best ultralight hiking shoes 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9596183907/in/album-72157646473352583/" title="SDIM4200"><img src="https://c4.staticflickr.com/4/3815/9596183907_732d266e5d_b.jpg" width="1024" height="683" alt="SDIM4200" alt="The best ultralight hiking shoes 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8" ></script>
-
-My Inov-8 ultralight hiking shoes on [our hiking trip](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) in the Sarek National Park in Sweden. I had constantly wet feet.
+My Inov-8 ultralight hiking shoes on [our hiking trip](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) in Finland.
 
 ---
 
@@ -84,12 +81,12 @@ My Inov-8 ultralight hiking shoes on [our hiking trip](http://www.hikeventures.c
 
 **Weight:** 282 grams
 
-<a  href="http://www.amazon.com/gp/product/B00QTCYO1E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QTCYO1E&linkCode=as2&tag=hikeve-20&linkId=XWRB6N6GRHOGOXFB"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00QTCYO1E&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00QTCYO1E" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="http://www.amazon.com/gp/product/B00QTCYO1E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QTCYO1E&linkCode=as2&tag=hikeve-20&linkId=XWRB6N6GRHOGOXFB" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00QTCYO1E&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00QTCYO1E" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The ROCLITE 282 GTX promises a combination of natural movement and flexibility with breathability offered by Gore flex with its 1.4 billion pores per square centimeter which makes the Roclite 282 watertight. The outsole of the Roclite 282 GTX offers good grip on wet rocks.
 
 
-<a href="http://www.backcountry.com/inov-8-roclite-282-gtx-trail-running-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Inov-8 Roclite 282 GTX</button></a>
+<a href="http://www.backcountry.com/inov-8-roclite-282-gtx-trail-running-shoe-mens" rel="nofollow"><button type="button" class="btn btn-danger">Buy</button></a>
 
 ---
 
@@ -97,11 +94,11 @@ The ROCLITE 282 GTX promises a combination of natural movement and flexibility w
 
 **Weight:** 349 grams
 
-<a  href="http://www.amazon.com/gp/product/B0113P30VG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0113P30VG&linkCode=as2&tag=hikeve-20&linkId=DVTNAJVQHSVBFXM5"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0113P30VG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0113P30VG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="http://www.amazon.com/gp/product/B0113P30VG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0113P30VG&linkCode=as2&tag=hikeve-20&linkId=DVTNAJVQHSVBFXM5" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0113P30VG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0113P30VG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The Adidas Terrex Solo are flexible shoes with a breathable mesh upper. The Terrex Solo also has a Stealth® rubber toe cap to protect your toes and the TRAXION™ outsole should provide a god grip.
 
-<a href="http://www.backcountry.com/adidas-outdoor-terrex-solo-approach-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Adidas Terrex Solo</button></a>
+<a href="http://www.backcountry.com/adidas-outdoor-terrex-solo-approach-shoe-mens" rel="nofollow"><button type="button" class="btn btn-danger">Buy</button></a>
 
 ---
 
@@ -109,11 +106,11 @@ The Adidas Terrex Solo are flexible shoes with a breathable mesh upper. The Terr
 
 **Weight:** 411 grams
 
-<a  href="http://www.amazon.com/gp/product/B00L1RI2T2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00L1RI2T2&linkCode=as2&tag=hikeve-20&linkId=FZUPTISQVG3NFLKT"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00L1RI2T2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00L1RI2T2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="http://www.amazon.com/gp/product/B00L1RI2T2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00L1RI2T2&linkCode=as2&tag=hikeve-20&linkId=FZUPTISQVG3NFLKT" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00L1RI2T2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00L1RI2T2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The Adidas Terrex Fast R GTX are light athletic shoes which are - due to their protective weldings and a grippy Continental™ Rubber outsole - also suitable to wear on the mountain.
 
-<a href="http://www.backcountry.com/adidas-outdoor-terrex-fast-r-gtx-hiking-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Terrex Fast R GTX</button></a>
+<a href="http://www.backcountry.com/adidas-outdoor-terrex-fast-r-gtx-hiking-shoe-mens" rel="nofollow"><button type="button" class="btn btn-danger">Buy</button></a>
 
 ---
 
@@ -121,11 +118,11 @@ The Adidas Terrex Fast R GTX are light athletic shoes which are - due to their p
 
 **Weight:** 480 grams
 
-<a  href="http://www.amazon.com/gp/product/B001Q09DFG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001Q09DFG&linkCode=as2&tag=hikeve-20&linkId=FSSAENSQWIPARDEA"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001Q09DFG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B001Q09DFG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="http://www.amazon.com/gp/product/B001Q09DFG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001Q09DFG&linkCode=as2&tag=hikeve-20&linkId=FSSAENSQWIPARDEA" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001Q09DFG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B001Q09DFG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The Scarpa Zen Pro comes with a Vibram sole and PU-injected leather along the side to improve abrasion resistance. The Scarpa Zen Pro is a quite popular shoe and many like it's grip and feel on the foot.
 
-<a href="http://www.backcountry.com/scarpa-zen-pro-hiking-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Scarpa Zen Pro</button></a>
+<a href="http://www.backcountry.com/scarpa-zen-pro-hiking-shoe-mens" rel="nofollow"><button type="button" class="btn btn-danger">Buy</button></a>
 
 ---
 
@@ -135,10 +132,10 @@ The Scarpa Zen Pro comes with a Vibram sole and PU-injected leather along the si
 
 The most innovative part in the Arcteryx Acrux2 FL GTX are probably the removable and interchangeable footwear liners for different weather and terrain conditions (for example use a more insulated layer if you are planning to go hiking in a colder environment). The Arcteryx Acrux2 FL GTX  comes with a GORE-TEX® liner makes the shoe waterproof. The Vibram® sole gives the Acrux2 also a safe grip in the field. The Arcteryx Acrux2 is also made of fast drying materials.
 
-<a  href="http://www.amazon.com/gp/product/B00O4CHAL2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00O4CHAL2&linkCode=as2&tag=hikeve-20&linkId=QBJ2UINAADDHALYZ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00O4CHAL2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00O4CHAL2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="http://www.amazon.com/gp/product/B00O4CHAL2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00O4CHAL2&linkCode=as2&tag=hikeve-20&linkId=QBJ2UINAADDHALYZ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00O4CHAL2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00O4CHAL2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
-<a href="http://www.backcountry.com/arcteryx-acrux2-fl-approach-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Acrux² FL GTX Approach</button></a>
+<a href="http://www.backcountry.com/arcteryx-acrux2-fl-approach-shoe-mens" rel="nofollow"><button type="button" class="btn btn-danger">Buy</button></a>
 
 ---
 
@@ -156,7 +153,7 @@ amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_title = "Ultralight Hiking Shoes Suggestions";
+amzn_assoc_title = "Amazon Search Results";
 amzn_assoc_default_search_phrase = "Inov-8 Roclite";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "0d18f88262f19f39fc7a13f07ae2563b";

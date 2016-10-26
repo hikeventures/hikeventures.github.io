@@ -13,7 +13,7 @@ Interested in Paddling and Whitewater packrafting courses in Europe? Here are a 
 
 [Two Against Nature - Packrafting Suilven](http://www.songofthepaddle.co.uk/forum/showthread.php?52516-Two-Against-Nature-To-Suilven-and-Beyond).
 
-Injuring Eternity has been to the [Forsfest Carnage](https://injuringeternity.net/2016/10/11/forsfest-carnage/).
+Injuring Eternity has been to the [Forsfest 2016](https://injuringeternity.net/2016/10/11/forsfest-carnage/) in Sweden.
 
 American Packrafting Association posted a video about the [Packrafting Round-Up 2016](https://vimeo.com/187153577).
 

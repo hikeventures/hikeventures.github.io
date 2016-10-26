@@ -16,7 +16,7 @@ I have tried a couple of water bottles in the past when I went hiking, backpacki
 
 <!--more-->
 
-It's quite easy to read how much water is left in the Nalgene bottle due to the large printing. What's more, the Nalgene bottle is also BPA free. The tag also states that you can wash the Nalgene bottle in a dish washer. The weight of the bottle is 179 grams and can handle a temperature range from -40C to 100C. 
+It's quite easy to read how much water is left in the Nalgene bottle due to the large printing. What's more, the Nalgene bottle is also BPA free. The tag also states that you can wash the Nalgene bottle in a dish washer. The weight of the bottle is 179 grams and can handle a temperature range from -40C to 100C.
 
 <a href="https://www.flickr.com/photos/90204224@N07/17785797075" title="Packrafting in the Archipelago Sea by HikeVentures, on Flickr"><img src="https://c2.staticflickr.com/8/7707/17785797075_e1ffb9e79e_b.jpg" width="1024" height="768" alt="Packrafting in the Archipelago Sea"></a>
 
@@ -28,7 +28,7 @@ Initially, I was reluctant to buy this water bottle as I thought it's just an av
 
 <a href="https://www.flickr.com/photos/90204224@N07/17783118222" title="Nalgene Everyday water bottle"><img src="https://c2.staticflickr.com/6/5344/17783118222_65d04aeb17_b.jpg" width="100%" alt="Nalgene Everyday water bottle"></a>
 
-<a href="http://www.backcountry.com/nalgene-wide-mouth-tritan-bottle-32oz"><button type="button" class="btn btn-danger">Read more about the Nalgene Bottle</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
 
 ---
 

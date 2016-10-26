@@ -3,7 +3,7 @@ title: Layering Clothing for Packrafting
 description: How to layer your clothing when you go packrafting
 date: 2014-11-15 16:11:42
 category: articles
-tags: 
+tags:
   - articles
   - packrafting
 layout: post
@@ -56,9 +56,12 @@ The [Latex Socks](http://www.packrafting-store.de/Clothing/Latex-socks::380.html
 ### Anfibio Packsuit
 A dry suite is the most expensive item in our Clothing Layering System. The [Anfibio Packsuit](http://www.packrafting-store.de/Clothing/Anfibio-Packsuit::378.html) is our dry suite. It's reasonably priced compared to other products and works quite well for us so far. You have to adjust the collar when you buy a new one so it snugs nicely around your throat.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/14057310391" title="Grensmaas Packrafting-27"><img src="https://farm8.staticflickr.com/7316/14057310391_1452e3b082_b.jpg" width="1024" height="683" alt="Packrafting Clothes and Gear - Petzl Meteor Helmet - Werner Shuna Paddles - HMG Porter 4400"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+---
 
-Konstantin adjusting his backpack on [our trip](http://hikeventures.com/packrafting-on-the-grensmaas/) in the Netherlands
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KWnlN7klqJI" frameborder="0" allowfullscreen></iframe>
+> Caj testing his dry suite.  <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
+
+---
 
 It's also a good idea to have specific clothes for the summer like the [Icebreaker Cool-Lite Sphere T-Shirt](http://www.sierratradingpost.com/item~p~9674t/) or the [Astral Designs V-Eight PFD](https://www.rei.com/product/881421/astral-v-eight-pfd).
 

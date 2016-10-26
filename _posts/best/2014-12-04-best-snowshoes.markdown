@@ -11,9 +11,6 @@ layout: post
 ---
 We have been snowshoing in Finnish Lapland and in the Austrian Alps last year and we decided to come up with a list with the best snowshoes for 2016 which we would consider to buy and share it with you. Snowshoes are quite useful if you are planning to ascent a mountain or walk in powder snow. Snowshoeing is easy to learn and not that expensive. Also consider to get a pair of [snowshoe poles][1] for your snowshoeing trips as they will help you a lot on your snowshoeing adventure.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market and compare the specifications of new snowshoes. Here comes our snowshoe buying guide for 2016 (this blog post contains affiliate links).
-
-
 ---
 
 # The best snowshoes 2016
@@ -53,15 +50,15 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 </div>
 <!--more-->
 
-<hr>
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
-<hr>
+---
+
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new snowshoes. Here comes our snowshoe buying guide for 2016 (this blog post contains affiliate links).
 
 
-<a href="https://www.flickr.com/photos/90204224@N07/18240641010" title="Best snowhoes of 2016"><img src="https://c4.staticflickr.com/8/7780/18240641010_a4f51acf96_o.jpg" width="992" height="659" alt="Best Snowshoes of 2016"></a><!--more-->
+---
 
-On the picture you can see me walking with my Tubbs Xpedition snowshoes in [Finnish Lapland][3].
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IG-hPfj-d1M" frameborder="0" allowfullscreen></iframe>
+> Snowshoeing and skiing in Finnish Lapland. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
 ---
 
@@ -69,9 +66,15 @@ Considering your own body and gear weight is important when choosing your snowsh
 
 ---
 
+<a href="https://www.flickr.com/photos/90204224@N07/18240641010" title="Best snowhoes of 2016"><img src="https://c4.staticflickr.com/8/7780/18240641010_a4f51acf96_o.jpg" width="992" height="659" alt="Best Snowshoes of 2016"></a><!--more-->
+
+On the picture you can see me walking with my Tubbs Xpedition snowshoes in [Finnish Lapland][3].
+
+---
+
 ## [MSR Lightning Ascent 25][4]
 
-<a href="http://www.amazon.com/gp/product/B00LFJNHQ4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNHQ4&linkCode=as2&tag=hikeve-20&linkId=YIDJETI36CMR7GF4"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJNHQ4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJNHQ4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.com/gp/product/B00LFJNHQ4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNHQ4&linkCode=as2&tag=hikeve-20&linkId=YIDJETI36CMR7GF4" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJNHQ4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJNHQ4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **weight:** 1780 grams  
 **application:** mountain  
@@ -83,13 +86,13 @@ Considering your own body and gear weight is important when choosing your snowsh
 * Optional, 5-inch (13-cm) tails for improved flotation   
 * Torsion2 crampons
 
-<a href="http://www.backcountry.com/msr-lightning-ascent"><button type="button" class="btn btn-danger">Read more about the MSR Lightning Ascent 25</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://amzn.to/2evU8vs" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 ---
 
 ## [Tubbs FLEX VRT 24][5]
 
-<a href="http://www.amazon.com/gp/product/B00Q904HD6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q904HD6&linkCode=as2&tag=hikeve-20&linkId=775ITK4RI5T2U3CQ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q904HD6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q904HD6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.com/gp/product/B00Q904HD6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q904HD6&linkCode=as2&tag=hikeve-20&linkId=775ITK4RI5T2U3CQ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q904HD6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q904HD6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **weight:** 2040 grams  
 **application:** mountain  
@@ -99,13 +102,13 @@ Considering your own body and gear weight is important when choosing your snowsh
 * DYNAMICFIT BINDING
 * FLEXTail
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Tubbs-Men-s-Flex-VRT-Snowshoe_10259131_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Tubbs Men's FLEX VRT 24</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://amzn.to/2evSOZo" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 ---
 
 ## [MSR Lightning Explore 25][6]
 
-<a href="http://www.amazon.com/gp/product/B00LFJNWGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNWGO&linkCode=as2&tag=hikeve-20&linkId=5DOFWDAR6SHYQAWV"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJNWGO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJNWGO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.com/gp/product/B00LFJNWGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNWGO&linkCode=as2&tag=hikeve-20&linkId=5DOFWDAR6SHYQAWV" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJNWGO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJNWGO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **weight:** 1870 grams  
 **application:** mountain  
@@ -116,13 +119,13 @@ Considering your own body and gear weight is important when choosing your snowsh
 * Ergo Televators
 * Optional, 5-inch (13-cm) tails for improved flotation
 
-<a href="http://www.backcountry.com/msr-lightning-explore-snowshoe-mens"><button type="button" class="btn btn-danger">Read more about the MSR Lightning Explore 25</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://www.hikeventures.com/deals/#MSR+Lightning+Explore+25" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Compare prices</button></a>
 
 ---
 
 ## [MSR Revo Ascent 25][7]
 
-<a href="http://www.amazon.com/gp/product/B00LFJO5NI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJO5NI&linkCode=as2&tag=hikeve-20&linkId=ADHSRTEBIYMKSWHX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJO5NI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJO5NI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.com/gp/product/B00LFJO5NI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJO5NI&linkCode=as2&tag=hikeve-20&linkId=ADHSRTEBIYMKSWHX" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJO5NI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJO5NI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **weight:** 1970 grams  
 **application:** mountain  
@@ -132,13 +135,13 @@ Considering your own body and gear weight is important when choosing your snowsh
 * Ergo Televators
 * Optional, 5-inch (13-cm) tails for improved flotation
 
-<a href="http://www.backcountry.com/msr-revo-ascent-snowshoe-mens"><button type="button" class="btn btn-danger">Read more about the MSR Revo Ascent 25</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://amzn.to/2ea20qB" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 ---
 
 ## [Tubbs Xpedition 25][8]
 
-<a href="http://www.amazon.com/gp/product/B00ECPPX8S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ECPPX8S&linkCode=as2&tag=hikeve-20&linkId=HCYZ4YFLRZOVRSLA"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ECPPX8S&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00ECPPX8S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.com/gp/product/B00ECPPX8S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ECPPX8S&linkCode=as2&tag=hikeve-20&linkId=HCYZ4YFLRZOVRSLA" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ECPPX8S&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00ECPPX8S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **weight:** 2090 grams  
 **application:** mountain
@@ -147,13 +150,13 @@ Considering your own body and gear weight is important when choosing your snowsh
 * Carbon steel Cobra toe crampon
 * Grappler heel cleat
 
-<a href="http://www.backcountry.com/tubbs-xpedition-snowshoe-mens"><button type="button" class="btn btn-danger">Read more about the Tubbs Men's Xpedition 25</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://amzn.to/2evSQR0" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 ---
 
 ## [Atlas 12 Series][9]
 
-<a  href="http://www.amazon.com/gp/product/B0000AN4EK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000AN4EK&linkCode=as2&tag=hikeve-20&linkId=4JUOH2Q6ICUQI46M"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0000AN4EK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0000AN4EK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="http://www.amazon.com/gp/product/B0000AN4EK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000AN4EK&linkCode=as2&tag=hikeve-20&linkId=4JUOH2Q6ICUQI46M" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0000AN4EK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0000AN4EK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **weight:** 2100 grams  
 **application:** backcountry & mountain
@@ -165,7 +168,7 @@ Considering your own body and gear weight is important when choosing your snowsh
 * Spring-loaded suspension
 * Duratek Decking
 
-<a href="http://www.backcountry.com/atlas-12-series-snowshoe"><button type="button" class="btn btn-danger">Read more about the Atlas 12 Series</button></a>  <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="http://amzn.to/2eTG0PH" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 ---
 
@@ -207,7 +210,7 @@ amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_title = "Snowshoes Suggestions";
+amzn_assoc_title = "Amazon Search Results";
 amzn_assoc_default_search_phrase = "snowshoes";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";

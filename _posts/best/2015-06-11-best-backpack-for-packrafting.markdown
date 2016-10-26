@@ -12,12 +12,9 @@ layout: post
 ---
 In this blog post I would like to present the best backpacks with are available for packrafting. Having used the [HMG Porter 4400](https://www.hyperlitemountaingear.com/4400-porter.html)  for the last 3 years on my packrafting trips I was interested to see which alternatives would be available on the market. Gernerally, speaking I was not able to find any alternative to the HMG Porter 4400 which is that light and feels like a proper backpack when I bought it.
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market and compare the specifications of new backpacks. Here comes our down backpack buying guide for 2016 (this blog post contains affiliate links).
-
-
 ---
 
-# Overview of the best backpacks for packrafting
+# The best backpacks for packrafting
 
 <div class="table-responsive">
 <table class="table table-hover table-bordered list_items">
@@ -49,15 +46,19 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
 <!--more-->
 
-<hr>
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
+
 <hr>
 
-<a href="https://www.flickr.com/photos/90204224@N07/13979508784" title="The best backpack for packrafting"><img src="https://c2.staticflickr.com/8/7211/13979508784_43bee1910b_b.jpg" width="1024" height="683" alt="HMG Porter 4400 Alpack Pack Packraft - Best Backpack for Packrafting"></a>
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new backpacks. Here comes our down backpack buying guide for 2016 (this blog post contains affiliate links).
+
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
+> On our packrafting trip in the Sarek National Park in Sweden we had a HMG Porter with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
 <!--more-->
 
----
+<hr>
 
 # Features of a good packrafting backpack
 
@@ -72,7 +73,7 @@ From my point of view a good packrafting backpack should have the following feat
 * lightweight
 * attachable to your packraft
 
----
+<hr>
 
 ## [HMG Windrider 4400](https://www.hyperlitemountaingear.com/4400-windrider.html)
 The HMG Windrider is similar as the HMG Porter 4400 but comes already with three mesh pockets which I find quite useful if you want to quickly store some gear. This is probably the best lightweight packrafting backpack you can buy at the moment.
@@ -81,9 +82,13 @@ The HMG Windrider is similar as the HMG Porter 4400 but comes already with three
 **Volume:** 70l  
 **Fabric:** 15D Cuben Fiber  
 
-<a href="https://www.hyperlitemountaingear.com/4400-windrider.html"><button type="button" class="btn btn-danger">Read more about the HMG Windrider 4400</button></a>  <a href="/deals/#windrider+4400" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#windrider+4400" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
----
+<hr>
+
+<a href="https://www.flickr.com/photos/90204224@N07/13979508784" title="The best backpack for packrafting"><img src="https://c2.staticflickr.com/8/7211/13979508784_43bee1910b_b.jpg" width="1024" height="683" alt="HMG Porter 4400 Alpack Pack Packraft - Best Backpack for Packrafting"></a>
+
+<hr>
 
 ## [HMG Porter 4400](https://www.hyperlitemountaingear.com/4400-porter.html)
 This is my current backpack with a volume of 70l. It felt comfortable to carry also on longer distances but after 2 years it shows some wear and has a couple of punctures. The HMG Porter is made of Cuben Fiber but I am not sure if I should get another one since I found the fabric not that durable and with punctures on my backpack the backpack loses it's main feature - being waterproof.
@@ -92,7 +97,7 @@ This is my current backpack with a volume of 70l. It felt comfortable to carry a
 **Volume:** 70l  
 **Fabric:** 15D Cuben Fiber
 
-<a href="https://www.hyperlitemountaingear.com/4400-porter.html"><button type="button" class="btn btn-danger">Read more about the HMG Porter 4400</button></a>  <a href="/deals/#Porter+4400" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#Porter+4400" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -103,7 +108,7 @@ The Sea to Summit Hydraulic Dry Packs looked to me as an interesting alternative
 **Volume:** 90l  
 **Fabric:** 600D TPU laminated fabric
 
-<a href="http://www.backcountry.com/sea-to-summit-hydraulic-dry-pack"><button type="button" class="btn btn-danger">Read more about the Sea to Summit Hydraulic Dry Pack</button></a>  <a href="/deals/#Sea+to+summit+hydraulic+dry+pack" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#Sea+to+summit+hydraulic+dry+pack" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -113,7 +118,7 @@ The ULA Epic seems to be the best choice beside the NRS Paragon Pack if I want t
 **Weight:** 922 grams (without dry sack)  
 **Volume:** 30-75l  
 
-<a href="http://www.ula-equipment.com/product_p/epic.htm?avad=150351_eb5dd49b"><button type="button" class="btn btn-danger">Read more about the ULA Epic</button></a>  <a href="/deals/"><button type="button" class="btn btn-warning" target="_blank">Check for Discounts</button></a> <a href="/deals/#ula+epic" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#ula+epic" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -122,7 +127,7 @@ The NRS Paragon Pack is quite versatile like the ULA Epic and you can use smalle
 
 **Weight:** 1179 grams (without dry sack)
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_NRS-Paragon-Pack_10275460_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the  NRS Paragon</button></a> <a href="/deals/#nrs+paragon+pack" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#nrs+paragon+pack" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 
@@ -133,7 +138,7 @@ My favorite backpack so far was the [HMG Porter 4400](https://www.hyperlitemount
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "true";
+amzn_assoc_search_bar = "false";
 amzn_assoc_tracking_id = "hikeve-20";
 amzn_assoc_search_bar_position = "top";
 amzn_assoc_ad_mode = "search";

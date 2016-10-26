@@ -9,9 +9,7 @@ tags:
   - jackets
 layout: post
 ---
-Do you need a new down jacket for the winter or for a cold summer night during a hike? Here is our buying guide[^1] of the best summer and winter down jackets which we have selected for 2016. We have selected a broad range of down jackets which can be worn in different conditions and for different activities like hiking, backpacking, skiing, snowboarding, mountaineering, climbing or any other backcountry outdoor adventure.
-
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports][1]) and even so we are not able to test every product, we follow the market and compare the specifications of new jackets. Here comes our down jacket buying guide for 2016 (this blog post contains affiliate links).
+Do you need a new down jacket for the winter or for a cold summer night during a hike? Here is our buying guide of the best summer and winter down jackets which we have selected for 2016. We have selected a broad range of down jackets which can be worn in different conditions and for different activities like hiking, backpacking, skiing, snowboarding, mountaineering, climbing or any other backcountry outdoor adventure.
 
 <hr>
 
@@ -39,13 +37,12 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
         <tr>
           <td><a href="http://amzn.to/2e7TgPr" target="_blank" rel="nofollow">Western Mountaineering Flash Jacket (850fp)</a></td><td>290g</td>
         </tr>
-
         <tr>
-          <td><a href="http://amzn.to/2elEHtO" target="_blank" rel="nofollow">Marmot Quasar Hoody (900fp)</a></td><td>372g</td>
+          <td><a href="http://amzn.to/2eGhePW" target="_blank" rel="nofollow">Canada Goose Hybridge Lite Jacket (800fp)</a></td><td>331g</td>
         </tr>
 
         <tr>
-          <td><a href="http://amzn.to/2ek1RxR" target="_blank" rel="nofollow">The North Face Premonition Jacket (800fp)</a></td><td>440g</td>
+          <td><a href="http://amzn.to/2elEHtO" target="_blank" rel="nofollow">Marmot Quasar Hoody (900fp)</a></td><td>372g</td>
         </tr>
 
         <tr>
@@ -76,9 +73,26 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
       </table>
 </div>
-<!--mmore-->
+<!--more-->
+
 <hr>
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
+We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new jackets. Here comes our down jacket buying guide for 2016 (this blog post contains affiliate links).
+
+
+<hr>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
+> On our packrafting trip in the Sarek National Park in Sweden we had also down jackets with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
+
+<hr>
+
+The down jackets we have selected have a fill power of 800 and more since they offer the best warmth-weight ratio and are considered to be lightweight down jackets. We have included down jackets which you can use as a 3-season down jacket as well as winter down jackets. The lighter jackets usually come with less down and are more suitable for warmer months or as a mid-layer during the winter. Of course there are also super warm down jackets which are made for arctic conditions but they are also super heavy. An example would be the <a href="http://amzn.to/2ej08JL" rel="nofollow" target="_blank">Canada Goose Expedition Parka</a>.
+
+Sometimes you might also get a down jacket for a significant lower price especially at the end of the season when stores want to clear their stock. In many cases the new models just come with a different color so it's worth to have a look on the old models as well.
+
+<!--more-->
+
 <hr>
 
 <a href="https://www.flickr.com/photos/90204224@N07/18424590651" title="best down jackets 2016"><img src="https://c2.staticflickr.com/8/7793/18424590651_c838138d3d_o.jpg" width="100%" alt="best down jackets 2016"></a>
@@ -87,15 +101,8 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland][2].
 
 <hr>
 
-The down jackets we have selected are sorted by weight and we have just selected goose down jackets with a fill power of 800 and more since they offer the best warmth-weight ratio and are considered to be lightweight down jackets. We have included down jackets which you can use as a 3-season down jacket as well as winter down jackets. The lighter jackets usually come with less down and are more suitable for warmer months or as a mid-layer during the winter.
+<h2><a href="http://amzn.to/2doK4aj" target="_blank" rel="nofollow">Mountain Hardware Ghost Whisperer Hooded Down Jacket</a></h2>
 
-Sometimes you might also get a down jacket for a significant lower price especially at the end of the season when stores want to clear their stock. In many cases the new models just come with a different color so it's worth to have a look on the old models as well. <a href="http://www.hikeventures.com/deals/" target="_blank">Here</a> you can find discounts and compare prices of different stores in the U.S.
-
-<!--more-->
-
-<hr>
-
-## [Mountain Hardware Ghost Whisperer Hooded Down Jacket (800fp)][3]
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GULW0DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GULW0DS&linkCode=as2&tag=hikeve-20&linkId=RSEZE3QFDW2FVB3A" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GULW0DS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GULW0DS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -103,11 +110,11 @@ Sometimes you might also get a down jacket for a significant lower price especia
 
 The Mountain Hardware Ghost Whisperer Hooded Down Jacket is one of the lightest down jackets available. This is a great jacket for camping during spring, summer and autumn or as a light mid-layer for the winter. If you are looking for a proper winter jacket then we would rather pick the Rab Infinity Endurance or the Rab Positron jacket. For a stylish jacket to use during winter mainly in town we would go for the Arcteryx Ceres jacket.
 
-<a href="http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Ghost Whisperer Hooded Down Jacket</button></a>  <a href="http://www.hikeventures.com/deals/#ghost+whisperer+hooded" target="_blank"><button type="button" class="btn btn-warning">Compare Prices</button></a>
+<a href="http://amzn.to/2doK4aj" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
----
+<hr>
 
-## [Arcteryx Cerium LT Hoody (850fp)][4]  
+<h2><a href="http://amzn.to/2doJmJP" target="_blank" rel="nofollow">Arcteryx Cerium LT Hoody (850fp)</a></h2>
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00Q9MHXN0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q9MHXN0&linkCode=as2&tag=hikeve-20&linkId=Y5N4EYNVYQ5UDXXJ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q9MHXN0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q9MHXN0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/>
 
@@ -115,11 +122,11 @@ The Mountain Hardware Ghost Whisperer Hooded Down Jacket is one of the lightest 
 
 Similar as the Arcteryx Cerium LT Jacket just with a hoodie. We would pick the Cerium LT Hoody if we would have to choose a down jacket for moderate winter or for camping during spring and autumn. LT stands for lightweight in the Arcteryx product line.
 
-<a href="http://www.backcountry.com/arcteryx-cerium-lt-hooded-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Cerium LT Hoody</button></a>  <a href="http://www.hikeventures.com/deals/#arcteryx+cerium+LT+hoody" target="_blank"><button type="button" class="btn btn-warning">Compare Prices</button></a>
+<a href="http://amzn.to/2doJmJP" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
----
+<hr>
 
-## [Western Mountaineering Flash Jacket (850fp)][5]  
+<h2><a href="http://amzn.to/2e7TgPr" target="_blank" rel="nofollow">Western Mountaineering Flash Jacket (850fp)</a></h2>  
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00O85G9XA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00O85G9XA&linkCode=as2&tag=hikeve-20&linkId=T3YZSF3ZRC6WCK3I" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00O85G9XA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00O85G9XA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/>
 
@@ -127,11 +134,11 @@ Similar as the Arcteryx Cerium LT Jacket just with a hoodie. We would pick the C
 
 The Western Mountaineering Flash Jacket is a very good jacket for hiking trips in moderate cold conditions (spring and autumn). It's lightweight, has a good warmth-weight ratio and the full zipper have insulated draft protection.
 
-<a href="http://www.backcountry.com/western-mountaineering-flash-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Flash Jacket</button></a> <a href="http://www.hikeventures.com/deals/#western+flash+jacket" target="_blank"><button type="button" class="btn btn-warning">Compare Prices</button></a>
+<a href="http://amzn.to/2e7TgPr" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
----
+<hr>
 
-## [Marmot Quasar Hoody (900fp)][6]  
+<h2><a href="http://amzn.to/2elEHtO" target="_blank" rel="nofollow">Marmot Quasar Hoody (900fp)</a></h2>
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00DNNZ3KI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DNNZ3KI&linkCode=as2&tag=hikeve-20&linkId=UITTBILMF3IBYVRI"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DNNZ3KI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DNNZ3KI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -139,23 +146,23 @@ The Western Mountaineering Flash Jacket is a very good jacket for hiking trips i
 
 The Marmot Quasar Hoody is also an interesting jacket with it's high down fill power covered by light Pertex Quantum fabric (similar as other models in our list) which makes it also somewhat water repellent. The additional zip on the front adds a little bit more weight to the jacket. We would wear the Marmot Quasar Hoody during moderate winter or camping during spring and summer.
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Marmot-Men-s-Quasar-Hoody_10221652_10208_10000001_-1"><button type="button" class="btn btn-danger">Read more about the Quasar Hoody</button></a>  <a href="http://www.hikeventures.com/deals/#marmot+quasar+hoody" target="_blank"><button type="button" class="btn btn-warning">Compare Prices</button></a>
+<a href="http://amzn.to/2elEHtO" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
----
+<hr>
 
-## [The North Face Premonition Jacket (800fp)][7]  
+<h2><a href="http://amzn.to/2eGhePW" target="_blank" rel="nofollow">Canada Goose Hybridge Lite Jacket (800fp)</a></h2>
 
-<a rel="nofollow" href="https://www.amazon.com/gp/product/B018TRHCEM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B018TRHCEM&linkCode=as2&tag=hikeve-20&linkId=71b828b2050fcce419c4374194f37eb5"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B018TRHCEM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B018TRHCEM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B00DNEDJAS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DNEDJAS&linkCode=as2&tag=hikeve-20&linkId=7b16c6297f7c608278d0e97854d312d4" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00DNEDJAS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00DNEDJAS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 415g
+**Weight:** 331g
 
-The North Face Premonition Jacket is part of The North Faces Steep Series collection for on-mountain performance like snowboarding, skiing or climbing. It features two internal pockets and two hand pockets as well as a chest pocket. It also has an under-helmet fitted hood and a relaxed ergo fit.
+The Canada Goose Hybridge Lite Jacket is made for temperatures down to -5C. I would wear this jacket on milder winter days or when camping throughout the year. The Hybridge Lite Jacket can be packed into the exterior left hand pocket so it's great to carry around in your backpack as it does not take to much space away.
 
-<a href="http://www.backcountry.com/the-north-face-premonition-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Premonition Jacket</button></a> <a href="http://www.hikeventures.com/deals/#premonition+jacket" target="_blank"><button type="button" class="btn btn-warning">Compare Prices</button></a>
+<a href="http://amzn.to/2eGhePW" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
----
+<hr>
 
-## [Arcteryx Cerium SV Hoody (850fp)][8]  
+<h2><a href="http://amzn.to/2dBjOHV" target="_blank" rel="nofollow">Arcteryx Cerium SV Hoody (850fp)</a></h2>
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GW80Q9E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW80Q9E&linkCode=as2&tag=hikeve-20&linkId=WCQGDJJ5MREZ5EUX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW80Q9E&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW80Q9E" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -163,11 +170,11 @@ The North Face Premonition Jacket is part of The North Faces Steep Series collec
 
 The Arcteryx Cerium SV Hoody is part of Arcteryx severe weather product line - most durable materials which provides most weather protection. We would wear this jacket during the winter. For camping during spring and summer it's probably going to be a bit too warm.
 
-<a href="http://www.backcountry.com/arcteryx-cerium-sv-hooded-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Cerium SV Hoody</button></a> <a href="http://www.hikeventures.com/deals/#arcteryx+cerium+sv+jacket" target="_blank"><button type="button" class="btn btn-warning">Compare Prices</button></a>
+<a href="http://amzn.to/2dBjOHV" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
----  
+<hr>
 
-## [Patagonia Men's Down Hooded Jacket (800fp)][9]  
+<h2><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Patagonia Men's Down Hooded Jacket (800fp)</a></h2>  
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00OZGABKY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OZGABKY&linkCode=as2&tag=hikeve-20&linkId=OLFQERZDADI4UC3J"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00OZGABKY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00OZGABKY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -175,11 +182,11 @@ The Arcteryx Cerium SV Hoody is part of Arcteryx severe weather product line - m
 
 Patagonia is another popular outdoor brand and delivers a super light down jacket which comes with 2 zipped hand warmer pockets and elastic-bound cuffs and hem. The shell of the jacket is durable water repellent. The Patagonia Men's Down Hooded Jacket can be used as a light winter jacket.
 
-<a href="http://www.backcountry.com/patagonia-hi-loft-down-hooded-sweater-mens"><button type="button" class="btn btn-danger">Read more about the Patagonia Down Hooded Jacket</button></a> <a href="http://www.hikeventures.com/deals/#patagonia+down+hooded" target="_blank"><button type="button" class="btn btn-warning">Compare Prices</button></a>
+<a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
----
+<hr>
 
-## [Rab Infinity Endurance Jacket (850fp)][10]  
+<h2><a href="http://www.amazon.com/gp/product/B00DTT6DXC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DTT6DXC&linkCode=as2&tag=hikeve-20&linkId=N7SHBEPWSYPV25ZK" target="_blank" rel="nofollow">Rab Infinity Endurance Jacket (850fp)</a></h2>
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00DTT6DXC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DTT6DXC&linkCode=as2&tag=hikeve-20&linkId=N7SHBEPWSYPV25ZK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DTT6DXC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DTT6DXC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -187,11 +194,11 @@ Patagonia is another popular outdoor brand and delivers a super light down jacke
 
 The  Rab Infinity Endurance Jacket is a technical alpine or mountaineering jacket. It's high fill power and low weight makes this probably one of the best lightweight winter down jackets. If you need a warmer jacket then the Rab Positron Jacket would be an alternative option which adds approximately 30% more warmth.
 
-<a href="http://www.backcountry.com/rab-infinity-endurance-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Rab Infinity Endurance Jacket</button></a>  <a href="http://www.hikeventures.com/deals/#rab+infinity+endurance" target="_blank"><button type="button" class="btn btn-warning">Compare Prices</button></a>
+<a href="http://www.amazon.com/gp/product/B00DTT6DXC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DTT6DXC&linkCode=as2&tag=hikeve-20&linkId=N7SHBEPWSYPV25ZK" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
----
+<hr>
 
-## [Rab Positron Jacket (800fp)][11]  
+<h2><a href="http://amzn.to/2e7V1Mx" target="_blank" rel="nofollow">Rab Positron Jacket (800fp)</a></h2>
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00XJO2X18/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00XJO2X18&linkCode=as2&tag=hikeve-20&linkId=5POHXUOALSVWVY2B"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00XJO2X18&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00XJO2X18" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -199,11 +206,11 @@ The  Rab Infinity Endurance Jacket is a technical alpine or mountaineering jacke
 
 The  Rab Positron Jacket is proper box-wall down winter jacket with a water-resistant outer fabric. The manufacturer claims that it has been designed for mountain and expedition use up to 6000m. This jacket delivers about 30% more warmth than the Rab Infinity Endurance jacket.
 
-<a href="http://www.backcountry.com/rab-positron-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Rab Positron Jacket</button></a> <a href="http://www.hikeventures.com/deals/#rab+positron+jacket" target="_blank"><button type="button" class="btn btn-warning">Compare Prices</button></a>
+<a href="http://amzn.to/2e7V1Mx" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
----
+<hr>
 
-## [The North Face Immaculator Parka (800fp)][12]  
+<h2><a href="http://amzn.to/2e2FVXu" target="_blank" rel="nofollow">The North Face Immaculator Parka (800fp)</a></h2>
 
 <a rel="nofollow" href="https://www.amazon.com/gp/product/B019ZZERV8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019ZZERV8&linkCode=as2&tag=hikeve-20&linkId=2307870a534b0fcdf26a7a4c77eb1f56"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B019ZZERV8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B019ZZERV8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -211,11 +218,11 @@ The  Rab Positron Jacket is proper box-wall down winter jacket with a water-resi
 
 The North Face Immaculator Parka features an alpine fit and is made for those very cold days. It also has a fixed adjustable helmet-compatible hood as well as a zip hand and internal chest pockets.
 
-<a href="http://www.backcountry.com/the-north-face-immaculator-down-parka-mens"><button type="button" class="btn btn-danger">Read more about the Immaculator Parka</button></a> <a href="http://www.hikeventures.com/deals/#Immaculator+Parka" target="_blank"><button type="button" class="btn btn-warning">Compare Prices</button></a>
+<a href="http://amzn.to/2e2FVXu" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
----
+<hr>
 
-## [Arcteryx Ceres Jacket (850fp)][13]  
+<h2><a href="http://amzn.to/2endumN" target="_blank" rel="nofollow">Arcteryx Ceres Jacket (850fp)</a></h2>
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GV47ZVQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GV47ZVQ&linkCode=as2&tag=hikeve-20&linkId=W5UOOTWBV54OBDXF" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GV47ZVQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20"></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GV47ZVQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -223,13 +230,13 @@ The North Face Immaculator Parka features an alpine fit and is made for those ve
 
 More heavy than the other jackets in our list, the Arcteryx Ceres Jacket is made for the deep winter where warmth is the most important factor. This jacket is a probably a great option if you also want to have a fashionable jacket to wear in the city.
 
-<a href="http://www.backcountry.com/arcteryx-ceres-down-jacket-mens"><button type="button" class="btn btn-danger">Read more about the Ceres Jacket</button></a>  <a href="http://www.hikeventures.com/deals/#Arcteryx+ceres+jacket" target="_blank"><button type="button" class="btn btn-warning">Compare Prices</button></a>
+<a href="http://amzn.to/2endumN" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
----
+<hr>
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "true";
+amzn_assoc_search_bar = "false";
 amzn_assoc_tracking_id = "hikeve-20";
 amzn_assoc_search_bar_position = "top";
 amzn_assoc_ad_mode = "search";
@@ -251,7 +258,7 @@ amzn_assoc_linkid = "94ae095fd527d4f97d365afbd4404fcf";
 
 Down is the perfect gear which can be compressed. Use a compression dry sack to decrease the size of your down jacket and your sleeping bag to a minimum and to keep your down jacket dry. The Sea to Summit Ultra-Sil eVENT Compression Dry Sack is one of the view compression sacks which are actually waterproof.
 
-<a href="https://www.amazon.com/gp/product/B00SUDY9EM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SUDY9EM&linkCode=as2&tag=hikeve-20&linkId=16d737f5ad282e8329e468a92146474a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00SUDY9EM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00SUDY9EM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B00SUDY9EM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SUDY9EM&linkCode=as2&tag=hikeve-20&linkId=16d737f5ad282e8329e468a92146474a" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00SUDY9EM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00SUDY9EM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ---
 
@@ -259,7 +266,7 @@ Down is the perfect gear which can be compressed. Use a compression dry sack to 
 
 Use Nikwax Down Wash to wash your down jacket.
 
-<a href="https://www.amazon.com/gp/product/B00XI1WT20/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00XI1WT20&linkCode=as2&tag=hikeve-20&linkId=c3c4439de353bcbe73f51529506bd904"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00XI1WT20&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00XI1WT20" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B00XI1WT20/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00XI1WT20&linkCode=as2&tag=hikeve-20&linkId=c3c4439de353bcbe73f51529506bd904" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00XI1WT20&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00XI1WT20" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ---
 
@@ -267,7 +274,7 @@ Use Nikwax Down Wash to wash your down jacket.
 
 Nikwax Down Proof helps to make your down more water repellent. Down insulates less when it gets wet and with Nikwax Down Proof you can protect your down a little bit.
 
-<a href="https://www.amazon.com/gp/product/B001OPF4ME/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001OPF4ME&linkCode=as2&tag=hikeve-20&linkId=7fb79637721016c5341362451750b228"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001OPF4ME&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001OPF4ME" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B001OPF4ME/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001OPF4ME&linkCode=as2&tag=hikeve-20&linkId=7fb79637721016c5341362451750b228" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001OPF4ME&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001OPF4ME" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <hr>
 
@@ -380,17 +387,6 @@ You can keep your down jacket dry by storing it in a waterproof compression bag 
 
 [1]:	http://www.hikeventures.com/destinations/
 [2]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Finnish Lapland"
-[3]:	http://www.backcountry.com/mountain-hardwear-hooded-ghost-whisperer-down-jacket-mens
-[4]:	http://www.backcountry.com/arcteryx-cerium-lt-hooded-down-jacket-mens
-[5]:	http://www.backcountry.com/western-mountaineering-flash-down-jacket-mens
-[6]:	http://www.moosejaw.com/moosejaw/shop/product_Marmot-Men-s-Quasar-Hoody_10221652_10208_10000001_-1_
-[7]:	http://www.backcountry.com/the-north-face-premonition-down-jacket-mens
-[8]:	http://www.backcountry.com/arcteryx-cerium-sv-hooded-down-jacket-mens
-[9]:	http://www.backcountry.com/patagonia-hi-loft-down-hooded-sweater-mens
-[10]:	http://www.backcountry.com/rab-infinity-endurance-down-jacket-mens
-[11]:	http://www.backcountry.com/rab-positron-down-jacket-mens
-[12]:	http://www.backcountry.com/the-north-face-immaculator-down-parka-mens
-[13]:	http://www.backcountry.com/arcteryx-ceres-down-jacket-mens
 [14]:	http://www.backcountry.com/sea-to-summit-event-compression-dry-sack
 [15]:	http://www.backcountry.com/nikwax-down-wash-direct
 [16]:	http://www.backcountry.com/nikwax-down-proof-solution

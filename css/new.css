@@ -57,6 +57,43 @@ table.list_items_3 tr th:last-child {
   width: 10% !important;
 }
 
+
+table.list_items_4 tr td:first-child {
+
+  width: 33% !important;
+}
+table.list_items_4 tr td:last-child {
+
+  width: 33% !important;
+}
+table.list_items_4 tr th:first-child {
+
+   width: 33% !important;
+}
+table.list_items_4 tr th:last-child {
+
+  width: 33% !important;
+}
+
+
+table.list_items_5 tr td:first-child {
+
+  width: 25% !important;
+}
+table.list_items_5 tr td:last-child {
+
+  width: 25% !important;
+}
+table.list_items_5 tr th:first-child {
+
+   width: 25% !important;
+}
+table.list_items_5 tr th:last-child {
+
+  width: 25% !important;
+}
+
+
 table
 {
         width: 100% !important;
@@ -387,10 +424,7 @@ header .header-links a:hover {
 }
 
 
-.avantlink . img {
-    width: 100%;
-    height: auto;
-}
+
 
 .sidebar-image .thumbnail span.caption {
     position: absolute;
