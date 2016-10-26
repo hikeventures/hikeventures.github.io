@@ -71,7 +71,7 @@ The Petzl Nao Plus features 750 lumen and you are able to see 140 m into the dis
 
 <a href="http://www.amazon.com/gp/product/B00LFJNHQ4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNHQ4&linkCode=as2&tag=hikeve-20&linkId=YIDJETI36CMR7GF4" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJNHQ4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJNHQ4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-I have received the MSR Lightning Ascent 25 from MSR as a test unit and was quite happy with it. The main features of this snowshoe is that it is quite light (weights 1780 grams), Ergo Televators, PosiLock AT bindings (MSR's most secure, freeze-resistant attachment) and Torsion2 crampons. (Here)[http://www.hikeventures.com/best-snowshoes/] you can also find an overview of our favourite snowshoes for 2016.
+I have received the MSR Lightning Ascent 25 from MSR as a test unit and was quite happy with it. The main features of this snowshoe is that it is quite light (weights 1780 grams), Ergo Televators, PosiLock AT bindings (MSR's most secure, freeze-resistant attachment) and Torsion2 crampons. Also consider to buy snowshoeing poles like the <a href="http://amzn.to/2f65dHn2" rel="nofollow" target="_blank">MSR Deploy T-3</a>. MSR has sent me those poles as well for testing and they are quite good.
 
 <a href="http://amzn.to/2evU8vs" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
