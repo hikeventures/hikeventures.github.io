@@ -15,7 +15,7 @@ Having used my Sony A7 for over 1 year (but recently sold) I am planning to get 
 
 First of all it was important to know which type of microphone I would need. The <a href="http://amzn.to/1yTJDZs" rel="nofollow">Zoom H5</a> comes with an X/Y microphone which seems to be a good microphone to record the environment but also towards a certain direction. I will also get the the <a href="http://amzn.to/1y2BLVy" rel="nofollow">APH-5</a> extension pack for the Zoom H5 next week which comes with a wind shield and a remote control.
 
-You could also buy the new <a href="http://amzn.to/2f5JgYS" rel="nofollow" target="_blank">Zoom H4n Pro</a> if you are on a budget but I prefer the Zoom H5 since you can detach the X/Y microphone if you don't need it. Also the level control on the front is much nice on the H5. For a more focused recording (e.g. if you want to record a bird in the distance), a shotgun microphone would be even better and I might consider buying a <a href="http://amzn.to/14jumU0" rel="nofollow">Sennheiser MKE 600</a> in the future as well. This blog post contains affiliate links.
+You could also buy the new <a href="http://amzn.to/2dUJ64d" rel="nofollow" target="_blank">Zoom H4n Pro</a> if you are on a budget but I prefer the Zoom H5 since you can detach the X/Y microphone if you don't need it. Also the level control on the front is much nice on the H5. For a more focused recording (e.g. if you want to record a bird in the distance), a shotgun microphone would be even better and I might consider buying a <a href="http://amzn.to/14jumU0" rel="nofollow">Sennheiser MKE 600</a> in the future as well. This blog post contains affiliate links.
 
 ---
 
@@ -31,7 +31,8 @@ You could also buy the new <a href="http://amzn.to/2f5JgYS" rel="nofollow" targe
 * Offers Phantom Power to external microphones
 * 2 AA batteries needed but can also be powered by USB with an external battery like the <a href="http://amzn.to/2dUEsTA" rel="nofollow">Anker PowerCore+ 20100 USB-C</a> which can even charge a Macbook.<br><br>
 
-<a href="https://www.amazon.com/gp/product/B001QWBM62/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001QWBM62&linkCode=as2&tag=hikeve-20&linkId=d6a8d302bce0ac18083d112d2fa605d0" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001QWBM62&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001QWBM62" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
+<a href="https://www.amazon.com/gp/product/B01DPOXS8I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01DPOXS8I&linkCode=as2&tag=hikeve-20&linkId=d6756281cccce37b51ac1e66a6c4b15a" rel="nofollow" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01DPOXS8I&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01DPOXS8I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 > Zoom H4n Pro is not as expensive as the Zoom H5 but you won't be able to remove the microphone on the H4n Pro
 
 # Weight Zoom H5
@@ -84,7 +85,8 @@ To connect the Sennheiser MKE 600 straight to your Sony A7 you would need a <a h
 # USB Battery
 On my trips I always have a USB battery with me like the <a href="http://amzn.to/2dUGdQL" rel="nofollow">Anker PowerCore+ 20100 USB-C</a> which charges my other USB devices e.g. <a href="http://amzn.to/2fdRC07" rel="nofollow" target="_blank">Petzl Nao</a>, <a href="http://amzn.to/2f5Skgv" rel="nofollow" target="_blank">Suunto Traverse</a>, my <a href="http://amzn.to/2f5Tskf" rel="nofollow" target="_blank">Sony A7</a> or even a <a href="http://amzn.to/2f5QEnp" rel="nofollow" taret="_blank">Macbook</a> which comes with a USB-C port. If you need more battery capacity consider getting the <a href="http://amzn.to/1slxquk" rel="nofollow" target="_blank">Anker PowerCore 26800</a> but comes without USB-C charging capability.
 
-<a href="https://www.amazon.com/gp/product/B014ZO46LK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014ZO46LK&linkCode=as2&tag=hikeve-20&linkId=ad49d381abb62421b7d52b531f5d1679" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B014ZO46LK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B014ZO46LK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>
+<a href="https://www.amazon.com/gp/product/B014ZO46LK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014ZO46LK&linkCode=as2&tag=hikeve-20&linkId=ad49d381abb62421b7d52b531f5d1679" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B014ZO46LK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B014ZO46LK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 > The <a href="http://amzn.to/2dUGdQL" rel="nofollow">Anker PowerCore+ 20100 USB-C</a> can even charge a Macbook.
 
 I will most likely test the <a href="http://amzn.to/1yTJDZs" rel="nofollow">Zoom H5</a> on our trip to Lapland which we have planned by end of January. Let's see how it performs (also considering the cold temperatures there at the moment -30C) and I hope that I am able to provide great audio on our videos in the future.
