@@ -9,7 +9,7 @@ tags:
   - best
 layout: post
 ---
-In this blog post you can find the best lightweight sleeping pads which we would consider to buy in 2016. I have indicated the R-value of each sleeping pads so you can choose the one which would be most suitable for your next outdoor adventure. From the selection below I have only tested the Therm-a-Rest NeoAir XTherm, the self-inflating Therm-a-Rest Evolite and the Exped SYNMAT UL 7 M. From all sleeping pads I would probably recommend you the <a href="http://www.hikeventures.com/deals/#XTherm" target="_blank">Therm-a-Rest XTherm</a> most.
+In this blog post you can find the best lightweight sleeping pads which we would consider to buy in 2016. I have indicated the R-value of each sleeping pads so you can choose the one which would be most suitable for your next outdoor adventure. From the selection below I have only tested the Therm-a-Rest NeoAir XTherm, the self-inflating Therm-a-Rest Evolite and the Exped SYNMAT UL 7 M. From all sleeping pads I would probably recommend you the <a href="http://amzn.to/2eQX99w" target="_blank" rel="nofollow">Therm-a-Rest XTherm</a> most. I have received the XTherm from Therm-a-Rest for testing and it's now my go-to sleeping pad throughout the year.
 
 ---
 
@@ -68,7 +68,7 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
 ---
 
-## [Therm-a-Rest NeoAir XLite][3]
+<h2><a href="http://amzn.to/2dpbvAF" target="_blank" rel="nofollow">Therm-a-Rest NeoAir XLite</a></h2>
 
 **R-Value:** 3.2  
 **Weight:** 350 g  
@@ -82,7 +82,7 @@ The Therm-a-Rest NeoAir Xlite is a solid 3-season air sleeping pad which you cou
 
 ---
 
-## [Sea to Summit Ultralight][4]
+<h2><a href="http://amzn.to/2dBNq82" target="_blank" rel="nofollow">Sea to Summit Ultralight</a></h2>
 
 **R-Value:** 0.7  
 **Weight:** 355 g  
@@ -96,7 +96,7 @@ Another light sleeping pad is the Sea to Summit Ultralight which featuers a more
 
 ---
 
-## [Therm-a-Rest NeoAir XTherm][5]
+<h2><a href="http://amzn.to/2elYMQq" target="_blank" rel="nofollow">Therm-a-Rest NeoAir XTherm</a></h2>
 
 **R-Value:** 5.7  
 **Weight:**  410 g  
@@ -111,7 +111,7 @@ The Therm-a-Rest NeoAir XTherm is a sleeping pad for late spring, winter or earl
 
 ---
 
-## [Therm-a-Rest Z LITE SOL][6]
+<h2><a href="http://amzn.to/2e8kepY" target="_blank" rel="nofollow">Therm-a-Rest Z LITE SOL</a></h2>
 
 **R-Value:** 2.6  
 **Weight:**  410 g
@@ -124,7 +124,7 @@ The Therm-a-Rest Z LITE SOL is a foam sleeping pad which is a safe choice than a
 
 ---
 
-## [Exped Synmat UL 7][7]
+<h2><a href="http://amzn.to/2eIa0OZ" target="_blank" rel="nofollow">Exped Synmat UL 7</a></h2>
 
 **R-Value:** 3.3  
 **Weight:** 450 g
@@ -138,7 +138,7 @@ The Exped Synmat UL 7 was my go-to sleeping pad for a couple of years, however I
 
 ---
 
-## [Therm-a-Rest EvoLite][8]
+<h2><a href="http://amzn.to/2dBNswR" target="_blank" rel="nofollow">Therm-a-Rest EvoLite</a></h2>
 
 **R-Value:** 2.1  
 **Weight:** 520 g
@@ -160,7 +160,7 @@ If you don't want to spend so much time inflating your sleeping pad then the The
 
 Here are a few accessories which could be quite handy in combination with your sleeping pad:
 
-## [Therm-a-Rest NeoAir Mini Pump][9]
+<h2><a href="https://www.amazon.com/gp/product/B008O6JDKK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008O6JDKK&linkCode=as2&tag=hikeve-20&linkId=ba34b83037b701b6a0f7f3a022f97fea" rel="nofollow" target="_blank">Therm-a-Rest NeoAir Mini Pump</a></h2>
 
 The NeoAir® Mini Pump inflates a NeoAir mattress in around 3 minutes.
 
@@ -168,7 +168,7 @@ The NeoAir® Mini Pump inflates a NeoAir mattress in around 3 minutes.
 
 ---
 
-## [Therm-A-Rest NeoAir Torrent Air Pump][10]
+<h2><a href="https://www.amazon.com/gp/product/B00HP4WOR6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HP4WOR6&linkCode=as2&tag=hikeve-20&linkId=4ce2274897060040af1b0578024a23da" rel="nofollow" target="_blank">Therm-A-Rest NeoAir Torrent Air Pump</a></h2>
 
 The Torrent Pump inflates a large mattress in about 1.5 minutes.
 
@@ -176,10 +176,10 @@ The Torrent Pump inflates a large mattress in about 1.5 minutes.
 
 ---
 
-## [Therm-A-Rest Instant Field Repair Kit][11]
+<h2><a href="https://www.amazon.com/gp/product/B00G4V53FQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G4V53FQ&linkCode=as2&tag=hikeve-20&linkId=b353f857f5eb4f576e3ff02564d8bd6f" rel="nofollow">Therm-A-Rest Instant Field Repair Kit</a></h2>
 New sleeping pads usually come with a field repair kit. However, sometimes you may lose your repair kit or just need a new one.
 
-<a href="https://www.amazon.com/gp/product/B00G4V53FQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G4V53FQ&linkCode=as2&tag=hikeve-20&linkId=b353f857f5eb4f576e3ff02564d8bd6f" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00G4V53FQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00G4V53FQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B00G4V53FQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G4V53FQ&linkCode=as2&tag=hikeve-20&linkId=b353f857f5eb4f576e3ff02564d8bd6f" rel="nofollow" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00G4V53FQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00G4V53FQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ---
 
@@ -205,7 +205,7 @@ The R-value of a Sleeping Pad indicates the thermal resistance of a sleeping pad
 ---
 
 ## Air and hand pumps / Inflators for sleeping pads.
-Some sleeping pad manufacturers also selling [air pumps][12] for their sleeping pads. Inflating your sleeping pad with an air pump is the most convenient way but adds to the weight of your backpack depending if you use a mechanical air pump or a plastic pump sack.
+Some sleeping pad manufacturers also selling <a href="http://amzn.to/2ePyKA0" target="_blank" rel="nofollow">air pumps</a> for their sleeping pads. Inflating your sleeping pad with an air pump is the most convenient way but adds to the weight of your backpack depending if you use a mechanical air pump or a plastic pump sack.
 
 ---
 
@@ -217,14 +217,14 @@ If you are looking for an alternative to your sleeping pad then you could either
 ## What are the best brands / manufacturers offering sleeping pads?
 There are several brands designing sleeping pads. Some examples are:
 
-* [ALPS Mountaineering][13]
-* [Big Agnes][14]
-* [Eureka][15]
-* [Exped][16]
-* [NEMO Equipment Inc.][17]
-* [Sea To Summit][18]
-* [Therm-A-Rest][19]
-* [Vaude][20]
+* ALPS Mountaineering
+* Big Agnes
+* Eureka
+* Exped
+* NEMO Equipment Inc.
+* Sea To Summit
+* Therm-A-Rest
+* Vaude
 
 ---
 
@@ -239,32 +239,32 @@ The durability of a sleeping pad depends on how you treat your pad and how often
 ---
 
 ## How about sleeping pads filled with down?
-[Winter sleeping pads][21] are sometimes filled with down or covered with a thermal foil layer to increase the insulation.
+Winter sleeping pads like the <a href="http://amzn.to/2eKqfYC" rel="nofollow" target="_blank">Exped Down Mat</a> are sometimes filled with down or covered with a thermal foil layer to increase the insulation.
 
 ---
 
 ## Using a dry or stuff sack to pack your sleeping pad.
-To keep your sleeping pad dry you can stuff it into a [dry sack][22]. There is usually also a dry sack included when you buy a sleeping pad.
+To keep your sleeping pad dry you can stuff it into a <a href="http://amzn.to/2e9rYoJ" rel="nofollow" target="_blank">dry sack</a>. There is usually also a dry sack included when you buy a sleeping pad.
 
 ---
 
 ## When should I use a foam sleeping pad?
-If you want to be on the safe side then you should buy a sleeping pad which is made of foam as it can not get any punctures. They might be less cosy to sleep on so you might look for a soft camping ground. The [Therm-a-Rest Lite SOL][23] is a popular foam sleeping pad.
+If you want to be on the safe side then you should buy a sleeping pad which is made of foam as it can not get any punctures. They might be less cosy to sleep on so you might look for a soft camping ground. The <a href="http://amzn.to/2f6jZhm" rel="nofollow" target="_blank">Therm-a-Rest Lite SOL</a> is a popular foam sleeping pad.
 
 ---
 
 ## Which sleeping pad should I use as a side sleeper?
-If you are a side sleeper or turn around while sleeping then you should probably get a wider sleeping pad. The [NeoAirs][24] are popular sleeping pads.
+If you are a side sleeper or turn around while sleeping then you should probably get a wider sleeping pad. The <a href="http://amzn.to/2f6jB2m" rel="nofollow" target="_blank">Therm-a-Rest NeoAirs</a> are popular sleeping pads.
 
 ---
 
 ## Is there any difference between hiking and camping sleeping pads?
-When comparing [hiking](http://www.backcountry.com/Store/catalog/search.jsp?q=camping sleeping pads) vs [camping](http://www.backcountry.com/Store/catalog/search.jsp?q=hiking sleeping pads) then you could select a lighter sleeping pad when you are hiking and a more comfortable and probably heavier one when you only plan to go camping.
+When comparing hiking sleeping pads vs camping sleeping pads then you could select a lighter sleeping pad when you are hiking and a more comfortable and probably heavier one when you only plan to go camping.
 
 ---
 
 ## Are there sleeping pads for babies?
-Some manufacturers also offer [sleeping pads for kids][25] but you can also just use a [regular sized][26] sleeping pad.
+Some manufacturers also offer sleeping pads for kids but you can also just use a regular sized sleeping pad.
 
 ---
 
@@ -274,7 +274,7 @@ Some sleeping pads have less grip than others which may cause them to slip aroun
 ---
 
 ## Are there Repair glue / Repair kit / Patch kit for sleeping pads?
-Most sleeping pads come with a repair kit (or patch kit) which includes a repair glue. You can also [purchase][27] them separately.
+Most sleeping pads come with a repair kit (or patch kit) which includes a repair glue. You can also <a href="http://amzn.to/2ePywc4" target="_blank" rel="nofollow">purchase</a> them separately.
 
 ---
 
@@ -289,7 +289,7 @@ The r-value indicates the insulation of a sleeping pad. Down or a thermal foil c
 ---
 
 ## Are there lightweight sleeping pads?
-Sleeping pads should be lightweight if you are planning to go on a hiking trip. I found the [Therm-A-Rest XTherm][28] a good compromise between insulation and weight.
+Sleeping pads should be lightweight if you are planning to go on a hiking trip. I found the <a href="http://amzn.to/2ePxCMY" rel="nofollow">Therm-A-Rest NeoAir XTherm</a> a good compromise between insulation and weight.
 
 ---
 
@@ -299,7 +299,7 @@ Sleeping pads come in different length and width. Choose the one which comes clo
 ---
 
 ## What should I do if my sleeping pad leaks?
-If your sleeping pad is leaking because you got a puncture then you should fix it with a [repair kit][29] or buy a new sleeping pad.
+If your sleeping pad is leaking because you got a puncture then you should fix it with a <a href="http://amzn.to/2ePywc4" target="_blank" rel="nofollow">valve repair kids</a> or buy a new sleeping pad.
 
 ---
 
@@ -334,17 +334,17 @@ A sleeping pad can be attached on the backpack. A good spot is either on the sid
 ---
 
 ## Should I use a sheet on my sleeping pad?
-If you prefer to have your sleeping pad like your bed at home then you could cover your sleeping pad with a [sheet][30].
+If you prefer to have your sleeping pad like your bed at home then you could cover your sleeping pad with a <a href="http://amzn.to/2dIDYgh" target="_blank" rel="nofollow">Therm-a-Rest Universal Sheet</a>.
 
 ---
 
 ## Are self inflating sleeping pads better than air or foam pads?
-[Self-inflating sleeping pads][31] have a special foam which do not require you to inflate the pad yourself. One disadvantage of a self-inflating sleeping pad is the additional weight which comes with such a foam.
+Self-inflating sleeping pads like the <a href="http://amzn.to/2eQVykm" rel="nofollow" target="_blank">Therm-a-Rest Evolite</a> have a special foam which do not require you to inflate the pad yourself. One disadvantage of a self-inflating sleeping pad is the additional weight which comes with such a foam.
 
 ---
 
 ## Which sleeping pad should I buy if I am a side sleeper?
-If you are a side sleeper then you should look out for a wider sleeping pad like the [Therm-A-Rest NeoAir XTherm][32].
+If you are a side sleeper then you should look out for a wider sleeping pad like the <a href="http://amzn.to/2ePxCMY" rel="nofollow">Therm-A-Rest NeoAir XTherm</a>.
 
 ---
 
@@ -369,7 +369,7 @@ The temperature rating of a sleeping pad depends on the thickness, filling, insu
 ---
 
 ## What are ultralight sleeping pads?
-Some brands offer ultralight sleeping pads. Their size is probably optimized or they use lighter materials. My favourite ultralight 4-season sleeping pad is the [Therm-A-Rest NeoAir XTherm][33].
+Some brands offer ultralight sleeping pads. Their size is probably optimized or they use lighter materials. My favourite ultralight 4-season sleeping pad is the <a href="http://amzn.to/2ePxCMY" rel="nofollow">Therm-A-Rest NeoAir XTherm</a>.
 
 ---
 
@@ -379,17 +379,17 @@ A foam sleeping pad might be less comfortable and bulky than a air mattress howe
 ---
 
 ## Are there valve replacement or valve repair for sleeping pads?
-Some sleeping pad manufacturers offer [valve repair kids][34] which you can purchase additionally.
+Some sleeping pad manufacturers offer <a href="http://amzn.to/2ePywc4" target="_blank" rel="nofollow">valve repair kids</a> which you can purchase additionally.
 
 ---
 
 ## Should I take a sleeping pad pillow on my hiking trip?
-Some manufacturers are also selling [inflatable air pillows][35]. You can also use spare clothes as an alternative to an air pillow.  
+Some manufacturers are also selling <a href="http://amzn.to/2e9qV8p" rel="nofollow" target="_blank">inflatable air pillows</a>. You can also use spare clothes as an alternative to an air pillow.  
 
 ---
 
 ## What are the best winter sleeping pads?
-Winter sleeping pads are usually thicker and have a special insulation like down or a foil which increases their r-value. One of my favourite winter sleeping pads is the [Therm-A-Rest NeoAir XTherm][36]
+Winter sleeping pads are usually thicker and have a special insulation like down or a foil which increases their r-value. One of my favourite winter sleeping pads is the <a href="http://amzn.to/2ePxCMY" rel="nofollow">Therm-A-Rest NeoAir XTherm</a>.
 
 ---
 
@@ -422,40 +422,3 @@ amzn_assoc_linkid = "965296fb866182bb89b535202541adda";
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
-
-[1]:	http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/
-[2]:	http://www.hikeventures.com/destinations/
-[3]:	http://www.hikeventures.com/deals/#NeoAir+Xlite
-[4]:	http://www.hikeventures.com/deals/#sea+summit+ultralight
-[5]:	http://www.hikeventures.com/deals/#NeoAir+XTherm
-[6]:	http://www.hikeventures.com/deals/#Z+Lite+Sol
-[7]:	http://www.hikeventures.com/deals/#exped+synmat+ul+7+pad
-[8]:	http://www.hikeventures.com/deals/#evolite
-[9]:	http://www.backcountry.com/therm-a-rest-neoair-mini-pump
-[10]:	http://hikeventures.com/deals/#neoair+torrent+pump
-[11]:	http://hikeventures.com/deals/#instant+field+repair+kit
-[12]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=sleeping+pads+pump
-[13]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=alps+mountaineering+pad
-[14]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=big+agnes+pads
-[15]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=eureka+pads
-[16]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=exped+pads
-[17]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=nemo+pads
-[18]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=sea+to+summit+pads
-[19]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=thermarest+pads
-[20]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=vaude+pads
-[21]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=winter+sleeping+pad
-[22]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=dry+sack
-[23]:	http://www.backcountry.com/therm-a-rest-z-lite-sol-sleeping-pad
-[24]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=neoair
-[25]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=kid+sleeping+pads
-[26]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=sleeping+pads
-[27]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=sleeping+pads+repair+glue
-[28]:	http://www.backcountry.com/therm-a-rest-neoair-xtherm-sleeping-pad
-[29]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=repaid+kit+sleeping+pad
-[30]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=sleeping+pad+sheet
-[31]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=sleeping+pad+self-inflating
-[32]:	http://www.backcountry.com/therm-a-rest-neoair-xtherm-max-sleeping-pad
-[33]:	http://www.backcountry.com/therm-a-rest-neoair-xtherm-max-sleeping-pad
-[34]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=sleeping+pad+valve
-[35]:	http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=air+pillow
-[36]:	http://www.backcountry.com/therm-a-rest-neoair-xtherm-max-sleeping-pad
