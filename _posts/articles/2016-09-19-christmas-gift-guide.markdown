@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Best outdoor gear gift ideas for him for Christmas 2016 - Hiking, Backpacking, Skiing and Snowshoeing
+title: Best outdoor gear and gadget gift ideas for him for Christmas 2016 - Hiking, Backpacking, Skiing and Snowshoeing
 description: The best hiking and backpacking christmas gifts for 2016
 date: 2016-09-19 07:30:00
 category: reviews
