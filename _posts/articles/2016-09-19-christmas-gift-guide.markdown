@@ -8,7 +8,7 @@ tags:
   - gifts
   - christmas
 ---
-Christmas 2016 is approaching us and I decided to write a blog post with the best outdoor gear gift ideas for this year. I have tried to select gear which can be used for hiking, backpacking, climbing, skiing, snowshoeing or packrafting so there should be something for everyone.
+Christmas 2016 is approaching us and I decided to write a blog post with the best outdoor gear gift ideas for this year. I have tried to select gear which can be used for hiking, backpacking, climbing, skiing, snowshoeing or packrafting so there should be something for everyone. This blog post contains affiliate links.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15913321903/in/album-72157651193131682/" title="Lapland Finland"><img src="https://c8.staticflickr.com/8/7295/15913321903_c77e978900_k.jpg" width="2048" height="1360" alt="Christmas Outdoor Gear Hiking backpacking skiing snowshoeeing 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -89,7 +89,7 @@ I have received the MSR Lightning Ascent 25 from MSR as a test unit and was quit
 
 ---
 
-<h1><a href="" rel="nofollow" target="_blank">Therm-a-Rest NeoAir XTherm</a></h1>
+<h1><a href="http://amzn.to/2elYMQq" rel="nofollow" target="_blank">Therm-a-Rest NeoAir XTherm</a></h1>
 
 <a href="https://www.amazon.com/gp/product/B00TSFYZAE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TSFYZAE&linkCode=as2&tag=hikeve-20&linkId=25c9ce32924da763f8646aec664470c1" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00TSFYZAE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00TSFYZAE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
