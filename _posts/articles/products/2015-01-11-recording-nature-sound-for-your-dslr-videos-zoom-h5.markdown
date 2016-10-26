@@ -37,6 +37,8 @@ You could also buy the new <a href="http://amzn.to/2dUJ64d" rel="nofollow" targe
 
 > Zoom H4n Pro is not as expensive as the Zoom H5 but you won't be able to remove the microphone on the H4n Pro
 
+---
+
 # Weight Zoom H5
 
 * 276 grams for the <a href="http://amzn.to/1yTJDZs">Zoom H5</a> including X/Y microphone & excluding 2 x AA batteries
@@ -44,6 +46,8 @@ You could also buy the new <a href="http://amzn.to/2dUJ64d" rel="nofollow" targe
 * 42 grams for the USB cable
 * 311 grams for the <a href="http://amzn.to/1wKEtsW">SLIK Mini Pro III</a>
 * 248 grams for the 10.000 mAh Anker Astro 3 battery (there is also the <a href="http://amzn.to/1slxquk">Anker PowerCore 26800</a> available which comes with 26.800 mAh) and weights 485 grams.
+
+---
 
 # Protecting your Zoom H5
 It's always good to protect your electronic devices when you work outdoors. Zoom offers a protective case - the <a href="http://amzn.to/2eG64un" rel="nofollow" target="_blank">Zoom PCH-5</a> which comes with a fold-away clear window cover for making adjustments, removable mic element cover, belt loop, boom pole sleeve and keyring mounting options.
@@ -61,6 +65,9 @@ It's always good to protect your electronic devices when you work outdoors. Zoom
 - Battery switch with "Low Batt" indicator
 - Rugged all-metal housing
 
+---
+
+# Windshields for Sennheiser MKE 600
 The Sennheiser MKE 600 comes with a foam windshield and a shock mount. However I might also consider getting a Rycote 15cm Classic-Softie (19/22) for outdoor recording like the <a href="http://amzn.to/2eFD5po" rel="nofollow" target="_blank">Sennheiser MZH 600</a>.
 
 <a href="https://www.amazon.com/gp/product/B00B8Z76X0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00B8Z76X0&linkCode=as2&tag=hikeve-20&linkId=17b78af7afe16f089958b85dbfab4df7" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00B8Z76X0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00B8Z76X0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
