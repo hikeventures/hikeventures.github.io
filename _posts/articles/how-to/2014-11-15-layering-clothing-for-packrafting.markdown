@@ -46,15 +46,15 @@ avPcwShowInlineFromSearch('pcwContent2', 'Smartwool PhD Outdoor Ultralight Mini 
 
 ### Neoprene Dry Gloves
 
-Currently, I am using the [Neoprene dry gloves](http://www.packrafting-store.de/Clothing/Neopren-dry-glove::381.html) but I am planning to exchange them most likely with the [Palm Pro Gloves](http://www.palmequipmenteurope.com/product/pro) as me and Konstantin faced some durability issues with the Neoprene dry gloves.
+Currently, I am using the <a href="http://www.packrafting-store.de/Clothing/Neopren-dry-glove::381.html" rel="nofollow" target="_blank">Neoprene dry gloves</a> but I am planning to exchange them most likely with the <a href="http://www.palmequipmenteurope.com/product/pro" rel="nofollow" target="_blank">Palm Pro Gloves</a> as me and Konstantin faced some durability issues with the Neoprene dry gloves.
 
 ### Latex Socks and Sandals
-The [Latex Socks](http://www.packrafting-store.de/Clothing/Latex-socks::380.html) work quite well for us. They are also sealing nicely if used together with a dry suite. Highly recommended. Use them together with the [Teva Sandals](http://amzn.to/1q3n3KJ).
+The <a href="http://www.packrafting-store.de/Clothing/Latex-socks::380.html" rel="nofollow" target="_blank">Latex Socks</a> work quite well for us. They are also sealing nicely if used together with a dry suite. Highly recommended. Use them together with the <a href="http://amzn.to/1q3n3KJ" rel="nofollow" target="_blank">Teva Sandals</a>.
 
 ---
 
 ### Anfibio Packsuit
-A dry suite is the most expensive item in our Clothing Layering System. The [Anfibio Packsuit](http://www.packrafting-store.de/Clothing/Anfibio-Packsuit::378.html) is our dry suite. It's reasonably priced compared to other products and works quite well for us so far. You have to adjust the collar when you buy a new one so it snugs nicely around your throat.
+A dry suite is the most expensive item in our Clothing Layering System. The <a href="http://www.packrafting-store.de/Clothing/Anfibio-Packsuit::378.html" rel="nofollow" target="_blank">Anfibio Packsuit</a> is our dry suite. It's reasonably priced compared to other products and works quite well for us so far. You have to adjust the collar when you buy a new one so it snugs nicely around your throat.
 
 ---
 
@@ -63,7 +63,7 @@ A dry suite is the most expensive item in our Clothing Layering System. The [Anf
 
 ---
 
-It's also a good idea to have specific clothes for the summer like the [Icebreaker Cool-Lite Sphere T-Shirt](http://www.sierratradingpost.com/item~p~9674t/) or the [Astral Designs V-Eight PFD](https://www.rei.com/product/881421/astral-v-eight-pfd).
+It's also a good idea to have specific clothes for the summer like the <a href="http://amzn.to/2dI0XrJ" rel="nofollow" target="_blank">Icebreaker Cool-Lite Sphere T-Shirt</a> or the <a href="http://amzn.to/2f6c0AW" rel="nofollow" target="_blank">Astral Designs V-Eight PFD</a>.
 
 ---
 
@@ -76,7 +76,7 @@ amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_title = "Packrafting Suggestions";
+amzn_assoc_title = "Amazon Search Results";
 amzn_assoc_default_search_phrase = "Astral Designs V-Eight";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "9a725873569a009ac5497b65cc30560e";
