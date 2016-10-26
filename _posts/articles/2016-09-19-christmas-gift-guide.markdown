@@ -58,13 +58,13 @@ The Fjällräven Zip Card Holder is my favorite wallet which I have always with 
 
 ---
 
-<H1><a href="http://amzn.to/2e7V1Mx" rel="nofollow" target="_blank">MSR Windburner</a></H1>
+<H1><a href="http://amzn.to/2dUVXmV" rel="nofollow" target="_blank">MSR Windburner</a></H1>
 
 <a href="https://www.amazon.com/gp/product/B00Y143XF0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Y143XF0&linkCode=as2&tag=hikeve-20&linkId=cad96d6f8139ea32d6992539c54fe416" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00Y143XF0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00Y143XF0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The MSR WindBurner is my go-to stove. I have received it from MSR as a test unit and was quite happy with it on our trips e.g. in the <a href="http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/">Swedish Mountains</a>.
 
-<a href="http://amzn.to/2e7V1Mx" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
+<a href="http://amzn.to/2dUVXmV" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 ---
 
