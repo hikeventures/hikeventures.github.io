@@ -35,13 +35,13 @@ You could also buy the new <a href="http://amzn.to/2dUJ64d" rel="nofollow" targe
 
 <a href="https://www.amazon.com/gp/product/B01DPOXS8I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01DPOXS8I&linkCode=as2&tag=hikeve-20&linkId=d6756281cccce37b51ac1e66a6c4b15a" rel="nofollow" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01DPOXS8I&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01DPOXS8I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-> Zoom H4n Pro is not as expensive as the Zoom H5 but you won't be able to remove the microphone on the H4n Pro
+> <a href="https://www.amazon.com/gp/product/B01DPOXS8I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01DPOXS8I&linkCode=as2&tag=hikeve-20&linkId=d6756281cccce37b51ac1e66a6c4b15a" target="_blank" rel="nofollow">Zoom H4n Pro</a> is not as expensive as the <a href="http://amzn.to/1yTJDZs" rel="nofollow">Zoom H5</a> but you won't be able to remove the microphone on the H4n Pro
 
 ---
 
 # Weight Zoom H5
 
-* 276 grams for the <a href="http://amzn.to/1yTJDZs">Zoom H5</a> including X/Y microphone & excluding 2 x AA batteries
+* 276 grams for the Zoom H5 including X/Y microphone & excluding 2 x AA batteries
 * 47 grams for 2 AA batteries
 * 42 grams for the USB cable
 * 311 grams for the <a href="http://amzn.to/1wKEtsW">SLIK Mini Pro III</a>
