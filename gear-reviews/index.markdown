@@ -7,8 +7,8 @@ comments: false
 footer: false
 published: true
 ---
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=569971&amp;p=125311&amp;pw=150351&amp;ctc=post banner&amp;open=_blank"></script>
-<br>
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=gear reviews&amp;open=_blank"></script>
+br>
 
 <div class="table-responsive">
 
@@ -138,7 +138,7 @@ published: true
     <tr>
     <td><a href="http://hikeventures.com/polychromelab-alta-quota/" target="_self">polychromelab Alta Quota</a></td>
             <td><a href="http://hikeventures.com/salomon-speedcross-3/" target="_self">Salomon Speedcross 3</a></td>
-            
+
 
   </tr>
 
