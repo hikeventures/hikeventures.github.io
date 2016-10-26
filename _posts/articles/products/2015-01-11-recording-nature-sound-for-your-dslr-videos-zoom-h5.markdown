@@ -1,5 +1,5 @@
 ---
-title: Zoom H5, Sennheiser MKE 600 and Sony A7. How to record nature sound for your DSLR videos.
+title: Zoom H5 / H4n Pro, Sennheiser MKE 600 and Sony A7. How to record nature sound for your DSLR videos.
 description: Looking for better sound quality for your DSLR Video? Consider the Zoom H5 and the Sennheiser MKE 600.
 date: 2015-01-11 18:04:22
 category: articles
@@ -13,7 +13,7 @@ Having used my Sony A7 for over 1 year (but recently sold) I am planning to get 
 
 <a href="http://amzn.to/2dxQkfS" title="Zoom H5" rel="nofollow"><img src="https://farm8.staticflickr.com/7468/15630751654_424fb06abb_b.jpg" width="1024" height="657" alt="best external audio recorder Zoom H5 sony a7"></a>
 
-First of all it was important to know which type of microphone I would need. The <a href="http://amzn.to/1yTJDZs" rel="nofollow">Zoom H5</a> comes with an X/Y microphone which seems to be a good microphone to record the environment but also towards a certain direction. For a more focused recording (e.g. if you want to record a bird in the distance), a shotgun microphone would be even better and I might consider buying a <a href="http://amzn.to/14jumU0" rel="nofollow">Sennheiser MKE 600</a> in the future as well. This blog post contains affiliate links.
+First of all it was important to know which type of microphone I would need. The <a href="http://amzn.to/1yTJDZs" rel="nofollow">Zoom H5</a> comes with an X/Y microphone which seems to be a good microphone to record the environment but also towards a certain direction. You could also buy the new <a href="http://amzn.to/2f5JgYS" rel="nofollow" target="_blank">Zoom H4n Pro</a> if you are on a budget but I prefer the Zoom H5 since you can detach the X/Y microphone if you don't need it. Also the level control on the front is much nice on the H5. For a more focused recording (e.g. if you want to record a bird in the distance), a shotgun microphone would be even better and I might consider buying a <a href="http://amzn.to/14jumU0" rel="nofollow">Sennheiser MKE 600</a> in the future as well. This blog post contains affiliate links.
 
 ---
 
@@ -29,7 +29,8 @@ First of all it was important to know which type of microphone I would need. The
 * Offers Phantom Power to external microphones
 * 2 AA batteries needed but can also be powered via USB by using an external battery like the <a href="http://amzn.to/1slxquk">Anker Astro 3</a><br><br>
 
----
+<a href="https://www.amazon.com/gp/product/B001QWBM62/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001QWBM62&linkCode=as2&tag=hikeve-20&linkId=d6a8d302bce0ac18083d112d2fa605d0" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001QWBM62&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001QWBM62" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+>Zoom H4n Pro is not as expensive as the Zoom H5 but you won't be able to remove the microphone on the H4n Pro
 
 # Weight Zoom H5
 
