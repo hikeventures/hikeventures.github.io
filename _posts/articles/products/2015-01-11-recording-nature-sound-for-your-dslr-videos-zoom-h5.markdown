@@ -38,7 +38,7 @@ First of all it was important to know which type of microphone I would need. The
 * 47 grams for 2 AA batteries
 * 42 grams for the USB cable
 * 311 grams for the <a href="http://amzn.to/1wKEtsW">SLIK Mini Pro III</a>
-* 248 grams for the 10.000 mAh Anker Astro 3 battery (there is a <a href="http://amzn.to/1slxquk">newer model</a> available which comes with 12.800 mAh).
+* 248 grams for the 10.000 mAh Anker Astro 3 battery (there is also the <a href="http://amzn.to/1slxquk">Anker PowerCore 26800</a> available which comes with 26.800 mAh) and weights 485 grams.
 
 # Protecting your Zoom H5
 It's always good to protect your electronic devices when you work outdoors. Zoom offers a protective case - the <a href="http://amzn.to/2eG64un" rel="nofollow" target="_blank">Zoom PCH-5</a> which comes with a fold-away clear window cover for making adjustments, removable mic element cover, belt loop, boom pole sleeve and keyring mounting options.
@@ -80,7 +80,7 @@ To connect the Sennheiser MKE 600 straight to your Sony A7 you would need a <a h
 ---
 
 # USB Battery
-On my trips I always have a USB battery with me like my <a href="http://amzn.to/2ebU6cw" rel="nofollow">Anker battery</a> which I charges my other devices having USB ports e.g. <a href="http://hikeventures.com/petzl-nao-headlamp-test/">Petzl Nao</a>, <a href="http://hikeventures.com/suunto-ambit3-ambit2-worth-upgrade/">Suunto Ambit3</a> or my DSLR. Therefore, the 2 AA batteries are not really needed and I can save some weight here. Also I will the the <a href="http://amzn.to/1y2BLVy" rel="nofollow">APH-5</a> extension pack for the <a href="http://amzn.to/1yTJDZs" rel="nofollow">Zoom H5</a> next week which comes with a wind shield and a remote control for the H5.
+On my trips I always have a USB battery with me like my <a href="http://amzn.to/2ebU6cw" rel="nofollow">Astro E5 16750mAh</a> battery which charges my other USB devices e.g. <a href="http://hikeventures.com/petzl-nao-headlamp-test/">Petzl Nao</a>, <a href="http://hikeventures.com/suunto-ambit3-ambit2-worth-upgrade/">Suunto Ambit3</a> or my DSLR. Therefore, the 2 AA batteries are not really needed and I can save some weight here. Also I will the the <a href="http://amzn.to/1y2BLVy" rel="nofollow">APH-5</a> extension pack for the <a href="http://amzn.to/1yTJDZs" rel="nofollow">Zoom H5</a> next week which comes with a wind shield and a remote control for the H5. If you need more battery capacity consider getting the <a href="http://amzn.to/1slxquk">Anker PowerCore 26800</a> which weights however 200 grams more than the Anker Astro E5 with 16750mAh.
 
 <a href="https://www.amazon.com/gp/product/B00X5SP0HC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X5SP0HC&linkCode=as2&tag=hikeve-20&linkId=06a061f895ef4a2c5f67299f8c1b07bc" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00X5SP0HC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00X5SP0HC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
