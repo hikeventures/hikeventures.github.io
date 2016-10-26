@@ -119,7 +119,17 @@ The Suunto Spartan Sport is the latest GPS watch from Suunto which comes with a 
 
 ---
 
-<h1><a href="http://amzn.to/2dUSGUr" rel="nofollow" target="_blank">America's Great Hiking Trails</a><h1>
+<h1><a href="http://amzn.to/2dUNxvQ" rel="nofollow" target="_blank">Sawyer Water Filter</a></h1>
+
+<a href="https://www.amazon.com/gp/product/B00FA2RLX2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FA2RLX2&linkCode=as2&tag=hikeve-20&linkId=5fa3126cd2283657f5a05edd3fd55b98" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00FA2RLX2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00FA2RLX2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+Thw Sawyer Water Filter is always in my backpack when I go hiking. It's much easier to get clean water from a river than using a water filter with a pump. It's also lighter.
+
+<a href="http://amzn.to/2dUNxvQ" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+
+---
+
+<h1><a href="http://amzn.to/2dUSGUr" rel="nofollow" target="_blank">America's Great Hiking Trails</a></h1>
 
 <a href="https://www.amazon.com/gp/product/B00FA2RLX2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FA2RLX2&linkCode=as2&tag=hikeve-20&linkId=5fa3126cd2283657f5a05edd3fd55b98" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00FA2RLX2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00FA2RLX2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
