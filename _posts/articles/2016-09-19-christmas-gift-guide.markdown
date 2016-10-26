@@ -33,7 +33,7 @@ This book shows you America's best hiking trails and has won several awards. Thi
 
 GoPro just recently released the GoPro Hero5 Session which can record in 4K. What I like on the GoPro Hero5 Session compared to the GoPro Hero5 Black is that it's more compact and I don't have to pay for features which I don't need (Location Capture, RAW images and touch display).
 
-<a href="http://amzn.to/2eED2uN" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
+<a href="http://amzn.to/2eED2uN" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -43,7 +43,7 @@ GoPro just recently released the GoPro Hero5 Session which can record in 4K. Wha
 
 One of my favourite winter down jackets this year is the Rab Position jacket which weights 720 grams which has been designed for mountain and expedition use up to 6000m.
 
-<a href="http://amzn.to/2e7V1Mx" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
+<a href="http://amzn.to/2e7V1Mx" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -53,7 +53,7 @@ One of my favourite winter down jackets this year is the Rab Position jacket whi
 
 The Fjällräven Zip Card Holder is my favorite wallet which I have always with me. The fabric is made of G-1000 - the same matrial which is used for their pants and jackets. So it's quite durable.
 
-<a href="http://amzn.to/2ePaHRL" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
+<a href="http://amzn.to/2ePaHRL" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 
 ---
@@ -64,7 +64,7 @@ The Fjällräven Zip Card Holder is my favorite wallet which I have always with 
 
 The MSR WindBurner is my go-to stove. I have received it from MSR as a test unit and was quite happy with it on our trips e.g. in the <a href="http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/">Swedish Mountains</a>.
 
-<a href="http://amzn.to/2dUVXmV" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
+<a href="http://amzn.to/2dUVXmV" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -85,7 +85,7 @@ The Petzl Nao Plus features 750 lumen and you are able to see 140 m into the dis
 
 I have received the MSR Lightning Ascent 25 from MSR as a test unit and was quite happy with it. The main features of this snowshoe is that it is quite light (weights 1780 grams), Ergo Televators, PosiLock AT bindings (MSR's most secure, freeze-resistant attachment) and Torsion2 crampons. Also consider to buy snowshoeing poles like the <a href="http://amzn.to/2f65dHn2" rel="nofollow" target="_blank">MSR Deploy T-3</a>. MSR has sent me those poles as well for testing and they are quite good.
 
-<a href="http://amzn.to/2evU8vs" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
+<a href="http://amzn.to/2evU8vs" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -95,7 +95,7 @@ I have received the MSR Lightning Ascent 25 from MSR as a test unit and was quit
 
 The Therm-a-Rest NeoAir XTherm is my go-to sleeping pad throughout the year here in Scandinavia. It weights (410 grams) more or less the same as most other 3-season sleeping pads but can also be used during the winter.
 
-<a href="http://amzn.to/2elYMQq" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
+<a href="http://amzn.to/2elYMQq" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -105,7 +105,7 @@ The Therm-a-Rest NeoAir XTherm is my go-to sleeping pad throughout the year here
 
 If you are planning to hike in remote places where you won't have a phone signal then you should consider taking a DeLorme InReach Explorer with you. It also has a digital compass, route planning features, trip statistics, altimeter, track logging and weights 190 grams.
 
-<a href="http://amzn.to/2e39SXr" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
+<a href="http://amzn.to/2e39SXr" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
