@@ -1,5 +1,4 @@
 ---
-published: false
 title: The best 360 4K outdoor video cameras
 description: My selection of the best 4K 360 cameras
 date: 2016-09-26 05:28:01
