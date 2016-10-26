@@ -47,13 +47,13 @@ One of my favourite winter down jackets this year is the Rab Position jacket whi
 
 ---
 
-<H1><a href="http://amzn.to/2e7V1Mx" rel="nofollow" target="_blank">Fjällräven Zip Card Holder</a></H1>
+<H1><a href="http://amzn.to/2ePaHRL" rel="nofollow" target="_blank">Fjällräven Zip Card Holder</a></H1>
 
 <a  href="http://www.amazon.com/gp/product/B00SV3VMAA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SV3VMAA&linkCode=as2&tag=hikeve-20&linkId=V7S5GUAZJAGX4CXV" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SV3VMAA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00SV3VMAA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-The <a href="http://amzn.to/2eEylkX" rel="nofollow" target="_blank">Fjällräven Zip Card Holder</a> is my favorite wallet which I have always with me. The fabric is made of G-1000 - the same matrial which is used for their pants and jackets. So it's quite durable.
+The Fjällräven Zip Card Holder is my favorite wallet which I have always with me. The fabric is made of G-1000 - the same matrial which is used for their pants and jackets. So it's quite durable.
 
-<a href="http://amzn.to/2e7V1Mx" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
+<a href="http://amzn.to/2ePaHRL" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 
 ---
