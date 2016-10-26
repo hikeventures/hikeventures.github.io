@@ -5,7 +5,8 @@ description: My selection of the best 4K 360 cameras
 date: 2016-09-26 05:28:01
 category: best
 tags:
-  - macbook
+  - camera
+  - best
 layout: post
 ---
 As we are always interested in new camera gear for our next adventure I was interested to find out which 360 4K cameras are currently available which I could take to my next hiking, backpacking or packrafting trip. I picked 360 cameras which were somewhat water resistant and shockproof. YouTube already supports 360 videos so you could get for example a <a href="http://amzn.to/2eRm0Kz" rel="nofollow" target="_blank">Google Cardboard</a> and attach it to your smartphone. This blog post contains affiliate links.
