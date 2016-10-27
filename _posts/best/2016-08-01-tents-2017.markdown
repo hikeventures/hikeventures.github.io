@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The best new backpacking tents for 2017
+title: The best new camping tents for 2017
 description: Need a new tent for your next outdoor adventure? Here are the latest models for 2017.
 date: 2016-08-01 07:30:00
 category: articles
@@ -10,14 +10,14 @@ tags:
   - tent
 ---
 
-For 2017 we can expect to see plenty of new tents on the market. The trend goes clearly towards lightweight tents. But are lightweight tents always the best option? It depends. Ultralight gear is sometimes made of materials which are not very durable. For example chances are high that you get a hole in your tent floor if the tent floor fabric is very thin.
+For 2017 we can expect to see plenty of new camping tents on the market. The trend goes clearly towards lightweight tents. But are lightweight tents always the best option? It depends. Ultralight gear is sometimes made of materials which are not very durable. For example chances are high that you get a hole in your tent floor if the tent floor fabric is very thin.
 
 However, if you plan to go only ocassionally on outdoor trips or if you are into ultralight backpacking then buying a superlight tent might be a better option even so you may compromise with the durability of the tent. The list below contains only a selection of new / updated tents and I might add a few more later on.
 
 
 <hr>
 
-# The best new backpacking tents for 2017
+# The best new camping tents for 2017
 
 <div class="table-responsive">
 
@@ -25,7 +25,7 @@ However, if you plan to go only ocassionally on outdoor trips or if you are into
 
         <thead>
              <tr>
-                <th>Tent</th><th>Weight</th>
+                <th>Camping Tent</th><th>Weight</th>
              </tr>
         </thead>
 
