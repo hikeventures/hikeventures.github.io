@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The best camping gift ideas for him
-description: The best hiking and backpacking gifts for him
+description: Camping gift ideas which probably every husband would like to have.
 date: 2016-08-19 07:30:00
 category: reviews
 tags:
