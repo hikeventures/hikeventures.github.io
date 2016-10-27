@@ -1,5 +1,5 @@
 ---
-title: The best waterproof 360 4K video cameras
+title: The best waterproof 360 4K cameras
 description: My selection of the best 4K 360 cameras
 date: 2016-09-26 05:28:01
 category: best
@@ -17,7 +17,7 @@ As we are always interested in new camera gear for our next adventure I was inte
 <!--more-->
 
 <hr>
-<h1>The best 360 4K video cameras</h1>
+<h1>The best waterproof 360 4K cameras</h1>
 <div class="table-responsive">
 <table class="table table-hover table-bordered list_items_3">
         <thead>
