@@ -53,7 +53,7 @@ Personally, I like the Petzl Nao Plus most since it has plenty of features and a
         </tr>
 
         <tr>
-          <td><a href="http://amzn.to/2drIdg3" target="_blank" rel="nofollow">Petzl Nao Plus</a></td><td>187g</td><td>750</td>
+          <td><a href="http://amzn.to/2dLhhNf" target="_blank" rel="nofollow">Petzl Nao</a></td><td>187g</td><td>575</td>
         </tr>
 
         <tr>
@@ -80,17 +80,17 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 
 <hr>
 
-<h1><a href="https://www.amazon.com/gp/product/B01LFW5BZA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LFW5BZA&linkCode=as2&tag=hikeve-20&linkId=ab1bc83c79f0d72682bee02feeb7da49" rel="nofollow">Petzl Nao Plus</a></h1>
+<h1><a href="http://amzn.to/2dLhhNf" rel="nofollow">Petzl Nao</a></h1>
 
-<a href="https://www.amazon.com/gp/product/B01LFW5BZA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LFW5BZA&linkCode=as2&tag=hikeve-20&linkId=ab1bc83c79f0d72682bee02feeb7da49" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LFW5BZA&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LFW5BZA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00LMCATH4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LMCATH4&linkCode=as2&tag=hikeve-20&linkId=46f6e1666601682a4c187945070c88b7"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00LMCATH4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00LMCATH4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 187 grams / 0.4 lbs  
 **Lumen:** 750  
 **Watertightness:** IP X4 (water resistant)
 
-The Petzl Nao Plus features 750 lumen, 400 Lumen more than the first model. With 750 lumen you can see 140 m into the distance. It's reactive lightning system let's you also adjust the light level automatically without turning or pushing any buttons on the headlamp. With reactive lightning you will have a burn time of 6 hours and 30 minutes- You are able to charge the battery of the Petzl Nao within 5 hours. Usually, I also take an additional battery with me such as the Anker Astro E5 to charge my headlamp and other USB devices during my trips. You can also adjust the straps not the sides and on the top. I also have the <a href="http://amzn.to/2f2H8kG" rel="nofollow">Petzl Nao Belt Kit</a>, which allows me to carry the battery in my backpack or on my belt rather than on my head. It does not just feel better to have less weight on your head but also prevents battery drain if the temperatures are low. With the OS by Petzl you are also able to adjust the light levels on your PC / Mac. The Petzl Nao is my preferred headlamp! If you are looking for a lighter headlamp which can also be charged by USB then have a look at the Petzl Tikka RXP. You can also get an additional <a href="http://amzn.to/2dRcQxe" rel="nofollow" target="_blank">rechargeable battery</a> for the Nao Plus.
+The Petzl Nao Plus features 575 lumen. It's reactive lightning system let's you also adjust the light level automatically without turning or pushing any buttons on the headlamp. With reactive lightning you will have a burn time of 6 hours and 30 minutes- You are able to charge the battery of the Petzl Nao within 5 hours. Usually, I also take an additional battery with me such as the Anker Astro E5 to charge my headlamp and other USB devices during my trips. You can also adjust the straps not the sides and on the top. I also have the <a href="http://amzn.to/2f2H8kG" rel="nofollow">Petzl Nao Belt Kit</a>, which allows me to carry the battery in my backpack or on my belt rather than on my head. It does not just feel better to have less weight on your head but also prevents battery drain if the temperatures are low. With the OS by Petzl you are also able to adjust the light levels on your PC / Mac. The Petzl Nao is my preferred headlamp! If you are looking for a lighter headlamp which can also be charged by USB then have a look at the Petzl Tikka RXP. You can also get an additional <a href="http://amzn.to/2dRcQxe" rel="nofollow" target="_blank">rechargeable battery</a> for the Nao Plus.
 
-<a href="http://amzn.to/2d29ys9" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2dLhhNf" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---  
 
