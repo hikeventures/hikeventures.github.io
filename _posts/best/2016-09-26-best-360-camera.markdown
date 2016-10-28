@@ -1,6 +1,7 @@
 ---
-title: The best waterproof 360 4K cameras
-description: My selection of the best 4K 360 cameras
+title: The best waterproof 360 4K
+cameras
+description: My selection of the best 4K 360 cameras - Nikon KeyMission 360 or 360fly 4K
 date: 2016-09-26 05:28:01
 category: best
 tags:
@@ -31,7 +32,7 @@ As we are always interested in new camera gear for our next adventure I was inte
           <td><a href="http://amzn.to/2dEVRzy" rel="nofollow" target="_blank">Nikon KeyMission 360</a></td><td>198</td><td>f/2.0</td><td>IPX8</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2dEVRzy" rel="nofollow" target="_blank">36fly 4K</a></td><td>172</td><td>f/2.5</td><td>IPX6</td>
+          <td><a href="http://amzn.to/2dEVRzy" rel="nofollow" target="_blank">360fly 4K</a></td><td>172</td><td>f/2.5</td><td>IPX6</td>
         </tr>
 </tbody>
 </table>
