@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Best backpacking gear and gadget gift ideas for him for Christmas 2016
+title: Best 12 backpacking gear gift ideas for him for Christmas 2016
 description: The best hiking and backpacking christmas gifts for 2016
 date: 2016-09-19 07:30:00
 category: reviews
@@ -8,7 +8,7 @@ tags:
   - gifts
   - christmas
 ---
-Christmas 2016 is approaching us and I decided to write a blog post with the best backpacking gear gift ideas for him for this year. I have tried to select gear which can be used for hiking, backpacking, climbing, skiing, snowshoeing or packrafting so there should be something for everyone. This blog post contains affiliate links.
+Christmas is approaching us and I decided to write a blog post with the 12 best backpacking gear gift ideas for him for Christmas 2016. I have tried to select gear which can be used for hiking, backpacking, climbing, skiing, snowshoeing or packrafting so there should be something for everyone. This blog post contains affiliate links.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15913321903/in/album-72157651193131682/" title="Lapland Finland"><img src="https://c8.staticflickr.com/8/7295/15913321903_c77e978900_k.jpg" width="2048" height="1360" alt="Christmas Outdoor Gear Hiking backpacking skiing snowshoeeing 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -106,8 +106,6 @@ The Therm-a-Rest NeoAir XTherm is my go-to sleeping pad throughout the year here
 If you are planning to hike in remote places where you won't have a phone signal then you should consider taking a DeLorme InReach Explorer with you. It also has a digital compass, route planning features, trip statistics, altimeter, track logging and weights 190 grams.
 
 <a href="http://amzn.to/2e39SXr" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
-
----
 
 ---
 
