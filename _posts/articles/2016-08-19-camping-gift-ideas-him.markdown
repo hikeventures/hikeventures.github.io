@@ -1,14 +1,14 @@
 ---
 layout: post
-title: The best camping gift ideas for him
-description: Camping gift ideas which probably every husband would like to have.
+title: The best camping gift ideas for him 2017
+description: Camping gift ideas which probably every man would like to have.
 date: 2016-08-19 07:30:00
 category: reviews
 tags:
   - gifts
   - christmas
 ---
-Are you looking for a gift for your husband? We might have some camping gift ideas which he would definitely like as we like them too. We have selected a variety of products which might be interesting for your husband if he likes to go hiking, backpacking, packrafting, skiing or snowshoeing. We hope you will find a nice gift. This blog post contains affiliate links.
+Are you looking for a camping gift for your husband? We might have some camping gift ideas for 2017 which he would definitely like as we like them too. We have selected a variety of products which might be interesting for your husband if he likes to go hiking, backpacking, packrafting, skiing or snowshoeing. We hope you will find a nice gift. This blog post contains affiliate links.
 
 <img src="https://farm4.staticflickr.com/3934/15515022052_94a162682e_b.jpg" width="1024" height="683" alt="Autumn Forrest Finland">
 
