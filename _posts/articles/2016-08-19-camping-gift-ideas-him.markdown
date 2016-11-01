@@ -10,8 +10,6 @@ tags:
 ---
 Are you looking for a camping gift for your husband? We might have 12 camping gift ideas for 2017 which he would definitely like as we like them too. We have selected a variety of products which might be interesting for your husband if he likes to go hiking, backpacking, packrafting, skiing or snowshoeing. We hope you will find a nice gift. This blog post contains affiliate links.
 
-<img src="https://farm4.staticflickr.com/3934/15515022052_94a162682e_b.jpg" width="1024" height="683" alt="Autumn Forrest Finland">
-
 ---
 
 <h1><a href="http://amzn.to/2eED2uN" target="_blank" rel="nofollow">GoPro Hero5 Session</a></h1>
