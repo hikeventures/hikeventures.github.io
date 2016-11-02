@@ -14,7 +14,7 @@ For my next snowshoeing trip in Lapland I was looking for a new pair of gloves o
 
 ---
 
-# The best ski and snowboarding gloves for 2016
+# The best winter gloves for skiing and snowboarding for 2017
 
 <div class="table-responsive">
 
