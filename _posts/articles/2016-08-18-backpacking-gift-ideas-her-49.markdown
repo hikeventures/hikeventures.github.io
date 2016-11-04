@@ -10,8 +10,6 @@ tags:
 ---
 Here is a selecetion of camping, hiking and backpacking gift and gadget ideas for women. We have asked a view women what they would like to buy and here is the result. So if you need a gift for your girlfriend or wife you might find something in this blog post. This blog post contains affiliate links.
 
-<img src="https://farm4.staticflickr.com/3934/15515022052_94a162682e_b.jpg" width="1024" height="683" alt="Autumn Forrest Finland">
-
 ---
 
 <h1><a href="http://amzn.to/2fbL8KX" rel="nofollow" target="_blank">Snail Shape Silicone Tea Bag Holder</a></h1>
