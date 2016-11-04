@@ -10,8 +10,6 @@ tags:
 ---
 Here is a selecetion of camping, hiking and backpacking gift and gadget ideas for women. We have asked a view women what they would like to buy and here is the result. So if you need a present for your girlfriend of wife you my find something in our selection. This blog post contains affiliate links.
 
-<img src="https://farm4.staticflickr.com/3934/15515022052_94a162682e_b.jpg" width="1024" height="683" alt="Autumn Forrest Finland">
-
 ---
 
 <h1><a href="http://amzn.to/2fbL8KX" rel="nofollow" target="_blank">Snail Shape Silicone Tea Bag Holder</a></h1>
@@ -36,7 +34,7 @@ Do you have something to celebrate outdoors? Those GSI outdoors champagne flutes
 
 <h1><a href="http://amzn.to/2ehwgwT" rel="nofollow" target="_blank">Nalgene Tritan Wide Mouth BPA-Free Water Bottle, 1-Quart</a></h1>
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/B001NCDE8O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001NCDE8O&linkCode=as2&tag=hikeve-20&linkId=90920dfc9353465553d40bb30fd73dc3"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001NCDE8O&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001NCDE8O" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.com/gp/product/B001NCDE8Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001NCDE8Y&linkCode=as2&tag=hikeve-20&linkId=d282057679e8b9c13c0d9656864c95cd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001NCDE8Y&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001NCDE8Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Concerned about your health when drinking water from a plastic bottle? The Nalgene bottles are BPA free. I use it sometimes also in combination with a water filter.
 
@@ -62,17 +60,6 @@ The Opinel N Degree02 Fuchsia knife is small and easy to carry. Probably one of 
 The GSI Outdoors Backpacker Mug keeps your beverage warm and packs small into your backpack.
 
 <a href="http://amzn.to/2fbTkeh" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
-
----
-
-
-<h1><a href="http://amzn.to/2eu2yT7" rel="nofollow" target="_blank">Marshmallow By Ototo Design</a></h1>
-
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00SRBAQE4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SRBAQE4&linkCode=as2&tag=hikeve-20&linkId=a675f9a73bcbc28d50dc6d9546e68b73"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00SRBAQE4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00SRBAQE4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-The Marshmallow By Ototo Design is a pencil and eraser. Now you can have a piece of the great outdoors in your office.
-
-<a href="http://amzn.to/2eu2yT7" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
 
 ---
 
