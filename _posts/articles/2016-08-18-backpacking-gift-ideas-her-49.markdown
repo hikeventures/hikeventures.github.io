@@ -9,18 +9,19 @@ tags:
   - gifts
   - christmas
 ---
-Here is a selecetion of camping, hiking and backpacking gift idea for women. We have asked a view women what they would like to have and here is the result. This blog post contains affiliate links.
+Here is a selecetion of camping, hiking and backpacking gift ideas for women. We have asked a view women what they would like to buy and here is the result. This blog post contains affiliate links.
 
 <img src="https://farm4.staticflickr.com/3934/15515022052_94a162682e_b.jpg" width="1024" height="683" alt="Autumn Forrest Finland">
 
 ---
 
-
 2
 
-<h1><a href="http://amzn.to/2fbL8KX" rel="nofollow" target="_blank">5pcs Snail Shape Silicone Tea Bag Holder Cup Mug Candy Colors</a></h1>
+<h1><a href="http://amzn.to/2fbL8KX" rel="nofollow" target="_blank">Snail Shape Silicone Tea Bag Holder</a></h1>
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B016ZADA9G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B016ZADA9G&linkCode=as2&tag=hikeve-20&linkId=35549cac959be83d45d8faf432e12e6d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B016ZADA9G&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B016ZADA9G" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+Snails on your tea cup ... they are going to make sure that your tea bags stay in place.
 
 <a href="http://amzn.to/2fbL8KX" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
 
@@ -32,6 +33,8 @@ Here is a selecetion of camping, hiking and backpacking gift idea for women. We 
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B001U7KPDO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001U7KPDO&linkCode=as2&tag=hikeve-20&linkId=458b6a9be7ac2cea7cf19c170d0edee8"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001U7KPDO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001U7KPDO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+Do you have something to celebrate outdoors? Those GSI outdoors champagne flutes are light and probably won't break like the ones made of glass.
+
 <a href="http://amzn.to/2fzbf2S" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
 
 ---
@@ -41,6 +44,8 @@ Here is a selecetion of camping, hiking and backpacking gift idea for women. We 
 <h1><a href="http://amzn.to/2ehwgwT" rel="nofollow" target="_blank">Nalgene Tritan Wide Mouth BPA-Free Water Bottle, 1-Quart</a></h1>
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B001NCDE8O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001NCDE8O&linkCode=as2&tag=hikeve-20&linkId=90920dfc9353465553d40bb30fd73dc3"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001NCDE8O&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001NCDE8O" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+Concerned about your health when drinking water from a plastic bottle? The Nalgene bottles are BPA free. I use it sometimes also in combination with a water filter.
 
 <a href="http://amzn.to/2ehwgwT" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
 
@@ -54,6 +59,8 @@ Here is a selecetion of camping, hiking and backpacking gift idea for women. We 
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00WJ078PY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00WJ078PY&linkCode=as2&tag=hikeve-20&linkId=11a7dc9b5148b6f3d8e5ae0803a4f3de"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00WJ078PY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00WJ078PY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+The Opinel N Degree02 Fuchsia knife is small and easy to carry. Probably one of the most versatile hiking accessory which can be also used on days when you are not on the trail.
+
 <a href="http://amzn.to/2ehiL0h" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
 
 ---
@@ -63,6 +70,8 @@ Here is a selecetion of camping, hiking and backpacking gift idea for women. We 
 <h1><a href="http://amzn.to/2fbTkeh" rel="nofollow" target="_blank">GSI Outdoors Backpacker Mug</a></h1>
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00S4LJL02/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00S4LJL02&linkCode=as2&tag=hikeve-20&linkId=70339875daa417bc6726a7746abdc1fd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00S4LJL02&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00S4LJL02" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+The GSI Outdoors Backpacker Mug keeps your beverage warm and packs small into your backpack.
 
 <a href="http://amzn.to/2fbTkeh" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
 
@@ -75,6 +84,8 @@ Here is a selecetion of camping, hiking and backpacking gift idea for women. We 
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00SRBAQE4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SRBAQE4&linkCode=as2&tag=hikeve-20&linkId=a675f9a73bcbc28d50dc6d9546e68b73"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00SRBAQE4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00SRBAQE4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+The Marshmallow By Ototo Design is a pencil and eraser. Now you can have a piece of the great outdoors in your office.
+
 <a href="http://amzn.to/2eu2yT7" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
 
 ---
@@ -85,6 +96,8 @@ Here is a selecetion of camping, hiking and backpacking gift idea for women. We 
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00UBWQHT0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UBWQHT0&linkCode=as2&tag=hikeve-20&linkId=84dc948951fb3b74778294772593570f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00UBWQHT0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00UBWQHT0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+The SUCK UK Rechargeable Floating Light turns glasses into lamps.
+
 <a href="http://amzn.to/2fz47Dx" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
 
 ---
@@ -94,6 +107,8 @@ Here is a selecetion of camping, hiking and backpacking gift idea for women. We 
 <h1><a href="http://amzn.to/2fbN7Pl" rel="nofollow" target="_blank">Kikkerland Morphing Mug, Woodlands</a></h1>
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00EH287TI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EH287TI&linkCode=as2&tag=hikeve-20&linkId=d0cde3fc4e63dea8f6aca434489976f8"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00EH287TI&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00EH287TI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+The image on the Kikkerland Morphing Mug changes with the temperature of your beverage.
 
 <a href="http://amzn.to/2fbN7Pl" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
 
@@ -106,6 +121,8 @@ Here is a selecetion of camping, hiking and backpacking gift idea for women. We 
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00ICOSBF2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ICOSBF2&linkCode=as2&tag=hikeve-20&linkId=9feab0b960938685199c91b1cc813800"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00ICOSBF2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00ICOSBF2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+The SUCK UK Original and Official Bottle Light turns bottles into nightlights.
+
 <a href="http://amzn.to/2e7LvFl" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
 
 ---
@@ -116,6 +133,8 @@ Here is a selecetion of camping, hiking and backpacking gift idea for women. We 
 <h1><a href="http://amzn.to/2ehlaIt" rel="nofollow" target="_blank">Light My Fire Titanium Spork</a></h1>
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B001E7S5BO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001E7S5BO&linkCode=as2&tag=hikeve-20&linkId=4ceca414a1cf31c80aa1f824fee52d91"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001E7S5BO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001E7S5BO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+The Light My Fire Titanium Spork is probably one of the best hiking accesories on the trail. It's light and works as a spoon and a fork.
 
 <a href="http://amzn.to/2ehlaIt" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
 
@@ -128,6 +147,8 @@ Here is a selecetion of camping, hiking and backpacking gift idea for women. We 
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00269H6DM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00269H6DM&linkCode=as2&tag=hikeve-20&linkId=233150de7b0f6708b61a3026df96843a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00269H6DM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00269H6DM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+The Opinel N Degree7 Stainless Steel Knife is another quality knife which you can pack into your backpack. Made in France.
+
 <a href="http://amzn.to/2fbQ9TR" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
 
 ---
@@ -137,6 +158,8 @@ Here is a selecetion of camping, hiking and backpacking gift idea for women. We 
 <h1><a href="http://amzn.to/2f7oYun" rel="nofollow" target="_blank">LETHMIK Unique Slouchy Beanie Unisex Mix Knit Skully Hat Ski Cap</a></h1>
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01M147XY2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01M147XY2&linkCode=as2&tag=hikeve-20&linkId=5c242e10214a6415f4b40afd12859a87"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01M147XY2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01M147XY2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+The LETHMIK Unique Slouchy Beanie Unisex Mix Knit Skully Hat Ski Cap is made of 100% Soft and Comfortable Acrylic Material and Super Warm Fleece Lined.
 
 <a href="http://amzn.to/2f7oYun" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
 
@@ -149,18 +172,19 @@ Here is a selecetion of camping, hiking and backpacking gift idea for women. We 
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01DHUU78O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01DHUU78O&linkCode=as2&tag=hikeve-20&linkId=d0324c1ffd6c0cfaf5a069b63600ddb9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01DHUU78O&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01DHUU78O" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+The Baby Nessie Tea Infuser is a fun way to drink tea. Just fill the bottom with loose tea leaves and steep. It's also great for stirring.
+
 <a href="http://amzn.to/2fbJysj" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
 
 ---
 
 14
 
-<h1><a href="http://amzn.to/2dSCTCo" target="_blank" rel="nofollow">
-Smartwool Women's Hiking Medium Crew</a></h1>
+<h1><a href="http://amzn.to/2dSCTCo" target="_blank" rel="nofollow">Smartwool Women's Hiking Medium Crew</a></h1>
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B0018NSHHG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0018NSHHG&linkCode=as2&tag=hikeve-20&linkId=57c99b6f79ebbbc4675fc406ba4741ac"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0018NSHHG&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" rel="nofollow"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0018NSHHG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-
+The Smartwool Women's Hiking Medium Crew are high quality hiking socks. I wear them too (male version) and they are very comfortable.
 
 <a href="http://amzn.to/2dSCTCo" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
@@ -172,15 +196,19 @@ Smartwool Women's Hiking Medium Crew</a></h1>
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B002YT2CFG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002YT2CFG&linkCode=as2&tag=hikeve-20&linkId=97a2460f4b4e7e66325e846a7aec6773"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B002YT2CFG&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B002YT2CFG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+The GSI Outdoors Stainless Steel Nesting Wine Goblet is perfect for any outdoor party and more durable than glass.
+
 <a href="http://amzn.to/2e7SJcG" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
 
 ---
 
 15
 
-<h1><a href="http://amzn.to/2fbPKAN rel="nofollow" target="_blank">Opinel OP01697 No 7 Round End Safety Folding Knie 2.875" Blade/Blue Wood Handle</a></h1>
+<h1><a href="http://amzn.to/2fbPKAN" rel="nofollow" target="_blank">Opinel No 7 Round End Safety Folding Knife 2.875" Blade/Blue Wood Handle</a></h1>
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00GSAJOP8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GSAJOP8&linkCode=as2&tag=hikeve-20&linkId=244671123081166f2a319c4e040256fc"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00GSAJOP8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00GSAJOP8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+The Opinel OP01697 No 7 Round End Safety Folding Knife is another high quality knife from France which you can pack into your backpack.
 
 <a href="http://amzn.to/2fbPKAN" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
 
@@ -189,9 +217,11 @@ Smartwool Women's Hiking Medium Crew</a></h1>
 15
 
 
-<h1><a href="http://amzn.to/2f3HXZe" rel="nofollow" target="_blank">Doiy DYKITLBBL- Koinobori travel laundry bag</a></h1>
+<h1><a href="http://amzn.to/2f3HXZe" rel="nofollow" target="_blank">Doiy Koinobori travel laundry bag</a></h1>
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01610OYJK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01610OYJK&linkCode=as2&tag=hikeve-20&linkId=7ba98d916412f154238eb288565bf43c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01610OYJK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01610OYJK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+The Doiy Koinobori travel laundry bag is quite useful to seperate your dirty from the clean clothes while travelling.
 
 <a href="http://amzn.to/2f3HXZe" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
 
@@ -204,17 +234,9 @@ Smartwool Women's Hiking Medium Crew</a></h1>
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00UZI69QQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UZI69QQ&linkCode=as2&tag=hikeve-20&linkId=38a7a28e49005fce96cacdce877a0553"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00UZI69QQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00UZI69QQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+A hat is always a good gift. It's probably just a matter of color and design but how about the Buff Adult Knitted Pom Pom Beanie Hat?
+
 <a href="http://amzn.to/2fbGUTN" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
-
----
-
-15
-
-<h1><a href="http://amzn.to/2fbPKAN rel="nofollow" target="_blank">Opinel OP01697 No 7 Round End Safety Folding Knie 2.875" Blade/Blue Wood Handle</a></h1>
-
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00GSAJOP8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GSAJOP8&linkCode=as2&tag=hikeve-20&linkId=244671123081166f2a319c4e040256fc"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00GSAJOP8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00GSAJOP8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-<a href="http://amzn.to/2fbPKAN" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
 
 ---
 
@@ -223,6 +245,8 @@ Smartwool Women's Hiking Medium Crew</a></h1>
 <h1><a href="http://amzn.to/2e7Hm4e" rel="nofollow" target="_blank">Opinel Child's Horse Folding Knife,2.875in,Round Tip Blade</a></h1>
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00F66J09U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F66J09U&linkCode=as2&tag=hikeve-20&linkId=91bfb8a6277976c8c00f1dc6e4b6b090"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00F66J09U&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00F66J09U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+ The Opinel Child's Horse Folding Knife comes with a safety ring for locking the blade and is made of Sandvik steel.
 
 <a href="http://amzn.to/2e7Hm4e" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
 
@@ -235,6 +259,8 @@ Smartwool Women's Hiking Medium Crew</a></h1>
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01GLMIM46/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GLMIM46&linkCode=as2&tag=hikeve-20&linkId=fcdd1d02b3255d610752ba3f43d5a7ff"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01GLMIM46&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01GLMIM46" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+The Society6 Falling Opinel Carry-All Pouch is perfect for carrying toiletries, art supplies and makeup. The large one can also fit an iPad.
+
 <a href="http://amzn.to/2e7MJk3" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
 
 ---
@@ -244,6 +270,8 @@ Smartwool Women's Hiking Medium Crew</a></h1>
 <h1><a href="http://amzn.to/2e7VP0a" rel="nofollow" target="_blank">GSI Outdoors Wine Tote</a></h1>
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B007F88VL0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007F88VL0&linkCode=as2&tag=hikeve-20&linkId=cd7afa91102a26ff7942c4c5c61e43e4"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B007F88VL0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B007F88VL0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+For wine lovers there is the GSI Outdoors Wine Tote which insulates the beverage and can be filled with 750 ml. It also comes with a shoulder strap and turns it into a hydration pack.
 
 <a href="http://amzn.to/2e7VP0a" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
 
@@ -257,6 +285,8 @@ Smartwool Women's Hiking Medium Crew</a></h1>
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B016DIR9Y2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B016DIR9Y2&linkCode=as2&tag=hikeve-20&linkId=28cc1747f105cedfd638b38af08e6889"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B016DIR9Y2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B016DIR9Y2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+Once you have traveled a place in the USA you can scratch it off from this map.
+
 <a href="http://amzn.to/2fbLQI1" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
 
 ---
@@ -267,17 +297,9 @@ Smartwool Women's Hiking Medium Crew</a></h1>
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00O8PNW6M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00O8PNW6M&linkCode=as2&tag=hikeve-20&linkId=749b35ac8e0c76d6aeee5455ae5f8e05"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00O8PNW6M&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00O8PNW6M" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+Once you have traveled a place you can scratch it off from this map.
+
 <a href="http://amzn.to/2fbNObl" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
-
----
-
-23
-
-<h1><a href="http://amzn.to/2e7Fb0J" rel="nofollow" target="_blank">Opinel N Degree07 Nature - Snow Boxed Stainless Steel Knife, 8 cm Blade</a></h1>
-
-<a target="_blank"  href="https://www.amazon.com/gp/product/B005GG0VWK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005GG0VWK&linkCode=as2&tag=hikeve-20&linkId=813192610bb22f113e91022e375075a1"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B005GG0VWK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B005GG0VWK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-<a href="http://amzn.to/2e7Fb0J" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
 
 ---
 
@@ -286,6 +308,8 @@ Smartwool Women's Hiking Medium Crew</a></h1>
 <h1><a href="http://amzn.to/2f7riSb" rel="nofollow" target="_blank">Kikkerland Birch Log Micro Bead Head Cushion</a></h1>
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B0099PEWHE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0099PEWHE&linkCode=as2&tag=hikeve-20&linkId=f62c561286cff722d68465a202918ecb"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0099PEWHE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0099PEWHE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+Get the outdoors indoors with the Kikkerland Birch Log Micro Bead Head Cushion. This is a great decorative item for home.
 
 <a href="http://amzn.to/2f7riSb" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
 
