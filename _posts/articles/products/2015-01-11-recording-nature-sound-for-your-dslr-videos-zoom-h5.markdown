@@ -44,15 +44,18 @@ You could also buy the new <a href="http://amzn.to/2dUJ64d" rel="nofollow" targe
 * 276 grams for the Zoom H5 including X/Y microphone & excluding 2 x AA batteries
 * 47 grams for 2 AA batteries
 * 42 grams for the USB cable
-* 311 grams for the <a href="http://amzn.to/1wKEtsW">SLIK Mini Pro III</a>
-* 248 grams for the 10.000 mAh Anker Astro 3 battery (there is also the <a href="http://amzn.to/1slxquk">Anker PowerCore 26800</a> available which comes with 26.800 mAh) and weights 485 grams.
+* 311 grams for the <a href="http://amzn.to/1wKEtsW" rel="nofollow">SLIK Mini Pro III</a>
+* 248 grams for the 10.000 mAh Anker Astro 3 battery (there is also the <a href="http://amzn.to/1slxquk" rel="nofollow">Anker PowerCore 26800</a> available which comes with 26.800 mAh) and weights 485 grams.
 
 ---
 
 # Protecting your Zoom H5
+<a href="https://www.amazon.com/gp/product/B01AJJJ7DC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AJJJ7DC&linkCode=as2&tag=hikeve-20&linkId=247cd61d562300cfe371dc0677685d3e" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01AJJJ7DC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01AJJJ7DC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 It's always good to protect your electronic devices when you work outdoors. Zoom offers a protective case - the <a href="http://amzn.to/2eG64un" rel="nofollow" target="_blank">Zoom PCH-5</a> which comes with a fold-away clear window cover for making adjustments, removable mic element cover, belt loop, boom pole sleeve and keyring mounting options.
 
-<a href="https://www.amazon.com/gp/product/B01AJJJ7DC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AJJJ7DC&linkCode=as2&tag=hikeve-20&linkId=247cd61d562300cfe371dc0677685d3e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01AJJJ7DC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01AJJJ7DC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://amzn.to/2eG64un" rel="nofollow"><button class="btn btn-danger">Buy on Amazon</button></a>
+
 
 ---
 
@@ -65,12 +68,18 @@ It's always good to protect your electronic devices when you work outdoors. Zoom
 - Battery switch with "Low Batt" indicator
 - Rugged all-metal housing
 
+<a href="https://www.amazon.com/gp/product/B00FX8V3SC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FX8V3SC&linkCode=as2&tag=hikeve-20&linkId=3aa4b145ca3f3324fd64485a61572ae2" rel="nofollow"><button class="btn btn-danger">Buy on Amazon</button></a>
+
+
 ---
 
 # Windshields for Sennheiser MKE 600
+<a href="https://www.amazon.com/gp/product/B00B8Z76X0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00B8Z76X0&linkCode=as2&tag=hikeve-20&linkId=17b78af7afe16f089958b85dbfab4df7" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00B8Z76X0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00B8Z76X0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 The Sennheiser MKE 600 comes with a foam windshield and a shock mount. However I might also consider getting a Rycote 15cm Classic-Softie (19/22) for outdoor recording like the <a href="http://amzn.to/2eFD5po" rel="nofollow" target="_blank">Sennheiser MZH 600</a>.
 
-<a href="https://www.amazon.com/gp/product/B00B8Z76X0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00B8Z76X0&linkCode=as2&tag=hikeve-20&linkId=17b78af7afe16f089958b85dbfab4df7" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00B8Z76X0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00B8Z76X0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://amzn.to/2eFD5po" rel="nofollow"><button class="btn btn-danger">Buy on Amazon</button></a>
+
 
 ---
 
@@ -80,9 +89,15 @@ Rycote InVision Video Mic Lyre Shockmount</a> to attach my Sennheiser MKE 600 to
 
 <a href="https://www.amazon.com/gp/product/B002YN87TC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002YN87TC&linkCode=as2&tag=hikeve-20&linkId=5f90b9756621b31c6852a03052a06213" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B002YN87TC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20"  rel="nofollow" target="_blank"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B002YN87TC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+<a href="https://www.amazon.com/gp/product/B002JBFCKQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002JBFCKQ&linkCode=as2&tag=hikeve-20&linkId=fdba43b0525dc406576809977d70dd60" rel="nofollow"><button class="btn btn-danger">Buy on Amazon</button></a>
+
+
 If I plan to attach both - a LED light (see below) and my Sennheiser MKE - to my Sony A7, then I attach also mount a <a href="http://amzn.to/2eH2pwO" rel="nofollow" target="_blank">Rycote 20cm Hot Shoe Extension</a> on my Sony A7.
 
 <a href="https://www.amazon.com/gp/product/B002JBFCKQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002JBFCKQ&linkCode=as2&tag=hikeve-20&linkId=fdba43b0525dc406576809977d70dd60"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B002JBFCKQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20"  rel="nofollow" target="_blank"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B002JBFCKQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<a href="https://www.amazon.com/gp/product/B002JBFCKQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002JBFCKQ&linkCode=as2&tag=hikeve-20&linkId=fdba43b0525dc406576809977d70dd60" rel="nofollow"><button class="btn btn-danger">Buy on Amazon</button></a>
+
 
 ---
 
@@ -103,9 +118,13 @@ I will most likely test the <a href="http://amzn.to/1yTJDZs" rel="nofollow">Zoom
 ---
 
 # Improving Lightning
+<a href="https://www.amazon.com/gp/product/B00WS2EL62/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00WS2EL62&linkCode=as2&tag=hikeve-20&linkId=5c8074fcaceaf51adaf93e9d9ff0de8c" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00WS2EL62&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00WS2EL62" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 Obviously, with the equipment mentioned above you should get great audio quality for your videos. To improve your videos and pictures I would also recommend an additional LED light. I recently discovered that Manfrotto has a really nice and compact LED light - the <a href="http://amzn.to/2eG3GnK" rel="nofollow" target="_blank">Manfrotto LUMIMUSE 8 LED Light</a> - which I am planning to use for indoor or night filming. It should also work quite well to take along on hiking trips since it is so compact.
 
-<a href="https://www.amazon.com/gp/product/B00WS2EL62/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00WS2EL62&linkCode=as2&tag=hikeve-20&linkId=5c8074fcaceaf51adaf93e9d9ff0de8c" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00WS2EL62&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00WS2EL62" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://amzn.to/2eG3GnK" rel="nofollow"><button class="btn btn-danger">Buy on Amazon</button></a>
+
+
 
 ---
 

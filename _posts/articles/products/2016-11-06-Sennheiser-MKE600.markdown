@@ -23,21 +23,21 @@ Yesterday I went with <a href="http://caide.kuvat.fi/" rel="nofollow">Caj</a> an
 
 The Sennheiser MKE 600 is a shotgun microphone, which means that it can catch sound from a specific direction while lowering noise coming from the side. It can be operated by Phantom power from your camera or with a AA battery.
 
-<a href="http://amzn.to/2fn8WwS"><button class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2fn8WwS" rel="nofollow"><button class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
 <h1><a href="http://amzn.to/2fn8WwS" target="_blank" rel="nofollow">Sennheiser KA 600</a></H1>
 The Sennheiser connects the camera with the microphone. It has a xlr and a 3.5 mm jack.
 
-<a href="http://amzn.to/2fn8WwS"><button class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2fn8WwS" rel="nofollow"><button class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
 <h1><a href="http://amzn.to/2fn8WwS" target="_blank" rel="nofollow">Rycote Hot Shoe Extension 20 cm</a></H1>
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00MHS75TC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MHS75TC&linkCode=as2&tag=hikeve-20&linkId=0bf570b79b8244cf734b39544773ccd3" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00MHS75TC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00MHS75TC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="http://amzn.to/2fn8WwS"><button class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2fn8WwS" rel="nofollow"><button class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -47,7 +47,7 @@ Rycote InVision Video Mic Lyre Shockmount Suspension</a></H1>
 
 The Rycote InVision Video Mic Lyre Shockmount Suspension reduces noise when operating or moving with the camera. It's a bit expensive but worth to considering if you do a lot of videos.
 
-<a href="http://amzn.to/2epq9n9"><button class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2epq9n9" rel="nofollow"><button class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -56,4 +56,4 @@ The Rycote InVision Video Mic Lyre Shockmount Suspension reduces noise when oper
 
 The Zeiss Batis 25mm f/2 was mounted on my Sony A7. The Zeiss Batis 25mm is my favorite lens as it is quite versatile as a wide angle lens. It's always on my camera. It's also a bit expensive but I really like the results which I get with this lens. It's also great for astrophotography since it shows you the focal distance in an oled screen.
 
-<a href="http://amzn.to/2eB0laV"><button class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2eB0laV" rel="nofollow"><button class="btn btn-danger">Buy on Amazon</button></a>
