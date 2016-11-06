@@ -8,13 +8,15 @@ tags:
   - cameras
 layout: post
 ---
-Yesterday I went with <a href="http://caide.kuvat.fi/" rel="nofollow">Caj</a> and Katja to Härmälän Rotko which is located about 20 km North-West of Turku to test my <a href="http://amzn.to/2fn8WwS" target="_blank" rel="nofollow">Sennheiser MKE 600</a> on my <a href="http://amzn.to/2eAYovb" target="_blank" rel="nofollow">Sony A7</a>. The <a href="http://amzn.to/2epkHAK" rel="nofollow" target="_blank">Sennheiser KA 600</a> connected the microphone with the camera. I also had a Rycote Super Softie as a windjammer on my microphone. Between the microphone and the camera I had a <a href="http://amzn.to/2fc5eW2" rel="nofollow" target="_blank">Rycote Hot Shoe Extension</a> and a <a href="http://amzn.to/2epq9n9" rel="nofollow" target="_blank">Rycote InVision Video Mic shock mount suspension</a> installed. The low-pass filter on the Sennheiser MKE 600 microphone was switched off. The lens on my camera was a <a href="http://amzn.to/2eB0laV" rel="nofollow" target="_blank">Zeiss Batis 25mm f/2</a>.
+Yesterday I went with <a href="http://caide.kuvat.fi/" rel="nofollow">Caj</a> and Katja to Härmälän Rotko which is located about 20 km North-West of Turku to test my <a href="http://amzn.to/2fn8WwS" target="_blank" rel="nofollow">Sennheiser MKE 600</a> on my <a href="http://amzn.to/2eAYovb" target="_blank" rel="nofollow">Sony A7</a>. The <a href="http://amzn.to/2epkHAK" rel="nofollow" target="_blank">Sennheiser KA 600</a> connected the microphone with the camera. I also had a Rycote Super Softie as a windjammer on my microphone. Between the microphone and the camera I had a <a href="http://amzn.to/2fc5eW2" rel="nofollow" target="_blank">Rycote Hot Shoe Extension</a> and a <a href="http://amzn.to/2epq9n9" rel="nofollow" target="_blank">Rycote InVision Video Mic</a> shock mount suspension installed. The low-pass filter on the Sennheiser MKE 600 microphone was switched off. The lens on my camera was a <a href="http://amzn.to/2eB0laV" rel="nofollow" target="_blank">Zeiss Batis 25mm f/2</a>.
 
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VFlNWCauFbc" frameborder="0" allowfullscreen></iframe>
 
 <!--more-->
+
+---
 
 <h1><a href="http://amzn.to/2fn8WwS" target="_blank" rel="nofollow">Sennheiser MKE 600</a></H1>
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00B0YPAYQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00B0YPAYQ&linkCode=as2&tag=hikeve-20&linkId=3389c96ef87b43ef0de14f18afc2d686" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00B0YPAYQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00B0YPAYQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
