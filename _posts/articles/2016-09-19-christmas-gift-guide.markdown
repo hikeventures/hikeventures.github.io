@@ -14,7 +14,6 @@ Christmas is approaching us and I decided to write a blog post with the 12 best 
 
 > Last year we have visited Santa Claus in <a href="http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/" target="_blank">Finnish Lapland</a>.
 
-
 ---
 
 <h1><a href="http://amzn.to/2dUSGUr" rel="nofollow" target="_blank">America's Great Hiking Trails</a></h1>
