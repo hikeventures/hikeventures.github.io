@@ -8,6 +8,7 @@ tags:
   - gifts
   - gadgets
 ---
+
 Here is a selecetion of camping, hiking and backpacking gift and gadget ideas for women. We have asked a view women what they would like to buy and here is the result. So if you need a gift for your girlfriend or wife you might find something in this blog post. This blog post contains affiliate links.
 
 ---
