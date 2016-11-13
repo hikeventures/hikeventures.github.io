@@ -7,8 +7,7 @@
         <h4>Hiking & Packrafting Adventures</h4>
         <nav class="navbar navbar-default" role="navigation">
             <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
-                        data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <button type="button" class="navbar-toggle collapsed" onclick="$('#mobile-menu').show()">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
@@ -34,3 +33,23 @@
         <a href="http://www.feedio.co/@hikeventures/" class="rss"></a>
     </div>
 </header>
+<div class="s320" id="mobile-menu">
+    <div class="mobile-menu-logo"><a href="{{ site.url }}"><img src="https://farm6.staticflickr.com/5600/15282435948_a86a69c802_t.jpg"></a></div>
+    <div class="mobile-menu-links">{% assign pages_list = site.pages %} {% assign group = 'navigation' %}
+        <a href="/about/"{% if page.url == '/about/' %} class="active"{% endif %}>About</a>
+        <a href="/"{% if page.url == '/' %} class="active"{% endif %}>Blog</a>
+        <a href="/destinations/"{% if page.url == '/destinations/' %} class="active"{% endif %}>Destinations</a>
+        <a href="/gear-reviews/"{% if page.url == '/gear-reviews/' %} class="active"{% endif %}>Gear Reviews</a>
+        <a href="/blogs/"{% if page.url == '/blogs/' %} class="active"{% endif %}>Links</a>
+        <a href="/archive/"{% if page.url == '/archive/' %} class="active"{% endif %}>Archive</a>
+    </div>
+    <div class="mobile-menu-cross"><a onclick="$('#mobile-menu').hide()">×</a></div>
+    <div class="mobile-menu-social">
+        <a href="https://www.instagram.com/hikeventures/" class="instagram"></a>
+        <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw" class="youtube"></a>
+        <a href="https://www.flickr.com/photos/90204224@N07/" class="flickr"></a>
+        <a href="https://twitter.com/HikeVentures" class="twitter"></a>
+        <a href="https://www.facebook.com/HikeVentures" class="facebook"></a>
+        <a href="http://www.feedio.co/@hikeventures/" class="rss"></a>
+    </div>
+</div>

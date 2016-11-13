@@ -16,7 +16,7 @@ published: true
 
 
  
-            <tr style="background:#EEEEEE;">
+            <tr>
             <td><strong>Backpacks & Bags</strong></td><td></td></tr>
         
         <tr>
@@ -67,7 +67,7 @@ published: true
  
  
  
-<tr style="background:#EEEEEE;">
+<tr>
         
         <td><strong>Camping Kitchen</strong></td><td></td></tr>
         
@@ -98,7 +98,7 @@ published: true
 
 
 
-  <tr style="background:#EEEEEE;">
+  <tr>
 
             <td><strong>Clothing & Layering</strong></td><td></td></tr>
 
@@ -149,7 +149,7 @@ published: true
   
 
 
-<tr style="background:#EEEEEE;">
+<tr>
         <td><strong>Packrafting</strong></td><td></td></tr>
           <tr>
 
@@ -174,7 +174,7 @@ published: true
 </tr>
         
 
-<tr style="background:#EEEEEE;">
+<tr>
         	<td><strong>Snowshoeing</strong></td><td></td></tr>
         <tr>
 
@@ -195,7 +195,7 @@ published: true
       </tr>
         
         
-        <tr style="background:#EEEEEE;">
+        <tr>
         	<td><strong>Other Gear</strong></td><td></td></tr>
         <tr>
 
@@ -244,7 +244,7 @@ published: true
          <td><a href="/Julbo-Swell">Julbo Swell</a></td>
         </tr>
 
-            <tr style="background:#EEEEEE;">
+            <tr>
             <td><strong>Tents & Sleeping bags</strong></td><td></td></tr>
             <tr>
            <td><a href="http://hikeventures.com/cumulus-panyam-450">Cumulus Panyam 450</a></td>
