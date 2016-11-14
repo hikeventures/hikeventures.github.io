@@ -5,16 +5,15 @@ published: true
 
 <div class="my-fluid-container">
     <div class="row">
-        <div class="col-sm-7 col-lg-7 col-md-7 col-xs-12">
+        <div class="col-sm-7 col-lg-7 col-md-7 col-xs-12 page-content-content">
             <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
                 <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span>
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ page.title }}</a>
                 <div class="post-content" itemprop="articleBody">
-
                     {{ content }}
                     <br>
                     Comment on this post on our <a href="https://www.facebook.com/HikeVentures/">Facebook page</a> or on <a
-                        href="https://twitter.com/HikeVentures">Twitter</a>. Visit us on <a href="https://www.instagram.com/hikeventures/">Instagram</a> or watch one of our <a
+                        href="https://twitter.com/HikeVentures">Twitter</a> or watch one of our <a
                         href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw">YouTube videos</a>.
                     <hr>
                     <form action='http://www.feedio.co/@hikeventures/verify' id='subscribe_widget_hikeventures'
@@ -77,12 +76,8 @@ published: true
                 </div>
             </article>
         </div>
-        <div class="col-sm-1 col-lg-1 col-md-1 col-xs-12"></div>
-        <div class="col-sm-4 col-lg-4 col-md-4 col-xs-12">
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;ctc=sidebar&amp;open=_blank"></script>
-      <br><br>
-
+        <div class="col-sm-1 col-lg-1 col-md-1 col-xs-12 page-content-divider"></div>
+        <div class="col-sm-4 col-lg-4 col-md-4 col-xs-12 page-content-sidebar">
             <div class="sidebar-title">
                 <a href="/archive/"><span class="icon"></span>RECENT POSTS</a>
             </div>
@@ -94,9 +89,6 @@ published: true
                 </a>
                 {% endfor %}
             </div>
-
-
-
             <div class="sidebar-title">
                 <a href="https://www.instagram.com/hikeventures/"><span class="icon"></span>HikeVentures</a>
             </div>
@@ -121,8 +113,6 @@ published: true
                     <span class="caption">Sweden</span>
                 </a>
             </div>
-
-
             <center>
                 <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/HikeVentures"
                    data-chrome="noborders" height="600px" width="100%"
@@ -136,10 +126,7 @@ published: true
                         fjs.parentNode.insertBefore(js, fjs);
                     }
                 }(document, "script", "twitter-wjs");</script>
-
-
-          </center>
-
-  </div>
+            </center>
+        </div>
     </div>
 </div>
