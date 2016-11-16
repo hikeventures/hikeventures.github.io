@@ -1,5 +1,4 @@
 ---
-published: false
 title: Layering Winter Gloves for Hiking, Skiing or Snowshoeing
 description: How to keep your hands warm during the winter
 date: 2016-05-10 06:29:01
