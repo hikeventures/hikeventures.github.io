@@ -11,6 +11,8 @@ layout: post
 ---
 Do you need a new down jacket for the winter or for a cold summer night during a hike? Here is our buying guide of the best summer and winter down jackets which we have selected for 2016. We have selected a broad range of down jackets which can be worn in different conditions and for different activities like hiking, backpacking, skiing, snowboarding, mountaineering, climbing or any other backcountry outdoor adventure.
 
+The down jackets we have selected have a fill power of 800 and more since they offer the best warmth-weight ratio and are considered to be lightweight down jackets. We have included down jackets which you can use as a 3-season down jacket as well as winter down jackets. The lighter jackets usually come with less down and are more suitable for warmer months or as a mid-layer during the winter. 
+
 <hr>
 
 # The best down jackets of 2016
@@ -86,8 +88,6 @@ We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Cont
 > On our packrafting trip in the Sarek National Park in Sweden we had also down jackets with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
 <hr>
-
-The down jackets we have selected have a fill power of 800 and more since they offer the best warmth-weight ratio and are considered to be lightweight down jackets. We have included down jackets which you can use as a 3-season down jacket as well as winter down jackets. The lighter jackets usually come with less down and are more suitable for warmer months or as a mid-layer during the winter. Of course there are also super warm down jackets which are made for arctic conditions but they are also super heavy. An example would be the <a href="http://amzn.to/2ej08JL" rel="nofollow" target="_blank">Canada Goose Expedition Parka</a>.
 
 Sometimes you might also get a down jacket for a significant lower price especially at the end of the season when stores want to clear their stock. In many cases the new models just come with a different color so it's worth to have a look on the old models as well.
 
