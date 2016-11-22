@@ -1,7 +1,7 @@
 ---
 title: What are the best Down Jackets for 2016
 description: Need a warm jacket for your autumn or winter? We found the best down jackets for 2016
-date: 2016-11-17 20:43:52
+date: 2016-10-10 20:43:52
 category: articles
 tags:
   - articles
@@ -11,7 +11,7 @@ layout: post
 ---
 Do you need a new down jacket for the winter or for a cold summer night during a hike? Here is our buying guide of the best summer and winter down jackets which we have selected for 2016. We have selected a broad range of down jackets which can be worn in different conditions and for different activities like hiking, backpacking, skiing, snowboarding, mountaineering, climbing or any other backcountry outdoor adventure.
 
-The down jackets we have selected have a fill power of 800 and more since they offer the best warmth-weight ratio and are considered to be lightweight down jackets. We have included down jackets which you can use as a 3-season down jacket as well as winter down jackets. The lighter jackets usually come with less down and are more suitable for warmer months or as a mid-layer during the winter. 
+The down jackets we have selected have a fill power of 800 and more since they offer the best warmth-weight ratio and are considered to be lightweight down jackets. We have included down jackets which you can use as a 3-season down jacket as well as winter down jackets. The lighter jackets usually come with less down and are more suitable for warmer months or as a mid-layer during the winter.
 
 <hr>
 
