@@ -11,7 +11,7 @@ layout: post
 ---
 Planning a winter trip in the North or just need a headlamp for the night? A good lightweight headlamp is an essential part for many outdoor activities likes hiking, running, cycling, packrafting, ski touring or climbing or any other backcountry trip. It can be a life saver and should always be in your backpack.
 
-Personally, I like the Petzl Nao Plus most since it has plenty of features and also offers the Petzl Nao Belt Kit which allows me to carry the battery under the jacket rather than on my head which can shorten the beattery life especially when wearing in [colder regions][1]. I have also used the previous model of the Nao in [Swedish Lapland][2].
+Personally, I like the Petzl Nao Plus most since it has plenty of features and also offers the Petzl Nao Belt Kit which allows me to carry the battery under the jacket rather than on my head which can shorten the beattery life especially when wearing in [colder regions][1]. I have also used the previous model of the Nao in [Swedish Lapland][2]. However, if you are looking for a smaller headlamp which is also waterproof then I would rather pick the <a href="http://amzn.to/2fkaiqv" rel="nofollow" target="_blank">Black Diamond Spot</a> which features red light and 200 Lumen - sufficient for hiking even in the Alps.
 
 ---
 
@@ -43,7 +43,9 @@ Personally, I like the Petzl Nao Plus most since it has plenty of features and a
         <tr>
           <td><a href="http://amzn.to/2eTHqJP" target="_blank" rel="nofollow">Black Diamond Revolt</a></td><td>85g</td><td>170</td>
         </tr>
-
+        <tr>
+          <td><a href="http://amzn.to/2fkaiqv" target="_blank" rel="nofollow">Black Diamond Spot</a></td><td>90g</td><td>200</td>
+        </tr>
         <tr>
           <td><a href="http://amzn.to/2e34Jyw" target="_blank" rel="nofollow">Black Diamond Storm</a></td><td>110g</td><td>160</td>
         </tr>
