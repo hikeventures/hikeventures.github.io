@@ -63,9 +63,6 @@ As I have recently upgraded my own camera, I was in need of a new camera case wh
 
 <hr>
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new products (this blog post contains affiliate links).
-
-<hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
 > On our packrafting trip in the Sarek National Park in Sweden we prootected our camera bag with a dry bag. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
@@ -207,4 +204,8 @@ amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
 # Conclusion
 From my point of view there is no best camera bag which fits every situation but having the right camera gear for different activities is essential to protect your gear and also to enjoy photography with your Sony A7 or a6300 more. I hope you are able to find your camera bag for your next hiking, backpacking, kayaking or packrafting adventure.
 
-<hr>
+---
+
+Disclaimer: We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new products. This blog post contains affiliate links.
+
+---

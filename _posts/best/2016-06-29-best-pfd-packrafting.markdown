@@ -46,11 +46,6 @@ As we are frequently on packrafting trips we are always interested to look out f
 </table>
 </div>
 <!--more-->
-
-<hr>
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new PFDs. Here comes our PFD buying guide for 2016 (this blog post contains affiliate links).
-
-
 <hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
@@ -195,5 +190,9 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "8b6cf7f3e8c5fbd4e1712dfe9e9156c9";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
+Disclaimer: We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new products. This blog post contains affiliate links.
 
 ---

@@ -52,11 +52,6 @@ We have been snowshoing in Finnish Lapland and in the Austrian Alps last year an
 
 ---
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new snowshoes. Here comes our snowshoe buying guide for 2016 (this blog post contains affiliate links).
-
-
----
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IG-hPfj-d1M" frameborder="0" allowfullscreen></iframe>
 > Snowshoeing and skiing in Finnish Lapland. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
@@ -216,6 +211,10 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
+Disclaimer: We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new products. This blog post contains affiliate links.
 
 ---
 

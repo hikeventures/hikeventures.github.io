@@ -59,11 +59,6 @@ You probably take matches with you to ignite your stove. As an alternative, I fo
 
 ---
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new stoves. Here comes our down camping stove guide for 2016 (this blog post contains affiliate links).
-
-
----
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
 > On our packrafting trip in the Sarek National Park in Sweden we also had our camping stove with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
@@ -189,6 +184,10 @@ It all depends on your requirements. Do you need a simple and lightweight campin
 My preference goes towards a camping stove which boils water quickly and uses low amount of fuel as I am usually traveling with dehydrated food packages where I just have to add boiling water to the food package. My favourite stove for Scandinavia are the [MSR WindBurner][4] or the [Jetboil MiniMo][5] - both of them can also handle cold temperatures down to -6C while the MSR WinBurner stove can handle wind better than the Jetboil MiniMo.
 
 If you are traveling to different continents then a multi-fuel stove might be the best solution as gas canisters might not be sold everywhere. For winter camping you should probably also consider a multifuel stove like the [MSR XGK EX][6].
+
+---
+
+Disclaimer: We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new products. This blog post contains affiliate links.
 
 ---
 

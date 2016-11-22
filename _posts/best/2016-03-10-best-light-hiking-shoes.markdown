@@ -47,10 +47,6 @@ If you are into ultralight hiking then you are probably also interested into my 
 <!--more-->
 
 <hr>
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new shoes. Here comes our hiking shoes buying guide for 2016 (this blog post contains affiliate links).
-
-
-<hr>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
 > On our packrafting trip in the Sarek National Park in Sweden we had an Inov-8 Roclite 295 with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
@@ -159,5 +155,9 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "0d18f88262f19f39fc7a13f07ae2563b";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
+Disclaimer: We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new products. This blog post contains affiliate links.
 
 ---

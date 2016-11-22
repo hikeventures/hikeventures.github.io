@@ -71,9 +71,6 @@ Personally, I like the Petzl Nao Plus most since it has plenty of features and a
 <!--more-->
 
 <hr>
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new headlamps. Here comes our headlamps buying guide for 2016 (this blog post contains affiliate links).
-
-<hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
 > On trips like in Northern Sweden we also had our headlamps with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
@@ -352,6 +349,10 @@ The spotlight of a headlamp refers to the point of visible light. The spotlight 
 
 ## Are headlamps waterproof or watertight?
 Not every headlamp is watertight. Some headlamps are only splash proof. Have a look at the IPX rating which indicates how watertight a headlamp is.
+
+---
+
+Disclaimer: We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new products. This blog post contains affiliate links.
 
 ---
 

@@ -53,11 +53,6 @@ Trekking and snowshoeing poles are especially useful if you have to walk up or d
 ---
 
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new trekking poles. Here comes our trekking poles buying guide for 2016 (this blog post contains affiliate links).
-
-
----
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IG-hPfj-d1M" frameborder="0" allowfullscreen></iframe>
 > Snowshoeing and skiing in Finnish Lapland. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
@@ -178,6 +173,12 @@ When choosing your trekking or snowshoeing poles you should consider the followi
 
 # Differences between trekking and snowshoeing poles
 I would say that the main difference between snowshoe and hiking poles is the possibility to add a snow basket to the poles and to expand or shorten the poles while wearing gloves. My preference as the best trekking and snowhoeing pole goes towards the [MSR Flight 3][15].
+
+---
+
+Disclaimer: We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new products. This blog post contains affiliate links.
+
+---
 
 [1]:	http://www.hikeventures.com/destinations/
 [2]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Finnish Lapland"

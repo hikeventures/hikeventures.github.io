@@ -79,10 +79,6 @@ Mountain Equipment Fitzroy Jacket</a> - insulated with Primaloft GOLD - on my pa
 <!--more-->
 
 <hr>
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new jackets. Here comes our down jacket buying guide for 2016 (this blog post contains affiliate links).
-
-
-<hr>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
@@ -383,6 +379,10 @@ Many new down jackets feature nowadays a light ripstop shell to make the down ja
 ## How to keep a down jacket dry?
 
 You can keep your down jacket dry by storing it in a waterproof compression bag when you are hiking in wet conditions and to use your down jacket only in your tent.
+
+---
+
+Disclaimer: We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new products. This blog post contains affiliate links.
 
 ---
 

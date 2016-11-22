@@ -68,11 +68,6 @@ Proper hiking boots are important if you are planning to hike in the mountains o
 
 <hr>
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new boots. Here comes our hiking boots buying guide (this blog post contains affiliate links).
-
-
-<hr>
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
 > On our packrafting trip in the Sarek National Park in Sweden we had an Inov-8 Roclite 295 with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
@@ -340,5 +335,9 @@ Should your hiking boots be waterproof? In most cases this is a good feature but
 
 ## Are there hiking boots with arch support?
 If you need arch support on your hiking boots then you should probably buy a seperate [insole](http://www.backcountry.com/Store/catalog/search.jsp?s=u&q=insoles+hiking) and replace it with the regular insole of your hiking boots.
+
+---
+
+Disclaimer: We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new products. This blog post contains affiliate links.
 
 ---

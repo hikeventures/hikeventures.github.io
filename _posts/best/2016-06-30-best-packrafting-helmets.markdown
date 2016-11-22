@@ -18,8 +18,6 @@ If you are planning to do whitewater packrafting or kayaking then you should pro
 * Is the helmet lightweight so it feels comfortable to wear it for a longer period?
 * Do you need ear protection?
 
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new helmets. Here comes our kayaking and packrafting helmet buying guide for 2016 (this blog post contains affiliate links).
-
 <hr>
 
 # The best packrafting and kayaking helmets
@@ -178,5 +176,9 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "1b9d1e4302c0c92ff457962d6ba0d67b";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
+Disclaimer: We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new products. This blog post contains affiliate links.
 
 ---

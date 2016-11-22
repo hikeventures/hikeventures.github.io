@@ -59,11 +59,6 @@ For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](
 </div><!--more-->
 
 <hr>
-We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new products. Here comes our tent buying guide. This blog post contains affiliate links.
-
-
-
-<hr>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
@@ -288,4 +283,9 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "965296fb866182bb89b535202541adda";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
+Disclaimer: We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new products. This blog post contains affiliate links.
+
 ---
