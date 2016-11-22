@@ -8,11 +8,10 @@ tags:
   - best
   - toothbrush
 layout: post
-published: false
 ---
 
 Planning a hiking or backpacking trip to the backcountry or are you planning to travel abroad? Then you could have a look on the best toothbrushes which I have selected below which feature a compact design and are easy to pack.
-The compact design not only provides you with more space but also less weight as every gram counts especially if you are into ultralight backpacking.
+The compact design not only provides you with more space but also less weight as every gram counts especially if you are into ultralight backpacking. Gum or periodontal disease can cause tooth loss so it's important to keep your tooth clean even so you are in the nature.
 
 ---
 
