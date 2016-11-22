@@ -49,7 +49,7 @@ The Colgate Value Travel Toothbrush is an easy-to-carry toothbrush which folds i
 
 The GUM Travel Toothbrush features a compact and convenient design for travelling and offers you protection for up to 30 days. The cap functions also as a handle.
 
-<a href="http://amzn.to/2gxh3tU" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Backcountry.com</button></a>
+<a href="http://amzn.to/2gxh3tU" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
