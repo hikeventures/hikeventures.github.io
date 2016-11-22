@@ -1,18 +1,18 @@
 ---
-title: The best 27-inch 4K USB-C Monitors for Macbook Pro - LG 27UD88 or Lenovo ThinkVision X1
-description: My selection of the best 4K USB-C Monitors for the Macbook Pro
+title: The best 27-inch 4K and 5K USB-C Monitors for Macbook Pro 2016 with Touch Bar - LG 27UD88, Dell UP2715K or Lenovo ThinkVision X1
+description: My selection of the best 4K and 5K USB-C Monitors for the Macbook Pro
 date: 2016-09-21 05:28:01
 category: best
 tags:
   - macbook
 layout: post
 ---
-As I am planning to buy a new Macbook Pro I was curious to find out which USB-C 4K monitor I should get to connect it with my new Macbook Pro. I really would like to have an external 4K monitor with my Macbook Pro since it is much more convenient to edit pictures. In the past I had a 27" HD monitor to edit my pictures but since I am planning to take 4K videos in the near future I would be really nice to have a 4K screen.
+As I am planning to buy a new Macbook Pro I was curious to find out which USB-C 4K monitor I should get to connect it with my new Macbook Pro. I really would like to have an external 4K or 5K monitor with my Macbook Pro since it is much more convenient to edit pictures. In the past I had a 27" HD monitor to edit my pictures but since I am planning to take 4K videos in the near future I would be really nice to have a 4K or even a 5K screen.
 
-I really like the idea to have less cables on my desk so USB-C is going to be a really nice feature. There will be no need to plug and unplug USB cables anymore on the Macbook Pro. All my USB cables will be connected to my monitor and there will be just one single USB-C which is connected to my Macbook Pro. So here is a selection of the best USB-C monitors which I would consider to buy (this blog post contains affiliate links). Currently, there are 2 monitors available with a 27" screen.
+I really like the idea to have less cables on my desk so USB-C is going to be a really nice feature. There will be no need to plug and unplug USB cables anymore on the Macbook Pro. All my USB cables will be connected to my monitor and there will be just one single USB-C which is connected to my Macbook Pro. So here is a selection of the best 4K USB-C monitors which I would consider to buy (this blog post contains affiliate links). Currently, there are 2 monitors available with a 27" screen covering 4K and one screen covering 5K (has no USB-C). Those are the alternatives if you don't want to get the LG Ultrafine monitors sold by Apple.
 
 <hr>
-<h1>The best 27-inch 4K USB-C Monitors</h1>
+<h1>The best 27-inch 4K and 5K USB-C Monitors</h1>
 <div class="table-responsive">
 <table class="table table-hover table-bordered list_items_5">
         <thead>
@@ -27,6 +27,9 @@ I really like the idea to have less cables on my desk so USB-C is going to be a 
         </tr>
         <tr>
           <td><a href="http://amzn.to/2dEVRzy" rel="nofollow" target="_blank">Lenovo ThinkVision X1</a></td><td>1300 : 1</td><td>100%</td><td>6ms</td>
+        </tr>
+        <tr>
+          <td><a href="http://amzn.to/2gEAjqz" rel="nofollow" target="_blank">Dell Ultra HD 5K Monitor UP2715K</a></td><td>1000 : 1</td><td>99%</td><td>8ms</td>
         </tr>
 </tbody>
 </table>
@@ -52,8 +55,20 @@ The Lenovo ThinkVision X1 has HDMI2.0 and DP1.2 ports a FHD camera with dual-arr
 
 <hr>
 
+<h1>Dell Ultra HD 5K Monitor UP2715K</h1>
+
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00OKSFXZU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OKSFXZU&linkCode=as2&tag=hikeve-20&linkId=302e66e0b4bc2e1338edb0c38e62b898"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00OKSFXZU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00OKSFXZU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+The Dell Ultra HD 5K monitor fffers four times the content than QHD featuring over 14 million pixels and Harman Kardon speakers.
+
+<a href="http://amzn.to/2gEAjqz" rel="nofollow" target="blank"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+
+
+<hr>
+
+
 <h1>Conclusion</h1>
-On paper, the Lenovo seems to have an edge for those working with pictures while the LG would be more a gaming monitor. However, the differences between those 2 monitors is not that big and it's probably just a matter of design preference and money you are planning to spend on your new monitor.
+On paper, the Lenovo seems to have an edge for those working with pictures while the LG would be more a gaming monitor. However, the differences between those 2 monitors is not that big and it's probably just a matter of taste and money you are planning to spend on your new monitor. If you have the cash I would rather take the Dell Ultra HD 5K than a 4K screen.
 
 <hr>
 
