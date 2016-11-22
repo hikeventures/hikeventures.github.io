@@ -1,7 +1,7 @@
 ---
 title: What are the best Down Jackets for 2016
 description: Need a warm jacket for your autumn or winter? We found the best down jackets for 2016
-date: 2016-01-03 20:43:52
+date: 2016-11-17 20:43:52
 category: articles
 tags:
   - articles
