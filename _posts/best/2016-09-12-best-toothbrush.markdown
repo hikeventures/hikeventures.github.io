@@ -14,37 +14,6 @@ Planning a hiking or backpacking trip to the backcountry or are you planning to 
 
 The compact design of of a travel toothbrush not only provides you with more space but also less weight as every gram counts especially if you are into ultralight backpacking. Gum or periodontal disease can cause tooth loss so it's important to keep your tooth clean even so you are in the nature.
 
----
-
-# The best toothbrush for traveling, hiking, backpacking and camping
-
-<div class="table-responsive">
-
-      <table class="table table-hover table-bordered list_items_2">
-
-        <thead>
-             <tr>
-                <th>Jacket</th><th>Weight</th><th>Lumen</th>
-             </tr>
-        </thead>
-
-        <tbody>
-        <tr>
-          <td><a href="http://amzn.to/2gbHMYG" target="_blank" rel="nofollow">GUM Travel Folding Soft Toothbrush</a></td>
-        </tr>
-
-        <tr>
-          <td><a href="http://amzn.to/2fNchYf" rel="nofollow" target="_blank">Colgate Value Travel Toothbrush</a></td>
-        </tr>
-
-        <tr>
-          <td><a href="http://amzn.to/2gxh3tU" target="_blank" rel="nofollow">GUM Travel Toothbrushes with Antibacterial Bristles</a></td>
-        </tr>
-
-      </tbody>
-
-      </table>
-</div>
 <!--more-->
 
 <hr>
