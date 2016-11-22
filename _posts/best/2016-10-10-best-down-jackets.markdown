@@ -12,7 +12,7 @@ layout: post
 Do you need a new down jacket for the winter or for a cold summer night during a hike? Here is our buying guide of the best down jackets for 2016 which we have selected to cover your summer and winter backcountry trips. We have selected a broad range of down jackets which can be worn in different conditions and for different activities like hiking, backpacking, skiing, snowboarding, mountaineering, climbing or on any other outdoor adventure.
 
 The down jackets we have selected have a fill power of 800 and more since they offer the best warmth-weight ratio and are considered to be lightweight down jackets. We have included down jackets which you can use as a 3-season down jacket as well as winter down jackets. The lighter jackets usually come with less down and are more suitable for warmer months or as a mid-layer during the winter. If you are planning a trip to a place which is very humid and moisture I would recommend you to buy a synthetic insulated jacket rather than a down jacket. For example, I was wearing the <a href="http://amzn.to/2f1dvQh" target="_blank" rel="nofollow">
-Mountain Equipment Fitzroy Jacket</a> - insulated with Primaloft GOLD - on my packrafting trip in the <a href="http://www.hikeventures.com/Packrafting-River-Dee-Scotland-1/">Scottish Highlands</a>. This jacket also keeps you warm when it's wet.
+Mountain Equipment Fitzroy Jacket</a> - insulated with Primaloft GOLD - on my packrafting trip in the <a href="http://www.hikeventures.com/Packrafting-River-Dee-Scotland-1/">Scottish Highlands</a>. This jacket also keeps you warm when it's wet and weights 645 grams.
 
 <hr>
 
