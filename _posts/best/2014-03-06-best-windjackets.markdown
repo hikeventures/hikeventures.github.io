@@ -1,5 +1,5 @@
 ---
-title: The 4 Best Wind Jackets for 2016
+title: Best Wind Jackets for 2016
 description: Top 5 windproof Jackets for 2016 for your next outdoor adventure!
 date: 2016-01-04 10:56:22
 category: articles

@@ -1,5 +1,5 @@
 ---
-title: The 8 Best Headlamps for 2016
+title: Best Headlamps for 2016
 description: Find the best headlamps for your next outdoor adventure
 date: 2016-01-03 23:02:20
 category: articles

@@ -1,5 +1,5 @@
 ---
-title: The best BPA-free water bottle for hiking and backpacking
+title: Best BPA-free water bottle for hiking and backpacking
 description: In search of the best BPA-free water bottle
 date: 2015-05-20 23:10:07
 category: destinations

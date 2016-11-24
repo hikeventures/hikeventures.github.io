@@ -1,5 +1,5 @@
 ---
-title: The best 27-inch 4K and 5K USB-C Monitors for Macbook Pro 2016 with Touch Bar - LG 27UD88, Dell UP2715K or Lenovo ThinkVision X1
+title: Best 27-inch 4K and 5K USB-C Monitors for Macbook Pro 2016 with Touch Bar - LG 27UD88, Dell UP2715K or Lenovo ThinkVision X1
 description: My selection of the best 4K and 5K USB-C Monitors for the Macbook Pro
 date: 2016-09-21 05:28:01
 category: best

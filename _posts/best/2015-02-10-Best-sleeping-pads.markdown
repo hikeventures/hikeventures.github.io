@@ -1,5 +1,5 @@
 ---
-title: The Best Lightweight Sleeping Pads in 2016
+title: Best Sleeping Pads in 2016
 description: Need a new Sleeping Pad? Here is our selection of the best sleeping pads on the market!
 date: 2016-01-03 18:49:09
 category: reviews

@@ -1,5 +1,5 @@
 ---
-title: The best solo person backpacking tent in 2016
+title: Best solo person backpacking tent in 2016
 description: Overview of the best solo person backpacking tent for 2016.
 date: 2016-01-03 00:07:07
 category: articles

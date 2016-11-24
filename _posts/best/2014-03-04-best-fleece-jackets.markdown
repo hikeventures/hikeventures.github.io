@@ -1,5 +1,5 @@
 ---
-title: The 5 Best Fleece Jackets for 2016
+title: Best Fleece Jackets for 2016
 description: Top 5 of the best fleece jackets 2015 for hiking and backpacking
 date: 2015-03-04 17:20:20
 category: articles

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The best packrafting and kayaking helmets
+title: Best packrafting and kayaking helmets
 description: Here are a few helmets for your next packrafting adventure
 date: 2016-05-30 09:46:20
 category: best
