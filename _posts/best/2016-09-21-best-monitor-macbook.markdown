@@ -82,7 +82,7 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Search Results from Amazon";
-amzn_assoc_default_search_phrase = "4K USB-C";
+amzn_assoc_default_search_phrase = "USB-C";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "c8fbd44fb8175bb79ed521d4925db8c9";
 </script>
