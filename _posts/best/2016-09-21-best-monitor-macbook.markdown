@@ -1,5 +1,5 @@
 ---
-title: Best 27-inch 4K and 5K USB-C Monitors for Macbook Pro 2016 with Touch Bar - LG 27UD88, Dell UP2715K or Lenovo ThinkVision X1
+title: Best LG UltraFine 4K and 5K monitor alternatives - LG 27UD88, Dell UP2715K or Lenovo ThinkVision X1
 description: My selection of the best 4K and 5K USB-C Monitors for the Macbook Pro
 date: 2016-09-21 05:28:01
 category: best
@@ -7,9 +7,9 @@ tags:
   - macbook
 layout: post
 ---
-As I am planning to buy a new Macbook Pro I was curious to find out which USB-C 4K monitor I should get to connect it with my new Macbook Pro. I really would like to have an external 4K or 5K monitor with my Macbook Pro since it is much more convenient to edit pictures. In the past I had a 27" HD monitor to edit my pictures but since I am planning to take 4K videos in the near future I would be really nice to have a 4K or even a 5K screen.
+As I am planning to buy a new Macbook Pro I was curious to find out which monitor I should get to connect it with my new Macbook Pro and what would be the best alternative to the LG UltraFine 4K or 5K monitors. I really would like to have an external 4K or 5K monitor with my Macbook Pro since it is much more convenient to edit pictures. In the past I had a 27" HD monitor to edit my pictures but since I am planning to take 4K videos in the near future I would be really nice to have a 4K or even a 5K screen. 
 
-I really like the idea to have less cables on my desk so USB-C is going to be a really nice feature. There will be no need to plug and unplug USB cables anymore on the Macbook Pro. All my USB cables will be connected to my monitor and there will be just one single USB-C which is connected to my Macbook Pro. So here is a selection of the best 4K USB-C monitors which I would consider to buy (this blog post contains affiliate links). Currently, there are 2 monitors available with a 27" screen covering 4K and one screen covering 5K (has no USB-C). Those are the alternatives if you don't want to get the LG Ultrafine monitors sold by Apple.
+I really like the idea to have less cables on my desk so USB-C would be a really nice feature. There would be no need to plug and unplug USB cables anymore on the Macbook Pro. All my USB cables would be connected to my monitor and there would be just one single USB-C which is connected to my Macbook Pro. 
 
 <hr>
 <h1>The best 27-inch 4K and 5K USB-C Monitors</h1>
