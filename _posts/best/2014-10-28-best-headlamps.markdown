@@ -23,7 +23,7 @@ Personally, I like the Petzl Nao Plus most since it has plenty of features and a
 
         <thead>
              <tr>
-                <th>Jacket</th><th>Weight</th><th>Lumen</th>
+                <th>Headlamp</th><th>Weight</th><th>Lumen</th>
              </tr>
         </thead>
 
