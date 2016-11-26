@@ -21,7 +21,7 @@ If you are into ultralight hiking then you are probably also interested into my 
 
         <thead>
              <tr>
-                <th>Shoes</th><th>Weight</th>
+                <th>Hiking Shoes</th><th>Weight</th>
              </tr>
         </thead>
 

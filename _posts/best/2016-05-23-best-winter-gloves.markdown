@@ -22,7 +22,7 @@ For my next snowshoeing trip in Lapland I was looking for a new pair of gloves o
 
         <thead>
              <tr>
-                <th>Gloves</th><th>Brand</th>
+                <th>Winter Gloves</th><th>Brand</th>
              </tr>
         </thead>
 

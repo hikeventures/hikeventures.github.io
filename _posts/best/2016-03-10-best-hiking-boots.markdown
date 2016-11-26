@@ -22,7 +22,7 @@ Proper hiking boots are important if you are planning to hike in the mountains o
 
         <thead>
              <tr>
-                <th>Shoes</th><th>Weight</th>
+                <th>Hiking Boots</th><th>Weight</th>
              </tr>
         </thead>
 

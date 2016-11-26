@@ -17,7 +17,7 @@ Today I would like to present you the best outdoor GPS watches which feature a c
 
 <table>
 <tr>
-<td><strong>Model</strong>
+<td><strong>GPS Watch</strong>
 </td>
 <td><strong>Weight</strong>
 </td>
