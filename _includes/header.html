@@ -1,36 +1,38 @@
 <header>
-    <div class="header-logo">
-        <a href="{{ site.url }}"><img src="https://farm6.staticflickr.com/5600/15282435948_a86a69c802_t.jpg"></a>
-    </div>
-    <div class="header-title">
-        <h1>HIKE VENTURES</h1>
-        <h4>Hiking & Packrafting Adventures</h4>
-        <nav class="navbar navbar-default" role="navigation">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle collapsed" onclick="$('#mobile-menu').show()">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-            </div>
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav">{% assign pages_list = site.pages %} {% assign group = 'navigation' %}
-                    <li{% if page.url == '/about/' %} class="active"{% endif %}><a href="/about/">About</a></li>
-                    <li{% if page.url == '/' %} class="active"{% endif %}><a href="/">Blog</a></li>
-                    <li{% if page.url == '/destinations/' %} class="active"{% endif %}><a href="/destinations/">Destinations</a></li>
-                    <li{% if page.url == '/gear-reviews/' %} class="active"{% endif %}><a href="/gear-reviews/">Gear Reviews</a></li>
-                    <li{% if page.url == '/blogs/' %} class="active"{% endif %}><a href="/blogs/">Links</a></li>
-                    <li{% if page.url == '/archive/' %} class="active"{% endif %}><a href="/archive/">Archive</a></li>
-                    <li><a href="http://www.feedio.co/@hikeventures/">RSS</a></li>
-                </ul>
-            </div>
-        </nav>
-    </div>
-    <div class="header-links">
-        <a href="https://www.instagram.com/hikeventures/" class="instagram"></a>
-        <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw" class="youtube"></a>
-        <a href="http://www.feedio.co/@hikeventures/" class="rss"></a>
+    <div class="wrapper">
+        <div class="header-logo">
+            <a href="{{ site.url }}"><img src="/HV_logo.png" height="100px"></a>
+        </div>
+        <div class="header-title">
+            <h1>HIKE VENTURES</h1>
+            <h4>Hiking & Packrafting Adventures</h4>
+            <nav class="navbar navbar-default" role="navigation">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" onclick="$('#mobile-menu').addClass('showed')">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav">{% assign pages_list = site.pages %} {% assign group = 'navigation' %}
+                        <li{% if page.url == '/about/' %} class="active"{% endif %}><a href="/about/">About</a></li>
+                        <li{% if page.url == '/' %} class="active"{% endif %}><a href="/">Blog</a></li>
+                        <li{% if page.url == '/destinations/' %} class="active"{% endif %}><a href="/destinations/">Destinations</a></li>
+                        <li{% if page.url == '/gear-reviews/' %} class="active"{% endif %}><a href="/gear-reviews/">Gear Reviews</a></li>
+                        <li{% if page.url == '/blogs/' %} class="active"{% endif %}><a href="/blogs/">Links</a></li>
+                        <li{% if page.url == '/archive/' %} class="active"{% endif %}><a href="/archive/">Archive</a></li>
+                        <li><a href="http://www.feedio.co/@hikeventures/">RSS</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+        <div class="header-links">
+            <a href="https://www.instagram.com/hikeventures/" class="instagram"></a>
+            <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw" class="youtube"></a>
+            <a href="http://www.feedio.co/@hikeventures/" class="rss"></a>
+        </div>
     </div>
 </header>
 <div class="s320" id="mobile-menu">
@@ -43,7 +45,7 @@
         <a href="/blogs/"{% if page.url == '/blogs/' %} class="active"{% endif %}>Links</a>
         <a href="/archive/"{% if page.url == '/archive/' %} class="active"{% endif %}>Archive</a>
     </div>
-    <div class="mobile-menu-cross"><a onclick="$('#mobile-menu').hide()">×</a></div>
+    <div class="mobile-menu-cross"><a onclick="$('#mobile-menu').removeClass('showed')">×</a></div>
     <div class="mobile-menu-social">
         <a href="https://www.instagram.com/hikeventures/" class="instagram"></a>
         <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw" class="youtube"></a>
