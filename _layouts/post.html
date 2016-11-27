@@ -11,22 +11,20 @@ published: true
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ page.title }}</a>
                 <div class="post-content" itemprop="articleBody">
                     {{ content }}
+                    <img src="/post_subscribe.png" class="subscribe-image">
                     <br>
-                    Comment on this post on our <a href="https://www.facebook.com/HikeVentures/">Facebook page</a> or on <a
+                    <b>Comment on this post</b> on our <a href="https://www.facebook.com/HikeVentures/">Facebook
+                    page</a> or on <a
                         href="https://twitter.com/HikeVentures">Twitter</a> or watch one of our <a
                         href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw">YouTube videos</a>.
-                    <hr>
-                    <form action='http://www.feedio.co/@hikeventures/verify' id='subscribe_widget_hikeventures'
-                          method='post' style='border:0px solid #ccc;padding:0px;text-align:left;' target='popupwindow'>
-                        <font color="black">Subscribe to our <a href="http://www.feedio.co/@hikeventures/">RSS feed</a> or
-                            newsletter with our latest posts. You can unsubscribe any time. Enter your email address: &nbsp;<input
-                                    name='email' id='email_input' style='width:140px' type='text'><input
-                                    style="color: white !important; background-color:#FF8000 !important;" type='submit'
-                                    value='JOIN US'></font>
-                    </form>
-                    <hr>
+                    <div class="post-subscribe">
+                        <form action='http://www.feedio.co/@hikeventures/verify' id='subscribe_widget_hikeventures' method='post' style='border:0px solid #ccc;padding:0px;text-align:left;' target='popupwindow'>
+                        Subscribe to our <a href="http://www.feedio.co/@hikeventures/">RSS feed</a> or newsletter with our latest posts. You can unsubscribe any time.<br><br>
+                        Enter your email address: &nbsp;<input name='email' id='email_input' style='width:200px' type='text' placeholder="Email">&nbsp;<input style="color: white !important; background-color:#FF8000 !important;" type='submit' value='Join us!'>
+                        </form>
+                    </div>
                     <div class="relatedPosts">
-                        <h3>Related post</h3>
+                        Related posts:
                         {% comment %}---> the maximum number of related to posts
                         to be printed {% endcomment %}
                         {% assign maxRelated = 4 %}
@@ -57,8 +55,7 @@ published: true
 
                         {% if sameTagCount >= minCommonTags %}
 
-                        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-                        <br>
+                        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><span>,</span>
                         {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
                         {% if maxRelatedCounter >= maxRelated %}
                         {% break %}
@@ -67,11 +64,22 @@ published: true
 
                         {% endfor %}
                     </div>
+                    <div class="horizontal_line"></div>
                     <div class="page_nav">
-                        {% if page.previous.url %}<a class="prev" href="{{page.previous.url}}">&laquo;
-                        {{page.previous.title}}</a>{% endif %}
-                        {% if page.next.url %}<a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>{%
-                        endif %}
+                        <span class="page_nav_prev">
+                        {% if page.previous.url %}
+                        <a class="prev" href="{{page.previous.url}}"><span class="page_nav_link">← Older</span><br><span class="page_nav_title">{{page.previous.title}}</span></a>
+                        {% else %}
+                        <span class="page_nav_no">|← No older posts  </span>
+                        {% endif %}
+                        </span>
+                        <span class="page_nav_next">
+                        {% if page.next.url %}
+                        <a class="next" href="{{page.next.url}}"><span class="page_nav_link">Newer →</span><br><span class="page_nav_title">{{page.next.title}}</span></a>
+                        {% else %}
+                        <span class="page_nav_no">No newer posts →|</span>
+                        {% endif %}
+                        </span>
                     </div>
                 </div>
             </article>
