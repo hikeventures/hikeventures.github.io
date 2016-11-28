@@ -12,6 +12,8 @@ layout: post
 As some of you may have already noticed we have a new logo and blog design. Currently, we are planning our trip to Norway in January 2017 where we are going to try out our new tent and titanium stove. More about our Norway trip later on. We also post a lot of outdoor pictures and videos on social media so come over to [Instagram](https://www.instagram.com/hikeventures/), [Twitter](https://twitter.com/HikeVentures
 ) and [YouTube](https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw).
 
+---
+
 Inflatable people - a video about the Packrafting Gathering in Sweden 2016 edited by [Urbanpackrafter](http://www.urbanpackrafter.com/) has been nominated to four awards during the [Danish Adventure Film Festival](https://www.facebook.com/danishadventurefilmfestival/posts/1277505315633908).  
 
 [Packrafting Fest](https://vk.com/1st_sibpackrafting) in Siberia from 19.7.-23.7.2017.
