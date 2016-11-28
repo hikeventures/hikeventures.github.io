@@ -7,7 +7,7 @@ tags:
   - tidbits
 layout: post
 ---
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/16347223629/in/album-72157651193131682/" title="Lapland Finland"><img src="https://c6.staticflickr.com/8/7452/16347223629_d90e43a52d_h.jpg" width="1600" height="861" alt="Lapland Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/16347223629/in/album-72157651193131682/" title="Lapland Finland"><img src="https://c6.staticflickr.com/8/7452/16347223629_d90e43a52d_h.jpg" width="1600" height="861" alt="Lapland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 As some of you may have already noticed we have a new logo and blog design. Currently, we are planning our trip to Norway in January 2017 where we are going to try out our new tent and titanium stove. More about our Norway trip later on. We also post a lot of outdoor pictures and videos on social media so come over to [Instagram](https://www.instagram.com/hikeventures/), [Twitter](https://twitter.com/HikeVentures
 ) and [YouTube](https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw).
