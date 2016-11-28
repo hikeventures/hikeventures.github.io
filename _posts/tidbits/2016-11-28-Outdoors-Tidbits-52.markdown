@@ -38,8 +38,6 @@ Nielsen explains why he prefers [Klymit mattresses](https://nielsenbrown.com/201
 
 One Swedish Summer went to the Highlands - [Eastern Cairngorms](http://oneswedishsummer.weebly.com/my-blog/highland-summer-eastern-cairngorms).
 
-Forgotten Tracks reviewed the [Salewa Raven Boots](http://forgottentracks.blogspot.fi/2016/02/salewa-raven-boots-review.html).
-
 ---
 
 Want to see a link to your outdoor blog post here as well? Submit a link to your article [here](https://www.facebook.com/HikeVentures/) and we may publish it. Disclaimer: This article contains [affiliate links](http://www.hikeventures.com/about/).
