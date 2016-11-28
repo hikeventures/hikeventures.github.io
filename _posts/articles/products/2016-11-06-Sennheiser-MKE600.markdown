@@ -27,6 +27,14 @@ The Sennheiser MKE 600 is a shotgun microphone, which means that it can catch so
 
 ---
 
+<h1><a href="http://amzn.to/2gx0Wwi" target="_blank" rel="nofollow">Rycote Super Softie 15cm</a></H1>
+
+The Rycote Super Softie 15cm shields even better against wind than the fury windjammers while providing a better audio quality.
+
+<a href="http://amzn.to/2gx0Wwi" rel="nofollow"><button class="btn btn-danger">Buy on Amazon</button></a>
+
+---
+
 <h1><a href="http://amzn.to/2fn8WwS" target="_blank" rel="nofollow">Sennheiser KA 600</a></H1>
 The Sennheiser connects the camera with the microphone. It has a xlr and a 3.5 mm jack.
 
