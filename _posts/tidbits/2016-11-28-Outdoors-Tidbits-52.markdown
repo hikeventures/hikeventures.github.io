@@ -32,7 +32,7 @@ New packrafting videos: Black River [Part 1](https://vimeo.com/191346605) and [P
 
 [Global Fatbike Day 2016](https://www.facebook.com/events/901330556662513/?acontext=%7B%22ref%22%3A%223%22%2C%22ref_newsfeed_story_type%22%3A%22regular%22%2C%22feed_story_type%22%3A%22279%22%2C%22action_history%22%3A%22null%22%7D) on 03.12.2016 in Bergen.
 
-Hikersblog reviewed the [Osprey Atmos AG 65 backpack](https://www.hikersblog.co.uk/osprey-atmos-ag-65-review/).
+HikersBlog reviewed the [Osprey Atmos AG 65 backpack](https://www.hikersblog.co.uk/osprey-atmos-ag-65-review/).
 
 Nielsen explains why he prefers [Klymit mattresses](https://nielsenbrown.com/2016/08/26/why-i-prefer-klymit-mattresses-updated/).
 
