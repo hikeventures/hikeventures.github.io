@@ -18,12 +18,15 @@ Inflatable people - a video about the Packrafting Gathering in Sweden 2016 edite
 
 Nikita posted a [video](https://vimeo.com/191628996) about the Sufferfest 2016 - Bikerafting around Vyborg 4-6.11.2016
 
+---
 
 <script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
 
+---
+
 There is a [Packrafing course](https://www.facebook.com/events/223192528109145/?acontext=%7B%22source%22%3A4%2C%22action_history%22%3A%22%5B%7B%5C%22surface%5C%22%3A%5C%22group%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22surface%5C%22%2C%5C%22extra_data%5C%22%3A%5B%5D%7D%5D%22%2C%22has_source%22%3Atrue%7D&source=4&action_history=%5B%7B%22surface%22%3A%22group%22%2C%22mechanism%22%3A%22surface%22%2C%22extra_data%22%3A%5B%5D%7D%5D&has_source=1) in the Pyrenees from 9.4.-14.4.2017.
 
-New packrafting videos: Black River [Part 1](https://vimeo.com/191346605) and [Part 2](https://vimeo.com/192330437) from the Deliverance Team, [Jasons Weekend Route: Packrafting, Bikepacking, Rappelling](https://vimeo.com/191503529) from Graham and [Elan Valley Packrafting](https://vimeo.com/191280781) from Nigel.
+New packrafting videos: Black River [Part 1](https://vimeo.com/191346605) and [Part 2](https://vimeo.com/192330437) from the Deliverance Team, [Jasons Weekend Route](https://vimeo.com/191503529) from Graham and [Elan Valley Packrafting](https://vimeo.com/191280781) from Nigel.
 
 [Global Fatbike Day 2016](https://www.facebook.com/events/901330556662513/?acontext=%7B%22ref%22%3A%223%22%2C%22ref_newsfeed_story_type%22%3A%22regular%22%2C%22feed_story_type%22%3A%22279%22%2C%22action_history%22%3A%22null%22%7D) on 03.12.2016 in Bergen.
 
