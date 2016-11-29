@@ -7,7 +7,7 @@ tags:
   - tidbits
 layout: post
 ---
-Last week we returned from our trip to Lapland. Our next adventure trip which we are planning together will be most likely a packrafting weekend in Sweden in April together with the [Deliverance Team](http://deliveranceteam.outdrr.com) and [Urban Packrafter](http://www.urbanpackrafter.com). Patrick is now packing again his backpack for his trip to Munich where he is going to visit the ISPO 2015 to check out the latest trends in the outdoor industry.
+Last week we returned from our trip to Lapland. Our next adventure trip which we are planning together will be most likely a packrafting weekend in Sweden in April together with the [Deliverance Team](http://deliveranceteam.outdrr.com) and [Urban Packrafter](http://www.urbanpackrafter.com). Patrick is now packing again his backpack for his trip to Munich where he is going to visit the ISPO 2015 to check out the latest trends in the outdoor industry. {% include intro_tidbits.html %}
 <br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/15815499754" title="Flight from Helsinki to Lapland"><img src="https://farm8.staticflickr.com/7413/15815499754_1ec2a39146_b.jpg" width="1024" height="1024" alt="Flight from Helsinki to Lapland"></a>
 <br><!--more--><br>
