@@ -17,6 +17,8 @@ Last year we hiking and packrafting in Japan and Sweden and here is a review abo
 
 <!--more-->
 
+{% include banner_ad.html %}
+
 ## EvoLite Specifications
 The EvoLite sleeping pad is part of Therm-a-rest’s Fast & Light product line. The EvoLite (regular) weights 520 grams, is 51 cm wide and 183 cm long and 5 cm thick. However, we tested the larger version (196 cm) or the EvoLite. The bottom of the EvoLite is made of 30d mini Rip Polyester. The innovation in this mattress is that it is self-inflating which means that you just have to blow into the valve a couple of times and the EvoLite is ready for the night.
 
@@ -29,7 +31,7 @@ We have tested the EvoLite in Japan and Sweden. On the picture below you can see
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25240471705/in/dateposted-public/" title="Therm-a-Rest EvoLite"><img src="https://farm2.staticflickr.com/1529/25240471705_877417690f_b.jpg" width="100%" alt="Therm-a-Rest EvoLite Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-The best way to set up your camp is to get the EvoLite pat out of the stuff bag and then focus on other things (e.g. preparing a meal or pitching the tent) while the EvoLite inflates and add the missing air via the valve into the sleeping pad after a couple of minutes. 
+The best way to set up your camp is to get the EvoLite pat out of the stuff bag and then focus on other things (e.g. preparing a meal or pitching the tent) while the EvoLite inflates and add the missing air via the valve into the sleeping pad after a couple of minutes.
 
 We have used the EvoLite indoors and outdoors in Japan. The temperatures in Japan are quite high during the summer and a great place where you could use the EvoLite.
 

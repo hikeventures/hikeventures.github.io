@@ -18,7 +18,7 @@ The jetboil stove can heat 0.5 l in 2 minutes and 15 seconds which is equal to 1
 <a href="https://www.flickr.com/photos/90204224@N07/8552911716" title="Jetboil Sol Ti"><img src="https://farm9.staticflickr.com/8231/8552911716_8c74f6a5c4_b.jpg" width="600" alt="Jetboil Sol Ti ultralight hiking and backpacking stove packaging"></a>
 <!--more-->
 
----
+{% include banner_ad.html %}
 
 ## Features
 The Jetboil Sol Ti boils 0.8l water fast, is packable and weights only 240 grams. A 100 grams gas canister can boil around 12 liter of water.
@@ -30,8 +30,6 @@ Parts which are included with the Jetboil Sol Ti
 <a href="https://www.flickr.com/photos/90204224@N07/8551708953" title="Jetboil Sol Ti"><img src="https://farm9.staticflickr.com/8243/8551708953_09a57a6b4e_b.jpg" width="1024" height="861" alt="Jetboil Sol Ti ultralight hiking and backpacking stove parts"></a>
 
 All parts can be easily placed within the Titanium cup
-
-{% include banner_ad.html %}
 
 ## Recommendation
 I have tested the Jetboil Sol Ti on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden. It was the perfect outdoor stove for us. Lightweight and fast. However, this stove is only for boiling water. If you want to fry something you need to look for another stove.

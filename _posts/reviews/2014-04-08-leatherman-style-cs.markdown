@@ -14,6 +14,9 @@ For my hiking & packrafting trips I was looking for a tool which is light and pa
 
 <a href="https://www.flickr.com/photos/90204224@N07/13711116474/"><img src="https://farm4.staticflickr.com/3704/13711116474_6cde7a3b97_b.jpg" width="600" alt="Leatherman Style CS"></a>
 
+<!--more-->
+{% include banner_ad.html %}
+
 ## Features
 The Leatherman Style CS 2 weights 41.1 grams and consists of  a knife, nail file, scissors, screwdriver, bottle opener and tweezers.
 

@@ -5,12 +5,16 @@ title: Western Mountaineering Versalite
 description: Our review on the Thule RideAlong
 date: 2016-06-18 07:30:00
 category: reviews
-tags: 
-  -reviews 
+tags:
+  -reviews
   -Western Mountaineering
   -Sleeping Bags
   -Gear
 ---
+
+
+<!--more-->
+{% include banner_ad.html %}
 
 ## Fiel Testing
 

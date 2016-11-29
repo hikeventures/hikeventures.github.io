@@ -3,20 +3,18 @@ title: Tubbs Xpedition Snowshoe Review
 description: Explore the great outdoors with these snowshoes
 date: 2013-12-10 07:30:00
 category: reviews
-tags: 
+tags:
   - reviews
   - tubbs
   - snowshoeing
 layout: post
 ---
 Having used skis and hiking boots the years before, I am interested to do some snowshoeshoeing this winter with my new Tubbs Xpedition snowshoes and here comes a short review. As I have worked in the past a couple of months in a mountain hut in the Swiss Alps, I frequently had to walk 2 hours up the mountain to reach my workplace. Well, it was possible but with snowhoes it would have been so much more easier to get up.
-   
+
 <img src="http://farm6.staticflickr.com/5531/11312000916_7d50425b7c_c.jpg"><!--more-->
-   
-<img src="http://farm6.staticflickr.com/5513/11311956415_8aa44386b6_c.jpg" width="1150" alt="Tubbs Xpedition Snowshoe">
- 
---- 
- 
+
+{% include banner_ad.html %}
+
 ## Features
 * weight: 1600 grams
 * design
@@ -36,9 +34,9 @@ Having used skis and hiking boots the years before, I am interested to do some s
 
 ## How to wear the Snowshoes?
 The binding of the snowshoes are easy to use. Just slip in with your shoes and tighten the straps. Wearing a pair of light mountain shoes and breathable long pants over it should be sufficient. Gaiters might be a useful too - especially when walking in deep powder snow.
-   
+
 <img src="http://farm4.staticflickr.com/3800/11158265136_b14fb0c293_c.jpg" width="1150" alt="tubbs snowshoes xpedition">
-   
+
 <img src="http://farm4.staticflickr.com/3741/11158514646_62eebdfd73_c.jpg" width="1150" alt="Tubbs Xpedition snowshoes">
 
 ---

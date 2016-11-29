@@ -5,11 +5,19 @@ title: Thule Upslope 35L Review
 description: Our review on the Thule Upslope 35L
 date: 2016-05-10 07:30:00 +0300
 category: reviews
-tags: 
+tags:
   - reviews
   - thule
   - backpack
 ---
+
+
+<!--more-->
+
+{% include banner_ad.html %}
+
+
+
 ## Fiel Testing
 
 ---

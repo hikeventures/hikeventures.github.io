@@ -4,9 +4,9 @@ title: Thule Sapling Elite Child Carrier Review
 description: Our review on the Thule Sapling Elite Child Carrier
 date: 2016-08-30 07:30:00
 category: reviews
-tags: 
+tags:
   - reviews
-  - Thule 
+  - Thule
   - backpack
 ---
 Recently, I was looking for a child carrier backpack since I was interested to bring our child clother to nature. Carrying a child in a backpack feels more convenient than cruising with a stroller in the nature and you can more easily access places off the beaten track. This is a first short review about the Thule Sampling Elite Child Carrier Backpack which I got provided by Thule to test it here in Finland. I will add more details to this review over the time.
@@ -14,6 +14,8 @@ Recently, I was looking for a child carrier backpack since I was interested to b
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27817737344/in/dateposted-public/" title="Thule Sapling Elite Child Carrier Review"><img src="https://c1.staticflickr.com/9/8699/27817737344_8d818cfb80_k.jpg" width="2048" height="1367" alt="Thule Sapling Elite Child Carrier"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <!--more-->
+
+{% include banner_ad.html %}
 
 # Field Testing
 I was carrying the Thule Sampling Elite mainly in the forests around our neighborhood and in the outskirts of Turku nearby the sea where I was walking on narrow trails in the forest. The Thule Sampling Elite is also very comfortable to carry when you walk up a hill and the child (14 kg) did not feel that heavy on the back either. The Child Carrier also comes with an additional small backpack which you can attach to it. This could be useful to share the load between two or if you only want to walk a shorter distance without the child carrier and to carry the most essential items with you.

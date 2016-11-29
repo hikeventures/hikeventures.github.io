@@ -3,7 +3,7 @@ title: Mountain Equipment AR Ultralite 2 Review
 description: Mountain Equipment AR Ultralite 2 - Ultralight tent
 date: 2014-04-05 08:44:22
 category: reviews
-tags: 
+tags:
   - reviews
   - mountain equipment
   - tents
@@ -13,6 +13,9 @@ layout: post
 The Mountain Equipment AR Ultralite 2 is an inexpensive tent which seems to be suitable for hiking, backpacking, camping or other backcounrty trips in moderate conditions. Here is a preview of the Mountain Equipment AR Ultralite.
 <a href="https://www.flickr.com/photos/90204224@N07/13637497545/"><img src="https://farm4.staticflickr.com/3832/13637497545_021f3a96fd_b.jpg" width="600" alt="Mountian Equipment AR Ultralite review"></a>
 
+<!--more-->
+
+{% include banner_ad.html %}
 
 The Mountain Equipment AR Ultralite 2 is an inexpensive tent which seems to be suitable for trips in moderate conditions. Here is a preview of the Mountain Equipment AR Ultralite.
 

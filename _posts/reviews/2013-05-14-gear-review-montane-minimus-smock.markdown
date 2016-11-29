@@ -13,6 +13,7 @@ layout: post
 For my hiking and packrafting adventures in summer and autumn, I was looking for a rain shell which is super light and still breathes quite well. After comparing some smocks and jackets I decided to give the Montane Minimus Smock a try. This is probably one of the lightest rain jacket which you can buy for your hiking or backpacking trips and here comes a short review.
 
 <a href="https://www.flickr.com/photos/90204224@N07/8738822666" title="Montane Minimus Smock unboxing"><img src="https://farm8.staticflickr.com/7288/8738822666_4067f044d0_b.jpg" width="600" alt="Montane Minimus Smock"></a>
+
 <!--more-->
 
 {% include banner_ad.html %}

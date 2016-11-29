@@ -16,6 +16,8 @@ For our packrafting trips we are more or less always wearing our dry suites whic
 
 <!--more-->
 
+{% include banner_ad.html %}
+
 We usually combine the latex socks with several merino socks layers (2-3) under it. Moreover, a neoprene shoe like the Sea to Summit Ultra Flex Booeties can also help to keep your feet warm the same way as divers are wearing neoprene suites to keep their body warm.
 
 ![Sea to Summit Ultra Flex Booties](https://farm2.staticflickr.com/1455/25746566141_e38526eca2_b.jpg "Sea to Summit Ultra Flex Booties")

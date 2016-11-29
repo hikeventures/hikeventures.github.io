@@ -5,11 +5,15 @@ title: Thule RideAlong Review
 description: Our review on the Thule RideAlong
 date: 2016-06-18 07:30:00
 category: reviews
-tags: 
+tags:
   - reviews
   - thule
   - bicycling
 ---
+
+<!--more-->
+
+{% include banner_ad.html %}
 
 ## Fiel Testing
 

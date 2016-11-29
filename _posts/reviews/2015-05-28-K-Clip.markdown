@@ -3,7 +3,7 @@ title: K-Clip Saves Your Broken Backpack
 description: K-clip replaces your broken bucket on your backpack
 date: 2015-05-28 18:04:22
 category: articles
-tags: 
+tags:
   - articles
 layout: post
 ---
@@ -11,7 +11,8 @@ Have you ever been on a hike and one of the buckles on your backpack broke or go
 
 <a href="https://www.flickr.com/photos/90204224@N07/18176290346" title="Broken buckle"><img src="https://c4.staticflickr.com/8/7748/18176290346_0e1fc175fb_b.jpg" width="1024" height="576" alt="Broken buckle"></a><!--more-->
 
-<br>
+{% include banner_ad.html %}
+
 Here’s where the K-Clip can help. The K-Clip is a field-replaceable buckle which can be easily installed. Apparently you don’t even need tools for the assembly, provided that the old buckle has been completely removed.
 
 Apart from this, it can be installed without the need to open any stitches on your equipment. You know these tightly sown loops of the strap that hold the buckle? No need to open them when installing the K-Clip.
@@ -20,7 +21,7 @@ Apart from this, it can be installed without the need to open any stitches on yo
 <br><br>
 On the downside, its strength is probably reduced when compared to your original single piece buckle. But hey, as long as it allows you to continue on your hike and you can still use your beloved backpack, we think that it is a good idea.
 
-Have a look at the K-Clip on their <a href="http://www.mykclip.com">website</a>. While these guys haven’t got it on sale yet, they have just launched a <a href="https://www.kickstarter.com/projects/493007570/k-clip-the-field-replaceable-buckle">Kickstarter campaign</a> to fund the first round of production. 
+Have a look at the K-Clip on their <a href="http://www.mykclip.com">website</a>. While these guys haven’t got it on sale yet, they have just launched a <a href="https://www.kickstarter.com/projects/493007570/k-clip-the-field-replaceable-buckle">Kickstarter campaign</a> to fund the first round of production.
 
 If you want to help them out, just back their project. In return you will be one of the first to get the hands on the K-Clip, provided the funding campaign is successful.
 Alternatively, you can just visit their <a href="http://www.facebook.com/mykclip">Facebook page</a> and help them spread the word.

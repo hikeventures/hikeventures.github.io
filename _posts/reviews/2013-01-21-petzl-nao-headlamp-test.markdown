@@ -9,7 +9,9 @@ tags:
   - headlamps
 layout: post
 ---
-The Petzl Nao is a new headlamp which is able to adapt its light according to the environment which makes it a great headlamp if you need to see far but at the same be able to read e.g. a map at night. You can also set the levels of the lamp manually and adjust the levels via the Petzl software on your PC according to your needs.
+
+The Petzl Nao Plus is a new headlamp which is able to adapt its light according to the environment which makes it a great headlamp if you need to see far but at the same be able to read e.g. a map at night. You can also set the levels of the lamp manually and adjust the levels via the Petzl software on your PC according to your needs. Moreover, you can also adapt the light with your smartphone via bluetooth. The review below is about the previous model of the Petzl Nao Plus. Beside the bluetooth functionality the new Petzl Nao Plus also features more Lumen (750 Lumen) than the old model.
+
 <!--more-->
 
 {% include banner_ad.html %}
@@ -19,7 +21,7 @@ The Petzl Nao weights 187 grams, is rechargable via USB and brightness is adjust
 
 ---
 
-## Switching Light Levels
+## Switching Light Levels on the old Petzl Nao
 <img src="http://farm9.staticflickr.com/8355/8402486031_f160650d1d_n.jpg" width="320" height="213" alt="Petzl Nao light test 22 m">
 
 Level 1 - Low<br><br>
@@ -47,10 +49,10 @@ You can charge the Nao directly on your computer and anything else which has an 
 ---
 
 ## Recommendation
-I have tested the Petzl Nao headlamp on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden. The Petzl Nao is a pretty strong headlamp and you can charge the Nao via USB. You may also consider a lighter headlamp if you don't need the power of the Petzl Nao. As I do packrafting, there might be also situations where we packraft till late into the night so a brighter headlamp is more useful for me to properly see whats in front of me. I also found it quite comfortable to go jogging with the Petzl Nao.
+I have tested the old model of the Petzl Nao headlamp on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden. The Petzl Nao is a pretty strong headlamp and you can charge the Nao via USB. You may also consider a lighter headlamp if you don't need the power of the Petzl Nao. As I do packrafting, there might be also situations where we packraft till late into the night so a brighter headlamp is more useful for me to properly see whats in front of me. I also found it quite comfortable to go jogging with the Petzl Nao.
 
 
-<a href="http://www.backcountry.com/petzl-nao-headlamp"><button type="button" class="btn btn-danger">Read more about the Petzl Nao</button></a>
+<a href="http://amzn.to/2gDm8Nm"><button type="button" class="btn btn-danger"Buy on Amazon</button></a>
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Zeiss Batis 25mm and Sony A7 Test - The best wide-angle lens for outdoor photography?
-description: Some thoughts about the Zeiss Batis 25mm 
+description: Some thoughts about the Zeiss Batis 25mm
 date: 2016-07-17 12:00:20
 category: best
 tags:
@@ -18,8 +18,11 @@ Today I had a chance to test the Zeiss Batis 25 mm f/2 in Finland and here are s
 
 <!--more-->
 
+{% include banner_ad.html %}
+
+
 # Sharpness
-This lens is super sharp. 
+This lens is super sharp.
 
 # Bokeh
 Even so it it a wide angle lens you can create a nice bokeh with it's f/2.

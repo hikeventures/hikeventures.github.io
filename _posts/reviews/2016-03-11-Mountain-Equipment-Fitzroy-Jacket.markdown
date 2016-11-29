@@ -14,11 +14,11 @@ Here comes a short review about the Mountain Equipment Fitzroy Jacket. On our tr
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25401969810/in/dateposted-public/" title="Mountain Equipment Fitzroy Jacket Review"><img src="https://farm2.staticflickr.com/1441/25401969810_8a545bc7b2_b.jpg" width="100%" alt="Mountain Equipment Fitzroy Jacket Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <!--more-->
 
----
+{% include banner_ad.html %}
 
-Once we arrived in Edinburgh we had a stroll through the city where we passed by a couple of outdoor stores and I was lucky to find a really good deal on the Fitzroy jacket. After my purchase I felt much better going camping in a tent on subzero degrees even so I had my regular <a href="http://www.hikeventures.com/cumulus-panyam-450/">Cumulus Panyam 450</a> sleeping bag and my <a href="http://www.hikeventures.com/gear-review-katabatic-gear-chisos/">Katabatic Chisos Quilt</a> as an additional sleeping bag layer with me. 
+Once we arrived in Edinburgh we had a stroll through the city where we passed by a couple of outdoor stores and I was lucky to find a really good deal on the Fitzroy jacket. After my purchase I felt much better going camping in a tent on subzero degrees even so I had my regular <a href="http://www.hikeventures.com/cumulus-panyam-450/">Cumulus Panyam 450</a> sleeping bag and my <a href="http://www.hikeventures.com/gear-review-katabatic-gear-chisos/">Katabatic Chisos Quilt</a> as an additional sleeping bag layer with me.
 
-A down jacket would probably not have worked very well in rainy and wet conditions. Luckily we had 2 days of sun shine on our paddling trip but the weather became quite nasty on the third day with strong winds and rain in the evening. 
+A down jacket would probably not have worked very well in rainy and wet conditions. Luckily we had 2 days of sun shine on our paddling trip but the weather became quite nasty on the third day with strong winds and rain in the evening.
 
 I was wearing my Fitzroy jacket everyday as soon as I got out of my dry suite. The jacket is really comfortable to wear and the 2 zipped hand warmer pockets with microfleece lining helped to warm up my hands as well while walking around in the camp. The Fitzroy jacket was also perfect to wear in the sleeping bag. The Fitzroy can be worn also as a layer on top of a hard shell as the Fitzroy is not a waterproof but a water resistan jacket.
 

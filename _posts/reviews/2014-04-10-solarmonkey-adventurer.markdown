@@ -3,7 +3,7 @@ title: Solarmonkey Adventurer
 description: Powertraveler Solar Monkey Adventurer Panel Review
 date: 2014-04-15 16:33:34
 category: reviews
-tags: 
+tags:
   - reviews
   - powertraveler
   - solar
@@ -15,23 +15,26 @@ The Powertraveller Solarmonkey Adventurer is my new solar charging device for my
 <a href="https://www.flickr.com/photos/90204224@N07/13937097045/" ><img src="https://farm3.staticflickr.com/2935/13937097045_2defb0f541_b.jpg" width="1024" height="683" alt="Powertraveller Solarmonkey Adventurer"></a>
 
 
+<!--more-->
+{% include banner_ad.html %}
+
 <a href="https://www.flickr.com/photos/90204224@N07/13913955861/" ><img src="https://farm8.staticflickr.com/7202/13913955861_e082b58204_b.jpg" width="1024" height="683" alt="Powertraveller Solarmonkey Adventurer"></a>
 The Solarmonkey Adventurer has a 2500 mAh lithium-ion polymer battery, which is 4 times less than the <a href="http://hikeventures.com/how-to-charge-your-batteries-when-you-are-outdoors/" target="_self">Anker Astro 3E</a> but with the possibility to recharge the battery every day e.g. by attaching it on my backpack during the day.
 <a href="https://www.flickr.com/photos/90204224@N07/13913961561/"><img src="https://farm4.staticflickr.com/3708/13913961561_100ac6009e_b.jpg" width="1024" height="683" alt="Powertraveller Solarmonkey Adventurer"></a>
 
 ## Features
-* multiple adapters included* 
-* 2500 mAh lithium-ion polymer battery* 
-* good solar panel (charges even when it is cloudy due to MPPT technology)* 
-* thermal insulation battery protection: -10C to 90C * 
-* short circuit protection* 
-* overload protection* 
-* low voltage protection* 
-* bag which can be attached to the backpack. Also includes a small pocket to store cables and adapters.* 
-* ISPO Award 2013* 
-* Can recharge the internal battery and external devices simultaneously* 
-* Solar Panel Battery can also be charged by USB* 
-* weight: 265 grams* 
+* multiple adapters included*
+* 2500 mAh lithium-ion polymer battery*
+* good solar panel (charges even when it is cloudy due to MPPT technology)*
+* thermal insulation battery protection: -10C to 90C *
+* short circuit protection*
+* overload protection*
+* low voltage protection*
+* bag which can be attached to the backpack. Also includes a small pocket to store cables and adapters.*
+* ISPO Award 2013*
+* Can recharge the internal battery and external devices simultaneously*
+* Solar Panel Battery can also be charged by USB*
+* weight: 265 grams*
 
 
 The Solar Panel seems to work quite to some extend and charges the battery if the sky is cloudy. However, this may take a couple of hours and you might only get a few percentages of battery power on your iphone. There is a small LED on the Solarmonkey Adventurer which indicated if the battery is charging (red light) or if the battery is fully charged (green).

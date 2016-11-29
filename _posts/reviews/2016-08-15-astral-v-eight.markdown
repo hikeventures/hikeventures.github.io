@@ -4,7 +4,7 @@ title: Astral Designs V-Eight Review
 description: Summer PFD for Kayaking and Packrafting
 date: 2016-08-15 07:30:00
 category: reviews
-tags: 
+tags:
   - reviews
   - pfd
   - astral designs
@@ -16,6 +16,8 @@ A few months ago I bought an Astral Design V-Eight as my new go-to PFD for packr
 
 <!--more-->
 
+{% include banner_ad.html %}
+
 # Specifications
 The Astral Designs V-Eight was developed for recreations paddling. This is not a white water PFD. The weight of the PFD is 554 grams. The V-Eight has a lot of mesh and breathes very well. There is also a YKK Zipper in the front, a webbing to keep the jacket closed (in case the zipper opens), and 2 side pockets to store snacks and small gear. There is also a spot to attach for example the [NRS Pilot Knife](http://www.campsaver.com/pilot-knife) on it.
 
@@ -23,7 +25,7 @@ The Astral Designs V-Eight was developed for recreations paddling. This is not a
 # Field Testing
 I have tested the Astral V-Eight on our packrafting trip in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/) and [Norway](http://www.hikeventures.com/Finnmark/). The rivers on this trip were maximum class 2-3. I would probably use a different life jacket if I would plan to go paddling on class 3+ rivers. But as you can see on the picture below you can float on the water (I tried it with and without dry suite).
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28376265554/in/dateposted-public/" title="Finnish Lapland"><img src="https://c3.staticflickr.com/9/8353/28376265554_c950098240_k.jpg" width="2048" height="1152" alt="Astral Designs V-Eight Review Test"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28376265554/in/dateposted-public/" title="Finnish Lapland"><img src="https://c3.staticflickr.com/9/8353/28376265554_c950098240_k.jpg" width="2048" height="1152" alt="Astral Designs V-Eight Review Test"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The backside of the Astral V-Eight is almost just mesh. A quite different design than many other PFD's on the market. This is a great feature if you plan to paddle in warmer areas. Also you can comfortably sit in a packraft since the flotation part in the back is located on the top. There is also some velcro on the straps on the top to attach them properly on the PFD. The straps on the side should be tightened before you sit into the packraft. I realized that the PFD should really snug your body otherwise the PFD won't support you that much. So make sure you have tighten all the straps when using it!
 
@@ -54,4 +56,3 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-

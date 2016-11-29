@@ -3,7 +3,7 @@ title: Sony 35mm 2.8 or Zeiss Loxia 35mm 2.0? - A short review.
 description: Evaluating if a Zeiss Loxia 35mm should be my new lens
 date: 2014-11-16 17:40:41
 category: articles
-tags: 
+tags:
   - articles
   - camera
   - photography
@@ -16,6 +16,10 @@ layout: post
 
 Today, I grabbed my camera in the afternoon trying to capture some sunset pictures with my Sony A7r on the neighbouring island where I live. The last week has been cloudy and I really looked forward to get out for a walk and evaluating at the same time if I should get a new Zeiss Loxia 35mm 2.0 lens.
 <a href="https://www.flickr.com/photos/90204224@N07/15182978924"><img src="https://farm9.staticflickr.com/8546/15182978924_06f8926249_h.jpg" width="1600" height="1068" alt="Zeiss Loxia 35mm 2.0 2.8"></a>
+
+<!--more-->
+
+{% include banner_ad.html %}
 
 In general the Sony 35mm renders also nice pictures as you can see in this article. I like to play around with objects in the foreground and a blured background. However, with the Sony 35mm F2.8 Sonnar T* FE ZA lens the manual focusing is working ok but it's not perfect. Manual focusing on the Zeiss Loxia 35mm will be much smoother and the Loxia will give me some additional light and more creative possibilities than my current Sony 35mm 2.8.  
 

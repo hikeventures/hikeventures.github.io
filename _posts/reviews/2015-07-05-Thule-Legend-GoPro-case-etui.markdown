@@ -16,6 +16,8 @@ If you are a GoPro camera user you have probably looked for a case to store your
 
 <img src="https://farm1.staticflickr.com/407/18948498964_e22e5df5de_o.jpg" width="100%"  alt="Hiking in Poland"><!--more-->
 
+{% include banner_ad.html %}
+
 I have used the Thule Legend GoPro Case this year mainly for hiking and packrafting e.g. in <a href="http://www.hikeventures.com/Karkonosze-national-park/">Poland</a>, <a href="http://www.hikeventures.com/Second-Finnish-Packrafting-Gathering-Finland-Helvetinjarvi/">Finland</a> or in Sweden. Below you can see the Legend GoPro Case attached to my <a href="http://www.hikeventures.com/gear-review-hmg-porter-4400-black/">HMG Porter</a> backpack.
 
 <img src="https://farm1.staticflickr.com/362/19544901016_04d02fe611_o.jpg" width="100%"  alt="Thule Legend GoPro Case">
@@ -51,7 +53,7 @@ Another good feature of the Legend GoPro Case is that you can easily clean the f
 ## Conclusion
 The Thule Legend GoPro Case is a nice addition to your GoPro Camera especially if you have plenty of GoPro equipment. Even so the case is made to protect your camera, I rather use it to keep my camera gear organised and in one place. The case also protects the housing of the camera in getting scratches while transporting the camera in your backpack. There is also the Thule Legend GoPro Advanced Case if you need to carry two GoPro cameras with you.
 
-<a href="http://www.backcountry.com/thule-legend-gopro-case"><button type="button" class="btn btn-danger">Read more about the Thule Legend GoPro Case</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a> 
+<a href="http://www.backcountry.com/thule-legend-gopro-case"><button type="button" class="btn btn-danger">Read more about the Thule Legend GoPro Case</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
 ---
 

@@ -15,6 +15,8 @@ On our packrafting trip in Scotland I have tried out the Thule X4 smartphone cas
 
 <!--more-->
 
+{% include banner_ad.html %}
+
 * The X4 has a better grip
 * The buttons on the X4 are easier to push
 * Screen protection on the X4

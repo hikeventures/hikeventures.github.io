@@ -3,7 +3,7 @@ title: Deuter Boulder Gaiter Review
 description: Gaiter protect you of water and dirt getting into your shoes.
 date: 2013-12-25 13:04:11
 category: reviews
-tags: 
+tags:
   - reviews
   - deuter
   - gaiter
@@ -11,9 +11,11 @@ layout: post
 ---
 
 Winter time - Gaiter time! To keep snow out during my winter activities like winter hiking, snowshoeing or cross-country skiing I am using gaiters and here is a short review of the Deuter Boulder Gaiters which are are quite light and super durable.
-   
+
 <a href="https://www.flickr.com/photos/90204224@N07/11544953636"><img src="https://farm4.staticflickr.com/3812/11544953636_f5653a0864_b.jpg" width="1024" height="683" alt="Deuter Boulder Gaiter" ></a>
 <!--more-->
+
+{% include banner_ad.html %}
 
 ## Features
 The Deuter Boulder gaiters just weight 145 grams, are made of 600 den Polyester and have an elastic top and bottom. The gaiters have a height of 20 cm.

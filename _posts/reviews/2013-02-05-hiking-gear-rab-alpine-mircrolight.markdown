@@ -15,9 +15,9 @@ If you are looking for a new down jacket which you can use during your hiking, b
 <a href="https://www.flickr.com/photos/90204224@N07/8373596834" title="Rab Alpine Microlight Camping hiking backpacking down jacket"><img src="https://farm9.staticflickr.com/8475/8373596834_f7923d2831_b.jpg" width="1024" height="683" alt="Rab Alpine Microlight Ultralight Down Jacket Review"></a>
 <!--more-->
 
-Since the jacket is filled with down it takes much less space in your backpack than a synthetic jacket. Alternatively, you may also have a look at the <a href="http://hikeventures.com/gear-review-montbell-u-dot-l-down-parka" target="_self">Montbell UL Down Parka</a> which is a bit lighter than the Rab Microlight Alpine jacket and which is my current down jacket.
-
 {% include banner_ad.html %}
+
+Since the jacket is filled with down it takes much less space in your backpack than a synthetic jacket. Alternatively, you may also have a look at the <a href="http://hikeventures.com/gear-review-montbell-u-dot-l-down-parka" target="_self">Montbell UL Down Parka</a> which is a bit lighter than the Rab Microlight Alpine jacket and which is my current down jacket.
 
 ## Features
 The Rab Microlight Alpine Jacket weights 345 grams is filled with 140 grams of 750 cuin goose down.

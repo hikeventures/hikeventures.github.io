@@ -25,7 +25,7 @@ But you know what they say – “never say never”, and indeed, after a while,
 > Wearing my icebreaker while packrafting in Poland this spring
 <!--more-->
 
----
+{% include banner_ad.html %}
 
 # Reason 5: Icebreaker t-shirts look nice
 I like the cut (in most cases they make me look rather slim and trim) and I love the colours and colour combinations. Recently, Icebreaker has also started to produce t-shirts with prints. And they are good. What I understood from their brochures, they sometimes work with famous artists on the design and when you buy a t-shirt like that, it almost feels like you also buy a piece of art.

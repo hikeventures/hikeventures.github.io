@@ -3,7 +3,7 @@ title: LuminAID Review
 description: luminAid - An inflatable solar light for your hiking trip
 date: 2014-04-22 18:40:05
 category: reviews
-tags: 
+tags:
   - reviews
   - luminaid
   - lights
@@ -11,24 +11,28 @@ layout: post
 ---
 
 luminAID is a solar-powered inflatable light which can be used to light up your camp or you can attach it to your packraft if you want to paddle at night.
-   
+
 <img src="https://farm8.staticflickr.com/7381/13970539645_6d777e495b_c.jpg">
+
+<!--more-->
+
+{% include banner_ad.html %}
 
 ## Features
 The LuminAid weights 85 grams and can offer light for 16 hours after a charging it for 7 hours. There is a low and a high light setting. The LuminAid is also inflatable, water-resistand and can float.
-   
+
 <a href="https://www.flickr.com/photos/90204224@N07/13970959474/" ><img src="https://farm8.staticflickr.com/7404/13970959474_974b5ff688_b.jpg" width="1024" height="683" alt="LuminAid" ></a>
-   
+
 LuminAID with original packaging
-   
+
 <a href="https://www.flickr.com/photos/90204224@N07/13967345072/" ><img src="https://farm8.staticflickr.com/7253/13967345072_66597c9f5b_b.jpg" width="1024" height="683" alt="LuminAid" ></a>
-   
+
 Luminaid folds quite small and fits easily into a backpack
-   
+
 <a href="https://www.flickr.com/photos/90204224@N07/13967348421/" ><img src="https://farm8.staticflickr.com/7084/13967348421_1a012e2dae_b.jpg" width="1024" height="683" alt="LuminAid" ></a>
-   
+
 LuminAID from the backside. The light does not constrain your eyes since it gets diffused.
-   
+
 <a href="https://www.flickr.com/photos/90204224@N07/13967324991/" ><img src="https://farm8.staticflickr.com/7082/13967324991_210e4a8fab_b.jpg" width="1024" height="683" alt="LuminAid"></a>
 LuminAID gave us plenty of light next to the <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/" target="_blank">Hilleberg Anjan</a> on our packrafting trip in the Netherlands.
 
