@@ -37,6 +37,4 @@ Nielsen explains why he prefers [Klymit mattresses](https://nielsenbrown.com/201
 
 One Swedish Summer went to the Highlands - [Eastern Cairngorms](http://oneswedishsummer.weebly.com/my-blog/highland-summer-eastern-cairngorms).
 
-{% include ads.html %}
-
-{% include disclaimer.html %}
+{% include tidbits.html %}
