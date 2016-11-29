@@ -9,7 +9,10 @@ layout: post
 ---
 
 This summer was quite interesting. HikeVentures has been in Poland, Japan, Sweden and Norway and we have to go through all of our pictures and pick the best ones for our readers. Make sure to check out <a href="https://instagram.com/hikeventure">Instagram</a> and <a href="https://www.facebook.com/HikeVentures">Facebook</a> as we will publish some pictures there as well.
-So what are our upcoming adventure plans? Next weeend Patrick is most likely traveling again to the <a href="http://www.hikeventures.com/hiking-on-the-aland-islands/">Aland Islands</a> to enjoy the beautiful Archipelago from the ferry. In September, HikeVentures will be in Norway again and most likely also participating in the upcoming Finnish Packrafting Gathering 2016. Here are the latest outdoor blog posts from the last 4 weeks.<img src="https://farm1.staticflickr.com/413/19108454846_d2b196136b_b.jpg" width="100%"  alt="Viking Grace">
+So what are our upcoming adventure plans? Next weeend Patrick is most likely traveling again to the <a href="http://www.hikeventures.com/hiking-on-the-aland-islands/">Aland Islands</a> to enjoy the beautiful Archipelago from the ferry. In September, HikeVentures will be in Norway again and most likely also participating in the upcoming Finnish Packrafting Gathering 2016. Here are the latest outdoor blog posts from the last 4 weeks. {% include intro_tidbits.html %}
+
+<img src="https://farm1.staticflickr.com/413/19108454846_d2b196136b_b.jpg" width="100%"  alt="Viking Grace">
+<!--more-->
 
 ## New products
 [Hyperlite Mountain Gear - Dyneema Duffel Bag](http://blog.hyperlitemountaingear.com/its-a-beast-hyperlite-mountain-gears-new-dyneema-duffel-bag/)
