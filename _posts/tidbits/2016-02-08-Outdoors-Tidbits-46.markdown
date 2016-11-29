@@ -31,11 +31,7 @@ The last week we were very busy with uploading our <a href="http://www.hikeventu
 
 <a href="http://feeds.feedblitz.com/~/134110555/0/sectionhikercom~Northern-Lites-Backcountry-Snowshoes-Review/">Northern Lites Backcountry Snowshoes</a>
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 
 ## Tips & Tricks
@@ -43,3 +39,6 @@ The last week we were very busy with uploading our <a href="http://www.hikeventu
 
 ## Trips
 <a href="http://www.packrafting.de/2016/02/fliegenfischer-im-polarural.html">Packrafting in Russia</a>
+
+
+{% include tidbits.html %}

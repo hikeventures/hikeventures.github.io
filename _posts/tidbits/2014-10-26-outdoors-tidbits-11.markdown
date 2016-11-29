@@ -18,11 +18,7 @@ A review about the Apple iPhone 6 Plus camera. - [connect.dpreview.com](http://c
 <br><br>
 Street Photography Tips. - [digital-photography-school.com](http://digital-photography-school.com/7-tips-for-doing-more-meaningful-street-photography/)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 
 How to use Dynamic Range in Photography. - [donsmithblog.com](http://www.donsmithblog.com/2014/10/24/understand-your-cameraa-dynamic-range-and-use-it-to-your-advantage/)
@@ -76,3 +72,5 @@ Ford's gear reviewed. - [childsplaypct.blogspot.com](http://childsplaypct.blogsp
  <iframe width="800" height="450" src="//www.youtube.com/embed/uz_sRkKSyQo" frameborder="0" allowfullscreen></iframe><br><br>
 
 The Gnu tested by the Packrafting Store. - [apaddleinmypack.wordpress.com](http://apaddleinmypack.wordpress.com/2014/10/22/packrafting-store-tests-the-gnu-video)
+
+{% include tidbits.html %}

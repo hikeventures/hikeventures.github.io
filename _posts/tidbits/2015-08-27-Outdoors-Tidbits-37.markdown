@@ -34,11 +34,7 @@ After returning from our trips in Sweden, Poland and Japan we need some time to 
 
 [Lightening that Backpacking](http://blissfulhiking.blogspot.com/2015/08/lightening-that-backpacking-load.html)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 ## Reviews
 [NOKA Superfood Blends](http://www.modernhiker.com/2015/08/26/product-review-noka-superfood-blends)
@@ -73,3 +69,6 @@ After returning from our trips in Sweden, Poland and Japan we need some time to 
 [Svalbard – Summer 2015 – Pt. 2](http://korpijaakko.com/2015/08/27/svalbard-summer-2015-pt-2)
 
 [Hiking the Central Oregon Cascades](http://dennis-ernst-blogs.blogspot.com/2015/08/hiking-central-oregon-cascades.html)
+
+
+{% include tidbits.html %}

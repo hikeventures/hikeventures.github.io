@@ -15,11 +15,7 @@ Exploring the Theodore Roosevelt National Park [(astheyare.net).](http://astheya
 <br><br>
 The Charkadio Cave and Museum [(discoveringkos.com).](http://www.discoveringkos.com/2015/03/the-charkadio-cave-and-museum.html)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 
 Artist's Point Sunrise Overnight [(mikereidphotography.wordpress.com).](https://mikereidphotography.wordpress.com/2015/03/01/artists-point-sunrise-overnight/)
@@ -137,3 +133,5 @@ Brohm Lake hikes [(justambling.com).](http://justambling.com/2015/02/18/brohm-la
 An Update from the Bark Europa's Current Antarctic Voyage [(vagabondist.wordpress.com).](https://vagabondist.wordpress.com/2015/02/19/an-update-from-the-bark-europas-current-antarctic-voyage/)
 <br><br>
 Boozing with Birders at Kruger National Park [(rangecommander.wordpress.com).](https://rangecommander.wordpress.com/2015/02/19/boozing-with-birders-at-kruger-national-park/)
+
+{% include tidbits.html %}

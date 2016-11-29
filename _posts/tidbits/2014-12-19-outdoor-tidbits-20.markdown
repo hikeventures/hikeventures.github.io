@@ -18,11 +18,7 @@ Rob Roys Way Part 1. - <a href="http://www.baldhiker.com/2014/12/04/rob-roys-way
 
 Ski with Santa this Christmas. - <a href="http://www.rockiesfamilyadventures.com/2014/12/ski-with-santa-this-christmas.html">rockiesfamilyadventure.com</a>
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 
 Gipfelglueck auf der Marmolata. - <a href="http://outdoorseite.de/gipfelglueck-auf-der-marmolata/">outdoorseite.de</a>
@@ -58,3 +54,6 @@ Hiking with donkeys (in German). - <a href="http://www.greensoul.de/eselwandern/
 Sun and Snow in Walloniann Venn (in German). - <a href="http://wandernbonn.de/2014/12/16/schnee-sonne-mystische-stimmung-im-wallonischen-venn/">wandernbonn.de</a>
 
 Hiking keeps you young and fit (in German). - <a href="http://www.weitwanderwege.com/gesundheit-wandern-weitwandern-wundermittel/">weitwanderwege.com </a>
+
+
+{% include tidbits.html %}

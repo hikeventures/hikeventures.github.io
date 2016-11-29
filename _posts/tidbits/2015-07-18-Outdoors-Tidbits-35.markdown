@@ -19,11 +19,7 @@ After our hiking and packrafting trip in Poland, Konstantin went off to his hone
 
 [Do you know where your down comes from?](http://treelinebackpacker.com/2015/07/11/do-you-know-where-your-down-comes-from-new-standards-in-down)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 
 ## Gear Reviews
@@ -54,3 +50,5 @@ After our hiking and packrafting trip in Poland, Konstantin went off to his hone
 [MSR Hubba NX](https://climbinggearreviewsuk.wordpress.com/2015/06/27/msr-hubba-nx-review/)
 
 [Marmot Aquifer 24 Daypack](http://thebigoutside.com/gear-review-marmot-aquifer-24-daypack/)
+
+{% include tidbits.html %}

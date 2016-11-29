@@ -22,7 +22,7 @@ This is how I got the backpack. I ordered the cuben fibre bag separately. The wa
 
 <a href="https://www.flickr.com/photos/90204224@N07/8576877075" title="Laufbursche Huckepack"><img src="https://farm9.staticflickr.com/8373/8576877075_5f6b7873dc_b.jpg" width="1024" height="683" alt="Laufbursche Huckepack hp450"></a>
 
-There is a bag on the top of the backpack where you can store your money, keys, passport, etc. 
+There is a bag on the top of the backpack where you can store your money, keys, passport, etc.
 
 <a href="https://www.flickr.com/photos/90204224@N07/8578138420" title="Laufbursche Huckepack"><img src="https://farm9.staticflickr.com/8093/8578138420_b4af0d6ac5_b.jpg" width="683" height="1024" alt="Laufbursche Huckepack hp450"></a>
 
@@ -31,6 +31,8 @@ The backpack also features a whistle.
 <a href="https://www.flickr.com/photos/90204224@N07/8577036637" title="Laufbursche Huckepack"><img src="https://farm9.staticflickr.com/8511/8577036637_c25b63e0f3_b.jpg" width="683" height="1024" alt="Laufbursche Huckepack hp450 parts"></a>
 
 The hip belt is quite light too but seems to be perfect for the weight the backpack is made for.
+
+{% include banner_ad.html %}
 
 ## Recommendation
 The Laufbursche Huckepack is a great backpack for Ultralight adventures or if you go on a shorter trip. The fabrics and craftsmanship is on a very high level. Do you have a packraft or need more space? Then you might also consider the <a href="http://hikeventures.com/gear-review-hmg-porter-4400-black/" target="_self">HMG Porter 4400</a>.

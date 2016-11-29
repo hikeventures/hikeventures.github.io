@@ -43,11 +43,7 @@ A preview about the [Saunders Jetpacker Plus][5]
 
 [Initial Review of KEEN Chandler CNX Hiking Shoe][17]
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 
 ## Tips & Tricks
@@ -105,3 +101,5 @@ A preview about the [Saunders Jetpacker Plus][5]
 [27]:	http://www.sonyalpharumors.com/sony-releases-the-sky-hdr-app/ "Sony releases the “Sky HDR” app!"
 [28]:	http://www.dpreview.com/news/0998933437/phase-one-launches-100mp-medium-format-camera-co-developed-with-sony "Phase One launches 100MP medium format camera co-developed with Sony"
 [29]:	http://www.sonyalpharumors.com/sr3-sony-a6100-si-shipping-in-march-rumored-to-feature-a-new-36mp-bsi-sensor/
+
+{% include tidbits.html %}

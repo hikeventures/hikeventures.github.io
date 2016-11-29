@@ -15,11 +15,7 @@ FE 16-35 RAW images. - [digital-photography-school.com](http://www.verybiglobo.c
 EOS 7D Mark II Sample Images. - [canonrumors.com](http://www.canonrumors.com/2014/09/sample-images-from-the-eos-7d-mark-ii/)<br><br>
 Some Nikon D750 stuff. - [dpreview.com](http://www.dpreview.com/articles/1289414938/nikon-d750-what-you-need-to-know)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 
 Mount Jefferson. - [trailtosummit.com](http://trailtosummit.com/mount-jefferson-via-great-gulf-six-husbands-and-sphinx/)<br><br>
@@ -34,3 +30,5 @@ The North Face Corona Climbing Pants Review. - [climbinggearreviewsuk.wordpress.
 NanoTips Preview](http://www.theoutdoorgearreview.com/2014/09/nanotips-preview-and-testing.html). - [theoutdoorgearreview.com
 <br><br>
 <iframe src="//player.vimeo.com/video/106620458" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+{% include tidbits.html %}

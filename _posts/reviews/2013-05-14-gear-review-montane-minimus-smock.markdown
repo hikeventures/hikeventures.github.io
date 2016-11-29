@@ -3,7 +3,7 @@ title: Montane Minimus Smock Review
 description: Montane Minimus Smock Review
 date: 2013-05-14 07:30:00
 category: reviews
-tags: 
+tags:
   - reviews
   - montane minimus
   - jackets
@@ -11,11 +11,11 @@ layout: post
 ---
 
 For my hiking and packrafting adventures in summer and autumn, I was looking for a rain shell which is super light and still breathes quite well. After comparing some smocks and jackets I decided to give the Montane Minimus Smock a try. This is probably one of the lightest rain jacket which you can buy for your hiking or backpacking trips and here comes a short review.
-   
+
 <a href="https://www.flickr.com/photos/90204224@N07/8738822666" title="Montane Minimus Smock unboxing"><img src="https://farm8.staticflickr.com/7288/8738822666_4067f044d0_b.jpg" width="600" alt="Montane Minimus Smock"></a>
 <!--more-->
 
----
+{% include banner_ad.html %}
 
 ## Features
 The Montane Minimus Smock weights 143 grams and is almost inivisible in your backpack since it packs really small. It also comes with reflectors which are quite useful when you still have to hike during the night on a road. The front back is also useful since you can store items like a map in it and easily access it during your hike.

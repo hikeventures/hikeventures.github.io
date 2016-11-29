@@ -16,11 +16,7 @@ The first MSR Windboiler Trail Report. - [adventuresinstoving.blogspot.com](http
 
 Titanium Goat Ptarmigan Bivy got reviewed. - [thetraillives.com](http://thetraillives.com/2014/11/07/gear-review-titanium-goat-ptarmigan-bivy)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 
 New lens filters are available from Manfrotto. - [dpreview.com](http://www.dpreview.com/articles/4317887124/manfrotto-introduces-new-lens-filter-lineup)
@@ -52,3 +48,5 @@ Hiking the Hightop Mountain. - [virginiavinesandtrails.com](http://virginiavines
 Experienced Talvi. - [ainaylamaki.blogspot.com](http://ainaylamaki.blogspot.com/2014/11/talvi.html) (winter)
 
 A trail report about the Havasupai Falls in Arizona. - [hikenoworklater.com](http://hikenoworklater.com/2014/11/08/trail-report-havasupai-falls-arizona)
+
+{% include tidbits.html %}

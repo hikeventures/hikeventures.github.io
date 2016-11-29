@@ -32,11 +32,7 @@ Last week Konstantin went hiking in the Dutch forest hunting for mushrooms. We s
 <br><br>
 <a href="http://thebigoutside.com/gear-review-marmot-scandium-sleeping-bag/">Marmot Scandium Sleeping Bag</a>
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 
 <a href="http://treelinebackpacker.com/2015/10/13/gerber-freescape-camp-kitchen-kit/">Gerber Freescape Camp Kitchen Kit</a>
@@ -56,3 +52,5 @@ Last week Konstantin went hiking in the Dutch forest hunting for mushrooms. We s
 <a href="http://blog.rei.com/hike/gear-review-sea-to-summit-x-pot-5-piece-cookset/">Sea to Summit X-Pot Cookset</a>
 <br><br>
 Pssst... are you an outdoor blogger and want to appear in our Outdoors Tidbits (#outdoorstidbits)? <a href="http://www.hikeventures.com/about/#contact">Send</a> us the URL to your blog. The best outdoor blog posts will be published on our blog.
+
+{% include tidbits.html %}

@@ -20,11 +20,7 @@ Book Review: [Thru Hiking will break your heart](http://campfirechic.com/2016/09
 [Haglofs Gram Comp 25 Backpack](http://www.outdoorsfather.com/2016/09/gear-review-haglofs-gram-comp-25-backpack/) review.   
 [Inov-8 Evoskin](http://bushcraft.at/review-inov-8-evoskin/) review.   
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 [Travel Chair](http://www.missourihowell.com/2016/09/23/gear-review-travelchair/) review.   
 [Outdoor Research Whirlwind Hoody](http://www.littlegrunts.com/outdoor-research-whirlwind-hoody-orinsightlab/) review.   
@@ -38,9 +34,4 @@ Self driving [wheel backpack](https://hiking.org/2016/09/22/self-driving-wheel-b
 Trail Meal: [Grilled Sweet Potato Fajitas](http://www.freshoffthegrid.com/grilled-sweet-potato-fajitas/).   
 Trail Meal:[Great tasting meals to make in your Windburner Stove](http://s454105314.onlinehome.us/msr_blog/5-great-tasting-meals-to-make-in-your-windburner-stove-system/).   
 
----
-
-Want to see a link to your blog post here as well?   
-Submit a message with a link [here](http://www.hikeventures.com/Outdoors-Tidbits-48/) and we may publish it next time.
-
----
+{% include tidbits.html %}

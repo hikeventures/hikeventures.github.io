@@ -30,11 +30,7 @@ Currently, we are busy writing gear reviews and trip reports which we will publi
 
 [Therm-a-Rest Antares Sleeping Bag](http://www.theoutdooradventure.net/2015/09/therm-a-rest-antares-sleeping-bag/)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 
 [Esee Candiru](http://bedrockandparadox.com/2015/09/04/esee-candiru-review/)
@@ -105,3 +101,5 @@ Currently, we are busy writing gear reviews and trip reports which we will publi
 [Tuesday 1 September 2015 10:12 13 Top Tips for Camping in the Rain Bradley Bradley & Ishai's hikes and camps](http://www.ishbish.com/hikes/2015/09/13-top-tips-for-camping-in-the-rain/)
 
 [Sunday 6 September 2015 21:47 Portable: Wood-Burning Camp Stove Packable, Light Sean McCoy Gear Junkie](http://gearjunkie.com/frontier-plus-camp-stove)
+
+{% include tidbits.html %}

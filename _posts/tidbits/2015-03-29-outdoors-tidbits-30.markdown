@@ -20,11 +20,7 @@ Last week we read about the [Tamang Heritage Trail](https://michaelbrandeis1.wor
 [foot](http://blissfulhiking.blogspot.com/2015/03/foot-care.html) while on the trail and how to become a [better hiker](https://georgiatomaine2013.wordpress.com/2015/03/26/how-to-become-a-better-more-efficient-hiker/).
 
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 ## Gear Reviews
 There has been some interesting reviews about backpacks like the [Kelty Catalyst 65](http://treelinebackpacker.com/2015/03/27/kelty-catalyst-65-backpack-review), [Granite Gear Boundary Campus](http://treelinebackpacker.com/2015/03/21/granite-gear-boundary-campus-backpack-review), the frameless [LAUFBURSCHE huckePACK](http://besthike.com/2015/03/23/the-frameless-laufbursche-huckepack/) or the [Crux AK37 pack](http://www.thealpinestart.com/2015/03/field-tested-crux-ak37-pack/).
@@ -33,3 +29,4 @@ If you are into kayaking then there is a review about the
 [Aquaglide Tandem XL Inflatable Kayak](https://airkayaks.wordpress.com/2015/03/28/choosing-an-aquaglide-tandem-xl-inflatable-kayak-chelan-vs-columbia-vs-chinook/). If you are into Merino wool then a review of the
 [Icebreaker Helix LS Zip Review (in German)](https://www.hiking-blog.de/test/praxistest-icebreaker-helix-ls-zip-isolationsjacke-aus-merinowolle/) could be interesting to read. Ultralight hikers could have a look into the review about the
 [GoLite Imogene UL3](http://hikenoworklater.com/2015/03/24/gear-review-golite-imogene-ul3) or the [Big Agnes Slater UL2+](http://sunrisegear.blogspot.com/2015/03/big-agnes-slater-ul2.html). As we are getting closer to summer, some of you might also be interested in new sunglasses and here is a [review](http://www.hochtourist.at/testbericht-julbo-montebianco-cameleon/) about the Julbo MonteBianco Cameleon Review in German. Finally, there is a review about the La Sportiva [Nepal Cube GTX Boot](http://www.thealpinestart.com/2015/03/la-sportiva-nepal-cube-gtx-boot-review/) if you are into ice climbing. If you are still looking for a backpacking knife then the [review](http://treelinebackpacker.com/2015/03/21/morakniv-pro-s-review) about the MORAKNIV PRO S might be interesting to read.
+{% include tidbits.html %}

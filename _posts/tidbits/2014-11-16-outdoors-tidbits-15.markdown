@@ -20,11 +20,7 @@ Tactical Rapid Response Quarter Zip. - [gearculture.com](http://www.gearculture.
 Trailrunning: St. Gervais and Montford. - [asquirrelgoestouring.com](http://asquirrelgoestouring.com/2014/11/15/alpine-trail-running-st-gervais-and-montford)
 
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 Dalkey Island in Ireland. - [homethoughtsfromabroad626.wordpress.com](http://homethoughtsfromabroad626.wordpress.com/2014/11/15/dalkey-island-county-dublin-ireland)
 
@@ -81,3 +77,5 @@ The Silver Pass. - [tcmauer.com](http://tcmauer.com/2014/08/13/silver-pass)
 Fire and Brimstone. - [boxcanyonblog.blogspot.com](http://boxcanyonblog.blogspot.com/2014/11/fire-and-brimstone.html)
 
 Serenity in Yoho National Park. - [theroaminglama.wordpress.com](http://theroaminglama.wordpress.com/2014/11/12/serenity-in-yoho-national-park)
+
+{% include tidbits.html %}

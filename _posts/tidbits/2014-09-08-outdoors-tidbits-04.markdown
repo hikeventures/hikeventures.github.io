@@ -16,11 +16,7 @@ Patrick & Konstantin<br><br>Lightroom and colour space. - [digital-photography-s
 <br><br>
 Noise reduction in Lightroom. - [digital-photography-school.com](http://digital-photography-school.com/how-to-do-noise-reduction-in-lightroom/)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 Creating spinning circular time-lapse videos. - [nikonrumors.com](http://nikonrumors.com/2014/08/31/creating-spinning-circular-timelapse-with-nikon-dslr-camera.aspx/)
 <br><br>
@@ -38,3 +34,5 @@ Adventures of a blind kayaker. - [canoekayak.com](http://www.canoekayak.com/vide
 <br><br>Therm-a-Rest Slacker Hammock Single Review. - [theultimatehang.com](http://theultimatehang.com/2014/09/therm-a-rest-slacker-hammock-single-review/)
 <br><br>Hiking with Chopsticks? Get those!. - [gizmodo.com](http://gizmodo.com/smart-chopsticks-that-test-your-food-for-contamination-1630307833)
 <br><br>Aquabond Manta Ray Carbon Paddle review. - [paddlinglight.com](http://www.paddlinglight.com/reviews/aquabound-manta-ray-carbon-paddle-review/)
+
+{% include tidbits.html %}

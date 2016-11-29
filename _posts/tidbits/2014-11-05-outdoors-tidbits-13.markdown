@@ -18,11 +18,7 @@ Amphibian 20L Waterproof Pack review. - [briangreen.net](http://briangreen.net/2
 A review about the ThermaCELL ProFLEX Heated Insoles. - [adventures-in-the-outdoors.blogspot.com](http://adventures-in-the-outdoors.blogspot.com/2014/11/review-thermacell-proflex-heated-insoles.html)
 
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 Big Agnes Battle Mountain Tent Preview (2015). - [treelinebackpacker.com](http://treelinebackpacker.com/2014/10/30/big-agnes-battle-mountain-tent-preview-2015)
 
@@ -83,3 +79,5 @@ Winter Hiking Tips. - [adventures-in-the-outdoors.blogspot.com](http://adventure
 Mt. Whitney and the Alabama Hills. - [crosscountrydancing.blogspot.com](http://crosscountrydancing.blogspot.com/2014/11/easter-sierras-part-six-mt-whitney-and.html)
 
 Hiking to Mt. Hood. - [bryanmullaney.blogspot.com](http://bryanmullaney.blogspot.com/2014/11/mt-hood-circumnavigation.html)
+
+{% include tidbits.html %}

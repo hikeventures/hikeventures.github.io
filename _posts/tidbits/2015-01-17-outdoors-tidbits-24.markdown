@@ -20,11 +20,7 @@ A Poem: In Celebration of Fords. - [ianbarrington.com](http://ianbarrington.com/
 <br><br>
 Bushwhack to Chimneys. - [streamsandforests.wordpress.com](https://streamsandforests.wordpress.com/2015/01/16/bushwhack-to-chimneys/)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 
 First Impression Of The Anza-Borrego Desert. - [hikingangelesforest.com](http://hikingangelesforest.com/2015/01/15/first-impression-of-the-anza-borrego-desert)
@@ -90,3 +86,5 @@ Prado Regional Park. - [cruisincondo.blogspot.com](http://cruisincondo.blogspot.
 King Canyon Trail. - [arizonahiking.blogspot.com](http://arizonahiking.blogspot.com/2015/01/king-canyon-trail.html)
 <br><br>
 Mount Cook spendour, South Island, New Zealand. - [wildlifewanderings.blogspot.com](http://wildlifewanderings.blogspot.com/2015/01/mount-cook-spendour-south-island-new.html)
+
+{% include tidbits.html %}

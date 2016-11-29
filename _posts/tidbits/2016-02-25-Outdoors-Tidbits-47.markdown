@@ -31,11 +31,7 @@ P.S. As an outdoor blogger you might have a chance to appear in our #OutdoorsTid
 
 <a href="http://feeds.feedblitz.com/~/138207775/0/sectionhikercom~LifeStraw-Mission-GravityFed-Water-Purifier-Review/">LifeStraw Mission GravityFed Water Purifier</a>
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 <a href="http://treelinebackpacker.com/2016/02/12/kahthoola-microspikes-review/">Kahthoola Microspikes</a>
 
@@ -79,3 +75,6 @@ P.S. As an outdoor blogger you might have a chance to appear in our #OutdoorsTid
 
 ## Photography
 <a href="http://www.dpreview.com/news/4525535183/sandisk-extreme-pro-microsdxc-uhs-ii-is-worlds-fastest">Sandisk Extreme Pro MicroSDXC UHS II</a>
+
+
+{% include tidbits.html %}

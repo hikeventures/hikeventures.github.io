@@ -16,11 +16,7 @@ So what are our upcoming adventure plans? Next weeend Patrick is most likely tra
 [New backpacks from the North Face](http://neverstopexploring.com/2015/07/27/the-latest-on-backpacks-from-the-north-face/)
 [Sierra Designs Tent Preview](http://treelinebackpacker.com/2015/07/18/sierra-designs-2015-tent-preview-nightwatch)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 ## Tips
 [How to pack for a packraft day trip](http://blog.hyperlitemountaingear.com/roman_dial_packraft_day_trip/)
@@ -97,3 +93,5 @@ So what are our upcoming adventure plans? Next weeend Patrick is most likely tra
 [MSR Windpro 2 stove](http://www.hikersblog.co.uk/msr-windpro-2-stove-review/)
 [Gossamer Gear Murmur Hyperlight Pack](http://www.guthookhikes.com/2015/07/gossamer-gear-murmur-hyperlight-pack-review.html)
 [Mountain Laurel Designs Bug Bivy](http://www.guthookhikes.com/2015/06/mountain-laurel-designs-bug-bivy-review.html)
+
+{% include tidbits.html %}

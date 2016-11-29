@@ -18,11 +18,7 @@ Gosainkund & Helambu. - [besthike.com](http://besthike.com/2014/11/24/gosainkund
 
 5 Winter Hikes near Portland. - [evergreenhiker.wordpress.com](http://evergreenhiker.wordpress.com/2014/11/18/5-winter-hikes-portland)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 
 Hiking and Cycling the Bryce Canyon National Park. - [bikehikesafari.com](http://bikehikesafari.com/2014/11/23/hiking-and-cycling-bryce-canyon-national-park)
@@ -50,3 +46,5 @@ Sherwood Forest. - [aroundthebendfriends2.blogspot.com](http://aroundthebendfrie
 Hiking in Manning Park in British Columbia. - [jcpct.wordpress.com](http://jcpct.wordpress.com/2014/11/19/day-160-mile-2668-manning-park-bc)
 
 The Fundy National Park. - Matthews Head and the Coastal Trails. - [anotherwalkinthepark.wordpress.com](http://anotherwalkinthepark.wordpress.com/2014/11/18/fundy-national-park-part-two-matthews-head-and-the-coastal-trails)
+
+{% include tidbits.html %}

@@ -24,11 +24,7 @@ Last weekend we have participated in the Finnish Packrafting Gathering. Konstant
 <br><br>
 [Therm-A-Rest-Neoair-Xlite](http://outdoorseite.de/therm-a-rest-neoair-xlite-isomatte/)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 ## Tips & Tricks
 [Backpackers training plan for 100 mile ultra marathon](http://andrewskurka.com/2015/backpackers-training-plan-for-100-mile-ultra-marathon/)
@@ -48,3 +44,5 @@ Last weekend we have participated in the Finnish Packrafting Gathering. Konstant
 [Thru Hiking PCT gear list](http://bikehikesafari.com/2015/09/20/thru-hiking-pct-gear-review/)
 <br><br>
 [Tips for hiking with your dog](http://www.modernhiker.com/2015/09/21/tips-for-hiking-with-your-dog/)
+
+{% include tidbits.html %}

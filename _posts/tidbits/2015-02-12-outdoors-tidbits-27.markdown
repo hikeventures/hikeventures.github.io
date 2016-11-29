@@ -17,11 +17,7 @@ Lessons from a Winter Weekend Section Hike. -  [blissfulhiking.blogspot.com]( ht
 <br><br>
 Hiking the Devils Garden. -  [modernhiker.com]( http://www.modernhiker.com/2015/02/10/hike-the-devils-garden-arches-national-park/)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 
 Yosemite National Park – Mist Trail. -  [myoutdoorsite.wordpress.com]( https://myoutdoorsite.wordpress.com/2015/02/10/usa-yosemite-national-park-mist-trail/)
@@ -87,3 +83,5 @@ Group Camping in Alberta. -  [rockiesfamilyadventures.com]( http://www.rockiesfa
 John Muir Part III. -   [cariedaway.blogspot.com]( http://cariedaway.blogspot.com/2015/02/john-muir-part-iii-social-animal.html)
 <br><br>
 Hiking the Pacific Crest Trail. -  [bikehikesafari.com]( http://bikehikesafari.com/2015/02/08/hiking-the-pacific-crest-trail)
+
+{% include tidbits.html %}

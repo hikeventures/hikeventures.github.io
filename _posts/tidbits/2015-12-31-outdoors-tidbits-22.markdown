@@ -22,11 +22,7 @@ Bukhansan Winter Magic. - [groovybowsequence.com](http://groovybowsequence.com/2
 <br><br>
 Gear Review: NUUN Active Hydration Tablets. - [trailtopeak.com](http://trailtopeak.com/2014/12/26/gear-review-nuun-active-hydration-tablets-1010)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 Therm-a-Rest Z Lite Sol Sleeping Pad. - [trailtopeak.com](http://trailtopeak.com/2014/12/26/therm-a-rest-z-lite-sol-sleeping-pad-910)
 <br><br>
@@ -87,3 +83,5 @@ Gear of the year 2015. - [testedtodestruction.com](http://testedtodestruction.bl
 Fuel Efficiency – Jetboils vs. Regular Stoves. - [adventuresinstoving.blogspot.com](http://adventuresinstoving.blogspot.com/2014/12/fuel-efficiency-jetboils-vs-regular.html)
 <br><br>
 Maricopa Trail. - [arizonahiking.blogspot.com](http://arizonahiking.blogspot.com/2014/12/maricopa-trail.html)
+
+{% include tidbits.html %}

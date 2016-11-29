@@ -16,11 +16,7 @@ Delkin 'Black' rugged SD cards has been released. - [dpreview.com](http://www.dp
 <br><br>
 There is a good Landscape Camera Comparison online. - [donsmithblog.com](http://www.donsmithblog.com/2014/10/17/my-landscape-camera-comparison-canon-5dmkiii-fuji-x-t1-and-sony-a7r-and-the-winner-is/)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 
 Read the latest Loxia tests for Sony A7r. - [sonyalpharumors.com](http://www.sonyalpharumors.com/new-loxia-tests-digglloyd-verybiglobo-dslrmagazine-kasayapa/)
@@ -103,3 +99,5 @@ Outdoor Research Heated Gloves. - [gearjunkie.com](http://gearjunkie.com/outdoo
 <br><br>
 
 <iframe src="//player.vimeo.com/video/109053833" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/109053833">Alone on Voxnan. - Return to Civilization (Part 3)</a> from <a href="http://vimeo.com/urbanpackrafter">Urban Packrafter</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+{% include tidbits.html %}

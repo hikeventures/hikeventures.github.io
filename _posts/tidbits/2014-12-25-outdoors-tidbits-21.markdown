@@ -18,11 +18,7 @@ Gear review platypus big zip lp reservoir 3 liter 1010. - [trailtopeak.com](http
 Gear review sierra designs zissou 23 sleeping bag-7 510. - [trailtopeak.com](http://trailtopeak.com/2014/12/24/gear-review-sierra-designs-zissou-23-sleeping-bag-7-510)
 
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 5 most exciting lightweight hiking shoes for 2015. - [trailtopeak.com](http://trailtopeak.com/2014/12/23/5-most-exciting-lightweight-hiking-shoes-for-2015)
 <br><br>
@@ -50,3 +46,5 @@ Snow Hiking In Los Angeles: The Mt. Waterman Trail. - [hikingangelesforest.com](
 Hiking to the Bridge to Nowhere. - [socalhiker.net](http://socalhiker.net/hike-the-bridge-to-nowhere/)
 <br><br>
 Hiking Crystal Lake to Mount Hawkins and South Mount Hawkins. - [calitrails.com](http://calitrails.com/2014/12/17/hiking-crystal-lake-to-mount-hawkins-and-south-mount-hawkins)
+
+{% include tidbits.html %}

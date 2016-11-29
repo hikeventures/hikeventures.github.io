@@ -17,11 +17,7 @@ How to Use the Filters in Lightroom. - <a href="http://digital-photography-schoo
 Photoshop Elements 13 released. - <a href="http://www.sonyalpharumors.com/new-photoshop-element-13-released" target="_blank">sonyalpharumors.com</a>
 Nature and Wildlife Photography Tips for Beginners. - <a href="http://digital-photography-school.com/nature-and-wildlife-photography-tips-for-beginners" target="_blank">digital-photography-school.com
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 
 ## <i class="fa fa-compass"></i> Hiking
@@ -59,3 +55,5 @@ The 35-Piece Ultimate Survival Kit. - <a href="http://www.outsideonline.com/outd
 </a>
 <iframe src="//player.vimeo.com/video/106441988" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 Photo Essay: <a href="http://www.canoekayak.com/photos/wildest-corner" target="_blank">Packrafting Wyoming’s Absaroka Range
+
+{% include tidbits.html %}

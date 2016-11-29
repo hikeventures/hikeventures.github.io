@@ -20,11 +20,7 @@ Hiking the Engelmann Oak Loop [Engelmann Oak Loop](http://www.modernhiker.com/20
 <br><br>
 Hayduke Trail [Updated Gear](http://www.walkingwithwired.com/2015/03/11-days-til-start-dateupdated-gear-for.html) for the Hayduke Trail.
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 
 Theodore Roosevelt National Park - Sunset at the Oxbow [Sunset at the Oxbow](http://astheyare.net/2015/03/12/theodore-roosevelt-national-park-north-unit-sunset-at-the-oxbow).
@@ -70,3 +66,4 @@ Hiking the Trabuco Canyon / Horsethief Loop [Horsethief Loop](http://www.modernh
 The Appalachian Trail [Trail](http://fraeulein-draussen.de/appalachian-trail-interview-feel4nature/).
 <br><br>
 Gossamer Gear Gorilla [Review](http://www.barefootjake.com/2015/03/gorilla-backpack-review.html).
+{% include tidbits.html %}

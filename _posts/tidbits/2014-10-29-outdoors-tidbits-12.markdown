@@ -19,11 +19,7 @@ Montbell Tachyon Anorak reviewed on Trail Lives. - [thetraillives.com](http://th
 
 Need a fast SD Card? Sony has announced the XQD Memory Card G Series with Read speed up to 400 MB/s / Write speed up to 350 MB/s. - [sonyalpharumors.com](http://www.sonyalpharumors.com)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 
 Reviews of the Outdoor Research Filament Pullover. - [sunrisegear.blogspot.com](http://sunrisegear.blogspot.com/2014/10/outdoor-research-filament-pullover.html)
@@ -45,3 +41,5 @@ Brian and Ashley hiked in the Occoneechee Mountain State Recreation Area. - [abh
 A report about a day at the  Tegernseer Hütte. - [marmotpost.wordpress.com](http://marmotpost.wordpress.com/2014/10/26/the-last-day-of-summer-at-the-tegernseer-hutte)
 
 Exploring the Black Creek Trail. - [cascadiahiking.com](http://www.cascadiahiking.com/2014/10/waldo-lake-wilderness-black-creek-trail.html)
+
+{% include tidbits.html %}

@@ -17,11 +17,7 @@ Outdoor Adventure Resolutions for 2015 - [rockiesfamilyadventures.com](http://ww
 <br><br>
 Robbins Butte Wildlife Area - [arizonahiking.com](http://arizonahiking.blogspot.com/2015/01/robbins-butte-wildlife-area.html)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 
 Winter adventures in the White Mountains - [jilloutside.com](http://www.jilloutside.com/2015/01/slow-snow-and-35-below.html)
@@ -61,3 +57,5 @@ Birding along the San Francisco Bay Trail at Redwood Shores - [trailhiker.wordpr
 Hiking in the Cape Breton Highlands National Park - [anotherwalkinthepark.wordpress.com](https://anotherwalkinthepark.wordpress.com/2015/01/02/cape-breton-highlands-national-park-part-1-the-western-coast/)
 <br><br>
 Hiking in the Zion National Park - [evergreenhiker.wordpress.com](https://evergreenhiker.wordpress.com/2015/01/01/walking-on-the-roof-of-zion-angels-landing-hike/)
+
+{% include tidbits.html %}

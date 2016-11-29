@@ -21,11 +21,7 @@ Here comes our latest outdoors tidbits with the latest outdoors tips and tricks 
 <a href="http://www.sierratradingpost.com/item~p~9704c/?avad=150351_a9a6ae62&utm_source=www.hikeventures.com&utm_medium=Affiliate_AvantLink&utm_campaign=AV0&codes-processed=true&showlocalization=True">Petzl Tikka 2 Headlamp</a>
 
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 ## Tips and Tricks
 <a href="https://shoestringadventures.com/2015/10/backpacking-gear-checklist.html">Backpacking gear checklist</a>
@@ -80,3 +76,5 @@ Here comes our latest outdoors tidbits with the latest outdoors tips and tricks 
 <a href="http://thebigoutside.com/gear-review-exped-mira-ii-hyperlite-tent/">Exped Mira II hyperlite tent</a>
 
 <a href="http://www.gogumption.com/gear-reviews-2/backcountry-innovation-the-sierra-designs-lightning-2-tent/">Sierra Desings Lightning 2 Tent</a>
+
+{% include tidbits.html %}

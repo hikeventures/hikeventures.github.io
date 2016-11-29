@@ -16,11 +16,7 @@ Hiking to the Pass Mountain Trail. - [sixsaturdaysandasunday.wordpress.com](http
 
 Adventures in Guatemala. - [Hunting for manatees, howler monkeys and hot waterfalls. - [anotefromabroad.com](http://anotefromabroad.com/2014/12/12/guatemala-hunting-for-manatees-howler-monkeys-and-hot-waterfalls)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 
 10 Tips for Adventure Travel. - [blog.theclymb.com](http://blog.theclymb.com/passions/places-and-adventure-travel/10-tips-adventure-travel/)
@@ -68,3 +64,5 @@ Hiking across Norway. - [mikkelsoya.com](http://mikkelsoya.com/2014/12/07/hiking
 Biking in Maine. - [tjamrog.wordpress.com](http://tjamrog.wordpress.com/2014/12/06/you-gotta-like-slush-and-mud-to-be-biking-in-maine-right-now)
 
 Gear that worked: Werner Shuna Paddles. - [bedrockandparadox.com](http://bedrockandparadox.com/2014/12/08/shit-that-works-week-werner-shuna)
+
+{% include tidbits.html %}

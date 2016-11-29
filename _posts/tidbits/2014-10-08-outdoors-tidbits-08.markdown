@@ -14,11 +14,7 @@ Last weekend Patrick has been to the [first Finnish Packrafting Gathering](http:
 <br><br>
 How to do black and white Conversions with Photoshop. - [digital-photography-school.com](http://digital-photography-school.com/how-to-do-great-black-and-white-conversions-using-photoshop/)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 
 How to Photograph Lightning. - [digital-photography-school.com](http://digital-photography-school.com/how-to-photograph-lightning-the-ultimate-guide/)
@@ -74,3 +70,5 @@ Arc’teryx Morphic Zip Neck Long Sleeve Top. - [climbinggearreviewsuk.wordpress
 Packraft crow pass. - [chugachress.blogspot.com](http://chugachress.blogspot.com/2014/10/packraft-crow-pass.html)
 <br><br>
 Paddling Abiquiu Lake. - [tedsummer2014.blogspot.com](http://tedsummer2014.blogspot.com/2014/10/paddling-abiquiu-lake.html)
+
+{% include tidbits.html %}

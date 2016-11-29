@@ -19,11 +19,7 @@ Inflatable people - a video about the Packrafting Gathering in Sweden 2016 edite
 
 Nikita posted a [video](https://vimeo.com/191628996) about the Sufferfest 2016 - Bikerafting around Vyborg 4-6.11.2016
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 There is a [Packrafing course](https://www.facebook.com/events/223192528109145/?acontext=%7B%22source%22%3A4%2C%22action_history%22%3A%22%5B%7B%5C%22surface%5C%22%3A%5C%22group%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22surface%5C%22%2C%5C%22extra_data%5C%22%3A%5B%5D%7D%5D%22%2C%22has_source%22%3Atrue%7D&source=4&action_history=%5B%7B%22surface%22%3A%22group%22%2C%22mechanism%22%3A%22surface%22%2C%22extra_data%22%3A%5B%5D%7D%5D&has_source=1) in the Pyrenees from 9.4.-14.4.2017.
 

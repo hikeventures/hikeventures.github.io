@@ -21,11 +21,7 @@ Lightroom and Colour Space. - [digital-photography-school.com](http://digital-ph
 <br><br>
 Launch of the Zeiss Loxia full frame lenses for Sony E-mount. - [dpreview.com](http://www.dpreview.com/articles/2384804202/zeiss-launches-loxia-full-frame-lenses-for-sony-e-mount)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 Get most out of your pocket camera. - [digital-photography-school.com](http://digital-photography-school.com/how-to-get-the-most-out-of-your-pocket-camera/)
 <br><br>
@@ -45,3 +41,5 @@ Outdoor Research Helium HD Jacket. - [trailswag.ca](http://trailswag.ca/blog/201
 <br><br>Arc’teryx Alpha FL Jacket. - [climbinggearreviewsuk.wordpress.com](http://climbinggearreviewsuk.wordpress.com/2014/09/01/arcteryx-alpha-fl-jacket-climbing-gear-review)
 <br><br>New action cam: Casio Exilim EX-FR10. - [dpreview.com](http://www.dpreview.com/articles/7510886565/casio-develops-exilim-ex-fr10-two-part-actioncam-with-wireless-monitor)
 <br><br>Olympus PEN E-PL7. - [dpreview.com](http://www.dpreview.com/articles/9672899175/self-portrait-olympus-pen-e-pl7-first-impressions-review)
+
+{% include tidbits.html %}

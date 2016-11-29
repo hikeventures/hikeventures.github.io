@@ -20,11 +20,7 @@ Essential night landscape photography tips. - <a href="http://www.diyphotography
 Pics.io. - A browser-based Raw editor built on Google Drive. - <a href="http://www.dpreview.com/articles/0629711796/pics-io-a-browser-based-raw-editor-built-on-google-drive-goes-live-with-public-beta" target="_blank">dpreview.com
 </a>
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 East Coast Pots. - <a href="http://www.moorlandlife.com/blog/2014/7/15/east-coast-pots" target="_blank">moorlandlife.com</a><br><br>
 Pre-Trail Maintenance for Your GPS Receiver. - <a href="http://seattlebackpackersmagazine.com/maintenance-gps-receiver/" target="_blank">seattlebackpackersmagazine.com</a><br><br>
@@ -38,3 +34,5 @@ Dorcy headlamp review. - <a href="http://blissfulhiking.blogspot.fi/2014/08/gear
 Hanwag Approach 2 review. - <a href="http://scottishmountaineer.com/hanwag-approach-ii-review" target="_blank">scottishmountaineer.com </a><br><br>
 First Look: 2015 Outdoor Gear. - <a href="http://gearjunkie.com/2015-outdoor-gear" target="_blank">gearjunkie.com</a><br><br>
 Sierra Designs Tensegrity Tent. - <a href="http://www.thegearcaster.com/2014/08/sierra-designs-tensegrity-tent.html" target="_blank">thegearcaster.com</a>
+
+{% include tidbits.html %}

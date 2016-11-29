@@ -17,11 +17,7 @@ New Canon Photo-Storage Device. - [canonrumors.com](http://www.canonrumors.com/2
 <br><br>
 Nikon D750 DSLR announced. - [nikonrumors.com](http://nikonrumors.com/2014/09/12/nikon-d750-full-frame-dslr-camera-announced.aspx/)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 
 Sandisk announced 512GB SD card. - [43rumors.com](http://www.43rumors.com/wanna-see-something-incredible-new-512gb-fast-card-from-sandisk-announced/)
@@ -52,3 +48,5 @@ Garmin Fenix 2 review. - [gizmodo.com](http://gizmodo.com/garmin-fenix-2-watch-r
 LifeStraw Personal Water Filt. - [adventurousmoms.com](http://adventurousmoms.com/2014/09/gear-review-lifestraw-personal-water-filter/)
 <br><br>
 Black Diamond Storm review. - [hikersblog.co.uk](http://www.hikersblog.co.uk/black-diamond-storm-gear-review/)
+
+{% include tidbits.html %}

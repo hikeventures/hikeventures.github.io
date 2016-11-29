@@ -42,11 +42,7 @@ This night we got plenty of snow here in the Turku Archipelago area which change
 [Patagonia Reconnaissance Pants][14]
 
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 
 ## Tips & Tricks
@@ -87,3 +83,6 @@ The Nikon D500 (DX) and D5 (FX) have been [released][21].
 [19]:	http://www.fujifilm.com/products/digital_cameras/x/fujifilm_x_pro2/ "Fujifilm X-Pro 2"
 [20]:	http://www.sonyalpharumors.com/sr4-a-confirmation-on-the-a6100-delivery-in-stock-end-of-march/ "Thursday 14 January 2016 at 16:39 (SR4) A “confirmation” on the A6100 delivery (in Stock end of March) SonyAlpha Admin sonyalpharumors"
 [21]:	http://www.nikonusa.com/en/nikon-products/product/dslr-cameras/d500.html "Nikon D500"
+
+
+{% include tidbits.html %}

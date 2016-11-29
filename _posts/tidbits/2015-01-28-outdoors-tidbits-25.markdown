@@ -19,11 +19,7 @@ Oracle State Park Trails. - [arizonahiking.blogspot.com](http://arizonahiking.bl
 <br><br>
 Hiking in Joshua Tree National Park - Ryan Mountain. - [danshikingblog.blogspot.com](http://danshikingblog.blogspot.com/2015/01/joshua-tree-ryan-mountain-january-3-2014.html)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 
 New Year in Northumberland. - [backpackingbongos.wordpress.com](https://backpackingbongos.wordpress.com/2015/01/19/new-year-in-northumberland/)
@@ -107,3 +103,5 @@ Alpine Lakes of Canadian Rockies - Lake Agnes Hike. - [evergreenhiker.wordpress.
 Bryce Canyon National Park. - [myoutdoorsite.wordpress.com](https://myoutdoorsite.wordpress.com/2015/01/25/bryce-canyon-national-park/)
 <br><br>
 Big Agnes Insulated Double Z Review. - [treelinebackpacker.com](http://treelinebackpacker.com/2014/07/06/big-agnes-double-z-sleeping-pad-review/)
+
+{% include tidbits.html %}

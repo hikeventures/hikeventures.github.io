@@ -24,11 +24,7 @@ The next days you are going to read about a trip to the Aland Islands and about 
 
 [Backcountry Navigation: Compass Basics](http://wildernessdave.com/backcountry-navigation-compass-basics/)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 ## Gear Reviews
 [Marmot Crux Jacket Ultralight Rain Shell](http://thebigoutside.com/review-marmot-crux-jacket-ultralight-rain-shell/)
@@ -70,3 +66,6 @@ The next days you are going to read about a trip to the Aland Islands and about 
 [Merrell Crestbound Gore-Tex Boot](http://www.hikersblog.co.uk/merrell-crestbound-gore-tex-boot-review/)
 
 [Coleman Pictor X2 Tent](http://www.hikersblog.co.uk/coleman-pictor-x2-tent-gear-review/)
+
+
+{% include tidbits.html %}

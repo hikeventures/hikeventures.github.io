@@ -34,11 +34,7 @@ This week has been quite busy for us, planning and arranging things for our upco
 
 [MSR Reactor Stove](https://climbinggearreviewsuk.wordpress.com/2015/06/05/msr-reactor-stove/)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 ## Tips and Tricks
 [Air Travel Tips for Hikers and Backpackers](http://toddthehiker.com/2015/06/12/air-travel-tips-for-hikers-and-backpackers)
@@ -53,3 +49,5 @@ This week has been quite busy for us, planning and arranging things for our upco
 [Urwaldsteig Edersee Alexander Wolf](http://outdoorfever.de/urwaldsteig-edersee/)
 
 [Producing An Expedition Documentary](http://www.mikaelstrandberg.com/2015/06/11/producing-an-expedition-documentary-by-patrick-hutton/)
+
+{% include tidbits.html %}

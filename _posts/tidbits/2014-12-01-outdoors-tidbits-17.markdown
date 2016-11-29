@@ -17,11 +17,7 @@ Day 5 on the Teton Crest Trail. - [wanderingthewild.com](http://wanderingthewild
 Sea Lions, Whales & Bears in the Gulf of Alaska. - [doeshestillshitinhispants.blogspot.com](http://doeshestillshitinhispants.blogspot.com/2014/11/september-3-2014-deep-sea-fishing-sea.html)
 
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 How to survive extreme weather outdoors. - [boston.cbslocal.com](http://boston.cbslocal.com/2014/11/29/eye-on-weather-surviving-extreme-weather-outdoors/)
 <br><br>
@@ -77,3 +73,5 @@ Western Mass. - [jstarinorbit.com](http://www.jstarinorbit.com/2014/11/western-m
 The Tour du Mont Blanc Courmayeur – Elena, Italy. - [spiritofnaturephoto.blogspot.com](http://spiritofnaturephoto.blogspot.com/2014/11/tour-du-mont-blanc-3-courmayeur-elena.html)
 <br><br>
 Summer's long wave good bye. - [sarahleannehart.blogspot.com](http://sarahleannehart.blogspot.com/2014/11/summers-long-wave-good-bye.html)
+
+{% include tidbits.html %}

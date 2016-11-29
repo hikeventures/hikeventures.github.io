@@ -22,11 +22,7 @@ Only 5 days left and we will happily packrafting in Sweden. What's new on HikeVe
 
 [Training, shakedowns and the PCT](http://bikehikesafari.com/2015/04/10/training-shakedowns-and-the-pct)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 [Europes 10 best National Parks](http://www.theguardian.com/travel/2015/mar/30/10-europe-best-national-parks-italy-france-spain)
 [Most liked Instagram Pictures by Finland Tourism](https://www.facebook.com/media/set/?set=a.882630968441946.1073741840.110813028957081&type=1)
@@ -75,3 +71,5 @@ Only 5 days left and we will happily packrafting in Sweden. What's new on HikeVe
 [Review: Railriders Hydro-Zip-T](http://www.barefootjake.com/2015/03/hydro-zip-t-review.html)
 
 [Review: Scarpa Mont Blanc](http://newenglandoutside.com/2015/03/29/scarpa-mont-blanc-review)
+
+{% include tidbits.html %}

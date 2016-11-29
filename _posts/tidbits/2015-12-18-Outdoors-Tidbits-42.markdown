@@ -53,12 +53,7 @@ Survival shelters [handbook](http://blog.trailcooking.com/2015/12/17/book-review
 <br><br>
 [Dilling Merino Base Layer](https://www.hiking-blog.de/bekleidung/praxistest-dilling-funktionsunterwaesche-aus-merinowolle/) (in German)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
-
+{% include banner_ad.html %}
 
 ## Tips & Tricks
 
@@ -81,3 +76,5 @@ Survival shelters [handbook](http://blog.trailcooking.com/2015/12/17/book-review
 [Win a HMG Ice Pack](http://blog.hyperlitemountaingear.com/win-an-ice-pack/)
 <br><br>
 [The outdoor guide to Rovaniemi in Finnish Lapland](http://www.backpackingnorth.com/blog/outdoor-guide-to-rovaniemi)
+
+{% include tidbits.html %}

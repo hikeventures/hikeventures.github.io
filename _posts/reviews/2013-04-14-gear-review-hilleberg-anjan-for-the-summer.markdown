@@ -16,7 +16,7 @@ Further, I would not get the GT version If I were to buy the Anjan or the Nallo.
 <a href="https://www.flickr.com/photos/90204224@N07/8648026950" title="Hilleberg Anjan review"><img src="https://farm9.staticflickr.com/8541/8648026950_c0f7a5fdac_b.jpg" width="600" alt="Hilleberg Anjan label entrance"></a><br>
 <!--more-->
 
----
+{% include banner_ad.html %}
 
 ## Features
 The Hilleberg Anjan 2 comes with 1700 grams, a big window for ventilation, reflectors, 2 mosquito windows and 12 Tri-Pegs. I found the quality and craftmanship of the Anjan 2 quite excellent. The outer tent can also be used as a standalone tent. The inner height is 100 cm and the inner tent area 2.8 m2.

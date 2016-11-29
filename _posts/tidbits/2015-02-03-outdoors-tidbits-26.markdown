@@ -17,11 +17,7 @@ Breakfast Hiking Tips. - [hikebyfaith.com](http://hikebyfaith.com/2015/02/03/hik
 <br><br>
 Mombacho Volcano Nature Reserve Near Granada Nicaragua. - [adventuresofacouchsurfer.com](http://adventuresofacouchsurfer.com/2015/02/03/mombacho-volcano-nature-reserve-near-granada-nicaragua)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 
 WAIS Divide. - [annehellie.blogspot.com](http://annehellie.blogspot.com/2015/01/wais-divide.html)
@@ -105,3 +101,5 @@ Trail Report - Cassidy Arch at Capitol Reef National Park. - [hikenoworklater.co
 Backpacking Stoves For Cold Weather. - [woodtrekker.blogspot.com](http://woodtrekker.blogspot.com/2015/01/backpacking-stoves-for-cold-weather.html)
 <br><br>
 Product Review: SOM Footwear. - [modernhiker.com](http://www.modernhiker.com/2015/02/03/product-review-som-footwear/)
+
+{% include tidbits.html %}

@@ -16,11 +16,7 @@ There is a [crowd-funding campaign](http://faluvildvattenpark.se/) for the Falun
 
 Packrafting Store is selling the [Anfibio SplitSuit](http://www.packrafting-store.de/Clothing/Anfibio-SplitSuit::705.html) which can be seperated in upper and lower part.
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 [Caj](https://www.facebook.com/caj.koskinen) has [published](http://caide.kuvat.fi/blog/49/Our+packrafting+route+in+V%C3%A4ts%C3%A4ri/) his packrafting route in Vätsäri and [adventure holiday](http://caide.kuvat.fi/blog/50/Adventure+Holiday+in+Kotka/) in Kotka.
 
@@ -28,6 +24,4 @@ Long-term [review](https://sticksblog.com/2016/10/05/long-term-review-zebralight
 
 MacPhun Aurora HDR 2017 [review](http://www.techradar.com/reviews/pc-mac/software/graphics-and-media-software/image-editing-software/macphun-aurora-hdr-2017-1329760/review).
 
----
-
-Want to see your blog post here as well? Submit a link to your article [here](https://www.facebook.com/HikeVentures/) and we may select it.
+{% include tidbits.html %}

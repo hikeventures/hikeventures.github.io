@@ -28,11 +28,7 @@ Konstantin has been to Belgium packrafting. You can find some pictures on <a hre
 [Thermarest Antares HD Three Season Sleeping Bag Review](http://treelinebackpacker.com/2015/05/05/thermarest-antares-hd-three-season-sleeping-bag-review)
 
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 [Product Review: The Limited Edition Expedition LTD Inflatable Kayak from Advanced Elements](https://airkayaks.wordpress.com/2015/05/04/product-review-the-limited-edition-expedition-ltd-inflatable-kayak-from-advanced-elements/)
 
@@ -88,3 +84,5 @@ Konstantin has been to Belgium packrafting. You can find some pictures on <a hre
 [Johnston Canyon, Banff National Park](http://wanderingthewild.com/2015/05/06/johnston-canyon-banff-national-park)
 
 [Backpacking the Square Timber Wild Area, Elk State Forest](https://endlessmountains.wordpress.com/2015/05/07/backpacking-the-square-timber-wild-area-elk-state-forest/)
+
+{% include tidbits.html %}

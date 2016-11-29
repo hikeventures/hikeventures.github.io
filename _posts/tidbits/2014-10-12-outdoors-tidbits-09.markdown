@@ -14,11 +14,7 @@ How to delete bad photographs. - [roeschphotography.blogspot.com](http://roeschp
 <br><br>
 Most likely a 50 Megapixel Full Frame sensor generation coming first quarter of 2015!. - [mirrorlessrumors.com](http://www.mirrorlessrumors.com/50-megapixel-full-frame-sensor-generation-coming-first-quarter-of-2015)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 
 How to Improve Your Photography with Storytelling Images. - [digital-photography-school.com](http://digital-photography-school.com/how-to-improve-your-photography-with-storytelling-images/)
@@ -82,3 +78,5 @@ Some people do Moon Paddling. - [apaddleinmypack.wordpress.com](http://apaddlein
 While others do Kayaking  in Linnansaari National Park. - [outdoorsfinland.wordpress.com](http://outdoorsfinland.wordpress.com/2014/10/09/autumn-kayaking-linnansaari-national-park)
 <br><br>
 Others paddle the Suwannee Wilderness Trail. - [canoekayak.com](http://www.canoekayak.com/travel/destination-floridas-suwannee-river/)
+
+{% include tidbits.html %}

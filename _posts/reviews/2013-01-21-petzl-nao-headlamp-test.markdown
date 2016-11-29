@@ -3,7 +3,7 @@ title: Petzl Nao Review
 description: Our review about the Petzl Nao headlamp
 date: 2013-01-21 07:30:00
 category: reviews
-tags: 
+tags:
   - reviews
   - petzl
   - headlamps
@@ -12,7 +12,7 @@ layout: post
 The Petzl Nao is a new headlamp which is able to adapt its light according to the environment which makes it a great headlamp if you need to see far but at the same be able to read e.g. a map at night. You can also set the levels of the lamp manually and adjust the levels via the Petzl software on your PC according to your needs.
 <!--more-->
 
----
+{% include banner_ad.html %}
 
 ## Features
 The Petzl Nao weights 187 grams, is rechargable via USB and brightness is adjustable. The Petzl Nao is water resistant (IP X4), comfortable to wear, programmable via the Petzl Nao Software and battery can last up to 8 hours.
@@ -41,7 +41,7 @@ The cable to the battery socket can also be extended with the <a href="http://am
 
 <img src="http://farm6.staticflickr.com/5496/11133040624_82874aca51_c.jpg" width="1150" alt="Petzl Nao rechargable battery"><br>
 You can charge the Nao directly on your computer and anything else which has an USB socket like the <a href="http://hikeventures.com/how-to-charge-your-batteries-when-you-are-outdoors/" target="_self">Anker Astro 3 battery.</a>
-   
+
 <img src="http://farm9.staticflickr.com/8230/8402476695_e20a34831b_c.jpg" width="1150"  alt="Petzl Nao">
 
 ---

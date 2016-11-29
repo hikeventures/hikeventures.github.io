@@ -27,11 +27,7 @@ We have also have a new RSS feed. Update or subscribe our RSS [here](http://feed
 
 [Osrey Shuttle 100](http://www.fionaoutdoors.co.uk/2016/01/kit-review-osprey-shuttle-100.html)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 
 ## Tips & Tricks
@@ -43,3 +39,6 @@ We have also have a new RSS feed. Update or subscribe our RSS [here](http://feed
 First look on the [Fujifilm X70](http://www.fujirumors.com/first-look-fujifilm-x70/ "Today at 03:18 First Look: Fujifilm X70 Rico Pfirstinger Fuji Rumors")
 
 Rumours about the new Sony [A6100, HX80 and HX350](http://www.sonyalpharumors.com/sr5-sony-to-announce-two-compact-cameras-along-the-a6100-hx80-and-hx350/ "Yesterday at 18:22 (SR5) Sony to announce two compact cameras along the A6100: HX80 and HX350 SonyAlpha Admin sonyalpharumors")
+
+
+{% include tidbits.html %}

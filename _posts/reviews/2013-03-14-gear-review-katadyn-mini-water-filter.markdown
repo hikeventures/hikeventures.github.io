@@ -3,7 +3,7 @@ title: Katadyn Mini Water Filter Review
 description: Katadyn Mini Water Filter - Your next water filter
 date: 2013-03-14 07:30:00
 category: reviews
-tags: 
+tags:
   - reviews
   - kitchen
   - katadyn
@@ -20,6 +20,9 @@ The Kathadyn Mini weights only 210 grams, packs small and has a ceramic filter w
 <a href="https://www.flickr.com/photos/90204224@N07/8556627951" title="Katadyn Mini"><img src="https://farm9.staticflickr.com/8380/8556627951_ced29e8467_b.jpg" width="1024" height="683" alt="Katadyn Mini Water Filter hiking backpacking unboxing parts"></a>
 
 You can easy store the filter and all the other equipment in the bag. With the pad you can clean the filter in case it gets clogged. There is also some silicon included in order to oil the o-ring of the pump. The ceramic filter helps to give the water a neutral taste.
+
+
+{% include banner_ad.html %}
 
 ## Recommendation
 I have tested the Katadyn Mini Water Filter on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden. However, the water there is already quite clear so I do not have any experience in how the filter performs in more challenging environments. I only found plenty of green particles on the filter after the trip so I guess that the filter did it's job. Pumping water can take quite a while but on the other hand I was not in a hurry and happy with the product.

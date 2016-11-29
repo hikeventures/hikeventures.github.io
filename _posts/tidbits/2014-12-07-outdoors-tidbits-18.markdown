@@ -16,11 +16,7 @@ Ecosox Bamboo Socks Review. - [abhiking.blogspot.com](http://abhiking.blogspot.c
 <br><br>
 Sierra Designs DriDown Hoody Review. - [seattlebackpackersmagazine.com](http://seattlebackpackersmagazine.com/sierra-designs-dridown-hoody-review/)
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 Review about the Wild Movie. - [wanderingthewild.com](http://wanderingthewild.com/2014/12/04/wild-movie-review)
 <br><br>
@@ -51,3 +47,5 @@ Bikerafting the Shenandoah. - [chicagobackpacker.com](http://chicagobackpacker.c
 Helsinki Adventure Night. - [korpijaakko.com](http://korpijaakko.com/2014/12/02/helsinki-adventure-night-adventure-night/)
 <br><br>
 Hiking to the Raven Rock Falls. - [waterfallshiker.com](http://waterfallshiker.com/2014/12/07/raven-rock-falls-jewel-of-the-upper-toxaway)
+
+{% include tidbits.html %}
