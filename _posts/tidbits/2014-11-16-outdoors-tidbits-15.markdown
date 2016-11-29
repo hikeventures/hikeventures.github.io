@@ -7,7 +7,7 @@ tags:
   - tidbits
 layout: post
 ---
-We have some plans for December. Want to know what? Have a look on HikeVentures in the coming days :) <br><br>
+We have some plans for December. Want to know what? Have a look on HikeVentures in the coming days. {% include intro_tidbits.html %} <br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/15503267129"><img src="https://farm8.staticflickr.com/7461/15503267129_5d02055b22_h.jpg" width="1600" height="1068"></a><!--more--><br><br>
 L.L.Bean Ultralight 850 Down Jacket review. - [treelinebackpacker.com](http://treelinebackpacker.com/2014/11/16/l-l-bean-ultralight-850-down-jacket)
 l.l.bean Traverse Soft-Shell Pants reviewe. - [treelinebackpacker.com](http://treelinebackpacker.com/2014/11/16/l-l-bean-traverse-soft-shell-pants)
