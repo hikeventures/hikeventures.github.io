@@ -7,7 +7,7 @@ tags:
   - tidbits
 layout: post
 ---
-This week Konstantin went a couple of days hiking in the Polish Mountains while Patrick was investigating some possibilities for our Lapland trip which we have planned for end of January.  We have also updated our microphone to a <a href="http://amzn.to/1vFgyL8" target="_blank">Zoom H5</a> which we are going to use when shooting videos in 2015. <br><br>
+This week Konstantin went a couple of days hiking in the Polish Mountains while Patrick was investigating some possibilities for our Lapland trip which we have planned for end of January.  We have also updated our microphone to a <a href="http://amzn.to/1vFgyL8" target="_blank">Zoom H5</a> which we are going to use when shooting videos in 2015. {% include intro_tidbits.html %}<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/8351963809"><img src="https://farm9.staticflickr.com/8468/8351963809_ef1ef59998_b.jpg" width="100%"></a>
 <br><!--more--><br>
 Ben Wyvis and Tops. - [ness64.wordpress.com](http://ness64.wordpress.com/2014/12/26/ben-wyvis-tops)
