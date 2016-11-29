@@ -8,7 +8,7 @@ tags:
 layout: post
 ---
 
-Last week Patrick was testing his new Therm-a-Rest XTherm while Konstantin was still writing on his Fjällräven pants review which we will publish shortly. Konstantin also received his new Anfibio Windpaddle Sail and Anfibio Throwbag from the [Packrafting Store](http://www.packrafting-store.de). We are also working on a very short video from our [Lapland trip](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/) earlier this year.
+Last week Patrick was testing his new Therm-a-Rest XTherm while Konstantin was still writing on his Fjällräven pants review which we will publish shortly. Konstantin also received his new Anfibio Windpaddle Sail and Anfibio Throwbag from the [Packrafting Store](http://www.packrafting-store.de). We are also working on a very short video from our [Lapland trip](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/) earlier this year. {% include intro_tidbits.html %}
 
 <a href="https://www.flickr.com/photos/90204224@N07/16732145327"><img src="https://farm9.staticflickr.com/8743/16732145327_10b4d24ef7_b.jpg" width="768" height="1024"></a>
 
