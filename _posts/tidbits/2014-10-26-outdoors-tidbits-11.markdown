@@ -7,7 +7,7 @@ tags:
   - tidbits
 layout: post
 ---
-We will review soon the [Petzl Nao 2](http://bit.ly/1ztgxkb) headlamp which comes with powerful 500 Lumen. The new Alpacka whitewater packraft got a name - Alpackalypse. Also a new stove has been released - The [MSR WindBoiler](http://bit.ly/1wsbZ97). MSR states on it's website that the stove should operate more efficient in windy conditions than other stoves. Sounds interesting ...
+We will review soon the [Petzl Nao 2](http://bit.ly/1ztgxkb) headlamp which comes with powerful 500 Lumen. The new Alpacka whitewater packraft got a name - Alpackalypse. Also a new stove has been released - The [MSR WindBoiler](http://bit.ly/1wsbZ97). MSR states on it's website that the stove should operate more efficient in windy conditions than other stoves. {% include intro_tidbits.html %}
 <br><br><a href="https://www.flickr.com/photos/90204224@N07/15351663560"><img src="https://farm4.staticflickr.com/3954/15351663560_4e7f7cf632_o.jpg" width="640" height="640"></a><!--more-->
 
 Some Tips if you are into underwater photography. - [digital-photography-school.com](http://digital-photography-school.com/5-tips-for-underwater-photography-without-spending-a-fortune/)
