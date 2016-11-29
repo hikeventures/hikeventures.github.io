@@ -3,7 +3,7 @@ title: Outdoors Tidbits 13
 description: The latest outdoor gear reviews, tips & tricks - Nr. 13
 date: 2014-11-05 17:39:24
 category: tidbits
-tags: 
+tags:
   - tidbits
 layout: post
 ---
@@ -17,9 +17,16 @@ Amphibian 20L Waterproof Pack review. - [briangreen.net](http://briangreen.net/2
 
 A review about the ThermaCELL ProFLEX Heated Insoles. - [adventures-in-the-outdoors.blogspot.com](http://adventures-in-the-outdoors.blogspot.com/2014/11/review-thermacell-proflex-heated-insoles.html)
 
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 Big Agnes Battle Mountain Tent Preview (2015). - [treelinebackpacker.com](http://treelinebackpacker.com/2014/10/30/big-agnes-battle-mountain-tent-preview-2015)
 
-Sony 70-200mm f/4 G OSS lens review. - [donsmithblog.com](http://www.donsmithblog.com/2014/10/27/field-test-sony-70-200mm-f4-g-oss/) 
+Sony 70-200mm f/4 G OSS lens review. - [donsmithblog.com](http://www.donsmithblog.com/2014/10/27/field-test-sony-70-200mm-f4-g-oss/)
 
 An article on learning photography. - [blog.mjfimages.com](http://blog.mjfimages.com/2014/10/31/friday-foto-talk-learning-photography-part-ii)
 
@@ -47,7 +54,7 @@ Pictures about the Dynjandi. - [beautifuliceland.wordpress.com](http://beautiful
 
 Cycling to the Tioga Pass. - [bikehikesafari.com](http://bikehikesafari.com/2014/11/02/cycling-over-the-3031m-tioga-pass)
 
-A review about the Helly Hansen Odin Insulator Jacket. - [treelinebackpacker.com](http://treelinebackpacker.com/2014/11/04/helly-hansen-odin-insulator-jacket-review) 
+A review about the Helly Hansen Odin Insulator Jacket. - [treelinebackpacker.com](http://treelinebackpacker.com/2014/11/04/helly-hansen-odin-insulator-jacket-review)
 
 The Peregrine Flight 18+ daypacks. - [everythingfortheoutdoors.blogspot.com](http://everythingfortheoutdoors.blogspot.com/2014/10/new-summitday-pack-peregrine-flight-18.html)
 

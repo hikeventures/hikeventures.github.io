@@ -19,6 +19,13 @@ After our hiking and packrafting trip in Poland, Konstantin went off to his hone
 
 [Do you know where your down comes from?](http://treelinebackpacker.com/2015/07/11/do-you-know-where-your-down-comes-from-new-standards-in-down)
 
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
+
 ## Gear Reviews
 [Scarpa R-evolution GTX Boots](http://thebigoutside.com/gear-review-scarpa-r-evolution-gtx-boots/)
 

@@ -19,6 +19,13 @@ Montbell Tachyon Anorak reviewed on Trail Lives. - [thetraillives.com](http://th
 
 Need a fast SD Card? Sony has announced the XQD Memory Card G Series with Read speed up to 400 MB/s / Write speed up to 350 MB/s. - [sonyalpharumors.com](http://www.sonyalpharumors.com)
 
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
+
 Reviews of the Outdoor Research Filament Pullover. - [sunrisegear.blogspot.com](http://sunrisegear.blogspot.com/2014/10/outdoor-research-filament-pullover.html)
 
 Clay and Lindsay had their last day on the Appalachian Trail. - [bootstobirks.com](http://bootstobirks.com/2014/10/29/our-last-day-on-the-appalachian-trail)

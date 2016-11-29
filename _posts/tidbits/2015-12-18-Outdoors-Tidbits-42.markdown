@@ -8,7 +8,7 @@ tags:
 layout: post
 ---
 
-Christmas is getting closer and we are looking forward to finalize our gear reviews and trip reports during the holidays. We will publish articles about the MSR Windboiler and the Hubba Hubba NX, the Therm-a-rest Evolite, our hiking and packrafting trip in Japan, the Fjällräven Classic in Sweden and the continuation of <a href="http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/">Packrafting in the Swedish Mountains</a>. 
+Christmas is getting closer and we are looking forward to finalize our gear reviews and trip reports during the holidays. We will publish articles about the MSR Windboiler and the Hubba Hubba NX, the Therm-a-rest Evolite, our hiking and packrafting trip in Japan, the Fjällräven Classic in Sweden and the continuation of <a href="http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/">Packrafting in the Swedish Mountains</a>.
 <br><br>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/90204224@N07/16347221659/in/photolist-qUxMti-qUxMCM-rbV7gy-rbV7GU-rc1CbB-r9Hef3-qUzGQK-v6DD8n-qGQmse-q3hwoU-r9HdQA-r9HdZU-qUxN4g-rbV4BL-qffws2-qUzE8R-qUxNTH-rbRHKM-qHtRc2-qUxP2D-qWZDDU-qfcV5n-rc1DjZ-qUxKka-r9HayW-qUxPwM-qGRYcg-qUqAaj-qeZFSf-qUqAsU-qfcWc2-qUqwrC-rc1F5c-qeZGDf-qUqAQh-qUqBzd-qUzEbM-qfcXtF-q3uXXe-qSuGqw-rc1Fx6-rbVb1C-qUxL2v-r9KRpJ-qFsUGz-qUxRW6-qUrMdb-qeZAQ1-qUrFbG-qUrFf9" title="Lapland Finland"><img class="img-responsive" src="https://farm9.staticflickr.com/8673/16347221659_3952a1c6de_b.jpg" alt="Lapland Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><!--more-->
 
@@ -52,6 +52,13 @@ Survival shelters [handbook](http://blog.trailcooking.com/2015/12/17/book-review
 [Altra Olympus 2.0 Max Cushion Trail Shoe](http://trailtopeak.com/2015/12/13/gear-preview-altra-olympus-2-0-max-cushion-trail-shoe/)
 <br><br>
 [Dilling Merino Base Layer](https://www.hiking-blog.de/bekleidung/praxistest-dilling-funktionsunterwaesche-aus-merinowolle/) (in German)
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 
 ## Tips & Tricks
 

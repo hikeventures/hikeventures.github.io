@@ -31,6 +31,13 @@ The last week we were very busy with uploading our <a href="http://www.hikeventu
 
 <a href="http://feeds.feedblitz.com/~/134110555/0/sectionhikercom~Northern-Lites-Backcountry-Snowshoes-Review/">Northern Lites Backcountry Snowshoes</a>
 
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
+
 ## Tips & Tricks
 <a href="http://www.fionaoutdoors.co.uk/2016/02/tips-for-safer-winter-hiking.html">Tips for Safer Winter Hiking</a>
 

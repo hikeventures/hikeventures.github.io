@@ -3,7 +3,7 @@ title: Outdoors Tidbits 16
 description: The latest outdoor gear reviews, tips & tricks - Nr. 16
 date: 2014-11-24 17:06:51
 category: tidbits
-tags: 
+tags:
   -tidbits
 layout: post
 ---
@@ -17,6 +17,13 @@ Castle Junction in Banff National Park. - [theroaminglama.wordpress.com](http://
 Gosainkund & Helambu. - [besthike.com](http://besthike.com/2014/11/24/gosainkund-helambu-day-4/)
 
 5 Winter Hikes near Portland. - [evergreenhiker.wordpress.com](http://evergreenhiker.wordpress.com/2014/11/18/5-winter-hikes-portland)
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 
 Hiking and Cycling the Bryce Canyon National Park. - [bikehikesafari.com](http://bikehikesafari.com/2014/11/23/hiking-and-cycling-bryce-canyon-national-park)
 

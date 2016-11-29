@@ -3,7 +3,7 @@ title: Outdoors Tidbits 27
 description: The latest outdoor gear reviews, tips & tricks - Nr. 27
 date: 2015-02-12 18:14:02
 category: tidbits
-tags: 
+tags:
   - tidbits
 layout: post
 ---
@@ -16,7 +16,14 @@ Hiking Telica Volcano. -  [adventuresofacouchsurfer.com]( http://adventuresofaco
 Lessons from a Winter Weekend Section Hike. -  [blissfulhiking.blogspot.com]( http://blissfulhiking.blogspot.com/2015/02/lessons-from-winter-weekend-section-hike.html)
 <br><br>
 Hiking the Devils Garden. -  [modernhiker.com]( http://www.modernhiker.com/2015/02/10/hike-the-devils-garden-arches-national-park/)
-<br><br>
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
+
 Yosemite National Park – Mist Trail. -  [myoutdoorsite.wordpress.com]( https://myoutdoorsite.wordpress.com/2015/02/10/usa-yosemite-national-park-mist-trail/)
 <br><br>
 Laugavegur trek in Iceland. -  [besthike.com]( http://besthike.com/2015/02/11/laugavegur-trek-iceland-3/)

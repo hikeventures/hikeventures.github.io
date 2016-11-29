@@ -4,7 +4,7 @@ description: The latest outdoor gear reviews, tips & tricks - Nr. 3
 date: 2014-09-03 05:57:25
 category: tidbits
 layout: post
-tags: 
+tags:
   - tidbits
 ---
 Konstantin has done some Wadlopen in the Netherlands while Patrick was test driving his Packraft with his new [WindPaddle Sail](http://hikeventures.com/windpaddle-sails-for-packrafting/) in the Turku Archipelago. The confirmed date for the [Finnish Packraft Gathering](http://korpijaakko.com/2014/08/27/the-first-finnish-packrafting-gathering/) seems to be now from 3.10. - 5.10.2014.
@@ -20,9 +20,15 @@ Lightroom and Colour Space. - [digital-photography-school.com](http://digital-ph
 <br><br>Three essential lenses for Photography. - [digital-photography-school.com](http://digital-photography-school.com/which-three-lenses-do-you-need-for-photography/)
 <br><br>
 Launch of the Zeiss Loxia full frame lenses for Sony E-mount. - [dpreview.com](http://www.dpreview.com/articles/2384804202/zeiss-launches-loxia-full-frame-lenses-for-sony-e-mount)
-<br><br>
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 Get most out of your pocket camera. - [digital-photography-school.com](http://digital-photography-school.com/how-to-get-the-most-out-of-your-pocket-camera/)
-<br><br> 
+<br><br>
 New Book: 50 Best Hikes in New England. - [actionhub.com](http://www.actionhub.com/stories/2014/09/02/50-best-hikes-new-england-wachusett-massachusetts/)
 <br><br>View from the Wonderland Trail. - [gossamergear.com](http://gossamergear.com/wp/tips/art-bail)
 <br><br>Facebook, Friends and Hiking?. - [colleenfriesen.com](http://www.colleenfriesen.com/2014/09/01/facebook-friends-and-finding-your-way/)

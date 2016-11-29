@@ -41,6 +41,14 @@ This night we got plenty of snow here in the Turku Archipelago area which change
 
 [Patagonia Reconnaissance Pants][14]
 
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
+
 ## Tips & Tricks
 [Guide to the River Voxnan][15]
 

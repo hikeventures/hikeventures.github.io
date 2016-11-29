@@ -3,11 +3,11 @@ title: Outdoors Tidbits 26
 description: The latest outdoor gear reviews, tips & tricks - Nr. 26
 date: 2015-02-03 21:51:23
 category: tidbits
-tags: 
+tags:
   - tidbits
 layout: post
 ---
-Last week we returned from our trip to Lapland. Our next adventure trip which we are planning together will be most likely a packrafting weekend in Sweden in April together with the [Deliverance Team](http://deliveranceteam.outdrr.com) and [Urban Packrafter](http://www.urbanpackrafter.com). Patrick is now packing again his backpack for his trip to Munich where he is going to visit the ISPO 2015 to check out the latest trends in the outdoor industry. 
+Last week we returned from our trip to Lapland. Our next adventure trip which we are planning together will be most likely a packrafting weekend in Sweden in April together with the [Deliverance Team](http://deliveranceteam.outdrr.com) and [Urban Packrafter](http://www.urbanpackrafter.com). Patrick is now packing again his backpack for his trip to Munich where he is going to visit the ISPO 2015 to check out the latest trends in the outdoor industry.
 <br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/15815499754" title="Flight from Helsinki to Lapland"><img src="https://farm8.staticflickr.com/7413/15815499754_1ec2a39146_b.jpg" width="1024" height="1024" alt="Flight from Helsinki to Lapland"></a>
 <br><!--more--><br>
@@ -16,7 +16,14 @@ Zabriskie Point (Death Valley National Park). - [theroaminglama.wordpress.com](h
 Breakfast Hiking Tips. - [hikebyfaith.com](http://hikebyfaith.com/2015/02/03/hiking-tips-breakfast-doesnt-have-to-be-boring)
 <br><br>
 Mombacho Volcano Nature Reserve Near Granada Nicaragua. - [adventuresofacouchsurfer.com](http://adventuresofacouchsurfer.com/2015/02/03/mombacho-volcano-nature-reserve-near-granada-nicaragua)
-<br><br>
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
+
 WAIS Divide. - [annehellie.blogspot.com](http://annehellie.blogspot.com/2015/01/wais-divide.html)
 <br><br>
 hiking Assiniboine Sunshine Rockwall. - [besthike.com](http://besthike.com/2015/02/03/hiking-assiniboine-sunshine-rockwall/)

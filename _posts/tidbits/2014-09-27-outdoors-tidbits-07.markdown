@@ -3,7 +3,7 @@ title: Outdoors Tidbits 7
 description: The latest outdoor gear reviews, tips & tricks - Nr. 7
 date: 2014-09-27 06:18:04
 category: tidbits
-tags: 
+tags:
   - tidbits
 layout: post
 ---
@@ -16,7 +16,15 @@ Two new Zeiss videos: 85mm Otus and 35mm ZM.. - <a href="http://www.sonyalpharu
 How to Use the Filters in Lightroom. - <a href="http://digital-photography-school.com/how-to-use-the-filter-in-lightrooms-library-module" target="_blank">digital-photography-school.com</a>
 Photoshop Elements 13 released. - <a href="http://www.sonyalpharumors.com/new-photoshop-element-13-released" target="_blank">sonyalpharumors.com</a>
 Nature and Wildlife Photography Tips for Beginners. - <a href="http://digital-photography-school.com/nature-and-wildlife-photography-tips-for-beginners" target="_blank">digital-photography-school.com
-## <i class="fa fa-compass"></i> Hiking 
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
+
+## <i class="fa fa-compass"></i> Hiking
 Arrowsmith Range – weekend adventure. - <a href="http://43degreessouth.com/2014/09/16/arrowsmith-range-weekend-adventure-hakatere-cameron-hut" target="_blank">43degreessouth.com</a>
 Three Sisters. - <a href="http://jcpct.wordpress.com/2014/09/26/day-121-mile-1989" target="_blank">jcpct.wordpress.com
 </a>

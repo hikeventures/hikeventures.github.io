@@ -24,6 +24,11 @@ Last weekend we have participated in the Finnish Packrafting Gathering. Konstant
 <br><br>
 [Therm-A-Rest-Neoair-Xlite](http://outdoorseite.de/therm-a-rest-neoair-xlite-isomatte/)
 
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
 
 ## Tips & Tricks
 [Backpackers training plan for 100 mile ultra marathon](http://andrewskurka.com/2015/backpackers-training-plan-for-100-mile-ultra-marathon/)

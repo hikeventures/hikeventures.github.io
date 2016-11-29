@@ -3,11 +3,11 @@ title: Outdoors Tidbits 23
 description: Outdoors Tidbits 23
 date: 2015-01-05 08:21:56
 category: tidbits
-tags: 
+tags:
   - tidbits
 layout: post
 ---
-Konstantin returned from his winter hike in Poland where he tested some gear which we have received from some sponsors. I have also selected some booths to visit at the ISPO 2015 show in Munich.  ISPO offers an [iphone app](https://itunes.apple.com/us/app/ispo-munich-2015/id774932557?mt=8) this year which you can use to select and locate the different companies at the show. It's pretty cool.<br><br> 
+Konstantin returned from his winter hike in Poland where he tested some gear which we have received from some sponsors. I have also selected some booths to visit at the ISPO 2015 show in Munich.  ISPO offers an [iphone app](https://itunes.apple.com/us/app/ispo-munich-2015/id774932557?mt=8) this year which you can use to select and locate the different companies at the show. It's pretty cool.<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/11364450534" title="Sunrise Vaasa"><img src="https://farm6.staticflickr.com/5501/11364450534_fda331ca57_b.jpg" width="1024" height="398" alt="Sunrise Vaasa"></a><br><!--more--><br>
 Winter Traction Devices Gear Reviews  Yaktrax and Kako ICEtrekkers - [hikenoworklater.com](http://hikenoworklater.com/2015/01/04/gear-review-winter-traction-devices)
 <br><br>
@@ -16,7 +16,14 @@ New Year’s Eve Outdoors In the Vernooy Kill State Forest - [woodtrekker.blogsp
 Outdoor Adventure Resolutions for 2015 - [rockiesfamilyadventures.com](http://www.rockiesfamilyadventures.com/2015/01/my-outdoor-adventure-resolutions-for.html)
 <br><br>
 Robbins Butte Wildlife Area - [arizonahiking.com](http://arizonahiking.blogspot.com/2015/01/robbins-butte-wildlife-area.html)
-<br><br>
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
+
 Winter adventures in the White Mountains - [jilloutside.com](http://www.jilloutside.com/2015/01/slow-snow-and-35-below.html)
 <br><br>
 Hiking in the Bryce Canyon National Park - [hikenoworklater.com](http://hikenoworklater.com/2015/01/02/bryce-canyon-national-park)
@@ -51,6 +58,6 @@ The Most Reliable Campstove - [appalachiantrailgirl.com](http://appalachiantrail
 <br><br>
 Birding along the San Francisco Bay Trail at Redwood Shores - [trailhiker.wordpress.com](http://trailhiker.wordpress.com/2014/12/18/birding-along-the-san-francisco-bay-trail-at-redwood-shores)
 <br><br>
-Hiking in the Cape Breton Highlands National Park - [anotherwalkinthepark.wordpress.com](https://anotherwalkinthepark.wordpress.com/2015/01/02/cape-breton-highlands-national-park-part-1-the-western-coast/) 
+Hiking in the Cape Breton Highlands National Park - [anotherwalkinthepark.wordpress.com](https://anotherwalkinthepark.wordpress.com/2015/01/02/cape-breton-highlands-national-park-part-1-the-western-coast/)
 <br><br>
 Hiking in the Zion National Park - [evergreenhiker.wordpress.com](https://evergreenhiker.wordpress.com/2015/01/01/walking-on-the-roof-of-zion-angels-landing-hike/)

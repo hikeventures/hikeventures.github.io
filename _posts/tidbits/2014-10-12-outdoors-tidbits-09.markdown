@@ -13,7 +13,14 @@ If you are going to be in Finland from 27-28 October 2014 then you might be able
 How to delete bad photographs. - [roeschphotography.blogspot.com](http://roeschphotography.blogspot.com/2014/10/delete-bad-photographs-actually-delete.html)
 <br><br>
 Most likely a 50 Megapixel Full Frame sensor generation coming first quarter of 2015!. - [mirrorlessrumors.com](http://www.mirrorlessrumors.com/50-megapixel-full-frame-sensor-generation-coming-first-quarter-of-2015)
-<br><br>
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
+
 How to Improve Your Photography with Storytelling Images. - [digital-photography-school.com](http://digital-photography-school.com/how-to-improve-your-photography-with-storytelling-images/)
 <br><br>
 Predicting Dramatic Sunsets is explained here. - [digital-photography-school.com](http://digital-photography-school.com/predicting-dramatic-sunsets/)
@@ -74,4 +81,4 @@ Some people do Moon Paddling. - [apaddleinmypack.wordpress.com](http://apaddlein
 <br><br>
 While others do Kayaking  in Linnansaari National Park. - [outdoorsfinland.wordpress.com](http://outdoorsfinland.wordpress.com/2014/10/09/autumn-kayaking-linnansaari-national-park)
 <br><br>
-Others paddle the Suwannee Wilderness Trail. - [canoekayak.com](http://www.canoekayak.com/travel/destination-floridas-suwannee-river/) 
+Others paddle the Suwannee Wilderness Trail. - [canoekayak.com](http://www.canoekayak.com/travel/destination-floridas-suwannee-river/)

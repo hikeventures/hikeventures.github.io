@@ -3,7 +3,7 @@ title: Outdoors Tidbits 6
 description: The latest outdoor gear reviews, tips & tricks - Nr. 6
 date: 2014-09-21 07:42:26
 category: tidbits
-tags: 
+tags:
   - tidbits
 layout: post
 ---
@@ -14,7 +14,14 @@ Size comparison of new Zeiss / Sony FE lenses. - [sonyalpharumors.com](http://ww
 FE 16-35 RAW images. - [digital-photography-school.com](http://www.verybiglobo.com/photokina-2014-sony-first-impression-fe-16-35-f4-oss-za-some-raw-samples-for-download/)<br><br>
 EOS 7D Mark II Sample Images. - [canonrumors.com](http://www.canonrumors.com/2014/09/sample-images-from-the-eos-7d-mark-ii/)<br><br>
 Some Nikon D750 stuff. - [dpreview.com](http://www.dpreview.com/articles/1289414938/nikon-d750-what-you-need-to-know)
-<br><br>
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
+
 Mount Jefferson. - [trailtosummit.com](http://trailtosummit.com/mount-jefferson-via-great-gulf-six-husbands-and-sphinx/)<br><br>
 Discovering Transylvania. - [nonstoptravelling.wordpress.com](http://nonstoptravelling.wordpress.com/2014/09/22/tantalising-transylvania)<br><br>
 Chamonix And Saas Grund in September 2014. - [howlingmist.blogspot.com](http://howlingmist.blogspot.com/2014/09/a-taste-of-chamonix-and-saas-grund-alps.html)<br><br>

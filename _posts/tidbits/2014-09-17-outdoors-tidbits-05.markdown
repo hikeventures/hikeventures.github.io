@@ -3,7 +3,7 @@ title: Outdoors Tidbits 5
 description: The latest outdoor gear reviews, tips & tricks - Nr. 5
 date: 2014-09-17 00:13:25
 category: tidbits
-tags: 
+tags:
   - tidbits
 layout: post
 ---
@@ -16,7 +16,14 @@ Tripod guide. - [digital-photography-school.com](http://digital-photography-scho
 New Canon Photo-Storage Device. - [canonrumors.com](http://www.canonrumors.com/2014/09/canon-developing-new-concept-photo-storage-device/)
 <br><br>
 Nikon D750 DSLR announced. - [nikonrumors.com](http://nikonrumors.com/2014/09/12/nikon-d750-full-frame-dslr-camera-announced.aspx/)
-<br><br>
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
+
 Sandisk announced 512GB SD card. - [43rumors.com](http://www.43rumors.com/wanna-see-something-incredible-new-512gb-fast-card-from-sandisk-announced/)
 <br><br>
 Video Review of the Canon EOS 7D Mark II. - [canonrumors.com](http://www.canonrumors.com/2014/09/video-review-canon-eos-7d-mark-ii/)

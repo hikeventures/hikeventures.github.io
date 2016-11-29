@@ -3,7 +3,7 @@ title: Outdoors Tidbits 29
 description: The latest outdoor gear reviews, tips & tricks - Nr. 29 - #outdoorstidbits
 date: 2015-03-14 21:01:14
 category: tidbits
-tags: 
+tags:
   - tidbits
 layout: post
 ---
@@ -19,7 +19,14 @@ Outdoor companies and gear for women by [outsideonline.com](http://www.outsideon
 Hiking the Engelmann Oak Loop [Engelmann Oak Loop](http://www.modernhiker.com/2015/03/12/hiking-the-engelmann-oak-loop/).
 <br><br>
 Hayduke Trail [Updated Gear](http://www.walkingwithwired.com/2015/03/11-days-til-start-dateupdated-gear-for.html) for the Hayduke Trail.
-<br><br>
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
+
 Theodore Roosevelt National Park - Sunset at the Oxbow [Sunset at the Oxbow](http://astheyare.net/2015/03/12/theodore-roosevelt-national-park-north-unit-sunset-at-the-oxbow).
 <br><br>
 Bicycling Around The World [Book review](http://www.mikaelstrandberg.com/2015/03/13/book-review-bicycling-around-the-world/).

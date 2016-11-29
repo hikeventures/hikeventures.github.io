@@ -3,7 +3,7 @@ title: Outdoors Tidbits 24
 description: The latest outdoor gear reviews, tips & tricks - Nr. 24
 date: 2015-01-17 11:45:40
 category: tidbits
-tags: 
+tags:
   - tidbits
 layout: post
 ---
@@ -19,7 +19,14 @@ Fumerole Ridge. - [annehellie.blogspot.com](http://annehellie.blogspot.com/2014/
 A Poem: In Celebration of Fords. - [ianbarrington.com](http://ianbarrington.com/2015/01/17/a-poem-in-celebration-of-fords)
 <br><br>
 Bushwhack to Chimneys. - [streamsandforests.wordpress.com](https://streamsandforests.wordpress.com/2015/01/16/bushwhack-to-chimneys/)
-<br><br>
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
+
 First Impression Of The Anza-Borrego Desert. - [hikingangelesforest.com](http://hikingangelesforest.com/2015/01/15/first-impression-of-the-anza-borrego-desert)
 <br><br>
 Wildcat Mountain Trail System. - [compulsivehiker.com](http://compulsivehiker.com/2015/01/14/wildcat-mountain-trail-system)

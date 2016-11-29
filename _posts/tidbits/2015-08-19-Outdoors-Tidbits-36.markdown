@@ -16,6 +16,12 @@ So what are our upcoming adventure plans? Next weeend Patrick is most likely tra
 [New backpacks from the North Face](http://neverstopexploring.com/2015/07/27/the-latest-on-backpacks-from-the-north-face/)
 [Sierra Designs Tent Preview](http://treelinebackpacker.com/2015/07/18/sierra-designs-2015-tent-preview-nightwatch)
 
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 ## Tips
 [How to pack for a packraft day trip](http://blog.hyperlitemountaingear.com/roman_dial_packraft_day_trip/)
 [How to dry backpacks (in German)](http://www.bergfreunde.de/basislager/pflegeanleitung-rucksaecke/)

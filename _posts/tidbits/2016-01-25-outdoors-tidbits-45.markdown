@@ -10,7 +10,7 @@ layout: post
 ---
 *25.01.1905 - The World’s larger diamond was found in South Africa weighing 590 grams and called the “Culling”.*
 
-This week we are at the ISPO in Munich where we check out new gear for our hiking and packrafting adventures. Tweet us at @hikeventures if you happen to be at the ISPO as well and want to meet us. 
+This week we are at the ISPO in Munich where we check out new gear for our hiking and packrafting adventures. Tweet us at @hikeventures if you happen to be at the ISPO as well and want to meet us.
 
 We have also have a new RSS feed. Update or subscribe our RSS [here](http://feedio.co/@hikeventures/feed "RSS"). #OutdoorsTidbits
 
@@ -26,6 +26,13 @@ We have also have a new RSS feed. Update or subscribe our RSS [here](http://feed
 [Montane Featherlight Down Jacket](http://wildaboutscotland.com/2016/01/23/product-review-montane-featherlight-down-jacket/ "Product Review – Montane Featherlight Down Jacket")
 
 [Osrey Shuttle 100](http://www.fionaoutdoors.co.uk/2016/01/kit-review-osprey-shuttle-100.html)
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 
 ## Tips & Tricks
 [Zip Neck Base Layers](http://www.thehikinglife.com/2016/01/gear-tip-zip-neck-base-layers/ "Today at 00:29 Gear Tip: Zip Neck Base Layers Cam www.thehikinglife.com")

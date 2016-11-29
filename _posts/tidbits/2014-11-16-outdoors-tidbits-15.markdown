@@ -3,7 +3,7 @@ title: Outdoors Tidbits 15
 description: The latest outdoor gear reviews, tips & tricks - Nr. 15
 date: 2014-11-16 23:23:05
 category: tidbits
-tags: 
+tags:
   - tidbits
 layout: post
 ---
@@ -18,6 +18,13 @@ Tactical Rapid Response Quarter Zip. - [gearculture.com](http://www.gearculture.
  Wetlands. - [badgerandwhoopingcrane.wordpress.com](http://badgerandwhoopingcrane.wordpress.com/2014/11/15/what-about-wetlands)
 
 Trailrunning: St. Gervais and Montford. - [asquirrelgoestouring.com](http://asquirrelgoestouring.com/2014/11/15/alpine-trail-running-st-gervais-and-montford)
+
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
 
 Dalkey Island in Ireland. - [homethoughtsfromabroad626.wordpress.com](http://homethoughtsfromabroad626.wordpress.com/2014/11/15/dalkey-island-county-dublin-ireland)
 

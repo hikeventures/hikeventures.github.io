@@ -3,7 +3,7 @@ title: Outdoors Tidbits 19
 description: The latest outdoor gear reviews, tips & tricks - Nr. 19
 date: 2014-12-14 16:27:38
 category: tidbits
-tags: 
+tags:
   - tidbits
 layout: post
 ---
@@ -15,6 +15,13 @@ Hiking Bow Willow and Rockhouse Canyons. - [modernhiker.com](http://www.modernhi
 Hiking to the Pass Mountain Trail. - [sixsaturdaysandasunday.wordpress.com](http://sixsaturdaysandasunday.wordpress.com/2014/12/12/pass-mountain-trail)
 
 Adventures in Guatemala. - [Hunting for manatees, howler monkeys and hot waterfalls. - [anotefromabroad.com](http://anotefromabroad.com/2014/12/12/guatemala-hunting-for-manatees-howler-monkeys-and-hot-waterfalls)
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 
 10 Tips for Adventure Travel. - [blog.theclymb.com](http://blog.theclymb.com/passions/places-and-adventure-travel/10-tips-adventure-travel/)
 

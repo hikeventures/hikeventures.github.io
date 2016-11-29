@@ -3,7 +3,7 @@ title: Outdoors Tidbits 18
 description: The latest outdoor gear reviews, tips & tricks - Nr. 18
 date: 2014-12-07 17:58:00
 category: tidbits
-tags: 
+tags:
   - tidbits
 layout: post
 ---
@@ -15,7 +15,13 @@ Big Agnes Battle Mountain 2  Review. - [treelinebackpacker.com](http://treelineb
 Ecosox Bamboo Socks Review. - [abhiking.blogspot.com](http://abhiking.blogspot.com/2014/12/ecosox-bamboo-socks-product-review.html)
 <br><br>
 Sierra Designs DriDown Hoody Review. - [seattlebackpackersmagazine.com](http://seattlebackpackersmagazine.com/sierra-designs-dridown-hoody-review/)
-<br><br>
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 Review about the Wild Movie. - [wanderingthewild.com](http://wanderingthewild.com/2014/12/04/wild-movie-review)
 <br><br>
 Sherpa Thorong Jacket review. - [climbinggearreviewsuk.wordpress.com](http://climbinggearreviewsuk.wordpress.com/2014/12/03/sherpa-thorong-jacket)

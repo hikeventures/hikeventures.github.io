@@ -30,6 +30,13 @@ Currently, we are busy writing gear reviews and trip reports which we will publi
 
 [Therm-a-Rest Antares Sleeping Bag](http://www.theoutdooradventure.net/2015/09/therm-a-rest-antares-sleeping-bag/)
 
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
+
 [Esee Candiru](http://bedrockandparadox.com/2015/09/04/esee-candiru-review/)
 
 [Stonewear Stride Skort](http://www.goadventuremom.com/2015/08/stonewear-stride-skort/)

@@ -31,7 +31,14 @@ Last week Konstantin went hiking in the Dutch forest hunting for mushrooms. We s
 <a href="http://www.gogumption.com/go-outdoors/review-airhead-na-pali-inflatable-sup/">Airhead Na Pali Inflatable Sup</a>
 <br><br>
 <a href="http://thebigoutside.com/gear-review-marmot-scandium-sleeping-bag/">Marmot Scandium Sleeping Bag</a>
-<br><br>
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
+
 <a href="http://treelinebackpacker.com/2015/10/13/gerber-freescape-camp-kitchen-kit/">Gerber Freescape Camp Kitchen Kit</a>
 <br><br>
 <a href="http://blog.rei.com/hike/gear-review-gregory-baltoro-75-and-deva-70/">Gregory Baltoro 75 and Deva 70</a>

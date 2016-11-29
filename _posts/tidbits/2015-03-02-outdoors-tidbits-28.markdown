@@ -3,7 +3,7 @@ title: Outdoors Tidbits 28
 description: The latest outdoor gear reviews, tips & tricks - Nr. 28
 date: 2015-03-02 20:57:58
 category: tidbits
-tags: 
+tags:
   - tidbits
 layout: post
 ---
@@ -14,7 +14,14 @@ A Guide to Backpacking the Wonderland Trail [(takeahikephotography.wordpress.com
 Exploring the Theodore Roosevelt National Park [(astheyare.net).](http://astheyare.net/2015/03/01/theodore-roosevelt-national-park-south-unit-the-evening-and-the-morning)
 <br><br>
 The Charkadio Cave and Museum [(discoveringkos.com).](http://www.discoveringkos.com/2015/03/the-charkadio-cave-and-museum.html)
-<br><br>
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
+
 Artist's Point Sunrise Overnight [(mikereidphotography.wordpress.com).](https://mikereidphotography.wordpress.com/2015/03/01/artists-point-sunrise-overnight/)
 <br><br>
 Top 5 Trail Shoe Candidates for John Muir Trail 2015 [(trailtopeak.com).](http://trailtopeak.com/2015/03/01/top-5-trail-shoe-candidates-for-john-muir-trail-2015)

@@ -3,7 +3,7 @@ title: Outdoors Tidbits 17
 description: The latest outdoor gear reviews, tips & tricks - Nr. 17
 date: 2014-12-01 17:51:55
 category: tidbits
-tags: 
+tags:
   - tidbits
 layout: post
 ---
@@ -15,7 +15,14 @@ A review about the North Face Thermoball Remix Jacket. - [mikeoffthemap.com](htt
 Day 5 on the Teton Crest Trail. - [wanderingthewild.com](http://wanderingthewild.com/2014/11/29/teton-crest-trail-day-5)
 <br><br>
 Sea Lions, Whales & Bears in the Gulf of Alaska. - [doeshestillshitinhispants.blogspot.com](http://doeshestillshitinhispants.blogspot.com/2014/11/september-3-2014-deep-sea-fishing-sea.html)
-<br><br>
+
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 How to survive extreme weather outdoors. - [boston.cbslocal.com](http://boston.cbslocal.com/2014/11/29/eye-on-weather-surviving-extreme-weather-outdoors/)
 <br><br>
 <iframe src="//player.vimeo.com/video/112891615" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/112891615">Packrafting the Grand: (mostly) POV.</a> from <a href="http://vimeo.com/user191910">LaceMine29.com</a> on <a href="https://vimeo.com">Vimeo</a>.</p><br><br>
@@ -31,7 +38,7 @@ Hiking and Cycling in the Bryce Canyon National Park. - [bikehikesafari.com](htt
 <br><br>
 Walk to in wintry Ben Macdui and the Anson Crash. - [heavywhalley.wordpress.com](http://heavywhalley.wordpress.com/2014/11/24/wonderful-walk-to-a-wintry-ben-macdui-and-the-anson-crash-black-ice-and-verglas)
 <br><br>
-Mystical Latourell Falls in Oregon. - [journeyaroundtheglobe.com](http://journeyaroundtheglobe.com/2014/11/24/mystical-latourell-falls-in-oregon) 
+Mystical Latourell Falls in Oregon. - [journeyaroundtheglobe.com](http://journeyaroundtheglobe.com/2014/11/24/mystical-latourell-falls-in-oregon)
 <br><br>
 Exploring the Devils Tower in Wyoming. - [jaspasjourney.wordpress.com](http://jaspasjourney.wordpress.com/2014/11/26/the-devils-tower-wyoming)
 <br><br>
@@ -39,7 +46,7 @@ Taynish National Nature Reserve. - [scotlandsnature.wordpress.com](http://scotla
 <br><br>
 Exploring Loch Lomond island. - [thehighwaylad.wordpress.com](http://thehighwaylad.wordpress.com/2014/11/28/loch-lomond-island-explore-nov-2014)
 <br><br>
-Gnitz Peninsula in Usedom. - [underagreysky.com](http://underagreysky.com/2014/11/28/the-gnitz-peninsula-usedom) 
+Gnitz Peninsula in Usedom. - [underagreysky.com](http://underagreysky.com/2014/11/28/the-gnitz-peninsula-usedom)
 <br><br>
 The Mounth. - [whiteburnswanderings.wordpress.com](http://whiteburnswanderings.wordpress.com/2014/11/28/the-mounth)
 <br><br>

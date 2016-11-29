@@ -15,6 +15,12 @@ Interested in Paddling and Whitewater packrafting courses in Europe? Here are a 
 
 Injuring Eternity has been to the [Forsfest 2016](https://injuringeternity.net/2016/10/11/forsfest-carnage/) in Sweden.
 
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 American Packrafting Association posted a video about the [Packrafting Round-Up 2016](https://vimeo.com/187153577).
 
 Here you can learn how to make a [DIY Hobo Stick Stove](https://www.youtube.com/watch?v=bbnxtiL9anQ&feature=youtu.be).

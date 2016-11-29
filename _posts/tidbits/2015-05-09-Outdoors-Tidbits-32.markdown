@@ -27,6 +27,13 @@ Konstantin has been to Belgium packrafting. You can find some pictures on <a hre
 
 [Thermarest Antares HD Three Season Sleeping Bag Review](http://treelinebackpacker.com/2015/05/05/thermarest-antares-hd-three-season-sleeping-bag-review)
 
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 [Product Review: The Limited Edition Expedition LTD Inflatable Kayak from Advanced Elements](https://airkayaks.wordpress.com/2015/05/04/product-review-the-limited-edition-expedition-ltd-inflatable-kayak-from-advanced-elements/)
 
 [Klymit Static V Luxe](http://hikelighter.com/2015/05/03/klymit-static-v-luxe)

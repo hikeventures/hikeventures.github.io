@@ -8,7 +8,7 @@ tags:
 layout: post
 ---
 
-Only 5 days left and we will happily packrafting in Sweden. What's new on HikeVentures? If you are an outdoor blogger, you can [submit](http://hikeventures.com/blogs/) your blog to our outdoor blog list so other readers can check out your blog as well. 
+Only 5 days left and we will happily packrafting in Sweden. What's new on HikeVentures? If you are an outdoor blogger, you can [submit](http://hikeventures.com/blogs/) your blog to our outdoor blog list so other readers can check out your blog as well.
 <a href="https://www.flickr.com/photos/90204224@N07/8198203106"><img src="https://farm9.staticflickr.com/8340/8198203106_c0d6968dc9_b.jpg" width="100%"></a>
 
 ## Trip Reports and Advice
@@ -21,6 +21,12 @@ Only 5 days left and we will happily packrafting in Sweden. What's new on HikeVe
 [Faroe Islands](https://avisuora.wordpress.com/2015/03/29/patikointia-farsaarilla-14-22-3-2015/)
 
 [Training, shakedowns and the PCT](http://bikehikesafari.com/2015/04/10/training-shakedowns-and-the-pct)
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
 
 [Europes 10 best National Parks](http://www.theguardian.com/travel/2015/mar/30/10-europe-best-national-parks-italy-france-spain)
 [Most liked Instagram Pictures by Finland Tourism](https://www.facebook.com/media/set/?set=a.882630968441946.1073741840.110813028957081&type=1)

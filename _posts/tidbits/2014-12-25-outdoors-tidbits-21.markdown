@@ -3,11 +3,11 @@ title: Outdoors Tidbits 21
 description: The latest outdoor gear reviews, tips & tricks - Nr. 21
 date: 2014-12-25 08:42:33
 category: tidbits
-tags: 
+tags:
   - tidbits
 layout: post
 ---
-Patrick had a great morning porridge in Finland where temperatures have dropped to freezing -13C. However, it's still quite nice to go for a walk outside and enjoy the white winter wonderland. Konstantin is in Poland again working on a review and we have finally some time to discuss our Lapland trip in more detail during the holiday season. 
+Patrick had a great morning porridge in Finland where temperatures have dropped to freezing -13C. However, it's still quite nice to go for a walk outside and enjoy the white winter wonderland. Konstantin is in Poland again working on a review and we have finally some time to discuss our Lapland trip in more detail during the holiday season.
 <br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/11265029666" title="Candle Lamp Winter Finland"><img src="https://farm4.staticflickr.com/3805/11265029666_d26c4a5024_b.jpg" width="1024" height="683" alt="Candle Lamp Winter Finland"></a>
 <!--more--><br><br>
@@ -16,7 +16,14 @@ John Muir remembered on centenary. - [walkinghighlands.co.uk](http://www.walkhig
 Gear review platypus big zip lp reservoir 3 liter 1010. - [trailtopeak.com](http://trailtopeak.com/2014/12/24/gear-review-platypus-big-zip-lp-reservoir-3-liter-1010)
 <br><br>
 Gear review sierra designs zissou 23 sleeping bag-7 510. - [trailtopeak.com](http://trailtopeak.com/2014/12/24/gear-review-sierra-designs-zissou-23-sleeping-bag-7-510)
-<br><br>
+
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 5 most exciting lightweight hiking shoes for 2015. - [trailtopeak.com](http://trailtopeak.com/2014/12/23/5-most-exciting-lightweight-hiking-shoes-for-2015)
 <br><br>
 Walk of the week tour du mont blanc. - [macsadventure.com](http://www.macsadventure.com/walking-holidays/walk-of-the-week-tour-du-mont-blanc/)

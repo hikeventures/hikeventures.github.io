@@ -34,6 +34,12 @@ After returning from our trips in Sweden, Poland and Japan we need some time to 
 
 [Lightening that Backpacking](http://blissfulhiking.blogspot.com/2015/08/lightening-that-backpacking-load.html)
 
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 ## Reviews
 [NOKA Superfood Blends](http://www.modernhiker.com/2015/08/26/product-review-noka-superfood-blends)
 

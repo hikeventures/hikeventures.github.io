@@ -3,19 +3,26 @@ title: Outdoors Tidbits 10
 description: The latest outdoor gear reviews, tips & tricks - Nr. 10
 date: 2014-10-18 16:38:17
 category: tidbits
-tags: 
+tags:
   - tidbits
 layout: post
 ---
 Last week, Konstantin has been on a hike from Poland to Slovakia. Norrøna has published it's latest [online magazine](http://bit.ly/1zgbzr3) and the [application site](http://www.fjallravenpolar.com/) for the Fjällräven Polar 2015 opens on November 18th.
 <br><br><a href="https://www.flickr.com/photos/90204224@N07/15378920707"><img src="https://c2.staticflickr.com/6/5606/15378920707_35d22b3baa_b.jpg" width="1024" height="683" alt="Turku Hirvensalo"></a><!--more-->
- <br><br> 
+ <br><br>
 Aperture Importer plugin for Lightroom. - [dpreview.com](http://www.dpreview.com/articles/7932489009/adobe-releases-new-aperture-importer-plugin-for-lightroom)
 <br><br>
 Delkin 'Black' rugged SD cards has been released. - [dpreview.com](http://www.dpreview.com/articles/1662951780/delkin-introduces-black-range-of-rugged-sd-cards)
 <br><br>
 There is a good Landscape Camera Comparison online. - [donsmithblog.com](http://www.donsmithblog.com/2014/10/17/my-landscape-camera-comparison-canon-5dmkiii-fuji-x-t1-and-sony-a7r-and-the-winner-is/)
-<br><br>
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
+
 Read the latest Loxia tests for Sony A7r. - [sonyalpharumors.com](http://www.sonyalpharumors.com/new-loxia-tests-digglloyd-verybiglobo-dslrmagazine-kasayapa/)
 <br><br>
 A comparison between Sony RX100III and Fujifilm X30. - [fujirumors.com](http://www.fujirumors.com/sony-rx100iii-vs-fujifilm-x30-which-one-is-the-better-camera-according-to-kai-digitalrev/)
@@ -66,7 +73,7 @@ Trails near Katahdin Lake. - [tjamrog.wordpress.com](http://tjamrog.wordpress.co
 Hiking the Upper Muley Twist. - [boxcanyonblog.blogspot.com](http://boxcanyonblog.blogspot.com/2014/10/upper-muley-twist-part-iia-surreal-semi.html)
 <br><br>
 Mosquitoes and Hiking. - [thelatebloomerhiker.com](http://thelatebloomerhiker.com/2014/10/14/how-to-win-the-war-on-mosquitoes-when-hiking)<br><br>
-Backpacking at the the Pacific Crest Trail. - [jackhaskel.com](http://jackhaskel.com/2014/10/14/backpacking-the-pct-across-desolation-wilderness) 
+Backpacking at the the Pacific Crest Trail. - [jackhaskel.com](http://jackhaskel.com/2014/10/14/backpacking-the-pct-across-desolation-wilderness)
 <br><br>
 Eva is Walking and enjoying colours. - [evawiren.wordpress.com](http://evawiren.wordpress.com/2014/10/14/walking-and-colours)<br><br>
 Visiting the Wisconsin Hixtonalma Center Koa - [hennacornoelidays.com](http://hennacornoelidays.com/2014/10/14/a-cool-fall-destination-hixtonalma-center-koa-wisconsin).<br><br>

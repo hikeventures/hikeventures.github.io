@@ -13,7 +13,14 @@ Last weekend Patrick has been to the [first Finnish Packrafting Gathering](http:
 Last weekend Patrick has been to the [first Finnish Packrafting Gathering](http://hikeventures.com/first-finnish-packrafting-gathering/)  and we got a new logo for our blog. Also the [GoPro HERO4](http://www.rei.com/product/882144/gopro-hero4-camera-black-edition?mr%3AtrackingCode=B76C99A8-414D-E411-AF04-BC305BF82162&mr%3AreferralID=NA&cm_mmc=aff_AL-_-125311-_-150351-_-datafeed&avad=150351_b732a08b) has been released.
 <br><br>
 How to do black and white Conversions with Photoshop. - [digital-photography-school.com](http://digital-photography-school.com/how-to-do-great-black-and-white-conversions-using-photoshop/)
-<br><br>
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
+
 How to Photograph Lightning. - [digital-photography-school.com](http://digital-photography-school.com/how-to-photograph-lightning-the-ultimate-guide/)
 <br><br>
 Why Prime Lenses are better. - [digital-photography-school.com](http://digital-photography-school.com/why-prime-lenses-are-better-than-zooms/)

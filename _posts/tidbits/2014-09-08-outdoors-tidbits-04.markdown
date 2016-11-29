@@ -15,7 +15,13 @@ Patrick & Konstantin<br><br>Lightroom and colour space. - [digital-photography-s
 <br><br>How to get good pictures for your blog. - [diyphotography.net](http://www.diyphotography.net/complete-high-end-workflow-post-production/)
 <br><br>
 Noise reduction in Lightroom. - [digital-photography-school.com](http://digital-photography-school.com/how-to-do-noise-reduction-in-lightroom/)
-<br><br>
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 Creating spinning circular time-lapse videos. - [nikonrumors.com](http://nikonrumors.com/2014/08/31/creating-spinning-circular-timelapse-with-nikon-dslr-camera.aspx/)
 <br><br>
 Hiking in the Yosemite National Park. - [seakayakingetc.blogspot.fi](http://seakayakingetc.blogspot.fi/2014/09/hiking-trip-on-yosemite-national-park.html)

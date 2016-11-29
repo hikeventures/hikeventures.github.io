@@ -3,7 +3,7 @@ title: Outdoors Tidbits 20
 description: The latest outdoor gear reviews, tips & tricks - Nr. 20
 date: 2014-12-19 16:40:29
 category: tidbits
-tags: 
+tags:
   - tidbits
 layout: post
 ---
@@ -17,6 +17,13 @@ How much you have to pay to backpack in Europe?. - <a href="http://thesavvybackp
 Rob Roys Way Part 1. - <a href="http://www.baldhiker.com/2014/12/04/rob-roys-way-part-1/">baldhiker.com</a>
 
 Ski with Santa this Christmas. - <a href="http://www.rockiesfamilyadventures.com/2014/12/ski-with-santa-this-christmas.html">rockiesfamilyadventure.com</a>
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 
 Gipfelglueck auf der Marmolata. - <a href="http://outdoorseite.de/gipfelglueck-auf-der-marmolata/">outdoorseite.de</a>
 

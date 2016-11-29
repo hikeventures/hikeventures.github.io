@@ -4,13 +4,13 @@ description: The best blog articles about hiking, backpacking and packrafting 34
 date: 2015-06-16 18:04:22
 categories: tidbits
 category: tidbits
-tags: 
+tags:
   - tidbits
 layout: post
 ---
 
 This week has been quite busy for us, planning and arranging things for our upcoming trips in the next 2 months. In July we are going to have some adventures in Poland. Konstantin will then continue with a 3 weeks packrafting and hiking adventure in Japan. Once back from Japan we will participate in the Fjällräven Classic event in Sweden in August followed by a couple of days packrafting in the Swedish mountains most likely together with the <a href="http://deliveranceteam.outdrr.com">The Deliverance Team</a> and <a href="http://urbanpackrafter.com">Urbanpackrafter</a>.   
-    
+
 <a href="https://www.flickr.com/photos/90204224@N07/9596226393"><img src="https://c2.staticflickr.com/6/5479/9596226393_34ba3b93fb_b.jpg" width="1024" height="683"></a>
 
 ## Gear reviews
@@ -33,6 +33,12 @@ This week has been quite busy for us, planning and arranging things for our upco
 [Review: Mistral 11-5 Adventure Inflatable SUP Paddle Board ](https://airkayaks.wordpress.com/2015/06/06/product-review-mistral-11-5-adventure-inflatable-sup-paddle-board/)
 
 [MSR Reactor Stove](https://climbinggearreviewsuk.wordpress.com/2015/06/05/msr-reactor-stove/)
+
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
 
 ## Tips and Tricks
 [Air Travel Tips for Hikers and Backpackers](http://toddthehiker.com/2015/06/12/air-travel-tips-for-hikers-and-backpackers)
