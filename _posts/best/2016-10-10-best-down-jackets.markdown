@@ -22,7 +22,7 @@ Mountain Equipment Fitzroy Jacket</a> - insulated with Primaloft GOLD - on my pa
 
 <hr>
 
-# The best down jackets of 2016
+<h1> The best down jackets of 2016</h1>
 
 <div class="table-responsive">
 
