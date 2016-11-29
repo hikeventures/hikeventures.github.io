@@ -7,7 +7,7 @@ tags:
   - tidbits
 layout: post
 ---
-Last week, Konstantin has been on a hike from Poland to Slovakia. Norrøna has published it's latest [online magazine](http://bit.ly/1zgbzr3) and the [application site](http://www.fjallravenpolar.com/) for the Fjällräven Polar 2015 opens on November 18th.
+Last week, Konstantin has been on a hike from Poland to Slovakia. Norrøna has published it's latest [online magazine](http://bit.ly/1zgbzr3) and the [application site](http://www.fjallravenpolar.com/) for the Fjällräven Polar 2015 opens on November 18th. {% include intro_tidbits.html %}
 <br><br><a href="https://www.flickr.com/photos/90204224@N07/15378920707"><img src="https://c2.staticflickr.com/6/5606/15378920707_35d22b3baa_b.jpg" width="1024" height="683" alt="Turku Hirvensalo"></a><!--more-->
  <br><br>
 Aperture Importer plugin for Lightroom. - [dpreview.com](http://www.dpreview.com/articles/7932489009/adobe-releases-new-aperture-importer-plugin-for-lightroom)
