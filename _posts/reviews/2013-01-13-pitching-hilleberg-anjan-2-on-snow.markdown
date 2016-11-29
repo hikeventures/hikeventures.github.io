@@ -24,6 +24,8 @@ Have a look <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the
 ## Recommendation
 If you are looking for a 4-season tent then the <a href="http://amzn.to/2eloCEw" rel="nofollow" target="_blank">Hilleberg Nallo</a>is probably the better choice.
 
+{% include disclaimer.html %}
+
 ---
 
 <script type="text/javascript">

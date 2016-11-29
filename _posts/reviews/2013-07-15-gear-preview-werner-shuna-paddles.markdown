@@ -56,6 +56,8 @@ We have tested the Werner Shuna paddles on <a href="http://hikeventures.com/hiki
 
 <a href="http://www.backcountry.com/werner-shuna-2-piece-paddle-glass-blades-straight-fiber-glass-shaft"><button type="button" class="btn btn-danger">Read more about the Werner Shuna Paddles</button></a>
 
+{% include disclaimer.html %}
+
 ---
 
 <script type="text/javascript">

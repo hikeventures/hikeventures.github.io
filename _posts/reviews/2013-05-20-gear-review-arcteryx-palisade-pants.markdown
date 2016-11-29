@@ -32,6 +32,8 @@ I have tested the Arcteryx Palisade Pants on <a href="http://hikeventures.com/hi
 
 <a href="http://www.backcountry.com/arcteryx-palisade-pant-mens"><button type="button" class="btn btn-danger">Read more about the Arcteryx Palisade Pants</button></a>
 
+{% include disclaimer.html %}
+
 ---
 
 <script type="text/javascript">

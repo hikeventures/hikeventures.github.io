@@ -87,6 +87,8 @@ All in all, this is a very good inflatable solar lantern, which is also a good v
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_MPOWERD-Luci-Outdoor-Light_10320284_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Luci Outdoor Solar Lantern</button></a>  
 
+{% include disclaimer.html %}
+
 ---
 
 <script type="text/javascript">

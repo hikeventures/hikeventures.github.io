@@ -33,6 +33,8 @@ Manufacturing and materials seems to have high quality on the Aquapac Waterproof
 
 <a href="http://www.sunnysports.com/nspc/p-apcspcp/aquapac-storm-proof-camera-pouch/"><button type="button" class="btn btn-danger">Read more about the Aquapac Camera Pouch</button></a>
 
+{% include disclaimer.html %}
+
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
 amzn_assoc_search_bar = "false";

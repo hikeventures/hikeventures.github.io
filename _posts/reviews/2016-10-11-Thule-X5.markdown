@@ -51,6 +51,8 @@ Thule just recently released the [Atmos X3](http://www.hikeventures.com/deals/#a
 
 <a href="http://amzn.to/21q2eGI" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Thule Atmos X5</button></a>
 
+{% include disclaimer.html %}
+
 ---
 
 <script type="text/javascript">

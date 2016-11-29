@@ -50,6 +50,8 @@ The Petzl Meteor 3+ is comfortable to wear and a lightweight helmet which can ea
 
 <a href="http://www.usoutdoor.com/petzl-charlet/petzl-meteor-iii-plus-climbing-helmet/"><button type="button" class="btn btn-danger">Read more about the Petzl Meteor 3</button></a>
 
+{% include disclaimer.html %}
+
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
 amzn_assoc_search_bar = "false";

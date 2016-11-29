@@ -54,6 +54,8 @@ I have tested the old model of the Petzl Nao headlamp on <a href="http://hikeven
 
 <a href="http://amzn.to/2gDm8Nm"><button type="button" class="btn btn-danger"Buy on Amazon</button></a>
 
+{% include disclaimer.html %}
+
 ---
 
 <script type="text/javascript">

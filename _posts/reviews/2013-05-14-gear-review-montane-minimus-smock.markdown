@@ -52,6 +52,8 @@ I have tested the Montane Minimus Smock <a href="http://hikeventures.com/hiking-
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Montane-Men-s-Minimus-Smock-Jacket_10224676_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Montane Minimus Smock</button></a>
 
+{% include disclaimer.html %}
+
 ---
 
 <script type="text/javascript">

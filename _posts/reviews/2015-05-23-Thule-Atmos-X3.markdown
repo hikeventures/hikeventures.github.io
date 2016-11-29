@@ -66,6 +66,8 @@ My verdict – even though Thule Atmos X3 has its limitations (especially when d
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Thule-Atmos-X3-iPhone-6_10281413_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Thule Atmos X3</button></a>
 
+{% include disclaimer.html %}
+
 ---
 
 <script type="text/javascript">

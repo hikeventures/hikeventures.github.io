@@ -62,6 +62,7 @@ In the picture below you can see Konstantin preparing his packraft on our one we
 
 <a href="http://amzn.to/2evrnml" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
+{% include disclaimer.html %}
 
 ---
 

@@ -57,6 +57,8 @@ As a side note, I have also used the <a href="http://amzn.to/2akpsuN" rel="nofol
 
 <a href="http://amzn.to/2an34ze" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Zeiss Batis 25mm</button></a>
 
+{% include disclaimer.html %}
+
 ---
 
 <script type="text/javascript">

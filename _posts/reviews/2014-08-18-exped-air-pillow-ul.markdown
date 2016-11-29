@@ -14,7 +14,7 @@ When you plan you next hiking, backpacking, packrafting or other outdoor trip it
 
 <a href="https://www.flickr.com/photos/90204224@N07/14925259216" title="Exped Airpillow"><img src="https://farm4.staticflickr.com/3894/14925259216_ff2d1deb5e_b.jpg" width="600"></a>
 
-<!--more--> 
+<!--more-->
 
 {% include banner_ad.html %}
 
@@ -36,6 +36,7 @@ I like the Exped Air Pillow UL. The pillow feels comfortable, packs small and se
 
 <a href="http://www.backcountry.com/exped-air-pillow"><button type="button" class="btn btn-danger">Read more about the Exped Air Pillow</button></a>
 
+{% include disclaimer.html %}
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";

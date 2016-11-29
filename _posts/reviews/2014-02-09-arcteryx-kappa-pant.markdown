@@ -28,6 +28,8 @@ The Arcteryx Kappa Pant should also work great for skiing or snowboarding. Conce
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Arcteryx-Men-s-Kappa-Pant_10193118_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Arcteryx Kappa Pant</button></a>
 
+{% include disclaimer.html %}
+
 ---
 
 <script type="text/javascript">

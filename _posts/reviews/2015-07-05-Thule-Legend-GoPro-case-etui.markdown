@@ -55,6 +55,8 @@ The Thule Legend GoPro Case is a nice addition to your GoPro Camera especially i
 
 <a href="http://www.backcountry.com/thule-legend-gopro-case"><button type="button" class="btn btn-danger">Read more about the Thule Legend GoPro Case</button></a> <a href="/deals/" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
 
+{% include disclaimer.html %}
+
 ---
 
 <script type="text/javascript">

@@ -41,6 +41,8 @@ I like the Exped Synmat UL 7. It feels comfortable and I would buy it again. How
 
 <a href="http://www.sunnysports.com/nspc/p-expsmu7/exped-synmat-ul-7-air-mattress/"><button type="button" class="btn btn-danger">Read more about the Exped Synmat UL 7</button></a>
 
+{% include disclaimer.html %}
+
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
 amzn_assoc_search_bar = "false";

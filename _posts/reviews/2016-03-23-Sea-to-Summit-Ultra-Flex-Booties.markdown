@@ -32,6 +32,8 @@ We will continue testing the Sea to Summit Ultra Flex Booties this year to see h
 
 <a href="http://amzn.to/2dEr5ss" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
+{% include disclaimer.html %}
+
 ---
 
 <script type="text/javascript">

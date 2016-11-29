@@ -30,6 +30,8 @@ I have tested the Inov-8 Roclite 295 on <a href="http://hikeventures.com/hiking-
 
 <a href="http://www.backcountry.com/inov-8-roclite-295-standard-fit-trail-running-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Inov-8 295</button></a>
 
+{% include disclaimer.html %}
+
 ---
 
 <script type="text/javascript">

@@ -37,6 +37,8 @@ However, we will test the new Thule Atmos X5 (which is supposed to be waterproof
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Thule-Atmos-X4-iPhone-6-Case_10281416_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Thule Atmos X4</button></a>  
 
+{% include disclaimer.html %}
+
 ---
 
 <script type="text/javascript">

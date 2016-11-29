@@ -61,6 +61,8 @@ I have tested the HMG Porter 4400 for a couple of years on hiking and packraftin
 
 <a href="https://www.hyperlitemountaingear.com/4400-porter.html"><button type="button" class="btn btn-danger">Read more about the HMG Porter 4400</button></a>  
 
+{% include disclaimer.html %}
+
 ---
 
 <script type="text/javascript">

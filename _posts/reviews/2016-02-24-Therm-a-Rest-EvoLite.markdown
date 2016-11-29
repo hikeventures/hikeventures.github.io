@@ -58,6 +58,8 @@ For those who don’t like to inflate sleeping pads, a self-inflating sleeping p
 
 <a href="http://www.omcgear.com/thermarest-evolite-sleeping-pad.html"><button type="button" class="btn btn-danger">Read more about the Therm-a-Rest EvoLite</button></a>
 
+{% include disclaimer.html %}
+
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
 amzn_assoc_search_bar = "false";

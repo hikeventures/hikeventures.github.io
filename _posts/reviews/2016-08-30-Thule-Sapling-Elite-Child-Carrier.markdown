@@ -55,6 +55,8 @@ The Thule Sapling Elite Child carrier was comfortable to carry thanks to the pad
 
 <a href="http://www.backcountry.com/thule-chariot-sapling-elite-child-carrier"><button type="button" class="btn btn-danger">Read more about the Thule Sapling Child Carrier</button></a>
 
+{% include disclaimer.html %}
+
 ---
 
 <script type="text/javascript">

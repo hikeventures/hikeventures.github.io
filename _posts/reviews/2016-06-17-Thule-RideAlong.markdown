@@ -43,6 +43,8 @@ Meets international safety standards.
 
 <a href="https://www.rei.com/product/871177/thule-ridealong-child-bike-seat"><button type="button" class="btn btn-danger">Read more about the Thule RideAlong</button></a>
 
+{% include disclaimer.html %}
+
 ---
 
 <script type="text/javascript">

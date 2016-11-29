@@ -54,6 +54,8 @@ Mummy
 
 <a href="http://www.backcountry.com/western-mountaineering-versalite-super-sleeping-bag-10-degree-down-wes0034"><button type="button" class="btn btn-danger">Read more about the Western Mountaineering Versalite</button></a>
 
+{% include disclaimer.html %}
+
 ---
 
 <script type="text/javascript">

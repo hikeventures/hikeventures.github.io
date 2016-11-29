@@ -65,6 +65,8 @@ Well, the tickets have been bought and the plans have been made (this year we ar
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Thule-Women-s-Capstone-50L-Hiking-Pack_10281072_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Thule Capstone 50L</button></a>   
 
+{% include disclaimer.html %}
+
 ---
 
 <script type="text/javascript">

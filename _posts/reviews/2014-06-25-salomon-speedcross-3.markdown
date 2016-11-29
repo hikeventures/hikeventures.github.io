@@ -37,6 +37,9 @@ Looking at the sole of the Speedcross 3 it seems to me quite obvious that the sh
 
 <a href="http://www.backcountry.com/salomon-speedcross-3-climashield-trail-running-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Salomon Speedcross</button></a>
 
+
+{% include disclaimer.html %}
+
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
 amzn_assoc_search_bar = "false";

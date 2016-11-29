@@ -33,6 +33,8 @@ The only downside on the Haglöfs L.I.M III pants are that they are made out of 
 
 <a href="http://www.backcountry.com/haglfs-l.i.m.-iii-pant-mens"><button type="button" class="btn btn-danger">Read more about the Haglöfs L.I.M. III pant</button></a>
 
+{% include disclaimer.html %}
+
 ---
 
 <script type="text/javascript">

@@ -50,6 +50,8 @@ I take a wind jacket on all my hikes. The Arcteryx Squamish Hoody packs light, i
 
 <a href="http://www.ems.com/arc%E2%80%99teryx-men%E2%80%99s-squamish-hoodie/17308000032.html"><button type="button" class="btn btn-danger">Read more about the Arcteryx Squamish Hoodie</button></a>
 
+{% include disclaimer.html %}
+
 ---
 
 <script type="text/javascript">

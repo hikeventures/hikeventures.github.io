@@ -31,6 +31,8 @@ I have tested the Sea to Summit Ultra Sil Drysack on <a href="http://hikeventure
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Sea-to-Summit-Ultra-Sil-Dry-Sacks_10046657_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Sea to Summit Ultra Sil Dry Sack</button></a>
 
+{% include disclaimer.html %}
+
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
 amzn_assoc_search_bar = "false";
