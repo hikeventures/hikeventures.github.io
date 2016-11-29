@@ -7,7 +7,7 @@ tags:
   - tidbits
 layout: post
 ---
-If you are going to be in Finland from 27-28 October 2014 then you might be able to join the White Water Safety & Rescue Training at Kymijoki River organized by [chrisbraincoaching.com](http://www.chrisbraincoaching.com/).  During the First Finnish Packraft Gathering a Packrafter mentioned that [ilumiworld.com](http://www.ilumiworld.com/) offers great outdoor food but have not tried this brand myself yet. Also there are [20% discount](http://www.karttakauppa.fi/workspace.client_organization/PublishedService?file=page&pageID=3&action=view&groupID=1788)  on Finnish maps till 12.10.2014.
+If you are going to be in Finland from 27-28 October 2014 then you might be able to join the White Water Safety & Rescue Training at Kymijoki River organized by [chrisbraincoaching.com](http://www.chrisbraincoaching.com/).  During the First Finnish Packraft Gathering a Packrafter mentioned that [ilumiworld.com](http://www.ilumiworld.com/) offers great outdoor food but have not tried this brand myself yet. Also there are [20% discount](http://www.karttakauppa.fi/workspace.client_organization/PublishedService?file=page&pageID=3&action=view&groupID=1788) on Finnish maps till 12.10.2014. {% include intro_tidbits.html %}
 <br><br><a href="https://www.flickr.com/photos/90204224@N07/14773390709"><img src="https://c2.staticflickr.com/6/5587/14773390709_f658ef8438_b.jpg" width="1024" height="683" alt="Finnish Forest"></a><!--more-->
 <br><br>
 How to delete bad photographs. - [roeschphotography.blogspot.com](http://roeschphotography.blogspot.com/2014/10/delete-bad-photographs-actually-delete.html)
