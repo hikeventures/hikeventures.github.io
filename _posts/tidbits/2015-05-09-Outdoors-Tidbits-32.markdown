@@ -8,7 +8,7 @@ tags:
 layout: post
 ---
 
-Konstantin has been to Belgium packrafting. You can find some pictures on <a href="https://instagram.com/hikeventure/">Instagram</a>. We have created a new <a href="https://www.facebook.com/groups/1394297800896638/">Facebook group</a> for Packrafters in Finland on Facebook. Feel free to join. We are also waiting eagerly for <a href="http://www.visitfinland.com/white-night-magic/">midsummer</a> here in Finland as the cold months are finally over. Are you an outdoor blogger? Join our <a href="http://www.hikeventures.com/blogs/">outdoor blog list</a>.
+Konstantin has been to Belgium packrafting. You can find some pictures on <a href="https://instagram.com/hikeventure/">Instagram</a>. We have created a new <a href="https://www.facebook.com/groups/1394297800896638/">Facebook group</a> for Packrafters in Finland on Facebook. Feel free to join. {% include intro_tidbits.html %}
 
 <a href="https://www.flickr.com/photos/90204224@N07/8196842193"><img src="https://c1.staticflickr.com/9/8057/8196842193_f12073a92c_c.jpg" width="100%"></a>
 
