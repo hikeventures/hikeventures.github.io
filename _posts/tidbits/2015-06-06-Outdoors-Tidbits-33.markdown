@@ -9,7 +9,7 @@ layout: post
 ---
 
 
-The next days you are going to read about a trip to the Aland Islands and about a review of hiking pants on our blog which we have already promised a while ago. We have also invested in new action camera gear which we are going to use on our trips this year. On <a href="https://instagram.com/hikeventure/">Instagram</a> we have reached 1000 followers and we would like to thank everyone who is following our HikeVentures.
+The next days you are going to read about a trip to the Aland Islands and about a review of hiking pants on our blog which we have already promised a while ago. We have also invested in new action camera gear which we are going to use on our trips this year. On <a href="https://instagram.com/hikeventure/">Instagram</a> we have reached 1000 followers and we would like to thank everyone who is following our HikeVentures. {% include intro_tidbits.html %}
 
 <a href="https://www.flickr.com/photos/90204224@N07/17891393053" title="Brompton bike in National Park Netherlands"><img src="https://c1.staticflickr.com/1/267/17891393053_aa712e7470_o.png" width="640" height="640" alt="Brompton bike in National Park Netherlands"></a><!--more-->
 
