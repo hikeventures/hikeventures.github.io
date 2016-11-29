@@ -7,7 +7,7 @@ tags:
   - tidbits
 layout: post
 ---
-Konstantin lost his iphone in a lake while packrafting last weekend and was able to fish it out the next day (still working) while Patrick was packsailing around Turku. There should be just more wind ... <br><br>
+Konstantin lost his iphone in a lake while packrafting last weekend and was able to fish it out the next day (still working) while Patrick was packsailing around Turku. There should be just more wind. {% include intro_tidbits.html %} <br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/14989210509"><img src="https://farm4.staticflickr.com/3914/14989210509_5843d64fd7_o.jpg" width="640" height="640" alt="ecase saved my life"></a>
 <!--more--><br>
 Have great adventures!<br><br>
