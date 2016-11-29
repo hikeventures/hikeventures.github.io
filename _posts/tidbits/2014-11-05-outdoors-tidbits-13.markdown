@@ -7,7 +7,7 @@ tags:
   - tidbits
 layout: post
 ---
-Last weekend [Patrick](http://hikeventures.com/halloween-adventure-at-lake-suolijarvi/) has been to Lake Suolijärvi together with [Janne](http://avisuora.wordpress.com/2014/11/04/lampipoukkoilua-kytaja-usmin-ulkoilualueella-1-2-11-2014)  and the first [review](http://adventuresinstoving.blogspot.com/2014/11/the-new-msr-windboiler.html)  about the new MSR Windboiler is out.<br><br>
+Last weekend [Patrick](http://hikeventures.com/halloween-adventure-at-lake-suolijarvi/) has been to Lake Suolijärvi together with [Janne](http://avisuora.wordpress.com/2014/11/04/lampipoukkoilua-kytaja-usmin-ulkoilualueella-1-2-11-2014)  and the first [review](http://adventuresinstoving.blogspot.com/2014/11/the-new-msr-windboiler.html)  about the new MSR Windboiler is out. {% include intro_tidbits.html %}<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/15504207410"><img src="https://farm6.staticflickr.com/5600/15504207410_acae91444f_b.jpg" width="1024" height="683"></a><!--more--><br><br>
 [Antarctic Islands](http://www.outsideonline.com/news-from-the-field/Antarctic-Islands-Now-on-Google-Street-View.html) can be seen on Google Street View
 
