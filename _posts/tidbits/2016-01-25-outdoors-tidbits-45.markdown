@@ -12,9 +12,11 @@ layout: post
 
 This week we are at the ISPO in Munich where we check out new gear for our hiking and packrafting adventures. Tweet us at @hikeventures if you happen to be at the ISPO as well and want to meet us.
 
-We have also have a new RSS feed. Update or subscribe our RSS [here](http://feedio.co/@hikeventures/feed "RSS"). #OutdoorsTidbits
+{% include intro_tidbits.html %}
 
  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/16462058835/in/album-72157651140432606/" title="ISPO Entrance"><img src="https://farm8.staticflickr.com/7328/16462058835_413f97515e_b.jpg" width="100%" alt="ISPO Entrance"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<!--more-->
 
 ## Gear Reviews
 [Marmot Zion Jacket](http://thebigoutside.com/review-marmot-zion-jacket/ "Wednesday 20 January 2016 at 13:00 Review: Marmot Zion Jacket MichaelALanza The Big Outside")
