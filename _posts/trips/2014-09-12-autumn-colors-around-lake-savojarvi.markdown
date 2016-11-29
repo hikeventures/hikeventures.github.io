@@ -16,6 +16,10 @@ Today I went hiking to the Kurjenrahka National Park in Finland which is located
 
 <a href="https://www.flickr.com/photos/90204224@N07/15030582219" title="Kurjenrahka National Park"><img src="https://farm4.staticflickr.com/3900/15030582219_51eee48e66_b.jpg" width="1024" height="683" alt="hiking in Kurjenrahka National Park"></a>
 
+<!--more-->
+
+{% include banner_ad.html %}
+
 I parked my car at Kurjenpesä where I found an information board about the National Park.
 
 <a href="https://www.flickr.com/photos/90204224@N07/15030711029" ><img src="https://farm4.staticflickr.com/3914/15030711029_76a7ec385a_b.jpg" width="1024" height="683" alt="backpacking in Kurjenrahka National Park" ></a>
@@ -94,4 +98,4 @@ Again, well marked trails.
 <a href="https://www.flickr.com/photos/90204224@N07/15214160101" ><img src="https://farm6.staticflickr.com/5581/15214160101_818772f6a4_b.jpg" width="1024" height="683" alt="Kurjenrahka National Park"></a>
 Finally, I found the ultimate mushroom spot on the whole trail.
 
-To sum up, this was a great hike and I will come back another time in order to explore the Takaniitunvuori outlook and Vajosuo. <a href="http://www.hikeventures.com/autumn-colors-around-lake-savojarvi/">2 years</a> later I went for another hike to Kujenrahka National Park. 
+To sum up, this was a great hike and I will come back another time in order to explore the Takaniitunvuori outlook and Vajosuo. <a href="http://www.hikeventures.com/autumn-colors-around-lake-savojarvi/">2 years</a> later I went for another hike to Kujenrahka National Park.

@@ -3,7 +3,7 @@ title: Review - Hostel Borea in Turku
 description: An alternative way to overnight in Turku - on a Ship Hotel!
 date: 2014-05-04 19:58:18
 category: articles
-tags: 
+tags:
   - articles
   - accommodations
   - turku
@@ -14,7 +14,10 @@ layout: post
 As I am currently looking for a flat in Turku, I am going to spend my first night in the youth hostel Borea - an old cruise ship located in the the river Aura. And here comes a short review. Hotel guests can get free tea and cookies as well as wifi in the lounge and I even got a whole cabin for myself. There is also a restaurant onboard. Nearby the Hostel Borea you can also see a sailing ship - the Suomen Joutsen and a war ship. The ships are all located nearby the Forum Marinum, a National Specialist Museum for Finnish maritime and naval history.
 
 <a href="https://www.flickr.com/photos/90204224@N07/14106344644" title="Hostel Borea Turku Finland"><img src="https://farm3.staticflickr.com/2937/14106344644_b739c8232e_b.jpg" width="1024" height="683" alt="Hostel Borea Turku Finland hotel travel sleeping best ship visiting"></a>
+
 <!--more-->
+
+{% include banner_ad.html %}
 
 <a href="https://www.flickr.com/photos/90204224@N07/14102619521" title="Borea Hostel Turku Finland"><img src="https://farm6.staticflickr.com/5444/14102619521_7081b7fa92_b.jpg" width="1024" height="683" alt="Borea Hostel Turku Finland hotel travel sleeping best ship visiting"></a>
 

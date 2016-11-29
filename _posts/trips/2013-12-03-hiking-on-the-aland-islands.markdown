@@ -3,7 +3,7 @@ title: Hiking on the Åland Islands
 description: Discovering the Finnish Archipelago
 date: 2012-06-29 14:24:00
 category: destinations
-tags: 
+tags:
   - destinations
   - åland
   - hiking
@@ -12,7 +12,11 @@ layout: post
 This weekend I went to K&ouml;kar, a Swedish speaking municipality with a population of 244 and is part of the &Aring;land Islands (belonging to Finland) which are located between Finland and Sweden. The &Aring;land islands can be reached by ferry from Turku within 2.5 hours.
 
 <img src="https://farm9.staticflickr.com/8479/8197716534_ab72b864df_h.jpg">
+
 <!--more-->
+
+{% include banner_ad.html %}
+
 
 The &Aring;land Islands are part of the Finnish Archipelago and are one of the most popular sailing places of the Northern countries. There is also a ferry connection ([Viking Line][1] and [TallinkSilja][2]) from Turku and Stockholm connecting the &Aring;land Islands  (via Mariehamn)  to the main land. The majority of the population speaks Swedish as their native language.
 
@@ -31,7 +35,7 @@ View backwards to the harbour from where we left.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9173858078"><img src="https://farm8.staticflickr.com/7376/9173858078_6922ff6535_h.jpg" width="1067" height="1600" ></a>
 
-Even so the weather was sunny we felt quite chilly due to the strong wind on board. 
+Even so the weather was sunny we felt quite chilly due to the strong wind on board.
 
 <a href="https://www.flickr.com/photos/90204224@N07/8197744686" title="Ship Flag of Aland Islands Finland"><img src="https://farm9.staticflickr.com/8347/8197744686_e369288f15_h.jpg" width="1600" height="1067" alt="Ship Flag of Aland Islands Finland"></a>
 

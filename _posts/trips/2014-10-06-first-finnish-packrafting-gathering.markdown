@@ -3,7 +3,7 @@ title: First Finnish Packrafting Gathering
 description: Short review of the first Finnish Packrafting Gathering in Finland
 date: 2014-10-06 08:30:40
 category: destinations
-tags: 
+tags:
   - destinations
   - packrafting
   - kymijoki
@@ -13,7 +13,10 @@ layout: post
 Last weekend I have been to the first Finnish Packrafting Gathering in Finland which took place at the Kymijoki river and was organised by [Jaakko][1] and here are some impressions.
 
 [![First Finnish Packraft Gathering][image-1]][2]
+
 <!--more-->
+
+{% include banner_ad.html %}
 
 We met at the Kuovinkallio shelter on Friday evening at around 6 pm where we pitched our tents and gathered around the camp fire to grill sausages while others went already paddling for an hour.
 

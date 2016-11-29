@@ -4,7 +4,7 @@ title: Video - The Fortress Island of Örö
 description: Hiking and Packrafting Adventures on Örö
 date: 2016-07-08 07:30:00
 category: videos
-tags: 
+tags:
   - videos
   - örö
   - packrafting
@@ -16,3 +16,5 @@ Last month we have visited the Fortress Island of Örö in the Finnish Archipela
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6JQMkmEwTRo?rel=0"></iframe>
 </div>
+
+{% include banner_ad.html %}

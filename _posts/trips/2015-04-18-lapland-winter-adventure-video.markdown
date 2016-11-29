@@ -13,3 +13,7 @@ Last February we went to Lapland for some cross-country skiing, snowshoeing, ice
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe src="https://player.vimeo.com/video/125337445" width="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div> <p><a href="https://vimeo.com/125337445">Extreme Sledding and Ice Swimming in Finnish Lapland</a> from <a href="https://vimeo.com/user15105973">Hikeventures</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<!--more-->
+
+{% include banner_ad.html %}

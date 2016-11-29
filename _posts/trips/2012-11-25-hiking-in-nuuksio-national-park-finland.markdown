@@ -3,7 +3,7 @@ title: Nuuksio National Park
 description: The National Park nearby the capital of Finland
 date: 2012-11-25 07:30:00
 category: destinations
-tags: 
+tags:
   - destinations
   - nuuksio
   - finland
@@ -14,6 +14,8 @@ The Nuuksio National Park is located close to Helsinki (1 hour bus trip - 85A fr
 
 <a href="https://www.flickr.com/photos/90204224@N07/8198203106" title="Nuuksio National Park in Finland"><img src="https://farm9.staticflickr.com/8340/8198203106_c0d6968dc9_b.jpg" width="600" alt="Hiking, Backpacking and Camping - Nuuksio National Park in Finland"></a>
 <!--more-->
+
+{% include banner_ad.html %}
 
 ## Activities
 Nuuksio National Park is ideal for hiking, cycling or horse riding. The trails are marked and there are also refuges and fire places. You can also go skiing, swimming, packrafting or stroll through the park to pick mushrooms and berries.
@@ -81,7 +83,7 @@ Toilets - For those who prefer the more civilised way.
 
 An opportunity to refill your water bottle with fresh water.
 
-Since the Nuuksio National Park is located nearby Helsinki it is probably the easiest accessible National Park in Finland for most of the people and there are several buses operating from Helsinki and Espoo. 
+Since the Nuuksio National Park is located nearby Helsinki it is probably the easiest accessible National Park in Finland for most of the people and there are several buses operating from Helsinki and Espoo.
 
 During the weekends the park is sometimes quite crowded especially around the fire places but you can also hike off the main tracks.
 

@@ -1,9 +1,9 @@
 ---
 title: Snowshoeing and Cross-Country Skiing in Urho Kekkonen National Park and Saariselkä
-description: Our adventures in Finnish Lapland. Snowshoeing, Cross-country skiing and emptiness 
+description: Our adventures in Finnish Lapland. Snowshoeing, Cross-country skiing and emptiness
 date: 2015-02-16 19:29:56
 category: articles
-tags: 
+tags:
   - articles
   - snowshoeing
   - finland
@@ -11,13 +11,19 @@ tags:
   - national parks
 layout: post
 ---
-End of January we took a plane from Helsinki to Ivalo with Norwegian to do some snowshoeing and cross-country skiing in Finnish Lapland. Even so it was quite cloudy on our trip we were lucky as most of the tourists visiting Saariselkä are usually visiting Lapland between February and April. So it was not that crowded. Nevertheless, we decided to stay with Suomen Latu in Kiilopää which is located at the entrance of the Urho Kekkonen National Park for three reasons - less tourists, more wilderness and only 20 km away from Saariselkä which we visited with the daily ski bus running between Kiilopää and Saariselkä. <br><br> 
-<a href="https://www.flickr.com/photos/90204224@N07/16347221659" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8673/16347221659_3952a1c6de_b.jpg" width="1024" height="680" alt="Snowshoeing and Cross-Country Skiing in Finnish Lapland - Finland"></a><br><!--more--><br>
+End of January we took a plane from Helsinki to Ivalo with Norwegian to do some snowshoeing and cross-country skiing in Finnish Lapland. Even so it was quite cloudy on our trip we were lucky as most of the tourists visiting Saariselkä are usually visiting Lapland between February and April. So it was not that crowded. Nevertheless, we decided to stay with Suomen Latu in Kiilopää which is located at the entrance of the Urho Kekkonen National Park for three reasons - less tourists, more wilderness and only 20 km away from Saariselkä which we visited with the daily ski bus running between Kiilopää and Saariselkä. <br><br>
+<a href="https://www.flickr.com/photos/90204224@N07/16347221659" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8673/16347221659_3952a1c6de_b.jpg" width="1024" height="680" alt="Snowshoeing and Cross-Country Skiing in Finnish Lapland - Finland"></a>
+
+<!--more-->
+
+{% include banner_ad.html %}
+
+
 <a href="https://www.flickr.com/photos/90204224@N07/16347590197" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8656/16347590197_77b1385e6c_b.jpg" width="1024" height="721" alt="With Norwegian Air from Helsinki to Ivalo in Finnish Lapland - Finland"></a> <br>
 In Helsinki we were waiting to get on board of the Norwegian flight to Ivalo.
  <br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/16507483236" title="Arriving at Ivalo Airport in Finnish Lapland - Finland"><img src="https://farm8.staticflickr.com/7407/16507483236_a91fe9a8b4_b.jpg" width="1024" height="1024" alt="View from the Norwegian Air plane over Finnish Lapland Finland"></a><br>
- 
+
 The flight was pretty smooth. We had no turbulences. Here a view over Lapland shortly before landing in Ivalo.
  <br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/16347589587" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7312/16347589587_7d279f160d_b.jpg" width="1024" height="238" alt="Landing in Ivalo Airport - Finnish Lapland - Finland Winter"></a>
@@ -117,13 +123,13 @@ The view from the summit was just breathtaking.
 Searching for the right way to walk.
  <br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/16531785111" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8615/16531785111_ae734f1226_b.jpg" width="1024" height="680" alt="Trees Lapland Finland Arcteryx Tecto FL jacket Kappa Pants Suunto Ambit3 Saariselkä winter snowshoeing"></a>
-<br> 
+<br>
 Checking the altitude with the Suunto Ambit3.
-<br><br> 
+<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/15913318153" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7306/15913318153_e26043e992_b.jpg" width="1024" height="680" alt="Wearing a Suunto Ambit3 in Saariselkä Snowshoeing winter"></a>
-<br> 
+<br>
 View towards the Saariselkä ski resort.
-<br><br> 
+<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/16347226899" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7454/16347226899_760507c522_b.jpg" width="1024" height="680" alt="View towards Saariselkä Ski resort in winter - Lapland Finland"></a>
  <br>
 Konstantin sitting in a small hut on the way back to the centre of Saariselkä to take the bus back to Kiilopää.
@@ -163,9 +169,9 @@ And then we found a gate to cross the reindeer fence ...
 The Luulampi Päivätupa hut where we decided to stay for a while before we returned back.
  <br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/16532443742" title="Lapland Finland"><img src="https://farm8.staticflickr.com/7454/16532443742_c14b399366_b.jpg" width="1024" height="680" alt="Snowshoes in Lapland Finland"></a>
-<br> 
+<br>
 Leaving our snowshoes in front of the hut.
-<br><br> 
+<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/16507483516" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8595/16507483516_80f9804aa6_b.jpg" width="1024" height="1024" alt="Burning Fire Urho Kekkonen National Park"></a>
  <br>
 And lit on a fire to warm ourselves up.

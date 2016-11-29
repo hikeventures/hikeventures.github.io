@@ -3,7 +3,7 @@ title: The silent hunt in Poland
 description: Hiking and hunting for mushrooms in Poland
 date: 2013-11-03 07:30:00
 category: destinations
-tags: 
+tags:
   - poland
   - destinations
   - mushrooms
@@ -12,13 +12,16 @@ layout: post
 Beginning in late August, Polish forests experience an influx of visitors specialising in the so-called &#39;silent hunt&#39;, which requires a lot of patience, keen eyesight and is not without its dangers. Armed with razor-sharp knives, and in some cases just bare-handed, these hunters comb the forests searching for their illusive pray. The prey, though seemingly benign, can sometimes turn deadly, which is why, besides the steel and muscle, the hunters have to possesses good knowledge, ever- present sense of danger and a keen eye for detail. The silent hunt we are talking about is, of course, the mushroom picking.
 
 <a href="http://www.flickr.com/photos/90204224@N07/10652331775/"><img src="http://farm4.staticflickr.com/3669/10652331775_511c1d55df_c.jpg" width="1150" alt="mushroom picking and hiking in Poland"></a>
+
 <!--more-->
 
-Coming from the families with ancient traditions of the silent hunt, we were especially happy to try our own hand (and, in this case, our eyes) at locating and bagging the prey, when we visited one of the largest forest area in the West of Poland, the place called Puszcza Notecka (which in English means Notecka forest). It was a beautiful October Sunday: the sun was shining, the temperature was around 20 degrees Celsius, the autumn forest was full of red, yellow and green, some occasional clouds floated over the sky taking their rain somewhere else... in other words just a perfect day for picking mushrooms. 
+{% include banner_ad.html %}
 
-Being around 11 a.m. when we stepped off our train from Poznan (after one and a half hour ride), there were no other silent hunters in sight and we had the whole forest for ourselves. Well, at least that what we thought at first. 
+Coming from the families with ancient traditions of the silent hunt, we were especially happy to try our own hand (and, in this case, our eyes) at locating and bagging the prey, when we visited one of the largest forest area in the West of Poland, the place called Puszcza Notecka (which in English means Notecka forest). It was a beautiful October Sunday: the sun was shining, the temperature was around 20 degrees Celsius, the autumn forest was full of red, yellow and green, some occasional clouds floated over the sky taking their rain somewhere else... in other words just a perfect day for picking mushrooms.
 
-As it turned out, our main competitors were there all along: these were the slugs and other creepy-crawlies from Forest Fungal Food Lovers Association (aka FFFLA), who were inconspicuously present all around us. Thus, very often, the mushrooms that appeared perfectly fine on the outside, upon closer examination, had a thriving representation of the FFFLA members. 
+Being around 11 a.m. when we stepped off our train from Poznan (after one and a half hour ride), there were no other silent hunters in sight and we had the whole forest for ourselves. Well, at least that what we thought at first.
+
+As it turned out, our main competitors were there all along: these were the slugs and other creepy-crawlies from Forest Fungal Food Lovers Association (aka FFFLA), who were inconspicuously present all around us. Thus, very often, the mushrooms that appeared perfectly fine on the outside, upon closer examination, had a thriving representation of the FFFLA members.
 
 Nevertheless, we still managed to tackle down and apprehend enough healthy specimens - ideal for a home-made mushroom soup. In some cases, we even shared the mushrooms with our competitors: we took the caps, whereas they could keep the stems (otherwise known stipes).
 
@@ -41,7 +44,7 @@ In addition to the ingredients for fine dining, the autumn forest can share its 
 <a href="http://www.flickr.com/photos/90204224@N07/10648437125/"><img src="http://farm6.staticflickr.com/5499/10648437125_262af15c76_c.jpg" width="1150" alt="mushroom picking and hiking in Poland"></a>
 northern agaric
 
-<a href="http://www.flickr.com/photos/90204224@N07/10647654853/"><img src="http://farm4.staticflickr.com/3772/10647654853_484d295aa0.jpg" width="1150" alt="mushroom picking and hiking in Poland"></a> 
+<a href="http://www.flickr.com/photos/90204224@N07/10647654853/"><img src="http://farm4.staticflickr.com/3772/10647654853_484d295aa0.jpg" width="1150" alt="mushroom picking and hiking in Poland"></a>
 lingonberry or cowberry
 
 <a href="http://www.flickr.com/photos/90204224@N07/10647219563/"><img src="http://farm4.staticflickr.com/3715/10647219563_94a32ca633_c.jpg" width="1150" alt="mushroom picking and hiking in Poland"></a>
@@ -78,7 +81,7 @@ Going off road in the forest is rather easy and one should not be afraid to get 
 
 <a href="http://www.flickr.com/photos/90204224@N07/10646969734/"><img src="http://farm6.staticflickr.com/5538/10646969734_91ee9aaa10_c.jpg" width="1150" alt="mushroom picking and hiking in Poland"></a>
 
-Although it is very easy to reach Puszcza Notecka from Pozna&#324; by car, we decided to rely on the local railway, as we didn&#39;t want to make a long loop walk back. Our 20 km Tour De Forest eventually took us the whole day. The last part of trail we completed in darkness (long live [Pezel Nao][1]!) and reached the next train station around 8 p.m. Surprisingly, we were not the only late-Sunday passengers, as we had expected. 
+Although it is very easy to reach Puszcza Notecka from Pozna&#324; by car, we decided to rely on the local railway, as we didn&#39;t want to make a long loop walk back. Our 20 km Tour De Forest eventually took us the whole day. The last part of trail we completed in darkness (long live [Pezel Nao][1]!) and reached the next train station around 8 p.m. Surprisingly, we were not the only late-Sunday passengers, as we had expected.
 
 <a href="http://www.flickr.com/photos/90204224@N07/10647732575/"><img src="http://farm3.staticflickr.com/2849/10647732575_0d974402e7_c.jpg" width="1150" alt="mushroom picking and hiking in Poland"></a>
 

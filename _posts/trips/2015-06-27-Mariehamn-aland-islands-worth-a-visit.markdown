@@ -3,7 +3,7 @@ title: Visiting Mariehamn on the Åland Islands
 description: A weekend at Mariehamn on tha Aland Islands
 date: 2015-06-28 09:12:00
 category: destinations
-tags: 
+tags:
   - destinations
   - finland
   - åland
@@ -13,7 +13,11 @@ layout: post
 ---
 A few weeks ago I decided to cruise from Turku to Mariehamn on the Aland Islands for a short weekend brake and to explore the city a little bit. Was it worth to visit Mariehamn? Well, taking one of the ferries (in my case Viking Line) from Turku to Mariehamn is already worth to do the trip. It's actually also possible to do some sort of picnic cruise - meaning you will be on the ferry for 12 hours and enjoy a breakfast, lunch or dinner buffet. As I planned to stay one night in Mariehamn I decided to have a lunch buffet (costing around 30 EUR) on each way with Viking Line - highly recommeneded. The food tastes good and you have tons of food options to choose from.
 <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/18512101434" title="2015-05-30 08.11.47"><img src="https://c1.staticflickr.com/1/553/18512101434_432dd1d777_o.jpg" width="992" height="393" alt="Viking Grace Turku harbour harbor Terminal Finland"></a><!--more-->
+<a href="https://www.flickr.com/photos/90204224@N07/18512101434" title="2015-05-30 08.11.47"><img src="https://c1.staticflickr.com/1/553/18512101434_432dd1d777_o.jpg" width="992" height="393" alt="Viking Grace Turku harbour harbor Terminal Finland"></a>
+
+<!--more-->
+
+{% include banner_ad.html %}
 
 Here you can see the Viking Grace - the latest addition to the Viking fleet and one of the first ships which runs on gas rather than diesel oil. The interior of the Viking Grace is also splendid and there are even chcolate bonbons waiting for you in your cabin (in case you have booked one).  There is also some sort of compass projected from the ceiling of the cabin to the bed which gives a really nice impression.<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/18512101444" title="2015-05-30 08.41.56"><img src="https://c1.staticflickr.com/1/303/18512101444_d67a2f570d_o.jpg" width="992" height="744" alt="Viking Grace Flag"></a><br>
@@ -66,7 +70,7 @@ The sailing boats contributed to a nice atmosphere at the maritime quarter how i
 <br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/18513998953" title="2015-05-31 11.08.48"><img src="https://c1.staticflickr.com/1/262/18513998953_d7c6563da7_o.jpg" width="992" height="1323" alt="Mariehamn Knots Maritime Quarter sailing boat"></a><br>
 
-My next stop was the Åland Maritime Museum which I found excellent and which I would recommend to visit anyone coming to Mariehamn. 
+My next stop was the Åland Maritime Museum which I found excellent and which I would recommend to visit anyone coming to Mariehamn.
 <br><br><a href="https://www.flickr.com/photos/90204224@N07/18948485379" title="2015-05-31 12.31.57"><img src="https://c1.staticflickr.com/1/258/18948485379_35fc49ea0f_o.jpg" width="992" height="744" alt="Mariehamn Maritime Ship Musuem"></a><br>
 
 Next to the Maritime Museum is the ship museum Pommern.

@@ -16,10 +16,12 @@ On July 24th at 8.50 am it was time to get on board of the Finnair flight AY557 
 
 <!--more-->
 
-Having been around Ivalo [last year](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/) during the winter time with Konstantin, I decided to go on a hiking and packrafting trip with [Caj](http://caide.kuvat.fi/) who was also traveling with me earlier this year to the first [Swedish Packrafting Round Up](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/) on the Voxnan river in Sweden. 
+{% include banner_ad.html %}
+
+Having been around Ivalo [last year](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/) during the winter time with Konstantin, I decided to go on a hiking and packrafting trip with [Caj](http://caide.kuvat.fi/) who was also traveling with me earlier this year to the first [Swedish Packrafting Round Up](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/) on the Voxnan river in Sweden.
 
 # On the plane to Ivalo
-The Finnair flight was quite peacful even so it was fully booked. I was sitting on the second last row of the plane. Usually, I prefer to sit more in the front of the plane since it's faster to get out and there is no queue of people waiting to get into the toilet. Anyway the cabin crew was friendly and served me free blueberry juice and tea which I was sipping slowly while watching out of the window - clouds passing by below me somewhere over Kajaani. 
+The Finnair flight was quite peacful even so it was fully booked. I was sitting on the second last row of the plane. Usually, I prefer to sit more in the front of the plane since it's faster to get out and there is no queue of people waiting to get into the toilet. Anyway the cabin crew was friendly and served me free blueberry juice and tea which I was sipping slowly while watching out of the window - clouds passing by below me somewhere over Kajaani.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28587408582/in/dateposted-public/" title="Finnair Flight Kaldoaivi Wilderness Area Finland"><img src="https://c7.staticflickr.com/9/8449/28587408582_f8e2fb27cb_k.jpg" width="2048" height="1194" alt="Lake Inari from the air plane Finland Finnair"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -31,11 +33,11 @@ My plane was landing in Ivalo at 10.20 am. Once we left the plane in Ivalo I pic
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28587409322/in/dateposted-public/" title="Ivalo Airport Hiking Packrafting Kaldoaivi"><img src="https://c3.staticflickr.com/9/8582/28587409322_b2c3bc7311_k.jpg" width="2048" height="1486" alt="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # Siida museum
-The Siida museum was one of the main attractions I was interested in. It displays the history and culture of the Sami people and with my museum card which I purchased a few weeks ago I was able to get into every museum in Finland for free. 
+The Siida museum was one of the main attractions I was interested in. It displays the history and culture of the Sami people and with my museum card which I purchased a few weeks ago I was able to get into every museum in Finland for free.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28587409522/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c3.staticflickr.com/9/8575/28587409522_cba21d4461_k.jpg" width="2048" height="1294" alt="Siida Museum Inari Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-The Siida museum had a room which displayed a comparison of the history of the area compared to the global history over the time. On the next floor there was the main exhibition which displayed the nature and culture of the area during the seasons which I found quite interesting and there was a lot to read. Next we went outside where we walked a trail which displayed different houses of the Sami. 
+The Siida museum had a room which displayed a comparison of the history of the area compared to the global history over the time. On the next floor there was the main exhibition which displayed the nature and culture of the area during the seasons which I found quite interesting and there was a lot to read. Next we went outside where we walked a trail which displayed different houses of the Sami.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28693116145/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c2.staticflickr.com/9/8658/28693116145_f8540ec37e_k.jpg" width="2048" height="1365" alt="Traps Siida Sami Museum Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -47,7 +49,7 @@ After the Siida museum we decided to have lunch in the nearby village. The food 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28587409972/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/9/8740/28587409972_ef30aa5a04_k.jpg" width="2048" height="1310" alt="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # Day 1
-After we recharged with pancakes we went to the starting point of our packrafting trip and inflated our packrafts. There were many mosquitoes. Caj and Katja decided to use some mosquitoe spray. 
+After we recharged with pancakes we went to the starting point of our packrafting trip and inflated our packrafts. There were many mosquitoes. Caj and Katja decided to use some mosquitoe spray.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28693117495/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c8.staticflickr.com/9/8649/28693117495_602896641a_k.jpg" width="2048" height="1339" alt="Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -64,7 +66,7 @@ The first view minutes were already fantastic and we finally we got rid of the m
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408870540/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/8/7737/28408870540_09d9641a79_k.jpg" width="2048" height="1365" alt="Ailijärvi Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Snow mobile tracks, quad bike and a sunset
-During our trip we came across to many signs which marked the snowmobile path which goes over the lakes during the winter time. We had to step out once we crossed to Ailijärvi lake to walk a few hundred meters crossing a reindeer fence until we reached the Katriinajärvi lake. 
+During our trip we came across to many signs which marked the snowmobile path which goes over the lakes during the winter time. We had to step out once we crossed to Ailijärvi lake to walk a few hundred meters crossing a reindeer fence until we reached the Katriinajärvi lake.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076102624/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/9/8423/28076102624_cbc2741c07_k.jpg" width="2048" height="1536" alt="Reindeer Fence Katriinajärvi Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -72,7 +74,7 @@ After a some paddling it was time to hike again next to a swamp for another 1 km
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408870920/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/9/8195/28408870920_72569182fb_k.jpg" width="2048" height="1365" alt="Flowers and plants in the Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-The Sundeejärvi lake was 3 km long and we enjoyed a great sunset while we were paddling there with our packrafts. 
+The Sundeejärvi lake was 3 km long and we enjoyed a great sunset while we were paddling there with our packrafts.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28693144165/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c6.staticflickr.com/9/8604/28693144165_f8b5238f19_k.jpg" width="2048" height="1536" alt="Sunset Sundeejärvi Sevettijärvi Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -85,7 +87,7 @@ Once we pitched our tents we collected firewood and prepared our dinner. We had 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28587412032/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/8/7645/28587412032_97628b42d7_k.jpg" width="2048" height="1365" alt="Preparing a camp fire in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Suddenly, we heared some voices and saw a group of 4 people hiking against our direction. They were probably hiking to a summer cottage. It was 12pm when we finally fell asleep. It started to rain during the night but we stayed dry in our tents. 
+Suddenly, we heared some voices and saw a group of 4 people hiking against our direction. They were probably hiking to a summer cottage. It was 12pm when we finally fell asleep. It started to rain during the night but we stayed dry in our tents.
 
 # Day 2
 The next morning I woke up at 9 am. Caj and Katja were still sleeping till 10 am. We prepared porridge, tea and had some ruis chips before we packed our gear and refilled our water bottles on the stream. I used a [Sawyer water filter](https://www.rei.com/product/890900/sawyer-mini-water-filter) even so it would be probably possible to drink the water straight away from the stream and filled my [Nalgene bottle](https://www.rei.com/product/106339/rei-nalgene-wide-mouth-loop-top-water-bottle-32-fl-oz).
@@ -97,11 +99,11 @@ I also discussed the use of ultralight gear on our trips and we both came to the
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408871560/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/9/8631/28408871560_19f702eb26_k.jpg" width="2048" height="1431" alt="Packing Gear Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Hiking, climbing and swimming
-We put our dry suites on and hiked 1 km to the Opukasjärvi lake. The sun was shining and the water was warm. 
+We put our dry suites on and hiked 1 km to the Opukasjärvi lake. The sun was shining and the water was warm.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28693125625/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c2.staticflickr.com/9/8483/28693125625_966273fed2_k.jpg" width="2048" height="1362" alt="Opukasjärvi Astral V-Eight PFD, HMG Porter and Alpackaraft in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-First we paddled to a rapid and then to the Opukassokka Fjell on the opposite site of the lake. Then I was testing my new [Astral Designs V-Eight PFD](http://www.backcountry.com/astral-v-eight-personal-flotation-device) with my dry suit and we decided to climb a Fjell afterwards. There were many blueberries. 
+First we paddled to a rapid and then to the Opukassokka Fjell on the opposite site of the lake. Then I was testing my new [Astral Designs V-Eight PFD](http://www.backcountry.com/astral-v-eight-personal-flotation-device) with my dry suit and we decided to climb a Fjell afterwards. There were many blueberries.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408874080/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/9/8464/28408874080_4a0515d1da_k.jpg" width="2048" height="1365" alt="Testing Astral V-Eight in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -131,7 +133,7 @@ We pitched our tent at 10 pm, made fire and then it started to rain again. On th
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28615541061/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c6.staticflickr.com/9/8786/28615541061_9d63a0bfd1_k.jpg" width="2048" height="1357" alt="Blå Band camping food in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # Day 3
-The next day it was still raining in the morning. I woke up at 9 am. Caj and Katja were still sleeping for another hour. I decided to sit in the tent and to wait that it finally stopped raining. 
+The next day it was still raining in the morning. I woke up at 9 am. Caj and Katja were still sleeping for another hour. I decided to sit in the tent and to wait that it finally stopped raining.
 
 When Caj and Katja climbed out of their tent we prepared fire and breakfast and packed our gear. It was time to paddle again.
 
@@ -153,16 +155,16 @@ Someone left the root of a pine tree on a stone. They contain tar and are quite 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076105124/in/dateposted-public/" title="Pine Tree root tar fire in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/9/8697/28076105124_f165f9f281_k.jpg" width="2048" height="1536" alt="Pine tree tar fire Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Back to the water
-We were paddling again for 1 km until we reached a spot where we had to change to the Rekkiluobâl lake. The two lakes were seperated  by a reindear fence and a small piece of land. Fortunately, we found a door in the fence and were able to carry our packrafts from the Syrjäjärvi to the Rekkiluobâl lake. 
+We were paddling again for 1 km until we reached a spot where we had to change to the Rekkiluobâl lake. The two lakes were seperated  by a reindear fence and a small piece of land. Fortunately, we found a door in the fence and were able to carry our packrafts from the Syrjäjärvi to the Rekkiluobâl lake.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28587409132/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/9/8121/28587409132_a089c32406_k.jpg" width="2048" height="1536" alt="Syrjäjärvi Reindeer Fence in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Two rapids and an accident
-There were 2 rapids which were running against us until we reached the Räkkijärvi. At the first rapid we were able to paddle up the stream. On the second rapid - the Täyttämakoski - we had to step out and walk around it. 
+There were 2 rapids which were running against us until we reached the Räkkijärvi. At the first rapid we were able to paddle up the stream. On the second rapid - the Täyttämakoski - we had to step out and walk around it.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28587427752/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/8/7596/28587427752_2e355a574e_k.jpg" width="2048" height="1536" alt="Täyttämakoski Rapid in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Caj tried to pull his packraft with a rope up the Täyttämakoski rapid but it did not work. The packraft flipped and Katja fell into the rapid while she was trying to help Caj. Caj was a bit disappointed after this event and wanted to set the camp but we decided to continue paddling until we found a better spot to camp. 
+Caj tried to pull his packraft with a rope up the Täyttämakoski rapid but it did not work. The packraft flipped and Katja fell into the rapid while she was trying to help Caj. Caj was a bit disappointed after this event and wanted to set the camp but we decided to continue paddling until we found a better spot to camp.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28077386593/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c2.staticflickr.com/9/8625/28077386593_77bb162c11_k.jpg" width="2048" height="1536" alt="Map in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -178,10 +180,10 @@ Then we had to paddle to the next section of the Jänisjärvi lake on a stream r
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076106064/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/9/8576/28076106064_4e9dbf76e7_k.jpg" width="2048" height="1536" alt="Jänisjärvi Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Pitching our tents
-At the end of the lake we decided to pitch our tents. And it started to rain again. Pitching a tent in the rain is quite a good test on how fast you can set up a tent when you are in a hurry. On this trip I was testing the [Marmot Force UL 2P](http://www.hikeventures.com/Marmot-Force-UL-2P/) and had a bit of a trouble to place the outer tent into the right direction since I was not able to see the markings on the outer tent properly. However, the inner tent did not get that wet and I dried the inner tent with my towel. 
+At the end of the lake we decided to pitch our tents. And it started to rain again. Pitching a tent in the rain is quite a good test on how fast you can set up a tent when you are in a hurry. On this trip I was testing the [Marmot Force UL 2P](http://www.hikeventures.com/Marmot-Force-UL-2P/) and had a bit of a trouble to place the outer tent into the right direction since I was not able to see the markings on the outer tent properly. However, the inner tent did not get that wet and I dried the inner tent with my towel.
 
 ## Preparing dinner
-Then we started to collect firewood and prepared our dinner. Fortunately, we were able to find the root of a pine tree - which contains tar - so we were able to lit a fire in the rain. 
+Then we started to collect firewood and prepared our dinner. Fortunately, we were able to find the root of a pine tree - which contains tar - so we were able to lit a fire in the rain.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076097904/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/9/8607/28076097904_37a9b52446_k.jpg" width="2048" height="1365" alt="Camping in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -190,7 +192,7 @@ Mashed potatoes, vegetarian chorizo with onions and paprika in tomatoe sauce was
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28661114216/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/9/8178/28661114216_0250bfefb7_k.jpg" width="2048" height="1365" alt="Rain Lake Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # Day 4
-I woke up at 8 am. The others were still sleeping. Again we had a lot of wind but it was not raining. I decided to walk around and to explore the area a bit with my Sony A7 / Zeiss Batis 25mm combo and took a few pictures until Caj and Katja woke up. 
+I woke up at 8 am. The others were still sleeping. Again we had a lot of wind but it was not raining. I decided to walk around and to explore the area a bit with my Sony A7 / Zeiss Batis 25mm combo and took a few pictures until Caj and Katja woke up.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076098984/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/9/8675/28076098984_8e84bae4c0_k.jpg" width="2048" height="1365" alt="Preparing Breakfast - Coffee and Tea - Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -198,7 +200,7 @@ We prepared breakfast, packed our gear and crossed the nearby road to the last b
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28077388243/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c4.staticflickr.com/9/8794/28077388243_b4fbb82428_k.jpg" width="2048" height="1536" alt="Packrafting Sevettijärvi in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-At 4.30 pm Caj left us to get the Car and we transported his car to the next sand beach where we agreed to meet. As the wind came sidewards towards us it was a bit harder to paddle. Caj arrived at the sand beach before we were able to reach it. We carried our packrafts to the shore, deflated our packrafts and packed our gear into the car. 
+At 4.30 pm Caj left us to get the Car and we transported his car to the next sand beach where we agreed to meet. As the wind came sidewards towards us it was a bit harder to paddle. Caj arrived at the sand beach before we were able to reach it. We carried our packrafts to the shore, deflated our packrafts and packed our gear into the car.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076106854/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c7.staticflickr.com/9/8727/28076106854_cebbb1a9e2_k.jpg" width="2048" height="1536" alt="Alpackaraft Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -207,7 +209,7 @@ While I was wearing only sandals the last 4 days it was now time to wear my hiki
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28587408802/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c3.staticflickr.com/9/8156/28587408802_46f3cd3050_k.jpg" width="2048" height="1365" alt="Lundhags Jaure Light High  hiking boots in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # A night in a cabin
-This night we dicided to stay in a cabin as most of our gear was wet and we had plans to drive to Norway to see the Arctic Sea which is just a one-two hours drive away from Sevettijärvi. 
+This night we dicided to stay in a cabin as most of our gear was wet and we had plans to drive to Norway to see the Arctic Sea which is just a one-two hours drive away from Sevettijärvi.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28077375743/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c8.staticflickr.com/9/8279/28077375743_8aff836117_k.jpg" width="2048" height="1033" alt="Peuralammen Camping Sevettijärvi in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -215,11 +217,11 @@ Once we arrived at the Peuralammen Camping in Sevettijärvi we had a pancake, bo
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076099554/in/dateposted-public/" title="Sauna Peuralammen Camping in Sevettijärvi Finland"><img src="https://c3.staticflickr.com/9/8478/28076099554_30c0a65388_k.jpg" width="2048" height="1365" alt="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-The cabin including pandcakes, coffee, tea and sauna was 74 EUR which is reasonably priced and actually quite cheap for an accomodation in Finland. At 10.30 we fell asleep with a few mosquitoes flying around in our cabin. The next morning we woke up at 9 am, had some pancakes and packed our bags. On the way to the main road we passed by an old Russian cemetery. Most of the names on the grave stones had similar last names. 
+The cabin including pandcakes, coffee, tea and sauna was 74 EUR which is reasonably priced and actually quite cheap for an accomodation in Finland. At 10.30 we fell asleep with a few mosquitoes flying around in our cabin. The next morning we woke up at 9 am, had some pancakes and packed our bags. On the way to the main road we passed by an old Russian cemetery. Most of the names on the grave stones had similar last names.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28077378033/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c2.staticflickr.com/9/8808/28077378033_bb05d3a443_k.jpg" width="2048" height="1365" alt="Orthodox Cemetery Sevettijärvi Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-There was also some sort of art hanging from the tree - a lot of postcards arranged in the shape of Finland, with postcards from different places in Finland. 
+There was also some sort of art hanging from the tree - a lot of postcards arranged in the shape of Finland, with postcards from different places in Finland.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076101634/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c3.staticflickr.com/9/8787/28076101634_dde2cc7db2_k.jpg" width="2048" height="1365" alt="Postcards Sevettijärvi Art Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

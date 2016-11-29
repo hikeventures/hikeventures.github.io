@@ -15,6 +15,8 @@ Last Friday I was cycling from Turku along the Archipelago Trail - a 250 km trip
 
 <!--more-->
 
+{% include banner_ad.html %}
+
 My first stop was the church in Raisio.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28507744483/in/dateposted-public/" title="The Archipelago Trail | Saariston Rengastie"><img src="https://c4.staticflickr.com/9/8298/28507744483_4bcd1c9d03_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie Raisio Church"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -43,7 +45,7 @@ Just next to the Askaisten Church is the 'Askaisten Ritaripuisto' - or The Knigh
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29126592675/in/dateposted-public/" title="The Archipelago Trail | Saariston Rengastie"><img src="https://c4.staticflickr.com/9/8056/29126592675_d9d6f672d3_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie Askaisten Ritaripuisto The Knights' Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-My trip continued to Kustavi along fields and bridges. Fortunately, the full moon lightened up the night so it was not too dark to cycle. The road felt a bit dangerous to cycle during the night as there were quite a few cars passing by with very high speed. Once I arrived nearby the Hepponiemi ferry at 12 pm I decided to pitch my [Marmot Force UL 2P](http://www.backcountry.com/marmot-force-ul-2p-tent-2-person-3-season) tent (which Marmot provided me for my trips this year) nearby the street as the first ferry was about to leave at around 8 am. 
+My trip continued to Kustavi along fields and bridges. Fortunately, the full moon lightened up the night so it was not too dark to cycle. The road felt a bit dangerous to cycle during the night as there were quite a few cars passing by with very high speed. Once I arrived nearby the Hepponiemi ferry at 12 pm I decided to pitch my [Marmot Force UL 2P](http://www.backcountry.com/marmot-force-ul-2p-tent-2-person-3-season) tent (which Marmot provided me for my trips this year) nearby the street as the first ferry was about to leave at around 8 am.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29093763286/in/dateposted-public/" title="The Archipelago Trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8503/29093763286_3847971a3d_k.jpg" width="2048" height="1152" alt="The Archipelago Trail | Saariston Rengastie moon"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -173,7 +175,7 @@ Again there was a sailing ship attached to the ceiling of the church.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28509776853/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c6.staticflickr.com/9/8396/28509776853_f03c0f3bc4_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Nauvo Church nagu kykrka ship"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-The Nagu (or Nauvo) church was built in the 1400-century. 
+The Nagu (or Nauvo) church was built in the 1400-century.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29095863606/in/dateposted-public/" title="The archipelago trail | Saariston Rengastie"><img src="https://c7.staticflickr.com/9/8198/29095863606_629cee002f_k.jpg" width="2048" height="1152" alt="The archipelago trail | Saariston Rengastie Nauvo Church nagu kykrka"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -217,4 +219,3 @@ Enjoyed a last view from the next bridge and then I arrived in Turku.
 
 # Conclusion
 I really enjoyed this bicycle trip but I would only recommend the part from Kustavi to Turku. The part between Turku and Kustavi is not that exciting except the city of Naantali (one of the highlights on this trip) and maybe the Askainen Knights Park and Louhisaari Manor (which I did not visit). Also I was cycling quite fast so you should probably add another day into your itinerary in case you are planning to cycle the Archipelago Trail as well. It might be also a good idea to spend a few days on the islands to explore them or to relax especially if the scenery is new for you.
-

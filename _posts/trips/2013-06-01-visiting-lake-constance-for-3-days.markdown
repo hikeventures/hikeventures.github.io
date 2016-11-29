@@ -1,9 +1,9 @@
 ---
 title: Lake constance in 3 days
 date: 2013-06-01 07:30:00
-description: On this adventure I enjoyed the scenic view towards the Alps. 
+description: On this adventure I enjoyed the scenic view towards the Alps.
 category: destinations
-tags: 
+tags:
   - destinations
   - germany
   - lake lonstance
@@ -12,7 +12,12 @@ layout: post
 ---
 The lake constance area is a great place if you are looking for multiple activities in your vacation. The lake constance is located between Germany, Switzerland and Austria and gives you the possibility to visit 3 countries in 1 day with a bicycle. Beside cycling you can also go to the Alps hiking or skiing or enjoy a great view from the W&uuml;rttembergischen Allg&auml;u towards the Alps. From here you are able to see the Alps from Germany, Austria, Switzerland and France.
 
-<a href="https://www.flickr.com/photos/90204224@N07/8915058739"><img src="https://farm3.staticflickr.com/2822/8915058739_a89786bf10_b.jpg" width="1024" height="683" alt="panorama bodensee pfänder visiting lake constance bodensee"></a><!--more-->
+<a href="https://www.flickr.com/photos/90204224@N07/8915058739"><img src="https://farm3.staticflickr.com/2822/8915058739_a89786bf10_b.jpg" width="1024" height="683" alt="panorama bodensee pfänder visiting lake constance bodensee"></a>
+
+
+<!--more-->
+
+{% include banner_ad.html %}
 
 Swiss Alps were close to my fingertips.
 

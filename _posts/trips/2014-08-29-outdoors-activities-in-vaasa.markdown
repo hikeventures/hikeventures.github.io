@@ -3,7 +3,7 @@ title: Outdoors Activities in Vaasa
 description: Ideas on how you can spend your time outdoors in Vaasa.
 date: 2014-08-29 13:38:54
 category: destinations
-tags: 
+tags:
   - destinations
   - packrafting
   - vaasa
@@ -15,6 +15,9 @@ There are plenty of possibilities for outdoors activities in Vaasa especially wh
 
 <a href="https://www.flickr.com/photos/90204224@N07/12029550054" title="Snowshoeing in Finland"><img src="https://farm6.staticflickr.com/5502/12029550054_c77d37a788_b.jpg" width="600" alt="Snowshoeing in Finland"></a>
 <!--more-->
+
+{% include banner_ad.html %}
+
 
 ## Packrafting in Pilvilampi
 <a href="http://www.valppaus.com/" target="_blank">Joni</a>  and me went packrafting to Pilvilampi, a recreational area nearby Vaasa and a paradise for birdwatchers.
@@ -35,7 +38,7 @@ Day dreaming while packrafting.
 <a href="http://hikeventures.com/gear-review-suunto-ambit-2-black-hr/" target="_self">Suunto Ambit2</a>  tracked my route
 
 <a href="https://www.flickr.com/photos/90204224@N07/9373174776" title="Suunto Ambit 2"><img src="https://farm6.staticflickr.com/5545/9373174776_c4f05fd02d_b.jpg" width="1024" height="715" alt="Suunto Ambit 2"></a>
-Water lilies ... 
+Water lilies ...
 
 <a href="https://www.flickr.com/photos/90204224@N07/9370399879" title="Packrafting Finland"><img src="https://farm4.staticflickr.com/3767/9370399879_f23aba7da8_b.jpg" width="1024" height="326" alt="Packrafting Finland"></a>
 
@@ -52,7 +55,7 @@ Approximately 5 km south of the Vaasa city center there is a possibility to hike
 <a href="https://www.flickr.com/photos/90204224@N07/9254202081" title="SDIM2584"><img src="https://farm3.staticflickr.com/2841/9254202081_9969c4e4be_b.jpg" width="1024" height="683" alt="SDIM2584"></a>
 
 Those books where you can leave a note can be found at several constructions maintained by <a href="http://www.metsa.fi/" target="_blank">Metsähallitus</a> , a state enterprise which administers state-owned land and water areas in Finland.
-  
+
 I also hiked to the bird tower during winter. The landscape is more grey but it's still nice to go outside and to enjoy the nature.
 
 <img src="http://farm3.staticflickr.com/2841/11708441294_4b52e7e643_c.jpg" alt="Hiking Lunch">
@@ -116,11 +119,11 @@ It was quite interesting to hike in Kajane since I would have never thought of t
 ## Skiing and Snowboarding in Öjberget
 <a href="http://www.flickr.com/photos/90204224@N07/8510930814/"><img src="http://farm9.staticflickr.com/8100/8510930814_97b995ec14_c.jpg" width="800" height="534" alt="Öjberget"></a>
 
-Öjberget is a small ski hill nearby the village of Sundom. If you are living in Vaasa and want to enjoy a nice scenery or do some downhill, crosscountry skiing or snowboarding then you should visit Öjberget. 
+Öjberget is a small ski hill nearby the village of Sundom. If you are living in Vaasa and want to enjoy a nice scenery or do some downhill, crosscountry skiing or snowboarding then you should visit Öjberget.
 
 <a href="https://www.flickr.com/photos/90204224@N07/8509823077" title="SDIM0588"><img src="https://farm9.staticflickr.com/8228/8509823077_f6310322f6_b.jpg" width="1024" height="683" alt="SDIM0588"></a>
 
-The hill is 45 m high and has a length of 325 m. There is also an observation tower on top of the hill. Further, you can find a  5 km long cross-country ski run which is also lighted in the evening. 4000 years ago the hill has been an island 30 km away from the shore. 
+The hill is 45 m high and has a length of 325 m. There is also an observation tower on top of the hill. Further, you can find a  5 km long cross-country ski run which is also lighted in the evening. 4000 years ago the hill has been an island 30 km away from the shore.
 
 Obviously, you can not compare this hill to the Alps but it has the highest elevation in the area and is great place to start learning Skiing and Snowboarding. I often visited Öjberget with my bicycle. The distance is approximately 10 km from from the city center.
 
@@ -134,7 +137,7 @@ The meteor crater in Söderfjärden seen from the observation tower. The meteor 
 
 Björköby is located 20 km north of Vaasa and was originally an island before it got connected with the longest bridge in Finland to the mainland.
 
-Once you reach Björköby watch out for a sign to Kalasatama - a fishing harbour where you can park your car. 
+Once you reach Björköby watch out for a sign to Kalasatama - a fishing harbour where you can park your car.
 From here you can hike 3 km until you reach a hut where you can make fire and grill your sausages. The hut is locked so you need to <a href="http://www.stormossen.fi/Mokkien_jatteet" target="_blank">get the key</a> beforehand. On this trip I saw the remaining of stoves from the Russian Army when they were fighting against the Swedish Army somewhat before 1809 when Finland became a Grand Duchy of the Russian Empire.
 
 <a href="http://www.flickr.com/photos/90204224@N07/10129611693/"><img src="http://farm4.staticflickr.com/3725/10129611693_11edd5574d_c.jpg" width="800" height="534" alt="Björköby"></a>
@@ -170,7 +173,7 @@ Also fire wood and a fire place are available.
 <a href="http://www.flickr.com/photos/90204224@N07/10129635944/"><img src="http://farm8.staticflickr.com/7417/10129635944_8af31344db_c.jpg" width="800" height="534" alt="Björkeby fireplace"></a>
 
 ## Packrafting in Replot
- 
+
 Having had no plans for this Sunday, I spontaneously went out with some friends to Fjardskar - a recreation place just before the Replot bridge - the longest bridge of Finland (1.045 m). At Fjardskar you can do water sports, having a barbecue or go for a short hike.
 
 <a href="http://www.flickr.com/photos/90204224@N07/9283289693/"><img src="http://farm6.staticflickr.com/5445/9283289693_0332d58ae3_c.jpg" width="800" height="534" alt="Longest bridge of Finland"></a>
@@ -196,7 +199,7 @@ Well maintained trails and destination signs are part of the hiking experience i
 
 <a href="http://www.flickr.com/photos/90204224@N07/10129401795/"><img src="http://farm8.staticflickr.com/7422/10129401795_224252d173_c.jpg" width="800" height="534" alt="anthill "></a>
 
-I have spotted a huge anthill on the trail. Was wondering how long it takes for ants to build such an huge ant hill ... 
+I have spotted a huge anthill on the trail. Was wondering how long it takes for ants to build such an huge ant hill ...
 
 <a href="http://www.flickr.com/photos/90204224@N07/10129508306/"><img src="http://farm4.staticflickr.com/3672/10129508306_75800620f3_c.jpg" width="800" height="534" alt="Arctic Lichen"></a>
 
@@ -240,7 +243,7 @@ Following the trail towards Aurinkolaavu. Again the trails are very well marked 
 
 <a href="http://www.flickr.com/photos/90204224@N07/12133761794/"><img src="http://farm8.staticflickr.com/7293/12133761794_e8c069e81b_c.jpg" width="800" height="534" alt="icicle in finland"></a>
 
-Icicle almost everywhere ... 
+Icicle almost everywhere ...
 
 <a href="http://www.flickr.com/photos/90204224@N07/12133780674/"><img src="http://farm3.staticflickr.com/2817/12133780674_de23f3e580_c.jpg" width="800" height="534" alt="Snowshoes"></a>
 
@@ -298,6 +301,6 @@ Orthodox Church of Vaasa.
 
 <a href="http://www.flickr.com/photos/90204224@N07/11645659604" ><img src="http://farm6.staticflickr.com/5510/11645659604_80e0296f8f_c.jpg" alt="Vaasa Bothnian Sea Winter"></a>
 
-Bus services in Vaasa are not that good. You either need a bicycle or a car to get to some of the places described above (also check the weather forecast before you leave with your bicycle). Also it is a good idea to get some cash from an ATM if you want to use public transportation. There is also an [outdoor shop][1] where you can buy some essentials. 
+Bus services in Vaasa are not that good. You either need a bicycle or a car to get to some of the places described above (also check the weather forecast before you leave with your bicycle). Also it is a good idea to get some cash from an ATM if you want to use public transportation. There is also an [outdoor shop][1] where you can buy some essentials.
 
 [1]:	http://www.kurre.fi

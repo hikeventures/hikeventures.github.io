@@ -11,15 +11,19 @@ tags:
   - sweden
 layout: post
 ---
-We fell asleep almost instantly the night before in our tent which we pitched on an island in the lake Inngajávri after having [packrafted][1] till late in the night. Patrick only had a few issues with his sleeping pad - the Therm-a-Rest Evolite which is a self-inflating sleeping pad for the summer - which was probably not that suitable for lower night temperatures here in the North. Patrick had to wear an additional Merino base layer and added another layer of thermo foil on top of his sleeping pad to get a proper insulation. Konstantin however had a proper night sleep on his Therm-a-Rest NeoAir Xtherm. 
+We fell asleep almost instantly the night before in our tent which we pitched on an island in the lake Inngajávri after having [packrafted][1] till late in the night. Patrick only had a few issues with his sleeping pad - the Therm-a-Rest Evolite which is a self-inflating sleeping pad for the summer - which was probably not that suitable for lower night temperatures here in the North. Patrick had to wear an additional Merino base layer and added another layer of thermo foil on top of his sleeping pad to get a proper insulation. Konstantin however had a proper night sleep on his Therm-a-Rest NeoAir Xtherm.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/23038401724/in/dateposted-public/" title="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"><img src="https://farm1.staticflickr.com/668/23038401724_c44ed21b04_b.jpg" width="100%" alt="MSR Hubba Hubba NX Sweden Abisko - Therm-a-Rest XTherm - Exped Air Pillow"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><!--more-->
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/23038401724/in/dateposted-public/" title="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"><img src="https://farm1.staticflickr.com/668/23038401724_c44ed21b04_b.jpg" width="100%" alt="MSR Hubba Hubba NX Sweden Abisko - Therm-a-Rest XTherm - Exped Air Pillow"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<!--more-->
+
+{% include banner_ad.html %}
 
 And that's how the tent wall looks like when you go camping in Scandinavia - hungry mosquitoes waiting for their breakfast.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/23298614679/in/dateposted-public/" title="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"><img src="https://farm6.staticflickr.com/5713/23298614679_ff3a4efaa6_b.jpg" width="100%" alt="MSR Hubba Hubba Sweden NX Abisko"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Once we got out of the tent we enjoyed the breathtaking view towards the Swedish mountains which were still covered with snow. 
+Once we got out of the tent we enjoyed the breathtaking view towards the Swedish mountains which were still covered with snow.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/21885051180/in/dateposted-public/" title="Packrafting in Abisko, Sweden"><img src="https://farm6.staticflickr.com/5683/21885051180_963c46af51_b.jpg" width="100%" alt="Camping in Abisko, Sweden - Therm-a-Rest Evolite"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -27,7 +31,7 @@ After we packed our backpacks and enjoyed our breakfast we continued our paddlin
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/90204224@N07/23370868060/in/dateposted-public/" title="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"><img src="https://farm6.staticflickr.com/5698/23370868060_d817fd836b_b.jpg" width="768" height="1024" alt="Suunto Ambit3 and GoPro  - Torneträsk - Abisko Sweden - HMG Porter 4400 - Alpacka Raft"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Sometimes Patrick also checked the altitude and the distance on his [Suunto Ambit3][2] and took a few pictures with the assistance of the GoPro [remote control][3]. 
+Sometimes Patrick also checked the altitude and the distance on his [Suunto Ambit3][2] and took a few pictures with the assistance of the GoPro [remote control][3].
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/23687507625/in/dateposted-public/" title="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"><img src="https://farm1.staticflickr.com/732/23687507625_4301791f3d_b.jpg" width="100%" alt="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden - Suunto Ambit3 - GoPro Remote Control - Roeckl"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -75,11 +79,11 @@ The rapid became a bit unpredictable and at some spots quite dangerous to paddle
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/90204224@N07/23640419666/in/dateposted-public/" title="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"><img src="https://farm6.staticflickr.com/5624/23640419666_5ef5e2f79c_b.jpg" width="100%" alt="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden - HMG Porter 4400"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-After walking for a while we figured out that it still might take a while until we could start packrafting again so we packed our packrafts and attached them on our backpacks. At this moment we realised that hiking boots would have been a better solutions rather than walking with our sandals. We had to climb up steep hills and it was rather slippery. And then there were also those hungry mosquitoes ... 
+After walking for a while we figured out that it still might take a while until we could start packrafting again so we packed our packrafts and attached them on our backpacks. At this moment we realised that hiking boots would have been a better solutions rather than walking with our sandals. We had to climb up steep hills and it was rather slippery. And then there were also those hungry mosquitoes ...
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/90204224@N07/23584041531/in/dateposted-public/" title="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"><img src="https://farm6.staticflickr.com/5724/23584041531_b8cacd53d2_b.jpg" width="100%" alt="Wearing a Petzl Meteor3 helmet and Werner Paddles  while Packrafting Njuoreatnu - Torneträsk - Abisko Sweden - PEtzl Meteor helmet - Alpacka Raft - HMG Porter 4400 - Werner Shuna Paddles"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Finally, we found a spot where we were able to packraft again. 
+Finally, we found a spot where we were able to packraft again.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/90204224@N07/23557946362/in/dateposted-public/" title="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"><img src="https://farm1.staticflickr.com/685/23557946362_90c4a0b150_b.jpg" width="100%" alt="Torneträsk - Abisko Sweden - Rapid"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -95,7 +99,7 @@ After walking for a while we were able to see the last bridge on this river. At 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/90204224@N07/23640403316/in/dateposted-public/" title="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"><img src="https://farm6.staticflickr.com/5647/23640403316_8fabf1f001_b.jpg" width="768" height="1024" alt="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden - Alpacka Raft"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-From the bridge we had a nice view towards the Torneträsk lake (the second deepest and the sixth largest lake in Sweden). 
+From the bridge we had a nice view towards the Torneträsk lake (the second deepest and the sixth largest lake in Sweden).
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/90204224@N07/23640400566/in/dateposted-public/" title="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"><img src="https://farm6.staticflickr.com/5665/23640400566_951781e997_b.jpg" width="100%" alt="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden - Suspension Bridge"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

@@ -3,7 +3,7 @@ title: Hiking in Seitseminen
 description: Our adventure at Seitseminen National Park - Beautiful lakes and hiking trails
 date: 2012-11-27 07:30:00
 category: destinations
-tags: 
+tags:
   - destinations
   - hiking
   - seitseminen
@@ -15,17 +15,19 @@ This time we went for an adventure to the Seitseminen National Park. Unfortunate
 [![Hiking in Seitseminen Swamp][image-1]][1]
 <!--more-->
 
+{% include banner_ad.html %}
+
 The park is quite suitable for shorter hikes but can be extended by visiting the neighbouring Helvetinjärvi National Park. Facilities in the Seitseminen National Park are quite good and there are plenty of wells and shelters where you can stay over night.
 
 If you like mushrooms, make sure to keep your eyes open. You can collect them on the way and prepare a prepare a nice dinner later on in the camp.
 
 [![backpacking seitseminen national park][image-2]][2]
 
-We entered the Park via the Seitseminen Nature Centre where we got maps and snacks as well as internet access. After having refreshed ourselves in the Visitor Centre we started walking towards the Kovero Crown Tenant Farm. 
+We entered the Park via the Seitseminen Nature Centre where we got maps and snacks as well as internet access. After having refreshed ourselves in the Visitor Centre we started walking towards the Kovero Crown Tenant Farm.
 
 [![camping seitseminen national park][image-3]][3]
 
-The Kovero Crown Tenant Farm has been renovated and looks the same as in the 1930s. 
+The Kovero Crown Tenant Farm has been renovated and looks the same as in the 1930s.
 
 [![travel seitseminen national park][image-4]][4]
 
@@ -68,7 +70,7 @@ There are several trails in the Seitseminen Natioanl Park:
 [![Seitseminen National Park][image-11]][11]
 On the way to the National Park.
 
-To summarise, Seitseminen is quite a relaxing place for a weekend trip where you can discover plenty of interesting spots. It's located nearby Tampere and easy to reach if you are living in Southern Finland. 
+To summarise, Seitseminen is quite a relaxing place for a weekend trip where you can discover plenty of interesting spots. It's located nearby Tampere and easy to reach if you are living in Southern Finland.
 
 [1]:	https://www.flickr.com/photos/90204224@N07/8197699522
 [2]:	https://www.flickr.com/photos/90204224@N07/8223401641

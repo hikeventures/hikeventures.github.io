@@ -18,6 +18,8 @@ After our [packrafting trip](http://www.hikeventures.com/Kaldoaivi/) in Finnish 
 
 <!--more-->
 
+{% include banner_ad.html %}
+
 The border between Finland and Norway is nothing special. There was a custom office but no passport control. I jumped out of the car as I always wanted to walk over the Finnish - Norwegian border.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28638037691/in/dateposted-public/" title="Border Finland Norway "><img src="https://c4.staticflickr.com/9/8293/28638037691_6ac0cef7b8_k.jpg" width="2048" height="1365" alt="Näätämon tulli border finland norway neiden to kirkenes"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -49,7 +51,7 @@ The altar of the church. The chandelier was made in Helsinki. Probably an indica
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716058245/in/dateposted-public/" title="Hiking and Packrafting in Norway"><img src="https://c6.staticflickr.com/9/8209/28716058245_eb4b6e2081_k.jpg" width="1365" height="2048" alt="Hiking and Packrafting in Norway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # Fjord and Øvre Pasvik National Park
-On the way to Kirkenes we stopped and climbed up a rock where we enjoyed a breathtaking view over the Fjord and the Øvre Pasvik National Park. 
+On the way to Kirkenes we stopped and climbed up a rock where we enjoyed a breathtaking view over the Fjord and the Øvre Pasvik National Park.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28431558190/in/dateposted-public/" title="Hiking and Packrafting in Norway"><img src="https://c7.staticflickr.com/9/8846/28431558190_dd0f45beec_k.jpg" width="2048" height="1365" alt="Climbing Fjord and the Øvre Pasvik National Park Norway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -62,11 +64,11 @@ After a few kilometers we arrived in Kirkenäs which is only a few kilometers aw
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716059555/in/dateposted-public/" title="Hiking and Packrafting in Norway"><img src="https://c4.staticflickr.com/9/8515/28716059555_8b25ba428e_k.jpg" width="2048" height="1365" alt="Kirkenes City Center Norway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-In Kirkenes we had Greek Salad  for 145 Krona in the Centrum Kafe. Next to the cafe was the tourist office. We asked the what we could do here and he answered that there are a few Russian statues and a museum about the Second Worldwar and the Sami culture but otherwise there is nothing much to see in town. This was probably the most funniest tourist office I have ever visited. On the other hand it's a great customer service if you have a tourist office even so there are hardly any tourist attractions. We decided to have a cup of tea and continued our trip with the car on the E6 to Bugøynes - a one hour drive northwest of Kirkenes. 
+In Kirkenes we had Greek Salad  for 145 Krona in the Centrum Kafe. Next to the cafe was the tourist office. We asked the what we could do here and he answered that there are a few Russian statues and a museum about the Second Worldwar and the Sami culture but otherwise there is nothing much to see in town. This was probably the most funniest tourist office I have ever visited. On the other hand it's a great customer service if you have a tourist office even so there are hardly any tourist attractions. We decided to have a cup of tea and continued our trip with the car on the E6 to Bugøynes - a one hour drive northwest of Kirkenes.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28098541014/in/dateposted-public/" title="Hiking and Packrafting in Norway"><img src="https://c7.staticflickr.com/9/8157/28098541014_961f97ad3c_k.jpg" width="2048" height="1365" alt="Driving on the E6 from Kirkenes to Bugøynes"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-On the way to Bugøynes we saw a few reindeers walking around next to the road. We stopped a few times on the road along the Arctic Sea. Such a strong wind. 
+On the way to Bugøynes we saw a few reindeers walking around next to the road. We stopped a few times on the road along the Arctic Sea. Such a strong wind.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716060755/in/dateposted-public/" title="Hiking and Packrafting in Norway"><img src="https://c4.staticflickr.com/9/8606/28716060755_0596cd42cf_k.jpg" width="2048" height="1365" alt="Bugøynes wind hiking in Norway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -75,7 +77,7 @@ On one sand beach nearby Bugøynes we found the leg of a king crab on the beach.
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28098545154/in/dateposted-public/" title="Hiking and Packrafting in Norway"><img src="https://c3.staticflickr.com/9/8472/28098545154_cc106e59bc_k.jpg" width="2048" height="1365" alt="King Crabs Bugøynes Arctic Sea Beach Lundhags Jaure Light High"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # Bugøynes
-Once we reached Bugøynes we visited the local cemetery as it was home of the Boreal Jacobs Ladder (Polemonium boreale) which can only be found here in Scandinavia. 
+Once we reached Bugøynes we visited the local cemetery as it was home of the Boreal Jacobs Ladder (Polemonium boreale) which can only be found here in Scandinavia.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28100330143/in/dateposted-public/" title="Hiking and Packrafting in Norway"><img src="https://c8.staticflickr.com/9/8393/28100330143_c2ce1c7e5e_k.jpg" width="2048" height="1365" alt="Boreal Jacobs Ladder Polemonium Boreale Bugøynes"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -83,7 +85,7 @@ Many gravestones had Finnish names on it.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28098547174/in/dateposted-public/" title="Hiking and Packrafting in Norway"><img src="https://c7.staticflickr.com/9/8604/28098547174_16d7f4a29b_k.jpg" width="2048" height="1365" alt="Bugøynes cemetery Norway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-The village also offered an ice sauna directly at the beach which costs around 25 EUR per person. The Sauna had a Finnish name and there were quite a few people in the village who were able to speak Finnish. 
+The village also offered an ice sauna directly at the beach which costs around 25 EUR per person. The Sauna had a Finnish name and there were quite a few people in the village who were able to speak Finnish.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28098546244/in/dateposted-public/" title="Hiking and Packrafting in Norway"><img src="https://c5.staticflickr.com/8/7651/28098546244_48ebb19a5f_k.jpg" width="2048" height="1365" alt="Bugøynes Beach Norway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -94,7 +96,7 @@ We liked that Bugøynes had houses in different colors and some houses were also
 Then we went to the local grovery store where we bought our breakfast for the next day as we were planning to camp nearby the shore of the Arctic Sea. We also asked if there is any restaurant in the village and heared that there was a restaurant a few meters up the road which is called Bistro. Caj and Katja decided to order a King Crab and I had a oven potatoe with salad. For desert we decided to have pancake which we had to prepare ourselves. The restaurant had a big aquarium with king crabs in it and there was also free wifi which we used to check our mails. After we had dinner we went to the local tourist office and had a chat with the  person working in it. There was also a festival in town during this weekend and we decided to visit the Bugøynes festival where we listened to live music.
 
 # Camping at the Arctic Sea
-After our short visit at the Bugøynes festival we drove the street back with our car to the direction where we came from and pitched our tents on a place which looked less windy. 
+After our short visit at the Bugøynes festival we drove the street back with our car to the direction where we came from and pitched our tents on a place which looked less windy.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28098548314/in/dateposted-public/" title="Hiking and Packrafting in Norway"><img src="https://c3.staticflickr.com/9/8759/28098548314_3618ccb134_k.jpg" width="2048" height="1365" alt="Hiking and Packrafting in Norway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -106,7 +108,7 @@ Even on the top of the rocks I could find evidence of sea life. Probably a bird 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28431563900/in/dateposted-public/" title="Hiking and Packrafting in Norway"><img src="https://c5.staticflickr.com/9/8144/28431563900_910ab34b66_k.jpg" width="2048" height="1365" alt="Sea Life Norway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Then I reach the top of the rock which was an excellent good spot to take a picture from Bugøynes and the the Norwegian shore. 
+Then I reach the top of the rock which was an excellent good spot to take a picture from Bugøynes and the the Norwegian shore.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28098549834/in/dateposted-public/" title="Hiking and Packrafting in Norway"><img src="https://c3.staticflickr.com/9/8671/28098549834_f88d12391f_k.jpg" width="2048" height="1365" alt="Bugøynes Norway Sea Coast Cliffs"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -114,7 +116,7 @@ Again, very strong wind was blowing against my face from the Arctic Sea.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28610160262/in/dateposted-public/" title="Hiking and Packrafting in Norway"><img src="https://c7.staticflickr.com/9/8658/28610160262_7e33dd3d1d_k.jpg" width="2048" height="1365" alt="Hiking and Packrafting in Norway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Once back in our camp, Caj was waiting with hot tea and we decided to have a walk along the sand beach afterwards. 
+Once back in our camp, Caj was waiting with hot tea and we decided to have a walk along the sand beach afterwards.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716075995/in/dateposted-public/" title="Hiking and Packrafting in Norway"><img src="https://c4.staticflickr.com/9/8500/28716075995_e66b16f803_k.jpg" width="2048" height="1365" alt="Bugøynes Cliffs Beach in Norway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -142,7 +144,7 @@ At the church there were also prehistoric graves and a sacrificial stone from ea
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28683317946/in/dateposted-public/" title="Hiking and Packrafting in Norway"><img src="https://c3.staticflickr.com/9/8831/28683317946_00a3e7149d_k.jpg" width="2048" height="1365" alt="Graves Cemetery Nesseby Church"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # Vadsø
-Around 11 am we arrived in Vadsø. It was raining and we decided to drive to the 'island' part of the city to have a short walk. 
+Around 11 am we arrived in Vadsø. It was raining and we decided to drive to the 'island' part of the city to have a short walk.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28100343483/in/dateposted-public/" title="Hiking and Packrafting in Norway"><img src="https://c4.staticflickr.com/9/8478/28100343483_6bf7329d7d_k.jpg" width="2048" height="1365" alt="Vadsø City Norway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -154,7 +156,7 @@ After lunch we visited the Tuomainen Farm (originally called Vinikka Farm) or Kv
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716090605/in/dateposted-public/" title="Hiking and Packrafting in Norway"><img src="https://c6.staticflickr.com/9/8782/28716090605_289a225152_k.jpg" width="2048" height="1365" alt="Varanger Museum Tuomainen Farm Norway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # Climbing a Fjell and watching Reindeers
-After our visit to the Tuomainen museum we decided to walk up a nearby Fjell 121 m above the sea level which seemed to be the highest point around Vadsø with a great view over the Varanger Fjord and the city. 
+After our visit to the Tuomainen museum we decided to walk up a nearby Fjell 121 m above the sea level which seemed to be the highest point around Vadsø with a great view over the Varanger Fjord and the city.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716092715/in/dateposted-public/" title="Hiking and Packrafting in Norway"><img src="https://c4.staticflickr.com/9/8361/28716092715_5fa30c19f1_o.jpg" width="5476" height="3651" alt="Hiking and Packrafting in Norway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -168,7 +170,7 @@ Once we were back in the city we had a cup of tea and decided to look for a camp
 We decided to take it easy as the weather was not that good and stayed at Vestre Jakobselv Camping where we rented a cabin for around 60 eur and one hour Sauna for about 10 EUR. There was also a small restaurant in the village called "Lille Chili" where we had dinner.
 
 # Packrafting in the Arctic See
-The next morning we woke up at 8.30am, had breakfast in our cabin, packed our gear and drove to the shore of the Arctic Sea (Varanger Fjord). 
+The next morning we woke up at 8.30am, had breakfast in our cabin, packed our gear and drove to the shore of the Arctic Sea (Varanger Fjord).
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716092505/in/dateposted-public/" title="Hiking and Packrafting in Norway"><img src="https://c2.staticflickr.com/9/8125/28716092505_57d7c90a6c_o.jpg" width="6000" height="4000" alt="Packrafting in the Arctic See in Norway Varrenger Fjord"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -192,7 +194,7 @@ After days of rain and cold weather it was nice to sit at the shore and enjoy th
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28917207041/in/dateposted-public/" title="Hiking in Northern Norway"><img src="https://c2.staticflickr.com/9/8699/28917207041_3d0e8c2d3a_k.jpg" width="2048" height="1152" alt="Vatsø Nesseby Shore beach summer sun in Norway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-At the nearby fisher hut there were again fish drying racks and a fisher net. People here really life from the sea. 
+At the nearby fisher hut there were again fish drying racks and a fisher net. People here really life from the sea.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28683329936/in/dateposted-public/" title="Hiking and Packrafting in Norway"><img src="https://c1.staticflickr.com/9/8795/28683329936_8c0c873623_b.jpg" width="683" height="1024" alt="Fisher Net Vatsø Varanger Fjord in Norway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -211,15 +213,15 @@ While I sat down and enjoyed the scenery.
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28100352343/in/dateposted-public/" title="Hiking and Packrafting in Norway"><img src="https://c8.staticflickr.com/9/8746/28100352343_7ae97906e9_o.jpg" width="6000" height="4000" alt="Lundhags Jaure Light High Vatsø in Norway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # Tana bridge and Utsjoki
-On the way back to Finland we crossed the Tana bridge in Norway which is the most popular salmon fishing river in Finland and a fishing permit is needed to fish there. 
+On the way back to Finland we crossed the Tana bridge in Norway which is the most popular salmon fishing river in Finland and a fishing permit is needed to fish there.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28098582164/in/dateposted-public/" title="Hiking and Packrafting in Norway"><img src="https://c5.staticflickr.com/9/8751/28098582164_7bc2e6fd7b_o.jpg" width="5638" height="3758" alt="Tana bridge in Norway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-We were driving along the road which goes next to the Tana river to Utsjoki. The landscape was awesome - the long valley with the Tana river in front of us and the Fjells next to us. The trees were already taller than at the sea and there were much more of them. There were hardly any houses along the road to Utsjoki. When we reached the Norwegian-Finnish border I decided to jump out of the car and walk over the Sami bridge. 
+We were driving along the road which goes next to the Tana river to Utsjoki. The landscape was awesome - the long valley with the Tana river in front of us and the Fjells next to us. The trees were already taller than at the sea and there were much more of them. There were hardly any houses along the road to Utsjoki. When we reached the Norwegian-Finnish border I decided to jump out of the car and walk over the Sami bridge.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28100353043/in/dateposted-public/" title="Hiking and Packrafting in Norway"><img src="https://c4.staticflickr.com/9/8581/28100353043_ebfa890fe4_o.jpg" width="5730" height="3820" alt="Sami bridge Utsjoki"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-The Tana river was flowing under me and in the middle of the bridge was a sign showing the border between Norway and Finland. 
+The Tana river was flowing under me and in the middle of the bridge was a sign showing the border between Norway and Finland.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28683336136/in/dateposted-public/" title="Hiking and Packrafting in Norway"><img src="https://c1.staticflickr.com/9/8898/28683336136_b2e83164a8_o.jpg" width="6000" height="4000" alt="Sami bridge Utsjoki Tana border"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -230,11 +232,11 @@ On the way to Inari we saw plenty of reindeers. They are usually not running awa
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28638072271/in/dateposted-public/" title="Hiking and Packrafting in Finland"><img src="https://c8.staticflickr.com/9/8899/28638072271_bc8832bfce_o.jpg" width="3152" height="1505" alt="Reindeer Inari Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Once we arrived in Inari we went to the local K-Market to buy some food for the evening. Then we went up to Tuulisjärvi where we walked partly along the lake. 
+Once we arrived in Inari we went to the local K-Market to buy some food for the evening. Then we went up to Tuulisjärvi where we walked partly along the lake.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28098583324/in/dateposted-public/" title="Hiking and Packrafting in Finland"><img src="https://c5.staticflickr.com/9/8792/28098583324_d71eff6e05_o.jpg" width="5657" height="3772" alt="Tuulisjärvi Inari Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-As it was already 22.30 we returned to the place where we left our car and pitched our tents. As the sunset was so beautiful I went up to the hill with the radio antenna to get a few more pictures over the Inari lake. 
+As it was already 22.30 we returned to the place where we left our car and pitched our tents. As the sunset was so beautiful I went up to the hill with the radio antenna to get a few more pictures over the Inari lake.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28638072911/in/dateposted-public/" title="Hiking and Packrafting in Finland"><img src="https://c8.staticflickr.com/9/8660/28638072911_ee20544a78_o.jpg" width="5472" height="3648" alt="Sunset Inari lake Tuulisjärvi Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

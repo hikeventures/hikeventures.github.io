@@ -12,7 +12,11 @@ layout: post
 ---
 Last weekend we got plenty of snow in Turku and I seized the opportunity to rush out with my camera to take some pictures. First I went to the city centre but then decided to drive to Ruissalo which is also a cool place during the summer time. 
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/90204224@N07/24409302876/in/dateposted-public/" title="Turku, Finland"><img src="https://farm2.staticflickr.com/1590/24409302876_89a3f1c7fd_b.jpg" width="100%" alt="Winter Tourism & Travel in Turku, Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><!--more-->
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/90204224@N07/24409302876/in/dateposted-public/" title="Turku, Finland"><img src="https://farm2.staticflickr.com/1590/24409302876_89a3f1c7fd_b.jpg" width="100%" alt="Winter Tourism & Travel in Turku, Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<!--more-->
+
+{% include banner_ad.html %}
 
 From Ruissalso you can also see those big ferries which are cruising between Turku, Mariehamn and Stockholm. Personally, I like Southwestern Finland best so far. Turku has a special charm compared to Helsinki. It’s not too big and offers lots of cultural activities and touristic attractions. Turku is also a great town for families (I have lived 3 years in Helsinki, 2 years in Vaasa and since 2 years in Turku).
 

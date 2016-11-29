@@ -8,28 +8,30 @@ footer: false
 published: true
 ---
 
+{% include banner_ad.html %}
+
 <div class="table">
 
       <table class="table table-hover table-condensed">
         <tbody>
- 
 
 
- 
+
+
             <tr>
             <td><strong>Backpacks & Bags</strong></td><td></td></tr>
-        
+
         <tr>
 
             <td><a href="/aquapac-waterproof-camera-pouch">Aquapac Waterproof Camera Pouch</a></td>
             <td><a href="/gear-review-hmg-porter-4400-black">HMG Porter 4400 black</a></td>
-            
+
           </tr>  
-           
+
    <tr>
    <td><a href="/gear-review-laufbursche-huckepack-hp450">Laufbursche Huckepack Hp450</a></td>
              <td><a href="/gear-review-ortlieb-document-case-a4">Ortlieb Document Case A4</a></td>
-             
+
              </tr><tr>
             <td><a href="/gear-review-sea-to-summit-ultra-sil-drysack">Sea to Summit Ultra Sil DrySack</a></td>
           <td><a href="/gear-review-the-north-face-base-camp-duffle">The North Face Base Camp Duffle</a></td>
@@ -40,37 +42,37 @@ published: true
           <td><a href="/gear-review-the-north-face-base-camp-duffle">The North Face Base Camp Duffle</a></td>
 
  </tr>
-          
+
 <tr>
              <td><a href="/Thule-Atmos-X3">Thule Atmos X3</a></td>
              <td><a href="/Thule-Atmos-X4/">Thule Atmos X4</a></td>
              </tr>
              <tr>
-             
+
              <td><a href="/Thule-Capstone-50L-women/">Thule Capstone 50L Women</a>  </td>
           <td><a href="/Thule-Chasm-XL-Duffle-Bag">Thule Chasm Duffle</a></td>
 </tr>
 
 <tr>
-        
+
 
           <td><a href="/thule-Perspektiv-action-camera-case">Thule Perspektiv Action Camera Case</a></td>
 
       <td><a href="/Thule-Legend-GoPro-case-etui">Thule Legend GoPro</a></td>
-       
-             
+
+
 
  </tr>
 
 
-      
- 
- 
- 
+
+
+
+
 <tr>
-        
+
         <td><strong>Camping Kitchen</strong></td><td></td></tr>
-        
+
  <tr>
 
             <td><a href="/gear-review-jetboil-sol-ti">Jetboil Sol Ti</a></td>
@@ -84,13 +86,13 @@ published: true
 </tr>
 
  <tr>
-         
+
             <td><a href="/gear-review-steripen-freedom">SteriPen Freedom</a></td>
          <td><a href="/with-the-thermos-bottle-over-the-arctic-circle">Thermos bottle</a></td>
 
   </tr>
 
-       
+
 
 
 
@@ -111,10 +113,10 @@ published: true
    		<td><a href="/gear-review-arcteryx-squamish-hoody">Arcteryx Squamish Hoody</a></td>
    		    <td><a href="/arcteryx-tecto-fl-jacket">Arcteryx Tecto FL jacket</a></td>
  </tr>
- 
+
 <tr>
 
-       
+
             <td><a href="/deuter-boulder-gaiter">Deuter Boulder Gaiter</a></td>
               <td><a href="/haglofs-LIM-pant/" target="_self">Haglöfs L.I.M III Pants</a></td>
 
@@ -131,8 +133,8 @@ published: true
                  <td><a href="/hiking-gear-rab-alpine-mircrolight">Rab Microlight Alpine Jacket</a></td>
 
 </tr>
- <tr> 
-            
+ <tr>
+
         	<td><a href="/gear-review-montbell-u-dot-l-down-parka">Montbell U.L. Down Parka</a></td>
         	<td><a href="http://hikeventures.com/polychromelab-alta-quota/" target="_self">polychromelab Alta Quota</a></td>
 
@@ -140,13 +142,13 @@ published: true
     <tr>
             <td><a href="http://hikeventures.com/salomon-speedcross-3/" target="_self">Salomon Speedcross 3</a></td>
             <td></td>
-          
+
   </tr>
-  
-  
-  
-  
-  
+
+
+
+
+
 
 
 <tr>
@@ -158,10 +160,10 @@ published: true
              </tr>
 <tr>
             <td><a href="/astral-ytv">Astral YTV</a></td>
-           
+
 
       <td><a href="/petzl-meteor-3-plus-helmet">Petzl Meteor 3+ Helmet</a></td>
-      
+
        </tr>
 <tr>
       <td><a href="/Sea-to-Summit-Ultra-Flex-Booties">Sea to Summit Ultra Flex Booties</a></td>
@@ -170,9 +172,9 @@ published: true
 <tr>
       <td><a href="/windpaddle-sails-for-packrafting">WindPaddle Sail</a></td>
       <td></td>
-     
+
 </tr>
-        
+
 
 <tr>
         	<td><strong>Snowshoeing</strong></td><td></td></tr>
@@ -180,21 +182,21 @@ published: true
 
             <td><a href="/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/">MSR Revo Ascent</a></td>
             <td><a href="/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/">MSR Lightning Ascent</a></td>
-            
+
              </tr>
 <tr>
             <td><a href="/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/">MSR Deploy T2</a></td>
             <td><a href="/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/">MSR Flight 2</a></td>
       </tr>
-            
+
     <tr>
-            
+
                <td><a href="/tubbs-xpedition-snowshoes">Tubbs Xpedition Snowshoes</a></td>
                <td></td>
-            
+
       </tr>
-        
-        
+
+
         <tr>
         	<td><strong>Other Gear</strong></td><td></td></tr>
         <tr>
@@ -207,27 +209,27 @@ published: true
             <td><a href="http://hikeventures.com/waterproof-maps">Calazo Maps</a></td>
       </tr>
       <tr>
-               
+
             <td><a href="/field-notes-expedition-and-space-pen">Field Notes Expedition and Space Pen</a></td>
             <td><a href="/luci-r-outdoor-not-a-toy">Luci Outdoor Latern</a></td>
              </tr>
       <tr>
-                       
+
                        <td><a href="http://hikeventures.com/luminaid">luminAID</a></td>
                        <td><a href="/petzl-attache-3d">Petzl Attache 3D</a></td>
 
 	</tr><tr>
-               		
-               
+
+
             <td><a href="/petzl-nao-headlamp-test">Petzl Nao headlamp</a></td>
 <td></td>
         </tr>
 
 
 
-       
-       
-  
+
+
+
 
 <tr>
 
@@ -239,7 +241,7 @@ published: true
        <td><a href="/gear-review-suunto-ambit-2-black-hr">Suunto Ambit 2 Black HR</a></td>
         </tr>
         <tr>
-  
+
 	 <td><a href="/best-wallet-hiking-backpacking">Fjällräven Zip Card Holder</a></td>
          <td><a href="/Julbo-Swell">Julbo Swell</a></td>
         </tr>
@@ -259,24 +261,24 @@ published: true
 
 <td><a href="/gear-review-katabatic-gear-chisos">Katabatic Gear Chisos Quilt</a></td>
               <td><a href="/Marmot-Force-UL-2P/" target="_self">Marmot Force UL 2P</a></td>
-            
-          
+
+
 
          </tr>
-       
-       
+
+
         <tr>
 
   <td><a href="/mountain-equipment-ar-ultralite-2/" target="_self">Mountain Equipment AR Ultralite 2</a></td>
             <td><a href="http://www.hikeventures.com/Therm-a-Rest-EvoLite/">Therm-a-Rest EvoLite</a></td>
-            
+
 
          </tr>
 
 
 
 
-        
+
         </tbody>
       </table>
 </div>

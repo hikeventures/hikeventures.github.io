@@ -3,7 +3,7 @@ title: Packrafting in Turku
 description: Packrafting Microadventure in Turku
 date: 2014-06-07 20:39:30
 category: destinations
-tags: 
+tags:
   - destinations
   - turku
   - finland
@@ -13,7 +13,11 @@ layout: post
 Today, I packed my packraft and went to the coast of Turku in order to exercise a little bit for our trip in Sweden next week. I paddled around 5 km, however there are endless possibilities to paddle as there are plenty of islands in the Baltic Sea around Turku.<BR><BR>
 
 <a href="https://www.flickr.com/photos/90204224@N07/14367437345/" title="Packrafting in Turku"><img src="https://farm3.staticflickr.com/2938/14367437345_ae2301ac88_b.jpg" width="1024" height="683" alt="Packrafting in Turku"></a>
-<!--more--><br><center>
+
+
+<!--more-->
+
+{% include banner_ad.html %}
 
 <a href="https://www.flickr.com/photos/90204224@N07/14180924087/" title="Packrafting in Turku"><img src="https://farm3.staticflickr.com/2934/14180924087_43b2a78a7c_b.jpg" width="1024" height="683" alt="Packrafting in Turku"></a><br>Inflating the packraft and checking its condition.<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/14344255006/" title="Teva Northridge"><img src="https://farm3.staticflickr.com/2931/14344255006_0d15150c78_b.jpg" width="1024" height="683" alt="Teva Northridge"></a><br>This is my current packrafting shoe solution - it's modular, dry, waterproof and has a great grip.<br><br>

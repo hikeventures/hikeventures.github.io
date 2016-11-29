@@ -14,9 +14,13 @@ layout: post
 ---
 After a chilly night in our tent which we pitched on a small island we woke up still a little bit exhausted from the [previous day][1] and prepared some breakfast. While the fog was gone there were still a few clouds in the sky but the weather looked promising.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/90204224@N07/23666479785/in/dateposted-public/" title="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"><img class="img-responsive" src="https://farm6.staticflickr.com/5656/23666479785_8413cf951a_b.jpg" width="100%"alt="MSR Hubba Hubba NX - Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><!--more-->
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/90204224@N07/23666479785/in/dateposted-public/" title="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"><img class="img-responsive" src="https://farm6.staticflickr.com/5656/23666479785_8413cf951a_b.jpg" width="100%"alt="MSR Hubba Hubba NX - Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-After crawling out of the tent we explored our little island. 
+<!--more-->
+
+{% include banner_ad.html %}
+
+After crawling out of the tent we explored our little island.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/90204224@N07/23640393976/in/dateposted-public/" title="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"><img src="https://farm1.staticflickr.com/767/23640393976_e94ea0c562_b.jpg" width="100%" alt="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden - MSR Hubba Hubba NX - Alpacka Raft"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -32,7 +36,7 @@ It was time to pack our backpacks and to leave the island. Our goal was to reach
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/23584012281/in/dateposted-public/" title="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"><img src="https://farm1.staticflickr.com/727/23584012281_dd8ef2e307_b.jpg" width="100%" alt="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden - MSR Hubba Hubba NX - Arcteryx Squamish Hoody - Alpacka Raft - HMG Porter 4400"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Since Patrick lost his PFD the previous day he decided to paddle along the shore while Konstantin explored some rocks which poked out in the middle of the Torneträsk lake. It would have been quite a long swim to the shore if Konstantin would have faced any issues with his packraft. 
+Since Patrick lost his PFD the previous day he decided to paddle along the shore while Konstantin explored some rocks which poked out in the middle of the Torneträsk lake. It would have been quite a long swim to the shore if Konstantin would have faced any issues with his packraft.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/23640378186/in/dateposted-public/" title="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"><img src="https://farm1.staticflickr.com/692/23640378186_a7379633bd_b.jpg" width="100%" alt="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden - Petzl Meteor helmet - Luci Outdoor Lantern - Windpaddle Sail"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -40,11 +44,11 @@ The landscape was just fantastic. I think the clouds made the whole area look ev
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/23557913082/in/dateposted-public/" title="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"><img src="https://farm1.staticflickr.com/739/23557913082_faeb222318_b.jpg" width="100%" alt="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden - HMG Porter 4400 - Alpack raft"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-After a few hours of paddling we decided to get out of our packrafts and to continue our trip on the land. 
+After a few hours of paddling we decided to get out of our packrafts and to continue our trip on the land.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/23557902422/in/dateposted-public/" title="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"><img src="https://farm1.staticflickr.com/614/23557902422_6a5fe3c0e7_b.jpg" width="100%" alt="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden - Anfibio Packsuit - Werner Shuna Paddles -HMG Porter 4400 - Alpacka Raft - Suunto Ambit3"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-During our hike we also met a few hikers which also indicated that we were already close to our starting point. 
+During our hike we also met a few hikers which also indicated that we were already close to our starting point.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/23370767850/in/dateposted-public/" title="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"><img src="https://farm6.staticflickr.com/5655/23370767850_4af9554026_b.jpg" width="768" height="1024" alt="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden - Anfibio Packsuit - HMG Porter 4400 - Hyperlite Mountain Gear - Alpacka Raft - Teva Sandals"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -60,7 +64,7 @@ Who wouldn’t like to go hiking and packrafting here?
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/90204224@N07/23557883602/in/dateposted-public/" title="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"><img src="https://farm1.staticflickr.com/630/23557883602_ed77e52e53_b.jpg" width="100%" alt="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-At 2 pm we arrived at the STF Turiststation Abisko and we went straight to the Restaurant. On the picture Patrick is pointing to the location where we were paddling. 
+At 2 pm we arrived at the STF Turiststation Abisko and we went straight to the Restaurant. On the picture Patrick is pointing to the location where we were paddling.
 
 The food was actually quite good and affordable (dinner however was quite expensive and we decided to skip it). There was a small shop in the hostel where we bought some snacks. I am not sure why the dinner is that pricey there … probably they are focusing more on quality tourists rather than the average backpacker. However, if you don’t want to camp there is a possibility to get an affordable shared room or a more pricey “hotel” room. We decided to stay one night in the shared room since Patrick got a flu on the last day of the trip.
 

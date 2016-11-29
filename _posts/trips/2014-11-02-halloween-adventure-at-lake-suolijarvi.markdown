@@ -3,7 +3,7 @@ title: Halloween Adventure at Lake Suolijärvi
 description: Our Hiking and Paddling Adventure on Halloween in Finland
 date: 2014-11-02 10:31:22
 category: destinations
-tags: 
+tags:
   - destinations
   - hiking
   - packrafting
@@ -14,7 +14,10 @@ layout: post
 This Halloween, we decided to go to Lake Suolijärvi nearby Hyvinkää in Finland to do some Paddling and Hiking. [Janne][1] has sent me a [link][2] with the map beforehand, showing where shelters have been built in the Sveitsi - Kytäjän wilderness area.
 
 <a href="https://www.flickr.com/photos/90204224@N07/15687184261"><img src="https://farm4.staticflickr.com/3938/15687184261_2c7af34fd4_b.jpg" width="1024" height="683" alt="Iso-Haiskari - Alpacka Raft Yukon Yak Finland"></a>
+
 <!--more-->
+
+{% include banner_ad.html %}
 
 ## 1. Kytäjärvi to Iso-Haiskari
 We started our trip from the car park next to lake Kytäjärvi, crossed it via the dam and followed the trail while passing by horse stables and farms. After a hike of 3 km we arrived in our first camp Iso-Haiskari.
@@ -68,7 +71,7 @@ We paddled around the lake at Iso-Haiskari.
 <a href="https://www.flickr.com/photos/90204224@N07/15690670232" ><img src="https://farm8.staticflickr.com/7561/15690670232_dddd4414c7_b.jpg" width="1024" height="683" alt="Packrafting in Finland Iso-Haiskari"></a>
 
 ## 2. Iso-Haiskari to Kolmiperslammi
-From Iso-Haiskari we carried our boats to Kolmiperslammi. Of course, it's much more easy to carry a 2.5 kg Packraft rather than a 21 kg canoe. 
+From Iso-Haiskari we carried our boats to Kolmiperslammi. Of course, it's much more easy to carry a 2.5 kg Packraft rather than a 21 kg canoe.
 
 <a href="https://www.flickr.com/photos/90204224@N07/15689041615"><img src="https://farm4.staticflickr.com/3937/15689041615_bf8451248d_b.jpg" width="1024" height="687" alt="Mobile Light Canoeing in Finland"></a>
 
@@ -104,7 +107,7 @@ But they had a beautiful structure.
 
 <a href="https://www.flickr.com/photos/90204224@N07/15504377170"><img src="https://farm4.staticflickr.com/3946/15504377170_b9808c73c7_b.jpg" width="1024" height="566" alt="Ice structures on lake in Finland - Haiskarinpoika"></a>
 
-And then there was the warming sun again shining on some rocks where Janne just paddled by. 
+And then there was the warming sun again shining on some rocks where Janne just paddled by.
 
 <a href="https://www.flickr.com/photos/90204224@N07/15069822293"><img src="https://farm4.staticflickr.com/3949/15069822293_33ee9ef4ce_b.jpg" width="1024" height="663" alt="Rocks in a lake in Finland - Haiskarinpoika"></a>
 
@@ -126,7 +129,7 @@ But we reached Kiiskilampi where we had a short break.
 ## 7. Kiiskilampi to Suolijärvi
 At Kiiskilampi, I climbed a rock from where I had a nice view over the lake. <a href="https://www.flickr.com/photos/90204224@N07/15665403926" ><img src="https://farm4.staticflickr.com/3938/15665403926_cd66ed389a_b.jpg" width="1024" height="683" alt="View towards the lake in Kiiskilampi"></a>
 
-We paddled to the other side of the lake where we found a nice camp site where we prepared out lunch... 
+We paddled to the other side of the lake where we found a nice camp site where we prepared out lunch...
 
 <a href="https://www.flickr.com/photos/90204224@N07/15503127119" ><img src="https://farm6.staticflickr.com/5606/15503127119_c61aafa598_b.jpg" width="1024" height="683" alt="Camping and grilling a sausage in Kiiskilampi"></a>
 
@@ -149,7 +152,7 @@ The short hike was quite nice as there was almost a full moon on the sky and the
 
 <a href="https://www.flickr.com/photos/90204224@N07/15503806467"><img src="https://farm4.staticflickr.com/3956/15503806467_d082d8422a_b.jpg" width="1024" height="495" alt="Kytäjärvi"></a>
 
-Lake Suolijärvi is a nice place for a hike. The are is not just plain flat and the shelters are very well maintained even so it's not an official national park. 
+Lake Suolijärvi is a nice place for a hike. The are is not just plain flat and the shelters are very well maintained even so it's not an official national park.
 
 [1]:	http://avisuora.wordpress.com/2014/10/13/verlan-syysmelonta-11-12-10-2014-ja-ahnas-maa-filmi/
 [2]:	https://sites.google.com/site/sveitsikytajahanke/alueen-nykyiset-palvelut/tulipaikat-ja-laavut

@@ -18,7 +18,11 @@ tags:
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29825366374/in/dateposted-public/" title="The Bold Dune"><img src="https://c7.staticflickr.com/9/8410/29825366374_8a30bcf886_h.jpg" width="1600" height="1067" alt="dune sand national park Drents-Friese Wold hiking microadventure"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 > Marta walking in the biggest sandpit of the Netherlands, also known as the 'bold' dune ('kale duin' in Dutch)
+
 <!--more-->
+
+{% include banner_ad.html %}
+
 
 And, indeed, this is our second time at the D-F NP. A few years ago, we came here by bike, stayed at a Natuurcamping (a special type of camping in the Netherlands that is characterised by their beautiful natural settings) and visited ancient dolmens on the southern edge of the park - this area has been inhabited since the prehistoric times and boasts a rich and diverse cultural landscape, which is another unique selling point of this national park.
 

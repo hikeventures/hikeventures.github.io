@@ -3,7 +3,7 @@ title: Packrafting in the Weerribben-Wieden National Park
 description: Packrafting in one of the Netherlands National Parks
 date: 2014-04-23 10:01:51
 category: destinations
-tags: 
+tags:
   - destinations
   - netherlands
   - packrafting
@@ -14,6 +14,10 @@ layout: post
 Beginning of April we went to De Weerribben-Wieden National Park in the Netherlands for a hiking and packrafting session where we observed birds and encountered hail.
 
 <a href="https://www.flickr.com/photos/90204224@N07/13975110902/"><img src="https://farm3.staticflickr.com/2903/13975110902_2cb3fb1ba3_b.jpg" width="1024" height="683" alt="packrafting Weerribben-Wieden National Park"></a>
+
+<!--more-->
+
+{% include banner_ad.html %}
 
 The Weerribben-Wieden National Park was founded in 1882 and and parts of the area were used for peat production which are nowadays
 filled with water and offer a possibilty to enjoy the nature by kajak or packraft. The National Park contains the largest contiguous swamp of northwestern Europe. We reached the National Park by train getting off at the Steenwijk train station where we took a bus to the bus stop Wanneperveen Belterweg.
@@ -71,7 +75,7 @@ First strokes ...
 <a href="https://www.flickr.com/photos/90204224@N07/13975500852/"><img src="https://farm8.staticflickr.com/7247/13975500852_60d7df70ae_b.jpg" width="1024" height="683" ></a>
 
 
-There are also plenty of signs on the rivers showing the route. Most of the places in the National Park can actually only be accessed by the rivers 
+There are also plenty of signs on the rivers showing the route. Most of the places in the National Park can actually only be accessed by the rivers
 and you can only camp or get out of your boat on designated spots.
 
 <a href="https://www.flickr.com/photos/90204224@N07/13978715685/"><img src="https://farm8.staticflickr.com/7435/13978715685_b11be2d716_b.jpg" width="1024" height="683" ></a>
@@ -123,7 +127,7 @@ Drying clothes and gear in the <a href="http://hikeventures.com/gear-review-hill
 
 <a href="https://www.flickr.com/photos/90204224@N07/13998935153/"><img src="https://farm6.staticflickr.com/5347/13998935153_cf31e2fb6f_b.jpg" width="683" height="1024" ></a>
 
-The next day we went back almost to the B&B Kiepenpost but instead turning towards the put in point we went east towards Venemaat. From there we went further east towards Mastenbroekkolk and took Schenkelvaart to the south where we paddled through the old piet field where we continued our trip back to Schenkelvaart towards Arembergergracht where we had lunch at restaurant de Belt. 
+The next day we went back almost to the B&B Kiepenpost but instead turning towards the put in point we went east towards Venemaat. From there we went further east towards Mastenbroekkolk and took Schenkelvaart to the south where we paddled through the old piet field where we continued our trip back to Schenkelvaart towards Arembergergracht where we had lunch at restaurant de Belt.
 
 <a href="https://www.flickr.com/photos/90204224@N07/13955868756/"><img src="https://farm8.staticflickr.com/7090/13955868756_e3b5048742_b.jpg" width="1024" height="683" ></a>
 

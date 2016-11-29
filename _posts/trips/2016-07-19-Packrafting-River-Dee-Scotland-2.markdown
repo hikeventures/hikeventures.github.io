@@ -4,7 +4,7 @@ title: Packrafting the River Dee in Scotland - Day 2 and 3
 description: Our February packrafting adventure in Scotland Day 2 and 3.
 date: 2016-07-19 07:30:00
 category: destinations
-tags: 
+tags:
   - destinations
   - packrafting
   - scotland
@@ -15,6 +15,8 @@ We had a good night sleep after the [first day](http://www.hikeventures.com/Pack
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25215070553/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1651/25215070553_2bf0cca03f_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <!--more-->
+
+{% include banner_ad.html %}
 
 The worst was however not to sit in a frozen packraft ...
 
@@ -30,7 +32,7 @@ For breakfast we still had some Japanese dehydrated camping food with us which t
 
 ## Visiting Balmoral Castle
 
-Since we just camped almost next to the Balmoral Castle we decided to get a bit closer and explore it a bit. 
+Since we just camped almost next to the Balmoral Castle we decided to get a bit closer and explore it a bit.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25211137854/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1450/25211137854_9d7e60357f_b.jpg" width="1024" height="681" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -101,7 +103,7 @@ In Ballater – just after the bridge - we stepped out to get some food at Drees
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25211164094/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1563/25211164094_ed2ac46f7d_o.jpg" width="1024" height="768" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-We enjoyed our tea and asked a passer-by if there was a shop. We actually saw the shop but we were not sure if it was open. The passer-by said: “Yes, behind the church. Just follow the main road”. 
+We enjoyed our tea and asked a passer-by if there was a shop. We actually saw the shop but we were not sure if it was open. The passer-by said: “Yes, behind the church. Just follow the main road”.
 
 ## Getting food in Ballater
 Konstantin walked with his dry suite to the ship. It felt strange to walk in a village with a dry suite but it was comfortable. He was anyway not there to impress people, but to get the food. No one asked me any questions, I didn't give any one any explanations.

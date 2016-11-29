@@ -3,15 +3,19 @@ title: Hiking in Zuid-Kenemerland - Middenduin - Netherlands
 description: Hiking adventure in Zuid-Kenemerland
 date: 2013-04-07 07:30:00
 category: destinations
-tags: 
-  - destinations 
+tags:
+  - destinations
   - netherlands
 layout: post
 ---
 
 <a href="https://www.flickr.com/photos/90204224@N07/8619179283"><img src="https://farm9.staticflickr.com/8399/8619179283_14a99dfe2b_b.jpg" width="1024" height="680" alt="Hiking in Zuid-Kenemerland Middenduin"></a>
 
-Middenduin is a diverse area with forest, open dunes, wooded hills and steep landscape located nearby Haarlem and was established in 1995. The sand of the dunes was used in Amsterdam and Den Haag in order to build the canals which was stopped in 1948.<!--more-->
+Middenduin is a diverse area with forest, open dunes, wooded hills and steep landscape located nearby Haarlem and was established in 1995. The sand of the dunes was used in Amsterdam and Den Haag in order to build the canals which was stopped in 1948.
+
+<!--more-->
+
+{% include banner_ad.html %}
 
 <a href="https://www.flickr.com/photos/90204224@N07/8619173205" title="Train Netherlands"><img src="https://farm9.staticflickr.com/8393/8619173205_b796472a66_b.jpg" width="1024" height="683" alt="Train Netherlands"></a>
 
@@ -27,7 +31,7 @@ At the entrance of the national park
 
 <a href="https://www.flickr.com/photos/90204224@N07/8620281650" title="Netherlands Zuid-Kennemerland"><img src="https://farm9.staticflickr.com/8122/8620281650_b03e837c98_b.jpg" width="1024" height="680" alt="Netherlands Zuid-Kennemerland"></a>
 
-Animals in the National Park where not shy. I suppose they are quite used to encounter human beings in the Netherlands. 
+Animals in the National Park where not shy. I suppose they are quite used to encounter human beings in the Netherlands.
 
 <a href="https://www.flickr.com/photos/90204224@N07/8619178327" title="Netherlands Zuid-Kennemerland"><img src="https://farm9.staticflickr.com/8117/8619178327_5470765ab7_b.jpg" width="1024" height="680" alt="Netherlands Zuid-Kennemerland"></a>
 
@@ -43,7 +47,7 @@ Fj&#228;llr&#228;ven Abisko pants served well against thorns
 
 <a href="https://www.flickr.com/photos/90204224@N07/8620278312" title="Suunto Ambit 2"><img src="https://farm9.staticflickr.com/8386/8620278312_c73314d5b7_b.jpg" width="1024" height="683" alt="Suunto Ambit 2"></a>
 
-We recorded our route with a <a href="http://hikeventures.com/gear-review-suunto-ambit-2-black-hr/" target="_self">Suunto Ambit 2</a>. 
+We recorded our route with a <a href="http://hikeventures.com/gear-review-suunto-ambit-2-black-hr/" target="_self">Suunto Ambit 2</a>.
 
 <a href="https://www.flickr.com/photos/90204224@N07/8619176189" title="Cows Netherlands Zuid-Kennemerland"><img src="https://farm9.staticflickr.com/8104/8619176189_3f93b7a833_b.jpg" width="1024" height="680" alt="Cows Netherlands Zuid-Kennemerland"></a>
 

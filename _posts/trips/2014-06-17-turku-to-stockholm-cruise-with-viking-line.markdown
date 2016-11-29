@@ -3,7 +3,7 @@ title: Turku - Stockholm Cruise with Viking Line
 description: With Viking Line from Turku to Stockholm
 date: 2014-06-17 21:13:11
 category: articles
-tags: 
+tags:
   - articles
   - cruise
   - stockholm
@@ -16,14 +16,17 @@ layout: post
 As I was planning to meet Konstantin in Sweden, I took a Viking Ferry in order to get from Turku to Stockholm. I really enjoyed this Viking Cruise with the new ferry, the [Viking Line][1].
 
 <a href="https://www.flickr.com/photos/90204224@N07/14416293746" title="Stockholm City"><img src="https://farm3.staticflickr.com/2907/14416293746_aace5775a6_b.jpg" width="1024" height="683" alt="View from Viking Grace towards Stockholm City with Finnish Flag Gröna Lund"></a>
+
 <!--more-->
+
+{% include banner_ad.html %}
 
 <a href="https://www.flickr.com/photos/90204224@N07/14414858216" title="Viking Line Turku"><img src="https://farm4.staticflickr.com/3873/14414858216_d12ff73788_b.jpg" width="1024" height="683" alt="Viking Line Turku entrance harbor harbour"></a>
 
 The cruise starts at the Viking Terminal in Turku where I got my boarding card. While waiting for getting on board it's possible to get some drinks in the bar of the terminal.
 
 <a href="https://www.flickr.com/photos/90204224@N07/14251994228" title="Turku Castle"><img src="https://farm3.staticflickr.com/2923/14251994228_3c2a2e34da_b.jpg" width="1024" height="683" alt="Turku Castle view from viking Grace"></a>
-Bye bye Turku ... 
+Bye bye Turku ...
 
 <a href="https://www.flickr.com/photos/90204224@N07/14435003591" title="Viking Grace Cabin"><img src="https://farm3.staticflickr.com/2930/14435003591_107c766086_b.jpg" width="683" height="1024" alt="Viking Grace Cabin with HMG Porter 4400 backpack"></a>
 The cabin was really nice ...
@@ -50,13 +53,13 @@ Marienhamn Harbor at midnight
 The famous white birds islands between Turku and Stockholm.
 
 <a href="https://www.flickr.com/photos/90204224@N07/14252878170" title="Turku Stockholm Ferry"><img src="https://farm4.staticflickr.com/3855/14252878170_527eb80175_b.jpg" width="1024" height="683" alt="white islands finnish archipelago viking line amorella view"></a>
-Stockholm City Panorama - Picture taken from the Viking Amorella. 
+Stockholm City Panorama - Picture taken from the Viking Amorella.
 
 <a href="https://www.flickr.com/photos/90204224@N07/14438291564" title="DSC02820"><img src="https://farm4.staticflickr.com/3884/14438291564_81607f8521_b.jpg" width="1024" height="232" alt="panorama view from viking line amorella stockholm city amusement park gröna lund"></a>
 
-It's a really nice experience to take a ferry from Finland to Sweden and experience the Aland Islands while having a nice dinner on board. There is also plenty of entertainment, a duty free shop and your kids will not get bored either. 
+It's a really nice experience to take a ferry from Finland to Sweden and experience the Aland Islands while having a nice dinner on board. There is also plenty of entertainment, a duty free shop and your kids will not get bored either.
 
-The price of the cruise depends on the booking situation. The Viking Line tickets also get more expensive if you stay over night in Stockholm or Turku rather than taking the evening ferry back. It's also good to take a [wind jacket][2] or a [rain jacket][3] if you plan to stay for a longer period on deck. 
+The price of the cruise depends on the booking situation. The Viking Line tickets also get more expensive if you stay over night in Stockholm or Turku rather than taking the evening ferry back. It's also good to take a [wind jacket][2] or a [rain jacket][3] if you plan to stay for a longer period on deck.
 
 [1]:	http://www.vikinggrace.com "Viking Grace"
 [2]:	http://www.hikeventures.com/best-windjackets/ "wind jackets"

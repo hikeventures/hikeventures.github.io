@@ -3,7 +3,7 @@ title: Four seasons of Packrafting in the Archipelago Sea
 description: Packrafting the Archipelago Sea around Turku during 4 seasons
 date: 2015-05-18 18:04:22
 category: destinations
-tags: 
+tags:
   - destinations
   - packrafting
   - archipelago
@@ -14,6 +14,8 @@ The Archipelago Sea around Turku is a great place to go Packrafting, Kayaking or
 [![][image-1]][1]
 
 <!--more-->
+
+{% include banner_ad.html %}
 
 ## Trip 1 - Spring
 On my first trip in spring I decided to take my packraft and to paddle around Kulho - an island in the Archipelago Sea which is located next to the island where I am living. The Archipelago Sea contains the largest island group in the world by the number of islands. I have also been [hiking on the Aland Islands][2] 2 years ago which is also part of the Archipelago Sea.
@@ -86,11 +88,11 @@ I have still not figured out what this sign with 11 means which seems to be quit
 
 [![][image-19]][20]
 
-Plenty of old buildings nearby the sea. 
+Plenty of old buildings nearby the sea.
 
 [![][image-20]][21]
 
-What I also like on the Turku Archipelago is that there are frequently motor boats in the water generating waves which is fun to paddle in with your packraft. 
+What I also like on the Turku Archipelago is that there are frequently motor boats in the water generating waves which is fun to paddle in with your packraft.
 
 ## Trip 3 - Autumn
 
@@ -210,7 +212,7 @@ On the way back I finally hit the rain. The sea became quite rough but it was st
 
 [![Packrafting Archipelago Sea][image-48]][32]
 
-After 3 years using my Werner paddles they sill perform like on the first day. I only have a slight issue to disassemble one part of the paddle. 
+After 3 years using my Werner paddles they sill perform like on the first day. I only have a slight issue to disassemble one part of the paddle.
 
 [![Packrafting Archipelago Sea][image-49]][33]
 

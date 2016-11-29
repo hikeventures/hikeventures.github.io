@@ -3,7 +3,7 @@ title: Hiking and Packrafting in Sarek
 description: Exploring the Scandinavian Mountains. The Last Wilderness of Europe
 date: 2013-08-25 07:30:00
 category: destinations
-tags: 
+tags:
   - destinations
   - sarek
   - sweden
@@ -12,9 +12,11 @@ tags:
 layout: post
 ---
 
-This year we went on a 6 days packrafting and hiking trip in Sarek. We travelled from Vaasa by <a href="http://www.wasaline.com/en/" target="_blank">wasaline ferry</a> to Umea and then by a hiker train (it seemed that the only people who travelled north were planning to go on a hike in the fells) to G&auml;llivare. Transportation to Sarek from Umea is not that frequent so there is a possibility that you have to stay one night in Umea. 
+This year we went on a 6 days packrafting and hiking trip in Sarek. We travelled from Vaasa by <a href="http://www.wasaline.com/en/" target="_blank">wasaline ferry</a> to Umea and then by a hiker train (it seemed that the only people who travelled north were planning to go on a hike in the fells) to G&auml;llivare. Transportation to Sarek from Umea is not that frequent so there is a possibility that you have to stay one night in Umea.
 
 <!--more-->
+
+{% include banner_ad.html %}
 
 
 ## Day 1: From Gällivare to Vuosskeljavrre
@@ -43,7 +45,7 @@ The surface of many stones looked like this.
 <a href="https://www.flickr.com/photos/90204224@N07/9594879668"><img src="https://farm8.staticflickr.com/7346/9594879668_c519e255bb_b.jpg" width="683" height="1024" alt="hiking, backpacking and packrafting in Sarek National Park" alt="Sarek National Park Sweden bridge man made construction"></a>
 
  Some of the few man-made constructions in the national park.
- 
+
 
 <a href="https://www.flickr.com/photos/90204224@N07/9594880768"><img src="https://farm8.staticflickr.com/7432/9594880768_907fc787a9_b.jpg" width="1024" height="683" alt="Sarek National Park Sweden"></a>
 We also had to make sure to squeeze between the trees without damaging our gear.
@@ -152,7 +154,7 @@ At the Nuortap Atjek lake Patrick had to get Konstantin's packraft back on shore
 
 <a href="https://www.flickr.com/photos/90204224@N07/9596225825"><img src="https://farm8.staticflickr.com/7377/9596225825_33b672a58e_b.jpg" width="1024" height="683" alt="packrafting alpacka raft Sarek National Park Sweden"></a>
 
-The <a href="http://hikeventures.com/gear-review-hmg-porter-4400-black/" target="_self">HMG Porter 4400</a> strapped on the <a href="http://hikeventures.com/gear-review-unpacking-alpacka-packraft/" target="_self">Alpacka Yukon Yak packraft</a>. 
+The <a href="http://hikeventures.com/gear-review-hmg-porter-4400-black/" target="_self">HMG Porter 4400</a> strapped on the <a href="http://hikeventures.com/gear-review-unpacking-alpacka-packraft/" target="_self">Alpacka Yukon Yak packraft</a>.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9596226393"><img src="https://farm6.staticflickr.com/5479/9596226393_34ba3b93fb_b.jpg" width="1024" height="683" alt="packrafting alpacka raft Sarek National Park Sweden"></a>
 
@@ -343,15 +345,15 @@ Vuojnesluobbala lake
 
 <a href="http://hikeventures.com/gear-review-unpacking-alpacka-packraft/" target="_self">Alpaka Yukon Yak</a> in front of Liehtjitjavrre lake
 
-At the end of Liehtjitjavrre lake nearby Nienndo the wind blow suddenly in from the side valley and we had to get out of our packrafts as it was impossible to paddle further. We decided to walk towards Guordesluoppal lake to pitch our tent. The terrain was again very rocky and it was difficult to find a suitable place to pitch the tent. 
-   
+At the end of Liehtjitjavrre lake nearby Nienndo the wind blow suddenly in from the side valley and we had to get out of our packrafts as it was impossible to paddle further. We decided to walk towards Guordesluoppal lake to pitch our tent. The terrain was again very rocky and it was difficult to find a suitable place to pitch the tent.
+
 <a href="https://www.flickr.com/photos/90204224@N07/9596230289"><img src="https://c3.staticflickr.com/3/2822/9596230289_9b0f70706d_o.jpg" width="991" height="567" alt="Hilleberg Anjan tent night Sarek National Park tent packing list jetboil gear Guordesluoppal lake"></a>
-   
-At 11 pm we decided to get our <a href="http://hikeventures.com/petzl-nao-headlamp-test/" target="_self">Petzl Nao headlamps</a> out as we were not able to see anything anymore. At 0.00 we found a space which had just the right size to pitch our tent. Konstantin prepared his dinner while Patrick went straight into his sleeping bag. 
 
-This was the worst day of all and we also do not have that many pictures of this day since it was just not possible to get any good pictures due to the bad weather. 
+At 11 pm we decided to get our <a href="http://hikeventures.com/petzl-nao-headlamp-test/" target="_self">Petzl Nao headlamps</a> out as we were not able to see anything anymore. At 0.00 we found a space which had just the right size to pitch our tent. Konstantin prepared his dinner while Patrick went straight into his sleeping bag.
 
-For those folk who are planning to use <a href="http://hikeventures.com/gear-review-inov-8-roclite-295/" target="_self">trail-runners</a> which are not waterproof ... Patrick had constantly wet feet on this trip. If there is not enough sun then there is no chance that you will have dry shoes. Patrick also used Sealakinz socks but they weard off after 2 days. The best combination would be to use merino socks and trail-runners if you don't want to use waterproof shoes. 
+This was the worst day of all and we also do not have that many pictures of this day since it was just not possible to get any good pictures due to the bad weather.
+
+For those folk who are planning to use <a href="http://hikeventures.com/gear-review-inov-8-roclite-295/" target="_self">trail-runners</a> which are not waterproof ... Patrick had constantly wet feet on this trip. If there is not enough sun then there is no chance that you will have dry shoes. Patrick also used Sealakinz socks but they weard off after 2 days. The best combination would be to use merino socks and trail-runners if you don't want to use waterproof shoes.
 
 ---
 
@@ -411,7 +413,7 @@ We would describe this particular area as a paradise for berries and mushroom pi
 
 <a href="https://www.flickr.com/photos/90204224@N07/9603399457"><img src="https://farm8.staticflickr.com/7296/9603399457_40e3639e96_b.jpg" width="1024" height="683" alt="on the way to Risjakjavrre in sarek national park"></a>
 
-On the way to lake Risjakjavrre - the last lake we had to cross with our packrafts. 
+On the way to lake Risjakjavrre - the last lake we had to cross with our packrafts.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9606635986"><img src="https://farm6.staticflickr.com/5332/9606635986_02df946584_b.jpg" width="1024" height="683"  alt="on the way to Risjakjavrre in sarek national park"></a>
 

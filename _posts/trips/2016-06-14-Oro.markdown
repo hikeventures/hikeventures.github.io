@@ -17,7 +17,7 @@ The gear is packed. The packrafts are inflated. The sails are ready. And so we a
 
 <!--more-->
 
----
+{% include banner_ad.html %}
 
 # Nature Centre “Blue Mussel” – The Entrance to The Archipelago
 
@@ -77,7 +77,7 @@ Patrick sailing just before the Örö island.
 
 # Arriving at the main harbour of Örö
 
-After 15 km of windpaddle sailing with our packrafts we finally arrived on Örö. It took us just over three hours to cover that distance. 
+After 15 km of windpaddle sailing with our packrafts we finally arrived on Örö. It took us just over three hours to cover that distance.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27583029502/in/album-72157669691179556/" title="Örö Island Finland 2016"><img src="https://c7.staticflickr.com/8/7099/27583029502_a99f8edf08_b.jpg" width="100%" alt="Örö Island Finland 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -85,7 +85,7 @@ We were really lucky that almost for the whole trip the wind was blowing in the 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27073203223/in/album-72157669691179556/" title="Örö Island Finland 2016"><img src="https://c8.staticflickr.com/8/7418/27073203223_5b7ce42381_b.jpg" width="100%" alt="Örö Island Finland harbour packraft hmg porter julbo swell alpacka raft werner shuna windpaddle sail"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Before going to the camping site, which is accessible from a small bay on the south of the island, we decided to pretend that we were 'big boats' and entered the harbour instead, where we had a quick look around. 
+Before going to the camping site, which is accessible from a small bay on the south of the island, we decided to pretend that we were 'big boats' and entered the harbour instead, where we had a quick look around.
 There were two small buildings in the harbour area, one of which was a small coffee house. While the offer was limited, their staff were very friendly and their prices were quite reasonable. For example, a piece of cake would cost you 2 Euro, which is no different from anywhere else in Finland. While this cafe had a few seating places inside (which could come in handy in case of bad weather, we presume), there was a large number of tables and benches outside as well. Somewhat further away, there was a fireplace and a grill (which turned out to be the only place on the island where you can have an open fire). Please note, if you want to use it, you will most likely need to bring your own coals or wood. Or, you can try to rely on the kindness of other boaters, like we did the first evening when we came there to grill our sausages.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27683697455/in/album-72157669691179556/" title="Ö"><img src="https://c8.staticflickr.com/8/7239/27683697455_36fe4e3e1d_b.jpg" width="100%" alt="Örö harbour coffee house Finland island fortress"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -100,14 +100,14 @@ After a short stop at the harbour, we decided to paddle to the take-out place at
 
 ---
 
-On the way, we saw a large number of swans, who were possibly hiding from the wind on the leeward side of the island. Or maybe they preferred the areas that were not frequented by humans. Regardless of the reason, we could count around 15 swans around the bay the next morning. 
+On the way, we saw a large number of swans, who were possibly hiding from the wind on the leeward side of the island. Or maybe they preferred the areas that were not frequented by humans. Regardless of the reason, we could count around 15 swans around the bay the next morning.
 
 ---
 
 # Camping on Örö
 
 Camping on Örö is possible at the tent site near the landing point for kayakers. Once we walked a few meters into the forest we saw a sign which indicated its location (there are a lot of clear signs like that around the island).
-When we got to the site, we were the first ones there and could choose the best spot for our tent. A while later, three women in their fifties from Helsinki arrived with their tents as well. It seemed that they took a ferry to the island. We started a short conversation and they told us that one of them had come to Örö last year already and this time brought her friends in order to show them this beautiful place. And unlike us, who stayed there for one night only, they were planning to camp on Örö for 2 nights, while spending the day explore the history and enjoying the nature of the island. 
+When we got to the site, we were the first ones there and could choose the best spot for our tent. A while later, three women in their fifties from Helsinki arrived with their tents as well. It seemed that they took a ferry to the island. We started a short conversation and they told us that one of them had come to Örö last year already and this time brought her friends in order to show them this beautiful place. And unlike us, who stayed there for one night only, they were planning to camp on Örö for 2 nights, while spending the day explore the history and enjoying the nature of the island.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27609266451/in/album-72157669691179556/" title="Örö Island Finland"><img src="https://c4.staticflickr.com/8/7567/27609266451_faa2a20009_b.jpg" width="100%" alt="Örö Island Finland tent site sign directional hiking kayaking"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -129,9 +129,9 @@ The landing spot for kayaks is also a great place to enjoy the nature and have a
 
 # Other Facilities on Örö
 
-In general, Örö offers a variety of quite nice facilities for its visitors. 
-If you are planning to stay overnight and you do not have your own boat or a tent, it is possible to book a bed in a hostel or rent an apartment or a cottage. 
-When it comes to eating out, besides the harbour cafe, there is also a restaurant, located in a renovated building used by the military in the past. However, a word of warning - even though this restaurant has a lot of seating places (both outside and inside), you might want to make a reservation there because they seem to have limited cooking capacity. The prices in the restaurant are regular for Finnish standards and the menu, though rather short, had at least one vegetarian main dish. As for people who eat meat and are interested in locally produced food, they could try sausages made from the island’s own lamb. Besides these two places, there is no other way to get food, so, if you are not planning to eat out, you might want to bring everything necessary with you from the mainland. 
+In general, Örö offers a variety of quite nice facilities for its visitors.
+If you are planning to stay overnight and you do not have your own boat or a tent, it is possible to book a bed in a hostel or rent an apartment or a cottage.
+When it comes to eating out, besides the harbour cafe, there is also a restaurant, located in a renovated building used by the military in the past. However, a word of warning - even though this restaurant has a lot of seating places (both outside and inside), you might want to make a reservation there because they seem to have limited cooking capacity. The prices in the restaurant are regular for Finnish standards and the menu, though rather short, had at least one vegetarian main dish. As for people who eat meat and are interested in locally produced food, they could try sausages made from the island’s own lamb. Besides these two places, there is no other way to get food, so, if you are not planning to eat out, you might want to bring everything necessary with you from the mainland.
 Finally, this place would not be part of Finland if it didn't have at least one sauna. And, indeed, not far from the harbour, on the eastern shore of the island there is a brand-new sauna with an access to the sea from a small pier.  
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27683697595/in/album-72157669691179556/" title="Ö"><img src="https://c4.staticflickr.com/8/7185/27683697595_bc071242f9_b.jpg" width="100%" alt="Sauna Örö Island Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -148,18 +148,18 @@ The several public toilets, spread out across the island, are very clean and hav
 
 # Hiking on Örö
 
-Örö is also a great place for hiking since it has two well-marked routes, which are easy to follow - the blue-blazed ‘6’’ Trail’, leading through the southern part of the island (5.3 km), and a red-blazed ‘120mm trail’, covering the north (5.6 km). The total length of all paths and roads is around 16.5 km and there is a large number of interpretation panels in 3 languages (Swedish, Finnish and English) that deal with the natural and military history of the island and provide interesting explanation of what one can see there. 
+Örö is also a great place for hiking since it has two well-marked routes, which are easy to follow - the blue-blazed ‘6’’ Trail’, leading through the southern part of the island (5.3 km), and a red-blazed ‘120mm trail’, covering the north (5.6 km). The total length of all paths and roads is around 16.5 km and there is a large number of interpretation panels in 3 languages (Swedish, Finnish and English) that deal with the natural and military history of the island and provide interesting explanation of what one can see there.
 
 ---
 
 # Other Leisure Activities on Örö
 
-Besides hiking, it is possible to use a bike to move around the island. To do that you can either rent one or bring your own. Fishing, birdwatching and geocaching are also popular activities among the visitors. If you are into diving, then you may need a special permission to do it on Örö. However, it's quite easy to find out what's allowed and what is not as this information is provided at several places. 
+Besides hiking, it is possible to use a bike to move around the island. To do that you can either rent one or bring your own. Fishing, birdwatching and geocaching are also popular activities among the visitors. If you are into diving, then you may need a special permission to do it on Örö. However, it's quite easy to find out what's allowed and what is not as this information is provided at several places.
 
 ---
 
 # Exploring Örö’s Military Past
-The main cultural sights on the island are related to the history of costal defences in Finland starting with the last years of the rule of tsarist Russia and until the present day. Ranging from fortifications and tranches, to barracks and cobbled roads, the island’s rich military history is evident at every step. 
+The main cultural sights on the island are related to the history of costal defences in Finland starting with the last years of the rule of tsarist Russia and until the present day. Ranging from fortifications and tranches, to barracks and cobbled roads, the island’s rich military history is evident at every step.
 Some of the main ‘relics’ are the two 12-incht or 305 mm Obukhovskii guns. Originally, when Russians built the fortifications, there used to be four of these guns on the island, however, later only two were left. These guns were used in the WWI against Germans and also defended the Bengtskär lighthouse during the Continuation war against Russia.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27609266871/in/album-72157669691179556/" title="Örö Island Finland 2016"><img src="https://c8.staticflickr.com/8/7530/27609266871_558b046ea1_b.jpg" width="100%" alt="Örö Island Finland 305 mm Obukhovskii gun continuation war"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -221,7 +221,7 @@ The long stretches of the open beaches on the western coast of Örö are protect
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27683702185/in/album-72157669691179556/" title="Örö Island Finland"><img src="https://c2.staticflickr.com/8/7506/27683702185_3ec72f6b5e_b.jpg" width="100%" alt="Örö Island Finland fortification tanks landing spot military fortress"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-The view of the western coast of Örö through the embrasure of one of the bunkers in the north of the island. 
+The view of the western coast of Örö through the embrasure of one of the bunkers in the north of the island.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27405223020/in/album-72157669691179556/" title="Örö Island Finland"><img src="https://c5.staticflickr.com/8/7478/27405223020_881546b720_b.jpg" width="100%" alt="Örö Island Finland bunker window"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -245,7 +245,7 @@ Here is another example of such ‘child-proofing’ – it is a sign in three l
 ---
 
 # Conclusion - One of the best places to visit in the Finnish Archipelago
-We really enjoyed our trip to Örö as with its perfect blend of history and nature combined with a good tourist infrastructure the island resembles a far-away Mediterranean spot. That is why it comes as no surprise that once we sat down on one of the sandy beaches, felt the smell of the salty sea mixed with the dry aroma of the pine trees and gazed across the blue water glistening in the sun, we felt sorry that we came there only for such a short time and we promised to ourselves that we would come there again. Possibly with our families… 
+We really enjoyed our trip to Örö as with its perfect blend of history and nature combined with a good tourist infrastructure the island resembles a far-away Mediterranean spot. That is why it comes as no surprise that once we sat down on one of the sandy beaches, felt the smell of the salty sea mixed with the dry aroma of the pine trees and gazed across the blue water glistening in the sun, we felt sorry that we came there only for such a short time and we promised to ourselves that we would come there again. Possibly with our families…
 
 ---
 
@@ -256,7 +256,7 @@ If you don’t have a kayak or a boat of your own, you can take a ferry from Kas
 ---
 
 
-Also don't miss the view from the Lövö bridge when you drive from Turku or Helsinki to Kasnäs. This bridge is 473 m long and 19 m high and from it you can enjoy a beautiful view over a part of the Finnish Archipelago. 
+Also don't miss the view from the Lövö bridge when you drive from Turku or Helsinki to Kasnäs. This bridge is 473 m long and 19 m high and from it you can enjoy a beautiful view over a part of the Finnish Archipelago.
 
 ---
 

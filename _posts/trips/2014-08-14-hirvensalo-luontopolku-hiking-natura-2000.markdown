@@ -3,7 +3,7 @@ title: Hirvensalo Luontopolku Hiking - Natura 2000
 description: Hiking in Hirvensalo on the Natura 2000 trail
 date: 2014-08-14 22:05:28
 category: destinations
-tags: 
+tags:
   - destinations
   - finland
   - hirvensalo
@@ -15,7 +15,10 @@ Today, I went for an evening hike along the luontopolku in Friskala (Turku) whic
 
 <a href="https://www.flickr.com/photos/90204224@N07/14732117110"><img src="https://farm4.staticflickr.com/3871/14732117110_35f3c97630_c.jpg" width="800" height="581" alt="Evening hike in Friskala Hirvensalo Luontopolku"></a>
 
-<!--more--><br>
+<!--more-->
+
+{% include banner_ad.html %}
+
 <a href="https://www.flickr.com/photos/90204224@N07/14894433696"><img src="https://farm4.staticflickr.com/3868/14894433696_16fca2d0df_c.jpg" width="600" height="800" alt="Evening hike in Friskala Hirvensalo Luontopolku"></a>
 
 <a href="https://www.flickr.com/photos/90204224@N07/14732287647"><img src="https://farm4.staticflickr.com/3851/14732287647_8a745bef57_c.jpg" width="800" height="485" alt="Evening hike in Friskala Hirvensalo Luontopolku"></a>

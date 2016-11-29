@@ -3,7 +3,7 @@ title: Hiking in the Lithuanian Sahara
 description: Exploring the Kuršių Nerija National Park in Lithuania
 date: 2014-11-03 21:53:00
 category: destinations
-tags: 
+tags:
   - destinations
   - lithuania
   - hiking
@@ -11,7 +11,13 @@ layout: post
 ---
 Located on the Curonian Spit, Kuršių Nerija National Park is truly a very special place in Lithuania. Packed with tourists in summer and almost abandoned in winter, this narrow strip of sand offers a lot of opportunities to be in the nature, especially if you try to avoid the most touristic spots, such as the villages of Nida or Juodkrante. <br><br>
 
-<a href="https://www.flickr.com/photos/90204224@N07/15508159139" title="Lithuania"><img src="https://farm6.staticflickr.com/5611/15508159139_7c3e43ba3a_b.jpg" width="600" alt="Kuršių Nerija National Park Beach"></a></a><!--more--><br>
+<a href="https://www.flickr.com/photos/90204224@N07/15508159139" title="Lithuania"><img src="https://farm6.staticflickr.com/5611/15508159139_7c3e43ba3a_b.jpg" width="600" alt="Kuršių Nerija National Park Beach"></a></a>
+
+<!--more-->
+
+{% include banner_ad.html %}
+
+
 Even though there are just a few officially designated tracks, there are numerous paths along the coast, though the dunes, and in the forest which are great for walking and cycling. But please remember that the excitement of visiting this easily reachable destination comes from the stunning landscape, rather than from bloodcurdling altitudes or encountering dangerous wild animals.
 In 2000, the area was added to the UNESCO World Heritage List because of its unique ecosystem of the coastal “moving dunes”. The impressive landscape is constantly changing as the strong winds move sand in all directions creating new formations. This ever-changing landscape dates back to the XVI century when the process of cutting trees started. When the trees were removed, the bare sand hills became sensitive to the wind (and as we have experienced it can be a very windy place indeed), so, now, some dunes move up to 20 meters each year.<br><br>
 
@@ -20,12 +26,12 @@ In general, it is allowed to walk along the existing paths, which is why we coul
 <a href="https://www.flickr.com/photos/90204224@N07/15694006385"><img src="https://farm8.staticflickr.com/7577/15694006385_f7c7222289_b.jpg" width="1024" height="680" alt="Kuršių Nerija National Park"></a><br>
 <a href="https://www.flickr.com/photos/90204224@N07/15694030545"><img src="https://farm8.staticflickr.com/7517/15694030545_a3345df83d_b.jpg" width="1024" height="659" alt="Kuršių Nerija National Park"></a>
 <br>
-The south-most part of the National Park is a strictly protected area, which could be either because of its nature or, perhaps, because of the proximity to the boarder, which divides the Curonian Spit into the Lithuanian and the Russian parts. 
+The south-most part of the National Park is a strictly protected area, which could be either because of its nature or, perhaps, because of the proximity to the boarder, which divides the Curonian Spit into the Lithuanian and the Russian parts.
 <br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/15694011875"><img src="https://farm4.staticflickr.com/3944/15694011875_e8c532eea9_b.jpg" width="1024" height="680" alt="Kuršių Nerija National Park"></a>
 <br>It is also worth mentioning that it is also not advisable to walk on the dunes during intensive rain. At some parts, sand layers saturated with the water might collapse under the weight of a man, becoming similar to quicksand.  <br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/15694009405"><img src="https://farm8.staticflickr.com/7566/15694009405_176467eb8a_b.jpg" width="1024" height="680" alt="Kuršių Nerija National Park"></a><br>
-Even though a lot of the flora is represented by regular grass, most plants are under strict protection in the dune ecosystem as their roots are vital for stabilizing the volatile environment. That is why something that in our gardens might look like a nothing-special, common weed is almost a treasure here. Especially as these plants are growing in rather difficult conditions – in summer the sand of the dunes might for a short while become 50°C. 
+Even though a lot of the flora is represented by regular grass, most plants are under strict protection in the dune ecosystem as their roots are vital for stabilizing the volatile environment. That is why something that in our gardens might look like a nothing-special, common weed is almost a treasure here. Especially as these plants are growing in rather difficult conditions – in summer the sand of the dunes might for a short while become 50°C.
 
 Alongside regular grass, it is possible to find some more interesting herbs, such as Helichrysum Italicum, which is sometimes called the curry plant.  It can be used to speed up the healing of wounds, scratches and any other bruises and the extract from the flowers enhances the secretion of digestive juices. So discovering it there made us think that maybe we should start collecting the materials and ideas for writing a book called “Herbal Teas for Hikers”. To do that, of course, we would first need to test all those teas, which is why we might have a position of a guinea pig. Any volunteers? <br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/15508631508"><img src="https://farm8.staticflickr.com/7516/15508631508_60e966eca4_b.jpg" width="1024" height="680" alt="Kuršių Nerija National Park"></a><br>

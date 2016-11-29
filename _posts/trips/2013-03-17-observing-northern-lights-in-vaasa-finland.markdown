@@ -3,7 +3,7 @@ title: Observing Northern Lights in Vaasa
 description: When Northern Lights appear in Vaasa
 date: 2013-03-17 07:30:00
 category: articles
-tags: 
+tags:
   - articles
   - vaasa
   - northern lights
@@ -13,6 +13,8 @@ Northern Lights are caused by the collision of energetic charged particles with 
 
 [![Northern Lights in Finland][image-1]][2]
 <!--more-->
+
+{% include banner_ad.html %}
 
 [![Northern Lights in Finland][image-2]][3]
 

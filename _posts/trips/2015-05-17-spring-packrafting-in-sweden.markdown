@@ -15,9 +15,13 @@ This spring Konstantin from HikeVentures teamed up with <a href="http://www.urba
 
 As the next Swedish Packrafting Gathering is going to take place in just over one months (5-8 May), I would like to share some pictures that I took at the first event that took place last April. And here is how it started...
 
+<!--more-->
+
+{% include banner_ad.html %}
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25644251223/in/datetaken-public/" title="Swedish Packrafting Gathering 2015"><img src="https://farm2.staticflickr.com/1443/25644251223_332a48070a_b.jpg" width="100%" alt="Swedish Packrafting Gathering 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Jacob (Urbanpackrafter.com) and I arrived at the rendez-vous place in the deep darkness after midnight. We were greeted by Henrik (The Deliverance Team) and the guys who had already settled in the open shelter (where we also joined them). All five of us sleeping side by side, I was happy brought earplugs 
+Jacob (Urbanpackrafter.com) and I arrived at the rendez-vous place in the deep darkness after midnight. We were greeted by Henrik (The Deliverance Team) and the guys who had already settled in the open shelter (where we also joined them). All five of us sleeping side by side, I was happy brought earplugs
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25642151734/in/datetaken-public/" title="Swedish Packrafting Gathering 2015"><img src="https://farm2.staticflickr.com/1677/25642151734_8d03ded33c_b.jpg" width="100%" alt="Swedish Packrafting Gathering 2015 Patagonie Down Hoodie Exped Synmat UL7 HMG Porter 4400 alpacka raft"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -41,7 +45,7 @@ A man and his new drysuit. From what I could understand, it was the first time M
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26010997510/in/datetaken-public/" title="First Swedish Packrafting Meeting"><img src="https://farm2.staticflickr.com/1598/26010997510_cea147ee94_b.jpg" width="100%" alt="First Swedish Packrafting Meeting - The Deliverance Team - Alpacka Raft"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Time with the locals. If the 'authenticity of the experience' and the 'local perspective' are important concepts for you, then attending such events as this Swedish Packrafting roundup last year is a great chance to get all that. 
+Time with the locals. If the 'authenticity of the experience' and the 'local perspective' are important concepts for you, then attending such events as this Swedish Packrafting roundup last year is a great chance to get all that.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26283861275/in/datetaken-public/" title="First Swedish Packrafting Meeting"><img src="https://farm2.staticflickr.com/1528/26283861275_9dd7a9dcd5_b.jpg" alt="The Deliverance Team - Alpacka Raft" width="100%" alt="First Swedish Packrafting Meeting"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

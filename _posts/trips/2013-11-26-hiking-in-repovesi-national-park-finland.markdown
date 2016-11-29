@@ -3,7 +3,7 @@ title: Hiking in Repovesi National Park
 description: Our adventure to the Repovesi National Park. One of the best National Parks in Southern Finland.
 date: 2012-11-26 07:30:00
 category: destinations
-tags: 
+tags:
   - destinations
   - repovesi
   - finland
@@ -16,6 +16,10 @@ Repovesi National Park is Southern Finland's most popular hiking destination and
 <a href="https://www.flickr.com/photos/90204224@N07/8197196285" title="Entrance Repovesi National Park"><img src="https://farm9.staticflickr.com/8489/8197196285_bafe700360_h.jpg" width="1600" height="1067" alt="Entrance Repovesi National Park in Finland"></a>
 
 This is the main entrance to Repovesi National Park. We actually left the park from here as we went to far with the bus and entered the National Park from another spot.
+
+<!--more-->
+
+{% include banner_ad.html %}
 
 <a href="https://www.flickr.com/photos/90204224@N07/8198639492" title="Blueberries from Repovesi National Park"><img src="https://farm9.staticflickr.com/8488/8198639492_5cd3f6b50e_h.jpg" width="1600" height="1067" alt="Blueberries from Repovesi National Park in Finland"></a>
 
@@ -56,7 +60,7 @@ Navigation in the Repovesi National Park is quite easy since trails are marked.
 
 <a href="https://www.flickr.com/photos/90204224@N07/8197401733" title="Repovesi National Park"><img src="https://farm9.staticflickr.com/8070/8197401733_499cbbc85b_h.jpg" width="1600" height="1067" alt="Repovesi National Park in Finland"></a>
 
-This well provided fresh water and was a welcome alternative to our water which we <a href="http://hikeventures.com/gear-review-katadyn-mini-water-filter/" target="_self">filtered</a>  from the river. 
+This well provided fresh water and was a welcome alternative to our water which we <a href="http://hikeventures.com/gear-review-katadyn-mini-water-filter/" target="_self">filtered</a>  from the river.
 
 <a href="https://www.flickr.com/photos/90204224@N07/8198364006" title="Well at Repovesi National Park"><img src="https://farm9.staticflickr.com/8197/8198364006_32c5814d38_h.jpg" width="1600" height="1067" alt="Well at Repovesi National Park in Finland"></a>
 

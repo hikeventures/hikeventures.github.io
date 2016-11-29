@@ -3,7 +3,7 @@ title: A summer day in Helsinki 2014
 description: A summer adventure in Helsinki 2014
 date: 2014-06-01 17:05:52
 category: destinations
-tags: 
+tags:
   - destinations
   - helsinki
   - finland
@@ -12,7 +12,10 @@ layout: post
 This weekend we enjoyed a sunny day in <a href="http://www.visithelsinki.fi" target="_blank">Helsinki</a>. Port of Helsinki with the Uspenski Cathedral in the background.
 
 <a href="https://www.flickr.com/photos/90204224@N07/14318924295" title="Helsinki Summer 2014"><img src="https://farm4.staticflickr.com/3791/14318924295_c0c84f4dc4_b.jpg" width="1024" height="683" alt="Helsinki Summer 2016"></a>
-<!--more--><br><br>
+
+<!--more-->
+
+{% include banner_ad.html %}
 
 <a href="https://www.flickr.com/photos/90204224@N07/14339117323" title="Ferries Wheel Helsinki"><img src="https://farm6.staticflickr.com/5569/14339117323_c8b037a2da_b.jpg" width="1024" height="683" alt="Ferries Wheel Helsinki"></a><br><br>New ferris wheel in Katajanokka<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/14295779256" title="Big Wheel Helsinki"><img src="https://farm3.staticflickr.com/2899/14295779256_5e51f82b9d_b.jpg" width="1024" height="683" alt="Big Wheel Helsinki"></a><br><br>

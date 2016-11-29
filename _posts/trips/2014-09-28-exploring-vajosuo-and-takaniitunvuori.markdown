@@ -3,7 +3,7 @@ title: Exploring Vajosuo and Takaniitunvuori
 description: Exploring the Kurjenrahka National Park
 date: 2014-09-28 08:10:32
 category: destinations
-tags: 
+tags:
   - destinations
   - kurjenrahka
   - finland
@@ -15,7 +15,10 @@ Saturday I went out to the woods again to explore other parts of the Kurjenrahka
 [![Kurjenrahka National Park](https://farm3.staticflickr.com/2941/15376364205_12fb4cc083_b.jpg)](https://www.flickr.com/photos/90204224@N07/15376364205 "Kurjenrahka National Park Vajosuo and Takaniitunvuori sign")
 
 <!--more-->
-I started the first part of my hike in Vajsuo. 
+
+{% include banner_ad.html %}
+
+I started the first part of my hike in Vajsuo.
 
 [![Kurjenrahka National Park](https://farm4.staticflickr.com/3927/15189720557_85be1cf084_b.jpg)](https://www.flickr.com/photos/90204224@N07/15189720557 "Kurjenrahka National Park Vajosuo and Takaniitunvuori information board entrance")
 
