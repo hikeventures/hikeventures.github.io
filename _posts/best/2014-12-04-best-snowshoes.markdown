@@ -13,6 +13,10 @@ We have been snowshoing in Finnish Lapland and in the Austrian Alps last year an
 
 ---
 
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 # The best snowshoes 2016
 
 <div class="table-responsive">

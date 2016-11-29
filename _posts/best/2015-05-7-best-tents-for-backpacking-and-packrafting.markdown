@@ -14,6 +14,10 @@ For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](
 
 ---
 
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 # The best tents for backpacking, hiking and packrafting in 2016
 
 <div class="table-responsive">

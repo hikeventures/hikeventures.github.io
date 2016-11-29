@@ -12,7 +12,13 @@ layout: post
 
 For our packrafting adventures I am always looking for the latest action camera developments for 205 / 2016. Obviously, there are two models which are currently hot on the market - the GoPro Hero 4 and the Sony FDR-X1000V. Now the questions evolved which of those two action cameras should be a replacement for our old GoPro Hero 3+. <a href="https://www.flickr.com/photos/90204224@N07/14989210509"><img src="https://farm4.staticflickr.com/3914/14989210509_5843d64fd7_o.jpg" width="640" height="640" ></a><!--more-->
 
-In order to answer the question I am just going to compare the specifications of the cameras. Of course, if you are used to the GoPro Software to edit videos then you are most likely tempted to get the GoPro Hero 4. Sony, however is a market leader in developing camera sensors and since action cameras have the highest market share in the camera business it's quite obvious that Sony is going to stay here.
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
+To answer the question I am just going to compare the specifications of the cameras. Of course, if you are used to the GoPro Software to edit videos then you are most likely tempted to get the GoPro Hero 4. Sony, however is a market leader in developing camera sensors and since action cameras have the highest market share in the camera business it's quite obvious that Sony is going to stay here.
 
 <iframe src="https://player.vimeo.com/video/76995626" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br>Our packrafting video taken with a GoPro Hero 2 camera in [Sarek National Park](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/).
 

@@ -13,6 +13,10 @@ Are you planning an outdoor adventure to a place where it's wet or humid? Then y
 
 ---
 
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 # Overview of the best fleece jackets for 2016
 
 <div class="table-responsive">

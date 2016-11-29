@@ -23,6 +23,12 @@ As we are planning a more extensive trip this year we had a look on a USB batter
 
 After doing some research online I came across the Anker 2nd Gen Astro E5 with a capacity of 16000mAh - 6000mAh more juice than the Anker Astro E3. There were also some similar products available but after reading reviews and comments some of them didn't deliver the capacity which they were advertised with.
 
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 ## Weight
 The Anker 2nd Gen Astro E5 16000mAh weights about 296 grams while our old Astro E3 10000mAh weights about 245 grams - an increase of weight by only 66 grams. While the Astro E3 weights about 0.0245 grams/mAh we can see a decrease to  0.0185 grams/mAh on the 2nd Gen Astro E5.
 

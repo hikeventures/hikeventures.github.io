@@ -13,6 +13,10 @@ Do you know how to stay warm during a hiking trip? Don't get wet! Here is my sel
 
 ---
 
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 # The best rain jackets 2016
 
 <div class="table-responsive">

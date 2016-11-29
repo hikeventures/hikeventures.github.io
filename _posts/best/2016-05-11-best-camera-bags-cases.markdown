@@ -16,6 +16,10 @@ As I have recently upgraded my own camera, I was in need of a new camera case wh
 
 ---
 
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 # The best camera bags for Sony A7 or a6300
 
 <div class="table-responsive">

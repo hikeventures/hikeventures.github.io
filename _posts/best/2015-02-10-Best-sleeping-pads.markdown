@@ -15,6 +15,10 @@ From all sleeping pads I would probably recommend you the <a href="http://amzn.t
 
 ---
 
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 # The best lightweight sleeping pads of 2016
 
 <div class="table-responsive">

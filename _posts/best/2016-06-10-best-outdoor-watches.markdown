@@ -13,6 +13,10 @@ Today I would like to present you the best outdoor GPS watches which feature a c
 
 ---
 
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 # The best outdoor gps watches for 2016
 
 <table>

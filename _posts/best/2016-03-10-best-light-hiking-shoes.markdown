@@ -13,6 +13,10 @@ If you are into ultralight hiking then you are probably also interested into my 
 
 ---
 
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 # The best ultralight hiking shoes
 
 <div class="table-responsive">

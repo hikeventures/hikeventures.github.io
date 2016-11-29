@@ -14,6 +14,10 @@ Proper hiking boots are important if you are planning to hike in the mountains o
 
 ---
 
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 # The best hiking boots for 2016
 
 <div class="table-responsive">

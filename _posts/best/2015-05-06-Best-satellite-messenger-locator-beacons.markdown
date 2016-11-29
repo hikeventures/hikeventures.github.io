@@ -14,6 +14,10 @@ A satellite messenger, GPS Tracker or a Personal Locator Beacon should be with y
 
 ---
 
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 # The best satellite gps messengers for 2016
 
 <div class="table-responsive">

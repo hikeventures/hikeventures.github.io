@@ -15,6 +15,10 @@ Personally, I like the Petzl Nao Plus most since it has plenty of features and a
 
 ---
 
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 # The best headlamps of 2016
 
 <div class="table-responsive">
