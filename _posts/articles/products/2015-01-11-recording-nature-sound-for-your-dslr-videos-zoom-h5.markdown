@@ -17,14 +17,10 @@ Having used my Sony A7 for over 1 year I am planning to get better sound on my V
 
 First of all it was important to know which type of microphone I would need. The <a href="http://amzn.to/1yTJDZs" rel="nofollow">Zoom H5</a> comes with an X/Y microphone which seems to be a good microphone to record the environment but also towards a certain direction. I will also get the the <a href="http://amzn.to/1y2BLVy" rel="nofollow">APH-5</a> extension pack for the Zoom H5 next week which comes with a wind shield and a remote control.
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 
-You could also buy the new <a href="http://amzn.to/2dUJ64d" rel="nofollow" target="_blank">Zoom H4n Pro</a> if you are on a budget but I prefer the Zoom H5 since you can detach the X/Y microphone if you don't need it. Also the level control on the front is much nice on the H5. For a more focused recording (e.g. if you want to record a bird in the distance), a shotgun microphone would be even better and I might consider buying a <a href="http://amzn.to/14jumU0" rel="nofollow">Sennheiser MKE 600</a> in the future as well. This blog post contains affiliate links.
+You could also buy the new <a href="http://amzn.to/2dUJ64d" rel="nofollow" target="_blank">Zoom H4n Pro</a> if you are on a budget but I prefer the Zoom H5 since you can detach the X/Y microphone if you don't need it. Also the level control on the front is much nice on the H5. For a more focused recording (e.g. if you want to record a bird in the distance), a shotgun microphone would be even better and I might consider buying a <a href="http://amzn.to/14jumU0" rel="nofollow">Sennheiser MKE 600</a> in the future as well.
 
 ---
 
@@ -131,7 +127,7 @@ Obviously, with the equipment mentioned above you should get great audio quality
 
 <a href="http://amzn.to/2eG3GnK" rel="nofollow"><button class="btn btn-danger">Buy on Amazon</button></a>
 
-
+{% include disclaimer.html %}
 
 ---
 

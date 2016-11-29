@@ -3,17 +3,19 @@ title: Navigation Tools for Hiking
 description: Tools I use for Hiking and Packrafting
 date: 2013-07-20 07:30:00
 category: reviews
-tags: 
+tags:
   - reviews
   - maps
   - calazo
 layout: post
 ---
 
-For our hiking trip in Sweden we are going to use 3 navigation tools in order to find our way through the Swedish mountains. 
+For our hiking trip in Sweden we are going to use 3 navigation tools in order to find our way through the Swedish mountains.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9327368022"><img src="https://farm3.staticflickr.com/2833/9327368022_3b131753c2_b.jpg" width="600"  alt="Calazo Maps Sarek Tyvek"></a>
 <!--more-->
+
+{% include banner_ad.html %}
 
 ## Why are navigation tools important?
 You may want to hike off trail or there are no trails at all in the National Park due to certain regulations. In order to know where you are and to find your way back you should get the navigation tools listed below for your next hiking trip.

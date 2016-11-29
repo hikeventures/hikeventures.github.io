@@ -12,19 +12,15 @@ tags:
   - blogging
 layout: post
 ---
-Today (updated 11.10.2016), I would like to present[^1] my planned workflow using the Sony A7, Samsung T3, Lightroom and the Macbook Pro 2016 which will probably be released soon. Whenever, I buy a new Macbook I also look on what accessories would be available to improve my photography workflow.
-
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+Today (updated 11.10.2016), I would like to present my planned workflow using the Sony A7, Samsung T3, Lightroom and the Macbook Pro 2016 which will probably be released soon. Whenever, I buy a new Macbook I also look on what accessories would be available to improve my photography workflow.
 
 I bought my <a href="http://amzn.to/2d46BsB" rel="nofollow">Sony A7</a> a few months ago as I wanted to have a full frame camera. The Sony A7 is a real bargain compared to the more expensive <a href="http://amzn.to/2dFsEoM" rel="nofollow">Sony A7RII</a>. At the moment I don't need 4K, hundreds of AF tracking points and burst speed is also not important for me. So there is actually no reason for me to pay 2000 EUR more for a camera where I don't use all the functions.
 
 My lens collection consists of the <a href="http://amzn.to/2e2gvHo" rel="nofollow">Samyang 14mm f2.8</a>, <a href="http://amzn.to/2e5khks" rel="nofollow">Zeiss Batis 25mm f2</a> and currently I am saving for the <a href="http://amzn.to/2e5ktQM" rel="nofollow">Sony 70-200 f4</a>. The Samyang is a real bargain compared to the other two lenses but you get a pretty good image quality with it. Some people had some issues with the durability of the Samyang but for me it's just a play around lens. Usually, I have my Zeiss Batis 25mm on my Sony A7.
 
 <!--more-->
+
+{% include banner_ad.html %}
 
 <a href="https://www.amazon.com/gp/product/B00IAOS4Y2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IAOS4Y2&linkCode=as2&tag=hikeve-20&linkId=0d8c73ea2c73fcb91754f80976da6906" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00IAOS4Y2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00IAOS4Y2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -58,6 +54,8 @@ As a monitor I am planning to connect my Macbook Pro 2016 to the new <a href="ht
 ## Conclusion
 There are several ways to transfer your files and work with them. The process described above is just my personal preference. You could also create a similar workflow with less expensive hard drives but the ones I mentioned in this article are currently my personal favorites even so they might be a bit expensive.
 
+{% include disclaimer.html %}
+
 ---
 
 <script type="text/javascript">
@@ -77,5 +75,3 @@ amzn_assoc_linkid = "d995dd7aa02d336b4c22488be86b6355";
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
-
-[^1]:	article contains affiliate links

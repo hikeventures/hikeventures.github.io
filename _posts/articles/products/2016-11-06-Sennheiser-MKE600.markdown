@@ -16,8 +16,6 @@ Yesterday I went with <a href="http://caide.kuvat.fi/" rel="nofollow">Caj</a> an
 
 <!--more-->
 
----
-
 <h1><a href="http://amzn.to/2fn8WwS" target="_blank" rel="nofollow">Sennheiser MKE 600</a></H1>
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00B0YPAYQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00B0YPAYQ&linkCode=as2&tag=hikeve-20&linkId=3389c96ef87b43ef0de14f18afc2d686" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00B0YPAYQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00B0YPAYQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 

@@ -1,5 +1,5 @@
 ---
-title: The SanDisk UHS-II 1TB SDXC on a Sony A7 and as a possible SSD alternative. 
+title: The SanDisk UHS-II 1TB SDXC on a Sony A7 and as a possible SSD alternative.
 description: Could SD cards replace your SSD drive in the future?
 date: 2016-09-22 06:50:20
 category: articles
@@ -14,9 +14,11 @@ Sandisk has recently introduced it's new SanDisk 1TB SDXC card which could be qu
 
 <!--more-->
 
-Currently, I have no computer available at home since I am waiting for the new Macbook Pro to be released and I need to have my files and data available on a different computer. As I don't want to carry a hard drive with me I just use my SD cards as my mobile drive ... and it works. 
+{% include banner_ad.html %}
 
-Price aside, being able to store 1TB on a SD card is just amazing. Of course, I could also buy a simple 1 TB hard drive which is probably a cheaper solution but it's just more bulky. 
+Currently, I have no computer available at home since I am waiting for the new Macbook Pro to be released and I need to have my files and data available on a different computer. As I don't want to carry a hard drive with me I just use my SD cards as my mobile drive ... and it works.
+
+Price aside, being able to store 1TB on a SD card is just amazing. Of course, I could also buy a simple 1 TB hard drive which is probably a cheaper solution but it's just more bulky.
 
 However, looking into the future I believe that SD cards could be a great option to carry your data in your wallet. You can easily take them everywhere with you to store your day to day files but also use them to take pictures. At the same time you backup your files to the cloud.
 
@@ -24,15 +26,15 @@ If you think that the new SanDisk 1TB SDXC card is too expensive then you could 
 
 ## What about the speed?
 The read speed of UHS-II cards is 280MB/s while the write speed is 250MB/s.
-On the other hand SSD cards like the new portable <a href="http://amzn.to/2cSwzhm" rel="nofollow" target="_blank">Samsung T3</a> have a data transfer speed of 450MB/s. 
+On the other hand SSD cards like the new portable <a href="http://amzn.to/2cSwzhm" rel="nofollow" target="_blank">Samsung T3</a> have a data transfer speed of 450MB/s.
 
 ## Workflow
-I usually copy the files I am planning to work with to my internal SSD drive on my Macbook before I start working with them. I constantly backup all my files stored on my computer and on my external drives to the cloud. 
+I usually copy the files I am planning to work with to my internal SSD drive on my Macbook before I start working with them. I constantly backup all my files stored on my computer and on my external drives to the cloud.
 
 ## Conclusion
-If speed is more important to you then you should consider the <a href="http://amzn.to/2cSwzhm" rel="nofollow" target="_blank">Samsung T3</a> SSD. If you are looking for the smallest portable solution to store your data then UHS-II cards (e.g. from SanDisk or Lexar) are the way to go from my point of view. 
+If speed is more important to you then you should consider the <a href="http://amzn.to/2cSwzhm" rel="nofollow" target="_blank">Samsung T3</a> SSD. If you are looking for the smallest portable solution to store your data then UHS-II cards (e.g. from SanDisk or Lexar) are the way to go from my point of view.
 
----
+{% include disclaimer.html %}
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";

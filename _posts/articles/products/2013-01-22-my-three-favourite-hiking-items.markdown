@@ -3,7 +3,7 @@ title: My three favourite hiking items
 description: Three items I take with me when I go hiking
 date: 2013-01-22 07:30:00
 category: articles
-tags: 
+tags:
   - articles
   - hiking
 layout: post
