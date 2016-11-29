@@ -7,7 +7,7 @@ tags:
   - tidbits
 layout: post
 ---
-We are currently adventuring in Lapland. So far we have done a lot of Snowshoeing and Cross-Country Skiing in Kiilopää and Saariselkä. Unfortunately, we didn't have much sun so far but it's still great here. Below you can see an image of the moon shining over the Urho Kekkonen National Park. You will read more on our blog soon.
+We are currently adventuring in Lapland. So far we have done a lot of Snowshoeing and Cross-Country Skiing in Kiilopää and Saariselkä. Unfortunately, we didn't have much sun so far but it's still great here. Below you can see an image of the moon shining over the Urho Kekkonen National Park. You will read more on our blog soon. {% include intro_tidbits.html %}
 <br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/16199155969" title="Moon at Urho Kekkonen National Park"><img src="https://farm8.staticflickr.com/7451/16199155969_80cb33d3ec_b.jpg" width="1024" height="680" alt="Moon at Urho Kekkonen National Park"></a><br><!--more--><br>
 
