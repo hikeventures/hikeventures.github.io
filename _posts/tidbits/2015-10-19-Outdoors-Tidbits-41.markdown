@@ -6,7 +6,7 @@ category: tidbits
 tags:
   - tidbits
 ---
-Last week Konstantin went hiking in the Dutch forest hunting for mushrooms. We still have decide for a winter trip. However, but Patrick is going to visit his home town nearby the Alps in November combining it with a day hike in the mountains. We are still working on a view gear reviews which should be on our blog in the near future. Suunto has released it's latest outdoor watch - the <a href="http://amzn.to/1OPlx8n">Suunto Traverse</a> for hikers. Seems that it has similar functions as the Ambit3...
+Last week Konstantin went hiking in the Dutch forest hunting for mushrooms. We still have decide for a winter trip. However, but Patrick is going to visit his home town nearby the Alps in November combining it with a day hike in the mountains. We are still working on a view gear reviews which should be on our blog in the near future. Suunto has released it's latest outdoor watch - the <a href="http://amzn.to/1OPlx8n">Suunto Traverse</a> for hikers. Seems that it has similar functions as the Ambit3. {% include intro_tidbits.html %}
 <br><br>
 <img src="https://farm6.staticflickr.com/5744/22284749066_192579f805_b.jpg" width="100%" alt="Turku Archipelago">
 <!--more-->
