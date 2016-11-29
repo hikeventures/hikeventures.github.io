@@ -7,7 +7,7 @@ tags:
   - tidbits
 layout: post
 ---
-Konstantin has received his new Petzl Nao headlamp and Patrick might go on a packrafting trip this weekend in Finland. Have a great Halloween!<br><br>
+Konstantin has received his new Petzl Nao headlamp and Patrick might go on a packrafting trip this weekend in Finland. Have a great Halloween! {% include intro_tidbits.html %}<br><br>
 
 <a href="https://www.flickr.com/photos/90204224@N07/15658793671"><img src="https://farm4.staticflickr.com/3955/15658793671_ddde555efb_b.jpg" width="800" height="480"></a><!--more--><br><br>
 
