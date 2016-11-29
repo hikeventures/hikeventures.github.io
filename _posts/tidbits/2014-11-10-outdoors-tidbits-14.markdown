@@ -7,7 +7,7 @@ tags:
   - tidbits
 layout: post
 ---
-We have upgraded our headlamps last week to the latest [Petzl Nao](http://bit.ly/1ztgxkb) headlamp. We are also working on new gear reviews and trip reports. So don't miss to visit our blog frequently or <a href="http://hikeventures.com/atom.xml">subscribe to our RSS feed</a> to stay up to date!<br><br>
+We have upgraded our headlamps last week to the latest [Petzl Nao](http://bit.ly/1ztgxkb) headlamp. We are also working on new gear reviews and trip reports. So don't miss to visit our blog in the frequently. {% include intro_tidbits.html %} <br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/15581097668"><img src="https://c1.staticflickr.com/9/8270/15581097668_e4633233a6_b.jpg" width="1024" height="683" alt="Petzl Nao 2"></a><!--more--><br><br>
 
 Some book suggestions for the coming long winter nights: [1. The Winter Camping Handbook](http://amzn.to/10VL2Q5), [2. Wilderness and Survival Medicine 2014](http://amzn.to/1zhA1o7) and [3. Shelters, Shacks and Shanties](http://amzn.to/1xuOnSK)
