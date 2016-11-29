@@ -7,7 +7,7 @@ tags:
   - tidbits
 layout: post
 ---
-Patrick had a great morning porridge in Finland where temperatures have dropped to freezing -13C. However, it's still quite nice to go for a walk outside and enjoy the white winter wonderland. Konstantin is in Poland again working on a review and we have finally some time to discuss our Lapland trip in more detail during the holiday season.
+Patrick had a great morning porridge in Finland where temperatures have dropped to freezing -13C. However, it's still quite nice to go for a walk outside and enjoy the white winter wonderland. Konstantin is in Poland again working on a review and we have finally some time to discuss our Lapland trip in more detail during the holiday season. {% include intro_tidbits.html %}
 <br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/11265029666" title="Candle Lamp Winter Finland"><img src="https://farm4.staticflickr.com/3805/11265029666_d26c4a5024_b.jpg" width="1024" height="683" alt="Candle Lamp Winter Finland"></a>
 <!--more--><br><br>
