@@ -7,7 +7,7 @@ tags:
   - tidbits
 layout: post
 ---
-This week we were trying to figure out how to get to Kiruna for the Fjällräven Classic Event in August. There should be some offers from the 18th of February from Stockholm up north. What else...? Currently, they are quite many sales going on in different outdoor stores across Europe. So we are also trying to find new outdoor gear which could be used during the Winter 2015 / 2016 season. Moreover, we are also waiting for new camera announcements at the CP+.<br><br>
+This week we were trying to figure out how to get to Kiruna for the Fjällräven Classic Event in August. There should be some offers from the 18th of February from Stockholm up north. What else...? Currently, they are quite many sales going on in different outdoor stores across Europe. So we are also trying to find new outdoor gear which could be used during the Winter 2015 / 2016 season. Moreover, we are also waiting for new camera announcements at the CP+. {% include intro_tidbits.html %}<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/16323986350" title="Arriving in Lapland"><img src="https://farm9.staticflickr.com/8668/16323986350_a2804e7ab3_b.jpg" width="1024" height="676" alt="Arriving in Lapland"></a><br><!--more--><br>
 The Black Mountains. -  [willwalkswales.wordpress.com]( https://willwalkswales.wordpress.com/2015/02/09/the-black-mountains/)
 <br><br>
