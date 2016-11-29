@@ -11,11 +11,7 @@ layout: post
 ---
 For our hiking and snowshoeing trip in Northern Norway we were looking for new merino wool base layers which would also work under arctic conditions. You can also use the baselayers for other outdoor activities like skiing, snowboarding or mountaineering. So far I have already experience with wearing the Devold Expedition base layer and I am quite happy with it.
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 However, there are also alternatives out there which I would like to present in this blog post (containt affiliate links) which might be even better base layer options depending on your needs. Icebreaker has sent us a sample base layer which we are going to test in Norway. My first impression is that the base layer feels quite comfortable and soft on the skin. However, we really need to test it first to give a final conclusion.
 

@@ -12,11 +12,7 @@ tags:
 
 For my next snowshoeing trip in Lapland I was looking for a new pair of gloves or mittens to replace my old gloves. Here is our selection of the best winter gloves which I would consider to buy for skiing, snowboarding, snowshoeing or hiking in 2017.
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 # The best winter gloves for skiing and snowboarding for 2017
 

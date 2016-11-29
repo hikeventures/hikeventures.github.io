@@ -11,11 +11,7 @@ layout: post
 ---
 Are you planning an outdoor adventure to a place where it's wet or humid? Then you should have a fleece jacket in your backpack. A fleece jacket can be used as a mid-layer to keep you warm while you are active (climbing, hiking, skiing or biking) and dries rather fast. For wet conditions a fleece jacket is a better choice than a [down jacket][1] to protect yourself against the cold as down will lose it's insulation once it's wet. Here is our selection of the best fleece jackets for 2016.
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 # Overview of the best fleece jackets for 2016
 

@@ -9,11 +9,7 @@ layout: post
 ---
 As I am planning to buy a new Macbook Pro I was curious to find out which monitor I should get to connect it with my new Macbook Pro and what would be the best alternative to the LG UltraFine 4K or 5K monitors. I really would like to have an external 4K or 5K monitor with my Macbook Pro since it is much more convenient to edit pictures. In the past I had a 27" HD monitor to edit my pictures but since I am planning to take 4K videos in the near future I would be really nice to have a 4K or even a 5K screen.
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 I really like the idea to have less cables on my desk so USB-C would be a really nice feature. There would be no need to plug and unplug USB cables anymore on the Macbook Pro. All my USB cables would be connected to my monitor and there would be just one single USB-C which is connected to my Macbook Pro.
 

@@ -3,7 +3,7 @@ title: Hiking Gear for 2014
 description: Gear I am planning to buy for 2014
 date: 2013-12-31 09:33:04
 category: articles
-tags: 
+tags:
   - articles
   - best
   - hiking
@@ -18,6 +18,8 @@ I am going to keep my <a href="http://hikeventures.com/gear-review-hmg-porter-44
 
 <h2>Tent</h2>
 <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/" target="_self">Hilleberg Anjan 2</a> for trips with 2 person but I am also interested in the <a href="http://www.hilleberg.com/home/products/soulo/soulo.php" target="_blank">Hilleberg Soulo</a> for solo trips.
+
+{% include banner_ad.html %}
 
 <h2>Hiking pants</h2>
 <a href="http://hikeventures.com/gear-review-arcteryx-palisade-pants/" target="_self">Arcteryx Palisade Pants</a>. They are light and dry fast.

@@ -15,11 +15,7 @@ When you are new into hiking and backpacking then you might come up with the que
 
 Sometimes - especially when you are new into hiking and backacking - you don't really think that much about your wallet. However, when you get  more experience and plan to cut some weight on your gear then you will realize that even changing your wallet can make a difference in weight and functionality.
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 But not only weight is an important factor when considering which wallet to choose. In some countries there is no need to have cash with you e.g. in Finland you can pay in most places with a card. Maybe there are some exceptions where you still need some cash with you but in most places you will be fine with a card. In countries where you can pay mostly with cards you can even take a smaller wallet with you like the Fjällräven Zip Card Holder.
 

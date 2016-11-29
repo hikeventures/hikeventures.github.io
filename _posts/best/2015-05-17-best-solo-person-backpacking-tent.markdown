@@ -14,11 +14,7 @@ Are you looking for a new tent and want to know which one is the best solo backp
 
 I would like to give an overview about the best solo backpacking tents which we have selected for 2016. It's important to know that each tent is made for a specific purpose so there is no one tent fits all tent. Just as a side note - I have not included tarps in my selection.
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 <h1>The best solo tents for 2016</h1>
 <div class="table-responsive">

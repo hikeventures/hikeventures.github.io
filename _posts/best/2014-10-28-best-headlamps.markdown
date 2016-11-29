@@ -13,11 +13,7 @@ Planning a winter trip in the North or just need a headlamp for the night? A goo
 
 Personally, I like the Petzl Nao Plus most since it has plenty of features and also offers the Petzl Nao Belt Kit which allows me to carry the battery under the jacket rather than on my head which can shorten the beattery life especially when wearing in [colder regions][1]. I have also used the previous model of the Nao in [Swedish Lapland][2]. However, if you are looking for a smaller headlamp which is also waterproof then I would rather pick the <a href="http://amzn.to/2fkaiqv" rel="nofollow" target="_blank">Black Diamond Spot</a> which features red light and 200 Lumen - sufficient for hiking even in the Alps.
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 # The best headlamps of 2016
 

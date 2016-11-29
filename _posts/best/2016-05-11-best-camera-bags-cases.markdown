@@ -14,11 +14,7 @@ In this blog post I would like to give an overview about the best camera bags wh
 
 As I have recently upgraded my own camera, I was in need of a new camera case which I can use for my outdoor adventures. I was looking for a camera bag or case which packs small and actually came to the conclusion that I would need different camera bags for my MILC for different activities.
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 # The best camera bags for Sony A7 or a6300
 

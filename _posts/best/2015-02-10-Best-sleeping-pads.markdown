@@ -13,11 +13,7 @@ In this blog post you can find the best lightweight sleeping pads which we would
 
 From all sleeping pads I would probably recommend you the <a href="http://amzn.to/2eQX99w" target="_blank" rel="nofollow">Therm-a-Rest XTherm</a> most. I have received the XTherm from Therm-a-Rest for testing and it's now my go-to sleeping pad throughout the year. This blog post contains affiliate links.
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 # The best lightweight sleeping pads of 2016
 

@@ -12,11 +12,7 @@ tags:
 
 Need a new rain jacket for your next outdoor adventure? I always take a rain jacket with me when I go [hiking](http://www.hikeventures.com/destinations/) or cycling. Depending on the season or activity it might also be a good idea to have different rain jackets. For example if I go on a hiking or backpacking trip I usually take a very light rain jacket. For winter activities like skiing or snowboarding I would rather take a more durable jacket with me. Here is a selection of the best new rain jackets for 2017 on the market. This is not a complete list and I may add a few more models in the future.
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 # The best new rain jackets 2017
 

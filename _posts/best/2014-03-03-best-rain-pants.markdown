@@ -12,11 +12,7 @@ layout: post
 
 Planning to go hiking, backpacking or any other backcountry adventure? Then you should consider to pack lightweight rain pants in into your backpack. Rain pants will help you to stay dry and warm and is one of the most essential items you should have when planning an outdoor trip. Personally, I prefer to take the lightest rain clothes with me during my summer and autumn hikes as they will probably stay most of the time in my backpack. If you plan to wear your rain jacket on a daily base with a backpack on your shoulders you should probably buy a rain jacket with a more durable fabric which might also weight more. Here is our selection of the best rain pants for 2016.
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 # The best rain pants of 2016
 

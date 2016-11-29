@@ -37,7 +37,7 @@ Are you planning a hiking, backpacking or packrafting trip in Scandinavia? Here 
 ## Sarek National Park in Sweden
 The Sarek National Park is one of the remotest areas in Sweden to visit. You can travel by train from Stockholm to Gällivare and then take a bus towards Suorva. Unfortunately, it is not allowed to packraft anymore in the Sarek National Park but it’s still one of the best places to visit if you are planning an extended outdoor adventure with a breathtaking scenery. Since there is no phone signal available you should consider taking some sort of GPS messenger with you especially if you travel alone. [Here](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) you can read more about our adventure in the Swedish mountains.
 
----
+{% include banner_ad.html %}
 
 ## Torneträsk lake (Abisko National Park) in Sweden
 The Torneträsk lake located next to the Abisko National Park is a bit further north than the Sarek National Park. However, it is easier to access the National Park compared to the Sarek National Park as you don’t have to change from the train to a bus. From the Torneträsk lake you can enjoy a great view towards the Lapporten (the Lapponian Gate). There are also skiing possibilities and the [Aurora Sky Station](http://www.auroraskystation.com/en/) where you have a chance to observe northern lights.

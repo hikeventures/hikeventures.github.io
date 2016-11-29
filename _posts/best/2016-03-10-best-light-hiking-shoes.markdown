@@ -11,11 +11,7 @@ layout: post
 ---
 If you are into ultralight hiking then you are probably also interested into my buying guide for the best light summer hiking shoes for 2016. If you are coming from traditional hiking boots then you may notice that lightweight trail shoes can save you a lot of weight.
 
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
+{% include banner_ad.html %}
 
 # The best ultralight hiking shoes
 
