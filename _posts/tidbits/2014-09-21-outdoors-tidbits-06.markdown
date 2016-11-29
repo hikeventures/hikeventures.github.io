@@ -7,7 +7,7 @@ tags:
   - tidbits
 layout: post
 ---
-Patrick has tested his [Suunto Ambit3 Sport HR](http://amzn.to/1uTyALR) a couple of times and really loves it! The [first Finnish Packrafting Gathering](http://korpijaakko.com/2014/08/27/the-first-finnish-packrafting-gathering/) is getting closer and don't miss to join the Packrafting in Finland [Facebook Group](https://www.facebook.com/groups/851417628210793/)<br><br>
+Patrick has tested his [Suunto Ambit3 Sport HR](http://amzn.to/1uTyALR) a couple of times and really loves it! The [first Finnish Packrafting Gathering](http://korpijaakko.com/2014/08/27/the-first-finnish-packrafting-gathering/) is getting closer. {% include intro_tidbits.html %}<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/15030793280"><img src="https://farm4.staticflickr.com/3895/15030793280_7db6c5f857_b.jpg" width="1024" height="683"></a><!--more-->
 <br><br>
 Size comparison of new Zeiss / Sony FE lenses. - [sonyalpharumors.com](http://www.sonyalpharumors.com/perfect-size-comparison-of-all-four-new-fe-lenses-zeiss-sony-and-loxia/)<br><br>
