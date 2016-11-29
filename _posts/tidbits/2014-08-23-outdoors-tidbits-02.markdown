@@ -1,4 +1,3 @@
-
 ---
 title: Outdoors Tidbits 2
 description: The latest outdoor gear reviews tips and tricks
