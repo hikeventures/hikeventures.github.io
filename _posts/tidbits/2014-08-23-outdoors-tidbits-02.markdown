@@ -1,6 +1,6 @@
 ---
 title: Outdoors Tidbits 2
-description: The latest outdoor gear reviews, tips & tricks - Nr. 2
+description: The latest outdoor gear reviews, tips and tricks - Nr. 2
 date: 2014-08-23 08:17:20
 category: tidbits
 layout: post
