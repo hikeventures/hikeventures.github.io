@@ -8,6 +8,8 @@ tags:
   - tidbits
 layout: post
 ---
+{% include intro_tidbits.html %}
+
 
 ## Gear Reviews
 
