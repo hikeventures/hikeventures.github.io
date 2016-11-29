@@ -9,7 +9,7 @@ layout: post
 ---
 
 
-Last weekend we have participated in the Finnish Packrafting Gathering. Konstantin is still in the Netherlands but his luggage got lost (and all his gear) on his flight to Norway. Let's hope that it still can be found. So what's next? Our next winter adventure will probably be in Lapland but we have not decided yet 100% about the destination. Until then we will have some microadventures here in Finland, Poland or the Netherlands. Below a view towards Suomenlinna in Helsinki which I took last Saturday.
+Last weekend we have participated in the Finnish Packrafting Gathering. Konstantin is still in the Netherlands but his luggage got lost (and all his gear) on his flight to Norway. Let's hope that it still can be found. So what's next? Our next winter adventure will probably be in Lapland but we have not decided yet 100% about the destination. Until then we will have some microadventures here in Finland, Poland or the Netherlands. Below a view towards Suomenlinna in Helsinki which I took last Saturday. {% include intro_tidbits.html %} <!--more-->
 
 <img src="https://farm6.staticflickr.com/5817/21641774221_d41efaafee_b.jpg" width="100%"><!--more-->
 
