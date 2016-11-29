@@ -7,7 +7,7 @@ layout: post
 tags:
   - tidbits
 ---
-The week has been really busy as we redesigned our HikeVentures blog. Meanwhile it has rained a lot this week in Finland so it's a good time to test waterproof clothes. <br><br>If you are into Packrafting in Finland you may now also join our <a href="https://www.facebook.com/groups/851417628210793" target="_blank">Packrafting in Finland group</a> on Facebook. There is also going to be a Packraft Gathering in Finland in the coming weeks. {% include intro_tidbits.html %}
+The week has been really busy as we redesigned our HikeVentures blog. Meanwhile it has rained a lot this week in Finland so it's a good time to test waterproof clothes. There is also going to be a Packraft Gathering in Finland in the coming weeks. {% include intro_tidbits.html %}
 
 <a href="https://www.flickr.com/photos/90204224@N07/14918871585" title="Farm - Evening hike in Friskala Hirvensalo Luontopolku"><img src="https://farm4.staticflickr.com/3877/14918871585_c8e1bc7881_b.jpg" width="1024" height="683" alt="Farm - Evening hike in Friskala Hirvensalo Luontopolku"></a><!--more--><br>
 
