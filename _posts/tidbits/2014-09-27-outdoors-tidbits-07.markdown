@@ -8,7 +8,9 @@ tags:
 layout: post
 ---
 
-We are currently working on a new logo for our blog. The <a href="http://korpijaakko.com/2014/08/27/the-first-finnish-packrafting-gathering/" target="_blank">first Finnish Packrafting Gathering</a> is getting closer and don't miss to join the Packrafting in Finland <a href="https://www.facebook.com/groups/851417628210793" target="_blank">Facebook Group</a>. On <a href="http://www.avantlink.com/click.php?tt=ml&amp;ti=313709&amp;pw=150351" target="_blank">Campsaver</a> you can receive 15% off your first order when you sign up for their newsletter. On Backcountry.com you can receive up to 50% off on their outlet products by using <a href="http://www.avantlink.com/click.php?tt=ml&amp;ti=373783&amp;pw=150351"> code: 50BUMP</a>.<a href="https://www.flickr.com/photos/90204224@N07/8198552930" title="Repovesi National Park" target="_blank"><img src="https://farm9.staticflickr.com/8350/8198552930_97346916a8_c.jpg" width="800" height="534" alt="Repovesi National Park in Finland"></a><!--more-->
+We are currently working on a new logo for our blog. The <a href="http://korpijaakko.com/2014/08/27/the-first-finnish-packrafting-gathering/" target="_blank">first Finnish Packrafting Gathering</a> is getting closer and don't miss to join the Packrafting in Finland <a href="https://www.facebook.com/groups/851417628210793" target="_blank">Facebook Group</a>. {% include intro_tidbits.html %}
+
+<a href="https://www.flickr.com/photos/90204224@N07/8198552930" title="Repovesi National Park" target="_blank"><img src="https://farm9.staticflickr.com/8350/8198552930_97346916a8_c.jpg" width="800" height="534" alt="Repovesi National Park in Finland"></a><!--more-->
 
 Rumored GoPro Hero 4 Specs appeared. - <a href="http://www.diyphotography.net/gopro-hero-4-models-likely-get-4k-video-capability-30fps-touch-screen-lcd" target="_blank">diyphotography.net</a>
 First impression: Nikon D750. - <a href="http://nikonrumors.com/2014/09/25/nikon-d750-first-impressions.aspx" target="_blank">nikonrumors.com</a>
