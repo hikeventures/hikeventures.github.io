@@ -15,6 +15,13 @@ layout: post
 
 GPS watches like the Suunto Ambit2 or Suunto Ambit3 are quite interesting gadgets if you want to track your route or if you want to plan your route ahead. In general, the only model I could think of which comes close to the Suunto Ambit3 is the Garmin Fenix 3 which has a colour display. However, my personal preference goes towards the <a href="http://amzn.to/2ey5Pmh" rel="nofollow" target="_blank">Suunto Ambit3</a> or <a href="http://amzn.to/2eklrdT" rel="nofollow" target="_blank">Suunto Traverse</a> (this blog post contains affiliate links).
 
+---
+
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
+
 Suunto recently released the <a href="http://amzn.to/2eAj31a" rel="nofollow" target="_blank">Suunto Spartan</a> - a GPS watch with color display and touch screen. Then there is also the new <a href="http://amzn.to/2ekkYbG" rel="nofollow" target="_blank">Apple Watch Series 2</a> which however does not have such a long battery life. I use my Suunto Ambit3 mainly for running, packrafting and hiking and upgraded from the Suunto Ambit2 to the Suunto Ambit3 Sport.
 
 **Update:** I have <a href="http://www.hikeventures.com/Suunto-Traverse-Ambit3-differences/">upgraded</a> my Suunto Ambit 3 to the Suunto Traverse. If you need a multisport watch then you should rather consider the Suunto Ambit3 Vertical or the Suunto Spartan rather than the Suunto Traverse.

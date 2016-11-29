@@ -13,6 +13,10 @@ Here is a selecetion of camping, hiking and backpacking gift and gadget ideas fo
 
 ---
 
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 <h1><a href="http://amzn.to/2fbL8KX" rel="nofollow" target="_blank">Snail Shape Silicone Tea Bag Holder</a></h1>
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B016ZADA9G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B016ZADA9G&linkCode=as2&tag=hikeve-20&linkId=35549cac959be83d45d8faf432e12e6d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B016ZADA9G&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B016ZADA9G" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

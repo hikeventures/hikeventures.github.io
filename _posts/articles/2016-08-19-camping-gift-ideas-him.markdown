@@ -12,6 +12,10 @@ Are you looking for a camping gift for your husband? We might have 12 camping gi
 
 ---
 
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
+
+---
+
 <h1><a href="http://amzn.to/2eED2uN" target="_blank" rel="nofollow">GoPro Hero5 Session</a></h1>
 
 <a href="https://www.amazon.com/gp/product/B01LZTLCFX/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LZTLCFX&linkCode=as2&tag=hikeve-20&linkId=95d9f7159dbdfd1257361f7de73489cc" rel="nofollow" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LZTLCFX&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LZTLCFX" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
