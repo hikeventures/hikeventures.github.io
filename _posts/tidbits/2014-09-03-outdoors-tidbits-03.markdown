@@ -7,7 +7,7 @@ layout: post
 tags:
   - tidbits
 ---
-Konstantin has done some Wadlopen in the Netherlands while Patrick was test driving his Packraft with his new [WindPaddle Sail](http://hikeventures.com/windpaddle-sails-for-packrafting/) in the Turku Archipelago. The confirmed date for the [Finnish Packraft Gathering](http://korpijaakko.com/2014/08/27/the-first-finnish-packrafting-gathering/) seems to be now from 3.10. - 5.10.2014.
+Konstantin has done some Wadlopen in the Netherlands while Patrick was test driving his Packraft with his new [WindPaddle Sail](http://hikeventures.com/windpaddle-sails-for-packrafting/) in the Turku Archipelago. The confirmed date for the [Finnish Packraft Gathering](http://korpijaakko.com/2014/08/27/the-first-finnish-packrafting-gathering/) seems to be now from 3.10. - 5.10.2014. {% include intro_tidbits.html %}
 
 <a href="https://www.flickr.com/photos/90204224@N07/15123904922"><img src="https://farm6.staticflickr.com/5564/15123904922_e61eef3830_o.jpg" width="640" height="640" alt="Wadlopen Holwerd Pier"></a>
 <!--more--><br>
