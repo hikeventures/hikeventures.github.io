@@ -7,9 +7,10 @@ tags:
   - tidbits
 layout: post
 ---
-Here comes our latest outdoors tidbits with the latest outdoors tips and tricks and gear reviews. Temperatures are dropping and it's time to think about winter gear. We had already the first snow up North in Lapland. We are also working on a gear review which we will publish this week as well.
+Here comes our latest outdoors tidbits with the latest outdoors tips and tricks and gear reviews. Temperatures are dropping and it's time to think about winter gear. We had already the first snow up North in Lapland. We are also working on a gear review which we will publish this week as well. {% include intro_tidbits.html %}
 
 <img src="https://farm6.staticflickr.com/5831/21942983082_dd6aba7c05_b.jpg" width="100%" alt="Packrafting in Turku Archipelago"><!--more-->
+<!--more-->
 
 ## Gear on Sale (7. October 2015)
 <a href="http://www.backcountry.com/arcteryx-cerium-lt-hooded-down-jacket-mens?CMP_SKU=ARC3662&MER=0406&utm_source=Avantlink&utm_source=Affiliate&mr:trackingCode=23B113D4-C204-E311-92D4-BC305BF82376&mr:referralID=NA&avad=150351_a9a6ad56">Arc'teryx Cerium LT Hooded Down Jacket</a>
