@@ -9,6 +9,9 @@ tags:
 layout: post
 ---
 
+{% include intro_tidbits.html %}
+
+
 {% include banner_ad.html %}
 ---
 
