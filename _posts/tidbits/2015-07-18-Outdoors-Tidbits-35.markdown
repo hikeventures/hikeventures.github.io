@@ -8,7 +8,7 @@ tags:
 layout: post
 ---
 
-After our hiking and packrafting trip in Poland, Konstantin went off to his honeymoon in Japan where he and his wife are currently hiking in the Japanese Mountains and also testing some gear for our upcoming reviews. I am currently preparing for our trip to Sweden in 2 weeks. The plan is to go to Northern Sweden on the 4th by train and arrive in Kiruna on the 5th. Then we are going to check out some packrafting opportunities or relax a bit until the 9th where we will participate in Fjällräven Classic followed by some packrafting days after the event till 17th of August. Just thinking of which dehydrated food I should take with me and how many memory cards  I should pack for our GoPro Hero4 black ...
+After our hiking and packrafting trip in Poland, Konstantin went off to his honeymoon in Japan where he and his wife are currently hiking in the Japanese Mountains and also testing some gear for our upcoming reviews. I am currently preparing for our trip to Sweden in 2 weeks. The plan is to go to Northern Sweden on the 4th by train and arrive in Kiruna on the 5th. Then we are going to check out some packrafting opportunities or relax a bit until the 9th where we will participate in Fjällräven Classic followed by some packrafting days after the event till 17th of August. Just thinking of which dehydrated food I should take with me and how many memory cards  I should pack for our GoPro Hero4 black. {% include intro_tidbits.html %}
 
 <img src="https://farm1.staticflickr.com/394/19564205862_16344bb3ca_b.jpg" width="100%"  alt="Hiking in Poland">
 
