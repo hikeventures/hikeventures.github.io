@@ -7,7 +7,7 @@ tags:
   -tidbits
 layout: post
 ---
-What a week! We have collected plenty of giveaways for you and we want to thank again our sponsors. We will start our raffle anytime soon. So check back regularly to be the first to get an entry for our first giveaway in our [Advent Calendar](http://hikeventures.com/advent-calendar-2014/).
+What a week! We have collected plenty of giveaways for you and we want to thank again our sponsors. We will start our raffle anytime soon. So check back regularly to be the first to get an entry for our first giveaway in our [Advent Calendar](http://hikeventures.com/advent-calendar-2014/). {% include intro_tidbits.html %}
 <br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/8375202563"><img src="https://farm9.staticflickr.com/8190/8375202563_e45532e096_h.jpg" width="1600" height="1164"></a><!--more--><br><br>
 Experiences with shoes. - [thewalkahead.com](http://thewalkahead.com/2014/11/24/on-the-trail-an-ode-to-old-shoes)
