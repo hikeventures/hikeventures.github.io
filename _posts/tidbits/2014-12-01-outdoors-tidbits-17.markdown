@@ -7,7 +7,7 @@ tags:
   - tidbits
 layout: post
 ---
-The deadline for our [first giveaway](http://hikeventures.com/advent-calendar-giveaway-1/) in our advent calendar is approaching. I am just preparing the blog post for our second giveaway which is a must-have for every backpacker!<br><br>
+The deadline for our [first giveaway](http://hikeventures.com/advent-calendar-giveaway-1/) in our advent calendar is approaching. I am just preparing the blog post for our second giveaway which is a must-have for every backpacker! {% include intro_tidbits.html %}<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/15351292307"><img src="https://farm4.staticflickr.com/3929/15351292307_5849419a61_o.jpg" width="640" height="640"></a><!--more-->
 <br><br>
 A review about the North Face Thermoball Remix Jacket. - [mikeoffthemap.com](http://mikeoffthemap.com/2014/11/26/the-north-face-thermoball-remix-jacket-review)
