@@ -7,7 +7,8 @@ layout: post
 tags:
   - tidbits
 ---
-Last weekend Patrick has been to the [first Finnish Packrafting Gathering](http://hikeventures.com/first-finnish-packrafting-gathering/)  and we got a new logo for our blog. Also the [GoPro HERO4](http://www.rei.com/product/882144/gopro-hero4-camera-black-edition?mr%3AtrackingCode=B76C99A8-414D-E411-AF04-BC305BF82162&mr%3AreferralID=NA&cm_mmc=aff_AL-_-125311-_-150351-_-datafeed&avad=150351_b732a08b) has been released.
+Last weekend Patrick has been to the [first Finnish Packrafting Gathering](http://hikeventures.com/first-finnish-packrafting-gathering/)  and we got a new logo for our blog. Also the [GoPro HERO4](http://www.rei.com/product/882144/gopro-hero4-camera-black-edition?mr%3AtrackingCode=B76C99A8-414D-E411-AF04-BC305BF82162&mr%3AreferralID=NA&cm_mmc=aff_AL-_-125311-_-150351-_-datafeed&avad=150351_b732a08b) has been released. {% include intro_tidbits.html %}
+
 <br><br><a href="https://www.flickr.com/photos/90204224@N07/15455579955"><img src="https://c3.staticflickr.com/3/2941/15455579955_db47a21efa_b.jpg" width="1024" height="683" alt="First Finnish Packraft Gathering"></a><!--more-->
 <br><br>
 Last weekend Patrick has been to the [first Finnish Packrafting Gathering](http://hikeventures.com/first-finnish-packrafting-gathering/)  and we got a new logo for our blog. Also the [GoPro HERO4](http://www.rei.com/product/882144/gopro-hero4-camera-black-edition?mr%3AtrackingCode=B76C99A8-414D-E411-AF04-BC305BF82162&mr%3AreferralID=NA&cm_mmc=aff_AL-_-125311-_-150351-_-datafeed&avad=150351_b732a08b) has been released.
