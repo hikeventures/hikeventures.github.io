@@ -9,7 +9,7 @@ layout: post
 ---
 *17.01.1773 - Capt James Cook was the first person who crossed the Antarctic Circle (66° 33' S)*
 
-This night we got plenty of snow here in the Turku Archipelago area which changed the whole landscape from boring grey to sparkling white and an excellent opportunity to go on photo safari (more about that in the next blog post). So what’s new? We decided to release our #OutdoorsTidbits *every Monday*. The Matka and ISPO shows are planned for the next 2 weeks and a trip to the Alps nearby Patrick’s hometown. We have also have a new RSS feed. Update or subscribe our RSS [here][1].
+This night we got plenty of snow here in the Turku Archipelago area which changed the whole landscape from boring grey to sparkling white and an excellent opportunity to go on photo safari (more about that in the next blog post). So what’s new? We decided to release our #OutdoorsTidbits *every Monday*. The Matka and ISPO shows are planned for the next 2 weeks and a trip to the Alps nearby Patrick’s hometown. We have also have a new RSS feed. {% include intro_tidbits.html %}
 
  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24327256312/in/dateposted-public/" title="Turku, Finland"><img src="https://farm2.staticflickr.com/1483/24327256312_f8c14064d2_b.jpg" width="100%" alt="Turku, Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> <!--more-->
 
