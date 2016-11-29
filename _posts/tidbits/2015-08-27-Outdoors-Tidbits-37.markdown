@@ -8,9 +8,11 @@ tags:
 layout: post
 ---
 
-After returning from our trips in Sweden, Poland and Japan we need some time to reflect on our trips and our gear which we have tested. In September we are going to participate at the Finnish Packraft Gathering which will be at Helvetinjärvi National Park from 18.09. - 20.09.
+After returning from our trips in Sweden, Poland and Japan we need some time to reflect on our trips and our gear which we have tested. In September we are going to participate at the Finnish Packraft Gathering which will be at Helvetinjärvi National Park from 18.09. - 20.09. {% include intro_tidbits.html %}
 
 <img src="https://farm1.staticflickr.com/607/20744712289_c15b856998_b.jpg" width="100%"  alt="From Stockholm to Turku">
+
+
 
 ## New Products
 <a href="http://amzn.to/1hIvRCI">Lowepro Photo Sport BP 200 AW II - Backpack</a> for mirrorless and compact DSLR Cameras.
