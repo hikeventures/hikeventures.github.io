@@ -28,7 +28,7 @@ When buying a backpack it's usually a good idea to buy a backpack for a specific
 
         <thead>
              <tr>
-                <th>Jacket</th><th>Weight</th>
+                <th>Backpack</th><th>Weight</th>
              </tr>
         </thead>
 

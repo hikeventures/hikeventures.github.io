@@ -26,7 +26,7 @@ As we are frequently on packrafting trips we are always interested to look out f
 
         <thead>
              <tr>
-                <th>Helmet</th><th>Weight</th>
+                <th>PFD</th><th>Weight</th>
              </tr>
         </thead>
 

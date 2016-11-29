@@ -26,7 +26,7 @@ Trekking and snowshoeing poles are especially useful if you have to walk up or d
 
         <thead>
              <tr>
-                <th>Poles</th><th>Weight</th>
+                <th>Trekking Poles</th><th>Weight</th>
              </tr>
         </thead>
 
