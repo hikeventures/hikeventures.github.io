@@ -10,7 +10,7 @@ tags:
 
 *Did you know that King Tutankhamen’s sarcophagus was uncovered near Luxor in Egypt on January 3rd, 1924?*
 
-Temperatures have dropped to -10°C here in Finland and the last days we were working quite hard on new articles and also on our blog. We are already excited to visit the ISPO show in a few weeks in Munich. By the way, the Deliverance Team is organising a [packrafting gathering][1] in Sweden in May and [urbanpackrafter.com][2] has finally his own [Facebook page][3]. So drop by and follow him on Facebook. Want to share your packrafting trips with us and our readers? Add them to our [packrafting trips directory][4]. #OutdoorsTidbits
+Temperatures have dropped to -10°C here in Finland and the last days we were working quite hard on new articles and also on our blog. We are already excited to visit the ISPO show in a few weeks in Munich. By the way, the Deliverance Team is organising a [packrafting gathering][1] in Sweden in May and [urbanpackrafter.com][2] has finally his own [Facebook page][3]. So drop by and follow him on Facebook. {% include intro_tidbits.html %}
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/23321583314/in/dateposted-public/" title="witraż"><img src="https://farm2.staticflickr.com/1506/23321583314_a26354a959_b.jpg" width="100%" alt="witraż"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <!--more-->
