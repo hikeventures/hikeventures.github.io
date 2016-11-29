@@ -9,9 +9,7 @@ layout: post
 ---
 *26.02.1919 - The Grand Canyon National Park was established.*
 
-Konstantin has been travelling to Italy 2 weeks ago and currently we are preparing for a trip to Scotland. If you want to meet us have a look at <a href="http://deliveranceteam.outdrr.com/information-angaende-swedish-packraft-round-up-2016/">The Deliverance Team blog</a>. They are organizing a packrafting gathering in Sweden. Alpacka Rafts will be there as well (you can also check the event on <a href="https://www.facebook.com/events/501436800038543/permalink/501710246677865/">Facebook</a>).
-
-P.S. As an outdoor blogger you might have a chance to appear in our #OutdoorsTidbits and on our <a href="http://www.hikeventures.com/blogs/">Outdoor Blogger list</a>. Just send us your URL.
+Konstantin has been travelling to Italy 2 weeks ago and currently we are preparing for a trip to Scotland. If you want to meet us have a look at <a href="http://deliveranceteam.outdrr.com/information-angaende-swedish-packraft-round-up-2016/">The Deliverance Team blog</a>. They are organizing a packrafting gathering in Sweden. Alpacka Rafts will be there as well (you can also check the event on <a href="https://www.facebook.com/events/501436800038543/permalink/501710246677865/">Facebook</a>). {% include intro_tidbits.html %}
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24251111034/in/dateposted-public/" title="Snowshoeing in Montafon, Vorarlberg in Austria"><img src="https://farm2.staticflickr.com/1444/24251111034_c22cba2bd2_b.jpg" width="100%" alt="Snowshoeing in Montafon, Vorarlberg in Austria"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <!--more-->
