@@ -1,5 +1,5 @@
 ---
-title: Layering Winter Gloves for Hiking, Skiing or Snowshoeing
+title: Layering Gloves for Winter Backpacking, Skiing or Snowshoeing
 description: How to keep your hands warm during the winter
 date: 2016-10-05 06:29:01
 category: articles
@@ -9,7 +9,7 @@ tags:
 layout: post
 ---
 
-Layering your clothes when you go outdoors e.g. for hiking or skiing helps a lot to keep you comfortable warm. If you feel cold you add another layer and if you feel warm then you remove another layer. This layering principle can also be applied to your gloves. In my video below I am wearing the Hestra Merino Wool Liner Active Glove, Hestra Kebnekaise Wool Mitt and the Hestra Pullover Mitt. I prefer to wear real woolen gloves as they breath better. Wool also keeps you warm when it's wet.
+Layering your clothes when you go outdoors e.g. for hiking, backpacking, skiing or snowshoeing helps a lot to keep you comfortable warm. If you feel cold you add another layer and if you feel warm then you remove another layer. This layering principle can also be applied to your gloves. In my video below I am wearing the Hestra Merino Wool Liner Active Glove, Hestra Kebnekaise Wool Mitt and the Hestra Pullover Mitt. I prefer to wear real woolen gloves as they breath better. Wool also keeps you warm when it's wet.
 
 ---
 
