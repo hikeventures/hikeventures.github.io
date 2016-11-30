@@ -1,6 +1,6 @@
 ---
-title: HMG Porter 4400 Black Review
-description: Review of the Hiking and Packrafting backpack - HMG Porter 4400 black
+title: Hyperlite Mountain Gear Porter 4400 Black Review
+description: Our review of the Hyperlite Mountain Gear Porter 4400 black
 date: 2013-06-25 07:30:00
 category: reviews
 tags:
