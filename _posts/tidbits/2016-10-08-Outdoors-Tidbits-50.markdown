@@ -15,7 +15,7 @@ layout: post
 There is a [crowd-funding campaign](http://faluvildvattenpark.se/) for the Falun Whitewater Park in Sweden.
 
 Packrafting Store is selling the [Anfibio SplitSuit](http://www.packrafting-store.de/Clothing/Anfibio-SplitSuit::705.html) which can be seperated in upper and lower part.
-
+<!--more-->
 {% include banner_ad.html %}
 
 [Caj](https://www.facebook.com/caj.koskinen) has [published](http://caide.kuvat.fi/blog/49/Our+packrafting+route+in+V%C3%A4ts%C3%A4ri/) his packrafting route in Vätsäri and [adventure holiday](http://caide.kuvat.fi/blog/50/Adventure+Holiday+in+Kotka/) in Kotka.

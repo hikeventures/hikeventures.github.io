@@ -13,11 +13,11 @@ layout: post
 Alpackaraft posted on Instagram that there will be a <a href="https://www.instagram.com/p/BJIbIVKhkpW/">packrafting roundup</a> on the 24.2.-25.2.2017 in New Zealand.   
 Andy will be hosting the 1st Scottish packraft and adventure bike round-up from May 20th-21st 2017.  
 Jacob published a blog post about the <a href="http://urbanpackrafter.com/Together-on-Voxnan">Packraft Gathering 2016 in Sweden</a>. Here is also a <a href="https://vimeo.com/184230182">trailer</a>.   
-Willem published a <a href="https://vimeo.com/183643681">video</a> about his solo hiking and packrafting expedition in Southwest Greenland. 
+Willem published a <a href="https://vimeo.com/183643681">video</a> about his solo hiking and packrafting expedition in Southwest Greenland.
 Björn published a video about his 4 days packrafting trip in <a href="https://www.youtube.com/watch?v=KTnAjIpUt58&feature=youtu.be">Rogen</a>.   
 José visited <a href="http://www.planetapackraft.com/2016/09/wilderness-de-vatsari-en-packraft.html">Vatsari</a> in Lapland with his Packraft.   
 <a href="http://leftbound.com">Joni</a> created a new <a href="https://www.facebook.com/groups/154741864976536/">Facebook Group</a> where you can sell and buy packrafting gear.   
-
+<!--more-->
 {% include banner_ad.html %}
 
 From 7-9 October you can participate in the [Outdoor Land Fair - Salon](http://outdoorland.es/en/) in the Paseo Rochefort Sur-Mer S/N Torrelavega (Cantabria).   

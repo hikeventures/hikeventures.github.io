@@ -9,7 +9,7 @@ tags:
 layout: post
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15328753858/in/photolist-pCTf3y-pozkf1-pF3Zwy-pAZPNu-pD1wwh-pAZQiY-pAZPWW-pCLoYP-pCLp1x-pmxtmC-pmxStC-pD3Anc-pD1xwd-pD3As2-pmyib2-pxKTst-pggNrb-oUdAx3-gMCaYa-gMDbTT-gMCfAh" title="HikeVentures Tidbits Gear Trip Report Photography News"><img src="https://c3.staticflickr.com/4/3932/15328753858_16a537c062_o.jpg" width="1314" height="877" alt="HikeVentures Tidbits Gear Trip Report Photography News"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15328753858/in/photolist-pCTf3y-pozkf1-pF3Zwy-pAZPNu-pD1wwh-pAZQiY-pAZPWW-pCLoYP-pCLp1x-pmxtmC-pmxStC-pD3Anc-pD1xwd-pD3As2-pmyib2-pxKTst-pggNrb-oUdAx3-gMCaYa-gMDbTT-gMCfAh" title="HikeVentures Tidbits Gear Trip Report Photography News"><img src="https://c3.staticflickr.com/4/3932/15328753858_16a537c062_o.jpg" width="1314" height="877" alt="HikeVentures Tidbits Gear Trip Report Photography News"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 {% include intro_tidbits.html %}
 
@@ -20,7 +20,7 @@ Sandisk announced it's new [1TB UHS-II SD card](https://www.sandisk.com/about/me
 Book Review: [Thru Hiking will break your heart](http://campfirechic.com/2016/09/thru-hiking-will-break-your-heart.html).   
 [Alps Mountaineering Featherlite Air Mat](http://www.hikingthetrail.com/2016/09/alps-mountaineering-featherlite-air-mat-review/) review.   
 [Haglofs Gram Comp 25 Backpack](http://www.outdoorsfather.com/2016/09/gear-review-haglofs-gram-comp-25-backpack/) review.   
-[Inov-8 Evoskin](http://bushcraft.at/review-inov-8-evoskin/) review.   
+[Inov-8 Evoskin](http://bushcraft.at/review-inov-8-evoskin/) review.   <!--more-->
 
 {% include banner_ad.html %}
 

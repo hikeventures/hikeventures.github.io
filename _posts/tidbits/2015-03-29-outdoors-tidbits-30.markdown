@@ -8,10 +8,10 @@ tags:
 layout: post
 ---
 
-Last week Patrick was testing his new Therm-a-Rest XTherm while Konstantin was still writing on his Fjällräven pants review which we will publish shortly. Konstantin also received his new Anfibio Windpaddle Sail and Anfibio Throwbag from the [Packrafting Store](http://www.packrafting-store.de). We are also working on a very short video from our [Lapland trip](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/) earlier this year. {% include intro_tidbits.html %}
+Last week Patrick was testing his new Therm-a-Rest XTherm while Konstantin was still writing on his Fjällräven pants review which we will publish shortly. Konstantin also received his new Anfibio Windpaddle Sail and Anfibio Throwbag from the [Packrafting Store](http://www.packrafting-store.de). We are also working on a very short video from our [Lapland trip](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/) earlier this year.
 
 <a href="https://www.flickr.com/photos/90204224@N07/16732145327"><img src="https://farm9.staticflickr.com/8743/16732145327_10b4d24ef7_b.jpg" width="768" height="1024"></a>
-
+<!--more-->
 ## Trip reports and outdoor tips
 Last week we read about the [Tamang Heritage Trail](https://michaelbrandeis1.wordpress.com/2015/03/26/the-tamang-heritage-trail/). One outdoor blogger wrote on
 [how to lose toenails](http://thelatebloomerhiker.com/2015/03/25/how-to-lose-your-toenails-when-hiking) when hiking. If you are planning to go to the National Parks of Alberta then you could read
