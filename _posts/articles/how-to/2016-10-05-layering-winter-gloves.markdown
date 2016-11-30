@@ -29,7 +29,7 @@ The Hestra Merino Wool Liner Active Glove is made of 70 % merino wool and 30 % p
 
 <h1><a href="http://amzn.to/2gePI0u" target="_blank" rel="nofollow">Hestra Pullover Mitt</a></h1>
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00FMX7TZ4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FMX7TZ4&linkCode=as2&tag=hikeve-20&linkId=9ca76708b29aee3a07e76203be542fac"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00FMX7TZ4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00FMX7TZ4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank" rel="nofollow"  href="https://www.amazon.com/gp/product/B00FMX7TZ4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FMX7TZ4&linkCode=as2&tag=hikeve-20&linkId=9ca76708b29aee3a07e76203be542fac"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00FMX7TZ4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00FMX7TZ4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The Hestra Pullover Mitt is made of 100% Polyester and protects your mid- and base layer gloves agains wet snow and rain.
 
