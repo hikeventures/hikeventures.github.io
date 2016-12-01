@@ -22,17 +22,15 @@ Last year I was in need to find new hiking pants for my trips. I was looking for
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31195637972/in/dateposted-public/" title="Lundhags Makke Pant"><img src="https://c5.staticflickr.com/6/5833/31195637972_0759af99fd_h.jpg" width="1600" height="1063" alt="Lundhags Makke Pant"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # Fabric
-The Lundhags Makke Pant fabric consists of 65% Polyester and 35% Cotton (FC Free DWR) 181 g/m². The stretch fabric is mde by Schoeller Dry Skin which consists of 52% Polyamid, 41% Polyamid (micro) and 7% Elastane. The reinforcements are made of Schoeller Keprotec (PFOA/PFOS free).
+The Lundhags Makke Pant fabric consists of LPC (Lundhags PolyCotton) stretch - 65% Polyester and 35% Cotton (FC Free DWR) 181 g/m². The stretch fabric is mde by Schoeller Dry Skin which consists of 52% Polyamid, 41% Polyamid (micro) and 7% Elastane. The reinforcements are made of Schoeller Keprotec which are PFOA/PFOS free.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31195638832/in/dateposted-public/" title="Lundhags Makke Pant"><img src="https://c1.staticflickr.com/6/5723/31195638832_83dbe6b53f_h.jpg" width="1600" height="1063" alt="Lundhags Makke Pant"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # Conclusion
 
 
-A lightweight, full-function trekking pant with a slim fit and modern cut for active users. Makke provides an active fit, LPC (Lundhags PolyCotton) Stretch (mechanical) with Schoeller® Dry Skin stretch panels on the seat, crotch and knees. Schoeller® Keprotec® reinforced insteps increase durability.
-
 The name Makke comes from Makkene, a mountain in the Offerdals parish of Jämtland, Sweden. The mountain is situated within the Jovnevaerie Sami village, near Sweden's border with Norway.
-CHARACTERISTICS
+
 
 LPC Stretch with Schoeller® Dry Skin stretch on seat, knees and crotch
 Shoeller® Keprotec® reinforced insteps
@@ -44,11 +42,7 @@ Pre-shaped knees
 Ventilation at inner thighs and bottom legs
 Hem adjustment and boot hook
 Weight 436 g
-MATERIAL
 
-LPC Stretch 65% Polyester, 35% Cotton (FC Free DWR) 181 g/m²
-Stretch: Schoeller® Dry Skin 52% Polyamid, 41% Polyamid (micro), 7% Elastane
-Reinforcements: Schoeller® Keprotec® (PFOA/PFOS free)
 
 ---
 
