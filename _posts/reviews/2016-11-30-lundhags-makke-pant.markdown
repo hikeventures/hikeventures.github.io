@@ -16,13 +16,15 @@ Last year I was in need to find new hiking pants for my trips. I was looking for
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31303607536/in/dateposted-public/" title="Lundhags Makke Pant Review"><img src="https://c1.staticflickr.com/6/5459/31303607536_7659fcd15c_h.jpg" width="1600" height="1063" alt="Lundhags Makke Pant"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31195638832/in/dateposted-public/" title="Lundhags Makke Pant"><img src="https://c1.staticflickr.com/6/5723/31195638832_83dbe6b53f_h.jpg" width="1600" height="1063" alt="Lundhags Makke Pant"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31195637972/in/dateposted-public/" title="Lundhags Makke Pant"><img src="https://c5.staticflickr.com/6/5833/31195637972_0759af99fd_h.jpg" width="1600" height="1063" alt="Lundhags Makke Pant"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # Field Testing
 
-# Materials
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31195637972/in/dateposted-public/" title="Lundhags Makke Pant"><img src="https://c5.staticflickr.com/6/5833/31195637972_0759af99fd_h.jpg" width="1600" height="1063" alt="Lundhags Makke Pant"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+# Fabric
+The Lundhags Makke Pant fabric consists of 65% Polyester and 35% Cotton (FC Free DWR) 181 g/m². The stretch fabric is mde by Schoeller Dry Skin which consists of 52% Polyamid, 41% Polyamid (micro) and 7% Elastane. The reinforcements are made of Schoeller Keprotec (PFOA/PFOS free).
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31195638832/in/dateposted-public/" title="Lundhags Makke Pant"><img src="https://c1.staticflickr.com/6/5723/31195638832_83dbe6b53f_h.jpg" width="1600" height="1063" alt="Lundhags Makke Pant"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # Conclusion
 
