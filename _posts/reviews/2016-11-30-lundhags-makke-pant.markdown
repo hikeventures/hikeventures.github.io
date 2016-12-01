@@ -12,12 +12,12 @@ tags:
   - pants
 ---
 
-Last year I was in need to find new hiking pants for my trips. I was looking for pants which would be suitable to wear in the mountains but also while packrafting. I was talking to a Lundhags representative and he suggested me to try the Lundhags Makke pants. So here is a short review about the those pants.
+Last year I was in need to find new hiking pants for my trips. I was looking for pants which would be suitable to wear in the mountains but also while packrafting. I was talking to a Lundhags representative and he suggested me to try the Lundhags Makke pants. The name Makke derives from a mountain in Jämtland in Sweden called Makkene which should probably reflect the environment where the Makke pant can be worn.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31303607536/in/dateposted-public/" title="Lundhags Makke Pant Review"><img src="https://c1.staticflickr.com/6/5459/31303607536_7659fcd15c_h.jpg" width="1600" height="1063" alt="Lundhags Makke Pant"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-
 # Field Testing
+I was worn the Lundhags Makke Pant this year on the [Swedish Packrafting Gathering](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/), on smaller trips around Turku and on a trip in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/) and in [Northern Norway](http://www.hikeventures.com/Finnmark/). The areas I have visited are quite different. In Finnish Lapland I was packrafting and hiking in forests and through swamps while in Norway I was climbing on hills and were exposed to strong winds.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31195637972/in/dateposted-public/" title="Lundhags Makke Pant"><img src="https://c5.staticflickr.com/6/5833/31195637972_0759af99fd_h.jpg" width="1600" height="1063" alt="Lundhags Makke Pant"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -29,7 +29,6 @@ The Lundhags Makke Pant fabric consists of LPC (Lundhags PolyCotton) stretch - 6
 # Conclusion
 
 
-The name Makke comes from Makkene, a mountain in the Offerdals parish of Jämtland, Sweden. The mountain is situated within the Jovnevaerie Sami village, near Sweden's border with Norway.
 
 
 LPC Stretch with Schoeller® Dry Skin stretch on seat, knees and crotch
