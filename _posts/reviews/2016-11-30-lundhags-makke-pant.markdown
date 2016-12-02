@@ -20,7 +20,7 @@ Last year we were in need to find new hiking pants for our trips so I was lookin
 {% include banner_ad.html %}
 
 # Field Testing
-I was worn the Lundhags Makke Pant this year on the [Swedish Packrafting Gathering](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/), on smaller trips around Turku and on a trip in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/) and in [Northern Norway](http://www.hikeventures.com/Finnmark/). The areas I have visited were quite different. In Finnish Lapland I was packrafting and hiking in forests and through swamps while in Norway I was climbing on hills and were exposed to strong winds. The Makke Pant works especially good when you are in the mountains since it is made of a stretch fabric. Moving up and down felt more comfortable to me than with pants having no stretch fabric.
+I was wearing the Lundhags Makke Pant this year on the [Swedish Packrafting Gathering](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/), on smaller trips around Turku and on a trip in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/) and in [Northern Norway](http://www.hikeventures.com/Finnmark/). The areas I have visited were quite different. In Finnish Lapland I was packrafting and hiking in forests and through swamps while in Norway I was climbing on hills and were exposed to strong winds. The Makke Pant works especially good when you are in the mountains since it is made of a stretch fabric. Moving up and down felt more comfortable to me than with pants having no stretch fabric.
 
 What I also liked were the side zippers of the pants. They are quite useful if you have to put on hiking boots with a higher shaft of if you want to roll them up if you have to cross a river.
 
