@@ -17,6 +17,8 @@ Last year I was in need to find new hiking pants for my trips. I was looking for
 
 <!--more-->
 
+{% include banner_ad.html %}
+
 # Field Testing
 I was worn the Lundhags Makke Pant this year on the [Swedish Packrafting Gathering](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/), on smaller trips around Turku and on a trip in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/) and in [Northern Norway](http://www.hikeventures.com/Finnmark/). The areas I have visited were quite different. In Finnish Lapland I was packrafting and hiking in forests and through swamps while in Norway I was climbing on hills and were exposed to strong winds. The Makke Pant works especially good when you are in the mountains since it is made of a stretch fabric. Moving up and down felt more comfortable to me than with pants having no stretch fabric.
 
@@ -35,6 +37,10 @@ The Lundhags Makke Pant fabric consists of LPC (Lundhags PolyCotton) stretch - 6
 
 # Conclusion
 Currently, the Lundhags Makke are my favorite pants. I like that they are stretchy and that they also dry reasonably fast since they are not made solely of cotton. The vent zippers on the inner tights are great and the zippers on the pockets will make sure that you don’t lose anything stored in your pockets.  Those pants also work quite well if you are planning to wear them with (shell boots)[http://www.hikeventures.com/Lundhags-Jaure-Light/].
+
+<a href="http://amzn.to/2gSJuic" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+
+Disclaimer: We received the Lundhags Makke Pant for a discounted price from Lundhags.
 
 ---
 
