@@ -33,7 +33,7 @@ Moreover, the Makke pant has also zippers on the leg and hand pockets, pre-shape
 # Fabric
 The Lundhags Makke Pant fabric consists of LPC (Lundhags PolyCotton) stretch - 65% Polyester and 35% Cotton (FC Free DWR) 181 g/m². The stretch fabric is made by Schoeller Dry Skin which consists of 52% Polyamid, 41% Polyamid (micro) and 7% Elastane. The reinforcements are made of Schoeller Keprotec which are PFOA/PFOS free.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/90204224@N07/31195638832/in/dateposted-public/" title="Lundhags Makke Pant"><img src="https://c1.staticflickr.com/6/5723/31195638832_83dbe6b53f_h.jpg" width="1600" height="1063" alt="Lundhags Makke Pant Review”></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31195638832/in/dateposted-public/" title="Lundhags Makke Pant"><img src="https://c1.staticflickr.com/6/5723/31195638832_83dbe6b53f_h.jpg" width="1600" height="1063" alt="Lundhags Makke Pant Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # Conclusion
 Currently, the Lundhags Makke are my favorite pants. I like that they are stretchy and that they also dry reasonably fast since they are not made solely of cotton. The vent zippers on the inner tights are great and the zippers on the pockets will make sure that you don’t lose anything stored in your pockets.  Those pants also work quite well if you are planning to wear them with [shell boots](http://www.hikeventures.com/Lundhags-Jaure-Light/).
