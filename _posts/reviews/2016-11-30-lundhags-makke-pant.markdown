@@ -11,7 +11,7 @@ tags:
   - pants
 ---
 
-Last year we were in need to find new hiking pants for our trips so I was looking for pants which would be suitable to wear in the mountains but also while packrafting. I was talking to a Lundhags representative and he suggested me to try the Lundhags Makke pants. The name Makke derives from a mountain in Jämtland in Sweden called Makkene which should probably reflect the environment where the Makke pant can be worn.
+Last year we were in need to find new hiking pants for our trips so I was looking for pants which would be suitable to wear in the mountains but also while packrafting. I was talking to a Lundhags representative and he suggested me to try the Lundhags Makke pants. The name Makke derives from a mountain in Jämtland in Sweden called Makkene which should probably reflect the environment where the Makke pant can be worn. The pictures in this review show Konstantin who was wearing the Makke pant this year on his trips in Japan, Russia and Sweden.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31303607536/in/dateposted-public/" title="Lundhags Makke Pant Review"><img src="https://c1.staticflickr.com/6/5459/31303607536_7659fcd15c_h.jpg" width="1600" height="1063" alt="Lundhags Makke Pant"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
