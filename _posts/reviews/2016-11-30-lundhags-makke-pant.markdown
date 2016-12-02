@@ -1,5 +1,4 @@
 ---
-published: false
 layout: post
 title: Lundhags Makke Pant Review
 description: Makke - Lundhags stretchy hiking pants
