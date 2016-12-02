@@ -30,7 +30,7 @@ What I also liked were the lower side zippers of the pants. They are quite usefu
 
 The Makke pant also has venting zippers on the inner thighs. If the temperatures are high or if you have to walk up a mountain or a hill you can open those vents to allow air flowing in to cool your legs. The result is a more pleasant hiking experience.
 
-Moreover, the Makke pant has also zippers on the leg and hand pockets, pre-shaped knees, hem adjustment and a boot hook and weights 436 grams which I found a good weight for such a fully featured pants. One advantage is that you don’t need any belt since the Makke pant comes with an adjustment strap at the waistband. The Makke Pant also comes with Schoeller Keprotec which should increase durability.
+Moreover, the Makke pant has also zippers on the leg and hand pockets, pre-shaped knees, hem adjustment and a boot hook and weights 436 grams which I found a good weight for such a fully featured pants. One advantage is that you don’t need any belt since the Makke pant comes with an adjustment strap at the waistband. The Makke Pant also comes with Schoeller Keprotec which should increase durability. Finally, a nice feature is also that there is another pocket within the leg pockets which offers enough space for an iPhone and a [Thule phone case](http://www.hikeventures.com/Thule-X5/).
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31195637972/in/dateposted-public/" title="Lundhags Makke Pant"><img src="https://c5.staticflickr.com/6/5833/31195637972_0759af99fd_h.jpg" width="1600" height="1063" alt="Lundhags Makke Pant Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
