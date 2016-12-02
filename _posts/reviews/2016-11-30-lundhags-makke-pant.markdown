@@ -11,7 +11,9 @@ tags:
   - pants
 ---
 
-Last year we were in need to find new hiking pants for our trips so I was looking for pants which would be suitable to wear in the mountains but also while packrafting. I was talking to a Lundhags representative and he suggested me to try the Lundhags Makke pants. The name Makke derives from a mountain in Jämtland in Sweden called Makkene which should probably reflect the environment where the Makke pant can be worn.
+ Last year we were in need to find new hiking pants for our trips so I was looking for pants which would be suitable to wear in the mountains but also while packrafting. I was talking to a Lundhags representative and he suggested me to try the Lundhags Makke pants. We did and here is what we think about them.
+
+Did you know that the name Makke derives from a mountain in Jämtland in Sweden called Makkene? The name should probably reflect the environment where the Makke pant can be worn. The pictures in this review are showing Konstantin who was wearing the Makke pant this year on his trips in France, Finland, Poland, Japan, Russia and Sweden.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31303607536/in/dateposted-public/" title="Lundhags Makke Pant Review"><img src="https://c1.staticflickr.com/6/5459/31303607536_7659fcd15c_h.jpg" width="1600" height="1063" alt="Lundhags Makke Pant"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -20,23 +22,23 @@ Last year we were in need to find new hiking pants for our trips so I was lookin
 {% include banner_ad.html %}
 
 # Field Testing
-I was wearing the Lundhags Makke Pant this year on the [Swedish Packrafting Gathering](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/), on smaller trips around Turku and on a trip in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/) and in [Northern Norway](http://www.hikeventures.com/Finnmark/). The areas I have visited were quite different. In Finnish Lapland I was packrafting and hiking in forests and through swamps while in Norway I was climbing on hills and were exposed to strong winds. The Makke Pant works especially good when you are in the mountains since it is made of a stretch fabric. Moving up and down felt more comfortable to me than with pants having no stretch fabric.
+I was wearing the Lundhags Makke Pant this year on the [Swedish Packrafting Gathering](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/), on smaller trips around Turku and on a trip in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/) and in [Northern Norway](http://www.hikeventures.com/Finnmark/). The areas I have visited were quite different. In Finnish Lapland I was packrafting and hiking in forests and through swamps while in Norway I was climbing on hills and were exposed to strong winds.
 
-What I also liked were the side zippers of the pants. They are quite useful if you have to put on hiking boots with a higher shaft of if you want to roll them up if you have to cross a river.
+The Makke Pant works especially good when you are in the mountains since it is made of a stretch fabric. Moving up and down felt more comfortable to me than with pants having no stretch fabric. However, since the hems of the trouser legs are fortified with Schoeller Keprotec they are also suitable for walking in low undergrowth and are not afraid of scratching against stones.
 
-The Makke pant also has venting zippers on the inner tights. If the temperatures are high or if you have to walk up a mountain or a hill you can open those vents to allow air flowing in to cool your legs. The result is a more pleasant hiking experience.
+What I also liked were the lower side zippers of the pants. They are quite useful if you have to put on hiking boots with a higher shaft of if you want to roll them up if you have to cross a river. Moreover, the lower zippers are two-sided so you can always unzip it a bit from the top to let more air in.
 
-Moreover, the Makke pant has also zippers on the leg and hand pockets, pre-shaped knees, hem adjustment and a boot hook and weights 436 grams which I found a good weight for such a fully featured pants. One advantage is that you don’t need any belt since the Makke pant comes with an adjustment strap at the waistband.
+Moreover, the Makke pant has also zippers on the leg and hand pockets, pre-shaped knees, hem adjustment and a boot hook and weights 436 grams which I found a good weight for such a fully featured pants. One advantage is that you don’t need any belt since the Makke pant comes with an adjustment strap at the waistband. The Makke Pant also comes with Schoeller Keprotec which should increase durability. Finally, a nice feature is also that there is another pocket within the leg pockets which offers enough space for an iPhone and a [Thule phone case](http://www.hikeventures.com/Thule-X5/).
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/90204224@N07/31195637972/in/dateposted-public/" title="Lundhags Makke Pant Review”><img src="https://c5.staticflickr.com/6/5833/31195637972_0759af99fd_h.jpg" width="1600" height="1063" alt="Lundhags Makke Pant"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31195637972/in/dateposted-public/" title="Lundhags Makke Pant"><img src="https://c5.staticflickr.com/6/5833/31195637972_c9b5a033e4_k.jpg" width="2048" height="1360" alt="Lundhags Makke Pant"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # Fabric
-The Lundhags Makke Pant fabric consists of LPC (Lundhags PolyCotton) stretch - 65% Polyester and 35% Cotton (FC Free DWR) 181 g/m². The stretch fabric is made by Schoeller Dry Skin which consists of 52% Polyamid, 41% Polyamid (micro) and 7% Elastane. The reinforcements are made of Schoeller Keprotec which are PFOA/PFOS free.
+So what is the Lundhags Makke Pant made of? The pants consists of LPC (Lundhags PolyCotton) stretch - 65% Polyester and 35% Cotton (FC Free DWR) 181 g/m². The stretch fabric is made by Schoeller Dry Skin which consists of 52% Polyamid, 41% Polyamid (micro) and 7% Elastane. The reinforcements are made of Schoeller Keprotec which are PFOA/PFOS free.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/90204224@N07/31195638832/in/dateposted-public/" title="Lundhags Makke Pant"><img src="https://c1.staticflickr.com/6/5723/31195638832_83dbe6b53f_h.jpg" width="1600" height="1063" alt="Lundhags Makke Pant Review”></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31195638832/in/dateposted-public/" title="Lundhags Makke Pant"><img src="https://c1.staticflickr.com/6/5723/31195638832_15d075dc16_k.jpg" width="2048" height="1360" alt="Lundhags Makke Pant"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # Conclusion
-Currently, the Lundhags Makke are my favorite pants. I like that they are stretchy and that they also dry reasonably fast since they are not made solely of cotton. The vent zippers on the inner tights are great and the zippers on the pockets will make sure that you don’t lose anything stored in your pockets.  Those pants also work quite well if you are planning to wear them with [shell boots](http://www.hikeventures.com/Lundhags-Jaure-Light/).
+Currently, the Lundhags Makke are my favorite pants. I like that they are stretchy and that they also dry reasonably fast since they are not made solely of cotton. The vent zippers on the inner thighs are great and the zippers on the pockets will make sure that you don’t lose anything stored in your pockets.  Those pants also work quite well if you are planning to wear them with [shell boots](http://www.hikeventures.com/Lundhags-Jaure-Light/).
 
 <a href="http://amzn.to/2gSJuic" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
