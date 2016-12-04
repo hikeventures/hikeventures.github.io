@@ -47,12 +47,17 @@ Ben posted a vide about a packrafting trip in [Monkman Creek in Northern British
 
 [Trekking Pole Review: Black Diamond Trail Shock and Carbon Exp Vario](http://www.njhiking.com/trekking-pole-review/)
 
-
 # Gear Reviews
 [Unboxing and testing Primus Lite +](https://www.youtube.com/watch?v=spIYhD9v0pA)
 
 # Trip Reports
 [Rundwanderweg B2 – ein Highlight der kleinen Luxemburger Schweiz](http://icheinfachunterwegs.de/rundwanderweg-b2-ein-highlight-der-kleinen-luxemburger-schweiz/)
+
+
+Holistic Hiking Agency went hiking in [Padjelantaleden](http://holistic-hiking-agency.blogspot.fi/2016/12/padjelantaleden-bleibt-ein-traum.html) - a National Park in Northern Sweden.
+
+Run, Ride and Sleep Outside went [packrafting at Loch Morar](https://runrideandsleepoutside.wordpress.com/2016/12/04/shivering-in-july-a-packraft-trip-in-the-northwest/)
+
 
 # Documentaries
 [Renate Hilleberg – the key that brought Hilleberg tents to life.](https://www.youtube.com/watch?v=tHFCc7KLPks)
