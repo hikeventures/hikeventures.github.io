@@ -10,6 +10,8 @@ layout: post
 ---
 {% include intro_tidbits.html %}
 
+We have updated the URL of our RSS feed so make sure to **replace** our old RSS feed with our [new RSS feed](http://www.hikeventures.com/rss.xml).
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/16347596307/in/album-72157651193131682/" title="Lapland Finland"><img src="https://c4.staticflickr.com/8/7399/16347596307_fa3674a2f2_k.jpg" width="2048" height="1360" alt="Outdoors Tidbits"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 DB Palmer first episode of a [Packrafting trip at the Yukon River](https://www.youtube.com/watch?v=i2vi03Y_75o)
