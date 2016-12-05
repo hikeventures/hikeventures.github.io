@@ -7,7 +7,7 @@ tags:
   - tidbits
 layout: post
 ---
-Last week we have received our new winter boots - the Lundhags Skare boots which we will take with us to Northern Norway in January.
+Last week we have received our new winter boots - the Lundhags Skare boots - which we will take with us to Northern Norway in January.
 
 We have also updated the URL of our RSS feed so make sure to **replace** our old RSS feed with our [new RSS feed](http://www.hikeventures.com/rss.xml). {% include intro_tidbits.html %}
 
@@ -38,7 +38,7 @@ Trailcooking reviewed the [Survival Hax Camping Cook Set](http://blog.trailcooki
 
 Andrew reviewed the [Altra Lone Peak 3.0](http://andrewskurka.com/2016/altra-lone-peak-3-0-review-trail-shoe-running-hiking/).
 
-njhiking.com reviewed trekking poles - the [Black Diamond Trail Shock and Carbon Exp Vario](http://www.njhiking.com/trekking-pole-review/).
+Njhiking.com reviewed trekking poles - the [Black Diamond Trail Shock and Carbon Exp Vario](http://www.njhiking.com/trekking-pole-review/).
 
 # Trip Reports
 Icheinfachunterwegs.de reviewed the [Rundwanderweg B2 in the Luxemburger Schweiz](http://icheinfachunterwegs.de/rundwanderweg-b2-ein-highlight-der-kleinen-luxemburger-schweiz/) (in German).
