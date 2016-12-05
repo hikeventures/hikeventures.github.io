@@ -7,11 +7,9 @@ tags:
   - tidbits
 layout: post
 ---
-{% include intro_tidbits.html %}
-
 Last week we have received our new winter boots - the Lundhags Skare boots which we will take with us to Northern Norway in January.
 
-We have also updated the URL of our RSS feed so make sure to **replace** our old RSS feed with our [new RSS feed](http://www.hikeventures.com/rss.xml).
+We have also updated the URL of our RSS feed so make sure to **replace** our old RSS feed with our [new RSS feed](http://www.hikeventures.com/rss.xml). {% include intro_tidbits.html %}
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/16347596307/in/album-72157651193131682/" title="Lapland Finland"><img src="https://c4.staticflickr.com/8/7399/16347596307_fa3674a2f2_k.jpg" width="2048" height="1360" alt="Outdoors Tidbits"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
