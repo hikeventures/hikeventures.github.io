@@ -11,7 +11,7 @@ tags:
   - pants
 ---
 
-Last year we were in need to find new hiking pants for our trips so I was looking for pants which would be suitable to wear in the mountains but also while packrafting. I was talking to a Lundhags representative and he suggested me to try the Lundhags Makke pants. We did and here is what we think about them.
+Last year we were in need to find new hiking pants for our trips so we was looking for pants which would be suitable to wear in the mountains but also while packrafting. We were talking to a Lundhags representative and he suggested me to try the Lundhags Makke pants. We did and here is what we think about them.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30599065104/in/dateposted-public/" title="Lundhags Makke Pant Review"><img src="https://c1.staticflickr.com/6/5451/30599065104_03b5936f16_k.jpg" width="2048" height="1365" alt="Lundhags Makke Pants (7)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
