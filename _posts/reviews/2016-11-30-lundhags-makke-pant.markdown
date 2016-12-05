@@ -17,7 +17,7 @@ Last year we were in need to find new hiking pants for our trips so I was lookin
 
 <!--more-->
 
-Did you know that the name Makke derives from a mountain in Jämtland in Sweden called Makkene? The name should probably reflect the environment where the Makke pant can be worn. The pictures in this review are showing Konstantin who was wearing the Makke pant this year on his trips in France, Finland, Poland, Japan, Russia and Sweden.
+Did you know that the name Makke derives from a mountain in Jämtland in Sweden called Makkene? The name should probably reflect the environment where the Makke pant can be worn.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30599071944/in/dateposted-public/" title="Lundhags Makke Pants (1)"><img src="https://c1.staticflickr.com/6/5481/30599071944_58f3d03804_k.jpg" width="2048" height="1536" alt="Lundhags Makke Pants (1)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -27,7 +27,7 @@ Did you know that the name Makke derives from a mountain in Jämtland in Sweden 
 {% include banner_ad.html %}
 
 # Field Testing
-I was wearing the Lundhags Makke Pant this year on the [Swedish Packrafting Gathering](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/), on smaller trips around Turku and on a trip in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/) and in [Northern Norway](http://www.hikeventures.com/Finnmark/). The areas I have visited were quite different. In Finnish Lapland I was packrafting and hiking in forests and through swamps while in Norway I was climbing on hills and were exposed to strong winds.
+Konstantin was wearing the Makke pant this year on his trips in France, Finland, Poland, Japan, Russia and Sweden while Patrick was wearing the Makke Pant on the [Swedish Packrafting Gathering](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/), on smaller trips around Turku and on a trip in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/) and in [Northern Norway](http://www.hikeventures.com/Finnmark/).
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31051051320/in/dateposted-public/" title="Lundhags Makke Pants Review"><img src="https://c1.staticflickr.com/6/5474/31051051320_0b585b0453_k.jpg" width="2048" height="1365" alt="Lundhags Makke Pant Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -35,7 +35,7 @@ The Makke Pant works especially good when you are in the mountains since it is m
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30613137133/in/dateposted-public/" title="Lundhags Makke Pants (12)"><img src="https://c6.staticflickr.com/6/5582/30613137133_c3156e5673_k.jpg" width="1365" height="2048" alt="Lundhags Makke Pant Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-What I also liked were the lower side zippers of the pants. They are quite useful if you have to put on hiking boots with a higher shaft of if you want to roll them up if you have to cross a river. Moreover, the lower zippers are two-sided so you can always unzip it a bit from the top to let more air in.
+What we also liked were the lower side zippers of the pants. They are quite useful if you have to put on hiking boots with a higher shaft of if you want to roll them up if you have to cross a river. Moreover, the lower zippers are two-sided so you can always unzip it a bit from the top to let more air in.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31275675372/in/dateposted-public/" title="Lundhags Makke Pants (2)"><img src="https://c5.staticflickr.com/6/5628/31275675372_331250ac88_k.jpg" width="1536" height="2048" alt="Lundhags Makke Pant Review Zippers"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -53,7 +53,7 @@ So what is the Lundhags Makke Pant made of? The pants consists of LPC (Lundhags 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30599065514/in/dateposted-public/" title="Lundhags Makke Pants (6)"><img src="https://c3.staticflickr.com/6/5609/30599065514_3a9dedbf93_k.jpg" width="2048" height="1365" alt="Lundhags Makke Pant Review Japan"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # Conclusion
-Currently, the Lundhags Makke are my favorite pants. I like that they are stretchy and that they also dry reasonably fast since they are not made solely of cotton. The vent zippers on the inner thighs are great and the zippers on the pockets will make sure that you don’t lose anything stored in your pockets.  Those pants also work quite well if you are planning to wear them with [shell boots](http://www.hikeventures.com/Lundhags-Jaure-Light/).
+Currently, the Lundhags Makke are our favorite pants. We like that they are stretchy and that they also dry reasonably fast since they are not made solely of cotton. The vent zippers on the inner thighs are great and the zippers on the pockets will make sure that you don’t lose anything stored in your pockets.  Those pants also work quite well if you are planning to wear them with [shell boots](http://www.hikeventures.com/Lundhags-Jaure-Light/).
 
 <a href="http://amzn.to/2gSJuic" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
