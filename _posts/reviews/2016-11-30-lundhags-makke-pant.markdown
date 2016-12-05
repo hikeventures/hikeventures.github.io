@@ -19,9 +19,6 @@ Last year we were in need to find new hiking pants for our trips so we was looki
 
 Did you know that the name Makke derives from a mountain in Jämtland in Sweden called Makkene? The name should probably reflect the environment where the Makke pant can be worn.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30599071944/in/dateposted-public/" title="Lundhags Makke Pants (1)"><img src="https://c1.staticflickr.com/6/5481/30599071944_58f3d03804_k.jpg" width="2048" height="1536" alt="Lundhags Makke Pants (1)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
 <!--more-->
 
 {% include banner_ad.html %}
