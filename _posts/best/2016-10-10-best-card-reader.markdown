@@ -14,7 +14,7 @@ If you recently got one of the latest laptops or a MacBook Pro you will probably
 
 <!--more-->
 
-<h2><a href="http://amzn.to/2h0sx6Q" target="_blank" rel="nofollow">Satechi Aluminum Type-C USB 3.0 and Micro/SD Card Reader</a>
+<h2><a href="http://amzn.to/2h0sx6Q" target="_blank" rel="nofollow">Satechi Aluminum Type-C USB 3.0 and Micro/SD Card Reader</a></h2>
 
 The Satechi Type-C Card Reader is currently the card reader I am using on my Macbook Pro 2016. You can fit in both an SD card and a Micro SD card which can be used simultaneously. Further, you can also connect it to a USB or a USB-C port which makes it quite flexible concerning the ports on your laptop. Also if you are on a budget then this is probably a better solution than the one offered by SanDisk on the Apple website, however it is not UHS-II compliant.
 
