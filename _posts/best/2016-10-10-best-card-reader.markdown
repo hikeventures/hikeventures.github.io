@@ -25,7 +25,7 @@ The Satechi Type-C Card Reader is currently the card reader I am using on my Mac
 
 ---
 
-<h2><a href=""http://amzn.to/2gXgSFa" target="_blank" rel="nofollow">USB C Hub HooToo Shuttle</a></h2>
+<h2><a href="http://amzn.to/2gXgSFa" target="_blank" rel="nofollow">USB C Hub HooToo Shuttle</a></h2>
 
 <a target="_blank" rel="nofollow" href="https://www.amazon.com/gp/product/B01B2OYFBM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01B2OYFBM&linkCode=as2&tag=hikeve-20&linkId=05b3170eee7d857a99866d7d22496e82"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01B2OYFBM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01B2OYFBM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
