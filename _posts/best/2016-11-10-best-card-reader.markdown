@@ -1,7 +1,7 @@
 ---
 title: Best USB-C card reader
 description: The USB-C card readers which I would buy
-date: 2016-07-10 20:43:52
+date: 2016-11-10 20:43:52
 category: articles
 tags:
   - best
