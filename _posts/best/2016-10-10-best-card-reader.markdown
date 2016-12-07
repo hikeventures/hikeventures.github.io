@@ -1,5 +1,5 @@
 ---
-title: Best USB-C SD or MicroSD card reader
+title: Best USB-C SD or MicroSD card reader for MacBook Pro
 description: The USB-C card readers which I would buy
 date: 2016-10-10 20:43:52
 category: articles
