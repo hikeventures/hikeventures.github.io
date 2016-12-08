@@ -1,5 +1,5 @@
 ---
-title: Best LG UltraFine 4K and 5K monitor alternatives - LG 27UD88, Dell UP2715K or Lenovo ThinkVision X1
+title: Best LG UltraFine 4K and 5K monitor alternatives - LG 27UD88, Dell UP2715K, HP ENVY 27 or Lenovo ThinkVision X1
 description: My selection of the best 4K and 5K USB-C Monitors for the Macbook Pro
 date: 2016-09-21 05:28:01
 category: best
@@ -33,6 +33,10 @@ I really like the idea to have less cables on my desk so USB-C would be a really
         <tr>
           <td><a href="http://amzn.to/2gEAjqz" rel="nofollow" target="_blank">Dell Ultra HD 5K Monitor UP2715K</a></td><td>1000 : 1</td><td>99%</td><td>8ms</td>
         </tr>
+        <tr>
+          <td><a href="http://amzn.to/2gEAjqz" rel="nofollow" target="_blank">  HP ENVY 27</a></td><td>1300 : 1</td><td>99%</td><td>14ms</td>
+        </tr>
+
 </tbody>
 </table>
 </div>
@@ -68,9 +72,18 @@ The Dell Ultra HD 5K monitor fffers four times the content than QHD featuring ov
 
 <hr>
 
+<h1>HP ENVY 27</h1>
+
+The HP ENVY is a 4K display can power a PC or a mobile device. With a reaction time of 14ms the HP ENVY might not be a monitor for gaming but for everything else this monitor could be a nice solution for an affordable price.
+
+<a href="" rel="nofollow" target="blank"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+
+
+<hr>
+
 
 <h1>Conclusion</h1>
-On paper, the Lenovo seems to have an edge for those working with pictures while the LG would be more a gaming monitor. However, the differences between those 2 monitors is not that big and it's probably just a matter of taste and money you are planning to spend on your new monitor. If you have the cash I would rather take the Dell Ultra HD 5K than a 4K screen.
+On paper, the Lenovo seems to have an edge for those working with pictures while the LG would be more a gaming monitor. However, the differences between those 2 monitors is not that big and it's probably just a matter of taste and money you are planning to spend on your new monitor. If you have the cash I would rather take the Dell Ultra HD 5K than a 4K screen. If you are on a budget then the HP ENVY might be a nice 4K monitor.
 
 <hr>
 
