@@ -19,22 +19,22 @@ I really like the idea to have less cables on my desk so USB-C would be a really
 <table class="table table-hover table-bordered list_items_5">
         <thead>
              <tr>
-                <th>Monitor</th><th>Contrast Ratio</th><th>sRGB color gamut</th><th>Response Time</th>
+                <th>Monitor</th><th>Contrast Ratio</th><th>sRGB color gamut</th><th>Response Time</th><th>Brightness</th>
              </tr>
         </thead>
 
         <tbody>
         <tr>
-          <td><a href="http://amzn.to/2dEVRzy" rel="nofollow" target="_blank">LG 27UD88</a></td><td>1000 : 1</td><td>99%</td><td>5ms</td>
+          <td><a href="http://amzn.to/2dEVRzy" rel="nofollow" target="_blank">LG 27UD88</a></td><td>1000 : 1</td><td>99%</td><td>5ms</td><td>350 cd/m²</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2dEVRzy" rel="nofollow" target="_blank">Lenovo ThinkVision X1</a></td><td>1300 : 1</td><td>100%</td><td>6ms</td>
+          <td><a href="http://amzn.to/2dEVRzy" rel="nofollow" target="_blank">Lenovo ThinkVision X1</a></td><td>1300 : 1</td><td>100%</td><td>6ms</td><td>300 cd/m²</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2gEAjqz" rel="nofollow" target="_blank">Dell Ultra HD 5K Monitor UP2715K</a></td><td>1000 : 1</td><td>99%</td><td>8ms</td>
+          <td><a href="http://amzn.to/2gEAjqz" rel="nofollow" target="_blank">Dell Ultra HD 5K Monitor UP2715K</a></td><td>1000 : 1</td><td>99%</td><td>8ms</td><td>350 cd/m²</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2gEAjqz" rel="nofollow" target="_blank">  HP ENVY 27</a></td><td>1300 : 1</td><td>99%</td><td>14ms</td>
+          <td><a href="http://amzn.to/2gEAjqz" rel="nofollow" target="_blank">  HP ENVY 27</a></td><td>1300 : 1</td><td>99%</td><td>14ms</td><td>350 cd/m²</td>
         </tr>
 
 </tbody>
