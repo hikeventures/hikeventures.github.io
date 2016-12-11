@@ -10,7 +10,7 @@ layout: post
 
 Inflatable People - an award winning movie published by [Urban Packrafter](https://www.facebook.com/urbanpackrafter/ "Urban Packrafter") - will be published on the 18.12.2016 on [urbanpackrafter.com](http://urbanpackrafter.com "UrbanPackrafter.com"). There is also a [trailer](http://urbanpackrafter.com/Together-on-Voxnan "trailer") available. There might be a chance that you may see us as well in this video. Meanwhile we are still waiting for snow. Even so we have -9C here in Southwestern Finland we are still lacking the snow. The same goes for the Netherlands where Konstantin is hiking in his green winter wonderland as you can see on our [Instagram account](https://www.instagram.com/hikeventures/ "Instagram account"). So we are really looking forward to fly to Northern Norway beginning of January to have some fun over there.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15913311563/in/album-72157650525740543/" title=“Outdoors Tidbits“\><img src="https://c4.staticflickr.com/8/7379/15913311563_d6e21d4d1c_b.jpg" width="1024" height="680" alt=“Outdoors Tidbits“\></a\>\<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"\></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15913311563/in/album-72157650525740543/" title="Outdoors Tidbits"><img src="https://c4.staticflickr.com/8/7379/15913311563_d6e21d4d1c_b.jpg" width="1024" height="680" alt="Outdoors Tidbits"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <!--more-->
 
