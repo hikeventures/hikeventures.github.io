@@ -1,5 +1,5 @@
 ---
-title: Best Ultralight Summer Hiking Shoes for 2016
+title: Best Ultralight Summer Hiking Shoes for 2016 - 2017
 description: Looking for light alternatives to heavy hiking boots? Here are the best lightweight hiking shoes for 2016
 date: 2016-03-02 07:30:00 +0300
 category: articles
@@ -9,7 +9,9 @@ tags:
   - shoes
 layout: post
 ---
-If you are into ultralight hiking then you are probably also interested into my buying guide for the best light summer hiking shoes for 2016. If you are coming from traditional hiking boots then you may notice that lightweight trail shoes can save you a lot of weight.
+If you are into ultralight hiking then you are probably also interested into my buying guide for the best light summer hiking shoes for 2016 - 2017. If you are coming from traditional hiking boots then you may notice that lightweight trail shoes can save you a lot of weight. 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27313686292/in/album-72157669221615915/" title="Best ultralight summer hiking shoes for 2016 - 2017"><img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="1024" height="643" alt="Best ultralight summer hiking shoes for 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 {% include banner_ad.html %}
 

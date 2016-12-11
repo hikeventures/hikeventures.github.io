@@ -1,6 +1,6 @@
 ---
-title: Best Camping Stoves 2016
-description: Need a new camoing stove? Here are the best stoves for 2016.
+title: Best Camping Stoves 2016 - 2017
+description: Need a new camoing stove? Here are the best stoves for 2016 - 2017.
 date: 2016-01-03 00:42:09
 category: articles
 tags:
@@ -9,13 +9,16 @@ tags:
   - stoves
 layout: post
 ---
-Planning an outdoor adventure and still searching for the right camping stove? A portable and lightweight camping stove is one of the most essential item to have on your adventures to boil water for tea, coffee or dehydrated meals. Here is my selection of the best lightweight camping stoves for 2016. They can be used for hiking, backpacking, packrafting, mountaineering or any other backcountry trip.
+Planning an outdoor adventure and still searching for the right camping stove? A portable and lightweight camping stove is one of the most essential item to have on your adventures to boil water for tea, coffee or dehydrated meals. Here is my selection of the best lightweight camping stoves for 2016 - 2017. They can be used for hiking, backpacking, packrafting, mountaineering or any other backcountry trip.
 
 You probably take matches with you to ignite your stove. As an alternative, I found the <a href="http://amzn.to/22kZs72" rel="nofollo">Light My Fire Swedish FireSteel</a> quite useful and it does not really matter if it get's wet. It will still work. It might be not that easy to ignite the stove but it's more reliable and I always take my Swedish FireSteel with me together with matches.
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9596216703/in/album-72157646473505683/" title="Best Camping Stoves 2016 - 2017"><img src="https://c8.staticflickr.com/4/3748/9596216703_3f4c4db24f_b.jpg" width="1024" height="683" alt="Best Camping Stoves 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
 {% include banner_ad.html %}
 
-# The best camping stoves for 2016
+# The best camping stoves for 2016 - 2017
 
 <div class="table-responsive">
 

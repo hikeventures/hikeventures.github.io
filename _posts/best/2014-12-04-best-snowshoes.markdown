@@ -1,6 +1,6 @@
 ---
 title: Best Snowshoes for 2016
-description: Our selection of the best snowshoes for 2016.
+description: Our selection of the best snowshoes for 2016 - 2017.
 date: 2016-01-03 09:19:51
 category: articles
 tags:
@@ -9,11 +9,14 @@ tags:
   - snowshoeing
 layout: post
 ---
-We have been snowshoing in Finnish Lapland and in the Austrian Alps last year and we decided to come up with a selection of the best snowshoes for 2016. Snowshoes are quite useful if you are planning to ascent a mountain or walk in powder snow. Snowshoeing is easy to learn and not that expensive. Also consider to get a pair of [snowshoe poles][1] for your snowshoeing trips as they will help you a lot on your snowshoeing adventure.
+We have been snowshoing in Finnish Lapland and in the Austrian Alps last year and we decided to come up with a selection of the best snowshoes for 2016 - 2017. Snowshoes are quite useful if you are planning to ascent a mountain or walk in powder snow. Snowshoeing is easy to learn and not that expensive. Also consider to get a pair of [snowshoe poles][1] for your snowshoeing trips as they will help you a lot on your snowshoeing adventure.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24785831751/in/photolist-Dm1oBg-DUv9z4-DLeSfK-qNgY7t-DJ5oFY-Dm1YSa-DSbpUy-CWZxhh-Dm1SnM-DJ5qtf-DLeWra-CWZhq3-CX6ZLM-DsowUj-CWZoVY-DJ55xd-CWYQyo-CX6sRF-DUueLP-r3peJw" title="Best snowshoes for 2016 - 2017"><img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="Best snowshoes for 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 
 {% include banner_ad.html %}
 
-# The best snowshoes 2016
+# The best snowshoes 2016 - 2017
 
 <div class="table-responsive">
 

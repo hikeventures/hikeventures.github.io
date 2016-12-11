@@ -1,6 +1,6 @@
 ---
-title: Best solo person backpacking tent in 2016
-description: Overview of the best solo person backpacking tent for 2016.
+title: Best solo person backpacking tent in 2016 - 2017
+description: Overview of the best solo person backpacking tent for 2016 - 2017.
 date: 2016-01-03 00:07:07
 category: articles
 tags:
@@ -14,9 +14,15 @@ Are you looking for a new tent and want to know which one is the best solo backp
 
 I would like to give an overview about the best solo backpacking tents which we have selected for 2016. It's important to know that each tent is made for a specific purpose so there is no one tent fits all tent. Just as a side note - I have not included tarps in my selection.
 
+---
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9596230289/in/photolist-fBZbWn-pgfsSH-pxH68q-ofA95w-o5hewa-nge5dS-mM722n-mM7oGe-mM6tYt-neeJYC-mM6siX-mM6SVH-mM6JU2-mM6DHi-mM6JsP-Gc8WNG-ngdZdw-nhZhTc-nk3cGV-nhfc78" title="Best solo person backpacking tent in 2016 - 2017"><img src="https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Best solo person backpacking tent in 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+---
+
 {% include banner_ad.html %}
 
-<h1>The best solo tents for 2016</h1>
+<h1>The best solo tents for 2016 - 2017</h1>
 <div class="table-responsive">
 <table class="table table-hover table-bordered list_items">
         <thead>

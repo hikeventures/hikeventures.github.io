@@ -11,9 +11,9 @@ tags:
 layout: post
 ---
 
-Recently, I was looking for a new case for my Macbook Pro 13" with Touch Bar which would be also suitable for light outdoor activities. I came across the Thule Gauntlet 13" MacBook Attaché which I found one of the best outdoor case to protect my Macbook Pro in 2016 (this blog post contains affiliate links).
+Recently, I was looking for a new case for my Macbook Pro 13" with Touch Bar which would be also suitable for light outdoor activities. I came across the Thule Gauntlet 13" MacBook Attaché which I found one of the best outdoor case to protect my Macbook Pro in 2016.
 
-<a href="https://www.flickr.com/photos/90204224@N07/17167532371" ><img src="https://farm9.staticflickr.com/8749/17167532371_f36eb8b1f1_b.jpg" width="100%" alt="Thule Gauntlet - Best Macbook Pro Case for Outdoors"></a><!--more-->
+<a href="https://www.flickr.com/photos/90204224@N07/17167532371" ><img src="https://farm9.staticflickr.com/8749/17167532371_f36eb8b1f1_b.jpg" width="100%" alt="Thule Gauntlet - Best Macbook Pro 2016 Case for Outdoors"></a><!--more-->
 
 The Thule Gauntlet 13" MacBook Attaché is not completely waterproof but has a water resistant zipper and shell so you can carry your MacBook also in bad weather conditions. This case might be also quite handy if you drive to your cottage on the countryside or if you plan to do some outdoor photography sessions where you need your MacBook to edit or manage your pictures and videos on the spot or just want to save your pictures on your hard drive (alternatively you might also consider taking a <a href="http://amzn.to/1J7wqxd">WD My Passport Wireless</a> if you only want to store pictures).
 
@@ -32,6 +32,8 @@ What's more, I can also use my MacBook without taking it out from the case. Let'
 <a href="https://www.flickr.com/photos/90204224@N07/17166514972"><img src="https://farm8.staticflickr.com/7644/17166514972_62ae02076a_b.jpg" width="100%" alt="Thule Gauntlet - Best Macbook Pro Case for Outdoors"></a>
 
 Personally, I think that a case without room for accessories doesn't make much sense. Maybe for a 1 day trip but once the battery of your MacBook is empty you need a charger.
+
+Disclosure: Sometimes we receive products for testing from Thule but in this case I have bought the Thule Gauntlet 13" MacBook Attaché from my own money.
 
 ---
 

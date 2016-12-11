@@ -1,5 +1,5 @@
 ---
-title: Best Wind Jackets for 2016
+title: Best Wind Jackets for 2016 - 2017
 description: Top 5 windproof Jackets for 2016 for your next outdoor adventure!
 date: 2016-01-04 10:56:22
 category: articles
@@ -11,9 +11,11 @@ layout: post
 ---
 Do you wear a fleece on your hike but still feel cold. Well, it's probably because your fleece jacket does not protect you against cold winds. A lightweight wind jacket is probably one of the most useful piece of clothes which you can take when going hiking, backpacking, climbing, cycling, running or plan any other backcountry trip. A wind jacket does not need much space so you can easily store it in your backpack. Just make sure that you buy a wind jacket with a hoodie.
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9599027418/in/photolist-fCewqJ-eZwoYv-eZwpTX-fCewQ3-eZwovc-eZHLDm-eZwojP-eZwoGn-eZHLPu-eZHK3s" title="best wind jackets for 2016 - 2017"><img src="https://c3.staticflickr.com/8/7385/9599027418_4123160df8_b.jpg" width="992" height="661" alt="best wind jackets for 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 {% include banner_ad.html %}
 
-# The best wind jackets for 2016
+# The best wind jackets for 2016 - 2017
 
 <div class="table-responsive">
 <table class="table table-hover table-bordered list_items">

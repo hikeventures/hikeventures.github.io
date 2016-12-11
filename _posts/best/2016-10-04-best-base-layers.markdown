@@ -13,7 +13,7 @@ For our hiking and snowshoeing trip in Northern Norway we were looking for new m
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15791886561/in/photolist-NitxpL-Ne2YZK-MoRbuk-Nitxvs-MoRbKk-qNfnfP-q4txGe" title="Layering Clothing for Packrafting"><img src="https://c2.staticflickr.com/6/5604/15791886561_80520bc4b6_k.jpg" width="2048" height="1367" alt="Best Merino Wool Base Layers"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15791886561/in/photolist-NitxpL-Ne2YZK-MoRbuk-Nitxvs-MoRbKk-qNfnfP-q4txGe" title="Best Merino Wool Base Layers"><img src="https://c2.staticflickr.com/6/5604/15791886561_80520bc4b6_k.jpg" width="2048" height="1367" alt="Best Merino Wool Base Layers"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 

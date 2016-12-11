@@ -1,5 +1,5 @@
 ---
-title: Best Rain Jackets 2016 for Hiking and Backpacking
+title: Best Rain Jackets 2016 - 2017 for Hiking and Backpacking
 description: Overview of the best men rain Jackets in 2016 for hiking and backpacking
 date: 2016-01-04 12:33:51
 category: articles
@@ -9,11 +9,17 @@ tags:
   - jackets
 layout: post
 ---
-Do you know how to stay warm during a hiking trip? Don't get wet! Here is my selection of the best rain jackets for 2016 which I have selected from different brands. Planning to go hiking, backpacking, running, climbing, cycling, mountaineering, skiing, snowboarding or snowshoeing? Then you should wear a rain jacket or carry a lightweight rain jacket in your backpack. A rain jacket does not need to weight much and can be a life saver especially when it's cold. Also consider taking lightweight waterproof [rain pants][1] with you.
+Do you know how to stay warm during a hiking trip? Don't get wet! Here is my selection of the best rain jackets for 2016 - 2017 which I have selected from different brands. Planning to go hiking, backpacking, running, climbing, cycling, mountaineering, skiing, snowboarding or snowshoeing? Then you should wear a rain jacket or carry a lightweight rain jacket in your backpack. A rain jacket does not need to weight much and can be a life saver especially when it's cold. Also consider taking lightweight waterproof [rain pants][1] with you.
+
+---
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/16531785111/in/photolist-qGQmse-q3hwoU-r9HdQA-r9HdZU-qUxN4g-rbV4BL-qUxNTH-qUxP2D-qWZDDU-rbRHKM-rc1DjZ-qUxKka-qHtRc2-qfcV5n-qUxPwM-qGRYcg-qffws2-qUqAaj-qeZFSf-qUqAsU-qfcWc2-qUzE8R-qUqwrC-qeZGDf-qUqAQh-rc1F5c-qUqBzd-qUzEbM-qfcXtF-q3uXXe-rbVb1C-qUxL2v-r9KRpJ-qFsUGz-qUxRW6-qUrMdb-qeZAQ1-qUrFbG-qUrFf9-r9Hc7q-qUrMpy-rc1AL2-qSuGqw-qUzEQT-r9Hcwo-qUzF2p-q3huqW-pvvkzn-rc1Fx6-q6yz5f" title="Best new rain jackets for 2016 - 2017"><img src="https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg" width="2048" height="1360" alt="Best new rain jackets for 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+---
 
 {% include banner_ad.html %}
 
-# The best rain jackets 2016
+# The best rain jackets 2016 - 2017
 
 <div class="table-responsive">
 
