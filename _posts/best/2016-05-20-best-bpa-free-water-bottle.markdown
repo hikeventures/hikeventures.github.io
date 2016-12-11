@@ -12,7 +12,7 @@ layout: post
 
 On my hikes I always take a BPA-free water bottle with me. In the past I have always used a regular plastic water bottle but realized that BPA could have a negative effect on my health e.g. on the brain or increased blood pressure.
 
-<a href="https://www.flickr.com/photos/90204224@N07/17598300890" title="Best water bottle for hiking and backpacking"><img src="https://c2.staticflickr.com/8/7791/17598300890_6e72993c1e_b.jpg" width="100%" alt="Best water bottle for hiking and backpacking"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/17598300890" title="Best water bottle for hiking and backpacking"><img src="https://c2.staticflickr.com/8/7791/17598300890_6e72993c1e_b.jpg" width="100%" alt="Best bpa-free water bottle for hiking and backpacking"></a>
 
 <!--more-->
 

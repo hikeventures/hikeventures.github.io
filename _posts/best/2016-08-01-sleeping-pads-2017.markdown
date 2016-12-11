@@ -13,6 +13,12 @@ In this blog post you can find a selection of the best new sleeping pads for 201
 
 {% include banner_ad.html %}
 
+---
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28610161362/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KKxnAB-KAbydb-Kjpddj-JNYpty-JLZkAy-KAE8HH-KhoVF3-KAE83V-KyaYFJ-GTmgr7-HDjp5s-taZSRR-r5xNhV-pUoWyp-pBYjLk-pC4E8s-oXBrPd-pC1YcN-pEJWqt-pxH68q-pxJgsb-o5hewa-mM6SVH-pUemeM-pgfsSH-pPJqgM-mM722n-mM6tYt-mM7oGe-neeJYC-mM6siX-mM6DHi-mM6JsP-mM6JU2-fauCG5-dL6obB-dLbCzu-dusPDb-duu4Co-duov8P-dwEYBM-dyiAib" title="Best new sleeping pads for 2017"><img src="https://c3.staticflickr.com/9/8811/28610161362_13669985d6_k.jpg" width="2048" height="1365" alt="Best new sleeping pads for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+---
+
 # The best new sleeping pads for 2017
 
 <div class="table-responsive">
