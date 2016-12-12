@@ -49,7 +49,7 @@ Mountain Equipment Fitzroy Jacket</a> - insulated with Primaloft GOLD - on my pa
           <td><a href="http://amzn.to/2e7TgPr" target="_blank" rel="nofollow">Western Mountaineering Flash Jacket (850fp)</a></td><td>290g</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2e7TgPr" target="_blank" rel="nofollow">Rab Zero G Jacket (1000fp)</a></td><td>290g</td>
+          <td><a href="http://amzn.to/2e7TgPr" target="_blank" rel="nofollow">Rab Zero G Jacket (1000fp)</a></td><td>310g</td>
         </tr>
         <tr>
           <td><a href="http://amzn.to/2eGhePW" target="_blank" rel="nofollow">Canada Goose Hybridge Lite Jacket (800fp)</a></td><td>331g</td>
