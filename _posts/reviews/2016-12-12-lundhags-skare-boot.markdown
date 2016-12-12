@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lundhags Skare Boots Review
+title: Lundhags Skare Boot Review
 description: Our review of the Lundhags Skare Boots
 date: 2016-12-12 07:30:00
 category: reviews
