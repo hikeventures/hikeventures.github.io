@@ -49,6 +49,9 @@ Mountain Equipment Fitzroy Jacket</a> - insulated with Primaloft GOLD - on my pa
           <td><a href="http://amzn.to/2e7TgPr" target="_blank" rel="nofollow">Western Mountaineering Flash Jacket (850fp)</a></td><td>290g</td>
         </tr>
         <tr>
+          <td><a href="http://amzn.to/2e7TgPr" target="_blank" rel="nofollow">Rab Zero G Jacket (1000fp)</a></td><td>290g</td>
+        </tr>
+        <tr>
           <td><a href="http://amzn.to/2eGhePW" target="_blank" rel="nofollow">Canada Goose Hybridge Lite Jacket (800fp)</a></td><td>331g</td>
         </tr>
 
@@ -142,6 +145,26 @@ The Western Mountaineering Flash Jacket is a very good jacket for hiking trips i
 <a href="http://amzn.to/2e7TgPr" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 <hr>
+
+
+
+
+
+
+<h2><a href="http://amzn.to/2gREye1" target="_blank" rel="nofollow">Rab Zero G Jacket (1000fp)</a></h2>  
+
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01IEUCBYK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IEUCBYK&linkCode=as2&tag=hikeve-20&linkId=10650b6efbe41e6b4536e0bd30f96e3e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01IEUCBYK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01IEUCBYK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight:** 310g
+
+The Rab Zero G Jacket is probably the ultimate down jacket. With a down fill power of 1000 this jacket offers the best weight-warmth ratio. The jacket is filled with 130 grams of European Goose Down. There are also 2 hand-warmer pockets, elasticated stretch woven cuffs and a semi-elasticated hem.
+
+<a href="http://amzn.to/2gREye1" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
+
+<hr>
+
+
+
 
 <h2><a href="http://amzn.to/2elEHtO" target="_blank" rel="nofollow">Marmot Quasar Hoody (900fp)</a></h2>
 
