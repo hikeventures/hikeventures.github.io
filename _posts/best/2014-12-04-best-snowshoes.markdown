@@ -1,5 +1,5 @@
 ---
-title: Best Snowshoes for 2016
+title: Best Snowshoes for 2016 - 2017
 description: Our selection of the best snowshoes for 2016 - 2017.
 date: 2016-01-03 09:19:51
 category: articles
