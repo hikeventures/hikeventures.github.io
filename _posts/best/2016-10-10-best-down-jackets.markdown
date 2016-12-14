@@ -9,7 +9,7 @@ tags:
   - jackets
 layout: post
 ---
-Do you need a new down jacket for the winter or for a cold summer night during a hike? Here is our buying guide of the best down jackets for 2016 - 2017 which we have selected to cover your summer and winter backcountry trips. We have selected a broad range of down jackets which can be worn in different conditions and for different activities like hiking, backpacking, skiing, snowboarding, mountaineering, climbing or on any other outdoor adventure.
+Do you need a new down jacket for the winter or for a cold summer night during a hike? Here is our buying guide of the best down jackets for 2016 - 2017 which we have selected to cover your summer and winter backcountry trips. We have selected a broad range of down jackets which can be worn in different conditions and for different activities like hiking, backpacking, skiing, snowboarding, mountaineering, climbing or on any other outdoor adventure. Have a look on our <a href="#list">comparison table</a> to find the jacket with the right weight, check one of our <a href="#video">packrafting videos</a> where we had down jackets with us or see some <a href="#example">pictures</a> of the down jackets which we recommend.
 
 ---
 
@@ -21,7 +21,7 @@ The down jackets we have selected have a fill power of 800 and more since they o
 
 <hr>
 
-<h1> The best down jackets of 2016 - 2017</h1>
+<h1 id="list"> The best down jackets of 2016 - 2017</h1>
 
 <div class="table-responsive">
 
@@ -85,9 +85,10 @@ The down jackets we have selected have a fill power of 800 and more since they o
 
 <hr>
 
-
+<div id="video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
 > On our packrafting trip in the Sarek National Park in Sweden we had also down jackets with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
+</div>
 
 <hr>
 
@@ -103,7 +104,7 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland][2].
 
 <hr>
 
-<h2><a href="http://amzn.to/2doK4aj" target="_blank" rel="nofollow">Mountain Hardware Ghost Whisperer Hooded Down Jacket</a></h2>
+<h2 id="example"><a href="http://amzn.to/2doK4aj" target="_blank" rel="nofollow">Mountain Hardware Ghost Whisperer Hooded Down Jacket</a></h2>
 
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GULW0DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GULW0DS&linkCode=as2&tag=hikeve-20&linkId=RSEZE3QFDW2FVB3A" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GULW0DS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GULW0DS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
