@@ -9,7 +9,7 @@ tags:
   - best
   - pfd
 ---
-As we are frequently on packrafting trips we are always interested to look out for new packrafting gear like a PFD (personal floating device) or life jacket. Here is an overview of the best PFDs which we would consider to buy.
+As we are frequently on packrafting trips we are always interested to look out for new packrafting gear like a PFD (personal floating device) or life jacket. Here is an overview of the best PFDs which we would consider to buy. We have prepared a <a href="#list">weight comparison table</a> with the PFD's which we recommend. You can also <a href="#video">watch a video</a> how we are packrafting in Sweden.
 
 ---
 
@@ -17,7 +17,7 @@ As we are frequently on packrafting trips we are always interested to look out f
 
 ---
 
-## The best PFDs / life jackets for packrafting
+<h2 id="list">The best PFDs / life jackets for packrafting</h2>
 
 <div class="table-responsive">
 
@@ -170,6 +170,13 @@ The Sea to Summit Ultra Flex Booties protect your feet when you walk in the rive
 <a href="https://www.amazon.com/gp/product/B00W5P5BU2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00W5P5BU2&linkCode=as2&tag=hikeve-20&linkId=ff2d0de60ceb7abc7e35c33e0dcd1648" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00W5P5BU2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00W5P5BU2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <a href="https://www.amazon.com/gp/product/B00W5P5BU2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00W5P5BU2&linkCode=as2&tag=hikeve-20&linkId=ff2d0de60ceb7abc7e35c33e0dcd1648" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
+
+---
+
+<div id="video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
+> On our packrafting trip in the Sarek National Park in Sweden we were wearing PFD's. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
+</div>
 
 ---
 

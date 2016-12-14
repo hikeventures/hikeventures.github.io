@@ -11,7 +11,9 @@ tags:
   - packrafting
 ---
 
-If you are planning to do whitewater packrafting or kayaking then you should probably consider to wear a helmet which protects your head in case you flip with your packraft. There are certain criteria you should look out when buying a new packrafting helmet:
+If you are planning to do whitewater packrafting or kayaking then you should probably consider to wear a helmet which protects your head in case you flip with your packraft. Have a look in our <a href="#list">weight comparison table</a> or <a href="#video">watch us</a> packrafting in Sweden.
+
+There are certain criteria you should look out when buying a new packrafting helmet:
 
 * Is the helmet certified for whitewater (e.g. CE EN 1385)?
 * Do you need a visor for additional face protection or against the sun?
@@ -157,6 +159,13 @@ There is also a Russian manufacturer [Waterlogy](http://waterlogy.ru/products/sh
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/HmSb1Myx6Y0?rel=0"></iframe>
 </div>
 <br>
+
+---
+
+<div id="video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
+> On our packrafting trip in the Sarek National Park in Sweden we had no helmets with us. Nowadays, we would not go on such a trip again without a helmet <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
+</div>
 
 ---
 

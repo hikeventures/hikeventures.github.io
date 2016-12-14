@@ -9,7 +9,8 @@ tags:
   - best
   - watches
 ---
-Today I would like to present you the best outdoor GPS watches which feature a color display. They can be used for hiking, backpacking, running or any other outdoor activity. At the moment I am wearing a [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) which has a monochrome display. I am quite satisfied with my [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) so far but I would be interested to get an outdoor watch which features a color display.
+Today I would like to present you the best outdoor GPS watches which feature a color display. They can be used for hiking, backpacking, running or any other outdoor activity. At the moment I am wearing a [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) which has a monochrome display. I am quite satisfied with my [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) so far but I would be interested to get an outdoor watch which features a color display. Check the weight of the GPS watches on our <a href="#list">comparison table</a> or watch one of our <a href="#video">packrafting videos</a> where we were wearing a GPS watch to track our route.
+
 
 ---
 
@@ -17,9 +18,7 @@ Today I would like to present you the best outdoor GPS watches which feature a c
 
 ---
 
-{% include banner_ad.html %}
-
-## The best outdoor gps watches for 2016
+<h2 id="list">The best outdoor gps watches for 2016</h2>
 
 <table>
 <tr>
@@ -195,6 +194,13 @@ The Suunto Spartan is the latest smart watch addition in the Suunto range. Unfor
 From the currently released outdoor watches with color display I would probably pick the [Suunto Spartan Ultra](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch). As a current [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) user I have already my GPS data stored in [Movescount](http://www.movescount.com/members/member140205-HikeVentures) so switching brands is anyway not an easy option for me.
 
 If I would not need the longer training mode (GPS) of the Suunto Spartan then I would probably buy the <a href="http://amzn.to/2dysTQc" rel="nofollow">Apple Watch Series 2 Sport</a> as I have an iPhone. I would also pick the 42 mm Apple Sport version as I prefer a bigger screen.
+
+---
+
+<div id="video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
+> On our packrafting trip in the Sarek National Park in Sweden we had also a GPS watch with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
+</div>
 
 ---
 
