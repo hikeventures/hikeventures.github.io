@@ -17,7 +17,7 @@ In a few weeks we are planning to go for a winter trip to Northern Norway. Our p
 <!--more-->
 
 ## Tent and stove
-Konstantin just recently bought a new tent from Seek Adventures which includes a titanium stove. As we have never done any serious winter camping before we are quite excited if we are going to survive a few nights in the cold.
+Konstantin just recently bought a new tent from Seek Adventures which includes a titanium stove. As we have never done any serious winter camping before we are quite excited if we are going to survive a few nights in the cold. We will also take the MSR Windburner with us which works quite well in windy conditions.
 
 ## Merino base layers
 Beside the tent and the stove Konstantin also ordered a merino overall from Icebreaker which he is planning to wear as a base layer during the night. Patrick on the other hand will just use a Devold Expedition base layer which is made of a little bit less Merino than Konstantins Icebreaker BodyfitZONE Zone One Sheep Suit but is more durable.
@@ -33,9 +33,7 @@ I have ordered 3 pairs of gloves from Hestra which I plan to wear on this trip. 
 
 ## Sleeping bags
 We will take the Western Mountaineering Versalite Sleeping bag with us as well as another sleeping bag to add additional warmth in case we would feel cold in the Versalite during the night.
-
-## Stove
-We are planning to take our MSR Windburner with us. The MSR Windburner should also perform quite well under windy conditions.
+quite well under windy conditions.
 
 ## Backpacks
 Our HMG Porter will server as our backpacks. We will also take our Thule Upslope 35L with us for a shorter day trip.
