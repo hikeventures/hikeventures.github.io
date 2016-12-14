@@ -10,7 +10,7 @@ layout: post
 ---
 
 
-For our packrafting adventures I am always looking for the latest action camera developments for 2016 / 2017. Obviously, there are two models which are currently hot on the market - the GoPro Hero 4 and the Sony FDR-X1000V. Now the questions evolved which of those two action cameras should be a replacement for our old GoPro Hero 3+. Have a look on our <a href="#list">comparison table</a>.
+For our packrafting adventures I am always looking for the latest action camera developments for 2016 / 2017. Obviously, there are two models which are currently hot on the market - the GoPro Hero 4 and the Sony FDR-X1000V. Now the questions evolved which of those two action cameras should be a replacement for our old GoPro Hero 3+. Here is our <a href="#list">camera comparison table</a>.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26814282730/in/photolist-Hfnf6V-GGyd2S-HaFrBx-GRud4u-Gc8Weq-H4Gdkb-H4qMZ7-GbSzpE-HnoEX7-GaxJVX-MoRbuk-dKWT8w-Hfnf2g-Hfnf7B-HhQ8Uu-HdLXe5-GWJQkS-GAWXsf-dXZ33V" title="Best Outdoor Action Camera for 2016 - 2017"><img src="https://c3.staticflickr.com/8/7270/26814282730_defc74acac_b.jpg" width="1024" height="680" alt="Best Outdoor Action Camera for 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
