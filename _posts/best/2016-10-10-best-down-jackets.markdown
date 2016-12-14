@@ -21,7 +21,7 @@ The down jackets we have selected have a fill power of 800 and more since they o
 
 <hr>
 
-<h1 id="list"> The best down jackets of 2016 - 2017</h1>
+<h2 id="list"> The best down jackets of 2016 - 2017</h2>
 
 <div class="table-responsive">
 
@@ -104,7 +104,7 @@ Konstantin wearing a down jacket on our trip in [Finnish Lapland][2].
 
 <hr>
 
-<h2 id="example"><a href="http://amzn.to/2doK4aj" target="_blank" rel="nofollow">Mountain Hardware Ghost Whisperer Hooded Down Jacket</a></h2>
+<h3 id="example"><a href="http://amzn.to/2doK4aj" target="_blank" rel="nofollow">Mountain Hardware Ghost Whisperer Hooded Down Jacket</a></h3>
 
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GULW0DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GULW0DS&linkCode=as2&tag=hikeve-20&linkId=RSEZE3QFDW2FVB3A" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GULW0DS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GULW0DS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -117,7 +117,7 @@ The Mountain Hardware Ghost Whisperer Hooded Down Jacket is one of the lightest 
 
 <hr>
 
-<h2><a href="http://amzn.to/2doJmJP" target="_blank" rel="nofollow">Arcteryx Cerium LT Hoody (850fp)</a></h2>
+<h3><a href="http://amzn.to/2doJmJP" target="_blank" rel="nofollow">Arcteryx Cerium LT Hoody (850fp)</a></h3>
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00Q9MHXN0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q9MHXN0&linkCode=as2&tag=hikeve-20&linkId=Y5N4EYNVYQ5UDXXJ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q9MHXN0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q9MHXN0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/>
 
@@ -129,7 +129,7 @@ Similar as the Arcteryx Cerium LT Jacket just with a hoodie. We would pick the C
 
 <hr>
 
-<h2><a href="http://amzn.to/2e7TgPr" target="_blank" rel="nofollow">Western Mountaineering Flash Jacket (850fp)</a></h2>  
+<h3><a href="http://amzn.to/2e7TgPr" target="_blank" rel="nofollow">Western Mountaineering Flash Jacket (850fp)</a></h3>  
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00O85G9XA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00O85G9XA&linkCode=as2&tag=hikeve-20&linkId=T3YZSF3ZRC6WCK3I" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00O85G9XA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00O85G9XA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/>
 
@@ -141,7 +141,7 @@ The Western Mountaineering Flash Jacket is a very good jacket for hiking trips i
 
 <hr>
 
-<h2><a href="http://amzn.to/2elEHtO" target="_blank" rel="nofollow">Marmot Quasar Hoody (900fp)</a></h2>
+<h3><a href="http://amzn.to/2elEHtO" target="_blank" rel="nofollow">Marmot Quasar Hoody (900fp)</a></h3>
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00DNNZ3KI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DNNZ3KI&linkCode=as2&tag=hikeve-20&linkId=UITTBILMF3IBYVRI"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DNNZ3KI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DNNZ3KI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -153,7 +153,7 @@ The Marmot Quasar Hoody is also an interesting jacket with it's high down fill p
 
 <hr>
 
-<h2><a href="http://amzn.to/2eGhePW" target="_blank" rel="nofollow">Canada Goose Hybridge Lite Jacket (800fp)</a></h2>
+<h3><a href="http://amzn.to/2eGhePW" target="_blank" rel="nofollow">Canada Goose Hybridge Lite Jacket (800fp)</a></h3>
 
 <a href="https://www.amazon.com/gp/product/B00DNEDJAS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DNEDJAS&linkCode=as2&tag=hikeve-20&linkId=7b16c6297f7c608278d0e97854d312d4" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00DNEDJAS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00DNEDJAS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -165,7 +165,7 @@ The Canada Goose Hybridge Lite Jacket is made for temperatures down to -5C. I wo
 
 <hr>
 
-<h2><a href="http://amzn.to/2dBjOHV" target="_blank" rel="nofollow">Arcteryx Cerium SV Hoody (850fp)</a></h2>
+<h3><a href="http://amzn.to/2dBjOHV" target="_blank" rel="nofollow">Arcteryx Cerium SV Hoody (850fp)</a></h3>
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GW80Q9E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW80Q9E&linkCode=as2&tag=hikeve-20&linkId=WCQGDJJ5MREZ5EUX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW80Q9E&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW80Q9E" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -177,7 +177,7 @@ The Arcteryx Cerium SV Hoody is part of Arcteryx severe weather product line - m
 
 <hr>
 
-<h2><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Patagonia Men's Down Hooded Jacket (800fp)</a></h2>  
+<h3><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Patagonia Men's Down Hooded Jacket (800fp)</a></h3>  
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00OZGABKY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OZGABKY&linkCode=as2&tag=hikeve-20&linkId=OLFQERZDADI4UC3J"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00OZGABKY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00OZGABKY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -189,7 +189,7 @@ Patagonia is another popular outdoor brand and delivers a super light down jacke
 
 <hr>
 
-<h2><a href="http://www.amazon.com/gp/product/B00DTT6DXC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DTT6DXC&linkCode=as2&tag=hikeve-20&linkId=N7SHBEPWSYPV25ZK" target="_blank" rel="nofollow">Rab Infinity Endurance Jacket (850fp)</a></h2>
+<h3><a href="http://www.amazon.com/gp/product/B00DTT6DXC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DTT6DXC&linkCode=as2&tag=hikeve-20&linkId=N7SHBEPWSYPV25ZK" target="_blank" rel="nofollow">Rab Infinity Endurance Jacket (850fp)</a></h3>
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00DTT6DXC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DTT6DXC&linkCode=as2&tag=hikeve-20&linkId=N7SHBEPWSYPV25ZK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DTT6DXC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DTT6DXC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -201,7 +201,7 @@ The  Rab Infinity Endurance Jacket is a technical alpine or mountaineering jacke
 
 <hr>
 
-<h2><a href="http://amzn.to/2e7V1Mx" target="_blank" rel="nofollow">Rab Positron Jacket (800fp)</a></h2>
+<h3><a href="http://amzn.to/2e7V1Mx" target="_blank" rel="nofollow">Rab Positron Jacket (800fp)</a></h3>
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00XJO2X18/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00XJO2X18&linkCode=as2&tag=hikeve-20&linkId=5POHXUOALSVWVY2B"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00XJO2X18&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00XJO2X18" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -213,7 +213,7 @@ The  Rab Positron Jacket is proper box-wall down winter jacket with a water-resi
 
 <hr>
 
-<h2><a href="http://amzn.to/2e2FVXu" target="_blank" rel="nofollow">The North Face Immaculator Parka (800fp)</a></h2>
+<h3><a href="http://amzn.to/2e2FVXu" target="_blank" rel="nofollow">The North Face Immaculator Parka (800fp)</a></h3>
 
 <a rel="nofollow" href="https://www.amazon.com/gp/product/B019ZZERV8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019ZZERV8&linkCode=as2&tag=hikeve-20&linkId=2307870a534b0fcdf26a7a4c77eb1f56"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B019ZZERV8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B019ZZERV8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -225,7 +225,7 @@ The North Face Immaculator Parka features an alpine fit and is made for those ve
 
 <hr>
 
-<h2><a href="http://amzn.to/2endumN" target="_blank" rel="nofollow">Arcteryx Ceres Jacket (850fp)</a></h2>
+<h3><a href="http://amzn.to/2endumN" target="_blank" rel="nofollow">Arcteryx Ceres Jacket (850fp)</a></h3>
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GV47ZVQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GV47ZVQ&linkCode=as2&tag=hikeve-20&linkId=W5UOOTWBV54OBDXF" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GV47ZVQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20"></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GV47ZVQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
