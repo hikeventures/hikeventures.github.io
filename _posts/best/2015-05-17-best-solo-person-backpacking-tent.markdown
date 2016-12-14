@@ -12,7 +12,7 @@ layout: post
 
 Are you looking for a new tent and want to know which one is the best solo backpacking tent? Well, the best 1-person tent can be a different one in different environments and situations. Are you planning a trip to remote areas? Do you want to use your tent during the winter? Or are you an ultralight aficionado?
 
-I would like to give an overview about the best solo backpacking tents which we have selected for 2016. It's important to know that each tent is made for a specific purpose so there is no one tent fits all tent. Just as a side note - I have not included tarps in my selection.
+I would like to give an overview about the best solo backpacking tents which we have selected for 2016. It's important to know that each tent is made for a specific purpose so there is no one tent fits all tent. Just as a side note - I have not included tarps in my selection. Here is a <a href="#list">comparison table</a>.
 
 ---
 
@@ -20,7 +20,7 @@ I would like to give an overview about the best solo backpacking tents which we 
 
 ---
 
-<h2>The best solo tents for 2016 - 2017</h2>
+<h2 id="list">The best solo tents for 2016 - 2017</h2>
 <div class="table-responsive">
 <table class="table table-hover table-bordered list_items">
         <thead>
