@@ -9,7 +9,7 @@ tags:
   - base layers
 layout: post
 ---
-For our hiking and snowshoeing trip in Northern Norway we were looking for new merino wool base layers which would also work under arctic conditions. You can also use the baselayers for other outdoor activities like skiing, snowboarding or mountaineering. So far I have already experience with wearing the Devold Expedition base layer and I am quite happy with it. Here is my personal selection of the best merino wool base layers for 2016 - 2017. Have a look on our <a href="#list">comparison table</a> to find your merino base layer with the right weight, check one of our <a href="#video">packrafting videos</a> where we were wearing base layers or see some <a href="#example">pictures</a> of the base layers which we recommend.
+For our hiking and snowshoeing trip in Northern Norway we were looking for new merino wool base layers which would also work under arctic conditions. You can also use the baselayers for other outdoor activities like skiing, snowboarding or mountaineering. So far I have already experience with wearing the Devold Expedition base layer and I am quite happy with it. Here is my personal <a href="#list">selection</a> of the best merino wool base layers for 2016 - 2017. Also check one of our <a href="#video">packrafting videos</a> where we were wearing base layers to stay warm while paddling 1 week in freezing cold conditions.
 
 ---
 
