@@ -1,6 +1,6 @@
 ---
 title: Best Down Jackets for 2016 - 2017
-description: Need a warm jacket for your autumn or winter? We found the best down jackets for 2016
+description: Need a warm jacket for your autumn or winter? We found the best down jackets for 2016 - 2017
 date: 2016-10-10 20:43:52
 category: articles
 tags:
@@ -17,14 +17,11 @@ Do you need a new down jacket for the winter or for a cold summer night during a
 
 ---
 
-{% include banner_ad.html %}
-
-The down jackets we have selected have a fill power of 800 and more since they offer the best warmth-weight ratio and are considered to be lightweight down jackets. We have included down jackets which you can use as a 3-season down jacket as well as winter down jackets. The lighter jackets usually come with less down and are more suitable for warmer months or as a mid-layer during the winter. If you are planning a trip to a place which is very humid and moisture I would recommend you to buy a synthetic insulated jacket rather than a down jacket. For example, I was wearing the <a href="http://amzn.to/2f1dvQh" target="_blank" rel="nofollow">
-Mountain Equipment Fitzroy Jacket</a> - insulated with Primaloft GOLD - on my packrafting trip in the <a href="http://www.hikeventures.com/Packrafting-River-Dee-Scotland-1/">Scottish Highlands</a>. This jacket also keeps you warm when it's wet and weights 645 grams.
+The down jackets we have selected have a fill power of 800 and more since they offer the best warmth-weight ratio and are considered to be lightweight down jackets. We have included down jackets which you can use as a 3-season down jacket as well as winter down jackets. The lighter jackets usually come with less down and are more suitable for warmer months or as a mid-layer during the winter. Some people also prefer synthetic insulation rather than down. However, keep in mind that synthetic insulation is more bulcky and offers less insulation than down.
 
 <hr>
 
-<h1> The best down jackets of 2016</h1>
+<h1> The best down jackets of 2016 - 2017</h1>
 
 <div class="table-responsive">
 
@@ -47,9 +44,6 @@ Mountain Equipment Fitzroy Jacket</a> - insulated with Primaloft GOLD - on my pa
 
         <tr>
           <td><a href="http://amzn.to/2e7TgPr" target="_blank" rel="nofollow">Western Mountaineering Flash Jacket (850fp)</a></td><td>290g</td>
-        </tr>
-        <tr>
-          <td><a href="http://amzn.to/2e7TgPr" target="_blank" rel="nofollow">Rab Zero G Jacket (1000fp)</a></td><td>310g</td>
         </tr>
         <tr>
           <td><a href="http://amzn.to/2eGhePW" target="_blank" rel="nofollow">Canada Goose Hybridge Lite Jacket (800fp)</a></td><td>331g</td>
@@ -145,26 +139,6 @@ The Western Mountaineering Flash Jacket is a very good jacket for hiking trips i
 <a href="http://amzn.to/2e7TgPr" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 <hr>
-
-
-
-
-
-
-<h2><a href="http://amzn.to/2gREye1" target="_blank" rel="nofollow">Rab Zero G Jacket (1000fp)</a></h2>  
-
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01IEUCBYK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IEUCBYK&linkCode=as2&tag=hikeve-20&linkId=10650b6efbe41e6b4536e0bd30f96e3e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01IEUCBYK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01IEUCBYK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Weight:** 310g
-
-The Rab Zero G Jacket is probably the ultimate down jacket. With a down fill power of 1000 this jacket offers the best weight-warmth ratio. The jacket is filled with 130 grams of European Goose Down. There are also 2 hand-warmer pockets, elasticated stretch woven cuffs and a semi-elasticated hem.
-
-<a href="http://amzn.to/2gREye1" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
-
-<hr>
-
-
-
 
 <h2><a href="http://amzn.to/2elEHtO" target="_blank" rel="nofollow">Marmot Quasar Hoody (900fp)</a></h2>
 
