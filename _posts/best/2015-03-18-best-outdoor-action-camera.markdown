@@ -17,8 +17,6 @@ For our packrafting adventures I am always looking for the latest action camera 
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 To answer the question I am just going to compare the specifications of the cameras. Of course, if you are used to the GoPro Software to edit videos then you are most likely tempted to get the GoPro Hero 4. Sony, however is a market leader in developing camera sensors and since action cameras have the highest market share in the camera business it's quite obvious that Sony is going to stay here.
 
 <iframe src="https://player.vimeo.com/video/76995626" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br>Our packrafting video taken with a GoPro Hero 2 camera in [Sarek National Park](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/).

@@ -14,9 +14,7 @@ We have been snowshoing in Finnish Lapland and in the Austrian Alps last year an
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24785831751/in/photolist-Dm1oBg-DUv9z4-DLeSfK-qNgY7t-DJ5oFY-Dm1YSa-DSbpUy-CWZxhh-Dm1SnM-DJ5qtf-DLeWra-CWZhq3-CX6ZLM-DsowUj-CWZoVY-DJ55xd-CWYQyo-CX6sRF-DUueLP-r3peJw" title="Best snowshoes for 2016 - 2017"><img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="Best snowshoes for 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
-{% include banner_ad.html %}
-
-# The best snowshoes 2016 - 2017
+## The best snowshoes 2016 - 2017
 
 <div class="table-responsive">
 
@@ -70,7 +68,7 @@ On the picture you can see me walking with my Tubbs Xpedition snowshoes in [Finn
 
 ---
 
-<h2><a href="http://www.amazon.com/gp/product/B00LFJNHQ4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNHQ4&linkCode=as2&tag=hikeve-20&linkId=YIDJETI36CMR7GF4" rel="nofollow" target="_blank">MSR Lightning Ascent 25</a></h2>
+<h3><a href="http://www.amazon.com/gp/product/B00LFJNHQ4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNHQ4&linkCode=as2&tag=hikeve-20&linkId=YIDJETI36CMR7GF4" rel="nofollow" target="_blank">MSR Lightning Ascent 25</a></h3>
 
 <a href="http://www.amazon.com/gp/product/B00LFJNHQ4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNHQ4&linkCode=as2&tag=hikeve-20&linkId=YIDJETI36CMR7GF4" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJNHQ4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJNHQ4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -88,7 +86,7 @@ On the picture you can see me walking with my Tubbs Xpedition snowshoes in [Finn
 
 ---
 
-<h2><a href="http://www.amazon.com/gp/product/B00Q904HD6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q904HD6&linkCode=as2&tag=hikeve-20&linkId=775ITK4RI5T2U3CQ" rel="nofollow" target="_blank">Tubbs FLEX VRT 24</a></h2>
+<h3><a href="http://www.amazon.com/gp/product/B00Q904HD6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q904HD6&linkCode=as2&tag=hikeve-20&linkId=775ITK4RI5T2U3CQ" rel="nofollow" target="_blank">Tubbs FLEX VRT 24</a></h3>
 
 <a href="http://www.amazon.com/gp/product/B00Q904HD6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q904HD6&linkCode=as2&tag=hikeve-20&linkId=775ITK4RI5T2U3CQ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q904HD6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q904HD6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -104,7 +102,7 @@ On the picture you can see me walking with my Tubbs Xpedition snowshoes in [Finn
 
 ---
 
-<h2><a href="http://www.amazon.com/gp/product/B00LFJNWGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNWGO&linkCode=as2&tag=hikeve-20&linkId=5DOFWDAR6SHYQAWV" rel="nofollow" target="_blank">MSR Lightning Explore 25</a></h2>
+<h3><a href="http://www.amazon.com/gp/product/B00LFJNWGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNWGO&linkCode=as2&tag=hikeve-20&linkId=5DOFWDAR6SHYQAWV" rel="nofollow" target="_blank">MSR Lightning Explore 25</a></h3>
 
 <a href="http://www.amazon.com/gp/product/B00LFJNWGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNWGO&linkCode=as2&tag=hikeve-20&linkId=5DOFWDAR6SHYQAWV" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJNWGO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJNWGO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -121,7 +119,7 @@ On the picture you can see me walking with my Tubbs Xpedition snowshoes in [Finn
 
 ---
 
-<h2><a href="http://www.amazon.com/gp/product/B00LFJO5NI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJO5NI&linkCode=as2&tag=hikeve-20&linkId=ADHSRTEBIYMKSWHX" rel="nofollow" target="_blank">MSR Revo Ascent 25</a></h2>
+<h3><a href="http://www.amazon.com/gp/product/B00LFJO5NI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJO5NI&linkCode=as2&tag=hikeve-20&linkId=ADHSRTEBIYMKSWHX" rel="nofollow" target="_blank">MSR Revo Ascent 25</a></h3>
 
 <a href="http://www.amazon.com/gp/product/B00LFJO5NI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJO5NI&linkCode=as2&tag=hikeve-20&linkId=ADHSRTEBIYMKSWHX" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJO5NI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJO5NI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -137,7 +135,7 @@ On the picture you can see me walking with my Tubbs Xpedition snowshoes in [Finn
 
 ---
 
-<h2><a href="http://www.amazon.com/gp/product/B00ECPPX8S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ECPPX8S&linkCode=as2&tag=hikeve-20&linkId=HCYZ4YFLRZOVRSLA" rel="nofollow" target="_blank">Tubbs Xpedition 25</a></h2>
+<h3><a href="http://www.amazon.com/gp/product/B00ECPPX8S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ECPPX8S&linkCode=as2&tag=hikeve-20&linkId=HCYZ4YFLRZOVRSLA" rel="nofollow" target="_blank">Tubbs Xpedition 25</a></h3>
 
 <a href="http://www.amazon.com/gp/product/B00ECPPX8S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ECPPX8S&linkCode=as2&tag=hikeve-20&linkId=HCYZ4YFLRZOVRSLA" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ECPPX8S&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00ECPPX8S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -152,9 +150,9 @@ On the picture you can see me walking with my Tubbs Xpedition snowshoes in [Finn
 
 ---
 
-<h2><a  href="http://www.amazon.com/gp/product/B0000AN4EK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000AN4EK&linkCode=as2&tag=hikeve-20&linkId=4JUOH2Q6ICUQI46M" rel="nofollow" target="_blank">Atlas 12 Series</a></h2>
+<h3><a  href="http://www.amazon.com/gp/product/B0000AN4EK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000AN4EK&linkCode=as2&tag=hikeve-20&linkId=4JUOh3Q6ICUQI46M" rel="nofollow" target="_blank">Atlas 12 Series</a></h3>
 
-<a  href="http://www.amazon.com/gp/product/B0000AN4EK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000AN4EK&linkCode=as2&tag=hikeve-20&linkId=4JUOH2Q6ICUQI46M" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0000AN4EK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0000AN4EK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="http://www.amazon.com/gp/product/B0000AN4EK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000AN4EK&linkCode=as2&tag=hikeve-20&linkId=4JUOh3Q6ICUQI46M" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0000AN4EK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0000AN4EK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **weight:** 2100 grams  
 **application:** backcountry & mountain
@@ -176,7 +174,7 @@ Konstantin snowshoeing in the [Austrian Alps][10] with this <a href="http://www.
 
 ---
 
-# How to choose snowshoes?
+## How to choose snowshoes?
 
 There are several criterias you should take into consideration when you are planning to buy snowshoes:
 
@@ -194,7 +192,7 @@ There are several criterias you should take into consideration when you are plan
 
 ---
 
-# Conclusion
+## Conclusion
 So which are the best snowshoes for 2016? My preference goes towards a light snowshoe which has a good grip in the backcountry and in the mountains. I would probably choose the <a href="http://www.amazon.com/gp/product/B00LFJNHQ4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNHQ4&linkCode=as2&tag=hikeve-20&linkId=YIDJETI36CMR7GF4" rel="nofollow" target="_blank">MSR Lightning Ascent</a>. The <a href="http://amzn.to/2ea20qB" target="_blank" rel="nofollow">MSR Revo Ascent 25</a> would be my second choice because of the additional weight. The advantage of the MSR Revo Ascent 25 over the MSR Lightning Ascent is that it is a bit more durable.
 
 ---

@@ -25,8 +25,6 @@ The shell of the case should also absorb some bumps due to it's solid constructi
 
 There is also the <a rel="nofollow" href="http://amzn.to/1FYzeza">Thule Subterra 13" MacBook Sleeve</a> available, however you won't be able to fit in your power cables an additional iPad and other accessories. For me it was a logical choice to go with the Thule Gauntlet 13" MacBook Attaché as I am planning to take my Macbook Pro with me when I want to take pictures on a longer trip where I do not stay in a tent over night.
 
-{% include banner_ad.html %}
-
 What's more, I can also use my MacBook without taking it out from the case. Let's say I am sitting in the train and want to use my MacBook then I would just open the zipper of the Thule case and I am ready to type. Also the additional pocket for the iPad protects it's screen if you are planning to take it along with your MacBook Pro. There are also interior dividers for accessories.
 
 <a href="https://www.flickr.com/photos/90204224@N07/17166514972"><img src="https://farm8.staticflickr.com/7644/17166514972_62ae02076a_b.jpg" width="100%" alt="Thule Gauntlet - Best Macbook Pro Case for Outdoors"></a>

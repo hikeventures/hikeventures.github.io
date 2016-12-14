@@ -255,9 +255,9 @@ amzn_assoc_linkid = "94ae095fd527d4f97d365afbd4404fcf";
 
 ---
 
-# Accessories
+## Accessories
 
-## [Sea to Summit Ultra-Sil eVENT Compression Dry Sack][14]
+### [Sea to Summit Ultra-Sil eVENT Compression Dry Sack][14]
 
 Down is the perfect gear which can be compressed. Use a compression dry sack to decrease the size of your down jacket and your sleeping bag to a minimum and to keep your down jacket dry. The Sea to Summit Ultra-Sil eVENT Compression Dry Sack is one of the view compression sacks which are actually waterproof.
 
@@ -265,7 +265,7 @@ Down is the perfect gear which can be compressed. Use a compression dry sack to 
 
 ---
 
-## [Nikwax Down Wash Direct][15]
+### [Nikwax Down Wash Direct][15]
 
 Use Nikwax Down Wash to wash your down jacket.
 
@@ -273,7 +273,7 @@ Use Nikwax Down Wash to wash your down jacket.
 
 ---
 
-## [Nikwax Down Proof Waterproofing][16]
+### [Nikwax Down Proof Waterproofing][16]
 
 Nikwax Down Proof helps to make your down more water repellent. Down insulates less when it gets wet and with Nikwax Down Proof you can protect your down a little bit.
 
@@ -281,33 +281,33 @@ Nikwax Down Proof helps to make your down more water repellent. Down insulates l
 
 <hr>
 
-# FAQ on Down Jackets
+## FAQ on Down Jackets
 
-## When not to wear a down jacket?
+### When not to wear a down jacket?
 
 You should avoid wearing your down-jacket while you are active (e.g. hiking, biking, climbing or skiing) since down insulates less when it gets wet. So ideally you wear a [fleece jacket][17] when you are active and switch to your down jacket when you are resting.
 
 ---
 
-## When not to wear a down jacket?
+### When not to wear a down jacket?
 
 You should avoid wearing your down-jacket while you are active (e.g. hiking, biking, climbing or skiing) since down insulates less when it gets wet. So ideally you wear a [fleece jacket][18] when you are active and switch to your down jacket when you are resting.
 
 ---
 
-## What is down quality?
+### What is down quality?
 
 A high down quality indicates that less down is needed to keep you warm for the same weight (e.g. a fill power of 900 keeps you more warm than a fill power of 700 with the same amount of down) - having higher warmth-to-weight ratio. A down jacket with the highest fill power and the lightest shell fabric can be considered an ultralight down jacket. Fill power is measured by cuin. A ratio of 90:10 expresses the down-feather ratio (90% down and 10% feathers).
 
 ---
 
-## Are down jackets waterproof?
+### Are down jackets waterproof?
 
 The shell of your down jacket is slightly water repellent in order to keep the down dry in case you get into very light rain. If you expect to get more rain, swap the down jacket with a [fleece jacket][19] and pull on a [rain jacket][20]. So in general, down jackets are not waterproof.
 
 ---
 
-## How are down jackets designed?
+### How are down jackets designed?
 
 The baffles of a down jacket keep the down in place. There are two possibilities to create those baffles:
 
@@ -316,73 +316,73 @@ The baffles of a down jacket keep the down in place. There are two possibilities
 
 ---
 
-## Should a down jacket have a hood?
+### Should a down jacket have a hood?
 
 We would go for a hooded down jacket, as you can use the hood also in your sleeping bag if temperatures drop below of what your sleeping bag is capable to handle.
 
 ---
 
-## What is the difference in traditional and hydrophobic down (or HydroDown)?
+### What is the difference in traditional and hydrophobic down (or HydroDown)?
 
 Hydrophobic down does not absorb water that quickly as traditional down. A hydrophobic down jacket keeps its insulation longer than a traditional down jacket if it gets wet.
 
 ---
 
-## Down jackets compared to synthetic filled jackets
+### Down jackets compared to synthetic filled jackets
 
 Synthetic filled jackets keep you dry even so when they are wet. Disadvantages of a synthetic filled jacket is it's shorter life and it takes more space to pack it in the backpack. It also weights more to deliver the same amount of warmth compared to a down filled jacket. Down is more durable than synthetic fill, more breathable, windproof but also dries slower. A wet down jacket also weights more than a wet synthetic jacket since it absorbs more water. Usually, we carry our down jacket and sleeping bag in a waterproof stuff sack if we don't need them.
 
 ---
 
-## Which design features are important on a down jacket?
+### Which design features are important on a down jacket?
 
 To keep the warmth inside your jacket, a waist drawstring and wrist closures (e.g. Velcro) are important features. Pockets and a hood are useful as well. The hood should be sewed to the jacket if you want to get maximum warmth. Less pockets and zippers on a down jacket can also reduce weight.
 
 ---
 
-## Which fabric shell should be used on a lightweight down jacket?
+### Which fabric shell should be used on a lightweight down jacket?
 
 Many new down jackets feature nowadays a light ripstop shell to make the down jacket a bit resistant against moisture. One disadvantage of those light ripstop shells is that they are not very durable and if it starts raining your down jacket will still soak up water. However, we found them to be sufficient as we usually only wear a down jacket to walk around in camp or as an additional layer in my sleeping bag. So in general, we don't find it important to have a waterproof down jacket which would also lower the breathability of the down jacket.
 
 ---
 
-## Should a down jacket have a hood?
+### Should a down jacket have a hood?
 
 We would go for a hooded down jacket, as you can use the hood also in your sleeping bag if temperatures drop below of what your sleeping bag is capable to handle.
 
 ---
 
-## How to clean a down jacket?
+### How to clean a down jacket?
 
 The best way to clean a down jacket is to wash it inside out in a washing machine with very low speed. As washing liquid we always use Nikwax Downwash and sometimes additionally Nikwax Downproof to make the down a bit more resistant against moisture.
 
 ---
 
-## What is the difference in traditional and hydrophobic down (or HydroDown)?
+### What is the difference in traditional and hydrophobic down (or HydroDown)?
 
 Hydrophobic down does not absorb water that quickly as traditional down. A hydrophobic down jacket keeps its insulation longer than a traditional down jacket if it gets wet.
 
 ---
 
-## Down jackets compared to synthetic filled jackets
+### Down jackets compared to synthetic filled jackets
 
 Synthetic filled jackets keep you dry even so when they are wet. Disadvantages of a synthetic filled jacket is it's shorter life and it takes more space to pack it in the backpack. It also weights more to deliver the same amount of warmth compared to a down filled jacket. Down is more durable than synthetic fill, more breathable, windproof but also dries slower. A wet down jacket also weights more than a wet synthetic jacket since it absorbs more water. Usually, we carry our down jacket and sleeping bag in a waterproof stuff sack if we don't need them.
 
 ---
 
-## Which design features are important on a down jacket?
+### Which design features are important on a down jacket?
 
 To keep the warmth inside your jacket, a waist drawstring and wrist closures (e.g. Velcro) are important features. Pockets and a hood are useful as well. The hood should be sewed to the jacket if you want to get maximum warmth. Less pockets and zippers on a down jacket can also reduce weight.
 
 ---
 
-## Which fabric shell should be used on a lightweight down jacket?
+### Which fabric shell should be used on a lightweight down jacket?
 
 Many new down jackets feature nowadays a light ripstop shell to make the down jacket a bit resistant against moisture. One disadvantage of those light ripstop shells is that they are not very durable and if it starts raining your down jacket will still soak up water. However, we found them to be sufficient as we usually only wear a down jacket to walk around in camp or as an additional layer in my sleeping bag. So in general, we don't find it important to have a waterproof down jacket which would also lower the breathability of the down jacket.
 
 ---
 
-## How to keep a down jacket dry?
+### How to keep a down jacket dry?
 
 You can keep your down jacket dry by storing it in a waterproof compression bag when you are hiking in wet conditions and to use your down jacket only in your tent.
 

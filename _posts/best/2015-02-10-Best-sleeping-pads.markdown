@@ -15,9 +15,7 @@ From all sleeping pads I would probably recommend you the <a href="http://amzn.t
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28431572180/in/photolist-KjpeSm-KjpegS-KAbyAW-Kjpe1b-KAbydb-Kjpddj-KAE83V-HfneYa-H4GcRf-Kjpf1N-KKxrhz-HnoEU1-GcfKhk-Dv2uSF-E1hZc9-EjbrxT-EgXSbQ-txM5FU-ty5vNM-q8Un36" title="Best Sleeping Pads in 2016 - 2017"><img src="https://c5.staticflickr.com/9/8185/28431572180_4c18fea5a0_b.jpg" width="1024" height="683" alt="Best Sleeping Pads in 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-{% include banner_ad.html %}
-
-# The best lightweight sleeping pads of 2016 - 2017
+## The best lightweight sleeping pads of 2016 - 2017
 
 <div class="table-responsive">
 
@@ -66,7 +64,7 @@ From all sleeping pads I would probably recommend you the <a href="http://amzn.t
 
 ---
 
-<h2><a href="http://amzn.to/2dpbvAF" target="_blank" rel="nofollow">Therm-a-Rest NeoAir XLite</a></h2>
+<h3><a href="http://amzn.to/2dpbvAF" target="_blank" rel="nofollow">Therm-a-Rest NeoAir XLite</a></h3>
 
 **R-Value:** 3.2  
 **Weight:** 350 g  
@@ -80,7 +78,7 @@ The Therm-a-Rest NeoAir Xlite is a solid 3-season air sleeping pad which you cou
 
 ---
 
-<h2><a href="http://amzn.to/2dBNq82" target="_blank" rel="nofollow">Sea to Summit Ultralight</a></h2>
+<h3><a href="http://amzn.to/2dBNq82" target="_blank" rel="nofollow">Sea to Summit Ultralight</a></h3>
 
 **R-Value:** 0.7  
 **Weight:** 355 g  
@@ -94,7 +92,7 @@ Another light sleeping pad is the Sea to Summit Ultralight which featuers a more
 
 ---
 
-<h2><a href="http://amzn.to/2elYMQq" target="_blank" rel="nofollow">Therm-a-Rest NeoAir XTherm</a></h2>
+<h3><a href="http://amzn.to/2elYMQq" target="_blank" rel="nofollow">Therm-a-Rest NeoAir XTherm</a></h3>
 
 **R-Value:** 5.7  
 **Weight:**  410 g  
@@ -109,7 +107,7 @@ The Therm-a-Rest NeoAir XTherm is a sleeping pad for late spring, winter or earl
 
 ---
 
-<h2><a href="http://amzn.to/2e8kepY" target="_blank" rel="nofollow">Therm-a-Rest Z LITE SOL</a></h2>
+<h3><a href="http://amzn.to/2e8kepY" target="_blank" rel="nofollow">Therm-a-Rest Z LITE SOL</a></h3>
 
 **R-Value:** 2.6  
 **Weight:**  410 g
@@ -122,7 +120,7 @@ The Therm-a-Rest Z LITE SOL is a foam sleeping pad which is a safe choice than a
 
 ---
 
-<h2><a href="http://amzn.to/2eIa0OZ" target="_blank" rel="nofollow">Exped Synmat UL 7</a></h2>
+<h3><a href="http://amzn.to/2eIa0OZ" target="_blank" rel="nofollow">Exped Synmat UL 7</a></h3>
 
 **R-Value:** 3.3  
 **Weight:** 450 g
@@ -136,7 +134,7 @@ The Exped Synmat UL 7 was my go-to sleeping pad for a couple of years, however I
 
 ---
 
-<h2><a href="http://amzn.to/2dBNswR" target="_blank" rel="nofollow">Therm-a-Rest EvoLite</a></h2>
+<h3><a href="http://amzn.to/2dBNswR" target="_blank" rel="nofollow">Therm-a-Rest EvoLite</a></h3>
 
 **R-Value:** 2.1  
 **Weight:** 520 g
@@ -154,11 +152,11 @@ If you don't want to spend so much time inflating your sleeping pad then the The
 
 <hr>
 
-# Accessories
+## Accessories
 
 Here are a few accessories which could be quite handy in combination with your sleeping pad:
 
-<h2><a href="https://www.amazon.com/gp/product/B008O6JDKK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008O6JDKK&linkCode=as2&tag=hikeve-20&linkId=ba34b83037b701b6a0f7f3a022f97fea" rel="nofollow" target="_blank">Therm-a-Rest NeoAir Mini Pump</a></h2>
+<h3><a href="https://www.amazon.com/gp/product/B008O6JDKK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008O6JDKK&linkCode=as2&tag=hikeve-20&linkId=ba34b83037b701b6a0f7f3a022f97fea" rel="nofollow" target="_blank">Therm-a-Rest NeoAir Mini Pump</a></h3>
 
 The NeoAir® Mini Pump inflates a NeoAir mattress in around 3 minutes.
 
@@ -166,7 +164,7 @@ The NeoAir® Mini Pump inflates a NeoAir mattress in around 3 minutes.
 
 ---
 
-<h2><a href="https://www.amazon.com/gp/product/B00HP4WOR6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HP4WOR6&linkCode=as2&tag=hikeve-20&linkId=4ce2274897060040af1b0578024a23da" rel="nofollow" target="_blank">Therm-A-Rest NeoAir Torrent Air Pump</a></h2>
+<h3><a href="https://www.amazon.com/gp/product/B00HP4WOR6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HP4WOR6&linkCode=as2&tag=hikeve-20&linkId=4ce2274897060040af1b0578024a23da" rel="nofollow" target="_blank">Therm-A-Rest NeoAir Torrent Air Pump</a></h3>
 
 The Torrent Pump inflates a large mattress in about 1.5 minutes.
 
@@ -174,14 +172,14 @@ The Torrent Pump inflates a large mattress in about 1.5 minutes.
 
 ---
 
-<h2><a href="https://www.amazon.com/gp/product/B00G4V53FQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G4V53FQ&linkCode=as2&tag=hikeve-20&linkId=b353f857f5eb4f576e3ff02564d8bd6f" rel="nofollow">Therm-A-Rest Instant Field Repair Kit</a></h2>
+<h3><a href="https://www.amazon.com/gp/product/B00G4V53FQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G4V53FQ&linkCode=as2&tag=hikeve-20&linkId=b353f857f5eb4f576e3ff02564d8bd6f" rel="nofollow">Therm-A-Rest Instant Field Repair Kit</a></h3>
 New sleeping pads usually come with a field repair kit. However, sometimes you may lose your repair kit or just need a new one.
 
 <a href="https://www.amazon.com/gp/product/B00G4V53FQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G4V53FQ&linkCode=as2&tag=hikeve-20&linkId=b353f857f5eb4f576e3ff02564d8bd6f" rel="nofollow" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00G4V53FQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00G4V53FQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ---
 
-# How to choose the best sleeping pad?
+## How to choose the best sleeping pad?
 
 * Weight (do you want an ultralight sleeping pad?)
 * Size (does it need to pack small?)
@@ -396,7 +394,7 @@ There is no weight limit on sleeping pads. You have to decide yourself how much 
 
 ---
 
-# Conclusion
+## Conclusion
 So which is the best sleeping pad for 2016? I found my Therm-a-Rest NeoAir XTherm more comfortable than my EXPED SYNMAT UL 7 M and it insulates more while being lighter. I found the Therm-a-rest more comfortable because of it's surface pattern. I just don't get along with those vertically grooves on the EXPED. I also found that the Therm-a-rest is more stable to sleep on. Having said that, it's still possible to sleep on the EXPED depending on your own preference. Below the surface of the EXPED Synmat UL 7 M compared to the Therm-a-Rest NeoAir XTherm.
 
 However, the Therm-a-Rest NeoAir XTherm is a bit more expensive than the SYNMAT UL 7 M. What I like on the SYNMAT is that it is easy to inflate and deflate. For the Therm-a-rest it took me a little bit longer because of the smaller valve compared to the EXPED. Since I found the Therm-a-Rest NeoAir XTherm a reference model for cold temperatures, I didn't include any other sleeping pads which are more heavy except the Therm-a-Rest EvoLite since it is a self-inflating pad for the warmer months. If I would go on a trip then my preference would go towards the Therm-a-rest XTherm - which is the best sleeping pad in my opinion. In very cold conditions I would combine the Therm-a-Rest XTherm with the Therm-a-Rest Z Sol. I hope you that this article helps you to pick your best sleeping pad in 2016.

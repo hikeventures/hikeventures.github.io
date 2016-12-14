@@ -17,9 +17,7 @@ Do you know how to stay warm during a hiking trip? Don't get wet! Here is my sel
 
 ---
 
-{% include banner_ad.html %}
-
-# The best rain jackets 2016 - 2017
+## The best rain jackets 2016 - 2017
 
 <div class="table-responsive">
 
@@ -67,7 +65,7 @@ Do you know how to stay warm during a hiking trip? Don't get wet! Here is my sel
 
 <hr>
 
-<h2><a href="http://amzn.to/2e34CD3" target="_blank" rel="nofollow">Berghaus Vapourlight Hyper Smock 2.0</a></h2>
+<h3><a href="http://amzn.to/2e34CD3" target="_blank" rel="nofollow">Berghaus Vapourlight Hyper Smock 2.0</a></h3>
 
  <a rel="nofollow" href="http://www.amazon.com/gp/product/B00SHH9E3W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SHH9E3W&linkCode=as2&tag=hikeve-20&linkId=FCQDAPPO56OTZDB3"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SHH9E3W&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00SHH9E3W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -80,7 +78,7 @@ The Berghaus Vapourlight Hyper Smock 2.0 is the lightest waterproof jacket in ou
 
 ---
 
-<H2><a href="http://amzn.to/2dBLJYc" target="_blank" rel="nofollow">Outdoor Research Helium II Jacket</a></h2>
+<h3><a href="http://amzn.to/2dBLJYc" target="_blank" rel="nofollow">Outdoor Research Helium II Jacket</a></h3>
 
 <a  href="http://www.amazon.com/gp/product/B005BV88T8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005BV88T8&linkCode=as2&tag=hikeve-20&linkId=JO3FT2NIOPZSMMGK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005BV88T8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005BV88T8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -93,7 +91,7 @@ The Outdoor Research Helium II Jacket is also a quite popular rain jacket. It fe
 
 ---
 
-<h2><a href="http://amzn.to/2evQYHY" rel="nofollow">Rab Flashpoint Jacket</a></h2>
+<h3><a href="http://amzn.to/2evQYHY" rel="nofollow">Rab Flashpoint Jacket</a></h3>
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00UI4SP6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UI4SP6O&linkCode=as2&tag=hikeve-20&linkId=UF2ERPU6WIB5S727"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00UI4SP6O&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00UI4SP6O" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -106,7 +104,7 @@ The Rab Flashpoint Jacket is also a super light rain jacket. With 185 grams it's
 
 ---
 
-<h2><a href="http://amzn.to/2e31BCI" rel="nofollow">Montane Minimus Jacket</a></h2>
+<h3><a href="http://amzn.to/2e31BCI" rel="nofollow">Montane Minimus Jacket</a></h3>
 
  <a rel="nofollow" href="http://www.amazon.com/gp/product/B004SPCZW4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004SPCZW4&linkCode=as2&tag=hikeve-20&linkId=XQWBWNDOOIDSRSSU"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004SPCZW4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B004SPCZW4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -121,7 +119,7 @@ I would choose the Montane Minimus Jacket as my go-to jacket if every gram count
 
 ---
 
-<h2><a href="http://amzn.to/2e33vTI" rel="nofollow">Mountain Hardwear Plasmonic Jacket</a></h2>
+<h3><a href="http://amzn.to/2e33vTI" rel="nofollow">Mountain Hardwear Plasmonic Jacket</a></h3>
 
  <a rel="nofollow" href="http://www.amazon.com/gp/product/B010N9XVY4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B010N9XVY4&linkCode=as2&tag=hikeve-20&linkId=VMEOHRWCSWDP5XOF"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B010N9XVY4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B010N9XVY4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -136,7 +134,7 @@ The Mountain Hardwear Plasmonic Jacket is one of the best selling jackets from M
 
 ---
 
-<h2><a href="http://amzn.to/2eTGFR8" target="_blank" rel="nofollow">Arcteryx Zeta LT Jacket</a></h2>
+<h3><a href="http://amzn.to/2eTGFR8" target="_blank" rel="nofollow">Arcteryx Zeta LT Jacket</a></h3>
 
  <a rel="nofollow" href="http://www.amazon.com/gp/product/B00Q837B50/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q837B50&linkCode=as2&tag=hikeve-20&linkId=Z43W3DTANP74O3MC"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q837B50&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q837B50" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -155,17 +153,17 @@ Patrick filtering water with the [Katadyn Mini][5] and wearing the [Montane Mini
 
 ---
 
-# Which fabric is the best?
+## Which fabric is the best?
 You should look for a rain jacket which is made of light fabrics. In terms of e.g. GORE-TEX, I would opt for GORE-TEX Active Shield or the new GORE C-KNIT backer technology which comes with the new Arcteryx Zeta LT Jacket. However, you will sweat in all rain jackets if you are active regardless of the fabric.
 
 ---
 
-# The best rain jacket for winter
+## The best rain jacket for winter
 if you are planning to wear your jacket for skiing or snowboarding a more durable fabric like GORE-TEX ProShell or in certain cases also the GORE-TEX Active or GORE C-KNIT fabric would be more suitable rather than a thin Pertex Shield+ fabric because those fabrics are more durable.
 
 ---
 
-# The best rain jacket for summer
+## The best rain jacket for summer
 If you plan a hiking trip then I would recommend you to wear a [wind jacket][8] when it is not raining and switch to a rain jacket once it starts raining. At least this strategy has worked out best for me on my hiking trips even so I had to carry two jackets. However, a [wind jacket][9] is so light that you probably won't notice it in your backpack.
 
 If you are looking for a rain jacket for your next hiking trip then you should consider to get a lightweight rain jacket as you will probably have your rain jacket most of the time in your backpack (depending on the weather). I had good experience with the [Montane Minimus Jacket][10] on the trail.

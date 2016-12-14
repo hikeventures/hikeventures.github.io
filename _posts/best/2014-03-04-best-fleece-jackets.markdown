@@ -13,9 +13,7 @@ Are you planning an outdoor adventure to a place where it's wet or humid? Then y
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30599065514/in/photolist-NBWd85-NBWdpC-PGnS2B-NBWekf-PDJ1Eh-Dv2uSF-E1hZc9-EjbrxT-EgXSbQ-tg14Q2-t3DXr8-t2MuH9-t2LbQW-sdZym3-sec6c8-taL9R1-sTru6W-sTq9hY-sTrvww-sTy6fR-sebeM6-taZSRR-sTpojY-sebpWz-t8FgSm-t8Fenm-sTxnjB-t8FiiN-sTy6CV-t8F1NU-tb1bye-sTxzdB-sTr9gW-tb3Ehx-sdZRVb-sTri2G-taL1TN-sTq5Jq-tb1DEP-sTrrNj-se19pJ-sTy5sZ-sTrwSs-sTrseQ-rbRFq6-pUo8mD-pUdSgn-pBY4wH-pUoXBr-pC1VP1" title="Best Fleece Jackets for 2016 - 2017"><img src="https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg" width="1024" height="683" alt="Best Fleece Jackets for 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-{% include banner_ad.html %}
-
-# Overview of the best fleece jackets for 2016 - 2017
+## The best fleece jackets for 2016 - 2017
 
 <div class="table-responsive">
 
@@ -64,7 +62,7 @@ While [Packrafting in Sarek][7] Patrick was always wearing a fleece during the d
 
 <hr>
 
-<h1><a href="http://www.amazon.com/gp/product/B00GW7XOMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7XOMQ&linkCode=as2&tag=hikeve-20&linkId=KYPIGZUYHRQY4JNT" rel="nofollow" target="_blank">Arcteryx Thetis Zip Neck</a></h1>
+<h3><a href="http://www.amazon.com/gp/product/B00GW7XOMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7XOMQ&linkCode=as2&tag=hikeve-20&linkId=KYPIGZUYHRQY4JNT" rel="nofollow" target="_blank">Arcteryx Thetis Zip Neck</a></h3>
 
 <a href="http://www.amazon.com/gp/product/B00GW7XOMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7XOMQ&linkCode=as2&tag=hikeve-20&linkId=KYPIGZUYHRQY4JNT"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7XOMQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7XOMQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -77,7 +75,7 @@ The Acteryx Thetis Zip Neck fleece is more a fleece for those who are planning t
 
 ---
 
-<h1><a href="http://www.amazon.com/gp/product/B005JWKXC4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005JWKXC4&linkCode=as2&tag=hikeve-20&linkId=AM7UMWDALROAZGHE" rel="nofollow" target="_blank">Mammut Moench Longsleeve</a></h1>
+<h3><a href="http://www.amazon.com/gp/product/B005JWKXC4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005JWKXC4&linkCode=as2&tag=hikeve-20&linkId=AM7UMWDALROAZGHE" rel="nofollow" target="_blank">Mammut Moench Longsleeve</a></h3>
 
 <a href="http://www.amazon.com/gp/product/B005JWKXC4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005JWKXC4&linkCode=as2&tag=hikeve-20&linkId=AM7UMWDALROAZGHE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005JWKXC4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005JWKXC4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -90,7 +88,7 @@ The Mammut Moench Longsleeve features a stretchy fabric which should keep you dr
 
 ---
 
-<h1><a href="http://www.amazon.com/gp/product/B00MVV2BDK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MVV2BDK&linkCode=as2&tag=hikeve-20&linkId=O35AIPYX5EH2BEVJ" rel="nofollow" target="_blank">Rab Micro Pull-on</a></h1>
+<h3><a href="http://www.amazon.com/gp/product/B00MVV2BDK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MVV2BDK&linkCode=as2&tag=hikeve-20&linkId=O35AIPYX5EH2BEVJ" rel="nofollow" target="_blank">Rab Micro Pull-on</a></h3>
 
 <a  href="http://www.amazon.com/gp/product/B00MVV2BDK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MVV2BDK&linkCode=as2&tag=hikeve-20&linkId=O35AIPYX5EH2BEVJ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00MVV2BDK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00MVV2BDK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -103,7 +101,7 @@ The Rab Micro Pull-on is also a light fleece pullover. It's fabric is made of re
 
 ---
 
-<h1><a href="http://www.amazon.com/gp/product/B00GW7ZQG8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZQG8&linkCode=as2&tag=hikeve-20&linkId=TWGUKPE3JX4IKWXK" rel="nofollow" target="_blank">Arcteryx Delta LT Zip Neck</a></h1>
+<h3><a href="http://www.amazon.com/gp/product/B00GW7ZQG8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZQG8&linkCode=as2&tag=hikeve-20&linkId=TWGUKPE3JX4IKWXK" rel="nofollow" target="_blank">Arcteryx Delta LT Zip Neck</a></h3>
 
 <a href="http://www.amazon.com/gp/product/B00GW7ZQG8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZQG8&linkCode=as2&tag=hikeve-20&linkId=TWGUKPE3JX4IKWXK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7ZQG8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7ZQG8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -116,7 +114,7 @@ The Arcteryx Delta LT Zip Neck is also a nice fleece. I have currently the Delta
 
 
 
-# Best Fleece Fabric
+## Best Fleece Fabric
 Keep in mind that lighter material might be less durable depending on the technology used. Polartec Classic 100 fleece is in most cases sufficient if you go hiking. Polartec Power Stretch might be more interesting for those folks going climbing. Also consider if you need pockets or a full-zip jacket on your fleece as they might weight more.
 
 A good idea is also to combine a fleece jacket with a [wind jacket][11] since fleece jackets are not windproof and you won't sweat that much in a wind jacket than in a [rain jacket][12].

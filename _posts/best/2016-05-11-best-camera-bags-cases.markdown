@@ -22,7 +22,7 @@ As I have recently upgraded my own camera, I was in need of a new camera case wh
 
 {% include banner_ad.html %}
 
-# The best camera bags for Sony A7 or a6300
+## The best camera bags for Sony A7 or a6300
 
 <div class="table-responsive">
 
@@ -75,13 +75,13 @@ As I have recently upgraded my own camera, I was in need of a new camera case wh
 
 <hr>
 
-# Best camera bags for hiking and backpacking
+## Best camera bags for hiking and backpacking
 
 When I plan to go hiking or backpacking I would like to have a camera bag where I can easily access my camera. My camera bag should also be water resistant or waterproof if I don't have space to carry my camera in my backpack in case the weather turns bad. Here are the camera bags and cases which I would consider for my next hiking or backpacking trip.
 
 <hr>
 
-<h2><a href="http://amzn.to/29YPNOV" rel="nofollow">Lowepro Nova Sport 7L AW Camera Bag</a></h2>
+<h3><a href="http://amzn.to/29YPNOV" rel="nofollow">Lowepro Nova Sport 7L AW Camera Bag</a></h3>
 
 <a href="https://www.amazon.com/gp/product/B00F5JHA4A/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F5JHA4A&linkCode=as2&tag=hikeve-20&linkId=7feafd864ffdebacd5f4336698f6a983"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00F5JHA4A&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00F5JHA4A" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -94,7 +94,7 @@ The Lowepro Nova Sport 7L AW is a camera bag with a removeable camera insert. It
 
 <hr>
 
-<h2><a href="http://amzn.to/29vBhTa" rel="nofollow">Ortlieb Camera Bag Aqua Zoom</a></h2>
+<h3><a href="http://amzn.to/29vBhTa" rel="nofollow">Ortlieb Camera Bag Aqua Zoom</a></h3>
 
 <a href="https://www.amazon.com/gp/product/B001DLQOIM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001DLQOIM&linkCode=as2&tag=hikeve-20&linkId=1705bcb4d5cc611779f8f7f36204f279" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001DLQOIM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001DLQOIM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -107,12 +107,12 @@ The Ortlieb Camera Bag Aqua Zoom is is dust and splash proof but you should not 
 
 <hr>
 
-# Best camera bags for packrafting and kayaking
+## Best camera bags for packrafting and kayaking
 For packrafting and kayaking I would like to have a camera bag which is completely waterproof. I would probably go for one of the following camera cases for my next packrafting and kayaking trip.
 
 <hr>
 
-<h2><a href="http://amzn.to/29zNP9o" rel="nofollow">Aquapac Waterproof SLR Camera Case</a></h2>
+<h3><a href="http://amzn.to/29zNP9o" rel="nofollow">Aquapac Waterproof SLR Camera Case</a></h3>
 
 <a href="https://www.amazon.com/gp/product/B0044LXK3A/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0044LXK3A&linkCode=as2&tag=hikeve-20&linkId=36f37f4564dc7a70c12f18f8f96e2123" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0044LXK3A&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0044LXK3A" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -125,7 +125,7 @@ The Aquqpac Waterproof SLR Camera Case is 100% waterproof to IPX8 and can be sub
 
 <hr>
 
-<h2><a href="https://www.amazon.com/gp/product/B0051QYF5E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0051QYF5E&linkCode=as2&tag=hikeve-20&linkId=b35f232fa3758e5efbfc6f9d4e425fbd" rel="nofollow">Pelican 1200 Case</a></h2>
+<h3><a href="https://www.amazon.com/gp/product/B0051QYF5E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0051QYF5E&linkCode=as2&tag=hikeve-20&linkId=b35f232fa3758e5efbfc6f9d4e425fbd" rel="nofollow">Pelican 1200 Case</a></h3>
 
 *Weight:* 1305 grams    
 *Dimenstions:* 9.25 x 7.12 x 4.12 inches    
@@ -138,12 +138,12 @@ The Pelican 1200 case is a bit heavier than the other bags and cases but it prot
 
 <hr>
 
-# Best camera bags for urban exploration and travelling
+## Best camera bags for urban exploration and travelling
 When I take my camera to the city, I prefer to have a camera bag which looks a bit more stylish and has more pockets.
 
 <hr>
 
-<h2><a href="https://www.amazon.com/gp/product/B00JXECZSE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JXECZSE&linkCode=as2&tag=hikeve-20&linkId=81edc424d9dc6074372a108183c60bd0" rel="nofollow" target="_blank">Thule Covert Camera Backpack</a></h2>
+<h3><a href="https://www.amazon.com/gp/product/B00JXECZSE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JXECZSE&linkCode=as2&tag=hikeve-20&linkId=81edc424d9dc6074372a108183c60bd0" rel="nofollow" target="_blank">Thule Covert Camera Backpack</a></h3>
 
 *Weight:* 400 grams    
 *Dimenstions:* 22 x 17.7 x 7.9 inches    
@@ -156,7 +156,7 @@ The Thule Convert Camera Backpack offers space for a DSLR and an attached wide a
 
 <hr>
 
-<h2><a href="http://amzn.to/29vFJkX" rel="nofollow" target="_blank">ONA The Bowery Camera Bag</a></h2>
+<h3><a href="http://amzn.to/29vFJkX" rel="nofollow" target="_blank">ONA The Bowery Camera Bag</a></h3>
 
 *Weight:*  635 grams    
 *Dimenstions:* 10 X 6 X 4 inches
@@ -170,7 +170,7 @@ ONA The Bowery Camera Bag has been handcrafted with premium waxed canvas and ful
 <hr>
 
 
-<h2><a href="https://www.amazon.com/gp/product/B00QWRMWKQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QWRMWKQ&linkCode=as2&tag=hikeve-20&linkId=5ee40d217ef34eff10943d4153566e80" rel="nofollow" target="_blank">Thule Covert Camera Messenger Bag - Small</a></h2>
+<h3><a href="https://www.amazon.com/gp/product/B00QWRMWKQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QWRMWKQ&linkCode=as2&tag=hikeve-20&linkId=5ee40d217ef34eff10943d4153566e80" rel="nofollow" target="_blank">Thule Covert Camera Messenger Bag - Small</a></h3>
 
 *Weight:* 880 grams    
 *Dimenstions:* 9.4 X 16.9 X 6.3 inches
@@ -207,7 +207,7 @@ amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
 
 <hr>
 
-# Conclusion
+## Conclusion
 From my point of view there is no best camera bag which fits every situation but having the right camera gear for different activities is essential to protect your gear and also to enjoy photography with your Sony A7 or a6300 more. I hope you are able to find your camera bag for your next hiking, backpacking, kayaking or packrafting adventure.
 
 ---

@@ -17,9 +17,7 @@ As we are frequently on packrafting trips we are always interested to look out f
 
 ---
 
-{% include banner_ad.html %}
-
-# The best PFDs / life jackets for packrafting
+## The best PFDs / life jackets for packrafting
 
 <div class="table-responsive">
 
@@ -67,10 +65,10 @@ We are usually wearing a dry suite when we go packrafting and we would rate the 
 
 We have not tested all the PFDs in this article but those are our favorites if we were to buy a new one. The links on this site contain affiliate links.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26814282560/in/photolist-GRud1y-GRud2f-HdLXe5-GXhAVa-H1kVQW-H1kVFN-H1kVZo-H1zXZH-GcfJST-GcfLdt-H1zXXZ-H4Gfns-Gc8XtE-Gc8Xp1-Gc8Xjm-HaFrzP-GRud7L-HaFrBx-Gc8WNG-HnoFdC-HjfVzn-GRud4u-H7Dj8R-GRudb3-Gc8XbL-H7Dj4x-Gc8X5y-H7DiZK-H7DiVM-Gc8WYw-H4GeQA-H7DiSk-H7DiNc-GcfKKp-Gc8WBj-H7DiKr-GGsxE1-GcfKhk-H1zXxF-GcfKsk-GcfKj4-Gc8Weq-H4Gdkb-HnoEX7-GaxJKr-H5RYDr-GajbUD-GXb3Qv-H2KqTT-GBfK6G" title="Swedish Packrafting Round-Up"><img src="https://c1.staticflickr.com/8/7682/26814282560_a47eb37791_o.jpg" width="100%" alt="The best PFD Life Jackets for packrafting"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26814282560/in/photolist-GRud1y-GRud2f-HdLXe5-GXhAVa-H1kVQW-H1kVFN-H1kVZo-H1zXZH-GcfJST-GcfLdt-H1zXXZ-H4Gfns-Gc8XtE-Gc8Xp1-Gc8Xjm-HaFrzP-GRud7L-HaFrBx-Gc8WNG-HnoFdC-HjfVzn-GRud4u-H7Dj8R-GRudb3-Gc8XbL-H7Dj4x-Gc8X5y-H7DiZK-H7DiVM-Gc8WYw-H4GeQA-H7DiSk-H7DiNc-GcfKKp-Gc8WBj-H7DiKr-GGsxE1-GcfKhk-H1zXxF-GcfKsk-GcfKj4-Gc8Weq-H4Gdkb-HnoEX7-GaxJKr-H5RYDr-GajbUD-GXb3Qv-h3KqTT-GBfK6G" title="Swedish Packrafting Round-Up"><img src="https://c1.staticflickr.com/8/7682/26814282560_a47eb37791_o.jpg" width="100%" alt="The best PFD Life Jackets for packrafting"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
-<h2><a href="https://www.amazon.com/gp/product/B01BMZWV6C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01BMZWV6C&linkCode=as2&tag=hikeve-20&linkId=0fb99e04474c270ca1f5d07c107a0dd9" rel="nofollow">Astral Designs YTV</a></h2>
+<h3><a href="https://www.amazon.com/gp/product/B01BMZWV6C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01BMZWV6C&linkCode=as2&tag=hikeve-20&linkId=0fb99e04474c270ca1f5d07c107a0dd9" rel="nofollow">Astral Designs YTV</a></h3>
 
 **Weight:** 794 grams
 
@@ -82,7 +80,7 @@ The Astral Designs YTV is a great choice if you want to have a minimalistic life
 
 ---
 
-<h2><a href="https://www.amazon.com/gp/product/B00TMANL50/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TMANL50&linkCode=as2&tag=hikeve-20&linkId=254bf432198b3c65cdd8cabe819e726a" rel="nofollow">Astral Designs V-Eight</a></h2>
+<h3><a href="https://www.amazon.com/gp/product/B00TMANL50/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TMANL50&linkCode=as2&tag=hikeve-20&linkId=254bf432198b3c65cdd8cabe819e726a" rel="nofollow">Astral Designs V-Eight</a></h3>
 
 **Weight:** 563 grams
 
@@ -94,7 +92,7 @@ The Astral Designs V-Eight has 2 zippered front pockets and made for the summer.
 
 ---
 
-<h2><a href="http://amzn.to/29kvV8M" rel="nofollow">Palm Alpha</a></h2>
+<h3><a href="http://amzn.to/29kvV8M" rel="nofollow">Palm Alpha</a></h3>
 
 **Weight:** 607 grams
 
@@ -106,7 +104,7 @@ The Palm Alpha is one of the lightest white water life jackets on the market. It
 
 ---
 
-<h2><a href="https://www.amazon.com/gp/product/B00ILHKYAK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ILHKYAK&linkCode=as2&tag=hikeve-20&linkId=8bd526c578279fdf0604cbab13ae67bd" rel="nofollow">Astral Designs Sea Wolf</a></h2>
+<h3><a href="https://www.amazon.com/gp/product/B00ILHKYAK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ILHKYAK&linkCode=as2&tag=hikeve-20&linkId=8bd526c578279fdf0604cbab13ae67bd" rel="nofollow">Astral Designs Sea Wolf</a></h3>
 
 **Weight:** 766 grams
 
@@ -118,7 +116,7 @@ If you need a PFD where you can store a lot's of stuff in it then you should hav
 
 ---
 
-<h2><a href="https://www.amazon.com/gp/product/B018ETXYF6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B018ETXYF6&linkCode=as2&tag=hikeve-20&linkId=2ecf853ac2c36d666ec79c5b077c9075" rel="nofollow">Palm FX</a></h2>
+<h3><a href="https://www.amazon.com/gp/product/B018ETXYF6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B018ETXYF6&linkCode=as2&tag=hikeve-20&linkId=2ecf853ac2c36d666ec79c5b077c9075" rel="nofollow">Palm FX</a></h3>
 
 **Weight:** 877 grams
 
@@ -139,7 +137,7 @@ We would not recommend inflatable PFD's. Of course they are not that bulky than 
 # Accesories
 Beside a PFD we also found the following packrafting accessories quite useful.
 
-<h2><a href="https://www.amazon.com/gp/product/B001UICFRC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001UICFRC&linkCode=as2&tag=hikeve-20&linkId=593b72bccf776c9eac85ed2681826cae" rel="nofollow">NRS Pilot River Knife</a></h2>
+<h3><a href="https://www.amazon.com/gp/product/B001UICFRC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001UICFRC&linkCode=as2&tag=hikeve-20&linkId=593b72bccf776c9eac85ed2681826cae" rel="nofollow">NRS Pilot River Knife</a></h3>
 The NRS Pilot River Knife can be attached to the front of the Astral Designs YTV and V-Eight. The knife might be quite handy if you get stuff somewhere or if you need to help someone.
 
 <a href="https://www.amazon.com/gp/product/B001UICFRC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001UICFRC&linkCode=as2&tag=hikeve-20&linkId=593b72bccf776c9eac85ed2681826cae" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001UICFRC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001UICFRC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -148,7 +146,7 @@ The NRS Pilot River Knife can be attached to the front of the Astral Designs YTV
 
 ---
 
-<h2><a href="https://www.amazon.com/gp/product/B014OTTE4U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014OTTE4U&linkCode=as2&tag=hikeve-20&linkId=31c1e32939b4c5d0a67323b2c3d5975e" rel="nofollow">NRS Co-Pilot River Knife</a></h2>
+<h3><a href="https://www.amazon.com/gp/product/B014OTTE4U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014OTTE4U&linkCode=as2&tag=hikeve-20&linkId=31c1e32939b4c5d0a67323b2c3d5975e" rel="nofollow">NRS Co-Pilot River Knife</a></h3>
 The NRS Co-Pilot River Knife is the shorter version of the NRS Pilot Knife.
 
 <a href="https://www.amazon.com/gp/product/B014OTTE4U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014OTTE4U&linkCode=as2&tag=hikeve-20&linkId=31c1e32939b4c5d0a67323b2c3d5975e" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B014OTTE4U&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B014OTTE4U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -157,7 +155,7 @@ The NRS Co-Pilot River Knife is the shorter version of the NRS Pilot Knife.
 
 ---
 
-<h2><a href="https://www.amazon.com/gp/product/B0028EHPTA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0028EHPTA&linkCode=as2&tag=hikeve-20&linkId=0c7f1d02ef740d6a818a23c7d4b3eaa0" rel="nofollow">NRS Wedge Rescue Throw Bag</a></h2>
+<h3><a href="https://www.amazon.com/gp/product/B0028EHPTA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0028EHPTA&linkCode=as2&tag=hikeve-20&linkId=0c7f1d02ef740d6a818a23c7d4b3eaa0" rel="nofollow">NRS Wedge Rescue Throw Bag</a></h3>
 You can attache the NRS Wedge Rescue Throw Bag on your packraft and quick access it if you need it.
 
 <a href="https://www.amazon.com/gp/product/B0028EHPTA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0028EHPTA&linkCode=as2&tag=hikeve-20&linkId=0c7f1d02ef740d6a818a23c7d4b3eaa0" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0028EHPTA&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0028EHPTA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -166,7 +164,7 @@ You can attache the NRS Wedge Rescue Throw Bag on your packraft and quick access
 
 ---
 
-<h2><a href="https://www.amazon.com/gp/product/B00W5P5BU2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00W5P5BU2&linkCode=as2&tag=hikeve-20&linkId=ff2d0de60ceb7abc7e35c33e0dcd1648" rel="nofollow">Sea to Summit Ultra Flex Booties</a></h2>
+<h3><a href="https://www.amazon.com/gp/product/B00W5P5BU2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00W5P5BU2&linkCode=as2&tag=hikeve-20&linkId=ff2d0de60ceb7abc7e35c33e0dcd1648" rel="nofollow">Sea to Summit Ultra Flex Booties</a></h3>
 The Sea to Summit Ultra Flex Booties protect your feet when you walk in the river and also helps somewhat to keep your feet warm.
 
 <a href="https://www.amazon.com/gp/product/B00W5P5BU2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00W5P5BU2&linkCode=as2&tag=hikeve-20&linkId=ff2d0de60ceb7abc7e35c33e0dcd1648" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00W5P5BU2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00W5P5BU2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -175,7 +173,7 @@ The Sea to Summit Ultra Flex Booties protect your feet when you walk in the rive
 
 ---
 
-# Conclusion
+## Conclusion
 Wearing a PFD does not need to be a burdern. The latest PFD's are quite stylish and we hope that we were able to give you some good ideas on which PFD you could get for yourself. We are currently using the Palm Alpha and the Astral Designs YTV PFDs. The Astral Designs V-Eight life jacket was also quite popular among a few paddlers who participated in the [Swedish Packrafting Round-Up 2016](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/). It's probably a good idea to invest a bit money into a good PFD if you plan to go packrafting frequently. Safety goes first!
 
 ---

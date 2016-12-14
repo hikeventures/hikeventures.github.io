@@ -13,9 +13,7 @@ Do you wear a fleece on your hike but still feel cold. Well, it's probably becau
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9599027418/in/photolist-fCewqJ-eZwoYv-eZwpTX-fCewQ3-eZwovc-eZHLDm-eZwojP-eZwoGn-eZHLPu-eZHK3s" title="best wind jackets for 2016 - 2017"><img src="https://c3.staticflickr.com/8/7385/9599027418_4123160df8_b.jpg" width="992" height="661" alt="best wind jackets for 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-{% include banner_ad.html %}
-
-# The best wind jackets for 2016 - 2017
+## The best wind jackets for 2016 - 2017
 
 <div class="table-responsive">
 <table class="table table-hover table-bordered list_items">
@@ -50,10 +48,10 @@ Do you wear a fleece on your hike but still feel cold. Well, it's probably becau
 
 <hr>
 
-# Should your hiking jacket be waterproof or only windproof?
+## Should your hiking jacket be waterproof or only windproof?
 A wind jacket is much lighter and you won't sweat that much in it compared to a [rain jacket][4]. My own preference goes towards carrying both - a wind jacket AND a rain jacket - and to wear them according to the current weather situation. If it's raining, I am obviously going to wear a rain jacket but if it's dry and there is only a cold wind blowing then I quickly pull on a wind jacket over my [fleece][5].In the evenings while sitting in the camp I swap my [fleece][6] and wind jacket combo with a [down jacket][7].
 
-<h2><a href="http://amzn.to/2e32HhL" target="_blank" rel="nofollow">Patagonia Houdini</a></h2>
+<h3><a href="http://amzn.to/2e32HhL" target="_blank" rel="nofollow">Patagonia Houdini</a></h3>
 
 <a  href="http://www.amazon.com/gp/product/B01ANCS38K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01ANCS38K&linkCode=as2&tag=hikeve-20&linkId=BOE3T2FI3DGVW7LR" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01ANCS38K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B01ANCS38K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -67,7 +65,7 @@ The Patagonia Houdini is another great wind jacket which got recommended by many
 
 ---
 
-<h2><a href="http://amzn.to/2drJ00m" target="_blank" rel="nofollow">Arcteryx Incendo Hoody</a></h2>
+<h3><a href="http://amzn.to/2drJ00m" target="_blank" rel="nofollow">Arcteryx Incendo Hoody</a></h3>
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GW7ZHG2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZHG2&linkCode=as2&tag=hikeve-20&linkId=TRAIMP6VVV2WPE4A"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7ZHG2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7ZHG2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -81,7 +79,7 @@ The Arcteryx Incendo Hoody has breathable mesh panels under the arms, a hood and
 
 ---
 
-<h2><a href="http://amzn.to/2e9Y8pz" target="_blank" rel="nofollow">The North Face Fuseform Eragon</a></h2>
+<h3><a href="http://amzn.to/2e9Y8pz" target="_blank" rel="nofollow">The North Face Fuseform Eragon</a></h3>
 
 <a  href="http://www.amazon.com/gp/product/B015940COK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B015940COK&linkCode=as2&tag=hikeve-20&linkId=BJU5MZ2MPTNXIRPE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B015940COK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B015940COK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -94,7 +92,7 @@ The North Face Fuseform Eragon has fewer seams and a streamlined, Alpine-specifi
 
 ---
 
-<h2><a href="http://amzn.to/2elVY64" target="_blank" rel="nofollow">Arcteryx Squamish Hoody</a></h2>
+<h3><a href="http://amzn.to/2elVY64" target="_blank" rel="nofollow">Arcteryx Squamish Hoody</a></h3>
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00G9HPWU6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G9HPWU6&linkCode=as2&tag=hikeve-20&linkId=BWQUNX6BXF6UDSMC"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00G9HPWU6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00G9HPWU6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 

@@ -15,9 +15,7 @@ Planning a winter trip in the North or just need a headlamp for the night? A goo
 
 Personally, I like the Petzl Nao Plus most since it has plenty of features and also offers the Petzl Nao Belt Kit which allows me to carry the battery under the jacket rather than on my head which can shorten the beattery life especially when wearing in [colder regions][1]. I have also used the previous model of the Nao in [Swedish Lapland][2]. However, if you are looking for a smaller headlamp which is also waterproof then I would rather pick the <a href="http://amzn.to/2fkaiqv" rel="nofollow" target="_blank">Black Diamond Spot</a> which features red light and 200 Lumen - sufficient for hiking even in the Alps.
 
-{% include banner_ad.html %}
-
-# The best headlamps of 2016 - 2017
+## The best headlamps of 2016 - 2017
 
 <div class="table-responsive">
 
@@ -81,7 +79,7 @@ Personally, I like the Petzl Nao Plus most since it has plenty of features and a
 
 <hr>
 
-<h1><a href="http://amzn.to/2gBew1C" rel="nofollow">Petzl Nao Plus</a></h1>
+<h3><a href="http://amzn.to/2gBew1C" rel="nofollow">Petzl Nao Plus</a></h3>
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01LFW5BZA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LFW5BZA&linkCode=as2&tag=hikeve-20&linkId=2d9e99b52f76bcef56db554a685feaba"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LFW5BZA&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LFW5BZA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -95,7 +93,7 @@ The Petzl Nao Plus features 750 lumen. It's reactive lightning system let's you 
 
 ---  
 
-<h1><a href="http://www.amazon.com/gp/product/B00BA4R43Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BA4R43Q&linkCode=as2&tag=hikeve-20&linkId=BMMHTF6L4KCESYEM" rel="nofollow">Petzl Tikka RXP</a></h1>
+<h3><a href="http://www.amazon.com/gp/product/B00BA4R43Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BA4R43Q&linkCode=as2&tag=hikeve-20&linkId=BMMHTF6L4KCESYEM" rel="nofollow">Petzl Tikka RXP</a></h3>
 
 <a href="http://www.amazon.com/gp/product/B00BA4R43Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BA4R43Q&linkCode=as2&tag=hikeve-20&linkId=BMMHTF6L4KCESYEM" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BA4R43Q&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00BA4R43Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -110,7 +108,7 @@ Almost half the Lumen power of the Petzl Nao, the Petzl Tikka RXP is much lighte
 
 ---
 
-<h1><a href="http://www.amazon.com/gp/product/B005FNCPBE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005FNCPBE&linkCode=as2&tag=hikeve-20&linkId=WBUHJA3GU3TCBJXQ" rel="nofollow">Black Diamond Icon </a></h1>
+<h3><a href="http://www.amazon.com/gp/product/B005FNCPBE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005FNCPBE&linkCode=as2&tag=hikeve-20&linkId=WBUHJA3GU3TCBJXQ" rel="nofollow">Black Diamond Icon </a></h3>
 
 <a href="http://www.amazon.com/gp/product/B005FNCPBE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005FNCPBE&linkCode=as2&tag=hikeve-20&linkId=WBUHJA3GU3TCBJXQ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005FNCPBE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005FNCPBE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -125,7 +123,7 @@ With 220 grams and 'only' 200 Lumen, the Black Diamond Icon has a much lower Lum
 
 ---
 
-<h1><a href="http://www.amazon.com/gp/product/B00HIW1I2C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HIW1I2C&linkCode=as2&tag=hikeve-20&linkId=SXRO3IZVWEGIXOPW" rel="nofollow">Zebralight H600 Mk II 18650 XM-L2 </a></h1>
+<h3><a href="http://www.amazon.com/gp/product/B00HIW1I2C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HIW1I2C&linkCode=as2&tag=hikeve-20&linkId=SXRO3IZVWEGIXOPW" rel="nofollow">Zebralight H600 Mk II 18650 XM-L2 </a></h3>
 
 <a href="http://www.amazon.com/gp/product/B00HIW1I2C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HIW1I2C&linkCode=as2&tag=hikeve-20&linkId=SXRO3IZVWEGIXOPW" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HIW1I2C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00HIW1I2C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -139,7 +137,7 @@ With 220 grams and 'only' 200 Lumen, the Black Diamond Icon has a much lower Lum
 
 ---
 
-<h1><a href="http://www.amazon.com/gp/product/B00F5EA7LI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F5EA7LI&linkCode=as2&tag=hikeve-20&linkId=CBMFG5EQHMBGE3I5" rel="nofollow">Princeton Tec Apex</a></h1>
+<h3><a href="http://www.amazon.com/gp/product/B00F5EA7LI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F5EA7LI&linkCode=as2&tag=hikeve-20&linkId=CBMFG5EQHMBGE3I5" rel="nofollow">Princeton Tec Apex</a></h3>
 
 <a href="http://www.amazon.com/gp/product/B00F5EA7LI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F5EA7LI&linkCode=as2&tag=hikeve-20&linkId=CBMFG5EQHMBGE3I5" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00F5EA7LI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00F5EA7LI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -153,7 +151,7 @@ The Princeton Tec Apex is the brightest headlamp Princeton Tec has to offer. It'
 
 ---
 
-<h1><a  href="http://www.amazon.com/gp/product/B00LAEZEN8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LAEZEN8&linkCode=as2&tag=hikeve-20&linkId=Z2ZEQ56UMSSEFBID" rel="nofollow">Black Diamond ReVolt Headlamp</a></h1>
+<h3><a  href="http://www.amazon.com/gp/product/B00LAEZEN8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LAEZEN8&linkCode=as2&tag=hikeve-20&linkId=Z2ZEQ56UMSSEFBID" rel="nofollow">Black Diamond ReVolt Headlamp</a></h3>
 
 <a  href="http://www.amazon.com/gp/product/B00LAEZEN8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LAEZEN8&linkCode=as2&tag=hikeve-20&linkId=Z2ZEQ56UMSSEFBID" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LAEZEN8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LAEZEN8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -167,7 +165,7 @@ The Black Diamond ReVolt headlamp comes with a proximity, distance, dim, strobe,
 
 ---
 
-<h1><a href="http://www.amazon.com/gp/product/B00H3MXOQU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00H3MXOQU&linkCode=as2&tag=hikeve-20&linkId=A2I5SXTJTBEA7KOK" rel="nofollow">Black Diamond Storm</a></h1>
+<h3><a href="http://www.amazon.com/gp/product/B00H3MXOQU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00H3MXOQU&linkCode=as2&tag=hikeve-20&linkId=A2I5SXTJTBEA7KOK" rel="nofollow">Black Diamond Storm</a></h3>
 
 <a href="http://www.amazon.com/gp/product/B00H3MXOQU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00H3MXOQU&linkCode=as2&tag=hikeve-20&linkId=A2I5SXTJTBEA7KOK" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00H3MXOQU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00H3MXOQU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -181,7 +179,7 @@ The Black Diamond Storm is a little bit more heavy than the Petzl Tikka XP. The 
 
 ---  
 
-<h1><a href="http://www.amazon.com/gp/product/B008AUBOTS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008AUBOTS&linkCode=as2&tag=hikeve-20&linkId=V5A2XQXJ3LK3X3NP" rel="nofollow">Petzl e+LITE</a></h1>
+<h3><a href="http://www.amazon.com/gp/product/B008AUBOTS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008AUBOTS&linkCode=as2&tag=hikeve-20&linkId=V5A2XQXJ3LK3X3NP" rel="nofollow">Petzl e+LITE</a></h3>
 
 <a href="http://www.amazon.com/gp/product/B008AUBOTS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008AUBOTS&linkCode=as2&tag=hikeve-20&linkId=V5A2XQXJ3LK3X3NP" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008AUBOTS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B008AUBOTS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -219,9 +217,9 @@ amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
 
 ---
 
-# Accessories
+## Accessories
 
-<h2><a href="https://www.amazon.com/gp/product/B007K03PLY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007K03PLY&linkCode=as2&tag=hikeve-20&linkId=2887c84eaa99f85590d37548953ce119" rel="nofollow">Petzl EXTENSION CABLE for NAO</a></h2>
+<h3><a href="https://www.amazon.com/gp/product/B007K03PLY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007K03PLY&linkCode=as2&tag=hikeve-20&linkId=2887c84eaa99f85590d37548953ce119" rel="nofollow">Petzl EXTENSION CABLE for NAO</a></h3>
 
 In cold conditions you can extend the battery life of your Petzl Nao by wearing the battery nearby your body. Just attach the extension cable between your battery and the headlamp and you are good to go.
 
@@ -229,7 +227,7 @@ In cold conditions you can extend the battery life of your Petzl Nao by wearing 
 
 ---
 
-<h2><a href="http://amzn.to/2cRrPd9" rel="nofollow">Petzl Nao Plus Rechargeable Battery</a></h2>
+<h3><a href="http://amzn.to/2cRrPd9" rel="nofollow">Petzl Nao Plus Rechargeable Battery</a></h3>
 
 In cold conditions you can extend the battery life of your Petzl Nao by wearing the battery nearby your body. Just attach the extension cable between your battery and the headlamp and you are good to go.
 
@@ -237,16 +235,16 @@ In cold conditions you can extend the battery life of your Petzl Nao by wearing 
 
 ---
 
-<h2><a href="https://www.amazon.com/gp/product/B01B73I5ZU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01B73I5ZU&linkCode=as2&tag=hikeve-20&linkId=47d7ed2d86df59bde1e15986668ca7b5" rel="nofollow">EasyAcc Rugged Outdoor Power Bank (IP67 Waterproof / 20000mAh</a></h2>
+<h3><a href="https://www.amazon.com/gp/product/B01B73I5ZU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01B73I5ZU&linkCode=as2&tag=hikeve-20&linkId=47d7ed2d86df59bde1e15986668ca7b5" rel="nofollow">EasyAcc Rugged Outdoor Power Bank (IP67 Waterproof / 20000mAh</a></h3>
 If you plan to do a longer trip then it might be a good idea to charge your headlamp from time to time. Just make sure that the battery of your headlamp (e.g. the Petzl Nao) can be recharged with a USB cable.
 
 <a href="https://www.amazon.com/gp/product/B01B73I5ZU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01B73I5ZU&linkCode=as2&tag=hikeve-20&linkId=47d7ed2d86df59bde1e15986668ca7b5" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01B73I5ZU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01B73I5ZU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ---
 
-# FAQ on headlamps
+## FAQ on headlamps
 
-## How to choose a good headlamp?
+### How to choose a good headlamp?
 When deciding which headlamp you should purchase, you have to consider the factors below and if they are applicable for your outdoor adventure needs. Should your headlamp be:
 
 * waterproof or water resistant?
@@ -267,22 +265,22 @@ The <a href="http://amzn.to/2drIdg3" rel="nofollow">Petzl Nao</a> headlamp is on
 
 ---
 
-## How to adjust a headlamp?
+### How to adjust a headlamp?
 Headlamps can be adjusted either by their headstrap or by tilting the bulb.
 
 ---
 
-## Which bulbs are used in headlamps?
+### Which bulbs are used in headlamps?
 LED bulbs are usually built into headlamps.
 
 ---
 
-## Which batteries do headlamps use?
+### Which batteries do headlamps use?
 Headlamps usually use lithium CR2032 batteries, AA or AAA batteries. Some headlamps can also be recharged via USB.
 
 ---
 
-## What are the best headlamp brands?
+### What are the best headlamp brands?
 The most popular headlamp brands are:
 
 * [Black Diamond][21]
@@ -296,62 +294,62 @@ The most popular headlamp brands are:
 
 ---
 
-## Is there a case or covers for headlamps?
+### Is there a case or covers for headlamps?
 A [case][29] can protect your headlamp.
 
 ---
 
-## What is a diffuser on a headlamp?
+### What is a diffuser on a headlamp?
 A diffuser might be useful when you go backpacking and won't need a spotlight.
 
 ---
 
-## What does a dimmer switch do on a headlamp?
+### What does a dimmer switch do on a headlamp?
 Most headlamps come with a dimmer switch which increases or decreases the light of your headlamp. Lower the dimmer can reduce the battery usage of your headlamp.
 
 ---
 
-## What is the purpose of the headband on your headlamp?
+### What is the purpose of the headband on your headlamp?
 The headband holds the headlamp on your head. The headband is usually an elastic strap.
 
 ---
 
-## What is the illumination distance of a headlamp?
+### What is the illumination distance of a headlamp?
 The illumination distance refers to the distance. The further you look the lower will be the illumination of the area.
 
 ---
 
-## How can I level my headlamp?
+### How can I level my headlamp?
 Some manufacturers offer automatic levelling of their headlamp. The headlamp beam will be weaker if you get closer to an object (e.g. reading a book) while the headlamp beam gets stronger if you look into the distance.
 
 ---
 
-## How can I protect my headlamp?
+### How can I protect my headlamp?
 You can carry your headlamp in a pouch to protect the lens. Some headlamps can also be locked to avoid accidental switching on. Let batteries dry if they get wet. [Here][30] you can read more about protection.
 
 ---
 
-## Can I restore my headlamp?
+### Can I restore my headlamp?
 If the LED is damaged then you probably need to buy a new headlamp as they can not be replaced in most cases. Check the warranty leaflet of your headlamp manufacturer.
 
 ---
 
-## Is a headlamp rechargeable?
+### Is a headlamp rechargeable?
 You can either buy rechargeable batteries or charge your headlamp with a power bank or [recharger][31] if it has a USB connection.
 
 ---
 
-## What is the red light on a headlamp?
+### What is the red light on a headlamp?
 Some headlamps offer a red light mode. Red light is quite useful if you don't want to disturb others around you ... e.g. reading a book in a tent.
 
 ---
 
-## What is the spotlight of a headlamp?
+### What is the spotlight of a headlamp?
 The spotlight of a headlamp refers to the point of visible light. The spotlight can be wide or centred.
 
 ---
 
-## Are headlamps waterproof or watertight?
+### Are headlamps waterproof or watertight?
 Not every headlamp is watertight. Some headlamps are only splash proof. Have a look at the IPX rating which indicates how watertight a headlamp is.
 
 ---

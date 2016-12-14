@@ -9,13 +9,11 @@ tags:
   - shoes
 layout: post
 ---
-If you are into ultralight hiking then you are probably also interested into my buying guide for the best light summer hiking shoes for 2016 - 2017. If you are coming from traditional hiking boots then you may notice that lightweight trail shoes can save you a lot of weight. 
+If you are into ultralight hiking then you are probably also interested into my buying guide for the best light summer hiking shoes for 2016 - 2017. If you are coming from traditional hiking boots then you may notice that lightweight trail shoes can save you a lot of weight.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27313686292/in/album-72157669221615915/" title="Best ultralight summer hiking shoes for 2016 - 2017"><img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="1024" height="643" alt="Best ultralight summer hiking shoes for 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-{% include banner_ad.html %}
-
-# The best ultralight hiking shoes
+## The best ultralight hiking shoes
 
 <div class="table-responsive">
 
@@ -54,7 +52,7 @@ If you are into ultralight hiking then you are probably also interested into my 
 
 <hr>
 
-# Advantages of ultralight hiking shoes
+## Advantages of ultralight hiking shoes
 
 * They are very lightweight compared to traditional hiking or backpacking boots.
 * They don't need that much space to store them.
@@ -63,7 +61,7 @@ If you are into ultralight hiking then you are probably also interested into my 
 
 
 
-# Disadvantages of ultralight hiking shoes
+## Disadvantages of ultralight hiking shoes
 
 * There is a chance that you will get wet feet since those shoes don't go over your ankles especially if you don't buy a GTX (waterproof) shoe. One solution to keep your feet dry would be to wear latex socks over your regular [(merino) socks](http://www.backcountry.com/icebreaker-hike-mid-crew-sock-mens-ice0793).
 * Ultralight Hiking Shoes won't give you much support when carry a heavier backpack.
@@ -75,7 +73,7 @@ My Inov-8 ultralight hiking shoes on [our hiking trip](http://www.hikeventures.c
 
 ---
 
-## [Inov-8 Roclite 282 GTX](http://www.backcountry.com/inov-8-roclite-282-gtx-trail-running-shoe-mens)
+### [Inov-8 Roclite 282 GTX](http://www.backcountry.com/inov-8-roclite-282-gtx-trail-running-shoe-mens)
 
 **Weight:** 282 grams
 
@@ -88,7 +86,7 @@ The ROCLITE 282 GTX promises a combination of natural movement and flexibility w
 
 ---
 
-## [Adidas Terrex Solo](http://www.backcountry.com/adidas-outdoor-terrex-solo-approach-shoe-mens)
+### [Adidas Terrex Solo](http://www.backcountry.com/adidas-outdoor-terrex-solo-approach-shoe-mens)
 
 **Weight:** 349 grams
 
@@ -100,7 +98,7 @@ The Adidas Terrex Solo are flexible shoes with a breathable mesh upper. The Terr
 
 ---
 
-## [Adidas Terrex Fast R GTX](http://www.backcountry.com/adidas-outdoor-terrex-fast-r-gtx-hiking-shoe-mens)
+### [Adidas Terrex Fast R GTX](http://www.backcountry.com/adidas-outdoor-terrex-fast-r-gtx-hiking-shoe-mens)
 
 **Weight:** 411 grams
 
@@ -112,7 +110,7 @@ The Adidas Terrex Fast R GTX are light athletic shoes which are - due to their p
 
 ---
 
-## [Scarpa Zen Pro](http://www.backcountry.com/scarpa-zen-pro-hiking-shoe-mens)
+### [Scarpa Zen Pro](http://www.backcountry.com/scarpa-zen-pro-hiking-shoe-mens)
 
 **Weight:** 480 grams
 
@@ -124,7 +122,7 @@ The Scarpa Zen Pro comes with a Vibram sole and PU-injected leather along the si
 
 ---
 
-## [Arcteryx Acrux2 FL GTX Approach](http://www.backcountry.com/arcteryx-acrux2-fl-approach-shoe-mens)
+### [Arcteryx Acrux2 FL GTX Approach](http://www.backcountry.com/arcteryx-acrux2-fl-approach-shoe-mens)
 
 **Weight:** 492 grams
 
@@ -137,7 +135,7 @@ The most innovative part in the Arcteryx Acrux2 FL GTX are probably the removabl
 
 ---
 
-# Conclusion
+## Conclusion
 Choosing the right ultralight hiking shoes is not just a matter of specs and features but also about the design. The Inov-8 Roclite 282 GTX are probably the best shoes which you can get if you look for the lightest weight and a good sole. At least I was happy with my Inov-8 shoes when I was hiking 1 week in Sweden beside having constantly we feet. However, in some cases you can also dry them in the evenings on a camp fire (if it's allowed in the area where you are planning to go hiking). The most important factors for me are weight, grip of the sole and if they can dry fast.
 
 ---

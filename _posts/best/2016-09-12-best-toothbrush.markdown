@@ -12,8 +12,6 @@ layout: post
 
 Planning a hiking or backpacking trip to the backcountry or are you planning to travel abroad? Then you could have a look on the best toothbrushes which I have selected below which feature a compact design and are easy to pack.
 
-{% include banner_ad.html %}
-
 The compact design of of a travel toothbrush not only provides you with more space but also less weight as every gram counts especially if you are into ultralight backpacking. Gum or periodontal disease can cause tooth loss so it's important to keep your tooth clean even so you are in the nature.
 
 <!--more-->
@@ -25,7 +23,7 @@ The compact design of of a travel toothbrush not only provides you with more spa
 
 <hr>
 
-<h1><a href="http://amzn.to/2gbHMYG" rel="nofollow">GUM Travel Folding Soft Toothbrush</a></h1>
+<h2><a href="http://amzn.to/2gbHMYG" rel="nofollow">GUM Travel Folding Soft Toothbrush</a></h2>
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00LV0JR2A/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LV0JR2A&linkCode=as2&tag=hikeve-20&linkId=25915233f3b700ea20fd19f4dfa083d9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00LV0JR2A&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00LV0JR2A" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -35,7 +33,7 @@ The tri-fold design of the GUM Travel Folding Soft Toothbrush enables the brush 
 
 ---  
 
-<h1><a href="http://amzn.to/2fNchYf" rel="nofollow">Colgate Value Travel Toothbrush</a></h1>
+<h2><a href="http://amzn.to/2fNchYf" rel="nofollow">Colgate Value Travel Toothbrush</a></h2>
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B003A4HSIA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003A4HSIA&linkCode=as2&tag=hikeve-20&linkId=fd865632e06f19c93deccadb4add396a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B003A4HSIA&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B003A4HSIA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -45,13 +43,13 @@ The Colgate Value Travel Toothbrush is an easy-to-carry toothbrush which folds i
 
 ---
 
-<h1><a href="http://amzn.to/2gxh3tU" rel="nofollow">GUM Travel Toothbrushes with Antibacterial Bristles</a></h1>
+<h2><a href="http://amzn.to/2gxh2tU" rel="nofollow">GUM Travel Toothbrushes with Antibacterial Bristles</a></h2>
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B019QO0W4E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019QO0W4E&linkCode=as2&tag=hikeve-20&linkId=df48737095660d188c477afb11f47f72"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B019QO0W4E&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B019QO0W4E" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The GUM Travel Toothbrush features a compact and convenient design for travelling and offers you protection for up to 30 days. The cap functions also as a handle.
 
-<a href="http://amzn.to/2gxh3tU" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2gxh2tU" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 

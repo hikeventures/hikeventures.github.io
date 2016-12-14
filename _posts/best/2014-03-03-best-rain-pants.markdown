@@ -16,7 +16,7 @@ Planning to go hiking, backpacking or any other backcountry adventure? Then you 
 
 {% include banner_ad.html %}
 
-# The best rain pants of 2016
+## The best rain pants of 2016
 
 <div class="table-responsive">
 
@@ -61,7 +61,7 @@ Planning to go hiking, backpacking or any other backcountry adventure? Then you 
 
 <hr>
 
-# [Montane Minimus Pants][4]
+### [Montane Minimus Pants][4]
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B007RLM6VG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007RLM6VG&linkCode=as2&tag=hikeve-20&linkId=FWJFGCKUDWO36GKL"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007RLM6VG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B007RLM6VG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -74,7 +74,7 @@ The Montane Minimus pants are super light and pack easily into every backpack. T
 
 ---
 
-# [Montane Atomic Pants][5]
+### [Montane Atomic Pants][5]
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B007RLM8JQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007RLM8JQ&linkCode=as2&tag=hikeve-20&linkId=GBWCT2S4ZY3KW4PQ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007RLM8JQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B007RLM8JQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -87,7 +87,7 @@ The Montane Atomic Pants are a bit more durable than the Montane Minimus Pants b
 
 ---
 
-# [Mountain Hardwear Plasmic Pant][6]
+### [Mountain Hardwear Plasmic Pant][6]
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B0089PN410/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0089PN410&linkCode=as2&tag=hikeve-20&linkId=SCOBGEQN4LMQSIUF"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0089PN410&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0089PN410" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -100,7 +100,7 @@ The Mountain Hardwear Plasmic Pants are slightly more heavy than the Montane pan
 
 ---
 
-# [Rab Fuse Pants][7]
+### [Rab Fuse Pants][7]
 
 <a href="https://www.amazon.com/gp/product/B00UMIW9JU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UMIW9JU&linkCode=as2&tag=hikeve-20&linkId=055e9dee0e87b8f31ff80a02c6308d6c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00UMIW9JU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00UMIW9JU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -113,7 +113,7 @@ The Rab Fuse Pants are the lightest-weight waterproof pants from Rab. They also 
 
 ---
 
-# [Haglöfs L.I.M. III pants][8]
+### [Haglöfs L.I.M. III pants][8]
 
 **Weight:** 225 grams  
 **Fabric:** GORE-TEX PacLite
@@ -124,7 +124,7 @@ The Haglöfs L.I.M. III pants are part of Haglöfs Ultralight product range and 
 
 ---
 
-# [Arcteryx Beta SL Pants][9]
+### [Arcteryx Beta SL Pants][9]
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GV31UGI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GV31UGI&linkCode=as2&tag=hikeve-20&linkId=HNWG2CPEBZ3YDLI7"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GV31UGI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GV31UGI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -137,7 +137,7 @@ SL stands for Super Light in the Arcteryx product range. This model is reinforce
 
 ---
 
-# [Rab Firewall Pants][10]
+### [Rab Firewall Pants][10]
 
 <a href="https://www.amazon.com/gp/product/B01C644O04/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01C644O04&linkCode=as2&tag=hikeve-20&linkId=0ab2f639df8dd66b00bcd42eed08d32a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01C644O04&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01C644O04" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 

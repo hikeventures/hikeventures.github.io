@@ -19,9 +19,7 @@ For my next snowshoeing trip in Lapland I was looking for a new pair of gloves o
 
 ---
 
-{% include banner_ad.html %}
-
-# The best winter gloves for skiing and snowboarding for 2017
+## The best winter gloves for skiing and snowboarding for 2017
 
 <div class="table-responsive">
 
@@ -77,9 +75,9 @@ However, you can also just take your main gloves off and operate your camera by 
 
 ---
 
-# Best Mittens
+#¤ Best Mittens
 
-## [Outdoor Research Alti Mittens](http://www.backcountry.com/outdoor-research-alti-mitt-mens-odr0813)
+#¤# [Outdoor Research Alti Mittens](http://www.backcountry.com/outdoor-research-alti-mitt-mens-odr0813)
 
 <a  href="http://www.amazon.com/gp/product/B0059BIYJ4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0059BIYJ4&linkCode=as2&tag=hikeve-20&linkId=R5EWXJMGAYQ6KYOR" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0059BIYJ4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0059BIYJ4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -89,7 +87,7 @@ The Outdoor Research Alti Mittens gloves have been designed for 8,000-meter peak
 
 ---
 
-## [Hestra Army Leather Heli 3-Finger Glove](http://www.backcountry.com/hestra-heli-3-finger-glove)
+##¤ [Hestra Army Leather Heli 3-Finger Glove](http://www.backcountry.com/hestra-heli-3-finger-glove)
 
 <a  href="http://www.amazon.com/gp/product/B0153QFDXO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0153QFDXO&linkCode=as2&tag=hikeve-20&linkId=5RNHLQHTIVZ7K3GF" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0153QFDXO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0153QFDXO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -99,7 +97,7 @@ The Hestra Army Leather Heli 3-Finger Glove comes with a removeable liner and is
 
 ---
 
-## [Mountain Hardwear Absolute Zero Mitten](http://www.backcountry.com/mountain-hardwear-absolute-zero-mitt)
+#¤# [Mountain Hardwear Absolute Zero Mitten](http://www.backcountry.com/mountain-hardwear-absolute-zero-mitt)
 
 <a  href="http://www.amazon.com/gp/product/B00QKPCQ88/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QKPCQ88&linkCode=as2&tag=hikeve-20&linkId=ZJU5VKKA7UWNEDT6" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00QKPCQ88&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00QKPCQ88" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -109,7 +107,7 @@ The Mountain Hardwear Absolute Zero Mitten was designed for the most extreme col
 
 ---
 
-## [Canada Goose Down Mittens](http://www.backcountry.com/canada-goose-down-mitten-mens)
+#¤# [Canada Goose Down Mittens](http://www.backcountry.com/canada-goose-down-mitten-mens)
 
 <a  href="http://www.amazon.com/gp/product/B005W43THA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005W43THA&linkCode=as2&tag=hikeve-20&linkId=OHOE66KD4FW6WG6M" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005W43THA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005W43THA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -119,9 +117,9 @@ The Canada Goose Down Mittens are water- and windproof and filled with 525 Fill 
 
 ---
 
-# Best Gloves
+#¤ Best Gloves
 
-## [Canada Goose Down Glove](http://www.backcountry.com/canada-goose-down-glove-mens)
+##¤ [Canada Goose Down Glove](http://www.backcountry.com/canada-goose-down-glove-mens)
 
 <a  href="http://www.amazon.com/gp/product/B00508I2MA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00508I2MA&linkCode=as2&tag=hikeve-20&linkId=F566HJCK2RAS3XIB" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00508I2MA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00508I2MA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -131,7 +129,7 @@ The Canada Goose Down Gloves are similar to the Canada Goose Down Mitten and pro
 
 ---
 
-## [Black Diamond Patrol Gloves](http://www.backcountry.com/black-diamond-patrol-glove-bld3346)
+#¤# [Black Diamond Patrol Gloves](http://www.backcountry.com/black-diamond-patrol-glove-bld3346)
 
 <a  href="http://www.amazon.com/gp/product/B00EOA9KP8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EOA9KP8&linkCode=as2&tag=hikeve-20&linkId=PQ5WOIXIL6LOB7JO" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00EOA9KP8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00EOA9KP8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -141,9 +139,9 @@ The Black Diamond Patrol Gloves are waterproof and come with a PrimoLoft One ins
 
 ---
 
-# Best Merino Liner Gloves
+#¤ Best Merino Liner Gloves
 
-## [Arc'teryx Gothic Glove](http://www.backcountry.com/arcteryx-gothic-glove)
+#¤# [Arc'teryx Gothic Glove](http://www.backcountry.com/arcteryx-gothic-glove)
 
 <a  href="http://www.amazon.com/gp/product/B0128ZMB38/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0128ZMB38&linkCode=as2&tag=hikeve-20&linkId=FFSORBCFNMC4XSRF" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0128ZMB38&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0128ZMB38" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -153,7 +151,7 @@ The Arc'teryx Gothic Glove comes with ultra soft merino wool and an anatomical f
 
 ---
 
-## [Icebreaker Oasis 200 Glove Liner](http://www.backcountry.com/the-north-face-patrol-ski-glove)
+#¤# [Icebreaker Oasis 200 Glove Liner](http://www.backcountry.com/the-north-face-patrol-ski-glove)
 
 <a  href="http://www.amazon.com/gp/product/B00123O1X6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00123O1X6&linkCode=as2&tag=hikeve-20&linkId=RL26KBPHOCOLQWQ6" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00123O1X6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00123O1X6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -163,7 +161,7 @@ Not that expensive like the Arc'teryx Gothic Glove the Icebreaker Oasis 200 Glov
 
 ---
 
-# Conclusion
+#¤ Conclusion
 My personal preference goes towards the [Hestra Army Leather Heli 3-Finger Glove](http://www.backcountry.com/hestra-heli-3-finger-glove "Hestra Army Leather Heli 3-Finger Glove"). I need to have one finger freely moving around to control my camera without having to take off my gloves all the time. At the same time this glove keeps the fingers warm which I don't need to operate my camera. However, if you are looking for the ultimate in warmth then you should probably go for [mittens](http://www.backcountry.com/hestra-heli-mitt). If the liners which are provided with the gloves are too warm you can either remove them or replace them with thinner merino liner gloves.
 
 ---

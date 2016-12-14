@@ -11,14 +11,11 @@ layout: post
 ---
 Planning an outdoor adventure and still searching for the right camping stove? A portable and lightweight camping stove is one of the most essential item to have on your adventures to boil water for tea, coffee or dehydrated meals. Here is my selection of the best lightweight camping stoves for 2016 - 2017. They can be used for hiking, backpacking, packrafting, mountaineering or any other backcountry trip.
 
-You probably take matches with you to ignite your stove. As an alternative, I found the <a href="http://amzn.to/22kZs72" rel="nofollo">Light My Fire Swedish FireSteel</a> quite useful and it does not really matter if it get's wet. It will still work. It might be not that easy to ignite the stove but it's more reliable and I always take my Swedish FireSteel with me together with matches.
+You probably take matches with you to ignite your stove. As an alternative, I found the <a href="http://amzn.to/22kZs72" rel="nofollow">Light My Fire Swedish FireSteel</a> quite useful and it does not really matter if it get's wet. It will still work. It might be not that easy to ignite the stove but it's more reliable and I always take my Swedish FireSteel with me together with matches.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9596216703/in/album-72157646473505683/" title="Best Camping Stoves 2016 - 2017"><img src="https://c8.staticflickr.com/4/3748/9596216703_3f4c4db24f_b.jpg" width="1024" height="683" alt="Best Camping Stoves 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-
-{% include banner_ad.html %}
-
-# The best camping stoves for 2016 - 2017
+## The best camping stoves for 2016 - 2017
 
 <div class="table-responsive">
 
@@ -68,7 +65,7 @@ You probably take matches with you to ignite your stove. As an alternative, I fo
 
 ---
 
-<h2><a href="http://amzn.to/2eI6dBv" target="_blank" rel="nofollow">MSR Micro Rocket</a></h2>
+<h3><a href="http://amzn.to/2eI6dBv" target="_blank" rel="nofollow">MSR Micro Rocket</a></h3>
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00F0BSDO4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F0BSDO4&linkCode=as2&tag=hikeve-20&linkId=GXQ24IC7MGCK4GWX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00F0BSDO4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00F0BSDO4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -82,7 +79,7 @@ The MSR MicroRocket is the lightest stove in our list. If saving weight has your
 
 ---
 
-<h2><a href="http://amzn.to/2dBLCMt" target="_blank" rel="nofollow">MSR WindPro II</a></h2>
+<h3><a href="http://amzn.to/2dBLCMt" target="_blank" rel="nofollow">MSR WindPro II</a></h3>
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B005I6PNZS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005I6PNZS&linkCode=as2&tag=hikeve-20&linkId=NCXX5MK756QD4MWS"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005I6PNZS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005I6PNZS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
@@ -96,7 +93,7 @@ The MSR WindPro II is a nice stove for those who want to have the burner separat
 
 ---
 
-<h2><a href="http://amzn.to/2elZvBk" target="_blank" rel="nofollow">Jetboil MicroMo</a></h2>
+<h3><a href="http://amzn.to/2elZvBk" target="_blank" rel="nofollow">Jetboil MicroMo</a></h3>
 
 <a  href="http://www.amazon.com/gp/product/B019GPIYZC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019GPIYZC&linkCode=as2&tag=hikeve-20&linkId=MRADQZHAE2DN5ZNE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B019GPIYZC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B019GPIYZC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -111,7 +108,7 @@ The Jetboil MicroMo offers a push-button igniter and a heat indicator and comes 
 
 ---
 
-<h2><a href="http://amzn.to/2e37Vdw" target="_blank" rel="nofollow">Jetboil MiniMo</a></h2>
+<h3><a href="http://amzn.to/2e37Vdw" target="_blank" rel="nofollow">Jetboil MiniMo</a></h3>
 
 <a  href="http://www.amazon.com/gp/product/B00KXP7CUI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KXP7CUI&linkCode=as2&tag=hikeve-20&linkId=63NECFHTZ3EYX64N"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00KXP7CUI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00KXP7CUI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -126,7 +123,7 @@ The Jetboil MiniMo offers you one of the best simmer controls, metal handles, an
 
 ---
 
-<h2><a href="http://amzn.to/2e8lKIJ" rel="nofollow" target="_blank">MSR WindBurner</a></h2>
+<h3><a href="http://amzn.to/2e8lKIJ" rel="nofollow" target="_blank">MSR WindBurner</a></h3>
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00NPPWOJ2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NPPWOJ2&linkCode=as2&tag=hikeve-20&linkId=G7LF7ACULXJOSCLX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00NPPWOJ2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00NPPWOJ2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -141,7 +138,7 @@ The MSR WindBurner is the latest addition on the stove market from MSR. This sto
 
 ---
 
-<h2><a href="http://amzn.to/2evVrud" target="_blank" rel="nofollow">MSR XGK EX</a></h2>
+<h3><a href="http://amzn.to/2evVrud" target="_blank" rel="nofollow">MSR XGK EX</a></h3>
 
 <a  href="http://www.amazon.com/gp/product/B000EUMKFO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000EUMKFO&linkCode=as2&tag=hikeve-20&linkId=VXEWELGDXLVW6BJU"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000EUMKFO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B000EUMKFO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 

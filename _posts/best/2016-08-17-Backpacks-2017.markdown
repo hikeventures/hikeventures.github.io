@@ -20,9 +20,7 @@ When buying a backpack it's usually a good idea to buy a backpack for a specific
 
 ---
 
-{% include banner_ad.html %}
-
-# The best new backpacks 2017
+## The best new backpacks 2017
 
 <div class="table-responsive">
 
@@ -84,7 +82,7 @@ When buying a backpack it's usually a good idea to buy a backpack for a specific
 
 <hr>
 
-<h2><a href="http://www.hikeventures.com/deals/#Berghaus+Remote" target="_blank">Berghaus Remote</a></h2>
+<h3><a href="http://www.hikeventures.com/deals/#Berghaus+Remote" target="_blank">Berghaus Remote</a></h3>
 The Berghaus Remote backpacks are new walking backpacks for shorter trips. They feature a venting back system.
 
 * Berghaus Remote 35 (900 grams)
@@ -92,7 +90,7 @@ The Berghaus Remote backpacks are new walking backpacks for shorter trips. They 
 * Berghaus Remote 20 (605 grams)
 * Berghaus Remote 12 (460 grams)
 
-<h2><a href="http://www.hikeventures.com/deals/#Berghaus+Freeflow" target="_blank">Berghaus Freeflow</a></h2>
+<h3><a href="http://www.hikeventures.com/deals/#Berghaus+Freeflow" target="_blank">Berghaus Freeflow</a></h3>
 The Berghaus Freeflow keeps you cooler as it features a new back design for improved air circulation.
 
 * Berghaus Freeflow 40 (1485 grams)
@@ -101,26 +99,26 @@ The Berghaus Freeflow keeps you cooler as it features a new back design for impr
 * Berghaus Freeflow 25 (1155 grams)
 * Berghaus Freeflow 20 (840 grams)
 
-<h2><a href="http://www.hikeventures.com/deals/#Fjallraven+Abisko+Friluft" target="_blank">Fjällräven Abisko Frisluft</a></h2>
+<h3><a href="http://www.hikeventures.com/deals/#Fjallraven+Abisko+Friluft" target="_blank">Fjällräven Abisko Frisluft</a></h3>
 The Fjällräven Abisko Friluft is designed for hot and humid climates and made of G-1000 Heavyduty Eco (which is recycled polyester and cotton). It is possible to get to your gear and clothes from the top and the full front-panel opening. The Fjällräven Abisko Friluft also features a reinforced base to protect your gear and clothes against moisture.
 
 * Fjällräven Abisko Friluft 35 (1550 grams)
 * Fjällräven Abisko Friluft 45 (1600 grams)
 
-<h2><a href="http://www.hikeventures.com/deals/#Hyperlite+Mountain+Gear+Daypack" target="_blank">Hyperlite Mountain Gear Daypack</a></h2>
+<h3><a href="http://www.hikeventures.com/deals/#Hyperlite+Mountain+Gear+Daypack" target="_blank">Hyperlite Mountain Gear Daypack</a></h3>
 The Hyperlite Mountain Gear Daypack has been designed for daytrips and weights 539 grams. Some of the backpacks features are a large external front pocket, removeable ice axe attachements, side water bottle pockets, water-resistant YKK zipper, internal zippered pocket for small gear. The Daypack is available in small, medium and large.
 
-<h2><a href="http://www.hikeventures.com/deals/#Mammut+Creon+Crest" target="_blank">Mammut Creon Crest</a></h2>
+<h3><a href="http://www.hikeventures.com/deals/#Mammut+Creon+Crest" target="_blank">Mammut Creon Crest</a></h3>
 The Mammut Creon Crest can load 20 kg and designed for hiking and multi-day tours. The bottom and the side compartments can be compressed and trekking poles can be attached as well. It's also possible to turn the ventilated air space suspension system into a system with close contact to the back.
 
 * Mammut 55L (2060 grams)
 * Mammut 65L (2160 grams)
 
 
-<h2><a href="http://www.hikeventures.com/deals/#Ortlieb+Elevation+Pro2" target="_blank">Ortlieb Elevation Pro2</a></h2>
+<h3><a href="http://www.hikeventures.com/deals/#Ortlieb+Elevation+Pro2" target="_blank">Ortlieb Elevation Pro2</a></h3>
 The Ortlieb Elevation Pro2 is a heavy duty waterproof alpine backpack available with 42L and was developed with the Austrian Alpine Rescue Team. The backpack features a waterproof zippered pocket and a rope can be attached on the fixing straps as well. The lid compartment can be taken off. You can also store your hydration system in the inner pocket. The Ortlieb Elevation Pro2 weights 1700 grams
 
-<h2><a href="http://www.hikeventures.com/deals/#Thule+Capstone" target="_blank">Thule Capstone</a></h2>
+<h3><a href="http://www.hikeventures.com/deals/#Thule+Capstone" target="_blank">Thule Capstone</a></h3>
 Thule updated it's Capstone range for 2017 with an improved shoulder adjustment system and a VersaClick hip belt - an interchangeable system to customize the backpack with other accessories.
 
 * Thule Capstone 22 (880 grams)
@@ -128,7 +126,7 @@ Thule updated it's Capstone range for 2017 with an improved shoulder adjustment 
 * Thule Capstone 40 (1400 grams)
 * Thule Capstone 50 (1460 grams)
 
-<h2><a href="http://www.hikeventures.com/deals/#Thule+Guidepost" target="_blank">Thule Guidepost 65 / 75 / 85 </a></h2>
+<h3><a href="http://www.hikeventures.com/deals/#Thule+Guidepost" target="_blank">Thule Guidepost 65 / 75 / 85 </a></h3>
 The Thule Guidepost will offer an updated suspension system and hipbelt in 2017. There is also a new QuickFit shoulder harness on the Thule Guidepost offering 3 different shoulder strap width dettings. Thule will also oxchange the 88L Guidepost backpack with 85L version in 2017. The Thule Guidepost will also feature the VersaClick hipbelt. Also new is the PowerPocket in the backpack's lid to store your mobile devices.
 
 * Thule Guidepost 65L (2663 grams)

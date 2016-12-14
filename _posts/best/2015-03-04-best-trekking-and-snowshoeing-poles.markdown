@@ -14,9 +14,7 @@ Trekking and snowshoeing poles are especially useful if you have to walk up or d
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24785831751/in/photolist-Dm1oBg-DUv9z4-DLeSfK-qNgY7t-DJ5oFY-Dm1YSa-DSbpUy-CWZxhh-Dm1SnM-DJ5qtf-DLeWra-CWZhq3-CX6ZLM-DsowUj-CWZoVY-DJ55xd-CWYQyo-CX6sRF-DUueLP-r3peJw" title="Best trekking and snowshoeing poles for 2016 - 2017"><img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="Best trekking and snowshoeing poles for 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-{% include banner_ad.html %}
-
-# The best trekking and snowshoeing poles 2016 - 2017
+## The best trekking and snowshoeing poles 2016 - 2017
 
 <div class="table-responsive">
 
@@ -69,7 +67,7 @@ Patrick snowshoeing in [Finnish Lapland][2].
 
 ---
 
-## [MSR Flight 3][6]
+### [MSR Flight 3][6]
 
 <a href="http://www.amazon.com/gp/product/B00FQ837V0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FQ837V0&linkCode=as2&tag=hikeve-20&linkId=NF74EJFOBHVBOVXE" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00FQ837V0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00FQ837V0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -81,7 +79,7 @@ The MSR Flight 3 is made of 7000-series Aluminium and has a non-absorbing foam g
 
 ---
 
-## [MSR Deploy T-3][8]
+### [MSR Deploy T-3][8]
 <a  href="http://www.amazon.com/gp/product/B00FQU5KD6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FQU5KD6&linkCode=as2&tag=hikeve-20&linkId=RM7QJSFHFODR6F3U" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00FQU5KD6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00FQU5KD6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **weight:** 635 grams  
@@ -92,7 +90,7 @@ The MSR Deploy T-3 are great for snowshoeing. We have tested the Deploy T-2 in t
 
 ---
 
-## [Black Diamond Expedition 3][10]
+### [Black Diamond Expedition 3][10]
 
 <a href="http://www.amazon.com/gp/product/B00MGQXVKW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MGQXVKW&linkCode=as2&tag=hikeve-20&linkId=7USCDAVWZRIA5VHA" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00MGQXVKW&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00MGQXVKW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -104,7 +102,7 @@ The Black Diamond Expedition 3 poles are made of Aluminium and can also be used 
 
 ---
 
-## [Black Diamond Distance Carbon Z][11]
+### [Black Diamond Distance Carbon Z][11]
 
 <a href="http://www.amazon.com/gp/product/B00LU1E9J6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LU1E9J6&linkCode=as2&tag=hikeve-20&linkId=SQ74AUKGGVR6J5J5" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LU1E9J6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LU1E9J6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -116,7 +114,7 @@ The Black Diamond Distance Carbon Z is made of carbon and suitable for fast-pack
 
 ---
 
-## [Black Diamond Distance Carbon FLZ][12]
+### [Black Diamond Distance Carbon FLZ][12]
 
 <a href="http://www.amazon.com/gp/product/B00LU1E9J6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LU1E9J6&linkCode=as2&tag=hikeve-20&linkId=PMVOHR3LVH3T2AAQ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LU1E9J6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LU1E9J6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -128,7 +126,7 @@ The Black Diamond Distance Carbon FLZ are made of carbon fibre those poles come 
 
 ---
 
-## [Leki Micro Ti][13]
+### [Leki Micro Ti][13]
 
 <a href="http://www.amazon.com/gp/product/B00I5IVTUE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00I5IVTUE&linkCode=as2&tag=hikeve-20&linkId=4JMZ5BH5JJ367DOU" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00I5IVTUE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00I5IVTUE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -163,7 +161,7 @@ amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
 ---
 
 
-# Features
+## Features
 When choosing your trekking or snowshoeing poles you should consider the following features:
 
 * Do I want to use my poles only during the summer or also during the winter where I need to use snow baskets
@@ -173,7 +171,7 @@ When choosing your trekking or snowshoeing poles you should consider the followi
 
 ---
 
-# Differences between trekking and snowshoeing poles
+## Differences between trekking and snowshoeing poles
 I would say that the main difference between snowshoe and hiking poles is the possibility to add a snow basket to the poles and to expand or shorten the poles while wearing gloves. My preference as the best trekking and snowhoeing pole goes towards the [MSR Flight 3][15].
 
 ---

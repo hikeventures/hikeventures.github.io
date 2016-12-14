@@ -20,9 +20,7 @@ I would like to give an overview about the best solo backpacking tents which we 
 
 ---
 
-{% include banner_ad.html %}
-
-<h1>The best solo tents for 2016 - 2017</h1>
+<h2>The best solo tents for 2016 - 2017</h2>
 <div class="table-responsive">
 <table class="table table-hover table-bordered list_items">
         <thead>
@@ -78,7 +76,7 @@ Further, it's also worth to consider that a 1-person tent can be more heavy than
 
 <hr>
 
-## [Fly Creek HV UL1](https://www.rei.com/product/895953/big-agnes-fly-creek-hv-ul1-tent)
+### [Fly Creek HV UL1](https://www.rei.com/product/895953/big-agnes-fly-creek-hv-ul1-tent)
 
 <a  href="http://www.amazon.com/gp/product/B00GSYH1T0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GSYH1T0&linkCode=as2&tag=hikeve-20&linkId=UQ5VQ5S2FSWYOS4K" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GSYH1T0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GSYH1T0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -97,7 +95,7 @@ The Big Agnes Fly Creek HV UL1 is a new product in the Big Agnes Ultralight tent
 
 <hr>
 
-## [Hilleberg Enan](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Enan-1-Person-Tent_10274355_10208_10000001_-1_)
+### [Hilleberg Enan](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Enan-1-Person-Tent_10274355_10208_10000001_-1_)
 
 <a href="http://www.amazon.com/gp/product/B00UZ8ZNDQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UZ8ZNDQ&linkCode=as2&tag=hikeve-20&linkId=XBQVK7AJ3UD7ESR7" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00UZ8ZNDQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00UZ8ZNDQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -117,7 +115,7 @@ The Hilleberg Enan is the ultralight model of the Akto. If you don't require muc
 
 <hr>
 
-## [Marmot Force UL 2P](http://www.backcountry.com/marmot-force-ul-2p-tent-2-person-3-season)
+### [Marmot Force UL 2P](http://www.backcountry.com/marmot-force-ul-2p-tent-2-person-3-season)
 
 <a href="https://www.amazon.com/gp/product/B00M85RDHS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00M85RDHS&linkCode=as2&tag=hikeve-20&linkId=5f772e039fab5f9894178931a800150c" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00M85RDHS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00M85RDHS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -134,7 +132,7 @@ Even so the Marmot Force UL 2P is advertised as a 2 person tent, I would rather 
 
 <hr>
 
-## [Hilleberg Akto](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Akto-1-Person-Tent_10101417_10208_10000001_-1_)
+### [Hilleberg Akto](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Akto-1-Person-Tent_10101417_10208_10000001_-1_)
 
 <a href="http://www.amazon.com/gp/product/B003X2HQPY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003X2HQPY&linkCode=as2&tag=hikeve-20&linkId=FCTXO35WV5CXK5P7" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003X2HQPY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B003X2HQPY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -154,7 +152,7 @@ The Hilleberg Akto is the 4-season model of the Hilleberg Enan and more suitable
 
 <hr>
 
-## [Hilleberg Niak 1.5](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Niak-1-5-Person-Tent_10306870_10208_10000001_-1_)
+### [Hilleberg Niak 1.5](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Niak-1-5-Person-Tent_10306870_10208_10000001_-1_)
 
 <a  href="http://www.amazon.com/gp/product/B01AT52A08/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AT52A08&linkCode=as2&tag=hikeve-20&linkId=2JIQ4SO5RH5PZJXL" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01AT52A08&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B01AT52A08" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -172,7 +170,7 @@ The Hilleberg Niak 1.5 is the latest yellow label tent from Hilleberg. If you ne
 
 <hr>
 
-## [MSR Hubba NX](http://www.backcountry.com/msr-hubba-nx-tent-1-person-3-season)
+### [MSR Hubba NX](http://www.backcountry.com/msr-hubba-nx-tent-1-person-3-season)
 
 <a  href="http://www.amazon.com/gp/product/B00GP11DOK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GP11DOK&linkCode=as2&tag=hikeve-20&linkId=S7HOMFZX4PJW2LDW" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GP11DOK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GP11DOK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -190,7 +188,7 @@ The MSR Hubba NX is also a great 3-season tent and costs much less than the Hill
 
 <hr>
 
-## [Hilleberg Soulo](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Soulo-1-Person-Tent_10101479_10208_10000001_-1_)
+### [Hilleberg Soulo](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Soulo-1-Person-Tent_10101479_10208_10000001_-1_)
 
 <a href="http://www.amazon.com/gp/product/B004LAP3G6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004LAP3G6&linkCode=as2&tag=hikeve-20&linkId=4R5WXJMR7LNA2MKY" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004LAP3G6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B004LAP3G6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -212,7 +210,7 @@ The Hilleberg Soulo is a solo expedition tent which can be used under very harsh
 
 <hr>
 
-## [Hilleberg Nallo](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Nallo-2-Person-Tent_10101453_10208_10000001_-1_)
+### [Hilleberg Nallo](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Nallo-2-Person-Tent_10101453_10208_10000001_-1_)
 
 <a href="http://www.amazon.com/gp/product/B00LMR6HSO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LMR6HSO&linkCode=as2&tag=hikeve-20&linkId=4YIQPTOP7VXOY4EM"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LMR6HSO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LMR6HSO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -232,7 +230,7 @@ The Hilleberg Nallo is probably the best choice if you want a 4-season tent whic
 
 <hr>
 
-## [Hyperlite Mountain Gear UltaMid 2](https://www.hyperlitemountaingear.com/ultamid-2.html)
+### [Hyperlite Mountain Gear UltaMid 2](https://www.hyperlitemountaingear.com/ultamid-2.html)
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26835366172/in/dateposted-public/" title="Hyperlite Mountain Gear Tent &amp; Ultamid Tarp"><img src="https://farm8.staticflickr.com/7432/26835366172_4b9630972f_b.jpg" width="1024" height="723" alt="Hyperlite Mountain Gear Tent HMG &amp; Ultamid Tarp - Best 1-person tent"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -256,9 +254,9 @@ A Hilleberg Nallo in the back and a Hilleberg Anjan in the front.
 
 <hr>
 
-# Accessories
+## Accessories
 
-## [Sea to Summit Ultra-Sil eVENT Compression Dry Sack](http://www.backcountry.com/sea-to-summit-ultra-sil-event-compression-dry-sack)
+### [Sea to Summit Ultra-Sil eVENT Compression Dry Sack](http://www.backcountry.com/sea-to-summit-ultra-sil-event-compression-dry-sack)
 
 Usually, I put my tent into a compression sack to get more space in my backpack and keep the poles and pegs seperated. The Sea to Summit Ultra-Sil eVENT Compression Dry Sack is currently my favourite compression sack.
 
@@ -266,7 +264,7 @@ Usually, I put my tent into a compression sack to get more space in my backpack 
 
 <hr>
 
-## [MSR Carbon Stake Kit](http://www.backcountry.com/msr-carbon-core-tent-stakes)
+### [MSR Carbon Stake Kit](http://www.backcountry.com/msr-carbon-core-tent-stakes)
 
 The MSR Carbok Stake Kit is one of my favourite accessories. You can safe quite some weight with those pegs as each of them weights only 6 grams.
 
@@ -274,7 +272,7 @@ The MSR Carbok Stake Kit is one of my favourite accessories. You can safe quite 
 
 <hr>
 
-## [MPOWERD Luci Outdoor - Inflatable Solar Light](https://www.rei.com/product/100705/mpowerd-luci-original-inflatable-solar-lantern)
+### [MPOWERD Luci Outdoor - Inflatable Solar Light](https://www.rei.com/product/100705/mpowerd-luci-original-inflatable-solar-lantern)
 
 The MPOWERD Luci Outdoor is probably one of the best products you can take on your camping trip. You charge the lamp during your hike. Once it gets dark you inflate Luci and you have plenty of light. Read also our [review](http://www.hikeventures.com/luci-r-outdoor-not-a-toy/).
 
@@ -282,16 +280,16 @@ The MPOWERD Luci Outdoor is probably one of the best products you can take on yo
 
 <hr>
 
-# Conclusion
+## Conclusion
 Every tent is made for it's own purpose.
 
-## Best self-standing 1-person tent for exposed & harsh environments
+### Best self-standing 1-person tent for exposed & harsh environments
 The Hilleberg Soulo seems to be the toughest tent for stormy weather and winter camping but comes with additional weight.
 
-## Best 1-Berson tent with priority on space and vestibule
+### Best 1-Berson tent with priority on space and vestibule
 If you are looking for a sturdy tent with lots of space and a vestibule then you should get the Hilleberg Nallo, Hilleberg Niak or the MSR Hubba NX as a 3-season tent or the Hilleberg Nallo 2 as a 4-season tent (these tents are not self-standing).
 
-## Best 1-person ultralight tent
+### Best 1-person ultralight tent
 If low weight is your most important factor then you should consider the Hyperlite Mountain Gear Ulta Mid tent, the Hilleberg Enan (or the Hilleberg Niak 1.5 if you need more space), the MSR Hubba NX or the Big Agnes Fly Creek HV UL1 tent. The prices on the MSR and the Big Agnes are considerably lower than on the Hilleberg tents.
 
 MSR also offers the new MSR FreeLite 1 (1000 grams) and the MSR Carbon Reflex 1 (790 grams) but they are less durable than the MSR Hubba NX (1290 grams). We found that the floor fabric on the MSR Hubba NX was already quite delicate and the MSR Freelite 1 and MSR Carbon Reflex 1 have a slightly lower weight because they are having a thinner material on the floor and the rainfly than the MSR Hubba NX. Also keep in mind that the shiny white color of the Hyperlite Mountain Gear UltaMid will turn into greyish over the time.
@@ -300,7 +298,7 @@ MSR also offers the new MSR FreeLite 1 (1000 grams) and the MSR Carbon Reflex 1 
 
 On our packrafting trip in Scotland we had a MSR Hubba Hubba NX with us which is also a great 3-season tent, offers space for 2 and costs less than the Hilleberg tents.
 
-# Final word
+## Final word
 My personal preference goes towards the Hilleberg Soulo or the Hilleberg Nallo 2 as my favourite solo 4-season backpacking tent. The Hilleberg Soulo is self-standing and can also be pitched on difficult terrain. Many use those tents also as a 3-season tent. If you get an inner mesh tent from Hilleberg then you can even get a better air ventilation in your tent. The Nallo offers more space than the Soulo and would be my first choice (even so the tent is called Nallo 2, it's better suited as a solo tent than a 2-person tent).
 
 If I were to choose an ultralight 3-season tent then I would probably go for the Hilleberg Niak or the Hilleberg Enan (smaller than the Hilleberg Niak) or if I were on a budget then the MSR Hubba NX and the Big Agnes Fly Creek HV UL1 Tent.
