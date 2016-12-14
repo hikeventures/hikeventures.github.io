@@ -15,6 +15,8 @@ In a few weeks we are planning to go for a winter trip to Northern Norway. Our p
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/16347222209/in/album-72157651193131682/" title="Planning a winter trip in Northern Norway - Gear List"><img src="https://c2.staticflickr.com/8/7296/16347222209_cba90d844b_k.jpg" width="2048" height="1360" alt="Planning a winter trip in Northern Norway - Gear List"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<!--more-->
+
 ## Tent and stove
 Konstantin just recently bought a new tent from Seek Adventures which includes a titanium stove. As we have never done any serious winter camping before we are quite excited if we are going to survive a few nights in the cold.
 
