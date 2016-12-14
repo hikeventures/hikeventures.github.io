@@ -18,7 +18,7 @@ A few weeks ago I received the Marmot Force UL 2P from Marmot to test it on my s
 
 {% include banner_ad.html %}
 
-# Initial thoughts
+## Initial thoughts
 My first thoughts were that the tent is very light but also found that one peg was missing and that a small piece of the inner tent mesh was a bit distorted. I was a bit worried that the inner tent may not survive one week in the wilderness. The fabric of the tent is quite thin and I was considering using an additional tent footprint under the tent to avoid getting holes into the tent floor. However, I decided to use the tent without the additional tent footprint to test the durability of the tent floor.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408877980/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/9/8664/28408877980_66faf6d0b7_b.jpg" width="683" height="1024" alt="Marmot Force UL 2P Test"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
@@ -27,21 +27,21 @@ That's how it looks like when you lie in the Marmot tent. There were plenty of m
 
 ---
 
-# Field testing
+## Field testing
 I was testing the Marmot Force UL 2P on a one week trip in Finnish Lapland and in Northern Norway. It was raining every night and in Norway we had strong winds. We always tried to pitch our tents in the direction of the wind nearby the Norwegian coast on a more wind protected area but the wind was still considerably strong. At one point the tent got a bit flat so I would probably not pitch the tent on a very exposed area with strong winds. However, I was able to sleep comfortably for one week without having any issues with the tent. The loops in the inner tent allowed me to put a cord through them so I could dry my [hiking socks](http://www.backcountry.com/icebreaker-hike-mid-crew-sock-mens-ice0793), [towel](http://www.backcountry.com/packtowl-original-towel) and my [hat](http://www.backcountry.com/fjallraven-marlin-mt-hat). Apart from the normal tent bag I also used a [stuff bag](http://www.backcountry.com/sea-to-summit-ultra-sil-event-compression-dry-sack) to minimize the size of the tent in my backpack while carrying the pegs and the poles seperately.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28431574600/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Norway"><img src="https://c1.staticflickr.com/9/8634/28431574600_c262b110ef_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P on HMG Porter 4400 backpack"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
-# Pitching the tent
+## Pitching the tent
 I pitched the tent the first time without using any manual as I pitched already quite many tents in the past. I would say that it is quite easy to pitch the tent. I only struggled a bit to lay the outer tent into the right direction on top of the inner tent because I did not notice the markings on the outer tent. The tent only requires 6 pegs so pitching the tent goes relatively fast. There are also several velcro straps on the outer tent to attach the outer tent properly to the poles. Pitching the tent a second time was much faster once I knew how to set it up correctly.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28098548314/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Norway"><img src="https://c3.staticflickr.com/9/8759/28098548314_3618ccb134_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
-# Features
+## Features
 
 * The tent has a volume optimized structure which promised more livable space.
 * Two doors and two vestibules makes it easy for 2 people to get in and out as well as organize gear.
@@ -68,7 +68,7 @@ I used the pocket over my head to store my ear plugs.
 
 ---
 
-# Positive
+## Positive
 * Can handle stronger winds if pitched correctly.
 * The Inner tent is self-supporting (pegs needed to create proper room in the tent)
 * Two vestibules to store a lot of gear.
@@ -83,7 +83,7 @@ I used the pocket over my head to store my ear plugs.
 
 ---
 
-# Negative
+## Negative
 * Outer tent is not self standing (not possible to first remove inner tent from the outer tent when it's raining to keep the inner tent dry).
 * Inner tent mesh is a bit fragile and distortes easily.
 * Pegs could be of better quality / lighter.
@@ -96,7 +96,7 @@ I liked that the inner tent was completely made of mesh. Here you can see the Ma
 
 ---
 
-# Conclusion
+## Conclusion
 I would recommend the Marmot Force UL 2P if you need a light 3-season solo tent. I liked the weight, the panorama windows on both sides and that there is enough space for your gear under the vestibules. I also did not get any holes in the tent floor during my one week trip. The air flow was also ok with both outer tent doors closed but was even better when slightly opened. The mesh of the inner tent seems to be a bit fragile and should be improved to increase the durability of the inner tent. Apart from that I was quite happy with the tent.
 
 <a href="http://www.backcountry.com/marmot-force-ul-2p-tent-2-person-3-season" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Marmot Force UL 2P</button></a>

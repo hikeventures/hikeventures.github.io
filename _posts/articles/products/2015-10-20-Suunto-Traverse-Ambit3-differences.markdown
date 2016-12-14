@@ -52,7 +52,7 @@ Personally, I like the new look of the Suunto Traverse more than the look of the
 
 ---
 
-<h1><a href="http://amzn.to/2eklrdT" rel="nofollow" target="_blank">Suunto Traverse</a></h1>
+<h3><a href="http://amzn.to/2eklrdT" rel="nofollow" target="_blank">Suunto Traverse</a></h3>
 And then you have the basic Suunto Traverse which I am also wearing on my wrist.
 
 <a href="https://www.amazon.com/gp/product/B014PNZKC0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014PNZKC0&linkCode=as2&tag=hikeve-20&linkId=7539f58f7072b85f393d5bd7e7e76df9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B014PNZKC0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B014PNZKC0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -61,7 +61,7 @@ And then you have the basic Suunto Traverse which I am also wearing on my wrist.
 
 ---
 
-<h1><a href="http://amzn.to/28Xm2B3" rel="nofollow">Suunto Traverse Alpha</a></h1>
+<h3><a href="http://amzn.to/28Xm2B3" rel="nofollow">Suunto Traverse Alpha</a></h3>
 If you are more into fishing or hunting then you should consider getting the Suunto Traverse Alpha. The Suunto Traverse Alpha gives you the following additional features to the regular Suunto Traverse:
 
 * Automatic Shot detection
@@ -71,11 +71,11 @@ If you are more into fishing or hunting then you should consider getting the Suu
 
 <a href="https://www.amazon.com/gp/product/B01EMEZWIE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01EMEZWIE&linkCode=as2&tag=hikeve-20&linkId=06c51ab5e85c88a347f1630794284af6" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01EMEZWIE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01EMEZWIE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="http://amzn.to/2dUmh2z" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2dUmh3z" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
-# <a href="http://www.hikeventures.com/deals/#Suunto+Ambit3+Vertical" rel="nofollow">Suunto Ambit3 Vertical</a>
+### <a href="http://www.hikeventures.com/deals/#Suunto+Ambit3+Vertical" rel="nofollow">Suunto Ambit3 Vertical</a>
 If you are more into trail running (on hills or mountains), mountainbiking, climbing or into multisport then you should probably go for the <a href="http://amzn.to/290sqqE" rel="nofollow">Suunto Ambit3 Vertical</a> or the Suunto Spartan. The Suunto Ambit3 Vertical gives you a summary of your vertical gains and also displays the altitude during your ascent. This is an updated version of the old Ambit3 (Peak).
 
 <a href="https://www.amazon.com/gp/product/B01AGK1CUK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AGK1CUK&linkCode=as2&tag=hikeve-20&linkId=e88ee85cc37dd473812d405d9bbd5f8d" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01AGK1CUK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01AGK1CUK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -85,9 +85,9 @@ If you are more into trail running (on hills or mountains), mountainbiking, clim
 
 ---
 
-# Accessories
+## Accessories
 
-<h2><a href="https://www.amazon.com/gp/product/B00LVNEDDU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LVNEDDU&linkCode=as2&tag=hikeve-20&linkId=4a84a24f1bb726b645aa94750720818e" rel="nofollow" target="_blank">Suunto Smart Belt</a></h2>
+<h3><a href="https://www.amazon.com/gp/product/B00LVNEDDU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LVNEDDU&linkCode=as2&tag=hikeve-20&linkId=4a84a24f1bb726b645aa94750720818e" rel="nofollow" target="_blank">Suunto Smart Belt</a></h3>
 
 You can link a hear rate monitor to your Suunto watch.
 
@@ -95,26 +95,26 @@ You can link a hear rate monitor to your Suunto watch.
 
 ---
 
-<h2><a href="http://amzn.to/28OSNim" rel="nofollow" target="_blank">Traverse Screen Protector</a></h2>
+<h3><a href="http://amzn.to/28OSNim" rel="nofollow" target="_blank">Traverse Screen Protector</a></h3>
 Screen protectors do not only exists for mobile phones. You can also protect your Suunto watch with a screen protector.
 
 <a href="https://www.amazon.com/gp/product/B01G4J0230/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01G4J0230&linkCode=as2&tag=hikeve-20&linkId=e7b3849132f7af30d060ac14b876efa2" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01G4J0230&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01G4J0230" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ---
 
-<h2><a href="http://amzn.to/28V8l3t" rel="nofollow" target="_blank">EasyAcc Rugged Outdoor Power Bank (IP67 Waterproof / 20000mAh)</a></h2>
+<h3><a href="http://amzn.to/28V8l3t" rel="nofollow" target="_blank">EasyAcc Rugged Outdoor Power Bank (IP67 Waterproof / 20000mAh)</a></h3>
 On longer trips it's quite convenient to have a power bank with you. Usually, I charge my Suunto watch every day if I am on a backpacking trip.
 
 <a href="https://www.amazon.com/gp/product/B01B73I5ZU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01B73I5ZU&linkCode=as2&tag=hikeve-20&linkId=47d7ed2d86df59bde1e15986668ca7b5" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01B73I5ZU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01B73I5ZU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ---
 
-<h2><a href="http://amzn.to/28V6hrU" rel="nofollow" target="_blank">Suunto Wristop Computer Bike Adaptor</a></h2>
+<h3><a href="http://amzn.to/28V6hrU" rel="nofollow" target="_blank">Suunto Wristop Computer Bike Adaptor</a></h3>
 On longer bicycle trips it might be quite convenient to have the Suunto watch attached on the Suunto Wristop Computer Bike Adaptor to keep track of your performance.
 
 <a href="https://www.amazon.com/gp/product/B00005N9DU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00005N9DU&linkCode=as2&tag=hikeve-20&linkId=ed3bdcc64953b6e74d3c0a8c77395f0f" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00005N9DU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00005N9DU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<h2><a href="https://www.amazon.com/gp/product/B00X3LNYG0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X3LNYG0&linkCode=as2&tag=hikeve-20&linkId=8750a11f14e8d1f1bdb09f35a6b933a2" rel="nofollow" target="_blank">Quad Lock Bike Mount Kit for iPhone 6/6S PLUS</a></h2>
+<h3><a href="https://www.amazon.com/gp/product/B00X3LNYG0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X3LNYG0&linkCode=as2&tag=hikeve-20&linkId=8750a11f14e8d1f1bdb09f35a6b933a2" rel="nofollow" target="_blank">Quad Lock Bike Mount Kit for iPhone 6/6S PLUS</a></h3>
 If you have an iPhone you could also get a Quad Lock Bike Mount Kit and attach it next to the <a href="http://amzn.to/28V6hrU" rel="nofollow">Suunto Wristop Computer Bike Adaptor</a>. It's quite handy to have your iPhone in front of you when you are on a tour. You can easily check maps, use the iPhone as a second screen for your Ambit watch (to display e.g. speed or distance) or just to listen to radio.
 
 <a href="https://www.amazon.com/gp/product/B00X3LNYG0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X3LNYG0&linkCode=as2&tag=hikeve-20&linkId=8750a11f14e8d1f1bdb09f35a6b933a2" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00X3LNYG0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00X3LNYG0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

@@ -21,28 +21,28 @@ Today I had a chance to test the Zeiss Batis 25 mm f/2 in Finland and here are s
 {% include banner_ad.html %}
 
 
-# Sharpness
+## Sharpness
 This lens is super sharp.
 
-# Bokeh
+## Bokeh
 Even so it it a wide angle lens you can create a nice bokeh with it's f/2.
 
-# Weight
+## Weight
 With less than 400 grams this lens is also quite light.
 
-# Size
+## Size
 The lens looks a bit bulky compared to the Loxia lenses but it lies nicely in your hand when you take pictures.
 
-# Weather resistant
+## Weather resistant
 The Zeiss Batis 25mm is weather resistant which makes it a great lens for outdoor adventures.
 
-# OLED screen
+## OLED screen
 The OLED screen comes in quite handy when you are into manual focusing. It shows you the distance where the object is sharp and where other object start to blur before and behind it. The OLED screen is off when your camera is set on autofocus.
 
-# Focus ring
+## Focus ring
 The focus ring is a simple rubber band which collects dust. It's not really an issue for me. Focusing is nice and smooth.
 
-# Autofocus
+## Autofocus
 The autofocus is quite fast on a Sony A7 but it's probably a bit difficult to get a sharp image of a very fast moving object. However, I would say that this is more a limitation of the camera than the lens.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27747110244/in/dateposted-public/" title="Test Zeiss Batis 25 mm / 2.0 with Sony A7"><img src="https://c5.staticflickr.com/9/8568/27747110244_bd08fc8a31_k.jpg" width="2048" height="1152" alt="Zeiss Batis 25 mm / 2.0 with Sony A7"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -51,7 +51,7 @@ What I don't like on this lens is that it is quite expensive but on the other ha
 
 ---
 
-# Would I recommend the Zeiss Batis 25mm
+## Would I recommend the Zeiss Batis 25mm
 Yes, that's the best lens which I ever had on a Sony A7. As it is light and relatively small it's also a great lens for outdoor photographers who need weather resistant gear and who want to travel light. The lens is super versatile. It let's a lot of light through which makes it also an interesting lens for night and astrophotography. Need a nice bokeh? No need to change lenses. Just set the aperture to 2.0. The Zeiss Batis 25mm would definitely be a great lens for [our trips](http://www.hikeventures.com/destinations/).
 As a side note, I have also used the <a href="http://amzn.to/2akpsuN" rel="nofollow">Hoya 67mm DMC PRO1 Clear Protector Digital Filter</a> when I took the pictures.
 

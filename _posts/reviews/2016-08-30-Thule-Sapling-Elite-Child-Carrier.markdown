@@ -17,7 +17,7 @@ Recently, I was looking for a child carrier backpack since I was interested to b
 
 {% include banner_ad.html %}
 
-# Field Testing
+## Field Testing
 I was carrying the Thule Sampling Elite mainly in the forests around our neighborhood and in the outskirts of Turku nearby the sea where I was walking on narrow trails in the forest. The Thule Sampling Elite is also very comfortable to carry when you walk up a hill and the child (14 kg) did not feel that heavy on the back either. The Child Carrier also comes with an additional small backpack which you can attach to it. This could be useful to share the load between two or if you only want to walk a shorter distance without the child carrier and to carry the most essential items with you.
 
 Of course it is quite hard to see what your child is doing in the back while you are walking along the trail. Thule was thinking ahead and added a mirror in one of the hipbelt pockets which you can take out to monitor your child. My child felt also more comfortable when she saw me smiling to her from time to time so this is a simple but really great feature.
@@ -50,7 +50,7 @@ Thule is also selling the [Thule Sapling Rain Cover](http://www.ems.com/thule-sa
 
 ---
 
-## Conclusion
+#### Conclusion
 The Thule Sapling Elite Child carrier was comfortable to carry thanks to the padded shoulder straps, waist belt and the fully adjustable suspension system. I also stored a raincover in the bag of the backpack which I could easily access in case it would start raining. My child also asked me a couple of times if I could carry her around in the backpack so I assume that she liked the child carrier backpack as well. More testing is needed to test the durability of the backpack but my first impressions are quite positive. The only negative point I could think of is that the backpack could fall forward with the child if it stands with the stand on the ground but this is probably also the case with other child carrier backpacks.
 
 <a href="http://www.backcountry.com/thule-chariot-sapling-elite-child-carrier"><button type="button" class="btn btn-danger">Read more about the Thule Sapling Child Carrier</button></a>

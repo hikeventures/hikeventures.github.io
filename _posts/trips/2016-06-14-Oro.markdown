@@ -19,7 +19,7 @@ The gear is packed. The packrafts are inflated. The sails are ready. And so we a
 
 {% include banner_ad.html %}
 
-# Nature Centre “Blue Mussel” – The Entrance to The Archipelago
+## Nature Centre “Blue Mussel” – The Entrance to The Archipelago
 
 This gate is the entrance to the Archipelago Nature Centre “Blue Mussel”, which is truly an entrance to the Finish Archipelago and a good starting point of any trip.
 
@@ -39,7 +39,7 @@ The tower can be used to enjoy the view of the area, but also as a quiet place t
 
 ---
 
-# Packrafting from Kasnäs to Örö
+## Packrafting from Kasnäs to Örö
 
 Upon our arrival in Kasnäs and after visiting the Nature Centre, we off-loaded our gear at the harbour and while Patrick went to park the car at a free overnight parking (approximately 500 meters down the road in the direction from where we came), Konstantin started to get his packraft ready for the trip. [Here](http://www.movescount.com/moves/move109498126) you can find the GPS data from this packrafting microadventure.
 
@@ -75,7 +75,7 @@ Patrick sailing just before the Örö island.
 
 ---
 
-# Arriving at the main harbour of Örö
+## Arriving at the main harbour of Örö
 
 After 15 km of windpaddle sailing with our packrafts we finally arrived on Örö. It took us just over three hours to cover that distance.
 
@@ -104,7 +104,7 @@ On the way, we saw a large number of swans, who were possibly hiding from the wi
 
 ---
 
-# Camping on Örö
+## Camping on Örö
 
 Camping on Örö is possible at the tent site near the landing point for kayakers. Once we walked a few meters into the forest we saw a sign which indicated its location (there are a lot of clear signs like that around the island).
 When we got to the site, we were the first ones there and could choose the best spot for our tent. A while later, three women in their fifties from Helsinki arrived with their tents as well. It seemed that they took a ferry to the island. We started a short conversation and they told us that one of them had come to Örö last year already and this time brought her friends in order to show them this beautiful place. And unlike us, who stayed there for one night only, they were planning to camp on Örö for 2 nights, while spending the day explore the history and enjoying the nature of the island.
@@ -127,7 +127,7 @@ The landing spot for kayaks is also a great place to enjoy the nature and have a
 
 ---
 
-# Other Facilities on Örö
+## Other Facilities on Örö
 
 In general, Örö offers a variety of quite nice facilities for its visitors.
 If you are planning to stay overnight and you do not have your own boat or a tent, it is possible to book a bed in a hostel or rent an apartment or a cottage.
@@ -146,19 +146,19 @@ The several public toilets, spread out across the island, are very clean and hav
 
 ---
 
-# Hiking on Örö
+## Hiking on Örö
 
 Örö is also a great place for hiking since it has two well-marked routes, which are easy to follow - the blue-blazed ‘6’’ Trail’, leading through the southern part of the island (5.3 km), and a red-blazed ‘120mm trail’, covering the north (5.6 km). The total length of all paths and roads is around 16.5 km and there is a large number of interpretation panels in 3 languages (Swedish, Finnish and English) that deal with the natural and military history of the island and provide interesting explanation of what one can see there.
 
 ---
 
-# Other Leisure Activities on Örö
+## Other Leisure Activities on Örö
 
 Besides hiking, it is possible to use a bike to move around the island. To do that you can either rent one or bring your own. Fishing, birdwatching and geocaching are also popular activities among the visitors. If you are into diving, then you may need a special permission to do it on Örö. However, it's quite easy to find out what's allowed and what is not as this information is provided at several places.
 
 ---
 
-# Exploring Örö’s Military Past
+## Exploring Örö’s Military Past
 The main cultural sights on the island are related to the history of costal defences in Finland starting with the last years of the rule of tsarist Russia and until the present day. Ranging from fortifications and tranches, to barracks and cobbled roads, the island’s rich military history is evident at every step.
 Some of the main ‘relics’ are the two 12-incht or 305 mm Obukhovskii guns. Originally, when Russians built the fortifications, there used to be four of these guns on the island, however, later only two were left. These guns were used in the WWI against Germans and also defended the Bengtskär lighthouse during the Continuation war against Russia.
 
@@ -244,12 +244,12 @@ Here is another example of such ‘child-proofing’ – it is a sign in three l
 
 ---
 
-# Conclusion - One of the best places to visit in the Finnish Archipelago
+## Conclusion - One of the best places to visit in the Finnish Archipelago
 We really enjoyed our trip to Örö as with its perfect blend of history and nature combined with a good tourist infrastructure the island resembles a far-away Mediterranean spot. That is why it comes as no surprise that once we sat down on one of the sandy beaches, felt the smell of the salty sea mixed with the dry aroma of the pine trees and gazed across the blue water glistening in the sun, we felt sorry that we came there only for such a short time and we promised to ourselves that we would come there again. Possibly with our families…
 
 ---
 
-# Good to Know
+## Good to Know
 
 If you don’t have a kayak or a boat of your own, you can take a ferry from Kasnäs to Örö, which costs 16 EUR one way or 25 EUR if you buy a return ticket. Bicycles can also be taken on the ferry. More information is also available on [visitörö.fi](http://xn--visitr-0xab.fi/index.php/en/travel/connecting-vessels). There are also taxi boats from Rosala.
 
@@ -264,6 +264,6 @@ If you prefer to cycle, there is also the [Coastal Trail Bicycle Route](http://w
 
 ---
 
-# Video
+## Video
 
 [Here](http://www.hikeventures.com/oro-video/) you can watch our video from Örö.

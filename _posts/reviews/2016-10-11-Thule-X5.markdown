@@ -19,7 +19,7 @@ A few months ago we received the Thule Atmos X5 iPhone 6 case from Thule which w
 
 {% include banner_ad.html %}
 
-# Field Testing
+## Field Testing
 We have tested the Thule X5 on our packrafting trips in [Scotland](http://www.hikeventures.com/Packrafting-River-Dee-Scotland-1/), [Sweden](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/), [Norway](http://www.hikeventures.com/Finnmark/), [Finland](http://www.hikeventures.com/Kaldoaivi/), Japan, Russia and France this year. The trip reports will be available soon on our blog.
 
 In general we were quite happy with the Thule Atmos X5. The Thule X5 case is waterproof. However, we have not tested yet if the case would be waterproof as well if we would submerge it for a longer time in 1-2 meters but for our regular packrafting use we could not find any faults at all. We also did not perform any specific drop test but once Patrick's phone dropped from 1 meter and it did not have any impact on the phone.
@@ -39,15 +39,15 @@ In general we were quite happy with the Thule Atmos X5. The Thule X5 case is wat
 
 ---
 
-# Features
+## Features
 The case has IP68 rating and the StratoShield screen protector delivers 5 times the impact protection. It also helps against impact, scratches, glare and fingerprints. The case also works with the Touch ID™ sensor or the iPhone. The case weights 100 grams and is made of Polycarbonate.
 
 ---
 
-# Conclusion
+## Conclusion
 We were quite happy with the Thule Atmos X5 and would take it any day with us to our future trips. If Thule could find a way to fix the negative issues mentioned above then it would be the perfect waterproof case for the iPhone 6. However, even with the view issues we had with the case it is still a great case which we could recommend for your next outdoor adventure.
 
-Thule just recently released the [Atmos X3](http://www.hikeventures.com/deals/#atmos+X3+iPhone7) for the iPhone 7 and the [Atmos X4](http://www.hikeventures.com/deals/#atmos+X4+iPhone7) for the iPhone 7 and 7 Plus. While the Atmos X3 (read our review) and Atmos X4 (read our review) are not waterproof cases as the Atmos X5 we can also recommend them to protect your iPhone from activities where no water is involved. The links on this site contain affiliate links. If you purchase thru the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
+Thule just recently released the [Atmos X3](http://www.hikeventures.com/deals/##atmos+X3+iPhone7) for the iPhone 7 and the [Atmos X4](http://www.hikeventures.com/deals/##atmos+X4+iPhone7) for the iPhone 7 and 7 Plus. While the Atmos X3 (read our review) and Atmos X4 (read our review) are not waterproof cases as the Atmos X5 we can also recommend them to protect your iPhone from activities where no water is involved. The links on this site contain affiliate links. If you purchase thru the links you help support our blog. <a href="http://www.hikeventures.com/about/" target="_blank">Here</a> you can read on who we are.
 
 <a href="http://amzn.to/21q2eGI" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Thule Atmos X5</button></a>
 

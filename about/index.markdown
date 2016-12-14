@@ -11,7 +11,7 @@ published: true
 
 <div class="my-fluid-container">
 <img src="http://www.hikeventures.com/post_subscribe.png">
-<h1> HikeVenturers</h1>
+<h2> HikeVenturers</h2>
 HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoeing, cycling and urban microadventures. We <a href="http://www.hikeventures.com/destinations/">adventure</a> mainly in Europe but sometimes we also visit places like Japan or Russia. HikeVentures was established in 2012.
 
 <hr>
@@ -54,7 +54,7 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 <br>
 <hr>
 
-<h1>Partners and Sponsors</h1>
+<h2>Partners and Sponsors</h2>
 <div class="container-fluid">
 <div class="row-fluid">
 
@@ -90,7 +90,7 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 
 <hr>
 
-<h1> Followers on Social Media </h1>
+<h2> Followers on Social Media </h2>
 
 <a href="https://www.instagram.com/hikeventures/">Instagram</a>: 4300 <br>
 <a href="https://twitter.com/HikeVentures">Twitter</a>: 2600   <br>
@@ -100,34 +100,34 @@ We are also on <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw
 
 <hr>
 
-<h1> Gear Testing</h1>
+<h2> Gear Testing</h2>
 On our blog we are reviewing outdoor gear which we receive from well known outdoor brands. <a href="http://www.hikeventures.com/Thule-Chasm-XL-Duffle-Bag/">Here</a> is an example of a more detailed review which we wrote for a company. Feel free to <a href="#contact">contact us</a> if you want us to test one of your products on our trips. Please note that we will express our own opinion on your products in our reviews.<br><br>
 <img src="https://farm6.staticflickr.com/5683/21885051180_963c46af51_b.jpg" width="1000" height="363" alt="Packrafting in Abisko, Sweden">
 
 <hr>
 <div id="disclaimer"></div>
-<h1> Affiliate Links</h1>
+<h2> Affiliate Links</h2>
 On some of our pages you will find affiliate links. HikeVentures is a participant in AvantLink and the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. Affiliate links help us to keep this blog going and to finance some of our trips and gear.
 
 <hr>
 
-<h1> Disclaimer</h1>
+<h2> Disclaimer</h2>
 We do not guarantee for the correctness of the information on this website. Product recommendations are based on personal views. We are also not responsible for any injuries occurred by following our gear and activities advices. We are not responsible for the actions of your advertisers or sponsors. For example, when you buy a product or service based upon a link from your blog, you must take action with that exact company to resolve any issues, not with us. All the information provided on our blog is for entertainment purposes only.
 
 <hr>
 
-<h1>Reserve Rights</h1>
+<h2>Reserve Rights</h2>
 
 We reserve the right to change the focus on our blog, to shut it down, sell it or to change the terms of use at our own discretion.
 
 <hr>
 
-<h1>  Copyright</h1>
+<h2>  Copyright</h2>
 All content on www.hikeventures.com must not be used without the permission of hikeventures.com.
 
 <hr>
 
-<h1>  <a name="contact" style="color: rgb(250,250,250)"><font color="000000">Contact</font></a></h1>
+<h2>  <a name="contact" style="color: rgb(250,250,250)"><font color="000000">Contact</font></a></h2>
 Patrick Dormischian<br>
 Ravaksenkatu 31 C 6<br>
 20900 Turku<br>

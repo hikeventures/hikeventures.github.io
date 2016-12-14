@@ -23,7 +23,7 @@ Did you know that the name Makke derives from a mountain in Jämtland in Sweden 
 
 {% include banner_ad.html %}
 
-# Field Testing
+## Field Testing
 Konstantin was wearing the Makke pant this year on his trips in France, Finland, Poland, Japan, Russia and Sweden while Patrick was wearing the Makke Pant on the [Swedish Packrafting Gathering](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/), on smaller trips around Turku and on a trip in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/) and in [Northern Norway](http://www.hikeventures.com/Finnmark/).
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31051051320/in/dateposted-public/" title="Lundhags Makke Pants Review"><img src="https://c1.staticflickr.com/6/5474/31051051320_0b585b0453_k.jpg" width="2048" height="1365" alt="Lundhags Makke Pant Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -44,12 +44,12 @@ The Makke Pant also comes with Schoeller Keprotec which should increase the dura
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31305693581/in/dateposted-public/" title="Lundhags Makke Pants (4)"><img src="https://c6.staticflickr.com/6/5536/31305693581_f1a9b83bbc_k.jpg" width="2048" height="1365" alt="Lundhags Makke Pant Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-# Fabric
+## Fabric
 So what is the Lundhags Makke Pant made of? The pants consists of LPC (Lundhags PolyCotton) stretch - 65% Polyester and 35% Cotton (FC Free DWR) 181 g/m². The stretch fabric is made by Schoeller Dry Skin which consists of 52% Polyamid, 41% Polyamid (micro) and 7% Elastane. The reinforcements are made of Schoeller Keprotec which are PFOA/PFOS free.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30599065514/in/dateposted-public/" title="Lundhags Makke Pants (6)"><img src="https://c3.staticflickr.com/6/5609/30599065514_3a9dedbf93_k.jpg" width="2048" height="1365" alt="Lundhags Makke Pant Review Japan"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-# Conclusion
+## Conclusion
 Currently, the Lundhags Makke are our favorite pants. We like that they are stretchy and that they also dry reasonably fast since they are not made solely of cotton. The vent zippers on the inner thighs are great and the zippers on the pockets will make sure that you don’t lose anything stored in your pockets.  Those pants also work quite well if you are planning to wear them with [shell boots](http://www.hikeventures.com/Lundhags-Jaure-Light/).
 
 <a href="http://amzn.to/2gSJuic" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
