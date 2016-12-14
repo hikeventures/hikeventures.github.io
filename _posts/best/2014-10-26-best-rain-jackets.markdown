@@ -9,7 +9,7 @@ tags:
   - jackets
 layout: post
 ---
-Do you know how to stay warm during a hiking trip? Don't get wet! Here is my selection of the best rain jackets for 2016 - 2017 which I have selected from different brands. Planning to go hiking, backpacking, running, climbing, cycling, mountaineering, skiing, snowboarding or snowshoeing? Then you should wear a rain jacket or carry a lightweight rain jacket in your backpack. A rain jacket does not need to weight much and can be a life saver especially when it's cold. Also consider taking lightweight waterproof [rain pants][1] with you.
+Do you know how to stay warm during a hiking trip? Don't get wet! Here is my <a href="#list">selection</a> of the best rain jackets for 2016 - 2017 which I have selected from different brands. Planning to go hiking, backpacking, running, climbing, cycling, mountaineering, skiing, snowboarding or snowshoeing? Then you should wear a rain jacket or carry a lightweight rain jacket in your backpack. A rain jacket does not need to weight much and can be a life saver especially when it's cold. Also consider taking lightweight waterproof [rain pants][1] with you.
 
 ---
 
@@ -17,7 +17,8 @@ Do you know how to stay warm during a hiking trip? Don't get wet! Here is my sel
 
 ---
 
-## The best rain jackets 2016 - 2017
+
+<h2 id="list">The best rain jackets 2016 - 2017</h2>
 
 <div class="table-responsive">
 

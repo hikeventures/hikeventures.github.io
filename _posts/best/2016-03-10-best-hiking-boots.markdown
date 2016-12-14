@@ -10,7 +10,7 @@ tags:
   - shoes
 published: true
 ---
-Proper hiking boots are important if you are planning to hike in the mountains or with a heavy backpack. For day trips which are not that demanding [lightweight hiking shoes](http://www.hikeventures.com/best-ultralight-hiking-shoes/) could be an alternative to traditional hiking boots. However, after my trips in the [Alps](http://www.hikeventures.com/e5-crossing-the-alps-from-germany-to-italy/) and in [Swedish Lapland](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) I am not such a fan of ultralight hiking shoes and would rather take a pair of proper hiking boots with me. Here is my selection of the best hiking boots for 2016 - 2017. Have a look on my <a href="#list">comparison table</a> where I sorted different hiking boots according to their weight.
+Proper hiking boots are important if you are planning to hike in the mountains or with a heavy backpack. For day trips which are not that demanding [lightweight hiking shoes](http://www.hikeventures.com/best-ultralight-hiking-shoes/) could be an alternative to traditional hiking boots. However, after my trips in the [Alps](http://www.hikeventures.com/e5-crossing-the-alps-from-germany-to-italy/) and in [Swedish Lapland](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) I am not such a fan of ultralight hiking shoes and would rather take a pair of proper hiking boots with me. Here is my <a href="#list">selection</a> of the best hiking boots for 2016 - 2017. 
 
 ---
 

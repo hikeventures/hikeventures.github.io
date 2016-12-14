@@ -9,13 +9,14 @@ tags:
   - lamps
 layout: post
 ---
-Planning a winter trip in the North or just need a headlamp for the night? A good lightweight headlamp is an essential part for many outdoor activities likes hiking, running, cycling, packrafting, ski touring or climbing or any other backcountry trip. It can be a life saver and should always be in your backpack. Here is my selection of the best headlamps for 2016 - 2017.
+Planning a winter trip in the North or just need a headlamp for the night? A good lightweight headlamp is an essential part for many outdoor activities likes hiking, running, cycling, packrafting, ski touring or climbing or any other backcountry trip. It can be a life saver and should always be in your backpack. Here is my <a href="#list">selection</a> of the best headlamps for 2016 - 2017. 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/13975652752/in/photolist-GbSzpE-HnoEX7-GaxJVX-GXb3Qv-fBZbWn-qN9fdL-qeZAQ1-pJRcuY-oXDYGk-oXE2fB-pUdwjt-pEYKYc-pUotup-pSioYy-oJ8eZL-qGeLzL-o5eCPi-nKXNaZ-o1pT3W-nbZrcA-nbXFbR-n9UVEg-pF3ZMU-pvG9Af-oMnq8m-oCa2tz-ofA95w-o3ozXu-o1sHd9-nL2c9g-nKXHCH-nB97hW-nTASyZ-nge5dS-nhY6vf-nhYSEd-nqwZew-noqfLG-n9UL3q-nbX8MF-hXNm3Z-hXNmLH-hXMK7h-hXMq24-dXbkpf-dL8yRc-dNuTzR-dNAuXb-dNuWmP-dNuVEk" title="Best headlamps 2016 - 2017"><img src="https://c1.staticflickr.com/8/7037/13975652752_fbf38fb617_k.jpg" width="2048" height="1367" alt="Best headlamps 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Personally, I like the Petzl Nao Plus most since it has plenty of features and also offers the Petzl Nao Belt Kit which allows me to carry the battery under the jacket rather than on my head which can shorten the beattery life especially when wearing in [colder regions][1]. I have also used the previous model of the Nao in [Swedish Lapland][2]. However, if you are looking for a smaller headlamp which is also waterproof then I would rather pick the <a href="http://amzn.to/2fkaiqv" rel="nofollow" target="_blank">Black Diamond Spot</a> which features red light and 200 Lumen - sufficient for hiking even in the Alps.
 
-## The best headlamps of 2016 - 2017
+
+<h2 id="list">The best headlamps of 2016 - 2017</h2>
 
 <div class="table-responsive">
 
