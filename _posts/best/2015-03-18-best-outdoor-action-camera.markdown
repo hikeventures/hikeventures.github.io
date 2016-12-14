@@ -37,7 +37,7 @@ To answer the question I am just going to compare the specifications of the came
 | Sensor Size  | 1/2.3  | 1/2.3  |
 | Angle of View  | 170  | 170 or 120  |
 
-
+<br><br>
 Looking at the Specs, I am more tempted in getting the Sony FDR-X1000V action camera. 8.8 MP sensor should deliver better image quality in low light situations and image stabilisation is also nice to have. Another feature which I found quite interesting is that you can control up to 5 cameras with the Sony. The only concern I would  have with the Sony is its shape. I would need to have the camera in front of me and the GoPro would fit better. Alternatively, I have to look for a helmet adapter for the Sony. Alternatively, as I don't really need 4K that much, the GoPro Silver would be a great camera too, I could save 100 USD and also get an LCD screen with it.
 
 The Sony FDR-X1000V looks like a camera which can be easily mounted on the site of a helmet
