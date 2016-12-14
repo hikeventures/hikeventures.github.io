@@ -1,5 +1,4 @@
 ---
-published: false
 layout: post
 title: Planning a winter trip in Northern Norway - Gear List
 description: Test
@@ -8,7 +7,7 @@ category: article
 tags:
   - article
   - Norway
-- trip
+  - trip
 ---
 
 In a few weeks we are planning to go for a winter trip to Northern Norway. Our plan is to fly to Alta and explore the area with our snowshoes. Here are some items which we will have on our gear list.
