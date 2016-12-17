@@ -99,12 +99,6 @@ Sometimes you might also get a down jacket for a significant lower price especia
 
 <hr>
 
-<a href="https://www.flickr.com/photos/90204224@N07/18424590651" title="best down jackets 2016"><img src="https://c2.staticflickr.com/8/7793/18424590651_c838138d3d_o.jpg" width="100%" alt="best down jackets 2016"></a>
-
-Konstantin wearing a down jacket on our trip in [Finnish Lapland][2].
-
-<hr>
-
 <h3 id="example"><a href="http://amzn.to/2doK4aj" target="_blank" rel="nofollow">Mountain Hardware Ghost Whisperer Hooded Down Jacket</a></h3>
 
 
