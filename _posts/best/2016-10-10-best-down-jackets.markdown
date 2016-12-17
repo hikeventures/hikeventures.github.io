@@ -9,7 +9,7 @@ tags:
   - jackets
 layout: post
 ---
-Do you need a new down jacket for the winter or for a cold summer night during a hike? Here is our <a href="#list">selection</a> of the best down jackets for 2016 - 2017 which we have selected to cover your summer and winter backcountry trips. We have selected a broad range of down jackets which can be worn in different conditions and for different activities like hiking, backpacking, skiing, snowboarding, mountaineering, climbing or on any other outdoor adventure. Also, check one of our <a href="#video">packrafting videos</a> where we had down jackets with us while packrafting in Northern Sweden.
+Do you need a new down jacket for the winter or for a cold summer night during a hike? Here is our <a href="#list">selection</a> of the best down jackets for 2016 - 2017 which we have selected to cover your summer and winter backcountry trips. We have selected a broad range of down jackets which can be worn in different conditions and for different activities like hiking, backpacking, skiing, snowboarding, mountaineering, climbing or on any other outdoor adventure. Also, check one of our <a href="#video">packrafting videos</a> where we had down jackets with us while packrafting in Northern Sweden. You can also check out more <a rel="nofollow" target="_blank" href="https://www.amazon.com/s/ref=sr_nr_p_89_3?fst=as%3Aoff&rh=i%3Aaps%2Ck%3Adown+parka%2Cp_89%3ACanada+Goose&keywords=down+parka&ie=UTF8&qid=1481992484&rnid=2528832011&_encoding=UTF8&tag=hikeve-20&linkCode=ur2&linkId=033fa5b1acce3f36b95b80a2bca09a06&camp=1789&creative=9325">fashionable down jackets</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> as the ones listed in this blog post are made to pack small and light.
 
 ---
 
@@ -76,7 +76,9 @@ The down jackets we have selected have a fill power of 800 and more since they o
         <tr>
           <td><a href="http://amzn.to/2endumN" target="_blank" rel="nofollow">Arcteryx Ceres Jacket (850fp)</a></td><td>860g</td>
         </tr>
-
+        <tr>
+          <td><a href="http://amzn.to/2endumN" target="_blank" rel="nofollow">Canada Goose Expedition Parka Fusion Fit (625fp)</a></td><td>860g</td>
+        </tr>
         </tbody>
 
       </table>
