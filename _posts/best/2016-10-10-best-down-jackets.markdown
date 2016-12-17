@@ -21,7 +21,9 @@ Also, check one of our <a href="#video">packrafting videos</a> where we had down
 
 ---
 
-The down jackets we have selected have a fill power of 800 and more since they offer the best warmth-weight ratio and are considered to be lightweight down jackets. We have included down jackets which you can use as a 3-season down jacket as well as winter down jackets. The lighter jackets usually come with less down and are more suitable for warmer months or as a mid-layer during the winter. Some people also prefer synthetic insulation rather than down. However, keep in mind that synthetic insulation is more bulcky and offers less insulation than down.
+The down jackets we have selected have a fill power of 800 and more since they offer the best warmth-weight ratio and are considered to be lightweight down jackets. We have included down jackets which you can use as a 3-season down jacket as well as winter down jackets.
+
+The lighter jackets usually come with less down and are more suitable for warmer months or as a mid-layer during the winter. Some people also prefer synthetic insulation rather than down. However, keep in mind that synthetic insulation is more bulcky and offers less insulation than down.
 
 <hr>
 
