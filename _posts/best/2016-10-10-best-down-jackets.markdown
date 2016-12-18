@@ -86,14 +86,6 @@ The lighter jackets usually come with less down and are more suitable for warmer
 
 <hr>
 
-<div id="video">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-<br>
-</div>
-> On our packrafting trip in the Sarek National Park in Sweden we had also down jackets with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
-
-<hr>
-
 Sometimes you might also get a down jacket for a significant lower price especially at the end of the season when stores want to clear their stock. In many cases the new models just come with a different color so it's worth to have a look on the old models as well.
 
 <!--more-->
