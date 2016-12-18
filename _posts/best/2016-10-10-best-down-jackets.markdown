@@ -17,7 +17,7 @@ Also, check one of our <a href="#video">packrafting videos</a> where we had down
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/16507493946/in/album-72157651193131682/" title="Best Down Jackets 2016 - 2017"><img src="https://c3.staticflickr.com/8/7413/16507493946_86bbe04b39_b.jpg" width="1024" height="680" alt="Best Down Jackets 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31678650936/in/dateposted-public/" title="Best down jackets 2016 - 2017"><img src="https://c1.staticflickr.com/1/608/31678650936_d0d6dcb722_b.jpg" width="1024" height="577" alt="Best down jackets 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
