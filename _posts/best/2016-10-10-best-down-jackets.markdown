@@ -49,14 +49,6 @@ The lighter jackets usually come with less down and are more suitable for warmer
         </tr>
 
         <tr>
-          <td><a href="http://amzn.to/2eGhePW" target="_blank" rel="nofollow">Canada Goose Hybridge Lite Jacket (800fp)</a></td><td>331g</td>
-        </tr>
-
-        <tr>
-          <td><a href="http://amzn.to/2elEHtO" target="_blank" rel="nofollow">Marmot Quasar Hoody (900fp)</a></td><td>372g</td>
-        </tr>
-
-        <tr>
           <td><a href="http://amzn.to/2dBjOHV" target="_blank" rel="nofollow">Arcteryx Cerium SV Hoody (850fp)</a></td><td>440g</td>
         </tr>
 
@@ -75,8 +67,13 @@ The lighter jackets usually come with less down and are more suitable for warmer
         <tr>
           <td><a href="http://amzn.to/2endumN" target="_blank" rel="nofollow">Arcteryx Ceres Jacket (850fp)</a></td><td>860g</td>
         </tr>
+
+
         <tr>
-          <td><a href="http://amzn.to/2endumN" target="_blank" rel="nofollow">Canada Goose Expedition Parka Fusion Fit (625fp)</a></td><td>860g</td>
+          <td><a href="http://amzn.to/2gZ5BrN" target="_blank" rel="nofollow">Fjällräven Arktis Parka (500fp)</a></td><td>1954g</td>
+        </tr>
+        <tr>
+          <td><a href="http://amzn.to/2i2OmBR" target="_blank" rel="nofollow">Canada Goose Expedition Parka (625fp)</a></td><td>2070g</td>
         </tr>
         </tbody>
 
@@ -126,18 +123,6 @@ Similar as the Arcteryx Cerium LT Jacket just with a hoodie. We would pick the C
 The Marmot Quasar Hoody is also an interesting jacket with it's high down fill power covered by light Pertex Quantum fabric (similar as other models in our list) which makes it also somewhat water repellent. The additional zip on the front adds a little bit more weight to the jacket. We would wear the Marmot Quasar Hoody during moderate winter or camping during spring and summer.
 
 <a href="http://amzn.to/2elEHtO" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
-
-<hr>
-
-<h3><a href="http://amzn.to/2eGhePW" target="_blank" rel="nofollow">Canada Goose Hybridge Lite Jacket (800fp)</a></h3>
-
-<a href="https://www.amazon.com/gp/product/B00DNEDJAS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DNEDJAS&linkCode=as2&tag=hikeve-20&linkId=7b16c6297f7c608278d0e97854d312d4" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00DNEDJAS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00DNEDJAS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Weight:** 331g
-
-The Canada Goose Hybridge Lite Jacket is made for temperatures down to -5C. I would wear this jacket on milder winter days or when camping throughout the year. The Hybridge Lite Jacket can be packed into the exterior left hand pocket so it's great to carry around in your backpack as it does not take to much space away.
-
-<a href="http://amzn.to/2eGhePW" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 <hr>
 
@@ -198,6 +183,30 @@ The  Rab Positron Jacket is proper box-wall down winter jacket with a water-resi
 More heavy than the other jackets in our list, the Arcteryx Ceres Jacket is made for the deep winter where warmth is the most important factor. This jacket is a probably a great option if you also want to have a fashionable jacket to wear in the city.
 
 <a href="http://amzn.to/2endumN" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+
+<hr>
+
+<h3><a href="http://amzn.to/2gZiVML" target="_blank" rel="nofollow">Fjällräven Arktis Parka (500fp)</a></h3>
+
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01M15A80Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01M15A80Q&linkCode=as2&tag=hikeve-20&linkId=16c5a28fb62372436348b1edd2b1c6c0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01M15A80Q&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01M15A80Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight:** 1945g
+
+The Fjällräven Arktis Parka is made for very cold conditions and keeps you warm even during low-intensity activities. The Fjällräven Arktis Parka and the Canada Goose Expedition Down Parka are the warmest jackets in our selection.
+
+<a href="http://amzn.to/2gZiVML" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+
+<hr>
+
+<h3><a href="http://amzn.to/2eGhePW" target="_blank" rel="nofollow">Canada Goose Expedition Down Parka (625fp)</a></h3>
+
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01KXUFDQC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01KXUFDQC&linkCode=as2&tag=hikeve-20&linkId=5aaf89773baa2dd8884a28b116bf9e3e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01KXUFDQC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01KXUFDQC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight:** 2070g
+
+The Canada Goose Expedition Down Parka was originally designed for scientists in Antarctica. This is probably the warmest jacket in our selection.
+
+<a href="http://amzn.to/2eGhePW" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 <hr>
 
