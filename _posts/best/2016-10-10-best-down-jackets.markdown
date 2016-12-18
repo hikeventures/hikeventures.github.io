@@ -23,7 +23,7 @@ Also, check one of our <a href="#video">packrafting videos</a> where we had down
 
 The down jackets we have selected have a fill power of 800 and more since they offer the best warmth-weight ratio and are considered to be lightweight down jackets and pack small and light. We have also included very warm down parkas with lower fill power but they are suitable for very cold conditions. Moreover, our selection includes 3-season down jacket as well as winter down jackets.
 
-The lighter jackets usually come with less down and are more suitable for warmer months or as a mid-layer during the winter. Some people also prefer synthetic insulation rather than down. However, keep in mind that synthetic insulation is more bulcky and offers less insulation than down.
+The lighter jackets usually come with less down and are more suitable for warmer months or as a mid-layer during the winter. Some people also prefer synthetic insulation rather than down. However, keep in mind that synthetic insulation is more bulcky and offers less insulation than down. Synthetic insulation might be a better choice in very damp or wet conditions.
 
 <hr>
 
