@@ -9,7 +9,7 @@ tags:
   - lamps
 layout: post
 ---
-Planning a winter trip in the North or just need a headlamp for the night? A good lightweight headlamp is an essential part for many outdoor activities likes hiking, running, cycling, packrafting, ski touring or climbing or any other backcountry trip. It can be a life saver and should always be in your backpack. Here is my <a href="#list">selection</a> of the best headlamps for 2016 - 2017. 
+Planning a winter trip in the North or just need a headlamp for the night? A good lightweight headlamp is an essential part for many outdoor activities likes hiking, running, cycling, packrafting, ski touring or climbing or any other backcountry trip. It can be a life saver and should always be in your backpack. Here is my <a href="#list">selection</a> of the best headlamps for 2016 - 2017.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/13975652752/in/photolist-GbSzpE-HnoEX7-GaxJVX-GXb3Qv-fBZbWn-qN9fdL-qeZAQ1-pJRcuY-oXDYGk-oXE2fB-pUdwjt-pEYKYc-pUotup-pSioYy-oJ8eZL-qGeLzL-o5eCPi-nKXNaZ-o1pT3W-nbZrcA-nbXFbR-n9UVEg-pF3ZMU-pvG9Af-oMnq8m-oCa2tz-ofA95w-o3ozXu-o1sHd9-nL2c9g-nKXHCH-nB97hW-nTASyZ-nge5dS-nhY6vf-nhYSEd-nqwZew-noqfLG-n9UL3q-nbX8MF-hXNm3Z-hXNmLH-hXMK7h-hXMq24-dXbkpf-dL8yRc-dNuTzR-dNAuXb-dNuWmP-dNuVEk" title="Best headlamps 2016 - 2017"><img src="https://c1.staticflickr.com/8/7037/13975652752_fbf38fb617_k.jpg" width="2048" height="1367" alt="Best headlamps 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -75,10 +75,6 @@ Personally, I like the Petzl Nao Plus most since it has plenty of features and a
 
 <hr>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-> On trips like in Northern Sweden we also had our headlamps with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
-
-<hr>
 
 <h3><a href="http://amzn.to/2gBew1C" rel="nofollow">Petzl Nao Plus</a></h3>
 

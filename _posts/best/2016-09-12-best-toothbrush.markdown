@@ -18,11 +18,6 @@ The compact design of of a travel toothbrush not only provides you with more spa
 
 <hr>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-> On trips like in Northern Sweden we also had our headlamps with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
-
-<hr>
-
 <h2><a href="http://amzn.to/2gbHMYG" rel="nofollow">GUM Travel Folding Soft Toothbrush</a></h2>
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00LV0JR2A/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LV0JR2A&linkCode=as2&tag=hikeve-20&linkId=25915233f3b700ea20fd19f4dfa083d9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00LV0JR2A&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00LV0JR2A" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

@@ -10,7 +10,7 @@ tags:
 layout: post
 ---
 
-Trekking and snowshoeing poles are especially useful if you have to walk up or down a mountain or if you have to walk in deep powder snow. You can also use those poles for nordic walking. In this blog post I have <a href="#list">selected</a> the best trekking and snowshoeing poles for 2016 - 2017 which I would consider to buy. 
+Trekking and snowshoeing poles are especially useful if you have to walk up or down a mountain or if you have to walk in deep powder snow. You can also use those poles for nordic walking. In this blog post I have <a href="#list">selected</a> the best trekking and snowshoeing poles for 2016 - 2017 which I would consider to buy.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24785831751/in/photolist-Dm1oBg-DUv9z4-DLeSfK-qNgY7t-DJ5oFY-Dm1YSa-DSbpUy-CWZxhh-Dm1SnM-DJ5qtf-DLeWra-CWZhq3-CX6ZLM-DsowUj-CWZoVY-DJ55xd-CWYQyo-CX6sRF-DUueLP-r3peJw" title="Best trekking and snowshoeing poles for 2016 - 2017"><img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="Best trekking and snowshoeing poles for 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -52,11 +52,6 @@ Trekking and snowshoeing poles are especially useful if you have to walk up or d
 
 ---
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IG-hPfj-d1M" frameborder="0" allowfullscreen></iframe>
-> Snowshoeing and skiing in Finnish Lapland. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
-
----
 
 Currently, I am using the Black Diamond Ultra Distance Z-Poles which are not made for snowshoeing as it's not possible to add snow baskets on those trekking poles. However, I have also used them on our snowshoeing trip in [Finnish Lapland][3] - Urho Kekkonen National Park - where I realised that snow baskets might be quite useful. For 3-season trips however they are great. You can see my trekking poles in action in our trip in [Swedish Lapland (Sarek National Park)][4]. Most recently, I have added a pair of dedicated snowshoe poles to my gear - the MSR Deploy TR-2 - which I have already tested in the [Austrian Alps][5].
 

@@ -51,11 +51,6 @@ As we are frequently on packrafting trips we are always interested to look out f
 <!--more-->
 <hr>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-> Our packrafting trip in the Sarek National Park in Sweden. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
-
-<hr>
-
 # How to choose the best PFD?
 The best PFD for your next packrafting adventure depends on where you are planning to packraft. Are you planning to packraft in a strong rapid then you probably need more capable PFD  than packrafting on a calm lake. Also when you plan to packraft in the open sea you should look for a PFD which can also handle stormy sea conditions as the weather can also change quickly on the sea. Of course, you should always check the weather conditions before you go packrafting on the sea. Packrafts are actually not meant to be used on the sea but we have also paddled on the Baltic Sea in Finland and it worked quite well with our windpaddle sail.
 

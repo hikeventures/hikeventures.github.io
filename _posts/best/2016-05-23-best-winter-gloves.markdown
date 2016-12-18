@@ -60,11 +60,6 @@ For my next snowshoeing trip in Lapland I was looking for a new pair of gloves o
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IG-hPfj-d1M" frameborder="0" allowfullscreen></iframe>
-> Snowshoeing and skiingi n Finnish Lapland. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
-
----
-
 ## Gloves or Mittens?
 Gloves give you more dexterity (that's the magic selling word in the world of goves manufactures) than mittens. However, mittens keep your fingers warmer than gloves.
 

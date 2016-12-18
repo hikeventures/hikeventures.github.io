@@ -58,12 +58,6 @@ From all sleeping pads I would probably recommend you the <a href="http://amzn.t
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-> On our packrafting trip in the Sarek National Park in Sweden we had sleeping pads with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
-
-
----
-
 <h3><a href="http://amzn.to/2dpbvAF" target="_blank" rel="nofollow">Therm-a-Rest NeoAir XLite</a></h3>
 
 **R-Value:** 3.2  

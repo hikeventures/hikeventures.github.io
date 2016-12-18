@@ -128,13 +128,6 @@ The Icebreaker Men's Zone One Sheep Suit is an all-in-one baselayer solution mad
 
 <hr>
 
-<div id="video">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-> On our packrafting trip in the Sarek National Park in Sweden we were wearing merino base layers. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
-</div>
-
-<hr>
-
 ## Conclusion
 The base layers above are all possible options if you plan a trip to colder regions. Selecting a base layer depends on the activity you are planning to do. For normal hiking or not that intense activities I would rather take a base layer which has more merino wool in it rather than synthetic fibres. It's also important that the base layer stays next to the skin so it can dry faster if you sweat. The choice is yours.
 

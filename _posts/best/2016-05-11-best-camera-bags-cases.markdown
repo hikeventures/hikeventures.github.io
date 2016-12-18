@@ -68,11 +68,6 @@ As I have recently upgraded my own camera, I was in need of a new camera case wh
 <hr>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-> On our packrafting trip in the Sarek National Park in Sweden we prootected our camera bag with a dry bag. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
-
-<hr>
-
 ## Best camera bags for hiking and backpacking
 
 When I plan to go hiking or backpacking I would like to have a camera bag where I can easily access my camera. My camera bag should also be water resistant or waterproof if I don't have space to carry my camera in my backpack in case the weather turns bad. Here are the camera bags and cases which I would consider for my next hiking or backpacking trip.

@@ -29,12 +29,6 @@ Are you planning a hiking, backpacking or packrafting trip in Scandinavia? Here 
 
 <hr>
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-> Our packrafting trip in the Sarek National Park in Sweden. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
-
-<hr>
-
 ### Sarek National Park in Sweden
 The Sarek National Park is one of the remotest areas in Sweden to visit. You can travel by train from Stockholm to Gällivare and then take a bus towards Suorva. Unfortunately, it is not allowed to packraft anymore in the Sarek National Park but it’s still one of the best places to visit if you are planning an extended outdoor adventure with a breathtaking scenery. Since there is no phone signal available you should consider taking some sort of GPS messenger with you especially if you travel alone. [Here](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) you can read more about our adventure in the Swedish mountains.
 

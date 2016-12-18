@@ -62,14 +62,6 @@ There are certain criteria you should look out when buying a new packrafting hel
 <hr>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-> Our packrafting trip in the Sarek National Park in Sweden. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
-
-<hr>
-
-
----
-
 ### [NRS WRSI Trident Composite Helmet](http://www.backcountry.com/nrs-wrsi-trident-composite-helmet)
 
 *Weight:* 848 grams

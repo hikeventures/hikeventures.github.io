@@ -51,16 +51,6 @@ In this blog post I would like to present the best backpacks with are available 
 
 <!--more-->
 
-
-<hr>
-
-<div id="video">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-> On our packrafting trip in the Sarek National Park in Sweden we had a HMG Porter with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
-</div>
-
-<!--more-->
-
 <hr>
 
 ## Features of a good packrafting backpack
