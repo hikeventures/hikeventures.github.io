@@ -192,7 +192,7 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Amazon Search Results";
-amzn_assoc_default_search_phrase = "a6300 accessories";
+amzn_assoc_default_search_phrase = "a6500 accessories";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
 </script>
