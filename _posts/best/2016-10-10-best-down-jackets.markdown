@@ -114,18 +114,6 @@ Similar as the Arcteryx Cerium LT Jacket just with a hoodie. We would pick the C
 
 <hr>
 
-<h3><a href="http://amzn.to/2elEHtO" target="_blank" rel="nofollow">Marmot Quasar Hoody (900fp)</a></h3>
-
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00DNNZ3KI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DNNZ3KI&linkCode=as2&tag=hikeve-20&linkId=UITTBILMF3IBYVRI"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DNNZ3KI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DNNZ3KI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Weight:** 372g
-
-The Marmot Quasar Hoody is also an interesting jacket with it's high down fill power covered by light Pertex Quantum fabric (similar as other models in our list) which makes it also somewhat water repellent. The additional zip on the front adds a little bit more weight to the jacket. We would wear the Marmot Quasar Hoody during moderate winter or camping during spring and summer.
-
-<a href="http://amzn.to/2elEHtO" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
-
-<hr>
-
 <h3><a href="http://amzn.to/2dBjOHV" target="_blank" rel="nofollow">Arcteryx Cerium SV Hoody (850fp)</a></h3>
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GW80Q9E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW80Q9E&linkCode=as2&tag=hikeve-20&linkId=WCQGDJJ5MREZ5EUX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW80Q9E&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW80Q9E" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
