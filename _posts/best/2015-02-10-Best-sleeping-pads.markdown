@@ -140,9 +140,6 @@ If you don't want to spend so much time inflating your sleeping pad then the The
 
 <a href="http://amzn.to/2dBNswR" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
-<hr>
-
-<a href="https://www.flickr.com/photos/90204224@N07/9599003854" title="Best sleeping pads 2016"><img src="https://c1.staticflickr.com/3/2882/9599003854_415a4828f0_o.jpg" width="992" height="661" alt="Best sleeping pads in 2016"></a>Sleeping bag in <a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/">Sarek National Park</a> in Sweden.
 
 <hr>
 
