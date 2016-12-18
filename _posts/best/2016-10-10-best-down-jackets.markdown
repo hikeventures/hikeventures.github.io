@@ -198,7 +198,7 @@ The Fjällräven Arktis Parka is made for very cold conditions and keeps you war
 
 <hr>
 
-<h3><a href="http://amzn.to/2eGhePW" target="_blank" rel="nofollow">Canada Goose Expedition Down Parka (625fp)</a></h3>
+<h3><a href="http://amzn.to/2hMJNwd" target="_blank" rel="nofollow">Canada Goose Expedition Down Parka (625fp)</a></h3>
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01KXUFDQC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01KXUFDQC&linkCode=as2&tag=hikeve-20&linkId=5aaf89773baa2dd8884a28b116bf9e3e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01KXUFDQC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01KXUFDQC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -206,7 +206,7 @@ The Fjällräven Arktis Parka is made for very cold conditions and keeps you war
 
 The Canada Goose Expedition Down Parka was originally designed for scientists in Antarctica. This is probably the warmest jacket in our selection.
 
-<a href="http://amzn.to/2eGhePW" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2hMJNwd" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 <hr>
 
