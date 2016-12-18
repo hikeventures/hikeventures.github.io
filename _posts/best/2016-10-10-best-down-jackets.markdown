@@ -49,9 +49,6 @@ The lighter jackets usually come with less down and are more suitable for warmer
         </tr>
 
         <tr>
-          <td><a href="http://amzn.to/2e7TgPr" target="_blank" rel="nofollow">Western Mountaineering Flash Jacket (850fp)</a></td><td>290g</td>
-        </tr>
-        <tr>
           <td><a href="http://amzn.to/2eGhePW" target="_blank" rel="nofollow">Canada Goose Hybridge Lite Jacket (800fp)</a></td><td>331g</td>
         </tr>
 
@@ -73,10 +70,6 @@ The lighter jackets usually come with less down and are more suitable for warmer
 
         <tr>
           <td><a href="http://amzn.to/2e7V1Mx" target="_blank" rel="nofollow">Rab Positron Jacket (800fp)</a></td><td>720g</td>
-        </tr>
-
-        <tr>
-          <td><a href="http://amzn.to/2e2FVXu" target="_blank" rel="nofollow">The North Face Immaculator Parka (800fp)</a></td><td>720g</td>
         </tr>
 
         <tr>
@@ -129,18 +122,6 @@ The Mountain Hardware Ghost Whisperer Hooded Down Jacket is one of the lightest 
 Similar as the Arcteryx Cerium LT Jacket just with a hoodie. We would pick the Cerium LT Hoody if we would have to choose a down jacket for moderate winter or for camping during spring and autumn. LT stands for lightweight in the Arcteryx product line.
 
 <a href="http://amzn.to/2doJmJP" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
-
-<hr>
-
-<h3><a href="http://amzn.to/2e7TgPr" target="_blank" rel="nofollow">Western Mountaineering Flash Jacket (850fp)</a></h3>  
-
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00O85G9XA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00O85G9XA&linkCode=as2&tag=hikeve-20&linkId=T3YZSF3ZRC6WCK3I" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00O85G9XA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00O85G9XA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/>
-
-**Weight:** 290g
-
-The Western Mountaineering Flash Jacket is a very good jacket for hiking trips in moderate cold conditions (spring and autumn). It's lightweight, has a good warmth-weight ratio and the full zipper have insulated draft protection.
-
-<a href="http://amzn.to/2e7TgPr" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 <hr>
 
@@ -213,18 +194,6 @@ The  Rab Infinity Endurance Jacket is a technical alpine or mountaineering jacke
 The  Rab Positron Jacket is proper box-wall down winter jacket with a water-resistant outer fabric. The manufacturer claims that it has been designed for mountain and expedition use up to 6000m. This jacket delivers about 30% more warmth than the Rab Infinity Endurance jacket.
 
 <a href="http://amzn.to/2e7V1Mx" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
-
-<hr>
-
-<h3><a href="http://amzn.to/2e2FVXu" target="_blank" rel="nofollow">The North Face Immaculator Parka (800fp)</a></h3>
-
-<a rel="nofollow" href="https://www.amazon.com/gp/product/B019ZZERV8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019ZZERV8&linkCode=as2&tag=hikeve-20&linkId=2307870a534b0fcdf26a7a4c77eb1f56"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B019ZZERV8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B019ZZERV8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Weight:** 720g
-
-The North Face Immaculator Parka features an alpine fit and is made for those very cold days. It also has a fixed adjustable helmet-compatible hood as well as a zip hand and internal chest pockets.
-
-<a href="http://amzn.to/2e2FVXu" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
 
 <hr>
 
