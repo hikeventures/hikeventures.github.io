@@ -50,7 +50,7 @@ The lighter jackets usually come with less down and are more suitable for warmer
 
 
         <tr>
-          <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Marmot Quasar Hoody (850fp)</a></td><td>371g</td>
+          <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Marmot Quasar Hoody (850fp)</a></td><td>372g</td>
         </tr>
         <tr>
           <td><a href="http://amzn.to/2dBjOHV" target="_blank" rel="nofollow">Arcteryx Cerium SV Hoody (850fp)</a></td><td>440g</td>
