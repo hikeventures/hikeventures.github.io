@@ -187,7 +187,7 @@ There are several criterias you should take into consideration when you are plan
 ---
 
 ## Conclusion
-So which are the best snowshoes for 2016? My preference goes towards a light snowshoe which has a good grip in the backcountry and in the mountains. I would probably choose the <a href="http://www.amazon.com/gp/product/B00LFJNHQ4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNHQ4&linkCode=as2&tag=hikeve-20&linkId=YIDJETI36CMR7GF4" rel="nofollow" target="_blank">MSR Lightning Ascent</a>. The <a href="http://amzn.to/2ea20qB" target="_blank" rel="nofollow">MSR Revo Ascent 25</a> would be my second choice because of the additional weight. The advantage of the MSR Revo Ascent 25 over the MSR Lightning Ascent is that it is a bit more durable. MSR has provided us both snowshoes for testing. Previously, I also had the Tubbs Xpedition 25 which were also good snowshoes. However, I prefer the MSR because they are a bit lighter.
+So which are the best snowshoes for 2016? My preference goes towards a light snowshoe which has a good grip in the backcountry and in the mountains. I would probably choose the <a href="http://www.amazon.com/gp/product/B00LFJNHQ4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNHQ4&linkCode=as2&tag=hikeve-20&linkId=YIDJETI36CMR7GF4" rel="nofollow" target="_blank">MSR Lightning Ascent</a>. The <a href="http://amzn.to/2ea20qB" target="_blank" rel="nofollow">MSR Revo Ascent 25</a> would be my second choice because of the additional weight. The advantage of the MSR Revo Ascent 25 over the MSR Lightning Ascent is that it is a bit more durable. Previously, I also had the Tubbs Xpedition 25 which were also good snowshoes. However, I prefer the MSR because they are a bit lighter.
 
 ---
 
@@ -209,7 +209,7 @@ amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
 
 ---
 
-Disclaimer: We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new products. This blog post contains affiliate links.
+Disclaimer: We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new products. This blog post contains affiliate links. MSR has provided us the snowshoes mentioned in this article.
 
 ---
 
