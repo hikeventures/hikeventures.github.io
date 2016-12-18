@@ -156,13 +156,9 @@ Considering your own body and gear weight is important when choosing your snowsh
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24785831751/in/photolist-Dm1oBg-DJ5oFY-Dm1YSa-DSbpUy-CWZxhh-DUv9z4-DLeSfK-DLeWra-CWZhq3-DsowUj-CWZoVY-DJ55xd-CWYQyo-CX6sRF-DUueLP-Dm1SnM-DJ5qtf-CX6ZLM-r3peJw-qNgY7t" title="MSR Lightning Ascent and MSR Flight 2"><img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="MSR Lightning Ascent and MSR Flight 2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
----
-
 ## How to choose snowshoes?
 
-There are several criterias you should take into consideration when you are planning to buy snowshoes:
+There are several aspects you should take into consideration when you are planning to buy snowshoes:
 
 * Weight (for running or carrying you should choose lighter snowshoes)
 * Application e.g. aerobic, running, recreational or for mountaineering
