@@ -64,7 +64,7 @@ Planning to go hiking, backpacking or any other backcountry adventure? Then you 
 
 The Montane Minimus pants are super light and pack easily into every backpack. These are great waterproof pants for the warmer months. These pants do also have zippers on the lower part of the leg so you can pull them on and off even with boots on.
 
-<a href="/deals/#montane+minimus+pant" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#montane+minimus+pant" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
 
 ---
 
@@ -77,7 +77,7 @@ The Montane Minimus pants are super light and pack easily into every backpack. T
 
 The Montane Atomic Pants are a bit more durable than the Montane Minimus Pants but comes with 44 grams more weight. Also a great choice if you go hiking in the mountains during the warmer months.
 
-<a href="/deals/#montane+atomic+pant" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#montane+atomic+pant" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
 
 ---
 
@@ -90,7 +90,7 @@ The Montane Atomic Pants are a bit more durable than the Montane Minimus Pants b
 
 The Mountain Hardwear Plasmic Pants are slightly more heavy than the Montane pants but they come with some additional features. These pants have articulated knees which increases your mobility and also a bag with a zipper where you can store small items. If you need to have a pocket on your waterproof pants then go for this model.
 
-<a href="/deals/#mountain+hardwear+plasmic+pant" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#mountain+hardwear+plasmic+pant" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
 
 ---
 
@@ -103,7 +103,7 @@ The Mountain Hardwear Plasmic Pants are slightly more heavy than the Montane pan
 
 The Rab Fuse Pants are the lightest-weight waterproof pants from Rab. They also feature knee articulation.
 
-<a href="/deals/#rab+fuse+pant" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#rab+fuse+pant" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
 
 ---
 
@@ -114,7 +114,7 @@ The Rab Fuse Pants are the lightest-weight waterproof pants from Rab. They also 
 
 The Haglöfs L.I.M. III pants are part of Haglöfs Ultralight product range and quite popular in Scandinavia. The zippers on the legs help to put those pants on while wearing hiking boots.
 
-<a href="/deals/#haglofs+lim+III+pant" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#haglofs+lim+III+pant" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
 
 ---
 
@@ -127,7 +127,7 @@ The Haglöfs L.I.M. III pants are part of Haglöfs Ultralight product range and 
 
 SL stands for Super Light in the Arcteryx product range. This model is reinforced in key wear areas, has articulated knees but only comes with lower leg zippers.
 
-<a href="/deals/#arcteryx+beta+sl+pant" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#arcteryx+beta+sl+pant" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
 
 ---
 
@@ -140,7 +140,7 @@ SL stands for Super Light in the Arcteryx product range. This model is reinforce
 
 The Rab Firewall Pants are made for active use during winter. The Rab Firewall pants comes with an elasticated waistband and knee articulations and are compatible with winter boots.
 
-<a href="/deals/#rab+firewall+pant" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#rab+firewall+pant" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
 
 <a href="https://www.flickr.com/photos/90204224@N07/9598980244" title="Montane Minimus Pants"><img src="https://farm4.staticflickr.com/3767/9598980244_fccc7cd8c6_b.jpg" width="1024" height="683" alt="Montane Minimus Pants"></a>
 

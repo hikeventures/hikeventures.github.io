@@ -75,7 +75,7 @@ The HMG Windrider is similar as the HMG Porter 4400 but comes already with three
 **Volume:** 70l  
 **Fabric:** 15D Cuben Fiber  
 
-<a href="/deals/#windrider+4400" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#windrider+4400" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
 
 <hr>
 
@@ -90,7 +90,7 @@ This is my current backpack with a volume of 70l. It felt comfortable to carry a
 **Volume:** 70l  
 **Fabric:** 15D Cuben Fiber
 
-<a href="/deals/#Porter+4400" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#Porter+4400" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
 
 ---
 
@@ -101,7 +101,7 @@ The Sea to Summit Hydraulic Dry Packs looked to me as an interesting alternative
 **Volume:** 90l  
 **Fabric:** 600D TPU laminated fabric
 
-<a href="/deals/#Sea+to+summit+hydraulic+dry+pack" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#Sea+to+summit+hydraulic+dry+pack" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
 
 ---
 
@@ -111,7 +111,7 @@ The ULA Epic seems to be the best choice beside the NRS Paragon Pack if I want t
 **Weight:** 922 grams (without dry sack)  
 **Volume:** 30-75l  
 
-<a href="/deals/#ula+epic" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#ula+epic" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
 
 ---
 
@@ -120,7 +120,7 @@ The NRS Paragon Pack is quite versatile like the ULA Epic and you can use smalle
 
 **Weight:** 1179 grams (without dry sack)
 
-<a href="/deals/#nrs+paragon+pack" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#nrs+paragon+pack" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
 
 ---
 

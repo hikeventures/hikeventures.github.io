@@ -86,7 +86,7 @@ The Big Agnes Fly Creek HV UL1 is a 1-person and 3-season tent.
 
 The Big Agnes Fly Creek HV UL1 is a new product in the Big Agnes Ultralight tent range. It is a bit longer and taller than the Hilleberg Enan but has a smaller vestibule. Fly and floor have 1200mm waterproof polyurethane coating.
 
-<a href="/deals/#big+agnes+fly+creek+UL1" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#big+agnes+fly+creek+UL1" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
 
 <hr>
 
@@ -106,7 +106,7 @@ The Hilleberg Enan is a 1-person and 3-season tent.
 
 The Hilleberg Enan is the ultralight model of the Akto. If you don't require much space and use your tent only during the warmer months (3-season) then the Hilleberg Enan might be a good option. This type of tent is good for fast pack and go. If you are more into base camping, are very tall or want to have more space e.g. during a longer period of rain then the Hilleberg Nallo would be a better choice. The Enan has a mesh on one end which should provide great ventilation if pitched in wind direction.
 
-<a href="/deals/#Hilleberg+Enan" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#Hilleberg+Enan" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
 
 <hr>
 
@@ -123,7 +123,7 @@ The Marmot Force UL 2P is a freestanding 3-season tent for two persons.
 
 Even so the Marmot Force UL 2P is advertised as a 2 person tent, I would rather use it as a 1 person tent. As the tent has a rather thin floor, I would also get a [tent footprint](http://www.backcountry.com/marmot-force-ul-2p-footprint) with this tent. If you are looking for a light 3-season tent then the Marmot UL 2P could be a good option. I have used the Marmot Force UL 2P on my trips in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/) and [Norway](http://www.hikeventures.com/Finnmark/). Marmot provided us the tent for testing.
 
-<a href="/deals/#marmot+Force+UL" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#marmot+Force+UL" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
 
 <hr>
 
@@ -143,7 +143,7 @@ The Hilleberg Akto is a 1-person and 4-season tent.
 
 The Hilleberg Akto is the 4-season model of the Hilleberg Enan and more suitable for harsh weather conditions than the Hilleberg Enan. It is a bit longer than the Hilleberg Enan and more suitable if you are taller. This comes at an additional weight of 600 grams. However, [condensation](http://dzjow.com/2011/11/21/9-years-with-a-hilleberg-akto/ "Codensation Hilleberg") might be an issue with this tent (also reported [here](http://www.backpacking.net/hilleberg-akto-review.html#condensation "condensation Hilleberg") which is of course bad if you plan a longer tour with a down sleeping bag and you face a long period or rain or moisture where you are not able to dry your sleeping bag during the day. Another reason why I would opt for a bigger tent like the Hilleberg Nallo 2 rather than the Hilleberg Soulo if you need a 4-season tent is because it's less likely that your sleeping bag touches the inner tent if you have a longer and wider tent.
 
-<a href="/deals/#Hilleberg+Akto" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#Hilleberg+Akto" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
 
 <hr>
 
@@ -161,7 +161,7 @@ The Hilleberg Niak 1.5 is a freestanding 1-2 person tent for 3-seasons.
 
 The Hilleberg Niak 1.5 is the latest yellow label tent from Hilleberg. If you need more space than in the Hilleberg Enan e.g. if there is a longer rain period where you have to sit in the tent or if you want to take your dog with you. The Hilleberg Niak 1.5 is more a 1-person rather han a 2-person tent and comes with a vestibule to store your gear. If you need a spacious solo 3-season tent then the Hilleberg Niak 1.5 could be a good choice if you are looking for a tent with low weight. Alternatively, I would choose the MSR Hubba Hubba NX which is also less pricey and offers slightly more room.
 
-<a href="/deals/#Hilleberg+Niak" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#Hilleberg+Niak" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
 
 <hr>
 
@@ -179,7 +179,7 @@ The MSR Hubba NX is a freestanding 3-season 1-person tent.
 
 The MSR Hubba NX is also a great 3-season tent and costs much less than the Hilleberg Niak 1.5. However, the Hilleberg has a stronger floor material (50D). If you are low on budget then the MSR Hubba would be our pick. If you want a freestanding 4-season tent then go for the Hilleberg Soulo.
 
-<a href="/deals/#MSR+Hubba+NX" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#MSR+Hubba+NX" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
 
 <hr>
 
@@ -201,7 +201,7 @@ The Hilleberg Akto is a 1-person and 4-season tent.
 
 The Hilleberg Soulo is a solo expedition tent which can be used under very harsh condition. It's stronger than the Hilleberg Unna and has a designated vestibule, however the inner tent offers less space than the Unna. This tent could (like the Unna) be useful for sea kayaking or mountaineering as it is completely freestanding. It's a bit heavier and shorter than the Unna. If you don't need a self-standing 4-season tent then I would choose the MSR Hubba NX or the MSR Hubba Hubba NX (2-person tent) if you need more space. If you don't plan to do winter camping then the Hilleberg Soulo is probably going to be too much tent for your needs.
 
-<a href="/deals/#Hilleberg+Akto" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#Hilleberg+Akto" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
 
 <hr>
 
@@ -221,7 +221,7 @@ The Hilleberg Akto is a 1-person and 4-season tent.
 
 The Hilleberg Nallo is probably the best choice if you want a 4-season tent which offers the most space and a vestibule for the least weight. If you don't need a freestanding tent and want the best weight/space ratio 4-season tent then you should pick the Hilleberg Nallo.
 
-<a href="/deals/#Hilleberg+Nallo" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#Hilleberg+Nallo" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
 
 <hr>
 
@@ -239,7 +239,7 @@ The Hilleberg Akto is a 2-person and 4-season tent.
 
 If you are looking for a fast and light tent which also protects you from bugs then the Hyperlite Mountain Gear UltaMid 2 could be your choice. The UltaMid 2 is an ultralight tent which is supposed to work well in bad weather. I took the picture above of the UltaMid 2 tent on the <a href="http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/">packrafting round-up in Sweden</a>. There were actually 2 of those Ultra-Mids on this event. The only issue I have with the white cuben fiber fabric is that it might lose it's shiny white color after a while. That's why I ordered my Hyperlite Mountain Gear Porter 4400 backpack a few years ago in black.
 
-<a href="/deals/#UltaMid" target="_blank"><button type="button" class="btn btn-warning">Check for Discounts</button></a>
+<a href="/deals/#UltaMid" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
 
 <hr>
 

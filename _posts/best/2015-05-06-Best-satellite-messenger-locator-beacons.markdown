@@ -97,7 +97,7 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 * Pair with mobile devices
 * Message size: 160 characters
 
-<a href="http://amzn.to/2e39EPT" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
+<a href="http://amzn.to/2e39EPT" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -113,7 +113,7 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 * Barometric Altimeter & Accelerometer
 * weight: 190 grams
 
-<a href="http://amzn.to/2e39SXr" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
+<a href="http://amzn.to/2e39SXr" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -128,7 +128,7 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 * Message size: 41 characters
 * Weight 114 grams
 
-<a href="http://amzn.to/2eTKIN3" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
+<a href="http://amzn.to/2eTKIN3" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -143,7 +143,7 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 * No messaging
 * Weight: 153 grams
 
-<a href="http://amzn.to/2e39b0g" target="_blank" rel="nofollow"><button type="button" class="btn btn-warning">Buy on Amazon</button></a>
+<a href="http://amzn.to/2e39b0g" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 

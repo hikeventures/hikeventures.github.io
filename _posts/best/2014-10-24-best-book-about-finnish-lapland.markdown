@@ -3,7 +3,7 @@ title: Best book about Finnish Lapland
 description: Need a good book about Finnish Lapland. This is the one.
 date: 2014-10-24 17:27:50
 category: reviews
-tags: 
+tags:
   - reviews
   - books
   - finland
@@ -37,6 +37,6 @@ The book is structured:
 The text is easy to read and suported by many color picturs, topographical maps, route descriptions and small illustrations on what can be found on the trails and how long it takes to complete them. There is also a translation of the species list available in English, Scientific, German and Dutch.
 
 ## Conclusion
-The Crossbill Guide for Finnish Lapland including Kuusamo is a very good book which introduces you to the main hiking routes in Finnish Lapland, it's history, climate and flora and fauna (e.g. boreal forest, bogs, birds, insects  or the differences between national parks, strict nature reserves or wilderness reserves etc.). I would definitely recommend it for your bookshelf. 
+The Crossbill Guide for Finnish Lapland including Kuusamo is a very good book which introduces you to the main hiking routes in Finnish Lapland, it's history, climate and flora and fauna (e.g. boreal forest, bogs, birds, insects  or the differences between national parks, strict nature reserves or wilderness reserves etc.). I would definitely recommend it for your bookshelf.
 
 You can get the book at Amazon <a rel="nofollow" href="http://amzn.to/1z4hw9m" target="_blank">US</a> or <a href="http://amzn.to/1trCRWQ" target="_blank">EU</a>.
