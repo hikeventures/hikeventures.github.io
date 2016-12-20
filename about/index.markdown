@@ -21,7 +21,7 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
 
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 
-            <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27117236211/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://c4.staticflickr.com/8/7435/27117236211_aee9dd55ee_b.jpg" width="100%" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br><br>   
+
 
             </div>
 
@@ -143,8 +143,6 @@ email: <a href="mailto:contact@hikeventures.com">contact@hikeventures.com</a>
 
 <hr>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-<br>
-On our packrafting trip in the Sarek National Park in Sweden. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27117236211/in/dateposted-public/" title="HikeVentures Hiking and Packrafting Blog"><img src="https://c4.staticflickr.com/8/7435/27117236211_aee9dd55ee_b.jpg" width="100%" alt="HikeVentures Hiking and Packrafting Blog"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br><br>  
 
 </div>
