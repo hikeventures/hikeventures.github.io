@@ -16,10 +16,8 @@ published: true
 
 
                 <h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
-                {% if post.tags.size > 0 %}
-                  Tag{% if post.tags.size > 1 %}s{% endif %}:
-                  {{ post.tags | sort | join: ", " }}
-                {% endif %}
+              
+                {{ post.tags | sort | join: ", " }}
                 <div class="post-content" itemprop="articleBody">
                     {{ content }}
 
