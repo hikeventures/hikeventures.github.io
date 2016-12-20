@@ -12,7 +12,14 @@ published: true
                 {% else %}
                 <span class="post-meta">{{ page.date | date: date: "%-d %B %Y" }}</span>
                 {% endif %}
+
+
+
                 <h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
+                {% if post.tags.size > 0 %}
+                  Tag{% if post.tags.size > 1 %}s{% endif %}:
+                  {{ post.tags | sort | join: ", " }}
+                {% endif %}
                 <div class="post-content" itemprop="articleBody">
                     {{ content }}
 
