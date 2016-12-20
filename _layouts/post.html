@@ -16,8 +16,8 @@ published: true
 
 
                 <h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
-              
-                {{ post.tags | sort | join: ", " }}
+
+                {{ post.tags}}
                 <div class="post-content" itemprop="articleBody">
                     {{ content }}
 
