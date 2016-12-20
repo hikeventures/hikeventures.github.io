@@ -7,7 +7,11 @@ published: true
     <div class="row">
         <div class="col-sm-7 col-lg-7 col-md-7 col-xs-12 page-content-content">
             <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+              {% if page.update_date %}
+                <span class="post-meta">{{ site.text.post.updated }}: {{ page.update_date | date: "%b %-d, %Y" }}</span>
+                {% else %}
                 <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span>
+                {% endif %}
                 <h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
                 <div class="post-content" itemprop="articleBody">
                     {{ content }}

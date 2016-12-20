@@ -4,6 +4,8 @@ permalink: /:title/
 highlighter: rouge
 markdown: kramdown
 excerpt_separator: <!--more-->
+
+site.text.post.updated : Last updated
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
