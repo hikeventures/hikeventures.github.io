@@ -10,7 +10,7 @@ published: true
 ---
 
 <div class="my-fluid-container">
-<img src="http://www.hikeventures.com/post_subscribe.png">
+
 <h2> HikeVenturers</h2>
 HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoeing, cycling and urban microadventures. We <a href="http://www.hikeventures.com/destinations/">adventure</a> mainly in Europe but sometimes we also visit places like Japan or Russia. HikeVentures was established in 2012.
 
@@ -22,6 +22,7 @@ HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoein
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 
 
+            <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27117236211/in/dateposted-public/" title="HikeVentures Hiking and Packrafting Blog"><img src="https://c4.staticflickr.com/8/7435/27117236211_aee9dd55ee_b.jpg" width="100%" alt="HikeVentures Hiking and Packrafting Blog"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br><br>  
 
             </div>
 
@@ -142,7 +143,6 @@ phone: +358 50 572 84 89<br>
 email: <a href="mailto:contact@hikeventures.com">contact@hikeventures.com</a>
 
 <hr>
-
-  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27117236211/in/dateposted-public/" title="HikeVentures Hiking and Packrafting Blog"><img src="https://c4.staticflickr.com/8/7435/27117236211_aee9dd55ee_b.jpg" width="100%" alt="HikeVentures Hiking and Packrafting Blog"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br><br>  
+<img src="http://www.hikeventures.com/post_subscribe.png">
 
 </div>
