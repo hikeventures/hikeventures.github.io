@@ -142,7 +142,7 @@ The Netherlands<br><br>
 phone: +358 50 572 84 89<br>
 email: <a href="mailto:contact@hikeventures.com">contact@hikeventures.com</a>
 
-<hr>
+<hr><center>
 <img src="http://www.hikeventures.com/post_subscribe.png">
-
+</center>
 </div>
