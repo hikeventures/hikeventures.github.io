@@ -13,8 +13,14 @@
             <a href="{{ site.url }}"><img src="/HV_logo.png" height="100px"></a>
         </div>
         <div class="header-title">
-
-                <h1>HIKE VENTURES</h1>
+{% if page.is_post == true %}
+				
+          <p style="font-size:42px">HIKE VENTURES</p>
+          
+          {% else %}
+                   <h1>HIKE VENTURES</h1>
+          {% endif %}
+          
             <h4>Hiking & Packrafting Adventures</h4>
             <nav class="navbar navbar-default" role="navigation">
                 <div class="navbar-header">
