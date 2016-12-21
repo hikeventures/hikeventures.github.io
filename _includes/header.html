@@ -1,22 +1,10 @@
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
 <header>
     <div class="wrapper">
         <div class="header-logo">
             <a href="{{ site.url }}"><img src="/HV_logo.png" height="100px"></a>
         </div>
         <div class="header-title">
-
-          <h1>HIKE VENTURES</h1>
- 
-          
+            <h1>HIKE VENTURES</h1>
             <h4>Hiking & Packrafting Adventures</h4>
             <nav class="navbar navbar-default" role="navigation">
                 <div class="navbar-header">
@@ -33,8 +21,9 @@
                         <li{% if page.url == '/' %} class="active"{% endif %}><a href="/">Blog</a></li>
                         <li{% if page.url == '/destinations/' %} class="active"{% endif %}><a href="/destinations/">Destinations</a></li>
                         <li{% if page.url == '/gear-reviews/' %} class="active"{% endif %}><a href="/gear-reviews/">Gear Reviews</a></li>
+                        <li{% if page.url == '/blogs/' %} class="active"{% endif %}><a href="/blogs/">Links</a></li>
                         <li{% if page.url == '/archive/' %} class="active"{% endif %}><a href="/archive/">Archive</a></li>
-
+                        <li><a href="http://www.feedio.co/@hikeventures/">RSS</a></li>
                     </ul>
                 </div>
             </nav>
@@ -42,7 +31,7 @@
         <div class="header-links">
             <a href="https://www.instagram.com/hikeventures/" class="instagram"></a>
             <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw" class="youtube"></a>
-            <a href="http://www.hikeventures.com/rss.xml" class="rss"></a>
+            <a href="http://www.feedio.co/@hikeventures/" class="rss"></a>
         </div>
     </div>
 </header>
@@ -53,8 +42,8 @@
         <a href="/"{% if page.url == '/' %} class="active"{% endif %}>Blog</a>
         <a href="/destinations/"{% if page.url == '/destinations/' %} class="active"{% endif %}>Destinations</a>
         <a href="/gear-reviews/"{% if page.url == '/gear-reviews/' %} class="active"{% endif %}>Gear Reviews</a>
+        <a href="/blogs/"{% if page.url == '/blogs/' %} class="active"{% endif %}>Links</a>
         <a href="/archive/"{% if page.url == '/archive/' %} class="active"{% endif %}>Archive</a>
-
     </div>
     <div class="mobile-menu-cross"><a onclick="$('#mobile-menu').removeClass('showed')">×</a></div>
     <div class="mobile-menu-social">
@@ -63,6 +52,6 @@
         <a href="https://www.flickr.com/photos/90204224@N07/" class="flickr"></a>
         <a href="https://twitter.com/HikeVentures" class="twitter"></a>
         <a href="https://www.facebook.com/HikeVentures" class="facebook"></a>
-        <a href="http://www.hikeventures.com/rss.xml" class="rss"></a>
+        <a href="http://www.feedio.co/@hikeventures/" class="rss"></a>
     </div>
 </div>
