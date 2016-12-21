@@ -8,7 +8,7 @@ published: true
         <div class="col-sm-12 col-lg-12 col-md-12 col-xs-12 page-content-content">
             <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
                 <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span>
-                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                <h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
                 <div class="post-content" itemprop="articleBody">
                     {{ content }}
                     <img src="/post_subscribe.png" style="max-width:654px;" class="subscribe-image">
