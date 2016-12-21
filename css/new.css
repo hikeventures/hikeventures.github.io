@@ -784,17 +784,13 @@ header > .wrapper, footer > .wrapper, .page-content > .wrapper {
     header nav.navbar-default ul.nav.navbar-nav li.active {
         display: block;
     }
-
     header h1 {
         font-size: 28px;
         padding-top: 18px;
     }
     
     
-    header p #myHeader {
-     font-size: 28px;
-     padding-top: 18px;
-}
+
     
 
     header h4 {
