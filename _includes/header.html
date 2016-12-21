@@ -21,9 +21,8 @@
                         <li{% if page.url == '/' %} class="active"{% endif %}><a href="/">Blog</a></li>
                         <li{% if page.url == '/destinations/' %} class="active"{% endif %}><a href="/destinations/">Destinations</a></li>
                         <li{% if page.url == '/gear-reviews/' %} class="active"{% endif %}><a href="/gear-reviews/">Gear Reviews</a></li>
-                        <li{% if page.url == '/blogs/' %} class="active"{% endif %}><a href="/blogs/">Links</a></li>
                         <li{% if page.url == '/archive/' %} class="active"{% endif %}><a href="/archive/">Archive</a></li>
-                        <li><a href="http://www.feedio.co/@hikeventures/">RSS</a></li>
+                        <li><a href="http://www.hikeventures.com/rss.xml">RSS</a></li>
                     </ul>
                 </div>
             </nav>
@@ -31,7 +30,7 @@
         <div class="header-links">
             <a href="https://www.instagram.com/hikeventures/" class="instagram"></a>
             <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw" class="youtube"></a>
-            <a href="http://www.feedio.co/@hikeventures/" class="rss"></a>
+            <a href="http://www.hikeventures.com/rss.xml" class="rss"></a>
         </div>
     </div>
 </header>
@@ -42,7 +41,6 @@
         <a href="/"{% if page.url == '/' %} class="active"{% endif %}>Blog</a>
         <a href="/destinations/"{% if page.url == '/destinations/' %} class="active"{% endif %}>Destinations</a>
         <a href="/gear-reviews/"{% if page.url == '/gear-reviews/' %} class="active"{% endif %}>Gear Reviews</a>
-        <a href="/blogs/"{% if page.url == '/blogs/' %} class="active"{% endif %}>Links</a>
         <a href="/archive/"{% if page.url == '/archive/' %} class="active"{% endif %}>Archive</a>
     </div>
     <div class="mobile-menu-cross"><a onclick="$('#mobile-menu').removeClass('showed')">×</a></div>
