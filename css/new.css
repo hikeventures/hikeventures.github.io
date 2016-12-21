@@ -46,7 +46,7 @@ header .header-title {
     position: relative;
 }
 
-header h1 {
+header p {
     padding-top: 52px;
     font-family: 'Norwester', sans-serif;
     font-size: 42px;
@@ -777,7 +777,7 @@ header > .wrapper, footer > .wrapper, .page-content > .wrapper {
         display: block;
     }
 
-    header h1 {
+    header p {
         font-size: 28px;
         padding-top: 18px;
     }
