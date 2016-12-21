@@ -7,34 +7,22 @@ published: true
     <div class="row">
         <div class="col-sm-7 col-lg-7 col-md-7 col-xs-12 page-content-content">
             <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-                
                 <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span>
-              
-
-
-
-                <h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
-
-
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ page.title }}</a>
                 <div class="post-content" itemprop="articleBody">
                     {{ content }}
-
-                    <img src="/post_subscribe.png" class="subscribe-image" style="max-height: 297px; max-width: 654px;">
+                    <img src="/post_subscribe.png" class="subscribe-image">
                     <br>
                     <b>Comment on this post</b> on our <a href="https://www.facebook.com/HikeVentures/">Facebook
                     page</a> or on <a
-                        href="https://twitter.com/HikeVentures">Twitter</a>, check out our adventures on <a href="https://www.instagram.com/hikeventures/" rel="nofollow" target="_blank">Instagram</a> or watch us packrafting on <a
-                        href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube</a>.
-
-
+                        href="https://twitter.com/HikeVentures">Twitter</a> or watch one of our <a
+                        href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw">YouTube videos</a>.
                     <div class="post-subscribe">
-                      <form action='http://www.feedio.co/@hikeventures/verify' id='subscribe_widget_hikeventures' method='post' style='border:0px solid #ccc;padding:0px;text-align:left;' target='popupwindow'>
-                      Get our latest adventures and gear reviews straight into your mailbox. You can unsubscribe at any time.<br><br>
-                      Enter your email address: &nbsp;<input name='email' id='email_input' style='width:200px' type='text' placeholder="Email">&nbsp;<input style="color: white !important; background-color:#FF8000 !important;" type='submit' value='Join us!'>
-                      </form>
+                        <form action='http://www.feedio.co/@hikeventures/verify' id='subscribe_widget_hikeventures' method='post' style='border:0px solid #ccc;padding:0px;text-align:left;' target='popupwindow'>
+                        Subscribe to our <a href="http://www.feedio.co/@hikeventures/">RSS feed</a> or newsletter with our latest posts. You can unsubscribe any time.<br><br>
+                        Enter your email address: &nbsp;<input name='email' id='email_input' style='width:200px' type='text' placeholder="Email">&nbsp;<input style="color: white !important; background-color:#FF8000 !important;" type='submit' value='Join us!'>
+                        </form>
                     </div>
-
-
                     <div class="relatedPosts">
                         Related posts:
                         {% comment %}---> the maximum number of related to posts
@@ -96,9 +84,57 @@ published: true
                 </div>
             </article>
         </div>
-
-</div>
-
-
-
+        <div class="col-sm-1 col-lg-1 col-md-1 col-xs-12 page-content-divider"></div>
+        <div class="col-sm-4 col-lg-4 col-md-4 col-xs-12 page-content-sidebar">
+            <div class="sidebar-title">
+                <a href="/archive/"><span class="icon"></span>RECENT POSTS</a>
+            </div>
+            <div class="recent-posts">
+                {% for post in site.posts limit:5 %}
+                <a class="recent-post" href="{{ BASE_PATH }}{{ post.url }}">
+                    <span class="recent-post-date">{{ post.date | date_to_string }}</span>
+                    <span class="recent-post-title" >{{ post.title }}</span>
+                </a>
+                {% endfor %}
+            </div>
+            <div class="sidebar-title">
+                <a href="https://www.instagram.com/hikeventures/"><span class="icon"></span>HikeVentures</a>
+            </div>
+            <div class="sidebar-image">
+                <a class="thumbnail" href="https://www.instagram.com/p/7QBFDcLtcu/">
+                    <img src="https://farm2.staticflickr.com/1610/23772985064_3fbd9bc04d.jpg" alt="">
+                    <div class="overlay"></div>
+                    <span class="caption">Japan</span>
+                </a>
+            </div>
+            <div class="sidebar-image">
+                <a class="thumbnail" href="https://www.instagram.com/p/BAmCJxHLtYA/">
+                    <img src="https://farm2.staticflickr.com/1567/24352382561_1ff06e93d3.jpg" alt="">
+                    <div class="overlay"></div>
+                    <span class="caption">Finland</p></span>
+                </a>
+            </div>
+            <div class="sidebar-image">
+                <a class="thumbnail" href="https://www.instagram.com/p/-HrSq_rtdb/">
+                    <img src="https://farm2.staticflickr.com/1654/23774388833_a6c5f6768b.jpg" alt="">
+                    <div class="overlay"></div>
+                    <span class="caption">Sweden</span>
+                </a>
+            </div>
+            <center>
+                <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/HikeVentures"
+                   data-chrome="noborders" height="600px" width="100%"
+                   data-link-color="#FF8000" data-widget-id="272762413726695424">Tweets by @HikeVentures</a>
+                <script>!function (d, s, id) {
+                    var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
+                    if (!d.getElementById(id)) {
+                        js = d.createElement(s);
+                        js.id = id;
+                        js.src = p + "://platform.twitter.com/widgets.js";
+                        fjs.parentNode.insertBefore(js, fjs);
+                    }
+                }(document, "script", "twitter-wjs");</script>
+            </center>
+        </div>
+    </div>
 </div>
