@@ -55,14 +55,7 @@ header h1 {
     color: #fc6a08;
 }
 
-header p #myHeader {
-    font-size:42px; 
-    padding-top: 52px;
-    font-family: 'Norwester', sans-serif;
-    line-height: 0.93; 
-    letter-spacing: 0.6px; 
-    color: #fc6a08;
-}
+
 
 header h4 {
     font-size: 18px;
