@@ -55,6 +55,15 @@ header h1 {
     color: #fc6a08;
 }
 
+header p #myHeader {
+    font-size:42px; 
+    padding-top: 52px;
+    font-family: 'Norwester', sans-serif;
+    line-height: 0.93; 
+    letter-spacing: 0.6px; 
+    color: #fc6a08;
+}
+
 header h4 {
     font-size: 18px;
     color: #7aaecc;
@@ -596,7 +605,8 @@ header > .wrapper, footer > .wrapper, .page-content > .wrapper {
     height: 100%;
 }
 
-.post-content h1 {
+.post-content 
+{
     font-family: Norwester !important;
     font-size: 24px !important;
     margin-top: 30px;
@@ -779,6 +789,13 @@ header > .wrapper, footer > .wrapper, .page-content > .wrapper {
         font-size: 28px;
         padding-top: 18px;
     }
+    
+    
+    header p #myHeader {
+     font-size: 28px;
+     padding-top: 18px;
+}
+    
 
     header h4 {
         display: none;
