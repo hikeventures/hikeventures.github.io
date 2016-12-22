@@ -7,7 +7,7 @@ tags:
   - tidbits
 layout: post
 ---
-In 2 weeks we are going to fly to Alta in Norway for our winter adventure trip. Konstantin has also ordered an inner tent for his new Seek Outside tent. We might use it against mosquitoes in the summer but also to get a little bit of additional warmth during the winter. More about it on our trip report later on in January. Make sure to subscribe to our [RSS](http://www.hikeventures.com/rss.xml) or [email newsletter](http://eepurl.com/tW5Dj) so you won't miss it.
+In 2 weeks we are going to fly to Alta in Norway for our winter adventure trip. Konstantin has also ordered an inner tent for his new Seek Outside tent. We might use it against mosquitoes in the summer but also to get a little bit of additional warmth during the winter. More about it on our trip report later on in January. Make sure to subscribe to our [RSS feed](http://www.hikeventures.com/rss.xml) or [email newsletter](http://eepurl.com/tW5Dj) so you won't miss it.
 
 Urbanpackrafter received an award for his video [Inflatable People](http://urbanpackrafter.com/Inflatable-People) from the Swedish Packrafting Round-Up 2016 which was also mentioned on [Raftpackr's blog](https://raftpackr.wordpress.com/2016/12/18/swedish-packraft-round-up-2016/). Adventures and Tinkerings has a few tips on [packrafting in Norway](http://adventuresandtinkerings.blogspot.no/2014/01/packrafting-in-norway.html?m=1). Alpacka Raft is [joining Rivers for Change and the SYRCL - The South Yuba River Citizens League](https://www.facebook.com/45935001641/posts/10153868152151642) on January 13th 2017 and also became a [finalist](https://www.facebook.com/45935001641/posts/10153871151801642) in the 2017 American Outdoor Gear Awards.
 
@@ -46,7 +46,7 @@ Yeti Rides were riding the [White 3Fat Pro fatbike](http://www.yetirides.com/201
 
 Bergreif tested the [Therm-a-Rest NeoAir Trekker](http://www.bergreif.de/2016/12/05/therm-a-rest-neoair-trekker-test/) (in German).
 
-The girlds outdoors reviewed the [Deuter Futura Vario](http://thegirloutdoors.co.uk/2016/12/10/deuter-futura-vario-review/) hiking backpack (in German).
+The girls outdoors reviewed the [Deuter Futura Vario](http://thegirloutdoors.co.uk/2016/12/10/deuter-futura-vario-review/) hiking backpack (in German).
 
 Trekkingfieber had a look on the [MSR Hubba NX](https://www.trekkingfieber.de/2016/03/24/review-msr-hubba-nx/) solo tent.
 
