@@ -17,11 +17,12 @@ Urbanpackrafter received an award for his video [Inflatable People](http://urban
 
 Caj posted a video on how he was packrafting in [Kolovesi National Park](https://www.youtube.com/watch?v=fgILVXZssbs).
 
-If you are into winter camping you may have a loog at the [10 Tips for Bugging Out in Cold weather] (http://www.primalsurvivor.net/winter-survival-bugging-out/).
+If you are into winter camping you may have a loog at the [10 Tips for Bugging Out in Cold weather](http://www.primalsurvivor.net/winter-survival-bugging-out/).
 
 Here are a few tips from Bedrock and Paradox on [how to get free gear](https://bedrockandparadox.com/2016/12/13/how-to-get-free-gear/).
 
 {% include banner_ad.html %}
+
 
 ## Gear Reviews
 
