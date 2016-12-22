@@ -23,6 +23,7 @@ Here are a few tips from Bedrock and Paradox on [how to get free gear](https://b
 
 {% include banner_ad.html %}
 
+---
 
 ## Gear Reviews
 
