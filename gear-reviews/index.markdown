@@ -37,11 +37,6 @@ published: true
           <td><a href="/gear-review-the-north-face-base-camp-duffle">The North Face Base Camp Duffle</a></td>
 
  </tr>
- <tr>
-          <td><a href="/gear-review-sea-to-summit-ultra-sil-drysack">Sea to Summit Ultra Sil DrySack</a></td>
-          <td><a href="/gear-review-the-north-face-base-camp-duffle">The North Face Base Camp Duffle</a></td>
-
- </tr>
 
 <tr>
              <td><a href="/Thule-Atmos-X3">Thule Atmos X3</a></td>
