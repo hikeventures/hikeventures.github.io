@@ -1,8 +1,8 @@
 ---
-title: Best Down Jackets for 2016 - 2017
-description: Need a warm jacket for your autumn or winter? We found the best down jackets for 2016 - 2017
+published: false
+title: Best Synthetic Insulated Jackets for 2016 - 2017
+description: Need a warm jacket for your autumn or winter? We found the best Synthetic Insulated Jackets for 2016 - 2017
 date: 2016-10-10 20:43:52
-update_date: 2016-12-20 12:43:52
 category: articles
 tags:
   - articles
@@ -10,27 +10,23 @@ tags:
   - jackets
 layout: post
 ---
-<h2 style="color:red">Ultimate top down jackets for ultralight trips and lightweight winter adventures.</h2>
+<h2 style="color:red">Ultimate synthetic insulated jackets for lightweight winter adventures and ultralight trips.</h2>
 <br>
-Do you need a new down jacket for the winter or for a cold summer night during a hike? Here is our <a href="#list">selection</a> of the best down jackets for 2016 - 2017 which we have selected to cover your summer and winter backcountry trips.
+Are you looking for a synthetic insulated jacket for your next outdoor adventure? Then you are probably looking for an alternative to goose down jackets either because of ethical reasons or because you are planning to wear your jacket in damp or humid environment where a down jacket may loose it's insulation capabilities when getting wet.
 
-We have selected a broad range of down jackets which can be worn in different conditions and for different activities like hiking, backpacking, skiing, snowboarding, mountaineering, climbing or on any other outdoor adventure.
-
-Also, check one of our <a href="#video">packrafting videos</a> where we had down jackets with us while packrafting in Northern Sweden.
+Here is our <a href="#list">selection</a> of the best synthetic insulated jackets for 2016 - 2017 which we have selected as our favorites for this year which included models which can be either worn during the summer or during the winter and for different activities like backpacking, skiing, hiking, snowboarding, climbing or on any other outdoor adventure.
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31571859902/in/dateposted-public/" title="Best Down Jackets 2016 - 2017"><img src="https://c7.staticflickr.com/1/299/31571859902_8b2cb77f6d_b.jpg" width="1024" height="546" alt="Best Down Jackets 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31571859902/in/dateposted-public/" title="Best Down Jackets 2016 - 2017"><img src="https://c7.staticflickr.com/1/299/31571859902_8b2cb77f6d_b.jpg" width="1024" height="546" alt="Best Synthetic Insulated Jackets for 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
-The down jackets we have selected have a fill power of 800 and more since they offer the best warmth-weight ratio and are considered to be lightweight down jackets and pack small and light. We have also included very warm down parkas with lower fill power but they are suitable for very cold conditions. Moreover, our selection includes 3-season down jacket as well as winter down jackets.
-
-The lighter jackets usually come with less down and are more suitable for warmer months or as a mid-layer during the winter. Some people also prefer synthetic insulation rather than down. However, keep in mind that synthetic insulation is more bulky and offers less insulation than down. Synthetic insulation might be a better choice in very damp or wet conditions.
+When choosing a synthetic insulated jacket then you are selecting a more durable, reliable and water resistant option compared to a goose down jacket. However, a disadvantage with synthetic insulation is that they are more bulky and offer less insulation than down.
 
 <hr>
 
-<h2 id="list"> The best down jackets of 2016 - 2017</h2>
+<h2 id="list"> The best synthetic insulated jackets of 2016 - 2017</h2>
 
 <div class="table-responsive">
 
@@ -38,7 +34,7 @@ The lighter jackets usually come with less down and are more suitable for warmer
 
         <thead>
              <tr>
-                <th>Down Jacket</th><th>Weight</th>
+                <th>Jacket</th><th>Weight</th>
              </tr>
         </thead>
 
