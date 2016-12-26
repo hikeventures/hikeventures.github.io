@@ -9,7 +9,11 @@ tags:
   - lamps
 layout: post
 ---
-Planning a winter trip in the North or just need a headlamp for the night? A good lightweight headlamp is an essential part for many outdoor activities likes hiking, running, cycling, packrafting, ski touring or climbing or any other backcountry trip. It can be a life saver and should always be in your backpack. Here is my <a href="#list">selection</a> of the best headlamps for 2016 - 2017.
+<h2 style="color:red">The best lightweigh headlamps including rechargeable and waterproof models with red or green LEDs for hiking, camping or hunting.</h2>
+<br>
+
+
+Planning a winter trip in the North or just need a headlamp for the night? A good lightweight headlamp is an essential part for many outdoor activities like running, cycling, packrafting, ski touring, climbing or any other backcountry trip. It can be a life saver and should always be in your backpack. Here is my <a href="#list">selection</a> of the best headlamps for 2016 - 2017.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/13975652752/in/photolist-GbSzpE-HnoEX7-GaxJVX-GXb3Qv-fBZbWn-qN9fdL-qeZAQ1-pJRcuY-oXDYGk-oXE2fB-pUdwjt-pEYKYc-pUotup-pSioYy-oJ8eZL-qGeLzL-o5eCPi-nKXNaZ-o1pT3W-nbZrcA-nbXFbR-n9UVEg-pF3ZMU-pvG9Af-oMnq8m-oCa2tz-ofA95w-o3ozXu-o1sHd9-nL2c9g-nKXHCH-nB97hW-nTASyZ-nge5dS-nhY6vf-nhYSEd-nqwZew-noqfLG-n9UL3q-nbX8MF-hXNm3Z-hXNmLH-hXMK7h-hXMq24-dXbkpf-dL8yRc-dNuTzR-dNAuXb-dNuWmP-dNuVEk" title="Best headlamps 2016 - 2017"><img src="https://c1.staticflickr.com/8/7037/13975652752_fbf38fb617_k.jpg" width="2048" height="1367" alt="Best headlamps 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
