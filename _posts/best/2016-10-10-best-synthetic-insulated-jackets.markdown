@@ -23,6 +23,43 @@ Here is our <a href="#list">selection</a> of the best synthetic insulated jacket
 
 ---
 
+Arcteryx Atom LT Hoody 360g
+http://amzn.to/2htGei5
+<a target="_blank"  href="https://www.amazon.com/gp/product/B0163RVX90/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0163RVX90&linkCode=as2&tag=hikeve-20&linkId=e368f172eb6b965d9f8d730017e213eb"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0163RVX90&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0163RVX90" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+Arcteryx Cerium LT Hoody 295g
+http://amzn.to/2iaIYhe
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00Q9MHO70/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q9MHO70&linkCode=as2&tag=hikeve-20&linkId=4ea3c7e2e31306af352a91c4885d7144"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00Q9MHO70&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00Q9MHO70" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+Arcteryx Fission SV Jacket 935g
+http://amzn.to/2hKcJEG
+<a target="_blank"  href="https://www.amazon.com/gp/product/B0163RV2CS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0163RV2CS&linkCode=as2&tag=hikeve-20&linkId=a3923acc1cc490545436e2c9e856ebef"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0163RV2CS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0163RV2CS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+Arcteryx Nuclei AR Jacket 460g
+http://amzn.to/2inuE4W
+<a target="_blank"  href="https://www.amazon.com/gp/product/B01KH4JLDA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01KH4JLDA&linkCode=as2&tag=hikeve-20&linkId=78919096e8840168351407223e7208ae"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01KH4JLDA&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01KH4JLDA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+Rab Photon X Jacket 670g
+http://amzn.to/2izVzhg
+<a target="_blank"  href="https://www.amazon.com/gp/product/B013HANSVC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B013HANSVC&linkCode=as2&tag=hikeve-20&linkId=1bd8744e8a5cfb28bcdca42bf11532fd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B013HANSVC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B013HANSVC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+Rab Nebula Jacket 580g
+http://amzn.to/2inkT6M
+<a target="_blank"  href="https://www.amazon.com/gp/product/B013HAICMC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B013HAICMC&linkCode=as2&tag=hikeve-20&linkId=b48e9716614bf990671e84c8ee05b3ea"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B013HAICMC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B013HAICMC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+Outdoor Research Cathode Hooded Jacket 379g
+http://amzn.to/2iaM9Wk
+<a target="_blank"  href="https://www.amazon.com/gp/product/B0163RVYDK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0163RVYDK&linkCode=as2&tag=hikeve-20&linkId=232e7aca74b934b8cd60f708594bbb18"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0163RVYDK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0163RVYDK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+Black Diamond Access Hoody 330g
+http://amzn.to/2iAqRAw
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00PMV72SU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PMV72SU&linkCode=as2&tag=hikeve-20&linkId=762a06803036da54107089cba7f7502a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00PMV72SU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00PMV72SU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
 When choosing a synthetic insulated jacket then you are selecting a more durable, reliable and water resistant option compared to a goose down jacket. However, a disadvantage with synthetic insulation is that they are more bulky and offer less insulation than down.
 
 <hr>
@@ -41,47 +78,26 @@ When choosing a synthetic insulated jacket then you are selecting a more durable
 
         <tbody>
         <tr>
-          <td><a href="http://amzn.to/2doK4aj" target="_blank" rel="nofollow">Mountain Hardware Ghost Whisperer Hooded Down Jacket (800fp)</a></td><td>212g</td>
-        </tr>
-
-        <tr>
-          <td><a href="http://amzn.to/2doJmJP" target="_blank" rel="nofollow">Arcteryx Cerium LT Hoody (850fp)</a></td><td>275g</td>
-        </tr>
-
-
-        <tr>
-          <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Marmot Quasar Hoody (850fp)</a></td><td>372g</td>
+          <td><a href="http://amzn.to/2iaIYhe" target="_blank" rel="nofollow">Arcteryx Cerium LT Hoody</a></td><td>295g</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2dBjOHV" target="_blank" rel="nofollow">Arcteryx Cerium SV Hoody (850fp)</a></td><td>440g</td>
-        </tr>
-
-
-
-
-        <tr>
-          <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Patagonia Men's Down Hooded Jacket (800fp)</a></td><td>550g</td>
-        </tr>
-
-        <tr>
-          <td><a href="http://amzn.to/2e9t7BZ" target="_blank" rel="nofollow">Rab Infinity Endurance Jacket (850fp)</a></td><td>575g</td>
-        </tr>
-
-        <tr>
-          <td><a href="http://amzn.to/2e7V1Mx" target="_blank" rel="nofollow">Rab Positron Jacket (800fp)</a></td><td>720g</td>
-        </tr>
-
-        <tr>
-          <td><a href="http://amzn.to/2endumN" target="_blank" rel="nofollow">Arcteryx Ceres Jacket (850fp)</a></td><td>860g</td>
-        </tr>
-
-
-        <tr>
-          <td><a href="http://amzn.to/2gZ5BrN" target="_blank" rel="nofollow">Fjällräven Arktis Parka (500fp)</a></td><td>1954g</td>
+          <td><a href="http://amzn.to/2iAqRAw" target="_blank" rel="nofollow">Black Diamond Access Hoody</a></td><td>330g</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2i2OmBR" target="_blank" rel="nofollow">Canada Goose Expedition Parka (625fp)</a></td><td>2070g</td>
+          <td><a href="http://amzn.to/2iaM9Wk" target="_blank" rel="nofollow">Outdoor Research Cathode Hooded Jacket</a></td><td>379g</td>
         </tr>
+        <tr>
+          <td><a href="http://amzn.to/2inuE4W" target="_blank" rel="nofollow">Arcteryx Nuclei AR Jacket</a></td><td>460g</td>
+        </tr>
+        <tr>
+            <td><a href="http://amzn.to/2inkT6M" target="_blank" rel="nofollow">Rab Nebula Jacket</a></td><td>580g</td>
+          </tr>
+          <tr>
+                    <td><a href="http://amzn.to/2izVzhg" target="_blank" rel="nofollow">Rab Photon X Jacket</a></td><td>670g</td>
+          </tr>
+        <tr>
+          <td><a href="http://amzn.to/2hKcJEG" target="_blank" rel="nofollow">Arcteryx Fission SV Jacket</a></td><td>935g</td>
+        </tr>  
         </tbody>
 
       </table>
