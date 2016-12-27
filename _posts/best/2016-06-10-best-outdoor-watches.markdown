@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Best outdoor GPS watches with color screen for 2016 - 2017
-description: Our selection of the best outdoor smartwatch for 2016 - 2017.
+title: Best outdoor GPS watches with color screen for 2017
+description: Our selection of the best outdoor smartwatch for 2017.
 date: 2016-06-10 13:46:20
 update_date: 2016-12-27 06:00:52
 category: articles
@@ -15,11 +15,11 @@ Today I would like to present you the best outdoor GPS watches which feature a c
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15913318153/in/photolist-Go1JSL-vM7J91-qHtRc2-qfcV5n-rc1Fx6-pUdwjt-pR5WvQ-poxm2c-J2qeyW-uSq1oC-vNPEKA-vwWEhv-vPqH22-sTzRxs-t4miJj-s9EBGJ-pC4agQ-ptyErN-pcgLEg-oUMs5L" title="Best outdoor GPS watches 2016 - 2017"><img src="https://c2.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg" width="2048" height="1360" alt="Best outdoor GPS watches 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15913318153/in/photolist-Go1JSL-vM7J91-qHtRc2-qfcV5n-rc1Fx6-pUdwjt-pR5WvQ-poxm2c-J2qeyW-uSq1oC-vNPEKA-vwWEhv-vPqH22-sTzRxs-t4miJj-s9EBGJ-pC4agQ-ptyErN-pcgLEg-oUMs5L" title="Best outdoor GPS watches 2017"><img src="https://c2.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg" width="2048" height="1360" alt="Best outdoor GPS watches 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
-<h2 id="list">The best outdoor gps watches for 2016</h2>
+<h2 id="list">The best outdoor gps watches for 2017</h2>
 
 <table>
 <tr>
@@ -69,7 +69,7 @@ Probably one disadvantage of watches having a colour display and a GPS was their
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/8620278312/in/album-72157648805512885/" title="Suunto Ambit 2"><img src="https://c1.staticflickr.com/9/8386/8620278312_aed75fec08_k.jpg" width="2048" height="1365" alt="best outdoor GPS watch color display 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/8620278312/in/album-72157648805512885/" title="Suunto Ambit 2"><img src="https://c1.staticflickr.com/9/8386/8620278312_aed75fec08_k.jpg" width="2048" height="1365" alt="best outdoor GPS watch color display 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
