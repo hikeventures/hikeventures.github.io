@@ -19,7 +19,7 @@ If you are into ultralight hiking then you are probably also interested into my 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27313686292/in/album-72157669221615915/" title="Best ultralight summer hiking shoes for 2017"><img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="1024" height="643" alt="Best ultralight summer hiking shoes for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<h2 id="list">The best ultralight hiking shoes</a>
+<h2 id="list">The best ultralight hiking shoes</h2>
 
 <div class="table-responsive">
 
