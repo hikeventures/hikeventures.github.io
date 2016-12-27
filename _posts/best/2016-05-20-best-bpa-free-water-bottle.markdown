@@ -11,6 +11,7 @@ layout: post
 ---
 
 <h2 style="color:red">The best lightweight BPA-free water bottle 2017 for ultralight hiking and backpacking adventures.</h2>
+<br>
 
 On my hikes I always take a BPA-free water bottle with me. In the past I have always used a regular plastic water bottle but realized that BPA could have a negative effect on my health e.g. on the brain or increased blood pressure.
 

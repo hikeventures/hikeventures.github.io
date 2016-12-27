@@ -11,8 +11,8 @@ tags:
   - macbook
 layout: post
 ---
-
 <h2 style="color:red">Ultimate case which protects your Macbook Pro indoors and outdoors.</h2>
+<br>
 
 Recently, I was looking for a new case for my Macbook Pro 13" with Touch Bar which would be also suitable for light outdoor activities. I came across the Thule Gauntlet 13" MacBook Attaché which I found one of the best outdoor case to protect my Macbook Pro in 2017.
 

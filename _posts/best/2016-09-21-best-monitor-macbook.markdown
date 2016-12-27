@@ -9,6 +9,7 @@ layout: post
 ---
 
 <h2 style="color:red">My selection of the best LG Ultrafine 4K and 5K alternative screens</h2>
+<br>
 
 As I am planning to buy a new Macbook Pro I was curious to find out which monitor I should get to connect it with my new Macbook Pro and what would be the best alternative to the LG UltraFine 4K or 5K monitors. I really would like to have an external 4K or 5K monitor with my Macbook Pro since it is much more convenient to edit pictures. In the past I had a 27" HD monitor to edit my pictures but since I am planning to take 4K videos in the near future I would be really nice to have a 4K or even a 5K screen.
 

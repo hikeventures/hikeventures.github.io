@@ -12,6 +12,7 @@ layout: post
 ---
 <h2 style="color:red">Ultimate synthetic insulated jackets for lightweight winter adventures and ultralight trips.</h2>
 <br>
+
 Are you looking for a synthetic insulated jacket for your next outdoor adventure? Then you are probably looking for an alternative to goose down jackets either because of ethical reasons or because you are planning to wear your jacket in damp or humid environment where a down jacket may loose it's insulation capabilities when getting wet.
 
 Here is our <a href="#list">selection</a> of the best synthetic insulated jackets for 2017 which we have selected as our favorites for this year which included models which can be either worn during the summer or during the winter and for different activities like backpacking, skiing, hiking, snowboarding, climbing or on any other outdoor adventure.

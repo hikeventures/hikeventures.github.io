@@ -10,8 +10,8 @@ tags:
   - articles
 layout: post
 ---
-
 <h2 style="color:red">Our selection of the best lightweight trekking and snowshoeing poles 2017 for ultralight outdoor adventures.</h2>
+<br>
 
 Trekking and snowshoeing poles are especially useful if you have to walk up or down a mountain or if you have to walk in deep powder snow. You can also use those poles for nordic walking. In this blog post I have <a href="#list">selected</a> the best trekking and snowshoeing poles for 2017 which I would consider to buy.
 

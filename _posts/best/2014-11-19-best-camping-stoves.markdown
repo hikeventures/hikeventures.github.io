@@ -10,9 +10,8 @@ tags:
   - stoves
 layout: post
 ---
-
 <h2 style="color:red">Our selection of the best lightweight camping stoves 2017 for ultralight outdoor adventures.</h2>
-
+<br>
 
 Planning an outdoor adventure and still searching for the right camping stove? A portable and lightweight camping stove is one of the most essential item to have on your adventures to boil water for tea, coffee or dehydrated meals. Here is my <a href="#list">selection</a> of the best lightweight camping stoves for 2017. They can be used for hiking, backpacking, packrafting, mountaineering or any other backcountry trip.
 

@@ -10,9 +10,8 @@ tags:
   - snowshoeing
 layout: post
 ---
-
 <h2 style="color:red">Our selection of the best lightweight snowshoes 2017 for ultralight winter adventures.</h2>
-
+<br>
 
 We have been snowshoing in Finnish Lapland and in the Austrian Alps last year and we decided to come up with a <a href="#list">selection</a> of the best snowshoes for 2017. Snowshoes are quite useful if you are planning to ascent a mountain or walk in powder snow. Snowshoeing is easy to learn and not that expensive. Also consider to get a pair of [snowshoe poles][1] for your snowshoeing trips as they will help you a lot on your snowshoeing adventure. Below you can see Konstantin snowshoeing in the [Austrian Alps](http://www.hikeventures.com/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/).
 

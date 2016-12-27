@@ -9,8 +9,8 @@ tags:
   - tents
 layout: post
 ---
-
 <h2 style="color:red">Selection of the best lightweight solo backpacking tents 2017 for ultralight outdoor adventures.</h2>
+<br>
 
 Are you looking for a new tent and want to know which one is the best solo backpacking tent? Well, the best 1-person tent can be a different one in different environments and situations. Are you planning a trip to remote areas? Do you want to use your tent during the winter? Or are you an ultralight aficionado?
 

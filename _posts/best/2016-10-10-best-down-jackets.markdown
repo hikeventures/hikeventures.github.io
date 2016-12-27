@@ -12,6 +12,7 @@ layout: post
 ---
 <h2 style="color:red">Ultimate top down jackets for ultralight trips and lightweight winter adventures.</h2>
 <br>
+
 Do you need a new down jacket for the winter or for a cold summer night during a hike? Here is our <a href="#list">selection</a> of the best down jackets for 2017 which we have selected to cover your summer and winter backcountry trips.
 
 We have selected a broad range of down jackets which can be worn in different conditions and for different activities like hiking, backpacking, skiing, snowboarding, mountaineering, climbing or on any other outdoor adventure.
