@@ -10,6 +10,8 @@ tags:
   - best
 ---
 
+<h2 style="color:red">Our selection of the best lightweight winter gloves 2017 for ultralight winter adventures.</h2>
+
 For my next snowshoeing trip in Lapland I was looking for a new pair of gloves or mittens to replace my old gloves. Here is our <a href="#list">selection</a> of the best winter gloves which I would consider to buy for skiing, snowboarding, snowshoeing or hiking in 2017.
 
 

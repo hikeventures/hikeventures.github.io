@@ -10,6 +10,9 @@ tags:
   - jackets
 layout: post
 ---
+
+<h2 style="color:red">Our selection of the best lightweight fleece jackets 2017 for ultralight outdoor adventures.</h2>
+
 Are you planning an outdoor adventure to a place where it's wet or humid? Then you should have a fleece jacket in your backpack. A fleece jacket can be used as a mid-layer to keep you warm while you are active (climbing, hiking, skiing or biking) and dries rather fast. For wet conditions a fleece jacket is a better choice than a [down jacket][1] to protect yourself against the cold as down will lose it's insulation once it's wet. Here is our <a href="#list">selection</a> of the best fleece jackets for 2017.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30599065514/in/photolist-NBWd85-NBWdpC-PGnS2B-NBWekf-PDJ1Eh-Dv2uSF-E1hZc9-EjbrxT-EgXSbQ-tg14Q2-t3DXr8-t2MuH9-t2LbQW-sdZym3-sec6c8-taL9R1-sTru6W-sTq9hY-sTrvww-sTy6fR-sebeM6-taZSRR-sTpojY-sebpWz-t8FgSm-t8Fenm-sTxnjB-t8FiiN-sTy6CV-t8F1NU-tb1bye-sTxzdB-sTr9gW-tb3Ehx-sdZRVb-sTri2G-taL1TN-sTq5Jq-tb1DEP-sTrrNj-se19pJ-sTy5sZ-sTrwSs-sTrseQ-rbRFq6-pUo8mD-pUdSgn-pBY4wH-pUoXBr-pC1VP1" title="Best Fleece Jackets for 2017"><img src="https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg" width="1024" height="683" alt="Best Fleece Jackets for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

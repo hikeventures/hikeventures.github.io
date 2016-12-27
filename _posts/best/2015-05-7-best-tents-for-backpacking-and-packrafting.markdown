@@ -10,6 +10,9 @@ tags:
   - best
 layout: post
 ---
+
+<h2 style="color:red">Selection of the best lightweight tents 2017 for ultralight outdoor adventures.</h2>
+
 For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](http://www.hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/ "Hilleberg Anjan") which has served us quite well so far in [Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Packrafting in Sarek"), [the Netherlands](http://www.hikeventures.com/packrafting-in-the-weerribben-wieden-national-park/ "Packrafting in the Netherlands") and [Finland](http://www.hikeventures.com/halloween-adventure-at-lake-suolijarvi/ "Packrafting in Finland"). We have <a href="#list">selected</a> our favorite freestanding and non-freestanding tents  for 2017 in this blog post as well as normal and ultralight tents.
 
 

@@ -11,6 +11,8 @@ tags:
 layout: post
 ---
 
+<h2 style="color:red">Our selection of the best lightweight satellite messengers 2017 for ultralight outdoor adventures.</h2>
+
 A satellite messenger, GPS Tracker or a Personal Locator Beacon should be with you on your hiking, backpacking, packrafting or kayaking trip. They are especially useful if you are planning to go to areas where you don't have any phone reception. In case of an accident you won't be able to call for help without a satellite messenger. Here is our <a href="#list">selection</a> of the best satellite messengers for 2017. In the picture below you can see the DeLorme InReach Explorer in his yellow case attached to the backpack.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30599065514/in/dateposted-public/" title="Best Satellite Messenger, Locator and Personal Beacon 2017"><img src="https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg" width="1024" height="683" alt="Best Satellite Messenger, Locator and Personal Beacon 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

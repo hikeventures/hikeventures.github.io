@@ -1,5 +1,5 @@
 ---
-title: Best Rain Jackets 2017 for Hiking and Backpacking
+title: Best Rain Jackets 2017
 description: Overview of the best men rain Jackets in 2017 for hiking and backpacking
 date: 2016-01-04 12:33:51
 update_date: 2016-12-27 06:00:52
@@ -10,6 +10,8 @@ tags:
   - jackets
 layout: post
 ---
+<h2 style="color:red">Our selection of the best lightweight rain jackets 2017 for ultralight outdoor adventures.</h2>
+
 Do you know how to stay warm during a hiking trip? Don't get wet! Here is my <a href="#list">selection</a> of the best rain jackets for 2017 which I have selected from different brands. Planning to go hiking, backpacking, running, climbing, cycling, mountaineering, skiing, snowboarding or snowshoeing? Then you should wear a rain jacket or carry a lightweight rain jacket in your backpack. A rain jacket does not need to weight much and can be a life saver especially when it's cold. Also consider taking lightweight waterproof [rain pants][1] with you.
 
 ---

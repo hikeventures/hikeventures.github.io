@@ -10,6 +10,9 @@ tags:
   - best
   - watches
 ---
+
+<h2 style="color:red">Selection of the best lightweight GPS watches with color screen 2017 for ultralight outdoor adventures.</h2>
+
 Today I would like to present you the best outdoor GPS watches which feature a color display. They can be used for hiking, backpacking, running or any other outdoor activity. At the moment I am wearing a [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) which has a monochrome display. I am quite satisfied with my [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) so far but I would be interested to get an outdoor watch which features a color display. Check the weight of the GPS watches on our <a href="#list">comparison table</a> or watch one of our <a href="#video">packrafting videos</a> where we were wearing a GPS watch to track our route.
 
 
