@@ -46,11 +46,12 @@ If you are into ultralight hiking then you are probably also interested into my 
 </tbody>
 </table>
 </div>
+
 <!--more-->
 
 <hr>
 
-## Advantages of ultralight hiking shoes
+<h2> Advantages of ultralight hiking shoes</h2>
 
 * They are very lightweight compared to traditional hiking or backpacking boots.
 * They don't need that much space to store them.
@@ -59,7 +60,7 @@ If you are into ultralight hiking then you are probably also interested into my 
 
 
 
-## Disadvantages of ultralight hiking shoes
+<h2> Disadvantages of ultralight hiking shoes</h2>
 
 * There is a chance that you will get wet feet since those shoes don't go over your ankles especially if you don't buy a GTX (waterproof) shoe. One solution to keep your feet dry would be to wear latex socks over your regular [(merino) socks](http://www.backcountry.com/icebreaker-hike-mid-crew-sock-mens-ice0793).
 * Ultralight Hiking Shoes won't give you much support when carry a heavier backpack.
