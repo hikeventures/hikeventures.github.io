@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Five Reasons Why I Love My Icebreaker T-shirts
+title: Five Reasons Why I Buy Icebreaker T-shirts and why they are one of the best Merino clothes manufacturers?
 description: Based on my experiences during the last five years
 date: 2016-10-19 12:30:00
 category: reviews
@@ -12,11 +12,11 @@ tags:
   - t-shirts
 ---
 
-The first time I heard about Icebreaker was about 5 or 6 years ago when together with my Adventure Tourism students I went for a short ‘gear talk’ to our local outdoor shop. The sales guy told us that they had some t-shirts that were “really cool” because you could wear them for a long time and they wouldn’t “stink”.
+The first time I heard about Icebreaker was about 5 or 6 years ago when together with my Adventure Tourism students I went for a short 'gear talk' to our local outdoor shop. The sales guy told us that they had some t-shirts that were "really cool" because you could wear them for a long time and they wouldn’t "stink".
 
-What he said made me really interested so I decided to have a look at them, but was immediately taken back by the price. “What? 60 Euro? I never…” I said to myself and moved on to other things.
+What he said made me really interested so I decided to have a look at them, but was immediately taken back by the price. "What? 60 Euro? I never…" I said to myself and moved on to other things.
 
-But you know what they say – “never say never”, and indeed, after a while, I bought one Icebreaker t-shirt and was immediately sold. And now, I am a happy owner and user of a rather large ‘collection’ of various Icebreaker items (ranging from t-shirts to sweaters and from gloves to underwear) and I still cannot seem to have enough of them still. And here is the countdown of the five most important reasons why.
+But you know what they say – "never say never", and indeed, after a while, I bought one Icebreaker t-shirt and was immediately sold. And now, I am a happy owner and user of a rather large ‘collection’ of various Icebreaker items (ranging from t-shirts to sweaters and from gloves to underwear) and I still cannot seem to have enough of them still. And here is the countdown of the five most important reasons why I would buy Icebreaker T-Shirts.
 
 ---
 
@@ -111,7 +111,7 @@ That is why this year, when we were preparing for our new Japan trip, she said t
 
 ---
 
-To sum it up, I love my icebreakers because they look nice on me, I can wear them for a long time during trips and in my everyday life and because they keep me warm. And of course, because they “do not stink”.
+To sum it up, I love my icebreakers because they look nice on me, I can wear them for a long time during trips and in my everyday life and because they keep me warm. And of course, because they "do not stink".
 
 Final comment: Only recently, my wife told me that she would like to ask Santa Claus for a black icebreaker to replace her favourite one which was stolen earlier this year. And I have a feeling that he might grant her that wish.
 
