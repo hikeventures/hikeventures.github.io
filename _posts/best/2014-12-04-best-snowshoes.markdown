@@ -1,7 +1,8 @@
 ---
-title: Best Snowshoes for 2016 - 2017
-description: Our selection of the best snowshoes for 2016 - 2017.
+title: Best Snowshoes for 2017
+description: Our selection of the best snowshoes for 2017.
 date: 2016-01-03 09:19:51
+update_date: 2016-12-27 06:00:52
 category: articles
 tags:
   - articles
@@ -9,11 +10,11 @@ tags:
   - snowshoeing
 layout: post
 ---
-We have been snowshoing in Finnish Lapland and in the Austrian Alps last year and we decided to come up with a <a href="#list">selection</a> of the best snowshoes for 2016 - 2017. Snowshoes are quite useful if you are planning to ascent a mountain or walk in powder snow. Snowshoeing is easy to learn and not that expensive. Also consider to get a pair of [snowshoe poles][1] for your snowshoeing trips as they will help you a lot on your snowshoeing adventure. Below you can see Konstantin snowshoeing in the [Austrian Alps](http://www.hikeventures.com/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/).
+We have been snowshoing in Finnish Lapland and in the Austrian Alps last year and we decided to come up with a <a href="#list">selection</a> of the best snowshoes for 2017. Snowshoes are quite useful if you are planning to ascent a mountain or walk in powder snow. Snowshoeing is easy to learn and not that expensive. Also consider to get a pair of [snowshoe poles][1] for your snowshoeing trips as they will help you a lot on your snowshoeing adventure. Below you can see Konstantin snowshoeing in the [Austrian Alps](http://www.hikeventures.com/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/).
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24785831751/in/photolist-Dm1oBg-DUv9z4-DLeSfK-qNgY7t-DJ5oFY-Dm1YSa-DSbpUy-CWZxhh-Dm1SnM-DJ5qtf-DLeWra-CWZhq3-CX6ZLM-DsowUj-CWZoVY-DJ55xd-CWYQyo-CX6sRF-DUueLP-r3peJw" title="Best snowshoes for 2016 - 2017"><img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="Best snowshoes for 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24785831751/in/photolist-Dm1oBg-DUv9z4-DLeSfK-qNgY7t-DJ5oFY-Dm1YSa-DSbpUy-CWZxhh-Dm1SnM-DJ5qtf-DLeWra-CWZhq3-CX6ZLM-DsowUj-CWZoVY-DJ55xd-CWYQyo-CX6sRF-DUueLP-r3peJw" title="Best snowshoes for 2017"><img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="Best snowshoes for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<h2 id="list"> The best snowshoes 2016 - 2017</h2>
+<h2 id="list"> The best snowshoes 2017</h2>
 
 <div class="table-responsive">
 
@@ -175,7 +176,7 @@ There are several aspects you should take into consideration when you are planni
 ---
 
 ## Conclusion
-So which are the best snowshoes for 2016? My preference goes towards a light snowshoe which has a good grip in the backcountry and in the mountains. I would probably choose the <a href="http://www.amazon.com/gp/product/B00LFJNHQ4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNHQ4&linkCode=as2&tag=hikeve-20&linkId=YIDJETI36CMR7GF4" rel="nofollow" target="_blank">MSR Lightning Ascent</a>. The <a href="http://amzn.to/2ea20qB" target="_blank" rel="nofollow">MSR Revo Ascent 25</a> would be my second choice because of the additional weight. The advantage of the MSR Revo Ascent 25 over the MSR Lightning Ascent is that it is a bit more durable. Previously, I also had the Tubbs Xpedition 25 which were also good snowshoes. However, I prefer the MSR because they are a bit lighter.
+So which are the best snowshoes for 2017? My preference goes towards a light snowshoe which has a good grip in the backcountry and in the mountains. I would probably choose the <a href="http://www.amazon.com/gp/product/B00LFJNHQ4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNHQ4&linkCode=as2&tag=hikeve-20&linkId=YIDJETI36CMR7GF4" rel="nofollow" target="_blank">MSR Lightning Ascent</a>. The <a href="http://amzn.to/2ea20qB" target="_blank" rel="nofollow">MSR Revo Ascent 25</a> would be my second choice because of the additional weight. The advantage of the MSR Revo Ascent 25 over the MSR Lightning Ascent is that it is a bit more durable. Previously, I also had the Tubbs Xpedition 25 which were also good snowshoes. However, I prefer the MSR because they are a bit lighter.
 
 ---
 

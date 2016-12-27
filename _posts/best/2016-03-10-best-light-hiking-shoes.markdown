@@ -1,7 +1,8 @@
 ---
-title: Best Ultralight Summer Hiking Shoes for 2016 - 2017
-description: Looking for light alternatives to heavy hiking boots? Here are the best lightweight hiking shoes for 2016
+title: Best Ultralight Summer Hiking Shoes for 2017
+description: Looking for light alternatives to heavy hiking boots? Here are the best lightweight hiking shoes for 2017
 date: 2016-03-02 07:30:00 +0300
+update_date: 2016-12-27 06:00:52
 category: articles
 tags:
   - articles
@@ -9,10 +10,10 @@ tags:
   - shoes
 layout: post
 ---
-If you are into ultralight hiking then you are probably also interested into my buying guide for the best light summer hiking shoes for 2016 - 2017. If you are coming from traditional hiking boots then you may notice that lightweight trail shoes can save you a lot of weight. Have a look on our <a href="#list">weight comparison table</a> to compare different hiking shoes.
+If you are into ultralight hiking then you are probably also interested into my buying guide for the best light summer hiking shoes for 2017. If you are coming from traditional hiking boots then you may notice that lightweight trail shoes can save you a lot of weight. Have a look on our <a href="#list">weight comparison table</a> to compare different hiking shoes.
 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27313686292/in/album-72157669221615915/" title="Best ultralight summer hiking shoes for 2016 - 2017"><img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="1024" height="643" alt="Best ultralight summer hiking shoes for 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27313686292/in/album-72157669221615915/" title="Best ultralight summer hiking shoes for 2017"><img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="1024" height="643" alt="Best ultralight summer hiking shoes for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <h2 id="list">The best ultralight hiking shoes</a>
 
@@ -64,7 +65,7 @@ If you are into ultralight hiking then you are probably also interested into my 
 * Ultralight Hiking Shoes won't give you much support when carry a heavier backpack.
 * Durability can be an issue if your shoe is made of very thin and leightweight materials.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15189713140/in/album-72157646473352583/" title="Kurjenrahka National Park"><img src="https://c5.staticflickr.com/3/2942/15189713140_cf23bd9412_b.jpg" width="100%" alt="The best ultralight hiking shoes 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15189713140/in/album-72157646473352583/" title="Kurjenrahka National Park"><img src="https://c5.staticflickr.com/3/2942/15189713140_cf23bd9412_b.jpg" width="100%" alt="The best ultralight hiking shoes 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 My Inov-8 ultralight hiking shoes on [our hiking trip](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) in Finland.
 

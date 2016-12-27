@@ -1,7 +1,8 @@
 ---
-title: Best trekking and snowshoeing poles for 2016 - 2017
-description: Need new trekking poles for your hiking and snowshoeing adventures? We found the best poles for 2016
+title: Best trekking and snowshoeing poles for 2017
+description: Need new trekking poles for your hiking and snowshoeing adventures? We found the best poles for 2017
 date: 2016-01-03 16:08:38
+update_date: 2016-12-27 06:00:52
 category: articles
 tags:
   - best
@@ -10,11 +11,11 @@ tags:
 layout: post
 ---
 
-Trekking and snowshoeing poles are especially useful if you have to walk up or down a mountain or if you have to walk in deep powder snow. You can also use those poles for nordic walking. In this blog post I have <a href="#list">selected</a> the best trekking and snowshoeing poles for 2016 - 2017 which I would consider to buy.
+Trekking and snowshoeing poles are especially useful if you have to walk up or down a mountain or if you have to walk in deep powder snow. You can also use those poles for nordic walking. In this blog post I have <a href="#list">selected</a> the best trekking and snowshoeing poles for 2017 which I would consider to buy.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24785831751/in/photolist-Dm1oBg-DUv9z4-DLeSfK-qNgY7t-DJ5oFY-Dm1YSa-DSbpUy-CWZxhh-Dm1SnM-DJ5qtf-DLeWra-CWZhq3-CX6ZLM-DsowUj-CWZoVY-DJ55xd-CWYQyo-CX6sRF-DUueLP-r3peJw" title="Best trekking and snowshoeing poles for 2016 - 2017"><img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="Best trekking and snowshoeing poles for 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24785831751/in/photolist-Dm1oBg-DUv9z4-DLeSfK-qNgY7t-DJ5oFY-Dm1YSa-DSbpUy-CWZxhh-Dm1SnM-DJ5qtf-DLeWra-CWZhq3-CX6ZLM-DsowUj-CWZoVY-DJ55xd-CWYQyo-CX6sRF-DUueLP-r3peJw" title="Best trekking and snowshoeing poles for 2017"><img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="Best trekking and snowshoeing poles for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<h2 id="list"> The best trekking and snowshoeing poles 2016 - 2017</h2>
+<h2 id="list"> The best trekking and snowshoeing poles 2017</h2>
 
 <div class="table-responsive">
 
@@ -57,7 +58,7 @@ Currently, I am using the Black Diamond Ultra Distance Z-Poles which are not mad
 
 ---
 
-<a href="https://www.flickr.com/photos/90204224@N07/18240641010" title="Best trekking and snowshoeing poles 2016"><img src="https://c4.staticflickr.com/8/7780/18240641010_a4f51acf96_o.jpg" width="992" height="659" alt="The best snowshoeing and trekking poles of 2016 / 2017 - Snowshoeing in Finnish Lapland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/18240641010" title="Best trekking and snowshoeing poles 2017"><img src="https://c4.staticflickr.com/8/7780/18240641010_a4f51acf96_o.jpg" width="992" height="659" alt="The best snowshoeing and trekking poles of 2017 - Snowshoeing in Finnish Lapland"></a>
 Patrick snowshoeing in [Finnish Lapland][2].
 
 ---

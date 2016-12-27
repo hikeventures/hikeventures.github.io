@@ -1,7 +1,7 @@
 ---
 published: false
-title: Best Synthetic Insulated Jackets for 2016 - 2017
-description: Need a warm jacket for your autumn or winter? We found the best Synthetic Insulated Jackets for 2016 - 2017
+title: Best Synthetic Insulated Jackets for 2017
+description: Need a warm jacket for your autumn or winter? We found the best Synthetic Insulated Jackets for 2017
 date: 2016-10-10 20:43:52
 category: articles
 tags:
@@ -14,11 +14,11 @@ layout: post
 <br>
 Are you looking for a synthetic insulated jacket for your next outdoor adventure? Then you are probably looking for an alternative to goose down jackets either because of ethical reasons or because you are planning to wear your jacket in damp or humid environment where a down jacket may loose it's insulation capabilities when getting wet.
 
-Here is our <a href="#list">selection</a> of the best synthetic insulated jackets for 2016 - 2017 which we have selected as our favorites for this year which included models which can be either worn during the summer or during the winter and for different activities like backpacking, skiing, hiking, snowboarding, climbing or on any other outdoor adventure.
+Here is our <a href="#list">selection</a> of the best synthetic insulated jackets for 2017 which we have selected as our favorites for this year which included models which can be either worn during the summer or during the winter and for different activities like backpacking, skiing, hiking, snowboarding, climbing or on any other outdoor adventure.
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31571859902/in/dateposted-public/" title="Best Down Jackets 2016 - 2017"><img src="https://c7.staticflickr.com/1/299/31571859902_8b2cb77f6d_b.jpg" width="1024" height="546" alt="Best Synthetic Insulated Jackets for 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31571859902/in/dateposted-public/" title="Best Down Jackets 2017"><img src="https://c7.staticflickr.com/1/299/31571859902_8b2cb77f6d_b.jpg" width="1024" height="546" alt="Best Synthetic Insulated Jackets for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
@@ -26,7 +26,7 @@ When choosing a synthetic insulated jacket then you are selecting a more durable
 
 <hr>
 
-<h2 id="list"> The best synthetic insulated jackets of 2016 - 2017</h2>
+<h2 id="list"> The best synthetic insulated jackets of 2017</h2>
 
 <div class="table-responsive">
 

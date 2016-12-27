@@ -1,6 +1,6 @@
 ---
-title: Best Down Jackets for 2016 - 2017
-description: Need a warm jacket for your autumn or winter? We found the best down jackets for 2016 - 2017
+title: Best Down Jackets for 2017
+description: Need a warm jacket for your autumn or winter? We found the best down jackets for 2017
 date: 2016-10-10 20:43:52
 update_date: 2016-12-20 12:43:52
 category: articles
@@ -12,7 +12,7 @@ layout: post
 ---
 <h2 style="color:red">Ultimate top down jackets for ultralight trips and lightweight winter adventures.</h2>
 <br>
-Do you need a new down jacket for the winter or for a cold summer night during a hike? Here is our <a href="#list">selection</a> of the best down jackets for 2016 - 2017 which we have selected to cover your summer and winter backcountry trips.
+Do you need a new down jacket for the winter or for a cold summer night during a hike? Here is our <a href="#list">selection</a> of the best down jackets for 2017 which we have selected to cover your summer and winter backcountry trips.
 
 We have selected a broad range of down jackets which can be worn in different conditions and for different activities like hiking, backpacking, skiing, snowboarding, mountaineering, climbing or on any other outdoor adventure.
 
@@ -20,7 +20,7 @@ Also, check one of our <a href="#video">packrafting videos</a> where we had down
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31571859902/in/dateposted-public/" title="Best Down Jackets 2016 - 2017"><img src="https://c7.staticflickr.com/1/299/31571859902_8b2cb77f6d_b.jpg" width="1024" height="546" alt="Best Down Jackets 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31571859902/in/dateposted-public/" title="Best Down Jackets 2017"><img src="https://c7.staticflickr.com/1/299/31571859902_8b2cb77f6d_b.jpg" width="1024" height="546" alt="Best Down Jackets 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
@@ -30,7 +30,7 @@ The lighter jackets usually come with less down and are more suitable for warmer
 
 <hr>
 
-<h2 id="list"> The best down jackets of 2016 - 2017</h2>
+<h2 id="list"> The best down jackets of 2017</h2>
 
 <div class="table-responsive">
 

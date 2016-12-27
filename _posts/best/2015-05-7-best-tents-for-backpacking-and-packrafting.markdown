@@ -1,7 +1,8 @@
 ---
-title: Best Tents For Backpacking And Packrafting in 2016 - 2017
+title: Best Tents For Backpacking And Packrafting in 2017
 description: The best tent for our backpacking and packrafting adventures.
 date: 2016-01-03 19:10:07
+update_date: 2016-12-27 06:00:52
 category: articles
 tags:
   - articles
@@ -9,16 +10,16 @@ tags:
   - best
 layout: post
 ---
-For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](http://www.hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/ "Hilleberg Anjan") which has served us quite well so far in [Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Packrafting in Sarek"), [the Netherlands](http://www.hikeventures.com/packrafting-in-the-weerribben-wieden-national-park/ "Packrafting in the Netherlands") and [Finland](http://www.hikeventures.com/halloween-adventure-at-lake-suolijarvi/ "Packrafting in Finland"). We have <a href="#list">selected</a> our favorite freestanding and non-freestanding tents  for 2016 - 2017 in this blog post as well as normal and ultralight tents.
+For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](http://www.hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/ "Hilleberg Anjan") which has served us quite well so far in [Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Packrafting in Sarek"), [the Netherlands](http://www.hikeventures.com/packrafting-in-the-weerribben-wieden-national-park/ "Packrafting in the Netherlands") and [Finland](http://www.hikeventures.com/halloween-adventure-at-lake-suolijarvi/ "Packrafting in Finland"). We have <a href="#list">selected</a> our favorite freestanding and non-freestanding tents  for 2017 in this blog post as well as normal and ultralight tents.
 
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9596230289/in/photolist-fBZbWn-pgfsSH-pxH68q-ofA95w-o5hewa-nge5dS-mM722n-mM7oGe-mM6tYt-neeJYC-mM6siX-mM6SVH-mM6JU2-mM6DHi-mM6JsP-Gc8WNG-ngdZdw-nhZhTc-nk3cGV-nhfc78" title="Best Tents For Backpacking And Packrafting in 2016 - 2017"><img src="https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Best Tents For Backpacking And Packrafting in 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9596230289/in/photolist-fBZbWn-pgfsSH-pxH68q-ofA95w-o5hewa-nge5dS-mM722n-mM7oGe-mM6tYt-neeJYC-mM6siX-mM6SVH-mM6JU2-mM6DHi-mM6JsP-Gc8WNG-ngdZdw-nhZhTc-nk3cGV-nhfc78" title="Best Tents For Backpacking And Packrafting in 2017"><img src="https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Best Tents For Backpacking And Packrafting in 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
-<h2 id="list">The best tents for backpacking, hiking and packrafting in 2016 - 2017</h2>
+<h2 id="list">The best tents for backpacking, hiking and packrafting in 2017</h2>
 
 <div class="table-responsive">
 <table class="table table-hover table-bordered list_items">

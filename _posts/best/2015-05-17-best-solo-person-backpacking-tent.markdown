@@ -1,6 +1,6 @@
 ---
-title: Best solo person backpacking tent in 2016 - 2017
-description: Overview of the best solo person backpacking tent for 2016 - 2017.
+title: Best solo person backpacking tent in 2017
+description: Overview of the best solo person backpacking tent for 2017.
 date: 2016-01-03 00:07:07
 category: articles
 tags:
@@ -12,15 +12,15 @@ layout: post
 
 Are you looking for a new tent and want to know which one is the best solo backpacking tent? Well, the best 1-person tent can be a different one in different environments and situations. Are you planning a trip to remote areas? Do you want to use your tent during the winter? Or are you an ultralight aficionado?
 
-I would like to give an <a href="#list">overview</a> about the best solo backpacking tents which we have selected for 2016. It's important to know that each tent is made for a specific purpose so there is no one tent fits all tent. Just as a side note - I have not included tarps in my selection.
+I would like to give an <a href="#list">overview</a> about the best solo backpacking tents which we have selected for 2017. It's important to know that each tent is made for a specific purpose so there is no one tent fits all tent. Just as a side note - I have not included tarps in my selection.
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9596230289/in/photolist-fBZbWn-pgfsSH-pxH68q-ofA95w-o5hewa-nge5dS-mM722n-mM7oGe-mM6tYt-neeJYC-mM6siX-mM6SVH-mM6JU2-mM6DHi-mM6JsP-Gc8WNG-ngdZdw-nhZhTc-nk3cGV-nhfc78" title="Best solo person backpacking tent in 2016 - 2017"><img src="https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Best solo person backpacking tent in 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9596230289/in/photolist-fBZbWn-pgfsSH-pxH68q-ofA95w-o5hewa-nge5dS-mM722n-mM7oGe-mM6tYt-neeJYC-mM6siX-mM6SVH-mM6JU2-mM6DHi-mM6JsP-Gc8WNG-ngdZdw-nhZhTc-nk3cGV-nhfc78" title="Best solo person backpacking tent in 2017"><img src="https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Best solo person backpacking tent in 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
-<h2 id="list">The best solo tents for 2016 - 2017</h2>
+<h2 id="list">The best solo tents for 2017</h2>
 <div class="table-responsive">
 <table class="table table-hover table-bordered list_items">
         <thead>
@@ -243,7 +243,7 @@ If you are looking for a fast and light tent which also protects you from bugs t
 
 <hr>
 
-<img src="https://c2.staticflickr.com/6/5600/15455033882_22ac28bbe8_b.jpg" width="100%" alt="Best Solo 1-person backpacking tent of 2016 / 2017">
+<img src="https://c2.staticflickr.com/6/5600/15455033882_22ac28bbe8_b.jpg" width="100%" alt="Best Solo 1-person backpacking tent of 2017">
 
 A Hilleberg Nallo in the back and a Hilleberg Anjan in the front.
 
@@ -289,7 +289,7 @@ If low weight is your most important factor then you should consider the Hyperli
 
 MSR also offers the new MSR FreeLite 1 (1000 grams) and the MSR Carbon Reflex 1 (790 grams) but they are less durable than the MSR Hubba NX (1290 grams). We found that the floor fabric on the MSR Hubba NX was already quite delicate and the MSR Freelite 1 and MSR Carbon Reflex 1 have a slightly lower weight because they are having a thinner material on the floor and the rainfly than the MSR Hubba NX. Also keep in mind that the shiny white color of the Hyperlite Mountain Gear UltaMid will turn into greyish over the time.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25215098683/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1472/25215098683_07c6ffbfb8_b.jpg" width="100%" alt="Best 1-person backpacking tent of 2016 / 2017 MSR Hubba Hubba NX"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25215098683/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1472/25215098683_07c6ffbfb8_b.jpg" width="100%" alt="Best 1-person backpacking tent of 2017 MSR Hubba Hubba NX"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 On our packrafting trip in Scotland we had a MSR Hubba Hubba NX with us which is also a great 3-season tent, offers space for 2 and costs less than the Hilleberg tents.
 

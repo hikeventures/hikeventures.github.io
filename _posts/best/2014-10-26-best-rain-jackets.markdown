@@ -1,7 +1,8 @@
 ---
-title: Best Rain Jackets 2016 - 2017 for Hiking and Backpacking
-description: Overview of the best men rain Jackets in 2016 for hiking and backpacking
+title: Best Rain Jackets 2017 for Hiking and Backpacking
+description: Overview of the best men rain Jackets in 2017 for hiking and backpacking
 date: 2016-01-04 12:33:51
+update_date: 2016-12-27 06:00:52
 category: articles
 tags:
   - articles
@@ -9,16 +10,16 @@ tags:
   - jackets
 layout: post
 ---
-Do you know how to stay warm during a hiking trip? Don't get wet! Here is my <a href="#list">selection</a> of the best rain jackets for 2016 - 2017 which I have selected from different brands. Planning to go hiking, backpacking, running, climbing, cycling, mountaineering, skiing, snowboarding or snowshoeing? Then you should wear a rain jacket or carry a lightweight rain jacket in your backpack. A rain jacket does not need to weight much and can be a life saver especially when it's cold. Also consider taking lightweight waterproof [rain pants][1] with you.
+Do you know how to stay warm during a hiking trip? Don't get wet! Here is my <a href="#list">selection</a> of the best rain jackets for 2017 which I have selected from different brands. Planning to go hiking, backpacking, running, climbing, cycling, mountaineering, skiing, snowboarding or snowshoeing? Then you should wear a rain jacket or carry a lightweight rain jacket in your backpack. A rain jacket does not need to weight much and can be a life saver especially when it's cold. Also consider taking lightweight waterproof [rain pants][1] with you.
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/16531785111/in/photolist-qGQmse-q3hwoU-r9HdQA-r9HdZU-qUxN4g-rbV4BL-qUxNTH-qUxP2D-qWZDDU-rbRHKM-rc1DjZ-qUxKka-qHtRc2-qfcV5n-qUxPwM-qGRYcg-qffws2-qUqAaj-qeZFSf-qUqAsU-qfcWc2-qUzE8R-qUqwrC-qeZGDf-qUqAQh-rc1F5c-qUqBzd-qUzEbM-qfcXtF-q3uXXe-rbVb1C-qUxL2v-r9KRpJ-qFsUGz-qUxRW6-qUrMdb-qeZAQ1-qUrFbG-qUrFf9-r9Hc7q-qUrMpy-rc1AL2-qSuGqw-qUzEQT-r9Hcwo-qUzF2p-q3huqW-pvvkzn-rc1Fx6-q6yz5f" title="Best new rain jackets for 2016 - 2017"><img src="https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg" width="2048" height="1360" alt="Best new rain jackets for 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/16531785111/in/photolist-qGQmse-q3hwoU-r9HdQA-r9HdZU-qUxN4g-rbV4BL-qUxNTH-qUxP2D-qWZDDU-rbRHKM-rc1DjZ-qUxKka-qHtRc2-qfcV5n-qUxPwM-qGRYcg-qffws2-qUqAaj-qeZFSf-qUqAsU-qfcWc2-qUzE8R-qUqwrC-qeZGDf-qUqAQh-rc1F5c-qUqBzd-qUzEbM-qfcXtF-q3uXXe-rbVb1C-qUxL2v-r9KRpJ-qFsUGz-qUxRW6-qUrMdb-qeZAQ1-qUrFbG-qUrFf9-r9Hc7q-qUrMpy-rc1AL2-qSuGqw-qUzEQT-r9Hcwo-qUzF2p-q3huqW-pvvkzn-rc1Fx6-q6yz5f" title="Best new rain jackets for 2017"><img src="https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg" width="2048" height="1360" alt="Best new rain jackets for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
 
-<h2 id="list">The best rain jackets 2016 - 2017</h2>
+<h2 id="list">The best rain jackets 2017</h2>
 
 <div class="table-responsive">
 
@@ -143,7 +144,7 @@ The Zeta LT Jacket would be my favourite choice if I would select a new waterpro
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9599019542/in/photolist-fCeu5W-fBZ9Pa-fCewCu-fCeuVs-fBZ6JB-fBZ5re-fBZaMc-fCewQ3-fBZbjB-fBZapV-fBZ4QB-fBZ7rH-fCeqR1-fCetpG-fBZcd4-fBZ7U8-fCescG-fCeoTj-fCeso7-fBZ5CR-fCeugy-fBZ4Fk-fCerZw-fCemGh-eixRoh-eis7oH-fBZ3ND-fCerDj-fBZd5R-fCeta7-fCevtj-fBZc4Z-fCevFQ-fCemih-fBZ4gV-fBZ5VP-fCeqcS-fBZ3mc-fCesMw-fBZ8hP-fCeped-fBZcNa-fBZbAg-fCesyW-fCeoi5-fBZ6UV-fBZ7fZ-fCepBj-fCed8L-fBYSLc" title="Filtering Water with Katadyn in Sarek"><img src="https://c7.staticflickr.com/8/7459/9599019542_097779e2ae_b.jpg" width="1024" height="683" alt="Best Rain Jackets in 2016 - Filtering Water with Katadyn in Sarek with a Montane Minimus Jacket"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9599019542/in/photolist-fCeu5W-fBZ9Pa-fCewCu-fCeuVs-fBZ6JB-fBZ5re-fBZaMc-fCewQ3-fBZbjB-fBZapV-fBZ4QB-fBZ7rH-fCeqR1-fCetpG-fBZcd4-fBZ7U8-fCescG-fCeoTj-fCeso7-fBZ5CR-fCeugy-fBZ4Fk-fCerZw-fCemGh-eixRoh-eis7oH-fBZ3ND-fCerDj-fBZd5R-fCeta7-fCevtj-fBZc4Z-fCevFQ-fCemih-fBZ4gV-fBZ5VP-fCeqcS-fBZ3mc-fCesMw-fBZ8hP-fCeped-fBZcNa-fBZbAg-fCesyW-fCeoi5-fBZ6UV-fBZ7fZ-fCepBj-fCed8L-fBYSLc" title="Filtering Water with Katadyn in Sarek"><img src="https://c7.staticflickr.com/8/7459/9599019542_097779e2ae_b.jpg" width="1024" height="683" alt="Best Rain Jackets in 2017 - Filtering Water with Katadyn in Sarek with a Montane Minimus Jacket"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Patrick filtering water with the [Katadyn Mini][5] and wearing the [Montane Minimus Jacket][6] on our [trip][7] in the Sarek National Park in Sweden.
 
@@ -194,7 +195,7 @@ Disclaimer: We have been hiking, packrafting and snowshoeing in Scandinavia, Rus
 
 ---
 
-[1]:	http://www.hikeventures.com/best-rain-pants/ "Best Rain Pants 2016"
+[1]:	http://www.hikeventures.com/best-rain-pants/ "Best Rain Pants 2017"
 [2]:	http://www.hikeventures.com/destinations/
 [3]:	http://www.backcountry.com/montane-minimus-jacket-mens
 [4]:	http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Rain Jacket in Sarek Nationak Park"
@@ -205,4 +206,4 @@ Disclaimer: We have been hiking, packrafting and snowshoeing in Scandinavia, Rus
 [9]:	http://www.hikeventures.com/best-windjackets/ "Wind Jacket"
 [10]:	http://www.backcountry.com/montane-minimus-jacket-mens
 
-[image-1]:	https://c2.staticflickr.com/4/3715/9606341414_1446e73767_o.jpg "Best Rain Jackets in 2016"
+[image-1]:	https://c2.staticflickr.com/4/3715/9606341414_1446e73767_o.jpg "Best Rain Jackets in 2017"

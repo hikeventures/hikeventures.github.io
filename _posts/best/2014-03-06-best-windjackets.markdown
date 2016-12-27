@@ -1,7 +1,8 @@
 ---
-title: Best Wind Jackets for 2016 - 2017
-description: Top 5 windproof Jackets for 2016 for your next outdoor adventure!
+title: Best Wind Jackets for 2017
+description: Top 5 windproof Jackets for 2017 for your next outdoor adventure!
 date: 2016-01-04 10:56:22
+update_date: 2016-12-27 06:00:52
 category: articles
 tags:
   - articles
@@ -11,9 +12,9 @@ layout: post
 ---
 Do you wear a fleece on your hike but still feel cold. Well, it's probably because your fleece jacket does not protect you against cold winds. A lightweight wind jacket is probably one of the most useful piece of clothes which you can take when going hiking, backpacking, climbing, cycling, running or plan any other backcountry trip. A wind jacket does not need much space so you can easily store it in your backpack. Just make sure that you buy a wind jacket with a hoodie. Have a look on my <a href="#list">wind jacket comparison table</a>.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9599027418/in/photolist-fCewqJ-eZwoYv-eZwpTX-fCewQ3-eZwovc-eZHLDm-eZwojP-eZwoGn-eZHLPu-eZHK3s" title="best wind jackets for 2016 - 2017"><img src="https://c3.staticflickr.com/8/7385/9599027418_4123160df8_b.jpg" width="992" height="661" alt="best wind jackets for 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9599027418/in/photolist-fCewqJ-eZwoYv-eZwpTX-fCewQ3-eZwovc-eZHLDm-eZwojP-eZwoGn-eZHLPu-eZHK3s" title="best wind jackets for 2017"><img src="https://c3.staticflickr.com/8/7385/9599027418_4123160df8_b.jpg" width="992" height="661" alt="best wind jackets for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<h2 id="list">The best wind jackets for 2016 - 2017</h2>
+<h2 id="list">The best wind jackets for 2017</h2>
 
 <div class="table-responsive">
 <table class="table table-hover table-bordered list_items">
@@ -130,12 +131,12 @@ amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
 
 ---
 
-Disclaimer: We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new jackets. Here comes our rain jacket buying guide for 2016 (this blog post contains affiliate links).
+Disclaimer: We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new jackets. Here comes our rain jacket buying guide for 2017 (this blog post contains affiliate links).
 
 ---
 
 [1]:	http://www.hikeventures.com/destinations/
-[2]:	http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Best Wind Jackets 2016"
+[2]:	http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Best Wind Jackets 2017"
 [3]:	http://hikeventures.com/gear-review-arcteryx-squamish-hoody/ "Arcteryx Squamish Hoody"
 [4]:	http://www.hikeventures.com/best-rain-jackets/ "Best Rain Jackets"
 [5]:	http://www.hikeventures.com/best-fleece-jackets/ "Best Fleece Jackets"
@@ -148,4 +149,4 @@ Disclaimer: We have been hiking, packrafting and snowshoeing in Scandinavia, Rus
 [12]:	http://www.backcountry.com/arcteryx-squamish-hooded-jacket-mens
 [13]:	https://www.rei.com/product/893303/patagonia-houdini-jacket-mens
 
-[image-1]:	https://c2.staticflickr.com/8/7385/9599027418_a38b42401e_o.jpg "Best Wind Jackets 2016"
+[image-1]:	https://c2.staticflickr.com/8/7385/9599027418_a38b42401e_o.jpg "Best Wind Jackets 2017"
