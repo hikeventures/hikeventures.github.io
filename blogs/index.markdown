@@ -5,9 +5,9 @@ date: "2015-04-06 21:21"
 comments: false
 footer: false
 navbar: Blogs
-published: false
+published: TRUE
 ---
-We are always interested in meeting new people to share our idea or meet up for an outdoor adventure like hiking, packrafting, bicycling, kayaking etc. If you are interested to appear on our list just <a href="http://www.hikeventures.com/about/#contact">send</a> us the URL to your blog and we might add it to our list. 
+We are always interested in meeting new people to share our idea or meet up for an outdoor adventure like hiking, packrafting, bicycling, kayaking etc. If you are interested to appear on our list just <a href="http://www.hikeventures.com/about/#contact">send</a> us the URL to your blog and we might add it to our list.
 
 Of course it would be nice if you could add a link back to our blog.
 
@@ -19,7 +19,7 @@ Of course it would be nice if you could add a link back to our blog.
 
 <a href="https://www.flickr.com/photos/90204224@N07/17158091745"><img src="https://farm9.staticflickr.com/8716/17158091745_b34825f92f_b.jpg" width="1024" height="640"></a>
 
-Ever dreamed of quitting your well paid, respectable job to visit some of the most amazing places on the planet? Interested in hiking, cycle touring and canoeing in remote wilderness regions? Well, that's me. In 2014 I hiked, cycle toured and canoed in Tasmania, Alaska, Canada and Western USA. In 2015 I'll hike 2660 miles of the Pacific Crest Trail from Mexico to Canada. With little time for rest I'll then jump on my bicycle and cycle south to Argentina visiting the most amazing places in Central and South America. After South America, it's a big world! If you have a passion for nature and wilderness areas of the world join me as I discover the most amazing places on the planet. <a href="https://twitter.com/BikeHikeSafari"><i class="fa fa-twitter"></i></a>  <a href="https://www.facebook.com/bikehikesafari"><i class="fa fa-facebook"></i></a>  <a href="https://instagram.com/bikehikesafari/"><i class="fa fa-instagram"></i></a> 
+Ever dreamed of quitting your well paid, respectable job to visit some of the most amazing places on the planet? Interested in hiking, cycle touring and canoeing in remote wilderness regions? Well, that's me. In 2014 I hiked, cycle toured and canoed in Tasmania, Alaska, Canada and Western USA. In 2015 I'll hike 2660 miles of the Pacific Crest Trail from Mexico to Canada. With little time for rest I'll then jump on my bicycle and cycle south to Argentina visiting the most amazing places in Central and South America. After South America, it's a big world! If you have a passion for nature and wilderness areas of the world join me as I discover the most amazing places on the planet. <a href="https://twitter.com/BikeHikeSafari"><i class="fa fa-twitter"></i></a>  <a href="https://www.facebook.com/bikehikesafari"><i class="fa fa-facebook"></i></a>  <a href="https://instagram.com/bikehikesafari/"><i class="fa fa-instagram"></i></a>
 
 ### <a href="http://looking442.wordpress.com">looking442.wordpress.com</a>
 After a mini stroke (TIA) in February 2014, I decided to sell my house, give away any unnecessary possessions, transition to part-time work from a laptop anywhere in the world and travel. So far I've volunteered in a school in Africa, spent 6 weeks camping on a sand island, cycle toured in Australia and South Korea, rode a motorcycle on Java, backpacked Thailand and driven in Malaysia. Next up I will cycle tour Japan, walk the Camino de Santiago de Compastella, return to Java, fat bike and packraft across the England and Scotland for the NNW800 challenge, visit family in Holland during the winter and then fat bike Swedish Lapland in the snow.  I write a post for every day of my travels and organise them by country for easy access. Sometimes posts are delayed but I always write about my daily adventures when traveling. <a href="https://www.facebook.com/lookingfor42"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/andrewgills"><i class="fa fa-twitter"></i></a>  <a href="https://instagram.com/Lookingfor42"><i class="fa fa-instagram"></i></a>
@@ -99,7 +99,7 @@ Das Team von airFreshing.com besteht aus Bergfüchsen, Frischluftfans und ambiti
 
 ### <a href="http://www.frankenlandler.com/">frankenlandler.com</a>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28851407721/in/dateposted-public/" title="FrankenLandler"><img src="https://c2.staticflickr.com/9/8717/28851407721_8f9c7811de_c.jpg" width="533" height="800" alt="FrankenLandler"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-   
+
 Good day, I'm Oli - also known as the Franken Landler. Franken Landler is the new blog from the Nurnberger country with hiking descriptions from Franconia and the Alps. Exxpect to read easy family hikes combined with tips and news around hiking and nature.
 <a href="https://www.facebook.com/frankenlandler/"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/FrankenLandler"><i class="fa fa-twitter"></i></a>  <a href="https://www.instagram.com/frankenlandler/"><i class="fa fa-instagram"></i></a>
 
@@ -107,10 +107,10 @@ Good day, I'm Oli - also known as the Franken Landler. Franken Landler is the ne
 Are you intersted in trekking? Do you plan your own tour? Are you looking for the right equipment? Or just want to read what other experience on their trip? No matter. PACKANDTREK.DE provides you information about tours and equipment, tools and know-how. In our blog you read how about the planning of our tours and what we experience. <a href="https://www.facebook.com/packandtrek/"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/packandtrek_de"><i class="fa fa-twitter"></i></a>
 
 ### <a href="http://www.tarjasblog.de/">tarjasblog.de</a>
-Finland & Photography. Tarjas blog covers everything about Finland and the Finns. Nature, events, culture, midnight sun or polar lights. <a href="https://www.facebook.com/tarjasblog.de/"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/TarjaP_"><i class="fa fa-twitter"></i></a>  <a href="https://www.instagram.com/tarjasblog.de/"><i class="fa fa-instagram"></i></a> <a href="https://plus.google.com/u/0/108253975957652260757"><i class="fa fa-google-plus"></i></a> 
+Finland & Photography. Tarjas blog covers everything about Finland and the Finns. Nature, events, culture, midnight sun or polar lights. <a href="https://www.facebook.com/tarjasblog.de/"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/TarjaP_"><i class="fa fa-twitter"></i></a>  <a href="https://www.instagram.com/tarjasblog.de/"><i class="fa fa-instagram"></i></a> <a href="https://plus.google.com/u/0/108253975957652260757"><i class="fa fa-google-plus"></i></a>
 
 ### <a href="http://www.traumsteige.com/">traumsteige.com</a>
-<a href="https://www.facebook.com/Traumsteige1/"><i class="fa fa-facebook"></i></a> 
+<a href="https://www.facebook.com/Traumsteige1/"><i class="fa fa-facebook"></i></a>
 
 ### <a href="http://outdoorfever.de/">outdoorfever.de</a>
 <a href="https://www.facebook.com/outdoorfever.de"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/outdoorfever"><i class="fa fa-twitter"></i></a>  <a href="http://www.flickr.com/photos/kraxel-magazin/"><i class="fa fa-flickr"></i></a>  <a href="https://plus.google.com/+OutdoorfeverDe/posts"><i class="fa fa-google-plus"></i></a>  <a href="https://www.pinterest.com/outdoorfever/"><i class="fa fa-pinterest"></i></a>
@@ -199,7 +199,7 @@ My mission: To share the experiences I have during outdoor adventures in the Ame
 
 ### <a href="http://www.heartofthewoods.com">heartofthewoods.com</a>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26604683511/in/dateposted-public/" title="heartofthewoods.com"><img src="https://farm2.staticflickr.com/1698/26604683511_d9a0bd6409_b.jpg" width="1024" height="683" alt="heartofthewoods.com"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  
+
 Heartofthewoods.com inspires and informs you how to adventure more often and more effectively. Natasha Mila, founder, believes it is possible to adventure outdoors and travel no matter what your lifestyle or budget!
 
 Takeaways from this site:
@@ -213,7 +213,7 @@ Takeaways from this site:
 <a href="https://www.facebook.com/hikingforward"><i class="fa fa-facebook"></i></a>  <a href="http://twitter.com/hikingforward"><i class="fa fa-twitter"></i></a> <a href="http://instagram.com/hikingforward"><i class="fa fa-instagram"></i></a>
 
 ### <a href="http://hikinginglacier.blogspot.com/">hikinginglacier.blogspot.com</a>
-The Huckleberry Hiker covers news, events and discussions about all things hiking in the Wyoming and Montana region, as well as our own adventures. We specifically focus on Glacier National Park and Grand Teton National Park. <a href="https://twitter.com/glacierhiker1"><i class="fa fa-twitter"></i></a> 
+The Huckleberry Hiker covers news, events and discussions about all things hiking in the Wyoming and Montana region, as well as our own adventures. We specifically focus on Glacier National Park and Grand Teton National Park. <a href="https://twitter.com/glacierhiker1"><i class="fa fa-twitter"></i></a>
 <a href="https://www.facebook.com/heartofthewoodspage"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/_natashamila_"><i class="fa fa-twitter"></i></a>  <a href="https://instagram.com/Natasha.Mila"><i class="fa fa-instagram"></i></a>
 
 ### <a href="http://www.kellieclee.com">kellieclee.com</a>
