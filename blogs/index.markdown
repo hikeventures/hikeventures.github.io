@@ -17,15 +17,12 @@ Of course it would be nice if you could add a link back to our blog.
 
 ### <a href="http://bikehikesafari.com/">bikehikesafari.com</a>
 
-<a href="https://www.flickr.com/photos/90204224@N07/17158091745"><img src="https://farm9.staticflickr.com/8716/17158091745_b34825f92f_b.jpg" width="1024" height="640"></a>
-
 Ever dreamed of quitting your well paid, respectable job to visit some of the most amazing places on the planet? Interested in hiking, cycle touring and canoeing in remote wilderness regions? Well, that's me. In 2014 I hiked, cycle toured and canoed in Tasmania, Alaska, Canada and Western USA. In 2015 I'll hike 2660 miles of the Pacific Crest Trail from Mexico to Canada. With little time for rest I'll then jump on my bicycle and cycle south to Argentina visiting the most amazing places in Central and South America. After South America, it's a big world! If you have a passion for nature and wilderness areas of the world join me as I discover the most amazing places on the planet. <a href="https://twitter.com/BikeHikeSafari"><i class="fa fa-twitter"></i></a>  <a href="https://www.facebook.com/bikehikesafari"><i class="fa fa-facebook"></i></a>  <a href="https://instagram.com/bikehikesafari/"><i class="fa fa-instagram"></i></a>
 
 ### <a href="http://looking442.wordpress.com">looking442.wordpress.com</a>
 After a mini stroke (TIA) in February 2014, I decided to sell my house, give away any unnecessary possessions, transition to part-time work from a laptop anywhere in the world and travel. So far I've volunteered in a school in Africa, spent 6 weeks camping on a sand island, cycle toured in Australia and South Korea, rode a motorcycle on Java, backpacked Thailand and driven in Malaysia. Next up I will cycle tour Japan, walk the Camino de Santiago de Compastella, return to Java, fat bike and packraft across the England and Scotland for the NNW800 challenge, visit family in Holland during the winter and then fat bike Swedish Lapland in the snow.  I write a post for every day of my travels and organise them by country for easy access. Sometimes posts are delayed but I always write about my daily adventures when traveling. <a href="https://www.facebook.com/lookingfor42"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/andrewgills"><i class="fa fa-twitter"></i></a>  <a href="https://instagram.com/Lookingfor42"><i class="fa fa-instagram"></i></a>
 
 ### <a href="http://lotsafreshair.com/">lotsafreshair.com</a>
-<a href="https://www.flickr.com/photos/90204224@N07/16635644863"><img src="https://farm9.staticflickr.com/8818/16635644863_438F73e4da8_b.jpg" width="1024" height="768"></a>
 Everyone talks about the need to unplug from their stressful lives and connect with nature and themselves by spending time in nature. However, when faced with the possibility of getting 'out there', many people come up with excuses that stop them from doing that. Lotsafreshair is a blog and YouTube channel all about encouraging people to get out and blow away those excuses. From what to pack, what food to take or how to adjust a backpack, Lotsafreshair aims to connect people with nature and help them fall in love with their outside selves. It provides a mix of not only practical quick tips and how-to's, but inspirational journeys and adventures in Australia and overseas.<a href="https://www.facebook.com/lotsafreshair"><i class="fa fa-facebook"></i></a> <a href="http://twitter.com/Lotsafreshair"><i class="fa fa-twitter"></i></a>  <a href="http://instagram.com/Lotsafreshair"><i class="fa fa-instagram"></i></a>  <a href="https://www.youtube.com/user/Lotsafreshair"><i class="fa fa-youtube"></i></a>
 
 ---
@@ -43,12 +40,11 @@ Everyone talks about the need to unplug from their stressful lives and connect w
 <a href="https://www.facebook.com/davidcappelle.blog"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/wandering_david"><i class="fa fa-twitter"></i></a>
 
 ### <a href="http://www.kaspergeuns.com/">kaspergeuns.com</a>
-<img src="https://farm1.staticflickr.com/297/19499672614_0dc5de9f99_b.jpg" width="960" height="960" alt="kasper &amp; charlotte">
 <a href="https://www.facebook.com/kasper.charlotte"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/kaspergeuns/"><i class="fa fa-twitter"></i></a>  <a href="https://instagram.com/KASPERGEUNS/"><i class="fa fa-instagram"></i></a>  <a href="https://vimeo.com/user10535942"><i class="fa fa-vimeo"></i></a>  <a href="https://www.pinterest.com/kaspergeuns/"><i class="fa fa-pinterest"></i></a>
 
 ### <a href="https://mattiemeetsnature.wordpress.com/">mattiemeetsnature.wordpress.com</a>
 I'm a chronic pain patient (3 times surgery on my back in the past 3 years) who rehabilitates in nature by walking/ hiking.
- On my blog you'll find hikes on log distance trails and shorter walks in the most beautiful regions of Belgium.<a href="https://www.facebook.com/mattiemeetsnature/"><i class="fa fa-facebook"></i></a> <a href="https://www.instagram.com/Mattie_Meets_Nature/"><i class="fa fa-instagram"></i></a>
+On my blog you'll find hikes on log distance trails and shorter walks in the most beautiful regions of Belgium.<a href="https://www.facebook.com/mattiemeetsnature/"><i class="fa fa-facebook"></i></a> <a href="https://www.instagram.com/Mattie_Meets_Nature/"><i class="fa fa-instagram"></i></a>
 
 ### <a href="https://tsjolinge.wordpress.com">tsjolinge.wordpress.com</a>
 A young couple who like to share our outdoor experiences.
@@ -58,8 +54,6 @@ A young couple who like to share our outdoor experiences.
 ## Bosnia Herzegovina
 
 ### <a href="http://thewildone.me/">thewildone.me</a>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28428477595/in/dateposted-public/" title="thewildone.me"><img src="https://c4.staticflickr.com/9/8726/28428477595_93ef22df14_b.jpg" width="1024" height="680" alt="thewildone.me"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 My name is Sabina Sirćo and I'm young blogger from Sarajevo, the capital city of Bosnia and Herzegovina. I’m a passionate hiker and I enjoy traveling and writing about my adventures. For me hiking through dense forests, across mountains and untamed territory is like meditating. I love the feeling of freedom and adventure that comes from hiking and traveling.
 
 <a href="https://www.facebook.com/thewildone.me/"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/thewildoneme"><i class="fa fa-twitter"></i></a>  <a href="https://www.instagram.com/the_wildone6/
@@ -81,8 +75,6 @@ Everything families need to know to get outside and have fun! Trip reports, pack
 ## Denmark
 
 ### <a href="http://urbanpackrafter.com">urbanpackrafter.com</a>
-
-<a href="https://www.flickr.com/photos/90204224@N07/16870181530"><img src="https://farm8.staticflickr.com/7705/16870181530_52d3758b98_b.jpg" width="1024" height="681"></a>
 My name is Jacob Kastrup Haagensen and I am a 34 year old Dane living in Copenhagen and working in the city administration. In the 2013 I brought a packraft and a year after I started documenting my trips by videos on the site <a href="http://www.urbanpackrafter.com">urbanpackrafter.com</a>. The idea was also to take micro adventures inside Copenhagen and other cities I visit. I want to inspire other packrafters also to use their packraft in the city. To see a city from the waterside gives you an hole new perspective on where you live. Educated in urban planning I have a love for cities and the opportunities they give. I also love the wild. Since my Boy Scout time I always being out in nature. I have a lot of love for the Scandinavian nature with its solitude and many of my wilderness trips goes to Sweden and Norway. A packraft gives other opportunities where lakes and rivers being trails instead of obstacles. <a href="https://twitter.com/urbanpackrafter"><i class="fa fa-twitter"></i></a>
 
 ---
@@ -98,8 +90,6 @@ Das Team von airFreshing.com besteht aus Bergfüchsen, Frischluftfans und ambiti
 <a href="https://www.facebook.com/aufdenbergde"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/aufdenbergde"><i class="fa fa-twitter"></i></a>  <a href="https://www.instagram.com/aufdenbergde/"><i class="fa fa-instagram"></i></a>  <a href="https://www.pinterest.com/aufdenbergde/"><i class="fa fa-pinterest"></i></a>
 
 ### <a href="http://www.frankenlandler.com/">frankenlandler.com</a>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28851407721/in/dateposted-public/" title="FrankenLandler"><img src="https://c2.staticflickr.com/9/8717/28851407721_8f9c7811de_c.jpg" width="533" height="800" alt="FrankenLandler"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 Good day, I'm Oli - also known as the Franken Landler. Franken Landler is the new blog from the Nurnberger country with hiking descriptions from Franconia and the Alps. Exxpect to read easy family hikes combined with tips and news around hiking and nature.
 <a href="https://www.facebook.com/frankenlandler/"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/FrankenLandler"><i class="fa fa-twitter"></i></a>  <a href="https://www.instagram.com/frankenlandler/"><i class="fa fa-instagram"></i></a>
 
@@ -120,8 +110,6 @@ Finland & Photography. Tarjas blog covers everything about Finland and the Finns
 ## Sweden
 
 ### <a href="http://cesarandthewoods.blogspot.fi/">cesarandthewoods.blogspot.fi</a>
-
-<img src="http://2.bp.blogspot.com/-DFTWNIebtbk/VU5BhAyRUWI/AAAAAAAAE8A/ITnWQyXqfFY/s1600/DSC01810.JPG">
 Hey!  I'm Cesar and this is my blog.  I have been extremely interested in nature and the outdoors since I was a small child, and started going camping/backpacking on my own when I was around 16 years old.  I was born in 1980 in Los Angeles, CA, to a Mexican father and Nicaraguan mother, and since have lived and traveled all over the world.  I have been living in Sweden since 2006 with my best friend and wife and our children, two healthy, happy, amazing boys that are the light of my life.  Here are the goals of my blog in a nutshell:
 
 1.  To create a website I wish I would have had access to when I started my journey as an outdoors enthusiast/backpacker/camper, long ago in the dark days before blogs existed.
@@ -137,15 +125,10 @@ I hope my blog is helpful and/or enjoyable to read.  Take care and happy trails 
 ## United Kingdom
 
 ### <a href="http://andersbrogaardadventures.tumblr.com">andersbrogaardadventures.tumblr.com</a>
-
-<a href="https://www.flickr.com/photos/90204224@N07/17120837402"><img src="https://farm8.staticflickr.com/7682/17120837402_693da2ee93_b.jpg" width="1024" height="499"></a>
-
 My blog, Facebook and Youtube is about adventure, the great outdoors and photography/film.   
 There is a lot of pictures, small stories and gear. Im on the Woodland Ways two year bushcraft instructors course, an aspiring Mountain Leader and member of BMC and MCofS. REC2 certified and a very keen trekker. Im especially interested in the Scottish Highlands and will spend a lot of time over the next year, exploring these wonderful hills and making pictures and video while doing so. <a href="https://www.facebook.com/andersbrogaardadventures"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/andersbrogaard"><i class="fa fa-twitter"></i></a>  <a href="https://instagram.com/andersbrogaardphoto/"><i class="fa fa-instagram"></i></a>  <a href="https://www.youtube.com/channel/UCCimG-eeJ31j_ihV5VTPJdg/videos"><i class="fa fa-youtube"></i></a>
 
 ### <a href="http://blackdogbicycling.blogspot.com">blackdogbicycling.blogspot.com</a>
-<a href="https://www.flickr.com/photos/90204224@N07/16971940099"><img src="https://farm9.staticflickr.com/8770/16971940099_42ddf02cac_o.jpg" width="640" height="480"></a>
-
 Hi, my name is Tom Boughton. This blog follows my journey. In 2013 I was depressed and quit my office job in London, bought a bicycle and a tent and set off east with only a vague idea of where and why. Two years and 25,000 kilometers later I've cycled over the Alps, through minefields in the Balkans and across the empty quarter in Oman. Pushed the bike through snow drifts in Wales and up 20% inclines in Armenia. Visited Alexander the Great's birth place and the remains of Persepolis that he burnt down in Iran. Dodged army patrols in Musandam and fought off aggressive macaques in Malaysia. I reached the southern tip of New Zealand and didn't want to stop so I haven't yet. All the while I have been wild camping under the stars and living cheap.  Come along for the ride. <a href="https://twitter.com/gordon_comstock"><i class="fa fa-twitter"></i></a>
 
 ### <a href="https://markswalkingblog.wordpress.com">markswalkingblog.wordpress.com</a>
@@ -160,12 +143,9 @@ The site was voted Best Independent Walking Blog and his books have been shortli
 An outdoor blog including cycling, survival, outdoor tech and survival. It shows real life ideas and adventures and tests gears. Cornwall based but with a global footprint! <a href="https://www.facebook.com/Kernowoutdoors"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/kernowoutdoors"><i class="fa fa-twitter"></i></a>  <a href="https://instagram.com/topmat/"><i class="fa fa-instagram"></i></a>
 
 ### <a href="http://www.thebimbler.co.uk">thebimbler.co.uk</a>
-<a href="https://www.flickr.com/photos/90204224@N07/18466301726"><img src="https://c1.staticflickr.com/1/289/18466301726_0fa2df5ea8_b.jpg" width="1024" height="575" alt="Hammock"></a>
 The Bimbler Photo Blog is all about low octane adventure in South West UK with an emphasis on stopping to soak up the environment and eating snacks! <a href="https://www.facebook.com/theBimbler"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/The_Bimbler"><i class="fa fa-twitter"></i></a>  <a href="https://instagram.com/topmat/"><i class="fa fa-instagram"></i></a>
 
 ### <a href="http://onepaceforward.com">onepaceforward.com</a>
-<img src="https://farm4.staticflickr.com/3736/19978123638_64d435d118_b.jpg" width="960" height="720" alt="Copyright by onepaceforward.com">
-
 One Pace Forward is blog for hiking, adventure, travels, history & more, both in the UK and beyond. <a href="https://www.facebook.com/onepaceforward"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/onepaceforward"><i class="fa fa-twitter"></i></a>
 
 ---
@@ -177,16 +157,12 @@ Adventure in the Outdoors is home to stories of hiking, camping, climbing and ot
 
 
 ### <a href="http://www.adventuretykes.com">adventuretykes.com</a>
-
-<a href="https://www.flickr.com/photos/90204224@N07/16967505087"><img src="https://farm8.staticflickr.com/7689/16967505087_21907bf92d_b.jpg" width="1024" height="768"></a>
 Helping to inspire and motivate parents to get outside with their tykes. Find resources on hiking, camping, backpacking and mountain biking as a family along with gear reviews, tips/ideas and giveaways. <a href="https://www.facebook.com/adventuretykes"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/alocalwander"><i class="fa fa-twitter"></i></a>  <a href="https://instagram.com/alocalwander"><i class="fa fa-instagram"></i></a>
 
 ### <a href="http://www.alocalwander.com">alocalwander.com</a>
 Encouraging families to get outdoors together through our family adventures in hiking, camping, and other things. <a href="http://facebook.com/alocalwander"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/AdventureTykes"><i class="fa fa-twitter"></i></a>  <a href="https://instagram.com/AdventureTykes"><i class="fa fa-instagram"></i></a>
 
 ### <a href="http://www.packraft.org">packraft.org</a>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/22903055653/in/dateposted-public/" title="American Packrafting Association"><img src="https://farm6.staticflickr.com/5623/22903055653_5b71ac331b_o.png" width="383" height="304" alt="American Packrafting Association"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 <a href="https://www.facebook.com/AmericanPackraftingAssociation"><i class="fa fa-facebook"></i></a>
 
 ### <a href="http://www.christownsendoutdoors.com">christownsendoutdoors.com</a>
@@ -198,8 +174,6 @@ Outdoor writer and photographer with a passion for wilderness and mountains. <a 
 My mission: To share the experiences I have during outdoor adventures in the American Southwest (focusing on AZ, UT, and CA) with others. I hope to get people interested in getting outside and enjoying the incredible landscape surrounding us. There is so much out there to see. Life has a finite amount of time with infinite possibilities, don’t wait, get out there!
 
 ### <a href="http://www.heartofthewoods.com">heartofthewoods.com</a>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26604683511/in/dateposted-public/" title="heartofthewoods.com"><img src="https://farm2.staticflickr.com/1698/26604683511_d9a0bd6409_b.jpg" width="1024" height="683" alt="heartofthewoods.com"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 Heartofthewoods.com inspires and informs you how to adventure more often and more effectively. Natasha Mila, founder, believes it is possible to adventure outdoors and travel no matter what your lifestyle or budget!
 
 Takeaways from this site:
@@ -226,7 +200,6 @@ I’m a transplanted Southern Californian living in the Midwest. It’s taken so
 <a href="https://www.facebook.com/missourihowell"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/MissouriHowell"><i class="fa fa-twitter"></i></a>  <a href="https://plus.google.com/u/0/105981686788990057744/posts"><i class="fa fa-google-plus"></i></a>  <a href="https://www.pinterest.com/divotdoggy/"><i class="fa fa-pinterest"></i></a>   <a href="https://instagram.com/missourihowell/"><i class="fa fa-instagram"></i></a>  <a href="https://www.youtube.com/channel/UCA9HWnKiqw2wmxOW85K_ecg"><i class="fa fa-youtube"></i></a>
 
 ### <a href="https://newenglandoutside.com">newenglandoutside.com</a>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26495301530/in/dateposted-public/" title="newenglandoutside.com"><img src="https://farm2.staticflickr.com/1538/26495301530_d92591c2e6_b.jpg" width="684" height="1024" alt="newenglandoutside.com"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br>
 New England is a four season outdoor playground with limitless hiking, cycling, skiing, trail running and climbing. New England Outside exists to show you where to find the best adventures in this wonderful region. Check back often for trip reports, gear reviews and the outdoor insight that you need to enjoy everything that New England has to offer. <a href="https://www.facebook.com/NewEnglandOutside/"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/newenglnoutside"><i class="fa fa-twitter"></i></a>  <a href="https://www.instagram.com/newenglandoutside/"><i class="fa fa-instagram"></i></a>
 
 ### <a href="http://pureadk.com/">pureadk.com</a>
@@ -249,7 +222,6 @@ Find YOUR next adventure at SoCalHiker. <a href="http://www.facebook.com/SoCalHi
 Trail to Summit documents Allison's adventures throughout New Hampshire's White Mountains and beyond. You'll also find tasty recipes, gear reviews mainly focusing on ultralight hiking and backpacking, tips, and unique features on small companies and great people in the outdoors. There's a lot to discover out there. See you on the trail! <a href="https://www.facebook.com/TrailToSummit"><i class="fa fa-facebook"></i></a> <a href="http://twitter.com/trailtosummit"><i class="fa fa-twitter"></i></a>  <a href="http://instagram.com/trailtosummit"><i class="fa fa-instagram"></i></a>  <a href="https://vimeo.com/user5372919"><i class="fa fa-vimeo"></i></a>  <a href="https://www.youtube.com/user/allison881000/videos"><i class="fa fa-youtube"></i></a>
 
 ### <a href="https://trailsnailmud.wordpress.com/">trailsnailmud.wordpress.com</a>
-<a href="https://www.flickr.com/photos/90204224@N07/16935466609"><img src="https://farm9.staticflickr.com/8813/16935466609_ba06b18ffe_b.jpg" width="1024" height="767"></a>
 A blog which shares and encourages safe, respectful, and awesomely fun adventures with dogs…canoeing,camping, skijoring, hiking, and more!
 
 ### <a href="http://dustyhouseadventures.com">dustyhouseadventures.com</a>
