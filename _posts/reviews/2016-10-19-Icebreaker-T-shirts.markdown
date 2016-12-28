@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Five Reasons Why I Buy Icebreaker T-shirts and why they are one of the best Merino clothes manufacturers?
+title: Five Reasons to buy an Icebreaker t-shirt
 description: Based on my experiences during the last five years
 date: 2016-10-19 12:30:00
 category: reviews
