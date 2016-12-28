@@ -7,9 +7,7 @@ footer: false
 navbar: Blogs
 
 ---
-We are always interested in meeting new people to share our idea or meet up for an outdoor adventure like hiking, packrafting, bicycling, kayaking etc. If you are interested to appear on our list just <a href="http://www.hikeventures.com/about/#contact">send</a> us the URL to your blog and we might add it to our list.
-
-Of course it would be nice if you could add a link back to our blog.
+Here is a selection of some of the best outdoor blogs and we are always adding new blogs to our list. We are always interested to meet and share ideas with other outdoor bloggers and to meet up for an outdoor adventure like hiking or packrafting. If you are interested to appear on the list below just <a href="http://www.hikeventures.com/about/#contact">send</a> us the URL to your blog and we might add you to our list.
 
 <hr>
 
