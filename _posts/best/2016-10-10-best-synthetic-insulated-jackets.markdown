@@ -128,7 +128,7 @@ The Rab Nebula Jacket is a featherless synthetic insulated jacket which dries qu
 <hr>
 
 
-<h3><a href="http://amzn.to/2izVzhg" target="_blank" rel="nofollow">Mountain Equipment Fitzroy Jacket</a></td><td>645g</h3>
+<h3><a href="http://amzn.to/2izVzhg" target="_blank" rel="nofollow">Mountain Equipment Fitzroy Jacket</a></h3>
 
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01M0M15V4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01M0M15V4&linkCode=as2&tag=hikeve-20&linkId=90de06f42ccfbc699ec9f6f7971de843"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01M0M15V4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01M0M15V4" width="1" height="1" border="0" alt="Mountain Equipment Fitzroy Jacket" style="border:none !important; margin:0px !important;" />
