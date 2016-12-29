@@ -57,7 +57,7 @@ When choosing a synthetic insulated jacket then you are selecting a more durable
             <td><a href="http://amzn.to/2inkT6M" target="_blank" rel="nofollow">Rab Nebula Jacket</a></td><td>580g</td>
           </tr>
           <tr>
-                    <td><a href="http://amzn.to/2izVzhg" target="_blank" rel="nofollow">Mountain Equipment Fitzroy Jacket</a></td><td>645g</td>
+                    <td><a href="http://amzn.to/2iI5RMm" target="_blank" rel="nofollow">Mountain Equipment Fitzroy Jacket</a></td><td>645g</td>
           </tr>
           <tr>
                     <td><a href="http://amzn.to/2izVzhg" target="_blank" rel="nofollow">Rab Photon X Jacket</a></td><td>670g</td>
