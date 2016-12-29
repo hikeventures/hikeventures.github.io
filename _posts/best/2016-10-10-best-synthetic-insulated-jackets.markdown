@@ -22,6 +22,7 @@ Here is our <a href="#list">selection</a> of the best synthetic insulated jacket
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31571859902/in/dateposted-public/" title="Best Down Jackets 2017"><img src="https://c7.staticflickr.com/1/299/31571859902_8b2cb77f6d_b.jpg" width="1024" height="546" alt="Best Synthetic Insulated Jackets for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
+<!--more-->
 
 When choosing a synthetic insulated jacket then you are selecting a more durable, reliable and water resistant option compared to a goose down jacket. However, a disadvantage with synthetic insulation is that they are more bulky and offer less insulation than down.
 
