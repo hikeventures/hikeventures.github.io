@@ -57,6 +57,9 @@ When choosing a synthetic insulated jacket then you are selecting a more durable
             <td><a href="http://amzn.to/2inkT6M" target="_blank" rel="nofollow">Rab Nebula Jacket</a></td><td>580g</td>
           </tr>
           <tr>
+                    <td><a href="http://amzn.to/2izVzhg" target="_blank" rel="nofollow">Mountain Equipment Fitzroy Jacket</a></td><td>645g</td>
+          </tr>
+          <tr>
                     <td><a href="http://amzn.to/2izVzhg" target="_blank" rel="nofollow">Rab Photon X Jacket</a></td><td>670g</td>
           </tr>
         <tr>
@@ -124,6 +127,20 @@ The Rab Nebula Jacket is a featherless synthetic insulated jacket which dries qu
 
 <hr>
 
+
+<h3><a href="http://amzn.to/2izVzhg" target="_blank" rel="nofollow">Mountain Equipment Fitzroy Jacket</a></td><td>645g</h3>
+
+
+<a target="_blank"  href="https://www.amazon.com/gp/product/B01M0M15V4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01M0M15V4&linkCode=as2&tag=hikeve-20&linkId=90de06f42ccfbc699ec9f6f7971de843"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01M0M15V4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01M0M15V4" width="1" height="1" border="0" alt="Mountain Equipment Fitzroy Jacket" style="border:none !important; margin:0px !important;" />
+
+**Weight:** 645g
+
+The Mountain Equipment Fitzroy Jacket is a wind and water resistant jacket filled with PrimaloftÂ® GOLD insulation. It also comes with an insulated hood with wired visor. The Mountain Equipment Fitzroy Jacket is currently my go-to insulated jacket which I was wearing in the [Scottish Highlands](http://www.hikeventures.com/Packrafting-River-Dee-Scotland-1/).
+
+<a href="http://amzn.to/2izVzhg" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+
+<hr>
+
 <h3><a href="http://amzn.to/2izVzhg" target="_blank" rel="nofollow">Rab Photon X Jacket</a></h3>  
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B013HANSVC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B013HANSVC&linkCode=as2&tag=hikeve-20&linkId=1bd8744e8a5cfb28bcdca42bf11532fd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B013HANSVC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B013HANSVC" width="1" height="1" border="0" alt="Rab Photon X Jacket" style="border:none !important; margin:0px !important;" />
@@ -147,6 +164,9 @@ The Arcteryx Fission SV Jacket is a waterproof, insulated jacket with Coreloftâ„
 
 <a href="http://amzn.to/2hKcJEG" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
+
+<hr>
+Disclosure: We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new products. This blog post contains affiliate links.
 <hr>
 
 <script type="text/javascript">
