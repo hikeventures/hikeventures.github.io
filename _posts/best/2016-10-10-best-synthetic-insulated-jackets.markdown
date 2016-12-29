@@ -48,7 +48,7 @@ When choosing a synthetic insulated jacket then you are selecting a more durable
           <td><a href="http://amzn.to/2iAqRAw" target="_blank" rel="nofollow">Black Diamond Access Hoody</a></td><td>330g</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2iaM9Wk" target="_blank" rel="nofollow">Outdoor Research Cathode Hooded Jacket</a></td><td>379g</td>
+          <td><a href="http://amzn.to/2hyHoJe" target="_blank" rel="nofollow">Outdoor Research Cathode Hooded Jacket</a></td><td>379g</td>
         </tr>
         <tr>
           <td><a href="http://amzn.to/2inuE4W" target="_blank" rel="nofollow">Arcteryx Nuclei AR Jacket</a></td><td>460g</td>
