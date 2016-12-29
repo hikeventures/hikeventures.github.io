@@ -23,43 +23,6 @@ Here is our <a href="#list">selection</a> of the best synthetic insulated jacket
 
 ---
 
-Arcteryx Atom LT Hoody 360g
-http://amzn.to/2htGei5
-<a target="_blank"  href="https://www.amazon.com/gp/product/B0163RVX90/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0163RVX90&linkCode=as2&tag=hikeve-20&linkId=e368f172eb6b965d9f8d730017e213eb"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0163RVX90&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0163RVX90" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-
-Arcteryx Cerium LT Hoody 295g
-http://amzn.to/2iaIYhe
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00Q9MHO70/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q9MHO70&linkCode=as2&tag=hikeve-20&linkId=4ea3c7e2e31306af352a91c4885d7144"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00Q9MHO70&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00Q9MHO70" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-
-Arcteryx Fission SV Jacket 935g
-http://amzn.to/2hKcJEG
-<a target="_blank"  href="https://www.amazon.com/gp/product/B0163RV2CS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0163RV2CS&linkCode=as2&tag=hikeve-20&linkId=a3923acc1cc490545436e2c9e856ebef"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0163RV2CS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0163RV2CS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-
-Arcteryx Nuclei AR Jacket 460g
-http://amzn.to/2inuE4W
-<a target="_blank"  href="https://www.amazon.com/gp/product/B01KH4JLDA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01KH4JLDA&linkCode=as2&tag=hikeve-20&linkId=78919096e8840168351407223e7208ae"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01KH4JLDA&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01KH4JLDA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-Rab Photon X Jacket 670g
-http://amzn.to/2izVzhg
-<a target="_blank"  href="https://www.amazon.com/gp/product/B013HANSVC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B013HANSVC&linkCode=as2&tag=hikeve-20&linkId=1bd8744e8a5cfb28bcdca42bf11532fd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B013HANSVC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B013HANSVC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-Rab Nebula Jacket 580g
-http://amzn.to/2inkT6M
-<a target="_blank"  href="https://www.amazon.com/gp/product/B013HAICMC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B013HAICMC&linkCode=as2&tag=hikeve-20&linkId=b48e9716614bf990671e84c8ee05b3ea"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B013HAICMC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B013HAICMC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-Outdoor Research Cathode Hooded Jacket 379g
-http://amzn.to/2iaM9Wk
-<a target="_blank"  href="https://www.amazon.com/gp/product/B0163RVYDK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0163RVYDK&linkCode=as2&tag=hikeve-20&linkId=232e7aca74b934b8cd60f708594bbb18"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0163RVYDK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0163RVYDK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-
-Black Diamond Access Hoody 330g
-http://amzn.to/2iAqRAw
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00PMV72SU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PMV72SU&linkCode=as2&tag=hikeve-20&linkId=762a06803036da54107089cba7f7502a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00PMV72SU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00PMV72SU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-
 When choosing a synthetic insulated jacket then you are selecting a more durable, reliable and water resistant option compared to a goose down jacket. However, a disadvantage with synthetic insulation is that they are more bulky and offer less insulation than down.
 
 <hr>
@@ -112,124 +75,76 @@ Sometimes you might also get a down jacket for a significant lower price especia
 
 <hr>
 
-<h3 id="example"><a href="http://amzn.to/2doK4aj" target="_blank" rel="nofollow">Mountain Hardware Ghost Whisperer Hooded Down Jacket</a></h3>
+<h3><a href="http://amzn.to/2iaIYhe" target="_blank" rel="nofollow">Arcteryx Cerium LT Hoody</a></h3>
 
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00Q9MHO70/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q9MHO70&linkCode=as2&tag=hikeve-20&linkId=4ea3c7e2e31306af352a91c4885d7144"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00Q9MHO70&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00Q9MHO70" width="1" height="1" border="0" alt="Arcteryx Cerium LT Hoody" style="border:none !important; margin:0px !important;" />
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GULW0DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GULW0DS&linkCode=as2&tag=hikeve-20&linkId=RSEZE3QFDW2FVB3A" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GULW0DS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GULW0DS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+**Weight:** 295g  
 
-**Weight:** 212g
+The Arcteryx Cerium LT Hoody is not a pure synthetic insulated jacket and replaces the synthetic insulation with 850 goose down on areas where moisture may build up. With 295 grams it's the lightest jacket in our list. This jacket is useful for active people but you may rather pick a different jacket if you are planning to visit a very wet or humid place.
 
-The Mountain Hardware Ghost Whisperer Hooded Down Jacket is one of the lightest down jackets available. This is a great jacket for camping during spring, summer and autumn or as a light mid-layer for the winter. If you are looking for a proper winter jacket then we would rather pick the Rab Infinity Endurance or the Rab Positron jacket. For a stylish jacket to use during winter mainly in town we would go for the Arcteryx Ceres jacket.
-
-<a href="http://amzn.to/2doK4aj" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
-
-<hr>
-
-<h3><a href="http://amzn.to/2doJmJP" target="_blank" rel="nofollow">Arcteryx Cerium LT Hoody (850fp)</a></h3>
-
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00Q9MHXN0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q9MHXN0&linkCode=as2&tag=hikeve-20&linkId=Y5N4EYNVYQ5UDXXJ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q9MHXN0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q9MHXN0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/>
-
-**Weight:** 275g  
-
-Similar as the Arcteryx Cerium LT Jacket just with a hoodie. We would pick the Cerium LT Hoody if we would have to choose a down jacket for moderate winter or for camping during spring and autumn. LT stands for lightweight in the Arcteryx product line.
-
-<a href="http://amzn.to/2doJmJP" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2iaIYhe" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 <hr>
 
-<h3><a href="http://amzn.to/2elEHtO" target="_blank" rel="nofollow">Marmot Quasar Hoody (900fp)</a></h3>
+<h3><a href="http://amzn.to/2iaM9Wk" target="_blank" rel="nofollow">Outdoor Research Cathode Hooded Jacket</a></h3>
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00DNNZ3KI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DNNZ3KI&linkCode=as2&tag=hikeve-20&linkId=UITTBILMF3IBYVRI"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DNNZ3KI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DNNZ3KI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.com/gp/product/B0163RVYDK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0163RVYDK&linkCode=as2&tag=hikeve-20&linkId=232e7aca74b934b8cd60f708594bbb18"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0163RVYDK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0163RVYDK" width="1" height="1" border="0" alt="Outdoor Research Cathode Hooded Jacket" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 372g
+**Weight:** 379g
 
-The Marmot Quasar Hoody is also an interesting jacket with it's high down fill power covered by light Pertex Quantum fabric (similar as other models in our list) which makes it also somewhat water repellent. The additional zip on the front adds a little bit more weight to the jacket. We would wear the Marmot Quasar Hoody during moderate winter or camping during spring and summer.
+The Cathode Hooded Jacket has Schoeller® underarm side panels that can breath and stretch. The jacket is filled with water-resistant PrimaLoft® Gold insulation and with a super-lightweight Pertex® Quantum shell. The jacket is a great choice for cold and wet alpine environments and for those looking for a lightweight and breathable solution.
 
-<a href="http://amzn.to/2elEHtO" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
-
-<hr>
-
-<h3><a href="http://amzn.to/2dBjOHV" target="_blank" rel="nofollow">Arcteryx Cerium SV Hoody (850fp)</a></h3>
-
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GW80Q9E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW80Q9E&linkCode=as2&tag=hikeve-20&linkId=WCQGDJJ5MREZ5EUX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW80Q9E&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW80Q9E" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Weight:** 440g
-
-The Arcteryx Cerium SV Hoody is part of Arcteryx severe weather product line - most durable materials which provides most weather protection. We would wear this jacket during the winter. For camping during spring and summer it's probably going to be a bit too warm.
-
-<a href="http://amzn.to/2dBjOHV" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2iaM9Wk" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 <hr>
 
-<h3><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Patagonia Men's Down Hooded Jacket (800fp)</a></h3>  
+<h3><a href="http://amzn.to/2inuE4W" target="_blank" rel="nofollow">Arcteryx Nuclei AR Jacket</a></h3>
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00OZGABKY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OZGABKY&linkCode=as2&tag=hikeve-20&linkId=OLFQERZDADI4UC3J"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00OZGABKY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00OZGABKY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.com/gp/product/B01KH4JLDA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01KH4JLDA&linkCode=as2&tag=hikeve-20&linkId=78919096e8840168351407223e7208ae"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01KH4JLDA&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01KH4JLDA" width="1" height="1" border="0" alt="Arcteryx Nuclei AR Jacket" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 550g
+**Weight:** 460g
 
-Patagonia is another popular outdoor brand and delivers a super light down jacket which comes with 2 zipped hand warmer pockets and elastic-bound cuffs and hem. The shell of the jacket is durable water repellent. The Patagonia Men's Down Hooded Jacket can be used as a light winter jacket.
+The Arcteryx Nuclei AR Jacket is a good choice for alpine climbers and is filled with Coreloft™ 100 insulation with a fully seam taped GORE® THERMIUM™ shell which is water resistand and windproof but also very breathable. The jacket is designed with an articulated patterning which increases ergonomic freedom. Moreover, the jacket comes with a helmet-compatible insulated StormHood™ which does not impact your vision.
 
-<a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
-
-<hr>
-
-<h3><a href="http://www.amazon.com/gp/product/B00DTT6DXC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DTT6DXC&linkCode=as2&tag=hikeve-20&linkId=N7SHBEPWSYPV25ZK" target="_blank" rel="nofollow">Rab Infinity Endurance Jacket (850fp)</a></h3>
-
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00DTT6DXC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DTT6DXC&linkCode=as2&tag=hikeve-20&linkId=N7SHBEPWSYPV25ZK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DTT6DXC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DTT6DXC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Weight:** 575g
-
-The  Rab Infinity Endurance Jacket is a technical alpine or mountaineering jacket. It's high fill power and low weight makes this probably one of the best lightweight winter down jackets. If you need a warmer jacket then the Rab Positron Jacket would be an alternative option which adds approximately 30% more warmth.
-
-<a href="http://www.amazon.com/gp/product/B00DTT6DXC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DTT6DXC&linkCode=as2&tag=hikeve-20&linkId=N7SHBEPWSYPV25ZK" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2inuE4W" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 <hr>
 
-<h3><a href="http://amzn.to/2e7V1Mx" target="_blank" rel="nofollow">Rab Positron Jacket (800fp)</a></h3>
+<h3><a href="http://amzn.to/2inkT6M" target="_blank" rel="nofollow">Rab Nebula Jacket</a></h3>
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00XJO2X18/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00XJO2X18&linkCode=as2&tag=hikeve-20&linkId=5POHXUOALSVWVY2B"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00XJO2X18&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00XJO2X18" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.com/gp/product/B013HAICMC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B013HAICMC&linkCode=as2&tag=hikeve-20&linkId=b48e9716614bf990671e84c8ee05b3ea"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B013HAICMC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B013HAICMC" width="1" height="1" border="0" alt="Rab Nebula Jacket" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 720g
+**Weight:** 580g
 
-The  Rab Positron Jacket is proper box-wall down winter jacket with a water-resistant outer fabric. The manufacturer claims that it has been designed for mountain and expedition use up to 6000m. This jacket delivers about 30% more warmth than the Rab Infinity Endurance jacket.
+The Rab Nebula Jacket is a featherless synthetic insulated jacket which dries quickly. The jacket is designed as an all-rounder which is perfect for climbing and winter walking. The jacket has a helmet compatible hood for climbing use and a Pertex® Endurance® shell to make the jacket water resistant.
 
-<a href="http://amzn.to/2e7V1Mx" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
-
-<hr>
-
-<h3><a href="http://amzn.to/2endumN" target="_blank" rel="nofollow">Arcteryx Ceres Jacket (850fp)</a></h3>
-
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GV47ZVQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GV47ZVQ&linkCode=as2&tag=hikeve-20&linkId=W5UOOTWBV54OBDXF" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GV47ZVQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20"></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GV47ZVQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Weight:** 860g
-
-More heavy than the other jackets in our list, the Arcteryx Ceres Jacket is made for the deep winter where warmth is the most important factor. This jacket is a probably a great option if you also want to have a fashionable jacket to wear in the city.
-
-<a href="http://amzn.to/2endumN" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2inkT6M" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 <hr>
 
-<h3><a href="http://amzn.to/2gZiVML" target="_blank" rel="nofollow">Fjällräven Arktis Parka (500fp)</a></h3>
+<h3><a href="http://amzn.to/2izVzhg" target="_blank" rel="nofollow">Rab Photon X Jacket</a></h3>  
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01M15A80Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01M15A80Q&linkCode=as2&tag=hikeve-20&linkId=16c5a28fb62372436348b1edd2b1c6c0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01M15A80Q&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01M15A80Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.com/gp/product/B013HANSVC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B013HANSVC&linkCode=as2&tag=hikeve-20&linkId=1bd8744e8a5cfb28bcdca42bf11532fd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B013HANSVC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B013HANSVC" width="1" height="1" border="0" alt="Rab Photon X Jacket" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 1945g
+**Weight:** 670g
 
-The Fjällräven Arktis Parka is made for very cold conditions and keeps you warm even during low-intensity activities. The Fjällräven Arktis Parka and the Canada Goose Expedition Down Parka are the warmest jackets in our selection.
+The Rab Photon X Jacket is a water-resistant winter jacket filled with Primaloft® Gold synthetic insulation and was designed for use in harsh Scottish Winter conditions. The jacket features zoned synthetic insulation to eliminate cold spots and is reinforecd in key areas. The jacket also comes with a helmet-compatible hood.
 
-<a href="http://amzn.to/2gZiVML" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2izVzhg" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 <hr>
 
-<h3><a href="http://amzn.to/2hMJNwd" target="_blank" rel="nofollow">Canada Goose Expedition Down Parka (625fp)</a></h3>
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01KXUFDQC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01KXUFDQC&linkCode=as2&tag=hikeve-20&linkId=5aaf89773baa2dd8884a28b116bf9e3e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01KXUFDQC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01KXUFDQC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<h3><a href="http://amzn.to/2hKcJEG" target="_blank" rel="nofollow">Arcteryx Fission SV Jacket</a></h3>
 
-**Weight:** 2070g
+<a target="_blank"  href="https://www.amazon.com/gp/product/B0163RV2CS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0163RV2CS&linkCode=as2&tag=hikeve-20&linkId=a3923acc1cc490545436e2c9e856ebef"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0163RV2CS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0163RV2CS" width="1" height="1" border="0" alt="Arcteryx Fission SV Jacket" style="border:none !important; margin:0px !important;" />
 
-The Canada Goose Expedition Down Parka was originally designed for scientists in Antarctica. This is probably the warmest jacket in our selection.
+**Weight:** 935g
 
-<a href="http://amzn.to/2hMJNwd" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+The Arcteryx Fission SV Jacket is a waterproof, insulated jacket with Coreloft™ insulation. This jacket is the warmest synthetic insulated all-mountain jacket in Arcteryx product range which is also waterproof while still breathable. 
+
+<a href="http://amzn.to/2hKcJEG" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 <hr>
 
@@ -248,152 +163,3 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "94ae095fd527d4f97d365afbd4404fcf";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
----
-
-## Accessories
-
-### [Sea to Summit Ultra-Sil eVENT Compression Dry Sack][14]
-
-Down is the perfect gear which can be compressed. Use a compression dry sack to decrease the size of your down jacket and your sleeping bag to a minimum and to keep your down jacket dry. The Sea to Summit Ultra-Sil eVENT Compression Dry Sack is one of the view compression sacks which are actually waterproof.
-
-<a href="https://www.amazon.com/gp/product/B00SUDY9EM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SUDY9EM&linkCode=as2&tag=hikeve-20&linkId=16d737f5ad282e8329e468a92146474a" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00SUDY9EM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00SUDY9EM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
----
-
-### [Nikwax Down Wash Direct][15]
-
-Use Nikwax Down Wash to wash your down jacket.
-
-<a href="https://www.amazon.com/gp/product/B00XI1WT20/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00XI1WT20&linkCode=as2&tag=hikeve-20&linkId=c3c4439de353bcbe73f51529506bd904" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00XI1WT20&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00XI1WT20" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
----
-
-### [Nikwax Down Proof Waterproofing][16]
-
-Nikwax Down Proof helps to make your down more water repellent. Down insulates less when it gets wet and with Nikwax Down Proof you can protect your down a little bit.
-
-<a href="https://www.amazon.com/gp/product/B001OPF4ME/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001OPF4ME&linkCode=as2&tag=hikeve-20&linkId=7fb79637721016c5341362451750b228" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001OPF4ME&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001OPF4ME" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-<hr>
-
-## FAQ on Down Jackets
-
-### When not to wear a down jacket?
-
-You should avoid wearing your down-jacket while you are active (e.g. hiking, biking, climbing or skiing) since down insulates less when it gets wet. So ideally you wear a [fleece jacket][17] when you are active and switch to your down jacket when you are resting.
-
----
-
-### When not to wear a down jacket?
-
-You should avoid wearing your down-jacket while you are active (e.g. hiking, biking, climbing or skiing) since down insulates less when it gets wet. So ideally you wear a [fleece jacket][18] when you are active and switch to your down jacket when you are resting.
-
----
-
-### What is down quality?
-
-A high down quality indicates that less down is needed to keep you warm for the same weight (e.g. a fill power of 900 keeps you more warm than a fill power of 700 with the same amount of down) - having higher warmth-to-weight ratio. A down jacket with the highest fill power and the lightest shell fabric can be considered an ultralight down jacket. Fill power is measured by cuin. A ratio of 90:10 expresses the down-feather ratio (90% down and 10% feathers).
-
----
-
-### Are down jackets waterproof?
-
-The shell of your down jacket is slightly water repellent in order to keep the down dry in case you get into very light rain. If you expect to get more rain, swap the down jacket with a [fleece jacket][19] and pull on a [rain jacket][20]. So in general, down jackets are not waterproof.
-
----
-
-### How are down jackets designed?
-
-The baffles of a down jacket keep the down in place. There are two possibilities to create those baffles:
-
-* Stitch-through baffles (stitches are the areas where cold can come through the jacket)
-* Box wall baffles (better option as there are no areas on the jacket which are not filled with down as opposed to the stitch-through design).
-
----
-
-### Should a down jacket have a hood?
-
-We would go for a hooded down jacket, as you can use the hood also in your sleeping bag if temperatures drop below of what your sleeping bag is capable to handle.
-
----
-
-### What is the difference in traditional and hydrophobic down (or HydroDown)?
-
-Hydrophobic down does not absorb water that quickly as traditional down. A hydrophobic down jacket keeps its insulation longer than a traditional down jacket if it gets wet.
-
----
-
-### Down jackets compared to synthetic filled jackets
-
-Synthetic filled jackets keep you dry even so when they are wet. Disadvantages of a synthetic filled jacket is it's shorter life and it takes more space to pack it in the backpack. It also weights more to deliver the same amount of warmth compared to a down filled jacket. Down is more durable than synthetic fill, more breathable, windproof but also dries slower. A wet down jacket also weights more than a wet synthetic jacket since it absorbs more water. Usually, we carry our down jacket and sleeping bag in a waterproof stuff sack if we don't need them.
-
----
-
-### Which design features are important on a down jacket?
-
-To keep the warmth inside your jacket, a waist drawstring and wrist closures (e.g. Velcro) are important features. Pockets and a hood are useful as well. The hood should be sewed to the jacket if you want to get maximum warmth. Less pockets and zippers on a down jacket can also reduce weight.
-
----
-
-### Which fabric shell should be used on a lightweight down jacket?
-
-Many new down jackets feature nowadays a light ripstop shell to make the down jacket a bit resistant against moisture. One disadvantage of those light ripstop shells is that they are not very durable and if it starts raining your down jacket will still soak up water. However, we found them to be sufficient as we usually only wear a down jacket to walk around in camp or as an additional layer in my sleeping bag. So in general, we don't find it important to have a waterproof down jacket which would also lower the breathability of the down jacket.
-
----
-
-### Should a down jacket have a hood?
-
-We would go for a hooded down jacket, as you can use the hood also in your sleeping bag if temperatures drop below of what your sleeping bag is capable to handle.
-
----
-
-### How to clean a down jacket?
-
-The best way to clean a down jacket is to wash it inside out in a washing machine with very low speed. As washing liquid we always use Nikwax Downwash and sometimes additionally Nikwax Downproof to make the down a bit more resistant against moisture.
-
----
-
-### What is the difference in traditional and hydrophobic down (or HydroDown)?
-
-Hydrophobic down does not absorb water that quickly as traditional down. A hydrophobic down jacket keeps its insulation longer than a traditional down jacket if it gets wet.
-
----
-
-### Down jackets compared to synthetic filled jackets
-
-Synthetic filled jackets keep you dry even so when they are wet. Disadvantages of a synthetic filled jacket is it's shorter life and it takes more space to pack it in the backpack. It also weights more to deliver the same amount of warmth compared to a down filled jacket. Down is more durable than synthetic fill, more breathable, windproof but also dries slower. A wet down jacket also weights more than a wet synthetic jacket since it absorbs more water. Usually, we carry our down jacket and sleeping bag in a waterproof stuff sack if we don't need them.
-
----
-
-### Which design features are important on a down jacket?
-
-To keep the warmth inside your jacket, a waist drawstring and wrist closures (e.g. Velcro) are important features. Pockets and a hood are useful as well. The hood should be sewed to the jacket if you want to get maximum warmth. Less pockets and zippers on a down jacket can also reduce weight.
-
----
-
-### Which fabric shell should be used on a lightweight down jacket?
-
-Many new down jackets feature nowadays a light ripstop shell to make the down jacket a bit resistant against moisture. One disadvantage of those light ripstop shells is that they are not very durable and if it starts raining your down jacket will still soak up water. However, we found them to be sufficient as we usually only wear a down jacket to walk around in camp or as an additional layer in my sleeping bag. So in general, we don't find it important to have a waterproof down jacket which would also lower the breathability of the down jacket.
-
----
-
-### How to keep a down jacket dry?
-
-You can keep your down jacket dry by storing it in a waterproof compression bag when you are hiking in wet conditions and to use your down jacket only in your tent.
-
----
-
-Disclaimer: We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new products. This blog post contains affiliate links.
-
----
-
-[1]:	http://www.hikeventures.com/destinations/
-[2]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Finnish Lapland"
-[14]:	http://www.backcountry.com/sea-to-summit-event-compression-dry-sack
-[15]:	http://www.backcountry.com/nikwax-down-wash-direct
-[16]:	http://www.backcountry.com/nikwax-down-proof-solution
-[17]:	http://www.hikeventures.com/best-fleece-jackets/
-[18]:	http://www.hikeventures.com/best-fleece-jackets/
-[19]:	http://www.hikeventures.com/best-fleece-jackets/ "fleece jacket"
-[20]:	http://www.hikeventures.com/best-waterproof-rain-jackets/ "rain jacket"
