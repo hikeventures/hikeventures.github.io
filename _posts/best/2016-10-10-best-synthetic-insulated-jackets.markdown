@@ -179,7 +179,7 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Amazon Search Results";
-amzn_assoc_default_search_phrase = "synthetic insulated hooded jacket";
+amzn_assoc_default_search_phrase = "arcteryx synthetic insulated jacket";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "94ae095fd527d4f97d365afbd4404fcf";
 </script>
