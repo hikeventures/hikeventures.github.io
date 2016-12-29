@@ -67,7 +67,7 @@ Do you know how to stay warm during a hiking trip? Don't get wet! Here is my <a 
 
 <h3><a href="http://amzn.to/2e34CD3" target="_blank" rel="nofollow">Berghaus Vapourlight Hyper Smock 2.0</a></h3>
 
- <a rel="nofollow" href="http://www.amazon.com/gp/product/B00SHH9E3W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SHH9E3W&linkCode=as2&tag=hikeve-20&linkId=FCQDAPPO56OTZDB3"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SHH9E3W&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00SHH9E3W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+ <a rel="nofollow" href="http://www.amazon.com/gp/product/B00SHH9E3W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SHH9E3W&linkCode=as2&tag=hikeve-20&linkId=FCQDAPPO56OTZDB3"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SHH9E3W&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00SHH9E3W" width="1" height="1" border="0" alt="Berghaus Vapourlight Hyper Smock 2.0" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 75 grams  
 **Fabric:** Hydroshell Hyper  
@@ -80,7 +80,7 @@ The Berghaus Vapourlight Hyper Smock 2.0 is the lightest waterproof jacket in ou
 
 <h3><a href="http://amzn.to/2dBLJYc" target="_blank" rel="nofollow">Outdoor Research Helium II Jacket</a></h3>
 
-<a  href="http://www.amazon.com/gp/product/B005BV88T8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005BV88T8&linkCode=as2&tag=hikeve-20&linkId=JO3FT2NIOPZSMMGK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005BV88T8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005BV88T8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="http://www.amazon.com/gp/product/B005BV88T8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005BV88T8&linkCode=as2&tag=hikeve-20&linkId=JO3FT2NIOPZSMMGK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005BV88T8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005BV88T8" width="1" height="1" border="0" alt="Outdoor Research Helium II Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 180 grams  
 **Fabric:** Pertex Shield, nylon ripstop (30D)
@@ -93,7 +93,7 @@ The Outdoor Research Helium II Jacket is also a quite popular rain jacket. It fe
 
 <h3><a href="http://amzn.to/2evQYHY" rel="nofollow">Rab Flashpoint Jacket</a></h3>
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00UI4SP6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UI4SP6O&linkCode=as2&tag=hikeve-20&linkId=UF2ERPU6WIB5S727"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00UI4SP6O&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00UI4SP6O" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00UI4SP6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UI4SP6O&linkCode=as2&tag=hikeve-20&linkId=UF2ERPU6WIB5S727"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00UI4SP6O&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00UI4SP6O" width="1" height="1" border="0" alt="Rab Flashpoint Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 185 grams  
 **Fabric:** 3L Pertex Shield  
@@ -106,7 +106,7 @@ The Rab Flashpoint Jacket is also a super light rain jacket. With 185 grams it's
 
 <h3><a href="http://amzn.to/2e31BCI" rel="nofollow">Montane Minimus Jacket</a></h3>
 
- <a rel="nofollow" href="http://www.amazon.com/gp/product/B004SPCZW4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004SPCZW4&linkCode=as2&tag=hikeve-20&linkId=XQWBWNDOOIDSRSSU"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004SPCZW4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B004SPCZW4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+ <a rel="nofollow" href="http://www.amazon.com/gp/product/B004SPCZW4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004SPCZW4&linkCode=as2&tag=hikeve-20&linkId=XQWBWNDOOIDSRSSU"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004SPCZW4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B004SPCZW4" width="1" height="1" border="0" alt="Montane Minimus Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 208 grams  
 **Fabric:**  PERTEX Shield +  
@@ -121,7 +121,7 @@ I would choose the Montane Minimus Jacket as my go-to jacket if every gram count
 
 <h3><a href="http://amzn.to/2e33vTI" rel="nofollow">Mountain Hardwear Plasmonic Jacket</a></h3>
 
- <a rel="nofollow" href="http://www.amazon.com/gp/product/B010N9XVY4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B010N9XVY4&linkCode=as2&tag=hikeve-20&linkId=VMEOHRWCSWDP5XOF"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B010N9XVY4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B010N9XVY4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+ <a rel="nofollow" href="http://www.amazon.com/gp/product/B010N9XVY4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B010N9XVY4&linkCode=as2&tag=hikeve-20&linkId=VMEOHRWCSWDP5XOF"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B010N9XVY4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B010N9XVY4" width="1" height="1" border="0" alt="Mountain Hardwear Plasmonic Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 323 grams  
 **Fabric:** Dry Q EVAP 70D 2 5L  
@@ -136,7 +136,7 @@ The Mountain Hardwear Plasmonic Jacket is one of the best selling jackets from M
 
 <h3><a href="http://amzn.to/2eTGFR8" target="_blank" rel="nofollow">Arcteryx Zeta LT Jacket</a></h3>
 
- <a rel="nofollow" href="http://www.amazon.com/gp/product/B00Q837B50/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q837B50&linkCode=as2&tag=hikeve-20&linkId=Z43W3DTANP74O3MC"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q837B50&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q837B50" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+ <a rel="nofollow" href="http://www.amazon.com/gp/product/B00Q837B50/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q837B50&linkCode=as2&tag=hikeve-20&linkId=Z43W3DTANP74O3MC"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q837B50&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q837B50" width="1" height="1" border="0" alt="Arcteryx Zeta LT Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 335 grams  
 **Fabric:** N40p-X 3L GORE-TEX

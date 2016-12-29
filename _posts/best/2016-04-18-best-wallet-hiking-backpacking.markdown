@@ -21,11 +21,11 @@ But not only weight is an important factor when considering which wallet to choo
 
 However, if you still prefer to have notes and coins with you then there is also the Fjällräven Zip Wallet which is a  bit bigger than the Fjällräven Zip Card Holder and has more compartments to store your cards and money.
 
-<a  href="http://www.amazon.com/gp/product/B00SV3VMAA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SV3VMAA&linkCode=as2&tag=hikeve-20&linkId=V7S5GUAZJAGX4CXV"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SV3VMAA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00SV3VMAA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="http://www.amazon.com/gp/product/B00SV3VMAA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SV3VMAA&linkCode=as2&tag=hikeve-20&linkId=V7S5GUAZJAGX4CXV"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SV3VMAA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00SV3VMAA" width="1" height="1" border="0" alt="Fjällräven Zip Wallet" style="border:none !important; margin:0px !important;" />
 
 Both wallets are made of G-1000 fabric - a synthetic / cotton mixture which Fjällräven also uses on it's clothes.
 
-<a  href="http://www.amazon.com/gp/product/B00SVCRDKO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SVCRDKO&linkCode=as2&tag=hikeve-20&linkId=NOZFI5R7S4BF7ZNL"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SVCRDKO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00SVCRDKO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="http://www.amazon.com/gp/product/B00SVCRDKO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SVCRDKO&linkCode=as2&tag=hikeve-20&linkId=NOZFI5R7S4BF7ZNL"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SVCRDKO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00SVCRDKO" width="1" height="1" border="0" alt="Fjällräven Zip Wallet" style="border:none !important; margin:0px !important;" />
 
 ---
 

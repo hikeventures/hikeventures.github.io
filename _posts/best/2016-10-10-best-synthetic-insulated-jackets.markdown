@@ -1,5 +1,4 @@
 ---
-published: false
 title: Best Synthetic Insulated Jackets for 2017
 description: Need a warm jacket for your autumn or winter? We found the best Synthetic Insulated Jackets for 2017
 date: 2016-10-10 20:43:52
@@ -142,7 +141,7 @@ The Rab Photon X Jacket is a water-resistant winter jacket filled with Primaloft
 
 **Weight:** 935g
 
-The Arcteryx Fission SV Jacket is a waterproof, insulated jacket with Coreloft™ insulation. This jacket is the warmest synthetic insulated all-mountain jacket in Arcteryx product range which is also waterproof while still breathable. 
+The Arcteryx Fission SV Jacket is a waterproof, insulated jacket with Coreloft™ insulation. This jacket is the warmest synthetic insulated all-mountain jacket in Arcteryx product range which is also waterproof while still breathable.
 
 <a href="http://amzn.to/2hKcJEG" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 

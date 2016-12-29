@@ -74,7 +74,7 @@ Patrick <a href="http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekk
 <h3 id="example"><a href="http://amzn.to/2fuHUlH" target="_blank" rel="nofollow">Icebreaker Men's Everyday Long Sleeve Crewe Top</a></h3>
 
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00AF6ZJU0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00AF6ZJU0&linkCode=as2&tag=hikeve-20&linkId=0d3a561edcc67b7476a134331a210451"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00AF6ZJU0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00AF6ZJU0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00AF6ZJU0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00AF6ZJU0&linkCode=as2&tag=hikeve-20&linkId=0d3a561edcc67b7476a134331a210451"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00AF6ZJU0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00AF6ZJU0" width="1" height="1" border="0" alt="Icebreaker Men's Everyday Long Sleeve Crewe Top" style="border:none !important; margin:0px !important;" />
 
 
 **Weight:** 210g
@@ -87,7 +87,7 @@ The Icebreaker Men's Everyday Long Sleeve crewe is made from a 200gm rib fabric 
 
 <h3><a href="http://amzn.to/2fxuOau" target="_blank" rel="nofollow">Helly Hansen Men's HH Warm Ice Long Sleeve Base Layer Crew</a></h3>  
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/B01ET3Z7N8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01ET3Z7N8&linkCode=as2&tag=hikeve-20&linkId=381411ea38c46c5efedaaf191c1f5f55"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01ET3Z7N8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01ET3Z7N8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.com/gp/product/B01ET3Z7N8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01ET3Z7N8&linkCode=as2&tag=hikeve-20&linkId=381411ea38c46c5efedaaf191c1f5f55"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01ET3Z7N8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01ET3Z7N8" width="1" height="1" border="0" alt="Helly Hansen Men's HH Warm Ice Long Sleeve Base Layer Crew" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 230g
 
@@ -99,7 +99,7 @@ The Helly Hansen Men's HH Warm Ice Long Sleeve Base Layer Crew consists of less 
 
 <h3><a href="http://amzn.to/2gb2N6E" target="_blank" rel="nofollow">Icebreaker Men's Oasis Long Sleeve Crewe Top</a></h3>
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00AF5J9P2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00AF5J9P2&linkCode=as2&tag=hikeve-20&linkId=a411e489c2fce05bf7599ea540ef0b1d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00AF5J9P2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00AF5J9P2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00AF5J9P2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00AF5J9P2&linkCode=as2&tag=hikeve-20&linkId=a411e489c2fce05bf7599ea540ef0b1d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00AF5J9P2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00AF5J9P2" width="1" height="1" border="0" alt="Icebreaker Men's Oasis Long Sleeve Crewe Top" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 232g  
 
@@ -111,7 +111,7 @@ The Icebreaker Men's Oasis Long Sleeve Crewe is similar to the Icebreaker Men's 
 
 <h3><a href="http://amzn.to/2fv4cDN" target="_blank" rel="nofollow">Smartwool Men's NTS Mid 250 Crew Base Layer Shirt</a></h3>
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00GX9I6OO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GX9I6OO&linkCode=as2&tag=hikeve-20&linkId=1eb46389fcc23fd4c3dfbb77b953d0d1"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00GX9I6OO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00GX9I6OO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00GX9I6OO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GX9I6OO&linkCode=as2&tag=hikeve-20&linkId=1eb46389fcc23fd4c3dfbb77b953d0d1"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00GX9I6OO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00GX9I6OO" width="1" height="1" border="0" alt="Smartwool Men's NTS Mid 250 Crew Base Layer Shirt" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 260g
 
@@ -123,7 +123,7 @@ The Smartwool Men's NTS Mid 250 Crew Base Layer Shirt is the warmest base layer 
 
 <h3><a href="http://amzn.to/2fv96As" target="_blank" rel="nofollow">Icebreaker Men's Zone One Sheep Suit</a></h3>
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/B019O9Y0NU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019O9Y0NU&linkCode=as2&tag=hikeve-20&linkId=d160845cc9bc9ffbc030abe8f7582b4d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B019O9Y0NU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B019O9Y0NU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.com/gp/product/B019O9Y0NU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019O9Y0NU&linkCode=as2&tag=hikeve-20&linkId=d160845cc9bc9ffbc030abe8f7582b4d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B019O9Y0NU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B019O9Y0NU" width="1" height="1" border="0" alt="Icebreaker Men's Zone One Sheep Suit" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 590g
 

@@ -82,7 +82,7 @@ Personally, I like the Petzl Nao Plus most since it has plenty of features and a
 
 <h3><a href="http://amzn.to/2gBew1C" rel="nofollow">Petzl Nao Plus</a></h3>
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/B01LFW5BZA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LFW5BZA&linkCode=as2&tag=hikeve-20&linkId=2d9e99b52f76bcef56db554a685feaba"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LFW5BZA&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LFW5BZA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.com/gp/product/B01LFW5BZA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LFW5BZA&linkCode=as2&tag=hikeve-20&linkId=2d9e99b52f76bcef56db554a685feaba"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LFW5BZA&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LFW5BZA" width="1" height="1" border="0" alt="Petzl Nao Plus" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 187 grams / 0.4 lbs  
 **Lumen:** 750  
@@ -96,7 +96,7 @@ The Petzl Nao Plus features 750 lumen. It's reactive lightning system let's you 
 
 <h3><a href="http://www.amazon.com/gp/product/B00BA4R43Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BA4R43Q&linkCode=as2&tag=hikeve-20&linkId=BMMHTF6L4KCESYEM" rel="nofollow">Petzl Tikka RXP</a></h3>
 
-<a href="http://www.amazon.com/gp/product/B00BA4R43Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BA4R43Q&linkCode=as2&tag=hikeve-20&linkId=BMMHTF6L4KCESYEM" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BA4R43Q&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00BA4R43Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.com/gp/product/B00BA4R43Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BA4R43Q&linkCode=as2&tag=hikeve-20&linkId=BMMHTF6L4KCESYEM" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BA4R43Q&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00BA4R43Q" width="1" height="1" border="0" alt="Petzl Tikka RXP" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 115 grams / 0.25 lbs  
 **Lumen:** 215  
@@ -109,9 +109,9 @@ Almost half the Lumen power of the Petzl Nao, the Petzl Tikka RXP is much lighte
 
 ---
 
-<h3><a href="http://www.amazon.com/gp/product/B005FNCPBE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005FNCPBE&linkCode=as2&tag=hikeve-20&linkId=WBUHJA3GU3TCBJXQ" rel="nofollow">Black Diamond Icon </a></h3>
+<h3><a href="http://www.amazon.com/gp/product/B005FNCPBE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005FNCPBE&linkCode=as2&tag=hikeve-20&linkId=WBUHJA3GU3TCBJXQ" rel="nofollow">Black Diamond Icon</a></h3>
 
-<a href="http://www.amazon.com/gp/product/B005FNCPBE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005FNCPBE&linkCode=as2&tag=hikeve-20&linkId=WBUHJA3GU3TCBJXQ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005FNCPBE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005FNCPBE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.com/gp/product/B005FNCPBE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005FNCPBE&linkCode=as2&tag=hikeve-20&linkId=WBUHJA3GU3TCBJXQ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005FNCPBE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005FNCPBE" width="1" height="1" border="0" alt="Black Diamond Icon" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 220 grams / 0.49 lbs
 **Lumen:** 200  
@@ -126,7 +126,7 @@ With 220 grams and 'only' 200 Lumen, the Black Diamond Icon has a much lower Lum
 
 <h3><a href="http://www.amazon.com/gp/product/B00HIW1I2C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HIW1I2C&linkCode=as2&tag=hikeve-20&linkId=SXRO3IZVWEGIXOPW" rel="nofollow">Zebralight H600 Mk II 18650 XM-L2 </a></h3>
 
-<a href="http://www.amazon.com/gp/product/B00HIW1I2C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HIW1I2C&linkCode=as2&tag=hikeve-20&linkId=SXRO3IZVWEGIXOPW" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HIW1I2C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00HIW1I2C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.com/gp/product/B00HIW1I2C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HIW1I2C&linkCode=as2&tag=hikeve-20&linkId=SXRO3IZVWEGIXOPW" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HIW1I2C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00HIW1I2C" width="1" height="1" border="0" alt="Zebralight H600 Mk II 18650 XM-L2" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 39 grams (excl. batteries) / 0.09 lbs
 **Lumen:** 1090  
@@ -140,7 +140,7 @@ With 220 grams and 'only' 200 Lumen, the Black Diamond Icon has a much lower Lum
 
 <h3><a href="http://www.amazon.com/gp/product/B00F5EA7LI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F5EA7LI&linkCode=as2&tag=hikeve-20&linkId=CBMFG5EQHMBGE3I5" rel="nofollow">Princeton Tec Apex</a></h3>
 
-<a href="http://www.amazon.com/gp/product/B00F5EA7LI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F5EA7LI&linkCode=as2&tag=hikeve-20&linkId=CBMFG5EQHMBGE3I5" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00F5EA7LI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00F5EA7LI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.com/gp/product/B00F5EA7LI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F5EA7LI&linkCode=as2&tag=hikeve-20&linkId=CBMFG5EQHMBGE3I5" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00F5EA7LI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00F5EA7LI" width="1" height="1" border="0" alt="Princeton Tec Apex" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 279 grams / 0.62 lbs
 **Lumen:** 275  
@@ -154,7 +154,7 @@ The Princeton Tec Apex is the brightest headlamp Princeton Tec has to offer. It'
 
 <h3><a  href="http://www.amazon.com/gp/product/B00LAEZEN8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LAEZEN8&linkCode=as2&tag=hikeve-20&linkId=Z2ZEQ56UMSSEFBID" rel="nofollow">Black Diamond ReVolt Headlamp</a></h3>
 
-<a  href="http://www.amazon.com/gp/product/B00LAEZEN8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LAEZEN8&linkCode=as2&tag=hikeve-20&linkId=Z2ZEQ56UMSSEFBID" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LAEZEN8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LAEZEN8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="http://www.amazon.com/gp/product/B00LAEZEN8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LAEZEN8&linkCode=as2&tag=hikeve-20&linkId=Z2ZEQ56UMSSEFBID" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LAEZEN8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LAEZEN8" width="1" height="1" border="0" alt="Black Diamond ReVolt Headlamp" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 98 grams / 0.22 lbs
 **Lumen:** 130  
@@ -168,7 +168,7 @@ The Black Diamond ReVolt headlamp comes with a proximity, distance, dim, strobe,
 
 <h3><a href="http://www.amazon.com/gp/product/B00H3MXOQU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00H3MXOQU&linkCode=as2&tag=hikeve-20&linkId=A2I5SXTJTBEA7KOK" rel="nofollow">Black Diamond Storm</a></h3>
 
-<a href="http://www.amazon.com/gp/product/B00H3MXOQU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00H3MXOQU&linkCode=as2&tag=hikeve-20&linkId=A2I5SXTJTBEA7KOK" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00H3MXOQU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00H3MXOQU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.com/gp/product/B00H3MXOQU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00H3MXOQU&linkCode=as2&tag=hikeve-20&linkId=A2I5SXTJTBEA7KOK" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00H3MXOQU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00H3MXOQU" width="1" height="1" border="0" alt="Black Diamond Storm" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 110 grams / 0.24 lbs
 **Lumen:** 160  
@@ -182,7 +182,7 @@ The Black Diamond Storm is a little bit more heavy than the Petzl Tikka XP. The 
 
 <h3><a href="http://www.amazon.com/gp/product/B008AUBOTS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008AUBOTS&linkCode=as2&tag=hikeve-20&linkId=V5A2XQXJ3LK3X3NP" rel="nofollow">Petzl e+LITE</a></h3>
 
-<a href="http://www.amazon.com/gp/product/B008AUBOTS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008AUBOTS&linkCode=as2&tag=hikeve-20&linkId=V5A2XQXJ3LK3X3NP" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008AUBOTS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B008AUBOTS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.com/gp/product/B008AUBOTS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008AUBOTS&linkCode=as2&tag=hikeve-20&linkId=V5A2XQXJ3LK3X3NP" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008AUBOTS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B008AUBOTS" width="1" height="1" border="0" alt="Petzl e+LITE" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 27 grams / 0.06 lbs
 **Lumen:** 26  

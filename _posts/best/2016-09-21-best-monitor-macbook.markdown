@@ -49,8 +49,8 @@ I really like the idea to have less cables on my desk so USB-C would be a really
 
 <hr>
 
-<h3 id="example"> LG 27UD88</h3>
-<a href="https://www.amazon.com/gp/product/B01CDYB0QS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CDYB0QS&linkCode=as2&tag=hikeve-20&linkId=9750242391a1726e4b4b87c855ce4300" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01CDYB0QS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01CDYB0QS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<h3 id="example">LG 27UD88</h3>
+<a href="https://www.amazon.com/gp/product/B01CDYB0QS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CDYB0QS&linkCode=as2&tag=hikeve-20&linkId=9750242391a1726e4b4b87c855ce4300" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01CDYB0QS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01CDYB0QS" width="1" height="1" border="0" alt="LG 27UD88" style="border:none !important; margin:0px !important;" />
 
 The LG 27UD88 is the latest display from Lenovo which features 99% SRGB color gamut, a color depth of 10 bit (8bit + A-FRC) and a response time of 5 ms GTS. The brightness of the screen is 350 cd/m2 and the contrast ratio is 1000 : 1. The screen also has 2 x HDMI 2.0, 1 x DisplayPort (ver1.2) and 2 x USB 3.0. The response time is 5ms.
 
@@ -58,8 +58,8 @@ The LG 27UD88 is the latest display from Lenovo which features 99% SRGB color ga
 <!--more-->
 <hr>
 
-<h3> Lenovo ThinkVision X1</h3>
-<a href="https://www.amazon.com/gp/product/B01EORW6YM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01EORW6YM&linkCode=as2&tag=hikeve-20&linkId=f43cc1738aa7806bd1bb12c3e2670ce2" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01EORW6YM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01EORW6YM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<h3>Lenovo ThinkVision X1</h3>
+<a href="https://www.amazon.com/gp/product/B01EORW6YM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01EORW6YM&linkCode=as2&tag=hikeve-20&linkId=f43cc1738aa7806bd1bb12c3e2670ce2" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01EORW6YM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01EORW6YM" width="1" height="1" border="0" alt="Lenovo ThinkVision X1" style="border:none !important; margin:0px !important;" />
 
 The Lenovo ThinkVision X1 has HDMI2.0 and DP1.2 ports a FHD camera with dual-array microphone and stereo speakers. The Lenovo ThinkVision X1 is the world’s 1st monitor with TUV Eye Comfort certification. The monitor has 100% sRGB color gamut. The response time is 6ms.
 
@@ -69,7 +69,7 @@ The Lenovo ThinkVision X1 has HDMI2.0 and DP1.2 ports a FHD camera with dual-arr
 
 <h3>Dell Ultra HD 5K Monitor UP2715K</h3>
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00OKSFXZU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OKSFXZU&linkCode=as2&tag=hikeve-20&linkId=302e66e0b4bc2e1338edb0c38e62b898"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00OKSFXZU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00OKSFXZU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00OKSFXZU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OKSFXZU&linkCode=as2&tag=hikeve-20&linkId=302e66e0b4bc2e1338edb0c38e62b898"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00OKSFXZU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00OKSFXZU" width="1" height="1" border="0" alt="Dell Ultra HD 5K Monitor UP2715K" style="border:none !important; margin:0px !important;" />
 
 The Dell Ultra HD 5K monitor fffers four times the content than QHD featuring over 14 million pixels and Harman Kardon speakers.
 
@@ -80,9 +80,11 @@ The Dell Ultra HD 5K monitor fffers four times the content than QHD featuring ov
 
 <h3>HP ENVY 27</h3>
 
+<a target="_blank"  href="https://www.amazon.com/gp/product/B01N3YVA0P/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N3YVA0P&linkCode=as2&tag=hikeve-20&linkId=3e874bc4ca2788c4625ac6832f65d82f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01N3YVA0P&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01N3YVA0P" width="1" height="1" border="0" alt="HP ENVY 27" style="border:none !important; margin:0px !important;" />
+
 The HP ENVY is a 4K display can power a PC or a mobile device. With a reaction time of 14ms the HP ENVY might not be a monitor for gaming but for everything else this monitor could be a nice solution for an affordable price.
 
-<a href="" rel="nofollow" target="blank"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2ikrt0u" rel="nofollow" target="blank"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 
 <hr>

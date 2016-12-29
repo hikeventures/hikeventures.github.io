@@ -66,7 +66,7 @@ You probably take matches with you to ignite your stove. As an alternative, I fo
 
 <h3><a href="http://amzn.to/2eI6dBv" target="_blank" rel="nofollow">MSR Micro Rocket</a></h3>
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00F0BSDO4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F0BSDO4&linkCode=as2&tag=hikeve-20&linkId=GXQ24IC7MGCK4GWX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00F0BSDO4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00F0BSDO4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00F0BSDO4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F0BSDO4&linkCode=as2&tag=hikeve-20&linkId=GXQ24IC7MGCK4GWX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00F0BSDO4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00F0BSDO4" width="1" height="1" border="0" alt="MSR Micro Rocket" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 73 grams  
 **Burn Time:** 3.5 min  
@@ -80,7 +80,7 @@ The MSR MicroRocket is the lightest stove in our list. If saving weight has your
 
 <h3><a href="http://amzn.to/2dBLCMt" target="_blank" rel="nofollow">MSR WindPro II</a></h3>
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B005I6PNZS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005I6PNZS&linkCode=as2&tag=hikeve-20&linkId=NCXX5MK756QD4MWS"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005I6PNZS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005I6PNZS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B005I6PNZS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005I6PNZS&linkCode=as2&tag=hikeve-20&linkId=NCXX5MK756QD4MWS"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005I6PNZS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005I6PNZS" width="1" height="1" border="0" alt="MSR WindPro II" style="border:none !important; margin:0px !important;" />  
 
 **Weight:** 187 grams  
 **Burn Time:** 3.6 minutes  
@@ -94,7 +94,7 @@ The MSR WindPro II is a nice stove for those who want to have the burner separat
 
 <h3><a href="http://amzn.to/2elZvBk" target="_blank" rel="nofollow">Jetboil MicroMo</a></h3>
 
-<a  href="http://www.amazon.com/gp/product/B019GPIYZC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019GPIYZC&linkCode=as2&tag=hikeve-20&linkId=MRADQZHAE2DN5ZNE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B019GPIYZC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B019GPIYZC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="http://www.amazon.com/gp/product/B019GPIYZC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019GPIYZC&linkCode=as2&tag=hikeve-20&linkId=MRADQZHAE2DN5ZNE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B019GPIYZC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B019GPIYZC" width="1" height="1" border="0" alt="Jetboil MicroMo" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 400 grams  
 **Burn Time:** 2 min 15 sec for 0.5 liter  
@@ -109,7 +109,7 @@ The Jetboil MicroMo offers a push-button igniter and a heat indicator and comes 
 
 <h3><a href="http://amzn.to/2e37Vdw" target="_blank" rel="nofollow">Jetboil MiniMo</a></h3>
 
-<a  href="http://www.amazon.com/gp/product/B00KXP7CUI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KXP7CUI&linkCode=as2&tag=hikeve-20&linkId=63NECFHTZ3EYX64N"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00KXP7CUI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00KXP7CUI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="http://www.amazon.com/gp/product/B00KXP7CUI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KXP7CUI&linkCode=as2&tag=hikeve-20&linkId=63NECFHTZ3EYX64N"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00KXP7CUI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00KXP7CUI" width="1" height="1" border="0" alt="Jetboil MiniMo" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 415 grams  
 **Burn Time:** 2 min 15 sec for 0.5 liter  
@@ -124,7 +124,7 @@ The Jetboil MiniMo offers you one of the best simmer controls, metal handles, an
 
 <h3><a href="http://amzn.to/2e8lKIJ" rel="nofollow" target="_blank">MSR WindBurner</a></h3>
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00NPPWOJ2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NPPWOJ2&linkCode=as2&tag=hikeve-20&linkId=G7LF7ACULXJOSCLX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00NPPWOJ2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00NPPWOJ2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00NPPWOJ2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NPPWOJ2&linkCode=as2&tag=hikeve-20&linkId=G7LF7ACULXJOSCLX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00NPPWOJ2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00NPPWOJ2" width="1" height="1" border="0" alt="MSR WindBurner" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 432 grams  
 **Burn Time:** 2 min 30 seconds for 0.5 liter  
@@ -139,7 +139,7 @@ The MSR WindBurner is the latest addition on the stove market from MSR. This sto
 
 <h3><a href="http://amzn.to/2evVrud" target="_blank" rel="nofollow">MSR XGK EX</a></h3>
 
-<a  href="http://www.amazon.com/gp/product/B000EUMKFO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000EUMKFO&linkCode=as2&tag=hikeve-20&linkId=VXEWELGDXLVW6BJU"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000EUMKFO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B000EUMKFO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="http://www.amazon.com/gp/product/B000EUMKFO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000EUMKFO&linkCode=as2&tag=hikeve-20&linkId=VXEWELGDXLVW6BJU"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000EUMKFO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B000EUMKFO" width="1" height="1" border="0" alt="MSR XGK EX" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 489 grams (packed)  
 **Burn Time:** 2.8 minutes for 1 liter with kerosene fuel  

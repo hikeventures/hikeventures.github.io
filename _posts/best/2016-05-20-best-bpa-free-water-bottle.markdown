@@ -21,7 +21,7 @@ On my hikes I always take a BPA-free water bottle with me. In the past I have al
 
 It's quite easy to read how much water is left in the Nalgene bottle due to the large printing. What's more, the Nalgene bottle is also BPA free. The tag also states that you can wash the Nalgene bottle in a dish washer. The weight of the bottle is 179 grams and can handle a temperature range from -40C to 100C.
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/B001NCDE98/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001NCDE98&linkCode=as2&tag=hikeve-20&linkId=6a86325b8ed27edf19a0329fcda04621"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001NCDE98&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001NCDE98" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.com/gp/product/B001NCDE98/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001NCDE98&linkCode=as2&tag=hikeve-20&linkId=6a86325b8ed27edf19a0329fcda04621"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001NCDE98&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001NCDE98" width="1" height="1" border="0" alt="Nalgene BPA bottle" style="border:none !important; margin:0px !important;" />
 
 
 The large opening of the bottle makes it quite easy to use a water purifier like the Kathadyn Mini Filter. You can also easily add ice cubes into the Nalgene water bottle.

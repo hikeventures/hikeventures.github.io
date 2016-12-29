@@ -1,5 +1,5 @@
 ---
-title: Best Outdoor Action Camera for 2017 - GoPro vs. Sony
+title: Best Outdoor Action Camera for 2016 - 2017 - GoPro vs. Sony
 description: Which Action Camera? GoPro Hero 4 vs. Sony FDR-X1000V
 date: 2015-08-18 07:28:01
 category: articles
@@ -42,11 +42,11 @@ Looking at the Specs, I am more tempted in getting the Sony FDR-X1000V action ca
 
 The Sony FDR-X1000V looks like a camera which can be easily mounted on the site of a helmet
 
-<a href="http://www.amazon.com/gp/product/B00R1COCT0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00R1COCT0&linkCode=as2&tag=hikeve-20&linkId=2CUCDOW2MTDYCY4W" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00R1COCT0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00R1COCT0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.com/gp/product/B00R1COCT0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00R1COCT0&linkCode=as2&tag=hikeve-20&linkId=2CUCDOW2MTDYCY4W" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00R1COCT0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00R1COCT0" width="1" height="1" border="0" alt="Sony FDR-X1000V" style="border:none !important; margin:0px !important;" />
 
 The GoPro Hero 4 looks more like a camera which fits better on the front of your body.
 
-<a href="http://www.amazon.com/gp/product/B00NIYNUF2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NIYNUF2&linkCode=as2&tag=hikeve-20&linkId=6QOKQTO4LSBPAVZT" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00NIYNUF2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00NIYNUF2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;">
+<a href="http://www.amazon.com/gp/product/B00NIYNUF2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NIYNUF2&linkCode=as2&tag=hikeve-20&linkId=6QOKQTO4LSBPAVZT" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00NIYNUF2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00NIYNUF2" width="1" height="1" border="0" alt="GoPro Hero 4" style="border:none !important; margin:0px !important;">
 
 If you need a smaller camera then the GoPro Hero Session is probably the best pick. Hopefully, we will see the GoPro Hero5 and the GoPro Drone Karma this year as well. There are rumors that the new GoPro Hero5 will have better connectivity features.
 

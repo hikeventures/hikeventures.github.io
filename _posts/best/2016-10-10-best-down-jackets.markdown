@@ -103,7 +103,7 @@ Sometimes you might also get a down jacket for a significant lower price especia
 <h3 id="example"><a href="http://amzn.to/2doK4aj" target="_blank" rel="nofollow">Mountain Hardware Ghost Whisperer Hooded Down Jacket</a></h3>
 
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GULW0DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GULW0DS&linkCode=as2&tag=hikeve-20&linkId=RSEZE3QFDW2FVB3A" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GULW0DS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GULW0DS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GULW0DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GULW0DS&linkCode=as2&tag=hikeve-20&linkId=RSEZE3QFDW2FVB3A" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GULW0DS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GULW0DS" width="1" height="1" border="0" alt="Mountain Hardware Ghost Whisperer Hooded Down Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 212g
 
@@ -115,7 +115,7 @@ The Mountain Hardware Ghost Whisperer Hooded Down Jacket is one of the lightest 
 
 <h3><a href="http://amzn.to/2doJmJP" target="_blank" rel="nofollow">Arcteryx Cerium LT Hoody (850fp)</a></h3>
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00Q9MHXN0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q9MHXN0&linkCode=as2&tag=hikeve-20&linkId=Y5N4EYNVYQ5UDXXJ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q9MHXN0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q9MHXN0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/>
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00Q9MHXN0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q9MHXN0&linkCode=as2&tag=hikeve-20&linkId=Y5N4EYNVYQ5UDXXJ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q9MHXN0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q9MHXN0" width="1" height="1" border="0" alt="Arcteryx Cerium LT Hoody" style="border:none !important; margin:0px !important;"/>
 
 **Weight:** 275g  
 
@@ -127,7 +127,7 @@ Similar as the Arcteryx Cerium LT Jacket just with a hoodie. We would pick the C
 
 <h3><a href="http://amzn.to/2elEHtO" target="_blank" rel="nofollow">Marmot Quasar Hoody (900fp)</a></h3>
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00DNNZ3KI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DNNZ3KI&linkCode=as2&tag=hikeve-20&linkId=UITTBILMF3IBYVRI"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DNNZ3KI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DNNZ3KI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00DNNZ3KI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DNNZ3KI&linkCode=as2&tag=hikeve-20&linkId=UITTBILMF3IBYVRI"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DNNZ3KI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DNNZ3KI" width="1" height="1" border="0" alt="Marmot Quasar Hoody" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 372g
 
@@ -139,7 +139,7 @@ The Marmot Quasar Hoody is also an interesting jacket with it's high down fill p
 
 <h3><a href="http://amzn.to/2dBjOHV" target="_blank" rel="nofollow">Arcteryx Cerium SV Hoody (850fp)</a></h3>
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GW80Q9E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW80Q9E&linkCode=as2&tag=hikeve-20&linkId=WCQGDJJ5MREZ5EUX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW80Q9E&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW80Q9E" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GW80Q9E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW80Q9E&linkCode=as2&tag=hikeve-20&linkId=WCQGDJJ5MREZ5EUX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW80Q9E&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW80Q9E" width="1" height="1" border="0" alt="Arcteryx Cerium SV Hoody" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 440g
 
@@ -151,7 +151,7 @@ The Arcteryx Cerium SV Hoody is part of Arcteryx severe weather product line - m
 
 <h3><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Patagonia Men's Down Hooded Jacket (800fp)</a></h3>  
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00OZGABKY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OZGABKY&linkCode=as2&tag=hikeve-20&linkId=OLFQERZDADI4UC3J"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00OZGABKY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00OZGABKY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00OZGABKY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OZGABKY&linkCode=as2&tag=hikeve-20&linkId=OLFQERZDADI4UC3J"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00OZGABKY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00OZGABKY" width="1" height="1" border="0" alt="Patagonia Men's Down Hooded Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 550g
 
@@ -163,7 +163,7 @@ Patagonia is another popular outdoor brand and delivers a super light down jacke
 
 <h3><a href="http://www.amazon.com/gp/product/B00DTT6DXC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DTT6DXC&linkCode=as2&tag=hikeve-20&linkId=N7SHBEPWSYPV25ZK" target="_blank" rel="nofollow">Rab Infinity Endurance Jacket (850fp)</a></h3>
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00DTT6DXC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DTT6DXC&linkCode=as2&tag=hikeve-20&linkId=N7SHBEPWSYPV25ZK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DTT6DXC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DTT6DXC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00DTT6DXC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DTT6DXC&linkCode=as2&tag=hikeve-20&linkId=N7SHBEPWSYPV25ZK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DTT6DXC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DTT6DXC" width="1" height="1" border="0" alt="Rab Infinity Endurance Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 575g
 
@@ -175,7 +175,7 @@ The  Rab Infinity Endurance Jacket is a technical alpine or mountaineering jacke
 
 <h3><a href="http://amzn.to/2e7V1Mx" target="_blank" rel="nofollow">Rab Positron Jacket (800fp)</a></h3>
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00XJO2X18/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00XJO2X18&linkCode=as2&tag=hikeve-20&linkId=5POHXUOALSVWVY2B"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00XJO2X18&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00XJO2X18" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00XJO2X18/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00XJO2X18&linkCode=as2&tag=hikeve-20&linkId=5POHXUOALSVWVY2B"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00XJO2X18&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00XJO2X18" width="1" height="1" border="0" alt="Rab Positron Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 720g
 
@@ -187,7 +187,7 @@ The  Rab Positron Jacket is proper box-wall down winter jacket with a water-resi
 
 <h3><a href="http://amzn.to/2endumN" target="_blank" rel="nofollow">Arcteryx Ceres Jacket (850fp)</a></h3>
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GV47ZVQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GV47ZVQ&linkCode=as2&tag=hikeve-20&linkId=W5UOOTWBV54OBDXF" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GV47ZVQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20"></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GV47ZVQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GV47ZVQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GV47ZVQ&linkCode=as2&tag=hikeve-20&linkId=W5UOOTWBV54OBDXF" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GV47ZVQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20"></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GV47ZVQ" width="1" height="1" border="0" alt="Arcteryx Ceres Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 860g
 
@@ -199,7 +199,7 @@ More heavy than the other jackets in our list, the Arcteryx Ceres Jacket is made
 
 <h3><a href="http://amzn.to/2gZiVML" target="_blank" rel="nofollow">Fjällräven Arktis Parka (500fp)</a></h3>
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01M15A80Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01M15A80Q&linkCode=as2&tag=hikeve-20&linkId=16c5a28fb62372436348b1edd2b1c6c0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01M15A80Q&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01M15A80Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01M15A80Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01M15A80Q&linkCode=as2&tag=hikeve-20&linkId=16c5a28fb62372436348b1edd2b1c6c0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01M15A80Q&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01M15A80Q" width="1" height="1" border="0" alt="Fjällräven Arktis Parka" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 1945g
 
@@ -211,7 +211,7 @@ The Fjällräven Arktis Parka is made for very cold conditions and keeps you war
 
 <h3><a href="http://amzn.to/2hMJNwd" target="_blank" rel="nofollow">Canada Goose Expedition Down Parka (625fp)</a></h3>
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01KXUFDQC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01KXUFDQC&linkCode=as2&tag=hikeve-20&linkId=5aaf89773baa2dd8884a28b116bf9e3e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01KXUFDQC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01KXUFDQC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01KXUFDQC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01KXUFDQC&linkCode=as2&tag=hikeve-20&linkId=5aaf89773baa2dd8884a28b116bf9e3e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01KXUFDQC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01KXUFDQC" width="1" height="1" border="0" alt="Canada Goose Expedition Down Parka" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 2070g
 

@@ -73,7 +73,7 @@ For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](
 
 ### [Marmot Force UL 2P](http://www.backcountry.com/marmot-force-ul-2p-tent-2-person-3-season)
 
-<a href="https://www.amazon.com/gp/product/B00M85RDHS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00M85RDHS&linkCode=as2&tag=hikeve-20&linkId=5f772e039fab5f9894178931a800150c" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00M85RDHS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00M85RDHS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B00M85RDHS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00M85RDHS&linkCode=as2&tag=hikeve-20&linkId=5f772e039fab5f9894178931a800150c" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00M85RDHS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00M85RDHS" width="1" height="1" border="0" alt="Marmot Force UL 2P" style="border:none !important; margin:0px !important;" />
 
 The Marmot Force UL 2P is a freestanding 2-person tent for 3 seasons.
 
@@ -88,7 +88,7 @@ The Marmot Force UL 2P is a new freestanding tent which comes in a super light p
 
 ### [MSR Hubba Hubba NX](http://www.moosejaw.com/moosejaw/shop/product_MSR-Hubba-Hubba-NX-2-Person-Tent_10238367_10208_10000001_-1_)
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00G7H9CAY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G7H9CAY&linkCode=as2&tag=hikeve-20&linkId=EX4S5YFHURHMA3L5"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00G7H9CAY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00G7H9CAY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00G7H9CAY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G7H9CAY&linkCode=as2&tag=hikeve-20&linkId=EX4S5YFHURHMA3L5"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00G7H9CAY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00G7H9CAY" width="1" height="1" border="0" alt="MSR Hubba Hubba NX" style="border:none !important; margin:0px !important;" />
 
 The MSR Hubba Hubba NX is a freestanding 2-person tent for 3 seasons.
 
@@ -105,7 +105,7 @@ The MSR Hubba Hubba NX is a great 3 season tent and it even costs almost half th
 
 ### [Hilleberg Niak 1.5](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Niak-1-5-Person-Tent_10306870_10208_10000001_-1_)
 
-<a  href="http://www.amazon.com/gp/product/B01AT52A08/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AT52A08&linkCode=as2&tag=hikeve-20&linkId=2TDIHYJWJ46ET5ID" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01AT52A08&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B01AT52A08" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="http://www.amazon.com/gp/product/B01AT52A08/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AT52A08&linkCode=as2&tag=hikeve-20&linkId=2TDIHYJWJ46ET5ID" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01AT52A08&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B01AT52A08" width="1" height="1" border="0" alt="Hilleberg Niak 1.5" style="border:none !important; margin:0px !important;" />
 
 **Persons:** 1-2    
 **Fabric:** Kerlon 600   
@@ -120,7 +120,7 @@ The Enan as a solo tent looks like an interesting tent for the summer months. Ho
 
 ### [Hilleberg Soulo](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Soulo-1-Person-Tent_10101479_10208_10000001_-1_)
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B004LAP3G6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004LAP3G6&linkCode=as2&tag=hikeve-20&linkId=7TXJU4WYWUN5PLN3"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004LAP3G6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B004LAP3G6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B004LAP3G6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004LAP3G6&linkCode=as2&tag=hikeve-20&linkId=7TXJU4WYWUN5PLN3"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004LAP3G6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B004LAP3G6" width="1" height="1" border="0" alt="Hilleberg Soulo" style="border:none !important; margin:0px !important;" />
 
 **Persons:** 1   
 **Fabric:** Kerlon 1200   
@@ -137,7 +137,7 @@ The Hilleberg Soulo is a very strong solo expedition tent. If strength is import
 
 ### [Fly Creek HV UL1](https://www.rei.com/product/895953/big-agnes-fly-creek-hv-ul1-tent)
 
-<a  href="http://www.amazon.com/gp/product/B00GSYH1T0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GSYH1T0&linkCode=as2&tag=hikeve-20&linkId=UQ5VQ5S2FSWYOS4K" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GSYH1T0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GSYH1T0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="http://www.amazon.com/gp/product/B00GSYH1T0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GSYH1T0&linkCode=as2&tag=hikeve-20&linkId=UQ5VQ5S2FSWYOS4K" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GSYH1T0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GSYH1T0" width="1" height="1" border="0" alt="Fly Creek HV UL1" style="border:none !important; margin:0px !important;" />
 
 **Persons:** 1   
 **Length:** 218 cm  
@@ -153,7 +153,7 @@ The Big Agnes Fly Creek HV UL1 is the lightest tent in this list. It is a bit ta
 
 ### [Hilleberg Enan](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Enan-1-Person-Tent_10274355_10208_10000001_-1_)
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00UZ8ZPIE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UZ8ZPIE&linkCode=as2&tag=hikeve-20&linkId=J5D2VAGZEEOJ4END"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00UZ8ZPIE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00UZ8ZPIE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00UZ8ZPIE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UZ8ZPIE&linkCode=as2&tag=hikeve-20&linkId=J5D2VAGZEEOJ4END"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00UZ8ZPIE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00UZ8ZPIE" width="1" height="1" border="0" alt="Hilleberg Enan" style="border:none !important; margin:0px !important;" />
 
 **Persons:** 1   
 **Fabric:** Kerlon 600   
@@ -168,7 +168,7 @@ If you are travelling alone on a shorter trip where you don't have lot's of gear
 
 ### [Hilleberg Akto](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Akto-1-Person-Tent_10101417_10208_10000001_-1_)
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00TKHF7E8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TKHF7E8&linkCode=as2&tag=hikeve-20&linkId=VP7IBWWKQQ3PVKWT"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00TKHF7E8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00TKHF7E8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00TKHF7E8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TKHF7E8&linkCode=as2&tag=hikeve-20&linkId=VP7IBWWKQQ3PVKWT"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00TKHF7E8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00TKHF7E8" width="1" height="1" border="0" alt="Hilleberg Akto" style="border:none !important; margin:0px !important;" />
 
 
 **Persons:** 1   
@@ -184,7 +184,7 @@ The Akto is a solo tent with low weight and quite popular among solo travellers.
 
 ### [Hilleberg Nallo](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Nallo-3-Person-Tent_10101458_10208_10000001_-1_)
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00LMR6HSO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LMR6HSO&linkCode=as2&tag=hikeve-20&linkId=4YIQPTOP7VXOY4EM"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LMR6HSO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LMR6HSO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00LMR6HSO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LMR6HSO&linkCode=as2&tag=hikeve-20&linkId=4YIQPTOP7VXOY4EM"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LMR6HSO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LMR6HSO" width="1" height="1" border="0" alt="Hilleberg Nallo" style="border:none !important; margin:0px !important;" />
 
 **Persons:** 1-2   
 **Length:** 220 cm   
