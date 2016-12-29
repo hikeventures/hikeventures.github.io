@@ -93,7 +93,7 @@ The Arcteryx Cerium LT Hoody is not a pure synthetic insulated jacket and replac
 
 <h3><a href="http://amzn.to/2iaM9Wk" target="_blank" rel="nofollow">Outdoor Research Cathode Hooded Jacket</a></h3>
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/B0163RVYDK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0163RVYDK&linkCode=as2&tag=hikeve-20&linkId=232e7aca74b934b8cd60f708594bbb18"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0163RVYDK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0163RVYDK" width="1" height="1" border="0" alt="Outdoor Research Cathode Hooded Jacket" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.com/gp/product/B019YZRQW6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019YZRQW6&linkCode=as2&tag=hikeve-20&linkId=9c13bcbf97d8ea53213b730bc33fbe0d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B019YZRQW6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B019YZRQW6" width="1" height="1" border="0" alt="Outdoor Research Cathode Hooded Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 379g
 
@@ -128,7 +128,7 @@ The Rab Nebula Jacket is a featherless synthetic insulated jacket which dries qu
 <hr>
 
 
-<h3><a href="http://amzn.to/2izVzhg" target="_blank" rel="nofollow">Mountain Equipment Fitzroy Jacket</a></h3>
+<h3><a href="http://amzn.to/2iI5RMm" target="_blank" rel="nofollow">Mountain Equipment Fitzroy Jacket</a></h3>
 
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01M0M15V4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01M0M15V4&linkCode=as2&tag=hikeve-20&linkId=90de06f42ccfbc699ec9f6f7971de843"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01M0M15V4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01M0M15V4" width="1" height="1" border="0" alt="Mountain Equipment Fitzroy Jacket" style="border:none !important; margin:0px !important;" />
@@ -137,7 +137,7 @@ The Rab Nebula Jacket is a featherless synthetic insulated jacket which dries qu
 
 The Mountain Equipment Fitzroy Jacket is a wind and water resistant jacket filled with Primaloft® GOLD insulation. It also comes with an insulated hood with wired visor. The Mountain Equipment Fitzroy Jacket is currently my go-to insulated jacket which I was wearing in the [Scottish Highlands](http://www.hikeventures.com/Packrafting-River-Dee-Scotland-1/).
 
-<a href="http://amzn.to/2izVzhg" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2iI5RMm" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 <hr>
 
