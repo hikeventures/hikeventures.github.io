@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Best winter gloves for skiing, snowboarding, snowshoeing and hiking for 2017
+title: Best ski gloves 2017
 description: The best winter gloves for skiing, snowboarding or snowshoeing
 date: 2016-01-03 19:10:07
 category: articles
@@ -10,10 +10,10 @@ tags:
   - best
 ---
 
-<h2 style="color:red">Our selection of the best lightweight winter gloves 2017 for ultralight winter adventures.</h2>
+<h2 style="color:red">Our selection of the best winter gloves for ski, snowboard and snowshoeing adventures.</h2>
 <br>
 
-For my next snowshoeing trip in Lapland I was looking for a new pair of gloves or mittens to replace my old gloves. Here is our <a href="#list">selection</a> of the best winter gloves which I would consider to buy for skiing, snowboarding, snowshoeing or hiking in 2017.
+For my next ski and snowshoeing trip in Lapland I was looking for a new pair of gloves or mittens to replace my old gloves. Here is our <a href="#list">selection</a> of the best winter gloves which I would consider to buy for skiing, snowboarding, snowshoeing or hiking in 2017.
 
 
 ---
