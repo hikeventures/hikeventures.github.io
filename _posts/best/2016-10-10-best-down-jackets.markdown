@@ -21,7 +21,7 @@ Also, check one of our <a href="#video">packrafting videos</a> where we had down
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31571859902/in/dateposted-public/" title="Best Down Jackets 2017"><img src="https://c7.staticflickr.com/1/299/31571859902_8b2cb77f6d_b.jpg" width="1024" height="546" alt="Best Down Jackets 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31803741256/in/dateposted-public/" title="Best Goose Down Jackets for 2017"><img src="https://c1.staticflickr.com/6/5558/31803741256_3d7a100029_o.jpg" width="1000" height="664" alt="Best Goose Down Jackets for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
