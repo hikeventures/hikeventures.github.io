@@ -19,7 +19,7 @@ Here is our <a href="#list">selection</a> of the best synthetic insulated jacket
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31571859902/in/dateposted-public/" title="Best Synthetic Insulated Jackets 2017"><img src="https://c7.staticflickr.com/1/299/31571859902_8b2cb77f6d_b.jpg" width="1024" height="546" alt="Best Synthetic Insulated Jackets for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31803741256/in/dateposted-public/" title="Best Synthetic Insulated Jackets for 2017"><img src="https://c1.staticflickr.com/6/5558/31803741256_3d7a100029_o.jpg" width="1000" height="664" alt="Best Synthetic Insulated Jackets for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 On our snowshoeing trip in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/).
 
@@ -51,6 +51,9 @@ When choosing a synthetic insulated jacket then you are selecting a more durable
         </tr>
         <tr>
           <td><a href="http://amzn.to/2hyHoJe" target="_blank" rel="nofollow">Outdoor Research Cathode Hooded Jacket</a></td><td>379g</td>
+        </tr>
+        <tr>
+          <td><a href="http://amzn.to/2ilHJMg" target="_blank" rel="nofollow">Arcteryx Proton AR Hoody</a></td><td>425g</td>
         </tr>
         <tr>
           <td><a href="http://amzn.to/2inuE4W" target="_blank" rel="nofollow">Arcteryx Nuclei AR Jacket</a></td><td>460g</td>
@@ -102,6 +105,18 @@ The Arcteryx Cerium LT Hoody is not a pure synthetic insulated jacket and replac
 The Cathode Hooded Jacket has Schoeller® underarm side panels that can breath and stretch. The jacket is filled with water-resistant PrimaLoft® Gold insulation and with a super-lightweight Pertex® Quantum shell. The jacket is a great choice for cold and wet alpine environments and for those looking for a lightweight and breathable solution.
 
 <a href="http://amzn.to/2iaM9Wk" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+
+<hr>
+
+<h3><a href="http://amzn.to/2ilHJMg" target="_blank" rel="nofollow">Arcteryx Proton AR Hoody</a></h3>
+
+<a target="_blank"  href="https://www.amazon.com/gp/product/B0163TC2KM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0163TC2KM&linkCode=as2&tag=hikeve-20&linkId=4016227ccc9f173af11c442b8111b536"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0163TC2KM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0163TC2KM" width="1" height="1" border="0" alt="Arcteryx Proton AR Hoody" style="border:none !important; margin:0px !important;" />
+
+**Weight:** 425g
+
+The Arcteryx Proton AR Hoody is the warmest jacket in the Proton Series and is balancing warmth and airflow. You can wear the jacket either as a softshell or as a mid-layer under a waterproof shell. The jacket has a trim fit design and an insulated adjustable hood which is helmet compatible.
+
+<a href="http://amzn.to/2ilHJMg" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 <hr>
 
