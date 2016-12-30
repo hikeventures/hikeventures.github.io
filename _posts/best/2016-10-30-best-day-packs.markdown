@@ -23,8 +23,6 @@ Here is our <a href="#list">selection</a> of the best day packs for 2017 which w
 
 ---
 
-<hr>
-
 <h2 id="list"> The best day packs of 2017</h2>
 
 <div class="table-responsive">
@@ -68,12 +66,6 @@ Here is our <a href="#list">selection</a> of the best day packs for 2017 which w
 
       </table>
 </div>
-<!--more-->
-
-<hr>
-
-Sometimes you might also get a down jacket for a significant lower price especially at the end of the season when stores want to clear their stock. In many cases the new models just come with a different color so it's worth to have a look on the old models as well.
-
 <!--more-->
 
 <hr>
