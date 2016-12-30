@@ -55,7 +55,7 @@ header p {
     color: #fc6a08;
 }
 
-header p .intro
+header p.intro
 {
     font-size: 18px;
     color: #7aaecc;
