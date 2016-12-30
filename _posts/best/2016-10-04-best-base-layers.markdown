@@ -1,6 +1,6 @@
 ---
-title: Best Merino Wool Base Layers for Arctic Conditions 2017
-description: An overview of base layers for arctic conditions
+title: Best Merino Wool Base Layers 2017
+description: An overview of the best merino wool base layers.
 date: 2016-10-04 20:43:52
 update_date: 2016-12-27 06:00:52
 category: articles
@@ -14,7 +14,7 @@ layout: post
 <h2 style="color:red">Our selection of the best Merino Wool Base Layers 2017 for ultralight outdoor adventures in arctic conditions.</h2>
 <br>
 
-For our hiking and snowshoeing trip in Northern Norway we were looking for new merino wool base layers which would also work under arctic conditions. You can also use the baselayers for other outdoor activities like skiing, snowboarding or mountaineering. So far I have already experience with wearing the Devold Expedition base layer and I am quite happy with it. Here is my personal <a href="#list">selection</a> of the best merino wool base layers for 2017. Also check one of our <a href="#video">packrafting videos</a> where we were wearing base layers to stay warm while paddling 1 week in freezing cold conditions.
+For our hiking and snowshoeing trip in Northern Norway we were looking for new merino wool base layers (which we can also wear for other outdoor activities like skiing, snowboarding or mountaineering). So far I have already experience with wearing the Devold Expedition base layer and I am quite happy with it. Here is my personal <a href="#list">selection</a> of the best merino wool base layers for 2017. Also check one of our <a href="#video">packrafting videos</a> where we were wearing base layers to stay warm while paddling 1 week in freezing cold conditions.
 
 ---
 
