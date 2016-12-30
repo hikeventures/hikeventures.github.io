@@ -46,7 +46,7 @@ header .header-title {
     position: relative;
 }
 
-header p {
+header p.start {
     padding-top: 52px;
     font-family: 'Norwester', sans-serif;
     font-size: 42px;
