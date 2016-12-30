@@ -1,7 +1,7 @@
 ---
 title: Best Day Packs for 2017
 description: Are you planning to go on a day hike? Here is our selection of the best day packs for 2017
-date: 2016-12-30 20:43:52
+date: 2016-10-30 20:43:52
 update_date: 2016-12-30 23:30:52
 category: articles
 tags:
