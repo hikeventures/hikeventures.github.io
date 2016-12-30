@@ -19,7 +19,7 @@ Here is our <a href="#list">selection</a> of the best synthetic insulated jacket
 
 ---
 
-<img src="https://c7.staticflickr.com/1/299/31571859902_8b2cb77f6d_b.jpg" width="1024" height="546" alt="Best Synthetic Insulated Jackets for 2017">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31571859902/in/dateposted-public/" title="Best Synthetic Insulated Jackets 2017"><img src="https://c7.staticflickr.com/1/299/31571859902_8b2cb77f6d_b.jpg" width="1024" height="546" alt="Best Synthetic Insulated Jackets for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 On our snowshoeing trip in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/).
 
