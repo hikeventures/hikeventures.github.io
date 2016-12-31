@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Happy New Year and many hiking and packrafting adventures for 2017.
+title: Happy New Year and many hiking and packrafting trips for 2017.
 description: Wishing you a happy new year 2017
 date: 2016-12-31 07:30:00
 category: article
