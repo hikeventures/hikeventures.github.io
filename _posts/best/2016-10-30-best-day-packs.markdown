@@ -17,6 +17,10 @@ Do you need a new lightweight day pack? A day pack is a great choice if you plan
 
 Here is our <a href="#list">selection</a> of the best day packs for 2017 which we have selected to cover your summer and winter day trips.
 
+<h2>Daypack vs. Backpack</h2>
+A daypack is just a smaller version of a backpack. Essentially they are both backpacks.
+
+
 ---
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27817737344/in/photolist-Joaba7-KcEQhr-KcERsH-KjCz84-JTCe1f-KamS4G-KamLK5-Ne2YZK-F7oFw8-EVU9jS-F25vip-BUd4Wr-BRUqUh-AWN6Re-BUd3Z6-BkGdVV-AWG9Vd-Bs5pNh-AWN6px-BJBRNh-AWG9Eo-AWN6tv-Bs5opf-Bs5pk3-BJBQYG-BJBRV1-BUd456-BRUr2m-BkGcvv-BJBRgA-BkGcWa-AWN69x-BJBRwf-BkGcZM-BkGd68-Bs5p2Y-Bs5p4m-AWGar3-BUd3Ur-AWGaJY-BkGdAX-fCewqJ-fCepqs-fBZ532-fBZbWn-qNh6yH-BLVuGF-BLVuK6-zkUBfC-E1hZc9" title="Best Day Packs 2017"><img src="https://c1.staticflickr.com/9/8699/27817737344_1645a0bd95_b.jpg" width="1024" height="684" alt="Best Day Packs 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
