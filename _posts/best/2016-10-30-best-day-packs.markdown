@@ -1,6 +1,6 @@
 ---
-title: Best Day Packs for 2017
-description: Are you planning to go on a day hike? Here is our selection of the best day packs for 2017
+title: Best Daypacks for 2017
+description: Are you planning to go on a day hike? Here is our selection of the best daypacks for 2017
 date: 2016-10-30 20:43:52
 update_date: 2016-12-30 23:30:52
 category: articles
@@ -10,10 +10,10 @@ tags:
   - day packs
 layout: post
 ---
-<h2 style="color:red">Day Packs for ultralight hiking trips and lightweight adventures.</h2>
+<h2 style="color:red">Daypacks for ultralight hiking trips and lightweight adventures.</h2>
 <br>
 
-Do you need a new lightweight day pack? A day pack is a great choice if you plan to do a shorter trip while carrying some gear with you e.g. climbing, hiking or on a normal day in the city. They weight much less than a regular backpack and you will enjoy your day outside much more if you have to carry less with you. I have included a broad range of day packs. Some are more durable or offer more features while also weight a bit more while other day packs are more light and minimalistic.
+Do you need a new lightweight daypack? A day pack is a great choice if you plan to do a shorter trip while carrying some gear with you e.g. climbing, hiking or on a normal day in the city. They weight much less than a regular backpack and you will enjoy your day outside much more if you have to carry less with you. I have included a broad range of day packs. Some are more durable or offer more features while also weight a bit more while other day packs are more light and minimalistic.
 
 Here is our <a href="#list">selection</a> of the best day packs for 2017 which we have selected to cover your summer and winter day trips.
 
