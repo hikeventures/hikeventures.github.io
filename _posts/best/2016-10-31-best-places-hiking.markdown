@@ -1,24 +1,35 @@
 ---
-title: Best Places to go hiking in 2017
+title: Best Places to go hiking and packrafting in 2017
 description: Places we would like to visit 2017 to go hiking
-date: 2016-10-31 20:43:52
-update_date: 2016-12-31 23:30:52
+date: 2016-10-31 14:30:52
 category: articles
 tags:
   - articles
   - best
   - hiking
 layout: post
-published: false
 ---
-<h2 style="color:red">For 2017 we have selected the best places where we would like to go hiking.</h2>
+<h2 style="color:red">For 2017 we have selected the best places where we would like to go hiking and packrafting in Europe.</h2>
 <br>
 
----
+As we are approaching 2017 it's time to think about new hiking and packrafting trips for 2017. In this post we will show you what will be the best places for us to go hiking and packrafting in 2017. We will probably add a few more trips through the year.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27817737344/in/photolist-Joaba7-KcEQhr-KcERsH-KjCz84-JTCe1f-KamS4G-KamLK5-Ne2YZK-F7oFw8-EVU9jS-F25vip-BUd4Wr-BRUqUh-AWN6Re-BUd3Z6-BkGdVV-AWG9Vd-Bs5pNh-AWN6px-BJBRNh-AWG9Eo-AWN6tv-Bs5opf-Bs5pk3-BJBQYG-BJBRV1-BUd456-BRUr2m-BkGcvv-BJBRgA-BkGcWa-AWN69x-BJBRwf-BkGcZM-BkGd68-Bs5p2Y-Bs5p4m-AWGar3-BUd3Ur-AWGaJY-BkGdAX-fCewqJ-fCepqs-fBZ532-fBZbWn-qNh6yH-BLVuGF-BLVuK6-zkUBfC-E1hZc9" title="best hiking places 2017"><img src="https://c1.staticflickr.com/9/8699/27817737344_1645a0bd95_b.jpg" width="1024" height="684" alt="best hiking places 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
----
-
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408870540/in/photolist-KhoTsL-KyaWGy-JLZn9U-KAEbo2-D6WjUR-qUzGQK-Q6U317-rbV4BL-rbRHKM-qfcV5n-KEWijq-KyaX69-KHvJbk-KhoThW-JM6Vqe-KyaX1Q-KHvHM4-KyaWT5-KyaWPC-KyaWAS-qGH8BY-r9HaDW-AqB9ci-APvhWx-rbRFq6-r9HaJL-qUqxwU-rbV6xu-tMS45w-qfcT7K-qUxMti-qUxMCM-qUzFAa-rbV7gy-rbV7GU-rc1CbB-r9Hef3-v6DD8n-q3hwoU-qGQmse-r9HdQA-r9HdZU-qUxN4g-qUxNTH-qUxP2D-qWZDDU-qHtRc2-rc1DjZ-qffws2-qUzE8R" title="Best Places to go hiking and packrafting in 2017"><img src="https://c5.staticflickr.com/8/7737/28408870540_3fd8554e5f_b.jpg" width="1024" height="683" alt="Best Places to go hiking and packrafting in 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <!--more-->
+
+# Austria
+Vorarlberg will be on our list in 2017. Having lived there for 2 years in the past I am looking forward to visit the Montafon or Silvretta area for a hike next summer.
+
+# Norway
+In January we are planning to visit Norway for a winter camping adventure. Equipped with our snowshoes and a Titanium stove we will explore the area around Alta. One highlight will be to visit an observation point on a mountain where we will be able to observe the Northern Lights. There is also a Canyon nearby Alta where we are planning to snowshoe and camp.
+
+# Scotland
+In may we will probably join a packrafting round-up in Scotland. Here is also a [link](https://www.facebook.com/events/140680829718198/) where you can sign up for it.
+
+# Sweden
+End of April we will join the Swedish Packrafting round-up. Here is a link about this event on [Facebook](https://www.facebook.com/groups/445731775597846/). The event will be on a river nearby the Fulufjället National Park and is a six hours drive from Stockholm.
+
+In August there is also going to be a 7 days [hike](https://www.facebook.com/events/857479497686986/) on the Kungsleden which we might join.
+
+As mentioned above we will probably add a few more trips throught 2017 and keep this list updated once we have more details about the additional trips.
