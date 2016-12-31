@@ -1,7 +1,7 @@
 ---
 title: Best Places to go hiking and packrafting in 2017
 description: Places we would like to visit 2017 to go hiking
-date: 2016-10-31 14:30:52
+date: 2016-12-31 14:30:52
 category: articles
 tags:
   - articles
