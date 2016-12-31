@@ -19,7 +19,7 @@ As we are approaching 2017 it's time to think about new hiking and packrafting t
 <!--more-->
 
 # Austria
-Vorarlberg will be on our list in 2017. Having lived there for 2 years in the past I am looking forward to visit the Montafon or Silvretta area for a hike next summer. Last winter we have visited Vorarlberg during the winter where we did some [snowshoeing] (http://www.hikeventures.com/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/)
+Vorarlberg will be on our list in 2017. Having lived there for 2 years in the past I am looking forward to visit the Montafon or Silvretta area for a hike next summer. Last winter we have visited Vorarlberg during the winter where we did some [snowshoeing](http://www.hikeventures.com/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/).
 
 # Norway
 In January we are planning to visit Norway for a winter camping adventure. Equipped with our snowshoes and a Titanium stove we will explore the area around Alta. One highlight will be to visit an observation point on a mountain where we will be able to observe the Northern Lights. There is also a Canyon nearby Alta where we are planning to snowshoe and camp. I already enjoyed Norway last summer when I travelled to the [Varangerfjord](http://www.hikeventures.com/Finnmark/).
