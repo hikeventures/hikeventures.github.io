@@ -1,5 +1,5 @@
 ---
-title: Best screen protectors for Sony a7
+title: Best screen protectors for Sony a7 / a7S / a7R / a6000 / a6300 and a6500
 description: A selection of the best screen protectors for Sony cameras
 date: 2016-10-31 05:43:52
 category: articles
@@ -7,7 +7,7 @@ tags:
   - articles
   - best
   - Sony
-  -cameras
+  - cameras
 layout: post
 ---
 
