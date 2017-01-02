@@ -12,6 +12,8 @@ Patrick is preparing some gear for our winter trip in Norway while Konstantin is
 We will meet next Friday in Alta (Norway) where we will spend the first night in the Scandic Alta Hotel since Konstantin will arrive very late.
 The next day we are planning to buy some stuff (like gas etc) from a local outdoor store and then we are good to go. Ready for takeoff :)
 
+So what else happened? Willem posted a great article about the [Packrafting trip planning in wilderness areas](https://willemvandoorne.wordpress.com/2016/12/28/article-packrafting-planning-in-wilderness-areas/) while Jacob reported that the [River Voxnan local canoe center](https://www.facebook.com/permalink.php?story_fbid=1224397364279952&id=308188359234195) has also watched his award winning video [Inflatable people](https://vimeo.com/181259608).
+
 Here are the latest gear reviews from other bloggers:
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/16533526225/in/album-72157650525740543/" title="Outdoors Tidbits The latest outdoor gear reviews, tips & tricks Nr 56"><img src="https://c2.staticflickr.com/8/7305/16533526225_dcc67ed95f_b.jpg" width="1024" height="680" alt="Outdoors Tidbits The latest outdoor gear reviews, tips & tricks Nr 56"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
