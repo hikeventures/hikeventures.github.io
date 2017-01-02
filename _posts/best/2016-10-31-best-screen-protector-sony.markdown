@@ -34,7 +34,7 @@ If you are searching for a screen protector for the Sony a6500 then you can also
 
         <thead>
              <tr>
-                <th>Screen Protector</th><th>Supported cameras</th>
+                <th>Screen protector</th><th>Supported cameras</th>
              </tr>
         </thead>
 
