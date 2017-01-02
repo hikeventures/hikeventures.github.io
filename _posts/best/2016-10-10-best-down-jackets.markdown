@@ -21,7 +21,9 @@ Also, check one of our <a href="#video">packrafting videos</a> where we had down
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31803741256/in/dateposted-public/" title="Best Goose Down Jackets for 2017"><img src="https://c1.staticflickr.com/6/5558/31803741256_3d7a100029_o.jpg" width="1000" height="664" alt="Best Goose Down Jackets for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31571859902/in/dateposted-public/" title="Best Down Jackets 2017"><img src="https://c7.staticflickr.com/1/299/31571859902_8b2cb77f6d_b.jpg" width="1024" height="546" alt="Best Down Jackets 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Konstantin snowshoeing in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/).
 
 ---
 
@@ -346,7 +348,7 @@ You can keep your down jacket dry by storing it in a waterproof compression bag 
 
 ---
 
-Disclosure: We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new products. This blog post contains affiliate links.
+Disclosure: We have not tested the products in this blog post. This blog post contains affiliate links.
 
 ---
 

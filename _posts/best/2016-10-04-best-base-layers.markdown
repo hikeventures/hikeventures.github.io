@@ -22,7 +22,7 @@ For our hiking and snowshoeing trip in Northern Norway we were looking for new m
 
 ---
 
-However, there are also alternatives out there which I would like to present in this blog post (containt affiliate links) which might be even better base layer options depending on your needs. Icebreaker has sent us a sample base layer which we are going to test in Norway. My first impression is that the base layer feels quite comfortable and soft on the skin. However, we really need to test it first to give a final conclusion.
+However, there are also alternatives out there which I would like to present in this blog post which might be even better base layer options depending on your needs. Icebreaker has sent us a sample base layer which we are going to test in Norway. My first impression is that the Icebreaker base layer feels quite comfortable and soft on the skin. However, we really need to test it first to give a final conclusion.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/16347592097/in/album-72157651193131682/" title="Lapland Finland"><img src="https://c2.staticflickr.com/9/8665/16347592097_8d7dd9dc6c_k.jpg" width="2048" height="1360" alt="Lapland Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

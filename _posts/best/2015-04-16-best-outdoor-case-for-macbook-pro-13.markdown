@@ -39,7 +39,7 @@ Inateck 13-13.3 Inch Sleeve Case Cover</a>
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01D0VM2L0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01D0VM2L0&linkCode=as2&tag=hikeve-20&linkId=8ef012627e0e7b4edf656f2233472b4e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01D0VM2L0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01D0VM2L0" width="1" height="1" border="0" alt="Inateck 13-13.3 Inch Sleeve Case Cover" style="border:none !important; margin:0px !important;" />
 
-Disclosure: Sometimes we receive products for testing from Thule but in this case I have bought the Thule Gauntlet 13" MacBook Attaché from my own money.
+Disclosure: We have not tested the products in this blog post. This blog post contains affiliate links.
 
 ---
 

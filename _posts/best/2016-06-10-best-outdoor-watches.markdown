@@ -222,6 +222,6 @@ amzn_assoc_linkid = "586471a69afcbdad2092eabf0fcc4bbc";
 
 ---
 
-Disclaimer: We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new products. This blog post contains affiliate links.
+Disclosure: We have not tested the products in this blog post. This blog post contains affiliate links.
 
 ---
