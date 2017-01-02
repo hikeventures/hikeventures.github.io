@@ -10,6 +10,7 @@ tags:
   -cameras
 layout: post
 ---
+
 Recently, I was looking for a new screen protector for my Sony A7 camera and here is a <a href="#list">list</a> of the best screen protectors I found online. I have not tested them but they are the ones I would probably consider to buy. I think that it's a quite good idea to have a protective film on your screen since it's just nicer to watch your pictures on a screen which does not have any scratches but also helps a bit  to keep the value of your camera. Some protectors do also have an anti-fingerprint coating. If you are searching for a screen protector for the Sony a6500 then you can also buy the ones for the Sony a6300 since they share the same screen size (3").
 
 ---
