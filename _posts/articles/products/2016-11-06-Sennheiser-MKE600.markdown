@@ -12,7 +12,11 @@ Yesterday I went with <a href="http://caide.kuvat.fi/" rel="nofollow">Caj</a> an
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VFlNWCauFbc" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VFlNWCauFbc"></iframe>
+</div>
+
+
 
 <!--more-->
 
