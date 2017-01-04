@@ -13,7 +13,9 @@ Layering your clothes when you go outdoors e.g. for hiking, backpacking, skiing 
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0TThszWrnj4" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0TThszWrnj4"></iframe>
+</div>
 
 ---
 
