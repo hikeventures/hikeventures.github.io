@@ -2,7 +2,7 @@
 layout: post
 title: First look - Cimarron tent by Seek Outside - Best tent for winter camping?
 description: Testing our new winter tent.
-date: 2016-01-04 07:30:00
+date: 2017-01-04 07:30:00
 category: article
 tags:
   - seekoutside
