@@ -14,5 +14,6 @@ tags:
 
 This year we have been to the Swedish Packrafting Round-Up organized by [The Deliverance Team](http://deliveranceteam.outdrr.com). After the event, [Jacob](http://www.urbanpackrafter.com) decided to collect all our video footages to create a video. The result was "Inflatable People" - a video which has won an award at the [Danish Adventure Film Festival](http://adventurefilmfest.dk/portfolio/inflatable-people/) where you can also see us packrafting. More about the Swedish Packrafting Round-Up also on our [blog](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/). Want to participate on the Swedish Packrafting Round-Up 2017? Here you can [sign up](https://www.facebook.com/events/721781557974160/) for it.
 
-<iframe src="https://player.vimeo.com/video/181259608?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/181259608">Inflatable People</a> from <a href="https://vimeo.com/urbanpackrafter">Urban Packrafter</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/181259608?title=0&byline=0&portrait=0"></iframe>
+</div>
