@@ -1,7 +1,7 @@
 ---
 title: Futureproof - the outdoor gear for tomorrow's you? - Nr. 2
 description: Find out about emerging outdoor products on the market.
-date: 2016-01-05 05:28:01
+date: 2017-01-05 05:28:01
 category: futureproofgear
 tags:
   - futureproofgear
