@@ -10,7 +10,7 @@ layout: post
 
 Here comes the newest gear and gadgets which we have spotted for your next travel and outdoor adventure.
 
-We are also interested to know what you think about the new gear. Would you buy it? Would you trash it? Do you want us to review it? Comment and follow us on [Facebok](https://www.facebook.com/HikeVentures/) or [Twitter](https://twitter.com/HikeVentures) with the hashtag #FutureproofGear.
+Would you buy it? Would you trash it? Do you want us to review it? Comment and follow us on [Facebok](https://www.facebook.com/HikeVentures/) or [Twitter](https://twitter.com/HikeVentures) with the hashtag #FutureproofGear.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/x2_PezLgM8s"></iframe>
