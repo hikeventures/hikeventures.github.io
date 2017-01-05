@@ -13,8 +13,9 @@ Cold day, hot tent. Today we tested our new winter tent - Cimarron by Seek Outsi
 
 This hot tent is equipped with a portable wood burning stove, which makes it possible to enjoy even the coldest of winter nights.
 
-Just make sure to have enough wood.
+Just make sure to have enough wood. [Here](https://seekoutside.com/cimarron) you can read more about the Deek Outside Cimarron tent.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FHikeVentures%2Fvideos%2F947527398680384%2F&show_text=0&width=560"></iframe>
 </div>
+<br>
