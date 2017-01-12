@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: Our day trip from Alta to Hammerfest

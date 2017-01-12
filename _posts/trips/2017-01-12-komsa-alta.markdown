@@ -8,7 +8,7 @@ category: articles
 tags:
   - trips
   - norway
- ---
+---
 Today we had a short hike to the top of Komsa - which is the lookout point in Alta. There was no official path up to the Komsa, or at least we were not able to see it since everything was covered with snow.
 
 <!--more-->
