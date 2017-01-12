@@ -25,7 +25,7 @@ Other new features on these boots are the Vibram Curcuma outsole with toe protec
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31554553786/in/dateposted-public/" title="Lundhags Skare Boot Vibram Curcuma Review"><img src="https://c3.staticflickr.com/1/403/31554553786_aa6f89d1ea_k.jpg" width="2048" height="1153" alt="Lundhags Skare Boot Vibram Curcuma Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Field Testing
-The Lundhags Skare Boots were our only boots which we had with us in Poland and in Norway. We were wearing them while snow shoeing, winter camping, and for walking around in town. We were also wearing the inner boots when walking inside the hotel.
+The Lundhags Skare boots were our only boots which we had with us in Poland and in Norway. We were wearing them while snowshoeing, winter camping, and for walking around in town. We were also wearing the inner boots when walking around in the hotel.
 
 When separating the inner and outer boots it is important to remember that it's much easier to get your feet into the boots when you first insert the inner boots into the outer boots.
 
