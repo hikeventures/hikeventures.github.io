@@ -24,4 +24,38 @@ Other new features on these boots are the Vibram Curcuma outsole with toe protec
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31554553786/in/dateposted-public/" title="Lundhags Skare Boot Vibram Curcuma Review"><img src="https://c3.staticflickr.com/1/403/31554553786_aa6f89d1ea_k.jpg" width="2048" height="1153" alt="Lundhags Skare Boot Vibram Curcuma Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-I will update this blog post once we have tested the Lundhags Skare boot in Norway next January. So keep this blog post bookmarked and visit it again by end of January.
+## Field Testing
+The Lundhags Skare Boots were our only boots which we had with us in Poland and in Norway. We were wearing them while snow shoeing, winter camping, and for walking around in town. We were also wearing the inner boots when walking inside the hotel.
+
+When separating the inner and outer boots it is important to remember that it's much easier to get your feet into the boots when you first insert the inner boots into the outer boots.
+
+## Quality
+We would say that the quality of the boots is quite good. However, Konstantin had some issues with his boots at the very beginning which could probably be a manufacturing issue.
+
+## Grip
+The grip of the Vibram Curcuma sole on snow is quite good. However, when walking on ice you have to be careful as it might be quite slippery. It's probably a good idea to get an additional pair of spikes if you have to walk over longer stretches of ice or just wear snow shoes.
+
+## Comfortability
+The boots are very comfortable to wear. We were wearing just one pair of socks (<a href="http://amzn.to/2jz344h" rel="nofollow" target="_blank">Icebreaker Hike+ Medium</a>) during our trips since the inner boot kept the feet quite warm.
+
+## Waterproofness
+We never had we socks when wearing those boots on our winter trip. On one occasion I got a bit snow into my boots but this was caused because I didn't pull my pants properly over the boots.
+
+## Conclusion
+We really love the Lundhags Skare boots. Beside the quality issue with Konstantin's boot we would probably take them again with us on our next trip. They are comfortable to walk in and they also look quite nice.
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "true";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "bottom";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Shop Related Products";
+amzn_assoc_default_search_phrase = "icebreaker hike+";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "b2d530ae8b3456ab6b4385a57ec17c80";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
