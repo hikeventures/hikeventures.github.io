@@ -16,7 +16,7 @@ This morning we went to the tourist office in Alta to buy our tickets for the bu
 <!--more-->
 
 ## From Alta to Hammerfest by bus
-We started our trip at 9am in Alta and the bus took us along the Fjord into the uplands where the winter sun tried to reach the horisont. However, it would still take the sun another week until it would be visible again.
+At 8.30 we went to <a href="http://www.northadventure.no">North Adventure</a> where we bought our day trip voucher and our bus left at 9am just before their office. The bus took us along the Fjord into the uplands where the winter sun tried to reach the horizon. However, it would still take the sun another week until it would be visible again.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32227519426/in/dateposted-public/" title="Day trip Alta to Hammerfest Norway Boreal Tours North Adventure Bus"><img src="https://c1.staticflickr.com/1/636/32227519426_a62c367205_k.jpg" width="2048" height="1152" alt="Day trip Alta to Hammerfest Norway Boreal Tours North Adventure Bus"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -41,7 +41,7 @@ The road just shortly before we arrived in Hammerfest.
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31889704120/in/dateposted-public/" title="Hammerfest Road Bus"><img src="https://c1.staticflickr.com/1/284/31889704120_ce6fcf4605_k.jpg" width="2048" height="1037" alt="Hammerfest Road Bus"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Arriving in Hammerfest
-We arrived in Hammerfest at around 12.45. Once we arrived at the bus terminal in Hammerfest we walked to the local tourist office where we had a conversation with the staff. Two immigrants - one from Germany and the other one from Finland who lived here already since a couple of years.
+We arrived in Hammerfest at around 12.45. Once we arrived at the bus terminal in Hammerfest we walked to the <a href="http://www.hammerfest-turist.no/en/">local tourist office</a> where we had a nice conversation with the staff. Two immigrants - one from Germany and the other one from Finland - who lived here already since a couple of years.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32116540332/in/dateposted-public/" title="Hammerfest"><img src="https://c1.staticflickr.com/1/452/32116540332_34f0129926_k.jpg" width="2048" height="929" alt="Hammerfest"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
