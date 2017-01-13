@@ -76,6 +76,8 @@ On the way to the museum of reconstruction we also passed by a monument of Ole O
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32227507356/in/dateposted-public/" title="monument of Ole Olsen Hammerfest"><img src="https://c1.staticflickr.com/1/540/32227507356_105a69c3db_k.jpg" width="2048" height="1152" alt="monument of Ole Olsen hammerfest"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+---
+
 ## Museum of Reconstruction
 Then we visited the Museum of Reconstruction which was about to close when we entered the museuem. However, the friendly person at the ticket desk told us that we can quickly browse through the museum as were only a few hours in Hammerfest.
 
