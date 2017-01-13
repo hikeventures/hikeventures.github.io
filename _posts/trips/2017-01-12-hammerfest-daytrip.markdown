@@ -16,7 +16,7 @@ This morning we went to the tourist office in Alta to buy our tickets for the bu
 <!--more-->
 
 ## From Alta to Hammerfest by bus
-At 8.30 we went to <a href="http://www.northadventure.no">North Adventure</a> where we bought our day trip voucher and our bus left at 9am just before their office. The bus took us along the Fjord into the uplands where the winter sun tried to reach the horizon. However, it would still take the sun another week until it would be visible again.
+At 8.30 we went to <a href="http://www.northadventure.no">North Adventure</a> where we bought our <a href="http://www.northadventure.no/oneIndiv.php?tur=AI90">day trip voucher</a> and our bus left at 9am just before their office. The bus took us along the Fjord into the uplands where the winter sun tried to reach the horizon. However, it would still take the sun another week until it would be visible again.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32227519426/in/dateposted-public/" title="Day trip Alta to Hammerfest Norway Boreal Tours North Adventure Bus"><img src="https://c1.staticflickr.com/1/636/32227519426_a62c367205_k.jpg" width="2048" height="1152" alt="Day trip Alta to Hammerfest Norway Boreal Tours North Adventure Bus"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
