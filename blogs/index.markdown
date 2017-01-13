@@ -105,6 +105,13 @@ Finland & Photography. Tarjas blog covers everything about Finland and the Finns
 
 ---
 
+## Norway
+
+### <a href="http://www.northadventure.no/blog/">northadventure.no</a>
+Tours and Arctic Adventure in Alta Norway.
+
+---
+
 ## Sweden
 
 ### <a href="http://cesarandthewoods.blogspot.fi/">cesarandthewoods.blogspot.fi</a>
