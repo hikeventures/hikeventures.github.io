@@ -15,6 +15,8 @@ This morning we went to the tourist office in Alta to buy our tickets for the bu
 
 <!--more-->
 
+---
+
 ## From Alta to Hammerfest by bus
 At 8.30 we went to <a href="http://www.northadventure.no">North Adventure</a> where we bought our <a href="http://www.northadventure.no/oneIndiv.php?tur=AI90">day trip voucher</a> and our bus left at 9am just before their office. The bus took us along the Fjord into the uplands where the winter sun tried to reach the horizon. However, it would still take the sun another week until it would be visible again.
 
@@ -40,16 +42,22 @@ The road just shortly before we arrived in Hammerfest.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31889704120/in/dateposted-public/" title="Hammerfest Road Bus"><img src="https://c1.staticflickr.com/1/284/31889704120_ce6fcf4605_k.jpg" width="2048" height="1037" alt="Hammerfest Road Bus"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+---
+
 ## Arriving in Hammerfest
 We arrived in Hammerfest at around 12.45. Once we arrived at the bus terminal in Hammerfest we walked to the <a href="http://www.hammerfest-turist.no/en/">local tourist office</a> where we had a nice conversation with the staff. Two immigrants - one from Germany and the other one from Finland - who lived here already since a couple of years.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32116540332/in/dateposted-public/" title="Hammerfest"><img src="https://c1.staticflickr.com/1/452/32116540332_34f0129926_k.jpg" width="2048" height="929" alt="Hammerfest"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+---
 
 ## Royal and Ancient Polar Bear Society
 In the Tourist Office we decided to become members at the Royal and Ancient Polar Bear Society which was founded in 1963.
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:37.5% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BPFzFhsgT10/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Today, we bacame members of the Royal and Ancient Polar Bear Society in Hammerfest, which is the world&#39;s most northerly town. The society has been founded in 1963 and has an annual meeting of members once a year. The next meeting will be held on the upcoming weekend.</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by HikeVentures (@hikeventures) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2017-01-10T16:29:46+00:00">Jan 10, 2017 at 8:29am PST</time></p></div></blockquote>
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+
+---
 
 ## Hammerfest Church
 Next, we went to the Hammerfest church which has been built in 1961 and has space for 525 people. There has been many churches before in Hammerfest dating back till 1620. The previous church was burned down by the Germans in 1944.
@@ -77,6 +85,8 @@ From the city itself we had a great view over the Fjord.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32116539882/in/dateposted-public/" title="Fjord Hammerfest"><img src="https://c1.staticflickr.com/1/631/32116539882_e70e07d286_k.jpg" width="2048" height="1152" alt="Fjord Hammerfest"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+---
+
 ## Lookout Point
 After our visit in the museum we decided to walk up to a lookout point. On the way up it's also worth to look backwards.
 
@@ -92,12 +102,16 @@ Then it was time to get back to the city where we walked along the harbor. Konst
 
 The nearby Coop (grocery store) was also a good opportunity for us to fill our backpacks with some snacks. We bought a local leaf of bread (the bread in Norway tastes actually quite good), cheese, tomatoes and cucumber. Konstantin also bought grilled chicken and then we were good to go.
 
+---
+
 ## The express boat from Hammerfest to Alta
 At 4.40pm we were ready to get on board of our boat. A few other people were waiting there as well. There was also a Sami couple which we were able to identify through their traditional Sami clothes. And then our express boat arrived - the MS Årøy.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31455576363/in/dateposted-public/" title="MS Årøy VargsundXpressen"><img src="https://c1.staticflickr.com/1/324/31455576363_719a530e0d_k.jpg" width="2048" height="1152" alt="MS Årøy VargsundXpressen"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Once we entered the boat, we enjoyed the food which we just bought. Konstantin was also preparing a presentation for the University in Alta and Patrick wrote an article for our blog. The trip back from Hammerfest to Alta took around 2 hours.
+
+---
 
 ## Conclusion
 If you are planning to visit Northern Norway you should definitely visit Hammerfest. It's an interesting and also beautiful city with 10.000 inhabitants and a great scenery.
