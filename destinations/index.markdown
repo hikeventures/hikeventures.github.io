@@ -404,6 +404,13 @@ footer: false
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Varanger Fjord</p>
         </div></div></a></div></div>
 
+        <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
+       <a class="thumbnail" href="http://www.hikeventures.com/hammerfest-daytrip/" style="color: #FFF; border: 0px;">
+   <div class="thumbnail text-center">
+     <img src="https://c1.staticflickr.com/1/353/31934556210_610e08b59b_z.jpg" alt="" class="img-responsive">
+   <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Hammerfest</p>
+   </div></div></a></div></div>
+
 
 
 </div>
