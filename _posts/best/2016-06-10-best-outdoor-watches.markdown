@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Best outdoor GPS watches with color screen for 2017
+title: Best Outdoor GPS watches 2017
 description: Our selection of the best outdoor smartwatch for 2017.
 date: 2016-06-10 13:46:20
 update_date: 2017-01-15 06:00:52
@@ -11,10 +11,12 @@ tags:
   - watches
 ---
 
-<h2 style="color:red">Selection of the best lightweight GPS watches with color screen 2017 for ultralight outdoor adventures.</h2>
+<h2 style="color:red">Selection of the best lightweight GPS watches for 2017 for ultralight outdoor adventures.</h2>
 <br>
 
-Today I would like to present you the best outdoor GPS watches which feature a color display. They can be used for hiking, backpacking, running or any other outdoor activity. At the moment I am wearing a [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) which has a monochrome display. I am quite satisfied with my [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) so far but I would be interested to get an outdoor watch which features a color display. Check the weight of the GPS watches on our <a href="#list">comparison table</a> or watch one of our <a href="#video">packrafting videos</a> where we were wearing a GPS watch to track our route.
+In this blog post I have selected the best outdoor GPS watches which are currently available and which I would consider to buy. I will also update this article frequently with new models.
+
+The watches presented in this article can be used for hiking, backpacking, running or any other outdoor activity. At the moment I am wearing a [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) which has a monochrome display. I am quite satisfied with my [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) so far but I would be interested to get an outdoor watch which features a color display. Check the weight of the GPS watches on our <a href="#list">comparison table</a> or watch one of our <a href="#video">packrafting videos</a> where we were wearing a GPS watch to track our route.
 
 
 ---
@@ -73,7 +75,7 @@ Probably one disadvantage of watches having a color display and a GPS was their 
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/8620278312/in/album-72157648805512885/" title="Suunto Ambit 2"><img src="https://c1.staticflickr.com/9/8386/8620278312_aed75fec08_k.jpg" width="2048" height="1365" alt="best outdoor GPS watch color display 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/8620278312/in/album-72157648805512885/" title="Suunto Ambit 2"><img src="https://c1.staticflickr.com/9/8386/8620278312_aed75fec08_k.jpg" width="2048" height="1365" alt="best outdoor GPS watch 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
