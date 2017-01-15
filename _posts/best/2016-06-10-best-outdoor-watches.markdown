@@ -60,7 +60,7 @@ The watches presented in this article can be used for hiking, backpacking, runni
 </td>
 </tr>
 <tr>
-<td><a href="http://amzn.to/2jl0l21" rel="nofollow">Garmin Fenix 5X</a>
+<td><a href="http://amzn.to/2jkTcij" rel="nofollow">Garmin Fenix 5X</a>
 </td>
 <td>98g
 </td>
@@ -124,7 +124,7 @@ Another interesting Outdoor watch is the Motorola Moto 360 Sport which is target
 
 ---
 
-### [Garmin Fenix 5X](http://www.backcountry.com/garmin-fenix-3-bundle)
+### [Garmin Fenix 5X](http://amzn.to/2jkTcij)
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01MQX3306/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MQX3306&linkCode=as2&tag=hikeve-20&linkId=85e41c5bccf9b616397af8b4fbf4b8f1"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MQX3306&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MQX3306" width="1" height="1" border="0" alt="Garmin Fenix 5" style="border:none !important; margin:0px !important;" />
 
@@ -142,7 +142,7 @@ Another interesting Outdoor watch is the Motorola Moto 360 Sport which is target
 
 The Garmin Fenix 5X can be connected to Android and Apple phones and was one of the first proper sport watches which featured a graphic display and is going to be challenged by the new Suunto Spartan Ultra. However, the map function on the Fenix 5X gives the Garmin an edge.
 
-<a href="http://amzn.to/2jl0l21" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2jkTcij" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
