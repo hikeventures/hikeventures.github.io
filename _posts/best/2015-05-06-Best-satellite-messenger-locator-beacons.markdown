@@ -122,7 +122,8 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 
 <h3><a href="http://amzn.to/2eTKIN3" target="_blank" rel="nofollow">SPOT Gen3</button></a></h3>
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00C8S8S4W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00C8S8S4W&linkCode=as2&tag=hikeve-20&linkId=OIB6QWHIQEBL5ZEW"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00C8S8S4W&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00C8S8S4W" width="1" height="1" border="0" alt="SPOT Gen3" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01FHO5AF8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01FHO5AF8&linkCode=as2&tag=hikeve-20&linkId=7996c1250dd46ac08ae20d6dc725d36d"><img rel="nofollow" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01FHO5AF8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01FHO5AF8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 
 * Check-in function: pre-programmed text message or email with GPS coordinates to up to 10 contacts
 * Help/SPOT Assist: Inform contacts about non-life-threatening situations while SPOT Assist is  for professional services on land or water.
