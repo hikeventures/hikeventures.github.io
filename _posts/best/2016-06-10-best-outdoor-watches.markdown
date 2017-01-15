@@ -84,7 +84,7 @@ Probably one disadvantage of watches having a color display and a GPS was their 
 
 ### <a href="http://amzn.to/2dysTQc" rel="nofollow">Apple Watch Series 2 Sport 42mm</a>
 
-<a href="https://www.amazon.com/gp/product/B01LW9G4UO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LW9G4UO&linkCode=as2&tag=hikeve-20&linkId=1d879893fd442284bffcaecbf986807d" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LW9G4UO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LW9G4UO" width="1" height="1" border="0" alt="Apple Watch Series 2 Sport 42mm" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01BKSC14I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01BKSC14I&linkCode=as2&tag=hikeve-20&linkId=5781bd3b5a1ce59a4d231514776f4aff"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01BKSC14I&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01BKSC14I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 34.2 grams  
 **Battery Life:** 18 hours (not in training mode)
