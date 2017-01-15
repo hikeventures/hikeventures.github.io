@@ -11,7 +11,7 @@ tags:
   - watches
 ---
 
-<h2 style="color:red">Selection of the best lightweight GPS watches for 2017 for ultralight outdoor adventures.</h2>
+<h2 style="color:red">Selection of the best lightweight waterproof and water resistant GPS watches for 2017 for ultralight outdoor adventures.</h2>
 <br>
 
 In this blog post I have selected the best outdoor GPS watches which are currently available and which I would consider to buy. I will also update this article frequently with new models.
