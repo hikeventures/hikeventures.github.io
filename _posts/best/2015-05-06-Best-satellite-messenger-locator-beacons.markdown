@@ -2,7 +2,7 @@
 title: Best Satellite Messenger, Locator and Personal Beacon 2017
 description: Planning to go hiking in the remote wilderness? Be prepared to get help with a GPS Satellite Messenger.
 date: 2016-01-03 12:35:07
-update_date: 2016-12-27 06:00:52
+update_date: 2017-01-15 06:00:52
 category: articles
 tags:
   - articles
