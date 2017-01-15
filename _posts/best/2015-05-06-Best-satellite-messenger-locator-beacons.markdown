@@ -38,7 +38,7 @@ A satellite messenger, GPS Tracker or a Personal Locator Beacon should be with y
           <td><a href="http://amzn.to/2e39EPT" target="_blank" rel="nofollow">DeLorme InReach SE</a></td><td>190g</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2e39SXr" target="_blank" rel="nofollow">DeLorme InReach Explorer</a></td><td>190g</td>
+          <td><a href="http://amzn.to/2jM4Pet" target="_blank" rel="nofollow">Garmin InReach Explorer+</a></td><td>213g</td>
         </tr>
       </tbody>
       </table>
@@ -104,19 +104,19 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 
 ---
 
-<h3><a href="http://amzn.to/2e39SXr" target="_blank" rel="nofollow">DeLorme InReach Explorer</a></h3>
+<h3><a href="http://amzn.to/2jM4Pet" target="_blank" rel="nofollow">Garmin InReach Explorer+</a></h3>
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00I6EY01C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00I6EY01C&linkCode=as2&tag=hikeve-20&linkId=5XJQ3SFWBJDA27QP"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00I6EY01C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00I6EY01C" width="1" height="1" border="0" alt="DeLorme InReach Explorer" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.com/gp/product/B01MY03CZP/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MY03CZP&linkCode=as2&tag=hikeve-20&linkId=55130c05ea4d4b808d670e49cd56e51d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MY03CZP&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MY03CZP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 * Same features as DeLorme InReach SE and in additional:
-* Digital Compass with heading and bearing information
-* Route Planning with waypoints via the Explore web portal
+* Digital Compass with barometric altimeter and accelerometer
+* Preloaded DeLorme TOPO maps with onscreen GPS routing plus
 * Key Trip Statistics
 * Detailed Track Logging
-* Barometric Altimeter & Accelerometer
-* weight: 190 grams
+* Pair with mobile devices using the free Earthmate app
+* weight: 213 grams
 
-<a href="http://amzn.to/2e39SXr" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2jM4Pet" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -151,10 +151,10 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 ---
 
 ## Conclusion
-My personal preference goes towards the <a href="http://amzn.to/2e39SXr" target="_blank" rel="nofollow">DeLorme InReach Explorer</a> as it has also messenger function. If I would not need the messenger and tracking function then I would probably get the <a href="http://amzn.to/2e39b0g" target="_blank" rel="nofollow">ACR ResQlink+ 406</a>.
+My personal preference goes towards the <a href="http://amzn.to/2jM4Pet" target="_blank" rel="nofollow">Garmin InReach Explorer+</a> as it has also messenger function. If I would not need the messenger and tracking function then I would probably get the <a href="http://amzn.to/2e39b0g" target="_blank" rel="nofollow">ACR ResQlink+ 406</a>.
 
 ---
 
-Disclosure: We have not tested the products in this blog post. This blog post contains affiliate links.
+Disclosure: We have not tested the products in this blog post. This blog post contains affiliate links. We have only tested the DeLorme Inreach Explorer.
 
 ---
