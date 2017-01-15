@@ -27,7 +27,8 @@ The watches presented in this article can be used for hiking, backpacking, runni
 
 <h2 id="list">The best outdoor gps watches for 2017</h2>
 
-<table>
+<div class="table-responsive">
+<table class="table table-hover table-bordered list_items">
 <tr>
 <td><strong>GPS Watch</strong>
 </td>
@@ -53,18 +54,20 @@ The watches presented in this article can be used for hiking, backpacking, runni
 </td>
 </tr>
 <tr>
-<td><a href="http://amzn.to/2jl0l21" rel="nofollow">Garmin Fenix 5X</a>
-</td>
-<td>98g
-</td>
-</tr>
-<tr>
 <td><a href="http://amzn.to/1YdNH1H" rel="nofollow">Casio WSD-F10</a>
 </td>
 <td>93g
 </td>
 </tr>
+<tr>
+<td><a href="http://amzn.to/2jl0l21" rel="nofollow">Garmin Fenix 5X</a>
+</td>
+<td>98g
+</td>
+</tr>
+
 </table>
+</div>
 
 
 <!--more-->
