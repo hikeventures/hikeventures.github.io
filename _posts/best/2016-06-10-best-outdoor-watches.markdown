@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Best Outdoor GPS watches 2017
+title: Best waterproof and water resistant GPS smartwatches 2017
 description: Our selection of the best outdoor smartwatch for 2017.
 date: 2016-06-10 13:46:20
 update_date: 2017-01-15 06:00:52
@@ -109,7 +109,7 @@ The Apple watch SERIES 2 42mm is for those folks who like to have their iPhone w
 **Weight:** 54 grams  
 **Battery Life:** 1 day  
 **Operating System:** Android Wear™  
-**Water Resistance:** IP67 - not   waterproof   
+**Water Resistance:** IP67 - not waterproof   
 **Display:** 360x325   
 **Touchscreen:** no   
 **Wi-Fi:** yes   
