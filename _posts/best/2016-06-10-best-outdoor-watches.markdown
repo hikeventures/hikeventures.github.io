@@ -51,9 +51,9 @@ Today I would like to present you the best outdoor GPS watches which feature a c
 </td>
 </tr>
 <tr>
-<td><a href="http://amzn.to/2ea5ERr" rel="nofollow">Garmin Fenix 3</a>
+<td><a href="http://amzn.to/2jl0l21" rel="nofollow">Garmin Fenix 5X</a>
 </td>
-<td>82g
+<td>98g
 </td>
 </tr>
 <tr>
@@ -69,7 +69,7 @@ Today I would like to present you the best outdoor GPS watches which feature a c
 
 <hr>
 
-Probably one disadvantage of watches having a colour display and a GPS was their short battery life in the past. The <a href="http://amzn.to/1YdNH1H" rel="nofollow">Casio Smart Outdoor Watch WSD-F10</a> advertises it's watch with 3 days in monochrome mode however the WDS-F10 does not have a GPS built in. My Traverse lasts approximately 1 day if I switch the GPS on depending on the tracking frequency and GPS accuracy. The watches in my list are sorted by their weight.
+Probably one disadvantage of watches having a color display and a GPS was their short battery life in the past. The <a href="http://amzn.to/1YdNH1H" rel="nofollow">Casio Smart Outdoor Watch WSD-F10</a> advertises it's watch with 3 days in monochrome mode however the WDS-F10 does not have a GPS built in. My Traverse lasts approximately 1 day if I switch the GPS on depending on the tracking frequency and GPS accuracy. The watches in my list are sorted by their weight.
 
 ---
 
@@ -119,25 +119,25 @@ Another interesting Outdoor watch is the Motorola Moto 360 Sport which is target
 
 ---
 
-### [Garmin Fenix 3](http://www.backcountry.com/garmin-fenix-3-bundle)
+### [Garmin Fenix 5X](http://www.backcountry.com/garmin-fenix-3-bundle)
 
-<a href="https://www.amazon.com/gp/product/B01A5HIQ7Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01A5HIQ7Q&linkCode=as2&tag=hikeve-20&linkId=3361c3ff4f51ddbeb0f8fd1c9f2e25aa" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01A5HIQ7Q&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01A5HIQ7Q" width="1" height="1" border="0" alt="Garmin Fenix 3" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.com/gp/product/B01MQX3306/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MQX3306&linkCode=as2&tag=hikeve-20&linkId=85e41c5bccf9b616397af8b4fbf4b8f1"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MQX3306&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MQX3306" width="1" height="1" border="0" alt="Garmin Fenix 5" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 82 grams   
-**Battery Life:** 50 hours (UltraTrac mode), 20 hours (GPS training mode), 6 weeks (watch mode)   
+**Weight:** 98 grams   
+**Battery Life:** 50 hours (UltraTrac mode), 20 hours (GPS training mode) and 12 days in Smartwatch mode
 **Operating System:** Garmin   
 **Water Resistance:** 100 meters (10ATM)   
-**Display:** 218x218 pixels   
+**Display:** 240x240 pixels   
 **Touchscreen:** no   
 **Wi-Fi:** yes   
 **Bluetooth:** 4.0   
-**Heart Rate Monitor:** yes   
+**Heart Rate Monitor:** yes (wrist-based)   
 **GPS:** yes, including GLONASS   
 **Wireless charging:** no   
 
-The Garmin Fenix 3 can be connected to Android and Apple phones and was one of the first proper sport watches which featured a graphic display and is going to be challenged by the new [Suunto Spartan](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch).
+The Garmin Fenix 5X can be connected to Android and Apple phones and was one of the first proper sport watches which featured a graphic display and is going to be challenged by the new [Suunto Spartan](https://www.rei.com/product/107290/suunto-spartan-ultra-gps-multifunction-watch).
 
-<a href="http://www.backcountry.com/garmin-fenix-3-bundle" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2jl0l21" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
