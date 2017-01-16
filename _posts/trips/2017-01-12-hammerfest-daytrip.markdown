@@ -116,7 +116,7 @@ Once we entered the boat, we enjoyed the food which we just bought. Konstantin w
 ---
 
 ## Conclusion
-If you are planning to visit Northern Norway you should definitely visit Hammerfest. It's an interesting and also beautiful city with 10.000 inhabitants and a great scenery.
+If you are planning to visit Northern Norway you should definitely visit Hammerfest. It's an interesting and also beautiful city with 10.000 inhabitants and also offers a great scenery (also the trip itself to Hammerfest).
 
 Probably you should also plan a few days hiking in the area as well. If you are not into camping then you could also stay in one of the hotels (Scandic or Thon) which you can also find in Alta.
 
