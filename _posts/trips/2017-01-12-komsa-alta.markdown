@@ -4,7 +4,7 @@ layout: post
 title: Climbing the Komsa in Alta
 description: A daytrip in Alta. Climbing the Komsa
 date: 2017-01-16 14:30:00
-category: articles
+category: trips
 tags:
   - trips
   - norway

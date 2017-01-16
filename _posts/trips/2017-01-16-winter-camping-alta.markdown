@@ -1,14 +1,12 @@
 ---
-published: false
 layout: post
 title: Snowshoeing, Huskies and Winter Camping around Alta
 description: Our winter trip around Alta in Northern Norway
 date: 2017-01-16 20:00:00
-category: articles
+category: trips
 tags:
   - trips
   - norway
-  - gear
 ---
 On January 6th we decided to meet in Alta in Northern Norway to have a winter camping trip around Alta. However, we had no specific plan yet where to go once we arrived in Alta until we met Bram - a friend from Konstantin - who is managing Holmen Husky in the area and lives since several years in Norway but originating from the Netherlands.
 
