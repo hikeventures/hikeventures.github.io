@@ -47,7 +47,7 @@ The road just shortly before we arrived in Hammerfest.
 ## Arriving in Hammerfest
 We arrived in Hammerfest (the world&#39;s most northerly town) at around 12.45. Once we arrived at the bus terminal in Hammerfest we walked to the <a href="http://www.hammerfest-turist.no/en/">local tourist office</a> where we had a nice conversation with the staff. Two immigrants - one from Germany and the other one from Finland - who lived here already since a couple of years.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32116540332/in/dateposted-public/" title="Hammerfest"><img src="https://c1.staticflickr.com/1/452/32116540332_34f0129926_k.jpg" width="2048" height="929" alt="Hammerfest"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32116540332" title="Hammerfest - Northern Norway"><img src="https://c1.staticflickr.com/1/452/32116540332_623cf67546_k.jpg" width="2048" height="929" alt="Hammerfest - Northern Norway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
