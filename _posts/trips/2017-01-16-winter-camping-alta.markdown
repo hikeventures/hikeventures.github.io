@@ -20,7 +20,7 @@ On the way to the shelter we also passed by Haldde mountain, which is a popular 
 
 While we were driving with Bram's Land Cruiser we stopped on a local grocery store where we bought winter gas for our stove, matches and a lighter.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32331084835/in/dateposted-public/" title="Pulka and Snowshoeing in Alta Norway"><img src="https://c1.staticflickr.com/1/391/32331084835_aa0a73a7cc_k.jpg" width="2048" height="1152" alt="Pulka and Snowshoeing in Alta Norway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31488834524/in/dateposted-public/" title="Winter Camping and Snowshoeing in Alta Norway Pulka"><img src="https://c1.staticflickr.com/1/676/31488834524_005ba3c976_z.jpg" width="640" height="360" alt="Winter Camping and Snowshoeing in Alta Norway Pulka"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Once we arrived on our starting point we unloaded our gear, said bye to Bram and got the pulka ready. From the somewhat close distance we were able to hear some huskies and we also realized later on that this area was quite popular for husky tours.
 
