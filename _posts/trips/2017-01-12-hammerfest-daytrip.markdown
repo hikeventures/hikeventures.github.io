@@ -62,19 +62,19 @@ In the Tourist Office we decided to become members at the Royal and Ancient Pola
 ## Hammerfest Church
 Next, we went to the Hammerfest church which has been built in 1961 and has space for 525 people. There has been many churches before in Hammerfest dating back till 1620. The previous church was burned down by the Germans in 1944.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31889698530/in/dateposted-public/" title="Hammerfest Church"><img src="https://c1.staticflickr.com/1/527/31889698530_caa19abf46_k.jpg" width="2048" height="1152" alt="Hammerfest Church"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31889698530" title="Hammerfest church"><img src="https://c1.staticflickr.com/1/527/31889698530_d797780671_k.jpg" width="2048" height="1152" alt="Hammerfest church"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31455585493/in/dateposted-public/" title="Altar Hammerfest Church"><img src="https://c1.staticflickr.com/1/356/31455585493_42e29368be_k.jpg" width="2048" height="1152" alt="Altar Hammerfest Church"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31455585493" title="Hammerfest church"><img src="https://c1.staticflickr.com/1/356/31455585493_d8d9093eb1_k.jpg" width="2048" height="1152" alt="Hammerfest church"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31889696790/in/dateposted-public/" title="Hammerfest Church Organ"><img src="https://c1.staticflickr.com/1/757/31889696790_493758f1ce_k.jpg" width="2048" height="1152" alt="Hammerfest Church Organ"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31889696790" title="Hammerfest church"><img src="https://c1.staticflickr.com/1/757/31889696790_6198871262_k.jpg" width="2048" height="1152" alt="Hammerfest church"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The history of the churches in Hammerfest are displayed inside the church.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31455584453/in/dateposted-public/" title="Hammerfest Church decoration"><img src="https://c1.staticflickr.com/1/632/31455584453_13917bbb92_k.jpg" width="2048" height="1152" alt="Hammerfest Church Decoration"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31455584453" title="Hammerfest church"><img src="https://c1.staticflickr.com/1/632/31455584453_24f50935a9_k.jpg" width="2048" height="1152" alt="Hammerfest church"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 On the way to the museum of reconstruction we also passed by a monument of Ole Olsen -  a  Norwegian organist and composer.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32227507356/in/dateposted-public/" title="monument of Ole Olsen Hammerfest"><img src="https://c1.staticflickr.com/1/540/32227507356_105a69c3db_k.jpg" width="2048" height="1152" alt="monument of Ole Olsen hammerfest"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32227507356" title="Hammerfest museum of reconstruction"><img src="https://c1.staticflickr.com/1/540/32227507356_9d695dfdfb_k.jpg" width="2048" height="1152" alt="Hammerfest museum of reconstruction"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
@@ -92,15 +92,15 @@ From the city itself we had a great view over the Fjord.
 ## Lookout Point
 After our visit in the museum we decided to walk up to a lookout point. On the way up it's also worth to look backwards.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31889684060/in/dateposted-public/" title="Hammerfest lookout point"><img src="https://c1.staticflickr.com/1/483/31889684060_47b77a9212_k.jpg" width="2048" height="1152" alt="Hammerfest lookout point"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31889684060" title="Hammerfest lookout point panorama view"><img src="https://c1.staticflickr.com/1/483/31889684060_4032cbbae2_k.jpg" width="2048" height="1152" alt="Hammerfest - lookout point panorama view"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Once we reached the top we enjoyed again a fantastic view over the city and the sea. The whole city was glowing with it's hundreds of lights in the darkness - even so it was only 3pm.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32227503296/in/dateposted-public/" title="Hammerfest lookout point"><img src="https://c1.staticflickr.com/1/740/32227503296_148b2c05fd_k.jpg" width="2048" height="1152" alt="Hammerfest lookout point"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32227503296" title="Hammerfest - lookout point panorama view"><img src="https://c1.staticflickr.com/1/740/32227503296_b12a4933d5_k.jpg" width="2048" height="1152" alt="Hammerfest - lookout point panorama view"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Then it was time to get back to the city where we walked along the harbor. Konstantin spotted a fish store where Konstantin tried a local delicatese.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32227502706/in/dateposted-public/" title="Hammerfest fish store"><img src="https://c1.staticflickr.com/1/472/32227502706_e4af9e1c1a_k.jpg" width="2048" height="1265" alt="Hammerfest fish store"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32227502706" title="Hammerfest fish store"><img src="https://c1.staticflickr.com/1/472/32227502706_05ef58bad6_k.jpg" width="2048" height="1265" alt="Hammerfest - fish store"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The nearby Coop (grocery store) was also a good opportunity for us to fill our backpacks with some snacks. We bought a local leaf of bread (the bread in Norway tastes actually quite good), cheese, tomatoes and cucumber. Konstantin also bought grilled chicken and then we were good to go.
 
