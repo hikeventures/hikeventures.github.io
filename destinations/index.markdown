@@ -391,7 +391,7 @@ footer: false
 
 
             <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
-             <a class="thumbnail" href="http://www.hikeventures.com/Packrafting-Alta-River/" style="color: #FFF; border: 0px;">
+             <a class="thumbnail" href="http://www.hikeventures.com/winter-camping-alta/" style="color: #FFF; border: 0px;">
            <div class="thumbnail text-center">
            <img src="https://c1.staticflickr.com/1/719/31508304254_3aa7ed8c2d_z.jpg" alt="" class="img-responsive">
            <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Alta Winter</p>
