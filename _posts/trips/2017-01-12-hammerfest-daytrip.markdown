@@ -11,7 +11,7 @@ tags:
 ---
 This morning we went to the tourist office in Alta to buy our tickets for the bus to Hammerfest and also for the way back to Alta with the speed ferry through the Altafjord.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32227516716/in/dateposted-public/" title="Day trip Alta to Hammerfest Norway Boreal Tours North Adventure"><img src="https://c1.staticflickr.com/1/643/32227516716_8638a21f95_k.jpg" width="2048" height="1152" alt="Day trip Alta to Hammerfest Norway Boreal Tours North Adventure"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32227516716" title="Hammerfest - Northern Norway"><img src="https://c1.staticflickr.com/1/643/32227516716_5792f4cbb6_k.jpg" width="2048" height="1152" alt="Hammerfest - Northern Norway day trip alta"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <!--more-->
 
@@ -20,23 +20,23 @@ This morning we went to the tourist office in Alta to buy our tickets for the bu
 ## From Alta to Hammerfest by bus
 At 8.30 we went to <a href="http://www.northadventure.no">North Adventure</a> where we bought our <a href="http://www.northadventure.no/oneIndiv.php?tur=AI90">day trip voucher</a> and our bus left at 9am just before their office. The bus took us along the Fjord into the uplands where the winter sun tried to reach the horizon. However, it would still take the sun another week until it would be visible again.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32227519426/in/dateposted-public/" title="Day trip Alta to Hammerfest Norway Boreal Tours North Adventure Bus"><img src="https://c1.staticflickr.com/1/636/32227519426_a62c367205_k.jpg" width="2048" height="1152" alt="Day trip Alta to Hammerfest Norway Boreal Tours North Adventure Bus"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32227519426" title="Hammerfest - Northern Norway"><img src="https://c1.staticflickr.com/1/636/32227519426_2190b15007_k.jpg" width="2048" height="1152" alt="Day trip Alta to Hammerfest Norway Boreal Tours North Adventure Bus"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 At 10.30 we arrived Skaidikroa where we had a glass of milk and waited for the next bus which were about to leave at 11.45 towards Hammerfest.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32227514506/in/dateposted-public/" title="Day trip Alta to Hammerfest Norway Boreal Tours North Adventure Bus"><img src="https://c1.staticflickr.com/1/310/32227514506_8050f123e1_k.jpg" width="2048" height="1152" alt="Day trip Alta to Hammerfest Norway Boreal Tours North Adventure Bus"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32227514506" title="Hammerfest - Northern Norway"><img src="https://c1.staticflickr.com/1/310/32227514506_8f7102d136_k.jpg" width="2048" height="1152" alt="Day trip Alta to Hammerfest Norway Boreal Tours North Adventure Bus"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The road along the coast was impressive. Rocks, snow and water. Here and there were a few houses. We also crossed the Kvalsund Bridge which was quite impressive. Once on the bridge we had a great view on both sides of the bridge.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32146246841/in/dateposted-public/" title="Kvalsund Bridge"><img src="https://c1.staticflickr.com/1/323/32146246841_ba5b712fed_k.jpg" width="2048" height="1152" alt="Kvalsund Bridge"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32146246841" title="Kvalsund Bridge"><img src="https://c1.staticflickr.com/1/323/32146246841_6510dd875a_k.jpg" width="2048" height="1152" alt="Kvalsund Bridge"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The bus stopped just before we crossed the bridge the bus and we jumped out to take some pictures.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32146247341/in/dateposted-public/" title="Kvalsund Bridge Bus Stop"><img src="https://c1.staticflickr.com/1/320/32146247341_d6db3d59d0_k.jpg" width="2048" height="1152" alt="Kvalsund Bridge Bus Stop"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32146247341" title="Kvalsund Bridge bus stop"><img src="https://c1.staticflickr.com/1/320/32146247341_175ccbb728_k.jpg" width="2048" height="1152" alt="Kvalsund Bridge bus stop"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 On the way to Hammerfest there were not many buildings except a few smaller settlements.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31889708540/in/dateposted-public/" title="From Alta to Hammerfest by bus"><img src="https://c1.staticflickr.com/1/614/31889708540_2e46ae739d_k.jpg" width="2048" height="1079" alt="From Alta to Hammerfest by bus"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31889708540" title="From Alta to Hammerfest by bus"><img src="https://c1.staticflickr.com/1/614/31889708540_86d5a2196a_k.jpg" width="2048" height="1079" alt="From Alta to Hammerfest by bus"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The road just shortly before we arrived in Hammerfest.
 
