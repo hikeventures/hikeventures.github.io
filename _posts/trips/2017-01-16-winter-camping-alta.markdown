@@ -35,7 +35,7 @@ Then we decided to pitch the tent, collect some wood and to get a small fire bur
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31520425523/in/dateposted-public/" title="Cimarron tent by Seek Outside Norway Test Review"><img src="https://c1.staticflickr.com/1/581/31520425523_6045e89d23_k.jpg" width="2048" height="1152" alt="Cimarron tent by Seek Outside Norway Test Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Indeed, deciding to set up the tent early was a good decision since it got dark quite early and preparing the camp took a while too. Chopping the wood with our axe and our saw also took a while.
+Indeed, deciding to set up the tent early was a good decision since it got dark quite early and preparing the camp took a while too. Chopping wood with our axe and our saw also took a while.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32292151956/in/dateposted-public/" title="Cimarron tent by Seek Outside preparing wood for stove"><img src="https://c1.staticflickr.com/1/271/32292151956_a88a5e998f_k.jpg" width="2048" height="1152" alt="Cimarron tent by Seek Outside preparing wood for stove"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
