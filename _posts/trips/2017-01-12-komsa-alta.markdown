@@ -38,3 +38,5 @@ Of course you are able to see the city of Alta itself.
 The Alta Fjord which leads to the Arctic Sea.
 
 Would we recommend climbing up the Komsa? Yes, definitely. If you happen to be in Alta this is probably one of the highlights you should visit.
+
+{% include store.html %}

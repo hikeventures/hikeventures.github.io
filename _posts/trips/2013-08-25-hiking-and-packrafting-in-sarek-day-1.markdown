@@ -437,7 +437,7 @@ Sarek was a great experience and we look forward to visit the Sarek National Par
 
 By ferry from Umea to Vaasa. Bye bye Sweden.
 
----
+{% include store.html %}
 
 ## Links
 Our <a href="http://hikeventures.com/sarek-packrafting-video/" target="_blank">Sarek packrafting video</a>.

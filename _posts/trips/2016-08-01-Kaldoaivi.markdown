@@ -226,3 +226,6 @@ There was also some sort of art hanging from the tree - a lot of postcards arran
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076101634/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c3.staticflickr.com/9/8787/28076101634_dde2cc7db2_k.jpg" width="2048" height="1365" alt="Postcards Sevettijärvi Art Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Now it's time to drive to Norway to visit the Arctic Sea... It's going to be a one hour drive with our car to Kirkenes. You can continue reading [here](http://www.hikeventures.com/Finnmark/) or watch a [short video](http://www.hikeventures.com/finland-norway/) about our trip.
+
+
+{% include store.html %}

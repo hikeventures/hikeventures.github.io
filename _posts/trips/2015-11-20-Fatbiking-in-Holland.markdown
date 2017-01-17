@@ -19,3 +19,5 @@ Today went to The Hague where he had a chance to test ride a fatbike. After his 
 {% include banner_ad.html %}
 
 I think it is pretty cool to have a fatbike, especially in Holland where you have those nice sand beaches. How about you? Interested in Fatbiking or do you have a Fatbike? Any tips or recommendation what to consider when buying a fatbike?
+
+{% include store.html %}

@@ -82,3 +82,5 @@ Somewhat exhausted from the trip we really enjoyed this short break before conti
 We also have a tradition to eat in a Pizza Restaurant after each of our trips and so we decided to visit Peppes Pizza to celebrate our first winter camping experience in Northern Norway.
 
 We were quite tired and had a good night sleep after dinner. The next day brought a new adventure up to the Komsa mountain in Alta. More about this adventures soon on our blog.
+
+{% include store.html %}

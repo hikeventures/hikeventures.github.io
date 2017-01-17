@@ -51,4 +51,6 @@ The Borea Hostel is worth a visit. There is also an exhibition about the history
 ## Link
 [Hostel Borea][1]
 
+{% include store.html %}
+
 [1]:	http://www.hostelborea.fi "Hostel Borea"

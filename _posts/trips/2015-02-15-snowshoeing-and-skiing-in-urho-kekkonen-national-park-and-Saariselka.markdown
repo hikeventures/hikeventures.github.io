@@ -194,3 +194,5 @@ Update 18.04.2015: And here is also our Lapland Video <br>
 </div>
 <br>
 Interested in more stories from Lapland? Here is another <a href="http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/">story</a> from the Abisko area in Northern Sweden.
+
+{% include store.html %}

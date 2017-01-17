@@ -91,5 +91,7 @@ The next day we went to Kiruna with the train - where Fjällräven had his regis
 ## GPS data
 <a href="http://www.movescount.com/moves/move72299261">Day 3</a>
 
+{% include store.html %}
+
 [1]:	http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko-day-2/
 [2]:	http://www.hikeventures.com/3-days-in-the-scottish-highlands/

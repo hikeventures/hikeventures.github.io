@@ -89,4 +89,8 @@ During the weekends the park is sometimes quite crowded especially around the fi
 
 Want to read about our adventure in the Urho Kekkonen National Park? Have a look on our [winter adventure][1] in Finnish Lapland.
 
+{% include store.html %}
+
+
+
 [1]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Urho Kekkonen National Park"

@@ -79,3 +79,5 @@ Eventually going further by boat paid off - we got near a village where there wa
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 <br>
 After we communicated our location to our pick-up guy, it was just a short walk through the forest to the road, where barely had enough time to pack ourselves, before he arrived. This was the end of another microadventure.
+
+{% include store.html %}

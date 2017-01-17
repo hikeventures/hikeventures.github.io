@@ -128,5 +128,7 @@ Järvenpää Beach
 
 <a href="https://www.flickr.com/photos/90204224@N07/14646208872"><img src="https://farm6.staticflickr.com/5526/14646208872_40762896de_b.jpg" width="1024" height="683"></a>
 
+{% include store.html %}
+
 ## Links
 <a href="http://bit.ly/1jrv34G" target="_blank">Museums in Tuusula</a>

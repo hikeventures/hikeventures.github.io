@@ -16,3 +16,5 @@ Last year in July two very important things happened in my life – Marta and I 
 </div>
 
 {% include banner_ad.html %}
+
+{% include store.html %}

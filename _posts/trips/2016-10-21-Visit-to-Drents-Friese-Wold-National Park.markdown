@@ -78,7 +78,7 @@ Giving an impression of a rather dry place, it still has a couple of small lakes
 
 On the whole, even though we were there just for a few short hours, this was enjoyable time for us and we are looking forward to coming back to this diverse national park in the near future. And maybe even to the same giant sandpit again.
 
-------
+{% include store.html %}
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";

@@ -75,3 +75,5 @@ Seems that even elks like Ruissalo.<br><br><a href="https://www.flickr.com/photo
 Golfing is possible in Ruissalo as well.
 <br><br>
 Ruissalo is a nice island very close to the city of Turku. There are also plenty of events throughout the year and it's also great for outdoors activities like going jogging along the shore of the island.
+
+{% include store.html %}

@@ -17,3 +17,4 @@ I stitched together a few scenes from our packrafting gathering. There are no sp
 </div>
 
 {% include banner_ad.html %}
+{% include store.html %}

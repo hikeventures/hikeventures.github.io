@@ -34,3 +34,5 @@ If you are more into packrafting, the Bothnian Sea or Pilvil&#228;mpi are great 
 To learn more about the area and in particular the Kvarken Archipelago, a visit to <a href="http://terranova.vaasa.fi" target="_blank">Terra Nova</a> - a museum in the city of Vaasa is highly recommended. Entrance is free of charge on Fridays.
 
 Hiking and fishing gear is sold by <a href="http://www.kurre.fi" target="_blank">Kurre</a>, Intersport and <a href="http://www.wasasport.fi" target="_blank">Wasasport</a> in Vaasa. <br>
+
+{% include store.html %}

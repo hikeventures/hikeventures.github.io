@@ -224,6 +224,8 @@ I am still excited about the Archipelago Sea. You can have endless [microadventu
 
 If you are excited about packrafting you may also watch my [video][36] about wind paddle sailing here around Turku.
 
+{% include store.html %}
+
 [1]:	https://www.flickr.com/photos/90204224@N07/17598040058 "Packrafting in the Turku Archipelago - Alpacka Raft Astral Designs YTV Werner Shuna Palm Hook Gloves and Nalgene Bottle"
 [2]:	http://www.hikeventures.com/hiking-on-the-aland-islands/
 [3]:	https://www.flickr.com/photos/90204224@N07/17163342294 "Packrafting in the Turku Archipelago - Suunto Ambit3 and Palm Hook Gloves"

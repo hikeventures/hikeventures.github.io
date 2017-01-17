@@ -121,3 +121,5 @@ If you are planning to visit Northern Norway you should definitely visit Hammerf
 Probably you should also plan a few days hiking in the area as well. If you are not into camping then you could also stay in one of the hotels (Scandic or Thon) which you can also find in Alta.
 
 In general, it was a great trip and worth the money spent on traveling.
+
+{% include store.html %}

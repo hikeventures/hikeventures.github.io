@@ -55,3 +55,5 @@ The castle was built in the 14th century and served as a fortification until it 
 ## Links
 <a href="http://www.movescount.com/moves/move31394610" target="_blank">GPS Data</a>
 <a href="http://www.visitkaarina.fi/tips-for-archipelago-ring-route-travellers" target="_blank">Kuusisto Tourism</a>
+
+{% include store.html %}

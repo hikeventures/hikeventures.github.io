@@ -95,7 +95,7 @@ Czech journalist Rudolf Kalman died here during a snow storm on 14 January 1929.
 <br>
 Due to the limited amount of time we spent in this part of Poland I was only able to do a day trip. Anyway, the next day I got muscle ache in my legs since I also went 10 km jogging up the mountain on the morning before the hike. Just not used to run in the mountains anymore as when I lived in Austria. Next time I would like to hike the complete trail if I plan to come here again. Here is the GPS data from <a hre="http://www.movescount.com/moves/move68498799">hiking</a> and <a href="http://www.movescount.com/moves/move68437371">jogging</a>.
 
----
+{% include store.html %}
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";

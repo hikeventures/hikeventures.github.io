@@ -22,3 +22,4 @@ Here comes a short video about our Hiking and Packrafting adventure together wit
 [Northern Norway](http://www.hikeventures.com/Finnmark/)   
 
 {% include banner_ad.html %}
+{% include store.html %}

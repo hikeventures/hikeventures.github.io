@@ -18,3 +18,5 @@ Last month we have visited the Fortress Island of Örö in the Finnish Archipela
 </div>
 
 {% include banner_ad.html %}
+
+{% include store.html %}

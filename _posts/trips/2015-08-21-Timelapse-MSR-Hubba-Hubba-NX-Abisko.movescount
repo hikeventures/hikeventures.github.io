@@ -19,3 +19,4 @@ On our packrafting trip in Sweden we had our first camp on a small remote island
 </div>
 
 {% include banner_ad.html %}
+{% include store.html %}

@@ -89,3 +89,5 @@ At the end of our paddling trip we lid another fire where we prepared our "late 
 Unfortunately, we were not able to camp a second night since we had to return to the airport as Konstantin had to catch his flight up north to Alta in Norway for his next adventure. However, we are looking forward to the next packrafting gathering which will most likely take place in May 2016.
 
 <strong>Update:</strong> And <a href="http://www.hikeventures.com/Second-Packrafting-Gathering-Helvetinjarvi-Video/">here</a> is the Video :)
+
+{% include store.html %}

@@ -106,6 +106,8 @@ Here you can find a [map][6] from the trip.
 
 We will publish part 2 and 3 of this trip soon on our blog. In the meantime you can have a look on our [Puszcza Notecka][7] adventure in Poland.
 
+{% include store.html %}
+
 [1]:	http://www.krynica-zdroj.pl/en/453/0/krynica-zdroj.html "Krynica- Zdrój"
 [2]:	http://www.witoldowka-krynica.pl/ "Hotel Witoldówka"
 [3]:	http://www.halalabowska.pttk.pl/index.php?&width=1920&height=1080 "Hala Łabowska"

@@ -343,3 +343,5 @@ Patrick and Caj saying bye bye to Konstantin Gridnevskiy at the airport in Stock
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26917254551/in/dateposted-public/" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7686/26917254551_064705d868_b.jpg" width="100%" alt="Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Here you can also watch a [video](http://www.hikeventures.com/video-swedish-packrafting-roundup-2016/) about the Swedish Packrafting Round-Up which won an award at the Danish Adventure Film Festival.
+
+{% include store.html %}

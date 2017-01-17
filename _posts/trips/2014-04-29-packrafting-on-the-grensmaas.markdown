@@ -147,3 +147,5 @@ After we packed our packrafts and gear we walked around in Grevenbicht. The peop
 <a href="http://www.movescount.com/moves/move29413524" target="_blank">GPS Data day 1</a>
 <br>
 <a href="http://www.movescount.com/moves/move29413527" target="_blank">GPS Data day 2</a>
+
+{% include store.html %}

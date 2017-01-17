@@ -71,6 +71,8 @@ Orienteering
 
 <a href="https://www.flickr.com/photos/90204224@N07/8627363158" title="Middenduin Bison"><img src="https://farm9.staticflickr.com/8537/8627363158_509134df86_b.jpg" width="1024" height="680" alt="Middenduin Bison"></a>
 
+{% include store.html %}
+
 ## Links
 <a href="http://www.np-zuidkennemerland.nl/documents/unieke_natuur/middenduin.xml?lang=nl">Middenduin</a>
 <a href="http://www.ns.nl/en/travellers/home">Trains in the Netherlands</a>

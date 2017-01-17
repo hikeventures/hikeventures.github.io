@@ -14,3 +14,5 @@ Tateyama mountain - the place between the sky and the earth. There is definitely
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
 {% include banner_ad.html %}
+
+{% include store.html %}

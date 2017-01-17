@@ -160,6 +160,8 @@ Thanks to [Jaakko][48] who organised the event. Hope to see you all next time ag
 [Timo][50]
 [Jaakko][51]
 
+{% include store.html %}
+
 [1]:	http://korpijaakko.com/2014/08/27/the-first-finnish-packrafting-gathering/
 [2]:	https://www.flickr.com/photos/90204224@N07/15455162392 "First Finnish Packraft Gathering"
 [3]:	https://www.flickr.com/photos/90204224@N07/15268839149 "First Finnish Packraft Gathering "

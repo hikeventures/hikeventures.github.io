@@ -40,3 +40,5 @@ An important part of packrafting is scouting. Especially if the river has been c
 It was like walking above the clouds.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26162504684/in/dateposted-public/" title="Hiking and Packrafting in Japan"><img src="https://farm2.staticflickr.com/1464/26162504684_f479c44d4e_b.jpg" width="100%" alt="Trekking and Packrafting in Japan Northern Alps"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+{% include store.html %}

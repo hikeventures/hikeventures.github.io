@@ -17,3 +17,5 @@ Last February we went to Lapland for some cross-country skiing, snowshoeing, ice
 <!--more-->
 
 {% include banner_ad.html %}
+
+{% include store.html %}

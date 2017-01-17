@@ -50,3 +50,5 @@ Quite easy for the postman to distribute letters.
 <a href="https://www.flickr.com/photos/90204224@N07/14682106670"><img src="https://farm4.staticflickr.com/3902/14682106670_5e7a80d313_b.jpg" width="1024" height="683" ></a><a href="http://en.wikipedia.org/wiki/Kakskerta_Church" target="_blank">Kakskerta Church</a><a href="https://www.flickr.com/photos/90204224@N07/14866335234"><img src="https://farm4.staticflickr.com/3910/14866335234_0947635176_b.jpg" width="1024" height="683" ></a><a href="https://www.flickr.com/photos/90204224@N07/14682276967"><img src="https://farm6.staticflickr.com/5553/14682276967_14235b7472_b.jpg" width="1024" height="683" ></a>
 
 It was a nice bicycle ride. There is also a lake - Kakskerranjärvi - where you can have a break and go for a swim. Also you can buy some snacks and drinks in the K-Market just before the Hirvensalo - Kakskerta bridge.
+
+{% include store.html %}

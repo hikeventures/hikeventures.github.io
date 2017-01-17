@@ -95,4 +95,6 @@ As the imaginary smell of the mushroom soup filled the noisy train compartment o
 
 train station in Mia&#322;y
 
+{% include store.html %}
+
 [1]:	http://www.hikeventures.com/petzl-nao-headlamp-test/ "Petzl Nao"

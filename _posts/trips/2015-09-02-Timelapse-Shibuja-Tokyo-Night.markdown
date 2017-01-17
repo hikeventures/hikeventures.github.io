@@ -15,3 +15,4 @@ Before we explored the outdoors of Japan we were fascinated by the flow of cars 
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
 {% include banner_ad.html %}
+{% include store.html %}

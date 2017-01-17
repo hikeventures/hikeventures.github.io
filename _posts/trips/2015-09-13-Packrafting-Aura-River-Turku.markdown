@@ -17,3 +17,5 @@ Two weeks ago I took my packraft to explore the city center of Turku by paddling
 Want to see more packrafting videos from Turku? <a href="http://www.hikeventures.com/Windpaddle-sailing-packraft/">Check out</a> how I sail with my packraft.
 
 {% include banner_ad.html %}
+
+{% include store.html %}

@@ -57,5 +57,7 @@ Unfortunately we were limited by time and weather. Ben Alder region can keep you
 
 Nothing more to say than THANK YOU SCOTLAND FOR PROVIDING US SUNNY WEATHER AND THANK YOU RYAINAIR FOR THE CHEAP FLIGHT ;)
 
+{% include store.html %}
+
 ## Links
 Our location in the <a href="http://www.climbthemunros.co.uk/munro_os_map.php?lat=56.8138&long=-4.4651" target="_blank">Scottish Highlands</a> on the map.

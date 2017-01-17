@@ -103,8 +103,6 @@ Once all of us got onto the water, we made a customary circle, or at least attem
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
 
+Once we started to paddle, it started to rain too and even though it was just a few hours to Barvaux, the place where we wanted to take the train from to go back to Hotton, it still felt as if it was hours. The last part of the river was not that exciting either. The only truly interesting thing was paddling through Durbuy, the smallest town in Belgium, but even then it was raining hard and we didn't feel like stopping and enjoying the place. So, when we finally got to Barvaux, we (or at least I) felt somewhat relived and definitely hungry. The train was still in more than an hour (we had just missed the previous one), so we went to a pub to 'lift our spirits', which, in a way, is a tradition on its own. And of course I had Belgian fries :)
 
-
-
-
- Once we started to paddle, it started to rain too and even though it was just a few hours to Barvaux, the place where we wanted to take the train from to go back to Hotton, it still felt as if it was hours. The last part of the river was not that exciting either. The only truly interesting thing was paddling through Durbuy, the smallest town in Belgium, but even then it was raining hard and we didn't feel like stopping and enjoying the place. So, when we finally got to Barvaux, we (or at least I) felt somewhat relived and definitely hungry. The train was still in more than an hour (we had just missed the previous one), so we went to a pub to 'lift our spirits', which, in a way, is a tradition on its own. And of course I had Belgian fries :)
+ {% include store.html %}

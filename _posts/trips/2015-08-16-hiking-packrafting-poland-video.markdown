@@ -15,3 +15,5 @@ A couple of weeks ago we went for a relaxed hiking and packrafting trip to Polan
 <iframe src="https://player.vimeo.com/video/136414199" width="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/136414199">Hiking and Packrafting in Poland</a> from <a href="https://vimeo.com/user15105973">Hikeventures</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 {% include banner_ad.html %}
+
+{% include store.html %}

@@ -36,3 +36,5 @@ Hiking towards the top of Sweden. Even though the track is relatively easy, the 
 Almost at Kebnekaise Mountain Lodge. While a busy event, I managed to enjoy the solitude most of the time. Only when I was approaching the checkpoints I could really see the whole extent of it.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26317798161/in/dateposted-public/" title="Fjällräven Classic 2015"><img src="https://farm2.staticflickr.com/1506/26317798161_5045dc3387_b.jpg" width="100%" alt="Fjällräven Classic 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+{% include store.html %}

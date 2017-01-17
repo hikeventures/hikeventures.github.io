@@ -55,3 +55,5 @@ Castle Książ was built in 1288-1292 and is a must see when you are traveling i
 In general, it was a fun trip to Poland. The food which I got in the  Restaurants was good (I especially liked the mushroom soup and the pan cakes in Restaurant Gospoda Wedle Bucków in Jagniątków) and there are also plenty of shopping opportunities available in case you get tired of cultural activities. Communication in English also worked for me in many cases.
 
 In my next blog post you will read about our hiking and packrafting adventures in Poland.
+
+{% include store.html %}
