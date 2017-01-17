@@ -187,7 +187,7 @@ published: true
 
              </tr>
 <tr>
-            <td><a href="/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/">MSR Deploy T2</a></td>
+            <td><a href="/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/">MSR Deploy TR-2</a></td>
             <td><a href="/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/">MSR Flight 2</a></td>
       </tr>
 
