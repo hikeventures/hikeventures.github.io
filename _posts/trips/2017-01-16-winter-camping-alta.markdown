@@ -69,7 +69,7 @@ Since we had stored most of our gear in our pulka we decided that it would be a 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31954108190/in/dateposted-public/" title="snow storm in Alta Northern Norway"><img src="https://c1.staticflickr.com/1/746/31954108190_315d2586a4_k.jpg" width="2048" height="1152" alt="snow storm in Alta Northern Norway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Then we also reached a lake where we got into a snow storm. Fortunately, the wind became less once we entered the forest again. During our trip we also tested the fly360 camera (see below) witch you can watch <a href="https://www.youtube.com/watch?v=vzBqRb4Xhzw&t=2031s">here</a>. You can use a VR headset or Google cardboard to watch the video as well. We did not edit or trim the video so feel free to fast forward it if it feels too long :)
+Then we also reached a lake where we got into a snow storm. Fortunately, the wind became less once we entered the forest again. During our trip we also tested the fly360 camera (see below) which you can watch <a href="https://www.youtube.com/watch?v=vzBqRb4Xhzw&t=2031s">here</a>. You can use a VR headset or Google cardboard to watch the video as well. We did not edit or trim the video so feel free to fast forward it if it feels too long :)
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31539128793/in/dateposted-public/" title="fly360 4K camera expedition norway"><img src="https://c1.staticflickr.com/1/634/31539128793_aa4e86301a_k.jpg" width="2048" height="1152" alt="fly360 4K camera expedition norway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
