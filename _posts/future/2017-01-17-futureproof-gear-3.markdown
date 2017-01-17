@@ -7,7 +7,6 @@ tags:
   - futureproofgear
 layout: post
 ---
-
 In this issue of futureproof outdoor gear we will present you our newest picks of emerging gear like a wearable power bank, trackable wallets or a water filtration system.
 
 Would you buy it? Do you want us to review it? Comment and follow us on [Facebok](https://www.facebook.com/HikeVentures/) or [Twitter](https://twitter.com/HikeVentures) with the hashtag #FutureproofGear.
