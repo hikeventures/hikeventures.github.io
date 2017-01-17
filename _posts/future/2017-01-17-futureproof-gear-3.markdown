@@ -1,15 +1,14 @@
 ---
 title: Futureproof - the outdoor gear for tomorrow's you? - Nr. 3
 description: Find out about emerging outdoor products on the market.
-date: 2017-01-17 05:28:01
+date: 2017-01-17 23:00:01
 category: futureproofgear
 tags:
   - futureproofgear
 layout: post
-published: false
 ---
 
-Here comes the newest gear and gadgets which we have spotted for your next travel and outdoor adventure.
+In this issue of futureproof outdoor gear we will present you our newest picks of emerging gear like a wearable power bank, trackable wallets or a water filtration system.
 
 Would you buy it? Do you want us to review it? Comment and follow us on [Facebok](https://www.facebook.com/HikeVentures/) or [Twitter](https://twitter.com/HikeVentures) with the hashtag #FutureproofGear.
 
@@ -57,14 +56,11 @@ The [iStand7](https://www.indiegogo.com/projects/istand7-slim-all-in-one-case-fo
 ## SKINNERS: Revolutionary Ultraportable Footwear
 SKINNERS](https://www.indiegogo.com/projects/skinners-revolutionary-ultraportable-footwear-shoes-design#/) are the ultimate minimalistic pocket footwear.
 
+## The SEVENTY2: The world's smartest survival kit.
+[The SEVENTY2](https://www.indiegogo.com/projects/cinch-ultimate-pop-up-tent-with-solar-power-led-camping--2#/) has been designed by survival experts and includes everything needed to live outside your comfort zone.
 
+## Mokacam Alpha - The World's Smallest 4K Camera
+The [Mokacam Alpha](https://www.indiegogo.com/projects/mokacam-alpha-the-world-s-smallest-4k-camera-action-sports#/) is smaller than a GoPro and comes with a shutter wheel/rotating screen and magnetic snap-on battery.
 
-
-## Line Dock: Thinnest and Smartest Laptop Power Bank
-Do you need a 20.000mAh laptop power bank with built-in up to 1 TB SSD and a USB-C hub? Have a look at the [Line Dock](https://www.indiegogo.com/projects/line-dock-thinnest-and-smartest-laptop-power-bank-battery--2#/).
-
-## Heacket: The World’s Most Durable Heated Jacket
-The [Heacket Jacket](https://www.indiegogo.com/projects/heacket-the-world-s-most-durable-heated-jacket#/) comes with three controlled heating zones and is wind and water resistant.
-
-## Code 10 - Waterproof, Lockable Backpacks
-Do you need a backpack which is waterproof, theft deterrent and tech ready? Have a look at the [Code 10 - Waterproof, Lockable Backpacks](https://www.indiegogo.com/projects/code-10-waterproof-lockable-backpacks-backpack-travel#/).
+## MONKII BARS 2: A Gym You Can Take Anywhere
+[MONKII BARS 2](https://www.indiegogo.com/projects/monkii-bars-2-a-gym-you-can-take-anywhere-fitness-exercise#/) is the world's most versatile fitness device.
