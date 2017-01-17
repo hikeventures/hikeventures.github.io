@@ -17,44 +17,48 @@ Would you buy it? Do you want us to review it? Comment and follow us on [Facebok
 
 <!--more-->
 
-## ANTELOPE Sportswear: Muscle Activating Smartsuit
-Need to built up some muscles for your next outdoor adventure? [ANTELOPE Sportswear](https://www.indiegogo.com/projects/antelope-sportswear-muscle-activating-smartsuit-fitness-exercise#/) trains your muscles on the go.
+## Steadicam Volt
+Need a new camera stabilization system? Have a look at the [Steadicam Volt](https://www.kickstarter.com/projects/tiffencompany/steadicam-volt-smartphone-stabilizer-shake-free-vi/description) - a motorized system for smartphone videographers offering Bluetooth and USB connectivity to connect to an app and a battery powered gyro.
 
-## Motiv Ring
-The [Motiv Ring](http://mymotiv.com/) is a new activity and sleep tracker. This is probably the smalles tracker which even does not look like a tracker.
+## Misfit Vapor
+The [Misfit Vapor](https://misfit.com/vapor) is a new smartwatch which has GPS and storage for music onboard as well as a heart rate monitor. It is also water resistant down to 50 meters.
 
-## Garmin inReach SE+ & Explorer+
-Delorme became part of Garmin a few months ago and here are the new Garmin branded devices. The <a href="http://amzn.to/2iS4nf8 rel="nofollow">Garmin inReach Explorer+</a> and <a href="https://buy.garmin.com/en-US/US/p/561286" rel="nofollow">Garmin inReach SE+</a> keeps you connected to the world where you don't have a phone signal (we also use the old model on our trips)
+## Cisor: The Smallest Most Powerful Speaker
+The <a href="https://www.indiegogo.com/projects/cisor-the-smallest-most-powerful-speaker-bluetooth#/" rel="nofollow">Cisor speaker</a> offers 6 hours of playtime and outputs 10 Watts. It offers Bluetooth and USB-C connection.
 
-## Garmin Fenix 5
-Garmin just announced the new [Fenix 5](https://buy.garmin.com/en-US/US/p/552982) GPS watch which comes with a color display, 3-axis compass, gyroscpe, barometric altimeter, GPS and GLONASS support.
+## FlowMotion Stabilizer - The End of Shaky Videos
+With the FlowMotion ONE stabilizer you can capture smooth cinematic videos with your smartphone. The device also offers auto-follow tracking and motion time-lapse.
 
-## ChargEST: The World's Most Advanced Travel Adapter
-The [ChargEST: The World's Most Advanced Travel Adapter](https://www.indiegogo.com/projects/chargest-the-world-s-most-advanced-travel-adapter-iphone-phone#/) which can charge your iphone without using any cables.
+## EKSTER 2.0 - Ultra-slim Trackable Wallets
+The [EKSTER 2.0](https://www.indiegogo.com/projects/ekster-2-0-ultra-slim-trackable-wallets-wallet-technology#/) is an ultra-slim solar-powered trackable wallet. One click at the button gives you quick acces to your cards.
 
-## EcoReco Model R: Ultimate Personal EV for all
-The [EcoReco Model R](https://www.indiegogo.com/projects/ecoreco-model-r-ultimate-personal-ev-for-all#/) is a premium scooter which comes with connectivity, smart sensors and configurability.
+## Bluewave - Wireless HiFi headphone amplifier
+The [Bluewave](https://www.indiegogo.com/projects/bluewave-wireless-hifi-headphone-amplifier-bluetooth-headphones#/) is a 24-bit wireless HiFi headphone amplifier.
 
-## QuietOn - Active Noise Cancelling Earplugs
-The [QuietOn Earplugs](https://www.indiegogo.com/projects/quieton-active-noise-cancelling-earplugs-sleep#/) reduce noise without the use of any cables.
+## Anywhere Fridge
+The [Anywhere Fridge](https://www.indiegogo.com/projects/anywhere-fridge-solar#/) is the world's only portable freezer which is self-sustaining by charging it's batteries with a built in solar panel.
 
-## VAULTCARD - Ultimate Protection from RFID Fraud
-The [VAULTCARD](https://www.indiegogo.com/projects/vaultcard-ultimate-protection-from-rfid-fraud#/) offers pocket-sized protection against RFID fraud.
+## HALO BACK: World's 1st Smart Screen Protector
+The [HALO BACK](https://www.indiegogo.com/projects/halo-back-world-s-1st-smart-screen-protector-iphone-gadgets--2#/) is the world's first smart screen protector for iPhone which features an invisible back button to operate your smartphone with one single hand.
 
-## Muggino - The First Real Smart Mug
-The [Muggino](https://www.indiegogo.com/projects/muggino-the-first-real-smart-mug#/) is a self-powered smart vessel which can keep your beverage for hours cold or warm.
+## NIFTYX: The Wearable Charging Cable with Power Bank
+The [NIFTYX](https://www.indiegogo.com/projects/world-s-1st-leather-bracelet-cable-with-powerbank-android-charger#/) is a charging cable with an POWERBANK to be used in emergency situations.
+It can be also used as a charging cable alone too!
 
-## Omnicharge: Smart & Compact Portable Power Bank
-The [Omnicharge](https://www.indiegogo.com/projects/omnicharge-smart-compact-portable-power-bank-smartphone-powerbank#/) is the smalest power bank with AC/DC power outlet and two USB fast charging ports.
+## SOLARTAB C: The World's Quickest Solar Charger
+The [SOLARTAB C](https://www.indiegogo.com/projects/solartab-c-the-world-s-quickest-solar-charger-powerbank#/) is the world's first solar charger with USB-C. It has a 6.5W solar panel, a 9,000 mAh battery, USB-C and dual USB ports. Moreover, it is waterproof (IP67).
 
-## Airphone:Turn iPhone into a DUAL SIM Mobile Device
-The [Airphone](https://www.indiegogo.com/projects/airphone-turn-iphone-into-a-dual-sim-mobile-device-bluetooth--4#/) turns your iphone into a dual SIM phone, is a protective case and a power bank.
+## Insta360 Air 360 VR Clip On Camera
+The [Insta360 Air](https://www.indiegogo.com/projects/insta360-air-360-vr-clip-on-camera-for-smartphone#/) is a lightweight and ultra portable clip-on smartphone camera. It can 360-degree HD images and videos that can be livestreamed or shared on social media.
 
-## Sparkr - Fire & Light in One
-The [Sparkr - Fire & Light in One](https://www.indiegogo.com/projects/sparkr-fire-light-in-one-camping#/) comes with a windproof plasma ligher and a flashlight. Might be quite useful for your next outdoor adventure.
+## iStand7
+The [iStand7](https://www.indiegogo.com/projects/istand7-slim-all-in-one-case-for-iphone-7-6-plus--2#/) iStand 7 case for your iPhone 6/7 and 7/6 plus which works both as a desktop stand and an additional rechargeable 3000mAh powerbank as well as  MFi wireless charging.
 
-## GRENGINE - An evolution in portable power
-The [GRENGINE](https://www.indiegogo.com/projects/grengine-an-evolution-in-portable-power-gadget-technology--3#/) offers portable power which is completely silent, emission-free, ultra-lightweight and the only power system with interchangeable super batteries with 1200 Watt hours to keep you going.
+## SKINNERS: Revolutionary Ultraportable Footwear
+SKINNERS](https://www.indiegogo.com/projects/skinners-revolutionary-ultraportable-footwear-shoes-design#/) are the ultimate minimalistic pocket footwear.
+
+
+
 
 ## Line Dock: Thinnest and Smartest Laptop Power Bank
 Do you need a 20.000mAh laptop power bank with built-in up to 1 TB SSD and a USB-C hub? Have a look at the [Line Dock](https://www.indiegogo.com/projects/line-dock-thinnest-and-smartest-laptop-power-bank-battery--2#/).
