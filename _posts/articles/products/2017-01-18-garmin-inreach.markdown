@@ -47,8 +47,13 @@ If you are only using your device in emergency situations to send a SOS signal t
 ## Alternative without SOS features
 If you are primarily looking for a navigation device then you may also have a look at the <a href="http://amzn.to/2jxxCqo" rel="nofollow">Garmin Fenix 5X</a> which features map functionality. Garmin's new smartwatch does not have SOS features like the inReach devices but it's capable to store topo maps and display them on your wrist while on the trail.
 
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_k5JOND4l-k" frameborder="0" allowfullscreen></iframe>
 
 ---
+
+
 
 ## <a href="http://amzn.to/2jYe2kg" rel="nofollow">DeLorme inReach SE</a>
 
