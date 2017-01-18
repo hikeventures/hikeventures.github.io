@@ -49,7 +49,9 @@ If you are primarily looking for a navigation device then you may also have a lo
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_k5JOND4l-k" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_k5JOND4l-k"></iframe>
+</div>
 
 ---
 
