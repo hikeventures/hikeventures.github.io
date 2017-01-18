@@ -67,6 +67,6 @@ So what did we see from the top of the Komsa?
 Would we recommend climbing up the Komsa? Yes, definitely.
 
 ## Alternative trips
-We have also been <a href="http://www.hikeventures.com/winter-camping-alta/">winter camping and snowshoeing</a> in the neighborhood of Alta and we also went on a <a href="http://www.hikeventures.com/hammerfest-daytrip/">day trip to Hammerfest</a>.
+We have also been <a href="http://www.hikeventures.com/winter-camping-alta/">winter camping and snowshoeing</a> in the neighborhood of Alta and we also went on a <a href="http://www.hikeventures.com/hammerfest-daytrip/">day trip to Hammerfest</a>. Another highlight would be to climb up the Haldde - a nearby mountain which is about 1149m high with an Northern Lights observatory and a cabin on top of it. The hike should take about 2 hours during the snow free months. However, due to avalanche warning we decided to climb up the Haldde on our next visit to Alta.
 
 {% include store.html %}
