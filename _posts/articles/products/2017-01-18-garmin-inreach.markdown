@@ -7,9 +7,7 @@ category: article
 tags:
   - garmin
   - gps
-
 ---
-
 A few months ago Garmin has acquired DeLorme - the manufacturer of the inReach SE and inReach Explorer devices - and has recently released 2 new devices, the Garmin inReach Explorer+ and the inReach SE+.
 
 Since we own a DeLorme inReach Explorer device we were quite excited to see what the new features of the new Garmin inReach models are beside the external design of the device. We bought our inReach Explorer because we travel sometimes to places which are not covered by phone signals and it may take a few days to get out of a remote area to reach for help. Even so you have to pay for a monthly subscription fee I think it's just worth the money as safety is always our first priority when we heading into the backcountry.
