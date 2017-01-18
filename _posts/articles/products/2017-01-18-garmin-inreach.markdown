@@ -8,7 +8,7 @@ tags:
   - garmin
   - gps
 ---
-A few months ago Garmin has acquired DeLorme - the manufacturer of the inReach SE and inReach Explorer devices - and has recently released 2 new devices, the Garmin inReach Explorer+ and the inReach SE+.
+Garmin has just recently release the inReach Explorer+ and the inReach SE+ after they aquired DeLorme a few months ago. Those new devices are going to replace the DeLorme inReach SE and inReach Explorer.
 
 Since we own a DeLorme inReach Explorer device we were quite excited to see what the new features of the new Garmin inReach models are beside the external design of the device. 
 
