@@ -39,7 +39,9 @@ Below you can see Konstantin while hiking in Japan. On the back of his backpack 
 ## Worth to upgrade?
 If you are only using your device in emergency situations to send a SOS signal then I would probably not consider to ugrade to the new Garmin models. However, if you are looking for a device which you can also use as a GPS then I would probably upgrade to the new Garmin inReach Explorer+ since it comes with a topo map and has also space to store other maps as well.
 
-You may also have a look at the <a href="http://amzn.to/2jxxCqo" rel="nofollow">Garmin Fenix 5X</a> if you need a device with map functionality. Garmin's new smartwatch does not have SOS features like the inReach devices but it's capable to store maps and display them on your wrist while on the trail.
+
+## Alternative without SOS features
+If you are primarily looking for a navigation device then you may also have a look at the <a href="http://amzn.to/2jxxCqo" rel="nofollow">Garmin Fenix 5X</a> which features map functionality. Garmin's new smartwatch does not have SOS features like the inReach devices but it's capable to store topo maps and display them on your wrist while on the trail.
 
 
 ---
