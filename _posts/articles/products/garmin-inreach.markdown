@@ -23,7 +23,7 @@ Below you can see Konstantin while hiking in Japan. On the back of his backpack 
 <h2 id="list">Differences DeLorme and Garmin inReach devices</h2>
 <div class="table-responsive">
 <table class="table">
-<thead><tr><th>Feature</th><th><a href="http://amzn.to/2jYe2kg" rel="nofollow">DeLorme inReach SE</a></th><th><a href="http://amzn.to/2k3sk73" rel="nofollow">DeLorme inReach Explorer</a></th><th> <a href="http://amzn.to/2iGDVUz" rel="nofollow">Garmin inReach SE+</a></th><th><a href="http://amzn.to/2jY8030" rel="nofollow">Garmin inReach Explorer+</a></th></tr></thead><tbody>
+<thead><tr><th>Features</th><th><a href="http://amzn.to/2jYe2kg" rel="nofollow">DeLorme inReach SE</a></th><th><a href="http://amzn.to/2k3sk73" rel="nofollow">DeLorme inReach Explorer</a></th><th> <a href="http://amzn.to/2iGDVUz" rel="nofollow">Garmin inReach SE+</a></th><th><a href="http://amzn.to/2jY8030" rel="nofollow">Garmin inReach Explorer+</a></th></tr></thead><tbody>
 <tr><td>waterproof rating</td><td>IPX67</td><td>IPX67</td><td>IPX7</td><td>IPX7</td></tr>
 <tr><td>dimensions (mm)</td><td>62x26x149</td><td>63x34x148</td><td>68x47x164</td><td>68x38x164</td></tr>
 <tr><td>weight (grams)</td><td>190</td><td>190</td><td>213</td><td>213</td></tr>
