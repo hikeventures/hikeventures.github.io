@@ -8,7 +8,8 @@ tags:
   - garmin
   - gps
 published: false
-------
+---
+
 <div class="home">
 	    <div class="my-fluid-container">
 	        <div class="row">
