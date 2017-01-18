@@ -62,6 +62,9 @@ So what did we see from the top of the Komsa?
 
 ---
 
-Would we recommend climbing up the Komsa? Yes, definitely. If you happen to be in Alta this is probably one of the highlights.
+Would we recommend climbing up the Komsa? Yes, definitely.
+
+## Alternative trips
+We have also been <a href="http://www.hikeventures.com/winter-camping-alta/">winter camping and snowshoeing</a> in the neighborhood of Alta and we also went on a <a href="http://www.hikeventures.com/hammerfest-daytrip/">day trip to Hammerfest</a>.
 
 {% include store.html %}
