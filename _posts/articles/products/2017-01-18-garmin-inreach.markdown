@@ -90,6 +90,9 @@ The Garmin inReach Explorer+ is now the top of the line satellite messenger. It'
 ---
 
 ## <a href="http://amzn.to/2iGRxiH" rel="nofollow">Garmin Fenix 5X</a>
+
+The Garmin Fenix 5X does not have SOS features but it might be a great watch to take with you on your trips and to read your topo maps. 
+
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01MQX3306/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MQX3306&linkCode=as2&tag=hikeve-20&linkId=d55592a43b5ab33a94b0cfeb6aed83d0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MQX3306&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MQX3306" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <a href="http://amzn.to/2iGRxiH" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
