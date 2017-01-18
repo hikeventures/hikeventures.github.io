@@ -36,17 +36,10 @@ We decided that it would be a good decision to walk down before the snowstorm hi
 
 So what did we see from the top of the Komsa?
 
-## Airport
-From the Komsa you can see the airport and how the planes are taking off and landing.
-
-## Mountains
-You can see all the mountains around Alta.
-
-## City of Alta
-Of course you are also able to see the city of Alta.
-
-## Fjord
-The Alta Fjord which leads to the Arctic Sea.
+* Airport: From the Komsa you can see the airport and how the planes are taking off and landing.
+* Mountains: You can see all the mountains around Alta.
+* City of Alta: Of course you are also able to see the city of Alta.
+* Fjord: The Alta Fjord which leads to the Arctic Sea.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32116563352/in/dateposted-public/" title="Thule Upsling 35L"><img src="https://c1.staticflickr.com/1/395/32116563352_d0c641d313_k.jpg" width="2048" height="1152" alt="View from Komsa Alta Norway panorama"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
