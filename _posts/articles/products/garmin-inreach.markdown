@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Preview Garmin inReach Explorer+ and inReach SE+ - New Features
+title: Preview, Differences and new features - Garmin inReach Explorer+ and inReach SE+
 description: A first look on the Garmin inreach Explorer+ and inReach SE+
 date: 2017-01-18 07:30:00
 category: article
@@ -8,81 +8,61 @@ tags:
   - garmin
   - gps
 published: false
+
 ---
 
-<div class="home">
-	    <div class="my-fluid-container">
-	        <div class="row">
-	            <div class="col-sm-7 col-lg-7 col-md-7 col-xs-12 page-content-content">
-	                <div class="post-list">
-	                    {% for post in paginator.posts %}
-	                    <div class="post">
-	                        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-	                        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-	                        <div class="post-content">
-	                            {{ post.excerpt }}
-	                        </div>
-	                        <a class="post-more" href="{{ post.url | prepend: site.baseurl }}">READ MORE…</a>
-	                    </div>
-	                    {% endfor %}
-	                </div>
-	                <div class="pagination">
-	                    {% if paginator.previous_page %}
-	                    <a href="{{ paginator.previous_page_path }}" class="previous s1920">← Newer</a>
-	                    {% endif %}
-	                    {% assign min_page = paginator.page | minus: 2 %}
-	                    {% if min_page < 1 %}
-	                    {% assign min_page = 1 %}
-	                    {% endif %}
-	                    {% assign max_page = min_page | plus: 4 %}
-	                    {% if max_page > paginator.total_pages %}
-	                    {% assign max_page = paginator.total_pages %}
-	                    {% assign min_page = max_page | minus: 4 %}
-	                    {% endif %}
-	                    <div class="pagination-number">
-	                        <a href="{{ site.url }}" class="page_number first">«</a>{% for i in (min_page..max_page) %}<a href="{% if i == 1 %}{{ site.url }}{% else %}{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', i }}{% endif %}" class="page_number{% if i == paginator.page %} current{% endif %}" style="left: -{{ forloop.index }}px;">{{ i }}</a>{% endfor %}<a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', paginator.total_pages }}" class="page_number last" style="left: -6px;">»</a>
-	                    </div>
-	                    {% if paginator.next_page %}
-	                    <a href="{{ paginator.next_page_path }}" class="next s1920">Older →</a>
-	                    {% endif %}
-	                </div>
-	            </div>
-	            <div class="col-sm-1 col-lg-1 col-md-1 col-xs-12 page-content-divider"></div>
-	            <div class="col-sm-4 col-lg-4 col-md-4 col-xs-12 page-content-sidebar s1920">
-	
+A few months ago Garmin has acquired DeLorme - the manufacturer of the inReach SE and inReach Explorer devices - and has recently released 2 new devices, the Garmin inReach Explorer+ and the inReach SE+.
 
-	<center>
-	<div class="fb-page" 
-	  data-href="https://www.facebook.com/hikeventures"
-	  data-hide-cover="false"
-	  data-show-facepile="true" 
-	  data-show-posts="false"></div>
-	    
-	 </center><br>
-	                <div class="sidebar-title">
-	
+Since we own a DeLorme inReach Explorer device we were quite excited to see what the new features of the new Garmin inReach models are beside the external design of the device.
 
-	
+Below you can see Konstantin while hiking in Japan. On the back of his backpack you can see the Delorme inReach Explorer which has now been replaced with the Garmin inReach Explorer+.
 
-	                <a href="/archive/"><span class="icon"></span>RECENT POSTS</a>
-	                </div>
-	                <div class="recent-posts">
-	                {% for post in site.posts limit:5 %}
-	                    <a class="recent-post" href="{{ BASE_PATH }}{{ post.url }}">
-	                        <span class="recent-post-date">{{ post.date | date_to_string }}</span>
-	                        <span class="recent-post-title" >{{ post.title }}</span>
-	                    </a>
-	                {% endfor %}
-	                </div>
-	
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30599065514/in/photolist-NBWd11-NBWd85" title="Garmin inReach Explorer+ and SE+ differences"><img src="https://c1.staticflickr.com/6/5609/30599065514_3a9dedbf93_k.jpg" width="2048" height="1365" alt="Lundhags Makke Pants (6)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-	                <div class="sidebar-image">
-	                  <blockquote class="instagram-media" data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:37.5% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/BLAhqvRg5tb/" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A photo posted by HikeVentures (@hikeventures)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-10-01T05:15:46+00:00">Sep 30, 2016 at 10:15pm PDT</time></p></div></blockquote>
-	        <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
-	                </div>
-	
 
-	            </div>
-	        </div>
-	    </div>
-	</div>
+<h2 id="list">Differences DeLorme and Garmin inReach devices</h2>
+<div class="table-responsive">
+<table class="table">
+<thead><tr><th>Feature</th><th><a href="http://amzn.to/2jYe2kg" rel="nofollow">DeLorme inReach SE</a></th><th><a href="http://amzn.to/2k3sk73" rel="nofollow">DeLorme inReach Explorer</a></th><th> <a href="http://amzn.to/2iGDVUz" rel="nofollow">Garmin inReach SE+</a></th><th><a href="http://amzn.to/2jY8030" rel="nofollow">Garmin inReach Explorer+</a></th></tr></thead><tbody>
+<tr><td>waterproof rating</td><td>IPX67</td><td>IPX67</td><td>IPX7</td><td>IPX7</td></tr>
+<tr><td>dimensions (mm)</td><td>62x26x149</td><td>63x34x148</td><td>68x47x164</td><td>68x38x164</td></tr>
+<tr><td>weight (grams)</td><td>190</td><td>190</td><td>213</td><td>213</td></tr>
+<tr><td>preloaded map</td><td>-</td><td>-</td><td>-</td><td>yes</td></tr>
+<tr><td>digital compass</td><td>-</td><td>yes</td><td>-</td><td>yes</td></tr>
+<tr><td>barometric altimeter</td><td>-</td><td>yes</td><td>-</td><td>yes</td></tr>
+<tr><td>accelerometer</td><td>-</td><td>yes</td><td>-</td><td>yes</td></tr>
+<tr><td>memory for maps (GB)</td><td>0</td><td>0</td><td>0</td><td>2</td></tr>
+</tbody></table>
+</div>
+
+<!--more-->
+
+
+## <a href="http://amzn.to/2jYe2kg" rel="nofollow">Garmin inReach SE</a>
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00BX7TJ2O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BX7TJ2O&linkCode=as2&tag=hikeve-20&linkId=7e83df899861c080f23bc5d0f4bf0453"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00BX7TJ2O&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00BX7TJ2O" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<a href="http://amzn.to/2jYe2kg" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+
+
+---
+
+## <a href="http://amzn.to/2k3sk73" rel="nofollow">Garmin inReach Explorer</a>
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00I6EY01C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00I6EY01C&linkCode=as2&tag=hikeve-20&linkId=c69b625539460b13744d9e6145792b22"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00I6EY01C&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00I6EY01C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<a href="http://amzn.to/2k3sk73" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+
+
+---
+
+## <a href="http://amzn.to/2iGDVUz" rel="nofollow">Garmin inReach SE+</a>
+<a target="_blank"  href="https://www.amazon.com/gp/product/B01MRZ9ATL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MRZ9ATL&linkCode=as2&tag=hikeve-20&linkId=d0711dc3c9797aeb635ffa8cac1e2136"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MRZ9ATL&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MRZ9ATL" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<a href="http://amzn.to/2iGDVUz" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+
+
+---
+
+## <a href="http://amzn.to/2jY8030" rel="nofollow">Garmin inReach Explorer+</a>
+<a target="_blank"  href="https://www.amazon.com/gp/product/B01MY03CZP/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MY03CZP&linkCode=as2&tag=hikeve-20&linkId=101177f278d27d4896b67d0844a6fe4e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MY03CZP&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MY03CZP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<a href="http://amzn.to/2jY8030" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
