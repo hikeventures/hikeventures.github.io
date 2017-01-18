@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Climbing the Komsa in Alta
+title: Highlight of a visit to Alta in Norway -  the Komsa
 description: A daytrip in Alta. Climbing the Komsa in Northern Norway.
 date: 2017-01-18 20:30:00
 category: trips
@@ -8,7 +8,8 @@ tags:
   - trips
   - norway
 ---
-Today we had a short hike to the top of Komsa - which is the best lookout point in Alta. There was no official path up to the Komsa, or at least we were not able to see it since everything was covered with snow. We did not carry much with us. Just a backpack, our cameras, an additional layer of clothes and a Thermos bottle with tea.
+
+Today we had a short hike to the top of Komsa - which is the best lookout point in Alta and easy to reach. So it's probably one of the highlights when visiting Alta in Northern Norway. There was no official path up to the Komsa, or at least we were not able to see it since everything was covered with snow. We did not carry much with us. Just a backpack, our cameras, an additional layer of clothes and a Thermos bottle with tea.
 
 ---
 
