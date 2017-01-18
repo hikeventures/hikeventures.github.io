@@ -69,7 +69,7 @@ You may also have a look at the <a href="http://amzn.to/2jxxCqo" rel="nofollow">
 
 ---
 
-## <a rel=nofollow" href="http://amzn.to/2jY8030" rel="nofollow">Garmin inReach Explorer+</a>
+## <a rel="nofollow" href="http://amzn.to/2jY8030" rel="nofollow">Garmin inReach Explorer+</a>
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01MY03CZP/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MY03CZP&linkCode=as2&tag=hikeve-20&linkId=101177f278d27d4896b67d0844a6fe4e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MY03CZP&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MY03CZP" width="1" height="1" border="0" alt="Garmin inReach Explorer+" style="border:none !important; margin:0px !important;" />
 
 <a href="http://amzn.to/2jY8030" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
@@ -77,6 +77,6 @@ You may also have a look at the <a href="http://amzn.to/2jxxCqo" rel="nofollow">
 ---
 
 ## <a rel="nofollow" href="http://amzn.to/2iGRxiH" rel="nofollow">Garmin Fenix 5X</a>
-<a rel=nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01MQX3306/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MQX3306&linkCode=as2&tag=hikeve-20&linkId=d55592a43b5ab33a94b0cfeb6aed83d0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MQX3306&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MQX3306" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01MQX3306/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MQX3306&linkCode=as2&tag=hikeve-20&linkId=d55592a43b5ab33a94b0cfeb6aed83d0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MQX3306&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MQX3306" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <a href="http://amzn.to/2iGRxiH" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
