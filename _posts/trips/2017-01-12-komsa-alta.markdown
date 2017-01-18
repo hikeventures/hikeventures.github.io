@@ -1,5 +1,4 @@
 ---
-published: false
 layout: post
 title: Climbing the Komsa in Alta
 description: A daytrip in Alta. Climbing the Komsa in Northern Norway.
