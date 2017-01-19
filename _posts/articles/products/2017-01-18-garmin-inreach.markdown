@@ -10,9 +10,9 @@ tags:
 ---
 Garmin has just recently release the inReach Explorer+ and the inReach SE+ after they aquired DeLorme a few months ago. Those new devices are going to replace the DeLorme inReach SE and inReach Explorer.
 
-Since we own a DeLorme inReach Explorer device we were quite excited to see what the new features of the new Garmin inReach models are beside the external design of the device. 
+Since we own a DeLorme inReach Explorer device we were quite excited to see what the new features of the new Garmin inReach models are beside the external design of the device.
 
-We bought our inReach Explorer because we travel sometimes to places which are not covered by phone signals and it may take a few days to get out of a remote area to reach for help. 
+We bought our inReach Explorer because we travel sometimes to places which are not covered by phone signals and it may take a few days to get out of a remote area to reach for help.
 
 Even so you have to pay for a monthly subscription fee I think it's just worth the money as safety is always our first priority when we heading into the backcountry.
 
@@ -35,10 +35,10 @@ Below you can see Konstantin while hiking in Japan. On the back of his backpack 
 <tr><td>barometric altimeter</td><td>-</td><td>yes</td><td>-</td><td>yes</td></tr>
 <tr><td>accelerometer</td><td>-</td><td>yes</td><td>-</td><td>yes</td></tr>
 <tr><td>memory for maps (GB)</td><td>0</td><td>0</td><td>0</td><td>2</td></tr>
+<tr><td>waypoints</td><td>-</td><td>yes</td><td>yes</td><td>yes</td></tr>
+<tr><td>routing</td><td>-</td><td>yes</td><td>yes</td><td>yes</td></tr>
 </tbody></table>
 </div>
-
-
 
 ## Worth to upgrade?
 If you are only using your device in emergency situations to send a SOS signal then we would probably not consider to ugrade to the new Garmin models. However, if you are looking for a device which you can also use as a GPS then we would probably upgrade to the new Garmin inReach Explorer+ since it comes with a topo map and has also space to store other maps as well.
@@ -102,10 +102,8 @@ The Garmin inReach Explorer+ is now the top of the line satellite messenger. It'
 
 ## <a href="http://amzn.to/2iGRxiH" rel="nofollow">Garmin Fenix 5X</a>
 
-The Garmin Fenix 5X does not have SOS features but it might be a great watch to take with you on your trips and to read your topo maps. 
+The Garmin Fenix 5X does not have SOS features but it might be a great watch to take with you on your trips and to read your topo maps.
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01MQX3306/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MQX3306&linkCode=as2&tag=hikeve-20&linkId=d55592a43b5ab33a94b0cfeb6aed83d0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MQX3306&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MQX3306" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <a href="http://amzn.to/2iGRxiH" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
-
-
