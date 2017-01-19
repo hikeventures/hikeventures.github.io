@@ -59,7 +59,16 @@ published: true
 
  </tr>
 
+ <tr>
 
+
+           <td><a href="/thule-upsling-35l">Thule Upslope 35L</a></td>
+
+       <td></td>
+
+
+
+  </tr>
 
 
 
