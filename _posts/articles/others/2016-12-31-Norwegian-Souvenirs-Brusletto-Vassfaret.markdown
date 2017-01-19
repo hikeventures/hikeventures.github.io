@@ -1,4 +1,5 @@
 ---
+
 layout: post
 title: Norwegian Souvenirs - The Brusletto Vassfaret bushcraft knife
 description: One of our souvenirs which we got from our trip in Norway. The Brusletto Vassfaret bushcraft knife
@@ -8,6 +9,8 @@ tags:
   - norway
   - brusletto
   - souvenirs
+  published: false
+
 ---
 
 Last week we have been traveling to Norway and now you might be interested which souvenirs we got from our trip. Well, Konstantin found a scarf and a the Brusletto Vassfaret bushcraft knife.
