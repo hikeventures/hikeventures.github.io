@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Preview - Differences and new features - Garmin inReach Explorer+ and inReach SE+
+title: Garmin inReach Explorer+ and inReach SE+ - Differences, new features and preview
 description: A first look on the Garmin inreach Explorer+ and inReach SE+
 date: 2017-01-18 07:30:00
 category: article
@@ -8,9 +8,9 @@ tags:
   - garmin
   - gps
 ---
-Garmin has just recently release the inReach Explorer+ and the inReach SE+ after they aquired DeLorme a few months ago. Those new devices are going to replace the DeLorme inReach SE and inReach Explorer.
+Garmin has just recently release the inReach Explorer+ and the inReach SE+ after they aquired DeLorme a few months ago. Those new devices are going to replace the old inReach models.
 
-Since we own a DeLorme inReach Explorer device we were quite excited to see what the new features of the new Garmin inReach models are beside the external design of the device.
+Since we own the DeLorme inReach Explorer device we were quite excited to see what the new features and differences of the new Garmin inReach models are beside the external design of the device.
 
 We bought our inReach Explorer because we travel sometimes to places which are not covered by phone signals and it may take a few days to get out of a remote area to reach for help.
 
@@ -18,7 +18,7 @@ Even so you have to pay for a monthly subscription fee I think it's just worth t
 
 Below you can see Konstantin while hiking in Japan. On the back of his backpack you can see the Delorme inReach Explorer (in it's yellow case) which has now been replaced with the new Garmin inReach Explorer+.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30599065514/in/photolist-NBWd11-NBWd85" title="Garmin inReach Explorer+ and SE+ differences and new features"><img src="https://c1.staticflickr.com/6/5609/30599065514_3a9dedbf93_k.jpg" width="2048" height="1365" alt="Garmin inReach Explorer+ and SE+ differences and new features"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30599065514/in/photolist-NBWd11-NBWd85" title="Garmin inReach Explorer+ and inReach SE+ - Differences, new features and preview"><img src="https://c1.staticflickr.com/6/5609/30599065514_3a9dedbf93_k.jpg" width="2048" height="1365" alt="Garmin inReach Explorer+ and SE+ differences and new features"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <!--more-->
 
