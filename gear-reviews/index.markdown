@@ -217,23 +217,25 @@ published: true
  </tr>
       <tr>
             <td><a href="/gear-review-black-diamond-ultra-distance-z-pole">Black Diamond Ultra Distance Z-Poles</a></td>
+
+    <td><a href="http://www.hikeventures.com/Brusletto-Vassfaret/">Brusletto Vassfaret</a></td>
+
             <td><a href="http://hikeventures.com/waterproof-maps">Calazo Maps</a></td>
       </tr>
       <tr>
-
+<td><a href="http://hikeventures.com/waterproof-maps">Calazo Maps</a></td>
             <td><a href="/field-notes-expedition-and-space-pen">Field Notes Expedition and Space Pen</a></td>
-            <td><a href="/luci-r-outdoor-not-a-toy">Luci Outdoor Latern</a></td>
+
              </tr>
       <tr>
-
+<td><a href="/luci-r-outdoor-not-a-toy">Luci Outdoor Latern</a></td>
                        <td><a href="http://hikeventures.com/luminaid">luminAID</a></td>
-                       <td><a href="/petzl-attache-3d">Petzl Attache 3D</a></td>
+
 
 	</tr><tr>
-
+<td><a href="/petzl-attache-3d">Petzl Attache 3D</a></td>
 
             <td><a href="/petzl-nao-headlamp-test">Petzl Nao headlamp</a></td>
-<td></td>
         </tr>
 
 

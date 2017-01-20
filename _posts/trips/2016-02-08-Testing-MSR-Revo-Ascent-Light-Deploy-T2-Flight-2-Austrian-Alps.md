@@ -79,7 +79,7 @@ We also received MSR Snowshoe Bags from MSR, which were specially designed to ca
 
 However, if you are planning to take additional items with you on your snowshoeing trip  you should rather consider getting a bigger backpack as there are no bigger compartments on the backpack to carry additional gear (with exception of a small zipped pocket on the outside and special space for the flotation tails inside).
 
-In general, we were satisfied with the MSR snowshoeing gear and we would recommend it to anyone planning a snowshoeing trip with light but quality stuff. We will continue testing our snowshoes and poles on our future trips and share our further impressions and experiences in the update to this article.
+In general, we were satisfied with the MSR snowshoeing gear and we would recommend it to anyone planning a snowshoeing trip with light but quality stuff. We have also tested the MSR snowshoes in [Norway](http://www.hikeventures.com/winter-camping-alta/).
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24251132954/in/dateposted-public/" title="Snowshoeing in Montafon, Vorarlberg in Austria"><img src="https://farm2.staticflickr.com/1454/24251132954_5625b1c4d3_b.jpg" width="100%" alt="Snowshoeing in Montafon, Vorarlberg in Austria"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
