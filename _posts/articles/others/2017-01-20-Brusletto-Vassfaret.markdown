@@ -12,14 +12,13 @@ tags:
 
 ---
 
+This is Konstantin from HikeVentures.com. Last week we went to Norway and we got a couple of souvenirs for ourselves, like this scarf or like this bush-craft knife.
+
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/BR-ZcrNsT1k"></iframe>
 </div>
 
-
-Hi,
-
-This is Konstantin from HikeVentures.com. Last week we went to Norway and we got a couple of souvenirs for ourselves, like this scarf or like this bush-craft knife.
+<!--more-->
 
 This bush-craft knife is made by Brusletto. It's a Norwegian company that makes a lot of different knives, fire-steal and a few other items.
 
@@ -43,3 +42,20 @@ Here you can find our trip reports from Norway:
 [Day Trip to Hammerfest](http://www.hikeventures.com/hammerfest-daytrip/)   
 [Snowshoeing, Winter Camping and Huskies](http://www.hikeventures.com/winter-camping-alta/)   
 [Alta](http://www.hikeventures.com/komsa-alta/)   
+
+---
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Shop Related Products";
+amzn_assoc_default_search_phrase = "brusletto";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "1fc9a521903dad43fa4758b0d7bc91ee";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
