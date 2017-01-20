@@ -16,6 +16,7 @@ tags:
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/BR-ZcrNsT1k"></iframe>
 </div>
 
+   
 HI,
 
 This is Konstantin from HikeVentures.com. Last week we went to Norway and we got a couple of souvenirs for ourselves, like this scarf or like this bush-craft knife.
@@ -38,7 +39,7 @@ It lies very nicely in my hand and it is very sharp.
 
 ---
 
-Here you can find our trip reports from Norway:
-[Day Trip to Hammerfest](http://www.hikeventures.com/hammerfest-daytrip/)
-[Snowshoeing, Winter Camping and Huskies](http://www.hikeventures.com/winter-camping-alta/)
-[Alta](http://www.hikeventures.com/komsa-alta/)
+Here you can find our trip reports from Norway:   
+[Day Trip to Hammerfest](http://www.hikeventures.com/hammerfest-daytrip/)   
+[Snowshoeing, Winter Camping and Huskies](http://www.hikeventures.com/winter-camping-alta/)   
+[Alta](http://www.hikeventures.com/komsa-alta/)   
