@@ -17,7 +17,7 @@ This is Konstantin from HikeVentures.com. Last week we went to Norway and we got
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/BR-ZcrNsT1k"></iframe>
 </div>
-
+<br>
 <!--more-->
 
 This bush-craft knife is made by Brusletto. It's a Norwegian company that makes a lot of different knives, fire-steal and a few other items.
