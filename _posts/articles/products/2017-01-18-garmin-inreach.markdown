@@ -8,7 +8,7 @@ tags:
   - garmin
   - gps
 ---
-Garmin has just recently release the inReach Explorer+ and the inReach SE+ after they aquired DeLorme a few months ago. Those new devices are going to replace the old inReach models.
+Garmin has just recently release the inReach Explorer+ and the inReach SE+ after they acquired DeLorme a few months ago. Those new devices are going to replace the old inReach models.
 
 Since we own the DeLorme inReach Explorer device we were quite excited to see what the new features and differences of the new Garmin inReach models are beside the external design of the device.
 
