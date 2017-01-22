@@ -48,7 +48,9 @@ As I have recently upgraded my own camera, I was in need of a new camera case wh
         <tr>
           <td><a href="http://amzn.to/29YPNOV" target="_blank" rel="nofollow">Lowepro Nova Sport 7L AW Camera Bag</a></td><td>500g</td>
         </tr>
-
+        <tr>
+          <td><a href="http://amzn.to/2j0FSLB" target="_blank" rel="nofollow">Thule Aspect DSLR/ILC Shoulder Bag</a></td><td>550g</td>
+        </tr>
         <tr>
           <td><a href="http://amzn.to/29vFJkX" target="_blank" rel="nofollow">ONA The Bowery Camera Bag</a></td><td>635g</td>
         </tr>
@@ -60,6 +62,9 @@ As I have recently upgraded my own camera, I was in need of a new camera case wh
         <tr>
           <td><a href="http://amzn.to/2e3bJv1" target="_blank" rel="nofollow">Pelican 1200 Case</a></td><td>1305g</td>
         </tr>
+
+
+
         </tbody>
       </table>
 </div>
@@ -71,6 +76,21 @@ As I have recently upgraded my own camera, I was in need of a new camera case wh
 ## Best camera bags for hiking and backpacking
 
 When I plan to go hiking or backpacking I would like to have a camera bag where I can easily access my camera. My camera bag should also be water resistant or waterproof if I don't have space to carry my camera in my backpack in case the weather turns bad. Here are the camera bags and cases which I would consider for my next hiking or backpacking trip.
+
+<hr>
+
+<h3><a href="http://amzn.to/2j0FSLB" target="_blank" rel="nofollow">Thule Aspect DSLR/ILC Shoulder Bag</a></h3>
+
+<a target="_blank"  href="https://www.amazon.com/gp/product/B01JUPAE60/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01JUPAE60&linkCode=as2&tag=hikeve-20&linkId=6db8a92fe9a5e400990059c265d0f642"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01JUPAE60&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01JUPAE60" width="1" height="1" border="0" alt="Thule Aspect DSLR/ILC Shoulder Bag" style="border:none !important; margin:0px !important;" />
+
+Weight:*  550 grams    
+*Dimenstions:* 10.2 x 5.5 x 10.6 inches    
+
+Thule Aspect DSLR/ILC Shoulder Bag offers space for a mirrorless camera, one lens and accessories. There are also side mesh pockets to store a small tripod or a water bottle.
+There is a front-folding lid to access gear quickly and smaller items can be organized there as well. A padded shoulder strap makes this camera bag comfortable to carry.
+
+<a href="http://amzn.to/2j0FSLB" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+
 
 <hr>
 
