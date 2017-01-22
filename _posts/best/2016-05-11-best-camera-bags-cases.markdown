@@ -83,7 +83,7 @@ When I plan to go hiking or backpacking I would like to have a camera bag where 
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01JUPAE60/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01JUPAE60&linkCode=as2&tag=hikeve-20&linkId=6db8a92fe9a5e400990059c265d0f642"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01JUPAE60&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01JUPAE60" width="1" height="1" border="0" alt="Thule Aspect DSLR/ILC Shoulder Bag" style="border:none !important; margin:0px !important;" />
 
-Weight:*  550 grams    
+*Weight:*  550 grams    
 *Dimenstions:* 10.2 x 5.5 x 10.6 inches    
 
 Thule Aspect DSLR/ILC Shoulder Bag offers space for a mirrorless camera, one lens and accessories. There are also side mesh pockets to store a small tripod or a water bottle.
