@@ -23,22 +23,22 @@ A satellite messenger, GPS Tracker or a Personal Locator Beacon should be with y
 <table class="table table-hover table-bordered list_items">
         <thead>
              <tr>
-                <th>GPS Messenger</th><th>Weight</th>
+                <th>GPS Messenger</th><th>Weight</th><th>Map Storing</th>
              </tr>
         </thead>
 
         <tbody>
         <tr>
-          <td><a href="http://amzn.to/2eTKIN3" target="_blank" rel="nofollow">SPOT Gen3</a></td><td>114g</td>
+          <td><a href="http://amzn.to/2eTKIN3" target="_blank" rel="nofollow">SPOT Gen3</a></td><td>114g</td><td>no</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2e39b0g" target="_blank" rel="nofollow">ACR ResQlink+</a></td><td>153g</td>
+          <td><a href="http://amzn.to/2e39b0g" target="_blank" rel="nofollow">ACR ResQlink+</a></td><td>153g</td><td>no</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2e39EPT" target="_blank" rel="nofollow">DeLorme InReach SE</a></td><td>190g</td>
+          <td><a href="http://amzn.to/2iZEbOB" target="_blank" rel="nofollow">Garmin InReach SE+</a></td><td>190g</td><td>no</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2jM4Pet" target="_blank" rel="nofollow">Garmin InReach Explorer+</a></td><td>213g</td>
+          <td><a href="http://amzn.to/2jM4Pet" target="_blank" rel="nofollow">Garmin InReach Explorer+</a></td><td>213g</td><td>yes</td>
         </tr>
       </tbody>
       </table>
@@ -83,11 +83,11 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 
 ---
 
-<h3><a href="http://amzn.to/2e39EPT" target="_blank" rel="nofollow">DeLorme InReach SE</a></h3>
+<h3><a href="http://amzn.to/2iZEbOB" target="_blank" rel="nofollow">Garmin InReach SE+</a></h3>
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00BX7TJ2O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BX7TJ2O&linkCode=as2&tag=hikeve-20&linkId=7W7RNFRH662YDNGV"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BX7TJ2O&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00BX7TJ2O" width="1" height="1" border="0" alt="DeLorme InReach SE" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.com/gp/product/B01MRZ9ATL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MRZ9ATL&linkCode=as2&tag=hikeve-20&linkId=b476ff75bac114c9118e143e7eb13ba6"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MRZ9ATL&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" alt="Garmin InReach SE+" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MRZ9ATL" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-* Weight: 190 grams
+* Weight: 213 grams
 * Messages can also be sent with the phone by using the Earthmate app.
 * Subscription needed
 * Route tracking
@@ -99,21 +99,20 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 * Access to Downloadable Topographic Maps
 * Pair with mobile devices
 * Message size: 160 characters
+* Waypoints
 
-<a href="http://amzn.to/2e39EPT" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2iZEbOB" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
 <h3><a href="http://amzn.to/2jM4Pet" target="_blank" rel="nofollow">Garmin InReach Explorer+</a></h3>
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/B01MY03CZP/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MY03CZP&linkCode=as2&tag=hikeve-20&linkId=55130c05ea4d4b808d670e49cd56e51d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MY03CZP&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MY03CZP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.com/gp/product/B01MY03CZP/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MY03CZP&linkCode=as2&tag=hikeve-20&linkId=55130c05ea4d4b808d670e49cd56e51d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MY03CZP&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" alt="Garmin InReach Explorer+"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MY03CZP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-* Same features as DeLorme InReach SE and in additional:
+* Same features as Garmin InReach SE+ and in additional:
 * Digital Compass with barometric altimeter and accelerometer
 * Preloaded DeLorme TOPO maps with onscreen GPS routing plus
-* Key Trip Statistics
-* Detailed Track Logging
-* Pair with mobile devices using the free Earthmate app
+* 2GB storage for maps
 * weight: 213 grams
 
 <a href="http://amzn.to/2jM4Pet" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
@@ -122,7 +121,7 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 
 <h3><a href="http://amzn.to/2eTKIN3" target="_blank" rel="nofollow">SPOT Gen3</button></a></h3>
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01FHO5AF8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01FHO5AF8&linkCode=as2&tag=hikeve-20&linkId=7996c1250dd46ac08ae20d6dc725d36d"><img rel="nofollow" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01FHO5AF8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01FHO5AF8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01FHO5AF8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01FHO5AF8&linkCode=as2&tag=hikeve-20&linkId=7996c1250dd46ac08ae20d6dc725d36d"><img rel="nofollow" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01FHO5AF8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" alt="SPOT Gen3"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01FHO5AF8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
 * Check-in function: pre-programmed text message or email with GPS coordinates to up to 10 contacts
@@ -138,7 +137,7 @@ There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR.
 
 <h3><a href="http://amzn.to/2e39b0g" target="_blank" rel="nofollow">ACR ResQlink+ 406</a></h3>
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B0083KHR3W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0083KHR3W&linkCode=as2&tag=hikeve-20&linkId=JA77DOCMUQDNHR6Q"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0083KHR3W&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0083KHR3W" width="1" height="1" border="0" alt="ACR ResQlink+ 406" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B0083KHR3W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0083KHR3W&linkCode=as2&tag=hikeve-20&linkId=JA77DOCMUQDNHR6Q"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0083KHR3W&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" alt="ACR ResQlink+ 406"></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0083KHR3W" width="1" height="1" border="0" alt="ACR ResQlink+ 406" style="border:none !important; margin:0px !important;" />
 
 * Buoyant Personal Locator Beacon which is also suitable for paddlers
 * No subscription fee
