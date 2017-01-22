@@ -79,7 +79,15 @@ amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
 
 ---
 
-There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR. Currently, I am testing the InReach Explorer which works so far quite well. Fortunately, I was not in need to make an emergency call yet. While it's possible to send text messages with the devices from DeLorme and SPOT you may use ACR only to send a rescue signal (also called Personal Locator Beacon). The main advantage of the ACR is that you don't have to pay a subscription fee to use the GPS network. If messaging is not important for you, then you should go for the ACR ResQlink+ 406. The ACR device is also quite interesting for paddlers since it is able to float. Alternatively, you will see from the specifications below that the DeLorme devices have slightly more weight but come with more functionalities than the SPOT devices.
+There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR. Currently, I am testing the InReach Explorer which works so far quite well.
+
+Fortunately, I was not in need to make an emergency call yet. While it's possible to send text messages with the devices from DeLorme and SPOT you may use ACR only to send a rescue signal (also called Personal Locator Beacon).
+
+The main advantage of the ACR is that you don't have to pay a subscription fee to use the GPS network.
+
+If messaging is not important for you, then you should go for the ACR ResQlink+ 406. The ACR device is also quite interesting for paddlers since it is able to float.
+
+Alternatively, you will see from the specifications below that the DeLorme devices have slightly more weight but come with more functionalities than the SPOT devices.
 
 ---
 
