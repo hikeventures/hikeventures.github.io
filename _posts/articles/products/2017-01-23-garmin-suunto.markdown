@@ -11,9 +11,9 @@ tags:
 ---
 Currently, there are two interesting GPS watches on the market which I would find quite useful for hiking, backpacking or mountaineering - the Suunto Spartan Sport and the Garmin Fenix 5X.
 
-Both are currently the latest models from both manufacturers and their built in GPS feature, color display and battery life make them an attractive alternative compared to a smartphone with a GPS app - at least if you are frequently tracking your GPS or if you plan to go on remote backcountry trips.
+Both watches are currently the latest models from both manufacturers and their built in GPS feature, color display and battery life make them an attractive alternative compared to a smartphone with a GPS app - at least if you are frequently tracking your GPS or if you plan to go on remote backcountry trips.
 
-In the past I have always used my Suunto Traverse to log my GPS data (see picture below on a trip in Finnish Lapland).
+In the past I have always used my Suunto Traverse to log my GPS data (see picture below on a [trip in Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/)).
 
 However, there are certain features on the new watches which I found more appealing than on the Suunto Traverse - and in particular I would prefer to have the Garmin Fenix 5X over the Suunto Spartan.
 
