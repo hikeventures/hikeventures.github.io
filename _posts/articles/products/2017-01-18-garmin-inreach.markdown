@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Garmin inReach Explorer+ and inReach SE+ - Differences, new features and preview
-description: A first look on the Garmin inReach Explorer+ and inReach SE+
+title: Garmin inReach Explorer+ and SE+ - Differences, new features and preview
+description: A first look on the Garmin inReach Explorer+ and SE+
 date: 2017-01-18 07:30:00
 category: article
 tags:
@@ -23,7 +23,7 @@ Below you can see Konstantin while hiking in Japan. On the back of his backpack 
 <!--more-->
 
 
-<h2 id="list">Differences DeLorme and Garmin inReach devices</h2>
+<h2 id="list">Differences DeLorme and Garmin inReach Explorer+ and SE+</h2>
 <div class="table-responsive">
 <table class="table">
 <thead><tr><th>Features</th><th><a href="http://amzn.to/2jYe2kg" rel="nofollow">DeLorme inReach SE</a></th><th><a href="http://amzn.to/2k3sk73" rel="nofollow">DeLorme inReach Explorer</a></th><th> <a href="http://amzn.to/2iGDVUz" rel="nofollow">Garmin inReach SE+</a></th><th><a href="http://amzn.to/2jY8030" rel="nofollow">Garmin inReach Explorer+</a></th></tr></thead><tbody>
@@ -46,6 +46,9 @@ If you are only using your device in emergency situations to send a SOS signal t
 
 ## Alternative without SOS features
 If you are primarily looking for a navigation device then you may also have a look at the <a href="http://amzn.to/2jxxCqo" rel="nofollow">Garmin Fenix 5X</a> which features map functionality. Garmin's new smartwatch does not have SOS features like the inReach devices but it's capable to store topo maps and display them on your wrist while on the trail.
+
+## Final thoughts
+We always use a phone and a mpa to navigate in the backcountry. However, having a GPS messenger like the Garmin SE+ or Explorer+ can be quite important. For example we always have issues with our iPhone if we camp in colder areas and we need to connect them to an external battery or keep the phone warm to function properly. Then there is also the possibility that your phone brakes on the trail. Either you drop it or it gets wet. The Garmin devices can probably handle more impact than a cell phone.Unfortunately, there are monthly subscription fees to pay when using the satellite service, however being able to use the map features of the Explorer+ without subscription makes it also a great device to have on the trail when hiking in more civilized areas.
 
 ---
 
