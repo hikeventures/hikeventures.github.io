@@ -60,9 +60,9 @@ Personally, I don't care that much about the touch screen. However, the color di
 
 Moreover, the Fenix 5X also has a hear rate monitor built into the back of the watch so you can meassure your hear beat without wearing a heart strap around your chest.
 
-Suunto has already announced to release a similar model in a few weeks which will be called Suunto Spartan Sport HR.
+Suunto has already announced to release a similar model in a few weeks which is going to be called Suunto Spartan Sport HR.
 
-However, it will still miss the map feature which I like on the Garmin Fenix 5. However, the Suunto Spartan has a slightly better screen resolution.
+However, it will still miss the map feature which I like on the Garmin Fenix 5X. However, the Suunto Spartan has a slightly better screen resolution.
 
 Would this change my purchase desition? No. I still prefer the watch which can upload topo maps - the Garmin Fenix 5X.
 
