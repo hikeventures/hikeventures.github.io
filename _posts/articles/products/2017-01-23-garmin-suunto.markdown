@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Garmin Fenix 5X or Suunto Spartan Ultra - Differences, Features and why to upgrade
+title: Garmin Fenix 5X or Suunto Spartan Sport - Differences, Features and why to upgrade
 description: Differences and features of the Garmin Fenix 5X and the Suunto Spartan Ultra
 date: 2017-01-23 07:30:00
 category: article
