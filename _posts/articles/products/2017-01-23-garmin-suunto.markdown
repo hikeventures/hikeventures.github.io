@@ -1,7 +1,6 @@
 ---
-published: false
 layout: post
-title: Garmin Fenix 5X or Suunto Spartan Ultra - Differences and Features
+title: Garmin Fenix 5X or Suunto Spartan Ultra - Differences, Features and why to upgrade
 description: Differences and features of the Garmin Fenix 5X and the Suunto Spartan Ultra
 date: 2017-01-23 07:30:00
 category: article
@@ -34,3 +33,37 @@ In the past I have always used my Suunto Traverse to log my GPS data (see pictur
  <tr><td>screen resolution</td><td>300 x 300</td><td>240 x 240</td></tr>
 </tbody></table>
 </div>
+
+<!--more-->
+
+## Reasons for upgrading
+When you own an old Suunto watch like the Traverse or a Garmin Fenix 3 then you are probably asking yourself if you should upgrade to the Spartan or Fenix watch.
+
+The only reason why I would upgrade is the map feature of the new Garmin Fenix 5X. I think it's really cool to have a map on your wrist.
+
+However, others might find the color screen or the touch screen of the Spartan more interesting.
+
+Personally, I don't care that much about the touch screen. However, the color display in combination of the map is a really cool feature.
+
+Moreover, the Fenix 5X also has a hear rate monitor built into the back of the watch so you can meassure your hear beat without wearing a heart strap around your chest.
+
+Suunto has already announced to release a similar model in a few weeks which will be called Suunto Spartan Sport HR.
+
+However, it will still miss the map feature which I like on the Garmin Fenix 5. However, the Suunto Spartan has a slightly better screen resolution.
+
+Would this change my purchase desition? No. I still prefer the watch which can upload topo maps - the Garmin Fenix 5X.
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Shop Related Products";
+amzn_assoc_default_search_phrase = "garmin fenix 5x";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "d9f5cf2a41718e1d099e26edea215486";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
