@@ -29,7 +29,7 @@ Below I have summarized the main characteristics of both watches which were impo
 <h2 id="list">Differences Suunto Spartan Sport and Garmin Fenix 5X</h2>
 <div class="table-responsive">
 <table class="table">
-<thead><tr class="tableizer-firstrow"><th>Feature</th><th>Suunto Spartan Sport</th><th>Garmin Fenix 5X</th></tr></thead><tbody>
+<thead><tr class="tableizer-firstrow"><th>Feature</th><th><a rel="nofollow"href="http://amzn.to/2kiZkEC">Suunto Spartan Sport</a></th><th><a href="http://amzn.to/2jQ2bYn" rel="nofollow">Garmin Fenix 5X</a></th></tr></thead><tbody>
  <tr><td>waterproof</td><td>100m</td><td>100m</td></tr>
  <tr><td>battery</td><td>16h</td><td>20h</td></tr>
  <tr><td>touchscreen</td><td>yes</td><td>no</td></tr>
@@ -43,9 +43,9 @@ Below I have summarized the main characteristics of both watches which were impo
  <tr><td>screen resolution</td><td>300 x 300</td><td>240 x 240</td></tr>
  <tr>
  <td></td>
-<td><a target="_blank"  href="https://www.amazon.com/gp/product/B01I06IJIK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01I06IJIK&linkCode=as2&tag=hikeve-20&linkId=25f32b8a3afd8831a135bd0979163530"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01I06IJIK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01I06IJIK" width="1" height="1" border="0" alt="Suunto Spartan Sport" style="border:none !important; margin:0px !important;" /></td>
+<td><a target="_blank" rel="nofollow" href="https://www.amazon.com/gp/product/B01I06IJIK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01I06IJIK&linkCode=as2&tag=hikeve-20&linkId=25f32b8a3afd8831a135bd0979163530"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01I06IJIK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01I06IJIK" width="1" height="1" border="0" alt="Suunto Spartan Sport" style="border:none !important; margin:0px !important;" /></td>
 <td>
-<a target="_blank"  href="https://www.amazon.com/gp/product/B01MQX3306/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MQX3306&linkCode=as2&tag=hikeve-20&linkId=c573bb0b72e6366ccd6881fe6b32b747"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MQX3306&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MQX3306" width="1" height="1" border="0" alt="Garmin Fenix 5X" style="border:none !important; margin:0px !important;" />
+<a target="_blank" rel="nofollow"  href="https://www.amazon.com/gp/product/B01MQX3306/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MQX3306&linkCode=as2&tag=hikeve-20&linkId=c573bb0b72e6366ccd6881fe6b32b747"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MQX3306&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MQX3306" width="1" height="1" border="0" alt="Garmin Fenix 5X" style="border:none !important; margin:0px !important;" />
 </td></tr>
 </tbody></table>
 </div>
