@@ -18,7 +18,7 @@ GPS watches like the Suunto Ambit2 or Suunto Ambit3 are quite interesting gadget
 {% include banner_ad.html %}
 
 
-Suunto recently released the <a href="http://amzn.to/2eAj31a" rel="nofollow" target="_blank">Suunto Spartan</a> - a GPS watch with color display and touch screen. Then there is also the new <a href="http://amzn.to/2ekkYbG" rel="nofollow" target="_blank">Apple Watch Series 2</a> which however does not have such a long battery life. I use my Suunto Ambit3 mainly for running, packrafting and hiking and upgraded from the Suunto Ambit2 to the Suunto Ambit3 Sport.
+Suunto recently released the <a href="http://amzn.to/2eAj31a" rel="nofollow" target="_blank">Suunto Spartan</a> - a GPS watch with color display and touch screen. Then there is also the new <a href="http://amzn.to/2ekkYbG" rel="nofollow" target="_blank">Apple Watch Series 2</a> which however does not have such a long battery life. I use my Suunto Ambit3 mainly for running, packrafting and hiking and upgraded from the Suunto Ambit2 to the Suunto Ambit3 Sport. (Update 26.01.2017: Garmin has released the [Fenix 5X](http://amzn.to/2jse5Ht) which I would currently buy as my favorite outdoor watch since it also offers the possibility to upload topo maps)
 
 **Update:** I have <a href="http://www.hikeventures.com/Suunto-Traverse-Ambit3-differences/">upgraded</a> my Suunto Ambit 3 to the Suunto Traverse. If you need a multisport watch then you should rather consider the Suunto Ambit3 Vertical or the Suunto Spartan rather than the Suunto Traverse.
 
@@ -54,7 +54,7 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Amazon Search Results";
-amzn_assoc_default_search_phrase = "Suunto Ambit3 Vertical";
+amzn_assoc_default_search_phrase = "Garmin Fenix 5X";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "edb1d00e614ad3a35eb0a5421405645c";
 </script>
@@ -150,7 +150,9 @@ The Suunto watches also work great together with an e.g. iPhone which can be use
 
 **Update (19.04.2016):** Suunto has released the <a href="http://amzn.to/2eWKIwI" rel="nofollow" target="_blank">Traverse Alpha</a> which adds features for hunting and fishing to the regular Traverse. It's also a bit more expensive than the regular Traverse.
 
-**Update (7.6.2016):** Suunto has released the <a href="http://amzn.to/2edjBKs" rel="nofollow" target="_blank">Suunto Spartan</a> - A premium multisport watch with color display.
+**Update (7.6.2016):** Suunto has released the <a href="http://amzn.to/2edjBKs" rel="nofollow" target="_blank">Suunto Spartan Ultra</a> - A premium multisport watch with color display.
+
+**Update (26.1.2016)** Garmin has released the <a href="http://amzn.to/2jse5Ht" rel="nofollow" target="_blank">Fenix 5X</a> which has the HR monitor on the wrist and is able to upload topo maps.
 
 ---
 
