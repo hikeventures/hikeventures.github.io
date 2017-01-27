@@ -11,6 +11,7 @@ layout: post
 ---
 
 In the middle of January this year I got my new iPhone 6, put it in the Thule Atmos X3 case and has hardly taken it out of it again and here comes a short review. Thus paired, this happy couple has hardly ever left my side for the last four months – from the white emptiness of Finnish Lapland to the meandering rivers in the Belgian Ardennes they have showed me the way and helped me to document all my hiking and packrafting adventures. And here is why.
+{% include disclaimer.html %}
 
 <a href="https://www.flickr.com/photos/90204224@N07/17801901680"><img src="https://c4.staticflickr.com/8/7684/17801901680_2b6055e8d4_o.jpg" width="100%" alt="Thule Atmos X3"></a><!--more-->
 
@@ -34,7 +35,7 @@ But having visited the shop and having held the phone in my own hands, I was a b
 
 <a href="https://www.flickr.com/photos/90204224@N07/17986363002"><img src="https://c2.staticflickr.com/6/5463/17986363002_90900fe38b_o.jpg" width="100%" alt="Thule Atmos X3 phone case"></a>
 
-This ‘solidity’ of the old phone did not just feel right, but also served a very practical purpose – when paddling or hiking I cannot always have optimal conditions for taking pictures which makes a good grip essential. It is especially necessary when packrafting or kayaking as dropping your phone does not merely mean a broken screen or some scratches (I have a good insurance plan covering that). What it means that there is a very big chance that you will have to say your phone and all the pictures on it ‘goodbye’.  
+This ‘solidity’ of the old phone did not just feel right, but also served a very practical purpose – when paddling or hiking I cannot always have optimal conditions for taking pictures which makes a good grip essential. It is especially necessary when packrafting or kayaking as dropping your phone does not merely mean a broken screen or some scratches (I have a good insurance plan covering that). What it means that there is a very big chance that you will have to say your phone and all the pictures on it ‘goodbye’.
 
 <a href="https://www.flickr.com/photos/90204224@N07/17801901560"><img src="https://c4.staticflickr.com/8/7724/17801901560_ee3b36d017_o.jpg" width="100%" alt="Thule Atmos X3 iPhone case"></a>
 
@@ -65,8 +66,6 @@ This all may change very soon as I have heard that Thule is planning to release 
 My verdict – even though Thule Atmos X3 has its limitations (especially when dealing with it on the water - check the the new Thule X5 if you need a waterproof solution), it is definitely something that I would recommend. Eventually it was one of the main reasons why I made up my mind to upgrade to iPhone 6.
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Thule-Atmos-X3-iPhone-6_10281413_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Thule Atmos X3</button></a>
-
-{% include disclaimer.html %}
 
 ---
 

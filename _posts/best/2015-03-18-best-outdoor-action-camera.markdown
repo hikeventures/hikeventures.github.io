@@ -10,7 +10,7 @@ layout: post
 ---
 
 
-For our packrafting adventures I am always looking for the latest action camera developments for 2016 / 2017. Obviously, there are two models which are currently hot on the market - the GoPro Hero 4 and the Sony FDR-X1000V. Now the questions evolved which of those two action cameras should be a replacement for our old GoPro Hero 3+. Here is our <a href="#list">camera comparison table</a>.
+For our packrafting adventures I am always looking for the latest action camera developments for 2016 / 2017. Obviously, there are two models which are currently hot on the market - the GoPro Hero 4 and the Sony FDR-X1000V. Now the questions evolved which of those two action cameras should be a replacement for our old GoPro Hero 3+. Here is our <a href="#list">camera comparison table</a>. {% include disclaimer.html %}
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26814282730/in/photolist-Hfnf6V-GGyd2S-HaFrBx-GRud4u-Gc8Weq-H4Gdkb-H4qMZ7-GbSzpE-HnoEX7-GaxJVX-MoRbuk-dKWT8w-Hfnf2g-Hfnf7B-HhQ8Uu-HdLXe5-GWJQkS-GAWXsf-dXZ33V" title="Best Outdoor Action Camera for 2016 - 2017"><img src="https://c3.staticflickr.com/8/7270/26814282730_defc74acac_b.jpg" width="1024" height="680" alt="Best Outdoor Action Camera for 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -29,7 +29,7 @@ To answer the question I am just going to compare the specifications of the came
 |  4K Video |yes     | yes  |
 | Wi-Fi  |  yes (& bluetooth) | yes  |
 | Image Stabilization  | no  | yes  |
-|  GPS | no  | yes  |  
+|  GPS | no  | yes  |
 | Picture Resolution  | 12 MP  | 8.8 MP  |
 | Microphone Input  | Adapter needed for Stereo | Stereo Minijack  |
 | Internal Microphone | Mono | Stereo |
@@ -70,6 +70,6 @@ amzn_assoc_linkid = "9a725873569a009ac5497b65cc30560e";
 
 ---
 
-Disclosure: We have not tested the products in this blog post. This blog post contains affiliate links.
+Disclosure: We have not tested the products in this blog post.
 
 ---

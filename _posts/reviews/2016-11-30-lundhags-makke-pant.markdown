@@ -11,7 +11,7 @@ tags:
   - pants
 ---
 
-Last year we were in need to find new hiking pants for our trips so we was looking for pants which would be suitable to wear in the mountains but also while packrafting. We were talking to a Lundhags representative and he suggested me to try the Lundhags Makke pants. We did and here is what we think about them.
+Last year we were in need to find new hiking pants for our trips so we was looking for pants which would be suitable to wear in the mountains but also while packrafting. We were talking to a Lundhags representative and he provided us with the Lundhags Makke pants for testing. {% include disclaimer.html %}
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30599065104/in/dateposted-public/" title="Lundhags Makke Pant Review"><img src="https://c1.staticflickr.com/6/5451/30599065104_03b5936f16_k.jpg" width="2048" height="1365" alt="Lundhags Makke Pants (7)"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -53,8 +53,6 @@ So what is the Lundhags Makke Pant made of? The pants consists of LPC (Lundhags 
 Currently, the Lundhags Makke are our favorite pants. We like that they are stretchy and that they also dry reasonably fast since they are not made solely of cotton. The vent zippers on the inner thighs are great and the zippers on the pockets will make sure that you don’t lose anything stored in your pockets.  Those pants also work quite well if you are planning to wear them with [shell boots](http://www.hikeventures.com/Lundhags-Jaure-Light/).
 
 <a href="http://amzn.to/2gSJuic" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
-
-Disclosure: We received the Lundhags Makke Pant for a discounted price from Lundhags.
 
 ---
 

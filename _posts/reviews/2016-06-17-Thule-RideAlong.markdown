@@ -33,7 +33,7 @@ Detachable, water-repellent padding is machine washable and reversible, offering
 Built-in reflector and safety light attachment point provides added visibility.
 Lockable with Thule One-Key System (lock included).
 Designed and tested for children from 9 months* to 6 years old, up to 48.5 lbs/22 kg.*Consult a pediatrician for children under 1 year old.
-Meets international safety standards.
+Meets international safety standards. {% include disclaimer.html %}
 
 
 ---

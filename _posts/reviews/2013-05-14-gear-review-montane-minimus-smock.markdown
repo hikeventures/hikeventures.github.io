@@ -10,7 +10,7 @@ tags:
 layout: post
 ---
 
-For my hiking and packrafting adventures in summer and autumn, I was looking for a rain shell which is super light and still breathes quite well. After comparing some smocks and jackets I decided to give the Montane Minimus Smock a try. This is probably one of the lightest rain jacket which you can buy for your hiking or backpacking trips and here comes a short review.
+For my hiking and packrafting adventures in summer and autumn, I was looking for a rain shell which is super light and still breathes quite well. After comparing some smocks and jackets I decided to give the Montane Minimus Smock a try. This is probably one of the lightest rain jacket which you can buy for your hiking or backpacking trips and here comes a short review. {% include disclaimer.html %}
 
 <a href="https://www.flickr.com/photos/90204224@N07/8738822666" title="Montane Minimus Smock unboxing"><img src="https://farm8.staticflickr.com/7288/8738822666_4067f044d0_b.jpg" width="600" alt="Montane Minimus Smock"></a>
 
@@ -51,8 +51,6 @@ Jacket inside out with the mesh front bag.
 I have tested the Montane Minimus Smock <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self"> on my trip to Sarek National Park</a> in Sweden. If you are looking for a waterproof and lightweight jacket then you should give the Montane Minimus Smock a try. Personally, I would recommend the <a href="http://amzn.to/1lBVJ4S">Montane Minimus Jacket</a> over Montane Minimus Smock. It's just much easier to put-on/off the jacket. If you want something more durable then I can also recommend the [Arcteryx Tecto FL jacket](http://hikeventures.com/arcteryx-tecto-fl-jacket/).
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Montane-Men-s-Minimus-Smock-Jacket_10224676_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Montane Minimus Smock</button></a>
-
-{% include disclaimer.html %}
 
 ---
 

@@ -10,7 +10,7 @@ tags:
 layout: post
 ---
 
-For my hiking & packrafting trips I was looking for a tool which is light and packs small and I came across the Leatherman Style CS 2. Here comes a short review.
+For my hiking & packrafting trips I was looking for a tool which is light and packs small and I came across the Leatherman Style CS 2. Here comes a short review. {% include disclaimer.html %}
 
 <a href="https://www.flickr.com/photos/90204224@N07/13711116474/"><img src="https://farm4.staticflickr.com/3704/13711116474_6cde7a3b97_b.jpg" width="600" alt="Leatherman Style CS"></a>
 

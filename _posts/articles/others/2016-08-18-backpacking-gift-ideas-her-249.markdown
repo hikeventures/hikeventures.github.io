@@ -9,7 +9,7 @@ tags:
   - gifts
   - gadgets
 ---
-Here is a selecetion of camping, hiking and backpacking gift ideas for women. We have asked a view women what they would like to buy and here is the result. This blog post contains affiliate links.
+Here is a selecetion of camping, hiking and backpacking gift ideas for women. We have asked a view women what they would like to buy and here is the result. {% include disclaimer.html %}
 
 <img src="https://farm4.staticflickr.com/3934/15515022052_94a162682e_b.jpg" width="1024" height="683" alt="Autumn Forrest Finland">
 
@@ -23,7 +23,7 @@ Here is a selecetion of camping, hiking and backpacking gift ideas for women. We
 
 Snails on your tea cup ... they are going to make sure that your tea bags stay in place.
 
-<a href="http://amzn.to/2fbL8KX" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fbL8KX" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -35,7 +35,7 @@ Snails on your tea cup ... they are going to make sure that your tea bags stay i
 
 Do you have something to celebrate outdoors? Those GSI outdoors champagne flutes are light and probably won't break like the ones made of glass.
 
-<a href="http://amzn.to/2fzbf2S" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fzbf2S" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -47,7 +47,7 @@ Do you have something to celebrate outdoors? Those GSI outdoors champagne flutes
 
 Concerned about your health when drinking water from a plastic bottle? The Nalgene bottles are BPA free. I use it sometimes also in combination with a water filter.
 
-<a href="http://amzn.to/2ehwgwT" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2ehwgwT" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 
 ---
@@ -61,7 +61,7 @@ Concerned about your health when drinking water from a plastic bottle? The Nalge
 
 The Opinel N Degree02 Fuchsia knife is small and easy to carry. Probably one of the most versatile hiking accessory which can be also used on days when you are not on the trail.
 
-<a href="http://amzn.to/2ehiL0h" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2ehiL0h" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -73,7 +73,7 @@ The Opinel N Degree02 Fuchsia knife is small and easy to carry. Probably one of 
 
 The GSI Outdoors Backpacker Mug keeps your beverage warm and packs small into your backpack.
 
-<a href="http://amzn.to/2fbTkeh" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fbTkeh" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -86,7 +86,7 @@ The GSI Outdoors Backpacker Mug keeps your beverage warm and packs small into yo
 
 The Marshmallow By Ototo Design is a pencil and eraser. Now you can have a piece of the great outdoors in your office.
 
-<a href="http://amzn.to/2eu2yT7" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2eu2yT7" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -98,7 +98,7 @@ The Marshmallow By Ototo Design is a pencil and eraser. Now you can have a piece
 
 The SUCK UK Rechargeable Floating Light turns glasses into lamps.
 
-<a href="http://amzn.to/2fz47Dx" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fz47Dx" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -110,7 +110,7 @@ The SUCK UK Rechargeable Floating Light turns glasses into lamps.
 
 The image on the Kikkerland Morphing Mug changes with the temperature of your beverage.
 
-<a href="http://amzn.to/2fbN7Pl" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fbN7Pl" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -123,7 +123,7 @@ The image on the Kikkerland Morphing Mug changes with the temperature of your be
 
 The SUCK UK Original and Official Bottle Light turns bottles into nightlights.
 
-<a href="http://amzn.to/2e7LvFl" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2e7LvFl" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -136,7 +136,7 @@ The SUCK UK Original and Official Bottle Light turns bottles into nightlights.
 
 The Light My Fire Titanium Spork is probably one of the best hiking accesories on the trail. It's light and works as a spoon and a fork.
 
-<a href="http://amzn.to/2ehlaIt" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2ehlaIt" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -149,7 +149,7 @@ The Light My Fire Titanium Spork is probably one of the best hiking accesories o
 
 The Opinel N Degree7 Stainless Steel Knife is another quality knife which you can pack into your backpack. Made in France.
 
-<a href="http://amzn.to/2fbQ9TR" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fbQ9TR" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -161,7 +161,7 @@ The Opinel N Degree7 Stainless Steel Knife is another quality knife which you ca
 
 The LETHMIK Unique Slouchy Beanie Unisex Mix Knit Skully Hat Ski Cap is made of 100% Soft and Comfortable Acrylic Material and Super Warm Fleece Lined.
 
-<a href="http://amzn.to/2f7oYun" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2f7oYun" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -174,7 +174,7 @@ The LETHMIK Unique Slouchy Beanie Unisex Mix Knit Skully Hat Ski Cap is made of 
 
 The Baby Nessie Tea Infuser is a fun way to drink tea. Just fill the bottom with loose tea leaves and steep. It's also great for stirring.
 
-<a href="http://amzn.to/2fbJysj" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fbJysj" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -198,7 +198,7 @@ The Smartwool Women's Hiking Medium Crew are high quality hiking socks. I wear t
 
 The GSI Outdoors Stainless Steel Nesting Wine Goblet is perfect for any outdoor party and more durable than glass.
 
-<a href="http://amzn.to/2e7SJcG" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2e7SJcG" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -210,7 +210,7 @@ The GSI Outdoors Stainless Steel Nesting Wine Goblet is perfect for any outdoor 
 
 The Opinel OP01697 No 7 Round End Safety Folding Knife is another high quality knife from France which you can pack into your backpack.
 
-<a href="http://amzn.to/2fbPKAN" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fbPKAN" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -223,7 +223,7 @@ The Opinel OP01697 No 7 Round End Safety Folding Knife is another high quality k
 
 The Doiy Koinobori travel laundry bag is quite useful to seperate your dirty from the clean clothes while travelling.
 
-<a href="http://amzn.to/2f3HXZe" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2f3HXZe" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -248,7 +248,7 @@ A hat is always a good gift. It's probably just a matter of color and design but
 
  The Opinel Child's Horse Folding Knife comes with a safety ring for locking the blade and is made of Sandvik steel.
 
-<a href="http://amzn.to/2e7Hm4e" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2e7Hm4e" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -261,7 +261,7 @@ A hat is always a good gift. It's probably just a matter of color and design but
 
 The Society6 Falling Opinel Carry-All Pouch is perfect for carrying toiletries, art supplies and makeup. The large one can also fit an iPad.
 
-<a href="http://amzn.to/2e7MJk3" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2e7MJk3" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -273,7 +273,7 @@ The Society6 Falling Opinel Carry-All Pouch is perfect for carrying toiletries, 
 
 For wine lovers there is the GSI Outdoors Wine Tote which insulates the beverage and can be filled with 750 ml. It also comes with a shoulder strap and turns it into a hydration pack.
 
-<a href="http://amzn.to/2e7VP0a" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2e7VP0a" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -287,7 +287,7 @@ For wine lovers there is the GSI Outdoors Wine Tote which insulates the beverage
 
 Once you have traveled a place in the USA you can scratch it off from this map.
 
-<a href="http://amzn.to/2fbLQI1" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fbLQI1" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -299,7 +299,7 @@ Once you have traveled a place in the USA you can scratch it off from this map.
 
 Once you have traveled a place you can scratch it off from this map.
 
-<a href="http://amzn.to/2fbNObl" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fbNObl" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -311,7 +311,7 @@ Once you have traveled a place you can scratch it off from this map.
 
 Get the outdoors indoors with the Kikkerland Birch Log Micro Bead Head Cushion. This is a great decorative item for home.
 
-<a href="http://amzn.to/2f7riSb" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2f7riSb" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -323,7 +323,7 @@ Get the outdoors indoors with the Kikkerland Birch Log Micro Bead Head Cushion. 
 
 This camping garland may remind you of your last trails.
 
-<a href="http://amzn.to/2e7Oiym" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2e7Oiym" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -335,7 +335,7 @@ This camping garland may remind you of your last trails.
 
 With the GSI Stainless Coffee Perk Cup you can make fresh coffee on a camp stove.
 
-<a href="http://amzn.to/2fzbMle" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fzbMle" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -348,7 +348,7 @@ With the GSI Stainless Coffee Perk Cup you can make fresh coffee on a camp stove
 
 The Petzl Tikkina 2 headlamp packs small and should be in every backpack.
 
-<a href="http://amzn.to/2ehm6wr" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2ehm6wr" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -373,7 +373,7 @@ The Buff Margo Knitted And Polar Rev Neckwarmer keeps your neck warm on cold day
 
 The Osprey Ultralight Stuff Pack can either serve as an emergency pack or as an ultralight backpack.
 
-<a href="http://amzn.to/2fc07ER" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fc07ER" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -385,7 +385,7 @@ The Osprey Ultralight Stuff Pack can either serve as an emergency pack or as an 
 
 The Personal Packtowl packs small and is another must have item on a backpacking trip.
 
-<a href="http://amzn.to/2fbRwC3" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fbRwC3" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -397,7 +397,7 @@ The Personal Packtowl packs small and is another must have item on a backpacking
 
 The Light My Fire Cook'n Fire Kit might be your next camping kitchen.
 
-<a href="http://amzn.to/2ehjcI8" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2ehjcI8" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -421,7 +421,7 @@ The Barts Bishorn Beanie keeps you warm during the winter.
 
 The Hydro Flask Vacuum Insulated Stainless Steel Water Bottle is a nice bottle to insulate your bevereage. Probably more useful for colder beverages.
 
-<a href="http://amzn.to/2e85eEX" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2e85eEX" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -433,7 +433,7 @@ The Hydro Flask Vacuum Insulated Stainless Steel Water Bottle is a nice bottle t
 
 The Dopper Original Simply Red Limited Edition is a reusable water bottle and cup in one.
 
-<a href="http://amzn.to/2f7hjfM" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2f7hjfM" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -446,7 +446,7 @@ The Dopper Original Simply Red Limited Edition is a reusable water bottle and cu
 
 The Petzl Tikka XP is another small headlamp which packs small and light.
 
-<a href="http://amzn.to/2ehpNC9" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2ehpNC9" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -459,7 +459,7 @@ The Petzl Tikka XP is another small headlamp which packs small and light.
 
 The Doiy Wuerfel 30 Days Fitness Challenge helps you to get back on track.
 
-<a href="http://amzn.to/2f7kgNg" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2f7kgNg" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -472,7 +472,7 @@ The Doiy Wuerfel 30 Days Fitness Challenge helps you to get back on track.
 
 The Mizu Poler Camp Vibes Wine Cup Set is another great cup set if you want to celebrate outdoors.
 
-<a href="http://amzn.to/2e7NHN3" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2e7NHN3" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -484,7 +484,7 @@ The Mizu Poler Camp Vibes Wine Cup Set is another great cup set if you want to c
 
 The GSI Outdoors Java Drip Coffee Maker is for those who want to have fresh coffee outdoors.
 
-<a href="http://amzn.to/2dXim4v" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2dXim4v" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -496,7 +496,7 @@ The GSI Outdoors Java Drip Coffee Maker is for those who want to have fresh coff
 
 GSI Outdoors Nesting Red Wine Glass to enjoy your glass of wine outdoors.
 
-<a href="http://amzn.to/2fpf630" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fpf630" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -506,7 +506,7 @@ GSI Outdoors Nesting Red Wine Glass to enjoy your glass of wine outdoors.
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B006ERT8WO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006ERT8WO&linkCode=as2&tag=hikeve-20&linkId=38e8b271d5f5f0c2c8c58e28a17ddf83"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B006ERT8WO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B006ERT8WO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="http://amzn.to/2dXiykp" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2dXiykp" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -527,7 +527,7 @@ GSI Outdoors Nesting Red Wine Glass to enjoy your glass of wine outdoors.
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01KILVT2I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01KILVT2I&linkCode=as2&tag=hikeve-20&linkId=ce4d35d558a62514c3479d219562e550"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01KILVT2I&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01KILVT2I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="http://amzn.to/2fbSQoc" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fbSQoc" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -538,7 +538,7 @@ GSI Outdoors Nesting Red Wine Glass to enjoy your glass of wine outdoors.
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B001LF3I3O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001LF3I3O&linkCode=as2&tag=hikeve-20&linkId=e14867767d815c46fbb4a673b1f05d9c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001LF3I3O&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001LF3I3O" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="http://amzn.to/2e7N71X" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2e7N71X" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -548,7 +548,7 @@ GSI Outdoors Nesting Red Wine Glass to enjoy your glass of wine outdoors.
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01FIDI7LW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01FIDI7LW&linkCode=as2&tag=hikeve-20&linkId=08e41bd1519014c335abafbd12dbea31"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01FIDI7LW&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01FIDI7LW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="http://amzn.to/2fbUer5" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fbUer5" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -558,7 +558,7 @@ GSI Outdoors Nesting Red Wine Glass to enjoy your glass of wine outdoors.
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00F1F17UG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F1F17UG&linkCode=as2&tag=hikeve-20&linkId=8e2427450f9083aefac6467006520b34"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00F1F17UG&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00F1F17UG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="http://amzn.to/2fbM7uN" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fbM7uN" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -579,7 +579,7 @@ GSI Outdoors Nesting Red Wine Glass to enjoy your glass of wine outdoors.
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00DH3EEOK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DH3EEOK&linkCode=as2&tag=hikeve-20&linkId=37290e6edb01277de8ad2a432dc4be87"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00DH3EEOK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00DH3EEOK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="http://amzn.to/2fbLQaT" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fbLQaT" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -602,7 +602,7 @@ GSI Outdoors Nesting Red Wine Glass to enjoy your glass of wine outdoors.
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00J3NEZME/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00J3NEZME&linkCode=as2&tag=hikeve-20&linkId=b03a5aaef70879a649f0ae9e00c52aab"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00J3NEZME&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00J3NEZME" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="http://amzn.to/2fbYBm6" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fbYBm6" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -612,7 +612,7 @@ GSI Outdoors Nesting Red Wine Glass to enjoy your glass of wine outdoors.
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00B82JHGC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00B82JHGC&linkCode=as2&tag=hikeve-20&linkId=0323908de63ca6c0ac49458c32fa74ad"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00B82JHGC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00B82JHGC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="http://amzn.to/2eWmzT3" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2eWmzT3" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -622,7 +622,7 @@ GSI Outdoors Nesting Red Wine Glass to enjoy your glass of wine outdoors.
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01M24JSH0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01M24JSH0&linkCode=as2&tag=hikeve-20&linkId=1ab2ac2b914490a143c6f1aa6acf09b4"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01M24JSH0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01M24JSH0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="http://amzn.to/2fbO61Z" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fbO61Z" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -632,7 +632,7 @@ GSI Outdoors Nesting Red Wine Glass to enjoy your glass of wine outdoors.
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01M24JQ6Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01M24JQ6Y&linkCode=as2&tag=hikeve-20&linkId=ebf46bcd292b1b1e6bc4b0b9cd0f7f30"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01M24JQ6Y&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01M24JQ6Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="http://amzn.to/2fbMcyq" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fbMcyq" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 

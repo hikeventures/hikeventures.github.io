@@ -12,7 +12,7 @@ layout: post
 <h2 style="color:red">Our selection of the best lightweight 360 4K cameras 2017 for ultralight outdoor adventures.</h2>
 <br>
 
-As we are always interested in new camera gear for our next adventure I was interested to find out which waterproof 360 4K cameras are currently available which I could take to my next hiking, backpacking, skiing or packrafting trip. I picked 360 cameras which were somewhat water resistant and shockproof. YouTube already supports 360 videos so you could get for example a <a href="http://amzn.to/2eRm0Kz" rel="nofollow" target="_blank">Google Cardboard</a> and attach it to your smartphone. Have a look on our <a href="#list">comparison table</a> to find the right camera or see some <a href="#example">pictures</a> of the camera models which we recommend.
+As we are always interested in new camera gear for our next adventure I was interested to find out which waterproof 360 4K cameras are currently available which I could take to my next hiking, backpacking, skiing or packrafting trip. I picked 360 cameras which were somewhat water resistant and shockproof. YouTube already supports 360 videos so you could get for example a <a href="http://amzn.to/2eRm0Kz" rel="nofollow" target="_blank">Google Cardboard</a> and attach it to your smartphone. Have a look on our <a href="#list">comparison table</a> to find the right camera or see some <a href="#example">pictures</a> of the camera models which we recommend. {% include disclaimer.html %}
 
 
 ---
@@ -68,7 +68,7 @@ On paper, the Nikon makes a good impression with it's aperture and and higher IP
 
 <hr>
 
-Disclosure: We have not tested the products in this blog post. This blog post contains affiliate links.
+Disclosure: We have not tested the products in this blog post.
 
 <hr>
 

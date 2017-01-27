@@ -10,7 +10,7 @@ tags:
 layout: post
 ---
 
-Recently, I purchased a new backpack and was in need of getting a dry sack where I can stuff my clothes etc. in to keep them dry in case of rain while on the trail. So I took a look on the Sea to Summit Ultra-Sil Drysack for my next hiking, backpacking and packrafting trips and here is a short review.
+Recently, I purchased a new backpack and was in need of getting a dry sack where I can stuff my clothes etc. in to keep them dry in case of rain while on the trail. So I took a look on the Sea to Summit Ultra-Sil Drysack for my next hiking, backpacking and packrafting trips and here is a short review. {% include disclaimer.html %}
 
 <a href="http://amzn.to/1nUEHcS" rel="nofollow"><img src="http://farm9.staticflickr.com/8391/8619175883_3cfc41c0df_c.jpg" alt="Sea to Summit Ultra Sil Dry Sack"></a>
 <!--more-->
@@ -31,7 +31,6 @@ I have tested the Sea to Summit Ultra Sil Drysack on <a href="http://hikeventure
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Sea-to-Summit-Ultra-Sil-Dry-Sacks_10046657_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Sea to Summit Ultra Sil Dry Sack</button></a>
 
-{% include disclaimer.html %}
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";

@@ -8,7 +8,7 @@ tags:
   - gifts
   - christmas
 ---
-Christmas is approaching us and I decided to write a blog post with the 12 best backpacking gear gift ideas for him for Christmas 2017. I have tried to select gear which can be used for hiking, backpacking, climbing, skiing, snowshoeing or packrafting so there should be something for everyone. This blog post contains affiliate links.
+Christmas is approaching us and I decided to write a blog post with the 12 best backpacking gear gift ideas for him for Christmas 2017. I have tried to select gear which can be used for hiking, backpacking, climbing, skiing, snowshoeing or packrafting so there should be something for everyone. {% include disclaimer.html %}
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15913321903/in/album-72157651193131682/" title="Best 12 backpacking gear gift ideas for him for Christmas 2017"><img src="https://c8.staticflickr.com/8/7295/15913321903_c77e978900_k.jpg" width="2048" height="1360" alt="Best 12 backpacking gear gift ideas for him for Christmas 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -22,7 +22,7 @@ Christmas is approaching us and I decided to write a blog post with the 12 best 
 
 This book shows you America's best hiking trails and has won several awards. This is probably a book which every hiker would like to have who is interested to hike in America.
 
-<a href="http://amzn.to/2dUSGUr" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2dUSGUr" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -114,7 +114,7 @@ If you are planning to hike in remote places where you won't have a phone signal
 
 The Hestra Army Leather Heli 3-Finger Glove is one of the most popular Hestra gloves for skiing and is very warm. It comes with a removeable liner (so you can take it out and dry it during the night) and is wind- and waterproof.
 
-<a href="http://www.amazon.com/gp/product/B0153QFDXO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0153QFDXO&linkCode=as2&tag=hikeve-20&linkId=5RNHLQHTIVZ7K3GF" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://www.amazon.com/gp/product/B0153QFDXO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0153QFDXO&linkCode=as2&tag=hikeve-20&linkId=5RNHLQHTIVZ7K3GF" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -124,7 +124,7 @@ The Hestra Army Leather Heli 3-Finger Glove is one of the most popular Hestra gl
 
 The Suunto Spartan Sport is the latest GPS watch from Suunto which comes with a color touch screen. It's advantage compared to the e.g. <a href="http://amzn.to/2dURWip" rel="nofollow" target="_blank">Apple Watch Series 2</a> is it's long battery life so you can take it on a longer trip without recharging it every few hours.
 
-<a href="http://amzn.to/2f60uWd" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2f60uWd" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -134,7 +134,7 @@ The Suunto Spartan Sport is the latest GPS watch from Suunto which comes with a 
 
 Thw Sawyer Water Filter is always in my backpack when I go hiking. It's much easier to get clean water from a river than using a water filter with a pump. It's also lighter.
 
-<a href="http://amzn.to/2dUNxvQ" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2dUNxvQ" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 

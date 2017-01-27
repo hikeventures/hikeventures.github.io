@@ -15,7 +15,7 @@ layout: post
 
 Do you need a new lightweight daypack? A day pack is a great choice if you plan to do a shorter trip while carrying some gear with you e.g. climbing, hiking or on a normal day in the city. They weight much less than a regular backpack and you will enjoy your day outside much more if you have to carry less with you. I have included a broad range of day packs. Some are more durable or offer more features while also weight a bit more while other day packs are more light and minimalistic.
 
-Here is our <a href="#list">selection</a> of the best day packs for 2017 which we have selected to cover your summer and winter day trips.
+Here is our <a href="#list">selection</a> of the best day packs for 2017 which we have selected to cover your summer and winter day trips. {% include disclaimer.html %}
 
 <h2>Daypack vs. Backpack</h2>
 A daypack is just a smaller version of a backpack. Essentially they are both backpacks.
@@ -91,7 +91,7 @@ The Marmot Kompressor offers a breathable airmesh back panel and airmesh shoulde
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00KB63PBE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KB63PBE&linkCode=as2&tag=hikeve-20&linkId=a4b235d32a2cdaf76a67c153a97eb1aa"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00KB63PBE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00KB63PBE" width="1" height="1" border="0" alt="Patagonia Ascensionist 25L" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 425g  
+**Weight:** 425g
 
 The Patagonia Ascensionist 25L might be an interested day pack for climbers. It comes with a lightweight abrasion-resistant nylon ripstop and adjustable ice axe loops. There are also daisy chains to attach additional gear to the backpack.
 
@@ -123,7 +123,7 @@ The Gregory Maya 22 comes with a BioSync Suspension that flexes and moves with y
 
 <hr>
 
-<h3><a href="http://amzn.to/2iMcidh" target="_blank" rel="nofollow">Osprey Packs Talon 22</a></h3>  
+<h3><a href="http://amzn.to/2iMcidh" target="_blank" rel="nofollow">Osprey Packs Talon 22</a></h3>
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00E0LGIOM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00E0LGIOM&linkCode=as2&tag=hikeve-20&linkId=82a7b6c5b252383f16206258e102cc51"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00E0LGIOM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00E0LGIOM" width="1" height="1" border="0" alt="Osprey Talon 22" style="border:none !important; margin:0px !important;" />
 
@@ -189,4 +189,4 @@ amzn_assoc_linkid = "94ae095fd527d4f97d365afbd4404fcf";
 
 ---
 
-Disclosure: We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new products. This blog post contains affiliate links.
+Disclosure: We have not tested all products in this blog post.

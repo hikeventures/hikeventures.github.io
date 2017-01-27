@@ -17,7 +17,7 @@ Do you need a new warm down jacket for the winter or for a cold summer night dur
 
 We have selected a broad range of down jackets which can be worn in different conditions and for different activities like hiking, backpacking, skiing, snowboarding, mountaineering, climbing or on any other outdoor adventure.
 
-Also, check one of our <a href="#video">packrafting videos</a> where we had down jackets with us while packrafting in Northern Sweden.
+Also, check one of our <a href="#video">packrafting videos</a> where we had down jackets with us while packrafting in Northern Sweden. {% include disclaimer.html %}
 
 ---
 
@@ -119,7 +119,7 @@ The Mountain Hardware Ghost Whisperer Hooded Down Jacket is one of the lightest 
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00Q9MHXN0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q9MHXN0&linkCode=as2&tag=hikeve-20&linkId=Y5N4EYNVYQ5UDXXJ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q9MHXN0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q9MHXN0" width="1" height="1" border="0" alt="Arcteryx Cerium LT Hoody" style="border:none !important; margin:0px !important;"/>
 
-**Weight:** 275g  
+**Weight:** 275g
 
 Similar as the Arcteryx Cerium LT Jacket just with a hoodie. We would pick the Cerium LT Hoody if we would have to choose a down jacket for moderate winter or for camping during spring and autumn. LT stands for lightweight in the Arcteryx product line.
 
@@ -151,7 +151,7 @@ The Arcteryx Cerium SV Hoody is part of Arcteryx severe weather product line - m
 
 <hr>
 
-<h3><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Patagonia Men's Down Hooded Jacket (800fp)</a></h3>  
+<h3><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Patagonia Men's Down Hooded Jacket (800fp)</a></h3>
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00OZGABKY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OZGABKY&linkCode=as2&tag=hikeve-20&linkId=OLFQERZDADI4UC3J"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00OZGABKY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00OZGABKY" width="1" height="1" border="0" alt="Patagonia Men's Down Hooded Jacket" style="border:none !important; margin:0px !important;" />
 
@@ -348,7 +348,7 @@ You can keep your down jacket dry by storing it in a waterproof compression bag 
 
 ---
 
-Disclosure: We have not tested the products in this blog post. This blog post contains affiliate links.
+Disclosure: We have not tested the products in this blog post.
 
 ---
 

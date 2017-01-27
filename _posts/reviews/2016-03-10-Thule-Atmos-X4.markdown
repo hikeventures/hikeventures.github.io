@@ -9,7 +9,7 @@ tags:
   - phone
 layout: post
 ---
-On our packrafting trip in Scotland I have tried out the Thule X4 smartphone case which we received from Thule to test them on our iPhone 6. Konstantin had already some experience with the X3 case so we were sitting together after our packrafting trip in the Scottish Highlands to discuss the main differences between the X3 and the X4 during our 2 1/2 hours train trip from Aberdeen to Edinburgh.
+On our packrafting trip in Scotland I have tried out the Thule X4 smartphone case which we received from Thule to test them on our iPhone 6. Konstantin had already some experience with the X3 case so we were sitting together after our packrafting trip in the Scottish Highlands to discuss the main differences between the X3 and the X4 during our 2 1/2 hours train trip from Aberdeen to Edinburgh. {% include disclaimer.html %}
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25551505302/in/dateposted-public/" title="Thule Atmos X4 iPhone Adventure Case"><img src="https://farm2.staticflickr.com/1641/25551505302_f7c439d91c_b.jpg" width="100%" alt="Thule X4 iPhone Adventure Case"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -36,8 +36,6 @@ In general, we also liked the camera lens protection. Even so there is no physic
 However, we will test the new Thule Atmos X5 (which is supposed to be waterproof) on our iPhones on our next trip probably in Poland or Japan. If the X5 works as promised it will probably be our outdoor smartphone case of choice for our upcoming hiking and packrafting adventures.
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Thule-Atmos-X4-iPhone-6-Case_10281416_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Thule Atmos X4</button></a>  
-
-{% include disclaimer.html %}
 
 ---
 

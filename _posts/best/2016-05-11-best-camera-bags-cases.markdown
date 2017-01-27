@@ -10,7 +10,7 @@ tags:
   - camera
 ---
 
-In this blog post I would like to give an <a href="#list">overview</a> about the best camera bags which I would select for a Sony A7, A7II A7RII or A7SII (and also a6500, a6300 or a6000 since they share a similar form factor). Different cases might be useful for different activities e.g. you might select a different camera bag when you go hiking than you would choose when planning to go on a kayaking or packrafting trip.
+In this blog post I would like to give an <a href="#list">overview</a> about the best camera bags which I would select for a Sony A7, A7II A7RII or A7SII (and also a6500, a6300 or a6000 since they share a similar form factor). Different cases might be useful for different activities e.g. you might select a different camera bag when you go hiking than you would choose when planning to go on a kayaking or packrafting trip. {% include disclaimer.html %}
 
 ---
 
@@ -84,7 +84,7 @@ When I plan to go hiking or backpacking I would like to have a camera bag where 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01JUPAE60/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01JUPAE60&linkCode=as2&tag=hikeve-20&linkId=6db8a92fe9a5e400990059c265d0f642"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01JUPAE60&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01JUPAE60" width="1" height="1" border="0" alt="Thule Aspect DSLR/ILC Shoulder Bag" style="border:none !important; margin:0px !important;" />
 
 *Weight:*  550 grams
-*Dimenstions:* 10.2 x 5.5 x 10.6 inches   
+*Dimenstions:* 10.2 x 5.5 x 10.6 inches
 
 Thule Aspect DSLR/ILC Shoulder Bag offers space for a mirrorless camera, one lens and accessories. There are also side mesh pockets to store a small tripod or a water bottle.
 There is a front-folding lid to access gear quickly and smaller items can be organized there as well. A padded shoulder strap makes this camera bag comfortable to carry.

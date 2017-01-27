@@ -9,7 +9,7 @@ tags:
 layout: post
 ---
 
-Having used my Sony A7 for over 1 year I am planning to get better sound on my Videos once I get my new camera. The onboard microphone is more or less useless when filming in a windy place and in general you get better audio with an external microphone.
+Having used my Sony A7 for over 1 year I am planning to get better sound on my Videos once I get my new camera. The onboard microphone is more or less useless when filming in a windy place and in general you get better audio with an external microphone. {% include disclaimer.html %}
 
 <a href="http://amzn.to/2dxQkfS" title="Zoom H5" rel="nofollow"><img src="https://farm8.staticflickr.com/7468/15630751654_424fb06abb_b.jpg" width="1024" height="657" alt="best external audio recorder Zoom H5 sony a7"></a>
 
@@ -126,8 +126,6 @@ I will most likely test the <a href="http://amzn.to/1yTJDZs" rel="nofollow">Zoom
 Obviously, with the equipment mentioned above you should get great audio quality for your videos. To improve your videos and pictures I would also recommend an additional LED light. I recently discovered that Manfrotto has a really nice and compact LED light - the <a href="http://amzn.to/2eG3GnK" rel="nofollow" target="_blank">Manfrotto LUMIMUSE 8 LED Light</a> - which I am planning to use for indoor or night filming. It should also work quite well to take along on hiking trips since it is so compact.
 
 <a href="http://amzn.to/2eG3GnK" rel="nofollow"><button class="btn btn-danger">Buy on Amazon</button></a>
-
-{% include disclaimer.html %}
 
 ---
 

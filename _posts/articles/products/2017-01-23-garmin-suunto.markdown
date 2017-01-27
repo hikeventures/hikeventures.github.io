@@ -19,7 +19,7 @@ However, there are certain features on the new watches which I found more appeal
 
 Why? Simply beacause both watches offer similar features with the Fenix 5X offering additionaly the possibility to upload 2GB of topo maps.
 
-Below I have summarized the main characteristics of both watches which were important to me.
+Below I have summarized the main characteristics of both watches which were important to me. {% include disclaimer.html %}
 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15913318153/in/photolist-Go1JSL-vM7J91-s9EBGJ-qfcV5n-poxm2c-J2qeyW-C6bEKT-uSq1oC-vwWEhv-vNPEKA-vPqH22-sTzRxs-t4miJj-qHtRc2-rc1Fx6-pC4agQ-pUdwjt-pR5WvQ-ptyErN-oUMs5L" title="Lapland Finland"><img src="https://c1.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg" width="2048" height="1360" alt="Suunto Spartan or Garmin Fenix 5 differences features"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

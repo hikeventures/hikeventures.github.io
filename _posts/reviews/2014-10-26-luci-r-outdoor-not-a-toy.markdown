@@ -10,7 +10,7 @@ tags:
 layout: post
 ---
 
-A while ago I was contacted by a representative of  [MPOWERD][1], who asked me if I would be interested to review their new inflatable solar lantern, Luci Outdoor. I said yes and several weeks later a package from the USA was waiting for me at home. Inside this package was Luci. Below are my thoughts and experiences of using this lantern on my several trips (Lithuania, Latvia, Poland and here in the Netherlands) during the last three months.
+A while ago I was contacted by a representative of  [MPOWERD][1], who asked me if I would be interested to review their new inflatable solar lantern, Luci Outdoor. I said yes and several weeks later a package from the USA was waiting for me at home. Inside this package was Luci. Below are my thoughts and experiences of using this lantern on my several trips (Lithuania, Latvia, Poland and here in the Netherlands) during the last three months. {% include disclaimer.html %}
 
 <a href="https://www.flickr.com/photos/90204224@N07/15636357331" title="Luci tent"><img src="https://farm6.staticflickr.com/5597/15636357331_9926cfd49a_b.jpg" width="1024" alt="Luci Outdoor Solar Lantern"></a>
 <!--more-->
@@ -53,7 +53,7 @@ What's more, in idea it should also be possible to charge it even in the rain. F
 
 The only moisture that can get inside Luci is the one in your breath when you are inflating it. As a matter of fact, last time I was inflating it I noticed a few small drops inside that appeared after I left the lantern standing for a while. But even though it might be unsettling to have that inside your Luci, it should not bother you too much as the bottom part with the electronics is completely sealed from the inside as well and no moisture should be able to get inside of it (thus the IP67 rating).
 
-Even though it is inflatable and made of soft PVC, the bottom part (that holds the solar panels, the battery and the LED lights) is significantly heavier, which means that if dropped it is likely to hit the ground first and, unless it is something soft (e.g., grass, leaves or snow), your Luci can be damaged. I have tried to drop mine from different positions and from different heights to test it, and with the exception of dropping it top first from the heights below 1.5 meters, the lantern always hit the surface with the bottom part (luckily I was dropping it on a cushion).  
+Even though it is inflatable and made of soft PVC, the bottom part (that holds the solar panels, the battery and the LED lights) is significantly heavier, which means that if dropped it is likely to hit the ground first and, unless it is something soft (e.g., grass, leaves or snow), your Luci can be damaged. I have tried to drop mine from different positions and from different heights to test it, and with the exception of dropping it top first from the heights below 1.5 meters, the lantern always hit the surface with the bottom part (luckily I was dropping it on a cushion).
 
 Another thing that I like about Luci is that weighing 113g (4oz) it hardly adds any weight to your backpack. I know that for toothbrush-handle-cutting UL hikers among you it might be a LOT of weight, but for me, it seems, it is rather negligible (especially taking the comfort and possible alternatives under consideration).  For example, a month ago, I took this lantern on our two day cycling trip in Poland. We did not really have to use Luci in the evenings, but I had it in the front pocket of my <a href="http://bit.ly/1v2wsOy" target="_blank">Osprey Talon 33</a>  for 'just in case'. As it is my regular 'work and play' backpack (I take it regularly to work, do the glossaries, use it as my hand luggage and a daypack on shorter trips), as usually I took it with me to work the next day after I came back to the NL. Imagine my surprise when I discovered the lantern in it a few days later even though I was absolutely certain that I had emptied the backpack after the trip. I was carrying it around for almost a week without as much as noticing it. Indeed, Luci hardly weighs anything and does not take too much space. No wonder I forgot about it.
 
@@ -85,9 +85,7 @@ All in all, this is a very good inflatable solar lantern, which is also a good v
 * To charge it on the go, use the handles to attach the lantern to the top/back of your backpack. However, if you are planning to go bushwhacking, make sure that it is attached securely, as the lantern might snag on something and the handles might not withstand a strong tug. It might be an idea to attach it to the sternum strap on the front to keep it out of harm's way.
 * Play with it and find your own ways of using it. Share them with us.
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_MPOWERD-Luci-Outdoor-Light_10320284_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Luci Outdoor Solar Lantern</button></a>  
-
-{% include disclaimer.html %}
+<a href="http://www.moosejaw.com/moosejaw/shop/product_MPOWERD-Luci-Outdoor-Light_10320284_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Luci Outdoor Solar Lantern</button></a>
 
 ---
 

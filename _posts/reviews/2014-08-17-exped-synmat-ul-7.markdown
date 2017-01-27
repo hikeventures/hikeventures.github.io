@@ -9,7 +9,7 @@ tags:
   - sleeping pads
 layout: post
 ---
-Here is a short review about the Exped SynMat UL 7 which is our current sleeping pad since over 1 year and me and Konstantin would like to share our experience in this review with the Exped SynMat UL 7 which has been one of the best 3-season sleeping pads for our hiking, camping, backpacking, packrafting and other outdoor trips.
+Here is a short review about the Exped SynMat UL 7 which is our current sleeping pad since over 1 year and me and Konstantin would like to share our experience in this review with the Exped SynMat UL 7 which has been one of the best 3-season sleeping pads for our hiking, camping, backpacking, packrafting and other outdoor trips. {% include disclaimer.html %}
 
 <a href="https://www.flickr.com/photos/90204224@N07/14948191975" title="Exped Synmat UL 7"><img src="https://farm4.staticflickr.com/3845/14948191975_987d92e79c_b.jpg" width="600" alt="Exped Synmat UL 7"></a><br>
 <!--more-->
@@ -40,8 +40,6 @@ Konstantin on the Exped Synmat UL 7 during our [Sarek trip][1].
 I like the Exped Synmat UL 7. It feels comfortable and I would buy it again. However, you might need to evaluate in beforehand if you prefer to sleep on a sleeping pad with vertical air chambers.
 
 <a href="http://www.sunnysports.com/nspc/p-expsmu7/exped-synmat-ul-7-air-mattress/"><button type="button" class="btn btn-danger">Read more about the Exped Synmat UL 7</button></a>
-
-{% include disclaimer.html %}
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";

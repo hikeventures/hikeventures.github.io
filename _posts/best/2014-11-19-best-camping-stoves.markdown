@@ -13,7 +13,7 @@ layout: post
 <h2 style="color:red">Our selection of the best lightweight camping stoves 2017 for ultralight outdoor adventures.</h2>
 <br>
 
-Planning an outdoor adventure and still searching for the right camping stove? A portable and lightweight camping stove is one of the most essential item to have on your adventures to boil water for tea, coffee or dehydrated meals. Here is my <a href="#list">selection</a> of the best lightweight camping stoves for 2017. They can be used for hiking, backpacking, packrafting, mountaineering or any other backcountry trip.
+Planning an outdoor adventure and still searching for the right camping stove? A portable and lightweight camping stove is one of the most essential item to have on your adventures to boil water for tea, coffee or dehydrated meals. Here is my <a href="#list">selection</a> of the best lightweight camping stoves for 2017. They can be used for hiking, backpacking, packrafting, mountaineering or any other backcountry trip. {% include disclaimer.html %}
 
 You probably take matches with you to ignite your stove. As an alternative, I found the <a href="http://amzn.to/22kZs72" rel="nofollow">Light My Fire Swedish FireSteel</a> quite useful and it does not really matter if it get's wet. It will still work. It might be not that easy to ignite the stove but it's more reliable and I always take my Swedish FireSteel with me together with matches.
 
@@ -68,9 +68,9 @@ You probably take matches with you to ignite your stove. As an alternative, I fo
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00F0BSDO4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F0BSDO4&linkCode=as2&tag=hikeve-20&linkId=GXQ24IC7MGCK4GWX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00F0BSDO4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00F0BSDO4" width="1" height="1" border="0" alt="MSR Micro Rocket" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 73 grams  
-**Burn Time:** 3.5 min  
-**Fuel:** Gas  
+**Weight:** 73 grams
+**Burn Time:** 3.5 min
+**Fuel:** Gas
 
 The MSR MicroRocket is the lightest stove in our list. If saving weight has your highest priority and you want to use a gas stove then you should go for the MSR MicroRocket.
 
@@ -80,11 +80,11 @@ The MSR MicroRocket is the lightest stove in our list. If saving weight has your
 
 <h3><a href="http://amzn.to/2dBLCMt" target="_blank" rel="nofollow">MSR WindPro II</a></h3>
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B005I6PNZS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005I6PNZS&linkCode=as2&tag=hikeve-20&linkId=NCXX5MK756QD4MWS"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005I6PNZS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005I6PNZS" width="1" height="1" border="0" alt="MSR WindPro II" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B005I6PNZS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005I6PNZS&linkCode=as2&tag=hikeve-20&linkId=NCXX5MK756QD4MWS"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005I6PNZS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005I6PNZS" width="1" height="1" border="0" alt="MSR WindPro II" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 187 grams  
-**Burn Time:** 3.6 minutes  
-**Fuel:** Gas  
+**Weight:** 187 grams
+**Burn Time:** 3.6 minutes
+**Fuel:** Gas
 
 The MSR WindPro II is a nice stove for those who want to have the burner separated which gives more stability but also the possibility to keep the gas canister warm in colder temperatures. The MSR WindPro II also simmers quite well and the larger diameter of the burner lets you allow to use larger pots. If you are planning to travel in more harsh conditions then the MSR XGK EX would be a better choice.
 
@@ -96,10 +96,10 @@ The MSR WindPro II is a nice stove for those who want to have the burner separat
 
 <a  href="http://www.amazon.com/gp/product/B019GPIYZC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019GPIYZC&linkCode=as2&tag=hikeve-20&linkId=MRADQZHAE2DN5ZNE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B019GPIYZC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B019GPIYZC" width="1" height="1" border="0" alt="Jetboil MicroMo" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 400 grams  
-**Burn Time:** 2 min 15 sec for 0.5 liter  
-**Fuel:** Gas  
-**Cooking cup size:** 0.8 liter  
+**Weight:** 400 grams
+**Burn Time:** 2 min 15 sec for 0.5 liter
+**Fuel:** Gas
+**Cooking cup size:** 0.8 liter
 
 The Jetboil MicroMo offers a push-button igniter and a heat indicator and comes with a 0.8 liter cooking cup. The Jetboil MicorMo is cold weather compatible down to -6C. The Jetboil MicroMo can also store the gas canister.
 
@@ -111,10 +111,10 @@ The Jetboil MicroMo offers a push-button igniter and a heat indicator and comes 
 
 <a  href="http://www.amazon.com/gp/product/B00KXP7CUI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KXP7CUI&linkCode=as2&tag=hikeve-20&linkId=63NECFHTZ3EYX64N"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00KXP7CUI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00KXP7CUI" width="1" height="1" border="0" alt="Jetboil MiniMo" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 415 grams  
-**Burn Time:** 2 min 15 sec for 0.5 liter  
-**Fuel:** Gas  
-**Cooking Cup Size:** 1 liter  
+**Weight:** 415 grams
+**Burn Time:** 2 min 15 sec for 0.5 liter
+**Fuel:** Gas
+**Cooking Cup Size:** 1 liter
 
 The Jetboil MiniMo offers you one of the best simmer controls, metal handles, and a low spoon angle for easy eating. The bottom cover can also be used as a bowl. As a whole product the Jetboil MiniMo might be a nice solution and not even that heavy considering that it offers 2 products in one (stove and bowl).
 
@@ -126,10 +126,10 @@ The Jetboil MiniMo offers you one of the best simmer controls, metal handles, an
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00NPPWOJ2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NPPWOJ2&linkCode=as2&tag=hikeve-20&linkId=G7LF7ACULXJOSCLX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00NPPWOJ2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00NPPWOJ2" width="1" height="1" border="0" alt="MSR WindBurner" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 432 grams  
-**Burn Time:** 2 min 30 seconds for 0.5 liter  
-**Fuel:** Gas  
-**Cooking cup size:** 1 liter  
+**Weight:** 432 grams
+**Burn Time:** 2 min 30 seconds for 0.5 liter
+**Fuel:** Gas
+**Cooking cup size:** 1 liter
 
 The MSR WindBurner is the latest addition on the stove market from MSR. This stove is marketed to operate very well under windy conditions. The MSR WindBurner is currently our favourite stove on our trips (for 2 person) even so it weights a little bit more than the other stoves. If you are traveling alone then the Jetboil MiniMo might be a good alternative.
 
@@ -141,9 +141,9 @@ The MSR WindBurner is the latest addition on the stove market from MSR. This sto
 
 <a  href="http://www.amazon.com/gp/product/B000EUMKFO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000EUMKFO&linkCode=as2&tag=hikeve-20&linkId=VXEWELGDXLVW6BJU"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000EUMKFO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B000EUMKFO" width="1" height="1" border="0" alt="MSR XGK EX" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 489 grams (packed)  
-**Burn Time:** 2.8 minutes for 1 liter with kerosene fuel  
-**Fuel:** Multiple  
+**Weight:** 489 grams (packed)
+**Burn Time:** 2.8 minutes for 1 liter with kerosene fuel
+**Fuel:** Multiple
 
 The MSR XGK EX is probably the best choice if you need a stove which can handle multiple fuels in extreme conditions.
 
@@ -186,7 +186,7 @@ If you are traveling to different continents then a multi-fuel stove might be th
 
 ---
 
-Disclosure: We have not tested the products in this blog post. This blog post contains affiliate links.
+Disclosure: We have not tested the products in this blog post.
 
 ---
 

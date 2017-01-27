@@ -12,7 +12,7 @@ tags:
   - zeiss
 ---
 
-Today I had a chance to test the Zeiss Batis 25 mm f/2 in Finland and here are some thoughts why I really like this lens and why I would recommend it especially for those who are into outdoor or nature photography and looking for a wide angle lens. This is not a scientific report but just my initial thoughts after testing the Zeiss Batis 25mm in Finland. (*UPDATE:* You can find more pictures from my Sony A7 / Batis 25 mm from my recent trips to [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/) and [Northern Norway](http://www.hikeventures.com/Finnmark/)).
+Today I had a chance to test the Zeiss Batis 25 mm f/2 in Finland and here are some thoughts why I really like this lens and why I would recommend it especially for those who are into outdoor or nature photography and looking for a wide angle lens. This is not a scientific report but just my initial thoughts after testing the Zeiss Batis 25mm in Finland. (*UPDATE:* You can find more pictures from my Sony A7 / Batis 25 mm from my recent trips to [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/) and [Northern Norway](http://www.hikeventures.com/Finnmark/)). {% include disclaimer.html %}
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27747666193/in/dateposted-public/" title="Zeiss Batis 25 mm / 2.0 with Sony A7"><img src="https://c2.staticflickr.com/9/8889/27747666193_ed793fd763_k.jpg" width="2048" height="1152" alt="Test Zeiss Batis 25 mm / 2.0 with Sony A7"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -56,8 +56,6 @@ Yes, that's the best lens which I ever had on a Sony A7. As it is light and rela
 As a side note, I have also used the <a href="http://amzn.to/2akpsuN" rel="nofollow">Hoya 67mm DMC PRO1 Clear Protector Digital Filter</a> when I took the pictures.
 
 <a href="http://amzn.to/2an34ze" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Zeiss Batis 25mm</button></a>
-
-{% include disclaimer.html %}
 
 ---
 

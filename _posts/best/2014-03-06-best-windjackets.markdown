@@ -14,7 +14,7 @@ layout: post
 <h2 style="color:red">Our selection of the best lightweight wind jackets 2017 for ultralight outdoor adventures.</h2>
 <br>
 
-Do you wear a fleece on your hike but still feel cold. Well, it's probably because your fleece jacket does not protect you against cold winds. A lightweight wind jacket is probably one of the most useful piece of clothes which you can take when going hiking, backpacking, climbing, cycling, running or plan any other backcountry trip. A wind jacket does not need much space so you can easily store it in your backpack. Just make sure that you buy a wind jacket with a hoodie. Have a look on my <a href="#list">wind jacket comparison table</a>.
+Do you wear a fleece on your hike but still feel cold. Well, it's probably because your fleece jacket does not protect you against cold winds. A lightweight wind jacket is probably one of the most useful piece of clothes which you can take when going hiking, backpacking, climbing, cycling, running or plan any other backcountry trip. A wind jacket does not need much space so you can easily store it in your backpack. Just make sure that you buy a wind jacket with a hoodie. Have a look on my <a href="#list">wind jacket comparison table</a>. {% include disclaimer.html %}
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9599027418/in/photolist-fCewqJ-eZwoYv-eZwpTX-fCewQ3-eZwovc-eZHLDm-eZwojP-eZwoGn-eZHLPu-eZHK3s" title="best wind jackets for 2017"><img src="https://c3.staticflickr.com/8/7385/9599027418_4123160df8_b.jpg" width="992" height="661" alt="best wind jackets for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -55,9 +55,9 @@ A wind jacket is much lighter and you won't sweat that much in it compared to a 
 
 <a  href="http://www.amazon.com/gp/product/B01ANCS38K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01ANCS38K&linkCode=as2&tag=hikeve-20&linkId=BOE3T2FI3DGVW7LR" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01ANCS38K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B01ANCS38K" width="1" height="1" border="0" alt="Patagonia Houdini" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 113 grams  
-**Fabric:** 15-denier nylon ripstop  
-**Awards:** Outdoor Gear Lab Top Pick  
+**Weight:** 113 grams
+**Fabric:** 15-denier nylon ripstop
+**Awards:** Outdoor Gear Lab Top Pick
 
 The Patagonia Houdini is another great wind jacket which got recommended by many other outdoor enthusiasts. It comes with a zippered chest pocket and the hood is adjustable. There is also a reflective logo on the front and back which comes quite handy during night hikes.
 
@@ -69,9 +69,9 @@ The Patagonia Houdini is another great wind jacket which got recommended by many
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GW7ZHG2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZHG2&linkCode=as2&tag=hikeve-20&linkId=TRAIMP6VVV2WPE4A"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7ZHG2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7ZHG2" width="1" height="1" border="0" alt="Arcteryx Incendo Hoody" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 130 grams  
-**Fabric:** Luminara—Stretch nylon ripstop  
-**Awards:** Best On Test - Outdoor Fitness Magazine (UK)  
+**Weight:** 130 grams
+**Fabric:** Luminara—Stretch nylon ripstop
+**Awards:** Best On Test - Outdoor Fitness Magazine (UK)
 
 The Arcteryx Incendo Hoody has breathable mesh panels under the arms, a hood and a full front zip. It also features an internal MP3 pocket with audio ports, a side stow pocket and reflective blazes. The Incendo Hoody is more a running jacket than a hiking jacket but could be an alternative to the Arcteryx Squamish Hoody if you are an Arcteryx fan and want to save a few grams.
 
@@ -83,7 +83,7 @@ The Arcteryx Incendo Hoody has breathable mesh panels under the arms, a hood and
 
 <a  href="http://www.amazon.com/gp/product/B015940COK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B015940COK&linkCode=as2&tag=hikeve-20&linkId=BJU5MZ2MPTNXIRPE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B015940COK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B015940COK" width="1" height="1" border="0" alt="The North Face Fuseform Eragon" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 140 grams  
+**Weight:** 140 grams
 **Fabric:** WindWall (100% nylon)
 
 The North Face Fuseform Eragon has fewer seams and a streamlined, Alpine-specific fit.
@@ -96,9 +96,9 @@ The North Face Fuseform Eragon has fewer seams and a streamlined, Alpine-specifi
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00G9HPWU6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G9HPWU6&linkCode=as2&tag=hikeve-20&linkId=BWQUNX6BXF6UDSMC"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00G9HPWU6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00G9HPWU6" width="1" height="1" border="0" alt="Arcteryx Squamish Hoody" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 155 grams  
-**Fabric:** Luminara—Stretch nylon ripstop  
-**Awards:** Outdoor Gear Lab Editors Choice  
+**Weight:** 155 grams
+**Fabric:** Luminara—Stretch nylon ripstop
+**Awards:** Outdoor Gear Lab Editors Choice
 
 The Arcteryx Squamish Hoody comes with a hood, full front zip and a front pocket. This jacket also has cuff adjusters and a reflective logo.
 
@@ -135,7 +135,7 @@ amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
 
 ---
 
-Disclosure: We have not tested the products in this blog post. This blog post contains affiliate links.
+Disclosure: We have not tested the products in this blog post.
 
 ---
 

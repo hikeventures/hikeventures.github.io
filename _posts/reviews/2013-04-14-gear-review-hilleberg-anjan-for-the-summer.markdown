@@ -11,7 +11,7 @@ layout: post
 ---
 A couple of months ago, I was looking for a new tent which I can use during my planned hikes in Sweden and Finland and for other backpacking, packrafting and camping trips.  After some field testing I am now able to write a short review about my experiences with the Hilleberg Anjan 2 which I found to be one of the best 3-season tunnel tents. An alternative would be the Nallo 2 (as a 4-season tent) or the Kaitum 2 (if you need more space). If you are planning to get a 2-person tent then you should get the Anjan 3, Nallo 3 or Kaitum 3. It just feels to crammed in the smaller models but they work very well as 1-person tents. Just as a side note, I went hiking with both - the Anjan 2 and the Anjan 3.
 
-Further, I would not get the GT version If I were to buy the Anjan or the Nallo. If you need a bigger vestibule then its probably better to take a seperate tarp with you. Yor Anjan tent will be more versatile in this way. Further, there is also not that much weight difference between the Anjan 2 and the Anjan 3 so it's probably a good decision to take the Anjan 3 in any case.
+Further, I would not get the GT version If I were to buy the Anjan or the Nallo. If you need a bigger vestibule then its probably better to take a seperate tarp with you. Yor Anjan tent will be more versatile in this way. Further, there is also not that much weight difference between the Anjan 2 and the Anjan 3 so it's probably a good decision to take the Anjan 3 in any case. {% include disclaimer.html %}
 
 <a href="https://www.flickr.com/photos/90204224@N07/8648026950" title="Hilleberg Anjan review"><img src="https://farm9.staticflickr.com/8541/8648026950_c0f7a5fdac_b.jpg" width="600" alt="Hilleberg Anjan label entrance"></a><br>
 <!--more-->
@@ -61,8 +61,6 @@ The Hilleberg Anjan tent seems to be the perfect 3 season tent. It is easy to se
 In the picture below you can see Konstantin preparing his packraft on our one week <a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/">trip</a> in Northern Sweden. In our backpack we also had our Hilleberg Anjan with us. There are as good as no shelters and having a reliable tent was a must for us. The Anjan did quite well!
 
 <a href="http://amzn.to/2evrnml" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
-
-{% include disclaimer.html %}
 
 ---
 

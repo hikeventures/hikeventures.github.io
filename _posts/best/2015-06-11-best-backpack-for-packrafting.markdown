@@ -10,7 +10,7 @@ tags:
   - packrafting
 layout: post
 ---
-In this blog post I would like to present the best backpacks with are available for packrafting. Having used the [HMG Porter 4400](https://www.hyperlitemountaingear.com/4400-porter.html)  for the last 3 years on my packrafting trips I was interested to see which alternatives would be available on the market. Gernerally, speaking I was not able to find any alternative to the HMG Porter 4400 which is that light and feels like a proper backpack when I bought it. Have a look on our <a href="#list">weight comparison table</a> or <a href="#list">watch us</a> packrafting in Sweden.
+In this blog post I would like to present the best backpacks with are available for packrafting. Having used the [HMG Porter 4400](https://www.hyperlitemountaingear.com/4400-porter.html)  for the last 3 years on my packrafting trips I was interested to see which alternatives would be available on the market. Gernerally, speaking I was not able to find any alternative to the HMG Porter 4400 which is that light and feels like a proper backpack when I bought it. Have a look on our <a href="#list">weight comparison table</a> or <a href="#list">watch us</a> packrafting in Sweden. {% include disclaimer.html %}
 
 ---
 
@@ -70,9 +70,9 @@ From my point of view a good packrafting backpack should have the following feat
 ### [HMG Windrider 4400](https://www.hyperlitemountaingear.com/4400-windrider.html)
 The HMG Windrider is similar as the HMG Porter 4400 but comes already with three mesh pockets which I find quite useful if you want to quickly store some gear. This is probably the best lightweight packrafting backpack you can buy at the moment.
 
-**Weight:** 992 grams  
-**Volume:** 70l  
-**Fabric:** 15D Cuben Fiber  
+**Weight:** 992 grams
+**Volume:** 70l
+**Fabric:** 15D Cuben Fiber
 
 <a href="/deals/#windrider+4400" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
 
@@ -85,8 +85,8 @@ The HMG Windrider is similar as the HMG Porter 4400 but comes already with three
 ### [HMG Porter 4400](https://www.hyperlitemountaingear.com/4400-porter.html)
 This is my current backpack with a volume of 70l. It felt comfortable to carry also on longer distances but after 2 years it shows some wear and has a couple of punctures. The HMG Porter is made of Cuben Fiber but I am not sure if I should get another one since I found the fabric not that durable and with punctures on my backpack the backpack loses it's main feature - being waterproof.
 
-**Weight:** 1065 grams  
-**Volume:** 70l  
+**Weight:** 1065 grams
+**Volume:** 70l
 **Fabric:** 15D Cuben Fiber
 
 <a href="/deals/#Porter+4400" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
@@ -96,8 +96,8 @@ This is my current backpack with a volume of 70l. It felt comfortable to carry a
 ### [Sea to Summit Hydraulic Dry Pack](http://www.backcountry.com/sea-to-summit-hydraulic-dry-pack)
 The Sea to Summit Hydraulic Dry Packs looked to me as an interesting alternative to my HMG backpack until I realized that the carrying system could be a problem. It does not have a proper back panel which might be an issue when carrying your backpack over longer distances.
 
-**Weight:** 1319 grams  
-**Volume:** 90l  
+**Weight:** 1319 grams
+**Volume:** 90l
 **Fabric:** 600D TPU laminated fabric
 
 <a href="/deals/#Sea+to+summit+hydraulic+dry+pack" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
@@ -107,8 +107,8 @@ The Sea to Summit Hydraulic Dry Packs looked to me as an interesting alternative
 ### [ULA Epic](http://www.ula-equipment.com/product_p/epic.htm?avad=150351_eb5dd49b)
 The ULA Epic seems to be the best choice beside the NRS Paragon Pack if I want to have a backpack where I can exchange the dry bag. The ULA Epic is quite flexible and you can attach a 30-75l dry back on it. Having had a 70l pack before the additional 5l on a 75l dry back would come quite handy on an extended trip where I have to carry loads of food and my camera with me. The additional pockets on the ULA Epic also add another 9l of volume to the pack.
 
-**Weight:** 922 grams (without dry sack)  
-**Volume:** 30-75l  
+**Weight:** 922 grams (without dry sack)
+**Volume:** 30-75l
 
 <a href="/deals/#ula+epic" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
 
@@ -146,6 +146,6 @@ amzn_assoc_linkid = "fe2ca885eb0a92983eabcb7e7751d0ef";
 
 ---
 
-Disclosure: We have not tested the products in this blog post. This blog post contains affiliate links.
+Disclosure: We have not tested the products in this blog post.
 
 ---

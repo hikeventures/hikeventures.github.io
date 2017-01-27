@@ -9,7 +9,7 @@ tags:
 layout: post
 ---
 
-Written by a husband-and-wife team of authors, this book was published by Appalachian Mountain Club in 2009. On its almost 200 pages it covers a variety of topics, all of which are approached with the peculiarities of winter hiking and camping in mind.
+Written by a husband-and-wife team of authors, this book was published by Appalachian Mountain Club in 2009. On its almost 200 pages it covers a variety of topics, all of which are approached with the peculiarities of winter hiking and camping in mind. {% include disclaimer.html %}
 
 <a href="http://www.flickr.com/photos/90204224@N07/11212388224"><img src="http://farm3.staticflickr.com/2847/11212388224_98e61e4e5c.jpg" width="333" height="500" alt="AMC Guide to Winter Hiking &amp; Camping"></a>
 <!--more-->

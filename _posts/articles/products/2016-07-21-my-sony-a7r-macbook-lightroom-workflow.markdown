@@ -12,7 +12,7 @@ tags:
   - blogging
 layout: post
 ---
-Today (updated 11.10.2016), I would like to present my planned workflow using the Sony A7, Samsung T3, Lightroom and the Macbook Pro 2016 which will probably be released soon. Whenever, I buy a new Macbook I also look on what accessories would be available to improve my photography workflow.
+Today (updated 11.10.2016), I would like to present my planned workflow using the Sony A7, Samsung T3, Lightroom and the Macbook Pro 2016 which will probably be released soon. Whenever, I buy a new Macbook I also look on what accessories would be available to improve my photography workflow. {% include disclaimer.html %}
 
 I bought my <a href="http://amzn.to/2d46BsB" rel="nofollow">Sony A7</a> a few months ago as I wanted to have a full frame camera. The Sony A7 is a real bargain compared to the more expensive <a href="http://amzn.to/2dFsEoM" rel="nofollow">Sony A7RII</a>. At the moment I don't need 4K, hundreds of AF tracking points and burst speed is also not important for me. So there is actually no reason for me to pay 2000 EUR more for a camera where I don't use all the functions.
 
@@ -54,7 +54,6 @@ As a monitor I am planning to connect my Macbook Pro 2016 to the new <a href="ht
 ## Conclusion
 There are several ways to transfer your files and work with them. The process described above is just my personal preference. You could also create a similar workflow with less expensive hard drives but the ones I mentioned in this article are currently my personal favorites even so they might be a bit expensive.
 
-{% include disclaimer.html %}
 
 ---
 

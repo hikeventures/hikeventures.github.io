@@ -3,14 +3,14 @@ title: 14 best Outdoor Books about Hiking and Climbing 2016
 description: Need some adventures? Check our Outdoor Books Guide for 2016
 date: 2014-12-17 17:49:58
 category: articles
-tags: 
+tags:
   - articles
   - best
   - books
   - hiking
 layout: post
 ---
-Here comes our first issue of our Outdoor Books Guide where you can find the latest and most interesting books about outdoor activities, adventures and photography in 2015.
+Here comes our first issue of our Outdoor Books Guide where you can find the latest and most interesting books about outdoor activities, adventures and photography in 2015. {% include disclaimer.html %}
 
 <a href="https://www.flickr.com/photos/90204224@N07/10906593816"><img src="https://farm4.staticflickr.com/3726/10906593816_40d9a30fce_b.jpg" width="1024" height="687"></a><!--more-->
 
@@ -28,14 +28,14 @@ Learn the most important skills to craft resources from your surroundings.
 <a rel="nofollow" href="http://www.amazon.com/gp/product/0062218298/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0062218298&linkCode=as2&tag=hikeve-20&linkId=WCWBK7WPDZR4HYNS"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0062218298&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=0062218298" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Astoria is a three-year true-adventure story of the 1810 Astor Expedition.
- 
+
 ### 4. The Emerald Mile: The Epic Story of the Fastest Ride in History Through the Heart of the Grand Canyon
 <a rel="nofollow" href="http://www.amazon.com/gp/product/1439159866/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1439159866&linkCode=as2&tag=hikeve-20&linkId=ZTLSQ3KZZH3JICUI"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1439159866&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=1439159866" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Maybe a must have if you are a fan of the Grand Canyon and Rafting.
 
 ### 5. America's Great Hiking Trails: Appalachian, Pacific Crest, Continental Divide, North Country, Ice Age
- 
+
 <a rel="nofollow" href="http://www.amazon.com/gp/product/0789327414/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0789327414&linkCode=as2&tag=hikeve-20&linkId=I5DSGJKLFJFOZNJG"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0789327414&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=0789327414" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 This book covers 50,000 miles of trails in the US through 49 states and 8 national parks.

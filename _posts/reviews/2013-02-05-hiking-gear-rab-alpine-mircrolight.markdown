@@ -10,7 +10,7 @@ tags:
 layout: post
 ---
 
-If you are looking for a new down jacket which you can use during your hiking, backpacking or any other backcountry adventure mainly during spring and autumn  or as a midlayer during winter then the Rab Microlight Alpine Jacket could be an option and here comes a short review. I was hiking with this jacket in -5 °C and felt comfortably warm just wearing a t-shirt under it. However, I started to feel cold at this temperature when I was not moving.
+If you are looking for a new down jacket which you can use during your hiking, backpacking or any other backcountry adventure mainly during spring and autumn  or as a midlayer during winter then the Rab Microlight Alpine Jacket could be an option and here comes a short review. I was hiking with this jacket in -5 °C and felt comfortably warm just wearing a t-shirt under it. However, I started to feel cold at this temperature when I was not moving. {% include disclaimer.html %}
 
 <a href="https://www.flickr.com/photos/90204224@N07/8373596834" title="Rab Alpine Microlight Camping hiking backpacking down jacket"><img src="https://farm9.staticflickr.com/8475/8373596834_f7923d2831_b.jpg" width="1024" height="683" alt="Rab Alpine Microlight Ultralight Down Jacket Review"></a>
 <!--more-->
@@ -26,8 +26,6 @@ The Rab Microlight Alpine Jacket weights 345 grams is filled with 140 grams of 7
 
 ## Recommendation
 The Rab Microlight Alpine Jacket is a nice down jacket which is also quite affordable. If you look for a real winter down jacket then the <a href="http://amzn.to/1I4ao2P">Rab Positron Jacket</a> might be an alternative (at least I would pick it as my winter down jacket). However, if you are looking for a jacket which you can wear in the evenings in the camp or as a midlayer during the winter then the Rab Microlight Alpine Jacket is a great choice. Here you can find a <a href="http://www.hikeventures.com/best-down-jackets/">list of my favourite down jackets</a>.
-
-{% include disclaimer.html %}
 
 ---
 

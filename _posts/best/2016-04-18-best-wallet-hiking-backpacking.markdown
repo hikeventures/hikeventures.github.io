@@ -13,7 +13,7 @@ When you are new into hiking and backpacking then you might come up with the que
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25893630833/in/dateposted-public/" title="The best wallet for hiking and backpacking"><img src="https://farm2.staticflickr.com/1706/25893630833_0449df22f3_b.jpg" width="100%" alt="The best wallet for hiking and backpacking"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <!--more-->
 
-Sometimes - especially when you are new into hiking and backacking - you don't really think that much about your wallet. However, when you get  more experience and plan to cut some weight on your gear then you will realize that even changing your wallet can make a difference in weight and functionality.
+Sometimes - especially when you are new into hiking and backacking - you don't really think that much about your wallet. However, when you get  more experience and plan to cut some weight on your gear then you will realize that even changing your wallet can make a difference in weight and functionality. {% include disclaimer.html %}
 
 {% include banner_ad.html %}
 
@@ -36,8 +36,6 @@ If you are on a budget then there is no need to spend a lot of money on expensiv
 
 ##  Conclusion
 If functionality is the main criteria for choosing your wallet for your next hiking or backpacking trip then you should probably go for a cheap plastic bag. If you also want a fashionable wallet which you can use as a regular wallet in the city then I would recommend one of the Fjällräven wallets. To make them 100% waterproof you might however still place it in some sort of plastic bag or at least wax the G-1000 fabric. Personally, I use both - a Fjällräven Zip Card Holder and a plastic bag when I go packrafting.
-
-Disclosure: This blog post contains affiliate links.
 
 ---
 

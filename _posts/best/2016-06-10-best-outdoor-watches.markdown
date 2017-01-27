@@ -14,7 +14,7 @@ tags:
 <h2 style="color:red">Selection of the best lightweight waterproof and water resistant GPS watches for 2017 for ultralight outdoor adventures.</h2>
 <br>
 
-In this blog post I have selected the best outdoor GPS smartwatches which are waterproof or somewhat water resistant and which I would consider to buy. I will also update this article frequently with new models.
+In this blog post I have selected the best outdoor GPS smartwatches which are waterproof or somewhat water resistant and which I would consider to buy. I will also update this article frequently with new models. {% include disclaimer.html %}
 
 The watches presented in this article can be used for hiking, backpacking, running or any other outdoor activity. At the moment I am wearing a [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) which has a monochrome display. I am quite satisfied with my [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) so far but I would be interested to get an outdoor watch which features a color display. Check the weight of the GPS watches on our <a href="#list">comparison table</a> or watch one of our <a href="#video">packrafting videos</a> where we were wearing a GPS watch to track our route.
 
@@ -86,17 +86,17 @@ Probably one disadvantage of watches having a color display and a GPS was their 
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01BKSC14I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01BKSC14I&linkCode=as2&tag=hikeve-20&linkId=5781bd3b5a1ce59a4d231514776f4aff"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01BKSC14I&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01BKSC14I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 34.2 grams  
+**Weight:** 34.2 grams
 **Battery Life:** 18 hours (not in training mode)
-**Operating System:** watchOS 3  
+**Operating System:** watchOS 3
 **Water Resistance:** Water resistance rating of 50 meters under ISO standard 22810:2010
-**Display:** 312x319   
-**Touchscreen:** Force Touch   
-**Wi-Fi:** yes   
-**Bluetooth:** 4.0   
-**Heart Rate Monitor:** wrist-based   
+**Display:** 312x319
+**Touchscreen:** Force Touch
+**Wi-Fi:** yes
+**Bluetooth:** 4.0
+**Heart Rate Monitor:** wrist-based
 **GPS:** yes
-**Wireless charging:** yes   
+**Wireless charging:** yes
 
 The Apple watch SERIES 2 42mm is for those folks who like to have their iPhone with them. The new Apple Watch Series 2 also features a built-in GPS and is an excellent choice if you exercise 1-2 hours a day. However, if you are more into multisport or longer cycling or hiking trips I would rather buy the new Suunto Spartan which can be used much longer in training mode than the Apple Watch Series 2. Both watches - the Suunto Spartan and the Apple Watch Series 2 are suitable for swimmers. However, the Apple Watch Series 2 should not be used for diving.
 
@@ -106,17 +106,17 @@ The Apple watch SERIES 2 42mm is for those folks who like to have their iPhone w
 
 <a href="https://www.amazon.com/gp/product/B016CKHAZO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B016CKHAZO&linkCode=as2&tag=hikeve-20&linkId=4c6098a87f5b1865e89b5e207acc1007" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B016CKHAZO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B016CKHAZO" width="1" height="1" border="0" alt="Motorola Moto 360 Sport" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 54 grams  
-**Battery Life:** 1 day  
-**Operating System:** Android Wear™  
-**Water Resistance:** IP67 - not waterproof   
-**Display:** 360x325   
-**Touchscreen:** no   
-**Wi-Fi:** yes   
-**Bluetooth:** 4.0   
-**Heart Rate Monitor:** Optical heart rate monitor (PPG)   
-**GPS:** yes   
-**Wireless charging:** yes   
+**Weight:** 54 grams
+**Battery Life:** 1 day
+**Operating System:** Android Wear™
+**Water Resistance:** IP67 - not waterproof
+**Display:** 360x325
+**Touchscreen:** no
+**Wi-Fi:** yes
+**Bluetooth:** 4.0
+**Heart Rate Monitor:** Optical heart rate monitor (PPG)
+**GPS:** yes
+**Wireless charging:** yes
 
 Another interesting Outdoor watch is the Motorola Moto 360 Sport which is targeted towards Android users as it has the AndroidWear™ operating system on board. It also features an optical hear rate monitor directly on the watch which can only be found on the Apple watch so far. No need to wear a hear rate monitor around your chest. One highlight of the Moto 360 Sport is probably it's high resolution / display.
 
@@ -128,17 +128,17 @@ Another interesting Outdoor watch is the Motorola Moto 360 Sport which is target
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01MQX3306/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MQX3306&linkCode=as2&tag=hikeve-20&linkId=85e41c5bccf9b616397af8b4fbf4b8f1"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MQX3306&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MQX3306" width="1" height="1" border="0" alt="Garmin Fenix 5" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 98 grams   
+**Weight:** 98 grams
 **Battery Life:** 50 hours (UltraTrac mode), 20 hours (GPS training mode) and 12 days in Smartwatch mode
-**Operating System:** Garmin   
-**Water Resistance:** 100 meters (10ATM)   
-**Display:** 240x240 pixels   
-**Touchscreen:** no   
-**Wi-Fi:** yes   
-**Bluetooth:** 4.0   
-**Heart Rate Monitor:** yes (wrist-based)   
-**GPS:** yes, including GLONASS   
-**Wireless charging:** no   
+**Operating System:** Garmin
+**Water Resistance:** 100 meters (10ATM)
+**Display:** 240x240 pixels
+**Touchscreen:** no
+**Wi-Fi:** yes
+**Bluetooth:** 4.0
+**Heart Rate Monitor:** yes (wrist-based)
+**GPS:** yes, including GLONASS
+**Wireless charging:** no
 
 The Garmin Fenix 5X can be connected to Android and Apple phones and was one of the first proper sport watches which featured a graphic display and is going to be challenged by the new Suunto Spartan Ultra. However, the map function on the Fenix 5X gives the Garmin an edge.
 
@@ -150,17 +150,17 @@ The Garmin Fenix 5X can be connected to Android and Apple phones and was one of 
 
 <a href="https://www.amazon.com/gp/product/B01CY1QXR6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CY1QXR6&linkCode=as2&tag=hikeve-20&linkId=e259bc0b895c4a2b5cc6dec4c027ab7f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01CY1QXR6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01CY1QXR6" width="1" height="1" border="0" alt="Casio WSD-F10" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 93 grams   
-**Battery Life:** 1 day (only color LCD), 3.5 days (only monochrome LCD)   
-**Operating System:** Android Wear™   
-**Water Resistance:** 50 meters   
-**Display:** 320x300 pixels   
-**Touchscreen:** yes   
-**Wi-Fi:** yes   
-**Bluetooth:** 4.1   
-**Heart Rate Monitor:**   
-**GPS:** via Smartphone   
-**Wireless charging:** no   
+**Weight:** 93 grams
+**Battery Life:** 1 day (only color LCD), 3.5 days (only monochrome LCD)
+**Operating System:** Android Wear™
+**Water Resistance:** 50 meters
+**Display:** 320x300 pixels
+**Touchscreen:** yes
+**Wi-Fi:** yes
+**Bluetooth:** 4.1
+**Heart Rate Monitor:**
+**GPS:** via Smartphone
+**Wireless charging:** no
 
 
 The Casio WSD-F10 is the latest smart watch from Casio. It's one of the few watches which have AndroidWear installed as an operating system. If I would have an Android phone then this watch could be an interesting choice if would not need a built in GPS in my watch.
@@ -177,17 +177,17 @@ In general, I found that the Casio WSD-F10 looks quite nice. I like the displays
 
 <a href="https://www.amazon.com/gp/product/B01I05C446/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01I05C446&linkCode=as2&tag=hikeve-20&linkId=c2ad8fc23315853230439ded9ec5099b" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01I05C446&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01I05C446" width="1" height="1" border="0" alt="Suunto Spartan Ultra" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 73 grams   
-**Battery Life:** 18 hours (training mode)   
-**Operating System:** 100 meters  
-**Water Resistance:** ?   
-**Display:** 300x300 pixels   
-**Touchscreen:** yes   
-**Wi-Fi:** no   
-**Bluetooth:** yes    
-**Heart Rate Monitor:** yes   
-**GPS:** yes (incl. GLONASS)   
-**Wireless charging:** no   
+**Weight:** 73 grams
+**Battery Life:** 18 hours (training mode)
+**Operating System:** 100 meters
+**Water Resistance:** ?
+**Display:** 300x300 pixels
+**Touchscreen:** yes
+**Wi-Fi:** no
+**Bluetooth:** yes
+**Heart Rate Monitor:** yes
+**GPS:** yes (incl. GLONASS)
+**Wireless charging:** no
 
 The Suunto Spartan Ultra is the latest smartwatch addition in the Suunto range. Unfortunately, there are no specifications about the Suunto Spartan available yet beside that it's going to be the first Suunto watch which features a colour display. As Suunto watches can be connected to Moveslink - the Suunto Online Sport Community - it is possible to use the Suunto Spartan either with your Android phone or with your iPhone.
 
@@ -227,6 +227,6 @@ amzn_assoc_linkid = "586471a69afcbdad2092eabf0fcc4bbc";
 
 ---
 
-Disclosure: We have not tested the products in this blog post. This blog post contains affiliate links.
+Disclosure: We have not tested the products in this blog post.
 
 ---

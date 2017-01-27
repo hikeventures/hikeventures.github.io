@@ -10,7 +10,7 @@ tags:
 layout: post
 ---
 
-The Petzl Nao Plus is a new headlamp which is able to adapt its light according to the environment which makes it a great headlamp if you need to see far but at the same be able to read e.g. a map at night. You can also set the levels of the lamp manually and adjust the levels via the Petzl software on your PC according to your needs. Moreover, you can also adapt the light with your smartphone via bluetooth. The review below is about the previous model of the Petzl Nao Plus. Beside the bluetooth functionality the new Petzl Nao Plus also features more Lumen (750 Lumen) than the old model.
+The Petzl Nao Plus is a new headlamp which is able to adapt its light according to the environment which makes it a great headlamp if you need to see far but at the same be able to read e.g. a map at night. You can also set the levels of the lamp manually and adjust the levels via the Petzl software on your PC according to your needs. Moreover, you can also adapt the light with your smartphone via bluetooth. The review below is about the previous model of the Petzl Nao Plus. Beside the bluetooth functionality the new Petzl Nao Plus also features more Lumen (750 Lumen) than the old model. {% include disclaimer.html %}
 
 <!--more-->
 
@@ -53,8 +53,6 @@ I have tested the old model of the Petzl Nao headlamp on <a href="http://hikeven
 
 
 <a href="http://amzn.to/2gDm8Nm"><button type="button" class="btn btn-danger"Buy on Amazon</button></a>
-
-{% include disclaimer.html %}
 
 ---
 

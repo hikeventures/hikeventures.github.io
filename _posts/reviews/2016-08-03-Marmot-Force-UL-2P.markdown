@@ -19,9 +19,9 @@ A few weeks ago I received the Marmot Force UL 2P from Marmot to test it on my s
 {% include banner_ad.html %}
 
 ## Initial thoughts
-My first thoughts were that the tent is very light but also found that one peg was missing and that a small piece of the inner tent mesh was a bit distorted. I was a bit worried that the inner tent may not survive one week in the wilderness. The fabric of the tent is quite thin and I was considering using an additional tent footprint under the tent to avoid getting holes into the tent floor. However, I decided to use the tent without the additional tent footprint to test the durability of the tent floor.
+My first thoughts were that the tent is very light but also found that one peg was missing and that a small piece of the inner tent mesh was a bit distorted. I was a bit worried that the inner tent may not survive one week in the wilderness. The fabric of the tent is quite thin and I was considering using an additional tent footprint under the tent to avoid getting holes into the tent floor. However, I decided to use the tent without the additional tent footprint to test the durability of the tent floor. {% include disclaimer.html %}
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408877980/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/9/8664/28408877980_66faf6d0b7_b.jpg" width="683" height="1024" alt="Marmot Force UL 2P Test"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408877980/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/9/8664/28408877980_66faf6d0b7_b.jpg" width="683" height="1024" alt="Marmot Force UL 2P Test"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 That's how it looks like when you lie in the Marmot tent. There were plenty of mosquitoes on my trip in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/).
 
@@ -46,15 +46,15 @@ I pitched the tent the first time without using any manual as I pitched already 
 * The tent has a volume optimized structure which promised more livable space.
 * Two doors and two vestibules makes it easy for 2 people to get in and out as well as organize gear.
 * The tent has a freestanding design which allows to pitch it also in difficult terrain.
-* A lamp shade pocket holds your headlamp    
-* Color Coded "Easy Pitch" clips and poles    
-* Interior pockets to organize small gear    
-* Light-Reflective Points    
-* Weight: 2lbs 14.5oz (1320g)     
-* Tent floor fabric: 20D     
-* Vestibule area 1: 7.9 sq ft, 0.73 sq m    
-* Vestibule area 2: 3.8 sq ft, 0.35 sq m    
-* Tent floor area: 28 sq ft, 2.6 sq m    
+* A lamp shade pocket holds your headlamp
+* Color Coded "Easy Pitch" clips and poles
+* Interior pockets to organize small gear
+* Light-Reflective Points
+* Weight: 2lbs 14.5oz (1320g)
+* Tent floor fabric: 20D
+* Vestibule area 1: 7.9 sq ft, 0.73 sq m
+* Vestibule area 2: 3.8 sq ft, 0.35 sq m
+* Tent floor area: 28 sq ft, 2.6 sq m
 * Tent dimensions: 38 x 50 x 85in, 97 x 127 x 214cm
 * Tent weight: 1300 grams
 
@@ -100,8 +100,6 @@ I liked that the inner tent was completely made of mesh. Here you can see the Ma
 I would recommend the Marmot Force UL 2P if you need a light 3-season solo tent. I liked the weight, the panorama windows on both sides and that there is enough space for your gear under the vestibules. I also did not get any holes in the tent floor during my one week trip. The air flow was also ok with both outer tent doors closed but was even better when slightly opened. The mesh of the inner tent seems to be a bit fragile and should be improved to increase the durability of the inner tent. Apart from that I was quite happy with the tent.
 
 <a href="http://www.backcountry.com/marmot-force-ul-2p-tent-2-person-3-season" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Marmot Force UL 2P</button></a>
-
-{% include disclaimer.html %}
 
 ---
 

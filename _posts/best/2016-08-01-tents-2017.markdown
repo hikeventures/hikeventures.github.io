@@ -12,7 +12,7 @@ tags:
 
 For 2017 we can expect to see plenty of new backpacking tents on the market. The trend goes clearly towards lightweight tents. But are lightweight tents always the best option? It depends. Ultralight gear is sometimes made of materials which are not very durable. For example chances are high that you get a hole in your tent floor if the tent floor fabric is very thin.
 
-However, if you plan to go only ocassionally on outdoor trips or if you are into ultralight backpacking then buying a superlight tent might be a better option even so you may compromise with the durability of the tent. Our <a href="#list">selection</a> below contains only new / updated tents and I might add a few more later on.
+However, if you plan to go only ocassionally on outdoor trips or if you are into ultralight backpacking then buying a superlight tent might be a better option even so you may compromise with the durability of the tent. Our <a href="#list">selection</a> below contains only new / updated tents and I might add a few more later on. {% include disclaimer.html %}
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28098548314/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KKxnAB-KAbydb-Kjpddj-JNYpty-JLZkAy-KAE8HH-KhoVF3-KAE83V-KyaYFJ-GTmgr7-HDjp5s-taZSRR-r5xNhV-pUoWyp-pBYjLk-pC4E8s-oXBrPd-pC1YcN-pEJWqt-pxH68q-pxJgsb-o5hewa-mM6SVH-pUemeM-pgfsSH-pPJqgM-mM722n-mM6tYt-mM7oGe-neeJYC-mM6siX-mM6DHi-mM6JsP-mM6JU2-fauCG5-dL6obB-dLbCzu-dusPDb-duu4Co-duov8P-dwEYBM-dyiAib" title="Best new tents for 2017"><img src="https://c3.staticflickr.com/9/8759/28098548314_3618ccb134_k.jpg" width="2048" height="1365" alt="Best new tents for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -254,7 +254,7 @@ The  Terra Nova Helm tents are outer  first  free-standing  tents and designed f
 <h3><a href="http://www.hikeventures.com/deals/#Therm-a-rest+Slacker" target="_blank"> Therm-a-Rest Slacker Hammock House</a></h3>
 The Hammock House offers a full sleeping package for the backcountry. The Slacker Hammock House packs a bug shelter, hammock, fly and Slacker Suspenders into one stuff sack. The Slacker Hammock House weights 1644 grams.
 
-<h3><a href="http://www.hikeventures.com/deals/#Therm-a-rest+tranquility" target="_blank"> Therm-a-Rest Tranquility 6 Tent</a></h3>  
+<h3><a href="http://www.hikeventures.com/deals/#Therm-a-rest+tranquility" target="_blank"> Therm-a-Rest Tranquility 6 Tent</a></h3>
 The freestanding Tranquility is a 6-person tent offering lots of space, easy set-up, strength and comfort and designed for those who are looking for the ultimate in basecamping luxury. The Tranquility tent also offers pass-through ports for solar/electronic connectivity. The Therm-a-Rest Tranquility 6 weights 7.85 kg.
 
 <h3><a href="http://www.hikeventures.com/deals/#vaude+hogan" target="_blank"> VAUDE Hogan SUL</a></h3>
@@ -292,6 +292,6 @@ amzn_assoc_linkid = "965296fb866182bb89b535202541adda";
 
 ---
 
-Disclosure: We have not tested the products in this blog post. This blog post contains affiliate links.
+Disclosure: We have not tested the products in this blog post.
 
 ---

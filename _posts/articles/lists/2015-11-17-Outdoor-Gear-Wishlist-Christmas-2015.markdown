@@ -3,13 +3,13 @@ title: Outdoor Gear Ideas - Wishlist for Christmas 2015
 description: My outdoor gear wishlist for Christmas 2015
 date: 2015-11-17 07:30:01
 category: articles
-tags: 
+tags:
   - articles
   - christmas
 layout: post
 ---
 
-Christmas 2015 is just around the corner and I decided to share with you my outdoor gear ideas on my christmas wishlist for 2015 and which I intend to use on my next hiking, snowshoing or packrafting adventures (in case I would get the items).
+Christmas 2015 is just around the corner and I decided to share with you my outdoor gear ideas on my christmas wishlist for 2015 and which I intend to use on my next hiking, snowshoing or packrafting adventures (in case I would get the items). {% include disclaimer.html %}
 
 ![][image-1]
 
@@ -46,7 +46,7 @@ The boot features a removable 9mm washable felt inner boot with Omni-Heat reflec
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00HQNFN7Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HQNFN7Y&linkCode=as2&tag=hikeve-20&linkId=JBHEFILSVTR5F75Y"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HQNFN7Y&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00HQNFN7Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## Therm-a-Rest NeoAir XTherm
-The Therm-a-Rest NeoAir Xtherm is the perfect cold weather mattress (R-value: 5.7) for winter but can also be used during the warmer months since it only weights 430 grams (regular size). 
+The Therm-a-Rest NeoAir Xtherm is the perfect cold weather mattress (R-value: 5.7) for winter but can also be used during the warmer months since it only weights 430 grams (regular size).
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00TSFYZAE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TSFYZAE&linkCode=as2&tag=hikeve-20&linkId=TEX7BKCTQBF3VVYQ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00TSFYZAE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00TSFYZAE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 

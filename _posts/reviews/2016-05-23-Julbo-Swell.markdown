@@ -9,7 +9,7 @@ tags:
   - julbo
   - glasses
 ---
-After having had my old sunglasses for over 3 years I thought it was time to upgrade my sunglasses to a newer model. As [we interviewed Julbo on the ISPO 2016](https://www.youtube.com/watch?v=vdb3m52FdvM) in Munich I decided to have a look on their product range and came across the Julbo Swell which could become my new sun glasses for our packrafting trips.
+After having had my old sunglasses for over 3 years I thought it was time to upgrade my sunglasses to a newer model. As [we interviewed Julbo on the ISPO 2016](https://www.youtube.com/watch?v=vdb3m52FdvM) in Munich I decided to have a look on their product range and came across the Julbo Swell which could become my new sun glasses for our packrafting trips. {% include disclaimer.html %}
 
 <a data-flickr-embed="true"  href="http://amzn.to/2eAfBDL" rel="nofollow" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7346/27152697396_5c004ed994_b.jpg" width="100%" alt="Julbo Swell on the Swedish Packrafting Round-Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -23,11 +23,11 @@ Alternatives to the Julbo Swell which I would have considered as packrafting sun
 ---
 
 ## Features
-**Weight:** 28 grams    
-**Lens:** octopus lens cat. 2-4    
-**Frame:** floating, blue-yellow, polypropylene    
-**Strap:** adjustable    
-**Temples:** curved    
+**Weight:** 28 grams
+**Lens:** octopus lens cat. 2-4
+**Frame:** floating, blue-yellow, polypropylene
+**Strap:** adjustable
+**Temples:** curved
 
 ---
 
@@ -98,8 +98,6 @@ If I could think of something negative about the Julbo Swell then it would be th
 > Konstantin testing the Julbo Wave, Trek and Aero sunglasses at the ISPO 2016 in Munich. <a href="http://bit.ly/2evfPMf" rel="nofollow">Subscribe</a> to our YouTube channel if you like our video.
 
 ---
-
-{% include disclaimer.html %}
 
 
 <script type="text/javascript">

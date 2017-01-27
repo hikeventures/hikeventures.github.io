@@ -28,7 +28,7 @@ Where we had a break in a Tipi which we found on our trip.
 <a href="https://www.flickr.com/photos/90204224@N07/16214656449" title="Drinking a cup of tea from a Thermos bottle in Finnish Lapland Winter"><img src="https://farm8.staticflickr.com/7359/16214656449_c93a7a6d00_b.jpg" width="1024" height="647" alt="Drinking a cup of tea from a Thermos bottle in Finnish Lapland Winter"></a><br>
 On the fourth day we went snowshoeing on the top of the the Fells where we enjoyed a warm cup of tea which helped to warm up our body temperature in the cold Fell winds.
 
-<a href="https://www.flickr.com/photos/90204224@N07/16374901266" title="Adventures in Lapland by HikeVentures, on Flickr"><img src="https://farm9.staticflickr.com/8621/16374901266_22e27f2001_b.jpg" width="1024" height="680" alt="Arcteryx Tecto FL Jacket- Tubbs XPlore Snowshoes - Arcteryx Kappa Pants - Thermos Bottle close to the Arctic Circle in Finland"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/16374901266" title="Adventures in Lapland"><img src="https://farm9.staticflickr.com/8621/16374901266_22e27f2001_b.jpg" width="1024" height="680" alt="Arcteryx Tecto FL Jacket- Tubbs XPlore Snowshoes - Arcteryx Kappa Pants - Thermos Bottle close to the Arctic Circle in Finland"></a>
 
 ---
 

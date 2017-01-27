@@ -39,4 +39,4 @@ The text is easy to read and suported by many color picturs, topographical maps,
 ## Conclusion
 The Crossbill Guide for Finnish Lapland including Kuusamo is a very good book which introduces you to the main hiking routes in Finnish Lapland, it's history, climate and flora and fauna (e.g. boreal forest, bogs, birds, insects  or the differences between national parks, strict nature reserves or wilderness reserves etc.). I would definitely recommend it for your bookshelf.
 
-You can get the book at Amazon <a rel="nofollow" href="http://amzn.to/1z4hw9m" target="_blank">US</a> or <a href="http://amzn.to/1trCRWQ" target="_blank">EU</a>.
+You can get the book at Amazon <a rel="nofollow" href="http://amzn.to/1z4hw9m" target="_blank">US</a> or <a href="http://amzn.to/1trCRWQ" target="_blank">EU</a> (affiliate link).

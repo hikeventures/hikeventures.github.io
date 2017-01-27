@@ -10,7 +10,7 @@ tags:
 layout: post
 ---
 
-I was looking for a water purifier which I can take on my hiking, backpacking and packrafting trips which is light and does not need much space and decided to go with a Katadyn Mini + <a href="http://hikeventures.com/gear-review-steripen-freedom/" target="_self">UV SteriPen</a> combination (since the Kadyn Mini is not a solution against Viruses) and here comes a short review.
+I was looking for a water purifier which I can take on my hiking, backpacking and packrafting trips which is light and does not need much space and decided to go with a Katadyn Mini + <a href="http://hikeventures.com/gear-review-steripen-freedom/" target="_self">UV SteriPen</a> combination (since the Kadyn Mini is not a solution against Viruses) and here comes a short review. {% include disclaimer.html %}
 
 <a href="https://www.flickr.com/photos/90204224@N07/8556629391" title="Katadyn Mini"><img src="https://farm9.staticflickr.com/8389/8556629391_d8688af598_b.jpg" width="600" alt="Katadyn Mini Water Filter hiking backpacking package unboxing"></a>
 

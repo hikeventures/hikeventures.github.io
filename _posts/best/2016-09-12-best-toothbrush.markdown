@@ -12,7 +12,7 @@ layout: post
 
 Planning a hiking or backpacking trip to the backcountry or are you planning to travel abroad? Then you could have a look on the best toothbrushes which I have selected below which feature a compact design and are easy to pack.
 
-The compact design of of a travel toothbrush not only provides you with more space but also less weight as every gram counts especially if you are into ultralight backpacking. Gum or periodontal disease can cause tooth loss so it's important to keep your tooth clean even so you are in the nature.
+The compact design of of a travel toothbrush not only provides you with more space but also less weight as every gram counts especially if you are into ultralight backpacking. Gum or periodontal disease can cause tooth loss so it's important to keep your tooth clean even so you are in the nature. {% include disclaimer.html %}
 
 <!--more-->
 
@@ -26,7 +26,7 @@ The tri-fold design of the GUM Travel Folding Soft Toothbrush enables the brush 
 
 <a href="http://amzn.to/2gbHMYG" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
----  
+---
 
 <h2><a href="http://amzn.to/2fNchYf" rel="nofollow">Colgate Value Travel Toothbrush</a></h2>
 
@@ -34,7 +34,7 @@ The tri-fold design of the GUM Travel Folding Soft Toothbrush enables the brush 
 
 The Colgate Value Travel Toothbrush is an easy-to-carry toothbrush which folds into a compact size and includes a cover to keep bristles clean.
 
-<a href="http://amzn.to/2fNchYf" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>   
+<a href="http://amzn.to/2fNchYf" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -48,6 +48,6 @@ The GUM Travel Toothbrush features a compact and convenient design for travellin
 
 ---
 
-Disclosure: We have not tested the products in this blog post. This blog post contains affiliate links.
+Disclosure: We have not tested the products in this blog post.
 
 ---

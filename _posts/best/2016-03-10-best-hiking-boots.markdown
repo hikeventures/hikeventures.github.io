@@ -15,7 +15,7 @@ published: true
 <h2 style="color:red">Selection of the best lightweight hiking boots 2017 for ultralight outdoor adventures.</h2>
 <br>
 
-Proper hiking boots are important if you are planning to hike in the mountains or with a heavy backpack. For day trips which are not that demanding [lightweight hiking shoes](http://www.hikeventures.com/best-ultralight-hiking-shoes/) could be an alternative to traditional hiking boots. However, after my trips in the [Alps](http://www.hikeventures.com/e5-crossing-the-alps-from-germany-to-italy/) and in [Swedish Lapland](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) I am not such a fan of ultralight hiking shoes and would rather take a pair of proper hiking boots with me. Here is my <a href="#list">selection</a> of the best hiking boots for 2017.
+Proper hiking boots are important if you are planning to hike in the mountains or with a heavy backpack. For day trips which are not that demanding [lightweight hiking shoes](http://www.hikeventures.com/best-ultralight-hiking-shoes/) could be an alternative to traditional hiking boots. However, after my trips in the [Alps](http://www.hikeventures.com/e5-crossing-the-alps-from-germany-to-italy/) and in [Swedish Lapland](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) I am not such a fan of ultralight hiking shoes and would rather take a pair of proper hiking boots with me. Here is my <a href="#list">selection</a> of the best hiking boots for 2017. {% include disclaimer.html %}
 
 ---
 
@@ -93,7 +93,7 @@ Proper hiking boots are important if you are planning to hike in the mountains o
 
 <hr>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27313686292/in/dateposted-public/" title="Lundhags Jaure Light"><img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="100%" alt="The best Hiking Boots 2017 - Lundhags Jaure Light"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>   
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27313686292/in/dateposted-public/" title="Lundhags Jaure Light"><img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="100%" alt="The best Hiking Boots 2017 - Lundhags Jaure Light"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <hr>
 
@@ -342,6 +342,6 @@ If you need arch support on your hiking boots then you should probably buy a sep
 
 ---
 
-Disclosure: We have not tested the products in this blog post. This blog post contains affiliate links.
+Disclosure: We have not tested the products in this blog post.
 
 ---

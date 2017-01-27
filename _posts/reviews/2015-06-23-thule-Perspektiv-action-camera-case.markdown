@@ -11,7 +11,7 @@ tags:
 layout: post
 ---
 
-Being active outdoors and recording your special moments has never been easier. All you need to do is to use an action camera for it. With the new cameras and their accessories appearing on the market each year, there is no wonder that more and more people take them on their travels. And I am not very different as I have two GoPro cameras and a plethora of mounts, chargers and housings, which I have to lug around with me in-between the adventures, which, in my 3+ years’ of experience, can pose a number of problems. This review is about how Thule Perspektiv Action Camera Case (provided by Thule to review) helped me to solve most of them.  
+Being active outdoors and recording your special moments has never been easier. All you need to do is to use an action camera for it. With the new cameras and their accessories appearing on the market each year, there is no wonder that more and more people take them on their travels. And I am not very different as I have two GoPro cameras and a plethora of mounts, chargers and housings, which I have to lug around with me in-between the adventures, which, in my 3+ years’ of experience, can pose a number of problems. This review is about how Thule Perspektiv Action Camera Case (provided by Thule to review) helped me to solve most of them. {% include disclaimer.html %} 
 
 <a href="https://www.flickr.com/photos/90204224@N07/18907331248" title="Thule Perspektiv Action Camera Case"><img src="https://c4.staticflickr.com/4/3694/18907331248_d941470a7e_b.jpg" width="1024" height="768" alt="Thule Perspektiv Action Camera Case"></a>
 
@@ -27,11 +27,11 @@ To solve this problem, I started to take out the battery and keep it separately 
 
 So, is there a working solution that can a) protect the camera and b) help to keep all necessary accessories in one place?
 
-There is. At least I found one in Thule Perspektiv Action Camera Case.  
+There is. At least I found one in Thule Perspektiv Action Camera Case.
 
 <a href="https://www.flickr.com/photos/90204224@N07/19089321152" title="Thule Perspektiv Action Camera Case"><img src="https://c4.staticflickr.com/4/3853/19089321152_2718c3d66c_b.jpg" width="1024" height="680" alt="10s" alt="Thule Perspektiv Action Camera Case"></a>
 
-Looking at the case, I feel that the Thule designers have definitely taken these two points into consideration. The case is divided into two separate parts: the bottom semi-hard compartment with the padded inside for your camera and the top soft section with the roll-down closure that can be used to store most of your mounts and other extras.  
+Looking at the case, I feel that the Thule designers have definitely taken these two points into consideration. The case is divided into two separate parts: the bottom semi-hard compartment with the padded inside for your camera and the top soft section with the roll-down closure that can be used to store most of your mounts and other extras.
 
 <a href="https://www.flickr.com/photos/90204224@N07/18907329788" title="Thule Perspektiv Action Camera Case"><img src="https://c1.staticflickr.com/1/443/18907329788_c6fcb87dc4_b.jpg" width="1024" height="680" alt="Thule Perspektiv Action Camera Case"></a>
 
@@ -40,7 +40,7 @@ The lower crushproof compartment is not designed to house one particular action 
 According to my calculations, it is easily possible to fit 4 smaller types of GoPro cameras (i.e., Hero 3 and newer) in their housings, if they are placed vertically. But if you have only one camera, I would keep it with something else (a chest harness or a head strap) just to make sure it does not get lonely and start rattling around. In this case having a die-cut foam pad could have been a plus.
 
 Another advantage of such foam pads is that they can usually be taken out and washed. This means that when using Thule Perspektiv Action Camera Case, which does not have this option, you have to be careful to make sure that you clean the camera and accessories before you put them back into the case. Otherwise it might be difficult to clean it.
-Besides the padded walls and the bottom, the lower compartment also has a soft flap that serves to protect the content from the top and, at the same time, has three elasticated mash pockets for storing spare memory cards or batteries. It is kept in place using Velcro.  
+Besides the padded walls and the bottom, the lower compartment also has a soft flap that serves to protect the content from the top and, at the same time, has three elasticated mash pockets for storing spare memory cards or batteries. It is kept in place using Velcro.
 
 <a href="https://www.flickr.com/photos/90204224@N07/18474298773" title="Thule Perspektiv Action Camera Case"><img src="https://c1.staticflickr.com/1/397/18474298773_8cc1c26f80_b.jpg" width="1024" height="680" alt="Thule Perspektiv Action Camera Case"></a>
 
@@ -50,15 +50,15 @@ In contrast to this, the interior of the top roll-down stash compartment is the 
 
 <a href="https://www.flickr.com/photos/90204224@N07/18907262900" title="Thule Perspektiv Action Camera Case"><img src="https://c4.staticflickr.com/4/3674/18907262900_f66b82b2db_b.jpg" width="1024" height="680" alt="Thule Perspektiv Action Camera Case"></a>
 
-Though, the roll-down type of closer of the upper compartment is usually associated with the waterproof bags, this case is definitely not waterproof, and is more designed to be carried inside your pack. When necessary, it seems to be able to withstand some rain (e.g., the roll-down stash compartment has a taped seam and the coated inside; in general, the standard of workmanship of the bag is really high - no wonder they give 25 years of warranty), but I would not classify it anything more than splash-proof (though it is definitely snow-proof).  
+Though, the roll-down type of closer of the upper compartment is usually associated with the waterproof bags, this case is definitely not waterproof, and is more designed to be carried inside your pack. When necessary, it seems to be able to withstand some rain (e.g., the roll-down stash compartment has a taped seam and the coated inside; in general, the standard of workmanship of the bag is really high - no wonder they give 25 years of warranty), but I would not classify it anything more than splash-proof (though it is definitely snow-proof).
 
 <a href="https://www.flickr.com/photos/90204224@N07/19098272791" title="Thule Perspektiv Action Camera Case"><img src="https://c1.staticflickr.com/1/551/19098272791_d6a8ccc470_b.jpg" width="1024" height="680" alt="Thule Perspektiv Action Camera Case"></a>
 
-And that is something that I would like to see improved. I am not worried about the cameras and the accessories – they are designed to get wet (in Russian we have a saying that “tanks are not afraid of mud” and the action cameras are actually the tanks of outdoor filming and photography). But what has to stay dry are the spare batteries and accumulators. So far, what I have done was to place the camera case into a dry bag. But it is not always easy to reach the contents this way, nor do you have a lot of options of attaching it to the pack.  
+And that is something that I would like to see improved. I am not worried about the cameras and the accessories – they are designed to get wet (in Russian we have a saying that “tanks are not afraid of mud” and the action cameras are actually the tanks of outdoor filming and photography). But what has to stay dry are the spare batteries and accumulators. So far, what I have done was to place the camera case into a dry bag. But it is not always easy to reach the contents this way, nor do you have a lot of options of attaching it to the pack.
 
 <a href="https://www.flickr.com/photos/90204224@N07/19098272731" title="Thule Perspektiv Action Camera Case"><img src="https://c1.staticflickr.com/1/481/19098272731_640ea67a71_b.jpg" width="1024" height="680" alt="Thule Perspektiv Action Camera Case"></a>
 
-Carrying and attaching the case to the pack is another issue altogether. As I have already mentioned, it seems that it is designed to be carried inside, rather than outside the pack. But when both the top and the bottom parts are fully packed, it quickly makes me wish I could attach it on the outside (my main backpack is HMG Porter 4400, which is a great and light pack, but has very limited space, especially if I have to pack for an overnight packrafting trip). And, even though there seems to be no designated attachment point, I found that I can do it in three different ways. If I have a big carabiner, I can use it to attach the case to my belt, harness or pack by putting it through the snap buckle of the roll-down compartment (this way I can still open and close the top compartment without detaching the carabiner, though I would still need to unhook the case). Another option is to use two smaller carabiners by putting them through the small loops at the ends of the zip. Finally, and in a way it is the lightest and easiest option, it is possible to use the roll-down closer itself, which makes a great handle as well.  
+Carrying and attaching the case to the pack is another issue altogether. As I have already mentioned, it seems that it is designed to be carried inside, rather than outside the pack. But when both the top and the bottom parts are fully packed, it quickly makes me wish I could attach it on the outside (my main backpack is HMG Porter 4400, which is a great and light pack, but has very limited space, especially if I have to pack for an overnight packrafting trip). And, even though there seems to be no designated attachment point, I found that I can do it in three different ways. If I have a big carabiner, I can use it to attach the case to my belt, harness or pack by putting it through the snap buckle of the roll-down compartment (this way I can still open and close the top compartment without detaching the carabiner, though I would still need to unhook the case). Another option is to use two smaller carabiners by putting them through the small loops at the ends of the zip. Finally, and in a way it is the lightest and easiest option, it is possible to use the roll-down closer itself, which makes a great handle as well.
 
 <a href="https://www.flickr.com/photos/90204224@N07/18472458674" title="Thule Perspektiv Action Camera Case"><img src="https://c1.staticflickr.com/1/394/18472458674_c41b8c5701_b.jpg" width="1024" height="680" alt="Thule Perspektiv Action Camera Case"></a>
 
@@ -75,8 +75,6 @@ On the other hand, the answer is “no”, because for its size and capacity, th
 On the whole, even though it is not waterproof and weighs almost 230 grams, I really like the storage space, the two separate compartments (each one designed for a different purpose), the adaptability and versatility of its usage as well as the overall quality of the case. Once again, this Thule Perspektiv Action Camera Case shows that it was designed with the needs of the end customer in mind and it does what it promises to do – to keep your action camera(s) safe and in one place in-between the jobs.
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Thule-Perspektiv-Action-Sports-Camera-Case_10246911_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Thule Perspektiv Action Camera Case</button></a>
-
-{% include disclaimer.html %}
 
 ---
 

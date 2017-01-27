@@ -10,7 +10,7 @@ layout: post
 ---
 
 
-I have compiled a list with essential items which are on my backpacking gear list when going for an overnight hiking trip. This list is my personal list so you can add other items to the list as well if you feel that there is a need of having them on your own outdoor adventure. To see the list and the weight of each item click <a href="#list">here</a>. 
+I have compiled a list with essential items which are on my backpacking gear list when going for an overnight hiking trip. This list is my personal list so you can add other items to the list as well if you feel that there is a need of having them on your own outdoor adventure. To see the list and the weight of each item click <a href="#list">here</a>. {% include disclaimer.html %}
 <a href="https://www.flickr.com/photos/90204224@N07/8730115713"><img src="https://farm8.staticflickr.com/7376/8730115713_639c658b91_b.jpg" width="100%" alt="Overnight Backpacking Gear List - Therm-a-rest Z Sol and Exped Synmat UL7 and Katabatic Gear Chisos"></a>
 
 ## Considerations for a gear list
@@ -26,14 +26,14 @@ I have compiled a list with essential items which are on my backpacking gear lis
 ## Tent or Bivy
 A tent or a bivy is essential to protect you against rain, wind and mosquitoes. If there is a shelter available on your destination then you can also just take a mosquitoe net with you and safe some weight. However, you never know if the shelter is used by other hikers so it's better to take a tent with you.
 
-Personally, I always take my <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/">Hilleberg Anjan 3</a> with me. This is my standard tent and perfect for hikes with 2 people (even so it says 3) because the extra space comes quite handy if you have to sit in the tent for a longer period or if you just need more space to roll around in the tent, store some gear or if you just want to play cards. Of course, the 2 person tent saves you some weight but after having had the 2 person Hilleberg Anjan for a while I won't miss the space and comfort which I get with the <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/">Hilleberg Anjan 3</a> if I go hiking with a friend. Here is a <a href="http://www.hikeventures.com/best-tents-for-backpacking-and-packrafting/">list</a > with good tents. 
+Personally, I always take my <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/">Hilleberg Anjan 3</a> with me. This is my standard tent and perfect for hikes with 2 people (even so it says 3) because the extra space comes quite handy if you have to sit in the tent for a longer period or if you just need more space to roll around in the tent, store some gear or if you just want to play cards. Of course, the 2 person tent saves you some weight but after having had the 2 person Hilleberg Anjan for a while I won't miss the space and comfort which I get with the <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/">Hilleberg Anjan 3</a> if I go hiking with a friend. Here is a <a href="http://www.hikeventures.com/best-tents-for-backpacking-and-packrafting/">list</a > with good tents.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9596230289" title="Hiking and Packrafting in Sarek"><img src="https://farm3.staticflickr.com/2822/9596230289_599fa0cde2_b.jpg" width="100%" alt="Essential gear for overnight backpacking trips is a tent like the Hilleberg Nallo or Anjan"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Sleeping Pad
 The last 2 years I have used the <a
 href="javascript: void 0" onclick="avPcwShowPopupFromSearch('Exped Synmat UL 7','search_results_count=5');">Exped Synmat UL 7</a> which has worked quite well for me especially in the summer months. However, since I live in Scandinavia I realized that the Exped might reach it's limitations already in mid- or late autumn. Once the temperatures drop to 0C in the night you feel the cold on your back. That's why I recently purchased the Therm-a-Rest NeoAir <a
-href="javascript: void 0" onclick="avPcwShowPopupFromSearch('XTherm MAX','search_results_count=5');">XTherm MAX</a> which is also suitable for winter camping. The MAX version is squared size and I also bought the large version since the 
+href="javascript: void 0" onclick="avPcwShowPopupFromSearch('XTherm MAX','search_results_count=5');">XTherm MAX</a> which is also suitable for winter camping. The MAX version is squared size and I also bought the large version since the
 regualar version is just 183 cm and I am 180 cm. From my experience I always ended up with my legs on the cold tent floor if the sleeping pad is not squared sized or too short. With an 'oversized' sleeping pad I don't have this proble. Again, it adds a few grams to the regular version but then I am outdoors to enjoy my time and not to wake up in the night just to realize that I have cold feed. Ultralight hikers might have a different opinion though. Another advantage with the large pad is that you don't need an additional pillow. Just take some of your clothes and use them as a pillow. If you look for a summer pad then you should have a look at the new <a
 href="javascript: void 0" onclick="avPcwShowPopupFromSearch('Therm-a-Rest EvoLite','search_results_count=5');">Therm-a-Rest EvoLite</a>. A list of the latest sleeping pads can be found <a href="http://www.hikeventures.com/Best-sleeping-pads//">here</a >.
 
@@ -41,7 +41,7 @@ href="javascript: void 0" onclick="avPcwShowPopupFromSearch('Therm-a-Rest EvoLit
 A stove is a must have on every overnight hiking trip. If I feel cold then I make a break and boil some tea. Voila, I feel warm again. If you have dehydrated food (e.g. the ready made food from the camping store) then you can just boil your water and pour it into the package. Before you buy a stove you have to consider if you want to fry something or if you just want to boil water. If you want to try something then it's going to have an impact on the weight as you also need a frying pan and maybe a plate. If you use dehydrated food from the camping store then you can eat straight from the package. So no plates and cleaning needed. I would recommend the <a
 href="javascript: void 0" onclick="avPcwShowPopupFromSearch('Jetboil Sol Ti','search_results_count=5');">Jetboil Sol Ti</a> or the <a
 href="javascript: void 0" onclick="avPcwShowPopupFromSearch('MSR Windboiler','search_results_count=5');">MSR Windboiler</a> if you just want to boil water and if you have your gas cartridge with you. If you need a more flexible solution concerning the gas you are burning the you should consider the <a
-href="javascript: void 0" onclick="avPcwShowPopupFromSearch('MSR Whisperlite International','search_results_count=5');">MSR Whisperlite International</a>. This stove is also useful if you want to fry food and not just boil water.You can find a list of the latest stoves <a href="http://hikeventures.com/best-backpacking-stoves/">here</a >. Also I pack matches as a backup solution into my backpack even so some stoves can be started without them. If you need a spoon or a fork you might be interested in a Spork. 
+href="javascript: void 0" onclick="avPcwShowPopupFromSearch('MSR Whisperlite International','search_results_count=5');">MSR Whisperlite International</a>. This stove is also useful if you want to fry food and not just boil water.You can find a list of the latest stoves <a href="http://hikeventures.com/best-backpacking-stoves/">here</a >. Also I pack matches as a backup solution into my backpack even so some stoves can be started without them. If you need a spoon or a fork you might be interested in a Spork.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9596216703"><img src="https://farm4.staticflickr.com/3748/9596216703_3f4c4db24f_b.jpg" class="img-responsive" width="100%" alt="Essential overnigh backpacking gear - camping stove like the Jetboil Sol, MiniMo, MicroMo or MSR WindBoiler"></a>
 
@@ -50,7 +50,7 @@ A quilt comes quite handy during the summer months or if you want to save weight
 href="javascript: void 0" onclick="avPcwShowPopupFromSearch('Marmot Sawtooth','search_results_count=5');">Marmot Sawtooth</a> or the <a
 href="javascript: void 0" onclick="avPcwShowPopupFromSearch('Fjällräven Abisko','search_results_count=5');">Fjallraven Abisko</a> are filled with such down and they are not as that expensive as the once offered e.g. by Yeti.
 
-## Medical Aid Kit  
+## Medical Aid Kit
 A medical kit is a must have in your backpack e.g. the <a
 href="javascript: void 0" onclick="avPcwShowPopupFromSearch('Ultralight & Watertight First Aid Kit','search_results_count=5');"> Adventure Medical Kits Ultralight & Watertight</a> could be an interesting product especially if you are also into water sports like kayaking or packrafting. Also a  <a
 href="javascript: void 0" onclick="avPcwShowPopupFromSearch('Thermal blanket','search_results_count=5');"> Thermal Blanket</a> should be in your backpack. You can also use it on your sleeping pad if you feel that cold is coming up. Moreover, it's a good idea to have a mobile phone or - in case there is no phone signal - a  <a
@@ -104,7 +104,7 @@ I always take merino pants and a merino long sleeve shirt with me. Usually, I we
 If you are planning to cross borders a valid ID and if necessary a visa for the country you are planning to visit should be in your backpack.
 
 ## Insurance
-A travel insurance which covers you if something happens. Make sure that your insurance also covers hiking activities. 
+A travel insurance which covers you if something happens. Make sure that your insurance also covers hiking activities.
 
 ## Hiking Boots
 Light hiking boots e.g. the <a
@@ -114,7 +114,7 @@ href="javascript: void 0" onclick="avPcwShowPopupFromSearch('Salomon XA Pro Mid 
 Preferably they should be fast drying. A synthetic/cotton fabric will dry fast and is still comfortable on the skin. The <a
 href="javascript: void 0" onclick="avPcwShowPopupFromSearch('Fjallraven Abisko trousers','search_results_count=5');">Fjallraven Abisko</a> trouser are my favourit pants. They are light, stretchy and perfect for hill walking.
 
-## <a name="list">Weight Gear List</a> 
+## <a name="list">Weight Gear List</a>
 <table>
     <thead>
     <tr>

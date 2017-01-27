@@ -14,14 +14,14 @@ tags:
 layout: post
 ---
 
-Today, I grabbed my camera in the afternoon trying to capture some sunset pictures with my Sony A7r on the neighbouring island where I live. The last week has been cloudy and I really looked forward to get out for a walk and evaluating at the same time if I should get a new Zeiss Loxia 35mm 2.0 lens.
+Today, I grabbed my camera in the afternoon trying to capture some sunset pictures with my Sony A7r on the neighbouring island where I live. The last week has been cloudy and I really looked forward to get out for a walk and evaluating at the same time if I should get a new Zeiss Loxia 35mm 2.0 lens. {% include disclaimer.html %}
 <a href="https://www.flickr.com/photos/90204224@N07/15182978924"><img src="https://farm9.staticflickr.com/8546/15182978924_06f8926249_h.jpg" width="1600" height="1068" alt="Zeiss Loxia 35mm 2.0 2.8"></a>
 
 <!--more-->
 
 {% include banner_ad.html %}
 
-In general the Sony 35mm renders also nice pictures as you can see in this article. I like to play around with objects in the foreground and a blured background. However, with the Sony 35mm F2.8 Sonnar T* FE ZA lens the manual focusing is working ok but it's not perfect. Manual focusing on the Zeiss Loxia 35mm will be much smoother and the Loxia will give me some additional light and more creative possibilities than my current Sony 35mm 2.8.  
+In general the Sony 35mm renders also nice pictures as you can see in this article. I like to play around with objects in the foreground and a blured background. However, with the Sony 35mm F2.8 Sonnar T* FE ZA lens the manual focusing is working ok but it's not perfect. Manual focusing on the Zeiss Loxia 35mm will be much smoother and the Loxia will give me some additional light and more creative possibilities than my current Sony 35mm 2.8.
 
 <a href="https://www.flickr.com/photos/90204224@N07/15183478053"><img src="https://farm9.staticflickr.com/8609/15183478053_5619ab8d40_h.jpg" width="1600" height="1068" alt="Zeiss Loxia 35mm 2.0 2.8"></a>
 I am not that much into video yet but for the future the Loxia would have an advantage here as well since it comes with a tool to remove the clicks when focusing which could be disturbing when taking videos.

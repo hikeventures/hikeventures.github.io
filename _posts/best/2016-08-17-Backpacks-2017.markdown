@@ -12,7 +12,7 @@ tags:
 
 Are you looking for a new backpack in 2017 for your next hiking or backpacking adventures? Here is a <a href="#list">selection</a> of the best new backpack models for 2017.
 
-When buying a backpack it's usually a good idea to buy a backpack for a specific purpose. For a multiday hiking trip you should get probably the largest size possible (depending on how much clothes and food you need).
+When buying a backpack it's usually a good idea to buy a backpack for a specific purpose. For a multiday hiking trip you should get probably the largest size possible (depending on how much clothes and food you need). {% include disclaimer.html %}
 
 ---
 
@@ -152,6 +152,6 @@ amzn_assoc_linkid = "965296fb866182bb89b535202541adda";
 
 ---
 
-Disclosure: We have not tested the products in this blog post. This blog post contains affiliate links.
+Disclosure: We have not tested the products in this blog post.
 
 ---

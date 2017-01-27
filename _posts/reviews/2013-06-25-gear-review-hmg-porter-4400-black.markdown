@@ -10,7 +10,7 @@ tags:
 layout: post
 ---
 
-Since I recently purchased a packraft, I realised quickly that my <a href="http://hikeventures.com/gear-review-laufbursche-huckepack-hp450/" target="_self">Laufbursche Huckepack</a>  is going to be a bit small for a multi-day packrafting trip. So I decided to order a Hyperlite Mountain Gear Porter 4400. I have used the Porter for a couple of years and I am quite happy with it as I can use it as an ultralight backpack for hiking, backpacking, packrafting and other backcountry trips. Here is a short review and some pictures of the Hyperlite Mountain Gear Porter 4400.
+Since I recently purchased a packraft, I realised quickly that my <a href="http://hikeventures.com/gear-review-laufbursche-huckepack-hp450/" target="_self">Laufbursche Huckepack</a>  is going to be a bit small for a multi-day packrafting trip. So I decided to order a Hyperlite Mountain Gear Porter 4400. I have used the Porter for a couple of years and I am quite happy with it as I can use it as an ultralight backpack for hiking, backpacking, packrafting and other backcountry trips. Here is a short review and some pictures of the Hyperlite Mountain Gear Porter 4400. {% include disclaimer.html %}
 
 <a href="https://www.flickr.com/photos/90204224@N07/9185837748" title="HMG Porter 4400 "><img src="https://farm8.staticflickr.com/7392/9185837748_10b63a2e5d_b.jpg" width="600" height="661" alt="Hyperlite Mountain Gear HMG Porter 4400 black"></a>
 <!--more-->
@@ -60,8 +60,6 @@ HMG Porter 4400 on our trip in <a href="http://www.hikeventures.com/hiking-and-p
 I have tested the HMG Porter 4400 for a couple of years on hiking and packrafting trips. On long backpacking trips saving weight is quite important. I wouldn't say that the HMG Porter 4400 is super durable (I got 2 tiny wholes in my backpack after 3 years), however there is hardly any gear available which will not wear off after some time. Having a somewhat waterproof backpack and saving 1-2 kg on weight due to the lower weight of the Porter its quite worth the investment. I am going to patch the holes in my backpack and then it should be fine for another 1-2 years.
 
 <a href="https://www.hyperlitemountaingear.com/4400-porter.html"><button type="button" class="btn btn-danger">Read more about the HMG Porter 4400</button></a>  
-
-{% include disclaimer.html %}
 
 ---
 

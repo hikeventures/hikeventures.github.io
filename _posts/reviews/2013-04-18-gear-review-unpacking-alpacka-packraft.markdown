@@ -9,7 +9,7 @@ tags:
 layout: post
 ---
 
-This year I am going to enhance my outdoor experience by using an Alpacka Raft Yukon Yak. Even so it weights around 3.5 kg including paddle I believe this is still a weight worth to carry for some additional fun even so if you hike ultralight. Here comes a short unboxing review of the Alpacka Raft Yukon Yak.
+This year I am going to enhance my outdoor experience by using an Alpacka Raft Yukon Yak. Even so it weights around 3.5 kg including paddle I believe this is still a weight worth to carry for some additional fun even so if you hike ultralight. Here comes a short unboxing review of the Alpacka Raft Yukon Yak. {% include disclaimer.html %}
 
 <a href="https://www.flickr.com/photos/90204224@N07/8661323336" title="Alpacka Packraft "><img src="https://farm9.staticflickr.com/8116/8661323336_e3cfb2dc1d_b.jpg" width="600" alt="Alpacka Packraft Yukon Yak"></a>
 

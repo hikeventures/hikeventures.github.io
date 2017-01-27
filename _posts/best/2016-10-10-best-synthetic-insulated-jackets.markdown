@@ -15,7 +15,7 @@ layout: post
 
 Are you looking for a synthetic insulated jacket for your next outdoor adventure? Then you are probably looking for an alternative to goose down jackets either because of ethical reasons or because you are planning to wear your jacket in damp or humid environment where a down jacket may loose it's insulation capabilities when getting wet.
 
-Here is our <a href="#list">selection</a> of the best synthetic insulated jackets for 2017 which we have selected as our favorites for this year which included models which can be either worn during the summer or during the winter and for different activities like backpacking, skiing, hiking, snowboarding, climbing or on any other outdoor adventure.
+Here is our <a href="#list">selection</a> of the best synthetic insulated jackets for 2017 which we have selected as our favorites for this year which included models which can be either worn during the summer or during the winter and for different activities like backpacking, skiing, hiking, snowboarding, climbing or on any other outdoor adventure. {% include disclaimer.html %}
 
 ---
 
@@ -69,7 +69,7 @@ When choosing a synthetic insulated jacket then you are selecting a more durable
           </tr>
         <tr>
           <td><a href="http://amzn.to/2hKcJEG" target="_blank" rel="nofollow">Arcteryx Fission SV Jacket</a></td><td>935g</td>
-        </tr>  
+        </tr>
         </tbody>
 
       </table>
@@ -88,7 +88,7 @@ Sometimes you might also get a down jacket for a significant lower price especia
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00Q9MHO70/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q9MHO70&linkCode=as2&tag=hikeve-20&linkId=4ea3c7e2e31306af352a91c4885d7144"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00Q9MHO70&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00Q9MHO70" width="1" height="1" border="0" alt="Arcteryx Cerium LT Hoody" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 295g  
+**Weight:** 295g
 
 The Arcteryx Cerium LT Hoody is not a pure synthetic insulated jacket and replaces the synthetic insulation with 850 goose down on areas where moisture may build up. With 295 grams it's the lightest jacket in our list. This jacket is useful for active people but you may rather pick a different jacket if you are planning to visit a very wet or humid place.
 
@@ -158,7 +158,7 @@ The Mountain Equipment Fitzroy Jacket is a wind and water resistant jacket fille
 
 <hr>
 
-<h3><a href="http://amzn.to/2izVzhg" target="_blank" rel="nofollow">Rab Photon X Jacket</a></h3>  
+<h3><a href="http://amzn.to/2izVzhg" target="_blank" rel="nofollow">Rab Photon X Jacket</a></h3>
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B013HANSVC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B013HANSVC&linkCode=as2&tag=hikeve-20&linkId=1bd8744e8a5cfb28bcdca42bf11532fd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B013HANSVC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B013HANSVC" width="1" height="1" border="0" alt="Rab Photon X Jacket" style="border:none !important; margin:0px !important;" />
 
@@ -183,7 +183,7 @@ The Arcteryx Fission SV Jacket is a waterproof, insulated jacket with Coreloftâ„
 
 
 <hr>
-Disclosure: We have been hiking, packrafting and snowshoeing in Scandinavia, Russia and Continental Europe (read our [trip reports](http://www.hikeventures.com/destinations/)) and even so we were not able to test every product in this blog post, we follow the market and compare the specifications of new products. This blog post contains affiliate links.
+Disclosure: We have not tested all products in this post.
 <hr>
 
 <script type="text/javascript">

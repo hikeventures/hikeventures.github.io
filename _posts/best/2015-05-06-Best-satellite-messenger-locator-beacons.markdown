@@ -21,7 +21,7 @@ In case of an accident you won't be able to call for help without a satellite me
 
 In the picture below you can see the DeLorme InReach Explorer in his yellow case attached to the backpack.
 
-DeLorme is since 2016 part of Garmin and the unit has been replaced with the Garmin InReach Explorer+ (see below).
+DeLorme is since 2016 part of Garmin and the unit has been replaced with the Garmin InReach Explorer+ (see below). {% include disclaimer.html %}
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30599065514/in/dateposted-public/" title="Best Satellite Messenger, Locator and Personal Beacon 2017"><img src="https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg" width="1024" height="683" alt="Best Satellite Messenger, Locator and Personal Beacon 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -65,7 +65,7 @@ Me hiking in the Sarek National Park in Sweden - also considered as one of the l
 ---
 
 With a Satellite Messenger you can also inform your family and friends about your current location and that everything is fine with you so they don't have to worry.
- 
+
 Here an example: I have been once to the [Sarek National park](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) in Sweden where I didn't have phone reception and on this trip I decided that we will definitely take a satellite messenger with me if I would ever go there again in the future. It can take up to 2-3 days to get out of the National Park and in case of an emergency it might be quite hard to find help as you may only see 2 other hikers a day if at all.
 
 <hr>
@@ -97,7 +97,7 @@ The main advantage of the ACR is that you don't have to pay a subscription fee t
 
 If messaging is not important for you, then you should go for the ACR ResQlink+ 406. The ACR device is also quite interesting for paddlers since it is able to float.
 
-Alternatively, you will see from the specifications below that the DeLorme devices have slightly more weight but come with more functionalities than the SPOT devices.
+Alternatively, you will see from the specifications below that the DeLorme devices have slightly more weight but come with more functionalities than the SPOT devices. {% include disclaimer.html %}
 
 ---
 
@@ -173,6 +173,6 @@ My personal preference goes towards the <a href="http://amzn.to/2jM4Pet" target=
 
 ---
 
-Disclosure: We have not tested the products in this blog post. This blog post contains affiliate links. We have only tested the DeLorme Inreach Explorer.
+Disclosure: We have not tested the products in this blog post.
 
 ---

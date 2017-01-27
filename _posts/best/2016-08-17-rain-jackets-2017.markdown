@@ -10,7 +10,7 @@ tags:
   - rain jackets
 ---
 
-Need a new rain jacket for your next outdoor adventure? I always take a rain jacket with me when I go [hiking](http://www.hikeventures.com/destinations/) or cycling. Depending on the season or activity it might also be a good idea to have different rain jackets. For example if I go on a hiking or backpacking trip I usually take a very light rain jacket. For winter activities like skiing or snowboarding I would rather take a more durable jacket with me. Here is a <a href="#list">selection</a> of the new rain jackets for 2017 on the market. This is not a complete list and I may add a few more models in the future.
+Need a new rain jacket for your next outdoor adventure? I always take a rain jacket with me when I go [hiking](http://www.hikeventures.com/destinations/) or cycling. Depending on the season or activity it might also be a good idea to have different rain jackets. For example if I go on a hiking or backpacking trip I usually take a very light rain jacket. For winter activities like skiing or snowboarding I would rather take a more durable jacket with me. Here is a <a href="#list">selection</a> of the new rain jackets for 2017 on the market. This is not a complete list and I may add a few more models in the future. {% include disclaimer.html %}
 
 ---
 
@@ -137,6 +137,6 @@ amzn_assoc_linkid = "965296fb866182bb89b535202541adda";
 
 ---
 
-Disclosure: We have not tested the products in this blog post. This blog post contains affiliate links.
+Disclosure: We have not tested the products in this blog post.
 
 ---

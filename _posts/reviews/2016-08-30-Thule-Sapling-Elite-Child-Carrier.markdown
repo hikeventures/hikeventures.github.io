@@ -9,7 +9,7 @@ tags:
   - Thule
   - backpack
 ---
-Recently, I was looking for a child carrier backpack since I was interested to bring our child clother to nature. Carrying a child in a backpack feels more convenient than cruising with a stroller in the nature and you can more easily access places off the beaten track. This is a first short review about the Thule Sampling Elite Child Carrier Backpack which I got provided by Thule to test it here in Finland. I will add more details to this review over the time.
+Recently, I was looking for a child carrier backpack since I was interested to bring our child clother to nature. Carrying a child in a backpack feels more convenient than cruising with a stroller in the nature and you can more easily access places off the beaten track. This is a first short review about the Thule Sampling Elite Child Carrier Backpack which I got provided by Thule to test it here in Finland. I will add more details to this review over the time. {% include disclaimer.html %}
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27817737344/in/dateposted-public/" title="Thule Sapling Elite Child Carrier Review"><img src="https://c1.staticflickr.com/9/8699/27817737344_8d818cfb80_k.jpg" width="2048" height="1367" alt="Thule Sapling Elite Child Carrier"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -54,8 +54,6 @@ Thule is also selling the [Thule Sapling Rain Cover](http://www.ems.com/thule-sa
 The Thule Sapling Elite Child carrier was comfortable to carry thanks to the padded shoulder straps, waist belt and the fully adjustable suspension system. I also stored a raincover in the bag of the backpack which I could easily access in case it would start raining. My child also asked me a couple of times if I could carry her around in the backpack so I assume that she liked the child carrier backpack as well. More testing is needed to test the durability of the backpack but my first impressions are quite positive. The only negative point I could think of is that the backpack could fall forward with the child if it stands with the stand on the ground but this is probably also the case with other child carrier backpacks.
 
 <a href="http://www.backcountry.com/thule-chariot-sapling-elite-child-carrier"><button type="button" class="btn btn-danger">Read more about the Thule Sapling Child Carrier</button></a>
-
-{% include disclaimer.html %}
 
 ---
 

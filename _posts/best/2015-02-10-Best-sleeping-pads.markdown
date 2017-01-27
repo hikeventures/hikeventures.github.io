@@ -13,7 +13,7 @@ layout: post
 <h2 style="color:red">Our selection of the best lightweight sleeping pads 2017 for ultralight outdoor adventures.</h2>
 <br>
 
-In this blog post you can find the best lightweight sleeping pads which we would consider to buy in 2017. I have indicated the R-value of each sleeping pads so you can choose the one which would be most suitable for your next outdoor adventure. From the <a href="#list">selection</a> below I have only tested the Therm-a-Rest NeoAir XTherm, the self-inflating Therm-a-Rest Evolite and the Exped SYNMAT UL 7 M.
+In this blog post you can find the best lightweight sleeping pads which we would consider to buy in 2017. I have indicated the R-value of each sleeping pads so you can choose the one which would be most suitable for your next outdoor adventure. From the <a href="#list">selection</a> below I have only tested the Therm-a-Rest NeoAir XTherm, the self-inflating Therm-a-Rest Evolite and the Exped SYNMAT UL 7 M. {% include disclaimer.html %}
 
 From all sleeping pads I would probably recommend you the <a href="http://amzn.to/2eQX99w" target="_blank" rel="nofollow">Therm-a-Rest XTherm</a> most. I have received the XTherm from Therm-a-Rest for testing and it's now my go-to sleeping pad throughout the year.
 
@@ -64,9 +64,9 @@ From all sleeping pads I would probably recommend you the <a href="http://amzn.t
 
 <h3><a href="http://amzn.to/2dpbvAF" target="_blank" rel="nofollow">Therm-a-Rest NeoAir XLite</a></h3>
 
-**R-Value:** 3.2  
-**Weight:** 350 g  
-**Fabric:** 30D  
+**R-Value:** 3.2
+**Weight:** 350 g
+**Fabric:** 30D
 
 <a href="https://www.amazon.com/gp/product/B00PZL15OY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PZL15OY&linkCode=as2&tag=hikeve-20&linkId=5fda56383b6e7ecd83ffee998ddbe42b" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00PZL15OY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00PZL15OY" width="1" height="1" border="0" alt="Therm-a-Rest NeoAir XLite" style="border:none !important; margin:0px !important;" />
 
@@ -78,9 +78,9 @@ The Therm-a-Rest NeoAir Xlite is a solid 3-season air sleeping pad which you cou
 
 <h3><a href="http://amzn.to/2dBNq82" target="_blank" rel="nofollow">Sea to Summit Ultralight</a></h3>
 
-**R-Value:** 0.7  
-**Weight:** 355 g  
-**Fabric:** 40D  
+**R-Value:** 0.7
+**Weight:** 355 g
+**Fabric:** 40D
 
 <a href="https://www.amazon.com/gp/product/B00MTZP8RY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MTZP8RY&linkCode=as2&tag=hikeve-20&linkId=44fb9d7c681394023185b0482e181c5e" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00MTZP8RY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00MTZP8RY" width="1" height="1" border="0" alt="Sea to Summit Ultralight" style="border:none !important; margin:0px !important;" />
 
@@ -92,10 +92,10 @@ Another light sleeping pad is the Sea to Summit Ultralight which featuers a more
 
 <h3><a href="http://amzn.to/2elYMQq" target="_blank" rel="nofollow">Therm-a-Rest NeoAir XTherm</a></h3>
 
-**R-Value:** 5.7  
-**Weight:**  410 g  
-**Fabric:** 30D  
-**Fabric bottom:** 70D  
+**R-Value:** 5.7
+**Weight:**  410 g
+**Fabric:** 30D
+**Fabric bottom:** 70D
 
 <a href="https://www.amazon.com/gp/product/B00TSFYZAE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TSFYZAE&linkCode=as2&tag=hikeve-20&linkId=25c9ce32924da763f8646aec664470c1" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00TSFYZAE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00TSFYZAE" width="1" height="1" border="0" alt="Therm-a-Rest NeoAir XTherm" style="border:none !important; margin:0px !important;" />
 
@@ -107,7 +107,7 @@ The Therm-a-Rest NeoAir XTherm is a sleeping pad for late spring, winter or earl
 
 <h3><a href="http://amzn.to/2e8kepY" target="_blank" rel="nofollow">Therm-a-Rest Z LITE SOL</a></h3>
 
-**R-Value:** 2.6  
+**R-Value:** 2.6
 **Weight:**  410 g
 
 <a href="https://www.amazon.com/gp/product/B005I6R0WC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005I6R0WC&linkCode=as2&tag=hikeve-20&linkId=cd2dc0ea0537f09b2be8968a9dd8422d" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B005I6R0WC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B005I6R0WC" width="1" height="1" border="0" alt="Therm-a-Rest Z LITE SOL" style="border:none !important; margin:0px !important;" />
@@ -120,9 +120,9 @@ The Therm-a-Rest Z LITE SOL is a foam sleeping pad which is a safe choice than a
 
 <h3><a href="http://amzn.to/2eIa0OZ" target="_blank" rel="nofollow">Exped Synmat UL 7</a></h3>
 
-**R-Value:** 3.3  
+**R-Value:** 3.3
 **Weight:** 450 g
-**Fabric:** 20D  
+**Fabric:** 20D
 
 <a href="https://www.amazon.com/gp/product/B0047BXBUO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0047BXBUO&linkCode=as2&tag=hikeve-20&linkId=03286004564378e768bb3446d9c72c00" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0047BXBUO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0047BXBUO" width="1" height="1" border="0" alt="Exped Synmat UL 7" style="border:none !important; margin:0px !important;" />
 
@@ -134,9 +134,9 @@ The Exped Synmat UL 7 was my go-to sleeping pad for a couple of years, however I
 
 <h3><a href="http://amzn.to/2dBNswR" target="_blank" rel="nofollow">Therm-a-Rest EvoLite</a></h3>
 
-**R-Value:** 2.1  
+**R-Value:** 2.1
 **Weight:** 520 g
-**Fabric:** 30D  
+**Fabric:** 30D
 
 <a href="https://www.amazon.com/gp/product/B00PZKXB2Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PZKXB2Y&linkCode=as2&tag=hikeve-20&linkId=7de4b697126cb0f135e9550bf812d9fc" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00PZKXB2Y&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00PZKXB2Y" width="1" height="1" border="0" alt="Therm-a-Rest EvoLite" style="border:none !important; margin:0px !important;" />
 
@@ -347,7 +347,7 @@ Some sleeping pad manufacturers offer <a href="http://amzn.to/2ePywc4" target="_
 ---
 
 ## Should I take a sleeping pad pillow on my hiking trip?
-Some manufacturers are also selling <a href="http://amzn.to/2e9qV8p" rel="nofollow" target="_blank">inflatable air pillows</a>. You can also use spare clothes as an alternative to an air pillow.  
+Some manufacturers are also selling <a href="http://amzn.to/2e9qV8p" rel="nofollow" target="_blank">inflatable air pillows</a>. You can also use spare clothes as an alternative to an air pillow.
 
 ---
 

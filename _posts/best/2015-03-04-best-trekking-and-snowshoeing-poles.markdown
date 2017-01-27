@@ -13,7 +13,7 @@ layout: post
 <h2 style="color:red">Our selection of the best lightweight trekking and snowshoeing poles 2017 for ultralight outdoor adventures.</h2>
 <br>
 
-Trekking and snowshoeing poles are especially useful if you have to walk up or down a mountain or if you have to walk in deep powder snow. You can also use those poles for nordic walking. In this blog post I have <a href="#list">selected</a> the best trekking and snowshoeing poles for 2017 which I would consider to buy.
+Trekking and snowshoeing poles are especially useful if you have to walk up or down a mountain or if you have to walk in deep powder snow. You can also use those poles for nordic walking. In this blog post I have <a href="#list">selected</a> the best trekking and snowshoeing poles for 2017 which I would consider to buy. {% include disclaimer.html %}
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24785831751/in/photolist-Dm1oBg-DUv9z4-DLeSfK-qNgY7t-DJ5oFY-Dm1YSa-DSbpUy-CWZxhh-Dm1SnM-DJ5qtf-DLeWra-CWZhq3-CX6ZLM-DsowUj-CWZoVY-DJ55xd-CWYQyo-CX6sRF-DUueLP-r3peJw" title="Best trekking and snowshoeing poles for 2017"><img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="Best trekking and snowshoeing poles for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -69,7 +69,7 @@ Patrick snowshoeing in [Finnish Lapland][2].
 
 <a href="http://www.amazon.com/gp/product/B00FQ837V0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FQ837V0&linkCode=as2&tag=hikeve-20&linkId=NF74EJFOBHVBOVXE" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00FQ837V0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00FQ837V0" width="1" height="1" border="0" alt="MSR Flight 3" style="border:none !important; margin:0px !important;" />
 
-**weight:** 490 grams  
+**weight:** 490 grams
 
 The MSR Flight 3 is made of 7000-series Aluminium and has a non-absorbing foam grip and glove friendly straps. We have tested the MSR Flight 2 in the [Austrian Alps][7]. They are great for summer and winter. If you look specifically for winter poles then you should have a look at the MSR Deploy T-2 or T-3 (below).
 
@@ -80,7 +80,7 @@ The MSR Flight 3 is made of 7000-series Aluminium and has a non-absorbing foam g
 ### [MSR Deploy T-3][8]
 <a  href="http://www.amazon.com/gp/product/B00FQU5KD6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FQU5KD6&linkCode=as2&tag=hikeve-20&linkId=RM7QJSFHFODR6F3U" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00FQU5KD6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00FQU5KD6" width="1" height="1" border="0" alt="MSR Deploy T-3" style="border:none !important; margin:0px !important;" />
 
-**weight:** 635 grams  
+**weight:** 635 grams
 
 The MSR Deploy T-3 are great for snowshoeing. We have tested the Deploy T-2 in the Austrian Alps [Austrian Alps][9]. If you are looking for poles which you can also use during the summer then you should have a look at the MSR Flight 3. There are 2 models available, the MSR Deploy T-2 and T-3 with the only difference that the T3 packs smaller.
 
@@ -92,7 +92,7 @@ The MSR Deploy T-3 are great for snowshoeing. We have tested the Deploy T-2 in t
 
 <a href="http://www.amazon.com/gp/product/B00MGQXVKW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MGQXVKW&linkCode=as2&tag=hikeve-20&linkId=7USCDAVWZRIA5VHA" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00MGQXVKW&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00MGQXVKW" width="1" height="1" border="0" alt="Black Diamond Expedition 3" style="border:none !important; margin:0px !important;" />
 
-**weight:** 520 grams  
+**weight:** 520 grams
 
 The Black Diamond Expedition 3 poles are made of Aluminium and can also be used as ski poles. The poles also come with a 4-season strap in case you want to use gloves during the winter season. These poles come with trekking and snow baskets.
 
@@ -104,9 +104,9 @@ The Black Diamond Expedition 3 poles are made of Aluminium and can also be used 
 
 <a href="http://www.amazon.com/gp/product/B00LU1E9J6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LU1E9J6&linkCode=as2&tag=hikeve-20&linkId=SQ74AUKGGVR6J5J5" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LU1E9J6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LU1E9J6" width="1" height="1" border="0" alt="Black Diamond Distance Carbon Z" style="border:none !important; margin:0px !important;" />
 
-**weight:** 285 grams  
+**weight:** 285 grams
 
-The Black Diamond Distance Carbon Z is made of carbon and suitable for fast-packing adventures. The poles are 3-section foldable.  
+The Black Diamond Distance Carbon Z is made of carbon and suitable for fast-packing adventures. The poles are 3-section foldable.
 
 <a href="http://amzn.to/2e38FPT" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
@@ -116,9 +116,9 @@ The Black Diamond Distance Carbon Z is made of carbon and suitable for fast-pack
 
 <a href="http://www.amazon.com/gp/product/B00LU1E9J6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LU1E9J6&linkCode=as2&tag=hikeve-20&linkId=PMVOHR3LVH3T2AAQ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LU1E9J6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LU1E9J6" width="1" height="1" border="0" alt="Black Diamond Distance Carbon FLZ" style="border:none !important; margin:0px !important;" />
 
-**weight:** 355 grams  
+**weight:** 355 grams
 
-The Black Diamond Distance Carbon FLZ are made of carbon fibre those poles come with FlickLock Pro adjustability. The poles are 3-section foldable.  
+The Black Diamond Distance Carbon FLZ are made of carbon fibre those poles come with FlickLock Pro adjustability. The poles are 3-section foldable.
 
 <a href="http://amzn.to/2e35k3a" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
@@ -128,7 +128,7 @@ The Black Diamond Distance Carbon FLZ are made of carbon fibre those poles come 
 
 <a href="http://www.amazon.com/gp/product/B00I5IVTUE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00I5IVTUE&linkCode=as2&tag=hikeve-20&linkId=4JMZ5BH5JJ367DOU" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00I5IVTUE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00I5IVTUE" width="1" height="1" border="0" alt="Leki Micro Ti" style="border:none !important; margin:0px !important;" />
 
-**weight:** 432 grams  
+**weight:** 432 grams
 
 The Leki Micro series are foldable hiking poles from Leki and are made of Aluminium.
 
@@ -174,7 +174,7 @@ I would say that the main difference between snowshoe and hiking poles is the po
 
 ---
 
-Disclosure: We have not tested the products in this blog post. This blog post contains affiliate links.
+Disclosure: We have not tested the products in this blog post.
 
 ---
 

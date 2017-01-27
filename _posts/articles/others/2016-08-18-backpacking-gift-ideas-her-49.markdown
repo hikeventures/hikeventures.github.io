@@ -9,7 +9,7 @@ tags:
   - gadgets
 ---
 
-Here is a selecetion of camping, hiking and backpacking gift and gadget ideas for women. We have asked a view women what they would like to buy and here is the result. So if you need a gift for your girlfriend or wife you might find something in this blog post. This blog post contains affiliate links.
+Here is a selecetion of camping, hiking and backpacking gift and gadget ideas for women. We have asked a view women what they would like to buy and here is the result. So if you need a gift for your girlfriend or wife you might find something in this blog post. {% include disclaimer.html %}
 
 ---
 
@@ -23,7 +23,7 @@ Here is a selecetion of camping, hiking and backpacking gift and gadget ideas fo
 
 Snails on your tea cup ... they are going to make sure that your tea bags stay in place.
 
-<a href="http://amzn.to/2fbL8KX" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fbL8KX" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -33,7 +33,7 @@ Snails on your tea cup ... they are going to make sure that your tea bags stay i
 
 Do you have something to celebrate outdoors? Those GSI outdoors champagne flutes are light and probably won't break like the ones made of glass.
 
-<a href="http://amzn.to/2fzbf2S" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fzbf2S" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -43,7 +43,7 @@ Do you have something to celebrate outdoors? Those GSI outdoors champagne flutes
 
 Concerned about your health when drinking water from a plastic bottle? The Nalgene bottles are BPA free. I use it sometimes also in combination with a water filter.
 
-<a href="http://amzn.to/2ehwgwT" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2ehwgwT" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 
 ---
@@ -55,7 +55,7 @@ Concerned about your health when drinking water from a plastic bottle? The Nalge
 
 The Opinel N Degree02 Fuchsia knife is small and easy to carry. Probably one of the most versatile hiking accessory which can be also used on days when you are not on the trail.
 
-<a href="http://amzn.to/2ehiL0h" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2ehiL0h" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -65,7 +65,7 @@ The Opinel N Degree02 Fuchsia knife is small and easy to carry. Probably one of 
 
 The GSI Outdoors Backpacker Mug keeps your beverage warm and packs small into your backpack.
 
-<a href="http://amzn.to/2fbTkeh" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fbTkeh" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -76,7 +76,7 @@ The GSI Outdoors Backpacker Mug keeps your beverage warm and packs small into yo
 
 The SUCK UK Rechargeable Floating Light turns glasses into lamps.
 
-<a href="http://amzn.to/2fz47Dx" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fz47Dx" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -86,7 +86,7 @@ The SUCK UK Rechargeable Floating Light turns glasses into lamps.
 
 The image on the Kikkerland Morphing Mug changes with the temperature of your beverage.
 
-<a href="http://amzn.to/2fbN7Pl" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fbN7Pl" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -97,7 +97,7 @@ The image on the Kikkerland Morphing Mug changes with the temperature of your be
 
 The SUCK UK Original and Official Bottle Light turns bottles into nightlights.
 
-<a href="http://amzn.to/2e7LvFl" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2e7LvFl" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -108,7 +108,7 @@ The SUCK UK Original and Official Bottle Light turns bottles into nightlights.
 
 The Light My Fire Titanium Spork is probably one of the best hiking accesories on the trail. It's light and works as a spoon and a fork.
 
-<a href="http://amzn.to/2ehlaIt" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2ehlaIt" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -119,7 +119,7 @@ The Light My Fire Titanium Spork is probably one of the best hiking accesories o
 
 The Opinel N Degree7 Stainless Steel Knife is another quality knife which you can pack into your backpack. Made in France.
 
-<a href="http://amzn.to/2fbQ9TR" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fbQ9TR" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -129,7 +129,7 @@ The Opinel N Degree7 Stainless Steel Knife is another quality knife which you ca
 
 The LETHMIK Unique Slouchy Beanie Unisex Mix Knit Skully Hat Ski Cap is made of 100% Soft and Comfortable Acrylic Material and Super Warm Fleece Lined.
 
-<a href="http://amzn.to/2f7oYun" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2f7oYun" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -139,7 +139,7 @@ The LETHMIK Unique Slouchy Beanie Unisex Mix Knit Skully Hat Ski Cap is made of 
 
 The Baby Nessie Tea Infuser is a fun way to drink tea. Just fill the bottom with loose tea leaves and steep. It's also great for stirring.
 
-<a href="http://amzn.to/2fbJysj" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fbJysj" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -159,7 +159,7 @@ The Smartwool Women's Hiking Medium Crew are high quality hiking socks. I wear t
 
 The GSI Outdoors Stainless Steel Nesting Wine Goblet is perfect for any outdoor party and more durable than glass.
 
-<a href="http://amzn.to/2e7SJcG" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2e7SJcG" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -169,7 +169,7 @@ The GSI Outdoors Stainless Steel Nesting Wine Goblet is perfect for any outdoor 
 
 The Opinel OP01697 No 7 Round End Safety Folding Knife is another high quality knife from France which you can pack into your backpack.
 
-<a href="http://amzn.to/2fbPKAN" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fbPKAN" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -180,7 +180,7 @@ The Opinel OP01697 No 7 Round End Safety Folding Knife is another high quality k
 
 The Doiy Koinobori travel laundry bag is quite useful to seperate your dirty from the clean clothes while travelling.
 
-<a href="http://amzn.to/2f3HXZe" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2f3HXZe" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -201,7 +201,7 @@ A hat is always a good gift. It's probably just a matter of color and design but
 
  The Opinel Child's Horse Folding Knife comes with a safety ring for locking the blade and is made of Sandvik steel.
 
-<a href="http://amzn.to/2e7Hm4e" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2e7Hm4e" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -211,7 +211,7 @@ A hat is always a good gift. It's probably just a matter of color and design but
 
 The Society6 Falling Opinel Carry-All Pouch is perfect for carrying toiletries, art supplies and makeup. The large one can also fit an iPad.
 
-<a href="http://amzn.to/2e7MJk3" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2e7MJk3" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -221,7 +221,7 @@ The Society6 Falling Opinel Carry-All Pouch is perfect for carrying toiletries, 
 
 For wine lovers there is the GSI Outdoors Wine Tote which insulates the beverage and can be filled with 750 ml. It also comes with a shoulder strap and turns it into a hydration pack.
 
-<a href="http://amzn.to/2e7VP0a" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2e7VP0a" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -231,7 +231,7 @@ For wine lovers there is the GSI Outdoors Wine Tote which insulates the beverage
 
 Once you have traveled a place in the USA you can scratch it off from this map.
 
-<a href="http://amzn.to/2fbLQI1" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fbLQI1" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -241,7 +241,7 @@ Once you have traveled a place in the USA you can scratch it off from this map.
 
 Once you have traveled a place you can scratch it off from this map.
 
-<a href="http://amzn.to/2fbNObl" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fbNObl" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -251,7 +251,7 @@ Once you have traveled a place you can scratch it off from this map.
 
 Get the outdoors indoors with the Kikkerland Birch Log Micro Bead Head Cushion. This is a great decorative item for home.
 
-<a href="http://amzn.to/2f7riSb" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2f7riSb" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -261,7 +261,7 @@ Get the outdoors indoors with the Kikkerland Birch Log Micro Bead Head Cushion. 
 
 This camping garland may remind you of your last trails.
 
-<a href="http://amzn.to/2e7Oiym" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2e7Oiym" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -271,7 +271,7 @@ This camping garland may remind you of your last trails.
 
 With the GSI Stainless Coffee Perk Cup you can make fresh coffee on a camp stove.
 
-<a href="http://amzn.to/2fzbMle" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fzbMle" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -282,7 +282,7 @@ With the GSI Stainless Coffee Perk Cup you can make fresh coffee on a camp stove
 
 The Petzl Tikkina 2 headlamp packs small and should be in every backpack.
 
-<a href="http://amzn.to/2ehm6wr" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2ehm6wr" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -304,7 +304,7 @@ The Buff Margo Knitted And Polar Rev Neckwarmer keeps your neck warm on cold day
 
 The Osprey Ultralight Stuff Pack can either serve as an emergency pack or as an ultralight backpack.
 
-<a href="http://amzn.to/2fc07ER" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fc07ER" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -315,7 +315,7 @@ The Osprey Ultralight Stuff Pack can either serve as an emergency pack or as an 
 
 The Personal Packtowl packs small and is another must have item on a backpacking trip.
 
-<a href="http://amzn.to/2fbRwC3" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fbRwC3" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -326,7 +326,7 @@ The Personal Packtowl packs small and is another must have item on a backpacking
 
 The Light My Fire Cook'n Fire Kit might be your next camping kitchen.
 
-<a href="http://amzn.to/2ehjcI8" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2ehjcI8" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -347,7 +347,7 @@ The Barts Bishorn Beanie keeps you warm during the winter.
 
 The Hydro Flask Vacuum Insulated Stainless Steel Water Bottle is a nice bottle to insulate your bevereage. Probably more useful for colder beverages.
 
-<a href="http://amzn.to/2e85eEX" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2e85eEX" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -357,7 +357,7 @@ The Hydro Flask Vacuum Insulated Stainless Steel Water Bottle is a nice bottle t
 
 The Dopper Original Simply Red Limited Edition is a reusable water bottle and cup in one.
 
-<a href="http://amzn.to/2f7hjfM" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2f7hjfM" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -368,7 +368,7 @@ The Dopper Original Simply Red Limited Edition is a reusable water bottle and cu
 
 The Petzl Tikka XP is another small headlamp which packs small and light.
 
-<a href="http://amzn.to/2ehpNC9" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2ehpNC9" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -379,7 +379,7 @@ The Petzl Tikka XP is another small headlamp which packs small and light.
 
 The Doiy Wuerfel 30 Days Fitness Challenge helps you to get back on track.
 
-<a href="http://amzn.to/2f7kgNg" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2f7kgNg" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -390,7 +390,7 @@ The Doiy Wuerfel 30 Days Fitness Challenge helps you to get back on track.
 
 The Mizu Poler Camp Vibes Wine Cup Set is another great cup set if you want to celebrate outdoors.
 
-<a href="http://amzn.to/2e7NHN3" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2e7NHN3" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -400,7 +400,7 @@ The Mizu Poler Camp Vibes Wine Cup Set is another great cup set if you want to c
 
 The GSI Outdoors Java Drip Coffee Maker is for those who want to have fresh coffee outdoors.
 
-<a href="http://amzn.to/2dXim4v" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2dXim4v" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -410,4 +410,4 @@ The GSI Outdoors Java Drip Coffee Maker is for those who want to have fresh coff
 
 GSI Outdoors Nesting Red Wine Glass to enjoy your glass of wine outdoors.
 
-<a href="http://amzn.to/2fpf630" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2fpf630" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>

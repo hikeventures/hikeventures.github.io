@@ -8,7 +8,7 @@ tags:
   - gifts
   - christmas
 ---
-Are you looking for a camping gift for your husband? We might have 12 camping gift ideas for 2017 which he would definitely like as we like them too. We have selected a variety of products which might be interesting for your husband if he likes to go hiking, backpacking, packrafting, skiing or snowshoeing. We hope you will find a nice gift. This blog post contains affiliate links.
+Are you looking for a camping gift for your husband? We might have 12 camping gift ideas for 2017 which he would definitely like as we like them too. We have selected a variety of products which might be interesting for your husband if he likes to go hiking, backpacking, packrafting, skiing or snowshoeing. We hope you will find a nice gift. {% include disclaimer.html %}
 
 ---
 
@@ -32,7 +32,7 @@ The GoPro Hero5 Session can record in 4K and might be a great gift if your husba
 
 If your husband enjoys hiking in America then this book should be in his library. America's best hiking trails has won several awards.
 
-<a href="http://amzn.to/2dUSGUr" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2dUSGUr" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -114,7 +114,7 @@ This is probably one of the best gifts you can buy if your husband is hiking in 
 
 An excellent skiing glove is the Hestra Army Leather Heli 3-Finger Glove which comes with a removeable liner.
 
-<a href="http://www.amazon.com/gp/product/B0153QFDXO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0153QFDXO&linkCode=as2&tag=hikeve-20&linkId=5RNHLQHTIVZ7K3GF" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://www.amazon.com/gp/product/B0153QFDXO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0153QFDXO&linkCode=as2&tag=hikeve-20&linkId=5RNHLQHTIVZ7K3GF" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -134,6 +134,6 @@ There is no need to carry big water bottles on a hiking trip if you have a Sawye
 
 The Suunto Spartan Sport is the latest GPS watch from Suunto which comes with a color touch screen. It has a much longer battery life than the e.g. Apple Watch Series 2. The data can be synced and stored online with Movescount.
 
-<a href="http://amzn.to/2f60uWd" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>  
+<a href="http://amzn.to/2f60uWd" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
