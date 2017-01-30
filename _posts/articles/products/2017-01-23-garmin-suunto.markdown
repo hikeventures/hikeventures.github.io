@@ -48,7 +48,7 @@ Below I have summarized the main characteristics of both watches which were impo
 <td>
 <a target="_blank" rel="nofollow"  href="https://www.amazon.com/gp/product/B01MQX3306/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MQX3306&linkCode=as2&tag=hikeve-20&linkId=c573bb0b72e6366ccd6881fe6b32b747"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MQX3306&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MQX3306" width="1" height="1" border="0" alt="Garmin Fenix 5X" style="border:none !important; margin:0px !important;" />
 </td></tr>
-<tr><td><a href="http://amzn.to/2kLxu40" rel="nofollow"><button class="btn btn-danger">See on Amazon</button></a></td><td><a href="http://amzn.to/2kK6rdx" rel="nofollow"><button class="btn btn-danger">See on Amazon</button></a></td></tr>
+<tr><td></td><td><a href="http://amzn.to/2kLxu40" rel="nofollow"><button class="btn btn-danger">See on Amazon</button></a></td><td><a href="http://amzn.to/2kK6rdx" rel="nofollow"><button class="btn btn-danger">See on Amazon</button></a></td></tr>
 </tbody></table>
 </div>
 
