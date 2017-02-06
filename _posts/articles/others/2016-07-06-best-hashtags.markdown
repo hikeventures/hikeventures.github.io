@@ -20,7 +20,8 @@ If you like our blog you can <a href="https://www.instagram.com/hikeventures/">f
 ## Best Instagram hashtags for Adventure Travellers and Outdoor Bloggers
 
 <table class="tableizer-table">
-<thead><tr class="tableizer-firstrow"><th>#photooftheday</th><th>383</th></tr></thead><tbody>
+<thead><tr class="tableizer-firstrow"><th>Hashtag</th><th>Media (in million)</th></tr></thead><tbody>
+<tr><td>#photooftheday</td><td>383</td></tr>
  <tr><td>#nature</td><td>203</td></tr>
  <tr><td>#travel</td><td>152</td></tr>
  <tr><td>#outdoorlove</td><td>35.3</td></tr>
