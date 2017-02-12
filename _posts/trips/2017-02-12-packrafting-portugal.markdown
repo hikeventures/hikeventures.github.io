@@ -13,7 +13,7 @@ Revently, I went to Portugal for sightseeing and packrafting and here are a few 
 
 This tidal mill is one of the few things that we saw on our recent trip to Algarve, Portugal.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32011923094/in/dateposted-public/" title="Packrafting in Portugal"><img src="https://c1.staticflickr.com/1/310/32011923094_ce14a6fe37_k.jpg" width="1639" height="2048" alt="Packrafting in Portugal"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32011923094/in/dateposted-public/" title="tidal mill Algarve Packrafting in Portugal"><img src="https://c1.staticflickr.com/1/310/32011923094_ce14a6fe37_k.jpg" width="1639" height="2048" alt="tidal mill in Algarve Portugal"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <!--more-->
 
@@ -23,12 +23,12 @@ It doesn't look like it, but the waves were huge and my initial idea to packraft
 
 Even though not all my packrafting dreams in Portugal came true, I still managed to 'paddle' and sail the estuary of the Rio Formosa on the Atlantic Ocean cost. But I had to be rather careful as well - most bushes were out there to get me and my packraft.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32731329601/in/dateposted-public/" title="Packrafting in Portugal"><img src="https://c1.staticflickr.com/1/686/32731329601_e458cce606_k.jpg" width="2048" height="1066" alt="Packrafting in Portugal"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32731329601/in/dateposted-public/" title="Rio Formosa Packrafting in Portugal"><img src="https://c1.staticflickr.com/1/686/32731329601_e458cce606_k.jpg" width="2048" height="1066" alt="Rio Formosa Packrafting in Portugal"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 One of the things that went wrong was also the problem with my paddle - when packing, by mistake I took parts of two different paddles with me. You can imagine my surprise when I discovered that on the shore, next to the water. But I did not despair and decided to DIY out of the situation by joint two parts with a piece of wood that I found at the place. It did help ... for a while. But that's another story ;)
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32731326651/in/dateposted-public/" title="Packrafting in Portugal"><img src="https://c1.staticflickr.com/4/3905/32731326651_937d435448_k.jpg" width="2048" height="1365" alt="Packrafting in Portugal"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32731326651/in/dateposted-public/" title="Werner Paddles Packrafting in Portugal"><img src="https://c1.staticflickr.com/4/3905/32731326651_937d435448_k.jpg" width="2048" height="1365" alt="Werner Paddles Packrafting in Portugal"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The wood I used was not too strong and when it came to paddling against the wind, it snapped and I ended up with two parts again. Good thing I had my Windpaddle (the sail) with me, which still allowed me to enjoy packrafting at the estuary of the Rio Formosa in the south of Portugal.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32809915576/in/dateposted-public/" title="Packrafting in Portugal"><img src="https://c1.staticflickr.com/3/2394/32809915576_a1461490cd_k.jpg" width="2048" height="963" alt="Packrafting in Portugal"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32809915576/in/dateposted-public/" title="Windpaddle Algarve Packrafting in Portugal"><img src="https://c1.staticflickr.com/3/2394/32809915576_a1461490cd_k.jpg" width="2048" height="963" alt="Windpaddle algarve Packrafting in Portugal"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
