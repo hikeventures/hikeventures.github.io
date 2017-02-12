@@ -28,7 +28,7 @@ footer: false
         </div></div></a></div></div>
 
 
-</div>   
+</div>
 
 
 <div class="row">
@@ -50,14 +50,14 @@ footer: false
         <div class="caption">
             <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Ourthe</p>
         </div></div></a></div></div>
-</div>    
+</div>
 
 
 
 
 
 
-<div class="row">            
+<div class="row">
   <div class="col-lg-12">
         <center><h2 class="page-header">Finland</h2></center>
         </div>
@@ -472,6 +472,29 @@ footer: false
 </div>
 
 
+
+
+<div class="row">
+<div class="col-lg-12">
+              <center>  <h2 class="page-header">Portugal</h2></center>
+            </div>
+
+             <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
+            <a class="thumbnail" href="http://www.hikeventures.com/packrafting-portugal/" style="color: #FFF; border: 0px;">
+        <div class="thumbnail text-center">
+        	<img src="https://c1.staticflickr.com/3/2459/32043777803_9bda46e4c9_z.jpg" alt="Portugal" class="img-responsive">
+        <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Algarve</p>
+        </div></div></a></div></div>
+
+
+</div>
+
+
+
+
+
+
+
 <div class="row">
 <div class="col-lg-12">
               <center>  <h2 class="page-header">Scotland</h2></center>
@@ -490,7 +513,7 @@ footer: false
         	<img src="https://c8.staticflickr.com/9/8722/28408883055_7c2b2df875_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">River Dee</p>
         </div></div></a></div></div>
-</div>   
+</div>
 
 
 
@@ -541,4 +564,4 @@ footer: false
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Voxnan</p>
         </div></div></a></div></div>
 
-</div> </div>  
+</div> </div>
