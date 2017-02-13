@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Packrafting in Portugal
-description: Konstanins packrafting adventure in Portugal
+description: Konstanins packrafting adventure in the Algarve Portugal
 date: 2017-02-12 12:00:00
 category: trips
 tags:
@@ -9,7 +9,7 @@ tags:
   - portugal
   - packrafting
 ---
-Revently, I went to Portugal for sightseeing and packrafting and here are a few impressions from this trip.
+Revently, I went to the Algarve in Portugal for sightseeing and packrafting and here are a few impressions from this trip.
 
 This tidal mill is one of the few things that we saw on our recent trip to Algarve, Portugal.
 
