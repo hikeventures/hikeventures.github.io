@@ -32,3 +32,7 @@ One of the things that went wrong was also the problem with my paddle - when pac
 The wood I used was not too strong and when it came to paddling against the wind, it snapped and I ended up with two parts again. Good thing I had my Windpaddle (the sail) with me, which still allowed me to enjoy packrafting at the estuary of the Rio Formosa in the south of Portugal.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32809915576/in/dateposted-public/" title="Windpaddle Algarve Packrafting in Portugal"><img src="https://c1.staticflickr.com/3/2394/32809915576_a1461490cd_k.jpg" width="2048" height="963" alt="Windpaddle algarve Packrafting in Portugal"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Between the land and the sea | The estuary of Rio Formosa is a narrow strip of water between the cosy and the Atlantic Ocean, which is influenced by the regular tides and the winds. It snakes through the sand and mud flats and helps to form numerable islets that grow or disappear with the tidal changes. The area stretches for dozens of kilometres from Faro in the West to past Tavira in the East.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32809906546/in/dateposted-public/" title="Packrafting in Portugal"><img src="https://c1.staticflickr.com/3/2090/32809906546_4983f93553_k.jpg" width="2048" height="1365" alt="Packrafting in Portugal"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
