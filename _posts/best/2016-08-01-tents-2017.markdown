@@ -16,6 +16,8 @@ However, if you plan to go only ocassionally on outdoor trips or if you are into
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28098548314/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KKxnAB-KAbydb-Kjpddj-JNYpty-JLZkAy-KAE8HH-KhoVF3-KAE83V-KyaYFJ-GTmgr7-HDjp5s-taZSRR-r5xNhV-pUoWyp-pBYjLk-pC4E8s-oXBrPd-pC1YcN-pEJWqt-pxH68q-pxJgsb-o5hewa-mM6SVH-pUemeM-pgfsSH-pPJqgM-mM722n-mM6tYt-mM7oGe-neeJYC-mM6siX-mM6DHi-mM6JsP-mM6JU2-fauCG5-dL6obB-dLbCzu-dusPDb-duu4Co-duov8P-dwEYBM-dyiAib" title="Best new tents for 2017"><img src="https://c3.staticflickr.com/9/8759/28098548314_3618ccb134_k.jpg" width="2048" height="1365" alt="Best new tents for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<!--more-->
+
 <h2 id="list">New backpacking tents for 2017</h2>
 
 <div class="table-responsive">
@@ -125,8 +127,25 @@ However, if you plan to go only ocassionally on outdoor trips or if you are into
 </tbody>
 </table>
 </div>
-<!--more-->
 
+<hr>
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "true";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_search_bar_position = "bottom";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Shop Related Products";
+amzn_assoc_default_search_phrase = "msr access";
+amzn_assoc_default_category = "All";
+amzn_assoc_debug = "false";
+amzn_assoc_ead = "0";
+amzn_assoc_linkid = "df7bc36d73a98720ec88f102961fe44b";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 <hr>
 
 <h3><a href="http://www.hikeventures.com/deals/#big+agnes+copper+spur" target="_blank">Big Agnes Copper Spur 2 Platinum</a></h3>
