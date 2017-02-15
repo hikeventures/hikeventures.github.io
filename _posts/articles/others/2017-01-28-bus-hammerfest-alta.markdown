@@ -1,8 +1,8 @@
 ---
 
 layout: post
-title: Video - Day Trip from Alta to Hammerfest by bus
-description: In this video you can see the scenery when driving with the bus from Alta to Hammerfest in Norway
+title: St. Valentine's Outdoor Pants - Kari Traa
+description: Outdoor Pants for St. Valentine's
 date: 2017-01-28 07:30:00
 category: article
 tags:
@@ -12,7 +12,33 @@ tags:
   - Hammerfest
 
 ---
-On our trip to Norway we decided to go for a day trip from Alta to Hammerfest. We bought the tickets from <a href="http://www.northadventure.no">North Adventure</a>. The bus just left from the front of their office and the whole bus trip took around 3 hours including a 1 hour break where we had to switch the buses. Here is our  video from this trip.
+Socks as a present for Christmas, pants (long johns) for St. Valentine’s Day. That’s the reality of being a wife of an outdoorsman ☺
 
-<div class="fb-video" data-href="https://www.facebook.com/HikeVentures/videos/966230156810108/" data-width="500" data-show-text="false"><blockquote cite="https://www.facebook.com/HikeVentures/videos/966230156810108/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/HikeVentures/videos/966230156810108/">From Alta to Hammerfest by bus</a><p></p>Posted by <a href="https://www.facebook.com/HikeVentures/">HikeVentures</a> on Friday, 27 January 2017</blockquote></div>
-<br>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32908177285/in/dateposted-public/" title="Kari Traa"><img src="https://c1.staticflickr.com/1/466/32908177285_0900199257_k.jpg" width="2048" height="1536" alt="Kari Traa Pants"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<!--more-->
+
+However, this time the pants are very special: “Made for girls by girls”. That’s how the Norwegian brand Kari Traa is advertising their outdoor stuff. And indeed, the patterns on my base layer are rather sweet and female. And as it is 100% merino wool, they are also very soft against the skin.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32093413153/in/dateposted-public/" title="Kari Traa Marta"><img src="https://c1.staticflickr.com/4/3856/32093413153_79ee4e9442_k.jpg" width="2048" height="1188" alt="Kari Traa Pants"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+“Love to stay hot” is what is also said on the box and it might be true if you use them as the underwear in the cold climates. But they are equally nice to use on their own as an outer layer in warm climates as I discovered when I wore the top part in Portugal two weeks ago. Yes, that was again one of those presents from my husband, this time for my birthday.
+
+Hope you had a nice St. Valentine’s Day.
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Shop Related Products";
+amzn_assoc_default_search_phrase = "kari traa";
+amzn_assoc_default_category = "All";
+amzn_assoc_debug = "false";
+amzn_assoc_ead = "0";
+amzn_assoc_linkid = "b3a611a0d58e341edc75eebaef77ef1c";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
