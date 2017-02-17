@@ -40,3 +40,8 @@ The estuary of Rio Formosa is a narrow strip of water between the cosy and the A
 My playground was the area near Cacela Velha, an ancient town, which is still dominated by a medieval church and an 18th-century fort. During the Islamic period this place was called Cacetalate Darrague and it also had a fortress built in the 8th-9th century to ensure control of navigation on the River Guadiana. However, it is possible to suspect that there was a settlement here as long back as the time of Phoenicians. The current fortress was rebuilt at the end of the 18th century after it was destroyed in an earthquake in 1755.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32036065733/in/dateposted-public/" title="Packrafting in Portugal"><img src="https://c1.staticflickr.com/1/269/32036065733_abed2bdc20_k.jpg" width="2048" height="1215" alt="Packrafting in Portugal"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+Going back up to our car, I held my head high and my packraft even higher - the sea shore there is not only full of sea shore shells, but also of sea shore prickly pears. Marta caught me at the moment when the birds were flying over me - they were the highest. 😜
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32809908766/in/dateposted-public/" title="Packrafting in Portugal"><img src="https://c1.staticflickr.com/1/373/32809908766_d595a5ec4a_k.jpg" width="2048" height="1165" alt="Packrafting in Portugal"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
