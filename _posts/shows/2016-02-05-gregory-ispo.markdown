@@ -15,7 +15,7 @@ At the ISPO in Munich we met Gregory and they introduced us to their latest back
 
 <!--more-->
 
-Konstantin: Hi, this is Constantine, and this is Andrea from Gregory. Andrea, what are the three highlights for this coming season?
+Konstantin: Hi, this is Konstantin, and this is Andrea from Gregory. Andrea, what are the three highlights for this coming season?
 
 Andrea:	The highlights we are introducing new is a hiking pack. It's a Zulu pack which we offer in 28 to 60 liters.
 
