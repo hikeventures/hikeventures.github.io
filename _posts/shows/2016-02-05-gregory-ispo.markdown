@@ -29,7 +29,7 @@ We are certainly very proud to introduce a new snow line of winter products. We 
 
 A nice feature here is again it's a suspension system which fits very close to your body. It's snow repellent, and the opening is from the back. We only use nylon material, which really offers a great quality and will last forever. You have helmet carrier with all three models. Ski system, also diagonal ski system, and next to this you have the possibility which you can see here for snowshoes and for ski gear.
 
-div class="embed-responsive embed-responsive-16by9">
+<div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/m7l1t35mKRg"></iframe>
 </div>
 
