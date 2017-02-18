@@ -9,11 +9,9 @@ tags:
   - reviews
   - interviews
 ---
-At the ISPO in Munich we met Gregory and they introduced us to their latest backpacks - the Zulu, Jade, Salvo, Sula and Targhee. So here is the review.
+At the ISPO in Munich we met Gregory and they introduced us to their latest backpacks - the Zulu, Jade, Salvo, Sula and Targhee. So here is the interview with Gregory where they are reviewing their latest backpacks.
 
-div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/m7l1t35mKRg"></iframe>
-</div>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32816692122/in/album-72157663341526010/" title="Gregory Review Zulu, Salvo, Targhee, Sula, Jade"><img src="https://c1.staticflickr.com/3/2788/32816692122_d1ead9949f_k.jpg" width="2048" height="1197" alt="Gregory Review Zulu, Salvo, Targhee, Sula, Jade"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <!--more-->
 
@@ -30,6 +28,10 @@ Next to this we have a smaller hiking pack. It's ventilated as well. It's only s
 We are certainly very proud to introduce a new snow line of winter products. We have it in three sizes, 26, 32, and 45 liters. Those packs are made for winter and can carry skis but also snowboards, snowshoes. It's really a full featured backpack in the bright yellow which is safety equipment, pure black, and a very trendy blue with red.
 
 A nice feature here is again it's a suspension system which fits very close to your body. It's snow repellent, and the opening is from the back. We only use nylon material, which really offers a great quality and will last forever. You have helmet carrier with all three models. Ski system, also diagonal ski system, and next to this you have the possibility which you can see here for snowshoes and for ski gear.
+
+div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/m7l1t35mKRg"></iframe>
+</div>
 
 Konstantin: I really like the feature that you can zip and unzip and put the helmet in and out and then you don't even need to carry it around and it's not visible.
 
