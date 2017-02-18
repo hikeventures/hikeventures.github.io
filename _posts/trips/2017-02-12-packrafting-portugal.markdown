@@ -45,3 +45,7 @@ My playground was the area near Cacela Velha, an ancient town, which is still do
 Going back up to our car, I held my head high and my packraft even higher - the sea shore there is not only full of sea shore shells, but also of sea shore prickly pears. Marta caught me at the moment when the birds were flying over me - they were the highest. 😜
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32809908766/in/dateposted-public/" title="Packrafting in Portugal"><img src="https://c1.staticflickr.com/1/373/32809908766_d595a5ec4a_k.jpg" width="2048" height="1165" alt="Packrafting in Portugal"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Was a 'good-bye', but definitely not a 'farewell' ... 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32036071783/in/dateposted-public/" title="Packrafting in Portugal"><img src="https://c1.staticflickr.com/3/2322/32036071783_9ff36e751c_k.jpg" width="2048" height="1172" alt="Packrafting in Portugal"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
