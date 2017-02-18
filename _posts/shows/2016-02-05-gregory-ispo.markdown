@@ -9,7 +9,7 @@ tags:
   - reviews
   - interviews
 ---
-At the ISPO in Munich we met Gregory and they introduced us to their latest backpacks - the Zulu, Jade, Salvo, Sula and Targhee. So here is the interview with Gregory where they are reviewing their latest backpacks.
+At the ISPO in Munich we met Gregory and they introduced us to their latest backpacks - the Zulu, Jade, Salvo, Sula and Targhee. So here is the interview with Gregory with a review of their latest backpacks.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32816692122/in/album-72157663341526010/" title="Gregory Review Zulu, Salvo, Targhee, Sula, Jade"><img src="https://c1.staticflickr.com/3/2788/32816692122_d1ead9949f_k.jpg" width="2048" height="1197" alt="Gregory Review Zulu, Salvo, Targhee, Sula, Jade"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
