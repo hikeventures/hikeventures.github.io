@@ -13,9 +13,9 @@ layout: post
 <h2 style="color:red">Lightweight water filters for ultralight hiking trips and lightweight adventures.</h2>
 <br>
 
-A water filter should be in every backpack if you plan to go hiking or backpacking. Nowadays, there are several solution on the market. There are water filters where you have to pump the water through the filter or filters which do not require any pump at all (and which are also my personal preference filters). Currently, I am using the Sawyer Mini Water Filtration System on my trips since it is very lightweight and does it's job. Also keep in mind that none of the water filters we have selected can filter out viruses. Filters with a carbon element gives the water a neutral taste. Also keep in mind that the filters below should not be used with salt water or with water conterminated with chemicals. To remove viruses you can combine a filter with e.g. the <a href="http://amzn.to/2mdxPNH" rel="nofollow">Steripen Freedom</a> (we have not tested if it effecively removes viruses).
+A water filter should be in every backpack if you plan to go hiking or backpacking. Nowadays, there are several solution on the market. There are water filters where you have to pump the water through the filter or filters which do not require any pump at all (and which are also my personal preference filters). Currently, I am using the Sawyer Mini Water Filtration System on my trips since it is very lightweight and does it's job. Also keep in mind that none of the water filters we have selected can filter out viruses. Filters with a carbon element gives the water a neutral taste. Also keep in mind that the filters below should not be used with salt water or with water conterminated with chemicals. To remove viruses you can combine a filter with e.g. the <a href="http://amzn.to/2mdxPNH" rel="nofollow">Steripen Freedom</a> (we have not tested if it effecively removes viruses). The Steripen uses an UV light against Viruses and can be recharged through the USB port.
 
-Here is our <a href="#list">selection</a> of the best water filters for 2017 which we have selected for hiking and backpacking. {% include disclaimer.html %}
+Here is our <a href="#list">selection</a> of the best water filters for 2017 which we have selected for hiking and backpacking.
 
 ---
 
