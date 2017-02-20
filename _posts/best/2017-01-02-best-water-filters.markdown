@@ -41,7 +41,7 @@ Here is our <a href="#list">selection</a> of the best water filters for 2017 whi
 
 <hr>
 
-<h3 id="example"><a href="http://amzn.to/2kOYYW6" target="_blank" rel="nofollow"LifeStraw Personal Water Filter</a></h3>
+<h3 id="example"><a href="http://amzn.to/2kOYYW6" target="_blank" rel="nofollow">LifeStraw Personal Water Filter</a></h3>
 
 
 <a target="_blank" rel="nofollow"  href="https://www.amazon.com/gp/product/B006QF3TW4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006QF3TW4&linkCode=as2&tag=hikeve-20&linkId=e3280e10d2bcee2e3196e64f56ef7af2"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B006QF3TW4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B006QF3TW4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
