@@ -34,7 +34,7 @@ Here is our <a href="#list">selection</a> of the best water filters for 2017 whi
          <tr><td>lifetime (liters)</td><td>1000</td><td>350000</td><td>1150</td></tr>
          <tr><td>viruses</td><td>no</td><td>no</td><td>no</td></tr>
          <tr><td>carbon filter</td><td>no</td><td>no</td><td>yes</td></tr>
-         <tr><td>&nbsp;</td><td><a rel="nofollow" href="http://amzn.to/2kOYYW6" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a></td><td><a rel="nofollow" href="http://amzn.to/2lZIqQl" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a></td><td><a rel="nofollow" href="http://amzn.to/2lZGgjz" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a></td></tr>
+         <tr><td>&nbsp;</td><td><a rel="nofollow" href="http://amzn.to/2kOYYW6" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a></td><td><a rel="nofollow" href="http://amzn.to/2lZIqQl" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a></td><td><a rel="nofollow" href="http://amzn.to/2lZGgjz" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a></td></tr>
         </tbody></table>
 </div>
 <!--more-->
@@ -48,7 +48,7 @@ Here is our <a href="#list">selection</a> of the best water filters for 2017 whi
 
 The Lifestraw Personal Water Filter is together with the Sawyer Mini Water Filter one of the lightest water filters available which you can take on your backcountry adventure. Personally, I found the Sawyer Filter more versatile than the LifeStraw filter. One advantage I could see with the LifeStraw is that it does not have several pieces and you may not lose parts easily. One disadvantage of this filter is to get the water into a bottle.
 
-<a href="http://amzn.to/2kOYYW6" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2kOYYW6" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
 <hr>
 
@@ -58,7 +58,7 @@ The Lifestraw Personal Water Filter is together with the Sawyer Mini Water Filte
 
 The Sawyer Mini Water Filter is currently my go-to water filter when I go on a hike. It packs small is not that expensive and you can filter the water into a bottle.
 
-<a href="http://amzn.to/2lZIqQl" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2lZIqQl" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
 <hr>
 
@@ -68,7 +68,7 @@ The Sawyer Mini Water Filter is currently my go-to water filter when I go on a h
 
 If you prefer a filter where you need to pump then the Katadyn Hiker Pro filter might be a good soloution. I had this filter as well but prefer the Sawyer filter because it's lighter and I get similar results.
 
-<a href="http://amzn.to/2lZGgjz" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2lZGgjz" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
 <hr>
 
