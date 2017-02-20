@@ -62,7 +62,7 @@ The Lifestraw Personal Water Filter is together with the Sawyer Mini Water Filte
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00FA2RLX2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FA2RLX2&linkCode=as2&tag=hikeve-20&linkId=4a93b2f515988b50dcb8f0cfd64b0406"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00FA2RLX2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00FA2RLX2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-The Sawyer Mini Water Filter is currently my go-to water filter when I go on a hike. It packs small is not that expensive and you can filter the water into a bottle.
+The Sawyer Mini Water Filter is currently my go-to water filter when I go for a hike. It packs small and is not that expensive. You can also filter the water into a bottle.
 
 <a href="http://amzn.to/2lZIqQl" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
