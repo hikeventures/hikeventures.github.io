@@ -1,6 +1,6 @@
 ---
-title: Best lightweight water filters for 2017
-description: An overview of lightweight Waster filters for your next hiking and backpacking trip.
+title: Best lightweight backpacking water filters for 2017
+description: An overview of lightweight water filters for your next hiking and backpacking trip.
 date: 2017-01-02 20:43:52
 update_date: 2017-01-02 23:30:52
 category: articles
