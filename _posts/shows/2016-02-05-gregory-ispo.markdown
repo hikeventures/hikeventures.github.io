@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gregory Zulu, Jade, Salvo, Sula and Targhee Review
+title: Gregory Zulu, Jade, Salvo, Sula and Targhee Review - ISPO Interview
 description: Gregory Sulu, Salvo and Targhee Review at the ISPO in Munich
 date: 2016-02-04 07:30:00
 category: reviews
