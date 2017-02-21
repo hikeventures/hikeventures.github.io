@@ -1,0 +1,61 @@
+---
+layout: post
+title: Comparison and differences - YI 4K+ or GoPro Hero5
+description: Differences and features of the YI 4K+ and the GoPro Hero 5
+date: 2017-02-21 07:30:00
+category: article
+tags:
+  - gopro
+  - yi
+---
+
+YI Technology has recently announced the YI 4K+ and I am quite excited to see that there are more GoPro alternatives available. What makes the YI 4K+ impressive (and sets it apart from the GoPro Hero 5) is that it can record 4K with 60FPS. Moreover, the YI 4K+ can also record with a higher resolution than the GoPro Hero5.
+
+One disadvantage I would see with the YI is that it needs a housing to be waterproof and this might also affect the audio quality. The GoPro Hero5 also features a built in GPS which might be a useful feature too. Apart from that the YI should be especially interesting to those who are planning to do live streaming with their camera, which is probably related to the better chipset which has been built in. The only issue I would probably have with life streaming is that you can not record the video at the same time.
+
+Personally, I was interested in getting a GoPro Hero5 Session since I liked the small form factor. However, the new features on the YI 4K+ are quite interesting and I could probably also live with a bigger action camera. I will definitely have a closer look at the YI 4K+ once it is available in Europe.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/17647383330/in/album-72157653004462416/" title="Comparison and differences - YI 4K+ or GoPro Hero5"><img src="https://c1.staticflickr.com/8/7754/17647383330_fe5ab2fc7e_h.jpg" width="1600" height="1600" alt="Comparison and differences - YI 4K+ or GoPro Hero5"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<!--more-->
+
+<h2 id="list">Feature YI 4K+ vs GoPro Hero 5</h2>
+<div class="table-responsive">
+<table class="table">
+<thead><tr><th></th><th>GoPro Hero 5</th><th>YI 4K+</th></tr></thead><tbody>
+ <tr><td>fps 4K</td><td>30</td><td>60</td></tr>
+ <tr><td>weight (grams)</td><td>116</td><td>97</td></tr>
+ <tr><td>lens (/f)</td><td>2.8</td><td>2.8</td></tr>
+ <tr><td>touch screen</td><td>yes</td><td>yes</td></tr>
+ <tr><td>chipset</td><td>Ambarella A9SE</td><td>Ambarella H2 </td></tr>
+ <tr><td>sensor</td><td>12MP</td><td>12MP</td></tr>
+ <tr><td>image stabilization (max)</td><td>2.7K</td><td>4k</td></tr>
+ <tr><td>wifi</td><td>yes</td><td>yes</td></tr>
+ <tr><td>live streaming</td><td>no</td><td>yes</td></tr>
+ <tr><td>waterproof</td><td>yes</td><td>no (case needed)</td></tr>
+ <tr><td>max video resolution</td><td>3840 x 2160</td><td>4000x3000</td></tr>
+ <tr><td>gps</td><td>yes</td><td>no</td></tr>
+ <tr><td>usb type</td><td>C</td><td>C</td></tr>
+ <tr><td>voice control</td><td>yes</td><td>yes</td></tr>
+ <tr><td>max burst rate</td><td>30</td><td>30</td></tr>
+ <tr><td>video</td><td>720P 240FPS</td><td>720P 240FPS</td></tr>
+ <tr><td>raw photos</td><td>yes</td><td>yes</td></tr>
+</tbody></table>
+</div>
+
+<!--more-->
+
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "search";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Shop Related Products";
+amzn_assoc_default_search_phrase = "gopro 3 axis";
+amzn_assoc_default_category = "All";
+amzn_assoc_linkid = "d9f5cf2a41718e1d099e26edea215486";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
