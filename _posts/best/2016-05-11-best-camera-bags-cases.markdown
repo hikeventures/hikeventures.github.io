@@ -90,7 +90,7 @@ When I plan to go hiking or backpacking I would like to have a camera bag where 
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01JUPAE60/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01JUPAE60&linkCode=as2&tag=hikeve-20&linkId=6db8a92fe9a5e400990059c265d0f642"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01JUPAE60&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01JUPAE60" width="1" height="1" border="0" alt="Thule Aspect DSLR/ILC Shoulder Bag" style="border:none !important; margin:0px !important;" />
 
-*Weight:*  550 grams
+*Weight:*  550 grams  
 *Dimenstions:* 10.2 x 5.5 x 10.6 inches
 
 Thule Aspect DSLR/ILC Shoulder Bag offers space for a mirrorless camera, one lens and accessories. There are also side mesh pockets to store a small tripod or a water bottle.
@@ -105,7 +105,7 @@ There is a front-folding lid to access gear quickly and smaller items can be org
 
 <a href="https://www.amazon.com/gp/product/B00F5JHA4A/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F5JHA4A&linkCode=as2&tag=hikeve-20&linkId=7feafd864ffdebacd5f4336698f6a983"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00F5JHA4A&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00F5JHA4A" width="1" height="1" border="0" alt="Lowepro Nova Sport 7L AW" style="border:none !important; margin:0px !important;" />
 
-*Weight:*  500 grams
+*Weight:*  500 grams  
 *Dimenstions:* 7.48 x 6.89 x 9.84 inches
 
 The Lowepro Nova Sport 7L AW is a camera bag with a removeable camera insert. It is available in red and grey and can also store a tablet. The Nova Sport 7L also comes with an all weather cover so it's great for hiking trips. However, if you plan to go kayaking or packrafting then it might be a better idea to store the Nova Sport in an dry sack.
@@ -118,7 +118,7 @@ The Lowepro Nova Sport 7L AW is a camera bag with a removeable camera insert. It
 
 <a href="https://www.amazon.com/gp/product/B001DLQOIM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001DLQOIM&linkCode=as2&tag=hikeve-20&linkId=1705bcb4d5cc611779f8f7f36204f279" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001DLQOIM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001DLQOIM" width="1" height="1" border="0" alt="Ortlieb Camera Bag Aqua Zoom" style="border:none !important; margin:0px !important;" />
 
-*Weight:* 340 grams
+*Weight:* 340 grams  
 *Dimensions:* 9.4 x 4.3 x 5.9 inches
 
 The Ortlieb Camera Bag Aqua Zoom is is dust and splash proof but you should not submerge it under water.
@@ -136,7 +136,7 @@ For packrafting and kayaking I would like to have a camera bag which is complete
 
 <a href="https://www.amazon.com/gp/product/B0044LXK3A/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0044LXK3A&linkCode=as2&tag=hikeve-20&linkId=36f37f4564dc7a70c12f18f8f96e2123" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0044LXK3A&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0044LXK3A" width="1" height="1" border="0" alt="Aquapac Waterproof SLR Camera Case" style="border:none !important; margin:0px !important;" />
 
-*Weight:* 216 grams
+*Weight:* 216 grams  
 *Dimenstions:* 3.94 x 9.84 x 17.72 inches
 
 The Aquqpac Waterproof SLR Camera Case is 100% waterproof to IPX8 and can be submerged to 5m for 30 mins. The Aquacase case also features an optically-clear acrylic lens for clear pictures. The case will also float on the water with your camera in it but Aquapac mentions that you should test the case with your camera before you take the case into the field.
@@ -147,7 +147,7 @@ The Aquqpac Waterproof SLR Camera Case is 100% waterproof to IPX8 and can be sub
 
 <h3><a href="https://www.amazon.com/gp/product/B0051QYF5E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0051QYF5E&linkCode=as2&tag=hikeve-20&linkId=b35f232fa3758e5efbfc6f9d4e425fbd" rel="nofollow">Pelican 1200 Case</a></h3>
 
-*Weight:* 1305 grams
+*Weight:* 1305 grams  
 *Dimenstions:* 9.25 x 7.12 x 4.12 inches
 
 <a href="https://www.amazon.com/gp/product/B0051QYF5E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0051QYF5E&linkCode=as2&tag=hikeve-20&linkId=b35f232fa3758e5efbfc6f9d4e425fbd" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0051QYF5E&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0051QYF5E" width="1" height="1" border="0" alt="Pelican 1200 Case" style="border:none !important; margin:0px !important;" />
@@ -160,8 +160,8 @@ The Pelican 1200 case is a bit heavier than the other bags and cases but it prot
 
 <h3><a href="http://amzn.to/2l3wtFb" rel="nofollow" target="_blank">Ortlieb Soft Shot Waterproof Camera Bag</a></h3>
 
-*Weight:*  781 grams
-*Dimenstions:* 10 X 6 X 4 inches
+*Weight:*  781 grams  
+*Dimenstions:* 21 X 27.5 X 15.5 inches
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00CK0RIXK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CK0RIXK&linkCode=as2&tag=hikeve-20&linkId=a61a5ef9942d5b87f8e126a5754b6f4b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00CK0RIXK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00CK0RIXK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -178,7 +178,7 @@ When I take my camera to the city, I prefer to have a camera bag which looks a b
 
 <h3><a href="https://www.amazon.com/gp/product/B00JXECZSE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JXECZSE&linkCode=as2&tag=hikeve-20&linkId=81edc424d9dc6074372a108183c60bd0" rel="nofollow" target="_blank">Thule Covert Camera Backpack</a></h3>
 
-*Weight:* 400 grams
+*Weight:* 400 grams  
 *Dimenstions:* 22 x 17.7 x 7.9 inches
 
 The Thule Convert Camera Backpack offers space for a DSLR and an attached wide angle lens as well as two additional lenses and a flash. The bag can also store a 15 inch Macbook and an iPad. The bag features a removable pod system. The fabric is water-repellent.
@@ -191,7 +191,7 @@ The Thule Convert Camera Backpack offers space for a DSLR and an attached wide a
 
 <h3><a href="http://amzn.to/29vFJkX" rel="nofollow" target="_blank">ONA The Bowery Camera Bag</a></h3>
 
-*Weight:*  635 grams
+*Weight:*  635 grams  
 *Dimenstions:* 10 X 6 X 4 inches
 
 <a href="https://www.amazon.com/gp/product/B008JNGOPK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008JNGOPK&linkCode=as2&tag=hikeve-20&linkId=f7a5ef15f9596d031b5b9714a6ca1ded" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B008JNGOPK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B008JNGOPK" width="1" height="1" border="0" alt="ONA The Bowery Camera Bag" style="border:none !important; margin:0px !important;" />
@@ -205,7 +205,7 @@ The ONA Bowery Camera Bag has been handcrafted with premium waxed canvas and ful
 
 <h3><a href="https://www.amazon.com/gp/product/B00QWRMWKQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QWRMWKQ&linkCode=as2&tag=hikeve-20&linkId=5ee40d217ef34eff10943d4153566e80" rel="nofollow" target="_blank">Thule Covert Camera Messenger Bag - Small</a></h3>
 
-*Weight:* 880 grams
+*Weight:* 880 grams  
 *Dimenstions:* 9.4 X 16.9 X 6.3 inches
 
 <a href="https://www.amazon.com/gp/product/B00QWRMWKQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QWRMWKQ&linkCode=as2&tag=hikeve-20&linkId=5ee40d217ef34eff10943d4153566e80" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00QWRMWKQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00QWRMWKQ" width="1" height="1" border="0" alt="Thule Covert Camera Messenger Bag - Small" style="border:none !important; margin:0px !important;" />
