@@ -28,7 +28,7 @@ However, the new features on the YI 4K+ are quite interesting and I could probab
 I will definitely have a closer look at the YI 4K+ once it is available in Europe.
 
 
-<h2 id="list">Feature YI 4K+ vs GoPro Hero5</h2>
+<h2 id="list">Differences YI 4K+ vs GoPro Hero5</h2>
 <div class="table-responsive">
 <table class="table">
 <thead><tr><th></th><th>GoPro Hero5</th><th>YI 4K+</th></tr></thead><tbody>
