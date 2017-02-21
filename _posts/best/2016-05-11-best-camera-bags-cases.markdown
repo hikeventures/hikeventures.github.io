@@ -54,6 +54,13 @@ As I have recently upgraded my own camera, I was in need of a new camera case wh
         <tr>
           <td><a href="http://amzn.to/29vFJkX" target="_blank" rel="nofollow">ONA The Bowery Camera Bag</a></td><td>635g</td>
         </tr>
+        <tr>
+          <td><a href="http://amzn.to/2l3wtFb" target="_blank" rel="nofollow">Ortlieb Soft Shot Waterproof Camera Bag</a></td><td>781g</td>
+        </tr>
+
+
+ORTLIEB SOFT SHOT GREY WATERPROOF CAMERA BAG
+
 
         <tr>
           <td><a href="http://amzn.to/2e8soyG" target="_blank" rel="nofollow">Thule Covert Camera Messenger Bag - Small</a></td><td>880g</td>
@@ -151,6 +158,19 @@ The Pelican 1200 case is a bit heavier than the other bags and cases but it prot
 
 <hr>
 
+<h3><a href="http://amzn.to/2l3wtFb" rel="nofollow" target="_blank">Ortlieb Soft Shot Waterproof Camera Bag</a></h3>
+
+*Weight:*  781 grams
+*Dimenstions:* 10 X 6 X 4 inches
+
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00CK0RIXK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CK0RIXK&linkCode=as2&tag=hikeve-20&linkId=a61a5ef9942d5b87f8e126a5754b6f4b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00CK0RIXK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00CK0RIXK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+The Ortlieb Soft Shot Waterproof Camera Bag is a great bag if you plan to go on an adventure of if the weather is uncertain. The bag has a volume of 9.7 l.
+
+<a href="http://amzn.to/2l3wtFb" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+
+<hr>
+
 ## Best camera bags for urban exploration and travelling
 When I take my camera to the city, I prefer to have a camera bag which looks a bit more stylish and has more pockets.
 
@@ -176,7 +196,7 @@ The Thule Convert Camera Backpack offers space for a DSLR and an attached wide a
 
 <a href="https://www.amazon.com/gp/product/B008JNGOPK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008JNGOPK&linkCode=as2&tag=hikeve-20&linkId=f7a5ef15f9596d031b5b9714a6ca1ded" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B008JNGOPK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B008JNGOPK" width="1" height="1" border="0" alt="ONA The Bowery Camera Bag" style="border:none !important; margin:0px !important;" />
 
-ONA The Bowery Camera Bag has been handcrafted with premium waxed canvas and full-grain leather details. The camera can store one camera and one small lens.
+The ONA Bowery Camera Bag has been handcrafted with premium waxed canvas and full-grain leather details. The camera can store one camera and one small lens.
 
 <a href="http://amzn.to/29vFJkX" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
