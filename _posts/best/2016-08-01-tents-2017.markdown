@@ -131,7 +131,7 @@ However, if you plan to go only ocassionally on outdoor trips or if you are into
 <hr>
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
+amzn_assoc_search_bar = "true";
 amzn_assoc_tracking_id = "hikeve-20";
 amzn_assoc_search_bar_position = "bottom";
 amzn_assoc_ad_mode = "search";
@@ -139,11 +139,11 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Shop Related Products";
-amzn_assoc_default_search_phrase = "msr access";
+amzn_assoc_default_search_phrase = "spork";
 amzn_assoc_default_category = "All";
 amzn_assoc_debug = "false";
 amzn_assoc_ead = "0";
-amzn_assoc_linkid = "df7bc36d73a98720ec88f102961fe44b";
+amzn_assoc_linkid = "c4869cd549ba0ccb3d109097e6332264";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 <hr>
