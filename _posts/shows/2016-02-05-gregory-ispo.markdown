@@ -43,41 +43,6 @@ Andrea:	More than welcome.
 
 ---
 
-## Gregory Zulu
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B015SBL9GE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B015SBL9GE&linkCode=as2&tag=hikeve-20&linkId=08299d279cf2752fb7b116c34dc188e4"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B015SBL9GE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B015SBL9GE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-<a href="http://amzn.to/2ltxHwt" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
-
----
-
-## Gregory Jade
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B015SBNL9C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B015SBNL9C&linkCode=as2&tag=hikeve-20&linkId=bb36963f685e16f5d9829695100facea"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B015SBNL9C&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B015SBNL9C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-<a href="http://amzn.to/2lhiZ9L" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
-
----
-
-## Gregory Salvo
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B015SBOH40/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B015SBOH40&linkCode=as2&tag=hikeve-20&linkId=47c7e7ceb98518728c78fbe7d9369f20"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B015SBOH40&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B015SBOH40" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-<a href="http://amzn.to/2ltEarb" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
-
----
-
-## Gregory Sula
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B015SBOO4S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B015SBOO4S&linkCode=as2&tag=hikeve-20&linkId=61f2e9f0de0e1f42eb093be66eb22182"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B015SBOO4S&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B015SBOO4S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-<a href="http://amzn.to/2kJdHlg" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
-
----
-
-## Gregory Targhee
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00SH2JWSO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SH2JWSO&linkCode=as2&tag=hikeve-20&linkId=cd7c88e239abc4b66ba786bd438cbdba" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00SH2JWSO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00SH2JWSO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-<a href="http://amzn.to/2lUZYgm" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
-
----
-
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
 amzn_assoc_search_bar = "true";
