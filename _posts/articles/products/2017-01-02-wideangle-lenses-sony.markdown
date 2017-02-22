@@ -10,7 +10,11 @@ tags:
   - irix
   - zeiss
 ---
-Recently, I was wondering if I should upgrade my manual Samyang 14mm f/2.8 lens to a newer lens which may also have wider optics and spotted the release of Irix 11mm f/4.0 which comes with an E-Mount and would be perfect for my Sony A7. I am always interested to find the best lenses for my needs. Since lenses are in most cases quite expensive I always think twice before I buy a new one. However, I see lenses as a long term investment which I will also be able to use with camera bodies in the future.
+Recently, I was wondering if I should upgrade my manual Samyang 14mm f/2.8 lens to a newer lens which may also have wider optics and spotted the release of Irix 11mm f/4.0 which comes with an E-Mount and would be perfect for my Sony A7.
+
+I am always interested to find the best lenses for my needs so I decided to make a short comparison about the differences of my favourite lenses which I would consider to buy for my camera.
+
+Since lenses are in most cases quite expensive I always think twice before I buy a new one. However, I see lenses as a long term investment which I will also be able to use with camera bodies in the future.
 
 I found the Irix 11mm f/4.0 quite interesting even so it comes only with f/4.0. The Irix would be a great lens for ultra-wide angle photography.
 
