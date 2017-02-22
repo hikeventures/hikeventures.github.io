@@ -396,7 +396,7 @@ By the way, Extrem has been part of the Berghaus collection since 1986, so this 
 
 Konstantin:	I'm with Gilles from Rab here. What are the three, two, three most exciting products of your line?
 
-Gilles:	For autumn/winter 16?
+Gilles:	For autumn/winter 2016?
 
 Konstantin:	Yes. 
 
