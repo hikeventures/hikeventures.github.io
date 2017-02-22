@@ -351,7 +351,10 @@ You can keep your down jacket dry by storing it in a waterproof compression bag 
 
 ## Our interview with Berghaus
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3FENF01oMq4" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3FENF01oMq4"></iframe>
+</div>
+
 
 Konstantin:	Hi. This is Konstantin, and I've got Chris here from Berghaus. Chris, could you tell us something about one or two, three highlights of your collection?
 
