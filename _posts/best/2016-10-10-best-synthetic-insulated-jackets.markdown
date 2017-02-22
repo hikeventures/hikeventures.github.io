@@ -181,6 +181,12 @@ The Arcteryx Fission SV Jacket is a waterproof, insulated jacket with Coreloftâ„
 
 <a href="http://amzn.to/2hKcJEG" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
+<hr>
+## Our interview with Montane
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=9rsU5Dqqj7Y"></iframe>
+</div>
 
 <hr>
 Disclosure: We have not tested all products in this post.
