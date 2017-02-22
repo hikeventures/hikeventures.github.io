@@ -366,7 +366,7 @@ The Xpanse Hood, which uses a system of magnets. When you're in full winter cond
 
 Finally, there's the Xpanse face guard there, to which you can zip away when you don't need it, but when you're in full winter conditions, but you don't want to get too steamed up, you've got that face guard with the little holes there that allows you to continue to operate at optimum level in the worst conditions. 
 	
-That's the Extrem 8000 Pro Jacket, which will be available from autumn/winter 20-
+That's the Extrem 8000 Pro Jacket, which will be available from autumn/winter 2016
 
 Konstantin:	Chris, can you tell us something about this product as well. 
 
