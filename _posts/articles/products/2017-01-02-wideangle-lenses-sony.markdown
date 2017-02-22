@@ -64,7 +64,7 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Shop Related Products";
-amzn_assoc_default_search_phrase = "Irix lens";
+amzn_assoc_default_search_phrase = "manfrotto lumimuse";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "d9f5cf2a41718e1d099e26edea215486";
 </script>
