@@ -76,6 +76,8 @@ If you prefer a filter where you need to pump then the Katadyn Hiker Pro filter 
 
 <a href="http://amzn.to/2lZGgjz" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
+---
+
 ## Our Interview with LifeStraw
 
 Here is our video where we (Konstantin) interviewed LifeStraw and had a hands on experiene with the product.
