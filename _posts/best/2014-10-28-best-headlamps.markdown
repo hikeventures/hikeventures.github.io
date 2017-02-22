@@ -357,6 +357,8 @@ Not every headlamp is watertight. Some headlamps are only splash proof. Have a l
 
 ## Out interview with Petzl
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UZziPhCDN48" frameborder="0" allowfullscreen></iframe>
+
 Konstantin:	Hi this is Konstantin and I'm with Petzl here. Could you tell us something about the new line of lamps?
 
 Petzl:	The new line of lamps, well this year for the expo it's a winter show, we started to produce headlamps with Bluetooth, before we had to tick at high speed and now we have Reactik+ and NAO+, both with Bluetooth. The last headlamps, you could see if your battery is low for example on your hat lamp instead was blinking red or yellow or green for totally charged. Here you have the light mode for example, so if you say you're going on a ski tour for 20 hours, the hat lamp changes the light mode so it changes the lumen as well and the app guarantees that you have, with 72 percent, 20 hours and 20 minutes for time running, so if you charge it up a little bit in full power mode, 300 lumen, you have 1 hour 49 with 72 percent.
