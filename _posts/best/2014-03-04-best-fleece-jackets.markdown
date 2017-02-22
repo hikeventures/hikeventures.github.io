@@ -120,7 +120,9 @@ A good idea is also to combine a fleece jacket with a [wind jacket][11] since fl
 
 ## Out interview with Houdini
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wa7DCO-aj3I" frameborder="0" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Wa7DCO-aj3I"></iframe>
+</div>
 
 Konstantin:	Hi, this is Konstantin and I've got Magnus from Houdini. Magnus, would you tell me something about your interesting products?
 
