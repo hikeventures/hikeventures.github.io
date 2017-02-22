@@ -345,7 +345,7 @@ If you need arch support on your hiking boots then you should probably buy a sep
 ## Our interview with Hanwag
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=7TLPVaQttGM"></iframe>
+    <iframe class="embed-responsive-item" src="https://youtu.be/7TLPVaQttGM"></iframe>
 </div>
 
 Konstantin:	Hi this is Konstantin, and I have Dennis here from Hanwag. Dennis what are the three most interesting products that you can talk about? Tell us about?
