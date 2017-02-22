@@ -344,6 +344,10 @@ If you need arch support on your hiking boots then you should probably buy a sep
 
 ## Our interview with Hanwag
 
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Wa7DCO-aj3I"></iframe>
+</div>
+
 Konstantin:	Hi this is Konstantin, and I have Dennis here from Hanwag. Dennis what are the three most interesting products that you can talk about? Tell us about?
 
 Hanwag:	Well, I picked out Hanwag Alaska Winter version for you. The Alaska is a classic from Hanwag hiking boot that is very, very popular in the summer version. We actually made this winter version last year and it's become really, really popular. It has an extra G-loft insulation in it, this is how our own signature insulation that is not ... is good, and dries fast. We have an ice grip sole obviously, like almost all of our winter models. The ice grip sole provides a superior grip on ice, or slippery grounds in the winter. The model is additionally insulated here within the sole and is an ideal boot for, as you can see, that it's suitable for snowshoes and snowshoeing. This model has already convinced in some of the tests that they have made with it and it's going to become a really popular boot from Hanwag.
