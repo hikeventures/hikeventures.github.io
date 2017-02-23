@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The best camping and backpacking gift ideas for her under 49 USD
+title: The best camping and backpacking gift ideas for her under 50 USD
 description: Camping gift ideas which probably every women would like to have.
 date: 2016-08-19 07:30:00
 category: reviews
