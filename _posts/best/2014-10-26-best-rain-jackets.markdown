@@ -176,6 +176,41 @@ Konstantin wearing the [Montane Minimus Jacket][3] on our [trip][4] in the Sarek
 
 ---
 
+## Our interview with Montane
+
+Konstantin interviewing the Montane at the ISPO 2016 about their highlights for the year.
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=9rsU5Dqqj7Y"></iframe>
+</div>
+
+## Our interview with Haglöfs
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2LtIxEurfOg"></iframe>
+</div>
+
+K:	Hi, this is Konstantin. I'm here with Sebastian from Haglöfs.
+
+H:	Hi.
+
+K:	Sebastian, hi. What are the highlights for this season?
+
+H:	I need to present you two jackets. This blue one is called Essens Mimic Jacket. It's a synthetic insulated jacket and the special thing about this jacket is its insulation is a recycled polyester. That means you have all the advantages that we know from polyester insulation. It's easily to care. You have your ... have not any animal problems as we know from naturaL down. The material behaves just like natural down. It has a bomb thread ratio which is nearly a natural down, but it's synthetic and that material is one of our highlights. One of our best things for all year outdoors. Is it skiing, trekking, hiking, climbing, whatever.
+
+K:	Okay. I'll hold it for you.
+
+H:	Yeah. Thank you. And this other one is a Haglöfs classic. It's coming back. The Spitz Jacket. Maybe some of you know it from about five to ten years ago. This is one of the most sold and most loved jackets that we have at Haglöfs and now we will see it again in the stores. It's a beautiful Gore Pro Jacket and very nice color. That's the women's version. It's designed for alpinism, that means a quite tight cut with a short cut for bearing climbing harnesses. It has everything that you need when you be in the high mountains. Again for climbing fine, ice climbing, ski touring, and whatever.
+
+K:	Thank you very much, Sebastian.
+
+S:	Thank you very much.
+
+K:	Thanks.
+
+
+---
+
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
 amzn_assoc_search_bar = "false";
