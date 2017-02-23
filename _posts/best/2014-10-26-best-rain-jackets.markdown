@@ -181,8 +181,42 @@ Konstantin wearing the [Montane Minimus Jacket][3] on our [trip][4] in the Sarek
 Konstantin interviewing the Montane at the ISPO 2016 about their highlights for the year.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=9rsU5Dqqj7Y"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9rsU5Dqqj7Y"></iframe>
 </div>
+
+Konstantin:	Hi, this is Konstantin and I've got Bryce here from Montane. Bryce, could you present a couple of highlights from your collection?
+
+Bryce:	Sure, yeah. So for Autumn/Winter 2016, so this will be, all be coming out in August 2016 this year, we have a brand new range of Gore-Tex which is quite exciting for us as a brand and quite exciting for the industry as well. It's very, very new for a new British brand to have a Gore-Tex license, so we've come out with some really great products, really great products for the mountains. 
+	So, we have 12 styles in the range and we have men's and ladies' available. So, the style I'm actually wearing is a really high end, top end mountaineering piece and this really is designed for Alpine territory, skiing, and it's designed to go anywhere you want to, really, in, in the world, so, super durable, really great fabric, super soft fabric as well. 
+	The features that we have here, so, we have a lot of pockets. So, if you are in the mountains and you want a pocket to put different things into, so, you have two big hand pockets here, which you can get a map into. You have two pockets as well on the chest, and you can put all your gadgets and your, and your gizmos in there. 
+	And then on the inside as well, we have, there's some adjustment for the back, so if I pull that one in, you can see the adjustment going through the waist. And then, really, the hood is quite a unique feature for us. So the hood will take your ski helmet, it will take your climbing helmet, but you can really, you know, adjust it down and bring it down when, when you need to. 
+	Well, and another really key feature for us is actually on the back. So these two pleats allow you to do like that when you're climbing. 
+	So that's the Endurance Pro Jacket, and then all the other jackets we have all sort of come down from that, really, in terms of price, so, your Alpine Pro is just little bit less featured but still a fantastic mountaineering piece. 
+	Then we move into a more trekking, backpacking side, so obviously you need this when you're, you know, trekking, backpacking. And then, what really fits well into our brand is called Tick tack, so this is really fast and light moving person. If someone is doing a mountain in a day or if they're running in winter, so you need a really durable three-layer shell but it's really breathable, really light and really, yeah, great featured.
+	So that's our Gore-Tex range.
+
+Konstantin:	So, right, what can you tell about this product?
+
+Bryce:	Okay, so this is our Hi-Q Luxe jacket, and we launched this in Autumn/Winter '15. So, this is using a technology called Primaloft Gold Luxe. And, Primaloft came out with this for us exclusively for the, the season. And what this is basically is a, a synthetic alternative to down. So, normal Primaloft is a really great static insulator, but it's not good for actually when you're on the move, when you're actually moving. So, this allows you to be a bit more versatile with what you do with your product.
+	So, if you're going backpacking or if you're going touring into the back country, basically, it, it mimics down so it's loose fill synthetic, so it's really great packing. It's really great for being small and lightweight, but it's really soft, really great, you know, feel to wear all day long.
+	So we have some different jackets now in a, in a few different colors, so this was launched in, let's see, Autumn/Winter '15 last year. And then, now we have a, a hoodless version, so, if you don't want a hood. Then, you can buy this piece, as well. And then also, if you're really looking at ski touring and ski, back-country skiing, you can go with the, with the hybrid piece. This is our sort of stretch hybrid. It's using the same technology but with sort of more stretchy fabrics for using the harness or with, or, like I say, when you're skiing, just skiing.
+	So it's a really great technology and this will be something we're going to be developing going forward.
+
+Konstantin:	What can you tell about this product?
+
+Bryce:	Okay, so this is also an insulated jacket. This is using something called Primaloft Gold Down Blend, and this was launched a couple of years ago. A few other brands are using it, but we've really sort of adopted it into a, quite a few new styles now, so ... 
+	Again, this style that I'm wearing was launched last year. We also have a couple of new, new pieces as well. So what this is is a blend of down and synthetic fiber. So it looks just like down, but in this, in the down itself you actually have synthetic fiber blended into the down. And what that means is you get a much more compressible jacket, but, also, you get water resistance from down and from, from, from synthetic, so you get a really good, versatile product. It's great for use in, sort of, more humid conditions, so it's not a pure down jacket. You know, you don't have to use it in really, really cold areas. It's just really good to sort of be a bit more durable.
+	The jackets, we really sort of focus on having great features here, so, you have the vision zipper, so if you're using it in cold and ice environment, so you sort of get really good movement with that. And, with it done up, you have obviously two big pockets here, fleece-lined, so really nice and cozy and warm. It's a really long cut, so it's just a, a really great jacket to wear all day, every day.
+
+Konstantin:	And you can also open up those with, in your, in your gloves?
+
+Bryce:	Yes, yes, you get big grab pulls as well with your gloves. So the range that we now have, we just had this jacket last year, and now we have a hoodless version, so this will last you all year round, which comes in men's and ladies', so you can use this on cold spring nights if you're camping or if backpacking. So we have the men's and ladies' versions as well but great technology, great price, fantastic fit. So, that's our, that's our product.
+
+Konstantin:	Thanks.
+
+Bryce:	Cool.
+
+---
 
 ## Our interview with Haglöfs
 
