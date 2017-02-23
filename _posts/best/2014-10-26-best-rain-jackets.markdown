@@ -174,7 +174,7 @@ If you are looking for a rain jacket for your next hiking trip then you should c
 
 Konstantin wearing the [Montane Minimus Jacket][3] on our [trip][4] in the Sarek National Park in Sweden - also considered of being one of the last wilderness areas in Europe.
 
-<hr>
+---
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
