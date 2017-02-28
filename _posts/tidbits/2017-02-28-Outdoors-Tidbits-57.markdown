@@ -7,7 +7,7 @@ tags:
   - tidbits
 layout: post
 ---
-Here comes our latest Outdoors Tidbits with the latest reviews from other outdoor bloggers. Probably, you are also excited to find out where we are going to travel next? In April we will attend the [Swedish Packrafting Round-Up](https://www.facebook.com/events/721781557974160/) and in May we will be on a [Packrafting Round-Up in Scotland](https://www.facebook.com/events/140680829718198/).
+Here comes our latest Outdoors Tidbits with the latest reviews from other outdoor bloggers. Probably, you are also excited to find out where we are going to travel next? In April we will attend the [Swedish Packrafting Round-Up](https://www.facebook.com/events/721781557974160/) and in May we will be on a [Packrafting Round-Up in Scotland](https://www.facebook.com/events/140680829718198/). Don't want to miss those events? Subscribe to our [RSS feed](http://www.hikeventures.com/rss.xml).
 
 Did you know that you can also use your packraft during the winter? Try [snowrafting](https://greenshapedheart.de/snowrafting-packraft-im-schnee/)?
 
