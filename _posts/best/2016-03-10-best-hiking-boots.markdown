@@ -15,7 +15,7 @@ published: true
 <h2 style="color:red">Selection of the best lightweight hiking boots 2017 for ultralight outdoor adventures.</h2>
 <br>
 
-Proper hiking boots are important if you are planning to hike in the mountains or with a heavy backpack. For day trips which are not that demanding [lightweight hiking shoes](http://www.hikeventures.com/best-ultralight-hiking-shoes/) could be an alternative to traditional hiking boots. However, after my trips in the [Alps](http://www.hikeventures.com/e5-crossing-the-alps-from-germany-to-italy/) and in [Swedish Lapland](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) I am not such a fan of ultralight hiking shoes and would rather take a pair of proper hiking boots with me. Here is my <a href="#list">selection</a> of the best hiking boots for 2017. {% include disclaimer.html %}
+Proper hiking boots are important if you are planning to hike in the mountains or with a heavy backpack. For day trips which are not that demanding [lightweight hiking shoes](http://www.hikeventures.com/best-ultralight-hiking-shoes/) could be an alternative to traditional hiking boots. However, after my trips in the [Alps](http://www.hikeventures.com/e5-crossing-the-alps-from-germany-to-italy/) and in [Swedish Lapland](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) I am not such a fan of ultralight hiking shoes and would rather take a pair of proper hiking boots with me. Here is my <a href="#list">selection</a> of the best hiking boots for 2017. Also have a look at our <a href="#interview">interview</a> at the end of this article. {% include disclaimer.html %}
 
 ---
 
@@ -342,31 +342,31 @@ If you need arch support on your hiking boots then you should probably buy a sep
 
 ---
 
-## Our interview with Hanwag
+## Our <a href="#interview">interview</a> with Hanwag
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/7TLPVaQttGM"></iframe>
 </div>
 
 
-Konstantin:	Hi this is Konstantin, and I have Dennis here from Hanwag. Dennis what are the three most interesting products that you can talk about? Tell us about?
+Hi this is Konstantin, and I have Dennis here from Hanwag. Dennis what are the three most interesting products that you can talk about? Tell us about?
 
-Hanwag:	Well, I picked out Hanwag Alaska Winter version for you. The Alaska is a classic from Hanwag hiking boot that is very, very popular in the summer version. We actually made this winter version last year and it's become really, really popular. It has an extra G-loft insulation in it, this is how our own signature insulation that is not ... is good, and dries fast. We have an ice grip sole obviously, like almost all of our winter models. The ice grip sole provides a superior grip on ice, or slippery grounds in the winter. The model is additionally insulated here within the sole and is an ideal boot for, as you can see, that it's suitable for snowshoes and snowshoeing. This model has already convinced in some of the tests that they have made with it and it's going to become a really popular boot from Hanwag.
+Well, I picked out Hanwag Alaska Winter version for you. The Alaska is a classic from Hanwag hiking boot that is very, very popular in the summer version. We actually made this winter version last year and it's become really, really popular. It has an extra G-loft insulation in it, this is how our own signature insulation that is not ... is good, and dries fast. We have an ice grip sole obviously, like almost all of our winter models. The ice grip sole provides a superior grip on ice, or slippery grounds in the winter. The model is additionally insulated here within the sole and is an ideal boot for, as you can see, that it's suitable for snowshoes and snowshoeing. This model has already convinced in some of the tests that they have made with it and it's going to become a really popular boot from Hanwag.
 
-A really light product is the Belorado in this winter version, we also have the summer version of this boot. It's a light hiking boot, very light in weight obviously. Provided with an ice grip sole and additional insulation and a warmer lighting. Not for the coldest conditions, but for winter hikes on snow that is not too deep. Really light, light hiking boot. 
+A really light product is the Belorado in this winter version, we also have the summer version of this boot. It's a light hiking boot, very light in weight obviously. Provided with an ice grip sole and additional insulation and a warmer lighting. Not for the coldest conditions, but for winter hikes on snow that is not too deep. Really light, light hiking boot.
 
 Another model that is very popular that we have now in new colors is the Tolja. It's a gortex lined women's boot that provides all the features that our winter products have. The ice grip sole, a warm lining, a really warm liner in it, with a zipper that can be unzipped for easier access. We now provide this boot in a lot of different colors, which ... buys a good choice fashion wise.
 
-Konstantin:	Dennis, I also found this thing, what is that?
+Dennis, I also found this thing, what is that?
 
-Hanwag:	Felt gaiters. The look a little bit ancient to some people. Felt gaiters are there to provide some extra warmth if you have a low cut boot or not enough warmth on your legs within snow conditions that your lower legs might get cold. You can add these to your shoes, these strap around before the heel and keep your calves and ankles warm.
+Felt gaiters. The look a little bit ancient to some people. Felt gaiters are there to provide some extra warmth if you have a low cut boot or not enough warmth on your legs within snow conditions that your lower legs might get cold. You can add these to your shoes, these strap around before the heel and keep your calves and ankles warm.
 
-Konstantin:	You have also mentioned a number of times the ice grip, can you tell more about it?
+You have also mentioned a number of times the ice grip, can you tell more about it?
 
-Hanwag:	Yes. This would actually be a good idea to show you. We have an ice block here, and what regular soles have is just a rubber mixture. The ice grip sole however has zones in it with a mixture of rubber that has small glass particles in it, which increases the grip of the boot, which can be shown like this. This is ice that is already a little bit wet, so not quite the same conditions as outside. If you put this boot here, you see it's not moving at this higher slope. If, you touch it you feel that it has a lot of grip to it. [crosstalk 00:03:46] A regular sole you would put on here would automatically slip down. 
+Yes. This would actually be a good idea to show you. We have an ice block here, and what regular soles have is just a rubber mixture. The ice grip sole however has zones in it with a mixture of rubber that has small glass particles in it, which increases the grip of the boot, which can be shown like this. This is ice that is already a little bit wet, so not quite the same conditions as outside. If you put this boot here, you see it's not moving at this higher slope. If, you touch it you feel that it has a lot of grip to it. [crosstalk 00:03:46] A regular sole you would put on here would automatically slip down.
 Konstantin:	Whee!
 
-Hanwag:	So this sole really works, it's been proving itself for quite some time now. We are proud to still use it and have it in our ...
+So this sole really works, it's been proving itself for quite some time now. We are proud to still use it and have it in our ...
 
 ---
 

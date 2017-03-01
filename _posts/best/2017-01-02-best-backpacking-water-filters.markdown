@@ -19,7 +19,7 @@ Currently, I am using the Sawyer Mini Water Filtration System on my trips since 
 
 Also keep in mind that none of the water filters we have selected can filter out viruses. Filters with a carbon element gives the water a neutral taste. The water filters which I have seletected should not be used with salt water or with water conterminated with chemicals.
 
-To remove viruses you can combine a filter with e.g. the <a href="http://amzn.to/2mdxPNH" rel="nofollow">Steripen Freedom</a> (we have not tested if it effecively removes viruses). The Steripen uses an UV light against Viruses and can be recharged through the USB port.
+To remove viruses you can combine a filter with e.g. the <a href="http://amzn.to/2mdxPNH" rel="nofollow">Steripen Freedom</a> (we have not tested if it effecively removes viruses). The Steripen uses an UV light against Viruses and can be recharged through the USB port. Also have a look at our <a href="#interview">interview</a> at the end of this article.
 
 Here is our <a href="#list">selection</a> of the best water filters for 2017 which I  have selected for hiking and backpacking.
 
@@ -78,7 +78,7 @@ If you prefer a filter where you need to pump then the Katadyn Hiker Pro filter 
 
 ---
 
-## Our Interview with LifeStraw
+## Our <a href="#interview">interview</a> with LifeStraw
 
 Here is our video where we (Konstantin) interviewed LifeStraw and had a hands on experiene with the product.
 
@@ -86,55 +86,51 @@ Here is our video where we (Konstantin) interviewed LifeStraw and had a hands on
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/f58qpBLo_U4"></iframe>
 </div>
 
-K:	Hi. This is Konstantin. I'm here with LifeStraw. Please would you tell us more about your product?
+---
 
-LS:	Yes. Hi Konstantin. This is a LifeStraw Personal. It's a very easy to use water filter that will allow you to drink out of any fresh water. A river, a stream, or a dam, or a pond. It will give you instant access to fresh water. The filter will remove all the parasites and bacteria and turbidity from the water. I'll just give you a short demonstration on how it works. If you have your water source here, you simply just apply the LifeStraw into the water source, then you drink like a normal straw. It's very easy to use and also for little children. You just drink like this. 
-	
-You have nice fresh water at hand at any time. It's important when you finish drinking, you blow backwards to clean out the filter for any dirt and bacterias like this. Then you are good to go again. The filter will clean 1,000 liters of water. 
+Hi. This is Konstantin. I'm here with LifeStraw. Please would you tell us more about your product?
 
-Eventually, when you reach full capacity of the filter, you see this is the inside of the filter, you have hollow fibers with very very small porous, 0.2 microns that will allow the water to penetrate through the filter. All the parasites, bacteria, and dirt will stay on the outside of the filter. That leads to when you've reached the full capacity of the filter which is 1,000 liters, this filter will start to block and you will feel more and more resistance when you draw in the water. 
+Yes. Hi Konstantin. This is a LifeStraw Personal. It's a very easy to use water filter that will allow you to drink out of any fresh water. A river, a stream, or a dam, or a pond. It will give you instant access to fresh water. The filter will remove all the parasites and bacteria and turbidity from the water. I'll just give you a short demonstration on how it works. If you have your water source here, you simply just apply the LifeStraw into the water source, then you drink like a normal straw. It's very easy to use and also for little children. You just drink like this.
+
+You have nice fresh water at hand at any time. It's important when you finish drinking, you blow backwards to clean out the filter for any dirt and bacterias like this. Then you are good to go again. The filter will clean 1,000 liters of water.
+
+Eventually, when you reach full capacity of the filter, you see this is the inside of the filter, you have hollow fibers with very very small porous, 0.2 microns that will allow the water to penetrate through the filter. All the parasites, bacteria, and dirt will stay on the outside of the filter. That leads to when you've reached the full capacity of the filter which is 1,000 liters, this filter will start to block and you will feel more and more resistance when you draw in the water.
 
 Eventually, you won't get any water through the filter and that means the-
 
-K:	You need to replace the filter.
+You need to replace the filter.
 
-LS:	Yes, but it also means it's a very safe way because the water you're getting will always be clean and safe.
+Yes, but it also means it's a very safe way because the water you're getting will always be clean and safe.
 
-K:	Is it possible to test one?
+Is it possible to test one?
 
-LS:	Yes, it is. You're good to go here.
+Yes, it is. You're good to go here.
 
-K:	So first?
+So first?
 
-LS:	So first you just fill the glass with water, Konstantin. 
+So first you just fill the glass with water, Konstantin.
 
-K:	Yes.
+Yes.
 
-LS:	Then you
+Then you.
 
-K:	You don't need to use the glass do you?
+You don't need to use the glass do you?
 
-LS:	No but if I drank out of the bowl, you won't see that the water disappears. Now you're able to see what happens.
+No but if I drank out of the bowl, you won't see that the water disappears. Now you're able to see what happens.
 Very good?
 
-K: Yep. It's actually pretty nice.
+Yep. It's actually pretty nice.
 
-LS:	Then you blow it backwards. Yes. Clean out the filter. 
+Then you blow it backwards. Yes. Clean out the filter.
 
-K:	I do feel some resistance and pressure when I'm doing it. It takes also some moments to get it actually ...
+I do feel some resistance and pressure when I'm doing it. It takes also some moments to get it actually ...
 
-LS:	When the filter is empty, you need to fill the filter at first with water before you get the water in. But when you have the water, the flow is steady and constant and it's easy to use, even for little children.
+When the filter is empty, you need to fill the filter at first with water before you get the water in. But when you have the water, the flow is steady and constant and it's easy to use, even for little children.
 
-K:	Yeah. If you have a child, maybe its a good idea for a parent first to try it and then ...
+Yeah. If you have a child, maybe its a good idea for a parent first to try it and then ...
 
-LS:	You prime the filter first as a parent, and fill it up. Then you pass it on to your child and they are ready to go.
+You prime the filter first as a parent, and fill it up. Then you pass it on to your child and they are ready to go.
 
-K:	Thank you very much.
-
-LS:	You're welcome.
-
-K:	Thanks. 
- 
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";

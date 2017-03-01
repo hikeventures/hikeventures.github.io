@@ -13,7 +13,7 @@ layout: post
 <h2 style="color:red">Our selection of the best lightweight warm fleece jackets 2017 for ultralight outdoor adventures.</h2>
 <br>
 
-Are you planning an outdoor adventure to a place where it's wet or humid? Then you should have a warm fleece jacket in your backpack. A fleece jacket can be used as a mid-layer to keep you warm while you are active (climbing, hiking, skiing or biking) and dries rather fast. For wet conditions a fleece jacket is a better choice than a [down jacket][1] to protect yourself against the cold as down will lose it's insulation once it's wet. Here is our <a href="#list">selection</a> of the best fleece jackets for 2017. {% include disclaimer.html %}
+Are you planning an outdoor adventure to a place where it's wet or humid? Then you should have a warm fleece jacket in your backpack. A fleece jacket can be used as a mid-layer to keep you warm while you are active (climbing, hiking, skiing or biking) and dries rather fast. For wet conditions a fleece jacket is a better choice than a [down jacket][1] to protect yourself against the cold as down will lose it's insulation once it's wet. Here is our <a href="#list">selection</a> of the best fleece jackets for 2017. Also have a look at our <a href="#interview">interview</a> at the end of this article. {% include disclaimer.html %}
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30599065514/in/photolist-NBWd85-NBWdpC-PGnS2B-NBWekf-PDJ1Eh-Dv2uSF-E1hZc9-EjbrxT-EgXSbQ-tg14Q2-t3DXr8-t2MuH9-t2LbQW-sdZym3-sec6c8-taL9R1-sTru6W-sTq9hY-sTrvww-sTy6fR-sebeM6-taZSRR-sTpojY-sebpWz-t8FgSm-t8Fenm-sTxnjB-t8FiiN-sTy6CV-t8F1NU-tb1bye-sTxzdB-sTr9gW-tb3Ehx-sdZRVb-sTri2G-taL1TN-sTq5Jq-tb1DEP-sTrrNj-se19pJ-sTy5sZ-sTrwSs-sTrseQ-rbRFq6-pUo8mD-pUdSgn-pBY4wH-pUoXBr-pC1VP1" title="Best Fleece Jackets for 2017"><img src="https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg" width="1024" height="683" alt="Best Fleece Jackets for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -118,25 +118,25 @@ Keep in mind that lighter material might be less durable depending on the techno
 
 A good idea is also to combine a fleece jacket with a [wind jacket][11] since fleece jackets are not windproof and you won't sweat that much in a wind jacket than in a [rain jacket][12].
 
-## Out interview with Houdini
+## Our <a href="#interview">interview</a> with Houdini
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Wa7DCO-aj3I"></iframe>
 </div>
 
-Konstantin:	Hi, this is Konstantin and I've got Magnus from Houdini. Magnus, would you tell me something about your interesting products?
+Hi, this is Konstantin and I've got Magnus from Houdini. Magnus, would you tell me something about your interesting products?
 
-Magnus:	Yeah, absolutely. Here we got the Power Houdi. It's a great Houdini product. It's made from Polartec Power Stretch Pro, which is a really nice fleece fabric and it's really warm, comfortable, has a nice fit to it so it's not too tight, but not too loosely fit, has a tight hoodie that works perfect underneath the shell we have here. I would say it's the best fleece on the market. Everybody should have one.
+Yeah, absolutely. Here we got the Power Houdi. It's a great Houdini product. It's made from Polartec Power Stretch Pro, which is a really nice fleece fabric and it's really warm, comfortable, has a nice fit to it so it's not too tight, but not too loosely fit, has a tight hoodie that works perfect underneath the shell we have here. I would say it's the best fleece on the market. Everybody should have one.
 
-Konstantin:	This is quite interesting what about the quality of the material.
+This is quite interesting what about the quality of the material.
 
-Magnus:	Basically, you have one that's brand new and one that's 10 years old, and they look exactly the same. I would say I have maybe 10 Power Houdis in my wardrobe and the one like the most, it's the oldest one I got because it's the softest and it fits me perfect because I've been wearing it so much.
+Basically, you have one that's brand new and one that's 10 years old, and they look exactly the same. I would say I have maybe 10 Power Houdis in my wardrobe and the one like the most, it's the oldest one I got because it's the softest and it fits me perfect because I've been wearing it so much.
 
 Then here, we have a new product called the Wooler Houdi, basically the same product design something really new to the market, it's 100% wool but it has this grid inside that makes it really warm but still breathable and it transportes more moisture. It's also part of a new wool program that makes it 100% traceable so we know which farm all the wool comes from. Has a really nice micron to it so it's 7 1/2 microns which makes it super-super soft, make the skin and if you wear it without anything underneath. It's biodegrable, so we think this is something that a lot of customers want to wear, good for nature and it's also super nice to wear.
 
-Konstantin:	Yup. Thank you very much, Magnus.
+Yup. Thank you very much, Magnus.
 
-Magnus:	Thank you very much.
+Thank you very much.
 
 ---
 

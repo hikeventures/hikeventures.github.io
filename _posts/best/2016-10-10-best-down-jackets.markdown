@@ -17,7 +17,7 @@ Do you need a new warm down jacket for the winter or for a cold summer night dur
 
 We have selected a broad range of down jackets which can be worn in different conditions and for different activities like hiking, backpacking, skiing, snowboarding, mountaineering, climbing or on any other outdoor adventure.
 
-Also, check one of our <a href="#video">packrafting videos</a> where we had down jackets with us while packrafting in Northern Sweden. {% include disclaimer.html %}
+Also, check one of our <a href="#video">packrafting videos</a> where we had down jackets with us while packrafting in Northern Sweden. Also check our <a href="#interview">interview</a> at the end of this article with 2 big outdoor brands regarding down jackets. {% include disclaimer.html %}
 
 ---
 
@@ -349,42 +349,42 @@ You can keep your down jacket dry by storing it in a waterproof compression bag 
 
 ---
 
-## Our interview with Berghaus
+## Our <a href="#interview">interview</a> with Berghaus
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3FENF01oMq4"></iframe>
 </div>
 
 
-Konstantin:	Hi. This is Konstantin, and I've got Chris here from Berghaus. Chris, could you tell us something about one or two, three highlights of your collection?
+Hi. This is Konstantin, and I've got Chris here from Berghaus. Chris, could you tell us something about one or two, three highlights of your collection?
 
-Chris:	Well, here's the first. This is the Extrem 8000 Pro Jacket, which has just won an ISPO Gold Award, about which we are very pleased. This is the most technical jacket in the Berghaus range. It sits in the Extrem, the pinnacle range that Berghaus makes, and it won the award for three fantastic innovations all called Xpanse. 
+Well, here's the first. This is the Extrem 8000 Pro Jacket, which has just won an ISPO Gold Award, about which we are very pleased. This is the most technical jacket in the Berghaus range. It sits in the Extrem, the pinnacle range that Berghaus makes, and it won the award for three fantastic innovations all called Xpanse.
 
-There's the Xpanse Back, which provides amazing freedom of movement. When you need to stretch, or move around, the back of your ... This area here. It's a basically a panel. It expands, and then retracts when you don't need it. 
+There's the Xpanse Back, which provides amazing freedom of movement. When you need to stretch, or move around, the back of your ... This area here. It's a basically a panel. It expands, and then retracts when you don't need it.
 
-The Xpanse Hood, which uses a system of magnets. When you're in full winter conditions, you've got a climbing helmet, but of course you've got a hood with a lot of volume. When you need it, you can get that volume by expanding it, but then it clips back into place using those magnets, so you don't get the excess fabric moving around in the wind when you don't need it, and you don't want it. 
+The Xpanse Hood, which uses a system of magnets. When you're in full winter conditions, you've got a climbing helmet, but of course you've got a hood with a lot of volume. When you need it, you can get that volume by expanding it, but then it clips back into place using those magnets, so you don't get the excess fabric moving around in the wind when you don't need it, and you don't want it.
 
-Finally, there's the Xpanse face guard there, to which you can zip away when you don't need it, but when you're in full winter conditions, but you don't want to get too steamed up, you've got that face guard with the little holes there that allows you to continue to operate at optimum level in the worst conditions. 
-	
+Finally, there's the Xpanse face guard there, to which you can zip away when you don't need it, but when you're in full winter conditions, but you don't want to get too steamed up, you've got that face guard with the little holes there that allows you to continue to operate at optimum level in the worst conditions.
+
 That's the Extrem 8000 Pro Jacket, which will be available from autumn/winter 2016
 
-Konstantin:	Chris, can you tell us something about this product as well. 
+Chris, can you tell us something about this product as well.
 
-Chris:	Yeah. This is called the Ramche 2.0, which is a Berghaus down jacket, expedition level down jacket. 850 filled power goose down. Hydrophobic down, so it repels water, will continue to perform when it gets wet, and the treatment on that is powered by NikWax, so it's PFC-free, which is an important sustainability message. 
+Yeah. This is called the Ramche 2.0, which is a Berghaus down jacket, expedition level down jacket. 850 filled power goose down. Hydrophobic down, so it repels water, will continue to perform when it gets wet, and the treatment on that is powered by NikWax, so it's PFC-free, which is an important sustainability message.
 
-The Ramche is very special for the kid, and it's been tested by our mountaineer Mick Fowler in the worst conditions in the Himalayas. It's been thermally ... Sorry. There are three zones of body mapping in this down, so you get the extra heat where you need it most, and you get lower levels of down where you need heat to escape when you're moving fast in the outdoors. 
+The Ramche is very special for the kid, and it's been tested by our mountaineer Mick Fowler in the worst conditions in the Himalayas. It's been thermally ... Sorry. There are three zones of body mapping in this down, so you get the extra heat where you need it most, and you get lower levels of down where you need heat to escape when you're moving fast in the outdoors.
 
-The baffles are stitched through baffles on the outside and the inside, but they're offset like that, so you don't get any cold spots throughout the product. Between the two layers of down baffles there is reflect mesh, which is aluminum infused mesh that reflects heat back into the jacket, and makes it even warmer than you might expect it to be. 
+The baffles are stitched through baffles on the outside and the inside, but they're offset like that, so you don't get any cold spots throughout the product. Between the two layers of down baffles there is reflect mesh, which is aluminum infused mesh that reflects heat back into the jacket, and makes it even warmer than you might expect it to be.
 
 The face fabric is an extremely tough and lightweight face fabric that repels water, windproof ...
 
-Konstantin:	Rip stop.
+Rip stop.
 
-Chris:	Rip stop, and in fact, Mick Fowler, our sponsored mountaineer, got it. He was testing a prototype, and he got it caught in his belay device while he was abseiling, and he thought, "Oh, no. I'm going to end up with down everywhere. There'll be feathers all over this mountain." He abseiled, I think it was about ... Completed his 50 foot abseil, and the fabric was marked, but it wasn't torn, so it's extremely tough for it's weight. 
+Rip stop, and in fact, Mick Fowler, our sponsored mountaineer, got it. He was testing a prototype, and he got it caught in his belay device while he was abseiling, and he thought, "Oh, no. I'm going to end up with down everywhere. There'll be feathers all over this mountain." He abseiled, I think it was about ... Completed his 50 foot abseil, and the fabric was marked, but it wasn't torn, so it's extremely tough for it's weight.
 
-You've got all that you'd expect from a full mountain down jacket, and it weights under 500 grams. Really lightweight. Really tough. Really warm. Really thermally efficient. It's the Ramche 2.0 from Berghaus. This again fits in the Extrem range. 
+You've got all that you'd expect from a full mountain down jacket, and it weights under 500 grams. Really lightweight. Really tough. Really warm. Really thermally efficient. It's the Ramche 2.0 from Berghaus. This again fits in the Extrem range.
 
-By the way, Extrem has been part of the Berghaus collection since 1986, so this is a 30th birthday of our pinnacle range. It's a really big year for the collection, which has been completely relaunched for 2016. 
+By the way, Extrem has been part of the Berghaus collection since 1986, so this is a 30th birthday of our pinnacle range. It's a really big year for the collection, which has been completely relaunched for 2016.
 
 ---
 
@@ -398,19 +398,19 @@ Konstantin:	I'm with Gilles from Rab here. What are the three, two, three most e
 
 Gilles:	For autumn/winter 2016?
 
-Konstantin:	Yes. 
+Konstantin:	Yes.
 
-Gilles:	We have the Zero G jacket, which is a 1000 fill power down jacket. At Rab we are specialists in down clothing and down sleeping bags. This is the lightest thousand fill power down jacket that we're launching for autumn/winter 16. It's the pinnacle of technology in our business. It really highlights the brand. 
+Gilles:	We have the Zero G jacket, which is a 1000 fill power down jacket. At Rab we are specialists in down clothing and down sleeping bags. This is the lightest thousand fill power down jacket that we're launching for autumn/winter 16. It's the pinnacle of technology in our business. It really highlights the brand.
 
 Then we have this synthetic filled ... This is a synthetic fill jacket, which copes really well with slightly wetter conditions, and can be worn as an outer layer, or a mid-layer. That's selling really, really well in the shops now. Then I'll show you the third thing.
 
-This is Merino+, which is our new base layer technology. This is a combination of Merino wool and impregnated polyester. It really is the best of both worlds. The handle is really, really soft, and it's comfortable against the skin. It's got a really broad activity use from really cold conditions where you're moving slowly, to warmer conditions where you're moving a bit quicker. 
+This is Merino+, which is our new base layer technology. This is a combination of Merino wool and impregnated polyester. It really is the best of both worlds. The handle is really, really soft, and it's comfortable against the skin. It's got a really broad activity use from really cold conditions where you're moving slowly, to warmer conditions where you're moving a bit quicker.
 
-It's like the best of both worlds. Best of Merino and best of synthetic. That's available in the shops now, but in the winter it will be called Merino+. 
+It's like the best of both worlds. Best of Merino and best of synthetic. That's available in the shops now, but in the winter it will be called Merino+.
 
-Our 2016 campaign is going to be called "Alpine Defined." That's the direction for Rab for 2016. 
+Our 2016 campaign is going to be called "Alpine Defined." That's the direction for Rab for 2016.
 
-Konstantin:	Thank you very much Gilles. 
+Konstantin:	Thank you very much Gilles.
 
 ---
 
