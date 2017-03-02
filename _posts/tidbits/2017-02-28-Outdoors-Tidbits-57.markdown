@@ -58,17 +58,4 @@ Did you know that you can also use your packraft during the winter? Try [snowraf
 
 [Gregory Pierpont](http://www.alpin.de/tests-produkte/rucksaecke/11405/artikel_rucksack_im_praxistest_daypack_gregory_pierpont.html)
 
-
----
-
-## Gear Reviews
-
----
-
-## Trip Reports
-
----
-
-## Photography News
-
 {% include tidbits.html %}
