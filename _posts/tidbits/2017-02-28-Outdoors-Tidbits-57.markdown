@@ -32,7 +32,7 @@ Did you know that you can also use your packraft during the winter? Try [snowraf
 
 [MSR PocketRocket 2 – Review Supplement #2](http://adventuresinstoving.blogspot.com/2017/01/msr-pocketrocket-2-review-supplement-2.html)
 
-[Belay Glasses] (https://www.climbing-high.co.uk/belay-glasses/belay-glasses-review/)
+[Belay Glasses](https://www.climbing-high.co.uk/belay-glasses/belay-glasses-review/)
 
 [Sea to Summit Toiletry Bag im Test](http://gipfelwelt.net/2017/01/18/sea-to-summit-toiletry-bag-im-test/)
 
