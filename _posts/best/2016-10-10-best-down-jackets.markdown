@@ -2,7 +2,7 @@
 title: Best Down Jackets for 2017
 description: Need a warm jacket for your autumn or winter? We found the best down jackets for 2017
 date: 2016-10-10 20:43:52
-update_date: 2016-12-20 12:43:52
+update_date: 2017-03-02 05:43:52
 category: articles
 tags:
   - articles
@@ -13,7 +13,7 @@ layout: post
 <h2 style="color:red">Ultimate top down jackets for ultralight trips and lightweight winter adventures to keep you warm.</h2>
 <br>
 
-Do you need a new warm down jacket for the winter or for a cold summer night during a hike? Here is our <a href="#list">selection</a> of the best down jackets for 2017 which we have selected to cover your summer and winter backcountry trips.
+Do you need a new warm down jacket for the winter or for a cold summer night during a hike? Here is our <a href="#list">selection</a> of the best down jackets for 2017 to cover your summer and winter hiking and backcountry trips.
 
 We have selected a broad range of down jackets which can be worn in different conditions and for different activities like hiking, backpacking, skiing, snowboarding, mountaineering, climbing or on any other outdoor adventure.
 
