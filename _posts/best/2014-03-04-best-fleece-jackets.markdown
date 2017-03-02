@@ -134,10 +134,6 @@ Basically, you have one that's brand new and one that's 10 years old, and they l
 
 Then here, we have a new product called the Wooler Houdi, basically the same product design something really new to the market, it's 100% wool but it has this grid inside that makes it really warm but still breathable and it transportes more moisture. It's also part of a new wool program that makes it 100% traceable so we know which farm all the wool comes from. Has a really nice micron to it so it's 7 1/2 microns which makes it super-super soft, make the skin and if you wear it without anything underneath. It's biodegrable, so we think this is something that a lot of customers want to wear, good for nature and it's also super nice to wear.
 
-Yup. Thank you very much, Magnus.
-
-Thank you very much.
-
 ---
 
 <script type="text/javascript">
