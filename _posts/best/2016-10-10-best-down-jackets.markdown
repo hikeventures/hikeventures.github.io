@@ -374,19 +374,25 @@ By the way, Extrem has been part of the Berghaus collection since 1986, so this 
 
 ---
 
-## Our interview with RAB
+## Our interview with Rab
+
+Here is our interview with Rab talking about their down jackets.
+
+---
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9euEZxhFmuI"></iframe>
 </div>
 
-Konstantin:	I'm with Gilles from Rab here. What are the three, two, three most exciting products of your line?
+---
 
-Gilles:	For autumn/winter 2016?
+I'm with Gilles from Rab here. What are the three, two, three most exciting products of your line?
 
-Konstantin:	Yes.
+For autumn/winter 2016?
 
-Gilles:	We have the Zero G jacket, which is a 1000 fill power down jacket. At Rab we are specialists in down clothing and down sleeping bags. This is the lightest thousand fill power down jacket that we're launching for autumn/winter 16. It's the pinnacle of technology in our business. It really highlights the brand.
+Yes.
+
+We have the Zero G jacket, which is a 1000 fill power down jacket. At Rab we are specialists in down clothing and down sleeping bags. This is the lightest thousand fill power down jacket that we're launching for autumn/winter 16. It's the pinnacle of technology in our business. It really highlights the brand.
 
 Then we have this synthetic filled ... This is a synthetic fill jacket, which copes really well with slightly wetter conditions, and can be worn as an outer layer, or a mid-layer. That's selling really, really well in the shops now. Then I'll show you the third thing.
 
@@ -395,8 +401,6 @@ This is Merino+, which is our new base layer technology. This is a combination o
 It's like the best of both worlds. Best of Merino and best of synthetic. That's available in the shops now, but in the winter it will be called Merino+.
 
 Our 2016 campaign is going to be called "Alpine Defined." That's the direction for Rab for 2016.
-
-Konstantin:	Thank you very much Gilles.
 
 ---
 
