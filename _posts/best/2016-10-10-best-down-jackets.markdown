@@ -223,25 +223,6 @@ The Canada Goose Expedition Down Parka was originally designed for scientists in
 
 <hr>
 
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Search Results from Amazon";
-amzn_assoc_default_search_phrase = "Tent MSR";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "965296fb866182bb89b535202541adda";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
----
-
 ## FAQ on Down Jackets
 
 ### When not to wear a down jacket?
@@ -351,10 +332,15 @@ You can keep your down jacket dry by storing it in a waterproof compression bag 
 
 ## Our <a href="#interview">interview</a> with Berghaus
 
+Here is a short interview with Berghaus about their down jackets.
+
+---
+
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3FENF01oMq4"></iframe>
 </div>
 
+---
 
 Hi. This is Konstantin, and I've got Chris here from Berghaus. Chris, could you tell us something about one or two, three highlights of your collection?
 
