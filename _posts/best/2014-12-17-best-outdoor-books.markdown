@@ -1,6 +1,6 @@
 ---
-title: 14 best Outdoor Books about Hiking and Climbing 2016
-description: Need some adventures? Check our Outdoor Books Guide for 2016
+title: 14 best Outdoor Books about Hiking and Climbing 2017
+description: Need some adventures? Check our Outdoor Books Guide for 2017
 date: 2014-12-17 17:49:58
 category: articles
 tags:
@@ -10,7 +10,9 @@ tags:
   - hiking
 layout: post
 ---
-Here comes our first issue of our Outdoor Books Guide where you can find the latest and most interesting books about outdoor activities, adventures and photography in 2015. {% include disclaimer.html %}
+Here comes our first issue of our Outdoor Books Guide where you can find the latest and most interesting books about outdoor activities, adventures and photography in 2017.
+
+{% include disclaimer.html %}
 
 <a href="https://www.flickr.com/photos/90204224@N07/10906593816"><img src="https://farm4.staticflickr.com/3726/10906593816_40d9a30fce_b.jpg" width="1024" height="687"></a><!--more-->
 

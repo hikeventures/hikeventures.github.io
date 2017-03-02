@@ -1,13 +1,13 @@
 ---
 layout: page
-title: The Best Outdoor Blogs
+title: The Best Outdoor Bloggers 2017
 date: "2015-04-06 21:21"
 comments: false
 footer: false
 navbar: Blogs
 
 ---
-Here is a selection of some of the best outdoor blogs and we are always adding new blogs to our list. We are always interested to meet and share ideas with other outdoor bloggers and to meet up for an outdoor adventure like hiking or packrafting. If you are interested to appear on the list below just <a href="http://www.hikeventures.com/about/#contact">send</a> us the URL to your blog and we might add you to our list.
+Here is a selection of some of the best outdoor blogs I could find and we are always adding new blogs to our list. We are always interested to meet and share ideas with other outdoor bloggers and to meet up for an outdoor adventure like hiking or packrafting. If you are interested to appear on the list below just <a href="http://www.hikeventures.com/about/#contact">send</a> us the URL to your blog and we might add you to our list.
 
 <hr>
 
@@ -130,7 +130,7 @@ I hope my blog is helpful and/or enjoyable to read.  Take care and happy trails 
 ## United Kingdom
 
 ### <a href="http://andersbrogaardadventures.tumblr.com">andersbrogaardadventures.tumblr.com</a>
-My blog, Facebook and Youtube is about adventure, the great outdoors and photography/film.   
+My blog, Facebook and Youtube is about adventure, the great outdoors and photography/film.
 There is a lot of pictures, small stories and gear. Im on the Woodland Ways two year bushcraft instructors course, an aspiring Mountain Leader and member of BMC and MCofS. REC2 certified and a very keen trekker. Im especially interested in the Scottish Highlands and will spend a lot of time over the next year, exploring these wonderful hills and making pictures and video while doing so. <a href="https://www.facebook.com/andersbrogaardadventures"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/andersbrogaard"><i class="fa fa-twitter"></i></a>  <a href="https://instagram.com/andersbrogaardphoto/"><i class="fa fa-instagram"></i></a>  <a href="https://www.youtube.com/channel/UCCimG-eeJ31j_ihV5VTPJdg/videos"><i class="fa fa-youtube"></i></a>
 
 ### <a href="http://blackdogbicycling.blogspot.com">blackdogbicycling.blogspot.com</a>
@@ -158,7 +158,7 @@ One Pace Forward is blog for hiking, adventure, travels, history & more, both in
 ## United States
 
 ### <a href="http://adventures-in-the-outdoors.blogspot.fi/">adventures-in-the-outdoors.blogspot.fi</a>
-Adventure in the Outdoors is home to stories of hiking, camping, climbing and other outdoor adventures. There are trail news and information stories. For example, information on trail maintenance and building, lean-to reconstruction and more and events occurring throughout the region. We also have reviews of outdoor destinations, gear and advice. It's all here at Adventures in the Outdoors.<a href="https://www.facebook.com/AdventuresInTheOutdoors/"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/OutdrAdventures"><i class="fa fa-twitter"></i></a>  
+Adventure in the Outdoors is home to stories of hiking, camping, climbing and other outdoor adventures. There are trail news and information stories. For example, information on trail maintenance and building, lean-to reconstruction and more and events occurring throughout the region. We also have reviews of outdoor destinations, gear and advice. It's all here at Adventures in the Outdoors.<a href="https://www.facebook.com/AdventuresInTheOutdoors/"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/OutdrAdventures"><i class="fa fa-twitter"></i></a>
 
 
 ### <a href="http://www.adventuretykes.com">adventuretykes.com</a>
