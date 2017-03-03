@@ -15,7 +15,8 @@ layout: post
 
 Planning a winter trip in the North or just need a headlamp for the night? A good lightweight headlamp is an essential part for many outdoor activities like running, cycling, packrafting, ski touring, climbing or any other backcountry trip. It can be a life saver and should always be in your backpack. Here is my <a href="#list">selection</a> of the best headlamps for 2017. {% include disclaimer.html %}
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/13975652752/in/photolist-GbSzpE-HnoEX7-GaxJVX-GXb3Qv-fBZbWn-qN9fdL-qeZAQ1-pJRcuY-oXDYGk-oXE2fB-pUdwjt-pEYKYc-pUotup-pSioYy-oJ8eZL-qGeLzL-o5eCPi-nKXNaZ-o1pT3W-nbZrcA-nbXFbR-n9UVEg-pF3ZMU-pvG9Af-oMnq8m-oCa2tz-ofA95w-o3ozXu-o1sHd9-nL2c9g-nKXHCH-nB97hW-nTASyZ-nge5dS-nhY6vf-nhYSEd-nqwZew-noqfLG-n9UL3q-nbX8MF-hXNm3Z-hXNmLH-hXMK7h-hXMq24-dXbkpf-dL8yRc-dNuTzR-dNAuXb-dNuWmP-dNuVEk" title="Best headlamps 2017"><img src="https://c1.staticflickr.com/8/7037/13975652752_fbf38fb617_k.jpg" width="2048" height="1367" alt="Best headlamps 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a href="http://www.amazon.com/Petzl-NAO-Headlamp-575-Lumens/" rel="nofollow"><img src="https://farm8.staticflickr.com/7457/15910915424_192439b27f_b.jpg" alt="Best headlamps of 2017"></a>
+Konstantin wearing a Petzl Nao on the top of a fell in [Finnish Lapland][4]
 
 Personally, I like the Petzl Nao Plus most since it has plenty of features and also offers the Petzl Nao Belt Kit which allows me to carry the battery under the jacket rather than on my head which can shorten the beattery life especially when wearing in [colder regions][1]. I have also used the previous model of the Nao in [Swedish Lapland][2]. However, if you are looking for a smaller headlamp which is also waterproof then I would rather pick the <a href="http://amzn.to/2fkaiqv" rel="nofollow" target="_blank">Black Diamond Spot</a> which features red light and 200 Lumen - sufficient for hiking even in the Alps.
 
@@ -80,9 +81,9 @@ Personally, I like the Petzl Nao Plus most since it has plenty of features and a
 <hr>
 
 
-<h3><a href="http://amzn.to/2gBew1C" rel="nofollow">Petzl Nao Plus</a></h3>
+<h3><a href="http://amzn.to/2gBew1C" rel="nofollow">Petzl Nao+</a></h3>
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/B01LFW5BZA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LFW5BZA&linkCode=as2&tag=hikeve-20&linkId=2d9e99b52f76bcef56db554a685feaba"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LFW5BZA&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LFW5BZA" width="1" height="1" border="0" alt="Petzl Nao Plus" style="border:none !important; margin:0px !important;" />
+<a target="_blank" rel="nofollow"  href="https://www.amazon.com/gp/product/B01GFPMEXY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GFPMEXY&linkCode=as2&tag=hikeve-20&linkId=7692c42c112d14f3972fcff2c3a6f9a8"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01GFPMEXY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01GFPMEXY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 187 grams / 0.4 lbs
 **Lumen:** 750
@@ -193,30 +194,6 @@ The Petzl e+LITE is the emergency headlamp from Petzl. It could also be a good c
 <a href="http://amzn.to/2drHzyP" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 <hr>
-
-<a href="http://www.amazon.com/Petzl-NAO-Headlamp-575-Lumens/" rel="nofollow"><img src="https://farm8.staticflickr.com/7457/15910915424_192439b27f_b.jpg" alt="Best headlamps of 2017 - Petzl Nao in Finland"></a>
-
-Konstantin wearing a Petzl Nao on the top of a fell in [Finnish Lapland][4]
-
-<hr>
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Search Results from Amazon";
-amzn_assoc_default_search_phrase = "Tent MSR";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "965296fb866182bb89b535202541adda";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
----
 
 ## Accessories
 
@@ -356,6 +333,9 @@ Not every headlamp is watertight. Some headlamps are only splash proof. Have a l
 ---
 
 ## Out interview with Petzl
+
+We have asked Petzl to show us their Petzl NAO+ and Reactic+
+
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UZziPhCDN48"></iframe>
