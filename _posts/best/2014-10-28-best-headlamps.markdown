@@ -335,8 +335,7 @@ Not every headlamp is watertight. Some headlamps are only splash proof. Have a l
 ## Out interview with Petzl
 
 We have asked Petzl to show us their Petzl NAO+ and Reactic+
-
-
+     
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UZziPhCDN48"></iframe>
 </div>
