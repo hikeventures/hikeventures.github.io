@@ -22,6 +22,8 @@ In this article I am going disccuss if you should choose the Sawyer Mini or the 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9599019542/in/photolist-HA39Bz-tgvZvQ-pYV6mJ-o2XKm8-qGiB1v-fCeu5W-dupp9e-e51wE7" title="Sawyer or LifeStraw"><img src="https://c1.staticflickr.com/8/7459/9599019542_fa67333918_k.jpg" width="2048" height="1365" alt="Best lightweight water filters 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<!--more-->
+
 ---
 
 <h2 id="list">Sawyer Mini vs. LifeStraw Personal</h2>
@@ -38,8 +40,6 @@ In this article I am going disccuss if you should choose the Sawyer Mini or the 
          <tr><td>&nbsp;</td><td><a rel="nofollow" href="http://amzn.to/2kOYYW6" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a></td><td><a rel="nofollow" href="http://amzn.to/2lZIqQl" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a></td></tr>
         </tbody></table>
 </div>
-
-<!--more-->
 
 ---
 
