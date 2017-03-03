@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Should you buy the LifeStraw or Sawyer Mini?
+title: LifeStraw or Sawyer Mini to filter water?
 description: Differences between the LifeStraw and Sawyer water filter.
 date: 2017-03-03 07:30:00
 category: article
