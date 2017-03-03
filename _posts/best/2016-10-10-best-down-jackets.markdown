@@ -27,12 +27,6 @@ Konstantin snowshoeing in [Finnish Lapland](http://www.hikeventures.com/snowshoe
 
 ---
 
-The down jackets we have selected have a fill power of 800 and more since they offer the best warmth-weight ratio and are considered to be lightweight down jackets and pack small and light. We have also included very warm down parkas with lower fill power but they are suitable for very cold conditions. Moreover, our selection includes 3-season down jacket as well as winter down jackets.
-
-The lighter jackets usually come with less down and are more suitable for warmer months or as a mid-layer during the winter. Some people also prefer synthetic insulation rather than down. However, keep in mind that synthetic insulation is more bulky and offers less insulation than down. Synthetic insulation might be a better choice in very damp or wet conditions.
-
-<hr>
-
 <h2 id="list"> The best down jackets of 2017</h2>
 
 <div class="table-responsive">
@@ -95,6 +89,9 @@ The lighter jackets usually come with less down and are more suitable for warmer
 <!--more-->
 
 <hr>
+
+
+The lighter jackets usually come with less down and are more suitable for warmer months or as a mid-layer during the winter. Some people also prefer synthetic insulation rather than down. However, keep in mind that synthetic insulation is more bulky and offers less insulation than down. Synthetic insulation might be a better choice in very damp or wet conditions.
 
 Sometimes you might also get a down jacket for a significant lower price especially at the end of the season when stores want to clear their stock. In many cases the new models just come with a different color so it's worth to have a look on the old models as well.
 
@@ -231,12 +228,6 @@ You should avoid wearing your down-jacket while you are active (e.g. hiking, bik
 
 ---
 
-### When not to wear a down jacket?
-
-You should avoid wearing your down-jacket while you are active (e.g. hiking, biking, climbing or skiing) since down insulates less when it gets wet. So ideally you wear a [fleece jacket][18] when you are active and switch to your down jacket when you are resting.
-
----
-
 ### What is down quality?
 
 A high down quality indicates that less down is needed to keep you warm for the same weight (e.g. a fill power of 900 keeps you more warm than a fill power of 700 with the same amount of down) - having higher warmth-to-weight ratio. A down jacket with the highest fill power and the lightest shell fabric can be considered an ultralight down jacket. Fill power is measured by cuin. A ratio of 90:10 expresses the down-feather ratio (90% down and 10% feathers).
@@ -286,41 +277,12 @@ To keep the warmth inside your jacket, a waist drawstring and wrist closures (e.
 
 Many new down jackets feature nowadays a light ripstop shell to make the down jacket a bit resistant against moisture. One disadvantage of those light ripstop shells is that they are not very durable and if it starts raining your down jacket will still soak up water. However, we found them to be sufficient as we usually only wear a down jacket to walk around in camp or as an additional layer in my sleeping bag. So in general, we don't find it important to have a waterproof down jacket which would also lower the breathability of the down jacket.
 
----
-
-### Should a down jacket have a hood?
-
-We would go for a hooded down jacket, as you can use the hood also in your sleeping bag if temperatures drop below of what your sleeping bag is capable to handle.
 
 ---
 
 ### How to clean a down jacket?
 
 The best way to clean a down jacket is to wash it inside out in a washing machine with very low speed. As washing liquid we always use Nikwax Downwash and sometimes additionally Nikwax Downproof to make the down a bit more resistant against moisture.
-
----
-
-### What is the difference in traditional and hydrophobic down (or HydroDown)?
-
-Hydrophobic down does not absorb water that quickly as traditional down. A hydrophobic down jacket keeps its insulation longer than a traditional down jacket if it gets wet.
-
----
-
-### Down jackets compared to synthetic filled jackets
-
-Synthetic filled jackets keep you dry even so when they are wet. Disadvantages of a synthetic filled jacket is it's shorter life and it takes more space to pack it in the backpack. It also weights more to deliver the same amount of warmth compared to a down filled jacket. Down is more durable than synthetic fill, more breathable, windproof but also dries slower. A wet down jacket also weights more than a wet synthetic jacket since it absorbs more water. Usually, we carry our down jacket and sleeping bag in a waterproof stuff sack if we don't need them.
-
----
-
-### Which design features are important on a down jacket?
-
-To keep the warmth inside your jacket, a waist drawstring and wrist closures (e.g. Velcro) are important features. Pockets and a hood are useful as well. The hood should be sewed to the jacket if you want to get maximum warmth. Less pockets and zippers on a down jacket can also reduce weight.
-
----
-
-### Which fabric shell should be used on a lightweight down jacket?
-
-Many new down jackets feature nowadays a light ripstop shell to make the down jacket a bit resistant against moisture. One disadvantage of those light ripstop shells is that they are not very durable and if it starts raining your down jacket will still soak up water. However, we found them to be sufficient as we usually only wear a down jacket to walk around in camp or as an additional layer in my sleeping bag. So in general, we don't find it important to have a waterproof down jacket which would also lower the breathability of the down jacket.
 
 ---
 
