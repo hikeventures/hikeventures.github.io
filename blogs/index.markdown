@@ -1,13 +1,13 @@
 ---
 layout: page
-title: The Best Outdoor Bloggers 2017
+title: Outdoor Bloggers
 date: "2015-04-06 21:21"
 comments: false
 footer: false
 navbar: Blogs
 
 ---
-Here is a selection of some of the best outdoor blogs I could find and we are always adding new blogs to our list. We are always interested to meet and share ideas with other outdoor bloggers and to meet up for an outdoor adventure like hiking or packrafting. If you are interested to appear on the list below just <a href="http://www.hikeventures.com/about/#contact">send</a> us the URL to your blog and we might add you to our list.
+Here is a selection of outdoor blogs and bloggers we have been in contact with. We are always interested to meet and share ideas with other outdoor bloggers and to meet up for an outdoor adventure like hiking or packrafting. If you are interested to appear on the list below just <a href="http://www.hikeventures.com/about/#contact">send</a> us the URL to your blog and we might add you to our list.
 
 <hr>
 
