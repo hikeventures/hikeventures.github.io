@@ -50,7 +50,7 @@ Personally, I like the Petzl Nao Plus most since it has plenty of features and a
           <td><a href="http://amzn.to/2fkaiqv" target="_blank" rel="nofollow">Black Diamond Spot</a></td><td>90g</td><td>200</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2e34Jyw" target="_blank" rel="nofollow">Black Diamond Storm</a></td><td>110g</td><td>160</td>
+          <td><a href="http://amzn.to/2e34Jyw" target="_blank" rel="nofollow">Black Diamond Storm</a></td><td>110g</td><td>250</td>
         </tr>
 
         <tr>
@@ -62,7 +62,7 @@ Personally, I like the Petzl Nao Plus most since it has plenty of features and a
         </tr>
 
         <tr>
-          <td><a href="http://amzn.to/2evTLRy" target="_blank" rel="nofollow">Black Diamond Icon</a></td><td>220g</td><td>200</td>
+          <td><a href="http://amzn.to/2evTLRy" target="_blank" rel="nofollow">Black Diamond Icon</a></td><td>230g</td><td>500</td>
         </tr>
 
         <tr>
@@ -111,12 +111,12 @@ Almost half the Lumen power of the Petzl Nao, the Petzl Tikka RXP is much lighte
 
 <a href="http://www.amazon.com/gp/product/B005FNCPBE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005FNCPBE&linkCode=as2&tag=hikeve-20&linkId=WBUHJA3GU3TCBJXQ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005FNCPBE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005FNCPBE" width="1" height="1" border="0" alt="Black Diamond Icon" style="border:none !important; margin:0px !important;" />
 
-**Weight:** 220 grams / 0.49 lbs
-**Lumen:** 200
+**Weight:** 230 grams / 0.5 lbs
+**Lumen:** 500
 **Awards:** Top Pick - Outdoor Gear Lab 2014, Editors Choice Award 2014 - Fish Alaska
 **Watertightness:** IP X7 (watertight)
 
-With 220 grams and 'only' 200 Lumen, the Black Diamond Icon has a much lower Lumen/Weight ratio. For very wet conditions you should probably go for the Black Diamond Icon. However, with it's external battery it needs probably more room in your backpack and you will also carry more weight on your head.
+With 220 grams and 'only' 500 Lumen, the Black Diamond Icon has a pretty good Lumen/Weight ratio. For very wet conditions you should probably go for the Black Diamond Icon. However, with it's external battery it needs probably more room in your backpack and you will also carry more weight on your head.
 
 <a href="http://www.amazon.com/gp/product/B005FNCPBE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005FNCPBE&linkCode=as2&tag=hikeve-20&linkId=WBUHJA3GU3TCBJXQ" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Backcountry.com</button></a>
 
@@ -155,7 +155,7 @@ The Princeton Tec Apex is the brightest headlamp Princeton Tec has to offer. It'
 <a href="http://www.amazon.com/gp/product/B00H3MXOQU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00H3MXOQU&linkCode=as2&tag=hikeve-20&linkId=A2I5SXTJTBEA7KOK" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00H3MXOQU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00H3MXOQU" width="1" height="1" border="0" alt="Black Diamond Storm" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 110 grams / 0.24 lbs
-**Lumen:** 160
+**Lumen:** 250
 **Watertightness:** IP X4 (watertight)
 
 The Black Diamond Storm is a little bit more heavy than the Petzl Tikka XP. The Storm works with 4 AAA batteries and can not be charged via USB.
