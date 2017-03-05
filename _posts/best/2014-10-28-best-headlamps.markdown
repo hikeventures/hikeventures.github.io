@@ -47,9 +47,6 @@ Personally, I like the Petzl Nao Plus most since it has plenty of features and a
         </tr>
 
         <tr>
-          <td><a href="http://amzn.to/2eTHqJP" target="_blank" rel="nofollow">Black Diamond Revolt</a></td><td>85g</td><td>170</td>
-        </tr>
-        <tr>
           <td><a href="http://amzn.to/2fkaiqv" target="_blank" rel="nofollow">Black Diamond Spot</a></td><td>90g</td><td>200</td>
         </tr>
         <tr>
@@ -104,7 +101,7 @@ The Petzl Nao Plus features 750 lumen. It's reactive lightning system let's you 
 **Awards:** ISPO Award Gold Winner 2013
 **Watertightness:** IP X4 (water resistant)
 
-Almost half the Lumen power of the Petzl Nao, the Petzl Tikka RXP is much lighter than the Nao. If you don't like to carry the additional battery pack on the back of your head and prefer a less bulky headlamp then the Tikka RXP could be your choice. The Tikka RXP also features Petzl's reactive lightning system. The Tikka RXP should also be a great headlamp for trail running too. The USB port on the headlamp also allows you to charge The Tikka RXP with a battery bank like the Anker Astro E5. A less pricey alternative to the Petzl Tikka RXP would be the Black Diamon ReVolt. However, it does not have [reactive lightning][9]. Personally, I think reactive lightning is a nice to have feature but not something I would spend additional money on it.
+Almost half the Lumen power of the Petzl Nao, the Petzl Tikka RXP is much lighter than the Nao. If you don't like to carry the additional battery pack on the back of your head and prefer a less bulky headlamp then the Tikka RXP could be your choice. The Tikka RXP also features Petzl's reactive lightning system. The Tikka RXP should also be a great headlamp for trail running too. The USB port on the headlamp also allows you to charge The Tikka RXP with a battery bank like the Anker Astro E5. A less pricey alternative to the Petzl Tikka RXP would be the Black Diamond Spot. However, it does not have [reactive lightning][9]. Personally, I think reactive lightning is a nice to have feature but not something I would spend additional money on it.
 
 <a href="http://amzn.to/2e35oQp" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
@@ -150,20 +147,6 @@ With 220 grams and 'only' 200 Lumen, the Black Diamond Icon has a much lower Lum
 The Princeton Tec Apex is the brightest headlamp Princeton Tec has to offer. It's battery is also located on the back of the head. Unfortunately, this headlamp does not offer any recharging possibilities via USB so you have to rely on 4 AA batteries.
 
 <a href="http://amzn.to/2e35AiF" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
-
----
-
-<h3><a  href="http://www.amazon.com/gp/product/B00LAEZEN8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LAEZEN8&linkCode=as2&tag=hikeve-20&linkId=Z2ZEQ56UMSSEFBID" rel="nofollow">Black Diamond ReVolt Headlamp</a></h3>
-
-<a  href="http://www.amazon.com/gp/product/B00LAEZEN8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LAEZEN8&linkCode=as2&tag=hikeve-20&linkId=Z2ZEQ56UMSSEFBID" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LAEZEN8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LAEZEN8" width="1" height="1" border="0" alt="Black Diamond ReVolt Headlamp" style="border:none !important; margin:0px !important;" />
-
-**Weight:** 98 grams / 0.22 lbs
-**Lumen:** 130
-**Watertightness:** IP X4 (water resistant)
-
-The Black Diamond ReVolt headlamp comes with a proximity, distance, dim, strobe, and red night vision modes and needs 3 AAA batteries. The three-level power meter shows you how much battery is still left.
-
-<a href="http://amzn.to/2eTHqJP" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
@@ -335,7 +318,7 @@ Not every headlamp is watertight. Some headlamps are only splash proof. Have a l
 ## Out interview with Petzl
 
 We have asked Petzl to show us their Petzl NAO+ and Reactic+
-     
+
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UZziPhCDN48"></iframe>
 </div>
