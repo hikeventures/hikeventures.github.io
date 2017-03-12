@@ -67,7 +67,7 @@ We will post a view videos about the ITB in the coming weeks. Subscribe to our [
 
 [The ever incredible Torres del Paine](http://earthly-musings.blogspot.fi/2017/03/the-ever-incredible-torres-del-paine.html)
 
-[Going Solo](http://www.christownsendoutdoors.com/2017/03/going-solo.html]
+[Going Solo](http://www.christownsendoutdoors.com/2017/03/going-solo.html)
 
 [Microadventure in Katahdin Woods and Waters National Monument](https://tjamrog.wordpress.com/2017/03/10/a-microadventure-in-katahdin-woods-and-waters-national-monument-part-1/)
 
