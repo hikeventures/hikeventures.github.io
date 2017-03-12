@@ -7,7 +7,7 @@ tags:
   - tidbits
 layout: post
 ---
-Last week we visited the ITB in Berlin to get some new inspirations for new outdoor adventures. The ITB is the worlds largest travel show where you can more or less meet the whole world on one single spot.
+We visited the ITB in Berlin last week to get some new inspirations for new outdoor adventures. The ITB is the worlds largest travel show where you can more or less meet the whole world on one single spot.
 We will post a view videos about the ITB in the coming weeks. Subscribe to our [RSS feed](http://www.hikeventures.com/rss.xml) if you don't want to miss them!
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/33390389145/in/dateposted-public/" title="Welcome ITB Berlin 2017 south entrance"><img src="https://c1.staticflickr.com/3/2947/33390389145_b777ebfcf9_k.jpg" width="2048" height="1367" alt="Welcome ITB Berlin 2017 south entrance"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
