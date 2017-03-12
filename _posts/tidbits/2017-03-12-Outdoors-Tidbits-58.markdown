@@ -16,12 +16,6 @@ We will post a view videos about the ITB in the coming weeks. Subscribe to our [
 
 ## Gear Reviews
 
-(Ultraspire Velocity)[http://www.breakingultra.com/gear-review-ultraspire-velocity/]
-
-(Book: Ultimate Hikers Gear Guide Book)[https://midwestbasecamp.com/2017/03/09/andrew-skurka-ultimate-hikers-gear-guide-book-review/]
-
-(Book: Best Walks of the Great Ocean Road)[https://lotsafreshair.com/2017/02/28/book-review-best-walks-of-the-great-ocean-road/]
-
 (Rab Firewall Jacket and Rab Infinity Endurance Jacket)[https://halfwayhike.com/2016/11/19/kit-review-rab-firewall-jacket-rab-infinity-endurance-jacket/]
 
 (Thermarest Z-Lite Sol)[https://midwestbasecamp.com/2017/03/08/gear-review-thermarest-z-lite-sol/]
@@ -48,6 +42,11 @@ We will post a view videos about the ITB in the coming weeks. Subscribe to our [
 
 (Vango F10 Alplite 35)[https://gipfelfieber.com/2017/03/09/vango-f10-alplite-35-rucksack-ein-leichtgewicht-fuer-alpine-touren/]
 
+(Book: Ultimate Hikers Gear Guide Book)[https://midwestbasecamp.com/2017/03/09/andrew-skurka-ultimate-hikers-gear-guide-book-review/]
+
+(Book: Best Walks of the Great Ocean Road)[https://lotsafreshair.com/2017/02/28/book-review-best-walks-of-the-great-ocean-road/]
+
+---
 
 ## Trips and Tips
 (Winterwandern im Zillertal)[https://www.dancing-on-clouds.at/2017/03/10/winterwandern-im-zillertal-schwarzachtal/]
