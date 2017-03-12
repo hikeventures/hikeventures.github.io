@@ -20,8 +20,6 @@ We will post a view videos about the ITB in the coming weeks. Subscribe to our [
 
 [Thermarest Z-Lite Sol](https://midwestbasecamp.com/2017/03/08/gear-review-thermarest-z-lite-sol/)
 
-[Salomon Sense Ultra 2017](http://hikeitlikeit.com/2017/salomon-sense-ultra-2017/)
-
 [The North Face Womens Drew Peak Hoodie](http://www.campingwithstyle.co.uk/the-north-face-womens-drew-peak-hoodie/)
 
 [Big Agnes Shovelhead Jacket](https://treelinebackpacker.com/2017/03/03/big-agnes-shovelhead-jacket-review/)
@@ -41,8 +39,6 @@ We will post a view videos about the ITB in the coming weeks. Subscribe to our [
 [GSI Outdoors 8 Pinnacle Frypan](http://www.trail.recipes/blog/gsi-outdoors-8-pinnacle-frypan-review/)
 
 [Vango F10 Alplite 35](https://gipfelfieber.com/2017/03/09/vango-f10-alplite-35-rucksack-ein-leichtgewicht-fuer-alpine-touren/)
-
-[Book: Ultimate Hikers Gear Guide Book](https://midwestbasecamp.com/2017/03/09/andrew-skurka-ultimate-hikers-gear-guide-book-review/)
 
 [Book: Best Walks of the Great Ocean Road](https://lotsafreshair.com/2017/02/28/book-review-best-walks-of-the-great-ocean-road/)
 
@@ -69,10 +65,5 @@ We will post a view videos about the ITB in the coming weeks. Subscribe to our [
 
 [Going Solo](http://www.christownsendoutdoors.com/2017/03/going-solo.html)
 
-[Microadventure in Katahdin Woods and Waters National Monument](https://tjamrog.wordpress.com/2017/03/10/a-microadventure-in-katahdin-woods-and-waters-national-monument-part-1/)
-
-[Top 6 reasons to visit Great Smoky](http://hikinginglacier.blogspot.fi/2017/03/the-top-6-reasons-to-visit-great-smoky.html)
-
-[40 km Snowshoe Trip](http://blog.berchtesgadener-land.com/2017/03/09/schneeschuhtour-extrem-40-kilometer-an-einem-tag/)(in German)
 
 {% include tidbits.html %}
