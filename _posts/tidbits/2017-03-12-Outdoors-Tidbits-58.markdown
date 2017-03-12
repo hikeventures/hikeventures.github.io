@@ -42,6 +42,8 @@ We will post a view videos about the ITB in the coming weeks. Subscribe to our [
 
 [Book: Best Walks of the Great Ocean Road](https://lotsafreshair.com/2017/02/28/book-review-best-walks-of-the-great-ocean-road/)
 
+[Are Cuben Fiber Shelters and backpacks worth the cost?](http://andrewskurka.com/2017/cuben-fiber-backpack-shelter-worth-the-cost)
+
 ---
 
 ## Trips and Tips
