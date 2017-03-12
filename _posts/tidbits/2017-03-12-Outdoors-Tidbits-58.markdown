@@ -26,9 +26,9 @@ We will post a view videos about the ITB in the coming weeks. Subscribe to our [
 
 [Big Agnes Shovelhead Jacket](https://treelinebackpacker.com/2017/03/03/big-agnes-shovelhead-jacket-review/)
 
-[Outdoor Research Offchute Jacket](http://www.adventure-inspired.com/2017/03/gear-review-outdoor-research-offchute-jacket.html]
+[Outdoor Research Offchute Jacket](http://www.adventure-inspired.com/2017/03/gear-review-outdoor-research-offchute-jacket.html)
 
-[BRS 3000t stove](https://adventuresinstoving.blogspot.fi/2017/02/the-brs-3000t-worlds-lightest-stove.html]
+[BRS 3000T stove](https://adventuresinstoving.blogspot.fi/2017/02/the-brs-3000t-worlds-lightest-stove.html)
 
 [HMG Square Flat Tarp](http://www.thehikinglife.com/2017/02/review-hyperlite-mountain-gear-square-flat-tarp/)
 
@@ -61,17 +61,17 @@ We will post a view videos about the ITB in the coming weeks. Subscribe to our [
 
 [Pack list for long distance hikes](https://happyhiker.de/packliste-weitwandern-uebersee/) (in German)
 
-[Banff National Park: Hiking to Johnston Canyon and the Ink Pots in Winter](http://www.adventure-inspired.com/2017/03/banff-johnston-canyon-inkpots.html]
+[Banff National Park: Hiking to Johnston Canyon and the Ink Pots in Winter](http://www.adventure-inspired.com/2017/03/banff-johnston-canyon-inkpots.html)
 
 [10 Smart Tips for hiking in the rain](http://www.chronic-wanderlust.com/10-smart-tips-hiking-rain/)
 
-[The ever incredible Torres del Paine](http://earthly-musings.blogspot.fi/2017/03/the-ever-incredible-torres-del-paine.html]
+[The ever incredible Torres del Paine](http://earthly-musings.blogspot.fi/2017/03/the-ever-incredible-torres-del-paine.html)
 
 [Going Solo](http://www.christownsendoutdoors.com/2017/03/going-solo.html]
 
 [Microadventure in Katahdin Woods and Waters National Monument](https://tjamrog.wordpress.com/2017/03/10/a-microadventure-in-katahdin-woods-and-waters-national-monument-part-1/)
 
-[Top 6 reasons to visit Great Smoky](http://hikinginglacier.blogspot.fi/2017/03/the-top-6-reasons-to-visit-great-smoky.html]
+[Top 6 reasons to visit Great Smoky](http://hikinginglacier.blogspot.fi/2017/03/the-top-6-reasons-to-visit-great-smoky.html)
 
 [40 km Snowshoe Trip](http://blog.berchtesgadener-land.com/2017/03/09/schneeschuhtour-extrem-40-kilometer-an-einem-tag/)(in German)
 
