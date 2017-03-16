@@ -2,7 +2,7 @@
 layout: post
 title: ITB Berlin - Blogger Speed Dating, Exhibitor Interviews and Impressions
 description: Our visit of the ITB in Berlin 2017
-date: 2017-03-16 07:30:00
+date: 2017-03-16 05:30:00
 category: articles
 tags:
   - articles
@@ -39,6 +39,8 @@ In general, we found the speed dating event a really good idea. Just make sure t
 ---
 
 ## Impressions
+
+Here are a view impressions from the ITB.
 
 ### Germany
 
