@@ -23,27 +23,11 @@ It also seems that spring is finally also coming to Finland as there were only a
 
 [Tubbs Snowshoes Wayfinder](https://midwestbasecamp.com/2017/03/16/gear-review-tubbs-snowshoes-wayfinder/)
 
----
-
-<div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=RKVoci7H7Ek&feature=youtu.be"></iframe>
-</div>
-
----
-
 [Haglöfs Hector Jacket](http://www.alpin.de/tests-produkte/bekleidung/11600/artikel_praxistest_softshell_hagloefs_hector_jacket.html) (in German)
 
 [Black Diamond Iota Headlamp](https://thebigoutside.com/gear-review-black-diamond-iota-headlamp/)
 
 [Altra Lone Peak 3.0](http://www.breakingultra.com/gear-review-altra-lone-peak-3-0/)
-
----
-
-<div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=y2nLKH6OH9k"></iframe>
-</div>
-
----
 
 [Black Diamond Sprinter Headlamp](https://treelinebackpacker.com/2017/03/14/black-diamond-sprinter-headlamp-review/)
 
@@ -60,11 +44,5 @@ It also seems that spring is finally also coming to Finland as there were only a
 [The Beginning of the Kayaking Season](http://www.yetirides.com/2017/03/the-beginning-of-kayaking-season.html)
 
 [Video: Winter Fun in Lahti](https://www.lolaakinmade.com/europe/video-winter-fun-in-lahti-finland/)
-
----
-
-<div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=t9nWMXP-628"></iframe>
-</div>
 
 {% include tidbits.html %}
