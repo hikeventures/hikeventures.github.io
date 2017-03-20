@@ -1,6 +1,6 @@
 ---
-title: Outdoors Tidbits 58
-description: The latest outdoor gear reviews, tips & tricks - Nr. 58
+title: Outdoors Tidbits 59
+description: The latest outdoor gear reviews, tips & tricks - Nr. 59
 date: 2017-03-19 05:28:01
 category: tidbits
 tags:
@@ -9,7 +9,7 @@ layout: post
 ---
 Last week we have been very busy. Konstantin was in Edinburgh while Patrick went through the video footages which we took at the ITB in Berlin.
 
-It also seems that spring is finally also coming to Finland as there were only a few patches of ice left on the Baltic Sea.
+It also seems that spring is finally coming to Finland as there were only a few patches of ice left on the Baltic Sea.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/33531567365/in/dateposted-public/" title="Turku Finland"><img src="https://c1.staticflickr.com/3/2893/33531567365_6a7cdcd172_k.jpg" width="2048" height="1213" alt="Ruissalo Turku Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
