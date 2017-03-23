@@ -70,7 +70,8 @@ Everything families need to know to get outside and have fun! Trip reports, pack
 
 ### <a href="http://www.theprofessionalhobo.com">theprofessionalhobo.com</a>
 The adventures of Nora Dunn, who has been travelling the world full-time since selling everything she owned in 2006. She has travelled through/lived in 50+ countries and writes about her adventures, in addition to publishing her annual expenses and income reports, and teaching people how to travel full-time in a financially sustainable way.
-
+<a href="https://twitter.com/hobonora"><i class="fa fa-twitter"></i></a>  <a href="https://www.facebook.com/TheProfessionalHobo/"><i class="fa fa-facebook"></i></a>  <a href="https://instagram.com/theprofessionalhobo"><i class="fa fa-instagram"></i></a>
+<a href="https://plus.google.com/+NoraDunn"><i class="fa fa-google-plus"></i></a> 
 ---
 
 ## Denmark
@@ -105,6 +106,9 @@ Finland & Photography. Tarjas blog covers everything about Finland and the Finns
 
 ### <a href="http://outdoorfever.de/">outdoorfever.de</a>
 <a href="https://www.facebook.com/outdoorfever.de"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/outdoorfever"><i class="fa fa-twitter"></i></a>  <a href="http://www.flickr.com/photos/kraxel-magazin/"><i class="fa fa-flickr"></i></a>  <a href="https://plus.google.com/+OutdoorfeverDe/posts"><i class="fa fa-google-plus"></i></a>  <a href="https://www.pinterest.com/outdoorfever/"><i class="fa fa-pinterest"></i></a>
+
+### <a href="http://outdoor-hochgenuss.de/">outdoor-hochgenuss.de</a>
+<a href="https://www.facebook.com/Outdoor.Hochgenuss/"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/outdoor-genuss"><i class="fa fa-twitter"></i></a>  <a href="https://plus.google.com/+OutdoorhochgenussDe2014"><i class="fa fa-google-plus"></i></a>  <a href="https://www.pinterest.com/outdoorgenuss/"><i class="fa fa-pinterest"></i></a>
 
 ---
 
