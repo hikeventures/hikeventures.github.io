@@ -71,7 +71,8 @@ Everything families need to know to get outside and have fun! Trip reports, pack
 ### <a href="http://www.theprofessionalhobo.com">theprofessionalhobo.com</a>
 The adventures of Nora Dunn, who has been travelling the world full-time since selling everything she owned in 2006. She has travelled through/lived in 50+ countries and writes about her adventures, in addition to publishing her annual expenses and income reports, and teaching people how to travel full-time in a financially sustainable way.
 <a href="https://twitter.com/hobonora"><i class="fa fa-twitter"></i></a>  <a href="https://www.facebook.com/TheProfessionalHobo/"><i class="fa fa-facebook"></i></a>  <a href="https://instagram.com/theprofessionalhobo"><i class="fa fa-instagram"></i></a>
-<a href="https://plus.google.com/+NoraDunn"><i class="fa fa-google-plus"></i></a> 
+<a href="https://plus.google.com/+NoraDunn"><i class="fa fa-google-plus"></i></a>
+
 ---
 
 ## Denmark
