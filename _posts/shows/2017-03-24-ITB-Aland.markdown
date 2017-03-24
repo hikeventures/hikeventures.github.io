@@ -6,6 +6,9 @@ category: articles
 tags:
   - articles
   - ispo
+  - Interview
+  - ITB
+  - video
 layout: post
 ---
 On our visit at the ITB in Berlin we had a chance to talk with Annica Grönlund from Visit Åland about the Outdoor possibilies in Åland.
