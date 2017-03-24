@@ -1,5 +1,4 @@
 ---
-published: true
 title: What to do outdoors in Åland - ITB Interview with Visit Åland
 description: Interviews with Visit Åland at the ITB
 date: 2017-03-24 15:28:01
