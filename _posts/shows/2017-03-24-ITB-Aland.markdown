@@ -11,7 +11,7 @@ layout: post
 On our visit at the ITB in Berlin we had a chance to talk with Annica Grönlund from Visit Åland about the Outdoor possibilies in Åland.
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/8YgP6UG4R24"></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=chEEuBS1gpU"></iframe>
 </div>
 
 <!--more-->
