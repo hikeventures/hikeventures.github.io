@@ -15,7 +15,7 @@ layout: post
 On our visit at the ITB in Berlin we had a chance to talk with Ardit Çollaku from the Albania National Tourism Agency about the Outdoor possibilities in Albania.
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/chEEuBS1gpU"></iframe>
+  <iframe class="embed-responsive-item" src="https://youtu.be/FLZG51BRXcc"></iframe>
 </div>
 
 
