@@ -17,8 +17,6 @@ On our visit at the ITB in Berlin we had a chance to talk with Ardit Çollaku fr
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FLZG51BRXcc"></iframe>
 </div>
 
-
-
 <!--more-->
 
 **Here I am at Albania's stands with Ardit. He's the General Director of the National Tourism Agency of Albania. Ardit, could you tell us something about the highlights of Albania for outdoors?**
