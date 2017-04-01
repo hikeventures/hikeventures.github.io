@@ -8,11 +8,12 @@ navbar: Shop
 
 ---
 
-Here is a selection of our favorite camping and blogging gear. We update this list regularly.
+Here is a selection of our favorite camping and blogging gear. We keep this list update so make sure to check back regularly.
 
 ---
 
 ## Blogging & Video Gear
+
 [Focusrite Scarlett Solo](http://amzn.to/2nr3DPm)
 
 [Rode smartLav+ Lavalier Microphone](http://amzn.to/2mZ5OhL)
