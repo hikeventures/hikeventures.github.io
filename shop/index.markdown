@@ -26,7 +26,7 @@ Here is a selection of our favorite camping and blogging gear. We keep this list
 
 [Sennheiser MKE 600 Shotgun Microphone](http://amzn.to/2mZ5IXu)
 
-[Audio Field Recorder](http://amzn.to/2nrgBN4)
+[Zoom H5 Audio Field Recorder](http://amzn.to/2nrgBN4)
 
 [Manfrotto Lumimuse 8 LED Video Light](http://amzn.to/2ouagSu)
 
