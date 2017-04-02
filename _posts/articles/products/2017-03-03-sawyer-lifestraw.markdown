@@ -16,7 +16,7 @@ In the past I had a look on water filtration systems which looked more durable b
 
 However, recently new solutions have appeared on the market for outdoor enthusiasts who prefer to travel light.
 
-In this article I am going disccuss if you should choose the Sawyer Mini or the LifeStraw Personal water filter as a possible ultralight water filter solution.
+In this article I am going discuss if you should choose the Sawyer Mini or the LifeStraw Personal water filter as a possible ultralight water filter solution.
 
 ---
 

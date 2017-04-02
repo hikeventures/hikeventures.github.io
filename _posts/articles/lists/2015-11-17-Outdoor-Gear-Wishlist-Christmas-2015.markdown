@@ -9,7 +9,7 @@ tags:
 layout: post
 ---
 
-Christmas 2015 is just around the corner and I decided to share with you my outdoor gear ideas on my christmas wishlist for 2015 and which I intend to use on my next hiking, snowshoing or packrafting adventures (in case I would get the items). {% include disclaimer.html %}
+Christmas 2015 is just around the corner and I decided to share with you my outdoor gear ideas on my christmas wishlist for 2015 and which I intend to use on my next hiking, snowshoing or packrafting adventures (in case I would get the items).
 
 ![][image-1]
 
@@ -69,6 +69,14 @@ For snowshoeing I would also need a pair of poles. The MSR Flight 3 poles are fa
 <a href="https://classic.avantlink.com/api.php?module=ProductSearch&website_id=150351&affiliate_id=125311&search_term=MSR Flight 3 Poles&search_results_merchant_limit=1&output=html&search_results_fields=Merchant+Name|Product+Name|Sale+Price&search_results_count=10&search_advanced_syntax=1&search_results_sort_order=Sale+Price|asc"><button class="btn btn-danger">Compare prices</button></a>
 
 What are your outdoor gear ideas on your christmas wishlist for 2015? Leave a comment below.
+
+---
+
+{% include disclaimer.html %}
+
+---
+
+
 
 [1]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/
 

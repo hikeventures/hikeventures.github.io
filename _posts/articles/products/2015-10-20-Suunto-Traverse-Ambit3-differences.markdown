@@ -10,7 +10,7 @@ tags:
 layout: post
 ---
 
-Suunto has recently released it's latest GPS watch - the Suunto Traverse - which is especially interesting for those interested in hiking and backpacking. So what are the differences between the Suunto Ambit3 and the Suunto Traverse? {% include disclaimer.html %}
+Suunto has recently released it's latest GPS watch - the Suunto Traverse - which is especially interesting for those interested in hiking and backpacking. So what are the differences between the Suunto Ambit3 and the Suunto Traverse? 
 
 The most important difference is probably that the Suunto Traverse has a vibration alarm and that the GPS receiver is now 'invisible' built into the watch. Moreover, the Suunto Traverse has a thinner (1mm) built. However, you will not find multisport functions in the Suunto Traverse. So, if you are for example more into triathlon then you should probably go for the <a href="http://amzn.to/2eHfOUi" rel="nofollow" target="_blank">Suunto Ambit3 Vertical</a> rather than the regular Suunto Traverse.
 
@@ -138,5 +138,12 @@ If you have an iPhone you could also get a Quad Lock Bike Mount Kit and attach i
 ---
 
 Need some more inspirations on how to use the Suunto Ambit or Suunto Traverse watch? Here is a [trip report](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/) from the Swedish mountains where I was wearing the old Suunto Ambit3 on a packrafting trip.
+
+
+---
+
+{% include disclaimer.html %}
+
+---
 
 ---

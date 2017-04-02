@@ -9,7 +9,7 @@ tags:
   - gifts
   - gadgets
 ---
-Here is a selecetion of camping, hiking and backpacking gift ideas for women. We have asked a view women what they would like to buy and here is the result. {% include disclaimer.html %}
+Here is a selecetion of camping, hiking and backpacking gift ideas for women. We have asked a view women what they would like to buy and here is the result.
 
 <img src="https://farm4.staticflickr.com/3934/15515022052_94a162682e_b.jpg" width="1024" height="683" alt="Autumn Forrest Finland">
 
@@ -652,3 +652,9 @@ GSI Outdoors Nesting Red Wine Glass to enjoy your glass of wine outdoors.
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00I6EY01C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00I6EY01C&linkCode=as2&tag=hikeve-20&linkId=4ad4686ed335c8274b1a6f5f3a1ac919"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00I6EY01C&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00I6EY01C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <a href="http://amzn.to/2eh8GjT" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+
+---
+
+{% include disclaimer.html %}
+
+---

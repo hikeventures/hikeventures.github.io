@@ -3,7 +3,7 @@ title: Preparing for Fjällräven Classic
 description: How we prepare for Fjällräven Classic
 date: 2015-02-08 17:56:41
 category: articles
-tags: 
+tags:
   - articles
   - fjällräven
 layout: post
@@ -14,7 +14,7 @@ This year we have signed up for [Fjällräven Classic](http://www.fjallraven.com
 
 Some may wonder why to participate in such an event if you want to experience silence and nature in Swedish Lapland? Well, we are also interested to share experience with other hikers and after all there is so much space that we will most likely be able to spot a quite place away from the crowd. Beside our hike, we might also go 1 or 2 days packrafting before or after the event in this area.
 
-Preparation for Fjällräven Cassic is quite simple compared to self organised trips as most of the transportation and food is arranged by the organiser and as we have already experienced [Swedish Lapland (Sarek)](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) in 2013 we know more or less what to expect from this hike.
+Preparation for Fjällräven Cassic is quite simple compared to self organised trips as most of the transportation and food is arranged by the organizer and as we have already experienced [Swedish Lapland (Sarek)](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) in 2013 we know more or less what to expect from this hike.
 
 ## Exercising
 Physically, we are also in good shape as Patrick is jogging at least 3-4 times a week and Konstantin is biking quite a lot beside our hiking and packrafting activities.
@@ -37,7 +37,7 @@ At the moment we are trying to find an inexpensive way to get to Kiruna. Konstan
 * Sleeping pad
 * [Deuter Boulder Gaiter](http://hikeventures.com/deuter-boulder-gaiter/)
 * [Hilleberg Anjan 3 tent](http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/)
-* [Cumulus Panyam 450](http://hikeventures.com/cumulus-panyam-450/) 
+* [Cumulus Panyam 450](http://hikeventures.com/cumulus-panyam-450/)
 * [HMG Porter 4400 black](http://hikeventures.com/gear-review-hmg-porter-4400-black/)
 * Map (most likely a [waterproof Calazo map](http://hikeventures.com/waterproof-maps/))
 * [Black Diamond Ultra Distance Z-Poles](http://hikeventures.com/gear-review-black-diamond-ultra-distance-z-pole/)

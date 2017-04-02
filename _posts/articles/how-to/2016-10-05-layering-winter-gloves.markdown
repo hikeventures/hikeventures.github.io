@@ -9,7 +9,7 @@ tags:
 layout: post
 ---
 
-Layering your clothes when you go outdoors e.g. for hiking, backpacking, skiing or snowshoeing helps a lot to keep you comfortable warm. If you feel cold you add another layer and if you feel warm then you remove another layer. This layering principle can also be applied to your gloves. In my video below I am wearing the Hestra Merino Wool Liner Active Glove, Hestra Kebnekaise Wool Mitt and the Hestra Pullover Mitt. I prefer to wear real woolen gloves as they breath better. Wool also keeps you warm when it's wet. {% include disclaimer.html %}
+Layering your clothes when you go outdoors e.g. for hiking, backpacking, skiing or snowshoeing helps a lot to keep you comfortable warm. If you feel cold you add another layer and if you feel warm then you remove another layer. This layering principle can also be applied to your gloves. In my video below I am wearing the Hestra Merino Wool Liner Active Glove, Hestra Kebnekaise Wool Mitt and the Hestra Pullover Mitt. I prefer to wear real woolen gloves as they breath better. Wool also keeps you warm when it's wet.
 
 ---
 
@@ -39,4 +39,10 @@ The Hestra Pullover Mitt is made of 100% Polyester and protects your mid- and ba
 
 ---
 
-I will wear my glove system next January in Alta in Norway. The temperatures could go as low as -20C there so I am quite excited if my gloves will keep me warm there. Konstantin also bought a tent with a titanium stove so we are probably also going to camp outside.
+I am planning to wear my glove system next January in Alta in Norway. The temperatures could go as low as -20C there so I am quite excited if my gloves will keep me warm there. Konstantin also bought a tent with a titanium stove so we are probably also going to camp outside.
+
+---
+
+{% include disclaimer.html %}
+
+---

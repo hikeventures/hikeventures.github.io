@@ -9,7 +9,7 @@ tags:
 layout: post
 ---
 
-Recently, GoPro announced it's new GoPro Hero5 Black and it's GoPro Hero5 Session and I was wondering if there is actually a need to buy any of those GoPro cameras if you can also buy a more or less waterproof IPhone 7? {% include disclaimer.html %}
+Recently, GoPro announced it's new GoPro Hero5 Black and it's GoPro Hero5 Session and I was wondering if there is actually a need to buy any of those GoPro cameras if you can also buy a more or less waterproof IPhone 7?
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26814282730/in/dateposted-public/" title="GoPro Hero 5 Black Session iPhone7"><img src="https://c3.staticflickr.com/8/7270/26814282730_361f410d48_o.jpg" width="1200" height="797" alt="GoPro Hero5 Black Session iPhone7"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -61,5 +61,9 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "a188e5e0d670dce5eb148c0ba05f58f5";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
+{% include disclaimer.html %}
 
 ---

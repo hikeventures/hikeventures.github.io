@@ -8,7 +8,7 @@ tags:
   - cameras
 layout: post
 ---
-Yesterday I went with <a href="http://caide.kuvat.fi/" rel="nofollow">Caj</a> and Katja to Härmälän Rotko which is located about 20 km North-West of Turku to test my Sennheiser MKE 600 on my Sony A7. The Sennheiser KA 600 connected the microphone with the camera. I also had a Rycote Super Softie as a windjammer on my microphone. Between the microphone and the camera I had a Rycote Hot Shoe Extension and a Rycote InVision Video Mic shock mount suspension installed. The low-pass filter on the Sennheiser MKE 600 microphone was switched off. The lens on my camera was a Zeiss Batis 25mm f/2. {% include disclaimer.html %}
+Yesterday I went with <a href="http://caide.kuvat.fi/" rel="nofollow">Caj</a> and Katja to Härmälän Rotko which is located about 20 km North-West of Turku to test my Sennheiser MKE 600 on my Sony A7. The Sennheiser KA 600 connected the microphone with the camera. I also had a Rycote Super Softie as a windjammer on my microphone. Between the microphone and the camera I had a Rycote Hot Shoe Extension and a Rycote InVision Video Mic shock mount suspension installed. The low-pass filter on the Sennheiser MKE 600 microphone was switched off. The lens on my camera was a Zeiss Batis 25mm f/2.
 
 ---
 
@@ -67,3 +67,10 @@ The Rycote InVision Video Mic Lyre Shockmount Suspension reduces noise when oper
 The Zeiss Batis 25mm f/2 was mounted on my Sony A7. The Zeiss Batis 25mm is my favorite lens as it is quite versatile as a wide angle lens. It's always on my camera. It's also a bit expensive but I really like the results which I get with this lens. It's also great for astrophotography since it shows you the focal distance in an oled screen.
 
 <a href="http://amzn.to/2eB0laV" rel="nofollow"><button class="btn btn-danger">Buy on Amazon</button></a>
+
+
+---
+
+{% include disclaimer.html %}
+
+---

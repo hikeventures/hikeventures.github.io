@@ -41,3 +41,10 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "9ad5434ce32352e5a69d4601fda6b731";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+
+---
+
+{% include disclaimer.html %}
+
+---
