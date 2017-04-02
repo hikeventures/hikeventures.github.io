@@ -12,7 +12,9 @@ layout: post
 <h2 style="color:red">For 2017 we have selected the best places where we would like to go hiking and packrafting in Europe.</h2>
 <br>
 
-As we are approaching 2017 it's time to think about new hiking and packrafting trips for 2017. In this post we have selected the best places for us to go hiking and packrafting in 2017. We will probably add a few more trips through the year.
+As we are approaching 2017 it's time to think about new hiking and packrafting trips for 2017.
+
+In this post we have selected the best places for us to go hiking and packrafting in 2017. We will probably add a few more trips through the year.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408870540/in/photolist-KhoTsL-KyaWGy-JLZn9U-KAEbo2-D6WjUR-qUzGQK-Q6U317-rbV4BL-rbRHKM-qfcV5n-KEWijq-KyaX69-KHvJbk-KhoThW-JM6Vqe-KyaX1Q-KHvHM4-KyaWT5-KyaWPC-KyaWAS-qGH8BY-r9HaDW-AqB9ci-APvhWx-rbRFq6-r9HaJL-qUqxwU-rbV6xu-tMS45w-qfcT7K-qUxMti-qUxMCM-qUzFAa-rbV7gy-rbV7GU-rc1CbB-r9Hef3-v6DD8n-q3hwoU-qGQmse-r9HdQA-r9HdZU-qUxN4g-qUxNTH-qUxP2D-qWZDDU-qHtRc2-rc1DjZ-qffws2-qUzE8R" title="Best Places to go hiking and packrafting in 2017"><img src="https://c5.staticflickr.com/8/7737/28408870540_3fd8554e5f_b.jpg" width="1024" height="683" alt="Best Places to go hiking and packrafting in 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

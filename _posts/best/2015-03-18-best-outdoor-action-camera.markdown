@@ -10,14 +10,22 @@ layout: post
 ---
 
 
-For our packrafting adventures I am always looking for the latest action camera developments for 2016 / 2017. Obviously, there are two models which are currently hot on the market - the GoPro Hero 4 and the Sony FDR-X1000V. Now the questions evolved which of those two action cameras should be a replacement for our old GoPro Hero 3+. Here is our <a href="#list">camera comparison table</a>.
+For our packrafting adventures I am always looking for the latest action camera developments for 2016 / 2017.
+
+Obviously, there are two models which are currently hot on the market - the GoPro Hero 4 and the Sony FDR-X1000V.
+
+Now the questions evolved which of those two action cameras should be a replacement for our old GoPro Hero 3+. Here is our <a href="#list">camera comparison table</a>.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26814282730/in/photolist-Hfnf6V-GGyd2S-HaFrBx-GRud4u-Gc8Weq-H4Gdkb-H4qMZ7-GbSzpE-HnoEX7-GaxJVX-MoRbuk-dKWT8w-Hfnf2g-Hfnf7B-HhQ8Uu-HdLXe5-GWJQkS-GAWXsf-dXZ33V" title="Best Outdoor Action Camera for 2016 - 2017"><img src="https://c3.staticflickr.com/8/7270/26814282730_defc74acac_b.jpg" width="1024" height="680" alt="Best Outdoor Action Camera for 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 <!--more-->
 
-To answer the question I am just going to compare the specifications of the cameras. Of course, if you are used to the GoPro Software to edit videos then you are most likely tempted to get the GoPro Hero 4. Sony, however is a market leader in developing camera sensors and since action cameras have the highest market share in the camera business it's quite obvious that Sony is going to stay here.
+To answer the question I am just going to compare the specifications of the cameras.
+
+Of course, if you are used to the GoPro Software to edit videos then you are most likely tempted to get the GoPro Hero 4.
+
+Sony, however is a market leader in developing camera sensors and since action cameras have the highest market share in the camera business it's quite obvious that Sony is going to stay here.
 
 <iframe src="https://player.vimeo.com/video/76995626" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br>Our packrafting video taken with a GoPro Hero 2 camera in [Sarek National Park](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/).
 
@@ -38,7 +46,15 @@ To answer the question I am just going to compare the specifications of the came
 | Angle of View  | 170  | 170 or 120  |
 
 <br><br>
-Looking at the Specs, I am more tempted in getting the Sony FDR-X1000V action camera. 8.8 MP sensor should deliver better image quality in low light situations and image stabilisation is also nice to have. Another feature which I found quite interesting is that you can control up to 5 cameras with the Sony. The only concern I would  have with the Sony is its shape. I would need to have the camera in front of me and the GoPro would fit better. Alternatively, I have to look for a helmet adapter for the Sony. Alternatively, as I don't really need 4K that much, the GoPro Silver would be a great camera too, I could save 100 USD and also get an LCD screen with it.
+Looking at the Specs, I am more tempted in getting the Sony FDR-X1000V action camera.
+
+8.8 MP sensor should deliver better image quality in low light situations and image stabilisation is also nice to have.
+
+Another feature which I found quite interesting is that you can control up to 5 cameras with the Sony.
+
+The only concern I would  have with the Sony is its shape. I would need to have the camera in front of me and the GoPro would fit better.
+
+Alternatively, I have to look for a helmet adapter for the Sony. Alternatively, as I don't really need 4K that much, the GoPro Silver would be a great camera too. I could save 100 USD and also get an LCD screen with it.
 
 The Sony FDR-X1000V looks like a camera which can be easily mounted on the site of a helmet
 

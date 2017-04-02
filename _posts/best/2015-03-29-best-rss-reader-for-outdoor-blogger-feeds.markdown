@@ -12,7 +12,13 @@ layout: post
 ---
 
 
-Today, I was searching and comparing some RSS reader which would be suitable for my RSS feeds which I have subscribed from other hiking and outdoor blogs to read on my Macbook. I was especially interested to find a reader which is fast and makes reading feeds simple and easy. Maybe some sort of intelligent search function to find or sort feeds according to certain keywords would be interesting too. Btw. if you are interested you can also subscribe to my <a href="http://www.hikeventures.com/rss.xml">RSS feed</a> which is all about our hiking and packrafting adventures.
+Today, I was searching and comparing some RSS reader which would be suitable for my RSS feeds which I have subscribed from other hiking and outdoor blogs to read on my Macbook.
+
+I was especially interested to find a reader which is fast and makes reading feeds simple and easy.
+
+Maybe some sort of intelligent search function to find or sort feeds according to certain keywords would be interesting too.
+
+Btw. if you are interested you can also subscribe to my <a href="http://www.hikeventures.com/rss.xml">RSS feed</a> which is all about our hiking and packrafting adventures.
 
 ## Inoreader
 Inoreader is a web based reader which can susbscribe to normal RSS feeds but also to social media feeds in Facebook or Twitter. You can also create folders with feeds which displays new RSS feeds based on certain keywords. I use Inoreader together with Reeder 3 (see below)

@@ -13,13 +13,21 @@ layout: post
 <h2 style="color:red">Lightweight water filters for ultralight hiking trips and lightweight adventures.</h2>
 <br>
 
-A water filter should be in every backpack if you plan to go hiking or backpacking. Nowadays, there are several solution on the market. There are water filters where you have to pump the water through the filter or filters which do not require any pump at all (and which are also my personal preference filters).
+A water filter should be in every backpack if you plan to go hiking or backpacking.
 
-Currently, I am using the Sawyer Mini Water Filtration System on my trips since it is very lightweight and does the job. In the past I have used the Katadyn Hiker Pro filter (as you can see on the picture below where I am filtering water on a [trip in Northern Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/)).
+Nowadays, there are several solution on the market. There are water filters where you have to pump the water through the filter or filters which do not require any pump at all (and which are also my personal preference filters).
 
-Also keep in mind that none of the water filters we have selected can filter out viruses. Filters with a carbon element gives the water a neutral taste. The water filters which I have selected should not be used with salt water or with water contaminated with chemicals.
+Currently, I am using the Sawyer Mini Water Filtration System on my trips since it is very lightweight and does the job.
 
-To remove viruses you can combine a filter with e.g. the <a href="http://amzn.to/2mdxPNH" rel="nofollow">Steripen Freedom</a> (we have not tested if it effectively removes viruses). The Steripen uses an UV light against Viruses and can be recharged through the USB port. Also have a look at our <a href="#interview">interview</a> at the end of this article.
+In the past I have used the Katadyn Hiker Pro filter (as you can see on the picture below where I am filtering water on a [trip in Northern Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/)).
+
+Also keep in mind that none of the water filters we have selected can filter out viruses. Filters with a carbon element gives the water a neutral taste.
+
+The water filters which I have selected should not be used with salt water or with water contaminated with chemicals.
+
+To remove viruses you can combine a filter with e.g. the <a href="http://amzn.to/2mdxPNH" rel="nofollow">Steripen Freedom</a> (we have not tested if it effectively removes viruses).
+
+The Steripen uses an UV light against Viruses and can be recharged through the USB port. Also have a look at our <a href="#interview">interview</a> at the end of this article.
 
 Here is our <a href="#list">selection</a> of the best water filters for 2017 which I  have selected for hiking and backpacking.
 

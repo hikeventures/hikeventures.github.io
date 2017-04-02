@@ -8,7 +8,9 @@ tags:
   - scandinavia
 layout: post
 ---
-Are you planning a hiking, backpacking or packrafting trip in Scandinavia? Here comes our list of the 5 best places we have visited so far in Scandinavia to experience some outdoor adventures. In case you want to visit some of those places make sure that you plan your route and gear in advance. Here you can find a short <a href="#list">overview</a>.
+Are you planning a hiking, backpacking or packrafting trip in Scandinavia? Here comes our list of the 5 best places we have visited so far in Scandinavia to experience some outdoor adventures.
+
+In case you want to visit some of those places make sure that you plan your route and gear in advance. Here you can find a short <a href="#list">overview</a>.
 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9599027418/in/album-72157637944165406/" title="best places to go hiking, backpacking and packrafting in scandinavia"><img src="https://farm8.staticflickr.com/7385/9599027418_4123160df8_b.jpg" width="100%" alt="best places to go hiking, backpacking and packrafting in scandinavia"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br>Sarek National Park in Sweden
@@ -30,12 +32,18 @@ Are you planning a hiking, backpacking or packrafting trip in Scandinavia? Here 
 <hr>
 
 ### Sarek National Park in Sweden
-The Sarek National Park is one of the remotest areas in Sweden to visit. You can travel by train from Stockholm to Gällivare and then take a bus towards Suorva. Unfortunately, it is not allowed to packraft anymore in the Sarek National Park but it’s still one of the best places to visit if you are planning an extended outdoor adventure with a breathtaking scenery. Since there is no phone signal available you should consider taking some sort of GPS messenger with you especially if you travel alone. [Here](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) you can read more about our adventure in the Swedish mountains.
+The Sarek National Park is one of the remotest areas in Sweden to visit. You can travel by train from Stockholm to Gällivare and then take a bus towards Suorva.
+
+Unfortunately, it is not allowed to packraft anymore in the Sarek National Park but it’s still one of the best places to visit if you are planning an extended outdoor adventure with a breathtaking scenery.
+
+Since there is no phone signal available you should consider taking some sort of GPS messenger with you especially if you travel alone. [Here](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) you can read more about our adventure in the Swedish mountains.
 
 {% include banner_ad.html %}
 
 ### Torneträsk lake (Abisko National Park) in Sweden
-The Torneträsk lake located next to the Abisko National Park is a bit further north than the Sarek National Park. However, it is easier to access the National Park compared to the Sarek National Park as you don’t have to change from the train to a bus. From the Torneträsk lake you can enjoy a great view towards the Lapporten (the Lapponian Gate). There are also skiing possibilities and the [Aurora Sky Station](http://www.auroraskystation.com/en/) where you have a chance to observe northern lights.
+The Torneträsk lake located next to the Abisko National Park is a bit further north than the Sarek National Park. However, it is easier to access the National Park compared to the Sarek National Park as you don’t have to change from the train to a bus.
+
+From the Torneträsk lake you can enjoy a great view towards the Lapporten (the Lapponian Gate). There are also skiing possibilities and the [Aurora Sky Station](http://www.auroraskystation.com/en/) where you have a chance to observe northern lights.
 
 In our case we found a local person who drove us about 30 km west towards Norway from the SFT Abisko Turiststation where we inflated our packrafts and jumped into the river where we paddled over 3 days. Just make sure to get out of the river at certain places and carry your packraft as there are some very dangerous rapids around.
 

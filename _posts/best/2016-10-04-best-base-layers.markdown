@@ -14,7 +14,13 @@ layout: post
 <h2 style="color:red">Our selection of the best Merino Wool Base Layers 2017 for ultralight outdoor adventures in arctic conditions.</h2>
 <br>
 
-For our hiking and snowshoeing trip in Northern Norway we were looking for new merino wool base layers (which we can also wear for other outdoor activities like skiing, snowboarding or mountaineering). So far I have already experience with wearing the Devold Expedition base layer and I am quite happy with it. Here is my personal <a href="#list">selection</a> of the best merino wool base layers for 2017. Also check one of our <a href="#video">packrafting videos</a> where we were wearing base layers to stay warm while paddling 1 week in freezing cold conditions.
+For our hiking and snowshoeing trip in Northern Norway we were looking for new merino wool base layers (which we can also wear for other outdoor activities like skiing, snowboarding or mountaineering).
+
+So far I have already experience with wearing the Devold Expedition base layer and I am quite happy with it.
+
+Here is my personal <a href="#list">selection</a> of the best merino wool base layers for 2017.
+
+Also check one of our <a href="#video">packrafting videos</a> where we were wearing base layers to stay warm while paddling 1 week in freezing cold conditions.
 
 ---
 
@@ -22,7 +28,13 @@ For our hiking and snowshoeing trip in Northern Norway we were looking for new m
 
 ---
 
-However, there are also alternatives out there which I would like to present in this blog post which might be even better base layer options depending on your needs. Icebreaker has sent us a sample base layer which we are going to test in Norway. My first impression is that the Icebreaker base layer feels quite comfortable and soft on the skin. However, we really need to test it first to give a final conclusion.
+However, there are also alternatives out there which I would like to present in this blog post which might be even better base layer options depending on your needs.
+
+Icebreaker has sent us a sample base layer which we are going to test in Norway.
+
+My first impression is that the Icebreaker base layer feels quite comfortable and soft on the skin.
+
+However, we really need to test it first to give a final conclusion.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/16347592097/in/album-72157651193131682/" title="Lapland Finland"><img src="https://c2.staticflickr.com/9/8665/16347592097_8d7dd9dc6c_k.jpg" width="2048" height="1360" alt="Lapland Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

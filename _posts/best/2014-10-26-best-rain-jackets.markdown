@@ -13,7 +13,13 @@ layout: post
 <h2 style="color:red">Our selection of the best lightweight rain jackets 2017 for ultralight outdoor adventures.</h2>
 <br>
 
-Do you know how to stay warm during a hiking trip? Don't get wet! Here is my <a href="#list">selection</a> of the best rain jackets for 2017 which I have selected from different brands. Planning to go hiking, backpacking, running, climbing, cycling, mountaineering, skiing, snowboarding or snowshoeing? Then you should wear a rain jacket or carry a lightweight rain jacket in your backpack. A rain jacket does not need to weight much and can be a life saver especially when it's cold. Also consider taking lightweight waterproof [rain pants][1] with you. Also have a look at our <a href="#interview">interview</a> at the end of this article.
+Do you know how to stay warm during a hiking trip? Don't get wet! Here is my <a href="#list">selection</a> of the best rain jackets for 2017 which I have selected from different brands.
+
+Planning to go hiking, backpacking, running, climbing, cycling, mountaineering, skiing, snowboarding or snowshoeing?
+
+Then you should wear a rain jacket or carry a lightweight rain jacket in your backpack. A rain jacket does not need to weight much and can be a life saver especially when it's cold.
+
+Also consider taking lightweight waterproof [rain pants][1] with you. Also have a look at our <a href="#interview">interview</a> at the end of this article.
 
 ---
 
