@@ -17,7 +17,7 @@ Do you need a new warm down jacket for the winter or for a cold summer night dur
 
 We have selected a broad range of down jackets which can be worn in different conditions and for different activities like hiking, backpacking, skiing, snowboarding, mountaineering, climbing or on any other outdoor adventure.
 
-Also, check one of our <a href="#video">packrafting videos</a> where we had down jackets with us while packrafting in Northern Sweden. Also check our <a href="#interview">interview</a> at the end of this article with 2 big outdoor brands regarding down jackets.
+Also, check one of our <a href="#video">packrafting videos</a> where we had down jackets with us while packrafting in Northern Sweden. Also check our <a href="#interview">interview</a> at the end of this article with Berghaus and Rab to learn more about their down jackets.
 
 ---
 
