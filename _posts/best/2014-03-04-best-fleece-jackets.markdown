@@ -13,7 +13,7 @@ layout: post
 <h2 style="color:red">Our selection of the best lightweight warm fleece jackets 2017 for ultralight outdoor adventures.</h2>
 <br>
 
-Are you planning an outdoor adventure to a place where it's wet or humid? Then you should have a warm fleece jacket in your backpack. A fleece jacket can be used as a mid-layer to keep you warm while you are active (climbing, hiking, skiing or biking) and dries rather fast. For wet conditions a fleece jacket is a better choice than a [down jacket][1] to protect yourself against the cold as down will lose it's insulation once it's wet. Here is our <a href="#list">selection</a> of the best fleece jackets for 2017. Also have a look at our <a href="#interview">interview</a> at the end of this article. {% include disclaimer.html %}
+Are you planning an outdoor adventure to a place where it's wet or humid? Then you should have a warm fleece jacket in your backpack. A fleece jacket can be used as a mid-layer to keep you warm while you are active (climbing, hiking, skiing or biking) and dries rather fast. For wet conditions a fleece jacket is a better choice than a [down jacket][1] to protect yourself against the cold as down will lose it's insulation once it's wet. Here is our <a href="#list">selection</a> of the best fleece jackets for 2017. Also have a look at our <a href="#interview">interview</a> at the end of this article.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30599065514/in/photolist-NBWd85-NBWdpC-PGnS2B-NBWekf-PDJ1Eh-Dv2uSF-E1hZc9-EjbrxT-EgXSbQ-tg14Q2-t3DXr8-t2MuH9-t2LbQW-sdZym3-sec6c8-taL9R1-sTru6W-sTq9hY-sTrvww-sTy6fR-sebeM6-taZSRR-sTpojY-sebpWz-t8FgSm-t8Fenm-sTxnjB-t8FiiN-sTy6CV-t8F1NU-tb1bye-sTxzdB-sTr9gW-tb3Ehx-sdZRVb-sTri2G-taL1TN-sTq5Jq-tb1DEP-sTrrNj-se19pJ-sTy5sZ-sTrwSs-sTrseQ-rbRFq6-pUo8mD-pUdSgn-pBY4wH-pUoXBr-pC1VP1" title="Best Fleece Jackets for 2017"><img src="https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg" width="1024" height="683" alt="Best Fleece Jackets for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -134,8 +134,6 @@ Basically, you have one that's brand new and one that's 10 years old, and they l
 
 Then here, we have a new product called the Wooler Houdi, basically the same product design something really new to the market, it's 100% wool but it has this grid inside that makes it really warm but still breathable and it transportes more moisture. It's also part of a new wool program that makes it 100% traceable so we know which farm all the wool comes from. Has a really nice micron to it so it's 7 1/2 microns which makes it super-super soft, make the skin and if you wear it without anything underneath. It's biodegrable, so we think this is something that a lot of customers want to wear, good for nature and it's also super nice to wear.
 
----
-
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
 amzn_assoc_search_bar = "false";
@@ -154,7 +152,7 @@ amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
 
 ---
 
-Disclosure: We have not tested the products in this blog post.
+{% include disclaimer.html %}
 
 ---
 
