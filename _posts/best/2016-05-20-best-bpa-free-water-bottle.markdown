@@ -52,4 +52,8 @@ amzn_assoc_linkid = "9a725873569a009ac5497b65cc30560e";
 
 ---
 
+{% include disclaimer.html %}
+
+---
+
 [1]:	http://amzn.to/1BcH4yr

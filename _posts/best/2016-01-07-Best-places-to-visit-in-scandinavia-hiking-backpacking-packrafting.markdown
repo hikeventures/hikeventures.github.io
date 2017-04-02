@@ -8,7 +8,7 @@ tags:
   - scandinavia
 layout: post
 ---
-Are you planning a hiking, backpacking or packrafting trip in Scandinavia? Here comes our list of the 5 best places we have visited so far in Scandinavia to experience some outdoor adventures. In case you want to visit some of those places make sure that you plan your route and gear in advance. Here you can find a short <a href="#list">overview</a>. {% include disclaimer.html %}
+Are you planning a hiking, backpacking or packrafting trip in Scandinavia? Here comes our list of the 5 best places we have visited so far in Scandinavia to experience some outdoor adventures. In case you want to visit some of those places make sure that you plan your route and gear in advance. Here you can find a short <a href="#list">overview</a>.
 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9599027418/in/album-72157637944165406/" title="best places to go hiking, backpacking and packrafting in scandinavia"><img src="https://farm8.staticflickr.com/7385/9599027418_4123160df8_b.jpg" width="100%" alt="best places to go hiking, backpacking and packrafting in scandinavia"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br>Sarek National Park in Sweden

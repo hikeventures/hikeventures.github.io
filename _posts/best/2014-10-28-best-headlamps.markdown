@@ -13,7 +13,7 @@ layout: post
 <h2 style="color:red">The best lightweigh headlamps including rechargeable and waterproof models with red or green LEDs for hiking, camping or hunting.</h2>
 <br>
 
-Planning a winter trip in the North or just need a headlamp for the night? A good lightweight headlamp is an essential part for many outdoor activities like running, cycling, packrafting, ski touring, climbing or any other backcountry trip. It can be a life saver and should always be in your backpack. Here is my <a href="#list">selection</a> of the best headlamps for 2017. {% include disclaimer.html %}
+Planning a winter trip in the North or just need a headlamp for the night? A good lightweight headlamp is an essential part for many outdoor activities like running, cycling, packrafting, ski touring, climbing or any other backcountry trip. It can be a life saver and should always be in your backpack. Here is my <a href="#list">selection</a> of the best headlamps for 2017.
 
 <a href="http://www.amazon.com/Petzl-NAO-Headlamp-575-Lumens/" rel="nofollow"><img src="https://farm8.staticflickr.com/7457/15910915424_192439b27f_b.jpg" alt="Best headlamps of 2017"></a>
 Konstantin wearing a Petzl Nao on the top of a fell in [Finnish Lapland][4]
@@ -357,7 +357,7 @@ The NAO is just available for the other countries so all of the world, Africa, a
 
 ---
 
-Disclosure: We have not tested the products in this blog post.
+{% include disclaimer.html %}
 
 ---
 

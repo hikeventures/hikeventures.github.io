@@ -72,3 +72,9 @@ If you are not planning to spend much money on a card reader or just want to use
 
 ## Conclusion
 Depending on your needs and your budget there are several solutions available to transfer your pictures and videos from your camera to your PC or MacBook. It's also worth to find out if your camera is able to transfer your pictures by using Wifi. Transfering the pictures  won't be that fast as with a dedicated card reader but it's a working solution in case you are on a budget, have no need for any other USB or Ethernet features or want to avoid additional dongles on your laptop.
+
+---
+
+{% include disclaimer.html %}
+
+---

@@ -14,7 +14,7 @@ tags:
 <h2 style="color:red">Selection of the best lightweight waterproof and water resistant GPS watches for 2017 for ultralight outdoor adventures.</h2>
 <br>
 
-In this blog post I have selected the best outdoor GPS smartwatches which are waterproof or somewhat water resistant and which I would consider to buy. I will also update this article frequently with new models. {% include disclaimer.html %}
+In this blog post I have selected the best outdoor GPS smartwatches which are waterproof or somewhat water resistant and which I would consider to buy. I will also update this article frequently with new models.
 
 The watches presented in this article can be used for hiking, backpacking, running or any other outdoor activity. At the moment I am wearing a [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) which has a monochrome display. I am quite satisfied with my [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) so far but I would be interested to get an outdoor watch which features a color display. Check the weight of the GPS watches on our <a href="#list">comparison table</a> or watch one of our <a href="#video">packrafting videos</a> where we were wearing a GPS watch to track our route.
 
@@ -227,6 +227,6 @@ amzn_assoc_linkid = "586471a69afcbdad2092eabf0fcc4bbc";
 
 ---
 
-Disclosure: We have not tested the products in this blog post.
+{% include disclaimer.html %}
 
 ---

@@ -21,7 +21,7 @@ In case of an accident you won't be able to call for help without a satellite me
 
 In the picture below you can see the DeLorme InReach Explorer in his yellow case attached to the backpack.
 
-DeLorme is since 2016 part of Garmin and the unit has been replaced with the Garmin InReach Explorer+ (see below). {% include disclaimer.html %}
+DeLorme is since 2016 part of Garmin and the unit has been replaced with the Garmin InReach Explorer+ (see below).
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30599065514/in/dateposted-public/" title="Best Satellite Messenger, Locator and Personal Beacon 2017"><img src="https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg" width="1024" height="683" alt="Best Satellite Messenger, Locator and Personal Beacon 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -173,6 +173,6 @@ My personal preference goes towards the <a href="http://amzn.to/2jM4Pet" target=
 
 ---
 
-Disclosure: We have not tested the products in this blog post.
+{% include disclaimer.html %}
 
 ---

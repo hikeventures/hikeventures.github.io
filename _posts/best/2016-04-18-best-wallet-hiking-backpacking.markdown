@@ -13,7 +13,7 @@ When you are new into hiking and backpacking then you might come up with the que
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25893630833/in/dateposted-public/" title="The best wallet for hiking and backpacking"><img src="https://farm2.staticflickr.com/1706/25893630833_0449df22f3_b.jpg" width="100%" alt="The best wallet for hiking and backpacking"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <!--more-->
 
-Sometimes - especially when you are new into hiking and backacking - you don't really think that much about your wallet. However, when you get  more experience and plan to cut some weight on your gear then you will realize that even changing your wallet can make a difference in weight and functionality. {% include disclaimer.html %}
+Sometimes - especially when you are new into hiking and backacking - you don't really think that much about your wallet. However, when you get  more experience and plan to cut some weight on your gear then you will realize that even changing your wallet can make a difference in weight and functionality.
 
 {% include banner_ad.html %}
 
@@ -41,7 +41,7 @@ If functionality is the main criteria for choosing your wallet for your next hik
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "true";
+amzn_assoc_search_bar = "false";
 amzn_assoc_tracking_id = "hikeve-20";
 amzn_assoc_search_bar_position = "top";
 amzn_assoc_ad_mode = "search";
@@ -54,3 +54,9 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "c79b816115a0b8f7de5e5cd6559b2053";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
+{% include disclaimer.html %}
+
+---

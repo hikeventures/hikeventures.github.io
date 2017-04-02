@@ -15,7 +15,7 @@ layout: post
 
 Are you looking for a synthetic insulated jacket for your next outdoor adventure? Then you are probably looking for an alternative to goose down jackets either because of ethical reasons or because you are planning to wear your jacket in damp or humid environment where a down jacket may loose it's insulation capabilities when getting wet. Also have a look at our <a href="#interview">interview</a> at the end of this article.
 
-Here is our <a href="#list">selection</a> of the best synthetic insulated jackets for 2017 which we have selected as our favorites for this year which included models which can be either worn during the summer or during the winter and for different activities like backpacking, skiing, hiking, snowboarding, climbing or on any other outdoor adventure. {% include disclaimer.html %}
+Here is our <a href="#list">selection</a> of the best synthetic insulated jackets for 2017 which we have selected as our favorites for this year which included models which can be either worn during the summer or during the winter and for different activities like backpacking, skiing, hiking, snowboarding, climbing or on any other outdoor adventure.
 
 ---
 
@@ -207,10 +207,6 @@ So in this case, it resembles basically those boots with the protection that you
 
 Exactly. It kind of resembles this. So to make it really . So the whole front part of the shoe, it's waterproof. So you have a membrane in here. But the problem is, if you put a shoe with a full membrane, again, it gets too hot. So to add a bit more breathability, we added this Neoprene cage on the top part here. So this area's waterproof, so you have some protection for the rain, and you also have some breathability to it. So it really makes it the ideal tool for running in harsh winter conditions.
 
-<hr>
-Disclosure: We have not tested all products in this post.
-<hr>
-
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
 amzn_assoc_search_bar = "false";
@@ -226,3 +222,9 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "94ae095fd527d4f97d365afbd4404fcf";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
+{% include disclaimer.html %}
+
+---

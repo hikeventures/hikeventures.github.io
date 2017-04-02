@@ -9,7 +9,7 @@ tags:
   - sleeping pads
   - new
 ---
-In this blog post you can find a selection of new sleeping pads for 2017. There are different sleeping pads for different seasons or climates available. The R-value indicates how much insulation a sleeping pad provides. In the conclusion you can find the sleeping pad which I would recommend. {% include disclaimer.html %}
+In this blog post you can find a selection of new sleeping pads for 2017. There are different sleeping pads for different seasons or climates available. The R-value indicates how much insulation a sleeping pad provides. In the conclusion you can find the sleeping pad which I would recommend.
 
 ---
 
@@ -145,6 +145,6 @@ amzn_assoc_linkid = "965296fb866182bb89b535202541adda";
 
 ---
 
-Disclosure: We have not tested the products in this blog post.
+{% include disclaimer.html %}
 
 ---

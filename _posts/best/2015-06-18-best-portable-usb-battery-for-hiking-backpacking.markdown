@@ -10,7 +10,7 @@ tags:
 layout: post
 ---
 
-On our hiking and backpacking trips we need a lot of energy to power our USB devices such as our GoPro Hero camera, Suunto Ambit3, iPhones and iPads or headlamps. For a multi-day trip where we have no access to a power socket we solely rely on a portable USB battery to charge our devices. We are also lately experimenting with a solar panel and we will publish our findings on our blog latest by the end of the year. {% include disclaimer.html %}
+On our hiking and backpacking trips we need a lot of energy to power our USB devices such as our GoPro Hero camera, Suunto Ambit3, iPhones and iPads or headlamps. For a multi-day trip where we have no access to a power socket we solely rely on a portable USB battery to charge our devices. We are also lately experimenting with a solar panel and we will publish our findings on our blog latest by the end of the year.
 
 <a href="https://www.flickr.com/photos/90204224@N07/18296050823"><img src="https://c4.staticflickr.com/4/3786/18296050823_382029ba5c_o.jpg" width="992" height="744" alt="Best Portable USB Battery for Hiking and Backpacking"></a>
 
@@ -60,5 +60,8 @@ amzn_assoc_linkid = "9a725873569a009ac5497b65cc30560e";
 
 ---
 
+{% include disclaimer.html %}
+
+---
 
 [1]:	http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/

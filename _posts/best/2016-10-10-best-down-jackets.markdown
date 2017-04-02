@@ -17,7 +17,7 @@ Do you need a new warm down jacket for the winter or for a cold summer night dur
 
 We have selected a broad range of down jackets which can be worn in different conditions and for different activities like hiking, backpacking, skiing, snowboarding, mountaineering, climbing or on any other outdoor adventure.
 
-Also, check one of our <a href="#video">packrafting videos</a> where we had down jackets with us while packrafting in Northern Sweden. Also check our <a href="#interview">interview</a> at the end of this article with 2 big outdoor brands regarding down jackets. {% include disclaimer.html %}
+Also, check one of our <a href="#video">packrafting videos</a> where we had down jackets with us while packrafting in Northern Sweden. Also check our <a href="#interview">interview</a> at the end of this article with 2 big outdoor brands regarding down jackets.
 
 ---
 
@@ -304,7 +304,7 @@ Here is a short interview with Berghaus about their down jackets.
 
 ---
 
-Hi. This is Konstantin, and I've got Chris here from Berghaus. Chris, could you tell us something about one or two, three highlights of your collection?
+**Hi. This is Konstantin, and I've got Chris here from Berghaus. Chris, could you tell us something about one or two, three highlights of your collection?**
 
 Well, here's the first. This is the Extrem 8000 Pro Jacket, which has just won an ISPO Gold Award, about which we are very pleased. This is the most technical jacket in the Berghaus range. It sits in the Extrem, the pinnacle range that Berghaus makes, and it won the award for three fantastic innovations all called Xpanse.
 
@@ -316,7 +316,7 @@ Finally, there's the Xpanse face guard there, to which you can zip away when you
 
 That's the Extrem 8000 Pro Jacket, which will be available from autumn/winter 2016
 
-Chris, can you tell us something about this product as well.
+**Chris, can you tell us something about this product as well.**
 
 Yeah. This is called the Ramche 2.0, which is a Berghaus down jacket, expedition level down jacket. 850 filled power goose down. Hydrophobic down, so it repels water, will continue to perform when it gets wet, and the treatment on that is powered by NikWax, so it's PFC-free, which is an important sustainability message.
 
@@ -326,7 +326,7 @@ The baffles are stitched through baffles on the outside and the inside, but they
 
 The face fabric is an extremely tough and lightweight face fabric that repels water, windproof ...
 
-Rip stop.
+**Rip stop.**
 
 Rip stop, and in fact, Mick Fowler, our sponsored mountaineer, got it. He was testing a prototype, and he got it caught in his belay device while he was abseiling, and he thought, "Oh, no. I'm going to end up with down everywhere. There'll be feathers all over this mountain." He abseiled, I think it was about ... Completed his 50 foot abseil, and the fabric was marked, but it wasn't torn, so it's extremely tough for it's weight.
 
@@ -338,7 +338,7 @@ By the way, Extrem has been part of the Berghaus collection since 1986, so this 
 
 ## Our interview with Rab
 
-Here is our interview with Rab talking about their down jackets.
+Here is our interview with Rab about their down jackets.
 
 ---
 
@@ -348,11 +348,11 @@ Here is our interview with Rab talking about their down jackets.
 
 ---
 
-I'm with Gilles from Rab here. What are the three, two, three most exciting products of your line?
+**I'm with Gilles from Rab here. What are the three, two, three most exciting products of your line?**
 
 For autumn/winter 2016?
 
-Yes.
+**Yes.**
 
 We have the Zero G jacket, which is a 1000 fill power down jacket. At Rab we are specialists in down clothing and down sleeping bags. This is the lightest thousand fill power down jacket that we're launching for autumn/winter 16. It's the pinnacle of technology in our business. It really highlights the brand.
 
@@ -366,7 +366,7 @@ Our 2016 campaign is going to be called "Alpine Defined." That's the direction f
 
 ---
 
-Disclosure: We have not tested the products in this blog post.
+{% include disclaimer.html %}
 
 ---
 

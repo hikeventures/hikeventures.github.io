@@ -9,7 +9,7 @@ tags:
   - best
   - pfd
 ---
-As we are frequently on packrafting trips we are always interested to look out for new packrafting gear like a PFD (personal floating device) or life jacket. Here is an <a href="#list">overview</a> of the best PFDs which we would consider to buy. You can also <a href="#video">watch a video</a> how we are packrafting in Sweden. {% include disclaimer.html %}
+As we are frequently on packrafting trips we are always interested to look out for new packrafting gear like a PFD (personal floating device) or life jacket. Here is an <a href="#list">overview</a> of the best PFDs which we would consider to buy. You can also <a href="#video">watch a video</a> how we are packrafting in Sweden.
 
 ---
 
@@ -198,6 +198,6 @@ amzn_assoc_linkid = "8b6cf7f3e8c5fbd4e1712dfe9e9156c9";
 
 ---
 
-Disclosure: We have not tested the products in this blog post.
+{% include disclaimer.html %}
 
 ---
