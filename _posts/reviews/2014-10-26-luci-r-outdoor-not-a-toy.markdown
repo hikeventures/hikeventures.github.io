@@ -10,7 +10,7 @@ tags:
 layout: post
 ---
 
-A while ago I was contacted by a representative of  [MPOWERD][1], who asked me if I would be interested to review their new inflatable solar lantern, Luci Outdoor. I said yes and several weeks later a package from the USA was waiting for me at home. Inside this package was Luci. Below are my thoughts and experiences of using this lantern on my several trips (Lithuania, Latvia, Poland and here in the Netherlands) during the last three months. {% include disclaimer.html %}
+A while ago I was contacted by a representative of  [MPOWERD][1], who asked me if I would be interested to review their new inflatable solar lantern, Luci Outdoor. I said yes and several weeks later a package from the USA was waiting for me at home. Inside this package was Luci. Below are my thoughts and experiences of using this lantern on my several trips (Lithuania, Latvia, Poland and here in the Netherlands) during the last three months.
 
 <a href="https://www.flickr.com/photos/90204224@N07/15636357331" title="Luci tent"><img src="https://farm6.staticflickr.com/5597/15636357331_9926cfd49a_b.jpg" width="1024" alt="Luci Outdoor Solar Lantern"></a>
 <!--more-->
@@ -104,6 +104,12 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
+ {% include disclaimer.html %}
+
+ ---
 
 [1]:	https://www.mpowerd.com
 [2]:	https://www.mpowerd.com

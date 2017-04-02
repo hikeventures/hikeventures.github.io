@@ -10,7 +10,7 @@ tags:
 layout: post
 ---
 
-If you are looking for a new down jacket which you can use during your hiking, backpacking or any other backcountry adventure mainly during spring and autumn  or as a midlayer during winter then the Rab Microlight Alpine Jacket could be an option and here comes a short review. I was hiking with this jacket in -5 °C and felt comfortably warm just wearing a t-shirt under it. However, I started to feel cold at this temperature when I was not moving. {% include disclaimer.html %}
+If you are looking for a new down jacket which you can use during your hiking, backpacking or any other backcountry adventure mainly during spring and autumn  or as a midlayer during winter then the Rab Microlight Alpine Jacket could be an option and here comes a short review. I was hiking with this jacket in -5 °C and felt comfortably warm just wearing a t-shirt under it. However, I started to feel cold at this temperature when I was not moving.
 
 <a href="https://www.flickr.com/photos/90204224@N07/8373596834" title="Rab Alpine Microlight Camping hiking backpacking down jacket"><img src="https://farm9.staticflickr.com/8475/8373596834_f7923d2831_b.jpg" width="1024" height="683" alt="Rab Alpine Microlight Ultralight Down Jacket Review"></a>
 <!--more-->
@@ -44,3 +44,9 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "3b59edd59f23213f9e3bbcd8046ee503";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
+{% include disclaimer.html %}
+
+---

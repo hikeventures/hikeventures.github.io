@@ -12,7 +12,7 @@ layout: post
 <h2 style="color:red">Waterproof maps are great for hiking and backpacking</h2>
 <br>
 
-A map is one of the most important item which should be in your backpack on every hiking and packrafting trip. However, when your map gets wet you may end up with the situation that you are not able to use your map anymore. For this reason a waterproof Calazo map was our choice for our hiking and packrafting trip in the Swedish mountains. {% include disclaimer.html %}
+A map is one of the most important item which should be in your backpack on every hiking and packrafting trip. However, when your map gets wet you may end up with the situation that you are not able to use your map anymore. For this reason a waterproof Calazo map was our choice for our hiking and packrafting trip in the Swedish mountains.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9327368022"><img src="https://c3.staticflickr.com/3/2833/9327368022_3b131753c2_b.jpg" width="1024" height="683" alt="Calazo Waterproof Map"></a>
 <!--more-->
@@ -62,3 +62,9 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "d0f44bf67133aaf87e8a18d1fe87ceb7";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
+ {% include disclaimer.html %}
+
+ ---

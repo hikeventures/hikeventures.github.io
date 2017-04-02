@@ -14,7 +14,7 @@ tags:
 layout: post
 ---
 
-Today, I grabbed my camera in the afternoon trying to capture some sunset pictures with my Sony A7r on the neighbouring island where I live. The last week has been cloudy and I really looked forward to get out for a walk and evaluating at the same time if I should get a new Zeiss Loxia 35mm 2.0 lens. {% include disclaimer.html %}
+Today, I grabbed my camera in the afternoon trying to capture some sunset pictures with my Sony A7r on the neighbouring island where I live. The last week has been cloudy and I really looked forward to get out for a walk and evaluating at the same time if I should get a new Zeiss Loxia 35mm 2.0 lens.
 <a href="https://www.flickr.com/photos/90204224@N07/15182978924"><img src="https://farm9.staticflickr.com/8546/15182978924_06f8926249_h.jpg" width="1600" height="1068" alt="Zeiss Loxia 35mm 2.0 2.8"></a>
 
 <!--more-->
@@ -47,3 +47,9 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "9a725873569a009ac5497b65cc30560e";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
+ {% include disclaimer.html %}
+
+ ---

@@ -9,7 +9,7 @@ tags:
 layout: post
 ---
 
-This year I am going to enhance my outdoor experience by using an Alpacka Raft Yukon Yak. Even so it weights around 3.5 kg including paddle I believe this is still a weight worth to carry for some additional fun even so if you hike ultralight. Here comes a short unboxing review of the Alpacka Raft Yukon Yak. {% include disclaimer.html %}
+This year I am going to enhance my outdoor experience by using an Alpacka Raft Yukon Yak. Even so it weights around 3.5 kg including paddle I believe this is still a weight worth to carry for some additional fun even so if you hike ultralight. Here comes a short unboxing review of the Alpacka Raft Yukon Yak.
 
 <a href="https://www.flickr.com/photos/90204224@N07/8661323336" title="Alpacka Packraft "><img src="https://farm9.staticflickr.com/8116/8661323336_e3cfb2dc1d_b.jpg" width="600" alt="Alpacka Packraft Yukon Yak"></a>
 
@@ -61,3 +61,9 @@ Aqua Bound Manta Ray Carbon</center>
 If you are looking for a new experience on your hiking trip or if you want to pass a river where there is no bridge, then you should give a thought if a Packraft could be an option for you. It's also quite nice just to float along the river and enjoy the landscape rather than carrying the heavy backpack during your whole trip. Here you can check out one of our <a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/">packrafting adventures</a> in Sarek National Park in Northern Sweden.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9594886682" title="SDIM3477 "><img src="https://farm8.staticflickr.com/7326/9594886682_ebf0d25e33_b.jpg" width="1024" height="683" alt="Alpacka Yukon Yak on a HMG Porter 4400 in Sweden Sarek National Park"></a>
+
+---
+
+ {% include disclaimer.html %}
+
+ ---

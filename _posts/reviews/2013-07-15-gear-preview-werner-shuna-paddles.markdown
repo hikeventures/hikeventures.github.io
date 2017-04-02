@@ -20,7 +20,7 @@ Having purchased a <a hre="http://hikeventures.com/gear-review-unpacking-alpacka
 ## Wish list for my Packrafting Paddles
 There are a few features which I was looking for with my paddles. They should be lightweight, not too expensive, durable, portable to carry around with my backpack and of course also look nice.
 
-I did some research and learned  about the Werner Shuna paddles which should be one of the best paddles on the market.Unfortunately, they were not offered as a 4 pieces version on the Werner website when I bought them but it is possible to order custom made paddles which come in 4 pieces. {% include disclaimer.html %}
+I did some research and learned  about the Werner Shuna paddles which should be one of the best paddles on the market.Unfortunately, they were not offered as a 4 pieces version on the Werner website when I bought them but it is possible to order custom made paddles which come in 4 pieces.
 
 ---
 
@@ -73,3 +73,9 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "d0f44bf67133aaf87e8a18d1fe87ceb7";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
+ {% include disclaimer.html %}
+
+ ---

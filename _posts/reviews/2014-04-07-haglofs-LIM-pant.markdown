@@ -10,7 +10,7 @@ tags:
 layout: post
 ---
 
-Are you looking for waterproof rain pants for your next hiking, backpacking or any other backcountry trips? The Haglöfs L.I.M III Pants are one of the lightest pants on the market and here comes a short review. {% include disclaimer.html %}
+Are you looking for waterproof rain pants for your next hiking, backpacking or any other backcountry trips? The Haglöfs L.I.M III Pants are one of the lightest pants on the market and here comes a short review.
 
 <a href="https://www.flickr.com/photos/90204224@N07/13685518345"><img src="https://c4.staticflickr.com/8/7206/13685518345_0d22860c15_o.jpg" width="992" height="662" alt="Haglöfs LIM Pants Review"></a>
 
@@ -50,5 +50,11 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "d0f44bf67133aaf87e8a18d1fe87ceb7";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
+ {% include disclaimer.html %}
+
+ ---
 
 [1]:	http://www.hikeventures.com/best-rain-pants/

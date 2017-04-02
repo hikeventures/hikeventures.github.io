@@ -9,7 +9,7 @@ tags:
   - phone
 layout: post
 ---
-On our packrafting trip in Scotland I have tried out the Thule X4 smartphone case which we received from Thule to test them on our iPhone 6. Konstantin had already some experience with the X3 case so we were sitting together after our packrafting trip in the Scottish Highlands to discuss the main differences between the X3 and the X4 during our 2 1/2 hours train trip from Aberdeen to Edinburgh. {% include disclaimer.html %}
+On our packrafting trip in Scotland I have tried out the Thule X4 smartphone case which we received from Thule to test them on our iPhone 6. Konstantin had already some experience with the X3 case so we were sitting together after our packrafting trip in the Scottish Highlands to discuss the main differences between the X3 and the X4 during our 2 1/2 hours train trip from Aberdeen to Edinburgh.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25551505302/in/dateposted-public/" title="Thule Atmos X4 iPhone Adventure Case"><img src="https://farm2.staticflickr.com/1641/25551505302_f7c439d91c_b.jpg" width="100%" alt="Thule X4 iPhone Adventure Case"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -54,3 +54,10 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "330741f8294ab70702f9709e72539f77";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+
+---
+
+ {% include disclaimer.html %}
+
+ ---

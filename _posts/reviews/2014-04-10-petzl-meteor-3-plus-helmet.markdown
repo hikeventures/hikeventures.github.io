@@ -11,7 +11,7 @@ tags:
 layout: post
 ---
 
-For our packrafting trips we were looking for a suitable helmet and came across the Petzl Meteor 3+ helmet which has also a certification to be used as a watersports helmet (see Petzl website for more details). A helmet is an important safety tool which we are also using for slower rapids where you can e.g. also get stuck in a tree and fall out of the packraft. Here comes a short review of a helmet which I found to be one of the best lightweight packrafting helmets available. {% include disclaimer.html %}
+For our packrafting trips we were looking for a suitable helmet and came across the Petzl Meteor 3+ helmet which has also a certification to be used as a watersports helmet (see Petzl website for more details). A helmet is an important safety tool which we are also using for slower rapids where you can e.g. also get stuck in a tree and fall out of the packraft. Here comes a short review of a helmet which I found to be one of the best lightweight packrafting helmets available.
 
 <a href="https://www.flickr.com/photos/90204224@N07/13884350431/" ><img src="https://farm8.staticflickr.com/7383/13884350431_55197840aa_b.jpg" width="683" height="1024" alt="Petzl Meteor 3 helmet review"></a>
 
@@ -65,3 +65,9 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
+ {% include disclaimer.html %}
+
+ ---

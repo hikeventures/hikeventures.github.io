@@ -101,11 +101,9 @@ I would recommend the Marmot Force UL 2P if you need a light 3-season solo tent.
 
 <a href="http://www.backcountry.com/marmot-force-ul-2p-tent-2-person-3-season" rel="nofollow"><button type="button" class="btn btn-danger">Read more about the Marmot Force UL 2P</button></a>
 
----
-
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "true";
+amzn_assoc_search_bar = "false";
 amzn_assoc_tracking_id = "hikeve-20";
 amzn_assoc_search_bar_position = "top";
 amzn_assoc_ad_mode = "search";

@@ -12,7 +12,7 @@ tags:
 layout: post
 ---
 
-My Sony A7r arrived - but hey, how should I protect it from all the rain the water when I hike and <a href="http://hikeventures.com/gear-review-unpacking-alpacka-packraft/" target="_self">packraft</a>? Since I want to travel light, the bag should be small and light as well. After an email discussion with the aquapac customer service, I decided to go for their bags and here comes a short review about the Aquapac Camera Pouch. {% include disclaimer.html %}
+My Sony A7r arrived - but hey, how should I protect it from all the rain the water when I hike and <a href="http://hikeventures.com/gear-review-unpacking-alpacka-packraft/" target="_self">packraft</a>? Since I want to travel light, the bag should be small and light as well. After an email discussion with the aquapac customer service, I decided to go for their bags and here comes a short review about the Aquapac Camera Pouch.
 
 <a href="http://amzn.to/1tT2v8b"><img src="http://farm8.staticflickr.com/7307/11116437804_2207939524_c.jpg" width="800" height="447" alt="aquapac waterproof camera pouch"></a><!--more-->
 
@@ -33,8 +33,6 @@ Manufacturing and materials seems to have high quality on the Aquapac Waterproof
 
 <a href="http://www.sunnysports.com/nspc/p-apcspcp/aquapac-storm-proof-camera-pouch/"><button type="button" class="btn btn-danger">Read more about the Aquapac Camera Pouch</button></a>
 
-{% include disclaimer.html %}
-
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
 amzn_assoc_search_bar = "false";
@@ -50,3 +48,9 @@ amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+---
+
+ {% include disclaimer.html %}
+
+ ---
