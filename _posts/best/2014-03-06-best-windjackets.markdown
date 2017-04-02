@@ -14,7 +14,7 @@ layout: post
 <h2 style="color:red">Our selection of the best lightweight wind jackets 2017 for ultralight outdoor adventures.</h2>
 <br>
 
-Do you wear a fleece on your hike but still feel cold. Well, it's probably because your fleece jacket does not protect you against cold winds. A lightweight wind jacket is probably one of the most useful piece of clothes which you can take when going hiking, backpacking, climbing, cycling, running or plan any other backcountry trip. A wind jacket does not need much space so you can easily store it in your backpack. Just make sure that you buy a wind jacket with a hoodie. Have a look on my <a href="#list">wind jacket comparison table</a>. {% include disclaimer.html %}
+Do you wear a fleece on your hike but still feel cold. Well, it's probably because your fleece jacket does not protect you against cold winds. A lightweight wind jacket is probably one of the most useful piece of clothes which you can take when going hiking, backpacking, climbing, cycling, running or plan any other backcountry trip. A wind jacket does not need much space so you can easily store it in your backpack. Just make sure that you buy a wind jacket with a hoodie. Have a look on my <a href="#list">wind jacket comparison table</a>.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9599027418/in/photolist-fCewqJ-eZwoYv-eZwpTX-fCewQ3-eZwovc-eZHLDm-eZwojP-eZwoGn-eZHLPu-eZHK3s" title="best wind jackets for 2017"><img src="https://c3.staticflickr.com/8/7385/9599027418_4123160df8_b.jpg" width="992" height="661" alt="best wind jackets for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -135,7 +135,7 @@ amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
 
 ---
 
-Disclosure: We have not tested the products in this blog post.
+{% include disclaimer.html %}
 
 ---
 

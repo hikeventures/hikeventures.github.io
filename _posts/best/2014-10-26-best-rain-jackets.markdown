@@ -13,7 +13,7 @@ layout: post
 <h2 style="color:red">Our selection of the best lightweight rain jackets 2017 for ultralight outdoor adventures.</h2>
 <br>
 
-Do you know how to stay warm during a hiking trip? Don't get wet! Here is my <a href="#list">selection</a> of the best rain jackets for 2017 which I have selected from different brands. Planning to go hiking, backpacking, running, climbing, cycling, mountaineering, skiing, snowboarding or snowshoeing? Then you should wear a rain jacket or carry a lightweight rain jacket in your backpack. A rain jacket does not need to weight much and can be a life saver especially when it's cold. Also consider taking lightweight waterproof [rain pants][1] with you. Also have a look at our <a href="#interview">interview</a> at the end of this article. {% include disclaimer.html %}
+Do you know how to stay warm during a hiking trip? Don't get wet! Here is my <a href="#list">selection</a> of the best rain jackets for 2017 which I have selected from different brands. Planning to go hiking, backpacking, running, climbing, cycling, mountaineering, skiing, snowboarding or snowshoeing? Then you should wear a rain jacket or carry a lightweight rain jacket in your backpack. A rain jacket does not need to weight much and can be a life saver especially when it's cold. Also consider taking lightweight waterproof [rain pants][1] with you. Also have a look at our <a href="#interview">interview</a> at the end of this article.
 
 ---
 
@@ -178,21 +178,29 @@ Konstantin wearing the [Montane Minimus Jacket][3] on our [trip][4] in the Sarek
 
 ## Our <a href="#interview">interview</a> with Montane
 
-Konstantin interviewing the Montane at the ISPO 2016 about their highlights for the year.
+Konstantin interviewing Montane at the ISPO 2016 about their highlights for the year.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9rsU5Dqqj7Y"></iframe>
 </div>
 
-Hi, this is Konstantin and I've got Bryce here from Montane. Bryce, could you present a couple of highlights from your collection?
+**Hi, this is Konstantin and I've got Bryce here from Montane. Bryce, could you present a couple of highlights from your collection?**
 
-Sure, yeah. So for Autumn/Winter 2016, so this will be, all be coming out in August 2016 this year, we have a brand new range of Gore-Tex which is quite exciting for us as a brand and quite exciting for the industry as well. It's very, very new for a new British brand to have a Gore-Tex license, so we've come out with some really great products, really great products for the mountains.
+Sure, yeah. So for Autumn/Winter 2016, so this will be, all be coming out in August 2016 this year, we have a brand new range of Gore-Tex which is quite exciting for us as a brand and quite exciting for the industry as well.
 
-So, we have 12 styles in the range and we have men's and ladies' available. So, the style I'm actually wearing is a really high end, top end mountaineering piece and this really is designed for Alpine territory, skiing, and it's designed to go anywhere you want to, really, in, in the world, so, super durable, really great fabric, super soft fabric as well.
+It's very, very new for a new British brand to have a Gore-Tex license, so we've come out with some really great products, really great products for the mountains.
 
-The features that we have here, so, we have a lot of pockets. So, if you are in the mountains and you want a pocket to put different things into, so, you have two big hand pockets here, which you can get a map into. You have two pockets as well on the chest, and you can put all your gadgets and your, and your gizmos in there.
+So, we have 12 styles in the range and we have men's and ladies' available.
 
-And then on the inside as well, we have, there's some adjustment for the back, so if I pull that one in, you can see the adjustment going through the waist. And then, really, the hood is quite a unique feature for us. So the hood will take your ski helmet, it will take your climbing helmet, but you can really, you know, adjust it down and bring it down when, when you need to.
+So, the style I'm actually wearing is a really high end, top end mountaineering piece and this really is designed for Alpine territory, skiing, and it's designed to go anywhere you want to, really, in, in the world, so, super durable, really great fabric, super soft fabric as well.
+
+The features that we have here, so, we have a lot of pockets. So, if you are in the mountains and you want a pocket to put different things into, so, you have two big hand pockets here, which you can get a map into.
+
+You have two pockets as well on the chest, and you can put all your gadgets and your, and your gizmos in there.
+
+And then on the inside as well, we have, there's some adjustment for the back, so if I pull that one in, you can see the adjustment going through the waist.
+
+And then, really, the hood is quite a unique feature for us. So the hood will take your ski helmet, it will take your climbing helmet, but you can really, you know, adjust it down and bring it down when, when you need to.
 
 Well, and another really key feature for us is actually on the back. So these two pleats allow you to do like that when you're climbing.
 
@@ -202,27 +210,41 @@ Then we move into a more trekking, backpacking side, so obviously you need this 
 
 So that's our Gore-Tex range.
 
-So, right, what can you tell about this product?
+**So, right, what can you tell about this product?**
 
 Okay, so this is our Hi-Q Luxe jacket, and we launched this in Autumn/Winter '15. So, this is using a technology called Primaloft Gold Luxe. And, Primaloft came out with this for us exclusively for the, the season. And what this is basically is a, a synthetic alternative to down. So, normal Primaloft is a really great static insulator, but it's not good for actually when you're on the move, when you're actually moving. So, this allows you to be a bit more versatile with what you do with your product.
 
 So, if you're going backpacking or if you're going touring into the back country, basically, it, it mimics down so it's loose fill synthetic, so it's really great packing. It's really great for being small and lightweight, but it's really soft, really great, you know, feel to wear all day long.
 
-So we have some different jackets now in a, in a few different colors, so this was launched in, let's see, Autumn/Winter '15 last year. And then, now we have a, a hoodless version, so, if you don't want a hood. Then, you can buy this piece, as well. And then also, if you're really looking at ski touring and ski, back-country skiing, you can go with the, with the hybrid piece. This is our sort of stretch hybrid. It's using the same technology but with sort of more stretchy fabrics for using the harness or with, or, like I say, when you're skiing, just skiing.
+So we have some different jackets now in a, in a few different colors, so this was launched in, let's see, Autumn/Winter '15 last year. And then, now we have a, a hoodless version, so, if you don't want a hood.
+
+Then, you can buy this piece, as well. And then also, if you're really looking at ski touring and ski, back-country skiing, you can go with the, with the hybrid piece. This is our sort of stretch hybrid.
+
+It's using the same technology but with sort of more stretchy fabrics for using the harness or with, or, like I say, when you're skiing, just skiing.
 
 So it's a really great technology and this will be something we're going to be developing going forward.
 
-What can you tell about this product?
+**What can you tell about this product?**
 
 Okay, so this is also an insulated jacket. This is using something called Primaloft Gold Down Blend, and this was launched a couple of years ago. A few other brands are using it, but we've really sort of adopted it into a, quite a few new styles now, so ...
 
-Again, this style that I'm wearing was launched last year. We also have a couple of new, new pieces as well. So what this is is a blend of down and synthetic fiber. So it looks just like down, but in this, in the down itself you actually have synthetic fiber blended into the down. And what that means is you get a much more compressible jacket, but, also, you get water resistance from down and from, from, from synthetic, so you get a really good, versatile product. It's great for use in, sort of, more humid conditions, so it's not a pure down jacket. You know, you don't have to use it in really, really cold areas. It's just really good to sort of be a bit more durable.
+Again, this style that I'm wearing was launched last year. We also have a couple of new, new pieces as well. So what this is is a blend of down and synthetic fiber.
 
-The jackets, we really sort of focus on having great features here, so, you have the vision zipper, so if you're using it in cold and ice environment, so you sort of get really good movement with that. And, with it done up, you have obviously two big pockets here, fleece-lined, so really nice and cozy and warm. It's a really long cut, so it's just a, a really great jacket to wear all day, every day.
+So it looks just like down, but in this, in the down itself you actually have synthetic fiber blended into the down.
 
-And you can also open up those with, in your, in your gloves?
+And what that means is you get a much more compressible jacket, but, also, you get water resistance from down and from, from, from synthetic, so you get a really good, versatile product.
 
-Yes, yes, you get big grab pulls as well with your gloves. So the range that we now have, we just had this jacket last year, and now we have a hoodless version, so this will last you all year round, which comes in men's and ladies', so you can use this on cold spring nights if you're camping or if backpacking. So we have the men's and ladies' versions as well but great technology, great price, fantastic fit. So, that's our, that's our product.
+It's great for use in, sort of, more humid conditions, so it's not a pure down jacket. You know, you don't have to use it in really, really cold areas. It's just really good to sort of be a bit more durable.
+
+The jackets, we really sort of focus on having great features here, so, you have the vision zipper, so if you're using it in cold and ice environment, so you sort of get really good movement with that.
+
+And, with it done up, you have obviously two big pockets here, fleece-lined, so really nice and cozy and warm. It's a really long cut, so it's just a, a really great jacket to wear all day, every day.
+
+**And you can also open up those with, in your, in your gloves?**
+
+Yes, yes, you get big grab pulls as well with your gloves. So the range that we now have, we just had this jacket last year, and now we have a hoodless version, so this will last you all year round, which comes in men's and ladies', so you can use this on cold spring nights if you're camping or if backpacking.
+
+So we have the men's and ladies' versions as well but great technology, great price, fantastic fit. So, that's our, that's our product.
 
 ---
 
@@ -232,24 +254,27 @@ Yes, yes, you get big grab pulls as well with your gloves. So the range that we 
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2LtIxEurfOg"></iframe>
 </div>
 
-K:	Hi, this is Konstantin. I'm here with Sebastian from Haglöfs.
+**Hi, this is Konstantin. I'm here with Sebastian from Haglöfs.**
 
-H:	Hi.
+Hi.
 
-K:	Sebastian, hi. What are the highlights for this season?
+**Sebastian, hi. What are the highlights for this season?**
 
-H:	I need to present you two jackets. This blue one is called Essens Mimic Jacket. It's a synthetic insulated jacket and the special thing about this jacket is its insulation is a recycled polyester. That means you have all the advantages that we know from polyester insulation. It's easily to care. You have your ... have not any animal problems as we know from naturaL down. The material behaves just like natural down. It has a bomb thread ratio which is nearly a natural down, but it's synthetic and that material is one of our highlights. One of our best things for all year outdoors. Is it skiing, trekking, hiking, climbing, whatever.
+I need to present you two jackets. This blue one is called Essens Mimic Jacket. It's a synthetic insulated jacket and the special thing about this jacket is its insulation is a recycled polyester. That means you have all the advantages that we know from polyester insulation. It's easily to care. You have your ... have not any animal problems as we know from naturaL down. The material behaves just like natural down. It has a bomb thread ratio which is nearly a natural down, but it's synthetic and that material is one of our highlights. One of our best things for all year outdoors. Is it skiing, trekking, hiking, climbing, whatever.
 
-K:	Okay. I'll hold it for you.
+**Okay. I'll hold it for you.**
 
-H:	Yeah. Thank you. And this other one is a Haglöfs classic. It's coming back. The Spitz Jacket. Maybe some of you know it from about five to ten years ago. This is one of the most sold and most loved jackets that we have at Haglöfs and now we will see it again in the stores. It's a beautiful Gore Pro Jacket and very nice color. That's the women's version. It's designed for alpinism, that means a quite tight cut with a short cut for bearing climbing harnesses. It has everything that you need when you be in the high mountains. Again for climbing fine, ice climbing, ski touring, and whatever.
+Yeah. Thank you. And this other one is a Haglöfs classic. It's coming back. The Spitz Jacket. Maybe some of you know it from about five to ten years ago.
 
-K:	Thank you very much, Sebastian.
+This is one of the most sold and most loved jackets that we have at Haglöfs and now we will see it again in the stores.
 
-S:	Thank you very much.
+It's a beautiful Gore Pro Jacket and very nice color. That's the women's version.
 
-K:	Thanks.
+It's designed for alpinism, that means a quite tight cut with a short cut for bearing climbing harnesses.
 
+It has everything that you need when you be in the high mountains.
+
+Again for climbing fine, ice climbing, ski touring, and whatever.
 
 ---
 
@@ -271,7 +296,7 @@ amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
 
 ---
 
-Disclosure: We have not tested the products in this blog post.
+{% include disclaimer.html %}
 
 ---
 
