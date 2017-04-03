@@ -61,13 +61,6 @@ My name is Sabina Sirćo and I'm young blogger from Sarajevo, the capital city o
 
 ## Canada
 
-### <a href="https://hike365.wordpress.com/">hike365.org</a>
-
-<a href="https://www.facebook.com/hike365"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/hike365"><i class="fa fa-twitter"></i></a>  <a href="https://instagram.com/p/5kRoHWOIFr/"><i class="fa fa-instagram"></i></a>
-
-### <a href="http://www.playoutsideguide.com">playoutsideguide.com</a>
-Everything families need to know to get outside and have fun! Trip reports, pack lists, gear reviews, and more! <a href="https://twitter.com/playoutsidegal"><i class="fa fa-twitter"></i></a>  <a href="https://www.facebook.com/PlayOutsideGuide"><i class="fa fa-facebook"></i></a>  <a href="https://instagram.com/playoutsidegal"><i class="fa fa-instagram"></i></a>
-
 ### <a href="http://www.theprofessionalhobo.com">theprofessionalhobo.com</a>
 The adventures of Nora Dunn, who has been travelling the world full-time since selling everything she owned in 2006. She has travelled through/lived in 50+ countries and writes about her adventures, in addition to publishing her annual expenses and income reports, and teaching people how to travel full-time in a financially sustainable way.
 <a href="https://twitter.com/hobonora"><i class="fa fa-twitter"></i></a>  <a href="https://www.facebook.com/TheProfessionalHobo/"><i class="fa fa-facebook"></i></a>  <a href="https://instagram.com/theprofessionalhobo"><i class="fa fa-instagram"></i></a>
