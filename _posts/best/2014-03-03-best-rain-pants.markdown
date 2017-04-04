@@ -105,7 +105,7 @@ The Mountain Hardwear Plasmic Pants are slightly more heavy than the Montane pan
 
 ### [Rab Fuse Pants][7]
 
-<a href="https://www.amazon.com/gp/product/B00UMIW9JU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UMIW9JU&linkCode=as2&tag=hikeve-20&linkId=055e9dee0e87b8f31ff80a02c6308d6c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00UMIW9JU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00UMIW9JU" width="1" height="1" border="0" alt="Rab Fuse Pants" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="https://www.amazon.com/gp/product/B00UMIW9JU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UMIW9JU&linkCode=as2&tag=hikeve-20&linkId=055e9dee0e87b8f31ff80a02c6308d6c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00UMIW9JU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00UMIW9JU" width="1" height="1" border="0" alt="Rab Fuse Pants" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 205 grams
 **Fabric:** Pertex Shield 2.5 Layer
@@ -142,7 +142,7 @@ SL stands for Super Light in the Arcteryx product range. This model is reinforce
 
 ### [Rab Firewall Pants][10]
 
-<a href="https://www.amazon.com/gp/product/B01C644O04/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01C644O04&linkCode=as2&tag=hikeve-20&linkId=0ab2f639df8dd66b00bcd42eed08d32a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01C644O04&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01C644O04" width="1" height="1" border="0" alt="Rab Firewall Pants" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="https://www.amazon.com/gp/product/B01C644O04/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01C644O04&linkCode=as2&tag=hikeve-20&linkId=0ab2f639df8dd66b00bcd42eed08d32a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01C644O04&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01C644O04" width="1" height="1" border="0" alt="Rab Firewall Pants" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 319 grams
 **Fabric:** Pertex Shield+ 3L
@@ -155,6 +155,7 @@ The Rab Firewall Pants are made for active use during winter. The Rab Firewall p
 
 Wearing the [Montane Minimus Pants][2] rain pants on our hiking and packrafting trip in [Sarek National Park][3] in Sweden.
 
+---
 
 
 The rain pants in my list are for emergency situations so they will also pack quite small as the Montane Minimus pants (see picture above). Also consider to take a [waterproof jacket][11] with you.
