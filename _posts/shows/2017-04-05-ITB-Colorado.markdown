@@ -1,8 +1,7 @@
 ---
-published: false
-title: Things to do outdoors in Colorado - ITB Interview with Sidon Travel
+title: Things to do outdoors in Colorado - ITB Interview with Colorado Tourism Office
 description: Interviews with the Sidon Travel at the ITB
-date: 2017-04-05 17:28:01
+date: 2017-04-05 15:28:01
 category: articles
 tags:
   - articles
@@ -12,10 +11,10 @@ tags:
   - colorado
 layout: post
 ---
-On our visit at the ITB in Berlin we had a chance to talk with Jwnnifwe from Sidon Travel about the Outdoor activities in Colorado.
+On our visit at the ITB in Berlin we had a chance to talk with Jennifer Bartlett-Alpert from the Colorado Tourism Office about Outdoor activities in Colorado.
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/KDakFq_a7V0"></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/JOoGl6bLHcI"></iframe>
 </div>
 <br>
 <!--more-->
