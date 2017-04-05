@@ -17,6 +17,7 @@ On our visit at the ITB in Berlin we had a chance to talk with Jennifer Bartlett
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/JOoGl6bLHcI"></iframe>
 </div>
 <br>
+
 <!--more-->
 
 **Hi, this is Konstantin and I've got Jennifer from Colorado.
