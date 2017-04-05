@@ -20,9 +20,7 @@ On our visit at the ITB in Berlin we had a chance to talk with Jennifer Bartlett
 
 <!--more-->
 
-**Hi, this is Konstantin and I've got Jennifer from Colorado.
-
-Jennifer, could you tell about a couple of highlights of Colorado when it comes to adventure. I know it is a very difficult thing to do, but try to do it. In 1 minute.**
+**Hi, this is Konstantin and I've got Jennifer from Colorado. Jennifer, could you tell about a couple of highlights of Colorado when it comes to adventure. I know it is a very difficult thing to do, but try to do it. In 1 minute.**
 
 In Colorado it's 360 days of sunshine. So, we have great weather, great climate - it's really dry.  You've got beautiful outdoors. And it is very different, because you have the desert, you have canyons, you have high alpine mountains, you have lots of rivers. So we have a lot of variety all the time so you can do a lot of different things in Colorado. And the weather always helps. In the winter we have a lot of snow in the mountains, but we play golf on the front range. Because the weather is 20 degrees centigrade. It's ... so, you can do it all. It's great.
 
