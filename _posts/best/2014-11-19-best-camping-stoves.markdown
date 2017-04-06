@@ -1,6 +1,6 @@
 ---
 title: Best Camping Stoves 2017
-description: Need a new camoing stove? Here are the best stoves for 2017.
+description: Need a new camping stove? Here are the best stoves for 2017.
 date: 2016-01-03 00:42:09
 update_date: 2016-12-27 06:00:52
 category: articles
@@ -38,7 +38,7 @@ It will still work. It might be not that easy to ignite the stove but it's more 
 
         <tbody>
         <tr>
-          <td><a href="http://amzn.to/2eI6dBv" target="_blank" rel="nofollow">MSR Micro Rocket</a></td><td>73g</td>
+          <td><a href="http://amzn.to/2oMUORG" target="_blank" rel="nofollow">MSR PocketRocket 2</a></td><td>73g</td>
         </tr>
 
         <tr>
@@ -68,15 +68,15 @@ It will still work. It might be not that easy to ignite the stove but it's more 
 
 ---
 
-<h3><a href="http://amzn.to/2eI6dBv" target="_blank" rel="nofollow">MSR Micro Rocket</a></h3>
+<h3><a href="http://amzn.to/2eI6dBv" target="_blank" rel="nofollow">MSR PocketRocket 2</a></h3>
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00F0BSDO4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F0BSDO4&linkCode=as2&tag=hikeve-20&linkId=GXQ24IC7MGCK4GWX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00F0BSDO4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00F0BSDO4" width="1" height="1" border="0" alt="MSR Micro Rocket" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.com/gp/product/B01N5O7551/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N5O7551&linkCode=as2&tag=hikeve-20&linkId=96ce1565b0cfc6fab2b18bb420d356e9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01N5O7551&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01N5O7551" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 73 grams
 **Burn Time:** 3.5 min
 **Fuel:** Gas
 
-The MSR MicroRocket is the lightest stove in our list. If saving weight has your highest priority and you want to use a gas stove then you should go for the MSR MicroRocket.
+The MSR PocketRocket 2 is the lightest stove in our list. If low weight has your highest priority and you want to use a gas stove then you should have a close look on the new MSR PocketRocket 2.
 
 <a href="http://amzn.to/2eI6dBv" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
@@ -157,7 +157,7 @@ The MSR XGK EX is probably the best choice if you need a stove which can handle 
 
 ![][image-1]
 
-Konstantin with a [Jetboil stove][2] in [Sarek National Park][3] in Sweden.
+Konstantin with a [Jetboil stove][1] in [Sarek National Park][2] in Sweden.
 
 
 ---
@@ -184,9 +184,9 @@ amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
 ## How to choose the best camping stove?
 It all depends on your requirements. Do you need a simple and lightweight camping stove then the MSR MicroRocket would be a good choice but your stove won't have any wind protection and you need an aditional cup to boil the water.
 
-My preference goes towards a camping stove which boils water quickly and uses low amount of fuel as I am usually traveling with dehydrated food packages where I just have to add boiling water to the food package. My favourite stove for Scandinavia are the [MSR WindBurner][4] or the [Jetboil MiniMo][5] - both of them can also handle cold temperatures down to -6C while the MSR WinBurner stove can handle wind better than the Jetboil MiniMo.
+My preference goes towards a camping stove which boils water quickly and uses low amount of fuel as I am usually traveling with dehydrated food packages where I just have to add boiling water to the food package. My favourite stove for Scandinavia are the [MSR WindBurner][3] or the [Jetboil MiniMo][4] - both of them can also handle cold temperatures down to -6C while the MSR WinBurner stove can handle wind better than the Jetboil MiniMo.
 
-If you are traveling to different continents then a multi-fuel stove might be the best solution as gas canisters might not be sold everywhere. For winter camping you should probably also consider a multifuel stove like the [MSR XGK EX][6].
+If you are traveling to different continents then a multi-fuel stove might be the best solution as gas canisters might not be sold everywhere. For winter camping you should probably also consider a multifuel stove like the [MSR XGK EX][5].
 
 ---
 
@@ -194,11 +194,10 @@ If you are traveling to different continents then a multi-fuel stove might be th
 
 ---
 
-[1]:	http://www.hikeventures.com/destinations/
-[2]:	http://hikeventures.com/gear-review-jetboil-sol-ti/ "Jetboil Sol Ti"
-[3]:	http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Sarek National Park"
-[4]:	http://www.backcountry.com/msr-windboiler-personal-stove-system
-[5]:	http://www.backcountry.com/jetboil-minimo-cooking-system
-[6]:	http://www.backcountry.com/msr-xgk-ex-stove
+[1]:	http://hikeventures.com/gear-review-jetboil-sol-ti/ "Jetboil Sol Ti"
+[2]:	http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Sarek National Park"
+[3]:	http://www.backcountry.com/msr-windboiler-personal-stove-system
+[4]:	http://www.backcountry.com/jetboil-minimo-cooking-system
+[5]:	http://www.backcountry.com/msr-xgk-ex-stove
 
 [image-1]:	https://c1.staticflickr.com/3/2822/9596230289_9b0f70706d_o.jpg "Best Backpacking Stoves 2017"
