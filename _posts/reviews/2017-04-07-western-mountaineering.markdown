@@ -55,7 +55,7 @@ There is not much to complain about the Western Mountaineering Versalite. I like
 
 However, for Scandinavia this is easily a great sleeping bag which can be used during 3 seasons and even during the winter if it’s not that cold or you layer it with another sleeping bag if you are tight on budget to get a dedicated winter sleeping bag.
 
-A great sleeping pad companion for the WM Versalite is the [Therm-a-Rest NeoAir XTherm ][4]which weights about 400 grams and which I have also used in Northern Norway (see picture above).
+A great sleeping pad companion for the WM Versalite is the <a href="http://amzn.to/2og8uXo" rel="nofollow">Therm-a-Rest NeoAir XTherm</a> which weights about 400 grams and which I have also used in Northern Norway (see picture above).
 
 <a href="http://amzn.to/2oI2GY2" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
@@ -80,4 +80,3 @@ amzn_assoc_linkid = "36a365e75c8f933e4a5d925632830dc0";
 [1]:	http://www.hikeventures.com/cumulus-panyam-450/ "Cumulus Panjam 450"
 [2]:	http://www.hikeventures.com/Oro/ "Fortress Island of Örö"
 [3]:	http://www.hikeventures.com/winter-camping-alta/ "Northern Norway"
-[4]:	http://amzn.to/2og8uXo "Therm-a-Rest NeoAir XTherm"
