@@ -10,7 +10,7 @@ tags:
   -sleeping bags
   -gear
 ---
-Last year I was looking for a new sleeping bag to replace my [Cumulus Panjam 450][1] and here is a first review about the Western Mountaineering Versalite.
+Last year I was looking for a new sleeping bag to replace my [Cumulus Panjam 450][1] and here is a first review about the Western Mountaineering Versalite - a 3-season sleeping bag.
 
 In general, I was quite happy with the Cumulus Panjam 450. However, after having had my new Western Mountaineering Versalite on a few trips, changing back to the Cumulus Panjam 450 would be not such an easy step for me.
 
