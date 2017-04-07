@@ -276,11 +276,13 @@ published: true
 
 
          </tr>
+         <tr>
+
+   <td><a href="/western-mountaineering-versalite/" target="_self">Western Mountaineering Versalite</a></td>
+             <td></td>
 
 
-
-
-
+          </tr>
         </tbody>
       </table>
 </div>
