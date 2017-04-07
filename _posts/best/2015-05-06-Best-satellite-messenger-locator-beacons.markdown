@@ -119,7 +119,7 @@ Alternatively, you will see from the specifications below that the DeLorme devic
 * Message size: 160 characters
 * Waypoints
 
-<a href="http://amzn.to/2iZEbOB" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2iZEbOB" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
 ---
 
@@ -133,7 +133,7 @@ Alternatively, you will see from the specifications below that the DeLorme devic
 * 2GB storage for maps
 * weight: 213 grams
 
-<a href="http://amzn.to/2jM4Pet" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2jM4Pet" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
 ---
 
@@ -149,7 +149,7 @@ Alternatively, you will see from the specifications below that the DeLorme devic
 * Message size: 41 characters
 * Weight 114 grams
 
-<a href="http://amzn.to/2eTKIN3" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2eTKIN3" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
 ---
 
@@ -164,7 +164,7 @@ Alternatively, you will see from the specifications below that the DeLorme devic
 * No messaging
 * Weight: 153 grams
 
-<a href="http://amzn.to/2e39b0g" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2e39b0g" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
 ---
 

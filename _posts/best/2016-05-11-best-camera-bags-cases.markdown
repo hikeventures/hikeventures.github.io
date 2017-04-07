@@ -100,7 +100,7 @@ When I plan to go hiking or backpacking I would like to have a camera bag where 
 Thule Aspect DSLR/ILC Shoulder Bag offers space for a mirrorless camera, one lens and accessories. There are also side mesh pockets to store a small tripod or a water bottle.
 There is a front-folding lid to access gear quickly and smaller items can be organized there as well. A padded shoulder strap makes this camera bag comfortable to carry.
 
-<a href="http://amzn.to/2j0FSLB" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2j0FSLB" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
 
 <hr>
@@ -114,7 +114,7 @@ There is a front-folding lid to access gear quickly and smaller items can be org
 
 The Lowepro Nova Sport 7L AW is a camera bag with a removeable camera insert. It is available in red and grey and can also store a tablet. The Nova Sport 7L also comes with an all weather cover so it's great for hiking trips. However, if you plan to go kayaking or packrafting then it might be a better idea to store the Nova Sport in an dry sack.
 
-<a href="http://amzn.to/29YPNOV" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/29YPNOV" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
 <hr>
 
@@ -127,7 +127,7 @@ The Lowepro Nova Sport 7L AW is a camera bag with a removeable camera insert. It
 
 The Ortlieb Camera Bag Aqua Zoom is is dust and splash proof but you should not submerge it under water.
 
-<a href="http://amzn.to/29vBhTa" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/29vBhTa" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
 <hr>
 
@@ -145,7 +145,7 @@ For packrafting and kayaking I would like to have a camera bag which is complete
 
 The Aquqpac Waterproof SLR Camera Case is 100% waterproof to IPX8 and can be submerged to 5m for 30 mins. The Aquacase case also features an optically-clear acrylic lens for clear pictures. The case will also float on the water with your camera in it but Aquapac mentions that you should test the case with your camera before you take the case into the field.
 
-<a href="http://amzn.to/29zNP9o" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/29zNP9o" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
 <hr>
 
@@ -158,7 +158,7 @@ The Aquqpac Waterproof SLR Camera Case is 100% waterproof to IPX8 and can be sub
 
 The Pelican 1200 case is a bit heavier than the other bags and cases but it protects your camera not only from moisture but also from bumps. The company claims that you can submerge the case 1m for 30 minutes. The case also comes with a foam which you can customize the case. The case has an atmospheric purge valve and a neoprene o-ring seal.
 
-<a href="https://www.amazon.com/gp/product/B0051QYF5E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0051QYF5E&linkCode=as2&tag=hikeve-20&linkId=b35f232fa3758e5efbfc6f9d4e425fbd" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="https://www.amazon.com/gp/product/B0051QYF5E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0051QYF5E&linkCode=as2&tag=hikeve-20&linkId=b35f232fa3758e5efbfc6f9d4e425fbd" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
 <hr>
 
@@ -171,7 +171,7 @@ The Pelican 1200 case is a bit heavier than the other bags and cases but it prot
 
 The Ortlieb Soft Shot Waterproof Camera Bag is a great bag if you plan to go on an adventure of if the weather is uncertain. The bag has a volume of 9.7 l.
 
-<a href="http://amzn.to/2l3wtFb" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2l3wtFb" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
 <hr>
 
@@ -189,7 +189,7 @@ The Thule Convert Camera Backpack offers space for a DSLR and an attached wide a
 
 <a href="https://www.amazon.com/gp/product/B00JXECZSE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JXECZSE&linkCode=as2&tag=hikeve-20&linkId=81edc424d9dc6074372a108183c60bd0" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00JXECZSE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00JXECZSE" width="1" height="1" border="0" alt="Thule Covert Camera Backpack" style="border:none !important; margin:0px !important;" />
 
-<a href="https://www.amazon.com/gp/product/B00JXECZSE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JXECZSE&linkCode=as2&tag=hikeve-20&linkId=81edc424d9dc6074372a108183c60bd0" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="https://www.amazon.com/gp/product/B00JXECZSE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JXECZSE&linkCode=as2&tag=hikeve-20&linkId=81edc424d9dc6074372a108183c60bd0" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
 <hr>
 
@@ -202,7 +202,7 @@ The Thule Convert Camera Backpack offers space for a DSLR and an attached wide a
 
 The ONA Bowery Camera Bag has been handcrafted with premium waxed canvas and full-grain leather details. The camera can store one camera and one small lens.
 
-<a href="http://amzn.to/29vFJkX" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/29vFJkX" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
 <hr>
 
@@ -216,7 +216,7 @@ The ONA Bowery Camera Bag has been handcrafted with premium waxed canvas and ful
 
 The Thule Covert Camera Messenger Bag comes with a removable camera pod system and an iPad pocket. There is room for a compact DSLR and 2 lenses or a flash.
 
-<a href="https://www.amazon.com/gp/product/B00QWRMWKQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QWRMWKQ&linkCode=as2&tag=hikeve-20&linkId=5ee40d217ef34eff10943d4153566e80" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="https://www.amazon.com/gp/product/B00QWRMWKQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QWRMWKQ&linkCode=as2&tag=hikeve-20&linkId=5ee40d217ef34eff10943d4153566e80" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
 <hr>
 

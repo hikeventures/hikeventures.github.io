@@ -72,7 +72,7 @@ While [Packrafting in Sarek][7] Patrick was always wearing a fleece during the d
 
 The Acteryx Thetis Zip Neck fleece is more a fleece for those who are planning to sweat during the winter e.g. if you are planning to go running or hike up a mountain. It's fabric should dry quite fast and transport moisture away from the body.
 
-<a href="http://www.amazon.com/gp/product/B00GW7XOMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7XOMQ&linkCode=as2&tag=hikeve-20&linkId=KYPIGZUYHRQY4JNT" rel="nofollow"><button class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://www.amazon.com/gp/product/B00GW7XOMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7XOMQ&linkCode=as2&tag=hikeve-20&linkId=KYPIGZUYHRQY4JNT" rel="nofollow"><button class="btn btn-danger">See on Amazon</button></a>
 
 ---
 
@@ -85,7 +85,7 @@ The Acteryx Thetis Zip Neck fleece is more a fleece for those who are planning t
 
 The Mammut Moench Longsleeve features a stretchy fabric which should keep you dry and allow your body to move with ease. This should be a good fleece for activities in the mountains.
 
-<a href="http://www.amazon.com/gp/product/B005JWKXC4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005JWKXC4&linkCode=as2&tag=hikeve-20&linkId=AM7UMWDALROAZGHE" rel="nofollow"><button class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://www.amazon.com/gp/product/B005JWKXC4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005JWKXC4&linkCode=as2&tag=hikeve-20&linkId=AM7UMWDALROAZGHE" rel="nofollow"><button class="btn btn-danger">See on Amazon</button></a>
 
 ---
 
@@ -98,7 +98,7 @@ The Mammut Moench Longsleeve features a stretchy fabric which should keep you dr
 
 The Rab Micro Pull-on is also a light fleece pullover. It's fabric is made of recycled fabric if you prefer to opt for products and also keep nature in mind.
 
-<a href="http://www.amazon.com/gp/product/B00MVV2BDK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MVV2BDK&linkCode=as2&tag=hikeve-20&linkId=O35AIPYX5EH2BEVJ" rel="nofollow"><button class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://www.amazon.com/gp/product/B00MVV2BDK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MVV2BDK&linkCode=as2&tag=hikeve-20&linkId=O35AIPYX5EH2BEVJ" rel="nofollow"><button class="btn btn-danger">See on Amazon</button></a>
 
 ---
 
@@ -111,7 +111,7 @@ The Rab Micro Pull-on is also a light fleece pullover. It's fabric is made of re
 
 The Arcteryx Delta LT Zip Neck is also a nice fleece. I have currently the Delta LT Zip Jacket model which is similar to this model except that you have a full zip on the front.
 
-<a href="http://www.amazon.com/gp/product/B00GW7ZQG8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZQG8&linkCode=as2&tag=hikeve-20&linkId=TWGUKPE3JX4IKWXK" rel="nofollow"><button class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://www.amazon.com/gp/product/B00GW7ZQG8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZQG8&linkCode=as2&tag=hikeve-20&linkId=TWGUKPE3JX4IKWXK" rel="nofollow"><button class="btn btn-danger">See on Amazon</button></a>
 
 
 

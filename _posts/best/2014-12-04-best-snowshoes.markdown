@@ -78,7 +78,7 @@ Considering your own body and gear weight is important when choosing your snowsh
 * Optional, 5-inch (13-cm) tails for improved flotation
 * Torsion2 crampons
 
-<a href="http://amzn.to/2evU8vs" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2evU8vs" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
 ---
 
@@ -94,7 +94,7 @@ Considering your own body and gear weight is important when choosing your snowsh
 * DYNAMICFIT BINDING
 * FLEXTail
 
-<a href="http://amzn.to/2evSOZo" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2evSOZo" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
 ---
 
@@ -111,7 +111,7 @@ Considering your own body and gear weight is important when choosing your snowsh
 * Ergo Televators
 * Optional, 5-inch (13-cm) tails for improved flotation
 
-<a href="http://www.amazon.com/gp/product/B00LFJNWGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNWGO&linkCode=as2&tag=hikeve-20&linkId=5DOFWDAR6SHYQAWV" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://www.amazon.com/gp/product/B00LFJNWGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNWGO&linkCode=as2&tag=hikeve-20&linkId=5DOFWDAR6SHYQAWV" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
 ---
 
@@ -127,7 +127,7 @@ Considering your own body and gear weight is important when choosing your snowsh
 * Ergo Televators
 * Optional, 5-inch (13-cm) tails for improved flotation
 
-<a href="http://amzn.to/2ea20qB" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2ea20qB" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
 ---
 
@@ -142,7 +142,7 @@ Considering your own body and gear weight is important when choosing your snowsh
 * Carbon steel Cobra toe crampon
 * Grappler heel cleat
 
-<a href="http://amzn.to/2evSQR0" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2evSQR0" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
 ---
 
@@ -160,7 +160,7 @@ Considering your own body and gear weight is important when choosing your snowsh
 * Spring-loaded suspension
 * Duratek Decking
 
-<a href="http://amzn.to/2eTG0PH" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2eTG0PH" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
 ---
 
