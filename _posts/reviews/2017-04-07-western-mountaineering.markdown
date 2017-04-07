@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Western Mountaineering Versalite
+title: Western Mountaineering Versalite Review
 description: Our review of the Western Mountaineering Versalite
 date: 2017-04-07 07:30:00
 category: reviews
@@ -29,13 +29,13 @@ Talking about our winter trip in Northern Norway, I had an additional lighter sl
 
 You are probably also interested to know in what I was wearing during the night. Well, I was wearing a merino base layer and a synthetic insulated jacket during the night.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716083885/in/album-72157666947120531/" title="Western Mountaineering Versalite Review and Test"><img src="https://c1.staticflickr.com/9/8676/28716083885_bbf1d5f5b3_b.jpg" width="1024" height="683" alt=“Western Mountaineering Versalite Review and Test“></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716083885/in/album-72157666947120531/" title="Western Mountaineering Versalite Review and Test"><img src="https://c1.staticflickr.com/9/8676/28716083885_bbf1d5f5b3_b.jpg" width="1024" height="683" alt="Western Mountaineering Versalite Review and Test"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 However, it was slightly too warm wearing a jacket and being covered with 2 sleeping bags as I wanted to make sure to wear enough clothes during the night as I was not sure how deep the temperatures would drop.
 
 However, as a 3 season sleeping bag I would argue that the WM Versalite is probably one of the best sleeping bags I have used so far. The sleeping bag is also not advertised as being a winter sleeping bag but I prefer to layer rather than buying a dedicated winter sleeping bag.
 
-—
+---
 
 ## Features
 Now lets get to the specifications of the Western Mountaineering Versalite.   
