@@ -23,7 +23,7 @@ Why? Because I feel much warmer in the WM Versalite. However, the Cumulus Panjam
 ---
 
 ## Field Testing
- I have used my WM Versalite on several trips for example in Finland when we were packsailing to the [fortress island of Örö][2] or on our winter and summer trip in [Northern Norway][3] (see picture above)
+ I have used my WM Versalite on several trips for example in Finland when we were packsailing to the [fortress island of Örö][2] or on our winter and summer trip in [Northern Norway][3] (see pictures in this blog post).
 
 Talking about our winter trip in Northern Norway, I had an additional lighter sleeping bag with me which I used within the WM Versalite as we had temperatures at night of about -8C.
 
