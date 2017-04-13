@@ -194,7 +194,7 @@ In cold conditions you can extend the battery life of your Petzl Nao by wearing 
 
 ---
 
-<h3><a href="http://amzn.to/2cRrPd9" rel="nofollow">Petzl Nao Plus Rechargeable Battery</a></h3>
+<h3><a href="http://amzn.to/2obVajq" rel="nofollow">Petzl Nao Plus Rechargeable Battery</a></h3>
 
 In cold conditions you can extend the battery life of your Petzl Nao by wearing the battery nearby your body. Just attach the extension cable between your battery and the headlamp and you are good to go.
 
@@ -228,7 +228,7 @@ When deciding which headlamp you should purchase, you have to consider the facto
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15581097668/in/photolist-pJRcuY-nbZrcA-nbXFbR-n9UVEg-hXNmLH-hXMq24-hXMK7h-hXNm3Z-dXbkpf-dL8yRc-dNuTzR-dNAuXb" title="Petzl Nao 2"><img src="https://c5.staticflickr.com/9/8270/15581097668_e4633233a6_b.jpg" width="1024" height="683" alt="Best headlamps in 2017 - Petzl Nao"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-The <a href="http://amzn.to/2drIdg3" rel="nofollow">Petzl Nao</a> headlamp is one of my favourite headlamps.
+The <a href="http://amzn.to/2obVajq" rel="nofollow">Petzl Nao</a> headlamp is one of my favourite headlamps.
 
 ---
 
