@@ -9,8 +9,7 @@ tags:
   - gadgets
 ---
 
-Here is a selecetion of camping, hiking and backpacking gift and gadget ideas for women. We have asked a view women what they would like to buy and here is the result. So if you need a gift for your girlfriend or wife you might find something in this blog post. {% include disclaimer.html %}
-
+Here is a selecetion of camping, hiking and backpacking gift and gadget ideas for women. We have asked a view women what they would like to buy and here is the result. So if you need a gift for your girlfriend or wife you might find something in this blog post.
 ---
 
 <script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
@@ -411,3 +410,9 @@ The GSI Outdoors Java Drip Coffee Maker is for those who want to have fresh coff
 GSI Outdoors Nesting Red Wine Glass to enjoy your glass of wine outdoors.
 
 <a href="http://amzn.to/2fpf630" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+
+---
+
+{% include disclaimer.html %}
+
+---

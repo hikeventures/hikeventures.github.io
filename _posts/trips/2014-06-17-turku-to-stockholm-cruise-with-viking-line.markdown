@@ -65,4 +65,4 @@ The price of the cruise depends on the booking situation. The Viking Line ticket
 
 [1]:	http://www.vikinggrace.com "Viking Grace"
 [2]:	http://www.hikeventures.com/best-windjackets/ "wind jackets"
-[3]:	http://www.hikeventures.com/best-waterproof-rain-jackets/ "rain jackets"
+[3]:	http://www.hikeventures.com/best-rain-jackets/ "rain jackets"
