@@ -19,7 +19,7 @@ A good lightweight headlamp is an essential part for many outdoor activities lik
 
 It can be a life saver and should always be in your backpack. Here is my <a href="#list">selection</a> of the best headlamps for 2017.
 
-<a href="http://www.amazon.com/Petzl-NAO-Headlamp-575-Lumens/" rel="nofollow"><img src="https://farm8.staticflickr.com/7457/15910915424_192439b27f_b.jpg" alt="Best headlamps of 2017"></a>
+<a href="http://amzn.to/2gBew1C" rel="nofollow"><img src="https://farm8.staticflickr.com/7457/15910915424_192439b27f_b.jpg" alt="Best headlamps of 2017"></a>
 Konstantin wearing a Petzl Nao on the top of a fell in [Finnish Lapland][4]
 
 Personally, I like the Petzl NAO+ most since it has plenty of features and also offers the Petzl NAO Belt Kit which allows me to carry the battery under the jacket rather than on my head which can shorten the beattery life especially when wearing in [colder regions][1].
