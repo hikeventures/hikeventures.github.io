@@ -1,4 +1,5 @@
 ---
+published: false
 title: Outdoors Tidbits 58
 description: The latest outdoor gear reviews, tips & tricks - Nr. 58
 date: 2017-03-12 05:28:01

@@ -1,4 +1,5 @@
 ---
+published: false
 title: Outdoors Tidbits 59
 description: The latest outdoor gear reviews, tips & tricks - Nr. 59
 date: 2017-03-19 05:28:01
@@ -7,7 +8,7 @@ tags:
   - tidbits
 layout: post
 ---
-Last week we have been very busy. Konstantin was in Edinburgh while Patrick went through the video footages which we took at the ITB in Berlin. 
+Last week we have been very busy. Konstantin was in Edinburgh while Patrick went through the video footages which we took at the ITB in Berlin.
 
 It also seems that spring is finally coming to Finland as there were only a few patches of ice left on the Baltic Sea.
 

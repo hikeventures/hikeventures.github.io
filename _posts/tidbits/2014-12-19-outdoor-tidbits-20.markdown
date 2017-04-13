@@ -1,4 +1,5 @@
 ---
+published: false
 title: Outdoors Tidbits 20
 description: The latest outdoor gear reviews, tips & tricks - Nr. 20
 date: 2014-12-19 16:40:29

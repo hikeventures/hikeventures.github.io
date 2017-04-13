@@ -1,6 +1,5 @@
 ---
 published: false
-published: true
 title: Outdoors Tidbits 48
 description: The latest outdoor gear reviews, tips & tricks - Nr. 48
 date: 2016-09-24 07:28:01
