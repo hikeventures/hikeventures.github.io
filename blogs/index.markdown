@@ -151,7 +151,7 @@ An outdoor blog including cycling, survival, outdoor tech and survival. It shows
 ### <a href="http://www.thebimbler.co.uk">thebimbler.co.uk</a>
 The Bimbler Photo Blog is all about low octane adventure in South West UK with an emphasis on stopping to soak up the environment and eating snacks! <a href="https://www.facebook.com/theBimbler"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/The_Bimbler"><i class="fa fa-twitter"></i></a>  <a href="https://instagram.com/topmat/"><i class="fa fa-instagram"></i></a>
 
-### <a href="http://onepaceforward.com">onepaceforward.com</a>
+### <a href="https://onepaceforward.wordpress.com">onepaceforward.com</a>
 One Pace Forward is blog for hiking, adventure, travels, history & more, both in the UK and beyond. <a href="https://www.facebook.com/onepaceforward"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/onepaceforward"><i class="fa fa-twitter"></i></a>
 
 ---
