@@ -3,7 +3,7 @@ title: ISPO 2015 Review
 description: Exploring gear at the ISPO in Munich 2015
 date: 2015-02-07 09:12:05
 category: articles
-tags: 
+tags:
   - articles
   - ispo
 layout: post
@@ -85,7 +85,7 @@ ISPO Award Winner 2015 and the lightest down jacket (at the time of the exhibiti
 ## Sea to Summit Comfort Plus insulated
 The Sea to Summit Comfort Plus is an ISPO Award Winner 2015. It features a 2 layer system to adjust the mattress to your needs. It can also be considered as a safety feature. Let's say you get a hole into the bottom layer then you can sill use the upper layer as an insulation layer. In the past I have used the [Exped SynMat UL 7][12] sleeping pad but looking forward to test the Therm-a-rest NeoAir Xtherm on our packrafting trip in Sweden in April.
 
-<a href="https://www.flickr.com/photos/90204224@N07/16462095295" title="Sea to Summit Comfort Plus Insulated"><img src="https://farm8.staticflickr.com/7303/16462095295_ecbd7cf94a_b.jpg" width="1024" height="691" alt="ISPO - Sea to Summit Comfort Plus Insulated"></a> 
+<a href="https://www.flickr.com/photos/90204224@N07/16462095295" title="Sea to Summit Comfort Plus Insulated"><img src="https://farm8.staticflickr.com/7303/16462095295_ecbd7cf94a_b.jpg" width="1024" height="691" alt="ISPO - Sea to Summit Comfort Plus Insulated"></a>
 
 <a href="https://www.flickr.com/photos/90204224@N07/16275861479" title="Sea to Summit Comfort Plus Insulated"><img src="https://farm8.staticflickr.com/7396/16275861479_7dd5bb66d2_b.jpg" width="719" height="1024" alt="ISPO - Sea to Summit Comfort Plus Insulated"></a>
 
@@ -373,7 +373,7 @@ This was the first time for me being at the ISPO in Munich. It was quite an expe
 
 Contact me if you will be there as well!
 
-Want to read more about our outdoor trips? Here is an <a href="http://www.hikeventures.com/-packrafting-Njuoreatnu-Tornetrask-abisko-day-2/">article</a> about our packrafting trip in the Swedish mountains.
+Want to read more about our outdoor trips? Here is an <a href="http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko-day-2/">article</a> about our packrafting trip in the Swedish mountains.
 
 [1]:	http://hikeventures.com/destinations/
 [2]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/
