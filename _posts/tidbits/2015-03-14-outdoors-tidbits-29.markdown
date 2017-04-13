@@ -1,4 +1,5 @@
 ---
+published: false
 title: Outdoors Tidbits 29
 description: The latest outdoor gear reviews, tips & tricks - Nr. 29 - #outdoorstidbits
 date: 2015-03-14 21:01:14

@@ -1,4 +1,5 @@
 ---
+published: false
 title: Outdoors Tidbits 6
 description: The latest outdoor gear reviews, tips & tricks - Nr. 6
 date: 2014-09-21 07:42:26

@@ -1,4 +1,5 @@
 ---
+published: false
 title: Outdoors Tidbits 52
 description: The latest outdoor gear reviews, tips & tricks - Nr. 52
 date: 2016-11-28 05:28:01
@@ -13,7 +14,7 @@ As some of you may have already noticed we have a new logo and blog design. Curr
 
 <!--more-->
 
-Inflatable people - a video about the Packrafting Gathering in Sweden 2016 edited by [Urbanpackrafter](http://www.urbanpackrafter.com/) has been nominated to four awards during the [Danish Adventure Film Festival](https://www.facebook.com/danishadventurefilmfestival/posts/1277505315633908).  
+Inflatable people - a video about the Packrafting Gathering in Sweden 2016 edited by [Urbanpackrafter](http://www.urbanpackrafter.com/) has been nominated to four awards during the [Danish Adventure Film Festival](https://www.facebook.com/danishadventurefilmfestival/posts/1277505315633908).
 
 [Packrafting Fest](https://vk.com/1st_sibpackrafting) in Siberia from 19.7.-23.7.2017.
 

@@ -1,4 +1,5 @@
 ---
+published: false
 title: Outdoors Tidbits 50
 description: Hiking, Packrafting and Photography News - Nr. 50
 date: 2016-10-09 05:28:01

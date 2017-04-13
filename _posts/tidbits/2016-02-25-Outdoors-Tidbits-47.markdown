@@ -1,4 +1,5 @@
 ---
+published: false
 title: Outdoors Tidbits 47
 description: The latest outdoor gear reviews, tips & tricks - Nr. 47
 date: 2016-02-25 05:28:01

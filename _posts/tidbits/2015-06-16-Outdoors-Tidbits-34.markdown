@@ -1,4 +1,5 @@
 ---
+published: false
 title: Outdoors Tidbits 34
 description: The best blog articles about hiking, backpacking and packrafting 34
 date: 2015-06-16 18:04:22
@@ -9,7 +10,7 @@ tags:
 layout: post
 ---
 
-This week has been quite busy for us, planning and arranging things for our upcoming trips in the next 2 months. In July we are going to have some adventures in Poland. Konstantin will then continue with a 3 weeks packrafting and hiking adventure in Japan. Once back from Japan we will participate in the Fjällräven Classic event in Sweden in August followed by a couple of days packrafting in the Swedish mountains most likely together with the <a href="http://deliveranceteam.outdrr.com">The Deliverance Team</a> and <a href="http://urbanpackrafter.com">Urbanpackrafter</a>.   
+This week has been quite busy for us, planning and arranging things for our upcoming trips in the next 2 months. In July we are going to have some adventures in Poland. Konstantin will then continue with a 3 weeks packrafting and hiking adventure in Japan. Once back from Japan we will participate in the Fjällräven Classic event in Sweden in August followed by a couple of days packrafting in the Swedish mountains most likely together with the <a href="http://deliveranceteam.outdrr.com">The Deliverance Team</a> and <a href="http://urbanpackrafter.com">Urbanpackrafter</a>.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9596226393"><img src="https://c2.staticflickr.com/6/5479/9596226393_34ba3b93fb_b.jpg" width="1024" height="683"></a>
 <!--more-->

@@ -1,4 +1,5 @@
 ---
+published: false
 title: Outdoors Tidbits 37
 description: The latest outdoor gear reviews, tips & tricks - Nr. 37
 date: 2015-06-29 18:04:22

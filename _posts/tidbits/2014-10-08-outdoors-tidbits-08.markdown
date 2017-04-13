@@ -1,4 +1,5 @@
 ---
+published: false
 title: Outdoors Tidbits 8
 description: The latest outdoor gear reviews, tips & tricks - Nr. 8
 date: 2014-10-08 21:24:12

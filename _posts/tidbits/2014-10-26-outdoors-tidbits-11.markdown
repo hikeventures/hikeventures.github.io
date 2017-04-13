@@ -1,4 +1,5 @@
 ---
+published: false
 title: Outdoors Tidbits 11
 description: The latest outdoor gear reviews, tips & tricks - Nr. 11 - #outdoorstidbits
 date: 2014-10-26 01:27:15
