@@ -11,7 +11,7 @@ tags:
   - gps
   - watch
 ---
-Apple and Suunto recently announced their new smartwatches - the Apple Watch Series 2 and the <a href="http://amzn.to/2edjBKs" rel="nofollow" target="_blank">Suunto Spartan</a>. As I use my watch mainly for running and hiking I am interested in a watch which is water resistant and offer a long battery life. Both watches - the <a href="http://amzn.to/2edjBKs" rel="nofollow" target="_blank">Suunto Spartan</a> and the Apple Watch 2 offer water resistant but the big question is still which performs better in battery life? (Update 26.01.2017: Garmin has released the [Fenix 5X](http://amzn.to/2jse5Ht) which I would currently buy as my favorite outdoor watch since it also offers the possibility to upload topo maps).
+Apple and Suunto recently announced their new smartwatches - the Apple Watch Series 2 and the Suunto Spartan HR. As I use my watch mainly for running and hiking I am interested in a watch which is water resistant and offer a long battery life. Both watches - the <a href="http://amzn.to/2pkGVh8" rel="nofollow" target="_blank">Suunto Spartan HR</a> and the Apple Watch 2 offer water resistant but the big question is still which performs better in battery life? (Update 26.01.2017: Garmin has released the [Fenix 5X](http://amzn.to/2jse5Ht) which I would currently buy as my favorite outdoor watch since it also offers the possibility to upload topo maps). However, it weights a tiny bit more than the Suunto Spartan and if you only need your watch for running shorter distances (maybe up to a half marathon) and you have already an iPhone then the <a href="http://amzn.to/2pKb4Gt" rel="nofollow">Apple Watch 2</a> is probably a better choice since it is more versatile.
 
 ---
 
@@ -30,32 +30,13 @@ When Apple released the Apple Watch for the first time I decided to purchase a [
 
 ---
 
-Apple has worked with Nike and developed the Apple Watch Nike+ which offers some additional features for runners. If you are just into running then the Apple Watch Nike+ sounds like a nice package as you don't need such a long battery life and it also comes with an built in heart-rate monitor on your wrist. The <a href="http://amzn.to/2edjBKs" rel="nofollow" target="_blank">Suunto Spartan</a> still requires you to wear a heart-rate monitor around your chest.
-
----
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Search Results from Amazon";
-amzn_assoc_default_search_phrase = "Garmin Fenix 5X";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "067627c2089eb71085c3a24c35942813";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
+Apple has worked with Nike and developed the Apple Watch Nike+ which offers some additional features for runners. If you are just into running then the Apple Watch Nike+ sounds like a nice package as you don't need such a long battery life and it also comes with an built in heart-rate monitor on your wrist. The <a href="http://amzn.to/2pkGVh8" rel="nofollow" target="_blank">Suunto Spartan HR</a> still requires you to wear a heart-rate monitor around your chest.
 
 ---
 
 ## Conclusion
 
-If you are into multisport or any activity which lasts several hours then I would probably get the <a href="http://amzn.to/2edjBKs" rel="nofollow" target="_blank">Suunto Spartan</a>. If you only go running then the Apple Watch Nike+ is probably a better option. If you are an iPhone user then the Apple Watch Series 2 is obviously a better choice if you don't plan activities which lasts several hours. However, as I have not tested the <a href="http://amzn.to/2dt4Oyt" target="_blank" rel="nofollow">Apple Watch Series 2</a> I will need to see how long the watch might actually work with GPS switched on.
+If you are into multisport or any activity which lasts several hours then I would probably get the <a href="http://amzn.to/2pkGVh8" rel="nofollow" target="_blank">Suunto Spartan HR</a>. If you only go running then the Apple Watch Nike+ is probably a better option. If you are an iPhone user then the Apple Watch Series 2 is obviously a better choice if you don't plan activities which lasts several hours. However, as I have not tested the <a href="http://amzn.to/2pKb4Gt" target="_blank" rel="nofollow">Apple Watch Series 2</a> I will need to see how long the watch might actually work with GPS switched on.
 
 ---
 

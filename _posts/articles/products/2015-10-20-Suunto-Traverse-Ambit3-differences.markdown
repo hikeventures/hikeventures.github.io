@@ -10,13 +10,13 @@ tags:
 layout: post
 ---
 
-Suunto has recently released it's latest GPS watch - the Suunto Traverse - which is especially interesting for those interested in hiking and backpacking. So what are the differences between the Suunto Ambit3 and the Suunto Traverse? 
+Suunto has recently released it's latest GPS watch - the Suunto Traverse - which is especially interesting for those interested in hiking and backpacking. So what are the differences between the Suunto Ambit3 and the Suunto Traverse?
 
 The most important difference is probably that the Suunto Traverse has a vibration alarm and that the GPS receiver is now 'invisible' built into the watch. Moreover, the Suunto Traverse has a thinner (1mm) built. However, you will not find multisport functions in the Suunto Traverse. So, if you are for example more into triathlon then you should probably go for the <a href="http://amzn.to/2eHfOUi" rel="nofollow" target="_blank">Suunto Ambit3 Vertical</a> rather than the regular Suunto Traverse.
 
 {% include banner_ad.html %}
 
-I mainly go running and hiking so the regular Suunto Traverse is the best option for me and there is no need to pay for features which I don't use. Of course I could also get the new <a href="http://amzn.to/2edjBKs" rel="nofollow" target="_blank">Suunto Spartan</a> which features a color display and a touch screen. But are those two features worth the premium price over the Suunto Traverse or Ambit3 Vertical? It's up to you! (Update 26.01.2017: Garmin has released the [Fenix 5X](http://amzn.to/2jse5Ht) which I would currently buy as my favorite outdoor watch since it also offers the possibility to upload topo maps)
+I mainly go running and hiking so the regular Suunto Traverse is the best option for me and there is no need to pay for features which I don't use. Of course I could also get the new <a href="http://amzn.to/2edjBKs" rel="nofollow" target="_blank">Suunto Spartan</a> which features a color display and a touch screen. But are those two features worth the premium price over the Suunto Traverse or Ambit3 Vertical? It's up to you! (Update 26.01.2017: Garmin has released the <a rel="nofollow" href="http://amzn.to/2jse5Ht">Fenix 5X</a> which I would currently buy as my favorite outdoor watch since it also offers the possibility to upload topo maps)
 
 ---
 
