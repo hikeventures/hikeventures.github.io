@@ -50,7 +50,7 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Search Results from Amazon";
-amzn_assoc_default_search_phrase = "suunto spartan";
+amzn_assoc_default_search_phrase = "suunto spartan HR";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "e899350e29f667efc95eb96b505756d3";
 </script>
