@@ -111,7 +111,7 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Search Results from Amazon";
-amzn_assoc_default_search_phrase = "Marmot Force";
+amzn_assoc_default_search_phrase = "Marmot tent";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "641a343e03d8ad117b186083d41d084c";
 </script>
