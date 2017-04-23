@@ -1,5 +1,5 @@
 ---
-title: The best Berghaus Jackets - Extrem 8000 Pro and Ramche 2.0 Jacket
+title: The best Berghaus Jackets - Extrem 8000 Pro and Ramche 2.0
 description: Our interview with Berghaus about their latest jackets.
 date: 2017-04-23 15:28:01
 category: articles
