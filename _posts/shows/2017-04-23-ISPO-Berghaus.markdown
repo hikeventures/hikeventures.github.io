@@ -1,5 +1,5 @@
 ---
-title: ISPO Interview - Berghaus Extrem 8000 Pro and Ramche 2.0 Jacket
+title: The best Berghaus Jackets - Extrem 8000 Pro and Ramche 2.0 Jacket
 description: Our interview with Berghaus about their latest jackets.
 date: 2017-04-23 15:28:01
 category: articles
@@ -11,7 +11,7 @@ tags:
   - Berghaus
 layout: post
 ---
-On the ISPO we had the chance to talk with Berghaus about their Extrem 8000 Pro and Ramche 2.0 Jacket.
+On the ISPO we had the chance to talk with Berghaus about their best jackets in their collection - the Extrem 8000 Pro and Ramche 2.0 Jacket.
 
 ---
 
