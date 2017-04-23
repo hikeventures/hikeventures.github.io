@@ -67,7 +67,7 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Reviews on Amazon";
-amzn_assoc_default_search_phrase = "Berghaus Shell Jacket";
+amzn_assoc_default_search_phrase = "Berghaus Jacket";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "3b59edd59f23213f9e3bbcd8046ee503";
 </script>
