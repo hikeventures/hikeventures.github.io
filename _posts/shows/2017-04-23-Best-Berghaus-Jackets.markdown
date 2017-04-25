@@ -11,7 +11,7 @@ tags:
   - Berghaus
 layout: post
 ---
-On the ISPO we had the chance to talk with Berghaus about their best jackets in their collection - the Extrem 8000 Pro and Ramche 2.0 Jacket.
+On the ISPO we had the chance to talk with Berghaus about the best jackets in their collection - the Extrem 8000 Pro and Ramche 2.0 Jacket.
 
 ---
 

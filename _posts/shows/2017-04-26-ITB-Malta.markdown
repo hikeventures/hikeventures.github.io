@@ -1,7 +1,14 @@
 ---
+<<<<<<< HEAD
 title: Things to do outdoors in Malta - ITB Interview with the Malta Tourism Authority
 description: Our interview with the Malta Tourism Authority from Malta at the ITB in Berlin
 date: 2017-04-26 00:01:01
+=======
+published: false
+title: Things to do outdoors in Malta - ITB Interview Karakol Destination Management Organization
+description: Our interview with the Karakol Destination Management Organization from Malta at the ITB in Berlin
+date: 2017-04-26 15:28:01
+>>>>>>> origin/master
 category: articles
 tags:
   - articles
@@ -11,10 +18,17 @@ tags:
   - Malta
 layout: post
 ---
+<<<<<<< HEAD
 On our visit at the ITB in Berlin we had a chance to talk with Rakhat Dzhamalova from the Malta Tourism Authority about Outdoor activities in Malta.
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rhPAzrqjAJc"></iframe>
+=======
+On our visit at the ITB in Berlin we had a chance to talk with Rakhat Dzhamalova from the Karakol Destination Management Organization about Outdoor activities in Malta.
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vtyaeb61evg"></iframe>
+>>>>>>> origin/master
 </div>
 <br>
 
@@ -22,6 +36,7 @@ On our visit at the ITB in Berlin we had a chance to talk with Rakhat Dzhamalova
 
 **Hello. I am with Peter from Malta. Could you introduce yourself?**
 
+<<<<<<< HEAD
 Yes, of course. My name is Peter Cauchi. I am the director of Malta Tourism Auhority located in Germany, promoting Malta in Germany, Switzerland and Austria.
 
 **So, you are the right person for us to ask a question. What can you do when it comes to the outdoors in Malta?**
@@ -33,5 +48,19 @@ For outdoor, I mean, we have various selections in Malta. We are very famous in 
 Yes, in Malta we have, I would say, it is specialised more in mountain biking than racing, because we are a little island, you know, and obviously we do not have long stretches as you find in other countries to the mountains.
 
 It is possible, but I would rather go for mountain biking in Malta, which is very exciting with some great tracks on Dingli Cliffs or on our sister island, Gozo, which is quite famous for mountain biking. 
+=======
+Yes, of course. My name is Peter Cauki??? I am the director of Malta Tourism Auhority located in Germany, promoting Malta in Germany, Switzerland and Austria.
+
+**SO, you are the right person for us to ask a question. What can you do when it comes to the outdoors in Malta?**
+
+For outdoor, I mean, we have various selections in Malta. We are very famous in triathlon, triathlon training camps, canoeing, any kind of water sports, like kayaking et cetera. Very popular in Malta is also climbing.
+
+As you know, Malta is a very rocky island. We have a Terra X competition, which is always in our shoulder period. And we have the famous Malta triathlon, which is every year either in February or March.
+
+**So, there are a lot of different varieties of things. Can you also cycle?**
+Yes, in Malta we have, I would say, it is specialised more in mountain biking than racing, because we are a little island, you know, and obviously we do not have long stretches as you find in other countries to the mountains.
+
+It is possible, but I would rather go for mountain biking in Malta, which is very exciting with some great tracks on Dingli Cliffs or on our sister island, Gozo, which is quite famous for mountain biking.
+>>>>>>> origin/master
 
 <a href="http://www.hikeventures.com/ITB-2017/">Here</a> you can read more about our visit at the ITB in Berlin.
