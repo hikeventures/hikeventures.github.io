@@ -120,22 +120,6 @@ Keep in mind that lighter material might be less durable depending on the techno
 
 A good idea is also to combine a fleece jacket with a [wind jacket][11] since fleece jackets are not windproof and you won't sweat that much in a wind jacket than in a [rain jacket][12].
 
-## Our <a href="#interview">interview</a> with Houdini
-
-<div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Wa7DCO-aj3I"></iframe>
-</div>
-
-Hi, this is Konstantin and I've got Magnus from Houdini. Magnus, would you tell me something about your interesting products?
-
-Yeah, absolutely. Here we got the Power Houdi. It's a great Houdini product. It's made from Polartec Power Stretch Pro, which is a really nice fleece fabric and it's really warm, comfortable, has a nice fit to it so it's not too tight, but not too loosely fit, has a tight hoodie that works perfect underneath the shell we have here. I would say it's the best fleece on the market. Everybody should have one.
-
-This is quite interesting what about the quality of the material.
-
-Basically, you have one that's brand new and one that's 10 years old, and they look exactly the same. I would say I have maybe 10 Power Houdis in my wardrobe and the one like the most, it's the oldest one I got because it's the softest and it fits me perfect because I've been wearing it so much.
-
-Then here, we have a new product called the Wooler Houdi, basically the same product design something really new to the market, it's 100% wool but it has this grid inside that makes it really warm but still breathable and it transportes more moisture. It's also part of a new wool program that makes it 100% traceable so we know which farm all the wool comes from. Has a really nice micron to it so it's 7 1/2 microns which makes it super-super soft, make the skin and if you wear it without anything underneath. It's biodegrable, so we think this is something that a lot of customers want to wear, good for nature and it's also super nice to wear.
-
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
 amzn_assoc_search_bar = "false";
