@@ -56,6 +56,8 @@ If you want to have a Bluetooth lamp, you have to buy the head lamp in the US, J
 
 The NAO is just available for the other countries so all of the world, Africa, and NAO, the classic mode, has 50 lumen less than the NAO+.
 
+Read more about the <a href="http://amzn.to/2q0pulV" rel="nofollow">NAO+</a> and the <a href="http://amzn.to/2oquEaP" rel="nofollow">Reactik+</a>.
+
 ---
 
 <script type="text/javascript">
