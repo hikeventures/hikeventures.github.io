@@ -31,7 +31,11 @@ Yeah, absolutely. Here we got the Power Houdi. It's a great Houdini product. It'
 
 Basically, you have one that's brand new and one that's 10 years old, and they look exactly the same. I would say I have maybe 10 Power Houdis in my wardrobe and the one like the most, it's the oldest one I got because it's the softest and it fits me perfect because I've been wearing it so much.
 
-Then here, we have a new product called the Wooler Houdi, basically the same product design something really new to the market, it's 100% wool but it has this grid inside that makes it really warm but still breathable and it transportes more moisture. It's also part of a new wool program that makes it 100% traceable so we know which farm all the wool comes from. Has a really nice micron to it so it's 7 1/2 microns which makes it super-super soft, make the skin and if you wear it without anything underneath. It's biodegrable, so we think this is something that a lot of customers want to wear, good for nature and it's also super nice to wear.
+Then here, we have a new product called the Wooler Houdi, basically the same product design something really new to the market, it's 100% wool but it has this grid inside that makes it really warm but still breathable and it transportes more moisture.
+
+It's also part of a new wool program that makes it 100% traceable so we know which farm all the wool comes from. Has a really nice micron to it so it's 7 1/2 microns which makes it super-super soft, make the skin and if you wear it without anything underneath.
+
+It's biodegrable, so we think this is something that a lot of customers want to wear, good for nature and it's also super nice to wear.
 
 ---
 
@@ -44,8 +48,8 @@ amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_title = "Reviews on Amazon";
-amzn_assoc_default_search_phrase = "Houdini";
+amzn_assoc_title = "";
+amzn_assoc_default_search_phrase = "Hiking";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "3b59edd59f23213f9e3bbcd8046ee503";
 </script>
