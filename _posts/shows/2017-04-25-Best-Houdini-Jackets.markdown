@@ -11,7 +11,7 @@ tags:
   - Houdini
 layout: post
 ---
-On the ISPO we had the chance to talk with Houdini about the best fleece jackets in their collection - the Power Houdi and Wooler Houdi.
+On the ISPO we had the chance to talk with Houdini about some of their best fleece jackets in their collection - the Power Houdi and Wooler Houdi.
 
 ---
 

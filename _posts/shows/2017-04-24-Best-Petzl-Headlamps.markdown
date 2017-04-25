@@ -12,7 +12,7 @@ tags:
 layout: post
 ---
 
-On the ISPO we had the chance to talk with Petzl about some of the best headlamps in their collection - the NAO+ and the Reactik+.
+On the ISPO we had the chance to talk with Petzl about some of their best headlamps in their collection - the NAO+ and the Reactik+.
 
 ---
 
