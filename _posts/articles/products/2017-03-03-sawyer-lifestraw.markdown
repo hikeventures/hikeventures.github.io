@@ -1,7 +1,7 @@
 ---
 layout: post
-title: LifeStraw or Sawyer Mini to filter water?
-description: Differences between the LifeStraw and Sawyer water filter.
+title: LifeStraw, MSR TrailShot or Sawyer Mini to filter water?
+description: Differences between the LifeStraw, TrailShot and Sawyer water filter.
 date: 2017-03-03 07:30:00
 category: article
 tags:
@@ -16,7 +16,7 @@ In the past I had a look on water filtration systems which looked more durable b
 
 However, recently new solutions have appeared on the market for outdoor enthusiasts who prefer to travel light.
 
-In this article I am going discuss if you should choose the Sawyer Mini or the LifeStraw Personal water filter as a possible ultralight water filter solution.
+In this article I am going discuss if you should choose the Sawyer Mini, MSR TrailShot or the LifeStraw Personal water filter as a possible ultralight water filter solution.
 
 ---
 
@@ -31,13 +31,13 @@ In this article I am going discuss if you should choose the Sawyer Mini or the L
 <div class="table-responsive">
       <table  class="table table-hover table-bordered list_items">
         <thead><tr><th></th><th>LifeStraw Personal</th><th>Sawyer Mini</th></tr></thead><tbody>
-         <tr><td>filter size (micron)</td><td>0.2</td><td>0.1</td></tr>
-         <tr><td>weight (grams)</td><td>57</td><td>57</td></tr>
-         <tr><td>height (cm)</td><td>22.5</td><td>20.3</td></tr>
-         <tr><td>lifetime (liters)</td><td>1000</td><td>350000</td></tr>
-         <tr><td>viruses</td><td>no</td><td>no</td></tr>
-         <tr><td>carbon filter</td><td>no</td><td>no</td></tr>
-         <tr><td>&nbsp;</td><td><a rel="nofollow" href="http://amzn.to/2kOYYW6" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a></td><td><a rel="nofollow" href="http://amzn.to/2lZIqQl" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a></td></tr>
+         <tr><td>filter size (micron)</td><td>0.2</td><td>0.1</td><td>0.2</td></tr>
+         <tr><td>weight (grams)</td><td>57</td><td>57</td><td>142</td></tr>
+         <tr><td>height (cm)</td><td>22.5</td><td>20.3</td><td>15.25</td></tr>
+         <tr><td>lifetime (liters)</td><td>1000</td><td>350000</td><td>?</td></tr>
+         <tr><td>viruses</td><td>no</td><td>no</td><td>no</td></tr>
+         <tr><td>carbon filter</td><td>no</td><td>no</td><td>no</td></tr>
+         <tr><td>&nbsp;</td><td><a rel="nofollow" href="http://amzn.to/2kOYYW6" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a></td><td><a rel="nofollow" href="http://amzn.to/2lZIqQl" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a></td><td><a rel="nofollow" href="http://amzn.to/2qdeoXm" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a></td></tr>
         </tbody></table>
 </div>
 
