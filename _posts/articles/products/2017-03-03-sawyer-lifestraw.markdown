@@ -34,7 +34,7 @@ In this article I am going discuss if you should choose the Sawyer Mini, MSR Tra
          <tr><td>filter size (micron)</td><td>0.2</td><td>0.1</td><td>0.2</td></tr>
          <tr><td>weight (grams)</td><td>57</td><td>57</td><td>142</td></tr>
          <tr><td>height (cm)</td><td>22.5</td><td>20.3</td><td>15.25</td></tr>
-         <tr><td>lifetime (liters)</td><td>1000</td><td>350000</td><td>?</td></tr>
+         <tr><td>lifetime (liters)</td><td>1000</td><td>350000</td><td>2000</td></tr>
          <tr><td>viruses</td><td>no</td><td>no</td><td>no</td></tr>
          <tr><td>carbon filter</td><td>no</td><td>no</td><td>no</td></tr>
          <tr><td>&nbsp;</td><td><a rel="nofollow" href="http://amzn.to/2kOYYW6" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a></td><td><a rel="nofollow" href="http://amzn.to/2lZIqQl" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a></td><td><a rel="nofollow" href="http://amzn.to/2qdeoXm" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a></td></tr>
