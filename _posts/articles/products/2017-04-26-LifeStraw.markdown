@@ -16,7 +16,7 @@ Here is our video where we were interviewing LifeStraw at the ISPO and where we 
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/f58qpBLo_U4"></iframe>
 </div>
    
-   
+  <br> 
 <!--more-->
 
 **Hi. This is Konstantin. I'm here with LifeStraw. Please would you tell us more about your product?**
