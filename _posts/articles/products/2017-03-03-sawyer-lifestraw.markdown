@@ -66,7 +66,7 @@ Probably, if I would like to have a backup solution with me or if I am planning 
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00FA2RLX2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FA2RLX2&linkCode=as2&tag=hikeve-20&linkId=4a93b2f515988b50dcb8f0cfd64b0406"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00FA2RLX2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00FA2RLX2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-The Sawyer Mini is currently the water filter which goes into my backpack. It's small, light and able of cleaning a huge amount of water.
+The Sawyer Mini is currently the water filter which goes into my backpack. It's small, light and able of cleaning a huge amount of water. 
 
 Even so the filter needs a little bit of assembling work before you can use it I found it a much better and versatile solution than the LifeStraw.
 
@@ -76,6 +76,17 @@ Moreover, I am also able to remove small particels by using a filter.
 
 
 <a href="http://amzn.to/2lZIqQl" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+
+<hr>
+
+<h3><a href="http://amzn.to/2qdeoXm" target="_blank" rel="nofollow">MSR TrailShot</a></h3>
+
+<a target="_blank" rel="nofollow" href="https://www.amazon.com/gp/product/B01N7GC9Z6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N7GC9Z6&linkCode=as2&tag=hikeve-20&linkId=9cd4f46010c633f98715079e92777d85"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01N7GC9Z6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01N7GC9Z6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+The MSR TrailShot is the latest product in this list and it's probably going to replace my Sawyer Mini.
+
+
+<a href="http://amzn.to/2qdeoXm" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
 ---
 
