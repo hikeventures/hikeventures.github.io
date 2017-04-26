@@ -30,7 +30,7 @@ In this article I am going discuss if you should choose the Sawyer Mini, MSR Tra
 
 <div class="table-responsive">
       <table  class="table table-hover table-bordered list_items">
-        <thead><tr><th></th><th>LifeStraw Personal</th><th>Sawyer Mini</th></tr></thead><tbody>
+        <thead><tr><th></th><th>LifeStraw Personal</th><th>Sawyer Mini</th><th>MSR TrailShot</th></tr></thead><tbody>
          <tr><td>filter size (micron)</td><td>0.2</td><td>0.1</td><td>0.2</td></tr>
          <tr><td>weight (grams)</td><td>57</td><td>57</td><td>142</td></tr>
          <tr><td>height (cm)</td><td>22.5</td><td>20.3</td><td>15.25</td></tr>
