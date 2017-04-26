@@ -1,8 +1,7 @@
 ---
-published: false
 title: Testing the LifeStraw Water Filter
 description: Testing the LifeStraw Water Filter on the ISPO
-date: 2017-04-27 01:30:00
+date: 2017-04-26 10:30:00
 category: reviews
 tags:
   - ispo
@@ -11,7 +10,7 @@ tags:
 layout: post
 ---
 
-Here is our video where we interviewed LifeStraw at the ISPO and got some hands on experiene with the product.
+Here is our video where we were interviewing LifeStraw at the ISPO and where we were also able to test the LifeStraw water filter.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/f58qpBLo_U4"></iframe>
