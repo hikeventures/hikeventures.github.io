@@ -41,13 +41,13 @@ Here is our <a href="#list">selection</a> of the best water filters for 2017 whi
 
 <div class="table-responsive">
       <table  class="table table-hover table-bordered list_items">
-        <thead><tr><th></th><th>LifeStraw Personal Water Filter</th><th>Sawyer Mini Water Filtration System</th><th>Katadyn Hiker Pro Microfilter</th></tr></thead><tbody>
-         <tr><td>filter size (micron)</td><td>0.2</td><td>0.1</td><td>0.2</td></tr>
-         <tr><td>weight (grams)</td><td>57</td><td>57</td><td>310</td></tr>
-         <tr><td>height (cm)</td><td>22.5</td><td>20.3</td><td>16.35</td></tr>
-         <tr><td>lifetime (liters)</td><td>1000</td><td>350000</td><td>1150</td></tr>
-         <tr><td>viruses</td><td>no</td><td>no</td><td>no</td></tr>
-         <tr><td>carbon filter</td><td>no</td><td>no</td><td>yes</td></tr>
+        <thead><tr><th></th><th>LifeStraw Personal Water Filter</th><th>Sawyer Mini Water Filtration System</th><th>Katadyn Hiker Pro Microfilter</th><th>MSR TrailShot</th></tr></thead><tbody>
+         <tr><td>filter size (micron)</td><td>0.2</td><td>0.1</td><td>0.2</td><td>0.2</td></tr>
+         <tr><td>weight (grams)</td><td>57</td><td>57</td><td>310</td><td>142</td></tr>
+         <tr><td>height (cm)</td><td>22.5</td><td>20.3</td><td>16.35</td><td>15.25</td></tr>
+         <tr><td>lifetime (liters)</td><td>1000</td><td>350000</td><td>1150</td><td>2000</td></tr>
+         <tr><td>viruses</td><td>no</td><td>no</td><td>no</td><td>no</td></tr>
+         <tr><td>carbon filter</td><td>no</td><td>no</td><td>yes</td><td>no</td></tr>
          <tr><td>&nbsp;</td><td><a rel="nofollow" href="http://amzn.to/2kOYYW6" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a></td><td><a rel="nofollow" href="http://amzn.to/2lZIqQl" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a></td><td><a rel="nofollow" href="http://amzn.to/2lZGgjz" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a></td></tr>
         </tbody></table>
 </div>
