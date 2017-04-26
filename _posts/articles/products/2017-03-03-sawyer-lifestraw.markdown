@@ -83,8 +83,7 @@ Moreover, I am also able to remove small particels by using a filter.
 
 <a target="_blank" rel="nofollow" href="https://www.amazon.com/gp/product/B01N7GC9Z6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N7GC9Z6&linkCode=as2&tag=hikeve-20&linkId=9cd4f46010c633f98715079e92777d85"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01N7GC9Z6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01N7GC9Z6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-The MSR TrailShot is the latest product in this list and it's probably going to replace my Sawyer Mini.
-
+The MSR TrailShot is the latest product in this list and it's probably going to replace my Sawyer Mini. The Inlet Hose and the pump might be quite useful and more convenient to get clean water compared to the Sawyer Mini filter. However, these additional features also come with a little bit more weight (which I don't mind).
 
 <a href="http://amzn.to/2qdeoXm" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
@@ -92,7 +91,7 @@ The MSR TrailShot is the latest product in this list and it's probably going to 
 
 ## Conclusion
 
-Chosing a water filter system is of course a personal choice. In my case I like to have a water filter which does the job, is leighweight and has a long lifespan. Currently, I found the Sawyer Mini the perfect solution for my outdoor trips.
+Chosing a water filter system is of course a personal choice. In my case I like to have a water filter which does the job, is leighweight and has a long lifespan. Having used the Sawyer Mini for a long time I am quite excited to use the additional features of the MSR TrailShot.
 
 ---
 
@@ -105,7 +104,7 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_title = "Shop Related Products";
-amzn_assoc_default_search_phrase = "sawyer mini";
+amzn_assoc_default_search_phrase = "msr trailshot";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "d9f5cf2a41718e1d099e26edea215486";
 </script>
