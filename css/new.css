@@ -46,13 +46,17 @@ header .header-title {
     position: relative;
 }
 
-header p.start {
+header p.start, header p.start a {
     padding-top: 52px;
     font-family: 'Norwester', sans-serif;
     font-size: 42px;
     line-height: 0.93;
     letter-spacing: 0.6px;
     color: #fc6a08;
+}
+
+header p.start a:hover {
+	text-decoration: none;
 }
 
 header p.intro
@@ -572,6 +576,15 @@ h3 {
     font-family: Norwester;
 }
 
+h4 {
+    font-size: 20px;
+    color: #1a1a1a;
+    margin-top: 30px;
+    margin-bottom: 20px;
+	font-weight: bold;
+    font-family: Lato;
+}
+
 #archive ul {
     margin-bottom: 60px;
     list-style: none;
@@ -678,6 +691,48 @@ header > .wrapper, footer > .wrapper, .page-content > .wrapper {
     display: none;
 }
 
+.about_avatar {
+	padding: 90px 0 40px 0;
+}
+
+.followers_container {
+	margin-top:30px;
+	padding-top: 25px;
+	border-top: dashed 2px rgba(101, 60, 32, 0.5);
+}
+
+#social_followers_table span {
+	display: inline-block;
+	width: 40px;
+	padding: 10px 0;
+}
+
+#social_followers_table i {
+	font-size: 38px;
+	vertical-align: middle;
+}
+
+#social_followers_table div {
+	padding-left:50px;
+}
+
+#social_followers_table {
+	vertical-align: middle;
+	padding-bottom: 70px;
+}
+
+.bigimage {
+	padding-bottom: 70px;
+}
+
+#partners_table {
+	padding-bottom: 70px;
+}
+
+#contacts_table {
+	padding-top: 35px;
+}
+
 @media all and (max-width: 1000px) {
     header {
         padding: 0 56px;
@@ -766,6 +821,15 @@ header > .wrapper, footer > .wrapper, .page-content > .wrapper {
         height: 90px;
     }
 
+	header p.start, header p.start a {
+		padding-top: 15px;
+		font-size: 28px;
+	}
+
+	header p.intro {
+		display: none;
+	}
+
     .page-content {
         padding: 40px 10px 0 10px;
     }
@@ -841,9 +905,14 @@ header > .wrapper, footer > .wrapper, .page-content > .wrapper {
     }
 
     footer {
-        padding: 50px 10px 0 10px;
+        padding: 50px 10px 50px 10px;
         height: auto;
+		text-align: center;
     }
+	
+	.footer_follow {
+		display: block;
+	}
 
     footer .footer-column-1, footer .footer-column-2, footer .footer-column-3, footer .footer-column-4,
     footer .footer-column-5, footer .footer-column-6, footer .footer-column-7 {

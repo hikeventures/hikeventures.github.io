@@ -3,7 +3,7 @@ layout: default
 ---
 
 <article class="post">
-    {% if page.url != '/destinations/' %}<h2 class="post-title single">{{ page.title }}</h2>{% endif %}
+    {% if page.url != '/destinations/' %}{% if page.url != '/about/' %}<h2 class="post-title single">{{ page.title }}</h2>{% endif %}{% endif %}
     <div class="wrapper">
         <div class="post-content">
             {{ content }}
