@@ -268,22 +268,22 @@ published: true
 
 
               <td><a href="/Marmot-Force-UL-2P/" target="_self">Marmot Force UL 2P</a></td>
-<td></td>
 
+
+  <td><a href="/mountain-equipment-ar-ultralite-2/" target="_self">Mountain Equipment AR Ultralite 2</a></td>
 
          </tr>
 
 
         <tr>
 
-  <td><a href="/mountain-equipment-ar-ultralite-2/" target="_self">Mountain Equipment AR Ultralite 2</a></td>
             <td><a href="http://www.hikeventures.com/Therm-a-Rest-EvoLite/">Therm-a-Rest EvoLite</a></td>
-
+   <td><a href="/western-mountaineering-versalite/" target="_self">Western Mountaineering Versalite</a></td>
 
          </tr>
          <tr>
 
-   <td><a href="/western-mountaineering-versalite/" target="_self">Western Mountaineering Versalite</a></td>
+   <td></td>
              <td></td>
 
 
