@@ -11,6 +11,10 @@ tags:
   -tent
   -gear
 ---
+Last weekend I had the opportunity to test the Hilleberg Unna Inner Mesh on our trip in Sweden. As you probably know Hilleberg manufactures quite good tents but the inner tents which usually come with each tent can limit a bit the air circulation.
+
+Moreover, the yellow standard inner mesh also limits the view since they are not that transparent. That's where the Hilleberg Inner Mesh comes in quite handy which can replace the regular yellow inner tent. The inner mesh is especially useful during the summer time and can be also used without the outer tent if the weather is good (no rain / stong winds).
+
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/34100728560/in/dateposted-public/" title="Hilleberg Unna Inner Mesh"><img src="https://c1.staticflickr.com/3/2886/34100728560_568624aa28_k.jpg" width="2048" height="1367" alt="Hilleberg Unna Inner Mesh"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

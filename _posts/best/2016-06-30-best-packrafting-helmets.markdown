@@ -157,8 +157,8 @@ There is also a Russian manufacturer [Waterlogy](http://waterlogy.ru/products/sh
 
 <div id="video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-> On our packrafting trip in the Sarek National Park in Sweden we had no helmets with us. Nowadays, we would not go on such a trip again without a helmet <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
-</div>
+
+> On our packrafting trip in the Sarek National Park in Sweden we had no helmets with us. Nowadays, we would not go on such a trip again without a helmet.
 
 ---
 
