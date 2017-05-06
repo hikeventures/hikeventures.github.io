@@ -158,9 +158,7 @@ There is also a Russian manufacturer [Waterlogy](http://waterlogy.ru/products/sh
 <div id="video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
 
-> On our packrafting trip in the Sarek National Park in Sweden we had no helmets with us. Nowadays, we would not go on such a trip again without a helmet.
-
----
+On our packrafting trip in the Sarek National Park in Sweden we had no helmets with us. Nowadays, we would not go on such a trip again without a helmet.
 
 ## Conclusion
 Wearing an helmet is an important part of (whitewater) packrafting and kayaking. With many options on the markets you have to decide yourself which helmet is the best for you considering, weight, protective features, design and price. As a lightweight helmet we were quite happy with the [Petzl Meteor 3+ helmet](http://www.backcountry.com/sweet-protection-strutter-helmet). This year we are going to test the [Predator Shiznit helmet](http://amzn.to/2952d5F).
