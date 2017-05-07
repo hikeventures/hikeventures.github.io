@@ -32,6 +32,12 @@ Here is a selection of our favorite camping and blogging gear. We keep this list
 
 [Manfrotto BeFree Tripod](http://amzn.to/2nLByWh)
 
+[Sony FE 70-200mm F4 G OSS](http://amzn.to/2pU7nO6)
+
+[Zeiss Batis 25mm f2](http://amzn.to/2pTIRwq)
+
+[Sony A7](http://amzn.to/2pa9VIF)
+
 ---
 
 ## Camping Gear
@@ -55,3 +61,15 @@ Here is a selection of our favorite camping and blogging gear. We keep this list
 [Nalgene 32oz Wide Mouth Tritan Water Bottle](http://amzn.to/2ouheaj)
 
 [Sawyer Mini Water Filter](http://amzn.to/2nr8no3)
+
+[Hilleberg Unna](http://amzn.to/2qec6Lr)
+
+[Hilleberg Unna Inner Mesh Tent](http://amzn.to/2qdUyz1)
+
+[Hilleberg Tarp 10 UL](http://amzn.to/2qe6YqT)
+
+[Garmin InReach Explorer+](http://amzn.to/2pa3Rjw)
+
+[Lundhags Makke Pants](http://amzn.to/2qe2v7r)
+
+[Western Mountaineering VersaLite](http://amzn.to/2pTVO9F)

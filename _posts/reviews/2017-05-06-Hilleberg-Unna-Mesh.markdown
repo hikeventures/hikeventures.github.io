@@ -30,11 +30,11 @@ Why a red tent? I think it looks much better on pictures and the light within th
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/33643508724/in/dateposted-public/" title="Hilleberg Unna Inner Mesh"><img src="https://c1.staticflickr.com/5/4178/33643508724_4e18f2b2a7_k.jpg" width="2048" height="1367" alt="Hilleberg Unna Inner Mesh"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-What about condesation? Unfortunately, condensation also freezes on the Inner Mesh. However, I did not see that as a big issue as it disappeared after a few minutes from the mesh once the sun came out.
+What about condensation? Unfortunately, condensation also freezes on the Inner Mesh. However, I did not see that as a big issue as it disappeared after a few minutes from the mesh once the sun came out.
 
 ## Conclusion
 
-The Hilleberg <a href="http://amzn.to/2pRlpxL" rel="nofollow">Unna Inner Mesh</a> and the <a href="http://amzn.to/2qNRTZk" rel="nofollow">Unna Tent</a> is currently my go-to solo tent configuration. The Hilleberg Soulo is also a nice tent but it's just too short. The Unna offers much more space and it's also possible to create a vestibule within the tent. The best feature on the Hilleberg Unna is the big panorama window which is even better when combined with the Unna Inner Mesh Tent. Moreover, a free self-standing will allow you to pitch the tent even on very difficult ground.
+The Hilleberg <a href="http://amzn.to/2pRlpxL" rel="nofollow">Unna Inner Mesh</a> and the <a href="http://amzn.to/2qNRTZk" rel="nofollow">Unna Tent</a> is currently my go-to solo tent configuration. The Hilleberg Soulo is also a nice tent but it's just too short. The Unna offers much more space and it's also possible to create a vestibule within the tent. The best feature on the Hilleberg Unna is the big panorama window which is even better when combined with the Unna Inner Mesh Tent. Moreover, a free self-standing will allow you to pitch the tent even on very difficult ground. I can also recommend the [Therm-A-Rest XTherm](Therm-A-Rest XTherm) sleeping pad and the [Western Mountaineering VersaLite](http://amzn.to/2pTVO9F) 3-season down sleeping bag together with this tent.
 
 <a href="http://amzn.to/2pRlpxL" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
