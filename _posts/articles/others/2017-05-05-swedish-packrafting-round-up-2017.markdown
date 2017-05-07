@@ -17,7 +17,7 @@ As usual, we were lucky with the weather and enjoyed sunshine throughout the eve
 
 <!--more-->
 
-Hendrik and the rest of the crew on our first camp.
+Hendrik and the rest of the crew in our first camp.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/33653394973/in/dateposted-public/" title="Swedish Packrafting Round Up"><img src="https://c1.staticflickr.com/3/2848/33653394973_50d74d6e17_k.jpg" width="2048" height="1367" alt="Swedish Packrafting Round Up"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
