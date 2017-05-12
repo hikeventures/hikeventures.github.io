@@ -38,13 +38,49 @@ Aston Origin Microphone</a></center>
   Rycote Lavalier Windjammer</a></center>  
   </div>
 
+
+
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-  <a target="_blank"  href="https://www.amazon.com/gp/product/B002YNAOXY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002YNAOXY&linkCode=as2&tag=hikeve-20&linkId=d756d03bd5f34b07455796823c4659b9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B002YNAOXY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B002YNAOXY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-<center>  <a href="http://amzn.to/2nr87Fx" rel="nofollow">
-Rycote Invision Video 1/4 Adaptor</a></center>
+  <a target="_blank"  href="https://www.amazon.com/gp/product/B00B0YPAYQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00B0YPAYQ&linkCode=as2&tag=hikeve-20&linkId=5bdff84d215640a41877d2adb742a266"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00B0YPAYQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00B0YPAYQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <center>  <a href="http://amzn.to/2mZ5IXu" rel="nofollow">
+Sennheiser MKE 600 Shotgun Microphone</a></center>
   </div>
 
+  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+  <a target="_blank"  href="https://www.amazon.com/gp/product/B00DFU9BRK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DFU9BRK&linkCode=as2&tag=hikeve-20&linkId=54a6dd304a8f7b56e565eb4744e3ae5a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00DFU9BRK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00DFU9BRK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <center>  <a href="http://amzn.to/2nrgBN4" rel="nofollow">
+Zoom H5 Audio Field Recorder</a></center>
+  </div>
 
+  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+  <a target="_blank"  href="https://www.amazon.com/gp/product/B00WS2EL62/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00WS2EL62&linkCode=as2&tag=hikeve-20&linkId=f7ec1896a85ca7f7f89e9faafaddd314"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00WS2EL62&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00WS2EL62" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<center>    <a href="http://amzn.to/2ouagSu" rel="nofollow">
+Manfrotto Lumimuse 8 LED Video Light</a></center>
+  </div>
+
+  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+  <a target="_blank"  href="https://www.amazon.com/gp/product/B00COLBNTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00COLBNTK&linkCode=as2&tag=hikeve-20&linkId=e5dc17090800791cc14421e098868d30"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00COLBNTK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00COLBNTK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<center>    <a href="http://amzn.to/2nLByWh" rel="nofollow">
+Manfrotto BeFree Tripod</a></center>
+  </div>
+
+  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+  <a target="_blank"  href="https://www.amazon.com/gp/product/B00I8BICEO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00I8BICEO&linkCode=as2&tag=hikeve-20&linkId=1f94012e540870db95baa8b190475172"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00I8BICEO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00I8BICEO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <center>  <a href="http://amzn.to/2pU7nO6" rel="nofollow">
+Sony FE 70-200mm F4 G OSS</a></center>
+  </div>
+
+  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+  <a target="_blank"  href="https://www.amazon.com/gp/product/B00WIHXBK4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00WIHXBK4&linkCode=as2&tag=hikeve-20&linkId=9dad378feed0f29c9ff48db63c756396"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00WIHXBK4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00WIHXBK4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <center>  <a href="http://amzn.to/2pTIRwq" rel="nofollow">
+Zeiss Batis 25mm f2</a></center>
+  </div>
+
+  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+  <a target="_blank"  href="https://www.amazon.com/gp/product/B00FRDUZXM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FRDUZXM&linkCode=as2&tag=hikeve-20&linkId=519320171e79f884073a4c9679ecb3f8"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00FRDUZXM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00FRDUZXM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<center>    <a href="http://amzn.to/2pa9VIF" rel="nofollow">
+Sony A7</a></center>
+</div>
 
 </div>
 </div>
