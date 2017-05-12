@@ -103,36 +103,111 @@ Zeiss Batis 25mm f2</a></center>
 
 ---
 
-## Camping Gear
+<h3>Camping Gear</h3>
+<div id="partners_table" class="row">
 
-[MSR Windburner Stove](http://amzn.to/2ougMsw)
+  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+  <center>  <a href="http://amzn.to/2ougMsw" rel="nofollow">
+MSR Windburner Stove</a></center>
+    <a target="_blank"  href="https://www.amazon.com/gp/product/B01E6T56CM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01E6T56CM&linkCode=as2&tag=hikeve-20&linkId=da1ba6fe71108a198b69a6a9a27678cd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01E6T56CM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01E6T56CM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </div>
 
-[Therm-a-Rest NeoAir XTherm Mattress](http://amzn.to/2oLqLcs)
 
-[MPOWERD Luci Outdoor - Inflatable Solar Light](http://amzn.to/2nLOwTN)
+  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+  <center>  <a href="http://amzn.to/2oLqLcs" rel="nofollow">
+Therm-a-Rest NeoAir XTherm Mattress</a></center>
+    <a target="_blank"  href="https://www.amazon.com/gp/product/B01E6T56CM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01E6T56CM&linkCode=as2&tag=hikeve-20&linkId=da1ba6fe71108a198b69a6a9a27678cd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01E6T56CM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01E6T56CM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </div>
 
-[PackTowl Personal Packtowl](http://amzn.to/2mZdb8O)
+  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+  <center>  <a href="http://amzn.to/2nLOwTN" rel="nofollow">
+MPOWERD Luci Outdoor - Inflatable Solar Light</a></center>
+    <a target="_blank"  href="https://www.amazon.com/gp/product/B01E6T56CM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01E6T56CM&linkCode=as2&tag=hikeve-20&linkId=da1ba6fe71108a198b69a6a9a27678cd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01E6T56CM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01E6T56CM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </div>
 
-[Icebreaker Men's Everyday Long sleeve Crewe Top](http://amzn.to/2nr6uI4)
+  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+  <center>  <a href="http://amzn.to/2mZdb8O" rel="nofollow">
+PackTowl Personal Packtowl</a></center>
+    <a target="_blank"  href="https://www.amazon.com/gp/product/B01E6T56CM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01E6T56CM&linkCode=as2&tag=hikeve-20&linkId=da1ba6fe71108a198b69a6a9a27678cd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01E6T56CM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01E6T56CM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </div>
 
-[Icebreaker Men's Anatomica Briefs](http://amzn.to/2nr1AL7)
 
-[MSR Hubba Hubba NX Tent](http://amzn.to/2nugZLz)
+<div id="partners_table" class="row">
 
-[Icebreaker Men's Hike+ Lite Crew Socks](http://amzn.to/2mZiYeC)
+  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+  <center>  <a href="http://amzn.to/2nr6uI4" rel="nofollow">
+Icebreaker Men's Everyday Long sleeve Crewe Top</a></center>
+    <a target="_blank"  href="https://www.amazon.com/gp/product/B01E6T56CM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01E6T56CM&linkCode=as2&tag=hikeve-20&linkId=da1ba6fe71108a198b69a6a9a27678cd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01E6T56CM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01E6T56CM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </div>
 
-[Nalgene 32oz Wide Mouth Tritan Water Bottle](http://amzn.to/2ouheaj)
+  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+  <center>  <a href="http://amzn.to/2nr1AL7" rel="nofollow">
+Icebreaker Men's Anatomica Briefs</a></center>
+    <a target="_blank"  href="https://www.amazon.com/gp/product/B01E6T56CM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01E6T56CM&linkCode=as2&tag=hikeve-20&linkId=da1ba6fe71108a198b69a6a9a27678cd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01E6T56CM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01E6T56CM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </div>
 
-[Sawyer Mini Water Filter](http://amzn.to/2nr8no3)
+  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+  <center>  <a href="http://amzn.to/2nugZLz" rel="nofollow">
+MSR Hubba Hubba NX Tent</a></center>
+    <a target="_blank"  href="https://www.amazon.com/gp/product/B01E6T56CM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01E6T56CM&linkCode=as2&tag=hikeve-20&linkId=da1ba6fe71108a198b69a6a9a27678cd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01E6T56CM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01E6T56CM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </div>
 
-[Hilleberg Unna](http://amzn.to/2qec6Lr)
+  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+  <center>  <a href="http://amzn.to/2mZiYeC" rel="nofollow">
+Icebreaker Men's Hike+ Lite Crew Socks</a></center>
+    <a target="_blank"  href="https://www.amazon.com/gp/product/B01E6T56CM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01E6T56CM&linkCode=as2&tag=hikeve-20&linkId=da1ba6fe71108a198b69a6a9a27678cd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01E6T56CM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01E6T56CM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </div>
+</div>
 
-[Hilleberg Unna Inner Mesh Tent](http://amzn.to/2qdUyz1)
+<div id="partners_table" class="row">
+  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+  <center>  <a href="http://amzn.to/2ouheaj" rel="nofollow">
+Nalgene 32oz Wide Mouth Tritan Water Bottle</a></center>
+    <a target="_blank"  href="https://www.amazon.com/gp/product/B01E6T56CM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01E6T56CM&linkCode=as2&tag=hikeve-20&linkId=da1ba6fe71108a198b69a6a9a27678cd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01E6T56CM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01E6T56CM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </div>
 
-[Hilleberg Tarp 10 UL](http://amzn.to/2qe6YqT)
+  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+  <center>  <a href="http://amzn.to/2nr8no3" rel="nofollow">
+Sawyer Mini Water Filter</a></center>
+    <a target="_blank"  href="https://www.amazon.com/gp/product/B01E6T56CM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01E6T56CM&linkCode=as2&tag=hikeve-20&linkId=da1ba6fe71108a198b69a6a9a27678cd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01E6T56CM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01E6T56CM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </div>
 
-[Garmin InReach Explorer+](http://amzn.to/2pa3Rjw)
+  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+  <center>  <a href="http://amzn.to/2qec6Lr" rel="nofollow">
+Hilleberg Unna</a></center>
+    <a target="_blank"  href="https://www.amazon.com/gp/product/B01E6T56CM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01E6T56CM&linkCode=as2&tag=hikeve-20&linkId=da1ba6fe71108a198b69a6a9a27678cd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01E6T56CM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01E6T56CM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </div>
 
-[Lundhags Makke Pants](http://amzn.to/2qe2v7r)
+  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+  <center>  <a href="http://amzn.to/2qdUyz1" rel="nofollow">
+Hilleberg Unna Inner Mesh Tent</a></center>
+    <a target="_blank"  href="https://www.amazon.com/gp/product/B01E6T56CM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01E6T56CM&linkCode=as2&tag=hikeve-20&linkId=da1ba6fe71108a198b69a6a9a27678cd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01E6T56CM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01E6T56CM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </div>
+</div>
 
-[Western Mountaineering VersaLite](http://amzn.to/2pTVO9F)
+<div id="partners_table" class="row">
+  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+  <center>  <a href="http://amzn.to/2qe6YqT" rel="nofollow">
+Hilleberg Tarp 10 UL</a></center>
+    <a target="_blank"  href="https://www.amazon.com/gp/product/B01E6T56CM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01E6T56CM&linkCode=as2&tag=hikeve-20&linkId=da1ba6fe71108a198b69a6a9a27678cd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01E6T56CM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01E6T56CM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </div>
+
+  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+  <center>  <a href="http://amzn.to/2pa3Rjw" rel="nofollow">
+Garmin InReach Explorer+</a></center>
+    <a target="_blank"  href="https://www.amazon.com/gp/product/B01E6T56CM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01E6T56CM&linkCode=as2&tag=hikeve-20&linkId=da1ba6fe71108a198b69a6a9a27678cd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01E6T56CM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01E6T56CM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </div>
+
+  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+  <center>  <a href="http://amzn.to/2qe2v7r" rel="nofollow">
+Lundhags Makke Pants</a></center>
+    <a target="_blank"  href="https://www.amazon.com/gp/product/B01E6T56CM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01E6T56CM&linkCode=as2&tag=hikeve-20&linkId=da1ba6fe71108a198b69a6a9a27678cd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01E6T56CM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01E6T56CM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </div>
+
+  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+  <center>  <a href="http://amzn.to/2pTVO9F" rel="nofollow">
+Western Mountaineering VersaLite</a></center>
+    <a target="_blank"  href="https://www.amazon.com/gp/product/B01E6T56CM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01E6T56CM&linkCode=as2&tag=hikeve-20&linkId=da1ba6fe71108a198b69a6a9a27678cd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01E6T56CM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01E6T56CM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </div>
+
+</div>
