@@ -83,7 +83,6 @@ Sony A7</a></center>
 </div>
 
 </div>
-</div>
 
 
 ## Blogging & Video Gear
