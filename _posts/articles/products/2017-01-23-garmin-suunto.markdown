@@ -52,11 +52,6 @@ Below I have summarized the main characteristics of both watches which were impo
 </tbody></table>
 </div>
 
-What I really like on both watches is that you can charge them also with a USB Power Bank. This is especially useful when I go on a longer hiking trip. My favorite one is currently the <a href="http://amzn.to/2pqLXFI" rel="nofollow">Anker Astro E5</a>.
-
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00O1U89TE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00O1U89TE&linkCode=as2&tag=hikeve-20&linkId=4968ef1c66f7fd2cf902ccb3f89645b2"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00O1U89TE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00O1U89TE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-
 ## Reasons for upgrading
 When you own an old Suunto watch like the Traverse or a Garmin Fenix 3 then you are probably asking yourself if you should upgrade to the Spartan or Fenix watch.
 
@@ -82,7 +77,7 @@ amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_title = "Suunto Spartan HR on Amazon";
+amzn_assoc_title = "Suunto Spartan Screen Protector";
 amzn_assoc_default_search_phrase = "Suunto Spartan HR";
 amzn_assoc_default_category = "All";
 amzn_assoc_linkid = "d9f5cf2a41718e1d099e26edea215486";
