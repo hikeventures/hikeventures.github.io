@@ -16,18 +16,18 @@ Here is a selection of our favorite camping and blogging gear. We keep this list
 <div id="partners_table" class="row">
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
     <a target="_blank"  href="https://www.amazon.com/gp/product/B01E6T56CM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01E6T56CM&linkCode=as2&tag=hikeve-20&linkId=da1ba6fe71108a198b69a6a9a27678cd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01E6T56CM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01E6T56CM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-    <a href="http://amzn.to/2nr3DPm" rel="nofollow">
-Focusrite Scarlett Solo</a>
+  <center>  <a href="http://amzn.to/2nr3DPm" rel="nofollow">
+Focusrite Scarlett Solo</a></center>
   </div>
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
     <a target="_blank"  href="https://www.amazon.com/gp/product/B00EO4A7L0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EO4A7L0&linkCode=as2&tag=hikeve-20&linkId=f8619045301614e1ef2beeaf25599208"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00EO4A7L0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00EO4A7L0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-    <a href="http://amzn.to/2mZ5OhL" rel="nofollow">
-Rode smartLav+ Lavalier Microphone</a>
+  <center>  <a href="http://amzn.to/2mZ5OhL" rel="nofollow">
+Rode smartLav+ Lavalier Microphone</a></center>
   </div>
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
     <a target="_blank"  href="https://www.amazon.com/gp/product/B019RVU0C0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019RVU0C0&linkCode=as2&tag=hikeve-20&linkId=b61a2555185cb2ea0a1152993e3af77f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B019RVU0C0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B019RVU0C0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-    <a href="http://amzn.to/2mZ5fnO" rel="nofollow">
-Aston Origin Microphone</a>
+<center>    <a href="http://amzn.to/2mZ5fnO" rel="nofollow">
+Aston Origin Microphone</a></center>
   </div>
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
     <img src="werner-logo.png" alt="Werner Paddles" />
