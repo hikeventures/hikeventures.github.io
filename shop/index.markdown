@@ -92,33 +92,6 @@ Sony A7</a></center>
 
 </div>
 
-
-## Blogging & Video Gear
-
-[Focusrite Scarlett Solo](http://amzn.to/2nr3DPm)
-
-[Rode smartLav+ Lavalier Microphone](http://amzn.to/2mZ5OhL)
-
-[Aston Origin Microphone](http://amzn.to/2mZ5fnO)
-
-[Rycote Lavalier Windjammer](http://amzn.to/2nuj3mt)
-
-[Rycote Invision Video 1/4 Adaptor](http://amzn.to/2nr87Fx)
-
-[Sennheiser MKE 600 Shotgun Microphone](http://amzn.to/2mZ5IXu)
-
-[Zoom H5 Audio Field Recorder](http://amzn.to/2nrgBN4)
-
-[Manfrotto Lumimuse 8 LED Video Light](http://amzn.to/2ouagSu)
-
-[Manfrotto BeFree Tripod](http://amzn.to/2nLByWh)
-
-[Sony FE 70-200mm F4 G OSS](http://amzn.to/2pU7nO6)
-
-[Zeiss Batis 25mm f2](http://amzn.to/2pTIRwq)
-
-[Sony A7](http://amzn.to/2pa9VIF)
-
 ---
 
 ## Camping Gear
