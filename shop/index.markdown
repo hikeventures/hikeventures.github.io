@@ -14,6 +14,7 @@ Here is a selection of our favorite camping and blogging gear. We keep this list
 
 <h3>Blogging & Video Gear</h3>
 <div id="partners_table" class="row">
+
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
     <a target="_blank"  href="https://www.amazon.com/gp/product/B01E6T56CM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01E6T56CM&linkCode=as2&tag=hikeve-20&linkId=da1ba6fe71108a198b69a6a9a27678cd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01E6T56CM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01E6T56CM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   <center>  <a href="http://amzn.to/2nr3DPm" rel="nofollow">
@@ -28,7 +29,7 @@ Rode smartLav+ Lavalier Microphone</a></center>
 
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
     <a target="_blank"  href="https://www.amazon.com/gp/product/B019RVU0C0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019RVU0C0&linkCode=as2&tag=hikeve-20&linkId=b61a2555185cb2ea0a1152993e3af77f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B019RVU0C0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B019RVU0C0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-<center>    <a href="http://amzn.to/2mZ5fnO" rel="nofollow">
+<center> <a href="http://amzn.to/2mZ5fnO" rel="nofollow">
 Aston Origin Microphone</a></center>
   </div>
 
@@ -38,19 +39,13 @@ Aston Origin Microphone</a></center>
   Rycote Lavalier Windjammer</a></center>  
   </div>
 
-
-
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-  <a target="_blank"  href="https://www.amazon.com/gp/product/B00B0YPAYQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00B0YPAYQ&linkCode=as2&tag=hikeve-20&linkId=5bdff84d215640a41877d2adb742a266"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00B0YPAYQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00B0YPAYQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  <center>  <a href="http://amzn.to/2mZ5IXu" rel="nofollow">
-Sennheiser MKE 600 Shotgun Microphone</a></center>
-  </div>
+  <a target="_blank"  href="https://www.amazon.com/gp/product/B002YNAOXY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002YNAOXY&linkCode=as2&tag=hikeve-20&linkId=d756d03bd5f34b07455796823c4659b9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B002YNAOXY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B002YNAOXY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<center><a href="http://amzn.to/2nr87Fx" rel="nofollow">
+Rycote Invision Video 1/4 Adaptor</a></center>
+</div>
 
-  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-  <a target="_blank"  href="https://www.amazon.com/gp/product/B00DFU9BRK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DFU9BRK&linkCode=as2&tag=hikeve-20&linkId=54a6dd304a8f7b56e565eb4744e3ae5a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00DFU9BRK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00DFU9BRK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  <center>  <a href="http://amzn.to/2nrgBN4" rel="nofollow">
-Zoom H5 Audio Field Recorder</a></center>
-  </div>
+
 
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
   <a target="_blank"  href="https://www.amazon.com/gp/product/B00WS2EL62/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00WS2EL62&linkCode=as2&tag=hikeve-20&linkId=f7ec1896a85ca7f7f89e9faafaddd314"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00WS2EL62&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00WS2EL62" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
