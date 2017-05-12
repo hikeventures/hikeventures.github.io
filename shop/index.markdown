@@ -19,27 +19,27 @@ Here is a selection of our favorite camping and blogging gear.
 
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
   <center>  <a href="http://amzn.to/2qBwqGJ" rel="nofollow">
-The Ultimate Hiker's Gear Guide, Second Edition: Tools and Techniques to Hit the Trail</a></center>
-<a target="_blank"  href="https://www.amazon.com/gp/product/1426217846/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1426217846&linkCode=as2&tag=hikeve-20&linkId=a898c5b46fd8716f43b2e6f618c1936b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1426217846&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=1426217846" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+The Ultimate Hiker's Gear Guide, Second Edition: Tools and Techniques to Hit the Trail</a>
+<a target="_blank"  href="https://www.amazon.com/gp/product/1426217846/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1426217846&linkCode=as2&tag=hikeve-20&linkId=a898c5b46fd8716f43b2e6f618c1936b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1426217846&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=1426217846" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></center>
   </div>
 
 
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
   <center>  <a href="http://amzn.to/2pHsFvi" rel="nofollow">
-Into the Wild</a></center>
-<a target="_blank"  href="https://www.amazon.com/gp/product/0385486804/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385486804&linkCode=as2&tag=hikeve-20&linkId=ad3eef4da3cc39520f598972f33cf07f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0385486804&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=0385486804" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+Into the Wild</a>
+<a target="_blank"  href="https://www.amazon.com/gp/product/0385486804/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385486804&linkCode=as2&tag=hikeve-20&linkId=ad3eef4da3cc39520f598972f33cf07f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0385486804&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=0385486804" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></center>
   </div>
 
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
   <center>  <a href="http://amzn.to/2raZUsk" rel="nofollow">
-Wild</a></center>
-<a target="_blank"  href="https://www.amazon.com/gp/product/0307476073/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307476073&linkCode=as2&tag=hikeve-20&linkId=5c659bae3467639e8b235d93b3875e1c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0307476073&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=0307476073" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+Wild</a>
+<a target="_blank"  href="https://www.amazon.com/gp/product/0307476073/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307476073&linkCode=as2&tag=hikeve-20&linkId=5c659bae3467639e8b235d93b3875e1c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0307476073&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=0307476073" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></center>
   </div>
 
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
   <center>  <a href="http://amzn.to/2r2A8Ju" rel="nofollow">
-PackTowl Personal Packtowl</a></center>
-<a target="_blank"  href="https://www.amazon.com/gp/product/1493027476/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1493027476&linkCode=as2&tag=hikeve-20&linkId=7335b2823a26d53877705c5fd5a64e51"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1493027476&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=1493027476" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+PackTowl Personal Packtowl</a>
+<a target="_blank"  href="https://www.amazon.com/gp/product/1493027476/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1493027476&linkCode=as2&tag=hikeve-20&linkId=7335b2823a26d53877705c5fd5a64e51"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1493027476&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=1493027476" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></center>
   </div>
 </div>
 
