@@ -10,7 +10,7 @@ tags:
 ---
 Last weekend we have visited Sweden to participate in the Swedish Packrafting Round-Up 2017 and here are a few impressions from this event. In total we were packrafting 2 rivers and a third one after the official event.
 
-As usual, we were lucky with the weather and enjoyed sunshine throughout the event. The nights were however still quite chilly. We also had the opportunity to test new gear like the Hilleberg Tarp 10, Hilleberg Unna and the Hilleberg Inner Mesh. More about that gear in another blog post.
+As usual, we were lucky with the weather and enjoyed sunshine throughout the event. The nights were however still quite chilly. 
 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/34332806671/in/dateposted-public/" title="Swedish Packrafting Round Up 2017"><img src="https://c1.staticflickr.com/5/4160/34332806671_78ebe03636_k.jpg" width="2048" height="1367" alt="Swedish Packrafting Round Up 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
