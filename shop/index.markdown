@@ -7,7 +7,9 @@ footer: false
 navbar: Shop
 
 ---
+
 Here is a selection of our favorite camping and blogging gear.
+
 ---
 
 
