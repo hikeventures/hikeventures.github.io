@@ -33,8 +33,13 @@ Rode smartLav+ Lavalier Microphone</a></center>
 Aston Origin Microphone</a></center>
   </div>
 
-
-
+  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+  <a target="_blank"  href="https://www.amazon.com/gp/product/B008EUMPWE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008EUMPWE&linkCode=as2&tag=hikeve-20&linkId=edefc8b20f357f94163fa59443acead3"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B008EUMPWE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B008EUMPWE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <center><a href="http://amzn.to/2nuj3mt" rel="nofollow">
+  Rycote Lavalier Windjammer</a></center>  
+  </div>
+</div>
+<div id="partners_table" class="row">
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
   <a target="_blank"  href="https://www.amazon.com/gp/product/B002YNAOXY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002YNAOXY&linkCode=as2&tag=hikeve-20&linkId=d756d03bd5f34b07455796823c4659b9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B002YNAOXY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B002YNAOXY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <center><a href="http://amzn.to/2nr87Fx" rel="nofollow">
@@ -58,6 +63,8 @@ Zoom H5 Audio Field Recorder</a></center>
 <center>    <a href="http://amzn.to/2ouagSu" rel="nofollow">
 Manfrotto Lumimuse 8 LED Video Light</a></center>
   </div>
+</div>
+  <div id="partners_table" class="row">
 
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
   <a target="_blank"  href="https://www.amazon.com/gp/product/B00COLBNTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00COLBNTK&linkCode=as2&tag=hikeve-20&linkId=e5dc17090800791cc14421e098868d30"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00COLBNTK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00COLBNTK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
