@@ -31,8 +31,8 @@ Into the Wild</a>
   </div>
 
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-  <center>  <a href="http://amzn.to/2raZUsk" rel="nofollow">
-Wild</a>
+  <center><a href="http://amzn.to/2raZUsk" rel="nofollow">
+Wild</a><br>
 <a target="_blank"  href="https://www.amazon.com/gp/product/0307476073/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307476073&linkCode=as2&tag=hikeve-20&linkId=5c659bae3467639e8b235d93b3875e1c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0307476073&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=0307476073" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></center>
   </div>
 
