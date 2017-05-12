@@ -43,8 +43,6 @@ PackTowl Personal Packtowl</a>
   </div>
 </div>
 
-</div>
-
 ---
 
 <h3>Camping Gear</h3>
