@@ -47,7 +47,6 @@ Rode smartLav+ Lavalier Microphone</a></center>
 Rycote Invision Video 1/4 Adaptor</a></center>
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
   <a target="_blank"  href="https://www.amazon.com/gp/product/B002YNAOXY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002YNAOXY&linkCode=as2&tag=hikeve-20&linkId=d756d03bd5f34b07455796823c4659b9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B002YNAOXY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B002YNAOXY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
 </div>
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
