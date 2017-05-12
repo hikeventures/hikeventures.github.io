@@ -13,12 +13,6 @@ Here is a selection of outdoor blogs and bloggers we have been in contact with. 
 
 ## Australia
 
-### <a href="http://bikehikesafari.com/">bikehikesafari.com</a>
-
-Ever dreamed of quitting your well paid, respectable job to visit some of the most amazing places on the planet? Interested in hiking, cycle touring and canoeing in remote wilderness regions? Well, that's me. In 2014 I hiked, cycle toured and canoed in Tasmania, Alaska, Canada and Western USA. In 2015 I'll hike 2660 miles of the Pacific Crest Trail from Mexico to Canada. With little time for rest I'll then jump on my bicycle and cycle south to Argentina visiting the most amazing places in Central and South America. After South America, it's a big world! If you have a passion for nature and wilderness areas of the world join me as I discover the most amazing places on the planet. <a href="https://twitter.com/BikeHikeSafari"><i class="fa fa-twitter"></i></a>  <a href="https://www.facebook.com/bikehikesafari"><i class="fa fa-facebook"></i></a>  <a href="https://instagram.com/bikehikesafari/"><i class="fa fa-instagram"></i></a>
-
-### <a href="http://looking442.wordpress.com">looking442.wordpress.com</a>
-After a mini stroke (TIA) in February 2014, I decided to sell my house, give away any unnecessary possessions, transition to part-time work from a laptop anywhere in the world and travel. So far I've volunteered in a school in Africa, spent 6 weeks camping on a sand island, cycle toured in Australia and South Korea, rode a motorcycle on Java, backpacked Thailand and driven in Malaysia. Next up I will cycle tour Japan, walk the Camino de Santiago de Compastella, return to Java, fat bike and packraft across the England and Scotland for the NNW800 challenge, visit family in Holland during the winter and then fat bike Swedish Lapland in the snow.  I write a post for every day of my travels and organise them by country for easy access. Sometimes posts are delayed but I always write about my daily adventures when traveling. <a href="https://www.facebook.com/lookingfor42"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/andrewgills"><i class="fa fa-twitter"></i></a>  <a href="https://instagram.com/Lookingfor42"><i class="fa fa-instagram"></i></a>
 
 ### <a href="http://lotsafreshair.com/">lotsafreshair.com</a>
 Everyone talks about the need to unplug from their stressful lives and connect with nature and themselves by spending time in nature. However, when faced with the possibility of getting 'out there', many people come up with excuses that stop them from doing that. Lotsafreshair is a blog and YouTube channel all about encouraging people to get out and blow away those excuses. From what to pack, what food to take or how to adjust a backpack, Lotsafreshair aims to connect people with nature and help them fall in love with their outside selves. It provides a mix of not only practical quick tips and how-to's, but inspirational journeys and adventures in Australia and overseas.<a href="https://www.facebook.com/lotsafreshair"><i class="fa fa-facebook"></i></a> <a href="http://twitter.com/Lotsafreshair"><i class="fa fa-twitter"></i></a>  <a href="http://instagram.com/Lotsafreshair"><i class="fa fa-instagram"></i></a>  <a href="https://www.youtube.com/user/Lotsafreshair"><i class="fa fa-youtube"></i></a>
@@ -140,11 +134,6 @@ Hi, my name is Tom Boughton. This blog follows my journey. In 2013 I was depress
 ### <a href="https://markswalkingblog.wordpress.com">markswalkingblog.wordpress.com</a>
 Backpacker and wild camper with a love of mountains, forests and wild places. <a href="https://twitter.com/markswalking"><i class="fa fa-twitter"></i></a>
 
-### <a href="http://www.keithfoskett.com">keithfoskett.com</a>
-Keith Foskett is a long distance hiker, writer and blogger. He has written three books - The Journey in Between about his hike on El Camino de Santiago in Spain. The Last Englishman follows him as he hikes the Pacific Crest Trail and his latest book, Balancing on Blue is his Appalachian Trail memoir.
-Based in England, his website also contains reports from some of the UK trails, as well as numerous gear reports, posts from all his major hikes and a host of other useful information.
-The site was voted Best Independent Walking Blog and his books have been shortlisted for numerous awards. <a href="https://twitter.com/KeithFoskett"><i class="fa fa-twitter"></i></a>  <a href="https://www.youtube.com/user/rampantapple"><i class="fa fa-youtube"></i></a>  <a href="https://www.facebook.com/pages/Keith-Foskett-Fozzie/270894196286427"><i class="fa fa-facebook"></i></a>
-
 ### <a href="http://www.kernowoutdoors.com">kernowoutdoors.com</a>
 An outdoor blog including cycling, survival, outdoor tech and survival. It shows real life ideas and adventures and tests gears. Cornwall based but with a global footprint! <a href="https://www.facebook.com/Kernowoutdoors"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/kernowoutdoors"><i class="fa fa-twitter"></i></a>  <a href="https://instagram.com/topmat/"><i class="fa fa-instagram"></i></a>
 
@@ -160,13 +149,6 @@ One Pace Forward is blog for hiking, adventure, travels, history & more, both in
 
 ### <a href="http://adventures-in-the-outdoors.blogspot.fi/">adventures-in-the-outdoors.blogspot.fi</a>
 Adventure in the Outdoors is home to stories of hiking, camping, climbing and other outdoor adventures. There are trail news and information stories. For example, information on trail maintenance and building, lean-to reconstruction and more and events occurring throughout the region. We also have reviews of outdoor destinations, gear and advice. It's all here at Adventures in the Outdoors.<a href="https://www.facebook.com/AdventuresInTheOutdoors/"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/OutdrAdventures"><i class="fa fa-twitter"></i></a>
-
-
-### <a href="http://www.adventuretykes.com">adventuretykes.com</a>
-Helping to inspire and motivate parents to get outside with their tykes. Find resources on hiking, camping, backpacking and mountain biking as a family along with gear reviews, tips/ideas and giveaways. <a href="https://www.facebook.com/adventuretykes"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/alocalwander"><i class="fa fa-twitter"></i></a>  <a href="https://instagram.com/alocalwander"><i class="fa fa-instagram"></i></a>
-
-### <a href="http://www.alocalwander.com">alocalwander.com</a>
-Encouraging families to get outdoors together through our family adventures in hiking, camping, and other things. <a href="http://facebook.com/alocalwander"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/AdventureTykes"><i class="fa fa-twitter"></i></a>  <a href="https://instagram.com/AdventureTykes"><i class="fa fa-instagram"></i></a>
 
 ### <a href="http://www.packraft.org">packraft.org</a>
 <a href="https://www.facebook.com/AmericanPackraftingAssociation"><i class="fa fa-facebook"></i></a>
@@ -208,10 +190,6 @@ I’m a transplanted Southern Californian living in the Midwest. It’s taken so
 ### <a href="https://newenglandoutside.com">newenglandoutside.com</a>
 New England is a four season outdoor playground with limitless hiking, cycling, skiing, trail running and climbing. New England Outside exists to show you where to find the best adventures in this wonderful region. Check back often for trip reports, gear reviews and the outdoor insight that you need to enjoy everything that New England has to offer. <a href="https://www.facebook.com/NewEnglandOutside/"><i class="fa fa-facebook"></i></a>  <a href="https://twitter.com/newenglnoutside"><i class="fa fa-twitter"></i></a>  <a href="https://www.instagram.com/newenglandoutside/"><i class="fa fa-instagram"></i></a>
 
-### <a href="http://pureadk.com/">pureadk.com</a>
-It is because of our desire for adventure and our passion for the area that we are driven to create a way to share our love of the Adirondack Park and all that it has to offer with others.  Out of our adventures and motivation to become ambassadors of the Park, Pure Adirondacks, or PureADK.com, was born.  By documenting our discoveries through photos, videos, and personalized posts, we hope that PureADK will not only act as an educational and informational resource, but also as an entertaining way to get a unique view on all that the Adirondack Park has to offer. <a href="https://www.facebook.com/pureadirondacks"><i class="fa fa-facebook"></i></a>
- <a href="http://twitter.com/PureADK"><i class="fa fa-twitter"></i></a>  <a href="http://instagram.com/PureAdirondacks"><i class="fa fa-instagram"></i></a>  <a href="https://www.youtube.com/user/PureADK"><i class="fa fa-youtube"></i></a>
-
 ### <a href="https://rivertoprambles.wordpress.com">rivertoprambles.wordpress.com</a>
 Adventures in Fly Fishing, Hiking, and Natural History
 
@@ -229,9 +207,6 @@ Trail to Summit documents Allison's adventures throughout New Hampshire's White 
 
 ### <a href="https://trailsnailmud.wordpress.com/">trailsnailmud.wordpress.com</a>
 A blog which shares and encourages safe, respectful, and awesomely fun adventures with dogs…canoeing,camping, skijoring, hiking, and more!
-
-### <a href="http://dustyhouseadventures.com">dustyhouseadventures.com</a>
-<a href="https://twitter.com/adventuredusty"><i class="fa fa-twitter"></i></a>  <a href="https://www.facebook.com/dustyhouseadventures"><i class="fa fa-facebook"></i></a>
 
 ---
 
