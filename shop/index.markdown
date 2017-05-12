@@ -8,8 +8,10 @@ navbar: Shop
 
 ---
 
-Here is a selection of our favorite camping and blogging gear. We keep this list update so make sure to check back regularly.
+Here is a selection of our favorite camping and blogging gear.
 
+
+---
 
 <h3>Camping Gear</h3>
 <div id="partners_table" class="row">
