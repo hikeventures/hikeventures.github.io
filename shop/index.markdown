@@ -29,20 +29,47 @@ Rode smartLav+ Lavalier Microphone</a></center>
 <center>    <a href="http://amzn.to/2mZ5fnO" rel="nofollow">
 Aston Origin Microphone</a></center>
   </div>
+
+
+
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-    <img src="werner-logo.png" alt="Werner Paddles" />
+  <center><a href="http://amzn.to/2nuj3mt" rel="nofollow">Rycote Lavalier Windjammer</a></center>  
   </div>
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-    <img src="lundhags-logo.png" alt="Lundhags" />
+<center>  <a href="http://amzn.to/2nr87Fx" rel="nofollow">
+Rycote Invision Video 1/4 Adaptor</a></center>
   </div>
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-    <img src="haglfs-logo-copy.png" alt="Haglofs" />
+  <center>  <a href="http://amzn.to/2mZ5IXu" rel="nofollow">
+Sennheiser MKE 600 Shotgun Microphone</a></center>
   </div>
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-    <img src="thermares-logo.png" alt="Thermares" />
+  <center>  <a href="http://amzn.to/2nrgBN4" rel="nofollow">
+Zoom H5 Audio Field Recorder</a></center>
   </div>
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-    <img src="alpacka-logo.png" alt="Alpacka" />
+<center>    <a href="http://amzn.to/2ouagSu" rel="nofollow">
+Manfrotto Lumimuse 8 LED Video Light</a></center>
+  </div>
+  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center>    <a href="http://amzn.to/2ouagSu" rel="nofollow">
+Manfrotto Lumimuse 8 LED Video Light</a></center>
+  </div>
+  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center>    <a href="http://amzn.to/2nLByWh" rel="nofollow">
+Manfrotto BeFree Tripod</a></center>
+  </div>
+  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+  <center>  <a href="http://amzn.to/2pU7nO6" rel="nofollow">
+Sony FE 70-200mm F4 G OSS</a></center>
+  </div>
+  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+  <center>  <a href="http://amzn.to/2pTIRwq" rel="nofollow">
+Zeiss Batis 25mm f2</a></center>
+  </div>
+  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center>    <a href="http://amzn.to/2pa9VIF" rel="nofollow">
+Sony A7</a></center>  
   </div>
 </div>
 
