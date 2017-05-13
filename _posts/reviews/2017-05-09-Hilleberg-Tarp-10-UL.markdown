@@ -20,7 +20,9 @@ Recently, I received my new Hilleberg Tarp 10 UL together with my <a href="http:
 
 Another combination would be to use the Tarp 10 UL together with the Unna and its' original outer tent to store additional gear in fron of the tent or just to sit in front of the tent and have with an additional sun or rain cover.
 
-I really like on the Tarp 10 UL that it is quite versatile to use. The green Tarp also allows me to hide my red Unna tent a little bit. Further, since I do packrafting it's also quite easy to pitch the Tarp by using the paddles (as you can see on the pictures). The only issue I had so far with the Tarp is that you need to attach it properly to the ground as the Tarp might fly away or collapse on a very windy location if you don't pitch it properly to the ground.
+I really like on the Tarp 10 UL that it is quite versatile to use. The green Tarp also allows me to hide my red Unna tent a little bit.
+
+Further, since I do packrafting it's also quite easy to pitch the Tarp by using the paddles (as you can see on the pictures). The only issue I had so far with the Tarp is that you need to attach it properly to the ground as the Tarp might fly away or collapse on a very windy location if you don't pitch it properly to the ground.
 
 I will add more thoughts to this blog post about the Hilleberg 10 UL Tarp once I have tested it.
 
