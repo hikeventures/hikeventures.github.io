@@ -22,7 +22,7 @@ published: true
 			<iframe src="https://www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fpatrickdormischian&width=139&height=21&layout=button_count&size=large&show_faces=true&appId=582626375123567" width="139" height="28" style="border:none;overflow:hidden;float:right;" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 			<h3>Patrick</h3>
 			<p><a href="https://www.facebook.com/profile.php?id=100009207710788">Patrick</a> was born 1978 in South Germany nearby the Alps where he was hiking and skiing extensively especially in Austria. Having parents from Iran and Austria travelling was always part of Patrick’s life. Patrick moved to Finland in 2006 and currently lives on an island in the Archipelago Sea on the South West Coast of Finland which is a great place for exploring some of the 6500 islands by packraft, kayak, bicycle or foot. Patrick has also lived several months in Australia where he was diving with sharks and explored the blue mountains. Moreover, he has also worked in the Swiss mountains for several months which was a perfect place for snowboarding and skiing adventures in powder snow. Having relatives in Canada, Patrick also visited Banff National Park, traveled to China, Thailand, Romania, the Arab Emirates and India.</p>
-			
+
 			<center><img src="konst-avatar.png" class="about_avatar" alt="Konstantin" /></center>
 			<iframe src="https://www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fkonstantin.gridnevskiy&width=132&height=21&layout=button_count&size=large&show_faces=true&appId=582626375123567" width="132" height="28" style="border:none;overflow:hidden;float:right;" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 			<h3>Konstantin</h3>
@@ -31,13 +31,13 @@ published: true
 				<h3>Followers on Social Media</h3>
 				<div id="social_followers_table" class="row">
 					<div class="col-sm-6 col-lg-6 col-md-6 col-xs-12">
-						<span><i class="fa fa-instagram" aria-hidden="true"></i></span> <a href="https://www.instagram.com/hikeventures/">Instagram</a>: 4300
+						<span><i class="fa fa-instagram" aria-hidden="true"></i></span> <a href="https://www.instagram.com/hikeventures/">Instagram</a>: 8400
 					</div>
 					<div class="col-sm-6 col-lg-6 col-md-6 col-xs-12">
-						<span><i class="fa fa-twitter" aria-hidden="true"></i></span> <a href="https://twitter.com/HikeVentures">Twitter</a>: 2600
+						<span><i class="fa fa-twitter" aria-hidden="true"></i></span> <a href="https://twitter.com/HikeVentures">Twitter</a>: 2700
 					</div>
 					<div class="col-sm-6 col-lg-6 col-md-6 col-xs-12">
-						<span><i class="fa fa-facebook" aria-hidden="true"></i></span> <a href="https://www.facebook.com/HikeVentures">Facebook</a>: 1600
+						<span><i class="fa fa-facebook" aria-hidden="true"></i></span> <a href="https://www.facebook.com/HikeVentures">Facebook</a>: 1900
 					</div>
 					<div class="col-sm-6 col-lg-6 col-md-6 col-xs-12">
 						<span><i class="fa fa-youtube" aria-hidden="true"></i></span> We are also on <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw">YouTube</a>.
@@ -106,13 +106,13 @@ published: true
 	    <div class="col-sm-1 col-lg-1 col-md-1 col-xs-12 page-content-divider"></div>
 	    <div class="col-sm-4 col-lg-4 col-md-4 col-xs-12 page-content-sidebar s1920">
 			<center>
-				<div class="fb-page" 
+				<div class="fb-page"
 				  data-href="https://www.facebook.com/hikeventures"
 				  data-hide-cover="false"
-				  data-show-facepile="true" 
+				  data-show-facepile="true"
 				  data-show-posts="false"></div>
 			</center>
-			
+
 	        <div class="sidebar-title">
 				<a href="/archive/"><span class="icon"></span>RECENT POSTS</a>
 			</div>
@@ -124,7 +124,7 @@ published: true
 	                </a>
 	            {% endfor %}
 	        </div>
-	
+
 
 	        <div class="sidebar-image">
 				<blockquote class="instagram-media" data-instgrm-version="7" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
