@@ -17,4 +17,4 @@ Last year we have been visiting Scotland and paddled a few days on the River Dee
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/SRuUvxdM5XA"></iframe>
 </div>
 
-   
+<!--more-->
