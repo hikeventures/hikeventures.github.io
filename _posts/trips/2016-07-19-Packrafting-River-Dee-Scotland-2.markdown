@@ -142,6 +142,13 @@ Well, this was our packrafting trip to the river Dee. It would have been interes
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25279261913/in/dateposted-public/" title="Packrafting the River Dee"><img src="https://farm2.staticflickr.com/1657/25279261913_246197a9c0_b.jpg" width="1024" height="768" alt="Packrafting the River Dee"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+### Video
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/SRuUvxdM5XA"></iframe>
+</div>
+
+
+
 Interested in more packrafting stories? Read about the [first Swedish Packrafting Round-Up](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/) which was our next packrafting trip.
 
 {% include store.html %}
