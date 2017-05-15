@@ -14,10 +14,9 @@ Since I am planning to go to Sarek this autumn, I was looking for a wind jacket 
 <a href="https://www.flickr.com/photos/90204224@N07/9185822642" title="Arcteryx Squamish Hoody"><img src="https://farm8.staticflickr.com/7362/9185822642_76ec520b9c_b.jpg" width="1024" height="683" alt="Arcteryx Squamish Hoody"></a>
 <!--more-->
 
-{% include banner_ad.html %}
-
 ## Features
-I really like the quality of materials on the Arcteryx Squamish Hoody, it's breathability and that's it doesn't take much space in the backpack. This windbreaker is also able to handle light rain due to it's DWR finish, comes with adjustable cuffs, hem drawcord and is helmet compabitble. This wind jacket also feels soft to the skin and weights only 145 grams. {% include disclaimer.html %}
+I really like the quality of materials on the Arcteryx Squamish Hoody, it's breathability and that's it doesn't take much space in the backpack. This windbreaker is also able to handle light rain due to it's DWR finish, comes with adjustable cuffs, hem drawcord and is helmet compabitble. This wind jacket also feels soft to the skin and weights only 145 grams.
+
 <img src="http://farm4.staticflickr.com/3792/9183607317_2ed62baacf_c.jpg" width="1000" alt="Arcteryx Squamish Hoody"></a>
 
 <img src="http://farm4.staticflickr.com/3674/9183607965_f5617987d4_c.jpg" width="1000" alt="Arcteryx Squamish Hoody"></a>
