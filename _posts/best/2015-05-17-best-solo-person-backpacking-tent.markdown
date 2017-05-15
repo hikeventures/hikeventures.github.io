@@ -20,6 +20,8 @@ Are you planning a trip to remote areas? Do you want to use your tent during the
 
 I would like to give an <a href="#list">overview</a> about the best solo backpacking tents which we have selected for 2017.
 
+My personal go-to tent is currently the <a href="http://amzn.to/2pDaiMo" rel="nofollow">Hilleberg Unna</a> in combination with the [Unna Inner Mesh tent](http://www.hikeventures.com/Hilleberg-Unna-Mesh/) and the [Tarp 10 UL](http://www.hikeventures.com/Hilleberg-Tarp-10-UL/). I would have picked initially the Hilleberg Soulo, however it is too small for me (I am 180 cm tall and also won't be able to sit in it). The advantage of the Unna compared to the Soulo is also the huge panorama entrance which can be used as a window.
+
 It's important to know that each tent is made for a specific purpose so there is no one tent fits all tent. Just as a side note - I have not included tarps in my selection.
 
 ---
@@ -236,8 +238,6 @@ The Hilleberg Nallo is probably the best choice if you want a 4-season tent whic
 ### [Hyperlite Mountain Gear UltaMid 2](https://www.hyperlitemountaingear.com/ultamid-2.html)
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26835366172/in/dateposted-public/" title="Hyperlite Mountain Gear Tent &amp; Ultamid Tarp"><img src="https://farm8.staticflickr.com/7432/26835366172_4b9630972f_b.jpg" width="1024" height="723" alt="Hyperlite Mountain Gear Tent HMG &amp; Ultamid Tarp - Best 1-person tent"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-The Hilleberg Akto is a 2-person and 4-season tent.
 
 **Length:** 271.8 cm
 **Width:** 210.8 cm
