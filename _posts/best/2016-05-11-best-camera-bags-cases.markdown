@@ -16,7 +16,9 @@ Different cases might be useful for different activities e.g. you might select a
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15887354338/in/photolist-Dm1oBg-fCepqs-qNgZ4t-r5xFe6-qN8SQf-q8FSU7-qcUQWo-pxHAdv-q4woeP-qiFCnJ-qbZr7n-nL2VPM-ndmm9J-ndmkvj-e8Kbww-e8DwGK-e8DvHK-e8KazS-e8Kauu-e4Vy76-dUwrFM-eixSkQ-eis8o4-eis8on-eixSu3-e52cWU-eis7Vz-e99rrQ-eixSnL-eis8AZ-eis8Bp-eis8m2-eis8xV-e52d4q-eis7PD-eixRzs-eixRAy-eis8fr-eixS79-eixS3o-e99qs9-eixRQU-eixRZE-eis8iH" title="Best outdoor camera bags for Sony A7II, a6000, a6300 or a6500"><img src="https://c3.staticflickr.com/8/7482/15887354338_aa4c28c1aa_k.jpg" width="2048" height="2048" alt="TBest outdoor camera bags for Sony A7II, a6000, a6300 or a6500"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716060755/in/photolist-JP8CEz-JNYoHW-KKxjpM-pbERVy" title="Best outdoor camera bags for Sony A7II, a6000, a6300 or a6500"><img src="https://c4.staticflickr.com/9/8606/28716060755_0596cd42cf_k.jpg" width="2048" height="1365" alt="Best outdoor camera bags for Sony A7II, a6000, a6300 or a6500"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+With the <a href="http://amzn.to/29YPNOV" rel="nofollow">Lowepro Nova Sport 7L</a> in [Northern Norway](http://www.hikeventures.com/Finnmark/).
 
 ---
 
@@ -61,10 +63,6 @@ I was looking for a camera bag or case which packs small and actually came to th
         <tr>
           <td><a href="http://amzn.to/2l3wtFb" target="_blank" rel="nofollow">Ortlieb Soft Shot Waterproof Camera Bag</a></td><td>781g</td>
         </tr>
-
-
-
-
         <tr>
           <td><a href="http://amzn.to/2e8soyG" target="_blank" rel="nofollow">Thule Covert Camera Messenger Bag - Small</a></td><td>880g</td>
         </tr>
@@ -216,12 +214,6 @@ The ONA Bowery Camera Bag has been handcrafted with premium waxed canvas and ful
 The Thule Covert Camera Messenger Bag comes with a removable camera pod system and an iPad pocket. There is room for a compact DSLR and 2 lenses or a flash.
 
 <a href="https://www.amazon.com/gp/product/B00QWRMWKQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QWRMWKQ&linkCode=as2&tag=hikeve-20&linkId=5ee40d217ef34eff10943d4153566e80" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
-
-<hr>
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716060755/in/photolist-JP8CEz-JNYoHW-KKxjpM-pbERVy" title="Hiking and Packrafting in Norway"><img src="https://c4.staticflickr.com/9/8606/28716060755_0596cd42cf_k.jpg" width="2048" height="1365" alt="Lowepro Nova Sport 7L AW Best Camera Bag A7 Batis 25"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-With the <a href="http://amzn.to/29YPNOV" rel="nofollow">Lowepro Nova Sport 7L</a> in [Northern Norway](http://www.hikeventures.com/Finnmark/).
 
 <hr>
 
