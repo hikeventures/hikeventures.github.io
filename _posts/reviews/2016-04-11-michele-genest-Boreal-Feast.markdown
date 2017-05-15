@@ -17,11 +17,9 @@ I am living in Finland since 2006 and read a lot about the history and culture o
 
 <!--more-->
 
-{% include banner_ad.html %}
+The Boreal Feast starts with an introduction where the author examines the meaning of "feast", the geographical area of the boreal forest and the importance of this area.
 
-The Boreal Feast starts with an introuction where the author examines the meaning of "feast", the geographical area of the boreal forest and the importance of this area.
-
-The book continues describing dishes which can be prepared with ingrediants for each season. Each chapter represents one season and starts with an general introduction on what people do during each season in different nordic countries but also how the nature changes.
+The book continues describing dishes which can be prepared with ingredients for each season. Each chapter represents one season and starts with an general introduction on what people do during each season in different nordic countries but also how the nature changes.
 
 Each chapter is complemented by a 2-3 pages story. You will read about the author visiting Sami Chefs in Sweden, the Whitefish Season in Yukon, Midsummer, Swedish Fika, Fjällripa, Kräftskiva, a Northern Tea Party, the Riverboats in British Columbia or a 23-course meal at Fäviken Magasinet in Sweden.
 

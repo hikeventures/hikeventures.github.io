@@ -17,8 +17,6 @@ A map is one of the most important item which should be in your backpack on ever
 <a href="https://www.flickr.com/photos/90204224@N07/9327368022"><img src="https://c3.staticflickr.com/3/2833/9327368022_3b131753c2_b.jpg" width="1024" height="683" alt="Calazo Waterproof Map"></a>
 <!--more-->
 
-{% include banner_ad.html %}
-
 For our trip to Sarek we were looking for a proper map which is durable and water resistant. After doing some research online we were able to spot Calazo maps which are made of Tyvek. I also found them a tad cheaper than the regular paper maps.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9323535243"><img src="https://c4.staticflickr.com/8/7335/9323535243_cd1d8953bf_b.jpg" width="1024" height="683" alt="Calazo Waterproof Map"></a>

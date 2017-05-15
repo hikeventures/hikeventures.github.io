@@ -13,9 +13,8 @@ layout: post
 If you are looking for a new down jacket which you can use during your hiking, backpacking or any other backcountry adventure mainly during spring and autumn  or as a midlayer during winter then the Rab Microlight Alpine Jacket could be an option and here comes a short review. I was hiking with this jacket in -5 °C and felt comfortably warm just wearing a t-shirt under it. However, I started to feel cold at this temperature when I was not moving.
 
 <a href="https://www.flickr.com/photos/90204224@N07/8373596834" title="Rab Alpine Microlight Camping hiking backpacking down jacket"><img src="https://farm9.staticflickr.com/8475/8373596834_f7923d2831_b.jpg" width="1024" height="683" alt="Rab Alpine Microlight Ultralight Down Jacket Review"></a>
-<!--more-->
 
-{% include banner_ad.html %}
+<!--more-->
 
 Since the jacket is filled with down it takes much less space in your backpack than a synthetic jacket. Alternatively, you may also have a look at the <a href="http://hikeventures.com/gear-review-montbell-u-dot-l-down-parka" target="_self">Montbell UL Down Parka</a> which is a bit lighter than the Rab Microlight Alpine jacket and which is my current down jacket.
 

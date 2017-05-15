@@ -17,8 +17,6 @@ Last year we hiking and packrafting in Japan and Sweden and here is a review abo
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 ## EvoLite Specifications
 The EvoLite sleeping pad is part of Therm-a-rest’s Fast & Light product line. The EvoLite (regular) weights 520 grams, is 51 cm wide and 183 cm long and 5 cm thick. However, we tested the larger version (196 cm) or the EvoLite. The bottom of the EvoLite is made of 30d mini Rip Polyester. The innovation in this mattress is that it is self-inflating which means that you just have to blow into the valve a couple of times and the EvoLite is ready for the night.
 

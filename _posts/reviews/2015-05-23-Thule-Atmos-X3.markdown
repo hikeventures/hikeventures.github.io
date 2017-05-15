@@ -16,9 +16,6 @@ In the middle of January this year I got my new iPhone 6, put it in the Thule At
 
 > Update 17.12.2015: The Thule Atmos X5 has been released. The X5 is waterproof compared to the X3. Have a look <a href="http://amzn.to/1OxoOpe">here</a>.
 
-
-{% include banner_ad.html %}
-
 I am an iPhone person. I have not always been one, but due to lots of problems with my HTC, which died on me almost immediately after its warranty lapsed, and a lucky coincidence when a friend of mine gave me her old iPhone 3s for my birthday, I was introduced to the world of iPhones and the convenience of using them. With a myriad of easily-installable free apps, my iPhone allowed me to do things that I could not previously do. And taking and post-processing pictures was one of them.
 
 <a href="https://www.flickr.com/photos/90204224@N07/17803302079" title="Thule Atmos X3"><img src="https://c2.staticflickr.com/6/5446/17803302079_4ebb76f985_o.jpg" width="100%" alt="Thule Atmos X3"></a>

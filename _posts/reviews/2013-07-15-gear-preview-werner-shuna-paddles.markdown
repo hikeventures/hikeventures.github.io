@@ -15,8 +15,6 @@ Having purchased a <a hre="http://hikeventures.com/gear-review-unpacking-alpacka
 <img src="http://farm4.staticflickr.com/3709/9295040842_f7031d2f8e_c.jpg" alt="Werner Shuna Paddles">
 <!--more-->
 
-{% include banner_ad.html %}
-
 ## Wish list for my Packrafting Paddles
 There are a few features which I was looking for with my paddles. They should be lightweight, not too expensive, durable, portable to carry around with my backpack and of course also look nice.
 

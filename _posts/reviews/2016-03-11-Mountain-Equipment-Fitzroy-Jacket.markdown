@@ -12,9 +12,8 @@ layout: post
 Here comes a short review about the Mountain Equipment Fitzroy Jacket. On our trip to Scotland I took my light <a href="http://www.hikeventures.com/gear-review-montbell-u-dot-l-down-parka/">Montbell Down UL Down Jacket</a> with me. Initially, I thought that my down jacket would be sufficient but realised later on that it was probably a smart choice to purchase my new Mountain Equipment Fityroy Jacket. Having done some research on synthetic jackets before our Scotland trip I was already quite focused on the Mountain Equipment Fitzroy Jacket if I would find it for a good price as winter sales was still ongoing.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25401969810/in/dateposted-public/" title="Mountain Equipment Fitzroy Jacket Review"><img src="https://farm2.staticflickr.com/1441/25401969810_8a545bc7b2_b.jpg" width="100%" alt="Mountain Equipment Fitzroy Jacket Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<!--more-->
 
-{% include banner_ad.html %}
+<!--more-->
 
 Once we arrived in Edinburgh we had a stroll through the city where we passed by a couple of outdoor stores and I was lucky to find a really good deal on the Fitzroy jacket. After my purchase I felt much better going camping in a tent on subzero degrees even so I had my regular <a href="http://www.hikeventures.com/cumulus-panyam-450/">Cumulus Panyam 450</a> sleeping bag and my <a href="http://www.hikeventures.com/gear-review-katabatic-gear-chisos/">Katabatic Chisos Quilt</a> as an additional sleeping bag layer with me.
 

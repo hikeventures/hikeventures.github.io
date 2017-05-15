@@ -9,9 +9,9 @@ layout: post
 ---
 Have you ever been on a hike and one of the buckles on your backpack broke or got damaged? When this happens your equipment might become uncomfortable to use, loose some of its functionality or it becomes completely useless as long as the buckle has not been replaced. You might even have to throw out your backpack just because of a broken buckle although the backpack is still in top shape. In this situation you probably wished to have a replacement buckle handy that is easy to install.<br><br>
 
-<a href="https://www.flickr.com/photos/90204224@N07/18176290346" title="Broken buckle"><img src="https://c4.staticflickr.com/8/7748/18176290346_0e1fc175fb_b.jpg" width="1024" height="576" alt="Broken buckle"></a><!--more-->
+<a href="https://www.flickr.com/photos/90204224@N07/18176290346" title="Broken buckle"><img src="https://c4.staticflickr.com/8/7748/18176290346_0e1fc175fb_b.jpg" width="1024" height="576" alt="Broken buckle"></a>
 
-{% include banner_ad.html %}
+<!--more-->
 
 Here’s where the K-Clip can help. The K-Clip is a field-replaceable buckle which can be easily installed. Apparently you don’t even need tools for the assembly, provided that the old buckle has been completely removed.
 

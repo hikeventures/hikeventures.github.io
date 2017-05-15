@@ -15,11 +15,9 @@ Having tried some of the ready made food packages to take on my hikes, I got int
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 The book starts with tools needed to dehydrate and pack food at home and on how to prepare it on the field.
 
-The receipes presented in this book range from breakfast meals, breads, drinks, crackers, toasts, spreads, jerky, dried fruit, bars, cookies, soups, stews and pasta.
+The recipes presented in this book range from breakfast meals, breads, drinks, crackers, toasts, spreads, jerky, dried fruit, bars, cookies, soups, stews and pasta.
 
 At the end of the book is also a list of suggested reading from the author.
 

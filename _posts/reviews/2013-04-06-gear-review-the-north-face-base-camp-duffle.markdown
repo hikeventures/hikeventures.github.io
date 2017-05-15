@@ -13,9 +13,8 @@ layout: post
 Having used my old 10 EUR bag which I have used the last 2 years, I decided to upgrade the bag I am using for traveling and transporting my outdoor gear. After reviewing several options, I went for the North Face Base Camp Duffle L, which was on sale during Easter and here comes a short review.
 
 <a href="https://www.flickr.com/photos/90204224@N07/8619172577" title="North Face BASE CAMP DUFFEL L"><img src="https://farm9.staticflickr.com/8107/8619172577_20b9cf4901_b.jpg" width="600" alt="North Face BASE CAMP DUFFEL L"></a>
-<!--more-->
 
-{% include banner_ad.html %}
+<!--more-->
 
 ##  Features
 The North Face Base Camp Duffle is quite durable and waterproof, comes with YKK Zippers, alpine-cut shoulder straps, twin haul handles on ends, compression straps, internal mesh pockets, ID pocket and locking zips. The fabric of the The North Face Base Camp Duffle is Phthalate-free TPE fabric laminate, 840D Jr. ballistics nylon. The bag has a weight of 1820 grams and its dimensions are 71x41x41cm or 90 litres of gear.

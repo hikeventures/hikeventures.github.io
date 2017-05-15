@@ -14,8 +14,6 @@ The Petzl Nao Plus is a new headlamp which is able to adapt its light according 
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 ## Features
 The Petzl Nao weights 187 grams, is rechargable via USB and brightness is adjustable. The Petzl Nao is water resistant (IP X4), comfortable to wear, programmable via the Petzl Nao Software and battery can last up to 8 hours.
 

@@ -15,8 +15,6 @@ We are at the Toyama train station – a gateway to the Japanese Northern Alps a
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 While preparing for the trip, Konstantin announced to me that he was not going to carry any of my stuff, so I shouldn’t take too much with me. At that point I realized two things – first, that I had lost my faithful carrier donkey and, second, I need to follow the advice from all those smart hiking books, which states that a smaller backpack = less luggage to carry.  And that was exactly why I decided to go for a 50-liter pack, instead of the usual 70-liter one.
 
 But the size was not the only consideration as I was also looking for the maximum functionality as well - it had to have lots of side and top pockets to organize and safely keep my valuables and other various small items, as well as handles and loops to attach things that had to be kept handy or could not fit into the pack.

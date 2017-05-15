@@ -13,9 +13,8 @@ layout: post
 Since I recently purchased a packraft, I realised quickly that my <a href="http://hikeventures.com/gear-review-laufbursche-huckepack-hp450/" target="_self">Laufbursche Huckepack</a>  is going to be a bit small for a multi-day packrafting trip. So I decided to order a Hyperlite Mountain Gear Porter 4400. I have used the Porter for a couple of years and I am quite happy with it as I can use it as an ultralight backpack for hiking, backpacking, packrafting and other backcountry trips. Here is a short review and some pictures of the Hyperlite Mountain Gear Porter 4400.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9185837748" title="HMG Porter 4400 "><img src="https://farm8.staticflickr.com/7392/9185837748_10b63a2e5d_b.jpg" width="600" height="661" alt="Hyperlite Mountain Gear HMG Porter 4400 black"></a>
-<!--more-->
 
-{% include banner_ad.html %}
+<!--more-->
 
 After a short discussion with the HMG owner, I was offered a backpack which is made of 150 denier nylon instead of the 50 denier nylon which comes with the regular backpack. Even so the pack is slightly heavier, it should be more durable than the lighter version. Below the pictures of HMG Porter 4400 black incl. the Porter Stuff Pocket.
 

@@ -13,9 +13,8 @@ layout: post
 A while ago I was contacted by a representative of  [MPOWERD][1], who asked me if I would be interested to review their new inflatable solar lantern, Luci Outdoor. I said yes and several weeks later a package from the USA was waiting for me at home. Inside this package was Luci. Below are my thoughts and experiences of using this lantern on my several trips (Lithuania, Latvia, Poland and here in the Netherlands) during the last three months.
 
 <a href="https://www.flickr.com/photos/90204224@N07/15636357331" title="Luci tent"><img src="https://farm6.staticflickr.com/5597/15636357331_9926cfd49a_b.jpg" width="1024" alt="Luci Outdoor Solar Lantern"></a>
-<!--more-->
 
-{% include banner_ad.html %}
+<!--more-->
 
 When deflated and folded, Luci Outdoor is around 2 cm think and 12.5 cm in diameter. If you want to know how big it is, picture a stack of 12 CDs or DVDs and Luci will be just slightly larger than that (12 cm vs. 12.5 cm). When inflated, however, the lantern becomes 11 cm high, the top and the bottom discs connected by transparent PVC wall.  The top with the inflation valve is both reflective and semi-translucent, which, while allowing some light from the 10 LED lights on the bottom of the lantern to pass through and illuminate the space above the lamp, reflects most of it through the sides.
 

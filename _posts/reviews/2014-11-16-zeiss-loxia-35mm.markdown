@@ -19,8 +19,6 @@ Today, I grabbed my camera in the afternoon trying to capture some sunset pictur
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 In general the Sony 35mm renders also nice pictures as you can see in this article. I like to play around with objects in the foreground and a blured background. However, with the Sony 35mm F2.8 Sonnar T* FE ZA lens the manual focusing is working ok but it's not perfect. Manual focusing on the Zeiss Loxia 35mm will be much smoother and the Loxia will give me some additional light and more creative possibilities than my current Sony 35mm 2.8.
 
 <a href="https://www.flickr.com/photos/90204224@N07/15183478053"><img src="https://farm9.staticflickr.com/8609/15183478053_5619ab8d40_h.jpg" width="1600" height="1068" alt="Zeiss Loxia 35mm 2.0 2.8"></a>

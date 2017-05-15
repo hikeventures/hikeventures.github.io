@@ -10,9 +10,9 @@ tags:
 layout: post
 ---
 Since I am interested in outdoor photography, I am currently looking for books which give me new ideas and inspirations on how I could take my pictures to the next level. This article is about the book "Outdoor Action and Adventure Photography" from Dan Bailey which is a very good book especially if you are new into outdoor photography. <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/17861380309" title="Outdoor Action and Adventure Photography"><img src="https://c1.staticflickr.com/9/8862/17861380309_f9749e3c57_o.jpg" width="100%" alt="Outdoor Action and Adventure Photography"></a><!--more-->
+<a href="https://www.flickr.com/photos/90204224@N07/17861380309" title="Outdoor Action and Adventure Photography"><img src="https://c1.staticflickr.com/9/8862/17861380309_f9749e3c57_o.jpg" width="100%" alt="Outdoor Action and Adventure Photography"></a>
 
-{% include banner_ad.html %}
+<!--more-->
 
 At the beginning the book discusses gear i.e. cameras, lenses, outdoor clothing etc. and continues with more technical issues regarding cameras e.g. shutter speed, apperture, ISO and metering patterns which might be nothing new for advanced photographers but quite interesting for beginners. Then the author discusses subjects like how to deal with tricky light situations, the importance of autofocus for action photography and what the differences are between phase detection, contrast detection and hybrid detection, prefocusing and focus tracking which was interesting to read as I was more focusing on still images in the past where I was focusing mainly manually.
 

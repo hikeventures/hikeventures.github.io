@@ -16,7 +16,6 @@ The Astral Designs YTV is my new PFD which is replacing my good old <a href="htt
 <a href="https://www.flickr.com/photos/90204224@N07/14547568237" title="Astral YTV"><img src="https://farm4.staticflickr.com/3899/14547568237_44d9c29d97_b.jpg" width="1024" height="683" alt="Astral YTV Review"></a>
 
 <!--more-->
-{% include banner_ad.html %}
 
 
 In the attached booklet the Astral YTF is classified as a Type V PDF which is should give you a stable face-up position in calm water for a conscious wearer and is approved for use only as a substitute for a type III PFD by the U.S. Coast Guard carriage requirements. The attached booklet gives also some tips on how to survive in cold water.

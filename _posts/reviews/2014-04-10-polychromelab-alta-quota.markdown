@@ -10,12 +10,10 @@ tags:
 layout: post
 ---
 
-PolychromeLab has recently sent me one of their Alta Quota jackets in order to review it. My first impression is quite positive even so I need to test the Alta Quota more over a longer period and in more sunny conditions. One of the main feature of this jacket is that once you turn it inside out it either cools (silver fabric outside) or warms (black fabric outside) you. 
+PolychromeLab has recently sent me one of their Alta Quota jackets in order to review it. My first impression is quite positive even so I need to test the Alta Quota more over a longer period and in more sunny conditions. One of the main feature of this jacket is that once you turn it inside out it either cools (silver fabric outside) or warms (black fabric outside) you.
 <a href="https://www.flickr.com/photos/90204224@N07/13975139011/"><img src="https://farm3.staticflickr.com/2897/13975139011_e928d56e15_b.jpg" width="600"></a>
 
 <!--more-->
-
-{% include banner_ad.html %}
 
 This week I had a chance to test the polychromeLAB Alta Quota jacket on our packrafting trip in the Netherlands. We experienced rain, sun and hail. Very positive was that the jacket is very stretchy and feels comfortable which is quite useful if you have to move a lot e.g. climbing or skiing but it also works quite well if you have to wear a heavy backpack as I did.
 <a href="https://www.flickr.com/photos/90204224@N07/13755733653/" title="polychromeLAB Alta Quota-7"><img src="https://farm8.staticflickr.com/7147/13755733653_864b628854_b.jpg" width="1024" height="683" alt="polychromeLAB Alta Quota-7"></a>

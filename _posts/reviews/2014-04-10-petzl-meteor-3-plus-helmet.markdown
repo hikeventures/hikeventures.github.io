@@ -17,8 +17,6 @@ For our packrafting trips we were looking for a suitable helmet and came across 
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 ## Features
 The Petzl Meteor 3+ Helmet is certified for climbing and watersports and weights 235 grams. There are clips to attach a headlamp and the headband is adjustable. There are ventilation holes on the helmet and an adjustable chinstrap with magnetic buckle. The helmet also comes with a storage bag. Certification(s): CE EN 12492, UIAA (escalade).
 

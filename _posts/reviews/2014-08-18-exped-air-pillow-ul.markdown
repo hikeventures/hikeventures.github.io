@@ -16,8 +16,6 @@ When you plan you next hiking, backpacking, packrafting or other outdoor trip it
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 The Exped Air Pillow UL M weights comes with the size 38 × 27 × 11 cm. If weight is an issue then you could also use your fleece or other clothes as a pillow, however with around 57 grams you will not substantially increase the weight of your backpack in order to increase your sleeping comfort.
 
 <a href="https://www.flickr.com/photos/90204224@N07/14761636837" title="Exped Synmat UL 7"><img src="https://farm6.staticflickr.com/5568/14761636837_0ebf3870b8_b.jpg" width="1024" height="683" alt="Exped Synmat UL 7"></a>

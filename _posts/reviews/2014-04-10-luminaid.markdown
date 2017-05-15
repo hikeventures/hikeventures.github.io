@@ -16,8 +16,6 @@ luminAID is a solar-powered inflatable light which can be used to light up your 
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 ## Features
 The LuminAid weights 85 grams and can offer light for 16 hours after a charging it for 7 hours. There is a low and a high light setting. The LuminAid is also inflatable, water-resistand and can float.
 

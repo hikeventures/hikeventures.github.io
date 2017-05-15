@@ -17,9 +17,6 @@ We are wearing since 1 year the Lundhags Jaure Light High on our trips which we 
 
 <!--more-->
 
-
-{% include banner_ad.html %}
-
 ## New Features
 The Lundhags Jaure Light Mid II and High II will have the following improved features:
 

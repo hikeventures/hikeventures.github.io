@@ -16,7 +16,6 @@ Being active outdoors and recording your special moments has never been easier. 
 <a href="https://www.flickr.com/photos/90204224@N07/18907331248" title="Thule Perspektiv Action Camera Case"><img src="https://c4.staticflickr.com/4/3694/18907331248_d941470a7e_b.jpg" width="1024" height="768" alt="Thule Perspektiv Action Camera Case"></a>
 
 <!--more-->
-{% include banner_ad.html %}
 
 Having a GoPro camera is great. With all the multitude of various mounts and cases, you have seemingly endless possibilities to mix and match these ingredients to achieve a perfect combination that suits your current filming conditions best.
 But having all those choices comes with some downsides as well, one of them being a constant challenge to keep all those parts together and not endlessly search for them in the deepest recesses of your pack.

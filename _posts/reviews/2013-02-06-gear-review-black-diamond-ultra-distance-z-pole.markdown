@@ -11,9 +11,8 @@ layout: post
 If you are looking for really light hiking poles then you should give the Black Diamond Ultra Distance Z-Poles a try. They are super portable and light for the summer. Unfortuantely, they are not that suitable for winter activities as you can not attach snow baskets on them.
 
 <a href="https://www.flickr.com/photos/90204224@N07/8449891659"><img src="https://farm9.staticflickr.com/8505/8449891659_dbe8b1b352_b.jpg" width="1024" height="685" alt="Black Diamond Ultra Distance Z-Pole ultralight trekking and walking poles"></a>
-<!--more-->
 
-{% include banner_ad.html %}
+<!--more-->
 
 ## Features
 The Black Diamond Ultra Distance Z-Pole weights 290 grams, is foldable, breathable and moisture wicking.

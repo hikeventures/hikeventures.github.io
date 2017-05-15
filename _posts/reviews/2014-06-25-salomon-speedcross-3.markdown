@@ -17,7 +17,6 @@ The Salomon Speedcross 3 are my new lightweight hiking shoes for the warmer mont
 <a href="https://www.flickr.com/photos/90204224@N07/14506057802" title="Salomon Speedcross 3"><img src="https://farm4.staticflickr.com/3856/14506057802_91240ffe46_b.jpg" width="600" alt="Salomon Speedcross 3"></a>
 
 <!--more-->
-{% include banner_ad.html %}
 
 The Speedcross 3 are 310 grams light and will replace my <a href="http://hikeventures.com/gear-review-inov-8-roclite-295/" target="_self">Inov-8 Roclite 295</a> which did a good job in the past.
 

@@ -12,6 +12,7 @@ layout: post
 Since I am planning to go to Sarek this autumn, I was looking for a wind jacket which I could take along with me beside a rain jacket and which would also be suitable to wear in the the mountains i.e. light and breathable. After reviewing several jackets, I went with the Arcteryx Squamish Hoody which I have used now extensively on all my hiking, backpacking and other backcountry trips and here comes a short review.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9185822642" title="Arcteryx Squamish Hoody"><img src="https://farm8.staticflickr.com/7362/9185822642_76ec520b9c_b.jpg" width="1024" height="683" alt="Arcteryx Squamish Hoody"></a>
+
 <!--more-->
 
 ## Features

@@ -18,9 +18,6 @@ Today I had a chance to test the Zeiss Batis 25 mm f/2 in Finland and here are s
 
 <!--more-->
 
-{% include banner_ad.html %}
-
-
 ## Sharpness
 This lens is super sharp.
 

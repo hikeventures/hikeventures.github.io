@@ -13,11 +13,10 @@ layout: post
 Looking for an ultralight quilt for the summer for your next hiking, backpacking, camping or any other backcountry adventure? Have a look at the Katabatic Gear Chisos. This quilt can be used for degrees around 40 F / +5 C and higher or you can layer up inside and use it for lower temperatures. Personally, I felt a bit cold when I used this quilt in August here in Finland when we had around +6 C in the night even so I was wearing jogging pants and a long sleeved merino shirt. I would just use this quilt for June and July here in Finland but it depends if you are a warm or a cold sleeper. In general, this is a high quality quilt.
 
 <a href="https://www.flickr.com/photos/90204224@N07/8731235226" title="Katabatic Gear Chisos"><img src="https://farm8.staticflickr.com/7431/8731235226_efa6408459_b.jpg" width="1024" height="683" alt="Katabatic Gear Chisos unboxing" ></a>
+
 <!--more-->
 
 <a href="https://www.flickr.com/photos/90204224@N07/8731235068" ><img src="https://farm8.staticflickr.com/7432/8731235068_5355313c08_b.jpg" width="1024" height="683" alt="Katabatic Gear Chisos field test"></a>
-
-{% include banner_ad.html %}
 
 ## Features
 The Katabatic Gear Chisos Quilt comew with 900 cuin down, a water repellent pertex quantum shell, YKK zippers and weights around 14.6 oz. It's a high quality quilt which can be used during the summer months or as an additional layer during colder months. I also liked the customer service offered by Katabatic.

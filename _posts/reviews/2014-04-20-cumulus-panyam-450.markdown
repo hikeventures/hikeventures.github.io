@@ -14,7 +14,6 @@ Looking for a warm high quality down sleeping bag for 4-season hiking, backpackg
 <a href="https://www.flickr.com/photos/90204224@N07/13946402053/" ><img src="https://farm8.staticflickr.com/7087/13946402053_4126fe266f_b.jpg" width="1024" height="683" alt="Cumulus Panyam 450"></a>
 
 <!--more-->
-{% include banner_ad.html %}
 
 ## Features
 The Cumulus Panyam sleeping bag comes with 10 years warranty, weights 835 grams and is made for temperatures down to -6 °C. It is filled with 450 grams down with a down quality of 850 cuin. There is a right and a left side zip option available. The pertex quantum shell also protects the down somewhat of moisture. The Cumulus Panyam has an elastiv hood and collar with velcro fastening, YKK zippers, a trapezoid chamber construction and can be combined with other sleeping bags. Further, it has an internal pocket and comes with a storage mesh and a stuff sack.

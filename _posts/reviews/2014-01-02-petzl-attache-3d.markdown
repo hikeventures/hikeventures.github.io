@@ -16,8 +16,6 @@ The Petzl Attache 3D is a new version of the Petzl Attache carabiner which is 31
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 ## Features
 The Petzl Attache 3D is 55 grams light, has a barrel lock and a good design.
 

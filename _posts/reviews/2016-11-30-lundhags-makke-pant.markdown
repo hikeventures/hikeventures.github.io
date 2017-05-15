@@ -19,10 +19,6 @@ Last year we were in need to find new hiking pants for our trips so we was looki
 
 Did you know that the name Makke derives from a mountain in Jämtland in Sweden called Makkene? The name should probably reflect the environment where the Makke pant can be worn.
 
-<!--more-->
-
-{% include banner_ad.html %}
-
 ## Field Testing
 Konstantin was wearing the Makke pant this year on his trips in France, Finland, Poland, Japan, Russia and Sweden while Patrick was wearing the Makke Pant on the [Swedish Packrafting Gathering](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/), on smaller trips around Turku and on a trip in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/) and in [Northern Norway](http://www.hikeventures.com/Finnmark/).
 

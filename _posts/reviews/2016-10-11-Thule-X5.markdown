@@ -17,8 +17,6 @@ A few months ago we received the Thule Atmos X5 iPhone 6 case from Thule which w
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 ## Field Testing
 We have tested the Thule X5 on our packrafting trips in [Scotland](http://www.hikeventures.com/Packrafting-River-Dee-Scotland-1/), [Sweden](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/), [Norway](http://www.hikeventures.com/Finnmark/), [Finland](http://www.hikeventures.com/Kaldoaivi/), Japan, Russia and France this year. The trip reports will be available soon on our blog.
 

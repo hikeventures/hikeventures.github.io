@@ -9,8 +9,6 @@ tags: [reviews, jetboil, stove]
 
 For those folks looking for a new stove for their next hiking, climbing, kayaking, packrafting or any other outdoor adventure should have a look at <a href="http://nashvilleryan.wordpress.com/2014/10/21/gear-review-jetboil-flash-cooking-system/" target="_blank">Nashvilleryan</a>  who has reviewed the Jetboil Flash personal cooking system and also provided an image of his Jetboil Flash below.
 
-{% include banner_ad.html %}
-
 <a href="https://www.flickr.com/photos/90204224@N07/15422981859"><img src="https://farm6.staticflickr.com/5607/15422981859_bb0f3187b7_b.jpg" width="768" height="1024"></a><!--more-->
 
 I have previously also reviewed the <a href="http://hikeventures.com/gear-review-jetboil-sol-ti/" target="_blank">Jetboil Sol Ti</a>  and it's always interesting to read what others think about a similar stove from the same manufacturer. The main difference between the Jetboil Sol Ti and the Jetboil Flash are:

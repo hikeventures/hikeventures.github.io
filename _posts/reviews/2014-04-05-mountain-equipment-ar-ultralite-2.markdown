@@ -15,8 +15,6 @@ The Mountain Equipment AR Ultralite 2 is an inexpensive tent which seems to be s
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 The Mountain Equipment AR Ultralite 2 is an inexpensive tent which seems to be suitable for trips in moderate conditions. Here is a preview of the Mountain Equipment AR Ultralite.
 
 ## Features

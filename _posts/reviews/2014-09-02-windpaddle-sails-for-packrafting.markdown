@@ -12,9 +12,9 @@ layout: post
 
 With my packraft I used to paddle a lot in rivers and lakes. I was paddling sometimes for hours and at some point I was thinking that it would be really cool to have a sail or some sort of engine on your packraft. Here comes a short review about the WindPaddle Sail.
 
-<a href="https://www.flickr.com/photos/90204224@N07/14933402357" title="WindPaddle Sail"><img src="https://farm4.staticflickr.com/3905/14933402357_c12660d4e6_b.jpg" width="1024" height="683" alt="WindPaddle Sail  review"></a><!--more-->
+<a href="https://www.flickr.com/photos/90204224@N07/14933402357" title="WindPaddle Sail"><img src="https://farm4.staticflickr.com/3905/14933402357_c12660d4e6_b.jpg" width="1024" height="683" alt="WindPaddle Sail  review"></a>
 
-{% include banner_ad.html %}
+<!--more-->
 
 Recently, I was surfing on <a href="http://valppaus.com/post/packsail-away" target="_blank">Joni's blog</a> reading about his adventures with a windpaddle sail. So I contacted <a href="http://www.packrafting-store.de">Packrafting-Store</a> and was told that they are going to sell soon WindPaddle Sails for Packrafts (small and big models) as the original sails are made for kayaks and canoes (bigger size).
 

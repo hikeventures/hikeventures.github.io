@@ -12,9 +12,8 @@ layout: post
 Here is a short review about the Exped SynMat UL 7 which is our current sleeping pad since over 1 year and me and Konstantin would like to share our experience in this review with the Exped SynMat UL 7 which has been one of the best 3-season sleeping pads for our hiking, camping, backpacking, packrafting and other outdoor trips.
 
 <a href="https://www.flickr.com/photos/90204224@N07/14948191975" title="Exped Synmat UL 7"><img src="https://farm4.staticflickr.com/3845/14948191975_987d92e79c_b.jpg" width="600" alt="Exped Synmat UL 7"></a><br>
-<!--more-->
 
-{% include banner_ad.html %}
+<!--more-->
 
 The SynMat UL 7 M weights around 450 grams, is 183 cm long and has an R-Value of 3.10 (Temperatures down to -4 °C). This means that this sleeping pad is suited for spring, summer and autumn (depending on your location). When I tested this pad I felt a bit cold on my back when the temperatures droped to 0C so I am going to use the Exped UL 7 M only for temperatures of +5 °C and more in the future.
 

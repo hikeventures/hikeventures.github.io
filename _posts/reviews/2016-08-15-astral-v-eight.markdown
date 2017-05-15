@@ -16,8 +16,6 @@ A few months ago I bought an Astral Design V-Eight as my new go-to PFD for packr
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 ## Specifications
 The Astral Designs V-Eight was developed for recreations paddling. This is not a white water PFD. The weight of the PFD is 554 grams. The V-Eight has a lot of mesh and breathes very well. There is also a YKK Zipper in the front, a webbing to keep the jacket closed (in case the zipper opens), and 2 side pockets to store snacks and small gear. There is also a spot to attach for example the [NRS Pilot Knife](http://www.campsaver.com/pilot-knife) on it.
 
