@@ -60,32 +60,11 @@ DeLorme is since 2016 part of Garmin and the unit has been replaced with the Gar
 
 Me hiking in the Sarek National Park in Sweden - also considered as one of the last wilderness areas in Europe
 
-
-
 ---
 
 With a Satellite Messenger you can also inform your family and friends about your current location and that everything is fine with you so they don't have to worry.
 
 Here an example: I have been once to the [Sarek National park](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) in Sweden where I didn't have phone reception and on this trip I decided that we will definitely take a satellite messenger with me if I would ever go there again in the future. It can take up to 2-3 days to get out of the National Park and in case of an emergency it might be quite hard to find help as you may only see 2 other hikers a day if at all.
-
-<hr>
-
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "bottom";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Amazon Search Results";
-amzn_assoc_default_search_phrase = "satellite messenger";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
 
