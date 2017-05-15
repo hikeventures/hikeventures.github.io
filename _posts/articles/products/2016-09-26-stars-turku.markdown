@@ -26,23 +26,6 @@ Yesterday, [Caj](http://caide.kuvat.fi), Katja and me went to Ruissalo in Turku 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29821146122/in/dateposted-public/" title="Ruissalo Turku"><img src="https://c3.staticflickr.com/9/8044/29821146122_877e29f02b_k.jpg" width="1152" height="2048" alt="Astrophotography Zeiss Batis 25mm Sony A7"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Search Results from Amazon";
-amzn_assoc_default_search_phrase = "Zeiss Batis";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "9ad5434ce32352e5a69d4601fda6b731";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
-
 ---
 
 {% include disclaimer.html %}

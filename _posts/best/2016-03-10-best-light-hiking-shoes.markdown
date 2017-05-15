@@ -147,24 +147,6 @@ Choosing the right ultralight hiking shoes is not just a matter of specs and fea
 
 ---
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Amazon Search Results";
-amzn_assoc_default_search_phrase = "Inov-8 Roclite";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "0d18f88262f19f39fc7a13f07ae2563b";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
----
-
 {% include disclaimer.html %}
 
 ---

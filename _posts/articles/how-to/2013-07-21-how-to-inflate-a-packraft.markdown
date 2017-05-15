@@ -3,7 +3,7 @@ title: Learning how to Packraft
 description: Learning Packrafting is not difficult - as long as you don't go for whitewater
 date: 2013-05-06 07:30:00
 category: articles
-tags: 
+tags:
   - articles
   - packrafting
 layout: post
@@ -25,9 +25,15 @@ View from the cockpit. In the front there is enough space for a backpack. Still 
 <a href="https://www.flickr.com/photos/90204224@N07/8713281883"><img src="https://farm9.staticflickr.com/8130/8713281883dcc0a57ac0b.jpg" width="1024" height="568" alt="Packrafting Finland alpacka raft learning"></a>
 
 ## Packraft and Backpacks
-I also do like Packrafting because you can easily pack your Packraft into a backpack. It folds small and is not heavy. 
+I also do like Packrafting because you can easily pack your Packraft into a backpack. It folds small and is not heavy.
 
 ## Gear for Packrafting
-Learning packrafting is not that difficult - however if you are planning to go packrafting in whitewater, you should maybe take some courses and also have proper gear like a <a href="http://hikeventures.com/petzl-meteor-3-plus-helmet/" target="_self">helmet</a> and a <a href="http://hikeventures.com/astral-ytv/" target="_self">PFD</a> as whitewater packrafting in a strong river can be quite dangerous. 
+Learning packrafting is not that difficult - however if you are planning to go packrafting in whitewater, you should maybe take some courses and also have proper gear like a <a href="http://hikeventures.com/petzl-meteor-3-plus-helmet/" target="_self">helmet</a> and a <a href="http://hikeventures.com/astral-ytv/" target="_self">PFD</a> as whitewater packrafting in a strong river can be quite dangerous.
 
 Moreover, it's a good idea to packraft in groups and not alone. Make sure you read about the river and any dangerous spots you might encounter. It's better to walk around some obstacles rather than risking your life. Also a drysuite might be a good idea if the water you are paddling is very cold.
+
+---
+
+{% include disclaimer.html %}
+
+---

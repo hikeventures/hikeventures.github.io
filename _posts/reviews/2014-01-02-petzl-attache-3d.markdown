@@ -34,26 +34,8 @@ Attaching <a href="http://amzn.to/X0WwPY" target="_self">hiking boots</a> on the
 ## Recommendation
 I have not tried the carabiner for climbing so I am not able to say anything about it's climbing properties. It's a little bit expensive compared to other carabiners but I like the weight, look and that the gate barrel can be locked.
 
-{% include disclaimer.html %}
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Search Results for Petzl Attache";
-amzn_assoc_default_search_phrase = "petzl attache";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
 ---
 
- {% include disclaimer.html %}
+{% include disclaimer.html %}
 
- ---
+---

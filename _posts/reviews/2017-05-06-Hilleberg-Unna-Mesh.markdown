@@ -38,20 +38,8 @@ The Hilleberg <a href="http://amzn.to/2pRlpxL" rel="nofollow">Unna Inner Mesh</a
 
 <a href="http://amzn.to/2pRlpxL" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "";
-amzn_assoc_default_search_phrase = "Hilleberg Unna";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "36a365e75c8f933e4a5d925632830dc0";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+---
 
 {% include disclaimer.html %}
+
+---

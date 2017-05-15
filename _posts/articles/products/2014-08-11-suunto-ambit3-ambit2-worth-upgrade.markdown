@@ -44,25 +44,6 @@ It's possible to create videos with the [Movescount App][4] which uses your trac
 
 ---
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Amazon Search Results";
-amzn_assoc_default_search_phrase = "Garmin Fenix 5X";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "edb1d00e614ad3a35eb0a5421405645c";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
-
----
-
 # Heart Rate Monitor
 The heart rate monitor of the Suunto Ambit3 is notably smaller than the one which came with the Suunto Ambit2. On my first run with the heart rate monitor I hardly noticed that I am wearing it compared to the old HR monitor. What's more, you can also use the HR Monitor without the watch and synchronise your heart rate data later on.
 
@@ -157,6 +138,8 @@ The Suunto watches also work great together with an e.g. iPhone which can be use
 ---
 
 {% include disclaimer.html %}
+
+---
 
 
 

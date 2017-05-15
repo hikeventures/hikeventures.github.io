@@ -28,6 +28,6 @@ If you are interested in this book you can buy it from <a href="http://amzn.to/1
 
 ---
 
- {% include disclaimer.html %}
+{% include disclaimer.html %}
 
- ---
+---

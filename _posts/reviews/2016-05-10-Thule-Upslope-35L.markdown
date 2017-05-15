@@ -53,18 +53,8 @@ Weight (lb)	3.04 lb
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Thule-Upslope-35L-Snowsports-Backpack_10290872_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Thule Upslope 35L</button></a>
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "true";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Thule Backpacks";
-amzn_assoc_default_search_phrase = "thule backpack";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "fad3ef44eab5cdcffa305c971b09888c";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+---
+
+{% include disclaimer.html %}
+
+---

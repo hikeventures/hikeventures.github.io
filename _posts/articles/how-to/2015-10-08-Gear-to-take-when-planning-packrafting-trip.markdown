@@ -165,6 +165,10 @@ If you want to take pictures take a camera with you.
 Needed to keep yourself clean.
 
 ### Any additional optional gear
-Fishing rot, carving knife, etc 
+Fishing rot, carving knife, etc
 
-Anything missing which should be added to the list? Leave a comment below.
+---
+
+{% include disclaimer.html %}
+
+---

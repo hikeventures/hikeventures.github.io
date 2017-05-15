@@ -96,26 +96,6 @@ The MSR TrailShot is the latest development compared to the other water filters.
 
 ---
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "bottom";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Shop Related Products";
-amzn_assoc_default_search_phrase = "water filter outdoor";
-amzn_assoc_default_category = "All";
-amzn_assoc_debug = "false";
-amzn_assoc_ead = "0";
-amzn_assoc_linkid = "a710a4f56246decd3a9fbf68ff4ab9ad";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
----
-
 {% include disclaimer.html %}
 
 ---

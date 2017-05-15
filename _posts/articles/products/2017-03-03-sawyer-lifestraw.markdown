@@ -66,7 +66,7 @@ Probably, if I would like to have a backup solution with me or if I am planning 
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00FA2RLX2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FA2RLX2&linkCode=as2&tag=hikeve-20&linkId=4a93b2f515988b50dcb8f0cfd64b0406"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00FA2RLX2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00FA2RLX2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-The Sawyer Mini is currently the water filter which goes into my backpack. It's small, light and able of cleaning a huge amount of water. 
+The Sawyer Mini is currently the water filter which goes into my backpack. It's small, light and able of cleaning a huge amount of water.
 
 Even so the filter needs a little bit of assembling work before you can use it I found it a much better and versatile solution than the LifeStraw.
 
@@ -95,17 +95,6 @@ Chosing a water filter system is of course a personal choice. In my case I like 
 
 ---
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Shop Related Products";
-amzn_assoc_default_search_phrase = "msr trailshot";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "d9f5cf2a41718e1d099e26edea215486";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+{% include disclaimer.html %}
+
+---

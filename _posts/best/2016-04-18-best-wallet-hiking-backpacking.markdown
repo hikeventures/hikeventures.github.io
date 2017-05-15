@@ -47,24 +47,6 @@ If functionality is the main criteria for choosing your wallet for your next hik
 
 ---
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Fjällräven Wallet Suggestions";
-amzn_assoc_default_search_phrase = "fjällräven wallet";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "c79b816115a0b8f7de5e5cd6559b2053";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
----
-
 {% include disclaimer.html %}
 
 ---

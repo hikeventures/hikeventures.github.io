@@ -42,24 +42,8 @@ We will continue testing the Sea to Summit Ultra Flex Booties this year to see h
 
 <a href="http://amzn.to/2dEr5ss" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Amazon Search results";
-amzn_assoc_default_search_phrase = "sea to summit booties";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "0b60dd3a4d9005ae2f2639b410692f9a";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
 ---
 
- {% include disclaimer.html %}
+{% include disclaimer.html %}
 
- ---
+---

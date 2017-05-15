@@ -226,24 +226,6 @@ With the <a href="http://amzn.to/29YPNOV" rel="nofollow">Lowepro Nova Sport 7L</
 
 <hr>
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Amazon Search Results";
-amzn_assoc_default_search_phrase = "sony a6500";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
-<hr>
-
 ## Conclusion
 From my point of view there is no best camera bag which fits every situation but having the right camera gear for different activities is essential to protect your gear and also to enjoy photography with your Sony A7 or a6300 more. I hope you are able to find your camera bag for your next hiking, backpacking, kayaking or packrafting adventure.
 

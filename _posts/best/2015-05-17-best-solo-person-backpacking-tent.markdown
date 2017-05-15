@@ -312,24 +312,6 @@ Finally, if you are into sea kayaking a self-standing durable tent - like the Hi
 
 Here is also an [article](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/ "Packrafting in Sweden") about our packrafting trip in the Swedish mountains where we were camping in our MSR Hubba Hubba NX. After one year of usage we have a slight hole on the floor but otherwise we have no complaints about it as a 3-season tent.
 
-<hr>
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Search Results from Amazon";
-amzn_assoc_default_search_phrase = "MSR Tent";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "965296fb866182bb89b535202541adda";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
 ---
 
 {% include disclaimer.html %}

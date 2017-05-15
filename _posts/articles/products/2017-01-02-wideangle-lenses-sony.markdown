@@ -55,23 +55,6 @@ I was also eying with the Zeiss Batis 18mm for a while but then decided that a l
 The Sigma 14mm ART lens can actually offer much more than the Zeiss Batis 18mm in terms of aperture and focal length for my needs also considering the much lower price of the Sigma.
 
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Shop Related Products";
-amzn_assoc_default_search_phrase = "manfrotto lumimuse";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "d9f5cf2a41718e1d099e26edea215486";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
-
-
 ---
 
 {% include disclaimer.html %}

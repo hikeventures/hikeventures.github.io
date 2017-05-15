@@ -173,24 +173,6 @@ The Arcteryx ARRO 22 comes with WaterTight® zipper, a hydration pocket, a Kanga
 
 <a href="http://amzn.to/2hC1baB" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
 
-<br>
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Amazon Search Results";
-amzn_assoc_default_search_phrase = "day pack";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "94ae095fd527d4f97d365afbd4404fcf";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
 ---
 
 {% include disclaimer.html %}

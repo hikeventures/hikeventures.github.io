@@ -26,19 +26,8 @@ However, this time the pants are very special: “Made for girls by girls”. Th
 
 Hope you had a nice St. Valentine’s Day.
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Shop Related Products";
-amzn_assoc_default_search_phrase = "kari traa";
-amzn_assoc_default_category = "All";
-amzn_assoc_debug = "false";
-amzn_assoc_ead = "0";
-amzn_assoc_linkid = "b3a611a0d58e341edc75eebaef77ef1c";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+---
+
+{% include disclaimer.html %}
+
+---

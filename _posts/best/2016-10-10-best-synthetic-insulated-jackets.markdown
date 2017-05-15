@@ -209,22 +209,6 @@ So in this case, it resembles basically those boots with the protection that you
 
 Exactly. It kind of resembles this. So to make it really . So the whole front part of the shoe, it's waterproof. So you have a membrane in here. But the problem is, if you put a shoe with a full membrane, again, it gets too hot. So to add a bit more breathability, we added this Neoprene cage on the top part here. So this area's waterproof, so you have some protection for the rain, and you also have some breathability to it. So it really makes it the ideal tool for running in harsh winter conditions.
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Amazon Search Results";
-amzn_assoc_default_search_phrase = "arcteryx synthetic insulated jacket";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "94ae095fd527d4f97d365afbd4404fcf";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
 ---
 
 {% include disclaimer.html %}

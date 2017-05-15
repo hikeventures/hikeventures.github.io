@@ -18,26 +18,6 @@ The most important difference is probably that the Suunto Traverse has a vibrati
 
 I mainly go running and hiking so the regular Suunto Traverse is the best option for me and there is no need to pay for features which I don't use. Of course I could also get the new <a href="http://amzn.to/2edjBKs" rel="nofollow" target="_blank">Suunto Spartan</a> which features a color display and a touch screen. But are those two features worth the premium price over the Suunto Traverse or Ambit3 Vertical? It's up to you! (Update 26.01.2017: Garmin has released the <a rel="nofollow" href="http://amzn.to/2jse5Ht">Fenix 5X</a> which I would currently buy as my favorite outdoor watch since it also offers the possibility to upload topo maps)
 
----
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Amazon Search Results";
-amzn_assoc_default_search_phrase = "Suunto Spartan HR";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "edb1d00e614ad3a35eb0a5421405645c";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
----
-
 Personally, I don't need a touch screen and a color display but I would probably buy the Spartan if I would have sufficient money and no Suunto Traverse on my wrist yet. If you are on a budget then it's also a good idea to look at discounts (see below).
 
 The Suunto Traverse weights about 80 grams and it's water resistance is 100 m. The old Ambit3 (Peak) is only 50 m water resistant. Both - the old Suunto Ambit3 (Peak) and the Traverse have a barometer. The menu on the Suunto Traverse is also more simplified than on the old Suunto Ambit3 (Peak) which I personally prefer. The Traverse has also a flashlight function which could be quite useful (for example if you need to search something in your tent). Below you can see my Suunto Traverse next to my Finnish Roselli knife.
@@ -143,7 +123,5 @@ Need some more inspirations on how to use the Suunto Ambit or Suunto Traverse wa
 ---
 
 {% include disclaimer.html %}
-
----
 
 ---

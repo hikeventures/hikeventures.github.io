@@ -28,28 +28,8 @@ I am not that much into video yet but for the future the Loxia would have an adv
 <a href="https://www.flickr.com/photos/90204224@N07/15617533168"><img src="https://farm8.staticflickr.com/7470/15617533168_e55b7ed8c3_h.jpg" width="1600" height="1068" alt="Zeiss Loxia 35mm 2.0 2.8"></a>
 Also the rendering of the pictures should have a more Zeiss looking style which should give the pictures a more 3 dimensional look and feel. However, I need to test this first as the 35mm Loxia lens is not available yet. There is also the [Zeiss Loxia 50mm f/2 Planar T*](http://amzn.to/11bfg1A) lens available but since I am more into landscape photography the 35mm is my choice.
 
+---
+
 {% include disclaimer.html %}
 
 ---
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Zeiss Loxia Suggestions";
-amzn_assoc_default_search_phrase = "zeiss loxia 35mm";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "9a725873569a009ac5497b65cc30560e";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
----
-
- {% include disclaimer.html %}
-
- ---

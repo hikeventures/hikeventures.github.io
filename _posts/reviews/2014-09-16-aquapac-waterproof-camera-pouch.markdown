@@ -33,24 +33,8 @@ Manufacturing and materials seems to have high quality on the Aquapac Waterproof
 
 <a href="http://www.sunnysports.com/nspc/p-apcspcp/aquapac-storm-proof-camera-pouch/"><button type="button" class="btn btn-danger">Read more about the Aquapac Camera Pouch</button></a>
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Search Results for PFDs";
-amzn_assoc_default_search_phrase = "aquapac camera";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "cf25d0c30eb2b0393ddfeff776a87c25";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
 ---
 
- {% include disclaimer.html %}
+{% include disclaimer.html %}
 
- ---
+---

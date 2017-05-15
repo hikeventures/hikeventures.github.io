@@ -3,7 +3,7 @@ title: Sony A7r ISO 50 - RAW - Night
 description: Testing the Sony A7r ISO 50 at night
 date: 2013-11-25 22:41:27
 category: blogging
-tags: 
+tags:
   - blogging
   - sony
   - photography
@@ -32,3 +32,9 @@ This is one of my first shots with the Sony A7r full-frame on ISO50. The stars a
 <a href="http://www.flickr.com/photos/90204224@N07/11121273305"><img src="http://farm4.staticflickr.com/3788/11121273305_6c3bf2949c_c.jpg" width="1150" alt="Vaasa by Night"></a>
 
 <a href="http://www.flickr.com/photos/90204224@N07/11121312246"><img src="http://farm3.staticflickr.com/2869/11121312246_4678d1626b_c.jpg" width="1150" alt="Vaasa by Night"></a>
+
+---
+
+{% include disclaimer.html %}
+
+---

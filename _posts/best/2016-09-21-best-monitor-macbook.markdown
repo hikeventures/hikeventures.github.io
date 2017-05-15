@@ -101,24 +101,6 @@ The HP ENVY is a 4K display can power a PC or a mobile device. With a reaction t
 <h2>Conclusion</h2>
 On paper, the Lenovo seems to have an edge for those working with pictures while the LG would be more a gaming monitor. However, the differences between those 2 monitors is not that big and it's probably just a matter of taste and money you are planning to spend on your new monitor. If you have the cash I would rather take the Dell Ultra HD 5K than a 4K screen. If you are on a budget then the HP ENVY might be a nice 4K monitor.
 
-<hr>
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Search Results from Amazon";
-amzn_assoc_default_search_phrase = "USB-C";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "c8fbd44fb8175bb79ed521d4925db8c9";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
 ---
 
 {% include disclaimer.html %}

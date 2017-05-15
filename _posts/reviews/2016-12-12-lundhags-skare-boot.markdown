@@ -44,18 +44,8 @@ We never had we socks when wearing those boots on our winter trip. On one occasi
 ## Conclusion
 We really love the Lundhags Skare boots. Beside the quality issue with Konstantin's boot we would probably take them again with us on our next trip. They are comfortable to walk in and they also look quite nice.
 
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "true";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "bottom";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Shop Related Products";
-amzn_assoc_default_search_phrase = "icebreaker hike+";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "b2d530ae8b3456ab6b4385a57ec17c80";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+---
+
+{% include disclaimer.html %}
+
+---

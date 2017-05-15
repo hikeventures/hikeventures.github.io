@@ -116,26 +116,8 @@ Patrick hiking in [Sarek National Park][2] in Sweden wearing an [Arcteryx Squami
 
 <hr>
 
-# Conclusion
+## Conclusion
 There is probably not much difference between the wind breakers in my buying guide about the best wind jackets and it's more about your own preference towards color and brand. I am wearing the [Arcteryx Squamish Hoody][12] since years and I am quite happy with it. Konstantin just recently got a [Patagonia Houdini][13] and is also very pleased with it.
-
----
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "bottom";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Amazon Search Suggestions";
-amzn_assoc_default_search_phrase = "Arcteryx Squamish Hoody";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "e591c20a2231d99e36c0a9786ecb9ae1";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
 
