@@ -11,21 +11,6 @@ tags:
 ---
 Currently, there are two interesting GPS watches on the market which I would find quite useful for hiking, backpacking or mountaineering - the Suunto Spartan Sport and the Garmin Fenix 5X.
 
-Both watches are currently the latest models from both manufacturers and their built in GPS feature, color display and battery life make them an attractive alternative compared to a smartphone with a GPS app - at least if you are frequently tracking your GPS or if you plan to go on remote backcountry trips.
-
-In the past I have always used my Suunto Traverse to log my GPS data (see picture below on a [trip in Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/)).
-
-However, there are certain features on the new watches which I found more appealing than on the Suunto Traverse - and in particular I would prefer to have the Garmin Fenix 5X over the Suunto Spartan.
-
-Why? Simply beacause both watches offer similar features with the Fenix 5X offering additionaly the possibility to upload 2GB of topo maps.
-
-Below I have summarized the main characteristics of both watches which were important to me.
-
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15913318153/in/photolist-Go1JSL-vM7J91-s9EBGJ-qfcV5n-poxm2c-J2qeyW-C6bEKT-uSq1oC-vwWEhv-vNPEKA-vPqH22-sTzRxs-t4miJj-qHtRc2-rc1Fx6-pC4agQ-pUdwjt-pR5WvQ-ptyErN-oUMs5L" title="Lapland Finland"><img src="https://c1.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg" width="2048" height="1360" alt="Suunto Spartan or Garmin Fenix 5 differences features"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<!--more-->
-
 <h2 id="list">Feature Suunto Spartan Sport vs. Garmin Fenix 5X</h2>
 <div class="table-responsive">
 <table class="table">
@@ -51,6 +36,20 @@ Below I have summarized the main characteristics of both watches which were impo
 <tr><td></td><td><a href="http://amzn.to/2kLxu40" rel="nofollow"><button class="btn btn-danger">See on Amazon</button></a></td><td><a href="http://amzn.to/2kK6rdx" rel="nofollow"><button class="btn btn-danger">See on Amazon</button></a></td></tr>
 </tbody></table>
 </div>
+
+
+<!--more-->
+
+
+Both watches are currently the latest models from both manufacturers and their built in GPS feature, color display and battery life make them an attractive alternative compared to a smartphone with a GPS app - at least if you are frequently tracking your GPS or if you plan to go on remote backcountry trips.
+
+In the past I have always used my Suunto Traverse to log my GPS data (see picture below on a [trip in Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/)).
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15913318153/in/photolist-Go1JSL-vM7J91-s9EBGJ-qfcV5n-poxm2c-J2qeyW-C6bEKT-uSq1oC-vwWEhv-vNPEKA-vPqH22-sTzRxs-t4miJj-qHtRc2-rc1Fx6-pC4agQ-pUdwjt-pR5WvQ-ptyErN-oUMs5L" title="Lapland Finland"><img src="https://c1.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg" width="2048" height="1360" alt="Suunto Spartan or Garmin Fenix 5 differences features"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+However, there are certain features on the new watches which I found more appealing than on the Suunto Traverse - and in particular I would prefer to have the Garmin Fenix 5X over the Suunto Spartan.
+
+Why? Simply beacause both watches offer similar features with the Fenix 5X offering additionaly the possibility to upload 2GB of topo maps.
 
 ## Reasons for upgrading
 When you own an old Suunto watch like the Traverse or a Garmin Fenix 3 then you are probably asking yourself if you should upgrade to the Spartan or Fenix watch.
