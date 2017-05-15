@@ -1,7 +1,7 @@
 ---
 published: false
-title: Things to do outdoors in Montenegro - ITB Interview with the Malta Tourism Authority
-description: Our interview with the Malta Tourism Authority from Montenegro at the ITB in Berlin
+title: Things to do outdoors in Montenegro - ITB Interview with the National Parks of Montenegro
+description: Our interview with the National Parks of Montenegro at the ITB in Berlin
 date: 2017-05-15 00:01:01
 category: articles
 tags:
@@ -13,7 +13,7 @@ tags:
 layout: post
 ---
 
-On our visit at the ITB in Berlin we had a chance to talk with Rakhat Dzhamalova from the Karakol Destination Management Organization about Outdoor activities in Montenegro.
+On our visit at the ITB in Berlin we had a chance to talk with Dr. Thomas Wöhrstein from the National Parks of Montenegro about Outdoor activities in Montenegro.
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rhPAzrqjAJc"></iframe>
@@ -23,7 +23,7 @@ On our visit at the ITB in Berlin we had a chance to talk with Rakhat Dzhamalova
 
 <!--more-->
 
-**Hello. I am with Peter from Malta. Could you introduce yourself?**
+**Hello. I am with Thomas from Montenegro. Could you introduce yourself?**
 
 Yes, of course. My name is Peter Cauchi. I am the director of Malta Tourism Auhority located in Germany, promoting Malta in Germany, Switzerland and Austria.
 
