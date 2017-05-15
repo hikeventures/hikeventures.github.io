@@ -18,13 +18,13 @@ Since I am planning to go to Sarek this autumn, I was looking for a wind jacket 
 ## Features
 I really like the quality of materials on the Arcteryx Squamish Hoody, it's breathability and that's it doesn't take much space in the backpack. This windbreaker is also able to handle light rain due to it's DWR finish, comes with adjustable cuffs, hem drawcord and is helmet compabitble. This wind jacket also feels soft to the skin and weights only 145 grams.
 
-<img src="http://farm4.staticflickr.com/3792/9183607317_2ed62baacf_c.jpg" width="1000" alt="Arcteryx Squamish Hoody"></a>
+<img src="http://farm4.staticflickr.com/3792/9183607317_2ed62baacf_c.jpg" width="1000" alt="Arcteryx Squamish Hoody">
 
-<img src="http://farm4.staticflickr.com/3674/9183607965_f5617987d4_c.jpg" width="1000" alt="Arcteryx Squamish Hoody"></a>
+<img src="http://farm4.staticflickr.com/3674/9183607965_f5617987d4_c.jpg" width="1000" alt="Arcteryx Squamish Hoody">
 
 You can tighten the lower part of your jacket.
 
-<img src="http://farm4.staticflickr.com/3808/9183608901_afec601612_c.jpg" width="1000" alt="Arcteryx Squamish Hoody" ></a>
+<img src="http://farm4.staticflickr.com/3808/9183608901_afec601612_c.jpg" width="1000" alt="Arcteryx Squamish Hoody" >
 
 You can tighten the sleeve on your wrist. Supercool! :)
 
@@ -32,9 +32,9 @@ You can tighten the sleeve on your wrist. Supercool! :)
 
 Reflective logo on the Arcteryx Squamish Hoody... great for hiking during the night. The pocket on your chest serves also as a stuff bag for your jacket.
 
-<img src="http://farm3.staticflickr.com/2873/9185828618_48360fb3da_c.jpg" width="1000" alt="Arcteryx Squamish Hoody"></a>
+<img src="http://farm3.staticflickr.com/2873/9185828618_48360fb3da_c.jpg" width="1000" alt="Arcteryx Squamish Hoody">
 
-<img src="http://farm3.staticflickr.com/2851/9183612001_3960c534bd_c.jpg" width="1000" alt="Arcteryx Squamish Hoody"></a>
+<img src="http://farm3.staticflickr.com/2851/9183612001_3960c534bd_c.jpg" width="1000" alt="Arcteryx Squamish Hoody">
 
 YKK zippers.
 
