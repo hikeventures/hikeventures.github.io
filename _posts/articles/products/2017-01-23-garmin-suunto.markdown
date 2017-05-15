@@ -11,7 +11,7 @@ tags:
 ---
 Currently, there are two interesting GPS watches on the market which I would find quite useful for hiking, backpacking or mountaineering - the Suunto Spartan Sport and the Garmin Fenix 5X.
 
-<h2 id="list">Feature Suunto Spartan Sport vs. Garmin Fenix 5X</h2>
+<h2 id="list">Suunto Spartan Sport vs. Garmin Fenix 5X</h2>
 <div class="table-responsive">
 <table class="table">
 <thead><tr class="tableizer-firstrow"><th>Feature</th><th><a rel="nofollow" href="http://amzn.to/2kiZkEC">Suunto Spartan Sport</a></th><th><a href="http://amzn.to/2jQ2bYn" rel="nofollow">Garmin Fenix 5X</a></th></tr></thead><tbody>
