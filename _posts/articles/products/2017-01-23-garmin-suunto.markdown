@@ -65,25 +65,9 @@ Moreover, the Fenix 5X also has a hear rate monitor built into the back of the w
 
 Suunto has already announced to release a similar model in a few weeks which is going to be called Suunto Spartan Sport HR.
 
-However, it will still miss the map feature which I like on the <a href="http://amzn.to/2osspQt" rel="nofollow">Garmin Fenix 5X</a>. However, the Suunto Spartan has a slightly better screen resolution.
+However, it will still miss the map feature which I like on the <a href="http://amzn.to/2osspQt" rel="nofollow">Garmin Fenix 5X</a>. On the other hand, the <a href="http://amzn.to/2kLxu40" rel="nofollow">Suunto Spartan</a> has a slightly better screen resolution.
 
 Would this change my purchase desition? No. I still prefer the watch which can upload topo maps - the Garmin Fenix 5X. The Suunto Spartan might be however more appealing for those who need the lightest gear and don't need the map feature of the Garmin Fenix 5X.
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Suunto Spartan Screen Protector";
-amzn_assoc_default_search_phrase = "Suunto Spartan HR";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "d9f5cf2a41718e1d099e26edea215486";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
 
 ---
 
