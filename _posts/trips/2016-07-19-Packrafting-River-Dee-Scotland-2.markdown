@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Packrafting the River Dee in Scotland - Day 2 and 3
+title: Packrafting in Scotland - River Dee - Day 2 and 3
 description: Our February packrafting adventure in Scotland Day 2 and 3.
 date: 2016-07-19 07:30:00
 category: destinations
@@ -99,7 +99,7 @@ A trailer smashed against one pillow of the bridge. There were also lots of shar
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25607404950/in/dateposted-public/" title="Packrafting the River Dee"><img src="https://farm2.staticflickr.com/1696/25607404950_39bdf8ce54_b.jpg" width="1024" height="768" alt="Packrafting the River Dee"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Tea Time in Ballater
-In Ballater – just after the bridge - we stepped out to get some food at Dreeside garage. We got tea and chocolate. We also asked there if there was a good place to eat. The store owner said: Well, the town centre had all been flooded. Were they too? Yes. They got the water, but from the village, not directly from the river. When did it happen? On the 30th of December. Merry Christmas and a happy new year. In a way yes, he smiled bitterly. Then Konstantin returned to the place where we stepped out from our packrafts while Patrick has unpacked the backpacks to get our gear drying in the sun.  
+In Ballater – just after the bridge - we stepped out to get some food at Dreeside garage. We got tea and chocolate. We also asked there if there was a good place to eat. The store owner said: Well, the town centre had all been flooded. Were they too? Yes. They got the water, but from the village, not directly from the river. When did it happen? On the 30th of December. Merry Christmas and a happy new year. In a way yes, he smiled bitterly. Then Konstantin returned to the place where we stepped out from our packrafts while Patrick has unpacked the backpacks to get our gear drying in the sun.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25211164094/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1563/25211164094_ed2ac46f7d_o.jpg" width="1024" height="768" alt="Packrafting the River Dee in Scotland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

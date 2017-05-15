@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Packrafting the River Dee in Scotland - Day 1
+title: Packrafting in Scotland - River Dee - Day 1
 description: Our February packrafting adventure in Scotland.
 date: 2016-07-15 06:46:20
 category: destinations
