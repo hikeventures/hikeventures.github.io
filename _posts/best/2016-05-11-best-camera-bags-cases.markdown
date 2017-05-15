@@ -63,7 +63,6 @@ I was looking for a camera bag or case which packs small and actually came to th
         </tr>
 
 
-ORTLIEB SOFT SHOT GREY WATERPROOF CAMERA BAG
 
 
         <tr>
