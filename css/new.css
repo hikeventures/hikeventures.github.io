@@ -10,9 +10,7 @@
   background-image: -o-linear-gradient(top, #FC6A08, #FC6A08);
   background-image: linear-gradient(#FC6A08, #FC6A08);
   border-color: #cc7a00 #cc7a00 hsl(36, 100%, 35%);
-  color: #333 !important;
-  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.33);
-  -webkit-font-smoothing: antialiased;
+
 }
 
 
