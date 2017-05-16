@@ -170,14 +170,6 @@ The Sea to Summit Ultra Flex Booties protect your feet when you walk in the rive
 
 ---
 
-<div id="video">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-
-> On our packrafting trip in the Sarek National Park in Sweden we were wearing PFD's. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
-</div>
-
----
-
 ## Conclusion
 Wearing a PFD does not need to be a burdern. The latest PFD's are quite stylish and we hope that we were able to give you some good ideas on which PFD you could get for yourself. We are currently using the Palm Alpha and the Astral Designs YTV PFDs. The Astral Designs V-Eight life jacket was also quite popular among a few paddlers who participated in the [Swedish Packrafting Round-Up 2016](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/). It's probably a good idea to invest a bit money into a good PFD if you plan to go packrafting frequently. Safety goes first!
 
