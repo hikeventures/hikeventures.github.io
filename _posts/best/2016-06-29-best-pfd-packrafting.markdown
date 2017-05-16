@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Best PFD / Life Jacket for Packrafting
-description: PFD's we would take on our packrafting trip
+title: Best PFD / Life Jacket for Packrafting and Kayaking
+description: PFD's we would take on our packrafting and kayaking trip
 date: 2016-05-29 09:46:20
 category: best
 tags:
@@ -9,13 +9,13 @@ tags:
   - best
   - pfd
 ---
-As we are frequently on packrafting trips we are always interested to look out for new packrafting gear like a PFD (personal floating device) or life jacket.
+As we are frequently on packrafting trips we are always interested to find new packrafting gear like a life jacket - also called PFD (personal floating device). Those life jackets are also suitable for Kayaking. In fact they have probably been designed with Kayakers in mind as I have not heard about specific packrafting life jackets yet (nor do I think that there would be much of a difference).
 
-Here is an <a href="#list">overview</a> of the best PFDs which we would consider to buy. You can also <a href="#video">watch a video</a> how we are packrafting in Sweden.
+Here is an <a href="#list">overview</a> of the best PFDs which we would consider to buy.
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28098576184/in/photolist-KjpkDS-JNYxL5-JNYx9U-GLALdG-orHt8R-oav9Cc-oaw6d2" title="Best PFD or life jacket for packrafting"><img src="https://c1.staticflickr.com/9/8762/28098576184_8dd7eebdb2_k.jpg" width="2048" height="1365" alt="Best PFD or life jacket for packrafting"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28098576184/in/photolist-KjpkDS-JNYxL5-JNYx9U-GLALdG-orHt8R-oav9Cc-oaw6d2" title="Best PFD or life jacket for packrafting"><img src="https://c1.staticflickr.com/9/8762/28098576184_8dd7eebdb2_k.jpg" width="2048" height="1365" alt="Best PFD or life jacket for packrafting and kayaking"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
