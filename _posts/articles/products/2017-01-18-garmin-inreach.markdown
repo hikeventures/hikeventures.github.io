@@ -45,7 +45,7 @@ Below you can see Konstantin while hiking in Japan. On the back of his backpack 
 </div>
 
 ## Worth to upgrade?
-If you are only using your device in emergency situations to send a SOS signal then we would probably not consider to ugrade to the new Garmin models. However, if you are looking for a device which you can also use as a GPS then we would probably upgrade to the new Garmin inReach Explorer+ since it comes with a topo map and has also space to store other maps as well.
+If you are only using your device in emergency situations to send a SOS signal then we would probably not consider to upgrade to the new Garmin models. However, if you are looking for a device which you can also use as a GPS then we would probably upgrade to the new Garmin inReach Explorer+ since it comes with a topo map and has also space to store other maps as well.
 
 
 ## Alternative without SOS features

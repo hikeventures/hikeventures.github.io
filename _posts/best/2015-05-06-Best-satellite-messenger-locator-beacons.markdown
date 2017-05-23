@@ -76,7 +76,7 @@ The main advantage of the ACR is that you don't have to pay a subscription fee t
 
 If messaging is not important for you, then you should go for the ACR ResQlink+ 406. The ACR device is also quite interesting for paddlers since it is able to float.
 
-Alternatively, you will see from the specifications below that the DeLorme devices have slightly more weight but come with more functionalities than the SPOT devices. {% include disclaimer.html %}
+Alternatively, you will see from the specifications below that the DeLorme devices have slightly more weight but come with more functionalities than the SPOT devices. 
 
 ---
 
