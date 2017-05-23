@@ -83,7 +83,7 @@ I used the pocket over my head to store my ear plugs.
 
 ## Negative
 * Outer tent is not self standing (not possible to first remove inner tent from the outer tent when it's raining to keep the inner tent dry).
-* Inner tent mesh is a bit fragile and distortes easily.
+* Inner tent mesh is a bit fragile and distorts easily.
 * Pegs could be of better quality / lighter.
 
 ---
