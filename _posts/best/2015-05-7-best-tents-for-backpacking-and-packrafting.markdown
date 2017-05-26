@@ -1,5 +1,5 @@
 ---
-title: Best Tents For Backpacking And Packrafting in 2017
+title: Best Lightweight Tents For Backpacking And Packrafting in 2017
 description: The best tent for our backpacking and packrafting adventures.
 date: 2016-01-03 19:10:07
 update_date: 2016-12-27 06:00:52

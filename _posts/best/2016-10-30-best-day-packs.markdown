@@ -1,6 +1,6 @@
 ---
 title: Best Hiking Daypacks for 2017
-description: Are you planning to go on a day hike? Here is our selection of the best daypacks for 2017
+description: Are you planning to go on a day hike? Here is our selection of the best lightweight daypacks for 2017
 date: 2016-10-30 20:43:52
 update_date: 2016-12-30 23:30:52
 category: articles

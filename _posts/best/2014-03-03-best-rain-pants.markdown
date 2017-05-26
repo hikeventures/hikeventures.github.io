@@ -1,5 +1,5 @@
 ---
-title: Best Men Rain Pants 2017 for Hiking and Backpacking
+title: Best Lightweight Men Rain Pants 2017 for Hiking and Backpacking
 description: Top 6 of the best Waterproof pants 2017 which protects you during your outdoor adventures
 date: 2015-02-08 09:13:12
 update_date: 2016-12-27 06:00:52

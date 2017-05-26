@@ -1,6 +1,6 @@
 ---
 title: Best Down Jackets for 2017
-description: Need a warm jacket for your autumn or winter? We found the best down jackets for 2017
+description: Need a warm jacket for your autumn or winter? We found the best lightweight down jackets for 2017
 date: 2016-10-10 20:43:52
 update_date: 2017-03-02 05:43:52
 category: articles

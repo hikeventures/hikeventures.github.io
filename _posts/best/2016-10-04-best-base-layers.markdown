@@ -1,6 +1,6 @@
 ---
 title: Best Merino Base Layers 2017
-description: An overview of the best merino wool base layers.
+description: An overview of the best lightweight merino wool base layers.
 date: 2016-10-04 20:43:52
 update_date: 2016-12-27 06:00:52
 category: articles

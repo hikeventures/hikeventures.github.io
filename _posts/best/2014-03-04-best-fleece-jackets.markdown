@@ -1,5 +1,5 @@
 ---
-title: Best Fleece Jackets for 2017
+title: Best Lightweight Fleece Jackets for 2017
 description: Top 5 of the best fleece jackets 2015 for hiking and backpacking
 date: 2015-03-04 17:20:20
 update_date: 2016-12-27 06:00:52
@@ -13,7 +13,7 @@ layout: post
 <h2 style="color:red">Our selection of the best lightweight warm fleece jackets 2017 for ultralight outdoor adventures.</h2>
 <br>
 
-Are you planning an outdoor adventure to a place where it's wet or humid? Then you should have a warm fleece jacket in your backpack and our <a href="#list">selection</a> of the best fleece jackets for 2017 might help you in finding the right jacket for you. Also have a look at our <a href="#interview">interview</a> at the end of this article.
+Are you planning an outdoor adventure to a place where it's wet or humid? Then you should have a warm lightweight fleece jacket in your backpack and our <a href="#list">selection</a> of the best fleece jackets for 2017 might help you in finding the right jacket for you. Also have a look at our <a href="#interview">interview</a> at the end of this article.
 
 For wet conditions a fleece jacket is a much better choice than a [down jacket][1] to protect yourself against the cold as down will lose it's insulation once it's wet. A fleece jacket can be used as a mid-layer to keep you warm while you are active (climbing, hiking, skiing or biking) and dries rather fast compared to other fabrics like cotton.
 

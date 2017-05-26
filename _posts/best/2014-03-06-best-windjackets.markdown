@@ -1,5 +1,5 @@
 ---
-title: Best Wind Jackets for 2017
+title: Best Lightweight Wind Jackets for 2017
 description: Top 5 windproof Jackets for 2017 for your next outdoor adventure!
 date: 2016-01-04 10:56:22
 update_date: 2016-12-27 06:00:52

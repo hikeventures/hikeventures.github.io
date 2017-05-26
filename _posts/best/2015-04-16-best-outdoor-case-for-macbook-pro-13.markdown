@@ -1,5 +1,5 @@
 ---
-title: Best outdoor case to protect your Macbook Pro with Touch Bar 2017
+title: Best lightweight outdoor case to protect your Macbook Pro with Touch Bar 2017
 description: An interesting MacBook case for your outdoor activities.
 date: 2015-04-16 16:15:35
 update_date: 2016-12-27 06:00:52

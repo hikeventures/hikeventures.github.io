@@ -1,5 +1,5 @@
 ---
-title: Best Backpack for Packrafting
+title: Best Lightweight Backpack for Packrafting
 description: An overview of the best backpacks for packrafting.
 date: 2016-01-03 22:16:01
 category: articles

@@ -1,5 +1,5 @@
 ---
-title: Best Camping Stoves 2017
+title: Best Lightweight Camping Stoves 2017
 description: Need a new camping stove? Here are the best stoves for 2017.
 date: 2016-01-03 00:42:09
 update_date: 2016-12-27 06:00:52
