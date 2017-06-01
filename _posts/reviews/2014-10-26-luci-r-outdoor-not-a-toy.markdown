@@ -84,7 +84,7 @@ All in all, this is a very good inflatable solar lantern, which is also a good v
 * To charge it on the go, use the handles to attach the lantern to the top/back of your backpack. However, if you are planning to go bushwhacking, make sure that it is attached securely, as the lantern might snag on something and the handles might not withstand a strong tug. It might be an idea to attach it to the sternum strap on the front to keep it out of harm's way.
 * Play with it and find your own ways of using it. Share them with us.
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_MPOWERD-Luci-Outdoor-Light_10320284_10208_10000001_-1_"><button type="button" class="btn btn-danger">See the Luci Outdoor Solar Lantern</button></a>
+<a href="http://www.moosejaw.com/moosejaw/shop/product_MPOWERD-Luci-Outdoor-Light_10320284_10208_10000001_-1_" rel="nofollow"><button type="button" class="btn btn-danger">See the Luci Outdoor Solar Lantern</button></a>
 
 ---
 
