@@ -33,7 +33,7 @@ Here is a selection of our favorite camping and blogging gear.
   </div>
 
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-  <center>  
+  <center>
 <a target="_blank"  href="https://www.amazon.com/gp/product/1493027476/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1493027476&linkCode=as2&tag=hikeve-20&linkId=7335b2823a26d53877705c5fd5a64e51"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1493027476&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=1493027476" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></center>
   </div>
 </div>
@@ -197,7 +197,7 @@ Sennheiser MKE 600 Shotgun Microphone</a></center>
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
 <center>  <a href="http://amzn.to/2nrgBN4" rel="nofollow">
 Zoom H5 Audio Field Recorder</a></center>
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00DFU9BRK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DFU9BRK&linkCode=as2&tag=hikeve-20&linkId=54a6dd304a8f7b56e565eb4744e3ae5a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00DFU9BRK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00DFU9BRK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00KCXMBES/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KCXMBES&linkCode=as2&tag=hikeve-20&linkId=09682462f1da56a490f7bd0a67fa7f39"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00KCXMBES&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00KCXMBES" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 </div>
 
