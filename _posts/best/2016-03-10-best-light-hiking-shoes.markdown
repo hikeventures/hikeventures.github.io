@@ -89,7 +89,7 @@ My Inov-8 ultralight hiking shoes on [our hiking trip](http://www.hikeventures.c
 The ROCLITE 282 GTX promises a combination of natural movement and flexibility with breathability offered by Gore flex with its 1.4 billion pores per square centimeter which makes the Roclite 282 watertight. The outsole of the Roclite 282 GTX offers good grip on wet rocks.
 
 
-<a href="http://www.backcountry.com/inov-8-roclite-282-gtx-trail-running-shoe-mens" rel="nofollow"><button type="button" class="btn btn-danger">Buy</button></a>
+<a href="http://www.backcountry.com/inov-8-roclite-282-gtx-trail-running-shoe-mens" rel="nofollow"><button type="button" class="btn btn-danger">See the Inov-8 Roclite 282 GTX</button></a>
 
 ---
 
@@ -101,7 +101,7 @@ The ROCLITE 282 GTX promises a combination of natural movement and flexibility w
 
 The Adidas Terrex Solo are flexible shoes with a breathable mesh upper. The Terrex Solo also has a Stealth® rubber toe cap to protect your toes and the TRAXION™ outsole should provide a god grip.
 
-<a href="http://www.backcountry.com/adidas-outdoor-terrex-solo-approach-shoe-mens" rel="nofollow"><button type="button" class="btn btn-danger">Buy</button></a>
+<a href="http://www.backcountry.com/adidas-outdoor-terrex-solo-approach-shoe-mens" rel="nofollow"><button type="button" class="btn btn-danger">See the Adidas Terrex Solo</button></a>
 
 ---
 
@@ -113,7 +113,7 @@ The Adidas Terrex Solo are flexible shoes with a breathable mesh upper. The Terr
 
 The Adidas Terrex Fast R GTX are light athletic shoes which are - due to their protective weldings and a grippy Continental™ Rubber outsole - also suitable to wear on the mountain.
 
-<a href="http://www.backcountry.com/adidas-outdoor-terrex-fast-r-gtx-hiking-shoe-mens" rel="nofollow"><button type="button" class="btn btn-danger">Buy</button></a>
+<a href="http://www.backcountry.com/adidas-outdoor-terrex-fast-r-gtx-hiking-shoe-mens" rel="nofollow"><button type="button" class="btn btn-danger">See the Adidas Terrex Fast R GTX</button></a>
 
 ---
 
@@ -125,7 +125,7 @@ The Adidas Terrex Fast R GTX are light athletic shoes which are - due to their p
 
 The Scarpa Zen Pro comes with a Vibram sole and PU-injected leather along the side to improve abrasion resistance. The Scarpa Zen Pro is a quite popular shoe and many like it's grip and feel on the foot.
 
-<a href="http://www.backcountry.com/scarpa-zen-pro-hiking-shoe-mens" rel="nofollow"><button type="button" class="btn btn-danger">Buy</button></a>
+<a href="http://www.backcountry.com/scarpa-zen-pro-hiking-shoe-mens" rel="nofollow"><button type="button" class="btn btn-danger">See the Scarpa Zen Pro</button></a>
 
 ---
 
@@ -138,7 +138,7 @@ The most innovative part in the Arcteryx Acrux2 FL GTX are probably the removabl
 <a  href="http://www.amazon.com/gp/product/B00O4CHAL2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00O4CHAL2&linkCode=as2&tag=hikeve-20&linkId=QBJ2UINAADDHALYZ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00O4CHAL2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00O4CHAL2" width="1" height="1" border="0" alt="Arcteryx Acrux2 FL GTX Approach" style="border:none !important; margin:0px !important;" />
 
 
-<a href="http://www.backcountry.com/arcteryx-acrux2-fl-approach-shoe-mens" rel="nofollow"><button type="button" class="btn btn-danger">Buy</button></a>
+<a href="http://www.backcountry.com/arcteryx-acrux2-fl-approach-shoe-mens" rel="nofollow"><button type="button" class="btn btn-danger">See the Arcteryx Acrux2 FL GTX Approach</button></a>
 
 ---
 

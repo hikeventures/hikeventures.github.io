@@ -94,7 +94,7 @@ Sometimes you might also get a down jacket for a significant lower price especia
 
 The Arcteryx Cerium LT Hoody is not a pure synthetic insulated jacket and replaces the synthetic insulation with 850 goose down on areas where moisture may build up. With 295 grams it's the lightest jacket in our list. This jacket is useful for active people but you may rather pick a different jacket if you are planning to visit a very wet or humid place.
 
-<a href="http://amzn.to/2iaIYhe" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2iaIYhe" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Arcteryx Cerium LT Hoody</button></a>
 
 <hr>
 
@@ -106,7 +106,7 @@ The Arcteryx Cerium LT Hoody is not a pure synthetic insulated jacket and replac
 
 The Cathode Hooded Jacket has Schoeller® underarm side panels that can breath and stretch. The jacket is filled with water-resistant PrimaLoft® Gold insulation and with a super-lightweight Pertex® Quantum shell. The jacket is a great choice for cold and wet alpine environments and for those looking for a lightweight and breathable solution.
 
-<a href="http://amzn.to/2iaM9Wk" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2iaM9Wk" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Outdoor Research Cathode Hooded Jacket</button></a>
 
 <hr>
 
@@ -118,7 +118,7 @@ The Cathode Hooded Jacket has Schoeller® underarm side panels that can breath a
 
 The Arcteryx Proton AR Hoody is the warmest jacket in the Proton Series and is balancing warmth and airflow. You can wear the jacket either as a softshell or as a mid-layer under a waterproof shell. The jacket has a trim fit design and an insulated adjustable hood which is helmet compatible.
 
-<a href="http://amzn.to/2ilHJMg" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2ilHJMg" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Arcteryx Proton AR Hoody</button></a>
 
 <hr>
 
@@ -130,7 +130,7 @@ The Arcteryx Proton AR Hoody is the warmest jacket in the Proton Series and is b
 
 The Arcteryx Nuclei AR Jacket is a good choice for alpine climbers and is filled with Coreloft™ 100 insulation with a fully seam taped GORE® THERMIUM™ shell which is water resistand and windproof but also very breathable. The jacket is designed with an articulated patterning which increases ergonomic freedom. Moreover, the jacket comes with a helmet-compatible insulated StormHood™ which does not impact your vision.
 
-<a href="http://amzn.to/2inuE4W" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2inuE4W" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Arcteryx Nuclei AR Jacket</button></a>
 
 <hr>
 
@@ -142,7 +142,7 @@ The Arcteryx Nuclei AR Jacket is a good choice for alpine climbers and is filled
 
 The Rab Nebula Jacket is a featherless synthetic insulated jacket which dries quickly. The jacket is designed as an all-rounder which is perfect for climbing and winter walking. The jacket has a helmet compatible hood for climbing use and a Pertex® Endurance® shell to make the jacket water resistant.
 
-<a href="http://amzn.to/2inkT6M" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2inkT6M" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Rab Nebula Jacket</button></a>
 
 <hr>
 
@@ -156,7 +156,7 @@ The Rab Nebula Jacket is a featherless synthetic insulated jacket which dries qu
 
 The Mountain Equipment Fitzroy Jacket is a wind and water resistant jacket filled with Primaloft® GOLD insulation. It also comes with an insulated hood with wired visor. The Mountain Equipment Fitzroy Jacket is currently my go-to insulated jacket which I was wearing in the [Scottish Highlands](http://www.hikeventures.com/Packrafting-River-Dee-Scotland-1/).
 
-<a href="http://amzn.to/2iI5RMm" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2iI5RMm" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Mountain Equipment Fitzroy Jacket</button></a>
 
 <hr>
 
@@ -168,7 +168,7 @@ The Mountain Equipment Fitzroy Jacket is a wind and water resistant jacket fille
 
 The Rab Photon X Jacket is a water-resistant winter jacket filled with Primaloft® Gold synthetic insulation and was designed for use in harsh Scottish Winter conditions. The jacket features zoned synthetic insulation to eliminate cold spots and is reinforecd in key areas. The jacket also comes with a helmet-compatible hood.
 
-<a href="http://amzn.to/2izVzhg" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2izVzhg" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Rab Photon X Jacket</button></a>
 
 <hr>
 
@@ -181,7 +181,7 @@ The Rab Photon X Jacket is a water-resistant winter jacket filled with Primaloft
 
 The Arcteryx Fission SV Jacket is a waterproof, insulated jacket with Coreloft™ insulation. This jacket is the warmest synthetic insulated all-mountain jacket in Arcteryx product range which is also waterproof while still breathable.
 
-<a href="http://amzn.to/2hKcJEG" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2hKcJEG" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Arcteryx Fission SV Jacket</button></a>
 
 <hr>
 

@@ -87,7 +87,7 @@ A daypack is just a smaller version of a backpack. Essentially they are both bac
 
 The Marmot Kompressor offers a breathable airmesh back panel and airmesh shoulder straps. There are also side bottle pockets on the backpack and a hydration port. It's also possible to attach trekking poles. The backpack is also compressible.
 
-<a href="http://amzn.to/2hC19Q2" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2hC19Q2" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Marmot Kompressor Plus</button></a>
 
 <hr>
 
@@ -99,7 +99,7 @@ The Marmot Kompressor offers a breathable airmesh back panel and airmesh shoulde
 
 The Patagonia Ascensionist 25L might be an interested day pack for climbers. It comes with a lightweight abrasion-resistant nylon ripstop and adjustable ice axe loops. There are also daisy chains to attach additional gear to the backpack.
 
-<a href="http://amzn.to/2ikTBhR" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2ikTBhR" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Patagonia Ascensionist 25L</button></a>
 
 <hr>
 
@@ -111,7 +111,7 @@ The Patagonia Ascensionist 25L might be an interested day pack for climbers. It 
 
 The Salomin S-LAB X ALP 20 has been designed for light and fast adventures in the high mountains. It enables freedom of movement and includes a protective extrem gear box for crampons, a ski-carrying system and 2 ice axe loops. There is also a front flask storage on the backpack.
 
-<a href="http://amzn.to/2hzlqnS" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2hzlqnS" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Salomon S-LAB X ALP 20</button></a>
 
 <hr>
 
@@ -123,7 +123,7 @@ The Salomin S-LAB X ALP 20 has been designed for light and fast adventures in th
 
 The Gregory Maya 22 comes with a BioSync Suspension that flexes and moves with your body. It also comes with an expanding front pocket to fit bulky items in it.
 
-<a href="http://amzn.to/2il2BTV" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2il2BTV" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Gregory MAYA 22</button></a>
 
 <hr>
 
@@ -135,7 +135,7 @@ The Gregory Maya 22 comes with a BioSync Suspension that flexes and moves with y
 
 This Osprey Talon 22 comes with a mesh covered backpanel, single ice ace loop and trekking pole attachment, a bike helmet attachment and an emergency whistle. There is also room for additional gear in the front pocket, side pockets and an external hydration access.
 
-<a href="http://amzn.to/2iMcidh" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2iMcidh" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Osprey Packs Talon 22</button></a>
 
 <hr>
 
@@ -147,7 +147,7 @@ This Osprey Talon 22 comes with a mesh covered backpanel, single ice ace loop an
 
 The Deuter Pace 36 had been designed for fast and light alpine tours and multi-day activities. The backpack won the ISPO Gold Award in 2014/15.
 
-<a href="http://amzn.to/2iMIalR" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2iMIalR" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Deuter Pace 36</button></a>
 
 <hr>
 
@@ -159,7 +159,7 @@ The Deuter Pace 36 had been designed for fast and light alpine tours and multi-d
 
 The Thule Stir 35L comes with multiple easy access pockets and a rain cover. Moreover it comes with a removable hipbelt and there is also a pocket to attach your phone on the shoulder strap. The front pocket let's you also store and access gear quickly. Then there is also the possibility to attach hiking poles and ice axes on the Thule Stir.
 
-<a href="http://amzn.to/2ipjrUp" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2ipjrUp" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Thule Stir 35L</button></a>
 
 <hr>
 
@@ -171,7 +171,7 @@ The Thule Stir 35L comes with multiple easy access pockets and a rain cover. Mor
 
 The Arcteryx ARRO 22 comes with WaterTight® zipper, a hydration pocket, a Kangaroo pocket and two external pockets.
 
-<a href="http://amzn.to/2hC1baB" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2hC1baB" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Arcteryx ARRO 22</button></a>
 
 ---
 

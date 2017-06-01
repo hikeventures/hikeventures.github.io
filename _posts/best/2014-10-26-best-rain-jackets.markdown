@@ -80,7 +80,7 @@ Also consider taking lightweight waterproof [rain pants][1] with you. Also have 
 
 The Berghaus Vapourlight Hyper Smock 2.0 is the lightest waterproof jacket in our selection. With 75 grams it's nearly invisible in your backpack but featuring even a a small pocket for essentials. If you need a lightweigh emergency jacket or a lightweight running jacket then the Berghaus Vapourlight Hyper Smock 2.0 should be your choice. Be aware that such light jackets are not made to carry heavy load e.g. a backpack. If you are into backpacking then have a look on the jackets below. the Berghaus Vapourlight Hyper Smock 2.0 won the Ispo Award 2014/2015.
 
-<a href="http://amzn.to/2e34CD3" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2e34CD3" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Berghaus Vapourlight Hyper Smock 2.0</button></a>
 
 ---
 
@@ -93,7 +93,7 @@ The Berghaus Vapourlight Hyper Smock 2.0 is the lightest waterproof jacket in ou
 
 The Outdoor Research Helium II Jacket is also a quite popular rain jacket. It features a single-pull hood drawcord to adjust coverage, zippered Napoleon pocket and elastic cuffs.
 
-<a href="http://amzn.to/2dBLJYc" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2dBLJYc" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Outdoor Research Helium II Jacket</button></a>
 
 ---
 
@@ -106,7 +106,7 @@ The Outdoor Research Helium II Jacket is also a quite popular rain jacket. It fe
 
 The Rab Flashpoint Jacket is also a super light rain jacket. With 185 grams it's you won't feel it either in your backpack. Also a great jacket for trail running. Not as durable if you are planning to carry a backpack.
 
-<a href="http://amzn.to/2evQYHY" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2evQYHY" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Rab Flashpoint Jacket</button></a>
 
 ---
 
@@ -121,7 +121,7 @@ The Rab Flashpoint Jacket is also a super light rain jacket. With 185 grams it's
 
 I would choose the Montane Minimus Jacket as my go-to jacket if every gram counts and you want to have a full-zip jacket. If durability is also an important aspect then you should have a look at the new Arcteryx Zeta LT Jacket which comes next in my list.
 
-<a href="http://amzn.to/2e31BCI" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2e31BCI" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Montane Minimus Jacket</button></a>
 
 ---
 
@@ -135,7 +135,7 @@ I would choose the Montane Minimus Jacket as my go-to jacket if every gram count
 The Mountain Hardwear Plasmonic Jacket is one of the best selling jackets from Mountain Hardwear and made especially for hiking and backpacking.
 
 
-<a href="http://amzn.to/2e33vTI" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2e33vTI" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Mountain Hardwear Plasmonic Jacket</button></a>
 
 
 ---
@@ -149,7 +149,7 @@ The Mountain Hardwear Plasmonic Jacket is one of the best selling jackets from M
 
 The Zeta LT Jacket would be my favourite choice if I would select a new waterproof jacket. It comes with the new Gore Tex GORE C-KNIT backer technology which should be super comfortable on the skin and even more breathable. There is also a lighter jacket out which is called Norvan Jacket and comes with only 215 grams. However, I would not choose it for packrafting as the fabric N20p 3L is quite thin compared to the Arcteryx Zeta LT Jacket. The Norvan jacket is more suitable for runners or if you don't wear a backpack.
 
-<a href="http://amzn.to/2eTGFR8" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2eTGFR8" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Arcteryx Zeta LT Jacket</button></a>
 
 ---
 

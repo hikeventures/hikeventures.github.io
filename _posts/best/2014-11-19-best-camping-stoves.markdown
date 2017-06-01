@@ -78,7 +78,7 @@ It will still work. It might be not that easy to ignite the stove but it's more 
 
 The MSR PocketRocket 2 is the lightest stove in our list. If low weight has your highest priority and you want to use a gas stove then you should have a close look on the new MSR PocketRocket 2.
 
-<a href="http://amzn.to/2eI6dBv" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2eI6dBv" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the MSR PocketRocket 2</button></a>
 
 ---
 
@@ -92,7 +92,7 @@ The MSR PocketRocket 2 is the lightest stove in our list. If low weight has your
 
 The MSR WindPro II is a nice stove for those who want to have the burner separated which gives more stability but also the possibility to keep the gas canister warm in colder temperatures. The MSR WindPro II also simmers quite well and the larger diameter of the burner lets you allow to use larger pots. If you are planning to travel in more harsh conditions then the MSR XGK EX would be a better choice.
 
-<a href="http://amzn.to/2dBLCMt" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2dBLCMt" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the MSR WindPro II</button></a>
 
 ---
 
@@ -107,7 +107,7 @@ The MSR WindPro II is a nice stove for those who want to have the burner separat
 
 The Jetboil MicroMo offers a push-button igniter and a heat indicator and comes with a 0.8 liter cooking cup. The Jetboil MicorMo is cold weather compatible down to -6C. The Jetboil MicroMo can also store the gas canister.
 
-<a href="http://amzn.to/2elZvBk" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2elZvBk" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Jetboil MicroMo</button></a>
 
 ---
 
@@ -122,7 +122,7 @@ The Jetboil MicroMo offers a push-button igniter and a heat indicator and comes 
 
 The Jetboil MiniMo offers you one of the best simmer controls, metal handles, and a low spoon angle for easy eating. The bottom cover can also be used as a bowl. As a whole product the Jetboil MiniMo might be a nice solution and not even that heavy considering that it offers 2 products in one (stove and bowl).
 
-<a href="http://amzn.to/2e37Vdw" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2e37Vdw" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Jetboil MiniMo</button></a>
 
 ---
 
@@ -137,7 +137,7 @@ The Jetboil MiniMo offers you one of the best simmer controls, metal handles, an
 
 The MSR WindBurner is the latest addition on the stove market from MSR. This stove is marketed to operate very well under windy conditions. The MSR WindBurner is currently our favourite stove on our trips (for 2 person) even so it weights a little bit more than the other stoves. If you are traveling alone then the Jetboil MiniMo might be a good alternative.
 
-<a href="http://amzn.to/2e8lKIJ" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2e8lKIJ" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the MSR WindBurner</button></a>
 
 ---
 
@@ -151,7 +151,7 @@ The MSR WindBurner is the latest addition on the stove market from MSR. This sto
 
 The MSR XGK EX is probably the best choice if you need a stove which can handle multiple fuels in extreme conditions.
 
-<a href="http://amzn.to/2evVrud" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2evVrud" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the MSR XGK EX</button></a>
 
 <hr>
 

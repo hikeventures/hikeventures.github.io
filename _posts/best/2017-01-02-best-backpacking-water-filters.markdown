@@ -62,7 +62,7 @@ Here is our <a href="#list">selection</a> of the best water filters for 2017 whi
 
 The Lifestraw Personal Water Filter is together with the Sawyer Mini Water Filter one of the lightest water filters available which you can take on your backcountry adventure. Personally, I found the Sawyer Filter more versatile than the LifeStraw filter. One advantage I could see with the LifeStraw is that it does not have several pieces and you may not lose parts easily. One disadvantage of this filter is to get the water into a bottle.
 
-<a href="http://amzn.to/2kOYYW6" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2kOYYW6" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the LifeStraw Personal Water Filter</button></a>
 
 <hr>
 
@@ -72,7 +72,7 @@ The Lifestraw Personal Water Filter is together with the Sawyer Mini Water Filte
 
 The Sawyer Mini Water Filter is currently my go-to water filter when I go for a hike. It packs small and is not that expensive. You can also filter the water into a bottle. However, I might replace it with the MSR TrailShot because it might be more convenient to use.
 
-<a href="http://amzn.to/2lZIqQl" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2lZIqQl" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Sawyer Mini Water Filtration System</button></a>
 
 <hr>
 
@@ -82,7 +82,7 @@ The Sawyer Mini Water Filter is currently my go-to water filter when I go for a 
 
 If you prefer a filter where you need to pump then the Katadyn Hiker Pro filter might be a good soloution. I had this filter as well but prefer the Sawyer filter because it's lighter and I get similar results.
 
-<a href="http://amzn.to/2lZGgjz" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2lZGgjz" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Katadyn Hiker Pro Microfilter</button></a>
 
 <hr>
 
@@ -92,7 +92,7 @@ If you prefer a filter where you need to pump then the Katadyn Hiker Pro filter 
 
 The MSR TrailShot is the latest development compared to the other water filters. The filter is probably more convenient to use than the Sawyer Mini since it offers an Inlet Hose and the pump might be quite useful as well to get clean water out of a river. This is probably going to be my new water filter to replace my Sawyer Mini even so it weights a bit more.
 
-<a href="http://amzn.to/2qdeoXm" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2qdeoXm" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the MSR TrailShot</button></a>
 
 ---
 

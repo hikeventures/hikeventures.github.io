@@ -34,7 +34,7 @@ Also if you are on a budget then this is probably a better solution than the one
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01EU2KRI8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01EU2KRI8&linkCode=as2&tag=hikeve-20&linkId=0c618e78d48f52f037b9fbb17ba5347f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01EU2KRI8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01EU2KRI8" width="1" height="1" border="0" alt="Satechi Aluminum Type-C USB 3.0 and Micro/SD Card Reader" style="border:none !important; margin:0px !important;" />
 
-<a href="http://amzn.to/2h0sx6Q" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2h0sx6Q" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Satechi Aluminum Type-C USB 3.0 and Micro/SD Card Reader</button></a>
 
 
 ---
@@ -49,22 +49,22 @@ The HDMI port lets you directly stream 4K UHD or Full HD video to a second scree
 
 There is also a [version](http://amzn.to/2g4EUla) which is able to charge your MacBook.
 
-<a href="http://amzn.to/2dBLCMt" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2dBLCMt" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the USB C Hub HooToo Shuttle</button></a>
 
 ---
 
 
-<h2><a href="http://amzn.to/2h1mRvL">Satechi Type-C USB 3.0 3 in 1 Combo Hub</a></h2>
+<h2><a href="http://amzn.to/2h1mRvL" rel="nofollow">Satechi Type-C USB 3.0 3 in 1 Combo Hub</a></h2>
 
 <a target="_blank"  rel="nofollow"  href="https://www.amazon.com/gp/product/B019PHF9UY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019PHF9UY&linkCode=as2&tag=hikeve-20&linkId=30feb4124b44622426b19e9da44bc3a8"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B019PHF9UY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B019PHF9UY" width="1" height="1" border="0" alt="Satechi Type-C USB 3.0 3 in 1 Combo Hub" style="border:none !important; margin:0px !important;" />
 
 The Satechi Type-C USB 3.0 Hub can charge your MacBook and converts a Type-C USB port to two USB 3.0 ports beside the card reader functionalities.
 
-<a href="http://amzn.to/2dBLCMt" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2dBLCMt" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Satechi Type-C USB 3.0 3 in 1 Combo Hub</button></a>
 
 ---
 
-<h2><a href="http://amzn.to/2h0ljzu">MINIX NEO C</a></h2>
+<h2><a href="http://amzn.to/2h0ljzu" rel="nofollow">MINIX NEO C</a></h2>
 
 <a target="_blank"  rel="nofollow"  href="https://www.amazon.com/gp/product/B01ANITHVQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01ANITHVQ&linkCode=as2&tag=hikeve-20&linkId=226c1663e9b3b37332aa6a7be83be271"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01ANITHVQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01ANITHVQ" width="1" height="1" border="0" alt="MINIX NEO C" style="border:none !important; margin:0px !important;" />
 
@@ -72,17 +72,17 @@ The MINIX NEO C is also a quite cersatile solution if you also need additional U
 
 There are two models available. One model comes with HDMI output up to 4K resolution and the other model comes with a VGA output up to 1080p resolution.
 
-<a href="http://amzn.to/2dBLCMt" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2dBLCMt" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the MINIX NEO C</button></a>
 
 ---
 
-<h2><a href="http://amzn.to/2g3gGaJ">Nonda USB-C to USB 3.0 Mini Adapter</a></h2>
+<h2><a href="http://amzn.to/2g3gGaJ" rel="nofollow">Nonda USB-C to USB 3.0 Mini Adapter</a></h2>
 
 If you are not planning to spend much money on a card reader or just want to use your old reader then you can also just get a USB-C to USB 3.0 adapter like the Nonda adapter.
 
 <a target="_blank"  rel="nofollow"  href="https://www.amazon.com/gp/product/B015Z7XE0A/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B015Z7XE0A&linkCode=as2&tag=hikeve-20&linkId=5cd4715015af0c17954d58761c22f9b9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B015Z7XE0A&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B015Z7XE0A" width="1" height="1" border="0" alt="Nonda USB-C to USB 3.0 Mini Adapter" style="border:none !important; margin:0px !important;" />
 
-<a href="http://amzn.to/2dBLCMt" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2dBLCMt" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Nonda USB-C to USB 3.0 Mini Adapter</button></a>
 
 ---
 

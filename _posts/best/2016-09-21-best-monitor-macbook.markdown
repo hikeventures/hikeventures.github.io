@@ -62,7 +62,7 @@ Have a look on our <a href="#list">montori comparison table</a> or see some <a h
 
 The LG 27UD88 is the latest display from Lenovo which features 99% SRGB color gamut, a color depth of 10 bit (8bit + A-FRC) and a response time of 5 ms GTS. The brightness of the screen is 350 cd/m2 and the contrast ratio is 1000 : 1. The screen also has 2 x HDMI 2.0, 1 x DisplayPort (ver1.2) and 2 x USB 3.0. The response time is 5ms.
 
-<a href="http://amzn.to/2dEVRzy" rel="nofollow" target="blank"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2dEVRzy" rel="nofollow" target="blank"><button type="button" class="btn btn-danger">See the LG 27UD88</button></a>
 <!--more-->
 <hr>
 
@@ -71,7 +71,7 @@ The LG 27UD88 is the latest display from Lenovo which features 99% SRGB color ga
 
 The Lenovo ThinkVision X1 has HDMI2.0 and DP1.2 ports a FHD camera with dual-array microphone and stereo speakers. The Lenovo ThinkVision X1 is the world’s 1st monitor with TUV Eye Comfort certification. The monitor has 100% sRGB color gamut. The response time is 6ms.
 
-<a href="http://amzn.to/2dEVRzy" rel="nofollow" target="blank"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2dEVRzy" rel="nofollow" target="blank"><button type="button" class="btn btn-danger">See the Lenovo ThinkVision X1</button></a>
 
 <hr>
 
@@ -81,7 +81,7 @@ The Lenovo ThinkVision X1 has HDMI2.0 and DP1.2 ports a FHD camera with dual-arr
 
 The Dell Ultra HD 5K monitor fffers four times the content than QHD featuring over 14 million pixels and Harman Kardon speakers.
 
-<a href="http://amzn.to/2gEAjqz" rel="nofollow" target="blank"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2gEAjqz" rel="nofollow" target="blank"><button type="button" class="btn btn-danger">See the Dell Ultra HD 5K Monitor UP2715K</button></a>
 
 
 <hr>
@@ -92,7 +92,7 @@ The Dell Ultra HD 5K monitor fffers four times the content than QHD featuring ov
 
 The HP ENVY is a 4K display can power a PC or a mobile device. With a reaction time of 14ms the HP ENVY might not be a monitor for gaming but for everything else this monitor could be a nice solution for an affordable price.
 
-<a href="http://amzn.to/2ikrt0u" rel="nofollow" target="blank"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2ikrt0u" rel="nofollow" target="blank"><button type="button" class="btn btn-danger">See the HP ENVY 27</button></a>
 
 
 <hr>

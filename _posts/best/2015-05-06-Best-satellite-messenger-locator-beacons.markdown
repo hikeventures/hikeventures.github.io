@@ -76,7 +76,7 @@ The main advantage of the ACR is that you don't have to pay a subscription fee t
 
 If messaging is not important for you, then you should go for the ACR ResQlink+ 406. The ACR device is also quite interesting for paddlers since it is able to float.
 
-Alternatively, you will see from the specifications below that the DeLorme devices have slightly more weight but come with more functionalities than the SPOT devices. 
+Alternatively, you will see from the specifications below that the DeLorme devices have slightly more weight but come with more functionalities than the SPOT devices.
 
 ---
 
@@ -98,7 +98,7 @@ Alternatively, you will see from the specifications below that the DeLorme devic
 * Message size: 160 characters
 * Waypoints
 
-<a href="http://amzn.to/2iZEbOB" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2iZEbOB" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Garmin InReach SE+</button></a>
 
 ---
 
@@ -112,7 +112,7 @@ Alternatively, you will see from the specifications below that the DeLorme devic
 * 2GB storage for maps
 * weight: 213 grams
 
-<a href="http://amzn.to/2jM4Pet" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2jM4Pet" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Garmin InReach Explorer+</button></a>
 
 ---
 
@@ -128,7 +128,7 @@ Alternatively, you will see from the specifications below that the DeLorme devic
 * Message size: 41 characters
 * Weight 114 grams
 
-<a href="http://amzn.to/2eTKIN3" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2eTKIN3" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the SPOT Gen3</button></a>
 
 ---
 
@@ -143,7 +143,7 @@ Alternatively, you will see from the specifications below that the DeLorme devic
 * No messaging
 * Weight: 153 grams
 
-<a href="http://amzn.to/2e39b0g" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2e39b0g" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the ACR ResQlink+ 406</button></a>
 
 ---
 
