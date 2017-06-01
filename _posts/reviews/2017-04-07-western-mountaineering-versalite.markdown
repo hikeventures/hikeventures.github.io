@@ -38,7 +38,7 @@ However, as a 3 season sleeping bag I would argue that the WM Versalite is proba
 ---
 
 ## Features
-Now lets get to the specifications of the Western Mountaineering Versalite.   
+Now lets get to the specifications of the Western Mountaineering Versalite.
 
 The Versalite can handle temperatures down to -12 C (10F). Probably I feel cold quite fast but I would say that I feel comfortable with this sleeping bag down to -2C.
 
@@ -57,7 +57,7 @@ However, for Scandinavia this is easily a great sleeping bag which can be used d
 
 A great sleeping pad companion for the WM Versalite is the <a href="http://amzn.to/2og8uXo" rel="nofollow">Therm-a-Rest NeoAir XTherm</a> which weights about 400 grams and which I have also used in Northern Norway (see picture above).
 
-<a href="http://amzn.to/2oI2GY2" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2oI2GY2" rel="nofollow"><button type="button" class="btn btn-danger">See the Western Mountaineering VersaLite</button></a>
 
 ---
 

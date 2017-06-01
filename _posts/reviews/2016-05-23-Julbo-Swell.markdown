@@ -88,7 +88,7 @@ The Julbo Swell checked all boxes which I had from a packrafting sunglass. The J
 
 If I could think of something negative about the Julbo Swell then it would be that the lenses grew damp a few times since there are no openings on the lens where the air could circulate. Fortunately, the lens only grew damp two times during the whole trip and was not a major issue. I would recommend the Julbo Swell to anyone who is looking for light packrafting glasses with a fresh design.
 
-<a href="http://amzn.to/2eAfBDL" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2eAfBDL" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">See the Julbo Swell</button></a>
 
 ---
 

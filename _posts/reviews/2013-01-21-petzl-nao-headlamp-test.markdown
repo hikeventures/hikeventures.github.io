@@ -50,7 +50,7 @@ You can charge the Nao directly on your computer and anything else which has an 
 I have tested the old model of the Petzl Nao headlamp on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden. The Petzl Nao is a pretty strong headlamp and you can charge the Nao via USB. You may also consider a lighter headlamp if you don't need the power of the Petzl Nao. As I do packrafting, there might be also situations where we packraft till late into the night so a brighter headlamp is more useful for me to properly see whats in front of me. I also found it quite comfortable to go jogging with the Petzl Nao.
 
 
-<a href="http://amzn.to/2gDm8Nm"><button type="button" class="btn btn-danger"Buy on Amazon</button></a>
+<a href="http://amzn.to/2gDm8Nm"><button type="button" class="btn btn-danger">See the Petzl Nao+</button></a>
 
 ---
 

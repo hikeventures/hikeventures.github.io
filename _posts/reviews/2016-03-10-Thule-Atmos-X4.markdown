@@ -33,7 +33,7 @@ In general, we also liked the camera lens protection. Even so there is no physic
 
 However, we will test the new Thule Atmos X5 (which is supposed to be waterproof) on our iPhones on our next trip probably in Poland or Japan. If the X5 works as promised it will probably be our outdoor smartphone case of choice for our upcoming hiking and packrafting adventures.
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Thule-Atmos-X4-iPhone-6-Case_10281416_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Thule Atmos X4</button></a>  
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Thule-Atmos-X4-iPhone-6-Case_10281416_10208_10000001_-1_"><button type="button" class="btn btn-danger">See the Thule Atmos X4</button></a>  
 
 ---
 
