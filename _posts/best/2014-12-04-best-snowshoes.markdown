@@ -1,5 +1,5 @@
 ---
-title: Best Lightweight Snowshoes for 2017
+title: Best Snowshoes for 2017
 description: Our selection of the best snowshoes for 2017.
 date: 2016-01-03 09:19:51
 update_date: 2016-12-27 06:00:52

@@ -1,5 +1,5 @@
 ---
-title: Best Lightweight trekking and snowshoeing poles for 2017
+title: Best trekking and snowshoeing poles for 2017
 description: Need new trekking poles for your hiking and snowshoeing adventures? We found the best poles for 2017
 date: 2016-01-03 16:08:38
 update_date: 2016-12-27 06:00:52

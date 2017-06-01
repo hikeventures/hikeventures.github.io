@@ -1,5 +1,5 @@
 ---
-title: Best Lightweight Headlamps for 2017
+title: Best Headlamps for 2017
 description: Find the best headlamps for your next outdoor adventure
 date: 2016-01-03 23:02:20
 update_date: 2016-12-27 06:00:52

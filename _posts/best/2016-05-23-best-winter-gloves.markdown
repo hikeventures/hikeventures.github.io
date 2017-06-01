@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Best lightweight ski gloves 2017
+title: Best ski gloves 2017
 description: The best winter gloves for skiing, snowboarding or snowshoeing
 date: 2016-01-03 19:10:07
 category: articles

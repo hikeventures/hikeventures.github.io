@@ -1,5 +1,5 @@
 ---
-title: Best lightweight solo person backpacking tent in 2017
+title: Best solo person backpacking tent in 2017
 description: Overview of the best solo person backpacking tent for 2017.
 date: 2016-01-03 00:07:07
 category: articles
