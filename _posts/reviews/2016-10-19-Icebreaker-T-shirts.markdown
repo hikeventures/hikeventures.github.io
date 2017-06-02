@@ -112,7 +112,7 @@ That is why this year, when we were preparing for our new Japan trip, she said t
 
 To sum it up, I love my icebreakers because they look nice on me, I can wear them for a long time during trips and in my everyday life and because they keep me warm. And of course, because they "do not stink".
 
-Final comment: Only recently, my wife told me that she would like to ask Santa Claus for a black icebreaker to replace her favourite one which was stolen earlier this year. And I have a feeling that he might grant her that wish.
+Final comment: Only recently, my wife told me that she would like to ask Santa Claus for a black icebreaker to replace her favorite one which was stolen earlier this year. And I have a feeling that he might grant her that wish.
 
 ---
 

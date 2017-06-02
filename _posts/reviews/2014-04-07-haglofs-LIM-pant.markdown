@@ -29,7 +29,7 @@ Elastic straps on your ankles keeps dirt and water out.
 
 The only downside on the Haglöfs L.I.M III pants are that they are made out of Gore-Tex Paclite which I found not that breathable as other fabrics (also there might be not that much difference as most waterproof garments will cause condensation once you start your outdoor activity). However, if you are looking for rain pants to use in an emergency situation and which packs light then the Haglöfs L.I.M III Pant might be the right pants for you due to it's low weight and long side-zippers. [Here][1] you can find more rain pants which I would consider to buy.
 
-<a href="http://www.backcountry.com/haglfs-l.i.m.-iii-pant-mens"><button type="button" class="btn btn-danger">Read more about the Haglöfs L.I.M. III pant</button></a>
+<a href="http://www.backcountry.com/haglfs-l.i.m.-iii-pant-mens"><button type="button" class="btn btn-danger">See the Haglöfs L.I.M. III pant</button></a>
 
 ---
 

@@ -30,7 +30,7 @@ The Steripen Freedom weights only 75 grams and rechargeable via USB (e.g. with a
 ## Recommendation
 I have used the Steripen Freedom in combination with a ceramic filter in order to achieve the best results. I have tested the Steripen Freedom on our [trip to Sarek][3] in Sweden. However, water filters are in most cases not really needed there but it's still good to filter particles out with a ceramic filter.
 
-<a href="https://www.rei.com/product/896170/steripen-freedom-solar-bundle-water-purifier"><button type="button" class="btn btn-danger">Read more about the Steripen Freedom</button></a>
+<a href="https://www.rei.com/product/896170/steripen-freedom-solar-bundle-water-purifier"><button type="button" class="btn btn-danger">See the Steripen Freedom</button></a>
 
 ---
 

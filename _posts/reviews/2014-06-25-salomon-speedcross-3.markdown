@@ -34,7 +34,7 @@ Moreover, I also found the Quicklace™ quite interesting as there is no bumblin
 
 Looking at the sole of the Speedcross 3 it seems to me quite obvious that the shoe should have a very good grip which should perform great in muddy conditions. Personally, I wouldn't wear this shoe if I would go on a trip to <a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/">Sarek National Park</a> since I had constantly wet feet with my old trail runners there but for shorter trips or for trips in more dry conditions the Speedcross 3 should be a good alternative to a normal hiking boot. The only issue I had with this shoe is that it might be very slippery on wet stone. Also when you are planning to carry a lot of gear then a more supportive or traditional hiking boots would make more sense.
 
-<a href="http://www.backcountry.com/salomon-speedcross-3-climashield-trail-running-shoe-mens"><button type="button" class="btn btn-danger">Read more about the Salomon Speedcross</button></a>
+<a href="http://www.backcountry.com/salomon-speedcross-3-climashield-trail-running-shoe-mens"><button type="button" class="btn btn-danger">See the Salomon Speedcross</button></a>
 
 ---
 

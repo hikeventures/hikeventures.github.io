@@ -46,7 +46,7 @@ Petzl Meteor 3+ helmet worked well on our packrafting trip in the Netherlands.
 ## Recommendation
 The Petzl Meteor 3+ is comfortable to wear and a lightweight helmet which can easily be transported on your backpack along your outdoor trips. It's just worth to have some additional safety especially on your head since rivers can be unpredictable and you may also lose control of your packraft. The helmet also vents nicely so I was not really sweating under it. It's also possible to wear some sort of fleece cap under it if you plan to go packrafting during the colder days of the year.
 
-<a href="http://www.usoutdoor.com/petzl-charlet/petzl-meteor-iii-plus-climbing-helmet/"><button type="button" class="btn btn-danger">Read more about the Petzl Meteor 3</button></a>
+<a href="http://www.usoutdoor.com/petzl-charlet/petzl-meteor-iii-plus-climbing-helmet/"><button type="button" class="btn btn-danger">See the Petzl Meteor 3</button></a>
 
 ---
 

@@ -58,7 +58,7 @@ HMG Porter 4400 on our trip in <a href="http://www.hikeventures.com/hiking-and-p
 ## Recommendation
 I have tested the HMG Porter 4400 for a couple of years on hiking and packrafting trips. On long backpacking trips saving weight is quite important. I wouldn't say that the HMG Porter 4400 is super durable (I got 2 tiny wholes in my backpack after 3 years), however there is hardly any gear available which will not wear off after some time. Having a somewhat waterproof backpack and saving 1-2 kg on weight due to the lower weight of the Porter its quite worth the investment. I am going to patch the holes in my backpack and then it should be fine for another 1-2 years.
 
-<a href="https://www.hyperlitemountaingear.com/4400-porter.html"><button type="button" class="btn btn-danger">Read more about the HMG Porter 4400</button></a>  
+<a href="https://www.hyperlitemountaingear.com/4400-porter.html"><button type="button" class="btn btn-danger">See the HMG Porter 4400</button></a>  
 
 ---
 
