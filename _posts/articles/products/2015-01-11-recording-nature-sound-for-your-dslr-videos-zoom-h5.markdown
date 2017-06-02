@@ -57,7 +57,7 @@ You could also buy the new <a href="http://amzn.to/2dUJ64d" rel="nofollow" targe
 
 It's always good to protect your electronic devices when you work outdoors. Zoom offers a protective case - the <a href="http://amzn.to/2eG64un" rel="nofollow" target="_blank">Zoom PCH-5</a> which comes with a fold-away clear window cover for making adjustments, removable mic element cover, belt loop, boom pole sleeve and keyring mounting options.
 
-<a href="http://amzn.to/2eG64un" rel="nofollow"><button class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2eG64un" rel="nofollow"><button class="btn btn-danger">See the Zoom H5</button></a>
 
 
 ---
@@ -71,7 +71,7 @@ It's always good to protect your electronic devices when you work outdoors. Zoom
 - Battery switch with "Low Batt" indicator
 - Rugged all-metal housing
 
-<a href="https://www.amazon.com/gp/product/B00FX8V3SC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FX8V3SC&linkCode=as2&tag=hikeve-20&linkId=3aa4b145ca3f3324fd64485a61572ae2" rel="nofollow"><button class="btn btn-danger">Buy on Amazon</button></a>
+<a href="https://www.amazon.com/gp/product/B00FX8V3SC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FX8V3SC&linkCode=as2&tag=hikeve-20&linkId=3aa4b145ca3f3324fd64485a61572ae2" rel="nofollow"><button class="btn btn-danger">See the Sennheiser MKE 600</button></a>
 
 
 ---
@@ -81,7 +81,7 @@ It's always good to protect your electronic devices when you work outdoors. Zoom
 
 The Sennheiser MKE 600 comes with a foam windshield and a shock mount. However I might also consider getting a Rycote 15cm Classic-Softie (19/22) for outdoor recording like the <a href="http://amzn.to/2eFD5po" rel="nofollow" target="_blank">Sennheiser MZH 600</a>.
 
-<a href="http://amzn.to/2eFD5po" rel="nofollow"><button class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2eFD5po" rel="nofollow"><button class="btn btn-danger">See the Sennheiser MKE 600 Windshield</button></a>
 
 
 ---
@@ -92,14 +92,14 @@ Rycote InVision Video Mic Lyre Shockmount</a> to attach my Sennheiser MKE 600 to
 
 <a href="https://www.amazon.com/gp/product/B002YN87TC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002YN87TC&linkCode=as2&tag=hikeve-20&linkId=5f90b9756621b31c6852a03052a06213" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B002YN87TC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20"  rel="nofollow" target="_blank"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B002YN87TC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="https://www.amazon.com/gp/product/B002JBFCKQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002JBFCKQ&linkCode=as2&tag=hikeve-20&linkId=fdba43b0525dc406576809977d70dd60" rel="nofollow"><button class="btn btn-danger">Buy on Amazon</button></a>
+<a href="https://www.amazon.com/gp/product/B002JBFCKQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002JBFCKQ&linkCode=as2&tag=hikeve-20&linkId=fdba43b0525dc406576809977d70dd60" rel="nofollow"><button class="btn btn-danger">See the Rycote Shockmount</button></a>
 
 
 If I plan to attach both - a LED light (see below) and my Sennheiser MKE - to my Sony A7, then I attach also mount a <a href="http://amzn.to/2eH2pwO" rel="nofollow" target="_blank">Rycote 20cm Hot Shoe Extension</a> on my Sony A7.
 
 <a href="https://www.amazon.com/gp/product/B002JBFCKQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002JBFCKQ&linkCode=as2&tag=hikeve-20&linkId=fdba43b0525dc406576809977d70dd60"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B002JBFCKQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20"  rel="nofollow" target="_blank"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B002JBFCKQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="https://www.amazon.com/gp/product/B002JBFCKQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002JBFCKQ&linkCode=as2&tag=hikeve-20&linkId=fdba43b0525dc406576809977d70dd60" rel="nofollow"><button class="btn btn-danger">Buy on Amazon</button></a>
+<a href="https://www.amazon.com/gp/product/B002JBFCKQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002JBFCKQ&linkCode=as2&tag=hikeve-20&linkId=fdba43b0525dc406576809977d70dd60" rel="nofollow"><button class="btn btn-danger">See the Rycote 20cm Hot Shoe Extension</button></a>
 
 
 ---
@@ -125,7 +125,7 @@ I will most likely test the <a href="http://amzn.to/1yTJDZs" rel="nofollow">Zoom
 
 Obviously, with the equipment mentioned above you should get great audio quality for your videos. To improve your videos and pictures I would also recommend an additional LED light. I recently discovered that Manfrotto has a really nice and compact LED light - the <a href="http://amzn.to/2eG3GnK" rel="nofollow" target="_blank">Manfrotto LUMIMUSE 8 LED Light</a> - which I am planning to use for indoor or night filming. It should also work quite well to take along on hiking trips since it is so compact.
 
-<a href="http://amzn.to/2eG3GnK" rel="nofollow"><button class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2eG3GnK" rel="nofollow"><button class="btn btn-danger">See the Manfrotto Lumimuse</button></a>
 
 ---
 

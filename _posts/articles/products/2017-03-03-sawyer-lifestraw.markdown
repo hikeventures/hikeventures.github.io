@@ -37,7 +37,7 @@ In this article I am going discuss if you should choose the Sawyer Mini, MSR Tra
          <tr><td>lifetime (liters)</td><td>1000</td><td>350000</td><td>2000</td></tr>
          <tr><td>viruses</td><td>no</td><td>no</td><td>no</td></tr>
          <tr><td>carbon filter</td><td>no</td><td>no</td><td>no</td></tr>
-         <tr><td>&nbsp;</td><td><a rel="nofollow" href="http://amzn.to/2kOYYW6" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a></td><td><a rel="nofollow" href="http://amzn.to/2lZIqQl" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a></td><td><a rel="nofollow" href="http://amzn.to/2qdeoXm" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a></td></tr>
+         <tr><td>&nbsp;</td><td><a rel="nofollow" href="http://amzn.to/2kOYYW6" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See LifeStraw Personal</button></a></td><td><a rel="nofollow" href="http://amzn.to/2lZIqQl" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See Sawyer Mini</button></a></td><td><a rel="nofollow" href="http://amzn.to/2qdeoXm" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See MSR Trailshot</button></a></td></tr>
         </tbody></table>
 </div>
 
@@ -58,7 +58,7 @@ When would I pick the LifeStraw filter?
 
 Probably, if I would like to have a backup solution with me or if I am planning to hike nearby a river where I don't want to carry a heavy water bottle with me. I could just take the LifeStraw and take a sip out of the river.
 
-<a href="http://amzn.to/2kOYYW6" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2kOYYW6" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the LifeStraw Personal</button></a>
 
 <hr>
 
@@ -75,7 +75,7 @@ Usually, I always filter water before I use it. This is also the case when I pre
 Moreover, I am also able to remove small particels by using a filter.
 
 
-<a href="http://amzn.to/2lZIqQl" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2lZIqQl" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Sawyer Mini</button></a>
 
 <hr>
 
@@ -85,7 +85,7 @@ Moreover, I am also able to remove small particels by using a filter.
 
 The MSR TrailShot is the latest product in this list and it's probably going to replace my Sawyer Mini. The Inlet Hose and the pump might be quite useful and more convenient to get clean water compared to the Sawyer Mini filter. However, these additional features also come with a little bit more weight (which I don't mind).
 
-<a href="http://amzn.to/2qdeoXm" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See on Amazon</button></a>
+<a href="http://amzn.to/2qdeoXm" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the MSR TrailShot</button></a>
 
 ---
 
