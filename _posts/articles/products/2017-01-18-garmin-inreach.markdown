@@ -37,7 +37,7 @@ Below you can see Konstantin while hiking in Japan. On the back of his backpack 
 <tr><td>memory for maps (GB)</td><td>0</td><td>0</td><td>0</td><td>2</td></tr>
 <tr><td>waypoints</td><td>-</td><td>yes</td><td>yes</td><td>yes</td></tr>
 <tr><td>routing</td><td>-</td><td>yes</td><td>yes</td><td>yes</td></tr>
-<tr><td></td><td><a href="http://amzn.to/2kLnckb" rel="nofollow"><button class="btn btn-danger">See the inReach SE</button></a></td><td><a href="http://amzn.to/2k8DyVd" rel="nofollow"><button class="btn btn-danger">See the InReach Explorer</button></a></td><td><a href="http://amzn.to/2jK4zQg" rel="nofollow"><button class="btn btn-danger">See the inReach SE+</button></a></td><td><a href="http://amzn.to/2kj53gC" rel="nofollow"><button class="btn btn-danger">See the inReach Explorer+</button></a></td></tr>
+<tr><td></td><td><a href="http://amzn.to/2kLnckb" rel="nofollow"><button class="btn btn-danger">See inReach SE</button></a></td><td><a href="http://amzn.to/2k8DyVd" rel="nofollow"><button class="btn btn-danger">See InReach Explorer</button></a></td><td><a href="http://amzn.to/2jK4zQg" rel="nofollow"><button class="btn btn-danger">See inReach SE+</button></a></td><td><a href="http://amzn.to/2kj53gC" rel="nofollow"><button class="btn btn-danger">See inReach Explorer+</button></a></td></tr>
 
 
 
