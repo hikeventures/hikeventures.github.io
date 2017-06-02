@@ -165,5 +165,3 @@ Then I found an area covered with little rocks.
 [![Kurjenrahka National Park](https://farm4.staticflickr.com/3895/15189729870_f2726d3bc6_b.jpg)](https://www.flickr.com/photos/90204224@N07/15189729870 "Kurjenrahka National Park Vajosuo and Takaniitunvuori")
 
 And finally reach Pukkipalo where I parked my car. Below the map with the second part of my hike from Pukkipalo to Takaniitunvuori.
-
-{% include store.html %}

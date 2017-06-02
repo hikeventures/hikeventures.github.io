@@ -15,5 +15,3 @@ Finally, we had some time to get our Sarek video done as promised in our previou
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/76995626"></iframe>
 </div>
-
-{% include store.html %}

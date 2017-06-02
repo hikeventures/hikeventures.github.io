@@ -102,6 +102,3 @@ On the whole, it was a nice short trip, which allowed us to say goodbye to autum
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/23195345449/in/dateposted-public/" title="sIMG_3105"><img src="https://farm1.staticflickr.com/731/23195345449_a5f4539978_b.jpg" width="100%" alt="sIMG_3105"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <br><br>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/22935057104/in/dateposted-public/" title="sIMG_3011"><img src="https://farm6.staticflickr.com/5644/22935057104_c6d146577d_b.jpg" width="100%" alt="sIMG_3011"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
-{% include store.html %}

@@ -20,6 +20,3 @@ Here comes a short video about our Hiking and Packrafting adventure together wit
 **Trip Reports:**   
 [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/)    
 [Northern Norway](http://www.hikeventures.com/Finnmark/)   
-
-{% include banner_ad.html %}
-{% include store.html %}

@@ -110,5 +110,3 @@ The trail around Savojärvi was truly beautiful. Hiking through a swamp always r
 After a few kilometers we arrived at the Kurjenpesä Nature Cabin where we walked down to the lake. The infrastructure to the lake was really good and makes the lake easy to reach if you visit it with a pram or as an elderly.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30047565316/in/dateposted-public/" title="Kurjenrahka National Park Finland"><img src="https://c5.staticflickr.com/6/5714/30047565316_de32111ad9_k.jpg" width="2048" height="1152" alt="Kurjenrahka National Park Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-{% include store.html %}

@@ -163,5 +163,3 @@ When the sun started to set we decided to look for a place where we could step o
 Then it was time to crawl into our sleeping bags where we reviewed the day and our experiences and slowly fell aslpeep under the stars while listening to the flow of the river dee.
 
 Continue reading about day 2 and 3 of our packrafting trip in Scotland [here](http://www.hikeventures.com/Packrafting-River-Dee-Scotland-2/).
-
-{% include store.html %}

@@ -31,6 +31,3 @@ There is just over a week left before the trip and Marta and I have ‘reisefieb
 This video is a glimpse of what we did last year. We hiked in the Northern Alps between Tateyama and Kamikochi. We paddled parts of the Shimanto river and went ‘glamping’ in Shikoku. We descended from Odai-Ga-Hara mountain and hiked through a deep gorge to Osugi. We saw the rise of the red sun over the ocean. And much, much more…
 
 Last year we enjoyed every step of this adventure, regardless how wet, hot or sweaty it was at times. And now we are ready and looking for more. Japan, here we come…
-
-
-{% include store.html %}

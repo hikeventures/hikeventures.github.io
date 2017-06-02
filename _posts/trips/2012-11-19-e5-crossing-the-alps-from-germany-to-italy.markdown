@@ -105,8 +105,6 @@ View towards the Dolomites in South Tyrol.
 
 On our last day we hiked from the Meraner Hut to Bozen and then took the bus back to Oberstdorf. I can warmly recommend this trip. You may also meet like-minded hikers during the trip or on the huts as well and enjoy the great Austrian and Italian kitchen.
 
-{% include store.html %}
-
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
 amzn_assoc_search_bar = "false";

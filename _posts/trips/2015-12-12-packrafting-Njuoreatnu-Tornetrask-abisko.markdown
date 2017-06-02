@@ -90,5 +90,3 @@ Konstantin presenting some of the gear we decided to take on our packrafting tri
 <a href="http://www.movescount.com/moves/move72299409">Here</a> you can find the GPS data of day 1 from our packrafting trip on the Njuoreatnu river.
 
 Interested how it continues? <a href="http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko-day-2/">Here</a> you can read about day 2 of our adventure ...
-
-{% include store.html %}

@@ -147,8 +147,4 @@ Well, this was our packrafting trip to the river Dee. It would have been interes
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/SRuUvxdM5XA"></iframe>
 </div>
 
-
-
 Interested in more packrafting stories? Read about the [first Swedish Packrafting Round-Up](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/) which was our next packrafting trip.
-
-{% include store.html %}

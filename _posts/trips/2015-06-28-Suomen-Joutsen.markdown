@@ -49,6 +49,3 @@ The anker of the Suomen Joutsen.<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/19138034491" title="Suomen Joutsen"><img src="https://c1.staticflickr.com/1/526/19138034491_99c2fc2a59_o.jpg" width="992" height="1323"alt="Best places to visit in Turku - Suomen Joutsen Compass Sightseeing Turku Travel Tourism"></a>
 
 I have paid around 6 EUR entrance fee to visit the Suomen Joutsen. I would say the visit was quite worth the money. There are also 2 people employed to maintain the Suomen Joutsen. There has been not many modifications to the boat and as far as I understood the boat would need several modifications in order to make it ready for sailing to meet the current technological requirements which would change the ship from it's original appearance quite significantly.
-
-
-{% include store.html %}

@@ -17,6 +17,3 @@ Today we had quite good weather here in Finland to go windpaddle sailing with my
 </div>
 
 <strong>Update:</strong> Some people asked me where they can buy those sails. There are Windpaddle sails in different sizes available: <a href="http://amzn.to/1O0IdQw">Scout</a>, <a href="http://amzn.to/1NOQXeV">Adventure</a> and <a href="http://amzn.to/1O0I4ge">Cruiser</a> size. You can also get them at <a href="http://www.packrafting-store.de/Extras/Anfibio-Packrafting-Sail-by-WindPaddle::586.html">Packrafting-store</a> if you live in Europe. I would recommend a larger size like the Adventure or Cruiser if you want to get some speed.
-
-{% include banner_ad.html %}
-{% include store.html %}

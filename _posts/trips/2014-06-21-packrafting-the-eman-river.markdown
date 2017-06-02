@@ -119,7 +119,6 @@ Even so we slept under the open sky we were able to sleep well until 9 am.
 
 In general, the route seems to be manageable also for "experienced beginners" if you know where to step out and skip the risky parts (especially where the dams are or if you see obstacles like a fallen tree on a rapid). If you have only time for 1 day we would definitely recommend the part between Fliseryd and Påskallavik.
 
-{% include store.html %}
 
 ## Links
 <a href="http://www.movescount.com/moves/move33882499" target="_blank">GPS Data Day 1</a>   

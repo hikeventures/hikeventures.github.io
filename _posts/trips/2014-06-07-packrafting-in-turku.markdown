@@ -37,5 +37,3 @@ Today, I packed my packraft and went to the coast of Turku in order to exercise 
 <iframe src="https://vimeo.com/139116823" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br><br>And a short video ...
 ##Links
 <a href="http://www.movescount.com/moves/move33230408" target="_blank">GPS Data</a>
-
-{% include store.html %}

@@ -17,6 +17,3 @@ On our packrafting trip in Sweden we had our first camp on a small remote island
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/136897042"></iframe>
 </div>
-
-{% include banner_ad.html %}
-{% include store.html %}

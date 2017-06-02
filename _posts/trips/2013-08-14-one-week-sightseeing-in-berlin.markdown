@@ -160,6 +160,3 @@ Russian war memorial - Treptow park
 <a href="http://www.flickr.com/photos/90204224@N07/9511039272/"><img src="http://farm8.staticflickr.com/7348/9511039272_d0414b2998_c.jpg" width="1150" alt="Berlin"></a>
 
 Berlin was really worth to visit for sightseeing. Plenty of restaurants, museums and entertainment keeps you busy well over a week. Berlin is also a quite international city even though you can find it hard to find signs in English when using public transportation.
-
-
-{% include store.html %}

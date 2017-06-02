@@ -46,5 +46,3 @@ Kullavuori watch tower.
 
 ## Conclusion
 Turku is a nice place to start exploring the Archipelago but there are also nice places nearby to explore on land like the Kullavuori or the [Kurjenrahka National Park](http://www.hikeventures.com/autumn-colors-around-lake-savojarvi/). There is also a trail which you can hike from Kullavuori to the Kurjenrahka National Park.
-
-{% include store.html %}

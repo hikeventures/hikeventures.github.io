@@ -108,5 +108,3 @@ Blaserturm in Ravensburg
 <a href="http://www.ravensburg.de/">Official website of Ravensburg</a><br>
 <a href="http://en.wikipedia.org/wiki/Pf%C3%A4nder">Pfander - Wikipedia</a><br>
 <a href="http://www.bodnegg.de/">Official website of Bodnegg (only in German available)</a></div></div>
-
-{% include store.html %}

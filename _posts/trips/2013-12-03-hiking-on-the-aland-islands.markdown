@@ -146,8 +146,6 @@ After my hiking trip, I went back to the harbour and returned to Turku.
 
 The Aland Islands are great for hiking and cycling. It's also not too demanding since the islands are rather flat. The Aland Islands is also a great adventure for the whole family. Definitely worth a visit!
 
-{% include store.html %}
-
 ## Links
 <a href="http://www.kokar.ax/en" target="_new">K&ouml;kar</a><br>
 <a href="http://www.nationalparks.fi/hikinginfinland/wheretogo/thearchipelagos" target="_new">Archipelago National Park on Outdoors.fi</a>

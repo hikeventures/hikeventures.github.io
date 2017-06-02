@@ -92,5 +92,3 @@ Finnish flag on the sunshine deck of the Viking Grace.
 <br><br><a href="https://www.flickr.com/photos/90204224@N07/19138034831" title="2015-05-31 16.50.02"><img src="https://c1.staticflickr.com/1/351/19138034831_77cb943522_o.jpg" width="992" height="744" alt="Flag pole on the Viking Grace"></a><br>
 
 In general it was a nice weekend trip. I was a bit disappointed however that all the shops were closed in Mariehamn on Saturday. Fortunately, there were some interesting museums to visit. Next time when I am going to visit Aland I am planning to explore the area outside of Mariehamn including a visit to the castle and some hiking or biking.
-
-{% include store.html %}

@@ -67,5 +67,3 @@ Once back in the National Park the scenery changed again.
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28769027071/in/dateposted-public/" title="Teijo National Park Finland"><img src="https://c8.staticflickr.com/9/8646/28769027071_11f570ecdb_k.jpg" width="2048" height="1152" alt="Teijo National Park Finland Trail"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Teijo National Park is a great place to escape to the nature, it's close to Turku and offers plenty of facilities. I will probably come back here in a few months during the winter to try out some winter camping.
-
-{% include store.html %}

@@ -186,8 +186,6 @@ A break for our exhausted packrafts while we had lunch.
 
 After lunch we went north towards Kleine Belterweijde and then east along the Schutsloot towards Belterwijde where we paddled under a bridge (close to the place where we arrived by bus) and then went northwest along the road towards Blauwe Hand where we packed our backpacks andwalked along Beulakerweg towards Giethoorn.
 
-{% include store.html %}
-
 ## Links
 <a href="http://www.np-weerribbenwieden.nl/node/26" target="_blank">Werribben Wieden webpage (only in Dutch)</a>
 

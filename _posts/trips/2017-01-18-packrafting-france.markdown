@@ -14,5 +14,3 @@ Last year Konstantin has been on a four day packrafting course which was held by
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/196866969"></iframe>
 </div>
-
-{% include store.html %}

@@ -83,9 +83,6 @@ In general, we were satisfied with the MSR snowshoeing gear and we would recomme
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24251132954/in/dateposted-public/" title="Snowshoeing in Montafon, Vorarlberg in Austria"><img src="https://farm2.staticflickr.com/1454/24251132954_5625b1c4d3_b.jpg" width="100%" alt="Snowshoeing in Montafon, Vorarlberg in Austria"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-
-{% include store.html %}
-
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
 amzn_assoc_search_bar = "false";

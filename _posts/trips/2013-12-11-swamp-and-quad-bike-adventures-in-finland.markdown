@@ -44,5 +44,3 @@ The wilderness cottage is usually available for groups and offers meeting rooms,
   </div>
   <div class="panel-body">
 <a href="http://www.reinontupa.fi/?l=en&" target="_blank">Reinon Tupa wilderness cottage</a></div></div>
-
-{% include store.html %}

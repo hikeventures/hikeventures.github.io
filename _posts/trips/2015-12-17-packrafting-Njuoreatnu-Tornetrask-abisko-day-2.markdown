@@ -112,8 +112,6 @@ It was slowly getting dark but we continued paddling until we reached another is
 
 Here you can read more about [day 3][6] of our trip in the Swedish mountains soon on our blog. In the meantime you can [read][7] about our packrafting adventure on the cleanest lake of Sweden.
 
-{% include store.html %}
-
 [1]:	http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/ "packrafted"
 [2]:	http://amzn.to/1Ys29VK "Ambit3"
 [3]:	http://amzn.to/1OGOzna

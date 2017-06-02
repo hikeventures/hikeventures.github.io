@@ -36,5 +36,3 @@ At the dam we left the river. There were still some rapids ahead of us but we de
 You can find the GPS data of the trip <a href="http://www.movescount.com/moves/move68389841">here</a>.
 
 In our next post I will write about a hike from Jagniąntków to the Polish - Czech border and then I also try to find some time to create a short movie with our GoPro footage from this trip. More soon on HikeVentures...
-
-{% include store.html %}

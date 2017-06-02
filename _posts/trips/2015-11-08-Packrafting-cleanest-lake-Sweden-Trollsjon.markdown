@@ -87,5 +87,3 @@ The wind was strong enough for me to use my \<a href="http://amzn.to/1SyKGUv"\>w
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
 Want to read more about our trips in Scandinavia? Have a look on our <a href="http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/">packrafting trip</a> in the Swedish mountains.
-
-{% include store.html %}

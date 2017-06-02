@@ -37,8 +37,6 @@ I still have to discover the Teijo National Park and the light towers in this ar
 Beside the Archipelago Sea I can also recommend a visit to the [Urho Kekkonen National Park][4] in Finnish Lapland.
 
 
-{% include store.html %}
-
 [1]:	http://www.hikeventures.com/Paddling-the-Archipelago-Sea/ "Archipelago Boating"
 [2]:	http://www.hikeventures.com/hiking-on-the-aland-islands/ "Kökar Aland Islands"
 [3]:	http://www.hikeventures.com/Naantali/ "Naantali"

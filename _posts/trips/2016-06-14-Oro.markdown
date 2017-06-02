@@ -267,5 +267,3 @@ If you prefer to cycle, there is also the [Coastal Trail Bicycle Route](http://w
 ## Video
 
 [Here](http://www.hikeventures.com/oro-video/) you can watch our video from Örö.
-
-{% include store.html %}

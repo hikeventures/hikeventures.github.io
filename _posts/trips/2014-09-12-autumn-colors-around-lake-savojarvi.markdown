@@ -99,5 +99,3 @@ Again, well marked trails.
 Finally, I found the ultimate mushroom spot on the whole trail.
 
 To sum up, this was a great hike and I will come back another time in order to explore the Takaniitunvuori outlook and Vajosuo. <a href="http://www.hikeventures.com/autumn-colors-around-lake-savojarvi/">2 years</a> later I went for another hike to Kujenrahka National Park.
-
-{% include store.html %}

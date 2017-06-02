@@ -219,5 +219,3 @@ Enjoyed a last view from the next bridge and then I arrived in Turku.
 
 # Conclusion
 I really enjoyed this bicycle trip but I would only recommend the part from Kustavi to Turku. The part between Turku and Kustavi is not that exciting except the city of Naantali (one of the highlights on this trip) and maybe the Askainen Knights Park and Louhisaari Manor (which I did not visit). Also I was cycling quite fast so you should probably add another day into your itinerary in case you are planning to cycle The Turku Archipelago Trail as well. It might be also a good idea to spend a few days on the islands to explore them or to relax especially if the scenery is new for you.
-
-{% include store.html %}

@@ -61,7 +61,6 @@ It's a really nice experience to take a ferry from Finland to Sweden and experie
 
 The price of the cruise depends on the booking situation. The Viking Line tickets also get more expensive if you stay over night in Stockholm or Turku rather than taking the evening ferry back. It's also good to take a [wind jacket][2] or a [rain jacket][3] if you plan to stay for a longer period on deck.
 
-{% include store.html %}
 
 [1]:	http://www.vikinggrace.com "Viking Grace"
 [2]:	http://www.hikeventures.com/best-windjackets/ "wind jackets"

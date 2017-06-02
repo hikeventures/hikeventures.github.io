@@ -50,5 +50,3 @@ At the Naantalie museo in Maanerheiminkatu you can see how people lived in old t
 <a href="https://www.flickr.com/photos/90204224@N07/18946905360" ><img src="https://c1.staticflickr.com/1/406/18946905360_9dbe593cf6_o.jpg" width="100%"  alt="Naantali City museum" ></a>
 
 Naantali is definitely worth a visit because of it's location next to the sea, the old buildings and it's history and of course the restaurants which are located at the harbour with their magnificent view towards the sea and <a href="https://en.wikipedia.org/wiki/Kultaranta">kultaranta</a> - the summer residence of the President of Finland which I am going to visit in August once I am back from our hiking adventure in Northern Sweden. There is also something for kids called Muumin World in case you want to travel to Naanatali with your whole family.
-
-{% include store.html %}

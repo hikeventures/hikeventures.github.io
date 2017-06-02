@@ -30,7 +30,6 @@ Northern Lights are caused by the collision of energetic charged particles with 
 
 Unfortunately, northern lights are not that common in Vaasa and there also needs to be a clear sky in order to see them. Heading a bit more north to Oulu offers more opportunities to spot northern lights if you are in Finland.
 
-{% include store.html %}
 
 [1]:	https://aaltodoc.aalto.fi/handle/123456789/979
 [2]:	http://www.flickr.com/photos/90204224@N07/8566804142/

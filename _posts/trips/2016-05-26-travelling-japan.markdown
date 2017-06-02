@@ -14,7 +14,3 @@ Last year in July two very important things happened in my life – Marta and I 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="//www.youtube.com/embed/Sfyzet0-9c0"></iframe>
 </div>
-
-{% include banner_ad.html %}
-
-{% include store.html %}
