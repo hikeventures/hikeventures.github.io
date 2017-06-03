@@ -50,7 +50,7 @@ In this article I am going discuss if you should choose the Sawyer Mini, MSR Tra
 
 The Lifestraw Personal Water Filter is a solution which does not need to be assembled like the LifeStraw water filter. It works (as you might have guessed) like a straw.
 
-However, there are certain disadvantages with the LifeStraw comparted to the Sawyer. First of all, it's not a solution to filter water in a bottle. So if you are planning to hike in a really dry area where you won't find any rivers etc. you might have the wrong water filter with you.
+However, there are certain disadvantages with the LifeStraw compared to the Sawyer. First of all, it's not a solution to filter water in a bottle. So if you are planning to hike in a really dry area where you won't find any rivers etc. you might have the wrong water filter with you.
 
 Another disadvantage of the LifeStraw is that it is not able to clean as much water as the Sawyer. So for longer trips I would rather take the Sawyer with me than the LifeStraw.
 
@@ -72,7 +72,7 @@ Even so the filter needs a little bit of assembling work before you can use it I
 
 Usually, I always filter water before I use it. This is also the case when I prepare lunch or dinner and have to boil water. I know, boiling water would also kill the bacterias but it's just a habit.
 
-Moreover, I am also able to remove small particels by using a filter.
+Moreover, I am also able to remove small particles by using a filter.
 
 
 <a href="http://amzn.to/2lZIqQl" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Sawyer Mini</button></a>
@@ -91,7 +91,7 @@ The MSR TrailShot is the latest product in this list and it's probably going to 
 
 ## Conclusion
 
-Chosing a water filter system is of course a personal choice. In my case I like to have a water filter which does the job, is leighweight and has a long lifespan. Having used the Sawyer Mini for a long time I am quite excited to use the additional features of the MSR TrailShot.
+Choosing a water filter system is of course a personal choice. In my case I like to have a water filter which does the job, is lightweight and has a long lifespan. Having used the Sawyer Mini for a long time I am quite excited to use the additional features of the MSR TrailShot.
 
 ---
 
