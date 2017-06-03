@@ -1,5 +1,5 @@
 ---
-title: Waterproof Maps for Hiking and Packrafting
+title: Waterproof Hiking and Packrafting Maps
 description: Forget traditional paper maps. Waterproof maps are the way to go
 date: 2013-07-19 07:30:00
 category: reviews
