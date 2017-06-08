@@ -10,11 +10,9 @@ tags:
   - jackets
 layout: post
 ---
-Here is my selection of the best fleece jackets for 2017.  Are you planning an outdoor adventure to a place where it's wet or humid? Then you should have a warm lightweight fleece jacket in your backpack.  
+Here is my selection of the best fleece jackets for 2017 which I would select for my next hiking or backpacking trip. Fleece jackets are also quite good for outdoor adventures to humid or wet places compared to a [down jacket](http://www.hikeventures.com/best-down-jackets/) which might lose it's insulation once it get's wet. A warm lightweight fleece jacket should definitely be in your backpack.  
 
-For wet conditions a fleece jacket is a much better choice than a [down jacket](http://www.hikeventures.com/best-down-jackets/) to protect yourself against the cold as down will lose it's insulation once it's wet.   
-
-A fleece jacket can be used as a mid-layer to keep you warm while you are active (climbing, hiking, skiing or biking) and dries rather fast compared to other fabrics like cotton.  
+A fleece jacket can be used as a mid-layer to keep you warm while you are active and dries rather fast compared to other fabrics like cotton.  
 
 **Update**: Most recently, I bought the [Power Houdi](http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fhoudini-power-houdi-full-zip-hooded-fleece-sweatshirt-mens) which is now my go-to fleece jackets on all my trips. I really like that it feels soft on the skin and adapts well to movements.  
 
