@@ -69,8 +69,6 @@ Also consider taking lightweight waterproof [rain pants][1] with you. Also have 
 </div>
 <!--more-->
 
-<hr>
-
 <h3><a href="http://amzn.to/2e34CD3" target="_blank" rel="nofollow">Berghaus Vapourlight Hyper Smock 2.0</a></h3>
 
  <a rel="nofollow" href="http://www.amazon.com/gp/product/B00SHH9E3W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SHH9E3W&linkCode=as2&tag=hikeve-20&linkId=FCQDAPPO56OTZDB3"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SHH9E3W&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00SHH9E3W" width="1" height="1" border="0" alt="Berghaus Vapourlight Hyper Smock 2.0" style="border:none !important; margin:0px !important;" />
