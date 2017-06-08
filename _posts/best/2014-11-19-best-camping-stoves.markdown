@@ -165,7 +165,7 @@ It all depends on your requirements. Do you need a simple and lightweight campin
 
 My preference goes towards a camping stove which boils water quickly and uses low amount of fuel as I am usually traveling with dehydrated food packages where I just have to add boiling water to the food package.   
 
-My favorite stove for Scandinavia are the MSR WindBurner or the Jetboil MiniMo - both of them can also handle cold temperatures down to -6C while the MSR WinBurner stove can handle wind better than the Jetboil MiniMo.  
+My favorite stove for Scandinavia are the MSR WindBurner or the Jetboil MiniMo - both of them can also handle cold temperatures down to -6 C while the MSR WinBurner stove can handle wind better than the Jetboil MiniMo.  
 
 If you are traveling to different continents then a multi-fuel stove might be the best solution as gas canisters might not be sold everywhere.   
 
