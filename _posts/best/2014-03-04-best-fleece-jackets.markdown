@@ -53,8 +53,6 @@ A fleece jacket can be used as a mid-layer to keep you warm while you are active
 
 <hr>
 
-- test
-
 ## Arcteryx Thetis Zip Neck
 
 <a href="http://www.amazon.com/gp/product/B00GW7XOMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7XOMQ&linkCode=as2&tag=hikeve-20&linkId=KYPIGZUYHRQY4JNT" rel=“nofollow”><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7XOMQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7XOMQ" width="1" height="1" border="0" alt="Arcteryx Thetis Zip Neck" style="border:none !important; margin:0px !important;" />  
