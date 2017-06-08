@@ -43,9 +43,7 @@ Also the additional pocket for the iPad protects it's screen if you are planning
 
 <a href="https://www.flickr.com/photos/90204224@N07/17166514972"><img src="https://farm8.staticflickr.com/7644/17166514972_62ae02076a_b.jpg" width="100%" alt="Thule Gauntlet - Best Macbook Pro Case for Outdoors"></a>  
 
-Personally, I think that a case without room for accessories doesn't make much sense.   
-
-Maybe for a 1 day trip but once the battery of your MacBook is empty you need a charger.
+Personally, I think that a case without room for accessories doesn't make much sense especially if you travel for a few days as you won’t have space for your charger.
 
 ## Inateck 13-13.3 Inch Sleeve Case Cover
 
