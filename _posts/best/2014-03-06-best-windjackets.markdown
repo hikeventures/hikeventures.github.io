@@ -46,9 +46,7 @@ A wind jacket does not need much space so you can easily store it in your backpa
         </tbody>  
 </table>  
 </div>  
-<!--more-->  
-
-<hr>  
+<!--more-->   
 
 ## Patagonia Houdini
 
