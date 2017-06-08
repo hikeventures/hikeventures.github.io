@@ -61,8 +61,6 @@ If you plan to wear your rain jacket on a daily base with a backpack on your sho
 
 <hr>
 
-- test
-
 ## Montane Minimus Pants
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B007RLM6VG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007RLM6VG&linkCode=as2&tag=hikeve-20&linkId=FWJFGCKUDWO36GKL"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007RLM6VG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B007RLM6VG" width="1" height="1" border="0" alt="Montane Minimus Pants" style="border:none !important; margin:0px !important;" />  
