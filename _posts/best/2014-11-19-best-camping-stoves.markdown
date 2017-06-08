@@ -165,7 +165,7 @@ To ignite your stove you can either take matches with you or as an alternative y
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B007BO9G1W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007BO9G1W&linkCode=as2&tag=hikeve-20&linkId=708baf1a96d71d050a6ddc65d10d75ff"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B007BO9G1W&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B007BO9G1W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
-An alternative would be the <a href="http://amzn.to/2siAlJ8" rel=“nofollow”>Light My Fire Swedish FireKnife</a> in case you are looking for a knife which comes with a FireSteel.
+An alternative would be the <a href="http://amzn.to/2siAlJ8" rel="nofollow">Light My Fire Swedish FireKnife</a> in case you are looking for a knife which comes with a FireSteel.
 
 ## How to choose the best camping stove?
 
