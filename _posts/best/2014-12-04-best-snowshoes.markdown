@@ -82,7 +82,7 @@ This model features Ergo Televators, PosiLock AT bindings, optional 5-inch (13-c
 **weight**: 2040 grams  
 **application**: mountain  
 
-*The Tubbs FLEX VRT 24 comes with Viper 2.0 carbon steel toe crampon, DYNAMICFIT BINDING and a FLEXTail.  
+The Tubbs FLEX VRT 24 comes with Viper 2.0 carbon steel toe crampon, DYNAMICFIT BINDING and a FLEXTail.  
 
 <a href="http://amzn.to/2evSOZo" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Tubbs FLEX VRT 24</button></a>  
 
