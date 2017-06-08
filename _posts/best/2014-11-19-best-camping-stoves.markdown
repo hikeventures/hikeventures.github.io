@@ -159,13 +159,13 @@ The MSR XGK EX is probably the best choice if you need a stove which can handle 
 
 ## Accessories
 
-<a rel=“nofollow” target="_blank"  href="https://www.amazon.com/gp/product/B00440VIYY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00440VIYY&linkCode=as2&tag=hikeve-20&linkId=c2ebed8af3092d2ec76c247048886d95"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00440VIYY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00440VIYY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00440VIYY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00440VIYY&linkCode=as2&tag=hikeve-20&linkId=c2ebed8af3092d2ec76c247048886d95"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00440VIYY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00440VIYY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
 To ignite your stove you can either take matches with you or as an alternative you can also use a <a href="http://amzn.to/22kZs72" rel="nofollow">Light My Fire Swedish FireSteel</a> which is especially  useful in wet conditions.   
 
-<a rel=“nofollow” target="_blank"  href="https://www.amazon.com/gp/product/B007BO9G1W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007BO9G1W&linkCode=as2&tag=hikeve-20&linkId=708baf1a96d71d050a6ddc65d10d75ff"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B007BO9G1W&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B007BO9G1W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B007BO9G1W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007BO9G1W&linkCode=as2&tag=hikeve-20&linkId=708baf1a96d71d050a6ddc65d10d75ff"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B007BO9G1W&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B007BO9G1W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
-An alternative would be the <a href=“[http://amzn.to/2siAlJ8](http://amzn.to/2siAlJ8)” rel=“nofollow”>Light My Fire Swedish FireKnife</a> in case you are looking for a knife which comes with a FireSteel.
+An alternative would be the <a href="http://amzn.to/2siAlJ8" rel=“nofollow”>Light My Fire Swedish FireKnife</a> in case you are looking for a knife which comes with a FireSteel.
 
 ## How to choose the best camping stove?
 
@@ -173,7 +173,7 @@ It all depends on your requirements. Do you need a simple and lightweight campin
 
 My preference goes towards a camping stove which boils water quickly and uses low amount of fuel as I am usually traveling with dehydrated food packages where I just have to add boiling water to the food package.   
 
-My favourite stove for Scandinavia are the MSR WindBurner or the Jetboil MiniMo - both of them can also handle cold temperatures down to -6 C while the MSR WinBurner stove can handle wind better than the Jetboil MiniMo.  
+My favorite stove for Scandinavia are the MSR WindBurner or the Jetboil MiniMo - both of them can also handle cold temperatures down to -6 C while the MSR WinBurner stove can handle wind better than the Jetboil MiniMo.  
 
 If you are traveling to different continents then a multi-fuel stove might be the best solution as gas canisters might not be sold everywhere.   
 
