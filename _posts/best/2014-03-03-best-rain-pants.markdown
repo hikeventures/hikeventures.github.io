@@ -20,7 +20,7 @@ If you plan to wear your rain jacket on a daily base with a backpack on your sho
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/13685518345/in/photolist-nqw1ZC-nqcd6S-qG8T36-nqcfZh-nqbUQ8-nqsSPr-nbXt4g-nqb2oa-nse64k-nqsjEM-nqaPbz-nqs8hX-nqaL3v-mRkRNR-mRkM6e-mRnwXu-mRkZX6-mRm7Fe" title="Best Rain Pants 2017 "><img src="https://c2.staticflickr.com/8/7206/13685518345_b56a9a77d8_b.jpg" width="992" height="662" alt="Best Men Rain Pants 2017 "></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-<h2 id="list">The best rain pants of 2017</h2>  
+<h2>The best rain pants of 2017</h2>  
 
 <div class="table-responsive">  
 
@@ -60,6 +60,8 @@ If you plan to wear your rain jacket on a daily base with a backpack on your sho
 <!--more-->  
 
 <hr>
+
+- test
 
 ## Montane Minimus Pants
 
@@ -165,7 +167,7 @@ Wearing the Montane Minimus Pants rain pants on our [hiking and packrafting trip
 
 <hr>
 
-## Best fabric for rain pants?
+## Best fabric for rain pants
 
 If you are planning to go skiing then you should maybe consider waterproof pants with Gore-Tex Pro or Active shell.   
 

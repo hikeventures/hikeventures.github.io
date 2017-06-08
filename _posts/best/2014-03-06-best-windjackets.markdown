@@ -20,7 +20,7 @@ A wind jacket does not need much space so you can easily store it in your backpa
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9599027418/in/photolist-fCewqJ-eZwoYv-eZwpTX-fCewQ3-eZwovc-eZHLDm-eZwojP-eZwoGn-eZHLPu-eZHK3s" title="best wind jackets for 2017"><img src="https://c3.staticflickr.com/8/7385/9599027418_4123160df8_b.jpg" width="992" height="661" alt="best wind jackets for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-<h2 id="list">The best wind jackets for 2017</h2>  
+<h2>The best wind jackets for 2017</h2>  
 
 <div class="table-responsive">  
 <table class="table table-hover table-bordered list_items">  
@@ -46,7 +46,9 @@ A wind jacket does not need much space so you can easily store it in your backpa
         </tbody>  
 </table>  
 </div>  
-<!--more-->   
+<!--more-->
+
+- test
 
 ## Patagonia Houdini
 
@@ -96,7 +98,7 @@ The Arcteryx Squamish Hoody comes with a hood, full front zip and a front pocket
 
 <a href="http://amzn.to/2elVY64" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Arcteryx Squamish Hoody</button></a>
 
-## Best fabric for a Fleece Jacket
+## Best fabric for a Wind Jackets
 
 Hiking in [Sarek National Park](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) in Sweden wearing an Arcteryx Squamish Hoody wind jacket.  
 

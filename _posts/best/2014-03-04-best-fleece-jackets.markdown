@@ -20,7 +20,7 @@ A fleece jacket can be used as a mid-layer to keep you warm while you are active
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30599065514/in/photolist-NBWd85-NBWdpC-PGnS2B-NBWekf-PDJ1Eh-Dv2uSF-E1hZc9-EjbrxT-EgXSbQ-tg14Q2-t3DXr8-t2MuH9-t2LbQW-sdZym3-sec6c8-taL9R1-sTru6W-sTq9hY-sTrvww-sTy6fR-sebeM6-taZSRR-sTpojY-sebpWz-t8FgSm-t8Fenm-sTxnjB-t8FiiN-sTy6CV-t8F1NU-tb1bye-sTxzdB-sTr9gW-tb3Ehx-sdZRVb-sTri2G-taL1TN-sTq5Jq-tb1DEP-sTrrNj-se19pJ-sTy5sZ-sTrwSs-sTrseQ-rbRFq6-pUo8mD-pUdSgn-pBY4wH-pUoXBr-pC1VP1" title="Best Fleece Jackets for 2017"><img src="https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg" width="1024" height="683" alt="Best Fleece Jackets for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-<h2 id="list">The best fleece jackets for 2017</h2>  
+<h2>The best fleece jackets for 2017</h2>  
 
 <div class="table-responsive">  
 
@@ -101,7 +101,7 @@ The Arcteryx Delta LT Zip Neck is also a nice fleece. I have currently the Delta
 
 <a href="http://www.amazon.com/gp/product/B00GW7ZQG8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZQG8&linkCode=as2&tag=hikeve-20&linkId=TWGUKPE3JX4IKWXK" rel="nofollow"><button class="btn btn-danger">See the Arcteryx Delta LT Zip Neck</button></a>
 
-## Best fabric for a Fleece Jacket
+## Best fabric for a Fleece Jackets
 
 Lighter fabric might be less durable depending on the technology used.   
 

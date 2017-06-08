@@ -10,7 +10,7 @@ tags:
   - lamps
 layout: post
 ---
-Here is my [selection](#list) of the best lightweight headlamps for 2017 which could be used for example on winter trips in the North or just for a night out in the backcountry.  
+Here is my selection of the best lightweight headlamps for 2017 which could be used for example on winter trips in the North or just for a night out in the backcountry.  
 
 A good lightweight headlamp is an essential part for many outdoor activities like running, cycling, packrafting, ski touring, climbing or any other backcountry trip.   
 
@@ -20,7 +20,7 @@ Personally, I like the Petzl NAO+ most since it has plenty of features and also 
 
 However, if you are looking for a smaller headlamp which is also waterproof then I would rather pick the <a href="http://amzn.to/2fkaiqv" rel="nofollow">Black Diamond Spot</a> which features red light and 200 Lumen - sufficient for hiking even in the Alps.  
 
-<h2 id="list">The best headlamps of 2017</h2>  
+<h2>The best headlamps of 2017</h2>  
 
 <div class="table-responsive">  
 
