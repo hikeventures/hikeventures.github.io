@@ -14,7 +14,7 @@ Here is my selection of the best camping stoves for 2017.
 
 A portable and lightweight camping stove is one of the most essential item to have on your outdoor adventures to boil water for tea, coffee or dehydrated meals.  
 
-To ignite your stove you can either take matches with you or as an alternative you can also use a <a href="http://amzn.to/22kZs72" rel="nofollow">Light My Fire Swedish FireSteel</a> which is especially  useful in wet conditions.  
+To ignite your stove you can either take matches with you or as an alternative you can also use a <a href="http://amzn.to/22kZs72" rel="nofollow">Light My Fire Swedish FireSteel</a> which is especially useful in wet conditions.  
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9596216703/in/album-72157646473505683/" title="Best Camping Stoves 2017"><img src="https://c8.staticflickr.com/4/3748/9596216703_3f4c4db24f_b.jpg" width="1024" height="683" alt="Best Camping Stoves 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
