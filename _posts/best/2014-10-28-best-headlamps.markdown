@@ -75,8 +75,6 @@ However, if you are looking for a smaller headlamp which is also waterproof then
 
 <!--more-->
 
-- test
-
 ## Petzl NAO+
 
 <a target="_blank" rel="nofollow"  href="https://www.amazon.com/gp/product/B01GFPMEXY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GFPMEXY&linkCode=as2&tag=hikeve-20&linkId=7692c42c112d14f3972fcff2c3a6f9a8"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01GFPMEXY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01GFPMEXY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
