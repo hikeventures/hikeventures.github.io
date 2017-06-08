@@ -63,7 +63,7 @@ To ignite your stove you can either take matches with you or as an alternative y
 
 ## MSR Pocket Rocket 2
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/B01N5O7551/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N5O7551&linkCode=as2&tag=hikeve-20&linkId=96ce1565b0cfc6fab2b18bb420d356e9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01N5O7551&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01N5O7551" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01N5O7551/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N5O7551&linkCode=as2&tag=hikeve-20&linkId=96ce1565b0cfc6fab2b18bb420d356e9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01N5O7551&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01N5O7551" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 73 grams  
 **Burn Time**: 3.5 min  
@@ -95,7 +95,7 @@ If you are planning to travel in more harsh conditions then the MSR XGK EX would
 
 ## Jetboil MicroMo
 
-<a  href="http://www.amazon.com/gp/product/B019GPIYZC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019GPIYZC&linkCode=as2&tag=hikeve-20&linkId=MRADQZHAE2DN5ZNE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B019GPIYZC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B019GPIYZC" width="1" height="1" border="0" alt="Jetboil MicroMo" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B019GPIYZC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019GPIYZC&linkCode=as2&tag=hikeve-20&linkId=MRADQZHAE2DN5ZNE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B019GPIYZC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B019GPIYZC" width="1" height="1" border="0" alt="Jetboil MicroMo" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 400 grams  
 **Burn Time**: 2 min 15 sec for 0.5 liter  
@@ -111,7 +111,7 @@ The Jetboil MicorMo is cold weather compatible down to -6C. The Jetboil MicroMo 
 
 ## Jetboil MiniMo
 
-<a  href="http://www.amazon.com/gp/product/B00KXP7CUI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KXP7CUI&linkCode=as2&tag=hikeve-20&linkId=63NECFHTZ3EYX64N"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00KXP7CUI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00KXP7CUI" width="1" height="1" border="0" alt="Jetboil MiniMo" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00KXP7CUI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KXP7CUI&linkCode=as2&tag=hikeve-20&linkId=63NECFHTZ3EYX64N"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00KXP7CUI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00KXP7CUI" width="1" height="1" border="0" alt="Jetboil MiniMo" style="border:none !important; margin:0px !important;" />  
 
 **Weight:** 415 grams  
 **Burn Time:** 2 min 15 sec for 0.5 liter  
@@ -147,7 +147,7 @@ If you are traveling alone then the Jetboil MiniMo might be a good alternative.
 
 ## MSR XGK EX
 
-<a  href="http://www.amazon.com/gp/product/B000EUMKFO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000EUMKFO&linkCode=as2&tag=hikeve-20&linkId=VXEWELGDXLVW6BJU"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000EUMKFO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B000EUMKFO" width="1" height="1" border="0" alt="MSR XGK EX" style="border:none !important; margin:0px !important;" />  
+<a target="_blank"  href="https://www.amazon.com/gp/product/B000EUMKFO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000EUMKFO&linkCode=as2&tag=hikeve-20&linkId=dd18441f504fca828408601649e57404" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B000EUMKFO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B000EUMKFO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 489 grams (packed)  
 **Burn Time**: 2.8 minutes for 1 liter with kerosene fuel  
