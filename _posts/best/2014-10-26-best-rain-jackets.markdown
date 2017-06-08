@@ -25,7 +25,7 @@ In most cases a lightweight rain jacket which does not need that much space in y
 ---  
 
 
-<h2 id="list">The best rain jackets 2017</h2>  
+<h2>The best rain jackets 2017</h2>  
 
 <div class="table-responsive">  
 
@@ -64,6 +64,7 @@ In most cases a lightweight rain jacket which does not need that much space in y
 </tbody>  
 </table>  
 </div>  
+
 <!--more-->
 
 ## Berghaus Vapourlight Hyper Smock 2.0
@@ -83,7 +84,9 @@ Be aware that such light jackets are not made to carry heavy load e.g. a backpac
 
 If you are into backpacking then have a look on the jackets below. the Berghaus Vapourlight Hyper Smock 2.0 won the Ispo Award 2014/2015.  
 
-<a href="http://amzn.to/2e34CD3" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Berghaus Vapourlight Hyper Smock 2.0</button></a>
+<a href="http://amzn.to/2e34CD3" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Berghaus Vapourlight Hyper Smock 2.0</button></a>  
+
+<hr>
 
 ## Mountain Hardwear Plasmic Jacket
 
@@ -116,7 +119,9 @@ However, I would not choose it for packrafting as the fabric N20p 3L is quite th
 
 The Norvan jacket is more suitable for runners or if you don't wear a backpack.  
 
-<a href="http://amzn.to/2eTGFR8" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Arcteryx Zeta LT Jacket</button></a>
+<a href="http://amzn.to/2eTGFR8" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Arcteryx Zeta LT Jacket</button></a>  
+
+<hr>
 
 ## Outdoor Research Helium II
 
@@ -127,11 +132,11 @@ The Norvan jacket is more suitable for runners or if you don't wear a backpack.
 
 The Outdoor Research Helium II Jacket is also a quite popular rain jacket. It features a single-pull hood drawcord to adjust coverage, zippered Napoleon pocket and elastic cuffs.  
 
-<a href="http://amzn.to/2dBLJYc" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Outdoor Research Helium II Jacket</button></a>
+<a href="http://amzn.to/2dBLJYc" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Outdoor Research Helium II Jacket</button></a>  
+
+<hr>
 
 ## Rab Flashpoint Jacket
-
-<h3><a href="http://amzn.to/2evQYHY" rel="nofollow">Rab Flashpoint Jacket</a></h3>  
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00UI4SP6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UI4SP6O&linkCode=as2&tag=hikeve-20&linkId=UF2ERPU6WIB5S727"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00UI4SP6O&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00UI4SP6O" width="1" height="1" border="0" alt="Rab Flashpoint Jacket" style="border:none !important; margin:0px !important;" />  
 
@@ -144,14 +149,16 @@ With 185 grams it's you won't feel it either in your backpack.
 
 It’s also a great jacket for trail running. Not as durable if you are planning to carry a backpack.  
 
-<a href="http://amzn.to/2evQYHY" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Rab Flashpoint Jacket</button></a>
+<a href="http://amzn.to/2evQYHY" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Rab Flashpoint Jacket</button></a>  
+
+<hr>
 
 ## Montane Minimus Jacket
 
  <a rel="nofollow" href="http://www.amazon.com/gp/product/B004SPCZW4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004SPCZW4&linkCode=as2&tag=hikeve-20&linkId=XQWBWNDOOIDSRSSU"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004SPCZW4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B004SPCZW4" width="1" height="1" border="0" alt="Montane Minimus Jacket" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 208 grams  
-**Fabric**:  PERTEX Shield +  
+**Fabric**:  PERTEX Shield+  
 
 The Montane Minimus Jacket is similar to the Montane Minimus Smock with the difference that it has an adjustable hoody and a long front zipper to easily put on / off the jacket.   
 
@@ -163,7 +170,9 @@ I would choose the Montane Minimus Jacket as my go-to jacket if every gram count
 
 If durability is also an important aspect then you should have a look at the new Arcteryx Zeta LT Jacket which comes next in my list.  
 
-<a href="http://amzn.to/2e31BCI" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Montane Minimus Jacket</button></a>
+<a href="http://amzn.to/2e31BCI" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Montane Minimus Jacket</button></a>  
+
+<hr>
 
 ## Best fabric for rain jackets
 
