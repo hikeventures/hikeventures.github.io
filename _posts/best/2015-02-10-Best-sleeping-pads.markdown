@@ -165,12 +165,9 @@ If you don't want to spend so much time inflating your sleeping pad then the The
 * Does the pad make noise when I sleep on it (ear plugs might help)?
 
 ## Conclusion
+I found my Therm-a-Rest NeoAir XTherm more comfortable because of it's surface pattern than my EXPED SYNMAT UL 7 M and it insulates better while being lighter.   
 
-So which is the best sleeping pad for 2017?   
-
-I found my Therm-a-Rest NeoAir XTherm more comfortable than my EXPED SYNMAT UL 7 M and it insulates more while being lighter.   
-
-I found the Therm-a-rest more comfortable because of it's surface pattern. I just don't get along with those vertically grooves on the EXPED. I also found that the Therm-a-rest is more stable to sleep on.   
+I just don't get along with those vertically grooves on the EXPED. I also found that the Therm-a-rest is more stable to sleep on.   
 
 However, it's of course still possible to sleep on the EXPED depending on what surface you prefer.   
 
