@@ -50,9 +50,6 @@ A wind jacket does not need much space so you can easily store it in your backpa
 
 <hr>  
 
-## Should your hiking jacket be waterproof or only windproof?  
-A wind jacket is much lighter and you won't sweat that much in it compared to a [rain jacket][4]. My own preference goes towards carrying both - a wind jacket AND a rain jacket - and to wear them according to the current weather situation. If it's raining, I am obviously going to wear a rain jacket but if it's dry and there is only a cold wind blowing then I quickly pull on a wind jacket over my [fleece][5].In the evenings while sitting in the camp I swap my [fleece][6] and wind jacket combo with a [down jacket][7].
-
 ## Patagonia Houdini
 
 <a  href="http://www.amazon.com/gp/product/B01ANCS38K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01ANCS38K&linkCode=as2&tag=hikeve-20&linkId=BOE3T2FI3DGVW7LR" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01ANCS38K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B01ANCS38K" width="1" height="1" border="0" alt="Patagonia Houdini" style="border:none !important; margin:0px !important;" />  
