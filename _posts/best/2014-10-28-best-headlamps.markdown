@@ -14,7 +14,7 @@ Here is my [selection](#list) of the best lightweight headlamps for 2017 which c
 
 A good lightweight headlamp is an essential part for many outdoor activities like running, cycling, packrafting, ski touring, climbing or any other backcountry trip.   
 
-Having a headlamp can be a life saver and you it’s a good idea to have one with you in your backpack.   
+Having a headlamp can be a life saver and it’s a good idea to have one with you in your backpack.   
 
 Personally, I like the Petzl NAO+ most since it has plenty of features and also offers the Petzl NAO Belt Kit which allows me to carry the battery under the jacket rather than on my head which can shorten the battery life especially when wearing in [colder regions](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/). I have also used the previous model of the NAO in [Swedish Lapland. ](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/)  
 
@@ -74,6 +74,8 @@ However, if you are looking for a smaller headlamp which is also waterproof then
 </div>  
 
 <!--more-->
+
+- test
 
 ## Petzl NAO+
 
