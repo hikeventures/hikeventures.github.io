@@ -87,15 +87,15 @@ However, if you are looking for a smaller headlamp which is also waterproof then
 
 The Petzl NAO+ features 750 lumen. It's reactive lightning system let's you also adjust the light level automatically without turning or pushing any buttons on the headlamp.  
 
-With reactive lightning you will have a burn time of 6 hours and 30 minutes- You are able to charge the battery of the Petzl NAO within 5 hours.  
+With reactive lightning you will have a burn time of 6 hours and 30 minutes you are able to charge the battery of the Petzl NAO within 5 hours.  
 
-Usually, I also take an additional battery with me such as the <a href="http://amzn.to/2sFvmzn" rel="nofollow">Anker PowerCore 2000</a> to charge my headlamp and other USB devices during my trips. You can also adjust the straps not the sides and on the top.  
+Usually, I also take an additional battery with me such as the <a href="http://amzn.to/2sFvmzn" rel="nofollow">Anker PowerCore 2000</a> to charge my headlamp and other USB devices during my trips. You can also adjust the straps on the sides and on the top.  
 
-I also have the <a href="http://amzn.to/2f2H8kG" rel="nofollow">Petzl NAO Belt Kit</a>, which allows me to carry the battery in my backpack or on my belt rather than on my head. It does not just feel better to have less weight on your head but also prevents battery drain if the temperatures are low.  
+I also have the <a href="http://amzn.to/2f2H8kG" rel="nofollow">Petzl NAO Belt Kit</a>, which allows me to carry the battery in my backpack or on my belt rather than on my head. It feels much better to carry less weight on the head but also prevents battery drain if the temperatures are low.  
 
-With the OS by Petzl you are also able to adjust the light levels on your PC / Mac.  
+With the OS by Petzl you are also able to adjust the light levels on your PC and Mac.  
 
-The Petzl NAO is my preferred headlamp! If you are looking for a lighter headlamp which can also be charged by USB then have a look at the Petzl Tikka RXP.  
+The Petzl NAO is my preferred headlamp. If you are looking for a lighter headlamp which can also be charged by USB then have a look at the Black Diamond Spot.  
 
 You can also get an additional <a href="http://amzn.to/2dRcQxe" rel="nofollow">rechargeable battery</a> for the NAO+.  
 
@@ -111,17 +111,17 @@ You can also get an additional <a href="http://amzn.to/2dRcQxe" rel="nofollow">r
 **Lumen**: 215  
 **Watertightness**: IP X4 (water resistant)  
 
-Almost half the Lumen power of the Petzl Nao, the Petzl Tikka RXP is much lighter than the NAO.  
+Almost half the Lumen power of the Petzl NAO, the Petzl Tikka RXP is much lighter than the NAO.  
 
-If you don't like to carry the additional battery pack on the back of your head and prefer a less bulky headlamp then the Tikka RXP could be your choice.  
+If you don't like to carry the additional battery pack on your head and prefer a less bulky headlamp then the Tikka RXP might be an alternative.  
 
-The Tikka RXP also features Petzl's reactive lightning system and should be a great headlamp for trail running too.  
+The Tikka RXP also features Petzls reactive lightning system and could be a great headlamp for trail running too.  
 
-The USB port on the headlamp also allows you to charge The Tikka RXP with a battery bank like the Anker Astro E5.  
+The USB port on the headlamp also allows you to charge the Tikka RXP with a battery bank like the Anker Astro E5.  
 
 A less pricey alternative to the Petzl Tikka RXP would be the Black Diamond Spot.   
 
-However, the Petzl Tikka RXP does not have [reactive lightning.](https://www.petzl.com/US/en/Sport/REACTIVE-LIGHTING-technology)  
+However, the Petzl Tikka RXP does not have [reactive lightning](https://www.petzl.com/US/en/Sport/REACTIVE-LIGHTING-technology) like the Petzl NAO.  
 
 Personally, I think reactive lightning is a nice to have feature but not something I would spend additional money on it.  
 
@@ -139,7 +139,7 @@ Personally, I think reactive lightning is a nice to have feature but not somethi
 
 The Zebralight H600 Mk II. features lot's of power for little weight.  
 
-However, it has no USB connection to charge it's battery. If you don't mind carrying additional batteries with you then the Zebralight might be a great choice too.  
+However, this headlamp has no USB connection to charge it's battery. If you don't mind carrying additional batteries with you then the Zebralight might be a great choice too.  
 
 <a href="http://amzn.to/2e8kRQg" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Zebralight 600 MK II</button></a>  
 
@@ -157,7 +157,7 @@ With 220 grams and 'only' 500 Lumen, the Black Diamond Icon has a pretty good Lu
 
 For very wet conditions you should probably go for the Black Diamond Icon.  
 
-However, with it's external battery it needs probably more room in your backpack and you will also carry more weight on your head.  
+However, with its external battery it needs probably more room in your backpack and you will also carry more weight on your head.  
 
 <a href="http://www.amazon.com/gp/product/B005FNCPBE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005FNCPBE&linkCode=as2&tag=hikeve-20&linkId=WBUHJA3GU3TCBJXQ" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Black Diamond Icon</button></a>  
 
@@ -191,7 +191,7 @@ If you want to see more into the distance then this is probably not the headlamp
 **Lumen**: 250  
 **Watertightness**: IP X4 (watertight)  
 
-The Black Diamond Storm is a little bit more heavy than the Petzl Tikka XP. The Storm works with 4 AAA batteries and can not be charged via USB.  
+The Black Diamond Storm is a little bit heavier than the Petzl Tikka XP. The Storm works with 4 AAA batteries and cannot be charged via USB.  
 
 <a href="http://amzn.to/2e34Jyw" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Black Diamond Storm</button></a>  
 
@@ -223,7 +223,7 @@ There are also a few accessories which might be useful to have with your headlam
 
 <a href="https://www.amazon.com/gp/product/B007K03PLY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007K03PLY&linkCode=as2&tag=hikeve-20&linkId=2887c84eaa99f85590d37548953ce119" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B007K03PLY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B007K03PLY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
-In cold conditions you can extend the battery life of your Petzl NAO by wearing the battery nearby your body.   
+In cold conditions you can extend the battery life of your Petzl NAO by wearing the battery next to your body.   
 
 Just attach the extension cable between your battery and the headlamp and you are good to go.  
 
@@ -233,6 +233,6 @@ Just attach the extension cable between your battery and the headlamp and you ar
 
 <a href="https://www.amazon.com/gp/product/B01B73I5ZU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01B73I5ZU&linkCode=as2&tag=hikeve-20&linkId=47d7ed2d86df59bde1e15986668ca7b5" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01B73I5ZU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01B73I5ZU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
-If you plan to do a longer trip then it might be a good idea to charge your headlamp from time to time.   
+If you plan to go on a longer trip then it might be a good idea to charge your headlamp from time to time.   
 
 Just make sure that the battery of your headlamp can be recharged with a USB cable. The Power Bank is IP67 Waterproof and has a capacity of 20000mAh.
