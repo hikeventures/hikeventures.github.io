@@ -164,6 +164,8 @@ If you don't want to spend so much time inflating your sleeping pad then the The
 * Does the pad slip easily in the tent?  
 * Does the pad make noise when I sleep on it (ear plugs might help)?
 
+<hr>
+
 ## Conclusion
 I found my Therm-a-Rest NeoAir XTherm more comfortable because of it's surface pattern than my EXPED SYNMAT UL 7 M and it insulates better while being lighter.   
 
