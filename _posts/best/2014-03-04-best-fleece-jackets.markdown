@@ -10,9 +10,11 @@ tags:
   - jackets
 layout: post
 ---
-Here is my selection of the best fleece jackets for 2017 which I would select for my next hiking or backpacking trip. Fleece jackets are also quite good for outdoor adventures to humid or wet places compared to a [down jacket](http://www.hikeventures.com/best-down-jackets/) which might lose it's insulation once it get's wet. A warm lightweight fleece jacket should definitely be in your backpack.  
+Here is my selection of the best lightweight fleece jackets for 2017.  Are you planning an outdoor adventure to a place where it's wet or humid? Then you should have a warm lightweight fleece jacket in your backpack.  
 
-A fleece jacket can be used as a mid-layer to keep you warm while you are active and dries rather fast compared to other fabrics like cotton.  
+For wet conditions a fleece jacket is a much better choice than a [down jacket](http://www.hikeventures.com/best-down-jackets/) to protect yourself against the cold as down will lose it's insulation once it's wet.   
+
+A fleece jacket can be used as a mid-layer to keep you warm while you are active (climbing, hiking, skiing or biking) and dries rather fast compared to other fabrics like cotton.  
 
 **Update**: Most recently, I bought the [Power Houdi](http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fhoudini-power-houdi-full-zip-hooded-fleece-sweatshirt-mens) which is now my go-to fleece jackets on all my trips. I really like that it feels soft on the skin and adapts well to movements.  
 
@@ -51,9 +53,11 @@ A fleece jacket can be used as a mid-layer to keep you warm while you are active
 
 <hr>
 
+- test
+
 ## Arcteryx Thetis Zip Neck
 
-<a href="http://www.amazon.com/gp/product/B00GW7XOMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7XOMQ&linkCode=as2&tag=hikeve-20&linkId=KYPIGZUYHRQY4JNT"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7XOMQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7XOMQ" width="1" height="1" border="0" alt="Arcteryx Thetis Zip Neck" style="border:none !important; margin:0px !important;" />  
+<a href="http://www.amazon.com/gp/product/B00GW7XOMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7XOMQ&linkCode=as2&tag=hikeve-20&linkId=KYPIGZUYHRQY4JNT" rel=“nofollow”><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7XOMQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7XOMQ" width="1" height="1" border="0" alt="Arcteryx Thetis Zip Neck" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 205 grams  
 **Fabric**: Polartec Power Dry  
@@ -68,7 +72,7 @@ The Polartec fabric should dry quite fast and transports moisture away from the 
 
 ## Mammut Moench Longsleeve
 
-<a href="http://www.amazon.com/gp/product/B005JWKXC4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005JWKXC4&linkCode=as2&tag=hikeve-20&linkId=AM7UMWDALROAZGHE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005JWKXC4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005JWKXC4" width="1" height="1" border="0" alt="Mammut Moench Longsleeve" style="border:none !important; margin:0px !important;" />  
+<a href="http://www.amazon.com/gp/product/B005JWKXC4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005JWKXC4&linkCode=as2&tag=hikeve-20&linkId=AM7UMWDALROAZGHE" rel=“nofollow”><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005JWKXC4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005JWKXC4" width="1" height="1" border="0" alt="Mammut Moench Longsleeve" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 205 grams  
 **Fabric**: Polartec Power Stretch  
@@ -79,7 +83,7 @@ The Mammut Moench Longsleeve features a stretchy fabric which should keep you dr
 
 ## Rab Micro Pull-on
 
-<a  href="http://www.amazon.com/gp/product/B00MVV2BDK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MVV2BDK&linkCode=as2&tag=hikeve-20&linkId=O35AIPYX5EH2BEVJ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00MVV2BDK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00MVV2BDK" width="1" height="1" border="0" alt="Rab Micro Pull-on" style="border:none !important; margin:0px !important;" />  
+<a  href="http://www.amazon.com/gp/product/B00MVV2BDK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MVV2BDK&linkCode=as2&tag=hikeve-20&linkId=O35AIPYX5EH2BEVJ" rel=“nofollow”><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00MVV2BDK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00MVV2BDK" width="1" height="1" border="0" alt="Rab Micro Pull-on" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 238 grams  
 **Fabric**: Polartec Classic Micro (recycled)  
@@ -90,7 +94,7 @@ The Rab Micro Pull-on is a light fleece pullover. It's fabric is made of recycle
 
 ## Arcteryx Delta LT Zip Neck
 
-<a href="http://www.amazon.com/gp/product/B00GW7ZQG8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZQG8&linkCode=as2&tag=hikeve-20&linkId=TWGUKPE3JX4IKWXK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7ZQG8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7ZQG8" width="1" height="1" border="0" alt="Arcteryx Delta LT Zip Neck" style="border:none !important; margin:0px !important;" />  
+<a href="http://www.amazon.com/gp/product/B00GW7ZQG8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZQG8&linkCode=as2&tag=hikeve-20&linkId=TWGUKPE3JX4IKWXK" rel=“nofollow”><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7ZQG8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7ZQG8" width="1" height="1" border="0" alt="Arcteryx Delta LT Zip Neck" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 240 grams  
 **Fabric**: Polartec Classic 100 Micro Velour Small Grid  
