@@ -10,206 +10,206 @@ tags:
   - lamps
 layout: post
 ---
-Here is my selection of the best lightweight headlamps for 2017 which could be used for example on winter trips in the North or just for a night out in the backcountry.  
+Here is my selection of the best lightweight headlamps for 2017 which could be used for example on winter trips in the North or just for a night out in the backcountry.
 
-A good lightweight headlamp is an essential part for many outdoor activities like running, cycling, packrafting, ski touring, climbing or any other backcountry trip.   
+A good lightweight headlamp is an essential part for many outdoor activities like running, cycling, packrafting, ski touring, climbing or any other backcountry trip.
 
-Having a headlamp can be a life saver and it’s a good idea to have one with you in your backpack.   
+Having a headlamp can be a life saver and it’s a good idea to have one with you in your backpack.
 
-Personally, I like the Petzl NAO+ most since it has plenty of features and also offers the Petzl NAO Belt Kit which allows me to carry the battery under the jacket rather than on my head which can shorten the battery life especially when wearing in [colder regions](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/). I have also used the previous model of the NAO in [Swedish Lapland. ](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/)  
+Personally, I like the Petzl NAO+ most since it has plenty of features and also offers the Petzl NAO Belt Kit which allows me to carry the battery under the jacket rather than on my head which can shorten the battery life especially when wearing in [colder regions](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/). I have also used the previous model of the NAO in [Swedish Lapland. ](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/)
 
-However, if you are looking for a smaller headlamp which is also waterproof then I would rather pick the <a href="http://amzn.to/2fkaiqv" rel="nofollow">Black Diamond Spot</a> which features red light and 200 Lumen - sufficient for hiking even in the Alps.  
+However, if you are looking for a smaller headlamp which is also waterproof then I would rather pick the <a href="http://amzn.to/2fkaiqv" rel="nofollow">Black Diamond Spot</a> which features red light and 200 Lumen - sufficient light for hiking even in the Alps.  
 
-<h2>The best headlamps of 2017</h2>  
+<h2>The best headlamps of 2017</h2>
 
-<div class="table-responsive">  
+<div class="table-responsive">
 
-      <table class="table table-hover table-bordered list_items_3">  
+      <table class="table table-hover table-bordered list_items_3">
 
-        <thead>  
-             <tr>  
-                <th>Headlamp</th><th>Weight</th><th>Lumen</th>  
-             </tr>  
-        </thead>  
+        <thead>
+             <tr>
+                <th>Headlamp</th><th>Weight</th><th>Lumen</th>
+             </tr>
+        </thead>
 
-        <tbody>  
-        <tr>  
-          <td><a href="http://amzn.to/2drHzyP" target="_blank" rel="nofollow">Petzl E+LITE</a></td><td>27g</td><td>26</td>  
-        </tr>  
+        <tbody>
+        <tr>
+          <td><a href="http://amzn.to/2drHzyP" target="_blank" rel="nofollow">Petzl E+LITE</a></td><td>27g</td><td>26</td>
+        </tr>
 
-        <tr>  
-          <td><a href="http://amzn.to/2e8kRQg" rel="nofollow" target="_blank">Zebralight H600 Mk II 18650 XM-L2</a></td><td>39g</td><td>1090</td>  
-        </tr>  
+        <tr>
+          <td><a href="http://amzn.to/2e8kRQg" rel="nofollow" target="_blank">Zebralight H600 Mk II 18650 XM-L2</a></td><td>39g</td><td>1090</td>
+        </tr>
 
-        <tr>  
-          <td><a href="http://amzn.to/2e35oQp" target="_blank" rel="nofollow">Petzl Tikka R+</a></td><td>85g</td><td>170</td>  
-        </tr>  
+        <tr>
+          <td><a href="http://amzn.to/2e35oQp" target="_blank" rel="nofollow">Petzl Tikka R+</a></td><td>85g</td><td>170</td>
+        </tr>
 
-        <tr>  
-          <td><a href="http://amzn.to/2fkaiqv" target="_blank" rel="nofollow">Black Diamond Spot</a></td><td>90g</td><td>200</td>  
-        </tr>  
-        <tr>  
-          <td><a href="http://amzn.to/2e34Jyw" target="_blank" rel="nofollow">Black Diamond Storm</a></td><td>110g</td><td>250</td>  
-        </tr>  
+        <tr>
+          <td><a href="http://amzn.to/2fkaiqv" target="_blank" rel="nofollow">Black Diamond Spot</a></td><td>90g</td><td>200</td>
+        </tr>
+        <tr>
+          <td><a href="http://amzn.to/2e34Jyw" target="_blank" rel="nofollow">Black Diamond Storm</a></td><td>110g</td><td>250</td>
+        </tr>
 
-        <tr>  
-          <td><a href="http://amzn.to/2drHpaV" target="_blank" rel="nofollow">Petzl Tikka RXP</a></td><td>115g</td><td>215</td>  
-        </tr>  
+        <tr>
+          <td><a href="http://amzn.to/2drHpaV" target="_blank" rel="nofollow">Petzl Tikka RXP</a></td><td>115g</td><td>215</td>
+        </tr>
 
-        <tr>  
-          <td><a href="http://amzn.to/2gBew1C" target="_blank" rel="nofollow">Petzl Nao Plus</a></td><td>187g</td><td>750</td>  
-        </tr>  
+        <tr>
+          <td><a href="http://amzn.to/2gBew1C" target="_blank" rel="nofollow">Petzl Nao Plus</a></td><td>187g</td><td>750</td>
+        </tr>
 
-        <tr>  
-          <td><a href="http://amzn.to/2evTLRy" target="_blank" rel="nofollow">Black Diamond Icon</a></td><td>230g</td><td>500</td>  
-        </tr>  
+        <tr>
+          <td><a href="http://amzn.to/2evTLRy" target="_blank" rel="nofollow">Black Diamond Icon</a></td><td>230g</td><td>500</td>
+        </tr>
 
-        <tr>  
-          <td><a href="http://amzn.to/2e35AiF" target="_blank" rel="nofollow">Princeton Tec Apex</a></td><td>279g</td><td>275</td>  
-        </tr>  
+        <tr>
+          <td><a href="http://amzn.to/2e35AiF" target="_blank" rel="nofollow">Princeton Tec Apex</a></td><td>279g</td><td>275</td>
+        </tr>
 
-        </tbody>  
+        </tbody>
 
-      </table>  
-</div>  
+      </table>
+</div>
 
 <!--more-->
 
 ## Petzl NAO+
 
-<a target="_blank" rel="nofollow"  href="https://www.amazon.com/gp/product/B01GFPMEXY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GFPMEXY&linkCode=as2&tag=hikeve-20&linkId=7692c42c112d14f3972fcff2c3a6f9a8"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01GFPMEXY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01GFPMEXY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a target="_blank" rel="nofollow"  href="https://www.amazon.com/gp/product/B01GFPMEXY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GFPMEXY&linkCode=as2&tag=hikeve-20&linkId=7692c42c112d14f3972fcff2c3a6f9a8"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01GFPMEXY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01GFPMEXY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 187 grams / 0.4 lbs  
-**Lumen**: 750  
-**Watertightness**: IP X4 (water resistant)  
+**Weight**: 187 grams / 0.4 lbs
+**Lumen**: 750
+**Watertightness**: IP X4 (water resistant)
 
-The Petzl NAO+ features 750 lumen. It's reactive lightning system let's you also adjust the light level automatically without turning or pushing any buttons on the headlamp.  
+The Petzl NAO+ features 750 lumen. It's reactive lightning system let's you also adjust the light level automatically without turning or pushing any buttons on the headlamp.
 
-With reactive lightning you will have a burn time of 6 hours and 30 minutes you are able to charge the battery of the Petzl NAO within 5 hours.  
+With reactive lightning you will have a burn time of 6 hours and 30 minutes you are able to charge the battery of the Petzl NAO within 5 hours.
 
-Usually, I also take an additional battery with me such as the <a href="http://amzn.to/2sFvmzn" rel="nofollow">Anker PowerCore 2000</a> to charge my headlamp and other USB devices during my trips. You can also adjust the straps on the sides and on the top.  
+Usually, I also take an additional battery with me such as the <a href="http://amzn.to/2sFvmzn" rel="nofollow">Anker PowerCore 2000</a> to charge my headlamp and other USB devices during my trips. You can also adjust the straps on the sides and on the top.
 
-I also have the <a href="http://amzn.to/2f2H8kG" rel="nofollow">Petzl NAO Belt Kit</a>, which allows me to carry the battery in my backpack or on my belt rather than on my head. It feels much better to carry less weight on the head but also prevents battery drain if the temperatures are low.  
+I also have the <a href="http://amzn.to/2f2H8kG" rel="nofollow">Petzl NAO Belt Kit</a>, which allows me to carry the battery in my backpack or on my belt rather than on my head. It feels much better to carry less weight on the head but also prevents battery drain if the temperatures are low.
 
-With the OS by Petzl you are also able to adjust the light levels on your PC and Mac.  
+With the OS by Petzl you are also able to adjust the light levels on your PC and Mac.
 
-The Petzl NAO is my preferred headlamp. If you are looking for a lighter headlamp which can also be charged by USB then have a look at the Black Diamond Spot.  
+The Petzl NAO is my preferred headlamp. If you are looking for a lighter headlamp which can also be charged by USB then have a look at the Black Diamond Spot.
 
-You can also get an additional <a href="http://amzn.to/2dRcQxe" rel="nofollow">rechargeable battery</a> for the NAO+.  
+You can also get an additional <a href="http://amzn.to/2dRcQxe" rel="nofollow">rechargeable battery</a> for the NAO+.
 
-<a href="http://amzn.to/2gBew1C" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Petzl NAO+</button></a>  
+<a href="http://amzn.to/2gBew1C" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Petzl NAO+</button></a>
 
 <hr>
 
 ## Petzl Tikka RXP
 
-<a href="http://www.amazon.com/gp/product/B00BA4R43Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BA4R43Q&linkCode=as2&tag=hikeve-20&linkId=BMMHTF6L4KCESYEM" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BA4R43Q&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00BA4R43Q" width="1" height="1" border="0" alt="Petzl Tikka RXP" style="border:none !important; margin:0px !important;" />  
+<a href="http://www.amazon.com/gp/product/B00BA4R43Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BA4R43Q&linkCode=as2&tag=hikeve-20&linkId=BMMHTF6L4KCESYEM" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BA4R43Q&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00BA4R43Q" width="1" height="1" border="0" alt="Petzl Tikka RXP" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 115 grams / 0.25 lbs  
-**Lumen**: 215  
-**Watertightness**: IP X4 (water resistant)  
+**Weight**: 115 grams / 0.25 lbs
+**Lumen**: 215
+**Watertightness**: IP X4 (water resistant)
 
-Almost half the Lumen power of the Petzl NAO, the Petzl Tikka RXP is much lighter than the NAO.  
+Almost half the Lumen power of the Petzl NAO, the Petzl Tikka RXP is much lighter than the NAO.
 
-If you don't like to carry the additional battery pack on your head and prefer a less bulky headlamp then the Tikka RXP might be an alternative.  
+If you don't like to carry the additional battery pack on your head and prefer a less bulky headlamp then the Tikka RXP might be an alternative.
 
-The Tikka RXP also features Petzls reactive lightning system and could be a great headlamp for trail running too.  
+The Tikka RXP also features Petzls reactive lightning system and could be a great headlamp for trail running too.
 
-The USB port on the headlamp also allows you to charge the Tikka RXP with a battery bank like the Anker Astro E5.  
+The USB port on the headlamp also allows you to charge the Tikka RXP with a battery bank like the Anker Astro E5.
 
-A less pricey alternative to the Petzl Tikka RXP would be the Black Diamond Spot.   
+A less pricey alternative to the Petzl Tikka RXP would be the Black Diamond Spot.
 
-However, the Petzl Tikka RXP does not have [reactive lightning](https://www.petzl.com/US/en/Sport/REACTIVE-LIGHTING-technology) like the Petzl NAO.  
+However, the Petzl Tikka RXP does not have [reactive lightning](https://www.petzl.com/US/en/Sport/REACTIVE-LIGHTING-technology) like the Petzl NAO.
 
-Personally, I think reactive lightning is a nice to have feature but not something I would spend additional money on it.  
+Personally, I think reactive lightning is a nice to have feature but not something I would spend additional money on it.
 
-<a href="http://amzn.to/2e35oQp" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Petzl Tikka RXP</button></a>  
+<a href="http://amzn.to/2e35oQp" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Petzl Tikka RXP</button></a>
 
 <hr>
 
 ## Zebralight 600 MK II
 
-<a href="http://www.amazon.com/gp/product/B00HIW1I2C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HIW1I2C&linkCode=as2&tag=hikeve-20&linkId=SXRO3IZVWEGIXOPW" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HIW1I2C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00HIW1I2C" width="1" height="1" border="0" alt="Zebralight H600 Mk II 18650 XM-L2" style="border:none !important; margin:0px !important;" />  
+<a href="http://www.amazon.com/gp/product/B00HIW1I2C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HIW1I2C&linkCode=as2&tag=hikeve-20&linkId=SXRO3IZVWEGIXOPW" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HIW1I2C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00HIW1I2C" width="1" height="1" border="0" alt="Zebralight H600 Mk II 18650 XM-L2" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 39 grams (excl. batteries) / 0.09 lbs  
-**Lumen**: 1090  
-**Watertightness**: IP X7 (watertight)  
+**Weight**: 39 grams (excl. batteries) / 0.09 lbs
+**Lumen**: 1090
+**Watertightness**: IP X7 (watertight)
 
-The Zebralight H600 Mk II. features lot's of power for little weight.  
+The Zebralight H600 Mk II. features lot's of power for little weight.
 
-However, this headlamp has no USB connection to charge it's battery. If you don't mind carrying additional batteries with you then the Zebralight might be a great choice too.  
+However, this headlamp has no USB connection to charge it's battery. If you don't mind carrying additional batteries with you then the Zebralight might be a great choice too.
 
-<a href="http://amzn.to/2e8kRQg" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Zebralight 600 MK II</button></a>  
+<a href="http://amzn.to/2e8kRQg" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Zebralight 600 MK II</button></a>
 
 <hr>
 
 ## Black Diamond Icon
 
-<a href="http://www.amazon.com/gp/product/B005FNCPBE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005FNCPBE&linkCode=as2&tag=hikeve-20&linkId=WBUHJA3GU3TCBJXQ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005FNCPBE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005FNCPBE" width="1" height="1" border="0" alt="Black Diamond Icon" style="border:none !important; margin:0px !important;" />  
+<a href="http://www.amazon.com/gp/product/B005FNCPBE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005FNCPBE&linkCode=as2&tag=hikeve-20&linkId=WBUHJA3GU3TCBJXQ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005FNCPBE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005FNCPBE" width="1" height="1" border="0" alt="Black Diamond Icon" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 230 grams / 0.5 lbs  
-**Lumen**: 500  
-**Watertightness**: IP X7 (watertight)  
+**Weight**: 230 grams / 0.5 lbs
+**Lumen**: 500
+**Watertightness**: IP X7 (watertight)
 
-With 220 grams and 'only' 500 Lumen, the Black Diamond Icon has a pretty good Lumen/Weight ratio.  
+With 220 grams and 'only' 500 Lumen, the Black Diamond Icon has a pretty good Lumen/Weight ratio.
 
-For very wet conditions you should probably go for the Black Diamond Icon.  
+For very wet conditions you should probably go for the Black Diamond Icon.
 
-However, with its external battery it needs probably more room in your backpack and you will also carry more weight on your head.  
+However, with its external battery it needs probably more room in your backpack and you will also carry more weight on your head.
 
-<a href="http://www.amazon.com/gp/product/B005FNCPBE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005FNCPBE&linkCode=as2&tag=hikeve-20&linkId=WBUHJA3GU3TCBJXQ" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Black Diamond Icon</button></a>  
+<a href="http://www.amazon.com/gp/product/B005FNCPBE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005FNCPBE&linkCode=as2&tag=hikeve-20&linkId=WBUHJA3GU3TCBJXQ" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Black Diamond Icon</button></a>
 
 <hr>
 
 ## Petzl e+LITE
 
-<a href="http://www.amazon.com/gp/product/B008AUBOTS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008AUBOTS&linkCode=as2&tag=hikeve-20&linkId=V5A2XQXJ3LK3X3NP" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008AUBOTS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B008AUBOTS" width="1" height="1" border="0" alt="Petzl e+LITE" style="border:none !important; margin:0px !important;" />  
+<a href="http://www.amazon.com/gp/product/B008AUBOTS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008AUBOTS&linkCode=as2&tag=hikeve-20&linkId=V5A2XQXJ3LK3X3NP" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008AUBOTS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B008AUBOTS" width="1" height="1" border="0" alt="Petzl e+LITE" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 27 grams / 0.06 lbs  
-**Lumen**: 26  
-**Watertightness**: IP X7 (watertight)  
+**Weight**: 27 grams / 0.06 lbs
+**Lumen**: 26
+**Watertightness**: IP X7 (watertight)
 
-The Petzl e+LITE is the emergency headlamp from Petzl.   
+The Petzl e+LITE is the emergency headlamp from Petzl.
 
-It could also be a good choice for ultralight enthusiasts who can manage with less light.   
+It could also be a good choice for ultralight enthusiasts who can manage with less light.
 
-It can be used in a temperature range from -30C to +60C and it's batteries can be stored for 10 years.  
+It can be used in a temperature range from -30C to +60C and it's batteries can be stored for 10 years.
 
-If you want to see more into the distance then this is probably not the headlamp you should consider to buy.  
+If you want to see more into the distance then this is probably not the headlamp you should consider to buy.
 
-<a href="http://amzn.to/2drHzyP" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Petzl e+LITE</button></a>  
+<a href="http://amzn.to/2drHzyP" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Petzl e+LITE</button></a>
 
 <hr>
 
 ## Black Diamond Storm
 
-<a href="http://www.amazon.com/gp/product/B00H3MXOQU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00H3MXOQU&linkCode=as2&tag=hikeve-20&linkId=A2I5SXTJTBEA7KOK" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00H3MXOQU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00H3MXOQU" width="1" height="1" border="0" alt="Black Diamond Storm" style="border:none !important; margin:0px !important;" />  
+<a href="http://www.amazon.com/gp/product/B00H3MXOQU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00H3MXOQU&linkCode=as2&tag=hikeve-20&linkId=A2I5SXTJTBEA7KOK" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00H3MXOQU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00H3MXOQU" width="1" height="1" border="0" alt="Black Diamond Storm" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 110 grams / 0.24 lbs  
-**Lumen**: 250  
-**Watertightness**: IP X4 (watertight)  
+**Weight**: 110 grams / 0.24 lbs
+**Lumen**: 250
+**Watertightness**: IP X4 (watertight)
 
-The Black Diamond Storm is a little bit heavier than the Petzl Tikka XP. The Storm works with 4 AAA batteries and cannot be charged via USB.  
+The Black Diamond Storm is a little bit heavier than the Petzl Tikka XP. The Storm works with 4 AAA batteries and cannot be charged via USB.
 
-<a href="http://amzn.to/2e34Jyw" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Black Diamond Storm</button></a>  
+<a href="http://amzn.to/2e34Jyw" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Black Diamond Storm</button></a>
 
 <hr>
 
 ## Princeton Tec Apex
 
-<a href="http://www.amazon.com/gp/product/B00F5EA7LI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F5EA7LI&linkCode=as2&tag=hikeve-20&linkId=CBMFG5EQHMBGE3I5" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00F5EA7LI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00F5EA7LI" width="1" height="1" border="0" alt="Princeton Tec Apex" style="border:none !important; margin:0px !important;" />  
+<a href="http://www.amazon.com/gp/product/B00F5EA7LI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F5EA7LI&linkCode=as2&tag=hikeve-20&linkId=CBMFG5EQHMBGE3I5" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00F5EA7LI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00F5EA7LI" width="1" height="1" border="0" alt="Princeton Tec Apex" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 279 grams / 0.62 lbs  
-**Lumen**: 275  
-**Watertightness**: IP X7 (watertight)  
+**Weight**: 279 grams / 0.62 lbs
+**Lumen**: 275
+**Watertightness**: IP X7 (watertight)
 
-The Princeton Tec Apex is the brightest headlamp Princeton Tec has to offer.   
+The Princeton Tec Apex is the brightest headlamp Princeton Tec has to offer.
 
-It's battery is also located on the back of the head.   
+It's battery is also located on the back of the head.
 
-Unfortunately, this headlamp does not offer any recharging possibilities via USB so you have to rely on 4 AA batteries.  
+Unfortunately, this headlamp does not offer any recharging possibilities via USB so you have to rely on 4 AA batteries.
 
-<a href="http://amzn.to/2e35AiF" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Princeton Tec Apex</button></a>  
+<a href="http://amzn.to/2e35AiF" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Princeton Tec Apex</button></a>
 
 <hr>
 
@@ -219,18 +219,18 @@ There are also a few accessories which might be useful to have with your headlam
 
 ## Petzl Extension Cable for NAO
 
-<a href="https://www.amazon.com/gp/product/B007K03PLY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007K03PLY&linkCode=as2&tag=hikeve-20&linkId=2887c84eaa99f85590d37548953ce119" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B007K03PLY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B007K03PLY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a href="https://www.amazon.com/gp/product/B007K03PLY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007K03PLY&linkCode=as2&tag=hikeve-20&linkId=2887c84eaa99f85590d37548953ce119" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B007K03PLY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B007K03PLY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-In cold conditions you can extend the battery life of your Petzl NAO by wearing the battery next to your body.   
+In cold conditions you can extend the battery life of your Petzl NAO by wearing the battery next to your body.
 
-Just attach the extension cable between your battery and the headlamp and you are good to go.  
+Just attach the extension cable between your battery and the headlamp and you are good to go.
 
 <hr>
 
 ## EasyAcc Rugged Outdoor Power Bank
 
-<a href="https://www.amazon.com/gp/product/B01B73I5ZU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01B73I5ZU&linkCode=as2&tag=hikeve-20&linkId=47d7ed2d86df59bde1e15986668ca7b5" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01B73I5ZU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01B73I5ZU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a href="https://www.amazon.com/gp/product/B01B73I5ZU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01B73I5ZU&linkCode=as2&tag=hikeve-20&linkId=47d7ed2d86df59bde1e15986668ca7b5" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01B73I5ZU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01B73I5ZU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-If you plan to go on a longer trip then it might be a good idea to charge your headlamp from time to time.   
+If you plan to go on a longer trip then it might be a good idea to charge your headlamp from time to time.
 
 Just make sure that the battery of your headlamp can be recharged with a USB cable. The Power Bank is IP67 Waterproof and has a capacity of 20000mAh.
