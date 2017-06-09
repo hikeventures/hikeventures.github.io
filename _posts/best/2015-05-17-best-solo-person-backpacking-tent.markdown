@@ -73,8 +73,6 @@ Further, it's also worth to mention that a 1-person tent can be more heavy than 
 
 <hr>
 
-- test
-
 ## Fly Creek HV UL1
 
 <a  href="http://www.amazon.com/gp/product/B00GSYH1T0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GSYH1T0&linkCode=as2&tag=hikeve-20&linkId=UQ5VQ5S2FSWYOS4K" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GSYH1T0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GSYH1T0" width="1" height="1" border="0" alt="Fly Creek HV UL1" style="border:none !important; margin:0px !important;" />  
@@ -169,8 +167,6 @@ Another reason why I would opt for a bigger tent like the Hilleberg Nallo 2 rath
 
 <a  href="http://www.amazon.com/gp/product/B01AT52A08/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AT52A08&linkCode=as2&tag=hikeve-20&linkId=2JIQ4SO5RH5PZJXL" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01AT52A08&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B01AT52A08" width="1" height="1" border="0" alt="Hilleberg Niak 1.5" style="border:none !important; margin:0px !important;" />  
 
-<hr>  
-
 The Hilleberg Niak 1.5 is a freestanding 1-2 person tent for 3-seasons.  
 
 **Fabric**: Kerlon 600  
@@ -213,9 +209,7 @@ If you don't need a freestanding tent and want the best weight/space ratio 4-sea
 
 ## MSR Hubba NX
 
-<a  href="http://www.amazon.com/gp/product/B00GP11DOK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GP11DOK&linkCode=as2&tag=hikeve-20&linkId=S7HOMFZX4PJW2LDW" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GP11DOK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GP11DOK" width="1" height="1" border="0" alt="MSR Hubba NX" style="border:none !important; margin:0px !important;" />  
-
-<hr>  
+<a  href="http://www.amazon.com/gp/product/B00GP11DOK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GP11DOK&linkCode=as2&tag=hikeve-20&linkId=S7HOMFZX4PJW2LDW" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GP11DOK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GP11DOK" width="1" height="1" border="0" alt="MSR Hubba NX" style="border:none !important; margin:0px !important;" />   
 
 The MSR Hubba NX is a freestanding 3-season 1-person tent.  
 
@@ -231,9 +225,7 @@ However, the Hilleberg has a stronger floor material (50D). If you are low on bu
 
 ## Hilleberg Soulo
 
-<a href="http://www.amazon.com/gp/product/B004LAP3G6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004LAP3G6&linkCode=as2&tag=hikeve-20&linkId=4R5WXJMR7LNA2MKY" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004LAP3G6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B004LAP3G6" width="1" height="1" border="0" alt="Hilleberg Soulo" style="border:none !important; margin:0px !important;" />  
-
-<hr>  
+<a href="http://www.amazon.com/gp/product/B004LAP3G6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004LAP3G6&linkCode=as2&tag=hikeve-20&linkId=4R5WXJMR7LNA2MKY" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004LAP3G6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B004LAP3G6" width="1" height="1" border="0" alt="Hilleberg Soulo" style="border:none !important; margin:0px !important;" />   
 
 The Hilleberg Akto is a 1-person and 4-season tent.  
 
