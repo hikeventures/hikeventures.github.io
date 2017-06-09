@@ -75,8 +75,6 @@ If you are looking for a waterproof alternative to the Anker Power Bank then you
 
 ## Anker Power House
 
-<hr>  
-
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B0196GQAKM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0196GQAKM&linkCode=as2&tag=hikeve-20&linkId=6a7dbd3c1c182ae6d69ddb2487f53a53"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0196GQAKM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0196GQAKM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
 If you need the ultimate power bank in your camp then you should probably have a look at the Anker Power House. It offers a capacity of 120.000 mAh and can be connected to your car to recharge it.  
