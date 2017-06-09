@@ -69,12 +69,11 @@ It's important to understand that each tent is made for a specific purpose so th
 </div>  
 <!--more-->  
 
-<hr>  
-
-
 Further, it's also worth to mention that a 1-person tent can be more heavy than a 2-person tent if you would distribute the weight of the 2-person tent over 2 persons. So hiking with another person can make you carry less weight.  
 
 <hr>
+
+- test
 
 ## Fly Creek HV UL1
 
@@ -91,7 +90,7 @@ The Big Agnes Fly Creek HV UL1 is a 1-person and 3-season tent.
 
 The Big Agnes Fly Creek HV UL1 is a new product in the Big Agnes Ultralight tent range. It is a bit longer and taller than the Hilleberg Enan but has a smaller vestibule. Fly and floor have 1200mm waterproof polyurethane coating.  
 
-<a href="http://amzn.to/2sbCsPq" target="_blank" rel=“nofollow><button type="button" class="btn btn-danger">See the Big Agnes Fly Creek HV UL1</button></a>  
+<a href="http://amzn.to/2sbCsPq" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Big Agnes Fly Creek HV UL1</button></a>  
 
 <hr>
 
@@ -115,7 +114,7 @@ This type of tent is good for fast pack and go. If you are more into base campin
 
 The Enan has a mesh on one end which should provide great ventilation if pitched in wind direction.  
 
-<a href="http://amzn.to/2r2Fcu5" target="_blank" rel=“nofollow”><button type="button" class="btn btn-danger">See the Hilleberg Enan</button></a>  
+<a href="http://amzn.to/2r2Fcu5" target="_blank" rel=“nofollow"><button type="button" class="btn btn-danger">See the Hilleberg Enan</button></a>  
 
 <hr>
 
@@ -228,7 +227,7 @@ The MSR Hubba NX is also a great 3-season tent and costs much less than the Hill
 
 However, the Hilleberg has a stronger floor material (50D). If you are low on budget then the MSR Hubba would be our pick. If you want a freestanding 4-season tent then go for the Hilleberg Soulo.  
 
-<a href="http://amzn.to/2s4Lmx2" target="_blank" rel=“nofollow”><button type="button" class="btn btn-danger">See the MSR Hubba NX</button></a>
+<a href="http://amzn.to/2s4Lmx2" target="_blank" rel=“nofollow"><button type="button" class="btn btn-danger">See the MSR Hubba NX</button></a>
 
 ## Hilleberg Soulo
 
@@ -282,29 +281,39 @@ There were actually 2 of those Ultra-Mids on this event. The only issue I have w
 
 ## Sea to Summit Ultra-Sil eVent Compression Dry Sack
 
-Usually, I put my tent into a compression sack to get more space in my backpack and keep the poles and pegs seperated.   
+<a href="https://www.amazon.com/gp/product/B00SUDY9EM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SUDY9EM&linkCode=as2&tag=hikeve-20&linkId=16d737f5ad282e8329e468a92146474a" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00SUDY9EM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00SUDY9EM" width="1" height="1" border="0" alt="Sea to Summit Ultra-Sil eVENT Compression Dry Sack" style="border:none !important; margin:0px !important;" />  
+
+Usually, I stuff my tent into a compression sack to get more space in my backpack and keep the poles and pegs seperated.   
 
 The Sea to Summit Ultra-Sil eVENT Compression Dry Sack is currently my favourite compression sack.  
 
-<a href="https://www.amazon.com/gp/product/B00SUDY9EM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SUDY9EM&linkCode=as2&tag=hikeve-20&linkId=16d737f5ad282e8329e468a92146474a" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00SUDY9EM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00SUDY9EM" width="1" height="1" border="0" alt="Sea to Summit Ultra-Sil eVENT Compression Dry Sack" style="border:none !important; margin:0px !important;" />  
+<a href="https://www.amazon.com/gp/product/B00SUDY9EM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SUDY9EM&linkCode=as2&tag=hikeve-20&linkId=16d737f5ad282e8329e468a92146474a" target="_blank" rel=“nofollow"><button type="button" class="btn btn-danger">See the Sea to Summit Ultra-Sil Dry Sack</button></a>  
 
 <hr>
 
 ## MSR Carbon Stake Kit
 
+<a href="https://www.amazon.com/gp/product/B006ZJI83Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006ZJI83Q&linkCode=as2&tag=hikeve-20&linkId=598e157cf73c25ba8ba048edb6335843" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B006ZJI83Q&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B006ZJI83Q" width="1" height="1" border="0" alt="MSR Carbon Stake Kit" style="border:none !important; margin:0px !important;" />  
+
 The MSR Carbok Stake Kit is one of my favourite accessories. You can save quite some weight with those pegs as each of them weights only 6 grams.  
 
-<a href="https://www.amazon.com/gp/product/B006ZJI83Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006ZJI83Q&linkCode=as2&tag=hikeve-20&linkId=598e157cf73c25ba8ba048edb6335843" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B006ZJI83Q&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B006ZJI83Q" width="1" height="1" border="0" alt="MSR Carbon Stake Kit" style="border:none !important; margin:0px !important;" />  
+
+
+<a href="https://www.amazon.com/gp/product/B006ZJI83Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006ZJI83Q&linkCode=as2&tag=hikeve-20&linkId=598e157cf73c25ba8ba048edb6335843" target="_blank" rel=“nofollow"><button type="button" class="btn btn-danger">See the MSR Carbon Stake Kit</button></a>  
+
 
 <hr>
 
 ## MPOWERD Luci Outdoor - Inflatable Solar Light
 
+<a href="https://www.amazon.com/gp/product/B00F5TI7C4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F5TI7C4&linkCode=as2&tag=hikeve-20&linkId=be7820944e18e0c7737d7145427544ee" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00F5TI7C4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00F5TI7C4" width="1" height="1" border="0" alt="MPOWERD Luci Outdoor" style="border:none !important; margin:0px !important;" />  
+
 The MPOWERD Luci Outdoor is probably one of the best products you can take on your camping trip.   
 
 You charge the lamp during your hike. Once it gets dark you inflate Luci and you have plenty of light. Read also our [review.](http://www.hikeventures.com/luci-r-outdoor-not-a-toy/)  
 
-<a href="https://www.amazon.com/gp/product/B00F5TI7C4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F5TI7C4&linkCode=as2&tag=hikeve-20&linkId=be7820944e18e0c7737d7145427544ee" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00F5TI7C4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00F5TI7C4" width="1" height="1" border="0" alt="MPOWERD Luci Outdoor" style="border:none !important; margin:0px !important;" />  
+
+<a href="https://www.amazon.com/gp/product/B00F5TI7C4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F5TI7C4&linkCode=as2&tag=hikeve-20&linkId=be7820944e18e0c7737d7145427544ee" target="_blank" rel=“nofollow"><button type="button" class="btn btn-danger">See the MPOWERD Solar Lantern</button></a>  
 
 <hr>
 
@@ -354,4 +363,4 @@ Finally, if you are into sea kayaking a self-standing durable tent - like the Hi
 
 Here is also an [article](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/) about our packrafting trip in the Swedish mountains where we were camping in our MSR Hubba Hubba NX.   
 
-After one year of usage we have a slight hole on the floor but otherwise we have no complaints about it as a 3-season tent.
+After one year we have got a slight hole in the floor but otherwise we were quite happy with the tent as a 3-season tent.
