@@ -152,7 +152,7 @@ The Hilleberg Soulo is a very strong solo expedition tent. If strength is import
 
 The Big Agnes Fly Creek HV UL1 is the lightest tent in this list. It is a bit taller and longer than the Hilleberg Enan but has a smaller vestibule. Fly and floor have 1200 mm waterproof polyurethane coating.  
 
-<a href="http://amzn.to/2sb0ee8" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">Seee the Big Agnes Fly Creek HV UL1</button></a>  
+<a href="http://amzn.to/2sb0ee8" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">See the Big Agnes Fly Creek HV UL1</button></a>  
 
 <hr>
 
