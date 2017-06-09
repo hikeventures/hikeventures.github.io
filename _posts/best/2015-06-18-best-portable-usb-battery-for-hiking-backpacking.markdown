@@ -51,4 +51,16 @@ The Astro E3 outputs 5V / 2A and USB 5V / 1 A - depending on the device. You als
 
 There are also 4 LEDs on the the device which indicating the battery status. The battery can be charged with the included USB cable e.g. on a computer or on a power socket if you have a USB adapter.  
 
-We have tested the Anker Astro E5 on our trips in Sweden and Finland and we are very happy with it as battery pack which is worth taking to your adventures.
+We have tested the Anker Astro E5 on our trips in Sweden and Finland and we are very happy with it as battery pack which is worth taking to your adventures.  
+
+**Update**: The Anker PowerCore 20100 is a new model which offers more capacity than the Astro E5.  
+
+<a href="http://amzn.to/2smA5ZN" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Anker PowerCore 20100</button></a>  
+
+<hr>
+
+## Alternative
+
+If you are looking for a waterproof alternative to the Anker Power Bank then you could have a look at the EasyAcc 20000mAh, a rugged outdoor power bank which is IP67 waterproof.  
+
+<a href="http://amzn.to/2s5dakZ" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the EasyAcc 20000</button></a>
