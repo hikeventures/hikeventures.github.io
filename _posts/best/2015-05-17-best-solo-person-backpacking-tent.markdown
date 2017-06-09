@@ -72,11 +72,9 @@ It's important to understand that each tent is made for a specific purpose so th
 <hr>  
 
 
-Further, it's also worth to consider that a 1-person tent can be more heavy than a 2-person tent if you would distribute the weight of the 2-person tent over 2 persons. So hiking with another person can make you carry less weight.  
+Further, it's also worth to mention that a 1-person tent can be more heavy than a 2-person tent if you would distribute the weight of the 2-person tent over 2 persons. So hiking with another person can make you carry less weight.  
 
 <hr>
-
-- test
 
 ## Fly Creek HV UL1
 
