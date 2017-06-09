@@ -10,11 +10,13 @@ tags:
   - gps
 layout: post
 ---
-In this blog post I would like to give an overview of the best satellite messenger for 2017 (also called GPS Tracker or Personal Locator Beacon) which are worth to carry on your next hiking or backpacking trip where you don’t have a phone reception but where you may need help in case of an emergency.
+In this blog post I would like to give an overview of the best satellite messengers for 2017 (also called GPS Tracker or Personal Locator Beacon) which I would consider to carry on my next hiking or backpacking trip.
+
+Satellite messengers are especially important if you plan to hike in a location without phone reception.
 
 In the picture below you can see the DeLorme InReach Explorer in his yellow case attached to the backpack.
 
-DeLorme is since 2016 owned by Garmin and the unit has been replaced with the Garmin InReach Explorer+ (see below).
+DeLorme is owned since 2016 by Garmin and the unit has been replaced with the Garmin InReach Explorer+ (see below).
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30599065514/in/dateposted-public/" title="Best Satellite Messenger, Locator and Personal Beacon 2017"><img src="https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg" width="1024" height="683" alt="Best Satellite Messenger, Locator and Personal Beacon 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -119,7 +121,7 @@ Alternatively, you will see from the specifications below that the DeLorme devic
 
 ## ACR ResQlink+ 406
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00MYSP6NM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MYSP6NM&linkCode=as2&tag=hikeve-20&linkId=0b99a4a3b8e0050e2eb77458a6c14230"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00MYSP6NM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00MYSP6NM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> 
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00MYSP6NM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MYSP6NM&linkCode=as2&tag=hikeve-20&linkId=0b99a4a3b8e0050e2eb77458a6c14230"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00MYSP6NM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00MYSP6NM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 * Buoyant Personal Locator Beacon which is also suitable for paddlers
 * No subscription fee
