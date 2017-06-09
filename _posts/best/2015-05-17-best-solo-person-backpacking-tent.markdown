@@ -114,7 +114,7 @@ This type of tent is good for fast pack and go. If you are more into base campin
 
 The Enan has a mesh on one end which should provide great ventilation if pitched in wind direction.  
 
-<a href="http://amzn.to/2r2Fcu5" target="_blank" rel=“nofollow"><button type="button" class="btn btn-danger">See the Hilleberg Enan</button></a>  
+<a href="http://amzn.to/2r2Fcu5" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Hilleberg Enan</button></a>  
 
 <hr>
 
@@ -227,7 +227,7 @@ The MSR Hubba NX is also a great 3-season tent and costs much less than the Hill
 
 However, the Hilleberg has a stronger floor material (50D). If you are low on budget then the MSR Hubba would be our pick. If you want a freestanding 4-season tent then go for the Hilleberg Soulo.  
 
-<a href="http://amzn.to/2s4Lmx2" target="_blank" rel=“nofollow"><button type="button" class="btn btn-danger">See the MSR Hubba NX</button></a>
+<a href="http://amzn.to/2s4Lmx2" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the MSR Hubba NX</button></a>
 
 ## Hilleberg Soulo
 
@@ -287,7 +287,7 @@ Usually, I stuff my tent into a compression sack to get more space in my backpac
 
 The Sea to Summit Ultra-Sil eVENT Compression Dry Sack is currently my favourite compression sack.  
 
-<a href="https://www.amazon.com/gp/product/B00SUDY9EM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SUDY9EM&linkCode=as2&tag=hikeve-20&linkId=16d737f5ad282e8329e468a92146474a" target="_blank" rel=“nofollow"><button type="button" class="btn btn-danger">See the Sea to Summit Ultra-Sil Dry Sack</button></a>  
+<a href="https://www.amazon.com/gp/product/B00SUDY9EM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SUDY9EM&linkCode=as2&tag=hikeve-20&linkId=16d737f5ad282e8329e468a92146474a" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Sea to Summit Ultra-Sil Dry Sack</button></a>  
 
 <hr>
 
@@ -299,7 +299,7 @@ The MSR Carbok Stake Kit is one of my favourite accessories. You can save quite 
 
 
 
-<a href="https://www.amazon.com/gp/product/B006ZJI83Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006ZJI83Q&linkCode=as2&tag=hikeve-20&linkId=598e157cf73c25ba8ba048edb6335843" target="_blank" rel=“nofollow"><button type="button" class="btn btn-danger">See the MSR Carbon Stake Kit</button></a>  
+<a href="https://www.amazon.com/gp/product/B006ZJI83Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006ZJI83Q&linkCode=as2&tag=hikeve-20&linkId=598e157cf73c25ba8ba048edb6335843" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the MSR Carbon Stake Kit</button></a>  
 
 
 <hr>
@@ -313,7 +313,7 @@ The MPOWERD Luci Outdoor is probably one of the best products you can take on yo
 You charge the lamp during your hike. Once it gets dark you inflate Luci and you have plenty of light. Read also our [review.](http://www.hikeventures.com/luci-r-outdoor-not-a-toy/)  
 
 
-<a href="https://www.amazon.com/gp/product/B00F5TI7C4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F5TI7C4&linkCode=as2&tag=hikeve-20&linkId=be7820944e18e0c7737d7145427544ee" target="_blank" rel=“nofollow"><button type="button" class="btn btn-danger">See the MPOWERD Solar Lantern</button></a>  
+<a href="https://www.amazon.com/gp/product/B00F5TI7C4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F5TI7C4&linkCode=as2&tag=hikeve-20&linkId=be7820944e18e0c7737d7145427544ee" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the MPOWERD Solar Lantern</button></a>  
 
 <hr>
 
