@@ -76,7 +76,6 @@ Further, it's also worth to consider that a 1-person tent can be more heavy than
 
 <hr>
 
-- test
 
 ## Fly Creek HV UL1
 
