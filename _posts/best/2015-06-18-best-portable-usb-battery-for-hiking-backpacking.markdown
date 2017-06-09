@@ -9,7 +9,7 @@ tags:
   - best
 layout: post
 ---
-In this blog post I would like to write about the best portable USB battery pack which I have selected for our hiking, backpacking and campring trips as we need a lot of energy to power our USB devices such as our GoPro Hero camera, iPhones or [headlamps.](http://www.hikeventures.com/best-headlamps/)  
+In this blog post I would like to write about the best portable USB battery packs which I have selected for our hiking, backpacking and campring trips as we need a lot of energy to power our USB devices such as our GoPro Hero camera, iPhones or [headlamps.](http://www.hikeventures.com/best-headlamps/)  
 
 For a multi-day trip where we have no access to a power socket we solely rely on a portable USB battery to charge our devices.  
 
