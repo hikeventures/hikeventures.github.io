@@ -10,9 +10,9 @@ tags:
   - best
 layout: post
 ---
-Here is our selection of the best packrafting and backpacking tents for 2017.  
+ere is our selection of the best pack rafting and backpacking tents for 2017.  
 
-For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](ttp://www.hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/) which has served us quite well so far in [Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/),  and [the Netherlands.](http://www.hikeventures.com/packrafting-in-the-weerribben-wieden-national-park/)  
+For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](http://www.hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/) which has served us quite well so far in [Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/), and [the Netherlands.](http://www.hikeventures.com/packrafting-in-the-weerribben-wieden-national-park/)  
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9596230289/in/photolist-fBZbWn-pgfsSH-pxH68q-ofA95w-o5hewa-nge5dS-mM722n-mM7oGe-mM6tYt-neeJYC-mM6siX-mM6SVH-mM6JU2-mM6DHi-mM6JsP-Gc8WNG-ngdZdw-nhZhTc-nk3cGV-nhfc78" title="Best Tents For Backpacking And Packrafting in 2017"><img src="https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Best Tents For Backpacking And Packrafting in 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -62,6 +62,8 @@ For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](
 
 <!--more-->
 
+- test
+
 ## Marmot Force UL 2P
 
 <a href="https://www.amazon.com/gp/product/B00M85RDHS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00M85RDHS&linkCode=as2&tag=hikeve-20&linkId=5f772e039fab5f9894178931a800150c" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00M85RDHS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00M85RDHS" width="1" height="1" border="0" alt="Marmot Force UL 2P" style="border:none !important; margin:0px !important;" />  
@@ -98,7 +100,7 @@ I think it's a tough decision to choose between the Niak 1.5 and the Hubba Hubba
 
 If you are low on budget then we could highly recommend the Hubba Hubba NX as we have also used it on our trip in Sweden and Japan.   
 
-<a href="/deals/" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>  
+<a href="http://amzn.to/2r2huhp" target="_blank" rel=“nofollow”><button type="button" class="btn btn-danger">See the MSR Hubba Hubba NX</button></a>  
 
 <hr>
 
@@ -117,7 +119,7 @@ However, if you need more space e.g. if there is a longer rain period then you w
 
 The tent can accommodate 1-2 persons and has a vestibule to store your gear. I was actually interested in getting the Hilleberg Soulo or the Akto as a go-to solo tent but I would prefer having the Niak 1.5 if I would just use it during the warmer months.  
 
-<a href="/deals/" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>  
+<a href="http://amzn.to/2sblAID" rel=“nofollow” target="_blank"><button type="button" class="btn btn-danger">See the Hilleberg Niak</button></a>  
 
 <hr>
 
@@ -132,7 +134,7 @@ The tent can accommodate 1-2 persons and has a vestibule to store your gear. I w
 
 The Hilleberg Soulo is a very strong solo expedition tent. If strength is important to you and you need a dedicated vestibule then you should choose the Soulo rather than the Unna.  
 
-<a href="/deals/" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>  
+<a href="http://amzn.to/2sbicNO" target="_blank" rel=“nofollow”><button type="button" class="btn btn-danger">See the Hilleberg Soulo</button></a>  
 
 <hr>
 
@@ -150,7 +152,7 @@ The Hilleberg Soulo is a very strong solo expedition tent. If strength is import
 
 The Big Agnes Fly Creek HV UL1 is the lightest tent in this list. It is a bit taller and longer than the Hilleberg Enan but has a smaller vestibule. Fly and floor have 1200 mm waterproof polyurethane coating.  
 
-<a href="/deals/" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>  
+<a href="http://amzn.to/2sb0ee8" rel=“nofollow” target="_blank"><button type="button" class="btn btn-danger">Seee the Big Agnes Fly Creek HV UL1</button></a>  
 
 <hr>
 
@@ -169,7 +171,7 @@ The only disadvantage we see with this tent is that it's not very roomy. It's al
 
 Venting should be quite good if you position one end of the tent with the mesh towards the wind.  
 
-<a href="/deals/" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>  
+<a href="http://amzn.to/2r2Fcu5" target="_blank" rel=“nofollow”><button type="button" class="btn btn-danger">See the Hilleberg Enan</button></a>  
 
 <hr>
 
@@ -187,7 +189,7 @@ The Akto is a solo tent with low weight and quite popular among solo travellers.
 
 For harsher conditions I would rather pick the Hilleberg Soulo which comes with more space.  
 
-<a href="/deals/" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>  
+<a href="http://amzn.to/2r2dlKA" rel=“nofollow” target="_blank"><button type="button" class="btn btn-danger">See the Hilleberg Akto</button></a>  
 
 <hr>
 
@@ -204,9 +206,11 @@ For harsher conditions I would rather pick the Hilleberg Soulo which comes with 
 **Weight**: 2400 grams  
 **Fabric**:  Kerlon 1200  
 
-The Hilleberg Nallo is probably the best choice if you want a 4-season tent which offers the most space and a vestibule for the least weight. If you don't need a freestanding tent and the best weight / space ratio 4-season tent then you should pick the Nallo.  
+The Hilleberg Nallo is probably the best choice if you want a 4-season tent which offers the most space and a vestibule for the least weight.   
 
-<a href="/deals/" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
+If you don't need a freestanding tent and the best weight / space ratio 4-season tent then you should pick the Nallo.  
+
+<a href="http://amzn.to/2s4mYM1" rel=“nofollow” target="_blank"><button type="button" class="btn btn-danger">See the Hilleberg Nallo</button></a>
 
 ## Hyperlite Mountain Gear UltaMid
 
