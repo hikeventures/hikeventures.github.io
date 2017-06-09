@@ -9,9 +9,9 @@ tags:
   - tents
 layout: post
 ---
-In this blog post I have selected the best solo person backpacking tents for 2017.
+In this blog post I have selected the best solo person backpacking tents for 2017.  
 
-What defines the best solo person backpacking tent? Well, the best 1-person tent can be a different one in different environments and situations.  
+What defines the best solo person backpacking tent? Well, the best 1-person tent can be a different one in different environments and situations.   
 
 Are you planning a trip to remote areas? Do you want to use your tent during the winter? Or are you an ultralight aficionado?  
 
@@ -76,6 +76,7 @@ Further, it's also worth to consider that a 1-person tent can be more heavy than
 
 <hr>
 
+- test
 
 ## Fly Creek HV UL1
 
@@ -92,7 +93,7 @@ The Big Agnes Fly Creek HV UL1 is a 1-person and 3-season tent.
 
 The Big Agnes Fly Creek HV UL1 is a new product in the Big Agnes Ultralight tent range. It is a bit longer and taller than the Hilleberg Enan but has a smaller vestibule. Fly and floor have 1200mm waterproof polyurethane coating.  
 
-<a href="/deals/#big+agnes+fly+creek+UL1" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>  
+<a href="http://amzn.to/2sbCsPq" target="_blank" rel=“nofollow><button type="button" class="btn btn-danger">See the Big Agnes Fly Creek HV UL1</button></a>  
 
 <hr>
 
@@ -116,7 +117,7 @@ This type of tent is good for fast pack and go. If you are more into base campin
 
 The Enan has a mesh on one end which should provide great ventilation if pitched in wind direction.  
 
-<a href="/deals/#Hilleberg+Enan" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>  
+<a href="http://amzn.to/2r2Fcu5" target="_blank" rel=“nofollow”><button type="button" class="btn btn-danger">See the Hilleberg Enan</button></a>  
 
 <hr>
 
@@ -137,7 +138,7 @@ As the tent has a rather thin floor, I would also get a tent footprint with this
 
 I have used the Marmot Force UL 2P on my trips in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/) and [Norway](http://www.hikeventures.com/Finnmark/). Marmot provided us the tent for testing.  
 
-<a href="/deals/#marmot+Force+UL" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>  
+<a href="/deals/" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>  
 
 <hr>
 
@@ -163,7 +164,9 @@ However, [condensation](http://dzjow.com/2011/11/21/9-years-with-a-hilleberg-akt
 
 Another reason why I would opt for a bigger tent like the Hilleberg Nallo 2 rather than the Hilleberg Soulo if you need a 4-season tent is because it's less likely that your sleeping bag touches the inner tent if you have a longer and wider tent.  
 
-<a href="/deals/#Hilleberg+Akto" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
+<a href="http://amzn.to/2r2dlKA" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">See the Hilleberg Akto</button></a>  
+
+<hr>
 
 ## Hilleberg Niak 1.5
 
@@ -185,7 +188,9 @@ The Hilleberg Niak 1.5 is more a 1-person rather han a 2-person tent and comes w
 
 Alternatively, I would choose the MSR Hubba Hubba NX which is also less pricey and offers slightly more room.  
 
-<a href="/deals/#Hilleberg+Niak" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
+<a href="http://amzn.to/2sblAID" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">See the Hilleberg Niak</button></a>  
+
+<hr>
 
 ## Hilleberg Nallo
 
@@ -205,7 +210,7 @@ The Hilleberg Nallo is probably the best choice if you want a 4-season tent whic
 
 If you don't need a freestanding tent and want the best weight/space ratio 4-season tent then you should pick the Hilleberg Nallo.  
 
-<a href="/deals/#Hilleberg+Nallo" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>  
+<a href="http://amzn.to/2s4mYM1" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">See the Hilleberg Nallo</button></a>  
 
 <hr>
 
@@ -225,7 +230,7 @@ The MSR Hubba NX is also a great 3-season tent and costs much less than the Hill
 
 However, the Hilleberg has a stronger floor material (50D). If you are low on budget then the MSR Hubba would be our pick. If you want a freestanding 4-season tent then go for the Hilleberg Soulo.  
 
-<a href="/deals/#MSR+Hubba+NX" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
+<a href="http://amzn.to/2s4Lmx2" target="_blank" rel=“nofollow”><button type="button" class="btn btn-danger">See the MSR Hubba NX</button></a>
 
 ## Hilleberg Soulo
 
@@ -253,7 +258,9 @@ It's a bit heavier and shorter than the Unna. If you don't need a self-standing 
 
 If you don't plan to do winter camping then the Hilleberg Soulo is probably going to be too much tent for your needs.  
 
-<a href="/deals/#Hilleberg+Akto" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
+<a href="http://amzn.to/2sbicNO" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Hilleberg Soulo</button></a>  
+
+<hr>
 
 ## Hyperlite Mountain Gear UltaMid 2
 
@@ -272,23 +279,6 @@ The UltaMid 2 is an ultralight tent which is supposed to work well in bad weathe
 There were actually 2 of those Ultra-Mids on this event. The only issue I have with the white cuben fiber fabric is that it might lose it's shiny white colour after a while. That's the reason why I have ordered my Hyperlite Mountain Gear Porter 4400 backpack a few years ago in black.  
 
 <a href="/deals/#UltaMid" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
-
-## How to choose the best snowshoeing or trekking poles?
-
-When choosing your trekking or snowshoeing poles you should consider the following features:  
-
-* Do I want to use my poles only during the summer or also during the winter where I need to use snow baskets  
-* Do I want to have adjustable poles? They pack smaller but may not be that durable as the ones which can not be sticked together.  
-* Material of the handle - e.g. foam, cork, etc.  
-* Weight (lightweight or ultralight poles e.g. made of Carbon or Aluminium)  
-
-<hr>
-
-## Differences between snowshoeing and trekking poles
-
-I would say that the main difference between snowshoe and hiking poles is the possibility to add a snow basket to the poles and to expand or shorten the poles while wearing gloves.   
-
-My preference as the best trekking and snowhoeing pole goes towards the MSR Flight.
 
 ## Accessories
 
