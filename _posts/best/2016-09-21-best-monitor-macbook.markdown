@@ -1,6 +1,6 @@
 ---
 title: Best LG UltraFine 4K and 5K monitor alternatives - LG 27UD88, Dell UP2715K, HP ENVY 27 or Lenovo ThinkVision X1
-description: My selection of the best 4K and 5K USB-C Monitors for the Macbook Pro
+description: My selection of the best 4K and 5K USB-C Monitors for the Macbook Pro 2017
 date: 2016-09-21 05:28:01
 category: best
 tags:
