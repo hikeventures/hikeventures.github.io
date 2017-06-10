@@ -12,11 +12,11 @@ In this blog post I would like to present you with my selection of the best wall
 
 As with your hiking clothes a wallet should be easy to clean, water resistant or dry fast.   
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25893630833/in/dateposted-public/" title="The best wallet for hiking and backpacking"><img src="https://farm2.staticflickr.com/1706/25893630833_0449df22f3_b.jpg" width="100%" alt="The best wallet for hiking and backpacking"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Alternatively, you can also store your wallet in a plastic bag to keep it dry.   
 
-Further, you might also want to look into a wallet which does not take too much space and is lightweight.  
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25893630833/in/dateposted-public/" title="The best wallet for hiking and backpacking"><img src="https://farm2.staticflickr.com/1706/25893630833_0449df22f3_b.jpg" width="100%" alt="The best wallet for hiking and backpacking"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+Further, you might also want to look into a wallet which does not take too much space and is lightweight.    
 
 <!--more-->
 
@@ -34,7 +34,7 @@ The fabric can be treated with wax to waterproof it.
 
 ## Chums Floating Marsupial Wallet
 
-<a rel=“nofollow” target="_blank"  href="https://www.amazon.com/gp/product/B06XD6DN9P/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06XD6DN9P&linkCode=as2&tag=hikeve-20&linkId=ba1d583dcd713c7c45100f3e203cb793"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B06XD6DN9P&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B06XD6DN9P" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B06XD6DN9P/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06XD6DN9P&linkCode=as2&tag=hikeve-20&linkId=ba1d583dcd713c7c45100f3e203cb793"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B06XD6DN9P&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B06XD6DN9P" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
 The Chums Floating Marsupial Wallet floating wallet can float your keys, cash and credit cards, comes in a high visible yellow colour and weights 75 grams.  
 
