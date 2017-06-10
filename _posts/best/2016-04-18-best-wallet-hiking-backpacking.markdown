@@ -8,45 +8,44 @@ tags:
   - review
   - wallet
 ---
-When you are new into hiking and backpacking then you might come up with the question where to store your money and credit cards while on the trail?
+In this blog post I would like to present you with my selection of the best wallets for your next hiking or backpacking trip.   
 
-Here is a short article about my personal wallet choice when I go outdoors.
+As with your hiking clothes a wallet should be easy to clean, water resistant or dry fast.   
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25893630833/in/dateposted-public/" title="The best wallet for hiking and backpacking"><img src="https://farm2.staticflickr.com/1706/25893630833_0449df22f3_b.jpg" width="100%" alt="The best wallet for hiking and backpacking"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Alternatively, you can also store your wallet in a plastic bag to keep it dry.   
+
+Further, you might also want to look into a wallet which does not take too much space and is lightweight.  
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25893630833/in/dateposted-public/" title="The best wallet for hiking and backpacking"><img src="https://farm2.staticflickr.com/1706/25893630833_0449df22f3_b.jpg" width="100%" alt="The best wallet for hiking and backpacking"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
 <!--more-->
 
-Sometimes - especially when you are new into hiking and backacking - you don't really think that much about your wallet.
+## Fjällräven Zip Wallet
 
-However, when you get  more experience and plan to cut some weight on your gear then you will realize that even changing your wallet can make a difference in weight and functionality.
+<a  rel="nofollow" href="http://www.amazon.com/gp/product/B00SV3VMAA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SV3VMAA&linkCode=as2&tag=hikeve-20&linkId=V7S5GUAZJAGX4CXV"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SV3VMAA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00SV3VMAA" width="1" height="1" border="0" alt="Fjällräven Zip Wallet" style="border:none !important; margin:0px !important;" />  
 
-{% include banner_ad.html %}
+Both wallets are made of G-1000 fabric - a synthetic / cotton mixture which Fjällräven also uses on it's clothes and can hold credit cards and coins.  
 
-But not only weight is an important factor when considering which wallet to choose. In some countries there is no need to have cash with you e.g. in Finland you can pay in most places with a card.
+The fabric can be treated with wax to waterproof it.  
 
-Maybe there are some exceptions where you still need some cash with you but in most places you will be fine with a card.
+<a href="http://amzn.to/2rLgmBH" rel="nofollow"><button type="button" class="btn btn-danger">See the Fjällräven Zip Wallet</button></a>  
 
-In countries where you can pay mostly with cards you can even take a smaller wallet with you like the Fjällräven Zip Card Holder.
+<hr>
 
-However, if you still prefer to have notes and coins with you then there is also the Fjällräven Zip Wallet which is a  bit bigger than the Fjällräven Zip Card Holder and has more compartments to store your cards and money.
+## Chums Floating Marsupial Wallet
 
-<a  href="http://www.amazon.com/gp/product/B00SV3VMAA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SV3VMAA&linkCode=as2&tag=hikeve-20&linkId=V7S5GUAZJAGX4CXV"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SV3VMAA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00SV3VMAA" width="1" height="1" border="0" alt="Fjällräven Zip Wallet" style="border:none !important; margin:0px !important;" />
+<a rel=“nofollow” target="_blank"  href="https://www.amazon.com/gp/product/B06XD6DN9P/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06XD6DN9P&linkCode=as2&tag=hikeve-20&linkId=ba1d583dcd713c7c45100f3e203cb793"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B06XD6DN9P&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B06XD6DN9P" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
-Both wallets are made of G-1000 fabric - a synthetic / cotton mixture which Fjällräven also uses on it's clothes.
+The Chums Floating Marsupial Wallet floating wallet can float your keys, cash and credit cards, comes in a high visible yellow colour and weights 75 grams.  
 
-<a  href="http://www.amazon.com/gp/product/B00SVCRDKO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SVCRDKO&linkCode=as2&tag=hikeve-20&linkId=NOZFI5R7S4BF7ZNL"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SVCRDKO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00SVCRDKO" width="1" height="1" border="0" alt="Fjällräven Zip Wallet" style="border:none !important; margin:0px !important;" />
+<a href="http://amzn.to/2rLiidp" rel="nofollow"><button type="button" class="btn btn-danger">See the Chums Floating Marsupial Wallet</button></a>  
 
----
+<hr>
 
-## Alternatives
-If you are on a budget then there is no need to spend a lot of money on expensive wallets. An inexpensive alternative to the wallets which I have mentioned above is a simple plastic bag where you can store your money while on the trail. This is probably an even safer option to keep your notes and cards dry.
+## Conclusion
 
----
+If functionality is your main criteria to choose your wallet for your next hiking or backpacking trip then you should probably try a cheap plastic bag.   
 
-##  Conclusion
-If functionality is the main criteria for choosing your wallet for your next hiking or backpacking trip then you should probably go for a cheap plastic bag. If you also want a fashionable wallet which you can use as a regular wallet in the city then I would recommend one of the Fjällräven wallets. To make them 100% waterproof you might however still place it in some sort of plastic bag or at least wax the G-1000 fabric. Personally, I use both - a Fjällräven Zip Card Holder and a plastic bag when I go packrafting.
+To make your wallet 100% waterproof you might however still place it in some sort of plastic bag or at least wax the G-1000 fabric.   
 
----
-
-{% include disclaimer.html %}
-
----
+Personally, I use both - a Fjällräven Zip Card Holder and sometimes an additional plastic bag when I go packrafting.
