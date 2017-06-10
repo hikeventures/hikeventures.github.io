@@ -71,7 +71,7 @@ The Hestra Army Leather Heli 3-Finger Glove comes with a removable liner and is 
 
 The Hestra Army Leather Heli 3-Finger Glove has also a pre-curved design. One free-moving finger is just sufficient to operate for example a camera while the other fingers stay warm as in a mitten.   
 
-If I were to buy new gloves then I would probably buy these gloves. There is also the <a href=“[http://amzn.to/2r5T7zz](http://amzn.to/2r5T7zz)” rel="nofollow">Hestra Heli Ergo Grip Glove</a> available if you prefer to have a regular glove.  
+If I were to buy new gloves then I would probably buy these gloves. There is also the <a href="http://amzn.to/2r5T7zz" rel="nofollow">Hestra Heli Ergo Grip Glove</a> available if you prefer to have a regular glove.  
 
 <a href="http://amzn.to/2s8C574" rel="nofollow"><button type="button" class="btn btn-danger">See the Hestra Army Leather Heli 3-Finger Glove</button></a>  
 
@@ -141,6 +141,6 @@ Gloves and mittens allow you to layer. Layering is an important aspect for every
 
 If you need additional warmth add a merino liner glove under your regular glove and your fingers will feel warmer.  
 
-There is also an option from Hestra available - the Hestra Army Leather Heli 3-Finger Glove - which sits in between mitts and gloves are probably also a good option for example if you need to handle a camera. This model is my favourite model of all gloves in this list.  
+There is also an option from Hestra available - the Hestra Army Leather Heli 3-Finger Glove - which sits in between mitts and gloves are probably also a good option for example if you need to handle a camera. This model is my favorite model of all gloves in this list.  
 
 However, you can also just take your main gloves off and operate your camera by just wearing the liner gloves. Once you have taken your picture you just put your main gloves back over the merino liner gloves.  
