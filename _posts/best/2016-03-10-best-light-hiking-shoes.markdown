@@ -50,8 +50,6 @@ Compared to traditional hiking boots they are much lighter and packable.
 
 <!--more-->
 
-- test
-
 ## Advantages of ultralight hiking shoes
 
 * They are very lightweight compared to traditional hiking or backpacking boots.  
