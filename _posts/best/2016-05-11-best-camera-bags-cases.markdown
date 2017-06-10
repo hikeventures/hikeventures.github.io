@@ -1,14 +1,25 @@
-In this blog post I would like to give an overview about the best lightweight camera bags which I would select for a Sony A7, A7II A7RII or A7SII (and also a6500, a6300 or a6000 since they share a similar form factor).  
+---
+layout: post
+title: Best outdoor camera bags for Sony A7II, A9, a6000, a6300 or a6500
+description: My selection of the best outdoor camera bags for your Sony camera
+date: 2016-05-11 07:30:00
+category: review
+tags:
+  - review
+  - camera bag
+  - photography
+---
+In this blog post I would like to give an overview about the best lightweight camera bags which I would select for a Sony A7, A7II A7RII, A7SII or A9 (and also a6500, a6300 or a6000 since they share a similar form factor).  
 
 Different cases might be useful for different activities e.g. you might select a different camera bag when you go hiking than you would choose when planning to go on a kayaking or packrafting trip.  
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716060755/in/photolist-JP8CEz-JNYoHW-KKxjpM-pbERVy" title="Best outdoor camera bags for Sony A7II, a6000, a6300 or a6500"><img src="https://c4.staticflickr.com/9/8606/28716060755_0596cd42cf_k.jpg" width="2048" height="1365" alt="Best outdoor camera bags for Sony A7II, a6000, a6300 or a6500"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716060755/in/photolist-JP8CEz-JNYoHW-KKxjpM-pbERVy" title="Best outdoor camera bags for Sony A7II, a6000, a6300 or a6500"><img src="https://c4.staticflickr.com/9/8606/28716060755_0596cd42cf_k.jpg" width="2048" height="1365" alt="Best outdoor camera bags for Sony A7II, a6000, a6300, A9 or a6500"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-With the Lowepro Nova Sport 7L in [Northern Norway](http://www.hikeventures.com/Finnmark/).  
+With the Lowepro Nova Sport 7L in [Northern Norway.](http://www.hikeventures.com/Finnmark/)  
 
-As I have recently upgraded my own camera, I was in need of a new camera case which I can take with me on my next outdoor adventures and which packs light and small. 
+As I have recently upgraded my own camera, I was in need of a new camera case which I can take with me on my next outdoor adventures and which packs light and small.  
 
-<h2 id="list">The best camera bags for Sony A7 or a6300</h2>  
+<h2 id="list">The best camera bags for Sony A7, A9 or a6500</h2>  
 
 <div class="table-responsive">  
 
@@ -60,13 +71,15 @@ As I have recently upgraded my own camera, I was in need of a new camera case wh
 </div>  
 <!--more-->
 
+- test
+
 ## Best camera bags for hiking and backpacking
 
 When I plan to go hiking or backpacking I would like to have a camera bag where I can easily access my camera.   
 
 My camera bag should also be water resistant or waterproof if I don't have space to carry my camera in my backpack in case the weather turns bad.   
 
-Here are the camera bags and cases which I would consider to carry with me on my next hiking or backpacking trip.  
+Here are the camera bags and cases which I would consider to carry with me on my next hiking or backpacking trip.   
 
 <hr>
 
@@ -87,7 +100,7 @@ There is a front-folding lid to access gear quickly and smaller items can be org
 
 ## Lowepro Nova Sport 7L AW Camera Bag
 
-<a href="https://www.amazon.com/gp/product/B00F5JHA4A/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F5JHA4A&linkCode=as2&tag=hikeve-20&linkId=7feafd864ffdebacd5f4336698f6a983" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00F5JHA4A&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00F5JHA4A" width="1" height="1" border="0" alt="Lowepro Nova Sport 7L AW" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" href="https://www.amazon.com/gp/product/B00F5JHA4A/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F5JHA4A&linkCode=as2&tag=hikeve-20&linkId=7feafd864ffdebacd5f4336698f6a983"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00F5JHA4A&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00F5JHA4A" width="1" height="1" border="0" alt="Lowepro Nova Sport 7L AW" style="border:none !important; margin:0px !important;" />  
 
 **Weight**:  500 grams  
 **Dimenstions**: 7.48 x 6.89 x 9.84 inches  
@@ -157,7 +170,7 @@ The company claims that you can submerge the case 1m for 30 minutes. The case al
 
 ## Ortlieb Soft Shot Waterproof Camera Bag
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00CK0RIXK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CK0RIXK&linkCode=as2&tag=hikeve-20&linkId=a61a5ef9942d5b87f8e126a5754b6f4b" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00CK0RIXK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00CK0RIXK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00CK0RIXK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CK0RIXK&linkCode=as2&tag=hikeve-20&linkId=a61a5ef9942d5b87f8e126a5754b6f4b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00CK0RIXK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00CK0RIXK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
 **Weight**:  781 grams  
 **Dimenstions**: 21 X 27.5 X 15.5 inches  
@@ -213,6 +226,4 @@ The Thule Covert Camera Messenger Bag comes with a removable camera pod system a
 
 ## Conclusion
 
-From my point of view there is no best camera bag which fits every situation but having the right camera gear for different activities is essential to protect your gear and also to enjoy photography with your Sony A7 or a6300 more.   
-
-I hope you are able to find your camera bag for your next hiking, backpacking, kayaking or packrafting adventure.
+From my point of view there is no best camera bag which fits every situation but having the right camera gear for different activities is essential to protect your gear and also to enjoy photography with your Sony A7, A9 or a6500 more.
