@@ -228,7 +228,7 @@ The Vasque Breeze 2.0 GTX is a boot which can be worn for multiple day hikes and
 
 ## Hanwag Alaska GTX
 
-<a rel=“nofollow” target="_blank"  href="https://www.amazon.com/gp/product/B003F6GL1I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003F6GL1I&linkCode=as2&tag=hikeve-20&linkId=9feb6b6c1667ccf0b2659e6f6521ad4e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B003F6GL1I&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B003F6GL1I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B003F6GL1I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003F6GL1I&linkCode=as2&tag=hikeve-20&linkId=9feb6b6c1667ccf0b2659e6f6521ad4e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B003F6GL1I&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B003F6GL1I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
 The Alaska is a classic Hanwag hiking boot that is very popular in the summer version.   
 
