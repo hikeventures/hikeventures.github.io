@@ -6,9 +6,7 @@ Different cases might be useful for different activities e.g. you might select a
 
 With the Lowepro Nova Sport 7L in [Northern Norway](http://www.hikeventures.com/Finnmark/).  
 
-As I have recently upgraded my own camera, I was in need of a new camera case which I can take with me on my next outdoor adventures.  
-
-I was looking for a camera bag which packs small and came to the conclusion that I would need different camera bags depending on the activity I was planning to do.  
+As I have recently upgraded my own camera, I was in need of a new camera case which I can take with me on my next outdoor adventures and which packs light and small. 
 
 <h2 id="list">The best camera bags for Sony A7 or a6300</h2>  
 
