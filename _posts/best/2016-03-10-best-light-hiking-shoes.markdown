@@ -14,7 +14,7 @@ In this blog post I would like to present you my selection of the best light hik
 
 Compared to traditional hiking boots they are much lighter and packable.  
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27313686292/in/album-72157669221615915/" title="Best ultralight summer hiking shoes for 2017"><img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="1024" height="643" alt="Best ultralight summer hiking shoes for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/90204224@N07/15189713140/in/album-72157646473352583/" title="Best light hiking shoes 2017"><img src="https://c5.staticflickr.com/3/2942/15189713140_cf23bd9412_b.jpg" width="100%" alt="The best ultralight hiking shoes 2017" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <h2 id="list">The best ultralight hiking shoes</h2>  
 
