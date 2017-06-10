@@ -289,8 +289,8 @@ There are several factors on how you should choose your hiking boots. Some brand
 Heavier hiking boots with a high shaft are probably a good choice if you:  
 
 * carry a heavy backpack  
-* need anckle support  
-* need waterproof shoes or protection to the anckle  
+* need ankle support  
+* need waterproof shoes or protection to the ankle  
 
 <hr>
 
