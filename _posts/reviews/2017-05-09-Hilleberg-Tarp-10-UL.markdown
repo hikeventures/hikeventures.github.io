@@ -34,10 +34,16 @@ On the picture above you can see the size of the Hilleberg Unna, Unna Inner Mesh
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/33675968203/in/dateposted-public/" title="Hilleberg Tarp 10 UL"><img src="https://c1.staticflickr.com/5/4180/33675968203_6297878d6c_k.jpg" width="2048" height="1367" alt="Hilleberg Tarp 10 UL"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/34410681593/in/dateposted-public/" title="Hilleberg Tarp 10 UL"><img src="https://c1.staticflickr.com/5/4259/34410681593_8698ed5285_k.jpg" width="2048" height="1368" alt="Hilleberg Tarp 10 UL"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+The Hillerberg Tarp 10 UL also protects you from the sun when you lie in a hammock.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/35089926641/in/dateposted-public/" title="Stuff bag of the Hilleberg Tarp 10 UL"><img src="https://c1.staticflickr.com/5/4248/35089926641_8b583ddae1_k.jpg" width="2048" height="1368" alt="Stuff bag of the Hilleberg Tarp 10 UL"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+The stuff bag of the Hilleberg Tarp 10 UL is sewed on the Tarp itself.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/35054317092/in/dateposted-public/" title="Hilleberg Tarp 10 UL"><img src="https://c1.staticflickr.com/5/4201/35054317092_0b70ef94f7_k.jpg" width="2048" height="1368" alt="Hilleberg Tarp 10 UL"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+The attachment points on the tarp with 3 mm guy lines.
+
 <a href="http://amzn.to/2qNZ6Zp" rel="nofollow"><button type="button" class="btn btn-danger">See the Hilleberg Tarp 10 UL</button></a>
-
----
-
-{% include disclaimer.html %}
-
----
