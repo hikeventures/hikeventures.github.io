@@ -51,16 +51,6 @@ In this blog post I will present you my selection of the best ski gloves for 201
 
 <!--more-->
 
-## Mittens
-
-<a rel=“nofollow” target="_blank"  href="https://www.amazon.com/gp/product/B06XD6DN9P/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06XD6DN9P&linkCode=as2&tag=hikeve-20&linkId=ba1d583dcd713c7c45100f3e203cb793"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B06XD6DN9P&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B06XD6DN9P" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
-
-The Chums Floating Marsupial Wallet floating wallet can float your keys, cash and credit cards, comes in a high visible yellow colour and weights 75 grams.  
-
-<a href="[http://amzn.to/2rLiidp](http://amzn.to/2rLiidp)" rel="nofollow"><button type="button" class="btn btn-danger">See the Chums Floating Marsupial Wallet</button></a>  
-
-<hr>
-
 ## Outdoor Research Alti Mittens
 
 <a  href="http://www.amazon.com/gp/product/B0059BIYJ4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0059BIYJ4&linkCode=as2&tag=hikeve-20&linkId=R5EWXJMGAYQ6KYOR" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0059BIYJ4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0059BIYJ4" width="1" height="1" border="0" alt="Outdoor Research Alti Mittens" style="border:none !important; margin:0px !important;" />  
@@ -110,8 +100,6 @@ The only downside on the Canada Goose Down Mittens is that they don't have a rem
 <a href="http://amzn.to/2rh22NG" rel="nofollow"><button type="button" class="btn btn-danger">See the Canada Goose Down Mittens</button></a>  
 
 <hr>
-
-## Gloves
 
 ## Black Diamond Patrol Gloves
 
