@@ -51,22 +51,6 @@ In this blog post I will present you my selection of the best ski gloves for 201
 
 <!--more-->
 
-- test
-
-## Gloves or Mittens?
-
-Gloves give you more dexterity (that's the magic selling word in the world of gloves manufactures) than mittens. However, mittens keep your fingers warmer than gloves.  
-
-Gloves and mittens allow you to layer. Layering is an important aspect for everyone interested in outdoor activities and a liner glove can be regarded as the underwear for your fingers.   
-
-If you need additional warmth add a merino liner glove under your regular glove and your fingers will feel warmer.  
-
-There is also an option from Hestra available - the Hestra Army Leather Heli 3-Finger Glove - which sits in between mitts and gloves are probably also a good option for example if you need to handle a camera. This model is my favourite model of all gloves in this list.  
-
-However, you can also just take your main gloves off and operate your camera by just wearing the liner gloves. Once you have taken your picture you just put your main gloves back over the merino liner gloves.  
-
-<hr>
-
 ## Mittens
 
 <a rel=“nofollow” target="_blank"  href="https://www.amazon.com/gp/product/B06XD6DN9P/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06XD6DN9P&linkCode=as2&tag=hikeve-20&linkId=ba1d583dcd713c7c45100f3e203cb793"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B06XD6DN9P&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B06XD6DN9P" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
@@ -161,12 +145,14 @@ Not that expensive like the Arc'teryx Gothic Glove the Icebreaker Oasis 200 Glov
 
 <hr>
 
-## Conclusion
+## Gloves or Mittens?
 
-My personal preference goes towards the Hestra Army Leather Heli 3-Finger Glove.   
+Gloves give you more dexterity (that's the magic selling word in the world of gloves manufactures) than mittens. However, mittens keep your fingers warmer than gloves.  
 
-I need to be able to have one finger freely moving around to control my camera without having to take off my gloves all the time.   
+Gloves and mittens allow you to layer. Layering is an important aspect for everyone interested in outdoor activities and a liner glove can be regarded as the underwear for your fingers.   
 
-However, if you are looking for the ultimate in warmth then you should probably go for mittens.   
+If you need additional warmth add a merino liner glove under your regular glove and your fingers will feel warmer.  
 
-If the liners which are provided with the gloves are too warm you can either remove them or replace them with thinner merino liner gloves.
+There is also an option from Hestra available - the Hestra Army Leather Heli 3-Finger Glove - which sits in between mitts and gloves are probably also a good option for example if you need to handle a camera. This model is my favourite model of all gloves in this list.  
+
+However, you can also just take your main gloves off and operate your camera by just wearing the liner gloves. Once you have taken your picture you just put your main gloves back over the merino liner gloves.  
