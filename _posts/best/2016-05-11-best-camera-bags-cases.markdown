@@ -71,8 +71,6 @@ As I have recently upgraded my own camera, I was in need of a new camera case wh
 </div>  
 <!--more-->
 
-- test
-
 ## Best camera bags for hiking and backpacking
 
 When I plan to go hiking or backpacking I would like to have a camera bag where I can easily access my camera.   
