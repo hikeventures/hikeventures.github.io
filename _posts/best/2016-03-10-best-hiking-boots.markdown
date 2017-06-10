@@ -13,7 +13,7 @@ published: true
 ---
 Here is my selection of the best hiking boots for 2017.  
 
-Proper hiking boots are important if you are planning to hike in the mountains or if you have to carry a heavy backpack. They  should provide a good grip as well.  
+Hiking boots are important if you are planning to hike in the mountains or if you have to carry a heavy backpack. Moreover, they should provide a good grip as well.  
 
 For day trips which are not that demanding [lightweight hiking shoes](http://www.hikeventures.com/best-light-hiking-shoes/) could be an alternative to traditional hiking boots.  
 
@@ -236,7 +236,7 @@ The Hanwag Alaska has an extra G-loft insulation in it, (Hanwags own insulation)
 
 The boots come with an ice grip sole which provides a superior grip on ice, or slippery grounds in the winter.
 
-The model is additionally insulated within the sole and is  also suitable for snowshoeing. 
+The model is additionally insulated within the sole and is  also suitable for snowshoeing.
 
 <a href="http://amzn.to/2t53p3s" rel="nofollow"><button type="button" class="btn btn-danger">See the Hanwag Alaska</button></a>  
 
