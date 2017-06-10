@@ -44,8 +44,8 @@ The Chums Floating Marsupial Wallet floating wallet can float your keys, cash an
 
 ## Conclusion
 
-If functionality is your main criteria to choose your wallet for your next hiking or backpacking trip then you should probably try a cheap plastic bag.   
-
-To make your wallet 100% waterproof you might however still place it in some sort of plastic bag or at least wax the G-1000 fabric.   
+The most affordable solution is probably to use a cheap plastic bag and wrap it around your wallet.
 
 Personally, I use both - a Fjällräven Zip Card Holder and sometimes an additional plastic bag when I go packrafting.
+
+The Chums wallet would be quite useful if you are into watersports such as kayaking or pack rafting.
