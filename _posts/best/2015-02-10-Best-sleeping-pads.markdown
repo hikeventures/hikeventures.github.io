@@ -185,7 +185,7 @@ The Big Agnes Q-Core SLX is an ultralight 3-season sleeping pad for temperatures
 
 ## Big Agnes Air Core Ultra
 
-<a rel=“nofollow” target="_blank"  href="https://www.amazon.com/gp/product/B01AYPQN1U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AYPQN1U&linkCode=as2&tag=hikeve-20&linkId=baccc04315ff87b1d35d0b9855edc307"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01AYPQN1U&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01AYPQN1U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01AYPQN1U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AYPQN1U&linkCode=as2&tag=hikeve-20&linkId=baccc04315ff87b1d35d0b9855edc307"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01AYPQN1U&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01AYPQN1U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 566 g  
 **R-Value**: 1.5  
@@ -200,7 +200,7 @@ The Big Agnes Air Core Ultra also has an antimicrobial treatment.
 
 ## Big Agnes Insulated Air Core Ultra
 
-<a rel=“nofollow” target="_blank"  href="https://www.amazon.com/gp/product/B01LXU7NR3/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LXU7NR3&linkCode=as2&tag=hikeve-20&linkId=f4c67f2b80dc8f9a2f2658111bfca41e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LXU7NR3&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LXU7NR3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01LXU7NR3/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LXU7NR3&linkCode=as2&tag=hikeve-20&linkId=f4c67f2b80dc8f9a2f2658111bfca41e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LXU7NR3&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LXU7NR3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 598 g  
 **R-Value**: 4.1  
@@ -215,7 +215,7 @@ It has a 25% increased durability and tear strength and an antimicrobial treatme
 
 ## Therm-a-Rest NeoAir All Season SV
 
-<a rel=“nofollow” target="_blank"  href="https://www.amazon.com/gp/product/B01MSH0ME9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MSH0ME9&linkCode=as2&tag=hikeve-20&linkId=b93213b21972c4c979a678f64003e4f8"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MSH0ME9&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MSH0ME9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01MSH0ME9/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MSH0ME9&linkCode=as2&tag=hikeve-20&linkId=b93213b21972c4c979a678f64003e4f8"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MSH0ME9&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MSH0ME9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 650 g  
 **R-Value**: 4.9  
@@ -230,7 +230,7 @@ The Therm-a-Rest NeoAir All Season SV is also one of the warmest sleeping pads a
 
 ## Therm-a-Rest Slacker Hammock Pad
 
-<a rel=“nofollow” target="_blank"  href="https://www.amazon.com/gp/product/B01MT1T4IE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MT1T4IE&linkCode=as2&tag=hikeve-20&linkId=0e7b062c4643c750d88312815a72ea69"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MT1T4IE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MT1T4IE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01MT1T4IE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MT1T4IE&linkCode=as2&tag=hikeve-20&linkId=0e7b062c4643c750d88312815a72ea69"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MT1T4IE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MT1T4IE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
 **weight**: 435 g  
 **R-value**: 2.1  
@@ -243,7 +243,7 @@ The Therm-a-Rest Slacker Hammock Pad was designed to fit inside a Therm-a-Rest S
 
 ## Therm-a-Rest Trail King SV
 
-<a rel=“nofollow” target="_blank"  href="https://www.amazon.com/gp/product/B01MTQASDT/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MTQASDT&linkCode=as2&tag=hikeve-20&linkId=dd2f7d56134d726752acd71a9ae7ac0f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MTQASDT&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MTQASDT" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01MTQASDT/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MTQASDT&linkCode=as2&tag=hikeve-20&linkId=dd2f7d56134d726752acd71a9ae7ac0f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MTQASDT&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MTQASDT" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 822 g  
 **R-value**: 1.8  
@@ -258,7 +258,7 @@ The Trail King SV includes AirFrame construction which alternates foam and air c
 
 ## Klymit Double V
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/B01K5GAQ9I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01K5GAQ9I&linkCode=as2&tag=hikeve-20&linkId=63e6071bd6e650487675593fbcc096be"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01K5GAQ9I&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01K5GAQ9I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow"  href="https://www.amazon.com/gp/product/B01K5GAQ9I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01K5GAQ9I&linkCode=as2&tag=hikeve-20&linkId=63e6071bd6e650487675593fbcc096be"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01K5GAQ9I&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01K5GAQ9I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 1150 g  
 **R-value**: 1.3  
