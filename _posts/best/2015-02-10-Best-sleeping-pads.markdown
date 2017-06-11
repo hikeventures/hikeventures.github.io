@@ -201,7 +201,7 @@ The Big Agnes Air Core Ultra also has an antimicrobial treatment.
 
 ## Big Agnes Insulated Air Core Ultra
 
-<a rel=“nofollow” target="_blank"  href="https://www.amazon.com/gp/product/B01LXU7NR3/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LXU7NR3&linkCode=as2&tag=hikeve-20&linkId=f4c67f2b80dc8f9a2f2658111bfca41e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LXU7NR3&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LXU7NR3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01LXU7NR3/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LXU7NR3&linkCode=as2&tag=hikeve-20&linkId=f4c67f2b80dc8f9a2f2658111bfca41e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LXU7NR3&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LXU7NR3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 598 g  
 **R-Value**: 4.1  
