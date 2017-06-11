@@ -24,8 +24,6 @@ There are certain criteria you should look out when buying a new packrafting hel
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15432217426/in/photolist-GbSzpE-HnoEX7-GaxJVX-GXb3Qv-fBZbWn-qN9fdL-qeZAQ1-pJRcuY-oXDYGk-oXE2fB-pUotup-pSioYy-pF3ZMU-oJ8eZL-pUdwjt-pvG9Af-oMnq8m-qGeLzL-oCa2tz-ofA95w-o3ozXu-o1sHd9-nL2c9g-o5eCPi-nKXNaZ-o1pT3W-nKXHCH-nB97hW-nTASyZ-nge5dS-nhY6vf-nhYSEd-nqwZew-noqfLG-nbZrcA-nbXFbR-n9UVEg-nbX8MF-n9UL3q-hXNmLH-hXMK7h-hXMq24-hXNm3Z-dXbkpf-dL8yRc-dNuTzR-dNuWmP-dNAuXb-dNuVEk-nbXz8D" title="Best Packrafting Helmets"><img src="https://c3.staticflickr.com/3/2949/15432217426_553ad0b259_k.jpg" width="2048" height="1367" alt="Best packrafting helmets"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-- test
-
 ## The best packrafting and kayaking helmets
 
 <div class="table-responsive">  
