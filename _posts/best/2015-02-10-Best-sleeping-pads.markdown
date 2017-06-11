@@ -85,14 +85,13 @@ I have received the XTherm from Therm-a-Rest for testing and it's now my go-to s
 
 <!--more-->
 
-
 ## Therm-A-Rest NeoAir XLite
+
+<a href="https://www.amazon.com/gp/product/B00PZL15OY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PZL15OY&linkCode=as2&tag=hikeve-20&linkId=5fda56383b6e7ecd83ffee998ddbe42b" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00PZL15OY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00PZL15OY" width="1" height="1" border="0" alt="Therm-a-Rest NeoAir XLite" style="border:none !important; margin:0px !important;" />  
 
 **R-Value**: 3.2  
 **Weight**: 350 g  
 **Fabric**: 30D  
-
-<a href="https://www.amazon.com/gp/product/B00PZL15OY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PZL15OY&linkCode=as2&tag=hikeve-20&linkId=5fda56383b6e7ecd83ffee998ddbe42b" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00PZL15OY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00PZL15OY" width="1" height="1" border="0" alt="Therm-a-Rest NeoAir XLite" style="border:none !important; margin:0px !important;" />  
 
 The Therm-a-Rest NeoAir Xlite is a solid 3-season air sleeping pad which you could consider if you look for a pad which packs light.  
 
@@ -102,11 +101,11 @@ The Therm-a-Rest NeoAir Xlite is a solid 3-season air sleeping pad which you cou
 
 ## Sea to Summit Ultralight
 
+<a href="https://www.amazon.com/gp/product/B00MTZP8RY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MTZP8RY&linkCode=as2&tag=hikeve-20&linkId=44fb9d7c681394023185b0482e181c5e" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00MTZP8RY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00MTZP8RY" width="1" height="1" border="0" alt="Sea to Summit Ultralight" style="border:none !important; margin:0px !important;" />  
+
 **R-Value**: 0.7  
 **Weight**: 355 g  
 **Fabric**: 40D  
-
-<a href="https://www.amazon.com/gp/product/B00MTZP8RY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MTZP8RY&linkCode=as2&tag=hikeve-20&linkId=44fb9d7c681394023185b0482e181c5e" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00MTZP8RY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00MTZP8RY" width="1" height="1" border="0" alt="Sea to Summit Ultralight" style="border:none !important; margin:0px !important;" />  
 
 Another light sleeping pad is the Sea to Summit Ultralight which featuers a more durable fabric than the Therm-aRest Neo Air Xlite while the NeoAir Xlite will give you a better insulation.  
 
@@ -116,12 +115,12 @@ Another light sleeping pad is the Sea to Summit Ultralight which featuers a more
 
 ## Therm-a-Rest NeoAir XTherm
 
+<a href="https://www.amazon.com/gp/product/B00TSFYZAE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TSFYZAE&linkCode=as2&tag=hikeve-20&linkId=25c9ce32924da763f8646aec664470c1" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00TSFYZAE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00TSFYZAE" width="1" height="1" border="0" alt="Therm-a-Rest NeoAir XTherm" style="border:none !important; margin:0px !important;" />  
+
 **R-Value**: 5.7  
 **Weight**:  410 g  
 **Fabric**: 30D  
 **Fabric bottom**: 70D  
-
-<a href="https://www.amazon.com/gp/product/B00TSFYZAE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TSFYZAE&linkCode=as2&tag=hikeve-20&linkId=25c9ce32924da763f8646aec664470c1" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00TSFYZAE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00TSFYZAE" width="1" height="1" border="0" alt="Therm-a-Rest NeoAir XTherm" style="border:none !important; margin:0px !important;" />  
 
 The Therm-a-Rest NeoAir XTherm is a sleeping pad for late spring, winter or early spring. However, in Scandinavia it is my go-to sleeping bag throughout the year.  
 
@@ -131,10 +130,10 @@ The Therm-a-Rest NeoAir XTherm is a sleeping pad for late spring, winter or earl
 
 ## Therm-a-Rest Z LITE SOL
 
+<a href="https://www.amazon.com/gp/product/B005I6R0WC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005I6R0WC&linkCode=as2&tag=hikeve-20&linkId=cd2dc0ea0537f09b2be8968a9dd8422d" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B005I6R0WC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B005I6R0WC" width="1" height="1" border="0" alt="Therm-a-Rest Z LITE SOL" style="border:none !important; margin:0px !important;" />  
+
 **R-Value**: 2.6  
 **Weight**:  410 g  
-
-<a href="https://www.amazon.com/gp/product/B005I6R0WC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005I6R0WC&linkCode=as2&tag=hikeve-20&linkId=cd2dc0ea0537f09b2be8968a9dd8422d" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B005I6R0WC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B005I6R0WC" width="1" height="1" border="0" alt="Therm-a-Rest Z LITE SOL" style="border:none !important; margin:0px !important;" />  
 
 The Therm-a-Rest Z LITE SOL is a foam sleeping pad which is a safe choice than an air sleeping pad.   
 
@@ -146,11 +145,11 @@ You can also use this pad in combination with an air sleeping pad to get the ult
 
 ## Exped Synmat UL 7
 
+<a href="https://www.amazon.com/gp/product/B0047BXBUO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0047BXBUO&linkCode=as2&tag=hikeve-20&linkId=03286004564378e768bb3446d9c72c00" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0047BXBUO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0047BXBUO" width="1" height="1" border="0" alt="Exped Synmat UL 7" style="border:none !important; margin:0px !important;" />  
+
 **R-Value**: 3.3  
 **Weight**: 450 g  
 **Fabric**: 20D  
-
-<a href="https://www.amazon.com/gp/product/B0047BXBUO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0047BXBUO&linkCode=as2&tag=hikeve-20&linkId=03286004564378e768bb3446d9c72c00" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0047BXBUO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0047BXBUO" width="1" height="1" border="0" alt="Exped Synmat UL 7" style="border:none !important; margin:0px !important;" />  
 
 The Exped Synmat UL 7 was my go-to sleeping pad for a couple of years, however I have replaced it with the Therm-a-Rest XTherm as it offers a better insulation / weight ratio.  
 
@@ -160,13 +159,15 @@ The Exped Synmat UL 7 was my go-to sleeping pad for a couple of years, however I
 
 ## Therm-a-Rest EvoLite
 
+<a href="https://www.amazon.com/gp/product/B00PZKXB2Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PZKXB2Y&linkCode=as2&tag=hikeve-20&linkId=7de4b697126cb0f135e9550bf812d9fc" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00PZKXB2Y&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00PZKXB2Y" width="1" height="1" border="0" alt="Therm-a-Rest EvoLite" style="border:none !important; margin:0px !important;" />  
+
 **R-Value**: 2.1  
 **Weight**: 520 g  
 **Fabric**: 30D  
 
-<a href="https://www.amazon.com/gp/product/B00PZKXB2Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PZKXB2Y&linkCode=as2&tag=hikeve-20&linkId=7de4b697126cb0f135e9550bf812d9fc" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00PZKXB2Y&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00PZKXB2Y" width="1" height="1" border="0" alt="Therm-a-Rest EvoLite" style="border:none !important; margin:0px !important;" />  
+If you don't want to spend so much time inflating your sleeping pad then the Therm-a-Rest EvoLite might be an intersting sleeping pad for the summer.   
 
-If you don't want to spend so much time inflating your sleeping pad then the Therm-a-Rest EvoLite might be an intersting sleeping pad for the summer. However, the foam of the pad makes it a heavier choice and you don't get such a good insulation as in other air pads.  
+However, the foam of the pad makes it a heavier choice and you don't get such a good insulation as in other air pads.  
 
 <a href="http://amzn.to/2dBNswR" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Therm-a-Rest EvoLite</button></a>  
 
@@ -200,7 +201,7 @@ The Big Agnes Air Core Ultra also has an antimicrobial treatment.
 
 ## Big Agnes Insulated Air Core Ultra
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01LXU7NR3/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LXU7NR3&linkCode=as2&tag=hikeve-20&linkId=f4c67f2b80dc8f9a2f2658111bfca41e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LXU7NR3&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LXU7NR3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a rel=“nofollow” target="_blank"  href="https://www.amazon.com/gp/product/B01LXU7NR3/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LXU7NR3&linkCode=as2&tag=hikeve-20&linkId=f4c67f2b80dc8f9a2f2658111bfca41e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LXU7NR3&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LXU7NR3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 598 g  
 **R-Value**: 4.1  
@@ -258,7 +259,7 @@ The Trail King SV includes AirFrame construction which alternates foam and air c
 
 ## Klymit Double V
 
-<a rel="nofollow"  href="https://www.amazon.com/gp/product/B01K5GAQ9I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01K5GAQ9I&linkCode=as2&tag=hikeve-20&linkId=63e6071bd6e650487675593fbcc096be"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01K5GAQ9I&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01K5GAQ9I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01K5GAQ9I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01K5GAQ9I&linkCode=as2&tag=hikeve-20&linkId=63e6071bd6e650487675593fbcc096be"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01K5GAQ9I&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01K5GAQ9I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 1150 g  
 **R-value**: 1.3  
