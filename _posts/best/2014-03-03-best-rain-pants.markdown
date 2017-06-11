@@ -10,11 +10,6 @@ tags:
   - pants
 layout: post
 ---
-# Rain Pants
-
-
-## Introduction
-
 Here is my selection of the best rain pants for 2017. Planning to go hiking, backpacking or any other backcountry adventure? Then you should consider to pack lightweight rain pants in into your backpack.  
 
 Rain pants will help you to stay dry and warm and is one of the most essential items you should have when planning an outdoor trip.  
