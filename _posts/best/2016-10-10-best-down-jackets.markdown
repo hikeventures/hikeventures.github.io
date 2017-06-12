@@ -10,24 +10,13 @@ tags:
   - jackets
 layout: post
 ---
-<h2 style="color:red">Ultimate top down jackets for ultralight trips and lightweight winter adventures to keep you warm.</h2>
-<br>
+In this article I would like to present you my selection of the best down jackets for 2017 which I would pack into my backpack if I were to buy a new one.
 
-Do you need a new warm down jacket for the winter or for a cold summer night during a hike? Here is our <a href="#list">selection</a> of the best down jackets for 2017 to cover your summer and winter hiking and backcountry trips.
-
-We have selected a broad range of down jackets which can be worn in different conditions and for different activities like hiking, backpacking, skiing, snowboarding, mountaineering, climbing or on any other outdoor adventure.
-
-Also, check one of our <a href="#video">packrafting videos</a> where we had down jackets with us while packrafting in Northern Sweden. Also check our <a href="#interview">interview</a> at the end of this article with Berghaus and Rab to learn more about their down jackets.
-
----
+A down jacket keeps you warm in the evenings when you hang around in your camp. However, when you are active you should switch your down jacket with a [fleece jacket](http://www.hikeventures.com/best-fleece-jackets/). Down jackets are also great when you go on climbing or skiing trip e.g. in [Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/).
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31571859902/in/dateposted-public/" title="Best Down Jackets 2017"><img src="https://c7.staticflickr.com/1/299/31571859902_8b2cb77f6d_b.jpg" width="1024" height="546" alt="Best Down Jackets 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Konstantin snowshoeing in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/).
-
----
-
-<h2 id="list"> The best down jackets of 2017</h2>
+<h2> The best down jackets of 2017</h2>
 
 <div class="table-responsive">
 
@@ -55,10 +44,6 @@ Konstantin snowshoeing in [Finnish Lapland](http://www.hikeventures.com/snowshoe
         <tr>
           <td><a href="http://amzn.to/2dBjOHV" target="_blank" rel="nofollow">Arcteryx Cerium SV Hoody (850fp)</a></td><td>440g</td>
         </tr>
-
-
-
-
         <tr>
           <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Patagonia Men's Down Hooded Jacket (800fp)</a></td><td>550g</td>
         </tr>
@@ -91,9 +76,7 @@ Konstantin snowshoeing in [Finnish Lapland](http://www.hikeventures.com/snowshoe
 <hr>
 
 
-The lighter jackets usually come with less down and are more suitable for warmer months or as a mid-layer during the winter. Some people also prefer synthetic insulation rather than down. However, keep in mind that synthetic insulation is more bulky and offers less insulation than down. Synthetic insulation might be a better choice in very damp or wet conditions.
-
-Sometimes you might also get a down jacket for a significant lower price especially at the end of the season when stores want to clear their stock. In many cases the new models just come with a different color so it's worth to have a look on the old models as well.
+The lighter jackets usually come with less down and are more suitable to wear during the warmer months or as a mid-layer during the winter. Some also prefer synthetic insulation rather than down. However, synthetic insulation is more bulky and offers less insulation than down but excels in very damp or wet conditions when down might lose its insulation capabilities when getting wet.
 
 <!--more-->
 
@@ -217,19 +200,3 @@ The Fjällräven Arktis Parka is made for very cold conditions and keeps you war
 The Canada Goose Expedition Down Parka was originally designed for scientists in Antarctica. This is probably the warmest jacket in our selection.
 
 <a href="http://amzn.to/2hMJNwd" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Canada Goose Expedition Down Parka</button></a>
-
----
-
-{% include disclaimer.html %}
-
----
-
-[1]:	http://www.hikeventures.com/destinations/
-[2]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Finnish Lapland"
-[14]:	http://www.backcountry.com/sea-to-summit-event-compression-dry-sack
-[15]:	http://www.backcountry.com/nikwax-down-wash-direct
-[16]:	http://www.backcountry.com/nikwax-down-proof-solution
-[17]:	http://www.hikeventures.com/best-fleece-jackets/
-[18]:	http://www.hikeventures.com/best-fleece-jackets/
-[19]:	http://www.hikeventures.com/best-fleece-jackets/ "fleece jacket"
-[20]:	http://www.hikeventures.com/best-waterproof-rain-jackets/ "rain jacket"
