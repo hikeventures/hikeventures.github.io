@@ -177,18 +177,6 @@ More heavy than the other jackets in our list, the Arcteryx Ceres Jacket is made
 
 <hr>
 
-<h3><a href="http://amzn.to/2gZiVML" target="_blank" rel="nofollow">Fjällräven Arktis Parka (500fp)</a></h3>
-
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01M15A80Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01M15A80Q&linkCode=as2&tag=hikeve-20&linkId=16c5a28fb62372436348b1edd2b1c6c0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01M15A80Q&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01M15A80Q" width="1" height="1" border="0" alt="Fjällräven Arktis Parka" style="border:none !important; margin:0px !important;" />
-
-**Weight:** 1945g
-
-The Fjällräven Arktis Parka is made for very cold conditions and keeps you warm even during low-intensity activities. The Fjällräven Arktis Parka and the Canada Goose Expedition Down Parka are the warmest jackets in our selection.
-
-<a href="http://amzn.to/2gZiVML" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Fjällräven Arktis Parka</button></a>
-
-<hr>
-
 <h3><a href="http://amzn.to/2hMJNwd" target="_blank" rel="nofollow">Canada Goose Expedition Down Parka (625fp)</a></h3>
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01KXUFDQC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01KXUFDQC&linkCode=as2&tag=hikeve-20&linkId=5aaf89773baa2dd8884a28b116bf9e3e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01KXUFDQC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01KXUFDQC" width="1" height="1" border="0" alt="Canada Goose Expedition Down Parka" style="border:none !important; margin:0px !important;" />
