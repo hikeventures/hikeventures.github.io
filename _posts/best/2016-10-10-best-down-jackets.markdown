@@ -60,10 +60,6 @@ A down jacket keeps you warm in the evenings when you hang around in your camp. 
           <td><a href="http://amzn.to/2endumN" target="_blank" rel="nofollow">Arcteryx Ceres Jacket (850fp)</a></td><td>860g</td>
         </tr>
 
-
-        <tr>
-          <td><a href="http://amzn.to/2gZ5BrN" target="_blank" rel="nofollow">Fjällräven Arktis Parka (500fp)</a></td><td>1954g</td>
-        </tr>
         <tr>
           <td><a href="http://amzn.to/2i2OmBR" target="_blank" rel="nofollow">Canada Goose Expedition Parka (625fp)</a></td><td>2070g</td>
         </tr>
