@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Best GPS smartwatches for hiking and backpacking 2017
+title: Best outdoor watches for hiking and backpacking 2017
 description: Our selection of the best outdoor smartwatch for 2017.
 date: 2016-06-10 13:46:20
 update_date: 2017-01-15 06:00:52
@@ -10,7 +10,7 @@ tags:
   - best
   - watches
 ---
-In this blog post I will present you my selection of the best GPS smartwatches for hiking and backpacking for 2017 which I would consider to take with me on my next outdoor adventure. They might be also useful if you are into running.  
+In this blog post I will present you my selection of the best outdoor watches for hiking and backpacking for 2017 which I would consider to take with me on my next outdoor adventure. They might be also useful if you are into running.  
 
 At the moment I am wearing a Suunto Traverse which has a monochrome display and I am quite satisfied with it.  
 
