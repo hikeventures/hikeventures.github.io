@@ -80,8 +80,6 @@ The lighter jackets usually come with less down and are more suitable to wear du
 
 <!--more-->
 
-<hr>
-
 <h3 id="example"><a href="http://amzn.to/2doK4aj" target="_blank" rel="nofollow">Mountain Hardware Ghost Whisperer Hooded Down Jacket</a></h3>
 
 
