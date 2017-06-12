@@ -12,7 +12,7 @@ layout: post
 ---
 In this article I would like to present you my selection of the best down jackets for 2017 which I would pack into my backpack if I were to buy a new one.
 
-A down jacket keeps you warm in the evenings when you hang around in your camp. However, when you are active you should switch your down jacket with a [fleece jacket](http://www.hikeventures.com/best-fleece-jackets/). Down jackets are also great when you go on climbing or skiing trip e.g. in [Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/).
+A down jacket keeps you warm in the evenings when you hang around in your camp. However, when you are active you should consider to wear a [fleece jacket](http://www.hikeventures.com/best-fleece-jackets/) rather than a down jacket. Down jackets are also great when you go on a climbing or skiing trip e.g. in [Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/).
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31571859902/in/dateposted-public/" title="Best Down Jackets 2017"><img src="https://c7.staticflickr.com/1/299/31571859902_8b2cb77f6d_b.jpg" width="1024" height="546" alt="Best Down Jackets 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
