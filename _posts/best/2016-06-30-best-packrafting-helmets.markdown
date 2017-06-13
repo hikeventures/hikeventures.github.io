@@ -15,10 +15,12 @@ In this blog post I would like to write about my selection of the best pack raft
 If you are planning to do whitewater packrafting or kayaking then you should probably consider to wear a helmet which protects your head in case you flip with your packraft or kayak.  
 There are certain criteria you should look out when buying a new packrafting helmet:  
 
+
 	•	Is the helmet certified for whitewater (e.g. CE EN 1385)?  
 	•	Do you need a visor for additional face protection or against the sun?  
 	•	Is the helmet lightweight so it feels comfortable to wear it for a longer period?  
 	•	Do you need ear protection?
+
 
 ## The best packrafting and kayaking helmets
 
