@@ -12,17 +12,13 @@ tags:
   - packrafting
 ---
 In this blog post I would like to write about my selection of the best pack rafting and kayaking helmets for 2017.  
-
-If you are planning to do whitewater packrafting or kayaking then you should probably consider to wear a helmet which protects your head in case you flip with your packraft or kayak.   
-
+If you are planning to do whitewater packrafting or kayaking then you should probably consider to wear a helmet which protects your head in case you flip with your packraft or kayak.  
 There are certain criteria you should look out when buying a new packrafting helmet:  
 
-* Is the helmet certified for whitewater (e.g. CE EN 1385)?  
-* Do you need a visor for additional face protection or against the sun?  
-* Is the helmet lightweight so it feels comfortable to wear it for a longer period?  
-* Do you need ear protection?  
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15432217426/in/photolist-GbSzpE-HnoEX7-GaxJVX-GXb3Qv-fBZbWn-qN9fdL-qeZAQ1-pJRcuY-oXDYGk-oXE2fB-pUotup-pSioYy-pF3ZMU-oJ8eZL-pUdwjt-pvG9Af-oMnq8m-qGeLzL-oCa2tz-ofA95w-o3ozXu-o1sHd9-nL2c9g-o5eCPi-nKXNaZ-o1pT3W-nKXHCH-nB97hW-nTASyZ-nge5dS-nhY6vf-nhYSEd-nqwZew-noqfLG-nbZrcA-nbXFbR-n9UVEg-nbX8MF-n9UL3q-hXNmLH-hXMK7h-hXMq24-hXNm3Z-dXbkpf-dL8yRc-dNuTzR-dNuWmP-dNAuXb-dNuVEk-nbXz8D" title="Best Packrafting Helmets"><img src="https://c3.staticflickr.com/3/2949/15432217426_553ad0b259_k.jpg" width="2048" height="1367" alt="Best packrafting helmets"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	•	Is the helmet certified for whitewater (e.g. CE EN 1385)?  
+	•	Do you need a visor for additional face protection or against the sun?  
+	•	Is the helmet lightweight so it feels comfortable to wear it for a longer period?  
+	•	Do you need ear protection?
 
 ## The best packrafting and kayaking helmets
 
@@ -40,6 +36,12 @@ There are certain criteria you should look out when buying a new packrafting hel
         <tr>  
           <td><a href="http://amzn.to/2dQcgyQ" target="_blank" rel="nofollow">NRS WRSI Trident Composite Helmet</a></td><td>848g</td>  
         </tr>  
+
+<tr>  
+          <td><a href="http://amzn.to/2eIhYHX" target="_blank" rel="nofollow">Sweet Protection Strutter Helmet</a></td><td>550g</td>  
+        </tr>  
+
+
         <tr>  
           <td><a href="http://amzn.to/2eIhYHX" target="_blank" rel="nofollow">NRS WRSI Current Helmet</a></td><td>517g</td>  
         </tr>  
@@ -121,6 +123,8 @@ The Sweet Protection Strutter Helmet features LFT shell technology which combine
 ## Sweet Protection Rocker Helmet
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01BKYRF0M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01BKYRF0M&linkCode=as2&tag=hikeve-20&linkId=71615fd39a08b4674b9bc0b3db519fb1"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01BKYRF0M&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01BKYRF0M" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+
+**Weight**: 550 grams  
 
 The Sweet Protection Rocker Helmet is probably going to replace my Petzl Meteor 3+ helmet in the future. I believe that the Rocker helmet offers better protection and is also more comfortable to wear.  
 
