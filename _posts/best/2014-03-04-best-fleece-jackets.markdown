@@ -55,7 +55,7 @@ A fleece jacket can be used as a mid-layer to keep you warm while you are active
 
 ## Arcteryx Thetis Zip Neck
 
-<a href="http://www.amazon.com/gp/product/B00GW7XOMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7XOMQ&linkCode=as2&tag=hikeve-20&linkId=KYPIGZUYHRQY4JNT" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7XOMQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7XOMQ" width="1" height="1" border="0" alt="Arcteryx Thetis Zip Neck" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B0163W9AWC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0163W9AWC&linkCode=as2&tag=hikeve-20&linkId=f8a2386d718c8a3ba9783d46dcbbb594"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0163W9AWC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0163W9AWC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 205 grams
 **Fabric**: Polartec Power Dry
@@ -70,7 +70,7 @@ The Polartec fabric should dry quite fast and transports moisture away from the 
 
 ## Mammut Moench Longsleeve
 
-<a href="http://www.amazon.com/gp/product/B005JWKXC4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005JWKXC4&linkCode=as2&tag=hikeve-20&linkId=AM7UMWDALROAZGHE" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005JWKXC4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005JWKXC4" width="1" height="1" border="0" alt="Mammut Moench Longsleeve" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00VAT8VYC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00VAT8VYC&linkCode=as2&tag=hikeve-20&linkId=58df6b23ecb6c70601ff7370daa39c2f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00VAT8VYC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00VAT8VYC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 205 grams
 **Fabric**: Polartec Power Stretch
@@ -81,7 +81,7 @@ The Mammut Moench Longsleeve features a stretchy fabric which should keep you dr
 
 ## Rab Micro Pull-on
 
-<a  href="http://www.amazon.com/gp/product/B00MVV2BDK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MVV2BDK&linkCode=as2&tag=hikeve-20&linkId=O35AIPYX5EH2BEVJ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00MVV2BDK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00MVV2BDK" width="1" height="1" border="0" alt="Rab Micro Pull-on" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00MVV254U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MVV254U&linkCode=as2&tag=hikeve-20&linkId=ad7e26f8f0efd5e79eee53571e750d7f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00MVV254U&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00MVV254U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 238 grams
 **Fabric**: Polartec Classic Micro (recycled)
@@ -92,7 +92,7 @@ The Rab Micro Pull-on is a light fleece pullover. It's fabric is made of recycle
 
 ## Arcteryx Delta LT Zip Neck
 
-<a href="http://www.amazon.com/gp/product/B00GW7ZQG8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZQG8&linkCode=as2&tag=hikeve-20&linkId=TWGUKPE3JX4IKWXK" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7ZQG8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7ZQG8" width="1" height="1" border="0" alt="Arcteryx Delta LT Zip Neck" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00PI0OE36/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PI0OE36&linkCode=as2&tag=hikeve-20&linkId=48a9340a78663ac058ee0fb7f40da06f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00PI0OE36&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00PI0OE36" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 240 grams
 **Fabric**: Polartec Classic 100 Micro Velour Small Grid
