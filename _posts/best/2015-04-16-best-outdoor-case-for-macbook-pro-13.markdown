@@ -21,7 +21,7 @@ I came across the Thule Gauntlet 13" MacBook Attaché which I found to be one of
 
 The Thule Gauntlet 13" MacBook Attaché is not completely waterproof but has a water resistant zipper and shell so you can carry your MacBook also in bad weather conditions.  
 
-This case might be also quite handy if you drive to your cottage on the countryside or if you plan to do some outdoor photography sessions where you need your MacBook to edit or manage your pictures and videos on the spot or just want to save your pictures on your hard drive (alternatively you might also consider taking a <a href="http://amzn.to/1J7wqxd">WD My Passport Wireless</a> if you only want to store pictures).  
+This case might be also quite handy if you drive to your cottage on the countryside or if you plan to do some outdoor photography sessions where you need your MacBook to edit or manage your pictures and videos on the spot or just want to save your pictures on your hard drive (alternatively you might also consider taking a <a rel="nofollow" href="http://amzn.to/1J7wqxd">WD My Passport Wireless</a> if you only want to store pictures).  
 
 <a href="https://www.flickr.com/photos/90204224@N07/17142212046"><img src="https://farm8.staticflickr.com/7629/17142212046_3ac6af68aa_b.jpg" width="100%" alt="Thule Gauntlet - Best Macbook Pro Case for Outdoors"></a>  
 
