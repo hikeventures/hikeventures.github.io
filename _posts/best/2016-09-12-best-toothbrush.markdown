@@ -44,7 +44,7 @@ The Colgate Value Travel Toothbrush is an easy-to-carry toothbrush which folds i
 
 <h2><a href="http://amzn.to/2gxh2tU" rel="nofollow">GUM Travel Toothbrushes with Antibacterial Bristles</a></h2>
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/B019QO0W4E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019QO0W4E&linkCode=as2&tag=hikeve-20&linkId=df48737095660d188c477afb11f47f72"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B019QO0W4E&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B019QO0W4E" width="1" height="1" border="0" alt="GUM Travel Toothbrushes with Antibacterial Bristles" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00J5JIMI4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00J5JIMI4&linkCode=as2&tag=hikeve-20&linkId=de32af8920a2f4bf2643b77939310351"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00J5JIMI4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00J5JIMI4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The GUM Travel Toothbrush features a compact and convenient design for travelling and offers you protection for up to 30 days. The cap functions also as a handle.
 
