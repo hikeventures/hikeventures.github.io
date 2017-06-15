@@ -71,7 +71,7 @@ The MSR Lightning Ascent is our favourite snowshoe. If you need a more durable v
 
 This model features Ergo Televators, PosiLock AT bindings, optional 5-inch (13-cm) tails for improved flotation and Torsion2 crampons  
 
-<a href="http://amzn.to/2evU8vs" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the MSR Lightning Ascent 25</button></a>  
+<a href="http://amzn.to/2evU8vs" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -84,7 +84,7 @@ This model features Ergo Televators, PosiLock AT bindings, optional 5-inch (13-c
 
 The Tubbs FLEX VRT 24 comes with Viper 2.0 carbon steel toe crampon, DYNAMICFIT BINDING and a FLEXTail.  
 
-<a href="http://amzn.to/2evSOZo" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Tubbs FLEX VRT 24</button></a>  
+<a href="http://amzn.to/2evSOZo" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -97,7 +97,7 @@ The Tubbs FLEX VRT 24 comes with Viper 2.0 carbon steel toe crampon, DYNAMICFIT 
 
 The MSR Lightning Explore 25 comes with pivot crampons, Axis Gait Technology, HyperLink binding, Ergo Televators and optional 5-inch (13-cm) tails for improved flotation.  
 
-<a href="http://www.amazon.com/gp/product/B00LFJNWGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNWGO&linkCode=as2&tag=hikeve-20&linkId=5DOFWDAR6SHYQAWV" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the MSR Lightning Explore 25</button></a>  
+<a href="http://www.amazon.com/gp/product/B00LFJNWGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNWGO&linkCode=as2&tag=hikeve-20&linkId=5DOFWDAR6SHYQAWV" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -110,7 +110,7 @@ The MSR Lightning Explore 25 comes with pivot crampons, Axis Gait Technology, Hy
 
 The MSR Revo Ascent 25 comes with  Split teeth of Torsion2 crampons, PosiLock AT bindings, Ergo Televators and optional tails for improved flotation.  
 
-<a href="http://amzn.to/2ea20qB" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the MSR Revo Ascent 25</button></a>  
+<a href="http://amzn.to/2ea20qB" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -123,7 +123,7 @@ The MSR Revo Ascent 25 comes with  Split teeth of Torsion2 crampons, PosiLock AT
 
 The Tubbs Xpedition 25 comes with a ReAct binding, carbon steel Cobra toe crampon and grappler heel cleat.  
 
-<a href="http://amzn.to/2evSQR0" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Tubbs Xpedition 25</button></a>  
+<a href="http://amzn.to/2evSQR0" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -136,7 +136,7 @@ The Tubbs Xpedition 25 comes with a ReAct binding, carbon steel Cobra toe crampo
 
 The Atlas 12 Series frame is made of 7075 aluminum flagship snowshoe of Atlas, reactive frame, wrapp pro binding, spring-loaded suspension and Duratek Decking  
 
-<a href="http://amzn.to/2eTG0PH" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Atlas 12 Series</button></a>  
+<a href="http://amzn.to/2eTG0PH" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 

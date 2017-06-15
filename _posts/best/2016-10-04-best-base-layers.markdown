@@ -93,7 +93,7 @@ Patrick <a href="http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekk
 
 The Icebreaker Men's Everyday Long Sleeve crewe is made from a 200gm rib fabric and us a great base layer under a shell or as a stand alone shirt. It comes in a slim design and dries fast.
 
-<a href="http://amzn.to/2fuHUlH" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Icebreaker Men's Everyday Long Sleeve Crewe Top</button></a>
+<a href="http://amzn.to/2fuHUlH" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -103,9 +103,9 @@ The Icebreaker Men's Everyday Long Sleeve crewe is made from a 200gm rib fabric 
 
 **Weight:** 230g
 
-The Helly Hansen Men's HH Warm Ice Long Sleeve Base Layer Crew consists of less Merino wool and more synthetic fibres than the Icebreaker shirts. It might be a better option if you are planning to be very active as the lower percentage of merino may let the base layer dry faster. On the other hand it will not keep you that warm as the Icebreaker base layers.
+The Helly Hansen Men's HH Warm Ice Long Sleeve Base Layer Crew consists of less Merino wool and more synthetic fibers than the Icebreaker shirts. It might be a better option if you are planning to be very active as the lower percentage of merino may let the base layer dry faster. On the other hand it will not keep you that warm as the Icebreaker base layers.
 
-<a href="http://amzn.to/2fxuOau" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Helly Hansen Men's HH Warm Ice Long Sleeve Base Layer Crew</button></a>
+<a href="http://amzn.to/2fxuOau" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -117,7 +117,7 @@ The Helly Hansen Men's HH Warm Ice Long Sleeve Base Layer Crew consists of less 
 
 The Icebreaker Men's Oasis Long Sleeve Crewe is similar to the Icebreaker Men's Everyday Long Sleeve Crewe Top but a view grams heavier and a slightly different design.
 
-<a href="http://amzn.to/2gb2N6E" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Icebreaker Men's Oasis Long Sleeve Crewe Top</button></a>
+<a href="http://amzn.to/2gb2N6E" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -129,7 +129,7 @@ The Icebreaker Men's Oasis Long Sleeve Crewe is similar to the Icebreaker Men's 
 
 The Smartwool Men's NTS Mid 250 Crew Base Layer Shirt is the warmest base layer from Smartwool and also slightly warmer than the other products mentioned in this blog post.
 
-<a href="http://amzn.to/2fv4cDN" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Smartwool Men's NTS Mid 250 Crew Base Layer Shirt</button></a>
+<a href="http://amzn.to/2fv4cDN" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -141,15 +141,9 @@ The Smartwool Men's NTS Mid 250 Crew Base Layer Shirt is the warmest base layer 
 
 The Icebreaker Men's Zone One Sheep Suit is an all-in-one baselayer solution made of 200 lightweight merino like the Icebreaker shirts mentioned above. However, one advantage on the Icebreaker Men's Zone One Sheep Suit is that it has dedicated heat zones under your arms so heat can flow away from your body more easily. This is one of the products which we have received from Icebreaker and we are going to test in Norway.
 
-<a href="http://amzn.to/2fv96As" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Icebreaker Men's Zone One Sheep Suit</button></a>
+<a href="http://amzn.to/2fv96As" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
 ## Conclusion
-The base layers above are all possible options if you plan a trip to colder regions. Selecting a base layer depends on the activity you are planning to do. For normal hiking or not that intense activities I would rather take a base layer which has more merino wool in it rather than synthetic fibres. It's also important that the base layer stays next to the skin so it can dry faster if you sweat. The choice is yours.
-
----
-
-{% include disclaimer.html %}
-
----
+The base layers above are all possible options if you plan a trip to colder regions. Selecting a base layer depends on the activity you are planning to do. For normal hiking or not that intense activities I would rather take a base layer which has more merino wool in it rather than synthetic fibers. It's also important that the base layer stays next to the skin so it can dry faster if you sweat. The choice is yours.

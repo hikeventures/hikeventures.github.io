@@ -59,9 +59,3 @@ We always use a phone and a mpa to navigate in the backcountry. However, having 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_k5JOND4l-k"></iframe>
 </div>
-
----
-
-{% include disclaimer.html %}
-
----

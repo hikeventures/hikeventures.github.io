@@ -17,17 +17,9 @@ The Montbell U.L. Down Parka seems to be a perfect addition if you are planning 
 The Montbell UL Down Parka weights 260 grams and comes with 800 cuin goose down. It also has a DWR treatment andcomes in a 15-denier ballistic airlight nylon shell to keep the down dry if it's very moisture however this jacket is not waterproof.
 <a href="https://www.flickr.com/photos/90204224@N07/8576876031" title="Montbell U.L. Down Parka"><img src="https://farm9.staticflickr.com/8526/8576876031_2b76bdfb2e_b.jpg" width="1024" height="683" alt="Montbell U.L. Down Parka - Field Test"></a>
 
-{% include banner_ad.html %}
-
 ## Recommendation
 The Montbell U.L. Down Parka is great for anything where you are not active to keep you warm during 3-season (e.g. sitting in the camp in the evenings). There are also plenty of down jackets available which have even better down quality. I also wear it as an extra layer if my sleeping bag is not sufficient or as a mid-layer during the winter.
 
 If you need a real winter down jacket then the <a href="http://www.backcountry.com/rab-positron-down-jacket-mens">Rab Positron Jacket</a> would currently be my favorite winter down jacket.
 
 Still not sure which down jacket to buy? Here is a list of my <a href="http://www.hikeventures.com/best-down-jackets/">favorite down jackets</a> which I would currently buy as a 3- and 4-season down jacket.
-
----
-
-{% include disclaimer.html %}
-
----

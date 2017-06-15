@@ -56,7 +56,7 @@ Have a look on our <a href="#list">comparison table</a> to find the right camera
 
 The Nikon KeyMission 360 comes with SnapBridge 360/170 support. It has Wi-Fi and Bluetooth built-in. Further, the Nikon Keymission is is Waterproof, freezeproof down to -10°C and shockproof up to a drop of (2 meters) without use of an external housing. You can slow motion and time-lapse videos as well as 23.9-megapixel stills. The Nikon KeyMission weights around 198 grams. Apertures is f/2.0 and the field of view is Horizontal 360°. IPX8. Focus range is 30 cm. You can record 70 minutes of videos with the Nikon KeyMission 360.
 
-<a href="http://amzn.to/2eQufFk" rel="nofollow" target="blank"><button type="button" class="btn btn-danger">See the Nikon KeyMission 360</button></a>
+<a href="http://amzn.to/2eQufFk" rel="nofollow" target="blank"><img src="http://www.hikeventures.com/buy.gif"></a>
 <!--more-->
 <hr>
 
@@ -65,15 +65,9 @@ The Nikon KeyMission 360 comes with SnapBridge 360/170 support. It has Wi-Fi and
 
 The 360fly 4K records videos in 360° and takes 16-megapixel pictures. The 360fly 4K is water resistant to 1 ATM as well as dustproof and shockproof (1.5 meters). The camera comes with a built-in accelerometer, e-compass, gyroscope and non-assisted GPS sensors for geo-tagging. The battery lasts for about 1.5 hours while recoring videos. There is also a timelapse function built into the camera. The 360fly 4K weights about 172 grams. Aperture is f/2.5 and the field of view is Vertical 240° and Horizontal 360°. IPX6. Operating temperature goes down to -20°C and the Focus range is 30 cm.
 
-<a href="http://amzn.to/2f6NMq6" rel="nofollow" target="blank"><button type="button" class="btn btn-danger">See the 360fly 4K</button></a>
+<a href="http://amzn.to/2f6NMq6" rel="nofollow" target="blank"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
 <h2>Conclusion</h2>
 On paper, the Nikon makes a good impression with it's aperture and and higher IPX8 rating. However, the 360fly has quite a few features built-in which are missing on the Nikon. The decision which camera to pick on your next adventure is up to you.
-
-<hr>
-
-{% include disclaimer.html %}
-
-<hr>

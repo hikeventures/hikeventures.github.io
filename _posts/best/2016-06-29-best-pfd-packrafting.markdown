@@ -60,7 +60,7 @@ Also when you plan to packraft in the open sea you should look for a PFD which c
 
 Of course, you should always check the weather conditions before you go packrafting on the sea. Packrafts are actually not meant to be used on the sea but we have also paddled on the Baltic Sea in Finland and it worked quite well with our windpaddle sail.  
 
-PFD's are categorised by [pfdma.org](http://www.pfdma.org/choosing/types.aspx) into different classes (USCG and State Law Enforcement agencies require and/or recommend different Types of lifejackets for different applications) and I would recommend to read through the pfdma.org pages to make sure that you select the right one if you live in the U.S.  
+PFD's are categorized by [pfdma.org](http://www.pfdma.org/choosing/types.aspx) into different classes (USCG and State Law Enforcement agencies require and/or recommend different Types of lifejackets for different applications) and I would recommend to read through the pfdma.org pages to make sure that you select the right one if you live in the U.S.  
 
 We are usually wearing a dry suite when we go packrafting and we would rate the difficulty of the river which we are usually paddling between class 2 and class 3.   
 
@@ -78,7 +78,7 @@ The Astral Designs YTV is a great choice if you want to have a minimalistic life
 
 The Astral Designs YTV is classified as a Type V jacket by the US Coast Guard. It also has 2 zippered front pockets.  
 
-<a href="http://amzn.to/2e3aex9" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Astral Designs YTV</button></a>  
+<a href="http://amzn.to/2e3aex9" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -94,7 +94,7 @@ The air can flow straight through the mesh to your skin which makes paddling wit
 
 The back side of the V-Eight does also not interfere with your packraft seat. The V-Eight also has a quick access knife tab.  
 
-<a href="http://amzn.to/2ea3m4B" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Astral Designs V-Eight</button></a>  
+<a href="http://amzn.to/2ea3m4B" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -110,7 +110,7 @@ It does not has any special features but a small pocket on the inside part.
 
 The Palm Alpha also passed the ISO 12402-5 (water sports) and ISO 12402-6 (paddlesport) standards.  
 
-<a href="http://amzn.to/29kvV8M" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Palm Alpha</button></a>  
+<a href="http://amzn.to/29kvV8M" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -126,7 +126,7 @@ The Astral Sea Wolf PFD has a large front storage compartment where you can stor
 
 It's a little bit heavier than the other PFD's in this list but on a long paddling day this PFD could be quite useful.  
 
-<a href="http://amzn.to/2e3bK2d" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Astral Designs Sea Wolf</button></a>  
+<a href="http://amzn.to/2e3bK2d" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -140,7 +140,7 @@ Palm FX is another PFD which offers plenty or storage room for long packrafting 
 
 It also features failsafe shoulder straps and passed ISO 12402-5 (water sports) and ISO 12402-6 (paddlesport) standards.  
 
-<a href="http://amzn.to/292fRLY" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Palm FX</button></a>  
+<a href="http://amzn.to/292fRLY" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -164,7 +164,7 @@ The NRS Pilot River Knife can be attached to the front of the Astral Designs YTV
 
 The knife might be quite handy if you get stuff somewhere or if you need to help someone.  
 
-<a href="https://www.amazon.com/gp/product/B001UICFRC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001UICFRC&linkCode=as2&tag=hikeve-20&linkId=593b72bccf776c9eac85ed2681826cae" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the NRS Pilot River Knife</button></a>  
+<a href="https://www.amazon.com/gp/product/B001UICFRC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001UICFRC&linkCode=as2&tag=hikeve-20&linkId=593b72bccf776c9eac85ed2681826cae" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -173,7 +173,7 @@ The knife might be quite handy if you get stuff somewhere or if you need to help
 <a href="https://www.amazon.com/gp/product/B014OTTE4U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014OTTE4U&linkCode=as2&tag=hikeve-20&linkId=31c1e32939b4c5d0a67323b2c3d5975e" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B014OTTE4U&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B014OTTE4U" width="1" height="1" border="0" alt="NRS Co-Pilot River Knife" style="border:none !important; margin:0px !important;" />  
 The NRS Co-Pilot River Knife is the shorter version of the NRS Pilot Knife.  
 
-<a href="https://www.amazon.com/gp/product/B014OTTE4U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014OTTE4U&linkCode=as2&tag=hikeve-20&linkId=31c1e32939b4c5d0a67323b2c3d5975e" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the NRS Co-Pilot River Knife</button></a>  
+<a href="https://www.amazon.com/gp/product/B014OTTE4U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014OTTE4U&linkCode=as2&tag=hikeve-20&linkId=31c1e32939b4c5d0a67323b2c3d5975e" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -183,7 +183,7 @@ The NRS Co-Pilot River Knife is the shorter version of the NRS Pilot Knife.
 
 You can attache the NRS Wedge Rescue Throw Bag on your packraft and quick access it if you need it.  
 
-<a href="https://www.amazon.com/gp/product/B0028EHPTA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0028EHPTA&linkCode=as2&tag=hikeve-20&linkId=0c7f1d02ef740d6a818a23c7d4b3eaa0" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the NRS Wedge Rescue Throw Bag</button></a>  
+<a href="https://www.amazon.com/gp/product/B0028EHPTA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0028EHPTA&linkCode=as2&tag=hikeve-20&linkId=0c7f1d02ef740d6a818a23c7d4b3eaa0" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -193,7 +193,7 @@ You can attache the NRS Wedge Rescue Throw Bag on your packraft and quick access
 
 The Sea to Summit Ultra Flex Booties protect your feet when you walk in the river and also helps somewhat to keep your feet warm.  
 
-<a href="https://www.amazon.com/gp/product/B00W5P5BU2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00W5P5BU2&linkCode=as2&tag=hikeve-20&linkId=ff2d0de60ceb7abc7e35c33e0dcd1648" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Sea to Summit Ultra Flex Booties</button></a>  
+<a href="https://www.amazon.com/gp/product/B00W5P5BU2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00W5P5BU2&linkCode=as2&tag=hikeve-20&linkId=ff2d0de60ceb7abc7e35c33e0dcd1648" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 

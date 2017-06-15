@@ -35,9 +35,3 @@ End of April we will join the Swedish Packrafting round-up. Here is a link about
 In August there is also going to be a 7 days [hike](https://www.facebook.com/events/857479497686986/) on the Kungsleden which we might join.
 
 I will keep this list updated once we have more details about additional hiking and packrafting trips for 2017.
-
----
-
-{% include disclaimer.html %}
-
----

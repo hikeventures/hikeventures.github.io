@@ -33,9 +33,3 @@ LuminAID from the backside. The light does not constrain your eyes since it gets
 
 <a href="https://www.flickr.com/photos/90204224@N07/13967324991/" ><img src="https://farm8.staticflickr.com/7082/13967324991_210e4a8fab_b.jpg" width="1024" height="683" alt="LuminAid"></a>
 LuminAID gave us plenty of light next to the <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/" target="_blank">Hilleberg Anjan</a> on our packrafting trip in the Netherlands.
-
----
-
-{% include disclaimer.html %}
-
----

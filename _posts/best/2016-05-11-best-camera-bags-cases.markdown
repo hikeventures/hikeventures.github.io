@@ -92,7 +92,7 @@ Thule Aspect DSLR/ILC Shoulder Bag offers space for a mirrorless camera, one len
 
 There is a front-folding lid to access gear quickly and smaller items can be organised there as well. A padded shoulder strap makes this camera bag comfortable to carry.  
 
-<a href="http://amzn.to/2j0FSLB" rel="nofollow"><button type="button" class="btn btn-danger">See the Thule Aspect DSLR/ILC Shoulder Bag</button></a>  
+<a href="http://amzn.to/2j0FSLB" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -109,7 +109,7 @@ It is available in red and grey and can also store a tablet. The Nova Sport 7L a
 
 However, if you plan to go kayaking or packrafting then it might be a better idea to store the Nova Sport in an dry sack.  
 
-<a href="http://amzn.to/29YPNOV" rel="nofollow"><button type="button" class="btn btn-danger">See the Lowepro Nova Sport 7L AW Camera Bag</button></a>  
+<a href="http://amzn.to/29YPNOV" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -122,7 +122,7 @@ However, if you plan to go kayaking or packrafting then it might be a better ide
 
 The Ortlieb Camera Bag Aqua Zoom is is dust and splash proof but you should not submerge it under water.  
 
-<a href="http://amzn.to/29vBhTa" rel="nofollow"><button type="button" class="btn btn-danger">See the Ortlieb Camera Bag Aqua Zoom</button></a>  
+<a href="http://amzn.to/29vBhTa" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -147,7 +147,7 @@ The Aquacase case also features an optically-clear acrylic lens for clear pictur
 
 The case will also float on the water with your camera in it but Aquapac mentions that you should test the case with your camera before you take the case into the field.  
 
-<a href="http://amzn.to/29zNP9o" rel="nofollow"><button type="button" class="btn btn-danger">See the Aquapac Waterproof SLR Camera Case</button></a>  
+<a href="http://amzn.to/29zNP9o" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -162,7 +162,7 @@ The Pelican 1200 case is a bit heavier than the other bags and cases but it prot
 
 The company claims that you can submerge the case 1m for 30 minutes. The case also comes with a foam which you can customise the case. The case has an atmospheric purge valve and a neoprene o-ring seal.  
 
-<a href="https://www.amazon.com/gp/product/B0051QYF5E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0051QYF5E&linkCode=as2&tag=hikeve-20&linkId=b35f232fa3758e5efbfc6f9d4e425fbd" rel="nofollow"><button type="button" class="btn btn-danger">See the Pelican 1200 Case</button></a>  
+<a href="https://www.amazon.com/gp/product/B0051QYF5E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0051QYF5E&linkCode=as2&tag=hikeve-20&linkId=b35f232fa3758e5efbfc6f9d4e425fbd" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -175,7 +175,7 @@ The company claims that you can submerge the case 1m for 30 minutes. The case al
 
 The Ortlieb Soft Shot Waterproof Camera Bag is a great bag if you plan to go on an adventure of if the weather is uncertain. The bag has a volume of 9.7 l.  
 
-<a href="http://amzn.to/2l3wtFb" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">See the Ortlieb Soft Shot Waterproof Camera Bag</button></a>  
+<a href="http://amzn.to/2l3wtFb" rel="nofollow" target="_blank"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -194,7 +194,7 @@ When I take my camera to the city, I prefer to have a camera bag which looks a b
 
 The Thule Convert Camera Backpack offers space for a DSLR and an attached wide angle lens as well as two additional lenses and a flash. The bag can also store a 15 inch MacBook and an iPad. The bag features a removable pod system. The fabric is water-repellent.  
 
-<a href="https://www.amazon.com/gp/product/B00JXECZSE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JXECZSE&linkCode=as2&tag=hikeve-20&linkId=81edc424d9dc6074372a108183c60bd0" rel="nofollow"><button type="button" class="btn btn-danger">See the Thule Covert Camera Backpack</button></a>  
+<a href="https://www.amazon.com/gp/product/B00JXECZSE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JXECZSE&linkCode=as2&tag=hikeve-20&linkId=81edc424d9dc6074372a108183c60bd0" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -207,7 +207,7 @@ The Thule Convert Camera Backpack offers space for a DSLR and an attached wide a
 
 The ONA Bowery Camera Bag has been handcrafted with premium waxed canvas and full-grain leather details. The camera can store one camera and one small lens.  
 
-<a href="http://amzn.to/29vFJkX" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">See the ONA The Bowery Camera Bag</button></a>  
+<a href="http://amzn.to/29vFJkX" rel="nofollow" target="_blank"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -220,7 +220,7 @@ The ONA Bowery Camera Bag has been handcrafted with premium waxed canvas and ful
 
 The Thule Covert Camera Messenger Bag comes with a removable camera pod system and an iPad pocket. There is room for a compact DSLR and 2 lenses or a flash.  
 
-<a href="https://www.amazon.com/gp/product/B00QWRMWKQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QWRMWKQ&linkCode=as2&tag=hikeve-20&linkId=5ee40d217ef34eff10943d4153566e80" rel="nofollow"><button type="button" class="btn btn-danger">See the Thule Covert Camera Messenger Bag</button></a>
+<a href="https://www.amazon.com/gp/product/B00QWRMWKQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QWRMWKQ&linkCode=as2&tag=hikeve-20&linkId=5ee40d217ef34eff10943d4153566e80" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ## Conclusion
 

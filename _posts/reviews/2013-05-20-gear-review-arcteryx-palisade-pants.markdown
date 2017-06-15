@@ -29,10 +29,4 @@ I have tested the Arcteryx Palisade Pants on <a href="http://hikeventures.com/hi
 <a href="https://www.flickr.com/photos/90204224@N07/14180924087"><img src="https://farm3.staticflickr.com/2934/14180924087_43b2a78a7c_b.jpg" width="1024" height="683" alt="Arcteryx Palisade Hiking Pants Packrafting Alpacka Raft Werner Paddle Shuna Finland"></a>
 
 
-<a href="http://www.backcountry.com/arcteryx-palisade-pant-mens"><button type="button" class="btn btn-danger">See the Arcteryx Palisade Pants</button></a>
-
----
-
-{% include disclaimer.html %}
-
----
+<a href="http://www.backcountry.com/arcteryx-palisade-pant-mens"><img src="http://www.hikeventures.com/buy.gif"></a>

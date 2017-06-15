@@ -69,7 +69,7 @@ A portable and lightweight camping stove is one of the most essential item to ha
 
 The MSR PocketRocket 2 is the lightest stove in our list. If low weight has your highest priority and you want to use a gas stove then you should have a close look on the new MSR PocketRocket 2.  
 
-<a href="http://amzn.to/2eI6dBv" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the MSR PocketRocket 2</button></a>  
+<a href="http://amzn.to/2eI6dBv" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -87,7 +87,7 @@ The MSR WindPro II also simmers quite well and the larger diameter of the burner
 
 If you are planning to travel in more harsh conditions then the MSR XGK EX would be a better choice.  
 
-<a href="http://amzn.to/2dBLCMt" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the MSR WindPro II</button></a>  
+<a href="http://amzn.to/2dBLCMt" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -103,7 +103,7 @@ The Jetboil MicroMo offers a push-button igniter and a heat indicator and comes 
 
 The Jetboil MicorMo is cold weather compatible down to -6C. The Jetboil MicroMo can also store the gas canister.  
 
-<a href="http://amzn.to/2elZvBk" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Jetboil MicroMo</button></a>  
+<a href="http://amzn.to/2elZvBk" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -120,7 +120,7 @@ The Jetboil MiniMo offers you one of the best simmer controls, metal handles, an
 
 The bottom cover can also be used as a bowl. As a whole product the Jetboil MiniMo might be a nice solution and not even that heavy considering that it offers 2 products in one (stove and bowl).  
 
-<a href="http://amzn.to/2e37Vdw" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Jetboil MiniMo</button></a>  
+<a href="http://amzn.to/2e37Vdw" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -139,7 +139,7 @@ This stove is marketed to operate very well under windy conditions. The MSR Wind
 
 If you are traveling alone then the Jetboil MiniMo might be a good alternative.  
 
-<a href="http://amzn.to/2e8lKIJ" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the MSR WindBurner</button></a>  
+<a href="http://amzn.to/2e8lKIJ" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -153,7 +153,7 @@ If you are traveling alone then the Jetboil MiniMo might be a good alternative.
 
 The MSR XGK EX is probably the best choice if you need a stove which can handle multiple fuels in extreme conditions.  
 
-<a href="http://amzn.to/2evVrud" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the MSR XGK EX</button></a>  
+<a href="http://amzn.to/2evVrud" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 

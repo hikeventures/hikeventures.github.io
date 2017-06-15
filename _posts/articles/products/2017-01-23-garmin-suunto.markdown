@@ -66,10 +66,4 @@ Suunto has already announced to release a similar model in a few weeks which is 
 
 However, it will still miss the map feature which I like on the <a href="http://amzn.to/2osspQt" rel="nofollow">Garmin Fenix 5X</a>. On the other hand, the <a href="http://amzn.to/2kLxu40" rel="nofollow">Suunto Spartan</a> has a slightly better screen resolution.
 
-Would this change my purchase desition? No. I still prefer the watch which can upload topo maps - the Garmin Fenix 5X. The Suunto Spartan might be however more appealing for those who need the lightest gear and don't need the map feature of the Garmin Fenix 5X.
-
----
-
-{% include disclaimer.html %}
-
----
+Would this change my purchase decision? No. I still prefer the watch which can upload topo maps - the Garmin Fenix 5X. The Suunto Spartan might be however more appealing for those who need the lightest gear and don't need the map feature of the Garmin Fenix 5X.

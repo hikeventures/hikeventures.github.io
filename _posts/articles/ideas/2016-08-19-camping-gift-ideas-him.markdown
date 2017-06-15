@@ -129,9 +129,3 @@ There is no need to carry big water bottles on a hiking trip if you have a Sawye
 The Suunto Spartan Sport is the latest GPS watch from Suunto which comes with a color touch screen. It has a much longer battery life than the e.g. Apple Watch Series 2. The data can be synced and stored online with Movescount.
 
 <a href="http://amzn.to/2f60uWd" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
-
----
-
-{% include disclaimer.html %}
-
----

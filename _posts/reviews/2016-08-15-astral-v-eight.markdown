@@ -36,9 +36,3 @@ The Astral Designs V-Eight in front of my packraft on our trip in Norway. There 
 ## Conclusion
 
 Would I buy it again. Yes I would. The V-Eight is really comfortable to wear and one of the lightest PFD's out there. It won't be a PFD for serious white water users but for everything else it's just great. I like the V-Eight even more than the [Astral YTV](http://www.hikeventures.com/astral-ytv/). However, as a pure white water PFD I would rather buy the [Astral Designs YTV](http://www.hikeventures.com/astral-ytv/) than the V-Eight.
-
----
-
-{% include disclaimer.html %}
-
----

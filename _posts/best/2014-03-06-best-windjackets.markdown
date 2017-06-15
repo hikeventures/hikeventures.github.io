@@ -59,7 +59,7 @@ The Patagonia Houdini is another great wind jacket which got recommended by many
 
 There is also a reflective logo on the front and back which comes quite handy during night hikes.
 
-<a href="http://amzn.to/2e32HhL" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Patagonia Houdini</button></a>
+<a href="http://amzn.to/2e32HhL" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ## Arcteryx Incendo Hoodie
 
@@ -72,7 +72,7 @@ The Arcteryx Incendo Hoody has breathable mesh panels under the arms, a hood and
 
 The Incendo Hoody is more a running jacket than a hiking jacket but could be an alternative to the Arcteryx Squamish Hoody if you are an Arcteryx fan and want to save a few grams.
 
-<a href="http://amzn.to/2drJ00m" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Arcteryx Incendo Hoody</button></a>
+<a href="http://amzn.to/2drJ00m" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ## The North Face Fuseform Eragon
 
@@ -83,7 +83,7 @@ The Incendo Hoody is more a running jacket than a hiking jacket but could be an 
 
 The North Face Fuseform Eragon has fewer seams and a streamlined, Alpine-specific fit.
 
-<a href="http://amzn.to/2e9Y8pz" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the North Face Fuseform Eragon</button></a>
+<a href="http://amzn.to/2e9Y8pz" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ## Arcteryx Squamish Hoodie
 
@@ -94,7 +94,7 @@ The North Face Fuseform Eragon has fewer seams and a streamlined, Alpine-specifi
 
 The Arcteryx Squamish Hoody comes with a hood, full front zip and a front pocket. This jacket also has cuff adjusters and a reflective logo.
 
-<a href="http://amzn.to/2elVY64" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Arcteryx Squamish Hoody</button></a>
+<a href="http://amzn.to/2elVY64" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ## Best fabric for a Wind Jackets
 

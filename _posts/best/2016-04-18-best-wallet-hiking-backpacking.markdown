@@ -28,7 +28,7 @@ Both wallets are made of G-1000 fabric - a synthetic / cotton mixture which Fjä
 
 The fabric can be treated with wax to waterproof it.  
 
-<a href="http://amzn.to/2rLgmBH" rel="nofollow"><button type="button" class="btn btn-danger">See the Fjällräven Zip Wallet</button></a>  
+<a href="http://amzn.to/2rLgmBH" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -38,7 +38,7 @@ The fabric can be treated with wax to waterproof it.
 
 The Chums Floating Marsupial Wallet floating wallet can float your keys, cash and credit cards, comes in a high visible yellow colour and weights 75 grams.  
 
-<a href="http://amzn.to/2rLiidp" rel="nofollow"><button type="button" class="btn btn-danger">See the Chums Floating Marsupial Wallet</button></a>  
+<a href="http://amzn.to/2rLiidp" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -48,4 +48,4 @@ The most affordable solution is probably to use a cheap plastic bag and wrap it 
 
 Personally, I use both - a Fjällräven Zip Card Holder and sometimes an additional plastic bag when I go packrafting.
 
-The Chums wallet would be quite useful if you are into watersports such as kayaking or pack rafting.
+The Chums wallet would be quite useful if you are into watersports such as kayaking or packrafting.

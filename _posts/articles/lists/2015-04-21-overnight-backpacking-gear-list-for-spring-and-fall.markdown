@@ -181,9 +181,3 @@ href="javascript: void 0" onclick="avPcwShowPopupFromSearch('Mountain Hardware G
 </table>
 
 That's it. Of course, depending on the time of the year your backpack will be more heavy. For example you could take a lighter sleeping pad or sleeping bag during the summer. Also there is no need to buy a 4 season tent if you don't go camping during the winter.
-
----
-
-{% include disclaimer.html %}
-
----

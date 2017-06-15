@@ -54,9 +54,3 @@ However, the new features on the YI 4K+ are quite interesting and I could probab
  <tr><td>raw photos</td><td>yes</td><td>yes</td></tr>
 </tbody></table>
 </div>
-
----
-
-{% include disclaimer.html %}
-
----

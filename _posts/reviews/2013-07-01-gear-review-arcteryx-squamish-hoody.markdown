@@ -48,10 +48,4 @@ Size of the Squamish Hoody compared to the <a href="http://hikeventures.com/gear
 I take a wind jacket on all my hikes. The Arcteryx Squamish Hoody packs light, is small and feels good on the skin. You don't sweat as much as hiking with a [hard shell jacket](http://hikeventures.com/best-waterproof-rain-jackets/) if you want to protect yourself from cold winds. My recommendation is to take both, a wind jacket and a rain jacket to your hikes. Or if there are plenty of shelters available on the trail then you could even manage just with a wind jacket. I have used the Arcteryx Squamish Hoody on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden. This is definitely my favourite wind jacket. Worth to have in your backpack.
 
 
-<a href="http://www.ems.com/arc%E2%80%99teryx-men%E2%80%99s-squamish-hoodie/17308000032.html"><button type="button" class="btn btn-danger">See the Arcteryx Squamish Hoodie</button></a>
-
----
-
-{% include disclaimer.html %}
-
----
+<a href="http://www.ems.com/arc%E2%80%99teryx-men%E2%80%99s-squamish-hoodie/17308000032.html"><img src="http://www.hikeventures.com/buy.gif"></a>

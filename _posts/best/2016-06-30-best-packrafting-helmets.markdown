@@ -67,9 +67,9 @@ There are certain criteria you should look out when buying a new packrafting hel
 
 **Weight**: 848 grams  
 
-The NRS WRSI Trident Composite is made of a carbon composite shell and features a visor,  EVA pads to customise your helmet.  
+The NRS WRSI Trident Composite is made of a carbon composite shell and features a visor,  EVA pads to customize your helmet.  
 
-<a href="http://amzn.to/2dQcgyQ" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the NRS WRSI Trident Composite Helmet</button></a>  
+<a href="http://amzn.to/2dQcgyQ" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -81,7 +81,7 @@ The NRS WRSI Trident Composite is made of a carbon composite shell and features 
 
 NRS WRSI Current Helmet is made of a ABS plastic shell with polyurethane sub-shell and features an EVA foam liner.  
 
-<a href="http://amzn.to/2eIhYHX" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the NRS WRSI Current Helmet</button></a>  
+<a href="http://amzn.to/2eIhYHX" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -95,7 +95,7 @@ The Shred Ready Super Scrappy Kayak helmet is an ABS molded shell with a VN foam
 
 Removable ear flaps can be attached to the helmet. The helmet can be worn backwards and forwards.  
 
-<a href="http://www.backcountry.com/shred-ready-super-scrappy-helmet" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Shred Ready Super Scrappy Kayak Helmet</button></a>  
+<a href="http://www.backcountry.com/shred-ready-super-scrappy-helmet" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -105,7 +105,7 @@ Removable ear flaps can be attached to the helmet. The helmet can be worn backwa
 
 The Shred Ready Standard Full-Cut Kayak helmet is made of an ABS injection molded shell with EPP liner, a soft nylon webbing, stainless steel rivets and a four-point retention system.  
 
-<a href="http://www.backcountry.com/shred-ready-standard-full-cut-helmet" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Shred Ready Standard Full-Cut Kayak Helmet</button></a>  
+<a href="http://www.backcountry.com/shred-ready-standard-full-cut-helmet" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -118,7 +118,7 @@ The Shred Ready Standard Full-Cut Kayak helmet is made of an ABS injection molde
 
 The Sweet Protection Strutter Helmet features LFT shell technology which combines polyamide and long fibreglass and an EVA liner absorbs impacts without cracking  
 
-<a href="http://amzn.to/2ea50Dt" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Sweet Protection Strutter Helmet</button></a>  
+<a href="http://amzn.to/2ea50Dt" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -130,7 +130,7 @@ The Sweet Protection Strutter Helmet features LFT shell technology which combine
 
 The Sweet Protection Rocker Helmet is probably going to replace my Petzl Meteor 3+ helmet in the future. I believe that the Rocker helmet offers better protection and is also more comfortable to wear.  
 
-<a href="http://amzn.to/2rP6GGk" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Predator Shiznit Helmet</button></a>  
+<a href="http://amzn.to/2rP6GGk" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -140,7 +140,7 @@ The Sweet Protection Rocker Helmet is probably going to replace my Petzl Meteor 
 
 The Petzl Meteor 3+ helmet is one of the lightest certified paddling helmets on the market. If you want to go light then the Meteor 3+ is probably your helmet. The best alternatives are probably the Sweet Protection Strutter Helmet or the Rocker Helmet which offers more protection than the Strutter.  
 
-<a href="/deals/#petzl+meteor+3+helmet" target="_blank"><button type="button" class="btn btn-danger">See the Petzl Meteor 3+ Helmet</button></a>  
+<a href="/deals/#petzl+meteor+3+helmet" target="_blank"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -152,7 +152,7 @@ The Petzl Meteor 3+ helmet is one of the lightest certified paddling helmets on 
 
 The Predator Shiznit helmet looks good and protects your face. With 500 grams it's a bit more heavy than the Sweet helmet but comes with a lower price tag.  
 
-<a href="http://amzn.to/2eTQCy0" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Predator Shiznit Helmet</button></a>  
+<a href="http://amzn.to/2eTQCy0" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 

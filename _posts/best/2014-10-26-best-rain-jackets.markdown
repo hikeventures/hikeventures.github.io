@@ -84,7 +84,7 @@ Be aware that such light jackets are not made to carry heavy load e.g. a backpac
 
 If you are into backpacking then have a look on the jackets below. the Berghaus Vapourlight Hyper Smock 2.0 won the Ispo Award 2014/2015.  
 
-<a href="http://amzn.to/2e34CD3" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Berghaus Vapourlight Hyper Smock 2.0</button></a>  
+<a href="http://amzn.to/2e34CD3" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -98,7 +98,7 @@ If you are into backpacking then have a look on the jackets below. the Berghaus 
 The Mountain Hardwear Plasmonic Jacket is one of the best selling jackets from Mountain Hardwear and made especially for hiking and backpacking.  
 
 
-<a href="http://amzn.to/2e33vTI" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Mountain Hardwear Plasmonic Jacket</button></a>  
+<a href="http://amzn.to/2e33vTI" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -119,7 +119,7 @@ However, I would not choose it for packrafting as the fabric N20p 3L is quite th
 
 The Norvan jacket is more suitable for runners or if you don't wear a backpack.  
 
-<a href="http://amzn.to/2eTGFR8" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Arcteryx Zeta LT Jacket</button></a>  
+<a href="http://amzn.to/2eTGFR8" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -132,7 +132,7 @@ The Norvan jacket is more suitable for runners or if you don't wear a backpack.
 
 The Outdoor Research Helium II Jacket is also a quite popular rain jacket. It features a single-pull hood drawcord to adjust coverage, zippered Napoleon pocket and elastic cuffs.  
 
-<a href="http://amzn.to/2dBLJYc" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Outdoor Research Helium II Jacket</button></a>  
+<a href="http://amzn.to/2dBLJYc" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -149,7 +149,7 @@ With 185 grams it's you won't feel it either in your backpack.
 
 It’s also a great jacket for trail running. Not as durable if you are planning to carry a backpack.  
 
-<a href="http://amzn.to/2evQYHY" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Rab Flashpoint Jacket</button></a>  
+<a href="http://amzn.to/2evQYHY" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -170,7 +170,7 @@ I would choose the Montane Minimus Jacket as my go-to jacket if every gram count
 
 If durability is also an important aspect then you should have a look at the new Arcteryx Zeta LT Jacket which comes next in my list.  
 
-<a href="http://amzn.to/2e31BCI" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Montane Minimus Jacket</button></a>  
+<a href="http://amzn.to/2e31BCI" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 

@@ -52,10 +52,4 @@ When the filter is empty, you need to fill the filter at first with water before
 
 You prime the filter first as a parent, and fill it up. Then you pass it on to your child and they are ready to go.
 
-<a href="http://amzn.to/2q44jfT" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the LifeStraw</button></a>
-
----
-
-{% include disclaimer.html %}
-
----
+<a href="http://amzn.to/2q44jfT" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>

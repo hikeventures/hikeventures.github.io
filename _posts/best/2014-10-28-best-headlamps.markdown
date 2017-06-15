@@ -97,7 +97,7 @@ The Petzl NAO is my preferred headlamp. If you are looking for a lighter headlam
 
 You can also get an additional <a href="http://amzn.to/2dRcQxe" rel="nofollow">rechargeable battery</a> for the NAO+.
 
-<a href="http://amzn.to/2gBew1C" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Petzl NAO+</button></a>
+<a href="http://amzn.to/2gBew1C" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -123,7 +123,7 @@ However, the Petzl Tikka RXP does not have [reactive lightning](https://www.petz
 
 Personally, I think reactive lightning is a nice to have feature but not something I would spend additional money on it.
 
-<a href="http://amzn.to/2e35oQp" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Petzl Tikka RXP</button></a>
+<a href="http://amzn.to/2e35oQp" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -139,7 +139,7 @@ The Zebralight H600 Mk II. features lot's of power for little weight.
 
 However, this headlamp has no USB connection to charge it's battery. If you don't mind carrying additional batteries with you then the Zebralight might be a great choice too.
 
-<a href="http://amzn.to/2e8kRQg" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Zebralight 600 MK II</button></a>
+<a href="http://amzn.to/2e8kRQg" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -157,7 +157,7 @@ For very wet conditions you should probably go for the Black Diamond Icon.
 
 However, with its external battery it needs probably more room in your backpack and you will also carry more weight on your head.
 
-<a href="http://www.amazon.com/gp/product/B005FNCPBE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005FNCPBE&linkCode=as2&tag=hikeve-20&linkId=WBUHJA3GU3TCBJXQ" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Black Diamond Icon</button></a>
+<a href="http://www.amazon.com/gp/product/B005FNCPBE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005FNCPBE&linkCode=as2&tag=hikeve-20&linkId=WBUHJA3GU3TCBJXQ" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -177,7 +177,7 @@ It can be used in a temperature range from -30C to +60C and it's batteries can b
 
 If you want to see more into the distance then this is probably not the headlamp you should consider to buy.
 
-<a href="http://amzn.to/2drHzyP" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Petzl e+LITE</button></a>
+<a href="http://amzn.to/2drHzyP" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -191,7 +191,7 @@ If you want to see more into the distance then this is probably not the headlamp
 
 The Black Diamond Storm is a little bit heavier than the Petzl Tikka XP. The Storm works with 4 AAA batteries and cannot be charged via USB.
 
-<a href="http://amzn.to/2e34Jyw" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Black Diamond Storm</button></a>
+<a href="http://amzn.to/2e34Jyw" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -209,7 +209,7 @@ It's battery is also located on the back of the head.
 
 Unfortunately, this headlamp does not offer any recharging possibilities via USB so you have to rely on 4 AA batteries.
 
-<a href="http://amzn.to/2e35AiF" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Princeton Tec Apex</button></a>
+<a href="http://amzn.to/2e35AiF" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 

@@ -14,8 +14,6 @@ Suunto has recently released it's latest GPS watch - the Suunto Traverse - which
 
 The most important difference is probably that the Suunto Traverse has a vibration alarm and that the GPS receiver is now 'invisible' built into the watch. Moreover, the Suunto Traverse has a thinner (1mm) built. However, you will not find multisport functions in the Suunto Traverse. So, if you are for example more into triathlon then you should probably go for the <a href="http://amzn.to/2eHfOUi" rel="nofollow" target="_blank">Suunto Ambit3 Vertical</a> rather than the regular Suunto Traverse.
 
-{% include banner_ad.html %}
-
 I mainly go running and hiking so the regular Suunto Traverse is the best option for me and there is no need to pay for features which I don't use. Of course I could also get the new <a href="http://amzn.to/2edjBKs" rel="nofollow" target="_blank">Suunto Spartan</a> which features a color display and a touch screen. But are those two features worth the premium price over the Suunto Traverse or Ambit3 Vertical? It's up to you! (Update 26.01.2017: Garmin has released the <a rel="nofollow" href="http://amzn.to/2jse5Ht">Fenix 5X</a> which I would currently buy as my favorite outdoor watch since it also offers the possibility to upload topo maps)
 
 Personally, I don't need a touch screen and a color display but I would probably buy the Spartan if I would have sufficient money and no Suunto Traverse on my wrist yet. If you are on a budget then it's also a good idea to look at discounts (see below).
@@ -37,7 +35,7 @@ And then you have the basic Suunto Traverse which I am also wearing on my wrist.
 
 <a href="https://www.amazon.com/gp/product/B014PNZKC0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014PNZKC0&linkCode=as2&tag=hikeve-20&linkId=7539f58f7072b85f393d5bd7e7e76df9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B014PNZKC0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B014PNZKC0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="http://amzn.to/2eklrdT" rel="nofollow"><button type="button" class="btn btn-danger">See the Suunto Traverse</button></a>
+<a href="http://amzn.to/2eklrdT" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
 
@@ -51,7 +49,7 @@ If you are more into fishing or hunting then you should consider getting the Suu
 
 <a href="https://www.amazon.com/gp/product/B01EMEZWIE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01EMEZWIE&linkCode=as2&tag=hikeve-20&linkId=06c51ab5e85c88a347f1630794284af6" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01EMEZWIE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01EMEZWIE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="http://amzn.to/2dUmh3z" rel="nofollow"><button type="button" class="btn btn-danger">See the Suunto Traverse Alpha</button></a>
+<a href="http://amzn.to/2dUmh3z" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
 
@@ -60,7 +58,7 @@ If you are more into trail running (on hills or mountains), mountainbiking, clim
 
 <a href="https://www.amazon.com/gp/product/B01AGK1CUK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AGK1CUK&linkCode=as2&tag=hikeve-20&linkId=e88ee85cc37dd473812d405d9bbd5f8d" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01AGK1CUK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01AGK1CUK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="http://amzn.to/2duWnR3" rel="nofollow"><button type="button" class="btn btn-danger">See the Suunto Ambit3 Vertical</button></a>
+<a href="http://amzn.to/2duWnR3" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 
 ---
@@ -103,7 +101,7 @@ If you have an iPhone you could also get a Quad Lock Bike Mount Kit and attach i
 
 **Update 14.11.2015:**I finally got the Suunto Traverse as you can see on our Instagram account below. It feels and looks much better on the wrist than the Ambit3. Now going running and test it for the first time :)
 
-**Update 27.11.2015: **After testing the Suunto Traverse for 2 weeks I prefer it over the Ambit3 as an outdoor watch. For multisport however I would still buy the Ambit3 since the Traverse lacks this feature.
+**Update 27.11.2015: **After testing the Suunto Traverse for 2 weeks I prefer it over the Ambit3 as an outdoor watch. For multi-sport however I would still buy the Ambit3 since the Traverse lacks this feature.
 
 **Update 19.12.2015: **Suunto has released firmware 1.54 which brings GLONASS support to the Suunto Traverse - which means more accuracy of the GPS signals. However, I got a message on my Traverse that GLONASS will also consume more battery.
 
@@ -118,10 +116,3 @@ If you have an iPhone you could also get a Quad Lock Bike Mount Kit and attach i
 ---
 
 Need some more inspirations on how to use the Suunto Ambit or Suunto Traverse watch? Here is a [trip report](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/) from the Swedish mountains where I was wearing the old Suunto Ambit3 on a packrafting trip.
-
-
----
-
-{% include disclaimer.html %}
-
----

@@ -33,8 +33,6 @@ The iPhone has a 12MP camera with an ƒ/1.8 aperture while the <a href="http://w
 ## Video stabilization
 The GoPro5 Black, GoPro Session and the iPhone have image stabilization.
 
-{% include banner_ad.html %}
-
 ## Conclusion
 Looking at the specifications you can certainly get better pictures with the iPhone 7. The video features are more or less the same and the higher aperture on the GoPro should not make a significant difference during daylight.
 
@@ -45,9 +43,3 @@ Having IP67 on the iPhone is nice but if you jump into a lake and the GoPro brea
 Certainly, you might also get more scratches on your iPhone 7 screen. The surface of the iPhone screen is much larger than the surface of the camera lens of the <a href="http://amzn.to/2ekq5Zy" rel="nofollow" target="_blank">GoPro Hero 5 Black</a> / <a href="http://amzn.to/2el7Buj" rel="nofollow" target="_blank">GoPro Session</a>.
 
 If audio recording is not important to you then you could also consider purchasing the older <a href="http://amzn.to/2cDRqEi" rel="nofollow">GoPro Session</a> instead and save some money. You may also check for discounts <a href="/deals/" target="_blank">here</a>.
-
----
-
-{% include disclaimer.html %}
-
----

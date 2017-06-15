@@ -65,9 +65,3 @@ If you are searching for a screen protector for the Sony a6500 then you can also
 
       </table>
 </div>
-
----
-
-{% include disclaimer.html %}
-
----

@@ -61,10 +61,4 @@ This all may change very soon as I have heard that Thule is planning to release 
 
 My verdict – even though Thule Atmos X3 has its limitations (especially when dealing with it on the water - check the the new Thule X5 if you need a waterproof solution), it is definitely something that I would recommend. Eventually it was one of the main reasons why I made up my mind to upgrade to iPhone 6.
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Thule-Atmos-X3-iPhone-6_10281413_10208_10000001_-1_" rel="nofollow"><button type="button" class="btn btn-danger">See the Thule Atmos X3</button></a>
-
----
-
-{% include disclaimer.html %}
-
----
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Thule-Atmos-X3-iPhone-6_10281413_10208_10000001_-1_" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>

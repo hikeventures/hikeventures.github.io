@@ -29,13 +29,7 @@ I have tested the Katadyn Mini Water Filter on <a href="http://hikeventures.com/
 <a href="https://www.flickr.com/photos/90204224@N07/9599019542" title="Filtering Water with Katadyn in Sarek"><img src="https://farm8.staticflickr.com/7459/9599019542_097779e2ae_b.jpg" width="1024" height="683" alt="Field Test - Filtering Water with Katadyn Mini in Sarek National Park in Sweden"></a><br>
 
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Katadyn-Mini-Ceramic-Microfilter_10094418_10208_10000001_-1_"><button type="button" class="btn btn-danger">Read more about the Katadyn Mini</button></a>
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Katadyn-Mini-Ceramic-Microfilter_10094418_10208_10000001_-1_"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ## Alternative
 If you are looking for an ultralight water filter where you don't have to pump then you should have a look at the [Sawyer Water Filter](https://www.rei.com/product/890900/sawyer-mini-water-filter) which also comes with a lower price tag.
-
----
-
-{% include disclaimer.html %}
-
----

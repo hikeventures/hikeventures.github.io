@@ -33,8 +33,6 @@ For those folks who would like to keep track on where they hiked, biked etc. sho
 * water resistance 100 m
 * Operating temperature -20C - +60C¨
 
-{% include banner_ad.html %}
-
 Suunto Ambit2 is a great tool for outdoor activities like hiking, running, cycling or marathon. It can be used with a hear rate monitor to measure your pulse. Further, you can upload your data to Movescount where you can keep track of your activities history and socialise with other Movescount users.
 
 There are also currently over 1000 apps available which you can upload to your watch or you can create your own app.
@@ -63,9 +61,3 @@ With <a rel="nofollow" href="http://www.movescount.com" target="_blank">Movescou
 
 ## Recommendation
 I have used the Suunto Ambit2 on our trip in <a rel="nofollow" href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">Sarek</a>  and it performed quite well. It was nice to see on the PC the route we hiked. However, it is advisable to take a spare battery with a USB connection with you if you go on a multiple day trip.
-
----
-
-{% include disclaimer.html %}
-
----

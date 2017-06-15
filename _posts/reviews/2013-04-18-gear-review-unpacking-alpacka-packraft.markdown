@@ -59,9 +59,3 @@ Aqua Bound Manta Ray Carbon</center>
 If you are looking for a new experience on your hiking trip or if you want to pass a river where there is no bridge, then you should give a thought if a Packraft could be an option for you. It's also quite nice just to float along the river and enjoy the landscape rather than carrying the heavy backpack during your whole trip. Here you can check out one of our <a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/">packrafting adventures</a> in Sarek National Park in Northern Sweden.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9594886682" title="SDIM3477 "><img src="https://farm8.staticflickr.com/7326/9594886682_ebf0d25e33_b.jpg" width="1024" height="683" alt="Alpacka Yukon Yak on a HMG Porter 4400 in Sweden Sarek National Park"></a>
-
----
-
- {% include disclaimer.html %}
-
- ---

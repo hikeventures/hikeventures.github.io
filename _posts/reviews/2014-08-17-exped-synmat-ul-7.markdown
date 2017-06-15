@@ -38,12 +38,6 @@ Konstantin on the Exped Synmat UL 7 during our [Sarek trip][1].
 ## Recommendation
 I like the Exped Synmat UL 7. It feels comfortable and I would buy it again. However, you might need to evaluate in beforehand if you prefer to sleep on a sleeping pad with vertical air chambers.
 
-<a href="http://www.sunnysports.com/nspc/p-expsmu7/exped-synmat-ul-7-air-mattress/" rel="nofollow"><button type="button" class="btn btn-danger">See the Exped Synmat UL 7</button></a>
-
----
-
-{% include disclaimer.html %}
-
----
+<a href="http://www.sunnysports.com/nspc/p-expsmu7/exped-synmat-ul-7-air-mattress/" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 [1]:	http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/

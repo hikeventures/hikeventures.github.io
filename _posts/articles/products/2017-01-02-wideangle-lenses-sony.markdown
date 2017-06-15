@@ -53,10 +53,3 @@ If you are interested in a wide angle lens with low aperture then the Sigma 14mm
 I was also eying with the Zeiss Batis 18mm for a while but then decided that a lower focal length than 18mm  would give me more benefits than a lower aperture.
 
 The Sigma 14mm ART lens can actually offer much more than the Zeiss Batis 18mm in terms of aperture and focal length for my needs also considering the much lower price of the Sigma.
-
-
----
-
-{% include disclaimer.html %}
-
----

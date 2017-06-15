@@ -410,9 +410,3 @@ The GSI Outdoors Java Drip Coffee Maker is for those who want to have fresh coff
 GSI Outdoors Nesting Red Wine Glass to enjoy your glass of wine outdoors.
 
 <a href="http://amzn.to/2fpf630" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
-
----
-
-{% include disclaimer.html %}
-
----

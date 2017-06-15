@@ -70,12 +70,6 @@ For snowshoeing I would also need a pair of poles. The MSR Flight 3 poles are fa
 
 What are your outdoor gear ideas on your christmas wishlist for 2015? Leave a comment below.
 
----
-
-{% include disclaimer.html %}
-
----
-
 
 
 [1]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/

@@ -34,9 +34,3 @@ The Mountain Equipment Fitzroy Jacket comes with Primaloft® GOLD and DRILITE® 
 
 ## Price
 It is less pricey than an equivalent down jacket. However, the Fitzroy might have more weight (645 grams) and and takes more space in your backpack than an equivalent down jacket.
-
----
-
-{% include disclaimer.html %}
-
----

@@ -38,8 +38,4 @@ Finally, you should also consider to have shoes or sandals which are not slipper
 
 We will continue testing the Sea to Summit Ultra Flex Booties this year to see how durable they are.
 
-<a href="http://amzn.to/2dEr5ss" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">See the Sea to Summit Ultra Flex Booties</button></a>
-
-{% include disclaimer.html %}
-
----
+<a href="http://amzn.to/2dEr5ss" rel="nofollow" target="_blank"><img src="http://www.hikeventures.com/buy.gif"></a>

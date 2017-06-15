@@ -43,9 +43,3 @@ We never had we socks when wearing those boots on our winter trip. On one occasi
 
 ## Conclusion
 We really love the Lundhags Skare boots. Beside the quality issue with Konstantin's boot we would probably take them again with us on our next trip. They are comfortable to walk in and they also look quite nice.
-
----
-
-{% include disclaimer.html %}
-
----

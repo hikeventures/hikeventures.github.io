@@ -103,7 +103,7 @@ The backpack does not have a proper back panel which might be an issue when carr
 **Volume**: 90l  
 **Fabric**: 600D TPU laminated fabric  
 
-<a href="http://amzn.to/2r8hMU5" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Sea to Summit Hydraulic Dry Pack</button></a>  
+<a href="http://amzn.to/2r8hMU5" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -126,7 +126,7 @@ The NRS Paragon Pack is quite versatile like the ULA Epic and you can use smalle
 
 **Weight**: 1179 grams (without dry sack)  
 
-<a href="http://amzn.to/2sruFN6" target="_blank"><button type="button" class="btn btn-danger">See the NRS Paragon Pack</button></a>  
+<a href="http://amzn.to/2sruFN6" target="_blank"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 

@@ -42,9 +42,3 @@ Here you can find our trip reports from Norway:
 [Day Trip to Hammerfest](http://www.hikeventures.com/hammerfest-daytrip/)   
 [Snowshoeing, Winter Camping and Huskies](http://www.hikeventures.com/winter-camping-alta/)   
 [Alta](http://www.hikeventures.com/komsa-alta/)   
-
----
-
-{% include disclaimer.html %}
-
----

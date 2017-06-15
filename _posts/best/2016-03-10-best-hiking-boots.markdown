@@ -96,7 +96,7 @@ However, after my trips in the [Alps](http://www.hikeventures.com/e5-crossing-th
 
 The Inov-8 Roclite 286 GTX is waterproof and offers natural movement and is made for fast-packing. While the boot is flexible it also offers ankle stability.  
 
-<a href="https://www.amazon.com/gp/product/B00DHNFGN8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DHNFGN8&linkCode=as2&tag=hikeve-20&linkId=6f8ea1e480104883e77cbc427c18ba04" rel="nofollow"><button type="button" class="btn btn-danger">See the Inov-8 Roclite 286 GTX</button></a>  
+<a href="https://www.amazon.com/gp/product/B00DHNFGN8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DHNFGN8&linkCode=as2&tag=hikeve-20&linkId=6f8ea1e480104883e77cbc427c18ba04" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -110,7 +110,7 @@ The Adidas Terrex Fast R Mid GTX - despite it's low weight - can also be worn in
 
 The shoes come with protective weldings and a grippy Continental™ Rubber outsole for a good grip on the trail.  
 
-<a href="https://www.amazon.com/gp/product/B0113OXSEG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0113OXSEG&linkCode=as2&tag=hikeve-20&linkId=8431343daa475dc15988522b9d737a13" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">See the Adidas Terrex Fast R Mid GTX</button></a>  
+<a href="https://www.amazon.com/gp/product/B0113OXSEG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0113OXSEG&linkCode=as2&tag=hikeve-20&linkId=8431343daa475dc15988522b9d737a13" rel="nofollow" target="_blank"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -124,7 +124,7 @@ The Keen Targhee II Mid is made of Nubuk leather and a waterproof breathable mem
 
 The EVA Footbed of the KEEN Targhee II Mid can be removed and the ESS shank offers torsion stability.  
 
-<a href="http://www.amazon.com/gp/product/B00E0JHEWE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00E0JHEWE&linkCode=as2&tag=hikeve-20&linkId=NW5PAHXUPAEXB4ZE" rel="nofollow"><button type="button" class="btn btn-danger">See the KEEN Targhee II Mid</button></a>  
+<a href="http://www.amazon.com/gp/product/B00E0JHEWE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00E0JHEWE&linkCode=as2&tag=hikeve-20&linkId=NW5PAHXUPAEXB4ZE" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -138,7 +138,7 @@ The Hanwag Banks upper comes with Cordura/Nubuk leather and the GORE-TEX lining 
 
 The rubber toe caps protect your toes and there is also a shock absorber in the heel.  
 
-<a href="https://www.amazon.com/gp/product/B00YT7F7N0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00YT7F7N0&linkCode=as2&tag=hikeve-20&linkId=d9335355600b6ebb12050a8b9a514ec6" rel="nofollow"><button type="button" class="btn btn-danger">See the Hanwag Banks GTX</button></a>  
+<a href="https://www.amazon.com/gp/product/B00YT7F7N0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00YT7F7N0&linkCode=as2&tag=hikeve-20&linkId=d9335355600b6ebb12050a8b9a514ec6" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -152,7 +152,7 @@ The Arc'teryx Men's Bora2 Mid comes with the Arcteryx Adaptive Fit technology - 
 
 The Vibram® Arc’teryx Hiking Outsole provides traction with grip.  
 
-<a href="https://www.amazon.com/gp/product/B00ZUYI8PU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZUYI8PU&linkCode=as2&tag=hikeve-20&linkId=e7abea06442c0bc8d175a2e5d319b9cd" rel="nofollow"><button type="button" class="btn btn-danger">See the Arc'teryx Men's Bora2 Mid</button></a>  
+<a href="https://www.amazon.com/gp/product/B00ZUYI8PU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZUYI8PU&linkCode=as2&tag=hikeve-20&linkId=e7abea06442c0bc8d175a2e5d319b9cd" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -166,7 +166,7 @@ The Salomon Quest 4D 2 GTX has been developed through experience in trail runnin
 
 The Contagrip soles can handle dry, hard, loose and wet surfaces.  
 
-<a href="https://www.amazon.com/gp/product/B00KWK2JSE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KWK2JSE&linkCode=as2&tag=hikeve-20&linkId=8519013172ecaf7c4ca0d337dcf6a87e" rel="nofollow"><button type="button" class="btn btn-danger">See the Salomon QUEST 4D 2 GTX</button></a>  
+<a href="https://www.amazon.com/gp/product/B00KWK2JSE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KWK2JSE&linkCode=as2&tag=hikeve-20&linkId=8519013172ecaf7c4ca0d337dcf6a87e" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -180,7 +180,7 @@ The Scarpa R-EVOLUTION GTX is a supportive and light hiking boot for the mountai
 
 The Gore-Tex Performance Comfort liner keeps your foot dry.  
 
-<a href="https://www.amazon.com/gp/product/B0126ITSJC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0126ITSJC&linkCode=as2&tag=hikeve-20&linkId=e9ed7d57d4187c35ba18a9753faca0e6" rel="nofollow"><button type="button" class="btn btn-danger">See the Scarpa R-EVOLUTION GTX</button></a>  
+<a href="https://www.amazon.com/gp/product/B0126ITSJC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0126ITSJC&linkCode=as2&tag=hikeve-20&linkId=e9ed7d57d4187c35ba18a9753faca0e6" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -194,7 +194,7 @@ The Merrell Moab Ventilator Mid comes with a breathable mesh lining and a Vibram
 
 The Merrell Moab Ventilator Mid are suitable for summer hikes. The Moab Ventilator also has a leather toe cap to protect your toes.  
 
-<a href="http://www.amazon.com/gp/product/B000KR3COE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000KR3COE&linkCode=as2&tag=hikeve-20&linkId=IZYEREDONE4PYKOS" rel="nofollow"><button type="button" class="btn btn-danger">See the Merrell Moab Ventilator Mid</button></a>  
+<a href="http://www.amazon.com/gp/product/B000KR3COE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000KR3COE&linkCode=as2&tag=hikeve-20&linkId=IZYEREDONE4PYKOS" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -208,7 +208,7 @@ The Lowa Renegade GTX Mid is one of Lowa's best selling hiking shoe which is wat
 
 <a  href="http://www.amazon.com/gp/product/B002MPPV8M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002MPPV8M&linkCode=as2&tag=hikeve-20&linkId=5DHA3LOIUZFVBQNY" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002MPPV8M&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B002MPPV8M" width="1" height="1" border="0" alt="Lowa Renegade GTX Mid" style="border:none !important; margin:0px !important;" />  
 
-<a href="http://www.amazon.com/gp/product/B002MPPV8M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002MPPV8M&linkCode=as2&tag=hikeve-20&linkId=5DHA3LOIUZFVBQNY" rel="nofollow"><button type="button" class="btn btn-danger">See the Lowa Renegade GTX Mid</button></a>  
+<a href="http://www.amazon.com/gp/product/B002MPPV8M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002MPPV8M&linkCode=as2&tag=hikeve-20&linkId=5DHA3LOIUZFVBQNY" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -222,7 +222,7 @@ The Vasque Breeze 2.0 GTX comes with GORE-TEX with Extended Comfort Technology t
 
 The Vasque Breeze 2.0 GTX is a boot which can be worn for multiple day hikes and will give you stability if you have to carry more load.  
 
-<a href="http://www.amazon.com/gp/product/B008O5B0OS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008O5B0OS&linkCode=as2&tag=hikeve-20&linkId=A4NSRZ3BKK7BEAOB" rel="nofollow"><button type="button" class="btn btn-danger">See the Vasque Breeze 2.0 GTX</button></a>  
+<a href="http://www.amazon.com/gp/product/B008O5B0OS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008O5B0OS&linkCode=as2&tag=hikeve-20&linkId=A4NSRZ3BKK7BEAOB" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 

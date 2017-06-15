@@ -27,9 +27,3 @@ Alternatively, Konstantin is currently testing the MSR Hubba Hubba NX in Japan w
 Anyways, have a look on our blog if you are interested in the Hubba Hubba NX for an extensive review in the near future. Unfortunately, we don't have the Hillebergs available to test but there may come a review in the future as well.
 
 Here you can read more about the [Hilleberg Niak](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Niak-1-5-Person-Tent_10306870_10208_10000001_-1_), [Hilleberg Enan](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Enan-1-Person-Tent_10274355_10208_10000001_-1_) and the [MSR Hubba Hubba NX](http://www.moosejaw.com/moosejaw/shop/product_MSR-Hubba-Hubba-NX-2-Person-Tent_10238367_10208_10000001_-1_).
-
----
-
-{% include disclaimer.html %}
-
----

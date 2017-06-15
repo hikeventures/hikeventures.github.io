@@ -15,8 +15,6 @@ After having used my Sony A7r for a year, I would say that I had quite a lot of 
 <a href="https://www.flickr.com/photos/90204224@N07/11856929704"><img src="https://farm3.staticflickr.com/2829/11856929704_8283086780_o.jpg" width="1024" height="699" alt="Sony A7r LCD display"></a>
 <!--more-->
 
-{% include banner_ad.html %}
-
 What I disliked on the Sony A7r:
 
 * Slow AF (however I am most likely switching to one of the new Loxia Lenses as you can also read in my other <a href="http://hikeventures.com/zeiss-loxia-35mm/">post</a>)
@@ -29,9 +27,3 @@ For those reasons I have sold my A7r this week together with the 35mm F2.8 Sony 
 Specifications of the A9 are not quite clear yet. <a href="http://www.sonyalpharumors.com/sr2-sony-a9-specs-46-mp-sensor-and-weather-sealed-body/" target="_blank">SAR</a> had some rumours that it will feature 46 MP and an ISO range of 100-25,600 ISO which would be quite handy for night shots. However, it seems that it will still not be possible to record 4K internally.
 
 I would prefer less MP but the possibilities to record 4K internally as I don't want to carry more gear with me (beside the additional costs). It would be better if Sony could build the camera in a slightly bigger camera body if heat generation in the small camera body seems to be an issue. Also I would prefer more dynamic range rather than MP.  I am excited to see if the new sensor will be a Bayer Sensor or a new Multilayer Sensor ...
-
----
-
-{% include disclaimer.html %}
-
----

@@ -35,9 +35,3 @@ The pegs and poles of the Mountain Equipment AR Ultralite 2 are made of Aluminiu
 <a href="https://www.flickr.com/photos/90204224@N07/13637524555/" ><img src="https://farm6.staticflickr.com/5315/13637524555_745a8c097d_b.jpg" width="1024" height="683" ></a>
 
 Timo, the owner of the Mountain Equipment AR Ultralite 2 has not tested the Mountain Equipment AR Ultralite 2 extensively but will keep us updated with a more expensive review of the Mountain Equipment AR Ultralite 2 after his first trips. below.
-
----
-
-{% include disclaimer.html %}
-
----

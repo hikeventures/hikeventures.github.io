@@ -14,9 +14,9 @@ In this blog post I will present you my selection of the best outdoor watches fo
 
 At the moment I am wearing a Suunto Traverse which has a monochrome display and I am quite satisfied with it.  
 
-However, I would be interested to get an outdoor watch which features a colour display.  
+However, I would be interested to get an outdoor watch which features a color display.  
 
-Probably one disadvantage of watches having a colour display and a GPS is their short battery life.   
+Probably one disadvantage of watches having a color display and a GPS is their short battery life.   
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15913318153/in/photolist-Go1JSL-vM7J91-qHtRc2-qfcV5n-rc1Fx6-pUdwjt-pR5WvQ-poxm2c-J2qeyW-uSq1oC-vNPEKA-vwWEhv-vPqH22-sTzRxs-t4miJj-s9EBGJ-pC4agQ-ptyErN-pcgLEg-oUMs5L" title="Best outdoor GPS watches 2017"><img src="https://c2.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg" width="2048" height="1360" alt="Best outdoor GPS watches 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
@@ -89,7 +89,7 @@ However, if you are more into multi-sport or longer cycling or hiking trips I wo
 
 Both watches - the Suunto Spartan and the Apple Watch Series 2 are suitable for swimmers. However, the Apple Watch Series 2 should not be used for diving.  
 
-<a href="http://amzn.to/2jLZIuO" rel="nofollow"><button type="button" class="btn btn-danger">See the Apple Watch Series 2 Sport 42mm</button></a>  
+<a href="http://amzn.to/2jLZIuO" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 
 <hr>
@@ -116,7 +116,7 @@ It also features an optical hear rate monitor directly on the watch which can on
 
 No need to wear a heartrate monitor around your chest. One highlight of the Moto 360 Sport is probably it's high resolution / display.  
 
-<a href="http://amzn.to/1RWNLvb" rel="nofollow"><button type="button" class="btn btn-danger">See the Motorola Moto 360 Sport</button></a>  
+<a href="http://amzn.to/1RWNLvb" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -140,7 +140,7 @@ The Garmin Fenix 5X can be connected to Android and Apple phones and was one of 
 
 However, the map function on the Fenix 5X gives the Garmin an edge.  
 
-<a href="http://amzn.to/2jkTcij" rel="nofollow"><button type="button" class="btn btn-danger">See the Garmin Fenix 5X</button></a>  
+<a href="http://amzn.to/2jkTcij" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -170,7 +170,7 @@ In general, I found that the Casio WSD-F10 looks quite nice. I like the displays
 
 The only disadvantage I see with this watch is that I basically need to carry my smartphone with me as the watch does not have a built-in GPS. For me as a runner and hiker I would prefer a watch with a dedicated GPS module on board.  
 
-<a href="http://amzn.to/1YdNH1H" rel="nofollow"><button type="button" class="btn btn-danger">See the Casio WSD-F10</button></a>  
+<a href="http://amzn.to/1YdNH1H" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -196,7 +196,7 @@ Unfortunately, there are no specifications about the Suunto Spartan available ye
 
 As Suunto watches can be connected to Moveslink - the Suunto Online Sport Community - it is possible to use the Suunto Spartan either with your Android phone or with your iPhone.  
 
-<a href="http://amzn.to/2iqbE9B" rel="nofollow"><button type="button" class="btn btn-danger">See the Suunto Spartan Ultra</button></a>  
+<a href="http://amzn.to/2iqbE9B" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 

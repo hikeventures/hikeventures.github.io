@@ -58,7 +58,7 @@ When would I pick the LifeStraw filter?
 
 Probably, if I would like to have a backup solution with me or if I am planning to hike nearby a river where I don't want to carry a heavy water bottle with me. I could just take the LifeStraw and take a sip out of the river.
 
-<a href="http://amzn.to/2kOYYW6" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the LifeStraw Personal</button></a>
+<a href="http://amzn.to/2kOYYW6" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -75,7 +75,7 @@ Usually, I always filter water before I use it. This is also the case when I pre
 Moreover, I am also able to remove small particles by using a filter.
 
 
-<a href="http://amzn.to/2lZIqQl" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Sawyer Mini</button></a>
+<a href="http://amzn.to/2lZIqQl" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -85,16 +85,10 @@ Moreover, I am also able to remove small particles by using a filter.
 
 The MSR TrailShot is the latest product in this list and it's probably going to replace my Sawyer Mini. The Inlet Hose and the pump might be quite useful and more convenient to get clean water compared to the Sawyer Mini filter. However, these additional features also come with a little bit more weight (which I don't mind).
 
-<a href="http://amzn.to/2qdeoXm" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the MSR TrailShot</button></a>
+<a href="http://amzn.to/2qdeoXm" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
 
 ## Conclusion
 
 Choosing a water filter system is of course a personal choice. In my case I like to have a water filter which does the job, is lightweight and has a long lifespan. Having used the Sawyer Mini for a long time I am quite excited to use the additional features of the MSR TrailShot.
-
----
-
-{% include disclaimer.html %}
-
----

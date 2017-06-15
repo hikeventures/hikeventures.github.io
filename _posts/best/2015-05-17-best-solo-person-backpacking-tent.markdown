@@ -88,7 +88,7 @@ The Big Agnes Fly Creek HV UL1 is a 1-person and 3-season tent.
 
 The Big Agnes Fly Creek HV UL1 is a new product in the Big Agnes Ultralight tent range. It is a bit longer and taller than the Hilleberg Enan but has a smaller vestibule. Fly and floor have 1200mm waterproof polyurethane coating.  
 
-<a href="http://amzn.to/2sbCsPq" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Big Agnes Fly Creek HV UL1</button></a>  
+<a href="http://amzn.to/2sbCsPq" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -112,7 +112,7 @@ This type of tent is good for fast pack and go. If you are more into base campin
 
 The Enan has a mesh on one end which should provide great ventilation if pitched in wind direction.  
 
-<a href="http://amzn.to/2r2Fcu5" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Hilleberg Enan</button></a>  
+<a href="http://amzn.to/2r2Fcu5" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -159,7 +159,7 @@ However, [condensation](http://dzjow.com/2011/11/21/9-years-with-a-hilleberg-akt
 
 Another reason why I would opt for a bigger tent like the Hilleberg Nallo 2 rather than the Hilleberg Soulo if you need a 4-season tent is because it's less likely that your sleeping bag touches the inner tent if you have a longer and wider tent.  
 
-<a href="http://amzn.to/2r2dlKA" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">See the Hilleberg Akto</button></a>  
+<a href="http://amzn.to/2r2dlKA" rel="nofollow" target="_blank"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -181,7 +181,7 @@ The Hilleberg Niak 1.5 is more a 1-person rather han a 2-person tent and comes w
 
 Alternatively, I would choose the MSR Hubba Hubba NX which is also less pricey and offers slightly more room.  
 
-<a href="http://amzn.to/2sblAID" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">See the Hilleberg Niak</button></a>  
+<a href="http://amzn.to/2sblAID" rel="nofollow" target="_blank"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -203,7 +203,7 @@ The Hilleberg Nallo is probably the best choice if you want a 4-season tent whic
 
 If you don't need a freestanding tent and want the best weight/space ratio 4-season tent then you should pick the Hilleberg Nallo.  
 
-<a href="http://amzn.to/2s4mYM1" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">See the Hilleberg Nallo</button></a>  
+<a href="http://amzn.to/2s4mYM1" rel="nofollow" target="_blank"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -221,7 +221,7 @@ The MSR Hubba NX is also a great 3-season tent and costs much less than the Hill
 
 However, the Hilleberg has a stronger floor material (50D). If you are low on budget then the MSR Hubba would be our pick. If you want a freestanding 4-season tent then go for the Hilleberg Soulo.  
 
-<a href="http://amzn.to/2s4Lmx2" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the MSR Hubba NX</button></a>
+<a href="http://amzn.to/2s4Lmx2" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ## Hilleberg Soulo
 
@@ -247,7 +247,7 @@ It's a bit heavier and shorter than the Unna. If you don't need a self-standing 
 
 If you don't plan to do winter camping then the Hilleberg Soulo is probably going to be too much tent for your needs.  
 
-<a href="http://amzn.to/2sbicNO" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Hilleberg Soulo</button></a>  
+<a href="http://amzn.to/2sbicNO" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -279,7 +279,7 @@ Usually, I stuff my tent into a compression sack to get more space in my backpac
 
 The Sea to Summit Ultra-Sil eVENT Compression Dry Sack is currently my favourite compression sack.  
 
-<a href="https://www.amazon.com/gp/product/B00SUDY9EM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SUDY9EM&linkCode=as2&tag=hikeve-20&linkId=16d737f5ad282e8329e468a92146474a" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Sea to Summit Ultra-Sil Dry Sack</button></a>  
+<a href="https://www.amazon.com/gp/product/B00SUDY9EM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SUDY9EM&linkCode=as2&tag=hikeve-20&linkId=16d737f5ad282e8329e468a92146474a" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -291,7 +291,7 @@ The MSR Carbok Stake Kit is one of my favourite accessories. You can save quite 
 
 
 
-<a href="https://www.amazon.com/gp/product/B006ZJI83Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006ZJI83Q&linkCode=as2&tag=hikeve-20&linkId=598e157cf73c25ba8ba048edb6335843" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the MSR Carbon Stake Kit</button></a>  
+<a href="https://www.amazon.com/gp/product/B006ZJI83Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006ZJI83Q&linkCode=as2&tag=hikeve-20&linkId=598e157cf73c25ba8ba048edb6335843" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 
 <hr>
@@ -305,7 +305,7 @@ The MPOWERD Luci Outdoor is probably one of the best products you can take on yo
 You charge the lamp during your hike. Once it gets dark you inflate Luci and you have plenty of light. Read also our [review.](http://www.hikeventures.com/luci-r-outdoor-not-a-toy/)  
 
 
-<a href="https://www.amazon.com/gp/product/B00F5TI7C4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F5TI7C4&linkCode=as2&tag=hikeve-20&linkId=be7820944e18e0c7737d7145427544ee" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the MPOWERD Solar Lantern</button></a>  
+<a href="https://www.amazon.com/gp/product/B00F5TI7C4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F5TI7C4&linkCode=as2&tag=hikeve-20&linkId=be7820944e18e0c7737d7145427544ee" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 

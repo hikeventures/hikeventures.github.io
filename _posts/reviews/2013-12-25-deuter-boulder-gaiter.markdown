@@ -39,9 +39,3 @@ There is also a slide fastener to close the gaiters.
 
 ## Recommendation
 Of course there are lighter gaiter options available but I doubt that they are that durable. I am not planning to buy any new gaiters at any point in the future, thus durability has a higher priority for me. The Deuter Boulder gaiters seem to be a good choice to me for a good price.
-
----
-
-{% include disclaimer.html %}
-
----

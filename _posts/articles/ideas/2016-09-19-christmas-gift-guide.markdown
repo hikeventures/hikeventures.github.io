@@ -139,9 +139,3 @@ Thw Sawyer Water Filter is always in my backpack when I go hiking. It's much eas
 ---
 
 I hope you were able to find an interesting christmas gift. Merry Christmas and hope to see you on our blog again in 2017.
-
----
-
-{% include disclaimer.html %}
-
----

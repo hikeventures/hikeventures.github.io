@@ -77,7 +77,7 @@ The Polartec fabric should dry quite fast and transports moisture away from the 
 
 The Mammut Moench Longsleeve features a stretchy fabric which should keep you dry and allow your body to move with ease and should be a good fleece for activities in the mountains.
 
-<a href="http://www.amazon.com/gp/product/B005JWKXC4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005JWKXC4&linkCode=as2&tag=hikeve-20&linkId=AM7UMWDALROAZGHE" rel="nofollow"><button class="btn btn-danger">See the Mammut Moench Longsleeve</button></a>
+<a href="http://www.amazon.com/gp/product/B005JWKXC4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005JWKXC4&linkCode=as2&tag=hikeve-20&linkId=AM7UMWDALROAZGHE" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ## Rab Micro Pull-on
 
@@ -88,7 +88,7 @@ The Mammut Moench Longsleeve features a stretchy fabric which should keep you dr
 
 The Rab Micro Pull-on is a light fleece pullover. It's fabric is made of recycled fabric if you prefer to opt for products and also keep nature in mind.
 
-<a href="http://www.amazon.com/gp/product/B00MVV2BDK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MVV2BDK&linkCode=as2&tag=hikeve-20&linkId=O35AIPYX5EH2BEVJ" rel="nofollow"><button class="btn btn-danger">See the Rab Micro Pull-on</button></a>
+<a href="http://www.amazon.com/gp/product/B00MVV2BDK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MVV2BDK&linkCode=as2&tag=hikeve-20&linkId=O35AIPYX5EH2BEVJ" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ## Arcteryx Delta LT Zip Neck
 
@@ -99,7 +99,7 @@ The Rab Micro Pull-on is a light fleece pullover. It's fabric is made of recycle
 
 The Arcteryx Delta LT Zip Neck is also a nice fleece. I have currently the Delta LT Zip Jacket model which is similar to this model except that you have a full zip on the front.
 
-<a href="http://www.amazon.com/gp/product/B00GW7ZQG8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZQG8&linkCode=as2&tag=hikeve-20&linkId=TWGUKPE3JX4IKWXK" rel="nofollow"><button class="btn btn-danger">See the Arcteryx Delta LT Zip Neck</button></a>
+<a href="http://www.amazon.com/gp/product/B00GW7ZQG8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZQG8&linkCode=as2&tag=hikeve-20&linkId=TWGUKPE3JX4IKWXK" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ## Best fabric for a Fleece Jackets
 

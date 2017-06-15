@@ -31,9 +31,3 @@ Attaching <a href="http://amzn.to/X0WwPY" target="_self">hiking boots</a> on the
 
 ## Recommendation
 I have not tried the carabiner for climbing so I am not able to say anything about it's climbing properties. It's a little bit expensive compared to other carabiners but I like the weight, look and that the gate barrel can be locked.
-
----
-
-{% include disclaimer.html %}
-
----
