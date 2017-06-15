@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The best camping and backpacking gift ideas for her under 50 USD
+title: The best camping and backpacking gift ideas for her under 50 USD for 2017
 description: Camping gift ideas which probably every women would like to have.
 date: 2016-08-19 07:30:00
 category: reviews
@@ -9,7 +9,7 @@ tags:
   - gadgets
 ---
 
-Here is a selecetion of camping, hiking and backpacking gift and gadget ideas for women. We have asked a view women what they would like to buy and here is the result. So if you need a gift for your girlfriend or wife you might find something in this blog post.
+Here is a selection of camping, hiking and backpacking gift and gadget ideas for women for 2017. We have asked a view women what they would like to buy and here is the result. So if you need a gift for your girlfriend or wife you might find something in this blog post.
 ---
 
 <script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>

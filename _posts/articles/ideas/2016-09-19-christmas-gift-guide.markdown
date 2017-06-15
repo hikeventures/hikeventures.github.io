@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Best 12 backpacking gear gift ideas for him for Christmas 2017
-description: The best hiking and backpacking christmas gifts for 2017
+title: Best 12 backpacking gear gift ideas for him for Christmas 2018
+description: The best hiking and backpacking christmas gifts for 2018
 date: 2016-09-19 07:30:00
 category: reviews
 tags:
   - gifts
   - christmas
 ---
-Christmas is approaching us and I decided to write a blog post with the 12 best backpacking gear gift ideas for him for Christmas 2017. I have tried to select gear which can be used for hiking, backpacking, climbing, skiing, snowshoeing or packrafting so there should be something for everyone.
+Christmas is approaching us and I decided to write a blog post with the 12 best backpacking gear gift ideas for him for Christmas 2018. I have tried to select gear which can be used for hiking, backpacking, climbing, skiing, snowshoeing or packrafting so there should be something for everyone.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15913321903/in/album-72157651193131682/" title="Best 12 backpacking gear gift ideas for him for Christmas 2017"><img src="https://c8.staticflickr.com/8/7295/15913321903_c77e978900_k.jpg" width="2048" height="1360" alt="Best 12 backpacking gear gift ideas for him for Christmas 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
