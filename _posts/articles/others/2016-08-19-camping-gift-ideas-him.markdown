@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The best 12 camping gift ideas for him 2017
+title: The best 12 camping gift ideas for him 2018
 description: Camping gift ideas which probably every man would like to have.
 date: 2016-08-19 07:30:00
 category: reviews
@@ -9,12 +9,6 @@ tags:
   - christmas
 ---
 Are you looking for a camping gift for your husband? We might have 12 camping gift ideas for 2017 which he would definitely like as we like them too. We have selected a variety of products which might be interesting for your husband if he likes to go hiking, backpacking, packrafting, skiing or snowshoeing. We hope you will find a nice gift.
-
----
-
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=Tidbits&amp;open=_blank"></script>
-
----
 
 <h2><a href="http://amzn.to/2eED2uN" target="_blank" rel="nofollow">GoPro Hero5 Session</a></h2>
 
@@ -98,11 +92,11 @@ If your husband needs a warm sleeping pad then the The Therm-a-Rest NeoAir XTher
 
 ---
 
-<h2><a href="http://amzn.to/2e39SXr" target="_blank" rel="nofollow">DeLorme InReach Explorer</a></h2>
+<h2><a href="https://www.amazon.com/gp/product/B01MY03CZP/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MY03CZP&linkCode=as2&tag=hikeve-20&linkId=dccad628151d4e382fe6e7c2de390ce0" target="_blank" rel="nofollow">Garmin InReach Explorer+</a></h2>
 
-<a href="http://www.amazon.com/gp/product/B00I6EY01C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00I6EY01C&linkCode=as2&tag=hikeve-20&linkId=5XJQ3SFWBJDA27QP" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00I6EY01C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00I6EY01C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.com/gp/product/B01MY03CZP/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MY03CZP&linkCode=as2&tag=hikeve-20&linkId=dccad628151d4e382fe6e7c2de390ce0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MY03CZP&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MY03CZP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-This is probably one of the best gifts you can buy if your husband is hiking in remote areas where there is no phone signal. It also has a digital compass, route planning features, trip statistics, altimeter, track logging and weights 190 grams.
+The Garmin InReach Explorer+ is probably one of the best gifts you can buy if your husband is hiking in remote areas where there is no phone signal. It also has a digital compass, route planning features, trip statistics, altimeter, track logging and weights 190 grams.
 
 <a href="http://amzn.to/2e39SXr" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
