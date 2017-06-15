@@ -64,7 +64,7 @@ A small gift but great gift is the Fjällräven Zip Card Holder. The fabric is m
 <h2><a href="http://amzn.to/2d29ys9" rel="nofollow" target="_blank">Petzl Nao Plus</a></h2>
 
 
-<a href="https://www.amazon.com/gp/product/B01LFW5BZA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LFW5BZA&linkCode=as2&tag=hikeve-20&linkId=ab1bc83c79f0d72682bee02feeb7da49" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LFW5BZA&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LFW5BZA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01GFPMEXY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GFPMEXY&linkCode=as2&tag=hikeve-20&linkId=37fde9ae38cedbfdcc82a164fa13adad"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01GFPMEXY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01GFPMEXY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 With the Petzl Nao Plus you are able to see 140 m into the distance. It's features reactive lightning - meaning that it adjusts the light level automatically. The <a href="http://amzn.to/2f2H8kG" rel="nofollow">Petzl Nao Belt Kit</a>, comes quite handy if your husband plans to use the headlamp in very cold conditions as it helps to prevents battery drain if worn nearby the body. It is water resistant (IP X4) and weights 187 grams.
 
