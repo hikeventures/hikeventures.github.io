@@ -98,13 +98,13 @@ The Therm-a-Rest NeoAir XTherm is my go-to sleeping pad throughout the year here
 
 ---
 
-<h2><a href="http://amzn.to/2e39SXr" target="_blank" rel="nofollow">DeLorme InReach Explorer</a></h2>
+<h2><a href="https://www.amazon.com/gp/product/B01MY03CZP/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MY03CZP&linkCode=as2&tag=hikeve-20&linkId=54e87a70019bfd8d2abcbb01736d2464" target="_blank" rel="nofollow">Garmin InReach Explorer+</a></h2>
 
-<a href="http://www.amazon.com/gp/product/B00I6EY01C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00I6EY01C&linkCode=as2&tag=hikeve-20&linkId=5XJQ3SFWBJDA27QP" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00I6EY01C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00I6EY01C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01MY03CZP/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MY03CZP&linkCode=as2&tag=hikeve-20&linkId=54e87a70019bfd8d2abcbb01736d2464"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MY03CZP&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MY03CZP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-If you are planning to hike in remote places where you won't have a phone signal then you should consider taking a DeLorme InReach Explorer with you. It also has a digital compass, route planning features, trip statistics, altimeter, track logging and weights 190 grams.
+If you are planning to hike in remote places where you won't have a phone signal then you should consider taking a Garmin InReach Explorer+ with you. It also has a digital compass, route planning features, trip statistics, altimeter, track logging and weights 190 grams.
 
-<a href="http://amzn.to/2e39SXr" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="https://www.amazon.com/gp/product/B01MY03CZP/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MY03CZP&linkCode=as2&tag=hikeve-20&linkId=54e87a70019bfd8d2abcbb01736d2464" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
