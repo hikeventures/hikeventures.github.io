@@ -73,7 +73,7 @@ These are great waterproof pants for the warmer months.
 
 They also come with  zippers on the lower part of the leg so you can pull them on and off even with boots on.  
 
-<a href="http://amzn.to/2si7apw" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Montane Minimus Pants</button></a>  
+<a href="http://amzn.to/2si7apw" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -88,7 +88,7 @@ The Montane Atomic Pants are a bit more durable than the Montane Minimus Pants b
 
 They are also a great choice if you go hiking in the mountains during the warmer months.  
 
-<a href="http://amzn.to/2rYwfp1" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Montane Atomic Pants</button></a>  
+<a href="http://amzn.to/2rYwfp1" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -103,7 +103,7 @@ The Mountain Hardwear Plasmic Pants are slightly more heavy than the Montane pan
 
 These pants have articulated knees which increases your mobility and also a bag with a zipper where you can store small items. If you need to have a pocket on your waterproof pants then go for this model.  
 
-<a href="http://amzn.to/2sG4iA9" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Mountain Hardwear Plasmic Pants</button></a>  
+<a href="http://amzn.to/2sG4iA9" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -116,7 +116,7 @@ These pants have articulated knees which increases your mobility and also a bag 
 
 The Rab Fuse Pants are the lightest waterproof pants from Rab. They also feature knee articulation.  
 
-<a href="http://amzn.to/2rYC2uS" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Check for Discounts</button></a>  
+<a href="http://amzn.to/2rYC2uS" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -142,7 +142,7 @@ The zippers on the legs help to put those pants on while wearing hiking boots.
 
 SL stands for Super Light in the Arcteryx product range. This model is reinforced in key wear areas, has articulated knees but only comes with lower leg zippers.  
 
-<a href="http://amzn.to/2rYuhVL" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Arcteryx Beta SL Pants</button></a>  
+<a href="http://amzn.to/2rYuhVL" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -157,7 +157,7 @@ The Rab Firewall Pants are made for active use during winter.
 
 The Rab Firewall pants comes with an elasticated waistband and knee articulations and are compatible with winter boots.  
 
-<a href="http://amzn.to/2r4XBdW" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Rab Firewall Pants</button></a>  
+<a href="http://amzn.to/2r4XBdW" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <a href="https://www.flickr.com/photos/90204224@N07/9598980244" title="Montane Minimus Pants"><img src="https://farm4.staticflickr.com/3767/9598980244_fccc7cd8c6_b.jpg" width="1024" height="683" alt="Montane Minimus Pants"></a>  
 
