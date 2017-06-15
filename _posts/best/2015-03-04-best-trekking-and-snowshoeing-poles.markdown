@@ -81,7 +81,7 @@ If you look specifically for winter poles then you should have a look at the MSR
 
 ## MSR Deploy T-3
 
-<a  href="http://www.amazon.com/gp/product/B00FQU5KD6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FQU5KD6&linkCode=as2&tag=hikeve-20&linkId=RM7QJSFHFODR6F3U" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00FQU5KD6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00FQU5KD6" width="1" height="1" border="0" alt="MSR Deploy T-3" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00FQU5KTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FQU5KTK&linkCode=as2&tag=hikeve-20&linkId=92dac3153a6564a082dbc5530ed5efa2"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00FQU5KTK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00FQU5KTK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **weight**: 635 grams  
 
@@ -97,7 +97,7 @@ There are 2 models available, the MSR Deploy T-2 and T-3 with the only differenc
 
 ## Black Diamond Expedition 3
 
-<a href="http://www.amazon.com/gp/product/B00MGQXVKW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MGQXVKW&linkCode=as2&tag=hikeve-20&linkId=7USCDAVWZRIA5VHA" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00MGQXVKW&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00MGQXVKW" width="1" height="1" border="0" alt="Black Diamond Expedition 3" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01L2A7AU4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01L2A7AU4&linkCode=as2&tag=hikeve-20&linkId=d7389d39b896dc34d589ad8cf82d96b5"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01L2A7AU4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01L2A7AU4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **weight**: 520 grams  
 
@@ -131,7 +131,7 @@ The Black Diamond Distance Carbon FLZ are made of carbon fibre those poles come 
 
 ## Leki Micro Ti
 
-<a href="http://www.amazon.com/gp/product/B00I5IVTUE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00I5IVTUE&linkCode=as2&tag=hikeve-20&linkId=4JMZ5BH5JJ367DOU" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00I5IVTUE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00I5IVTUE" width="1" height="1" border="0" alt="Leki Micro Ti" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00MP2290U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MP2290U&linkCode=as2&tag=hikeve-20&linkId=28fabf765fdb29496c4b0dad85d6d42d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00MP2290U&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00MP2290U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **weight**: 432 grams  
 
