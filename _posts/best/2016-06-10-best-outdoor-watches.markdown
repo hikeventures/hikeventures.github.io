@@ -27,12 +27,7 @@ Probably one disadvantage of watches having a color display and a GPS is their s
 
 <div class="table-responsive">  
 <table class="table table-hover table-bordered list_items">  
-<tr>  
-<td><strong>GPS Watch</strong>  
-</td>  
-<td><strong>Weight</strong>  
-</td>  
-</tr>  
+<tr>  <td><strong>GPS Watch</strong></td><td><strong>Weight</strong></td></tr>  
 <tr>  
 <td><a href="http://amzn.to/2jLZIuO" rel="nofollow">Apple Watch Sport 42mm</a>  
 </td>  
