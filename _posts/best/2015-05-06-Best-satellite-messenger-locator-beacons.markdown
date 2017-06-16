@@ -53,12 +53,12 @@ DeLorme is owned since 2016 by Garmin and the unit has been replaced with the Ga
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00MYSP6NM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MYSP6NM&linkCode=as2&tag=hikeve-20&linkId=9249d908011764d70c9c3ba70de69a3b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00MYSP6NM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00MYSP6NM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+* Weight: 153 grams
 * Buoyant Personal Locator Beacon which is also suitable for paddlers  
 * No subscription fee  
 * Sends rescue signals for 24 hours  
 * Buoyant  
-* No messaging  
-* Weight: 153 grams  
+* No messaging    
 
 <a href="http://amzn.to/2e39b0g" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
@@ -68,11 +68,11 @@ DeLorme is owned since 2016 by Garmin and the unit has been replaced with the Ga
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01MY03CZP/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MY03CZP&linkCode=as2&tag=hikeve-20&linkId=55130c05ea4d4b808d670e49cd56e51d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MY03CZP&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" alt="Garmin InReach Explorer+"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MY03CZP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
+* Weight: 213 grams
 * Same features as Garmin InReach SE+ and in additional:  
 * Digital Compass with barometric altimeter and accelerometer  
 * Preloaded DeLorme TOPO maps with onscreen GPS routing plus  
-* 2GB storage for maps  
-* weight: 213 grams  
+* 2GB storage for maps   
 
 <a href="http://amzn.to/2jM4Pet" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
@@ -104,13 +104,12 @@ DeLorme is owned since 2016 by Garmin and the unit has been replaced with the Ga
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01FHO5AF8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01FHO5AF8&linkCode=as2&tag=hikeve-20&linkId=7996c1250dd46ac08ae20d6dc725d36d"><img rel="nofollow" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01FHO5AF8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" alt="SPOT Gen3"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01FHO5AF8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
-
+* Weight 114 grams
 * Check-in function: pre-programmed text message or email with GPS coordinates to up to 10 contacts  
 * Help/SPOT Assist: Inform contacts about non-life-threatening situations while SPOT Assist is  for professional services on land or water.  
 * Friends and Family can follow your trip via a SPOT Shared Page  
 * Custom messages which can be used as a secondary OK message or personal help alert  
-* Message size: 41 characters  
-* Weight 114 grams  
+* Message size: 41 characters    
 
 <a href="http://amzn.to/2eTKIN3" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
