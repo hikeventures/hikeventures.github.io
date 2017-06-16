@@ -37,7 +37,7 @@ In this article I am going discuss if you should choose the Sawyer Mini, MSR Tra
          <tr><td>lifetime (liters)</td><td>1000</td><td>350000</td><td>2000</td></tr>
          <tr><td>viruses</td><td>no</td><td>no</td><td>no</td></tr>
          <tr><td>carbon filter</td><td>no</td><td>no</td><td>no</td></tr>
-         <tr><td>&nbsp;</td><td><a rel="nofollow" href="http://amzn.to/2kOYYW6" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a></a></td><td><a rel="nofollow" href="http://amzn.to/2lZIqQl" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a></a></td><td><a rel="nofollow" href="http://amzn.to/2qdeoXm" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a></a></td></tr>
+         <tr><td>&nbsp;</td><td><a rel="nofollow" href="http://amzn.to/2kOYYW6" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a></td><td><a rel="nofollow" href="http://amzn.to/2lZIqQl" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a></td><td><a rel="nofollow" href="http://amzn.to/2qdeoXm" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a></td></tr>
         </tbody></table>
 </div>
 
