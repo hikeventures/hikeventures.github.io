@@ -38,7 +38,7 @@ In our packrafting trips directory you can find packrafting trip ideas from othe
 
 [Trollsjön Lake][9] - 2 days / class 2 - At the Trollsjön lake you have the chance to packrafting on the cleanest lake of Sweden.
 
-[Fjätan][10] - 7 days / class 3 - In july 2015 I did a pioneer journey down the hole river Fjätan in the county Härjedalen and Dalarna in Northwest Sweden. The river 86km in length is one of the many tributary rivers that build up the big river Österdalsälven from the mountains close to the Swedish - Norwegian border.
+[Fjätan][10] - 7 days / class 3 - In July 2015 I did a pioneer journey down the hole river Fjätan in the county Härjedalen and Dalarna in Northwest Sweden. The river 86km in length is one of the many tributary rivers that build up the big river Österdalsälven from the mountains close to the Swedish - Norwegian border.
 
 [Voxnan][11] - 6 days / class 3 - The Voxnan river goes through a vast wilderness of Swedish boreal forest and has plenty of rapids. The river is perfect for packrafters who want to get experience with paddling whitewater. Most rapids are graded class 1 to 2 and there is a couple of higher graded rapids as well you either can try or go around. I paddled the river solo in 2014.
 

@@ -14,22 +14,20 @@ Sandisk has recently introduced it's new SanDisk 1TB SDXC card which could be qu
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 Currently, I have no computer available at home since I am waiting for the new Macbook Pro to be released and I need to have my files and data available on a different computer. As I don't want to carry a hard drive with me I just use my SD cards as my mobile drive ... and it works.
 
 Price aside, being able to store 1TB on a SD card is just amazing. Of course, I could also buy a simple 1 TB hard drive which is probably a cheaper solution but it's just more bulky.
 
 However, looking into the future I believe that SD cards could be a great option to carry your data in your wallet. You can easily take them everywhere with you to store your day to day files but also use them to take pictures. At the same time you backup your files to the cloud.
 
-If you think that the new SanDisk 1TB SDXC card is too expensive then you could also just buy a few smaller SD UHS-II cards to store your data which is also a safer option in case one of your SD cards fails in the field. Just make sure that those cards are SD UHS-II cards so you could use them for example with the <a href="http://amzn.to/2py6307" target="_blank" rel="nofollow">Sandisk Extreme PRO</a> card reader to increase the reading speed on your computer if your computer does not support UHS-II cards yet.
+If you think that the new SanDisk 1TB SDXC card is too expensive then you could also just buy a few smaller SD UHS-II cards to store your data which is also a safer option in case one of your SD cards fails in the field. Just make sure that those cards are SD UHS-II cards so you could use them for example with the Sandisk Extreme PRO card reader to increase the reading speed on your computer if your computer does not support UHS-II cards yet.
 
 ## What about the speed?
 The read speed of UHS-II cards is 280MB/s while the write speed is 250MB/s.
-On the other hand SSD cards like the new portable <a href="http://amzn.to/2cSwzhm" rel="nofollow" target="_blank">Samsung T3</a> have a data transfer speed of 450MB/s.
+On the other hand SSD cards like the new portable Samsung T3 have a data transfer speed of 450MB/s.
 
 ## Workflow
 I usually copy the files I am planning to work with to my internal SSD drive on my Macbook before I start working with them. I constantly backup all my files stored on my computer and on my external drives to the cloud.
 
 ## Conclusion
-If speed is more important to you then you should consider the <a href="http://amzn.to/2cSwzhm" rel="nofollow" target="_blank">Samsung T3</a> SSD. If you are looking for the smallest portable solution to store your data then UHS-II cards (e.g. from SanDisk or Lexar) are the way to go from my point of view.
+If speed is more important to you then you should consider the Samsung T3 SSD. If you are looking for the smallest portable solution to store your data then UHS-II cards (e.g. from SanDisk or Lexar) are the way to go from my point of view.

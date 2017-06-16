@@ -15,8 +15,6 @@ Recently, GoPro announced it's new GoPro Hero5 Black and it's GoPro Hero5 Sessio
 
 <!--more-->
 
----
-
 ## Waterproofness
 The GoPro cameras are waterproof down to 10 meters while the iPhone 7 can be submerged 1 meter for half an hour (IP67).
 
@@ -42,4 +40,4 @@ Having IP67 on the iPhone is nice but if you jump into a lake and the GoPro brea
 
 Certainly, you might also get more scratches on your iPhone 7 screen. The surface of the iPhone screen is much larger than the surface of the camera lens of the <a href="http://amzn.to/2ekq5Zy" rel="nofollow" target="_blank">GoPro Hero 5 Black</a> / <a href="http://amzn.to/2el7Buj" rel="nofollow" target="_blank">GoPro Session</a>.
 
-If audio recording is not important to you then you could also consider purchasing the older <a href="http://amzn.to/2cDRqEi" rel="nofollow">GoPro Session</a> instead and save some money. You may also check for discounts <a href="/deals/" target="_blank">here</a>.
+If audio recording is not important to you then you could also consider purchasing the older GoPro Session instead and save some money.

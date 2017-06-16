@@ -9,14 +9,14 @@ tags:
 layout: post
 ---
 
-Christmas 2015 is just around the corner and I decided to share with you my outdoor gear ideas on my christmas wishlist for 2015 and which I intend to use on my next hiking, snowshoing or packrafting adventures (in case I would get the items).
+Christmas 2015 is just around the corner and I decided to share with you my outdoor gear ideas on my Christmas wishlist for 2015 and which I intend to use on my next hiking, snowshoeing or packrafting adventures (in case I would get the items).
 
 ![][image-1]
 
 Patrick snowshoeing in [Finnish Lapland][1].
 
 ## Suunto Traverse
-Actually, I bought the Suunto Traverse already last weekend but was initially also on my christmas wishlist. It may not have a fancy color display as the Garmin Fenix 3 but Suunto is known to make reliable products and I also like the Movescount app to connect the watch with your iphone e.g. use it as a second screen or create outdoor movies.
+Actually, I bought the Suunto Traverse already last weekend but was initially also on my Christmas wishlist. It may not have a fancy color display as the Garmin Fenix 3 but Suunto is known to make reliable products and I also like the Movescount app to connect the watch with your iPhone e.g. use it as a second screen or create outdoor movies.
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B013RRT6FC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B013RRT6FC&linkCode=as2&tag=hikeve-20&linkId=7XUCO5KKIINCYDCB"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B013RRT6FC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B013RRT6FC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 

@@ -49,7 +49,7 @@ In the past I have always used my Suunto Traverse to log my GPS data (see pictur
 
 However, there are certain features on the new watches which I found more appealing than on the Suunto Traverse - and in particular I would prefer to have the Garmin Fenix 5X over the Suunto Spartan.
 
-Why? Simply beacause both watches offer similar features with the Fenix 5X offering additionaly the possibility to upload 2GB of topo maps.
+Why? Simply because both watches offer similar features with the Fenix 5X offering additionaly the possibility to upload 2GB of topo maps.
 
 ## Reasons for upgrading
 When you own an old Suunto watch like the Traverse or a Garmin Fenix 3 then you are probably asking yourself if you should upgrade to the Spartan or Fenix watch.
@@ -60,10 +60,10 @@ However, others might find the color screen or the touch screen of the Spartan m
 
 Personally, I don't care that much about the touch screen. However, the color display in combination of the map is a really cool feature.
 
-Moreover, the Fenix 5X also has a hear rate monitor built into the back of the watch so you can meassure your hear beat without wearing a heart strap around your chest.
+Moreover, the Fenix 5X also has a hear rate monitor built into the back of the watch so you can measure your hear beat without wearing a heart strap around your chest.
 
 Suunto has already announced to release a similar model in a few weeks which is going to be called Suunto Spartan Sport HR.
 
-However, it will still miss the map feature which I like on the <a href="http://amzn.to/2osspQt" rel="nofollow">Garmin Fenix 5X</a>. On the other hand, the <a href="http://amzn.to/2kLxu40" rel="nofollow">Suunto Spartan</a> has a slightly better screen resolution.
+However, it will still miss the map feature which I like on the Garmin Fenix 5X. On the other hand, the Suunto Spartan has a slightly better screen resolution.
 
 Would this change my purchase decision? No. I still prefer the watch which can upload topo maps - the Garmin Fenix 5X. The Suunto Spartan might be however more appealing for those who need the lightest gear and don't need the map feature of the Garmin Fenix 5X.

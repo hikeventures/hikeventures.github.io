@@ -15,8 +15,6 @@ Yesterday, [Caj](http://caide.kuvat.fi), Katja and me went to Ruissalo in Turku 
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29308113654/in/dateposted-public/" title="Ruissalo Turku"><img src="https://c7.staticflickr.com/9/8185/29308113654_a7d9271f7d_k.jpg" width="2048" height="1133" alt="Astrophotography Zeiss Batis 25mm Sony A7 Turku Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
