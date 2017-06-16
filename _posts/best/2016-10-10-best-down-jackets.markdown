@@ -11,16 +11,11 @@ tags:
 layout: post
 ---
 
-In this blog post I would like to write about my selection of the best pack rafting and kayaking helmets for 2017.  
+In this blog post I would like to present you my selection of the best down jackets of 2017 which I would consider if I were to buy a new one.
 
-If you are planning to do whitewater packrafting or kayaking then you should probably consider to wear a helmet which protects your head in case you flip with your packraft or kayak.   
+A down jacket is one of the most essential piece of clothes when planning a trip outdoors with a tent. A down jacket keeps you much warmer compared to a fleece.
 
-There are certain criteria you should look out when buying a new packrafting helmet:  
-
-* Is the helmet certified for whitewater (e.g. CE EN 1385)?  
-* Do you need a visor for additional face protection or against the sun?  
-* Is the helmet lightweight so it feels comfortable to wear it for a longer period?  
-* Do you need ear protection?  
+When I go hiking I usually wear a [fleece jacket](http://www.hikeventures.com/best-fleece-jackets/) and once I am in my camp I switch my fleece to a down jacket. If you plan to camp in more humid conditions then I would advice you to take rather an [synthetic insulated jacket](http://www.hikeventures.com/best-synthetic-insulated-jackets/) with you than a down jacket since down does not insulate once it gets wet. 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15432217426/in/photolist-GbSzpE-HnoEX7-GaxJVX-GXb3Qv-fBZbWn-qN9fdL-qeZAQ1-pJRcuY-oXDYGk-oXE2fB-pUotup-pSioYy-pF3ZMU-oJ8eZL-pUdwjt-pvG9Af-oMnq8m-qGeLzL-oCa2tz-ofA95w-o3ozXu-o1sHd9-nL2c9g-o5eCPi-nKXNaZ-o1pT3W-nKXHCH-nB97hW-nTASyZ-nge5dS-nhY6vf-nhYSEd-nqwZew-noqfLG-nbZrcA-nbXFbR-n9UVEg-nbX8MF-n9UL3q-hXNmLH-hXMK7h-hXMq24-hXNm3Z-dXbkpf-dL8yRc-dNuTzR-dNuWmP-dNAuXb-dNuVEk-nbXz8D" title="Best Packrafting Helmets"><img src="https://c3.staticflickr.com/3/2949/15432217426_553ad0b259_k.jpg" width="2048" height="1367" alt="Best packrafting helmets"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
