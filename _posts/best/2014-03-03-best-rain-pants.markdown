@@ -19,7 +19,7 @@ Personally, I prefer to take the lightest rain clothes with me during my summer 
 
 If you plan to wear your rain jacket on a daily base with a backpack on your shoulders you should probably buy a rain jacket with a more durable fabric which might also weight more.  
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/90204224@N07/13685518345/in/photolist-nqw1ZC-nqcd6S-qG8T36-nqcfZh-nqbUQ8-nqsSPr-nbXt4g-nqb2oa-nse64k-nqsjEM-nqaPbz-nqs8hX-nqaL3v-mRkRNR-mRkM6e-mRnwXu-mRkZX6-mRm7Fe](https://www.flickr.com/photos/90204224@N07/13685518345/in/photolist-nqw1ZC-nqcd6S-qG8T36-nqcfZh-nqbUQ8-nqsSPr-nbXt4g-nqb2oa-nse64k-nqsjEM-nqaPbz-nqs8hX-nqaL3v-mRkRNR-mRkM6e-mRnwXu-mRkZX6-mRm7Fe" title="Best Rain Pants 2017"><img src="https://c2.staticflickr.com/8/7206/13685518345_b56a9a77d8_b.jpg" width="992" height="662" alt="Best Men Rain Pants 2017 "></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<a href="https://www.flickr.com/photos/90204224@N07/9598980244" title="Montane Minimus Pants"><img src="https://farm4.staticflickr.com/3767/9598980244_fccc7cd8c6_b.jpg" width="1024" height="683" alt="Montane Minimus Pants"></a>
 
 <!--more-->
 
@@ -144,9 +144,7 @@ The Rab Firewall Pants are made for active use during winter.
 
 The Rab Firewall pants comes with an elasticated waistband and knee articulations and are compatible with winter boots.  
 
-<a href="http://amzn.to/2r4XBdW" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
-
-<a href="https://www.flickr.com/photos/90204224@N07/9598980244" title="Montane Minimus Pants"><img src="https://farm4.staticflickr.com/3767/9598980244_fccc7cd8c6_b.jpg" width="1024" height="683" alt="Montane Minimus Pants"></a>  
+<a href="http://amzn.to/2r4XBdW" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>    
 
 Wearing the Montane Minimus Pants rain pants on our hiking and packrafting trip in Sarek National Park in Sweden.  
 
