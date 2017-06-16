@@ -20,7 +20,7 @@ In a few weeks we are planning to go for a winter trip to Northern Norway. Our p
 Konstantin just recently bought a new tent from Seek Adventures which includes a titanium stove. As we have never done any serious winter camping before we are quite excited if we are going to survive a few nights in the cold. We will also take the MSR Windburner with us which works quite well in windy conditions.
 
 ## Merino base layers
-Beside the tent and the stove Konstantin also ordered a merino overall from Icebreaker which he is planning to wear as a base layer during the night. Patrick on the other hand will just use a Devold Expedition base layer which is made of a little bit less Merino than Konstantins Icebreaker BodyfitZONE Zone One Sheep Suit but is more durable.
+Beside the tent and the stove Konstantin also ordered a merino overall from Icebreaker which he is planning to wear as a base layer during the night. Patrick on the other hand will just use a Devold Expedition base layer which is made of a little bit less Merino than Konstantin's Icebreaker BodyfitZONE Zone One Sheep Suit but is more durable.
 
 ## Snowshoes and poles
 Our snowshoes will be the MSR Ascent and the MSR ... which we have received last year from MSR. We have previously done some snowshoeing in the Austrian Alps and were quite happy with them. We also received snowshoe poles from MSR - the MSR Deploy T3 which we will take on our trip as well.
@@ -32,7 +32,7 @@ As a sleeping pad we will use the Therm-a-Rest XTherm which we received from The
 I have ordered 3 pairs of gloves from Hestra which I plan to wear on this trip. The base layer will be a simple Merino glove. To add more warmth I will wear the Hestra Kebnekaise Wool Mitt on top of it. To protect my woolen gloves from getting wet and to keep the gloves warm I will add the Hestra Pullover Mitt - a simple shell glove with no thermal features - on top of it.
 
 ## Sleeping bags
-We will take the Western Mountaineering Versalite Sleeping bag with us as well as another sleeping bag to add additional warmth in case we would feel cold in the Versalite during the night.
+We will take the Western Mountaineering VersaLite Sleeping bag with us as well as another sleeping bag to add additional warmth in case we would feel cold in the VersaLite during the night.
 quite well under windy conditions.
 
 ## Backpacks
