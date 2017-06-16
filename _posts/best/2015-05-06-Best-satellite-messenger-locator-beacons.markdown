@@ -23,24 +23,6 @@ DeLorme is owned since 2016 by Garmin and the unit has been replaced with the Ga
 
 <!--more-->  
 
-With a Satellite Messenger you can also inform your family and friends about your current location and that everything is fine with you so they don’t have to worry.  
-
-Here an example: I have been once to the [Sarek National park](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) in Sweden where I didn’t have phone reception and on this trip I decided that we will definitely take a satellite messenger with me if I would ever go there again in the future.   
-
-It can take up to 2-3 days to get out of the National Park and in case of an emergency it might be quite hard to find help as you may only see 2 other hikers a day if at all.  
-
-There are 3 brands which I have added to this list namely DeLorme, SPOT and ACR. Currently, I am testing the InReach Explorer which works so far quite well.  
-
-Fortunately, I was not in need to make an emergency call yet. While it’s possible to send text messages with the devices from DeLorme and SPOT you may use ACR only to send a rescue signal (also called Personal Locator Beacon).  
-
-The main advantage of the ACR is that you don’t have to pay a subscription fee to use the GPS network.  
-
-If messaging is not important for you, then you should go for the ACR ResQlink+ 406. The ACR device is also quite interesting for paddlers since it is able to float.  
-
-Alternatively, you will see from the specifications below that the DeLorme devices have slightly more weight but come with more functionalities than the SPOT devices.  
-
-<hr>
-
 ## Best Satellite GPS Messengers for 2017
 
 <div class="table-responsive">  
@@ -134,6 +116,20 @@ Alternatively, you will see from the specifications below that the DeLorme devic
 
 ## Conclusion
 
-My personal preference goes towards the <a href="http://amzn.to/2jM4Pet" target="_blank" rel="nofollow">Garmin InReach Explorer+</a> as it has also messenger function.   
+With a Satellite Messenger you can also inform your family and friends about your current location and that everything is fine with you so they don’t have to worry.
+
+Here an example: I have been once to the Sarek National park in Sweden where I didn’t have phone reception and on this trip I decided that we will definitely take a satellite messenger with me if I would ever go there again in the future.
+
+It can take up to 2-3 days to get out of the National Park and in case of an emergency it might be quite hard to find help as you may only see 2 other hikers a day if at all.
+
+Fortunately, I was not in need to make an emergency call yet. While it’s possible to send text messages with the devices from DeLorme and SPOT you may use ACR only to send a rescue signal (also called Personal Locator Beacon).
+
+The main advantage of the ACR is that you don’t have to pay a subscription fee to use the GPS network.
+
+If messaging is not important for you, then you should go for the ACR ResQlink+ 406. The ACR device is also quite interesting for paddlers since it is able to float.
+
+Alternatively, you will see from the specifications below that the DeLorme devices have slightly more weight but come with more functionalities than the SPOT devices.
+
+My personal preference goes towards the <a href="http://amzn.to/2jM4Pet" target="_blank" rel="nofollow">Garmin InReach Explorer+</a> as it has also messenger function.
 
 If I would not need the messenger and tracking function then I would probably get the <a href="http://amzn.to/2e39b0g" target="_blank" rel="nofollow">ACR ResQlink+ 406</a>.
