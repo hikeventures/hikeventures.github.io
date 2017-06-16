@@ -53,7 +53,7 @@ Further, you can also use poles for nordic walking.
 </table>  
 </div>  
 
-<!—more—>
+<!--more-->
 
 ## Black Diamond Distance Carbon FLZ
 
@@ -79,7 +79,7 @@ The Black Diamond Distance Carbon Z is made of carbon and suitable for fast-pack
 
 ## Black Diamond Expedition 3
 
-<a rel=“nofollow” target="_blank"  href="https://www.amazon.com/gp/product/B01L2A7AU4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01L2A7AU4&linkCode=as2&tag=hikeve-20&linkId=d7389d39b896dc34d589ad8cf82d96b5"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01L2A7AU4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01L2A7AU4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01L2A7AU4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01L2A7AU4&linkCode=as2&tag=hikeve-20&linkId=d7389d39b896dc34d589ad8cf82d96b5"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01L2A7AU4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01L2A7AU4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
 **weight**: 520 grams  
 
@@ -91,7 +91,7 @@ The Black Diamond Expedition 3 poles are made of Aluminium and can also be used 
 
 ## Leki Micro Ti
 
-<a rel=“nofollow” target="_blank"  href="https://www.amazon.com/gp/product/B00MP2290U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MP2290U&linkCode=as2&tag=hikeve-20&linkId=28fabf765fdb29496c4b0dad85d6d42d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00MP2290U&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00MP2290U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00MP2290U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MP2290U&linkCode=as2&tag=hikeve-20&linkId=28fabf765fdb29496c4b0dad85d6d42d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00MP2290U&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00MP2290U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
 **weight**: 432 grams  
 
@@ -103,7 +103,7 @@ The Leki Micro series are foldable hiking poles from Leki and are made of Alumin
 
 ## MSR Deploy T-3
 
-<a rel=“nofollow” target="_blank"  href="https://www.amazon.com/gp/product/B00FQU5KTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FQU5KTK&linkCode=as2&tag=hikeve-20&linkId=92dac3153a6564a082dbc5530ed5efa2"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00FQU5KTK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00FQU5KTK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00FQU5KTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FQU5KTK&linkCode=as2&tag=hikeve-20&linkId=92dac3153a6564a082dbc5530ed5efa2"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00FQU5KTK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00FQU5KTK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
 **weight**: 635 grams  
 
