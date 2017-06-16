@@ -52,6 +52,6 @@ What’s more, I can also use my MacBook without taking it out from the case. Le
 
 Also the additional pocket for the iPad protects it’s screen if you are planning to take it along with your MacBook Pro. There are also interior dividers for accessories.  
 
-<a href="[https://www.flickr.com/photos/90204224@N07/17166514972](https://www.flickr.com/photos/90204224@N07/17166514972)"><img src="[https://farm8.staticflickr.com/7644/17166514972_62ae02076a_b.jpg](https://farm8.staticflickr.com/7644/17166514972_62ae02076a_b.jpg)" width="100%" alt="Thule Gauntlet - Best Macbook Pro Case for Outdoors"></a>  
+<a href="[https://www.flickr.com/photos/90204224@N07/17166514972](https://www.flickr.com/photos/90204224@N07/17166514972)"><img src="[https://farm8.staticflickr.com/7644/17166514972_62ae02076a_b.jpg](https://farm8.staticflickr.com/7644/17166514972_62ae02076a_b.jpg)" width="100%" alt="Thule Gauntlet - Best MacBook Pro Case for Outdoors"></a>  
 
 Personally, I think that a case without room for accessories doesn’t make much sense especially if you travel for a few days as you won’t have space for your charger.
