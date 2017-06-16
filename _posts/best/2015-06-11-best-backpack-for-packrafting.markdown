@@ -17,7 +17,9 @@ Having used the [HMG Porter 4400](http://www.hikeventures.com/gear-review-hmg-po
 
 Gernerally speaking I was not able to find any alternative to the HMG Porter 4400 which is that light and feels like a proper backpack when I bought it.  
 
-<a data-flickr-embed="true"  href="[https://www.flickr.com/photos/90204224@N07/14464273681/in/album-72157646473379013](https://www.flickr.com/photos/90204224@N07/14464273681/in/album-72157646473379013/)/" title="Best Backpack for Packrafting"><img src="[https://c2.staticflickr.com/4/3848/14464273681_0b2ab88e71_b.jpg](https://c2.staticflickr.com/4/3848/14464273681_0b2ab88e71_b.jpg)" width="1024" height="683" alt="Best Backpack for Packrafting"></a><script async src="//[embedr.flickr.com/assets/client-code.js](http://embedr.flickr.com/assets/client-code.js)" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/14464273681/in/album-72157646473379013/" title="Best Backpack for Packrafting"><img src="https://c2.staticflickr.com/4/3848/14464273681_0b2ab88e71_b.jpg" width="1024" height="683" alt="Best Backpack for Packrafting"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<!--more-->
 
 ## The best backpacks for pack rafting of 2017
 
@@ -30,25 +32,23 @@ Gernerally speaking I was not able to find any alternative to the HMG Porter 440
         </thead>  
         <tbody>  
             <tr>    
-          <td><a href="[http://www.hikeventures.com/deals/#ULA+Epic](http://www.hikeventures.com/deals/#ULA+Epic)" target="_blank">ULA Epic</a></td><td>922g</td>    
+          <td><a href="http://www.hikeventures.com/deals/#ULA+Epic" target="_blank">ULA Epic</a></td><td>922g</td>    
         </tr>    
         <tr>    
-          <td><a href="[http://www.hikeventures.com/deals/#windrider+4400](http://www.hikeventures.com/deals/#windrider+4400)" target="_blank">Hyperlite Mountain Gear Windrider 4400</a></td><td>922g</td>    
+          <td><a href="http://www.hikeventures.com/deals/#windrider+4400" target="_blank">Hyperlite Mountain Gear Windrider 4400</a></td><td>922g</td>    
         </tr>    
         <tr>    
-          <td><a href="[http://www.hikeventures.com/deals/#porter+4400](http://www.hikeventures.com/deals/#porter+4400)" target="_blank">Hyperlite Mountain Gear Porter 4400</a></td><td>1065g</td>    
+          <td><a href="http://www.hikeventures.com/deals/#porter+4400" target="_blank">Hyperlite Mountain Gear Porter 4400</a></td><td>1065g</td>    
         </tr>    
         <tr>    
-          <td><a href="[http://amzn.to/2sruFN6](http://amzn.to/2sruFN6)" target="_blank" rel="nofollow">NRS Paragon Pack</a></td><td>1179g</td>    
+          <td><a href="http://amzn.to/2sruFN6" target="_blank" rel="nofollow">NRS Paragon Pack</a></td><td>1179g</td>    
         </tr>    
         <tr>    
-          <td><a href="[http://amzn.to/2r8hMU5](http://amzn.to/2r8hMU5)" target="_blank" rel="nofollow">Sea to Summit Hydraulic Dry Pack</a></td><td>1319g</td>    
+          <td><a href="http://amzn.to/2r8hMU5" target="_blank" rel="nofollow">Sea to Summit Hydraulic Dry Pack</a></td><td>1319g</td>    
         </tr>    
 </tbody>  
 </table>  
-</div>  
-
-<!—more—>
+</div>
 
 ## Features of a good packrafting backpack
 
@@ -97,7 +97,7 @@ This is probably the best lightweight packrafting backpack you can buy at the mo
 
 The NRS Paragon Pack is quite versatile like the ULA Epic and you can use smaller and bigger dry bags with it as well as you can read in the [Q&A section](http://www.nrs.com/product/2933/nrs-paragon-pack2). The straps on the back of the NRS Paragon Pack also look like you can attach your paddles to the backpack.  
 
-<a href="[http://amzn.to/2sruFN6](http://amzn.to/2sruFN6)" target="_blank" rel="nofollow"><img src="[http://www.hikeventures.com/buy.gif](http://www.hikeventures.com/buy.gif)"></a>  
+<a href="http://amzn.to/2sruFN6" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -111,7 +111,7 @@ The Sea to Summit Hydraulic Dry Packs looked to me as an interesting alternative
 
 The backpack does not have a proper back panel which might be an issue when carrying your backpack over longer distances.  
 
-<a href="[http://amzn.to/2r8hMU5](http://amzn.to/2r8hMU5)" target="_blank" rel="nofollow"><img src="[http://www.hikeventures.com/buy.gif](http://www.hikeventures.com/buy.gif)"></a>  
+<a href="http://amzn.to/2r8hMU5" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
