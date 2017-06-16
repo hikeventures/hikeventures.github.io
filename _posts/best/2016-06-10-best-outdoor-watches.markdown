@@ -10,6 +10,7 @@ tags:
   - best
   - watches
 ---
+
 In this blog post I will present you my selection of the best outdoor watches for hiking and backpacking for 2017 which I would consider to take with me on my next outdoor adventure. They might be also useful if you are into running.  
 
 At the moment I am wearing a Suunto Traverse which has a monochrome display and I am quite satisfied with it.  
@@ -20,7 +21,9 @@ Probably one disadvantage of watches having a color display and a GPS is their s
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15913318153/in/photolist-Go1JSL-vM7J91-qHtRc2-qfcV5n-rc1Fx6-pUdwjt-pR5WvQ-poxm2c-J2qeyW-uSq1oC-vNPEKA-vwWEhv-vPqH22-sTzRxs-t4miJj-s9EBGJ-pC4agQ-ptyErN-pcgLEg-oUMs5L" title="Best outdoor GPS watches 2017"><img src="https://c2.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg" width="2048" height="1360" alt="Best outdoor GPS watches 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
-<h2>The best outdoor gps watches for 2017</h2>  
+<!--more-->
+
+## The best outdoor gps watches for 2017
 
 <div class="table-responsive">  
 <table class="table table-hover table-bordered list_items">  
@@ -60,12 +63,8 @@ Probably one disadvantage of watches having a color display and a GPS is their s
 <td>98g  
 </td>  
 </tr>  
-
 </table>  
-</div>  
-
-
-<!--more-->
+</div>
 
 ## Apple Watch Series 2 Sport 42mm
 
@@ -83,7 +82,7 @@ Probably one disadvantage of watches having a color display and a GPS is their s
 **GPS**: yes  
 **Wireless charging**: yes  
 
-The Apple watch SERIES 2 42mm is for those folks who like to have their iPhone with them. The new Apple Watch Series 2 also features a built-in GPS and is an excellent choice if you exercise 1-2 hours a day.   
+The Apple watch SERIES 2 42 mm is for those folks who like to have their iPhone with them. The new Apple Watch Series 2 also features a built-in GPS and is an excellent choice if you exercise 1-2 hours a day.   
 
 However, if you are more into multi-sport or longer cycling or hiking trips I would rather buy the new Suunto Spartan which can be used much longer in training mode than the Apple Watch Series 2.   
 
@@ -94,29 +93,35 @@ Both watches - the Suunto Spartan and the Apple Watch Series 2 are suitable for 
 
 <hr>
 
-## Motorola Moto 360 Sport
+## Casio WSD-F10
 
-<a href="https://www.amazon.com/gp/product/B016CKHAZO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B016CKHAZO&linkCode=as2&tag=hikeve-20&linkId=4c6098a87f5b1865e89b5e207acc1007" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B016CKHAZO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B016CKHAZO" width="1" height="1" border="0" alt="Motorola Moto 360 Sport" style="border:none !important; margin:0px !important;" />  
+<a href="https://www.amazon.com/gp/product/B01CY1QXR6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CY1QXR6&linkCode=as2&tag=hikeve-20&linkId=e259bc0b895c4a2b5cc6dec4c027ab7f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01CY1QXR6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01CY1QXR6" width="1" height="1" border="0" alt="Casio WSD-F10" style="border:none !important; margin:0px !important;" />  
 
-**Weight**: 54 grams  
-**Battery Life**: 1 day  
+**Weight**: 93 grams  
+**Battery Life**: 1 day (only color LCD), 3.5 days (only monochrome LCD)  
 **Operating System**: Android Wear  
-**Water Resistance**: IP67 - not waterproof  
-**Display**: 360x325  
-Touchscreen: no  
+**Water Resistance**: 50 meters  
+**Display**: 320x300 pixels  
+**Touchscreen**: yes  
 **Wi-Fi**: yes  
-**Bluetooth**: 4.0  
-**Heart Rate Monitor**: Optical heart rate monitor (PPG)  
-**GPS**: yes  
-**Wireless charging**: yes  
+**Bluetooth**: 4.1  
+**Heart Rate Monitor**:  
+**GPS**: via Smartphone  
+**Wireless charging**: no  
 
-Another interesting Outdoor watch is the Motorola Moto 360 Sport which is targeted towards Android users as it has the AndroidWear operating system on board.   
+The Casio WSD-F10 is the latest smart watch from Casio. It’s one of the few watches which have AndroidWear installed as an operating system.   
 
-It also features an optical hear rate monitor directly on the watch which can only be found on the Apple watch so far.   
+If I would have an Android phone then this watch could be an interesting choice if would not need a built in GPS in my watch.  
 
-No need to wear a heartrate monitor around your chest. One highlight of the Moto 360 Sport is probably it's high resolution / display.  
+Apple users should probably look at an alternative watch as the the Casio WSD-F10 can only be connected to Android phones.  
 
-<a href="http://amzn.to/1RWNLvb" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
+In general, I found that the Casio WSD-F10 looks quite nice. I like the displays and AndroidWear as an OS should probably offer nice upgrade functionalities in the future.   
+
+The only disadvantage I see with this watch is that I basically need to carry my smartphone with me as the watch does not have a built-in GPS.   
+
+For me as a runner and hiker I would prefer a watch with a dedicated GPS module on board.  
+
+<a href="http://amzn.to/1YdNH1H" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -144,33 +149,29 @@ However, the map function on the Fenix 5X gives the Garmin an edge.
 
 <hr>
 
-## Casio WSD-F10
+## Motorola Moto 360 Sport
 
-<a href="https://www.amazon.com/gp/product/B01CY1QXR6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CY1QXR6&linkCode=as2&tag=hikeve-20&linkId=e259bc0b895c4a2b5cc6dec4c027ab7f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01CY1QXR6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01CY1QXR6" width="1" height="1" border="0" alt="Casio WSD-F10" style="border:none !important; margin:0px !important;" />  
+<a href="https://www.amazon.com/gp/product/B016CKHAZO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B016CKHAZO&linkCode=as2&tag=hikeve-20&linkId=4c6098a87f5b1865e89b5e207acc1007" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B016CKHAZO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B016CKHAZO" width="1" height="1" border="0" alt="Motorola Moto 360 Sport" style="border:none !important; margin:0px !important;" />  
 
-**Weight**: 93 grams  
-**Battery Life**: 1 day (only color LCD), 3.5 days (only monochrome LCD)  
+**Weight**: 54 grams  
+**Battery Life**: 1 day  
 **Operating System**: Android Wear  
-**Water Resistance**: 50 meters  
-**Display**: 320x300 pixels  
-**Touchscreen**: yes  
+**Water Resistance**: IP67 - not waterproof  
+**Display**: 360x325  
+Touchscreen: no  
 **Wi-Fi**: yes  
-**Bluetooth**: 4.1  
-**Heart Rate Monitor**:  
-**GPS**: via Smartphone  
-**Wireless charging**: no  
+**Bluetooth**: 4.0  
+**Heart Rate Monitor**: Optical heart rate monitor (PPG)  
+**GPS**: yes  
+**Wireless charging**: yes  
 
-The Casio WSD-F10 is the latest smart watch from Casio. It's one of the few watches which have AndroidWear installed as an operating system.   
+Another interesting Outdoor watch is the Motorola Moto 360 Sport which is targeted towards Android users as it has the AndroidWear operating system on board.   
 
-If I would have an Android phone then this watch could be an interesting choice if would not need a built in GPS in my watch.  
+It also features an optical hear rate monitor directly on the watch which can only be found on the Apple watch so far.   
 
-Apple users should probably look at an alternative watch as the the Casio WSD-F10 can only be connected to Android phones.  
+No need to wear a heart rate monitor around your chest. One highlight of the Moto 360 Sport is probably it’s high resolution / display.  
 
-In general, I found that the Casio WSD-F10 looks quite nice. I like the displays and AndroidWear as an OS should probably offer nice upgrade functionalities in the future.   
-
-The only disadvantage I see with this watch is that I basically need to carry my smartphone with me as the watch does not have a built-in GPS. For me as a runner and hiker I would prefer a watch with a dedicated GPS module on board.  
-
-<a href="http://amzn.to/1YdNH1H" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
+<a href="http://amzn.to/1RWNLvb" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -192,7 +193,7 @@ B yes
 
 The Suunto Spartan Ultra is the latest smartwatch addition in the Suunto range.   
 
-Unfortunately, there are no specifications about the Suunto Spartan available yet beside that it's going to be the first Suunto watch which features a colour display.   
+Unfortunately, there are no specifications about the Suunto Spartan available yet beside that it’s going to be the first Suunto watch which features a color display.   
 
 As Suunto watches can be connected to Moveslink - the Suunto Online Sport Community - it is possible to use the Suunto Spartan either with your Android phone or with your iPhone.  
 
