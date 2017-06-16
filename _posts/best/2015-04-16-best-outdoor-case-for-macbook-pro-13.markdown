@@ -34,7 +34,7 @@ The Thule Gauntlet 13" MacBook Attaché is not completely waterproof but has a w
 
 This case might be also quite handy if you drive to your cottage on the countryside or if you plan to do some outdoor photography sessions where you need your MacBook to edit or manage your pictures and videos on the spot or just want to save your pictures on your hard drive.  
 
-Alternatively, you might also consider taking a <a href="http://amzn.to/1J7wqxd" rel=“nofollow”>WD My Passport Wireless</a> if you only plan to store pictures.  
+Alternatively, you might also consider taking a <a href="http://amzn.to/1J7wqxd" rel="nofollow">WD My Passport Wireless</a> if you only plan to store pictures.  
 
 <a href="https://www.flickr.com/photos/90204224@N07/17142212046"><img src="https://farm8.staticflickr.com/7629/17142212046_3ac6af68aa_b.jpg" width="100%" alt="Thule Gauntlet - Best MacBook Pro Case for Outdoors"></a>  
 
@@ -52,6 +52,6 @@ What’s more, I can also use my MacBook without taking it out from the case. Le
 
 Also the additional pocket for the iPad protects it’s screen if you are planning to take it along with your MacBook Pro. There are also interior dividers for accessories.  
 
-<a href="https://www.flickr.com/photos/90204224@N07/17166514972"><img src="https://farm8.staticflickr.com/7644/17166514972_62ae02076a_b.jpg" width="100%" alt="Thule Gauntlet - Best Macbook Pro Case for Outdoors"></a>  
+<a href="https://www.flickr.com/photos/90204224@N07/17166514972"><img src="https://farm8.staticflickr.com/7644/17166514972_62ae02076a_b.jpg" width="100%" alt="Thule Gauntlet - Best MacBook Pro Case for Outdoors"></a>  
 
 Personally, I think that a case without room for accessories doesn’t make much sense especially if you travel for a few days as you won’t have space for your charger.
