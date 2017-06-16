@@ -43,6 +43,5 @@ One loop was missing on the Laufbursche Huckepack when I received it. However, g
 
 <a href="https://www.flickr.com/photos/90204224@N07/8620281650" title="Netherlands Zuid-Kennemerland"><img src="https://farm9.staticflickr.com/8122/8620281650_b03e837c98_b.jpg" width="1024" height="680" alt="Netherlands Zuid-Kennemerland Field Test - Laufbursche Huckepack hp450 Review"></a>Patrick hiking in the <a href="http://www.hikeventures.com/hiking-in-zuid-kenemerland-middenduin-netherlands/">Netherlands</a>.
 
-
 ## Alternatives
 If you need a bigger backpack then you should have a look at the [HMG Porter 4400](http://www.hikeventures.com/gear-review-hmg-porter-4400-black/) which I currently use for my packrafting trips.

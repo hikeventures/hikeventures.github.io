@@ -19,9 +19,5 @@ The Arcteryx Kappa pant is 600 grams light, moisture-resistant and windproof. Th
 
 <img src="http://farm3.staticflickr.com/2882/12133360105_becc09d986_c.jpg" width="534" height="800" alt="Arcteryx Kappa Pant Review">
 
----
-
 ## Recommendation
 The Arcteryx Kappa Pant should also work great for skiing or snowboarding. Concerning the size, I have ordered M and I am 180 cm tall. I can recommend the Arcteryx Kappa Pant as long as temperatures are below 0 °C.
-
-<a rel="nofollow" href="http://amzn.to/2iQSJ3c"><img src="http://www.hikeventures.com/buy.gif"></a>

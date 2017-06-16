@@ -42,10 +42,5 @@ YKK zippers.
 
 Size of the Squamish Hoody compared to the <a href="http://hikeventures.com/gear-review-hmg-porter-4400-black/" target="_self">HMG Porter 4400</a>.
 
----
-
 ## Recommendation
 I take a wind jacket on all my hikes. The Arc'teryx Squamish Hoody packs light, is small and feels good on the skin. You don't sweat as much as hiking with a [hard shell jacket](http://hikeventures.com/best-waterproof-rain-jackets/) if you want to protect yourself from cold winds. My recommendation is to take both, a wind jacket and a rain jacket to your hikes. Or if there are plenty of shelters available on the trail then you could even manage just with a wind jacket. I have used the Arc'teryx Squamish Hoody on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek National Park</a> in Sweden. This is definitely my favorite wind jacket. Worth to have in your backpack.
-
-
-<a href="http://amzn.to/2t9Fela" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>

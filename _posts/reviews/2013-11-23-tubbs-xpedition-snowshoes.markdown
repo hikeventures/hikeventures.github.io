@@ -41,8 +41,6 @@ The binding of the snowshoes are easy to use. Just slip in with your shoes and t
 
 <img src="http://farm4.staticflickr.com/3741/11158514646_62eebdfd73_c.jpg" width="1150" alt="Tubbs Xpedition snowshoes">
 
----
-
 ## Recommendation
 The Tubbs Xpedition snowshoes seems to be a solid product for backcountry usage. There might be also products from other brands to consider like the <a href="http://award.ispo.com/en/Winner-2014/Products/Outdoor/Snowshoes/MSR/" target="_blank">MSR Revo Explore snowshoe</a> which also won the ISPO Award 2014. Alternatively, if you are low on budget, you could also consider snowshoe models on the lower end of the price range and upgrade later on.
 

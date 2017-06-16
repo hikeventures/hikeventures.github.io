@@ -28,7 +28,5 @@ The mesh bag also comes with the poles. In general, I would say those poles look
 ## Recommendation
 I have tested the Black Diamond Ultra Distance Z-Pole on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden. The lack Diamond Ultra Distance Z-Poles are light and easy to assemble. They were very supportive especially if you walk up or down a hill with heavy load on your back.
 
----
-
 ## Alternatives
 Have a look at my list of [my favorite trekking poles](http://www.hikeventures.com/best-trekking-and-snowshoeing-poles/) which I would currently buy.

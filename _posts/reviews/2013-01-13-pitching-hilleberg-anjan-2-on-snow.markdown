@@ -19,9 +19,5 @@ The Hilleberg Anjan 2 is actually a lightweight (1.8 kg packed) 3 season tent. H
 
 Have a look <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/" target="_self">here</a> if you want to see how the Anjan 2 looks during the summer months.
 
-<a href="http://amzn.to/2evrnml" rel="nofollow" target="_blank"><img src="http://www.hikeventures.com/buy.gif"></a>
-
 ## Recommendation
 If you are looking for a 4-season tent then the <a href="http://amzn.to/2eloCEw" rel="nofollow" target="_blank">Hilleberg Nallo</a>is probably the better choice.
-
-<a href="http://amzn.to/2rnzkvu" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>

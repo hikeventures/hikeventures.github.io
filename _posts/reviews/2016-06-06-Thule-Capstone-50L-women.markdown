@@ -60,5 +60,3 @@ Eventually my relationship with Thuvi grew on its honeymoon in Japan and on a nu
 Well, the tickets have been bought and the plans have been made (this year we are going to hiking and packrafting to Hokkaido as well). All is left is to pack the bags, which should be much easier this year. At least in theory …
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26883581674/in/dateposted-public/" title="Thule Capstone"><img src="https://c3.staticflickr.com/8/7489/26883581674_635501fe9b_b.jpg" width="100%" alt="Thule Capstone 50L Women hiking backpack in Japan"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Thule-Women-s-Capstone-50L-Hiking-Pack_10281072_10208_10000001_-1_" rel="nofollow"><button type="button" class="btn btn-danger">See the Thule Capstone 50L</button></a>

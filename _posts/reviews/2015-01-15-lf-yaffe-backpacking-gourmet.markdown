@@ -20,5 +20,3 @@ The book starts with tools needed to dehydrate and pack food at home and on how 
 The recipes presented in this book range from breakfast meals, breads, drinks, crackers, toasts, spreads, jerky, dried fruit, bars, cookies, soups, stews and pasta.
 
 At the end of the book is also a list of suggested reading from the author.
-
-If you don't have a dehydrator at home then you can get a basic dehydrator at <a href="http://amzn.to/14ZAS3q" rel="nofollow">Amazon</a>.

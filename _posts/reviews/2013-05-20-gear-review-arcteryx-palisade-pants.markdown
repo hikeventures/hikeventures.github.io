@@ -21,12 +21,7 @@ The Arcteryx Palisade pants weights 275 grams, is quick drying and due to its st
 <img src="http://farm4.staticflickr.com/3679/8757653835_3d3ffb527e_c.jpg" width="1000" alt="Arcteryx Palisade Pants Ultralight hiking and backpacking pants">
 I really like the webbing belt which comes with the pants. Super-lightweight compared to a normal belt.
 
----
-
 ## Recommendation
 I have tested the Arcteryx Palisade Pants on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden. These pants were really comfortable to wear during the whole trip and they dried quickly (which is quite important if the weather turns frequently bad in the mountains). I also like to wear the Arcteryx Palisade Pants on my Packrafting trips (because of their ability to dry fast). For colder months I would however wear other hiking pants (for example the <a href="http://amzn.to/1BL1ph3">Fjällräven Abisko pants</a>).
 
 <a href="https://www.flickr.com/photos/90204224@N07/14180924087"><img src="https://farm3.staticflickr.com/2934/14180924087_43b2a78a7c_b.jpg" width="1024" height="683" alt="Arcteryx Palisade Hiking Pants Packrafting Alpacka Raft Werner Paddle Shuna Finland"></a>
-
-
-<a href="http://www.backcountry.com/arcteryx-palisade-pant-mens"><img src="http://www.hikeventures.com/buy.gif"></a>

@@ -45,11 +45,7 @@ The angle is adjustable as you can see on the left hand side of the paddle.
 
 I really like the design of these paddles. They just look great and they are super light. If you have the money to buy a <a hre="http://hikeventures.com/gear-review-unpacking-alpacka-packraft/" target="_self">packraft</a> then you should definitely not save on your paddles.
 
----
-
 ## Recommendation
 We have tested the Werner Shuna paddles on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden. They are light, performed very well and they look nice too. Highly recommended.
 
 <strong>Update: </strong>I have used the Werner Shuna paddles now for over 1.5 years and I am still happy with them. They also helped me to get out when I got stuck between some rocks in the rapids and they didn't break. They just have a few scratches on the surface so far. I would say that they are worth the money I have spent!
-
-<a href="http://amzn.to/2rDff3S" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>

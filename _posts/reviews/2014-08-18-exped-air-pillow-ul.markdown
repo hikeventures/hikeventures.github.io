@@ -27,9 +27,5 @@ The valve to inflate and deflate the Exped Air Pillow UL M
 
 Quality and durability of the Air Pillow is also quite good and I am so far not able to spot any signs of wear on the Air Pillow which comes with a warranty of 2 years.
 
----
-
 ## Recommendation
 I like the Exped Air Pillow UL. The pillow feels comfortable, packs small and seems to be durable. I would most probably buy it again.
-
-<a href="http://www.backcountry.com/exped-air-pillow" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>

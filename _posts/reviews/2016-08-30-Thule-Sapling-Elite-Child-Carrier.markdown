@@ -50,7 +50,3 @@ Thule is also selling the [Thule Sapling Rain Cover](http://www.ems.com/thule-sa
 
 #### Conclusion
 The Thule Sapling Elite Child carrier was comfortable to carry thanks to the padded shoulder straps, waist belt and the fully adjustable suspension system. I also stored a raincover in the bag of the backpack which I could easily access in case it would start raining. My child also asked me a couple of times if I could carry her around in the backpack so I assume that she liked the child carrier backpack as well. More testing is needed to test the durability of the backpack but my first impressions are quite positive. The only negative point I could think of is that the backpack could fall forward with the child if it stands with the stand on the ground but this is probably also the case with other child carrier backpacks.
-
-<a href="http://www.backcountry.com/thule-chariot-sapling-elite-child-carrier" rel="nofollow"><button type="button" class="btn btn-danger">See the Thule Sapling Child Carrier</button></a>
-
-<a href="http://amzn.to/2sGMeZH" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
