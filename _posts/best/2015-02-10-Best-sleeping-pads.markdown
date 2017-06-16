@@ -10,6 +10,7 @@ tags:
   - best
 layout: post
 ---
+
 In this blog post you can find the best lightweight sleeping pads which we would consider to buy in 2017.  
 
 I have indicated the R-value of each sleeping pads so you can choose the one which would be most suitable for your next outdoor adventure.  
@@ -20,7 +21,9 @@ From all sleeping pads I would probably recommend you the <a href="http://amzn.t
 
 I have received the XTherm from Therm-a-Rest for testing and it’s now my go-to sleeping pad throughout the year.  
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28431572180/in/photolist-KjpeSm-KjpegS-KAbyAW-Kjpe1b-KAbydb-Kjpddj-KAE83V-HfneYa-H4GcRf-Kjpf1N-KKxrhz-HnoEU1-GcfKhk-Dv2uSF-E1hZc9-EjbrxT-EgXSbQ-txM5FU-ty5vNM-q8Un36" title="Best Sleeping Pads in 2017"><img src="https://c5.staticflickr.com/9/8185/28431572180_4c18fea5a0_b.jpg" width="1024" height="683" alt="Best Sleeping Pads in 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28431572180/in/photolist-KjpeSm-KjpegS-KAbyAW-Kjpe1b-KAbydb-Kjpddj-KAE83V-HfneYa-H4GcRf-Kjpf1N-KKxrhz-HnoEU1-GcfKhk-Dv2uSF-E1hZc9-EjbrxT-EgXSbQ-txM5FU-ty5vNM-q8Un36" title="Best Sleeping Pads in 2017"><img src="https://c5.staticflickr.com/9/8185/28431572180_4c18fea5a0_b.jpg" width="1024" height="683" alt="Best Sleeping Pads in 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<!--more-->
 
 ## The best sleeping pads of 2017
 
@@ -73,9 +76,7 @@ I have received the XTherm from Therm-a-Rest for testing and it’s now my go-to
         </tr>  
 </tbody>  
 </table>  
-</div>  
-
-<!—more—>
+</div>
 
 ## Big Agnes Air Core Ultra
 
