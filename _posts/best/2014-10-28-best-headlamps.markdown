@@ -21,6 +21,8 @@ Personally, I like the Petzl NAO+ most since it has plenty of features and also 
 
 However, if you are looking for a smaller headlamp which is also waterproof then I would rather pick the <a href="http://amzn.to/2fkaiqv" rel="nofollow">Black Diamond Spot</a> which features red light and 200 Lumen - sufficient for hiking even in the Alps.  
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15581097668/in/photolist-pJRcuY-nbZrcA-nbXFbR-n9UVEg-hXNmLH-hXMK7h-hXMq24-hXNm3Z-dXbkpf-dL8yRc-dNuTzR-dNAuXb" title="Best headlamps 2017"><img src="https://c1.staticflickr.com/9/8270/15581097668_01223b886d_k.jpg" width="2048" height="1367" alt="Best headlamps 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 <!--more-->
 
 ## The best headlamps of 2017
