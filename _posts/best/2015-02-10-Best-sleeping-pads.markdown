@@ -104,7 +104,7 @@ The Big Agnes Insulated Air Core Ultra is a super light 3-season sleeping pad fo
 
 It has a 25% increased durability and tear strength and an antimicrobial treatment.  
 
-<a href="http://amzn.to/2r82nmW" target="_blank" "="nofollow"><" src="http://www.hikeventures.com/buy.gif"></a>  
+<a href="http://amzn.to/2r82nmW" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
