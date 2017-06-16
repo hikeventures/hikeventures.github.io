@@ -55,11 +55,6 @@ For us, backpacking is a combination of relaxation, sports and having fun. Carry
 
 To sum up, you have to define yourself if it's worth carrying additional weight. After some hikes you will definitely find out what belongs into your backpack and what stays at home.
 
----
-
-{% include disclaimer.html %}
-
----
 
 [1]:	http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Swedish Mountains"
 [2]:	http://www.hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/ "Hilleberg Anjan"

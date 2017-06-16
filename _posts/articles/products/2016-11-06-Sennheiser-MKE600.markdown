@@ -65,5 +65,3 @@ The Rycote InVision Video Mic Lyre Shockmount Suspension reduces noise when oper
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00WIHXBK4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00WIHXBK4&linkCode=as2&tag=hikeve-20&linkId=c2396885fe754df985f86cf6f4855629" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00WIHXBK4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00WIHXBK4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The Zeiss Batis 25mm f/2 was mounted on my Sony A7. The Zeiss Batis 25mm is my favorite lens as it is quite versatile as a wide angle lens. It's always on my camera. It's also a bit expensive but I really like the results which I get with this lens. It's also great for astrophotography since it shows you the focal distance in an oled screen.
-
-<a href="http://amzn.to/2eB0laV" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>

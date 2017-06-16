@@ -13,11 +13,7 @@ Today we had a short hike to the top of Komsa - which is the best lookout point 
 
 There was no official path up to the Komsa, or at least we were not able to see it since everything was covered with snow. We did not carry much with us. Just a backpack, our cameras, an additional layer of clothes and a Thermos bottle with tea.
 
----
-
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32116571882/in/dateposted-public/" title="Climbing Komsa Alta Northern Norway"><img src="https://c1.staticflickr.com/1/584/32116571882_4eb80a5201_k.jpg" width="2048" height="1152" alt="Climbing Komsa Alta Northern Norway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
----
 
 <!--more-->
 

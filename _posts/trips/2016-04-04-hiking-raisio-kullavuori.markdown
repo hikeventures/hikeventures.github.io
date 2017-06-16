@@ -17,7 +17,6 @@ The Kullavuori watch tower is approximately 71 m above sea level which is quite 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25929918320/in/datetaken-public/" title="Kullavuori Raisio Finland"><img src="https://farm2.staticflickr.com/1443/25929918320_ca0e210d72_b.jpg" width="100%" alt="Hiking Kullavuori Raisio Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <!--more-->
 
-{% include banner_ad.html %}
 Even so the temperatures reached about 9C on that day there was still ice on the trail.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26202782375/in/datetaken-public/" title="Kullavuori Raisio Finland"><img src="https://farm2.staticflickr.com/1540/26202782375_742f0a417f_b.jpg" width="100%" alt="Hiking Kullavuori Raisio Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

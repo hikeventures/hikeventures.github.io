@@ -32,9 +32,3 @@ Back on the shore with the packraft.
 Time to drive back home.
 <a href="https://www.flickr.com/photos/90204224@N07/16843611062" ><img src="https://farm9.staticflickr.com/8718/16843611062_e68e2f46d6_o.jpg" width="1024" height="544" alt="Winter Packrafting in Finland with Alpacka Raft Yukon Yakon on top of a Peugeot 207"></a>
 Interested in more packrafting? Read about our adventures in <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/">Sweden</a>, <a href="http://hikeventures.com/packrafting-on-the-grensmaas/">the Netherlands</a> or in <a href="http://hikeventures.com/first-finnish-packrafting-gathering/">Finland</a>.
-
----
-
-{% include disclaimer.html %}
-
----

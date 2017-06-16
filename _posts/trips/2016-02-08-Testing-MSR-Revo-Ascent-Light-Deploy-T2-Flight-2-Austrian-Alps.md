@@ -18,8 +18,6 @@ After the ISPO in Munich we went to Gaschurn in Austria to test our MSR Lightnin
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 Patrick, who is originally from the Bodensee and studied Tourism in Vorarlberg proposed our destination. Another, maybe more suitable place for testing snowshoes would have been the Bartholomäberg in the same valley. However, since we found an affordable accommodation nearby in Gaschurn we decided to take the lift up to Nova Stoba (2015 meter above sea level) and to explore the area.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24252316833/in/dateposted-public/" title="Snowshoeing in Montafon, Vorarlberg in Austria"><img src="https://farm2.staticflickr.com/1719/24252316833_c8a1ea32ee_b.jpg" width="100%" alt="Snowshoeing in Montafon, Vorarlberg in Austria"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

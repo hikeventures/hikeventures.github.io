@@ -34,10 +34,5 @@ After evaluating the rapid we decide if we should packraft the rapid, carry our 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
 > Our packrafting trip in the Sarek National Park in Sweden. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
----
-
-{% include disclaimer.html %}
-
----
 
 [1]:	http://www.hikeventures.com/Best-places-to-visit-in-scandinavia-hiking-backpacking-packrafting/ "5 best places to packraft in Scandinavia"

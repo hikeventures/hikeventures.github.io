@@ -15,8 +15,6 @@ Last year we spent four days trekking in the Northern Alps of Japan - one of the
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 ## An unusual take of an iconic view
 Do you recognise where we were? It is one of the three most iconic views in Japan.
 

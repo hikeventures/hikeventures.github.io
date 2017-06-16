@@ -17,8 +17,6 @@ The gear is packed. The packrafts are inflated. The sails are ready. And so we a
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 ## Nature Centre “Blue Mussel” – The Entrance to The Archipelago
 
 This gate is the entrance to the Archipelago Nature Centre “Blue Mussel”, which is truly an entrance to the Finish Archipelago and a good starting point of any trip.

@@ -17,8 +17,6 @@ The Scottish Highlands are a perfect destination for those who like hiking. In o
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 It's about 20km from Dalwhinnie to the shelter ( so called bothy) which is access point to the local hills. As we discovered later on Scottish walking that distance find a bit waste of time. What's wrong in riding long kilometers on a mountain bike?
 
 Once we have passed Ben Alder Lodge we were 2km from the shelter. That's where you turn into forest as the path along the lake is not public anymore.

@@ -30,9 +30,3 @@ Here you can see how the Anker Astro3E charges my <a href="http://hikeventures.c
 
 ## Recommendation
 I have tested the Anker Astro 3e battery on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden and we had enough juice to charge in addition my  <a href="http://hikeventures.com/gear-review-suunto-ambit-2-black-hr/" target="_self">Suunto Ambit 2</a> and Sigma DP1 for 5 days.
-
----
-
-{% include disclaimer.html %}
-
----

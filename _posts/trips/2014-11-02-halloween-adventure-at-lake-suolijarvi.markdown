@@ -17,8 +17,6 @@ This Halloween, we decided to go to Lake Suolijärvi nearby Hyvinkää in Finlan
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 ## 1. Kytäjärvi to Iso-Haiskari
 We started our trip from the car park next to lake Kytäjärvi, crossed it via the dam and followed the trail while passing by horse stables and farms. After a hike of 3 km we arrived in our first camp Iso-Haiskari.
 

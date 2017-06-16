@@ -17,8 +17,6 @@ Last weekend we decided to visit the Kurjenrahka National Park with <a href="htt
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 The trail continued through swamps and since we arrived quite late the sun was setting also slowly.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29454438693/in/dateposted-public/" title="Kurjenrahka National Park Finland zeiss batis 25mm"><img src="https://c6.staticflickr.com/6/5790/29454438693_03eede225c_k.jpg" width="2048" height="1152" alt="Kurjenrahka National Park Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

@@ -19,7 +19,6 @@ Palace of Culture and Science built from 1952 - 1955 with a height of 231m.
 
 <!--more-->
 
-{% include banner_ad.html %}
 
 View from my flight to Poland from a Finnair plane.
 

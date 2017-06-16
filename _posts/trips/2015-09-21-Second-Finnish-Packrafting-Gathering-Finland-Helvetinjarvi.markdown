@@ -15,9 +15,6 @@ Last weekend we participated in the second packrafting gathering organized by <a
 
 <!--more-->
 
-{% include banner_ad.html %}
-
-
 Once we arrived on Friday at the National Park we pitched our <a href="http://amzn.to/1Jk9N72">MSR Hubba Hubba NX</a> tent and enjoyed a nice evening at the fireplace talking about the upcoming trip, gear and other stuff.
 
 <img src="https://farm1.staticflickr.com/564/21564757086_9d5beff87d_b.jpg" width="100%" alt="Packrafting in Helvetinjärvi National Park Finland - Planning Map">

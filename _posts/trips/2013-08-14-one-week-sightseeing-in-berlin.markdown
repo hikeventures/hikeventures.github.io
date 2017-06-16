@@ -16,8 +16,6 @@ I have tried to visit the best sights in Berlin during my week in the capital of
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 <a href="http://www.flickr.com/photos/90204224@N07/9508270979/"><img src="http://farm6.staticflickr.com/5340/9508270979_f7cf104e14_c.jpg" width="1150" alt="Tourism Berlin"></a>
 
 Weltzeituhr Alexanderplatz

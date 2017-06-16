@@ -15,8 +15,6 @@ Beginning in late August, Polish forests experience an influx of visitors specia
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 Coming from the families with ancient traditions of the silent hunt, we were especially happy to try our own hand (and, in this case, our eyes) at locating and bagging the prey, when we visited one of the largest forest area in the West of Poland, the place called Puszcza Notecka (which in English means Notecka forest). It was a beautiful October Sunday: the sun was shining, the temperature was around 20 degrees Celsius, the autumn forest was full of red, yellow and green, some occasional clouds floated over the sky taking their rain somewhere else... in other words just a perfect day for picking mushrooms.
 
 Being around 11 a.m. when we stepped off our train from Poznan (after one and a half hour ride), there were no other silent hunters in sight and we had the whole forest for ourselves. Well, at least that what we thought at first.

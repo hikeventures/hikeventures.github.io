@@ -17,8 +17,6 @@ This weekend I took my bicycle and cycled 25 km around lake Tuusula. The route i
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 <a href="https://www.flickr.com/photos/90204224@N07/14460129088"><img src="https://farm6.staticflickr.com/5477/14460129088_e728f14293_b.jpg" width="1024" height="683" alt="Tuusula rantatie museums sightseeing">></a>
 
 <a href="https://www.flickr.com/photos/90204224@N07/14460109268"><img src="https://farm4.staticflickr.com/3907/14460109268_d839f95f8d_b.jpg" width="1024" height="683"></a>

@@ -28,29 +28,3 @@ The only issue I would probably have with life streaming is that you can not rec
 Personally, I was interested in getting a GoPro Hero5 Session since I liked the small form factor.
 
 However, the new features on the YI 4K+ are quite interesting and I could probably also live with a bigger action camera. What I like on the YI 4K+ is that it is able to record with 60 frames per second and offers the possibility to do life streaming. You can read more about the YI 4K+ <a href="http://amzn.to/2pkVS2E" rel="nofollow">here</a>.
-
----
-
-<h2 id="list">Differences YI 4K+ vs GoPro Hero5</h2>
-<div class="table-responsive">
-<table class="table">
-<thead><tr><th></th><th>GoPro Hero5</th><th>YI 4K+</th></tr></thead><tbody>
- <tr><td>fps 4K</td><td>30</td><td>60</td></tr>
- <tr><td>weight (grams)</td><td>116</td><td>97</td></tr>
- <tr><td>lens (/f)</td><td>2.8</td><td>2.8</td></tr>
- <tr><td>touch screen</td><td>yes</td><td>yes</td></tr>
- <tr><td>chipset</td><td>Ambarella A9SE</td><td>Ambarella H2 </td></tr>
- <tr><td>sensor</td><td>12MP</td><td>12MP</td></tr>
- <tr><td>image stabilization (max)</td><td>2.7K</td><td>4k</td></tr>
- <tr><td>wifi</td><td>yes</td><td>yes</td></tr>
- <tr><td>live streaming</td><td>no</td><td>yes</td></tr>
- <tr><td>waterproof</td><td>yes</td><td>no (case needed)</td></tr>
- <tr><td>max video resolution</td><td>3840 x 2160</td><td>4000x3000</td></tr>
- <tr><td>gps</td><td>yes</td><td>no</td></tr>
- <tr><td>usb type</td><td>C</td><td>C</td></tr>
- <tr><td>voice control</td><td>yes</td><td>yes</td></tr>
- <tr><td>max burst rate</td><td>30</td><td>30</td></tr>
- <tr><td>video</td><td>720P 240FPS</td><td>720P 240FPS</td></tr>
- <tr><td>raw photos</td><td>yes</td><td>yes</td></tr>
-</tbody></table>
-</div>

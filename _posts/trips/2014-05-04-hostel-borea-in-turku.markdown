@@ -17,8 +17,6 @@ As I am currently looking for a flat in Turku, I am going to spend my first nigh
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 <a href="https://www.flickr.com/photos/90204224@N07/14102619521" title="Borea Hostel Turku Finland"><img src="https://farm6.staticflickr.com/5444/14102619521_7081b7fa92_b.jpg" width="1024" height="683" alt="Borea Hostel Turku Finland hotel travel sleeping best ship visiting"></a>
 
 <a href="https://www.flickr.com/photos/90204224@N07/13919314167" title="Hostel Borea Turku Finland"><img src="https://farm6.staticflickr.com/5234/13919314167_bd108086b5_b.jpg" width="1024" height="683" alt="Hostel Borea Turku Finland hotel travel sleeping best ship visiting"></a>

@@ -16,8 +16,6 @@ Today, I went on a day trip to Ruissalo. Ruissalo is the recreational island of 
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 <a href="https://www.flickr.com/photos/90204224@N07/14018949740" title="Cycling Ruissalo Turku"><img src="https://farm3.staticflickr.com/2920/14018949740_14df9e2b11_b.jpg" width="1024" height="683" alt="Ruissalo Turku"></a><br>
 On my trip I saw migrating birds.
 <br><br>

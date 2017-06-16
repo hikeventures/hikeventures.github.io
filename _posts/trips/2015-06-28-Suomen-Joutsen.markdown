@@ -16,7 +16,6 @@ Two weeks ago I visited the Suomen Joutsen at Forum Marinum in Turku to find out
 
 <!--more-->
 
-{% include banner_ad.html %}
 
 The compass in the binnacle of the ship.<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/18946905940" title="Suomen Joutsen Compass"><img src="https://c1.staticflickr.com/1/417/18946905940_bd2ef03bf2_o.jpg" width="992" height="744" alt="Best places to visit in Turku - Suomen Joutsen Compass Sightseeing Turku Travel Tourism"></a>

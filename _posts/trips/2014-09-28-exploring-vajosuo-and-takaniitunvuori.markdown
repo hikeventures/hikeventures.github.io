@@ -16,8 +16,6 @@ Saturday I went out to the woods again to explore other parts of the Kurjenrahka
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 I started the first part of my hike in Vajsuo.
 
 [![Kurjenrahka National Park](https://farm4.staticflickr.com/3927/15189720557_85be1cf084_b.jpg)](https://www.flickr.com/photos/90204224@N07/15189720557 "Kurjenrahka National Park Vajosuo and Takaniitunvuori information board entrance")

@@ -21,8 +21,6 @@ tags:
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 
 And, indeed, this is our second time at the D-F NP. A few years ago, we came here by bike, stayed at a Natuurcamping (a special type of camping in the Netherlands that is characterised by their beautiful natural settings) and visited ancient dolmens on the southern edge of the park - this area has been inhabited since the prehistoric times and boasts a rich and diverse cultural landscape, which is another unique selling point of this national park.
 
@@ -77,21 +75,3 @@ Giving an impression of a rather dry place, it still has a couple of small lakes
 > The observation tower
 
 On the whole, even though we were there just for a few short hours, this was enjoyable time for us and we are looking forward to coming back to this diverse national park in the near future. And maybe even to the same giant sandpit again.
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Amazon Search Results";
-amzn_assoc_default_search_phrase = "Icebreaker Tee";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "d6fd3ed4bc9d6548d1028880155aeb04";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
----

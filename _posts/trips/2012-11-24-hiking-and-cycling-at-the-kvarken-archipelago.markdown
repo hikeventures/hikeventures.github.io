@@ -17,8 +17,6 @@ There is something special on this area: The land is rising at about 1 cm a year
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 And bicycled on the longest bridge of Finland (1.045 metres long).
 
 <a href="http://www.flickr.com/photos/90204224@N07/8197870862/"><img src="http://farm9.staticflickr.com/8070/8197870862_f64dd59551_c.jpg" width="1000" alt="Kvarken Archipelago - Replot bridge - The longest bridge of Finland"></a>

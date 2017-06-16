@@ -56,9 +56,3 @@ At the moment we are trying to find an inexpensive way to get to Kiruna. Konstan
 * [Exped Air Pillow UL](http://hikeventures.com/exped-air-pillow-ul/) and [Exped SynMat UL 7](http://hikeventures.com/exped-synmat-ul-7/)
 
 We are already quite excited. Are you going to participate at Fjällräven Classic as well? Let us know!
-
----
-
-{% include disclaimer.html %}
-
----

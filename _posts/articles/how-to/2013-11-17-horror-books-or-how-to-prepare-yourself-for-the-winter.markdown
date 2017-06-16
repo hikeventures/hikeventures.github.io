@@ -31,9 +31,3 @@ These books are:
 * The ABCs of avalanche safety (3rd ed.) by Sue A. Ferguson and Edward R. LaChapelle
 
 The books are given in the order I am planning to review them. I will also try to write one or two reviews per week so that you are completely prepared before the Christmas holidays, and in case you find yourself surrounded by snow, you will only welcome this and full-heartedly sing "Let it snow, let it snow let it snow ..."
-
----
-
-{% include disclaimer.html %}
-
----

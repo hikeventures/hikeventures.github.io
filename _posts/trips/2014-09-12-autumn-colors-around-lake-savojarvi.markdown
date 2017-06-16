@@ -18,8 +18,6 @@ Today I went hiking to the Kurjenrahka National Park in Finland which is located
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 I parked my car at Kurjenpesä where I found an information board about the National Park.
 
 <a href="https://www.flickr.com/photos/90204224@N07/15030711029" ><img src="https://farm4.staticflickr.com/3914/15030711029_76a7ec385a_b.jpg" width="1024" height="683" alt="backpacking in Kurjenrahka National Park" ></a>

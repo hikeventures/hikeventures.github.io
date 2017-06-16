@@ -15,9 +15,6 @@ This weekend I went to K&ouml;kar, a Swedish speaking municipality with a popula
 
 <!--more-->
 
-{% include banner_ad.html %}
-
-
 The &Aring;land Islands are part of the Finnish Archipelago and are one of the most popular sailing places of the Northern countries. There is also a ferry connection ([Viking Line][1] and [TallinkSilja][2]) from Turku and Stockholm connecting the &Aring;land Islands  (via Mariehamn)  to the main land. The majority of the population speaks Swedish as their native language.
 
 ## Transportation

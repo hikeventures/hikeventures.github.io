@@ -18,8 +18,6 @@ There was plenty of Hyperlite Mountain Gear around like the Hyperlite Mountain G
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 Welcome to the HikeVentures tent. We had our little flag with is. It was much easier to find our MSR Hubba Hubba tent again ... :)
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26930417545/in/dateposted-public/" title="Swedish Packrafting Round-Up 2016"><img src="https://farm8.staticflickr.com/7536/26930417545_daf4712b01_b.jpg" width="100%" alt="Swedish Packrafting Round-Up 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

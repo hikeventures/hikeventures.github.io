@@ -166,9 +166,3 @@ Needed to keep yourself clean.
 
 ### Any additional optional gear
 Fishing rot, carving knife, etc
-
----
-
-{% include disclaimer.html %}
-
----

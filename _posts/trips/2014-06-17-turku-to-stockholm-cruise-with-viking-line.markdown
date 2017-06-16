@@ -19,8 +19,6 @@ As I was planning to meet Konstantin in Sweden, I took a Viking Ferry in order t
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 <a href="https://www.flickr.com/photos/90204224@N07/14414858216" title="Viking Line Turku"><img src="https://farm4.staticflickr.com/3873/14414858216_d12ff73788_b.jpg" width="1024" height="683" alt="Viking Line Turku entrance harbor harbour"></a>
 
 The cruise starts at the Viking Terminal in Turku where I got my boarding card. While waiting for getting on board it's possible to get some drinks in the bar of the terminal.

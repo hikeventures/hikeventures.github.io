@@ -15,8 +15,6 @@ Last Friday I was cycling from Turku along The Turku Archipelago Trail - a 250 k
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 My first stop was the church in Raisio.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28507744483/in/dateposted-public/" title="The Turku Archipelago Trail | Saariston Rengastie"><img src="https://c4.staticflickr.com/9/8298/28507744483_4bcd1c9d03_k.jpg" width="2048" height="1152" alt="The Turku Archipelago Trail | Saariston Rengastie Raisio Church"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

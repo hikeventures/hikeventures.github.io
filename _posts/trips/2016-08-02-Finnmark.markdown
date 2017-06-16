@@ -18,8 +18,6 @@ After our [packrafting trip](http://www.hikeventures.com/Kaldoaivi/) in Finnish 
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 The border between Finland and Norway is nothing special. There was a custom office but no passport control. I jumped out of the car as I always wanted to walk over the Finnish - Norwegian border.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28638037691/in/dateposted-public/" title="Border Finland Norway "><img src="https://c4.staticflickr.com/9/8293/28638037691_6ac0cef7b8_k.jpg" width="2048" height="1365" alt="Näätämon tulli border finland norway neiden to kirkenes"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -245,21 +243,3 @@ I went sleeping around 12 pm and woke up the next morning around 8am. We packed 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28100355503/in/dateposted-public/" title="Hiking and Packrafting in Finland"><img src="https://c8.staticflickr.com/9/8359/28100355503_7852b4d62d_o.jpg" width="5724" height="3816" alt="Hiking and Packrafting in Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 I had a great week and I am looking forward to visit Finnish Lapland and Norway again. Here is also a [short video](http://www.hikeventures.com/finland-norway/) about our trip.
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Search Results from Amazon";
-amzn_assoc_default_search_phrase = "Norway";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "cf23da51abb156e309d4b850be09dbb5";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
----

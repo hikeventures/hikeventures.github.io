@@ -16,8 +16,6 @@ Since a couple of weeks we were thinking of possibilities to go packrafting in t
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 <a href="https://www.flickr.com/photos/90204224@N07/14060618024" title="1"><img src="https://farm8.staticflickr.com/7322/14060618024_a6418808b8_b.jpg" width="1024" height="683"  alt="Packrafting Grensmaas alpacka raft belgium netherlands holland river"></a>
 <figcaption><br>Preparing the Packraft and charging our <a href="http://hikeventures.com/solarmonkey-adventurer/" target="_self">solar panel battery</a></figcaption>
 <br>

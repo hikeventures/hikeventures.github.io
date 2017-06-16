@@ -17,8 +17,6 @@ As the next Swedish Packrafting Gathering is going to take place in just over on
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25644251223/in/datetaken-public/" title="Swedish Packrafting Gathering 2015"><img src="https://farm2.staticflickr.com/1443/25644251223_332a48070a_b.jpg" width="100%" alt="Swedish Packrafting Gathering 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Jacob (Urbanpackrafter.com) and I arrived at the rendez-vous place in the deep darkness after midnight. We were greeted by Henrik (The Deliverance Team) and the guys who had already settled in the open shelter (where we also joined them). All five of us sleeping side by side, I was happy brought earplugs

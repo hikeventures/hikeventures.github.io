@@ -17,7 +17,6 @@ Last autumn, I had a chance to join a two-day Packrafting gathering in the Belgi
 
 <!--more-->
 
-{% include banner_ad.html %}
 
 About two weeks later, Joery sent an email with a proposed plan of action. Three plans to be exact. One was to paddle the Ourthe river for two days, with the start point in La Roche-en-Ardennes in Belgium. In case there was not enough water in the river, another option was to have a two-day paddling trip in Biesbosch National Park near Rotterdam, NL. And finally, if that was not possible due to high winds, it was suggested to have a day trip on the Dommel river. The exact destination for the trip became known to us only one day before I had to leave Leeuwarden.
 

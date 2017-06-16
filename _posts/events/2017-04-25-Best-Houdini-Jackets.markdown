@@ -36,21 +36,3 @@ Then here, we have a new product called the Wooler Houdi, basically the same pro
 It's also part of a new wool program that makes it 100% traceable so we know which farm all the wool comes from. Has a really nice micron to it so it's 7 1/2 microns which makes it super-super soft, make the skin and if you wear it without anything underneath.
 
 It's biodegrable, so we think this is something that a lot of customers want to wear, good for nature and it's also super nice to wear.
-
----
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "";
-amzn_assoc_default_search_phrase = "Hiking";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "3b59edd59f23213f9e3bbcd8046ee503";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>

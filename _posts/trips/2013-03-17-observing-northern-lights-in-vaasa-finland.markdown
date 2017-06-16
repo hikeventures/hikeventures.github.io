@@ -14,8 +14,6 @@ Northern Lights are caused by the collision of energetic charged particles with 
 [![Northern Lights in Finland][image-1]][2]
 <!--more-->
 
-{% include banner_ad.html %}
-
 [![Northern Lights in Finland][image-2]][3]
 
 [![Northern Lights in Finland][image-3]][4]

@@ -14,8 +14,6 @@ About three weeks ago, Konstantin joined the other 20 packrafters for a Packraft
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 <a href="https://www.flickr.com/photos/90204224@N07/17743127899"><img src="https://c2.staticflickr.com/6/5349/17743127899_77c0e8d78b_o.jpg" width="100%"></a><br>
 Not everyone among the participants of the Packrafting Weekend were experienced packrafters. For most of them it was actually their very first time and they had to learn a lot even before they got into their packrafts.<br>
 

@@ -55,23 +55,3 @@ NAO+ and NAO, the difference is just that we have Bluetooth in NAO+ and Bluetoot
 If you want to have a Bluetooth lamp, you have to buy the head lamp in the US, Japan or Europe.
 
 The NAO is just available for the other countries so all of the world, Africa, and NAO, the classic mode, has 50 lumen less than the NAO+.
-
-Read more about the <a href="http://amzn.to/2q0pulV" rel="nofollow">NAO+</a> and the <a href="http://amzn.to/2oquEaP" rel="nofollow">Reactik+</a>.
-
----
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Reviews on Amazon";
-amzn_assoc_default_search_phrase = "Petzl headlamp";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "3b59edd59f23213f9e3bbcd8046ee503";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>

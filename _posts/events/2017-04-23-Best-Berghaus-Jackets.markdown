@@ -52,23 +52,3 @@ Rip stop, and in fact, Mick Fowler, our sponsored mountaineer, got it. He was te
 You've got all that you'd expect from a full mountain down jacket, and it weights under 500 grams. Really lightweight. Really tough. Really warm. Really thermally efficient. It's the Ramche 2.0 from Berghaus. This again fits in the Extrem range.
 
 By the way, Extrem has been part of the Berghaus collection since 1986, so this is a 30th birthday of our pinnacle range. It's a really big year for the collection, which has been completely relaunched for 2016.
-
-Here you can read more about the Berghaus <a rel="nofollow" href="http://amzn.to/2oyj4GH">Extrem 8000 Pro</a> and the <a rel="nofollow" href="http://amzn.to/2pRzFXh">Ramche 2.0</a> Jacket.
-
----
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Reviews on Amazon";
-amzn_assoc_default_search_phrase = "Berghaus";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "3b59edd59f23213f9e3bbcd8046ee503";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>

@@ -17,8 +17,6 @@ A few weeks ago I decided to cruise from Turku to Mariehamn on the Aland Islands
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 Here you can see the Viking Grace - the latest addition to the Viking fleet and one of the first ships which runs on gas rather than diesel oil. The interior of the Viking Grace is also splendid and there are even chcolate bonbons waiting for you in your cabin (in case you have booked one).  There is also some sort of compass projected from the ceiling of the cabin to the bed which gives a really nice impression.<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/18512101444" title="2015-05-30 08.41.56"><img src="https://c1.staticflickr.com/1/303/18512101444_d67a2f570d_o.jpg" width="992" height="744" alt="Viking Grace Flag"></a><br>
 

@@ -13,8 +13,6 @@ Three years ago (2010), I went working to Ireland for 1 year where I also had th
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 ## Day 1: Ascent to Corrán Tuathail
 <a href="https://www.flickr.com/photos/90204224@N07/10641019664" ><img src="https://farm4.staticflickr.com/3791/10641019664_0562b27806_b.jpg" width="1024" height="768" alt="hiking count kerry" ></a>
 

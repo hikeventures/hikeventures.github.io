@@ -31,9 +31,3 @@ I also do like Packrafting because you can easily pack your Packraft into a back
 Learning packrafting is not that difficult - however if you are planning to go packrafting in whitewater, you should maybe take some courses and also have proper gear like a <a href="http://hikeventures.com/petzl-meteor-3-plus-helmet/" target="_self">helmet</a> and a <a href="http://hikeventures.com/astral-ytv/" target="_self">PFD</a> as whitewater packrafting in a strong river can be quite dangerous.
 
 Moreover, it's a good idea to packraft in groups and not alone. Make sure you read about the river and any dangerous spots you might encounter. It's better to walk around some obstacles rather than risking your life. Also a drysuite might be a good idea if the water you are paddling is very cold.
-
----
-
-{% include disclaimer.html %}
-
----

@@ -18,8 +18,6 @@ On mothers day I decided to get on my bicycle in Turku and explore the bishops c
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 <a href="https://www.flickr.com/photos/90204224@N07/13974441038" ><img src="https://farm8.staticflickr.com/7366/13974441038_1244a23232_b.jpg" width="1024" height="683" ></a>
 
 The environment is a little bit different than in Vaasa. There are more hills and there is a possibility to go 250 km by bike and explore the Turku Archipelago. The islands are connected by ferries and the route I took today is actually the starting point for the Turku Archipelago biking tour.

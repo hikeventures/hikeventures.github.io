@@ -18,9 +18,6 @@ On our trip to Poland we went to South, visiting the Karkonosze National Park vi
 
 <!--more-->
 
-{% include banner_ad.html %}
-
-
 <br>Sometimes I came accross on these information boards partly sponsored by the European Union.
  <br><br>
 <img src="https://farm4.staticflickr.com/3710/19383106108_ab9890b3f0_o.jpg" width="100%"  >
@@ -94,19 +91,3 @@ Czech journalist Rudolf Kalman died here during a snow storm on 14 January 1929.
 <img src="https://farm4.staticflickr.com/3785/19383103188_784b80e1a1_o.jpg" width="100%"  alt="Hiking Karkonosze National Park">
 <br>
 Due to the limited amount of time we spent in this part of Poland I was only able to do a day trip. Anyway, the next day I got muscle ache in my legs since I also went 10 km jogging up the mountain on the morning before the hike. Just not used to run in the mountains anymore as when I lived in Austria. Next time I would like to hike the complete trail if I plan to come here again. Here is the GPS data from <a hre="http://www.movescount.com/moves/move68498799">hiking</a> and <a href="http://www.movescount.com/moves/move68437371">jogging</a>.
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Search Results from Amazon";
-amzn_assoc_default_search_phrase = "hiking poland";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "cf23da51abb156e309d4b850be09dbb5";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>

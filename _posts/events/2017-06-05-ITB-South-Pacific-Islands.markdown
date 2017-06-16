@@ -40,5 +40,4 @@ Yeah, it is basically a place to come and visit.
 
 And we are here now at the ITB to actually promote it and we would be glad if you guys could come over and write a story about it, market it so that people can know people can go to the islands, and enjoy the islands, and discover islands. And enjoy it.
 
-
 <a href="http://www.hikeventures.com/ITB-2017/">Here</a> you can read more about our visit at the ITB in Berlin.

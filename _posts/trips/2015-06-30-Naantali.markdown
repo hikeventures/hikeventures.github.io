@@ -16,8 +16,6 @@ layout: post
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 The Naantali Church from 1462.
 
 <a href="https://www.flickr.com/photos/90204224@N07/19128894262" ><img src="https://c1.staticflickr.com/1/302/19128894262_93088b94ba_o.jpg" width="100%"  alt="Naantali Visit Tourism Travel sightseeing church"></a>

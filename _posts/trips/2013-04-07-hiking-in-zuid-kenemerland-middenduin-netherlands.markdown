@@ -15,8 +15,6 @@ Middenduin is a diverse area with forest, open dunes, wooded hills and steep lan
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 <a href="https://www.flickr.com/photos/90204224@N07/8619173205" title="Train Netherlands"><img src="https://farm9.staticflickr.com/8393/8619173205_b796472a66_b.jpg" width="1024" height="683" alt="Train Netherlands"></a>
 
 A typical train in the Netherlands

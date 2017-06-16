@@ -15,8 +15,6 @@ Last weekend I visited the Teijo National Park located about 1.15 hours South-Ea
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 I parked my car nearby the nature center at Matildanjärvi. The nature center offers plenty of information about the national park and you can also get a free copy of a map.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28813721986/in/dateposted-public/" title="Teijo National Park Finland"><img src="https://c3.staticflickr.com/9/8720/28813721986_1a01fe7f57_k.jpg" width="2048" height="1152" alt="Hiking Teijo National Park Finland Nature Center"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

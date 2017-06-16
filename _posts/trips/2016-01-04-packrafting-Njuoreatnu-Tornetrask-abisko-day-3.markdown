@@ -18,8 +18,6 @@ After a chilly night in our tent which we pitched on a small island we woke up s
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 After crawling out of the tent we explored our little island.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/90204224@N07/23640393976/in/dateposted-public/" title="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"><img src="https://farm1.staticflickr.com/767/23640393976_e94ea0c562_b.jpg" width="100%" alt="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden - MSR Hubba Hubba NX - Alpacka Raft"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

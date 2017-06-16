@@ -66,9 +66,3 @@ A dry suite is the most expensive item in our Clothing Layering System. The <a h
 ---
 
 It's also a good idea to have specific clothes for the summer like the <a href="http://amzn.to/2dI0XrJ" rel="nofollow" target="_blank">Icebreaker Cool-Lite Sphere T-Shirt</a> or the <a href="http://amzn.to/2f6c0AW" rel="nofollow" target="_blank">Astral Designs V-Eight PFD</a>.
-
----
-
-{% include disclaimer.html %}
-
----

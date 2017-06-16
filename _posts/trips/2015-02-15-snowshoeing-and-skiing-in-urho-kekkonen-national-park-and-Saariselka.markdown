@@ -16,9 +16,6 @@ End of January we took a plane from Helsinki to Ivalo with Norwegian to do some 
 
 <!--more-->
 
-{% include banner_ad.html %}
-
-
 <a href="https://www.flickr.com/photos/90204224@N07/16347590197" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8656/16347590197_77b1385e6c_b.jpg" width="1024" height="721" alt="With Norwegian Air from Helsinki to Ivalo in Finnish Lapland - Finland"></a> <br>
 In Helsinki we were waiting to get on board of the Norwegian flight to Ivalo.
  <br><br>

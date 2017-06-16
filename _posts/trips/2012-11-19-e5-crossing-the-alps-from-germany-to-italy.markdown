@@ -17,8 +17,6 @@ On this trip we were hiking around 160 km from Germany to Italy. The demanding p
 
 > The route contains of about 20.000 metres in altitude and does not require any special skills or alpine gear. However, you should be in a good shape to be able to walk 1000 metres in altitude a day. The route has a length of about 170 km.
 
-{% include banner_ad.html %}
-
 The trip across the Alps took us 6 days and we were walking about 10 hours a day. Concerning the costs you can calculate about 20 EUR per night to stay in a hut excluding food (which would be another 15-20 EUR for breakfast and dinner at the hut).
 
 From Oberstdorf you reach Austria via the Unteren Madeljoch and continue via the Allgäuer, Lechtaler and Ötztaler Alps until you reach Italy via the Timmelsjoch. From there your way continues in South Tyrol until you reach Bozen. Highlight of the tour are e.g. the Geigenkamm and the Pitztal (where you reach an altitude of 3000 m).
@@ -104,24 +102,6 @@ And again we were rewarded with an awesome panoramic view from the peak of the K
 View towards the Dolomites in South Tyrol.
 
 On our last day we hiked from the Meraner Hut to Bozen and then took the bus back to Oberstdorf. I can warmly recommend this trip. You may also meet like-minded hikers during the trip or on the huts as well and enjoy the great Austrian and Italian kitchen.
-
-<script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "false";
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_search_bar_position = "top";
-amzn_assoc_ad_mode = "search";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_title = "Search Results from Amazon";
-amzn_assoc_default_search_phrase = "hiking european alps";
-amzn_assoc_default_category = "All";
-amzn_assoc_linkid = "cf23da51abb156e309d4b850be09dbb5";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
----
 
 ## Links
 

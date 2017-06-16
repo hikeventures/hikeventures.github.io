@@ -17,8 +17,6 @@ One week ago we went to a packrafting trip on the Emån River which is located i
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 In Högsby we inflated our Packrafts. Unfortunately, it was raining the whole morning but once we were in the Packraft it was fine.
 
 <a href="https://www.flickr.com/photos/90204224@N07/14466441174/" ><img src="https://farm6.staticflickr.com/5476/14466441174_82e06de31d_b.jpg" width="1024" height="683" alt="Packrafting Eman River Sweden alpacka raft werner shuna paddle hmg porter 4400"></a>

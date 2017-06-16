@@ -16,8 +16,6 @@ In January we made plans to go packrafting in the Scottish Highlands and decided
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 ## Meeting at the airport
 We met at the airport in Edinburgh - Konstantin arrived just 1 hour later than Patrick - and we took the new tram from the airport to the city center. Once we arrived in the city center we were searching for Konstantin's hotel where he was planning to stay for another week after our planned packrafting trip. We unloaded some of our clothes from our backpack in the hotel and started walking through the city towards the central station.
 

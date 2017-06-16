@@ -18,7 +18,6 @@ Having just survived the sudden frost and minus temperatures here, in the north 
 
 <!--more-->
 
-{% include banner_ad.html %}
 
 ## The Starting Point: [Krynica- Zdrój][1]
 

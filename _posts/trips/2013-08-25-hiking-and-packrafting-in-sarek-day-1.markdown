@@ -16,9 +16,6 @@ This year we went on a 6 days packrafting and hiking trip in Sarek. We travelled
 
 <!--more-->
 
-{% include banner_ad.html %}
-
-
 ## Day 1: From Gällivare to Vuosskeljavrre
 <a href="https://www.flickr.com/photos/90204224@N07/9592075355"><img src="https://farm4.staticflickr.com/3677/9592075355_2b498ef41c_b.jpg" width="1024" height="683" alt="Bus Suorva 93 Ritsem Sarek National Park Sweden Länstrafiken Norrbotten"></a>
 
@@ -436,7 +433,6 @@ Sarek was a great experience and we look forward to visit the Sarek National Par
 <a href="https://www.flickr.com/photos/90204224@N07/9596162859"><img src="https://farm6.staticflickr.com/5336/9596162859_3d2d76ede9_b.jpg" width="1024" height="281" alt="travelling by ferry from Umeå to Vaasa windmills"></a>
 
 By ferry from Umea to Vaasa. Bye bye Sweden.
-
 
 ## Links
 Our <a href="http://hikeventures.com/sarek-packrafting-video/" target="_blank">Sarek packrafting video</a>.

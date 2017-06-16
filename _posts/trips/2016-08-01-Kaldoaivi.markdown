@@ -16,8 +16,6 @@ On July 24th at 8.50 am it was time to get on board of the Finnair flight AY557 
 
 <!--more-->
 
-{% include banner_ad.html %}
-
 Having been around Ivalo [last year](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/) during the winter time with Konstantin, I decided to go on a hiking and packrafting trip with [Caj](http://caide.kuvat.fi/) who was also traveling with me earlier this year to the first [Swedish Packrafting Round Up](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/) on the Voxnan river in Sweden.
 
 ## On the plane to Ivalo
