@@ -88,7 +88,7 @@ The Big Agnes Air Core Ultra is a warm weather sleeping pad for temperatures dow
 
 The Big Agnes Air Core Ultra also has an antimicrobial treatment.  
 
-<a href="http://amzn.to/2sReUft" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif”></a>  
+<a href="http://amzn.to/2sReUft" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -103,7 +103,7 @@ The Big Agnes Insulated Air Core Ultra is a super light 3-season sleeping pad fo
 
 It has a 25% increased durability and tear strength and an antimicrobial treatment.  
 
-<a href="http://amzn.to/2r82nmW" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif”></a>  
+<a href="http://amzn.to/2r82nmW" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -114,7 +114,7 @@ It has a 25% increased durability and tear strength and an antimicrobial treatme
 
 The Big Agnes Q-Core SLX is an ultralight 3-season sleeping pad for temperatures down to -9 C. The new double rip-stop improves durability and tear strength by 25%.  
 
-<a href="http://amzn.to/2srhDik" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif”></a>  
+<a href="http://amzn.to/2srhDik" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -128,7 +128,7 @@ The Big Agnes Q-Core SLX is an ultralight 3-season sleeping pad for temperatures
 
 The Exped Synmat UL 7 was my go-to sleeping pad for a couple of years, however I have replaced it with the Therm-a-Rest XTherm as it offers a better insulation / weight ratio.  
 
-<a href="http://amzn.to/2eIa0OZ" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif”></a>  
+<a href="http://amzn.to/2eIa0OZ" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -143,7 +143,7 @@ The Klymit Double V is a two person sleeping pad which originates from the Klymi
 
 The Klymit Double V features body mapping technology and packs small.  
 
-<a href="http://amzn.to/2shddep" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif”></a>  
+<a href="http://amzn.to/2shddep" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -157,7 +157,7 @@ The Klymit Double V features body mapping technology and packs small.
 
 Another light sleeping pad is the Sea to Summit Ultralight which featuers a more durable fabric than the Therm-aRest Neo Air Xlite while the NeoAir Xlite will give you a better insulation.  
 
-<a href="http://amzn.to/2dBNq82" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif”></a>  
+<a href="http://amzn.to/2dBNq82" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -173,7 +173,7 @@ If you don't want to spend so much time inflating your sleeping pad then the The
 
 However, the foam of the pad makes it a heavier choice and you don't get such a good insulation as in other air pads.  
 
-<a href="http://amzn.to/2dBNswR" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif”></a>  
+<a href="http://amzn.to/2dBNswR" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -188,7 +188,7 @@ The Therm-a-Rest NeoAir All Season SV is a four season sleeping pad which includ
 
 The Therm-a-Rest NeoAir All Season SV is also one of the warmest sleeping pads as it incorporates Thermacapture Technology, reflecting heat back to the body.   
 
-<a href="http://amzn.to/2r8jcOx" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif”></a>  
+<a href="http://amzn.to/2r8jcOx" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -202,7 +202,7 @@ The Therm-a-Rest NeoAir All Season SV is also one of the warmest sleeping pads a
 
 The Therm-a-Rest NeoAir Xlite is a solid 3-season air sleeping pad which you could consider if you look for a pad which packs light.  
 
-<a href="http://amzn.to/2dpbvAF" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif”></a>  
+<a href="http://amzn.to/2dpbvAF" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -217,7 +217,7 @@ The Therm-a-Rest NeoAir Xlite is a solid 3-season air sleeping pad which you cou
 
 The Therm-a-Rest NeoAir XTherm is a sleeping pad for late spring, winter or early spring. However, in Scandinavia it is my go-to sleeping bag throughout the year.  
 
-<a href="http://amzn.to/2elYMQq" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif”></a>  
+<a href="http://amzn.to/2elYMQq" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -230,7 +230,7 @@ The Therm-a-Rest NeoAir XTherm is a sleeping pad for late spring, winter or earl
 
 The Therm-a-Rest Slacker Hammock Pad was designed to fit inside a Therm-a-Rest Slacker hammock which incorporates self-inflating foam with air channels to increase warmth and loft.   
 
-<a href="http://amzn.to/2sR96mn" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif”></a>  
+<a href="http://amzn.to/2sR96mn" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -245,7 +245,7 @@ The Therm-a-RestTrail King SV is a self-inflation sleeping pad.
 
 The Trail King SV includes AirFrame construction which alternates foam and air channels and SpeedValve technology for fast inflation and deflation.   
 
-<a href="http://amzn.to/2shFdyw" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif”></a>  
+<a href="http://amzn.to/2shFdyw" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -260,7 +260,7 @@ The Therm-a-Rest Z LITE SOL is a foam sleeping pad which is a safe choice than a
 
 You can also use this pad in combination with an air sleeping pad to get the ultimate in comfort and insulation.  
 
-<a href="http://amzn.to/2e8kepY" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif”></a>  
+<a href="http://amzn.to/2e8kepY" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
