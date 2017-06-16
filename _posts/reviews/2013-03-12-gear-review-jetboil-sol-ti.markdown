@@ -38,4 +38,4 @@ I have tested the Jetboil Sol Ti on <a href="http://hikeventures.com/hiking-and-
 ---
 
 ## Alternatives
-Have a look at the newer models like the [Jetboil MiniMo](http://www.backcountry.com/jetboil-minimo-cooking-system) or the MSR [WindBurner](http://www.backcountry.com/msr-windboiler-personal-stove-system) if you want a newer and better stove.
+Have a look at the newer models like the [Jetboil MiniMo](http://amzn.to/2rnutKM) or the [MSR WindBurner](http://amzn.to/2siFVZx) if you want a newer and better stove.

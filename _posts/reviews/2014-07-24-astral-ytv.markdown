@@ -33,3 +33,5 @@ There are 2 front pockets where you can store e.g. keys or snacks.
 Astral logo on the back site of the YTV lifejacket.
 
 I was wearing the Astral YTV on our packrafting trip in the <a href="http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/">Swedish mountains</a>. It was nice to paddle with it and the pockets were quite useful to store small snacks or my iPhone. Also you get a little bit more body protection than with the e.g. Secumar Vivio 50. If you are looking for a light white water PFD then the Astral Designs YTV is probably one of the best life jackets you can buy. If you are more into touring or easy river packrafting then you could also have a look at the Astral Designs V-Eight which I bought as well and would prefer over the Astral Designs YTV if I won't paddle white water.
+
+<a href="http://amzn.to/2swLfuw" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
