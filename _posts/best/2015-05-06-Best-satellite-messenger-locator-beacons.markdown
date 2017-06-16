@@ -51,7 +51,7 @@ DeLorme is owned since 2016 by Garmin and the unit has been replaced with the Ga
 
 ## ACR ResQlink+ 406
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B0083KHR3W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0083KHR3W&linkCode=as2&tag=hikeve-20&linkId=JA77DOCMUQDNHR6Q"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0083KHR3W&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" alt="ACR ResQlink+ 406"></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0083KHR3W" width="1" height="1" border="0" alt="ACR ResQlink+ 406" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00MYSP6NM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MYSP6NM&linkCode=as2&tag=hikeve-20&linkId=9249d908011764d70c9c3ba70de69a3b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00MYSP6NM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00MYSP6NM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 * Buoyant Personal Locator Beacon which is also suitable for paddlers  
 * No subscription fee  
