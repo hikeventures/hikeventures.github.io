@@ -25,7 +25,6 @@ If you plan to wear your rain jacket on a daily base with a backpack on your sho
 
 ## The best rain pants of 2017
 
-<h2>The best rain pants of 2017</h2>  
 <div class="table-responsive">  
       <table class="table table-hover table-bordered list_items">  
         <thead>  
@@ -82,7 +81,7 @@ The Haglöfs L.I.M. III pants are part of Haglöfs Ultralight product range and 
 
 The zippers on the legs help to put those pants on while wearing hiking boots.  
 
-<a href="/deals/#haglofs+lim+III+pant" target="_blank"><img src="http://www.hikeventures.com/buy.gif">></a>  
+<a href="/deals/#haglofs+lim+III+pant" target="_blank"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -145,7 +144,7 @@ The Rab Firewall Pants are made for active use during winter.
 
 The Rab Firewall pants comes with an elasticated waistband and knee articulations and are compatible with winter boots.  
 
-<a href="http://amzn.to/2r4XBdW" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif”></a>  
+<a href="http://amzn.to/2r4XBdW" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <a href="https://www.flickr.com/photos/90204224@N07/9598980244" title="Montane Minimus Pants"><img src="https://farm4.staticflickr.com/3767/9598980244_fccc7cd8c6_b.jpg" width="1024" height="683" alt="Montane Minimus Pants"></a>  
 
