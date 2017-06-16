@@ -17,7 +17,9 @@ Poles are especially useful if you have to walk up or down a mountain or if you 
 
 Further, you can also use poles for nordic walking.   
 
-<a data-flickr-embed="true"  href="[https://www.flickr.com/photos/90204224@N07/24785831751/in/photolist-Dm1oBg-DUv9z4-DLeSfK-qNgY7t-DJ5oFY-Dm1YSa-DSbpUy-CWZxhh-Dm1SnM-DJ5qtf-DLeWra-CWZhq3-CX6ZLM-DsowUj-CWZoVY-DJ55xd-CWYQyo-CX6sRF-DUueLP-r3peJw](https://www.flickr.com/photos/90204224@N07/24785831751/in/photolist-Dm1oBg-DUv9z4-DLeSfK-qNgY7t-DJ5oFY-Dm1YSa-DSbpUy-CWZxhh-Dm1SnM-DJ5qtf-DLeWra-CWZhq3-CX6ZLM-DsowUj-CWZoVY-DJ55xd-CWYQyo-CX6sRF-DUueLP-r3peJw)" title="Best trekking and snowshoeing poles for 2017"><img src="[https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg](https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg)" width="1024" height="681" alt="Best trekking and snowshoeing poles for 2017"></a><script async src="//[embedr.flickr.com/assets/client-code.js](http://embedr.flickr.com/assets/client-code.js)" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24785831751/in/photolist-Dm1oBg-DUv9z4-DLeSfK-qNgY7t-DJ5oFY-Dm1YSa-DSbpUy-CWZxhh-Dm1SnM-DJ5qtf-DLeWra-CWZhq3-CX6ZLM-DsowUj-CWZoVY-DJ55xd-CWYQyo-CX6sRF-DUueLP-r3peJw" title="Best trekking and snowshoeing poles for 2017"><img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="Best trekking and snowshoeing poles for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<!--more-->
 
 ## The best trekking & snowshoeing poles of 2017
 
@@ -30,22 +32,22 @@ Further, you can also use poles for nordic walking.
         </thead>  
         <tbody>  
         <tr>  
-          <td><a href="[http://amzn.to/2e38FPT](http://amzn.to/2e38FPT)" target="_blank" rel="nofollow">Black Diamond Distance Carbon Z</a></td><td>285g</td>  
+          <td><a href="http://amzn.to/2e38FPT" target="_blank" rel="nofollow">Black Diamond Distance Carbon Z</a></td><td>285g</td>  
         </tr>  
         <tr>  
-          <td><a href="[http://amzn.to/2e35k3a](http://amzn.to/2e35k3a)" target="_blank" rel="nofollow">Black Diamond Distance Carbon FLZ</a></td><td>355g</td>  
+          <td><a href="http://amzn.to/2e35k3a" target="_blank" rel="nofollow">Black Diamond Distance Carbon FLZ</a></td><td>355g</td>  
         </tr>  
         <tr>  
-          <td><a href="[http://amzn.to/2e38jsm](http://amzn.to/2e38jsm)" target="_blank" rel="nofollow">Leki Micro Ti</a></td><td>432g</td>  
+          <td><a href="http://amzn.to/2e38jsm" target="_blank" rel="nofollow">Leki Micro Ti</a></td><td>432g</td>  
         </tr>  
         <tr>  
-          <td><a href="[http://amzn.to/2dpdy7I](http://amzn.to/2dpdy7I)" target="_blank" rel="nofollow">MSR Flight 3</a></td><td>490g</td>  
+          <td><a href="http://amzn.to/2dpdy7I" target="_blank" rel="nofollow">MSR Flight 3</a></td><td>490g</td>  
         </tr>  
         <tr>  
-          <td><a href="[http://amzn.to/2eTLQ3j](http://amzn.to/2eTLQ3j)" target="_blank" rel="nofollow">Black Diamond Expedition 3</a></td><td>520g</td>  
+          <td><a href="http://amzn.to/2eTLQ3j" target="_blank" rel="nofollow">Black Diamond Expedition 3</a></td><td>520g</td>  
         </tr>  
         <tr>  
-          <td><a href="[http://amzn.to/2eTLoCj](http://amzn.to/2eTLoCj)" target="_blank" rel="nofollow">MSR Deploy T-3</a></td><td>635g</td>  
+          <td><a href="http://amzn.to/2eTLoCj" target="_blank" rel="nofollow">MSR Deploy T-3</a></td><td>635g</td>  
         </tr>  
 </tbody>  
 </table>  
@@ -55,53 +57,53 @@ Further, you can also use poles for nordic walking.
 
 ## Black Diamond Distance Carbon FLZ
 
-<a href="[http://www.amazon.com/gp/product/B00LU1E9J6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LU1E9J6&linkCode=as2&tag=hikeve-20&linkId=PMVOHR3LVH3T2AAQ](http://www.amazon.com/gp/product/B00LU1E9J6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LU1E9J6&linkCode=as2&tag=hikeve-20&linkId=PMVOHR3LVH3T2AAQ)" rel="nofollow"><img border="0" src="[http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LU1E9J6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20](http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LU1E9J6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20)" ></a><img src="[http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LU1E9J6](http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LU1E9J6)" width="1" height="1" border="0" alt="Black Diamond Distance Carbon FLZ" style="border:none !important; margin:0px !important;" />  
+<a href="http://www.amazon.com/gp/product/B00LU1E9J6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LU1E9J6&linkCode=as2&tag=hikeve-20&linkId=PMVOHR3LVH3T2AAQ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LU1E9J6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LU1E9J6" width="1" height="1" border="0" alt="Black Diamond Distance Carbon FLZ" style="border:none !important; margin:0px !important;" />  
 
 **weight**: 355 grams  
 
 The Black Diamond Distance Carbon FLZ are made of carbon fibre those poles come with FlickLock Pro adjustability. The poles are 3-section foldable.  
 
-<a href="[http://amzn.to/2e35k3a](http://amzn.to/2e35k3a)" target="_blank" rel="nofollow"><img src="[http://www.hikeventures.com/buy.gif](http://www.hikeventures.com/buy.gif)"></a>
+<a href="http://amzn.to/2e35k3a" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ## Black Diamond Distance Carbon Z
 
-<a href="[http://www.amazon.com/gp/product/B00LU1E9J6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LU1E9J6&linkCode=as2&tag=hikeve-20&linkId=SQ74AUKGGVR6J5J5](http://www.amazon.com/gp/product/B00LU1E9J6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LU1E9J6&linkCode=as2&tag=hikeve-20&linkId=SQ74AUKGGVR6J5J5)" rel="nofollow"><img border="0" src="[http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LU1E9J6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20](http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LU1E9J6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20)" ></a><img src="[http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LU1E9J6](http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LU1E9J6)" width="1" height="1" border="0" alt="Black Diamond Distance Carbon Z" style="border:none !important; margin:0px !important;" />  
+<a href="http://www.amazon.com/gp/product/B00LU1E9J6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LU1E9J6&linkCode=as2&tag=hikeve-20&linkId=SQ74AUKGGVR6J5J5" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LU1E9J6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LU1E9J6" width="1" height="1" border="0" alt="Black Diamond Distance Carbon Z" style="border:none !important; margin:0px !important;" />  
 
 **weight**: 285 grams  
 
 The Black Diamond Distance Carbon Z is made of carbon and suitable for fast-packing adventures. The poles are 3-section foldable.  
 
-<a href="[http://amzn.to/2e38FPT](http://amzn.to/2e38FPT)" target="_blank" rel="nofollow"><img src="[http://www.hikeventures.com/buy.gif](http://www.hikeventures.com/buy.gif)"></a>  
+<a href="http://amzn.to/2e38FPT" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
 ## Black Diamond Expedition 3
 
-<a rel=“nofollow” target="_blank"  href="[https://www.amazon.com/gp/product/B01L2A7AU4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01L2A7AU4&linkCode=as2&tag=hikeve-20&linkId=d7389d39b896dc34d589ad8cf82d96b5](https://www.amazon.com/gp/product/B01L2A7AU4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01L2A7AU4&linkCode=as2&tag=hikeve-20&linkId=d7389d39b896dc34d589ad8cf82d96b5)"><img border="0" src="//[ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01L2A7AU4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20](http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01L2A7AU4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20)" ></a><img src="//[ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01L2A7AU4](http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01L2A7AU4)" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a rel=“nofollow” target="_blank"  href="https://www.amazon.com/gp/product/B01L2A7AU4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01L2A7AU4&linkCode=as2&tag=hikeve-20&linkId=d7389d39b896dc34d589ad8cf82d96b5"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01L2A7AU4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01L2A7AU4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
 **weight**: 520 grams  
 
 The Black Diamond Expedition 3 poles are made of Aluminium and can also be used as ski poles. The poles also come with a 4-season strap in case you want to use gloves during the winter season. These poles come with trekking and snow baskets.  
 
-<a href="[http://amzn.to/2eTLQ3j](http://amzn.to/2eTLQ3j)" target="_blank" rel="nofollow"><img src="[http://www.hikeventures.com/buy.gif](http://www.hikeventures.com/buy.gif)"></a>  
+<a href="http://amzn.to/2eTLQ3j" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
 ## Leki Micro Ti
 
-<a rel=“nofollow” target="_blank"  href="[https://www.amazon.com/gp/product/B00MP2290U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MP2290U&linkCode=as2&tag=hikeve-20&linkId=28fabf765fdb29496c4b0dad85d6d42d](https://www.amazon.com/gp/product/B00MP2290U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MP2290U&linkCode=as2&tag=hikeve-20&linkId=28fabf765fdb29496c4b0dad85d6d42d)"><img border="0" src="//[ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00MP2290U&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20](http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00MP2290U&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20)" ></a><img src="//[ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00MP2290U](http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00MP2290U)" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a rel=“nofollow” target="_blank"  href="https://www.amazon.com/gp/product/B00MP2290U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MP2290U&linkCode=as2&tag=hikeve-20&linkId=28fabf765fdb29496c4b0dad85d6d42d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00MP2290U&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00MP2290U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
 **weight**: 432 grams  
 
 The Leki Micro series are foldable hiking poles from Leki and are made of Aluminium.  
 
-<a href="[http://amzn.to/2e38jsm](http://amzn.to/2e38jsm)" target="_blank" rel="nofollow"><img src="[http://www.hikeventures.com/buy.gif](http://www.hikeventures.com/buy.gif)"></a>  
+<a href="http://amzn.to/2e38jsm" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
 ## MSR Deploy T-3
 
-<a rel=“nofollow” target="_blank"  href="[https://www.amazon.com/gp/product/B00FQU5KTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FQU5KTK&linkCode=as2&tag=hikeve-20&linkId=92dac3153a6564a082dbc5530ed5efa2](https://www.amazon.com/gp/product/B00FQU5KTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FQU5KTK&linkCode=as2&tag=hikeve-20&linkId=92dac3153a6564a082dbc5530ed5efa2)"><img border="0" src="//[ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00FQU5KTK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20](http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00FQU5KTK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20)" ></a><img src="//[ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00FQU5KTK](http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00FQU5KTK)" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a rel=“nofollow” target="_blank"  href="https://www.amazon.com/gp/product/B00FQU5KTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FQU5KTK&linkCode=as2&tag=hikeve-20&linkId=92dac3153a6564a082dbc5530ed5efa2"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00FQU5KTK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00FQU5KTK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
 **weight**: 635 grams  
 
@@ -111,13 +113,13 @@ If you are looking for poles which you can also use during the summer then you s
 
 There are 2 models available, the MSR Deploy T-2 and T-3 with the only difference that the T3 packs smaller.  
 
-<a href="[http://amzn.to/2eTLoCj](http://amzn.to/2eTLoCj)" target="_blank" rel="nofollow"><img src="[http://www.hikeventures.com/buy.gif](http://www.hikeventures.com/buy.gif)"></a>  
+<a href="http://amzn.to/2eTLoCj" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
 ## MSR Flight 3
 
-<a href="[http://www.amazon.com/gp/product/B00FQ837V0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FQ837V0&linkCode=as2&tag=hikeve-20&linkId=NF74EJFOBHVBOVXE](http://www.amazon.com/gp/product/B00FQ837V0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FQ837V0&linkCode=as2&tag=hikeve-20&linkId=NF74EJFOBHVBOVXE)" rel="nofollow"><img border="0" src="[http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00FQ837V0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20](http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00FQ837V0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20)" ></a><img src="[http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00FQ837V0](http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00FQ837V0)" width="1" height="1" border="0" alt="MSR Flight 3" style="border:none !important; margin:0px !important;" />  
+<a href="http://www.amazon.com/gp/product/B00FQ837V0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FQ837V0&linkCode=as2&tag=hikeve-20&linkId=NF74EJFOBHVBOVXE" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00FQ837V0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00FQ837V0" width="1" height="1" border="0" alt="MSR Flight 3" style="border:none !important; margin:0px !important;" />  
 
 **weight**: 490 grams  
 
@@ -127,7 +129,7 @@ We have tested the MSR Flight 2 in the Austrian Alps. They are great for summer 
 
 If you look specifically for winter poles then you should have a look at the MSR Deploy T-2 or T-3 (below).  
 
-<a href="[http://amzn.to/2dpdy7](http://amzn.to/2dpdy7)" target="_blank" rel="nofollow"><img src="[http://www.hikeventures.com/buy.gif](http://www.hikeventures.com/buy.gif)"></a>  
+<a href="http://amzn.to/2dpdy7" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
