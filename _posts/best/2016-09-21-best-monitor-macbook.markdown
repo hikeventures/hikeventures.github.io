@@ -7,28 +7,19 @@ tags:
   - macbook
 layout: post
 ---
+As I am planning to buy a new MacBook Pro I was curious to find out which monitor I should get to connect it with my new MacBook Pro and what would be the best alternative to the LG UltraFine 4K or 5K monitors.
 
-<h2 style="color:red">My selection of the best LG Ultrafine 4K and 5K alternative screens</h2>
-<br>
-
-As I am planning to buy a new Macbook Pro I was curious to find out which monitor I should get to connect it with my new Macbook Pro and what would be the best alternative to the LG UltraFine 4K or 5K monitors.
-
-I really would like to have an external 4K or 5K monitor with my Macbook Pro since it is much more convenient to edit pictures.
+I really would like to have an external 4K or 5K monitor with my MacBook Pro since it is much more convenient to edit pictures.
 
 In the past I had a 27" HD monitor to edit my pictures but since I am planning to take 4K videos in the near future I would be really nice to have a 4K or even a 5K screen.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31528052726/in/dateposted-public/" title="Best LG UltraFine 4K and 5K monitor alternatives - LG 27UD88, Dell UP2715K, HP ENVY 27 or Lenovo ThinkVision X1 for Macbook Pro with Touchbar"><img src="https://c7.staticflickr.com/1/186/31528052726_5436587b3c_k.jpg" width="2048" height="1536" alt="Best LG UltraFine 4K and 5K monitor alternatives - LG 27UD88, Dell UP2715K, HP ENVY 27 or Lenovo ThinkVision X1 for Macbook Pro with Touchbar"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31528052726/in/dateposted-public/" title="Best LG UltraFine 4K and 5K monitor alternatives - LG 27UD88, Dell UP2715K, HP ENVY 27 or Lenovo ThinkVision X1 for Macbook Pro with Touchbar"><img src="https://c7.staticflickr.com/1/186/31528052726_5436587b3c_k.jpg" width="2048" height="1536" alt="Best LG UltraFine 4K and 5K monitor alternatives - LG 27UD88, Dell UP2715K, HP ENVY 27 or Lenovo ThinkVision X1 for MacBook Pro with Touchbar"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 I really like the idea to have less cables on my desk so USB-C would be a really nice feature.
 
-There would be no need to plug and unplug USB cables anymore on the Macbook Pro. All my USB cables would be connected to my monitor and there would be just one single USB-C which is connected to my Macbook Pro.
+There would be no need to plug and unplug USB cables anymore on the MacBook Pro. All my USB cables would be connected to my monitor and there would be just one single USB-C which is connected to my MacBook Pro.
 
-Have a look on our <a href="#list">montori comparison table</a> or see some <a href="#example">pictures</a> of the base layers which we recommend.
-
-
-<hr>
-
-<h2 id="list">The best 27-inch 4K and 5K USB-C Monitors</h2>
+<h2>The best 27-inch 4K and 5K USB-C Monitors</h2>
 <div class="table-responsive">
 <table class="table table-hover table-bordered list_items_5">
         <thead>
@@ -79,7 +70,7 @@ The Lenovo ThinkVision X1 has HDMI2.0 and DP1.2 ports a FHD camera with dual-arr
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00OKSFXZU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OKSFXZU&linkCode=as2&tag=hikeve-20&linkId=302e66e0b4bc2e1338edb0c38e62b898"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00OKSFXZU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00OKSFXZU" width="1" height="1" border="0" alt="Dell Ultra HD 5K Monitor UP2715K" style="border:none !important; margin:0px !important;" />
 
-The Dell Ultra HD 5K monitor fffers four times the content than QHD featuring over 14 million pixels and Harman Kardon speakers.
+The Dell Ultra HD 5K monitor offers four times the content than QHD featuring over 14 million pixels and Harman Kardon speakers.
 
 <a href="http://amzn.to/2gEAjqz" rel="nofollow" target="blank"><img src="http://www.hikeventures.com/buy.gif"></a>
 

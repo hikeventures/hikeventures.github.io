@@ -19,7 +19,7 @@ Are you looking for waterproof rain pants for your next hiking, backpacking or a
 ## Features
 The main difference between the L.I.M. II and III pants is only a better material. The features of both pants are the same. The Haglöfs L.I.M III pants weight only 225 grams, features full side-zippers to easily pull on/off the pants during the hike and is comfortable to wear due to the elasticated waist and articulated knees.
 
-<a href="https://www.flickr.com/photos/90204224@N07/13685845154/"><img src="https://farm4.staticflickr.com/3728/13685845154_3c448e6706_b.jpg" width="1024" height="683" alt="HAglöfs LIM Pants Review"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/13685845154/"><img src="https://farm4.staticflickr.com/3728/13685845154_3c448e6706_b.jpg" width="1024" height="683" alt="Haglöfs LIM Pants Review"></a>
 
 The integrated belt also helps to cut weight.
 

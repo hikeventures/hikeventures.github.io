@@ -10,10 +10,7 @@ tags:
   - water filters
 layout: post
 ---
-<h2 style="color:red">Lightweight water filters for ultralight hiking trips and lightweight adventures.</h2>
-<br>
-
-A water filter should be in every backpack if you plan to go hiking or backpacking.
+In this blog post I would like to present you the best backpacking water filters for 2017 which I would take with me on my next hiking or backpacking trip.
 
 Nowadays, there are several solution on the market. There are water filters where you have to pump the water through the filter or filters which do not require any pump at all (and which are also my personal preference filters).
 
@@ -25,7 +22,7 @@ Also keep in mind that none of the water filters we have selected can filter out
 
 The water filters which I have selected should not be used with salt water or with water contaminated with chemicals.
 
-To remove viruses you can combine a filter with e.g. the <a href="http://amzn.to/2mdxPNH" rel="nofollow">Steripen Freedom</a> (we have not tested if it effectively removes viruses).
+To remove viruses you can combine a filter with e.g. the Steripen Freedom (we have not tested if it effectively removes viruses).
 
 The Steripen uses an UV light against Viruses and can be recharged through the USB port. Also have a look at our <a href="#interview">interview</a> at the end of this article.
 
@@ -80,7 +77,7 @@ The Sawyer Mini Water Filter is currently my go-to water filter when I go for a 
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B002CN82V2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002CN82V2&linkCode=as2&tag=hikeve-20&linkId=3b9076e0ab9c3e5a21b7e3bd287ec25f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B002CN82V2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B002CN82V2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-If you prefer a filter where you need to pump then the Katadyn Hiker Pro filter might be a good soloution. I had this filter as well but prefer the Sawyer filter because it's lighter and I get similar results.
+If you prefer a filter where you need to pump then the Katadyn Hiker Pro filter might be a good solution. I had this filter as well but prefer the Sawyer filter because it's lighter and I get similar results.
 
 <a href="http://amzn.to/2lZGgjz" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 

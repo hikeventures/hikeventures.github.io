@@ -14,7 +14,7 @@ The Montbell U.L. Down Parka seems to be a perfect addition if you are planning 
 <!--more-->
 
 ## Features
-The Montbell UL Down Parka weights 260 grams and comes with 800 cuin goose down. It also has a DWR treatment andcomes in a 15-denier ballistic airlight nylon shell to keep the down dry if it's very moisture however this jacket is not waterproof.
+The Montbell UL Down Parka weights 260 grams and comes with 800 cuin goose down. It also has a DWR treatment and comes in a 15-denier ballistic airlight nylon shell to keep the down dry if it's very moisture however this jacket is not waterproof.
 <a href="https://www.flickr.com/photos/90204224@N07/8576876031" title="Montbell U.L. Down Parka"><img src="https://farm9.staticflickr.com/8526/8576876031_2b76bdfb2e_b.jpg" width="1024" height="683" alt="Montbell U.L. Down Parka - Field Test"></a>
 
 ## Recommendation

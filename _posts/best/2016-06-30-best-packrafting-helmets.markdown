@@ -73,7 +73,7 @@ NRS WRSI Current Helmet is made of a ABS plastic shell with polyurethane sub-she
 
 **Weight**: 848 grams  
 
-The NRS WRSI Trident Composite is made of a carbon composite shell and features a visor,  EVA pads to customise your helmet.  
+The NRS WRSI Trident Composite is made of a carbon composite shell and features a visor,  EVA pads to customize your helmet.  
 
 <a href="http://amzn.to/2dQcgyQ" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
@@ -144,7 +144,7 @@ The Sweet Protection Rocker Helmet is probably going to replace my Petzl Meteor 
 **Weight**: 400 grams  
 **Certification**: EN 1385  
 
-The Sweet Protection Strutter Helmet features LFT shell technology which combines polyamide and long fibreglass and an EVA liner absorbs impacts without cracking  
+The Sweet Protection Strutter Helmet features LFT shell technology which combines polyamide and long fiberglass and an EVA liner absorbs impacts without cracking  
 
 <a href="http://amzn.to/2ea50Dt" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 

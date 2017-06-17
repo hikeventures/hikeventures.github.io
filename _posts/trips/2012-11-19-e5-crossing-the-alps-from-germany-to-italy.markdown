@@ -56,7 +56,7 @@ The Braunschweiger Hut - located on an altitude of 2.759 m. The landscape remind
 
 [![Climbing Pitztaler J][image-9]][8]
 
-We went straight into the hut and energised ourselves with Austrian pastries and some cool drinks.
+We went straight into the hut and energized ourselves with Austrian pastries and some cool drinks.
 
 [![Hiking Wildspitze][image-10]][9]
 

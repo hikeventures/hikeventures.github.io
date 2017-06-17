@@ -110,7 +110,7 @@ The Petzl e+LITE is the emergency headlamp from Petzl.
 
 It could also be a good choice for ultralight enthusiasts who can manage with less light.   
 
-It can be used in a temperature range from -30 C to +60 C and it’s batteries can be stored for 10 years.  
+It can be used in a temperature range from -30 °C to +60 °C and it’s batteries can be stored for 10 years.  
 
 If you want to see more into the distance then this is probably not the headlamp you should consider to buy.  
 

@@ -1,30 +1,30 @@
 ---
-title: Arcteryx Squamish Hoody Review
-description: Probably the best wind jacket for your next adventure Arcteryx Squamish Hoody
+title: Arc'teryx Squamish Hoody Review
+description: Probably the best wind jacket for your next adventure Arc'teryx Squamish Hoody
 date: 2013-07-01 07:30:00
 category: reviews
 tags:
   - reviews
-  - arcteryx
+  - Arc'teryx
   - jackets
 layout: post
 ---
 Since I am planning to go to Sarek National Park in Sweden this autumn, I was looking for a wind jacket which I could take along with me beside a rain jacket and which would also be suitable to wear in the the mountains i.e. light and breathable. After reviewing several jackets, I went with the Arc'teryx Squamish Hoody which I have used now extensively on all my hiking, backpacking and other backcountry trips and here comes a short review.
 
-<a href="https://www.flickr.com/photos/90204224@N07/9185822642" title="Arcteryx Squamish Hoody"><img src="https://farm8.staticflickr.com/7362/9185822642_76ec520b9c_b.jpg" width="1024" height="683" alt="Arcteryx Squamish Hoody"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/9185822642" title="Arc'teryx Squamish Hoody"><img src="https://farm8.staticflickr.com/7362/9185822642_76ec520b9c_b.jpg" width="1024" height="683" alt="Arc'teryx Squamish Hoody"></a>
 
 <!--more-->
 
 ## Features
 I really like the quality of materials on the Arc'teryx Squamish Hoody, it's breathability and that's it doesn't take much space in the backpack. This windbreaker is also able to handle light rain due to it's DWR finish, comes with adjustable cuffs, hem drawcord and is helmet compatible. This wind jacket also feels soft to the skin and weights only 145 grams.
 
-<img src="http://farm4.staticflickr.com/3792/9183607317_2ed62baacf_c.jpg" width="1000" alt="Arcteryx Squamish Hoody">
+<img src="http://farm4.staticflickr.com/3792/9183607317_2ed62baacf_c.jpg" width="1000" alt="Arc'teryx Squamish Hoody">
 
-<img src="http://farm4.staticflickr.com/3674/9183607965_f5617987d4_c.jpg" width="1000" alt="Arcteryx Squamish Hoody">
+<img src="http://farm4.staticflickr.com/3674/9183607965_f5617987d4_c.jpg" width="1000" alt="Arc'teryx Squamish Hoody">
 
 You can tighten the lower part of your jacket.
 
-<img src="http://farm4.staticflickr.com/3808/9183608901_afec601612_c.jpg" width="1000" alt="Arcteryx Squamish Hoody" >
+<img src="http://farm4.staticflickr.com/3808/9183608901_afec601612_c.jpg" width="1000" alt="Arc'teryx Squamish Hoody" >
 
 You can tighten the sleeve on your wrist. Supercool! :)
 

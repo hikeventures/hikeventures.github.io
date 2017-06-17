@@ -30,7 +30,7 @@ If you are searching for a screen protector for the Sony a6500 then you can also
 
 <hr>
 
-<h2 id="list">The best screen protectors for Sony a7, a7R, a7S a6000, a6300 and a6500</h2>
+<h2>The best screen protectors for Sony a7, a7R, a7S a6000, a6300 and a6500</h2>
 
 <div class="table-responsive">
 

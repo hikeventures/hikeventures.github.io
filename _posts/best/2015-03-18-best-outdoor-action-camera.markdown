@@ -48,7 +48,7 @@ Sony, however is a market leader in developing camera sensors and since action c
 <br><br>
 Looking at the Specs, I am more tempted in getting the Sony FDR-X1000V action camera.
 
-8.8 MP sensor should deliver better image quality in low light situations and image stabilisation is also nice to have.
+8.8 MP sensor should deliver better image quality in low light situations and image stabilization is also nice to have.
 
 Another feature which I found quite interesting is that you can control up to 5 cameras with the Sony.
 

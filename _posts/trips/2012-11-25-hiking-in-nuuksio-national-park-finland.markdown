@@ -23,7 +23,7 @@ Nuuksio National Park is ideal for hiking, cycling or horse riding. The trails a
 <a href="https://www.flickr.com/photos/90204224@N07/8198186842" title="Mushrooms at Nuuksio National Park in Finland Mushrooms"><img src="https://farm9.staticflickr.com/8345/8198186842_f586d5ddab_b.jpg" width="1024" height="683" alt="Hiking, Backpacking and Camping - Mushroom hunting at Nuuksio National Park in Finland"></a>
 
 ## Hiking
-I went to Nuuksio several times hiking. Once, it was end of December and we had +5C in Southern Finland which is quite unusual for this time of the year. However, this was a good opportunity to test my new <a href="http://hikeventures.com/arcteryx-tecto-fl-jacket/" target="_self">jacket</a>, visit the new <a href="http://www.haltia.com" target="_blank">Finnish Nature Center Haltia</a> and to have a short hike from Haltia to Haukkalampi and back (10 km).
+I went to Nuuksio several times hiking. Once, it was end of December and we had +5 °C in Southern Finland which is quite unusual for this time of the year. However, this was a good opportunity to test my new <a href="http://hikeventures.com/arcteryx-tecto-fl-jacket/" target="_self">jacket</a>, visit the new <a href="http://www.haltia.com" target="_blank">Finnish Nature Center Haltia</a> and to have a short hike from Haltia to Haukkalampi and back (10 km).
 
 <a href="https://www.flickr.com/photos/90204224@N07/8197076629" title="Hiking, Backpacking and Camping - Bad weather and clouds over the Nuuksio National Park in Finland""><img src="https://farm9.staticflickr.com/8481/8197076629_4edaa43f65_b.jpg" width="1024" height="683" alt="Nuuksio National Park in Finland"></a>
 

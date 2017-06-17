@@ -35,13 +35,13 @@ When I go hiking I usually wear a [fleece jacket](http://www.hikeventures.com/be
           <td><a href="http://amzn.to/2doK4aj" target="_blank" rel="nofollow">Mountain Hardware Ghost Whisperer Hooded Down Jacket (800fp)</a></td><td>212g</td>  
         </tr>  
        <tr>  
-          <td><a href="http://amzn.to/2doJmJP" target="_blank" rel="nofollow">Arcteryx Cerium LT Hoody (850fp)</a></td><td>275g</td>  
+          <td><a href="http://amzn.to/2doJmJP" target="_blank" rel="nofollow">Arc'teryx Cerium LT Hoody (850fp)</a></td><td>275g</td>  
         </tr>  
         <tr>  
           <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Marmot Quasar Hoody (850fp)</a></td><td>372g</td>  
         </tr>  
         <tr>  
-          <td><a href="http://amzn.to/2dBjOHV" target="_blank" rel="nofollow">Arcteryx Cerium SV Hoody (850fp)</a></td><td>440g</td>  
+          <td><a href="http://amzn.to/2dBjOHV" target="_blank" rel="nofollow">Arc'teryx Cerium SV Hoody (850fp)</a></td><td>440g</td>  
         </tr>  
         <tr>  
           <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Patagonia Men’s Down Hooded Jacket (800fp)</a></td><td>550g</td>  
@@ -53,7 +53,7 @@ When I go hiking I usually wear a [fleece jacket](http://www.hikeventures.com/be
           <td><a href="http://amzn.to/2e7V1Mx" target="_blank" rel="nofollow">Rab Positron Jacket (800fp)</a></td><td>720g</td>  
         </tr>  
         <tr>  
-          <td><a href="http://amzn.to/2endumN" target="_blank" rel="nofollow">Arcteryx Ceres Jacket (850fp)</a></td><td>860g</td>  
+          <td><a href="http://amzn.to/2endumN" target="_blank" rel="nofollow">Arc'teryx Ceres Jacket (850fp)</a></td><td>860g</td>  
         </tr>  
         <tr>  
           <td><a href="http://amzn.to/2i2OmBR" target="_blank" rel="nofollow">Canada Goose Expedition Parka (625fp)</a></td><td>2070g</td>  
@@ -64,7 +64,7 @@ When I go hiking I usually wear a [fleece jacket](http://www.hikeventures.com/be
 
 ## Arc'teryx Ceres Jacket (850fp)
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GV47ZVQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GV47ZVQ&linkCode=as2&tag=hikeve-20&linkId=W5UOOTWBV54OBDXF" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GV47ZVQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20"></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GV47ZVQ" width="1" height="1" border="0" alt="Arcteryx Ceres Jacket" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GV47ZVQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GV47ZVQ&linkCode=as2&tag=hikeve-20&linkId=W5UOOTWBV54OBDXF" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GV47ZVQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20"></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GV47ZVQ" width="1" height="1" border="0" alt="Arc'teryx Ceres Jacket" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 860 grams  
 
@@ -78,7 +78,7 @@ This jacket is a probably a great option if you also want to have a fashionable 
 
 ## Arc'teryx Cerium LT Hoody (850fp)
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00Q9MHXN0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q9MHXN0&linkCode=as2&tag=hikeve-20&linkId=Y5N4EYNVYQ5UDXXJ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q9MHXN0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q9MHXN0" width="1" height="1" border="0" alt="Arcteryx Cerium LT Hoody" style="border:none !important; margin:0px !important;"/>  
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00Q9MHXN0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q9MHXN0&linkCode=as2&tag=hikeve-20&linkId=Y5N4EYNVYQ5UDXXJ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q9MHXN0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q9MHXN0" width="1" height="1" border="0" alt="Arc'teryx Cerium LT Hoody" style="border:none !important; margin:0px !important;"/>  
 
 **Weight**: 275 grams  
 
@@ -94,7 +94,7 @@ LT stands for lightweight in the Arc’teryx product line.
 
 ## Arc'teryx Cerium SV Hoody (850fp)
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GW80Q9E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW80Q9E&linkCode=as2&tag=hikeve-20&linkId=WCQGDJJ5MREZ5EUX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW80Q9E&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW80Q9E" width="1" height="1" border="0" alt="Arcteryx Cerium SV Hoody" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GW80Q9E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW80Q9E&linkCode=as2&tag=hikeve-20&linkId=WCQGDJJ5MREZ5EUX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW80Q9E&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW80Q9E" width="1" height="1" border="0" alt="Arc'teryx Cerium SV Hoody" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 440 grams  
 
@@ -144,7 +144,7 @@ This is a great jacket for camping during spring, summer and autumn or as a ligh
 
 If you are looking for a proper winter jacket then we would rather pick the Rab Infinity Endurance or the Rab Positron jacket.   
 
-For a stylish jacket to use during winter mainly in town we would go for the Arcteryx Ceres jacket.  
+For a stylish jacket to use during winter mainly in town we would go for the Arc'teryx Ceres jacket.  
 
 <a href="http://amzn.to/2doK4aj" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 

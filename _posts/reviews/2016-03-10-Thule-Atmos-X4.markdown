@@ -21,11 +21,11 @@ On our packrafting trip in Scotland I have tried out the Thule X4 smartphone cas
 * More protection on the front (around the camera and the home button) on the X4.
 * Indication of the Volume buttons (+ and -) on the X3 has been removed on the X4.
 
-The slots at the bottom of the case are larger which makes it easier to plug in the charger or headphones. Think of a cold night where you just want to get into your sleeping bag as soon as possible. To have your phone ready charged for the next day you don't want to fickle around with the charger to connect it with your phone. You may also have issues to plug in some iPhone chargers which are not disigned like the original iPhone charger.
+The slots at the bottom of the case are larger which makes it easier to plug in the charger or headphones. Think of a cold night where you just want to get into your sleeping bag as soon as possible. To have your phone ready charged for the next day you don't want to fickle around with the charger to connect it with your phone. You may also have issues to plug in some iPhone chargers which are not designed like the original iPhone charger.
 
 Those additional features would make us to upgrade our phone cases from the X3 to the X4. Having a proper phone case is especially important when you pursue outdoor activities.
 
-The only features we were missing on the X4 were that it is not waterproof and an attachement point - lanyard or a coard for a hand. Think of a situation while paddling on a river and you hit by accident a rock while taking a picture. You may drop your phone and all the nice memories (picture) of your trip are gone.
+The only features we were missing on the X4 were that it is not waterproof and an attachment point - lanyard or a cord for a hand. Think of a situation while paddling on a river and you hit by accident a rock while taking a picture. You may drop your phone and all the nice memories (picture) of your trip are gone.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25670238335/in/dateposted-public/" title="Thule X4 iPhone Adventure Case"><img src="https://farm2.staticflickr.com/1635/25670238335_8abbee8eb2_b.jpg" width="100%" alt="Thule Atmos X4 iPhone Adventure Case"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

@@ -3,7 +3,7 @@ title: Mike Clelland - Ultralight Backpackin' Tips
 description: Good book about ultralight backpacking
 date: 2013-01-29 07:30:00
 category: reviews
-tags: 
+tags:
   - reviews
   - books
 layout: post

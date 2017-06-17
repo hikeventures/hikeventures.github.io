@@ -17,7 +17,7 @@ Having used my old 10 EUR bag which I have used the last 2 years, I decided to u
 <!--more-->
 
 ##  Features
-The North Face Base Camp Duffle is quite durable and waterproof, comes with YKK Zippers, alpine-cut shoulder straps, twin haul handles on ends, compression straps, internal mesh pockets, ID pocket and locking zips. The fabric of the The North Face Base Camp Duffle is Phthalate-free TPE fabric laminate, 840D Jr. ballistics nylon. The bag has a weight of 1820 grams and its dimensions are 71x41x41cm or 90 litres of gear.
+The North Face Base Camp Duffle is quite durable and waterproof, comes with YKK Zippers, alpine-cut shoulder straps, twin haul handles on ends, compression straps, internal mesh pockets, ID pocket and locking zips. The fabric of the The North Face Base Camp Duffle is Phthalate-free TPE fabric laminate, 840D Jr. ballistics nylon. The bag has a weight of 1820 grams and its dimensions are 71x41x41cm or 90 liters of gear.
 
 <img src="http://farm9.staticflickr.com/8537/8620275512_cee4e54a9f_c.jpg" width="1150" alt="North Face BASE CAMP DUFFEL L">
 

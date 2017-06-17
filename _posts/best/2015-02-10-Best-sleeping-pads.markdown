@@ -85,7 +85,7 @@ I have received the XTherm from Therm-a-Rest for testing and it’s now my go-to
 **Weight**: 566 g  
 **R-Value**: 1.5  
 
-The Big Agnes Air Core Ultra is a warm weather sleeping pad for temperatures down to -2 C.    
+The Big Agnes Air Core Ultra is a warm weather sleeping pad for temperatures down to -2 °C.    
 
 The Big Agnes Air Core Ultra also has an antimicrobial treatment.  
 
@@ -100,7 +100,7 @@ The Big Agnes Air Core Ultra also has an antimicrobial treatment.
 **Weight**: 598 g  
 **R-Value**: 4.1  
 
-The Big Agnes Insulated Air Core Ultra is a super light 3-season sleeping pad for temperatures down to -9 C.   
+The Big Agnes Insulated Air Core Ultra is a super light 3-season sleeping pad for temperatures down to -9 °C.   
 
 It has a 25% increased durability and tear strength and an antimicrobial treatment.  
 

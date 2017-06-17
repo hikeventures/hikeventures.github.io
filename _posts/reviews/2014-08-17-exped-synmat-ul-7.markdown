@@ -15,7 +15,7 @@ Here is a short review about the Exped SynMat UL 7 which is our current sleeping
 
 <!--more-->
 
-The SynMat UL 7 M weights around 450 grams, is 183 cm long and has an R-Value of 3.10 (Temperatures down to -4 °C). This means that this sleeping pad is suited for spring, summer and autumn (depending on your location). When I tested this pad I felt a bit cold on my back when the temperatures droped to 0C so I am going to use the Exped UL 7 M only for temperatures of +5 °C and more in the future.
+The SynMat UL 7 M weights around 450 grams, is 183 cm long and has an R-Value of 3.10 (Temperatures down to -4 °C). This means that this sleeping pad is suited for spring, summer and autumn (depending on your location). When I tested this pad I felt a bit cold on my back when the temperatures dropped to 0 °C so I am going to use the Exped UL 7 M only for temperatures of +5 °C and more in the future.
 
 <a href="https://www.flickr.com/photos/90204224@N07/8730116905" title="Exped Syn UL7"><img src="https://farm8.staticflickr.com/7348/8730116905_ab870260cb_b.jpg" width="1024" height="683" alt="Exped Syn UL7"></a>
 

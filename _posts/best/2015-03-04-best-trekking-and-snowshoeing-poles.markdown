@@ -83,7 +83,7 @@ The Black Diamond Distance Carbon Z is made of carbon and suitable for fast-pack
 
 **weight**: 520 grams  
 
-The Black Diamond Expedition 3 poles are made of Aluminium and can also be used as ski poles. The poles also come with a 4-season strap in case you want to use gloves during the winter season. These poles come with trekking and snow baskets.  
+The Black Diamond Expedition 3 poles are made of aluminium and can also be used as ski poles. The poles also come with a 4-season strap in case you want to use gloves during the winter season. These poles come with trekking and snow baskets.  
 
 <a href="http://amzn.to/2eTLQ3j" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
@@ -95,7 +95,7 @@ The Black Diamond Expedition 3 poles are made of Aluminium and can also be used 
 
 **weight**: 432 grams  
 
-The Leki Micro series are foldable hiking poles from Leki and are made of Aluminium.  
+The Leki Micro series are foldable hiking poles from Leki and are made of aluminium.  
 
 <a href="http://amzn.to/2e38jsm" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 

@@ -12,7 +12,7 @@ tags:
   - t-shirts
 ---
 
-The first time I heard about Icebreaker was about 5 or 6 years ago when together with my Adventure Tourism students I went for a short 'gear talk' to our local outdoor shop. The sales guy told us that they had some t-shirts that were "really cool" because you could wear them for a long time and they wouldn’t "stink".
+The first time I heard about Icebreaker was about 5 or 6 years ago when together with my Adventure Tourism students I went for a short "gear talk" to our local outdoor shop. The sales guy told us that they had some t-shirts that were "really cool" because you could wear them for a long time and they wouldn’t 'stink'.
 
 What he said made me really interested so I decided to have a look at them, but was immediately taken back by the price. "What? 60 Euro? I never…" I said to myself and moved on to other things.
 
@@ -27,7 +27,7 @@ But you know what they say – "never say never", and indeed, after a while, I b
 <!--more-->
 
 ## Reason 5: Icebreaker t-shirts look nice
-I like the cut (in most cases they make me look rather slim and trim) and I love the colours and colour combinations. Recently, Icebreaker has also started to produce t-shirts with prints. And they are good. What I understood from their brochures, they sometimes work with famous artists on the design and when you buy a t-shirt like that, it almost feels like you also buy a piece of art.
+I like the cut (in most cases they make me look rather slim and trim) and I love the colors and color combinations. Recently, Icebreaker has also started to produce t-shirts with prints. And they are good. What I understood from their brochures, they sometimes work with famous artists on the design and when you buy a t-shirt like that, it almost feels like you also buy a piece of art.
 
 And talking about the prints, right now I have two Icebreaker t-shirts like that. One of them is with a print of a mountain range across the chest, and the other with a bike and a canoe attached to it. Yes, it is about bikerafting - a very suitable shirt for my kind of sport. Of course, having a packraft on it would be even better, but I think it is still a bit too early to ask for it. Or can I?
 
@@ -44,7 +44,7 @@ And you know what? The designs are so nice that I feel very comfortable to wear 
 ## Reason 4: Icebreaker t-shirts feel soft
 For me wool was always something very warm and very itchy. Actually wool and itchy were almost synonymous. And indeed, what can you expect if most of the wool in my childhood was either regular sheep’s wool, or, in some rare cases, lamb’s or camel’s wool (I have a very warm and very itchy blanket that caused many a sleepless night). Cashmere was probably the only soft wool that I knew, but it was very expensive and very delicate (I remember my mother washed a cashmere sweater at a higher temperature than allowed and… well, let say it was very very slimming after that…).
 
-Otherwise, all wool in my life was rather coarse and itchy. I even remember that we had a joke about woollen underwear – it was something that no one wanted to have because the last thing you want is to have wool next to your, hmmmm, tender parts. The Big Bang Theory played on these properties of wool as well, when Sheldon forced Leonard to wear a woollen sweater to make him uncomfortable so that the latter would understand what it was to be Sheldon.
+Otherwise, all wool in my life was rather coarse and itchy. I even remember that we had a joke about woolen underwear – it was something that no one wanted to have because the last thing you want is to have wool next to your, hmmmm, tender parts. The Big Bang Theory played on these properties of wool as well, when Sheldon forced Leonard to wear a woolen sweater to make him uncomfortable so that the latter would understand what it was to be Sheldon.
 
 And this is why I like merino and Icebreaker garments in particular – they don’t itch. At least I do not have any problems with them. I really find them very soft. Especially when they are relatively new. Because, indeed, after washing them for a while, they become less soft (if you think that I am doing something wrong, please let me know – I will be a very happy man). But even then, the material is still far from being anything like itchy… I even have some Icebreaker underwear and, unlike my childhood fears, I love them.
 
@@ -65,7 +65,7 @@ However, if it is really hot, even ultralight t-shirts might be too much. That i
 
 What it simply means is that the weight of the fabric is between 120 and 135 grams (‘as light as a feather’ I guess) and, because of that, such garments are better suited for warm to hot conditions. And indeed I have one t-shirt like that, which I used last summer in Japan.
 
-And even though it felt a bit strange to wear something woollen when the temperatures are in the upper 30s (and I am talking about Celsius here and not Fahrenheit), it actually was very pleasant. Especially when I made it wet, which helped me to stay cool.
+And even though it felt a bit strange to wear something woolen when the temperatures are in the upper 30s (and I am talking about Celsius here and not Fahrenheit), it actually was very pleasant. Especially when I made it wet, which helped me to stay cool.
 
 ---
 
@@ -93,7 +93,7 @@ Moreover, even if they start ‘smelling a bit’, you can always do one of two 
 
 If it is still wet or you do not have that much time, you can still dry it on the go. The wool, even when it is wet, keeps you rather warm (the most dreadful moment is when you put it on, but very quickly it feels fine again) and, in some cases, like when I did it in Japan last year, it can actually be rather refreshing. The other option is to expose it to some wind and cold.
 
-I have heard from my grandmother that in the past, one way to ‘refresh’ woollen thing was to put them into a freeze (which in my part of Russia in winter time was just outside). You need to make sure that it is not wet though otherwise you will literally need to break the ice…
+I have heard from my grandmother that in the past, one way to ‘refresh’ woolen thing was to put them into a freeze (which in my part of Russia in winter time was just outside). You need to make sure that it is not wet though otherwise you will literally need to break the ice…
 
 And when talking about Icebreaker t-shirts and odour-resistance, you do not need to take my word for that alone. Go and ask my wife, who is ‘über’-hygienic. She grew up with a mother who is a microbiologist so, her natural tendency would be to change her t-shirts several times a day, even in the most remote areas. If she had a chance, of course.
 

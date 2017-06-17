@@ -24,7 +24,7 @@ For our trip to Sarek we were looking for a proper map which is durable and wate
 ---
 
 ## Features
-Calazo maps are lightweight, waterproof, quality maps which are easily foldable. The are more durable than normal maps and come with a good print quality. Also the price is quite attactive and sometimes even cheaper than regular maps.
+Calazo maps are lightweight, waterproof, quality maps which are easily foldable. The are more durable than normal maps and come with a good print quality. Also the price is quite attractive and sometimes even cheaper than regular maps.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9323537337"><img src="https://c4.staticflickr.com/8/7424/9323537337_1596bcb905_b.jpg" width="1024" height="683" alt="Calazo Waterproof Map"></a>
 

@@ -60,7 +60,7 @@ A portable and lightweight camping stove is one of the most essential item to ha
 
 The Jetboil MicroMo offers a push-button igniter and a heat indicator and comes with a 0.8 liter cooking cup.   
 
-The Jetboil MicorMo is cold weather compatible down to -6 C. The Jetboil MicroMo can also store the gas canister.  
+The Jetboil MicorMo is cold weather compatible down to -6 °C. The Jetboil MicroMo can also store the gas canister.  
 
 <a href="http://amzn.to/2elZvBk" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 

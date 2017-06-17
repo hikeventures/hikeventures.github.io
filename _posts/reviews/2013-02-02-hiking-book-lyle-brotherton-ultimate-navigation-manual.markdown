@@ -3,7 +3,7 @@ title: Lyle Brotherton - Ultimate Navigation Manual
 description: Our book review about Lyle Brothertons Ultimate Navigation Manual
 date: 2013-02-02 07:30:00
 category: reviews
-tags: 
+tags:
   - reviews
   - books
 layout: post

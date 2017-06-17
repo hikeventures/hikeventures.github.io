@@ -33,7 +33,7 @@ For those folks who would like to keep track on where they hiked, biked etc. sho
 * water resistance 100 m
 * Operating temperature -20C - +60C¨
 
-Suunto Ambit2 is a great tool for outdoor activities like hiking, running, cycling or marathon. It can be used with a hear rate monitor to measure your pulse. Further, you can upload your data to Movescount where you can keep track of your activities history and socialise with other Movescount users.
+Suunto Ambit2 is a great tool for outdoor activities like hiking, running, cycling or marathon. It can be used with a hear rate monitor to measure your pulse. Further, you can upload your data to Movescount where you can keep track of your activities history and socialize with other Movescount users.
 
 There are also currently over 1000 apps available which you can upload to your watch or you can create your own app.
 

@@ -20,7 +20,7 @@ Caj decided to take his GoPro Hero Session camera to film our paddling adventure
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26742804196/in/dateposted-public/" title="Packrafting in Turku"><img src="https://farm2.staticflickr.com/1538/26742804196_62d0e57212_b.jpg" width="100%" alt="Packrafting in Turku with Anfibio Packsuit"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-The South-West Coast of Finland is one of my favourite outdoor spots in Finland. The sea, pine trees, seagulls, rocks and the wind give this whole place a certain magic (as Caj would probably describe it).
+The South-West Coast of Finland is one of my favorite outdoor spots in Finland. The sea, pine trees, seagulls, rocks and the wind give this whole place a certain magic (as Caj would probably describe it).
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26742803736/in/dateposted-public/" title="Packrafting in Turku"><img src="https://farm2.staticflickr.com/1489/26742803736_4be4e10365_b.jpg" width="100%" alt="Packrafting in Turku with Anfibio Packsuit"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

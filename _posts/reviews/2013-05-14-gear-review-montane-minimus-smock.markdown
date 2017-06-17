@@ -17,7 +17,7 @@ For my hiking and packrafting adventures in summer and autumn, I was looking for
 <!--more-->
 
 ## Features
-The Montane Minimus Smock weights 143 grams and is almost inivisible in your backpack since it packs really small. It also comes with reflectors which are quite useful when you still have to hike during the night on a road. The front back is also useful since you can store items like a map in it and easily access it during your hike.
+The Montane Minimus Smock weights 143 grams and is almost invisible in your backpack since it packs really small. It also comes with reflectors which are quite useful when you still have to hike during the night on a road. The front back is also useful since you can store items like a map in it and easily access it during your hike.
 
 From my experience, a rain jacket stays most of the time in the backpack and I don't see any point to carry a 500 grams jacket with me which I never use most of the time. Alternatively, there is also the <a href="http://hikeventures.com/arcteryx-tecto-fl-jacket/" target="_self">Arcteryx Tecto FL jacket</a> which weights a bit more, is a bit more durable since it is made of Gore-Tex active shell and has a full-zip so you can easily pull the jacket on and off which I found a bit difficult with the Montane Minimus Smock.
 

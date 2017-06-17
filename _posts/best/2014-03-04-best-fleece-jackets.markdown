@@ -34,7 +34,7 @@ A fleece jacket can be used as a mid-layer to keep you warm while you are active
         </thead>  
         <tbody>  
         <tr>  
-          <td><a href="http://amzn.to/2dBJvs1" target="_blank" rel="nofollow">Arcteryx Thetis Zip Neck</a></td><td>205g</td>  
+          <td><a href="http://amzn.to/2dBJvs1" target="_blank" rel="nofollow">Arc'teryx Thetis Zip Neck</a></td><td>205g</td>  
         </tr>  
         <tr>  
           <td><a href="http://amzn.to/2eTDybV" target="_blank" rel="nofollow">Mammut Moench Longsleeve</a></td><td>205g</td>  
@@ -43,7 +43,7 @@ A fleece jacket can be used as a mid-layer to keep you warm while you are active
           <td><a href="http://amzn.to/2elW3qj" target="_blank" rel="nofollow">Rab Micro Pull-on</a></td><td>238g</td>  
         </tr>  
         <tr>  
-          <td><a href="http://amzn.to/2evRjuo" target="_blank" rel="nofollow">Arcteryx Delta LT Zip Neck</a></td><td>240g</td>  
+          <td><a href="http://amzn.to/2evRjuo" target="_blank" rel="nofollow">Arc'teryx Delta LT Zip Neck</a></td><td>240g</td>  
         </tr>  
         </tbody>  
   </table>  
@@ -51,7 +51,7 @@ A fleece jacket can be used as a mid-layer to keep you warm while you are active
 
 ## Arc'teryx Delta LT Zip Neck
 
-<a href="http://www.amazon.com/gp/product/B00GW7ZQG8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZQG8&linkCode=as2&tag=hikeve-20&linkId=TWGUKPE3JX4IKWXK" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7ZQG8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7ZQG8" width="1" height="1" border="0" alt="Arcteryx Delta LT Zip Neck" style="border:none !important; margin:0px !important;" />  
+<a href="http://www.amazon.com/gp/product/B00GW7ZQG8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZQG8&linkCode=as2&tag=hikeve-20&linkId=TWGUKPE3JX4IKWXK" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7ZQG8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7ZQG8" width="1" height="1" border="0" alt="Arc'teryx Delta LT Zip Neck" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 240 grams  
 **Fabric**: Polartec Classic 100 Micro Velour Small Grid  
@@ -62,7 +62,7 @@ The Arc’teryx Delta LT Zip Neck is also a nice fleece. I have currently the De
 
 ## Arc'teryx Thetis Zip Neck
 
-<a href="http://www.amazon.com/gp/product/B00GW7XOMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7XOMQ&linkCode=as2&tag=hikeve-20&linkId=KYPIGZUYHRQY4JNT" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7XOMQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7XOMQ" width="1" height="1" border="0" alt="Arcteryx Thetis Zip Neck" style="border:none !important; margin:0px !important;" />  
+<a href="http://www.amazon.com/gp/product/B00GW7XOMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7XOMQ&linkCode=as2&tag=hikeve-20&linkId=KYPIGZUYHRQY4JNT" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7XOMQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7XOMQ" width="1" height="1" border="0" alt="Arc'teryx Thetis Zip Neck" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 205 grams  
 **Fabric**: Polartec Power Dry  

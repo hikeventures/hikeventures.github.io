@@ -8,10 +8,6 @@ tags:
   - best
 layout: post
 ---
-
-<h2 style="color:red">Our selection of the best lightweight 360 4K cameras 2017 for ultralight outdoor adventures.</h2>
-<br>
-
 As we are always interested in new camera gear for our next adventure I was interested to find out which waterproof 360 4K cameras are currently available which I could take to my next hiking, backpacking, skiing or packrafting trip.
 
 I picked 360 cameras which were somewhat water resistant and shockproof.
@@ -54,7 +50,7 @@ Have a look on our <a href="#list">comparison table</a> to find the right camera
 <h3 id="example"><a href="http://amzn.to/2eQufFk" target="_blank" rel="nofollow">Nikon KeyMission 360</a></h3>
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01ASDP1SY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01ASDP1SY&linkCode=as2&tag=hikeve-20&linkId=4815e279d6ba8280e7178a69581358ab" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01ASDP1SY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01ASDP1SY" width="1" height="1" border="0" alt="Nikon KeyMission 360" style="border:none !important; margin:0px !important;" />
 
-The Nikon KeyMission 360 comes with SnapBridge 360/170 support. It has Wi-Fi and Bluetooth built-in. Further, the Nikon Keymission is is Waterproof, freezeproof down to -10°C and shockproof up to a drop of (2 meters) without use of an external housing. You can slow motion and time-lapse videos as well as 23.9-megapixel stills. The Nikon KeyMission weights around 198 grams. Apertures is f/2.0 and the field of view is Horizontal 360°. IPX8. Focus range is 30 cm. You can record 70 minutes of videos with the Nikon KeyMission 360.
+The Nikon KeyMission 360 comes with SnapBridge 360/170 support. It has Wi-Fi and Bluetooth built-in. Further, the Nikon Keymission is is Waterproof, freezeproof down to -10 °C and shockproof up to a drop of (2 meters) without use of an external housing. You can slow motion and time-lapse videos as well as 23.9-megapixel stills. The Nikon KeyMission weights around 198 grams. Apertures is f/2.0 and the field of view is Horizontal 360°. IPX8. Focus range is 30 cm. You can record 70 minutes of videos with the Nikon KeyMission 360.
 
 <a href="http://amzn.to/2eQufFk" rel="nofollow" target="blank"><img src="http://www.hikeventures.com/buy.gif"></a>
 <!--more-->
@@ -63,7 +59,7 @@ The Nikon KeyMission 360 comes with SnapBridge 360/170 support. It has Wi-Fi and
 <h3><a href="http://amzn.to/2f6NMq6" target="_blank" rel="nofollow">360fly 4K</a></h3>
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01G95INDK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01G95INDK&linkCode=as2&tag=hikeve-20&linkId=b2cfb1ae1e8efaacd0b52a3895d8c211" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01G95INDK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01G95INDK" width="1" height="1" border="0" alt="360fly 4K" style="border:none !important; margin:0px !important;" />
 
-The 360fly 4K records videos in 360° and takes 16-megapixel pictures. The 360fly 4K is water resistant to 1 ATM as well as dustproof and shockproof (1.5 meters). The camera comes with a built-in accelerometer, e-compass, gyroscope and non-assisted GPS sensors for geo-tagging. The battery lasts for about 1.5 hours while recoring videos. There is also a timelapse function built into the camera. The 360fly 4K weights about 172 grams. Aperture is f/2.5 and the field of view is Vertical 240° and Horizontal 360°. IPX6. Operating temperature goes down to -20°C and the Focus range is 30 cm.
+The 360fly 4K records videos in 360° and takes 16-megapixel pictures. The 360fly 4K is water resistant to 1 ATM as well as dustproof and shockproof (1.5 meters). The camera comes with a built-in accelerometer, e-compass, gyroscope and non-assisted GPS sensors for geo-tagging. The battery lasts for about 1.5 hours while recording videos. There is also a time-lapse function built into the camera. The 360fly 4K weights about 172 grams. Aperture is f/2.5 and the field of view is Vertical 240° and Horizontal 360°. IPX6. Operating temperature goes down to -20 °C and the Focus range is 30 cm.
 
 <a href="http://amzn.to/2f6NMq6" rel="nofollow" target="blank"><img src="http://www.hikeventures.com/buy.gif"></a>
 

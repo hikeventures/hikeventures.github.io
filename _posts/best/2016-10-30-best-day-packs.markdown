@@ -10,8 +10,6 @@ tags:
   - day packs
 layout: post
 ---
-<h2 style="color:red">Hiking daypacks for ultralight hiking trips and lightweight adventures.</h2>
-<br>
 
 Do you need a new lightweight hiking daypack? A day pack is a great choice if you plan to do a shorter trip while carrying some gear with you e.g. climbing, hiking or on a normal day in the city.
 
@@ -21,17 +19,12 @@ I have included a broad range of day packs. Some are more durable or offer more 
 
 Here is our <a href="#list">selection</a> of the best day packs for 2017 which we have selected to cover your summer and winter day trips.
 
-<h2>Daypack vs. Backpack</h2>
+## Daypack vs. Backpack
 A daypack is just a smaller version of a backpack. Essentially they are both backpacks.
-
-
----
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27817737344/in/photolist-Joaba7-KcEQhr-KcERsH-KjCz84-JTCe1f-KamS4G-KamLK5-Ne2YZK-F7oFw8-EVU9jS-F25vip-BUd4Wr-BRUqUh-AWN6Re-BUd3Z6-BkGdVV-AWG9Vd-Bs5pNh-AWN6px-BJBRNh-AWG9Eo-AWN6tv-Bs5opf-Bs5pk3-BJBQYG-BJBRV1-BUd456-BRUr2m-BkGcvv-BJBRgA-BkGcWa-AWN69x-BJBRwf-BkGcZM-BkGd68-Bs5p2Y-Bs5p4m-AWGar3-BUd3Ur-AWGaJY-BkGdAX-fCewqJ-fCepqs-fBZ532-fBZbWn-qNh6yH-BLVuGF-BLVuK6-zkUBfC-E1hZc9" title="Best Day Packs 2017"><img src="https://c1.staticflickr.com/9/8699/27817737344_1645a0bd95_b.jpg" width="1024" height="684" alt="Best Day Packs 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
----
-
-<h2 id="list"> The best day packs of 2017</h2>
+## The best day packs of 2017
 
 <div class="table-responsive">
 
@@ -66,7 +59,7 @@ A daypack is just a smaller version of a backpack. Essentially they are both bac
           <td><a href="http://amzn.to/2ipjrUp" target="_blank" rel="nofollow">Thule Stir 35L</a></td><td>997g</td>
         </tr>
       <tr>
-          <td><a href="http://amzn.to/2hC1baB" target="_blank" rel="nofollow">Arcteryx ARRO 22</a></td><td>1100g</td>
+          <td><a href="http://amzn.to/2hC1baB" target="_blank" rel="nofollow">Arc'teryx ARRO 22</a></td><td>1100g</td>
         </tr>
 
 
@@ -78,7 +71,7 @@ A daypack is just a smaller version of a backpack. Essentially they are both bac
 
 <hr>
 
-<h3 id="example"><a href="http://amzn.to/2hC19Q2" target="_blank" rel="nofollow">Marmot Kompressor Plus</a></h3>
+## Marmot Kompressor Plus
 
 
 <a ref="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00WMOK43K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00WMOK43K&linkCode=as2&tag=hikeve-20&linkId=c6862768bf226a57731b94c8d65c1fe5"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00WMOK43K&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00WMOK43K" width="1" height="1" border="0" alt="Marmot Kompressor Plus" style="border:none !important; margin:0px !important;" />
@@ -91,7 +84,7 @@ The Marmot Kompressor offers a breathable airmesh back panel and airmesh shoulde
 
 <hr>
 
-<h3><a href="http://amzn.to/2ikTBhR" target="_blank" rel="nofollow">Patagonia Ascensionist 25L</a></h3>
+## Patagonia Ascensionist 25L
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00KB63PBE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KB63PBE&linkCode=as2&tag=hikeve-20&linkId=a4b235d32a2cdaf76a67c153a97eb1aa"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00KB63PBE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00KB63PBE" width="1" height="1" border="0" alt="Patagonia Ascensionist 25L" style="border:none !important; margin:0px !important;" />
 
@@ -103,7 +96,7 @@ The Patagonia Ascensionist 25L might be an interested day pack for climbers. It 
 
 <hr>
 
-<h3><a href="http://amzn.to/2hzlqnS" target="_blank" rel="nofollow">Salomon S-LAB X ALP 20</a></h3>
+## Salomon S-LAB X ALP 20
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00LCAZH8C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LCAZH8C&linkCode=as2&tag=hikeve-20&linkId=e62bf6d8baba087cceb3066c8ac38c71"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00LCAZH8C&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00LCAZH8C" width="1" height="1" border="0" alt="Salomon S-LAB X ALP 20" style="border:none !important; margin:0px !important;" />
 
@@ -115,7 +108,7 @@ The Salomin S-LAB X ALP 20 has been designed for light and fast adventures in th
 
 <hr>
 
-<h3><a href="http://amzn.to/2il2BTV" target="_blank" rel="nofollow">Gregory MAYA 22</a></h3>
+## Gregory MAYA 22
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00HWWGGZM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HWWGGZM&linkCode=as2&tag=hikeve-20&linkId=21b070c61dcb14d0ff90367d337ffff9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00HWWGGZM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00HWWGGZM" width="1" height="1" border="0" alt="Gregory MAYA 22" style="border:none !important; margin:0px !important;" />
 
@@ -127,7 +120,7 @@ The Gregory Maya 22 comes with a BioSync Suspension that flexes and moves with y
 
 <hr>
 
-<h3><a href="http://amzn.to/2iMcidh" target="_blank" rel="nofollow">Osprey Packs Talon 22</a></h3>
+## Osprey Packs Talon 22
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00E0LGIOM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00E0LGIOM&linkCode=as2&tag=hikeve-20&linkId=82a7b6c5b252383f16206258e102cc51"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00E0LGIOM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00E0LGIOM" width="1" height="1" border="0" alt="Osprey Talon 22" style="border:none !important; margin:0px !important;" />
 
@@ -139,7 +132,7 @@ This Osprey Talon 22 comes with a mesh covered backpanel, single ice ace loop an
 
 <hr>
 
-<h3><a href="http://amzn.to/2iMIalR" target="_blank" rel="nofollow">Deuter Pace 36</a></h3>
+## Deuter Pace 36
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00N50DNKG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00N50DNKG&linkCode=as2&tag=hikeve-20&linkId=3484f18c5a49face10e8dd4845b5e767"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00N50DNKG&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00N50DNKG" width="1" height="1" border="0" alt="Deuter Pace 36" style="border:none !important; margin:0px !important;" />
 
@@ -151,7 +144,7 @@ The Deuter Pace 36 had been designed for fast and light alpine tours and multi-d
 
 <hr>
 
-<h3><a href="http://amzn.to/2ipjrUp" target="_blank" rel="nofollow">Thule Stir 35L</a></h3>
+## Thule Stir 35L
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01AC7KA4Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AC7KA4Q&linkCode=as2&tag=hikeve-20&linkId=f8eac96c1c7af2e85f7d8069ae10f8bd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01AC7KA4Q&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01AC7KA4Q" width="1" height="1" border="0" alt="Thule Stir 35L" style="border:none !important; margin:0px !important;" />
 
@@ -163,12 +156,12 @@ The Thule Stir 35L comes with multiple easy access pockets and a rain cover. Mor
 
 <hr>
 
-<h3><a href="http://amzn.to/2hC1baB" target="_blank" rel="nofollow">Arcteryx ARRO 22</a></h3>
+## Arc'teryx ARRO 22
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/B001255MSC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001255MSC&linkCode=as2&tag=hikeve-20&linkId=445597bfbeea5ca7469cfe8cfca2cb0e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001255MSC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001255MSC" width="1" height="1" border="0" alt="Arcteryx ARRO 22" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.com/gp/product/B001255MSC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001255MSC&linkCode=as2&tag=hikeve-20&linkId=445597bfbeea5ca7469cfe8cfca2cb0e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B001255MSC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B001255MSC" width="1" height="1" border="0" alt="Arc'teryx ARRO 22" style="border:none !important; margin:0px !important;" />
 
 **Weight:** 1100g
 
-The Arcteryx ARRO 22 comes with WaterTight® zipper, a hydration pocket, a Kangaroo pocket and two external pockets.
+The Arc'teryx ARRO 22 comes with WaterTight® zipper, a hydration pocket, a Kangaroo pocket and two external pockets.
 
 <a href="http://amzn.to/2hC1baB" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
