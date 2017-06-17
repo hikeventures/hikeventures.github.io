@@ -48,8 +48,6 @@ In this blog post I will present you my selection of the best ski gloves for 201
 </table>  
 </div>  
 
-<!—more—>
-
 ## Arc'teryx Gothic Glove
 
 <a  href="http://www.amazon.com/gp/product/B0128ZMB38/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0128ZMB38&linkCode=as2&tag=hikeve-20&linkId=FFSORBCFNMC4XSRF" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0128ZMB38&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0128ZMB38" width="1" height="1" border="0" alt="Arc’teryx Gothic Glove" style="border:none !important; margin:0px !important;" />  
@@ -62,7 +60,7 @@ The Arc’teryx Gothic Glove comes with ultra soft merino wool and an anatomical
 
 ## Black Diamond Patrol Gloves
 
-<a  href="http://www.amazon.com/gp/product/B00EOA9KP8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EOA9KP8&linkCode=as2&tag=hikeve-20&linkId=PQ5WOIXIL6LOB7JO" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00EOA9KP8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00EOA9KP8" width="1" height="1" border="0" alt="Black Diamond Patrol Gloves" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00QTDFM64/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QTDFM64&linkCode=as2&tag=hikeve-20&linkId=b6d20cbf017c4ac48a53239e33cadd8e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00QTDFM64&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00QTDFM64" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The Black Diamond Patrol Gloves are waterproof and come with a PrimoLoft One insulation and a Polartec Thermal Pro High Loft fleece. The gloves are suitable from 0 to 30 degrees Fahrenheit.  
 
@@ -82,27 +80,27 @@ The only downside on the Canada Goose Down Mittens is that they don’t have a r
 
 <hr>
 
-## Hestra Army Leather Heli 3-Finger Glove
+## Hestra Heli 3-Finger Glove
 
-<a  href="http://www.amazon.com/gp/product/B0153QFDXO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0153QFDXO&linkCode=as2&tag=hikeve-20&linkId=5RNHLQHTIVZ7K3GF" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0153QFDXO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0153QFDXO" width="1" height="1" border="0" alt="Hestra Army Leather Heli 3-Finger Glove" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01N79U3C3/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N79U3C3&linkCode=as2&tag=hikeve-20&linkId=3ea8c73cc41a879e57424ef36f262969"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01N79U3C3&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01N79U3C3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-The Hestra Army Leather Heli 3-Finger Glove comes with a removable liner and is wind- and waterproof.   
+The Hestra Heli 3-Finger Glove comes with a removable liner and is wind- and waterproof.
 
-The Hestra Army Leather Heli 3-Finger Glove has also a pre-curved design. One free-moving finger is just sufficient to operate for example a camera while the other fingers stay warm as in a mitten.   
+The Hestra Heli 3-Finger Glove has also a pre-curved design. One free-moving finger is just sufficient to operate for example a camera while the other fingers stay warm as in a mitten.
 
-If I were to buy new gloves then I would probably buy these gloves. There is also the <a href="http://amzn.to/2r5T7zz" rel="nofollow">Hestra Heli Ergo Grip Glove</a> available if you prefer to have a regular glove.  
+If I were to buy new gloves then I would probably buy these gloves. There is also the <a href="http://amzn.to/2r5T7zz" rel="nofollow">Hestra Heli Ergo Grip Glove</a> available if you prefer to have a regular glove.
 
 <a href="http://amzn.to/2s8C574" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
-## Icebreaker Oasis 200 Glove Liner
+## Icebreaker Glove Liner
 
-<a  href="http://www.amazon.com/gp/product/B00123O1X6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00123O1X6&linkCode=as2&tag=hikeve-20&linkId=RL26KBPHOCOLQWQ6" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00123O1X6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00123O1X6" width="1" height="1" border="0" alt="Icebreaker Oasis 200 Glove Liner" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B005GTHL7K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005GTHL7K&linkCode=as2&tag=hikeve-20&linkId=34903877d1358dc2e91d72422fe54145"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B005GTHL7K&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B005GTHL7K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-Not that expensive like the Arc’teryx Gothic Glove the Icebreaker Oasis 200 Glove Liner is a more affordable alternative with a similar quality.  
+The Arc’teryx Glove Liner adds additional warmth to your gloves if it’s very cold or if you prefer a layering system for your gloves.
 
-<a href="http://amzn.to/2r605Va" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
+<a href="http://amzn.to/2sDbArO" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -140,4 +138,4 @@ If you need additional warmth add a merino liner glove under your regular glove 
 
 There is also an option from Hestra available - the Hestra Army Leather Heli 3-Finger Glove - which sits in between mitts and gloves are probably also a good option for example if you need to handle a camera. This model is my favorite model of all gloves in this list.  
 
-However, you can also just take your main gloves off and operate your camera by just wearing the liner gloves. Once you have taken your picture you just put your main gloves back over the merino liner gloves. 
+However, you can also just take your main gloves off and operate your camera by just wearing the liner gloves. Once you have taken your picture you just put your main gloves back over the merino liner gloves.
