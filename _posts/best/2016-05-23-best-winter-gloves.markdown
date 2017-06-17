@@ -118,13 +118,12 @@ It comes with a Q.Shield DOWN 800-fill and is shielded by a waterproof, windproo
 
 ## Outdoor Research Alti Mittens
 
-<a  href="http://www.amazon.com/gp/product/B0059BIYJ4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0059BIYJ4&linkCode=as2&tag=hikeve-20&linkId=R5EWXJMGAYQ6KYOR" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0059BIYJ4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0059BIYJ4" width="1" height="1" border="0" alt="Outdoor Research Alti Mittens" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B0059BIVIS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0059BIVIS&linkCode=as2&tag=hikeve-20&linkId=39b768de461c225d69192e3896cb5fcb"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0059BIVIS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0059BIVIS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+The Outdoor Research Alti Mittens gloves have been designed for 8,000-meter peaks and Arctic expeditions.
 
-The Outdoor Research Alti Mittens gloves have been designed for 8,000-meter peaks and Arctic expeditions.   
+The OR Alti Mittens are made by breathable and waterproof GORE-TEX, high-loft Moonlite Pil fleece and water-resistant PrimaLoft Gold Insulation. It is also possible to remove the liners layer to dry them over the night.
 
-The OR Alti Mittens are made by breathable and waterproof GORE-TEX, high-loft Moonlite Pil fleece and water-resistant PrimaLoft Gold Insulation. It is also possible to remove the liners layer to dry them over the night.  
-
-<a href="http://amzn.to/2seAFsD" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
+<a href="http://amzn.to/2seAFsD" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
