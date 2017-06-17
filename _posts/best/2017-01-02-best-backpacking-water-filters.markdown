@@ -32,9 +32,7 @@ Here is our <a href="#list">selection</a> of the best water filters for 2017 whi
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9599019542/in/photolist-HA39Bz-tgvZvQ-pYV6mJ-o2XKm8-qGiB1v-fCeu5W-dupp9e-e51wE7" title="Best lightweight water filters 2017"><img src="https://c1.staticflickr.com/8/7459/9599019542_fa67333918_k.jpg" width="2048" height="1365" alt="Best lightweight water filters 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
----
-
-<h2 id="list">The best lightweight water filters of 2017</h2>
+<h2>The best lightweight water filters of 2017</h2>
 
 <div class="table-responsive">
       <table  class="table table-hover table-bordered list_items">
@@ -51,9 +49,7 @@ Here is our <a href="#list">selection</a> of the best water filters for 2017 whi
 </div>
 <!--more-->
 
-<hr>
-
-<h3 id="example"><a href="http://amzn.to/2kOYYW6" target="_blank" rel="nofollow">LifeStraw Personal Water Filter</a></h3>
+## LifeStraw Personal Water Filter
 
 
 <a target="_blank" rel="nofollow"  href="https://www.amazon.com/gp/product/B006QF3TW4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006QF3TW4&linkCode=as2&tag=hikeve-20&linkId=e3280e10d2bcee2e3196e64f56ef7af2"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B006QF3TW4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B006QF3TW4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -64,7 +60,7 @@ The Lifestraw Personal Water Filter is together with the Sawyer Mini Water Filte
 
 <hr>
 
-<h3><a href="http://amzn.to/2lZIqQl" target="_blank" rel="nofollow">Sawyer Mini Water Filtration System</a></h3>
+## Sawyer Mini Water Filtration System
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00FA2RLX2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FA2RLX2&linkCode=as2&tag=hikeve-20&linkId=4a93b2f515988b50dcb8f0cfd64b0406"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00FA2RLX2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00FA2RLX2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -74,7 +70,7 @@ The Sawyer Mini Water Filter is currently my go-to water filter when I go for a 
 
 <hr>
 
-<h3><a href="http://amzn.to/2lZGgjz" target="_blank" rel="nofollow">Katadyn Hiker Pro Microfilter</a></h3>
+## Katadyn Hiker Pro Microfilter
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B002CN82V2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002CN82V2&linkCode=as2&tag=hikeve-20&linkId=3b9076e0ab9c3e5a21b7e3bd287ec25f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B002CN82V2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B002CN82V2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -84,7 +80,7 @@ If you prefer a filter where you need to pump then the Katadyn Hiker Pro filter 
 
 <hr>
 
-<h3><a href="http://amzn.to/2qdeoXm" target="_blank" rel="nofollow">MSR TrailShot</a></h3>
+## MSR TrailShot
 
 <a target="_blank" rel="nofollow" href="https://www.amazon.com/gp/product/B01N7GC9Z6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N7GC9Z6&linkCode=as2&tag=hikeve-20&linkId=9cd4f46010c633f98715079e92777d85"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01N7GC9Z6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01N7GC9Z6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
