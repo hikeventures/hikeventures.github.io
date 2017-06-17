@@ -57,7 +57,7 @@ In most cases a lightweight rain jacket which does not need that much space in y
 
 ## Arc'teryx Zeta LT
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00Q837B50/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q837B50&linkCode=as2&tag=hikeve-20&linkId=Z43W3DTANP74O3MC"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q837B50&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q837B50" width="1" height="1" border="0" alt="Arc'teryx Zeta LT Jacket" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B0163TRSPG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0163TRSPG&linkCode=as2&tag=hikeve-20&linkId=256ef5ffb2ee5b1b8eaee24138b2fd1b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0163TRSPG&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0163TRSPG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 335 grams  
 **Fabric**: N40p-X 3L GORE-TEX  
@@ -73,27 +73,6 @@ However, I would not choose it for packrafting as the fabric N20p 3L is quite th
 The Norvan jacket is more suitable for runners or if you don’t wear a backpack.  
 
 <a href="http://amzn.to/2eTGFR8" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
-
-<hr>
-
-## Berghaus Vapourlight Hyper Smock 2.0
-
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00SHH9E3W/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SHH9E3W&linkCode=as2&tag=hikeve-20&linkId=FCQDAPPO56OTZDB3"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SHH9E3W&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00SHH9E3W" width="1" height="1" border="0" alt="Berghaus Vapourlight Hyper Smock 2.0" style="border:none !important; margin:0px !important;" />  
-
-**Weight**: 75 grams  
-**Fabric**: Hydroshell Hyper  
-
-The Berghaus Vapourlight Hyper Smock 2.0 is the lightest waterproof jacket in our selection.   
-
-With 75 grams it’s nearly invisible in your backpack but featuring even a a small pocket for essentials.   
-
-If you need a lightweight emergency jacket or a lightweight running jacket then the Berghaus Vapourlight Hyper Smock 2.0 should be your choice.   
-
-Be aware that such light jackets are not made to carry heavy load e.g. a backpack.   
-
-If you are into backpacking then have a look on the jackets below. the Berghaus Vapourlight Hyper Smock 2.0 won the Ispo Award 2014/2015.  
-
-<a href="http://amzn.to/2e34CD3" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -133,7 +112,7 @@ The Mountain Hardwear Plasmonic Jacket is one of the best selling jackets from M
 
 ## Outdoor Research Helium II
 
-<a  href="http://www.amazon.com/gp/product/B005BV88T8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005BV88T8&linkCode=as2&tag=hikeve-20&linkId=JO3FT2NIOPZSMMGK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005BV88T8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005BV88T8" width="1" height="1" border="0" alt="Outdoor Research Helium II Jacket" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01HV2PZ8G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01HV2PZ8G&linkCode=as2&tag=hikeve-20&linkId=d8cf2509b7f14b8cf1bc65f3ed70ce4c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01HV2PZ8G&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01HV2PZ8G" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 180 grams  
 **Fabric**: Pertex Shield, nylon ripstop (30D)  
