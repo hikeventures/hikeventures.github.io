@@ -16,7 +16,7 @@ Nowadays, there are several solution on the market. There are water filters wher
 
 Currently, I am using the Sawyer Mini Water Filtration System on my trips since it is very lightweight and does the job.
 
-In the past I have used the Katadyn Hiker Pro filter (as you can see on the picture below where I am filtering water on a [trip in Northern Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/)).
+In the past I have used the Katadyn Hiker Pro filter. As you can see on the picture below where I am filtering water on a [trip in Northern Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/).
 
 Also keep in mind that none of the water filters we have selected can filter out viruses. Filters with a carbon element gives the water a neutral taste.
 
