@@ -37,13 +37,13 @@ A wind jacket does not need much space so you can easily store it in your backpa
           <td><a href="http://amzn.to/2e32HhL" rel="nofollow" target="_blank">Patagonia Houdini</a></td><td>113g</td>  
         </tr>  
         <tr>  
-          <td><a href="http://amzn.to/2drJ00m" target="_blank" rel="nofollow">Arcteryx Incendo Hoody</a></td><td>130g</td>  
+          <td><a href="http://amzn.to/2drJ00m" target="_blank" rel="nofollow">Arc'teryx Incendo Hoody</a></td><td>130g</td>  
         </tr>  
         <tr>  
           <td><a href="http://amzn.to/2e9Y8pz" target="_blank" rel="nofollow">The North Face Fuseform Eragon</a></td><td>140g</td>  
         </tr>  
         <tr>  
-          <td><a href="http://amzn.to/2elVY64" target="_blank" rel="nofollow">Arcteryx Squamish Hoody</a></td><td>155g</td>  
+          <td><a href="http://amzn.to/2elVY64" target="_blank" rel="nofollow">Arc'teryx Squamish Hoody</a></td><td>155g</td>  
         </tr>  
         </tbody>  
 </table>  
@@ -51,7 +51,7 @@ A wind jacket does not need much space so you can easily store it in your backpa
 
 ## Arc'teryx Incendo Hoodie
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GW7ZHG2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZHG2&linkCode=as2&tag=hikeve-20&linkId=TRAIMP6VVV2WPE4A"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7ZHG2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7ZHG2" width="1" height="1" border="0" alt="Arcteryx Incendo Hoody" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GW7ZHG2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZHG2&linkCode=as2&tag=hikeve-20&linkId=TRAIMP6VVV2WPE4A"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7ZHG2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7ZHG2" width="1" height="1" border="0" alt="Arc'teryx Incendo Hoody" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 130 grams  
 **Fabric**: Luminara—Stretch nylon ripstop  
@@ -64,7 +64,7 @@ The Incendo Hoody is more a running jacket than a hiking jacket but could be an 
 
 ## Arc'teryx Squamish Hoodie
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00G9HPWU6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G9HPWU6&linkCode=as2&tag=hikeve-20&linkId=BWQUNX6BXF6UDSMC"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00G9HPWU6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00G9HPWU6" width="1" height="1" border="0" alt="Arcteryx Squamish Hoody" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00G9HPWU6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G9HPWU6&linkCode=as2&tag=hikeve-20&linkId=BWQUNX6BXF6UDSMC"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00G9HPWU6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00G9HPWU6" width="1" height="1" border="0" alt="Arc'teryx Squamish Hoody" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 155 grams  
 **Fabric**: Luminara—Stretch nylon ripstop  
