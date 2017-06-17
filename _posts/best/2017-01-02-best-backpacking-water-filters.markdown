@@ -10,6 +10,8 @@ tags:
   - water filters
 layout: post
 ---
+
+test
 In this blog post I would like to present you the best backpacking water filters for 2017 which I would take with me on my next hiking or backpacking trip.
 
 Nowadays, there are several solution on the market. There are water filters where you have to pump the water through the filter or filters which do not require any pump at all (and which are also my personal preference filters).
