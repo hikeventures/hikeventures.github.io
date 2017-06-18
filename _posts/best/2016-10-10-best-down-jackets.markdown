@@ -21,52 +21,52 @@ When I go hiking I usually wear a [fleece jacket](http://www.hikeventures.com/be
 
 <!--more-->
 
-### The best down jackets of 2017
+## The best down jackets of 2017
 
-<div class="table-responsive">
-      <table class="table table-hover table-bordered list_items">
-        <thead>
-             <tr>
-                <th>Down Jacket</th><th>Weight</th>
-             </tr>
-        </thead>
-        <tbody>
-        <tr>
-          <td><a href="http://amzn.to/2doK4aj" target="_blank" rel="nofollow">Mountain Hardware Ghost Whisperer Hooded Down Jacket (800 FP)</a></td><td>212 grams / 7.5 oz.</td>
-        </tr>
-       <tr>
-          <td><a href="http://amzn.to/2doJmJP" target="_blank" rel="nofollow">Arcteryx Cerium LT Hoody (850 FP)</a></td><td>275 grams / 9.7 oz. </td>
-        </tr>
-       <tr>
-          <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Ran Zero G (1000 FP)</a></td><td>310 grams / 11 oz.</td>
-        </tr>
-        <tr>
-          <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Marmot Quasar Hoody (850 FP)</a></td><td>372 grams / 13.1 oz.</td>
-        </tr>
-        <tr>
-          <td><a href="http://amzn.to/2dBjOHV" target="_blank" rel="nofollow">Arcteryx Cerium SV Hoody (850 FP)</a></td><td>440 grams / 15.5 oz.</td>
-        </tr>
-        <tr>
-          <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Patagonia Men’s Down Hooded Jacket (800 FP)</a></td><td>550 grams / 19.4 oz. </td>
-        </tr>
-        <tr>
-          <td><a href="http://amzn.to/2e9t7BZ" target="_blank" rel="nofollow">Rab Infinity Endurance Jacket (850 FP)</a></td><td>575 grams / 20.5 oz.</td>
-        </tr>
-        <tr>
-          <td><a href="http://amzn.to/2e7V1Mx" target="_blank" rel="nofollow">Rab Positron Jacket (800 FP)</a></td><td>720 grams / 25.4 oz.</td>
-        </tr>
-        <tr>
-          <td><a href="http://amzn.to/2endumN" target="_blank" rel="nofollow">Arcteryx Ceres Jacket (850 FP)</a></td><td>860 grams
-/ 30.5 oz.</td>
-        </tr>
-        <tr>
-          <td><a href="http://amzn.to/2i2OmBR" target="_blank" rel="nofollow">Canada Goose Expedition Parka (625 FP)</a></td><td>2070 grams / 73 oz. </td>
-        </tr>
-        </tbody>
-      </table>
+<div class="table-responsive">  
+      <table class="table table-hover table-bordered list_items">  
+        <thead>  
+             <tr>  
+                <th>Down Jacket</th><th>Weight</th>  
+             </tr>  
+        </thead>  
+        <tbody>  
+        <tr>  
+          <td><a href="http://amzn.to/2doK4aj" target="_blank" rel="nofollow">Mountain Hardware Ghost Whisperer Hooded Down Jacket (800 fill)</a></td><td>212 grams / 7.5 oz.</td>  
+        </tr>  
+       <tr>  
+          <td><a href="http://amzn.to/2doJmJP" target="_blank" rel="nofollow">Arcteryx Cerium LT Hoody (850 fill)</a></td><td>275 grams / 9.7 oz. </td>  
+        </tr>  
+       <tr>  
+          <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Ran Zero G (1000 FP)</a></td><td>310 grams / 11 oz.</td>  
+        </tr>  
+        <tr>  
+          <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Marmot Quasar Hoody (850 fill)</a></td><td>372 grams / 13.1 oz.</td>  
+        </tr>  
+        <tr>  
+          <td><a href="http://amzn.to/2dBjOHV" target="_blank" rel="nofollow">Arcteryx Cerium SV Hoody (850 fill)</a></td><td>440 grams / 15.5 oz.</td>  
+        </tr>  
+        <tr>  
+          <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Patagonia Men’s Down Hooded Jacket (800 fill)</a></td><td>550 grams / 19.4 oz. </td>  
+        </tr>  
+        <tr>  
+          <td><a href="http://amzn.to/2e9t7BZ" target="_blank" rel="nofollow">Rab Infinity Endurance Jacket (850 fill)</a></td><td>575 grams / 20.5 oz.</td>  
+        </tr>  
+        <tr>  
+          <td><a href="http://amzn.to/2e7V1Mx" target="_blank" rel="nofollow">Rab Positron Jacket (800 fill)</a></td><td>720 grams / 25.4 oz.</td>  
+        </tr>  
+        <tr>  
+          <td><a href="http://amzn.to/2endumN" target="_blank" rel="nofollow">Arcteryx Ceres Jacket (850 fill)</a></td><td>860 grams   
+/ 30.5 oz.</td>  
+        </tr>  
+        <tr>  
+          <td><a href="http://amzn.to/2i2OmBR" target="_blank" rel="nofollow">Canada Goose Expedition Parka (625 fill)</a></td><td>2070 grams / 73 oz. </td>  
+        </tr>  
+        </tbody>  
+      </table>  
 </div>
 
-## Arc'teryx Ceres Jacket (850 FP)
+## Arc'teryx Ceres Jacket (850 fill)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GV47ZVQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GV47ZVQ&linkCode=as2&tag=hikeve-20&linkId=W5UOOTWBV54OBDXF" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GV47ZVQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20"></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GV47ZVQ" width="1" height="1" border="0" alt="Arcteryx Ceres Jacket" style="border:none !important; margin:0px !important;" />  
 
@@ -80,7 +80,7 @@ This jacket is a probably a great option if you also want to have a fashionable 
 
 <hr>
 
-## Arc'teryx Cerium LT Hoody (850 FP)
+## Arc'teryx Cerium LT Hoody (850 fill)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00Q9MHXN0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q9MHXN0&linkCode=as2&tag=hikeve-20&linkId=Y5N4EYNVYQ5UDXXJ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q9MHXN0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q9MHXN0" width="1" height="1" border="0" alt="Arcteryx Cerium LT Hoody" style="border:none !important; margin:0px !important;"/>  
 
@@ -96,7 +96,7 @@ LT stands for lightweight in the Arc’teryx product line.
 
 <hr>
 
-## Arc'teryx Cerium SV Hoody (850 FP)
+## Arc'teryx Cerium SV Hoody (850 fill)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GW80Q9E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW80Q9E&linkCode=as2&tag=hikeve-20&linkId=WCQGDJJ5MREZ5EUX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW80Q9E&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW80Q9E" width="1" height="1" border="0" alt="Arcteryx Cerium SV Hoody" style="border:none !important; margin:0px !important;" />  
 
@@ -110,7 +110,7 @@ We would wear this jacket during the winter. For camping during spring and summe
 
 <hr>
 
-## Canada Goose Expedition Down Parka (625 FP)
+## Canada Goose Expedition Down Parka (625 fill)
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01KXUFDQC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01KXUFDQC&linkCode=as2&tag=hikeve-20&linkId=5aaf89773baa2dd8884a28b116bf9e3e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01KXUFDQC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01KXUFDQC" width="1" height="1" border="0" alt="Canada Goose Expedition Down Parka" style="border:none !important; margin:0px !important;" />  
 
@@ -120,7 +120,7 @@ The Canada Goose Expedition Down Parka was originally designed for scientists in
 
 <a href="http://amzn.to/2hMJNwd" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
-## Marmot Quasar Hoody (900 FP)
+## Marmot Quasar Hoody (900 fill)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00DNNZ3KI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DNNZ3KI&linkCode=as2&tag=hikeve-20&linkId=UITTBILMF3IBYVRI"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DNNZ3KI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DNNZ3KI" width="1" height="1" border="0" alt="Marmot Quasar Hoody" style="border:none !important; margin:0px !important;" />  
 
@@ -136,7 +136,7 @@ We would wear the Marmot Quasar Hoody during moderate winter or camping during s
 
 <hr>
 
-## Mountain Hardware Ghost Whisperer Hooded Down Jacket (800 FP)
+## Mountain Hardware Ghost Whisperer Hooded Down Jacket (800 fill)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GULW0DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GULW0DS&linkCode=as2&tag=hikeve-20&linkId=RSEZE3QFDW2FVB3A" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GULW0DS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GULW0DS" width="1" height="1" border="0" alt="Mountain Hardware Ghost Whisperer Hooded Down Jacket" style="border:none !important; margin:0px !important;" />  
 
@@ -154,7 +154,7 @@ For a stylish jacket to use during winter mainly in town we would go for the Arc
 
 <hr>
 
-## Patagonia Men's Down Hooded Jacket (800 FP)
+## Patagonia Men's Down Hooded Jacket (800 fill)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00OZGABKY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OZGABKY&linkCode=as2&tag=hikeve-20&linkId=OLFQERZDADI4UC3J"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00OZGABKY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00OZGABKY" width="1" height="1" border="0" alt="Patagonia Men’s Down Hooded Jacket" style="border:none !important; margin:0px !important;" />  
 
@@ -168,7 +168,7 @@ The shell of the jacket is durable water repellent. The Patagonia Men’s Down H
 
 <hr>
 
-## Rab Infinity Endurance Jacket (850 FP)
+## Rab Infinity Endurance Jacket (850 fill)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00DTT6DXC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DTT6DXC&linkCode=as2&tag=hikeve-20&linkId=N7SHBEPWSYPV25ZK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DTT6DXC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DTT6DXC" width="1" height="1" border="0" alt="Rab Infinity Endurance Jacket" style="border:none !important; margin:0px !important;" />  
 
@@ -184,7 +184,7 @@ If you need a warmer jacket then the Rab Positron Jacket would be an alternative
 
 <hr>
 
-## Rab Positron Jacket (800 FP)
+## Rab Positron Jacket (800 fill)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00XJO2X18/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00XJO2X18&linkCode=as2&tag=hikeve-20&linkId=5POHXUOALSVWVY2B"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00XJO2X18&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00XJO2X18" width="1" height="1" border="0" alt="Rab Positron Jacket" style="border:none !important; margin:0px !important;" />  
 
@@ -200,7 +200,7 @@ This jacket delivers about 30% more warmth than the Rab Infinity Endurance jacke
 
 <hr>
 
-## Rab Zero G Jacket (1000 FP)
+## Rab Zero G Jacket (1000 fill)
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01IEUC98I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IEUC98I&linkCode=as2&tag=hikeve-20&linkId=9aa3a48e1b4a90d72d101f4f4ea2dd99"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01IEUC98I&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01IEUC98I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
@@ -210,4 +210,4 @@ Rab is a specialists in down clothing and down sleeping bags and this is also ev
 
 This is one of the lightest 1000 fill power down jacket on the market.  
 
-<a href="http://amzn.to/2tgnftp" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://amzn.to/2tgnftp" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
