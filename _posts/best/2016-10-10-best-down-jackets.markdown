@@ -22,47 +22,47 @@ When I go hiking I usually wear a [fleece jacket](http://www.hikeventures.com/be
 
 ### The best down jackets of 2017
 
-<div class="table-responsive">  
-      <table class="table table-hover table-bordered list_items">  
-        <thead>  
-             <tr>  
-                <th>Down Jacket</th><th>Weight</th>  
-             </tr>  
-        </thead>  
-        <tbody>  
-        <tr>  
-          <td><a href="http://amzn.to/2doK4aj" target="_blank" rel="nofollow">Mountain Hardware Ghost Whisperer Hooded Down Jacket (800fp)</a></td><td>212 grams / 7.5 oz.</td>  
-        </tr>  
-       <tr>  
-          <td><a href="http://amzn.to/2doJmJP" target="_blank" rel="nofollow">Arcteryx Cerium LT Hoody (850fp)</a></td><td>275 grams / 9.7 oz. </td>  
-        </tr>  
+<div class="table-responsive">
+      <table class="table table-hover table-bordered list_items">
+        <thead>
+             <tr>
+                <th>Down Jacket</th><th>Weight</th>
+             </tr>
+        </thead>
+        <tbody>
         <tr>
-          <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Ran Zero G (1000fp)</a></td><td>310 grams / 11 oz.</td>
+          <td><a href="http://amzn.to/2doK4aj" target="_blank" rel="nofollow">Mountain Hardware Ghost Whisperer Hooded Down Jacket (800 FP)</a></td><td>212 grams / 7.5 oz.</td>
         </tr>
-        <tr>  
-          <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Marmot Quasar Hoody (850fp)</a></td><td>372 grams / 13.1 oz.</td>  
-        </tr>  
-        <tr>  
-          <td><a href="http://amzn.to/2dBjOHV" target="_blank" rel="nofollow">Arcteryx Cerium SV Hoody (850fp)</a></td><td>440 grams / 15.5 oz.</td>  
-        </tr>  
-        <tr>  
-          <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Patagonia Men’s Down Hooded Jacket (800fp)</a></td><td>550 grams / 19.4 oz. </td>  
-        </tr>  
-        <tr>  
-          <td><a href="http://amzn.to/2e9t7BZ" target="_blank" rel="nofollow">Rab Infinity Endurance Jacket (850fp)</a></td><td>575 grams / 20.5 oz.</td>  
-        </tr>  
-        <tr>  
-          <td><a href="http://amzn.to/2e7V1Mx" target="_blank" rel="nofollow">Rab Positron Jacket (800fp)</a></td><td>720 grams / 25.4 oz.</td>  
-        </tr>  
-        <tr>  
-          <td><a href="http://amzn.to/2endumN" target="_blank" rel="nofollow">Arcteryx Ceres Jacket (850fp)</a></td><td>860 grams   
-/ 30.5 oz.</td>  
-        </tr>  
-        <tr>  
-          <td><a href="http://amzn.to/2i2OmBR" target="_blank" rel="nofollow">Canada Goose Expedition Parka (625fp)</a></td><td>2070 grams / 73 oz. </td>  
-        </tr>  
-        </tbody>  
-      </table>  
+       <tr>
+          <td><a href="http://amzn.to/2doJmJP" target="_blank" rel="nofollow">Arcteryx Cerium LT Hoody (850 FP)</a></td><td>275 grams / 9.7 oz. </td>
+        </tr>
+       <tr>
+          <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Ran Zero G (1000 FP)</a></td><td>310 grams / 11 oz.</td>
+        </tr>
+        <tr>
+          <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Marmot Quasar Hoody (850 FP)</a></td><td>372 grams / 13.1 oz.</td>
+        </tr>
+        <tr>
+          <td><a href="http://amzn.to/2dBjOHV" target="_blank" rel="nofollow">Arcteryx Cerium SV Hoody (850 FP)</a></td><td>440 grams / 15.5 oz.</td>
+        </tr>
+        <tr>
+          <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Patagonia Men’s Down Hooded Jacket (800 FP)</a></td><td>550 grams / 19.4 oz. </td>
+        </tr>
+        <tr>
+          <td><a href="http://amzn.to/2e9t7BZ" target="_blank" rel="nofollow">Rab Infinity Endurance Jacket (850 FP)</a></td><td>575 grams / 20.5 oz.</td>
+        </tr>
+        <tr>
+          <td><a href="http://amzn.to/2e7V1Mx" target="_blank" rel="nofollow">Rab Positron Jacket (800 FP)</a></td><td>720 grams / 25.4 oz.</td>
+        </tr>
+        <tr>
+          <td><a href="http://amzn.to/2endumN" target="_blank" rel="nofollow">Arcteryx Ceres Jacket (850 FP)</a></td><td>860 grams
+/ 30.5 oz.</td>
+        </tr>
+        <tr>
+          <td><a href="http://amzn.to/2i2OmBR" target="_blank" rel="nofollow">Canada Goose Expedition Parka (625 FP)</a></td><td>2070 grams / 73 oz. </td>
+        </tr>
+        </tbody>
+      </table>
 </div>
 
 ### Arc'teryx Ceres Jacket (850fp)
