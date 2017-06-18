@@ -36,6 +36,9 @@ When I go hiking I usually wear a [fleece jacket](http://www.hikeventures.com/be
        <tr>  
           <td><a href="http://amzn.to/2doJmJP" target="_blank" rel="nofollow">Arcteryx Cerium LT Hoody (850fp)</a></td><td>275 grams / 9.7 oz. </td>  
         </tr>  
+        <tr>
+          <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Ran Zero G (1000fp)</a></td><td>310 grams / 11 oz.</td>
+        </tr>
         <tr>  
           <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Marmot Quasar Hoody (850fp)</a></td><td>372 grams / 13.1 oz.</td>  
         </tr>  
