@@ -10,17 +10,13 @@ tags:
   - day packs
 layout: post
 ---
+In this blog post I would like to present you the best day packs which I would consider carry if I were to buy a new one.
 
-Do you need a new lightweight hiking daypack? A day pack is a great choice if you plan to do a shorter trip while carrying some gear with you e.g. climbing, hiking or on a normal day in the city.
+A day pack is a great choice if you plan to do a shorter trip while carrying some gear with you e.g. climbing, hiking or on a normal day in the city.
 
-They weight much less than a regular backpack and you will enjoy your day outside much more if you have to carry less with you.
+A day pack weights much less than a regular backpack and you will be able to enjoy your day outside much more if you have to carry less with you.
 
 I have included a broad range of day packs. Some are more durable or offer more features while also weight a bit more while other day packs are more light and minimalistic.
-
-Here is our <a href="#list">selection</a> of the best day packs for 2017 which we have selected to cover your summer and winter day trips.
-
-## Daypack vs. Backpack
-A daypack is just a smaller version of a backpack. Essentially they are both backpacks.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27817737344/in/photolist-Joaba7-KcEQhr-KcERsH-KjCz84-JTCe1f-KamS4G-KamLK5-Ne2YZK-F7oFw8-EVU9jS-F25vip-BUd4Wr-BRUqUh-AWN6Re-BUd3Z6-BkGdVV-AWG9Vd-Bs5pNh-AWN6px-BJBRNh-AWG9Eo-AWN6tv-Bs5opf-Bs5pk3-BJBQYG-BJBRV1-BUd456-BRUr2m-BkGcvv-BJBRgA-BkGcWa-AWN69x-BJBRwf-BkGcZM-BkGd68-Bs5p2Y-Bs5p4m-AWGar3-BUd3Ur-AWGaJY-BkGdAX-fCewqJ-fCepqs-fBZ532-fBZbWn-qNh6yH-BLVuGF-BLVuK6-zkUBfC-E1hZc9" title="Best Day Packs 2017"><img src="https://c1.staticflickr.com/9/8699/27817737344_1645a0bd95_b.jpg" width="1024" height="684" alt="Best Day Packs 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -67,9 +63,6 @@ A daypack is just a smaller version of a backpack. Essentially they are both bac
 
       </table>
 </div>
-<!--more-->
-
-<hr>
 
 ## Marmot Kompressor Plus
 
@@ -78,7 +71,9 @@ A daypack is just a smaller version of a backpack. Essentially they are both bac
 
 **Weight:** 370g
 
-The Marmot Kompressor offers a breathable airmesh back panel and airmesh shoulder straps. There are also side bottle pockets on the backpack and a hydration port. It's also possible to attach trekking poles. The backpack is also compressible.
+The Marmot Kompressor offers a breathable air mesh back panel and air mesh shoulder straps.
+
+There are also side bottle pockets on the backpack and a hydration port. It's also possible to attach trekking poles. Moreover, the backpack is also compressible.
 
 <a href="http://amzn.to/2hC19Q2" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
@@ -90,7 +85,11 @@ The Marmot Kompressor offers a breathable airmesh back panel and airmesh shoulde
 
 **Weight:** 425g
 
-The Patagonia Ascensionist 25L might be an interested day pack for climbers. It comes with a lightweight abrasion-resistant nylon ripstop and adjustable ice axe loops. There are also daisy chains to attach additional gear to the backpack.
+The Patagonia Ascensionist 25L might be an interested day pack for climbers.
+
+It comes with a lightweight abrasion-resistant nylon ripstop and adjustable ice axe loops.
+
+Further, there are also daisy chains to attach additional gear to the backpack.
 
 <a href="http://amzn.to/2ikTBhR" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
@@ -102,7 +101,11 @@ The Patagonia Ascensionist 25L might be an interested day pack for climbers. It 
 
 **Weight:** 600g
 
-The Salomin S-LAB X ALP 20 has been designed for light and fast adventures in the high mountains. It enables freedom of movement and includes a protective extrem gear box for crampons, a ski-carrying system and 2 ice axe loops. There is also a front flask storage on the backpack.
+The Salomon S-LAB X ALP 20 has been designed for light and fast adventures in the high mountains.
+
+It enables freedom of movement and includes a protective extrem gear box for crampons, a ski-carrying system and 2 ice axe loops.
+
+There is also a front flask storage on the backpack.
 
 <a href="http://amzn.to/2hzlqnS" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Salomon S-LAB X ALP 20</button></a>
 
@@ -126,7 +129,7 @@ The Gregory Maya 22 comes with a BioSync Suspension that flexes and moves with y
 
 **Weight:** 810g
 
-This Osprey Talon 22 comes with a mesh covered backpanel, single ice ace loop and trekking pole attachment, a bike helmet attachment and an emergency whistle. There is also room for additional gear in the front pocket, side pockets and an external hydration access.
+This Osprey Talon 22 comes with a mesh covered back panel, single ice ace loop and trekking pole attachment, a bike helmet attachment and an emergency whistle. There is also room for additional gear in the front pocket, side pockets and an external hydration access.
 
 <a href="http://amzn.to/2iMcidh" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">See the Osprey Packs Talon 22</button></a>
 
@@ -150,7 +153,9 @@ The Deuter Pace 36 had been designed for fast and light alpine tours and multi-d
 
 **Weight:** 997g
 
-The Thule Stir 35L comes with multiple easy access pockets and a rain cover. Moreover it comes with a removable hipbelt and there is also a pocket to attach your phone on the shoulder strap. The front pocket let's you also store and access gear quickly. Then there is also the possibility to attach hiking poles and ice axes on the Thule Stir.
+The Thule Stir 35L comes with multiple easy access pockets and a rain cover. Moreover it comes with a removable hip belt and there is also a pocket to attach your phone on the shoulder strap.
+
+The front pocket let's you also store and access gear quickly. Then there is also the possibility to attach hiking poles and ice axes on the Thule Stir.
 
 <a href="http://amzn.to/2ipjrUp" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
