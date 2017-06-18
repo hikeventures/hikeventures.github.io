@@ -11,6 +11,10 @@ tags:
 layout: post
 ---
 
+<a href="https://www.amazon.com/Arcteryx-Ceres-Jacket-Twinleaf-Medium/dp/B00Q7YR4HA/ref=as_li_ss_il?ie=UTF8&qid=1497786544&sr=8-1&keywords=Arcteryx+Ceres+Jacket&linkCode=li1&tag=hikeve-20&linkId=e1df488174e11b15a6c94acf2fb3509d" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q7YR4HA&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li1&o=1&a=B00Q7YR4HA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+
 In this blog post I would like to present you my selection of the best down jackets of 2017 which I would consider if I were to buy a new one.  
 
 A down jacket is one of the most essential piece of clothes when planning a trip outdoors with a tent. A down jacket keeps you much warmer compared to a fleece.  
