@@ -17,13 +17,6 @@ A down jacket is one of the most essential piece of clothes when planning a trip
 
 When I go hiking I usually wear a [fleece jacket](http://www.hikeventures.com/best-fleece-jackets/) and once I am in my camp I switch my fleece to a down jacket. If you plan to camp in more humid conditions then I would advice you to take rather an [synthetic insulated jacket](http://www.hikeventures.com/best-synthetic-insulated-jackets/) with you than a down jacket since down does not insulate once it gets wet.   
 
-| Tables                                         |      Are      |  Cool |
-|:-----------------------------------------------|:-------------:|------:|
-| col 3 is                                       | right-aligned | $1600 |
-| col 2 is                                       |   centered    |   $12 |
-| <a href="http://www.hikeventures.com">test</a> |   are neat    |    $1 |
-
-
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15913311563/in/photolist-rbV6xu-qUqxwU-qfcT7K-qUxMCM-qUzFAa-qUxMti-rbV7gy-rbV7GU-rc1CbB-r9Hef3-qUzGQK-r9HdQA-r9HdZU-qUxN4g-rbV4BL-qUxNTH-qUxP2D-rbRHKM-qfcV5n-rc1DjZ-qUxKka-qUxPwM-qffws2-qUqAaj-qeZFSf-qUqAsU-qUzE8R-qUqwrC-qeZGDf-qUqAQh-qUqBzd-qUzEbM-qfcXtF-rc1Fx6-rbVb1C-qUxL2v-r9KRpJ-qUxRW6-qUrMdb-qeZAQ1-qUrFbG-qUrFf9-r9Hc7q-qUrMpy-qfcWc2-qFsUGz-qUzEQT-qSuGqw-rc1AL2-r9Hcwo/" title="Lapland Finland"><img src="https://c1.staticflickr.com/8/7379/15913311563_d90e96b2c3_k.jpg" width="2048" height="1360" alt="Lapland Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 <!--more-->
