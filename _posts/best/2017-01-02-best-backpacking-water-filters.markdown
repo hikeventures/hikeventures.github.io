@@ -1,6 +1,7 @@
 ---
-title: Best backpacking water filters for 2017
-description: An overview of lightweight water filters for your next hiking and backpacking trip.
+title: Best lightweight backpacking water filters for 2017
+description: An
+ of lightweight water filters for your next hiking and backpacking trip.
 date: 2017-01-02 20:43:52
 update_date: 2017-01-02 23:30:52
 category: articles
@@ -11,7 +12,6 @@ tags:
 layout: post
 ---
 
-test
 In this blog post I would like to present you the best backpacking water filters for 2017 which I would take with me on my next hiking or backpacking trip.
 
 Nowadays, there are several solution on the market. There are water filters where you have to pump the water through the filter or filters which do not require any pump at all (and which are also my personal preference filters).
@@ -26,9 +26,7 @@ The water filters which I have selected should not be used with salt water or wi
 
 To remove viruses you can combine a filter with e.g. the Steripen Freedom (we have not tested if it effectively removes viruses).
 
-The Steripen uses an UV light against Viruses and can be recharged through the USB port. Also have a look at our <a href="#interview">interview</a> at the end of this article.
-
-Here is our <a href="#list">selection</a> of the best water filters for 2017 which I  have selected for hiking and backpacking.
+The Steripen uses an UV light against Viruses and can be recharged through the USB port. Also have a look at our interview at the end of this article.
 
 ---
 
@@ -49,7 +47,6 @@ Here is our <a href="#list">selection</a> of the best water filters for 2017 whi
 </a></td><td><a rel="nofollow" href="http://amzn.to/2lZIqQl" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy1.gif"></a></td><td><a rel="nofollow" href="http://amzn.to/2lZGgjz" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy1.gif"></a></td><td><a rel="nofollow" href="http://amzn.to/2qdeoXm" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy1.gif"></a></td></tr>
         </tbody></table>
 </div>
-<!--more-->
 
 ## LifeStraw Personal Water Filter
 
