@@ -199,35 +199,7 @@ So our solution for this is Thermoball, which is a synthetic version here. Basic
 
 So really one of the big benefits here compared to down. Even if it's wet or if it's damp, or a little bit clumped, it keeps the insulation properties.  
 
-So that's one of the innovations that we have. We apply it to various different products.  A lot of jackets and snow sports where we apply this.  
-
-So Michael, what's the next interesting product that you're going to show us?  
-
-So the next product I want to show is our new FuseForm running jacket in the Flight Series. So whenever you use a rain jacket for running, it's great, nothing goes inside.  
-
-But the problem is breathability is very bad, so nothing goes outside, so you get really, really wet, even ... yeah, it's just from the inside from the sweat.  
-
-So we wanted to create a jacket that is for the rain but way more breathable than anything else. So what we did is we applied the FuseForm technology to this jacket.  
-
-And you see there's highlighted holes here. So basically, we took the membrane, perforated it, and then applied it back onto the outer layer.  
-
-So way more breathable than any other kind of rain jacket you find out there on the market. So really targeted to the trail runner out there who needs to have some protection when running in the rain.  
-
-The third product?  
-
-So the third product is our Ultra MT Winter, which is a running shoe really to the trail runner who goes out in really bad conditions.  
-
-So the special thing on this shoe is ... So we have the special outsole from Vibram, which is an ice pick sole. So it gives a lot of traction on cold conditions when you walk in ice or in snow.  
-
-The other element we put in ... You see this top part here? It's actually not a boot. It's still a single shoe, but we integrated this Neo cage right here so really to give you all this protection when you're running through the snow so the snow doesn't fall into there.  
-
-So in this case, it resembles basically those boots with the protection that you had before?  
-
-Exactly. It kind of resembles this. So to make it really . So the whole front part of the shoe, it's waterproof. So you have a membrane in here.  
-
-But the problem is, if you put a shoe with a full membrane, again, it gets too hot. So to add a bit more breathability, we added this Neoprene cage on the top part here.  
-
-So this area's waterproof, so you have some protection for the rain, and you also have some breathability to it. So it really makes it the ideal tool for running in harsh winter conditions.
+So that's one of the innovations that we have. We apply it to various different products.  A lot of jackets and snow sports where we apply this. 
 
 [1]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/
 [2]:	http://www.hikeventures.com/Packrafting-River-Dee-Scotland-1/
