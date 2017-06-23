@@ -12,7 +12,7 @@ tags:
   - Adidas
 layout: post
 ---
-On our visit to the OutDoor Show 2017 in Friedrichshafen we had the chance to interview Adidas about some of their latest products.
+During our visit to the OutDoor Show 2017 in Friedrichshafen, we had the chance to interview Adidas about some of their latest products.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/SRuUvxdM5XA"></iframe>
