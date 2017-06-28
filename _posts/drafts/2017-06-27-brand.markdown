@@ -1,0 +1,26 @@
+---
+published: false
+title: Hiking in Brand - Austria
+description: Exploring Hiking Trails in Brand
+date: 2017-06-05 18:14:01
+category: articles
+tags:
+  - articles
+  - show
+  - Brand
+  - Austrian
+  - trips
+layout: post
+---
+Brand (1005m)
+
+## Lünersee and Douglas Hut
+
+## Natursprünge, Dorfbahn and Panoramabahn
+
+## Parpfienz (1390m)
+
+### Burtschasattel (1680m)
+Restaurant Frood
+Innere Parpfienzalpe
+Barfussweg
