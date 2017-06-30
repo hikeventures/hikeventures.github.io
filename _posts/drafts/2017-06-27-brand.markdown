@@ -1,7 +1,7 @@
 ---
 published: false
-title: Hiking in Brand - Austria
-description: Exploring Hiking Trails in Brand
+title: Natursprünge trail in Brand
+description: Exploring the Natursprünge trail in Brand
 date: 2017-06-05 18:14:01
 category: articles
 tags:
@@ -12,13 +12,28 @@ tags:
   - trips
 layout: post
 ---
-Brand (1005m)
+Length: 4 km
+Walking Time: ca. 2 h
+Parking facilities: at the Dorfbahn cable car in Brand
+Extras for Families: buggy friendly, you are able to rent some handcart to transport the little ones.
+Extras for Families with infants: you can start at the Panorama cable car summit station, which means a shorter and easier walking part.
 
-## Lünersee and Douglas Hut
+The new Natursprünge-trail is the ideal walking path for the whole family.
+Spend your precious time making new experiences at the educational stations or just join
+the imposing view while your small ones are playing at natural children`s playground at the restaurant Frööd.
+Learn stunning facts about the Vorarlberger ecology and join the brandnertaler alps.
+
+For culinary enjoyments there are multiple stops possible. The alp Parpfienz or the restaurant Frööd invites you and your family with pleasure.
+
+
+Tip for families and infants: Start at the Panorama cable car summit station for a shorter and easier walk.
+
+
+Brand (1005m)
 
 ## Natursprünge, Dorfbahn and Panoramabahn
 
-## Parpfienz (1390m)
+### Parpfienz (1390m)
 
 ### Burtschasattel (1680m)
 Restaurant Frood
