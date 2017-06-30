@@ -4,6 +4,7 @@ description: Find the best headlamps for your next outdoor adventure
 date: 2016-01-03 23:02:20
 update_date: 2016-12-27 06:00:52
 category: articles
+image: https://c1.staticflickr.com/9/8270/15581097668_01223b886d_k.jpg
 tags:
   - articles
   - best
@@ -21,7 +22,7 @@ Personally, I like the Petzl NAO+ most since it has plenty of features and also 
 
 However, if you are looking for a smaller headlamp which is also waterproof then I would rather pick the <a href="http://amzn.to/2fkaiqv" rel="nofollow">Black Diamond Spot</a> which features red light and 200 Lumen - sufficient for hiking even in the Alps.  
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15581097668/in/photolist-pJRcuY-nbZrcA-nbXFbR-n9UVEg-hXNmLH-hXMK7h-hXMq24-hXNm3Z-dXbkpf-dL8yRc-dNuTzR-dNAuXb" title="Best headlamps 2017"><img src="https://c1.staticflickr.com/9/8270/15581097668_01223b886d_k.jpg" width="2048" height="1367" alt="Best headlamps 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15581097668/in/photolist-pJRcuY-nbZrcA-nbXFbR-n9UVEg-hXNmLH-hXMK7h-hXMq24-hXNm3Z-dXbkpf-dL8yRc-dNuTzR-dNAuXb" title="Best headlamps 2017"><amp-img src="https://c1.staticflickr.com/9/8270/15581097668_01223b886d_k.jpg" width="2048" height="1367" layout="responsive" alt="Best headlamps 2017"></amp-img></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <!--more-->
 
@@ -68,7 +69,7 @@ However, if you are looking for a smaller headlamp which is also waterproof then
 
 ## Black Diamond Icon
 
-<a href="http://www.amazon.com/gp/product/B005FNCPBE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005FNCPBE&linkCode=as2&tag=hikeve-20&linkId=WBUHJA3GU3TCBJXQ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005FNCPBE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005FNCPBE" width="1" height="1" border="0" alt="Black Diamond Icon" style="border:none !important; margin:0px !important;" />  
+<a href="http://www.amazon.com/gp/product/B005FNCPBE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005FNCPBE&linkCode=as2&tag=hikeve-20&linkId=WBUHJA3GU3TCBJXQ" rel="nofollow"><amp-img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005FNCPBE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" width="250" height="187" layout="responsive" ></amp-img></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005FNCPBE" width="1" height="1" border="0" alt="Black Diamond Icon" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 230 grams / 0.5 lbs  
 **Lumen**: 500  
@@ -86,7 +87,7 @@ However, with its external battery it needs probably more room in your backpack 
 
 ## Black Diamond Storm
 
-<a href="http://www.amazon.com/gp/product/B00H3MXOQU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00H3MXOQU&linkCode=as2&tag=hikeve-20&linkId=A2I5SXTJTBEA7KOK" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00H3MXOQU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00H3MXOQU" width="1" height="1" border="0" alt="Black Diamond Storm" style="border:none !important; margin:0px !important;" />  
+<a href="http://www.amazon.com/gp/product/B00H3MXOQU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00H3MXOQU&linkCode=as2&tag=hikeve-20&linkId=A2I5SXTJTBEA7KOK" rel="nofollow"><amp-img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00H3MXOQU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" width="250" height="106" layout="responsive" ></amp-img></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00H3MXOQU" width="1" height="1" border="0" alt="Black Diamond Storm" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 110 grams / 0.24 lbs  
 **Lumen**: 250  
@@ -100,7 +101,7 @@ The Black Diamond Storm is a little bit heavier than the Petzl Tikka XP. The Sto
 
 ## Petzl e+LITE
 
-<a href="http://www.amazon.com/gp/product/B008AUBOTS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008AUBOTS&linkCode=as2&tag=hikeve-20&linkId=V5A2XQXJ3LK3X3NP" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008AUBOTS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B008AUBOTS" width="1" height="1" border="0" alt="Petzl e+LITE" style="border:none !important; margin:0px !important;" />  
+<a href="http://www.amazon.com/gp/product/B008AUBOTS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008AUBOTS&linkCode=as2&tag=hikeve-20&linkId=V5A2XQXJ3LK3X3NP" rel="nofollow"><amp-img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008AUBOTS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" width="250" height="250" layout="responsive" ></amp-img></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B008AUBOTS" width="1" height="1" border="0" alt="Petzl e+LITE" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 27 grams / 0.06 lbs  
 **Lumen**: 26  
@@ -120,7 +121,7 @@ If you want to see more into the distance then this is probably not the headlamp
 
 ## Petzl NAO+
 
-<a target="_blank" rel="nofollow"  href="https://www.amazon.com/gp/product/B01GFPMEXY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GFPMEXY&linkCode=as2&tag=hikeve-20&linkId=7692c42c112d14f3972fcff2c3a6f9a8"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01GFPMEXY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01GFPMEXY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a target="_blank" rel="nofollow"  href="https://www.amazon.com/gp/product/B01GFPMEXY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GFPMEXY&linkCode=as2&tag=hikeve-20&linkId=7692c42c112d14f3972fcff2c3a6f9a8"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01GFPMEXY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="250" height="250" layout="responsive" ></amp-img></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01GFPMEXY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 187 grams / 0.4 lbs  
 **Lumen**: 750  
@@ -146,7 +147,7 @@ You can also get an additional <a href="http://amzn.to/2dRcQxe" rel="nofollow">r
 
 ## Petzl Tikka RXP
 
-<a href="http://www.amazon.com/gp/product/B00BA4R43Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BA4R43Q&linkCode=as2&tag=hikeve-20&linkId=BMMHTF6L4KCESYEM" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BA4R43Q&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00BA4R43Q" width="1" height="1" border="0" alt="Petzl Tikka RXP" style="border:none !important; margin:0px !important;" />  
+<a href="http://www.amazon.com/gp/product/B00BA4R43Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BA4R43Q&linkCode=as2&tag=hikeve-20&linkId=BMMHTF6L4KCESYEM" rel="nofollow"><amp-img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BA4R43Q&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" width="250" height="250" layout="responsive" ></amp-img></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00BA4R43Q" width="1" height="1" border="0" alt="Petzl Tikka RXP" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 115 grams / 0.25 lbs  
 **Lumen**: 215  
@@ -172,7 +173,7 @@ Personally, I think reactive lightning is a nice to have feature but not somethi
 
 ## Princeton Tec Apex
 
-<a href="http://www.amazon.com/gp/product/B00F5EA7LI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F5EA7LI&linkCode=as2&tag=hikeve-20&linkId=CBMFG5EQHMBGE3I5" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00F5EA7LI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00F5EA7LI" width="1" height="1" border="0" alt="Princeton Tec Apex" style="border:none !important; margin:0px !important;" />  
+<a href="http://www.amazon.com/gp/product/B00F5EA7LI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F5EA7LI&linkCode=as2&tag=hikeve-20&linkId=CBMFG5EQHMBGE3I5" rel="nofollow"><amp-img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00F5EA7LI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" width="250" height="209" layout="responsive" ></amp-img></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00F5EA7LI" width="1" height="1" border="0" alt="Princeton Tec Apex" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 279 grams / 0.62 lbs  
 **Lumen**: 275  
@@ -190,7 +191,7 @@ Unfortunately, this headlamp does not offer any recharging possibilities via USB
 
 ## Zebralight 600 MK II
 
-<a href="http://www.amazon.com/gp/product/B00HIW1I2C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HIW1I2C&linkCode=as2&tag=hikeve-20&linkId=SXRO3IZVWEGIXOPW" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HIW1I2C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00HIW1I2C" width="1" height="1" border="0" alt="Zebralight H600 Mk II 18650 XM-L2" style="border:none !important; margin:0px !important;" />  
+<a href="http://www.amazon.com/gp/product/B00HIW1I2C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HIW1I2C&linkCode=as2&tag=hikeve-20&linkId=SXRO3IZVWEGIXOPW" rel="nofollow"><amp-img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HIW1I2C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" width="250" height="250" layout="responsive" ></amp-img></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00HIW1I2C" width="1" height="1" border="0" alt="Zebralight H600 Mk II 18650 XM-L2" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 39 grams (excl. batteries) / 0.09 lbs  
 **Lumen**: 1090  
@@ -206,7 +207,7 @@ However, this headlamp has no USB connection to charge it’s battery. If you do
 
 ## EasyAcc Rugged Outdoor Power Bank
 
-<a href="https://www.amazon.com/gp/product/B01B73I5ZU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01B73I5ZU&linkCode=as2&tag=hikeve-20&linkId=47d7ed2d86df59bde1e15986668ca7b5" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01B73I5ZU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01B73I5ZU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a href="https://www.amazon.com/gp/product/B01B73I5ZU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01B73I5ZU&linkCode=as2&tag=hikeve-20&linkId=47d7ed2d86df59bde1e15986668ca7b5" rel="nofollow"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01B73I5ZU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="250" height="250" layout="responsive" ></amp-img></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01B73I5ZU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
 If you plan to go on a longer trip then it might be a good idea to charge your headlamp from time to time.   
 
@@ -214,7 +215,7 @@ Just make sure that the battery of your headlamp can be recharged with a USB cab
 
 ## Petzl Extension Cable for NAO
 
-<a href="https://www.amazon.com/gp/product/B007K03PLY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007K03PLY&linkCode=as2&tag=hikeve-20&linkId=2887c84eaa99f85590d37548953ce119" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B007K03PLY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B007K03PLY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a href="https://www.amazon.com/gp/product/B007K03PLY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007K03PLY&linkCode=as2&tag=hikeve-20&linkId=2887c84eaa99f85590d37548953ce119" rel="nofollow"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B007K03PLY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="250" height="112" layout="responsive" ></amp-img></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B007K03PLY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
 In cold conditions you can extend the battery life of your Petzl NAO by wearing the battery next to your body.   
 
