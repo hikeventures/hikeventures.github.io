@@ -4,6 +4,7 @@ description: Need a warm jacket for your autumn or winter? We found the best lig
 date: 2016-10-10 20:43:52
 update_date: 2017-06-18 05:43:52
 category: articles
+image: https://c1.staticflickr.com/8/7379/15913311563_d90e96b2c3_k.jpg
 tags:
   - articles
   - best
@@ -17,7 +18,7 @@ A down jacket is one of the most essential piece of clothes when planning a trip
 
 When I go hiking I usually wear a [fleece jacket](http://www.hikeventures.com/best-fleece-jackets/) and once I am in my camp I switch my fleece to a down jacket. If you plan to camp in more humid conditions then I would advice you to take rather an [synthetic insulated jacket](http://www.hikeventures.com/best-synthetic-insulated-jackets/) with you than a down jacket since down does not insulate once it gets wet.   
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15913311563/in/photolist-rbV6xu-qUqxwU-qfcT7K-qUxMCM-qUzFAa-qUxMti-rbV7gy-rbV7GU-rc1CbB-r9Hef3-qUzGQK-r9HdQA-r9HdZU-qUxN4g-rbV4BL-qUxNTH-qUxP2D-rbRHKM-qfcV5n-rc1DjZ-qUxKka-qUxPwM-qffws2-qUqAaj-qeZFSf-qUqAsU-qUzE8R-qUqwrC-qeZGDf-qUqAQh-qUqBzd-qUzEbM-qfcXtF-rc1Fx6-rbVb1C-qUxL2v-r9KRpJ-qUxRW6-qUrMdb-qeZAQ1-qUrFbG-qUrFf9-r9Hc7q-qUrMpy-qfcWc2-qFsUGz-qUzEQT-qSuGqw-rc1AL2-r9Hcwo/" title="Lapland Finland"><img src="https://c1.staticflickr.com/8/7379/15913311563_d90e96b2c3_k.jpg" width="2048" height="1360" alt="Lapland Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15913311563/in/photolist-rbV6xu-qUqxwU-qfcT7K-qUxMCM-qUzFAa-qUxMti-rbV7gy-rbV7GU-rc1CbB-r9Hef3-qUzGQK-r9HdQA-r9HdZU-qUxN4g-rbV4BL-qUxNTH-qUxP2D-rbRHKM-qfcV5n-rc1DjZ-qUxKka-qUxPwM-qffws2-qUqAaj-qeZFSf-qUqAsU-qUzE8R-qUqwrC-qeZGDf-qUqAQh-qUqBzd-qUzEbM-qfcXtF-rc1Fx6-rbVb1C-qUxL2v-r9KRpJ-qUxRW6-qUrMdb-qeZAQ1-qUrFbG-qUrFf9-r9Hc7q-qUrMpy-qfcWc2-qFsUGz-qUzEQT-qSuGqw-rc1AL2-r9Hcwo/" title="Lapland Finland"><amp-img src="https://c1.staticflickr.com/8/7379/15913311563_d90e96b2c3_k.jpg" width="2048" height="1360" layout="responsive" alt="Lapland Finland"></amp-img></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
 
 <!--more-->
 
@@ -68,7 +69,7 @@ When I go hiking I usually wear a [fleece jacket](http://www.hikeventures.com/be
 
 ## Arc'teryx Ceres Jacket (850 fill)
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GV47ZVQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GV47ZVQ&linkCode=as2&tag=hikeve-20&linkId=W5UOOTWBV54OBDXF" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GV47ZVQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20"></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GV47ZVQ" width="1" height="1" border="0" alt="Arcteryx Ceres Jacket" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GV47ZVQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GV47ZVQ&linkCode=as2&tag=hikeve-20&linkId=W5UOOTWBV54OBDXF" rel="nofollow"><amp-img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GV47ZVQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" width="198" height="250" layout="responsive"></amp-img></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GV47ZVQ" width="1" height="1" border="0" alt="Arcteryx Ceres Jacket" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 860 grams / 30.3 oz.  
 
@@ -82,7 +83,7 @@ This jacket is a probably a great option if you also want to have a fashionable 
 
 ## Arc'teryx Cerium LT Hoody (850 fill)
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00Q9MHXN0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q9MHXN0&linkCode=as2&tag=hikeve-20&linkId=Y5N4EYNVYQ5UDXXJ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q9MHXN0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q9MHXN0" width="1" height="1" border="0" alt="Arcteryx Cerium LT Hoody" style="border:none !important; margin:0px !important;"/>  
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00Q9MHXN0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q9MHXN0&linkCode=as2&tag=hikeve-20&linkId=Y5N4EYNVYQ5UDXXJ" rel="nofollow"><amp-img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q9MHXN0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" width="250" height="250" layout="responsive" ></amp-img></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q9MHXN0" width="1" height="1" border="0" alt="Arcteryx Cerium LT Hoody" style="border:none !important; margin:0px !important;"/>  
 
 **Weight**: 275 grams / 9.7 oz.  
 
@@ -98,7 +99,7 @@ LT stands for lightweight in the Arc’teryx product line.
 
 ## Arc'teryx Cerium SV Hoody (850 fill)
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GW80Q9E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW80Q9E&linkCode=as2&tag=hikeve-20&linkId=WCQGDJJ5MREZ5EUX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW80Q9E&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW80Q9E" width="1" height="1" border="0" alt="Arcteryx Cerium SV Hoody" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GW80Q9E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW80Q9E&linkCode=as2&tag=hikeve-20&linkId=WCQGDJJ5MREZ5EUX"><amp-img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW80Q9E&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" width="198" height="250" layout="responsive" ></amp-img></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW80Q9E" width="1" height="1" border="0" alt="Arcteryx Cerium SV Hoody" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 440 grams / 15.5 oz.  
 
@@ -112,7 +113,7 @@ We would wear this jacket during the winter. For camping during spring and summe
 
 ## Canada Goose Expedition Down Parka (625 fill)
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01KXUFDQC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01KXUFDQC&linkCode=as2&tag=hikeve-20&linkId=5aaf89773baa2dd8884a28b116bf9e3e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01KXUFDQC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01KXUFDQC" width="1" height="1" border="0" alt="Canada Goose Expedition Down Parka" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01KXUFDQC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01KXUFDQC&linkCode=as2&tag=hikeve-20&linkId=5aaf89773baa2dd8884a28b116bf9e3e"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01KXUFDQC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="250" height="250" layout="responsive" ></amp-img></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01KXUFDQC" width="1" height="1" border="0" alt="Canada Goose Expedition Down Parka" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 2070 grams / 73 oz.  
 
@@ -122,7 +123,7 @@ The Canada Goose Expedition Down Parka was originally designed for scientists in
 
 ## Marmot Quasar Hoody (900 fill)
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00DNNZ3KI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DNNZ3KI&linkCode=as2&tag=hikeve-20&linkId=UITTBILMF3IBYVRI"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DNNZ3KI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DNNZ3KI" width="1" height="1" border="0" alt="Marmot Quasar Hoody" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00DNNZ3KI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DNNZ3KI&linkCode=as2&tag=hikeve-20&linkId=UITTBILMF3IBYVRI"><amp-img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DNNZ3KI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" width="193" height="250" layout="responsive" ></amp-img></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DNNZ3KI" width="1" height="1" border="0" alt="Marmot Quasar Hoody" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 372 grams / 13.5 oz  
 
@@ -138,7 +139,7 @@ We would wear the Marmot Quasar Hoody during moderate winter or camping during s
 
 ## Mountain Hardware Ghost Whisperer Hooded Down Jacket (800 fill)
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GULW0DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GULW0DS&linkCode=as2&tag=hikeve-20&linkId=RSEZE3QFDW2FVB3A" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GULW0DS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GULW0DS" width="1" height="1" border="0" alt="Mountain Hardware Ghost Whisperer Hooded Down Jacket" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GULW0DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GULW0DS&linkCode=as2&tag=hikeve-20&linkId=RSEZE3QFDW2FVB3A" rel="nofollow"><amp-img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GULW0DS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" width="250" height="250" layout="responsive" ></amp-img></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GULW0DS" width="1" height="1" border="0" alt="Mountain Hardware Ghost Whisperer Hooded Down Jacket" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 212 grams / 7.5 oz.  
 
@@ -156,7 +157,7 @@ For a stylish jacket to use during winter mainly in town we would go for the Arc
 
 ## Patagonia Men's Down Hooded Jacket (800 fill)
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00OZGABKY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OZGABKY&linkCode=as2&tag=hikeve-20&linkId=OLFQERZDADI4UC3J"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00OZGABKY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00OZGABKY" width="1" height="1" border="0" alt="Patagonia Men’s Down Hooded Jacket" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00OZGABKY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OZGABKY&linkCode=as2&tag=hikeve-20&linkId=OLFQERZDADI4UC3J"><amp-img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00OZGABKY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" width="250" height="250" layout="responsive" ></amp-img></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00OZGABKY" width="1" height="1" border="0" alt="Patagonia Men’s Down Hooded Jacket" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 550 grams / 19.5 oz.  
 
@@ -170,7 +171,7 @@ The shell of the jacket is durable water repellent. The Patagonia Men’s Down H
 
 ## Rab Infinity Endurance Jacket (850 fill)
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00DTT6DXC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DTT6DXC&linkCode=as2&tag=hikeve-20&linkId=N7SHBEPWSYPV25ZK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DTT6DXC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DTT6DXC" width="1" height="1" border="0" alt="Rab Infinity Endurance Jacket" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00DTT6DXC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DTT6DXC&linkCode=as2&tag=hikeve-20&linkId=N7SHBEPWSYPV25ZK"><amp-img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DTT6DXC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" width="164" height="250" layout="responsive" ></amp-img></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DTT6DXC" width="1" height="1" border="0" alt="Rab Infinity Endurance Jacket" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 575 grams / 20.5 oz  
 
@@ -186,7 +187,7 @@ If you need a warmer jacket then the Rab Positron Jacket would be an alternative
 
 ## Rab Positron Jacket (800 fill)
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00XJO2X18/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00XJO2X18&linkCode=as2&tag=hikeve-20&linkId=5POHXUOALSVWVY2B"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00XJO2X18&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00XJO2X18" width="1" height="1" border="0" alt="Rab Positron Jacket" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00XJO2X18/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00XJO2X18&linkCode=as2&tag=hikeve-20&linkId=5POHXUOALSVWVY2B"><amp-img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00XJO2X18&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" width="143" height="250" layout="responsive" ></amp-img></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00XJO2X18" width="1" height="1" border="0" alt="Rab Positron Jacket" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 720 grams / 25.4 oz.  
 
@@ -202,7 +203,7 @@ This jacket delivers about 30% more warmth than the Rab Infinity Endurance jacke
 
 ## Rab Zero G Jacket (1000 fill)
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01IEUC98I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IEUC98I&linkCode=as2&tag=hikeve-20&linkId=9aa3a48e1b4a90d72d101f4f4ea2dd99"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01IEUC98I&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01IEUC98I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01IEUC98I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IEUC98I&linkCode=as2&tag=hikeve-20&linkId=9aa3a48e1b4a90d72d101f4f4ea2dd99"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01IEUC98I&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="193" height="250" layout="responsive" ></amp-img></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01IEUC98I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 310 grams / 11 oz.  
 

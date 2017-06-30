@@ -4,6 +4,7 @@ title: Garmin Fenix 5X or Suunto Spartan Sport - Differences, Features and why t
 description: Differences and features of the Garmin Fenix 5X and the Suunto Spartan Ultra
 date: 2017-01-23 07:30:00
 category: article
+image: https://c1.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg
 tags:
   - garmin
   - watch
@@ -29,10 +30,10 @@ Currently, there are two interesting GPS watches on the market which I would fin
 
 <tr><td></td><td><a href="http://amzn.to/2kLxu40" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a></td><td><a href="http://amzn.to/2kK6rdx" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a></td></tr> <tr>
  <td></td>
-<td><a target="_blank" rel="nofollow" href="https://www.amazon.com/gp/product/B01I06IJIK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01I06IJIK&linkCode=as2&tag=hikeve-20&linkId=25f32b8a3afd8831a135bd0979163530"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01I06IJIK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01I06IJIK" width="1" height="1" border="0" alt="Suunto Spartan Sport" style="border:none !important; margin:0px !important;" />
+<td><a target="_blank" rel="nofollow" href="https://www.amazon.com/gp/product/B01I06IJIK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01I06IJIK&linkCode=as2&tag=hikeve-20&linkId=25f32b8a3afd8831a135bd0979163530"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01I06IJIK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="177" height="250" layout="responsive" ></amp-img></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01I06IJIK" width="1" height="1" border="0" alt="Suunto Spartan Sport" style="border:none !important; margin:0px !important;" />
 </td>
 <td>
-<a target="_blank" rel="nofollow"  href="https://www.amazon.com/gp/product/B01MQX3306/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MQX3306&linkCode=as2&tag=hikeve-20&linkId=c573bb0b72e6366ccd6881fe6b32b747"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MQX3306&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MQX3306" width="1" height="1" border="0" alt="Garmin Fenix 5X" style="border:none !important; margin:0px !important;" />
+<a target="_blank" rel="nofollow"  href="https://www.amazon.com/gp/product/B01MQX3306/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MQX3306&linkCode=as2&tag=hikeve-20&linkId=c573bb0b72e6366ccd6881fe6b32b747"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MQX3306&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="250" height="162" layout="responsive" ></amp-img></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MQX3306" width="1" height="1" border="0" alt="Garmin Fenix 5X" style="border:none !important; margin:0px !important;" />
 </td></tr>
 </tbody></table>
 </div>
@@ -45,7 +46,7 @@ Both watches are currently the latest models from both manufacturers and their b
 
 In the past I have always used my Suunto Traverse to log my GPS data (see picture below on a [trip in Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/)).
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15913318153/in/photolist-Go1JSL-vM7J91-s9EBGJ-qfcV5n-poxm2c-J2qeyW-C6bEKT-uSq1oC-vwWEhv-vNPEKA-vPqH22-sTzRxs-t4miJj-qHtRc2-rc1Fx6-pC4agQ-pUdwjt-pR5WvQ-ptyErN-oUMs5L" title="Lapland Finland"><img src="https://c1.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg" width="2048" height="1360" alt="Suunto Spartan or Garmin Fenix 5 differences features"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15913318153/in/photolist-Go1JSL-vM7J91-s9EBGJ-qfcV5n-poxm2c-J2qeyW-C6bEKT-uSq1oC-vwWEhv-vNPEKA-vPqH22-sTzRxs-t4miJj-qHtRc2-rc1Fx6-pC4agQ-pUdwjt-pR5WvQ-ptyErN-oUMs5L" title="Lapland Finland"><amp-img src="https://c1.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg" width="2048" height="1360" layout="responsive" alt="Suunto Spartan or Garmin Fenix 5 differences features"></amp-img></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 However, there are certain features on the new watches which I found more appealing than on the Suunto Traverse - and in particular I would prefer to have the Garmin Fenix 5X over the Suunto Spartan.
 
