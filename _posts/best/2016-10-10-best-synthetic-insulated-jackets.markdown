@@ -141,7 +141,7 @@ The jacket has a helmet compatible hood for climbing use and a Pertex EnduranceÂ
 
 ## Mountain Equipment Fitzroy Jacket
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01M0M15V4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01M0M15V4&linkCode=as2&tag=hikeve-20&linkId=90de06f42ccfbc699ec9f6f7971de843"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01M0M15V4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01M0M15V4" width="1" height="1" border="0" alt="Mountain Equipment Fitzroy Jacket" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01LZXZ9ZS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LZXZ9ZS&linkCode=as2&tag=hikeve-20&linkId=5f86514cf4307bb4835213ab97ea8fbe"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LZXZ9ZS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LZXZ9ZS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> 
 
 **Weight**: 645 grams / 23 oz.  
 
@@ -199,7 +199,7 @@ So our solution for this is Thermoball, which is a synthetic version here. Basic
 
 So really one of the big benefits here compared to down. Even if it's wet or if it's damp, or a little bit clumped, it keeps the insulation properties.  
 
-So that's one of the innovations that we have. We apply it to various different products.  A lot of jackets and snow sports where we apply this. 
+So that's one of the innovations that we have. We apply it to various different products.  A lot of jackets and snow sports where we apply this.
 
 [1]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/
 [2]:	http://www.hikeventures.com/Packrafting-River-Dee-Scotland-1/
