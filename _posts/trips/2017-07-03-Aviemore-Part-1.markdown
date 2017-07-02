@@ -1,4 +1,5 @@
 ---
+
 published: false
 title: Scottish Packraft and Adventure Bike Roundup 2017: Part 1
 description: Glamping, hiking and packrafting in Scottish Highlands
@@ -12,6 +13,7 @@ tags:
   - biking
   - adventure
 layout: post
+
 ---
 We arrived in Inshriach rather late on Friday (almost at midnight) and were met by Andy at the entrance from the main road. He welcomed us with a huge smile and indicated where we had to go and park our car and then showed Marta and I to where we would stay this weekend – the yurt. Then he and Patrick disappeared into the darkness in the direction of what was described ‘the lower field’ where his huge group tarp was located - it was drizzling a bit and Patrick decided to make it his home. I lit the fire in the stove and candle lanterns along the walls, while Marta unpacked our things, after which we climbed into our Victorian double bed and fell asleep to the pitter-patter of the raindrops over the canvas. And this was the end of our first day in Scotland and the first day of a great Packrafting and Biking Weekend organised by Andy (a.k.a. backcountry.scot).
 
