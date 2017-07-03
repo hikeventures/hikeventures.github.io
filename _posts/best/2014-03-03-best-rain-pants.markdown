@@ -17,9 +17,10 @@ Rain pants will help you to stay dry and warm and is one of the most essential i
 
 Personally, I prefer to take the lightest rain clothes with me during my summer and autumn hikes as they will probably stay most of the time in my backpack.
 
-If you plan to wear your rain jacket on a daily base while carrying a backpack on your shoulders then you should probably buy a rain jacket with a more durable fabric. Of course, this also comes with increased weight. 
+If you plan to wear your rain jacket on a daily base while carrying a backpack on your shoulders then you should probably buy a rain jacket with a more durable fabric. Of course, this also comes with increased weight.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/13685518345/in/photolist-nqw1ZC-nqcd6S-qG8T36-nqcfZh-nqbUQ8-nqsSPr-nbXt4g-nqb2oa-nse64k-nqsjEM-nqaPbz-nqs8hX-nqaL3v-mRkRNR-mRkM6e-mRnwXu-mRkZX6-mRm7Fe" title="Best Rain Pants 2017 "><img src="https://c2.staticflickr.com/8/7206/13685518345_b56a9a77d8_b.jpg" width="992" height="662" alt="Best Men Rain Pants 2017 "></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<amp-img src="https://c2.staticflickr.com/8/7206/13685518345_b56a9a77d8_b.jpg" width="2048" height="1367" layout="responsive" alt="Best Men Rain Pants 2017"></amp-img>
+
 
 <!--more-->
 

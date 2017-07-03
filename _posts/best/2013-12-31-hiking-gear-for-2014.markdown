@@ -11,7 +11,7 @@ layout: post
 ---
 Are you planning to buy new gear for your next hiking adventure in 2014? Here is a list of gear I am using or which I am planning to purchase in 2014. When I purchase gear, I usually look into functionality/technology, design and weight.
 
-<a href="https://www.flickr.com/photos/90204224@N07/8730115903" title="Katabatic Gear Chisos"><img src="https://farm8.staticflickr.com/7383/8730115903_055c604918_b.jpg" width="1024" height="683" alt="Katabatic Gear Chisos"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/8730115903" title="Katabatic Gear Chisos"><amp-img src="https://farm8.staticflickr.com/7383/8730115903_055c604918_b.jpg" width="1024" height="683" layout="responsive" alt="Katabatic Gear Chisos"></amp-img></a>
 
 <!--more-->
 
