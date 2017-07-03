@@ -15,18 +15,23 @@ layout: post
 ---
 We arrived in Inshriach rather late on Friday (almost at midnight) and were met by Andy at the entrance from the main road. He welcomed us with a huge smile and indicated where we had to go and park our car and then showed Marta and I to where we would stay this weekend – the yurt. Then he and Patrick disappeared into the darkness in the direction of what was described ‘the lower field’ where his huge group tarp was located - it was drizzling a bit and Patrick decided to make it his home. I lit the fire in the stove and candle lanterns along the walls, while Marta unpacked our things, after which we climbed into our Victorian double bed and fell asleep to the pitter-patter of the raindrops over the canvas. And this was the end of our first day in Scotland and the first day of a great Packrafting and Biking Weekend organised by Andy (a.k.a. backcountry.scot).
 
-<amp-img src="https://farm5.staticflickr.com/4237/35510048782_3019775825_k.jpg" width="2048" height="1197" layout="responsive" alt="Welcome to Highlands"></amp-img>
 
+<amp-img src="https://farm5.staticflickr.com/4237/35510048782_3019775825_k.jpg" width="2048" height="1197" layout="responsive" alt="Welcome to Highlands"></amp-img>
+<br>
   <!--more-->
 
 ## The Morning of Little Discoveries
 Still tired from our long trip the day before, we took our time to wake up the next morning. It was still raining a bit and some water was slowly dripping over our bed – good thing we had noticed it the night before and ‘waterproofed’ ourselves by putting a raincoat over our blankets.
 
+
 <amp-img src="https://farm5.staticflickr.com/4211/35510050772_e4799f2909_k.jpg" width="2048" height="1536" layout="responsive" alt="Let there be fire"></amp-img>
+
 
 With wood stove on again and the morning light coming through the windows in the ceiling and on the sides, the yurt looked very warm, cozy and welcoming. We looked at each other and agreed that “we could live here” and started to prepare ourselves for the day.
 
+
 <amp-img src="https://farm5.staticflickr.com/4277/35510049222_0f6476099e_k.jpg" width="2048" height="910" layout="responsive" alt="Yurt at Inshriach House"></amp-img>
+
 
 And what is a better way to start a day than with a good breakfast? It’s having it in a good company, of course. That’s why, while Marta was busy with setting the table, I went to pick up Patrick, who, as it turned out, was still in his sleeping bag under Andy’s star-shaped tarp surrounded by half-inflated packrafts of all types, sizes and colours.
 
