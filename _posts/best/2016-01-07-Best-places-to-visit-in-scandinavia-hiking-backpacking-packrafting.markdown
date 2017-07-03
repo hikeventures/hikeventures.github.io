@@ -3,6 +3,7 @@ title: 5 best places in Scandinavia to go hiking, backpacking or packrafting
 description: The best outdoor places we have visited in Scandinavia.
 date: 2016-01-07 06:29:01
 category: articles
+image: https://farm8.staticflickr.com/7385/9599027418_4123160df8_b.jpg
 tags:
   - articles
   - scandinavia
@@ -12,8 +13,8 @@ Are you planning a hiking, backpacking or packrafting trip in Scandinavia? Here 
 
 In case you want to visit some of those places make sure that you plan your route and gear in advance. Here you can find a short <a href="#list">overview</a>.
 
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9599027418/in/album-72157637944165406/" title="best places to go hiking, backpacking and packrafting in scandinavia"><img src="https://farm8.staticflickr.com/7385/9599027418_4123160df8_b.jpg" width="100%" alt="best places to go hiking, backpacking and packrafting in scandinavia"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br>Sarek National Park in Sweden
+<amp-img src="https://farm8.staticflickr.com/7385/9599027418_4123160df8_b.jpg" width="100%" alt="best places to go hiking, backpacking and packrafting in scandinavia"></amp-img>
+<br>Sarek National Park in Sweden
 
 <!--more-->
 
@@ -21,12 +22,12 @@ In case you want to visit some of those places make sure that you plan your rout
 
 <h2 id="list">The best places to visit in Scandinavia for hiking and backpacking</h2>
 
-| Country | National Park / Area |
-|:----|:---:|
-| Sweden | [Sarek](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) |
-| Sweden | [Torneträsk](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/) |
-| Finland | [Åland](http://www.hikeventures.com/hiking-on-the-aland-islands/) |
-| Norway | [Alta river](http://www.hikeventures.com/Packrafting-Alta-River/) |
+| Country |                                                National Park / Area                                                |
+|:--------|:------------------------------------------------------------------------------------------------------------------:|
+| Sweden  |                    [Sarek](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/)                     |
+| Sweden  |                [Torneträsk](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/)                 |
+| Finland |                         [Åland](http://www.hikeventures.com/hiking-on-the-aland-islands/)                          |
+| Norway  |                         [Alta river](http://www.hikeventures.com/Packrafting-Alta-River/)                          |
 | Finland | [Urho Kekkonen](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/) |
 
 <hr>

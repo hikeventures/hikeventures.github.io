@@ -4,6 +4,7 @@ description: Top 6 of the best Waterproof pants 2017 which protects you during y
 date: 2015-02-08 09:13:12
 update_date: 2016-12-27 06:00:52
 category: articles
+image: https://c2.staticflickr.com/8/7206/13685518345_b56a9a77d8_b.jpg
 tags:
   - articles
   - best

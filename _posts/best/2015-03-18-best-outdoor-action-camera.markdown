@@ -3,6 +3,7 @@ title: Best Outdoor Action Camera for 2016 - 2017 - GoPro vs. Sony
 description: Which Action Camera? GoPro Hero 4 vs. Sony FDR-X1000V
 date: 2015-08-18 07:28:01
 category: articles
+image: https://c3.staticflickr.com/8/7270/26814282730_defc74acac_b.jpg
 tags:
   - articles
   - best
@@ -16,8 +17,7 @@ Obviously, there are two models which are currently hot on the market - the GoPr
 
 Now the questions evolved which of those two action cameras should be a replacement for our old GoPro Hero 3+. Here is our <a href="#list">camera comparison table</a>.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26814282730/in/photolist-Hfnf6V-GGyd2S-HaFrBx-GRud4u-Gc8Weq-H4Gdkb-H4qMZ7-GbSzpE-HnoEX7-GaxJVX-MoRbuk-dKWT8w-Hfnf2g-Hfnf7B-HhQ8Uu-HdLXe5-GWJQkS-GAWXsf-dXZ33V" title="Best Outdoor Action Camera for 2016 - 2017"><img src="https://c3.staticflickr.com/8/7270/26814282730_defc74acac_b.jpg" width="1024" height="680" alt="Best Outdoor Action Camera for 2016 - 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
+<amp-img src="https://c3.staticflickr.com/8/7270/26814282730_defc74acac_b.jpg" width="1024" height="680" alt="Best Outdoor Action Camera for 2016 - 2017"></amp-img>
 
 <!--more-->
 
@@ -31,19 +31,19 @@ Sony, however is a market leader in developing camera sensors and since action c
 
 <h2 id="list">Best Outdoor Action Camera for 2016 - 2017</h2>
 
-|Specification|  GoPro Hero 4 |  Sony FDR-X1000V |
-|:-|:-:|:-:|
-| Weight  | 89 grams  | 89 grams  |
-|  4K Video |yes     | yes  |
-| Wi-Fi  |  yes (& bluetooth) | yes  |
-| Image Stabilization  | no  | yes  |
-|  GPS | no  | yes  |
-| Picture Resolution  | 12 MP  | 8.8 MP  |
-| Microphone Input  | Adapter needed for Stereo | Stereo Minijack  |
-| Internal Microphone | Mono | Stereo |
-| Aperture  | F2.8  | F2.8  |
-| Sensor Size  | 1/2.3  | 1/2.3  |
-| Angle of View  | 170  | 170 or 120  |
+| Specification       |       GoPro Hero 4        | Sony FDR-X1000V |
+|:--------------------|:-------------------------:|:---------------:|
+| Weight              |         89 grams          |    89 grams     |
+| 4K Video            |            yes            |       yes       |
+| Wi-Fi               |     yes (& bluetooth)     |       yes       |
+| Image Stabilization |            no             |       yes       |
+| GPS                 |            no             |       yes       |
+| Picture Resolution  |           12 MP           |     8.8 MP      |
+| Microphone Input    | Adapter needed for Stereo | Stereo Minijack |
+| Internal Microphone |           Mono            |     Stereo      |
+| Aperture            |           F2.8            |      F2.8       |
+| Sensor Size         |           1/2.3           |      1/2.3      |
+| Angle of View       |            170            |   170 or 120    |
 
 <br><br>
 Looking at the Specs, I am more tempted in getting the Sony FDR-X1000V action camera.

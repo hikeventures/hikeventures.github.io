@@ -4,6 +4,7 @@ title: The best wallet for hiking and backpacking
 description: Discover the best wallet for your next hiking and backpacking trip
 date: 2016-04-18 07:30:00
 category: review
+image: https://farm2.staticflickr.com/1706/25893630833_0449df22f3_b.jpg
 tags:
   - review
   - wallet
@@ -15,9 +16,10 @@ As with hiking clothes a wallet should be easy to clean, water resistant or dry 
 
 Alternatively, you can also store your wallet in a plastic bag to keep it dry.   
 
-Further, you might also want to look into a wallet which does not take too much space and is lightweight.  
+Further, you might also want to look into a wallet which does not take too much space and is lightweight.    
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25893630833/in/dateposted-public/" title="The best wallet for hiking and backpacking"><img src="https://farm2.staticflickr.com/1706/25893630833_0449df22f3_b.jpg" width="100%" alt="The best wallet for hiking and backpacking"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<amp-img src="https://farm2.staticflickr.com/1706/25893630833_0449df22f3_b.jpg" width="100%" alt="The best wallet for hiking and backpacking"></amp-img>
+
 
 <!--more-->
 
@@ -49,4 +51,4 @@ The most affordable solution is probably to use a cheap plastic bag and wrap it 
 
 Personally, I use both - a Fjällräven Zip Card Holder and sometimes an additional plastic bag when I go packrafting.  
 
-The Chums wallet would be quite useful if you are doing watersport such as kayaking or pack rafting. 
+The Chums wallet would be quite useful if you are doing watersport such as kayaking or pack rafting.

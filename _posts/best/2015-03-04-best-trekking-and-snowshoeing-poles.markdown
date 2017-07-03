@@ -4,6 +4,7 @@ description: Need new trekking poles for your hiking and snowshoeing adventures?
 date: 2016-01-03 16:08:38
 update_date: 2016-12-27 06:00:52
 category: articles
+image: https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg
 tags:
   - best
   - snowshoeing
@@ -15,9 +16,10 @@ In this article I have selected the best trekking and snowshoeing poles for 2017
 
 Poles are especially useful if you have to walk up or down a mountain or if you have to walk in deep powder snow.  
 
-Further, you can also use poles for nordic walking.   
+Further, you can also use poles for nordic walking.     
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24785831751/in/photolist-Dm1oBg-DUv9z4-DLeSfK-qNgY7t-DJ5oFY-Dm1YSa-DSbpUy-CWZxhh-Dm1SnM-DJ5qtf-DLeWra-CWZhq3-CX6ZLM-DsowUj-CWZoVY-DJ55xd-CWYQyo-CX6sRF-DUueLP-r3peJw" title="Best trekking and snowshoeing poles for 2017"><img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="Best trekking and snowshoeing poles for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<amp-img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="Best trekking and snowshoeing poles for 2017"></amp-img>
+
 
 <!--more-->
 

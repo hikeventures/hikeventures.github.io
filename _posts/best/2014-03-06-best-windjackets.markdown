@@ -4,6 +4,7 @@ description: Top 5 windproof Jackets for 2017 for your next outdoor adventure!
 date: 2016-01-04 10:56:22
 update_date: 2016-12-27 06:00:52
 category: articles
+image: https://c3.staticflickr.com/8/7385/9599027418_4123160df8_b.jpg
 tags:
   - articles
   - best
@@ -18,7 +19,8 @@ I always combine a wind jacket together with a [fleece jacket](http://www.hikeve
 
 A wind jacket does not need much space so you can easily store it in your backpack.   
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9599027418/in/photolist-fCewqJ-eZwoYv-eZwpTX-fCewQ3-eZwovc-eZHLDm-eZwojP-eZwoGn-eZHLPu-eZHK3s" title="best wind jackets for 2017"><img src="https://c3.staticflickr.com/8/7385/9599027418_4123160df8_b.jpg" width="992" height="661" alt="best wind jackets for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+
+<amp-img src="https://c3.staticflickr.com/8/7385/9599027418_4123160df8_b.jpg" width="992" height="661" layout="responsive" alt="best wind jackets for 2017"></amp-img>
 
 <!--more-->
 

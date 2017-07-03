@@ -5,6 +5,7 @@ date: 2016-03-02 09:13:12 +0200
 update_date: 2016-12-27 06:00:52
 description: Looking for new hiking boots? Here are the best boots for hiking and backpacking for 2017
 category: articles
+image: https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg
 tags:
   - articles
   - best
@@ -20,7 +21,7 @@ For day trips which are not that demanding [lightweight hiking shoes](http://www
 
 However, after my trips in the [Alps](http://www.hikeventures.com/e5-crossing-the-alps-from-germany-to-italy/) and in [Swedish Lapland](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) I am not such a fan of ultralight hiking shoes and would rather take a pair of proper hiking boots with me.  
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27313686292/in/album-72157669221615915/" title="Best hiking boots for 2017"><img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="1024" height="643" alt="Best hiking boots for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<amp-img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="100%" alt="Best hiking boots for 2017"></amp-img>
 
 <!--more-->
 

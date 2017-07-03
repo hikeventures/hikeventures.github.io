@@ -4,6 +4,7 @@ description: An interesting MacBook case for your outdoor activities.
 date: 2015-04-16 16:15:35
 update_date: 2016-12-27 06:00:52
 category: articles
+image: https://farm9.staticflickr.com/8749/17167532371_f36eb8b1f1_b.jpg
 tags:
   - articles
   - best
@@ -16,7 +17,8 @@ Recently, I was looking for a new case for my MacBook Pro 13" 2017 with Touch Ba
 
 I came across the Thule Gauntlet 13" MacBook Attaché which I found to be one of the best outdoor case to protect my MacBook Pro.    
 
-<a href="https://www.flickr.com/photos/90204224@N07/17167532371" ><img src="https://farm9.staticflickr.com/8749/17167532371_f36eb8b1f1_b.jpg" width="100%" alt="Thule Gauntlet - Best MacBook Pro 2017 Case for Outdoors"></a>  
+<amp-img src="https://farm9.staticflickr.com/8749/17167532371_f36eb8b1f1_b.jpg" width="100%" alt="Thule Gauntlet - Best MacBook Pro 2017 Case for Outdoors"></amp-img>
+
 
 <!--more-->
 
@@ -36,11 +38,12 @@ This case might be also quite handy if you drive to your cottage on the countrys
 
 Alternatively, you might also consider taking a <a href="http://amzn.to/1J7wqxd" rel="nofollow">WD My Passport Wireless</a> if you only plan to store pictures.  
 
-<a href="https://www.flickr.com/photos/90204224@N07/17142212046"><img src="https://farm8.staticflickr.com/7629/17142212046_3ac6af68aa_b.jpg" width="100%" alt="Thule Gauntlet - Best MacBook Pro Case for Outdoors"></a>  
+<amp-img src="https://farm8.staticflickr.com/7629/17142212046_3ac6af68aa_b.jpg" width="100%" alt="Thule Gauntlet - Best MacBook Pro Case for Outdoors"></amp-img>
+
 
 The shell of the case should also absorb some bumps due to it’s solid construction.  
 
-<a href="https://www.flickr.com/photos/90204224@N07/17166513382"><img src="https://farm9.staticflickr.com/8713/17166513382_58571d6174_b.jpg" width="100%" alt="Thule Gauntlet - Best MacBook Pro Case for Outdoors"></a>
+<amp-img src="https://www.flickr.com/photos/90204224@N07/17166513382"><img src="https://farm9.staticflickr.com/8713/17166513382_58571d6174_b.jpg" width="100%" alt="Thule Gauntlet - Best MacBook Pro Case for Outdoors"></amp-img>
 
 ## Thule Subterra 13" MacBook Sleeve
 
@@ -52,6 +55,6 @@ What’s more, I can also use my MacBook without taking it out from the case. Le
 
 Also the additional pocket for the iPad protects it’s screen if you are planning to take it along with your MacBook Pro. There are also interior dividers for accessories.  
 
-<a href="https://www.flickr.com/photos/90204224@N07/17166514972"><img src="https://farm8.staticflickr.com/7644/17166514972_62ae02076a_b.jpg" width="100%" alt="Thule Gauntlet - Best MacBook Pro Case for Outdoors"></a>  
+<amp-img src="https://farm8.staticflickr.com/7644/17166514972_62ae02076a_b.jpg" width="100%" alt="Thule Gauntlet - Best MacBook Pro Case for Outdoors"></amp-img>
 
 Personally, I think that a case without room for accessories doesn’t make much sense especially if you travel for a few days as you won’t have space for your charger.

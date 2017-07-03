@@ -20,7 +20,7 @@ In the picture below you can see the DeLorme InReach Explorer in his yellow case
 
 DeLorme is owned since 2016 by Garmin and the unit has been replaced with the Garmin InReach Explorer+ (see below).  
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30599065514/in/dateposted-public/" title="Best Satellite Messenger, Locator and Personal Beacon 2017"><amp-img src="https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg" width="1024" height="683" layout="responsive" alt="Best Satellite Messenger, Locator and Personal Beacon 2017"></amp-img></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<amp-img src="https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg" width="1024" height="683" layout="responsive" alt="Best Satellite Messenger, Locator and Personal Beacon 2017"></amp-img>
 
 <!--more-->  
 

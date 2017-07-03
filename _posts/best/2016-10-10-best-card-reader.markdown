@@ -3,6 +3,7 @@ title: Best USB-C SD or MicroSD card reader for MacBook Pro
 description: The USB-C card readers which I would buy
 date: 2016-10-10 20:43:52
 category: articles
+image: https://c6.staticflickr.com/6/5527/31452717005_a4bbfd5276_k.jpg
 tags:
   - best
   - photography
@@ -18,9 +19,7 @@ The other card readers were also on my list before I made my purchase decision w
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31452717005/in/dateposted-public/" title="Best USB-C SD Card Readers for Macbook Pro"><img src="https://c6.staticflickr.com/6/5527/31452717005_a4bbfd5276_k.jpg" width="2048" height="1186" alt="Best USB-C SD Card Reader for Macbook Pro"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
----
+<amp-img src="https://c6.staticflickr.com/6/5527/31452717005_a4bbfd5276_k.jpg" width="100%" alt="Best USB-C SD Card Readers for Macbook Pro"></amp-img>
 
 <!--more-->
 

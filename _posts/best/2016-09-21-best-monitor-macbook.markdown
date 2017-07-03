@@ -3,6 +3,7 @@ title: Best LG UltraFine 4K and 5K monitor alternatives - LG 27UD88, Dell UP2715
 description: My selection of the best 4K and 5K USB-C Monitors for the Macbook Pro 2017
 date: 2016-09-21 05:28:01
 category: best
+image: https://c7.staticflickr.com/1/186/31528052726_5436587b3c_k.jpg
 tags:
   - macbook
 layout: post
@@ -14,7 +15,7 @@ I really would like to have an external 4K or 5K monitor with my MacBook Pro sin
 
 In the past I had a 27" HD monitor to edit my pictures but since I am planning to take 4K videos in the near future I would be really nice to have a 4K or even a 5K screen.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31528052726/in/dateposted-public/" title="Best LG UltraFine 4K and 5K monitor alternatives - LG 27UD88, Dell UP2715K, HP ENVY 27 or Lenovo ThinkVision X1 for Macbook Pro with Touchbar"><img src="https://c7.staticflickr.com/1/186/31528052726_5436587b3c_k.jpg" width="2048" height="1536" alt="Best LG UltraFine 4K and 5K monitor alternatives - LG 27UD88, Dell UP2715K, HP ENVY 27 or Lenovo ThinkVision X1 for MacBook Pro with Touchbar"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://c7.staticflickr.com/1/186/31528052726_5436587b3c_k.jpg" width="100%" alt="Best LG UltraFine 4K and 5K monitor alternatives - LG 27UD88, Dell UP2715K, HP ENVY 27 or Lenovo ThinkVision X1 for Macbook Pro with Touchbar"></amp-img>
 
 I really like the idea to have less cables on my desk so USB-C would be a really nice feature.
 

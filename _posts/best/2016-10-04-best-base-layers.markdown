@@ -4,15 +4,13 @@ description: An overview of the best lightweight merino wool base layers.
 date: 2016-10-04 20:43:52
 update_date: 2016-12-27 06:00:52
 category: articles
+image: https://c2.staticflickr.com/6/5604/15791886561_80520bc4b6_k.jpg
 tags:
   - articles
   - best
   - base layers
 layout: post
 ---
-
-<h2 style="color:red">Our selection of the best Merino Wool Base Layers 2017 for ultralight outdoor adventures in arctic conditions.</h2>
-<br>
 
 For our hiking and snowshoeing trip in Northern Norway we were looking for new merino wool base layers (which we can also wear for other outdoor activities like skiing, snowboarding or mountaineering).
 
@@ -24,9 +22,7 @@ Also check one of our <a href="#video">packrafting videos</a> where we were wear
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15791886561/in/photolist-NitxpL-Ne2YZK-MoRbuk-Nitxvs-MoRbKk-qNfnfP-q4txGe" title="Best Merino Wool Base Layers"><img src="https://c2.staticflickr.com/6/5604/15791886561_80520bc4b6_k.jpg" width="2048" height="1367" alt="Best Merino Wool Base Layers"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
----
+<amp-img src="https://c2.staticflickr.com/6/5604/15791886561_80520bc4b6_k.jpg" width="100%" alt="Best Merino Wool Base Layers"></amp-img>
 
 However, there are also alternatives out there which I would like to present in this blog post which might be even better base layer options depending on your needs.
 

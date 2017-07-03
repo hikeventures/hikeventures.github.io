@@ -4,6 +4,7 @@ description: Are you planning to go on a day hike? Here is our selection of the 
 date: 2016-10-30 20:43:52
 update_date: 2016-12-30 23:30:52
 category: articles
+image: https://c1.staticflickr.com/9/8699/27817737344_1645a0bd95_b.jpg
 tags:
   - articles
   - best
@@ -18,7 +19,7 @@ A day pack weights much less than a regular backpack and you will be able to enj
 
 I have included a broad range of day packs. Some are more durable or offer more features while also weight a bit more while other day packs are more light and minimalistic.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27817737344/in/photolist-Joaba7-KcEQhr-KcERsH-KjCz84-JTCe1f-KamS4G-KamLK5-Ne2YZK-F7oFw8-EVU9jS-F25vip-BUd4Wr-BRUqUh-AWN6Re-BUd3Z6-BkGdVV-AWG9Vd-Bs5pNh-AWN6px-BJBRNh-AWG9Eo-AWN6tv-Bs5opf-Bs5pk3-BJBQYG-BJBRV1-BUd456-BRUr2m-BkGcvv-BJBRgA-BkGcWa-AWN69x-BJBRwf-BkGcZM-BkGd68-Bs5p2Y-Bs5p4m-AWGar3-BUd3Ur-AWGaJY-BkGdAX-fCewqJ-fCepqs-fBZ532-fBZbWn-qNh6yH-BLVuGF-BLVuK6-zkUBfC-E1hZc9" title="Best Day Packs 2017"><img src="https://c1.staticflickr.com/9/8699/27817737344_1645a0bd95_b.jpg" width="1024" height="684" alt="Best Day Packs 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://c1.staticflickr.com/9/8699/27817737344_1645a0bd95_b.jpg" width="100%" alt="Best Day Packs 2017"></amp-img>
 
 ## The best day packs of 2017
 

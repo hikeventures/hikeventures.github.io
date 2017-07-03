@@ -4,6 +4,7 @@ title: Best ski gloves 2017
 description: The best winter gloves for skiing, snowboarding or snowshoeing
 date: 2016-01-03 19:10:07
 category: articles
+image: https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg
 tags:
   - articles
   - gloves
@@ -12,7 +13,8 @@ tags:
 
 In this blog post I will present you my selection of the best ski gloves for 2017. Of course, you can also wear these gloves for snowboarding.  
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/16531785111/in/photolist-q3hwoU-qGQmse-r9HdQA-r9HdZU-qUxN4g-rbV4BL-qUxNTH-rbRHKM-qUxP2D-qWZDDU-qHtRc2-rc1DjZ-qfcV5n-r9HayW-qUxKka-qGRYcg-qffws2-qeZFSf-qUqAaj-qUqAsU-qfcWc2-qUzE8R-qUqwrC-qUqAQh-qeZGDf-rc1F5c-qUqBzd-qUzEbM-qfcXtF-q3uXXe-rc1Fx6-rbVb1C-qUxL2v-r9KRpJ-qFsUGz-qUxRW6-qUrMdb-qeZAQ1-qUrFbG-qUrFf9-r9Hc7q-qUrMpy-qSuGqw-qUzEQT-rc1AL2-r9Hcwo-q6yz5f-qUzF2p-q3huqW-pvvkzn" title="best ski gloves for 2017"><img src="https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg" width="2048" height="1360" alt="best ski gloves for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<amp-img src="https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg" width="100%" alt="best ski gloves for 2017"></amp-img>
+
 
 <!--more-->
 

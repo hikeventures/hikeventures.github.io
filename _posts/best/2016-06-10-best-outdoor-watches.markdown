@@ -5,6 +5,7 @@ description: Our selection of the best outdoor smartwatch for 2017.
 date: 2016-06-10 13:46:20
 update_date: 2017-01-15 06:00:52
 category: articles
+image: https://c2.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg
 tags:
   - articles
   - best
@@ -19,7 +20,7 @@ However, I would be interested to get an outdoor watch which features a color di
 
 Probably one disadvantage of watches having a color display and a GPS is their short battery life.   
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15913318153/in/photolist-Go1JSL-vM7J91-qHtRc2-qfcV5n-rc1Fx6-pUdwjt-pR5WvQ-poxm2c-J2qeyW-uSq1oC-vNPEKA-vwWEhv-vPqH22-sTzRxs-t4miJj-s9EBGJ-pC4agQ-ptyErN-pcgLEg-oUMs5L" title="Best outdoor GPS watches 2017"><img src="https://c2.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg" width="2048" height="1360" alt="Best outdoor GPS watches 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<amp-img src="https://c2.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg" width="100%" alt="Best outdoor GPS watches 2017"></amp-img>
 
 <!--more-->
 

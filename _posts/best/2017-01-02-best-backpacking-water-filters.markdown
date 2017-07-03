@@ -1,10 +1,10 @@
 ---
 title: Best lightweight backpacking water filters for 2017
-description: An
- of lightweight water filters for your next hiking and backpacking trip.
+description: Lightweight water filters for your next hiking and backpacking trip.
 date: 2017-01-02 20:43:52
 update_date: 2017-01-02 23:30:52
 category: articles
+image: https://c1.staticflickr.com/8/7459/9599019542_fa67333918_k.jpg
 tags:
   - articles
   - best
@@ -30,7 +30,7 @@ The Steripen uses an UV light against Viruses and can be recharged through the U
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9599019542/in/photolist-HA39Bz-tgvZvQ-pYV6mJ-o2XKm8-qGiB1v-fCeu5W-dupp9e-e51wE7" title="Best lightweight water filters 2017"><img src="https://c1.staticflickr.com/8/7459/9599019542_fa67333918_k.jpg" width="2048" height="1365" alt="Best lightweight water filters 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://c1.staticflickr.com/8/7459/9599019542_fa67333918_k.jpg" width="100%" alt="Best lightweight water filters 2017"></amp-img>
 
 <h2>The best lightweight water filters of 2017</h2>
 

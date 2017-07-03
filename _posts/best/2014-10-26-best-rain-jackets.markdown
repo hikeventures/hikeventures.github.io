@@ -4,6 +4,7 @@ description: Overview of the best men rain Jackets in 2017 for hiking and backpa
 date: 2016-01-04 12:33:51
 update_date: 2016-12-27 06:00:52
 category: articles
+image: https://c3.staticflickr.com/8/7385/9599027418_4123160df8_b.jpg
 tags:
   - articles
   - best
@@ -19,7 +20,7 @@ If you expect the weather to be good but only windy then you may also consider t
 
 In most cases a lightweight rain jacket which does not need that much space in your backpack may be sufficient.  
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/16531785111/in/photolist-qGQmse-q3hwoU-r9HdQA-r9HdZU-qUxN4g-rbV4BL-qUxNTH-qUxP2D-qWZDDU-rbRHKM-rc1DjZ-qUxKka-qHtRc2-qfcV5n-qUxPwM-qGRYcg-qffws2-qUqAaj-qeZFSf-qUqAsU-qfcWc2-qUzE8R-qUqwrC-qeZGDf-qUqAQh-rc1F5c-qUqBzd-qUzEbM-qfcXtF-q3uXXe-rbVb1C-qUxL2v-r9KRpJ-qFsUGz-qUxRW6-qUrMdb-qeZAQ1-qUrFbG-qUrFf9-r9Hc7q-qUrMpy-rc1AL2-qSuGqw-qUzEQT-r9Hcwo-qUzF2p-q3huqW-pvvkzn-rc1Fx6-q6yz5f" title="Best new rain jackets for 2017"><img src="https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg" width="2048" height="1360" alt="Best new rain jackets for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<amp-img src="https://c3.staticflickr.com/8/7385/9599027418_4123160df8_b.jpg" width="2048" height="1360" layout="responsive" alt="Best rain jackets for 2017"></amp-img>
 
 <!--more-->
 

@@ -4,6 +4,7 @@ description: Our selection of the best snowshoes for 2017.
 date: 2016-01-03 09:19:51
 update_date: 2016-12-27 06:00:52
 category: articles
+image: https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg
 tags:
   - articles
   - best
@@ -25,7 +26,7 @@ Also look at the size of the crampons and if the binding is suitable / durable o
 
 Below you can see Konstantin snowshoeing in the Austrian Alps.  
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24785831751/in/photolist-Dm1oBg-DUv9z4-DLeSfK-qNgY7t-DJ5oFY-Dm1YSa-DSbpUy-CWZxhh-Dm1SnM-DJ5qtf-DLeWra-CWZhq3-CX6ZLM-DsowUj-CWZoVY-DJ55xd-CWYQyo-CX6sRF-DUueLP-r3peJw" title="Best snowshoes for 2017"><img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="Best snowshoes for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<amp-img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="Best snowshoes for 2017"></amp-img>
 
 <!--more-->
 

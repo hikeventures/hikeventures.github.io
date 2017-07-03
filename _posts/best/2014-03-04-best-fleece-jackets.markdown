@@ -4,6 +4,7 @@ description: Top 5 of the best fleece jackets 2015 for hiking and backpacking
 date: 2015-03-04 17:20:20
 update_date: 2016-12-27 06:00:52
 category: articles
+image: https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg
 tags:
   - articles
   - best
@@ -19,7 +20,8 @@ A fleece jacket can be used as a mid-layer to keep you warm while you are active
 
 **Update**: Most recently, I bought the [Power Houdi](http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fhoudini-power-houdi-full-zip-hooded-fleece-sweatshirt-mens) which is now my go-to fleece jackets on all my trips. I really like that it feels soft on the skin and adapts well to movements.  
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30599065514/in/photolist-NBWd85-NBWdpC-PGnS2B-NBWekf-PDJ1Eh-Dv2uSF-E1hZc9-EjbrxT-EgXSbQ-tg14Q2-t3DXr8-t2MuH9-t2LbQW-sdZym3-sec6c8-taL9R1-sTru6W-sTq9hY-sTrvww-sTy6fR-sebeM6-taZSRR-sTpojY-sebpWz-t8FgSm-t8Fenm-sTxnjB-t8FiiN-sTy6CV-t8F1NU-tb1bye-sTxzdB-sTr9gW-tb3Ehx-sdZRVb-sTri2G-taL1TN-sTq5Jq-tb1DEP-sTrrNj-se19pJ-sTy5sZ-sTrwSs-sTrseQ-rbRFq6-pUo8mD-pUdSgn-pBY4wH-pUoXBr-pC1VP1" title="Best Fleece Jackets for 2017"><img src="https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg" width="1024" height="683" alt="Best Fleece Jackets for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<amp-img src="https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg" width="1024" height="683" layout="responsive" alt="Best Fleece Jackets for 2017"></amp-img>
+
 
 <!--more-->
 

@@ -4,6 +4,7 @@ description: Need a warm jacket for your autumn or winter? We found the best lig
 date: 2016-10-10 20:43:52
 update_date: 2016-12-29 11:43:52
 category: articles
+image: https://c1.staticflickr.com/6/5558/31803741256_3d7a100029_o.jpg
 tags:
   - articles
   - best
@@ -16,7 +17,7 @@ Choosing a synthetic insulated jacket can have several reasons. Either you are l
 
 Synthetic insulated jackets can be either worn during the summer or during the winter and for different activities like backpacking, skiing, hiking, snowboarding, climbing or any other outdoor adventure.  
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31803741256/in/dateposted-public/" title="Best Synthetic Insulated Jackets for 2017"><img src="https://c1.staticflickr.com/6/5558/31803741256_3d7a100029_o.jpg" width="1000" height="664" alt="Best Synthetic Insulated Jackets for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<amp-img src="https://c1.staticflickr.com/6/5558/31803741256_3d7a100029_o.jpg" width="100%" alt="Best Synthetic Insulated Jackets for 2017"></amp-img>
 
 On our snowshoeing trip in [Finnish Lapland.][1]  
 
@@ -141,7 +142,7 @@ The jacket has a helmet compatible hood for climbing use and a Pertex EnduranceÂ
 
 ## Mountain Equipment Fitzroy Jacket
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01LZXZ9ZS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LZXZ9ZS&linkCode=as2&tag=hikeve-20&linkId=5f86514cf4307bb4835213ab97ea8fbe"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LZXZ9ZS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LZXZ9ZS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> 
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01LZXZ9ZS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LZXZ9ZS&linkCode=as2&tag=hikeve-20&linkId=5f86514cf4307bb4835213ab97ea8fbe"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LZXZ9ZS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LZXZ9ZS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 645 grams / 23 oz.  
 

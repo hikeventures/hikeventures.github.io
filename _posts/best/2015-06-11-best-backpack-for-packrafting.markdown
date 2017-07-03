@@ -3,6 +3,7 @@ title: Best Backpack for Packrafting
 description: An overview of the best backpacks for packrafting.
 date: 2016-01-03 22:16:01
 category: articles
+image: https://c2.staticflickr.com/4/3848/14464273681_0b2ab88e71_b.jpg
 tags:
   - articles
   - best
@@ -15,9 +16,10 @@ In this blog post I would like to present my selection of the best backpacks whi
 
 Having used the [HMG Porter 4400](http://www.hikeventures.com/gear-review-hmg-porter-4400-black/) for the last 3 years on my packrafting trips I was interested to see which alternatives would be available on the market.  
 
-Gernerally speaking I was not able to find any alternative to the HMG Porter 4400 which is that light and feels like a proper backpack when I bought it.  
+Generally speaking I was not able to find any alternative to the HMG Porter 4400 which is that light and feels like a proper backpack when I bought it.  
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/14464273681/in/album-72157646473379013/" title="Best Backpack for Packrafting"><img src="https://c2.staticflickr.com/4/3848/14464273681_0b2ab88e71_b.jpg" width="1024" height="683" alt="Best Backpack for Packrafting"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<amp-img src="https://c2.staticflickr.com/4/3848/14464273681_0b2ab88e71_b.jpg" width="100%" alt="Best Backpack for Packrafting"></amp-img>
+
 
 <!--more-->
 

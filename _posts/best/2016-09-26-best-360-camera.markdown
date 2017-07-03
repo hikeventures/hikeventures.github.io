@@ -3,6 +3,7 @@ title: Best waterproof 360 4K cameras - Nikon KeyMission 360 or 360fly 4K
 description: My selection of the best 4K 360 cameras
 date: 2016-09-26 05:28:01
 category: best
+image: https://c3.staticflickr.com/6/5609/30599065514_3a9dedbf93_k.jpg
 tags:
   - camera
   - best
@@ -19,13 +20,10 @@ Have a look on our <a href="#list">comparison table</a> to find the right camera
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30599065514/in/photolist-NDbk8c-PPkB4h-PDHY5C-PiSKKN-PiSL5W-NBWd11-NBWd85-NBWdpC-PGnS2B-NBWekf-PDJ1Eh-ysTzd7-uNM1RN-u9vBoD-uNM1qC-u9mboN-v5RKA5-v6DD7k-v5RL7L-u9vBsg-v6DD8n-qHtRc2-uNLExo-qiFCnJ-q4woeP-ncwEjH-qbZr7n-neBybS-ncwSuj-nezgoD-ncwG1Z-ncwMkw-mxGyy5-mxCgY9-kSnuAt-hWjDEL-hWjiwR-hWjwMu-hWjjgX-hWjwyo-dUwrFM" title="Best 360 4K waterproof camera"><img src="https://c3.staticflickr.com/6/5609/30599065514_3a9dedbf93_k.jpg" width="2048" height="1365" alt="Best 360 4K waterproof camera"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://c3.staticflickr.com/6/5609/30599065514_3a9dedbf93_k.jpg" width="100%" alt="Best 360 4K waterproof camera"></amp-img>
 
----
 
 <!--more-->
-
-<hr>
 
 <h2 id="list">The best waterproof 360 4K cameras</h2>
 <div class="table-responsive">

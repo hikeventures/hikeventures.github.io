@@ -4,6 +4,7 @@ description: Need a new Sleeping Pad? Here is our selection of the best sleeping
 date: 2016-01-03 18:49:09
 update_date: 2016-12-27 06:00:52
 category: reviews
+image: https://c5.staticflickr.com/9/8185/28431572180_4c18fea5a0_b.jpg
 tags:
   - reviews
   - sleeping pads
@@ -21,7 +22,8 @@ From all sleeping pads I would probably recommend you the <a href="http://amzn.t
 
 I have received the XTherm from Therm-a-Rest for testing and it’s now my go-to sleeping pad throughout the year.  
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28431572180/in/photolist-KjpeSm-KjpegS-KAbyAW-Kjpe1b-KAbydb-Kjpddj-KAE83V-HfneYa-H4GcRf-Kjpf1N-KKxrhz-HnoEU1-GcfKhk-Dv2uSF-E1hZc9-EjbrxT-EgXSbQ-txM5FU-ty5vNM-q8Un36" title="Best Sleeping Pads in 2017"><img src="https://c5.staticflickr.com/9/8185/28431572180_4c18fea5a0_b.jpg" width="1024" height="683" alt="Best Sleeping Pads in 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<amp-img src="https://c5.staticflickr.com/9/8185/28431572180_4c18fea5a0_b.jpg" width="1024" height="683" alt="Best Sleeping Pads in 2017></amp-img>
+
 
 <!--more-->
 
