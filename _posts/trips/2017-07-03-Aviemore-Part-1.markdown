@@ -3,6 +3,7 @@ title: Scottish Packraft and Adventure Bike Roundup 2017 - Part 1
 description: Glamping, hiking and packrafting in Scottish Highlands
 date: 2017-07-03 12:14:01
 category: articles
+image: https://farm5.staticflickr.com/4237/35510048782_3019775825_k.jpg
 tags:
   - articles
   - scotland
