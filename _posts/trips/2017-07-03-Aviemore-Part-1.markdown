@@ -16,6 +16,7 @@ We arrived in Inshriach rather late on Friday (almost at midnight) and were met 
 
 <amp-img src="https://farm5.staticflickr.com/4237/35510048782_3019775825_k.jpg" width="2048" height="1197" layout="responsive" alt="Welcome to Highlands"></amp-img>
 
+
 <!--more-->
 
 ## The Morning of Little Discoveries
