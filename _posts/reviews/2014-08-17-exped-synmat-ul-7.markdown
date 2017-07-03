@@ -11,7 +11,9 @@ layout: post
 ---
 Here is a short review about the Exped SynMat UL 7 which is our current sleeping pad since over 1 year and me and Konstantin would like to share our experience in this review with the Exped SynMat UL 7 which has been one of the best 3-season sleeping pads for our hiking, camping, backpacking, packrafting and other outdoor trips.
 
-<a href="https://www.flickr.com/photos/90204224@N07/14948191975" title="Exped Synmat UL 7"><img src="https://farm4.staticflickr.com/3845/14948191975_987d92e79c_b.jpg" width="600" alt="Exped Synmat UL 7"></a><br>
+<amp-img src="https://farm4.staticflickr.com/3845/14948191975_987d92e79c_b.jpg" width="100%" alt="Exped Synmat UL 7"></amp-img>
+
+
 
 <!--more-->
 

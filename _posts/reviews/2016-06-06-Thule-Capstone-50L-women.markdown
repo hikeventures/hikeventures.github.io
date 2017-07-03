@@ -13,7 +13,7 @@ We are at the Toyama train station – a gateway to the Japanese Northern Alps a
 
 This way, for the next couple of days we can hike ‘light’. And while it would seem like an easy task – just find a locker, open it, stuff a few extra unnecessary things in, pay and leave – it was not always that easy. Especially as we were carrying what seemed to be a wagon full of 'stuff' for various activities (such as hiking, packrafting, wild camping and city tripping) during our stay in Japan, all of it cramped in or otherwise attached to our backpacks.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27492852495/in/dateposted-public/" title="Thule Capstone"><img src="https://c8.staticflickr.com/8/7316/27492852495_f571c7ddd0_b.jpg" width="100%" alt="Thule Capstone 50L Women hiking backpack in Japan"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://c8.staticflickr.com/8/7316/27492852495_f571c7ddd0_b.jpg" width="100%" alt="Thule Capstone 50L Women hiking backpack in Japan"></amp-img>
 
 <!--more-->
 

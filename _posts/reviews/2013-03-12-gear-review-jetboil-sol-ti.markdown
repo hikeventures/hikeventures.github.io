@@ -15,7 +15,7 @@ I was looking for a lightweight compact camping stove where I can place my Jetbo
 
 The Jetboil stove can heat 0.5 l in 2 minutes and 15 seconds which is equal to 12 liters for a 100g canister. It has a weight of 240 g. The stove can be operated either with the titanium cooking cup or with e.g. a frying pan by exchanging the top piece. The stove also comes with a plastic tripod in order to give the stove a stable position. The stove gives a quite solid impression.
 
-<a href="https://www.flickr.com/photos/90204224@N07/8552911716" title="Jetboil Sol Ti"><img src="https://farm9.staticflickr.com/8231/8552911716_8c74f6a5c4_b.jpg" width="600" alt="Jetboil Sol Ti ultralight hiking and backpacking stove packaging"></a>
+<amp-img src="https://farm9.staticflickr.com/8231/8552911716_8c74f6a5c4_b.jpg" width="100%" alt="Jetboil Sol Ti ultralight hiking and backpacking stove packaging"></amp-img>
 
 <!--more-->
 

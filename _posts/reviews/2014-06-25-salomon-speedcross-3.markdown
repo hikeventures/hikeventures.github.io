@@ -14,7 +14,7 @@ layout: post
 
 The Salomon Speedcross 3 are my new lightweight hiking shoes for the warmer months, which I recently bought as they were on sale. Hiking and Backpacking lightweight can make your outdoor experience more enjoyable. This principle also applies to hiking shoes and here comes a short review about the Salomon Speedcross 3 related to hiking and backpacking.
 
-<a href="https://www.flickr.com/photos/90204224@N07/14506057802" title="Salomon Speedcross 3"><img src="https://farm4.staticflickr.com/3856/14506057802_91240ffe46_b.jpg" width="600" alt="Salomon Speedcross 3"></a>
+<amp-img src="https://farm4.staticflickr.com/3856/14506057802_91240ffe46_b.jpg" width="100%" alt="Salomon Speedcross 3"></amp-img>
 
 <!--more-->
 

@@ -16,7 +16,7 @@ In general, I was quite happy with the Cumulus Panjam 450. However, after having
 
 Why? Because I feel much warmer in the WM VersaLite. However, the Cumulus Panjam 450 is by no means a bad sleeping bag and they have also a model which is filled with more down.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28431572180/in/album-72157666947120531/" title="Western Mountaineering Versalite Review and Test"><img src="https://c1.staticflickr.com/9/8185/28431572180_4c18fea5a0_b.jpg" width="1024" height="683" alt="Western Mountaineering Versalite Review and Test"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://c1.staticflickr.com/9/8185/28431572180_4c18fea5a0_b.jpg" width="100%" alt="Western Mountaineering Versalite Review and Test"></amp-img>
 
 <!--more-->
 

@@ -12,7 +12,7 @@ layout: post
 
 Recently, I purchased a new backpack and was in need of getting a dry sack where I can stuff my clothes etc. in to keep them dry in case of rain while on the trail. So I took a look on the Sea to Summit Ultra-Sil Drysack for my next hiking, backpacking and packrafting trips and here is a short review.
 
-<a href="http://amzn.to/1nUEHcS" rel="nofollow"><img src="http://farm9.staticflickr.com/8391/8619175883_3cfc41c0df_c.jpg" alt="Sea to Summit Ultra Sil Dry Sack"></a>
+<amp-img src="http://farm9.staticflickr.com/8391/8619175883_3cfc41c0df_c.jpg" width="100%" alt="Sea to Summit Ultra Sil Dry Sack"></amp-img>
 
 <!--more-->
 

@@ -13,7 +13,7 @@ layout: post
 
 When I go hiking or backpacking I occasionally document my trip with notes about the area, how far I have hiked or if anything interesting happened. To document my hiking trip I take pen and paper, DSLR / mirrorless camera and my smartphone with me.
 
-<a href="https://www.flickr.com/photos/90204224@N07/11466248965"><img src="https://farm4.staticflickr.com/3665/11466248965_4e1a237577_b.jpg" width="1024" height="683" alt="Field Notes Expedition review"></a>
+<amp-img src="https://farm4.staticflickr.com/3665/11466248965_4e1a237577_b.jpg" width="100%" alt="Field Notes Expedition review"></amp-img>
 
 <!--more-->
 

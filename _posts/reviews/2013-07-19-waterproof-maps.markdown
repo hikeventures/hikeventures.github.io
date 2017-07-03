@@ -14,7 +14,8 @@ layout: post
 
 A map is one of the most important item which should be in your backpack on every hiking and packrafting trip. However, when your map gets wet you may end up with the situation that you are not able to use your map anymore. For this reason a waterproof Calazo map was our choice for our hiking and packrafting trip in the Swedish mountains.
 
-<a href="https://www.flickr.com/photos/90204224@N07/9327368022"><img src="https://c3.staticflickr.com/3/2833/9327368022_3b131753c2_b.jpg" width="1024" height="683" alt="Calazo Waterproof Map"></a>
+<amp-img src="https://c3.staticflickr.com/3/2833/9327368022_3b131753c2_b.jpg" width="100%" alt="Calazo Waterproof Map"></amp-img>
+
 <!--more-->
 
 For our trip to Sarek we were looking for a proper map which is durable and water resistant. After doing some research online we were able to spot Calazo maps which are made of Tyvek. I also found them a tad cheaper than the regular paper maps.

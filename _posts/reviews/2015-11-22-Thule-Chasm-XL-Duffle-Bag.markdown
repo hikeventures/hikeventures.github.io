@@ -10,8 +10,8 @@ tags:
 layout: post
 ---
 Which bag do you take if you are going on winter adventure in Finnish Lapland and you need to take a lot of gear with you? Or what do you do if you need to pack for summer holidays during which you are visiting Japan and the North of Sweden and you do not have time to come back home to repack? Or simply if you are going on a business trip to Scotland or Norway which you want to combine with packrafting and camping? I don’t know which bag you would use, but I used my Thule Chasm XL (provided by Thule) and here is a short review of my experiences with it so far.
-<br><br>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/22593227254/in/dateposted-public/" title="Thule Chasm"><img src="https://farm6.staticflickr.com/5684/22593227254_53dab093e0_b.jpg" width="100%" alt="Thule Chasm Duffle Bag"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><br>
+
+<amp-img src="https://farm6.staticflickr.com/5684/22593227254_53dab093e0_b.jpg" width="100%" alt="Thule Chasm Duffle Bag"></amp-img>
 
 <!--more-->
 

@@ -12,7 +12,8 @@ tags:
 
 Last year Thule has sent me the Thule Upslope 35L so we can take it with us on our trip to test it. On our trip to Northern Norway this January I finally had a chance to test it and here are my first thoughts about this daypack (my wife has also used it before on some trips). We had the Upslope backpack with us in <a href="http://www.hikeventures.com/komsa-alta/">Hammerfest</a>, in <a href="http://www.hikeventures.com/winter-camping-alta/">Alta</a> and on our <a href="http://www.hikeventures.com/komsa-alta/">winter camping trip</a>.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32227501816/in/photolist-R6Qnv3-QW2MmU-QW2Ryw-QW2SY5-Q41hbD-Q2mk56-R5p16F-RcxumL-JNYxnE-KCDzhi-JP8Cjp-JNYx9U-JLZkAy-HTs418-HsYjcf-Joaba7-KjCn2k-KcERsH-KcEQhr-JTCe1f-EVU9jS-F7oFw8-KjCz84-KamS4G-KamLK5-HA39Mp-GLALk5-HgWr2h-HDjow3-vM7J91-GXBnUq-AqB93R-AqucjW-ysTzd7-HM6vje-GXBodS-HTs4dc-GXBoff-GXBoeJ-HsYjfS-GXBoe3-HTs4f6-HTs3SH-vPqHv8-uSq1A1-uSq1vS-vwPqqN-vwPt5U-vPqHJe-vM7Hiy" title="Thule Upslope 35L Review Test"><img src="https://c1.staticflickr.com/1/558/32227501816_503a8421dd_k.jpg" width="2048" height="1152" alt="Thule Upslope 35L Review Test"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://c1.staticflickr.com/1/558/32227501816_503a8421dd_k.jpg" width="100%" alt="Thule Upslope 35L Review Test"></amp-img>
+
 
 <!--more-->
 

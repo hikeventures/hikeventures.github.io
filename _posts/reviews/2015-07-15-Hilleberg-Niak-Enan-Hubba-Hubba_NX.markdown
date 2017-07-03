@@ -12,7 +12,7 @@ layout: post
 
 Hilleberg has just announced a new 3-season solo tent - the Hilleberg Niak 1.5 - which will come out in 2016. Here are some first thoughts about the Hilleberg Niak, the Enan and the MSR NX.
 
-<img src="https://farm9.staticflickr.com/8541/8648026950_c0f7a5fdac_b.jpg" width="100%"  alt="Hilleberg Anjan Niak">
+<amp-img src="https://farm9.staticflickr.com/8541/8648026950_c0f7a5fdac_b.jpg" width="100%" alt="Hilleberg Anjan Niak"></amp-img>
 
 <!--more-->
 

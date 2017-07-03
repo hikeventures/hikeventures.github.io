@@ -12,7 +12,8 @@ layout: post
 
 Winter time - Gaiter time! To keep snow out during my winter activities like winter hiking, snowshoeing or cross-country skiing I am using gaiters and here is a short review of the Deuter Boulder Gaiters which are are quite light and super durable.
 
-<a href="https://www.flickr.com/photos/90204224@N07/11544953636"><img src="https://farm4.staticflickr.com/3812/11544953636_f5653a0864_b.jpg" width="1024" height="683" alt="Deuter Boulder Gaiter" ></a>
+<amp-img src="https://farm4.staticflickr.com/3812/11544953636_f5653a0864_b.jpg" width="100%" alt="Deuter Boulder Gaiter"></amp-img>
+
 
 <!--more-->
 

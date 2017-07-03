@@ -9,8 +9,9 @@ tags:
   - photography
 layout: post
 ---
-Since I am interested in outdoor photography, I am currently looking for books which give me new ideas and inspirations on how I could take my pictures to the next level. This article is about the book "Outdoor Action and Adventure Photography" from Dan Bailey which is a very good book especially if you are new into outdoor photography. <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/17861380309" title="Outdoor Action and Adventure Photography"><img src="https://c1.staticflickr.com/9/8862/17861380309_f9749e3c57_o.jpg" width="100%" alt="Outdoor Action and Adventure Photography"></a>
+Since I am interested in outdoor photography, I am currently looking for books which give me new ideas and inspirations on how I could take my pictures to the next level. This article is about the book "Outdoor Action and Adventure Photography" from Dan Bailey which is a very good book especially if you are new into outdoor photography.
+
+<amp-img src="https://c1.staticflickr.com/9/8862/17861380309_f9749e3c57_o.jpg" width="100%" alt="Outdoor Action and Adventure Photography"></amp-img>
 
 <!--more-->
 

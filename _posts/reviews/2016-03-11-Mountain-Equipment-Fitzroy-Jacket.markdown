@@ -11,7 +11,9 @@ layout: post
 ---
 Here comes a short review about the Mountain Equipment Fitzroy Jacket. On our trip to Scotland I took my light <a href="http://www.hikeventures.com/gear-review-montbell-u-dot-l-down-parka/">Montbell Down UL Down Jacket</a> with me. Initially, I thought that my down jacket would be sufficient but realized later on that it was probably a smart choice to purchase my new Mountain Equipment Fitzroy Jacket. Having done some research on synthetic jackets before our Scotland trip I was already quite focused on the Mountain Equipment Fitzroy Jacket if I would find it for a good price as winter sales was still ongoing.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25401969810/in/dateposted-public/" title="Mountain Equipment Fitzroy Jacket Review"><img src="https://farm2.staticflickr.com/1441/25401969810_8a545bc7b2_b.jpg" width="100%" alt="Mountain Equipment Fitzroy Jacket Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://farm2.staticflickr.com/1441/25401969810_8a545bc7b2_b.jpg" width="100%" alt="Mountain Equipment Fitzroy Jacket Review"></amp-img>
+
+
 
 <!--more-->
 

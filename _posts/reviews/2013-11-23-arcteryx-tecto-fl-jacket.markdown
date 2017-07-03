@@ -12,7 +12,8 @@ layout: post
 
 Looking for a lightweight waterproof jacket for your next hiking, backpacking or any other backcountry adventure? The Arc'teryx Tecto FL Jacket could be your next jacket and here comes a short review. After my hiking trip in [Sarek](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) where I used the <a href="http://hikeventures.com/gear-review-montane-minimus-smock/" target="_self">Montane Minimus Smock</a>, I noticed that it would be better to have a full-zip jacket. It's just much more easier to get it on and off. Of course, a full-zip jacket is somewhat more heavy but a full-zip jacket just works better for me.
 
-<a href="https://www.flickr.com/photos/90204224@N07/11379723083" title="Arc'teryx Tecto FL"><img src="https://farm6.staticflickr.com/5520/11379723083_5cf7ba4ecc_b.jpg" width="1024" height="466" alt="Arc'teryx Tecto FL"></a>
+<amp-img src="https://farm6.staticflickr.com/5520/11379723083_5cf7ba4ecc_b.jpg" width="100%" alt="Arc'teryx Tecto FL"></amp-img>
+
 
 <!--more-->
 

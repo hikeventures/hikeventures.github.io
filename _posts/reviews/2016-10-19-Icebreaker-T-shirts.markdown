@@ -20,7 +20,7 @@ But you know what they say – "never say never", and indeed, after a while, I b
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29794613243/in/dateposted-public/" title="Packrafting in Poland"><img src="https://c4.staticflickr.com/9/8556/29794613243_97ff8d015a_k.jpg" width="2048" height="1360" alt="packrafting packraft julbo hyperlitemountaingear aquabound alpackaraft alpacka icebreaker t-shirt tshirt merino wool Biebrza National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://c4.staticflickr.com/9/8556/29794613243_97ff8d015a_k.jpg" width="100%" alt="Packrafting in Poland"></amp-img>
 
 > Wearing my icebreaker while packrafting in Poland this spring
 

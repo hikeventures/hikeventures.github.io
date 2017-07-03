@@ -13,7 +13,8 @@ tags:
 
 A few months ago we received the Thule Atmos X5 iPhone 6 case from Thule which we have tested on our trips this year. Since we are approaching 2017 it's time to write a short review about our experience with the Thule Atmos X5.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28098574144/in/photolist-JNYx9U-JLZkAy-Joaba7-KjCn2k-KcEQhr-KcERsH-KamLK5-KjCz84-KamS4G-JTCe1f-EVU9jS-F7oFw8-GLALk5-HA39Mp-HgWr2h-JNYxnE-KCDzhi-JP8Cjp-HTs418-HsYjcf/" title="Hiking and Packrafting in Norway"><img src="https://c1.staticflickr.com/8/7764/28098574144_7f1fefe9c0_k.jpg" width="2048" height="1365" alt="Thule X5 iPhone 6 review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://c1.staticflickr.com/8/7764/28098574144_7f1fefe9c0_k.jpg" width="100%" alt="Hiking and Packrafting in Norway"></amp-img>
+
 
 <!--more-->
 
