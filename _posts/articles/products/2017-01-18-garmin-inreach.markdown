@@ -7,6 +7,7 @@ category: article
 tags:
   - garmin
   - gps
+image: https://c1.staticflickr.com/6/5609/30599065514_3a9dedbf93_k.jpg
 ---
 Garmin has just recently release the inReach Explorer+ and the inReach SE+ after they acquired DeLorme a few months ago. Those new devices are going to replace the old inReach models.
 
@@ -18,7 +19,7 @@ Even so you have to pay for a monthly subscription fee I think it's just worth t
 
 Below you can see Konstantin while hiking in Japan. On the back of his backpack you can see the Delorme inReach Explorer (in it's yellow case) which has now been replaced with the new Garmin inReach Explorer+.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30599065514/in/photolist-NBWd11-NBWd85" title="Garmin inReach Explorer+ and SE+ - Differences, new features and preview"><img src="https://c1.staticflickr.com/6/5609/30599065514_3a9dedbf93_k.jpg" width="2048" height="1365" alt="Garmin inReach Explorer+ and SE+ differences and new features"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://c1.staticflickr.com/6/5609/30599065514_3a9dedbf93_k.jpg" width="100%" alt="Garmin inReach Explorer+ and SE+ - Differences, new features and preview"></amp-img>
 
 <!--more-->
 

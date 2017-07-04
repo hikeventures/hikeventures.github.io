@@ -3,12 +3,14 @@ title: 10 reasons why I like Packrafting
 description: 10 reasons why I like Packrafting
 date: 2013-05-12 07:30:00
 category: articles
-tags: 
+tags:
   - articles
   - packrafting
 layout: post
+image: http://farm8.staticflickr.com/7425/8729735329_78a6f1a644_c.jpg
 ---
-<a href="http://www.flickr.com/photos/90204224@N07/8729735329/" ><img src="http://farm8.staticflickr.com/7425/8729735329_78a6f1a644_c.jpg" width="1150" alt="Reasons and advantages to go Packrafting"></a>
+
+<amp-img src="http://farm8.staticflickr.com/7425/8729735329_78a6f1a644_c.jpg" width="100%" alt="Best lightweight water filters 2017"></amp-img>
 
 <ul>
 <li>I can take my Packraft everywhere since it is very light</li>

@@ -8,6 +8,7 @@ tags:
   - sawyer
   - LifeStraw
   - filter
+image: https://c1.staticflickr.com/8/7459/9599019542_fa67333918_k.jpg
 ---
 
 When you plan on what to pack in your backpack when preparing for a longer hiking trip you probably also want to carry a water filtration system with you.
@@ -18,9 +19,7 @@ However, recently new solutions have appeared on the market for outdoor enthusia
 
 In this article I am going discuss if you should choose the Sawyer Mini, MSR TrailShot or the LifeStraw Personal water filter as a possible ultralight water filter solution.
 
----
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9599019542/in/photolist-HA39Bz-tgvZvQ-pYV6mJ-o2XKm8-qGiB1v-fCeu5W-dupp9e-e51wE7" title="Sawyer or LifeStraw"><img src="https://c1.staticflickr.com/8/7459/9599019542_fa67333918_k.jpg" width="2048" height="1365" alt="Best lightweight water filters 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://c1.staticflickr.com/8/7459/9599019542_fa67333918_k.jpg" width="100%" alt="Best lightweight water filters 2017"></amp-img>
 
 <!--more-->
 

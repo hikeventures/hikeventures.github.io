@@ -7,8 +7,10 @@ tags:
   - articles
   - hiking
 layout: post
+image: https://farm9.staticflickr.com/8043/8372530877_0de9aef5b2_b.jpg
 ---
-<a href="https://www.flickr.com/photos/90204224@N07/8372530877" title="Victorinox Swiss Knife"><img src="https://farm9.staticflickr.com/8043/8372530877_0de9aef5b2_b.jpg" width="683" height="1024" alt="Victorinox Swiss Knife"></a><br>
+
+<amp-img src=""https://farm9.staticflickr.com/8043/8372530877_0de9aef5b2_b.jpg" width="100%" alt="Victorinox Swiss Knife"></amp-img>
 
 Light and plenty of tools - the Victorinox Swisslite Pocket Knife is the perfect item if you want to hike with less grams. Some books suggest razorblades as a lightweight tool but it lacks the functionalities and comfort of this little gem.
 <!--more-->

@@ -10,11 +10,11 @@ tags:
   - Bus
   - Alta
   - Hammerfest
-
+image: https://c1.staticflickr.com/1/466/32908177285_0900199257_k.jpg
 ---
 Socks as a present for Christmas, pants (long johns) for St. Valentine’s Day. That’s the reality of being a wife of an outdoorsman ☺
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32908177285/in/dateposted-public/" title="Kari Traa"><img src="https://c1.staticflickr.com/1/466/32908177285_0900199257_k.jpg" width="2048" height="1536" alt="Kari Traa Pants"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://c1.staticflickr.com/1/466/32908177285_0900199257_k.jpg" width="100%" alt="Kari Traa"></amp-img>
 
 <!--more-->
 

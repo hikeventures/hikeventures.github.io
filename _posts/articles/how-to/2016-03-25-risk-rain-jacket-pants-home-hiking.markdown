@@ -6,10 +6,13 @@ category: articles
 tags:
   - articles
 layout: post
+image: https://farm2.staticflickr.com/1718/23666915033_f5ff47da67_b.jpg
 ---
 Recently, I have read many interesting blog posts discussing if you should consider taking rain gear i.e. rain jacket and rain pants with you when going hiking or backpacking. This is an interesting question especially for those who are into ultralight hiking. But what means ultralight? Should you pack as less as possible or should you only try to minimise weight on all the gear you need on the hike?
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/23666915033/in/photolist-C4n8ic-Cn5W76-Cs56kd-Csfo2T-CRcgr9-Cn5Cm6-CjNyRW-C4ePV1-CsfhpR-BwRrNu-C4eN8d-CunJoK-qeKinC-pR5WvQ-pL1rLX-pFEsm4-oJ8gxA-oJb8Nk-CTsCYp-CsfsAc-Cn5eqg-CjNdjd-CjNTWj-C4eUXf-Cs582u-Csfsuk-CyCJE7-BwRUME-CjNhxd-qeKins-qupVjS-qcUQWo-pxHAdv-qscg4J-pverwG-qaE5xy-pverLE-qrFk5e-ps8dLF-qmAMGN-q7kaf7-qiFCnJ-q4woeP-poj7vM-qjTqCM-qjRaEz-pmuoK3-qfheuo-pVKQu6-pYV6mJ" title="beskidy - Krynica - marked paths"><img src="https://farm2.staticflickr.com/1718/23666915033_f5ff47da67_b.jpg" width="100%" alt="hiking ultralight risks"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://farm2.staticflickr.com/1718/23666915033_f5ff47da67_b.jpg" width="100%" alt="hiking ultralight risks"></amp-img>
+
+
 
 <!--more-->
 
