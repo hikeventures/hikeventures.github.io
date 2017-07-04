@@ -394,14 +394,13 @@ footer > div > div.col-xs-7, footer > div > div.col-xs-8, footer > div > div.col
     font-size: 24px;
     color: #1b4662;
     line-height: 55px;
-    vertical-align: bottom;
+    vertical-align: middle;
 }
 
 .footer-title img {
     height: 55px;
     padding-right: 5px;
 	vertical-align: middle;
-	margin-bottom: -15px;
 }
 
 .footer-copyrights {
