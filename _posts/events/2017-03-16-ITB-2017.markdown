@@ -4,13 +4,15 @@ title: ITB Berlin - Blogger Speed Dating, Exhibitor Interviews and Impressions
 description: Our visit of the ITB in Berlin 2017
 date: 2017-03-16 05:30:00
 category: articles
+image: https://c1.staticflickr.com/4/3672/33085018390_91c7d63d78_h.jpg
 tags:
   - articles
   - ITB
 ---
 Last weekend we visited the ITB in Berlin to get ideas for new adventures, to interview destinations and to participate in the ITB Blogger Speed Dating. We especially liked that you could experience the culture of some destinations right away at the exhibition. For example we really enjoyed the ceremony of preparation and drinking Kava when we visited the booth of the South Pacific Islands.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/33085018390/in/dateposted-public/" title="South Pacific Islands Tourism at ITB Berlin"><img src="https://c1.staticflickr.com/4/3672/33085018390_91c7d63d78_h.jpg" width="1600" height="759" alt="South Pacific Islands Tourism at ITB Berlin"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://c1.staticflickr.com/4/3672/33085018390_91c7d63d78_h.jpg" width="100%" alt="South Pacific Islands Tourism at ITB Berlin"></amp-img>
+
 
 <!--more-->
 

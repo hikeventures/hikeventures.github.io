@@ -7,11 +7,13 @@ category: articles
 tags:
   - articles
   - OutDoorShow
+image: https://c2.staticflickr.com/4/3817/8915058329_e2f057e52f_k.jpg
 ---
 
 We decided this year not to visit the OutdoorShow in Friedrichshafen. After having visited the [ISPO 2016](http://www.hikeventures.com/ISPO-2016-interviews/) in Munich we decided that we will spend our time on a few trips and visit the OutdoorShow in Friedrichshafen in 2017.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/8915058329/in/album-72157634625007952/" title="OutDoor Show 2016 Friedrichshafen"><img src="https://c2.staticflickr.com/4/3817/8915058329_e2f057e52f_k.jpg" width="100%" alt="OutDoor Show 2016 Friedrichshafen"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://c2.staticflickr.com/4/3817/8915058329_e2f057e52f_k.jpg" width="100%" alt="OutDoor Show 2016 Friedrichshafen"></amp-img>
+
 
 <!--more-->
 

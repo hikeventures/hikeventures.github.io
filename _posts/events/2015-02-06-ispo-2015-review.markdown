@@ -7,10 +7,12 @@ tags:
   - articles
   - ispo
 layout: post
+image: https://farm8.staticflickr.com/7328/16462058835_413f97515e_b.jpg
 ---
 This week I went to the ISPO in Munich to look for new interesting products for our [hiking and packrafting adventures][1] and here is a short ISPO review. We had great outdoor adventures this year in [Finnish Lapland][2] and for 2015 I would be interested to [test][3] new outdoor gear. I started the day at 8.45 at the press centre where I received my press ID just right in time as the show started at 9 am. I focused my day on certain companies I was interested in and those which won an ISPO Award 2015.
 
-<a href="https://www.flickr.com/photos/90204224@N07/16462058835" title="ISPO Entrance"><img src="https://farm8.staticflickr.com/7328/16462058835_413f97515e_b.jpg" width="1024" height="768" alt="ISPO Entrance"></a>
+<amp-img src="https://farm8.staticflickr.com/7328/16462058835_413f97515e_b.jpg" width="100%" alt="ISPO Entranc"></amp-img>
+
 <!--more-->
 
 ## Fischer E 109 Crown Xtralite

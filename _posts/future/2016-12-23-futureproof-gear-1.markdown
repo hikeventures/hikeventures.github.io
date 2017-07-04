@@ -6,12 +6,13 @@ category: futureproofgear
 tags:
   - futureproofgear
 layout: post
+image: https://c3.staticflickr.com/4/3856/14506057802_91240ffe46_b.jpg
 ---
 Interested in the lastest and newest outdoor gear? We are starting a new series of blog posts where we present you with the latest outdoor gear and gadgets.
 
 Do you want us to review it? Comment and follow us on social media using the hashtag #FutureproofGear.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/14506057802/in/album-72157633229673101/" title="Futureproof: the outdoor gear for tomorrow's you?"><img src="https://c3.staticflickr.com/4/3856/14506057802_91240ffe46_b.jpg" width="1024" height="683" alt="Futureproof: the outdoor gear for tomorrow's you?"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://c3.staticflickr.com/4/3856/14506057802_91240ffe46_b.jpg" width="100%" alt="Futureproof - the outdoor gear for tomorrow's you?"></amp-img>
 
 <!--more-->
 
