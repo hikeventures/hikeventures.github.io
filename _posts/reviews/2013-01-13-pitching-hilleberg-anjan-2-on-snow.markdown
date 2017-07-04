@@ -3,6 +3,7 @@ title: Pitching Hilleberg Anjan 2 on snow
 description: A high quality 3 season tent which is leighweight and packs small
 date: 2013-01-13 07:30:00
 category: reviews
+image: https://farm9.staticflickr.com/8326/8375204505_0d31ecaa55_b.jpg
 tags:
   - reviews
   - hilleberg

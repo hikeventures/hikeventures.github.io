@@ -9,6 +9,7 @@ tags:
   - finland
   - packrafting
   - anfibio
+image: https://farm2.staticflickr.com/1461/26742804516_281978b871_b.jpg
 ---
 Last Sunday, <a href="http://caide.kuvat.fi">Caj</a> and his wife joined me for a trip in the Finnish Archipelago Sea around Ruisalo in Turku as they wanted to test their new Anfibio Packsuit which they ordered from the <a href="http://www.packrafting-store.de/Clothing/Anfibio-Packsuit::378.html">Packrafting Store</a> in Germany. Caj was already a bit in panic if he would receive his drysuite on time as he was planning to take it to the <a href="https://www.facebook.com/events/501436800038543/">Swedish Packrafting Round-Up 2016</a> which will take place next weekend.
 

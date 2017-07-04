@@ -8,6 +8,7 @@ tags:
   - reviews
   - Marmot
   - Tents
+image: https://c6.staticflickr.com/9/8173/28716081045_3a83f76f0a_k.jpg
 ---
 A few weeks ago I received the Marmot Force UL 2P from Marmot to test it on my summer trips in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/) and [Norway](http://www.hikeventures.com/Finnmark/). I was interested in the Marmot Force UL 2P as I was looking for a light 3-season solo tent which can also handle somewhat stronger winds on the Norwegian coast.
 
@@ -31,6 +32,8 @@ I was testing the Marmot Force UL 2P on a one week trip in Finnish Lapland and i
 However, I was able to sleep comfortably for one week without having any issues with the tent. The loops in the inner tent allowed me to put a cord through them so I could dry my [hiking socks](http://www.backcountry.com/icebreaker-hike-mid-crew-sock-mens-ice0793), [towel](http://www.backcountry.com/packtowl-original-towel) and my [hat](http://www.backcountry.com/fjallraven-marlin-mt-hat). Apart from the normal tent bag I also used a [stuff bag](http://www.backcountry.com/sea-to-summit-ultra-sil-event-compression-dry-sack) to minimize the size of the tent in my backpack while carrying the pegs and the poles seperately.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28431574600/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Norway"><img src="https://c1.staticflickr.com/9/8634/28431574600_c262b110ef_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P on HMG Porter 4400 backpack"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
 
 ---
 

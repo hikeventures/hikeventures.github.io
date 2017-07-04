@@ -12,6 +12,7 @@ tags:
   - lens
   - blogging
 layout: post
+image: https://farm9.staticflickr.com/8546/15182978924_06f8926249_h.jpg
 ---
 
 Today, I grabbed my camera in the afternoon trying to capture some sunset pictures with my Sony A7r on the neighboring island where I live. The last week has been cloudy and I really looked forward to get out for a walk and evaluating at the same time if I should get a new Zeiss Loxia 35mm 2.0 lens.

@@ -8,6 +8,7 @@ tags:
   - tents
   - hilleberg
 layout: post
+image: https://farm9.staticflickr.com/8541/8648026950_c0f7a5fdac_b.jpg
 ---
 A couple of months ago, I was looking for a new tent which I can use during my planned hikes in Sweden and Finland and for other backpacking, packrafting and camping trips.  After some field testing I am now able to write a short review about my experiences with the Hilleberg Anjan 2 which I found to be one of the best 3-season tunnel tents. An alternative would be the Nallo 2 (as a 4-season tent) or the Kaitum 2 (if you need more space). If you are planning to get a 2-person tent then you should get the Anjan 3, Nallo 3 or Kaitum 3. It just feels to crammed in the smaller models but they work very well as 1-person tents. Just as a side note, I went hiking with both - the Anjan 2 and the Anjan 3.
 

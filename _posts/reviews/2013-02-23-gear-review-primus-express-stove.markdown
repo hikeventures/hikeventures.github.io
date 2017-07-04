@@ -8,6 +8,7 @@ tags:
   - primus
   - stove
 layout: post
+image: https://farm9.staticflickr.com/8329/8372540157_94d5f4fca6_b.jpg
 ---
 <a href="https://www.flickr.com/photos/90204224@N07/8372540157" title="Primus Express Stove"><img src="https://farm9.staticflickr.com/8329/8372540157_94d5f4fca6_b.jpg" width="683" height="1024" alt="Primus Express Stove hiking and backpacking ultralight"></a>
 

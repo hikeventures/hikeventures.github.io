@@ -9,6 +9,7 @@ tags:
   - packrafting
   - shoes
 layout: post
+image: https://farm2.staticflickr.com/1624/25841666865_141d7f355a_b.jpg
 ---
 For our packrafting trips we are more or less always wearing our dry suites which we combine with latex socks.
 
@@ -37,3 +38,9 @@ As the Sea to Summit booties do also completely enclose your feet you will proba
 Finally, you should also consider to have shoes or sandals which are not slippery when walking on rocks and both shoes - the Sea to Summit and the Teva - made a good impression.
 
 We will continue testing the Sea to Summit Ultra Flex Booties this year to see how durable they are.
+
+<a href="http://amzn.to/2dEr5ss" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">See the Sea to Summit Ultra Flex Booties</button></a>
+
+{% include disclaimer.html %}
+
+---

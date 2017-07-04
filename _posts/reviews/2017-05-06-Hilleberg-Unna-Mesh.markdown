@@ -10,6 +10,7 @@ tags:
   -Hilleberg
   -tent
   -gear
+image: https://c1.staticflickr.com/3/2886/34100728560_568624aa28_k.jpg
 ---
 Last weekend I had the opportunity to test the Hilleberg Unna Inner Mesh on our trip in Sweden. As you probably know Hilleberg manufactures quite good tents but the inner tents which usually come with each tent can limit a bit the air circulation.
 

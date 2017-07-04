@@ -7,6 +7,7 @@ tags:
   - reviews
   - poles
 layout: post
+image: https://farm9.staticflickr.com/8505/8449891659_dbe8b1b352_b.jpg
 ---
 If you are looking for really light hiking poles then you should give the Black Diamond Ultra Distance Z-Poles a try. They are super portable and light for the summer. Unfortuantely, they are not that suitable for winter activities as you can not attach snow baskets on them.
 

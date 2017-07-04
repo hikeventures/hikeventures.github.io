@@ -8,6 +8,7 @@ tags:
   - field notes
   - blogging
 layout: post
+image: https://farm4.staticflickr.com/3665/11466248965_4e1a237577_b.jpg
 ---
 
 

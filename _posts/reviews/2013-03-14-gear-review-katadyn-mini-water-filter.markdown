@@ -8,6 +8,7 @@ tags:
   - kitchen
   - katadyn
 layout: post
+image: https://farm9.staticflickr.com/8389/8556629391_d8688af598_b.jpg
 ---
 
 I was looking for a water purifier which I can take on my hiking, backpacking and packrafting trips which is light and does not need much space and decided to go with a Katadyn Mini + <a href="http://hikeventures.com/gear-review-steripen-freedom/" target="_self">UV SteriPen</a> combination (since the Katadyn Mini is not a solution against Viruses) and here comes a short review.

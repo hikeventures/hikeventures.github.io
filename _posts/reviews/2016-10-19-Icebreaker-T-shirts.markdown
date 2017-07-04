@@ -10,6 +10,7 @@ tags:
   - t-shirt
   - merino
   - t-shirts
+image: https://c4.staticflickr.com/9/8556/29794613243_97ff8d015a_k.jpg
 ---
 
 The first time I heard about Icebreaker was about 5 or 6 years ago when together with my Adventure Tourism students I went for a short "gear talk" to our local outdoor shop. The sales guy told us that they had some t-shirts that were "really cool" because you could wear them for a long time and they wouldn’t 'stink'.
@@ -57,7 +58,7 @@ And this is why I like merino and Icebreaker garments in particular – they don
 ---
 
 ## Reason 3: Icebreaker t-shirts are very warm
-Yes, they are. Well, exactly how warm they are would, of course, depend on the thickness of the material usually represented by a number, which stands for the fabric’s weight in grams per square meter. And there are two most common types used by Icebreaker for t-shirts. These are 150 (or ultralight) and 200 (or lightweight). The former is meant to be rather versatile and could be used in all seasons, whereas the latter is more for moderate to cool conditions.  
+Yes, they are. Well, exactly how warm they are would, of course, depend on the thickness of the material usually represented by a number, which stands for the fabric’s weight in grams per square meter. And there are two most common types used by Icebreaker for t-shirts. These are 150 (or ultralight) and 200 (or lightweight). The former is meant to be rather versatile and could be used in all seasons, whereas the latter is more for moderate to cool conditions.
 
 And it is very true – I have a few Icebreaker t-shirts in 150 and a few in 200. And the ones in 150 are great on their own in summer, but I also wear them in combination with other items throughout the year. Often, on hiking and packrafting trips I use them as a base layer or nightwear (and sometimes even both).
 

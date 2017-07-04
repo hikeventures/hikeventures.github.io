@@ -9,6 +9,7 @@ tags:
   - photography
   - remote control
 layout: post
+image: http://farm3.staticflickr.com/2834/11857317396_342fcc3f83_c.jpg
 ---
 If you are looking for a dedicated inexpensive remote control for your Sony a7R to take some pictures without the fuss of starting apps etc. then you might consider this remote control which has been developed by a third party company (BV & Jo).
 

@@ -10,6 +10,7 @@ tags:
   -Hilleberg
   -tent
   -gear
+image: https://c1.staticflickr.com/5/4188/33643566884_98342defcd_k.jpg
 ---
 
 Recently, I received my new Hilleberg Tarp 10 UL together with my <a href="http://amzn.to/2qNRTZk" rel="nofollow">Hilleberg Unna Tent</a> and the <a href="http://amzn.to/2pRlpxL" rel="nofollow">Hilleberg Unna Inner Mesh</a> tent. The idea was to use the the Tarp 10 UL together with the Unna Inner Mesh tent during the warmer months to get better air ventilation within the Inner Mesh Tent rather than using the original Unna outer tent.

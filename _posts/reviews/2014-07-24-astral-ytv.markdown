@@ -9,6 +9,7 @@ tags:
   - astral designs
   - packrafting
 layout: post
+image: https://farm4.staticflickr.com/3899/14547568237_44d9c29d97_b.jpg
 ---
 
 The Astral Designs YTV is my new PFD which is replacing my good old <a href="http://www.packrafting-store.de/Safety/Secumar-Vivo-50::388.html" target="_blank">Secumar Vivo 50</a> which I used for packrafting and here comes a short review. While the Astral YTV with its 798 grams is almost twice as heavy as my Secumar with its 280 grams, it has some nice additional features and is also the lightest whitewater PFD on the market.

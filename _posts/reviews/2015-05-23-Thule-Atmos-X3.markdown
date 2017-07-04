@@ -8,13 +8,12 @@ tags:
   - thule
   - phone
 layout: post
+image: https://c4.staticflickr.com/8/7684/17801901680_2b6055e8d4_o.jpg
 ---
 
 In the middle of January this year I got my new iPhone 6, put it in the Thule Atmos X3 case and has hardly taken it out of it again and here comes a short review. Thus paired, this happy couple has hardly ever left my side for the last four months – from the white emptiness of Finnish Lapland to the meandering rivers in the Belgian Ardennes they have showed me the way and helped me to document all my hiking and packrafting adventures. And here is why.
 
 <amp-img src="https://c4.staticflickr.com/8/7684/17801901680_2b6055e8d4_o.jpg" width="100%" alt="Thule Atmos X3"></amp-img>
-
-<!--more-->
 
 > Update 17.12.2015: The Thule Atmos X5 has been released. The X5 is waterproof compared to the X3. Have a look <a href="http://amzn.to/1OxoOpe">here</a>.
 
@@ -41,7 +40,7 @@ Reading stories about bent iPhones 6 and seeing pictures of them on the Internet
 
 <a href="https://www.flickr.com/photos/90204224@N07/17989536255"><img src="https://c1.staticflickr.com/9/8781/17989536255_c599a5ebb1_o.jpg" width="100%" alt="Thule Atmos X3"></a>
 
-My decision in favor of upgrading to iPhone 6 came when I got hold of Thule Atmos X3 iPhone 6 case (the curtesy of Thule), which resolved most of the issues that I had with the new design. To begin with, this snap-on case, while still being very thin (only 1 cm), offers that extra bulk that I missed so much. It does come at a cost of extra 30 gram (the weight of the case), which, in my opinion, is a very small price to be paid for the solid feel it gives. In addition, when you hold the phone, Atmos X3 fits very nicely on the palm of my hand (I have big hands though) and it feels that I have a good grip. And it is not my feeling alone. Just a few days ago I was talking about my phone to a friend of mine. When I took it out of the case to show it better, she was surprised how flimsy it felt in her hand in comparison to when it was in Atmos X3.
+My decision in favour of upgrading to iPhone 6 came when I got hold of Thule Atmos X3 iPhone 6 case (the curtesy of Thule), which resolved most of the issues that I had with the new design. To begin with, this snap-on case, while still being very thin (only 1 cm), offers that extra bulk that I missed so much. It does come at a cost of extra 30 gram (the weight of the case), which, in my opinion, is a very small price to be paid for the solid feel it gives. In addition, when you hold the phone, Atmos X3 fits very nicely on the palm of my hand (I have big hands though) and it feels that I have a good grip. And it is not my feeling alone. Just a few days ago I was talking about my phone to a friend of mine. When I took it out of the case to show it better, she was surprised how flimsy it felt in her hand in comparison to when it was in Atmos X3.
 
 <a href="https://www.flickr.com/photos/90204224@N07/17803302479"><img src="https://c4.staticflickr.com/8/7707/17803302479_3d84454f46_o.jpg" width="100%" alt="Thule Atmos X3"></a>
 
@@ -62,3 +61,11 @@ But the case has its limitations as well. As it is open, it does not provide any
 This all may change very soon as I have heard that Thule is planning to release a waterproof version of Atmos mobile case, which would be definitely something I will be interested in once it is available on the market. It would definitely be nice to enjoy the solid feel of the present case, while resting assured that no harm can be done to the phone in case it gets into the water. And I also hope that the new case would also have some kind of attachment point that I could use to fasten a lanyard or a strap. What the incident with my old phone has taught me is that it is not enough to keep your phone waterproof. It is also necessary to keep your phone. Full stop.
 
 My verdict – even though Thule Atmos X3 has its limitations (especially when dealing with it on the water - check the the new Thule X5 if you need a waterproof solution), it is definitely something that I would recommend. Eventually it was one of the main reasons why I made up my mind to upgrade to iPhone 6.
+
+<a href="http://www.moosejaw.com/moosejaw/shop/product_Thule-Atmos-X3-iPhone-6_10281413_10208_10000001_-1_" rel="nofollow"><button type="button" class="btn btn-danger">See the Thule Atmos X3</button></a>
+
+---
+
+{% include disclaimer.html %}
+
+---

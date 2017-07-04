@@ -9,6 +9,7 @@ tags:
   - gps
   - watch
 layout: post
+image: https://farm3.staticflickr.com/2866/9599014438_4f27c21c17_b.jpg
 ---
 For those folks who would like to keep track on where they hiked, biked etc. should have a look on GPS watches like the Suunto Ambit2. Sure, you can also do this with an app on your phone but personally I found it more comfortable to have a watch on my wrist. Having had the Suunto Ambit before the Suunto Ambit 2 also adds altitude GPS functionality and "Find back" support.
 

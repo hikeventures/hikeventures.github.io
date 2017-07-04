@@ -9,6 +9,7 @@ tags:
   -Western Mountaineering
   -sleeping bags
   -gear
+image: https://c1.staticflickr.com/9/8185/28431572180_4c18fea5a0_b.jpg
 ---
 Last year I was looking for a new sleeping bag to replace my [Cumulus Panjam 450][1] and here is a first review about the Western Mountaineering VersaLite - a 3-season sleeping bag.
 

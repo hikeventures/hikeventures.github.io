@@ -9,8 +9,9 @@ tags:
   - gloves
   - packrafting
 layout: post
+image: https://c1.staticflickr.com/9/8768/17786274601_f1222d0376_b.jpg
 ---
-After we had some quality issues with our previous packrafting gloves, we decided to get the Palm Hook gloves for our packrafting trips in spring and autumn.  
+After we had some quality issues with our previous packrafting gloves, we decided to get the Palm Hook gloves for our packrafting trips in spring and autumn.
 
 <amp-img src="https://c1.staticflickr.com/9/8768/17786274601_f1222d0376_b.jpg" width="100%" alt="Palm Hook Gloves - best gloves packrafting"></amp-img>
 

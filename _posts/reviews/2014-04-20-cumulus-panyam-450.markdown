@@ -8,6 +8,7 @@ tags:
   - sleeping bags
   - cumulus
 layout: post
+image: https://farm8.staticflickr.com/7087/13946402053_4126fe266f_b.jpg
 ---
 Looking for a warm high quality down sleeping bag for 4-season hiking, backpacking, camping or other outdoor activities? The Cumulus Panyam 450 sleeping bag has been our choice for our trips to northern Sweden in autumn. Cumulus manufactures their sleeping bags in Poland and I found the price / value ratio of their sleeping bags much better than of those other big outdoor brands.
 

@@ -8,6 +8,7 @@ tags:
   - calazo
   - maps
 layout: post
+image: https://c3.staticflickr.com/3/2833/9327368022_3b131753c2_b.jpg
 ---
 <h2 style="color:red">Waterproof maps are great for hiking and backpacking</h2>
 <br>

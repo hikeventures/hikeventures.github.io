@@ -8,6 +8,7 @@ tags:
   - leatherman
   - knives
 layout: post
+image: https://farm4.staticflickr.com/3704/13711116474_6cde7a3b97_b.jpg
 ---
 
 For my hiking & packrafting trips I was looking for a tool which is light and packs small and I came across the Leatherman Style CS 2. Here comes a short review.

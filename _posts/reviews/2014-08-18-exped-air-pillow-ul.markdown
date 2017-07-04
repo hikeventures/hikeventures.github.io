@@ -8,11 +8,12 @@ tags:
   - exped
   - sleeping pads
 layout: post
+image: https://farm4.staticflickr.com/3894/14925259216_ff2d1deb5e_b.jpg
 ---
 
 When you plan you next hiking, backpacking, packrafting or other outdoor trip it's a good idea to have a pillow with you which is lightweight and packable. Here is a short review about the Exped Air Pillow UL M which is the perfect companion for the <a href="http://hikeventures.com/exped-synmat-ul-7/" target="_self">Exped SynMat UL 7</a> which we have used the last months on our adventures.
 
-<amp-img src="https://farm4.staticflickr.com/3894/14925259216_ff2d1deb5e_b.jpg" width="100%" alt="Exped Airpillow UL Review"></amp-img>
+<amp-img src="https://farm4.staticflickr.com/3894/14925259216_ff2d1deb5e_b.jpg" width="100%" alt="Exped Airpillow"></amp-img>
 
 <!--more-->
 
@@ -27,5 +28,15 @@ The valve to inflate and deflate the Exped Air Pillow UL M
 
 Quality and durability of the Air Pillow is also quite good and I am so far not able to spot any signs of wear on the Air Pillow which comes with a warranty of 2 years.
 
+---
+
 ## Recommendation
 I like the Exped Air Pillow UL. The pillow feels comfortable, packs small and seems to be durable. I would most probably buy it again.
+
+<a href="http://www.backcountry.com/exped-air-pillow" rel="nofollow"><button type="button" class="btn btn-danger">See the Exped Air Pillow</button></a>
+
+---
+
+{% include disclaimer.html %}
+
+---
