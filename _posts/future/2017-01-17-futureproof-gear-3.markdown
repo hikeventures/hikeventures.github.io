@@ -6,12 +6,13 @@ category: futureproofgear
 tags:
   - futureproofgear
 layout: post
+image: https://c1.staticflickr.com/1/634/31539128793_aa4e86301a_k.jpg
 ---
 In this issue of futureproof outdoor gear we will present you our newest picks of emerging gear like a wearable power bank, trackable wallets or a water filtration system.
 
 Would you buy it? Do you want us to review it? Comment and follow us on [Facebok](https://www.facebook.com/HikeVentures/) or [Twitter](https://twitter.com/HikeVentures) with the hashtag #FutureproofGear.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31539128793/in/dateposted-public/" title="Northern Norway"><img src="https://c1.staticflickr.com/1/634/31539128793_aa4e86301a_k.jpg" width="2048" height="1152" alt="Futureproof Gear fly360 4K camera"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://c1.staticflickr.com/1/634/31539128793_aa4e86301a_k.jpg" width="100%" alt="Futureproof - the outdoor gear for tomorrow's you?"></amp-img>
 
 <!--more-->
 

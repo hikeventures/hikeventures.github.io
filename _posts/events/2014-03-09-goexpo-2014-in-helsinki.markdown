@@ -1,17 +1,20 @@
 ---
 title: GoExpo 2014 in Helsinki
-description: GoExpo 2014 - Outdoor Exhibition in Helsinki
+description: GoExpo - Outdoor Exhibition in Helsinki
 date: 2014-03-09 21:15:24
 category: articles
-tags: 
+tags:
   - articles
   - goexpo
   - helsinki
   - finland
 layout: post
+image: http://farm3.staticflickr.com/2307/13040796935_cdc82148f2_c.jpg
 ---
 
 Last Saturday, I was able to attend the <a href="http://www.goexpo.fi" target="_blank">GoExpo 2014</a>. Here are some impressions from the exhibition like the <a href="http://www.dji.com/product/phantom" target="_blank">DJI Phantom 1 Helicopter</a> to take aerial videos with your GoPro Hero camera.
+
+<amp-img src="http://farm3.staticflickr.com/2307/13040796935_cdc82148f2_c.jpg" width="100%" alt="GoExpo - Outdoor Exhibition in Helsinki"></amp-img>
 
 <img src="http://farm3.staticflickr.com/2307/13040796935_cdc82148f2_c.jpg"><!--more-->
 
