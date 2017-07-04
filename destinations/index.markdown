@@ -522,6 +522,7 @@ footer: false
            <img src="https://farm5.staticflickr.com/4257/34898844973_195c9b2e1a_z.jpg" alt="" class="img-responsive">
            <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Aviemore</p>
            </div></div></a></div></div>
+           
              <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/3-days-in-the-scottish-highlands/" style="color: #FFF; border: 0px;">
         <div class="thumbnail text-center">
