@@ -3,13 +3,16 @@ title: Last colours of autumn in Finland
 description: Autumn in a Finnish Forest 2014
 date: 2014-10-12 17:39:36
 category: articles
-tags: 
+tags:
   - articles
   - finland
 layout: post
+image: https://farm4.staticflickr.com/3934/15515022052_94a162682e_b.jpg
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15515022052" title="Autumn Forrest Finland"><img src="https://farm4.staticflickr.com/3934/15515022052_94a162682e_b.jpg" width="1024" height="683" alt="Autumn Forrest Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>Today, I went into the forest with my camera to capture the last colours of autumn for this year. There are not many leafs left on the trees and temperatures are dropping. 
+<amp-img src="https://farm4.staticflickr.com/3934/15515022052_94a162682e_b.jpg" width="100%" alt="Autumn Forrest Finland"></amp-img>
+
+Today, I went into the forest with my camera to capture the last colours of autumn for this year. There are not many leafs left on the trees and temperatures are dropping.
 <a href="https://www.flickr.com/photos/90204224@N07/15515018692" ><img src="https://farm4.staticflickr.com/3947/15515018692_68f83d0069_c.jpg" width="800" height="534"></a>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15515421845" title="Autumn Forrest Finland"><img src="https://farm6.staticflickr.com/5602/15515421845_ae9c5ab96e_b.jpg" width="1024" height="683" alt="Autumn Forrest Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

@@ -9,10 +9,15 @@ tags:
   - finland
   - hiking
 layout: post
+image: https://farm4.staticflickr.com/3846/15002036450_e92659f910_b.jpg
 ---
 It is autumn in Finland and the forests are full of mushrooms. Come and discover with me some mushrooms in Southern Finland. Your task on this adventure is to identify those mushrooms.
 
-<a href="https://www.flickr.com/photos/90204224@N07/15002036450" title="Mushrooms in Finland by HikeVentures, on Flickr"><img src="https://farm4.staticflickr.com/3846/15002036450_e92659f910_b.jpg" width="1024" height="683" alt="Mushrooms in Finland"></a><!--more-->This seems to be a mushroom family. My guess is that these are honey mushrooms.
+<amp-img src="https://farm4.staticflickr.com/3846/15002036450_e92659f910_b.jpg" width="100%" alt="Mushrooms in Finland"></amp-img>
+
+<!--more-->
+
+This seems to be a mushroom family. My guess is that these are honey mushrooms.
 <a href="https://www.flickr.com/photos/90204224@N07/15178409282" title="Mushrooms in Finland by HikeVentures, on Flickr"><img src="https://farm6.staticflickr.com/5571/15178409282_3a858c3a2a_b.jpg" width="1024" height="683" alt="Mushrooms in Finland"></a>
 
 First, we have to get deeper into the forest to find the real gems!

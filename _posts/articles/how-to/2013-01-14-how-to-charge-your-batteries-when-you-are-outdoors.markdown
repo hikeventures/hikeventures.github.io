@@ -7,12 +7,14 @@ tags:
   - articles
   - batteries
 layout: post
+image: https://farm9.staticflickr.com/8363/8381056716_17c454bf74_b.jpg
 ---
 Most of my gear is equipped with an USB connection e.g. my <a href="http://hikeventures.com/gear-review-suunto-ambit-2-black-hr/" target="_self">Suunto Ambit 2</a>, my phone, my camera or my <a href="http://hikeventures.com/petzl-nao-headlamp-test/" target="_blank">Petzl Nao headlamp</a>. But hey, I always run out of battery after 2 or 3 days and there is no USB connection in the forrest in order to charge my devices.
 
 I found a solution which could extend the usage of your electronic gear for a couple of days.
 
-<a href="https://www.flickr.com/photos/90204224@N07/8381056716" title="Anker Astro3e"><img src="https://farm9.staticflickr.com/8363/8381056716_17c454bf74_b.jpg" width="600" height="683" alt="Anker Astro3e best rechargable usb battery power bank for hiking and backpacking"></a>
+<amp-img src="https://farm9.staticflickr.com/8363/8381056716_17c454bf74_b.jpg" width="100%" layout="responsive" alt="Anker Astro3e"></amp-img>
+
 <!--more-->
 
 ---

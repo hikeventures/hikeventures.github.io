@@ -7,13 +7,17 @@ tags:
   - articles
   - ultralight
 layout: post
+image: https://farm4.staticflickr.com/3715/9606341414_ea6945a4fb_b.jpg
+
 ---
 If you are planning a long hiking trip then you probably would like to save some weight and decide to buy ultralight gear either in your local camping store or a dedicated ultralight gear shop. If you have ever done an extensive hike - especially in an environment where weather is not predictable i.e. cold and wet for several days - relying solely on ultralight gear might not be the best option if you are not willing to sacrifice on comfort.
 
-<img src="https://farm4.staticflickr.com/3715/9606341414_ea6945a4fb_b.jpg" width="100%"  alt="Ultralight Hiking - HMG Porter 4400 - Montane Minimus Jacket"><!--more-->
+<amp-img src="https://farm4.staticflickr.com/3715/9606341414_ea6945a4fb_b.jpg" width="100%" alt="Ultralight Hiking - HMG Porter 4400 - Montane Minimus Jacket"></amp-img>
+
+<!--more-->
 
 ## Less weight equals more comfort?
-Obviously, if you have to carry less weight you will enjoy your hike more. However,  from my point of view weight is only one factor which adds up to  'fun' in backpacking. Once I went hiking to the [Swedish mountains][1] where I tested the principles of ultralight hiking to some point by having some ultralight gear with me and here are my thoughts with gear I carried with me.  
+Obviously, if you have to carry less weight you will enjoy your hike more. However,  from my point of view weight is only one factor which adds up to  'fun' in backpacking. Once I went hiking to the [Swedish mountains][1] where I tested the principles of ultralight hiking to some point by having some ultralight gear with me and here are my thoughts with gear I carried with me.
 
 ### Ultralight Tents
 We had a 2 person [Hilleberg Anjan][2] tent with us which is considered as a lightweight tent in the Hilleberg tent family. Now there are even lighter Hilleberg tents out like the 1-person [Hilleberg Enan][3] tent. Those tents work during the warmer months of the year and if there is not a long period of rain.

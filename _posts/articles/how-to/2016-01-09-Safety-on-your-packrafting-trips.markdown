@@ -7,12 +7,12 @@ tags:
   - articles
   - packrafting
 layout: post
+image: https://farm2.staticflickr.com/1650/24188416291_90a7103ccd_b.jpg
 ---
 
 On our packrafting trips we always follow 3 steps if we come across a rapid which we don’t know and where we are not able to see what lies ahead of us.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24188416291/in/dateposted-public/" title="Safety on your packrafting trip"><img src="https://farm2.staticflickr.com/1650/24188416291_90a7103ccd_b.jpg" width="100%" alt="Safety on your packrafting trip - Anfibio Packsuit - Suunto Ambit3 - HMG Porter 4400 - Alpackaraft"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
+<amp-img src="https://farm2.staticflickr.com/1650/24188416291_90a7103ccd_b.jpg" width="100%" alt="Safety on your packrafting trip - Anfibio Packsuit - Suunto Ambit3 - HMG Porter 4400 - Alpackaraft"></amp-img>
 
 ## Step 1: Scout
 Once we are on a spot where the rapid gets stronger and where we cannot see what lies ahead of us we always step out of our packrafts and scout. Sometimes scouting can take some time but for safety reasons it’s better to take your time and arrive a bit later rather than get into an emergency situation in the backcountry.  

@@ -7,11 +7,13 @@ tags:
   - articles
   - packrafting
 layout: post
+image: https://farm8.staticflickr.com/7392/9596207069_876c019ced_b.jpg
 ---
 
 In this post I give a summary / gear list on what gear to take when planning a packrafting trip. I will describe the factors affecting which gear to take, essential packrafting gear, packrafting gear for whitewater, gear needed for the camp site and additional gear. Additional items might be added in the future.
 
-<img src="https://farm8.staticflickr.com/7392/9596207069_876c019ced_b.jpg" width="100%" alt="Packrafting Gear in Sweden - Alpacka Raft - HMG Porter 4400">
+<amp-img src="https://farm8.staticflickr.com/7392/9596207069_876c019ced_b.jpg" width="100%" alt="Packrafting Gear in Sweden - Alpacka Raft - HMG Porter 4400"></amp-img>
+
 <!--more-->
 
 ## Factors
