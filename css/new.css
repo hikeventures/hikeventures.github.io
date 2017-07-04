@@ -399,7 +399,8 @@ footer > div > div.col-xs-7, footer > div > div.col-xs-8, footer > div > div.col
 
 .footer-title img {
     height: 55px;
-    margin-right: 5px;
+    padding-right: 5px;
+	vertical-align: middle;
 }
 
 .footer-copyrights {
