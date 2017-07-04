@@ -401,6 +401,7 @@ footer > div > div.col-xs-7, footer > div > div.col-xs-8, footer > div > div.col
     height: 55px;
     padding-right: 5px;
 	vertical-align: middle;
+	margin-bottom: -15px;
 }
 
 .footer-copyrights {
