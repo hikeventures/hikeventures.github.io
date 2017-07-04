@@ -46,7 +46,7 @@ published: true
 			</div>
 			<h3>Gear Testing</h3>
 			<p>On our blog we are reviewing outdoor gear which we receive from well known outdoor brands. <a href="http://www.hikeventures.com/Thule-Chasm-XL-Duffle-Bag/">Here</a> is an example of a more detailed review which we wrote for a company. Feel free to <a href="http://www.hikeventures.com/about/#contact">contact us</a> if you want us to test one of your products on our trips. Please note that we will express our own opinion on your products in our reviews.</p>
-			<p class="bigimage"><amp-img src="https://farm6.staticflickr.com/5683/21885051180_963c46af51_b.jpg" width="1000" height="363" alt="Packrafting in Abisko, Sweden" /></amp-img></p>
+			<p class="bigimage"><amp-img src="https://farm6.staticflickr.com/5683/21885051180_963c46af51_b.jpg" width="1000" height="363" layout="responsive" alt="Packrafting in Abisko, Sweden" /></amp-img></p>
 			<h3>Partners and Sponsors</h3>
 			<div id="partners_table" class="row">
 				<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
