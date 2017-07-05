@@ -22,7 +22,7 @@ published: true
 			<iframe src="https://www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fpatrickdormischian&width=139&height=21&layout=button_count&size=large&show_faces=true&appId=582626375123567" width="139" height="28" style="border:none;overflow:hidden;float:right;" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 			<h3>Patrick</h3>
 			<p><a href="https://www.facebook.com/profile.php?id=100009207710788">Patrick</a> was born 1978 in South Germany nearby the Alps where he was hiking and skiing extensively especially in Austria. Having parents from Iran and Austria travelling was always part of Patrick’s life. Patrick moved to Finland in 2006 and currently lives on an island in the Archipelago Sea on the South West Coast of Finland which is a great place for exploring some of the 6500 islands by packraft, kayak, bicycle or foot. Patrick has also lived several months in Australia where he was diving with sharks and explored the blue mountains. Moreover, he has also worked in the Swiss mountains for several months which was a perfect place for snowboarding and skiing adventures in powder snow. Having relatives in Canada, Patrick also visited Banff National Park, traveled to China, Thailand, Romania, the Arab Emirates and India.</p>
-			
+
 			<center><amp-img src="konst-avatar.png" class="about_avatar" width="260" height="260" alt="Konstantin" /></amp-img></center>
 			<iframe src="https://www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fkonstantin.gridnevskiy&width=132&height=21&layout=button_count&size=large&show_faces=true&appId=582626375123567" width="132" height="28" style="border:none;overflow:hidden;float:right;" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 			<h3>Konstantin</h3>
@@ -50,28 +50,28 @@ published: true
 			<h3>Partners and Sponsors</h3>
 			<div id="partners_table" class="row">
 				<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-					<amp-img src="m-s-r-logo.png" width="136" height="136" alt="MSR" /></amp-img>
+					<amp-img src="m-s-r-logo.png" width="256" height="256" alt="MSR" /></amp-img>
 				</div>
 				<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-					<amp-img src="thule-logo.png" width="136" height="136" alt="Thule" /></amp-img>
+					<amp-img src="thule-logo.png" width="256" height="256" alt="Thule" /></amp-img>
 				</div>
 				<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-					<amp-img src="palm-logo.png" width="136" height="136" alt="Palm" /></amp-img>
+					<amp-img src="palm-logo.png" width="256" height="256" alt="Palm" /></amp-img>
 				</div>
 				<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-					<amp-img src="werner-logo.png" width="136" height="136" alt="Werner Paddles" /></amp-img>
+					<amp-img src="werner-logo.png" width="256" height="256" alt="Werner Paddles" /></amp-img>
 				</div>
 				<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-					<amp-img src="lundhags-logo.png" width="136" height="136" alt="Lundhags" /></amp-img>
+					<amp-img src="lundhags-logo.png" width="256" height="256" alt="Lundhags" /></amp-img>
 				</div>
 				<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-					<amp-img src="haglfs-logo-copy.png" width="136" height="136" alt="Haglofs" /></amp-img>
+					<amp-img src="haglfs-logo-copy.png" width="256" height="256" alt="Haglofs" /></amp-img>
 				</div>
 				<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-					<amp-img src="thermares-logo.png" width="136" height="136" alt="Thermares" /></amp-img>
+					<amp-img src="thermares-logo.png" width="256" height="256" alt="Thermares" /></amp-img>
 				</div>
 				<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-					<amp-img src="alpacka-logo.png" width="136" height="136" alt="Alpacka" /></amp-img>
+					<amp-img src="alpacka-logo.png" width="256" height="256" alt="Alpacka" /></amp-img>
 				</div>
 			</div>
 			<h4>Affiliate Links</h4>
@@ -100,7 +100,7 @@ published: true
 				</div>
 			</div>
 			<center>
-				<amp-img src="http://www.hikeventures.com/post_subscribe.png" width="654" height="297" layout="responsive"></amp-img>
+				<amp-img src="http://www.hikeventures.com/post_subscribe.png" width="800" height="363" layout="responsive"></amp-img>
 			</center>
 		</div>
 	    <div class="col-sm-1 col-lg-1 col-md-1 col-xs-12 page-content-divider"></div>
