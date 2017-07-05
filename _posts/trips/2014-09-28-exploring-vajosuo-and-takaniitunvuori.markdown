@@ -9,10 +9,11 @@ tags:
   - finland
   - hiking
 layout: post
+image: https://farm3.staticflickr.com/2941/15376364205_12fb4cc083_b.jpg
 ---
 Saturday I went out to the woods again to explore other parts of the Kurjenrahka National Park nearby Turku where [I went](http://hikeventures.com/autumn-colors-around-lake-savojarvi/) already 2 weeks ago for a hiking trip. First, I explored the bird tower at Vajosuo and then I went to Takaniitunvuori which is located west to Savojärvi.
 
-[![Kurjenrahka National Park](https://farm3.staticflickr.com/2941/15376364205_12fb4cc083_b.jpg)](https://www.flickr.com/photos/90204224@N07/15376364205 "Kurjenrahka National Park Vajosuo and Takaniitunvuori sign")
+<amp-img src="https://farm3.staticflickr.com/2941/15376364205_12fb4cc083_b.jpg" width="952" width="635" alt="Kurjenrahka National Park"></amp-img>
 
 <!--more-->
 

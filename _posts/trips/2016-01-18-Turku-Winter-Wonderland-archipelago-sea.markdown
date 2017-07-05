@@ -9,10 +9,12 @@ tags:
   - turku
   - finland
 layout: post
+image: https://farm2.staticflickr.com/1590/24409302876_89a3f1c7fd_b.jpg
 ---
 Last weekend we got plenty of snow in Turku and I seized the opportunity to rush out with my camera to take some pictures. First I went to the city centre but then decided to drive to Ruissalo which is also a cool place during the summer time. 
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/90204224@N07/24409302876/in/dateposted-public/" title="Turku, Finland"><img src="https://farm2.staticflickr.com/1590/24409302876_89a3f1c7fd_b.jpg" width="100%" alt="Winter Tourism & Travel in Turku, Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://farm2.staticflickr.com/1590/24409302876_89a3f1c7fd_b.jpg" width="1024" height="681" alt="Turku Winter Wonderland at the Archipelago Sea"></amp-img>
+
 
 <!--more-->
 

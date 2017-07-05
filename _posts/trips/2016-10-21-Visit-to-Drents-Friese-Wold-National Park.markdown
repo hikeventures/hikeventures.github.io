@@ -11,11 +11,13 @@ tags:
   - Drents-Friese Wold National Park
   - dunes
   - sheep
+image: https://c7.staticflickr.com/9/8410/29825366374_8a30bcf886_h.jpg
 ---
 
 “It feels as if we were next to the sea”, says Marta. But we are not. We are in the middle of the biggest sandpit in the Netherlands at the border of two Dutch provinces over 50 km away from the nearest shore. And this sandpit is part of the Drents-Friese Wold National Park, which is the second largest area of woodland and heath in the country. But unlike some other national parks, which can be exemplified by one particular type of landscape, this one cannot be so easily typecast as the diversity is the most common feature of it. And this makes it an interesting and exciting place to visit.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29825366374/in/dateposted-public/" title="The Bold Dune"><img src="https://c7.staticflickr.com/9/8410/29825366374_8a30bcf886_h.jpg" width="1600" height="1067" alt="dune sand national park Drents-Friese Wold hiking microadventure"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://c7.staticflickr.com/9/8410/29825366374_8a30bcf886_h.jpg" width="1600" height="1066" alt="Hiking Short Visit to Drents-Friese Wold National Park"></amp-img>
+
 
 > Marta walking in the biggest sandpit of the Netherlands, also known as the 'bold' dune ('kale duin' in Dutch)
 

@@ -11,10 +11,11 @@ tags:
   - abisko
   - sweden
 layout: post
+image: https://farm6.staticflickr.com/5757/23038444344_ce39f7f20f_b.jpg
 ---
-This summer we decided to participate at the Fjällräven Classic - a hiking event in Sweden. However, since we both had time we added a few more days in advance to go packrafting on our own. The idea was to store our luggage at the finish line of the Fjällräven Classic and go for a 3-days packrafting trip nearby the Abisko National Park. As camping in the Abisko National Park is only permitted at dedicated areas we decided to stay outside of the park which was at the end a good decision as we only met 1 person with a kayak during the 3 days which we were paddling on the river Njuoreatnu (Swedish: Njuoroaätno, Sami: Njuoraeatnu) towards the lake Torneträsk - with 168 m the second deepest lake in Sweden.<br><br>
+This summer we decided to participate at the Fjällräven Classic - a hiking event in Sweden. However, since we both had time we added a few more days in advance to go packrafting on our own. The idea was to store our luggage at the finish line of the Fjällräven Classic and go for a 3-days packrafting trip nearby the Abisko National Park. As camping in the Abisko National Park is only permitted at dedicated areas we decided to stay outside of the park which was at the end a good decision as we only met 1 person with a kayak during the 3 days which we were paddling on the river Njuoreatnu (Swedish: Njuoroaätno, Sami: Njuoraeatnu) towards the lake Torneträsk - with 168 m the second deepest lake in Sweden.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/90204224@N07/23038444344/in/dateposted-public/" title="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"><img class="img-responsive" src="https://farm6.staticflickr.com/5757/23038444344_ce39f7f20f_b.jpg" alt="Njuoreatnu - Torneträsk - Abisko Sweden - Abisko Turiststation - Abisko Train Station"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://farm6.staticflickr.com/5757/23038444344_ce39f7f20f_b.jpg" width="1024" height="768" alt="Packrafting the Njuoreatnu to Torneträsk - Abisko Sweden"></amp-img>
 
 <!--more-->
 

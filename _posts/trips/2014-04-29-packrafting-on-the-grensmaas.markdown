@@ -8,11 +8,12 @@ tags:
   - grensmaas
   - netherlands
 layout: post
+image: https://farm8.staticflickr.com/7183/14060723924_5bb0187f51_b.jpg
 ---
 
-Since a couple of weeks we were thinking of possibilities to go packrafting in the Netherlands but we were struggling to find a suitable place to due the low water levels. We then jumped 2 weeks ago into the train from Leeuwarden in the Netherlands and arrived in Maastricht 5 hours later in order to explore the border of the Netherlands and Belgium - the Grensmaas!<br><br>
+Since a couple of weeks we were thinking of possibilities to go packrafting in the Netherlands but we were struggling to find a suitable place to due the low water levels. We then jumped 2 weeks ago into the train from Leeuwarden in the Netherlands and arrived in Maastricht 5 hours later in order to explore the border of the Netherlands and Belgium - the Grensmaas!
 
-<a href="https://www.flickr.com/photos/90204224@N07/14060723924" title="9"><img src="https://farm8.staticflickr.com/7183/14060723924_5bb0187f51_b.jpg" width="1024" height="683"  alt="Packrafting Grensmaas alpacka raft belgium netherlands holland river"></a></a>
+<amp-img src="https://farm8.staticflickr.com/7183/14060723924_5bb0187f51_b.jpg" width="1024" height="683" alt="Packrafting Grensmaas alpacka raft belgium netherlands holland river"></amp-img>
 
 <!--more-->
 

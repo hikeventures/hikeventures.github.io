@@ -7,10 +7,12 @@ tags:
   - articles
   - poland
 layout: post
+image: https://farm6.staticflickr.com/5634/23267573790_1da84da3e2_b.jpg
 ---
 As every year, this October we decided to bid farewell to autumn in our traditional way - by hunting for mushrooms. This time, however, we also combined it with staying for three nights in a guest house, a day cycling trip and two short forest hikes - a few ideas if you are planning an outdoor trip in Poland.
-<br><br>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/23267573790/in/dateposted-public/" title="Poland Travel Idea"><img src="https://farm6.staticflickr.com/5634/23267573790_1da84da3e2_b.jpg" width="100%" alt="idea travel hiking in poland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<amp-img src="https://farm6.staticflickr.com/5634/23267573790_1da84da3e2_b.jpg" width="1000" height="562" alt="planning an outdoor trip in Poland"></amp-img>
+
 
 <!--more-->
 
@@ -60,8 +62,8 @@ We visited Olandia during the cycling trip and definitely enjoyed the visit to t
 <br><br>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/22936214463/in/dateposted-public/" title="sIMG_2894"><img src="https://farm1.staticflickr.com/746/22936214463_a5d0792aec_b.jpg" width="100%" alt="Siekarów Landscaped Park Nature"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <br><br>
-Our timing there was also perfect – hardly had we finished the meal, when the restaurant filled up with people wearing cowboy hats. That was a group of employees of some company on a team building day. We had seen them running up and down the terrain, performing all sorts of tasks in smaller groups led by people dressed like a sheriff or a Native American. For me the whole experience was somewhat surreal.  
-<br><br>     	
+Our timing there was also perfect – hardly had we finished the meal, when the restaurant filled up with people wearing cowboy hats. That was a group of employees of some company on a team building day. We had seen them running up and down the terrain, performing all sorts of tasks in smaller groups led by people dressed like a sheriff or a Native American. For me the whole experience was somewhat surreal.
+<br><br>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/22935054514/in/dateposted-public/" title="sIMG_2907"><img src="https://farm1.staticflickr.com/747/22935054514_469edda903_b.jpg" width="100%" alt="sIMG_2907"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <br><br>
 The reason why that “Wild West”-themed team day was organised there was probably because the place has a stable of horses of the traditional Polish breed. We saw those horses and even made friends with some of them before we got to Olandia.

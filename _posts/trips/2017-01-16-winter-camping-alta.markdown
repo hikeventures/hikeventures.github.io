@@ -7,10 +7,11 @@ category: trips
 tags:
   - trips
   - norway
+image: https://c1.staticflickr.com/1/369/32331081985_70524b57da_k.jpg
 ---
 On January 6th we decided to meet in Alta in Northern Norway to have a winter camping trip around Alta. However, we had no specific plan yet where to go once we arrived in Alta until we met Bram - a friend from Konstantin - who is managing Holmen Husky in the area and lives since several years in Norway but originating from the Netherlands.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32331081985/in/dateposted-public/" title="Snowshoeing, Huskies and winter camping around Alta - Pulka"><img src="https://c1.staticflickr.com/1/369/32331081985_70524b57da_k.jpg" width="2048" height="1152" alt="Snowshoeing, Huskies and winter camping around Alta - Pulka"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://c1.staticflickr.com/1/369/32331081985_70524b57da_k.jpg" width="2048" height="1152" layout="responsive"  alt="Snowshoeing, Huskies and Winter Camping around Alta"></amp-img>
 
 <!--more-->
 

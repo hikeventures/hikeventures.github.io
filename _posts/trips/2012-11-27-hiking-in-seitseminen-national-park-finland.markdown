@@ -9,13 +9,12 @@ tags:
   - seitseminen
   - finland
 layout: post
+image: https://farm9.staticflickr.com/8480/8197699522_e8e26659ee_b.jpg
 ---
 This time we went for an adventure to the Seitseminen National Park. Unfortunately, the public transportation to the park is quite bad so if you are planning to come by train you have to get off at Parkano and walk for approximately 20 km to the park. Also make sure to protect yourself against mosquitoes since there are plenty of them in the park during the warm months.
 
 [![Hiking in Seitseminen Swamp][image-1]][1]
 <!--more-->
-
-{% include banner_ad.html %}
 
 The park is quite suitable for shorter hikes but can be extended by visiting the neighboring Helvetinjärvi National Park. Facilities in the Seitseminen National Park are quite good and there are plenty of wells and shelters where you can stay over night.
 

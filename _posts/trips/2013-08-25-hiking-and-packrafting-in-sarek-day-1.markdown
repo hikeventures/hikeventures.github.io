@@ -10,6 +10,7 @@ tags:
   - packrafting
   - hiking
 layout: post
+image: https://farm4.staticflickr.com/3677/9592075355_2b498ef41c_b.jpg
 ---
 
 This year we went on a 6 days packrafting and hiking trip in Sarek. We travelled from Vaasa by <a href="http://www.wasaline.com/en/" target="_blank">wasaline ferry</a> to Umea and then by a hiker train (it seemed that the only people who travelled north were planning to go on a hike in the fells) to G&auml;llivare. Transportation to Sarek from Umea is not that frequent so there is a possibility that you have to stay one night in Umea.
@@ -17,7 +18,7 @@ This year we went on a 6 days packrafting and hiking trip in Sarek. We travelled
 <!--more-->
 
 ## Day 1: From Gällivare to Vuosskeljavrre
-<a href="https://www.flickr.com/photos/90204224@N07/9592075355"><img src="https://farm4.staticflickr.com/3677/9592075355_2b498ef41c_b.jpg" width="1024" height="683" alt="Bus Suorva 93 Ritsem Sarek National Park Sweden Länstrafiken Norrbotten"></a>
+<amp-img src="https://farm4.staticflickr.com/3677/9592075355_2b498ef41c_b.jpg" width="1024" height="683" alt="Bus Suorva 93 Ritsem Sarek National Park Sweden Länstrafiken Norrbotten"></amp-img>
 
 From G&auml;llivare we took a bus (<a href="http://www.bussgods.se" target="_blank">bussgods</a>) to Suorva. Price for the bus ticket was just over 300 SEK per person. If you are planning to do the same trip, make sure that you have enough cash for the bus fares (you can not pay by card) and eventually boat or helicopter ride of which you will read on our trip report of the last day.
 

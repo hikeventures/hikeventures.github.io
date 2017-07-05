@@ -10,11 +10,11 @@ tags:
   - karkonosze
   - hiking
 layout: post
+image: https://farm1.staticflickr.com/286/19383097710_34f4662be3_o.jpg
 ---
 On our trip to Poland we went to South, visiting the Karkonosze National Park via Jelenia Góra. After doing some <a href="http://www.hikeventures.com/Packrafting-River-Bobr-Poland/">Packrafting</a> the day before we decided to go hiking.  Karkonosze Mountains are especially famous for it's legends and fairy tales. It is said that Rübezahl - a mountain spirit should live here. While Konstantin decided to hike to a castle in the mountains I went on a hike to the Polish-Czech border. My <a href="http://amzn.to/1MJFLxk">Suunto Ambit3</a> was quite useful to find the way up to the top as I had no clue where the 'official' trail was. Luckily, I found it half way up. <a href="http://www.hikeventures.com/hiking-packrafting-poland-video/">Here</a> is also a short video.
- <br>
-<img src="https://farm1.staticflickr.com/286/19383097710_34f4662be3_o.jpg" width="100%"  >
 
+<amp-img src="https://farm1.staticflickr.com/286/19383097710_34f4662be3_o.jpg" width="846" height="635" alt="Hiking from Poland to Czech Republic. The Karkonosze National Park"></amp-img>
 
 <!--more-->
 

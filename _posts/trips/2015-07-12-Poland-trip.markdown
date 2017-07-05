@@ -8,6 +8,7 @@ tags:
   - poznan
   - poland
 layout: post
+image: https://farm4.staticflickr.com/3768/18981000384_7f8eed1031_o.jpg
 ---
 
 This week we have been to Poland where we visited Poznan, Wrocław and Castle Książ in Wałbrzych to do a bit of sightseeing and to explore the Polish culture.
@@ -15,7 +16,8 @@ This week we have been to Poland where we visited Poznan, Wrocław and Castle Ks
 While Konstantin has already been in Poland several times, I had no clue what to expect when arriving in Poland and was positively surprised about the old towns and Polish food. The only negative experience I made on this trip was that the train broke down on the way from Warsaw to Poznan (it was quite hot on this day) and that it was not possible to get into Książ castle at 5.10 pm even so the tourist brochure told us that the castle is open till 6.00 pm. Once I arrived in Warsaw I saw the tallest building of Poland - the
 Palace of Culture and Science built from 1952 - 1955 with a height of 231m.
 
-<img src="https://farm4.staticflickr.com/3768/18981000384_7f8eed1031_o.jpg" width="992" height="744" alt="Palace of Culture and Science Warsaw">
+<amp-img src="https://farm4.staticflickr.com/3768/18981000384_7f8eed1031_o.jpg" width="846" height="635" alt="Palace of Culture and Science Warsaw"></amp-img>
+
 
 <!--more-->
 
