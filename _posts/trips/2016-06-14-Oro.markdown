@@ -14,7 +14,7 @@ image: https://c4.staticflickr.com/8/7627/27683698955_0ca3be0e0e_b.jpg
 
 The gear is packed. The packrafts are inflated. The sails are ready. And so we are. There are some clouds in the sky and the wind is strong and blowing in the right direction, our destination being the fortress island of Örö, which is located in the outer archipelago and is one of the last big islands before the open sea. With its reach military history and beautiful and diverse nature, it is truly a gem that cannot be overlooked. And we want to see it as well…
 
-<amp-img src="https://c4.staticflickr.com/8/7627/27683698955_0ca3be0e0e_b.jpg" width="100%" alt="Örö Fortress Island - A Mediterranean gem in Finland"></amp-img>
+<amp-img src="https://c4.staticflickr.com/8/7627/27683698955_0ca3be0e0e_b.jpg" width="1024" height="768" alt="Örö Fortress Island - A Mediterranean gem in Finland"></amp-img>
 
 <!--more-->
 

@@ -11,7 +11,7 @@ image: https://farm6.staticflickr.com/5634/23267573790_1da84da3e2_b.jpg
 ---
 As every year, this October we decided to bid farewell to autumn in our traditional way - by hunting for mushrooms. This time, however, we also combined it with staying for three nights in a guest house, a day cycling trip and two short forest hikes - a few ideas if you are planning an outdoor trip in Poland.
 
-<amp-img src="https://farm6.staticflickr.com/5634/23267573790_1da84da3e2_b.jpg" width="100%" alt="planning an outdoor trip in Poland"></amp-img>
+<amp-img src="https://farm6.staticflickr.com/5634/23267573790_1da84da3e2_b.jpg" width="1000" height="562" alt="planning an outdoor trip in Poland"></amp-img>
 
 
 <!--more-->

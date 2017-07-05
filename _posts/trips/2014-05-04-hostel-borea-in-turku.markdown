@@ -12,9 +12,11 @@ tags:
 layout: post
 image: https://farm3.staticflickr.com/2937/14106344644_b739c8232e_b.jpg
 ---
-As I am currently looking for a flat in Turku, I am going to spend my first night in the youth hostel Borea - an old cruise ship located in the the river Aura. And here comes a short review. Hotel guests can get free tea and cookies as well as wifi in the lounge and I even got a whole cabin for myself. There is also a restaurant onboard. Nearby the Hostel Borea you can also see a sailing ship - the Suomen Joutsen and a war ship. The ships are all located nearby the Forum Marinum, a National Specialist Museum for Finnish maritime and naval history.
+As I am currently looking for a flat in Turku, I am going to spend my first night in the youth hostel Borea - an old cruise ship located in the the river Aura. And here comes a short review. Hotel guests can get free tea and cookies as well as wifi in the lounge and I even got a whole cabin for myself.
 
-<amp-img src="https://farm3.staticflickr.com/2937/14106344644_b739c8232e_b.jpg" width="100%" alt="Hostel Borea Turku Finland"></amp-img>
+There is also a restaurant onboard. Nearby the Hostel Borea you can also see a sailing ship - the Suomen Joutsen and a war ship. The ships are all located nearby the Forum Marinum, a National Specialist Museum for Finnish maritime and naval history.
+
+<amp-img src="https://farm3.staticflickr.com/2937/14106344644_b739c8232e_b.jpg" width="952" width="635" alt="Hostel Borea Turku Finland"></amp-img>
 
 
 <!--more-->

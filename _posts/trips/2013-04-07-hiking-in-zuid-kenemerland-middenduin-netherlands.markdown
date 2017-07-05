@@ -10,7 +10,7 @@ layout: post
 image: https://farm9.staticflickr.com/8399/8619179283_14a99dfe2b_b.jpg
 ---
 
-<amp-img src="https://farm9.staticflickr.com/8399/8619179283_14a99dfe2b_b.jpg" width="100%" alt="Hiking in Zuid-Kenemerland Middenduin"></amp-img>
+<amp-img src="https://farm9.staticflickr.com/8399/8619179283_14a99dfe2b_b.jpg" width="957" height="636" alt="Hiking in Zuid-Kenemerland Middenduin"></amp-img>
 
 Middenduin is a diverse area with forest, open dunes, wooded hills and steep landscape located nearby Haarlem and was established in 1995. The sand of the dunes was used in Amsterdam and Den Haag in order to build the canals which was stopped in 1948.
 

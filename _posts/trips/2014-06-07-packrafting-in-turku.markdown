@@ -13,7 +13,7 @@ image: https://farm3.staticflickr.com/2938/14367437345_ae2301ac88_b.jpg
 ---
 Today, I packed my packraft and went to the coast of Turku in order to exercise a little bit for our trip in Sweden next week. I paddled around 5 km, however there are endless possibilities to paddle as there are plenty of islands in the Baltic Sea around Turku.
 
-<amp-img src="https://farm3.staticflickr.com/2938/14367437345_ae2301ac88_b.jpg" width="100%" alt="Packrafting in Turku"></amp-img>
+<amp-img src="https://farm3.staticflickr.com/2938/14367437345_ae2301ac88_b.jpg" width="952" height="635" alt="Packrafting in Turku"></amp-img>
 
 
 <!--more-->

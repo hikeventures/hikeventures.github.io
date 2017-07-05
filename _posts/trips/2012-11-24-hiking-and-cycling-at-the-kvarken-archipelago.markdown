@@ -14,7 +14,7 @@ Today, I went with the bicycle from Vaasa to Bjököby where I planned to visit 
 
 There is something special on this area: The land is rising at about 1 cm a year (as there was a Glacier 10.000 - 24.000 years ago).
 
-<a href="http://www.flickr.com/photos/90204224@N07/8197863296/"><img src="http://farm9.staticflickr.com/8347/8197863296_b8df1cc320_c.jpg" width="1000" alt="Kvarken Archipelago - Cycling Replot Bridge"></a>
+<amp-img src="http://farm9.staticflickr.com/8347/8197863296_b8df1cc320_c.jpg" width="424" height="636" alt=Nuuksio National Park in Finland"></amp-img>
 
 <!--more-->
 

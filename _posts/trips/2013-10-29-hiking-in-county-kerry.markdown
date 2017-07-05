@@ -16,7 +16,7 @@ Three years ago (2010), I went working to Ireland for 1 year where I also had th
 
 ## Day 1: Ascent to Corrán Tuathail
 
-<amp-img src="https://farm4.staticflickr.com/3791/10641019664_0562b27806_b.jpg" width="100%" alt="hiking count kerry"></amp-img>
+<amp-img src="https://farm4.staticflickr.com/3791/10641019664_0562b27806_b.jpg" width="840" height="636" alt="hiking count kerry"></amp-img>
 
 At the starting point there was a map board which showed as the area. Our goal was to walk along Loch Gabrach (lake of the goats) and ascend Choc An Chuillinn, pass the Devil's ladder and hike upwards towards Corrán Tuathail which is the highest peak in Ireland (1039m).
 

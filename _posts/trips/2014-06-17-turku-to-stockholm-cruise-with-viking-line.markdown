@@ -16,7 +16,7 @@ image: https://farm3.staticflickr.com/2907/14416293746_aace5775a6_b.jpg
 ---
 As I was planning to meet Konstantin in Sweden, I took a Viking Ferry in order to get from Turku to Stockholm. I really enjoyed this Viking Cruise with the new ferry, the [Viking Line][1].
 
-<amp-img src="https://farm3.staticflickr.com/2907/14416293746_aace5775a6_b.jpg" width="100%" alt="iew from Viking Grace towards Stockholm City with Finnish Flag Gröna Lund"></amp-img>
+<amp-img src="https://farm3.staticflickr.com/2907/14416293746_aace5775a6_b.jpg" width="1024" height="683" alt="view from Viking Grace towards Stockholm City with Finnish Flag Gröna Lund"></amp-img>
 
 
 <!--more-->

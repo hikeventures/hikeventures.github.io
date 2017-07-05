@@ -19,7 +19,7 @@ Start of the race. This picture was taken last year at the very beginning of the
 
 Originally I was planning to hike the whole distance of 110 km in 4-5 days. But things do not always go as planned and instead I did it in under 54 hours.
 
-<amp-img src="https://farm2.staticflickr.com/1478/26338936616_fb55b8c11d_b.jpg" width="100%" alt="Hiking the Fjällräven Classic in Sweden"></amp-img>
+<amp-img src="https://farm2.staticflickr.com/1478/26338936616_fb55b8c11d_b.jpg" width="1024" height="768" alt="Hiking the Fjällräven Classic in Sweden"></amp-img>
 
 
 I only realised how fast I was going only after we started to meet some people who started in the previous group several hours before us.

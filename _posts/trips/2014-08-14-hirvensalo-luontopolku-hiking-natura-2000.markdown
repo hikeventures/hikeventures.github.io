@@ -14,7 +14,7 @@ image: https://farm4.staticflickr.com/3871/14732117110_35f3c97630_c.jpg
 ---
 Today, I went for an evening hike along the luontopolku in Friskala (Turku) which is part of the Natura 2000 network. Highlight were the bird tower, horses and cows.
 
-<amp-img src="https://farm4.staticflickr.com/3871/14732117110_35f3c97630_c.jpg" width="100%" alt="Evening hike in Friskala Hirvensalo Luontopolku"></amp-img>
+<amp-img src="https://farm4.staticflickr.com/3868/14894433696_16fca2d0df_c.jpg" width="476" height="635" alt="Evening hike in Friskala Hirvensalo Luontopolku"></amp-img>
 
 
 <!--more-->

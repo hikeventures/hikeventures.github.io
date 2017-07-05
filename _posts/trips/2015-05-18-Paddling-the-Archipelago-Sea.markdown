@@ -12,7 +12,7 @@ image: https://c4.staticflickr.com/8/7662/17598040058_62a14e4b20_b.jpg
 ---
 The Archipelago Sea around Turku is a great place to go Packrafting, Kayaking or Sailing. Since I have a packraft I took the opportunity to go on a four micro adventures during spring, summer, autumn and winter. Autumn is probably the nicest season to paddle since the trees on the small islands are quite colourful and there is also a bit more wind which also allows you to use a wind paddle sail.
 
-<amp-img src="https://c4.staticflickr.com/8/7662/17598040058_62a14e4b20_b.jpg" width="100%" alt="Four seasons of Packrafting in the Archipelago Sea"></amp-img>
+<amp-img src="https://c4.staticflickr.com/8/7662/17598040058_62a14e4b20_b.jpg" width="1024" height="604" alt="Four seasons of Packrafting in the Archipelago Sea"></amp-img>
 
 
 <!--more-->

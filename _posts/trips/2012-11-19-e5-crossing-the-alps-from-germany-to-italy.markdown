@@ -13,7 +13,8 @@ image: http://farm9.staticflickr.com/8201/8199045327_da0a7b0233_c.jpg
 ---
 On this trip we were hiking around 160 km from Germany to Italy. The demanding part was however not the distance but walking up and down a mountain on a daily base. The E5 originally starts from Konstanz (Germany) and ends in Verona (Italy). However, most hikers start the tour from Oberstdorf - since this is the part where you are actually in the Alps - and finish the tour in Meran.
 
-![][image-1]
+<amp-img src="http://farm9.staticflickr.com/8201/8199045327_da0a7b0233_c.jpg" width="800" height="600" alt=Nuuksio National Park in Finland"></amp-img>
+
 <!--more-->
 
 > The route contains of about 20.000 metres in altitude and does not require any special skills or alpine gear. However, you should be in a good shape to be able to walk 1000 metres in altitude a day. The route has a length of about 170 km.
