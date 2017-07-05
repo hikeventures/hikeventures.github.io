@@ -8,10 +8,11 @@ tags:
   - destinations
   - japan
   - hiking
+image: https://farm2.staticflickr.com/1539/26358043250_a0130d9189_b.jpg
 ---
 Last year we spent four days trekking in the Northern Alps of Japan - one of the most beautiful natural settings in Japan - which was a really special way to start our holidays.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26358043250/in/dateposted-public/" title="Hiking in Japan"><img src="https://farm2.staticflickr.com/1539/26358043250_a0130d9189_b.jpg" width="100%" alt="Hiking in Japan"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://farm2.staticflickr.com/1539/26358043250_a0130d9189_b.jpg" width="100%" alt="Trekking and Packrafting in Japan Northern Alps"></amp-img>
 
 <!--more-->
 

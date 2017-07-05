@@ -8,6 +8,7 @@ tags:
   - packrafting
   - sweden
 layout: post
+image: https://farm2.staticflickr.com/1443/25644251223_332a48070a_b.jpg
 ---
 This spring Konstantin from HikeVentures teamed up with <a href="http://www.urbanpackrafter.com">Urbanpackrafter</a> and the <a href="http://deliveranceteam.outdrr.com">Deliverance Team</a> at the Nittälven river in the Kaljoxa Valley in Sweden for a packrafting weekend. Here is the video provided by <a href="http://www.urbanpackrafter.com">Urbanpackrafter</a>. If you are into packrafting and want to join us next time feel free to contact one of us.
 
@@ -17,7 +18,8 @@ As the next Swedish Packrafting Gathering is going to take place in just over on
 
 <!--more-->
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25644251223/in/datetaken-public/" title="Swedish Packrafting Gathering 2015"><img src="https://farm2.staticflickr.com/1443/25644251223_332a48070a_b.jpg" width="100%" alt="Swedish Packrafting Gathering 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<amp-img src="https://farm2.staticflickr.com/1443/25644251223_332a48070a_b.jpg" width="100%" alt="Snowshoeing and Cross-Country Skiing in Finnish Lapland - Finland"></amp-img>
 
 Jacob (Urbanpackrafter.com) and I arrived at the rendez-vous place in the deep darkness after midnight. We were greeted by Henrik (The Deliverance Team) and the guys who had already settled in the open shelter (where we also joined them). All five of us sleeping side by side, I was happy brought earplugs
 

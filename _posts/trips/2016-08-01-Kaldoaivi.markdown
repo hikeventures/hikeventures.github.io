@@ -9,10 +9,12 @@ tags:
   - Finland
   - Kaldoaivi
   - packrafting
+image: https://c2.staticflickr.com/8/7562/28693113745_b251e02b0e_k.jpg
 ---
 On July 24th at 8.50 am it was time to get on board of the Finnair flight AY557 which departed from Helsinki for a 1 hours and 20 minutes flight north to Ivalo - deep in Finnish Lapland. 1 week of hiking and packrafting in the Kaldoaivi Wilderness Area was in front of me - including a visit to Siida, a museum which displays Saami art and culture. Having bought a museum card for Finland (59 EUR) I was able to visit most of the museums for 1 year. Since entrance to a museum in Finland usually costs around 9-10 EUR it's more than worth to buy it if you travel around in Finland.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28693113745/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c2.staticflickr.com/8/7562/28693113745_b251e02b0e_k.jpg" width="2048" height="1536" alt="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://c2.staticflickr.com/8/7562/28693113745_b251e02b0e_k.jpg" width="100%" alt="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"></amp-img>
+
 
 <!--more-->
 
@@ -211,7 +213,7 @@ This night we dicided to stay in a cabin as most of our gear was wet and we had 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28077375743/in/dateposted-public/" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c8.staticflickr.com/9/8279/28077375743_8aff836117_k.jpg" width="2048" height="1033" alt="Peuralammen Camping Sevettijärvi in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Once we arrived at the Peuralammen Camping in Sevettijärvi we had a pancake, booked a sauna and hanged our clothes to dry.  
+Once we arrived at the Peuralammen Camping in Sevettijärvi we had a pancake, booked a sauna and hanged our clothes to dry.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076099554/in/dateposted-public/" title="Sauna Peuralammen Camping in Sevettijärvi Finland"><img src="https://c3.staticflickr.com/9/8478/28076099554_30c0a65388_k.jpg" width="2048" height="1365" alt="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

@@ -8,13 +8,15 @@ tags:
   - ireland
   - mountains
 layout: post
+image: https://farm4.staticflickr.com/3791/10641019664_0562b27806_b.jpg
 ---
 Three years ago (2010), I went working to Ireland for 1 year where I also had the opportunity to go for a hike nearby Killarney with two of my fellow worker. The landscape was gorgeous and not comparable to Dublin where I actually lived. After visiting the local tourist office we started hiking equipped with maps and some snacks in our backpacks.
 
 <!--more-->
 
 ## Day 1: Ascent to Corrán Tuathail
-<a href="https://www.flickr.com/photos/90204224@N07/10641019664" ><img src="https://farm4.staticflickr.com/3791/10641019664_0562b27806_b.jpg" width="1024" height="768" alt="hiking count kerry" ></a>
+
+<amp-img src="https://farm4.staticflickr.com/3791/10641019664_0562b27806_b.jpg" width="100%" alt="hiking count kerry"></amp-img>
 
 At the starting point there was a map board which showed as the area. Our goal was to walk along Loch Gabrach (lake of the goats) and ascend Choc An Chuillinn, pass the Devil's ladder and hike upwards towards Corrán Tuathail which is the highest peak in Ireland (1039m).
 

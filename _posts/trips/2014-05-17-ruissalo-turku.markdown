@@ -9,10 +9,11 @@ tags:
   - turku
   - finland
 layout: post
+image: https://farm3.staticflickr.com/2911/14182682836_31b308a3cb_b.jpg
 ---
 Today, I went on a day trip to Ruissalo. Ruissalo is the recreational island of Turku. It was involved in the Crimean war between the Swedish and Russians and nowadays it's a paradise for bird watchers, golfers and joggers. Since the island is quite big, I grabbed my bicycle and set off.<br><br>
 
-<a href="https://www.flickr.com/photos/90204224@N07/14182682836" title="Hiking Ruissalo Turku"><img src="https://farm3.staticflickr.com/2911/14182682836_31b308a3cb_b.jpg" width="1024" height="683" alt="Ruissalo Turku"></a>
+<amp-img src="https://farm3.staticflickr.com/2911/14182682836_31b308a3cb_b.jpg" width="100%" alt="Hiking Ruissalo Turku"></amp-img>
 
 <!--more-->
 

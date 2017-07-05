@@ -9,10 +9,11 @@ tags:
   - finland
   - packrafting
 layout: post
+image: https://farm3.staticflickr.com/2938/14367437345_ae2301ac88_b.jpg
 ---
-Today, I packed my packraft and went to the coast of Turku in order to exercise a little bit for our trip in Sweden next week. I paddled around 5 km, however there are endless possibilities to paddle as there are plenty of islands in the Baltic Sea around Turku.<BR><BR>
+Today, I packed my packraft and went to the coast of Turku in order to exercise a little bit for our trip in Sweden next week. I paddled around 5 km, however there are endless possibilities to paddle as there are plenty of islands in the Baltic Sea around Turku.
 
-<a href="https://www.flickr.com/photos/90204224@N07/14367437345/" title="Packrafting in Turku"><img src="https://farm3.staticflickr.com/2938/14367437345_ae2301ac88_b.jpg" width="1024" height="683" alt="Packrafting in Turku"></a>
+<amp-img src="https://farm3.staticflickr.com/2938/14367437345_ae2301ac88_b.jpg" width="100%" alt="Packrafting in Turku"></amp-img>
 
 
 <!--more-->

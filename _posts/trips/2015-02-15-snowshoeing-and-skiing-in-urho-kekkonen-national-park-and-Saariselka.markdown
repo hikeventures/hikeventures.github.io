@@ -10,9 +10,11 @@ tags:
   - urho kekkonen
   - national parks
 layout: post
+image: https://farm9.staticflickr.com/8673/16347221659_3952a1c6de_b.jpg
 ---
-End of January we took a plane from Helsinki to Ivalo with Norwegian to do some snowshoeing and cross-country skiing in Finnish Lapland. Even so it was quite cloudy on our trip we were lucky as most of the tourists visiting Saariselkä are usually visiting Lapland between February and April. So it was not that crowded. Nevertheless, we decided to stay with Suomen Latu in Kiilopää which is located at the entrance of the Urho Kekkonen National Park for three reasons - less tourists, more wilderness and only 20 km away from Saariselkä which we visited with the daily ski bus running between Kiilopää and Saariselkä. <br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/16347221659" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8673/16347221659_3952a1c6de_b.jpg" width="1024" height="680" alt="Snowshoeing and Cross-Country Skiing in Finnish Lapland - Finland"></a>
+End of January we took a plane from Helsinki to Ivalo with Norwegian to do some snowshoeing and cross-country skiing in Finnish Lapland. Even so it was quite cloudy on our trip we were lucky as most of the tourists visiting Saariselkä are usually visiting Lapland between February and April. So it was not that crowded. Nevertheless, we decided to stay with Suomen Latu in Kiilopää which is located at the entrance of the Urho Kekkonen National Park for three reasons - less tourists, more wilderness and only 20 km away from Saariselkä which we visited with the daily ski bus running between Kiilopää and Saariselkä.
+
+<amp-img src="https://farm9.staticflickr.com/8673/16347221659_3952a1c6de_b.jpg" width="100%" alt="Snowshoeing and Cross-Country Skiing in Finnish Lapland - Finland"></amp-img>
 
 <!--more-->
 

@@ -9,11 +9,12 @@ tags:
   - Finland
   - Finnish Archipelago
   - Örö
+image: https://c4.staticflickr.com/8/7627/27683698955_0ca3be0e0e_b.jpg
 ---
 
 The gear is packed. The packrafts are inflated. The sails are ready. And so we are. There are some clouds in the sky and the wind is strong and blowing in the right direction, our destination being the fortress island of Örö, which is located in the outer archipelago and is one of the last big islands before the open sea. With its reach military history and beautiful and diverse nature, it is truly a gem that cannot be overlooked. And we want to see it as well…
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27683698955/in/album-72157669691179556/" title="Örö Island Finland"><img class="img-responsive" src="https://c4.staticflickr.com/8/7627/27683698955_0ca3be0e0e_b.jpg" width="100%" alt="Örö Island Finland Ferry Arriving Ejskär"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://c4.staticflickr.com/8/7627/27683698955_0ca3be0e0e_b.jpg" width="100%" alt="Örö Fortress Island - A Mediterranean gem in Finland"></amp-img>
 
 <!--more-->
 
@@ -51,7 +52,7 @@ On the whole, we were really lucky with the weather. It did rain but only once a
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27648734136/in/album-72157669691179556/" title="Örö Island Finland 2016"><img src="https://c1.staticflickr.com/8/7506/27648734136_572dec2c99_b.jpg" width="577" height="1024" alt="Örö Island Finland windpaddle sailing packraft alpackaraft"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Patrick's [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) helped us to find the Örö island. We also used a small map of the area that we got from the information centre as well as a map in Gaia GPS app that Konstantin downloaded at the harbour, where there was free Wi-Fi.  
+Patrick's [Suunto Traverse](http://www.backcountry.com/suunto-traverse-gps-watch) helped us to find the Örö island. We also used a small map of the area that we got from the information centre as well as a map in Gaia GPS app that Konstantin downloaded at the harbour, where there was free Wi-Fi.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27583029082/in/album-72157669691179556/" title="Örö Island Finland 2016"><img src="https://c3.staticflickr.com/8/7391/27583029082_9b80fd7cda_b.jpg" width="100%" alt="Örö Island Finland Suunto Traverse"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -79,7 +80,7 @@ After 15 km of windpaddle sailing with our packrafts we finally arrived on Örö
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27583029502/in/album-72157669691179556/" title="Örö Island Finland 2016"><img src="https://c7.staticflickr.com/8/7099/27583029502_a99f8edf08_b.jpg" width="100%" alt="Örö Island Finland 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-We were really lucky that almost for the whole trip the wind was blowing in the right general direction of the island, otherwise it would have been a lot of paddling. Or, in case of southerly winds, we would not have been able to use our packrafts on the way to the island at all. Instead we could have taken a boat to the island and paddle on the way back, which is exactly the opposite of what we did this time.  
+We were really lucky that almost for the whole trip the wind was blowing in the right general direction of the island, otherwise it would have been a lot of paddling. Or, in case of southerly winds, we would not have been able to use our packrafts on the way to the island at all. Instead we could have taken a boat to the island and paddle on the way back, which is exactly the opposite of what we did this time.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27073203223/in/album-72157669691179556/" title="Örö Island Finland 2016"><img src="https://c8.staticflickr.com/8/7418/27073203223_5b7ce42381_b.jpg" width="100%" alt="Örö Island Finland harbour packraft hmg porter julbo swell alpacka raft werner shuna windpaddle sail"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -130,7 +131,7 @@ The landing spot for kayaks is also a great place to enjoy the nature and have a
 In general, Örö offers a variety of quite nice facilities for its visitors.
 If you are planning to stay overnight and you do not have your own boat or a tent, it is possible to book a bed in a hostel or rent an apartment or a cottage.
 When it comes to eating out, besides the harbour cafe, there is also a restaurant, located in a renovated building used by the military in the past. However, a word of warning - even though this restaurant has a lot of seating places (both outside and inside), you might want to make a reservation there because they seem to have limited cooking capacity. The prices in the restaurant are regular for Finnish standards and the menu, though rather short, had at least one vegetarian main dish. As for people who eat meat and are interested in locally produced food, they could try sausages made from the island’s own lamb. Besides these two places, there is no other way to get food, so, if you are not planning to eat out, you might want to bring everything necessary with you from the mainland.
-Finally, this place would not be part of Finland if it didn't have at least one sauna. And, indeed, not far from the harbour, on the eastern shore of the island there is a brand-new sauna with an access to the sea from a small pier.  
+Finally, this place would not be part of Finland if it didn't have at least one sauna. And, indeed, not far from the harbour, on the eastern shore of the island there is a brand-new sauna with an access to the sea from a small pier.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27683697595/in/album-72157669691179556/" title="Ö"><img src="https://c4.staticflickr.com/8/7185/27683697595_bc071242f9_b.jpg" width="100%" alt="Sauna Örö Island Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -210,7 +211,7 @@ Probably part of the ventilation system of a bunker.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27609269711/in/album-72157669691179556/" title="Örö Island Finland 2016"><img src="https://c8.staticflickr.com/8/7290/27609269711_3114aa1411_b.jpg" width="100%" alt="Örö Island Finland ventilation bunker"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-But not everything on Örö is underground or close to the ground – there are four structures that reach the skies. The island has an antenna, a lighthouse, a radar tower and an artillery observation tower. However, one type of tower is missing – a regular observation tour which would have been a great way to see the island as well.   
+But not everything on Örö is underground or close to the ground – there are four structures that reach the skies. The island has an antenna, a lighthouse, a radar tower and an artillery observation tower. However, one type of tower is missing – a regular observation tour which would have been a great way to see the island as well.
 The beach near the radar tower was quite fascinating.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27683698125/in/album-72157669691179556/" title="Ö"><img src="https://c6.staticflickr.com/8/7715/27683698125_5d7affc4ec_b.jpg" width="100%" alt="Örö beach radar tower"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -231,7 +232,7 @@ When entering the bunkers and anti-raid shelters on Örö, it is possible to stu
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27683701365/in/album-72157669691179556/" title="Örö Island Finland 2016"><img src="https://c6.staticflickr.com/8/7251/27683701365_210c6525f2_b.jpg" width="100%" alt="bed örö military bunker Finland fortress"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Whereas the northern tip of Örö never had an artillery battery, it was heavily fortified to make it more suitable for the defence. It had three 23-mm anti-aircraft guns that could be used against ships and possible landings, as well as air-raid shelters, living quarters and firing positions. So, by no means it was a weak spot in the defence of the island.  
+Whereas the northern tip of Örö never had an artillery battery, it was heavily fortified to make it more suitable for the defence. It had three 23-mm anti-aircraft guns that could be used against ships and possible landings, as well as air-raid shelters, living quarters and firing positions. So, by no means it was a weak spot in the defence of the island.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27683701215/in/album-72157669691179556/" title="Örö Island Finland"><img src="https://c8.staticflickr.com/8/7235/27683701215_9a523d323f_b.jpg" width="100%" alt="Örö Island north northern tip fortress"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

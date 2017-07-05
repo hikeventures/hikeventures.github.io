@@ -10,10 +10,12 @@ tags:
   - finland
   - ships
 layout: post
+image: https://farm3.staticflickr.com/2937/14106344644_b739c8232e_b.jpg
 ---
 As I am currently looking for a flat in Turku, I am going to spend my first night in the youth hostel Borea - an old cruise ship located in the the river Aura. And here comes a short review. Hotel guests can get free tea and cookies as well as wifi in the lounge and I even got a whole cabin for myself. There is also a restaurant onboard. Nearby the Hostel Borea you can also see a sailing ship - the Suomen Joutsen and a war ship. The ships are all located nearby the Forum Marinum, a National Specialist Museum for Finnish maritime and naval history.
 
-<a href="https://www.flickr.com/photos/90204224@N07/14106344644" title="Hostel Borea Turku Finland"><img src="https://farm3.staticflickr.com/2937/14106344644_b739c8232e_b.jpg" width="1024" height="683" alt="Hostel Borea Turku Finland hotel travel sleeping best ship visiting"></a>
+<amp-img src="https://farm3.staticflickr.com/2937/14106344644_b739c8232e_b.jpg" width="100%" alt="Hostel Borea Turku Finland"></amp-img>
+
 
 <!--more-->
 
@@ -35,7 +37,7 @@ There is also a bar on Hostel Borea.
 My cabin ...
 
 <a href="https://www.flickr.com/photos/90204224@N07/14126224003" title="Hostel Borea Turku Finland"><img src="https://farm8.staticflickr.com/7201/14126224003_2a00312f9d_b.jpg" width="683" height="1024" alt="Hostel Borea Turku Finland cabin toilet"></a>
-The toilet in Hostel Borea    
+The toilet in Hostel Borea
 <a href="https://www.flickr.com/photos/90204224@N07/13919286108" title="Suomen Jautsen Turku Finland"><img src="https://farm8.staticflickr.com/7303/13919286108_4e57531978_b.jpg" width="1024" height="683" alt="Suomen Jautsen Turku Finland Wärtsilä crane sightseeing tourism industrial heritage"></a>
 Sailing Ship Suomen Jautsen
 

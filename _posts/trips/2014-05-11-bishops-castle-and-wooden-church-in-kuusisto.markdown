@@ -10,11 +10,12 @@ tags:
   - finland
   - castles
 layout: post
+image: https://farm8.staticflickr.com/7315/13974376258_8c0a3a7537_b.jpg
 ---
 
 On mothers day I decided to get on my bicycle in Turku and explore the bishops castle (Kuusiston piispanlinna) and the wooden church in Kuusisto.
 
-<a href="https://www.flickr.com/photos/90204224@N07/13974376258" ><img src="https://farm8.staticflickr.com/7315/13974376258_8c0a3a7537_b.jpg" width="1024" height="683" title="bishop castle kuusisto" ></a>
+<amp-img src="https://farm8.staticflickr.com/7315/13974376258_8c0a3a7537_b.jpg" width="100%" alt="bishop castle kuusisto"></amp-img>
 
 <!--more-->
 

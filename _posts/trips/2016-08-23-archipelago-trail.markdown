@@ -8,10 +8,11 @@ tags:
   - trip
   - best
   - bicycling
+image: https://c6.staticflickr.com/9/8474/28507750853_9b39187d5d_k.jpg
 ---
 Last Friday I was cycling from Turku along The Turku Archipelago Trail - a 250 km trip around the Turku Archipelago. The whole bicycle trip took me 27 hours to complete and I spent 1 night in my tent nearby the ferry harbour leaving from Kustavi. I have planned this summer bicycle trip already a long time ago but never had time to cycle it. I am also interested to do a bicycle tour in Åland but this won't happen this year anymore. Below you can see my Surly Disc Trucker on a bridge in Turku. I just bought a pair of [Ortlieb Back Roller Classics](https://www.rei.com/product/885299/ortlieb-back-roller-classic-panniers-pair) a week ago as well.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28507750853/in/dateposted-public/" title="The Turku Archipelago Trail | Saariston Rengastie"><img src="https://c6.staticflickr.com/9/8474/28507750853_9b39187d5d_k.jpg" width="2048" height="1152" alt="The Turku Archipelago Trail | Saariston Rengastie Turku Surly Disc Trucker Ortlieb Back Roller Classic"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://c6.staticflickr.com/9/8474/28507750853_9b39187d5d_k.jpg" width="100%" alt="Cycling the 250 km Turku Archipelago Trail in Finland"></amp-img>
 
 <!--more-->
 

@@ -10,14 +10,13 @@ tags:
   - finland
   - hiking
 layout: post
+image: https://farm6.staticflickr.com/5502/12029550054_c77d37a788_b.jpg
 ---
 There are plenty of possibilities for outdoors activities in Vaasa especially when you are into hiking, snowshoeing, packrafting or outdoor photography. In this blog post you will read about my outdoors experiences while I have lived in Vaasa for 2 years.
 
-<a href="https://www.flickr.com/photos/90204224@N07/12029550054" title="Snowshoeing in Finland"><img src="https://farm6.staticflickr.com/5502/12029550054_c77d37a788_b.jpg" width="600" alt="Snowshoeing in Finland"></a>
+<amp-img src="https://farm6.staticflickr.com/5502/12029550054_c77d37a788_b.jpg" width="100%" alt="Snowshoeing in Finland"></amp-img>
+
 <!--more-->
-
-{% include banner_ad.html %}
-
 
 ## Packrafting in Pilvilampi
 <a href="http://www.valppaus.com/" target="_blank">Joni</a>  and me went packrafting to Pilvilampi, a recreational area nearby Vaasa and a paradise for birdwatchers.

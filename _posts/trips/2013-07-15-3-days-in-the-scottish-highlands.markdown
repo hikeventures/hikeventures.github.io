@@ -8,12 +8,12 @@ tags:
   - scotland
   - mountains
 layout: post
+image: http://farm4.staticflickr.com/3669/9293661119_a6b0b3aae1_c.jpg
 ---
 
 The Scottish Highlands are a perfect destination for those who like hiking. In our case we started hike from Dalwhinnie train station. We walked along Lake 'Loch Ericht', camping at night on the shore.
 
-<a href="http://www.flickr.com/photos/90204224@N07/9293661119/"><img src="http://farm4.staticflickr.com/3669/9293661119_a6b0b3aae1_c.jpg" width="1000" alt="cycling in the Scottish Highands Loch Ericht"></a>
-
+<amp-img src="http://farm4.staticflickr.com/3669/9293661119_a6b0b3aae1_c.jpg" width="100%" alt="cycling in the Scottish Highands Loch Ericht"></amp-img>
 
 <!--more-->
 

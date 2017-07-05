@@ -8,10 +8,11 @@ tags:
   - helsinki
   - finland
 layout: post
+image: https://farm4.staticflickr.com/3791/14318924295_c0c84f4dc4_b.jpg
 ---
 This weekend we enjoyed a sunny day in <a href="http://www.visithelsinki.fi" target="_blank">Helsinki</a>. Port of Helsinki with the Uspenski Cathedral in the background.
 
-<a href="https://www.flickr.com/photos/90204224@N07/14318924295" title="Helsinki Summer 2014"><img src="https://farm4.staticflickr.com/3791/14318924295_c0c84f4dc4_b.jpg" width="1024" height="683" alt="Helsinki Summer 2016"></a>
+<amp-img src="https://farm4.staticflickr.com/3791/14318924295_c0c84f4dc4_b.jpg" width="100%" alt="Helsinki Summer 2016"></amp-img>
 
 <!--more-->
 

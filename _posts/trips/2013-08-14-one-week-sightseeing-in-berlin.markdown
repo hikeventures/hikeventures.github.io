@@ -8,10 +8,11 @@ tags:
   - berlin
   - germany
 layout: post
+image: https://farm3.staticflickr.com/2820/9511042166_31aed61783_b.jpg
 ---
 I have tried to visit the best sights in Berlin during my week in the capital of Germany which are reachable by public transport - metro or bus - and there is plenty to see. You need to calculate at least a week if you want to stroll through all the museums and historical sights in Berlin.
 
-<a href="https://www.flickr.com/photos/90204224@N07/9511042166"><img src="https://farm3.staticflickr.com/2820/9511042166_31aed61783_b.jpg" width="1024" height="683" alt="Sightseeing Berlin"></a>
+<amp-img src="https://farm3.staticflickr.com/2820/9511042166_31aed61783_b.jpg" width="100%" alt="Sightseeing Berlin"></amp-img>
 
 
 <!--more-->

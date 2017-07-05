@@ -8,11 +8,11 @@ tags:
   - quad bike
   - finland
 layout: post
+image: https://farm9.staticflickr.com/8498/8264081107_018a6d3f78_b.jpg
 ---
 Last summer, I had a trip to Reinon Tupa - a wilderness cottage at the Kurikan Niinisto lake - in the middle of the Ostrobothnian swamp in Finland.<BR><BR>
 
-<a href="https://www.flickr.com/photos/90204224@N07/8264081107"><img src="https://farm9.staticflickr.com/8498/8264081107_018a6d3f78_b.jpg" width="1024" height="683"></a>
-
+<amp-img src="https://farm9.staticflickr.com/8498/8264081107_018a6d3f78_b.jpg" width="100%" alt="Swamp and Quad bike adventures in Finland"></amp-img>
 
 <!--more-->
 

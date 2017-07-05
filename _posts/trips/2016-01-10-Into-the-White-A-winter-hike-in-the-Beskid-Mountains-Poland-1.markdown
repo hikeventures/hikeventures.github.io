@@ -10,11 +10,12 @@ tags:
   - beskid
   - mountains
 layout: post
+image: https://farm2.staticflickr.com/1540/23666917643_91cba5df45_b.jpg
 ---
 
 Having just survived the sudden frost and minus temperatures here, in the north of the Netherlands, it seems just appropriate to pay respect to winter hiking and turn our thoughts to one of the adventures we had last winter, just over a year ago. The hike we are going to talk about took place at the end of 2014, between Christmas and the New Year’s Eve, when we dragged our backpacks for 4 days in the south of Poland, covered around 75km at the altitudes between 600-1100m above see level and just met a few people on the way and in the shelters. That was really fun!
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/23666917643/in/dateposted-public/" title="2 dzie+ä - za prze+éecza krzy++ow-à"><img src="https://farm2.staticflickr.com/1540/23666917643_91cba5df45_b.jpg" width="100%" alt="Winter Hiking in the Beskid Mountains in Poland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://farm2.staticflickr.com/1540/23666917643_91cba5df45_b.jpg" width="100%" alt="A winter hike in the Beskid Mountains in Poland"></amp-img>
 
 <!--more-->
 
@@ -62,7 +63,7 @@ After the initial climb from Krynica (which we immediately felt in the winter-la
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24293732425/in/dateposted-public/" title="droga z prze+é-Öczy krzyzowej - 1 dzie+ä"><img src="https://farm2.staticflickr.com/1486/24293732425_0970e638bf_b.jpg" width="680" height="1024" alt="Winter Hiking in the Beskid Mountains Runek Poland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Red trail to Runek (peak 1080 meters above sea level)
-After this short lunch break, we went down a bit before starting a long gentle ascent to the shelter on [Hala Łabowska][3] (1061m), where we spent our first night on the trail.  
+After this short lunch break, we went down a bit before starting a long gentle ascent to the shelter on [Hala Łabowska][3] (1061m), where we spent our first night on the trail.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24267592116/in/dateposted-public/" title="beskidy - you can&#x27;t get lost"><img src="https://farm2.staticflickr.com/1480/24267592116_152b57ab89_b.jpg" width="680" height="1024" alt="beskidy - Hala Łabowska"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -83,7 +84,7 @@ In general, the weather that day was very pleasant. With lots of sun and blue sk
 That day we were also treated to a special natural phenomenon - a rainbow, created by the light of the evening sun going through the tiny crystals of ice falling off the trees. The spectacle made us stop in our tracks and we stood there mesmerized enjoying its delicate beauty for more than ten minutes.
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/23666895433/in/dateposted-public/" title="Mi+ø"><img src="https://farm2.staticflickr.com/1533/23666895433_5c7254a8c5_b.jpg" width="1000" height="664" alt="Winter Hiking in the Beskid Mountains in Poland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-The terrain was mostly flat and easy to cross. There was not much snow to speak of and we were really happy that we decided not to take our snowshoes with us.  
+The terrain was mostly flat and easy to cross. There was not much snow to speak of and we were really happy that we decided not to take our snowshoes with us.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/23665487804/in/dateposted-public/" title="niedaleko schroniska Hala +üabowska - 1 dzie+ä"><img src="https://farm2.staticflickr.com/1452/23665487804_b7b572b2d9_b.jpg" width="100%" alt="niedaleko schroniska Hala Winter Hiking in the Beskid Mountains in Poland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

@@ -10,10 +10,11 @@ tags:
   - kurjenrahka national park
   - hiking
 layout: post
+image: https://c8.staticflickr.com/9/8806/29998384591_973d97e6ed_k.jpg
 ---
 Last weekend we decided to visit the Kurjenrahka National Park with <a href="http://caide.kuvat.fi">Caj</a> and Katja. <a href="https://www.facebook.com/konstantin.gridnevskiy?fref=ts" rel="nofollow">Konstantin</a> has just finished his "official work duties" where he was talking on the 25th Nordic Symposium on Tourism and Hospitality Research in Turku and decided to stay a few more days. <a href="https://www.facebook.com/patrickdormischian">Patrick</a> has already visited the Kurjenrahka National Park <a href="http://www.hikeventures.com/autumn-colors-around-lake-savojarvi/">2 years ago</a> for a day hike but this time we were planning to stay over night in a lean-to shelter. After we parked our car nearby the Kurjenpesä Nature Information Hut from where we walked to the old boundary mark of Kuhankuono.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29998384591/in/dateposted-public/" title="Kurjenrahka National Park Old Boundary Mark of Kuhankuono"><img src="https://c8.staticflickr.com/9/8806/29998384591_973d97e6ed_k.jpg" width="2048" height="1152" alt="Kurjenrahka National Park Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://c8.staticflickr.com/9/8806/29998384591_973d97e6ed_k.jpg" width="100%" alt="Hiking in the Kurjenrahka National Park"></amp-img>
 
 <!--more-->
 

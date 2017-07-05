@@ -8,10 +8,13 @@ tags:
   - finland
   - archipelago
 layout: post
+image: https://farm8.staticflickr.com/7393/8731182603_7f97bf02ae_b.jpg
 ---
 Today, I had a short trip to Bj&#214;rkoby in the Kvarken Archipelago and finally all the snow has melted and the birds returned from the South.
 
-<a href="https://www.flickr.com/photos/90204224@N07/8731182603"><img src="https://farm8.staticflickr.com/7393/8731182603_7f97bf02ae_b.jpg" width="1024" height="683" alt="Kvarken Archipelago backpacking - View from Observation Tower Saltkaret over Svedjehamn"></a><!--more-->
+<amp-img src="https://farm8.staticflickr.com/7393/8731182603_7f97bf02ae_b.jpg" width="100%" alt="Kvarken Archipelago backpacking - View from Observation Tower Saltkaret over Svedjehamn"></amp-img>
+
+<!--more-->
 
 <a href="https://www.flickr.com/photos/90204224@N07/8732309954"><img src="https://farm8.staticflickr.com/7281/8732309954_0fe3d56e00_b.jpg" width="1024" height="683" alt="Kvarken Archipelago hiking - View from Observation Tower Saltkaret"></a>
 

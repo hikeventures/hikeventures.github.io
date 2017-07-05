@@ -9,10 +9,11 @@ tags:
   - sweden
   - castles
 layout: post
+image: https://farm3.staticflickr.com/2896/14273722330_9ac3e2ddc5_b.jpg
 ---
 Kalmar is an old town on the southeastern shore of Sweden and worth for a sightseeing trip. Kalmar is the city where the <a href="http://en.wikipedia.org/wiki/Kalmar_Union" target="_blank">Kalmar Union</a> was founded, which unified the Scandinavian nations from 1397 till 1534 in order to counter the <a href="http://en.wikipedia.org/wiki/Hanseatic_League" target="_blank">Hanseatic League</a>. The Kalmar Union was founded by <a href="http://en.wikipedia.org/wiki/Margaret_I_of_Denmark" target="_blank">Queen Margareta.
-<br><br>
-<a href="https://www.flickr.com/photos/90204224@N07/14273722330/" title="Kalmar Castle Sweden"><img src="https://farm3.staticflickr.com/2896/14273722330_9ac3e2ddc5_b.jpg" width="1024" height="683" alt="Kalmar Castle Sightseeing" ></a>
+
+<amp-img src="https://farm3.staticflickr.com/2896/14273722330_9ac3e2ddc5_b.jpg" width="100%" alt="Kalmar Castle Sweden"></amp-img>
 
 <!--more-->
 

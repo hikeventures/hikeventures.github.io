@@ -9,11 +9,12 @@ tags:
   - emån
   - sweden
 layout: post
+image: https://farm4.staticflickr.com/3907/14281650547_4ee73fde90_b.jpg
 ---
 
 One week ago we went to a packrafting trip on the Emån River which is located in south-east of Sweden and flows into the baltic sea. We started our trip in Högsby and paddled all the way down to Påskallavik, spending one night in Fliseryd in our <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/" target="_self">Hilleberg Anjan tent</a>.
 
-<a href="https://www.flickr.com/photos/90204224@N07/14281650547/" ><img src="https://farm4.staticflickr.com/3907/14281650547_4ee73fde90_b.jpg" width="1024" height="683" alt="Packrafting Eman River Sweden alpacka raft werner shuna paddle petzl meteor helmet"></a>
+<amp-img src="https://farm4.staticflickr.com/3907/14281650547_4ee73fde90_b.jpg" width="100%" alt="Packrafting Eman River Sweden alpacka raft werner shuna paddle petzl meteor helmet"></amp-img>
 
 <!--more-->
 
@@ -119,6 +120,6 @@ In general, the route seems to be manageable also for "experienced beginners" if
 
 
 ## Links
-<a href="http://www.movescount.com/moves/move33882499" target="_blank">GPS Data Day 1</a>   
-<a href="http://www.movescount.com/moves/move33882509" target="_blank">GPS Data Day 2</a>   
-<a href="http://kanot.info/kartor.htm" target="_blank">Detailed route description and map</a>   
+<a href="http://www.movescount.com/moves/move33882499" target="_blank">GPS Data Day 1</a>
+<a href="http://www.movescount.com/moves/move33882509" target="_blank">GPS Data Day 2</a>
+<a href="http://kanot.info/kartor.htm" target="_blank">Detailed route description and map</a>

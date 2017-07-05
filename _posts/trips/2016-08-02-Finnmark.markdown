@@ -10,11 +10,14 @@ tags:
   - Finnamrk
   - Kaldoaivi
   - packrafting
+image: https://c6.staticflickr.com/9/8864/28716097805_72fe8dc689_k.jpg
 ---
 
 After our [packrafting trip](http://www.hikeventures.com/Kaldoaivi/) in Finnish Lapland we drove with our car up North to Norway towards the Arctic Sea. This was the first time for me in Norway and I really enjoyed the scenery. Coming from Central Europe, I found Southern Finland - where I live since 10 years - already quite remote. Northern Norway however felt really far away.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716097805/in/dateposted-public/" title="Hiking and Packrafting in Norway"><img src="https://c6.staticflickr.com/9/8864/28716097805_72fe8dc689_k.jpg" width="2048" height="1365" alt="Packrafting in Northern Norway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<amp-img src="https://c6.staticflickr.com/9/8864/28716097805_72fe8dc689_k.jpg" width="100%" alt="Hiking and Packrafting in Norway"></amp-img>
+
 
 <!--more-->
 
