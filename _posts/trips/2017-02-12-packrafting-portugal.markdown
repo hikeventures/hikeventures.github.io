@@ -8,12 +8,13 @@ tags:
   - destinations
   - portugal
   - packrafting
+image: https://c1.staticflickr.com/1/310/32011923094_ce14a6fe37_k.jpg
 ---
 Revently, I went to the Algarve in Portugal for sightseeing and packrafting and here are a few impressions from this trip.
 
 This tidal mill is one of the few things that we saw on our recent trip to Algarve, Portugal.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32011923094/in/dateposted-public/" title="tidal mill Algarve Packrafting in Portugal"><img src="https://c1.staticflickr.com/1/310/32011923094_ce14a6fe37_k.jpg" width="1639" height="2048" alt="tidal mill in Algarve Portugal"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://c1.staticflickr.com/1/310/32011923094_ce14a6fe37_k.jpg" width="100%" alt="tidal mill Algarve Packrafting in Portugal"></amp-img>
 
 <!--more-->
 
@@ -46,6 +47,6 @@ Going back up to our car, I held my head high and my packraft even higher - the 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32809908766/in/dateposted-public/" title="Packrafting in Portugal"><img src="https://c1.staticflickr.com/1/373/32809908766_d595a5ec4a_k.jpg" width="2048" height="1165" alt="Packrafting in Portugal"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Was a 'good-bye', but definitely not a 'farewell' ... 
+Was a 'good-bye', but definitely not a 'farewell' ...
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32036071783/in/dateposted-public/" title="Packrafting in Portugal"><img src="https://c1.staticflickr.com/3/2322/32036071783_9ff36e751c_k.jpg" width="2048" height="1172" alt="Packrafting in Portugal"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
