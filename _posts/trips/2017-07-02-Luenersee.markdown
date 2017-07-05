@@ -16,7 +16,7 @@ image: https://farm5.staticflickr.com/4015/34857301753_0e72c9b6b2_k.jpg
 
 The Lünersee is one of the most beautiful alp lakes and is located nearby Brand at the end of the Brandner Valley in Austria. This summer I had a chance to visit the Lünersee again for a hike. Again? Well I have lived 2 years in Bludenz in the past when I was studying Tourism at the Tourismusschulen Bludenz. During this time I had already the opportunity to explore different valleys and mountains in this region.
 
-<amp-img src="https://farm5.staticflickr.com/4015/34857301753_0e72c9b6b2_k.jpg" width="100%" alt="Hiking the Natursprünge trail in Brand"></amp-img>
+<amp-img src="https://farm5.staticflickr.com/4015/34857301753_0e72c9b6b2_k.jpg" width="100%" layout="responsive"  alt="Hiking the Natursprünge trail in Brand"></amp-img>
 
 <!--more-->
 

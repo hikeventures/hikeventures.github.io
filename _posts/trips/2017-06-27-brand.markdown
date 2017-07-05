@@ -15,7 +15,7 @@ image: https://c1.staticflickr.com/1/310/32011923094_ce14a6fe37_k.jpg
 
 During my vacation in the Brandnertal I had the opportunity to travel with the Dorfbahn and the Panorama Bahn cable car from Brand (1005 m) up to the Burtschasattel (1680 m). Traveling with the Panorama Bahn cable car is quite exciting as you have the chance to look deep down into the valley.
 
-<amp-img src="https://farm5.staticflickr.com/4091/35494210302_7e3c4e4d1c_k.jpg" width="100%" alt="Hiking the Natursprünge trail in Brand"></amp-img>
+<amp-img src="https://farm5.staticflickr.com/4091/35494210302_7e3c4e4d1c_k.jpg" width="100%" layout="responsive"  alt="Hiking the Natursprünge trail in Brand"></amp-img>
 
 <!--more-->
 
