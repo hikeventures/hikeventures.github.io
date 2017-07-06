@@ -50,28 +50,28 @@ published: true
 			<h3>Partners and Sponsors</h3>
 			<div id="partners_table" class="row">
 				<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-					<amp-img src="m-s-r-logo.png" width="256" height="256" alt="MSR" /></amp-img>
+					<amp-img src="m-s-r-logo.png" width="256" height="256" layout="responsive" alt="MSR" ></amp-img>
 				</div>
 				<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-					<amp-img src="thule-logo.png" width="256" height="256" alt="Thule" /></amp-img>
+					<amp-img src="thule-logo.png" width="256" height="256" layout="responsive" alt="Thule" ></amp-img>
 				</div>
 				<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-					<amp-img src="palm-logo.png" width="256" height="256" alt="Palm" /></amp-img>
+					<amp-img src="palm-logo.png" width="256" height="256" layout="responsive" alt="Palm" ></amp-img>
 				</div>
 				<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-					<amp-img src="werner-logo.png" width="256" height="256" alt="Werner Paddles" /></amp-img>
+					<amp-img src="werner-logo.png" width="256" height="256" layout="responsive" alt="Werner Paddles" ></amp-img>
 				</div>
 				<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-					<amp-img src="lundhags-logo.png" width="256" height="256" alt="Lundhags" /></amp-img>
+					<amp-img src="lundhags-logo.png" width="256" height="256" layout="responsive" alt="Lundhags" ></amp-img>
 				</div>
 				<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-					<amp-img src="haglfs-logo-copy.png" width="256" height="256" alt="Haglofs" /></amp-img>
+					<amp-img src="haglfs-logo-copy.png" width="256" height="256" layout="responsive" alt="Haglofs" ></amp-img>
 				</div>
 				<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-					<amp-img src="thermares-logo.png" width="256" height="256" alt="Thermares" /></amp-img>
+					<amp-img src="thermares-logo.png" width="256" height="256" layout="responsive" alt="Thermares" ></amp-img>
 				</div>
 				<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-					<amp-img src="alpacka-logo.png" width="256" height="256" alt="Alpacka" /></amp-img>
+					<amp-img src="alpacka-logo.png" width="256" height="256" layout="responsive" alt="Alpacka" ></amp-img>
 				</div>
 			</div>
 			<h4>Affiliate Links</h4>
