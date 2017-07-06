@@ -16,7 +16,7 @@ I was searching for a new ultralight backpack for my hiking, backpacking and pac
 
 <!--more-->
 
-<amp-img src="https://farm9.staticflickr.com/8231/8576877609_d896526571_b.jpg" width="1024" width="770" alt="Laufbursche Huckepack hp450 unboxing"></amp-img>
+<amp-img src="https://farm9.staticflickr.com/8231/8576877609_d896526571_b.jpg" width="1024" width="770" alt="Laufbursche Huckepack hp450 unboxing" layout="responsive"></amp-img>
 
 This is how I got the backpack. I ordered the cuben fibre bag separately. The water plastic bottle came free of charge. I found the packaging really good and there is also a leaflet included how to handle the backpack.
 

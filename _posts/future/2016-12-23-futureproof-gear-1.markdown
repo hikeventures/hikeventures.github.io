@@ -12,7 +12,7 @@ Interested in the lastest and newest outdoor gear? We are starting a new series 
 
 Do you want us to review it? Comment and follow us on social media using the hashtag #FutureproofGear.
 
-<amp-img src="https://c3.staticflickr.com/4/3856/14506057802_91240ffe46_b.jpg" width="1024" height="683" alt="Futureproof - the outdoor gear for tomorrow's you?"></amp-img>
+<amp-img src="https://c3.staticflickr.com/4/3856/14506057802_91240ffe46_b.jpg" layout="responsive" width="1024" height="683" alt="Futureproof - the outdoor gear for tomorrow's you?"></amp-img>
 
 <!--more-->
 

@@ -25,7 +25,7 @@ However, if you plan to go only occasionally on outdoor trips or if you are into
 
 Our <a rel="nofollow" href="#list">selection</a> below contains only new / updated tents and I might add a few more later on.
 
-<amp-img src="https://c3.staticflickr.com/9/8759/28098548314_3618ccb134_k.jpg" width="2048" height="1365" alt="Best new tents for 2017"></amp-img>
+<amp-img src="https://c3.staticflickr.com/9/8759/28098548314_3618ccb134_k.jpg" width="2048" height="1365" alt="Best new tents for 2017" layout="responsive"></amp-img>
 
 <!--more-->
 

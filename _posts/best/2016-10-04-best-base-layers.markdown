@@ -22,7 +22,7 @@ Also check one of our <a href="#video">packrafting videos</a> where we were wear
 
 ---
 
-<amp-img src="https://c2.staticflickr.com/6/5604/15791886561_80520bc4b6_k.jpg" width="2048" height="1367" alt="Best Merino Wool Base Layers"></amp-img>
+<amp-img src="https://c2.staticflickr.com/6/5604/15791886561_80520bc4b6_k.jpg" width="2048" height="1367" layout="responsive" alt="Best Merino Wool Base Layers"></amp-img>
 
 However, there are also alternatives out there which I would like to present in this blog post which might be even better base layer options depending on your needs.
 

@@ -13,7 +13,7 @@ Are you planning a hiking, backpacking or packrafting trip in Scandinavia? Here 
 
 In case you want to visit some of those places make sure that you plan your route and gear in advance. Here you can find a short <a href="#list">overview</a>.
 
-<amp-img src="https://farm8.staticflickr.com/7385/9599027418_4123160df8_b.jpg" width="992" height="661" alt="best places to go hiking, backpacking and packrafting in scandinavia"></amp-img>
+<amp-img src="https://farm8.staticflickr.com/7385/9599027418_4123160df8_b.jpg" width="992" height="661" alt="best places to go hiking, backpacking and packrafting in scandinavia" layout="responsive"></amp-img>
 <br>Sarek National Park in Sweden
 
 <!--more-->

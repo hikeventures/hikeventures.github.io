@@ -14,7 +14,7 @@ image: https://c4.staticflickr.com/4/3694/18907331248_d941470a7e_b.jpg
 
 Being active outdoors and recording your special moments has never been easier. All you need to do is to use an action camera for it. With the new cameras and their accessories appearing on the market each year, there is no wonder that more and more people take them on their travels. And I am not very different as I have two GoPro cameras and a plethora of mounts, chargers and housings, which I have to lug around with me in-between the adventures, which, in my 3+ years’ of experience, can pose a number of problems. This review is about how Thule Perspektiv Action Camera Case (provided by Thule to review) helped me to solve most of them.
 
-<amp-img src="https://c4.staticflickr.com/4/3694/18907331248_d941470a7e_b.jpg" width="1024" height="768" alt="Thule Perspektiv Action Camera Case Review"></amp-img>
+<amp-img src="https://c4.staticflickr.com/4/3694/18907331248_d941470a7e_b.jpg"  layout="responsive" width="1024" height="768" alt="Thule Perspektiv Action Camera Case Review"></amp-img>
 
 <!--more-->
 

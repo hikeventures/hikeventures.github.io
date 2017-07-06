@@ -13,7 +13,7 @@ image: https://farm4.staticflickr.com/3894/14925259216_ff2d1deb5e_b.jpg
 
 When you plan you next hiking, backpacking, packrafting or other outdoor trip it's a good idea to have a pillow with you which is lightweight and packable. Here is a short review about the Exped Air Pillow UL M which is the perfect companion for the <a href="http://hikeventures.com/exped-synmat-ul-7/" target="_self">Exped SynMat UL 7</a> which we have used the last months on our adventures.
 
-<amp-img src="https://farm4.staticflickr.com/3894/14925259216_ff2d1deb5e_b.jpg" width="1024" height="683" alt="Exped Airpillow"></amp-img>
+<amp-img src="https://farm4.staticflickr.com/3894/14925259216_ff2d1deb5e_b.jpg" layout="responsive" width="1024" height="683" alt="Exped Airpillow"></amp-img>
 
 <!--more-->
 

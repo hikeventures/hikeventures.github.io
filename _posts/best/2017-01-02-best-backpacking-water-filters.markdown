@@ -30,7 +30,7 @@ The Steripen uses an UV light against Viruses and can be recharged through the U
 
 ---
 
-<amp-img src="https://c1.staticflickr.com/8/7459/9599019542_fa67333918_k.jpg" width="2048" height="1365" alt="Best lightweight water filters 2017"></amp-img>
+<amp-img src="https://c1.staticflickr.com/8/7459/9599019542_fa67333918_k.jpg" width="2048" height="1365" alt="Best lightweight water filters 2017" layout="responsive"></amp-img>
 
 <h2>The best lightweight water filters of 2017</h2>
 
@@ -43,7 +43,7 @@ The Steripen uses an UV light against Viruses and can be recharged through the U
          <tr><td>lifetime (liters)</td><td>1000</td><td>350000</td><td>1150</td><td>2000</td></tr>
          <tr><td>viruses</td><td>no</td><td>no</td><td>no</td><td>no</td></tr>
          <tr><td>carbon filter</td><td>no</td><td>no</td><td>yes</td><td>no</td></tr>
-         <tr><td>&nbsp;</td><td><a rel="nofollow" href="http://amzn.to/2kOYYW6" target="_blank" rel="nofollow"><a href="http://amzn.to/2elEHtO" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy1.gif"></a>  
+         <tr><td>&nbsp;</td><td><a rel="nofollow" href="http://amzn.to/2kOYYW6" target="_blank" rel="nofollow"><a href="http://amzn.to/2elEHtO" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy1.gif"></a>
 </a></td><td><a rel="nofollow" href="http://amzn.to/2lZIqQl" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy1.gif"></a></td><td><a rel="nofollow" href="http://amzn.to/2lZGgjz" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy1.gif"></a></td><td><a rel="nofollow" href="http://amzn.to/2qdeoXm" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy1.gif"></a></td></tr>
         </tbody></table>
 </div>

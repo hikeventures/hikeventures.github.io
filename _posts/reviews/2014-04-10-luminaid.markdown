@@ -13,7 +13,7 @@ image: https://farm8.staticflickr.com/7381/13970539645_6d777e495b_c.jpg
 
 luminAID is a solar-powered inflatable light which can be used to light up your camp or you can attach it to your packraft if you want to paddle at night.
 
-<amp-img src="https://farm8.staticflickr.com/7381/13970539645_6d777e495b_c.jpg" width="800" height="553" alt="LuminAID Review"></amp-img>
+<amp-img src="https://farm8.staticflickr.com/7381/13970539645_6d777e495b_c.jpg" layout="responsive" width="800" height="553" alt="LuminAID Review"></amp-img>
 
 
 <!--more-->

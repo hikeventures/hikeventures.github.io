@@ -9,12 +9,13 @@ tags:
   - books
   - hiking
 layout: post
+image: https://farm4.staticflickr.com/3726/10906593816_40d9a30fce_b.jpg
 ---
 Here comes our first issue of our Outdoor Books Guide where you can find the latest and most interesting books about outdoor activities, adventures and photography in 2017.
 
-{% include disclaimer.html %}
+<amp-img src="https://farm4.staticflickr.com/3726/10906593816_40d9a30fce_b.jpg" width="1024" height="687" alt="Best snowshoes for 2017" layout="responsive"></amp-img>
 
-<a href="https://www.flickr.com/photos/90204224@N07/10906593816"><img src="https://farm4.staticflickr.com/3726/10906593816_40d9a30fce_b.jpg" width="1024" height="687"></a><!--more-->
+<!--more-->
 
 ### 1. Wild: From Lost to Found on the Pacific Crest Trail
 <a rel="nofollow" href="http://www.amazon.com/gp/product/0307476073/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307476073&linkCode=as2&tag=hikeve-20&linkId=VCDUL4R6QZOHA4PL"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0307476073&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=0307476073" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br>

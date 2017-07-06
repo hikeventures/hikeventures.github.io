@@ -20,7 +20,7 @@ Have a look on our <a href="#list">comparison table</a> to find the right camera
 
 ---
 
-<amp-img src="https://c3.staticflickr.com/6/5609/30599065514_3a9dedbf93_k.jpg" width="2048" height="1365" alt="Best 360 4K waterproof camera"></amp-img>
+<amp-img src="https://c3.staticflickr.com/6/5609/30599065514_3a9dedbf93_k.jpg" width="2048" height="1365" layout="responsive" alt="Best 360 4K waterproof camera"></amp-img>
 
 
 <!--more-->

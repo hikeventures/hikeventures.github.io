@@ -11,52 +11,52 @@ tags:
   - best
 ---
 
-In this blog post I will present you my selection of the best ski gloves for 2017. Of course, you can also wear these gloves for snowboarding.  
+In this blog post I will present you my selection of the best ski gloves for 2017. Of course, you can also wear these gloves for snowboarding.
 
-<amp-img src="https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg" width="2048" height="1360" alt="best ski gloves for 2017"></amp-img>
+<amp-img src="https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg" width="2048" height="1360" alt="best ski gloves for 2017" layout="responsive"></amp-img>
 
 
 <!--more-->
 
 ## The bes ski gloves of 2017
 
-<div class="table-responsive">  
-      <table class="table table-hover table-bordered list_items_2">  
-        <thead>  
-             <tr>  
-                <th>Winter Gloves</th><th>Brand</th>  
-             </tr>  
-        </thead>  
-        <tbody>  
-        <tr>  
-          <td><a href="http://amzn.to/2dQ8w0a" target="_blank" rel="nofollow">Alti Mittens</a></td><td>Outdoor Research</td>  
-        </tr>  
-        <tr>  
-          <td><a href="http://amzn.to/2eIcmNU" target="_blank" rel="nofollow">Army Leather Heli Glove</a></td><td>Hestra</td>  
-        </tr>  
-        <tr>  
-          <td><a href="http://amzn.to/2ea3MIb" target="_blank" rel="nofollow">Absolute Zero Mitten</a></td><td>Mountain Hardwear</td>  
-        </tr>  
-        <tr>  
-          <td><a href="http://amzn.to/2ew0z1D" target="_blank" rel="nofollow">Down Mittens</a></td><td>Canada Goose</td>  
-        </tr>  
-        <tr>  
-          <td><a href="http://amzn.to/2dQafmq" target="_blank" rel="nofollow">Down Glove</a></td><td>Canada Goose</td>  
-        </tr>  
-        <tr>  
-          <td><a href="http://amzn.to/2e3bqjY" target="_blank" rel="nofollow">Patrol Glove</a></td><td>Black Diamond</td>  
-        </tr>  
-</tbody>  
-</table>  
-</div>  
+<div class="table-responsive">
+      <table class="table table-hover table-bordered list_items_2">
+        <thead>
+             <tr>
+                <th>Winter Gloves</th><th>Brand</th>
+             </tr>
+        </thead>
+        <tbody>
+        <tr>
+          <td><a href="http://amzn.to/2dQ8w0a" target="_blank" rel="nofollow">Alti Mittens</a></td><td>Outdoor Research</td>
+        </tr>
+        <tr>
+          <td><a href="http://amzn.to/2eIcmNU" target="_blank" rel="nofollow">Army Leather Heli Glove</a></td><td>Hestra</td>
+        </tr>
+        <tr>
+          <td><a href="http://amzn.to/2ea3MIb" target="_blank" rel="nofollow">Absolute Zero Mitten</a></td><td>Mountain Hardwear</td>
+        </tr>
+        <tr>
+          <td><a href="http://amzn.to/2ew0z1D" target="_blank" rel="nofollow">Down Mittens</a></td><td>Canada Goose</td>
+        </tr>
+        <tr>
+          <td><a href="http://amzn.to/2dQafmq" target="_blank" rel="nofollow">Down Glove</a></td><td>Canada Goose</td>
+        </tr>
+        <tr>
+          <td><a href="http://amzn.to/2e3bqjY" target="_blank" rel="nofollow">Patrol Glove</a></td><td>Black Diamond</td>
+        </tr>
+</tbody>
+</table>
+</div>
 
 ## Arc'teryx Gothic Glove
 
-<a  href="http://www.amazon.com/gp/product/B0128ZMB38/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0128ZMB38&linkCode=as2&tag=hikeve-20&linkId=FFSORBCFNMC4XSRF" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0128ZMB38&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0128ZMB38" width="1" height="1" border="0" alt="Arc’teryx Gothic Glove" style="border:none !important; margin:0px !important;" />  
+<a  href="http://www.amazon.com/gp/product/B0128ZMB38/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0128ZMB38&linkCode=as2&tag=hikeve-20&linkId=FFSORBCFNMC4XSRF" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0128ZMB38&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0128ZMB38" width="1" height="1" border="0" alt="Arc’teryx Gothic Glove" style="border:none !important; margin:0px !important;" />
 
-The Arc’teryx Gothic Glove comes with ultra soft merino wool and an anatomical form fit. The Arc’teryx Gothic Glove is probably my favorite choice.  
+The Arc’teryx Gothic Glove comes with ultra soft merino wool and an anatomical form fit. The Arc’teryx Gothic Glove is probably my favorite choice.
 
-<a href="http://amzn.to/2r5Ygrr" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
+<a href="http://amzn.to/2r5Ygrr" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -64,21 +64,21 @@ The Arc’teryx Gothic Glove comes with ultra soft merino wool and an anatomical
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00QTDFM64/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QTDFM64&linkCode=as2&tag=hikeve-20&linkId=b6d20cbf017c4ac48a53239e33cadd8e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00QTDFM64&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00QTDFM64" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-The Black Diamond Patrol Gloves are waterproof and come with a PrimoLoft One insulation and a Polartec Thermal Pro High Loft fleece. The gloves are suitable from 0 to 30 degrees Fahrenheit.  
+The Black Diamond Patrol Gloves are waterproof and come with a PrimoLoft One insulation and a Polartec Thermal Pro High Loft fleece. The gloves are suitable from 0 to 30 degrees Fahrenheit.
 
-<a href="http://amzn.to/2r5Fz7h" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
+<a href="http://amzn.to/2r5Fz7h" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
 ## Canada Goose Down Mittens
 
-<a  href="http://www.amazon.com/gp/product/B005W43THA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005W43THA&linkCode=as2&tag=hikeve-20&linkId=OHOE66KD4FW6WG6M" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005W43THA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005W43THA" width="1" height="1" border="0" alt="Canada Goose Down Mittens" style="border:none !important; margin:0px !important;" />  
+<a  href="http://www.amazon.com/gp/product/B005W43THA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005W43THA&linkCode=as2&tag=hikeve-20&linkId=OHOE66KD4FW6WG6M" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005W43THA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005W43THA" width="1" height="1" border="0" alt="Canada Goose Down Mittens" style="border:none !important; margin:0px !important;" />
 
-The Canada Goose Down Mittens are water- and windproof and filled with 525 Fill Power White Goose Down and come with a Velcro closure for wrist cinch, hard-face fleece cuffs and glove clips.   
+The Canada Goose Down Mittens are water- and windproof and filled with 525 Fill Power White Goose Down and come with a Velcro closure for wrist cinch, hard-face fleece cuffs and glove clips.
 
-The only downside on the Canada Goose Down Mittens is that they don’t have a removable liner.  
+The only downside on the Canada Goose Down Mittens is that they don’t have a removable liner.
 
-<a href="http://amzn.to/2rh22NG" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
+<a href="http://amzn.to/2rh22NG" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -92,7 +92,7 @@ The Hestra Heli 3-Finger Glove has also a pre-curved design. One free-moving fin
 
 If I were to buy new gloves then I would probably buy these gloves. There is also the <a href="http://amzn.to/2r5T7zz" rel="nofollow">Hestra Heli Ergo Grip Glove</a> available if you prefer to have a regular glove.
 
-<a href="http://amzn.to/2s8C574" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
+<a href="http://amzn.to/2s8C574" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -108,13 +108,13 @@ The Arc’teryx Glove Liner adds additional warmth to your gloves if it’s very
 
 ## Mountain Hardwear Absolute Zero Mitten
 
-<a  href="http://www.amazon.com/gp/product/B00QKPCQ88/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QKPCQ88&linkCode=as2&tag=hikeve-20&linkId=ZJU5VKKA7UWNEDT6" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00QKPCQ88&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00QKPCQ88" width="1" height="1" border="0" alt="Mountain Hardwear Absolute Zero Mitten" style="border:none !important; margin:0px !important;" />  
+<a  href="http://www.amazon.com/gp/product/B00QKPCQ88/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QKPCQ88&linkCode=as2&tag=hikeve-20&linkId=ZJU5VKKA7UWNEDT6" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00QKPCQ88&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00QKPCQ88" width="1" height="1" border="0" alt="Mountain Hardwear Absolute Zero Mitten" style="border:none !important; margin:0px !important;" />
 
-The Mountain Hardwear Absolute Zero Mitten was designed for the most extreme cold weather conditions.   
+The Mountain Hardwear Absolute Zero Mitten was designed for the most extreme cold weather conditions.
 
-It comes with a Q.Shield DOWN 800-fill and is shielded by a waterproof, windproof OutDry membrane. The Absolute Zero Mitten also comes with a high-pile fleece liner.  
+It comes with a Q.Shield DOWN 800-fill and is shielded by a waterproof, windproof OutDry membrane. The Absolute Zero Mitten also comes with a high-pile fleece liner.
 
-<a href="http://amzn.to/2seEHBf" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
+<a href="http://amzn.to/2seEHBf" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -131,12 +131,12 @@ The OR Alti Mittens are made by breathable and waterproof GORE-TEX, high-loft Mo
 
 ## Gloves or Mittens?
 
-Gloves give you more dexterity (that’s the magic selling word in the world of gloves manufactures) than mittens. However, mittens keep your fingers warmer than gloves.  
+Gloves give you more dexterity (that’s the magic selling word in the world of gloves manufactures) than mittens. However, mittens keep your fingers warmer than gloves.
 
-Gloves and mittens allow you to layer. Layering is an important aspect for everyone interested in outdoor activities and a liner glove can be regarded as the underwear for your fingers.   
+Gloves and mittens allow you to layer. Layering is an important aspect for everyone interested in outdoor activities and a liner glove can be regarded as the underwear for your fingers.
 
-If you need additional warmth add a merino liner glove under your regular glove and your fingers will feel warmer.  
+If you need additional warmth add a merino liner glove under your regular glove and your fingers will feel warmer.
 
-There is also an option from Hestra available - the Hestra Army Leather Heli 3-Finger Glove - which sits in between mitts and gloves are probably also a good option for example if you need to handle a camera. This model is my favorite model of all gloves in this list.  
+There is also an option from Hestra available - the Hestra Army Leather Heli 3-Finger Glove - which sits in between mitts and gloves are probably also a good option for example if you need to handle a camera. This model is my favorite model of all gloves in this list.
 
 However, you can also just take your main gloves off and operate your camera by just wearing the liner gloves. Once you have taken your picture you just put your main gloves back over the merino liner gloves.

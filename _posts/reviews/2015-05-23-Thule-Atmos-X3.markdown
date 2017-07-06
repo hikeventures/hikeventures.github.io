@@ -13,7 +13,7 @@ image: https://c4.staticflickr.com/8/7684/17801901680_2b6055e8d4_o.jpg
 
 In the middle of January this year I got my new iPhone 6, put it in the Thule Atmos X3 case and has hardly taken it out of it again and here comes a short review. Thus paired, this happy couple has hardly ever left my side for the last four months – from the white emptiness of Finnish Lapland to the meandering rivers in the Belgian Ardennes they have showed me the way and helped me to document all my hiking and packrafting adventures. And here is why.
 
-<amp-img src="https://c4.staticflickr.com/8/7684/17801901680_2b6055e8d4_o.jpg" width="1024" width="680" alt="Thule Atmos X3"></amp-img>
+<amp-img src="https://c4.staticflickr.com/8/7684/17801901680_2b6055e8d4_o.jpg" layout="responsive" width="1024" width="680" alt="Thule Atmos X3"></amp-img>
 
 > Update 17.12.2015: The Thule Atmos X5 has been released. The X5 is waterproof compared to the X3. Have a look <a href="http://amzn.to/1OxoOpe">here</a>.
 
