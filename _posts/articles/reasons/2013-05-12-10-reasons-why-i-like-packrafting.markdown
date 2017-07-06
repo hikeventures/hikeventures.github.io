@@ -10,7 +10,7 @@ layout: post
 image: http://farm8.staticflickr.com/7425/8729735329_78a6f1a644_c.jpg
 ---
 
-<amp-img src="http://farm8.staticflickr.com/7425/8729735329_78a6f1a644_c.jpg" width="100%" alt="Best lightweight water filters 2017"></amp-img>
+<amp-img src="http://farm8.staticflickr.com/7425/8729735329_78a6f1a644_c.jpg" width="800" height="434" alt="Best lightweight water filters 2017"></amp-img>
 
 <ul>
 <li>I can take my Packraft everywhere since it is very light</li>

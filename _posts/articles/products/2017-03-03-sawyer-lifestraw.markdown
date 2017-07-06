@@ -19,7 +19,7 @@ However, recently new solutions have appeared on the market for outdoor enthusia
 
 In this article I am going discuss if you should choose the Sawyer Mini, MSR TrailShot or the LifeStraw Personal water filter as a possible ultralight water filter solution.
 
-<amp-img src="https://c1.staticflickr.com/8/7459/9599019542_fa67333918_k.jpg" width="100%" alt="Best lightweight water filters 2017"></amp-img>
+<amp-img src="https://c1.staticflickr.com/8/7459/9599019542_fa67333918_k.jpg" width="2048" height="1365" alt="Best lightweight water filters 2017"></amp-img>
 
 <!--more-->
 

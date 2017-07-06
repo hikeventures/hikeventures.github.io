@@ -13,7 +13,7 @@ Last weekend we have visited Sweden to participate in the Swedish Packrafting Ro
 
 As usual, we were lucky with the weather and enjoyed sunshine throughout the event. The nights were however still quite chilly.
 
-<amp-img src="https://c1.staticflickr.com/5/4160/34332806671_78ebe03636_k.jpg" width="100%" alt="Swedish Packrafting Round-Up 2017 - Preparation and Departure"></amp-img>
+<amp-img src="https://c1.staticflickr.com/5/4160/34332806671_78ebe03636_k.jpg" width="2048" height="1367" alt="Swedish Packrafting Round-Up 2017 - Preparation and Departure"></amp-img>
 
 
 <!--more-->

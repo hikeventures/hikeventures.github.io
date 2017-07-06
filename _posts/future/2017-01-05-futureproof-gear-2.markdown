@@ -15,7 +15,6 @@ Would you buy it? Do you want us to review it? Comment and follow us on [Facebok
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/x2_PezLgM8s"></iframe>
 </div>
-<br>
 
 <!--more-->
 

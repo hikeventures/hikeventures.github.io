@@ -13,7 +13,7 @@ image: https://c1.staticflickr.com/9/8889/27747666193_e6f65537c7_h.jpg
 ---
 Recently, I was wondering if I should upgrade my manual Samyang 14mm f/2.8 lens to a newer lens which may also have wider optics and spotted the release of Irix 11mm f/4.0 which comes with an E-Mount and would be perfect for my Sony A7.
 
-I am always interested to find the best lenses for my needs so I decided to make a short comparison about the differences of my favourite lenses which I would consider to buy for my camera.
+I am always interested to find the best lenses for my needs so I decided to make a short comparison about the differences of my favorite lenses which I would consider to buy for my camera.
 
 Since lenses are in most cases quite expensive I always think twice before I buy a new one. However, I see lenses as a long term investment which I will also be able to use with camera bodies in the future.
 
@@ -23,7 +23,7 @@ The company promises minimal distortion which may always be an issue with those 
 
 I also have the Zeiss Batis 25mm beside my manual Samyang 14mm and to be honest the Zeiss is my go-to lens every day. The picture below was taken with my Batis 25mm lens.
 
-<amp-img src="https://c1.staticflickr.com/9/8889/27747666193_e6f65537c7_h.jpg" width="100%" alt="Comparison and differences - Sigma 14mm, Samyang XP 14mm or Irix 11mm, Zeiss Batis 18mm"></amp-img>
+<amp-img src="https://c1.staticflickr.com/9/8889/27747666193_e6f65537c7_h.jpg" width="1600" height="900" alt="Comparison and differences - Sigma 14mm, Samyang XP 14mm or Irix 11mm, Zeiss Batis 18mm"></amp-img>
 
 <!--more-->
 

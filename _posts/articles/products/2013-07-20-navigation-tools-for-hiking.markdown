@@ -13,7 +13,7 @@ image: https://farm3.staticflickr.com/2833/9327368022_3b131753c2_b.jpg
 
 For our hiking trip in Sweden we are going to use 3 navigation tools in order to find our way through the Swedish mountains.
 
-<amp-img src="https://farm3.staticflickr.com/2833/9327368022_3b131753c2_b.jpg" width="100%" alt="Calazo Maps Sarek Tyvek"></amp-img>
+<amp-img src="https://farm3.staticflickr.com/2833/9327368022_3b131753c2_b.jpg" width="1024" height="683" alt="Calazo Maps Sarek Tyvek"></amp-img>
 
 <!--more-->
 
