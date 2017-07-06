@@ -15,7 +15,7 @@ In this blog post I would like to give an overview about the best lightweight ca
 
 Different cases might be useful for different activities e.g. you might select a different camera bag when you go hiking than you would choose when planning to go on a kayaking or packrafting trip.  
 
-<amp-img src="https://c4.staticflickr.com/9/8606/28716060755_0596cd42cf_k.jpg" width="100%" alt="Best outdoor camera bags for Sony A7II, a6000, a6300, A9 or a6500"></amp-img>
+<amp-img src="https://c4.staticflickr.com/9/8606/28716060755_0596cd42cf_k.jpg" width="2048" height="1365" alt="Best outdoor camera bags for Sony A7II, a6000, a6300, A9 or a6500"></amp-img>
 
 With the Lowepro Nova Sport 7L in Northern Norway.  
 

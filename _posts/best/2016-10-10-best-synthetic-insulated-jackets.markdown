@@ -17,7 +17,7 @@ Choosing a synthetic insulated jacket can have several reasons. Either you are l
 
 Synthetic insulated jackets can be either worn during the summer or during the winter and for different activities like backpacking, skiing, hiking, snowboarding, climbing or any other outdoor adventure.  
 
-<amp-img src="https://c1.staticflickr.com/6/5558/31803741256_3d7a100029_o.jpg" width="100%" alt="Best Synthetic Insulated Jackets for 2017"></amp-img>
+<amp-img src="https://c1.staticflickr.com/6/5558/31803741256_3d7a100029_o.jpg" width="1000"  height="664" alt="Best Synthetic Insulated Jackets for 2017"></amp-img>
 
 On our snowshoeing trip in [Finnish Lapland.][1]  
 

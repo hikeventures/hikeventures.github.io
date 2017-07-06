@@ -30,7 +30,7 @@ The Steripen uses an UV light against Viruses and can be recharged through the U
 
 ---
 
-<amp-img src="https://c1.staticflickr.com/8/7459/9599019542_fa67333918_k.jpg" width="100%" alt="Best lightweight water filters 2017"></amp-img>
+<amp-img src="https://c1.staticflickr.com/8/7459/9599019542_fa67333918_k.jpg" width="2048" height="1365" alt="Best lightweight water filters 2017"></amp-img>
 
 <h2>The best lightweight water filters of 2017</h2>
 

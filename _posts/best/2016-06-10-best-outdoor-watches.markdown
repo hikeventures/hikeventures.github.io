@@ -20,7 +20,7 @@ However, I would be interested to get an outdoor watch which features a color di
 
 Probably one disadvantage of watches having a color display and a GPS is their short battery life.   
 
-<amp-img src="https://c2.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg" width="100%" alt="Best outdoor GPS watches 2017"></amp-img>
+<amp-img src="https://c2.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg" width="2048" height="1360" alt="Best outdoor GPS watches 2017"></amp-img>
 
 <!--more-->
 

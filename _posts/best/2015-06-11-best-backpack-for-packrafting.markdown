@@ -18,7 +18,7 @@ Having used the [HMG Porter 4400](http://www.hikeventures.com/gear-review-hmg-po
 
 Generally speaking I was not able to find any alternative to the HMG Porter 4400 which is that light and feels like a proper backpack when I bought it.  
 
-<amp-img src="https://c2.staticflickr.com/4/3848/14464273681_0b2ab88e71_b.jpg" width="100%" alt="Best Backpack for Packrafting"></amp-img>
+<amp-img src="https://c2.staticflickr.com/4/3848/14464273681_0b2ab88e71_b.jpg" width="1024" height="683" alt="Best Backpack for Packrafting"></amp-img>
 
 
 <!--more-->

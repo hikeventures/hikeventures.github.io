@@ -16,7 +16,7 @@ Here is our selection of the best packrafting and backpacking tents for 2017.
 
 For our packrafting kayaking trips we are currently using the [Hilleberg Anjan](http://www.hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/) which has served us quite well so far in [Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) or in [the Netherlands.](http://www.hikeventures.com/packrafting-in-the-weerribben-wieden-national-park/)  
 
-<amp-img src="https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg" width="100%" alt="Best Tents For Backpacking And Packrafting in 2017"></amp-img>
+<amp-img src="https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Best Tents For Backpacking And Packrafting in 2017"></amp-img>
 
 <!--more-->
 

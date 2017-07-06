@@ -25,7 +25,7 @@ It’s important to understand that each tent is made for a specific purpose so 
 
 Further, it’s also worth to mention that a 1-person tent can be more heavy than a 2-person tent if you would distribute the weight of the 2-person tent over 2 persons. So hiking with another person can make you carry less weight.  
 
-<amp-img src="https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg" width="100%" alt="Best solo person backpacking tent in 2017"></amp-img>
+<amp-img src="https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Best solo person backpacking tent in 2017"></amp-img>
 
 <!--more-->
 
