@@ -712,6 +712,7 @@ header > .wrapper, footer > .wrapper, .page-content > .wrapper {
 
 .about_avatar {
 	padding: 90px 0 40px 0;
+	margin-bottom: 15px;
 }
 
 .followers_container {
