@@ -13,7 +13,7 @@ image: https://farm8.staticflickr.com/7392/9185837748_10b63a2e5d_b.jpg
 
 Since I recently purchased a packraft, I realized quickly that my <a href="http://hikeventures.com/gear-review-laufbursche-huckepack-hp450/" target="_self">Laufbursche Huckepack</a>  is going to be a bit small for a multi-day packrafting trip. So I decided to order a Hyperlite Mountain Gear Porter 4400. I have used the Porter for a couple of years and I am quite happy with it as I can use it as an ultralight backpack for hiking, backpacking, packrafting and other backcountry trips. Here is a short review and some pictures of the Hyperlite Mountain Gear Porter 4400.
 
-<amp-img src="https://farm8.staticflickr.com/7392/9185837748_10b63a2e5d_b.jpg" width="100%" alt="HMG Porter 4400"></amp-img>
+<amp-img src="https://farm8.staticflickr.com/7392/9185837748_10b63a2e5d_b.jpg" width="1024" width="661" alt="HMG Porter 4400"></amp-img>
 
 
 <!--more-->

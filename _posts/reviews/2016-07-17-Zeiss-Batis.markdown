@@ -15,7 +15,7 @@ image: https://c2.staticflickr.com/9/8889/27747666193_ed793fd763_k.jpg
 
 Today I had a chance to test the Zeiss Batis 25 mm f/2 in Finland and here are some thoughts why I really like this lens and why I would recommend it especially for those who are into outdoor or nature photography and looking for a wide angle lens. This is not a scientific report but just my initial thoughts after testing the Zeiss Batis 25mm in Finland. (*UPDATE:* You can find more pictures from my Sony A7 / Batis 25 mm from my recent trips to [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/) and [Northern Norway](http://www.hikeventures.com/Finnmark/)).
 
-<amp-img src="https://c2.staticflickr.com/9/8889/27747666193_ed793fd763_k.jpg" width="100%" alt="Test Zeiss Batis 25 mm / 2.0 with Sony A7"></amp-img>
+<amp-img src="https://c2.staticflickr.com/9/8889/27747666193_ed793fd763_k.jpg" width="2048" height="1152" alt="Test Zeiss Batis 25 mm / 2.0 with Sony A7"></amp-img>
 
 <!--more-->
 

@@ -12,7 +12,7 @@ image: https://c1.staticflickr.com/9/8699/27817737344_8d818cfb80_k.jpg
 ---
 Recently, I was looking for a child carrier backpack since I was interested to bring our child closer to nature. Carrying a child in a backpack feels more convenient than cruising with a stroller in the nature and you can more easily access places off the beaten track. This is a first short review about the Thule Sampling Elite Child Carrier Backpack which I got provided by Thule to test it here in Finland. I will add more details to this review over the time.
 
-<amp-img src="https://c1.staticflickr.com/9/8699/27817737344_8d818cfb80_k.jpg" width="100%" alt="Thule Sapling Elite Child Carrier"></amp-img>
+<amp-img src="https://c1.staticflickr.com/9/8699/27817737344_8d818cfb80_k.jpg" width="2048" height="1367" alt="Thule Sapling Elite Child Carrier"></amp-img>
 
 <!--more-->
 

@@ -13,7 +13,7 @@ image: https://c1.staticflickr.com/9/8762/28098576184_8dd7eebdb2_k.jpg
 ---
 A few months ago I bought an Astral Design V-Eight as my new go-to PFD for packrafting. I was looking for a lightweight PFD which is comfortable to wear and has some pockets. Previously, I had already the [Astral YTV](http://www.hikeventures.com/astral-ytv/) but lost it on a packrafting trip in [Northern Sweden](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/).
 
-<amp-img src="https://c1.staticflickr.com/9/8762/28098576184_8dd7eebdb2_k.jpg" width="100%" alt="Astral V-Eight Review Test"></amp-img>
+<amp-img src="https://c1.staticflickr.com/9/8762/28098576184_8dd7eebdb2_k.jpg" width="2048" height="1365" alt="Astral V-Eight Review Test"></amp-img>
 
 <!--more-->
 

@@ -15,7 +15,7 @@ image: https://c3.staticflickr.com/3/2833/9327368022_3b131753c2_b.jpg
 
 A map is one of the most important item which should be in your backpack on every hiking and packrafting trip. However, when your map gets wet you may end up with the situation that you are not able to use your map anymore. For this reason a waterproof Calazo map was our choice for our hiking and packrafting trip in the Swedish mountains.
 
-<amp-img src="https://c3.staticflickr.com/3/2833/9327368022_3b131753c2_b.jpg" width="100%" alt="Calazo Waterproof Map"></amp-img>
+<amp-img src="https://c3.staticflickr.com/3/2833/9327368022_3b131753c2_b.jpg" width="1024" height="683" alt="Calazo Waterproof Map"></amp-img>
 
 <!--more-->
 

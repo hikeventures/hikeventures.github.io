@@ -16,7 +16,7 @@ Last weekend I had the opportunity to test the Hilleberg Unna Inner Mesh on our 
 
 Moreover, the yellow standard inner mesh also limits the view since they are not that transparent. That's where the Hilleberg Inner Mesh comes in quite handy which can replace the regular yellow inner tent. The inner mesh is especially useful during the summer time and can be also used without the outer tent if the weather is good (no rain / stong winds).
 
-<amp-img src="https://c1.staticflickr.com/3/2886/34100728560_568624aa28_k.jpg" width="100%" alt="Hilleberg Unna Inner Mesh"></amp-img>
+<amp-img src="https://c1.staticflickr.com/3/2886/34100728560_568624aa28_k.jpg" width="2048" height="1367" alt="Hilleberg Unna Inner Mesh"></amp-img>
 
 <!--more-->
 

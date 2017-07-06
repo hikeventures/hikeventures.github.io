@@ -11,7 +11,7 @@ layout: post
 ---
 The Montbell U.L. Down Parka seems to be a perfect addition if you are planning to use a quilt instead of a sleeping bag during spring, summer and autumn. The down parka is super light and has a 800 fill. It also features a DWR treatment, YKK zippers and an adjustable hood. This is my current down jacket on my hiking, backpacking and other backcountry trips and here comes a short review.
 
-<amp-img src="https://farm9.staticflickr.com/8529/8576876741_96879fe3d5_b.jpg" width="100%" alt="Laufbursche Huckepack hp450 unboxing"></amp-img>
+<amp-img src="https://farm9.staticflickr.com/8529/8576876741_96879fe3d5_b.jpg" width="1024" width="683" alt="Laufbursche Huckepack hp450 unboxing"></amp-img>
 
 <!--more-->
 
