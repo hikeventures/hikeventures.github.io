@@ -14,12 +14,6 @@ layout: post
 
 On our visit at the ITB in Berlin we had a chance to talk with Makalesi Muloilagi from the South Pacific Tourism Organisation about outdoor activities in the South Pacific Islands.
 
-<amp-youtube width="480"
-  height="270"
-  layout="responsive"
-  data-videoid="https://www.youtube.com/embed/Hf9eHZ_Mi-E">
-</amp-youtube>
-
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Hf9eHZ_Mi-E"></iframe>
 
