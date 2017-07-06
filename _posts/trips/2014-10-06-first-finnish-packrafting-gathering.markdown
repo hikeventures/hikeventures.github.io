@@ -13,7 +13,7 @@ image: https://farm4.staticflickr.com/3933/15455162392_6e03ca6687_b.jpg
 ---
 Last weekend I have been to the first Finnish Packrafting Gathering in Finland which took place at the Kymijoki river and was organised by [Jaakko][1] and here are some impressions.
 
-<amp-img src="https://farm4.staticflickr.com/3933/15455162392_6e03ca6687_b.jpg" width="952" height="635" alt="First Finnish Packrafting Gathering"></amp-img>
+<amp-img src="https://farm4.staticflickr.com/3933/15455162392_6e03ca6687_b.jpg" width="952" height="635" alt="First Finnish Packrafting Gathering" layout="responsive"></amp-img>
 
 <!--more-->
 

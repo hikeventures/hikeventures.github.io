@@ -14,7 +14,7 @@ image: https://farm1.staticflickr.com/470/20088040315_42cdf43599_b.jpg
 
 Next monday I am leaving from Finland to Sweden where I am going to meet Konstantin for a 2 weeks trip in the Swedish Mountains as we are going to participate in Fjällräven Classic - a 110 km hike. Before and after the Fjällräven Classic we are planning to go packrafting as well. Here is my gear list for Fjällräven Classic and our packrafting activities.
 
-<amp-img src="https://farm1.staticflickr.com/470/20088040315_42cdf43599_b.jpg" width="100%" alt="Fjällräven Classic Gear List"></amp-img>
+<amp-img src="https://farm1.staticflickr.com/470/20088040315_42cdf43599_b.jpg" width="992" height="613" alt="Fjällräven Classic Gear List" layout="responsive"></amp-img>
 
 
 Some items are packed in the dry bags so you won't see them on the picture. Some gear is missing on the picture as a few of them are currently traveling with Konstantin in Japan (indicated with *). Check our <a href="https://www.facebook.com/HikeVentures?fref=ts">Facebook Page</a> in the next days for some live impressions :)

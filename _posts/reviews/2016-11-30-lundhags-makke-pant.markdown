@@ -14,7 +14,7 @@ image: https://c1.staticflickr.com/6/5451/30599065104_03b5936f16_k.jpg
 
 Last year we were in need to find new hiking pants for our trips so we was looking for pants which would be suitable to wear in the mountains but also while packrafting. We were talking to a Lundhags representative and he provided us with the Lundhags Makke pants for testing.
 
-<amp-img src="https://c1.staticflickr.com/6/5451/30599065104_03b5936f16_k.jpg" width="2048" height="1365" alt="Lundhags Makke Pant Review"></amp-img>
+<amp-img src="https://c1.staticflickr.com/6/5451/30599065104_03b5936f16_k.jpg" width="2048" height="1365" alt="Lundhags Makke Pant Review" layout="responsive"></amp-img>
 
 
 <!--more-->

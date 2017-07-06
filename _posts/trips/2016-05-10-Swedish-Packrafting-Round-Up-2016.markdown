@@ -16,7 +16,7 @@ After a 4 hours drive from Stockholm we arrived at the starting point. We were 2
 There was plenty of Hyperlite Mountain Gear around like the Hyperlite Mountain Gear UltaMid tarp. I probably need to get a new backpack by the end of the year as my Hyperlite Mountain Gear Porter is slowly wearing off. Just not sure if it's going to be black or white ...
 
 
-<amp-img src="https://farm8.staticflickr.com/7432/26835366172_4b9630972f_b.jpg" width="1024" height="723" alt="First Swedish Packrafting Round-Up 2016"></amp-img>
+<amp-img src="https://farm8.staticflickr.com/7432/26835366172_4b9630972f_b.jpg" width="1024" height="723" alt="First Swedish Packrafting Round-Up 2016" layout="responsive"></amp-img>
 
 <!--more-->
 

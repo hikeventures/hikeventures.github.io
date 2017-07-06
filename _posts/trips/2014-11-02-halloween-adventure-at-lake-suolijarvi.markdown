@@ -14,7 +14,7 @@ image: https://farm4.staticflickr.com/3938/15687184261_2c7af34fd4_b.jpg
 ---
 This Halloween, we decided to go to Lake Suolijärvi nearby Hyvinkää in Finland to do some Paddling and Hiking. [Janne][1] has sent me a [link][2] with the map beforehand, showing where shelters have been built in the Sveitsi - Kytäjän wilderness area.
 
-<amp-img src="https://farm4.staticflickr.com/3938/15687184261_2c7af34fd4_b.jpg" width="952" height="635" alt="Iso-Haiskari - Alpacka Raft Yukon Yak Finland"></amp-img>
+<amp-img src="https://farm4.staticflickr.com/3938/15687184261_2c7af34fd4_b.jpg" width="952" height="635" alt="Iso-Haiskari - Alpacka Raft Yukon Yak Finland" layout="responsive"></amp-img>
 
 <!--more-->
 

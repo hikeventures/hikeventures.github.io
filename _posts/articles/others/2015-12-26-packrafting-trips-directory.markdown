@@ -12,7 +12,7 @@ image: https://farm2.staticflickr.com/1674/23638537083_2c3d9b55d9_b.jpg
 ---
 In our packrafting trips directory you can find packrafting trip ideas from other packrafters around the world who would like to share their packrafting adventure with other packrafters. Our packrafting trip directory is constantly evolving so feel free to bookmark and visit this directory for new packrafting ideas in the future. Feel free to [submit][1] your own trips (as many as you want) and share your trips and images using #PackraftingTrips in social media.
 
-<amp-img src="https://farm2.staticflickr.com/1674/23638537083_2c3d9b55d9_b.jpg" width="100%" alt="Share your packrafting adventures with us. Use #PackraftingTrips"></amp-img>
+<amp-img src="https://farm2.staticflickr.com/1674/23638537083_2c3d9b55d9_b.jpg" layout="responsive" width="1024" height="772" alt="Share your packrafting adventures with us. Use #PackraftingTrips"></amp-img>
 
 <!--more-->
 

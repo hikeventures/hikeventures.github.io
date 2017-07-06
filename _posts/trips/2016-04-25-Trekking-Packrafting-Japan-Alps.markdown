@@ -12,7 +12,7 @@ image: https://farm2.staticflickr.com/1539/26358043250_a0130d9189_b.jpg
 ---
 Last year we spent four days trekking in the Northern Alps of Japan - one of the most beautiful natural settings in Japan - which was a really special way to start our holidays.
 
-<amp-img src="https://farm2.staticflickr.com/1539/26358043250_a0130d9189_b.jpg" width="1024" height="680" alt="Trekking and Packrafting in Japan Northern Alps"></amp-img>
+<amp-img src="https://farm2.staticflickr.com/1539/26358043250_a0130d9189_b.jpg" width="1024" height="680" alt="Trekking and Packrafting in Japan Northern Alps" layout="responsive"></amp-img>
 
 <!--more-->
 

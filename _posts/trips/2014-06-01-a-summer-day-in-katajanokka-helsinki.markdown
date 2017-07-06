@@ -12,7 +12,7 @@ image: https://farm4.staticflickr.com/3791/14318924295_c0c84f4dc4_b.jpg
 ---
 This weekend we enjoyed a sunny day in <a href="http://www.visithelsinki.fi" target="_blank">Helsinki</a>. Port of Helsinki with the Uspenski Cathedral in the background.
 
-<amp-img src="https://farm4.staticflickr.com/3791/14318924295_c0c84f4dc4_b.jpg" width="100%" alt="Helsinki Summer 2016"></amp-img>
+<amp-img src="https://farm4.staticflickr.com/3791/14318924295_c0c84f4dc4_b.jpg" width="100%" alt="Helsinki Summer 2016" layout="responsive"></amp-img>
 
 <!--more-->
 

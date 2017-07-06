@@ -11,7 +11,7 @@ image: https://c2.staticflickr.com/6/5349/17648754398_462b77909d_b.jpg
 ---
 For every sport or activity where you move more than usual it's good to have regular exercise to keep your muscles trained. Having a good fitness and exercise regularly will help you to hike, backpack and packraft longer or more relaxed.
 
-<amp-img src="https://c2.staticflickr.com/6/5349/17648754398_462b77909d_b.jpg" width="100%" alt="Fitness and Excercising for Hiking, Backpacking and Packrafting"></amp-img>
+<amp-img src="https://c2.staticflickr.com/6/5349/17648754398_462b77909d_b.jpg" width="1024" height="665" alt="Fitness and Excercising for Hiking, Backpacking and Packrafting"></amp-img>
 
 
 <!--more-->

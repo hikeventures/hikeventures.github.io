@@ -16,7 +16,7 @@ As I am currently looking for a flat in Turku, I am going to spend my first nigh
 
 There is also a restaurant onboard. Nearby the Hostel Borea you can also see a sailing ship - the Suomen Joutsen and a war ship. The ships are all located nearby the Forum Marinum, a National Specialist Museum for Finnish maritime and naval history.
 
-<amp-img src="https://farm3.staticflickr.com/2937/14106344644_b739c8232e_b.jpg" width="952" width="635" alt="Hostel Borea Turku Finland"></amp-img>
+<amp-img src="https://farm3.staticflickr.com/2937/14106344644_b739c8232e_b.jpg" width="952" width="635" alt="Hostel Borea Turku Finland" layout="responsive"></amp-img>
 
 
 <!--more-->

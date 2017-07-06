@@ -13,7 +13,7 @@ image: https://farm4.staticflickr.com/3846/15002036450_e92659f910_b.jpg
 ---
 It is autumn in Finland and the forests are full of mushrooms. Come and discover with me some mushrooms in Southern Finland. Your task on this adventure is to identify those mushrooms.
 
-<amp-img src="https://farm4.staticflickr.com/3846/15002036450_e92659f910_b.jpg" width="100%" alt="Mushrooms in Finland"></amp-img>
+<amp-img src="https://farm4.staticflickr.com/3846/15002036450_e92659f910_b.jpg" width="1024" height="683" alt="Mushrooms in Finland" layout="responsive"></amp-img>
 
 <!--more-->
 

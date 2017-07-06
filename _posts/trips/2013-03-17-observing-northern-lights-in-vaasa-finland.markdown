@@ -12,7 +12,7 @@ image: http://farm9.staticflickr.com/8237/8566804142_5e07258bbc_c.jpg
 ---
 Northern Lights are caused by the collision of energetic charged particles with atoms in the high altitude atmosphere. The auroral zone is typically 10&#176; to 20&#176; from the magnetic pole defined by the axis of the Earth's magnetic dipole. Aurora borealis are named after the Roman goddess of dawn, Aurora, and the Greek name for the north wind, Boreas, by Pierre Gassendi in 1621. Aalto University in Helsinki has also published a [study][1] of aurora related sound and electric field effects. 2013 seems to be a great year to observe Northern Lights in Finland.
 
-<amp-img src="http://farm9.staticflickr.com/8237/8566804142_5e07258bbc_c.jpg" width="800" height="445" alt="Observing Northern Lights in Vaasa"></amp-img>
+<amp-img src="http://farm9.staticflickr.com/8237/8566804142_5e07258bbc_c.jpg" width="800" height="445" alt="Observing Northern Lights in Vaasa" layout="responsive"></amp-img>
 
 <!--more-->
 

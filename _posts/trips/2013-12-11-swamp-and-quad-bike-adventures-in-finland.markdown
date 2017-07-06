@@ -12,7 +12,7 @@ image: https://farm9.staticflickr.com/8498/8264081107_018a6d3f78_b.jpg
 ---
 Last summer, I had a trip to Reinon Tupa - a wilderness cottage at the Kurikan Niinisto lake - in the middle of the Ostrobothnian swamp in Finland.
 
-<amp-img src="https://farm9.staticflickr.com/8498/8264081107_018a6d3f78_b.jpg" width="952" height="635" alt="Swamp and Quad bike adventures in Finland"></amp-img>
+<amp-img src="https://farm9.staticflickr.com/8498/8264081107_018a6d3f78_b.jpg" width="952" height="635" alt="Swamp and Quad bike adventures in Finland" layout="responsive"></amp-img>
 
 <!--more-->
 

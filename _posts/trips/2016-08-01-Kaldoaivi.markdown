@@ -13,7 +13,7 @@ image: https://c2.staticflickr.com/8/7562/28693113745_b251e02b0e_k.jpg
 ---
 On July 24th at 8.50 am it was time to get on board of the Finnair flight AY557 which departed from Helsinki for a 1 hours and 20 minutes flight north to Ivalo - deep in Finnish Lapland. 1 week of hiking and packrafting in the Kaldoaivi Wilderness Area was in front of me - including a visit to Siida, a museum which displays Saami art and culture. Having bought a museum card for Finland (59 EUR) I was able to visit most of the museums for 1 year. Since entrance to a museum in Finland usually costs around 9-10 EUR it's more than worth to buy it if you travel around in Finland.
 
-<amp-img src="https://c2.staticflickr.com/8/7562/28693113745_b251e02b0e_k.jpg" width="2048" height="1536" alt="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"></amp-img>
+<amp-img src="https://c2.staticflickr.com/8/7562/28693113745_b251e02b0e_k.jpg" width="2048" height="1536" alt="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland" layout="responsive"></amp-img>
 
 
 <!--more-->

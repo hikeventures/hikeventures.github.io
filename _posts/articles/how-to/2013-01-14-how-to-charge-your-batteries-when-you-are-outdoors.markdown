@@ -13,7 +13,7 @@ Most of my gear is equipped with an USB connection e.g. my <a href="http://hikev
 
 I found a solution which could extend the usage of your electronic gear for a couple of days.
 
-<amp-img src="https://farm9.staticflickr.com/8363/8381056716_17c454bf74_b.jpg" width="100%" layout="responsive" alt="Anker Astro3e"></amp-img>
+<amp-img src="https://farm9.staticflickr.com/8363/8381056716_17c454bf74_b.jpg"  width="1024" height="683" layout="responsive" alt="Anker Astro3e"></amp-img>
 
 <!--more-->
 
