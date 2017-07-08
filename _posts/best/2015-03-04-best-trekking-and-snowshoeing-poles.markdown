@@ -45,7 +45,7 @@ Further, you can also use poles for nordic walking.
           <td><a href="http://amzn.to/2e38FPT" target="_blank" rel="nofollow">Black Diamond Distance Carbon Z</a></td><td>285 grams / 10.1 oz.</td>  
         </tr>  
         <tr>  
-          <td><a rel=nofollow" href="http://amzn.to/2trQPye" target="_blank" rel="nofollow">Leki Sherpa XL V</a></td><td>290 grams / 10.2 oz.</td>  
+          <td><a href="http://amzn.to/2trQPye" target="_blank" rel="nofollow">Leki Sherpa XL V</a></td><td>290 grams / 10.2 oz.</td>  
         </tr>  
         <tr>  
           <td><a href="http://amzn.to/2e35k3a" target="_blank" rel="nofollow">Black Diamond Distance Carbon FLZ</a></td><td>355 grams / 12.5 oz.</td>  
