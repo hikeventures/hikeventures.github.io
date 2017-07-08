@@ -2,7 +2,7 @@
 title: Best Headlamps for 2017
 description: Find the best headlamps for your next outdoor adventure
 date: 2016-01-03 23:02:20
-update_date: 2016-12-27 06:00:52
+update_date: 2017-07-08 06:00:52
 category: articles
 image: https://c1.staticflickr.com/9/8270/15581097668_01223b886d_k.jpg
 tags:
