@@ -13,9 +13,7 @@ image: https://c2.staticflickr.com/8/7093/26362312073_15772db9fc_o.jpg
 When you already own the GoPro Hero4 Black or Session you are probably wondering if it's worth to upgrade your action camera to the new GoPro Hero5 Black. Here is a short summary what's different between the old and the new GoPro cameras.
 
 <amp-img src="https://c2.staticflickr.com/8/7093/26362312073_15772db9fc_o.jpg" layout="responsive" width="1200" height="739" alt="GoPro Hero5 Session upgrade"></amp-img>
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26362312073/in/dateposted-public/" title="GoPro Hero5 Session upgrade"><img src="https://c2.staticflickr.com/8/7093/26362312073_15772db9fc_o.jpg" width="1200" height="739" alt="GoPro Hero5 Session upgrade"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
+<br>
 <!--more-->
 
 The main difference between the GoPro Hero4 Black and the GoPro Hero 5 Black is that the Hero5 Black you can actually record audio as the GoPro Hero5 Black does not need a camera housing anymore.
@@ -28,9 +26,6 @@ Both GoPro's have a 12MP camera with ƒ/2.8.
 
 ## Weight
 The weight of the GoPro Hero4 Black with housing is about 152 grams while the GoPro Hero5 Black weights only 118 grams.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-> On our packrafting trip in the Sarek National Park in Sweden we had also a GoPro with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
 ## Battery
 The battery capacity has increased from 1160 mAh to 1220mAh.
