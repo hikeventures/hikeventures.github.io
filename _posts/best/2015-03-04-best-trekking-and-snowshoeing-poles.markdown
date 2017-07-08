@@ -146,6 +146,9 @@ This trekking pole can easily being unlocked and locked with it’s Speed Lock 2
 
 The poles come with a comfortable Aergon grip with thermal extension.
 
+<a href="http://amzn.to/2trQPye" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
+
+
 <hr>
 
 ## Leki Vario XS (for kids)
@@ -157,6 +160,9 @@ The poles come with a comfortable Aergon grip with thermal extension.
 The Leki Vario XS and Walker XX are especially designed for children.   
 
 This pole can be used very versatile e.g. for nordic walking or trail running. The Vario XS comes with the Speed Lock 1 system.
+
+<a href="http://amzn.to/2sAi7j9" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
+
 
 <hr>
 
