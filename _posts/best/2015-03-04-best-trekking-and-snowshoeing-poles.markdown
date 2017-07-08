@@ -118,6 +118,8 @@ The Leki Cressida Antishock has been designed for women and comes with an optimi
 
 The poles are made of aircraft grade aluminum. Moreover, Leki has also added its DSS (Dynamic Suspension System) and the Speed Lock 2 external locking system. to the poles.
 
+<a href="http://amzn.to/2uV8n3V" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
+
 <hr>
 
 ## Leki Micro Ti
