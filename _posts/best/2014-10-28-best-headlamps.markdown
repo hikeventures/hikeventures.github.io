@@ -36,37 +36,37 @@ However, if you are looking for a smaller headlamp which is also waterproof then
         </thead>  
         <tbody>  
         <tr>  
-          <td><a href="http://amzn.to/2e8kRQg" target="_blank" rel="nofollow">Petzl E+LITE</a></td><td>27g</td><td>26</td>  
+          <td><a href="http://amzn.to/2e8kRQg" target="_blank" rel="nofollow">Petzl E+LITE</a></td><td>27 grams / 1 oz.</td><td>26</td>  
         </tr>  
         <tr>  
-          <td><a href="http://amzn.to/2e8kRQg" rel="nofollow" target="_blank">Petal Bindi</a></td><td>35g</td><td>200</td>  
+          <td><a href="http://amzn.to/2e8kRQg" rel="nofollow" target="_blank">Petal Bindi</a></td><td>35 grams / 1.2 oz. </td><td>200</td>  
         </tr>  
         <tr>  
-          <td><a href="http://amzn.to/2e8kRQg" rel="nofollow" target="_blank">Zebralight H600 Mk II 18650 XM-L2</a></td><td>39g</td><td>1090</td>  
+          <td><a href="http://amzn.to/2e8kRQg" rel="nofollow" target="_blank">Zebralight H600 Mk II 18650 XM-L2</a></td><td>39 grams / 1.4 oz.</td><td>1090</td>  
         </tr>  
         <tr>  
-          <td><a href="http://amzn.to/2u31MrD" target="_blank" rel="nofollow">Princeton Tex Axis</a></td><td>83g</td><td>250</td>  
+          <td><a href="http://amzn.to/2u31MrD" target="_blank" rel="nofollow">Princeton Tex Axis</a></td><td>83 grams / 2.9 oz. </td><td>250</td>  
         </tr>  
         <tr>  
-          <td><a href="http://amzn.to/2e35oQp" target="_blank" rel="nofollow">Petzl Tikka R+</a></td><td>85g</td><td>170</td>  
+          <td><a href="http://amzn.to/2e35oQp" target="_blank" rel="nofollow">Petzl Tikka R+</a></td><td>85 grams / 3.0 oz.</td><td>170</td>  
         </tr>  
         <tr>  
-          <td><a href="http://amzn.to/2fkaiqv" target="_blank" rel="nofollow">Black Diamond Spot</a></td><td>90g</td><td>200</td>  
+          <td><a href="http://amzn.to/2fkaiqv" target="_blank" rel="nofollow">Black Diamond Spot</a></td><td>90 grams / 3.2 oz.</td><td>200</td>  
         </tr>  
         <tr>  
-          <td><a href="http://amzn.to/2e34Jyw" target="_blank" rel="nofollow">Black Diamond Storm</a></td><td>110g</td><td>250</td>  
+          <td><a href="http://amzn.to/2e34Jyw" target="_blank" rel="nofollow">Black Diamond Storm</a></td><td>110 grams / 3.9 oz.</td><td>250</td>  
         </tr>  
         <tr>  
-          <td><a href="http://amzn.to/2drHpaV" target="_blank" rel="nofollow">Petzl Tikka RXP</a></td><td>115g</td><td>215</td>  
+          <td><a href="http://amzn.to/2drHpaV" target="_blank" rel="nofollow">Petzl Tikka RXP</a></td><td>115 grams / 4.1 oz.</td><td>215</td>  
         </tr>  
         <tr>  
-          <td><a href="http://amzn.to/2gBew1C" target="_blank" rel="nofollow">Petzl Nao Plus</a></td><td>187g</td><td>750</td>  
+          <td><a href="http://amzn.to/2gBew1C" target="_blank" rel="nofollow">Petzl Nao Plus</a></td><td>187 grams / 6.6 oz.</td><td>750</td>  
         </tr>  
         <tr>  
-          <td><a href="http://amzn.to/2evTLRy" target="_blank" rel="nofollow">Black Diamond Icon</a></td><td>230g</td><td>500</td>  
+          <td><a href="http://amzn.to/2evTLRy" target="_blank" rel="nofollow">Black Diamond Icon</a></td><td>230 grams / 8.1 oz.</td><td>500</td>  
         </tr>  
         <tr>  
-          <td><a href="http://amzn.to/2e35AiF" target="_blank" rel="nofollow">Princeton Tec Apex</a></td><td>279g</td><td>275</td>  
+          <td><a href="http://amzn.to/2e35AiF" target="_blank" rel="nofollow">Princeton Tec Apex</a></td><td>279 grams / 9.8 oz.</td><td>275</td>  
         </tr>  
         </tbody>  
       </table>  
