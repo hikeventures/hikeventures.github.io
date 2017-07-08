@@ -36,7 +36,7 @@ However, if you are looking for a smaller headlamp which is also waterproof then
         </thead>  
         <tbody>  
         <tr>  
-          <td><a href="http://amzn.to/2drHzyP" target="_blank" rel="nofollow">Petzl E+LITE</a></td><td>27g</td><td>26</td>  
+          <td><a href="http://amzn.to/2e8kRQg" target="_blank" rel="nofollow">Petzl E+LITE</a></td><td>27g</td><td>26</td>  
         </tr>  
         <tr>  
           <td><a href="http://amzn.to/2e8kRQg" rel="nofollow" target="_blank">Petal Bindi</a></td><td>35g</td><td>200</td>  
