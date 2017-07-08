@@ -128,7 +128,7 @@ The poles are made of aircraft grade aluminum. Moreover, Leki has also added its
 
 **weight**: 432 grams / 15.2 oz.  
 
-The Leki Micro series are foldable hiking poles from Leki and are made of Aluminium.  
+The Leki Micro series are foldable hiking poles from Leki and made of Aluminium.  
 
 <a href="http://amzn.to/2e38jsm" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
