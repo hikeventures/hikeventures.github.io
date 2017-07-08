@@ -2,7 +2,7 @@
 title: Best trekking and snowshoeing poles for 2017
 description: Need new trekking poles for your hiking and snowshoeing adventures? We found the best poles for 2017
 date: 2016-01-03 16:08:38
-update_date: 2016-12-27 06:00:52
+update_date: 2017-07-08 06:00:52
 category: articles
 image: https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg
 tags:
