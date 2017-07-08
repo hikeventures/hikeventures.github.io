@@ -82,6 +82,8 @@ The Black Diamond Distance Carbon FLZ are made of carbon fibre those poles come 
 
 <a href="http://amzn.to/2e35k3a" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
+<hr>
+
 ## Black Diamond Distance Carbon Z
 
 <a href="http://www.amazon.com/gp/product/B00LU1E9J6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LU1E9J6&linkCode=as2&tag=hikeve-20&linkId=SQ74AUKGGVR6J5J5" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LU1E9J6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LU1E9J6" width="1" height="1" border="0" alt="Black Diamond Distance Carbon Z" style="border:none !important; margin:0px !important;" />  
@@ -116,6 +118,8 @@ The Leki Cressida Antishock has been designed for women and comes with an optimi
 
 The poles are made of aircraft grade aluminum. Moreover, Leki has also added its DSS (Dynamic Suspension System) and the Speed Lock 2 external locking system. to the poles.
 
+<hr>
+
 ## Leki Micro Ti
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00MP2290U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MP2290U&linkCode=as2&tag=hikeve-20&linkId=28fabf765fdb29496c4b0dad85d6d42d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00MP2290U&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00MP2290U" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
@@ -140,6 +144,8 @@ This trekking pole can easily being unlocked and locked with it’s Speed Lock 2
 
 The poles come with a comfortable Aergon grip with thermal extension.
 
+<hr>
+
 ## Leki Vario XS (for kids)
 
 <a rel="nofollow" href="https://www.amazon.com/LEKI-Vario-SpeedLock-Trekking-Pole/dp/B01NBIHMJ8/ref=as_li_ss_il?ie=UTF8&qid=1499508294&sr=8-1&keywords=Leki+Vario+XS&linkCode=li3&tag=hikeve-20&linkId=a517749854f089cc55ee447ee9d477d2" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01NBIHMJ8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B01NBIHMJ8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
@@ -150,6 +156,8 @@ The Leki Vario XS and Walker XX are especially designed for children.
 
 This pole can be used very versatile e.g. for nordic walking or trail running. The Vario XS comes with the Speed Lock 1 system.
 
+<hr>
+
 ## Leki Walker XS
 
 **weight**: 190 grams / 6.7 oz.  
@@ -157,6 +165,8 @@ This pole can be used very versatile e.g. for nordic walking or trail running. T
 The Walker XS has been  especially designed for children. This pole can be used very versatile e.g. for nordic walking or trail running.   
 
 The Walker XS comes with the Speed Lock 2 system.
+
+<hr>
 
 ## MSR Deploy T-3
 
