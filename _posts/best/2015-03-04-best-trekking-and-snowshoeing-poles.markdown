@@ -34,11 +34,11 @@ Further, you can also use poles for nordic walking.
         <tbody>  
 
         <tr>  
-          <td>Leki Walker XS</td><td>190 grams / 6.7 oz.</td>  
+          <td>Leki Walker XS (for kids)</td><td>190 grams / 6.7 oz.</td>  
         </tr>  
 
         <tr>  
-          <td><a href="http://amzn.to/2sAi7j9" target="_blank" rel="nofollow">Leki Vario XS</a></td><td>219 grams / 7.7 oz.</td>  
+          <td><a href="http://amzn.to/2sAi7j9" target="_blank" rel="nofollow">Leki Vario XS (for kids)</a></td><td>219 grams / 7.7 oz.</td>  
         </tr>  
 
         <tr>  
