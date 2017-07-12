@@ -13,13 +13,10 @@ tags:
   - örö
 layout: post
 ---
+The last 3 days I have been on a bicylce trip in the Archipelago National Park. This year I decided to travel along a new route which might probably replace the old route which [I have traveled](http://www.hikeventures.com/archipelago-trail/) last year with my bicycle. There were two major differences - namely there were more services on the way but it was also more expensive to travel the new route. The new route goes from Turku to Pensar, Korpoström, Aspö, [Örö](http://www.hikeventures.com/Oro/)(which I also visited last year with my packraft) and then back to Kasnäs where you can either take the bus (around 20 EUR) or cycle back to Turku (around 90 km).
 
-<amp-img src="https://farm5.staticflickr.com/4235/35701907102_ededc5ef46_k.jpg" width="2048" height="1368" alt="Archipelago National Park" layout="responsive"></amp-img>
+<amp-img src="https://farm5.staticflickr.com/4235/35701907102_ededc5ef46_k.jpg" width="2048" height="1368" alt="Cycling Archipelago National Park" layout="responsive"></amp-img>
 
-
-[Old Turku Archipelago Trail](http://www.hikeventures.com/archipelago-trail/)
-
-[Örö](http://www.hikeventures.com/Oro/)
 
 <!--more-->
 
