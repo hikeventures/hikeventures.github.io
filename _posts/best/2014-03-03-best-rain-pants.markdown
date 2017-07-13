@@ -11,18 +11,16 @@ tags:
   - pants
 layout: post
 ---
+Here is my selection of the best rain pants for 2017. Planning to go hiking, backpacking or any other backcountry adventure? Then you should consider to pack lightweight rain pants into your backpack.  
 
-Here is my selection of the best rain pants for 2017. Planning to go hiking, backpacking or any other backcountry adventure? Then you should consider to pack lightweight rain pants into your backpack.
+Rain pants will help you to stay dry and warm and is one of the most essential items you should have with you when planning an outdoor trip.  
 
-Rain pants will help you to stay dry and warm and is one of the most essential items you should have with you when planning an outdoor trip.
+Personally, I prefer to take the lightest rain clothes with me during my summer and autumn hikes as they will probably stay most of the time in my backpack.  
 
-Personally, I prefer to take the lightest rain clothes with me during my summer and autumn hikes as they will probably stay most of the time in my backpack.
+If you plan to wear your rain jacket on a daily base while carrying a backpack on your shoulders then you should probably buy a rain jacket with a more durable fabric. Of course, this also comes with increased weight.  
 
-If you plan to wear your rain jacket on a daily base while carrying a backpack on your shoulders then you should probably buy a rain jacket with a more durable fabric. Of course, this also comes with increased weight.
-
-<amp-img src="https://c2.staticflickr.com/8/7206/13685518345_b56a9a77d8_b.jpg" width="2048" height="1367" layout="responsive" alt="Best Men Rain Pants 2017"></amp-img>
-
-
+<amp-img src="https://c2.staticflickr.com/8/7206/13685518345_b56a9a77d8_b.jpg" width="992" height="662" alt="Best Men Rain Pants 2017" layout="responsive"></amp-img>   
+<br>   
 <!--more-->
 
 ## The best rain pants of 2017
@@ -75,6 +73,8 @@ SL stands for Super Light in the Arc’teryx product range. This model is reinfo
 <hr>
 
 ## Haglöfs L.I.M. III pants
+
+<a href="https://www.amazon.com/Haglofs-L-I-M-III-Running-Pants/dp/B00INIPI76/ref=as_li_ss_il?ie=UTF8&qid=1499894146&sr=8-1-fkmr1&keywords=Hagl%C3%B6fs+L.I.M.+III+pants&linkCode=li3&tag=hikeve-20&linkId=068194351a62e5a33f7150efbbf3fe3a" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00INIPI76&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00INIPI76" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 225 grams  
 **Fabric**: GORE-TEX PacLite  
@@ -176,3 +176,23 @@ However, those pants will be more heavy than the models listed below and also ta
 Generally speaking, you will sweat in all waterproof clothes if you are active.   
 
 However, some are a little bit more breathable than others. I had good experience with Pertex Shield so far.
+
+<hr>
+
+## What to wear under rain pants?
+
+I am wearing either my hiking pants for merino underwear under my hiking pants. I prefer to wear long merino underwear when I know that it’s going to rain the whole day. It’s more comfortable to hike in merino clothes than in regular hiking pants.
+
+<hr>
+
+## How to wash rain pants?
+
+<a rel="nofollow" href="https://www.amazon.com/Nikwax-Hardshell-Clean-Waterproof-DUO-Pack/dp/B000PGOOIS/ref=as_li_ss_il?ie=UTF8&qid=1499894360&sr=8-2&keywords=nikwax&linkCode=li3&tag=hikeve-20&linkId=18c445a067d443b8df2331be005bac4f" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000PGOOIS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B000PGOOIS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+
+For my hardshell layers like rain pants I use <a href="[http://amzn.to/2sRiOEP](http://amzn.to/2sRiOEP)" rel="nofollow">Nikwax</a> to clean them.
+
+<hr>
+
+## How to patch them?
+
+For certain waterproof fabrics there are repair kits available like the <a href="http://amzn.to/2tfXV5K" rel="nofollow">Gore-Tex Medium Repair Kit</a>.
