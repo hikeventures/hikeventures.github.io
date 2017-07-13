@@ -1,10 +1,8 @@
 ---
-published: false
 title: The Archipelago National Park
 description: Cycling in the Archipelago National Park
-date: 2017-07-12 10:14:01
+date: 2017-07-13 08:14:01
 category: articles
-image: https://farm5.staticflickr.com/4237/35510048782_3019775825_k.jpg
 tags:
   - articles
   - finland
@@ -12,17 +10,22 @@ tags:
   - biking
   - örö
 layout: post
+image: https://farm5.staticflickr.com/4229/35871086005_c61f3867b2_k.jpg
 ---
 The last 3 days I have been on a bicylce trip in the Archipelago National Park. This year I decided to travel along a new route which might probably replace the old route which [I have traveled](http://www.hikeventures.com/archipelago-trail/) last year with my bicycle. There were two major differences - namely there were more services on the way but it was also more expensive to travel the new route. The new route goes from Turku to Pensar, Korpoström, Aspö, [Örö](http://www.hikeventures.com/Oro/)(which I also visited last year with my packraft) and then back to Kasnäs where you can either take the bus (around 20 EUR) or cycle back to Turku (around 90 km).
 
-<amp-img src="https://farm5.staticflickr.com/4235/35701907102_ededc5ef46_k.jpg" width="2048" height="1368" alt="Cycling Archipelago National Park" layout="responsive"></amp-img>
+<amp-img src="https://farm5.staticflickr.com/4229/35871086005_c61f3867b2_k.jpg" width="2048" height="1191" alt="Örö Island - Archipelago National Park" layout="responsive"></amp-img>
 
 
 <!--more-->
 
 ## Turku to Pensar
 
-After I picked up [Caj](https://www.hutkai.fi) we cycled from Turku to Granvik where we were supposed to take our first ferry to the Pensar island. On the way to Granvik we stopped at the Resturant Sattmark in Prainen where we had a fantastic lunch - Caj ordered ripps and a beer and I (Patrick) had a goat cheese salad. There was also a café, gift shop, and a guest pier at this location. However, since we had only 1 hour time we were focusing more on our lunch.
+After I picked up [Caj](https://www.hutkai.fi) we cycled along the Archipelago route from Turku to Granvik where we were supposed to take our first ferry to the Pensar island,
+
+<amp-img src="https://farm5.staticflickr.com/4235/35701907102_ededc5ef46_k.jpg" width="2048" height="1368" alt="Cycling Archipelago National Park" layout="responsive"></amp-img>
+
+On the way to Granvik we stopped at the Resturant Sattmark in Prainen where we had a fantastic lunch - Caj ordered ripps and a beer and I (Patrick) had a goat cheese salad. There was also a café, gift shop, and a guest pier at this location. However, since we had only 1 hour time we were focusing more on our lunch.
 
 <amp-img src="https://farm5.staticflickr.com/4293/35701906842_de0b0eb6ac_k.jpg" width="2048" height="1368" alt="Archipelago National Park - Sattmark Parainen" layout="responsive"></amp-img>
 
@@ -87,32 +90,48 @@ After breakfast M/S Amanda from Aspö Charter picked us up to bring us to Aspö 
 
 <amp-img src="https://farm5.staticflickr.com/4235/35031680624_f5e9a76abb_k.jpg" width="2048" height="1173" alt="Saaristokeskus Korpoström - Archipelago National Park" layout="responsive"></amp-img>
 
-Aspö is a small island with 11 inhabitants on it. There is also a samll church and a locas store where you can buy local handicarft and snacks.
+Aspö is a small island with 11 inhabitants on it. There is also a samll church and a local store where you can buy local handicarfts and snacks.
 
 <amp-img src="https://farm5.staticflickr.com/4253/35701903902_3d9d2c6af2_k.jpg" width="2048" height="1368" alt="Aspö Church - Archipelago National Park" layout="responsive"></amp-img>
 
+It's a typical fishermen village. I asked one of the inhabitants what they are doing here during the winter and she said that they always find something to do.
+
 <amp-img src="https://farm5.staticflickr.com/4310/35031679544_571b6f9be5_k.jpg" width="2048" height="1368" alt="Aspö - Archipelago National Park" layout="responsive"></amp-img>
+
+A model ship inside of the church. Having such ship models in a church is very common in the archipelago area.
 
 <amp-img src="https://farm5.staticflickr.com/4256/35871087335_09a836b145_k.jpg" width="2048" height="1368" alt="Aspö Church Model Ship - Archipelago National Park" layout="responsive"></amp-img>
 
 ## Aspö to Örö
 
+Once we left Aspö towards Örö we had plenty of time taking pictures and videos.
+
 <amp-img src="https://farm5.staticflickr.com/4317/35031677654_ba7b50ea15_k.jpg" width="2048" height="1368" alt="Aspö Charter - Archipelago National Park" layout="responsive"></amp-img>
+
+Three wind mills in the background to generate electricity.
 
 <amp-img src="https://farm5.staticflickr.com/4330/35871086845_3746625be6_k.jpg" width="2048" height="1368" alt="Aspö Charter - Örö - Archipelago National Park" layout="responsive"></amp-img>
 
+Ships use those signs to navigate through the archipelago.
+
 <amp-img src="https://farm5.staticflickr.com/4241/35031676564_d0719f089e_k.jpg" width="2048" height="1368" alt="Aspö Charter - Archipelago National Park" layout="responsive"></amp-img>
+
+And then we arrived in Örö. Örö is a fortress island and has been open to the public since 2014. Here a canon and the radar tower.
 
 <amp-img src="https://farm5.staticflickr.com/4236/35871086625_48fe9e00be_k.jpg" width="2048" height="1317" alt="Örö Island - Radar Tower - Archipelago National Park" layout="responsive"></amp-img>
 
+Since we had only 4 hours time to spend on the island we decided to bicycle from the Northern to the Southern tip and back to save some time.
+
 <amp-img src="https://farm5.staticflickr.com/4310/35031675874_fcbf5b47a2_k.jpg" width="2048" height="1368" alt="Cycling Örö Island - Archipelago National Park" layout="responsive"></amp-img>
 
-<amp-img src="https://farm5.staticflickr.com/4205/35031674474_711216ef4c_k.jpg" width="2048" height="1281" alt="Flowers Örö - Archipelago National Park" layout="responsive"></amp-img>
+The flora and fauna on Örö is quite unique.
 
-<amp-img src="https://farm5.staticflickr.com/4253/35873939715_49bb57740f_k.jpg" width="2048" height="1117" alt="Bengtskär lighthouse from Örö - Archipelago National Park" layout="responsive"></amp-img>
+<amp-img src="https://farm5.staticflickr.com/4205/35031674474_711216ef4c_k.jpg" width="2048" height="1281" alt="Flowers Örö - Archipelago National Park" layout="responsive"></amp-img>
 
 <amp-img src="https://farm5.staticflickr.com/4311/35701901602_14b5537ff9_k.jpg" width="2048" height="1209" alt="Plants Örö Island - Archipelago National Park" layout="responsive"></amp-img>
 
 <amp-img src="https://farm5.staticflickr.com/4214/35031674224_c5f4c537c0_k.jpg" width="2048" height="1368" alt="Plants Örö Island - Archipelago National Park" layout="responsive"></amp-img>
 
-<amp-img src="https://farm5.staticflickr.com/4229/35871086005_c61f3867b2_k.jpg" width="2048" height="1191" alt="Örö Island - Archipelago National Park" layout="responsive"></amp-img>
+The Bengtskärs light house which is about 10 km away from Örö can be seen in the distance. Here I used the Telezoom to get a bit closer. The canon on Örö has been used to defend the light house when it got attacked by the Russian army during the second world war.
+
+<amp-img src="https://farm5.staticflickr.com/4253/35873939715_49bb57740f_k.jpg" width="2048" height="1117" alt="Bengtskär lighthouse from Örö - Archipelago National Park" layout="responsive"></amp-img>
