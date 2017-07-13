@@ -86,7 +86,7 @@ Once we reached our destination with the ferry we cycled to Nagu where we bought
 
 From there it was another 25 km ride to Korpoström where we stayed over night in the Saaristokeskus. The hotel also featured an exhibition, sauna and a guest harbor. Moreover, there was also a small shop.
 
-The prices of the restaurant where a bit on the upper ranke (e.g. broccoli soup for 15 EUR or a Variery of Tomatoes for 10.90 EUR) but the quality was good.
+The prices of the restaurant where a bit on the upper ranke (e.g. broccoli soup for 15 EUR or a "variety of tomatoes" for 10.90 EUR) but the quality was excellent.
 
 After lunch we went to the Sauna and had a swim in the sea. Metsähallitus (local forest organization from the goverment) also meassured the water quality as can be seen below.
 
@@ -143,7 +143,7 @@ The flora and fauna on Örö is quite unique.
 <amp-img src="https://farm5.staticflickr.com/4311/35701901602_14b5537ff9_k.jpg" width="2048" height="1209" alt="Plants Örö Island - Archipelago National Park" layout="responsive"></amp-img>
 
 <amp-img src="https://farm5.staticflickr.com/4214/35031674224_c5f4c537c0_k.jpg" width="2048" height="1368" alt="Plants Örö Island - Archipelago National Park" layout="responsive"></amp-img>
-    
+
 The Bengtskärs light house which is about 10 km away from Örö can be seen in the distance. Here I used the Telezoom to get a bit closer. The canon on Örö has been used to defend the light house when it got attacked by the Russian army during the second world war.
 
 <amp-img src="https://farm5.staticflickr.com/4253/35873939715_49bb57740f_k.jpg" width="2048" height="1117" alt="Bengtskär lighthouse from Örö - Archipelago National Park" layout="responsive"></amp-img>
