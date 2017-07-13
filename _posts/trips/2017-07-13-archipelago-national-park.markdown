@@ -34,9 +34,9 @@ On the way to Granvik we stopped at the Resturant Sattmark in Prainen where we h
 
 From Sattmark it was just another 8 km trip to the harbor in Granvik where the ferry transported us free of charge to Pensar. The ferry stopped on several other places on islands during the trip where people left and entered the ferry m/s Viken. There was no possibility to buy coffee, tea or any refreshments on board but the ferry was also rather small.
 
-<amp-img src="https://farm5.staticflickr.com/4297/35031687264_93a8016caf_k.jpg" width="2048" height="1387" alt="Granvik - Pensar Ferry - m/s Viken - Archipelago National Park" layout="responsive"></amp-img>
+<amp-img src="https://farm5.staticflickr.com/4229/35894867095_ba3b2dfe21_o.jpg" width="2048" height="1387" alt="Granvik - Pensar Ferry - m/s Viken - Archipelago National Park" layout="responsive"></amp-img>
 
-Sailing was definitely a popular activity at that day as the sea was quite crwoded with sailing boats.
+Sailing was definitely a popular activity at that day as the sea was quite crowded with sailing boats.
 
 <amp-img src="https://farm5.staticflickr.com/4278/35739473231_6ea13b1564_k.jpg" width="2048" height="1368" alt="Granvik - Pensar m/s viken sailing boats" layout="responsive"></amp-img>
 
@@ -70,7 +70,11 @@ The monument at Pensar Syd. In the background a soccer field. There were also 2 
 
 After a swim in the sea we rested 1 hour and had dinner (which was excellent). Afterwards, we hiked up to the monument and the top of the hill behind it where we had a great view over the archipelago.
 
+<amp-img src="https://farm5.staticflickr.com/4309/35085654663_59f78be5ed_o.jpg" width="2048" height="1367" alt="The Archipelago National Park" layout="responsive"></amp-img>
+
 On the way back to our room we had a chat with our host and she explained us that buildings like the museum are not typical for the archipelago area. We asked our host to pack our breakfast into a plastic bag as the ferry was leaving quite early.
+
+<amp-img src="https://farm5.staticflickr.com/4321/35055258314_7910b1bf13_o.jpg" width="2048" height="1367" alt="Pensar Syd Monument - Archipelago National Park" layout="responsive"></amp-img>
 
 ---
 
@@ -134,7 +138,13 @@ And then we arrived in Örö. Örö is a fortress island and has been open to th
 
 Since we had only 4 hours time to spend on the island we decided to bicycle from the Northern to the Southern tip and back to save some time.
 
+<amp-img src="https://farm5.staticflickr.com/4294/35085652053_3e43f3cebc_o.jpg" width="2048" height="1367" alt="The Archipelago National Park" layout="responsive"></amp-img>
+
 <amp-img src="https://farm5.staticflickr.com/4310/35031675874_fcbf5b47a2_k.jpg" width="2048" height="1368" alt="Cycling Örö Island - Archipelago National Park" layout="responsive"></amp-img>
+
+Taking pictures in Örö ...
+
+<amp-img src="https://farm5.staticflickr.com/4209/35894842255_3b82517b0c_o.jpg" width="2048" height="1246" alt="The Archipelago National Park" layout="responsive"></amp-img>
 
 The flora and fauna on Örö is quite unique.
 
@@ -149,3 +159,5 @@ The Bengtskärs light house which is about 10 km away from Örö can be seen in 
 <amp-img src="https://farm5.staticflickr.com/4253/35873939715_49bb57740f_k.jpg" width="2048" height="1117" alt="Bengtskär lighthouse from Örö - Archipelago National Park" layout="responsive"></amp-img>
 
 Caj and me enjoyed the trip very much. As mentioned before, it's a bit pricey to travel the same route with all the accommodation (about 100 EUR per night) included but it's probably a great way to see different places of the archipelago and the service and quality is good. It's also not difficult to cycle the route as there are only a few hills which you have to cycle up and down.
+
+<amp-img src="https://farm5.staticflickr.com/4260/35894856055_7182d48083_o.jpg" width="2048" height="1367" alt="The Archipelago National Park" layout="responsive"></amp-img>
