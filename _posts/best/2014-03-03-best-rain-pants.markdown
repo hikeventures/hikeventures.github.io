@@ -146,6 +146,7 @@ The Rab Firewall Pants are made for active use during winter.
 
 The Rab Firewall pants comes with an elasticated waistband and knee articulations and are compatible with winter boots.  
 
+<a href="http://amzn.to/2thOVNo" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 <hr>
 
 ## Rab Fuse Pants
