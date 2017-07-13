@@ -148,4 +148,4 @@ The Bengtskärs light house which is about 10 km away from Örö can be seen in 
 
 <amp-img src="https://farm5.staticflickr.com/4253/35873939715_49bb57740f_k.jpg" width="2048" height="1117" alt="Bengtskär lighthouse from Örö - Archipelago National Park" layout="responsive"></amp-img>
 
-Caj and me enjoyed the trip very much. As mentioned before, it's a bit pricey to travel the same route with all the accommodation (about 100 EUR per night) included but it's probably a great way to see different places of the archipelago. It's also not difficult to cycle the route as there are only a few hills which you have to cycle up and down.
+Caj and me enjoyed the trip very much. As mentioned before, it's a bit pricey to travel the same route with all the accommodation (about 100 EUR per night) included but it's probably a great way to see different places of the archipelago and the service and quality is good. It's also not difficult to cycle the route as there are only a few hills which you have to cycle up and down.
