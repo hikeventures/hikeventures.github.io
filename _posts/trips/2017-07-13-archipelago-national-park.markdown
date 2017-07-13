@@ -28,7 +28,7 @@ After I picked up Caj we cycled along the Archipelago route from Turku to Granvi
 
 <amp-img src="https://farm5.staticflickr.com/4235/35701907102_ededc5ef46_k.jpg" width="2048" height="1368" alt="Cycling Archipelago National Park" layout="responsive"></amp-img>
 
-On the way to Granvik we stopped at the Resturant Sattmark in Prainen where we had a fantastic lunch - Caj ordered ripps and a beer and I (Patrick) had a goat cheese salad. There was also a café, gift shop, and a guest pier at this location. However, since we had only 1 hour time we decided to focus more on our lunch.
+On the way to Granvik we stopped at the Resturant Sattmark in Prainen where we had a fantastic lunch - Caj ordered ribs and a beer and I (Patrick) had a goat cheese salad. There was also a café, gift shop, and a guest pier at this location. However, since we had only 1 hour time we decided to focus more on our lunch.
 
 <amp-img src="https://farm5.staticflickr.com/4293/35701906842_de0b0eb6ac_k.jpg" width="2048" height="1368" alt="Archipelago National Park - Sattmark Parainen" layout="responsive"></amp-img>
 
