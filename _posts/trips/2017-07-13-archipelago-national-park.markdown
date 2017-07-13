@@ -32,7 +32,7 @@ On the way to Granvik we stopped at the Resturant Sattmark in Prainen where we h
 
 <amp-img src="https://farm5.staticflickr.com/4293/35701906842_de0b0eb6ac_k.jpg" width="2048" height="1368" alt="Archipelago National Park - Sattmark Parainen" layout="responsive"></amp-img>
 
-From Parainen it was just another 8 km trip to the harbor in Granvik where the ferry transported us free of charge to Pensar. The ferry stopped on several other places on islands during the trip where people left and entered the ferry m/s Viken. There was no possibility to buy coffee, tea or any refreshments on board but the ferry was also rather small.
+From Sattmark it was just another 8 km trip to the harbor in Granvik where the ferry transported us free of charge to Pensar. The ferry stopped on several other places on islands during the trip where people left and entered the ferry m/s Viken. There was no possibility to buy coffee, tea or any refreshments on board but the ferry was also rather small.
 
 <amp-img src="https://farm5.staticflickr.com/4297/35031687264_93a8016caf_k.jpg" width="2048" height="1387" alt="Granvik - Pensar Ferry - m/s Viken - Archipelago National Park" layout="responsive"></amp-img>
 
