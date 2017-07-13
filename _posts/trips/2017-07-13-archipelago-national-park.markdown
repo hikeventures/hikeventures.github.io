@@ -86,7 +86,7 @@ Once we reached our destination with the ferry we cycled to Nagu where we bought
 
 From there it was another 25 km ride to Korpoström where we stayed over night in the Saaristokeskus. The hotel also featured an exhibition, sauna and a guest harbor. Moreover, there was also a small shop.
 
-The prices of the restaurant where a bit on the upper ranke (e.g. broccoli soup for 15 EUR or a "variety of tomatoes" for 10.90 EUR) but the quality was excellent.
+The prices of the restaurant were a bit on the upper range (e.g. broccoli soup for 15 EUR or a "variety of tomatoes" for 10.90 EUR) but the quality was excellent.
 
 After lunch we went to the Sauna and had a swim in the sea. Metsähallitus (local forest organization from the goverment) also meassured the water quality as can be seen below.
 
