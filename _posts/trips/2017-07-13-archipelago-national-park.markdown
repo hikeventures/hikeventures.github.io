@@ -19,8 +19,7 @@ There were two major differences - namely there were more services on the way bu
 The new route goes from Turku to Pensar, Korpoström, Aspö, [Örö](http://www.hikeventures.com/Oro/) (which I also visited last year with my packraft) and then back to Kasnäs where you can either take the bus (around 20 EUR) or cycle back to Turku (around 90 km).
 
 <amp-img src="https://farm5.staticflickr.com/4229/35871086005_c61f3867b2_k.jpg" width="2048" height="1191" alt="Örö Island - Archipelago National Park" layout="responsive"></amp-img>
-
-
+<br>
 <!--more-->
 
 ## Turku to Pensar
