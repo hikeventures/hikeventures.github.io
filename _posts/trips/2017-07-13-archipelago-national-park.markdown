@@ -88,7 +88,7 @@ From there it was another 25 km ride to Korpoström where we stayed over night i
 
 The prices of the restaurant were a bit on the upper range (e.g. broccoli soup for 15 EUR or a "variety of tomatoes" for 10.90 EUR) but the quality was excellent.
 
-After lunch we went to the Sauna and had a swim in the sea. Metsähallitus (local forest organization from the goverment) also meassured the water quality as can be seen below.
+After lunch we went to the Sauna and had a swim in the sea. Metsähallitus (local forest organization of the goverment) also meassured the water quality.
 
 <amp-img src="https://farm5.staticflickr.com/4278/35739470781_b7acd82329_k.jpg" width="2048" height="1357" alt="Metsähallitus Saaristokeskus Korpoström - Archipelago National Park" layout="responsive"></amp-img>
 
