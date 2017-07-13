@@ -146,12 +146,6 @@ The Rab Firewall Pants are made for active use during winter.
 
 The Rab Firewall pants comes with an elasticated waistband and knee articulations and are compatible with winter boots.  
 
-<a href="http://amzn.to/2r4XBdW" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
-
-<a href="https://www.flickr.com/photos/90204224@N07/9598980244" title="Montane Minimus Pants"><img src="https://farm4.staticflickr.com/3767/9598980244_fccc7cd8c6_b.jpg" width="1024" height="683" alt="Montane Minimus Pants"></a>  
-
-Wearing the Montane Minimus Pants rain pants on our hiking and packrafting trip in Sarek National Park in Sweden.  
-
 <hr>
 
 ## Rab Fuse Pants
