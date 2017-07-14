@@ -11,8 +11,7 @@ tags:
   - jackets
 layout: post
 ---
-
-Here is my selection of the best rain jackets for 2017.   
+Here is my selection of the best rain jackets for 2017 which I would take on my next hiking or backpacking trip.
 
 A rain jacket should always be in your backpack when you are planning to go outdoors. A rain jacket may also protect you from cold winds even if it is not raining.   
 
@@ -20,8 +19,8 @@ If you expect the weather to be good but only windy then you may also consider t
 
 In most cases a lightweight rain jacket which does not need that much space in your backpack may be sufficient.  
 
-<amp-img src="https://c3.staticflickr.com/8/7385/9599027418_4123160df8_b.jpg" width="2048" height="1360" layout="responsive" alt="Best rain jackets for 2017"></amp-img>
-
+<amp-img src="https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg" width="2048" height="1360" alt="Best new rain jackets for 2017" layout="responsive"></amp-img>   
+<br>   
 <!--more-->
 
 ## The best rain jackets of 2017
@@ -35,22 +34,22 @@ In most cases a lightweight rain jacket which does not need that much space in y
         </thead>  
         <tbody>  
         <tr>  
-          <td><a href="http://amzn.to/2e34CD3" target="_blank" rel="nofollow">Berghaus Vapourlight Hyper Smock 2.0</a></td><td>75g</td>  
+          <td><a href="http://amzn.to/2e34CD3" target="_blank" rel="nofollow">Berghaus Vapourlight Hyper Smock 2.0</a></td><td>75 grams / 2.6 oz.</td>  
         </tr>  
         <tr>  
-          <td><a href="http://amzn.to/2dBLJYc" target="_blank" rel="nofollow">Outdoor Research Helium II Jacket</a></td><td>180g</td>  
+          <td><a href="http://amzn.to/2dBLJYc" target="_blank" rel="nofollow">Outdoor Research Helium II Jacket</a></td><td>180 grams / 6.3 oz.</td>  
         </tr>  
         <tr>  
-          <td><a href="http://amzn.to/2evQYHY" target="_blank" rel="nofollow">Rab Flashpoint Jacket</a></td><td>185g</td>  
+          <td><a href="http://amzn.to/2evQYHY" target="_blank" rel="nofollow">Rab Flashpoint Jacket</a></td><td>185 grams / 6.5 oz. </td>  
         </tr>  
         <tr>  
-          <td><a href="http://amzn.to/2e31BCI" target="_blank" rel="nofollow">Montane Minimus Jacket</a></td><td>208g</td>  
+          <td><a href="http://amzn.to/2e31BCI" target="_blank" rel="nofollow">Montane Minimus Jacket</a></td><td>208 grams / 7.3 oz. </td>  
         </tr>  
         <tr>  
-          <td><a href="http://amzn.to/2e33vTI" target="_blank" rel="nofollow">Mountain Hardwear Plasmonic Jacket</a></td><td>323g</td>  
+          <td><a href="http://amzn.to/2e33vTI" target="_blank" rel="nofollow">Mountain Hardwear Plasmonic Jacket</a></td><td>323 grams / 11.4 oz.</td>  
         </tr>  
         <tr>  
-          <td><a href="http://amzn.to/2eTGFR8" target="_blank" rel="nofollow">Arc'teryx Zeta LT Jacket</a></td><td>335g</td>  
+          <td><a href="http://amzn.to/2eTGFR8" target="_blank" rel="nofollow">Arcteryx Zeta LT Jacket</a></td><td>335 grams / 11.8 oz. </td>  
         </tr>  
 </tbody>  
 </table>  
@@ -58,9 +57,9 @@ In most cases a lightweight rain jacket which does not need that much space in y
 
 ## Arc'teryx Zeta LT
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B0163TRSPG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0163TRSPG&linkCode=as2&tag=hikeve-20&linkId=256ef5ffb2ee5b1b8eaee24138b2fd1b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0163TRSPG&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0163TRSPG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B0163TRSPG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0163TRSPG&linkCode=as2&tag=hikeve-20&linkId=256ef5ffb2ee5b1b8eaee24138b2fd1b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0163TRSPG&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0163TRSPG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
-**Weight**: 335 grams  
+**Weight**: 335 grams / 11.8 oz.  
 **Fabric**: N40p-X 3L GORE-TEX  
 
 The Zeta LT Jacket would be my favorite choice if I would select a new waterproof jacket.   
@@ -81,7 +80,7 @@ The Norvan jacket is more suitable for runners or if you don’t wear a backpack
 
  <a rel="nofollow" href="http://www.amazon.com/gp/product/B004SPCZW4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004SPCZW4&linkCode=as2&tag=hikeve-20&linkId=XQWBWNDOOIDSRSSU"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004SPCZW4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B004SPCZW4" width="1" height="1" border="0" alt="Montane Minimus Jacket" style="border:none !important; margin:0px !important;" />  
 
-**Weight**: 208 grams  
+**Weight**: 208 grams / 7.3 oz.  
 **Fabric**:  PERTEX Shield +  
 
 The Montane Minimus Jacket is similar to the Montane Minimus Smock with the difference that it has an adjustable hoody and a long front zipper to easily put on / off the jacket.   
@@ -102,7 +101,7 @@ If durability is also an important aspect then you should have a look at the new
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B010N9XVY4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B010N9XVY4&linkCode=as2&tag=hikeve-20&linkId=VMEOHRWCSWDP5XOF"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B010N9XVY4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B010N9XVY4" width="1" height="1" border="0" alt="Mountain Hardwear Plasmonic Jacket" style="border:none !important; margin:0px !important;" />  
 
-**Weight**: 323 grams  
+**Weight**: 323 grams / 11.4 oz.  
 **Fabric**: Dry Q EVAP 70D 2 5L  
 
 The Mountain Hardwear Plasmonic Jacket is one of the best selling jackets from Mountain Hardwear and made especially for hiking and backpacking.  
@@ -113,9 +112,9 @@ The Mountain Hardwear Plasmonic Jacket is one of the best selling jackets from M
 
 ## Outdoor Research Helium II
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01HV2PZ8G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01HV2PZ8G&linkCode=as2&tag=hikeve-20&linkId=d8cf2509b7f14b8cf1bc65f3ed70ce4c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01HV2PZ8G&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01HV2PZ8G" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01HV2PZ8G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01HV2PZ8G&linkCode=as2&tag=hikeve-20&linkId=d8cf2509b7f14b8cf1bc65f3ed70ce4c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01HV2PZ8G&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01HV2PZ8G" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />    
 
-**Weight**: 180 grams  
+**Weight**: 180 grams / 6.3 oz.  
 **Fabric**: Pertex Shield, nylon ripstop (30D)  
 
 The Outdoor Research Helium II Jacket is also a quite popular rain jacket. It features a single-pull hood drawcord to adjust coverage, zippered Napoleon pocket and elastic cuffs.  
@@ -128,7 +127,7 @@ The Outdoor Research Helium II Jacket is also a quite popular rain jacket. It fe
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00UI4SP6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UI4SP6O&linkCode=as2&tag=hikeve-20&linkId=UF2ERPU6WIB5S727"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00UI4SP6O&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00UI4SP6O" width="1" height="1" border="0" alt="Rab Flashpoint Jacket" style="border:none !important; margin:0px !important;" />  
 
-**Weight**: 185 grams  
+**Weight**: 185 grams / 6.5 oz.  
 **Fabric**: 3L Pertex Shield  
 
 The Rab Flashpoint Jacket is also a super light rain jacket.   
@@ -145,4 +144,16 @@ It’s also a great jacket for trail running. Not as durable if you are planning
 
 You should look for a rain jacket which is made of light fabrics. In terms of e.g. GORE-TEX, I would opt for GORE-TEX Active Shield or the new GORE C-KNIT backer technology which comes with the new Arc'teryx Zeta LT Jacket.   
 
-However, you will sweat in all rain jackets if you are active regardless of the fabric.
+However, you will sweat in all rain jackets if you are active regardless of the fabric.  
+
+<hr>
+
+## How long do they last?
+
+<hr>
+
+## How to wash them?
+
+<a rel="nofollow" href="https://www.amazon.com/Nikwax-Hardshell-Clean-Waterproof-DUO-Pack/dp/B000PGOOIS/ref=as_li_ss_il?ie=UTF8&qid=1499894360&sr=8-2&keywords=nikwax&linkCode=li3&tag=hikeve-20&linkId=18c445a067d443b8df2331be005bac4f" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000PGOOIS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B000PGOOIS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+
+For my hardshell layers like a rain jacket I use <a href="[http://amzn.to/2sRiOEP](http://amzn.to/2sRiOEP)" rel="nofollow">Nikwax</a> to clean them.
