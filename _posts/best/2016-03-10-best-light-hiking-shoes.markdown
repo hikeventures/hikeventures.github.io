@@ -15,7 +15,7 @@ In this blog post I would like to present you my selection of the best ultraligh
 
 I was wearing light hiking shoes on my [hiking trip](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) in the Sarek National Park in Sweden. Compared to traditional hiking boots they are of course much lighter and packable but they also give lest stabilization and are not always waterproof.  
 
-<amp-img src="https://c5.staticflickr.com/3/2942/15189713140_cf23bd9412_b.jpg" width="100%" alt="The best ultralight hiking shoes 2017" layout="responsive"></amp-img>   
+<amp-img src="https://c5.staticflickr.com/3/2942/15189713140_cf23bd9412_b.jpg" width="1024" height="683" alt="The best ultralight hiking shoes 2017" layout="responsive"></amp-img>   
 <br>   
 <!--more-->
 
