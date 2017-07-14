@@ -2,7 +2,7 @@
 layout: post
 title: Best lightweight Hiking Boots for 2017
 date: 2016-03-02 09:13:12 +0200
-update_date: 2016-12-27 06:00:52
+update_date: 2017-07-14 06:00:52
 description: Looking for new hiking boots? Here are the best boots for hiking and backpacking for 2017
 category: articles
 image: https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg
