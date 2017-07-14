@@ -2,7 +2,7 @@
 title: Best Sleeping Pads in 2017
 description: Need a new Sleeping Pad? Here is our selection of the best sleeping pads on the market!
 date: 2016-01-03 18:49:09
-update_date: 2016-12-27 06:00:52
+update_date: 2017-07-14 06:00:52
 category: reviews
 image: https://c5.staticflickr.com/9/8185/28431572180_4c18fea5a0_b.jpg
 tags:
