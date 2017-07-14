@@ -215,7 +215,7 @@ The Hilleberg Unna is probably a better choice than the Soulo if you are taller 
 
 You can also purchase the Hilleberg Inner Mesh tent which provides better air circulation and can be used without the outer tent.  
 
-<a href="http://amzn.to/2toS0eI" target="_blank" rel="nofollow"><img src="[http://www.hikeventures.com/buy.gif](http://www.hikeventures.com/buy.gif)"></a>  
+<a href="http://amzn.to/2toS0eI" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -292,7 +292,7 @@ You charge the lamp during your hike. Once it gets dark you inflate Luci and you
 
 <a href="https://www.amazon.com/gp/product/B006ZJI83Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006ZJI83Q&linkCode=as2&tag=hikeve-20&linkId=598e157cf73c25ba8ba048edb6335843" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B006ZJI83Q&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B006ZJI83Q" width="1" height="1" border="0" alt="MSR Carbon Stake Kit" style="border:none !important; margin:0px !important;" />  
 
-The MSR Carbon Stake Kit is one of my favourite accessories. You can save quite some weight with those pegs as each of them weights only 6 grams.  
+The MSR Carbon Stake Kit is one of my favorite accessories. You can save quite some weight with those pegs as each of them weights only 6 grams.  
 
 <a href="https://www.amazon.com/gp/product/B006ZJI83Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006ZJI83Q&linkCode=as2&tag=hikeve-20&linkId=598e157cf73c25ba8ba048edb6335843" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
@@ -316,17 +316,17 @@ If you are looking for a sturdy tent with lots of space and a vestibule then you
 
 ## Best 1-person ultralight tent
 
-If low weight is your most important factor then you should consider the Hyperlite Mountain Gear Ulta Mid tent, the Hilleberg Enan (or the Hilleberg Niak 1.5 if you need more space), the MSR Hubba NX or the Big Agnes Fly Creek HV UL1 tent.   
+If low weight is your most important factor then you could consider the Hyperlite Mountain Gear Ulta Mid tent, the Hilleberg Enan (or the Hilleberg Niak 1.5 if you need more space), the MSR Hubba NX or the Big Agnes Fly Creek HV UL1 tent.
 
-The prices on the MSR and the Big Agnes are considerably lower than on the Hilleberg tents.  
+The prices on the MSR and the Big Agnes are considerably lower than on the Hilleberg tents.
 
-MSR also offers the new MSR FreeLite 1 (1000 grams) and the MSR Carbon Reflex 1 (790 grams) but they are less durable than the MSR Hubba NX (1290 grams).   
+MSR also offers the new MSR FreeLite 1 (1000 grams) and the MSR Carbon Reflex 1 (790 grams) but they are less durable than the MSR Hubba NX (1290 grams).
 
-We found that the floor fabric on the MSR Hubba NX was already quite delicate and the MSR Freelite 1 and MSR Carbon Reflex 1 have a slightly lower weight because they are having a thinner material on the floor and the rainfly than the MSR Hubba NX.   
+We found that the floor fabric on the MSR Hubba NX was already quite delicate and the MSR Freelite 1 and MSR Carbon Reflex 1 have a slightly lower weight because they are having a thinner material on the floor and the rainfly than the MSR Hubba NX.
 
-Also keep in mind that the shiny white color of the Hyperlite Mountain Gear UltaMid will turn into grayish over the time.  
+Also keep in mind that the shiny white color of the Hyperlite Mountain Gear UltaMid will turn into grayish over the time.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25215098683/in/dateposted-public/" title="Packrafting the River Dee in Scotland"><img src="https://farm2.staticflickr.com/1472/25215098683_07c6ffbfb8_b.jpg" width="100%" alt="Best 1-person backpacking tent of 2017 MSR Hubba Hubba NX"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>  
+<amp-img src="https://farm2.staticflickr.com/1472/25215098683_07c6ffbfb8_b.jpg" width="100%" alt="Best 1-person backpacking tent of 2017 MSR Hubba Hubba NX" layout="responsive"></amp-img>
 
 On our packrafting trip in Scotland we had a MSR Hubba Hubba NX with us which is also a great 3-season tent, offers space for 2 and costs less than the Hilleberg tents.
 
