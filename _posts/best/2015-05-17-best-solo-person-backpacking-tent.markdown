@@ -336,19 +336,19 @@ The Hilleberg Soulo seems to be the toughest tent for stormy weather and winter 
 
 ## Final word
 
-The Hilleberg Soulo is self-standing and can also be pitched on difficult terrain. Many backpackers also use this tent also as a 3-season tent.   
+The Hilleberg Soulo is self-standing and can also be pitched on difficult terrain. Many backpackers also use this tent also as a 3-season tent.
 
-If you get an inner mesh tent from Hilleberg then you can even get a better air ventilation in your tent.   
+If you are looking for a better air ventilation in your tent then you could have a look at the Hilleberg Inner Mesh Tents which can replace the standard inner tents.
 
-The Nallo offers more space than the Soulo and would be my first choice (even so the tent is called Nallo 2, it’s better suited as a solo tent than a 2-person tent).  
+The Unna offers more space than the Soulo and would be my first choice.
 
-If I were to choose an ultralight 3-season tent then I would probably go for the Hilleberg Niak or the Hilleberg Enan (smaller than the Hilleberg Niak) or if I were on a budget then the MSR Hubba NX and the Big Agnes Fly Creek HV UL1 Tent.  
+If I were to choose an ultralight 3-season tent then I would probably go for the Hilleberg Niak or the Hilleberg Enan (smaller than the Hilleberg Niak) or if I were on a budget then the MSR Hubba NX and the Big Agnes Fly Creek HV UL1 Tent.
 
-Finally, if you are into sea kayaking a self-standing durable tent - like the Hilleberg Soulo, Unna or the Hilleberg Nallo 2 - which can handle strong winds is probably a better option than an ultralight tent as you don’t have to carry the tent anyway when you are paddling.  
+Finally, if you are into sea kayaking a self-standing durable tent - like the Hilleberg Soulo, Unna or the Hilleberg Nallo 2 - which can handle strong winds is probably a better option than an ultralight tent as you don’t have to carry the tent anyway when you are paddling.
 
-Here is also an [article](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/) about our packrafting trip in the Swedish mountains where we were camping in our MSR Hubba Hubba NX.   
+Here is also an article about our packrafting trip in the Swedish mountains where we were camping in our MSR Hubba Hubba NX.
 
-After one year we have got a slight hole in the floor but otherwise we were quite happy with the MSR Hubba Hubba NX as a 3-season tent.
+After one year we have only got a small hole in the floor but otherwise we were quite happy with the MSR Hubba Hubba NX as a 3-season tent.
 
 ## My own gear
 
