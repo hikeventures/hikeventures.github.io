@@ -12,18 +12,6 @@ layout: post
 ---
 In this blog post I have selected the best solo person backpacking tents for 2017 which I would consider to buy for my next hiking or backpacking trip.  
 
-What defines the best solo person backpacking tent? Well, the best 1-person tent can be a different one in different environments and situations.   
-
-Are you planning a trip to remote areas? Do you want to use your tent during the winter? Or are you an ultralight aficionado?  
-
-Initially, I would have picked the Hilleberg Soulo. However it was too small for me. I am 180 cm tall and also won’t be able to sit in it.  
-
-The advantage of the Unna compared to the Soulo is also the huge panorama entrance which can be used as a window as well as more space.  
-
-It’s important to understand that each tent is made for a specific purpose so there is no one tent fits all tent. Some tents are however more versatile than other tents.  
-
-Further, it’s also worth to mention that a 1-person tent can be more heavy than a 2-person tent if you would distribute the weight of the 2-person tent over 2 persons. So hiking with another person can make you carry less weight.  
-
 <amp-img src="https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Best solo person backpacking tent in 2017" layout="responsive"></amp-img>   
 <br>   
 <!--more-->
@@ -345,12 +333,6 @@ On our packrafting trip in Scotland we had a MSR Hubba Hubba NX with us which is
 ## Best self-standing 1-person tent for exposed & harsh environments
 
 The Hilleberg Soulo seems to be the toughest tent for stormy weather and winter camping but comes with additional weight.
-
-## Which tent pegs to use?
-
-## Which tent material?
-
-## How about tent footprints?
 
 ## Final word
 
