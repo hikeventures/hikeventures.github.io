@@ -11,7 +11,6 @@ tags:
   - jackets
 layout: post
 ---
-
 Here is my selection of the best lightweight fleece jackets for 2017.  Are you planning an outdoor adventure to a place where it’s wet or humid? Then you should have a warm lightweight fleece jacket in your backpack.  
 
 For wet conditions a fleece jacket is a much better choice than a [down jacket](http://www.hikeventures.com/best-down-jackets/) to protect yourself against the cold as down will lose it’s insulation once it’s wet.   
@@ -20,9 +19,8 @@ A fleece jacket can be used as a mid-layer to keep you warm while you are active
 
 **Update**: Most recently, I bought the [Power Houdi](http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fhoudini-power-houdi-full-zip-hooded-fleece-sweatshirt-mens) which is now my go-to fleece jackets on all my trips. I really like that it feels soft on the skin and adapts well to movements.  
 
-<amp-img src="https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg" width="1024" height="683" layout="responsive" alt="Best Fleece Jackets for 2017"></amp-img>
-
-
+<amp-img src="https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg" width="1024" height="683" alt="Best Fleece Jackets for 2017" layout="responsive"></amp-img>   
+<br>   
 <!--more-->
 
 ## The best fleece jackets of 2017
@@ -36,16 +34,16 @@ A fleece jacket can be used as a mid-layer to keep you warm while you are active
         </thead>  
         <tbody>  
         <tr>  
-          <td><a href="http://amzn.to/2dBJvs1" target="_blank" rel="nofollow">Arc'teryx Thetis Zip Neck</a></td><td>205g</td>  
+          <td><a href="http://amzn.to/2dBJvs1" target="_blank" rel="nofollow">Arcteryx Thetis Zip Neck</a></td><td>205 grams / 7.2 oz.</td>  
         </tr>  
         <tr>  
-          <td><a href="http://amzn.to/2eTDybV" target="_blank" rel="nofollow">Mammut Moench Longsleeve</a></td><td>205g</td>  
+          <td><a href="http://amzn.to/2eTDybV" target="_blank" rel="nofollow">Mammut Moench Longsleeve</a></td><td>205 grams / 7.2 oz. </td>  
         </tr>  
         <tr>  
-          <td><a href="http://amzn.to/2elW3qj" target="_blank" rel="nofollow">Rab Micro Pull-on</a></td><td>238g</td>  
+          <td><a href="http://amzn.to/2elW3qj" target="_blank" rel="nofollow">Rab Micro Pull-on</a></td><td>238 grams / 8.4 oz.</td>  
         </tr>  
         <tr>  
-          <td><a href="http://amzn.to/2evRjuo" target="_blank" rel="nofollow">Arc'teryx Delta LT Zip Neck</a></td><td>240g</td>  
+          <td><a href="http://amzn.to/2evRjuo" target="_blank" rel="nofollow">Arcteryx Delta LT Zip Neck</a></td><td>240 grams / 8.5 oz.</td>  
         </tr>  
         </tbody>  
   </table>  
@@ -53,9 +51,9 @@ A fleece jacket can be used as a mid-layer to keep you warm while you are active
 
 ## Arc'teryx Delta LT Zip Neck
 
-<a href="http://www.amazon.com/gp/product/B00GW7ZQG8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZQG8&linkCode=as2&tag=hikeve-20&linkId=TWGUKPE3JX4IKWXK" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7ZQG8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7ZQG8" width="1" height="1" border="0" alt="Arc'teryx Delta LT Zip Neck" style="border:none !important; margin:0px !important;" />  
+<a href="http://www.amazon.com/gp/product/B00GW7ZQG8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZQG8&linkCode=as2&tag=hikeve-20&linkId=TWGUKPE3JX4IKWXK" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7ZQG8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7ZQG8" width="1" height="1" border="0" alt="Arcteryx Delta LT Zip Neck" style="border:none !important; margin:0px !important;" />  
 
-**Weight**: 240 grams  
+**Weight**: 240 grams / 8.5 oz.  
 **Fabric**: Polartec Classic 100 Micro Velour Small Grid  
 
 The Arc’teryx Delta LT Zip Neck is also a nice fleece. I have currently the Delta LT Zip Jacket model which is similar to this model except that you have a full zip on the front.  
@@ -64,9 +62,9 @@ The Arc’teryx Delta LT Zip Neck is also a nice fleece. I have currently the De
 
 ## Arc'teryx Thetis Zip Neck
 
-<a href="http://www.amazon.com/gp/product/B00GW7XOMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7XOMQ&linkCode=as2&tag=hikeve-20&linkId=KYPIGZUYHRQY4JNT" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7XOMQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7XOMQ" width="1" height="1" border="0" alt="Arc'teryx Thetis Zip Neck" style="border:none !important; margin:0px !important;" />  
+<a href="http://www.amazon.com/gp/product/B00GW7XOMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7XOMQ&linkCode=as2&tag=hikeve-20&linkId=KYPIGZUYHRQY4JNT" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7XOMQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7XOMQ" width="1" height="1" border="0" alt="Arcteryx Thetis Zip Neck" style="border:none !important; margin:0px !important;" />  
 
-**Weight**: 205 grams  
+**Weight**: 205 grams / 7.2 oz.  
 **Fabric**: Polartec Power Dry  
 
 The Arc’teryx Thetis Zip Neck fleece is more a fleece for those who are planning to sweat during the winter e.g. if you are planning to go running or hike up a mountain.   
@@ -81,7 +79,7 @@ The Polartec fabric should dry quite fast and transports moisture away from the 
 
 <a href="http://www.amazon.com/gp/product/B005JWKXC4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005JWKXC4&linkCode=as2&tag=hikeve-20&linkId=AM7UMWDALROAZGHE" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005JWKXC4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005JWKXC4" width="1" height="1" border="0" alt="Mammut Moench Longsleeve" style="border:none !important; margin:0px !important;" />  
 
-**Weight**: 205 grams  
+**Weight**: 205 grams / 7.2 oz.  
 **Fabric**: Polartec Power Stretch  
 
 The Mammut Moench Longsleeve features a stretchy fabric which should keep you dry and allow your body to move with ease and should be a good fleece for activities in the mountains.  
@@ -92,7 +90,7 @@ The Mammut Moench Longsleeve features a stretchy fabric which should keep you dr
 
 <a  href="http://www.amazon.com/gp/product/B00MVV2BDK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MVV2BDK&linkCode=as2&tag=hikeve-20&linkId=O35AIPYX5EH2BEVJ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00MVV2BDK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00MVV2BDK" width="1" height="1" border="0" alt="Rab Micro Pull-on" style="border:none !important; margin:0px !important;" />  
 
-**Weight**: 238 grams  
+**Weight**: 238 grams / 8.4 oz.  
 **Fabric**: Polartec Classic Micro (recycled)  
 
 The Rab Micro Pull-on is a light fleece pullover. It’s fabric is made of recycled fabric if you prefer to opt for products and also keep nature in mind.  
