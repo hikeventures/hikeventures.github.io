@@ -172,7 +172,7 @@ The tent can accommodate 1-2 persons and has a vestibule to store your gear. I w
 
 The Hilleberg Soulo is a very strong solo expedition tent. If strength is important to you and you need a dedicated vestibule then you should choose the Soulo rather than the Unna.  
 
-<a href="http://amzn.to/2sbicNO" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif”></a>  
+<a href="http://amzn.to/2sbicNO" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
