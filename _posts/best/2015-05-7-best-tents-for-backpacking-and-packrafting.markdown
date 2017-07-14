@@ -191,7 +191,7 @@ What I really like on this tent is the big panorama window. I also use the inner
 
 The tent comes without a dedicated vestibule, however a virtual vestibule can be created on one of the corner of the tent. There is also enough space between the tent walls to store your shoes.  
 
-<a href="http://amzn.to/2toS0eI" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif”></a>  
+<a href="http://amzn.to/2toS0eI" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
