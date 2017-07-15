@@ -16,11 +16,11 @@ published: true
                 <h1><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ page.title }}</a></h1>
                 <div class="post-content" itemprop="articleBody">
                   {{ content }}
-                  {% if post.categories == destinations %}
+                  {% if post.categories == 'destinations' %}
     <br>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
   {% endif %}
-  {% if post.categories == reviews %}
+  {% if post.categories == 'reviews' %}
 <br>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 {% endif %}
