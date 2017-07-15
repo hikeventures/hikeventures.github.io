@@ -35,8 +35,6 @@ I like the Exped Air Pillow UL. The pillow feels comfortable, packs small and se
 
 <a href="http://www.backcountry.com/exped-air-pillow" rel="nofollow"><button type="button" class="btn btn-danger">See the Exped Air Pillow</button></a>
 
----
-
-{% include disclaimer.html %}
-
----
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>

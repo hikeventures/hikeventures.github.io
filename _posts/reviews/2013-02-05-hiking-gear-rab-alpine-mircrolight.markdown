@@ -23,4 +23,8 @@ Since the jacket is filled with down it takes much less space in your backpack t
 The Rab Microlight Alpine Jacket weights 345 grams is filled with 140 grams of 750 cuin goose down.
 
 ## Recommendation
-The Rab Microlight Alpine Jacket is a nice down jacket which is also quite affordable. If you look for a real winter down jacket then the <a href="http://amzn.to/1I4ao2P">Rab Positron Jacket</a> might be an alternative (at least I would pick it as my winter down jacket). However, if you are looking for a jacket which you can wear in the evenings in the camp or as a midlayer during the winter then the Rab Microlight Alpine Jacket is a great choice. Here you can find a <a href="http://www.hikeventures.com/best-down-jackets/">list of my favorite down jackets</a>.
+The Rab Microlight Alpine Jacket is a nice down jacket which is also quite affordable. If you look for a real winter down jacket then the Rab Positron Jacket might be an alternative (at least I would pick it as my winter down jacket). However, if you are looking for a jacket which you can wear in the evenings in the camp or as a midlayer during the winter then the Rab Microlight Alpine Jacket is a great choice. Here you can find a <a href="http://www.hikeventures.com/best-down-jackets/">list of my favorite down jackets</a>.
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>

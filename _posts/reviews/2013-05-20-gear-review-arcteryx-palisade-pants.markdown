@@ -26,3 +26,7 @@ I really like the webbing belt which comes with the pants. Super-lightweight com
 I have tested the Arc'teryx Palisade Pants on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden. These pants were really comfortable to wear during the whole trip and they dried quickly (which is quite important if the weather turns frequently bad in the mountains). I also like to wear the Arc'teryx Palisade Pants on my Packrafting trips (because of their ability to dry fast). For colder months I would however wear other hiking pants (for example the <a href="http://amzn.to/1BL1ph3">Fjällräven Abisko pants</a>).
 
 <a href="https://www.flickr.com/photos/90204224@N07/14180924087"><img src="https://farm3.staticflickr.com/2934/14180924087_43b2a78a7c_b.jpg" width="1024" height="683" alt="Arc'teryx Palisade Hiking Pants Packrafting Alpacka Raft Werner Paddle Shuna Finland"></a>
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>

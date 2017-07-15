@@ -76,8 +76,6 @@ On the whole, even though it is not waterproof and weighs almost 230 grams, I re
 
 <a href="http://www.moosejaw.com/moosejaw/shop/product_Thule-Perspektiv-Action-Sports-Camera-Case_10246911_10208_10000001_-1_" rel="nofollow"><button type="button" class="btn btn-danger">See the Thule Perspektiv Action Camera Case</button></a>
 
----
-
-{% include disclaimer.html %}
-
----
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>

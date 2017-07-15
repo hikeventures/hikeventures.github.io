@@ -32,3 +32,7 @@ The close-to-body fit is especially suitable for those who are performing activi
 
 ## Recommendation
 The Arc'teryx Tecto FL jacket is a great jacket for being active outdoors. It is also lightweight and packs small since it has less pockets and a minimalistic cut. However, If you are looking for a lighter jacket and if you are on a budget then you could also have a look at the <a href="http://hikeventures.com/gear-review-montane-minimus-smock/">Montane Minimus Jacket</a>. I found the Montane Minimus jacket less durable than the Arc'teryx Tecto FL jacket but it's almost invisible in your backpack. My preference goes towards the Arc'teryx Tecto FL Jacket. I am also using the Tecto FL when I cycle to work during the winter time here in Finland.
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>

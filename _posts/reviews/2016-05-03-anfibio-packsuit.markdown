@@ -77,3 +77,7 @@ Once we came closer to the shore we had plenty of fun watching Caj testing his n
 </div>
 
 After paddling and drysuite testing we can probably say that we are ready for the Swedish Packrafting Round-Up 2016 next weekend.
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>

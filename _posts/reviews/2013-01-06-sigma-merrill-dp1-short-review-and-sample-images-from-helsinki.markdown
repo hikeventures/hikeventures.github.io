@@ -23,3 +23,7 @@ The Sigma Merrill DP1 with its 340 grams is super light and has a superb image q
 
 ## Features
 Since the Sigma Merrill has a fixed lens it comes with a cheaper price. It also is quite lightweight and takes pictures with good image quality.
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>

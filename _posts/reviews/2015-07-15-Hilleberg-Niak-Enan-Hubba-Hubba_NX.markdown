@@ -26,3 +26,7 @@ So for 500 grams you get more space. It would be interesting to test the Niak 1.
 Alternatively, Konstantin is currently testing the MSR Hubba Hubba NX in Japan which is a freestanding 2-person tent for 3 seasons. What I really liked on the MSR is the Mesh on the inner tent which could even allow you to watch stars at night and of course that it is freestanding which is especially useful if you go paddling here in the Finnish Archipelago. The Hubba Hubba packs small, weights only 1.54 kg and costs less than the Hillebergs. The Hillebergs might have a quality edge but the MSR should do the job as well for considerably less money.
 
 Anyways, have a look on our blog if you are interested in the Hubba Hubba NX for an extensive review in the near future. Unfortunately, we don't have the Hillebergs available to test but there may come a review in the future as well.
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>

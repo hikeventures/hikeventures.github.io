@@ -22,3 +22,7 @@ I have previously also reviewed the <a href="http://hikeventures.com/gear-review
 * Jetboil Flash has 1/3 lower price tag
 
 Obviously, if you are on a budget and need to boil for more people then you should go for the Jetboil Flash. Ultralight freaks who need the latest and lightest equipment should opt for the Jetboil Sol Ti and of course have to pay a premium for it. Anyway, I'm very satisfied with these Jetboil stoves . They heat up water very quickly and are well designed.
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>

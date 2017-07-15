@@ -35,3 +35,7 @@ To conclude, this is a well-written book that can be interesting for both novice
 Would I recommend this book? - Definitely.
 
 <a href="http://www.flickr.com/photos/90204224@N07/11211844134"><img src="http://farm6.staticflickr.com/5483/11211844134_c11a5bdcd8_o.png" width="558" height="199" alt="Screen Shot 2013-12-04 at 23.30.07"></a>
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>

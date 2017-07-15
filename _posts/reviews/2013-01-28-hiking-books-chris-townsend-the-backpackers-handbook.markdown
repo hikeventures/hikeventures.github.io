@@ -13,5 +13,6 @@ Chris Townsend's book is quite extensive with over 400 pages and also won the Ou
 
 <a href="https://www.flickr.com/photos/90204224@N07/8419915570" title="Chris Townsend - The Backpacker's Handbook"><img src="https://farm9.staticflickr.com/8049/8419915570_d52060403a_b.jpg" width="1024" height="795" alt="Chris Townsend - The Backpacker's Handbook"></a>
 
-## Where to buy?
-<a href="http://www.amazon.com/gp/product/007175489X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=007175489X&linkCode=as2&tag=hikeve-20" target="_blank">Amazon.com</a>
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>

@@ -27,3 +27,7 @@ The Field Notes Expedition notebook and Space Pen are quite useful for outdoor a
 
 ## DSLR, GoPro or mirrorless camera
 Beside my smartphone I also take a GoPro and DSLR camera with me if I want to take high quality pictures e.g. from the landscape. Beside the image quality you also get a better dynamic range with DSLRs than with smartphones.
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>

@@ -26,3 +26,7 @@ Further, there is also a velcro adjustable cuff on the Palm Hook to tighten the 
 <a href="https://www.flickr.com/photos/90204224@N07/17165500493"><img src="https://c2.staticflickr.com/8/7685/17165500493_d269bef416_b.jpg" width="100%" alt="Palm Hook Gloves - best gloves packrafting"></a>  The gloves are also not that heavy with a weight of 72 grams.
 
 Let's see how they are going to perform in our upcoming trips ...
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>

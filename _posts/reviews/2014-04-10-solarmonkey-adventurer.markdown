@@ -43,3 +43,7 @@ So far, I have tested the Solarmonkey Adventurer with my iphone and my Sony A7r 
 <strong>Update 21.06.2014:</strong> After some testing, I was not able to charge my iPhone up to 100% if the battery of the Solar panel is charged with the Solar panels. I received a replacement and need to test the device again. Will write an update as soon as possible.
 
 <a href="https://www.flickr.com/photos/90204224@N07/13913979456/" ><img src="https://farm8.staticflickr.com/7164/13913979456_20e1c44af1_b.jpg" width="1024" height="683" alt="Powertraveller Solarmonkey Adventurer"></a>
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>

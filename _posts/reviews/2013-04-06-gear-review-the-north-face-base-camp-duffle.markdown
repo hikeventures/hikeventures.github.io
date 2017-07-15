@@ -35,3 +35,7 @@ And an internal mash bag with a key strap.
 I use the North Face Base Camp Duffle mainly to transport my gear between airports. So far, the bag gives a solid impression and worked quite well for me. If I would were to buy a Duffle again I would take the largest size to cram in even more stuff especially if you also need clothes which are not related to your hiking trip.
 
 <img src="http://farm9.staticflickr.com/8254/8624813100_cdabac8954_c.jpg" width="1150" alt="The North Face Base Camp Duffle">
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>

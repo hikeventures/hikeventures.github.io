@@ -44,3 +44,7 @@ One loop was missing on the Laufbursche Huckepack when I received it. However, g
 
 ## Alternatives
 If you need a bigger backpack then you should have a look at the [HMG Porter 4400](http://www.hikeventures.com/gear-review-hmg-porter-4400-black/) which I currently use for my packrafting trips.
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>

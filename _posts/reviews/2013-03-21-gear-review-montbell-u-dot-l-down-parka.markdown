@@ -25,3 +25,7 @@ The Montbell U.L. Down Parka is great for anything where you are not active to k
 If you need a real winter down jacket then the <a href="http://www.backcountry.com/rab-positron-down-jacket-mens">Rab Positron Jacket</a> would currently be my favorite winter down jacket.
 
 Still not sure which down jacket to buy? Here is a list of my <a href="http://www.hikeventures.com/best-down-jackets/">favorite down jackets</a> which I would currently buy as a 3- and 4-season down jacket.
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>

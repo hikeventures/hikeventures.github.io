@@ -29,6 +29,10 @@ The Steripen Freedom weights only 75 grams and rechargeable via USB (e.g. with a
 ## Recommendation
 I have used the Steripen Freedom in combination with a ceramic filter in order to achieve the best results. I have tested the Steripen Freedom on our [trip to Sarek][3] in Sweden. However, water filters are in most cases not really needed there but it's still good to filter particles out with a ceramic filter.
 
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
+
 [1]:	http://hikeventures.com/gear-review-katadyn-mini-water-filter/ "ceramic filter"
 [2]:	http://hikeventures.com/how-to-charge-your-batteries-when-you-are-outdoors/ "rechargeable battery"
 [3]:	http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/ "Trip to Sarek"

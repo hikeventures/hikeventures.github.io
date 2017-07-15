@@ -27,3 +27,7 @@ In general the Sony 35mm renders also nice pictures as you can see in this artic
 I am not that much into video yet but for the future the Loxia would have an advantage here as well since it comes with a tool to remove the clicks when focusing which could be disturbing when taking videos.
 <a href="https://www.flickr.com/photos/90204224@N07/15617533168"><img src="https://farm8.staticflickr.com/7470/15617533168_e55b7ed8c3_h.jpg" width="1600" height="1068" alt="Zeiss Loxia 35mm 2.0 2.8"></a>
 Also the rendering of the pictures should have a more Zeiss looking style which should give the pictures a more 3 dimensional look and feel. However, I need to test this first as the 35mm Loxia lens is not available yet. There is also the [Zeiss Loxia 50mm f/2 Planar T*](http://amzn.to/11bfg1A) lens available but since I am more into landscape photography the 35mm is my choice.
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>

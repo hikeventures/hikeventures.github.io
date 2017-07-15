@@ -57,3 +57,7 @@ With <a rel="nofollow" href="http://www.movescount.com" target="_blank">Movescou
 
 ## Recommendation
 I have used the Suunto Ambit2 on our trip in <a rel="nofollow" href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">Sarek</a>  and it performed quite well. It was nice to see on the PC the route we hiked. However, it is advisable to take a spare battery with a USB connection with you if you go on a multiple day trip.
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
