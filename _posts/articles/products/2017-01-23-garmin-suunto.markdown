@@ -44,7 +44,7 @@ In the past I have always used my Suunto Traverse to log my GPS data (see pictur
 
 However, there are certain features on the new watches which I found more appealing than on the Suunto Traverse - and in particular I would prefer to have the Garmin Fenix 5X over the Suunto Spartan.
 
-Why? Simply because both watches offer similar features with the Fenix 5X offering additionaly the possibility to upload 2GB of topo maps.
+Why? Simply because both watches offer similar features with the Fenix 5X offering additionally the possibility to upload 2GB of topo maps.
 
 ## Reasons for upgrading
 When you own an old Suunto watch like the Traverse or a Garmin Fenix 3 then you are probably asking yourself if you should upgrade to the Spartan or Fenix watch.
