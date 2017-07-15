@@ -24,7 +24,7 @@ Below you can see Konstantin while hiking in Japan. On the back of his backpack 
 <!--more-->
 
 
-<h2 id="list">Differences DeLorme and Garmin inReach Explorer+ and SE+</h2>
+<h2>Differences DeLorme and Garmin inReach Explorer+ and SE+</h2>
 <div class="table-responsive">
 <table class="table">
 <thead><tr><th>Features</th><th><a href="http://amzn.to/2jYe2kg" rel="nofollow">DeLorme inReach SE</a></th><th><a href="http://amzn.to/2k3sk73" rel="nofollow">DeLorme inReach Explorer</a></th><th> <a href="http://amzn.to/2iGDVUz" rel="nofollow">Garmin inReach SE+</a></th><th><a href="http://amzn.to/2jY8030" rel="nofollow">Garmin inReach Explorer+</a></th></tr></thead><tbody>
@@ -44,6 +44,9 @@ Below you can see Konstantin while hiking in Japan. On the back of his backpack 
 
 </tbody></table>
 </div>
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 ## Worth to upgrade?
 If you are only using your device in emergency situations to send a SOS signal then we would probably not consider to upgrade to the new Garmin models. However, if you are looking for a device which you can also use as a GPS then we would probably upgrade to the new Garmin inReach Explorer+ since it comes with a topo map and has also space to store other maps as well.

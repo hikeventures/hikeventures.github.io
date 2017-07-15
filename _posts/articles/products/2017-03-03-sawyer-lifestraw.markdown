@@ -38,7 +38,9 @@ In this article I am going discuss if you should choose the Sawyer Mini, MSR Tra
         </tbody></table>
 </div>
 
----
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 <h3 id="example"><a href="http://amzn.to/2kOYYW6" target="_blank" rel="nofollow">LifeStraw Personal Water Filter</a></h3>
 

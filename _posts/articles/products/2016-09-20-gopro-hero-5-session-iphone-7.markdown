@@ -14,7 +14,9 @@ Recently, GoPro announced it's new GoPro Hero5 Black and it's GoPro Hero5 Sessio
 
 <amp-img src="https://c3.staticflickr.com/8/7270/26814282730_361f410d48_o.jpg" layout="responsive" width="1200" height="797" alt="GoPro Hero 5 Black Session iPhone7"></amp-img>
 
-
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 <!--more-->
 

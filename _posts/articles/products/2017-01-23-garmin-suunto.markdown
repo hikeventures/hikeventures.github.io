@@ -38,10 +38,10 @@ Currently, there are two interesting GPS watches on the market which I would fin
 </td></tr>
 </tbody></table>
 </div>
-
-
 <!--more-->
-
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 Both watches are currently the latest models from both manufacturers and their built in GPS feature, color display and battery life make them an attractive alternative compared to a smartphone with a GPS app - at least if you are frequently tracking your GPS or if you plan to go on remote backcountry trips.
 
