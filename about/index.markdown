@@ -106,10 +106,6 @@ published: true
 	    <div class="col-sm-1 col-lg-1 col-md-1 col-xs-12 page-content-divider"></div>
 	    <div class="col-sm-4 col-lg-4 col-md-4 col-xs-12 page-content-sidebar s1920">
 			<center>
-			<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-			
-
-
 				<div class="fb-page"
 				  data-href="https://www.facebook.com/hikeventures"
 				  data-hide-cover="false"
