@@ -45,14 +45,22 @@ Below you can see Konstantin while hiking in Japan. On the back of his backpack 
 <br>
 
 ## Worth to upgrade?
-If you are only using your device in emergency situations to send a SOS signal then we would probably not consider to upgrade to the new Garmin models. However, if you are looking for a device which you can also use as a GPS then we would probably upgrade to the new Garmin inReach Explorer+ since it comes with a topo map and has also space to store other maps as well.
+If you are only using your device in emergency situations to send a SOS signal then we would probably not consider to upgrade to the new Garmin models.
+
+However, if you are looking for a device which you can also use as a GPS then we would probably upgrade to the new Garmin inReach Explorer+ since it comes with a topo map and has also space to store other maps as well.
 
 
 ## Alternative without SOS features
-If you are primarily looking for a navigation device then you may also have a look at the <a href="http://amzn.to/2jxxCqo" rel="nofollow">Garmin Fenix 5X</a> which features map functionality. Garmin's new smartwatch does not have SOS features like the inReach devices but it's capable to store topo maps and display them on your wrist while on the trail.
+If you are primarily looking for a navigation device then you may also have a look at the Garmin Fenix 5X which features map functionality. Garmin's new smartwatch does not have SOS features like the inReach devices but it's capable to store topo maps and display them on your wrist while on the trail.
 
 ## Final thoughts
-We always use a phone and a mpa to navigate in the backcountry. However, having a GPS messenger like the Garmin SE+ or Explorer+ can be quite important. For example we always have issues with our iPhone if we camp in colder areas and we need to connect them to an external battery or keep the phone warm to function properly. Then there is also the possibility that your phone brakes on the trail. Either you drop it or it gets wet. The Garmin devices can probably handle more impact than a cell phone.Unfortunately, there are monthly subscription fees to pay when using the satellite service, however being able to use the map features of the Explorer+ without subscription makes it also a great device to have on the trail when hiking in more civilized areas.
+We always use a phone and a map to navigate in the backcountry. However, having a GPS messenger like the Garmin SE+ or Explorer+ can be quite important.
+
+For example we always have issues with our iPhone if we camp in colder areas and we need to connect them to an external battery or keep the phone warm to function properly.
+
+Then there is also the possibility that your phone brakes on the trail. Either you drop it or it gets wet.
+
+The Garmin devices can probably handle more impact than a cell phone. Unfortunately, there are monthly subscription fees to pay when using the satellite service, however being able to use the map features of the Explorer+ without subscription makes it also a great device to have on the trail when hiking in more civilized areas.
 
 ---
 
