@@ -19,7 +19,7 @@ Even so you have to pay for a monthly subscription fee I think it's just worth t
 
 Below you can see Konstantin while hiking in Japan. On the back of his backpack you can see the Delorme inReach Explorer (in it's yellow case) which has now been replaced with the new Garmin inReach Explorer+.
 
-<amp-img src="https://c1.staticflickr.com/6/5609/30599065514_3a9dedbf93_k.jpg" width="2048" height="1365" alt="Garmin inReach Explorer+ and SE+ - Differences, new features and preview"></amp-img>
+<amp-img src="https://c1.staticflickr.com/6/5609/30599065514_3a9dedbf93_k.jpg" width="2048" height="1365" layout="responsive" alt="Garmin inReach Explorer+ and SE+ - Differences, new features and preview"></amp-img>
 
 <!--more-->
 
