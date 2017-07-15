@@ -21,6 +21,7 @@ I have included a broad range of day packs. Some are more durable or offer more 
 
 <amp-img src="https://c1.staticflickr.com/9/8699/27817737344_1645a0bd95_b.jpg" width="1024" height="684" alt="Best Day Packs 2017" layout="responsive"></amp-img>
 
+<!--more-->
 ## The best day packs of 2017
 
 <div class="table-responsive">
@@ -64,6 +65,10 @@ I have included a broad range of day packs. Some are more durable or offer more 
 
       </table>
 </div>
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 ## Marmot Kompressor Plus
 

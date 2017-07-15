@@ -50,6 +50,9 @@ A portable and lightweight camping stove is one of the most essential item to ha
 </tbody>
 </table>
 </div>
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 ## Jetboil MicroMo
 

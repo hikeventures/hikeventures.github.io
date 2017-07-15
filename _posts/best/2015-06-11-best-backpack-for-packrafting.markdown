@@ -49,6 +49,9 @@ Gernerally speaking I was not able to find any alternative to the HMG Porter 440
 </tbody>  
 </table>  
 </div>
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 ## Features of a good packrafting backpack
 

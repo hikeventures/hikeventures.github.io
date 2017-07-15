@@ -77,6 +77,9 @@ I have received the XTherm from Therm-a-Rest for testing and it’s now my go-to
 </tbody>  
 </table>  
 </div>
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 ## Big Agnes Air Core Ultra
 

@@ -60,6 +60,9 @@ In this blog post I have selected the best solo person backpacking tents for 201
 </tbody>  
 </table>  
 </div>
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 ## Fly Creek HV UL1
 

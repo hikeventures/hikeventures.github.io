@@ -45,7 +45,10 @@ Sony, however is a market leader in developing camera sensors and since action c
 | Sensor Size         |           1/2.3           |      1/2.3      |
 | Angle of View       |            170            |   170 or 120    |
 
-<br><br>
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
+
 Looking at the Specs, I am more tempted in getting the Sony FDR-X1000V action camera.
 
 8.8 MP sensor should deliver better image quality in low light situations and image stabilization is also nice to have.

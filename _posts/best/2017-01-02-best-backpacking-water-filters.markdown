@@ -28,9 +28,9 @@ To remove viruses you can combine a filter with e.g. the Steripen Freedom (we ha
 
 The Steripen uses an UV light against Viruses and can be recharged through the USB port. Also have a look at our interview at the end of this article.
 
----
-
 <amp-img src="https://c1.staticflickr.com/8/7459/9599019542_fa67333918_k.jpg" width="2048" height="1365" alt="Best lightweight water filters 2017" layout="responsive"></amp-img>
+
+<!--more-->
 
 <h2>The best lightweight water filters of 2017</h2>
 
@@ -47,6 +47,10 @@ The Steripen uses an UV light against Viruses and can be recharged through the U
 </a></td><td><a rel="nofollow" href="http://amzn.to/2lZIqQl" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy1.gif"></a></td><td><a rel="nofollow" href="http://amzn.to/2lZGgjz" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy1.gif"></a></td><td><a rel="nofollow" href="http://amzn.to/2qdeoXm" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy1.gif"></a></td></tr>
         </tbody></table>
 </div>
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 ## LifeStraw Personal Water Filter
 

@@ -17,6 +17,8 @@ In the past I had a 27" HD monitor to edit my pictures but since I am planning t
 
 <amp-img src="https://c7.staticflickr.com/1/186/31528052726_5436587b3c_k.jpg" layout="responsive" width="2048" width="1536" alt="Best LG UltraFine 4K and 5K monitor alternatives - LG 27UD88, Dell UP2715K, HP ENVY 27 or Lenovo ThinkVision X1 for Macbook Pro with Touchbar"></amp-img>
 
+<!--more-->
+
 I really like the idea to have less cables on my desk so USB-C would be a really nice feature.
 
 There would be no need to plug and unplug USB cables anymore on the MacBook Pro. All my USB cables would be connected to my monitor and there would be just one single USB-C which is connected to my MacBook Pro.
@@ -47,6 +49,10 @@ There would be no need to plug and unplug USB cables anymore on the MacBook Pro.
 </tbody>
 </table>
 </div>
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 ## LG 27UD88
 <a href="https://www.amazon.com/gp/product/B01CDYB0QS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CDYB0QS&linkCode=as2&tag=hikeve-20&linkId=9750242391a1726e4b4b87c855ce4300" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01CDYB0QS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01CDYB0QS" width="1" height="1" border="0" alt="LG 27UD88" style="border:none !important; margin:0px !important;" />

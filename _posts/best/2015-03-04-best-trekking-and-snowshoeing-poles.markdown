@@ -69,8 +69,9 @@ Further, you can also use poles for nordic walking.
 </tbody>  
 </table>  
 </div>  
-
-<!--more-->
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 ## Black Diamond Distance Carbon FLZ
 

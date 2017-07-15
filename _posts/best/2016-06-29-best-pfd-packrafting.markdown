@@ -50,6 +50,9 @@ The life jackets in this blog post are also suitable for Kayaking. In fact they 
 </tbody>
 </table>
 </div>
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 ## Astral Designs Sea Wolf
 

@@ -138,8 +138,9 @@ Our <a rel="nofollow" href="#list">selection</a> below contains only new / updat
 </tbody>
 </table>
 </div>
-
-<hr>
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 <h3><a rel="nofollow" href="http://www.hikeventures.com/deals/#big+agnes+copper+spur" target="_blank">Big Agnes Copper Spur 2 Platinum</a></h3>
 The Big Agnes Copper Spur 2 Platinum is a three season free standing ultraligt tent and weights 1190 grams.

@@ -64,6 +64,10 @@ On our snowshoeing trip in [Finnish Lapland.][1]
       </table>
 </div>
 
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
+
 ## Arc'teryx Cerium LT Hoody
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00Q9MHO70/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q9MHO70&linkCode=as2&tag=hikeve-20&linkId=4ea3c7e2e31306af352a91c4885d7144"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00Q9MHO70&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00Q9MHO70" width="1" height="1" border="0" alt="Arc'teryx Cerium LT Hoody" style="border:none !important; margin:0px !important;" />
