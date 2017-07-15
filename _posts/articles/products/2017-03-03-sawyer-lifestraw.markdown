@@ -23,7 +23,7 @@ In this article I am going discuss if you should choose the Sawyer Mini, MSR Tra
 
 <!--more-->
 
-<h2 id="list">Sawyer Mini vs. LifeStraw Personal</h2>
+<h2>Sawyer Mini vs. LifeStraw Personal</h2>
 
 <div class="table-responsive">
       <table  class="table table-hover table-bordered list_items">

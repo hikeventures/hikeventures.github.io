@@ -27,7 +27,7 @@ I also have the Zeiss Batis 25mm beside my manual Samyang 14mm and to be honest 
 
 <!--more-->
 
-<h2 id="list">Differences Sigma 14mm DG HSM ART, Irix 11mm Blackstone, Zeiss Batis 18mm and Samyang XP 14mm</h2>
+<h2>Differences Sigma 14mm DG HSM ART, Irix 11mm Blackstone, Zeiss Batis 18mm and Samyang XP 14mm</h2>
 <div class="table-responsive">
 <table class="tableizer-table">
 <thead><tr><th></th><th>Sigma 14mm DG HSM ART</th><th>Irix 11mm Blackstone</th><th>Zeiss Batis 18mm</th><th>Samyang XP 14mm</th></tr></thead><tbody>
@@ -40,6 +40,10 @@ I also have the Zeiss Batis 25mm beside my manual Samyang 14mm and to be honest 
  <tr><td>Focus</td><td>auto</td><td>manual</td><td>auto</td><td>auto</td></tr>
 </tbody></table>
 </div>
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 I only use my Samyang lens occasionally and would not really need the high aperture.
 

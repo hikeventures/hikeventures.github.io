@@ -12,14 +12,13 @@ tags:
   - watch
 image: https://c5.staticflickr.com/6/5450/9599011940_504b6d399e_k.jpg
 ---
-Apple and Suunto recently announced their new smartwatches - the Apple Watch Series 2 and the Suunto Spartan HR. As I use my watch mainly for running and hiking I am interested in a watch which is water resistant and offer a long battery life. Both watches - the <a href="http://amzn.to/2pkGVh8" rel="nofollow" target="_blank">Suunto Spartan HR</a> and the Apple Watch 2 offer water resistant but the big question is still which performs better in battery life? (Update 26.01.2017: Garmin has released the [Fenix 5X](http://amzn.to/2jse5Ht) which I would currently buy as my favorite outdoor watch since it also offers the possibility to upload topo maps). However, it weights a tiny bit more than the Suunto Spartan and if you only need your watch for running shorter distances (maybe up to a half marathon) and you have already an iPhone then the <a href="http://amzn.to/2pKb4Gt" rel="nofollow">Apple Watch 2</a> is probably a better choice since it is more versatile.
+Apple and Suunto recently announced their new smartwatches - the Apple Watch Series 2 and the Suunto Spartan HR. As I use my watch mainly for running and hiking I am interested in a watch which is water resistant and offer a long battery life. Both watches - the Suunto Spartan HR and the Apple Watch 2 offer water resistant but the big question is still which performs better in battery life? (Update 26.01.2017: Garmin has released the Fenix 5X which I would currently buy as my favorite outdoor watch since it also offers the possibility to upload topo maps).
 
----
+However, it weights a tiny bit more than the Suunto Spartan and if you only need your watch for running shorter distances (maybe up to a half marathon) and you have already an iPhone then the Apple Watch 2 is probably a better choice since it is more versatile.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-> On our packrafting trip in the Sarek National Park in Sweden we had also a Suunto with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
-
----
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 <!--more-->
 

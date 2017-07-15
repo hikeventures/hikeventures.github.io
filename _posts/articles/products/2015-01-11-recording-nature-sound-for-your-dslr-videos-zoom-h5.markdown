@@ -15,11 +15,15 @@ Having used my Sony A7 for over 1 year I am planning to get better sound on my V
 
 <amp-img src="https://farm8.staticflickr.com/7468/15630751654_424fb06abb_b.jpg" width="1024" height="657" layout="responsive" alt="best external audio recorder Zoom H5 sony a7"></amp-img>
 
-> My <a href="http://amzn.to/1yTJDZs" rel="nofollow">Zoom H5</a> on top of a Slik tripod
+> My Zoom H5 on top of a Slik tripod
 
-First of all it was important to know which type of microphone I would need. The <a href="http://amzn.to/1yTJDZs" rel="nofollow">Zoom H5</a> comes with an X/Y microphone which seems to be a good microphone to record the environment but also towards a certain direction. I will also get the the <a href="http://amzn.to/1y2BLVy" rel="nofollow">APH-5</a> extension pack for the Zoom H5 next week which comes with a wind shield and a remote control.
+First of all it was important to know which type of microphone I would need. The Zoom H5 comes with an X/Y microphone which seems to be a good microphone to record the environment but also towards a certain direction. I will also get the the APH-5 extension pack for the Zoom H5 next week which comes with a wind shield and a remote control.
 
-You could also buy the new <a href="http://amzn.to/2dUJ64d" rel="nofollow" target="_blank">Zoom H4n Pro</a> if you are on a budget but I prefer the Zoom H5 since you can detach the X/Y microphone if you don't need it. Also the level control on the front is much nice on the H5. For a more focused recording (e.g. if you want to record a bird in the distance), a shotgun microphone would be even better and I might consider buying a <a href="http://amzn.to/14jumU0" rel="nofollow">Sennheiser MKE 600</a> in the future as well.
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
+
+You could also buy the new Zoom H4n Pro if you are on a budget but I prefer the Zoom H5 since you can detach the X/Y microphone if you don't need it. Also the level control on the front is much nice on the H5. For a more focused recording (e.g. if you want to record a bird in the distance), a shotgun microphone would be even better and I might consider buying a Sennheiser MKE 600 in the future as well.
 
 ---
 

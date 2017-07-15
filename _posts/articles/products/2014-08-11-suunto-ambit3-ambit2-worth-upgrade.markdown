@@ -24,7 +24,9 @@ Suunto recently released the <a href="http://amzn.to/2eAj31a" rel="nofollow" tar
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
 > On our packrafting trip in the Sarek National Park in Sweden we had also a Suunto with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
----
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 # Connectivity
 The Suunto Ambit 3 allows you to connect the watch with a tablet or smartphone via Bluetooth. You can also synchronise pictures on your smartphone with data from the Suunto Ambit3. There is no USB cable needed anymore to transfer data from your watch to your computer. This should also have an impact on the lifespan of the battery of the watch.
