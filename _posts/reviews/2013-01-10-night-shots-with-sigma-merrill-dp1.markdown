@@ -24,4 +24,6 @@ Prison of Vaasa (next to the shore and in the city center!)
 
 Bridge which connects Vaasa with Sundom
 
-<a href="http://www.flickr.com/photos/90204224@N07/" target="_new">Visit HikeVentures on Flickr!</a>
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>

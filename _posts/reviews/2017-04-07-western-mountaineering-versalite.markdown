@@ -54,7 +54,7 @@ There is not much to complain about the Western Mountaineering VersaLite. I like
 
 However, for Scandinavia this is easily a great sleeping bag which can be used during 3 seasons and even during the winter if it’s not that cold or you layer it with another sleeping bag if you are tight on budget to get a dedicated winter sleeping bag.
 
-A great sleeping pad companion for the WM VersaLite is the <a href="http://amzn.to/2og8uXo" rel="nofollow">Therm-a-Rest NeoAir XTherm</a> which weights about 400 grams and which I have also used in Northern Norway (see picture above).
+A great sleeping pad companion for the WM VersaLite is the Therm-a-Rest NeoAir XTherm which weights about 400 grams and which I have also used in Northern Norway (see picture above).
 
 <br>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

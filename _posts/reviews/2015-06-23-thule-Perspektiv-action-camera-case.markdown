@@ -74,8 +74,6 @@ On the other hand, the answer is “no”, because for its size and capacity, th
 
 On the whole, even though it is not waterproof and weighs almost 230 grams, I really like the storage space, the two separate compartments (each one designed for a different purpose), the adaptability and versatility of its usage as well as the overall quality of the case. Once again, this Thule Perspektiv Action Camera Case shows that it was designed with the needs of the end customer in mind and it does what it promises to do – to keep your action camera(s) safe and in one place in-between the jobs.
 
-<a href="http://www.moosejaw.com/moosejaw/shop/product_Thule-Perspektiv-Action-Sports-Camera-Case_10246911_10208_10000001_-1_" rel="nofollow"><button type="button" class="btn btn-danger">See the Thule Perspektiv Action Camera Case</button></a>
-
 <br>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>

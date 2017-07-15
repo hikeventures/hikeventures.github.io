@@ -32,8 +32,6 @@ This bag is small and fits easily into every backpack. You can carry it with a s
 ## Recommendation
 Manufacturing and materials seems to have high quality on the Aquapac Waterproof Camera Pouch. This seems to be a good bag for outdoor activities where water is involved. However, I found it a bit difficult to access the camera quickly. The Ortlieb camera bags seems to be a better alternative regarding accessing your camera quickly.  The Aquapac  Waterproof Camera Pouch has 5 years warranty and is PVC free. The Aquapac customer service was also helpful. I always got an answer to my emails and was promised to send the pouch bag in case the size would be too small.
 
-<a href="http://www.sunnysports.com/nspc/p-apcspcp/aquapac-storm-proof-camera-pouch/" rel="nofollow"><button type="button" class="btn btn-danger">See the Aquapac Camera Pouch</button></a>
-
 <br>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>

@@ -26,8 +26,6 @@ Then there is a seperate chapter for those of you who would like to become profe
 
 In general I liked this book and would recommend it especially if you are new into outdoor photography and would like to get an insight or an overview about outdoor photography either as a hobby or if you are playing with the idea on becoming a professional. I really liked that the text is complemented with many pictures which gave me some inspirations which I have not thought of before reading this book. There could have been more ideas about post processing but if you are new to lightroom then you will get a good overview on how to use it as a tool.
 
-If you are interested in this book you can buy it from <a href="http://amzn.to/1cd4LA5" rel="nofollow">here</a>.
-
 <br>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
