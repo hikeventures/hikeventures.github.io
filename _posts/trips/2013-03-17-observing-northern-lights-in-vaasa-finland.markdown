@@ -2,7 +2,7 @@
 title: Observing Northern Lights in Vaasa
 description: When Northern Lights appear in Vaasa
 date: 2013-03-17 07:30:00
-category: articles
+category: destinations
 tags:
   - articles
   - vaasa

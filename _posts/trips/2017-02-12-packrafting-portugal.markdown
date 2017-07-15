@@ -3,7 +3,7 @@ layout: post
 title: Packrafting in Portugal
 description: Konstanins packrafting adventure in the Algarve Portugal
 date: 2017-02-12 12:00:00
-category: trips
+category: destinations
 tags:
   - destinations
   - portugal

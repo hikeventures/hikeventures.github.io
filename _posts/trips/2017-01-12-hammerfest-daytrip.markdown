@@ -3,7 +3,7 @@ layout: post
 title: Our day trip from Alta to Hammerfest
 description: We booked a daytrip from Alta to Hammerfest and here is our review
 date: 2017-01-12 14:30:00
-category: trips
+category: destinations
 tags:
   - trips
   - norway

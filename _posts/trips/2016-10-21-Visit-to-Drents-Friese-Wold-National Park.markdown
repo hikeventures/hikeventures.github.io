@@ -3,7 +3,7 @@ layout: post
 title: Playing in a Giant Sandpit or a Short Visit to Drents-Friese Wold National Park
 description: A microadventure in the North of the Netherlands
 date: 2016-10-21 00:30:00
-category: trips
+category: destinations
 tags:
   - destination
   - hiking

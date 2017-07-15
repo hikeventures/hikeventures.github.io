@@ -4,7 +4,7 @@ layout: post
 title: Video - Day Trip from Alta to Hammerfest by bus
 description: In this video you can see the scenery when driving with the bus from Alta to Hammerfest in Norway
 date: 2017-01-28 07:30:00
-category: article
+category: destinations
 tags:
   - Norway
   - Bus

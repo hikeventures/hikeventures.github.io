@@ -4,7 +4,7 @@ layout: post
 title: Packrafting Course in France
 description: Konstantins participated in a packrafting course in France.
 date: 2017-01-18 12:00:00
-category: trips
+category: destinations
 tags:
   - trips
   - france

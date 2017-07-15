@@ -2,7 +2,7 @@
 title: Hiking at the Lünersee in Vorarlberg
 description: Hiking in the Austrian Alps in Vorarlberg
 date: 2017-07-02 12:14:01
-category: articles
+category: destinations
 tags:
   - articles
   - show

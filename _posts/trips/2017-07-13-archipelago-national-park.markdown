@@ -2,7 +2,7 @@
 title: The Archipelago National Park
 description: Cycling in the Archipelago National Park
 date: 2017-07-13 08:14:01
-category: articles
+category: destinations
 tags:
   - articles
   - finland

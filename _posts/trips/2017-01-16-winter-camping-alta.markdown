@@ -3,7 +3,7 @@ layout: post
 title: Snowshoeing, Huskies and Winter Camping around Alta
 description: Our winter trip around Alta in Northern Norway
 date: 2017-01-16 20:00:00
-category: trips
+category: destinations
 tags:
   - trips
   - norway

@@ -2,7 +2,7 @@
 description: Testing the MSR Revo Ascent, Lightning Ascent, Deploy TR-2 and Flight 2 in the Austrian Alps
 title: Reviewing the MSR Revo Ascent, Ascent Light, Deploy TR-2 and Flight 2 in the Austrian Alps
 date: 2016-02-08 07:28:01
-category: reviews
+category: destinations
 tags:
   - reviews
   - alps
@@ -82,5 +82,3 @@ However, if you are planning to take additional items with you on your snowshoei
 In general, we were satisfied with the MSR snowshoeing gear and we would recommend it to anyone planning a snowshoeing trip with light but quality stuff. We have also tested the MSR snowshoes in [Norway](http://www.hikeventures.com/winter-camping-alta/).
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/24251132954/in/dateposted-public/" title="Snowshoeing in Montafon, Vorarlberg in Austria"><img src="https://farm2.staticflickr.com/1454/24251132954_5625b1c4d3_b.jpg" width="100%" alt="Snowshoeing in Montafon, Vorarlberg in Austria"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<a href="http://amzn.to/2tabi8S" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>

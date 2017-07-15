@@ -3,7 +3,7 @@ layout: post
 title: Highlight of a visit to Alta in Norway -  the Komsa
 description: A daytrip in Alta. Climbing the Komsa in Northern Norway.
 date: 2017-01-18 20:30:00
-category: trips
+category: destinations
 tags:
   - trips
   - norway
