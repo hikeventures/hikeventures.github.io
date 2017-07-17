@@ -225,7 +225,9 @@ The Rab Micro Pull-on is a light fleece pullover. It’s fabric is made of recyc
 * [Zippers](#zippers)  
 * [Thumbholes](#thumbholes)
 * [Hood or no Hood?](#hood-or-no-hood)
+* [Bluesign System](#bluesign)
 * [Combining a fleece jacket with other clothes](#combining-a-fleece-jacket-with-other-clothes)
+
 
 ---
 
@@ -257,6 +259,9 @@ Fleece jackets with thumbholes offers additional protection and insulation durin
 I prefer to have a fleece jacket without a hood because it makes the fleece jacket more versatile and it's more comfortable to wear under another jacket. You can always carry an additional hat with you in case you need one.
 
 ---
+
+### Bluesign System
+Bluesign approved textiles have been manufactured from the beginning of the manufacturing process in a sustainable way and without the use of harmful substances.
 
 ### Combining a fleece jacket with other clothes
 
