@@ -33,7 +33,9 @@ Have a look on our [FAQ](#faq-on-fleece-jackets) to learn more about fleece jack
              </tr>  
         </thead>  
         <tbody>  
-
+        <tr>  
+          <td><a href="http://amzn.to/2twI3fj" target="_blank" rel="nofollow">Mountain Hardwear Microchill 2.0 Zip T</a></td><td>168 grams / 5.9 oz.</td>  
+        </tr>  
         <tr>  
           <td><a href="http://amzn.to/2dBJvs1" target="_blank" rel="nofollow">Arc'teryx Thetis Zip Neck</a></td><td>205 grams / 7.2 oz.</td>  
         </tr>  
@@ -57,6 +59,9 @@ Have a look on our [FAQ](#faq-on-fleece-jackets) to learn more about fleece jack
         </tr>
         <tr>  
           <td><a href="http://amzn.to/2upsVFa" target="_blank" rel="nofollow">Arc'teryx A2B Comp Jacket</a></td><td>367 grams / 12.9 oz.</td>  
+        </tr>  
+        <tr>  
+          <td><a href="http://amzn.to/2v8HREW" target="_blank" rel="nofollow">Outdoor Research Men's Radiant Hybrid Pullover</a></td><td>388 grams / 13.7 oz.</td>  
         </tr>  
         </tbody>  
   </table>  
@@ -160,6 +165,32 @@ The Millet Techno Stretch Zip jacket has been designed for hiking and trekking. 
 
 ---
 
+## Mountain Hardwear Microchill 2.0 Zip T
+
+<a href="https://www.amazon.com/Mountain-Hardwear-Microchill-2-0-Zip/dp/B017UT4UIG/ref=as_li_ss_il?s=sporting-goods&ie=UTF8&qid=1500280029&sr=1-13&keywords=mountain+equipment+fleece&linkCode=li3&tag=hikeve-20&linkId=440e0e81054bccb21a74c7062a998300" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B017UT4UIG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B017UT4UIG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight**: 168 grams / 5.9 oz.  
+**Fabric**: Tecnostretch Fleece
+
+The Mountain Hardwear Microchill 2.0 Zip T is a very light weight fleece made from soft fabric and adapts to your movements.
+
+<a href="http://amzn.to/2upGoNe" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+---
+
+## Outdoor Research Radiant Hybrid Pullover
+
+<a rel="nofollow" href="https://www.amazon.com/Outdoor-Research-Radiant-Pullover-Redwood/dp/B00HHDCRAO/ref=as_li_ss_il?ie=UTF8&qid=1500281049&sr=8-1&keywords=Outdoor+Research+Radiant+Hybrid+Pullover&linkCode=li3&tag=hikeve-20&linkId=846d7a99592dd95687c65f25d92a3378" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HHDCRAO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00HHDCRAO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight**: 388 grams / 13.7 oz.  
+**Fabric**: Radiant Fleece
+
+Wear the Outdoor Research Radiant Hybrid Pullover for skiing or hiking. This fleece offers great weight-insulation ratio. Use the long zipper to vent. There is also a thumb loop to keep your hands warm during the winter when wearing gloves.
+
+<a href="http://amzn.to/2t6BBMKJ" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+---
+
 ## Rab Micro Pull-on
 
 <a  href="http://www.amazon.com/gp/product/B00MVV2BDK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MVV2BDK&linkCode=as2&tag=hikeve-20&linkId=O35AIPYX5EH2BEVJ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00MVV2BDK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00MVV2BDK" width="1" height="1" border="0" alt="Rab Micro Pull-on" style="border:none !important; margin:0px !important;" />  
@@ -202,7 +233,7 @@ If you are more into Ultra-light hiking then zippers won't be probably that appe
 ---
 
 ### Thumbholes
-Fleece jackets with thumbholes on it have the advantage that they can also help to keeping your hands somewhat warm.
+Fleece jackets with thumbholes offers additional protection and insulation during the winter when wearing gloves.
 
 ---
 
