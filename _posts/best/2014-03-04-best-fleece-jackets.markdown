@@ -1,5 +1,5 @@
 ---
-title: Best Fleece Jackets for 2017
+title: Best Fleece Jackets 2017
 description: The best fleece jackets 2017 for hiking and backpacking
 date: 2015-03-04 17:20:20
 update_date: 2017-07-14 06:00:52
