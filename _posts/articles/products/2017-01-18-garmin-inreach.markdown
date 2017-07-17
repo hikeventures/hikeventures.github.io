@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Garmin inReach Explorer+ or SE+ - Differences, new features and preview
+title: Garmin inReach Explorer+ or SE+
 description: A first look on the Garmin inReach Explorer+ and SE+
 date: 2017-01-18 07:30:00
 category: article
@@ -9,9 +9,9 @@ tags:
   - gps
 image: https://c1.staticflickr.com/6/5609/30599065514_3a9dedbf93_k.jpg
 ---
-Garmin has just recently release the inReach Explorer+ and the inReach SE+ after they acquired DeLorme a few months ago. Those new devices are going to replace the old inReach models.
+Garmin has just recently release the inReach Explorer+ and the inReach SE+ after they acquired DeLorme a few months ago. Those new devices are going to replace the old inReach models and I am going to discuss shortly their differences and new features.
 
-Since we own the DeLorme inReach Explorer device we were quite excited to see what the new features and differences of the new Garmin inReach models are beside the external design of the device.
+Since we own the DeLorme inReach Explorer device ourselves we were quite excited to see what the new features and differences of the new Garmin inReach models are beside the external design of the device.
 
 We bought our inReach Explorer because we travel sometimes to places which are not covered by phone signals and it may take a few days to get out of a remote area to reach for help.
 

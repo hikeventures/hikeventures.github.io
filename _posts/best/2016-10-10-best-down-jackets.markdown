@@ -42,7 +42,7 @@ Also have a look on our [FAQ](#faq-on-down-jackets) to learn more about down jac
           <td><a href="http://amzn.to/2doJmJP" target="_blank" rel="nofollow">Arcteryx Cerium LT Hoody (850 fill)</a></td><td>275 grams / 9.7 oz. </td>  
         </tr>  
        <tr>  
-          <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Ran Zero G (1000 FP)</a></td><td>310 grams / 11 oz.</td>  
+          <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Ran Zero G (1000 fill)</a></td><td>310 grams / 11 oz.</td>  
         </tr>  
         <tr>  
           <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Marmot Quasar Hoody (850 fill)</a></td><td>372 grams / 13.1 oz.</td>  
