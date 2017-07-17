@@ -36,7 +36,10 @@ Have a look on our [FAQ](#faq-on-fleece-jackets) on fleece jackets if you have m
         </thead>  
         <tbody>  
         <tr>  
-          <td><a href="http://amzn.to/2dBJvs1" target="_blank" rel="nofollow">Arcteryx Thetis Zip Neck</a></td><td>205 grams / 7.2 oz.</td>  
+          <td><a href="http://amzn.to/2upsVFa" target="_blank" rel="nofollow">Arc'teryx A2B Comp Jacket</a></td><td>367 grams / 12.9 oz.</td>  
+        </tr>  
+        <tr>  
+          <td><a href="http://amzn.to/2dBJvs1" target="_blank" rel="nofollow">Arc'teryx Thetis Zip Neck</a></td><td>205 grams / 7.2 oz.</td>  
         </tr>  
         <tr>  
           <td><a href="http://amzn.to/2eTDybV" target="_blank" rel="nofollow">Mammut Moench Longsleeve</a></td><td>205 grams / 7.2 oz. </td>  
@@ -45,7 +48,7 @@ Have a look on our [FAQ](#faq-on-fleece-jackets) on fleece jackets if you have m
           <td><a href="http://amzn.to/2elW3qj" target="_blank" rel="nofollow">Rab Micro Pull-on</a></td><td>238 grams / 8.4 oz.</td>  
         </tr>  
         <tr>  
-          <td><a href="http://amzn.to/2evRjuo" target="_blank" rel="nofollow">Arcteryx Delta LT Zip Neck</a></td><td>240 grams / 8.5 oz.</td>  
+          <td><a href="http://amzn.to/2evRjuo" target="_blank" rel="nofollow">Arc'teryx Delta LT Zip Neck</a></td><td>240 grams / 8.5 oz.</td>  
         </tr>  
         <tr>  
           <td><a href="http://amzn.to/2utZSjm" target="_blank" rel="nofollow">Berghaus Spectrum Micro 2.0 Half Zip Fleece</a></td><td>330 grams / 11.6 oz.</td>  
@@ -57,9 +60,23 @@ Have a look on our [FAQ](#faq-on-fleece-jackets) on fleece jackets if you have m
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 
+
+## Arc'teryx A2B Comp Jacket
+
+<a rel="nofollow" href="https://www.amazon.com/Arc'teryx-A2B-Comp-Jacket-Roman/dp/B01GFMS5FS/ref=as_li_ss_il?ie=UTF8&qid=1500274654&sr=8-15&keywords=Arc'teryx&linkCode=li3&tag=hikeve-20&linkId=df239709be0b2226be2805f377c73fa6" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01GFMS5FS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B01GFMS5FS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight**: 367 grams / 12.9 oz.  
+**Fabric**: Gore-Tex Windstopper, Fleece and Wool
+
+Arc'teryx A2B Comp Jacket is made for the urban cycler. Wear this jacket in the morning when you cycle to work or on chilly days. The advantage of this fleece jacket is that it is also windproof.
+
+<a href="http://amzn.to/2upsVFa" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+---
+
 ## Arc'teryx Delta LT Zip Neck
 
-<a href="http://www.amazon.com/gp/product/B00GW7ZQG8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZQG8&linkCode=as2&tag=hikeve-20&linkId=TWGUKPE3JX4IKWXK" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7ZQG8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7ZQG8" width="1" height="1" border="0" alt="Arcteryx Delta LT Zip Neck" style="border:none !important; margin:0px !important;" />  
+<a href="http://www.amazon.com/gp/product/B00GW7ZQG8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZQG8&linkCode=as2&tag=hikeve-20&linkId=TWGUKPE3JX4IKWXK" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7ZQG8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7ZQG8" width="1" height="1" border="0" alt="Arc'teryx Delta LT Zip Neck" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 240 grams / 8.5 oz.  
 **Fabric**: Polartec Classic 100 Micro Velour Small Grid  
@@ -68,9 +85,11 @@ The Arc’teryx Delta LT Zip Neck is also a nice fleece. I have currently the De
 
 <a href="http://www.amazon.com/gp/product/B00GW7ZQG8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZQG8&linkCode=as2&tag=hikeve-20&linkId=TWGUKPE3JX4IKWXK" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
+---
+
 ## Arc'teryx Thetis Zip Neck
 
-<a href="http://www.amazon.com/gp/product/B00GW7XOMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7XOMQ&linkCode=as2&tag=hikeve-20&linkId=KYPIGZUYHRQY4JNT" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7XOMQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7XOMQ" width="1" height="1" border="0" alt="Arcteryx Thetis Zip Neck" style="border:none !important; margin:0px !important;" />  
+<a href="http://www.amazon.com/gp/product/B00GW7XOMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7XOMQ&linkCode=as2&tag=hikeve-20&linkId=KYPIGZUYHRQY4JNT" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7XOMQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7XOMQ" width="1" height="1" border="0" alt="Arc'teryx Thetis Zip Neck" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 205 grams / 7.2 oz.  
 **Fabric**: Polartec Power Dry  
