@@ -45,6 +45,9 @@ A wind jacket does not need much space so you can easily store it in your backpa
         </tr>  
         <tr>  
           <td><a href="http://amzn.to/2elVY64" target="_blank" rel="nofollow">Arcteryx Squamish Hoody</a></td><td>155 grams / 5.5 oz.</td>  
+        </tr>
+        <tr>  
+          <td><a href="http://amzn.to/2uq2Ndd" target="_blank" rel="nofollow">Berghaus Ben OSS Windproof Hoodie</a></td><td>571 grams / 20.1 oz.</td>  
         </tr>  
         </tbody>  
 </table>  
@@ -76,6 +79,17 @@ The Incendo Hoody is more a running jacket than a hiking jacket but could be an 
 The Arc’teryx Squamish Hoody comes with a hood, full front zip and a front pocket. This jacket also has cuff adjusters and a reflective logo.  
 
 <a href="http://amzn.to/2elVY64" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+## Berghaus Ben OSS Windproof Hoodie
+
+<a rel="nofollow" href="https://www.amazon.com/Berghaus-Fleece-Hooded-Jacket-Poseidon/dp/B01N7WNY4I/ref=as_li_ss_il?ie=UTF8&qid=1500273351&sr=8-30&keywords=berghaus&linkCode=li3&tag=hikeve-20&linkId=0db6066019ee59868c5cab8c5d5358ee" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N7WNY4I&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B01N7WNY4I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight**: 571 grams / 20.1 oz.  
+**Fabric**: Gore-Tex Windstopper
+
+The Ben Oss is made for those chilly days in the backcountry. It comes with an adjustable hem and adjustable cuffs. There is also room to store small items in the zipped pocket on the chest.
+
+<a href="http://amzn.to/2uq2Ndd" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ## Patagonia Houdini
 
