@@ -1,6 +1,6 @@
 ---
 title: Best Fleece Jackets for 2017
-description: Top 5 of the best fleece jackets 2015 for hiking and backpacking
+description: The best fleece jackets 2017 for hiking and backpacking
 date: 2015-03-04 17:20:20
 update_date: 2017-07-14 06:00:52
 category: articles
@@ -8,14 +8,16 @@ image: https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg
 tags:
   - articles
   - best
-  - jackets
+  - fleece jackets
 layout: post
 ---
-Here is my selection of the best lightweight fleece jackets for 2017.  Are you planning an outdoor adventure to a place where it’s wet or humid? Then you should have a warm lightweight fleece jacket in your backpack.  
+Here is my [selection](#the-best-fleece-jackets-of-2017) of the best lightweight fleece jackets for 2017.  Are you planning an outdoor adventure to a place where it’s wet or humid? Then you should have a warm lightweight fleece jacket in your backpack.  
 
-For wet conditions a fleece jacket is a much better choice than a [down jacket](http://www.hikeventures.com/best-down-jackets/) to protect yourself against the cold as down will lose it’s insulation once it’s wet.   
+For wet conditions a fleece jacket is a much better choice than a [down jacket](http://www.hikeventures.com/best-down-jackets/) to protect yourself against the cold as down will lose it’s insulation once it’s wet. An alternative to a fleece jacket would be a [synthetic insulated jacket](http://www.hikeventures.com/best-synthetic-insulated-jackets/) which has the advantage of being windproof.
 
-A fleece jacket can be used as a mid-layer to keep you warm while you are active (climbing, hiking, skiing or biking) and dries rather fast compared to other fabrics like cotton.  
+A fleece jacket can be used as a mid-layer to keep you warm while you are active (climbing, hiking, skiing or biking) and dries rather fast compared to other fabrics like cotton.
+
+Have a look on our [FAQ](#faq-on-fleece-jackets) on fleece jackets if you have more questions.
 
 **Update**: Most recently, I bought the [Power Houdi](http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fhoudini-power-houdi-full-zip-hooded-fleece-sweatshirt-mens) which is now my go-to fleece jackets on all my trips. I really like that it feels soft on the skin and adapts well to movements.  
 
@@ -103,7 +105,11 @@ The Rab Micro Pull-on is a light fleece pullover. It’s fabric is made of recyc
 ## FAQ on Fleece Jackets
 * [Fabric of Fleece Jackets](#fleece-fabrics)  
 * [Zippers](#zippers)  
+* [Thumbholes](#thumbholes)
+* [Hood or no Hood?](#hood-or-no-hood)
 * [Combining a fleece jacket with other clothes](#combining-a-fleece-jacket-with-other-clothes)
+
+---
 
 ### Fabric of fleece jackets
 
@@ -115,13 +121,27 @@ Fleece jackets come in different fabrics and depending on the material a fleece 
 
 **Polartec Power Stretch** might be more interesting for those folks going climbing since it is more stretchy.   
 
+---
+
 ### Zippers
  Zippers can add an additional function to your fleece jacket. Either as a pocket zipper or to open and close your jacket.
 
 If you are more into Ultra-light hiking then zippers won't be probably that appealing to you since they add on weight. However, in some cases a zipper to open or close your jacket can be more comfortable. Pocket zippers might be useful if you want to store safely small items or tools.
 
+---
+
+### Thumbholes
+Fleece jackets with thumbholes on it have the advantage that they can also help to keeping your hands somewhat warm.
+
+---
+
+### Hood or no Hood?
+I prefer to have a fleece jacket without a hood because it makes the fleece jacket more versatile and it's more comfortable to wear under another jacket. You can always carry an additional hat with you in case you need one.
+
+---
+
 ### Combining a fleece jacket with other clothes
 
 A good idea is also to combine a fleece jacket with a [wind jacket](http://www.hikeventures.com/best-windjackets/). A wind jacket protects you from cold winds while the fleece jacket offers insulation.
 
-Fleece jackets are not windproof and you won’t sweat that much in a wind jacket than in a [rain jacket](http://www.hikeventures.com/rain-jackets-2017/) when you are hiking.
+Fleece jackets are not windproof and you won’t sweat that much in a wind jacket than in a rain jacket when you are hiking. When it starts raining you can exchange your wind jacket with a [rain jacket](http://www.hikeventures.com/rain-jackets-2017/).
