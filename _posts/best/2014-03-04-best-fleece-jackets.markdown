@@ -50,6 +50,12 @@ Have a look on our [FAQ](#faq-on-fleece-jackets) to learn more about fleece jack
           <td><a href="http://amzn.to/2utZSjm" target="_blank" rel="nofollow">Berghaus Spectrum Micro 2.0 Half Zip Fleece</a></td><td>330 grams / 11.6 oz.</td>  
         </tr>
         <tr>  
+          <td><a href="http://amzn.to/2t6Rzqb" target="_blank" rel="nofollow">Millet Techno Stretch Zip</a></td><td>350 grams / 12.3 oz.</td>  
+        </tr>
+        <tr>  
+          <td><a href="http://amzn.to/2u0sLBp" target="_blank" rel="nofollow">Marmot Reactor Jacket</a></td><td>360 grams / 12.7 oz.</td>  
+        </tr>
+        <tr>  
           <td><a href="http://amzn.to/2upsVFa" target="_blank" rel="nofollow">Arc'teryx A2B Comp Jacket</a></td><td>367 grams / 12.9 oz.</td>  
         </tr>  
         </tbody>  
@@ -126,6 +132,31 @@ The Mammut Moench Longsleeve features a stretchy fabric which should keep you dr
 ---
 
 <a href="http://www.amazon.com/gp/product/B005JWKXC4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005JWKXC4&linkCode=as2&tag=hikeve-20&linkId=AM7UMWDALROAZGHE" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+---
+
+## Marmot Reactor Jacket
+<a rel="nofollow" href="https://www.amazon.com/Marmot-Reactor-Jacket-Cobalt-X-Large/dp/B005BXY4GM/ref=as_li_ss_il?s=apparel&ie=UTF8&qid=1500278279&sr=1-1&nodeID=7141123011&psd=1&keywords=marmot+fleece&linkCode=li3&tag=hikeve-20&linkId=bb2fc477cd722fb90803c433cb433e17" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005BXY4GM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B005BXY4GM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight**: 360 grams / 12.7 oz.  
+**Fabric**: Polartec Classic 100
+
+The Marmot Reactor Jacket is a lightweight fleece which comes with a velour construction which traps the air to retain body heat and a wind flap behind the front zipper.
+
+<a href="http://amzn.to/2u0sLBp" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+---
+
+## Millet Techno Stretch Zip
+
+<a rel="nofollow" href="https://www.amazon.com/Millet-Mens-Technostretch-Zip-Black/dp/B00DUUCHP8/ref=as_li_ss_il?ie=UTF8&qid=1500279424&sr=8-1&keywords=millet+technostretch&linkCode=li3&tag=hikeve-20&linkId=4ba356ebb0b9ed6c0251178b28961919" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DUUCHP8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00DUUCHP8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight**: 350 grams / 12.3 oz.  
+**Fabric**: Tecnostretch Fleece
+
+The Millet Techno Stretch Zip jacket has been designed for hiking and trekking. It's stretch fabric offers ease of movement, flatlock seams, protective collar, adjustable hem, cuffs and a sporty cut. There is also a zipped chest pocket to store small items.
+
+<a href="http://amzn.to/2t6Rzqb" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
 
