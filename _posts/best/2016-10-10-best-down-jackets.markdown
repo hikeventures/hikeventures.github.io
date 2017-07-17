@@ -248,7 +248,8 @@ Usually, I wash my down jacket by hand. However, it can also gently be washed in
 
 ### How to fluff?  
 A big tumbler can be used to dry the down jacket. Also add a few tennis balls to get the down fluffy.  
----  
+
+---
 
 ### How to pack and store it?  
 I have one dedicated dry bag where I stuff my down jacket and my sleeping bag in. Down products need much less space than synthetic products and the best way to get as much space as possible is to compress down in a compression bag.
