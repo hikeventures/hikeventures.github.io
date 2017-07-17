@@ -223,11 +223,11 @@ This is one of the lightest 1000 fill power down jacket on the market.
 
 ## FAQ on Down Jackets
 
-* [When to wear?](#when-to-wear?)    
-* [What is fill power?](#what-is-fill-power?)    
-* [How to wash?](#how-to-wash?)  
-* [How to fluff it?](#how-to-fluff?)  
-* [How to pack and store it?](#how-to-pack-and-store-it?)  
+* [When to wear?](#when-to-wear)    
+* [What is fill power?](#what-is-fill-power)    
+* [How to wash?](#how-to-wash)  
+* [How to fluff it?](#how-to-fluff)  
+* [How to pack and store it?](#how-to-pack-and-store-it)  
 
 ---  
 
