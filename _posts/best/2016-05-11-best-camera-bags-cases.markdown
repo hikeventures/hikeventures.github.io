@@ -33,6 +33,10 @@ As I have recently upgraded my own camera, I was in need of a new camera case wh
              </tr>
         </thead>
         <tbody>
+
+        <tr>
+          <td><a href="http://amzn.to/2thGUwL" target="_blank" rel="nofollow">USA GEAR DuraNeoprene DSLR FlexARMOR Sleeve Case</a></td><td>100g</td>
+        </tr>
         <tr>
           <td><a href="http://amzn.to/29zNP9o" target="_blank" rel="nofollow">Aquapac Waterproof SLR Camera Case</a></td><td>216g</td>
         </tr>
@@ -66,6 +70,19 @@ As I have recently upgraded my own camera, I was in need of a new camera case wh
 <br>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
+
+## USA GEAR DuraNeoprene DSLR FlexARMOR Sleeve Case
+
+<a rel="nofollow" href="https://www.amazon.com/USA-GEAR-DuraNeoprene-FlexARMOR-Sleeve/dp/B0037TEO3K/ref=as_li_ss_il?ie=UTF8&qid=1500258937&sr=8-6&keywords=camera+bag+a7&linkCode=li3&tag=hikeve-20&linkId=ecb223684454b57000a954f331834989" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0037TEO3K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B0037TEO3K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight**: 100 grams
+**Dimensions**: 7 x 6.2 x 3.2 inches
+
+The USA GEAR DuraNeoprene DSLR FlexARMOR Sleeve Case might be a good choice if you are looking for a lightweight camera protection which does not take too much space away. The case is not waterproof since it's made of neoprene.
+
+<a href="http://amzn.to/2uz0yEG" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+<hr>
 
 ## Aquapac Waterproof SLR Camera Case
 
