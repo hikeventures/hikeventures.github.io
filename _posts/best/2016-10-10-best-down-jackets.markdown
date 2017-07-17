@@ -11,7 +11,7 @@ tags:
   - jackets
 layout: post
 ---
-In this blog post I have selected the [best down jackets](#The-best-down-jackets-of-2017) of 2017 which I would consider to buy if I were to get a  new one for my next backpacking or winter adventure.  
+In this blog post I have selected the [best down jackets](#the-best-down-jackets-of-2017) of 2017 which I would consider to buy if I were to get a  new one for my next backpacking or winter adventure.  
 
 A down jacket is one of the most essential piece of clothes when planning a trip outdoors with a tent. A down jacket keeps you much warmer compared than a fleece jacket.
 
