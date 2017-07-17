@@ -18,8 +18,10 @@ After our [packrafting trip](http://www.hikeventures.com/Kaldoaivi/) in Finnish 
 
 <amp-img src="https://c6.staticflickr.com/9/8864/28716097805_72fe8dc689_k.jpg" width="2048" height="1365" alt="Hiking and Packrafting in Norway" layout="responsive"></amp-img>
 
-
+<br>
 <!--more-->
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 The border between Finland and Norway is nothing special. There was a custom office but no passport control. I jumped out of the car as I always wanted to walk over the Finnish - Norwegian border.
 

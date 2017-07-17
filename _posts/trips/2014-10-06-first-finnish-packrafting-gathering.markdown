@@ -15,8 +15,10 @@ Last weekend I have been to the first Finnish Packrafting Gathering in Finland w
 
 <amp-img src="https://farm4.staticflickr.com/3933/15455162392_6e03ca6687_b.jpg" width="952" height="635" alt="First Finnish Packrafting Gathering" layout="responsive"></amp-img>
 
+<br>
 <!--more-->
-
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 We met at the Kuovinkallio shelter on Friday evening at around 6 pm where we pitched our tents and gathered around the camp fire to grill sausages while others went already paddling for an hour.
 
 [![First Finnish Packraft Gathering][image-2]][3]

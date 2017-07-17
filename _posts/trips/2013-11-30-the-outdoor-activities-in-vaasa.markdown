@@ -14,8 +14,11 @@ image: https://farm8.staticflickr.com/7351/9254204449_a5a54041ed_h.jpg
 Vaasa is a small town with a population of 67.000 souls on the west coast of Finland. The area is more or less flat with the exception of &#214;jberget, which is located about 5 km outside of Vaasa where you can go downhill and cross-country skiing.
 
 <amp-img src="https://farm8.staticflickr.com/7351/9254204449_a5a54041ed_h.jpg" width="1600" height="1067" alt="Risö Lintutorni" layout="responsive"></amp-img>
+<br>
 <!--more-->
-
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 If you are interested in climbing, then you can give it a try in the <a href="http://www.highsport.fi" target="_blank">water tower</a> of Vaasa - straight in the city centre next to the tourist office.
 
 For those who like hiking trips, a ride to Bj&#246;rkeby or &#214;jen (40km north of Vaasa) might be an option to enjoy the Kvarken Archipelago - an UNESCO world heritage site. kvarkenworldheritage.fi is a good website to find more information about the Kvarken Archipelago. Unfortunately, public transportation is quite bad in the Vaasa region so having a car or taking a taxi is more or less the only way to get there (or with a bicycle if you are still in the mood to hike once you arrive there).

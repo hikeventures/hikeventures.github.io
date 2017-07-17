@@ -16,6 +16,10 @@ This time we went for an adventure to the Seitseminen National Park. Unfortunate
 [![Hiking in Seitseminen Swamp][image-1]][1]
 <!--more-->
 
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
+
 The park is quite suitable for shorter hikes but can be extended by visiting the neighboring Helvetinjärvi National Park. Facilities in the Seitseminen National Park are quite good and there are plenty of wells and shelters where you can stay over night.
 
 If you like mushrooms, make sure to keep your eyes open. You can collect them on the way and prepare a prepare a nice dinner later on in the camp.

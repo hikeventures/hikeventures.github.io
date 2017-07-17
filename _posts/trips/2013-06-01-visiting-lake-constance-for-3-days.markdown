@@ -14,13 +14,16 @@ image: https://farm3.staticflickr.com/2822/8915058739_a89786bf10_b.jpg
 The lake constance area is a great place if you are looking for multiple activities in your vacation. The lake constance is located between Germany, Switzerland and Austria and gives you the possibility to visit 3 countries in 1 day with a bicycle. Beside cycling you can also go to the Alps hiking or skiing or enjoy a great view from the W&uuml;rttembergischen Allg&auml;u towards the Alps. From here you are able to see the Alps from Germany, Austria, Switzerland and France.
 
 <amp-img src="https://farm3.staticflickr.com/2822/8915058739_a89786bf10_b.jpg" width="1024" height="683" alt="panorama bodensee pfänder visiting lake constance bodensee" layout="responsive"></amp-img>
-
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 Swiss Alps were close to my fingertips.
 
-<a href="https://www.flickr.com/photos/90204224@N07/8915674846" title="Eichenberg Austria by HikeVentures, on Flickr"><img src="https://farm4.staticflickr.com/3692/8915674846_21740377a2_b.jpg" width="1024" height="683" alt="Eichenberg Austria" alt="backpacking lake constance bodensee"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/8915674846" title="Eichenberg Austria"><img src="https://farm4.staticflickr.com/3692/8915674846_21740377a2_b.jpg" width="1024" height="683" alt="Eichenberg Austria" alt="backpacking lake constance bodensee"></a>
 
 Eichenberg in Austria - From here I had an awesome view towards the lake constance. You can park your car and ascent the Pf&auml;nder - a mountain in Vorarlberg/Austria.
 

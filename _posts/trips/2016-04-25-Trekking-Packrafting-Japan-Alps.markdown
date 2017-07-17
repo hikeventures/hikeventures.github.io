@@ -14,7 +14,10 @@ Last year we spent four days trekking in the Northern Alps of Japan - one of the
 
 <amp-img src="https://farm2.staticflickr.com/1539/26358043250_a0130d9189_b.jpg" width="1024" height="680" alt="Trekking and Packrafting in Japan Northern Alps" layout="responsive"></amp-img>
 
+<br>
 <!--more-->
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 ## An unusual take of an iconic view
 Do you recognise where we were? It is one of the three most iconic views in Japan.

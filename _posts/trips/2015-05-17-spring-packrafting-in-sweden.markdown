@@ -16,9 +16,10 @@ This spring Konstantin from HikeVentures teamed up with <a href="http://www.urba
 
 As the next Swedish Packrafting Gathering is going to take place in just over one months (5-8 May), I would like to share some pictures that I took at the first event that took place last April. And here is how it started...
 
+<br>
 <!--more-->
-
-
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 <amp-img src="https://farm2.staticflickr.com/1443/25644251223_332a48070a_b.jpg" width="100%" alt="Snowshoeing and Cross-Country Skiing in Finnish Lapland - Finland" layout="responsive"></amp-img>
 
 Jacob (Urbanpackrafter.com) and I arrived at the rendez-vous place in the deep darkness after midnight. We were greeted by Henrik (The Deliverance Team) and the guys who had already settled in the open shelter (where we also joined them). All five of us sleeping side by side, I was happy brought earplugs

@@ -16,8 +16,10 @@ This Halloween, we decided to go to Lake Suolijärvi nearby Hyvinkää in Finlan
 
 <amp-img src="https://farm4.staticflickr.com/3938/15687184261_2c7af34fd4_b.jpg" width="952" height="635" alt="Iso-Haiskari - Alpacka Raft Yukon Yak Finland" layout="responsive"></amp-img>
 
+<br>
 <!--more-->
-
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 ## 1. Kytäjärvi to Iso-Haiskari
 We started our trip from the car park next to lake Kytäjärvi, crossed it via the dam and followed the trail while passing by horse stables and farms. After a hike of 3 km we arrived in our first camp Iso-Haiskari.
 

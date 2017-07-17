@@ -14,9 +14,11 @@ image: https://farm4.staticflickr.com/3677/9592075355_2b498ef41c_b.jpg
 ---
 
 This year we went on a 6 days packrafting and hiking trip in Sarek. We travelled from Vaasa by <a href="http://www.wasaline.com/en/" target="_blank">wasaline ferry</a> to Umea and then by a hiker train (it seemed that the only people who travelled north were planning to go on a hike in the fells) to G&auml;llivare. Transportation to Sarek from Umea is not that frequent so there is a possibility that you have to stay one night in Umea.
-
+<br>
 <!--more-->
-
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 ## Day 1: From Gällivare to Vuosskeljavrre
 <amp-img src="https://farm4.staticflickr.com/3677/9592075355_2b498ef41c_b.jpg" width="1024" height="683" alt="Bus Suorva 93 Ritsem Sarek National Park Sweden Länstrafiken Norrbotten" layout="responsive"></amp-img>
 

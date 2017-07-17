@@ -16,9 +16,11 @@ image: https://farm4.staticflickr.com/3900/15030582219_51eee48e66_b.jpg
 Today I went hiking to the Kurjenrahka National Park in Finland which is located around 30 km north of Turku -  a heaven for mushroom lovers!
 
 <amp-img src="https://farm4.staticflickr.com/3900/15030582219_51eee48e66_b.jpg" width="952" width="635" alt="Kurjenrahka National Park" layout="responsive"></amp-img>
-
+<br>
 <!--more-->
-
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 I parked my car at Kurjenpesä where I found an information board about the National Park.
 
 <a href="https://www.flickr.com/photos/90204224@N07/15030711029" ><img src="https://farm4.staticflickr.com/3914/15030711029_76a7ec385a_b.jpg" width="1024" height="683" alt="backpacking in Kurjenrahka National Park" ></a>

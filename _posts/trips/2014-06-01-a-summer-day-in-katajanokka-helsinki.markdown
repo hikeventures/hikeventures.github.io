@@ -13,9 +13,11 @@ image: https://farm4.staticflickr.com/3791/14318924295_c0c84f4dc4_b.jpg
 This weekend we enjoyed a sunny day in <a href="http://www.visithelsinki.fi" target="_blank">Helsinki</a>. Port of Helsinki with the Uspenski Cathedral in the background.
 
 <amp-img src="https://farm4.staticflickr.com/3791/14318924295_c0c84f4dc4_b.jpg" width="100%" alt="Helsinki Summer 2016" layout="responsive"></amp-img>
-
+<br>
 <!--more-->
-
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 <a href="https://www.flickr.com/photos/90204224@N07/14339117323" title="Ferries Wheel Helsinki"><img src="https://farm6.staticflickr.com/5569/14339117323_c8b037a2da_b.jpg" width="1024" height="683" alt="Ferries Wheel Helsinki"></a><br><br>New ferris wheel in Katajanokka<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/14295779256" title="Big Wheel Helsinki"><img src="https://farm3.staticflickr.com/2899/14295779256_5e51f82b9d_b.jpg" width="1024" height="683" alt="Big Wheel Helsinki"></a><br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/14132286549" title="Helsinki Old Custom Building"><img src="https://farm6.staticflickr.com/5474/14132286549_9a7d72172d_b.jpg" width="1024" height="683" alt="Helsinki Old Custom Building"></a><br><br>Old Customs House in Helsinki<br><br>

@@ -16,7 +16,10 @@ The gear is packed. The packrafts are inflated. The sails are ready. And so we a
 
 <amp-img src="https://c4.staticflickr.com/8/7627/27683698955_0ca3be0e0e_b.jpg" width="1024" height="768" alt="Örö Fortress Island - A Mediterranean gem in Finland" layout="responsive"></amp-img>
 
+<br>
 <!--more-->
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 ## Nature Centre “Blue Mussel” – The Entrance to The Archipelago
 

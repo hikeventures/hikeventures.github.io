@@ -11,9 +11,11 @@ layout: post
 image: https://farm4.staticflickr.com/3791/10641019664_0562b27806_b.jpg
 ---
 Three years ago (2010), I went working to Ireland for 1 year where I also had the opportunity to go for a hike nearby Killarney with two of my fellow worker. The landscape was gorgeous and not comparable to Dublin where I actually lived. After visiting the local tourist office we started hiking equipped with maps and some snacks in our backpacks.
-
+<br>
 <!--more-->
-
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 ## Day 1: Ascent to Corrán Tuathail
 
 <amp-img src="https://farm4.staticflickr.com/3791/10641019664_0562b27806_b.jpg" width="840" height="636" alt="hiking count kerry" layout="responsive"></amp-img>

@@ -16,7 +16,10 @@ Last weekend we decided to visit the Kurjenrahka National Park with <a href="htt
 
 <amp-img src="https://c8.staticflickr.com/9/8806/29998384591_973d97e6ed_k.jpg" width="2048" height="1152" alt="Hiking in the Kurjenrahka National Park" layout="responsive"></amp-img>
 
+<br>
 <!--more-->
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 The trail continued through swamps and since we arrived quite late the sun was setting also slowly.
 

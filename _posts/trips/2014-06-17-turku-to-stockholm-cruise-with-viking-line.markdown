@@ -17,10 +17,11 @@ image: https://farm3.staticflickr.com/2907/14416293746_aace5775a6_b.jpg
 As I was planning to meet Konstantin in Sweden, I took a Viking Ferry in order to get from Turku to Stockholm. I really enjoyed this Viking Cruise with the new ferry, the [Viking Line][1].
 
 <amp-img src="https://farm3.staticflickr.com/2907/14416293746_aace5775a6_b.jpg" width="1024" height="683" alt="view from Viking Grace towards Stockholm City with Finnish Flag Gröna Lund" layout="responsive"></amp-img>
-
-
+<br>
 <!--more-->
-
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 <a href="https://www.flickr.com/photos/90204224@N07/14414858216" title="Viking Line Turku"><img src="https://farm4.staticflickr.com/3873/14414858216_d12ff73788_b.jpg" width="1024" height="683" alt="Viking Line Turku entrance harbor harbour"></a>
 
 The cruise starts at the Viking Terminal in Turku where I got my boarding card. While waiting for getting on board it's possible to get some drinks in the bar of the terminal.

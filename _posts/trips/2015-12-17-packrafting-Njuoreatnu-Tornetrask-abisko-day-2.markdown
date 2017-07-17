@@ -17,7 +17,10 @@ We fell asleep almost instantly the night before in our tent which we pitched on
 <amp-img src="https://farm1.staticflickr.com/668/23038401724_c44ed21b04_b.jpg" width="1024" height="768" alt="Packrafting the Njuoreatnu to Torneträsk - Abisko Sweden" layout="responsive"></amp-img>
 
 
+<br>
 <!--more-->
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 And that's how the tent wall looks like when you go camping in Scandinavia - hungry mosquitoes waiting for their breakfast.
 

@@ -21,7 +21,10 @@ image: https://c7.staticflickr.com/9/8410/29825366374_8a30bcf886_h.jpg
 
 > Marta walking in the biggest sandpit of the Netherlands, also known as the 'bold' dune ('kale duin' in Dutch)
 
+<br>
 <!--more-->
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 
 And, indeed, this is our second time at the D-F NP. A few years ago, we came here by bike, stayed at a Natuurcamping (a special type of camping in the Netherlands that is characterised by their beautiful natural settings) and visited ancient dolmens on the southern edge of the park - this area has been inhabited since the prehistoric times and boasts a rich and diverse cultural landscape, which is another unique selling point of this national park.

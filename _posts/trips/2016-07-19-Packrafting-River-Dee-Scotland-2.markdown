@@ -15,7 +15,10 @@ We had a good night sleep after the [first day](http://www.hikeventures.com/Pack
 
 <amp-img src="https://farm2.staticflickr.com/1651/25215070553_2bf0cca03f_b.jpg" width="1024" height="681" alt="Packrafting in Scotland - River Dee" layout="responsive"></amp-img>
 
+<br>
 <!--more-->
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 The worst was however not to sit in a frozen packraft ...
 

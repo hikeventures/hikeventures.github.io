@@ -15,7 +15,10 @@ image: https://farm2.staticflickr.com/1478/26338936616_fb55b8c11d_b.jpg
 
 Start of the race. This picture was taken last year at the very beginning of the Fjällräven Classic Race. I was the sixth one on the trail (including two runners) and I managed to keep this position virtually until the very end of the 110 km race. And unlike the people in front of me, I was carrying a way more.
 
+<br>
 <!--more-->
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 Originally I was planning to hike the whole distance of 110 km in 4-5 days. But things do not always go as planned and instead I did it in under 54 hours.
 

@@ -15,11 +15,13 @@ image: https://farm1.staticflickr.com/286/19383097710_34f4662be3_o.jpg
 On our trip to Poland we went to South, visiting the Karkonosze National Park via Jelenia Góra. After doing some <a href="http://www.hikeventures.com/Packrafting-River-Bobr-Poland/">Packrafting</a> the day before we decided to go hiking.  Karkonosze Mountains are especially famous for it's legends and fairy tales. It is said that Rübezahl - a mountain spirit should live here. While Konstantin decided to hike to a castle in the mountains I went on a hike to the Polish-Czech border. My <a href="http://amzn.to/1MJFLxk">Suunto Ambit3</a> was quite useful to find the way up to the top as I had no clue where the 'official' trail was. Luckily, I found it half way up. <a href="http://www.hikeventures.com/hiking-packrafting-poland-video/">Here</a> is also a short video.
 
 <amp-img src="https://farm1.staticflickr.com/286/19383097710_34f4662be3_o.jpg" width="846" height="635" alt="Hiking from Poland to Czech Republic. The Karkonosze National Park" layout="responsive"></amp-img>
-
+<br>
 <!--more-->
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
-<br>Sometimes I came accross on these information boards partly sponsored by the European Union.
- <br><br>
+Sometimes I came accross on these information boards partly sponsored by the European Union.
+<br>
 <img src="https://farm4.staticflickr.com/3710/19383106108_ab9890b3f0_o.jpg" width="100%"  >
  <br>
 It was a bit difficult to find the right way up but following the coordinates on my watch the way up should be next to this this building.

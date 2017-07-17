@@ -16,7 +16,10 @@ There was no official path up to the Komsa, or at least we were not able to see 
 
 <amp-img src="https://c1.staticflickr.com/1/584/32116571882_4eb80a5201_k.jpg" width="2048" height="1152" layout="responsive"  alt="Highlight of a visit to Alta in Norway -  the Komsa"></amp-img>
 
+<br>
 <!--more-->
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 From the city centre it's about a 1 hour hike to the top of the Komsa. The hill is easy to recognize since it has an antenna on top of it.
 

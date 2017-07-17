@@ -17,8 +17,11 @@ We arrived in Inshriach rather late on Friday (almost at midnight) and were met 
 
 
 <amp-img src="https://farm5.staticflickr.com/4237/35510048782_3019775825_k.jpg" width="2048" height="1197" layout="responsive" alt="Welcome to Highlands"></amp-img>
+
 <br>
 <!--more-->
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 ## The Morning of Little Discoveries
 Still tired from our long trip the day before, we took our time to wake up the next morning. It was still raining a bit and some water was slowly dripping over our bed – good thing we had noticed it the night before and ‘waterproofed’ ourselves by putting a raincoat over our blankets.

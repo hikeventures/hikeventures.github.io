@@ -15,9 +15,11 @@ image: https://farm4.staticflickr.com/3907/14281650547_4ee73fde90_b.jpg
 One week ago we went to a packrafting trip on the Emån River which is located in south-east of Sweden and flows into the baltic sea. We started our trip in Högsby and paddled all the way down to Påskallavik, spending one night in Fliseryd in our <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/" target="_self">Hilleberg Anjan tent</a>.
 
 <amp-img src="https://farm4.staticflickr.com/3907/14281650547_4ee73fde90_b.jpg" width="1024" height="683" alt="Packrafting Eman River Sweden alpacka raft werner shuna paddle petzl meteor helmet" layout="responsive"></amp-img>
-
+<br>
 <!--more-->
-
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 In Högsby we inflated our Packrafts. Unfortunately, it was raining the whole morning but once we were in the Packraft it was fine.
 
 <a href="https://www.flickr.com/photos/90204224@N07/14466441174/" ><img src="https://farm6.staticflickr.com/5476/14466441174_82e06de31d_b.jpg" width="1024" height="683" alt="Packrafting Eman River Sweden alpacka raft werner shuna paddle hmg porter 4400"></a>

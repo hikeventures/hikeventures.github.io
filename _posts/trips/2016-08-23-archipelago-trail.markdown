@@ -14,7 +14,10 @@ Last Friday I was cycling from Turku along The Turku Archipelago Trail - a 250 k
 
 <amp-img src="https://c6.staticflickr.com/9/8474/28507750853_9b39187d5d_k.jpg" width="2048" height="1152" alt="Cycling the 250 km Turku Archipelago Trail in Finland" layout="responsive"></amp-img>
 
+<br>
 <!--more-->
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 My first stop was the church in Raisio.
 

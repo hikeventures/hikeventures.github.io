@@ -17,6 +17,10 @@ The Nuuksio National Park is located close to Helsinki (1 hour bus trip - 85A fr
 
 <!--more-->
 
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
+
 ## Activities
 Nuuksio National Park is ideal for hiking, cycling or horse riding. The trails are marked and there are also refuges and fire places. You can also go skiing, swimming, packrafting or stroll through the park to pick mushrooms and berries.
 

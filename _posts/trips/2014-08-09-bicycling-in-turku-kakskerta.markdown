@@ -16,10 +16,11 @@ image: https://farm4.staticflickr.com/3909/14845470986_78e1fcc54e_b.jpg
 Today, I went for a 2h (30 km) bicycle trip around Kakskerta island in Turku which is an island next to the Hirvensalo island where I recently moved to.
 
 <amp-img src="https://farm4.staticflickr.com/3909/14845470986_78e1fcc54e_b.jpg" width="1024" height="683" alt="bicycle turku" layout="responsive"></amp-img>
-
-
+<br>
 <!--more-->
-
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 <a href="https://www.flickr.com/photos/90204224@N07/14865737971"><img src="https://farm6.staticflickr.com/5572/14865737971_e6f27164ec_b.jpg" width="1024" height="683" alt="bicycle kakskerta" ></a>
 Getting my Surly bicycle ready ...
 <a href="https://www.flickr.com/photos/90204224@N07/14682286257"><img src="https://farm4.staticflickr.com/3926/14682286257_787dcdcc0b_b.jpg" width="1024" height="683" alt="cycling turku"></a>Kakskerta Information Board

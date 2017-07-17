@@ -14,8 +14,10 @@ Located on the Curonian Spit, Kuršių Nerija National Park is truly a very spec
 
 <amp-img src="https://farm6.staticflickr.com/5611/15508159139_7c3e43ba3a_b.jpg" width="956" height="635" alt="Kuršių Nerija National Park Beach" layout="responsive"></amp-img>
 
+<br>
 <!--more-->
-
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 Even though there are just a few officially designated tracks, there are numerous paths along the coast, though the dunes, and in the forest which are great for walking and cycling. But please remember that the excitement of visiting this easily reachable destination comes from the stunning landscape, rather than from bloodcurdling altitudes or encountering dangerous wild animals.
 In 2000, the area was added to the UNESCO World Heritage List because of its unique ecosystem of the coastal “moving dunes”. The impressive landscape is constantly changing as the strong winds move sand in all directions creating new formations. This ever-changing landscape dates back to the XVI century when the process of cutting trees started. When the trees were removed, the bare sand hills became sensitive to the wind (and as we have experienced it can be a very windy place indeed), so, now, some dunes move up to 20 meters each year.<br><br>
 

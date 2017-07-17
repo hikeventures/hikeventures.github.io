@@ -17,7 +17,10 @@ After a chilly night in our tent which we pitched on a small island we woke up s
 
 <amp-img src="https://farm6.staticflickr.com/5656/23666479785_8413cf951a_b.jpg" width="1024" height="768" alt="Packrafting the Njuoreatnu to Torneträsk - Abisko Sweden" layout="responsive"></amp-img>
 
+<br>
 <!--more-->
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 After crawling out of the tent we explored our little island.
 

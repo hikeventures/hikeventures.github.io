@@ -13,9 +13,11 @@ image: http://farm4.staticflickr.com/3669/10652331775_511c1d55df_c.jpg
 Beginning in late August, Polish forests experience an influx of visitors specialising in the so-called &#39;silent hunt&#39;, which requires a lot of patience, keen eyesight and is not without its dangers. Armed with razor-sharp knives, and in some cases just bare-handed, these hunters comb the forests searching for their illusive pray. The prey, though seemingly benign, can sometimes turn deadly, which is why, besides the steel and muscle, the hunters have to possesses good knowledge, ever- present sense of danger and a keen eye for detail. The silent hunt we are talking about is, of course, the mushroom picking.
 
 <amp-img src="http://farm4.staticflickr.com/3669/10652331775_511c1d55df_c.jpg" width="800" height="531" alt="mushroom picking and hiking in Poland" layout="responsive"></amp-img>
-
+<br>
 <!--more-->
-
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 Coming from the families with ancient traditions of the silent hunt, we were especially happy to try our own hand (and, in this case, our eyes) at locating and bagging the prey, when we visited one of the largest forest area in the West of Poland, the place called Puszcza Notecka (which in English means Notecka forest). It was a beautiful October Sunday: the sun was shining, the temperature was around 20 degrees Celsius, the autumn forest was full of red, yellow and green, some occasional clouds floated over the sky taking their rain somewhere else... in other words just a perfect day for picking mushrooms.
 
 Being around 11 a.m. when we stepped off our train from Poznan (after one and a half hour ride), there were no other silent hunters in sight and we had the whole forest for ourselves. Well, at least that what we thought at first.

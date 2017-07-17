@@ -14,9 +14,11 @@ image: https://farm3.staticflickr.com/2911/14182682836_31b308a3cb_b.jpg
 Today, I went on a day trip to Ruissalo. Ruissalo is the recreational island of Turku. It was involved in the Crimean war between the Swedish and Russians and nowadays it's a paradise for bird watchers, golfers and joggers. Since the island is quite big, I grabbed my bicycle and set off.<br><br>
 
 <amp-img src="https://farm3.staticflickr.com/2911/14182682836_31b308a3cb_b.jpg" width="1024" height="683" alt="Hiking Ruissalo Turku" layout="responsive"></amp-img>
-
+<br>
 <!--more-->
-
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 <a href="https://www.flickr.com/photos/90204224@N07/14018949740" title="Cycling Ruissalo Turku"><img src="https://farm3.staticflickr.com/2920/14018949740_14df9e2b11_b.jpg" width="1024" height="683" alt="Ruissalo Turku"></a><br>
 On my trip I saw migrating birds.
 <br><br>

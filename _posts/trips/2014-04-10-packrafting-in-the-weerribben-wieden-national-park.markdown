@@ -15,9 +15,11 @@ image: https://farm3.staticflickr.com/2903/13975110902_2cb3fb1ba3_b.jpg
 Beginning of April we went to De Weerribben-Wieden National Park in the Netherlands for a hiking and packrafting session where we observed birds and encountered hail.
 
 <amp-img src="https://farm3.staticflickr.com/2903/13975110902_2cb3fb1ba3_b.jpg" width="1024" height="683" alt="Packrafting in the Weerribben-Wieden National Park" layout="responsive"></amp-img>
-
+<br>
 <!--more-->
-
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 The Weerribben-Wieden National Park was founded in 1882 and and parts of the area were used for peat production which are nowadays
 filled with water and offer a possibilty to enjoy the nature by kajak or packraft. The National Park contains the largest contiguous swamp of northwestern Europe. We reached the National Park by train getting off at the Steenwijk train station where we took a bus to the bus stop Wanneperveen Belterweg.
 

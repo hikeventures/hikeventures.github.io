@@ -14,10 +14,11 @@ image: https://farm3.staticflickr.com/2938/14367437345_ae2301ac88_b.jpg
 Today, I packed my packraft and went to the coast of Turku in order to exercise a little bit for our trip in Sweden next week. I paddled around 5 km, however there are endless possibilities to paddle as there are plenty of islands in the Baltic Sea around Turku.
 
 <amp-img src="https://farm3.staticflickr.com/2938/14367437345_ae2301ac88_b.jpg" width="952" height="635" alt="Packrafting in Turku" layout="responsive"></amp-img>
-
-
+<br>
 <!--more-->
-
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 <a href="https://www.flickr.com/photos/90204224@N07/14180924087/" title="Packrafting in Turku"><img src="https://farm3.staticflickr.com/2934/14180924087_43b2a78a7c_b.jpg" width="1024" height="683" alt="Packrafting in Turku"></a><br>Inflating the packraft and checking its condition.<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/14344255006/" title="Teva Northridge"><img src="https://farm3.staticflickr.com/2931/14344255006_0d15150c78_b.jpg" width="1024" height="683" alt="Teva Northridge"></a><br>This is my current packrafting shoe solution - it's modular, dry, waterproof and has a great grip.<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/14343994596/" title="Teva Sandals - Smartwool PHD Socks"><img src="https://farm4.staticflickr.com/3925/14343994596_2248fdd148_b.jpg" width="1024" height="683" alt="Teva Sandals - Smartwool PHD Socks"></a><br>It consists of <a href="http://amzn.to/1ibznPy" target="_blank">Smartwool PHD Socks</a>, <a href="http://bit.ly/TrMWV3" target="_blank">Latex Socks</a> and <a href="http://amzn.to/1kU9u6L" target="_blank">Teva Northridge Sandals</a>.<br><br>

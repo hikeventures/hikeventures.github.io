@@ -15,8 +15,10 @@ On July 24th at 8.50 am it was time to get on board of the Finnair flight AY557 
 
 <amp-img src="https://c2.staticflickr.com/8/7562/28693113745_b251e02b0e_k.jpg" width="2048" height="1536" alt="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland" layout="responsive"></amp-img>
 
-
+<br>
 <!--more-->
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 Having been around Ivalo [last year](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/) during the winter time with Konstantin, I decided to go on a hiking and packrafting trip with [Caj](http://caide.kuvat.fi/) who was also traveling with me earlier this year to the first [Swedish Packrafting Round Up](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/) on the Voxnan river in Sweden.
 
