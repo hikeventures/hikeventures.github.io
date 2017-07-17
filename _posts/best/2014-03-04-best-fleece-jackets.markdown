@@ -63,6 +63,9 @@ Have a look on our [FAQ](#faq-on-fleece-jackets) to learn more about fleece jack
         <tr>  
           <td><a href="http://amzn.to/2v8HREW" target="_blank" rel="nofollow">Outdoor Research Men's Radiant Hybrid Pullover</a></td><td>388 grams / 13.7 oz.</td>  
         </tr>  
+        <tr>  
+          <td><a href="http://amzn.to/2uulegq" target="_blank" rel="nofollow">Patagonia Better Sweater 1/4-Zip</a></td><td>499 grams / 17.6 oz.</td>  
+        </tr>  
         </tbody>  
   </table>  
 </div>
@@ -188,6 +191,19 @@ The Mountain Hardwear Microchill 2.0 Zip T is a very light weight fleece made fr
 Wear the Outdoor Research Radiant Hybrid Pullover for skiing or hiking. This fleece offers great weight-insulation ratio. Use the long zipper to vent. There is also a thumb loop to keep your hands warm during the winter when wearing gloves.
 
 <a href="http://amzn.to/2t6BBMKJ" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+---
+
+## Patagonia Better Sweater 1/4-Zip
+
+<a rel="nofollow" href="https://www.amazon.com/Patagonia-Better-Sweater-Buffalo-Green/dp/B06XCY1F33/ref=as_li_ss_il?ie=UTF8&qid=1500281496&sr=8-8&keywords=patagonia+fleece&linkCode=li3&tag=hikeve-20&linkId=2e630df5312b950c750a9b379534cac5" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06XCY1F33&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B06XCY1F33" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight**: 499 grams / 17.6 oz.  
+**Fabric**: Polyester
+
+Patagonia Better Sweater 1/4-Zip is manufactured in a more environmental friendly procedure and is also bluesign approved. The jacket also comes with a zippered left-chest pocket to store your cash or keys. The jacket also has a flat-seam construction which reduces seam chafe and bulk. Moreover, the micropolyester jersey trim at the collar, cuffs and hem wicks sweat.
+
+<a href="http://amzn.to/2ti4IRa" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
 
