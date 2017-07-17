@@ -21,7 +21,7 @@ Further, I rather carry a [synthetic insulated jacket](http://www.hikeventures.c
 
 Also have a look on our [FAQ](#faq-on-down-jackets) to learn more about down jackets.  
 
-<amp-img src="https://c1.staticflickr.com/8/7379/15913311563_d90e96b2c3_k.jpg" width="2048" height="1360" alt="Lapland Finland" layout="responsive"></amp-img>   
+<amp-img src="https://c1.staticflickr.com/8/7379/15913311563_d90e96b2c3_k.jpg" width="2048" height="1360" alt="Best down jackets 2017" layout="responsive"></amp-img>   
 <br>   
 <!--more-->
 
