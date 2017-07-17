@@ -100,14 +100,28 @@ The Rab Micro Pull-on is a light fleece pullover. It’s fabric is made of recyc
 
 <a href="http://www.amazon.com/gp/product/B00MVV2BDK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MVV2BDK&linkCode=as2&tag=hikeve-20&linkId=O35AIPYX5EH2BEVJ" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
-## Fabric of fleece jackets
+## FAQ on Fleece Jackets
+* [Fabric of Fleece Jackets](#fleece-fabrics)  
+* [Zippers](#zippers)  
+* [Combining a fleece jacket with other clothes](#combining-a-fleece-jacket-with-other-clothes)
 
-Lighter fabric might be less durable depending on the technology used.   
+### Fabric of fleece jackets
 
-Polartec Classic 100 fleece is in most cases sufficient if you go hiking.   
+Fleece jackets come in different fabrics and depending on the material a fleece jacket can be more stretchy, offers better insulation or is more comfortable to wear.
 
-Polartec Power Stretch might be more interesting for those folks going climbing.   
+**Polartec Classic 100** is the most basic fleece fabric and in most cases sufficient if you go hiking. It is probably also the least expensive fabric offered by Polartec.
 
-Also consider if you need pockets or a full-zip jacket on your fleece as they might weight more.  
+**Polartec Thermal Pro** is similar as the Classic 100 fabric and was developed to add more styles and offers better efficiency.
 
-A good idea is also to combine a fleece jacket with a [wind jacket](http://www.hikeventures.com/best-windjackets/) since fleece jackets are not windproof and you won’t sweat that much in a wind jacket than in a [rain jacket.](http://www.hikeventures.com/rain-jackets-2017/)
+**Polartec Power Stretch** might be more interesting for those folks going climbing since it is more stretchy.   
+
+### Zippers
+ Zippers can add an additional function to your fleece jacket. Either as a pocket zipper or to open and close your jacket.
+
+If you are more into Ultra-light hiking then zippers won't be probably that appealing to you since they add on weight. However, in some cases a zipper to open or close your jacket can be more comfortable. Pocket zippers might be useful if you want to store safely small items or tools.
+
+### Combining a fleece jacket with other clothes
+
+A good idea is also to combine a fleece jacket with a [wind jacket](http://www.hikeventures.com/best-windjackets/). A wind jacket protects you from cold winds while the fleece jacket offers insulation.
+
+Fleece jackets are not windproof and you won’t sweat that much in a wind jacket than in a [rain jacket](http://www.hikeventures.com/rain-jackets-2017/) when you are hiking.

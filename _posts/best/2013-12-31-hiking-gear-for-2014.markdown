@@ -23,8 +23,6 @@ I am going to keep my <a href="http://hikeventures.com/gear-review-hmg-porter-44
 <h2>Tent</h2>
 <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/" target="_self">Hilleberg Anjan 2</a> for trips with 2 person but I am also interested in the <a href="http://www.hilleberg.com/home/products/soulo/soulo.php" target="_blank">Hilleberg Soulo</a> for solo trips.
 
-{% include banner_ad.html %}
-
 <h2>Hiking pants</h2>
 <a href="http://hikeventures.com/gear-review-Arc'teryx-palisade-pants/" target="_self">Arc'teryx Palisade Pants</a>. They are light and dry fast.
 
