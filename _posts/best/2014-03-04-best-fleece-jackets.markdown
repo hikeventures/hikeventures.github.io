@@ -11,15 +11,13 @@ tags:
   - fleece jackets
 layout: post
 ---
-Here is my [selection](#the-best-fleece-jackets-of-2017) of the best lightweight fleece jackets for 2017.  Are you planning an outdoor adventure to a place where it’s wet or humid? Then you should have a warm lightweight fleece jacket in your backpack.  
+Here is my [selection](#the-best-fleece-jackets-of-2017) of the best lightweight fleece jackets for 2017 which I would consider to buy for my next hiking or backpacking adventure.
 
 For wet conditions a fleece jacket is a much better choice than a [down jacket](http://www.hikeventures.com/best-down-jackets/) to protect yourself against the cold as down will lose it’s insulation once it’s wet. An alternative to a fleece jacket would be a [synthetic insulated jacket](http://www.hikeventures.com/best-synthetic-insulated-jackets/) which has the advantage of being windproof.
 
 A fleece jacket can be used as a mid-layer to keep you warm while you are active (climbing, hiking, skiing or biking) and dries rather fast compared to other fabrics like cotton.
 
-Have a look on our [FAQ](#faq-on-fleece-jackets) on fleece jackets if you have more questions.
-
-**Update**: Most recently, I bought the [Power Houdi](http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fhoudini-power-houdi-full-zip-hooded-fleece-sweatshirt-mens) which is now my go-to fleece jackets on all my trips. I really like that it feels soft on the skin and adapts well to movements.  
+Have a look on our [FAQ](#faq-on-fleece-jackets) to learn more about fleece jackets.
 
 <amp-img src="https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg" width="1024" height="683" alt="Best Fleece Jackets for 2017" layout="responsive"></amp-img>   
 <br>   
@@ -35,9 +33,7 @@ Have a look on our [FAQ](#faq-on-fleece-jackets) on fleece jackets if you have m
              </tr>  
         </thead>  
         <tbody>  
-        <tr>  
-          <td><a href="http://amzn.to/2upsVFa" target="_blank" rel="nofollow">Arc'teryx A2B Comp Jacket</a></td><td>367 grams / 12.9 oz.</td>  
-        </tr>  
+
         <tr>  
           <td><a href="http://amzn.to/2dBJvs1" target="_blank" rel="nofollow">Arc'teryx Thetis Zip Neck</a></td><td>205 grams / 7.2 oz.</td>  
         </tr>  
@@ -53,6 +49,9 @@ Have a look on our [FAQ](#faq-on-fleece-jackets) on fleece jackets if you have m
         <tr>  
           <td><a href="http://amzn.to/2utZSjm" target="_blank" rel="nofollow">Berghaus Spectrum Micro 2.0 Half Zip Fleece</a></td><td>330 grams / 11.6 oz.</td>  
         </tr>
+        <tr>  
+          <td><a href="http://amzn.to/2upsVFa" target="_blank" rel="nofollow">Arc'teryx A2B Comp Jacket</a></td><td>367 grams / 12.9 oz.</td>  
+        </tr>  
         </tbody>  
   </table>  
 </div>
