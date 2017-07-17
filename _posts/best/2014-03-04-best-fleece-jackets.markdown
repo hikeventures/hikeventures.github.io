@@ -81,7 +81,20 @@ The Polartec fabric should dry quite fast and transports moisture away from the 
 
 <a href="http://www.amazon.com/gp/product/B00GW7XOMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7XOMQ&linkCode=as2&tag=hikeve-20&linkId=KYPIGZUYHRQY4JNT" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
-<hr>
+---
+
+## Berghaus Spectrum Micro 2.0 Half Zip Fleece
+
+<a rel="nofollow" href="https://www.amazon.com/BERGHAUS-SPECTRUM-MICRO-FLEECE-LARGE/dp/B01NAXM74Y/ref=as_li_ss_il?ie=UTF8&qid=1500272488&sr=8-2&keywords=MEN'S+SPECTRUM+MICRO+2.0+HALF+ZIP+FLEECE&linkCode=li3&tag=hikeve-20&linkId=286d27af75da3563885af304870fad04" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01NAXM74Y&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B01NAXM74Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight**: 330 grams / 11.6 oz.  
+**Fabric**: Berghaus fabric (recycled)  
+
+The Berghaus Spectrum Micro 2.0 Half Zip Fleece is an everyday fleece and an improvement from the classic Berghaus mid-layer with an InterActive zip to attach it to one of Berghaus outer shells.
+
+<a href="http://amzn.to/2utZSjm" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+---
 
 ## Mammut Moench Longsleeve
 
@@ -108,19 +121,6 @@ The Mammut Moench Longsleeve features a stretchy fabric which should keep you dr
 The Rab Micro Pull-on is a light fleece pullover. It’s fabric is made of recycled fabric if you prefer to opt for products and also keep nature in mind.  
 
 <a href="http://www.amazon.com/gp/product/B00MVV2BDK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MVV2BDK&linkCode=as2&tag=hikeve-20&linkId=O35AIPYX5EH2BEVJ" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
-
----
-
-## Berghaus Spectrum Micro 2.0 Half Zip Fleece
-
-<a rel="nofollow" href="https://www.amazon.com/BERGHAUS-SPECTRUM-MICRO-FLEECE-LARGE/dp/B01NAXM74Y/ref=as_li_ss_il?ie=UTF8&qid=1500272488&sr=8-2&keywords=MEN'S+SPECTRUM+MICRO+2.0+HALF+ZIP+FLEECE&linkCode=li3&tag=hikeve-20&linkId=286d27af75da3563885af304870fad04" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01NAXM74Y&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B01NAXM74Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Weight**: 330 grams / 11.6 oz.  
-**Fabric**: Berghaus fabric (recycled)  
-
-The Berghaus Spectrum Micro 2.0 Half Zip Fleece is an everyday fleece and an improvement from the classic Berghaus mid-layer with an InterActive zip to attach it to one of Berghaus outer shells.
-
-<a href="http://amzn.to/2utZSjm" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
 
