@@ -123,7 +123,6 @@ The Berghaus Spectrum Micro 2.0 Half Zip Fleece is an everyday fleece and an imp
 <a href="http://amzn.to/2utZSjm" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
-MEN'S SPECTRUM MICRO 2.0 HALF ZIP FLEECE
 
 ## FAQ on Fleece Jackets
 * [Fabric of Fleece Jackets](#fleece-fabrics)  
