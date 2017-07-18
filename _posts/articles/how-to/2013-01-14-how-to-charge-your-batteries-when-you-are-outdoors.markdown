@@ -14,10 +14,8 @@ Most of my gear is equipped with an USB connection e.g. my <a href="http://hikev
 I found a solution which could extend the usage of your electronic gear for a couple of days.
 
 <amp-img src="https://farm9.staticflickr.com/8363/8381056716_17c454bf74_b.jpg"  width="1024" height="683" layout="responsive" alt="Anker Astro3e"></amp-img>
-
+<br>
 <!--more-->
-
----
 
 ## Features
 The Anker Astro3E features high capacrity for a low price. It also offers multiple sockets, weights 240 grams and has the size of a mobile phone.

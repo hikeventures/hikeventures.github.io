@@ -16,7 +16,6 @@ Today, I packed my packraft and went to the coast of Turku in order to exercise 
 <amp-img src="https://farm3.staticflickr.com/2938/14367437345_ae2301ac88_b.jpg" width="952" height="635" alt="Packrafting in Turku" layout="responsive"></amp-img>
 <br>
 <!--more-->
-<br>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 <a href="https://www.flickr.com/photos/90204224@N07/14180924087/" title="Packrafting in Turku"><img src="https://farm3.staticflickr.com/2934/14180924087_43b2a78a7c_b.jpg" width="1024" height="683" alt="Packrafting in Turku"></a><br>Inflating the packraft and checking its condition.<br><br>

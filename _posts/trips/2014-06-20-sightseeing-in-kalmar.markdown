@@ -16,7 +16,6 @@ Kalmar is an old town on the southeastern shore of Sweden and worth for a sights
 <amp-img src="https://farm3.staticflickr.com/2896/14273722330_9ac3e2ddc5_b.jpg" width="1024" height="683" alt="Kalmar Castle Sweden" layout="responsive"></amp-img>
 <br>
 <!--more-->
-<br>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 <a href="https://www.flickr.com/photos/90204224@N07/14273716490/" title="Kalmar Sightseeing"><img src="https://farm6.staticflickr.com/5499/14273716490_2173d8fd19_b.jpg" width="1024" height="683" alt="Kalmar Castle Sightseeing"  ></a><br><a href="http://www.kalmarslott.se" target="_blank">Kalmar Castle</a> is 800 years old. We also paddled with our packrafts around the castle.<br><br><a href="https://www.flickr.com/photos/90204224@N07/14460314955/" title="Kalmar Castle Sweden"><img src="https://farm3.staticflickr.com/2895/14460314955_318b71b81c_b.jpg" width="1024" height="683" alt="Kalmar Castle Sightseeing" ></a><br><a href="https://www.flickr.com/photos/90204224@N07/14480493763/" title="Kalmar Castle Sweden" alt="Kalmar Tourism"><img src="https://farm6.staticflickr.com/5482/14480493763_67f58a3fc0_b.jpg" width="683" height="1024" alt="Kalmar Castle Sightseeing anchor" ></a>

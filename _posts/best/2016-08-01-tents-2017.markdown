@@ -13,20 +13,18 @@ tags:
 
 For 2017 we can expect to see plenty of new backpacking tents on the market.
 
-The trend goes clearly towards lightweight tents.
+The trend clearly goes towards lightweight tents.
 
 However, are lightweight tents always the best option? It depends.
 
 Ultralight gear is sometimes made of materials which are not very durable.
 
-For example, chances are high that you get a hole in your tent floor if the tent floor fabric is very thin.
-
-However, if you plan to go only occasionally on outdoor trips or if you are into ultralight backpacking then buying an ultralight tent might be a better option even so you may compromise with the durability of the tent.
+However, if you plan to only go occasionally on outdoor trips or if you are into ultralight backpacking then buying an ultralight tent might be a better option even so you may compromise with the durability of the tent.
 
 Our <a rel="nofollow" href="#list">selection</a> below contains only new / updated tents and I might add a few more later on.
 
 <amp-img src="https://c3.staticflickr.com/9/8759/28098548314_3618ccb134_k.jpg" width="2048" height="1365" alt="Best new tents for 2017" layout="responsive"></amp-img>
-
+<br>
 <!--more-->
 
 <h2 id="list">New backpacking tents for 2017</h2>
@@ -284,9 +282,3 @@ So which tent should you choose? It's definitely a hard question as there are ma
 <hr>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/15455033882/in/album-72157648791533361/" title="First Finnish Packraft Gathering"><img src="https://c3.staticflickr.com/6/5600/15455033882_43028c91d5_k.jpg" width="2048" height="1367" alt="The best new backpacking tents and accessories for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<hr>
-
-{% include disclaimer.html %}
-
----

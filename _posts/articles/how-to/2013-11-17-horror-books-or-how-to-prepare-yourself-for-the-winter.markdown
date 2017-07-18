@@ -12,9 +12,8 @@ image: http://farm4.staticflickr.com/3726/10906593816_40d9a30fce_c.jpg
 Recently there have been a lot of speculations about the coming winter. Some scientists believe that this year we will have - what some Dutch media has already christened - the "horror winter" with low temperatures and lot of snow, which, according to the forecasts, will make it the most severe winter in the last 100 years.
 
 <amp-img src="http://farm4.staticflickr.com/3726/10906593816_40d9a30fce_c.jpg" width="800" height="537" layout="responsive" alt="horror books"></amp-img>
-
-
-<!--more--><br>
+<br>
+<!--more-->
 
 I am not sure if that is going to be true (I am not a scientist and in general, the  "weather science" is notoriously inaccurate with their long-term predictions), but if it is, it will mean a lot of nuisance for most people, while for some it might spell a real disaster.
 

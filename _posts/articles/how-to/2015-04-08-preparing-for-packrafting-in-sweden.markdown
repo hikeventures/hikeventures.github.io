@@ -13,7 +13,8 @@ image: https://farm8.staticflickr.com/7586/16871708317_4d741093bd_b.jpg
 In one week we are going on an packrafting adventure to Sweden. Konstantin will take the plane to Stockholm while Patrick is going to take the ferry from Turku to Stockholm. In Stockholm we will rent a car in order to get to our packrafting destination. We have also new packrafting gear with us which we are going to test e.g. the Anfibio Throwbag and the Palm Hook gloves. More soon on HikeVentures.com.
 
 <amp-img src="https://farm8.staticflickr.com/7586/16871708317_4d741093bd_b.jpg" width="1024" height="576" layout="responsive"  alt="Preparation for Packrafting in Sweden"></amp-img>
-
+<br>
+<!--more-->
 
 <a href="https://www.flickr.com/photos/90204224@N07/16871708317"><img src="https://farm8.staticflickr.com/7586/16871708317_4d741093bd_b.jpg" width="1024" height="576" alt="Preparation for Packrafting in Sweden"></a>
 

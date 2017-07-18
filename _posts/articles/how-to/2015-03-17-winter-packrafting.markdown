@@ -13,7 +13,7 @@ image: https://farm9.staticflickr.com/8654/16222390054_bfbaf5a5e9_o.jpg
 A couple of weeks ago when we still had ice and snow in Southern Finland I decided to take my packraft to do some winter packrafting and to paddle along the ice shore in Turku. So far I have only packrafted during the warmer months of the year except last autumn when I was packrafting at [Suolijärvi](http://hikeventures.com/halloween-adventure-at-lake-suolijarvi/) temperatures also dropped to 0C during the night.
 
 <amp-img src="https://farm9.staticflickr.com/8654/16222390054_bfbaf5a5e9_o.jpg" width="1024" height="680" layout="responsive" alt="Winter Packrafting in Finland with Alpacka Raft Yukon Yak, Werner Shuna and Astral Designs YTV"></amp-img>
-
+<br>
 <!--more-->
 In order to keep myself warm, I was wearing merino pants and merino shirts under my fleece jacket and on top of that a waterproof <a href="http://www.packrafting-store.de/Clothing/Anfibio-Packsuit::378.html">dry suite</a>. The dry suite which I have ordered at the [packrafting store](http://www.packrafting-store.de) has worked so far quite well except the gloves which didn't last that long and I had to order (and also for Konstantin) a new pair of gloves a couple of days ago.
 <a href="https://www.flickr.com/photos/90204224@N07/16843610912" ><img src="https://farm8.staticflickr.com/7640/16843610912_8ed84ff3fc_o.jpg" width="1024" height="680" alt="Winter Packrafting in Finland with Alpacka Raft Yukon Yak, Werner Shuna and Astral Designs YTV"></a>

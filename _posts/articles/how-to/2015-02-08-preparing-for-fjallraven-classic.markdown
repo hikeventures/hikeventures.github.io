@@ -13,7 +13,8 @@ image: https://farm8.staticflickr.com/7421/16482970962_e112076e05_b.jpg
 This year we have signed up for [Fjällräven Classic](http://www.fjallraven.com/classic/) in Northern Sweden - a 110 km hike (Kungsleden - also called King's Trail) with about 2000 participants. We are going to be in group 7 which starts on August 9th at 09.00 am with over 200 group participants. Here is a link to the official [start list](http://www.fjallraven.com/catalog/product/view/id/19254/s/start-list/category/485/).
 
 <amp-img src="https://farm8.staticflickr.com/7421/16482970962_e112076e05_b.jpg" width="1024" height="688" layout="responsive" alt="Fjällräven Classic"></amp-img>
-
+<br>
+<!--more-->
 Some may wonder why to participate in such an event if you want to experience silence and nature in Swedish Lapland? Well, we are also interested to share experience with other hikers and after all there is so much space that we will most likely be able to spot a quite place away from the crowd. Beside our hike, we might also go 1 or 2 days packrafting before or after the event in this area.
 
 Preparation for Fjällräven Cassic is quite simple compared to self organised trips as most of the transportation and food is arranged by the organizer and as we have already experienced [Swedish Lapland (Sarek)](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) in 2013 we know more or less what to expect from this hike.
