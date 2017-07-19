@@ -206,7 +206,7 @@ The Rab Fuse Pants are the lightest waterproof pants from Rab. They also feature
 
 ---
 
-## Best fabric?
+### Best fabric?
 
 If you are planning to go skiing then you should maybe consider waterproof pants with Gore-Tex Pro or Active shell as they are more durable.
 
@@ -216,13 +216,13 @@ However, I would probably choose pants with less weight as they are probably goi
 
 ---
 
-## What to wear under them?
+### What to wear under them?
 
 I am wearing either my hiking pants or a [merino base-layer](http://www.hikeventures.com/best-base-layers/) under my hiking pants. I prefer to wear long merino underwear when I know that it’s going to rain the whole day. It’s more comfortable to hike in merino clothes than in regular hiking pants.  
 
 ---
 
-## How to wash them?
+### How to wash them?
 
 <a rel="nofollow" href="https://www.amazon.com/Nikwax-Hardshell-Clean-Waterproof-DUO-Pack/dp/B000PGOOIS/ref=as_li_ss_il?ie=UTF8&qid=1499894360&sr=8-2&keywords=nikwax&linkCode=li3&tag=hikeve-20&linkId=18c445a067d443b8df2331be005bac4f" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000PGOOIS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B000PGOOIS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
@@ -230,6 +230,6 @@ For my hardshell layers like my rain pants I use <a href="[http://amzn.to/2sRiOE
 
 ---
 
-## How to patch them?
+### How to patch them?
 
 For certain waterproof fabrics there are repair kits available like the <a href="http://amzn.to/2tfXV5K" rel="nofollow">Gore-Tex Medium Repair Kit</a>.
