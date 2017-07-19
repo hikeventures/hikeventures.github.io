@@ -11,7 +11,7 @@ tags:
   - lamps
 layout: post
 ---
-Here is my [selection](#the-best-headlamps-of-2017) of the best lightweight headlamps for 2017 which I would consider to take to my next hiking or camping trip.
+Here is my [selection](#the-best-headlamps-of-2017) of the best lightweight headlamps for 2017 which I would consider to take to my next hiking, backpacking or camping trip.
 
 Having a headlamp can be a life saver and it’s a good idea to have one with you in your backpack especially during the winter.
 
