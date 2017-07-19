@@ -11,13 +11,13 @@ tags:
   - pants
 layout: post
 ---
-Here is my selection of the best rain pants for 2017. Planning to go hiking, backpacking or any other backcountry adventure? Then you should consider to pack lightweight rain pants into your backpack.  
+Here is my selection of the best rain pants for 2017. Planning to go hiking, backpacking or any other backcountry adventure? Then you should consider to pack lightweight rain pants and a [rain jacket](http://www.hikeventures.com/best-rain-jackets/) into your backpack.
 
 Rain pants will help you to stay dry and warm and is one of the most essential items you should have with you when planning an outdoor trip.  
 
-Personally, I prefer to take the lightest rain clothes with me during my summer and autumn hikes as they will probably stay most of the time in my backpack.  
+Personally, I prefer to take the lightest rain clothes with me during my summer and autumn hikes as they will probably stay most of the time in my backpack if the weather is good.  
 
-If you plan to wear your rain jacket on a daily base while carrying a backpack on your shoulders then you should probably buy a rain jacket with a more durable fabric. Of course, this also comes with increased weight.  
+It's also a good idea to buy rain pants with side zippers as you can easily pull them on and off even if you are wearing [hiking shoes](http://www.hikeventures.com/best-light-hiking-shoes/).
 
 <amp-img src="https://c2.staticflickr.com/8/7206/13685518345_b56a9a77d8_b.jpg" width="992" height="662" alt="Best Rain Pants 2017" layout="responsive"></amp-img>   
 <br>   
@@ -72,7 +72,7 @@ SL stands for Super Light in the Arc’teryx product range. This model is reinfo
 
 <a href="http://amzn.to/2rYuhVL" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
-<hr>
+---
 
 ## Haglöfs L.I.M. III pants
 
@@ -87,7 +87,7 @@ The zippers on the legs help to put those pants on while wearing hiking boots.
 
 <a href="/deals/#haglofs+lim+III+pant" target="_blank"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
-<hr>
+---
 
 ## Montane Atomic Pants
 
@@ -102,7 +102,7 @@ They are also a great choice if you go hiking in the mountains during the warmer
 
 <a href="http://amzn.to/2rYwfp1" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
-<hr>
+---
 
 ## Montane Minimus Pants
 
@@ -118,7 +118,7 @@ They also come with  zippers on the lower part of the leg so you can pull them o
 
 <a href="http://amzn.to/2si7apw" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
-<hr>
+---
 
 ## Mountain Hardwear Plasmic Pant
 
@@ -135,7 +135,7 @@ If you need to have a pocket on your waterproof pants then go for this model.
 
 <a href="http://amzn.to/2sG4iA9" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
-<hr>
+---
 
 ## Rab Firewall Pants
 
@@ -150,7 +150,7 @@ The Rab Firewall pants comes with an elasticated waistband and knee articulation
 
 <a href="http://amzn.to/2r4XBdW" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
-<hr>
+---
 
 ## Rab Fuse Pants
 
@@ -163,9 +163,17 @@ The Rab Fuse Pants are the lightest waterproof pants from Rab. They also feature
 
 <a href="http://amzn.to/2rYC2uS" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
-<hr>
+---
 
-## Best fabric for rain pants
+## FAQ on Rain Pants
+* [Best fabric?](#best-fabric)
+* [What to wear under them?](#what-to-wear-under-them)
+* [How to wash them? ](#how-to-wash-them)
+* [How to patch them?](#how-to-patch-them)
+
+---
+
+## Best fabric?
 
 If you are planning to go skiing then you should maybe consider waterproof pants with Gore-Tex Pro or Active shell.   
 
@@ -175,21 +183,21 @@ Generally speaking, you will sweat in all waterproof clothes if you are active.
 
 However, some are a little bit more breathable than others. I had good experience with Pertex Shield so far.  
 
-<hr>
+---
 
-## What to wear under rain pants?
+## What to wear under them?
 
 I am wearing either my hiking pants for merino underwear under my hiking pants. I prefer to wear long merino underwear when I know that it’s going to rain the whole day. It’s more comfortable to hike in merino clothes than in regular hiking pants.  
 
-<hr>
+---
 
-## How to wash rain pants?
+## How to wash them?
 
 <a rel="nofollow" href="https://www.amazon.com/Nikwax-Hardshell-Clean-Waterproof-DUO-Pack/dp/B000PGOOIS/ref=as_li_ss_il?ie=UTF8&qid=1499894360&sr=8-2&keywords=nikwax&linkCode=li3&tag=hikeve-20&linkId=18c445a067d443b8df2331be005bac4f" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000PGOOIS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B000PGOOIS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
-For my hardshell layers like rain pants I use <a href="[http://amzn.to/2sRiOEP](http://amzn.to/2sRiOEP)" rel="nofollow">Nikwax</a> to clean them.  
+For my hardshell layers like my rain pants I use <a href="[http://amzn.to/2sRiOEP](http://amzn.to/2sRiOEP)" rel="nofollow">Nikwax</a> to clean them.  
 
-<hr>
+---
 
 ## How to patch them?
 
