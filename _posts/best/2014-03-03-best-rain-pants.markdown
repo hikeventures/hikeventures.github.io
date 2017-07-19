@@ -208,19 +208,17 @@ The Rab Fuse Pants are the lightest waterproof pants from Rab. They also feature
 
 ## Best fabric?
 
-If you are planning to go skiing then you should maybe consider waterproof pants with Gore-Tex Pro or Active shell.   
+If you are planning to go skiing then you should maybe consider waterproof pants with Gore-Tex Pro or Active shell as they are more durable.
 
-However, those pants will be more heavy than the models listed below and also take more space in your backpack so I have not considered them in my list.   
+In general you are probably going to sweat in any piece of clothes which are waterproof and if you are only wearing your rain pants during emergency situations then there is probably also no need to buy super expensive pants.
 
-Generally speaking, you will sweat in all waterproof clothes if you are active.   
-
-However, some are a little bit more breathable than others. I had good experience with Pertex Shield so far.  
+However, I would probably choose pants with less weight as they are probably going to be stored in your backpack for most of the time.
 
 ---
 
 ## What to wear under them?
 
-I am wearing either my hiking pants for merino underwear under my hiking pants. I prefer to wear long merino underwear when I know that it’s going to rain the whole day. It’s more comfortable to hike in merino clothes than in regular hiking pants.  
+I am wearing either my hiking pants or a [merino base-layer](http://www.hikeventures.com/best-base-layers/) under my hiking pants. I prefer to wear long merino underwear when I know that it’s going to rain the whole day. It’s more comfortable to hike in merino clothes than in regular hiking pants.  
 
 ---
 
@@ -228,7 +226,7 @@ I am wearing either my hiking pants for merino underwear under my hiking pants. 
 
 <a rel="nofollow" href="https://www.amazon.com/Nikwax-Hardshell-Clean-Waterproof-DUO-Pack/dp/B000PGOOIS/ref=as_li_ss_il?ie=UTF8&qid=1499894360&sr=8-2&keywords=nikwax&linkCode=li3&tag=hikeve-20&linkId=18c445a067d443b8df2331be005bac4f" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000PGOOIS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B000PGOOIS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
-For my hardshell layers like my rain pants I use <a href="[http://amzn.to/2sRiOEP](http://amzn.to/2sRiOEP)" rel="nofollow">Nikwax</a> to clean them.  
+For my hardshell layers like my rain pants I use <a href="[http://amzn.to/2sRiOEP](http://amzn.to/2sRiOEP)" rel="nofollow">Nikwax</a> to wash my rain pants after my trips (if they became really dirty).  
 
 ---
 
