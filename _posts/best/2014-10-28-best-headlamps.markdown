@@ -19,7 +19,7 @@ The Petzl NAO+ for example has plenty of features and you can also connect the P
 
 However, if you are looking for a smaller headlamp which is also waterproof then I would rather pick the <a href="http://amzn.to/2fkaiqv" rel="nofollow">Black Diamond Spot</a> which features a red light and 200 Lumen - sufficient for hiking even in the Alps.  
 
-<amp-img src="https://c1.staticflickr.com/9/8270/15581097668_01223b886d_k.jpg" width="2048" height="1367" alt="Best headlamps 2017" layout="responsive"></amp-img>   
+<amp-img src="https://c1.staticflickr.com/9/8270/15581097668_01223b886d_k.jpg" width="2048" height="1367" alt="Best headlamps 2017 hiking backpacking camping" layout="responsive"></amp-img>   
 <br>
 <!--more-->
 
