@@ -36,6 +36,10 @@ It's also a good idea to buy rain pants with side zippers as you can easily pull
         <tbody>  
         <tr>  
           <td><a href="http://amzn.to/2e8l2eE" target="_blank" rel="nofollow">Montane Minimus Pants</a></td><td>141 grams / 5 oz. </td>  
+        </tr>
+
+        <tr>  
+          <td><a href="http://amzn.to/2e8l2eE" target="_blank" rel="nofollow">Outdoor Research Helium Pants</a></td><td>160 grams / 5.6 oz. </td>  
         </tr>  
         <tr>  
           <td><a href="http://www.hikeventures.com/deals/#Montane+Atomic+Pant" target="_blank" rel="nofollow">Montane Atomic Pants</a></td><td>185 grams / 6.5 oz.</td>  
@@ -55,6 +59,9 @@ It's also a good idea to buy rain pants with side zippers as you can easily pull
         <tr>  
           <td><a href="http://amzn.to/2eI58JB" target="_blank" rel="nofollow">Rab Firewall Pants</a></td><td>319 grams / 11.3 oz.</td>  
         </tr>  
+        <tr>  
+          <td><a href="http://amzn.to/2teq8us target="_blank" rel="nofollow">Berghaus Deluge Pants</a></td><td>390 grams / 13.8 oz.</td>  
+        </tr>  
 </tbody>  
 </table>  
 </div>
@@ -71,6 +78,32 @@ It's also a good idea to buy rain pants with side zippers as you can easily pull
 SL stands for Super Light in the Arc’teryx product range. This model is reinforced in key wear areas, has articulated knees but only comes with lower leg zippers.  
 
 <a href="http://amzn.to/2rYuhVL" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
+
+---
+
+## Berghaus Deluge Pants
+
+<a rel="nofollow" href="https://www.amazon.com/Berghaus-Deluge-Pants-Black-Medium/dp/B000PCVE30/ref=as_li_ss_il?ie=UTF8&qid=1500448739&sr=8-1&keywords=MEN'S+DELUGE+WATERPROOF+PANT&linkCode=li3&tag=hikeve-20&linkId=4f25592bc41ae67e1c3e17e4b71cba67" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000PCVE30&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B000PCVE30" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight**: 390 grams / 13.8 oz.  
+**Fabric**: Berghaus Hydroshell fabric
+
+The Berghaus Deluge Pants come with 3/4 length side zips and venting on the upper leg. They also have an elasticated waist with side waist adjustment.
+
+<a href="http://amzn.to/2teq8us" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
+
+---
+
+## Outdoor Research Helium Pants
+
+<a rel="nofollow" href="https://www.amazon.com/Outdoor-Research-Helium-Medium-Pewter/dp/B00LU7EKHQ/ref=as_li_ss_il?ie=UTF8&qid=1500449127&sr=8-3&keywords=MEN'S+DELUGE+WATERPROOF+PANT&linkCode=li3&tag=hikeve-20&linkId=5d524dbc4656f89823cb3813e5b95537" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LU7EKHQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00LU7EKHQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight**: 160 grams / 5.6 oz.
+**Fabric**: Pertex Shield+ 2.5L
+
+The Outdoor Research Helium Pants are super lightweight and it's back pocket can be used as a stuff sack. It also features a carabiner loop and an elastic waist with a drawcord as well as ankle zippers.
+
+<a href="http://amzn.to/2tF7VFK" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
 
