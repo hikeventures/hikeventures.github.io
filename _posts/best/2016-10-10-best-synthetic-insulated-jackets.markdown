@@ -155,13 +155,13 @@ The Montane Halogen Alpha Jacket has been designed for stop-start activities in 
 
 ## Mountain Equipment Fitzroy Jacket
 
-<a rel=2nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01LZXZ9ZS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LZXZ9ZS&linkCode=as2&tag=hikeve-20&linkId=5f86514cf4307bb4835213ab97ea8fbe"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LZXZ9ZS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LZXZ9ZS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01LZXZ9ZS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LZXZ9ZS&linkCode=as2&tag=hikeve-20&linkId=5f86514cf4307bb4835213ab97ea8fbe"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LZXZ9ZS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LZXZ9ZS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
 **Weight**: 645 grams / 23 oz.  
 
 The Mountain Equipment Fitzroy Jacket is a wind and water resistant jacket filled with Primaloft GOLD insulation.   
 
-It also comes with an insulated hood with wired visor. The Mountain Equipment Fitzroy Jacket is currently my go-to insulated jacket which I was wearing in the [Scottish Highlands.](http://www.hikeventures.com/Packrafting-River-Dee-Scotland-1/)  
+It also comes with an insulated hood with wired visor. The Mountain Equipment Fitzroy Jacket is currently my go-to insulated jacket which I was wearing in the [Scottish Highlands](http://www.hikeventures.com/Packrafting-River-Dee-Scotland-1/).
 
 <a href="http://amzn.to/2iI5RMm" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
