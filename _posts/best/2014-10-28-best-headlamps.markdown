@@ -1,5 +1,5 @@
 ---
-title: Best Headlamps for 2017
+title: Best Headlamps 2017
 description: Find the best headlamps for your next outdoor adventure
 date: 2016-01-03 23:02:20
 update_date: 2017-07-08 06:00:52
@@ -11,7 +11,7 @@ tags:
   - lamps
 layout: post
 ---
-Here is my selection of the best lightweight headlamps for 2017 which could be used for example on winter trips in the North or just for a night out in the backcountry.  
+Here is my [selection](#the-best-headlamps-of-2017) of the best lightweight headlamps for 2017 which could be used for example on winter trips in the North or just for a night out in the backcountry.  
 
 A good lightweight headlamp is an essential part for many outdoor activities like running, cycling, packrafting, ski touring, climbing or any other backcountry trip.   
 
