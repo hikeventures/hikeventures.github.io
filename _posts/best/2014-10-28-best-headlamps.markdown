@@ -11,15 +11,13 @@ tags:
   - lamps
 layout: post
 ---
-Here is my [selection](#the-best-headlamps-of-2017) of the best lightweight headlamps for 2017 which could be used for example on winter trips in the North or just for a night out in the backcountry.  
+Here is my [selection](#the-best-headlamps-of-2017) of the best lightweight headlamps for 2017 which I would consider to take to my next hiking or camping trip.
 
-A good lightweight headlamp is an essential part for many outdoor activities like running, cycling, packrafting, ski touring, climbing or any other backcountry trip.   
+Having a headlamp can be a life saver and it’s a good idea to have one with you in your backpack especially during the winter.
 
-Having a headlamp can be a life saver and it’s a good idea to have one with you in your backpack.   
+The Petzl NAO+ for example has plenty of features and you can also connect the Petzl NAO Belt Kit to carry the battery under the jacket which is especially useful to prevent battery drain in [colder regions](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/) or during the winter. I have also used the previous model of the Petzl NAO in [Swedish Lapland. ](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/)  
 
-Personally, I like the Petzl NAO+ most since it has plenty of features and also offers the Petzl NAO Belt Kit which allows me to carry the battery under the jacket rather than on my head which can shorten the battery life especially when wearing in [colder regions](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/). I have also used the previous model of the NAO in [Swedish Lapland. ](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/)  
-
-However, if you are looking for a smaller headlamp which is also waterproof then I would rather pick the <a href="http://amzn.to/2fkaiqv" rel="nofollow">Black Diamond Spot</a> which features red light and 200 Lumen - sufficient for hiking even in the Alps.  
+However, if you are looking for a smaller headlamp which is also waterproof then I would rather pick the <a href="http://amzn.to/2fkaiqv" rel="nofollow">Black Diamond Spot</a> which features a red light and 200 Lumen - sufficient for hiking even in the Alps.  
 
 <amp-img src="https://c1.staticflickr.com/9/8270/15581097668_01223b886d_k.jpg" width="2048" height="1367" alt="Best headlamps 2017" layout="responsive"></amp-img>   
 <br>
