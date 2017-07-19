@@ -1,4 +1,4 @@
-Here is my selection of the best synthetic insulated jackets for 2017 which I would consider to buy for my next winter or hiking trip.  
+Here is my [selection](#the-best-synthetic-insulated-jackets-of-2017) of the best synthetic insulated jackets for 2017 which I would consider to buy for my next winter or hiking trip.  
 
 Wearing a synthetic insulated jacket over a [down jacket](http://www.hikeventures.com/best-down-jackets/) can have several reasons.  
 
