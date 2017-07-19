@@ -1,8 +1,3 @@
-# Synthetic Insulated Jackets
-
-
-## Introduction
-
 Here is my selection of the best synthetic insulated jackets for 2017 which I would consider to buy for my next winter or hiking trip.  
 
 Wearing a synthetic insulated jacket over a [down jacket](http://www.hikeventures.com/best-down-jackets/) can have several reasons.  
@@ -45,13 +40,9 @@ On our snowshoeing trip in [Finnish Lapland](http://www.hikeventures.com/snowsho
         <tr>  
           <td><a href="http://amzn.to/2ilHJMg" target="_blank" rel="nofollow">Arc'teryx Proton AR Hoody</a></td><td>425 grams / 15 oz. </td>  
         </tr>  
-
       <tr>  
           <td><a href="http://amzn.to/2ilHJMg" target="_blank" rel="nofollow">Montane Fusion Alpha Jacket</a></td><td>427 grams / 15.1 oz. </td>  
         </tr>  
-
-
-
         <tr>  
           <td><a href="http://amzn.to/2inuE4W" target="_blank" rel="nofollow">Arc'teryx Nuclei AR Jacket</a></td><td>460 grams / 16.2 oz. </td>  
         </tr>  
