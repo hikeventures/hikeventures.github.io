@@ -3,6 +3,7 @@ layout: post
 title: Best outdoor camera bags for Sony A7II, A9, a6000, a6300 or a6500
 description: My selection of the best outdoor camera bags for your Sony camera
 date: 2016-05-11 07:30:00
+update_date: 2017-07-15 06:00:52
 category: review
 image: https://c4.staticflickr.com/9/8606/28716060755_0596cd42cf_k.jpg
 tags:
