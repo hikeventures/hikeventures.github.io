@@ -60,7 +60,7 @@ It's also a good idea to buy rain pants with side zippers as you can easily pull
           <td><a href="http://amzn.to/2eI58JB" target="_blank" rel="nofollow">Rab Firewall Pants</a></td><td>319 grams / 11.3 oz.</td>  
         </tr>  
         <tr>  
-          <td><a href="http://amzn.to/2teq8us target="_blank" rel="nofollow">Berghaus Deluge Pants</a></td><td>390 grams / 13.8 oz.</td>  
+          <td><a href="http://amzn.to/2teq8us" target="_blank" rel="nofollow">Berghaus Deluge Pants</a></td><td>390 grams / 13.8 oz.</td>  
         </tr>  
 </tbody>  
 </table>  
