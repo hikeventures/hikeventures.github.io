@@ -11,9 +11,9 @@ tags:
   - photography
 ---
 
-In this blog post I would like to give an overview about the best lightweight camera bags which I would select for a Sony A7, A7II A7RII, A7SII or A9 (and also a6500, a6300 or a6000 since they share a similar form factor).
+In this blog post I would like to show you my [selection](#the-best-camera-bags-for-Sony-A7-or-a6500) of the best lightweight camera bags for the Sony A7, A7II A7RII, A7SII or A9 (and also a6500, a6300 or a6000 since they share a similar form factor).
 
-Different cases might be useful for different activities e.g. you might select a different camera bag when you go hiking than you would choose when planning to go on a kayaking or packrafting trip.
+Different cases might be useful for different activities e.g. you might take a different camera bag with you when you go hiking than when you would go on a kayaking or packrafting trip.
 
 <amp-img src="https://c4.staticflickr.com/9/8606/28716060755_0596cd42cf_k.jpg" width="2048" height="1365" alt="Best outdoor camera bags for Sony A7II, a6000, a6300, A9 or a6500" layout="responsive"></amp-img>
 
@@ -23,7 +23,7 @@ As I have recently upgraded my own camera, I was in need of a new camera case wh
 
 <!--more-->
 
-## The best camera bags for Sony A7, A9 or a6500
+## The best camera bags for Sony A7 or a6500
 
 <div class="table-responsive">
       <table class="table table-hover table-bordered list_items">
@@ -212,6 +212,11 @@ The bag can also store a 15 inch MacBook and an iPad. The bag features a removab
 The Thule Covert Camera Messenger Bag comes with a removable camera pod system and an iPad pocket. There is room for a compact DSLR and 2 lenses or a flash.
 
 <a href="https://www.amazon.com/gp/product/B00QWRMWKQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00QWRMWKQ&linkCode=as2&tag=hikeve-20&linkId=5ee40d217ef34eff10943d4153566e80" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+## FAQ on camera bags
+* [Best camera bags for hiking and backpacking](#best-camera-bags-for-hiking-and-backpacking)
+* [Best camera bags for packrafting and kayaking](#best-camera-bags-for-packrafting-and-kayaking)
+* [Best camera bags for urban exploration and traveling](#best-camera-bags-for-urban-exploration-and-traveling)
 
 ## Best camera bags for hiking and backpacking
 
