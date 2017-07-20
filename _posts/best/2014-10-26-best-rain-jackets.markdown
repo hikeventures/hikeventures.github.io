@@ -54,6 +54,12 @@ In most cases a lightweight rain jacket which does not need that much space in y
         <tr>  
           <td><a href="http://amzn.to/2tJNrvy" target="_blank" rel="nofollow">Fjällräven Abisko Eco-Shell Jacket</a></td><td>380 grams / 13.4 oz. </td>  
         </tr>  
+        <tr>  
+          <td><a href="http://amzn.to/2thYHQn" target="_blank" rel="nofollow">Mammut Kento HS Hooded Jacket</a></td><td>400 grams / 14.1 oz. </td>  
+        </tr>  
+        <tr>  
+          <td><a href="http://amzn.to/2thZ5hR" target="_blank" rel="nofollow">Marmot Minimalist Jacket</a></td><td>425 grams / 15 oz. </td>  
+        </tr>  
 </tbody>  
 </table>  
 </div>
@@ -92,6 +98,32 @@ The Norvan jacket is more suitable for runners or if you don’t wear a backpack
 The Fjällräven Absiko Eco-Shell Jacket is a water and windproof 2.5 layer jacket. It's one of the lightest shell layers in Fjällrävens product range. The fabric of the jacket has also been party recycled and offers four-way stretch movement and a hood with a laminated brim.
 
 <a href="http://amzn.to/2tieDlz" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
+
+<hr>
+
+## Mammut Kento HS Hooded Jacket
+
+<a rel="nofollow" href="https://www.amazon.com/Mammut-Kento-Hooded-Jacket-atlantic/dp/B01N9OWRGU/ref=as_li_ss_il?ie=UTF8&qid=1500549689&sr=8-1&keywords=kento+hs+mammut&linkCode=li3&tag=hikeve-20&linkId=e03b949fe1735f2f245e47b66476cae3" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N9OWRGU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B01N9OWRGU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight**: 400 grams / 14.1 oz.  
+**Fabric**: DRYtech Premium 2.5-layer
+
+The Mammut Men's Kento Jacket provides waterproof protection you can easily pack down so you can take it anywhere you roam, whether you're mountaineering, multi-pitching, or alpine climbing. Its DryTech Premium shell gives this jacket superior waterproof protection that's surprisingly breathable to keep you comfortable when you're working hard. Underarm zippers offer a lot of airflow and ventilation, while the pre-shaped sleeves ensure excellent coverage and mobility while you're climbing.
+
+<a href="http://amzn.to/2gMFR2h" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
+
+<hr>
+
+## Marmot Minimalist Jacket
+
+<a rel="nofollow" href="https://www.amazon.com/Marmot-Mens-Minimalist-Jacket-TrueBlue/dp/B01FWN6YKE/ref=as_li_ss_il?ie=UTF8&qid=1500550666&sr=8-6&keywords=marmot+rain+Jacket&refinements=p_89:Marmot&linkCode=li3&tag=hikeve-20&linkId=7665b40b77ac0a7a9395ee12d3b27bba" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01FWN6YKE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B01FWN6YKE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight**: 425 grams / 15 oz.  
+**Fabric**: Gore-Tex PacLite
+
+The Marmot Minimalist Jacket has been designed for the dedicated outdoors person who is looking for a lightweight solution.
+
+<a href="http://amzn.to/2gMJFAh" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
