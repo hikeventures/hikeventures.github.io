@@ -16,9 +16,9 @@ In this blog post I would like to give you an [overview](#best-satellite-gps-mes
 
 Satellite messengers are especially important if you plan to hike in a location without phone reception.
 
-In the picture below you can see the DeLorme InReach Explorer in his yellow case attached to the backpack.
+DeLorme has been owned by Garmin since 2016 and the units have been replaced with the Garmin InReach Explorer+ or SE+ series.
 
-DeLorme is owned since 2016 by Garmin and the unit has been replaced with the Garmin InReach Explorer+ (see below).
+In the picture below you can see the old DeLorme InReach Explorer in his yellow case attached to the backpack.
 
 <amp-img src="https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg" width="1024" height="683" layout="responsive" alt="Best Satellite Messenger, Locator and Personal Beacon 2017" layout="responsive"></amp-img>
 <br>
