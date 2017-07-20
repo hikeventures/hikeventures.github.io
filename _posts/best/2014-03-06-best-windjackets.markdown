@@ -42,6 +42,9 @@ I always combine a wind jacket together with a [fleece jacket](http://www.hikeve
           <td><a href="http://amzn.to/2e9Y8pz" target="_blank" rel="nofollow">The North Face Fuseform Eragon</a></td><td>140 grams / 4.9 oz.</td>  
         </tr>  
         <tr>  
+          <td><a href="http://amzn.to/2thGiU0" target="_blank" rel="nofollow">Arct'eryx Nodin Jacket</a></td><td>155 grams / 5.5 oz.</td>  
+        </tr>  
+        <tr>  
           <td><a href="http://amzn.to/2elVY64" target="_blank" rel="nofollow">Arcteryx Squamish Hoody</a></td><td>155 grams / 5.5 oz.</td>  
         </tr>
         <tr>  
@@ -66,6 +69,21 @@ The Arc’teryx Incendo Hoody has breathable mesh panels under the arms, a hood 
 The Incendo Hoody is more a running jacket than a hiking jacket but could be an alternative to the Arc’teryx Squamish Hoody if you are an Arc’teryx fan and want to save a few grams.  
 
 <a href="http://amzn.to/2drJ00m" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+---
+
+## Arct'eryx Nodin Jacket
+
+<a rel="nofollow" href="https://www.amazon.com/ArcTeryx-Nodin-Jacket-Nocturne-Large/dp/B01GFMSN46/ref=as_li_ss_il?ie=UTF8&qid=1500536985&sr=8-1&keywords=NODIN+JACKET&linkCode=li3&tag=hikeve-20&linkId=2ddcd97b8a22ddb01c14ca771671187d" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01GFMSN46&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B01GFMSN46" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight**: 155 grams / 5.5 oz.  
+**Fabric**: Tyono 20 denier
+
+The Arc'teryx Nodin Jacket might be a perfect jacket if you are looking ofr a minimalistic jacket. The Nodin jacket is not as durable than the Squamish Hoodie but offers plenty of features e.g. it comes with a full-coverage StowHood. Further, it's also highly compressible and fits into your pocket.
+
+<a href="http://amzn.to/2thLAin" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+---
 
 ## Arc'teryx Squamish Hoodie
 
