@@ -51,6 +51,9 @@ In most cases a lightweight rain jacket which does not need that much space in y
         <tr>  
           <td><a href="http://amzn.to/2eTGFR8" target="_blank" rel="nofollow">Arcteryx Zeta LT Jacket</a></td><td>335 grams / 11.8 oz. </td>  
         </tr>  
+        <tr>  
+          <td><a href="http://amzn.to/2tJNrvy" target="_blank" rel="nofollow">Fjällräven Abisko Eco-Shell Jacket</a></td><td>380 grams / 13.4 oz. </td>  
+        </tr>  
 </tbody>  
 </table>  
 </div>
@@ -76,6 +79,19 @@ However, I would not choose it for packrafting as the fabric N20p 3L is quite th
 The Norvan jacket is more suitable for runners or if you don’t wear a backpack.  
 
 <a href="http://amzn.to/2eTGFR8" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
+
+<hr>
+
+## Fjällräven Absiko Eco-Shell Jacket
+
+<a rel="nofollow" href="https://www.amazon.com/Fjallraven-Abisko-Shell-Jacket-Black/dp/B018RY77II/ref=as_li_ss_il?ie=UTF8&qid=1500548720&sr=8-1&keywords=Abisko+Eco-Shell+Jacket&linkCode=li3&tag=hikeve-20&linkId=9d194f04f20191efd9b9523c5837321d" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B018RY77II&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B018RY77II" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight**: 380 grams / 13.4 oz.  
+**Fabric**: 2.5-layer with four-way stretch
+
+The Fjällräven Absiko Eco-Shell Jacket is a water and windproof 2.5 layer jacket. It's one of the lightest shell layers in Fjällrävens product range. The fabric of the jacket has also been party recycled and offers four-way stretch movement and a hood with a laminated brim.
+
+<a href="http://amzn.to/2tieDlz" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
