@@ -1,5 +1,5 @@
 ---
-title: Best outdoor case to protect your Macbook Pro with Touch Bar 2017
+title: Best outdoor case to protect your Macbook Pro 2017
 description: An interesting MacBook case for your outdoor activities.
 date: 2015-04-16 16:15:35
 update_date: 2016-12-27 06:00:52
@@ -13,13 +13,12 @@ tags:
 layout: post
 ---
 
-Recently, I was looking for a new case for my MacBook Pro 13" 2017 with Touch Bar which would be also suitable for light outdoor activities.
+Recently, I was looking for a new case for my MacBook Pro 13" 2017 with Touch Bar which I can also take with me on light outdoor activities.
 
 I came across the Thule Gauntlet 13" MacBook Attaché which I found to be one of the best outdoor case to protect my MacBook Pro.
 
 <amp-img src="https://farm9.staticflickr.com/8749/17167532371_f36eb8b1f1_b.jpg" width="848" height="636" alt="Thule Gauntlet - Best MacBook Pro 2017 Case for Outdoors" layout="responsive"></amp-img>
-
-
+<br>
 <!--more-->
 
 ## Inateck 13-13.3 Inch Sleeve Case Cover
