@@ -70,19 +70,22 @@ I also had the opportunity to walk on deck of the Shabab Oman II, which is a 87 
 <amp-img src="https://farm5.staticflickr.com/4326/35249725733_e0d910a615_k.jpg" layout="responsive" width="2048" height="1368" alt="Tall Ships Races 2017 Turku"></amp-img>
 
 
+
 <amp-img src="https://farm5.staticflickr.com/4307/35249726473_7336d28c33_k.jpg" layout="responsive" width="2048" height="1368" alt="Tall Ships Races 2017 Turku"></amp-img>
+
 
 
 <amp-img src="https://farm5.staticflickr.com/4301/36016801116_53935bbdc4_k.jpg" layout="responsive" width="2048" height="1368" alt="Tall Ships Races 2017 Turku"></amp-img>
 
 
+
+
 <amp-img src="https://farm5.staticflickr.com/4306/35249727193_ab96e416ae_k.jpg" layout="responsive" width="2048" height="1368" alt="Tall Ships Races 2017 Turku"></amp-img>
 
 
-<amp-img src="https://farm5.staticflickr.com/4317/36016802016_e8bcdd9365_k.jpg" layout="responsive" width="2048" height="1368" alt="Tall Ships Races 2017 Turku"></amp-img>
-
 
 <amp-img src="https://farm5.staticflickr.com/4317/36016802016_e8bcdd9365_k.jpg" layout="responsive" width="2048" height="1368" alt="Tall Ships Races 2017 Turku"></amp-img>
 
+---
 
 <amp-img src="https://farm5.staticflickr.com/4304/35249728093_999d7ac038_k.jpg" layout="responsive" width="2048" height="1368" alt="Tall Ships Races 2017 Turku"></amp-img>
