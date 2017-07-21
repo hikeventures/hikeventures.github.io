@@ -14,7 +14,6 @@ We are wearing since 1 year the Lundhags Jaure Light High on our trips which we 
 
 <amp-img src="https://c1.staticflickr.com/9/8467/28187003200_576ebbf2f0_k.jpg" width="2048" height="1236" alt="Lundhags Jaure Light High review" layout="responsive"></amp-img>
 
-
 > Lundhags Jaure Light High on our [packrafting trip in Sweden](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/).
 
 <!--more-->
