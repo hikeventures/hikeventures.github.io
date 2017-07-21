@@ -7,7 +7,6 @@ comments: false
 sharing: false
 footer: false
 published: true
-image: http://www.hikeventures.com/HV_logo.png
 ---
 
 <div class="my-fluid-container">

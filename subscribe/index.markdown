@@ -5,7 +5,6 @@ date: 2014-03-02 12:45
 comments: false
 sharing: true
 footer: true
-image: http://www.hikeventures.com/HV_logo.png
 ---
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">

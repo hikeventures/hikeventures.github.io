@@ -6,7 +6,6 @@ date: 2012-11-25 17:43
 comments: false
 sharing: false
 footer: false
-image: http://www.hikeventures.com/HV_logo.png
 ---
 <section id="archive">
   <h3>This year's posts</h3>
