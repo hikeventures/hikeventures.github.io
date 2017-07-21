@@ -66,10 +66,6 @@ I also had the opportunity to walk on deck of the Shabab Oman II, which is a 87 
 
 ---
 
-<amp-img src="https://farm5.staticflickr.com/4325/35249718863_400fa3963c_k.jpg" layout="responsive" width="2048" height="1368" alt="Tall Ships Races 2017 Turku"></amp-img>
-
----
-
 <amp-img src="https://farm5.staticflickr.com/4301/35249724973_0dad8ac8b4_k.jpg" layout="responsive" width="2048" height="1368" alt="Tall Ships Races 2017 Turku"></amp-img>
 
 ---
