@@ -12,17 +12,17 @@ tags:
 layout: post
 ---
 
-In this blog post I would like to present you the best backpacking water filters for 2017 which I would take with me on my next hiking or backpacking trip.
+In this blog post I have [selected](#the-best-lightweight-water-filters-of-2017) the best backpacking water filters for 2017 which I would take with me on my next hiking or backpacking trip.
 
-Nowadays, there are several solution on the market. There are water filters where you have to pump the water through the filter or filters which do not require any pump at all (and which are also my personal preference filters).
+There are several solution on the market e.g. water filters where you have to pump water through the filter or filters which do not require any pump at all (and which are also my personal preference filters).
 
 Currently, I am using the Sawyer Mini Water Filtration System on my trips since it is very lightweight and does the job.
 
-In the past I have used the Katadyn Hiker Pro filter. As you can see on the picture below where I am filtering water on a [trip in Northern Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/).
+In the past I have used the Katadyn Hiker Pro filter. On the picture below where I am filtering water on a [trip in Northern Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/).
 
-Also keep in mind that none of the water filters we have selected can filter out viruses. Filters with a carbon element gives the water a neutral taste.
+Also keep in mind that none of the  water filters which we have selected can filter out viruses and filters with a carbon element gives the water a neutral taste.
 
-The water filters which I have selected should not be used with salt water or with water contaminated with chemicals.
+Moreover, the water filters which I have selected should not be used with salt water or with water contaminated with chemicals.
 
 To remove viruses you can combine a filter with e.g. the Steripen Freedom (we have not tested if it effectively removes viruses).
 
@@ -53,7 +53,6 @@ The Steripen uses an UV light against Viruses and can be recharged through the U
 <br>
 
 ## LifeStraw Personal Water Filter
-
 
 <a target="_blank" rel="nofollow"  href="https://www.amazon.com/gp/product/B006QF3TW4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006QF3TW4&linkCode=as2&tag=hikeve-20&linkId=e3280e10d2bcee2e3196e64f56ef7af2"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B006QF3TW4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B006QF3TW4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
