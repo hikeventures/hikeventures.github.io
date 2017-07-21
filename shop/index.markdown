@@ -5,7 +5,7 @@ date: "2017-04-01 18:21"
 comments: false
 footer: false
 navbar: Shop
-
+image: http://www.hikeventures.com/HV_logo.png
 ---
 
 Here is a selection of our favorite camping and blogging gear.
