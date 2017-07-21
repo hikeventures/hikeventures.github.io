@@ -23,9 +23,7 @@ Also have a look on our [FAQ](#faq-on-down-jackets) to learn more about down jac
 
 
 
-<amp-img src="https://farm5.staticflickr.com/4316/35922072391_1ed53e2680_k.jpg" width="2048" height="1360" alt="Best down jackets 2017" layout="responsive"></amp-img>  
-
-<amp-img src="https://c1.staticflickr.com/8/7379/15913311563_d90e96b2c3_k.jpg" width="2048" height="1360" alt="Best down jackets 2017" layout="responsive"></amp-img>   
+<amp-img src="https://farm5.staticflickr.com/4316/35922072391_1ed53e2680_k.jpg" width="2048" height="1360" alt="Best down jackets 2017" layout="responsive"></amp-img>   
 <br>   
 <!--more-->
 
