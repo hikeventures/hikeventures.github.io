@@ -15,7 +15,7 @@ The Tall Ships Races is the largest sailing event in Europe with more than half 
 
 There have been also plenty of activities, concerts and restaurants along the Aura river and there will be also a firework on Saturday.
 
-I also had the opportunity to walk on deck of the Shabab Oman II, which is a 87 metres long full-rigged ship.
+I also had the opportunity to walk on deck of the Shabab Oman II, which is a 87 metres long full-rigged ship. [Here](#ships-leaving-Turku) you can also watch a video how the ships leave Turku.
 
 <amp-img src="https://farm5.staticflickr.com/4291/36016799526_fea641b06f_k.jpg" layout="responsive" width="2048" height="1368" alt="Tall Ships Races 2017 Turku"></amp-img>
 
@@ -95,3 +95,10 @@ I also had the opportunity to walk on deck of the Shabab Oman II, which is a 87 
 ---
 
 <amp-img src="https://farm5.staticflickr.com/4304/35249728093_999d7ac038_k.jpg" layout="responsive" width="2048" height="1368" alt="Tall Ships Races 2017 Turku"></amp-img>
+
+---
+## Ships leaving Turku
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/SRuUvxdM5XA"></iframe>
+</div>
