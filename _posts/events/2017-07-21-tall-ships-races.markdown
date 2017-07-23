@@ -100,5 +100,5 @@ I also had the opportunity to walk on deck of the Shabab Oman II, which is a 87 
 ## Ships leaving Turku
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/SRuUvxdM5XA"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0uos7itp11Q"></iframe>
 </div>
