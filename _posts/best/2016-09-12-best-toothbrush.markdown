@@ -25,8 +25,6 @@ Gum or periodontal disease can cause tooth loss so it's important to keep your t
 
 ## Niche Handy Travel Folding Toothbrush
 
-<a rel="nofollow" href="https://www.amazon.com/Niche-Folding-Toothbrush-Sensitive-Non-Nylon/dp/B06XVDCMPY/ref=as_li_ss_il?s=beauty&ie=UTF8&qid=1500870259&sr=1-2&keywords=GUM+Travel+Folding+Soft+Toothbrush&linkCode=li3&tag=hikeve-20&linkId=570fb568e31420afe2674577f39f47d8" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06XVDCMPY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B06XVDCMPY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
 The Niche Handy Travel Folding Toothbrush is BPA free and comes with soft tapered bristles which are very effective to reach deep between the teeth. The bristle and handle are also antibacterial.
 
 <a href="http://amzn.to/2ur5SqP" rel="nofollow" target="_blank"><img src="http://www.hikeventures.com/buy.gif"></a>
