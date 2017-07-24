@@ -22,9 +22,18 @@ Gum or periodontal disease can cause tooth loss so it's important to keep your t
 
 <hr>
 
-<h2><a href="http://amzn.to/2gbHMYG" rel="nofollow">GUM Travel Folding Soft Toothbrush</a></h2>
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00LV0JR2A/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LV0JR2A&linkCode=as2&tag=hikeve-20&linkId=25915233f3b700ea20fd19f4dfa083d9"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00LV0JR2A&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00LV0JR2A" width="1" height="1" border="0" alt="GUM Travel Folding Soft Toothbrush" style="border:none !important; margin:0px !important;" />
+## Niche Handy Travel Folding Toothbrush
+
+<a rel="nofollow" href="https://www.amazon.com/Niche-Folding-Toothbrush-Sensitive-Non-Nylon/dp/B06XVDCMPY/ref=as_li_ss_il?s=beauty&ie=UTF8&qid=1500870259&sr=1-2&keywords=GUM+Travel+Folding+Soft+Toothbrush&linkCode=li3&tag=hikeve-20&linkId=570fb568e31420afe2674577f39f47d8" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06XVDCMPY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B06XVDCMPY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+The Niche Handy Travel Folding Toothbrush is BPA free and comes with soft tapered bristles which are very effective to reach deep between the teeth. The bristle and handle are also antibacterial.
+
+<a href="http://amzn.to/2ur5SqP" rel="nofollow" target="_blank"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+---
+
+<h2><a href="http://amzn.to/2gbHMYG" rel="nofollow">GUM Travel Folding Soft Toothbrush</a></h2>
 
 The tri-fold design of the GUM Travel Folding Soft Toothbrush enables the brush head to fold into the handle. This allows a convenient and clean storage of the toothbrush in your pocket, backpack or suitcase. The toothbrush has a multi-level antibacterial bristles to clean deep between teeth. It also comes with a tongue cleaner and features an antibacterial agent for continuous protection to maintain the hygiene of bristles.
 
@@ -43,8 +52,6 @@ The Colgate Value Travel Toothbrush is an easy-to-carry toothbrush which folds i
 ---
 
 <h2><a href="http://amzn.to/2gxh2tU" rel="nofollow">GUM Travel Toothbrushes with Antibacterial Bristles</a></h2>
-
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00J5JIMI4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00J5JIMI4&linkCode=as2&tag=hikeve-20&linkId=de32af8920a2f4bf2643b77939310351"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00J5JIMI4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00J5JIMI4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The GUM Travel Toothbrush features a compact and convenient design for travelling and offers you protection for up to 30 days. The cap functions also as a handle.
 
