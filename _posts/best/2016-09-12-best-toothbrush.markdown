@@ -31,7 +31,7 @@ The Niche Handy Travel Folding Toothbrush is BPA free and comes with soft tapere
 
 ---
 
-<h2><a href="http://amzn.to/2gbHMYG" rel="nofollow">GUM Travel Folding Soft Toothbrush</a></h2>
+## GUM Travel Folding Soft Toothbrush
 
 The tri-fold design of the GUM Travel Folding Soft Toothbrush enables the brush head to fold into the handle. This allows a convenient and clean storage of the toothbrush in your pocket, backpack or suitcase. The toothbrush has a multi-level antibacterial bristles to clean deep between teeth. It also comes with a tongue cleaner and features an antibacterial agent for continuous protection to maintain the hygiene of bristles.
 
@@ -39,7 +39,7 @@ The tri-fold design of the GUM Travel Folding Soft Toothbrush enables the brush 
 
 ---
 
-<h2><a href="http://amzn.to/2fNchYf" rel="nofollow">Colgate Value Travel Toothbrush</a></h2>
+## Colgate Value Travel Toothbrush
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B003A4HSIA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003A4HSIA&linkCode=as2&tag=hikeve-20&linkId=fd865632e06f19c93deccadb4add396a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B003A4HSIA&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B003A4HSIA" width="1" height="1" border="0" alt="Colgate Value Travel Toothbrush" style="border:none !important; margin:0px !important;" />
 
@@ -49,7 +49,7 @@ The Colgate Value Travel Toothbrush is an easy-to-carry toothbrush which folds i
 
 ---
 
-<h2><a href="http://amzn.to/2gxh2tU" rel="nofollow">GUM Travel Toothbrushes with Antibacterial Bristles</a></h2>
+## GUM Travel Toothbrushes with Antibacterial Bristles
 
 The GUM Travel Toothbrush features a compact and convenient design for travelling and offers you protection for up to 30 days. The cap functions also as a handle.
 
