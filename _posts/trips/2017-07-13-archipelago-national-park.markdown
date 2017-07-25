@@ -1,5 +1,5 @@
 ---
-title: The Archipelago National Park
+title: The Archipelago National Park Trail
 description: Cycling in the Archipelago National Park
 date: 2017-07-13 08:14:01
 category: destinations
