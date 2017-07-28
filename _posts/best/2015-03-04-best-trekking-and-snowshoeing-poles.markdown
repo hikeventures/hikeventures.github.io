@@ -12,17 +12,19 @@ tags:
 layout: post
 ---
 
-In this article I have selected the best trekking and snowshoeing poles of 2017 for men and women.  
+In this article I have [selected][selected](#the-best-trekking-and-snowshoeing-poles-of-2017) which I would consider to buy.  
 
-Poles are especially useful if you have to walk up or down a mountain or if you have to walk in deep powder snow.  
+Trekking poles are especially useful if you have to walk up or down a mountain or if you have to walk in deep powder snow with your snowshoes.  
 
-Further, you can also use poles for nordic walking.   
+Further, you can also use trekking poles for nordic walking.   
 
 <amp-img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="Best trekking and snowshoeing poles for 2017" layout="responsive"></amp-img>   
 <br>   
 <!--more-->
 
-## The best trekking & snowshoeing poles of 2017
+<hr>
+
+## The best trekking and snowshoeing poles of 2017
 
 <div class="table-responsive">  
       <table class="table table-hover table-bordered list_items">  
@@ -69,9 +71,8 @@ Further, you can also use poles for nordic walking.
 </tbody>  
 </table>  
 </div>  
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
+<!--more-->
 
 ## Black Diamond Distance Carbon FLZ
 
@@ -81,7 +82,7 @@ Further, you can also use poles for nordic walking.
 
 The Black Diamond Distance Carbon FLZ are made of carbon fibre those poles come with FlickLock Pro adjustability. The poles are 3-section foldable.  
 
-<a href="http://amzn.to/2e35k3a" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://amzn.to/2e35k3a" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
 
 <hr>
 
@@ -117,9 +118,9 @@ The Black Diamond Expedition 3 poles are made of Aluminium and can also be used 
 
 The Leki Cressida Antishock has been designed for women and comes with an optimized length and minimized weight as well as an eye catching design. The poles are better suited for smaller hands.   
 
-The poles are made of aircraft grade aluminum. Moreover, Leki has also added its DSS (Dynamic Suspension System) and the Speed Lock 2 external locking system. to the poles.
+The poles are made of aircraft grade aluminum. Moreover, Leki has also added its DSS (Dynamic Suspension System) and the Speed Lock 2 external locking system. to the poles.  
 
-<a href="http://amzn.to/2uV8n3V" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
+<a href="http://amzn.to/2uV8n3V" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>    
 
 <hr>
 
@@ -145,10 +146,9 @@ The Leki Sherpa XL V is a highly robust aluminium pole which provides a safe gri
 
 This trekking pole can easily being unlocked and locked with it’s Speed Lock 2 system.   
 
-The poles come with a comfortable Aergon grip with thermal extension.
+The poles come with a comfortable Aergon grip with thermal extension.  
 
-<a href="http://amzn.to/2trQPye" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
-
+<a href="http://amzn.to/2trQPye" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>    
 
 <hr>
 
@@ -160,10 +160,9 @@ The poles come with a comfortable Aergon grip with thermal extension.
 
 The Leki Vario XS and Walker XX are especially designed for children.   
 
-This pole can be used very versatile e.g. for nordic walking or trail running. The Vario XS comes with the Speed Lock 1 system.
+This pole can be used very versatile e.g. for nordic walking or trail running. The Vario XS comes with the Speed Lock 1 system.  
 
-<a href="http://amzn.to/2sAi7j9" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>  
-
+<a href="http://amzn.to/2sAi7j9" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>    
 
 <hr>
 
@@ -173,7 +172,7 @@ This pole can be used very versatile e.g. for nordic walking or trail running. T
 
 The Walker XS has been  especially designed for children. This pole can be used very versatile e.g. for nordic walking or trail running.   
 
-The Walker XS comes with the Speed Lock 2 system.
+The Walker XS comes with the Speed Lock 2 system.’  
 
 <hr>
 
@@ -209,19 +208,29 @@ If you look specifically for winter poles then you should have a look at the MSR
 
 <hr>
 
-## Differences between snowshoeing and trekking poles
+## FAQ
+
+* [Differences between snowshoeing and trekking poles?](#differences-between-snowshoeing-and-trekking-poles)  
+* [How to choose the best snowshoeing or trekking poles](#how-to-choose-the-best-snowshoeing-or-trekking-poles?)  
+
+### Differences between snowshoeing and trekking poles  
 
 I would say that the main difference between snowshoe and hiking poles is the possibility to add a snow basket to the poles and to expand or shorten the poles while wearing gloves.   
 
-My preference as the best trekking and snowhoeing pole goes towards the MSR Flight.
+My preference as the best trekking and snowhoeing pole goes towards the MSR Flight.  
 
-## How to choose the best snowshoeing or trekking poles?
+<hr>  
+
+### How to choose the best snowshoeing or trekking poles?  
 
 When choosing your trekking or snowshoeing poles you should consider the following features:  
 
 * Do I want to use my poles only during the summer or also during the winter where I need to use snow baskets  
+
 * Do I want to have adjustable poles? They pack smaller but may not be that durable as the ones which cannot be sticked together.  
+
 * Material of the handle - e.g. foam, cork, etc.  
+
 * Weight (lightweight or ultralight poles e.g. made of Carbon or Aluminium)  
 
 <hr>
