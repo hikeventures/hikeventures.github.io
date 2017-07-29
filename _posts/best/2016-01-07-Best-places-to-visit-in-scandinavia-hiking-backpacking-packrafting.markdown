@@ -16,7 +16,7 @@ In case you want to visit some of those places make sure that you plan your rout
 ## The best places to visit in Scandinavia
 
 * [Sarek National Park in Sweden](#sarek-national-park-in-sweden)
-* [Abisko](#abisko-in-sweden)
+* [Abisko in Sweden](#abisko-in-sweden)
 * [Aland Islands in Finland](#aland-islands-in-finland)
 * [Alta in Norway](#alta-in-norway)
 * [Urho Kekkonen National Park in Finland](#urho-kekkonen-national-park-in-finland)
