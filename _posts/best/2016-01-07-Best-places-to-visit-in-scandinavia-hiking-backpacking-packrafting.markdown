@@ -21,7 +21,7 @@ In case you want to visit some of those places make sure that you plan your rout
 * [Alta in Norway](#alta-in-norway)
 * [Urho Kekkonen National Park in Finland](#urho-kekkonen-national-park-in-finland)
 * [Örö Fortress Island in Finland](#örö-fortress-island-in-finland)
-* Hammerfest in Norway(#hammerfest-in-norway)
+* [Hammerfest in Norway](#hammerfest-in-norway)
 
 <amp-img src="https://farm8.staticflickr.com/7385/9599027418_4123160df8_b.jpg" width="992" height="661" alt="best places to go hiking, backpacking and packrafting in scandinavia" layout="responsive"></amp-img>
 <br>Sarek National Park in Sweden
