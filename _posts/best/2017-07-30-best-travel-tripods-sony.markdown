@@ -14,7 +14,7 @@ In this blog post I want to show you [my selection](#the-best-travel-tripods-for
 
 The tripods in this post can also be used on the Sony a9 or a6500 since they share a similar form factor and weight.  
 
-Also have a quick look on my [Tripod FAQ](#faq) before you buy one. Here you can also see which [tripods I use](#my-own-gear) on my trips.  
+Also have a quick look on my [Tripod FAQ](#faq) before you buy one. Here you can also see which [tripods I use](#my-own-gear) on my trips or which [camera bags]([http://www.hikeventures.com/best-camera-bags-cases](http://www.hikeventures.com/best-camera-bags-cases/)/) I would recommend. If you are into vlogging then you might also be interested in [this microphone]([http://www.hikeventures.com/Sennheiser-MKE600/).](http://www.hikeventures.com/Sennheiser-MKE600/)  
 
 <amp-img src="https://farm4.staticflickr.com/3625/13040988355_f0f5951202_k.jpg" width="2048" height="1536" alt="best tripods for Sony a7, a9 or a6500" layout="responsive"></amp-img>   
 <br>   
@@ -57,7 +57,7 @@ Also have a quick look on my [Tripod FAQ](#faq) before you buy one. Here you can
 
 <a rel="nofollow" href="https://www.amazon.com/Joby-Gorillapod-Flexible-Tripod-Cleaning/dp/B0071CIPYI/ref=as_li_ss_il?s=electronics&ie=UTF8&qid=1501390044&sr=1-2-fkmr0&keywords=oby+Gorillapod+Focus/Ballhead+X+Bundle&linkCode=li3&tag=hikeve-20&linkId=5e70cd29447f5d20f8d1804fa75ad13b" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0071CIPYI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B0071CIPYI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
 
-**Weight**: 1.75 kg / 3.86 lbs  
+**Weight**: 1750 grams / 3.86 lbs  
 **Load capacity**: 5 kg / 11 lbs  
 
 The Job GorillaPod Focus with ballhead has been designed for professional SLR cameras and offers flexible and wrapable legs to secure equipment to virtually any surface.  
