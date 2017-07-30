@@ -1,6 +1,6 @@
 ---
-title: My Sony A7, Macbook Pro 2017, Samsung T3, LG 27 4K IPS monitor and Lightroom workflow
-description: Got an A7? See how I manage my files with my Macbook Pro
+title: My Sony a7III, Macbook Pro 2017, Samsung T3, LG 27 4K IPS monitor and Lightroom workflow
+description: Got an a7? See how I manage my files with my Macbook Pro
 date: 2016-07-21 19:10:36
 category: articles
 tags:
@@ -12,11 +12,11 @@ tags:
   - blogging
 layout: post
 ---
-Today, I would like to present my planned workflow using the Sony A7, Samsung T3, Lightroom and the Macbook Pro 2017 which will probably be released soon.
+Today, I would like to present my planned workflow using the Sony a7III, Samsung T3, Lightroom and the Macbook Pro 2017.
 
 Whenever, I buy a new Macbook I also look on what accessories would be available to improve my photography workflow.
 
-I bought my Sony A7 a few months ago as I wanted to have a full frame camera. The Sony A7 is a real bargain compared to the more expensive Sony A7RII.
+I bought my Sony a7 a few months ago as I wanted to have a full frame camera. The Sony a7 is a real bargain compared to the more expensive Sony a7RII. However, I am planning to get the Sony a7III once it will be released since I would like to record in 4K in the future and benefit of faster autofocus.
 
 At the moment I don't need 4K, hundreds of AF tracking points and burst speed is also not important for me. So there is actually no reason for me to pay 2000 EUR more for a camera where I don't use all the functions.
 
@@ -26,7 +26,7 @@ At the moment I don't need 4K, hundreds of AF tracking points and burst speed is
 
 My lens collection consists of the Samyang 14mm f2.8, Zeiss Batis 25mm f2 and currently I am saving for the Sony 70-200 f4. The Samyang is a real bargain compared to the other two lenses but you get a pretty good image quality with it.
 
-Some people had some issues with the durability of the Samyang but for me it's just a play around lens. Usually, I have my Zeiss Batis 25mm on my Sony A7.
+Some people had some issues with the durability of the Samyang but for me it's just a play around lens. Usually, I have my Zeiss Batis 25mm on my Sony a7.
 
 <!--more-->
 
@@ -36,13 +36,13 @@ Previously, I also had the <a href="http://amzn.to/1widRB9" rel="nofollow">Sony 
 
 <a href="https://www.amazon.com/gp/product/B00ITCHY50/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ITCHY50&linkCode=as2&tag=hikeve-20&linkId=a7a63b540fff6a4c959c6a4a5713f093"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00ITCHY50&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00ITCHY50" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-In my planned workflow (once the Macbook Pro 2016 has been released), I am going to connect my A7 (above mounted on a <a href="http://amzn.to/1vIdMYC" rel="nofollow">Slik Mini-Pro III</a> tripod) with my Macbook Pro with a USB cable to transfer the files from my <a href="http://amzn.to/2eaj3bq" rel="nofollow">32 GB SanDisk Extreme Pro UHS-II</a> SD card to my Macbook Pro (I prefer this way rather than pulling the SD card in and out).
+In my planned workflow (once the Macbook Pro 2017 has been released), I am going to connect my a7 (above mounted on a <a href="http://amzn.to/1vIdMYC" rel="nofollow">Slik Mini-Pro III</a> tripod) with my Macbook Pro with a USB cable to transfer the files from my <a href="http://amzn.to/2eaj3bq" rel="nofollow">32 GB SanDisk Extreme Pro UHS-II</a> SD card to my Macbook Pro (I prefer this way rather than pulling the SD card in and out).
 
-The Sony A7 does not support UHS-II so you can also buy a <a href="http://amzn.to/2dFvf1Y" rel="nofollow">cheaper SD card</a>. However, there is a chance that I will buy a camera in the future which supports UHS-II and then I will be covered.
+The Sony a7 does not support UHS-II so you can also buy a <a href="http://amzn.to/2dFvf1Y" rel="nofollow">cheaper SD card</a>. However, there is a chance that I will buy a camera in the future which supports UHS-II and then I will be covered.
 
 <a href="https://www.amazon.com/gp/product/B01AVF6UO8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AVF6UO8&linkCode=as2&tag=hikeve-20&linkId=4f68bf1fe6d9e887166bb42ce103a7a8"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01AVF6UO8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01AVF6UO8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-Next, I open Lightoom which I have configured to auto import images and videos from the A7 to my external <a href="http://amzn.to/2dFw5vv" rel="nofollow">Samsung T3</a> SSD hard drive which is connected with a USB-C cable to my Macbook Pro.
+Next, I open Lightoom which I have configured to auto import images and videos from the a7 to my external <a href="http://amzn.to/2dFw5vv" rel="nofollow">Samsung T3</a> SSD hard drive which is connected with a USB-C cable to my Macbook Pro.
 
 While importing files into Lightroom, I also create smart preview files for each picture which are saved together with my Lightroom catalog on my external <a href="http://amzn.to/2e5l0Cd" rel="nofollow">Samsung T3</a> which I dedicated exclusively to Lightroom. In general you only need to have the lightroom catalogue on a fast drive but having everything on one single SSD drive is probably the most convenient method.
 
