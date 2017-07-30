@@ -10,7 +10,6 @@ tags:
   - tripods
 layout: post
 ---
-
 In this blog post I want to show you [my selection](#the-best-travel-tripods-for-sony-cameras) of the best light travel tripods which I would consider to buy for my Sony a7.   
 
 The tripods in this post can also be used on the Sony a9 or a6500 since they share a similar form factor and weight.  
@@ -32,22 +31,23 @@ Also have a quick look on my [Tripod FAQ](#faq) before you buy one. Here you can
         </thead>  
         <tbody>  
         <tr>  
-          <td><a href="http://amzn.to/2uJQBmW" target="_blank" rel="nofollow">Joby Gorillapod Focus GP8</a></td><td>1.75 kg / 3.86 lbs</td>  
-        </tr>  
-        <tr>  
-          <td><a href="http://amzn.to/2v6MYZ6" target="_blank" rel="nofollow">Manfrotto BeFree Aluminum</a></td><td>1400 grams / 3 lbs</td>  
-        </tr>  
-        <tr>  
           <td><a href="http://amzn.to/2eWn6IU" target="_blank" rel="nofollow">Manfrotto PIXI Mini</a></td><td>190 grams / 0.42 lbs</td>  
         </tr>  
         <tr>  
-          <td><a href="http://amzn.to/2eXgxG0" target="_blank" rel="nofollow">Neewer Carbon Fiber 20</a></td><td>950 grams / 2.1 lbs</td>  
+          <td><a href="http://amzn.to/2uIDsdU" target="_blank" rel="nofollow">SLIK Mini Pro III</a></td><td>300 grams / 0.7 lbs</td>  
         </tr>  
         <tr>  
           <td><a href="http://amzn.to/2uK07GM" target="_blank" rel="nofollow">Sirui 3T-35K</a></td><td>431 grams / 0.95 lbs</td>  
         </tr>  
+    <tr>  
+          <td><a href="http://amzn.to/2eXgxG0" target="_blank" rel="nofollow">Neewer Carbon Fiber 20</a></td><td>950 grams / 2.1 lbs</td>  
+        </tr>  
         <tr>  
-          <td><a href="http://amzn.to/2uIDsdU" target="_blank" rel="nofollow">SLIK Mini Pro III</a></td><td>300 grams / 0.7 lbs</td>  
+          <td><a href="http://amzn.to/2v6MYZ6" target="_blank" rel="nofollow">Manfrotto BeFree Aluminum</a></td><td>1400 grams / 3 lbs</td>  
+        </tr>  
+
+        <tr>  
+          <td><a href="http://amzn.to/2uJQBmW" target="_blank" rel="nofollow">Joby Gorillapod Focus GP8</a></td><td>1.75 kg / 3.86 lbs</td>  
         </tr>  
 </tbody>  
 </table>  
@@ -179,4 +179,4 @@ The Manfrotto is also a good choice if you want to take selfies as you can posit
 
 I also take the Manfrotto tripod with me if I don’t carry much gear with me or if I don’t change my location that often during a trip.  
 
-So what is the best travel tripod? It really depends on the situation and how you are planning to use it.
+So what is the best travel tripod? It really depends on the situation and how you are planning to use it. 
