@@ -155,7 +155,7 @@ Further, it also comes with a quick-release plate so you can easily attach and d
 * [Difference between a light and heavy tripod](#difference-between-a-light-and-heavy-tripod)  
 
 
-#Difference between aluminum and carbon tripod  
+### Difference between aluminum and carbon tripod  
 
 Carbon is lighter than aluminum and is also more weather resistant. A carbon tripod might also be a good choice if you are planning to take pictures at the beach as salt water may not harm carbon that much.   
 
@@ -165,7 +165,7 @@ Another advantage of an aluminum tripod over a carbon tripod is that it’s less
 
 ---  
 
-#Difference between a light and heavy tripod  
+### Difference between a light and heavy tripod  
 
 A heavy tripod might be not suitable for traveling however it has some benefits over a lighter tripod. First of all you can load more weight on it e.g. heavier lenses and equipment and it’s not going to vibrate that much when you are shooting in a windy environment.   
 
@@ -179,4 +179,4 @@ The Manfrotto is also a good choice if you want to take selfies as you can posit
 
 I also take the Manfrotto tripod with me if I don’t carry much gear with me or if I don’t change my location that often during a trip.  
 
-So what is the best travel tripod? It really depends on the situation and how you are planning to use it. 
+So what is the best travel tripod? It really depends on the situation and how you are planning to use it.
