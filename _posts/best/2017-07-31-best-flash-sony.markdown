@@ -9,13 +9,12 @@ tags:
   - best
   - flash
 layout: post
-published: false
 ---
 In this blog post I want to show you [my selection](#the-best-flash-for-sony-cameras) of the best flash which I would consider to buy for my Sony a7.
 
 The flash in this post can also be used on the Sony a9 or a6500 since they share the same hotshoe.
 
-Also have a quick look on my [Flash FAQ](#faq) before you buy a new Flash. Here which [camera bags]([http://www.hikeventures.com/best-camera-bags-cases](http://www.hikeventures.com/best-camera-bags-cases/)/) or [travel tripods](http://www.hikeventures.com/best-travel-tripods-sony/) I would recommend.
+Also have a look on which [camera bags]([http://www.hikeventures.com/best-camera-bags-cases](http://www.hikeventures.com/best-camera-bags-cases/)/) or [travel tripods](http://www.hikeventures.com/best-travel-tripods-sony/) I would recommend with your Sony camera.
 
 <amp-img src="https://farm4.staticflickr.com/3625/13040988355_f0f5951202_k.jpg" width="2048" height="1536" alt="best flash for Sony a7, a9 or a6500" layout="responsive"></amp-img>
 <br>
@@ -125,27 +124,3 @@ The flash is compatible with the Sony Wireless Lighting System and can operate a
 The only limitation is that the Flash won't offer the focus assistant.
 
 <a href="http://amzn.to/2vahXDG" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
-
-<hr>
-
-## FAQ
-
-* [Difference between aluminum and carbon tripod](#difference-between-aluminum-and-carbon-tripod)
-* [Difference between a light and heavy tripod](#difference-between-a-light-and-heavy-tripod)
-
-
-### Difference between aluminum and carbon tripod
-
-Carbon is lighter than aluminum and is also more weather resistant. A carbon tripod might also be a good choice if you are planning to take pictures at the beach as salt water may not harm carbon that much.
-
-An additional layer usually protects the aluminum tripods from erosion. However, sand could cause small scratches to that layer and the tripod may suffer from erosion.
-
-Another advantage of an aluminum tripod over a carbon tripod is that it’s less expensive.
-
----
-
-### Difference between a light and heavy tripod
-
-A heavy tripod might be not suitable for traveling however it has some benefits over a lighter tripod. First of all you can load more weight on it e.g. heavier lenses and equipment and it’s not going to vibrate that much when you are shooting in a windy environment.
-
-A heavier tripod could be also useful if you are planning to use a slider with your tripod.
