@@ -33,7 +33,7 @@ Also have a look on which [camera bags]([http://www.hikeventures.com/best-camera
         </thead>
         <tbody>
         <tr>
-        <td><a href="http://amzn.to/2hfiBu1" target="_blank" rel="nofollow">Manfrotto Lumimuse 8</a></td><td>177 grams / 6.2 oz.</td>
+        <td><a href="http://amzn.to/2hfEoS7" target="_blank" rel="nofollow">Manfrotto Lumimuse 8</a></td><td>177 grams / 6.2 oz.</td>
       </tr>
             <tr>
           <td><a href="http://amzn.to/2v6MYZ6" target="_blank" rel="nofollow">Nissin i40S</a></td><td>205 grams / 7.2 oz.</td>
@@ -181,6 +181,6 @@ Manfrotto also offers a set of filters which can be purchased additionally to th
 
 There is also a hot shoe mount and a 1/4" thread to attach it to a tripod. The LED outputs a color temperature of 5600 K.
 
-<a href="http://amzn.to/2hfiBu1" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://amzn.to/2hfEoS7" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
