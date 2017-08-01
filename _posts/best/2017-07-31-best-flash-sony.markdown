@@ -28,7 +28,7 @@ Also have a look on which [camera bags]([http://www.hikeventures.com/best-camera
       <table class="table table-hover table-bordered list_items_3">
         <thead>
              <tr>
-                <th>Flash</th><th>Weight</th>
+                <th>Flash / Video Light</th><th>Weight</th>
              </tr>
         </thead>
         <tbody>
