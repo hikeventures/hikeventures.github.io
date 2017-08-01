@@ -18,7 +18,7 @@ In my selection I was also taking price into consideration and selected products
 
 Also have a look on which [camera bags]([http://www.hikeventures.com/best-camera-bags-cases](http://www.hikeventures.com/best-camera-bags-cases/)/) or [travel tripods](http://www.hikeventures.com/best-travel-tripods-sony/) I would recommend with your Sony camera.
 
-<amp-img src="https://farm4.staticflickr.com/3625/13040988355_f0f5951202_k.jpg" width="2048" height="1536" alt="best flash for Sony a7, a9 or a6500" layout="responsive"></amp-img>
+<amp-img src="https://farm4.staticflickr.com/3625/13040988355_f0f5951202_k.jpg" width="2048" height="1536" alt="best flash and video lights for Sony a7, a9 or a6500" layout="responsive"></amp-img>
 <br>
 <!--more-->
 
@@ -28,7 +28,7 @@ Also have a look on which [camera bags]([http://www.hikeventures.com/best-camera
       <table class="table table-hover table-bordered list_items_3">
         <thead>
              <tr>
-                <th>Tripod</th><th>Weight</th>
+                <th>Flash</th><th>Weight</th>
              </tr>
         </thead>
         <tbody>
@@ -64,9 +64,9 @@ Also have a look on which [camera bags]([http://www.hikeventures.com/best-camera
 
 <a rel="nofollow" href="https://www.amazon.com/Sony-HVL-F45RM-Compact-Radio-Controlled-Display/dp/B06X15G199/ref=as_li_ss_il?s=photo&ie=UTF8&qid=1501482455&sr=1-17&keywords=flash&refinements=p_72:1248879011&linkCode=li3&tag=hikeve-20&linkId=c7423686a752c429cd1d95f47db11870" target="_blank"><img alt="Sony HVL-F45RM" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06X15G199&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B06X15G199" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 318 grams / 11.2 oz.    
-**recycling time**: 2.5 sec.   
-**batteries**: 4 AA    
+**Weight**: 318 grams / 11.2 oz.
+**recycling time**: 2.5 sec.
+**batteries**: 4 AA
 
 The Sony HVL-F45RM is probably the first choice if you have already a Sony camera. It can operate as a radio wireless receiver or commander beside sitting on your camera.
 
@@ -84,9 +84,9 @@ The output of the flash is 400 lux and is dust- and moisture resistant.
 
 <a rel="nofollow" href="https://www.amazon.com/Nissin-i40S-Camera-Flash-Black/dp/B00NNVE57M/ref=as_li_ss_il?s=photo&ie=UTF8&qid=1501482744&sr=1-1&keywords=nissin+i40&linkCode=li3&tag=hikeve-20&linkId=dcff5ad075fe4201d1b2085556417fa9" target="_blank"><img alt="Nissin i40s" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00NNVE57M&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00NNVE57M" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**weight**: 205 grams / 7.2 oz.    
-**recycling time**: 0.1 - 4 sec.    
-**batteries**: 4 AA    
+**weight**: 205 grams / 7.2 oz.
+**recycling time**: 0.1 - 4 sec.
+**batteries**: 4 AA
 
 Nissin i40 has a video light function which could be a great feature if you are a vlogger.
 
@@ -104,9 +104,9 @@ It also comes with a Fill-in reflector and Light diffusing panel.
 
 <a rel="nofollow" href="https://www.amazon.com/Metz-Mecablitz-Interface-MZ-M400S/dp/B01MTK8OSB/ref=as_li_ss_il?s=electronics&ie=UTF8&qid=1501483112&sr=1-3&keywords=mecablitz+m400&linkCode=li3&tag=hikeve-20&linkId=1c1589f92c712cfdc1095d30dfebba77" target="_blank"><img alt="Metz M400" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MTK8OSB&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B01MTK8OSB" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**weight**: 221 grams / 7.8 oz.     
-**recycling time**: 0.1 - 3.2 sec.    
-**batteries**: 4 AA    
+**weight**: 221 grams / 7.8 oz.
+**recycling time**: 0.1 - 3.2 sec.
+**batteries**: 4 AA
 
 The Metz M400 has a zoom range of 24-105mm and comes with a video light function.
 
@@ -126,9 +126,9 @@ The Metz M400 also received the TIPA award for the the best portable Flash in 20
 
 <a rel="nofollow" href="https://www.amazon.com/Godox-TT685S-Speedlite-X1T-S-Trigger/dp/B01EHJMAAC/ref=as_li_ss_il?s=electronics&ie=UTF8&qid=1501483328&sr=1-3&keywords=Godox+sony&linkCode=li3&tag=hikeve-20&linkId=00c608c273dcbac8f295afabc9cf2d86" target="_blank"><img alt="Godox TT685S HSS 1" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01EHJMAAC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B01EHJMAAC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**weight**: 410 grams / 14 oz.    
-**recycling time**:  0.1 - 2.6 sec.    
-**batteries**: 4 AA    
+**weight**: 410 grams / 14 oz.
+**recycling time**:  0.1 - 2.6 sec.
+**batteries**: 4 AA
 
 The Godox TT685S HSS 1 offers a zoom range of 20-200mm and comes with a built-in wireless radio system. The flash can output 230 full power flashes with 2500mA Ni-MH batteries.
 
@@ -157,8 +157,8 @@ There is also a hard shell case included to keep the parts together and transpor
 ## Neewer CN-576
 <a rel="nofollow" href="https://www.amazon.com/Neewer-Dimmable-Digital-Camcorder-Panasonic/dp/B00KKCMFDI/ref=as_li_ss_il?s=photo&ie=UTF8&qid=1501492595&sr=1-112&keywords=video+light&refinements=p_72:1248879011&linkCode=li3&tag=hikeve-20&linkId=fcd80f52e6e78574764800db2066a3c2" target="_blank"><img alt="Neewer CN-576" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00KKCMFDI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00KKCMFDI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**weight:** 1050 grams / 37 oz.   
-**batteries:** Sony NP-F battery or AC adapter    
+**weight:** 1050 grams / 37 oz.
+**batteries:** Sony NP-F battery or AC adapter
 
 The Neewer CN-576 comes with 576 individual LEDs, 3 filters and provides changeable color temperatures (3200K to 5600K) and brightness.
 
@@ -175,7 +175,7 @@ The light is flicker free and dimmable.
 ## Manfrotto LUMIMUSE 8 LED
 <a rel="nofollow" href="https://www.amazon.com/LUMIMUSE-LED-Light-Accessories-Black/dp/B00WS2EL62/ref=as_li_ss_il?s=photo&ie=UTF8&qid=1501492595&sr=1-117&keywords=video+light&refinements=p_72:1248879011&linkCode=li3&tag=hikeve-20&linkId=cb8d967662f01194fb762a131012e2dc" target="_blank"><img alt="Manfrotto LUMIMUSE 8 LED" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00WS2EL62&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00WS2EL62" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**weight:** 177 grams / 6.2 oz.    
+**weight:** 177 grams / 6.2 oz.
 
 The Manfrotto LUMIMUSE 8 LED is an ultra-portable LED light for vloggers and comes with a set of snap-fit filters which can be stored in a carrying case.
 
