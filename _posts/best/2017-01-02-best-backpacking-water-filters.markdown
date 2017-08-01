@@ -29,9 +29,8 @@ To remove viruses you can combine a filter with e.g. the Steripen Freedom (we ha
 The Steripen uses an UV light against Viruses and can be recharged through the USB port. Also have a look at our interview at the end of this article.
 
 <amp-img src="https://c1.staticflickr.com/8/7459/9599019542_fa67333918_k.jpg" width="2048" height="1365" alt="Best lightweight water filters 2017" layout="responsive"></amp-img>
-
+<br>
 <!--more-->
-
 <h2>The best lightweight water filters of 2017</h2>
 
 <div class="table-responsive">
@@ -47,11 +46,9 @@ The Steripen uses an UV light against Viruses and can be recharged through the U
 </a></td><td><a rel="nofollow" href="http://amzn.to/2lZIqQl" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy1.gif"></a></td><td><a rel="nofollow" href="http://amzn.to/2lZGgjz" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy1.gif"></a></td><td><a rel="nofollow" href="http://amzn.to/2qdeoXm" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy1.gif"></a></td></tr>
         </tbody></table>
 </div>
-
 <br>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
-
 ## LifeStraw Personal Water Filter
 
 <a target="_blank" rel="nofollow"  href="https://www.amazon.com/gp/product/B006QF3TW4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006QF3TW4&linkCode=as2&tag=hikeve-20&linkId=e3280e10d2bcee2e3196e64f56ef7af2"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B006QF3TW4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B006QF3TW4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

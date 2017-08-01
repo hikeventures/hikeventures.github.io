@@ -52,7 +52,9 @@ Also have a quick look on my [Tripod FAQ](#faq) before you buy one. Here you can
 </tbody>
 </table>
 </div>
-
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 ## Joby Gorillapod Focus GP8
 
 <a rel="nofollow" href="https://www.amazon.com/Joby-Gorillapod-Flexible-Tripod-Cleaning/dp/B0071CIPYI/ref=as_li_ss_il?s=electronics&ie=UTF8&qid=1501390044&sr=1-2-fkmr0&keywords=oby+Gorillapod+Focus/Ballhead+X+Bundle&linkCode=li3&tag=hikeve-20&linkId=5e70cd29447f5d20f8d1804fa75ad13b" target="_blank"><img alt="Joby Gorillapod Focus GP8" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0071CIPYI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B0071CIPYI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -137,7 +139,7 @@ Further, it also comes with a quick-release plate so you can easily attach and d
 
 ## SLIK Mini Pro III
 
-<a rel="nofollow" href="https://www.amazon.com/Table-Tripod-2-Section-Black-611-351/dp/B0000C16R5/ref=as_li_ss_il?s=electronics&ie=UTF8&qid=1501356039&sr=1-1&keywords=SLIK+Mini+Pro+III+Table+Top+Tripod,+2-Section,+Max+10%22+Black+(611-351)&linkCode=li3&tag=hikeve-20&linkId=cf7ed3ef805c5ab3c283effdaef53676" target="_blank"><img alt="SLIK Mini Pro III" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0000C16R5&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B0000C16R5" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a rel="nofollow" href="https://www.amazon.com/Table-Tripod-2-Section-Black-611-351/dp/B0000C16R5/ref=as_li_ss_il?s=electronics&ie=UTF8&qid=1501356039&sr=1-1&keywords=SLIK+Mini+Pro+III+Table+Top+Tripod,+2-Section,+Max+10%22+Black+(611-351)&linkCode=li3&tag=hikeve-20&linkId=cf7ed3ef805c5ab3c283effdaef53676" target="_blank"><img alt="SLIK Mini Pro III" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0000C16R5&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B0000C16R5" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **weight**: 300 grams / 0.7 lbs
 **load capacity**: 0.7 lbs

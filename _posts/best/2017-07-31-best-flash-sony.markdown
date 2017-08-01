@@ -57,7 +57,9 @@ Also have a look on which [camera bags]([http://www.hikeventures.com/best-camera
 </tbody>
 </table>
 </div>
-
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 ## Sony HVL-F45RM
 
 <a rel="nofollow" href="https://www.amazon.com/Sony-HVL-F45RM-Compact-Radio-Controlled-Display/dp/B06X15G199/ref=as_li_ss_il?s=photo&ie=UTF8&qid=1501482455&sr=1-17&keywords=flash&refinements=p_72:1248879011&linkCode=li3&tag=hikeve-20&linkId=c7423686a752c429cd1d95f47db11870" target="_blank"><img alt="Sony HVL-F45RM" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06X15G199&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B06X15G199" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
