@@ -55,5 +55,11 @@ What I don't like on this lens is that it is quite expensive but on the other ha
 ---
 
 ## Would I recommend the Zeiss Batis 25mm
-Yes, that's the best lens which I ever had on a Sony A7. As it is light and relatively small it's also a great lens for outdoor photographers who need weather resistant gear and who want to travel light. The lens is super versatile. It let's a lot of light through which makes it also an interesting lens for night and astrophotography. Need a nice bokeh? No need to change lenses. Just set the aperture to 2.0. The Zeiss Batis 25mm would definitely be a great lens for [our trips](http://www.hikeventures.com/destinations/).
+Yes, that's the best lens which I ever had on a Sony A7. As it is light and relatively small it's also a great lens for outdoor photographers who need weather resistant gear and who want to travel light.
+
+The lens is super versatile. It let's a lot of light through which makes it also an interesting lens for night and astrophotography. Need a nice bokeh? No need to change lenses. Just set the aperture to 2.0.
+
+The Zeiss Batis 25mm would definitely be a great lens for [our trips](http://www.hikeventures.com/destinations/).
 As a side note, I have also used the <a href="http://amzn.to/2akpsuN" rel="nofollow">Hoya 67mm DMC PRO1 Clear Protector Digital Filter</a> when I took the pictures.
+
+<a href="http://amzn.to/2uYei9j" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>

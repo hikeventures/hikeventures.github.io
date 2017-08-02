@@ -26,9 +26,17 @@ Today, I grabbed my camera in the afternoon trying to capture some sunset pictur
 <br>
 
 
-In general the Sony 35mm renders also nice pictures as you can see in this article. I like to play around with objects in the foreground and a blurred background. However, with the Sony 35mm F2.8 Sonnar T* FE ZA lens the manual focusing is working ok but it's not perfect. Manual focusing on the Zeiss Loxia 35mm will be much smoother and the Loxia will give me some additional light and more creative possibilities than my current Sony 35mm 2.8.
+In general the Sony 35mm renders also nice pictures as you can see in this article. I like to play around with objects in the foreground and a blurred background.
+
+However, with the Sony 35mm F2.8 Sonnar T* FE ZA lens the manual focusing is working ok but it's not perfect. Manual focusing on the Zeiss Loxia 35mm will be much smoother and the Loxia will give me some additional light and more creative possibilities than my current Sony 35mm 2.8.
 
 <a href="https://www.flickr.com/photos/90204224@N07/15183478053"><img src="https://farm9.staticflickr.com/8609/15183478053_5619ab8d40_h.jpg" width="1600" height="1068" alt="Zeiss Loxia 35mm 2.0 2.8"></a>
+
 I am not that much into video yet but for the future the Loxia would have an advantage here as well since it comes with a tool to remove the clicks when focusing which could be disturbing when taking videos.
 <a href="https://www.flickr.com/photos/90204224@N07/15617533168"><img src="https://farm8.staticflickr.com/7470/15617533168_e55b7ed8c3_h.jpg" width="1600" height="1068" alt="Zeiss Loxia 35mm 2.0 2.8"></a>
-Also the rendering of the pictures should have a more Zeiss looking style which should give the pictures a more 3 dimensional look and feel. However, I need to test this first as the 35mm Loxia lens is not available yet. There is also the [Zeiss Loxia 50mm f/2 Planar T*](http://amzn.to/11bfg1A) lens available but since I am more into landscape photography the 35mm is my choice.
+
+Also the rendering of the pictures should have a more Zeiss looking style which should give the pictures a more 3 dimensional look and feel.
+
+However, I need to test this first as the 35mm Loxia lens is not available yet. There is also the [Zeiss Loxia 50mm f/2 Planar T*](http://amzn.to/11bfg1A) lens available but since I am more into landscape photography the 35mm is my choice.
+
+<a href="http://amzn.to/2uYaDss" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>

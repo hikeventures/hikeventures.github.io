@@ -30,4 +30,6 @@ On my last trip I had a normal pen and paper with me to write down some notes. A
 The Field Notes Expedition notebook and Space Pen are quite useful for outdoor activities especially if you travel in moisture or wet areas. Alternatively, you may also document your trips on your smartphone depending which method you prefer and if you want to carry an additional memo book and pen with you. Personally, I found it more relaxed to write on paper when I am outdoors but since I always carry a smartphone with me to take pictures carrying an additional paper notebook can be quite pointless.
 
 ## DSLR, GoPro or mirrorless camera
-Beside my smartphone I also take a GoPro and DSLR camera with me if I want to take high quality pictures e.g. from the landscape. Beside the image quality you also get a better dynamic range with DSLRs than with smartphones.
+Beside my smartphone I also take a GoPro and DSLR camera with me if I want to take high quality pictures e.g. from the landscape. Beside the image quality you also get a better dynamic range with DSLRs than with smartphones
+
+<a href="http://amzn.to/2uVkH6Z" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>

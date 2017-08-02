@@ -56,4 +56,8 @@ Another good feature of the Legend GoPro Case is that you can easily clean the f
 <img src="https://farm1.staticflickr.com/649/21307707898_85b5d0a0dc_b.jpg" width="100%" >
 
 ## Conclusion
-The Thule Legend GoPro Case is a nice addition to your GoPro Camera especially if you have plenty of GoPro equipment. Even so the case is made to protect your camera, I rather use it to keep my camera gear organised and in one place. The case also protects the housing of the camera in getting scratches while transporting the camera in your backpack. There is also the Thule Legend GoPro Advanced Case if you need to carry two GoPro cameras with you.
+The Thule Legend GoPro Case is a nice addition to your GoPro Camera especially if you have plenty of GoPro equipment. Even so the case is made to protect your camera, I rather use it to keep my camera gear organized and in one place.
+
+The case also protects the housing of the camera in getting scratches while transporting the camera in your backpack. There is also the Thule Legend GoPro Advanced Case if you need to carry two GoPro cameras with you.
+
+<a href="http://amzn.to/2uYLXQy" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>

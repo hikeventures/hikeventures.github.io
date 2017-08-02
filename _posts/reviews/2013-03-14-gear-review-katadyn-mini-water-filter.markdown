@@ -34,3 +34,5 @@ I have tested the Katadyn Mini Water Filter on <a href="http://hikeventures.com/
 
 ## Alternative
 If you are looking for an ultralight water filter where you don't have to pump then you should have a look at the <a href="http://amzn.to/2rncNiF" rel="nofollow">Sawyer Water Filter</a> which also comes with a lower price tag.
+
+<a href="http://amzn.to/2vhRYdF" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>

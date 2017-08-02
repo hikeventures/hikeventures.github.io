@@ -35,4 +35,10 @@ The pouch seals the camera completely against the worst rain. The aquapac waterp
 This bag is small and fits easily into every backpack. You can carry it with a shoulder strap or attach it on a belt or even on your <a href="http://hikeventures.com/gear-review-unpacking-alpacka-packraft/" target="_self">packraft</a> with the integral lash tab. The pouch has no external pockets and it takes a little more time to open and to close it since you have a roll-down seal. However, I was quite happy with the pouch during my last trips with my Sony A7r.
 
 ## Recommendation
-Manufacturing and materials seems to have high quality on the Aquapac Waterproof Camera Pouch. This seems to be a good bag for outdoor activities where water is involved. However, I found it a bit difficult to access the camera quickly. The Ortlieb camera bags seems to be a better alternative regarding accessing your camera quickly.  The Aquapac  Waterproof Camera Pouch has 5 years warranty and is PVC free. The Aquapac customer service was also helpful. I always got an answer to my emails and was promised to send the pouch bag in case the size would be too small.
+Manufacturing and materials seems to have high quality on the Aquapac Waterproof Camera Pouch. This seems to be a good bag for outdoor activities where water is involved. However, I found it a bit difficult to access the camera quickly.
+
+The Ortlieb camera bags seems to be a better alternative regarding accessing your camera quickly.  
+
+The Aquapac  Waterproof Camera Pouch has 5 years warranty and is PVC free. The Aquapac customer service was also helpful. I always got an answer to my emails and was promised to send the pouch bag in case the size would be too small.
+
+<a href="http://amzn.to/2u3iw2z" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>

@@ -27,3 +27,5 @@ Have a look <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the
 
 ## Recommendation
 If you are looking for a 4-season tent then the Hilleberg Nallo is probably the better choice.
+
+<a href="http://amzn.to/2wkYflB" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>

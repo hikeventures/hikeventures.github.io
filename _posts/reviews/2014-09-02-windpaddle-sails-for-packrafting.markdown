@@ -48,3 +48,5 @@ Below you can see a video how I use the windpaddle sail with a packraft.
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/137692156"></iframe> <p><a href="https://vimeo.com/137692156">Windpaddle Sailing with my Packraft in Finland</a> from <a href="https://vimeo.com/user15105973">Hikeventures</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
+
+<a href="http://amzn.to/2uYBuVe" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>

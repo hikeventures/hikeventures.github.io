@@ -26,4 +26,8 @@ I have previously also reviewed the <a href="http://hikeventures.com/gear-review
 * dimensions: 104 mm / 165 mm vs. 104 mm / 180 mm
 * Jetboil Flash has 1/3 lower price tag
 
-Obviously, if you are on a budget and need to boil for more people then you should go for the Jetboil Flash. Ultralight freaks who need the latest and lightest equipment should opt for the Jetboil Sol Ti and of course have to pay a premium for it. Anyway, I'm very satisfied with these Jetboil stoves . They heat up water very quickly and are well designed.
+Obviously, if you are on a budget and need to boil for more people then you should go for the Jetboil Flash. Ultralight freaks who need the latest and lightest equipment should opt for the Jetboil Sol Ti and of course have to pay a premium for it.
+
+Anyway, I'm very satisfied with these Jetboil stoves . They heat up water very quickly and are well designed.
+
+<a href="http://amzn.to/2uVsOk5" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>

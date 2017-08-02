@@ -31,3 +31,5 @@ The front of the shoes protects very well while walking in the mountains and the
 
 ## Recommendation
 I have tested the Inov-8 Roclite 295 on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden. Well, I had constantly wet feet with those shoes but on the other hand they were easy to attach on the backpack while packrafting. Most likely I would take proper hiking shoes if I would go to Sarek National Park again in order to stay dry but if I would hike in an area which is less wet the Roclite 295 would work quite well as an ultralight hiking boot.
+
+<a href="http://amzn.to/2uY26W9" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>

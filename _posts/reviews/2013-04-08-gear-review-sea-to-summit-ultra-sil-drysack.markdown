@@ -30,3 +30,5 @@ I decided to go for the cordura version of the Sea to Summit Dry Sacks. Even so 
 
 ## Recommendation
 I have tested the Sea to Summit Ultra Sil Drysack on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden and those drysacks performed quite well to keep our clothes dry. Alternatively, I would also recommend the Sea to Summit Ultra-Sil Compression Sack which I prefer even more. It weights 136 grams but you will be able to pack gear like down sleeping bag or down jackets really small.
+
+<a href="http://amzn.to/2uVle96" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>

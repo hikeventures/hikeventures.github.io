@@ -29,3 +29,5 @@ The remote control is quite handy if you want to use the bulb function of the ca
 Before you can actually use the remote control with the a7R you have to change the remote control setting on your camera.
 
 <img src="http://farm3.staticflickr.com/2829/11856929704_c0e64fb9db_c.jpg" alt="a7R  remote control setting">
+
+<a href="http://amzn.to/2vijaJ1" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>

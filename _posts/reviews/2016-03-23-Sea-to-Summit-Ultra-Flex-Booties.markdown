@@ -43,3 +43,5 @@ As the Sea to Summit booties do also completely enclose your feet you will proba
 Finally, you should also consider to have shoes or sandals which are not slippery when walking on rocks and both shoes - the Sea to Summit and the Teva - made a good impression.
 
 We will continue testing the Sea to Summit Ultra Flex Booties this year to see how durable they are.
+
+<a href="http://amzn.to/2uVlqoE" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>

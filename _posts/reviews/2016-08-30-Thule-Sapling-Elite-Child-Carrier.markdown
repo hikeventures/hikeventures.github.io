@@ -61,6 +61,8 @@ I also stored a rain cover in the bag of the backpack which I could easily acces
 
 My child also asked me a couple of times if I could carry her around in the backpack so I assume that she liked the child carrier backpack as well.
 
-More testing is needed to test the durability of the backpack but my first impressions are quite positive. 
+More testing is needed to test the durability of the backpack but my first impressions are quite positive.
 
 The only negative point I could think of is that the backpack could fall forward with the child if it stands with the stand on the ground but this is probably also the case with other child carrier backpacks.
+
+<a href="http://amzn.to/2uXVYNL" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>

@@ -20,6 +20,10 @@ The Jetboil stove can heat 0.5 l in 2 minutes and 15 seconds which is equal to 1
 <br>
 <!--more-->
 
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
+
 ## Features
 The Jetboil Sol Ti boils 0.8l water fast, is packable and weights only 240 grams. A 100 grams gas canister can boil around 12 liter of water.
 
@@ -38,7 +42,3 @@ I have tested the Jetboil Sol Ti on <a href="http://hikeventures.com/hiking-and-
 
 ## Alternatives
 Have a look at the newer models like the Jetboil MiniMo or the MSR WindBurner if you want a newer and better stove.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
