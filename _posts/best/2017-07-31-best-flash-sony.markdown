@@ -1,5 +1,5 @@
 ---
-title: Best flash and video lights for Sony a7, a9 or a6500
+title: Best compact flash and video lights for Sony a7, a9 or a6500
 description: The best flash and video lights for Sony Cameras
 date: 2017-03-02 20:43:52
 category: articles
@@ -10,7 +10,7 @@ tags:
   - flash
 layout: post
 ---
-In this blog post I want to show you [my selection](#the-best-flash-for-sony-cameras) of the best flash which I would consider to buy for my Sony a7.
+In this blog post I want to show you [my selection](#the-best-flash-for-sony-cameras) of the best compact flash which I would consider to buy for my Sony a7.
 
 The flash in this post can also be used on the Sony a9 or a6500 since they share the same hotshoe. A flash can be useful in various situations, for example to get a more balanced color during daylight or as a controller for other flash lights.
 
