@@ -49,13 +49,13 @@ Looking back towards Loch Gabhrach. Meanwile the weather changed and it became m
 
 Once we reached the the crest we walked it along passing the Devil's Ladder.
 <a href="https://www.flickr.com/photos/90204224@N07/10641005465" ><img src="https://farm6.staticflickr.com/5510/10641005465_7a82a8c5f4_b.jpg" width="1024" height="683" ></a>
-Plenty of scree was on our way up to the summit of Corrán Tuathail and the weather became with each step more and more nasty so I decided to put on my rain jacket.\<br\>\<br\>
+Plenty of scree was on our way up to the summit of Corrán Tuathail and the weather became with each step more and more nasty so I decided to put on my rain jacket.
 
 <a href="https://www.flickr.com/photos/90204224@N07/10641062906" ><img src="https://farm6.staticflickr.com/5497/10641062906_448ebe7795_b.jpg" width="1024" height="768" ></a>
-It was just cold and wet on top of Corrán Tuathail.\<br\>\<br\>
+It was just cold and wet on top of Corrán Tuathail.
 
-<a href="https://www.flickr.com/photos/90204224@N07/10641287753" ><img src="https://farm3.staticflickr.com/2858/106412877532b2f6cde01b.jpg" width="1024" height="576" ></a>
-A summit cross welcomed us on top of Corrán Tuathail and other hikers tried to get out their rain jackets and snacks.\<br\>\<br\>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/10641287753" title="Ireland Killarney"><img src="https://farm3.staticflickr.com/2858/10641287753_2b2f6cde01_b.jpg" width="1024" height="576" alt="Ireland Killarney"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+A summit cross welcomed us on top of Corrán Tuathail and other hikers tried to get out their rain jackets and snacks.
 
 <a href="https://www.flickr.com/photos/90204224@N07/10641287753" ><img src="https://farm3.staticflickr.com/2858/10641287753_2b2f6cde01_b.jpg" width="1024" height="576" ></a>
 
@@ -102,7 +102,7 @@ Boulders are spread over the area.
 Listening to the water rushing down the waterfall while having a break.
 
 <a href="https://www.flickr.com/photos/90204224@N07/10641114974" ><img src="https://farm8.staticflickr.com/7411/10641114974_fe27414901_h.jpg" width="1600" height="900" ></a>
-Suddenly, the view opens towards a scenic valley.\<br\>\<br\>
+Suddenly, the view opens towards a scenic valley.
 
 <a href="https://www.flickr.com/photos/90204224@N07/10641120944" ><img src="https://farm8.staticflickr.com/7436/10641120944_39688900b7_h.jpg" width="1600" height="777" ></a>
 
