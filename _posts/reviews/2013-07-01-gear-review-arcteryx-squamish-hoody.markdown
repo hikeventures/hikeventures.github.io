@@ -13,9 +13,13 @@ image: https://farm8.staticflickr.com/7362/9185822642_76ec520b9c_b.jpg
 Since I am planning to go to Sarek National Park in Sweden this autumn, I was looking for a wind jacket which I could take along with me beside a rain jacket and which would also be suitable to wear in the the mountains i.e. light and breathable. After reviewing several jackets, I went with the Arc'teryx Squamish Hoody which I have used now extensively on all my hiking, backpacking and other backcountry trips and here comes a short review.
 
 <amp-img src="https://farm8.staticflickr.com/7362/9185822642_76ec520b9c_b.jpg" layout="responsive" width="1024" height="683" alt="Arc'teryx Squamish Hoody"></amp-img>
-
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
+
 
 ## Features
 I really like the quality of materials on the Arc'teryx Squamish Hoody, it's breathability and that's it doesn't take much space in the backpack. This windbreaker is also able to handle light rain due to it's DWR finish, comes with adjustable cuffs, hem drawcord and is helmet compatible. This wind jacket also feels soft to the skin and weights only 145 grams.
@@ -46,7 +50,3 @@ Size of the Squamish Hoody compared to the <a href="http://hikeventures.com/gear
 
 ## Recommendation
 I take a wind jacket on all my hikes. The Arc'teryx Squamish Hoody packs light, is small and feels good on the skin. You don't sweat as much as hiking with a [hard shell jacket](http://hikeventures.com/best-waterproof-rain-jackets/) if you want to protect yourself from cold winds. My recommendation is to take both, a wind jacket and a rain jacket to your hikes. Or if there are plenty of shelters available on the trail then you could even manage just with a wind jacket. I have used the Arc'teryx Squamish Hoody on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek National Park</a> in Sweden. This is definitely my favorite wind jacket. Worth to have in your backpack.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

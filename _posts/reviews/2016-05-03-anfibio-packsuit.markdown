@@ -14,9 +14,13 @@ image: https://farm2.staticflickr.com/1461/26742804516_281978b871_b.jpg
 Last Sunday, <a href="http://caide.kuvat.fi">Caj</a> and his wife joined me for a trip in the Finnish Archipelago Sea around Ruisalo in Turku as they wanted to test their new Anfibio Packsuit which they ordered from the <a href="http://www.packrafting-store.de/Clothing/Anfibio-Packsuit::378.html">Packrafting Store</a> in Germany. Caj was already a bit in panic if he would receive his drysuite on time as he was planning to take it to the <a href="https://www.facebook.com/events/501436800038543/">Swedish Packrafting Round-Up 2016</a> which will take place next weekend.
 
 <amp-img src="https://farm2.staticflickr.com/1461/26742804516_281978b871_b.jpg" width="1024" height="768" layout="responsive" alt="Packrafting in Turku with Anfibio Packsuit"></amp-img>
-
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
+
 
 Caj decided to take his GoPro Hero Session camera to film our paddling adventure around the Turku islands. I have paddled already <a href="http://www.hikeventures.com/Paddling-the-Archipelago-Sea/">last year</a> quite a lot in the Turku Archipelago during the seasons.
 
@@ -77,7 +81,3 @@ Once we came closer to the shore we had plenty of fun watching Caj testing his n
 </div>
 
 After paddling and drysuite testing we can probably say that we are ready for the Swedish Packrafting Round-Up 2016 next weekend.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

@@ -13,9 +13,13 @@ image: https://c6.staticflickr.com/9/8173/28716081045_3a83f76f0a_k.jpg
 A few weeks ago I received the Marmot Force UL 2P from Marmot to test it on my summer trips in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/) and [Norway](http://www.hikeventures.com/Finnmark/). I was interested in the Marmot Force UL 2P as I was looking for a light 3-season solo tent which can also handle somewhat stronger winds on the Norwegian coast.
 
 <amp-img src="https://c6.staticflickr.com/9/8173/28716081045_3a83f76f0a_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P review" layout="responsive"></amp-img>
-
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
+
 
 ## Initial thoughts
 My first thoughts were that the tent is very light but also found that one peg was missing and that a small piece of the inner tent mesh was a bit distorted. I was a bit worried that the inner tent may not survive one week in the wilderness. The fabric of the tent is quite thin and I was considering using an additional tent footprint under the tent to avoid getting holes into the tent floor. However, I decided to use the tent without the additional tent footprint to test the durability of the tent floor.
@@ -101,7 +105,3 @@ I liked that the inner tent was completely made of mesh. Here you can see the Ma
 
 ## Conclusion
 I would recommend the Marmot Force UL 2P if you need a light 3-season solo tent. I liked the weight, the panorama windows on both sides and that there is enough space for your gear under the vestibules. I also did not get any holes in the tent floor during my one week trip. The air flow was also ok with both outer tent doors closed but was even better when slightly opened. The mesh of the inner tent seems to be a bit fragile and should be improved to increase the durability of the inner tent. Apart from that I was quite happy with the tent.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

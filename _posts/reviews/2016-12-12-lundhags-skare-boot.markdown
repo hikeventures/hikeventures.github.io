@@ -14,8 +14,13 @@ image: https://c3.staticflickr.com/1/122/30750594194_cf4f4aba81_k.jpg
 A view days ago we received our new winter boots from Lundhags for testing - the Lundhags Skare boots - which we will take with us to Norway in January. We have spotted those new winter boots from Lundhags this year at the ISPO in Munich and immediately fell in love with them. [Here](https://www.youtube.com/watch?v=ZeTPbkozsqU "Lundhags Skare Boots") you can also find a video where we interviewed the Marketing Manager from Lundhags. The Skare boot also won the Scandinavian Outdoor Award 2016. We are already wearing the [Lundhags Jaure Light High](http://www.hikeventures.com/Lundhags-Jaure-Light/) during the warmer months so we were quite excited to try the new Skare boots.
 
 <amp-img src="https://c3.staticflickr.com/1/122/30750594194_cf4f4aba81_k.jpg" width="2048" height="1152" alt="Lundhags Skare Boot Review" layout="responsive"></amp-img>
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
+
 
 So what’s so special about those boots? First of all they are quite lightweight but the highlight is the removable inner boot which is made from wool felt. After a long snowshoeing or skiing trip you can just remove those inner boots and let them dry separately. You will have dry boots in a shorter period of time. What’s more you can use those inner boots as slippers when you stay overnight in huts. As most of the Lundhags boots, the Skare boots are shell boots and made of leather.
 
@@ -44,7 +49,3 @@ We never had we socks when wearing those boots on our winter trip. On one occasi
 
 ## Conclusion
 We really love the Lundhags Skare boots. Beside the quality issue with Konstantin's boot we would probably take them again with us on our next trip. They are comfortable to walk in and they also look quite nice.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

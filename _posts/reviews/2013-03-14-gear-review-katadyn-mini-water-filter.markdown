@@ -14,8 +14,12 @@ image: https://farm9.staticflickr.com/8389/8556629391_d8688af598_b.jpg
 I was looking for a water purifier which I can take on my hiking, backpacking and packrafting trips which is light and does not need much space and decided to go with a Katadyn Mini + <a href="http://hikeventures.com/gear-review-steripen-freedom/" target="_self">UV SteriPen</a> combination (since the Katadyn Mini is not a solution against Viruses) and here comes a short review.
 
 <amp-img src="https://farm9.staticflickr.com/8389/8556629391_d8688af598_b.jpg" width="1024" height="802" alt="Katadyn Mini Water Filter hiking backpacking package unboxing" layout="responsive"></amp-img>
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 ## Features
 The Katadyn Mini weights only 210 grams, packs small and has a ceramic filter which also helps to give the water a neutral taste.The filter has to be replaced after treating 7000 l water. Moreover, the filter seems to work quite well after my first tests. I guess it is important to look for a spot where the water is quite clear in order to avoid clogging of the filter. The Katadyn Mini has an output of 0.5 l per minute.<br><br>
@@ -30,7 +34,3 @@ I have tested the Katadyn Mini Water Filter on <a href="http://hikeventures.com/
 
 ## Alternative
 If you are looking for an ultralight water filter where you don't have to pump then you should have a look at the <a href="http://amzn.to/2rncNiF" rel="nofollow">Sawyer Water Filter</a> which also comes with a lower price tag.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

@@ -13,8 +13,7 @@ image: http://farm8.staticflickr.com/7394/12133742174_d29c6f740e_c.jpg
 Winter time - freezing time! Or not? I have tested the Arc'teryx Kappa Pant and here is a short review. I have tested the Kappa Pant here in Finland at -21 °C and found them comfortable warm wearing merino pants under it. At around -10 °C I just skipped Merino. This are probably the best winter pants from my point of view. The Arc'teryx Kappa Pant are soft-shell pants and made for active winter use like snowshoeing, winter hiking, skiing or snowboarding. If you plan to stay outside e.g. for winter camping I would rather recommend down pants. However, on my <a href="http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/" target="_self">snowshoeing trip</a>  in Finnish Lapland they have worked great and are currently my favorite outdoor pants for winter activities.
 
 <amp-img src="http://farm8.staticflickr.com/7394/12133742174_d29c6f740e_c.jpg" layout="responsive" width="800" height="534" alt="Arc'teryx Kappa Pant Review"></amp-img>
-
-
+<br>
 <!--more-->
 
 ## Features
@@ -24,7 +23,3 @@ The Arc'teryx Kappa pant is 600 grams light, moisture-resistant and windproof. T
 
 ## Recommendation
 The Arc'teryx Kappa Pant should also work great for skiing or snowboarding. Concerning the size, I have ordered M and I am 180 cm tall. I can recommend the Arc'teryx Kappa Pant as long as temperatures are below 0 °C.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

@@ -14,8 +14,11 @@ image: https://farm8.staticflickr.com/7336/15778412854_2310ed0fdb_b.jpg
 I use an insulated lightweight Thermos Bottle to carry some warm tea or coffee with me which I can enjoy during my breaks while I go for hiking, backpacking, snowshoeing or snowshoeing. Usually, I take a Thermos Bottle with me if my trips are rather short so there is no need for me to take a <a href="http://www.hikeventures.com/best-camping-stoves">camping stove</a> and a gas canister with me which also saves some weight. This week we went to Finnish Lapland with our Thermos bottle which we received for testing purposes. In general we were quite happy to have warm tea with us spending the whole day outside with temperatures on average around -10 C and cold wind during the day.
 
 <amp-img src="https://farm8.staticflickr.com/7336/15778412854_2310ed0fdb_b.jpg" layout="responsive" width="1024" height="680" alt="With the Thermos bottle over the arctic circle"></amp-img>
-
+<br>
 <!--more-->
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 On our second day in Lapland we used the Thermos bottle while cross-country skiing.
 
@@ -56,7 +59,3 @@ Size of the Thermos bottle Stainless Steel 1.2l (40 oz / 692 grams) compared to 
 
 ## Recommendation
 This bottle fits easily into any backpack and also has a useful handle. This Thermos bottle feels high quality and should last for a couple of years. Personally, I think smaller bottles than the 1l version does not make any sense since the weight difference is really not worth to mention and you can stay longer outdoors as well. Can't wait to use my Thermos bottle again on my next winter hiking trip.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

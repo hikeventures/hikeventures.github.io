@@ -14,8 +14,12 @@ layout: post
 The SteriPen Freedom with its 75 grams is currently the lightest UV pen from SteriPen. We will use this UV pen in combination with a [ceramic water filter][1] to clean the water from possible viruses as well.
 
 <amp-img src="https://farm9.staticflickr.com/8089/8578007098_5d395e160d_b.jpg" width="1024" width="683" alt="Steripen Freedom field test layout="responsive"></amp-img>
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 ## Features
 The Steripen Freedom weights only 75 grams and rechargeable via USB (e.g. with a [rechargeable USB battery][2] which you can take on your trip) and is supposed to clean water of bacterias.
@@ -28,10 +32,6 @@ The Steripen Freedom weights only 75 grams and rechargeable via USB (e.g. with a
 
 ## Recommendation
 I have used the Steripen Freedom in combination with a ceramic filter in order to achieve the best results. I have tested the Steripen Freedom on our [trip to Sarek][3] in Sweden. However, water filters are in most cases not really needed there but it's still good to filter particles out with a ceramic filter.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 [1]:	http://hikeventures.com/gear-review-katadyn-mini-water-filter/ "ceramic filter"
 [2]:	http://hikeventures.com/how-to-charge-your-batteries-when-you-are-outdoors/ "rechargeable battery"

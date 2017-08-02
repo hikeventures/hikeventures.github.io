@@ -12,8 +12,12 @@ layout: post
 The Montbell U.L. Down Parka seems to be a perfect addition if you are planning to use a quilt instead of a sleeping bag during spring, summer and autumn. The down parka is super light and has a 800 fill. It also features a DWR treatment, YKK zippers and an adjustable hood. This is my current down jacket on my hiking, backpacking and other backcountry trips and here comes a short review.
 
 <amp-img src="https://farm9.staticflickr.com/8529/8576876741_96879fe3d5_b.jpg" width="1024" width="683" alt="Laufbursche Huckepack hp450 unboxing" layout="responsive"></amp-img>
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 ## Features
 The Montbell UL Down Parka weights 260 grams and comes with 800 cuin goose down. It also has a DWR treatment and comes in a 15-denier ballistic airlight nylon shell to keep the down dry if it's very moisture however this jacket is not waterproof.
@@ -25,7 +29,3 @@ The Montbell U.L. Down Parka is great for anything where you are not active to k
 If you need a real winter down jacket then the <a href="http://www.backcountry.com/rab-positron-down-jacket-mens">Rab Positron Jacket</a> would currently be my favorite winter down jacket.
 
 Still not sure which down jacket to buy? Here is a list of my <a href="http://www.hikeventures.com/best-down-jackets/">favorite down jackets</a> which I would currently buy as a 3- and 4-season down jacket.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

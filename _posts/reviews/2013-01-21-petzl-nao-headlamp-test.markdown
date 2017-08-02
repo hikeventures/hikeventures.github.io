@@ -12,9 +12,11 @@ layout: post
 ---
 
 The Petzl Nao Plus is a new headlamp which is able to adapt its light according to the environment which makes it a great headlamp if you need to see far but at the same be able to read e.g. a map at night. You can also set the levels of the lamp manually and adjust the levels via the Petzl software on your PC according to your needs. Moreover, you can also adapt the light with your smartphone via bluetooth. The review below is about the previous model of the Petzl Nao Plus. Beside the bluetooth functionality the new Petzl Nao Plus also features more Lumen (750 Lumen) than the old model.
-
+<br>
 <!--more-->
-
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 ## Features
 The Petzl Nao weights 187 grams, is rechargable via USB and brightness is adjustable. The Petzl Nao is water resistant (IP X4), comfortable to wear, programmable via the Petzl Nao Software and battery can last up to 8 hours.
 
@@ -49,8 +51,3 @@ You can charge the Nao directly on your computer and anything else which has an 
 
 ## Recommendation
 I have tested the old model of the Petzl Nao headlamp on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden. The Petzl Nao is a pretty strong headlamp and you can charge the Nao via USB. You may also consider a lighter headlamp if you don't need the power of the Petzl Nao. As I do packrafting, there might be also situations where we packraft till late into the night so a brighter headlamp is more useful for me to properly see whats in front of me. I also found it quite comfortable to go jogging with the Petzl Nao.
-
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

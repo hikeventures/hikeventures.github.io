@@ -14,8 +14,14 @@ image: https://farm4.staticflickr.com/3894/14925259216_ff2d1deb5e_b.jpg
 When you plan you next hiking, backpacking, packrafting or other outdoor trip it's a good idea to have a pillow with you which is lightweight and packable. Here is a short review about the Exped Air Pillow UL M which is the perfect companion for the <a href="http://hikeventures.com/exped-synmat-ul-7/" target="_self">Exped SynMat UL 7</a> which we have used the last months on our adventures.
 
 <amp-img src="https://farm4.staticflickr.com/3894/14925259216_ff2d1deb5e_b.jpg" layout="responsive" width="1024" height="683" alt="Exped Airpillow"></amp-img>
-
+<br>
 <!--more-->
+
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
+
 
 The Exped Air Pillow UL M weights comes with the size 38 × 27 × 11 cm. If weight is an issue then you could also use your fleece or other clothes as a pillow, however with around 57 grams you will not substantially increase the weight of your backpack in order to increase your sleeping comfort.
 
@@ -32,7 +38,3 @@ Quality and durability of the Air Pillow is also quite good and I am so far not 
 
 ## Recommendation
 I like the Exped Air Pillow UL. The pillow feels comfortable, packs small and seems to be durable. I would most probably buy it again.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

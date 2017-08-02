@@ -15,8 +15,13 @@ We are wearing since 1 year the Lundhags Jaure Light High on our trips which we 
 <amp-img src="https://c1.staticflickr.com/9/8467/28187003200_576ebbf2f0_k.jpg" width="2048" height="1236" alt="Lundhags Jaure Light High review" layout="responsive"></amp-img>
 
 > Lundhags Jaure Light High on our [packrafting trip in Sweden](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/).
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
+
 
 ## New Features
 The Lundhags Jaure Light Mid II and High II will have the following improved features:
@@ -40,7 +45,3 @@ Of course, we are still able to hike with the current Jaure Light High model but
 You just need to wear 2 pairs of socks which could however be a bit warm during the summer months but it's still possible to wear them. Currently, we combine our Lundhags Jaure Light High with Icebreaker [Liners](http://www.backcountry.com/icebreaker-hike-liner-crew-sock-mens) and the Icebreaker [Hike+ Light](http://www.backcountry.com/icebreaker-hike-lite-crew-sock-mens-ice0791) and [Hike+ Mid](http://www.backcountry.com/icebreaker-hike-mid-crew-sock-mens-ice0793).
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28437731156/in/dateposted-public/" title="Lundhags Jaure Light High"><img src="https://c5.staticflickr.com/9/8520/28437731156_cc34f8eddd_k.jpg" width="2048" height="1360" alt="Lundhags Jaure Light High"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

@@ -17,6 +17,13 @@ In the middle of January this year I got my new iPhone 6, put it in the Thule At
 
 > Update 17.12.2015: The Thule Atmos X5 has been released. The X5 is waterproof compared to the X3. Have a look <a href="http://amzn.to/1OxoOpe">here</a>.
 
+<br>
+<!--more-->
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
+
+
 I am an iPhone person. I have not always been one, but due to lots of problems with my HTC, which died on me almost immediately after its warranty lapsed, and a lucky coincidence when a friend of mine gave me her old iPhone 3s for my birthday, I was introduced to the world of iPhones and the convenience of using them. With a myriad of easily-installable free apps, my iPhone allowed me to do things that I could not previously do. And taking and post-processing pictures was one of them.
 
 <a href="https://www.flickr.com/photos/90204224@N07/17803302079" title="Thule Atmos X3"><img src="https://c2.staticflickr.com/6/5446/17803302079_4ebb76f985_o.jpg" width="100%" alt="Thule Atmos X3"></a>
@@ -61,7 +68,3 @@ But the case has its limitations as well. As it is open, it does not provide any
 This all may change very soon as I have heard that Thule is planning to release a waterproof version of Atmos mobile case, which would be definitely something I will be interested in once it is available on the market. It would definitely be nice to enjoy the solid feel of the present case, while resting assured that no harm can be done to the phone in case it gets into the water. And I also hope that the new case would also have some kind of attachment point that I could use to fasten a lanyard or a strap. What the incident with my old phone has taught me is that it is not enough to keep your phone waterproof. It is also necessary to keep your phone. Full stop.
 
 My verdict – even though Thule Atmos X3 has its limitations (especially when dealing with it on the water - check the the new Thule X5 if you need a waterproof solution), it is definitely something that I would recommend. Eventually it was one of the main reasons why I made up my mind to upgrade to iPhone 6.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

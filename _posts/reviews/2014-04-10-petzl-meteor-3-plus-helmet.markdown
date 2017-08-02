@@ -15,9 +15,12 @@ image: https://farm8.staticflickr.com/7383/13884350431_55197840aa_b.jpg
 For our packrafting trips we were looking for a suitable helmet and came across the Petzl Meteor 3+ helmet which has also a certification to be used as a watersport helmet (see Petzl website for more details). A helmet is an important safety tool which we are also using for slower rapids where you can e.g. also get stuck in a tree and fall out of the packraft. Here comes a short review of a helmet which I found to be one of the best lightweight packrafting helmets available.
 
 <amp-img src="https://farm8.staticflickr.com/7383/13884350431_55197840aa_b.jpg" layout="responsive" width="683" height="1024" alt="Petzl Meteor 3 helmet review"></amp-img>
-
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 ## Features
 The Petzl Meteor 3+ Helmet is certified for climbing and watersport and weights 235 grams. There are clips to attach a headlamp and the headband is adjustable. There are ventilation holes on the helmet and an adjustable chinstrap with magnetic buckle. The helmet also comes with a storage bag. Certification(s): CE EN 12492, UIAA (escalade).
@@ -47,7 +50,3 @@ Petzl Meteor 3+ helmet worked well on our packrafting trip in the Netherlands.
 
 ## Recommendation
 The Petzl Meteor 3+ is comfortable to wear and a lightweight helmet which can easily be transported on your backpack along your outdoor trips. It's just worth to have some additional safety especially on your head since rivers can be unpredictable and you may also lose control of your packraft. The helmet also vents nicely so I was not really sweating under it. It's also possible to wear some sort of fleece cap under it if you plan to go packrafting during the colder days of the year.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

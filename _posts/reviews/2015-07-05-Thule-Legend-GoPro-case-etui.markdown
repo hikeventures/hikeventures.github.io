@@ -15,8 +15,13 @@ image: https://farm1.staticflickr.com/407/18948498964_e22e5df5de_o.jpg
 If you are a GoPro camera user you have probably looked for a case to store your GoPro camera and additional gear such as spare batteries, remote control, cables, SD-cards, etc. when you go on an outdoor trip. Thule has provided us the Legend GoPro Case which we have used this year during our trips and here is a short review about it. The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
 
 <amp-img src="https://farm1.staticflickr.com/407/18948498964_e22e5df5de_o.jpg" layout="responsive" width="992" height="744" alt="Thule Legend GoPro Case Review"></amp-img>
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
+
 
 I have used the Thule Legend GoPro Case this year mainly for hiking and packrafting e.g. in <a href="http://www.hikeventures.com/Karkonosze-national-park/">Poland</a>, <a href="http://www.hikeventures.com/Second-Finnish-Packrafting-Gathering-Finland-Helvetinjarvi/">Finland</a> or in Sweden. Below you can see the Legend GoPro Case attached to my <a href="http://www.hikeventures.com/gear-review-hmg-porter-4400-black/">HMG Porter</a> backpack.
 
@@ -52,7 +57,3 @@ Another good feature of the Legend GoPro Case is that you can easily clean the f
 
 ## Conclusion
 The Thule Legend GoPro Case is a nice addition to your GoPro Camera especially if you have plenty of GoPro equipment. Even so the case is made to protect your camera, I rather use it to keep my camera gear organised and in one place. The case also protects the housing of the camera in getting scratches while transporting the camera in your backpack. There is also the Thule Legend GoPro Advanced Case if you need to carry two GoPro cameras with you.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

@@ -14,8 +14,12 @@ image: https://farm3.staticflickr.com/2935/13937097045_2defb0f541_b.jpg
 The Powertraveller Solarmonkey Adventurer is my new solar charging device for my electronic outdoor gear like camera, <a href="http://www.hikeventures.com/best-headlamps/">headlamp</a> and smartwatch. Previously, I have used my <a href="http://hikeventures.com/how-to-charge-your-batteries-when-you-are-outdoors/" target="_self">Anker Astro 3E</a> in order to keep my electronic devices charged on a muli-day hiking trip. However, I realized that the battery will be low on energy after 4 days so I was looking for a device which I can recharge during my hiking and packrafting trips.
 
 <amp-img src="https://farm3.staticflickr.com/2935/13937097045_2defb0f541_b.jpg"  layout="responsive" width="1024" height="683" alt="Solarmonkey Adventurer"></amp-img>
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 <a href="https://www.flickr.com/photos/90204224@N07/13913955861/" ><img src="https://farm8.staticflickr.com/7202/13913955861_e082b58204_b.jpg" width="1024" height="683" alt="Powertraveller Solarmonkey Adventurer"></a>
 The Solarmonkey Adventurer has a 2500 mAh lithium-ion polymer battery, which is 4 times less than the <a href="http://hikeventures.com/how-to-charge-your-batteries-when-you-are-outdoors/" target="_self">Anker Astro 3E</a> but with the possibility to recharge the battery every day e.g. by attaching it on my backpack during the day.
@@ -43,7 +47,3 @@ So far, I have tested the Solarmonkey Adventurer with my iphone and my Sony A7r 
 <strong>Update 21.06.2014:</strong> After some testing, I was not able to charge my iPhone up to 100% if the battery of the Solar panel is charged with the Solar panels. I received a replacement and need to test the device again. Will write an update as soon as possible.
 
 <a href="https://www.flickr.com/photos/90204224@N07/13913979456/" ><img src="https://farm8.staticflickr.com/7164/13913979456_20e1c44af1_b.jpg" width="1024" height="683" alt="Powertraveller Solarmonkey Adventurer"></a>
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

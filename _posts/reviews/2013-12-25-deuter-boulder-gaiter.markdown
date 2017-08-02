@@ -14,9 +14,13 @@ image: https://farm4.staticflickr.com/3812/11544953636_f5653a0864_b.jpg
 Winter time - Gaiter time! To keep snow out during my winter activities like winter hiking, snowshoeing or cross-country skiing I am using gaiters and here is a short review of the Deuter Boulder Gaiters which are are quite light and super durable.
 
 <amp-img src="https://farm4.staticflickr.com/3812/11544953636_f5653a0864_b.jpg" layout="responsive" width="1024" height="683" alt="Deuter Boulder Gaiter"></amp-img>
-
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
+
 
 ## Features
 The Deuter Boulder gaiters just weight 145 grams, are made of 600 den Polyester and have an elastic top and bottom. The gaiters have a height of 20 cm.

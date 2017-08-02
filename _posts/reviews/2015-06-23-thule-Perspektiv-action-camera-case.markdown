@@ -15,8 +15,13 @@ image: https://c4.staticflickr.com/4/3694/18907331248_d941470a7e_b.jpg
 Being active outdoors and recording your special moments has never been easier. All you need to do is to use an action camera for it. With the new cameras and their accessories appearing on the market each year, there is no wonder that more and more people take them on their travels. And I am not very different as I have two GoPro cameras and a plethora of mounts, chargers and housings, which I have to lug around with me in-between the adventures, which, in my 3+ years’ of experience, can pose a number of problems. This review is about how Thule Perspektiv Action Camera Case (provided by Thule to review) helped me to solve most of them.
 
 <amp-img src="https://c4.staticflickr.com/4/3694/18907331248_d941470a7e_b.jpg"  layout="responsive" width="1024" height="768" alt="Thule Perspektiv Action Camera Case Review"></amp-img>
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
+
 
 Having a GoPro camera is great. With all the multitude of various mounts and cases, you have seemingly endless possibilities to mix and match these ingredients to achieve a perfect combination that suits your current filming conditions best.
 But having all those choices comes with some downsides as well, one of them being a constant challenge to keep all those parts together and not endlessly search for them in the deepest recesses of your pack.
@@ -73,7 +78,3 @@ On the other hand, the answer is “no”, because for its size and capacity, th
 <a href="https://www.flickr.com/photos/90204224@N07/19089319372" title="Thule Perspektiv Action Camera Case"><img src="https://c1.staticflickr.com/1/485/19089319372_88c2fd8e91_b.jpg" width="1024" height="680" alt="Thule Perspektiv Action Camera Case"></a>
 
 On the whole, even though it is not waterproof and weighs almost 230 grams, I really like the storage space, the two separate compartments (each one designed for a different purpose), the adaptability and versatility of its usage as well as the overall quality of the case. Once again, this Thule Perspektiv Action Camera Case shows that it was designed with the needs of the end customer in mind and it does what it promises to do – to keep your action camera(s) safe and in one place in-between the jobs.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

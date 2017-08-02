@@ -13,10 +13,12 @@ image: https://farm4.staticflickr.com/3845/14948191975_987d92e79c_b.jpg
 Here is a short review about the Exped SynMat UL 7 which is our current sleeping pad since over 1 year and me and Konstantin would like to share our experience in this review with the Exped SynMat UL 7 which has been one of the best 3-season sleeping pads for our hiking, camping, backpacking, packrafting and other outdoor trips.
 
 <amp-img src="https://farm4.staticflickr.com/3845/14948191975_987d92e79c_b.jpg" layout="responsive" width="1024" height="683" alt="Exped Synmat UL 7"></amp-img>
-
-
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 The SynMat UL 7 M weights around 450 grams, is 183 cm long and has an R-Value of 3.10 (Temperatures down to -4 °C). This means that this sleeping pad is suited for spring, summer and autumn (depending on your location). When I tested this pad I felt a bit cold on my back when the temperatures dropped to 0 °C so I am going to use the Exped UL 7 M only for temperatures of +5 °C and more in the future.
 
@@ -36,13 +38,7 @@ The Exped Synmat UL 7 next to the Exped Airpillow.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9599003854" title="Cumulus Sleeping bag in Sarek Sweden"><img src="https://c1.staticflickr.com/3/2882/9599003854_ea53324e34_b.jpg" width="992" height="661" alt="Cumulus Sleeping bag in Sarek Sweden"></a>
 
-Konstantin on the Exped Synmat UL 7 during our [Sarek trip][1].
+Konstantin on the Exped Synmat UL 7 during our [Sarek trip](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/).
 
 ## Recommendation
 I like the Exped Synmat UL 7. It feels comfortable and I would buy it again. However, you might need to evaluate in beforehand if you prefer to sleep on a sleeping pad with vertical air chambers.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
-
-[1]:	http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/

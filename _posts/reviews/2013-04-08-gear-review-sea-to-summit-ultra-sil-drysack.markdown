@@ -14,8 +14,12 @@ image: http://farm9.staticflickr.com/8391/8619175883_3cfc41c0df_c.jpg
 Recently, I purchased a new backpack and was in need of getting a dry sack where I can stuff my clothes etc. in to keep them dry in case of rain while on the trail. So I took a look on the Sea to Summit Ultra-Sil Drysack for my next hiking, backpacking and packrafting trips and here is a short review.
 
 <amp-img src="http://farm9.staticflickr.com/8391/8619175883_3cfc41c0df_c.jpg" layout="responsive" width="800" width=597" alt="Sea to Summit Ultra Sil Dry Sack"></amp-img>
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 ## Features
 The Sea to Summit Ultra Sil Drysack is durable, packs small and weights only 50 grams.
@@ -26,7 +30,3 @@ I decided to go for the cordura version of the Sea to Summit Dry Sacks. Even so 
 
 ## Recommendation
 I have tested the Sea to Summit Ultra Sil Drysack on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden and those drysacks performed quite well to keep our clothes dry. Alternatively, I would also recommend the Sea to Summit Ultra-Sil Compression Sack which I prefer even more. It weights 136 grams but you will be able to pack gear like down sleeping bag or down jackets really small.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

@@ -14,8 +14,13 @@ image: https://farm6.staticflickr.com/5597/15636357331_9926cfd49a_b.jpg
 A while ago I was contacted by a representative of  [MPOWERD][1], who asked me if I would be interested to review their new inflatable solar lantern, Luci Outdoor. I said yes and several weeks later a package from the USA was waiting for me at home. Inside this package was Luci. Below are my thoughts and experiences of using this lantern on my several trips (Lithuania, Latvia, Poland and here in the Netherlands) during the last three months.
 
 <amp-img src="https://farm6.staticflickr.com/5597/15636357331_9926cfd49a_b.jpg" layout="responsive" width="1024" height="615" alt="Luci Outdoor Solar Lantern"></amp-img>
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
+
 
 When deflated and folded, Luci Outdoor is around 2 cm think and 12.5 cm in diameter. If you want to know how big it is, picture a stack of 12 CDs or DVDs and Luci will be just slightly larger than that (12 cm vs. 12.5 cm). When inflated, however, the lantern becomes 11 cm high, the top and the bottom discs connected by transparent PVC wall.  The top with the inflation valve is both reflective and semi-translucent, which, while allowing some light from the 10 LED lights on the bottom of the lantern to pass through and illuminate the space above the lamp, reflects most of it through the sides.
 
@@ -84,10 +89,6 @@ All in all, this is a very good inflatable solar lantern, which is also a good v
 * To extend the battery life when it is cold and you are not charging it, keep the lantern inside your jacket pocket. You will hardly notice it as it is only 2 cm think but it will be kept warm and safe.
 * To charge it on the go, use the handles to attach the lantern to the top/back of your backpack. However, if you are planning to go bushwhacking, make sure that it is attached securely, as the lantern might snag on something and the handles might not withstand a strong tug. It might be an idea to attach it to the sternum strap on the front to keep it out of harm's way.
 * Play with it and find your own ways of using it. Share them with us.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 [1]:	https://www.mpowerd.com
 [2]:	https://www.mpowerd.com

@@ -14,8 +14,13 @@ image: https://c1.staticflickr.com/9/8762/28098576184_8dd7eebdb2_k.jpg
 A few months ago I bought an Astral Design V-Eight as my new go-to PFD for packrafting. I was looking for a lightweight PFD which is comfortable to wear and has some pockets. Previously, I had already the [Astral YTV](http://www.hikeventures.com/astral-ytv/) but lost it on a packrafting trip in [Northern Sweden](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/).
 
 <amp-img src="https://c1.staticflickr.com/9/8762/28098576184_8dd7eebdb2_k.jpg" width="2048" height="1365" alt="Astral V-Eight Review Test" layout="responsive"></amp-img>
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
+
 
 ## Specifications
 The Astral Designs V-Eight was developed for recreations paddling. This is not a white water PFD. The weight of the PFD is 554 grams. The V-Eight has a lot of mesh and breathes very well. There is also a YKK Zipper in the front, a webbing to keep the jacket closed (in case the zipper opens), and 2 side pockets to store snacks and small gear. There is also a spot to attach for example the [NRS Pilot Knife](http://www.campsaver.com/pilot-knife) on it.
@@ -37,7 +42,3 @@ The Astral Designs V-Eight in front of my packraft on our trip in Norway. There 
 ## Conclusion
 
 Would I buy it again. Yes I would. The V-Eight is really comfortable to wear and one of the lightest PFD's out there. It won't be a PFD for serious white water users but for everything else it's just great.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

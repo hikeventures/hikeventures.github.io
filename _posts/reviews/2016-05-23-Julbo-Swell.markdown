@@ -13,8 +13,13 @@ image: https://farm8.staticflickr.com/7346/27152697396_5c004ed994_b.jpg
 After having had my old sunglasses for over 3 years I thought it was time to upgrade my sunglasses to a newer model. As [we interviewed Julbo on the ISPO 2016](https://www.youtube.com/watch?v=vdb3m52FdvM) in Munich I decided to have a look on their product range and came across the Julbo Swell which could become my new sun glasses for our packrafting trips.
 
 <amp-img src="https://farm8.staticflickr.com/7346/27152697396_5c004ed994_b.jpg" width="1024" height="608" alt="Julbo Swell Review" layout="responsive"></amp-img>
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
+
 
 ## Alternative sunglasses to Julbo Swell
 Alternatives to the Julbo Swell which I would have considered as packrafting sun glasses are the brand new Julbo Race 2.0  Nautic which Konstantin is going to review for HikeVentures within the next weeks and the Julbo Wave which is a few grams heavier than the Julbo Swell but features a natural front air flow.
@@ -95,7 +100,3 @@ If I could think of something negative about the Julbo Swell then it would be th
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vdb3m52FdvM" frameborder="0" allowfullscreen></iframe>
 > Konstantin testing the Julbo Wave, Trek and Aero sunglasses at the ISPO 2016 in Munich. <a href="http://bit.ly/2evfPMf" rel="nofollow">Subscribe</a> to our YouTube channel if you like our video.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

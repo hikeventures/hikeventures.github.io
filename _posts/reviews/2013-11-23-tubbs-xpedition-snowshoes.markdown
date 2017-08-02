@@ -13,9 +13,12 @@ image: http://farm6.staticflickr.com/5531/11312000916_7d50425b7c_c.jpg
 Having used skis and hiking boots the years before, I am interested to do some snowshoeing this winter with my new Tubbs Xpedition snowshoes and here comes a short review. As I have worked in the past a couple of months in a mountain hut in the Swiss Alps, I frequently had to walk 2 hours up the mountain to reach my workplace. Well, it was possible but with snowshoes it would have been so much more easier to get up.
 
 <amp-img src="http://farm6.staticflickr.com/5531/11312000916_7d50425b7c_c.jpg" layout="responsive" width="800" height="350" alt="Tubbs Xpedition Snowshoe Review"></amp-img>
-
+<br>
 <!--more-->
 
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 
 ## Features
@@ -46,7 +49,3 @@ The binding of the snowshoes are easy to use. Just slip in with your shoes and t
 The Tubbs Xpedition snowshoes seems to be a solid product for backcountry usage. There might be also products from other brands to consider like the <a href="http://award.ispo.com/en/Winner-2014/Products/Outdoor/Snowshoes/MSR/" target="_blank">MSR Revo Explore snowshoe</a> which also won the ISPO Award 2014. Alternatively, if you are low on budget, you could also consider snowshoe models on the lower end of the price range and upgrade later on.
 
 Read more about the [best snowshoes for 2016](http://www.hikeventures.com/best-snowshoes/)
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

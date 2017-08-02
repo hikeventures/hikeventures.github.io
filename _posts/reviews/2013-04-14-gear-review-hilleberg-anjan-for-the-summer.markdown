@@ -15,8 +15,12 @@ A couple of months ago, I was looking for a new tent which I can use during my p
 Further, I would not get the GT version If I were to buy the Anjan or the Nallo. If you need a bigger vestibule then its probably better to take a seperate tarp with you. Yor Anjan tent will be more versatile in this way. Further, there is also not that much weight difference between the Anjan 2 and the Anjan 3 so it's probably a good decision to take the Anjan 3 in any case.
 
 <amp-img src="https://farm9.staticflickr.com/8541/8648026950_c0f7a5fdac_b.jpg" layout="responsive" width="1000" heigh="667" alt="Hilleberg Anjan label entrance"></amp-img>
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 ## Features
 The Hilleberg Anjan 2 comes with 1700 grams, a big window for ventilation, reflectors, 2 mosquito windows and 12 Tri-Pegs. I found the quality and craftmanship of the Anjan 2 quite excellent. The outer tent can also be used as a standalone tent. The inner height is 100 cm and the inner tent area 2.8 m2.
@@ -59,7 +63,3 @@ Konstantin prepared food in front of the Hilleberg Anjan 2 with our <a href="htt
 The Hilleberg Anjan tent seems to be the perfect 3 season tent. It is easy to set up, costs a little less than it's 4 season brothers and weights 1 kg less too. The tent might be a bit narrow inside if your are big/tall and you  should consider to take a 3 person rather than a 2 person tent if you are planning to camp with your friend. I would highly recommended for backpacking trips where you need to save weight during the warmer months of the year. Overall I would recommend the [Anjan 3](http://www.bentgate.com/hilleberg-anjan-3-gt-tent/) for 2 person rather than [Anjan 2](http://www.moosejaw.com/moosejaw/shop/product_Hilleberg-Anjan-2-Person-Tent_10188463_10208_10000001_-1_). The Anjan 3 has slightly more weight but you will appreciate the additional space. If you need a lightweight 4-season tent then you should have a look at the <a href="http://amzn.to/1QW9M13">Hilleberg Nallo</a>.
 
 In the picture below you can see Konstantin preparing his packraft on our one week <a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/">trip</a> in Northern Sweden. In our backpack we also had our Hilleberg Anjan with us. There are as good as no shelters and having a reliable tent was a must for us. The Anjan did quite well!
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

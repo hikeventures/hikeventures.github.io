@@ -15,8 +15,12 @@ For my hiking & packrafting trips I was looking for a tool which is light and pa
 
 <amp-img src="https://farm4.staticflickr.com/3704/13711116474_6cde7a3b97_b.jpg" layout="responsive" width="1024" height="683" alt="Leatherman Style CS"></amp-img>
 
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 ## Features
 The Leatherman Style CS 2 weights 41.1 grams and consists of  a knife, nail file, scissors, screwdriver, bottle opener and tweezers.
@@ -34,7 +38,3 @@ Leatherman Freestyle compared to the Leatherman Style CS.
 The carabiner is quite useful to attach the Leatherman Style CS for example on your backpack as small gear and tools can easily get lost on your hiking trip.
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B0032XVNMQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0032XVNMQ&linkCode=as2&tag=hikeve-20&linkId=E5HOSXRPEZCDE63B"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0032XVNMQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0032XVNMQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

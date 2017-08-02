@@ -15,8 +15,12 @@ image: https://farm2.staticflickr.com/1619/24872785289_d994a8c482_b.jpg
 Last year we hiking and packrafting in Japan and Sweden and here is a review about the self-inflating Therm-a-Rest EvoLite sleeping pad which we received from Therm-a-Rest.
 
 <amp-img src="https://farm2.staticflickr.com/1619/24872785289_d994a8c482_b.jpg" width="1024" height="680" layout="responsive" alt="Therm-a-Rest EvoLite Review"></amp-img>
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 ## EvoLite Specifications
 The EvoLite sleeping pad is part of Therm-a-rest’s Fast & Light product line. The EvoLite (regular) weights 520 grams, is 51 cm wide and 183 cm long and 5 cm thick. However, we tested the larger version (196 cm) or the EvoLite. The bottom of the EvoLite is made of 30d mini Rip Polyester. The innovation in this mattress is that it is self-inflating which means that you just have to blow into the valve a couple of times and the EvoLite is ready for the night.
@@ -54,7 +58,3 @@ However, Patrick enjoyed the self-inflating capability of the EvoLite especially
 
 ## Conclusion
 For those who don’t like to inflate sleeping pads, a self-inflating sleeping pad like the EvoLite might be a great solution depending where you are planning to use it. For warmer regions the <a rel="nofollow" href="http://www.amazon.com/gp/product/B00PZKXB2Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PZKXB2Y&linkCode=as2&tag=hikeve-20&linkId=DLS6QGB2CPYI6H2G">Therm-a-Rest EvoLite</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00PZKXB2Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> is probably a great choice. If you are planning to travel to colder places I would rather take the <a rel="nofollow" href="http://www.amazon.com/gp/product/B00TSFYZAE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TSFYZAE&linkCode=as2&tag=hikeve-20&linkId=WRWW2DWHEYZIT5QG">Therm-a-Rest NeoAir XTherm</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00TSFYZAE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> with me. The XTherm is somewhat lighter than the EvoLite and keeps you warm till deep into minus temperatures. The only downside of the XTherm is however that it is not a self-inflating sleeping pad. However, it can be used in a wider temperature range for almost the same weight.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

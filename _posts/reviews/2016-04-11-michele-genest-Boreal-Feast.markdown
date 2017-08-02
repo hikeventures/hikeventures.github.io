@@ -15,8 +15,13 @@ image: https://farm2.staticflickr.com/1516/26490029551_bcf084d242_b.jpg
 I am living in Finland since 2006 and read a lot about the history and culture of the Nordic countries (I can recommend the book <a href="http://www.amazon.com/Soul-North-Architectural-Countries-1700-1940/dp/1861890672" rel="nofollow">"Soul of the North"</a> by Neil Kent). Food is part of culture so I decided to read a bit more about the Nordic kitchen and came across Michele Genest book "The Boreal Feast" which covers culinary aspects of Canada, Finland and Sweden. Here comes a short review about the Boreal Feast.
 
 <amp-img src="https://farm2.staticflickr.com/1516/26490029551_bcf084d242_b.jpg" layout="responsive" width="1024" height="768" alt="Michele Genest - The Boreal Feast"></amp-img>
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
+
 
 The Boreal Feast starts with an introduction where the author examines the meaning of "feast", the geographical area of the boreal forest and the importance of this area.
 

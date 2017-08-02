@@ -24,8 +24,13 @@ But you know what they say – "never say never", and indeed, after a while, I b
 <amp-img src="https://c4.staticflickr.com/9/8556/29794613243_97ff8d015a_k.jpg" width="2048" height="1360" alt="Packrafting in Poland" layout="responsive"></amp-img>
 
 > Wearing my icebreaker while packrafting in Poland this spring
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
+
 
 ## Reason 5: Icebreaker t-shirts look nice
 I like the cut (in most cases they make me look rather slim and trim) and I love the colors and color combinations. Recently, Icebreaker has also started to produce t-shirts with prints. And they are good. What I understood from their brochures, they sometimes work with famous artists on the design and when you buy a t-shirt like that, it almost feels like you also buy a piece of art.
@@ -114,7 +119,3 @@ That is why this year, when we were preparing for our new Japan trip, she said t
 To sum it up, I love my icebreakers because they look nice on me, I can wear them for a long time during trips and in my everyday life and because they keep me warm. And of course, because they "do not stink".
 
 Final comment: Only recently, my wife told me that she would like to ask Santa Claus for a black icebreaker to replace her favorite one which was stolen earlier this year. And I have a feeling that he might grant her that wish.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

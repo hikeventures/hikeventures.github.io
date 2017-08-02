@@ -15,8 +15,12 @@ image: https://farm4.staticflickr.com/3665/11466248965_4e1a237577_b.jpg
 When I go hiking or backpacking I occasionally document my trip with notes about the area, how far I have hiked or if anything interesting happened. To document my hiking trip I take pen and paper, DSLR / mirrorless camera and my smartphone with me.
 
 <amp-img src="https://farm4.staticflickr.com/3665/11466248965_4e1a237577_b.jpg" layout="responsive" width="1024" height="683" alt="Field Notes Expedition review"></amp-img>
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 
 ## Paper notebook and pen
@@ -27,7 +31,3 @@ The Field Notes Expedition notebook and Space Pen are quite useful for outdoor a
 
 ## DSLR, GoPro or mirrorless camera
 Beside my smartphone I also take a GoPro and DSLR camera with me if I want to take high quality pictures e.g. from the landscape. Beside the image quality you also get a better dynamic range with DSLRs than with smartphones.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

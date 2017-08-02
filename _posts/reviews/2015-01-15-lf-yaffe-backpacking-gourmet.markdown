@@ -13,9 +13,13 @@ image: https://farm8.staticflickr.com/7580/16099407770_b3a5627190_b.jpg
 Having tried some of the ready made food packages to take on my hikes, I got interested to read more about preparing dehydrated backpacking food myself at home. Backpack Gourmet offers plenty of easy to follow recipes - some of them also suitable for vegetarians - and each recipe also contains the weight and servings and how to prepare the meals in the dehydrator.
 
 <amp-img src="https://farm8.staticflickr.com/7580/16099407770_b3a5627190_b.jpg" layout="responsive" width="1024" height="768" alt="Backpack Gourmet"></amp-img>
-
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
+
 
 The book starts with tools needed to dehydrate and pack food at home and on how to prepare it on the field.
 

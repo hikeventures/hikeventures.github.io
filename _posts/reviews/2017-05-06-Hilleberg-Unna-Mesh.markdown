@@ -17,8 +17,13 @@ Last weekend I had the opportunity to test the Hilleberg Unna Inner Mesh on our 
 Moreover, the yellow standard inner mesh also limits the view since they are not that transparent. That's where the Hilleberg Inner Mesh comes in quite handy which can replace the regular yellow inner tent. The inner mesh is especially useful during the summer time and can be also used without the outer tent if the weather is good (no rain / stong winds).
 
 <amp-img src="https://c1.staticflickr.com/3/2886/34100728560_568624aa28_k.jpg" width="2048" height="1367" alt="Hilleberg Unna Inner Mesh" layout="responsive"></amp-img>
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
+
 
 Sleeping in the Hilleberg Inner Mesh Tent is almost as sleeping directly under the stars. Of course, the mesh is visible but you can see the stars in the sky and the air flow is so much better than sleeping in a regular tent.
 
@@ -35,8 +40,10 @@ What about condensation? Unfortunately, condensation also freezes on the Inner M
 
 ## Conclusion
 
-The Hilleberg Unna Inner Mesh and the Unna Tent is currently my go-to solo tent configuration. The Hilleberg Soulo is also a nice tent but it's just too short. The Unna offers much more space and it's also possible to create a vestibule within the tent. The best feature on the Hilleberg Unna is the big panorama window which is even better when combined with the Unna Inner Mesh Tent. Moreover, a free self-standing will allow you to pitch the tent even on very difficult ground. On the pictures above you can also see the Therm-a-Rest NeoAir XTherm Mattress and theWestern Mountaineering VersaLite 3-season down sleeping bag.
+The Hilleberg Unna Inner Mesh and the Unna Tent is currently my go-to solo tent configuration. The Hilleberg Soulo is also a nice tent but it's just too short. The Unna offers much more space and it's also possible to create a vestibule within the tent.
 
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+The best feature on the Hilleberg Unna is the big panorama window which is even better when combined with the Unna Inner Mesh Tent.
+
+Moreover, a free self-standing will allow you to pitch the tent even on very difficult ground.
+
+On the pictures above you can also see the Therm-a-Rest NeoAir XTherm Mattress and theWestern Mountaineering VersaLite 3-season down sleeping bag.

@@ -13,10 +13,14 @@ layout: post
 ---
 
 I was searching for a new ultralight backpack for my hiking, backpacking and packrafting trips and came across the Laufbursche Huckepack which is manufactured in Germany and here comes a short review. The 450 grams and 40/52l Laufbursche Huckepack seems to be a perfect solution for a UL backpack and its' quality seems to be good too. It's also possible to have a custom made backpack as you can see in the pictures below. I chose a material which is slightly more heavy but more durable.
-
+<br>
 <!--more-->
 
 <amp-img src="https://farm9.staticflickr.com/8231/8576877609_d896526571_b.jpg" width="1024" width="770" alt="Laufbursche Huckepack hp450 unboxing" layout="responsive"></amp-img>
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 This is how I got the backpack. I ordered the cuben fibre bag separately. The water plastic bottle came free of charge. I found the packaging really good and there is also a leaflet included how to handle the backpack.
 
@@ -44,7 +48,3 @@ One loop was missing on the Laufbursche Huckepack when I received it. However, g
 
 ## Alternatives
 If you need a bigger backpack then you should have a look at the [HMG Porter 4400](http://www.hikeventures.com/gear-review-hmg-porter-4400-black/) which I currently use for my packrafting trips.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

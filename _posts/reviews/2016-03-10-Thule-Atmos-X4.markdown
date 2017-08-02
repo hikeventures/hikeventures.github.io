@@ -13,9 +13,13 @@ image: https://farm2.staticflickr.com/1641/25551505302_f7c439d91c_b.jpg
 On our packrafting trip in Scotland I have tried out the Thule X4 smartphone case which we received from Thule to test them on our iPhone 6. Konstantin had already some experience with the X3 case so we were sitting together after our packrafting trip in the Scottish Highlands to discuss the main differences between the X3 and the X4 during our 2 1/2 hours train trip from Aberdeen to Edinburgh.
 
 <amp-img src="https://farm2.staticflickr.com/1641/25551505302_f7c439d91c_b.jpg" layout="responsive" width="1024" height="768" alt="Thule Atmos X4 iPhone Adventure Case"></amp-img>
-
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
+
 
 * The X4 has a better grip
 * The buttons on the X4 are easier to push
@@ -34,7 +38,3 @@ The only features we were missing on the X4 were that it is not waterproof and a
 In general, we also liked the camera lens protection. Even so there is no physical protection for the lens we found it sufficient to have the lens just placed lower than the case.
 
 However, we will test the new Thule Atmos X5 (which is supposed to be waterproof) on our iPhones on our next trip probably in Poland or Japan. If the X5 works as promised it will probably be our outdoor smartphone case of choice for our upcoming hiking and packrafting adventures.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

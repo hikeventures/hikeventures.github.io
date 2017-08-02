@@ -14,9 +14,13 @@ image: https://farm8.staticflickr.com/7431/8731235226_efa6408459_b.jpg
 Looking for an ultralight quilt for the summer for your next hiking, backpacking, camping or any other backcountry adventure? Have a look at the Katabatic Gear Chisos. This quilt can be used for degrees around 40 F / +5 C and higher or you can layer up inside and use it for lower temperatures. Personally, I felt a bit cold when I used this quilt in August here in Finland when we had around +6 C in the night even so I was wearing jogging pants and a long sleeved merino shirt. I would just use this quilt for June and July here in Finland but it depends if you are a warm or a cold sleeper. In general, this is a high quality quilt.
 
 <amp-img src="https://farm8.staticflickr.com/7431/8731235226_efa6408459_b.jpg" layout="responsive" width="1024" width="683" alt="Katabatic Gear Chisos unboxing"></amp-img>
-
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
+
 
 <a href="https://www.flickr.com/photos/90204224@N07/8731235068" ><img src="https://farm8.staticflickr.com/7432/8731235068_5355313c08_b.jpg" width="1024" height="683" alt="Katabatic Gear Chisos field test"></a>
 
@@ -51,7 +55,3 @@ Size of the quilt compared to the Therm-a-Rest Z Lite and Exped Syn UL7.
 
 ## Recommendation
 The Katabatic Gear Chisos is a minimalistic high quality quilt. This quilt serves well during the warmer days during the year or as an additional layer when it's cold. However, I prefer using sleeping bags as there is always a risk that cold air could flow in on the sides in case you are turning while you are sleeping. Personally, I prefer taking a sleeping bag on my trips (like the [Cumulus Panyam](http://hikeventures.com/cumulus-panyam-450/) and would use the quilt during the colder months as an additional layer.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

@@ -18,8 +18,12 @@ In general, I was quite happy with the Cumulus Panjam 450. However, after having
 Why? Because I feel much warmer in the WM VersaLite. However, the Cumulus Panjam 450 is by no means a bad sleeping bag and they have also a model which is filled with more down.
 
 <amp-img src="https://c1.staticflickr.com/9/8185/28431572180_4c18fea5a0_b.jpg" width="1024" height="683" alt="Western Mountaineering Versalite Review and Test" layout="responsive"></amp-img>
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 ## Field Testing
  I have used my WM Versalite on several trips for example in Finland when we were packsailing to the [fortress island of Örö][2] or on our winter and summer trip in [Northern Norway][3] (see pictures in this blog post).
@@ -56,9 +60,10 @@ However, for Scandinavia this is easily a great sleeping bag which can be used d
 
 A great sleeping pad companion for the WM VersaLite is the Therm-a-Rest NeoAir XTherm which weights about 400 grams and which I have also used in Northern Norway (see picture above).
 
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
+
+
+http://amzn.to/2uXZh7F
 
 [1]:	http://www.hikeventures.com/cumulus-panyam-450/ "Cumulus Panjam 450"
 [2]:	http://www.hikeventures.com/Oro/ "Fortress Island of Örö"

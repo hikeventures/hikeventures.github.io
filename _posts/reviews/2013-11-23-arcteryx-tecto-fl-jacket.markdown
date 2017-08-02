@@ -14,9 +14,12 @@ image: https://farm6.staticflickr.com/5520/11379723083_5cf7ba4ecc_b.jpg
 Looking for a lightweight waterproof jacket for your next hiking, backpacking or any other backcountry adventure? The Arc'teryx Tecto FL Jacket could be your next jacket and here comes a short review. After my hiking trip in [Sarek](http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) where I used the <a href="http://hikeventures.com/gear-review-montane-minimus-smock/" target="_self">Montane Minimus Smock</a>, I noticed that it would be better to have a full-zip jacket. It's just much more easier to get it on and off. Of course, a full-zip jacket is somewhat more heavy but a full-zip jacket just works better for me.
 
 <amp-img src="https://farm6.staticflickr.com/5520/11379723083_5cf7ba4ecc_b.jpg" layout="responsive" width="1024" height="465" alt="Arc'teryx Tecto FL"></amp-img>
-
-
+<br>
 <!--more-->
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 
 ## Features
@@ -32,7 +35,3 @@ The close-to-body fit is especially suitable for those who are performing activi
 
 ## Recommendation
 The Arc'teryx Tecto FL jacket is a great jacket for being active outdoors. It is also lightweight and packs small since it has less pockets and a minimalistic cut. However, If you are looking for a lighter jacket and if you are on a budget then you could also have a look at the <a href="http://hikeventures.com/gear-review-montane-minimus-smock/">Montane Minimus Jacket</a>. I found the Montane Minimus jacket less durable than the Arc'teryx Tecto FL jacket but it's almost invisible in your backpack. My preference goes towards the Arc'teryx Tecto FL Jacket. I am also using the Tecto FL when I cycle to work during the winter time here in Finland.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
