@@ -18,7 +18,7 @@ I found a solution which could extend the usage of your electronic gear for a co
 <!--more-->
 
 ## Features
-The Anker Astro3E features high capacrity for a low price. It also offers multiple sockets, weights 240 grams and has the size of a mobile phone.
+The Anker Astro3E features high capacity for a low price. It also offers multiple sockets, weights 240 grams and has the size of a mobile phone.
 
 It comes with plenty of connectors and you can even charge your iPad with it. With the battery you can charge 6 times your phone and you can even charge 2 devices at once (since it has 2 USB sockets with 3100 mA / h on each socket). There are also 4 blue lights on the front of the device which indicates the capacity of the battery. Charging of the battery via USB takes up to 8 hours on your PC and 15 hours on your laptop. The case which is included in the package seems to be useful too. It is mashed and feels quite soft - should protect the battery in case you drop it.
 
