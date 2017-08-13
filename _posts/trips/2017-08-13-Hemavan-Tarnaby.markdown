@@ -10,16 +10,10 @@ tags:
   - Hemavan
   - Tärnaby
 layout: post
-image: https://farm5.staticflickr.com/4229/35871086005_c61f3867b2_k.jpg
+image: https://farm5.staticflickr.com/4355/36502491085_e6f9daea01_k.jpg
 ---
-The last 3 days I have been on a bicylce trip together with [Caj](https://www.hutkai.fi) in the Archipelago National Park. This year we decided to travel along a new route which might probably replace the old route which [I have traveled](http://www.hikeventures.com/archipelago-trail/) last year with my bicycle.
 
-There were two major differences - namely there were more services on the way but it was also more expensive to travel the new route.
-
-The new route goes from Turku to Pensar, Korpoström, Aspö, [Örö](http://www.hikeventures.com/Oro/) (which I also visited last year with my packraft) and then back to Kasnäs where you can either take the bus (around 20 EUR) or cycle back to Turku (around 90 km).
-
-<amp-img src="https://farm5.staticflickr.com/4229/35871086005_c61f3867b2_k.jpg" width="2048" height="1191" alt="Örö Island - Archipelago National Park" layout="responsive"></amp-img>
-
+<amp-img src="https://farm5.staticflickr.com/4355/36502491085_e6f9daea01_k.jpg" width="2048" height="1365" alt="Hiking and Packrafting Hemavan Tärnaby" layout="responsive"></amp-img>
 <br>
 <!--more-->
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
