@@ -87,7 +87,7 @@ We also found some leftovers of a Lemming.
 
 <amp-img src="https://farm5.staticflickr.com/4413/36105727620_b10affcb29_k.jpg" width="2048" height="1126" alt="Lemmings skeleton Vindelfjällens" layout="responsive"></amp-img>
 
-And there were also plenty of frogs.
+There were also plenty of frogs.
 
 <amp-img src="https://farm5.staticflickr.com/4407/35667603364_1e5a2500ef_k.jpg" width="2048" height="956" alt="Frog Vindelfjällens" layout="responsive"></amp-img>
 
