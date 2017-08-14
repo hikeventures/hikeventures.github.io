@@ -219,4 +219,4 @@ The next day Jeremie had a new private record in packrafting.
 <amp-img src="https://farm5.staticflickr.com/4347/36365262891_6ae9bff545_k.jpg" width="2048" height="1365" alt="Hiking and Packrafting Hemavan Tärnaby" layout="responsive"></amp-img>
 
 ## More reports about this trip
-*[Injuring Eternity](https://injuringeternity.net/2017/08/12/vindelfjallens-traverse-a-packrafting-lesson/)
+* [Injuring Eternity](https://injuringeternity.net/2017/08/12/vindelfjallens-traverse-a-packrafting-lesson/)
