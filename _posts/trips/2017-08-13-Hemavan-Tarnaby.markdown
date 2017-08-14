@@ -133,16 +133,65 @@ There were a few nice spots on the rapid where we gained some speed.
 <br>
 <amp-img src="https://farm5.staticflickr.com/4361/36105650000_d52c90a690_k.jpg" width="2048" height="955" alt="rapid packrafting Hemavan Tärnaby" layout="responsive"></amp-img>
 
+As the sun was very intense in the afternoon it was probably also a good idea to use sun lotion. However, I forgot mine at home.
+
+<amp-img src="https://farm5.staticflickr.com/4375/36365182661_2e3bff6e4a_k.jpg" width="2048" height="999" alt="Packrafting Hemavan Tärnaby" layout="responsive"></amp-img>
+
+And then there was it. A sand beach!
+
+<amp-img src="https://farm5.staticflickr.com/4358/35693645943_64e5221d63_k.jpg" width="2048" height="1208" alt="Hemavan Tärnaby sand beach lake" layout="responsive"></amp-img>
+
+Some of us had a swim or two and then we descided to pitch our tents and prepared a camp fire.
+
+<amp-img src="https://farm5.staticflickr.com/4345/36105599990_eabf436bec_k.jpg" width="2048" height="982" alt="Hemavan Tärnaby sand beach lake" layout="responsive"></amp-img>
+
+This was probably the best camping spot and night which we had during this trip.
+
+<amp-img src="https://farm5.staticflickr.com/4441/35693627413_1a9d2cf8b9_k.jpg" width="2048" height="975" alt="Hemavan Tärnaby sand beach lake camping" layout="responsive"></amp-img>
+
+We were listening to country songs on the camp fire.
+
+<amp-img src="https://farm5.staticflickr.com/4411/35693625593_db517f0fde_k.jpg" width="2048" height="1266" alt="Hemavan Tärnaby sand beach lake camping" layout="responsive"></amp-img>
+
+We also had a short rain shower and then there was suddenly a rainbow.
+
+<amp-img src="https://farm5.staticflickr.com/4426/36105615360_4450a7bac9_k.jpg" width="2048" height="875" alt="Hemavan Tärnaby rainbow" layout="responsive"></amp-img>
+
+The next morning we woke up and our tents were surrounded by fog. The night has been bitterly cold as well.
+
+<amp-img src="https://farm5.staticflickr.com/4432/36105614080_3340e9265a_k.jpg" width="2048" height="1070" alt="Hemavan Tärnaby lake fog" layout="responsive"></amp-img>
+
+However, once the fog disappeared we where blessed again with sun throughout the day.
+
+<amp-img src="https://farm5.staticflickr.com/4348/36105704350_2bbd87e19a_k.jpg" width="2048" height="808" alt="Hemavan Tärnaby lake fog" layout="responsive"></amp-img>
+
+Once we reached the end of the long lake we saw newly constructed bridges and a few hikers and fishermen.
+
+<amp-img src="https://farm5.staticflickr.com/4364/36502530165_075c5abe1a_k.jpg" width="2048" height="745" alt="Hemavan Tärnaby lake fog" layout="responsive"></amp-img>
+
+Probably no words needed to describe the landscape ...
+
+<amp-img src="https://farm5.staticflickr.com/4359/36365271781_1087606da4_k.jpg" width="2048" height="950" alt="Hemavan Tärnaby lake fog" layout="responsive"></amp-img>
+
 After we paddled through a very long lake (I think it was 12 km long) we reached a rapid where we found a cottage of the Swedish King.
 
-As I was the first to arrive at the cabin I went on land where I met the house keeper and asked him if we could have a break on the yard of the Kings cottage. He agreed.
+<amp-img src="https://farm5.staticflickr.com/4342/36365235671_665a6c165a_k.jpg" width="2048" height="1110" alt="Swedish King cottage Hemavan Tärnaby" layout="responsive"></amp-img>
 
-<amp-img src="https://farm5.staticflickr.com/4357/36105646300_917febdd08_k.jpg" width="2048" height="1365" alt="Swedish king cabin cottage Hemavan Tärnaby" layout="responsive"></amp-img>
+As I was the first to arrive at the cabin I went on land where I met the house keeper and asked him if we could have a break on the yard of the Swedish Kings cottage. He agreed and we prepared our lunch while enjoying the beautiful scenery towards the mountains.
 
+<amp-img src="https://farm5.staticflickr.com/4356/35667571304_2cf0e186f9_k.jpg" width="2048" height="852" alt="Swedish King cottage Hemavan Tärnaby" layout="responsive"></amp-img>
 
+After 1 hour we left the cottage of his majesty and continued our trip.
 
+<amp-img src="https://farm5.staticflickr.com/4423/35693654633_891b83ed44_k.jpg" width="2048" height="798" alt=" packrafting Hemavan Tärnaby" layout="responsive"></amp-img>
 
+And Jeremie went again through the most challenging ones while some of us were waiting with a throw rope to assist him.
 
+<amp-img src="https://farm5.staticflickr.com/4384/36105630280_ab51c810eb_k.jpg" width="2048" height="955" alt=" packrafting Hemavan Tärnaby" layout="responsive"></amp-img>
+
+This was the last day where we had sun shine and we pitched our tent somewhat up on a hill where we were able to see the sunset.
+
+<amp-img src="https://farm5.staticflickr.com/4348/36105611270_d3bdbaa105_k.jpg" width="2048" height="1084" alt=" sunset Hemavan Tärnaby" layout="responsive"></amp-img>
 
 ## Almost a packrafting desaster ...
 
