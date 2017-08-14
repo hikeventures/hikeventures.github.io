@@ -206,8 +206,9 @@ Caj and Jeremie rescued Caj's backpack from the river which got stuck on a stone
 
 <amp-img src="https://farm5.staticflickr.com/4376/36365269601_88bef21bb4_k.jpg" width="2048" height="774" alt="Whitewater River Safety Packrafting" layout="responsive"></amp-img>
 
-
 ## Returning back to cizilization
+
+After we found Caj and rescued his backpack we tried to find the next road back to Tärnaby. Peter went already ahead to pick up his car and he promised to pick us up from the road.
 
 In Tärnaby Camping we rented a cabin for 800 Swedish Kronar where we dried our gear and enjoyed a sauna.
 
