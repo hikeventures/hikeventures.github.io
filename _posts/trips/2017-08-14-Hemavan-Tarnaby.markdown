@@ -17,8 +17,6 @@ Our packrafting adventure in the Hemavan Tärnby area started where the Kungsled
 <amp-img src="https://farm5.staticflickr.com/4355/36502491085_e6f9daea01_k.jpg" width="2048" height="1365" alt="Hiking and Packrafting Hemavan Tärnaby" layout="responsive"></amp-img>
 <br>
 <!--more-->
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 After passing Hemavan with our car along the Blå vägen we had a short stop on a waterfall where Jeremie was planning to raft down on the last day.
 
