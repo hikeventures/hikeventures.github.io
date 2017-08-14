@@ -22,7 +22,7 @@ image: https://farm5.staticflickr.com/4355/36502491085_e6f9daea01_k.jpg
 
 ## Packrafting Desaster ... almost
 
-Caj and Jeremie rescued Caj's backpack in the river which got stuck on a stone.
+Caj and Jeremie rescued Caj's backpack from the river which got stuck on a stone a few kilometers after Caj capsized and shortly before a bridge where Caj was able to cross the river again and get back to our side.
 
 <amp-img src="https://farm5.staticflickr.com/4376/36365269601_88bef21bb4_k.jpg" width="2048" height="774" alt="Whitewater River Safety Packrafting" layout="responsive"></amp-img>
 
