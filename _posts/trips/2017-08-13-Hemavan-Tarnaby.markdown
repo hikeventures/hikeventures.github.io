@@ -20,9 +20,19 @@ image: https://farm5.staticflickr.com/4355/36502491085_e6f9daea01_k.jpg
 <br>
 
 
+## Packrafting Desaster ... almost
+
+Caj and Jeremie rescued Caj's backpack in the river which got stuck on a stone.
+
+<amp-img src="https://farm5.staticflickr.com/4376/36365269601_88bef21bb4_k.jpg" width="2048" height="774" alt="Whitewater River Safety Packrafting" layout="responsive"></amp-img>
+
 
 ## Returning back to cizilization
 
 In Tärnaby Camping we rented a cabin for 800 Swedish Kronar where we dried our gear and enjoyed a sauna.
 
 <amp-img src="https://farm5.staticflickr.com/4357/35667621294_06bc38578b_k.jpg" width="2048" height="1016" alt="Tärnaby Camping" layout="responsive"></amp-img>
+
+The next day Jeremie had a new private record in packrafting.
+
+<amp-img src="https://farm5.staticflickr.com/4347/36365262891_6ae9bff545_k.jpg" width="2048" height="1365" alt="Hiking and Packrafting Hemavan Tärnaby" layout="responsive"></amp-img>
