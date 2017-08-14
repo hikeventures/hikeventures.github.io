@@ -87,25 +87,62 @@ We also found some leftovers of a Lemming.
 
 <amp-img src="https://farm5.staticflickr.com/4413/36105727620_b10affcb29_k.jpg" width="2048" height="1126" alt="Lemmings skeleton Vindelfjällens" layout="responsive"></amp-img>
 
-There were also plenty of frogs.
+There were also plenty of frogs on our way up the mountain.
 
 <amp-img src="https://farm5.staticflickr.com/4407/35667603364_1e5a2500ef_k.jpg" width="2048" height="956" alt="Frog Vindelfjällens" layout="responsive"></amp-img>
 
+Even so the distance to an object looked quite close it was a long walk to reach it.
+
+<amp-img src="https://farm5.staticflickr.com/4369/35667605634_b4838ef318_k.jpg" width="2048" height="872" alt="Hiking Fjäll Hemavan Tärnaby" layout="responsive"></amp-img>
+
+Also weight was an important factor. While I was carrying quite a lot of gear with me it was quite nice to see how fast one of our ultralight hikers went up the mountain. He was also wearing proper shoes and not sandals like me.
+
+<amp-img src="https://farm5.staticflickr.com/4331/36365215431_21b27d70ad_k.jpg" width="2048" height="1134" alt="Hiking and Packrafting Hemavan Tärnaby" layout="responsive"></amp-img>
+
+The streams on the way up offered a good opportunity to have short break and have a sip.
+
+<amp-img src="https://farm5.staticflickr.com/4343/36105637270_2c82aaf525_k.jpg" width="2048" height="868" alt="drinking water hiking sweden from river" layout="responsive"></amp-img>
+
+A new scereny opened up in front of us once we reached the highest point on our way up.
+
+<amp-img src="https://farm5.staticflickr.com/4419/36365226481_65f2e424db_k.jpg" width="2048" height="1107" alt="Hiking and Packrafting Hemavan Tärnaby" layout="responsive"></amp-img>
+
+And then we discoverd a herd of reindeers on a patch of snow. Peter said that they prefer to stand on the snow to protect themselves from mosquitoes.
+
+<amp-img src="https://farm5.staticflickr.com/4363/36365225371_5b4cd13d59_k.jpg" width="2048" height="1128" alt="Reindeers glacier snow Hemavan Tärnaby" layout="responsive"></amp-img>
+
+And then it was finally time for packrafting once we reached the lake Nedre Ältsvattnet where we paddled along the river Ältsån.
+
+<amp-img src="https://farm5.staticflickr.com/4351/36502477225_672ebeba87_k.jpg" width="2048" height="923" alt="Ältsån river Packrafting Hemavan Tärnaby" layout="responsive"></amp-img>
+
+Then it was time again to set up the camp where thousands of mosquitoes were already waiting for us.
+
+<amp-img src="https://farm5.staticflickr.com/4407/36502476305_f1875fb42c_k.jpg" width="2048" height="881" alt="Camping Hemavan Tärnaby" layout="responsive"></amp-img>
+
+The next morning the sun was hiding behind the clouds and we had to pack our tent into the backpack hoping for better weather in the afternoon to have our gear dried.
+
+<amp-img src="https://farm5.staticflickr.com/4400/35667560684_8807966e11_k.jpg" width="2048" height="930" alt="packrafting Hemavan Tärnaby" layout="responsive"></amp-img>
+
+There were a few nice spots on the rapid where we gained some speed.
+
+<amp-img src="https://farm5.staticflickr.com/4361/36365209111_3b9089b361_k.jpg" width="2048" height="996" alt="rapid packrafting Hemavan Tärnaby" layout="responsive"></amp-img>
+<br>
+<amp-img src="https://farm5.staticflickr.com/4437/35693628623_f80def20cf_k.jpg" width="2048" height="823" alt="rapid packrafting Hemavan Tärnaby" layout="responsive"></amp-img>
+<br>
+<amp-img src="https://farm5.staticflickr.com/4384/36105601570_1c5f514e41_k.jpg" width="2048" height="934" alt="rapid packrafting Hemavan Tärnaby" layout="responsive"></amp-img>
+<br>
+<amp-img src="https://farm5.staticflickr.com/4361/36105650000_d52c90a690_k.jpg" width="2048" height="955" alt="rapid packrafting Hemavan Tärnaby" layout="responsive"></amp-img>
+
+After we paddled through a very long lake (I think it was 12 km long) we reached a rapid where we found a cottage of the Swedish King.
+
+As I was the first to arrive at the cabin I went on land where I met the house keeper and asked him if we could have a break on the yard of the Kings cottage. He agreed.
+
+<amp-img src="https://farm5.staticflickr.com/4357/36105646300_917febdd08_k.jpg" width="2048" height="1365" alt="Swedish king cabin cottage Hemavan Tärnaby" layout="responsive"></amp-img>
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/35667608044/in/datetaken-public/" title="Hiking and Packrafting Hemavan Tärnaby"><img src="https://farm5.staticflickr.com/4442/35667608044_4f8fd90c83_k.jpg" width="2048" height="751" alt="Hiking and Packrafting Hemavan Tärnaby"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Almost a packrafting desaster ...
 
