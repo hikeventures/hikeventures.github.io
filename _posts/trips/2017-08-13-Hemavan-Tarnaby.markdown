@@ -20,7 +20,15 @@ image: https://farm5.staticflickr.com/4355/36502491085_e6f9daea01_k.jpg
 <br>
 
 
-## Packrafting Desaster ... almost
+## Almost a packrafting desaster ...
+
+When we came closer to the waterfall Caj was somewhat unfortunate and not able to paddle back to one side of the river. In able to rescue himself he had to let go his packraft and his backpack.
+
+<amp-img src="https://farm5.staticflickr.com/4431/35693599523_16626270df_k.jpg" width="2048" height="703" alt="Losing packraft whitewater river waterfall" layout="responsive"></amp-img>
+
+We found Caj's packraft just under the waterfall where it was circling around. Luckily we had Jeremie with us who is also a passionate climber and was able to get Caj's Packraft out.
+
+<amp-img src="https://farm5.staticflickr.com/4375/35667625404_f01acee363_k.jpg" width="2048" height="1016" alt="Packraft Waterfall Rescue Whitewater" layout="responsive"></amp-img>
 
 Caj and Jeremie rescued Caj's backpack from the river which got stuck on a stone a few kilometers after Caj capsized and shortly before a bridge where Caj was able to cross the river again and get back to our side.
 
