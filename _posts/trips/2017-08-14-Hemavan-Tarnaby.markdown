@@ -22,6 +22,10 @@ After passing Hemavan with our car along the Blå vägen we had a short stop on 
 
 Once we reached our starting point we parked our cars, packed our gear and started our hike.
 
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/gz9k7PcFn_o"></iframe>
+</div>
+
 More precisely, our trip started in the Vindelfjällens Naturreservat where over 8000 years old artefacts have been found. It is one of Europe’s largest protected areas.
 
 <amp-img src="https://farm5.staticflickr.com/4390/35693694253_9c7839d6c7_k.jpg" width="2048" height="1365" alt="Vindelfjällens Naturreservat hiking" layout="responsive"></amp-img>
