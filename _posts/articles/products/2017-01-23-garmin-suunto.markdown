@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Garmin Fenix 5X or Suunto Spartan Sport - Why to upgrade?
-description: Differences and features of the Garmin Fenix 5X and the Suunto Spartan Ultra
+title: Garmin Fenix 5X, Suunto Spartan Sport, Suunto Spartan Trainer - Why to upgrade?
+description: Differences and features of the Garmin Fenix 5X, Suunto Spartan Trainer and the Suunto Spartan Ultra
 date: 2017-01-23 07:30:00
 category: article
 image: https://c1.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg
@@ -11,23 +11,23 @@ tags:
   - suunto
 image: https://c1.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg
 ---
-Currently, there are two interesting GPS watches on the market which I would find quite useful for hiking, backpacking or mountaineering - the Suunto Spartan Sport and the Garmin Fenix 5X. Here are their features and differences.
+Currently, there are two interesting GPS watches on the market which I would find quite useful for hiking, backpacking or mountaineering - the Suunto Spartan Sport, Suunto Spartan Trainer Wrist HR and the Garmin Fenix 5X. Here are their features and differences.
 
-<h2 id="list">Suunto Spartan Sport vs. Garmin Fenix 5X</h2>
+<h2 id="list">Suunto Spartan Sport vs. Suunto Spartan Trainer vs. Garmin Fenix 5X</h2>
 <div class="table-responsive">
 <table class="table">
-<thead><tr class="tableizer-firstrow"><th>Feature</th><th><a rel="nofollow" href="http://amzn.to/2kiZkEC">Suunto Spartan Sport</a></th><th><a href="http://amzn.to/2jQ2bYn" rel="nofollow">Garmin Fenix 5X</a></th></tr></thead><tbody>
- <tr><td>waterproof</td><td>100m</td><td>100m</td></tr>
- <tr><td>battery</td><td>16h</td><td>20h</td></tr>
- <tr><td>touchscreen</td><td>yes</td><td>no</td></tr>
- <tr><td>GLONASS</td><td>yes</td><td>yes</td></tr>
- <tr><td>altimeter</td><td>yes</td><td>yes</td></tr>
- <tr><td>compass</td><td>yes</td><td>yes</td></tr>
- <tr><td>hear rate monitor</td><td>chest</td><td>wrist</td></tr>
- <tr><td>weight</td><td>70g</td><td>98g</td></tr>
- <tr><td>size (mm)</td><td>50 x 50 x 13,8</td><td>51 x 51 x 17.5</td></tr>
- <tr><td>top map</td><td>no</td><td>yes</td></tr>
- <tr><td>screen resolution</td><td>300 x 300</td><td>240 x 240</td></tr>
+<thead><tr class="tableizer-firstrow"><th>Feature</th><th><a rel="nofollow" href="http://amzn.to/2kiZkEC">Suunto Spartan Sport</a></th><th><a rel="nofollow" href="http://amzn.to/2w3RYy5">Suunto Spartan Trainer</a></th><th><a href="http://amzn.to/2jQ2bYn" rel="nofollow">Garmin Fenix 5X</a></th></tr></thead><tbody>
+ <tr><td>waterproof</td><td>100m</td><td>100m</td><td>50m</td></tr>
+ <tr><td>battery</td><td>16h</td><td>10h</td><td>20h</td></tr>
+ <tr><td>touchscreen</td><td>yes</td><td>no</td><td>no</td></tr>
+ <tr><td>GLONASS</td><td>yes</td><td>no</td><td>yes</td></tr>
+ <tr><td>altimeter</td><td>yes</td><td>yes</td><td>yes</td></tr>
+ <tr><td>compass</td><td>yes</td><td>yes</td><td>yes</td></tr>
+ <tr><td>hear rate monitor</td><td>chest</td><td>wrist</td><td>wrist</td></tr>
+ <tr><td>weight</td><td>70g</td><td>66g</td><td>98g</td></tr>
+ <tr><td>size (mm)</td><td>50 x 50 x 13,8</td><td>46  x  46  x  14.9 </td><td>51 x 51 x 17.5</td></tr>
+ <tr><td>topo map</td><td>no</td><td>no</td><td>yes</td></tr>
+ <tr><td>screen resolution</td><td>300 x 300</td><td>218 x 218</td><td>240 x 240</td></tr>
 
 </tbody></table>
 </div>
@@ -36,7 +36,7 @@ Currently, there are two interesting GPS watches on the market which I would fin
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 
-Both watches are currently the latest models from both manufacturers and their built in GPS feature, color display and battery life make them an attractive alternative compared to a smartphone with a GPS app - at least if you are frequently tracking your GPS or if you plan to go on remote backcountry trips.
+All watches are currently the latest models from both manufacturers and their built in GPS feature, color display and battery life make them an attractive alternative compared to a smartphone with a GPS app - at least if you are frequently tracking your GPS or if you plan to go on remote backcountry trips.
 
 In the past I have always used my Suunto Traverse to log my GPS data (see picture below on a [trip in Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/)).
 
@@ -55,10 +55,10 @@ However, others might find the color screen or the touch screen of the Spartan m
 
 Personally, I don't care that much about the touch screen. However, the color display in combination of the map is a really cool feature.
 
-Moreover, the Fenix 5X also has a hear rate monitor built into the back of the watch so you can measure your hear beat without wearing a heart strap around your chest.
-
-Suunto has already announced to release a similar model in a few weeks which is going to be called Suunto Spartan Sport HR.
+Moreover, the Fenix 5X and the Suunto Spartan Trainer Wrist HR also has a heart rate monitor built into the back of the watch so you can measure your heart beat without wearing a heart strap around your chest.
 
 However, it will still miss the map feature which I like on the Garmin Fenix 5X. On the other hand, the Suunto Spartan has a slightly better screen resolution.
 
-Would this change my purchase decision? No. I still prefer the watch which can upload topo maps - the Garmin Fenix 5X. The Suunto Spartan might be however more appealing for those who need the lightest gear and don't need the map feature of the Garmin Fenix 5X.
+If you only want to wear your watch occasionally or just want to monitor your jogging in the city then the Suunto Spartan Trainer Wrist HR is probably the best solution. It is the least expensive and lightest watch of all models but also comes with less battery life which is acceptable if you don't do for example longer hiking trips.
+
+Would this change my purchase decision? No. I still prefer the watch which can upload topo maps - the Garmin Fenix 5X. The Suunto Spartan Trainer Wrist HR might be however more appealing for those who need the lightest gear and don't need the map feature of the Garmin Fenix 5X.
