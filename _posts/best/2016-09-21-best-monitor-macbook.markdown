@@ -33,9 +33,9 @@ There would be no need to plug and unplug USB cables anymore on the MacBook Pro.
         </thead>
 
         <tbody>
-        <tr>
-          <td><a href="http://amzn.to/2vKQDcW" rel="nofollow" target="_blank">LG 27UD68</a></td><td>5M:1</td><td>99%</td><td>5ms</td><td>350 cd/m²</td>
-        </tr>
+
+
+        
         <tr>
           <td><a href="http://amzn.to/2dEVRzy" rel="nofollow" target="_blank">LG 27UD88</a></td><td>1000 : 1</td><td>99%</td><td>5ms</td><td>350 cd/m²</td>
         </tr>
