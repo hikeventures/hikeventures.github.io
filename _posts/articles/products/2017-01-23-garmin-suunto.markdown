@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Garmin Fenix 5X, Suunto Spartan Sport, Suunto Spartan Trainer - Why to upgrade?
-description: Differences and features of the Garmin Fenix 5X, Suunto Spartan Trainer and the Suunto Spartan Ultra
+title: Garmin Fenix 5X, Suunto Spartan Sport or Spartan Trainer Wrist HR - Why to upgrade?
+description: Differences and features of the Garmin Fenix 5X, Suunto Spartan Trainer Wrist HR and the Spartan Ultra
 date: 2017-01-23 07:30:00
 category: article
 image: https://c1.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg
