@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Icebreaker Tech T Lite T-shirt - Review and Experience
+title: Icebreaker Tech T Lite - Best Hiking T-Shirt?
 description: Based on my experiences during the last five years
 date: 2016-10-19 12:30:00
 category: reviews
