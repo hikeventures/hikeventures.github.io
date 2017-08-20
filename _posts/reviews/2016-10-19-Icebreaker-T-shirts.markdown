@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Five Reasons to buy an Icebreaker t-shirt
+title: Icebreaker Tech T Lite T-shirt - Review and Experience
 description: Based on my experiences during the last five years
 date: 2016-10-19 12:30:00
 category: reviews
