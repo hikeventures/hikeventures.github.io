@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Garmin inReach Explorer+ or SE+
+title: Garmin inReach Explorer+ vs. SE+
 description: A first look on the Garmin inReach Explorer+ and SE+
 date: 2017-01-18 07:30:00
 category: article
