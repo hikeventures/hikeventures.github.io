@@ -1,5 +1,5 @@
 ---
-title: Best Merino Base Layers 2017
+title: Best Merino Base Layers for Hiking and Backpacking 2017
 description: An overview of the best lightweight merino wool base layers.
 date: 2016-10-04 20:43:52
 update_date: 2016-12-27 06:00:52
@@ -143,3 +143,7 @@ The Icebreaker Men's Zone One Sheep Suit is an all-in-one baselayer solution mad
 
 ## Conclusion
 The base layers above are all possible options if you plan a trip to colder regions. Selecting a base layer depends on the activity you are planning to do. For normal hiking or not that intense activities I would rather take a base layer which has more merino wool in it rather than synthetic fibers. It's also important that the base layer stays next to the skin so it can dry faster if you sweat. The choice is yours.
+
+---
+
+I hope this blog post was helpful to find the best merino base layer for your next hiking or backpacking adventure for you.

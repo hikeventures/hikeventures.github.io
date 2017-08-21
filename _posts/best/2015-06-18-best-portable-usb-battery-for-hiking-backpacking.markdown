@@ -80,3 +80,7 @@ It offers a capacity of 120.000 mAh and can be connected to your car to recharge
 If you are looking for a waterproof alternative to the Anker Power Bank then you could have a look at the EasyAcc 20000 mAh, a rugged outdoor power bank which is IP67 waterproof.
 
 <a href="http://amzn.to/2s5dakZ" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+---
+
+I hope this blog post was helpful to find the best USB battery pack for your next hiking or backpacking adventure for you.

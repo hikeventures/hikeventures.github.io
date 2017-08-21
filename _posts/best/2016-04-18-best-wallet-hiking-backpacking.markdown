@@ -52,3 +52,7 @@ The most affordable solution is probably to use a cheap plastic bag and wrap it 
 Personally, I use both - a Fjällräven Zip Card Holder and sometimes an additional plastic bag when I go packrafting.
 
 The Chums wallet would be quite useful if you are doing watersport such as kayaking or pack rafting.
+
+---
+
+I hope this blog post was helpful to find the best wallet for your next hiking or backpacking adventure for you.

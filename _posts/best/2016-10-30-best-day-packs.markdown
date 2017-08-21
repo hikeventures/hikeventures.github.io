@@ -176,3 +176,7 @@ The front pocket let's you also store and access gear quickly. Then there is als
 The Arc'teryx ARRO 22 comes with WaterTight® zipper, a hydration pocket, a Kangaroo pocket and two external pockets.
 
 <a href="http://amzn.to/2hC1baB" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+---
+
+I hope this blog post was helpful to find the best hiking daypack for your next outdoor adventure.

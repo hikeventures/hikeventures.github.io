@@ -182,3 +182,7 @@ The Manfrotto is also a good choice if you want to take selfies as you can posit
 I also take the Manfrotto tripod with me if I don’t carry much gear with me or if I don’t change my location that often during a trip.
 
 So what is the best travel tripod? It really depends on the situation and how you are planning to use it.
+
+---
+
+I hope this blog post was helpful to find the best travel tripod for your sony camera.

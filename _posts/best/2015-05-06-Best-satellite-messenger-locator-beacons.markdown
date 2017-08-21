@@ -136,3 +136,7 @@ Alternatively, you will see from the specifications below that the DeLorme devic
 My personal preference goes towards the <a href="http://amzn.to/2jM4Pet" target="_blank" rel="nofollow">Garmin InReach Explorer+</a> as it has also messenger function.
 
 If I would not need the messenger and tracking function then I would probably get the <a href="http://amzn.to/2e39b0g" target="_blank" rel="nofollow">ACR ResQlink+ 406</a>.
+
+---
+
+I hope this blog post was helpful to find the best stallite messenger for you.

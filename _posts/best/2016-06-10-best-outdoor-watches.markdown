@@ -218,3 +218,7 @@ If you prefer to have a Suunto you might also wait for a while until the Suunto 
 If I would not need the longer training mode (GPS) of the Suunto Spartan then I would probably buy the Apple Watch Series 2 Sport as I have an iPhone.
 
 I would also pick the 42 mm Apple Sport version as I prefer a bigger screen.
+
+---
+
+I hope this blog post was helpful to find the best outdoor watch for you.

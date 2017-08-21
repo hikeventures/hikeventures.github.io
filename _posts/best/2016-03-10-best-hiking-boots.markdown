@@ -343,3 +343,7 @@ If you are looking for a very breathable shoe then hiking boots which are entire
 If your toes are hurting in your hiking boots then you should consider getting a bigger pair of hiking boots.
 
 Alternatively, you could also try to wear thinner socks but in most cases your hiking boots are just too small.
+
+---
+
+I hope this blog post was helpful to find the best hiking boots for you.

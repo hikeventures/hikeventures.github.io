@@ -268,3 +268,7 @@ Just make sure that the battery of your headlamp can be recharged with a USB cab
 In cold conditions you can extend the battery life of your Petzl NAO by wearing the battery next to your body.
 
 Just attach the extension cable between your battery and the headlamp and you are good to go.
+
+---
+
+I hope this blog post was helpful to find the best headlamp for you.

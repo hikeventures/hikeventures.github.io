@@ -235,3 +235,7 @@ For my hardshell layers like my rain pants I use <a href="[http://amzn.to/2sRiOE
 ### How to patch them?
 
 For certain waterproof fabrics there are repair kits available like the <a href="http://amzn.to/2tfXV5K" rel="nofollow">Gore-Tex Medium Repair Kit</a>.
+
+---
+
+I hope this blog post was helpful to find the best rain pants for you.

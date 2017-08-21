@@ -184,3 +184,7 @@ Manfrotto also offers a set of filters which can be purchased additionally to th
 There is also a hot shoe mount and a 1/4" thread to attach it to a tripod. The LED outputs a color temperature of 5600 K.
 
 <a href="http://amzn.to/2hfEoS7" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+---
+
+I hope this blog post was helpful to find the best flash and video light for your sony camera.

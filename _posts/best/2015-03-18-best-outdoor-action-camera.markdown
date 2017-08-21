@@ -68,3 +68,7 @@ The GoPro Hero 4 looks more like a camera which fits better on the front of your
 <a href="http://www.amazon.com/gp/product/B00NIYNUF2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NIYNUF2&linkCode=as2&tag=hikeve-20&linkId=6QOKQTO4LSBPAVZT" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00NIYNUF2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00NIYNUF2" width="1" height="1" border="0" alt="GoPro Hero 4" style="border:none !important; margin:0px !important;">
 
 If you need a smaller camera then the GoPro Hero Session is probably the best pick. Hopefully, we will see the GoPro Hero5 and the GoPro Drone Karma this year as well. There are rumors that the new GoPro Hero5 will have better connectivity features.
+
+---
+
+I hope this blog post was helpful to find the best outdoor action camera for you.

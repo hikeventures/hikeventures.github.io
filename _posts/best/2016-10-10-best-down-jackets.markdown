@@ -11,7 +11,7 @@ tags:
   - jackets
 layout: post
 ---
-Down jackets can be designed for different activities or environments e.g. urban or outdoor adventures. 
+Down jackets can be designed for different activities or environments e.g. urban or outdoor adventures.
 
 In this blog post I have selected the [best down jackets](#the-best-down-jackets-of-2017) of 2017 which I would consider to buy if I were to get a  new one for my next backpacking or winter backcountry adventure.
 
@@ -257,3 +257,7 @@ A big tumbler can be used to dry the down jacket. Also add a few tennis balls to
 
 ### How to pack and store it?
 I have one dedicated dry bag where I stuff my down jacket and my sleeping bag in. Down products need much less space than synthetic products and the best way to get as much space as possible is to compress down in a compression bag.
+
+---
+
+I hope this blog post was helpful to find the best down jacket for your next outdoor adventure.

@@ -160,3 +160,7 @@ There are several aspects you should take into consideration when you are planni
 * Adjustability (e.g. binding to tighten your snowshoes on your foot)
 * Does it fit to your "snowshoe boots" (e.g. I use my hiking boots)
 * Do you want snowshoes for beginners? (they are cheaper and technically less advanced)
+
+---
+
+I hope this blog post was helpful to find the best snowshoes for you.
