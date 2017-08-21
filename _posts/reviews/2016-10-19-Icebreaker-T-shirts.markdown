@@ -13,7 +13,7 @@ tags:
 image: https://c4.staticflickr.com/9/8556/29794613243_97ff8d015a_k.jpg
 ---
 
-The first time I heard about Icebreaker was about 5 or 6 years ago when together with my Adventure Tourism students I went for a short "gear talk" to our local outdoor shop. The sales guy told us that they had some t-shirts that were "really cool" because you could wear them for a long time and they wouldn’t 'stink'.
+The first time I heard about Icebreaker was about 5 or 6 years ago when together with my Adventure Tourism students I went for a short "gear talk" to our local outdoor shop. The sales guy told us that they had some t-shirts that were "really cool" because you could wear them for a long time and they wouldn’t 'stink'. So they are probably the best T-Shirt for hiking.
 
 What he said made me really interested so I decided to have a look at them, but was immediately taken back by the price. "What? 60 Euro? I never…" I said to myself and moved on to other things.
 
