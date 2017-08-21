@@ -1,5 +1,5 @@
 ---
-title: Best Headlamps 2017
+title: Best Headlamps 2017 - 2018
 description: Find the best headlamps for your next outdoor adventure
 date: 2016-01-03 23:02:20
 update_date: 2017-07-08 06:00:52
@@ -11,7 +11,7 @@ tags:
   - lamps
 layout: post
 ---
-Here is my [selection](#the-best-headlamps-of-2017) of the best lightweight headlamps for 2017 which I would consider to take to my next hiking, backpacking or camping trip.
+Here is my [selection](#the-best-headlamps-of-2017) of the best lightweight headlamps for 2017 - 2018 which I would consider to take to my next hiking, backpacking or camping trip.
 
 Having a headlamp can be a life saver and it’s a good idea to have one with you in your backpack especially during the winter.
 
@@ -19,7 +19,7 @@ The Petzl NAO+ for example has plenty of features and you can also connect the P
 
 However, if you are looking for a smaller headlamp which is also waterproof then I would rather pick the <a href="http://amzn.to/2fkaiqv" rel="nofollow">Black Diamond Spot</a> which features a red light and 200 Lumen - sufficient for hiking even in the Alps.  
 
-<amp-img src="https://c1.staticflickr.com/9/8270/15581097668_01223b886d_k.jpg" width="2048" height="1367" alt="Best headlamps 2017 hiking backpacking camping" layout="responsive"></amp-img>   
+<amp-img src="https://c1.staticflickr.com/9/8270/15581097668_01223b886d_k.jpg" width="2048" height="1367" alt="Best headlamps 2017 - 2018 hiking backpacking camping" layout="responsive"></amp-img>   
 <br>
 <!--more-->
 

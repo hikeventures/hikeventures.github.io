@@ -1,5 +1,5 @@
 ---
-title: Best Snowshoes for 2017
+title: Best Snowshoes for 2017 - 2018
 description: Our selection of the best snowshoes for 2017.
 date: 2016-01-03 09:19:51
 update_date: 2016-12-27 06:00:52
@@ -12,7 +12,7 @@ tags:
 layout: post
 ---
 
-In this blog post I would like to present you my selection of the best snowshoes for 2017.
+In this blog post I would like to present you my selection of the best snowshoes for 2017 - 2018.
 
 Snowshoes are quite useful if you are planning to ascent a mountain or walk in powder snow. Snowshoeing is easy to learn and not that expensive.
 
@@ -26,7 +26,7 @@ Also look at the size of the crampons and if the binding is suitable / durable o
 
 Below you can see Konstantin snowshoeing in the Austrian Alps.
 
-<amp-img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="Best snowshoes for 2017" layout="responsive"></amp-img>
+<amp-img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="Best snowshoes for 2017 - 2018" layout="responsive"></amp-img>
 
 <!--more-->
 

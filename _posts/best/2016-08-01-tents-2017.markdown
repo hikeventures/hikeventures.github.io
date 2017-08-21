@@ -1,7 +1,7 @@
 ---
 layout: post
-title: New backpacking tents for 2017
-description: Need a new tent for your next outdoor adventure? Here are the latest models for 2017.
+title: New backpacking tents for 2017 - 2018
+description: Need a new tent for your next outdoor adventure? Here are the latest models for 2017 - 2018.
 date: 2016-08-01 07:30:00
 category: articles
 image: https://c3.staticflickr.com/9/8759/28098548314_3618ccb134_k.jpg
@@ -11,7 +11,7 @@ tags:
   - tent
 ---
 
-For 2017 we can expect to see plenty of new backpacking tents on the market.
+For 2017 - 2018 we can expect to see plenty of new backpacking tents on the market.
 
 The trend clearly goes towards lightweight tents.
 
@@ -25,7 +25,7 @@ Further, you may also have a look on which [sleeping pads](http://www.hikeventur
 
 Our <a rel="nofollow" href="#list">selection</a> below contains only new / updated tents and I might add a few more later on.
 
-<amp-img src="https://c3.staticflickr.com/9/8759/28098548314_3618ccb134_k.jpg" width="2048" height="1365" alt="Best new tents for 2017" layout="responsive"></amp-img>
+<amp-img src="https://c3.staticflickr.com/9/8759/28098548314_3618ccb134_k.jpg" width="2048" height="1365" alt="Best new tents for 2017 - 2018" layout="responsive"></amp-img>
 <br>
 <!--more-->
 

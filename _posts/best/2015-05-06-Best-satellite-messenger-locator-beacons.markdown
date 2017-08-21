@@ -1,5 +1,5 @@
 ---
-title: Best Satellite Messenger, Locator and Personal Beacon 2017
+title: Best Satellite Messenger, Locator and Personal Beacon 2017 - 2018
 description: Planning to go hiking in the remote wilderness? Be prepared to get help with a GPS Satellite Messenger.
 date: 2016-01-03 12:35:07
 update_date: 2017-01-15 06:00:52
@@ -12,7 +12,7 @@ tags:
 layout: post
 ---
 
-In this blog post I would like to give you an [overview](#best-satellite-gps-messengers-for-2017) of the best satellite messengers for 2017 (also called GPS Tracker or Personal Locator Beacon) which I would consider to carry on my next hiking or backpacking trip.
+In this blog post I would like to give you an [overview](#best-satellite-gps-messengers-for-2017) of the best satellite messengers for 2017 - 2018 (also called GPS Tracker or Personal Locator Beacon) which I would consider to carry on my next hiking or backpacking trip.
 
 Satellite messengers are especially important if you plan to hike in a location without phone reception.
 
@@ -20,7 +20,7 @@ DeLorme has been owned by Garmin since 2016 and the units have been replaced wit
 
 In the picture below you can see the old DeLorme InReach Explorer in his yellow case attached to the backpack.
 
-<amp-img src="https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg" width="1024" height="683" layout="responsive" alt="Best Satellite Messenger, Locator and Personal Beacon 2017" layout="responsive"></amp-img>
+<amp-img src="https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg" width="1024" height="683" layout="responsive" alt="Best Satellite Messenger, Locator and Personal Beacon 2017 - 2018" layout="responsive"></amp-img>
 <br>
 <!--more-->
 

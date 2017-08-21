@@ -1,5 +1,5 @@
 ---
-title: Best Tents For Backpacking And Packrafting in 2017
+title: Best Tents For Backpacking And Packrafting in 2017 - 2018
 description: The best tent for our backpacking and packrafting adventures.
 date: 2016-01-03 19:10:07
 update_date: 2016-12-27 06:00:52
@@ -12,11 +12,11 @@ tags:
 layout: post
 ---
 
-Here is our selection of the best packrafting and backpacking tents for 2017 which we would consider to buy for our next adventure.  
+Here is our selection of the best packrafting and backpacking tents for 2017 - 2018 which we would consider to buy for our next adventure.  
 
 For our packrafting kayaking trips we are currently using the Hilleberg Anjan, Unna and MSR Hubba Hubba NX. The Hilleberg Anjan has served us quite well so far in [Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) or in [the Netherlands](http://www.hikeventures.com/packrafting-in-the-weerribben-wieden-national-park/) while the Unna is our favorite tent for solo trips.  
 
-<amp-img src="https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Best Tents For Backpacking And Packrafting in 2017" layout="responsive"></amp-img>   
+<amp-img src="https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Best Tents For Backpacking And Packrafting in 2017 - 2018" layout="responsive"></amp-img>   
 <br>   
 <!--more-->
 

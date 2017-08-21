@@ -1,5 +1,5 @@
 ---
-title: Best Wind Jackets 2017
+title: Best Wind Jackets 2017 - 2018
 description: Top 5 windproof Jackets for 2017 for your next outdoor adventure!
 date: 2016-01-04 10:56:22
 update_date: 2016-12-27 06:00:52
@@ -11,13 +11,13 @@ tags:
   - jackets
 layout: post
 ---
-Here is my [selection](#the-best-wind-jackets-of-2017) of the best wind jackets for 2017 which I would consider to take on my next hiking or backpacking trip.   
+Here is my [selection](#the-best-wind-jackets-of-2017) of the best wind jackets for 2017 - 2018 which I would consider to take on my next hiking or backpacking trip.   
 
 A lightweight wind jacket is probably one of the most useful piece of clothes which you can take with you. It does not need much space and you can easily store it in your backpack.  
 
 I always combine a wind jacket together with a [fleece jacket](http://www.hikeventures.com/best-windjackets/) to protect myself agains cold winds.    
 
-<amp-img src="https://c3.staticflickr.com/8/7385/9599027418_4123160df8_b.jpg" width="992" height="661" alt="best wind jackets for 2017" layout="responsive"></amp-img>   
+<amp-img src="https://c3.staticflickr.com/8/7385/9599027418_4123160df8_b.jpg" width="992" height="661" alt="best wind jackets for 2017 - 2018" layout="responsive"></amp-img>   
 <br>   
 <!--more-->
 

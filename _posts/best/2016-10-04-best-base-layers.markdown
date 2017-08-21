@@ -1,5 +1,5 @@
 ---
-title: Best Merino Base Layers 2017
+title: Best Merino Base Layers 2017 - 2018
 description: An overview of the best lightweight merino wool base layers.
 date: 2016-10-04 20:43:52
 update_date: 2016-12-27 06:00:52
@@ -16,13 +16,13 @@ For our hiking and snowshoeing trip in Northern Norway we were looking for new m
 
 So far I have already experience with wearing the Devold Expedition base layer and I am quite happy with it.
 
-Here is my personal <a href="#list">selection</a> of the best merino wool base layers for 2017.
+Here is my personal <a href="#list">selection</a> of the best merino wool base layers for 2017 - 2018.
 
 Also check one of our <a href="#video">packrafting videos</a> where we were wearing base layers to stay warm while paddling 1 week in freezing cold conditions.
 
 ---
 
-<amp-img src="https://c2.staticflickr.com/6/5604/15791886561_80520bc4b6_k.jpg" width="2048" height="1367" layout="responsive" alt="Best Merino Wool Base Layers"></amp-img>
+<amp-img src="https://c2.staticflickr.com/6/5604/15791886561_80520bc4b6_k.jpg" width="2048" height="1367" layout="responsive" alt="Best Merino Wool Base Layers 2017 - 2018"></amp-img>
 
 However, there are also alternatives out there which I would like to present in this blog post which might be even better base layer options depending on your needs.
 

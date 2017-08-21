@@ -1,5 +1,5 @@
 ---
-title: Best outdoor case to protect your Macbook Pro 2017
+title: Best outdoor case to protect your Macbook Pro 2017 - 2018
 description: An interesting MacBook case for your outdoor activities.
 date: 2015-04-16 16:15:35
 update_date: 2016-12-27 06:00:52
@@ -17,7 +17,7 @@ Recently, I was looking for a new case for my MacBook Pro 13" 2017 with Touch Ba
 
 I came across the Thule Gauntlet 13" MacBook Attaché which I found to be one of the best outdoor case to protect my MacBook Pro.
 
-<amp-img src="https://farm9.staticflickr.com/8749/17167532371_f36eb8b1f1_b.jpg" width="848" height="636" alt="Thule Gauntlet - Best MacBook Pro 2017 Case for Outdoors" layout="responsive"></amp-img>
+<amp-img src="https://farm9.staticflickr.com/8749/17167532371_f36eb8b1f1_b.jpg" width="848" height="636" alt="Thule Gauntlet - Best MacBook Pro 2017 - 2018 Case for Outdoors" layout="responsive"></amp-img>
 <br>
 <!--more-->
 

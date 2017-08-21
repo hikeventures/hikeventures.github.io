@@ -1,3 +1,17 @@
+
+---
+title: Best Synthetic Insulated Jackets 2017 - 2018
+description: Need a warm jacket for your autumn or winter? We found the best lightweight synthetic insulated jackets for 2017 - 2018
+date: 2016-10-10 20:43:52
+update_date: 2017-07-17 05:43:52
+category: articles
+image: https://c1.staticflickr.com/6/5558/31803741256_3d7a100029_o.jpg
+tags:
+  - articles
+  - best
+  - jackets
+layout: post
+---
 Here is my [selection](#the-best-synthetic-insulated-jackets-of-2017) of the best synthetic insulated jackets for 2017 which I would consider to buy for my next winter or hiking trip.  
 
 Wearing a synthetic insulated jacket over a [down jacket](http://www.hikeventures.com/best-down-jackets/) can have several reasons.  

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Best ski gloves 2017
+title: Best ski gloves 2017 - 2018
 description: The best winter gloves for skiing, snowboarding or snowshoeing
 date: 2016-01-03 19:10:07
 category: articles
@@ -11,9 +11,9 @@ tags:
   - best
 ---
 
-In this blog post I will present you my selection of the best ski gloves for 2017. Of course, you can also wear these gloves for snowboarding.
+In this blog post I will present you my selection of the best ski gloves for 2017 - 2018. Of course, you can also wear these gloves for snowboarding.
 
-<amp-img src="https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg" width="2048" height="1360" alt="best ski gloves for 2017" layout="responsive"></amp-img>
+<amp-img src="https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg" width="2048" height="1360" alt="best ski gloves for 2017 - 2018" layout="responsive"></amp-img>
 
 
 <!--more-->

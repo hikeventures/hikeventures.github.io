@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Best new hiking and backpacking backpacks for 2017
-description: Need a new backpack for your next outdoor adventure? Here are a selection of the latest models for 2017.
+description: Need a new backpack for your next outdoor adventure? Here are a selection of the latest models for 2017 - 2018.
 date: 2016-08-01 07:30:00
 category: articles
 image: https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg
@@ -11,7 +11,7 @@ tags:
   - backpacks
 ---
 
-Are you looking for a new backpack in 2017 for your next hiking or backpacking adventures?
+Are you looking for a new backpack in 2017 - 2018 for your next hiking or backpacking adventures?
 
 Here is a <a href="#list">selection</a> of the best new backpack models for 2017.
 
@@ -21,7 +21,7 @@ For a multi-day hiking trip you should get probably the largest size possible (d
 
 ---
 
-<amp-img src="https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg" width="2048" height="1360" alt="Best new backpacks for 2017" layout="responsive"></amp-img>
+<amp-img src="https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg" width="2048" height="1360" alt="Best new backpacks for 2017 - 2018" layout="responsive"></amp-img>
 
 ---
 

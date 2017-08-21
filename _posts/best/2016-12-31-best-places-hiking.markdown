@@ -1,5 +1,5 @@
 ---
-title: Best Places to go hiking and packrafting in 2017
+title: Best Places to go hiking and packrafting in 2017 - 2018
 description: Places we would like to visit 2017 to go hiking
 date: 2016-12-31 14:30:52
 category: articles
@@ -10,9 +10,9 @@ tags:
   - hiking
 layout: post
 ---
-In this post we have selected the best places for us to go hiking and packrafting in 2017. We will probably add a few more trips through the year.
+In this post we have selected the best places for us to go hiking and packrafting in 2017 - 2018. We will probably add a few more trips through the year.
 
-<amp-img src="https://c5.staticflickr.com/8/7737/28408870540_3fd8554e5f_b.jpg" width="1024" height="683" alt="Best Places to go hiking and packrafting in 2017" layout="responsive"></amp-img>
+<amp-img src="https://c5.staticflickr.com/8/7737/28408870540_3fd8554e5f_b.jpg" width="1024" height="683" alt="Best Places to go hiking and packrafting in 2017 - 2018" layout="responsive"></amp-img>
 
 
 <!--more-->
