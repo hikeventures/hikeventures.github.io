@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LifeStraw, MSR TrailShot or Sawyer Mini to filter water?
+title: LifeStraw, MSR TrailShot vs. Sawyer Mini to filter water?
 description: Differences between the LifeStraw, TrailShot and Sawyer water filter.
 date: 2017-03-03 07:30:00
 category: article

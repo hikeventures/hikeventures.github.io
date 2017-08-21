@@ -123,3 +123,7 @@ On paper, the Lenovo seems to have an edge for those working with pictures while
 However, the differences between those 2 monitors is not that big and it's probably just a matter of taste and money you are planning to spend on your new monitor.
 
  If you have the cash I would rather take the Dell Ultra HD 5K than a 4K screen. If you are on a budget then the HP ENVY or the LG 27UD68P (especially for gaming) might be a nice 4K monitor.
+
+ ---
+
+ I hope this blog post was helpful to find the best 4K or 5K monitor your your MacBook.

@@ -86,3 +86,7 @@ If you prefer a filter where you need to pump then the Katadyn Hiker Pro filter 
 The MSR TrailShot is the latest development compared to the other water filters. The filter is probably more convenient to use than the Sawyer Mini since it offers an Inlet Hose and the pump might be quite useful as well to get clean water out of a river. This is probably going to be my new water filter to replace my Sawyer Mini even so it weights a bit more.
 
 <a href="http://amzn.to/2qdeoXm" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+---
+
+I hope this blog post was helpful to find the best backpacking water filter for your next outdoor adventure.

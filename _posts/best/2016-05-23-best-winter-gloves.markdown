@@ -143,3 +143,7 @@ If you need additional warmth add a merino liner glove under your regular glove 
 There is also an option from Hestra available - the Hestra Army Leather Heli 3-Finger Glove - which sits in between mitts and gloves are probably also a good option for example if you need to handle a camera. This model is my favorite model of all gloves in this list.
 
 However, you can also just take your main gloves off and operate your camera by just wearing the liner gloves. Once you have taken your picture you just put your main gloves back over the merino liner gloves.
+
+---
+
+I hope this blog post was helpful to find the best winter gloves for you.

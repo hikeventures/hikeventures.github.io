@@ -57,3 +57,7 @@ Also the additional pocket for the iPad protects it’s screen if you are planni
 <amp-img src="https://farm8.staticflickr.com/7644/17166514972_62ae02076a_b.jpg" width="100%" alt="Thule Gauntlet - Best MacBook Pro Case for Outdoors"></amp-img>
 
 Personally, I think that a case without room for accessories doesn’t make much sense especially if you travel for a few days as you won’t have space for your charger.
+
+---
+
+I hope this blog post was helpful to find the outdoor case for your MacBook Pro for you.

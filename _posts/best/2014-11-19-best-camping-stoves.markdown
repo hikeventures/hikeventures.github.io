@@ -175,3 +175,7 @@ My favorite stove for Scandinavia are the MSR WindBurner or the Jetboil MiniMo -
 If you are traveling to different continents then a multi-fuel stove might be the best solution as gas canisters might not be sold everywhere.
 
 For winter camping you should probably also consider a multi-fuel stove like the MSR XGK EX.
+
+---
+
+I hope this blog post was helpful to find the best camping stove for you.

@@ -65,3 +65,7 @@ If you are searching for a screen protector for the Sony a6500 then you can also
 
       </table>
 </div>
+
+---
+
+I hope this blog post was helpful to find the best screen protector for your sony camera.

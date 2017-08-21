@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comparison and differences - YI 4K+ or GoPro Hero5?
+title: 4K+ vs. GoPro Hero5 - Comparison and differences
 description: Differences and features of the YI 4K+ and the GoPro Hero5
 date: 2017-02-21 07:30:00
 category: article

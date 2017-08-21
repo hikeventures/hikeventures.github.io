@@ -91,3 +91,7 @@ Depending on your needs and your budget there are several solutions available to
 It's also worth to find out if your camera is able to transfer your pictures by using Wifi.
 
 Transferring the pictures won't be that fast as with a dedicated card reader but it's a working solution in case you are on a budget, have no need for any other USB or Ethernet features or want to avoid additional dongles on your laptop.
+
+---
+
+I hope this blog post was helpful to find the best USB-C SD or MicroSD card reader for your MacBook Pro.
