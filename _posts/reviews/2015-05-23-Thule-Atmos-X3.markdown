@@ -1,5 +1,5 @@
 ---
-title: Thule Atmos X3 Review - Brings the iPhone 6 outdoors
+title: Thule Atmos X3 Review
 description: Protect your iPhone on your adventures with the Thule Atmos X3
 date: 2015-05-23 06:45:07
 category: reviews
