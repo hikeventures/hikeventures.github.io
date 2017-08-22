@@ -25,7 +25,7 @@ If you are searching for a screen protector for the Sony a6500 then you can also
 ---
 
 <amp-img src="https://c1.staticflickr.com/3/2829/11856929704_c0e64fb9db_b.jpg" width="1024" height="699" alt="Best Screen Protectors for Sony a7, a7S, a7R, a6000, a6300 and a6500" layout="responsive"></amp-img>
-
+<br>
 <!--more-->
 
 <hr>

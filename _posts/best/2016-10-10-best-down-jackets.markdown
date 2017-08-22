@@ -29,9 +29,6 @@ Also have a look on our [FAQ](#faq-on-down-jackets) to learn more about down jac
 
 <amp-img src="https://c1.staticflickr.com/8/7379/15913311563_d90e96b2c3_k.jpg" width="2048" height="1360" alt="Best down jackets 2017 - 2018" layout="responsive"></amp-img>
 <br>
-
-<amp-img src="https://c1.staticflickr.com/8/7379/15913311563_d90e96b2c3_k.jpg" width="2048" height="1360" alt="Best down jackets 2017" layout="responsive"></amp-img>
-<br>
 <!--more-->
 
 ## The best down jackets of 2017

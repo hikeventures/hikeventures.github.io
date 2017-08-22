@@ -18,7 +18,7 @@ For a multi-day trip where we have no access to a power socket we solely rely on
 Further, we are also experimenting with a solar panel, however in regions like in Scandinavia there might be longer periods with no sun.
 
 <amp-img src="https://c4.staticflickr.com/4/3786/18296050823_382029ba5c_o.jpg" width="992" height="744" alt="Best Portable USB Battery for Hiking and Backpacking" layout="responsive"></amp-img>
-
+<br>
 <!--more-->
 
 Previously, we have used the Astro E3 10000 mAh for our trips which worked quite well for 4-5 day trips.

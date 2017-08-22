@@ -18,7 +18,7 @@ Obviously, there are two models which are currently hot on the market - the GoPr
 Now the questions evolved which of those two action cameras should be a replacement for our old GoPro Hero 3+. Here is our <a href="#list">camera comparison table</a>.
 
 <amp-img src="https://c3.staticflickr.com/8/7270/26814282730_defc74acac_b.jpg" width="1024" height="680" alt="Best Outdoor Action Camera for 2017 - 2018" layout="responsive"></amp-img>
-
+<br>
 <!--more-->
 
 To answer the question I am just going to compare the specifications of the cameras.

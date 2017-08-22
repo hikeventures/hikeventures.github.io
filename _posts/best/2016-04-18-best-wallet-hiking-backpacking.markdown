@@ -19,8 +19,7 @@ Alternatively, you can also store your wallet in a plastic bag to keep it dry.
 Further, you might also want to look into a wallet which does not take too much space and is lightweight.
 
 <amp-img src="https://farm2.staticflickr.com/1706/25893630833_0449df22f3_b.jpg" width="1024" height="768" alt="The best wallet for hiking and backpacking" layout="responsive"></amp-img>
-
-
+<br>
 <!--more-->
 
 ## Chums Floating Marsupial Wallet

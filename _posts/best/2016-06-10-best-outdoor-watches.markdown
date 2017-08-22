@@ -21,7 +21,7 @@ However, I would be interested to get an outdoor watch which features a color di
 Probably one disadvantage of watches having a color display and a GPS is their short battery life.
 
 <amp-img src="https://c2.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg" width="2048" height="1360" alt="Best outdoor GPS watches 2017 - 2018" layout="responsive"></amp-img>
-
+<br>
 <!--more-->
 
 ## The best outdoor gps watches for 2017
@@ -190,7 +190,7 @@ No need to wear a heart rate monitor around your chest. One highlight of the Mot
 **Touchscreen**: yes
 **Wi-Fi**: no
 **Heart Rate Monitor**: yes
-**GPS**: yes (incl. GLONASS)  
+**GPS**: yes (incl. GLONASS)
 **Wireless charging**: no
 
 The Suunto Spartan Ultra is the latest smartwatch addition in the Suunto range.

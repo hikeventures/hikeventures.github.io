@@ -4,11 +4,13 @@ title: New sleeping pads in 2017 - 2018
 description: A selection of new hiking and backpacking sleeping pads for 2017
 date: 2016-08-01 07:30:00
 category: articles
+image: https://c3.staticflickr.com/9/8811/28610161362_13669985d6_k.jpg
 tags:
   - reviews
   - sleeping pads
   - new
 ---
+
 In this blog post you can find a selection of new sleeping pads for 2017 - 2018.
 
 There are different sleeping pads for different seasons or climates available.
@@ -17,7 +19,7 @@ The R-value indicates how much insulation a sleeping pad provides. In the conclu
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28610161362/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KKxnAB-KAbydb-Kjpddj-JNYpty-JLZkAy-KAE8HH-KhoVF3-KAE83V-KyaYFJ-GTmgr7-HDjp5s-taZSRR-r5xNhV-pUoWyp-pBYjLk-pC4E8s-oXBrPd-pC1YcN-pEJWqt-pxH68q-pxJgsb-o5hewa-mM6SVH-pUemeM-pgfsSH-pPJqgM-mM722n-mM6tYt-mM7oGe-neeJYC-mM6siX-mM6DHi-mM6JsP-mM6JU2-fauCG5-dL6obB-dLbCzu-dusPDb-duu4Co-duov8P-dwEYBM-dyiAib" title="New sleeping pads for 2017"><img src="https://c3.staticflickr.com/9/8811/28610161362_13669985d6_k.jpg" width="2048" height="1365" alt="New sleeping pads for 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<amp-img src="https://c3.staticflickr.com/9/8811/28610161362_13669985d6_k.jpg" width="2048" height="1365" alt="New sleeping pads for 2017" layout="responsive"></amp-img>
 
 ---
 

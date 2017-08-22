@@ -1,9 +1,6 @@
 ---
-<<<<<<< HEAD
 title: Best Merino Base Layers 2017 - 2018
-=======
 title: Best Merino Base Layers for Hiking and Backpacking 2017
->>>>>>> 0f949429a0dc4cf8bbe34d82ed237ff8857104ec
 description: An overview of the best lightweight merino wool base layers.
 date: 2016-10-04 20:43:52
 update_date: 2016-12-27 06:00:52
@@ -39,7 +36,7 @@ However, we really need to test it first to give a final conclusion.
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/16347592097/in/album-72157651193131682/" title="Lapland Finland"><img src="https://c2.staticflickr.com/9/8665/16347592097_8d7dd9dc6c_k.jpg" width="2048" height="1360" alt="Lapland Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Patrick <a href="http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/">snowshoeing in Finnish Lapland</a>. One example where a warm woolen base layer makes sense.
-
+<br>
 <!--more-->
 
 <hr>

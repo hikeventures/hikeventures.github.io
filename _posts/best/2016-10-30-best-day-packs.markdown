@@ -20,7 +20,7 @@ A day pack weights much less than a regular backpack and you will be able to enj
 I have included a broad range of day packs. Some are more durable or offer more features while also weight a bit more while other day packs are more light and minimalistic.
 
 <amp-img src="https://c1.staticflickr.com/9/8699/27817737344_1645a0bd95_b.jpg" width="1024" height="684" alt="Best Day Packs 2017 - 2018" layout="responsive"></amp-img>
-
+<br>
 <!--more-->
 ## The best day packs of 2017
 

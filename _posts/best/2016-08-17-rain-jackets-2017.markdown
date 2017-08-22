@@ -27,7 +27,7 @@ Here is a <a href="#list">selection</a> of the new rain jackets for 2017 - 2018 
 ---
 
 <amp-img src="https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg" width="2048" height="1360" alt="New rain jackets for 2017 - 2018" layout="responsive"></amp-img>
-
+<br>
 <!--more-->
 
 <h2 id="list">New rain jackets 2017</h2>
