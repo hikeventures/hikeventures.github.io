@@ -11,14 +11,14 @@ tags:
   - jackets
 layout: post
 ---
-Here is my [selection](#the-best-wind-jackets-of-2017) of the best wind jackets for 2017 - 2018 which I would consider to take on my next hiking or backpacking trip.   
+Here is my [selection](#the-best-wind-jackets-of-2017) of the best wind jackets for 2017 - 2018 which I would consider to take on my next hiking or backpacking trip.
 
 A lightweight wind jacket is probably one of the most useful piece of clothes which you can take with you. It does not need much space and you can easily store it in your backpack.
 
 I always combine a wind jacket together with a [fleece jacket](http://www.hikeventures.com/best-windjackets/) to protect myself agains cold winds.
 
-<amp-img src="https://c3.staticflickr.com/8/7385/9599027418_4123160df8_b.jpg" width="992" height="661" alt="best wind jackets for 2017 - 2018" layout="responsive"></amp-img>   
-<br>   
+<amp-img src="https://c3.staticflickr.com/8/7385/9599027418_4123160df8_b.jpg" width="992" height="661" alt="best wind jackets for 2017 - 2018" layout="responsive"></amp-img>
+<br>
 <!--more-->
 
 ## The best wind jackets of 2017
@@ -127,7 +127,7 @@ There is also a reflective logo on the front and back which comes quite handy du
 <a  href="http://www.amazon.com/gp/product/B015940COK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B015940COK&linkCode=as2&tag=hikeve-20&linkId=BJU5MZ2MPTNXIRPE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B015940COK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B015940COK" width="1" height="1" border="0" alt="The North Face Fuseform Eragon" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 140 grams / 4.9 oz.
-**Fabric**: WindWall (100% nylon)
+**Fabric**: WindWall (100% nylon)   
 
 The North Face Fuseform Eragon has fewer seams and a streamlined, Alpine-specific fit.
 
