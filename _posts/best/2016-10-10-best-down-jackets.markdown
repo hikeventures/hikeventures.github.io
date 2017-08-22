@@ -11,13 +11,11 @@ tags:
   - jackets
 layout: post
 ---
-<<<<<<< HEAD
-In this blog post I have selected the [best down jackets](#the-best-down-jackets-of-2017) of 2017 - 2018 which I would consider to buy if I were to get a  new one for my next backpacking or winter adventure.  
-=======
+In this blog post I have selected the [best down jackets](#the-best-down-jackets-of-2017) of 2017 - 2018 which I would consider to buy if I were to get a  new one for my next backpacking or winter adventure.
+
 Down jackets can be designed for different activities or environments e.g. urban or outdoor adventures.
 
 In this blog post I have selected the [best down jackets](#the-best-down-jackets-of-2017) of 2017 which I would consider to buy if I were to get a  new one for my next backpacking or winter backcountry adventure.
->>>>>>> 0f949429a0dc4cf8bbe34d82ed237ff8857104ec
 
 A down jacket is one of the most essential piece of clothes when planning an overnight trip outdoors or during winter time. A down jacket keeps you much warmer compared to a fleece jacket.
 
@@ -29,13 +27,11 @@ Also have a look on our [FAQ](#faq-on-down-jackets) to learn more about down jac
 
 
 
-<<<<<<< HEAD
-<amp-img src="https://c1.staticflickr.com/8/7379/15913311563_d90e96b2c3_k.jpg" width="2048" height="1360" alt="Best down jackets 2017 - 2018" layout="responsive"></amp-img>    
-<br>   
-=======
+<amp-img src="https://c1.staticflickr.com/8/7379/15913311563_d90e96b2c3_k.jpg" width="2048" height="1360" alt="Best down jackets 2017 - 2018" layout="responsive"></amp-img>
+<br>
+
 <amp-img src="https://c1.staticflickr.com/8/7379/15913311563_d90e96b2c3_k.jpg" width="2048" height="1360" alt="Best down jackets 2017" layout="responsive"></amp-img>
 <br>
->>>>>>> 0f949429a0dc4cf8bbe34d82ed237ff8857104ec
 <!--more-->
 
 ## The best down jackets of 2017
