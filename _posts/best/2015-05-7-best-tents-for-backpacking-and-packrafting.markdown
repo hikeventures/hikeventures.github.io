@@ -12,21 +12,18 @@ tags:
 layout: post
 ---
 
-<<<<<<< HEAD
-Here is our selection of the best packrafting and backpacking tents for 2017 - 2018 which we would consider to buy for our next adventure.  
-=======
+
+Here is our selection of the best packrafting and backpacking tents for 2017 - 2018 which we would consider to buy for our next adventure.
+
 Here is our selection of the best packrafting and backpacking tents for 2017 which we would consider to buy for our next adventure.
->>>>>>> 0f949429a0dc4cf8bbe34d82ed237ff8857104ec
 
 For our packrafting kayaking trips we are currently using the Hilleberg Anjan, Unna and MSR Hubba Hubba NX. The Hilleberg Anjan has served us quite well so far in [Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) or in [the Netherlands](http://www.hikeventures.com/packrafting-in-the-weerribben-wieden-national-park/) while the Unna is our favorite tent for solo trips.
 
-<<<<<<< HEAD
-<amp-img src="https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Best Tents For Backpacking And Packrafting in 2017 - 2018" layout="responsive"></amp-img>   
-<br>   
-=======
+<amp-img src="https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Best Tents For Backpacking And Packrafting in 2017 - 2018" layout="responsive"></amp-img>
+<br>
+
 <amp-img src="https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Best Tents For Backpacking And Packrafting in 2017" layout="responsive"></amp-img>
 <br>
->>>>>>> 0f949429a0dc4cf8bbe34d82ed237ff8857104ec
 <!--more-->
 
 ## The best tents for packrafting, hiking and backpacking of 2017
@@ -250,7 +247,7 @@ The MSR Hubba Hubba NX is a freestanding 2-person tent for 3 seasons.
 **Persons**: 2
 **Fabric**: 20D ripstop / 30D ripstop (floor)
 **Weight**: 1700 grams / 60 oz.
-**Area inner tent**: 2.7 m²
+**Area inner tent**: 2.7 m²  
 
 The MSR Hubba Hubba NX is a great 3 season tent and it even costs almost half the price of a Hilleberg tent.
 
