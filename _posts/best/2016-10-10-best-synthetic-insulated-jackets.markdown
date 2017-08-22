@@ -13,8 +13,6 @@ layout: post
 ---
 Here is my [selection](#the-best-synthetic-insulated-jackets-of-2017) of the best synthetic insulated jackets for 2017 which I would consider to buy for my next winter or hiking trip.
 
-Here is my [selection](#the-best-synthetic-insulated-jackets-of-2017) of the best synthetic insulated jackets for 2017 which I would consider to buy for my next winter or hiking trip.
-
 Wearing a synthetic insulated jacket over a [down jacket](http://www.hikeventures.com/best-down-jackets/) can have several reasons.
 
 Either you are just looking for an alternative to down because of ethical reasons or you are planning to wear your jacket in a damp or humid environment where down may loose its insulation capabilities when it gets wet.

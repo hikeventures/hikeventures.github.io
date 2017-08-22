@@ -16,7 +16,7 @@ Here is my selection of the best camping stoves for 2017 - 2018.
 A portable and lightweight camping stove is one of the most essential item to have on your outdoor adventures to boil water for tea, coffee or dehydrated meals.
 
 <amp-img src="https://c8.staticflickr.com/4/3748/9596216703_3f4c4db24f_b.jpg" width="1024" height="683" alt="Best Camping Stoves 2017 - 2018" layout="responsive"></amp-img>
-
+<br>
 <!--more-->
 
 ## The best camping stoves of 2017

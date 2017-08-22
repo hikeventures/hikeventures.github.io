@@ -15,8 +15,6 @@ In this blog post I have selected the [best down jackets](#the-best-down-jackets
 
 Down jackets can be designed for different activities or environments e.g. urban or outdoor adventures.
 
-In this blog post I have selected the [best down jackets](#the-best-down-jackets-of-2017) of 2017 which I would consider to buy if I were to get a  new one for my next backpacking or winter backcountry adventure.
-
 A down jacket is one of the most essential piece of clothes when planning an overnight trip outdoors or during winter time. A down jacket keeps you much warmer compared to a fleece jacket.
 
 Usually, I wear a [fleece jacket](http://www.hikeventures.com/best-fleece-jackets/) as a mid-layer when I go hiking. When it get’s windy I pull on a [wind jacket](http://www.hikeventures.com/best-windjackets/).  If I sit around in my camp I switch my fleece to a down jacket.
