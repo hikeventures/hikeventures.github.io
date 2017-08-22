@@ -11,11 +11,9 @@ tags:
   - rain jackets
 ---
 
-<<<<<<< HEAD
 Need a new rain jacket for your next outdoor adventure 2017 - 2018? I always take a rain jacket with me when I go [hiking](http://www.hikeventures.com/destinations/) or cycling.
-=======
+
 I always take a rain jacket with me when I go [hiking](http://www.hikeventures.com/destinations/), backpacking or cycling.
->>>>>>> 0f949429a0dc4cf8bbe34d82ed237ff8857104ec
 
 Depending on the season or activity it might also be a good idea to have different rain jackets.
 
