@@ -247,7 +247,7 @@ The MSR Hubba Hubba NX is a freestanding 2-person tent for 3 seasons.
 **Persons**: 2
 **Fabric**: 20D ripstop / 30D ripstop (floor)
 **Weight**: 1700 grams / 60 oz.
-**Area inner tent**: 2.7 m²  
+**Area inner tent**: 2.7 m²    
 
 The MSR Hubba Hubba NX is a great 3 season tent and it even costs almost half the price of a Hilleberg tent.
 
