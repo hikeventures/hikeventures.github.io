@@ -77,7 +77,7 @@ Probably one disadvantage of watches having a color display and a GPS is their s
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01BKSC14I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01BKSC14I&linkCode=as2&tag=hikeve-20&linkId=5781bd3b5a1ce59a4d231514776f4aff"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01BKSC14I&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01BKSC14I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 34.2 grams
-**Battery Life**: 18 hours (not in training mode)
+**Battery Life**: 18 hours (not in   training mode)
 **Operating System**: watchOS 3
 **Water Resistance**: Water resistance rating of 50 meters under ISO standard 22810:2010
 **Display**: 312x319
@@ -85,7 +85,6 @@ Probably one disadvantage of watches having a color display and a GPS is their s
 **Wi-Fi**: yes
 **Bluetooth**: 4.0
 **Heart Rate Monitor**: wrist-based
-**GPS**: yes
 **Wireless charging**: yes
 
 The Apple watch SERIES 2 42 mm is for those folks who like to have their iPhone with them. The new Apple Watch Series 2 also features a built-in GPS and is an excellent choice if you exercise 1-2 hours a day.
@@ -164,12 +163,10 @@ However, the map function on the Fenix 5X gives the Garmin an edge.
 **Operating System**: Android Wear
 **Water Resistance**: IP67 - not waterproof
 **Display**: 360x325
-Touchscreen: no
+**Touchscreen:** no
 **Wi-Fi**: yes
 **Bluetooth**: 4.0
 **Heart Rate Monitor**: Optical heart rate monitor (PPG)
-**GPS**: yes
-**Wireless charging**: yes
 
 Another interesting Outdoor watch is the Motorola Moto 360 Sport which is targeted towards Android users as it has the AndroidWear operating system on board.
 
@@ -192,9 +189,8 @@ No need to wear a heart rate monitor around your chest. One highlight of the Mot
 **Display**: 300x300 pixels
 **Touchscreen**: yes
 **Wi-Fi**: no
-B yes
 **Heart Rate Monitor**: yes
-**GPS**: yes (incl. GLONASS)
+**GPS**: yes (incl. GLONASS)  
 **Wireless charging**: no
 
 The Suunto Spartan Ultra is the latest smartwatch addition in the Suunto range.
