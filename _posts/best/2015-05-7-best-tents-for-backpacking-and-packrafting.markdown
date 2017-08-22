@@ -21,9 +21,6 @@ For our packrafting kayaking trips we are currently using the Hilleberg Anjan, U
 
 <amp-img src="https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Best Tents For Backpacking And Packrafting in 2017 - 2018" layout="responsive"></amp-img>
 <br>
-
-<amp-img src="https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Best Tents For Backpacking And Packrafting in 2017" layout="responsive"></amp-img>
-<br>
 <!--more-->
 
 ## The best tents for packrafting, hiking and backpacking of 2017
@@ -247,7 +244,7 @@ The MSR Hubba Hubba NX is a freestanding 2-person tent for 3 seasons.
 **Persons**: 2
 **Fabric**: 20D ripstop / 30D ripstop (floor)
 **Weight**: 1700 grams / 60 oz.
-**Area inner tent**: 2.7 m²    
+**Area inner tent**: 2.7 m²
 
 The MSR Hubba Hubba NX is a great 3 season tent and it even costs almost half the price of a Hilleberg tent.
 
