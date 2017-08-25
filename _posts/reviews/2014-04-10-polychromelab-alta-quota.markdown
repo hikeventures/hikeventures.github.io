@@ -64,7 +64,7 @@ A really nice feature of this jacket are the straps on your wrist. My other jack
 
 The only downside I could think of with this jacket is that you can only turn the jacket inside out if the jacket is dry. The jacket should however dry quite fast once the sun comes out.
 
-The Alta Quota jacket is not an ultralight jacket which you use only for emergency situations but more a 3-layer jacket which is durable and from my point of view a great jacket for winter sports activities in the mountains. The jacket feels more like a softshell jacket but with the advantage of being waterproof. The breathability of the polychromeLAB Alta Quota also seemed to be quite good while I was hiking with my big backpack over 3 km. The company has also received 12 awards e.g. <a href="http://award.ispo.com/en/Winner-2014/Products/Outdoor/Outer-Layer-3L/polychromeLAB/">ISPO award</a>, <a href="http://exhibition.ifdesign.de/winner_en.html?ma_id=11806" target="_blank">IF material design award</a>.
+The Alta Quota jacket is not an ultralight jacket which you use only for emergency situations but more a 3-layer jacket which is durable and from my point of view a great jacket for winter sports activities in the mountains. The jacket feels more like a softshell jacket but with the advantage of being waterproof. The breathability of the polychromeLAB Alta Quota also seemed to be quite good while I was hiking with my big backpack over 3 km. The company has also received 12 awards e.g. the <a href="http://award.ispo.com/en/Winner-2014/Products/Outdoor/Outer-Layer-3L/polychromeLAB/">ISPO award</a>.
 
 ## Where to buy?
 <a href="http://polychromelab.com/eshop/" target="_blank">polychromeLab</a>

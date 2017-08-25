@@ -39,7 +39,7 @@ You can get notifications of incoming calls, SMS or Facebook updates on your Suu
 ---
 
 # Videos
-It's possible to create videos with the [Movescount App][4] which uses your tracking data to display your route. You can also take pictures with your phone and integrate those into your videos. I think this is a quite nice feature which allows you to share your trips with your friends.
+It's possible to create videos with the Movescount App which uses your tracking data to display your route. You can also take pictures with your phone and integrate those into your videos. I think this is a quite nice feature which allows you to share your trips with your friends.
 
 ---
 

@@ -10,7 +10,7 @@ tags:
 layout: post
 image: https://farm2.staticflickr.com/1674/23638537083_2c3d9b55d9_b.jpg
 ---
-In our packrafting trips directory you can find packrafting trip ideas from other packrafters around the world who would like to share their packrafting adventure with other packrafters. Our packrafting trip directory is constantly evolving so feel free to bookmark and visit this directory for new packrafting ideas in the future. Feel free to [submit][1] your own trips (as many as you want) and share your trips and images using #PackraftingTrips in social media.
+In our packrafting trips directory you can find packrafting trip ideas from other packrafters around the world who would like to share their packrafting adventure with other packrafters. Our packrafting trip directory is constantly evolving so feel free to bookmark and visit this directory for new packrafting ideas in the future. Feel free to [submit](http://www.hikeventures.com/about/) your own trips (as many as you want) and share your trips and images using #PackraftingTrips in social media.
 
 <amp-img src="https://farm2.staticflickr.com/1674/23638537083_2c3d9b55d9_b.jpg" layout="responsive" width="1024" height="772" alt="Share your packrafting adventures with us. Use #PackraftingTrips"></amp-img>
 
@@ -66,7 +66,6 @@ In our packrafting trips directory you can find packrafting trip ideas from othe
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
 > Our packrafting trip in the Sarek National Park in Sweden. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
-[1]:	https://docs.google.com/forms/d/1NDeTKpJI0kuTqzsSKUMUHhKKlsxSNrYH6UiZOUe3rrw/viewform?usp=send_form
 [2]:	http://www.hikeventures.com/Packrafting-in-Belgium/
 [3]:	http://urbanpackrafter.com/filter/copenhagen "http://urbanpa...er/copenhagen"
 [4]:	http://www.hikeventures.com/first-finnish-packrafting-gathering/

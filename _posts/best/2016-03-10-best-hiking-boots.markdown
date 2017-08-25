@@ -253,7 +253,7 @@ The Vasque Breeze 2.0 GTX is a boot which can be worn for multiple day hikes and
 
 * They support your ankle and offer more stability while hiking on the trail.
 * Let you carry more load over a longer distance
-* More durable than [ultralight hiking shoes.](http://www.hikeventures.com/best-ultralight-hiking-shoes/)
+* More durable than [ultralight hiking shoes.](http://www.hikeventures.com/best-light-hiking-shoes/)
 
 <hr>
 
@@ -300,7 +300,7 @@ Heavier hiking boots with a high shaft are probably a good choice if you:
 
 ## Regular hiking boots vs. shell hiking boots
 
-If you live in Europe then you could also have a look on shell boots like the [Lundhags Jaure Light](http://www.lundhags.com/Products/Boots/Shell-Boots/3-layer-Boots/Jaure-Light-Mid/(color)/923) but they are mainly sold in Europe.
+If you live in Europe then you could also have a look on shell boots like the Lundhags Jaure Light II but they are mainly sold in Europe.
 
 Shell boots are a bit different from regular hiking boots and require you to wear 2 pair of socks.
 

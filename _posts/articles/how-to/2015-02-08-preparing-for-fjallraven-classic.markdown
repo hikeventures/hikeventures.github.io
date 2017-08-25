@@ -10,7 +10,7 @@ layout: post
 image: https://farm8.staticflickr.com/7421/16482970962_e112076e05_b.jpg
 ---
 
-This year we have signed up for [Fjällräven Classic](http://www.fjallraven.com/classic/) in Northern Sweden - a 110 km hike (Kungsleden - also called King's Trail) with about 2000 participants. We are going to be in group 7 which starts on August 9th at 09.00 am with over 200 group participants. Here is a link to the official [start list](http://www.fjallraven.com/catalog/product/view/id/19254/s/start-list/category/485/).
+This year we have signed up for [Fjällräven Classic](http://www.fjallraven.com/classic/) in Northern Sweden - a 110 km hike (Kungsleden - also called King's Trail) with about 2000 participants. We are going to be in group 7 which starts on August 9th at 09.00 am with over 200 group participants. 
 
 <amp-img src="https://farm8.staticflickr.com/7421/16482970962_e112076e05_b.jpg" width="1024" height="688" layout="responsive" alt="Fjällräven Classic"></amp-img>
 <br>

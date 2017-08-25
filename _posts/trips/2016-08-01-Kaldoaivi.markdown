@@ -20,7 +20,7 @@ On July 24th at 8.50 am it was time to get on board of the Finnair flight AY557 
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 
-Having been around Ivalo [last year](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/) during the winter time with Konstantin, I decided to go on a hiking and packrafting trip with [Caj](http://caide.kuvat.fi/) who was also traveling with me earlier this year to the first [Swedish Packrafting Round Up](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/) on the Voxnan river in Sweden.
+Having been around Ivalo [last year](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/) during the winter time with Konstantin, I decided to go on a hiking and packrafting trip with [Caj](https://www.hutkai.fi) who was also traveling with me earlier this year to the first [Swedish Packrafting Round Up](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/) on the Voxnan river in Sweden.
 
 ## On the plane to Ivalo
 The Finnair flight was quite peacful even so it was fully booked. I was sitting on the second last row of the plane. Usually, I prefer to sit more in the front of the plane since it's faster to get out and there is no queue of people waiting to get into the toilet. Anyway the cabin crew was friendly and served me free blueberry juice and tea which I was sipping slowly while watching out of the window - clouds passing by below me somewhere over Kajaani.

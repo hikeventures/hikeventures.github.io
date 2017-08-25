@@ -53,6 +53,5 @@ The castle was built in the 14th century and served as a fortification until it 
 
 <a href="https://www.flickr.com/photos/90204224@N07/13975011268" ><img src="https://farm8.staticflickr.com/7370/13975011268_50ff110d67_b.jpg" width="1024" height="683" alt="ruins kuusisto finland turku sightseeing tourism highlights" ></a>
 
-## Links
-<a href="http://www.movescount.com/moves/move31394610" target="_blank">GPS Data</a>
-<a href="http://www.visitkaarina.fi/tips-for-archipelago-ring-route-travellers" target="_blank">Kuusisto Tourism</a>
+## GPS Data
+You can find the GPS Data of this trip <a href="http://www.movescount.com/moves/move31394610" target="_blank">here</a>.

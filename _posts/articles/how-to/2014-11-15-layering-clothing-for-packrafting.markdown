@@ -36,7 +36,7 @@ avPcwShowInlineFromSearch('pcwContent1', 'Icebreaker Anatomica Briefs', 'search_
 Devold Expedition [shirt](http://amzn.to/1uwNTKV) and [Long johns](http://www.amazon.de/gp/product/B00BN5MSAQ) are made of 90% Merino wool and 10% Polyamid for longer durability and faster drying time.
 
 ### Fleece
-You can use any regular fleece for example [Odlo](http://amzn.to/1zqR4Ep) or have a look on our post about the [best fleeces for 2015](http://hikeventures.com/best-fleece-jackets/). Then there are also [overall-suits](http://www.packrafting-store.de/Clothing/Single-unit-Fleece::389.html) if a fleece jacket is not sufficient.
+You can use any regular fleece for example [Odlo](http://amzn.to/1zqR4Ep) or have a look on our post about the [best fleeces for 2015](http://hikeventures.com/best-fleece-jackets/).
 
 ### Smartwool Socks
 Also made of Merino, the [Smartwool PhD Outdoor Ultralight Mini Sock](http://bit.ly/1hwvEPD) are light, dry considerably fast and keep me warm as well when wet.
@@ -50,7 +50,7 @@ avPcwShowInlineFromSearch('pcwContent2', 'Smartwool PhD Outdoor Ultralight Mini 
 
 ### Neoprene Dry Gloves
 
-Currently, I am using the <a href="http://www.packrafting-store.de/Clothing/Neopren-dry-glove::381.html" rel="nofollow" target="_blank">Neoprene dry gloves</a> but I am planning to exchange them most likely with the <a href="http://www.palmequipmenteurope.com/product/pro" rel="nofollow" target="_blank">Palm Pro Gloves</a> as me and Konstantin faced some durability issues with the Neoprene dry gloves.
+Currently, I am wearing neoprene dry gloves when it's very cold e.g. <a href="http://www.palmequipmenteurope.com/product/pro" rel="nofollow" target="_blank">Palm Pro Gloves</a>.
 
 ### Latex Socks and Sandals
 The <a href="http://www.packrafting-store.de/Clothing/Latex-socks::380.html" rel="nofollow" target="_blank">Latex Socks</a> work quite well for us. They are also sealing nicely if used together with a dry suite. Highly recommended. Use them together with the <a href="http://amzn.to/1q3n3KJ" rel="nofollow" target="_blank">Teva Sandals</a>.

@@ -21,9 +21,9 @@ There are plenty of possibilities for outdoors activities in Vaasa especially wh
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 ## Packrafting in Pilvilampi
-<a href="http://www.valppaus.com/" target="_blank">Joni</a>  and me went packrafting to Pilvilampi, a recreational area nearby Vaasa and a paradise for birdwatchers.
+Joni and me went packrafting to Pilvilampi, a recreational area nearby Vaasa and a paradise for birdwatchers.
 
-<a href="https://www.flickr.com/photos/90204224@N07/9275207432" title="SDIM2656"><img src="https://farm8.staticflickr.com/7346/9275207432_7cdbaf09ae_b.jpg" width="1024" height="683" alt="SDIM2656"></a>
+<a href="https://www.flickr.com/photos/90204224@N07/9275207432" title="SDIM2656"><img src="https://farm8.staticflickr.com/7346/9275207432_7cdbaf09ae_b.jpg" width="1024" height="683" alt="Outdoor activities in Vaasa"></a>
 
 Joni and me agreed to meet at 9.30 pm at the Pilvilampi lake which was a 5 km ride from the city centre of Vaasa. Mosquitoes immediately attacked us so we were in a hurry to get with our <a href="http://hikeventures.com/gear-review-unpacking-alpacka-packraft/" target="_self">packrafts</a>  into the lake as soon as possible to get rid of those blood-hungry creatures.
 
@@ -258,7 +258,7 @@ Searching in my <a href="http://hikeventures.com/gear-review-hmg-porter-4400-bla
 
 <a href="http://www.flickr.com/photos/90204224@N07/12133797844/"><img src="http://farm8.staticflickr.com/7336/12133797844_33761479a8_c.jpg" width="800" height="534" alt="Thermos Bottle"></a>
 
-After a long hike it's good to have my <a href="http://hikeventures.com/thermos-bottle/" target="_self">Thermos bottle</a>  with me to enjoy a warm cup of tea.
+After a long hike it's good to have my <a href="http://www.hikeventures.com/with-the-thermos-bottle-over-the-arctic-circle/" target="_self">Thermos bottle</a>  with me to enjoy a warm cup of tea.
 
 <img src="http://farm3.staticflickr.com/2837/12029205675_217333155c_c.jpg" alt="sea covered with ice">
 
@@ -266,7 +266,7 @@ Another day in Vaasa - the sun was shining and I discovered interesting shapes o
 
 <img src="http://farm8.staticflickr.com/7449/12030010646_8cf494d606_c.jpg" alt="Tubbs Snowshoes and HMG Porter in Finland">
 
-My <a href="http://hikeventures.com/gear-review-hmg-porter-4400-black/" target="_self">HMG Porter 4400 backpack</a> is great to attach my <a href="http://hikeventures.com/tubbs-xpedition-snowshoes/" target="_self">Tubbs Snowshoes</a>, <a href="http://hikeventures.com/gear-review-black-diamond-ultra-distance-z-pole/" target="_self">Black-Diamond walking poles</a> and to take my <a href="http://hikeventures.com/thermos-bottle/" target="_self">thermos bottle</a> some snacks and a <a href="http://hikeventures.com/gear-review-montbell-u-dot-l-down-parka/" target="_self">spare jacket</a> with me.
+My <a href="http://hikeventures.com/gear-review-hmg-porter-4400-black/" target="_self">HMG Porter 4400 backpack</a> is great to attach my <a href="http://hikeventures.com/tubbs-xpedition-snowshoes/" target="_self">Tubbs Snowshoes</a>, <a href="http://hikeventures.com/gear-review-black-diamond-ultra-distance-z-pole/" target="_self">Black-Diamond walking poles</a> and to take my <a href="http://www.hikeventures.com/with-the-thermos-bottle-over-the-arctic-circle/" target="_self">thermos bottle</a> some snacks and a <a href="http://hikeventures.com/gear-review-montbell-u-dot-l-down-parka/" target="_self">spare jacket</a> with me.
 
 <img src="http://farm6.staticflickr.com/5478/12030021016_95f0cd465c_c.jpg" alt="Bothnian Sea Ice">
 

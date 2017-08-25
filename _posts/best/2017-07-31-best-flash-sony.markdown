@@ -16,7 +16,7 @@ The flash in this post can also be used on the Sony a9 or a6500 since they share
 
 In my selection I was also taking price into consideration and selected products which are affordable.
 
-Also have a look on which [camera bags]([http://www.hikeventures.com/best-camera-bags-cases](http://www.hikeventures.com/best-camera-bags-cases/)/) or [travel tripods](http://www.hikeventures.com/best-travel-tripods-sony/) I would recommend with your Sony camera.
+Also have a look on which [camera bags](http://www.hikeventures.com/best-camera-bags-cases) or [travel tripods](http://www.hikeventures.com/best-travel-tripods-sony/) I would recommend with your Sony camera.
 
 <amp-img src="https://farm4.staticflickr.com/3625/13040988355_f0f5951202_k.jpg" width="2048" height="1536" alt="best flash and video lights for Sony a7, a9 or a6500" layout="responsive"></amp-img>
 <br>
