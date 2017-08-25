@@ -41,7 +41,7 @@ Currently, I am using an Adidas Climalite T-shirt. I might consider an option fr
 <a href="http://sleepingbags-cumulus.eu/uk/categories/sleeping-bags/panyam-450?gid=59&vid=1" target="_blank">Cumulus Panyam 450</a>. Cumulus is a Polish manufacturer and the quality of their products is superb.
 
 <h2>Wind jacket</h2>
-<a href="http://hikeventures.com/gear-review-Arc'teryx-squamish-hoody/" target="_self">Arc'teryx Squamish Hoody</a>. I love it!
+<a href="http://www.hikeventures.com/gear-review-arcteryx-squamish-hoody" target="_self">Arc'teryx Squamish Hoody</a>. I love it!
 
 <h2>Trekking Poles</h2>
 I will stick with my <a href="http://hikeventures.com/gear-review-black-diamond-ultra-distance-z-pole/" target="_blank">Black Diamond Ultra Distance Z-Poles</a>. They pack small and are light.
