@@ -25,7 +25,7 @@ Looking for a lightweight waterproof jacket for your next hiking, backpacking or
 ## Features
 The Arc'teryx Tecto FL jacket comes with plenty of features and has a close-to-body fit, a low profile storm hood, a narrow vislon zipper, a single sleeve pocket, weights just 200 grams and is made of N30p-X GORE-TEX Active 3L fabric (N40p-X Active textile on hip and shoulders). Gore-Tex Active shell fabric is not that durable as the Gore-Tex Pro Shell fabric, however it's more breathable and lightweight. The cuff adjusters are very useful to protect against rain and wind.
 
-Officially, the Arc'teryx Tecto jacket is a 3-season jacket. However it can also used for your winter activities. Beside a rain jacket I would also recommend you to take a <a href="http://hikeventures.com/gear-review-Arcteryx-squamish-hoody/" target="_self">wind jacket</a> with you and exchange it with your waterproof jacket when it starts raining. The wind jackets protects you against cold winds and you are not going to sweat that much in it as in a waterproof jacket.
+Officially, the Arc'teryx Tecto jacket is a 3-season jacket. However it can also used for your winter activities. Beside a rain jacket I would also recommend you to take a <a href="http://www.hikeventures.com/gear-review-arcteryx-squamish-hoody" target="_self">wind jacket</a> with you and exchange it with your waterproof jacket when it starts raining. The wind jackets protects you against cold winds and you are not going to sweat that much in it as in a waterproof jacket.
 
 <a href="https://www.flickr.com/photos/90204224@N07/11379642664"><img src="https://farm6.staticflickr.com/5499/11379642664_c195de6b10_b.jpg" width="1024" height="708" alt="Acteryx Tecto FL Jacket"></a>
 

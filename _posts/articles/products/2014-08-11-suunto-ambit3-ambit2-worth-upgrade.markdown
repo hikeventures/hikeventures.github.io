@@ -73,7 +73,7 @@ The new movescount software is available to all Suunto watches.
 
 ---
 
-# My favourite Suunto watch
+# My favorite Suunto watch
 I use my Suunto Traverse (upgraded from the Suunto Ambit3 Sport) watch mainly for running (check [my profile][5] on Movescount) and hiking (e.g. in [Finland][6] or [Sweden][7]). When I had the Suunto Ambit3 Sport I realized that it does not feel that bulky as the Peak model. Moreover, pushing the buttons on the Suunto Ambit3 is much smoother than on the Ambit2. Also the backlight of the Ambit models look really cool and it really helps to read your data when jogging in the evening. There is also the Runner version which is called Ambit3 Run. It's slightly lighter than the Ambit3 Sport, however you will miss features related to swimming, multisport or biking.
 
 ---
@@ -101,7 +101,7 @@ If you are into running or cycling then you might be interested in your hear rat
 
 ---
 
-## <a href="http://amzn.to/28V8l3t" rel="nofollow">EasyAcc Rugged Outdoor Power Bank (IP67 Waterproof / 20000mAh)</a>
+## <a href="http://amzn.to/28V8l3t" rel="nofollow">EasyAcc Rugged Outdoor Power Bank (IP67 Waterproof / 20000 mAh)</a>
 If you go on a longer hiking trip then it's good to have an external USB battery with you to charge your Suunto once it run out of battery.
 
 <a href="https://www.amazon.com/gp/product/B01B73I5ZU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01B73I5ZU&linkCode=as2&tag=hikeve-20&linkId=47d7ed2d86df59bde1e15986668ca7b5" rel="nofollow" target="_blank"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01B73I5ZU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="250" height="250"  ></amp-img></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01B73I5ZU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
