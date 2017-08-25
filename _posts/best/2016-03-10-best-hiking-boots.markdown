@@ -281,14 +281,14 @@ Try a pair of shell boots which are entirely made of leather. They offer good wa
 
 ## Disadvantages
 
-* Heavier than [ultralight hiking shoes.](http://www.hikeventures.com/best-ultralight-hiking-shoes/)
+* Heavier than [ultralight hiking shoes.](http://www.hikeventures.com/best-light-hiking-shoes/)
 * Sometimes more expensive than ultralight hiking shoes.
 
 <hr>
 
 ## How to choose them?
 
-There are several factors on how you should choose your hiking boots. Some brands also categorize their boots into activities or the difficulty of your hike. A good example can be seen on the [Meindl website.](http://www.meindl.de/english/service/service_3.html)
+There are several factors on how you should choose your hiking boots. Some brands also categorize their boots into activities or the difficulty of your hike. 
 
 Heavier hiking boots with a high shaft are probably a good choice if you:
 
@@ -312,7 +312,7 @@ You just have to dry your socks and the shoe inserts. The leather of the shoe wi
 
 ## Regular hiking boots vs. ultralight hiking boots
 
-If you plan a hike in less demanding terrain or where you don’t need much of ankle support because you don’t have to carry a heavy backpack then you could also have a look on [lightweight hiking shoes](http://www.hikeventures.com/best-ultralight-hiking-shoes/) as an alternative to regular hiking boots.
+If you plan a hike in less demanding terrain or where you don’t need much of ankle support because you don’t have to carry a heavy backpack then you could also have a look on [lightweight hiking shoes](http://www.hikeventures.com/best-light-hiking-shoes/) as an alternative to regular hiking boots.
 
 You will probably enjoy your hike more with lighter hiking boots.
 

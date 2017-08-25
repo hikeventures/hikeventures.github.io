@@ -228,7 +228,7 @@ I am wearing either my hiking pants or a [merino base-layer](http://www.hikevent
 
 <a rel="nofollow" href="https://www.amazon.com/Nikwax-Hardshell-Clean-Waterproof-DUO-Pack/dp/B000PGOOIS/ref=as_li_ss_il?ie=UTF8&qid=1499894360&sr=8-2&keywords=nikwax&linkCode=li3&tag=hikeve-20&linkId=18c445a067d443b8df2331be005bac4f" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000PGOOIS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B000PGOOIS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-For my hardshell layers like my rain pants I use <a href="[http://amzn.to/2sRiOEP](http://amzn.to/2sRiOEP)" rel="nofollow">Nikwax</a> to wash my rain pants after my trips (if they became really dirty).
+For my hardshell layers like my rain pants I use <a href="http://amzn.to/2sRiOEP" rel="nofollow">Nikwax</a> to wash my rain pants after my trips (if they became really dirty).
 
 ---
 

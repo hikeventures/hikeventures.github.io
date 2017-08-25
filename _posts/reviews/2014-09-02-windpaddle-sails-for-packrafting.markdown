@@ -22,7 +22,7 @@ With my packraft I used to paddle a lot in rivers and lakes. I was paddling some
 <br>
 
 
-Recently, I was surfing on <a href="http://valppaus.com/post/packsail-away" target="_blank">Joni's blog</a> reading about his adventures with a windpaddle sail. So I contacted <a href="http://www.packrafting-store.de">Packrafting-Store</a> and was told that they are going to sell soon WindPaddle Sails for Packrafts (small and big models) as the original sails are made for kayaks and canoes (bigger size).
+Recently, I contacted Packrafting-Store.de and was told that they are going to sell soon WindPaddle Sails for Packrafts (small and big models) as the original sails are made for kayaks and canoes (bigger size).
 
 <a href="https://www.flickr.com/photos/90204224@N07/14933405138"><img src="https://farm6.staticflickr.com/5583/14933405138_64f4fde70a_b.jpg" width="1024" height="683" alt="WindPaddle Sail alpacka raft packrafting"></a>
 
@@ -37,8 +37,6 @@ The first thing you have to learn before you go Packrafting with a sail is to fo
 Packraft with the sail on the front. Its not folded to it's smallest size but if you keep it like this you can also use it as a spraydeck and it unfolds easier.<a href="https://www.flickr.com/photos/90204224@N07/14953269730" title="Packsailing Windpaddle Packraft"><img src="https://farm4.staticflickr.com/3860/14953269730_46a4332927_b.jpg" width="1024" height="683" alt="WindPaddle Sail alpacka raft packrafting"></a>The Windpaddle works well as a spraydeck (at least in the front).
 
 <a href="https://www.flickr.com/photos/90204224@N07/15139924995" title="Packsailing Windpaddle Packraft"><img src="https://farm6.staticflickr.com/5574/15139924995_2566c158f1_b.jpg" width="1024" height="683" alt="Packsailing Windpaddle Packraft"></a> The Anfibio Packraft Sail (by Windpaddle) in action.<a href="https://www.flickr.com/photos/90204224@N07/15139930765" title="Packsailing Windpaddle Packraft"><img src="https://farm6.staticflickr.com/5568/15139930765_5e3b2f0aec_b.jpg" width="1024" height="683" alt="Packsailing Windpaddle Packraft"></a>I used my <a href="http://hikeventures.com/gear-preview-werner-shuna-paddles/" target="_blank">Werner Shuna Paddles</a> to navigate the Packraft. Was really easy!
-
-<a href="http://amzn.to/2swLtSo" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ## Conclusion
 The sail works well for wind speeds starting from 5m/s. Otherwise, it just feels too slow. Having a sail on the Packraft is lots fun. <a hef="http://www.hikeventures.com/Second-Finnish-Packrafting-Gathering-Finland-Helvetinjarvi/">Here</a> is another blog post where you can see the windpaddle sail in action.

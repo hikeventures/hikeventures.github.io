@@ -11,7 +11,7 @@ tags:
 layout: post
 image: https://farm2.staticflickr.com/1443/25929918320_ca0e210d72_b.jpg
 ---
-Last weekend I went with <a href="http://caide.kuvat.fi/">Caj</a> to Raisio to visit the Kullavuori watch tower which is a short hike (around 2.5 km in one direction) from the nearby ABC Raisio gas station where we parked our cars.
+Last weekend I went with <a href="https://www.hutkai.fi">Caj</a> to Raisio to visit the Kullavuori watch tower which is a short hike (around 2.5 km in one direction) from the nearby ABC Raisio gas station where we parked our cars.
 
 The Kullavuori watch tower is approximately 71 m above sea level which is quite high compared to the rather flat area of the region. There are plenty of pine trees along the trail so it's quite easy to find wood for a camp fire. There is also a pet cemetary when you enter the trail in Raisio.
 
