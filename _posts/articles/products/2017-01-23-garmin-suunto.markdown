@@ -30,14 +30,11 @@ Currently, there are two interesting GPS watches on the market which I would fin
  <tr><td>size (mm)</td><td>50 x 50 x 13,8</td><td>46  x  46  x  14.9 </td><td>51 x 51 x 17.5</td></tr>
  <tr><td>topo map</td><td>no</td><td>no</td><td>yes</td></tr>
  <tr><td>screen resolution</td><td>300 x 300</td><td>218 x 218</td><td>240 x 240</td></tr>
-
 </tbody></table>
 </div>
 <!--more-->
 <br>
-
 ---
-
 All watches are currently the latest models from both manufacturers and their built in GPS feature, color display and battery life make them an attractive alternative compared to a smartphone with a GPS app - at least if you are frequently tracking your GPS or if you plan to go on remote backcountry trips.
 
 In the past, I have always used my Suunto Traverse to log my GPS data (see picture below on a [trip in Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/)).
