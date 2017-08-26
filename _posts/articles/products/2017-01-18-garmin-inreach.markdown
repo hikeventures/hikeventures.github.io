@@ -9,15 +9,15 @@ tags:
   - gps
 image: https://c1.staticflickr.com/6/5609/30599065514_3a9dedbf93_k.jpg
 ---
-Garmin has just recently release the inReach Explorer+ and the inReach SE+ after they acquired DeLorme a few months ago. Those new devices are going to replace the old inReach models and I am going to discuss shortly their differences and new features.
+Garmin has just recently released the inReach Explorer+ and the inReach SE+ after they acquired DeLorme a few months ago. Those new devices are going to replace the old inReach models and I am going to discuss shortly their differences and new features.
 
 Since we own the DeLorme inReach Explorer device ourselves we were quite excited to see what the new features and differences of the new Garmin inReach models are beside the external design of the device.
 
 We bought our inReach Explorer because we travel sometimes to places which are not covered by phone signals and it may take a few days to get out of a remote area to reach for help.
 
-Even so you have to pay for a monthly subscription fee I think it's just worth the money as safety is always our first priority when we heading into the backcountry.
+Even so, you have to pay a monthly subscription fee I think it's just worth the money as safety is always our first priority when we heading into the backcountry.
 
-Below you can see Konstantin while hiking in Japan. On the back of his backpack you can see the Delorme inReach Explorer (in it's yellow case) which has now been replaced with the new Garmin inReach Explorer+.
+Below you can see Konstantin while hiking in Japan. On the back of his backpack you can see the Delorme inReach Explorer (in its yellow case) which has now been replaced with the new Garmin inReach Explorer+.
 
 <amp-img src="https://c1.staticflickr.com/6/5609/30599065514_3a9dedbf93_k.jpg" width="2048" height="1365" layout="responsive" alt="Garmin inReach Explorer+ and SE+ - Differences, new features and preview"></amp-img>
 
@@ -27,7 +27,7 @@ Below you can see Konstantin while hiking in Japan. On the back of his backpack 
 <h2>Differences DeLorme and Garmin inReach Explorer+ and SE+</h2>
 <div class="table-responsive">
 <table class="table">
-<thead><tr><th>Features</th><th><a href="http://amzn.to/2jYe2kg" rel="nofollow">DeLorme inReach SE</a></th><th><a href="http://amzn.to/2k3sk73" rel="nofollow">DeLorme inReach Explorer</a></th><th> <a href="http://amzn.to/2iGDVUz" rel="nofollow">Garmin inReach SE+</a></th><th><a href="http://amzn.to/2jY8030" rel="nofollow">Garmin inReach Explorer+</a></th></tr></thead><tbody>
+<thead><tr><th>Features</th><th><a href="http://amzn.to/2jYe2kg" rel="nofollow">DeLorme inReach SE</a></th><th><a href="http://amzn.to/2k3sk73" rel="nofollow">DeLorme inReach Explorer</a></th><th> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F119864%2Fgarmin-inreach-se-2-way-satellite-communicator" rel="nofollow">Garmin inReach SE+</a></th><th><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F119863%2Fgarmin-inreach-explorer-satellite-communicator" rel="nofollow">Garmin inReach Explorer+</a></th></tr></thead><tbody>
 <tr><td>waterproof rating</td><td>IPX67</td><td>IPX67</td><td>IPX7</td><td>IPX7</td></tr>
 <tr><td>dimensions (mm)</td><td>62x26x149</td><td>63x34x148</td><td>68x47x164</td><td>68x38x164</td></tr>
 <tr><td>weight (grams)</td><td>190</td><td>190</td><td>213</td><td>213</td></tr>
@@ -38,11 +38,10 @@ Below you can see Konstantin while hiking in Japan. On the back of his backpack 
 <tr><td>memory for maps (GB)</td><td>0</td><td>0</td><td>0</td><td>2</td></tr>
 <tr><td>waypoints</td><td>-</td><td>yes</td><td>yes</td><td>yes</td></tr>
 <tr><td>routing</td><td>-</td><td>yes</td><td>yes</td><td>yes</td></tr>
+<tr><td></td><td></td><td></td><td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F119864%2Fgarmin-inreach-se-2-way-satellite-communicator" rel="nofollow" class="btn btn-danger" role="button">See more ...</a></td><td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F119863%2Fgarmin-inreach-explorer-satellite-communicator" rel="nofollow" class="btn btn-danger" role="button">See more ...</a></td></tr>
+
 </tbody></table>
 </div>
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 ## Worth to upgrade?
 If you are only using your device in emergency situations to send a SOS signal then we would probably not consider to upgrade to the new Garmin models.
@@ -64,6 +63,4 @@ The Garmin devices can probably handle more impact than a cell phone. Unfortunat
 
 ---
 
-<div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_k5JOND4l-k"></iframe>
-</div>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
