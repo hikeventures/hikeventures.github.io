@@ -159,12 +159,13 @@ The jacket features an adjustable, non-removable hood, a fur ruff, fleece-lined 
 
 **Weight**: 372 grams / 13.5 oz
 
-The Marmot Quasar Hoody is also an interesting jacket with it’s high down fill power covered by light Pertex Quantum fabric (similar as other models in our list) which makes it also somewhat water repellent.
+The Marmot Quasar Hoody is also an interesting jacket with its high 850-fill down covered by durable ultralight 10-denier Pertex® Quantum® fabric which makes it also somewhat water repellent.
 
-The additional zip on the front adds a little bit more weight to the jacket.
+The additional zip on the front, however, adds a little bit more weight to the jacket.
 
-We would wear the Marmot Quasar Hoody during moderate winter or camping during spring and summer.
+We would wear the Marmot Quasar Hoody as a mid-layer under a shell during moderate winter trips or on spring and summer adventures.
 
+The jacket adjusts to your movements and features an elastic draw cord hem and cuss as well as an adjustable hood. You can also pack the jacket in its pocket.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F116458%2Fmarmot-quasar-hoodie-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Marmot Quasar Hoodie</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmarmot-quasar-hooded-down-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Marmot Quasar Hoodie</a>
 
@@ -176,13 +177,13 @@ We would wear the Marmot Quasar Hoody during moderate winter or camping during s
 
 **Weight**: 212 grams / 7.5 oz.
 
-The Mountain Hardware Ghost Whisperer Hooded Down Jacket is one of the lightest down jackets available.
+The Mountain Hardware Ghost Whisperer Hooded Down Jacket is one of the lightest hooded down jackets available.
 
-This is a great jacket for camping during spring, summer and autumn or as a light mid-layer for the winter.
+This is a great jacket for camping during spring, summer and autumn or as a light mid-layer under your shell jacket. It can also be compressed and packs into its own pocket.
+
+The Q.Shield™ DOWN 800-fill is also resistant towards moisture and the down will keep you longer insulated. The jacket also features elastic cuff and adjustable toggle hem. The shell of the jacket consists of Whisperer 7D x 10D Ripstop.
 
 If you are looking for a proper winter jacket then we would rather pick the Rab Infinity Endurance or the Rab Positron jacket.
-
-For a stylish jacket to use during winter mainly in town we would go for the Arcteryx Ceres jacket.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F880675%2Fmountain-hardwear-ghost-whisperer-hooded-down-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Mountain Hardware Ghost Whisperer</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F873087%2Fmountain-hardwear-ghost-whisperer-down-hooded-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Mountain Hardware Ghost Whisperer</a>
 
@@ -194,9 +195,15 @@ For a stylish jacket to use during winter mainly in town we would go for the Arc
 
 **Weight**: 298 grams / 10.5 oz.
 
-Patagonia is another popular outdoor brand and delivers a super light down jacket which comes with 2 zipped hand warmer pockets and elastic-bound cuffs and hem.
+Patagonia is another popular outdoor brand and delivers a super light down jacket which comes with 2 zipped hands warmer pockets, one zippered chest pocket and elastic-bound cuffs and hem.
 
-The shell of the jacket is durable water repellent. The Patagonia Ultralight Down Hoodie can be used as a mid layer during the winter months as well.
+Moreover, the jacket adjusts to your movements. There is also a storm flap on the front zipper to keep the warm air inside the jacket. There is also a carabiner clip-in loop on the jacket.
+
+The shell of the jacket is durable water repellent 0.85-oz 15-denier 100% nylon ripstop Pertex Quantum® with a DWR (durable water repellent) finish.
+
+Further, the Fabric is certified as bluesign® approved.
+
+Wear the Patagonia Ultralight Down Hoodie as a mid layer during the winter months or on chilly evenings during spring and summer.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F885089%2Fpatagonia-ultralight-down-hoodie-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Patagonia Ultralight Down Hoodie</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F885095%2Fpatagonia-ultralight-down-hoodie-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Patagonia Ultralight Down Hoodie</a>
 
@@ -208,11 +215,11 @@ The shell of the jacket is durable water repellent. The Patagonia Ultralight Dow
 
 **Weight**: 575 grams / 20.5 oz
 
-The  Rab Infinity Endurance Jacket is a technical alpine or mountaineering jacket.
+The Rab Infinity Endurance Jacket is a light-weight technical alpine or mountaineering jacket featuring a helmet-compatible hood and a stitch-through baffle construction. Moreover, there is an internal security pocket elasticated cuffs and a hem drawcord.
 
-It’s high fill power and low weight makes this probably one of the best lightweight winter down jackets.
+It’s high fill power and low weight makes this probably one of the best lightweight winter down jackets. The shell of the jacket is a combination of Pertex® Endurance and Pertex® Quantum fabrics.
 
-If you need a warmer jacket then the Rab Positron Jacket would be an alternative option which adds approximately 30% more warmth.
+The jacket contains 210 grams of 850-fill goose down. However, if you need a warmer jacket then the Rab Positron Jacket would probably be a better alternative which adds approximately 30% more warmth.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-infinity-endurance-down-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Rab Infinity Endurance</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-infinity-down-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Rab Infinity Endurance</a>
 
@@ -224,12 +231,11 @@ If you need a warmer jacket then the Rab Positron Jacket would be an alternative
 
 **Weight**: 720 grams / 25.4 oz.
 
-The  Rab Positron Jacket is proper box-wall down winter jacket with a water-resistant outer fabric.
+The  Rab Positron Jacket is proper box-wall down winter jacket with a water-resistant outer fabric and a helmet-compatible hood. The jacket has been designed to wear multiple layers under it.
 
 The manufacturer claims that it has been designed for mountain and expedition use up to 6000 m.
 
-This jacket delivers about 30% more warmth than the Rab Infinity Endurance jacket.
-
+This jacket delivers about 30% more warmth than the Rab Infinity Endurance jacket and is filled with 275 grams (10 oz.) 800-fill European Goose Down and comes with a Pertex® Endurance shell.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-positron-down-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Rab Positron</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-positron-down-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Rab Positron</a>
 
@@ -241,9 +247,12 @@ This jacket delivers about 30% more warmth than the Rab Infinity Endurance jacke
 
 **Weight**: 310 grams / 11 oz.
 
-Rab is a specialists in down clothing and down sleeping bags and this is also evident with the Zero G jacket - a 1000 fill power down jacket.
+Rab is a specialist in down clothing and down sleeping bags and this is also evident with the Zero G jacket - a 1000-fill down jacket with ultralight Pertex® 7d Quantum fabric.
 
-This is one of the lightest 1000 fill power down jacket on the market.
+This is one of the lightest 1000-fill goose down jackets on the market filled with 130 grams (4.5 oz.) goose down and has been designed for mountaineers and climbers. The jacket features a
+stitch through midi channel construction, 2 zip handwarmer pockets, semi-elasticated hem and elasticated cuffs.
+
+Further, the jacket is also RDS Certified (Responsible Down Standard).
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-zero-g-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Rab Zero G</a>
 
