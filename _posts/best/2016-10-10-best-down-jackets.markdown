@@ -127,7 +127,7 @@ We would wear this jacket during the winter. For camping during spring and summe
 
 A baffle structure keeps the 850 down fill lofty and the down insulated StormHood™ and glove mitten-friendly Cohaesive™ adjusters are welcoming features for winter activities as well.
 
-Synthetic insulation is strategically used on certain areas of this jacket as well. 
+Synthetic insulation is strategically used on certain areas of this jacket as well.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F117170%2Farcteryx-cerium-sv-down-hoodie-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arc'teryx Cerium SV Hoodie</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F117257%2Farcteryx-cerium-sv-down-hoodie-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Arc'teryx Cerium SV Hoodie</a>
 
@@ -139,7 +139,15 @@ Synthetic insulation is strategically used on certain areas of this jacket as we
 
 **Weight**: 2070 grams / 73 oz.
 
-The Canada Goose Expedition Down Parka was originally designed for scientists in Antarctica. This is probably the warmest jacket in our selection.
+The Canada Goose Expedition Down Parka was originally designed for scientists in Antarctica.
+
+This is probably the warmest jacket in our selection and Canada Goose rates it as TEI 5 which means that it's suitable for temperatures of -30°C and below. Further, the jacket has been field-tested on the coldest places on earth.
+
+The downside of this jacket is probably its weight. With 2073 grams (73 oz.) it's more on the heavy site on our weight scale filled with 625 fill down.
+
+The Canada Goose ARCTIC TECH fabric Water Resistant is wind, and water resistant, durable and warm consisting of an 85% Polyester and 15% cotton mixture.
+
+The jacket features an adjustable, non-removable hood, a fur ruff, fleece-lined chin guard, interior back pack shoulder straps, six exterior pockets, four large handwarmer pockets, two interior pockets an adjustable waist drawcords as well as a hideaway snow skirt.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fcanada-goose-expedition-down-parka-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Canada Goose Expedition Parka</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fcanada-goose-expedition-down-parka-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Canada Goose Expedition Parka</a>
 
