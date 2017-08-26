@@ -13,7 +13,7 @@ image: https://c1.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg
 ---
 
 Currently, there are two interesting GPS watches on the market which I would find quite useful hiking, backpacking or mountaineering and worth to compare - the Suunto Spartan Sport Wrist HR, Suunto Spartan Trainer Wrist HR and the Garmin Fenix 5X. Here are their features and differences.
-
+<!-- more -->
 ---
 
 <h2 id="list">Suunto Spartan Sport Wrist HR vs. Suunto Spartan Trainer Wrist HR vs. Garmin Fenix 5X</h2>
@@ -34,8 +34,6 @@ Currently, there are two interesting GPS watches on the market which I would fin
  <tr><td></td><td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F129489%2Fsuunto-spartan-sport-wrist-hr-gps-watch" rel="nofollow" class="btn btn-danger" role="button">See more ...</a></td><td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F117805%2Fsuunto-spartan-trainer-wrist-hr-gps-watch" rel="nofollow" class="btn btn-danger" role="button">See more ...</a></td><td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F121191%2Fgarmin-fenix-5x-sapphire-multisport-gps-heart-rate-monitor-watch" rel="nofollow" class="btn btn-danger" role="button">See more ...</a></td></tr>
 </tbody></table>
 </div>
-<br>
-<!--more-->
 
 ---
 
@@ -45,7 +43,7 @@ In the past, I have always used my Suunto Traverse to log my GPS data (see pictu
 
 ---
 
-<amp-img src="https://c1.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg" width="2048" height="1360" layout="responsive" alt="Suunto Spartan or Garmin Fenix 5 differences features"></amp-img>
+<amp-img src="https://c1.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg" width="2048" height="1360" layout="responsive" alt="Suunto Spartan Sport Wrist HR vs. Suunto Spartan Trainer Wrist HR vs. Garmin Fenix 5X"></amp-img>
 
 ---
 
