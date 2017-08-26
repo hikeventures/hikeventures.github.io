@@ -85,7 +85,7 @@ The jacket comes with 850 fill down insulation and its GORE® WINDSTOPPER® fabr
 
 The jacket comes with a box wall construction meaning less cold spots and more loft. The jacket also features Coreloft™ synthetic insulation in places where moisture could have an impact on down insulation.
 
-The Ceres SV Parka offers a great warmth-to-weight ratio, compressibility, and packability. 
+The Ceres SV Parka offers a great warmth-to-weight ratio, compressibility, and packability.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F102814%2Farcteryx-ceres-sv-down-parka-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arc'teryx Ceres SV Parka</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F103454%2Farcteryx-ceres-sv-parka-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Arc'teryx Ceres SC Parka</a>
 
@@ -97,11 +97,19 @@ The Ceres SV Parka offers a great warmth-to-weight ratio, compressibility, and p
 
 **Weight**: 275 grams / 9.7 oz.
 
-This jacket is similar to the Arc’teryx Cerium LT Jacket but just with an additional hoodie.
+We would pick the Cerium LT Hoody for moderate winter trips or for spring or autumn backcountry adventures.
 
-We would pick the Cerium LT Hoody if we would have to choose a down jacket for moderate winter or for camping during spring and autumn.
+The Arc'teryx Cerium LT Hoody is a lightweight down jacket which can be worn as a mid layer or as an outer layer.
 
-LT stands for lightweight in the Arc’teryx product line.
+It comes with 850 down fill and has an excellent warmth-to-weight ratio.
+
+The Arato™ 10 nylon shell is lightweight and durable and synthetic insulation has been applied on areas where moisture could build up. The Cerium LT Hoody also comes with a DWR finish.
+
+The jacket has an articulated design which adjusts to your body movements.
+
+There is also an insulated StormHood™, adjustable hood and hem drawcord and elasticized cuffs at wrist. Further, the jacket has a full front zip with chin guard.
+
+The jacket has an internal zippered security pocket with a stuff sack. LT stands for lightweight in the Arc’teryx product line.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https:%2F%2Fwww.rei.com%2Fproduct%2F117169%2Farcteryx-cerium-lt-down-hoodie-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arc'teryx Cerium LT</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https:%2F%2Fwww.rei.com%2Fproduct%2F117255%2Farcteryx-cerium-lt-down-hoodie-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Arc'teryx Cerium LT</a>
 
