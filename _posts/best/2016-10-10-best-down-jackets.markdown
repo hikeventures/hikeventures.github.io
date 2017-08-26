@@ -11,7 +11,7 @@ tags:
   - jackets
 layout: post
 ---
-In this blog post I have selected the [best down jackets](#the-best-down-jackets-of-2017) of 2017 - 2018 which I would consider to buy if I were to get a  new one for my next backpacking or winter adventure.
+In this blog post I have selected the [best down jackets](#down-jacket-features-table) of 2017 - 2018 which I would consider to buy if I were to get a  new one for my next backpacking or winter adventure.
 
 Down jackets can be designed for different activities or environments e.g. urban or outdoor adventures.
 
