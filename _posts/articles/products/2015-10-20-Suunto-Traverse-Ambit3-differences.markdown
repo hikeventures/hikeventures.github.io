@@ -14,9 +14,7 @@ layout: post
 
 Suunto has recently released its latest GPS watch - the Suunto Traverse - which is especially interesting for those interested in hiking and backpacking. So what are the differences between the Suunto Ambit3 and the Suunto Traverse?
 
-**Update 26.08.2017:** Suunto has released the [Suunto Spartan Sport Wrist HR GPS Watch](http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F129489%2Fsuunto-spartan-sport-wrist-hr-gps-watch) and the more affordable [Suunto Spartan Trainer Wrist HR GPS Watch](http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F129489%2Fsuunto-spartan-sport-wrist-hr-gps-watch). Both feature color displays and are the latest developments from Suunto.
-
-
+**Update 26.08.2017:** Suunto has released the [Suunto Spartan Sport Wrist HR GPS Watch](http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F129489%2Fsuunto-spartan-sport-wrist-hr-gps-watch) and the more affordable [Suunto Spartan Trainer Wrist HR GPS Watch](http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F129489%2Fsuunto-spartan-sport-wrist-hr-gps-watch). Both feature color displays and are the latest developments from Suunto. There is also the new [Garmin Fenix 5X](http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F121191%2Fgarmin-fenix-5x-sapphire-multisport-gps-heart-rate-monitor-watch) which is capable of displaying topo maps.
 
 The most important difference is probably that the Suunto Traverse has a vibration alarm and that the GPS receiver is now ‘invisible’ built into the watch.
 
@@ -27,8 +25,6 @@ So, if you are for example more into triathlon then you should probably go for t
 I mainly go running and hiking so the regular Suunto Traverse is the best option for me and there is no need to pay for features which I don’t use.
 
 Of course, I could also get the new Suunto Spartan which features a color display and a touch screen. But are those two features worth the premium price over the Suunto Traverse or Ambit3 Vertical? It’s up to you!
-
-Update 26.01.2017: Garmin has released the Fenix 5X which I would currently buy as my favorite outdoor watch since it also offers the possibility to upload topo maps.
 
 <br>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
