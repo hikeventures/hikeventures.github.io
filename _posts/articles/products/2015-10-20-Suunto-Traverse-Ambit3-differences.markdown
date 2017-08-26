@@ -2,6 +2,7 @@
 title: Differences between Suunto Traverse and Ambit3
 description: What are the differences between the Suunto Traverse and the Ambit3?
 date: 2015-10-20 05:59:40
+update_date: 2017-08-26 06:00:52
 category: articles
 image: https://farm8.staticflickr.com/7138/26503377864_db26a8025b_b.jpg
 tags:
@@ -12,6 +13,10 @@ layout: post
 ---
 
 Suunto has recently released its latest GPS watch - the Suunto Traverse - which is especially interesting for those interested in hiking and backpacking. So what are the differences between the Suunto Ambit3 and the Suunto Traverse?
+
+**Update 26.08.2017:** Suunto has released the [Suunto Spartan Sport Wrist HR GPS Watch](http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F129489%2Fsuunto-spartan-sport-wrist-hr-gps-watch) and the more affordable [Suunto Spartan Trainer Wrist HR GPS Watch](http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F129489%2Fsuunto-spartan-sport-wrist-hr-gps-watch). Both feature color displays and are the latest developments from Suunto.
+
+
 
 The most important difference is probably that the Suunto Traverse has a vibration alarm and that the GPS receiver is now ‘invisible’ built into the watch.
 
