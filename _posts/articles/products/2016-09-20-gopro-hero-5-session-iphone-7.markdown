@@ -48,7 +48,7 @@ Certainly, you might also get more scratches on your iPhone 7 screen. The surfac
 
 If audio recording is not important to you then you could also consider purchasing the older GoPro Session instead and save some money.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F114467%2Fgopro-hero5-black-camera" rel="nofollow" class="btn btn-danger" role="button">See the GoPro Hero5 Black</a><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F114468%2Fgopro-hero5-session-camera" rel="nofollow" class="btn btn-danger" role="button">See the GoPro Hero5 Session</a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F114467%2Fgopro-hero5-black-camera" rel="nofollow" class="btn btn-danger" role="button">See the GoPro Hero5 Black</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F114468%2Fgopro-hero5-session-camera" rel="nofollow" class="btn btn-danger" role="button">See the GoPro Hero5 Session</a>
 
 
 <br>
