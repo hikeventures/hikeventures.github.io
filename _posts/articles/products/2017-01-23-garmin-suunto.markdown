@@ -32,9 +32,11 @@ Currently, there are two interesting GPS watches on the market which I would fin
  <tr><td>screen resolution</td><td>300 x 300</td><td>218 x 218</td><td>240 x 240</td></tr>
 </tbody></table>
 </div>
-<!--more-->
 <br>
+<!--more-->
+
 ---
+
 All watches are currently the latest models from both manufacturers and their built in GPS feature, color display and battery life make them an attractive alternative compared to a smartphone with a GPS app - at least if you are frequently tracking your GPS or if you plan to go on remote backcountry trips.
 
 In the past, I have always used my Suunto Traverse to log my GPS data (see picture below on a [trip in Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/)).
