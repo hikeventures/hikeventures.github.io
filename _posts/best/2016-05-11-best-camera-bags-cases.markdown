@@ -12,7 +12,7 @@ tags:
   - photography
 ---
 
-In this blog post I would like to show you my [selection](#the-best-camera-bags-for-sony-a7-or-a6500) of the best lightweight camera bags for the Sony A7, A7II A7RII, A7SII or A9 (and also a6500, a6300 or a6000 since they share a similar form factor).
+In this blog post, I would like to show you my [selection](#the-best-camera-bags-for-sony-a7-or-a6500) of the best lightweight camera bags for the Sony A7, A7II A7RII, A7SII or A9 (and also a6500, a6300 or a6000 since they share a similar form factor).
 
 Different cases might be useful for different activities e.g. you might take a different camera bag with you when you go hiking than when you would go on a kayaking or packrafting trip.
 
@@ -24,7 +24,7 @@ As I have recently upgraded my own camera, I was in need of a new camera case wh
 <br>
 <!--more-->
 
-## Camera bags for Sony A7, A9 or a6500
+## Bags for Sony cameras
 
 <div class="table-responsive">
       <table class="table table-hover table-bordered list_items">
@@ -90,7 +90,7 @@ The USA GEAR DuraNeoprene DSLR FlexARMOR Sleeve Case might be a good choice if y
 **Weight**: 216 grams
 **Dimensions**: 3.94 x 9.84 x 17.72 inches
 
-The Aquqpac Waterproof SLR Camera Case is 100% waterproof to IPX8 and can be submerged to 5m for 30 mins.
+The Aquapac Waterproof SLR Camera Case is 100% waterproof to IPX8 and can be submerged to 5m for 30 mins.
 
 The Aquacase case also features an optically-clear acrylic lens for clear pictures.
 
@@ -109,9 +109,9 @@ The case will also float on the water with your camera in it but Aquapac mention
 
 The Lowepro Nova Sport 7L AW is a camera bag with a removable camera insert.
 
-It is available in red and grey and can also store a tablet. The Nova Sport 7L also comes with an all weather cover so it’s great for hiking trips.
+It is available in red and gray and can also store a tablet. The Nova Sport 7L also comes with an all weather cover so it’s great for hiking trips.
 
-However, if you plan to go kayaking or packrafting then it might be a better idea to store the Nova Sport in an dry sack.
+However, if you plan to go kayaking or packrafting then it might be a better idea to store the Nova Sport in a dry sack.
 
 <a href="http://amzn.to/29YPNOV" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
@@ -221,7 +221,7 @@ The Thule Covert Camera Messenger Bag comes with a removable camera pod system a
 
 ---
 
-###Best camera bags for hiking and backpacking
+### Best camera bags for hiking and backpacking
 
 When I plan to go hiking or backpacking I would like to have a camera bag where I can easily access my camera.
 
