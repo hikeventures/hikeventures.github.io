@@ -23,8 +23,6 @@ Further, I rather carry a [synthetic insulated jacket](http://www.hikeventures.c
 
 Also have a look on our [FAQ](#faq-on-down-jackets) to learn more about down jackets.
 
-
-
 <amp-img src="https://c1.staticflickr.com/8/7379/15913311563_d90e96b2c3_k.jpg" width="2048" height="1360" alt="Best down jackets 2017 - 2018" layout="responsive"></amp-img>
 <br>
 <!--more-->
@@ -40,35 +38,35 @@ Also have a look on our [FAQ](#faq-on-down-jackets) to learn more about down jac
         </thead>
         <tbody>
         <tr>
-          <td><a href="http://amzn.to/2doK4aj" target="_blank" rel="nofollow">Mountain Hardware Ghost Whisperer Hooded Down Jacket (800 fill)</a></td><td>212 grams / 7.5 oz.</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F880675%2Fmountain-hardwear-ghost-whisperer-hooded-down-jacket-mens" target="_blank" rel="nofollow">Mountain Hardware Ghost Whisperer Hooded Down Jacket (800 fill)</a></td><td>212 grams / 7.5 oz.</td>
         </tr>
        <tr>
           <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https:%2F%2Fwww.rei.com%2Fproduct%2F117169%2Farcteryx-cerium-lt-down-hoodie-mens" target="_blank" rel="nofollow">Arcteryx Cerium LT Hoody (850 fill)</a></td><td>275 grams / 9.7 oz. </td>
         </tr>
+        <tr>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F885089%2Fpatagonia-ultralight-down-hoodie-mens" target="_blank" rel="nofollow">Patagonia Ultralight Down Hoodie (800 fill)</a></td><td>298 grams / 10.5 oz. </td>
+        </tr>
        <tr>
-          <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Ran Zero G (1000 fill)</a></td><td>310 grams / 11 oz.</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-zero-g-jacket-mens" target="_blank" rel="nofollow">Rab Zero G (1000 fill)</a></td><td>310 grams / 11 oz.</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Marmot Quasar Hoody (850 fill)</a></td><td>372 grams / 13.1 oz.</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F116458%2Fmarmot-quasar-hoodie-mens" target="_blank" rel="nofollow">Marmot Quasar Hoody (850 fill)</a></td><td>372 grams / 13.1 oz.</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2dBjOHV" target="_blank" rel="nofollow">Arcteryx Cerium SV Hoody (850 fill)</a></td><td>440 grams / 15.5 oz.</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F117170%2Farcteryx-cerium-sv-down-hoodie-mens" target="_blank" rel="nofollow">Arcteryx Cerium SV Hoody (850 fill)</a></td><td>440 grams / 15.5 oz.</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Patagonia Men’s Down Hooded Jacket (800 fill)</a></td><td>550 grams / 19.4 oz. </td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-infinity-endurance-down-jacket-mens" target="_blank" rel="nofollow">Rab Infinity Endurance Jacket (850 fill)</a></td><td>575 grams / 20.5 oz.</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2e9t7BZ" target="_blank" rel="nofollow">Rab Infinity Endurance Jacket (850 fill)</a></td><td>575 grams / 20.5 oz.</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-positron-down-jacket-mens" target="_blank" rel="nofollow">Rab Positron Jacket (800 fill)</a></td><td>720 grams / 25.4 oz.</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2e7V1Mx" target="_blank" rel="nofollow">Rab Positron Jacket (800 fill)</a></td><td>720 grams / 25.4 oz.</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F102814%2Farcteryx-ceres-sv-down-parka-mens" target="_blank" rel="nofollow">Arc'teryx Ceres SV Parka (850 fill)</a></td><td>880 grams
+/ 31 oz.</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2endumN" target="_blank" rel="nofollow">Arcteryx Ceres Jacket (850 fill)</a></td><td>860 grams
-/ 30.5 oz.</td>
-        </tr>
-        <tr>
-          <td><a href="http://amzn.to/2i2OmBR" target="_blank" rel="nofollow">Canada Goose Expedition Parka (625 fill)</a></td><td>2070 grams / 73 oz. </td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fcanada-goose-expedition-down-parka-mens" target="_blank" rel="nofollow">Canada Goose Expedition Parka (625 fill)</a></td><td>2070 grams / 73 oz. </td>
         </tr>
         </tbody>
       </table>
@@ -77,17 +75,17 @@ Also have a look on our [FAQ](#faq-on-down-jackets) to learn more about down jac
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 
-## Arc'teryx Ceres Jacket (850 fill)
+## Arc'teryx Ceres SV Parka (850 fill)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GV47ZVQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GV47ZVQ&linkCode=as2&tag=hikeve-20&linkId=W5UOOTWBV54OBDXF" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GV47ZVQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20"></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GV47ZVQ" width="1" height="1" border="0" alt="Arcteryx Ceres Jacket" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 860 grams / 30.3 oz.
+**Weight**: 880 grams / 31 oz.
 
-More heavy than the other jackets in our list, the Arc’teryx Ceres Jacket is made for the deep winter where warmth is the most important factor.
+More heavy than the other jackets in our list, the Arc’teryx Ceres SV Parka is made for the deep winter where warmth is the most important factor.
 
 This jacket is a probably a great option if you also want to have a fashionable jacket to wear in the city.
 
-<a href="http://amzn.to/2endumN" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F102814%2Farcteryx-ceres-sv-down-parka-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arc'teryx Ceres SV Parka</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F103454%2Farcteryx-ceres-sv-parka-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Arc'teryx Ceres SC Parka</a>
 
 <hr>
 
@@ -105,8 +103,6 @@ LT stands for lightweight in the Arc’teryx product line.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https:%2F%2Fwww.rei.com%2Fproduct%2F117169%2Farcteryx-cerium-lt-down-hoodie-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arc'teryx Cerium LT</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https:%2F%2Fwww.rei.com%2Fproduct%2F117255%2Farcteryx-cerium-lt-down-hoodie-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Arc'teryx Cerium LT</a>
 
-<a href="http://amzn.to/2doJmJP" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
-
 <hr>
 
 ## Arc'teryx Cerium SV Hoody (850 fill)
@@ -119,7 +115,7 @@ The Arc’teryx Cerium SV Hoody is part of Arc’teryx severe weather product li
 
 We would wear this jacket during the winter. For camping during spring and summer it’s probably going to be a bit too warm.
 
-<a href="http://amzn.to/2dBjOHV" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F117170%2Farcteryx-cerium-sv-down-hoodie-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arc'teryx Cerium SV Hoodie</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F117257%2Farcteryx-cerium-sv-down-hoodie-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Arc'teryx Cerium SV Hoodie</a>
 
 <hr>
 
@@ -133,6 +129,10 @@ The Canada Goose Expedition Down Parka was originally designed for scientists in
 
 <a href="http://amzn.to/2hMJNwd" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fcanada-goose-expedition-down-parka-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Canada Goose Expedition Parka</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fcanada-goose-expedition-down-parka-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Canada Goose Expedition Parka</a>
+
+<hr>
+
 ## Marmot Quasar Hoody (900 fill)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00DNNZ3KI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DNNZ3KI&linkCode=as2&tag=hikeve-20&linkId=UITTBILMF3IBYVRI"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DNNZ3KI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DNNZ3KI" width="1" height="1" border="0" alt="Marmot Quasar Hoody" style="border:none !important; margin:0px !important;" />
@@ -145,7 +145,8 @@ The additional zip on the front adds a little bit more weight to the jacket.
 
 We would wear the Marmot Quasar Hoody during moderate winter or camping during spring and summer.
 
-<a href="http://amzn.to/2elEHtO" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F116458%2Fmarmot-quasar-hoodie-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Marmot Quasar Hoodie</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmarmot-quasar-hooded-down-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Marmot Quasar Hoodie</a>
 
 <hr>
 
@@ -163,21 +164,21 @@ If you are looking for a proper winter jacket then we would rather pick the Rab 
 
 For a stylish jacket to use during winter mainly in town we would go for the Arcteryx Ceres jacket.
 
-<a href="http://amzn.to/2doK4aj" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F880675%2Fmountain-hardwear-ghost-whisperer-hooded-down-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Mountain Hardware Ghost Whisperer</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F873087%2Fmountain-hardwear-ghost-whisperer-down-hooded-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Mountain Hardware Ghost Whisperer</a>
 
 <hr>
 
-## Patagonia Men's Down Hooded Jacket (800 fill)
+## Patagonia Ultralight Down Hoodie (800 fill)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00OZGABKY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OZGABKY&linkCode=as2&tag=hikeve-20&linkId=OLFQERZDADI4UC3J"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00OZGABKY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00OZGABKY" width="1" height="1" border="0" alt="Patagonia Men’s Down Hooded Jacket" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 550 grams / 19.5 oz.
+**Weight**: 298 grams / 10.5 oz.
 
 Patagonia is another popular outdoor brand and delivers a super light down jacket which comes with 2 zipped hand warmer pockets and elastic-bound cuffs and hem.
 
-The shell of the jacket is durable water repellent. The Patagonia Men’s Down Hooded Jacket can be used as a light winter jacket.
+The shell of the jacket is durable water repellent. The Patagonia Ultralight Down Hoodie can be used as a mid layer during the winter months as well.
 
-<a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F885089%2Fpatagonia-ultralight-down-hoodie-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Patagonia Ultralight Down Hoodie</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F885095%2Fpatagonia-ultralight-down-hoodie-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Patagonia Ultralight Down Hoodie</a>
 
 <hr>
 
@@ -193,7 +194,7 @@ It’s high fill power and low weight makes this probably one of the best lightw
 
 If you need a warmer jacket then the Rab Positron Jacket would be an alternative option which adds approximately 30% more warmth.
 
-<a href="http://www.amazon.com/gp/product/B00DTT6DXC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DTT6DXC&linkCode=as2&tag=hikeve-20&linkId=N7SHBEPWSYPV25ZK" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-infinity-endurance-down-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Rab Infinity Endurance</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-infinity-down-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Rab Infinity Endurance</a>
 
 <hr>
 
@@ -209,7 +210,8 @@ The manufacturer claims that it has been designed for mountain and expedition us
 
 This jacket delivers about 30% more warmth than the Rab Infinity Endurance jacket.
 
-<a href="http://amzn.to/2e7V1Mx" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-positron-down-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Rab Positron</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-positron-down-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Rab Positron</a>
 
 <hr>
 
@@ -223,7 +225,7 @@ Rab is a specialists in down clothing and down sleeping bags and this is also ev
 
 This is one of the lightest 1000 fill power down jacket on the market.
 
-<a href="http://amzn.to/2tgnftp" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-zero-g-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Rab Zero G</a>
 
 <hr>
 
