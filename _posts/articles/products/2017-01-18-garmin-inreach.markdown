@@ -24,7 +24,7 @@ Below you can see Konstantin while hiking in Japan. On the back of his backpack 
 <!--more-->
 
 
-<h2>Differences DeLorme and Garmin inReach Explorer+ and SE+</h2>
+<h2>Features DeLorme and Garmin inReach Explorer+ vs. SE+</h2>
 <div class="table-responsive">
 <table class="table">
 <thead><tr><th>Features</th><th><a href="http://amzn.to/2jYe2kg" rel="nofollow">DeLorme inReach SE</a></th><th><a href="http://amzn.to/2k3sk73" rel="nofollow">DeLorme inReach Explorer</a></th><th> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F119864%2Fgarmin-inreach-se-2-way-satellite-communicator" rel="nofollow">Garmin inReach SE+</a></th><th><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F119863%2Fgarmin-inreach-explorer-satellite-communicator" rel="nofollow">Garmin inReach Explorer+</a></th></tr></thead><tbody>
