@@ -72,8 +72,6 @@ Also have a look on our [FAQ](#faq-on-down-jackets) to learn more about down jac
       </table>
 </div>
 <br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 ## Arc'teryx Ceres SV Parka (850 fill)
 
@@ -126,8 +124,6 @@ We would wear this jacket during the winter. For camping during spring and summe
 **Weight**: 2070 grams / 73 oz.
 
 The Canada Goose Expedition Down Parka was originally designed for scientists in Antarctica. This is probably the warmest jacket in our selection.
-
-<a href="http://amzn.to/2hMJNwd" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fcanada-goose-expedition-down-parka-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Canada Goose Expedition Parka</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fcanada-goose-expedition-down-parka-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Canada Goose Expedition Parka</a>
 
@@ -227,8 +223,6 @@ This is one of the lightest 1000 fill power down jacket on the market.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-zero-g-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Rab Zero G</a>
 
-<hr>
-
 ## FAQ on Down Jackets
 
 * [When to wear?](#when-to-wear)
@@ -264,4 +258,6 @@ I have one dedicated dry bag where I stuff my down jacket and my sleeping bag in
 
 ---
 
-I hope this blog post was helpful to find the best down jacket for your next outdoor adventure.
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
