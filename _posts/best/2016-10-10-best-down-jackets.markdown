@@ -109,7 +109,7 @@ The jacket has an articulated design which adjusts to your body movements.
 
 There is also an insulated StormHood™, adjustable hood and hem drawcord and elasticized cuffs at wrist. Further, the jacket has a full front zip with chin guard.
 
-The jacket has an internal zippered security pocket with a stuff sack. LT stands for lightweight in the Arc’teryx product line. 
+The jacket has an internal zippered security pocket with a stuff sack. LT stands for lightweight in the Arc’teryx product line.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https:%2F%2Fwww.rei.com%2Fproduct%2F117169%2Farcteryx-cerium-lt-down-hoodie-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arc'teryx Cerium LT</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https:%2F%2Fwww.rei.com%2Fproduct%2F117255%2Farcteryx-cerium-lt-down-hoodie-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Arc'teryx Cerium LT</a>
 
@@ -123,7 +123,11 @@ The jacket has an internal zippered security pocket with a stuff sack. LT stands
 
 The Arc’teryx Cerium SV Hoody is part of Arc’teryx severe weather product line - most durable materials which provides most weather protection.
 
-We would wear this jacket during the winter. For camping during spring and summer it’s probably going to be a bit too warm.
+We would wear this jacket during the winter. For camping during spring and summer, it’s probably going to be a bit too warm as the jacket was designed as the ultimate cold weather mid-layer or a standalone solution.
+
+A baffle structure keeps the 850 down fill lofty and the down insulated StormHood™ and glove mitten-friendly Cohaesive™ adjusters are welcoming features for winter activities as well.
+
+Synthetic insulation is strategically used on certain areas of this jacket as well. 
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F117170%2Farcteryx-cerium-sv-down-hoodie-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arc'teryx Cerium SV Hoodie</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F117257%2Farcteryx-cerium-sv-down-hoodie-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Arc'teryx Cerium SV Hoodie</a>
 
