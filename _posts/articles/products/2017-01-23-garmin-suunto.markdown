@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Garmin Fenix 5X, Suunto Spartan Sport vs. Spartan Trainer Wrist HR - Why to upgrade?
+title: Garmin Fenix 5X, Suunto Spartan Sport Wrist HR vs. Spartan Trainer Wrist HR - Why to upgrade?
 description: Differences and features of the Garmin Fenix 5X, Suunto Spartan Trainer Wrist HR and the Spartan Ultra
 date: 2017-01-23 07:30:00
 category: article
@@ -15,10 +15,10 @@ Currently, there are two interesting GPS watches on the market which I would fin
 
 ---
 
-<h2 id="list">Suunto Spartan Sport vs. Suunto Spartan Trainer vs. Garmin Fenix 5X</h2>
+<h2 id="list">Suunto Spartan Sport Wrist HR vs. Suunto Spartan Trainer Wrist HR vs. Garmin Fenix 5X</h2>
 <div class="table-responsive">
 <table class="table">
-<thead><tr class="tableizer-firstrow"><th>Feature</th><th><a rel="nofollow" href="http://amzn.to/2kiZkEC">Suunto Spartan Sport</a></th><th><a rel="nofollow" href="http://amzn.to/2w3RYy5">Suunto Spartan Trainer</a></th><th><a href="http://amzn.to/2jQ2bYn" rel="nofollow">Garmin Fenix 5X</a></th></tr></thead><tbody>
+<thead><tr class="tableizer-firstrow"><th>Feature</th><th><a rel="nofollow" href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F129489%2Fsuunto-spartan-sport-wrist-hr-gps-watch">Suunto Spartan Sport Wrist HR</a></th><th><a rel="nofollow" href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F117805%2Fsuunto-spartan-trainer-wrist-hr-gps-watch">Suunto Spartan Trainer Wrist HR</a></th><th><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F121191%2Fgarmin-fenix-5x-sapphire-multisport-gps-heart-rate-monitor-watch" rel="nofollow">Garmin Fenix 5X</a></th></tr></thead><tbody>
  <tr><td>waterproof</td><td>100m</td><td>100m</td><td>50m</td></tr>
  <tr><td>battery</td><td>16h</td><td>10h</td><td>20h</td></tr>
  <tr><td>touchscreen</td><td>yes</td><td>no</td><td>no</td></tr>
@@ -30,6 +30,7 @@ Currently, there are two interesting GPS watches on the market which I would fin
  <tr><td>size (mm)</td><td>50 x 50 x 13,8</td><td>46  x  46  x  14.9 </td><td>51 x 51 x 17.5</td></tr>
  <tr><td>topo map</td><td>no</td><td>no</td><td>yes</td></tr>
  <tr><td>screen resolution</td><td>300 x 300</td><td>218 x 218</td><td>240 x 240</td></tr>
+ <tr><td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F129489%2Fsuunto-spartan-sport-wrist-hr-gps-watch" rel="nofollow" class="btn btn-danger" role="button">See more ...</a></td><td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F117805%2Fsuunto-spartan-trainer-wrist-hr-gps-watch" rel="nofollow" class="btn btn-danger" role="button">See more ...</a></td><td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F121191%2Fgarmin-fenix-5x-sapphire-multisport-gps-heart-rate-monitor-watch" rel="nofollow" class="btn btn-danger" role="button">See more ...</a></td></tr>
 </tbody></table>
 </div>
 <br>
