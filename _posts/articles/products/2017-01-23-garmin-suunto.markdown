@@ -18,7 +18,7 @@ image: https://c1.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg
     </div>
     <div class="media-right">
     <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
-    </div>
+    
   </div>
 </div>
 
