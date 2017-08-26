@@ -16,6 +16,7 @@ Suunto has recently released its latest GPS watch - the Suunto Traverse - which 
 
 **Update 26.08.2017:** Suunto has released the [Suunto Spartan Sport Wrist HR GPS Watch](http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F129489%2Fsuunto-spartan-sport-wrist-hr-gps-watch) and the more affordable [Suunto Spartan Trainer Wrist HR GPS Watch](http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F129489%2Fsuunto-spartan-sport-wrist-hr-gps-watch). Both feature color displays and are the latest developments from Suunto. There is also the new [Garmin Fenix 5X](http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F121191%2Fgarmin-fenix-5x-sapphire-multisport-gps-heart-rate-monitor-watch) which is capable of displaying topo maps.
 
+<p><amp-img src="https://farm8.staticflickr.com/7138/26503377864_db26a8025b_b.jpg" alt="Suunto Traverse" title="Suunto Traverse and Roselli Knife" width="1024" height="768" layout="responsive"></amp-img></p>
 The most important difference is probably that the Suunto Traverse has a vibration alarm and that the GPS receiver is now ‘invisible’ built into the watch.
 
 Moreover, the Suunto Traverse has a thinner (1mm) built. However, you will not find multisport functions in the Suunto Traverse.
@@ -26,10 +27,6 @@ I mainly go running and hiking so the regular Suunto Traverse is the best option
 
 Of course, I could also get the new Suunto Spartan which features a color display and a touch screen. But are those two features worth the premium price over the Suunto Traverse or Ambit3 Vertical? It’s up to you!
 
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
-
 Personally, I don’t need a touch screen and a color display but I would probably buy the Spartan if I would have sufficient money and no Suunto Traverse on my wrist yet.
 
 The Suunto Traverse weighs about 80 grams and its water resistance is 100 m. The old Ambit3 (Peak) is only 50 m water resistant.
@@ -37,12 +34,6 @@ The Suunto Traverse weighs about 80 grams and its water resistance is 100 m. The
 Both - the old Suunto Ambit3 (Peak) and the Traverse have a barometer. The menu on the Suunto Traverse is also more simplified than on the old Suunto Ambit3 (Peak) which I personally prefer.
 
 The Traverse has also a flashlight function which could be quite useful (for example if you need to search something in your tent). Below you can see my Suunto Traverse next to my Finnish Roselli knife.
-
-<hr>
-
-<p><amp-img src="https://farm8.staticflickr.com/7138/26503377864_db26a8025b_b.jpg" alt="Suunto Traverse" title="Suunto Traverse and Roselli Knife" width="1024" height="768" layout="responsive"></amp-img></p>
-
-<hr>
 
 Personally, I like the new look of the Suunto Traverse more than the look of the old Suunto Ambit3. Also, the wrist strap of the Suunto Traverse feels somewhat more comfortable than the one on the old Suunto Ambit3.
 
