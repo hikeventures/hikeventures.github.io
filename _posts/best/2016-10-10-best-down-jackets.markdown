@@ -233,7 +233,9 @@ This is one of the lightest 1000 fill power down jacket on the market.
 * [How to fluff it?](#how-to-fluff)
 * [How to pack and store it?](#how-to-pack-and-store-it)
 
----
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 ### When to wear?
 Down jackets are best worn when it’s not that humid. I have down jackets for different seasons. A thin down jacket for chilly 3-season use when I go backpacking and another thicker down jacket when I go for example on a winter trip to Lapland.
@@ -257,9 +259,3 @@ A big tumbler can be used to dry the down jacket. Also add a few tennis balls to
 
 ### How to pack and store it?
 I have one dedicated dry bag where I stuff my down jacket and my sleeping bag in. Down products need much less space than synthetic products and the best way to get as much space as possible is to compress down in a compression bag.
-
----
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
