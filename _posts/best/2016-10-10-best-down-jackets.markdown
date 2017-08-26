@@ -109,7 +109,7 @@ The jacket has an articulated design which adjusts to your body movements.
 
 There is also an insulated StormHood™, adjustable hood and hem drawcord and elasticized cuffs at wrist. Further, the jacket has a full front zip with chin guard.
 
-The jacket has an internal zippered security pocket with a stuff sack. LT stands for lightweight in the Arc’teryx product line.
+The jacket has an internal zippered security pocket with a stuff sack. LT stands for lightweight in the Arc’teryx product line. 
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https:%2F%2Fwww.rei.com%2Fproduct%2F117169%2Farcteryx-cerium-lt-down-hoodie-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arc'teryx Cerium LT</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https:%2F%2Fwww.rei.com%2Fproduct%2F117255%2Farcteryx-cerium-lt-down-hoodie-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Arc'teryx Cerium LT</a>
 
