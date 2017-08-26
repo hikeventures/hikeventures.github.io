@@ -33,32 +33,45 @@ Currently, there are two interesting GPS watches on the market which I would fin
 </div>
 <!--more-->
 <br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 All watches are currently the latest models from both manufacturers and their built in GPS feature, color display and battery life make them an attractive alternative compared to a smartphone with a GPS app - at least if you are frequently tracking your GPS or if you plan to go on remote backcountry trips.
 
-In the past I have always used my Suunto Traverse to log my GPS data (see picture below on a [trip in Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/)).
+In the past, I have always used my Suunto Traverse to log my GPS data (see picture below on a [trip in Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/)).
+
+---
 
 <amp-img src="https://c1.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg" width="2048" height="1360" layout="responsive" alt="Suunto Spartan or Garmin Fenix 5 differences features"></amp-img>
 
-However, there are certain features on the new watches which I found more appealing than on the Suunto Traverse - and in particular I would prefer to have the Garmin Fenix 5X over the Suunto Spartan.
+---
+
+However, there are certain features on the new watches which I found more appealing than on the Suunto Traverse - and in particular, I would prefer to have the Garmin Fenix 5X over the Suunto Spartan.
 
 Why? Simply because both watches offer similar features with the Fenix 5X offering additionally the possibility to upload 2GB of topo maps.
 
+---
+
 ## Reasons for upgrading
+
 When you own an old Suunto watch like the Traverse or a Garmin Fenix 3 then you are probably asking yourself if you should upgrade to the Spartan or Fenix watch.
 
-The only reason why I would upgrade is the map feature of the new Garmin Fenix 5X. I think it's really cool to have a map on your wrist.
+The only reason why I would upgrade is the map feature of the new Garmin Fenix 5X. I think it’s really cool to have a map on your wrist.
 
 However, others might find the color screen or the touch screen of the Spartan more interesting.
 
-Personally, I don't care that much about the touch screen. However, the color display in combination of the map is a really cool feature.
+Personally, I don’t care that much about the touch screen. However, the color display in combination with the map is a really cool feature.
 
 Moreover, the Fenix 5X and the Suunto Spartan Trainer Wrist HR also has a heart rate monitor built into the back of the watch so you can measure your heart beat without wearing a heart strap around your chest.
 
 However, it will still miss the map feature which I like on the Garmin Fenix 5X. On the other hand, the Suunto Spartan has a slightly better screen resolution.
 
-If you only want to wear your watch occasionally or just want to monitor your jogging in the city then the Suunto Spartan Trainer Wrist HR is probably the best solution. It is the least expensive and lightest watch of all models but also comes with less battery life which is acceptable if you don't do for example longer hiking trips.
+The Suunto Spartan Trainer Wrist HR is probably the best solution if you only want to wear your watch occasionally or just to monitor your jogging in the city.
 
-Would this change my purchase decision? No. I still prefer the watch which can upload topo maps - the Garmin Fenix 5X. The Suunto Spartan Trainer Wrist HR might be however more appealing for those who need the lightest gear and don't need the map feature of the Garmin Fenix 5X.
+It is the least expensive and lightest watch of all models but also comes with less battery life which is acceptable if you don’t do for example longer hiking trips.
+
+Would this change my purchase decision? No. I still prefer a watch which is capable of uploading topo maps - the Garmin Fenix 5X.
+
+The Suunto Spartan Trainer Wrist HR might be however a more appealing solution for those who need the lightest gear and don’t need the map feature of the Garmin Fenix 5X.
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
