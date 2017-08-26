@@ -75,7 +75,7 @@ Also have a look on our [FAQ](#faq-on-down-jackets) to learn more about down jac
 
 ## Arc'teryx Ceres SV Parka (850 fill)
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GV47ZVQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GV47ZVQ&linkCode=as2&tag=hikeve-20&linkId=W5UOOTWBV54OBDXF" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GV47ZVQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20"></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GV47ZVQ" width="1" height="1" border="0" alt="Arcteryx Ceres Jacket" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B0163QU4JQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0163QU4JQ&linkCode=as2&tag=hikeve-20&linkId=5dc978652e8550369cb5f9cf40042a96"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0163QU4JQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0163QU4JQ" width="1" height="1" border="0" alt="Arc'teryx Ceres SV Parka" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 880 grams / 31 oz.
 
