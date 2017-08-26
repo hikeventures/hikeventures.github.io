@@ -35,7 +35,7 @@ Personally, I like the new look of the Suunto Traverse more than the look of the
 
 ---
 
-<h3><a href="http://amzn.to/2eklrdT" rel="nofollow" target="_blank">Suunto Traverse</a></h3>
+## Suunto Traverse
 And then you have the basic Suunto Traverse which I am also wearing on my wrist.
 
 <a href="https://www.amazon.com/gp/product/B014PNZKC0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014PNZKC0&linkCode=as2&tag=hikeve-20&linkId=7539f58f7072b85f393d5bd7e7e76df9"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B014PNZKC0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="250" height="250" ></amp-img></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B014PNZKC0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -44,7 +44,7 @@ And then you have the basic Suunto Traverse which I am also wearing on my wrist.
 
 ---
 
-<h3><a href="http://amzn.to/28Xm2B3" rel="nofollow">Suunto Traverse Alpha</a></h3>
+## Suunto Traverse Alpha
 If you are more into fishing or hunting then you should consider getting the Suunto Traverse Alpha. The Suunto Traverse Alpha gives you the following additional features to the regular Suunto Traverse:
 
 * Automatic Shot detection
@@ -58,7 +58,7 @@ If you are more into fishing or hunting then you should consider getting the Suu
 
 ---
 
-### <a href="http://www.hikeventures.com/deals/#Suunto+Ambit3+Vertical" rel="nofollow">Suunto Ambit3 Vertical</a>
+## Suunto Ambit3 Vertical
 If you are more into trail running (on hills or mountains), mountainbiking, climbing or into multisport then you should probably go for the <a href="http://amzn.to/290sqqE" rel="nofollow">Suunto Ambit3 Vertical</a> or the Suunto Spartan. The Suunto Ambit3 Vertical gives you a summary of your vertical gains and also displays the altitude during your ascent. This is an updated version of the old Ambit3 (Peak).
 
 <a href="https://www.amazon.com/gp/product/B01AGK1CUK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AGK1CUK&linkCode=as2&tag=hikeve-20&linkId=e88ee85cc37dd473812d405d9bbd5f8d" rel="nofollow"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01AGK1CUK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="177" height="250" ></amp-img></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01AGK1CUK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
