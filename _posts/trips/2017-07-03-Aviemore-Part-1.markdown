@@ -13,13 +13,20 @@ tags:
 layout: post
 image: https://farm5.staticflickr.com/4237/35510048782_3019775825_k.jpg
 ---
-We arrived in Inshriach rather late on Friday (almost at midnight) and were met by Andy at the entrance from the main road. He welcomed us with a huge smile and indicated where we had to go and park our car and then showed Marta and I to where we would stay this weekend – the yurt. Then he and Patrick disappeared into the darkness in the direction of what was described ‘the lower field’ where his huge group tarp was located - it was drizzling a bit and Patrick decided to make it his home. I lit the fire in the stove and candle lanterns along the walls, while Marta unpacked our things, after which we climbed into our Victorian double bed and fell asleep to the pitter-patter of the raindrops over the canvas. And this was the end of our first day in Scotland and the first day of a great Packrafting and Biking Weekend organised by Andy (a.k.a. backcountry.scot).
+We arrived in Inshriach rather late on Friday (almost at midnight) and were met by Andy at the entrance from the main road. He welcomed us with a huge smile and indicated where we had to go and park our car and then showed Marta and I to where we would stay this weekend – the yurt.
+
+Then he and Patrick disappeared into the darkness in the direction of what was described ‘the lower field’ where his huge group tarp was located - it was drizzling a bit and Patrick decided to make it his home.
+
+I lit the fire in the stove and candle lanterns along the walls, while Marta unpacked our things, after which we climbed into our Victorian double bed and fell asleep to the pitter-patter of the raindrops over the canvas.
+
+And this was the end of our first day in Scotland and the first day of a great Packrafting and Biking Weekend organized by Andy (a.k.a. backcountry.scot).
 
 
 <amp-img src="https://farm5.staticflickr.com/4237/35510048782_3019775825_k.jpg" width="2048" height="1197" layout="responsive" alt="Welcome to Highlands"></amp-img>
 
 <br>
 <!--more-->
+
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 
@@ -36,14 +43,20 @@ With wood stove on again and the morning light coming through the windows in the
 <amp-img src="https://farm5.staticflickr.com/4277/35510049222_0f6476099e_k.jpg" width="2048" height="910" layout="responsive" alt="Yurt at Inshriach House"></amp-img>
 <br>
 
-And what is a better way to start a day than with a good breakfast? It’s having it in a good company, of course. That’s why, while Marta was busy with setting the table, I went to pick up Patrick, who, as it turned out, was still in his sleeping bag under Andy’s star-shaped tarp surrounded by half-inflated packrafts of all types, sizes and colours.
+And what is a better way to start a day than with a good breakfast? It’s having it in a good company, of course. That’s why, while Marta was busy with setting the table, I went to pick up Patrick, who, as it turned out, was still in his sleeping bag under Andy’s star-shaped tarp surrounded by half-inflated packrafts of all types, sizes and colors.
 
 <amp-img src="https://farm5.staticflickr.com/4258/35639645086_6e8ea68a8a_k.jpg" width="2048" height="1208" layout="responsive" alt="Patrick&#x27;s New Home"></amp-img>
 <br>
 
-And while Patrick was getting himself ready, I had a chance to have a look around and so, I walked further along the road passing through the lower field. It was drizzling a bit, but not too much. Here and there I saw some tents and a few tarps scattered around and sometimes barely visible in the bushes.
+And while Patrick was getting himself ready, I had a chance to have a look around and so, I walked further along the road passing through the lower field.
 
-A bit further down the road, there was another luxury / glamping accommodation - a converted lorry, The Beermoth, which I saw on their website and where, according to Andy, Sarah and Thor from Alpacka Rafts were staying. And, indeed, I saw some movement inside, but as it was still early, I decided not to say hi yet and carried on my journey of discovery. And just a bit further along the road, next to the river Spay, I found two more interesting things - an old horse-box turned into a wood sauna and a wood heated hot tub on an old military trailer.
+It was drizzling a bit, but not too much. Here and there I saw some tents and a few tarps scattered around and sometimes barely visible in the bushes.
+
+A bit further down the road, there was another luxury / glamping accommodation - a converted lorry, The Beermoth, which I saw on their website and where, according to Andy, Sarah and Thor from Alpacka Rafts were staying.
+
+And, indeed, I saw some movement inside, but as it was still early, I decided not to say hi yet and carried on my journey of discovery.
+
+And just a bit further along the road, next to the river Spay, I found two more interesting things - an old horse-box turned into a wood sauna and a wood heated hot tub on an old military trailer.
 
 <amp-img src="https://farm5.staticflickr.com/4054/35510051462_02a1cce89d_k.jpg" width="2048" height="512" layout="responsive" alt="Packrafting Luxuries"></amp-img>
 <br>
@@ -51,7 +64,9 @@ A bit further down the road, there was another luxury / glamping accommodation -
 Satisfied with my little discoveries, and making some mental notes for what to do in the evening, I went back to fetch Patrick and we both went to the yurt, where Marta was waiting for us with the breakfast and hot tea in our mostly dry 'private' paradise.
 
 ## Trouble in Paradise and the Host
-But this paradise had one main disadvantage as well - namely its seclusion. For one, we were separated from the other people and did not have time to meet everyone at the central location – Andy’s tarp turned Patrick’s new home. Nor did we know what other people were up to and when the two announced courses (i.e., white water safety and outdoor first aid) would take place that day.
+But this paradise had one main disadvantage as well - namely its seclusion. For one, we were separated from the other people and did not have time to meet everyone at the central location – Andy’s tarp turned Patrick’s new home.
+
+Nor did we know what other people were up to and when the two announced courses (i.e., white water safety and outdoor first aid) would take place that day.
 
 <amp-img src="https://farm5.staticflickr.com/4282/35510050032_0dceadc8ca_k.jpg" width="2048" height="1076" layout="responsive" alt="Yurt at Inshriach House"></amp-img>
 <br>
