@@ -81,7 +81,11 @@ Also have a look on our [FAQ](#faq-on-down-jackets) to learn more about down jac
 
 More heavy than the other jackets in our list, the Arc’teryx Ceres SV Parka is made for the deep winter where warmth is the most important factor.
 
-This jacket is a probably a great option if you also want to have a fashionable jacket to wear in the city.
+The jacket comes with 850 fill down insulation and its GORE® WINDSTOPPER® fabric protects you from cold winds. The shell of the jacket is also water repellent and windproof. The jacket also comes with a helmet compatible insulated Cohaesive™ hood StormHood™ to protect you from the elements which can also be adjusted with gloves or mittens on.
+
+The jacket comes with a box wall construction meaning less cold spots and more loft. The jacket also features Coreloft™ synthetic insulation in places where moisture could have an impact on down insulation.
+
+The Ceres SV Parka offers a great warmth-to-weight ratio, compressibility, and packability. 
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F102814%2Farcteryx-ceres-sv-down-parka-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arc'teryx Ceres SV Parka</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F103454%2Farcteryx-ceres-sv-parka-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Arc'teryx Ceres SC Parka</a>
 
