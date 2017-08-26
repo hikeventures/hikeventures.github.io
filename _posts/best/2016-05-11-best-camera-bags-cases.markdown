@@ -24,7 +24,7 @@ As I have recently upgraded my own camera, I was in need of a new camera case wh
 <br>
 <!--more-->
 
-## The best camera bags for Sony A7 or a6500
+## Camera bags for Sony A7, A9 or a6500
 
 <div class="table-responsive">
       <table class="table table-hover table-bordered list_items">
@@ -68,8 +68,6 @@ As I have recently upgraded my own camera, I was in need of a new camera case wh
         </tbody>
       </table>
 </div>
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 
 ## USA GEAR DuraNeoprene DSLR FlexARMOR Sleeve Case
@@ -251,7 +249,6 @@ When I take my camera to the city, I prefer to have a camera bag which looks a b
 
 From my point of view there is no best camera bag which fits every situation but having the right camera gear for different activities is essential to protect your gear and also to enjoy photography with your Sony A7, A9 or a6500 more.
 
-
 ---
 
-I hope this blog post was helpful to find the best camera bag for your sony camera for you.
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
