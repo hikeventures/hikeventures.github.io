@@ -29,7 +29,7 @@ Also have a look on our [FAQ](#faq-on-down-jackets) to learn more about down jac
 <br>
 <!--more-->
 
-## The best down jackets of 2017
+## Down Jacket Features Table
 
 <div class="table-responsive">
       <table class="table table-hover table-bordered list_items">
