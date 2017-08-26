@@ -223,6 +223,8 @@ This is one of the lightest 1000 fill power down jacket on the market.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-zero-g-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Rab Zero G</a>
 
+---
+
 ## FAQ on Down Jackets
 
 * [When to wear?](#when-to-wear)
