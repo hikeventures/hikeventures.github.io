@@ -13,7 +13,8 @@ image: https://c1.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg
 ---
 Currently, there are two interesting GPS watches on the market which I would find quite useful hiking, backpacking or mountaineering and worth to compare - the Suunto Spartan Sport, Suunto Spartan Trainer Wrist HR and the Garmin Fenix 5X. Here are their features and differences.
 
-   
+---
+
 <h2 id="list">Suunto Spartan Sport vs. Suunto Spartan Trainer vs. Garmin Fenix 5X</h2>
 <div class="table-responsive">
 <table class="table">
@@ -34,6 +35,8 @@ Currently, there are two interesting GPS watches on the market which I would fin
 </div>
 <!--more-->
 <br>
+
+---
 
 All watches are currently the latest models from both manufacturers and their built in GPS feature, color display and battery life make them an attractive alternative compared to a smartphone with a GPS app - at least if you are frequently tracking your GPS or if you plan to go on remote backcountry trips.
 
