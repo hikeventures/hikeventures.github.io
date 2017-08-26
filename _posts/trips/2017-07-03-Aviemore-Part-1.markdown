@@ -13,7 +13,7 @@ tags:
 layout: post
 image: https://farm5.staticflickr.com/4237/35510048782_3019775825_k.jpg
 ---
-We arrived in Inshriach rather late on Friday (almost at midnight) and were met by Andy at the entrance from the main road. He welcomed us with a huge smile and indicated where we had to go and park our car and then showed Marta and I to where we would stay this weekend – the yurt.
+We arrived in Inshriach rather late on Friday (almost at midnight) and were met by Andy at the entrance from the main road. He welcomed us with a huge smile and indicated where we had to go and park our car and then showed Marta and me to where we would stay this weekend – the yurt.
 
 Then he and Patrick disappeared into the darkness in the direction of what was described ‘the lower field’ where his huge group tarp was located - it was drizzling a bit and Patrick decided to make it his home.
 

@@ -43,7 +43,7 @@ Also have a look on our [FAQ](#faq-on-down-jackets) to learn more about down jac
           <td><a href="http://amzn.to/2doK4aj" target="_blank" rel="nofollow">Mountain Hardware Ghost Whisperer Hooded Down Jacket (800 fill)</a></td><td>212 grams / 7.5 oz.</td>
         </tr>
        <tr>
-          <td><a href="http://amzn.to/2doJmJP" target="_blank" rel="nofollow">Arcteryx Cerium LT Hoody (850 fill)</a></td><td>275 grams / 9.7 oz. </td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https:%2F%2Fwww.rei.com%2Fproduct%2F117169%2Farcteryx-cerium-lt-down-hoodie-mens" target="_blank" rel="nofollow">Arcteryx Cerium LT Hoody (850 fill)</a></td><td>275 grams / 9.7 oz. </td>
         </tr>
        <tr>
           <td><a href="http://amzn.to/2e9vgxz" target="_blank" rel="nofollow">Ran Zero G (1000 fill)</a></td><td>310 grams / 11 oz.</td>
@@ -102,6 +102,8 @@ This jacket is similar to the Arc’teryx Cerium LT Jacket but just with an addi
 We would pick the Cerium LT Hoody if we would have to choose a down jacket for moderate winter or for camping during spring and autumn.
 
 LT stands for lightweight in the Arc’teryx product line.
+
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https:%2F%2Fwww.rei.com%2Fproduct%2F117169%2Farcteryx-cerium-lt-down-hoodie-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arc'teryx Cerium LT</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https:%2F%2Fwww.rei.com%2Fproduct%2F117255%2Farcteryx-cerium-lt-down-hoodie-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Arc'teryx Cerium LT</a>
 
 <a href="http://amzn.to/2doJmJP" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
