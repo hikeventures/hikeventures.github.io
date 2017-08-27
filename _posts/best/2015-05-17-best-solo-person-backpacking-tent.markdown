@@ -28,34 +28,34 @@ In this blog post I have [selected](#the-best-solo-person-tents-of-2017) the bes
 
         <tbody>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#UltaMid" target="_blank" rel="nofollow">Hyperlite Mountain Gear UltaMid 2</a></td><td>499 grams / 17.6 oz.</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fhyperlite-mountain-gear-ultamid-2" target="_blank" rel="nofollow">Hyperlite Mountain Gear UltaMid 2</a></td><td>499 grams / 17.6 oz.</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2eTL32m" target="_blank" rel="nofollow">Fly Creek HV UL1</a></td><td>935 grams / 33 oz.</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Big-Agnes-Fly-Creek-HV-UL1-Tent_10333604_10208_10000001_-1_%3Firgwc%3D1%26utm_medium%3DAffiliate%26utm_source%3DAL%26utm_campaign%3D125311%26cm_mmc%3DAffiliate-_-AvantLink-_-na-_-125311%26ad_id%3DAvant%26avad%3D150351_af5f9c25" target="_blank" rel="nofollow">Fly Creek HV UL1</a></td><td>935 grams / 33 oz.</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2ea6rBS" target="_blank" rel="nofollow">Hilleberg Enan</a></td><td>1100 grams / 38.8 oz.</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Enan-1-Person-Tent_10338612_10208_10000001_-1" target="_blank" rel="nofollow">Hilleberg Enan</a></td><td>1100 grams / 38.8 oz.</td>
         </tr>
           <tr>
-            <td><a href="http://amzn.to/2eTNt0P" target="_blank" rel="nofollow">MSR Hubba NX</a></td><td>1290 grams / 45.5 oz.</td>
+            <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F863076%2Fmsr-hubba-hubba-nx-2-person-tent" target="_blank" rel="nofollow">MSR Hubba NX</a></td><td>1290 grams / 45.5 oz.</td>
           </tr>
           <tr>
-            <td><a href="http://amzn.to/2e3enRM" target="_blank" rel="nofollow">Marmot Force UL 2P</a></td><td>1320 grams / 46.6 oz.</td>
+            <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Marmot-Force-2P-Tent_10331516_10208_10000001_-1" target="_blank" rel="nofollow">Marmot Force UL 2P</a></td><td>1320 grams / 46.6 oz.</td>
           </tr>
           <tr>
             <td><a href="http://amzn.to/2euL9cG" target="_blank" rel="nofollow">Hilleberg Akto</a></td><td>1700 grams / 60 oz.</td>
           </tr>
           <tr>
-            <td><a href="http://amzn.to/2e3bd0i" target="_blank" rel="nofollow">Hilleberg Niak</a></td><td>1700 grams / 60 oz.</td>
+            <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Niak-2-Person-Tent_10338618_10208_10000001_-1" target="_blank" rel="nofollow">Hilleberg Niak</a></td><td>1700 grams / 60 oz.</td>
           </tr>
           <tr>
-            <td><a href="http://amzn.to/2toS0eI" target="_blank" rel="nofollow">Hilleberg Unna</a></td><td>2200 grams / 77.6 oz.</td>
+            <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Unna-1-Person-Tent_10101489_10208_10000001_-1_" target="_blank" rel="nofollow">Hilleberg Unna</a></td><td>2200 grams / 77.6 oz.</td>
           </tr>
           <tr>
-            <td><a href="http://amzn.to/2e3bf89" target="_blank" rel="nofollow">Hilleberg Soulo</a></td><td>2400 grams / 84.7 oz.</td>
+            <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Soulo-1-Person-Tent_10101479_10208_10000001_-1" target="_blank" rel="nofollow">Hilleberg Soulo</a></td><td>2400 grams / 84.7 oz.</td>
           </tr>
           <tr>
-            <td><a href="http://amzn.to/2e8sRRw" target="_blank" rel="nofollow">Hilleberg Nallo</a></td><td>2400 grams / 84.7 oz.</td>
+            <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Enan-1-Person-Tent_10338612_10208_10000001_-1_" target="_blank" rel="nofollow">Hilleberg Nallo</a></td><td>2400 grams / 84.7 oz.</td>
           </tr>
 </tbody>
 </table>
@@ -79,7 +79,7 @@ The Big Agnes Fly Creek HV UL1 is a 1-person and 3-season tent.
 
 The Big Agnes Fly Creek HV UL1 is a new product in the Big Agnes Ultralight tent range. It is a bit longer and taller than the Hilleberg Enan but has a smaller vestibule. Fly and floor have 1200 mm waterproof polyurethane coating.
 
-<a href="http://amzn.to/2sbCsPq" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Big-Agnes-Fly-Creek-HV-UL1-Tent_10333604_10208_10000001_-1_%3Firgwc%3D1%26utm_medium%3DAffiliate%26utm_source%3DAL%26utm_campaign%3D125311%26cm_mmc%3DAffiliate-_-AvantLink-_-na-_-125311%26ad_id%3DAvant%26avad%3D150351_af5f9c25" rel="nofollow" class="btn btn-danger" role="button">See the Big Agnes Fly Creek HV UL1</a>
 
 <hr>
 
@@ -105,7 +105,7 @@ However, condensation might be an issue with this tent which is, of course, bad 
 
 Another reason why I would opt for a bigger tent like the Hilleberg Nallo 2 rather than the Hilleberg Soulo if you need a 4-season tent is that it’s less likely that your sleeping bag touches the inner tent if you have a longer and wider tent.
 
-<a href="http://amzn.to/2r2dlKA" rel="nofollow" target="_blank"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Akto-1-Person-Tent_10101417_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Big Agnes Fly Creek HV UL1</a>
 
 <hr>
 
@@ -129,7 +129,7 @@ This type of tent is suitable for a fast pack and go. If you are more into base 
 
 The Enan has a mesh on one end which should provide excellent ventilation if pitched in wind direction.
 
-<a href="http://amzn.to/2r2Fcu5" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Enan-1-Person-Tent_10338612_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Big Agnes Fly Creek HV UL1</a>
 
 <hr>
 
@@ -151,7 +151,7 @@ The Hilleberg Nallo is probably the best choice if you want a 4-season tent whic
 
 If you don’t need a freestanding tent and want the best weight/space ratio 4-season tent, then you should pick the Hilleberg Nallo.
 
-<a href="http://amzn.to/2s4mYM1" rel="nofollow" target="_blank"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Enan-1-Person-Tent_10338612_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Big Agnes Fly Creek HV UL1</a>
 
 <hr>
 
@@ -175,7 +175,7 @@ If you need a spacious solo 3-season tent than the Hilleberg Niak, 1.5 could be 
 
 Alternatively, I would choose the MSR Hubba Hubba NX which is also less pricey and offers slightly more room.
 
-<a href="http://amzn.to/2sblAID" rel="nofollow" target="_blank"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Niak-2-Person-Tent_10338618_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Big Agnes Fly Creek HV UL1</a>
 
 <hr>
 
@@ -205,7 +205,7 @@ I would choose the MSR Hubba NX or the MSR Hubba Hubba NX (2-person tent) if you
 
 If you don’t plan to do winter camping, then the Hilleberg Soulo is probably going to be too much tent for your needs.
 
-<a href="http://amzn.to/2sbicNO" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Soulo-1-Person-Tent_10101479_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Big Agnes Fly Creek HV UL1</a>
 
 <hr>
 
@@ -224,7 +224,7 @@ It’s a 4 season self-standing solo tent which comes with a big panorama window
 
 You can also purchase the Hilleberg Inner Mesh tent which provides better air circulation and can be used without the outer tent.
 
-<a href="http://amzn.to/2toS0eI" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Unna-1-Person-Tent_10101489_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Big Agnes Fly Creek HV UL1</a>
 
 <hr>
 
@@ -244,7 +244,7 @@ The UltaMid 2 is an ultralight tent which is supposed to work well in bad weathe
 
 There were 2 of those Ultra-Mids on this event. The only issue I have with the white cuben fiber fabric is that it might lose its shiny white color after a while. That’s the reason why I ordered my Hyperlite Mountain Gear Porter 4400 backpack a few years ago in black.
 
-<a href="/deals/#UltaMid" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fhyperlite-mountain-gear-ultamid-2" rel="nofollow" class="btn btn-danger" role="button">See the Big Agnes Fly Creek HV UL1</a>
 
 ## Marmot Force UL 2P
 
@@ -263,7 +263,7 @@ As the tent has a rather thin floor, I would also get a tent footprint with this
 
 I have used the Marmot Force UL 2P on my trips in Finnish Lapland and Norway. Marmot provided us the tent for testing.
 
-<a href="/deals/" target="_blank"><button type="button" class="btn btn-danger">Check for Discounts</button></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Marmot-Force-2P-Tent_10331516_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Big Agnes Fly Creek HV UL1</a>
 
 <hr>
 
@@ -281,7 +281,7 @@ The MSR Hubba NX is also a great 3-season tent and costs much less than the Hill
 
 However, the Hilleberg has a stronger floor material (50D). If you are low on budget, then the MSR Hubba would be our pick. If you want a freestanding 4-season tent, then go for the Hilleberg Soulo.
 
-<a href="http://amzn.to/2s4Lmx2" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F863076%2Fmsr-hubba-hubba-nx-2-person-tent" rel="nofollow" class="btn btn-danger" role="button">See the Big Agnes Fly Creek HV UL1</a>
 
 ## Accessories
 
