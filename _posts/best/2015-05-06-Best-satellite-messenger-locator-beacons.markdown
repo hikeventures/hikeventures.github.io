@@ -12,7 +12,7 @@ tags:
 layout: post
 ---
 
-In this blog post I would like to give you an [overview](#best-satellite-gps-messengers-for-2017) of the best satellite messengers for 2017 - 2018 (also called GPS Tracker or Personal Locator Beacon) which I would consider to carry on my next hiking or backpacking trip.
+In this blog post, I would like to give you an overview of the best satellite messengers for 2017 - 2018 (also called GPS Tracker or Personal Locator Beacon) which I would consider to carry on my next hiking or backpacking trip.
 
 Satellite messengers are especially important if you plan to hike in a location without phone reception.
 
@@ -89,7 +89,7 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 * Messages can also be sent with the phone by using the Earthmate app.
 * Subscription needed
 * Route tracking
-* Battery lasts for 100 hours with 10 min tracking intervall
+* Battery lasts for 100 hours with 10 min tracking interval
 * Waterproof
 * Post to Social Media
 * Trips can be shared via the <a href="https://explore.delorme.com">Explore web portal</a>
@@ -118,11 +118,11 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 
 ## Conclusion
 
-With a Satellite Messenger you can also inform your family and friends about your current location and that everything is fine with you so they don’t have to worry.
+With a Satellite Messenger, you can also inform your family and friends about your current location and that everything is fine with you so they don’t have to worry.
 
-Here an example: I have been once to the [Sarek National park in Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) where I didn’t have phone reception and on this trip I decided that we will definitely take a satellite messenger with me if I would ever go there again in the future.
+Here an example: I have been once to the [Sarek National park in Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) where I didn’t have phone reception and on this trip, I decided that we will definitely take a satellite messenger with me if I would ever go there again in the future.
 
-It can take up to 2-3 days to get out of the National Park and in case of an emergency it might be quite hard to find help as you may only see 2 other hikers a day if at all.
+It can take up to 2-3 days to get out of the National Park and in case of an emergency, it might be quite hard to find help as you may only see 2 other hikers a day if at all.
 
 Fortunately, I was not in need to make an emergency call yet. While it’s possible to send text messages with the devices from DeLorme and SPOT you may use ACR only to send a rescue signal (also called Personal Locator Beacon).
 
