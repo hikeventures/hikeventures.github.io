@@ -293,7 +293,7 @@ The MPOWERD Luci Outdoor is probably one of the best products you can take on yo
 
 You charge the lamp during your hike. Once it gets dark, you inflate Luci, and you have plenty of light. Read also our review.
 
-<a href="https://www.amazon.com/gp/product/B00F5TI7C4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F5TI7C4&linkCode=as2&tag=hikeve-20&linkId=be7820944e18e0c7737d7145427544ee" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F100705%2Fmpowerd-luci-original-inflatable-solar-lantern" rel="nofollow" class="btn btn-danger" role="button">See the MPOWERD Luci</a>
 
 <hr>
 
@@ -303,7 +303,7 @@ You charge the lamp during your hike. Once it gets dark, you inflate Luci, and y
 
 The MSR Carbon Stake Kit is one of my favorite accessories. You can save quite some weight with those pegs as each of them weights only 6 grams.
 
-<a href="https://www.amazon.com/gp/product/B006ZJI83Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006ZJI83Q&linkCode=as2&tag=hikeve-20&linkId=598e157cf73c25ba8ba048edb6335843" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F831460%2Fmsr-carbon-core-tent-stakes-4-pack" rel="nofollow" class="btn btn-danger" role="button">See the MSR Carbon Stake Kit</a>
 
 <hr>
 
@@ -315,7 +315,7 @@ Usually, I stuff my tent into a compression sack to get more space in my backpac
 
 The Sea to Summit Ultra-Sil eVENT Compression Dry Sack is currently my favorite compression sack.
 
-<a href="https://www.amazon.com/gp/product/B00SUDY9EM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SUDY9EM&linkCode=as2&tag=hikeve-20&linkId=16d737f5ad282e8329e468a92146474a" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F867058%2Fsea-to-summit-ultra-sil-compression-dry-sack" rel="nofollow" class="btn btn-danger" role="button">See the Sea to Summit Dry Sack</a>
 
 <hr>
 
