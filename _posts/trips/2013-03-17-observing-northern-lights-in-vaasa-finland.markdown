@@ -13,12 +13,8 @@ image: http://farm9.staticflickr.com/8237/8566804142_5e07258bbc_c.jpg
 Northern Lights are caused by the collision of energetic charged particles with atoms in the high altitude atmosphere. The auroral zone is typically 10&#176; to 20&#176; from the magnetic pole defined by the axis of the Earth's magnetic dipole. Aurora borealis are named after the Roman goddess of dawn, Aurora, and the Greek name for the north wind, Boreas, by Pierre Gassendi in 1621. Aalto University in Helsinki has also published a [study][1] of aurora related sound and electric field effects. 2013 seems to be a great year to observe Northern Lights in Finland.
 
 <amp-img src="http://farm9.staticflickr.com/8237/8566804142_5e07258bbc_c.jpg" width="800" height="445" alt="Observing Northern Lights in Vaasa" layout="responsive"></amp-img>
-
+<br>
 <!--more-->
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 [![Northern Lights in Finland][image-2]][3]
 
@@ -51,3 +47,5 @@ Unfortunately, northern lights are not that common in Vaasa and there also needs
 [image-5]:	http://farm9.staticflickr.com/8377/8566803036_b30f4a6acb_c.jpg "Northern Lights Aurora Borealis in Vaasa - Arctic Circle"
 [image-6]:	http://farm9.staticflickr.com/8385/8566801716_307caa97ac_c.jpg "Northern Lights Aurora Borealis in Vaasa - Arctic Circle"
 [image-7]:	http://farm9.staticflickr.com/8241/8565706103_4dc9a82004_c.jpg "Northern Lights Aurora Borealis in Vaasa - Arctic Circle"
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

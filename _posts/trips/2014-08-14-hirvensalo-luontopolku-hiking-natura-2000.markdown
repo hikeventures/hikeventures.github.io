@@ -17,9 +17,7 @@ Today, I went for an evening hike along the luontopolku in Friskala (Turku) whic
 <amp-img src="https://farm4.staticflickr.com/3868/14894433696_16fca2d0df_c.jpg" width="476" height="635" alt="Evening hike in Friskala Hirvensalo Luontopolku" layout="responsive"></amp-img>
 <br>
 <!--more-->
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 <a href="https://www.flickr.com/photos/90204224@N07/14894433696"><img src="https://farm4.staticflickr.com/3868/14894433696_16fca2d0df_c.jpg" width="600" height="800" alt="Evening hike in Friskala Hirvensalo Luontopolku"></a>
 
 <a href="https://www.flickr.com/photos/90204224@N07/14732287647"><img src="https://farm4.staticflickr.com/3851/14732287647_8a745bef57_c.jpg" width="800" height="485" alt="Evening hike in Friskala Hirvensalo Luontopolku"></a>
@@ -58,3 +56,6 @@ Today, I went for an evening hike along the luontopolku in Friskala (Turku) whic
 
 ##Link
 <a href="http://ec.europa.eu/environment/nature/natura2000/index_en.htm" target="_blank">Natura 2000 network</a>
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

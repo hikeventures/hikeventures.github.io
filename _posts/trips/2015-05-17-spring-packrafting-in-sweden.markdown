@@ -18,8 +18,7 @@ As the next Swedish Packrafting Gathering is going to take place in just over on
 
 <br>
 <!--more-->
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 <amp-img src="https://farm2.staticflickr.com/1443/25644251223_332a48070a_b.jpg" width="100%" alt="Snowshoeing and Cross-Country Skiing in Finnish Lapland - Finland" layout="responsive"></amp-img>
 
 Jacob (Urbanpackrafter.com) and I arrived at the rendez-vous place in the deep darkness after midnight. We were greeted by Henrik (The Deliverance Team) and the guys who had already settled in the open shelter (where we also joined them). All five of us sleeping side by side, I was happy brought earplugs
@@ -53,3 +52,6 @@ Time with the locals. If the 'authenticity of the experience' and the 'local per
 A spot of colour on a Swedish river. This is Jacob <a href="http://urbanpackrafter.com/">urbanpackrafter</a>, who, like me, seems to like a bit of colour when it comes to packrafting. He has a bright yellow paddle and a red YukonYak. Even his drysuit matches the boat. I, myself, might have a black drysuit, but my packraft is yellow. Which, incidentally, got me a nickname of Mr Chiquita from the local Team 'Green'. And you know what? - I am ok with that. Because I know that they are not 'mature' enough (pun intended 😜)
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25679022414/in/datetaken-public/" title="First Swedish Packrafting Meeting"><img src="https://farm2.staticflickr.com/1525/25679022414_63fa0a3b40_b.jpg" alt="Alpacka Raft - HMG Porter 4400 - Urbanpackrafter" width="100%" alt="First Swedish Packrafting Meeting"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

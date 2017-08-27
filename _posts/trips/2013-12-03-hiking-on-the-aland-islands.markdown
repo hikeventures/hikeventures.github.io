@@ -15,9 +15,7 @@ This weekend I went to K&ouml;kar, a Swedish speaking municipality with a popula
 <amp-img src="https://farm9.staticflickr.com/8479/8197716534_ab72b864df_h.jpg" width="1600" height="1067" alt="Hiking on the Åland Islands" layout="responsive"></amp-img>
 <br>
 <!--more-->
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 The &Aring;land Islands are part of the Finnish Archipelago and are one of the most popular sailing places of the Northern countries. There is also a ferry connection ([Viking Line][1] and [TallinkSilja][2]) from Turku and Stockholm connecting the &Aring;land Islands  (via Mariehamn)  to the main land. The majority of the population speaks Swedish as their native language.
 
 ## Transportation
@@ -149,6 +147,9 @@ The Aland Islands are great for hiking and cycling. It's also not too demanding 
 ## Links
 <a href="http://www.kokar.ax/en" target="_new">K&ouml;kar</a><br>
 <a href="http://www.nationalparks.fi/hikinginfinland/wheretogo/thearchipelagos" target="_new">Archipelago National Park on Outdoors.fi</a>
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 
 [1]:	http://www.vikingline.com
 [2]:	http://www.tallinksilja.com

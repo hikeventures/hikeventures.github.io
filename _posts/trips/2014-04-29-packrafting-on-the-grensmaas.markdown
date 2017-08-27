@@ -16,9 +16,7 @@ Since a couple of weeks we were thinking of possibilities to go packrafting in t
 <amp-img src="https://farm8.staticflickr.com/7183/14060723924_5bb0187f51_b.jpg" width="1024" height="683" alt="Packrafting Grensmaas alpacka raft belgium netherlands holland river" layout="responsive"></amp-img>
 <br>
 <!--more-->
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 <a href="https://www.flickr.com/photos/90204224@N07/14060618024" title="1"><img src="https://farm8.staticflickr.com/7322/14060618024_a6418808b8_b.jpg" width="1024" height="683"  alt="Packrafting Grensmaas alpacka raft belgium netherlands holland river"></a>
 <figcaption><br>Preparing the Packraft and charging our <a href="http://hikeventures.com/solarmonkey-adventurer/" target="_self">solar panel battery</a></figcaption>
 <br>
@@ -148,3 +146,5 @@ After we packed our packrafts and gear we walked around in Grevenbicht. The peop
 <a href="http://www.movescount.com/moves/move29413524" target="_blank">GPS Data day 1</a>
 <br>
 <a href="http://www.movescount.com/moves/move29413527" target="_blank">GPS Data day 2</a>
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

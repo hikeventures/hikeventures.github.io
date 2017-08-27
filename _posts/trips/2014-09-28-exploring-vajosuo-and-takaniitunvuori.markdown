@@ -14,11 +14,9 @@ image: https://farm3.staticflickr.com/2941/15376364205_12fb4cc083_b.jpg
 Saturday I went out to the woods again to explore other parts of the Kurjenrahka National Park nearby Turku where [I went](http://hikeventures.com/autumn-colors-around-lake-savojarvi/) already 2 weeks ago for a hiking trip. First, I explored the bird tower at Vajosuo and then I went to Takaniitunvuori which is located west to Savojärvi.
 
 <amp-img src="https://farm3.staticflickr.com/2941/15376364205_12fb4cc083_b.jpg" width="952" width="635" alt="Kurjenrahka National Park" layout="responsive"></amp-img>
-
 <br>
 <!--more-->
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 I started the first part of my hike in Vajsuo.
 
 [![Kurjenrahka National Park](https://farm4.staticflickr.com/3927/15189720557_85be1cf084_b.jpg)](https://www.flickr.com/photos/90204224@N07/15189720557 "Kurjenrahka National Park Vajosuo and Takaniitunvuori information board entrance")
@@ -166,3 +164,6 @@ Then I found an area covered with little rocks.
 [![Kurjenrahka National Park](https://farm4.staticflickr.com/3895/15189729870_f2726d3bc6_b.jpg)](https://www.flickr.com/photos/90204224@N07/15189729870 "Kurjenrahka National Park Vajosuo and Takaniitunvuori")
 
 And finally reach Pukkipalo where I parked my car. Below the map with the second part of my hike from Pukkipalo to Takaniitunvuori.
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

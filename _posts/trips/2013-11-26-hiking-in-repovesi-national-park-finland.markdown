@@ -19,9 +19,7 @@ Repovesi National Park is Southern Finland's most popular hiking destination and
 This is the main entrance to Repovesi National Park. We actually left the park from here as we went to far with the bus and entered the National Park from another spot.
 <br>
 <!--more-->
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 <a href="https://www.flickr.com/photos/90204224@N07/8198639492" title="Blueberries from Repovesi National Park"><img src="https://farm9.staticflickr.com/8488/8198639492_5cd3f6b50e_h.jpg" width="1600" height="1067" alt="Blueberries from Repovesi National Park in Finland"></a>
 
 View from Murjanvuori.
@@ -71,6 +69,8 @@ There are also plenty of refuges in Repovesi. We had a break at this one before 
 
 In my opinion, Repovesi National Park is more enjoyable than <a href="http://hikeventures.com/hiking-in-nuuksio-national-park-finland/" target="_self">Nuuksio</a>  and it is less crowded too. On the way back to Kouvola we hitchhiked and someone picked us up just after 10 minutes standing on the road. Repovesi National Park is definitely worth a visit.
 
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 
 [1]:	http://palanenkaakkua.blogspot.com/2014/09/sunnuntai-ja-repovesi.html
 [2]:	http://jantskunblogi.blogspot.com/2014/08/repovesi.html

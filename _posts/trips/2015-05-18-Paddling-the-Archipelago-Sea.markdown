@@ -17,8 +17,7 @@ The Archipelago Sea around Turku is a great place to go Packrafting, Kayaking or
 
 <br>
 <!--more-->
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 ## Trip 1 - Spring
 On my first trip in spring I decided to take my packraft and to paddle around Kulho - an island in the Archipelago Sea which is located next to the island where I am living. The Archipelago Sea contains the largest island group in the world by the number of islands. I have also been [hiking on the Aland Islands][2] 2 years ago which is also part of the Archipelago Sea.
 
@@ -313,3 +312,5 @@ If you are excited about packrafting you may also watch my [video][36] about win
 [image-48]:	https://farm1.staticflickr.com/768/22773235853_228edcf94a_b.jpg "Packrafting Turku Archipelago Winter Paddling Storm rough sea"
 [image-49]:	https://farm1.staticflickr.com/649/23104640200_249fd97577_b.jpg "Packrafting Turku Archipelago Winter Paddling Werner Shuna"
 [image-50]:	https://farm1.staticflickr.com/624/23032450729_6a9aee0b11_b.jpg "Packrafting Turku Archipelago Winter Paddling"
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

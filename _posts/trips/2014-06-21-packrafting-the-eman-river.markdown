@@ -17,8 +17,7 @@ One week ago we went to a packrafting trip on the Emån River which is located i
 <amp-img src="https://farm4.staticflickr.com/3907/14281650547_4ee73fde90_b.jpg" width="1024" height="683" alt="Packrafting Eman River Sweden alpacka raft werner shuna paddle petzl meteor helmet" layout="responsive"></amp-img>
 <br>
 <!--more-->
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 In Högsby we inflated our Packrafts. Unfortunately, it was raining the whole morning but once we were in the Packraft it was fine.
 
 <a href="https://www.flickr.com/photos/90204224@N07/14466441174/" ><img src="https://farm6.staticflickr.com/5476/14466441174_82e06de31d_b.jpg" width="1024" height="683" alt="Packrafting Eman River Sweden alpacka raft werner shuna paddle hmg porter 4400"></a>
@@ -124,3 +123,6 @@ In general, the route seems to be manageable also for "experienced beginners" if
 <a href="http://www.movescount.com/moves/move33882499" target="_blank">GPS Data Day 1</a>
 <a href="http://www.movescount.com/moves/move33882509" target="_blank">GPS Data Day 2</a>
 <a href="http://kanot.info/kartor.htm" target="_blank">Detailed route description and map</a>
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

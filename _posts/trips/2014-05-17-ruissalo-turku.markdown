@@ -16,9 +16,7 @@ Today, I went on a day trip to Ruissalo. Ruissalo is the recreational island of 
 <amp-img src="https://farm3.staticflickr.com/2911/14182682836_31b308a3cb_b.jpg" width="1024" height="683" alt="Hiking Ruissalo Turku" layout="responsive"></amp-img>
 <br>
 <!--more-->
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 <a href="https://www.flickr.com/photos/90204224@N07/14018949740" title="Cycling Ruissalo Turku"><img src="https://farm3.staticflickr.com/2920/14018949740_14df9e2b11_b.jpg" width="1024" height="683" alt="Ruissalo Turku"></a><br>
 On my trip I saw migrating birds.
 <br><br>
@@ -76,3 +74,6 @@ Seems that even elks like Ruissalo.<br><br><a href="https://www.flickr.com/photo
 Golfing is possible in Ruissalo as well.
 <br><br>
 Ruissalo is a nice island very close to the city of Turku. There are also plenty of events throughout the year and it's also great for outdoors activities like going jogging along the shore of the island.
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

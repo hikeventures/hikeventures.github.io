@@ -18,9 +18,7 @@ Today I went hiking to the Kurjenrahka National Park in Finland which is located
 <amp-img src="https://farm4.staticflickr.com/3900/15030582219_51eee48e66_b.jpg" width="952" width="635" alt="Kurjenrahka National Park" layout="responsive"></amp-img>
 <br>
 <!--more-->
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 I parked my car at Kurjenpesä where I found an information board about the National Park.
 
 <a href="https://www.flickr.com/photos/90204224@N07/15030711029" ><img src="https://farm4.staticflickr.com/3914/15030711029_76a7ec385a_b.jpg" width="1024" height="683" alt="backpacking in Kurjenrahka National Park" ></a>
@@ -100,3 +98,6 @@ Again, well marked trails.
 Finally, I found the ultimate mushroom spot on the whole trail.
 
 To sum up, this was a great hike and I will come back another time in order to explore the Takaniitunvuori outlook and Vajosuo. <a href="http://www.hikeventures.com/autumn-colors-around-lake-savojarvi/">2 years</a> later I went for another hike to Kujenrahka National Park.
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

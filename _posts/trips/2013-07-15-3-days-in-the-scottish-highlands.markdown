@@ -16,9 +16,7 @@ The Scottish Highlands are a perfect destination for those who like hiking. In o
 <amp-img src="http://farm4.staticflickr.com/3669/9293661119_a6b0b3aae1_c.jpg" width="800" height="393" alt="cycling in the Scottish Highands Loch Ericht" layout="responsive"></amp-img>
 <br>  
 <!--more-->
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 It's about 20km from Dalwhinnie to the shelter ( so called bothy) which is access point to the local hills. As we discovered later on Scottish walking that distance find a bit waste of time. What's wrong in riding long kilometers on a mountain bike?
 
 Once we have passed Ben Alder Lodge we were 2km from the shelter. That's where you turn into forest as the path along the lake is not public anymore.
@@ -60,3 +58,5 @@ Nothing more to say than THANK YOU SCOTLAND FOR PROVIDING US SUNNY WEATHER AND T
 
 ## Links
 Our location in the <a href="http://www.climbthemunros.co.uk/munro_os_map.php?lat=56.8138&long=-4.4651" target="_blank">Scottish Highlands</a> on the map.
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

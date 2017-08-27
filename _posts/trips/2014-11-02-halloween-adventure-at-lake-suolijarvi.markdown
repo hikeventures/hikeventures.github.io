@@ -18,8 +18,7 @@ This Halloween, we decided to go to Lake Suolijärvi nearby Hyvinkää in Finlan
 
 <br>
 <!--more-->
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 ## 1. Kytäjärvi to Iso-Haiskari
 We started our trip from the car park next to lake Kytäjärvi, crossed it via the dam and followed the trail while passing by horse stables and farms. After a hike of 3 km we arrived in our first camp Iso-Haiskari.
 
@@ -154,6 +153,9 @@ The short hike was quite nice as there was almost a full moon on the sky and the
 <a href="https://www.flickr.com/photos/90204224@N07/15503806467"><img src="https://farm4.staticflickr.com/3956/15503806467_d082d8422a_b.jpg" width="1024" height="495" alt="Kytäjärvi"></a>
 
 Lake Suolijärvi is a nice place for a hike. The are is not just plain flat and the shelters are very well maintained even so it's not an official national park.
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 
 [1]:	http://avisuora.wordpress.com/2014/10/13/verlan-syysmelonta-11-12-10-2014-ja-ahnas-maa-filmi/
 [2]:	https://sites.google.com/site/sveitsikytajahanke/alueen-nykyiset-palvelut/tulipaikat-ja-laavut

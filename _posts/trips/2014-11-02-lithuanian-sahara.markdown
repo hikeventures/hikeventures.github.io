@@ -16,8 +16,7 @@ Located on the Curonian Spit, Kuršių Nerija National Park is truly a very spec
 
 <br>
 <!--more-->
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 Even though there are just a few officially designated tracks, there are numerous paths along the coast, though the dunes, and in the forest which are great for walking and cycling. But please remember that the excitement of visiting this easily reachable destination comes from the stunning landscape, rather than from bloodcurdling altitudes or encountering dangerous wild animals.
 In 2000, the area was added to the UNESCO World Heritage List because of its unique ecosystem of the coastal “moving dunes”. The impressive landscape is constantly changing as the strong winds move sand in all directions creating new formations. This ever-changing landscape dates back to the XVI century when the process of cutting trees started. When the trees were removed, the bare sand hills became sensitive to the wind (and as we have experienced it can be a very windy place indeed), so, now, some dunes move up to 20 meters each year.<br><br>
 
@@ -40,3 +39,6 @@ As it was really windy, we were happy that we had our [rain sleeves](http://amzn
 The warmth of the water in the Baltic Sea is a very subjective matter: if the water is below 16°C, I prefer to enjoy the sea just by looking at it; there were a few daredevils, however, who went for a swim. <br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/15695602532"><img src="https://farm4.staticflickr.com/3941/15695602532_65a9638ddb_b.jpg" width="1024" height="680" alt="Kuršių Nerija National Park"></a><br>
 A few thousand years old spit may one day disappear, as the land is not very broad and the Baltic Sea is constantly encroaching on it. So perhaps, if you want to enjoy the sea and the sand of the Lithuanian Sahara, you should hurry with your vacation there. For more information about the park you can check <a href="http://www.nerija.lt/en">here</a>.
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

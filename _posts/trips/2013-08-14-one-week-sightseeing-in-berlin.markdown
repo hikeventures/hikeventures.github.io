@@ -15,9 +15,6 @@ I have tried to visit the best sights in Berlin during my week in the capital of
 <amp-img src="https://farm3.staticflickr.com/2820/9511042166_31aed61783_b.jpg" width="1024" height="683" alt="Sightseeing Berlin" layout="responsive"></amp-img>
 <br>
 <!--more-->
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 <a href="http://www.flickr.com/photos/90204224@N07/9508270979/"><img src="http://farm6.staticflickr.com/5340/9508270979_f7cf104e14_c.jpg" width="1150" alt="Tourism Berlin"></a>
 
 Weltzeituhr Alexanderplatz
@@ -160,3 +157,5 @@ Russian war memorial - Treptow park
 <a href="http://www.flickr.com/photos/90204224@N07/9511039272/"><img src="http://farm8.staticflickr.com/7348/9511039272_d0414b2998_c.jpg" width="1150" alt="Berlin"></a>
 
 Berlin was really worth to visit for sightseeing. Plenty of restaurants, museums and entertainment keeps you busy well over a week. Berlin is also a quite international city even though you can find it hard to find signs in English when using public transportation.
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

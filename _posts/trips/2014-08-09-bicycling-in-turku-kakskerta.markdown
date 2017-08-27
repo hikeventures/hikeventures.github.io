@@ -18,9 +18,7 @@ Today, I went for a 2h (30 km) bicycle trip around Kakskerta island in Turku whi
 <amp-img src="https://farm4.staticflickr.com/3909/14845470986_78e1fcc54e_b.jpg" width="1024" height="683" alt="bicycle turku" layout="responsive"></amp-img>
 <br>
 <!--more-->
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 <a href="https://www.flickr.com/photos/90204224@N07/14865737971"><img src="https://farm6.staticflickr.com/5572/14865737971_e6f27164ec_b.jpg" width="1024" height="683" alt="bicycle kakskerta" ></a>
 Getting my Surly bicycle ready ...
 <a href="https://www.flickr.com/photos/90204224@N07/14682286257"><img src="https://farm4.staticflickr.com/3926/14682286257_787dcdcc0b_b.jpg" width="1024" height="683" alt="cycling turku"></a>Kakskerta Information Board
@@ -51,3 +49,6 @@ Quite easy for the postman to distribute letters.
 <a href="https://www.flickr.com/photos/90204224@N07/14682106670"><img src="https://farm4.staticflickr.com/3902/14682106670_5e7a80d313_b.jpg" width="1024" height="683" ></a><a href="http://en.wikipedia.org/wiki/Kakskerta_Church" target="_blank">Kakskerta Church</a><a href="https://www.flickr.com/photos/90204224@N07/14866335234"><img src="https://farm4.staticflickr.com/3910/14866335234_0947635176_b.jpg" width="1024" height="683" ></a><a href="https://www.flickr.com/photos/90204224@N07/14682276967"><img src="https://farm6.staticflickr.com/5553/14682276967_14235b7472_b.jpg" width="1024" height="683" ></a>
 
 It was a nice bicycle ride. There is also a lake - Kakskerranjärvi - where you can have a break and go for a swim. Also you can buy some snacks and drinks in the K-Market just before the Hirvensalo - Kakskerta bridge.
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

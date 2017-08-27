@@ -17,9 +17,7 @@ This weekend I took my bicycle and cycled 25 km around lake Tuusula. The route i
 <amp-img src="https://farm3.staticflickr.com/2915/14623880836_d06811e68f_b.jpg" width="1024" height="683" alt="Tuusula Lotta Museum sightseeing travel" layout="responsive"></amp-img>
 <br>
 <!--more-->
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 <a href="https://www.flickr.com/photos/90204224@N07/14460129088"><img src="https://farm6.staticflickr.com/5477/14460129088_e728f14293_b.jpg" width="1024" height="683" alt="Tuusula rantatie museums sightseeing">></a>
 
 <a href="https://www.flickr.com/photos/90204224@N07/14460109268"><img src="https://farm4.staticflickr.com/3907/14460109268_d839f95f8d_b.jpg" width="1024" height="683"></a>
@@ -131,3 +129,5 @@ Järvenpää Beach
 
 ## Links
 <a href="http://bit.ly/1jrv34G" target="_blank">Museums in Tuusula</a>
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

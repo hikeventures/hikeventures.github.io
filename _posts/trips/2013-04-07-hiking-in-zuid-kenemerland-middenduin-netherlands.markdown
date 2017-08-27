@@ -15,10 +15,6 @@ Middenduin is a diverse area with forest, open dunes, wooded hills and steep lan
 <br>
 <!--more-->
 
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
-
 <a href="https://www.flickr.com/photos/90204224@N07/8619173205" title="Train Netherlands"><img src="https://farm9.staticflickr.com/8393/8619173205_b796472a66_b.jpg" width="1024" height="683" alt="Train Netherlands"></a>
 
 A typical train in the Netherlands
@@ -78,3 +74,5 @@ Orienteering
 <a href="http://www.np-zuidkennemerland.nl/documents/unieke_natuur/middenduin.xml?lang=nl">Middenduin</a>
 <a href="http://www.ns.nl/en/travellers/home">Trains in the Netherlands</a>
 <a href="http://mapcarta.com/26207692">Map of the area</a>
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

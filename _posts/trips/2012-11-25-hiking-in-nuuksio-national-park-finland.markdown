@@ -14,12 +14,8 @@ image: https://farm9.staticflickr.com/8340/8198203106_c0d6968dc9_b.jpg
 The Nuuksio National Park is located close to Helsinki (1 hour bus trip - 85A from Espoo Centre) and a popular place for people living in Helsinki to get away from the busy city life and enjoy the outdoors and go hiking, camping, packrafing or kayaking. You will find gorges formed by the last ice age, valleys, 43 lakes and hills which are up to 110 meters.
 
 <amp-img src="https://farm9.staticflickr.com/8340/8198203106_c0d6968dc9_b.jpg" width="953" height="636" alt="Nuuksio National Park in Finland" layout="responsive"></amp-img>
-
+<br>
 <!--more-->
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 ## Activities
 Nuuksio National Park is ideal for hiking, cycling or horse riding. The trails are marked and there are also refuges and fire places. You can also go skiing, swimming, packrafting or stroll through the park to pick mushrooms and berries.
@@ -92,5 +88,7 @@ Since the Nuuksio National Park is located nearby Helsinki it is probably the ea
 During the weekends the park is sometimes quite crowded especially around the fire places but you can also hike off the main tracks.
 
 Want to read about our adventure in the Urho Kekkonen National Park? Have a look on our [winter adventure][1] in Finnish Lapland.
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 
 [1]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/ "Urho Kekkonen National Park"
