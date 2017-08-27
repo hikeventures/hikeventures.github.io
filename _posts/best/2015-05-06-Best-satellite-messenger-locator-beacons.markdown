@@ -49,9 +49,8 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
       </tbody>
       </table>
   </div>
-  <br>
-  <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-  <br>
+
+---
 
 ## ACR ResQlink+ 406
 
@@ -136,3 +135,6 @@ Alternatively, you will see from the specifications below that the DeLorme devic
 My personal preference goes towards the <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F119863%2Fgarmin-inreach-explorer-satellite-communicator" target="_blank" rel="nofollow">Garmin InReach Explorer+</a> as it has also messenger function.
 
 If I would not need the messenger and tracking function then I would probably get the <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F843146%2Facr-electronics-resqlink-gps-personal-locator-beacon" target="_blank" rel="nofollow">ACR ResQlink+ 406</a>.
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
