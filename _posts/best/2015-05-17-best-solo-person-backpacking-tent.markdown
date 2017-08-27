@@ -68,14 +68,12 @@ In this blog post I have [selected](#the-best-solo-person-tents-of-2017) the bes
 
 <a  href="http://www.amazon.com/gp/product/B00GSYH1T0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GSYH1T0&linkCode=as2&tag=hikeve-20&linkId=UQ5VQ5S2FSWYOS4K" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GSYH1T0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GSYH1T0" width="1" height="1" border="0" alt="Fly Creek HV UL1" style="border:none !important; margin:0px !important;" />
 
-The Big Agnes Fly Creek HV UL1 is a 1-person and 3-season tent.
-
-**Length**: 218 cm
-**Width**: 71 cm (95cm)
-**Height**: 97 cm
-**Inner Space**: 1.8 m²
-**Vestibule**: 0.45 m²
-**Weight**: 935 grams / 33 oz.
+**Length**: 218 cm  
+**Width**: 71 cm (95cm)  
+**Height**: 97 cm  
+**Inner Space**: 1.8 m²  
+**Vestibule**: 0.45 m²  
+**Weight**: 935 grams / 33 oz.  
 
 The Big Agnes Fly Creek HV UL1 is a new product in the Big Agnes Ultralight tent range. It is a bit longer and taller than the Hilleberg Enan but has a smaller vestibule. Fly and floor have 1200 mm waterproof polyurethane coating.
 
@@ -87,15 +85,13 @@ The Big Agnes Fly Creek HV UL1 is a new product in the Big Agnes Ultralight tent
 
 <a href="http://www.amazon.com/gp/product/B003X2HQPY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003X2HQPY&linkCode=as2&tag=hikeve-20&linkId=FCTXO35WV5CXK5P7" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003X2HQPY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B003X2HQPY" width="1" height="1" border="0" alt="Hilleberg Akto" style="border:none !important; margin:0px !important;" />
 
-The Hilleberg Akto is a 1-person and 4-season tent.
-
-**Length**: 220 cm
-**Width**: 62 cm (90cm)
-**Height**: 93 cm
-**Inner Space**: 1.7 m²
-**Vestibule**: 0.8 m²
-**Weight**: 1700 grams / 60 oz.
-**Fabric**:  Kerlon 1200
+**Length**: 220 cm  
+**Width**: 62 cm (90cm)  
+**Height**: 93 cm  
+**Inner Space**: 1.7 m²  
+**Vestibule**: 0.8 m²  
+**Weight**: 1700 grams / 60 oz.  
+**Fabric**:  Kerlon 1200  
 
 The Hilleberg Akto is the 4-season model of the Hilleberg Enan and more suitable for harsh weather conditions than the Hilleberg Enan.
 
@@ -113,15 +109,13 @@ Another reason why I would opt for a bigger tent like the Hilleberg Nallo 2 rath
 
 <a href="http://www.amazon.com/gp/product/B00UZ8ZNDQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UZ8ZNDQ&linkCode=as2&tag=hikeve-20&linkId=XBQVK7AJ3UD7ESR7" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00UZ8ZNDQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00UZ8ZNDQ" width="1" height="1" border="0" alt="Hilleberg Enan" style="border:none !important; margin:0px !important;" />
 
-The Hilleberg Enan is a 1-person and 3-season tent.
-
-**Length**: 215 cm
-**Width**: 60 cm (95cm)
-**Height**: 95 cm
-**Inner Space**: 1.7 m²
-**Vestibule**: 0.8 m²
-**Weight**: 1100 grams / 38.8 oz.
-**Fabric**:  Kerlon 600
+**Length**: 215 cm  
+**Width**: 60 cm (95cm)  
+**Height**: 95 cm  
+**Inner Space**: 1.7 m²  
+**Vestibule**: 0.8 m²  
+**Weight**: 1100 grams / 38.8 oz.  
+**Fabric**:  Kerlon 600  
 
 The Hilleberg Enan is the ultralight model of the Akto. If you don’t require much space and use your tent only during the warmer months (3-season), then the Hilleberg Enan might be a good option.
 
@@ -137,15 +131,13 @@ The Enan has a mesh on one end which should provide excellent ventilation if pit
 
 <a href="http://www.amazon.com/gp/product/B00LMR6HSO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LMR6HSO&linkCode=as2&tag=hikeve-20&linkId=4YIQPTOP7VXOY4EM"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LMR6HSO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LMR6HSO" width="1" height="1" border="0" alt="Hilleberg Nallo" style="border:none !important; margin:0px !important;" />
 
-The Hilleberg Akto is a 1-person and 4-season tent.
-
-**Length**: 220 cm
-**Width**: 130 cm
-**Height**: 100 cm
-**Inner Space**: 2.8 m²
-**Vestibule**: 1.3 m²
-**Weight**: 2400 grams / 84.7 oz.
-**Fabric**:  Kerlon 1200
+**Length**: 220 cm  
+**Width**: 130 cm  
+**Height**: 100 cm  
+**Inner Space**: 2.8 m²  
+**Vestibule**: 1.3 m²  
+**Weight**: 2400 grams / 84.7 oz.  
+**Fabric**:  Kerlon 1200  
 
 The Hilleberg Nallo is probably the best choice if you want a 4-season tent which offers the most space and a vestibule for the least weight.
 
@@ -159,11 +151,9 @@ If you don’t need a freestanding tent and want the best weight/space ratio 4-s
 
 <a  href="http://www.amazon.com/gp/product/B01AT52A08/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AT52A08&linkCode=as2&tag=hikeve-20&linkId=2JIQ4SO5RH5PZJXL" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01AT52A08&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B01AT52A08" width="1" height="1" border="0" alt="Hilleberg Niak 1.5" style="border:none !important; margin:0px !important;" />
 
-The Hilleberg Niak 1.5 is a freestanding 1-2 person tent for 3-seasons.
-
-**Fabric**: Kerlon 600
-**Weight**: 1700 grams / 60 oz.
-**Area inner tent**: 2.6 m²
+**Fabric**: Kerlon 600  
+**Weight**: 1700 grams / 60 oz.  
+**Area inner tent**: 2.6 m²  
 
 The Hilleberg Niak 1.5 is the latest yellow label tent from Hilleberg.
 
@@ -183,15 +173,13 @@ Alternatively, I would choose the MSR Hubba Hubba NX which is also less pricey a
 
 <a href="http://www.amazon.com/gp/product/B004LAP3G6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004LAP3G6&linkCode=as2&tag=hikeve-20&linkId=4R5WXJMR7LNA2MKY" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004LAP3G6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B004LAP3G6" width="1" height="1" border="0" alt="Hilleberg Soulo" style="border:none !important; margin:0px !important;" />
 
-The Hilleberg Akto is a 1-person and 4-season tent.
-
-**Length**: 220 cm
-**Width**: 105 cm
-**Height**: 95 cm
-**Inner Space**: 2.0 m²
-**Vestibule**: 0.6 m²
-**Weight**: 2400 grams / 84.7 oz.
-**Fabric**:  Kerlon 1200
+**Length**: 220 cm  
+**Width**: 105 cm  
+**Height**: 95 cm  
+**Inner Space**: 2.0 m²  
+**Vestibule**: 0.6 m²  
+**Weight**: 2400 grams / 84.7 oz.  
+**Fabric**:  Kerlon 1200  
 
 The Hilleberg Soulo is a solo expedition tent which works well under very harsh condition.
 
@@ -213,10 +201,10 @@ If you don’t plan to do winter camping, then the Hilleberg Soulo is probably g
 
 <a rel="nofollow" href="https://www.amazon.com/Hilleberg-Unna-Person-Tent-Red/dp/B00IU0UNEA/ref=as_li_ss_il?ie=UTF8&qid=1500068640&sr=8-2-spons&keywords=hilleberg+unna&psc=1&linkCode=li3&tag=hikeve-20&linkId=94c90dacd5388c638f5ac198dc028f25" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00IU0UNEA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00IU0UNEA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Persons**: 1
-**Fabric**: Kerlon 1200
-**Weight**: 2200 grams / 77.6 oz.
-**Area inner tent**: 2.5 m²
+**Persons**: 1  
+**Fabric**: Kerlon 1200  
+**Weight**: 2200 grams / 77.6 oz.  
+**Area inner tent**: 2.5 m²  
 
 If you are taller or if you want more space, then the Hilleberg Unna is probably a better choice than the Soulo.
 
@@ -232,11 +220,11 @@ You can also purchase the Hilleberg Inner Mesh tent which provides better air ci
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26835366172/in/dateposted-public/" title="Hyperlite Mountain Gear Tent &amp; Ultamid Tarp"><img src="https://farm8.staticflickr.com/7432/26835366172_4b9630972f_b.jpg" width="1024" height="723" alt="Hyperlite Mountain Gear Tent HMG &amp; Ultamid Tarp - Best 1-person tent"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-**Length**: 271.8 cm
-**Width**: 210.8 cm
-**Height**: 162.6 cm
-**Weight**: 499 grams / 17.6 oz.
-**Fabric**: Dyneema® (Cuben Fiber)
+**Length**: 271.8 cm  
+**Width**: 210.8 cm  
+**Height**: 162.6 cm  
+**Weight**: 499 grams / 17.6 oz.  
+**Fabric**: Dyneema® (Cuben Fiber)  
 
 If you are looking for a fast and light tent which also protects you from bugs then the Hyperlite Mountain Gear UltaMid 2 could be your choice.
 
@@ -250,12 +238,10 @@ There were 2 of those Ultra-Mids on this event. The only issue I have with the w
 
 <a href="https://www.amazon.com/gp/product/B00M85RDHS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00M85RDHS&linkCode=as2&tag=hikeve-20&linkId=5f772e039fab5f9894178931a800150c" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00M85RDHS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00M85RDHS" width="1" height="1" border="0" alt="Marmot Force UL 2P" style="border:none !important; margin:0px !important;" />
 
-The Marmot Force UL 2P is a freestanding 3-season tent for two persons.
-
-**Persons**: 2
-**Fabric**: 15D ripstop / 20D ripstop (floor)
-**Weight**: 1320 grams / 46.6 oz.
-**Area inner tent**: 2.6 m²
+**Persons**: 2  
+**Fabric**: 15D ripstop / 20D ripstop (floor)  
+**Weight**: 1320 grams / 46.6 oz.  
+**Area inner tent**: 2.6 m²  
 
 Even so, the Marmot Force UL 2P is advertised as a two person tent; I would rather use it as a one person tent.
 
@@ -271,11 +257,9 @@ I have used the Marmot Force UL 2P on my trips in Finnish Lapland and Norway. Ma
 
 <a  href="http://www.amazon.com/gp/product/B00GP11DOK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GP11DOK&linkCode=as2&tag=hikeve-20&linkId=S7HOMFZX4PJW2LDW" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GP11DOK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GP11DOK" width="1" height="1" border="0" alt="MSR Hubba NX" style="border:none !important; margin:0px !important;" />
 
-The MSR Hubba NX is a freestanding 3-season 1-person tent.
-
-**Fabric**: 20D ripstop / 30D ripstop (floor)
-**Weight**: 1290 grams / 45.5 oz.
-**Area inner tent**: 1.67 m²
+**Fabric**: 20D ripstop / 30D ripstop (floor)  
+**Weight**: 1290 grams / 45.5 oz.  
+**Area inner tent**: 1.67 m²  
 
 The MSR Hubba NX is also a great 3-season tent and costs much less than the Hilleberg Niak 1.5.
 
@@ -285,7 +269,7 @@ However, the Hilleberg has a stronger floor material (50D). If you are low on bu
 
 ## Accessories
 
-## MPOWERD Luci Outdoor - Inflatable Solar Light
+### MPOWERD Luci Outdoor - Inflatable Solar Light
 
 <a href="https://www.amazon.com/gp/product/B00F5TI7C4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F5TI7C4&linkCode=as2&tag=hikeve-20&linkId=be7820944e18e0c7737d7145427544ee" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00F5TI7C4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00F5TI7C4" width="1" height="1" border="0" alt="MPOWERD Luci Outdoor" style="border:none !important; margin:0px !important;" />
 
@@ -297,7 +281,7 @@ You charge the lamp during your hike. Once it gets dark, you inflate Luci, and y
 
 <hr>
 
-## MSR Carbon Stake Kit
+### MSR Carbon Stake Kit
 
 <a href="https://www.amazon.com/gp/product/B006ZJI83Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006ZJI83Q&linkCode=as2&tag=hikeve-20&linkId=598e157cf73c25ba8ba048edb6335843" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B006ZJI83Q&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B006ZJI83Q" width="1" height="1" border="0" alt="MSR Carbon Stake Kit" style="border:none !important; margin:0px !important;" />
 
@@ -307,7 +291,7 @@ The MSR Carbon Stake Kit is one of my favorite accessories. You can save quite s
 
 <hr>
 
-## Sea to Summit Ultra-Sil eVent Compression Dry Sack
+### Sea to Summit Ultra-Sil eVent Compression Dry Sack
 
 <a href="https://www.amazon.com/gp/product/B00SUDY9EM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SUDY9EM&linkCode=as2&tag=hikeve-20&linkId=16d737f5ad282e8329e468a92146474a" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00SUDY9EM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00SUDY9EM" width="1" height="1" border="0" alt="Sea to Summit Ultra-Sil eVENT Compression Dry Sack" style="border:none !important; margin:0px !important;" />
 
@@ -364,7 +348,3 @@ After one year we have only got a small hole in the floor, but otherwise, we wer
 Currently, my go-to tent is the <a href="http://amzn.to/2pDaiMo" rel="nofollow">Hilleberg Unna</a> in combination with the [Unna Inner Mesh](http://www.hikeventures.com/Hilleberg-Unna-Mesh/) tent and the [Tarp 10 UL. ](http://www.hikeventures.com/Hilleberg-Tarp-10-UL/)
 
 I chose the Unna since it’s quite versatile, offers plenty of space and of course the big panorama window.
-
----
-
-I hope this blog post was helpful to find the best solo person tent for you.
