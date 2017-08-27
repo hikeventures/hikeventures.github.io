@@ -283,7 +283,7 @@ Fill power indicates the fluffiness of down. The more fluffy the down the less d
 ---
 
 ### How to wash?
-I wash my down jacket by hand. However, you can also gently wash your down jacket in a washing machine.
+I wash my down jacket by hand. However, you can also gently wash your down jacket in a washing machine. You can also use a special <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F890310%2Fnikwax-down-wash-direct" rel="nofollow" target="_blank">washing liquid</a> for down.
 
 ---
 
