@@ -265,6 +265,8 @@ Further, the jacket is also RDS Certified (Responsible Down Standard).
 * [How to wash?](#how-to-wash)
 * [How to fluff it?](#how-to-fluff)
 * [How to pack and store it?](#how-to-pack-and-store-it)
+* [Down jacket feathers coming out](#down-feathers-are-coming-out)
+* [What is water resistant down?](#what-is-water-resistant-down)
 
 <br>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
@@ -292,3 +294,13 @@ A big tumbler can be used to dry the down jacket. Also add a few tennis balls to
 
 ### How to pack and store it?
 I have one dedicated dry bag where I stuff my down jacket and my sleeping bag in. Down products need much less space than synthetic products and the best way to get as much space as possible is to compress down in a compression bag.
+
+---
+
+### Down feathers are coming out
+Sometimes down feathers are coming out through the fabric. In this case try to pull them back into the down jacket. Don't pull them out.
+
+---
+
+### What is water resistant down?
+Compared to normal down, water resistant down has been treated with a water resistant coating. This means that it will be a bit more resistant towards moisture. However, if you are planning to travel to place where you expect a lot of moisture then you should probably consider a [jacket with synthetic insulation](http://www.hikeventures.com/best-synthetic-insulated-jackets/).
