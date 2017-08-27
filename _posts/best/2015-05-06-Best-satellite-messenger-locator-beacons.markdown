@@ -14,9 +14,9 @@ layout: post
 
 In this blog post, I would like to give you an overview of the best satellite messengers for 2017 - 2018 (also called GPS Tracker or Personal Locator Beacon) which I would consider to carry on my next hiking or backpacking trip.
 
-Satellite messengers are especially important if you plan to hike in a location without phone reception.
+Satellite messengers are of particular importance if you plan to hike in a location without phone reception.
 
-DeLorme has been owned by Garmin since 2016 and the units have been replaced with the Garmin InReach Explorer+ or SE+ series.
+Garmin owns DeLorme since 2016, and the Garmin InReach Explorer+ and SE+ series are replacing the old DeLorme products.
 
 In the picture below you can see the old DeLorme InReach Explorer in his yellow case attached to the backpack.
 
@@ -116,23 +116,23 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 
 ## Conclusion
 
-With a Satellite Messenger, you can also inform your family and friends about your current location and that everything is fine with you so they don’t have to worry.
+With a Satellite Messenger, you can also inform your family and friends about your current location and that everything is fine with you, so they don’t have to worry.
 
-Here an example: I have been once to the [Sarek National park in Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) where I didn’t have phone reception and on this trip, I decided that we will definitely take a satellite messenger with me if I would ever go there again in the future.
+Here an example: I have been once to the [Sarek National park in Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) where I didn’t have phone reception and on this trip, I decided that I will take a satellite messenger with me if I would ever go there again in the future.
 
-It can take up to 2-3 days to get out of the National Park and in case of an emergency, it might be quite hard to find help as you may only see 2 other hikers a day if at all.
+It can take up to 2-3 days to get out of the National Park, and in case of an emergency, it might be quite hard to find help as you may only see two other hikers a day if at all.
 
-Fortunately, I was not in need to make an emergency call yet. While it’s possible to send text messages with the devices from DeLorme and SPOT you may use ACR only to send a rescue signal (also called Personal Locator Beacon).
+Fortunately, I was not in need to make an emergency call yet. While it’s possible to send text messages with the devices from DeLorme and SPOT, you may use ACR only to send a rescue signal (also called Personal Locator Beacon).
 
 The main advantage of the ACR is that you don’t have to pay a subscription fee to use the GPS network.
 
-If messaging is not important for you, then you should go for the <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F843146%2Facr-electronics-resqlink-gps-personal-locator-beacon" target="_blank" rel="nofollow">ACR ResQlink+ 406</a>. The ACR device is also quite interesting for paddlers since it is able to float.
+If messaging is not important for you, then you should go for the <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F843146%2Facr-electronics-resqlink-gps-personal-locator-beacon" target="_blank" rel="nofollow">ACR ResQlink+ 406</a>. The ACR device is also interesting for paddlers since it can float.
 
 Alternatively, you will see from the specifications below that the DeLorme devices have slightly more weight but come with more functionalities than the SPOT devices.
 
 My personal preference goes towards the <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F119863%2Fgarmin-inreach-explorer-satellite-communicator" target="_blank" rel="nofollow">Garmin InReach Explorer+</a> as it has also messenger function.
 
-If I would not need the messenger and tracking function then I would probably get the <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F843146%2Facr-electronics-resqlink-gps-personal-locator-beacon" target="_blank" rel="nofollow">ACR ResQlink+ 406</a>.
+IIf I would not need the messenger and tracking function, then I would probably get the <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F843146%2Facr-electronics-resqlink-gps-personal-locator-beacon" target="_blank" rel="nofollow">ACR ResQlink+ 406</a>.
 
 <br>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

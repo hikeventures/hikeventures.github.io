@@ -92,7 +92,13 @@ The Arc'teryx Nodin Jacket might be a perfect jacket if you are looking ofr a mi
 **Weight**: 155 grams / 5.5 oz.
 **Fabric**: Luminara—Stretch nylon ripstop
 
-The Arc’teryx Squamish Hoody comes with a hood, full front zip and a front pocket. This jacket also has cuff adjusters and a reflective logo.
+The Arc'teryx Squamish Hoody is a wind resistant, super lightweight, durable and compressible hooded wind jacket for hiking or trekking in the wilderness or for climbing.
+
+This jacket is a high-performance jacket made of breathable material with a DWR (durable water repellent) finish.
+
+If features articulated elbows, gusseted underarms, soft hood brim, adjustable hood drawcords, full front zip, drop back hem and can be stowed away in its pocket. Further, it also features a reflective logo.
+
+You can wear the jacket either for warm or cold weather activities to protect you from chilly winds. Arc'teryx is known in its industry for its craftsmanship and design.
 
 <a href="http://amzn.to/2elVY64" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
