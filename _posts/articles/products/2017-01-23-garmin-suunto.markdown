@@ -49,17 +49,17 @@ In the past, I have always used my Suunto Traverse to log my GPS data (see pictu
 
 However, there are certain features on the new watches which I found more appealing than on the Suunto Traverse - and in particular, I would prefer to have the Garmin Fenix 5X over the Suunto Spartan.
 
-Why? Simply because both watches offer similar features with the Fenix 5X offering additionally the possibility to upload 2GB of topo maps.
+Why? Both watches offer similar features, with the Fenix 5X offering additional the possibility to upload 2GB of topo maps
 
 ---
 
 ## Reasons for upgrading
 
-When you own an old Suunto watch like the Traverse or a Garmin Fenix 3 then you are probably asking yourself if you should upgrade to the Spartan or Fenix watch.
+When you own an old Suunto watch like the Traverse or a Garmin Fenix 3, then you are probably asking yourself if you should upgrade to the Spartan or Fenix watch.
 
-The only reason why I would upgrade is the map feature of the new Garmin Fenix 5X. I think it’s really cool to have a map on your wrist.
+The only reason why I would upgrade is the map feature of the new Garmin Fenix 5X. I think it is really cool to have a map on your wrist.
 
-However, others might find the color screen or the touch screen of the Spartan more interesting.
+However, others might find the color screen or the touch screen of the Spartan more impressive.
 
 Personally, I don’t care that much about the touch screen. However, the color display in combination with the map is a really cool feature.
 
@@ -73,7 +73,7 @@ However, it will still miss the map feature which I like on the Garmin Fenix 5X.
 
 The Suunto Spartan Trainer Wrist HR is probably the best solution if you only want to wear your watch occasionally or just to monitor your jogging in the city.
 
-It is the least expensive and lightest watch of all models but also comes with less battery life which is acceptable if you don’t do for example longer hiking trips.
+It is the least expensive and lightest watch of all models but also comes with less battery life which is acceptable if you do not do for example longer hiking trips.
 
 Would this change my purchase decision? No. I still prefer a watch which is capable of uploading topo maps - the Garmin Fenix 5X.
 

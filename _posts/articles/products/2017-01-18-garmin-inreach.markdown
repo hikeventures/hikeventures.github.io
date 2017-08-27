@@ -9,15 +9,15 @@ tags:
   - gps
 image: https://c1.staticflickr.com/6/5609/30599065514_3a9dedbf93_k.jpg
 ---
-Garmin has just recently released the inReach Explorer+ and the inReach SE+ after they acquired DeLorme a few months ago. Those new devices are going to replace the old inReach models and I am going to discuss shortly their differences and new features.
+Garmin has just recently released the inReach Explorer+ and the inReach SE+ after they acquired DeLorme a few months ago. Those new devices are going to replace the old inReach models, and I am shortly going to discuss their differences and new features.
 
-Since we own the DeLorme inReach Explorer device ourselves we were quite excited to see what the new features and differences of the new Garmin inReach models are beside the external design of the device.
+Since we own the DeLorme inReach Explorer device ourselves, we were quite excited to see what the new features and differences of the new Garmin inReach models are beside the external design of the device.
 
-We bought our inReach Explorer because we travel sometimes to places which are not covered by phone signals and it may take a few days to get out of a remote area to reach for help.
+We bought our inReach Explorer because we sometimes travel to places which are not covered by phone signals and it may take a few days to get out of a remote area to reach for help.
 
-Even so, you have to pay a monthly subscription fee I think it's just worth the money as safety is always our first priority when we heading into the backcountry.
+Even so, you have to pay a monthly subscription fee I think it is just worth the money as safety is always our priority when we are heading into the backcountry.
 
-Below you can see Konstantin while hiking in Japan. On the back of his backpack you can see the Delorme inReach Explorer (in its yellow case) which has now been replaced with the new Garmin inReach Explorer+.
+Below you can see Konstantin while hiking in Japan. On the back of his backpack, you can see the Delorme inReach Explorer (in its yellow case) which is now replaced by the new Garmin inReach Explorer+.
 
 <amp-img src="https://c1.staticflickr.com/6/5609/30599065514_3a9dedbf93_k.jpg" width="2048" height="1365" layout="responsive" alt="Garmin inReach Explorer+ and SE+ - Differences, new features and preview"></amp-img>
 <br>
@@ -47,17 +47,19 @@ Below you can see Konstantin while hiking in Japan. On the back of his backpack 
 ## Worth to upgrade?
 If you are only using your device in emergency situations to send an SOS signal then we would probably not consider upgrading to the new Garmin models.
 
-However, if you are looking for a device which you can also use as a GPS then we would probably upgrade to the new Garmin inReach Explorer+ since it comes with a topo map and has also space to store other maps as well.
+However, if you are looking for a device which you can also use as a GPS, then we would probably upgrade to the new Garmin inReach Explorer+ since it comes with a topo map and also has space to store other maps as well.
 
 ## Alternative without SOS features
-If you are primarily looking for a navigation device then you may also have a look at the Garmin Fenix 5X which features map functionality. Garmin’s new smartwatch does not have SOS features like the inReach devices but it’s capable to store topo maps and display them on your wrist while on the trail.
+If you are primarily looking for a navigation device, then you may also have an eye on the Garmin Fenix 5X which features map functionality.
+
+Garmin’s new smartwatch does not have SOS features like the inReach devices, but it is capable of storing topo maps and displaying them on your wrist while on the trail.
 
 ## Final thoughts
 We always use a phone and a map to navigate in the backcountry. However, having a GPS messenger like the Garmin SE+ or Explorer+ can be quite important.
 
 For example, we always have issues with our iPhone if we camp in colder areas and we need to connect them to an external battery or keep the phone warm to function properly.
 
-Then there is also the possibility that your phone brakes on the trail. Either you drop it or it gets wet.
+Then there is also the possibility that your phone brakes on the trail. Either you drop it, or it gets wet.
 
 The Garmin devices can probably handle more impact than a cell phone. Unfortunately, there are monthly subscription fees to pay when using the satellite service, however being able to use the map features of the Explorer+ without subscription makes it also a great device to have on the trail when hiking in more civilized areas.
 
