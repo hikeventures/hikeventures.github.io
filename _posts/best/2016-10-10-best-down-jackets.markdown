@@ -304,3 +304,8 @@ Sometimes down feathers are coming out through the fabric. In this case, try to 
 
 ### What is water resistant down?
 Compared to normal down, water resistant down has been treated with a water resistant coating. This means that it will be a bit more resistant towards moisture. However, if you are planning to travel to a place where you expect a lot of moisture then you should probably consider a [jacket with synthetic insulation](http://www.hikeventures.com/best-synthetic-insulated-jackets/).
+
+---
+
+### Are down jackets good for rain?
+Down jackets usually come with a water resistant fabric. However, they are not waterproof. If you expect to have lots of rain then you should probably cover your down jacket with a rain jacket or switch from a down jacket to a [fleece jacket](http://www.hikeventures.com/best-fleece-jackets/) or [synthetic insulated jacket](http://www.hikeventures.com/best-synthetic-insulated-jackets/).
