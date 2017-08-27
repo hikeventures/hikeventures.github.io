@@ -35,16 +35,16 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
         </thead>
         <tbody>
         <tr>
-          <td><a href="http://amzn.to/2eTKIN3" target="_blank" rel="nofollow">SPOT Gen3</a></td><td>114g</td><td>no</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F860469%2Fspot-gen3-satellite-gps-messenger" target="_blank" rel="nofollow">SPOT Gen3</a></td><td>114g</td><td>no</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2e39b0g" target="_blank" rel="nofollow">ACR ResQlink+</a></td><td>153g</td><td>no</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F843146%2Facr-electronics-resqlink-gps-personal-locator-beacon" target="_blank" rel="nofollow">ACR ResQlink+</a></td><td>153g</td><td>no</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2iZEbOB" target="_blank" rel="nofollow">Garmin InReach SE+</a></td><td>190g</td><td>no</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F119864%2Fgarmin-inreach-se-2-way-satellite-communicator" target="_blank" rel="nofollow">Garmin InReach SE+</a></td><td>190g</td><td>no</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2jM4Pet" target="_blank" rel="nofollow">Garmin InReach Explorer+</a></td><td>213g</td><td>yes</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F119863%2Fgarmin-inreach-explorer-satellite-communicator" target="_blank" rel="nofollow">Garmin InReach Explorer+</a></td><td>213g</td><td>yes</td>
         </tr>
       </tbody>
       </table>
@@ -64,7 +64,7 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 * Buoyant
 * No messaging
 
-<a href="http://amzn.to/2e39b0g" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F843146%2Facr-electronics-resqlink-gps-personal-locator-beacon" rel="nofollow" class="btn btn-danger" role="button">See the ACR ResQlink+ 406</a>
 
 <hr>
 
@@ -78,7 +78,7 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 * Preloaded DeLorme TOPO maps with onscreen GPS routing plus
 * 2GB storage for maps
 
-<a href="http://amzn.to/2jM4Pet" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F880675%2Fmountain-hardwear-ghost-whisperer-hooded-down-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Garmin InReach Explorer+</a>
 
 <hr>
 
@@ -100,7 +100,7 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 * Message size: 160 characters
 * Waypoints
 
-<a href="http://amzn.to/2iZEbOB" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F119864%2Fgarmin-inreach-se-2-way-satellite-communicator" rel="nofollow" class="btn btn-danger" role="button">See the Garmin InReach SE+</a>
 
 <hr>
 
@@ -115,13 +115,13 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 * Custom messages which can be used as a secondary OK message or personal help alert
 * Message size: 41 characters
 
-<a href="http://amzn.to/2eTKIN3" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F860469%2Fspot-gen3-satellite-gps-messenger" rel="nofollow" class="btn btn-danger" role="button">See the SPOT Gen3</a>
 
 ## Conclusion
 
 With a Satellite Messenger you can also inform your family and friends about your current location and that everything is fine with you so they don’t have to worry.
 
-Here an example: I have been once to the Sarek National park in Sweden where I didn’t have phone reception and on this trip I decided that we will definitely take a satellite messenger with me if I would ever go there again in the future.
+Here an example: I have been once to the [Sarek National park in Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) where I didn’t have phone reception and on this trip I decided that we will definitely take a satellite messenger with me if I would ever go there again in the future.
 
 It can take up to 2-3 days to get out of the National Park and in case of an emergency it might be quite hard to find help as you may only see 2 other hikers a day if at all.
 
@@ -129,14 +129,10 @@ Fortunately, I was not in need to make an emergency call yet. While it’s possi
 
 The main advantage of the ACR is that you don’t have to pay a subscription fee to use the GPS network.
 
-If messaging is not important for you, then you should go for the ACR ResQlink+ 406. The ACR device is also quite interesting for paddlers since it is able to float.
+If messaging is not important for you, then you should go for the <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F843146%2Facr-electronics-resqlink-gps-personal-locator-beacon" target="_blank" rel="nofollow">ACR ResQlink+ 406</a>. The ACR device is also quite interesting for paddlers since it is able to float.
 
 Alternatively, you will see from the specifications below that the DeLorme devices have slightly more weight but come with more functionalities than the SPOT devices.
 
-My personal preference goes towards the <a href="http://amzn.to/2jM4Pet" target="_blank" rel="nofollow">Garmin InReach Explorer+</a> as it has also messenger function.
+My personal preference goes towards the <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F119863%2Fgarmin-inreach-explorer-satellite-communicator" target="_blank" rel="nofollow">Garmin InReach Explorer+</a> as it has also messenger function.
 
-If I would not need the messenger and tracking function then I would probably get the <a href="http://amzn.to/2e39b0g" target="_blank" rel="nofollow">ACR ResQlink+ 406</a>.
-
----
-
-I hope this blog post was helpful to find the best stallite messenger for you.
+If I would not need the messenger and tracking function then I would probably get the <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F843146%2Facr-electronics-resqlink-gps-personal-locator-beacon" target="_blank" rel="nofollow">ACR ResQlink+ 406</a>.
