@@ -298,7 +298,7 @@ I have one dedicated dry bag where I stuff my down jacket and my sleeping bag in
 ---
 
 ### Down feathers are coming out
-Sometimes down feathers are coming out through the fabric. In this case, try to pull them back into the down jacket. Don't pull them out.
+Sometimes down feathers are coming out through the fabric. In this case, try to pull them back into the down jacket. Don't pull them out. You may also try to fluff the down in your jacket so they won't be able to fit through small holes in the fabric anymore.
 
 ---
 
