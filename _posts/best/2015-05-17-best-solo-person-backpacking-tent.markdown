@@ -16,7 +16,7 @@ In this blog post I have [selected](#the-best-solo-person-tents-of-2017) the bes
 <br>
 <!--more-->
 
-## The best solo person tents of 2017
+## Weight comparison table
 
 <div class="table-responsive">
 <table class="table table-hover table-bordered list_items">
@@ -391,4 +391,4 @@ Currently, my go-to tent is the <a href="http://amzn.to/2pDaiMo" rel="nofollow">
 
 I chose the Unna since it’s quite versatile, offers plenty of space and of course the big panorama window.
 
-<a href="#the-best-solo-person-tents-of-2017" rel="nofollow" class="btn btn-danger" role="button">Back to the top</a>
+<a href="#weight-comparison-table" rel="nofollow" class="btn btn-danger" role="button">Back to the top</a>

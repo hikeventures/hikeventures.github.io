@@ -27,7 +27,7 @@ Also, have a look at our [FAQ](#faq-on-down-jackets) to learn more about down ja
 <br>
 <!--more-->
 
-## Down Jacket Features Table
+## Weight comparison table
 
 <div class="table-responsive">
       <table class="table table-hover table-bordered list_items">
@@ -333,3 +333,5 @@ However, if you are planning to travel to a place where you expect a lot of mois
 Down jackets usually come with a water resistant fabric.
 
 However, they are not waterproof. If you expect to have lots of rain, then you should probably cover your down jacket with a rain jacket or switch from a down jacket to a [fleece jacket](http://www.hikeventures.com/best-fleece-jackets/) or [synthetic insulated jacket](http://www.hikeventures.com/best-synthetic-insulated-jackets/).
+   
+<a href="#weight-comparison-table" rel="nofollow" class="btn btn-danger" role="button">Back to the top</a>
