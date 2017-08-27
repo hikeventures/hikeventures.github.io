@@ -15,11 +15,8 @@ image: https://c8.staticflickr.com/9/8806/29998384591_973d97e6ed_k.jpg
 Last weekend we decided to visit the Kurjenrahka National Park with <a href="https://www.hutkai.fi">Caj</a> and Katja. <a href="https://www.facebook.com/konstantin.gridnevskiy" rel="nofollow">Konstantin</a> has just finished his "official work duties" where he was talking on the 25th Nordic Symposium on Tourism and Hospitality Research in Turku and decided to stay a few more days. <a href="https://www.facebook.com/patrickdormischian">Patrick</a> has already visited the Kurjenrahka National Park <a href="http://www.hikeventures.com/autumn-colors-around-lake-savojarvi/">2 years ago</a> for a day hike but this time we were planning to stay over night in a lean-to shelter. After we parked our car nearby the Kurjenpesä Nature Information Hut from where we walked to the old boundary mark of Kuhankuono.
 
 <amp-img src="https://c8.staticflickr.com/9/8806/29998384591_973d97e6ed_k.jpg" width="2048" height="1152" alt="Hiking in the Kurjenrahka National Park" layout="responsive"></amp-img>
-
 <br>
 <!--more-->
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 The trail continued through swamps and since we arrived quite late the sun was setting also slowly.
 

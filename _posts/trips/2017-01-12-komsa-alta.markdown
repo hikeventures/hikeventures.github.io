@@ -18,8 +18,7 @@ There was no official path up to the Komsa, or at least we were not able to see 
 
 <br>
 <!--more-->
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 
 From the city centre it's about a 1 hour hike to the top of the Komsa. The hill is easy to recognize since it has an antenna on top of it.
 

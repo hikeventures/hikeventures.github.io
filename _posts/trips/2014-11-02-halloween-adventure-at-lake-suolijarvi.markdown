@@ -154,9 +154,6 @@ The short hike was quite nice as there was almost a full moon on the sky and the
 
 Lake Suolijärvi is a nice place for a hike. The are is not just plain flat and the shelters are very well maintained even so it's not an official national park.
 
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-
 [1]:	http://avisuora.wordpress.com/2014/10/13/verlan-syysmelonta-11-12-10-2014-ja-ahnas-maa-filmi/
 [2]:	https://sites.google.com/site/sveitsikytajahanke/alueen-nykyiset-palvelut/tulipaikat-ja-laavut
 [3]:	http://hikeventures.com/suunto-ambit3-ambit2-worth-upgrade/

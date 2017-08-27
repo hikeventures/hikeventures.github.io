@@ -13,6 +13,9 @@ We are currently researching the impact of portable electronic devices on risk m
 
 <amp-img src="https://farm1.staticflickr.com/732/23687507625_4301791f3d_b.jpg" layout="responsive" width="1024" height="683" alt="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"></amp-img>
 
+<br>
+<!--more-->
+
 The data will be treated anonymously and the outcome of the survey will be also published on the blog as well. Please click the link / picture below to enter the survey.
 
 If you think this topic is interesting / important please share the questionnaire with others. Thank you.

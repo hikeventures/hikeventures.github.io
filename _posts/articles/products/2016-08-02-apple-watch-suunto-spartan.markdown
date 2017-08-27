@@ -19,7 +19,6 @@ However, it weights a tiny bit more than the Suunto Spartan and if you only need
 <br>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
-
 <!--more-->
 
 When Apple released the Apple Watch for the first time I decided to purchase a [Suunto Traverse](http://www.hikeventures.com/Suunto-Traverse-Ambit3-differences/) simply because it offered GPS and better battery life. The battery life of the Apple Watch might be ok if you plan to go running for 1 hour or so but if you go on a long hike with GPS switched on you don't want to start charging your watch every view hours. My [Suunto Traverse](http://www.hikeventures.com/Suunto-Traverse-Ambit3-differences/) could handle a full day of hiking with GPS switched on. As Apple did not mention anything about an improved battery life of the Apple Watch Series 2 we can probably expect a battery life of 18 hours with GPS switched off.
@@ -37,3 +36,5 @@ Apple has worked with Nike and developed the Apple Watch Nike+ which offers some
 ## Conclusion
 
 If you are into multisport or any activity which lasts several hours then I would probably get the <a href="http://amzn.to/2pkGVh8" rel="nofollow" target="_blank">Suunto Spartan HR</a>. If you only go running then the Apple Watch Nike+ is probably a better option. If you are an iPhone user then the Apple Watch Series 2 is obviously a better choice if you don't plan activities which lasts several hours. However, as I have not tested the <a href="http://amzn.to/2pKb4Gt" target="_blank" rel="nofollow">Apple Watch Series 2</a> I will need to see how long the watch might actually work with GPS switched on.
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

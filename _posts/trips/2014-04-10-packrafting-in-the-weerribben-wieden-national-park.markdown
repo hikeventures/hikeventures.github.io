@@ -191,6 +191,3 @@ After lunch we went north towards Kleine Belterweijde and then east along the Sc
 <a href="http://www.movescount.com/moves/move29237082" target="_blank">Movescount GPS Data day 1</a>
 
 <a href="http://www.movescount.com/moves/move29237087" target="_blank">Movescount GPS Data day 2</a>
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

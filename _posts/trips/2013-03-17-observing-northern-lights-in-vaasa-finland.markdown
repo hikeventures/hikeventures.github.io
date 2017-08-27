@@ -47,5 +47,3 @@ Unfortunately, northern lights are not that common in Vaasa and there also needs
 [image-5]:	http://farm9.staticflickr.com/8377/8566803036_b30f4a6acb_c.jpg "Northern Lights Aurora Borealis in Vaasa - Arctic Circle"
 [image-6]:	http://farm9.staticflickr.com/8385/8566801716_307caa97ac_c.jpg "Northern Lights Aurora Borealis in Vaasa - Arctic Circle"
 [image-7]:	http://farm9.staticflickr.com/8241/8565706103_4dc9a82004_c.jpg "Northern Lights Aurora Borealis in Vaasa - Arctic Circle"
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

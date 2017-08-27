@@ -8,7 +8,7 @@ tags:
   - gifts
   - christmas
 ---
-Are you looking for a camping christmas gift for your husband? We might have 12 camping gift ideas for 2017-2018 which he would definitely like as we like them too. We have selected a variety of products which might be interesting for your husband if he likes to go hiking, backpacking, packrafting, skiing or snowshoeing. We hope you will find a nice gift.
+Are you looking for a camping Christmas gift for your husband? We might have 12 camping gift ideas for 2017-2018 which he would definitely like as we like them too. We have selected a variety of products which might be interesting for your husband if he likes to go hiking, backpacking, packrafting, skiing or snowshoeing. We hope you will find a nice gift.
 
 <h2><a href="http://amzn.to/2eED2uN" target="_blank" rel="nofollow">GoPro Hero5 Session</a></h2>
 
@@ -128,9 +128,3 @@ There is no need to carry big water bottles on a hiking trip if you have a Sawye
 The Suunto Spartan Sport is the latest GPS watch from Suunto which comes with a color touch screen. It has a much longer battery life than the e.g. Apple Watch Series 2. The data can be synced and stored online with Movescount.
 
 <a href="http://amzn.to/2f60uWd" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
-
----
-
-{% include disclaimer.html %}
-
----

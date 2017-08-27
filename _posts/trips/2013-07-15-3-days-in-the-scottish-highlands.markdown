@@ -58,5 +58,3 @@ Nothing more to say than THANK YOU SCOTLAND FOR PROVIDING US SUNNY WEATHER AND T
 
 ## Links
 Our location in the <a href="http://www.climbthemunros.co.uk/munro_os_map.php?lat=56.8138&long=-4.4651" target="_blank">Scottish Highlands</a> on the map.
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

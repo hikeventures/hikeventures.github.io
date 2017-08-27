@@ -15,12 +15,8 @@ YI Technology has recently announced the YI 4K+ and I am quite excited to see th
 What makes the YI 4K+ impressive (and sets it apart from the GoPro Hero5) is that it can record 4K with 60FPS. Moreover, the YI 4K+ can also record with a higher resolution than the GoPro Hero5.
 
 <amp-img src="https://c1.staticflickr.com/8/7754/17647383330_fe5ab2fc7e_h.jpg" layout="responsive" width="1600" height="1600" alt="Comparison and differences - YI 4K+ or GoPro Hero5"></amp-img>
-
+<br>
 <!--more-->
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 One disadvantage I would see with the YI is that it needs a housing to be waterproof and this might also affect the audio quality.
 
@@ -33,3 +29,5 @@ The only issue I would probably have with life streaming is that you can not rec
 Personally, I was interested in getting a GoPro Hero5 Session since I liked the small form factor.
 
 However, the new features on the YI 4K+ are quite interesting and I could probably also live with a bigger action camera. What I like on the YI 4K+ is that it is able to record with 60 frames per second and offers the possibility to do life streaming. You can read more about the YI 4K+ here.
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

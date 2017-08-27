@@ -17,11 +17,10 @@ Having used my Sony A7 for over 1 year I am planning to get better sound on my V
 
 > My Zoom H5 on top of a Slik tripod
 
-First of all it was important to know which type of microphone I would need. The Zoom H5 comes with an X/Y microphone which seems to be a good microphone to record the environment but also towards a certain direction. I will also get the the APH-5 extension pack for the Zoom H5 next week which comes with a wind shield and a remote control.
+<br>
+<!--more-->
 
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+First of all it was important to know which type of microphone I would need. The Zoom H5 comes with an X/Y microphone which seems to be a good microphone to record the environment but also towards a certain direction. I will also get the the APH-5 extension pack for the Zoom H5 next week which comes with a wind shield and a remote control.
 
 You could also buy the new Zoom H4n Pro if you are on a budget but I prefer the Zoom H5 since you can detach the X/Y microphone if you don't need it. Also the level control on the front is much nice on the H5. For a more focused recording (e.g. if you want to record a bird in the distance), a shotgun microphone would be even better and I might consider buying a Sennheiser MKE 600 in the future as well.
 
@@ -127,3 +126,5 @@ I will most likely test the <a href="http://amzn.to/1yTJDZs" rel="nofollow">Zoom
 <a href="https://www.amazon.com/gp/product/B00WS2EL62/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00WS2EL62&linkCode=as2&tag=hikeve-20&linkId=5c8074fcaceaf51adaf93e9d9ff0de8c" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00WS2EL62&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00WS2EL62" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Obviously, with the equipment mentioned above you should get great audio quality for your videos. To improve your videos and pictures I would also recommend an additional LED light. I recently discovered that Manfrotto has a really nice and compact LED light - the <a href="http://amzn.to/2eG3GnK" rel="nofollow" target="_blank">Manfrotto LUMIMUSE 8 LED Light</a> - which I am planning to use for indoor or night filming. It should also work quite well to take along on hiking trips since it is so compact.
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

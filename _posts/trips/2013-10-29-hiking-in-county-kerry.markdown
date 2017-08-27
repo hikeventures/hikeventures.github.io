@@ -118,5 +118,3 @@ It seems that a plane crashed here during the second world war.
 <a href="https://www.flickr.com/photos/90204224@N07/10640999475" ><img src="https://farm8.staticflickr.com/7298/10640999475_ab6a3cd41c_b.jpg" width="1024" height="768" ></a>
 
 After our hiking trip we took our car and drove back to Dublin after a short stopover in Killarney. This trip has been one of the best experiences for me in Ireland and would recommend it to anyone looking for an adventures in Ireland.
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

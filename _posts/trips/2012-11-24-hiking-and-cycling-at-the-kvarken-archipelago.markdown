@@ -33,5 +33,3 @@ It took me about 2 hours from Vaasa to Björköby by bicycle. I passed the longe
 Once I arrived there I climbed up the Saltkaret observation tower and enjoyed the scenic view.
 
 The local community should maybe think of better transportation possibilities and arrangements for hikers which I found personally very poor for a World Heritage site. However, I can recommend the <a href="http://www.pohjanmaanmuseo.fi/?page=TERRANOVA&setlang=l3" target="_blank">Terranova museum</a> in Vaasa which describes quite well the Kvarken Archipelago.
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

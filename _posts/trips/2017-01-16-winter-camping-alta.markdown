@@ -15,8 +15,7 @@ On January 6th we decided to meet in Alta in Northern Norway to have a winter ca
 
 <br>
 <!--more-->
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 
 Bram - who works for <a href="http://www.holmenhusky.no">Holmen Husky</a> provided us a Pulka (Norpulken) and drove us with his Toyota Land Cruiser from Alta on the E6 to a place which he suggested would be nice to explore.
 

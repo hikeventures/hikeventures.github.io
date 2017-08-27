@@ -69,9 +69,6 @@ There are also plenty of refuges in Repovesi. We had a break at this one before 
 
 In my opinion, Repovesi National Park is more enjoyable than <a href="http://hikeventures.com/hiking-in-nuuksio-national-park-finland/" target="_self">Nuuksio</a>  and it is less crowded too. On the way back to Kouvola we hitchhiked and someone picked us up just after 10 minutes standing on the road. Repovesi National Park is definitely worth a visit.
 
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-
 [1]:	http://palanenkaakkua.blogspot.com/2014/09/sunnuntai-ja-repovesi.html
 [2]:	http://jantskunblogi.blogspot.com/2014/08/repovesi.html
 [3]:	http://kiipeilysohlot.blogspot.com/2014/08/inkkarilla-repovedella.html

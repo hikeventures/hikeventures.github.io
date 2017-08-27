@@ -12,8 +12,7 @@ tags:
 Last weekend we visited the ITB in Berlin to get ideas for new adventures, to interview destinations and to participate in the ITB Blogger Speed Dating. We especially liked that you could experience the culture of some destinations right away at the exhibition. For example we really enjoyed the ceremony of preparation and drinking Kava when we visited the booth of the South Pacific Islands.
 
 <amp-img src="https://c1.staticflickr.com/4/3672/33085018390_91c7d63d78_h.jpg" width="1600" height="759" layout="responsive" alt="South Pacific Islands Tourism at ITB Berlin"></amp-img>
-
-
+<br>
 <!--more-->
 
 ---

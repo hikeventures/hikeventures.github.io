@@ -14,6 +14,7 @@ image: //farm4.staticflickr.com/3759/11055398124_b9c1ec1719_c.jpg
 This is one of my first shots with the Sony A7r full-frame on ISO50. The stars are a bit blurred, however this is caused by the natural movement of our planet (you may click on the picture to see it in full size).
 
 <amp-img src="//farm4.staticflickr.com/3759/11055398124_b9c1ec1719_c.jpg" width="800" height="434" alt="Sony A7r ISO50 RAW night tripod" layout="responsive"></amp-img>
+<br>
 <!--more-->
 
 <a href="http://www.flickr.com/photos/90204224@N07/11055784794"><img src="//farm3.staticflickr.com/2808/11055784794_2e1cb184bf_c.jpg" width="1150" alt="ISO50 Sony A7r raw night"></a>

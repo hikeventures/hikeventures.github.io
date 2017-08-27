@@ -72,8 +72,6 @@ On the way to the National Park.
 
 To summarise, Seitseminen is quite a relaxing place for a weekend trip where you can discover plenty of interesting spots. It's located nearby Tampere and easy to reach if you are living in Southern Finland.
 
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 
 [1]:	https://www.flickr.com/photos/90204224@N07/8197699522
 [2]:	https://www.flickr.com/photos/90204224@N07/8223401641

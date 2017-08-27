@@ -148,9 +148,6 @@ The Aland Islands are great for hiking and cycling. It's also not too demanding 
 <a href="http://www.kokar.ax/en" target="_new">K&ouml;kar</a><br>
 <a href="http://www.nationalparks.fi/hikinginfinland/wheretogo/thearchipelagos" target="_new">Archipelago National Park on Outdoors.fi</a>
 
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-
 [1]:	http://www.vikingline.com
 [2]:	http://www.tallinksilja.com
 [3]:	http://www.alandstrafiken.ax

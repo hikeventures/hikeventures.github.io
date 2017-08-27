@@ -17,8 +17,7 @@ On our trip to Poland we went to South, visiting the Karkonosze National Park vi
 <amp-img src="https://farm1.staticflickr.com/286/19383097710_34f4662be3_o.jpg" width="846" height="635" alt="Hiking from Poland to Czech Republic. The Karkonosze National Park" layout="responsive"></amp-img>
 <br>
 <!--more-->
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 
 Sometimes I came accross on these information boards partly sponsored by the European Union.
 <br>

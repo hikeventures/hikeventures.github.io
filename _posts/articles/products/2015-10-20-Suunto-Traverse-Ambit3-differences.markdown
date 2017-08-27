@@ -17,7 +17,7 @@ Suunto has recently released its latest GPS watch - the Suunto Traverse - which 
 **Update 26.08.2017:** Suunto has released the [Suunto Spartan Sport Wrist HR GPS Watch](http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F129489%2Fsuunto-spartan-sport-wrist-hr-gps-watch) and the more affordable [Suunto Spartan Trainer Wrist HR GPS Watch](http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F129489%2Fsuunto-spartan-sport-wrist-hr-gps-watch). Both are featuring a color displays and are the latest developments from Suunto. There is also the new [Garmin Fenix 5X](http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F121191%2Fgarmin-fenix-5x-sapphire-multisport-gps-heart-rate-monitor-watch) which is capable of displaying topo maps.
 
 <p><amp-img src="https://farm8.staticflickr.com/7138/26503377864_db26a8025b_b.jpg" alt="Suunto Traverse" title="Suunto Traverse and Roselli Knife" width="1024" height="768" layout="responsive"></amp-img></p>
-The most important difference is probably that the Suunto Traverse has a vibration alarm and that the GPS receiver is now ‘invisible’ built into the watch.
+The most important difference is probably that the Suunto Traverse has a vibration alarm and that the GPS receiver is now 'invisible' built into the watch.
 
 Moreover, the Suunto Traverse has a thinner (1mm) built. However, you will not find multisport functions in the Suunto Traverse.
 
@@ -127,3 +127,6 @@ Update (26.1.2017): Suunto announced the Suunto Spartan Sport - Another premium 
 ---
 
 Need some more inspirations on how to use the Suunto Ambit or Suunto Traverse watch? Here is a [trip report](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/) from the Swedish mountains where I was wearing the old Suunto Ambit3 on a packrafting trip.
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

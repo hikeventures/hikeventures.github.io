@@ -123,6 +123,3 @@ In general, the route seems to be manageable also for "experienced beginners" if
 <a href="http://www.movescount.com/moves/move33882499" target="_blank">GPS Data Day 1</a>
 <a href="http://www.movescount.com/moves/move33882509" target="_blank">GPS Data Day 2</a>
 <a href="http://kanot.info/kartor.htm" target="_blank">Detailed route description and map</a>
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

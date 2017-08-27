@@ -74,5 +74,3 @@ Orienteering
 <a href="http://www.np-zuidkennemerland.nl/documents/unieke_natuur/middenduin.xml?lang=nl">Middenduin</a>
 <a href="http://www.ns.nl/en/travellers/home">Trains in the Netherlands</a>
 <a href="http://mapcarta.com/26207692">Map of the area</a>
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

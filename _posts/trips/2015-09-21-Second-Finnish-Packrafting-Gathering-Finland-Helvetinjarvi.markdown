@@ -17,8 +17,7 @@ Last weekend we participated in the second packrafting gathering organized by <a
 
 <br>
 <!--more-->
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 
 Once we arrived on Friday at the National Park we pitched our <a href="http://amzn.to/1Jk9N72">MSR Hubba Hubba NX</a> tent and enjoyed a nice evening at the fireplace talking about the upcoming trip, gear and other stuff.
 

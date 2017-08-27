@@ -16,11 +16,8 @@ image: https://farm2.staticflickr.com/1624/24251024054_9304c6c7b9_b.jpg
 After the ISPO in Munich we went to Gaschurn in Austria to test our MSR Lightning Ascent and MSR Revo snowshoes (provided by MSR) as well as the MSR Flight 2 and MSR Deploy TR-2 poles in the Alps.
 
 <amp-img src="https://farm2.staticflickr.com/1624/24251024054_9304c6c7b9_b.jpg" width="1024" height="681" alt="Snowshoeing in Montafon, Vorarlberg in Austria" layout="responsive"></amp-img>
-
 <br>
 <!--more-->
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 Patrick, who is originally from the Bodensee and studied Tourism in Vorarlberg proposed our destination. Another, maybe more suitable place for testing snowshoes would have been the Bartholomäberg in the same valley. However, since we found an affordable accommodation nearby in Gaschurn we decided to take the lift up to Nova Stoba (2015 meter above sea level) and to explore the area.
 

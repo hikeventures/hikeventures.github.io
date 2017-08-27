@@ -12,14 +12,10 @@ image: https://c3.staticflickr.com/9/8617/16507482946_94d0b3ba64_k.jpg
 Sandisk has recently introduced it's new SanDisk 1TB SDXC card which could be quite interesting if you take a lot of pictures and videos on your trip. Even so the Sony A7 does not support UHS-II the benefit of USH-II are more visible when reading the files into your computer. In addition you have a future-proof SD card for future camera generations.
 
 <amp-img src="https://c3.staticflickr.com/9/8617/16507482946_94d0b3ba64_k.jpg" layout="responsive" width="2048" height="1536" alt="Sandisk 1TB UHS-II Sony A7"></amp-img>
-
+<br>
 <!--more-->
 
-Currently, I have no computer available at home since I am waiting for the new Macbook Pro to be released and I need to have my files and data available on a different computer. As I don't want to carry a hard drive with me I just use my SD cards as my mobile drive ... and it works.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+Currently, I have no computer available at home since I am waiting for the new MacBook Pro to be released and I need to have my files and data available on a different computer. As I don't want to carry a hard drive with me I just use my SD cards as my mobile drive ... and it works.
 
 Price aside, being able to store 1TB on a SD card is just amazing. Of course, I could also buy a simple 1 TB hard drive which is probably a cheaper solution but it's just more bulky.
 
@@ -36,3 +32,5 @@ I usually copy the files I am planning to work with to my internal SSD drive on 
 
 ## Conclusion
 If speed is more important to you then you should consider the Samsung T3 SSD. If you are looking for the smallest portable solution to store your data then UHS-II cards (e.g. from SanDisk or Lexar) are the way to go from my point of view.
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

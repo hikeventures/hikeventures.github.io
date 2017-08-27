@@ -16,10 +16,6 @@ When you already own the GoPro Hero4 Black or Session you are probably wondering
 <br>
 <!--more-->
 
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
-
 The main difference between the GoPro Hero4 Black and the GoPro Hero 5 Black is that the Hero5 Black you can actually record audio as the GoPro Hero5 Black does not need a camera housing anymore.
 
 ## 4K Video Quality
@@ -52,3 +48,6 @@ Now the question remains if you should upgrade from your GoPro Hero4 Black to th
 I also found the price of the <a href="http://amzn.to/2ekq5Zy" rel="nofollow" target="_blank">GoPro Hero 5 Black</a> quite reasonable with only 400 EUR which is 100 EUR less than what you have paid when the GoPro Hero4 Black came out.
 
 If you you don't need location capture and raw images then you should definitely look into the new GoPro Session 5 as well as it offers the same specs as the regular model just in a smaller camera body.
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

@@ -24,6 +24,3 @@ This weekend we enjoyed a sunny day in <a href="http://www.visithelsinki.fi" tar
 <a href="https://www.flickr.com/photos/90204224@N07/14318919875" title="Helsinki Summer 2014"><img src="https://farm3.staticflickr.com/2902/14318919875_8ae0ff070b_b.jpg" width="1024" height="683" alt="Helsinki Summer 2014"></a><br><br>View towards <a href="http://www.suomenlinna.fi" target="_blank">Suomenlinna</a> from the Port of Helsinki<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/14318952565" title="Helsinki Summer 2014"><img src="https://farm3.staticflickr.com/2931/14318952565_b124f7a9c1_b.jpg" width="1024" height="683" alt="Helsinki Summer 2014"></a><br><br>Merisatama<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/14318950105" title="Helsinki Summer 2014 Motorboat"><img src="https://farm3.staticflickr.com/2931/14318950105_930476bf14_b.jpg" width="1024" height="683" alt="Helsinki Summer 2014 Motorboat"></a>
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

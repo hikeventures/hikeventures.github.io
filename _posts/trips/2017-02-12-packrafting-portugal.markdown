@@ -18,8 +18,7 @@ This tidal mill is one of the few things that we saw on our recent trip to Algar
 
 <br>
 <!--more-->
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 
 It doesn't look like it, but the waves were huge and my initial idea to packraft to the cave, which can only be accessed from the sea, was blown away by the strong south-western winds the moment we arrived there. But it didn't mean that we still couldn't enjoy the sun and a bunch of fresh juicy oranges that we bought on the way.
 

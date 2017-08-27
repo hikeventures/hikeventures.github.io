@@ -14,7 +14,7 @@ image: https://farm3.staticflickr.com/2833/9327368022_3b131753c2_b.jpg
 For our hiking trip in Sweden we are going to use 3 navigation tools in order to find our way through the Swedish mountains.
 
 <amp-img src="https://farm3.staticflickr.com/2833/9327368022_3b131753c2_b.jpg" width="1024" height="683" alt="Calazo Maps Sarek Tyvek" layout="responsive"></amp-img>
-
+<br>
 <!--more-->
 
 ## Why are navigation tools important?
@@ -34,3 +34,5 @@ In mountainous area navigation can be more straightforward than on a flat field 
 ## Links
 <a href="http://www.suunto.com/Products/sports-watches/Suunto-Ambit2/Suunto-Ambit2-Black/" target="_blank">Suunto Ambit2</a>
 <a href="http://www.calazo.se" target="_blank">Calazo maps</a></div></div>
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

@@ -10,10 +10,11 @@ layout: post
 image: https://farm8.staticflickr.com/7376/8730115713_639c658b91_b.jpg
 ---
 
-
 I have compiled a list with essential items which are on my backpacking gear list when going for an overnight hiking trip. This list is my personal list so you can add other items to the list as well if you feel that there is a need of having them on your own outdoor adventure.
 
 <amp-img src="https://farm8.staticflickr.com/7376/8730115713_639c658b91_b.jpg" width="1024" height="683" alt="Overnight Backpacking Gear List - Therm-a-rest Z Sol and Exped Synmat UL7 and Katabatic Gear Chisos" layout="responsive"></amp-img>
+<br>
+<!--more-->
 
 ## Considerations for a gear list
 * Duration of the trip (Day trip / overnight / self-supported expedition)

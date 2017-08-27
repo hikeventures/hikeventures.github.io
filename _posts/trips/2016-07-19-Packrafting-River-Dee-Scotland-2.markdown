@@ -17,8 +17,7 @@ We had a good night sleep after the [first day](http://www.hikeventures.com/Pack
 
 <br>
 <!--more-->
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 
 The worst was however not to sit in a frozen packraft ...
 

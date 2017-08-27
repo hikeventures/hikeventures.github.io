@@ -254,6 +254,3 @@ Thanks to [Jaakko][48] who organised the event. Hope to see you all next time ag
 [image-40]:	https://farm4.staticflickr.com/3933/15268494279_8f44b6d6c4_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
 [image-41]:	https://farm3.staticflickr.com/2948/15268537980_3f0ec7b39a_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
 [image-42]:	https://farm6.staticflickr.com/5598/15455255775_da9af934a6_b.jpg "Finnish Packrafting Gathering round-Up Kymijoki river alpacka raft"
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

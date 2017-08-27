@@ -14,8 +14,7 @@ image: https://c2.staticflickr.com/8/7296/16347222209_cba90d844b_k.jpg
 In a few weeks we are planning to go for a winter trip to Northern Norway. Our plan is to fly to Alta and explore the area with our snowshoes. Here are some items which we will have on our gear list and will pack into our backpacks.
 
 <amp-img src="https://c2.staticflickr.com/8/7296/16347222209_cba90d844b_k.jpg" width="2048" height="1360" alt="Planning a winter trip in Northern Norway - Gear List" layout="responsive"></amp-img>
-
-
+<br>
 <!--more-->
 
 ## Tent and stove

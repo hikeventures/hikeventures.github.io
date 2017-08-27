@@ -24,7 +24,7 @@ The company promises minimal distortion which may always be an issue with those 
 I also have the Zeiss Batis 25mm beside my manual Samyang 14mm and to be honest the Zeiss is my go-to lens every day. The picture below was taken with my Batis 25mm lens.
 
 <amp-img src="https://c1.staticflickr.com/9/8889/27747666193_e6f65537c7_h.jpg" layout="responsive" width="1600" height="900" alt="Comparison and differences - Sigma 14mm, Samyang XP 14mm or Irix 11mm, Zeiss Batis 18mm"></amp-img>
-
+<br>
 <!--more-->
 
 <h2>Differences Sigma 14mm DG HSM ART, Irix 11mm Blackstone, Zeiss Batis 18mm and Samyang XP 14mm</h2>
@@ -41,10 +41,6 @@ I also have the Zeiss Batis 25mm beside my manual Samyang 14mm and to be honest 
 </tbody></table>
 </div>
 
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
-
 I only use my Samyang lens occasionally and would not really need the high aperture.
 
 Of course it would have an advantage when taking pictures during the night but on the other hand I always have my Manfrotto BeFree Travel Tripod with me.
@@ -54,3 +50,6 @@ If you are interested in a wide angle lens with low aperture then the Sigma 14mm
 I was also eying with the Zeiss Batis 18mm for a while but then decided that a lower focal length than 18mm  would give me more benefits than a lower aperture.
 
 The Sigma 14mm ART lens can actually offer much more than the Zeiss Batis 18mm in terms of aperture and focal length for my needs also considering the much lower price of the Sigma.
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

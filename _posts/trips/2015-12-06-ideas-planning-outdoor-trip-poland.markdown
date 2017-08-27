@@ -15,8 +15,7 @@ As every year, this October we decided to bid farewell to autumn in our traditio
 
 <br>
 <!--more-->
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 This year we did not go too far away from Poznań, Marta’s home-town, as only 70km to the north-west from there there is Siekarów Landscaped Park (Sierakowski Park Krajobrazowy), nicknamed “The Land of 100 Lakes”. In reality there must be even more of them there, as the map of that area is just full of blue spots of all shapes and sizes, making it look more like that of Finland or Sweden. In fact, besides hunting for mushrooms we were also looking for lakes suitable for a spring packrafting trip and of course we found a few.
 <br><br>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/23267576280/in/dateposted-public/" title="backpacking in poland"><img src="https://farm1.staticflickr.com/765/23267576280_5004f5f3c5_b.jpg" width="100%" alt="mushroom hunting in poland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

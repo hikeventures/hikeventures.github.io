@@ -13,8 +13,7 @@ image: https://c1.staticflickr.com/9/8198/28739977592_c89797e4f9_k.jpg
 Last weekend I visited the Teijo National Park located about 1.15 hours South-East of Turku to go hiking. Teijo National Park has a lot of variety like lakes, marshes, forests, marshes and a sea bay. The marked trails are easy to hike. Teijo National Park is suitable for those who don't have much hiking experience.
 
 <amp-img src="https://c1.staticflickr.com/9/8198/28739977592_c89797e4f9_k.jpg" width="2048" height="1152" alt="Hiking Teijo National Park Finland"></amp-img>
-
-
+<br>
 <!--more-->
 
 I parked my car nearby the nature center at Matildanjärvi. The nature center offers plenty of information about the national park and you can also get a free copy of a map.

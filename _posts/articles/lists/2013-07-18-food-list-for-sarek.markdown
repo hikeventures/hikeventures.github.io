@@ -3,7 +3,7 @@ title: Food list for Hiking and Packrafting in the Sarek National Park
 description: Our food list for our Sarek adventure
 date: 2013-07-18 07:30:00
 category: articles
-tags: 
+tags:
   - articles
   - sarek
   - sweden
@@ -12,10 +12,11 @@ tags:
 layout: post
 ---
 Since our Sarek trip is getting closer, we have to take a look on our lunch list. We calculated 3 meals a day and snacks (which are not included in the list below). The different items in the list are in German since we are going to order our food from Germany.
-<!--more--><br>
+<br>
+<!--more-->
 
 <h3>Food list for Vegetarians</h3>
-<h4>amount  description kcal/weight (grams)</h4>	
+<h4>amount  description kcal/weight (grams)</h4>
 1x Farmer's Outdoor Waldpilztopf 309/100<br>
 3x Travellunch Erbseneintopf vegetarisch 499/375<br>
 3x Farmer's Outdoor Risotto al Funghi 358/360<br>
@@ -28,7 +29,7 @@ Since our Sarek trip is getting closer, we have to take a look on our lunch list
 21x Total 8170/2789<br>
 
 <h3>Food list for Non-Vegetarians</h3>
-<h4>amount  description kcal/weight (grams)</h4>	
+<h4>amount  description kcal/weight (grams)</h4>
 3x Travellunch Erbseneintopf mit Speck 509/375<br>
 3x Travellunch Kartoffeltopf mit Rindfleisch 449/375<br>
 1x Travellunch Linseneintopf mit Speck 424/125<br>

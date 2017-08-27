@@ -302,7 +302,5 @@ Orthodox Church of Vaasa.
 
 Bus services in Vaasa are not that good. You either need a bicycle or a car to get to some of the places described above (also check the weather forecast before you leave with your bicycle). Also it is a good idea to get some cash from an ATM if you want to use public transportation. There is also an [outdoor shop][1] where you can buy some essentials.
 
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 
 [1]:	http://www.kurre.fi

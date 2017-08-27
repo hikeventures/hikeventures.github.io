@@ -13,7 +13,9 @@ tags:
 layout: post
 ---
 
-GPS watches like the Suunto Ambit2 or Suunto Ambit3 are quite interesting gadgets if you want to track your route or if you want to plan your route ahead. In general, the only model I could think of which comes close to the Suunto Ambit3 is the Garmin Fenix 3 which has a colour display. However, my personal preference goes towards the <a href="http://amzn.to/2ey5Pmh" rel="nofollow" target="_blank">Suunto Ambit3</a> or <a href="http://amzn.to/2eklrdT" rel="nofollow" target="_blank">Suunto Traverse</a>.
+GPS watches like the Suunto Ambit2 or Suunto Ambit3 are quite interesting gadgets if you want to track your route or if you want to plan your route ahead. In general, the only model I could think of which comes close to the Suunto Ambit3 is the Garmin Fenix 3 which has a color display.
+
+However, my personal preference goes towards the <a href="http://amzn.to/2ey5Pmh" rel="nofollow" target="_blank">Suunto Ambit3</a> or <a href="http://amzn.to/2eklrdT" rel="nofollow" target="_blank">Suunto Traverse</a>.
 
 Suunto recently released the <a href="http://amzn.to/2eAj31a" rel="nofollow" target="_blank">Suunto Spartan</a> - a GPS watch with color display and touch screen. Then there is also the new <a href="http://amzn.to/2ekkYbG" rel="nofollow" target="_blank">Apple Watch Series 2</a> which however does not have such a long battery life. I use my Suunto Ambit3 mainly for running, packrafting and hiking and upgraded from the Suunto Ambit2 to the Suunto Ambit3 Sport. (Update 26.01.2017: Garmin has released the [Fenix 5X](http://amzn.to/2jse5Ht) which I would currently buy as my favorite outdoor watch since it also offers the possibility to upload topo maps)
 
@@ -24,12 +26,8 @@ Suunto recently released the <a href="http://amzn.to/2eAj31a" rel="nofollow" tar
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
 > On our packrafting trip in the Sarek National Park in Sweden we had also a Suunto with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
-
 # Connectivity
-The Suunto Ambit 3 allows you to connect the watch with a tablet or smartphone via Bluetooth. You can also synchronise pictures on your smartphone with data from the Suunto Ambit3. There is no USB cable needed anymore to transfer data from your watch to your computer. This should also have an impact on the lifespan of the battery of the watch.
+The Suunto Ambit 3 allows you to connect the watch with a tablet or smartphone via Bluetooth. You can also synchronize pictures on your smartphone with data from the Suunto Ambit3. There is no USB cable needed anymore to transfer data from your watch to your computer. This should also have an impact on the lifespan of the battery of the watch.
 
 ---
 
@@ -44,7 +42,7 @@ It's possible to create videos with the Movescount App which uses your tracking 
 ---
 
 # Heart Rate Monitor
-The heart rate monitor of the Suunto Ambit3 is notably smaller than the one which came with the Suunto Ambit2. On my first run with the heart rate monitor I hardly noticed that I am wearing it compared to the old HR monitor. What's more, you can also use the HR Monitor without the watch and synchronise your heart rate data later on.
+The heart rate monitor of the Suunto Ambit3 is notably smaller than the one which came with the Suunto Ambit2. On my first run with the heart rate monitor I hardly noticed that I am wearing it compared to the old HR monitor. What's more, you can also use the HR Monitor without the watch and synchronize your heart rate data later on.
 
 ---
 
@@ -134,7 +132,8 @@ The Suunto watches also work great together with an e.g. iPhone which can be use
 
 **Update (26.1.2016)** Garmin has released the <a href="http://amzn.to/2jse5Ht" rel="nofollow" target="_blank">Fenix 5X</a> which has the HR monitor on the wrist and is able to upload topo maps.
 
-
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 
 [1]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/
 [2]:	http://www.hikeventures.com/Suunto-Traverse-Ambit3-differences/

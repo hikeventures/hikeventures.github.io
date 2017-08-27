@@ -27,8 +27,6 @@ And this was the end of our first day in Scotland and the first day of a great P
 <br>
 <!--more-->
 
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 ## The Morning of Little Discoveries
 Still tired from our long trip the day before, we took our time to wake up the next morning. It was still raining a bit and some water was slowly dripping over our bed – good thing we had noticed it the night before and ‘waterproofed’ ourselves by putting a raincoat over our blankets.

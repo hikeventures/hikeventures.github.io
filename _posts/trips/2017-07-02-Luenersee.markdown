@@ -20,8 +20,7 @@ The Lünersee is one of the most beautiful alp lakes and is located nearby Brand
 
 <br>
 <!--more-->
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 
 So what's special on the Lünersee. In a way it's an artificial lake which has been created with the construction of a dam. The Lünersee is located about 2000 meters above the sea level and there is also the Douglas hut next to the cable car station where you can enjoy a coffee, cold drinks and snacks.
 

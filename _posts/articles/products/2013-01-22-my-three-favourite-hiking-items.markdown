@@ -13,11 +13,15 @@ image: https://farm9.staticflickr.com/8043/8372530877_0de9aef5b2_b.jpg
 <amp-img src=""https://farm9.staticflickr.com/8043/8372530877_0de9aef5b2_b.jpg" width="683" height="1024" alt="Victorinox Swiss Knife" layout="responsive"></amp-img>
 
 Light and plenty of tools - the Victorinox Swisslite Pocket Knife is the perfect item if you want to hike with less grams. Some books suggest razorblades as a lightweight tool but it lacks the functionalities and comfort of this little gem.
+<br>
 <!--more-->
-<br><a href="https://www.flickr.com/photos/90204224@N07/8372531265" title="Light My Fire Swedish Fire Steel"><img src="https://farm9.staticflickr.com/8196/8372531265_a2a9822deb_b.jpg" width="683" height="1024" alt="Light My Fire Swedish Fire Steel"></a><br><br>
+<a href="https://www.flickr.com/photos/90204224@N07/8372531265" title="Light My Fire Swedish Fire Steel"><img src="https://farm9.staticflickr.com/8196/8372531265_a2a9822deb_b.jpg" width="683" height="1024" alt="Light My Fire Swedish Fire Steel"></a><br><br>
 
 Light my fire swedish fire steel works even when its wet and windy. It's a great tool to light up a fire or your stove.<br><br>
 
 <a href="https://www.flickr.com/photos/90204224@N07/8372527259" title="Retki LED Light"><img src="https://farm9.staticflickr.com/8515/8372527259_441aed73e8_b.jpg" width="683" height="1024" alt="Retki LED Light"></a><br><br>
 
 Retki LED Light is small and provides enough light to read a book in my tent.
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

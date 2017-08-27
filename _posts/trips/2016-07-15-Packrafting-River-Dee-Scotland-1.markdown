@@ -14,11 +14,8 @@ image: https://farm2.staticflickr.com/1441/25815623486_4cb468584a_b.jpg
 In January we made plans to go packrafting in the Scottish Highlands and decided to raft down the River Dee for a couple of days. Knowing that the temperatures were below 0 C degree during the night we were quite lucky with the weather as we had sunshine until the last day. For Konstantin the River Dee was the the second of the three great rivers of Scotland. Maybe Next year he will have a chance to do the third?
 
 <amp-img src="https://farm2.staticflickr.com/1441/25815623486_4cb468584a_b.jpg" width="1024" height="681" alt="Packrafting in Scotland - River Dee" layout="responsive"></amp-img>
-
 <br>
 <!--more-->
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 ## Meeting at the airport
 We met at the airport in Edinburgh - Konstantin arrived just 1 hour later than Patrick - and we took the new tram from the airport to the city center. Once we arrived in the city center we were searching for Konstantin's hotel where he was planning to stay for another week after our planned packrafting trip. We unloaded some of our clothes from our backpack in the hotel and started walking through the city towards the central station.

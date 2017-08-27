@@ -41,4 +41,7 @@ It lies very nicely in my hand and it is very sharp.
 Here you can find our trip reports from Norway:   
 [Day Trip to Hammerfest](http://www.hikeventures.com/hammerfest-daytrip/)   
 [Snowshoeing, Winter Camping and Huskies](http://www.hikeventures.com/winter-camping-alta/)   
-[Alta](http://www.hikeventures.com/komsa-alta/)   
+[Alta](http://www.hikeventures.com/komsa-alta/)  
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script> 

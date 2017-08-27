@@ -15,8 +15,7 @@ This morning we went to the tourist office in Alta to buy our tickets for the bu
 <amp-img src="https://farm1.staticflickr.com/353/31934556210_cfd491dbad_k.jpg" width="2048" height="1152" layout="responsive" alt="Bus Our day trip from Alta to Hammerfest"></amp-img>
 <br>
 <!--more-->
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 
 ## From Alta to Hammerfest by bus
 At 8.30 we went to <a href="http://www.northadventure.no">North Adventure</a> where we bought our <a href="http://www.northadventure.no/oneIndiv.php?tur=AI90">day trip voucher</a> and our bus left at 9am just before their office. The bus took us along the Fjord into the uplands where the winter sun tried to reach the horizon. However, it would still take the sun another week until it would be visible again.

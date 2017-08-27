@@ -312,5 +312,3 @@ If you are excited about packrafting you may also watch my [video][36] about win
 [image-48]:	https://farm1.staticflickr.com/768/22773235853_228edcf94a_b.jpg "Packrafting Turku Archipelago Winter Paddling Storm rough sea"
 [image-49]:	https://farm1.staticflickr.com/649/23104640200_249fd97577_b.jpg "Packrafting Turku Archipelago Winter Paddling Werner Shuna"
 [image-50]:	https://farm1.staticflickr.com/624/23032450729_6a9aee0b11_b.jpg "Packrafting Turku Archipelago Winter Paddling"
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

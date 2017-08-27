@@ -118,8 +118,6 @@ On our last day we hiked from the Meraner Hut to Bozen and then took the bus bac
 
 Interested to read about another mountain adventure in Sweden? Here is our [story][28] about our packrafting trip in the Swedish mountains.
 
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 
 [1]:	http://www.flickr.com/photos/90204224@N07/8199115122/
 [2]:	http://www.flickr.com/photos/90204224@N07/8197987855/

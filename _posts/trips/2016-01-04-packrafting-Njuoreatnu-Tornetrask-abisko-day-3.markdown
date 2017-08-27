@@ -19,8 +19,7 @@ After a chilly night in our tent which we pitched on a small island we woke up s
 
 <br>
 <!--more-->
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 
 After crawling out of the tent we explored our little island.
 

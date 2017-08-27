@@ -19,8 +19,7 @@ We fell asleep almost instantly the night before in our tent which we pitched on
 
 <br>
 <!--more-->
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 
 And that's how the tent wall looks like when you go camping in Scandinavia - hungry mosquitoes waiting for their breakfast.
 
