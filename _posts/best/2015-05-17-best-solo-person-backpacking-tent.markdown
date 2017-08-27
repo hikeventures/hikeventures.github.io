@@ -10,7 +10,7 @@ tags:
   - tents
 layout: post
 ---
-In this blog post I have [selected](#the-best-solo-person-tents-of-2017) the best solo person backpacking tents for 2017 - 2018 which I would consider to buy for my next hiking or backpacking trip. [Here](http://www.hikeventures.com/sleeping-pads-2017/) you can also see which sleeping pads I would favor taking with me on my next outdoor adventure.
+In this blog post I have [selected](#the-best-solo-person-tents-of-2017) the best solo person backpacking tents for 2017 - 2018 which I would consider to buy for my next hiking or backpacking trip. [Here](http://www.hikeventures.com/sleeping-pads-2017/) you can also see which sleeping pads I would favor taking with me on my next outdoor adventure. Also have a look on our [FAQ for tents](#faq-for-tents).
 
 <amp-img src="https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Best solo person backpacking tent in 2017 - 2018" layout="responsive"></amp-img>
 <br>
@@ -303,7 +303,20 @@ The Sea to Summit Ultra-Sil eVENT Compression Dry Sack is currently my favorite 
 
 <hr>
 
-## Best 1-Berson tent with priority on space and vestibule
+## FAQ on tents
+
+* [Best 1-Person tent with priority on space and vestibule](#best-1-person-tent-with-priority-on-space-and-vestibule)
+* [Best 1-person ultralight tent](#best-1-person-ultralight-tent)
+* [Best self-standing 1-person tent for exposed and harsh environments](#best-self-standing-1-person-tent-for-exposed-and-harsh-environments)
+* [Which tent pegs to use?](#which-tent-pegs-to-use)
+* [Which tent for cycle touring?](#which-tent-for-cycle-touring)
+* [Are tent footprints worth it?](#are-tent-footprints-worth-it)
+* [Are tent footprints waterproof?](#are-tent-footprints-waterproof)
+* [What tent size do i need?](#what-tent-size-do-i-need)
+* [Why should a tent have vestibule?](#why-should-a-tent-have-a-vestibule)
+* [Why is there condensation in a tent?](#why-is-there-condensation-in-a-tent)
+
+## Best 1-Person tent with priority on space and vestibule
 
 If you are looking for a sturdy tent with lots of space and a vestibule then you should get the Hilleberg Nallo, Hilleberg Niak or the MSR Hubba NX as a 3-season tent or the Hilleberg Nallo 2 as a 4-season tent (these tents are not self-standing).
 
@@ -323,9 +336,36 @@ Also, keep in mind that the shiny white color of the Hyperlite Mountain Gear Ult
 
 On our packrafting trip in Scotland we had a MSR Hubba Hubba NX with us which is also a great 3-season tent, offers space for 2 and costs less than the Hilleberg tents.
 
-## Best self-standing 1-person tent for exposed & harsh environments
+## Best self-standing 1-person tent for exposed and harsh environments
 
 The Hilleberg Soulo seems to be the toughest tent for stormy weather and winter camping but comes with additional weight.
+
+## Which tent pegs to use?
+You can use wooden tent pegs if you are planning to camp nearby a forest. So there is no need to carry pegs with you. Wooden tent pegs are usually suitable if the ground is soft. One disadvantage of them, however, is that they can break easily.
+
+Then there are steel and aluminum tents which are usually sold together with a tent. They are more durable than wooden pegs and are better suited for harder grounds, e.g., stones and rocks. Steel, however, tend to rust over the time compared to aluminum and is also somewhat heavier.
+
+## Which tent for cycle touring?
+If you are planning to make a bicycle trip, then you can take a tent with you which weights a bit more. The additional weight could be for example a tent which offers more space. You can also take an additional tent footprint with you to protect your tent floor.
+
+## Are tent footprints worth it?
+Tent footprints might be worth an investment to protect your tent floor. They are in particular useful if you are planning to go on a longer trip. One disadvantage of footprints is however that you have to carry additional weight with you.
+
+## Are tent footprints waterproof?
+Tent footprints are usually waterproof.
+
+## What tent size do I need?
+If you don't need much room, then you can get the smallest tent which is available. However, I prefer to have some additional space to sit or to take gear with me into the tent.
+
+A bigger tent is also nice to have if you are exposed to longer rain periods and have to spend more time in your tent. A bigger tent might also be a better choice if you plan to camp at the same spot for several days.
+
+## Why should a tent have a vestibule?
+A vestibule is nice to have to store your gear or to cook in it if it's raining.
+
+## Why is there condensation in a tent?
+Condensation forms when you are breathing or if moisture evaporates from your body or wet clothes. Condensation can also form if the air circulation of the tent is bad.
+
+---
 
 ## Final word
 
@@ -343,8 +383,12 @@ Here is also an article about our packrafting trip in the Swedish mountains wher
 
 After one year we have only got a small hole in the floor, but otherwise, we were quite happy with the MSR Hubba Hubba NX as a 3-season tent.
 
+---
+
 ## My gear
 
 Currently, my go-to tent is the <a href="http://amzn.to/2pDaiMo" rel="nofollow">Hilleberg Unna</a> in combination with the [Unna Inner Mesh](http://www.hikeventures.com/Hilleberg-Unna-Mesh/) tent and the [Tarp 10 UL. ](http://www.hikeventures.com/Hilleberg-Tarp-10-UL/)
 
 I chose the Unna since it’s quite versatile, offers plenty of space and of course the big panorama window.
+
+<a href="#the-best-solo-person-tents-of-2017" rel="nofollow" class="btn btn-danger" role="button">Back to the top</a>
