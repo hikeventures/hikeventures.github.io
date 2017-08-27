@@ -273,7 +273,7 @@ Further, the jacket is also RDS Certified (Responsible Down Standard).
 <br>
 
 ### When to wear?
-Down jackets are best worn when it’s not that humid. I have down jackets for different seasons. A thin down jacket for chilly 3-season use when I go backpacking and another thicker down jacket when I go for example on a winter trip to Lapland.
+Down jackets are best worn when it’s not that humid. I have down jackets for different seasons. A thin down jacket for chilly 3-season trips when I go backpacking and another thicker down jacket when I go for example on a winter trip to Lapland.
 
 ---
 
@@ -288,7 +288,7 @@ I wash my down jacket by hand. However, you can also gently wash your down jacke
 ---
 
 ### How to fluff?
-A big tumbler can be used to dry the down jacket. Also add a few tennis balls to get the down fluffy.
+A big tumbler can be used to dry the down jacket. Also, add a few tennis balls to get the down fluffy.
 
 ---
 
@@ -298,9 +298,9 @@ I have one dedicated dry bag where I stuff my down jacket and my sleeping bag in
 ---
 
 ### Down feathers are coming out
-Sometimes down feathers are coming out through the fabric. In this case try to pull them back into the down jacket. Don't pull them out.
+Sometimes down feathers are coming out through the fabric. In this case, try to pull them back into the down jacket. Don't pull them out.
 
 ---
 
 ### What is water resistant down?
-Compared to normal down, water resistant down has been treated with a water resistant coating. This means that it will be a bit more resistant towards moisture. However, if you are planning to travel to place where you expect a lot of moisture then you should probably consider a [jacket with synthetic insulation](http://www.hikeventures.com/best-synthetic-insulated-jackets/).
+Compared to normal down, water resistant down has been treated with a water resistant coating. This means that it will be a bit more resistant towards moisture. However, if you are planning to travel to a place where you expect a lot of moisture then you should probably consider a [jacket with synthetic insulation](http://www.hikeventures.com/best-synthetic-insulated-jackets/).
