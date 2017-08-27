@@ -23,7 +23,7 @@ Moreover, I rather carry a [synthetic insulated jacket](http://www.hikeventures.
 
 Also have a look on our [FAQ](#faq-on-down-jackets) to learn more about down jackets.
 
-<amp-img src="https://c1.staticflickr.com/8/7379/15913311563_d90e96b2c3_k.jpg" width="2048" height="1360" alt="Best down jackets 2017 - 2018" layout="responsive"></amp-img>
+<amp-img src="https://farm1.staticflickr.com/395/32116563352_d0c641d313_k.jpg" width="2048" height="1152" alt="Best down jackets 2017 - 2018" layout="responsive"></amp-img>
 <br>
 <!--more-->
 
