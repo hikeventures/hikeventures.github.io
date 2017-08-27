@@ -11,13 +11,13 @@ tags:
   - jackets
 layout: post
 ---
-In this blog post, I have selected the [best down jackets](#down-jacket-features-table) of 2017 - 2018 which I would consider buying if I were to get a new one for my next backpacking or winter adventure.
+In this blog post, I have selected the [best down jackets](#down-jacket-features-table) of 2017 - 2018 which I would consider buying if I were to get a new one for my next [backpacking or winter adventure](http://www.hikeventures.com/destinations/).
 
 A down jacket is an essential piece of clothes when planning an overnight trip outdoors or during winter time. A down jacket keeps you much warmer compared to a fleece jacket.
 
-Further, down jackets are designed for different activities or environments e.g. urban or outdoor adventures.
+Further, down jackets are designed for different activities or environments, e.g., urban or outdoor adventures.
 
-Usually, I wear a [fleece jacket](http://www.hikeventures.com/best-fleece-jackets/) as a mid-layer when I go hiking. When it get’s windy I pull on a [wind jacket](http://www.hikeventures.com/best-windjackets/).  If I sit around in my camp I switch my fleece to a down jacket.
+Usually, I wear a [fleece jacket](http://www.hikeventures.com/best-fleece-jackets/) as a mid-layer when I go hiking. When it get’s windy I pull on a [wind jacket](http://www.hikeventures.com/best-windjackets/).  If I sit around in my camp, I switch my fleece to a down jacket.
 
 Moreover, I rather carry a [synthetic insulated jacket](http://www.hikeventures.com/best-synthetic-insulated-jackets/) with me than a down jacket if I am planning to go hiking in damp or humid conditions as down may not insulate very well once it get’s wet.
 
@@ -81,11 +81,13 @@ Also, have a look at our [FAQ](#faq-on-down-jackets) to learn more about down ja
 
 More heavy than the other jackets in our list, the Arc’teryx Ceres SV Parka is made for the deep winter where warmth is the most important factor.
 
-The jacket comes with 850 fill down insulation and its GORE® WINDSTOPPER® fabric protects you from cold winds. The shell of the jacket is also water repellent and windproof. The jacket also comes with a helmet compatible insulated Cohaesive™ hood StormHood™ to protect you from the elements which can also be adjusted with gloves or mittens on.
+The jacket comes with 850 fill down insulation, and its GORE® WINDSTOPPER® fabric protects you from cold winds. The shell of the jacket is also water repellent and windproof.
+
+The jacket also comes with a helmet compatible insulated Cohaesive™  StormHood™ to protect you from the elements which is adjustable with gloves or mittens on.
 
 The jacket comes with a box wall construction meaning less cold spots and more loft. The jacket also features Coreloft™ synthetic insulation in places where moisture could have an impact on down insulation.
 
-The Ceres SV Parka offers a great warmth-to-weight ratio, compressibility, and packability.
+The Ceres SV Parka offers an excellent warmth-to-weight ratio, compressibility, and packability.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F102814%2Farcteryx-ceres-sv-down-parka-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arc'teryx Ceres SV Parka</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F103454%2Farcteryx-ceres-sv-parka-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Arc'teryx Ceres SC Parka</a>
 
@@ -99,11 +101,11 @@ The Ceres SV Parka offers a great warmth-to-weight ratio, compressibility, and p
 
 We would pick the Cerium LT Hoody for moderate winter trips or for spring or autumn backcountry adventures.
 
-The Arc'teryx Cerium LT Hoody is a lightweight down jacket which can be worn as a mid layer or as an outer layer.
+The Arc’teryx Cerium LT Hoody is a lightweight down jacket which you can wear as a mid- or an outer layer.
 
 It comes with 850 down fill and has an excellent warmth-to-weight ratio.
 
-The Arato™ 10 nylon shell is lightweight and durable and synthetic insulation has been applied on areas where moisture could build up. The Cerium LT Hoody also comes with a DWR finish.
+The Arato™ 10 nylon shell is lightweight and durable, and synthetic insulation applies on areas where moisture could build up. The Cerium LT Hoody also comes with a DWR finish.
 
 The jacket has an articulated design which adjusts to your body movements.
 
@@ -123,11 +125,11 @@ The jacket has an internal zippered security pocket with a stuff sack. LT stands
 
 The Arc’teryx Cerium SV Hoody is part of Arc’teryx severe weather product line - most durable materials which provides most weather protection.
 
-We would wear this jacket during the winter. For camping during spring and summer, it’s probably going to be a bit too warm as the jacket was designed as the ultimate cold weather mid-layer or a standalone solution.
+We would wear this jacket during the winter. For camping during spring and summer, it’s probably going to be a bit too warm as the jacket is designed as the ultimate cold weather mid-layer or a standalone solution.
 
 A baffle structure keeps the 850 down fill lofty and the down insulated StormHood™ and glove mitten-friendly Cohaesive™ adjusters are welcoming features for winter activities as well.
 
-Synthetic insulation is strategically used on certain areas of this jacket as well.
+Synthetic insulation is strategically used in parts of this jacket as well.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F117170%2Farcteryx-cerium-sv-down-hoodie-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arc'teryx Cerium SV Hoodie</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F117257%2Farcteryx-cerium-sv-down-hoodie-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Arc'teryx Cerium SV Hoodie</a>
 
@@ -139,15 +141,17 @@ Synthetic insulation is strategically used on certain areas of this jacket as we
 
 **Weight**: 2070 grams / 73 oz.
 
-The Canada Goose Expedition Down Parka was originally designed for scientists in Antarctica.
+The Canada Goose Expedition Down Parka has been designed for scientists in Antarctica.
 
-This is probably the warmest jacket in our selection and Canada Goose rates it as TEI 5 which means that it's suitable for temperatures of -30°C and below. Further, the jacket has been field-tested on the coldest places on earth.
+This jacket is probably the warmest jacket in our selection, and Canada Goose rates it as TEI 5 which means that it’s suitable for temperatures of -30°C and below.
+
+Further, the jacket has been field-tested on the coldest places on earth.
 
 The downside of this jacket is probably its weight. With 2073 grams (73 oz.) it's more on the heavy site on our weight scale filled with 625 fill down.
 
 The Canada Goose ARCTIC TECH fabric Water Resistant is wind, and water resistant, durable and warm consisting of an 85% Polyester and 15% cotton mixture.
 
-The jacket features an adjustable, non-removable hood, a fur ruff, fleece-lined chin guard, interior back pack shoulder straps, six exterior pockets, four large handwarmer pockets, two interior pockets an adjustable waist drawcords as well as a hideaway snow skirt.
+The jacket features an adjustable, non-removable hood, a fur ruff, fleece-lined chin guard, interior back pack shoulder straps, six exterior pockets, four large handwarmer pockets, two interior pockets, an adjustable waist drawcords as well as a hideaway snow skirt.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fcanada-goose-expedition-down-parka-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Canada Goose Expedition Parka</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fcanada-goose-expedition-down-parka-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Canada Goose Expedition Parka</a>
 
@@ -165,7 +169,7 @@ The additional zip on the front, however, adds a little bit more weight to the j
 
 We would wear the Marmot Quasar Hoody as a mid-layer under a shell during moderate winter trips or on spring and summer adventures.
 
-The jacket adjusts to your movements and features an elastic draw cord hem and cuss as well as an adjustable hood. You can also pack the jacket in its pocket.
+The jacket adjusts to your movements and features an elastic draw cord hem and cuss as well as an adjustable hood. You can also pack the jacket into its pocket.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F116458%2Fmarmot-quasar-hoodie-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Marmot Quasar Hoodie</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmarmot-quasar-hooded-down-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Marmot Quasar Hoodie</a>
 
@@ -179,11 +183,15 @@ The jacket adjusts to your movements and features an elastic draw cord hem and c
 
 The Mountain Hardware Ghost Whisperer Hooded Down Jacket is one of the lightest hooded down jackets available.
 
-This is a great jacket for camping during spring, summer and autumn or as a light mid-layer under your shell jacket. It can also be compressed and packs into its own pocket.
+This jacket is a great jacket for camping during spring, summer, and autumn or as a light mid-layer under your shell jacket. It can also be compressed and packs into its pocket.
 
-The Q.Shield™ DOWN 800-fill is also resistant towards moisture and the down will keep you longer insulated. The jacket also features elastic cuff and adjustable toggle hem. The shell of the jacket consists of Whisperer 7D x 10D Ripstop.
+The Q.Shield™ DOWN 800-fill is also resistant towards moisture, and the down will keep you longer insulated.
 
-If you are looking for a proper winter jacket then we would rather pick the Rab Infinity Endurance or the Rab Positron jacket.
+The jacket also features elastic cuff and adjustable toggle hem. The shell of this jacket consists of Whisperer 7D x 10D Ripstop.
+
+If you are looking for a proper winter jacket, then we would rather pick the Rab Infinity Endurance or the Rab Positron jacket.
+
+See the Men’s Mountain Hardware Ghost Whisperer See the Women’s Mountain Hardware Ghost Whisperer
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F880675%2Fmountain-hardwear-ghost-whisperer-hooded-down-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Mountain Hardware Ghost Whisperer</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F873087%2Fmountain-hardwear-ghost-whisperer-down-hooded-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Mountain Hardware Ghost Whisperer</a>
 
@@ -195,7 +203,7 @@ If you are looking for a proper winter jacket then we would rather pick the Rab 
 
 **Weight**: 298 grams / 10.5 oz.
 
-Patagonia is another popular outdoor brand and delivers a super light down jacket which comes with 2 zipped hands warmer pockets, one zippered chest pocket and elastic-bound cuffs and hem.
+Patagonia is another popular outdoor brand and delivers a super light down jacket which comes with two zipped hands warmer pockets, one zippered chest pocket and elastic-bound cuffs and hem.
 
 Moreover, the jacket adjusts to your movements. There is also a storm flap on the front zipper to keep the warm air inside the jacket. There is also a carabiner clip-in loop on the jacket.
 
@@ -215,11 +223,17 @@ Wear the Patagonia Ultralight Down Hoodie as a mid layer during the winter month
 
 **Weight**: 575 grams / 20.5 oz
 
-The Rab Infinity Endurance Jacket is a light-weight technical alpine or mountaineering jacket featuring a helmet-compatible hood and a stitch-through baffle construction. Moreover, there is an internal security pocket elasticated cuffs and a hem drawcord.
+The Rab Infinity Endurance Jacket is a light-weight technical alpine or mountaineering jacket featuring a helmet-compatible hood and a stitch-through baffle construction.
 
-It’s high fill power and low weight makes this probably one of the best lightweight winter down jackets. The shell of the jacket is a combination of Pertex® Endurance and Pertex® Quantum fabrics.
+Moreover, there is an internal security pocket elasticated cuffs and a hem drawcord.
 
-The jacket contains 210 grams of 850-fill goose down. However, if you need a warmer jacket then the Rab Positron Jacket would probably be a better alternative which adds approximately 30% more warmth.
+It’s high fill power, and low weight makes this probably one of the best lightweight winter down jackets. The shell of the jacket is a combination of Pertex® Endurance and Pertex® Quantum fabrics.
+
+The jacket contains 210 grams of 850-fill goose down.
+
+However, if you need a warmer jacket, then the Rab Positron Jacket would probably be a better alternative which adds approximately 30% more warmth.
+
+See the Men’s Rab Infinity Endurance See the Women’s Rab Infinity Endurance
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-infinity-endurance-down-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Rab Infinity Endurance</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-infinity-down-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Rab Infinity Endurance</a>
 
@@ -231,11 +245,13 @@ The jacket contains 210 grams of 850-fill goose down. However, if you need a war
 
 **Weight**: 720 grams / 25.4 oz.
 
-The  Rab Positron Jacket is proper box-wall down winter jacket with a water-resistant outer fabric and a helmet-compatible hood. The jacket has been designed to wear multiple layers under it.
+Rab is a specialist in down clothing and down sleeping bags, and this is also evident with the Zero G jacket - a 1000-fill down jacket with ultralight Pertex® 7d Quantum fabric.
 
-The manufacturer claims that it has been designed for mountain and expedition use up to 6000 m.
+This down jacket is one of the lightest 1000-fill goose down jackets on the market filled with 130 grams (4.5 oz.) goose down and is designed for mountaineers and climbers.
 
-This jacket delivers about 30% more warmth than the Rab Infinity Endurance jacket and is filled with 275 grams (10 oz.) 800-fill European Goose Down and comes with a Pertex® Endurance shell.
+The jacket features a stitch through midi channel construction, two zip handwarmer pockets, semi-elasticated hem and elasticated cuffs.
+
+Further, the jacket is also RDS Certified (Responsible Down Standard).
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-positron-down-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Rab Positron</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-positron-down-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Rab Positron</a>
 
@@ -293,19 +309,27 @@ A big tumbler can be used to dry the down jacket. Also, add a few tennis balls t
 ---
 
 ### How to pack and store it?
-I have one dedicated dry bag where I stuff my down jacket and my sleeping bag in. Down products need much less space than synthetic products and the best way to get as much space as possible is to compress down in a compression bag.
+I have one dedicated dry bag where I stuff in my down jacket and my sleeping bag.
+
+Down products need much less space than synthetic products, and the best way to get as much space as possible is to compress down in a compression bag.
 
 ---
 
 ### Down feathers are coming out
-Sometimes down feathers are coming out through the fabric. In this case, try to pull them back into the down jacket. Don't pull them out. You may also try to fluff the down in your jacket so they won't be able to fit through small holes in the fabric anymore.
+Sometimes down feathers are coming out through the fabric. In this case, try to pull them back into the down jacket. Don’t pull them out.
+
+You may also try to fluff the down in your jacket, so they won’t be able to fit through small holes in the fabric anymore.
 
 ---
 
 ### What is water resistant down?
-Compared to normal down, water resistant down has been treated with a water resistant coating. This means that it will be a bit more resistant towards moisture. However, if you are planning to travel to a place where you expect a lot of moisture then you should probably consider a [jacket with synthetic insulation](http://www.hikeventures.com/best-synthetic-insulated-jackets/).
+Compared to normal down, water resistant down is treated with a water resistant coating. The down feathers will be a bit more resilient towards moisture.
+
+However, if you are planning to travel to a place where you expect a lot of moisture, then you should probably consider a [jacket with synthetic insulation](http://www.hikeventures.com/best-synthetic-insulated-jackets/).
 
 ---
 
 ### Are down jackets good for rain?
-Down jackets usually come with a water resistant fabric. However, they are not waterproof. If you expect to have lots of rain then you should probably cover your down jacket with a rain jacket or switch from a down jacket to a [fleece jacket](http://www.hikeventures.com/best-fleece-jackets/) or [synthetic insulated jacket](http://www.hikeventures.com/best-synthetic-insulated-jackets/).
+Down jackets usually come with a water resistant fabric.
+
+However, they are not waterproof. If you expect to have lots of rain, then you should probably cover your down jacket with a rain jacket or switch from a down jacket to a [fleece jacket](http://www.hikeventures.com/best-fleece-jackets/) or [synthetic insulated jacket](http://www.hikeventures.com/best-synthetic-insulated-jackets/).
