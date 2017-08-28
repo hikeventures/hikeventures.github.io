@@ -1,5 +1,5 @@
 ---
-title: Best solo person backpacking tents 2017 - 2018
+title: Best 1-person backpacking tents 2017 - 2018
 description: Overview of the best solo person backpacking tents for 2017 - 2018.
 date: 2016-01-03 00:07:07
 category: articles
@@ -10,7 +10,7 @@ tags:
   - tents
 layout: post
 ---
-In this blog post I have [selected](#the-best-solo-person-tents-of-2017) the best solo person backpacking tents for 2017 - 2018 which I would consider to buy for my next hiking or backpacking trip. [Here](http://www.hikeventures.com/sleeping-pads-2017/) you can also see which sleeping pads I would favor taking with me on my next outdoor adventure. Also have a look on our [FAQ for tents](#faq-for-tents).
+In this blog post I have [selected](#the-best-solo-person-tents-of-2017) the best 1-person backpacking tents for 2017 - 2018 which I would consider to buy for my next hiking or backpacking trip. [Here](http://www.hikeventures.com/sleeping-pads-2017/) you can also see which sleeping pads I would take with me on my next outdoor adventure. Also have a look on our [FAQ for tents](#faq-on-tents).
 
 <amp-img src="https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Best solo person backpacking tent in 2017 - 2018" layout="responsive"></amp-img>
 <br>
@@ -32,6 +32,10 @@ In this blog post I have [selected](#the-best-solo-person-tents-of-2017) the bes
         </tr>
         <tr>
           <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Big-Agnes-Fly-Creek-HV-UL1-Tent_10333604_10208_10000001_-1_%3Firgwc%3D1%26utm_medium%3DAffiliate%26utm_source%3DAL%26utm_campaign%3D125311%26cm_mmc%3DAffiliate-_-AvantLink-_-na-_-125311%26ad_id%3DAvant%26avad%3D150351_af5f9c25" target="_blank" rel="nofollow">Fly Creek HV UL1</a></td><td>935 grams / 33 oz.</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F117892%2Fbig-agnes-copper-spur-ul-1-tent" target="_blank" rel="nofollow">Big Agnes
+Copper Spur UL 1</a></td><td>985 grams / 2 lbs. 3 oz.</td>
         </tr>
         <tr>
           <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Enan-1-Person-Tent_10338612_10208_10000001_-1" target="_blank" rel="nofollow">Hilleberg Enan</a></td><td>1100 grams / 38.8 oz.</td>
@@ -64,15 +68,36 @@ In this blog post I have [selected](#the-best-solo-person-tents-of-2017) the bes
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 
-## Fly Creek HV UL1
+## Big Agnes Copper Spur UL 1 Tent
+
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B011XEFCN6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B011XEFCN6&linkCode=as2&tag=hikeve-20&linkId=5a62fe278e5111104754d03041ffa895"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B011XEFCN6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B011XEFCN6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Length**: 218 cm / 85.5 inches
+**Width**: 71 cm (95cm) / 28 inches (37.4 inches)
+**Height**: 94 cm / 37 inches
+**Inner Space**: 2.04 m²  / 22 ft²
+**Vestibule**: 0.9 m²  / 10 ft²
+**Weight**: 985 grams / 2 lbs. 3 oz.
+
+The Big Agnes Copper Spur UL 1 Tent is an ultralight 3-season tent for 1-person. It comes with Aluminium DAC Featherlite NSL poles and is free-standing.
+
+The tent has one entrance and storm flaps over the zippers. Moreover, the tent comes with crossover poles offering roominess up high.
+
+On nice weather, you can just sleep inside the mesh body and leave the outer tent at home.
+
+The ventilation of this tent consists of the inner mesh tent and a roof vent.
+
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F117892%2Fbig-agnes-copper-spur-ul-1-tent" rel="nofollow" class="btn btn-danger" role="button">See the Big Agnes Fly Creek HV UL1</a>
+
+## Big Agnes Fly Creek HV UL1
 
 <a  href="http://www.amazon.com/gp/product/B00GSYH1T0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GSYH1T0&linkCode=as2&tag=hikeve-20&linkId=UQ5VQ5S2FSWYOS4K" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GSYH1T0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GSYH1T0" width="1" height="1" border="0" alt="Fly Creek HV UL1" style="border:none !important; margin:0px !important;" />
 
-**Length**: 218 cm  
-**Width**: 71 cm (95cm)  
-**Height**: 97 cm  
-**Inner Space**: 1.8 m²  
-**Vestibule**: 0.45 m²  
+**Length**: 218 cm  / 85.8 inches
+**Width**: 71 cm (95cm) / 28 inches (37.4 inches)
+**Height**: 97 cm / 38.2 inches
+**Inner Space**: 1.8 m² / 19.3 ft²
+**Vestibule**: 0.45 m² / 4.8 ft²
 **Weight**: 935 grams / 33 oz.  
 
 The Big Agnes Fly Creek HV UL1 is a new product in the Big Agnes Ultralight tent range. It is a bit longer and taller than the Hilleberg Enan but has a smaller vestibule. Fly and floor have 1200 mm waterproof polyurethane coating.
@@ -85,11 +110,11 @@ The Big Agnes Fly Creek HV UL1 is a new product in the Big Agnes Ultralight tent
 
 <a href="http://www.amazon.com/gp/product/B003X2HQPY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003X2HQPY&linkCode=as2&tag=hikeve-20&linkId=FCTXO35WV5CXK5P7" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003X2HQPY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B003X2HQPY" width="1" height="1" border="0" alt="Hilleberg Akto" style="border:none !important; margin:0px !important;" />
 
-**Length**: 220 cm  
-**Width**: 62 cm (90cm)  
-**Height**: 93 cm  
-**Inner Space**: 1.7 m²  
-**Vestibule**: 0.8 m²  
+**Length**: 220 cm  / 86.6 inches
+**Width**: 62 cm (90cm)  / 24.4 inches (35.4 inches)
+**Height**: 93 cm  / 36.6 inches
+**Inner Space**: 1.7 m²  / 18.3 ft²
+**Vestibule**: 0.8 m² / 8.6 ft²
 **Weight**: 1700 grams / 60 oz.  
 **Fabric**:  Kerlon 1200  
 
@@ -109,11 +134,11 @@ Another reason why I would opt for a bigger tent like the Hilleberg Nallo 2 rath
 
 <a href="http://www.amazon.com/gp/product/B00UZ8ZNDQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UZ8ZNDQ&linkCode=as2&tag=hikeve-20&linkId=XBQVK7AJ3UD7ESR7" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00UZ8ZNDQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00UZ8ZNDQ" width="1" height="1" border="0" alt="Hilleberg Enan" style="border:none !important; margin:0px !important;" />
 
-**Length**: 215 cm  
-**Width**: 60 cm (95cm)  
-**Height**: 95 cm  
-**Inner Space**: 1.7 m²  
-**Vestibule**: 0.8 m²  
+**Length**: 215 cm / 84.6 inches
+**Width**: 60 cm (95cm) / 23.6 inches (37.4 inches)
+**Height**: 95 cm / 37.4 inches
+**Inner Space**: 1.7 m² / 18.2 ft²
+**Vestibule**: 0.8 m² / 8.6 ft²
 **Weight**: 1100 grams / 38.8 oz.  
 **Fabric**:  Kerlon 600  
 
@@ -131,11 +156,11 @@ The Enan has a mesh on one end which should provide excellent ventilation if pit
 
 <a href="http://www.amazon.com/gp/product/B00LMR6HSO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LMR6HSO&linkCode=as2&tag=hikeve-20&linkId=4YIQPTOP7VXOY4EM"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LMR6HSO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LMR6HSO" width="1" height="1" border="0" alt="Hilleberg Nallo" style="border:none !important; margin:0px !important;" />
 
-**Length**: 220 cm  
-**Width**: 130 cm  
-**Height**: 100 cm  
-**Inner Space**: 2.8 m²  
-**Vestibule**: 1.3 m²  
+**Length**: 220 cm / 86.6 inches
+**Width**: 130 cm / 51.2 inches
+**Height**: 100 cm /39.4 inches
+**Inner Space**: 2.8 m² / 30 ft²
+**Vestibule**: 1.3 m² / 13.9 ft²
 **Weight**: 2400 grams / 84.7 oz.  
 **Fabric**:  Kerlon 1200  
 
@@ -153,7 +178,7 @@ If you don’t need a freestanding tent and want the best weight/space ratio 4-s
 
 **Fabric**: Kerlon 600  
 **Weight**: 1700 grams / 60 oz.  
-**Area inner tent**: 2.6 m²  
+**Area inner tent**: 2.6 m² / 27.9 ft²
 
 The Hilleberg Niak 1.5 is the latest yellow label tent from Hilleberg.
 
@@ -173,11 +198,11 @@ Alternatively, I would choose the MSR Hubba Hubba NX which is also less pricey a
 
 <a href="http://www.amazon.com/gp/product/B004LAP3G6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004LAP3G6&linkCode=as2&tag=hikeve-20&linkId=4R5WXJMR7LNA2MKY" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004LAP3G6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B004LAP3G6" width="1" height="1" border="0" alt="Hilleberg Soulo" style="border:none !important; margin:0px !important;" />
 
-**Length**: 220 cm  
-**Width**: 105 cm  
-**Height**: 95 cm  
-**Inner Space**: 2.0 m²  
-**Vestibule**: 0.6 m²  
+**Length**: 220 cm / 86.6 inches
+**Width**: 105 cm / 41.3 inches
+**Height**: 95 cm / 37.4 inches
+**Inner Space**: 2.0 m² / 21.5 ft²
+**Vestibule**: 0.6 m² / 6.45 ft²
 **Weight**: 2400 grams / 84.7 oz.  
 **Fabric**:  Kerlon 1200  
 
@@ -204,7 +229,7 @@ If you don’t plan to do winter camping, then the Hilleberg Soulo is probably g
 **Persons**: 1  
 **Fabric**: Kerlon 1200  
 **Weight**: 2200 grams / 77.6 oz.  
-**Area inner tent**: 2.5 m²  
+**Area inner tent**: 2.5 m² / 26.9 ft²
 
 If you are taller or if you want more space, then the Hilleberg Unna is probably a better choice than the Soulo.
 
@@ -220,9 +245,9 @@ You can also purchase the Hilleberg Inner Mesh tent which provides better air ci
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26835366172/in/dateposted-public/" title="Hyperlite Mountain Gear Tent &amp; Ultamid Tarp"><img src="https://farm8.staticflickr.com/7432/26835366172_4b9630972f_b.jpg" width="1024" height="723" alt="Hyperlite Mountain Gear Tent HMG &amp; Ultamid Tarp - Best 1-person tent"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-**Length**: 271.8 cm  
-**Width**: 210.8 cm  
-**Height**: 162.6 cm  
+**Length**: 271.8 cm / 107 inches
+**Width**: 210.8 cm / 83 inches
+**Height**: 162.6 cm / 64 inches
 **Weight**: 499 grams / 17.6 oz.  
 **Fabric**: Dyneema® (Cuben Fiber)  
 
@@ -241,7 +266,7 @@ There were 2 of those Ultra-Mids on this event. The only issue I have with the w
 **Persons**: 2  
 **Fabric**: 15D ripstop / 20D ripstop (floor)  
 **Weight**: 1320 grams / 46.6 oz.  
-**Area inner tent**: 2.6 m²  
+**Area inner tent**: 2.6 m² / 27.9 inches
 
 Even so, the Marmot Force UL 2P is advertised as a two person tent; I would rather use it as a one person tent.
 
@@ -259,7 +284,7 @@ I have used the Marmot Force UL 2P on my trips in Finnish Lapland and Norway. Ma
 
 **Fabric**: 20D ripstop / 30D ripstop (floor)  
 **Weight**: 1290 grams / 45.5 oz.  
-**Area inner tent**: 1.67 m²  
+**Area inner tent**: 1.67 m² / 17.9 ft²
 
 The MSR Hubba NX is also a great 3-season tent and costs much less than the Hilleberg Niak 1.5.
 
