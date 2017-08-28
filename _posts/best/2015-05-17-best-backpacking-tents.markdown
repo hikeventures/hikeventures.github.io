@@ -425,7 +425,7 @@ If I were to choose an ultralight 3-season tent then I would probably go for the
 
 Finally, if you are into sea kayaking a self-standing durable tent - like the Hilleberg Soulo, Unna or the Hilleberg Nallo 2 - which can handle high winds is probably a better option than an ultralight tent as you don’t have to carry the tent anyway when you are paddling.
 
-Here is also an article about our packrafting trip in the Swedish mountains where we were camping in our MSR Hubba Hubba NX.
+Here is also an [article](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/) about our packrafting trip in the Swedish mountains where we were camping in our MSR Hubba Hubba NX.
 
 After one year we have only got a small hole in the floor, but otherwise, we were quite happy with the MSR Hubba Hubba NX as a 3-season tent.
 
