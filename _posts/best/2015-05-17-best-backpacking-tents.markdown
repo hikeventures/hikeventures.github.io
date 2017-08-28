@@ -351,8 +351,6 @@ The Sea to Summit Ultra-Sil eVENT Compression Dry Sack is currently my favorite 
 
 ## FAQ on tents
 
-* [Best 1-Person tent with priority on space and vestibule](#best-1-person-tent-with-priority-on-space-and-vestibule)
-* [Best 1-person ultralight tent](#best-1-person-ultralight-tent)
 * [Best self-standing 1-person tent for exposed and harsh environments](#best-self-standing-1-person-tent-for-exposed-and-harsh-environments)
 * [Which tent pegs to use?](#which-tent-pegs-to-use)
 * [Which tent for cycle touring?](#which-tent-for-cycle-touring)
@@ -362,29 +360,8 @@ The Sea to Summit Ultra-Sil eVENT Compression Dry Sack is currently my favorite 
 * [Why should a tent have vestibule?](#why-should-a-tent-have-a-vestibule)
 * [Why is there condensation in a tent?](#why-is-there-condensation-in-a-tent)
 
-## Best 1-Person tent with priority on space and vestibule
-
-If you are looking for a sturdy tent with lots of space and a vestibule then you should get the Hilleberg Nallo, Hilleberg Niak or the MSR Hubba NX as a 3-season tent or the Hilleberg Nallo 2 as a 4-season tent (these tents are not self-standing).
-
-## Best 1-person ultralight tent
-
-If low weight is your most important factor, then you could consider the Hyperlite Mountain Gear Ulta Mid tent, the Hilleberg Enan (or the Hilleberg Niak 1.5 if you need more space), the MSR Hubba NX or the Big Agnes Fly Creek HV UL1 tent.
-
-The prices on the MSR and the Big Agnes are considerably lower than on the Hilleberg tents.
-
-MSR also offers the new MSR FreeLite 1 (1000 grams) and the MSR Carbon Reflex 1 (790 grams), but they are less durable than the MSR Hubba NX (1290 grams).
-
-We found that the floor fabric on the MSR Hubba NX was already quite delicate and the MSR Freelite 1 and MSR Carbon Reflex 1 have a slightly lower weight because they have a thinner material on the floor and the rainfly than the MSR Hubba NX.
-
-Also, keep in mind that the shiny white color of the Hyperlite Mountain Gear UltaMid will turn into grayish over the time.
-
-<amp-img src="https://farm2.staticflickr.com/1472/25215098683_07c6ffbfb8_b.jpg" width="100%" alt="Best 1-person backpacking tent of 2017 MSR Hubba Hubba NX" layout="responsive"></amp-img>
-
-On our packrafting trip in Scotland we had a MSR Hubba Hubba NX with us which is also a great 3-season tent, offers space for 2 and costs less than the Hilleberg tents.
-
 ## Best self-standing 1-person tent for exposed and harsh environments
-
-The Hilleberg Soulo seems to be the toughest tent for stormy weather and winter camping but comes with additional weight.
+The Hilleberg Soulo seems to be the toughest 1-person tent for stormy weather and winter camping.
 
 ## Which tent pegs to use?
 You can use wooden tent pegs if you are planning to camp nearby a forest. So there is no need to carry pegs with you. Wooden tent pegs are usually suitable if the ground is soft. One disadvantage of them, however, is that they can break easily.
