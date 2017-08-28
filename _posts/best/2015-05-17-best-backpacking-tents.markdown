@@ -2,6 +2,7 @@
 title: Best backpacking tents 2017 - 2018
 description: Overview of the best backpacking tents for 2017 - 2018.
 date: 2016-01-03 00:07:07
+update_date: 2017-08-28 05:43:52
 category: articles
 image: https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg
 tags:
