@@ -368,6 +368,10 @@ The Sea to Summit Ultra-Sil eVENT Compression Dry Sack is currently my favorite 
 * [Why should a tent have vestibule?](#why-should-a-tent-have-a-vestibule)
 * [Why is there condensation in a tent?](#why-is-there-condensation-in-a-tent)
 
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+
+
 ## Best self-standing 1-person tent for exposed and harsh environments
 The Hilleberg Soulo seems to be the toughest 1-person tent for stormy weather and winter camping.
 
@@ -423,6 +427,3 @@ Currently, my go-to tent is the <a href="http://amzn.to/2pDaiMo" rel="nofollow">
 I chose the Unna since it’s quite versatile, offers plenty of space and has a big panorama window.
 
 <a href="#weight-comparison-table" rel="nofollow" class="btn btn-danger" role="button">Back to the top</a>
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
