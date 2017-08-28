@@ -91,6 +91,8 @@ The ventilation of this tent consists of the inner mesh tent and a roof vent.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F117892%2Fbig-agnes-copper-spur-ul-1-tent" rel="nofollow" class="btn btn-danger" role="button">See the Big Agnes Copper Spur UL 1</a>
 
+<hr>
+
 ## Big Agnes Fly Creek HV UL1
 
 <a  href="http://www.amazon.com/gp/product/B00GSYH1T0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GSYH1T0&linkCode=as2&tag=hikeve-20&linkId=UQ5VQ5S2FSWYOS4K" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GSYH1T0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GSYH1T0" width="1" height="1" border="0" alt="Fly Creek HV UL1" style="border:none !important; margin:0px !important;" />
@@ -260,6 +262,9 @@ There were 2 of those Ultra-Mids on this event. The only issue I have with the w
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fhyperlite-mountain-gear-ultamid-2" rel="nofollow" class="btn btn-danger" role="button">See the Hyperlite Mountain Gear UltaMid 2</a>
 
+<hr>
+
+
 ## Marmot Force 1P
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00M85XEM6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00M85XEM6&linkCode=as2&tag=hikeve-20&linkId=542de1f58ea88ca738d504395305c247"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00M85XEM6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00M85XEM6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -279,6 +284,7 @@ The tent comes with DAC NFL poles, and it's height makes it also possible to sit
 
 <hr>
 
+
 ## MSR Hubba NX
 
 <a  href="http://www.amazon.com/gp/product/B00GP11DOK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GP11DOK&linkCode=as2&tag=hikeve-20&linkId=S7HOMFZX4PJW2LDW" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GP11DOK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GP11DOK" width="1" height="1" border="0" alt="MSR Hubba NX" style="border:none !important; margin:0px !important;" />
@@ -295,6 +301,8 @@ The MSR Hubba NX is a lightweight, freestanding 3-season tent and costs much les
 One advantage of this tent is that it's also possible to sit in it. You probably won't feel that constrained as you would do with other ultralight solo tents.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F863076%2Fmsr-hubba-hubba-nx-2-person-tent" rel="nofollow" class="btn btn-danger" role="button">See the MSR Hubba NX</a>
+
+<hr>
 
 ## The North Face Stormbreak 1 Tent
 
