@@ -18,7 +18,7 @@ Having a headlamp can be a life saver, and it’s a good idea to have one with y
 
 The Petzl NAO+, for example, has plenty of features and you can also connect the Petzl NAO Belt Kit to carry the battery under the jacket which is especially useful to prevent battery drain in [colder regions](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/) or during the winter. I have also used the previous model of the Petzl NAO in  [Swedish Lapland](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/).
 
-However, if you are looking for a smaller headlamp which is also waterproof, then I would rather pick the <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F890322%2Fblack-diamond-spot-headlamp-2016" rel="nofollow">Black Diamond Spot</a> which features a red light and 200 Lumen - sufficient for hiking even in the Alps.
+However, if you are looking for a smaller headlamp which is also waterproof, then I would rather pick the <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F890322%2Fblack-diamond-spot-headlamp-2016" rel="nofollow">Black Diamond Spot</a> which features red light and 200 Lumen - sufficient for hiking even in the Alps.
 
 <amp-img src="https://c1.staticflickr.com/9/8270/15581097668_01223b886d_k.jpg" width="2048" height="1367" alt="Best headlamps 2017 - 2018 hiking backpacking camping" layout="responsive"></amp-img>
 <br>
