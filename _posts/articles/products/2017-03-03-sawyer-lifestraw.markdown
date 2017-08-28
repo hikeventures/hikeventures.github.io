@@ -84,6 +84,9 @@ However, these additional features also come with a little bit more weight (whic
 
 ## Conclusion
 
-Choosing a water filter system is of course a personal choice. In my case I like to have a water filter which does the job, is lightweight and has a long lifespan. Having used the Sawyer Mini for a long time I am quite excited to use the additional features of the MSR TrailShot.
+Choosing a water filter system is, of course, a personal choice. In my case I like to have a water filter which does the job, is lightweight and has a long lifespan.
+
+Having used the Sawyer Mini for a long time, I am quite excited to use the additional features of the MSR TrailShot.
+
 <br>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
