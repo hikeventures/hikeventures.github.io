@@ -16,7 +16,7 @@ In this blog post, I have [selected](#the-best-solo-person-tents-of-2017) the be
 
 [Here](http://www.hikeventures.com/Best-sleeping-pads/) you can also see which sleeping pads I would take with me on my next outdoor adventure.
 
-Also, have a look at our [FAQ for tents](#faq-on-tents). for tents or our handy [price comparison tool](http://www.hikeventures.com/deals/).
+Also, have a look at our [FAQ on tents](#faq-on-tents) or our handy [price comparison tool](http://www.hikeventures.com/deals/).
 
 <amp-img src="https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Best solo person backpacking tent in 2017 - 2018" layout="responsive"></amp-img>
 <br>
