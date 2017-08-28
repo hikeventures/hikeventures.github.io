@@ -288,7 +288,7 @@ The tent comes with DAC NFL poles, and it's height makes it also possible to sit
 **Floor Area**: 17.9 ft² / 1.67 m²<br>
 **Vestibule Area**: 9 ft² / 0.84 m²<br>
 **Fly Fabric**:20D ripstop nylon<br>
-** Floor Fabric**: 30D ripstop nylon
+**Floor Fabric**: 30D ripstop nylon
 
 The MSR Hubba NX is a lightweight, freestanding 3-season tent and costs much less than Hilleberg tents. The tent comes with a DAC Featherlite NFL pole.
 
@@ -305,7 +305,7 @@ One advantage of this tent is that it's also possible to sit in it. You probably
 **Floor Area**: 18.13 ft² /  1.68 m²<br>
 **Vestibule Area**: 3.02 ft² (0.28 m²) / 6.04 ft² (0.56 m²)<br>
 **Fly Fabric**: 68D lightweight polyester taffeta<br>
-** Floor Fabric**: 68D polyester taffeta
+**Floor Fabric**: 68D polyester taffeta
 
 The North Face Stormbreak 1 is an affordable easy-pitch 3-season tent which features and fully seam-taped canopy and floow and a high / low ventilation.
 
