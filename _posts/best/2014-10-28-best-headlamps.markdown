@@ -44,7 +44,7 @@ You can also try out our handy [price comparison tool](http://www.hikeventures.c
           <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F109951%2Fpetzl-elite-headlamp" rel="nofollow" target="_blank">Petzl Bindi</a></td><td>1.2 oz. / 35 grams</td><td>200</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F109806%2Fprinceton-tec-axis-headlamp" target="_blank" rel="nofollow">Princeton Tex Axis</a></td><td>2.9 oz. / 83 grams</td><td>250</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F109806%2Fprinceton-tec-axis-headlamp" target="_blank" rel="nofollow">Princeton Tec Axis</a></td><td>2.9 oz. / 83 grams</td><td>250</td>
         </tr>
             <tr>
           <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F109952%2Fpetzl-actik-headlamp" target="_blank" rel="nofollow">Petzl Actic</a></td><td>3.2 oz. / 90 grams</td><td>200</td>
@@ -77,15 +77,16 @@ You can also try out our handy [price comparison tool](http://www.hikeventures.c
 
 <a href="http://www.amazon.com/gp/product/B005FNCPBE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005FNCPBE&linkCode=as2&tag=hikeve-20&linkId=WBUHJA3GU3TCBJXQ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005FNCPBE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005FNCPBE" width="1" height="1" border="0" alt="Black Diamond Icon" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 230 grams / 0.5 lbs
-**Lumen**: 500
-**Watertightness**: IP X7 (watertight)
+**Weight**: 230 grams / 0.5 lbs<br>
+**Lumen**: 500<br>
+**Watertightness**: IP X7 (watertight)<br>
+**Max Beam Distance**: 110 meters
 
 With 220 grams and 'only' 500 Lumen, the Black Diamond Icon has a pretty good Lumen/Weight ratio.
 
 For very wet conditions you should probably go for the Black Diamond Icon.
 
-However, with its external battery it needs probably more room in your backpack and you will also carry more weight on your head.
+However, with its external battery, it needs probably more room in your backpack, and you will also carry more weight on your head.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F107916%2Fblack-diamond-icon-headlamp" rel="nofollow" class="btn btn-danger" role="button">See the Black Diamond Icon</a>
 
@@ -95,18 +96,18 @@ However, with its external battery it needs probably more room in your backpack 
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B0106PER0C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0106PER0C&linkCode=as2&tag=hikeve-20&linkId=cd7067e8762594645a047e9fea28e1ba"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0106PER0C&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0106PER0C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 3.2 oz. / 90 grams
-**Lumen**: 200
-**Watertightness**: IP X8 (waterproof)
+**Weight**: 3.2 oz. / 90 grams<br>
+**Lumen**: 200<br>
+**Watertightness**: IP X8 (waterproof)<br>
 **Max Beam Distance**: 80 meters
 
-The Black Diamond Spot comes with 200 lumens and it's brightness can be easily adjusted with the PowerTap technology.
+The Black Diamond Spot comes with 200 lumens, and you can easily adjust its brightness with the headlamps PowerTap technology.
 
 This headlamp also has a lock mode which makes the headlamp safe from accidental battery drain.
 
-There is also a red night-vision mode available. The Black Diamond Spot needs 3 AAA batteries and is waterproof. This is probably a great headlamp for winter activities or water sports.
+There is also a red night-vision mode available. The Black Diamond Spot needs 3 AAA batteries and is waterproof. This is probably a great headlamp for winter activities or water sports
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F890322%2Fblack-diamond-spot-headlamp-2016" rel="nofollow" class="btn btn-danger" role="button">See the Black Diamond Storm</a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F890322%2Fblack-diamond-spot-headlamp-2016" rel="nofollow" class="btn btn-danger" role="button">See the Black Diamond Spot</a>
 
 <hr>
 
@@ -114,9 +115,10 @@ There is also a red night-vision mode available. The Black Diamond Spot needs 3 
 
 <a href="http://www.amazon.com/gp/product/B00H3MXOQU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00H3MXOQU&linkCode=as2&tag=hikeve-20&linkId=A2I5SXTJTBEA7KOK" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00H3MXOQU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00H3MXOQU" width="1" height="1" border="0" alt="Black Diamond Storm" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 110 grams / 0.24 lbs
-**Lumen**: 250
-**Watertightness**: IP X4 (watertight)
+**Weight**: 110 grams / 0.24 lbs<br>
+**Lumen**: 250<br>
+**Watertightness**: IP X7 <br>
+**Max Beam Distance**: 80 meters
 
 The Black Diamond Storm is a little bit heavier than the Petzl Tikka XP. The Storm works with 4 AAA batteries and cannot be charged via USB.
 
@@ -128,9 +130,9 @@ The Black Diamond Storm is a little bit heavier than the Petzl Tikka XP. The Sto
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01KYTS1CU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01KYTS1CU&linkCode=as2&tag=hikeve-20&linkId=a71af89325c0229a2ddecbf1086df1c1"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01KYTS1CU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01KYTS1CU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 3.17 oz. / 90 grams
-**Lumen**: 300
-**Watertightness**: IP X4 (water resistant)
+**Weight**: 3.17 oz. / 90 grams<br>
+**Lumen**: 300<br>
+**Watertightness**: IP X4 (water resistant)<br>
 **Max Beam Distance**: 90 meters
 
 The Petzl Actik comes with 300 lumens and could be a good choice for multiple outdoor activities like running, hiking, climbing or mountaineering.
@@ -147,15 +149,16 @@ The Petzl Actik requires 3 AAA batteries.
 
 ## Petzl Bindi
 
-**Weight**: 35 grams / 1.2 oz.
-**Lumen**: 200
-**Watertightness**: IP X7 (watertight)
+**Weight**: 35 grams / 1.2 oz.<br>
+**Lumen**: 200<br>
+**Watertightness**: IP X7 (watertight)<br>
+**Max Beam Distance**: 40 meters
 
 The Petzl Bindi headlamp comes with impressive 200 lumen while only weights 35 grams.
 
 This headlamp is a great choice for exercising in the city or in the mountains and can be recharged with a USB cable. Moreover, the Bindi is waterproof.
 
-This headlamp will be available soon.
+The Petzl Bindi will be available from March 2018.
 
 <hr>
 
@@ -163,9 +166,9 @@ This headlamp will be available soon.
 
 <a href="http://www.amazon.com/gp/product/B008AUBOTS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008AUBOTS&linkCode=as2&tag=hikeve-20&linkId=V5A2XQXJ3LK3X3NP" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008AUBOTS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B008AUBOTS" width="1" height="1" border="0" alt="Petzl e+LITE" style="border:none !important; margin:0px !important;" />
 
-**Weight**:  0.95 oz. / 27 grams
-**Lumen**: 26
-**Watertightness**: IP X7 (watertight)
+**Weight**:  0.95 oz. / 27 grams<br>
+**Lumen**: 26<br>
+**Watertightness**: IP X7 (watertight)<br>
 **Max Beam Distance**: 100 meters
 
 The Petzl e+LITE is the emergency headlamp from Petzl.
@@ -184,9 +187,9 @@ If you want to see more into the distance, then this is probably not the headlam
 
 <a target="_blank" rel="nofollow"  href="https://www.amazon.com/gp/product/B01GFPMEXY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GFPMEXY&linkCode=as2&tag=hikeve-20&linkId=7692c42c112d14f3972fcff2c3a6f9a8"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01GFPMEXY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01GFPMEXY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 6.5 oz. /185 grams
-**Lumen**: 750
-**Watertightness**: IP X4 (water resistant)
+**Weight**: 6.5 oz. /185 grams<br>
+**Lumen**: 750<br>
+**Watertightness**: IP X4 (water resistant)<br>
 **Max Beam Distance**: 140 meters
 
 The Petzl NAO+ features 750 lumens. Its reactive lightning system lets you also adjust the light level automatically without turning or pushing any buttons on the headlamp.
@@ -211,9 +214,9 @@ You can also get an additional <a href="http://www.avantlink.com/click.php?tt=cl
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01FIDI7LW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01FIDI7LW&linkCode=as2&tag=hikeve-20&linkId=1c704445ca3f74d2386cde4abc344e4e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01FIDI7LW&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01FIDI7LW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 4 oz. / 115 grams
-**Lumen**: 300
-**Watertightness**: IP X4 (water resistant)
+**Weight**: 4 oz. / 115 grams<br>
+**Lumen**: 300<br>
+**Watertightness**: IP X4 (water resistant)<br>
 **Max Beam Distance**: 110 meters
 
 The Petzl Reactik+ comes with 300 Lumens and a customizable beam pattern, burn time and brightness.
@@ -232,9 +235,9 @@ The Reactik+ also has a lock function, so it won't accidentally turn on during t
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00H7KAKJC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00H7KAKJC&linkCode=as2&tag=hikeve-20&linkId=49e02a5748679d7edde42a8efff4e074"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00H7KAKJC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00H7KAKJC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 4.2 oz. / 119 grams
-**Lumen**: 180
-**Watertightness**: IP X4 (water resistant)
+**Weight**: 4.2 oz. / 119 grams<br>
+**Lumen**: 180<br>
+**Watertightness**: IP X4 (water resistant)<br>
 **Max Beam Distance**: 75 meters
 
 If you don’t like to carry the additional battery pack on your head and prefer a less bulky headlamp then the Tikka XP might be a good choice. It also comes with large buttons which allows ease of use.
@@ -251,9 +254,10 @@ The Petzl Tikka XP also activates it's reserve mode once batteries are running l
 
 <a rel="nofollow" href="https://www.amazon.com/Princeton-Tec-Rechargeable-Headlamp-Lumens/dp/B06XZ62KRF/ref=as_li_ss_il?ie=UTF8&qid=1499523749&sr=8-1&keywords=Princeton+Tec+Axis+Headlamp&linkCode=li3&tag=hikeve-20&linkId=57e25018648c17d26b995fd29353f28e" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06XZ62KRF&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B06XZ62KRF" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 2.9 oz. / 83 grams
-**Lumen**: 200
-**Watertightness**: IP X4 (watertight)
+**Weight**: 2.9 oz. / 83 grams<br>
+**Lumen**: 200<br>
+**Watertightness**: IP X4 (watertight)<br>
+**Max Beam Distance**: 58 meters
 
 The Princeton Tex Axis headlamp comes with a spot, flow and red mode which are all dimmable.
 
