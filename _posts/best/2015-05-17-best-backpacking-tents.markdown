@@ -12,7 +12,7 @@ tags:
 layout: post
 ---
 
-In this blog post, I have [selected](#the-best-solo-person-tents-of-2017) the best 1-person backpacking tents for 2017 - 2018 which I would consider buying for my next hiking or backpacking trip. I have tested already a couple of tents on our trips to Europe, Scandinavia or Japan and realized that the best solution would be to have a tent for different use cases and environments.
+In this blog post, I have [selected](#weight-comparison-table) the best 1-person backpacking tents for 2017 - 2018 which I would consider buying for my next hiking or backpacking trip. I have tested already a couple of tents on our trips to Europe, Scandinavia or Japan and realized that the best solution would be to have a tent for different use cases and environments.
 
 [Here](http://www.hikeventures.com/Best-sleeping-pads/) you can also see which sleeping pads I would take with me on my next outdoor adventure.
 
