@@ -38,42 +38,44 @@ Also, have a look at our [FAQ on down jackets](#faq-on-down-jackets) or our hand
         </thead>
         <tbody>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F880675%2Fmountain-hardwear-ghost-whisperer-hooded-down-jacket-mens" target="_blank" rel="nofollow">Mountain Hardware Ghost Whisperer Hooded Down Jacket (800 fill)</a></td><td>212 grams / 7.5 oz.</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F880675%2Fmountain-hardwear-ghost-whisperer-hooded-down-jacket-mens" target="_blank" rel="nofollow">Mountain Hardware Ghost Whisperer Hooded Down Jacket (800-fill)</a></td><td>7.5 oz. / 212 grams</td>
         </tr>
        <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https:%2F%2Fwww.rei.com%2Fproduct%2F117169%2Farcteryx-cerium-lt-down-hoodie-mens" target="_blank" rel="nofollow">Arcteryx Cerium LT Hoody (850 fill)</a></td><td>275 grams / 9.7 oz. </td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https:%2F%2Fwww.rei.com%2Fproduct%2F117169%2Farcteryx-cerium-lt-down-hoodie-mens" target="_blank" rel="nofollow">Arcteryx Cerium LT Hoody (850-fill)</a></td><td>9.7 oz. / 275 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F885089%2Fpatagonia-ultralight-down-hoodie-mens" target="_blank" rel="nofollow">Patagonia Ultralight Down Hoodie (800 fill)</a></td><td>298 grams / 10.5 oz. </td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F885089%2Fpatagonia-ultralight-down-hoodie-mens" target="_blank" rel="nofollow">Patagonia Ultralight Down Hoodie (800-fill)</a></td><td>10.5 oz. / 298 grams</td>
         </tr>
        <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-zero-g-jacket-mens" target="_blank" rel="nofollow">Rab Zero G (1000 fill)</a></td><td>310 grams / 11 oz.</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-zero-g-jacket-mens" target="_blank" rel="nofollow">Rab Zero G (1000 fill)</a></td><td>11 oz. / 310 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F116458%2Fmarmot-quasar-hoodie-mens" target="_blank" rel="nofollow">Marmot Quasar Hoody (850 fill)</a></td><td>372 grams / 13.1 oz.</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F116458%2Fmarmot-quasar-hoodie-mens" target="_blank" rel="nofollow">Marmot Quasar Hoody (850-fill)</a></td><td>13.1 oz. / 372 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F117170%2Farcteryx-cerium-sv-down-hoodie-mens" target="_blank" rel="nofollow">Arcteryx Cerium SV Hoody (850 fill)</a></td><td>440 grams / 15.5 oz.</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F117170%2Farcteryx-cerium-sv-down-hoodie-mens" target="_blank" rel="nofollow">Arcteryx Cerium SV Hoody (850-fill)</a></td><td>15.5 oz. / 440 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-infinity-endurance-down-jacket-mens" target="_blank" rel="nofollow">Rab Infinity Endurance Jacket (850 fill)</a></td><td>575 grams / 20.5 oz.</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-infinity-endurance-down-jacket-mens" target="_blank" rel="nofollow">Rab Infinity Endurance Jacket (850-fill)</a></td><td>20.5 oz. / 575 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-positron-down-jacket-mens" target="_blank" rel="nofollow">Rab Positron Jacket (800 fill)</a></td><td>720 grams / 25.4 oz.</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F853045%2Fmarmot-guides-down-hoodie-jacket-mens" target="_blank" rel="nofollow">Marmot Guides Down Hoodie (700-fill)</a></td><td>23 oz. /  652 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F102814%2Farcteryx-ceres-sv-down-parka-mens" target="_blank" rel="nofollow">Arc'teryx Ceres SV Parka (850 fill)</a></td><td>880 grams
-/ 31 oz.</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-positron-down-jacket-mens" target="_blank" rel="nofollow">Rab Positron Jacket (800-fill)</a></td><td>25.4 oz. / 720 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fcanada-goose-expedition-down-parka-mens" target="_blank" rel="nofollow">Canada Goose Expedition Parka (625 fill)</a></td><td>2070 grams / 73 oz. </td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F102814%2Farcteryx-ceres-sv-down-parka-mens" target="_blank" rel="nofollow">Arc'teryx Ceres SV Parka (850-fill)</a></td><td>31 oz. / 880 grams</td>
+        </tr>
+        <tr>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fcanada-goose-expedition-down-parka-mens" target="_blank" rel="nofollow">Canada Goose Expedition Parka (625-fill)</a></td><td>73 oz. / 2070 grams</td>
         </tr>
         </tbody>
       </table>
 </div>
 <br>
 
-## Arc'teryx Ceres SV Parka (850 fill)
+## Arc'teryx Ceres SV Parka (850-fill)
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B0163QU4JQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0163QU4JQ&linkCode=as2&tag=hikeve-20&linkId=5dc978652e8550369cb5f9cf40042a96"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0163QU4JQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0163QU4JQ" width="1" height="1" border="0" alt="Arc'teryx Ceres SV Parka" style="border:none !important; margin:0px !important;" />
 
@@ -93,7 +95,7 @@ The Ceres SV Parka offers an excellent warmth-to-weight ratio, compressibility, 
 
 <hr>
 
-## Arc'teryx Cerium LT Hoody (850 fill)
+## Arc'teryx Cerium LT Hoody (850-fill)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00Q9MHXN0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q9MHXN0&linkCode=as2&tag=hikeve-20&linkId=Y5N4EYNVYQ5UDXXJ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q9MHXN0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q9MHXN0" width="1" height="1" border="0" alt="Arcteryx Cerium LT Hoody" style="border:none !important; margin:0px !important;"/>
 
@@ -117,7 +119,7 @@ The jacket has an internal zippered security pocket with a stuff sack. LT stands
 
 <hr>
 
-## Arc'teryx Cerium SV Hoody (850 fill)
+## Arc'teryx Cerium SV Hoody (850-fill)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GW80Q9E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW80Q9E&linkCode=as2&tag=hikeve-20&linkId=WCQGDJJ5MREZ5EUX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW80Q9E&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW80Q9E" width="1" height="1" border="0" alt="Arcteryx Cerium SV Hoody" style="border:none !important; margin:0px !important;" />
 
@@ -135,7 +137,7 @@ Synthetic insulation is strategically used in parts of this jacket as well.
 
 <hr>
 
-## Canada Goose Expedition Down Parka (625 fill)
+## Canada Goose Expedition Down Parka (625-fill)
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01KXUFDQC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01KXUFDQC&linkCode=as2&tag=hikeve-20&linkId=5aaf89773baa2dd8884a28b116bf9e3e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01KXUFDQC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01KXUFDQC" width="1" height="1" border="0" alt="Canada Goose Expedition Down Parka" style="border:none !important; margin:0px !important;" />
 
@@ -157,7 +159,23 @@ The jacket features an adjustable, non-removable hood, a fur ruff, fleece-lined 
 
 <hr>
 
-## Marmot Quasar Hoody (900 fill)
+## Marmot Guides Down Hoodie (700-fill)
+
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01MSP108D/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MSP108D&linkCode=as2&tag=hikeve-20&linkId=6fa25d4d74a62a97a4e9f991782ca8a0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MSP108D&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MSP108D" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight**: 652 grams / 23 oz.
+
+Marmot Guides Down Hoodie is a popular lightweight 700-fill down jacket for winter activities.
+
+The polyester fabric has a DWR (Durable Water Repellent) finish. The jacket comes with a soft chin flap, zippered handwarmer, zip chest and an interior zip pocket where you can store for example your phone.
+
+The jacket also features hook-and-loop cuffs, an elastic drawcord hem, and its design adjusts to your movements.
+
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F853045%2Fmarmot-guides-down-hoodie-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men'sMarmot Guides Down Hoodie</a> <a href="https://www.rei.com/product/104963/marmot-guides-down-hoodie-womenss" rel="nofollow" class="btn btn-danger" role="button">See the Women's Marmot Guides Down Hoodie</a>
+
+<hr>
+
+## Marmot Quasar Hoody (900-fill)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00DNNZ3KI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DNNZ3KI&linkCode=as2&tag=hikeve-20&linkId=UITTBILMF3IBYVRI"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DNNZ3KI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DNNZ3KI" width="1" height="1" border="0" alt="Marmot Quasar Hoody" style="border:none !important; margin:0px !important;" />
 
@@ -175,7 +193,7 @@ The jacket adjusts to your movements and features an elastic draw cord hem and c
 
 <hr>
 
-## Mountain Hardware Ghost Whisperer Hooded Down Jacket (800 fill)
+## Mountain Hardware Ghost Whisperer Hooded Down Jacket (800-fill)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GULW0DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GULW0DS&linkCode=as2&tag=hikeve-20&linkId=RSEZE3QFDW2FVB3A" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GULW0DS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GULW0DS" width="1" height="1" border="0" alt="Mountain Hardware Ghost Whisperer Hooded Down Jacket" style="border:none !important; margin:0px !important;" />
 
@@ -197,7 +215,7 @@ See the Men’s Mountain Hardware Ghost Whisperer See the Women’s Mountain Har
 
 <hr>
 
-## Patagonia Ultralight Down Hoodie (800 fill)
+## Patagonia Ultralight Down Hoodie (800-fill)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00OZGABKY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OZGABKY&linkCode=as2&tag=hikeve-20&linkId=OLFQERZDADI4UC3J"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00OZGABKY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00OZGABKY" width="1" height="1" border="0" alt="Patagonia Men’s Down Hooded Jacket" style="border:none !important; margin:0px !important;" />
 
@@ -217,7 +235,7 @@ Wear the Patagonia Ultralight Down Hoodie as a mid layer during the winter month
 
 <hr>
 
-## Rab Infinity Endurance Jacket (850 fill)
+## Rab Infinity Endurance Jacket (850-fill)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00DTT6DXC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DTT6DXC&linkCode=as2&tag=hikeve-20&linkId=N7SHBEPWSYPV25ZK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DTT6DXC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DTT6DXC" width="1" height="1" border="0" alt="Rab Infinity Endurance Jacket" style="border:none !important; margin:0px !important;" />
 
@@ -239,7 +257,7 @@ See the Men’s Rab Infinity Endurance See the Women’s Rab Infinity Endurance
 
 <hr>
 
-## Rab Positron Jacket (800 fill)
+## Rab Positron Jacket (800-fill)
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00XJO2X18/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00XJO2X18&linkCode=as2&tag=hikeve-20&linkId=5POHXUOALSVWVY2B"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00XJO2X18&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00XJO2X18" width="1" height="1" border="0" alt="Rab Positron Jacket" style="border:none !important; margin:0px !important;" />
 
@@ -257,7 +275,7 @@ Further, the jacket is also RDS Certified (Responsible Down Standard).
 
 <hr>
 
-## Rab Zero G Jacket (1000 fill)
+## Rab Zero G Jacket (1000-fill)
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01IEUC98I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IEUC98I&linkCode=as2&tag=hikeve-20&linkId=9aa3a48e1b4a90d72d101f4f4ea2dd99"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01IEUC98I&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01IEUC98I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
