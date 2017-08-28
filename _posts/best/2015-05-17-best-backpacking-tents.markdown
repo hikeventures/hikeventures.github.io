@@ -269,7 +269,7 @@ There were 2 of those Ultra-Mids on this event. The only issue I have with the w
 **Floor Area**: 21 ft² / 1.9 m²<br>
 **Vestibule Area**: 3 ft² 0.28 m²<br>
 **Fly Fabric**: 20d 100% Polyester RS<br>
-** Floor Fabric**: 30d 100% Nylon
+**Floor Fabric**: 30d 100% Nylon
 
 The Marmot Force 1P is a freestanding 3-season tent which offers a great weight to room ratio and has been designed to provide an optimum structure. The tent has a twin tip floor design which increases durability. There is also a pocket in the tent to store small items.
 
