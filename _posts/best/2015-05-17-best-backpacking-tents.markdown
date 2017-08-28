@@ -33,38 +33,38 @@ Also, have a look at our [FAQ for tents](#faq-on-tents). for tents or our handy 
 
         <tbody>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fhyperlite-mountain-gear-ultamid-2" target="_blank" rel="nofollow">Hyperlite Mountain Gear UltaMid 2</a></td><td>499 grams / 17.6 oz.</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fhyperlite-mountain-gear-ultamid-2" target="_blank" rel="nofollow">Hyperlite Mountain Gear UltaMid 2</a></td><td>1 lbs. 1 oz. / 499 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Big-Agnes-Fly-Creek-HV-UL1-Tent_10333604_10208_10000001_-1_%3Firgwc%3D1%26utm_medium%3DAffiliate%26utm_source%3DAL%26utm_campaign%3D125311%26cm_mmc%3DAffiliate-_-AvantLink-_-na-_-125311%26ad_id%3DAvant%26avad%3D150351_af5f9c25" target="_blank" rel="nofollow">Fly Creek HV UL1</a></td><td>935 grams / 33 oz.</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F117909%2Fbig-agnes-fly-creek-ul-mtnglo-tent" target="_blank" rel="nofollow">Big Agnes Fly Creek HV UL1</a></td><td>2 lbs. 9 oz. / 0.93 kg</td>
         </tr>
         <tr>
           <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F117892%2Fbig-agnes-copper-spur-ul-1-tent" target="_blank" rel="nofollow">Big Agnes
-Copper Spur UL 1</a></td><td>985 grams / 2 lbs. 3 oz.</td>
+Copper Spur UL 1</a></td><td>2 lbs. 3 oz. / 0.98 kg</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Enan-1-Person-Tent_10338612_10208_10000001_-1" target="_blank" rel="nofollow">Hilleberg Enan</a></td><td>1100 grams / 38.8 oz.</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Enan-1-Person-Tent_10338612_10208_10000001_-1" target="_blank" rel="nofollow">Hilleberg Enan</a></td><td>2 lbs. 6 oz. / 1.1 kg</td>
         </tr>
           <tr>
-            <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F863076%2Fmsr-hubba-hubba-nx-2-person-tent" target="_blank" rel="nofollow">MSR Hubba NX</a></td><td>1290 grams / 45.5 oz.</td>
+            <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F863076%2Fmsr-hubba-hubba-nx-2-person-tent" target="_blank" rel="nofollow">MSR Hubba NX</a></td><td>2 lbs. 14 oz. / 1.3 kg</td>
           </tr>
           <tr>
-            <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Marmot-Force-2P-Tent_10331516_10208_10000001_-1" target="_blank" rel="nofollow">Marmot Force UL 2P</a></td><td>1320 grams / 46.6 oz.</td>
+            <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F116086%2Fmarmot-force-1p-tent" target="_blank" rel="nofollow">Marmot Force 1P</a></td><td>2 lbs. 14 oz. / 1.3 kg</td>
           </tr>
           <tr>
-            <td><a href="http://amzn.to/2euL9cG" target="_blank" rel="nofollow">Hilleberg Akto</a></td><td>1700 grams / 60 oz.</td>
+            <td><a href="http://amzn.to/2euL9cG" target="_blank" rel="nofollow">Hilleberg Akto</a></td><td>3 lbs. 11 oz. / 1.7 kg</td>
           </tr>
           <tr>
-            <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Niak-2-Person-Tent_10338618_10208_10000001_-1" target="_blank" rel="nofollow">Hilleberg Niak</a></td><td>1700 grams / 60 oz.</td>
+            <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Niak-2-Person-Tent_10338618_10208_10000001_-1" target="_blank" rel="nofollow">Hilleberg Niak</a></td><td>3 lbs. 11 oz. / 1.7 kg</td>
           </tr>
           <tr>
-            <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Unna-1-Person-Tent_10101489_10208_10000001_-1_" target="_blank" rel="nofollow">Hilleberg Unna</a></td><td>2200 grams / 77.6 oz.</td>
+            <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Unna-1-Person-Tent_10101489_10208_10000001_-1_" target="_blank" rel="nofollow">Hilleberg Unna</a></td><td>4 lbs. 13 oz. / 2.2 kg</td>
           </tr>
           <tr>
-            <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Soulo-1-Person-Tent_10101479_10208_10000001_-1" target="_blank" rel="nofollow">Hilleberg Soulo</a></td><td>2400 grams / 84.7 oz.</td>
+            <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Soulo-1-Person-Tent_10101479_10208_10000001_-1" target="_blank" rel="nofollow">Hilleberg Soulo</a></td><td>5 lbs. 4 oz. / 2.4 kg</td>
           </tr>
           <tr>
-            <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Enan-1-Person-Tent_10338612_10208_10000001_-1_" target="_blank" rel="nofollow">Hilleberg Nallo</a></td><td>2400 grams / 84.7 oz.</td>
+            <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Enan-1-Person-Tent_10338612_10208_10000001_-1_" target="_blank" rel="nofollow">Hilleberg Nallo</a></td><td>5 lbs. 4 oz. / 2.4 kg</td>
           </tr>
 </tbody>
 </table>
@@ -73,16 +73,15 @@ Copper Spur UL 1</a></td><td>985 grams / 2 lbs. 3 oz.</td>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 
-## Big Agnes Copper Spur UL 1 Tent
+## Big Agnes Copper Spur UL 1
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B011XEFCN6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B011XEFCN6&linkCode=as2&tag=hikeve-20&linkId=5a62fe278e5111104754d03041ffa895"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B011XEFCN6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B011XEFCN6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Length**: 218 cm / 85.5 inches
-**Width**: 71 cm (95cm) / 28 inches (37.4 inches)
-**Height**: 94 cm / 37 inches
-**Inner Space**: 2.04 m²  / 22 ft²
-**Vestibule**: 0.9 m²  / 10 ft²
-**Weight**: 985 grams / 2 lbs. 3 oz.
+**Height**: 37 inches / 94 cm
+**Weight**: 2 lbs. 3 oz. / 0.98 kg
+**Floor Area**: 22 ft² / 2.04 m²
+**Vestibule Area**: 10 ft² / 0.9 m²
+**Fabric**: 30D
 
 The Big Agnes Copper Spur UL 1 Tent is an ultralight 3-season tent for 1-person. It comes with Aluminium DAC Featherlite NSL poles and is free-standing.
 
@@ -98,16 +97,21 @@ The ventilation of this tent consists of the inner mesh tent and a roof vent.
 
 <a  href="http://www.amazon.com/gp/product/B00GSYH1T0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GSYH1T0&linkCode=as2&tag=hikeve-20&linkId=UQ5VQ5S2FSWYOS4K" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GSYH1T0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GSYH1T0" width="1" height="1" border="0" alt="Fly Creek HV UL1" style="border:none !important; margin:0px !important;" />
 
-**Length**: 218 cm  / 85.8 inches
-**Width**: 71 cm (95cm) / 28 inches (37.4 inches)
-**Height**: 97 cm / 38.2 inches
-**Inner Space**: 1.8 m² / 19.3 ft²
-**Vestibule**: 0.45 m² / 4.8 ft²
-**Weight**: 935 grams / 33 oz.
+**Height**: 38.2 inches / 97 cm
+**Weight**: 2 lbs. 9 oz. / 0.93 kg
+**Floor Area**: 19.3 ft² / 1.8 m²
+**Vestibule Area**: 4.8 ft² / 0.45 m²
+**Fabric**: 30D
 
-The Big Agnes Fly Creek HV UL1 is a new product in the Big Agnes Ultralight tent range. It is a bit longer and taller than the Hilleberg Enan but has a smaller vestibule. Fly and floor have 1200 mm waterproof polyurethane coating.
+The Big Agnes Fly Creek HV UL1 is a freestanding ultralight 3-season tent which offers lots of space due to its steep wall architecture and vertical door.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Big-Agnes-Fly-Creek-HV-UL1-Tent_10333604_10208_10000001_-1_%3Firgwc%3D1%26utm_medium%3DAffiliate%26utm_source%3DAL%26utm_campaign%3D125311%26cm_mmc%3DAffiliate-_-AvantLink-_-na-_-125311%26ad_id%3DAvant%26avad%3D150351_af5f9c25" rel="nofollow" class="btn btn-danger" role="button">See the Big Agnes Fly Creek HV UL1</a>
+The tent comes with a DAC Featherlite NFL pole and 11 aluminum J stakes.
+
+Further, there are three interior mesh pockets and storm flaps on the vestibule zipper.
+
+The height of the tent also allows you to sit in it over an extended period.
+
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F117909%2Fbig-agnes-fly-creek-ul-mtnglo-tent" rel="nofollow" class="btn btn-danger" role="button">See the Big Agnes Fly Creek HV UL1</a>
 
 <hr>
 
@@ -115,21 +119,19 @@ The Big Agnes Fly Creek HV UL1 is a new product in the Big Agnes Ultralight tent
 
 <a href="http://www.amazon.com/gp/product/B003X2HQPY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003X2HQPY&linkCode=as2&tag=hikeve-20&linkId=FCTXO35WV5CXK5P7" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003X2HQPY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B003X2HQPY" width="1" height="1" border="0" alt="Hilleberg Akto" style="border:none !important; margin:0px !important;" />
 
-**Length**: 220 cm  / 86.6 inches
-**Width**: 62 cm (90cm)  / 24.4 inches (35.4 inches)
-**Height**: 93 cm  / 36.6 inches
-**Inner Space**: 1.7 m²  / 18.3 ft²
-**Vestibule**: 0.8 m² / 8.6 ft²
-**Weight**: 1700 grams / 60 oz.
-**Fabric**:  Kerlon 1200
+**Height**: 36.6 inches / 93 cm
+**Weight**: 3 lbs. 11 oz. / 1.7 kg
+**Floor Area**: 18.2 ft² / 1.7 m²
+**Vestibule Area**: 8.6 ft² / 0.8 m²
+**Fabric**: Kerlon 1200
 
-The Hilleberg Akto is the 4-season model of the Hilleberg Enan and more suitable for harsh weather conditions than the Hilleberg Enan.
+The Hilleberg Akto is the 4-season version of the Hilleberg Enan and more suitable for harsh weather conditions.
 
-The Akto is a bit longer than the Hilleberg Enan and is probably more appropriate if you are taller. However, this comes at an additional weight of 600 grams.
+The Akto is a bit longer than the Hilleberg Enan and weighs about 600 grams more than the Enan.
 
-However, condensation might be an issue with this tent which is, of course, not such a good solution if you plan a longer tour with a down sleeping bag and you face a long period or rain or moisture where you are not able to dry your sleeping bag during the day.
+However, condensation might be an issue with this tent which is, of course, not such a good solution if you plan a longer tour with a down sleeping bag.
 
-Another reason why I would opt for a bigger tent like the Hilleberg Nallo 2 rather than the Hilleberg Soulo if you need a 4-season tent is that it’s less likely that your sleeping bag touches the inner tent if you have a longer and wider tent.
+If you are tall, then a longer tent would be a better option. The issue with shorter tents is that your sleeping bag might touch the tent walls during the night and gets wet and results in less down insulation.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Akto-1-Person-Tent_10101417_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Hilleberg Akto</a>
 
@@ -153,6 +155,27 @@ This type of tent is suitable for a fast pack and go. If you are more into base 
 The Enan has a mesh on one end which should provide excellent ventilation if pitched in wind direction.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Enan-1-Person-Tent_10338612_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Hilleberg Enan</a>
+
+<hr>
+
+## Hilleberg Nallo
+
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00LMR6HSO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LMR6HSO&linkCode=as2&tag=hikeve-20&linkId=9a3e81780fc628cc831736491518f51d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00LMR6HSO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00LMR6HSO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+**Height**: 39.4 inches / 100 cm
+**Weight**: 5 lbs. 4 oz. / 2.4 kg
+**Floor Area**: 30 ft² / 2.8 m²
+**Vestibule Area**: 13.9 ft² / 1.3 m²
+**Fabric**: Kerlon 1200
+
+The Hilleberg Nallo is probably the best choice if you want a lightweight freestanding 4-season tent which offers the most space and a vestibule for the least weight.
+
+Even so the Nallo is advertised as a two person tent I would rather use it as a spacious one person tent. The tent comes with DAC NSL 9mm poles requires four pegs for pitching.
+
+The tent walls extent to the ground and the lower portion of th rear outer wall can be rolled up for additional venting. You can replace the inner tent with the Mesh Inner tent for even better air circulation.
+
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Nallo-2-Person-Tent_10101453_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Hilleberg Nallo</a>
 
 <hr>
 
