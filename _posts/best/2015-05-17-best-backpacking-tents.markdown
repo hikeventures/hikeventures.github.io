@@ -70,9 +70,6 @@ Copper Spur UL 1</a></td><td>2 lbs. 3 oz. / 0.98 kg</td>
 </tbody>
 </table>
 </div>
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 ## Big Agnes Copper Spur UL 1
 
@@ -441,3 +438,6 @@ Currently, my go-to tent is the <a href="http://amzn.to/2pDaiMo" rel="nofollow">
 I chose the Unna since it’s quite versatile, offers plenty of space and of course the big panorama window.
 
 <a href="#weight-comparison-table" rel="nofollow" class="btn btn-danger" role="button">Back to the top</a>
+
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
