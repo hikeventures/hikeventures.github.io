@@ -392,19 +392,19 @@ Condensation forms when you are breathing or if moisture evaporates from your bo
 
 ## Final word
 
-The Hilleberg Soulo is self-standing and can also be pitched on steep terrain. Many backpackers also use this tent also as a 3-season tent.
+The Hilleberg Soulo is self-standing 4-season tent which you can pitch on steep terrain. Many backpackers also use this tent as a 3-season tent.
 
-If you are looking for a better air ventilation in your tent, then you could have a look at the Hilleberg Inner Mesh Tents which can replace the standard inner tents.
+If you are looking for a better air ventilation in your tent, then you could have a look at the Hilleberg Inner Mesh tents which can replace the standard inner tents.
 
-The Unna offers more space than the Soulo and would be my first choice.
+The Unna offers more space than the Soulo and would be my first choice since I am taller.
 
 If I were to choose an ultralight 3-season tent then I would probably go for the Hilleberg Niak or the Hilleberg Enan (smaller than the Hilleberg Niak) or if I were on a budget then the MSR Hubba NX and the Big Agnes Fly Creek HV UL1 Tent.
 
-Finally, if you are into sea kayaking a self-standing durable tent - like the Hilleberg Soulo, Unna or the Hilleberg Nallo 2 - which can handle high winds is probably a better option than an ultralight tent as you don’t have to carry the tent anyway when you are paddling.
+Finally, if you are into sea kayaking a free standing durable tent - like the Hilleberg Soulo or Unna - which can handle high winds - is probably a better option than an ultralight tent. Weight is obviously not such a big issue when you are traveling with your kayak of packraft.
 
 Here is also an [article](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/) about our packrafting trip in the Swedish mountains where we were camping in our MSR Hubba Hubba NX.
 
-After one year we have only got a small hole in the floor, but otherwise, we were quite happy with the MSR Hubba Hubba NX as a 3-season tent.
+After one year we only got a small hole in the floor, but otherwise, we were quite happy with the MSR Hubba Hubba NX as a 3-season tent.
 
 ---
 
@@ -412,7 +412,7 @@ After one year we have only got a small hole in the floor, but otherwise, we wer
 
 Currently, my go-to tent is the <a href="http://amzn.to/2pDaiMo" rel="nofollow">Hilleberg Unna</a> in combination with the [Unna Inner Mesh](http://www.hikeventures.com/Hilleberg-Unna-Mesh/) tent and the [Tarp 10 UL. ](http://www.hikeventures.com/Hilleberg-Tarp-10-UL/)
 
-I chose the Unna since it’s quite versatile, offers plenty of space and of course the big panorama window.
+I chose the Unna since it’s quite versatile, offers plenty of space and has a big panorama window.
 
 <a href="#weight-comparison-table" rel="nofollow" class="btn btn-danger" role="button">Back to the top</a>
 
