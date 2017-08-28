@@ -12,7 +12,6 @@ tags:
 layout: post
 ---
 
-
 Here is my [selection](#weight-comparison-table) of the best lightweight headlamps for 2017 - 2018 which I would consider taking to my next hiking, backpacking or camping trip.
 
 Having a headlamp can be a life saver, and it’s a good idea to have one with you in your backpack especially during the winter.
@@ -292,3 +291,5 @@ Just attach the extension cable between your battery and the headlamp, and you a
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F102814%2Farcteryx-ceres-sv-down-parka-mens" rel="nofollow" class="btn btn-danger" role="button">See thePetzl Extension Cable for NAO</a>
 <br>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+
+<a href="#weight-comparison-table" rel="nofollow" class="btn btn-danger" role="button">Back to the top</a>

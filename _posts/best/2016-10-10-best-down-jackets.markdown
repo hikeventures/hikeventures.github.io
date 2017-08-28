@@ -21,7 +21,7 @@ Usually, I wear a [fleece jacket](http://www.hikeventures.com/best-fleece-jacket
 
 Moreover, I would rather carry a [synthetic insulated jacket](http://www.hikeventures.com/best-synthetic-insulated-jackets/) with me than a down jacket if I am planning to go hiking in damp or humid conditions as down may not insulate very well once it get’s wet.
 
-Also, have a look at our [FAQ on down jackets](#faq-on-down-jackets) or our handy [price comparison tool](http://www.hikeventures.com/deals/).
+Also, have a look at our [FAQ on down jackets](#faq-on-down-jackets).
 
 <amp-img src="https://farm1.staticflickr.com/395/32116563352_d0c641d313_k.jpg" width="2048" height="1152" alt="Best down jackets 2017 - 2018" layout="responsive"></amp-img>
 <br>
