@@ -19,9 +19,9 @@ Further, down jackets are designed for different activities or environments, e.g
 
 Usually, I wear a [fleece jacket](http://www.hikeventures.com/best-fleece-jackets/) as a mid-layer when I go hiking. When it get’s windy I pull on a [wind jacket](http://www.hikeventures.com/best-windjackets/).  If I sit around in my camp, I switch my fleece to a down jacket.
 
-Moreover, I rather carry a [synthetic insulated jacket](http://www.hikeventures.com/best-synthetic-insulated-jackets/) with me than a down jacket if I am planning to go hiking in damp or humid conditions as down may not insulate very well once it get’s wet.
+Moreover, I would rather carry a [synthetic insulated jacket](http://www.hikeventures.com/best-synthetic-insulated-jackets/) with me than a down jacket if I am planning to go hiking in damp or humid conditions as down may not insulate very well once it get’s wet.
 
-Also, have a look at our [FAQ](#faq-on-down-jackets) to learn more about down jackets.
+Also, have a look at our [FAQ on down jackets](#faq-on-down-jackets) or our handy [price comparison tool](http://www.hikeventures.com/deals/).
 
 <amp-img src="https://farm1.staticflickr.com/395/32116563352_d0c641d313_k.jpg" width="2048" height="1152" alt="Best down jackets 2017 - 2018" layout="responsive"></amp-img>
 <br>
@@ -333,5 +333,5 @@ However, if you are planning to travel to a place where you expect a lot of mois
 Down jackets usually come with a water resistant fabric.
 
 However, they are not waterproof. If you expect to have lots of rain, then you should probably cover your down jacket with a rain jacket or switch from a down jacket to a [fleece jacket](http://www.hikeventures.com/best-fleece-jackets/) or [synthetic insulated jacket](http://www.hikeventures.com/best-synthetic-insulated-jackets/).
-   
+
 <a href="#weight-comparison-table" rel="nofollow" class="btn btn-danger" role="button">Back to the top</a>
