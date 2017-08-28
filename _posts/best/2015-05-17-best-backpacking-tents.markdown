@@ -1,6 +1,6 @@
 ---
-title: Best 1-person backpacking tents 2017 - 2018
-description: Overview of the best solo person backpacking tents for 2017 - 2018.
+title: Best backpacking tents 2017 - 2018
+description: Overview of the best backpacking tents for 2017 - 2018.
 date: 2016-01-03 00:07:07
 category: articles
 image: https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg
@@ -139,13 +139,12 @@ Another reason why I would opt for a bigger tent like the Hilleberg Nallo 2 rath
 
 <a href="http://www.amazon.com/gp/product/B00UZ8ZNDQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UZ8ZNDQ&linkCode=as2&tag=hikeve-20&linkId=XBQVK7AJ3UD7ESR7" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00UZ8ZNDQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00UZ8ZNDQ" width="1" height="1" border="0" alt="Hilleberg Enan" style="border:none !important; margin:0px !important;" />
 
-**Length**: 215 cm / 84.6 inches
-**Width**: 60 cm (95cm) / 23.6 inches (37.4 inches)
-**Height**: 95 cm / 37.4 inches
-**Inner Space**: 1.7 m² / 18.2 ft²
-**Vestibule**: 0.8 m² / 8.6 ft²
-**Weight**: 1100 grams / 38.8 oz.
-**Fabric**:  Kerlon 600
+
+**Height**: 37.4 inches / 95 cm
+**Weight**: 2 lbs. 6 oz. / 1.1 kg
+**Floor Area**: 18.2 ft² / 1.7 m²
+**Vestibule Area**: 8.6 ft² / 0.8 m²
+**Fabric**: Kerlon 600
 
 The Hilleberg Enan is the ultralight model of the Akto. If you don’t require much space and use your tent only during the warmer months (3-season), then the Hilleberg Enan might be a good option.
 
@@ -157,43 +156,23 @@ The Enan has a mesh on one end which should provide excellent ventilation if pit
 
 <hr>
 
-## Hilleberg Nallo
-
-<a href="http://www.amazon.com/gp/product/B00LMR6HSO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LMR6HSO&linkCode=as2&tag=hikeve-20&linkId=4YIQPTOP7VXOY4EM"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LMR6HSO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LMR6HSO" width="1" height="1" border="0" alt="Hilleberg Nallo" style="border:none !important; margin:0px !important;" />
-
-**Length**: 220 cm / 86.6 inches
-**Width**: 130 cm / 51.2 inches
-**Height**: 100 cm /39.4 inches
-**Inner Space**: 2.8 m² / 30 ft²
-**Vestibule**: 1.3 m² / 13.9 ft²
-**Weight**: 2400 grams / 84.7 oz.
-**Fabric**:  Kerlon 1200
-
-The Hilleberg Nallo is probably the best choice if you want a 4-season tent which offers the most space and a vestibule for the least weight.
-
-If you don’t need a freestanding tent and want the best weight/space ratio 4-season tent, then you should pick the Hilleberg Nallo.
-
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Enan-1-Person-Tent_10338612_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Hilleberg Nallo</a>
-
-<hr>
-
 ## Hilleberg Niak 1.5
 
 <a  href="http://www.amazon.com/gp/product/B01AT52A08/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AT52A08&linkCode=as2&tag=hikeve-20&linkId=2JIQ4SO5RH5PZJXL" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01AT52A08&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B01AT52A08" width="1" height="1" border="0" alt="Hilleberg Niak 1.5" style="border:none !important; margin:0px !important;" />
 
+**Height**: 39.3 inches / 100 cm
+**Weight**: 3 lbs. 11 oz. / 1.7 kg
+**Floor Area**: 27.9 ft² / 2.6 m²
+**Vestibule Area**: 8.1 ft² / 0.75 m²
 **Fabric**: Kerlon 600
-**Weight**: 1700 grams / 60 oz.
-**Area inner tent**: 2.6 m² / 27.9 ft²
 
 The Hilleberg Niak 1.5 is the latest yellow label tent from Hilleberg.
 
 If you need more space than in the Hilleberg Enan, e.g., if there is an extended rain period where you have to sit in the tent or if you want to take your dog with you.
 
-The Hilleberg Niak 1.5 is more a 1-person rather than a 2-person tent and comes with a vestibule to store your gear.
+The Hilleberg Niak 1.5 is more a 1-person rather than a 2-person tent and comes with a vestibule to store your gear and with DAC NSL 9mm poles as used in Red label models which can handle even harsher conditions.
 
-If you need a spacious solo 3-season tent than the Hilleberg Niak, 1.5 could be a good choice if you are looking for a tent with little weight.
-
-Alternatively, I would choose the MSR Hubba Hubba NX which is also less pricey and offers slightly more room.
+If you need a spacious, lightweight 3-season tent, then the Hilleberg Niak could be the right choice.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Niak-2-Person-Tent_10338618_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Hilleberg Niak</a>
 
@@ -203,25 +182,19 @@ Alternatively, I would choose the MSR Hubba Hubba NX which is also less pricey a
 
 <a href="http://www.amazon.com/gp/product/B004LAP3G6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004LAP3G6&linkCode=as2&tag=hikeve-20&linkId=4R5WXJMR7LNA2MKY" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004LAP3G6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B004LAP3G6" width="1" height="1" border="0" alt="Hilleberg Soulo" style="border:none !important; margin:0px !important;" />
 
-**Length**: 220 cm / 86.6 inches
-**Width**: 105 cm / 41.3 inches
-**Height**: 95 cm / 37.4 inches
-**Inner Space**: 2.0 m² / 21.5 ft²
-**Vestibule**: 0.6 m² / 6.45 ft²
-**Weight**: 2400 grams / 84.7 oz.
-**Fabric**:  Kerlon 1200
+**Height**: 37.4 inches / 95 cm
+**Weight**: 5 lbs. 4 oz. / 2.4 kg
+**Floor Area**: 21.5 ft² / 2 m²
+**Vestibule Area**: 6.45 ft² / 0.6 m²
+**Fabric**: Kerlon 1200
 
 The Hilleberg Soulo is a solo expedition tent which works well under very harsh condition.
 
 It’s stronger than the Hilleberg Unna and has a designated vestibule. However, the inner tent offers less space than the Unna.
 
-This tent could (like the Unna) be useful for sea kayaking or mountaineering as it is entirely freestanding.
+This tent could be, like the Unna, useful for sea kayaking or mountaineering as it is entirely freestanding.
 
-It’s a bit heavier and shorter than the Unna.
-
-I would choose the MSR Hubba NX or the MSR Hubba Hubba NX (2-person tent) if you require more space and don’t need a self-standing 4-season tent.
-
-If you don’t plan to do winter camping, then the Hilleberg Soulo is probably going to be too much tent for your needs.
+It’s a bit heavier and shorter than the Unna. I am 71 inches (180 cm) tall and chose the Unna over the Soulo since I felt that it was too short.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Soulo-1-Person-Tent_10101479_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Hilleberg Soulo</a>
 
@@ -231,16 +204,19 @@ If you don’t plan to do winter camping, then the Hilleberg Soulo is probably g
 
 <a rel="nofollow" href="https://www.amazon.com/Hilleberg-Unna-Person-Tent-Red/dp/B00IU0UNEA/ref=as_li_ss_il?ie=UTF8&qid=1500068640&sr=8-2-spons&keywords=hilleberg+unna&psc=1&linkCode=li3&tag=hikeve-20&linkId=94c90dacd5388c638f5ac198dc028f25" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00IU0UNEA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00IU0UNEA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Persons**: 1
+**Height**: 39.3 inches / 100 cm
+**Weight**: 4 lbs. 13 oz. / 2.2 kg
+**Floor Area**: 26.9 ft² / 2.5 m²
+**Vestibule Area**: 0 ft² / 0 m²
 **Fabric**: Kerlon 1200
-**Weight**: 2200 grams / 77.6 oz.
-**Area inner tent**: 2.5 m² / 26.9 ft²
+
+The Hilleberg Unna is a 4-season freestanding solo tent. It does not have a dedicated vestibule but offers the possibility to create one.
 
 If you are taller or if you want more space, then the Hilleberg Unna is probably a better choice than the Soulo.
 
-It’s a 4 season self-standing solo tent which comes with a big panorama window.
+One of the great features of this tent is it's big panorama window.
 
-You can also purchase the Hilleberg Inner Mesh tent which provides better air circulation and can be used without the outer tent.
+During the warmer months you can also replace the standard inner tent with the [Unna Inner Mesh](http://www.hikeventures.com/Hilleberg-Unna-Mesh/) which offers better ventilation.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Unna-1-Person-Tent_10101489_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Hilleberg Unna</a>
 
@@ -250,36 +226,35 @@ You can also purchase the Hilleberg Inner Mesh tent which provides better air ci
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26835366172/in/dateposted-public/" title="Hyperlite Mountain Gear Tent &amp; Ultamid Tarp"><img src="https://farm8.staticflickr.com/7432/26835366172_4b9630972f_b.jpg" width="1024" height="723" alt="Hyperlite Mountain Gear Tent HMG &amp; Ultamid Tarp - Best 1-person tent"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-**Length**: 271.8 cm / 107 inches
-**Width**: 210.8 cm / 83 inches
-**Height**: 162.6 cm / 64 inches
-**Weight**: 499 grams / 17.6 oz.
+**Height**: 64 inches / 162.6 cm
+**Floor Area**: 63 ft² / 5.85 m²
+**Weight**: 1 lbs. 1 oz. / 499 grams
 **Fabric**: Dyneema® (Cuben Fiber)
 
 If you are looking for a fast and light tent which also protects you from bugs then the Hyperlite Mountain Gear UltaMid 2 could be your choice.
 
 The UltaMid 2 is an ultralight tent which is supposed to work well in bad weather. I took the picture above of the UltaMid 2 tent on the packrafting round-up in Sweden.
 
-There were 2 of those Ultra-Mids on this event. The only issue I have with the white cuben fiber fabric is that it might lose its shiny white color after a while. That’s the reason why I ordered my Hyperlite Mountain Gear Porter 4400 backpack a few years ago in black.
+There were 2 of those Ultra-Mids on this event. The only issue I have with the white cuben fiber fabric is that it might lose its shiny white color after a while. That’s the reason why I ordered my [Hyperlite Mountain Gear Porter 4400 backpack](http://www.hikeventures.com/gear-review-hmg-porter-4400-black/) a few years ago in black.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fhyperlite-mountain-gear-ultamid-2" rel="nofollow" class="btn btn-danger" role="button">See the Hyperlite Mountain Gear UltaMid 2</a>
 
-## Marmot Force UL 2P
+## Marmot Force 1P
 
-<a href="https://www.amazon.com/gp/product/B00M85RDHS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00M85RDHS&linkCode=as2&tag=hikeve-20&linkId=5f772e039fab5f9894178931a800150c" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00M85RDHS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00M85RDHS" width="1" height="1" border="0" alt="Marmot Force UL 2P" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00M85XEM6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00M85XEM6&linkCode=as2&tag=hikeve-20&linkId=542de1f58ea88ca738d504395305c247"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00M85XEM6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00M85XEM6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Persons**: 2
-**Fabric**: 15D ripstop / 20D ripstop (floor)
-**Weight**: 1320 grams / 46.6 oz.
-**Area inner tent**: 2.6 m² / 27.9 inches
+**Height**: 36 inches / 91 cm
+**Weight**: 2 lbs. 14 oz. / 1.3 kg
+**Floor Area**: 21 ft² / 1.9 m²
+**Vestibule Area**: 3 ft² 0.28 m²
+**Fly Fabric**: 20d 100% Polyester RS
+** Floor Fabric**: 30d 100% Nylon
 
-Even so, the Marmot Force UL 2P is advertised as a two person tent; I would rather use it as a one person tent.
+The Marmot Force 1P is a freestanding 3-season tent which offers a great weight to room ratio and has been designed to provide an optimum structure. The tent has a twin tip floor design which increases durability. There is also a pocket in the tent to store small items.
 
-As the tent has a rather thin floor, I would also get a tent footprint with this tent. If you are looking for a light 3-season tent, then the Marmot UL 2P could be a good option.
+The tent comes with DAC NFL poles, and it's height makes it also possible to sit in it.
 
-I have used the Marmot Force UL 2P on my trips in Finnish Lapland and Norway. Marmot provided us the tent for testing.
-
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Marmot-Force-2P-Tent_10331516_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Marmot Force UL 2P</a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F116086%2Fmarmot-force-1p-tent" rel="nofollow" class="btn btn-danger" role="button">See the Marmot Force UL 2P</a>
 
 <hr>
 
@@ -287,15 +262,35 @@ I have used the Marmot Force UL 2P on my trips in Finnish Lapland and Norway. Ma
 
 <a  href="http://www.amazon.com/gp/product/B00GP11DOK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GP11DOK&linkCode=as2&tag=hikeve-20&linkId=S7HOMFZX4PJW2LDW" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GP11DOK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GP11DOK" width="1" height="1" border="0" alt="MSR Hubba NX" style="border:none !important; margin:0px !important;" />
 
-**Fabric**: 20D ripstop / 30D ripstop (floor)
-**Weight**: 1290 grams / 45.5 oz.
-**Area inner tent**: 1.67 m² / 17.9 ft²
+**Height**: 35.82 inches / 91 cm
+**Weight**: 2 lbs. 14 oz. / 1.3 kg
+**Floor Area**: 17.9 ft² / 1.67 m²
+**Vestibule Area**: 9 ft² / 0.84 m²
+**Fly Fabric**:20D ripstop nylon
+** Floor Fabric**: 30D ripstop nylon
 
-The MSR Hubba NX is also a great 3-season tent and costs much less than the Hilleberg Niak 1.5.
+The MSR Hubba NX is a lightweight, freestanding 3-season tent and costs much less than Hilleberg tents. The tent comes with a DAC Featherlite NFL pole.
 
-However, the Hilleberg has a stronger floor material (50D). If you are low on budget, then the MSR Hubba would be our pick. If you want a freestanding 4-season tent, then go for the Hilleberg Soulo.
+One advantage of this tent is that it's also possible to sit in it. You probably won't feel that constrained as you would do with other ultralight solo tents.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F863076%2Fmsr-hubba-hubba-nx-2-person-tent" rel="nofollow" class="btn btn-danger" role="button">See the MSR Hubba NX</a>
+
+## The North Face Stormbreak 1 Tent
+
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00DI1S9MO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DI1S9MO&linkCode=as2&tag=hikeve-20&linkId=dd2ea196ccc0a08c9f1e941a76a6a649"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00DI1S9MO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00DI1S9MO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Height**:  34 inches / 86.4 cm
+**Weight**: 3 lbs. 7 oz. / 1.56 kg
+**Floor Area**: 18.13 ft² /  1.68 m²
+**Vestibule Area**: 3.02 ft² (0.28 m²) / 6.04 ft² (0.56 m²)
+**Fly Fabric**: 68D lightweight polyester taffeta
+** Floor Fabric**: 68D polyester taffeta
+
+The North Face Stormbreak 1 is an affordable easy-pitch 3-season tent which features and fully seam-taped canopy and floow and a high / low ventilation.
+
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F879885%2Fthe-north-face-stormbreak-1-tent" rel="nofollow" class="btn btn-danger" role="button">See the North Face Stormbreak 1</a>
+
+---
 
 ## Accessories
 

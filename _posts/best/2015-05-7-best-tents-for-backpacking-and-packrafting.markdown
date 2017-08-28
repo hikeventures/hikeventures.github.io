@@ -239,12 +239,35 @@ The Marmot Force UL 2P is a new freestanding tent which comes in a super light p
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00G7H9CAY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G7H9CAY&linkCode=as2&tag=hikeve-20&linkId=EX4S5YFHURHMA3L5"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00G7H9CAY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00G7H9CAY" width="1" height="1" border="0" alt="MSR Hubba Hubba NX" style="border:none !important; margin:0px !important;" />
 
+**Persons**: 2
+**Fabric**: 20D ripstop / 30D ripstop (floor)
+**Weight**: 1700 grams / 3 lbs. 12 oz.
+**Floor area**: 2.7 m² / 29 ft²
+** Vestibule area**: 0.84 m² / 9 ft²
+
+The MSR Hubba Hubba NX is a great 3 season tent and it even costs almost half the price of a Hilleberg tent.
+
+The Hilleberg just has a stronger floor material (50D) compared to the MSR but you get plenty of room.
+
+I think it’s a tough decision to choose between the Niak 1.5 and the Hubba Hubba NX.
+
+If you are low on budget then we could highly recommend the Hubba Hubba NX as we have also used it on our trip in Sweden and Japan.
+
+<a href="http://amzn.to/2r2huhp" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+<hr>
+
+## MSR Hubba Hubba NX
+
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00G7H9CAY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G7H9CAY&linkCode=as2&tag=hikeve-20&linkId=EX4S5YFHURHMA3L5"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00G7H9CAY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00G7H9CAY" width="1" height="1" border="0" alt="MSR Hubba Hubba NX" style="border:none !important; margin:0px !important;" />
+
 The MSR Hubba Hubba NX is a freestanding 2-person tent for 3 seasons.
 
 **Persons**: 2
 **Fabric**: 20D ripstop / 30D ripstop (floor)
 **Weight**: 1700 grams / 60 oz.
-**Area inner tent**: 2.7 m²
+**Floor area**: 2.7 m²
+
 
 The MSR Hubba Hubba NX is a great 3 season tent and it even costs almost half the price of a Hilleberg tent.
 
