@@ -1,5 +1,5 @@
 ---
-title: Best backpacking tents 2017 - 2018
+title: Best backpacking tents of 2017 - 2018
 description: Overview of the best backpacking tents for 2017 - 2018.
 date: 2016-01-03 00:07:07
 update_date: 2017-08-28 05:43:52
@@ -18,7 +18,7 @@ In this blog post, I have [selected](#weight-comparison-table) the best backpack
 
 Also, have a look at our [FAQ on tents](#faq-on-tents) or our handy [price comparison tool](http://www.hikeventures.com/deals/).
 
-<amp-img src="https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Best solo person backpacking tent in 2017 - 2018" layout="responsive"></amp-img>
+<amp-img src="https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Best backpacking tent of 2017 - 2018" layout="responsive"></amp-img>
 <br>
 <!--more-->
 
