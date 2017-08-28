@@ -89,7 +89,7 @@ On nice weather, you can just sleep inside the mesh body and leave the outer ten
 
 The ventilation of this tent consists of the inner mesh tent and a roof vent.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F117892%2Fbig-agnes-copper-spur-ul-1-tent" rel="nofollow" class="btn btn-danger" role="button">See the Big Agnes Fly Creek HV UL1</a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F117892%2Fbig-agnes-copper-spur-ul-1-tent" rel="nofollow" class="btn btn-danger" role="button">See the Big Agnes Copper Spur UL 1</a>
 
 ## Big Agnes Fly Creek HV UL1
 
