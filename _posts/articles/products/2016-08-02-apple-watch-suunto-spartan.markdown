@@ -45,8 +45,6 @@ My  [Suunto Traverse](http://www.hikeventures.com/Suunto-Traverse-Ambit3-differe
 
 As Apple did not mention anything about an improved battery life of the Apple Watch Series 2, we can probably expect a battery life of 18 hours with GPS switched off.
 
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-
 Apple has worked with Nike and developed the Apple Watch Nike+ which offers some additional features for runners.
 
 If you are just into running, then the Apple Watch Nike+ sounds like an excellent package as you don't need such a long battery life and it also comes with a built in heart-rate monitor on your wrist.
@@ -64,3 +62,5 @@ If you only go running then, the Apple Watch Nike+ is probably a better option.
 If you are an iPhone user then the Apple Watch Series 2 is obviously a better choice if you don't plan activities which last several hours.
 
 However, I need to see how long the <a href="http://amzn.to/2pKb4Gt" target="_blank" rel="nofollow">Apple Watch Series 2</a> might work with GPS switched on, as I have not tested the watch yet.
+
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
