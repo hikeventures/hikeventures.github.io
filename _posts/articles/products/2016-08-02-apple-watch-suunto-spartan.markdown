@@ -51,7 +51,7 @@ If you are just into running, then the Apple Watch Nike+ sounds like an excellen
 
 The <a href="http://amzn.to/2pkGVh8" rel="nofollow" target="_blank">Suunto Spartan HR</a> still requires you to wear a heart-rate monitor around your chest.
 
----
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 
 ## Conclusion
 
@@ -62,5 +62,3 @@ If you only go running then, the Apple Watch Nike+ is probably a better option.
 If you are an iPhone user then the Apple Watch Series 2 is obviously a better choice if you don't plan activities which last several hours.
 
 However, I need to see how long the <a href="http://amzn.to/2pKb4Gt" target="_blank" rel="nofollow">Apple Watch Series 2</a> might work with GPS switched on, as I have not tested the watch yet.
-
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
