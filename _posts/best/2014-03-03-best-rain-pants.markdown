@@ -96,39 +96,6 @@ This model is reinforced in major wear areas, has articulated knees but only com
 
 ---
 
-## Mountain Hardwear Stretch Ozonic Rain Pants
-
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00LOWP0FI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LOWP0FI&linkCode=as2&tag=hikeve-20&linkId=8a822049e0cb2a3bd90ee8eee79fc650"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00LOWP0FI&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00LOWP0FI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Weight**: 10 oz. / 284 grams<br>
-**Fabric**: Dry.Q™ Active 2.5-layer
-
-Mountain Hardwear Stretch Ozonic rain pants are wind- and waterproof.
-
-They are made of 4-way stretch fabric and comfortable to wear on different outdoor activities like backpacking or hiking.
-
-They offer full-length zippers with two security closures and an integrated webbed belt. Further, they also come with enhanced knee articulation and loops at cuffs to fasten to your boots.
-
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F880688%2Fmountain-hardwear-stretch-ozonic-rain-pants-mens-32-inseam" rel="nofollow" class="btn btn-danger" role="button">See the Men's Mountain Hardwear Stretch Ozonic</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F110848%2Fmountain-hardwear-stretch-ozonic-pants-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Mountain Hardwear Stretch Ozonic</a>
-
-
----
-
-## Outdoor Research Helium Pants
-
-<a rel="nofollow" href="https://www.amazon.com/Outdoor-Research-Helium-Medium-Pewter/dp/B00LU7EKHQ/ref=as_li_ss_il?ie=UTF8&qid=1500449127&sr=8-3&keywords=MEN'S+DELUGE+WATERPROOF+PANT&linkCode=li3&tag=hikeve-20&linkId=5d524dbc4656f89823cb3813e5b95537" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LU7EKHQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00LU7EKHQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-**Weight**: 5.6 oz. / 160 grams<br>
-**Fabric**: Pertex Shield+ 2.5L
-
-The Outdoor Research Helium Pants are super lightweight, and you can use its back pockets as a stuff sack.
-
-It also features a carabiner loop and an elastic waist with a drawcord as well as ankle zippers.
-
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F895247%2Foutdoor-research-helium-rain-pants-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Outdoor Research Helium</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F111419%2Foutdoor-research-helium-rain-pants-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Outdoor Research Helium</a>
-
----
-
 ## Haglöfs L.I.M. III pants
 
 <a href="https://www.amazon.com/Haglofs-L-I-M-III-Running-Pants/dp/B00INIPI76/ref=as_li_ss_il?ie=UTF8&qid=1499894146&sr=8-1-fkmr1&keywords=Hagl%C3%B6fs+L.I.M.+III+pants&linkCode=li3&tag=hikeve-20&linkId=068194351a62e5a33f7150efbbf3fe3a" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00INIPI76&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00INIPI76" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -162,6 +129,38 @@ Those pants allow easy on/off without removing boots.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F863401%2Fmarmot-precip-full-zip-rain-pants-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Marmot PreCip</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F859979%2Fmarmot-precip-full-zip-rain-pants-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Marmot PreCip</a>
 
+---
+
+## Mountain Hardwear Stretch Ozonic Rain Pants
+
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00LOWP0FI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LOWP0FI&linkCode=as2&tag=hikeve-20&linkId=8a822049e0cb2a3bd90ee8eee79fc650"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00LOWP0FI&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00LOWP0FI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight**: 10 oz. / 284 grams<br>
+**Fabric**: Dry.Q™ Active 2.5-layer
+
+Mountain Hardwear Stretch Ozonic rain pants are wind- and waterproof.
+
+They are made of 4-way stretch fabric and comfortable to wear on different outdoor activities like backpacking or hiking.
+
+They offer full-length zippers with two security closures and an integrated webbed belt. Further, they also come with enhanced knee articulation and loops at cuffs to fasten to your boots.
+
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F880688%2Fmountain-hardwear-stretch-ozonic-rain-pants-mens-32-inseam" rel="nofollow" class="btn btn-danger" role="button">See the Men's Mountain Hardwear Stretch Ozonic</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F110848%2Fmountain-hardwear-stretch-ozonic-pants-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Mountain Hardwear Stretch Ozonic</a>
+
+
+---
+
+## Outdoor Research Helium Pants
+
+<a rel="nofollow" href="https://www.amazon.com/Outdoor-Research-Helium-Medium-Pewter/dp/B00LU7EKHQ/ref=as_li_ss_il?ie=UTF8&qid=1500449127&sr=8-3&keywords=MEN'S+DELUGE+WATERPROOF+PANT&linkCode=li3&tag=hikeve-20&linkId=5d524dbc4656f89823cb3813e5b95537" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LU7EKHQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00LU7EKHQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight**: 5.6 oz. / 160 grams<br>
+**Fabric**: Pertex Shield+ 2.5L
+
+The Outdoor Research Helium Pants are super lightweight, and you can use its back pockets as a stuff sack.
+
+It also features a carabiner loop and an elastic waist with a drawcord as well as ankle zippers.
+
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F895247%2Foutdoor-research-helium-rain-pants-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Outdoor Research Helium</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F111419%2Foutdoor-research-helium-rain-pants-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Outdoor Research Helium</a>
 
 ---
 
