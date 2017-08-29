@@ -15,9 +15,11 @@ As I recently bought a new Alpacka packraft, learning how to Packraft is now ess
 <br>
 <!--more-->
 
-| test     | test    |
-|:---------|:--------|
+|   test   |  test   |
+|:--------:|:-------:|
 | sfsdfsdf | sfsdfsd |
+
+
 
 <a href="https://www.flickr.com/photos/90204224@N07/8714403426"><img src="https://farm9.staticflickr.com/8552/8714403426_98e19fe539_b.jpg" width="1024" height="441" alt="how to packraft"></a>
 
