@@ -26,11 +26,6 @@ View from the cockpit. In the front there is enough space for a backpack. Still 
 
 ## Packraft and Backpacks
 
-| sfsd  |  sfs | sfsd  |
-|---|---|---|
-|  sf |  sfs |sfs  |
-|   sf| sf  |  sfd |
-
 I also do like Packrafting because you can easily pack your Packraft into a backpack. It folds small and is not heavy.
 
 ## Gear for Packrafting

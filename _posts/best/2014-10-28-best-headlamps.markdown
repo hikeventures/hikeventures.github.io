@@ -81,7 +81,7 @@ However, if you are looking for a smaller headlamp which is also waterproof, the
 
 With 220 grams and 'only' 500 Lumen, the Black Diamond Icon has a pretty good Lumen/Weight ratio.
 
-For very wet conditions you should probably go for the Black Diamond Icon.
+If you are planning to go kayaking or packrafting, then you should probably take a watertight headlamp like the Black Diamond Icon with you.
 
 However, with its external battery, it needs probably more room in your backpack, and you will also carry more weight on your head.
 
