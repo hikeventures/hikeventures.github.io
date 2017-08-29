@@ -38,34 +38,53 @@ It's also a good idea to buy rain pants with side zippers as you can easily pull
         </thead>
 
         <tbody>
-        <tr>
-          <td><a href="http://amzn.to/2e8l2eE" target="_blank" rel="nofollow">Montane Minimus Pants</a></td><td>141 grams / 5 oz. </td>
-        </tr>
 
         <tr>
-          <td><a href="http://amzn.to/2e8l2eE" target="_blank" rel="nofollow">Outdoor Research Helium Pants</a></td><td>160 grams / 5.6 oz. </td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F895247%2Foutdoor-research-helium-rain-pants-mens" target="_blank" rel="nofollow">Outdoor Research Helium Pants</a></td><td>5.6 oz. / 160 grams</td>
         </tr>
+
+
+
+
+
+
+
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Montane+Atomic+Pant" target="_blank" rel="nofollow">Montane Atomic Pants</a></td><td>185 grams / 6.5 oz.</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmountain-hardwear-plasmic-pant-mens" target="_blank" rel="nofollow">Mountain Hardwear Plasmic Pants</a></td><td>7.2 oz. / 204 grams</td>
         </tr>
-        <tr>
-          <td><a href="http://amzn.to/2e33KOw" target="_blank" rel="nofollow">Mountain Hardwear Plasmic Pants</a></td><td>204 grams / 7.2 oz.</td>
-        </tr>
+
+
+
         <tr>
           <td><a href="http://amzn.to/2e9UXy5" target="_blank" rel="nofollow">Rab Fuse Pants</a></td><td>205 grams / 7.2 oz.</td>
         </tr>
+
+
+
+
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Haglofs+LIM+III+pant" target="_blank" rel="nofollow">Haglöfs L.I.M. III Pants</a></td><td>225 grams / 7.9 oz.</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fhagl%C3%B6fs-l.i.m.-iii-pant-mens" target="_blank" rel="nofollow">Haglöfs L.I.M. III Pants</a></td><td>7.9 oz. / 225 grams</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2drImA6" target="_blank" rel="nofollow">Arcteryx Beta SL Pants</a></td><td>260 grams / 9.2 oz.</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F112414%2Fthe-north-face-venture-2-half-zip-pants-mens" target="_blank" rel="nofollow">The North Face
+Venture 2 Half-Zip Pants</a></td><td>8.1 oz. / 230 grams </td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2eI58JB" target="_blank" rel="nofollow">Rab Firewall Pants</a></td><td>319 grams / 11.3 oz.</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F865001%2Farcteryx-beta-sl-pants-mens" target="_blank" rel="nofollow">Arcteryx Beta SL Pants</a></td><td>9.2 oz. / 260 grams</td>
         </tr>
+        <tr>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-firewall-pant-mens" target="_blank" rel="nofollow">Rab Firewall Pants</a></td><td>11.3 oz. / 319 grams</td>
+        </tr>
+
+        <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F863401%2Fmarmot-precip-full-zip-rain-pants-mens" target="_blank" rel="nofollow">Marmot PreCip Rain Pant</a></td><td>12 oz. / 340 grams</td>
+      </tr>
+
         <tr>
           <td><a href="http://amzn.to/2teq8us" target="_blank" rel="nofollow">Berghaus Deluge Pants</a></td><td>390 grams / 13.8 oz.</td>
         </tr>
+
+
+
 </tbody>
 </table>
 </div>
@@ -83,7 +102,7 @@ SL stands for Super Light in the Arc’teryx product range.
 
 This model is reinforced in major wear areas, has articulated knees but only comes with lower leg zippers.
 
-<a href="http://amzn.to/2rYuhVL" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F865001%2Farcteryx-beta-sl-pants-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arc'teryx Beta SL Pants</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F865532%2Farcteryx-beta-sl-pants-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Arc'teryx Beta SL Pants</a>
 
 ---
 
@@ -113,7 +132,7 @@ The Outdoor Research Helium Pants are super lightweight, and you can use its bac
 
 It also features a carabiner loop and an elastic waist with a drawcord as well as ankle zippers.
 
-<a href="http://amzn.to/2tF7VFK" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F895247%2Foutdoor-research-helium-rain-pants-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Outdoor Research Helium</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F111419%2Foutdoor-research-helium-rain-pants-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Outdoor Research Helium</a>
 
 ---
 
@@ -128,37 +147,45 @@ The Haglöfs L.I.M. III pants are part of Haglöfs Ultralight product range and 
 
 The zippers on the legs help to put those pants on while wearing hiking boots.
 
-<a href="/deals/#haglofs+lim+III+pant" target="_blank"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fhagl%C3%B6fs-l.i.m.-iii-pant-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Haglöfs L.I.M. III</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fhagl%C3%B6fs-l.i.m-iii-pant-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Haglöfs L.I.M. III</a>
 
 ---
 
-## Montane Atomic Pants
+## Marmot PreCip Full-Zip Rain Pants
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B007RLM8JQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007RLM8JQ&linkCode=as2&tag=hikeve-20&linkId=GBWCT2S4ZY3KW4PQ"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007RLM8JQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B007RLM8JQ" width="1" height="1" border="0" alt="Montane Atomic Pants" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B000HGR5P0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000HGR5P0&linkCode=as2&tag=hikeve-20&linkId=8da6e6303e4680b7c4dcd71cab8d0a16"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B000HGR5P0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B000HGR5P0" width="1" height="1" border="0" alt="Marmot PreCip Full-Zip Rain Pants" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 6.5 oz. / 185 grams
-**Fabric**: PERTEX Shield
+**Weight**: 12 oz. / 340 grams
+**Fabric**: NanoPro™
 
-The Montane Atomic Pants are a bit more durable than the Montane Minimus Pants, but they come with 44 grams more weight.
+Marmot PreCip Full-Zip Rain Pants is lightweight and comes with the NanoPro fabric which  moves moisture away from your skin so you stay dry.
 
-They are also an excellent choice if you go hiking in the mountains during the warmer months.
+There is also enough space to use it as a shell layer over an insulating layer.
 
-<a href="http://amzn.to/2rYwfp1" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+The seams are 100% taped and the zippers are coming with stormflaps, elastic waist, zippered front and back pockets.
+
+Those pants allow easy on/off without removing boots.
+
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F863401%2Fmarmot-precip-full-zip-rain-pants-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Marmot PreCip</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F859979%2Fmarmot-precip-full-zip-rain-pants-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Marmot PreCip</a>
+
 
 ---
 
-## Montane Minimus Pants
+## The North Face Venture 2 Half-Zip Pants
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B007RLM6VG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007RLM6VG&linkCode=as2&tag=hikeve-20&linkId=FWJFGCKUDWO36GKL"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007RLM6VG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B007RLM6VG" width="1" height="1" border="0" alt="Montane Minimus Pants" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01GQUW4JM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GQUW4JM&linkCode=as2&tag=hikeve-20&linkId=e03108b3d48ab31beaa64dc86191bc83"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01GQUW4JM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01GQUW4JM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 5 oz. / 141 grams
-**Fabric**: PERTEX Shield
+**Weight**: 8.1 oz. / 230 grams
+**Fabric**: DryVent 2.5-layer
 
-The Montane Minimus pants are super light and pack easily into every backpack.
+The North Face Venture 2 Half-Zip Rain Pants are technical, waterproof 2.5-layer pants for men in a relaxed fit.
 
-These are great waterproof pants for the warmer months.
+The half-zip legs let you get them on or off easily over your boots.
 
-They also come with zippers on the lower part of the leg so you can pull them on and off even with boots on.
+The pants are coming with an elastic waist with drawcord, secure-zip hand pockets, adjustable ankle tabs, knee-length side zippers and they pack down in a hand pocket.
+
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F112414%2Fthe-north-face-venture-2-half-zip-pants-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's North Face Venture 2 Half-Zip</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F112130%2Fthe-north-face-venture-2-half-zip-pants-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's North Face Venture 2 Half-Zip</a>
+
 
 <a href="http://amzn.to/2si7apw" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
@@ -177,7 +204,7 @@ These pants have articulated knees which increase your mobility and also a bag w
 
 If you need to have a pocket on your waterproof pants, then go for this model.
 
-<a href="http://amzn.to/2sG4iA9" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmountain-hardwear-plasmic-pant-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Mountain Hardwear Plasmic Pants</a>
 
 ---
 
@@ -192,7 +219,7 @@ Wear the Rab Firewall Pants for winter activities.
 
 The Rab Firewall pants come with an elasticated waistband and knee articulations and are compatible with winter boots.
 
-<a href="http://amzn.to/2r4XBdW" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-firewall-pant-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Rab Firewall Pants</a>
 
 ---
 
