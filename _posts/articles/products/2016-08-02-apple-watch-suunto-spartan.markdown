@@ -21,11 +21,13 @@ Both watches - the Suunto Spartan HR and the Apple Watch 2 are water resistant, 
 
 **Update 26.01.2017:** Garmin has released the <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F121191%2Fgarmin-fenix-5x-sapphire-multisport-gps-heart-rate-monitor-watch" rel="nofollow" target="_blank">Fenix 5X</a>, which I would currently buy as my favorite outdoor watch since it also offers the possibility to upload topo maps.
 
+<amp-img src="https://c5.staticflickr.com/6/5450/9599011940_504b6d399e_k.jpg" width="2048" height="1365" layout="responsive" alt="Suunto Spartan or Apple Watch Series 2"></amp-img>
+<br>
+<!--more-->
+
 The Apple Watch 2 weights a bit more than the Suunto Spartan.
 
 If you have already an iPhone and wear your watch for running shorter distances (maybe up to a half marathon), then the Apple Watch 2 is probably a better choice.
-
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 <!--more-->
 
@@ -37,11 +39,7 @@ My  [Suunto Traverse](http://www.hikeventures.com/Suunto-Traverse-Ambit3-differe
 
 As Apple did not mention anything about an improved battery life of the Apple Watch Series 2, we can probably expect a battery life of 18 hours with GPS switched off.
 
----
-
-<amp-img src="https://c5.staticflickr.com/6/5450/9599011940_504b6d399e_k.jpg" width="2048" height="1365" layout="responsive" alt="Suunto Spartan or Apple Watch Series 2"></amp-img>
-
----
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 
 Apple has worked with Nike and developed the Apple Watch Nike+ which offers some additional features for runners.
 
