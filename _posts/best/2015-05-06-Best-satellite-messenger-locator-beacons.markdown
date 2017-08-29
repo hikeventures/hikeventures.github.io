@@ -118,7 +118,7 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 
 With a Satellite Messenger, you can also inform your family and friends about your current location and that everything is fine with you, so they don’t have to worry.
 
-Here an example: I have been once to the [Sarek National park in Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) where I didn’t have phone reception and on this trip, I decided that I will take a satellite messenger with me if I would ever go there again in the future.
+Here an example: I have been once to the [Sarek National park in Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) where I didn’t have phone reception, and on this trip, I decided that I will take a satellite messenger with me if I would ever go there again in the future.
 
 It can take up to 2-3 days to get out of the National Park, and in case of an emergency, it might be quite hard to find help as you may only see two other hikers a day if at all.
 
