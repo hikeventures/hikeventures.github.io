@@ -75,7 +75,7 @@ Venture 2 Half-Zip Pants</a></td><td>8.1 oz. / 230 grams </td>
         <tr>
           <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-firewall-pant-mens" target="_blank" rel="nofollow">Rab Firewall Pants</a></td><td>11.3 oz. / 319 grams</td>
         </tr>
-
+<tr>
         <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F863401%2Fmarmot-precip-full-zip-rain-pants-mens" target="_blank" rel="nofollow">Marmot PreCip Rain Pant</a></td><td>12 oz. / 340 grams</td>
       </tr>
 
@@ -93,7 +93,7 @@ Venture 2 Half-Zip Pants</a></td><td>8.1 oz. / 230 grams </td>
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GV31UGI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GV31UGI&linkCode=as2&tag=hikeve-20&linkId=HNWG2CPEBZ3YDLI7"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GV31UGI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GV31UGI" width="1" height="1" border="0" alt="Arcteryx Beta SL Pants" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 9.2 oz. / 260 grams
+**Weight**: 9.2 oz. / 260 grams<br>
 **Fabric**: N40r GORE-TEX fabric with PacLite
 
 SL stands for Super Light in the Arc’teryx product range.
@@ -108,7 +108,7 @@ This model is reinforced in major wear areas, has articulated knees but only com
 
 <a rel="nofollow" href="https://www.amazon.com/Berghaus-Deluge-Pants-Black-Medium/dp/B000PCVE30/ref=as_li_ss_il?ie=UTF8&qid=1500448739&sr=8-1&keywords=MEN'S+DELUGE+WATERPROOF+PANT&linkCode=li3&tag=hikeve-20&linkId=4f25592bc41ae67e1c3e17e4b71cba67" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000PCVE30&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B000PCVE30" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 13.8 oz. / 390 grams
+**Weight**: 13.8 oz. / 390 grams<br>
 **Fabric**: Berghaus Hydroshell fabric
 
 The Berghaus Deluge Pants comes with 3/4 length side zips and venting on the upper leg.
@@ -123,7 +123,7 @@ They also have an elasticated waist with side waist adjustment.
 
 <a rel="nofollow" href="https://www.amazon.com/Outdoor-Research-Helium-Medium-Pewter/dp/B00LU7EKHQ/ref=as_li_ss_il?ie=UTF8&qid=1500449127&sr=8-3&keywords=MEN'S+DELUGE+WATERPROOF+PANT&linkCode=li3&tag=hikeve-20&linkId=5d524dbc4656f89823cb3813e5b95537" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LU7EKHQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00LU7EKHQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 5.6 oz. / 160 grams
+**Weight**: 5.6 oz. / 160 grams<br>
 **Fabric**: Pertex Shield+ 2.5L
 
 The Outdoor Research Helium Pants are super lightweight, and you can use its back pockets as a stuff sack.
@@ -138,7 +138,7 @@ It also features a carabiner loop and an elastic waist with a drawcord as well a
 
 <a href="https://www.amazon.com/Haglofs-L-I-M-III-Running-Pants/dp/B00INIPI76/ref=as_li_ss_il?ie=UTF8&qid=1499894146&sr=8-1-fkmr1&keywords=Hagl%C3%B6fs+L.I.M.+III+pants&linkCode=li3&tag=hikeve-20&linkId=068194351a62e5a33f7150efbbf3fe3a" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00INIPI76&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00INIPI76" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 7.9 oz. / 225 grams
+**Weight**: 7.9 oz. / 225 grams<br>
 **Fabric**: GORE-TEX PacLite
 
 The Haglöfs L.I.M. III pants are part of Haglöfs Ultralight product range and are quite popular in Scandinavia.
@@ -153,8 +153,9 @@ The zippers on the legs help to put those pants on while wearing hiking boots.
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B000HGR5P0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000HGR5P0&linkCode=as2&tag=hikeve-20&linkId=8da6e6303e4680b7c4dcd71cab8d0a16"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B000HGR5P0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B000HGR5P0" width="1" height="1" border="0" alt="Marmot PreCip Full-Zip Rain Pants" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 12 oz. / 340 grams
+**Weight**: 12 oz. / 340 grams<br>
 **Fabric**: NanoPro™
+
 
 Marmot PreCip Full-Zip Rain Pants is lightweight and comes with the NanoPro fabric which  moves moisture away from your skin so you stay dry.
 
@@ -173,7 +174,7 @@ Those pants allow easy on/off without removing boots.
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01GQUW4JM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GQUW4JM&linkCode=as2&tag=hikeve-20&linkId=e03108b3d48ab31beaa64dc86191bc83"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01GQUW4JM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01GQUW4JM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 8.1 oz. / 230 grams
+**Weight**: 8.1 oz. / 230 grams<br>
 **Fabric**: DryVent 2.5-layer
 
 The North Face Venture 2 Half-Zip Rain Pants are technical, waterproof 2.5-layer pants for men in a relaxed fit.
@@ -186,11 +187,15 @@ The pants are coming with an elastic waist with drawcord, secure-zip hand pocket
 
 ---
 
+
+
+
+
 ## Mountain Hardwear Plasmic Pant
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B0089PN410/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0089PN410&linkCode=as2&tag=hikeve-20&linkId=SCOBGEQN4LMQSIUF"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0089PN410&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0089PN410" width="1" height="1" border="0" alt="Mountain Hardwear Plasmic Pant" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 7.2 oz. / 204 grams
+**Weight**: 7.2 oz. / 204 grams<br>
 **Fabric**: Dry.Q EVAP 40D 2.5L
 
 The Mountain Hardwear Plasmic Pants are slightly more heavy than the Montane pants, but they come with some additional features.
@@ -207,7 +212,7 @@ If you need to have a pocket on your waterproof pants, then go for this model.
 
 <a rel="nofollow" href="https://www.amazon.com/gp/product/B01C644O04/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01C644O04&linkCode=as2&tag=hikeve-20&linkId=0ab2f639df8dd66b00bcd42eed08d32a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01C644O04&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01C644O04" width="1" height="1" border="0" alt="Rab Firewall Pants" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 11.3 oz. / 319 grams
+**Weight**: 11.3 oz. / 319 grams<br>
 **Fabric**: Pertex Shield+ 3L
 
 Wear the Rab Firewall Pants for winter activities.
@@ -222,7 +227,7 @@ The Rab Firewall pants come with an elasticated waistband and knee articulations
 
 <a rel="nofollow" href="https://www.amazon.com/gp/product/B00UMIW9JU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UMIW9JU&linkCode=as2&tag=hikeve-20&linkId=055e9dee0e87b8f31ff80a02c6308d6c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00UMIW9JU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00UMIW9JU" width="1" height="1" border="0" alt="Rab Fuse Pants" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 7.2 oz. / 205 grams
+**Weight**: 7.2 oz. / 205 grams<br>
 **Fabric**: Pertex Shield 2.5 Layer
 
 The Rab Fuse Pants are the lightest waterproof pants from Rab. They also feature knee articulation.
