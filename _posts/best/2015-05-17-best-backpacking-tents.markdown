@@ -53,6 +53,10 @@ Copper Spur UL 1</a></td><td>2 lbs. 3 oz. / 0.98 kg</td>
             <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F116086%2Fmarmot-force-1p-tent" target="_blank" rel="nofollow">Marmot Force 1P</a></td><td>2 lbs. 14 oz. / 1.3 kg</td>
           </tr>
           <tr>
+            <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F112551%2Fmsr-access-1-tent" target="_blank" rel="nofollow">MSR Access 1</a></td><td>3 lbs. 8 oz. / 1.6 kg</td>
+          </tr>
+          <tr>
+          <tr>
             <td><a href="http://amzn.to/2euL9cG" target="_blank" rel="nofollow">Hilleberg Akto</a></td><td>3 lbs. 11 oz. / 1.7 kg</td>
           </tr>
           <tr>
@@ -284,6 +288,28 @@ The tent comes with DAC NFL poles, and it's height makes it also possible to sit
 
 <hr>
 
+## MSR Access 1
+
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01N1JL3H4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N1JL3H4&linkCode=as2&tag=hikeve-20&linkId=4fca1bba1a9fe3f94cfc4660fe2d060b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01N1JL3H4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01N1JL3H4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Height**: 40 inches / 101.6 cm<br>
+**Weight**: 3 lbs. 8 oz. / 1.6 kg<br>
+**Floor Area**: 19 ft² / 1.76 m²<br>
+**Vestibule Area**: 9 ft² / 0.23 m²<br>
+**Fly Fabric**:20D ripstop nylon<br>
+**Floor Fabric**: 30D ripstop nylon
+
+The MSR Access 1 is an ultralight four-season freestanding tent which could be an excellent choice for ski touring and snowboarding as well as for split boarders backcountry skiers and hikers.
+
+The tent has one door comes with new developed Easton® Syclone poles (2 pieces).
+
+The tent is advertised as being warmer than a 3-season tent even so it is lighter than a mountaineering tent.
+
+The tent offers lots of space which can also accommodate your bulky gear.
+
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F112551%2Fmsr-access-1-tent" rel="nofollow" class="btn btn-danger" role="button">See the MSR Access 1</a>
+
+<hr>
 
 ## MSR Hubba NX
 
