@@ -55,7 +55,7 @@ Copper Spur UL 1</a></td><td>2 lbs. 3 oz. / 0.98 kg</td>
           <tr>
             <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F112551%2Fmsr-access-1-tent" target="_blank" rel="nofollow">MSR Access 1</a></td><td>3 lbs. 8 oz. / 1.6 kg</td>
           </tr>
-          <tr>
+        
           <tr>
             <td><a href="http://amzn.to/2euL9cG" target="_blank" rel="nofollow">Hilleberg Akto</a></td><td>3 lbs. 11 oz. / 1.7 kg</td>
           </tr>
