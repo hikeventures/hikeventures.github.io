@@ -88,9 +88,7 @@ Venture 2 Half-Zip Pants</a></td><td>8.1 oz. / 230 grams </td>
 </tbody>
 </table>
 </div>
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 ## Arc'teryx Beta SL Pants
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GV31UGI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GV31UGI&linkCode=as2&tag=hikeve-20&linkId=HNWG2CPEBZ3YDLI7"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GV31UGI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GV31UGI" width="1" height="1" border="0" alt="Arcteryx Beta SL Pants" style="border:none !important; margin:0px !important;" />
@@ -186,9 +184,6 @@ The pants are coming with an elastic waist with drawcord, secure-zip hand pocket
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F112414%2Fthe-north-face-venture-2-half-zip-pants-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's North Face Venture 2 Half-Zip</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F112130%2Fthe-north-face-venture-2-half-zip-pants-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's North Face Venture 2 Half-Zip</a>
 
-
-<a href="http://amzn.to/2si7apw" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
-
 ---
 
 ## Mountain Hardwear Plasmic Pant
@@ -242,7 +237,7 @@ The Rab Fuse Pants are the lightest waterproof pants from Rab. They also feature
 * [How to wash them? ](#how-to-wash-them)
 * [How to patch them?](#how-to-patch-them)
 
----
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 
 ### Best fabric?
 
