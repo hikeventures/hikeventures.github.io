@@ -15,11 +15,9 @@ As I recently bought a new Alpacka packraft, learning how to Packraft is now ess
 <br>
 <!--more-->
 
-| Group                     | Domain          | First Appearance |
-|:--------------------------|:----------------|:-----------------|
-| ShinRa                    | Mako Reactors   | FFVII            |
-| Moogles                   | MogNet          | FFIII            |
-| Vana'diel Chocobo Society | Chocobo Raising | FFXI:TOAU        |
+| test     | test    |
+|:---------|:--------|
+| sfsdfsdf | sfsdfsd |
 
 <a href="https://www.flickr.com/photos/90204224@N07/8714403426"><img src="https://farm9.staticflickr.com/8552/8714403426_98e19fe539_b.jpg" width="1024" height="441" alt="how to packraft"></a>
 
@@ -30,8 +28,6 @@ The water at this point of the year is still freezing cold. Wearing a pair of so
 <a href="https://www.flickr.com/photos/90204224@N07/8714404044" title="Packrafting Finland"><img src="https://farm9.staticflickr.com/8123/8714404044_a11c07874f_b.jpg" width="1024" height="641" alt="Learning Packrafting Finland alpacka raft"></a>
 
 View from the cockpit. In the front there is enough space for a backpack. Still need to get a dry bag though...
-
-<a href="https://www.flickr.com/photos/90204224@N07/8713281883"><img src="https://farm9.staticflickr.com/8130/8713281883dcc0a57ac0b.jpg" width="1024" height="568" alt="Packrafting Finland alpacka raft learning"></a>
 
 ## Packraft and Backpacks
 I also do like Packrafting because you can easily pack your Packraft into a backpack. It folds small and is not heavy.
