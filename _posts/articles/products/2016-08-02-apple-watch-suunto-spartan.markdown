@@ -59,4 +59,4 @@ If you only go running then, the Apple Watch Nike+ is probably a better option.
 
 If you are an iPhone user then the Apple Watch Series 2 is obviously a better choice if you don't plan activities which last several hours.
 
-However, as I have not tested the <a href="http://amzn.to/2pKb4Gt" target="_blank" rel="nofollow">Apple Watch Series 2</a>, I will need to see how long the watch might work with GPS switched on.
+However, I will need to see how long the <a href="http://amzn.to/2pKb4Gt" target="_blank" rel="nofollow">Apple Watch Series 2</a> might work with GPS switched on, as I have not tested the watch yet.
