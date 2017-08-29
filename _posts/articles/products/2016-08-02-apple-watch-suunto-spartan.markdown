@@ -19,10 +19,15 @@ As I wear my watch mainly for running and hiking, I am interested in a product w
 
 Both watches - the Suunto Spartan HR and the Apple Watch 2 are water resistant, but the big question is still which performs better in battery life?
 
+<div class="table-responsive">
+  <table class="table">
+<tr><td>
 **Update 26.01.2017:** Garmin has released the <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F121191%2Fgarmin-fenix-5x-sapphire-multisport-gps-heart-rate-monitor-watch" rel="nofollow" target="_blank">Fenix 5X</a>, which I would currently buy as my favorite outdoor watch since it also offers the possibility to upload topo maps.
-
-<amp-img src="https://c5.staticflickr.com/6/5450/9599011940_504b6d399e_k.jpg" width="2048" height="1365" layout="responsive" alt="Suunto Spartan or Apple Watch Series 2"></amp-img>
-<br>
+</td><td>
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01MQX3306/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MQX3306&linkCode=as2&tag=hikeve-20&linkId=4177130ddbf2302b934737f55f478f18"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MQX3306&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MQX3306" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+</td></tr>
+</table>
+</div>
 <!--more-->
 
 The Apple Watch 2 weights a bit more than the Suunto Spartan.
