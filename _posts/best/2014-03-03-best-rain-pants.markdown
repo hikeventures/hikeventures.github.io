@@ -11,7 +11,7 @@ tags:
   - pants
 layout: post
 ---
-Here is my [selection](#the-best-rain-pants-of-2017) of the best rain pants for 2017 - 2018. Planning to go hiking, backpacking or any other backcountry adventure? Then you should consider packing lightweight rain pants and a [rain jacket](http://www.hikeventures.com/best-rain-jackets/) into your backpack.
+Here is my [selection](#weight-comparison-table) of the best rain pants for 2017 - 2018. Planning to go hiking, backpacking or any other backcountry adventure? Then you should consider packing lightweight rain pants and a [rain jacket](http://www.hikeventures.com/best-rain-jackets/) into your backpack.
 
 Rain pants can be designed for particular activities like cycling, climbing or hiking and backpacking.
 
@@ -27,7 +27,7 @@ It's also a good idea to buy rain pants with side zippers as you can easily pull
 <br>
 <!--more-->
 
-## The best rain pants of 2017
+## Weight comparison table
 
 <div class="table-responsive">
       <table class="table table-hover table-bordered list_items">
@@ -43,12 +43,6 @@ It's also a good idea to buy rain pants with side zippers as you can easily pull
           <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F895247%2Foutdoor-research-helium-rain-pants-mens" target="_blank" rel="nofollow">Outdoor Research Helium Pants</a></td><td>5.6 oz. / 160 grams</td>
         </tr>
 
-
-
-
-
-
-
         <tr>
           <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmountain-hardwear-plasmic-pant-mens" target="_blank" rel="nofollow">Mountain Hardwear Plasmic Pants</a></td><td>7.2 oz. / 204 grams</td>
         </tr>
@@ -56,7 +50,7 @@ It's also a good idea to buy rain pants with side zippers as you can easily pull
 
 
         <tr>
-          <td><a href="http://amzn.to/2e9UXy5" target="_blank" rel="nofollow">Rab Fuse Pants</a></td><td>205 grams / 7.2 oz.</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F858347%2Fmarmot-minimalist-pants-mens" target="_blank" rel="nofollow">Marmot Minimalist Rain Pants</a></td><td>10.3 oz. / 292 grams</td>
         </tr>
 
 
@@ -223,17 +217,20 @@ The Rab Firewall pants come with an elasticated waistband and knee articulations
 
 ---
 
-## Rab Fuse Pants
+## Marmot Minimalist Rain Pants
 
-<a rel="nofollow" href="https://www.amazon.com/gp/product/B00UMIW9JU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UMIW9JU&linkCode=as2&tag=hikeve-20&linkId=055e9dee0e87b8f31ff80a02c6308d6c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00UMIW9JU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00UMIW9JU" width="1" height="1" border="0" alt="Rab Fuse Pants" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B002NGDDTE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002NGDDTE&linkCode=as2&tag=hikeve-20&linkId=4501041cfe69f4c9319560fb681442c3"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B002NGDDTE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B002NGDDTE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 7.2 oz. / 205 grams<br>
-**Fabric**: Pertex Shield 2.5 Layer
+**Weight**: 10.3 oz. / 292 grams<br>
+**Fabric**: GORE-TEX Paclite
 
-The Rab Fuse Pants are the lightest waterproof pants from Rab. They also feature knee articulation.
+The Marmot Minimalist Pants are lightweight, wind- and waterproof rain pants made of GORE-TEX Paclite.
 
-<a href="http://amzn.to/2rYC2uS" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+These pants are suitable for hiking, travel, snowshoeing and other activities as they pack small.
 
+They come with an elastic waist, zip fly, articulated knees, ankle zips and hand pockets.
+
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F858347%2Fmarmot-minimalist-pants-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Marmot Minimalist Rain Pants</a>
 ---
 
 ## FAQ on Rain Pants
