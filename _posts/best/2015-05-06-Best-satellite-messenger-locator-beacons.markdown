@@ -75,7 +75,7 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 * Preloaded DeLorme TOPO maps with onscreen GPS routing plus
 * 2GB storage for maps
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F880675%2Fmountain-hardwear-ghost-whisperer-hooded-down-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Garmin InReach Explorer+</a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F119863%2Fgarmin-inreach-explorer-satellite-communicator" rel="nofollow" class="btn btn-danger" role="button">See the Garmin InReach Explorer+</a>
 
 <hr>
 
