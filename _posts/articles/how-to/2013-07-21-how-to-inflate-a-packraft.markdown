@@ -14,11 +14,6 @@ As I recently bought a new Alpacka packraft, learning how to Packraft is now ess
 <amp-img src="https://farm9.staticflickr.com/8277/8714403482_520cf243ab_b.jpg" width="1024" height="683" layout="responsive" alt="Learning Packrafting"></amp-img>
 <br>
 <!--more-->
-
-|   test   |  test   |
-|:--------:|:-------:|
-| sfsdfsdf | sfsdfsd |
-
 <a href="https://www.flickr.com/photos/90204224@N07/8714403426"><img src="https://farm9.staticflickr.com/8552/8714403426_98e19fe539_b.jpg" width="1024" height="441" alt="how to packraft"></a>
 
 <a href="https://www.flickr.com/photos/90204224@N07/8713281179"><img src="https://farm9.staticflickr.com/8272/8713281179_b398dfd180_b.jpg" width="1009" height="559" alt="Studying Packrafting Finland alpacka raft"></a>
@@ -30,6 +25,12 @@ The water at this point of the year is still freezing cold. Wearing a pair of so
 View from the cockpit. In the front there is enough space for a backpack. Still need to get a dry bag though...
 
 ## Packraft and Backpacks
+
+| sfsd  |  sfs | sfsd  |
+|---|---|---|
+|  sf |  sfs |sfs  |
+|   sf| sf  |  sfd |
+
 I also do like Packrafting because you can easily pack your Packraft into a backpack. It folds small and is not heavy.
 
 ## Gear for Packrafting
