@@ -145,8 +145,7 @@ If you are tall, then a longer tent would be a better option. The issue with sho
 
 <a href="http://www.amazon.com/gp/product/B00UZ8ZNDQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00UZ8ZNDQ&linkCode=as2&tag=hikeve-20&linkId=XBQVK7AJ3UD7ESR7" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00UZ8ZNDQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00UZ8ZNDQ" width="1" height="1" border="0" alt="Hilleberg Enan" style="border:none !important; margin:0px !important;" />
 
-
-**Height**: 37.4 inches / 95 cm<br><br>
+**Height**: 37.4 inches / 95 cm<br>
 **Weight**: 2 lbs. 6 oz. / 1.1 kg<br>
 **Floor Area**: 18.2 ft² / 1.7 m²<br>
 **Vestibule Area**: 8.6 ft² / 0.8 m²<br>
