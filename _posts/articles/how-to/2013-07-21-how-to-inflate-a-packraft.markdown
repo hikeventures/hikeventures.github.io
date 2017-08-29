@@ -19,8 +19,6 @@ As I recently bought a new Alpacka packraft, learning how to Packraft is now ess
 |:--------:|:-------:|
 | sfsdfsdf | sfsdfsd |
 
-
-
 <a href="https://www.flickr.com/photos/90204224@N07/8714403426"><img src="https://farm9.staticflickr.com/8552/8714403426_98e19fe539_b.jpg" width="1024" height="441" alt="how to packraft"></a>
 
 <a href="https://www.flickr.com/photos/90204224@N07/8713281179"><img src="https://farm9.staticflickr.com/8272/8713281179_b398dfd180_b.jpg" width="1009" height="559" alt="Studying Packrafting Finland alpacka raft"></a>
