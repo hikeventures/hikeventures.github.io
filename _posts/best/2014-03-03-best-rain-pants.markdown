@@ -49,22 +49,22 @@ It's also a good idea to buy rain pants with side zippers as you can easily pull
 
 
 
-        <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F858347%2Fmarmot-minimalist-pants-mens" target="_blank" rel="nofollow">Marmot Minimalist Rain Pants</a></td><td>10.3 oz. / 292 grams</td>
-        </tr>
-
-
-
 
         <tr>
           <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fhagl%C3%B6fs-l.i.m.-iii-pant-mens" target="_blank" rel="nofollow">Haglöfs L.I.M. III Pants</a></td><td>7.9 oz. / 225 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F112414%2Fthe-north-face-venture-2-half-zip-pants-mens" target="_blank" rel="nofollow">The North Face
-Venture 2 Half-Zip Pants</a></td><td>8.1 oz. / 230 grams </td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F112414%2Fthe-north-face-venture-2-half-zip-pants-mens" target="_blank" rel="nofollow">The North Face Venture 2 Half-Zip Pants</a></td><td>8.1 oz. / 230 grams </td>
         </tr>
         <tr>
           <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F865001%2Farcteryx-beta-sl-pants-mens" target="_blank" rel="nofollow">Arcteryx Beta SL Pants</a></td><td>9.2 oz. / 260 grams</td>
+        </tr>
+        <tr>
+                  <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F880688%2Fmountain-hardwear-stretch-ozonic-rain-pants-mens-32-inseam" target="_blank" rel="nofollow">Mountain Hardwear
+        Stretch Ozonic Rain Pants</a></td><td>10 oz. / 284 grams</td>
+                </tr>
+        <tr>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F858347%2Fmarmot-minimalist-pants-mens" target="_blank" rel="nofollow">Marmot Minimalist Rain Pants</a></td><td>10.3 oz. / 292 grams</td>
         </tr>
         <tr>
           <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-firewall-pant-mens" target="_blank" rel="nofollow">Rab Firewall Pants</a></td><td>11.3 oz. / 319 grams</td>
@@ -73,9 +73,7 @@ Venture 2 Half-Zip Pants</a></td><td>8.1 oz. / 230 grams </td>
         <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F863401%2Fmarmot-precip-full-zip-rain-pants-mens" target="_blank" rel="nofollow">Marmot PreCip Rain Pant</a></td><td>12 oz. / 340 grams</td>
       </tr>
 
-        <tr>
-          <td><a href="http://amzn.to/2teq8us" target="_blank" rel="nofollow">Berghaus Deluge Pants</a></td><td>390 grams / 13.8 oz.</td>
-        </tr>
+
 
 
 
@@ -98,18 +96,21 @@ This model is reinforced in major wear areas, has articulated knees but only com
 
 ---
 
-## Berghaus Deluge Pants
+## Mountain Hardwear Stretch Ozonic Rain Pants
 
-<a rel="nofollow" href="https://www.amazon.com/Berghaus-Deluge-Pants-Black-Medium/dp/B000PCVE30/ref=as_li_ss_il?ie=UTF8&qid=1500448739&sr=8-1&keywords=MEN'S+DELUGE+WATERPROOF+PANT&linkCode=li3&tag=hikeve-20&linkId=4f25592bc41ae67e1c3e17e4b71cba67" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000PCVE30&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B000PCVE30" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00LOWP0FI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LOWP0FI&linkCode=as2&tag=hikeve-20&linkId=8a822049e0cb2a3bd90ee8eee79fc650"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00LOWP0FI&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00LOWP0FI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 13.8 oz. / 390 grams<br>
-**Fabric**: Berghaus Hydroshell fabric
+**Weight**: 10 oz. / 284 grams<br>
+**Fabric**: Dry.Q™ Active 2.5-layer
 
-The Berghaus Deluge Pants comes with 3/4 length side zips and venting on the upper leg.
+Mountain Hardwear Stretch Ozonic rain pants are wind- and waterproof.
 
-They also have an elasticated waist with side waist adjustment.
+They are made of 4-way stretch fabric and comfortable to wear on different outdoor activities like backpacking or hiking.
 
-<a href="http://amzn.to/2teq8us" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+They offer full-length zippers with two security closures and an integrated webbed belt. Further, they also come with enhanced knee articulation and loops at cuffs to fasten to your boots.
+
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F880688%2Fmountain-hardwear-stretch-ozonic-rain-pants-mens-32-inseam" rel="nofollow" class="btn btn-danger" role="button">See the Men's Mountain Hardwear Stretch Ozonic</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F110848%2Fmountain-hardwear-stretch-ozonic-pants-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Mountain Hardwear Stretch Ozonic</a>
+
 
 ---
 
@@ -182,9 +183,6 @@ The pants are coming with an elastic waist with drawcord, secure-zip hand pocket
 ---
 
 
-
-
-
 ## Mountain Hardwear Plasmic Pant
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B0089PN410/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0089PN410&linkCode=as2&tag=hikeve-20&linkId=SCOBGEQN4LMQSIUF"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0089PN410&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0089PN410" width="1" height="1" border="0" alt="Mountain Hardwear Plasmic Pant" style="border:none !important; margin:0px !important;" />
@@ -230,7 +228,9 @@ These pants are suitable for hiking, travel, snowshoeing and other activities as
 
 They come with an elastic waist, zip fly, articulated knees, ankle zips and hand pockets.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F858347%2Fmarmot-minimalist-pants-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Marmot Minimalist Rain Pants</a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F858347%2Fmarmot-minimalist-pants-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Marmot Minimalist Rain Pants</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F862367%2Fmarmot-minimalist-rain-pants-womens
+" rel="nofollow" class="btn btn-danger" role="button">See the Women's Marmot Minimalist Rain Pants</a>
+
 ---
 
 ## FAQ on Rain Pants
