@@ -294,6 +294,7 @@ Just attach the extension cable between your battery and the headlamp, and you a
 ## FAQ on headlamps
 * [What is the red light on a headlamp?](#what-is-the-red-light-on-a-headlamp)
 * [What is the green light on a headlamp?](#what-is-the-green-light-on-a-headlamp)
+* [Rechargeable Lithium-ion or alkalines batteries](#rechargeable-lithium-ion-or-alkalines-batteries)
 
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 
@@ -308,5 +309,12 @@ Red light won't fatigue your eyes that much than regular white light. It's also 
 Nocturnal animals might notice green light less during the night. For example, it might attract fewer bugs when you hang around in camp.
 
 The green light is also less harsh on your eyes than red or white. However, you may lose some color information.
+
+---
+
+### Rechargeable Lithium-ion or alkalines batteries
+New headlamp models also offer you the possibility to recharge their lithium-ion batteries through its USB socket.
+
+The difference between alkalines and lithium-ion is that you can operate the headlamp with fully charged alkalines longer than with a fully charged lithium-ion headlamp.
 
 <a href="#weight-comparison-table" rel="nofollow" class="btn btn-danger" role="button">Back to the top</a>
