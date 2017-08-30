@@ -303,6 +303,8 @@ Red light keeps your eyes adjusted to the dark. You can also find red lights for
 
 Red light won't fatigue your eyes that much than regular white light. It's also won't disturb others when you are on a camping site.
 
+---
+
 ### What is the green light on headlamps?
 
 Nocturnal animals might notice green light less during the night. For example, it might attract fewer bugs when you hang around in camp.
