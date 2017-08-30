@@ -27,10 +27,6 @@ On [our winter camping trip](http://www.hikeventures.com/winter-camping-alta/) i
 <br>
 <!--more-->
 
-| test | test |
-|:--------:|:-------:|
-| sfsdfsdf | sfsdfsd |
-
 ## Weight comparison table
 
 <div class="table-responsive">
