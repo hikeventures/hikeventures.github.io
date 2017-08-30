@@ -24,6 +24,10 @@ However, if you are looking for a smaller headlamp which is also waterproof, the
 <br>
 <!--more-->
 
+| test | test |
+|:--------:|:-------:|
+| sfsdfsdf | sfsdfsd |
+
 ## Weight comparison table
 
 <div class="table-responsive">
