@@ -20,10 +20,10 @@ The Petzl NAO+, for example, has plenty of features and you can also connect the
 
 However, if you are looking for a smaller headlamp which is also waterproof, then I would rather pick the <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F890322%2Fblack-diamond-spot-headlamp-2016" rel="nofollow">Black Diamond Spot</a> which features red light and 200 Lumen - sufficient for hiking even in the Alps.
 
+Also, have a look at our [FAQ on headlamps](#faq-on-headlamps).
+
 <amp-img src="https://farm1.staticflickr.com/511/31954090570_a1c906a654_k.jpg" width="2048" height="1152" alt="Best headlamps 2017 - 2018 hiking backpacking camping" layout="responsive"></amp-img>
 On [our winter camping trip](http://www.hikeventures.com/winter-camping-alta/) in Alta - Norway
-
-
 <br>
 <!--more-->
 
@@ -290,14 +290,12 @@ In cold conditions, you can extend the battery life of your Petzl NAO by wearing
 Just attach the extension cable between your battery and the headlamp, and you are ready to go.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F102814%2Farcteryx-ceres-sv-down-parka-mens" rel="nofollow" class="btn btn-danger" role="button">See thePetzl Extension Cable for NAO</a>
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-
-<a href="#weight-comparison-table" rel="nofollow" class="btn btn-danger" role="button">Back to the top</a>
 
 ## FAQ on headlamps
-### What is the red light on headlamps?
-### What is the green light on headlamps?
+* [What is the red light on headlamps?](#what-is-the-red-light-on-headlamps)
+* [What is the green light on headlamps?](#what-is- the-green-light-on-headlamps)
+
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 
 ### What is the red light on headlamps?
 
@@ -310,3 +308,5 @@ Red light won't fatigue your eyes that much than regular white light. It's also 
 Nocturnal animals might notice green light less during the night. For example, it might attract fewer bugs when you hang around in camp.
 
 The green light is also less harsh on your eyes than red or white. However, you may lose some color information.
+
+<a href="#weight-comparison-table" rel="nofollow" class="btn btn-danger" role="button">Back to the top</a>
