@@ -279,17 +279,19 @@ If you plan to go on a longer trip, then it might be a good idea to charge your 
 
 Just make sure that you can recharge the battery of your headlamp with a USB cable. The Power Bank is IP67 Waterproof and has a capacity of 20000 mAh.
 
+<a href="http://amzn.to/2xO4vTP" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 <hr>
 
-## Petzl Extension Cable for NAO
+## Petzl Extension Cable for NAO+
 
 <a href="https://www.amazon.com/gp/product/B007K03PLY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007K03PLY&linkCode=as2&tag=hikeve-20&linkId=2887c84eaa99f85590d37548953ce119" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B007K03PLY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B007K03PLY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-In cold conditions, you can extend the battery life of your Petzl NAO by wearing the battery next to your body.
+In cold conditions, you can extend the battery life of your Petzl NAO+ by wearing the battery next to your body.
 
 Just attach the extension cable between your battery and the headlamp, and you are ready to go.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F102814%2Farcteryx-ceres-sv-down-parka-mens" rel="nofollow" class="btn btn-danger" role="button">See thePetzl Extension Cable for NAO</a>
+<a href="http://amzn.to/2vL2Som" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ## FAQ on headlamps
 * [What is the red light on a headlamp?](#what-is-the-red-light-on-a-headlamp)
