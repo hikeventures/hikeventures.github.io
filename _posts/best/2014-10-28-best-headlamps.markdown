@@ -293,7 +293,7 @@ Just attach the extension cable between your battery and the headlamp, and you a
 
 ## FAQ on headlamps
 * [What is the red light on headlamps?](#what-is-the-red-light-on-headlamps)
-* [What is the green light on headlamps?](#what-is- the-green-light-on-headlamps)
+* [What is the green light on headlamps?](#what-is-the-green-light-on-headlamps)
 
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 
