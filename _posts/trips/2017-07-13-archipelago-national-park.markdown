@@ -12,9 +12,10 @@ tags:
 layout: post
 image: https://farm5.staticflickr.com/4229/35871086005_c61f3867b2_k.jpg
 ---
-The last 3 days I have been on a bicylce trip together with [Caj](https://www.hutkai.fi) in the Archipelago National Park. This year we decided to travel along a new route which might probably replace the old route which [I have traveled](http://www.hikeventures.com/archipelago-trail/) last year with my bicycle.
 
-There were two major differences - namely there were more services on the way but it was also more expensive to travel the new route.
+The last three days I have been on a bicycle trip together with [Caj](https://www.hutkai.fi) in the Archipelago National Park. This year we decided to travel along a new route which might probably replace the old route which [I traveled](http://www.hikeventures.com/archipelago-trail/) last year with my bicycle.
+
+There were two major differences - namely, there were more services on the way, but it was also more expensive to travel the new route.
 
 The new route goes from Turku to Pensar, Korpoström, Aspö, [Örö](http://www.hikeventures.com/Oro/) (which I also visited last year with my packraft) and then back to Kasnäs where you can either take the bus (around 20 EUR) or cycle back to Turku (around 90 km).
 
@@ -25,27 +26,32 @@ The new route goes from Turku to Pensar, Korpoström, Aspö, [Örö](http://ww
 
 ## Turku to Pensar
 
-After I picked up Caj we cycled along the Archipelago route from Turku to Granvik where we were supposed to take our first ferry to the Pensar island,
+After I picked up Caj, we cycled along the Archipelago route from Turku to Granvik where we were supposed to take our first ferry to the Pensar island.
 
 <amp-img src="https://farm5.staticflickr.com/4235/35701907102_ededc5ef46_k.jpg" width="2048" height="1368" alt="Cycling Archipelago National Park" layout="responsive"></amp-img>
 
-On the way to Granvik we stopped at the Resturant Sattmark in Prainen where we had a fantastic lunch - Caj ordered ribs and a beer and I (Patrick) had a goat cheese salad. There was also a café, gift shop, and a guest pier at this location. However, since we had only 1 hour time we decided to focus more on our lunch.
+On the way to Granvik, we stopped at the Resturant Sattmark in Prainen where we had a fantastic lunch - Caj ordered ribs and beer, and I (Patrick) had a goat cheese salad.
+
+There was also a café, gift shop, and a guest pier at this location. However, since we had only 1 hour time we decided to focus more on our lunch.
 
 <amp-img src="https://farm5.staticflickr.com/4293/35701906842_de0b0eb6ac_k.jpg" width="2048" height="1368" alt="Archipelago National Park - Sattmark Parainen" layout="responsive"></amp-img>
 
-From Sattmark it was just another 8 km trip to the harbor in Granvik where the ferry transported us free of charge to Pensar. The ferry stopped on several other places on islands during the trip where people left and entered the ferry m/s Viken. There was no possibility to buy coffee, tea or any refreshments on board but the ferry was also rather small.
+From Sattmark it was just another 8 km trip to the harbor in Granvik where the ferry transported us free of charge to Pensar.
+
+The ferry stopped at several other places on islands during the trip where people left and entered the ferry m/s Viken. There was no possibility to buy coffee, tea or any refreshments on board but the ferry was also rather small.
 
 <amp-img src="https://farm5.staticflickr.com/4229/35894867095_ba3b2dfe21_o.jpg" width="2048" height="1387" alt="Granvik - Pensar Ferry - m/s Viken - Archipelago National Park" layout="responsive"></amp-img>
 
-Sailing was definitely a popular activity at that day as the sea was quite crowded with sailing boats.
+Sailing was a popular activity at that day as the sea was quite crowded with sailing boats.
 
 <amp-img src="https://farm5.staticflickr.com/4278/35739473231_6ea13b1564_k.jpg" width="2048" height="1368" alt="Granvik - Pensar m/s viken sailing boats" layout="responsive"></amp-img>
 
-Once we reached Pensar we cycled along an unpaved road until we reached Pensar Syd where we stayed over night.
+Once we reached Pensar, we cycled along an unpaved road until we reached Pensar Syd where we stayed over night.
 
 <amp-img src="https://farm5.staticflickr.com/4235/35031686504_9d2cd5f654_k.jpg" width="2048" height="1368" alt="Cycling Pensar - Archipelago National Park" layout="responsive"></amp-img>
 
-The balcony in front of our house. This building was a gas station in former times.
+The balcony in front of our house ...
+This building was a gas station in former times.
 
 <amp-img src="https://farm5.staticflickr.com/4235/35701905862_090d1140cc_k.jpg" width="2048" height="1335" alt="Pensar Syd - Archipelago National Park" layout="responsive"></amp-img>
 
@@ -53,7 +59,9 @@ A house at Pensar Syd decorated with a fishing net.
 
 <amp-img src="https://farm5.staticflickr.com/4216/35701905452_53a365962d_k.jpg" width="2048" height="1368" alt="Pensar Syd - Fishing Net - Archipelago National Park" layout="responsive"></amp-img>
 
-A place to rest and sit in front of the museum. In the background are the steps up to the monument. The area was also used by the Lotta organization (a civil guard for women) during the second world war. I have also visited the [Lotta museum](http://www.hikeventures.com/museums-in-tuusula/) in Järvenpää in the past.
+A place to rest and sit in front of the museum. In the background are the steps up to the monument. The area was also used by the Lotta organization (a civil guard for women) during the second world war.
+
+I have also visited the [Lotta museum](http://www.hikeventures.com/museums-in-tuusula/) in Järvenpää in the past.
 
 <amp-img src="https://farm5.staticflickr.com/4262/35031684454_8dd09d1c54_k.jpg" width="2048" height="1368" alt="Pensar Syd - Archipelago National Park" layout="responsive"></amp-img>
 
