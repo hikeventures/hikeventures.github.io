@@ -9,6 +9,10 @@ footer: false
 published: true
 ---
 
+| test | test |
+|:--------:|:-------:|
+| testtest | testtest |
+
 <div class="my-fluid-container">
 	<div class="row">
 		<div class="col-lg-12">
