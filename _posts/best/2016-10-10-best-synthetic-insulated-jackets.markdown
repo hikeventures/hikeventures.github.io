@@ -11,15 +11,15 @@ tags:
   - jackets
 layout: post
 ---
-Here is my [selection](#the-best-synthetic-insulated-jackets-of-2017) of the best synthetic insulated jackets for 2017 which I would consider to buy for my next winter or hiking trip.
+Here is my [selection](#the-best-synthetic-insulated-jackets-of-2017) of the best synthetic insulated jackets for 2017 which I would consider buying for my next winter or hiking trip.
 
 Wearing a synthetic insulated jacket over a [down jacket](http://www.hikeventures.com/best-down-jackets/) can have several reasons.
 
-Either you are just looking for an alternative to down because of ethical reasons or you are planning to wear your jacket in a damp or humid environment where down may loose its insulation capabilities when it gets wet.
+Either you are just looking for an alternative to down because of ethical reasons or you are planning to wear your jacket in a damp or humid environment where down may lose its insulation capabilities when it gets wet.
 
 <amp-img src="https://c1.staticflickr.com/6/5558/31803741256_3d7a100029_o.jpg" width="1000"  height="664" alt="Best Synthetic Insulated Jackets 2017" layout="responsive"></amp-img>
 
-On our snowshoeing trip in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/) we could choose between wearing a synthetic or down jacket due to the low humidity.
+On our snowshoeing trip in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/), we could choose between wearing a synthetic or down jacket due to the low humidity.
 <br>
 <!--more-->
 
@@ -87,7 +87,7 @@ On our snowshoeing trip in [Finnish Lapland](http://www.hikeventures.com/snowsho
 
 The Arc'teryx Cerium LT Hoody is not a pure synthetic insulated jacket and replaces the synthetic insulation with 850 goose down on areas where moisture may build up.
 
-With 295 grams it's the lightest jacket in our list. This jacket is useful for active people but you may rather pick a different jacket if you are planning to visit a very wet or humid place.
+With 295 grams it's the lightest jacket in our list. This jacket is useful for active people, but you may rather pick a different jacket if you are planning to visit a very wet or humid place.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F117169%2Farcteryx-cerium-lt-down-hoodie-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arc'teryx Cerium LT Hoody</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F117255%2Farcteryx-cerium-lt-down-hoodie-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Arc'teryx Cerium LT Hoody</a>
 
@@ -113,7 +113,7 @@ This jacket is the warmest synthetic insulated all-mountain jacket in Arc'teryx 
 
 **Weight**: 16.5 oz. / 460 grams
 
-The Arc'teryx Nuclei AR Jacket is a good choice for alpine climbers and is filled with Coreloft 100 insulation with a fully seam taped GORE® THERMIUM™ shell which is water resistant and windproof but also very breathable.
+The Arc'teryx Nuclei AR Jacket is a good choice for alpine climbers and is filled with Coreloft 100 insulation with a full seam taped GORE® THERMIUM™ shell which is water resistant and windproof but also very breathable.
 
 The jacket is designed with an articulated patterning which increases ergonomic freedom.
 
@@ -131,7 +131,7 @@ Weight: 15 oz. / 425 grams
 
 The Arc'teryx Proton AR Hoody is the warmest jacket in the Proton Series and is balancing warmth and airflow.
 
-You can wear the jacket either as a softshell or as a mid-layer under a waterproof shell.
+You can wear the jacket either as a soft shell or as a mid-layer under a waterproof shell.
 
 The jacket has a trim fit design and an insulated adjustable hood which is helmet compatible.
 
@@ -183,9 +183,9 @@ It also comes with an insulated hood with wired visor. The Mountain Equipment Fi
 
 **Weight**: 13.4 oz. / 379 grams
 
-The Outdoor Research Cathode Hooded Jacket comes with an insulated hood and is filled with Primaloft Gold. The Cathode Hooded Jacket has Schoeller® underarm side panels that can breath and stretch.
+The Outdoor Research Cathode Hooded Jacket comes with an insulated hood and is filled with Primaloft Gold. The Cathode Hooded Jacket has Schoeller® underarm side panels that can breathe and stretch.
 
-The jacket is a good choice for cold and wet alpine environments and for those looking for a lightweight and breathable solution.
+The jacket is an excellent choice for cold and wet alpine environments and those looking for a lightweight and breathable solution.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F101703%2Foutdoor-research-cathode-hooded-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Outdoor Research Cathode</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F113291%2Foutdoor-research-cathode-hooded-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Outdoor Research Cathode</a>
 
@@ -197,7 +197,7 @@ The jacket is a good choice for cold and wet alpine environments and for those l
 
 **Weight**: 19.9 oz. / 563 grams
 
-The Outdoor Research Uberlayer Jacket is made of Polartec Alpha and is a great choice for ski tours or climbing. It offers breathability and dries quickly.
+The Outdoor Research Uberlayer Jacket is made of Polartec Alpha and is an excellent choice for ski tours or climbing. It offers breathability and dries quickly.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Foutdoor-research-uberlayer-insulated-hooded-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See Men's the Outdoor Research Uberlayer Hooded Jacket</a>
 
@@ -252,8 +252,10 @@ Konstantin interviewing the North Face at the ISPO 2016 about their product high
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wyDGxoLAQ6w"></iframe>
 </div>
+<br>
+Hi, this is Konstantin, and I've got Michael, the product director from The North Face.
 
-Hi, this is Konstantin, and I've got Michael, the product director from The North Face. Hi, Michael. What are the two, three highlights of the season?
+Hi, Michael. What are the two, three highlights of the season?
 
 So one of our key highlights is our Thermoball series here. Thermoball is our way to introduce an alternative to down.
 
