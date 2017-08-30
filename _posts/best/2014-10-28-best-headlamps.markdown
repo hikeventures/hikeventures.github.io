@@ -77,7 +77,7 @@ On [our winter camping trip](http://www.hikeventures.com/winter-camping-alta/) i
 
 <a href="http://www.amazon.com/gp/product/B005FNCPBE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005FNCPBE&linkCode=as2&tag=hikeve-20&linkId=WBUHJA3GU3TCBJXQ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005FNCPBE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B005FNCPBE" width="1" height="1" border="0" alt="Black Diamond Icon" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 230 grams / 0.5 lbs<br>
+**Weight**: 8.1 oz. / 230 grams<br>
 **Lumen**: 500<br>
 **Watertightness**: IP X7 (watertight)<br>
 **Max Beam Distance**: 110 meters
@@ -115,7 +115,7 @@ There is also a red night-vision mode available. The Black Diamond Spot needs 3 
 
 <a href="http://www.amazon.com/gp/product/B00H3MXOQU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00H3MXOQU&linkCode=as2&tag=hikeve-20&linkId=A2I5SXTJTBEA7KOK" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00H3MXOQU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00H3MXOQU" width="1" height="1" border="0" alt="Black Diamond Storm" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 110 grams / 0.24 lbs<br>
+**Weight**: 3.9 oz. / 110 grams<br>
 **Lumen**: 250<br>
 **Watertightness**: IP X67 <br>
 **Max Beam Distance**: 80 meters
@@ -153,7 +153,7 @@ The Petzl Actik requires 3 AAA batteries.
 
 ## Petzl Bindi
 
-**Weight**: 35 grams / 1.2 oz.<br>
+**Weight**: 1.2 oz. / 35 grams<br>
 **Lumen**: 200<br>
 **Watertightness**: IP X7 (watertight)<br>
 **Max Beam Distance**: 40 meters
