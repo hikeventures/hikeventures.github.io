@@ -12,25 +12,27 @@ layout: post
 image: https://farm5.staticflickr.com/4355/36502491085_e6f9daea01_k.jpg
 ---
 
-Our packrafting adventure in the Hemavan Tärnby area started where the Kungsleden ends or begins. We had planned 5 days of which we hiked 2 days and paddled 3 days. Some of the highlights during this trip were reindeers, eagles circling in the sky and a packraft which went down a waterfall.
+Our packrafting adventure in the Hemavan Tärnby area started where the Kungsleden ends or begins. We had planned five days of which we hiked two days and paddled three days.
+
+Some of the highlights of this trip were reindeer, eagles circling in the sky and a packraft which went down a waterfall.
 
 <amp-img src="https://farm5.staticflickr.com/4355/36502491085_e6f9daea01_k.jpg" width="2048" height="1365" alt="Hiking and Packrafting Hemavan Tärnaby" layout="responsive"></amp-img>
 <br>
 <!--more-->
 
-After passing Hemavan with our car along the Blå vägen we had a short stop on a waterfall where Jeremie was planning to raft down on the last day.
+After passing Hemavan with our car along the Blå vägen, we had a short stop on a waterfall where Jeremie was planning to raft down on the last day.
 
-Once we reached our starting point we parked our cars, packed our gear and started our hike.
+Once we reached our starting point, we parked our cars, packed our gear and started our hike.
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/gz9k7PcFn_o"></iframe>
 </div>
 
-More precisely, our trip started in the Vindelfjällens Naturreservat where over 8000 years old artefacts have been found. It is one of Europe’s largest protected areas.
+More precisely, our trip started in the Vindelfjällens Naturreservat where over 8000 years old artifacts have been found. It is one of Europe’s largest protected areas.
 
 <amp-img src="https://farm5.staticflickr.com/4390/35693694253_9c7839d6c7_k.jpg" width="2048" height="1365" alt="Vindelfjällens Naturreservat hiking" layout="responsive"></amp-img>
 
-After we have hiked for 3 kilometers we had our first break where we had the chance to get aquaited to live with mosquitoes.
+After we have hiked for 3 kilometers, we had our first break where we had the chance to get acquainted with to live with mosquitoes.
 
 <amp-img src="https://farm5.staticflickr.com/4402/35693686643_6361a087ec_k.jpg" width="2048" height="1119" alt="Hiking and Vindelfjällens hiking break" layout="responsive"></amp-img>
 
@@ -50,7 +52,7 @@ From our first camp site we enjoyed a gret view towards the fjälls and as it wa
 
 <amp-img src="https://farm5.staticflickr.com/4394/35667610054_5cc6fada94_k.jpg" width="2048" height="858" alt="Camp Hiking Hemavan Tärnaby" layout="responsive"></amp-img>
 
-Since I recently got my Hilleberg Unna Inner Mesh Tent I was also able to enjoy the scenery from my big panorama window on my tent without getting bitten by the mosquitoes.
+Since I recently got my Hilleberg Unna Inner Mesh Tent, I was also able to enjoy the scenery from my big panorama window on my tent without getting bitten by the mosquitoes.
 
 <amp-img src="https://farm5.staticflickr.com/4419/36502512145_1991b2ab30_k.jpg" width="2048" height="1365" alt="Hilleberg Unna Hemavan Tärnaby" layout="responsive"></amp-img>
 
