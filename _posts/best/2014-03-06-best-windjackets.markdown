@@ -21,6 +21,7 @@ I always combine a wind jacket with a [fleece jacket](http://www.hikeventures.co
 Also, have a look at our [FAQ on wind-jackets](#faq-on-wind-jackets).
 
 <amp-img src="https://c3.staticflickr.com/8/7385/9599027418_4123160df8_b.jpg" width="992" height="661" alt="best wind jackets for 2017 - 2018" layout="responsive"></amp-img>
+[Patrick](https://www.facebook.com/patrickdormischian) hiking in [Sarek National Park](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) in Sweden wearing a wind jacket.
 <br>
 <!--more-->
 
