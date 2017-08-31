@@ -200,7 +200,7 @@ There is also a reflective logo on the front and back so that you will get notic
 
 * [Are wind jackets waterproof?](#are-wind-jackets-waterproof)
 * [Should a wind jacket have a hoody?](#should-a-wind-jacket-have-a-hoodie)
-* [Should I carry a wind- and a rain jacket?](#should-I-carry-a-wind-and-a-rain-jacket)
+* [Should I carry a wind- and a rain jacket?](#should-i-carry-a-wind-and-a-rain-jacket)
 * [What are wind jackets made of?](#what-are-wind-jackets-made-of)
 * [How to layer with a windjacket?](#how-to-layer-with-a-wind-jacket)
 
