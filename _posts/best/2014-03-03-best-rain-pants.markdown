@@ -23,6 +23,8 @@ Personally, I prefer to take the lightest rain clothes with me during my summer 
 
 It's also a good idea to buy rain pants with side zippers as you can easily pull them on and off even if you are wearing [hiking shoes](http://www.hikeventures.com/best-light-hiking-shoes/).
 
+Also, have a look at our [FAQ on rain pants](#faq-on-rain-pants).
+
 <amp-img src="https://c2.staticflickr.com/8/7206/13685518345_b56a9a77d8_b.jpg" width="992" height="662" alt="Best Rain Pants 2017 - 2018" layout="responsive"></amp-img>
 <br>
 <!--more-->
