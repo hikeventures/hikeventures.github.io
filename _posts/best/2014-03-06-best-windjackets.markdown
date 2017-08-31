@@ -200,9 +200,9 @@ There is also a reflective logo on the front and back so that you will get notic
 
 * [Are wind jackets waterproof?](#are-wind-jackets-waterproof)
 * [Should a wind jacket have a hoody?](#should-a-wind-jacket-have-a-hoodie)
-* [Should I carry a wind- and a rain jacket?](#should-I-carry-a-wind--and-a-rain-jacket)
+* [Should I carry a wind- and a rain jacket?](#should-I-carry-a-wind-and-a-rain-jacket)
 * [What are wind jackets made of?](#what-are-wind-jackets-made-of)
-* [How to layer with a windjacket??](#how-to-layer-with-a-windjacket)
+* [How to layer with a windjacket?](#how-to-layer-with-a-wind-jacket)
 
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 
@@ -214,13 +214,13 @@ Moreover, a windproof jacket can also protect you from the sun and bugs.
 ### Should a wind jacket have a hoodie?
 I would recommend buying a wind jacket with a hood. You lose most of your body temperature on your head. You will feel warmer if you protect your head against cold winds.
 
-### Should I carry a wind- and a rain jacket?
+### Should I carry a wind and a rain jacket?
 Depending on the weather forecast I would wear a wind jacket if it's not raining and exchange it with a [rain jacket](http://www.hikeventures.com/best-rain-jackets/) if the weather turns bad. I wear rain clothes only when it is raining.
 
 ### What are wind jackets made of?
 Wind jackets are made of very light fabric, e.g., 15 or 20 denier nylon. They are not that durable as rain jackets, but they are excellent to wear in warm temperatures.
 
-### How to layer with a wind jacket
+### How to layer with a wind jacket?
 You can wear a long- or short sleeved [base layer](http://www.hikeventures.com/best-base-layers/) under your wind jacket (also read our article about the [Icebreaker Tech T shirt](http://www.hikeventures.com/Icebreaker-T-shirts/)). Still feeling cold? Add a [fleece jacket](http://www.hikeventures.com/best-fleece-jackets/) over your base layer and pull on the wind jacket over it.
 
 <a href="#weight-comparison-table" rel="nofollow" class="btn btn-danger" role="button">Back to the top</a>
