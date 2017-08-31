@@ -79,7 +79,7 @@ The Incendo Hoody is more a running jacket than a hiking jacket but could be an 
 
 ## Arct'eryx Nodin Jacket
 
-<a rel="nofollow" href="https://www.amazon.com/ArcTeryx-Nodin-Jacket-Nocturne-Large/dp/B01GFMSN46/ref=as_li_ss_il?ie=UTF8&qid=1500536985&sr=8-1&keywords=NODIN+JACKET&linkCode=li3&tag=hikeve-20&linkId=2ddcd97b8a22ddb01c14ca771671187d" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01GFMSN46&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B01GFMSN46" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="https://www.amazon.com/ArcTeryx-Nodin-Jacket-Nocturne-Large/dp/B01GFMSN46/ref=as_li_ss_il?ie=UTF8&qid=1500536985&sr=8-1&keywords=NODIN+JACKET&linkCode=li3&tag=hikeve-20&linkId=2ddcd97b8a22ddb01c14ca771671187d" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01GFMSN46&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B01GFMSN46" width="1" height="1" border="0" alt="Arct'eryx Nodin Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 5.5 oz. / 155 grams
 **Fabric**: Tyono 20 denier
@@ -115,7 +115,7 @@ You can wear the jacket either for warm or cold weather activities to protect yo
 
 ## Fjallraven High Coast Wind Jacket
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00SYIV3I8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SYIV3I8&linkCode=as2&tag=hikeve-20&linkId=15347512fc0d858c8b958883d834a826"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00SYIV3I8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00SYIV3I8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00SYIV3I8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SYIV3I8&linkCode=as2&tag=hikeve-20&linkId=88d4ae5ffb132dd2760910e34c43f382"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00SYIV3I8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00SYIV3I8" width="1" height="1" border="0" alt="jallraven High Coast Wind Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 11.28 oz. / 319 grams
 **Fabric**: HC-Lite
@@ -134,7 +134,7 @@ The jacket comes with an adjustable hem and hood, zippered hand and chest pocket
 
 ## Marmot Ether DriClime Hoody
 
-<a  href="http://www.amazon.com/gp/product/B015940COK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B015940COK&linkCode=as2&tag=hikeve-20&linkId=BJU5MZ2MPTNXIRPE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B015940COK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B015940COK" width="1" height="1" border="0" alt="The North Face Fuseform Eragon" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B0116354LO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0116354LO&linkCode=as2&tag=hikeve-20&linkId=bf4322dd05be104b3a0297bd3adb466c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0116354LO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0116354LO" width="1" height="1" border="0" alt="Marmot Ether DriClime Hoody" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 9.5 oz. / 122 grams
 **Fabric**: polyester, DWR coating
@@ -149,7 +149,7 @@ The breathable outer layer wind and water resistant and the attached roll-up hoo
 
 ## Marmot Trail Wind Jacket
 
-<a  href="http://www.amazon.com/gp/product/B015940COK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B015940COK&linkCode=as2&tag=hikeve-20&linkId=BJU5MZ2MPTNXIRPE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B015940COK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B015940COK" width="1" height="1" border="0" alt="The North Face Fuseform Eragon" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B011JJE8QM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B011JJE8QM&linkCode=as2&tag=hikeve-20&linkId=da463222b68a8abbc713accc33b3f796"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B011JJE8QM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B011JJE8QM" width="1" height="1" border="0" alt="Marmot Trail Wind Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 4.3 oz. / 122 grams
 **Fabric**: polyester, DWR coating
@@ -164,7 +164,7 @@ It is a great jacket if you go hiking, biking, camping or running.
 
 ## Outdoor Research Helium II Jacket
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/B01HV2PXDS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01HV2PXDS&linkCode=as2&tag=hikeve-20&linkId=4e298db4c0a42eb89b42e23bd7dc07e3"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01HV2PXDS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01HV2PXDS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.com/gp/product/B01HV2PXDS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01HV2PXDS&linkCode=as2&tag=hikeve-20&linkId=4e298db4c0a42eb89b42e23bd7dc07e3"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01HV2PXDS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01HV2PXDS" width="1" height="1" border="0" alt="Outdoor Research Helium II Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 6.4 oz. / 181 grams
 **Fabric**: Ultralight Pertex Shield
