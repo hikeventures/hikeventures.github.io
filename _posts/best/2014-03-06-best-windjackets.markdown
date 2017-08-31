@@ -170,3 +170,5 @@ Wind jackets are made of very light fabric, e.g., 15 or 20 denier nylon. They ar
 There is probably not much difference between the wind breakers in my buying guide about the best wind jackets and it’s more about your own preference towards color and brand.
 
 I am wearing the Arc’teryx Squamish Hoody since years and I am quite happy with it. Konstantin just recently got a Patagonia Houdini and is also very pleased with it.
+
+<a href="#weight-comparison-table" rel="nofollow" class="btn btn-danger" role="button">Back to the top</a>
