@@ -66,7 +66,7 @@ Also, have a look at our [FAQ on wind-jackets](#faq-on-wind-jackets).
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00GW7ZHG2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW7ZHG2&linkCode=as2&tag=hikeve-20&linkId=TRAIMP6VVV2WPE4A"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW7ZHG2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW7ZHG2" width="1" height="1" border="0" alt="Arcteryx Incendo Hoody" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 4.6 oz. / 130 grams
+**Weight**: 4.6 oz. / 130 grams<br>
 **Fabric**: Luminara—Stretch nylon ripstop
 
 The Arc’teryx Incendo Hoody has breathable mesh panels under the arms, a hood, and a full front zip. It also features an internal MP3 pocket with audio ports, a side stow pocket, and reflective blazes.
@@ -81,7 +81,7 @@ The Incendo Hoody is more a running jacket than a hiking jacket but could be an 
 
 <a rel="nofollow" href="https://www.amazon.com/ArcTeryx-Nodin-Jacket-Nocturne-Large/dp/B01GFMSN46/ref=as_li_ss_il?ie=UTF8&qid=1500536985&sr=8-1&keywords=NODIN+JACKET&linkCode=li3&tag=hikeve-20&linkId=2ddcd97b8a22ddb01c14ca771671187d" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01GFMSN46&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B01GFMSN46" width="1" height="1" border="0" alt="Arct'eryx Nodin Jacket" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 5.5 oz. / 155 grams
+**Weight**: 5.5 oz. / 155 grams<br>
 **Fabric**: Tyono 20 denier
 
 The Arc'teryx Nodin Jacket might be a perfect jacket if you are looking for a minimalistic jacket.
@@ -98,7 +98,7 @@ Further, the Nodin jacket is also highly compressible and fits into your pocket.
 
 <a rel="nofollow" href="http://www.amazon.com/gp/product/B00G9HPWU6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G9HPWU6&linkCode=as2&tag=hikeve-20&linkId=BWQUNX6BXF6UDSMC"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00G9HPWU6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00G9HPWU6" width="1" height="1" border="0" alt="Arcteryx Squamish Hoody" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 5.5 oz. / 155 grams
+**Weight**: 5.5 oz. / 155 grams<br>
 **Fabric**: Luminara—Stretch nylon ripstop
 
 The Arc'teryx Squamish Hoody is a wind resistant, super lightweight, durable and compressible hooded wind jacket for hiking or trekking in the wilderness or for climbing.
@@ -117,7 +117,7 @@ You can wear the jacket either for warm or cold weather activities to protect yo
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00SYIV3I8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SYIV3I8&linkCode=as2&tag=hikeve-20&linkId=88d4ae5ffb132dd2760910e34c43f382"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00SYIV3I8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00SYIV3I8" width="1" height="1" border="0" alt="jallraven High Coast Wind Jacket" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 11.28 oz. / 319 grams
+**Weight**: 11.28 oz. / 319 grams<br>
 **Fabric**: HC-Lite
 
 The Fjallraven High Coast Wind Jacket is made for hiking, biking, and paddling which easily stows away in your pack.
@@ -136,7 +136,7 @@ The jacket comes with an adjustable hem and hood, zippered hand and chest pocket
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B0116354LO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0116354LO&linkCode=as2&tag=hikeve-20&linkId=bf4322dd05be104b3a0297bd3adb466c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0116354LO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0116354LO" width="1" height="1" border="0" alt="Marmot Ether DriClime Hoody" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 9.5 oz. / 122 grams
+**Weight**: 9.5 oz. / 122 grams<br>
 **Fabric**: polyester, DWR coating
 
 The Marmot Ether Driclime Hooded Jacket comes with an inner layer which is soft to the skin and wicks moisture away.
@@ -151,7 +151,7 @@ The breathable outer layer wind and water resistant and the attached roll-up hoo
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B011JJE8QM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B011JJE8QM&linkCode=as2&tag=hikeve-20&linkId=da463222b68a8abbc713accc33b3f796"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B011JJE8QM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B011JJE8QM" width="1" height="1" border="0" alt="Marmot Trail Wind Jacket" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 4.3 oz. / 122 grams
+**Weight**: 4.3 oz. / 122 grams<br>
 **Fabric**: polyester, DWR coating
 
 The Marmot Trail Wind Jacket is a comfortable, lightweight and packable wind shell which adjusts to your movements come with a chest stow, is water repellent and protects against the sun.
@@ -166,7 +166,7 @@ It is a great jacket if you go hiking, biking, camping or running.
 
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01HV2PXDS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01HV2PXDS&linkCode=as2&tag=hikeve-20&linkId=4e298db4c0a42eb89b42e23bd7dc07e3"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01HV2PXDS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01HV2PXDS" width="1" height="1" border="0" alt="Outdoor Research Helium II Jacket" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 6.4 oz. / 181 grams
+**Weight**: 6.4 oz. / 181 grams<br>
 **Fabric**: Ultralight Pertex Shield
 
 The Outdoor Research Helium II Jacket has been built with weather-resistant Pertex Shield fabric and packs small into your pack.
@@ -183,7 +183,7 @@ The jacket is fully taped seams and comes with a single-pull hood drawcords and 
 
 <a  href="http://www.amazon.com/gp/product/B01ANCS38K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01ANCS38K&linkCode=as2&tag=hikeve-20&linkId=BOE3T2FI3DGVW7LR" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01ANCS38K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B01ANCS38K" width="1" height="1" border="0" alt="Patagonia Houdini" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 4 oz. / 113 grams
+**Weight**: 4 oz. / 113 grams<br>
 **Fabric**: 15-denier nylon ripstop
 
 The Patagonia Houdini is another great wind jacket which got recommended by many other outdoor enthusiasts.
