@@ -2,7 +2,7 @@
 title: Best Wind Jackets 2017 - 2018
 description: Top 5 windproof Jackets for 2017 for your next outdoor adventure!
 date: 2016-01-04 10:56:22
-update_date: 2016-12-27 06:00:52
+update_date: 2017-08-31 06:00:52
 category: articles
 image: https://c3.staticflickr.com/8/7385/9599027418_4123160df8_b.jpg
 tags:
@@ -36,22 +36,22 @@ Also, have a look at our [FAQ on wind-jackets](#faq-on-wind-jackets).
 
         <tbody>
         <tr>
-          <td><a href="http://amzn.to/2e32HhL" rel="nofollow" target="_blank">Patagonia Houdini</a></td><td>4 oz. / 113 grams</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F893303%2Fpatagonia-houdini-zip-front-jacket-mens" rel="nofollow" target="_blank">Patagonia Houdini</a></td><td>4 oz. / 113 grams</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2drJ00m" target="_blank" rel="nofollow">Arcteryx Incendo Hoody</a></td><td>4.6 oz. / 130 grams</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Arcteryx-Men-s-Incendo-Hoody_10329580_10208_10000001_-1_" target="_blank" rel="nofollow">Arcteryx Incendo Hoody</a></td><td>4.6 oz. / 130 grams</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2e9Y8pz" target="_blank" rel="nofollow">The North Face Fuseform Eragon</a></td><td>4.9 oz. / 140 grams</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmarmot-trail-wind-jacket-mens" target="_blank" rel="nofollow">Marmot Trail Wind Jacket</a></td><td>4.9 oz. / 140 grams</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2thGiU0" target="_blank" rel="nofollow">Arct'eryx Nodin Jacket</a></td><td>5.5 oz. / 155 grams</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Farcteryx-nodin-jacket-mens" target="_blank" rel="nofollow">Arct'eryx Nodin Jacket</a></td><td>5.5 oz. / 155 grams</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2elVY64" target="_blank" rel="nofollow">Arcteryx Squamish Hoody</a></td><td>5.5 oz. / 155 grams</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Farcteryx-squamish-hooded-jacket-mens" target="_blank" rel="nofollow">Arcteryx Squamish Hoody</a></td><td>5.5 oz. / 155 grams</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2uq2Ndd" target="_blank" rel="nofollow">Berghaus Ben OSS Windproof Hoodie</a></td><td>20.1 oz. / 571 grams</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmarmot-ether-driclime-jacket-mens" target="_blank" rel="nofollow">Marmot Ether DriClime Hooded Jacket</a></td><td>9.5 oz. / 122 grams</td>
         </tr>
         </tbody>
 </table>
@@ -64,11 +64,11 @@ Also, have a look at our [FAQ on wind-jackets](#faq-on-wind-jackets).
 **Weight**: 4.6 oz. / 130 grams
 **Fabric**: Luminara—Stretch nylon ripstop
 
-The Arc’teryx Incendo Hoody has breathable mesh panels under the arms, a hood and a full front zip. It also features an internal MP3 pocket with audio ports, a side stow pocket and reflective blazes.
+The Arc’teryx Incendo Hoody has breathable mesh panels under the arms, a hood, and a full front zip. It also features an internal MP3 pocket with audio ports, a side stow pocket, and reflective blazes.
 
 The Incendo Hoody is more a running jacket than a hiking jacket but could be an alternative to the Arc’teryx Squamish Hoody if you are an Arc’teryx fan and want to save a few grams.
 
-<a href="http://amzn.to/2drJ00m" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Arcteryx-Men-s-Incendo-Hoody_10329580_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arc'teryx Incendo Hoodie</a>
 
 ---
 
@@ -79,9 +79,13 @@ The Incendo Hoody is more a running jacket than a hiking jacket but could be an 
 **Weight**: 5.5 oz. / 155 grams
 **Fabric**: Tyono 20 denier
 
-The Arc'teryx Nodin Jacket might be a perfect jacket if you are looking ofr a minimalistic jacket. The Nodin jacket is not as durable than the Squamish Hoodie but offers plenty of features e.g. it comes with a full-coverage StowHood. Further, it's also highly compressible and fits into your pocket.
+The Arc'teryx Nodin Jacket might be a perfect jacket if you are looking for a minimalistic jacket.
 
-<a href="http://amzn.to/2thLAin" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+The Nodin jacket is not as durable than the Squamish Hoodie but offers plenty of features, e.g., it comes with a full-coverage StowHood.
+
+Further, the Nodin jacket is also highly compressible and fits into your pocket.
+
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Farcteryx-nodin-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arct'eryx Nodin Jacket</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Farcteryx-nodin-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Arct'eryx Nodin Jacket</a>
 
 ---
 
@@ -100,18 +104,58 @@ If features articulated elbows, gusseted underarms, soft hood brim, adjustable h
 
 You can wear the jacket either for warm or cold weather activities to protect you from chilly winds. Arc'teryx is known in its industry for its craftsmanship and design.
 
-<a href="http://amzn.to/2elVY64" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Farcteryx-squamish-hooded-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arc'teryx Squamish Hoody</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Farcteryx-squamish-hooded-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Arc'teryx Squamish Hoody</a>
 
-## Berghaus Ben OSS Windproof Hoodie
+---
 
-<a rel="nofollow" href="https://www.amazon.com/Berghaus-Fleece-Hooded-Jacket-Poseidon/dp/B01N7WNY4I/ref=as_li_ss_il?ie=UTF8&qid=1500273351&sr=8-30&keywords=berghaus&linkCode=li3&tag=hikeve-20&linkId=0db6066019ee59868c5cab8c5d5358ee" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N7WNY4I&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B01N7WNY4I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+## Fjallraven High Coast Wind Jacket
 
-**Weight**: 20.1 oz. / 571 grams
-**Fabric**: Gore-Tex Windstopper
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00SYIV3I8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SYIV3I8&linkCode=as2&tag=hikeve-20&linkId=15347512fc0d858c8b958883d834a826"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00SYIV3I8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00SYIV3I8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-The Ben Oss is made for those chilly days in the backcountry. It comes with an adjustable hem and adjustable cuffs. There is also room to store small items in the zipped pocket on the chest.
+**Weight**: 11.28 oz. / 319 grams
+**Fabric**: HC-Lite
 
-<a href="http://amzn.to/2uq2Ndd" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+The Fjallraven High Coast Wind Jacket is made for hiking, biking, and paddling which easily stows away in your pack.
+
+The jacket comes with a HC-Lite fabric which is durable and breathable.
+
+Apply Fjallraven wax on the jacket, and it will become resistant to water and the wind.
+
+The jacket comes with an adjustable hem and hood, zippered hand and chest pockets as well as elastic-edged cuffs.
+
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Ffjallraven-high-coast-wind-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Fjallraven High Coast Wind Jacket</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Ffjallraven-high-coast-wind-anorak-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Fjallraven High Coast Wind Jacket</a>
+
+---
+
+## Marmot Ether DriClime Hoody
+
+<a  href="http://www.amazon.com/gp/product/B015940COK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B015940COK&linkCode=as2&tag=hikeve-20&linkId=BJU5MZ2MPTNXIRPE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B015940COK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B015940COK" width="1" height="1" border="0" alt="The North Face Fuseform Eragon" style="border:none !important; margin:0px !important;" />
+
+**Weight**: 9.5 oz. / 122 grams
+**Fabric**: polyester, DWR coating
+
+The Marmot Ether Driclime Hooded Jacket comes with an inner layer which is soft to the skin and wicks moisture away.
+
+The breathable outer layer wind and water resistant and the attached roll-up hoodie add additional protection. There is also a hand and chest pocket on the jacket, elastic cuffs, and hem, and it packs into its hand pocket.
+
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmarmot-ether-driclime-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Marmot Ether DriClime Hoody Jacket</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmarmot-ether-driclime-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Marmot Ether DriClime Hoody</a>
+
+---
+
+## Marmot Trail Wind Jacket
+
+<a  href="http://www.amazon.com/gp/product/B015940COK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B015940COK&linkCode=as2&tag=hikeve-20&linkId=BJU5MZ2MPTNXIRPE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B015940COK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B015940COK" width="1" height="1" border="0" alt="The North Face Fuseform Eragon" style="border:none !important; margin:0px !important;" />
+
+**Weight**: 4.3 oz. / 122 grams
+**Fabric**: polyester, DWR coating
+
+The Marmot Trail Wind Jacket is a comfortable, lightweight and packable wind shell which adjusts to your movements come with a chest stow, is water repellent and protects against the sun.
+
+It is a great jacket if you go hiking, biking, camping or running.
+
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmarmot-trail-wind-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Marmot Trail Wind Jacket</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmarmot-trail-wind-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Marmot Trail Wind Jacket</a>
+
+---
 
 ## Patagonia Houdini
 
@@ -124,20 +168,9 @@ The Patagonia Houdini is another great wind jacket which got recommended by many
 
 The jacket comes with a zippered chest pocket and the hood is adjustable.
 
-There is also a reflective logo on the front and back which comes quite handy during night hikes.
+There is also a reflective logo on the front and back so that you will get noticed during the night as well.
 
-<a href="http://amzn.to/2e32HhL" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
-
-## The North Face Fuseform Eragon
-
-<a  href="http://www.amazon.com/gp/product/B015940COK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B015940COK&linkCode=as2&tag=hikeve-20&linkId=BJU5MZ2MPTNXIRPE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B015940COK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B015940COK" width="1" height="1" border="0" alt="The North Face Fuseform Eragon" style="border:none !important; margin:0px !important;" />
-
-**Weight**: 4.9 oz. / 140 grams
-**Fabric**: WindWall (100% nylon)
-
-The North Face Fuseform Eragon has fewer seams and a streamlined, Alpine-specific fit.
-
-<a href="http://amzn.to/2e9Y8pz" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F893303%2Fpatagonia-houdini-zip-front-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Patagonia Houdini</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F894342%2Fpatagonia-houdini-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Patagonia Houdini</a>
 
 ---
 
@@ -153,6 +186,8 @@ The North Face Fuseform Eragon has fewer seams and a streamlined, Alpine-specifi
 
 ### Are wind jackets waterproof?
 No, wind jackets are not waterproof. Their purpose is to protect against cold winds and compared to [rain jackets](http://www.hikeventures.com/best-rain-jackets/) they are very breathable, and you won't sweat that much in it either.
+
+Moreover, a windproof jacket can also protect you from the sun and bugs.
 
 ### Should a wind jacket have a hoodie?
 I would recommend buying a wind jacket with a hood. You lose most of your body temperature on your head. You will feel warmer if you protect your head against cold winds.
