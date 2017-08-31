@@ -201,7 +201,7 @@ There is also a reflective logo on the front and back so that you will get notic
 * [Should a wind jacket have a hoody?](#should-a-wind-jacket-have-a-hoodie)
 * [Should I carry a wind- and a rain jacket?](#should-I-carry-a-wind--and-a-rain-jacket)
 * [What are wind jackets made of?](#what-are-wind-jackets-made-of)
-
+* [How to layer with a windjacket??](#how-to-layer-with-a-windjacket)
 
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 
@@ -219,12 +219,7 @@ Depending on the weather forecast I would wear a wind jacket if it's not raining
 ### What are wind jackets made of?
 Wind jackets are made of very light fabric, e.g., 15 or 20 denier nylon. They are not that durable as rain jackets, but they are excellent to wear in warm temperatures.
 
----
-
-## My own gear
-
-There is probably not much difference between the wind breakers in my buying guide about the best wind jackets and it’s more about your own preference towards color and brand.
-
-I am wearing the Arc’teryx Squamish Hoody since years and I am quite happy with it. Konstantin just recently got a Patagonia Houdini and is also very pleased with it.
+### How to layer with a wind jacket
+You can wear a long- or short sleeved [base layer](http://www.hikeventures.com/best-base-layers/) under your wind jacket (also read our article about the [Icebreaker Tech T shirt](http://www.hikeventures.com/Icebreaker-T-shirts/)). Still feeling cold? Add a [fleece jacket](http://www.hikeventures.com/best-fleece-jackets/) over your base layer and pull on the wind jacket over it.
 
 <a href="#weight-comparison-table" rel="nofollow" class="btn btn-danger" role="button">Back to the top</a>
