@@ -39,6 +39,9 @@ Also, have a look at our [FAQ on wind-jackets](#faq-on-wind-jackets).
           <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F893303%2Fpatagonia-houdini-zip-front-jacket-mens" rel="nofollow" target="_blank">Patagonia Houdini</a></td><td>4 oz. / 113 grams</td>
         </tr>
         <tr>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmarmot-ether-driclime-jacket-mens" target="_blank" rel="nofollow">Marmot Ether DriClime Hooded Jacket</a></td><td>9.5 oz. / 122 grams</td>
+        </tr>
+        <tr>
           <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Arcteryx-Men-s-Incendo-Hoody_10329580_10208_10000001_-1_" target="_blank" rel="nofollow">Arcteryx Incendo Hoody</a></td><td>4.6 oz. / 130 grams</td>
         </tr>
         <tr>
@@ -51,8 +54,9 @@ Also, have a look at our [FAQ on wind-jackets](#faq-on-wind-jackets).
           <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Farcteryx-squamish-hooded-jacket-mens" target="_blank" rel="nofollow">Arcteryx Squamish Hoody</a></td><td>5.5 oz. / 155 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmarmot-ether-driclime-jacket-mens" target="_blank" rel="nofollow">Marmot Ether DriClime Hooded Jacket</a></td><td>9.5 oz. / 122 grams</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Foutdoor-research-helium-jacket-mens" target="_blank" rel="nofollow">Outdoor Research Helium II Jacket</a></td><td> 6.4 oz. / 181 grams</td>
         </tr>
+
         </tbody>
 </table>
 </div>
@@ -154,6 +158,23 @@ The Marmot Trail Wind Jacket is a comfortable, lightweight and packable wind she
 It is a great jacket if you go hiking, biking, camping or running.
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmarmot-trail-wind-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Marmot Trail Wind Jacket</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmarmot-trail-wind-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Marmot Trail Wind Jacket</a>
+
+---
+
+## Outdoor Research Helium II Jacket
+
+<a target="_blank"  href="https://www.amazon.com/gp/product/B01HV2PXDS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01HV2PXDS&linkCode=as2&tag=hikeve-20&linkId=4e298db4c0a42eb89b42e23bd7dc07e3"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01HV2PXDS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01HV2PXDS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight**: 6.4 oz. / 181 grams
+**Fabric**: Ultralight Pertex Shield
+
+The Outdoor Research Helium II Jacket has been built with weather-resistant Pertex Shield fabric and packs small into your pack.
+
+As with all other wind jackets the Helium II is  waterproof and breathable and comes with a DWR coating and water-resistant zips.
+
+The jacket is fully taped seams and comes with a single-pull hood drawcords and zippered Napoleon pocket to store small items. Finally the jacket also comes with elastic cuffs.
+
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Foutdoor-research-helium-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Outdoor Research Helium II Jacket</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Foutdoor-research-helium-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Outdoor Research Helium II Jacket</a>
 
 ---
 
