@@ -9,7 +9,19 @@ tags:
   - gps
 image: https://c1.staticflickr.com/6/5609/30599065514_3a9dedbf93_k.jpg
 ---
+
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+<p>
 Garmin has just recently released the inReach Explorer+ and the inReach SE+ after they acquired DeLorme a few months ago. Those new devices are going to replace the old inReach models, and I am shortly going to discuss their differences and new features.
+</p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
 
 Since we own the DeLorme inReach Explorer device ourselves, we were quite excited to see what the new features and differences of the new Garmin inReach models are beside the external design of the device.
 

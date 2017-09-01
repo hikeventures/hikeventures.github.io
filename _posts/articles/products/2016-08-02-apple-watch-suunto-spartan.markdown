@@ -13,9 +13,22 @@ tags:
 image: https://c5.staticflickr.com/6/5450/9599011940_504b6d399e_k.jpg
 ---
 
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+<p>
 Apple and Suunto recently announced their new smartwatches - the Apple Watch Series 2 and the Suunto Spartan HR.
-
+</p>
+<p>
 As I wear my watch mainly for running and hiking, I am interested in a product which is water resistant and offers a long battery life.
+</p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
+
 
 Both watches - the Suunto Spartan HR and the Apple Watch 2 are water resistant. However, the big question remains:  Which watch has a better battery life?
 

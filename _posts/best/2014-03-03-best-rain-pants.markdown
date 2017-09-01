@@ -11,7 +11,19 @@ tags:
   - pants
 layout: post
 ---
-Here is my [selection](#weight-comparison-table) of the best rain pants for 2017 - 2018. Planning to go hiking, backpacking or any other backcountry adventure? Then you should consider packing lightweight rain pants and a [rain jacket](http://www.hikeventures.com/best-rain-jackets/) into your backpack.
+
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+<p>
+Here is my <a href="#table">selection</a> of the best rain pants for 2017 - 2018. Planning to go hiking, backpacking or any other backcountry adventure? Then you should consider packing lightweight rain pants and a <a href="http://www.hikeventures.com/best-rain-jackets/">rain jacket</a> into your backpack.
+</p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
 
 Rain pants can be designed for particular activities like cycling, climbing or hiking and backpacking.
 
@@ -29,7 +41,7 @@ Also, have a look at our [FAQ on rain pants](#faq-on-rain-pants).
 <br>
 <!--more-->
 
-## Weight comparison table
+## <a name="table">Weight comparison table</a>
 
 <div class="table-responsive">
       <table class="table table-hover table-bordered list_items">
@@ -271,3 +283,5 @@ For my hard shell layers like my rain pants I use <a href="http://amzn.to/2sRiOE
 ### How to patch them?
 
 For certain waterproof fabrics there are repair kits available like the <a href="http://amzn.to/2tfXV5K" rel="nofollow">Gore-Tex Medium Repair Kit</a>.
+
+<a href="#table" class="btn btn-danger" role="button">Back to the top</a>

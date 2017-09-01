@@ -12,13 +12,27 @@ tags:
   - Hammerfest
 image: https://c1.staticflickr.com/1/466/32908177285_0900199257_k.jpg
 ---
+
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+<p>
 Socks as a present for Christmas, pants (long johns) for St. Valentine’s Day. That’s the reality of being a wife of an outdoorsman ☺
+</p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
 
 <amp-img src="https://c1.staticflickr.com/1/466/32908177285_0900199257_k.jpg" layout="responsive" width="2048" height="1536" alt="Kari Traa"></amp-img>
 <br>
 <!--more-->
 
-However, this time the pants are very special: “Made for girls by girls”. That’s how the Norwegian brand Kari Traa is advertising their outdoor stuff. And indeed, the patterns on my base layer are rather sweet and female. And as it is 100% merino wool, they are also very soft against the skin. This is probably the best outdoor gift idea for St. Valentine's Day.
+However, this time the pants are very special: “Made for girls by girls”. That’s how the Norwegian brand Kari Traa is advertising their outdoor stuff. And indeed, the patterns on my base layer are rather sweet and female.
+
+And as it is 100% merino wool, they are also very soft against the skin. This is probably the best outdoor gift idea for St. Valentine's Day.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32093413153/in/dateposted-public/" title="Kari Traa Marta"><img src="https://c1.staticflickr.com/4/3856/32093413153_79ee4e9442_k.jpg" width="2048" height="1188" alt="Kari Traa Pants"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

@@ -11,7 +11,19 @@ tags:
   - zeiss
 image: https://c1.staticflickr.com/9/8889/27747666193_e6f65537c7_h.jpg
 ---
+
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+<p>
 Recently, I was wondering if I should upgrade my manual Samyang 14mm f/2.8 lens to a newer lens which may also have wider optics and spotted the release of Irix 11mm f/4.0 which comes with an E-Mount and would be perfect for my Sony A7.
+</p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
 
 I am always interested to find the best lenses for my needs so I decided to make a short comparison about the differences of my favorite lenses which I would consider to buy for my camera.
 

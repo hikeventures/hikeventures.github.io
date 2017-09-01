@@ -12,9 +12,19 @@ tags:
   - blogging
 layout: post
 ---
-Today, I would like to present my planned workflow using the Sony a7III, Samsung T3, Lightroom and the MacBook Pro 2017.
 
-Whenever, I buy a new MacBook I also look on what accessories would be available to improve my photography workflow.
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+<p>
+Today, I would like to present my planned workflow using the Sony a7III, Samsung T3, Lightroom and the MacBook Pro 2017. Whenever, I buy a new MacBook I also look on what accessories would be available to improve my photography workflow.
+</p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
 
 I bought my Sony a7 a few months ago as I wanted to have a full frame camera. The Sony a7 is a real bargain compared to the more expensive Sony a7RII. However, I am planning to get the Sony a7III once it will be released since I would like to record in 4K in the future and benefit of faster autofocus.
 
