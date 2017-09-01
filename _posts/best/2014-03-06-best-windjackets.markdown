@@ -235,4 +235,4 @@ Wind jackets are made of very light fabric, e.g., 15 or 20 denier nylon. They ar
 ### How to layer with a wind jacket?
 You can wear a long- or short sleeved [base layer](http://www.hikeventures.com/best-base-layers/) under your wind jacket (also read our article about the [Icebreaker Tech T shirt](http://www.hikeventures.com/Icebreaker-T-shirts/)). Still feeling cold? Add a [fleece jacket](http://www.hikeventures.com/best-fleece-jackets/) over your base layer and pull on the wind jacket over it.
 
-<a href="#weight-comparison-table" rel="nofollow" class="btn btn-danger" role="button">Back to the top</a>
+<a href="table" rel="nofollow" class="btn btn-danger" role="button">Back to the top</a>
