@@ -14,7 +14,7 @@ layout: post
 
 <div class="container-fluid">
         <div class="row" style="margin-left: 0px; padding-left: 0px">
-            <div class="col-md-9">Here is my <a href="table">selection</a> of the best wind jackets for 2017 - 2018 which I would consider to take on my next hiking or backpacking trip.
+            <div class="col-md-9" style="margin-left: 0px; padding-left: 0px">Here is my <a href="table">selection</a> of the best wind jackets for 2017 - 2018 which I would consider to take on my next hiking or backpacking trip.
 <br>
 <br>
 A lightweight wind jacket is probably one of the most useful pieces of clothes which you can take with you. It does not need much space, and you can easily store it in your backpack.
