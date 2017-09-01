@@ -16,7 +16,7 @@ layout: post
 <div class="row">
 <div class="col-md-9" style="padding-left: 0 !important;">
 <p>
-In this blog post, I have selected the <a href="table">best down jackets</a> of 2017 - 2018 which I would consider buying if I were to get a new one for my next <a href="http://www.hikeventures.com/destinations/">backpacking or winter adventure</a>.
+In this blog post, I have selected the <a href="#table">best down jackets</a> of 2017 - 2018 which I would consider buying if I were to get a new one for my next <a href="http://www.hikeventures.com/destinations/">backpacking or winter adventure</a>.
 
 A down jacket is an essential piece of clothes when planning an overnight trip outdoors or during winter time. A down jacket keeps you much warmer compared to a fleece jacket.
 
@@ -367,4 +367,4 @@ Down jackets usually come with a water resistant fabric.
 
 However, they are not waterproof. If you expect to have lots of rain, then you should probably cover your down jacket with a rain jacket or switch from a down jacket to a [fleece jacket](http://www.hikeventures.com/best-fleece-jackets/) or [synthetic insulated jacket](http://www.hikeventures.com/best-synthetic-insulated-jackets/).
 
-<a href="table" rel="nofollow" class="btn btn-danger" role="button">Back to the top</a>
+<a href="#table" rel="nofollow" class="btn btn-danger" role="button">Back to the top</a>

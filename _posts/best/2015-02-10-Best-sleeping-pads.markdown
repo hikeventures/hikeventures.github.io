@@ -11,7 +11,7 @@ tags:
   - best
 layout: post
 ---
-In this blog post you can find a <a href="table">selection</a> of the best lightweight sleeping pads which I would consider to buy in 2017 - 2018 for my next hiking or backpacking trip.
+In this blog post you can find a <a href="#table">selection</a> of the best lightweight sleeping pads which I would consider to buy in 2017 - 2018 for my next hiking or backpacking trip.
 
 I have indicated the R-value of each sleeping pads so you can choose the one which would be most suitable for your next outdoor adventure.
 

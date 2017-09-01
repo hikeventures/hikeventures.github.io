@@ -17,7 +17,7 @@ layout: post
 <div class="row">
 <div class="col-md-9" style="padding-left: 0 !important;">
 <p>
-Here is my <a href="table">selection</a> of the best lightweight headlamps for 2017 - 2018 which I would consider taking to my next hiking, backpacking or camping trip.
+Here is my <a href="#table">selection</a> of the best lightweight headlamps for 2017 - 2018 which I would consider taking to my next hiking, backpacking or camping trip.
 </p>
 <p>
 Having a headlamp can be a life saver, and it’s a good idea to have one with you in your backpack especially during the winter.
