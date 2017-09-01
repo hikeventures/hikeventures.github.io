@@ -16,7 +16,7 @@ layout: post
   <div>
     <div>
 <a href="http://www.avantlink.com/click.php?tt=ml&amp;ti=220479&amp;pw=150351"><img  style="float:left" src="//www.avantlink.com/gbi/10248/220479/125311/150351/image.jpg" width="300" height="250" style="border: 0px;" alt="" /></a>
-      <p>Here is my [selection](#weight-comparison-table) of the best wind jackets for 2017 - 2018 which I would consider to take on my next hiking or backpacking trip..</p><div style="clear:both"></div>
+      <div style="clear:both"></div><p>Here is my [selection](#weight-comparison-table) of the best wind jackets for 2017 - 2018 which I would consider to take on my next hiking or backpacking trip..</p>
     </div>
   </div>
 </div>
