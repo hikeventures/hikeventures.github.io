@@ -11,7 +11,7 @@ tags:
   - best
 layout: post
 ---
-In this blog post you can find the best lightweight sleeping pads which we would consider to buy in 2017 - 2018 for my next hiking or backpacking trip.  
+In this blog post you can find a <a href="table">selection</a> of the best lightweight sleeping pads which I would consider to buy in 2017 - 2018 for my next hiking or backpacking trip.
 
 I have indicated the R-value of each sleeping pads so you can choose the one which would be most suitable for your next outdoor adventure.
 
@@ -21,11 +21,11 @@ From all sleeping pads I would probably recommend you the <a href="http://amzn.t
 
 I have received the XTherm from Therm-a-Rest for testing and it’s now my go-to sleeping pad throughout the year.
 
-<amp-img src="https://c5.staticflickr.com/9/8185/28431572180_4c18fea5a0_b.jpg" width="1024" height="683" alt="Best Sleeping Pads in 2017 - 2018" layout="responsive"></amp-img>   
-<br>   
+<amp-img src="https://c5.staticflickr.com/9/8185/28431572180_4c18fea5a0_b.jpg" width="1024" height="683" alt="Best Sleeping Pads in 2017 - 2018" layout="responsive"></amp-img>
+<br>
 <!--more-->
 
-## The best sleeping pads of 2017
+## <a name="table">Weight comparison table</a>
 
 <div class="table-responsive">
       <table class="table table-hover table-bordered list_items_3">
@@ -282,8 +282,6 @@ You can also use this pad in combination with an air sleeping pad to get the ult
 * Does the pad slip easily in the tent?
 * Does the pad make noise when I sleep on it (ear plugs might help)?
 
-<hr>
-
 ## What are they made of?
 
 ## How to clean?
@@ -316,6 +314,4 @@ If I would go on a trip then my preference would go towards the Therm-a-rest XTh
 
 In very cold conditions I would combine the Therm-a-Rest XTherm with the Therm-a-Rest Z Sol.
 
----
-
-I hope this blog post was helpful to find the best sleeping pad for you.
+<a href="#table" rel="nofollow" class="btn btn-danger" role="button">Back to the top</a>

@@ -332,4 +332,4 @@ New headlamp models also offer you the possibility to recharge their lithium-ion
 
 The difference between alkalines and lithium-ion is that you can operate the headlamp with fully charged alkalines longer than with a fully charged lithium-ion headlamp.
 
-<a href="table" class="btn btn-danger" role="button">Back to the top</a>
+<a href="#table" class="btn btn-danger" role="button">Back to the top</a>
