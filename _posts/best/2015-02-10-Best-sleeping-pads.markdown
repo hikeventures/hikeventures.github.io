@@ -11,9 +11,22 @@ tags:
   - best
 layout: post
 ---
-In this blog post you can find a <a href="#table">selection</a> of the best lightweight sleeping pads which I would consider to buy in 2017 - 2018 for my next hiking or backpacking trip.
 
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+<p>
+Here is my <a href="#table">selection</a> of the best lightweight sleeping pads which I would consider to buy in 2017 - 2018 for my next hiking or backpacking trip.
+</p>
+<p>
 I have indicated the R-value of each sleeping pads so you can choose the one which would be most suitable for your next outdoor adventure.
+</p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
 
 From the selection below I have only tested the Therm-a-Rest NeoAir XTherm, the self-inflating Therm-a-Rest EvoLite and the Exped SYNMAT UL 7 M.
 

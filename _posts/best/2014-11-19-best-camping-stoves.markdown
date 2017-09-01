@@ -12,14 +12,27 @@ tags:
 layout: post
 ---
 Here is my selection of the best camping stoves for 2017 - 2018.
-
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+<p>
+Here is my <a href="#table">selection</a> of the best camping stoves for 2017 - 2018
+</p>
+<p>
 A portable and lightweight camping stove is one of the most essential item to have on your outdoor adventures to boil water for tea, coffee or dehydrated meals.
+</p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
 
 <amp-img src="https://c8.staticflickr.com/4/3748/9596216703_3f4c4db24f_b.jpg" width="1024" height="683" alt="Best Camping Stoves 2017 - 2018" layout="responsive"></amp-img>
 <br>
 <!--more-->
 
-## The best camping stoves of 2017
+## <a name="table">Weight comparison table</a>
 
 <div class="table-responsive">
       <table class="table table-hover table-bordered list_items">
@@ -176,6 +189,4 @@ If you are traveling to different continents then a multi-fuel stove might be th
 
 For winter camping you should probably also consider a multi-fuel stove like the MSR XGK EX.
 
----
-
-I hope this blog post was helpful to find the best camping stove for you.
+<a href="#table" class="btn btn-danger" role="button">Back to the top</a>

@@ -12,7 +12,18 @@ tags:
   - photography
 ---
 
-In this blog post, I would like to show you my [selection](#bags-for-sony-cameras) of the best lightweight camera bags for the Sony A7, A7II A7RII, A7SII or A9 (and also a6500, a6300 or a6000 since they share a similar form factor).
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+<p>
+Here is my <a href="#table">selection</a> of the best lightweight camera bags for the Sony A7, A7II A7RII, A7SII or A9 (and also a6500, a6300 or a6000 since they share a similar form factor).
+</p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
 
 Different cases might be useful for various activities, e.g., you might take a different camera bag with you when you go hiking than when you would go on a kayaking, climbing or packrafting trip.
 
@@ -24,7 +35,7 @@ As I have recently upgraded my camera, I was in need of a new camera case which 
 <br>
 <!--more-->
 
-## Bags for Sony cameras
+## <a name="table">Weight comparison table</a>
 
 <div class="table-responsive">
       <table class="table table-hover table-bordered list_items">
@@ -219,7 +230,7 @@ The Thule Covert Camera Messenger Bag comes with a removable camera pod system a
 * [Best camera bags for packrafting and kayaking](#best-camera-bags-for-packrafting-and-kayaking)
 * [Best camera bags for urban exploration and traveling](#best-camera-bags-for-urban-exploration-and-traveling)
 
----
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 
 ### Best camera bags for hiking and backpacking
 
@@ -251,4 +262,4 @@ From my point of view there is no best camera bag which fits every situation but
 
 ---
 
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<a href="#table" class="btn btn-danger" role="button">Back to the top</a>

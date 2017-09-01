@@ -12,19 +12,30 @@ tags:
 layout: post
 ---
 
-In this article I have [selected](#the-best-trekking-and-snowshoeing-poles-of-2017) the best trekking and snowshoeing poles which I would consider to buy in 2017 - 2018.  
-
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+<p>
+Here is my <a href="#table">selection</a> of the best trekking and snowshoeing poles which I would consider to buy in 2017 - 2018.
+</p>
+<p>
 Trekking poles are especially useful if you have to walk up or down a mountain or if you have to walk in deep powder snow with your snowshoes.
-
+</p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
 Further, you can also use trekking poles for nordic walking so they are quite versatile too.
 
 Also have a look on the [down](http://www.hikeventures.com/best-down-jackets/) or [fleece jackets](http://www.hikeventures.com/best-fleece-jackets/) which I would consider to take on my trip.
 
-<amp-img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="Best trekking and snowshoeing poles for 2017 - 2018" layout="responsive"></amp-img>   
-<br>   
+<amp-img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="Best trekking and snowshoeing poles for 2017 - 2018" layout="responsive"></amp-img>
+<br>
 <!--more-->
 
-## The best trekking and snowshoeing poles of 2017
+## <a name="table">Weight comparison table</a>
 
 <div class="table-responsive">
       <table class="table table-hover table-bordered list_items">
@@ -243,6 +254,4 @@ For 3-season trips however they are great. You can see my trekking poles in acti
 
 Most recently, I have added a pair of dedicated snowshoe poles to my gear - the [MSR Deploy TR-2](http://www.hikeventures.com/Testing-MSR-Revo-Ascent-Light-Deploy-T2-Flight-2-Austrian-Alps/) - which I have already tested in the Austrian Alps.
 
----
-
-I hope this blog post was helpful to find the best trekking and snowshoeing poles for you.
+<a href="#table" class="btn btn-danger" role="button">Back to the top</a>

@@ -12,17 +12,30 @@ tags:
 layout: post
 ---
 
-In this blog post I would like to present you my [selection](#the-best-hiking-shoes-of-2017) of the best light hiking shoes for 2017 - 2018.   
-
-I was wearing light hiking shoes on my [hiking trip](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) in the Sarek National Park in Sweden.
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+<p>
+Here is my <a href="#table">selection</a> of the best light hiking shoes for 2017 - 2018.
+</p>
+<p>
+I was wearing light hiking shoes on my <a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/">hiking trip</a> in the Sarek National Park in Sweden.</p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
 
 Compared to traditional hiking boots they are of course much lighter and packable but they also offer less stabilization, less protection and are not always waterproof.
 
-<amp-img src="https://c5.staticflickr.com/3/2942/15189713140_cf23bd9412_b.jpg" width="1024" height="683" alt="The best ultralight hiking shoes 2017 - 2018" layout="responsive"></amp-img>     
-<br>     
+Also, have a look at our [FAQ on hiking shoes](#faq-on-hiking-shoes).
+
+<amp-img src="https://c5.staticflickr.com/3/2942/15189713140_cf23bd9412_b.jpg" width="1024" height="683" alt="The best ultralight hiking shoes 2017 - 2018" layout="responsive"></amp-img>
+<br>
 <!--more-->
 
-## The best hiking shoes of 2017
+## <a name="table">Weight comparison table</a>
 
 <div class="table-responsive">
       <table class="table table-hover table-bordered list_items">
@@ -198,9 +211,12 @@ The TPU toe cap also offers protection and the CRADLE technology makes sure that
 
 <hr>
 
-## Advantages and disadvantages of wearing ultralight hiking shoes
+## FAQ on hiking shoes
 
-### Advantages
+* [Advantages of wearing ultralight hiking shoes](#advantages-of-wearing-ultralight-hiking-shoes)
+* [Disadvantages of wearing ultralight hiking shoes](#disadvantages-of-wearing-ultralight-hiking-shoes)
+
+### Advantages of wearing ultralight hiking shoes
 
 * They are very lightweight compared to traditional hiking or backpacking boots.
 * They don’t need that much space to store them.
@@ -209,7 +225,7 @@ The TPU toe cap also offers protection and the CRADLE technology makes sure that
 
 <hr>
 
-### Disadvantages of ultralight hiking shoes
+### Disadvantages of wearing ultralight hiking shoes
 
 * There is a chance that you will get wet feet since those shoes don’t go over your ankles especially if you don’t buy a GTX (waterproof) shoe. One solution to keep your feet dry would be to wear latex socks over your regular merino socks.
 * Ultralight Hiking Shoes won’t give you much support when carry a heavier backpack.
@@ -229,6 +245,4 @@ However, in some cases you can also dry them in the evenings on a camp fire (if 
 
 The most important factors for me are weight, grip of the sole and if they can dry fast.
 
----
-
-I hope this blog post was helpful to find the best ultralight hiking shoes for you.
+<a href="#table" class="btn btn-danger" role="button">Back to the top</a>

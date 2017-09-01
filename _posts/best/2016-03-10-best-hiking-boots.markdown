@@ -12,19 +12,32 @@ tags:
   - shoes
 published: true
 ---
-Here is my selection of the best hiking boots for 2017 - 2018 which I would consider to wear on my next hiking or backpacking trip.  
 
-Hiking boots are important if you are planning to hike in the mountains or if you have to carry a heavy backpack. Moreover, they  should provide a good grip as well.
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+<p>
+Here is my <a href="#table">selection</a> of the best hiking boots for 2017 - 2018 which I would consider to wear on my next hiking or backpacking trip.
+</p>
+<p>
+Hiking boots are important if you are planning to hike in the mountains or if you have to carry a heavy backpack. Moreover, they  should provide a good grip as well
+</p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
 
 For day trips which are not that demanding [lightweight hiking shoes](http://www.hikeventures.com/best-light-hiking-shoes/) (or hiking trainers) could be an alternative to traditional hiking boots. However, they are in most cases not waterproof but can be dried on a fire place.
 
 However, after my trips in the [Alps](http://www.hikeventures.com/e5-crossing-the-alps-from-germany-to-italy/) and in [Swedish Lapland](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) I am not such a fan of ultralight hiking shoes and would rather take a pair of proper hiking boots with me.
 
-<amp-img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="1024" height="643" alt="Best hiking boots for 2017 - 2018" layout="responsive"></amp-img>   
-<br>   
+<amp-img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="1024" height="643" alt="Best hiking boots for 2017 - 2018" layout="responsive"></amp-img>
+<br>
 <!--more-->
 
-## The best hiking boots of 2017
+## <a name="table">Weight comparison table</a>
 
 <div class="table-responsive">
       <table class="table table-hover table-bordered list_items">
@@ -288,7 +301,7 @@ Try a pair of shell boots which are entirely made of leather. They offer good wa
 
 ## How to choose them?
 
-There are several factors on how you should choose your hiking boots. Some brands also categorize their boots into activities or the difficulty of your hike. 
+There are several factors on how you should choose your hiking boots. Some brands also categorize their boots into activities or the difficulty of your hike.
 
 Heavier hiking boots with a high shaft are probably a good choice if you:
 
@@ -344,6 +357,4 @@ If your toes are hurting in your hiking boots then you should consider getting a
 
 Alternatively, you could also try to wear thinner socks but in most cases your hiking boots are just too small.
 
----
-
-I hope this blog post was helpful to find the best hiking boots for you.
+<a href="#table" class="btn btn-danger" role="button">Back to the top</a>

@@ -11,9 +11,22 @@ tags:
   - packrafting
 layout: post
 ---
-In this blog post I would like to present my selection of the best backpacks which I would consider to take on my next pack rafting adventure.
 
-Having used the [HMG Porter 4400](http://www.hikeventures.com/gear-review-hmg-porter-4400-black/) for the last 3 years on my packrafting trips I was interested to see which alternatives would be available on the market.
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+<p>
+Here is my <a href="#table">selection</a> of the best backpacks which I would consider to take on my next pack rafting adventure.
+</p>
+<p>
+Having used the <a href="http://www.hikeventures.com/gear-review-hmg-porter-4400-black/">HMG Porter 4400</a> for the last 3 years on my packrafting trips I was interested to see which alternatives would be available on the market.
+</p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
 
 Gernerally speaking I was not able to find any alternative to the HMG Porter 4400 which is that light and feels like a proper backpack when I bought it.
 
@@ -21,7 +34,7 @@ Gernerally speaking I was not able to find any alternative to the HMG Porter 440
 <br>
 <!--more-->
 
-## The best backpacks for pack rafting of 2017
+## <a name="table">Weight comparison table</a>
 
 <div class="table-responsive">
 <table class="table table-hover table-bordered list_items">
@@ -139,6 +152,4 @@ There are just a few small spots which are wearing off but it would have happen 
 
 However, if I were to buy a new backpack for my packrafting trips then I would probably buy the [HMG Windrider](https://www.hyperlitemountaingear.com/4400-windrider.html) since I would be able to store more gear in the outer mash pockets.
 
----
-
-I hope this blog post was helpful to find the backpack for packrafting for you.
+<a href="#table" class="btn btn-danger" role="button">Back to the top</a>

@@ -12,7 +12,21 @@ tags:
 layout: post
 ---
 
-In this blog post, I have [selected](#weight-comparison-table) the best backpacking tents for 2017 - 2018 which I would consider buying for my next hiking or backpacking trip. I have tested already a couple of tents on [our trips](http://www.hikeventures.com/destinations/) in Europe, Scandinavia or Japan and realized that the best solution would be to have a tent for different seasons and environments.
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+<p>
+Here is my <a href="#table">selection</a> the best backpacking tents for 2017 - 2018 which I would consider buying for my next hiking or backpacking trip.
+</p>
+<p>
+I have tested already a couple of tents on <a href="http://www.hikeventures.com/destinations/">our trips</a> in Europe, Scandinavia or Japan and realized that the best solution would be to have a tent for different seasons and environments.
+</p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
 
 [Here](http://www.hikeventures.com/Best-sleeping-pads/) you can also see which sleeping pads I would take with me on my next outdoor adventure.
 
@@ -22,7 +36,7 @@ Also, have a look at our [FAQ on tents](#faq-on-tents) or our handy [price compa
 <br>
 <!--more-->
 
-## Weight comparison table
+## <a name="table">Weight comparison table</a>
 
 <div class="table-responsive">
 <table class="table table-hover table-bordered list_items">
@@ -55,7 +69,7 @@ Copper Spur UL 1</a></td><td>2 lbs. 3 oz. / 0.98 kg</td>
           <tr>
             <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F112551%2Fmsr-access-1-tent" target="_blank" rel="nofollow">MSR Access 1</a></td><td>3 lbs. 8 oz. / 1.6 kg</td>
           </tr>
-        
+
           <tr>
             <td><a href="http://amzn.to/2euL9cG" target="_blank" rel="nofollow">Hilleberg Akto</a></td><td>3 lbs. 11 oz. / 1.7 kg</td>
           </tr>
@@ -451,4 +465,4 @@ Currently, my go-to tent is the <a href="http://amzn.to/2pDaiMo" rel="nofollow">
 
 I chose the Unna since it’s quite versatile, offers plenty of space and has a big panorama window.
 
-<a href="#weight-comparison-table" rel="nofollow" class="btn btn-danger" role="button">Back to the top</a>
+<a href="#table" class="btn btn-danger" role="button">Back to the top</a>
