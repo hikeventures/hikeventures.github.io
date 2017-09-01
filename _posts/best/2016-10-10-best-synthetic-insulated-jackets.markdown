@@ -20,9 +20,8 @@ layout: post
 Here is my <a href="#table">selection</a> of the best synthetic insulated jackets for 2017 which I would consider buying for my next winter or hiking trip.
 </p>
 <p>
-Wearing a synthetic insulated jacket over a<a href="http://www.hikeventures.com/best-down-jackets/">down jacket</a> can have several reasons.
+Wearing a synthetic insulated jacket over a <a href="http://www.hikeventures.com/best-down-jackets/">down jacket</a> can have several reasons.
 </p>
-<p>
 </div>
 <div class="col-md-3">
  <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
