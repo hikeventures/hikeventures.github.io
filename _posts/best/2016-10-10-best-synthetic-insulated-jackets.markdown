@@ -11,9 +11,24 @@ tags:
   - jackets
 layout: post
 ---
-Here is my [selection](#the-best-synthetic-insulated-jackets-of-2017) of the best synthetic insulated jackets for 2017 which I would consider buying for my next winter or hiking trip.
 
-Wearing a synthetic insulated jacket over a [down jacket](http://www.hikeventures.com/best-down-jackets/) can have several reasons.
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+
+<p>
+Here is my <a href="#table">selection</a> of the best synthetic insulated jackets for 2017 which I would consider buying for my next winter or hiking trip.
+</p>
+<p>
+Wearing a synthetic insulated jacket over a<a href="http://www.hikeventures.com/best-down-jackets/">down jacket</a> can have several reasons.
+</p>
+<p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
 
 Either you are just looking for an alternative to down because of ethical reasons or you are planning to wear your jacket in a damp or humid environment where down may lose its insulation capabilities when it gets wet.
 
@@ -23,7 +38,7 @@ On our snowshoeing trip in [Finnish Lapland](http://www.hikeventures.com/snowsho
 <br>
 <!--more-->
 
-## Weight comparison table
+## <a name="table">Weight comparison table</a>
 
 <div class="table-responsive">
       <table class="table table-hover table-bordered list_items">
@@ -243,7 +258,7 @@ The jacket features zoned synthetic insulation to eliminate cold spots and is re
 
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Rab-Men-s-Photon-X-Jacket_10347062_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Men's Rab Photon X Jacket</a>
 
-<hr>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 
 ## Our interview with the North Face
 
@@ -267,6 +282,4 @@ So really one of the big benefits here compared to down. Even if it's wet or if 
 
 So that's one of the innovations that we have. We apply it to various different products.  A lot of jackets and snow sports where we apply this.
 
----
-
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<a href="#table" rel="nofollow" class="btn btn-danger" role="button">Back to the top</a>
