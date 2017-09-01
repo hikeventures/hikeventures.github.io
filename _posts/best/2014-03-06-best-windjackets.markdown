@@ -14,8 +14,10 @@ layout: post
 
 <div class="container-fluid">
         <div class="row">
-            <div class="col-md-3"> <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script></div>
-            <div class="col-md-9">Here is my [selection](#weight-comparison-table) of the best wind jackets for 2017 - 2018 which I would consider to take on my next hiking or backpacking trip.</div>
+            <div class="col-md-9">  Here is my <a href="table">selection</a> of the best wind jackets for 2017 - 2018 which I would consider to take on my next hiking or backpacking trip.</div>
+            <div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+          </div>
         </div>
     </div>
 
@@ -33,7 +35,7 @@ Also, have a look at our [FAQ on wind-jackets](#faq-on-wind-jackets).
 <br>
 <!--more-->
 
-## Weight comparison table
+## <a name="table">Weight comparison table</a>
 
 <div class="table-responsive">
 <table class="table table-hover table-bordered list_items">
