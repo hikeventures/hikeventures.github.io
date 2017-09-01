@@ -11,6 +11,20 @@ tags:
   - fleece jackets
 layout: post
 ---
+
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+<p>
+Here is my <a href="#table">selection</a>  of the best lightweight fleece jackets for 2017 - 2018 which I would consider to buy for my next hiking or backpacking adventure.
+</p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
+
 Here is my [selection](#the-best-fleece-jackets-of-2017) of the best lightweight fleece jackets for 2017 - 2018 which I would consider to buy for my next hiking or backpacking adventure.
 
 For wet conditions a fleece jacket is a much better choice than a [down jacket](http://www.hikeventures.com/best-down-jackets/) to protect yourself against the cold as down will lose it’s insulation once it’s wet. An alternative to a fleece jacket would be a [synthetic insulated jacket](http://www.hikeventures.com/best-synthetic-insulated-jackets/) which has the advantage of being windproof.
@@ -19,11 +33,11 @@ A fleece jacket can be used as a mid-layer to keep you warm while you are active
 
 Have a look on our [FAQ](#faq-on-fleece-jackets) to learn more about fleece jackets.
 
-<amp-img src="https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg" width="1024" height="683" alt="Best Fleece Jackets 2017 - 2018" layout="responsive"></amp-img>   
-<br>   
+<amp-img src="https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg" width="1024" height="683" alt="Best Fleece Jackets 2017 - 2018" layout="responsive"></amp-img>
+<br>
 <!--more-->
 
-## The best fleece jackets of 2017
+## <a name="table">Weight comparison table</a>
 
 <div class="table-responsive">
       <table class="table table-hover table-bordered list_items">
@@ -269,6 +283,4 @@ A good idea is also to combine a fleece jacket with a [wind jacket](http://www.h
 
 Fleece jackets are not windproof and you won’t sweat that much in a wind jacket than in a rain jacket when you are hiking. When it starts raining you can exchange your wind jacket with a [rain jacket](http://www.hikeventures.com/rain-jackets-2017/).
 
----
-
-I hope this blog post was helpful to find the best fleece jacket for you.
+<a href="#table" class="btn btn-danger" role="button">Back to the top</a>
