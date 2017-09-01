@@ -9,10 +9,21 @@ tags:
   - toothbrush
 layout: post
 ---
-
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+<p>
 Planning a hiking or backpacking trip to the backcountry or are you planning to travel abroad?
-
+</p>
+<p>
 Then you could have a look on the best outdoor toothbrushes which I have selected below which feature a compact design and are easy to pack.
+</p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
 
 The compact design of of a travel toothbrush not only provides you with more space but also less weight as every gram counts especially if you are into ultralight backpacking.
 

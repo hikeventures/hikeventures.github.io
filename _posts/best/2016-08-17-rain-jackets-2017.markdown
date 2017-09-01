@@ -11,8 +11,18 @@ tags:
   - rain jackets
 ---
 
-Need a new rain jacket for your next outdoor adventure 2017 - 2018? I always take a rain jacket with me when I go [hiking](http://www.hikeventures.com/destinations/) or cycling.
-
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+<p>
+Here is a <a href="#table">selection</a> of the new rain jackets for 2017 - 2018 on the market. This is not a complete list and I may add a few more models in the future.
+</p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
 I always take a rain jacket with me when I go [hiking](http://www.hikeventures.com/destinations/), backpacking or cycling.
 
 Depending on the season or activity it might also be a good idea to have different rain jackets.
@@ -21,16 +31,13 @@ For example, I would take a very light rain jacket if I am planning to go on a h
 
 For winter activities - like skiing or snowboarding - I would rather take a more durable jacket with me.
 
-
-Here is a <a href="#list">selection</a> of the new rain jackets for 2017 - 2018 on the market. This is not a complete list and I may add a few more models in the future.
-
 ---
 
 <amp-img src="https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg" width="2048" height="1360" alt="New rain jackets for 2017 - 2018" layout="responsive"></amp-img>
 <br>
 <!--more-->
 
-<h2 id="list">New rain jackets 2017</h2>
+## <a name="table">Weight comparison table</a>
 
 <div class="table-responsive">
 
@@ -126,3 +133,5 @@ The Marmot Knife Edge Jacket is an extra light jacket for climbing or mountainee
 
 
 Some rain jacket models in this list are designed for running but I think that they still might be useful for hiking trips as well. I will probably add a few more models in the future.
+
+<a href="#table" class="btn btn-danger" role="button">Back to the top</a>

@@ -12,9 +12,21 @@ tags:
 layout: post
 ---
 
-In this blog post I have [selected](#the-best-lightweight-water-filters-of-2017) the best backpacking water filters for 2017 - 2018 which I would take with me on my next hiking or backpacking trip.
-
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+<p>
+Here is my <a href="#table">selection</a> of the best backpacking water filters for 2017 - 2018 which I would take with me on my next hiking or backpacking trip.
+</p>
+<p>
 There are several solution on the market e.g. water filters where you have to pump water through the filter or filters which do not require any pump at all (and which are also my personal preference filters).
+</p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
 
 Currently, I am using the Sawyer Mini Water Filtration System on my trips since it is very lightweight and does the job.
 
@@ -31,7 +43,8 @@ The Steripen uses an UV light against Viruses and can be recharged through the U
 <amp-img src="https://c1.staticflickr.com/8/7459/9599019542_fa67333918_k.jpg" width="2048" height="1365" alt="Best lightweight water filters 2017 - 2018" layout="responsive"></amp-img>
 <br>
 <!--more-->
-<h2>The best lightweight water filters of 2017</h2>
+
+## <a name="table">Weight comparison table</a>
 
 <div class="table-responsive">
       <table  class="table table-hover table-bordered list_items">
@@ -86,7 +99,3 @@ If you prefer a filter where you need to pump then the Katadyn Hiker Pro filter 
 The MSR TrailShot is the latest development compared to the other water filters. The filter is probably more convenient to use than the Sawyer Mini since it offers an Inlet Hose and the pump might be quite useful as well to get clean water out of a river. This is probably going to be my new water filter to replace my Sawyer Mini even so it weights a bit more.
 
 <a href="http://amzn.to/2qdeoXm" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
-
----
-
-I hope this blog post was helpful to find the best backpacking water filter for your next outdoor adventure.

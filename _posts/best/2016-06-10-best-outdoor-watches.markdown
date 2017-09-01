@@ -12,7 +12,18 @@ tags:
   - watches
 ---
 
-In this blog post I will present you my selection of the best outdoor watches for hiking and backpacking for 2017 - 2018 which I would consider to take with me on my next outdoor adventure. They might be also useful if you are into running.
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+<p>
+Here is my <a href="#table">selection</a>  of the best outdoor watches for hiking and backpacking for 2017 - 2018 which I would consider to take with me on my next outdoor adventure. They might be also useful if you are into running.
+</p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
 
 At the moment I am wearing a Suunto Traverse which has a monochrome display and I am quite satisfied with it.
 
@@ -24,7 +35,7 @@ Probably one disadvantage of watches having a color display and a GPS is their s
 <br>
 <!--more-->
 
-## The best outdoor gps watches for 2017
+## <a name="table">Weight comparison table</a>
 
 <div class="table-responsive">
 <table class="table table-hover table-bordered list_items">
@@ -215,6 +226,4 @@ If I would not need the longer training mode (GPS) of the Suunto Spartan then I 
 
 I would also pick the 42 mm Apple Sport version as I prefer a bigger screen.
 
----
-
-I hope this blog post was helpful to find the best outdoor watch for you.
+<a href="#table" class="btn btn-danger" role="button">Back to the top</a>

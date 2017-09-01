@@ -12,8 +12,22 @@ tags:
   - packrafting
 ---
 
-In this blog post I would like to write about my selection of the best pack rafting and kayaking helmets for 2017.
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+<p>
+Here is my <a href="#table">selection</a> of the best pack rafting and kayaking helmets for 2017.
+</p>
+<p>
 If you are planning to do whitewater packrafting or kayaking then you should probably consider to wear a helmet which protects your head in case you flip with your packraft or kayak.
+</p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
+
 There are certain criteria you should look out when buying a new packrafting helmet:
 
 * Is the helmet certified for whitewater (e.g. CE EN 1385)?
@@ -25,7 +39,7 @@ There are certain criteria you should look out when buying a new packrafting hel
 
 <amp-img src="https://farm8.staticflickr.com/7227/14061133924_1198954cd2_b.jpg" width="1024" height="683" alt="Best packrafting helmet" layout="responsive"></amp-img>
 
-## The best packrafting and kayaking helmets of 2017
+## <a name="table">Weight comparison table</a>
 
 <div class="table-responsive">
       <table class="table table-hover table-bordered list_items">
@@ -164,3 +178,5 @@ With many options on the markets you have to decide yourself which helmet is the
 As a lightweight helmet we were quite happy with the Petzl Meteor 3+ helmet.
 
 However, I am looking for a more advanced helmet in the future like the Sweet Protection Rocker Helmet.
+
+<a href="#table" class="btn btn-danger" role="button">Back to the top</a>

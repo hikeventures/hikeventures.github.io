@@ -11,9 +11,21 @@ tags:
   - new
 ---
 
-In this blog post you can find a selection of new sleeping pads for 2017 - 2018.
-
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+<p>
+In this blog post you can find a <a href="#table">selection</a>  of new sleeping pads for 2017 - 2018.
+</p>
+<p>
 There are different sleeping pads for different seasons or climates available.
+</p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
 
 The R-value indicates how much insulation a sleeping pad provides. In the conclusion you can find the sleeping pad which I would recommend.
 
@@ -23,7 +35,7 @@ The R-value indicates how much insulation a sleeping pad provides. In the conclu
 
 ---
 
-## New sleeping pads for 2017
+## <a name="table">Weight comparison table</a>
 
 <div class="table-responsive">
 
@@ -131,8 +143,4 @@ The Therm-a-RestTrail King SV is a self-inflation sleeping pad. The Trail King S
 <h2>Conclusion</h2>
 Personally, I like the <a href="http://www.hikeventures.com/deals/#neoair-xtherm" target="_blank">Therm-a-Rest XTherm</a> the most and I use it during summer and winter time. Even so it is not the newest sleeping pad on the market, it provides high insulation and comes with low weight. I always carry it on our <a href="http://www.hikeventures.com/destinations/" target="_blank">hiking and packrafting trips</a>.
 
-<hr>
-
-{% include disclaimer.html %}
-
----
+<a href="#table" class="btn btn-danger" role="button">Back to the top</a>

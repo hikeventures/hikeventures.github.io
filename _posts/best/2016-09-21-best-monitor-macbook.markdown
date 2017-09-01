@@ -9,8 +9,21 @@ tags:
 layout: post
 ---
 
-As I am planning to buy a new MacBook Pro I was curious to find out which monitor I should get to connect it with my new MacBook Pro and what would be the best alternative to the LG UltraFine 4K or 5K monitors.
-
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+<p>
+As I am planning to buy a new MacBook Pro I was curious to find out which monitor I should get to connect it with my new MacBook Pro and what would be <a href="#table">the best alternative</a> to the LG UltraFine 4K or 5K monitors.
+</p>
+<p>
+Having a headlamp can be a life saver, and it’s a good idea to have one with you in your backpack especially during the winter.
+</p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
 I really would like to have an external 4K or 5K monitor with my MacBook Pro since it is much more convenient to edit pictures.
 
 In the past I had a 27" HD monitor to edit my pictures but since I am planning to take 4K videos in the near future I would be really nice to have a 4K or even a 5K screen.
@@ -23,7 +36,7 @@ I really like the idea to have less cables on my desk so USB-C would be a really
 
 There would be no need to plug and unplug USB cables anymore on the MacBook Pro. All my USB cables would be connected to my monitor and there would be just one single USB-C which is connected to my MacBook Pro.
 
-## The best 27-inch 4K and 5K USB-C Monitors
+## <a name="table">Comparison table</a>
 <div class="table-responsive">
 <table class="table table-hover table-bordered list_items_5">
         <thead>
@@ -124,6 +137,5 @@ However, the differences between those 2 monitors is not that big and it's proba
 
  If you have the cash I would rather take the Dell Ultra HD 5K than a 4K screen. If you are on a budget then the HP ENVY or the LG 27UD68P (especially for gaming) might be a nice 4K monitor.
 
- ---
 
- I hope this blog post was helpful to find the best 4K or 5K monitor your your MacBook.
+ <a href="#table" class="btn btn-danger" role="button">Back to the top</a>

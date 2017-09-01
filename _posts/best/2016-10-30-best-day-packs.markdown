@@ -11,9 +11,22 @@ tags:
   - day packs
 layout: post
 ---
-In this blog post I would like to present you the best day packs 2017 - 2018 which I would consider carry if I were to buy a new one.
 
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+<p>
+Here is my <a href="#table">selection</a> of the best day packs 2017 - 2018 which I would consider carry if I were to buy a new one.
+</p>
+<p>
 A day pack is a great choice if you plan to do a shorter trip while carrying some gear with you e.g. climbing, hiking or on a normal day in the city.
+</p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
 
 A day pack weights much less than a regular backpack and you will be able to enjoy your day outside much more if you have to carry less with you.
 
@@ -22,7 +35,7 @@ I have included a broad range of day packs. Some are more durable or offer more 
 <amp-img src="https://c1.staticflickr.com/9/8699/27817737344_1645a0bd95_b.jpg" width="1024" height="684" alt="Best Day Packs 2017 - 2018" layout="responsive"></amp-img>
 <br>
 <!--more-->
-## The best day packs of 2017
+## <a name="table">Weight comparison table</a>
 
 <div class="table-responsive">
 
@@ -177,6 +190,4 @@ The Arc'teryx ARRO 22 comes with WaterTight® zipper, a hydration pocket, a Kang
 
 <a href="http://amzn.to/2hC1baB" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
----
-
-I hope this blog post was helpful to find the best hiking daypack for your next outdoor adventure.
+<a href="#table" class="btn btn-danger" role="button">Back to the top</a>

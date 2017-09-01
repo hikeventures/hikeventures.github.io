@@ -11,9 +11,22 @@ tags:
   - pfd
 ---
 
-In this blog post I would like to write about my selection of the best life jackets or PFDs for Packrafting and Kayaking in 2017.
-
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+<p>
+Here is my <a href="#table">selection</a> of the best life jackets or PFDs for Packrafting and Kayaking in 2017.
+</p>
+<p>
 As we are frequently on packrafting trips we are always interested to find new packrafting gear like.
+
+</p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
 
 The life jackets in this blog post are also suitable for Kayaking. In fact they have probably been designed with Kayakers in mind as I have not heard about specific packrafting life jackets yet (nor do I think that there would be much of a difference).
 
@@ -21,7 +34,7 @@ The life jackets in this blog post are also suitable for Kayaking. In fact they 
 <br>
 <!--more-->
 
-## The best life jackets for Packrafing and Kayaking of 2017
+## <a name="table">Weight comparison table</a>
 
 <div class="table-responsive">
       <table class="table table-hover table-bordered list_items">
@@ -206,3 +219,5 @@ Wearing a PFD does not need to be a burden. The latest PFD’s are quite stylish
 We are currently wearing the Palm Alpha and the Astral Designs YTV PFDs. The Astral Designs V-Eight life jacket was also quite popular among a few paddlers who participated in the [Swedish Packrafting Round-Up 2016. ](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/)
 
 It’s probably a good idea to invest a bit money into a good PFD if you plan to go packrafting frequently. Safety goes first!
+
+<a href="#table" class="btn btn-danger" role="button">Back to the top</a>

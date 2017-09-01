@@ -11,13 +11,24 @@ tags:
   - best
 ---
 
-In this blog post I will present you my selection of the best ski gloves for 2017 - 2018. Of course, you can also wear these gloves for snowboarding.
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+<p>
+Here is my <a href="#table">selection</a> of the best ski gloves for 2017 - 2018. Of course, you can also wear these gloves for snowboarding.
+</p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
 
 <amp-img src="https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg" width="2048" height="1360" alt="best ski gloves for 2017 - 2018" layout="responsive"></amp-img>
 <br>
 <!--more-->
 
-## The bes ski gloves of 2017
+## <a name="table">Weight comparison table</a>
 
 <div class="table-responsive">
       <table class="table table-hover table-bordered list_items_2">
@@ -143,6 +154,4 @@ There is also an option from Hestra available - the Hestra Army Leather Heli 3-F
 
 However, you can also just take your main gloves off and operate your camera by just wearing the liner gloves. Once you have taken your picture you just put your main gloves back over the merino liner gloves.
 
----
-
-I hope this blog post was helpful to find the best winter gloves for you.
+<a href="#table" class="btn btn-danger" role="button">Back to the top</a>

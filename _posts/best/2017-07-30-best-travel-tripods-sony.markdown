@@ -10,9 +10,22 @@ tags:
   - tripods
 layout: post
 ---
-In this blog post I want to show you [my selection](#the-best-travel-tripods-for-sony-cameras) of the best light travel tripods which I would consider to buy for my Sony a7.
 
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+<p>
+Here is my <a href="#table">selection</a> of the best light travel tripods which I would consider to buy for my Sony a7.
+</p>
+<p>
 The tripods in this post can also be used on the Sony a9 or a6500 since they share a similar form factor and weight.
+</p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
 
 Also have a quick look on my [Tripod FAQ](#faq) before you buy one. Here you can also see which [tripods I use](#my-own-gear) on my trips or which [camera bags](http://www.hikeventures.com/best-camera-bags-cases) I would recommend. If you are into vlogging then you might also be interested in [this microphone](http://www.hikeventures.com/Sennheiser-MKE600/).
 
@@ -20,7 +33,7 @@ Also have a quick look on my [Tripod FAQ](#faq) before you buy one. Here you can
 <br>
 <!--more-->
 
-## The best travel tripods for Sony cameras
+## <a name="table">Weight comparison table</a>
 
 <div class="table-responsive">
       <table class="table table-hover table-bordered list_items_3">
@@ -183,6 +196,4 @@ I also take the Manfrotto tripod with me if I don’t carry much gear with me or
 
 So what is the best travel tripod? It really depends on the situation and how you are planning to use it.
 
----
-
-I hope this blog post was helpful to find the best travel tripod for your sony camera.
+<a href="#table" class="btn btn-danger" role="button">Back to the top</a>

@@ -10,19 +10,31 @@ tags:
   - flash
 layout: post
 ---
-In this blog post I want to show you [my selection](#the-best-flash-for-sony-cameras) of the best compact flash which I would consider to buy for my Sony a7.
 
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+<p>
+Here is my <a href="#table">selection</a> of the best compact flash which I would consider to buy for a Sony a7,a9 or a6500 camera.
+</p>
+<p>
 The flash in this post can also be used on the Sony a9 or a6500 since they share the same hotshoe. A flash can be useful in various situations, for example to get a more balanced color during daylight or as a controller for other flash lights.
+</p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
 
 In my selection I was also taking price into consideration and selected products which are affordable.
-
-Also have a look on which [camera bags](http://www.hikeventures.com/best-camera-bags-cases) or [travel tripods](http://www.hikeventures.com/best-travel-tripods-sony/) I would recommend with your Sony camera.
 
 <amp-img src="https://farm4.staticflickr.com/3625/13040988355_f0f5951202_k.jpg" width="2048" height="1536" alt="best flash and video lights for Sony a7, a9 or a6500" layout="responsive"></amp-img>
 <br>
 <!--more-->
 
-## The best flash and video lights for Sony cameras
+
+## <a name="table">Weight comparison table</a>
 
 <div class="table-responsive">
       <table class="table table-hover table-bordered list_items_3">
@@ -185,6 +197,4 @@ There is also a hot shoe mount and a 1/4" thread to attach it to a tripod. The L
 
 <a href="http://amzn.to/2hfEoS7" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
----
-
-I hope this blog post was helpful to find the best flash and video light for your sony camera.
+<a href="#table" class="btn btn-danger" role="button">Back to the top</a>

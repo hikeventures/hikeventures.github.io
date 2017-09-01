@@ -13,11 +13,21 @@ tags:
 layout: post
 ---
 
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-9" style="padding-left: 0 !important;">
+<p>
+Here is my <a href="#table">selection</a>of the best merino wool base layers for 2017 - 2018.
+</p>
+<p>
 For our hiking and snowshoeing trip in Northern Norway we were looking for new merino wool base layers (which we can also wear for other outdoor activities like skiing, snowboarding or mountaineering).
-
-So far I have already experience with wearing the Devold Expedition base layer and I am quite happy with it.
-
-Here is my personal <a href="#list">selection</a> of the best merino wool base layers for 2017 - 2018.
+</p>
+</div>
+<div class="col-md-3">
+ <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+</div>
+</div>
+</div>
 
 Also check one of our <a href="#video">packrafting videos</a> where we were wearing base layers to stay warm while paddling 1 week in freezing cold conditions.
 
@@ -41,7 +51,7 @@ Patrick <a href="http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekk
 
 <hr>
 
-<h2 id="list"> The best merino wool base layers for arctic conditions</h2>
+## <a name="table">Weight comparison table</a>
 
 <div class="table-responsive">
 
@@ -145,6 +155,5 @@ The Icebreaker Men's Zone One Sheep Suit is an all-in-one baselayer solution mad
 ## Conclusion
 The base layers above are all possible options if you plan a trip to colder regions. Selecting a base layer depends on the activity you are planning to do. For normal hiking or not that intense activities I would rather take a base layer which has more merino wool in it rather than synthetic fibers. It's also important that the base layer stays next to the skin so it can dry faster if you sweat. The choice is yours.
 
----
 
-I hope this blog post was helpful to find the best merino base layer for your next hiking or backpacking adventure for you.
+<a href="#table" class="btn btn-danger" role="button">Back to the top</a>
