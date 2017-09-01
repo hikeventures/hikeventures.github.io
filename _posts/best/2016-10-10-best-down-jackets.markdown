@@ -16,7 +16,7 @@ layout: post
 <div class="row">
 <div class="col-md-9" style="padding-left: 0 !important;">
 <p>
-In this blog post, I have selected the <a href="#table">best down jackets</a> of 2017 - 2018 which I would consider buying if I were to get a new one for my next <a href="http://www.hikeventures.com/destinations/">backpacking or winter adventure</a>.
+In this blog post, I have <a href="#table">selected</a> the best down jackets of 2017 - 2018 which I would consider buying if I were to get a new one for my next <a href="http://www.hikeventures.com/destinations/">backpacking or winter adventure</a>.
 
 A down jacket is an essential piece of clothes when planning an overnight trip outdoors or during winter time. A down jacket keeps you much warmer compared to a fleece jacket.
 
