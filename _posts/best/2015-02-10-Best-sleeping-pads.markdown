@@ -144,7 +144,7 @@ The Big Agnes Q-Core SLX is an ultralight 3-season sleeping pad for temperatures
 
 The Exped Synmat UL 7 was my go-to sleeping pad for a couple of years, however I have replaced it with the Therm-a-Rest XTherm as it offers a better insulation / weight ratio.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fexped-synmat-ul-7" rel="nofollow" class="btn btn-danger" role="button">See the Big Agnes Q-Core SLX</a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fexped-synmat-ul-7" rel="nofollow" class="btn btn-danger" role="button">See the Exped Synmat UL 7</a>
 
 <hr>
 
