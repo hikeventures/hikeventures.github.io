@@ -130,8 +130,6 @@ It has a 25% increased durability and tear strength and an antimicrobial treatme
 
 The Big Agnes Q-Core SLX is an ultralight 3-season sleeping pad for temperatures down to -9 C. The new double rip-stop improves durability and tear strength by 25%.
 
-<a href="http://amzn.to/2srhDik" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
-
 <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F105158%2Fbig-agnes-q-core-slx-sleeping-pad" rel="nofollow" class="btn btn-danger" role="button">See the Therm-a-Rest EvoLite</a>
 
 <hr>
