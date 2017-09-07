@@ -138,7 +138,7 @@ The Big Agnes Q-Core SLX is an ultralight 3-season sleeping pad for temperatures
 
 <a href="https://www.amazon.com/gp/product/B0047BXBUO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0047BXBUO&linkCode=as2&tag=hikeve-20&linkId=03286004564378e768bb3446d9c72c00" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0047BXBUO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0047BXBUO" width="1" height="1" border="0" alt="Exped Synmat UL 7" style="border:none !important; margin:0px !important;" />
 
-**R-Value**: 3.3
+**R-Value**: 3.3<br>
 **Weight**: 1.8 oz. / 450 grams <br>
 **Fabric**: 20D
 
