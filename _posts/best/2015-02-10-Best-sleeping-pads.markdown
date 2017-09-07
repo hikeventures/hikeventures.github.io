@@ -130,7 +130,7 @@ It has a 25% increased durability and tear strength and an antimicrobial treatme
 
 The Big Agnes Q-Core SLX is an ultralight 3-season sleeping pad for temperatures down to -9 C. The new double rip-stop improves durability and tear strength by 25%.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F105158%2Fbig-agnes-q-core-slx-sleeping-pad" rel="nofollow" class="btn btn-danger" role="button">See the Therm-a-Rest EvoLite</a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F105158%2Fbig-agnes-q-core-slx-sleeping-pad" rel="nofollow" class="btn btn-danger" role="button">See the Big Agnes Q-Core SLX</a>
 
 <hr>
 
@@ -173,7 +173,7 @@ The Klymit Double V features body mapping technology and packs small.
 
 Another light sleeping pad is the Sea to Summit Ultralight which features a more durable fabric than the Therm-aRest Neo Air Xlite while the NeoAir Xlite will give you a better insulation.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F882036%2Fsea-to-summit-ultralight-sleeping-pad" rel="nofollow" class="btn btn-danger" role="button">See the Therm-a-Rest EvoLite</a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F882036%2Fsea-to-summit-ultralight-sleeping-pad" rel="nofollow" class="btn btn-danger" role="button">See the Sea to Summit Ultralight</a>
 
 
 <hr>
@@ -262,7 +262,7 @@ The Therm-a-RestTrail King SV is a self-inflation sleeping pad.
 
 The Trail King SV includes AirFrame construction which alternates foam and air channels and SpeedValve technology for fast inflation and deflation.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F113441%2Ftherm-a-rest-neoair-all-season-sv-sleeping-padhttps%3A%2F%2Fwww.rei.com%2Fproduct%2F113442%2Ftherm-a-rest-trail-king-sv-sleeping-pad" rel="nofollow" class="btn btn-danger" role="button">See the Therm-a-Rest NeoAir XTherm</a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F113441%2Ftherm-a-rest-neoair-all-season-sv-sleeping-padhttps%3A%2F%2Fwww.rei.com%2Fproduct%2F113442%2Ftherm-a-rest-trail-king-sv-sleeping-pad" rel="nofollow" class="btn btn-danger" role="button">See the Therm-a-Rest Trail King SV</a>
 
 <hr>
 
@@ -277,7 +277,7 @@ The Therm-a-Rest Z LITE SOL is a foam sleeping pad which is a safe choice than a
 
 You can also use this pad in combination with an air sleeping pad to get the ultimate in comfort and insulation.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F829826%2Ftherm-a-rest-z-lite-sol-sleeping-pad" rel="nofollow" class="btn btn-danger" role="button">See the Therm-a-Rest NeoAir XTherm</a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F829826%2Ftherm-a-rest-z-lite-sol-sleeping-pad" rel="nofollow" class="btn btn-danger" role="button">See the Therm-a-Rest Z LITE SOL</a>
 
 <hr>
 
