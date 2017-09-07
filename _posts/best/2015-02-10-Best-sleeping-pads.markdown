@@ -295,6 +295,7 @@ You can also use this pad in combination with an air sleeping pad to get the ult
 * Does the pad slip easily in the tent?
 * Does the pad make noise when I sleep on it (ear plugs might help)?
 
+---
 
 ## Conclusion
 
