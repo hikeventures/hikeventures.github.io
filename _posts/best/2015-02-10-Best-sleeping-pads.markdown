@@ -125,6 +125,8 @@ It has a 25% increased durability and tear strength and an antimicrobial treatme
 
 ## Big Agnes Q-Core SLX
 
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01AYPQQFI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AYPQQFI&linkCode=as2&tag=hikeve-20&linkId=b0b4a433c2eaa856d5e0b203b8e1779d"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01AYPQQFI&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01AYPQQFI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 **Weight**: 16.4 oz. / 466 grams <br>
 **R-Value**: 4.5
 
