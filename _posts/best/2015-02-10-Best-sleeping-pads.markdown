@@ -61,10 +61,10 @@ I have received the XTherm from Therm-a-Rest for testing and it’s now my go-to
           <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F881575%2Ftherm-a-rest-neoair-xtherm-sleeping-pad" target="_blank" rel="nofollow">Therm-a-Rest NeoAir XTherm</a></td><td>5.7</td><td>14.4 oz. / 410 grams</td>
         </tr>
  <tr>
-          <td><a href="http://amzn.to/2dBNswR" target="_blank" rel="nofollow">Therm-a-Rest Slacker Hammock Pad</a></td><td>2.1</td><td>15.3 oz. / 435 grams</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Therm-a-Rest-Slacker-Hammock-Pad_10334711_10208_10000001_-1_" target="_blank" rel="nofollow">Therm-a-Rest Slacker Hammock Pad</a></td><td>2.1</td><td>15.3 oz. / 435 grams</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2eIa0OZ" target="_blank" rel="nofollow">Exped Synmat UL 7</a></td><td>3.3</td><td>15.9 oz. / 450 grams</td>
+          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fexped-synmat-ul-7" target="_blank" rel="nofollow">Exped Synmat UL 7</a></td><td>3.3</td><td>15.9 oz. / 450 grams</td>
         </tr>
 <tr>
           <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F105158%2Fbig-agnes-q-core-slx-sleeping-pad" target="_blank" rel="nofollow">Big Agnes Q-Core SLX</a></td><td>4.9</td><td>16.4 oz. / 466 grams</td>
@@ -144,7 +144,7 @@ The Big Agnes Q-Core SLX is an ultralight 3-season sleeping pad for temperatures
 
 The Exped Synmat UL 7 was my go-to sleeping pad for a couple of years, however I have replaced it with the Therm-a-Rest XTherm as it offers a better insulation / weight ratio.
 
-<a href="http://amzn.to/2eIa0OZ" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fexped-synmat-ul-7" rel="nofollow" class="btn btn-danger" role="button">See the Big Agnes Q-Core SLX</a>
 
 <hr>
 
@@ -247,7 +247,7 @@ The Therm-a-Rest NeoAir XTherm is a sleeping pad for late spring, winter or earl
 
 The Therm-a-Rest Slacker Hammock Pad was designed to fit inside a Therm-a-Rest Slacker hammock which incorporates self-inflating foam with air channels to increase warmth and loft.
 
-<a href="http://amzn.to/2sR96mn" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Therm-a-Rest-Slacker-Hammock-Pad_10334711_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Therm-a-Rest NeoAir XTherm</a>
 
 <hr>
 
