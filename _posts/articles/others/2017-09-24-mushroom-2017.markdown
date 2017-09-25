@@ -1,0 +1,14 @@
+---
+title: Autumn in Finland
+description: Autumn in Finland
+date: 2017-09-25 07:04:11
+category: articles
+tags:
+  - articles
+  - finland
+  - mushrooms
+layout: post
+image: https://farm5.staticflickr.com/4444/37428390535_c9c1160293_k.jpg
+---
+
+<amp-img src="https://farm5.staticflickr.com/4444/37428390535_c9c1160293_k.jpg" width="2048" height="1106" layout="responsive" alt="Mushroom Finland"></amp-img>
