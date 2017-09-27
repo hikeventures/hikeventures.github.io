@@ -1,5 +1,5 @@
 ---
-title: Bushcraft Essentials Fire Piston - OutDoor Show 2017 in Friedrichshafen
+title: Bushcraft Essentials Fire Piston - OutDoor Show 2017 Review
 description: Our Interview with Bushcraft Essentials at the OutDoor Show 2017
 date: 2017-09-26 09:14:01
 category: articles
