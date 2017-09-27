@@ -13,7 +13,7 @@ tags:
 layout: post
 ---
 
-Here is our interview with Bushcraft Essentials at the OutDoor Show 2017 in Friedrichshafen about their latest products.
+Bushcraft Essentials shows us the Bushbox XL at the OutDoor Show 2017 in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rgYfBKtylVs"></iframe>
@@ -21,7 +21,7 @@ Here is our interview with Bushcraft Essentials at the OutDoor Show 2017 in Frie
 <br>
 <!--more-->
 
-Okay. I'm showing you the advantages of our largest stove, the Bushbox XL, which is now folded. 
+Okay. I'm showing you the advantages of our largest stove, the Bushbox XL, which is now folded.
 
 To unfold it, you just do this and the stove unfolds automatically, more or less.
 
