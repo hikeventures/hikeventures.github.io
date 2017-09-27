@@ -1,8 +1,7 @@
 ---
-published: false
-title: MSR at the OutDoor Show 2017 in Friedrichshafen
+title: MSR Pocket Rocket 2 - OutDoor Show 2017 Review
 description: Our Interview with MSR at the OutDoor Show 2017
-date: 2017-09-26 09:14:01
+date: 2017-09-26 09:14:02
 category: articles
 tags:
   - articles
@@ -14,7 +13,7 @@ tags:
 layout: post
 ---
 
-Here is our interview with MSR at the OutDoor Show 2017 in Friedrichshafen about their latest products.
+MSR shows us the Pocket Rocket 2 at the OutDoor Show 2017 in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/O0G775InS5Y"></iframe>

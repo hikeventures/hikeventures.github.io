@@ -1,8 +1,7 @@
 ---
-published: false
-title: MSR Trail Mini Solo at the OutDoor Show 2017 Review
+title: MSR Trail Mini Solo at the - OutDoor Show 2017 Review
 description: Our Interview with MSR at the OutDoor Show 2017
-date: 2017-09-26 09:14:01
+date: 2017-09-26 09:14:03
 category: articles
 tags:
   - articles
