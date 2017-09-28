@@ -42,13 +42,13 @@ Here is our interview with Western Mountaineering at the OutDoor Show 2017 in Fr
 **Gary:**	So, I think what sets us apart is the attention to detail that we give to our sleeping bags. It's not like we're growing some super breed of seamstresses in San Jose, but we watch over the things that we do really carefully. That's why we haven't subcontracted out to another country. We want to watch over the production ourselves.
 
 Only two seamstresses would make any given sleeping bag, and they're specialists that are just doing sleeping bags only, down sleeping bags only all year long. So, it's ... That's one.
-The second is that we pot cut all the parts. We just go to extreme lengths to make sure that the bag's going to last a long time.
+The second is that we hot cut all the parts. We just go to extreme lengths to make sure that the bag's going to last a long time.
 
 **Konstantin:**	And what do you think is the long time for a bag.
 
 **Gary:**	I think ... We expect our bags to last in the 30 to 40 year range if they're cared for properly. Really, they could last longer. We've had guides tell us that our bags last eight to ten years, and that's them using it 180 to 200 days a year, so if you extrapolate that over a normal person using it normally, it could conceivably last over 50 years.
 
-So, the reason that we've put all these little details in, the way we pot cut the parts and things. That's to make, hopefully the shell last as long as the down that's in them. We think down can last 60 years plus, easily.
+So, the reason that we've put all these little details in, the way we hot cut the parts and things. That's to make, hopefully the shell last as long as the down that's in them. We think down can last 60 years plus, easily.
 
 **Konstantin:**	What would make it last so long?
 
