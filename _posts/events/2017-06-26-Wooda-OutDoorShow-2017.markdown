@@ -13,7 +13,7 @@ tags:
 layout: post
 ---
 
-Here is our interview with Wooda at the OutDoor Show 2017 in Friedrichshafen.
+Here is our interview with Wildo at the OutDoor Show 2017 in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/43Yt4uvTq2k"></iframe>
