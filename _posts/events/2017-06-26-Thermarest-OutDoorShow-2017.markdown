@@ -22,9 +22,15 @@ Thermarest shows us the Camper Duo, SV Xtherm,  Max Xtherm,  XLite Max, ProLite 
 <!--more-->
 **Konstantin:**	Fine. This is Konstantin from Hike Ventures and I've got Doug from Therm-A-Rest. Can you tell us something about the new products that you're bringing to the market?
 
-**Doug:**	Yes, I would love to. We have several brand new products for 2018, starting off with the Camper Duo right here. This is a two-person luxury sleeping system mattress that has independent adjustment for each user on each side. So if you like your comfort more firm, you can have it firm. If your partner wants a softer set up, they can have it softer. The other benefit, of course, is during the night if you are rolling around, you're not tossing your partner because the pressure is changing from you moving or if you get up, they don't go flat, so the dual chamber aspect and the single top layer that eliminates the valleys is really optimal for couples sleeping.
+**Doug:**	Yes, I would love to. We have several brand new products for 2018, starting off with the Camper Duo right here. This is a two-person luxury sleeping system mattress that has independent adjustment for each user on each side.
 
-The other benefit, of course, with the NeoAir technology is it's very stable, and yet this all packs up into a very packable bag rather than having big, bulky things that you have to store in the car or whatever, so I really think this is a great two-person system. We have actually sheets and sleeping bags that mate with it, so it's a complete sleeping system that you can have from Therm-a-rest.
+So if you like your comfort more firm, you can have it firm. If your partner wants a softer set up, they can have it softer.
+
+The other benefit, of course, is during the night if you are rolling around, you're not tossing your partner because the pressure is changing from you moving or if you get up, they don't go flat, so the dual chamber aspect and the single top layer that eliminates the valleys is really optimal for couples sleeping.
+
+The other benefit, of course, with the NeoAir technology is it's very stable, and yet this all packs up into a very packable bag rather than having big, bulky things that you have to store in the car or whatever, so I really think this is a great two-person system.
+
+We have actually sheets and sleeping bags that mate with it, so it's a complete sleeping system that you can have from Therm-a-rest.
 
 **Konstantin:**	This is actually very nice. Judging by the loft, it's really thick as well.
 
@@ -54,7 +60,9 @@ The other benefit, of course, with the NeoAir technology is it's very stable, an
 
 **Doug:**	Yes. Quiet, stable, it really ticks most of the boxes. And full coverage, so, part of it, you want room to roll around and so forth. Pretty excited, the Neo-Air camper for 2018.
 
-In addition, we have three other mattresses we're introducing. All in our SV line. The new SV Xtherm mats, that's the speed valve feature. We're adding to the Max Xtherm, this is a mattress for extreme temperatures. It has a very high R value. Yet packs really tiny. And then the speed valve makes the inflation and deflation really easy and effortless. With the patented automatic speed valve. Only Therm-A-Rest has the automatic reversing feature in this kind of the design. The whole deflation of the mattress is effortless.
+In addition, we have three other mattresses we're introducing. All in our SV line. The new SV Xtherm mats, that's the speed valve feature. We're adding to the Max Xtherm, this is a mattress for extreme temperatures.
+
+It has a very high R value. Yet packs really tiny. And then the speed valve makes the inflation and deflation really easy and effortless. With the patented automatic speed valve. Only Therm-A-Rest has the automatic reversing feature in this kind of the design. The whole deflation of the mattress is effortless.
 
 **Konstantin:**	And it takes also just a few moments to inflate it.
 
@@ -70,7 +78,9 @@ In addition, we have three other mattresses we're introducing. All in our SV lin
 
 **Konstantin:**	The hot air from the lungs, which is also moist, the sleeping bag will last also a lot longer.
 
-**Doug:**	It lasts a lot longer and in controlled temperatures, air tends to condense. So if you put in hot air, it will feel like you have a leak at night. The reality is, it's just the air condensing. So drawing in the external air in cold conditions is really a benefit. You don't have to get up and inflate it further in the middle of the night.
+**Doug:**	It lasts a lot longer and in controlled temperatures, air tends to condense. So if you put in hot air, it will feel like you have a leak at night. The reality is, it's just the air condensing.
+
+So drawing in the external air in cold conditions is really a benefit. You don't have to get up and inflate it further in the middle of the night.
 
 **Konstantin:**	And it's ... you still have the valve on the side.
 
@@ -86,7 +96,9 @@ In addition, we have three other mattresses we're introducing. All in our SV lin
 
 **Konstantin:**	It's fine tuning, basically.
 
-**Doug:**	Yup. Individual adjustment. Nice feature to have. So we've also added that speed valve technology to our XLite mattress. This is our lightest air mattress we make, our XLite series. This is the XLite Max, it comes with the speed valve and it has also the full coverage max size. You get all the benefits of the speed valve in one of the lightest mattresses we make. Great for backpacking, trekking, wherever you need to take it. Or even travel.
+**Doug:**	Yup. Individual adjustment. Nice feature to have. So we've also added that speed valve technology to our XLite mattress. This is our lightest air mattress we make, our XLite series.
+
+This is the XLite Max, it comes with the speed valve and it has also the full coverage max size. You get all the benefits of the speed valve in one of the lightest mattresses we make. Great for backpacking, trekking, wherever you need to take it. Or even travel.
 
 **Konstantin:**	You say light. How light is it? About 400 something grams, or ...
 
@@ -95,7 +107,9 @@ In addition, we have three other mattresses we're introducing. All in our SV lin
 **Konstantin:**	So it's about 70 grams extra but ...
 
 **Doug:**	Yeah, it's a little bit extra weight, but it's way more convenient and way faster to inflate, deflate.
-And then finally, we have a brand new design of a print, a mountain sunset scene, in one of our most popular mattresses. This is a ProLite Plus, it's been around for about 15 years, the ProLite series, it's probably one of the top selling mattresses of all time from Therm-A-Rest. We have this limited edition beautiful mountain sunset, for people that want something a little more interesting to look at on their mattress.
+And then finally, we have a brand new design of a print, a mountain sunset scene, in one of our most popular mattresses.
+
+This is a ProLite Plus, it's been around for about 15 years, the ProLite series, it's probably one of the top selling mattresses of all time from Therm-A-Rest. We have this limited edition beautiful mountain sunset, for people that want something a little more interesting to look at on their mattress.
 
 **Konstantin:**	Especially if I ... people like I live in the Netherlands, (affirmative) and it's quite flat. (laughter) It's always cloudy, you know, you stay inside a lot and you basically have the sunset.
 
