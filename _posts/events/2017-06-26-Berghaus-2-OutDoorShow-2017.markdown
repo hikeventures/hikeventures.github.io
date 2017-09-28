@@ -1,7 +1,7 @@
 ---
 title: Berghaus GR20 - OutDoor Show 2017 Review
 description: Our Interview with Berghaus at the OutDoor Show 2017
-date: 2017-09-28 10:14:01
+date: 2017-09-28 11:14:01
 category: articles
 tags:
   - articles
