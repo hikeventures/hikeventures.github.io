@@ -1,5 +1,5 @@
 ---
-title: Robens Couloir 750 at the OutDoor Show 2017 in Friedrichshafen
+title: Robens Couloir 750 - OutDoor Show 2017 Review
 description: Our Interview with Robens at the OutDoor Show 2017
 date: 2017-09-28 09:14:01
 category: articles
