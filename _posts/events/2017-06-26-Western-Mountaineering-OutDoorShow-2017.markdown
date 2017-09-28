@@ -1,8 +1,7 @@
 ---
-published: false
 title: Western Mountaineering at the OutDoor Show 2017 in Friedrichshafen
 description: Our Interview with Western Mountaineering at the OutDoor Show 2017
-date: 2017-09-26 09:14:01
+date: 2017-09-28 09:14:01
 category: articles
 tags:
   - articles
