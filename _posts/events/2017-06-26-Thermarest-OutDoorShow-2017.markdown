@@ -66,7 +66,7 @@ It has a very high R value. Yet packs really tiny. And then the speed valve make
 
 **Konstantin:**	And it takes also just a few moments to inflate it.
 
-**Doug:**	Yes. To inflate it all you do is reverse the valve and ... (unrolls mattress) I'll get over here ... So this uses Bernoulli's principle, which has been around for 500 years. And it takes a low pressure air ... a high pressure air, and draws in the low pressure air. (blows in mattress)
+**Doug:**	Yes. To inflate it all you do is reverse the valve and ... I'll get over here ... So this uses Bernoulli's principle, which has been around for 500 years. And it takes a low pressure air ... a high pressure air, and draws in the low pressure air. 
 
 **Konstantin:**	Five breaths and it's full.
 
@@ -88,9 +88,9 @@ So drawing in the external air in cold conditions is really a benefit. You don't
 
 **Konstantin:**	The traditional one.
 
-**Doug:**	That's for individual pressure adjustment when you're lying on the mattress. (affirmative) So we all have this tendency to inflate it very firm, like I did here, but the most comfort is to actually let out a little bit of air for most of us.
+**Doug:**	That's for individual pressure adjustment when you're lying on the mattress. So we all have this tendency to inflate it very firm, like I did here, but the most comfort is to actually let out a little bit of air for most of us.
 
-**Konstantin:**	Definitely works for me because I would like to have a little bit of a (yeah) lower shoulders and the back.
+**Konstantin:**	Definitely works for me because I would like to have a little bit of a lower shoulders and the back.
 
 **Doug:**	And that's what you want to do when you're lying on the actual mattress.
 
@@ -111,6 +111,6 @@ And then finally, we have a brand new design of a print, a mountain sunset scene
 
 This is a ProLite Plus, it's been around for about 15 years, the ProLite series, it's probably one of the top selling mattresses of all time from Therm-A-Rest. We have this limited edition beautiful mountain sunset, for people that want something a little more interesting to look at on their mattress.
 
-**Konstantin:**	Especially if I ... people like I live in the Netherlands, (affirmative) and it's quite flat. (laughter) It's always cloudy, you know, you stay inside a lot and you basically have the sunset.
+**Konstantin:**	Especially if I ... people like I live in the Netherlands, and it's quite flat. It's always cloudy, you know, you stay inside a lot and you basically have the sunset.
 
-**Doug:**	Yeah, if you want to go look at some mountains, you can look at your Therm-A-Rest. (laughter) We bring mountains to you. (laughter)
+**Doug:**	Yeah, if you want to go look at some mountains, you can look at your Therm-A-Rest. We bring mountains to you.
