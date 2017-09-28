@@ -1,5 +1,5 @@
 ---
-title: Wildo at the OutDoor Show 2017 in Friedrichshafen
+title: Wildo  Fold-A-Cup at the OutDoor Show 2017 in Friedrichshafen
 description: Our Interview with Wildo at the OutDoor Show 2017
 date: 2017-09-28 10:14:01
 category: articles
@@ -13,7 +13,7 @@ tags:
 layout: post
 ---
 
-Here is our interview with Wildo at the OutDoor Show 2017 in Friedrichshafen.
+Wildo shows us the  Fold-A-Cup at the OutDoor Show 2017 in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/43Yt4uvTq2k"></iframe>
