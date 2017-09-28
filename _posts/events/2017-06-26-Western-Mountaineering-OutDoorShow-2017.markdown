@@ -104,6 +104,10 @@ We do come out with new products as we ... based on demand from customers and tr
 
 **Konstantin:**	Besides the new products, what would be your top models that you're ...
 
-**Gary:**	So, this model here, the Ultralite, is our best selling model, consistently year after year after year. I think that this bag gets the most usage on like the PCT, for instance. This bag has been ... We've been making this bag for many, many years. It's just ... The warmth to weight ratio is excellent, and it's just super effective, super light bag. We make a wider version of it called the Alpinlite. Most of our line might look like a big line. But, in most cases there's two or three versions that are modeled after another version. We have a wide version of this bag. Yeah. This is the narrow bag. We make a wider version of it. Most of our line has duplicates like that. We might have a Summerlite, which is not as warm as this. Then, we have a wider version of that called the Megalite, things like that. A lot of our bags are duplicates in a wider form.
+**Gary:**	So, this model here, the Ultralite, is our best selling model, consistently year after year after year. I think that this bag gets the most usage on like the PCT, for instance. This bag has been ... We've been making this bag for many, many years. It's just ... The warmth to weight ratio is excellent, and it's just super effective, super light bag.
+
+We make a wider version of it called the Alpinlite. Most of our line might look like a big line. But, in most cases there's two or three versions that are modeled after another version. We have a wide version of this bag. Yeah. This is the narrow bag. We make a wider version of it. Most of our line has duplicates like that.
+
+We might have a Summerlite, which is not as warm as this. Then, we have a wider version of that called the Megalite, things like that. A lot of our bags are duplicates in a wider form.
 
 **Konstantin:**	All right. Well, thank you very much. It was very interesting.
