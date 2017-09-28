@@ -1,7 +1,7 @@
 ---
-title: Morakniv at the OutDoor Show 2017 in Friedrichshafen
+title: Morakniv Rookie, Eldris -  OutDoor Show 2017 Review
 description: Our Interview with Morakniv at the OutDoor Show 2017
-date: 2017-09-26 09:14:01
+date: 2017-09-28 10:14:01
 category: articles
 tags:
   - articles
@@ -13,7 +13,7 @@ tags:
 layout: post
 ---
 
-Here is our interview with Morakniv at the OutDoor Show 2017 in Friedrichshafen about their latest products.
+Morakniv shows us the Rookie and Eldris at the OutDoor Show 2017 in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/C4QK6PrMxIA"></iframe>
