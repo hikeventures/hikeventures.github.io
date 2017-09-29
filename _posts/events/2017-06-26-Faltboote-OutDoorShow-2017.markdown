@@ -1,6 +1,5 @@
 ---
-published: false
-title: Faltboote at the OutDoor Show 2017 in Friedrichshafen
+title: Faltboote - New Products - OutDoor Show 2017 in Friedrichshafen
 description: Our Interview withFaltboote at the OutDoor Show 2017
 date: 2017-09-26 09:14:01
 category: articles

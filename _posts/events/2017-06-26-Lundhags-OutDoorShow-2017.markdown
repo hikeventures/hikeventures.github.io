@@ -1,8 +1,7 @@
 ---
-published: false
 title: New Lundhags Products - OutDoor Show 2017 Review
 description: Our Interview with Lundhags at the OutDoor Show 2017
-date: 2017-09-28 10:16:01
+date: 2017-09-29 06:16:01
 category: articles
 tags:
   - articles
