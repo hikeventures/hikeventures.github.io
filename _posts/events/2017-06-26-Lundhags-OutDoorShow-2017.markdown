@@ -1,5 +1,5 @@
 ---
-title: New Lundhags Products - OutDoor Show 2017 Review
+title: Lundhags Gneik backpack - OutDoor Show 2017 Review
 description: Our Interview with Lundhags at the OutDoor Show 2017
 date: 2017-09-29 06:16:01
 category: articles
@@ -13,7 +13,7 @@ tags:
 layout: post
 ---
 
-Lundhags shows us their latest products at the OutDoor Show 2017 in Friedrichshafen.
+Lundhags shows us their Gneik backpack at the OutDoor Show 2017 in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2fdFhSg9FkE"></iframe>
