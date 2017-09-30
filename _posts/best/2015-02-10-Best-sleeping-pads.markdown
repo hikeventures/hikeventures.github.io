@@ -49,40 +49,40 @@ I have received the XTherm from Therm-a-Rest for testing and it’s now my go-to
         </thead>
         <tbody>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F882036%2Fsea-to-summit-ultralight-sleeping-padhttps%3A%2F%2Fwww.rei.com%2Fproduct%2F881574%2Ftherm-a-rest-neoair-xlite-sleeping-pad" target="_blank" rel="nofollow">Therm-a-Rest NeoAir XLite</a></td><td>3.2</td><td>12.3 oz. / 350 grams</td>
+          <td><a href="http://amzn.to/2xR0D7M" target="_blank" rel="nofollow">Therm-a-Rest NeoAir XLite</a></td><td>3.2</td><td>12.3 oz. / 350 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F882036%2Fsea-to-summit-ultralight-sleeping-pad" target="_blank" rel="nofollow">Sea to Summit Ultralight</a></td><td>0.7</td><td>12.5 oz. / 355 grams</td>
+          <td><a href="http://amzn.to/2x2ixF7" target="_blank" rel="nofollow">Sea to Summit Ultralight</a></td><td>0.7</td><td>12.5 oz. / 355 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F829826%2Ftherm-a-rest-z-lite-sol-sleeping-pad" target="_blank" rel="nofollow">Therm-a-Rest Z LITE SOL</a></td><td>2.6</td><td>14.4 oz. / 410 grams</td>
+          <td><a href="http://amzn.to/2xMMDvf" target="_blank" rel="nofollow">Therm-a-Rest Z LITE SOL</a></td><td>2.6</td><td>14.4 oz. / 410 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F881575%2Ftherm-a-rest-neoair-xtherm-sleeping-pad" target="_blank" rel="nofollow">Therm-a-Rest NeoAir XTherm</a></td><td>5.7</td><td>14.4 oz. / 410 grams</td>
+          <td><a href="http://amzn.to/2x32mre" target="_blank" rel="nofollow">Therm-a-Rest NeoAir XTherm</a></td><td>5.7</td><td>14.4 oz. / 410 grams</td>
         </tr>
  <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Therm-a-Rest-Slacker-Hammock-Pad_10334711_10208_10000001_-1_" target="_blank" rel="nofollow">Therm-a-Rest Slacker Hammock Pad</a></td><td>2.1</td><td>15.3 oz. / 435 grams</td>
+          <td><a href="http://amzn.to/2x4nAVW" target="_blank" rel="nofollow">Therm-a-Rest Slacker Hammock Pad</a></td><td>2.1</td><td>15.3 oz. / 435 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fexped-synmat-ul-7" target="_blank" rel="nofollow">Exped Synmat UL 7</a></td><td>3.3</td><td>15.9 oz. / 450 grams</td>
+          <td><a href="http://amzn.to/2xMRixl" target="_blank" rel="nofollow">Exped Synmat UL 7</a></td><td>3.3</td><td>15.9 oz. / 450 grams</td>
         </tr>
 <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F105158%2Fbig-agnes-q-core-slx-sleeping-pad" target="_blank" rel="nofollow">Big Agnes Q-Core SLX</a></td><td>4.9</td><td>16.4 oz. / 466 grams</td>
+          <td><a href="http://amzn.to/2x3AQd5" target="_blank" rel="nofollow">Big Agnes Q-Core SLX</a></td><td>4.9</td><td>16.4 oz. / 466 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F881555%2Ftherm-a-rest-evolite-sleeping-pad" target="_blank" rel="nofollow">Therm-a-Rest Evolite</a></td><td>2.1</td><td>18.3 oz. / 520 grams</td>
+          <td><a href="http://amzn.to/2yybujW" target="_blank" rel="nofollow">Therm-a-Rest Evolite</a></td><td>2.1</td><td>18.3 oz. / 520 grams</td>
         </tr>
      <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F105156%2Fbig-agnes-air-core-ultra-sleeping-pad" target="_blank" rel="nofollow">Big Agnes Air Core Ultra</a></td><td>1.5</td><td>20 oz. / 566 grams</td>
+          <td><a href="http://amzn.to/2xN35M2" target="_blank" rel="nofollow">Big Agnes Air Core Ultra</a></td><td>1.5</td><td>20 oz. / 566 grams</td>
         </tr>
  <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F105157%2Fbig-agnes-insulated-air-core-ultra-sleeping-pad" target="_blank" rel="nofollow">Big Agnes Insulated Air Core Ultra</a></td><td>4.1</td><td>21.1 oz. / 598 grams</td>
+          <td><a href="http://amzn.to/2yNRF99" target="_blank" rel="nofollow">Big Agnes Insulated Air Core Ultra</a></td><td>4.1</td><td>21.1 oz. / 598 grams</td>
         </tr>
  <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F113441%2Ftherm-a-rest-neoair-all-season-sv-sleeping-pad" target="_blank" rel="nofollow">Therm-a-Rest NeoAir All Season SV</a></td><td>4.9</td><td>22.9 oz. / 650 grams</td>
+          <td><a href="http://amzn.to/2xR0YHA" target="_blank" rel="nofollow">Therm-a-Rest NeoAir All Season SV</a></td><td>4.9</td><td>22.9 oz. / 650 grams</td>
         </tr>
  <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F113441%2Ftherm-a-rest-neoair-all-season-sv-sleeping-padhttps%3A%2F%2Fwww.rei.com%2Fproduct%2F113442%2Ftherm-a-rest-trail-king-sv-sleeping-pad" target="_blank" rel="nofollow">Therm-a-RestTrail King SV</a></td><td>1.8</td><td>29 oz. / 822 grams</td>
+          <td><a href="http://amzn.to/2yNEC7X" target="_blank" rel="nofollow">Therm-a-RestTrail King SV</a></td><td>1.8</td><td>29 oz. / 822 grams</td>
         </tr>
  <tr>
           <td><a href="http://amzn.to/2dBNswR" target="_blank" rel="nofollow">Klymit Double V</a></td><td>1.3</td><td>40.6 oz. / 1150 grams</td>

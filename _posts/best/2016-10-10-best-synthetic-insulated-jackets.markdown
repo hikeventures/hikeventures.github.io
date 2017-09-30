@@ -48,45 +48,45 @@ On our snowshoeing trip in [Finnish Lapland](http://www.hikeventures.com/snowsho
         </thead>
         <tbody>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F117169%2Farcteryx-cerium-lt-down-hoodie-mens" target="_blank" rel="nofollow">Arc'teryx Cerium LT Hoody</a></td><td>295 grams / 10.4 oz.</td>
+          <td><a href="http://amzn.to/2x3LPyA" target="_blank" rel="nofollow">Arc'teryx Cerium LT Hoody</a></td><td>295 grams / 10.4 oz.</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Outdoor-Research-Men-s-Deviator-Hoody_10271286_10208_10000001_-1_" target="_blank" rel="nofollow">Outdoor Research Deviator Hoody</a></td><td>11.3 oz. / 321 grams</td>
+          <td><a href="http://amzn.to/2x3Y1z7" target="_blank" rel="nofollow">Outdoor Research Deviator Hoody</a></td><td>11.3 oz. / 321 grams</td>
         </tr>
         <tr>
           <td><a href="http://amzn.to/2iAqRAw" target="_blank" rel="nofollow">Black Diamond Access Hoody</a></td><td>11.6 oz. / 330 grams</td>
         </tr>
 
  <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmontane-halogen-alpha-jacket-mens" target="_blank" rel="nofollow">Montane Halogen Alpha Jacket</a></td><td>12.4 oz. / 351 grams</td>
+          <td><a href="http://amzn.to/2yN56q6" target="_blank" rel="nofollow">Montane Halogen Alpha Jacket</a></td><td>12.4 oz. / 351 grams</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F101703%2Foutdoor-research-cathode-hooded-jacket-mens" target="_blank" rel="nofollow">Outdoor Research Cathode Hooded Jacket</a></td><td> 13.4 oz / 379 grams </td>
+          <td><a href="http://amzn.to/2fAauUR" target="_blank" rel="nofollow">Outdoor Research Cathode Hooded Jacket</a></td><td> 13.4 oz / 379 grams </td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Arcteryx-Men-s-Proton-AR-Hoody_10313423_10208_10000001_-1_" target="_blank" rel="nofollow">Arc'teryx Proton AR Hoody</a></td><td>15 oz. / 425 grams</td>
+          <td><a href="http://amzn.to/2xJSHmq" target="_blank" rel="nofollow">Arc'teryx Proton AR Hoody</a></td><td>15 oz. / 425 grams</td>
         </tr>
       <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F112543%2Fmontane-fusion-alpha-jacket-mens" target="_blank" rel="nofollow">Montane Fusion Alpha Jacket</a></td><td>15.1 oz. / 427 grams</td>
+          <td><a href="http://amzn.to/2x3RrbY" target="_blank" rel="nofollow">Montane Fusion Alpha Jacket</a></td><td>15.1 oz. / 427 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Farcteryx-nuclei-ar-insulated-jacket-mens" target="_blank" rel="nofollow">Arc'teryx Nuclei AR Jacket</a></td><td>16.2 oz. / 460 grams</td>
+          <td><a href="http://amzn.to/2yObwVP" target="_blank" rel="nofollow">Arc'teryx Nuclei AR Jacket</a></td><td>16.2 oz. / 460 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Foutdoor-research-uberlayer-insulated-hooded-jacket-mens" target="_blank" rel="nofollow">Outdoor Research Uberlayer Hooded Jacket</a></td><td>19.9 oz. / 563 grams </td>
+          <td><a href="http://amzn.to/2x3xabe" target="_blank" rel="nofollow">Outdoor Research Uberlayer Hooded Jacket</a></td><td>19.9 oz. / 563 grams </td>
         </tr>
         <tr>
-            <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-nebula-insulated-jacket-mens" target="_blank" rel="nofollow">Rab Nebula Jacket</a></td><td>20.5 oz. / 580 grams</td>
+            <td><a href="http://amzn.to/2x4dKyl" target="_blank" rel="nofollow">Rab Nebula Jacket</a></td><td>20.5 oz. / 580 grams</td>
           </tr>
           <tr>
-                    <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmountain-equipment-fitzroy-insulated-jacket-mens" target="_blank" rel="nofollow">Mountain Equipment Fitzroy Jacket</a></td><td>23 oz. / 645 grams</td>
+                    <td><a href="http://amzn.to/2yey314" target="_blank" rel="nofollow">Mountain Equipment Fitzroy Jacket</a></td><td>23 oz. / 645 grams</td>
           </tr>
           <tr>
-                    <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Rab-Men-s-Photon-X-Jacket_10347062_10208_10000001_-1_" target="_blank" rel="nofollow">Rab Photon X Jacket</a></td><td>24 oz. / 670 grams </td>
+                    <td><a href="http://amzn.to/2x4s5L1" target="_blank" rel="nofollow">Rab Photon X Jacket</a></td><td>24 oz. / 670 grams </td>
           </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Arcteryx-Men-s-Fission-SV-Jacket_10251240_10208_10000001_-1_" target="_blank" rel="nofollow">Arc'teryx Fission SV Jacket</a></td><td>33 oz. / 935 grams</td>
+          <td><a href="http://amzn.to/2x4eByU" target="_blank" rel="nofollow">Arc'teryx Fission SV Jacket</a></td><td>33 oz. / 935 grams</td>
         </tr>
         </tbody>
       </table>
@@ -103,7 +103,8 @@ The Arc'teryx Cerium LT Hoody is not a pure synthetic insulated jacket and repla
 
 With 295 grams it's the lightest jacket in our list. This jacket is useful for active people, but you may rather pick a different jacket if you are planning to visit a very wet or humid place.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F117169%2Farcteryx-cerium-lt-down-hoodie-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arc'teryx Cerium LT Hoody</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F117255%2Farcteryx-cerium-lt-down-hoodie-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Arc'teryx Cerium LT Hoody</a>
+<a href="http://amzn.to/2x3LPyA" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 
 <hr>
 
@@ -117,7 +118,7 @@ The Arc'teryx Fission SV Jacket is a waterproof, insulated jacket with Coreloft�
 
 This jacket is the warmest synthetic insulated all-mountain jacket in Arc'teryx product range which is also waterproof while still breathable.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Arcteryx-Men-s-Fission-SV-Jacket_10251240_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arc'teryx Fission SV Jacket</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F856106%2Farcteryx-fission-sv-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Arc'teryx Fission SV Jacket</a>
+<a href="http://amzn.to/2x4eByU" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -133,7 +134,7 @@ The jacket is designed with an articulated patterning which increases ergonomic 
 
 Moreover, the jacket comes with a helmet-compatible insulated StormHood™ which does not impact your vision.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Farcteryx-nuclei-ar-insulated-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arc'teryx Nuclei AR Jacket</a>
+<a href="http://amzn.to/2yObwVP" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -149,7 +150,7 @@ You can wear the jacket either as a soft shell or as a mid-layer under a waterpr
 
 The jacket has a trim fit design and an insulated adjustable hood which is helmet compatible.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Arcteryx-Men-s-Proton-AR-Hoody_10313423_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arc'teryx Proton AR Hoody</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F103123%2Farcteryx-proton-ar-insulated-hoodie-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Arc'teryx Proton AR Hoody</a>
+<a href="http://amzn.to/2xJSHmq" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
 
@@ -161,7 +162,7 @@ The jacket has a trim fit design and an insulated adjustable hood which is helme
 
 The Montane Fusion Alpha jacket has been developed by using thermal imaging data and has been designed for alpinists.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F112543%2Fmontane-fusion-alpha-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Montane Fusion Alpha Jacket</a>
+<a href="http://amzn.to/2x4reiA" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -173,7 +174,7 @@ The Montane Fusion Alpha jacket has been developed by using thermal imaging data
 
 The Montane Halogen Alpha Jacket has been designed for stop-start activities in the mountains. The jacket is made of Polartec Alpha.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmontane-halogen-alpha-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Montane Halogen Alpha Jacket</a>
+<a href="http://amzn.to/2yN56q6" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -187,7 +188,7 @@ The Mountain Equipment Fitzroy Jacket is a wind and water resistant jacket fille
 
 It also comes with an insulated hood with wired visor. The Mountain Equipment Fitzroy Jacket is currently my go-to insulated jacket which I was wearing in the [Scottish Highlands](http://www.hikeventures.com/Packrafting-River-Dee-Scotland-1/).
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmountain-equipment-fitzroy-insulated-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Mountain Equipment Fitzroy Jacket</a>
+<a href="http://amzn.to/2yey314" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -201,7 +202,7 @@ The Outdoor Research Cathode Hooded Jacket comes with an insulated hood and is f
 
 The jacket is an excellent choice for cold and wet alpine environments and those looking for a lightweight and breathable solution.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F101703%2Foutdoor-research-cathode-hooded-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Outdoor Research Cathode</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F113291%2Foutdoor-research-cathode-hooded-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Outdoor Research Cathode</a>
+<a href="http://amzn.to/2fAauUR" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
 
@@ -213,7 +214,7 @@ The jacket is an excellent choice for cold and wet alpine environments and those
 
 The Outdoor Research Uberlayer Jacket is made of Polartec Alpha and is an excellent choice for ski tours or climbing. It offers breathability and dries quickly.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Foutdoor-research-uberlayer-insulated-hooded-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See Men's the Outdoor Research Uberlayer Hooded Jacket</a>
+<a href="http://amzn.to/2x3xabe" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
 
@@ -225,7 +226,7 @@ The Outdoor Research Uberlayer Jacket is made of Polartec Alpha and is an excell
 
 The Outdoor Research Deviator Hoody is made of Polartec Alpha insulation and has been designed for active pursuits to stay dry and warm. The hood is made of Polartec Power Grid.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Outdoor-Research-Men-s-Deviator-Hoody_10271286_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Men's Outdoor Research Deviator Hoody</a>
+<a href="http://amzn.to/2x3Y1z7" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
 
@@ -241,7 +242,7 @@ The jacket is designed as an all-rounder which is perfect for climbing and winte
 
 The jacket has a helmet compatible hood for climbing use and a Pertex Endurance® shell to make the jacket water resistant.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-nebula-insulated-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Rab Nebula Jacket</a>
+<a href="http://amzn.to/2x4dKyl" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -255,9 +256,7 @@ The Rab Photon X Jacket is a water-resistant winter jacket filled with Primaloft
 
 The jacket features zoned synthetic insulation to eliminate cold spots and is reinforced in key areas. The jacket also comes with a helmet-compatible hood.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Rab-Men-s-Photon-X-Jacket_10347062_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Men's Rab Photon X Jacket</a>
-
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<a href="http://amzn.to/2x4s5L1" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ## Our interview with the North Face
 

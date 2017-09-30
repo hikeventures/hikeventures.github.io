@@ -51,39 +51,39 @@ Also, have a look at our [FAQ on tents](#faq-on-tents) or our handy [price compa
           <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fhyperlite-mountain-gear-ultamid-2" target="_blank" rel="nofollow">Hyperlite Mountain Gear UltaMid 2</a></td><td>1 lbs. 1 oz. / 499 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F117909%2Fbig-agnes-fly-creek-ul-mtnglo-tent" target="_blank" rel="nofollow">Big Agnes Fly Creek HV UL1</a></td><td>2 lbs. 9 oz. / 0.93 kg</td>
+          <td><a href="http://amzn.to/2yyYZop" target="_blank" rel="nofollow">Big Agnes Fly Creek HV UL1</a></td><td>2 lbs. 9 oz. / 0.93 kg</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F117892%2Fbig-agnes-copper-spur-ul-1-tent" target="_blank" rel="nofollow">Big Agnes
+          <td><a href="http://amzn.to/2xIH2V1" target="_blank" rel="nofollow">Big Agnes
 Copper Spur UL 1</a></td><td>2 lbs. 3 oz. / 0.98 kg</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Enan-1-Person-Tent_10338612_10208_10000001_-1" target="_blank" rel="nofollow">Hilleberg Enan</a></td><td>2 lbs. 6 oz. / 1.1 kg</td>
+          <td><a href="http://amzn.to/2yf1dx3" target="_blank" rel="nofollow">Hilleberg Enan</a></td><td>2 lbs. 6 oz. / 1.1 kg</td>
         </tr>
           <tr>
-            <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F863076%2Fmsr-hubba-hubba-nx-2-person-tent" target="_blank" rel="nofollow">MSR Hubba NX</a></td><td>2 lbs. 14 oz. / 1.3 kg</td>
+            <td><a href="http://amzn.to/2yfvZ9a" target="_blank" rel="nofollow">MSR Hubba NX</a></td><td>2 lbs. 14 oz. / 1.3 kg</td>
           </tr>
           <tr>
-            <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F116086%2Fmarmot-force-1p-tent" target="_blank" rel="nofollow">Marmot Force 1P</a></td><td>2 lbs. 14 oz. / 1.3 kg</td>
+            <td><a href="http://amzn.to/2x4dCij" target="_blank" rel="nofollow">Marmot Force 1P</a></td><td>2 lbs. 14 oz. / 1.3 kg</td>
           </tr>
           <tr>
-            <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F112551%2Fmsr-access-1-tent" target="_blank" rel="nofollow">MSR Access 1</a></td><td>3 lbs. 8 oz. / 1.6 kg</td>
+            <td><a href="http://amzn.to/2yz854v" target="_blank" rel="nofollow">MSR Access 1</a></td><td>3 lbs. 8 oz. / 1.6 kg</td>
           </tr>
 
           <tr>
             <td><a href="http://amzn.to/2euL9cG" target="_blank" rel="nofollow">Hilleberg Akto</a></td><td>3 lbs. 11 oz. / 1.7 kg</td>
           </tr>
           <tr>
-            <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Niak-2-Person-Tent_10338618_10208_10000001_-1" target="_blank" rel="nofollow">Hilleberg Niak</a></td><td>3 lbs. 11 oz. / 1.7 kg</td>
+            <td><a href="http://amzn.to/2xJvJMz" target="_blank" rel="nofollow">Hilleberg Niak</a></td><td>3 lbs. 11 oz. / 1.7 kg</td>
           </tr>
           <tr>
-            <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Unna-1-Person-Tent_10101489_10208_10000001_-1_" target="_blank" rel="nofollow">Hilleberg Unna</a></td><td>4 lbs. 13 oz. / 2.2 kg</td>
+            <td><a href="http://amzn.to/2x4pQr0" target="_blank" rel="nofollow">Hilleberg Unna</a></td><td>4 lbs. 13 oz. / 2.2 kg</td>
           </tr>
           <tr>
-            <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Soulo-1-Person-Tent_10101479_10208_10000001_-1" target="_blank" rel="nofollow">Hilleberg Soulo</a></td><td>5 lbs. 4 oz. / 2.4 kg</td>
+            <td><a href="http://amzn.to/2xN983k" target="_blank" rel="nofollow">Hilleberg Soulo</a></td><td>5 lbs. 4 oz. / 2.4 kg</td>
           </tr>
           <tr>
-            <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Enan-1-Person-Tent_10338612_10208_10000001_-1_" target="_blank" rel="nofollow">Hilleberg Nallo</a></td><td>5 lbs. 4 oz. / 2.4 kg</td>
+            <td><a href="http://amzn.to/2xN9CX8" target="_blank" rel="nofollow">Hilleberg Nallo</a></td><td>5 lbs. 4 oz. / 2.4 kg</td>
           </tr>
 </tbody>
 </table>

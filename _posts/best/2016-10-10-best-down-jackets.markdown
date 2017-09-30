@@ -53,37 +53,37 @@ Also, have a look at our [FAQ on down jackets](#faq-on-down-jackets).
         </thead>
         <tbody>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F880675%2Fmountain-hardwear-ghost-whisperer-hooded-down-jacket-mens" target="_blank" rel="nofollow">Mountain Hardware Ghost Whisperer Hooded Down Jacket (800-fill)</a></td><td>7.5 oz. / 212 grams</td>
+          <td><a href="http://amzn.to/2x2gQrn" target="_blank" rel="nofollow">Mountain Hardware Ghost Whisperer Hooded Down Jacket (800-fill)</a></td><td>7.5 oz. / 212 grams</td>
         </tr>
        <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https:%2F%2Fwww.rei.com%2Fproduct%2F117169%2Farcteryx-cerium-lt-down-hoodie-mens" target="_blank" rel="nofollow">Arcteryx Cerium LT Hoody (850-fill)</a></td><td>9.7 oz. / 275 grams</td>
+          <td><a href="http://amzn.to/2x3ri1S" target="_blank" rel="nofollow">Arcteryx Cerium LT Hoody (850-fill)</a></td><td>9.7 oz. / 275 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F885089%2Fpatagonia-ultralight-down-hoodie-mens" target="_blank" rel="nofollow">Patagonia Ultralight Down Hoodie (800-fill)</a></td><td>10.5 oz. / 298 grams</td>
+          <td><a href="http://amzn.to/2fyMvFX" target="_blank" rel="nofollow">Patagonia Ultralight Down Hoodie (800-fill)</a></td><td>10.5 oz. / 298 grams</td>
         </tr>
        <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-zero-g-jacket-mens" target="_blank" rel="nofollow">Rab Zero G (1000 fill)</a></td><td>11 oz. / 310 grams</td>
+          <td><a href="http://amzn.to/2xN8VwP" target="_blank" rel="nofollow">Rab Zero G (1000 fill)</a></td><td>11 oz. / 310 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F116458%2Fmarmot-quasar-hoodie-mens" target="_blank" rel="nofollow">Marmot Quasar Hoody (850-fill)</a></td><td>13.1 oz. / 372 grams</td>
+          <td><a href="http://amzn.to/2yfCetq" target="_blank" rel="nofollow">Marmot Quasar Hoody (850-fill)</a></td><td>13.1 oz. / 372 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F117170%2Farcteryx-cerium-sv-down-hoodie-mens" target="_blank" rel="nofollow">Arcteryx Cerium SV Hoody (850-fill)</a></td><td>15.5 oz. / 440 grams</td>
+          <td><a href="http://amzn.to/2xMTnta" target="_blank" rel="nofollow">Arcteryx Cerium SV Hoody (850-fill)</a></td><td>15.5 oz. / 440 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-infinity-endurance-down-jacket-mens" target="_blank" rel="nofollow">Rab Infinity Endurance Jacket (850-fill)</a></td><td>20.5 oz. / 575 grams</td>
+          <td><a href="http://amzn.to/2yeSfzF" target="_blank" rel="nofollow">Rab Infinity Endurance Jacket (850-fill)</a></td><td>20.5 oz. / 575 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F853045%2Fmarmot-guides-down-hoodie-jacket-mens" target="_blank" rel="nofollow">Marmot Guides Down Hoodie (700-fill)</a></td><td>23 oz. /  652 grams</td>
+          <td><a href="http://amzn.to/2xNa8nM" target="_blank" rel="nofollow">Marmot Guides Down Hoodie (700-fill)</a></td><td>23 oz. /  652 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-positron-down-jacket-mens" target="_blank" rel="nofollow">Rab Positron Jacket (800-fill)</a></td><td>25.4 oz. / 720 grams</td>
+          <td><a href="http://amzn.to/2yeRWVx" target="_blank" rel="nofollow">Rab Positron Jacket (800-fill)</a></td><td>25.4 oz. / 720 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F102814%2Farcteryx-ceres-sv-down-parka-mens" target="_blank" rel="nofollow">Arc'teryx Ceres SV Parka (850-fill)</a></td><td>31 oz. / 880 grams</td>
+          <td><a href="http://amzn.to/2x3LPyA" target="_blank" rel="nofollow">Arc'teryx Ceres SV Parka (850-fill)</a></td><td>31 oz. / 880 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fcanada-goose-expedition-down-parka-mens" target="_blank" rel="nofollow">Canada Goose Expedition Parka (625-fill)</a></td><td>73 oz. / 2070 grams</td>
+          <td><a href="http://amzn.to/2xRm74r" target="_blank" rel="nofollow">Canada Goose Expedition Parka (625-fill)</a></td><td>73 oz. / 2070 grams</td>
         </tr>
         </tbody>
       </table>

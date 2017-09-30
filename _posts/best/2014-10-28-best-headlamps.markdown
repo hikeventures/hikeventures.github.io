@@ -51,35 +51,35 @@ On [our winter camping trip](http://www.hikeventures.com/winter-camping-alta/) i
         </thead>
         <tbody>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F109951%2Fpetzl-elite-headlamp" target="_blank" rel="nofollow">Petzl E+LITE</a></td><td>0.95 oz. / 27 grams</td><td>26</td>
+          <td><a href="http://amzn.to/2kcnTb6" target="_blank" rel="nofollow">Petzl E+LITE</a></td><td>0.95 oz. / 27 grams</td><td>26</td>
         </tr>
         <tr>
           <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F109951%2Fpetzl-elite-headlamp" rel="nofollow" target="_blank">Petzl Bindi</a></td><td>1.2 oz. / 35 grams</td><td>200</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F109806%2Fprinceton-tec-axis-headlamp" target="_blank" rel="nofollow">Princeton Tec Axis</a></td><td>2.9 oz. / 83 grams</td><td>250</td>
+          <td><a href="http://amzn.to/2yOEnsW" target="_blank" rel="nofollow">Princeton Tec Axis</a></td><td>2.9 oz. / 83 grams</td><td>250</td>
         </tr>
             <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F109952%2Fpetzl-actik-headlamp" target="_blank" rel="nofollow">Petzl Actic</a></td><td>3.2 oz. / 90 grams</td><td>200</td>
+          <td><a href="http://amzn.to/2fyOdH3" target="_blank" rel="nofollow">Petzl Actic</a></td><td>3.2 oz. / 90 grams</td><td>200</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F890322%2Fblack-diamond-spot-headlamp-2016" target="_blank" rel="nofollow">Black Diamond Spot</a></td><td>
+          <td><a href="http://amzn.to/2yfDvkl" target="_blank" rel="nofollow">Black Diamond Spot</a></td><td>
 3.2 oz. / 90 grams</td><td>200</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F117628%2Fblack-diamond-storm-headlamp" target="_blank" rel="nofollow">Black Diamond Storm</a></td><td>3.9 oz. / 110 grams</td><td>250</td>
+          <td><a href="http://amzn.to/2k8IJrE" target="_blank" rel="nofollow">Black Diamond Storm</a></td><td>3.9 oz. / 110 grams</td><td>250</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F107938%2Fpetzl-reactik-headlamp" target="_blank" rel="nofollow">Petzl Reactik+ Headlamp</a></td><td>4 oz. / 115 grams</td><td>300</td>
+          <td><a href="http://amzn.to/2yNrEH8" target="_blank" rel="nofollow">Petzl Reactik+</a></td><td>4 oz. / 115 grams</td><td>300</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F117717%2Fpetzl-tikka-xp-headlamp" target="_blank" rel="nofollow">Petzl Tikka XP</a></td><td>4.2 oz. / 119 grams</td><td>180</td>
+          <td><a href="http://amzn.to/2yyHzIy" target="_blank" rel="nofollow">Petzl Tikka XP</a></td><td>4.2 oz. / 119 grams</td><td>180</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F109574%2Fpetzl-nao-headlamp" target="_blank" rel="nofollow">Petzl Nao+</a></td><td>6.5 oz. /185 grams</td><td>750</td>
+          <td><a href="http://amzn.to/2x2f1L3" target="_blank" rel="nofollow">Petzl Nao+</a></td><td>6.5 oz. /185 grams</td><td>750</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F107916%2Fblack-diamond-icon-headlamp" target="_blank" rel="nofollow">Black Diamond Icon</a></td><td>8.1 oz. / 230 grams</td><td>500</td>
+          <td><a href="http://amzn.to/2xMpDwf" target="_blank" rel="nofollow">Black Diamond Icon</a></td><td>8.1 oz. / 230 grams</td><td>500</td>
         </tr>
         </tbody>
       </table>

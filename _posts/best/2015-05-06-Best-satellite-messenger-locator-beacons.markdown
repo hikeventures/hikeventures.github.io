@@ -47,16 +47,16 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
         </thead>
         <tbody>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F860469%2Fspot-gen3-satellite-gps-messenger" target="_blank" rel="nofollow">SPOT Gen3</a></td><td>114g</td><td>no</td>
+          <td><a href="http://amzn.to/2xIPBPG" target="_blank" rel="nofollow">SPOT Gen3</a></td><td>114g</td><td>no</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F843146%2Facr-electronics-resqlink-gps-personal-locator-beacon" target="_blank" rel="nofollow">ACR ResQlink+</a></td><td>153g</td><td>no</td>
+          <td><a href="http://amzn.to/2xJdWVq" target="_blank" rel="nofollow">ACR ResQlink+</a></td><td>153g</td><td>no</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F119864%2Fgarmin-inreach-se-2-way-satellite-communicator" target="_blank" rel="nofollow">Garmin InReach SE+</a></td><td>190g</td><td>no</td>
+          <td><a href="http://amzn.to/2x3LO2w" target="_blank" rel="nofollow">Garmin InReach SE+</a></td><td>190g</td><td>no</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F119863%2Fgarmin-inreach-explorer-satellite-communicator" target="_blank" rel="nofollow">Garmin InReach Explorer+</a></td><td>213g</td><td>yes</td>
+          <td><a href="http://amzn.to/2xRlOGP" target="_blank" rel="nofollow">Garmin InReach Explorer+</a></td><td>213g</td><td>yes</td>
         </tr>
       </tbody>
       </table>
