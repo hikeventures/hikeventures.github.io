@@ -107,7 +107,9 @@ On nice weather, you can just sleep inside the mesh body and leave the outer ten
 
 The ventilation of this tent consists of the inner mesh tent and a roof vent.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F117892%2Fbig-agnes-copper-spur-ul-1-tent" rel="nofollow" class="btn btn-danger" role="button">See the Big Agnes Copper Spur UL 1</a>
+
+
+<a href="http://amzn.to/2xIH2V1" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -129,7 +131,8 @@ Further, there are three interior mesh pockets and storm flaps on the vestibule 
 
 The height of the tent also allows you to sit in it over an extended period.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F117909%2Fbig-agnes-fly-creek-ul-mtnglo-tent" rel="nofollow" class="btn btn-danger" role="button">See the Big Agnes Fly Creek HV UL1</a>
+<a href="http://amzn.to/2yyYZop" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 
 <hr>
 
@@ -151,7 +154,8 @@ However, condensation might be an issue with this tent which is, of course, not 
 
 If you are tall, then a longer tent would be a better option. The issue with shorter tents is that your sleeping bag might touch the tent walls during the night and gets wet and results in less down insulation.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Akto-1-Person-Tent_10101417_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Hilleberg Akto</a>
+<a href="http://amzn.to/2x3NBEx" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 
 <hr>
 
@@ -171,7 +175,8 @@ This type of tent is suitable for a fast pack and go. If you are more into base 
 
 The Enan has a mesh on one end which should provide excellent ventilation if pitched in wind direction.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Enan-1-Person-Tent_10338612_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Hilleberg Enan</a>
+<a href="http://amzn.to/2yf1dx3" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 
 <hr>
 
@@ -192,7 +197,8 @@ Even so the Nallo is advertised as a two person tent I would rather use it as a 
 
 The tent walls extent to the ground and the lower portion of th rear outer wall can be rolled up for additional venting. You can replace the inner tent with the Mesh Inner tent for even better air circulation.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Nallo-2-Person-Tent_10101453_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Hilleberg Nallo</a>
+<a href="http://amzn.to/2xN9CX8" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 
 <hr>
 
@@ -214,7 +220,7 @@ The Hilleberg Niak 1.5 is more a 1-person rather than a 2-person tent and comes 
 
 If you need a spacious, lightweight 3-season tent, then the Hilleberg Niak could be the right choice.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Niak-2-Person-Tent_10338618_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Hilleberg Niak</a>
+<a href="http://amzn.to/2xJvJMz" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -236,7 +242,8 @@ This tent could be, like the Unna, useful for sea kayaking or mountaineering as 
 
 It’s a bit heavier and shorter than the Unna. I am 71 inches (180 cm) tall and chose the Unna over the Soulo since I felt that it was too short.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Soulo-1-Person-Tent_10101479_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Hilleberg Soulo</a>
+<a href="http://amzn.to/2xN983k" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 
 <hr>
 
@@ -258,7 +265,8 @@ One of the great features of this tent is it's big panorama window.
 
 During the warmer months you can also replace the standard inner tent with the [Unna Inner Mesh](http://www.hikeventures.com/Hilleberg-Unna-Mesh/) which offers better ventilation.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Hilleberg-Unna-1-Person-Tent_10101489_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Hilleberg Unna</a>
+<a href="http://amzn.to/2x4pQr0" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 
 <hr>
 
@@ -297,7 +305,7 @@ The Marmot Force 1P is a freestanding 3-season tent which offers a great weight 
 
 The tent comes with DAC NFL poles, and it's height makes it also possible to sit in it.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F116086%2Fmarmot-force-1p-tent" rel="nofollow" class="btn btn-danger" role="button">See the Marmot Force UL 2P</a>
+<a href="http://amzn.to/2x4dCij" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -320,7 +328,8 @@ The tent is advertised as being warmer than a 3-season tent even so it is lighte
 
 The tent offers lots of space which can also accommodate your bulky gear.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F112551%2Fmsr-access-1-tent" rel="nofollow" class="btn btn-danger" role="button">See the MSR Access 1</a>
+<a href="http://amzn.to/2yz854v" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 
 <hr>
 
@@ -339,7 +348,8 @@ The MSR Hubba NX is a lightweight, freestanding 3-season tent and costs much les
 
 One advantage of this tent is that it's also possible to sit in it. You probably won't feel that constrained as you would do with other ultralight solo tents.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F863076%2Fmsr-hubba-hubba-nx-2-person-tent" rel="nofollow" class="btn btn-danger" role="button">See the MSR Hubba NX</a>
+<a href="http://amzn.to/2yfvZ9a" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 
 <hr>
 
@@ -356,7 +366,8 @@ One advantage of this tent is that it's also possible to sit in it. You probably
 
 The North Face Stormbreak 1 is an affordable easy-pitch 3-season tent which features and fully seam-taped canopy and floow and a high / low ventilation.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F879885%2Fthe-north-face-stormbreak-1-tent" rel="nofollow" class="btn btn-danger" role="button">See the North Face Stormbreak 1</a>
+<a href="http://amzn.to/2fz7ete" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 
 ---
 
@@ -370,7 +381,8 @@ The MPOWERD Luci Outdoor is probably one of the best products you can take on yo
 
 You charge the lamp during your hike. Once it gets dark, you inflate Luci, and you have plenty of light. Read also our review.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F100705%2Fmpowerd-luci-original-inflatable-solar-lantern" rel="nofollow" class="btn btn-danger" role="button">See the MPOWERD Luci</a>
+<a href="http://amzn.to/2xMDpis" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 
 <hr>
 
@@ -380,7 +392,7 @@ You charge the lamp during your hike. Once it gets dark, you inflate Luci, and y
 
 The MSR Carbon Stake Kit is one of my favorite accessories. You can save quite some weight with those pegs as each of them weights only 6 grams.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F831460%2Fmsr-carbon-core-tent-stakes-4-pack" rel="nofollow" class="btn btn-danger" role="button">See the MSR Carbon Stake Kit</a>
+<a href="http://amzn.to/2xJENAS" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -392,7 +404,8 @@ Usually, I stuff my tent into a compression sack to get more space in my backpac
 
 The Sea to Summit Ultra-Sil eVENT Compression Dry Sack is currently my favorite compression sack.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F867058%2Fsea-to-summit-ultra-sil-compression-dry-sack" rel="nofollow" class="btn btn-danger" role="button">See the Sea to Summit Dry Sack</a>
+<a href="http://amzn.to/2yf9Vvi" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 
 <hr>
 

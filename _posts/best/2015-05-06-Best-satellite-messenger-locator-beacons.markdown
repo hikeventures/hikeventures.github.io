@@ -73,7 +73,8 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 * Buoyant
 * No messaging
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F843146%2Facr-electronics-resqlink-gps-personal-locator-beacon" rel="nofollow" class="btn btn-danger" role="button">See the ACR ResQlink+ 406</a>
+<a href="http://amzn.to/2xJdWVq" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 
 <hr>
 
@@ -87,7 +88,8 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 * Preloaded DeLorme TOPO maps with onscreen GPS routing plus
 * 2GB storage for maps
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F119863%2Fgarmin-inreach-explorer-satellite-communicator" rel="nofollow" class="btn btn-danger" role="button">See the Garmin InReach Explorer+</a>
+<a href="http://amzn.to/2xRlOGP" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 
 <hr>
 
@@ -109,7 +111,8 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 * Message size: 160 characters
 * Waypoints
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F119864%2Fgarmin-inreach-se-2-way-satellite-communicator" rel="nofollow" class="btn btn-danger" role="button">See the Garmin InReach SE+</a>
+<a href="http://amzn.to/2x3LO2w" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 
 <hr>
 
@@ -124,7 +127,8 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 * Custom messages which can be used as a secondary OK message or personal help alert
 * Message size: 41 characters
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F860469%2Fspot-gen3-satellite-gps-messenger" rel="nofollow" class="btn btn-danger" role="button">See the SPOT Gen3</a>
+<a href="http://amzn.to/2xIPBPG" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 
 ## Conclusion
 
