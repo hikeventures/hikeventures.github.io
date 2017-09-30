@@ -85,7 +85,8 @@ The Arc’teryx Incendo Hoody has breathable mesh panels under the arms, a hood,
 
 The Incendo Hoody is more a running jacket than a hiking jacket but could be an alternative to the Arc’teryx Squamish Hoody if you are an Arc’teryx fan and want to save a few grams.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Arcteryx-Men-s-Incendo-Hoody_10329580_10208_10000001_-1_" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arc'teryx Incendo Hoodie</a>
+<a href="http://amzn.to/2xNczXL" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 
 ---
 
@@ -102,7 +103,7 @@ The Nodin jacket is not as durable than the Squamish Hoodie but offers plenty of
 
 Further, the Nodin jacket is also highly compressible and fits into your pocket.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Farcteryx-nodin-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arct'eryx Nodin Jacket</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Farcteryx-nodin-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Arct'eryx Nodin Jacket</a>
+<a href="http://amzn.to/2xN7n5U" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
 
@@ -121,7 +122,8 @@ If features articulated elbows, gusseted underarms, soft hood brim, adjustable h
 
 You can wear the jacket either for warm or cold weather activities to protect you from chilly winds. Arc'teryx is known in its industry for its craftsmanship and design.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Farcteryx-squamish-hooded-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arc'teryx Squamish Hoody</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Farcteryx-squamish-hooded-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Arc'teryx Squamish Hoody</a>
+<a href="http://amzn.to/2yNu2Of" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 
 ---
 
@@ -140,7 +142,7 @@ Apply Fjallraven wax on the jacket, and it will become resistant to water and th
 
 The jacket comes with an adjustable hem and hood, zippered hand and chest pockets as well as elastic-edged cuffs.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Ffjallraven-high-coast-wind-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Fjallraven High Coast Wind Jacket</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Ffjallraven-high-coast-wind-anorak-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Fjallraven High Coast Wind Jacket</a>
+<a href="http://amzn.to/2xMQPeA" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
 
@@ -155,7 +157,7 @@ The Marmot Ether Driclime Hooded Jacket comes with an inner layer which is soft 
 
 The breathable outer layer wind and water resistant and the attached roll-up hoodie add additional protection. There is also a hand and chest pocket on the jacket, elastic cuffs, and hem, and it packs into its hand pocket.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmarmot-ether-driclime-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Marmot Ether DriClime Hoody Jacket</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmarmot-ether-driclime-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Marmot Ether DriClime Hoody</a>
+<a href="http://amzn.to/2xJcwu4" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
 
@@ -170,7 +172,8 @@ The Marmot Trail Wind Jacket is a comfortable, lightweight and packable wind she
 
 It is a great jacket if you go hiking, biking, camping or running.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmarmot-trail-wind-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Marmot Trail Wind Jacket</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmarmot-trail-wind-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Marmot Trail Wind Jacket</a>
+<a href="http://amzn.to/2k8IAEC" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 
 ---
 
@@ -187,7 +190,7 @@ As with all other wind jackets the Helium II is  waterproof and breathable and c
 
 The jacket is fully taped seams and comes with a single-pull hood drawcords and zippered Napoleon pocket to store small items. Finally the jacket also comes with elastic cuffs.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Foutdoor-research-helium-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Outdoor Research Helium II Jacket</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Foutdoor-research-helium-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Outdoor Research Helium II Jacket</a>
+<a href="http://amzn.to/2xMmVXE" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
 
@@ -204,7 +207,8 @@ The jacket comes with a zippered chest pocket and the hood is adjustable.
 
 There is also a reflective logo on the front and back so that you will get noticed during the night as well.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F893303%2Fpatagonia-houdini-zip-front-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Patagonia Houdini</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F894342%2Fpatagonia-houdini-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Patagonia Houdini</a>
+<a href="http://amzn.to/2xMpDwf" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 
 ---
 

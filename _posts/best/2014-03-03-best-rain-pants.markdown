@@ -106,7 +106,7 @@ SL stands for Super Light in the Arc’teryx product range.
 
 This model is reinforced in major wear areas, has articulated knees but only comes with lower leg zippers.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F865001%2Farcteryx-beta-sl-pants-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arc'teryx Beta SL Pants</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F865532%2Farcteryx-beta-sl-pants-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Arc'teryx Beta SL Pants</a>
+<a href="http://amzn.to/2k8B2St" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
 
@@ -121,7 +121,7 @@ The Haglöfs L.I.M. III pants are part of Haglöfs Ultralight product range and 
 
 The zippers on the legs help to put those pants on while wearing hiking boots.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fhagl%C3%B6fs-l.i.m.-iii-pant-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Haglöfs L.I.M. III</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fhagl%C3%B6fs-l.i.m-iii-pant-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Haglöfs L.I.M. III</a>
+<a href="http://amzn.to/2xMAMNK" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
 
@@ -141,7 +141,7 @@ The seams are 100% taped and the zippers are coming with stormflaps, elastic wai
 
 Those pants allow easy on/off without removing boots.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F863401%2Fmarmot-precip-full-zip-rain-pants-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Marmot PreCip</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F859979%2Fmarmot-precip-full-zip-rain-pants-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Marmot PreCip</a>
+<a href="http://amzn.to/2yyEh7T" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
 
@@ -158,8 +158,7 @@ They are made of 4-way stretch fabric and comfortable to wear on different outdo
 
 They offer full-length zippers with two security closures and an integrated webbed belt. Further, they also come with enhanced knee articulation and loops at cuffs to fasten to your boots.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F880688%2Fmountain-hardwear-stretch-ozonic-rain-pants-mens-32-inseam" rel="nofollow" class="btn btn-danger" role="button">See the Men's Mountain Hardwear Stretch Ozonic</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F110848%2Fmountain-hardwear-stretch-ozonic-pants-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Mountain Hardwear Stretch Ozonic</a>
-
+<a href="http://amzn.to/2xIJCKJ" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
 
@@ -174,7 +173,7 @@ The Outdoor Research Helium Pants are super lightweight, and you can use its bac
 
 It also features a carabiner loop and an elastic waist with a drawcord as well as ankle zippers.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F895247%2Foutdoor-research-helium-rain-pants-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Outdoor Research Helium</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F111419%2Foutdoor-research-helium-rain-pants-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Outdoor Research Helium</a>
+<a href="http://amzn.to/2yNIXYs" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
 
@@ -191,7 +190,8 @@ The half-zip legs let you get them on or off easily over your boots.
 
 The pants are coming with an elastic waist with drawcord, secure-zip hand pockets, adjustable ankle tabs, knee-length side zippers and they pack down in a hand pocket.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F112414%2Fthe-north-face-venture-2-half-zip-pants-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's North Face Venture 2 Half-Zip</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F112130%2Fthe-north-face-venture-2-half-zip-pants-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's North Face Venture 2 Half-Zip</a>
+
+<a href="http://amzn.to/2ydVO9D" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
 
@@ -209,7 +209,7 @@ These pants have articulated knees which increase your mobility and also a bag w
 
 If you need to have a pocket on your waterproof pants, then go for this model.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmountain-hardwear-plasmic-pant-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Mountain Hardwear Plasmic Pants</a>
+<a href="http://amzn.to/2ke4pTB" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
 
@@ -224,7 +224,7 @@ Wear the Rab Firewall Pants for winter activities.
 
 The Rab Firewall pants come with an elasticated waistband and knee articulations and are compatible with winter boots.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-firewall-pant-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Rab Firewall Pants</a>
+<a href="http://amzn.to/2fxoaAe" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
 
@@ -241,8 +241,7 @@ These pants are suitable for hiking, travel, snowshoeing and other activities as
 
 They come with an elastic waist, zip fly, articulated knees, ankle zips and hand pockets.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F858347%2Fmarmot-minimalist-pants-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Marmot Minimalist Rain Pants</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F862367%2Fmarmot-minimalist-rain-pants-womens
-" rel="nofollow" class="btn btn-danger" role="button">See the Women's Marmot Minimalist Rain Pants</a>
+<a href="http://amzn.to/2x30G0U" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
 

@@ -101,7 +101,8 @@ If you are planning to go kayaking or packrafting, then you should probably take
 
 However, with its external battery, it needs probably more room in your backpack, and you will also carry more weight on your head.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F107916%2Fblack-diamond-icon-headlamp" rel="nofollow" class="btn btn-danger" role="button">See the Black Diamond Icon</a>
+<a href="http://amzn.to/2xMpDwf" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 
 <hr>
 
@@ -120,7 +121,7 @@ This headlamp also has a lock mode which makes the headlamp safe from accidental
 
 There is also a red night-vision mode available. The Black Diamond Spot needs 3 AAA batteries and is waterproof. This is probably a great headlamp for winter activities or water sports
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F890322%2Fblack-diamond-spot-headlamp-2016" rel="nofollow" class="btn btn-danger" role="button">See the Black Diamond Spot</a>
+<a href="http://amzn.to/2yfDvkl" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -139,7 +140,7 @@ The headlamp also features the PowerTap technology so you can quickly switch bet
 
 The Black Diamond Spot also comes with a lock mode.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F117628%2Fblack-diamond-storm-headlamp" rel="nofollow" class="btn btn-danger" role="button">See the Black Diamond Storm</a>
+<a href="http://amzn.to/2k8IJrE" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -160,7 +161,7 @@ This headlamp also features an emergency whistle on its reflective headband.
 
 The Petzl Actik requires 3 AAA batteries.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F109952%2Fpetzl-actik-headlamp" rel="nofollow" class="btn btn-danger" role="button">See the Petzl Actik</a>
+<a href="http://amzn.to/2fyOdH3" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -196,7 +197,7 @@ You can use the headlamp in a temperature range from -30 C to +60 C and store it
 
 If you want to see more into the distance, then this is probably not the headlamp you should consider to buy.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F109951%2Fpetzl-elite-headlamp" rel="nofollow" class="btn btn-danger" role="button">See the Petzl e+LITE</a>
+<a href="http://amzn.to/2kcnTb6" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -223,7 +224,7 @@ The Petzl NAO is my preferred headlamp. If you are looking for a lighter headlam
 
 You can also get an additional <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F109575%2Fpetzl-nao-rechargeable-headlamp-battery" rel="nofollow">rechargeable battery</a> for the NAO+.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F109574%2Fpetzl-nao-headlamp" rel="nofollow" class="btn btn-danger" role="button">See the Petzl NAO+</a>
+<a href="http://amzn.to/2x2f1L3" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -244,7 +245,8 @@ Reactive Lightning also provides longer burn time since the sensor of the headla
 
 The Reactik+ also has a lock function, so it won't accidentally turn on during travel. The 1800 mAh battery is also rechargeable through the USB port. Moreover, there is also a red lightning mode.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F107938%2Fpetzl-reactik-headlamp" rel="nofollow" class="btn btn-danger" role="button">See the Petzl Reactik+</a>
+
+<a href="http://amzn.to/2yNrEH8" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -263,7 +265,7 @@ The Tikka XP features spot and flood beams. There is also the red LEDs which you
 
 The Petzl Tikka XP also activates it’s reserve mode once batteries are running low. You can either use 3 AAA NiMH or lithium batteries.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F117717%2Fpetzl-tikka-xp-headlamp" rel="nofollow" class="btn btn-danger" role="button">See the Petzl Tikka XP</a>
+<a href="http://amzn.to/2yyHzIy" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -280,7 +282,7 @@ The Princeton Tex Axis headlamp comes with a spot, flow and red mode which are a
 
 The headlamp operates on AAA batteries for up to 150 hours.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F109806%2Fprinceton-tec-axis-headlamp" rel="nofollow" class="btn btn-danger" role="button">See the Princeton Tec Axis</a>
+<a href="http://amzn.to/2yOEnsW" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
