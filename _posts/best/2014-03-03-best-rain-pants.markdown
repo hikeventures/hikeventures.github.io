@@ -54,37 +54,37 @@ Also, have a look at our [FAQ on rain pants](#faq-on-rain-pants).
         <tbody>
 
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F895247%2Foutdoor-research-helium-rain-pants-mens" target="_blank" rel="nofollow">Outdoor Research Helium Pants</a></td><td>5.6 oz. / 160 grams</td>
+          <td><a href="http://amzn.to/2yNIXYs" target="_blank" rel="nofollow">Outdoor Research Helium Pants</a></td><td>5.6 oz. / 160 grams</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmountain-hardwear-plasmic-pant-mens" target="_blank" rel="nofollow">Mountain Hardwear Plasmic Pants</a></td><td>7.2 oz. / 204 grams</td>
+          <td><a href="http://amzn.to/2ke4pTB" target="_blank" rel="nofollow">Mountain Hardwear Plasmic Pants</a></td><td>7.2 oz. / 204 grams</td>
         </tr>
 
 
 
 
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fhagl%C3%B6fs-l.i.m.-iii-pant-mens" target="_blank" rel="nofollow">Haglöfs L.I.M. III Pants</a></td><td>7.9 oz. / 225 grams</td>
+          <td><a href="http://amzn.to/2xMAMNK" target="_blank" rel="nofollow">Haglöfs L.I.M. III Pants</a></td><td>7.9 oz. / 225 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F112414%2Fthe-north-face-venture-2-half-zip-pants-mens" target="_blank" rel="nofollow">The North Face Venture 2 Half-Zip Pants</a></td><td>8.1 oz. / 230 grams </td>
+          <td><a href="http://amzn.to/2ydVO9D" target="_blank" rel="nofollow">The North Face Venture 2 Half-Zip Pants</a></td><td>8.1 oz. / 230 grams </td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F865001%2Farcteryx-beta-sl-pants-mens" target="_blank" rel="nofollow">Arcteryx Beta SL Pants</a></td><td>9.2 oz. / 260 grams</td>
+          <td><a href="http://amzn.to/2k8B2St" target="_blank" rel="nofollow">Arcteryx Beta SL Pants</a></td><td>9.2 oz. / 260 grams</td>
         </tr>
         <tr>
-                  <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F880688%2Fmountain-hardwear-stretch-ozonic-rain-pants-mens-32-inseam" target="_blank" rel="nofollow">Mountain Hardwear
+                  <td><a href="http://amzn.to/2xIJCKJ" target="_blank" rel="nofollow">Mountain Hardwear
         Stretch Ozonic Rain Pants</a></td><td>10 oz. / 284 grams</td>
                 </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F858347%2Fmarmot-minimalist-pants-mens" target="_blank" rel="nofollow">Marmot Minimalist Rain Pants</a></td><td>10.3 oz. / 292 grams</td>
+          <td><a href="http://amzn.to/2x30G0U" target="_blank" rel="nofollow">Marmot Minimalist Rain Pants</a></td><td>10.3 oz. / 292 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-firewall-pant-mens" target="_blank" rel="nofollow">Rab Firewall Pants</a></td><td>11.3 oz. / 319 grams</td>
+          <td><a href="http://amzn.to/2fxoaAe" target="_blank" rel="nofollow">Rab Firewall Pants</a></td><td>11.3 oz. / 319 grams</td>
         </tr>
 <tr>
-        <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F863401%2Fmarmot-precip-full-zip-rain-pants-mens" target="_blank" rel="nofollow">Marmot PreCip Rain Pant</a></td><td>12 oz. / 340 grams</td>
+        <td><a href="http://amzn.to/2yyEh7T" target="_blank" rel="nofollow">Marmot PreCip Rain Pant</a></td><td>12 oz. / 340 grams</td>
       </tr>
 
 

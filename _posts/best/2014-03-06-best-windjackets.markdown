@@ -49,25 +49,25 @@ Also, have a look at our [FAQ on wind-jackets](#faq-on-wind-jackets).
 
         <tbody>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F893303%2Fpatagonia-houdini-zip-front-jacket-mens" rel="nofollow" target="_blank">Patagonia Houdini</a></td><td>4 oz. / 113 grams</td>
+          <td><a href="http://amzn.to/2xMpDwf" rel="nofollow" target="_blank">Patagonia Houdini</a></td><td>4 oz. / 113 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10086&pw=150351&url=https%3A%2F%2Fwww.moosejaw.com%2Fmoosejaw%2Fshop%2Fproduct_Arcteryx-Men-s-Incendo-Hoody_10329580_10208_10000001_-1_" target="_blank" rel="nofollow">Arcteryx Incendo Hoody</a></td><td>4.6 oz. / 130 grams</td>
+          <td><a href="http://amzn.to/2xNczXL" target="_blank" rel="nofollow">Arcteryx Incendo Hoody</a></td><td>4.6 oz. / 130 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmarmot-trail-wind-jacket-mens" target="_blank" rel="nofollow">Marmot Trail Wind Jacket</a></td><td>4.9 oz. / 140 grams</td>
+          <td><a href="http://amzn.to/2k8IAEC" target="_blank" rel="nofollow">Marmot Trail Wind Jacket</a></td><td>4.9 oz. / 140 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Farcteryx-nodin-jacket-mens" target="_blank" rel="nofollow">Arct'eryx Nodin Jacket</a></td><td>5.5 oz. / 155 grams</td>
+          <td><a href="http://amzn.to/2xN7n5U" target="_blank" rel="nofollow">Arct'eryx Nodin Jacket</a></td><td>5.5 oz. / 155 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Farcteryx-squamish-hooded-jacket-mens" target="_blank" rel="nofollow">Arcteryx Squamish Hoody</a></td><td>5.5 oz. / 155 grams</td>
+          <td><a href="http://amzn.to/2yNu2Of" target="_blank" rel="nofollow">Arcteryx Squamish Hoody</a></td><td>5.5 oz. / 155 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Foutdoor-research-helium-jacket-mens" target="_blank" rel="nofollow">Outdoor Research Helium II Jacket</a></td><td> 6.4 oz. / 181 grams</td>
+          <td><a href="http://amzn.to/2xMmVXE" target="_blank" rel="nofollow">Outdoor Research Helium II Jacket</a></td><td> 6.4 oz. / 181 grams</td>
         </tr>
         <tr>
-          <td><a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmarmot-ether-driclime-jacket-mens" target="_blank" rel="nofollow">Marmot Ether DriClime Hooded Jacket</a></td><td>9.5 oz. / 122 grams</td>
+          <td><a href="http://amzn.to/2xJcwu4" target="_blank" rel="nofollow">Marmot Ether DriClime Hooded Jacket</a></td><td>9.5 oz. / 122 grams</td>
         </tr>
 
         </tbody>
