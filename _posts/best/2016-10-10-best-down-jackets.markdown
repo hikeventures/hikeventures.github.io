@@ -106,7 +106,8 @@ The jacket comes with a box wall construction meaning less cold spots and more l
 
 The Ceres SV Parka offers an excellent warmth-to-weight ratio, compressibility, and packability.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F102814%2Farcteryx-ceres-sv-down-parka-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arc'teryx Ceres SV Parka</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F103454%2Farcteryx-ceres-sv-parka-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Arc'teryx Ceres SC Parka</a>
+<a href="http://amzn.to/2x3LPyA" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 
 <hr>
 
@@ -130,7 +131,8 @@ There is also an insulated StormHood™, adjustable hood and hem drawcord and el
 
 The jacket has an internal zippered security pocket with a stuff sack. LT stands for lightweight in the Arc’teryx product line.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https:%2F%2Fwww.rei.com%2Fproduct%2F117169%2Farcteryx-cerium-lt-down-hoodie-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arc'teryx Cerium LT</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https:%2F%2Fwww.rei.com%2Fproduct%2F117255%2Farcteryx-cerium-lt-down-hoodie-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Arc'teryx Cerium LT</a>
+<a href="http://amzn.to/2x3ri1S" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 
 <hr>
 
@@ -148,7 +150,8 @@ A baffle structure keeps the 850 down fill lofty and the down insulated StormHoo
 
 Synthetic insulation is strategically used in parts of this jacket as well.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F117170%2Farcteryx-cerium-sv-down-hoodie-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Arc'teryx Cerium SV Hoodie</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F117257%2Farcteryx-cerium-sv-down-hoodie-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Arc'teryx Cerium SV Hoodie</a>
+<a href="http://amzn.to/2xMTnta" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 
 <hr>
 
@@ -170,7 +173,7 @@ The Canada Goose ARCTIC TECH fabric Water Resistant is wind, and water resistant
 
 The jacket features an adjustable, non-removable hood, a fur ruff, fleece-lined chin guard, interior back pack shoulder straps, six exterior pockets, four large handwarmer pockets, two interior pockets, an adjustable waist drawcords as well as a hideaway snow skirt.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fcanada-goose-expedition-down-parka-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Canada Goose Expedition Parka</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fcanada-goose-expedition-down-parka-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Canada Goose Expedition Parka</a>
+<a href="http://amzn.to/2xRm74r" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -186,7 +189,8 @@ The polyester fabric has a DWR (Durable Water Repellent) finish. The jacket come
 
 The jacket also features hook-and-loop cuffs, an elastic drawcord hem, and its design adjusts to your movements.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F853045%2Fmarmot-guides-down-hoodie-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men'sMarmot Guides Down Hoodie</a> <a href="https://www.rei.com/product/104963/marmot-guides-down-hoodie-womenss" rel="nofollow" class="btn btn-danger" role="button">See the Women's Marmot Guides Down Hoodie</a>
+<a href="http://amzn.to/2xNa8nM" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 
 <hr>
 
@@ -204,7 +208,7 @@ We would wear the Marmot Quasar Hoody as a mid-layer under a shell during modera
 
 The jacket adjusts to your movements and features an elastic draw cord hem and cuss as well as an adjustable hood. You can also pack the jacket into its pocket.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Frei-garage%2Fproduct%2F116458%2Fmarmot-quasar-hoodie-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Marmot Quasar Hoodie</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Fmarmot-quasar-hooded-down-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Marmot Quasar Hoodie</a>
+<a href="http://amzn.to/2yfCetq" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -226,7 +230,7 @@ If you are looking for a proper winter jacket, then we would rather pick the Rab
 
 See the Men’s Mountain Hardware Ghost Whisperer See the Women’s Mountain Hardware Ghost Whisperer
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F880675%2Fmountain-hardwear-ghost-whisperer-hooded-down-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Mountain Hardware Ghost Whisperer</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F873087%2Fmountain-hardwear-ghost-whisperer-down-hooded-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Mountain Hardware Ghost Whisperer</a>
+<a href="http://amzn.to/2x2gQrn" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -246,7 +250,7 @@ Further, the Fabric is certified as bluesign® approved.
 
 Wear the Patagonia Ultralight Down Hoodie as a mid layer during the winter months or on chilly evenings during spring and summer.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F885089%2Fpatagonia-ultralight-down-hoodie-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Patagonia Ultralight Down Hoodie</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F885095%2Fpatagonia-ultralight-down-hoodie-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Patagonia Ultralight Down Hoodie</a>
+<a href="http://amzn.to/2fyMvFX" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -268,7 +272,7 @@ However, if you need a warmer jacket, then the Rab Positron Jacket would probabl
 
 See the Men’s Rab Infinity Endurance See the Women’s Rab Infinity Endurance
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-infinity-endurance-down-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Rab Infinity Endurance</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-infinity-down-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Rab Infinity Endurance</a>
+<a href="http://amzn.to/2yeSfzF" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -286,7 +290,7 @@ The jacket features a stitch through midi channel construction, two zip handwarm
 
 Further, the jacket is also RDS Certified (Responsible Down Standard).
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-positron-down-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Rab Positron</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-positron-down-jacket-womens" rel="nofollow" class="btn btn-danger" role="button">See the Women's Rab Positron</a>
+<a href="http://amzn.to/2yeRWVx" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -303,7 +307,7 @@ stitch through midi channel construction, 2 zip handwarmer pockets, semi-elastic
 
 Further, the jacket is also RDS Certified (Responsible Down Standard).
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10060&pw=150351&url=https%3A%2F%2Fwww.backcountry.com%2Frab-zero-g-jacket-mens" rel="nofollow" class="btn btn-danger" role="button">See the Men's Rab Zero G</a>
+<a href="http://amzn.to/2xN8VwP" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
 
