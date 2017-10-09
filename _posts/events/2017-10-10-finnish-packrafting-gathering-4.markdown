@@ -1,16 +1,23 @@
 ---
-published: false
 layout: post
 title: Finnish Packrafting Gathering 4.0 - 2017
 description: Finnish Packrafting Gathering - Nr 4
-date: 2017-11-10 07:30:00
+date: 2017-10-09 07:30:00
 category: article
 image: https://farm5.staticflickr.com/4443/37320989110_7a5654b1d8_k.jpg
 tags:
   - packrafting
   - Finland
 ---
+The Finnish Packrafting Gathering 4.0 took place from 6.10. - 8.10 in Lohjanjärvi-Mustionjoki in Southern Finland.
 
+The starting point was at the Karkali Strict Nature Reserve - 15 km from Lohja. (info in English).
+
+From Karkalinniemi we paddled 20 km to Korpudden. We had a stop in between to see a famous 300 years old oak tree, called Paavolan Tammi.
+
+In Korpudden we pitched our tents, prepared a campfire and welcomed four others who joined us for a few hours.
+
+The next day was a bit rainy and windy, and we paddled down the Mustionjoki (one of the "100 pearls of nature"). We visited a ruin where there was not much left except the well and crossed a few dams. The distance on this day was 20 km. However, there was no rapid during the whole trip until we arrived in Karjaa where we have parked our cars before.
 
 <amp-img src="https://farm5.staticflickr.com/4443/37320989110_7a5654b1d8_k.jpg" layout="responsive" width="2048" height="1365" alt="Finnish Packrafting Gathering 4.0"></amp-img>
 <br>
