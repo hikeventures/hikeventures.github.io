@@ -9,7 +9,7 @@ tags:
   - packrafting
   - Finland
 ---
-The Finnish Packrafting Gathering 4.0 took place from 6.10. - 8.10 in Lohjanjärvi-Mustionjoki in Southern Finland.
+The Finnish Packrafting Gathering 4.0 took place from 6.10. - 8.10 in Lohjanjärvi-Mustionjoki in Southern Finland and was again organized by <a href="https://korpijaakko.com/2017/09/05/finnish-packraft-gathering-4-0/">Jaako</a>.
 
 The starting point was at the Karkali Strict Nature Reserve - 15 km from Lohja. (info in English).
 
