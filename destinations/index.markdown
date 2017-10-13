@@ -118,6 +118,14 @@ footer: false
             <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Kaldoaivi</p>
         </div></div></a></div></div>
 
+        <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
+                  <a class="thumbnail" href="http://www.hikeventures.com/finnish-packrafting-gathering-4/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
+              <img src="https://farm5.staticflickr.com/4485/37680037011_f147522b59_z.jpg" alt="" class="img-responsive">
+              <div class="caption">
+                  <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Karkali</p>
+              </div></div></a></div></div>
+
+
 
 
         <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
