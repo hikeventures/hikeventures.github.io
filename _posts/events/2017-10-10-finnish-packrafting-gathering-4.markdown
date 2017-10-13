@@ -22,7 +22,7 @@ From Karkalinniemi we paddled 20 km to Korpudden. We had a stop in between to se
 In Korpudden we pitched our tents, prepared a campfire and welcomed four others who joined us for a few hours.
 
 The next day was a bit rainy and windy, and we paddled down the Mustionjoki (one of the "100 pearls of nature"). We visited a ruin where there was not much left except the well and crossed a few dams. The distance on this day was 20 km. However, there was no rapid during the whole trip until we arrived in Karjaa where we have parked our cars before.
-
+<br>
 Here is also a video:
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1SYlMB8UI9o"></iframe>
