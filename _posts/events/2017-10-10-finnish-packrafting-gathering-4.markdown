@@ -23,6 +23,11 @@ In Korpudden we pitched our tents, prepared a campfire and welcomed four others 
 
 The next day was a bit rainy and windy, and we paddled down the Mustionjoki (one of the "100 pearls of nature"). We visited a ruin where there was not much left except the well and crossed a few dams. The distance on this day was 20 km. However, there was no rapid during the whole trip until we arrived in Karjaa where we have parked our cars before.
 
+Here is also a video:
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1SYlMB8UI9o"></iframe>
+</div>
+
 <amp-img src="https://farm5.staticflickr.com/4497/36869225344_37d62ec5a7_k.jpg" layout="responsive" width="2048" height="1225" alt="Finnish Packrafting Gathering 4.0"></amp-img>
 
 ---
