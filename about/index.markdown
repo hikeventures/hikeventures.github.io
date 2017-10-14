@@ -32,13 +32,13 @@ published: true
 				<h3>Followers on Social Media</h3>
 				<div id="social_followers_table" class="row">
 					<div class="col-sm-6 col-lg-6 col-md-6 col-xs-12">
-						<span><i class="fa fa-instagram" aria-hidden="true"></i></span> <a href="https://www.instagram.com/hikeventures/">Instagram</a>: 8400
+						<span><i class="fa fa-instagram" aria-hidden="true"></i></span> <a href="https://www.instagram.com/hikeventures/">Instagram</a>: 7900
 					</div>
 					<div class="col-sm-6 col-lg-6 col-md-6 col-xs-12">
 						<span><i class="fa fa-twitter" aria-hidden="true"></i></span> <a href="https://twitter.com/HikeVentures">Twitter</a>: 2700
 					</div>
 					<div class="col-sm-6 col-lg-6 col-md-6 col-xs-12">
-						<span><i class="fa fa-facebook" aria-hidden="true"></i></span> <a href="https://www.facebook.com/HikeVentures">Facebook</a>: 1900
+						<span><i class="fa fa-facebook" aria-hidden="true"></i></span> <a href="https://www.facebook.com/HikeVentures">Facebook</a>: 2000
 					</div>
 					<div class="col-sm-6 col-lg-6 col-md-6 col-xs-12">
 						<span><i class="fa fa-youtube" aria-hidden="true"></i></span> We are also on <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw">YouTube</a>.
@@ -51,10 +51,10 @@ published: true
 
 			<h3>In the Media</h3>
 			<a href="http://www.tgomagazine.co.uk/inspiration-and-ideas/the-uks-first-packraft-roundup-a-family-affair/" rel="nofollow">The Great outdoors: The UK’S first packraft roundup - A family affair.</a><br>
-			<a href="http://www.kanosportmagazine.nl/nl/sep-2017-desktop/naar-japan-met-een-packraft.html?eo=p&eid=244063&ep=" rel="nofollow">Kanosport reisverhalen: Naar Japan met een packraft </a><br>
-			<a href="https://www.ecktiv.nl/gdansk-een-echte-hanzestad/" rel="nofollow">Ecktiv Magazine: Alleen voor straatfestivals ga je al naar Gdansk</a><br>
+			<a href="http://www.kanosportmagazine.nl/nl/sep-2017-desktop/naar-japan-met-een-packraft.html?eo=p&eid=244063&ep=" rel="nofollow">Kanosport reisverhalen: Naar Japan met een packraft. </a><br>
+			<a href="https://www.ecktiv.nl/gdansk-een-echte-hanzestad/" rel="nofollow">Ecktiv Magazine: Alleen voor straatfestivals ga je al naar Gdansk.</a><br>
 
-
+<br>
 
 
 			<h3>Partners and Sponsors</h3>
