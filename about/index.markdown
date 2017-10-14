@@ -51,6 +51,7 @@ published: true
 
 			<h3>In the Media</h3>
 			<a href="http://www.tgomagazine.co.uk/inspiration-and-ideas/the-uks-first-packraft-roundup-a-family-affair/" rel="nofollow">The Great outdoors: The UK’S first packraft roundup - A family affair.</a><br>
+		<a href="http://magazine-b.com/en/suunto/" rel="nofollow">Magazine B: ISSUE No.25 Suunto</a><br>
 			<a href="http://www.kanosportmagazine.nl/nl/sep-2017-desktop/naar-japan-met-een-packraft.html?eo=p&eid=244063&ep=" rel="nofollow">Kanosport reisverhalen: Naar Japan met een packraft. </a><br>
 			<a href="https://www.ecktiv.nl/gdansk-een-echte-hanzestad/" rel="nofollow">Ecktiv Magazine: Alleen voor straatfestivals ga je al naar Gdansk.</a><br>
 
