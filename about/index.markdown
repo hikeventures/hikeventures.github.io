@@ -53,9 +53,6 @@ published: true
 			<a href="http://www.kanosportmagazine.nl/nl/sep-2017-desktop/naar-japan-met-een-packraft.html?eo=p&eid=244063&ep=" rel="nofollow">Kanosport reisverhalen: Naar Japan met een packraft. </a><br>
 			<a href="https://www.ecktiv.nl/gdansk-een-echte-hanzestad/" rel="nofollow">Ecktiv Magazine: Alleen voor straatfestivals ga je al naar Gdansk.</a><br>
 
-<br>
-
-
 			<h4>Partners and Sponsors</h4>
 			<div id="partners_table" class="row">
 				<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
