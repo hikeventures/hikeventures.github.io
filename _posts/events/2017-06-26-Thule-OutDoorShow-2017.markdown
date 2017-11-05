@@ -20,7 +20,9 @@ The Thule AllTrail and Stir at the OutDoor Show 2017 in Friedrichshafen.
 </div>
 <br>
 <!--more-->
-
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 **Konstantin:**	Hi, this is Konstantin from Hike Ventures, and I've got Patrick from Thule.
 
 **Patrick:**	Hello.
@@ -68,5 +70,3 @@ Then we have the 28 liters with a zip in just like the AllTrail 35. I can just o
 **Patrick:**	It's two separate ones because we say with a smaller pack you don't carry so much weight and we can have a very light-weight pack like this. The interesting thing is the 28 liters weighs 800 grams so it's ultra light-weight. The 35 liters is 1 Kilo and the 18 liters is about 450 grams so it's really, really light packing and has a special style.
 
 Maybe you've notice the material is very, very soft touch but feels a bit waterproof. What we use here is Thermofix on the nylon. So you take normal nylon coating and you pressurize it and heat it up so gets this. We have two really good things that you do with it. One thing is it's much more abrasion resistant and on the side, it's much more waterproof.
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

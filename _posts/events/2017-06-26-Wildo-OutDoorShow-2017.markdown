@@ -20,6 +20,9 @@ Wildo shows us the  Fold-A-Cup at the OutDoor Show 2017 in Friedrichshafen.
 </div>
 <br>
 <!--more-->
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 **Konstantin:**	Hi, this is Konstantin from Hike Ventures, and I've got Amelia from Wildo. Amelia, would you say something about the new products that you've got?
 
 **Amelia:**	Yes. So, we have this brand new one full of cream, which is our most famous product, that we've had for 30 years. But now it is 50% bio-based material. The material is made from sugar canes, and it's much more sustainable, better for the future with the nature.
@@ -65,6 +68,3 @@ Put the lid, which is a plate at the moment ... This is the cutting board, which
 **Konstantin:**	And it really holds very well.
 
 **Amelia:**	It does.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

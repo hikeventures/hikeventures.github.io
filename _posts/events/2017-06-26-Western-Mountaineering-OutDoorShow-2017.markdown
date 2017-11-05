@@ -20,7 +20,9 @@ Here is our interview with Western Mountaineering at the OutDoor Show 2017 in Fr
 </div>
 <br>
 <!--more-->
-
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 **Konstantin:**	Hi, this is Konstantin from Hike Ventures, and I've got Gary from Western Mountaineering. Gary, could you tell us something about the company?
 
 **Gary:**	Yeah. The company is based in San Jose, California. That's where our production facility is at.
@@ -111,5 +113,3 @@ We make a wider version of it called the Alpinlite. Most of our line might look 
 We might have a Summerlite, which is not as warm as this. Then, we have a wider version of that called the Megalite, things like that. A lot of our bags are duplicates in a wider form.
 
 **Konstantin:**	All right. Well, thank you very much. It was very interesting.
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

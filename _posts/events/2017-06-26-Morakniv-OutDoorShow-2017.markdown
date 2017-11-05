@@ -20,6 +20,8 @@ Morakniv shows us the Rookie and Eldris at the OutDoor Show 2017 in Friedrichsha
 </div>
 <br>
 <!--more-->
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 **Konstantin:**	Hi this is Konstantin and I've got Bjorn Morakniv or otherwise known as Mora Knives isn't it?
 
 **Morakniv:**	Yes, that's correct.
@@ -92,5 +94,3 @@ This is just perfect. There's a lot of hunters, they love this knife because the
 **Konstantin:**	Okay, thank you very much Bjorn.
 
 **Morakniv:**	Thank you. Excellent.
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

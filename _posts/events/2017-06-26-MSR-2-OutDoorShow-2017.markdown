@@ -20,7 +20,8 @@ MSR shows us the Pocket Rocket 2 at the OutDoor Show 2017 in Friedrichshafen.
 </div>
 <br>
 <!--more-->
-
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 **Konstantin:**	Hi, this is Konstantin from HikeVentures and I've got Doug from MSR So would you tell something about this Pocket Rocket 2?
 
 **Doug:**	Sure, we've had the Pocket Rocket. We introduced it back 15 year ago now. Great stove for us, really about the best selling canister stove in the world.
@@ -34,5 +35,3 @@ A lot of what people are doing these days is they're taking a small canister sto
 **Doug:**	So, we set out on the Pocket Rocket team to see performance that we had, great flame adjustability, really solid build quality. To make it in a way, compact and smaller and be a little bit lighter and make that stove just feel like it'll work for the next 15 years. So we created the Pocket Rocket 2 and the Pocket Rocket 2 made the bottom of the body a little bit smaller.
 
 And then re-did the legs so that it also fit a wider variety of pots and then came up with this folding mechanism with the legs, that the legs rotate down so that they compact very, very small. So that it would then fit inside a pot that's sized for a four ounce canister. So smaller and lighter, more compact than the original with the same great performance. That's the Pocket Rocket 2.
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

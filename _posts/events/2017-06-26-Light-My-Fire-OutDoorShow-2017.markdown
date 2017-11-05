@@ -20,6 +20,8 @@ Light My Fire shows us the Dining Kit and Black Pearl Camp Kit at the OutDoor Sh
 </div>
 <br>
 <!--more-->
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 **Konstantin:**	Hi this is Konstantin from Hike Ventures. And I've got David from Light My Fire.
 
 **David:**	Hi. I'm David from Light My Fire. As he said.
@@ -87,5 +89,3 @@ But, the thing with this one as well, that we always try to do, we pack it up re
 **David:**	Exactly will be available for the autumn, but our customers we will be out in stores this fall, and then will be for the Christmas sales, and Christmas sales. It's limited edition, and so we'll only be there for a limited time.
 
 So this fall, hurry up if you want to get one of those.
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

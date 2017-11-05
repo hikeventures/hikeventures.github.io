@@ -20,6 +20,9 @@ NRS shows us their expedition duffel at the OutDoor Show 2017 in Friedrichshafen
 </div>
 <br>
 <!--more-->
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 **Konstantin:**	Hi this is Konstantin from Hike Ventures. And I've got Rafael from NRS.
 
 **Rafael:**	Yep.
@@ -174,5 +177,3 @@ And if you know helmets from years ago, they're not comfortable. It's hard and i
 **Rafael:**	More comfort or-
 
 **Konstantin:**	A little bit more protection. Hey, well thank you very much.
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

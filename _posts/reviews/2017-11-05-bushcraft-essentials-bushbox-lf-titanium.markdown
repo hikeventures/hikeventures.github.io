@@ -19,3 +19,12 @@ Today, I had a chance to test our new Bushcraft Essentials Bushbox LF Titanium. 
 <br>
 <!--more-->
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
+Here you can watch our interviews with Bushcraft Essentials:
+* <a href="http://www.hikeventures.com/Bushcraft-Essentials-3-OutDoorShow-2017/">Overview of a few stoves</a>
+* <a href="http://www.hikeventures.com/Bushcraft-Essentials-2-OutDoorShow-2017/">Bushbox XL</a>
+* <a href="http://www.hikeventures.com/Bushcraft-Essentials-1-OutDoorShow-2017/">Fire Piston</a>
+
+The Bushcraft Essentials Fire Piston is actually quite interesting. It has a waterproof compartment where you can store tinder.
+
+After having used the Bushcraft Essentials Bushbox LF Titanium for a few times I would say that I am quite happy with it. It's not a budget stove but you get what you pay for. The quality of this stove is really good.

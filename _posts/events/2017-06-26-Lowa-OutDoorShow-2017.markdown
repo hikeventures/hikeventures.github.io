@@ -20,6 +20,8 @@ Here is our interview with Lowa at the OutDoor Show 2017 in Friedrichshafen.
 </div>
 <br>
 <!--more-->
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 **Konstantin:**	Hi, this is Konstantin from HikeVentures and I've got Alex from Lowa.
 
 **Alex:**:	Hi, I'm Alex Nikolai, I'm head of development at Lowa, and we're here at the outdoor show in Friedrichshafen, and I want to show you our new generation of hiking boots.
@@ -35,5 +37,3 @@ This is the men's version, with a more athletic design, and then we also have a 
 **Konstantin:**:	So, the mountains for example, the neighbourhood, the lower alps would be ... Of course, it's not mountaineering shoes, but it still will give you quite a lot of support for your ankles, to carry heavy backpack.
 
 **Alex:**:	You can go on rocky terrain, you can go walk on cravot, but it's not mountaineering boot, yeah. So it's for steeper hikes, and very functional, and still lightweight.
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

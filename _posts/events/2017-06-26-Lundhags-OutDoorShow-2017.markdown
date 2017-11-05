@@ -20,6 +20,8 @@ Lundhags shows us their Gneik backpack at the OutDoor Show 2017 in Friedrichshaf
 </div>
 <br>
 <!--more-->
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 **Konstantin:**	Hi. This is Konstantin from HikeVentures, and I've got Andreas from Lundhags. Andreas, could you say something about the new product line that you have.
 
 **Andreas:**	All right, yeah. For 2018, we've been working hard to release a completely new backpack line. It consists of 22 different models ranging from 16 to 90 liters with some additional smaller accessory packs with seven and 10 liters respectively.
@@ -89,5 +91,3 @@ Then, obviously we have lots of smaller day packs for maybe more urban and commu
 **Konstantin:**	As far as I can see, you're wearing already a pair.
 
 **Andreas:**	Yeah, exactly. As always, we don't use a membrane. What does that mean? You get a breathable shoe with good climate. It will keep your feet dry if it rains. No, you cannot stand in water, but if you need to stand in water, we have the shell boots. We got that part covered as well.
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

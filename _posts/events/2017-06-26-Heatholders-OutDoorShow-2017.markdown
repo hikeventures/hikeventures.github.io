@@ -21,6 +21,8 @@ Here is our interview with Heatholders at the OutDoor Show 2017 in Friedrichshaf
 </div>
 <br>
 <!--more-->
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 **Konstantin:**	Hi. This is Konstantin, and I've got James from Heat Holders.
 
 **James:**	Yes.
@@ -54,5 +56,3 @@ But then I realized why wouldn't I try to do it for my packrafting trips. And I 
 **Konstantin:**	And how to you actually ... so it's tested in a laboratory?
 
 **James:**	Yeah. It's scientifically proven to be seven times warmer than any normal cotton sock. The socks are made in Indonesia. It's made with a special Japanese imported yarn, which we have exclusivity throughout the whole of the world basically, for the socks.
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

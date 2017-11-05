@@ -20,6 +20,8 @@ Berghaus shows us their new GR20 jacket at the OutDoor Show 2017 in Friedrichsha
 </div>
 <br>
 <!--more-->
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 **Konstantin:**	Hi, this is Konstantin from Hike Ventures, and I've got Andreas from Berghaus. Andreas, would you tell us something about this jacket?
 
 **Andreas:** Yeah, sure. This is our new GR20 jacket, this is our Euro piece for Spring eighteen. It's the world's lightest and most breathable three layer Gore-tex jacket. So it features the new active shell technology from Gore. We are one of the few companies that are allowed to pre-release this for Spring eighteen.

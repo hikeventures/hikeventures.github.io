@@ -20,6 +20,8 @@ Bushcraft Essentials shows us the Fire Piston at the OutDoor Show 2017 in Friedr
 </div>
 <br>
 <!--more-->
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 This is our fire piston. It is a very ancient way of making fire. It works basically like a diesel engine. It works by air compression.
 
 The principal is you put tinder in here, then put the plunger back into the cylinder, and compress the air a couple of times.
@@ -35,5 +37,3 @@ It has a vent so you can put in the plunger again and there is a water tight com
 The fire piston has been used as a method of making fire in middle Europe for a long time, and it is still in use, I believe, in Indonesia, in everyday use.
 
 The Bushcraft essential fire piston.
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

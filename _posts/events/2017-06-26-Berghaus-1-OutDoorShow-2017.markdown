@@ -20,6 +20,8 @@ Berghaus shows us their Fast Hike backpacks at the OutDoor Show 2017 in Friedric
 </div>
 <br>
 <!--more-->
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 **Andreas:**	Yep.
 
 **Konstantin:**:	Hi, this is Konstantin from Hike Ventures, and I've got Andreas from Berghaus. Andreas, can you say something about this series of day bags?
@@ -53,5 +55,3 @@ Berghaus shows us their Fast Hike backpacks at the OutDoor Show 2017 in Friedric
 **Konstantin:**:	Well, thank you very much, Andreas.
 
 **Andreas:**	Sure, my pleasure.
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
