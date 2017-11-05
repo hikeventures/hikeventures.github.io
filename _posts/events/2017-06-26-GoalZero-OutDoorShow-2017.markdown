@@ -43,3 +43,5 @@ I have a small real cool light to show as well. It's our newest addition to the 
 Obviously it's a small power bank, but it's lightweight so usually where you have charging, light. And if you take a small solar panel with it, the lightest weight would be about 360, 400 grams and you have everything from recharging, light, and solar in your backpack.
 
 **Konstantin:**	Okay, thank you very much for that.
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

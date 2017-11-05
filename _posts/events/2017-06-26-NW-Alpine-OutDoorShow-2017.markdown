@@ -69,3 +69,5 @@ It's a two-person four-season tent that weighs in at about 408 grams. So probabl
 **Bill:**	Yeah, even you could like ... sometimes it's too hard to get it really tight, but we've made it smaller stuff to see how small we can get it. You know, like an American burrito size.
 
 **Konstantin:**	Wow. It's either you've got huge burritos or a small tent.
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

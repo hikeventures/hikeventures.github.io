@@ -42,3 +42,5 @@ You can put it in at half height, like so, and can put the Trangia on or you can
 You might have noticed the hinges here, they are quite complex, and we make such complex hinges for one reason: if you make standard hinges, they will clog. So when you're cooking on it and stuff runs down into the hinges, it will get stuck.
 
 Now, with those hinges, it'll never get stuck. It'll always be functional. And that's why we're making these complex hinges. The Bushbox XL.
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

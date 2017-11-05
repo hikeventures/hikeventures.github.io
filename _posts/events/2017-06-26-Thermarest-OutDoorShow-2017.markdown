@@ -66,7 +66,7 @@ It has a very high R value. Yet packs really tiny. And then the speed valve make
 
 **Konstantin:**	And it takes also just a few moments to inflate it.
 
-**Doug:**	Yes. To inflate it all you do is reverse the valve and ... I'll get over here ... So this uses Bernoulli's principle, which has been around for 500 years. And it takes a low pressure air ... a high pressure air, and draws in the low pressure air. 
+**Doug:**	Yes. To inflate it all you do is reverse the valve and ... I'll get over here ... So this uses Bernoulli's principle, which has been around for 500 years. And it takes a low pressure air ... a high pressure air, and draws in the low pressure air.
 
 **Konstantin:**	Five breaths and it's full.
 
@@ -114,3 +114,5 @@ This is a ProLite Plus, it's been around for about 15 years, the ProLite series,
 **Konstantin:**	Especially if I ... people like I live in the Netherlands, and it's quite flat. It's always cloudy, you know, you stay inside a lot and you basically have the sunset.
 
 **Doug:**	Yeah, if you want to go look at some mountains, you can look at your Therm-A-Rest. We bring mountains to you.
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

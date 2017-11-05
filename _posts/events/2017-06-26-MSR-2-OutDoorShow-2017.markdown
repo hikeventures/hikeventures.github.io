@@ -34,3 +34,5 @@ A lot of what people are doing these days is they're taking a small canister sto
 **Doug:**	So, we set out on the Pocket Rocket team to see performance that we had, great flame adjustability, really solid build quality. To make it in a way, compact and smaller and be a little bit lighter and make that stove just feel like it'll work for the next 15 years. So we created the Pocket Rocket 2 and the Pocket Rocket 2 made the bottom of the body a little bit smaller.
 
 And then re-did the legs so that it also fit a wider variety of pots and then came up with this folding mechanism with the legs, that the legs rotate down so that they compact very, very small. So that it would then fit inside a pot that's sized for a four ounce canister. So smaller and lighter, more compact than the original with the same great performance. That's the Pocket Rocket 2.
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

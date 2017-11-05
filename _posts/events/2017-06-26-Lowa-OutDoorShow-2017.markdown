@@ -35,3 +35,5 @@ This is the men's version, with a more athletic design, and then we also have a 
 **Konstantin:**:	So, the mountains for example, the neighbourhood, the lower alps would be ... Of course, it's not mountaineering shoes, but it still will give you quite a lot of support for your ankles, to carry heavy backpack.
 
 **Alex:**:	You can go on rocky terrain, you can go walk on cravot, but it's not mountaineering boot, yeah. So it's for steeper hikes, and very functional, and still lightweight.
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
