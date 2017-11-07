@@ -16,9 +16,7 @@ After we had some quality issues with our previous packrafting gloves, we decide
 <amp-img src="https://c1.staticflickr.com/9/8768/17786274601_f1222d0376_b.jpg" layout="responsive" width="1024" width="763" alt="Palm Hook Gloves - best gloves packrafting"></amp-img>
 <br>
 <!--more-->
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 
 

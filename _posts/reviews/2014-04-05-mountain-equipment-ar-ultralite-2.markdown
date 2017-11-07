@@ -16,9 +16,7 @@ The Mountain Equipment AR Ultralite 2 is an inexpensive tent which seems to be s
 <amp-img src="https://farm4.staticflickr.com/3832/13637497545_021f3a96fd_b.jpg" layout="responsive" width="1024" height="683" alt="Mountain Equipment AR Ultralite review"></amp-img>
 <br>
 <!--more-->
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 
 

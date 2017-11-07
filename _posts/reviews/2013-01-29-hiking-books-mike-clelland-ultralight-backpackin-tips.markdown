@@ -15,5 +15,5 @@ Mike Clelland's Ultralight Backpackin' Tips is an easy to read and highly entert
 <a href="https://www.flickr.com/photos/90204224@N07/8418818849" title="Ultralight Backpackin Tips Book"><img src="https://farm9.staticflickr.com/8370/8418818849_11809c52e0_b.jpg" width="1024" height="855" alt="Mike Clelland's Ultralight Backpackin' Tips"></a>
 
 <br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>

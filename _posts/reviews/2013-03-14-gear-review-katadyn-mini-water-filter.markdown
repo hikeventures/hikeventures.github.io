@@ -16,9 +16,7 @@ I was looking for a water purifier which I can take on my hiking, backpacking an
 <amp-img src="https://farm9.staticflickr.com/8389/8556629391_d8688af598_b.jpg" width="1024" height="802" alt="Katadyn Mini Water Filter hiking backpacking package unboxing" layout="responsive"></amp-img>
 <br>
 <!--more-->
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 
 ## Features

@@ -20,8 +20,7 @@ MSR shows us the TrailBase water filter at the OutDoor Show 2017 in Friedrichsha
 </div>
 <br>
 <!--more-->
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script><br>
 **Konstantin:**	Hi. This is Konstantin form Hike Ventures and I've got Holden from MSR. Holden, can you talk about this new water purification system.
 
 **Holden:**	Yeah. For sure. So, the new filter for this year from MSR is the TrailBase water filter. Now, last year, we introduced the TrailShot filter, which is a very small, personal filter that allows you to store it very small and you pull it out very fast and drink, so going to make filtered water on demand.

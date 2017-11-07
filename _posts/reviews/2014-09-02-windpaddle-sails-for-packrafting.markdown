@@ -16,9 +16,7 @@ With my packraft I used to paddle a lot in rivers and lakes. I was paddling some
 <amp-img src="https://farm4.staticflickr.com/3905/14933402357_c12660d4e6_b.jpg" layout="responsive" width="1024" width="683" alt="WindPaddle Sail  review"></amp-img>
 <br>
 <!--more-->
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 
 

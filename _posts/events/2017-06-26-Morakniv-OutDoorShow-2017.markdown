@@ -20,8 +20,7 @@ Morakniv shows us the Rookie and Eldris at the OutDoor Show 2017 in Friedrichsha
 </div>
 <br>
 <!--more-->
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script><br>
 **Konstantin:**	Hi this is Konstantin and I've got Bjorn Morakniv or otherwise known as Mora Knives isn't it?
 
 **Morakniv:**	Yes, that's correct.

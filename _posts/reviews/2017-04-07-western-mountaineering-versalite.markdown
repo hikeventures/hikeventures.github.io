@@ -22,8 +22,7 @@ Why? Because I feel much warmer in the WM VersaLite. However, the Cumulus Panjam
 <!--more-->
 
 <br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script><br>
 
 ## Field Testing
  I have used my WM Versalite on several trips for example in Finland when we were packsailing to the [fortress island of Örö][2] or on our winter and summer trip in [Northern Norway][3] (see pictures in this blog post).

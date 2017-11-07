@@ -15,11 +15,8 @@ Having used skis and hiking boots the years before, I am interested to do some s
 <amp-img src="http://farm6.staticflickr.com/5531/11312000916_7d50425b7c_c.jpg" layout="responsive" width="800" height="350" alt="Tubbs Xpedition Snowshoe Review"></amp-img>
 <br>
 <!--more-->
-
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
-
 
 ## Features
 * weight: 1600 grams

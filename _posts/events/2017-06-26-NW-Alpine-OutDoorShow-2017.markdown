@@ -21,8 +21,7 @@ NW Alpine shows us their Eyebright jacket at the OutDoor Show 2017 in Friedrichs
 <br>
 <!--more-->
 <br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script><br>
 **Konstantin:**	Hi this is Konstantin from Hike Ventures, and I've got Bill from Northwest Alpine.
 So, Bill, would you tell us something about your company?
 

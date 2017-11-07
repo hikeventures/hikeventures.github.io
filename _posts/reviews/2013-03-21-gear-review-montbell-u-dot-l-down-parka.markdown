@@ -14,9 +14,7 @@ The Montbell U.L. Down Parka seems to be a perfect addition if you are planning 
 <amp-img src="https://farm9.staticflickr.com/8529/8576876741_96879fe3d5_b.jpg" width="1024" width="683" alt="Laufbursche Huckepack hp450 unboxing" layout="responsive"></amp-img>
 <br>
 <!--more-->
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 
 ## Features

@@ -20,8 +20,7 @@ Lundhags shows us their Gneik backpack at the OutDoor Show 2017 in Friedrichshaf
 </div>
 <br>
 <!--more-->
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script><br>
 **Konstantin:**	Hi. This is Konstantin from HikeVentures, and I've got Andreas from Lundhags. Andreas, could you say something about the new product line that you have.
 
 **Andreas:**	All right, yeah. For 2018, we've been working hard to release a completely new backpack line. It consists of 22 different models ranging from 16 to 90 liters with some additional smaller accessory packs with seven and 10 liters respectively.

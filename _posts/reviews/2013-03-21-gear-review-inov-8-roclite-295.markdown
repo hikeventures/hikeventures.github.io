@@ -16,9 +16,7 @@ Are you looking for trail runners or lightweight hiking boots for your next hiki
 <amp-img src="https://farm9.staticflickr.com/8522/8571446825_e8ed0fc70f_b.jpg" width="1024" width="683" alt="Inov-8 Roclite 295 ultralight hiking and trail running shoes review" layout="responsive"></amp-img>
 <br>
 <!--more-->
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 
 

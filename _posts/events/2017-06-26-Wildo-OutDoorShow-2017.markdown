@@ -21,7 +21,7 @@ Wildo shows us the  Fold-A-Cup at the OutDoor Show 2017 in Friedrichshafen.
 <br>
 <!--more-->
 <br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 **Konstantin:**	Hi, this is Konstantin from Hike Ventures, and I've got Amelia from Wildo. Amelia, would you say something about the new products that you've got?
 

@@ -20,9 +20,7 @@ Today, I grabbed my camera in the afternoon trying to capture some sunset pictur
 <amp-img src="https://farm9.staticflickr.com/8546/15182978924_06f8926249_h.jpg" layout="responsive" width="1600" height="1068" alt="Zeiss Loxia 35mm 2.0 2.8"></amp-img>
 <br>
 <!--more-->
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 
 

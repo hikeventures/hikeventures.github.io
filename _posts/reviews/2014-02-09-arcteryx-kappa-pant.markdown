@@ -15,6 +15,8 @@ Winter time - freezing time! Or not? I have tested the Arc'teryx Kappa Pant and 
 <amp-img src="http://farm8.staticflickr.com/7394/12133742174_d29c6f740e_c.jpg" layout="responsive" width="800" height="534" alt="Arc'teryx Kappa Pant Review"></amp-img>
 <br>
 <!--more-->
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<br>
 
 ## Features
 The Arc'teryx Kappa pant is 600 grams light, moisture-resistant and windproof. They are also comfortable to wear and their insulation consists of Coreloft. The side-zippers make it easy to put-on/off the pants and the adjustable webbing belt saves weight to a conventional belt as well. The quality of the Kappa Pant is also on the high-end side but you have to pay for it of course.

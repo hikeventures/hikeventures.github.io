@@ -17,7 +17,7 @@ Which bag do you take if you are going on winter adventure in Finnish Lapland an
 <!--more-->
 
 <br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 
 The Chasm XL duffle bag from Thule is biggest of their range of duffle bags (i.e., Extra Small, Small, Medium, Large and, finally, Extra Large). With the capacity of 130 liters (or 7935 cu in) it weighs 2,235 gram, which makes it just under 17.2 gram per liter which means that it is the most efficient travel bag I own. In comparison, my other large bag, the Rolling Thunder XL from The North Face, weighs more than twice as much, whereas it is marginally bigger. Of course, one of them is a duffle and the other one is a trolley, but when it comes to making a decision which bag I have to pack when I have a weight limit, the answer is obvious.

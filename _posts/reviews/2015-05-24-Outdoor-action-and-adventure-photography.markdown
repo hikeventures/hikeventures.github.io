@@ -15,9 +15,7 @@ Since I am interested in outdoor photography, I am currently looking for books w
 <amp-img src="https://c1.staticflickr.com/9/8862/17861380309_f9749e3c57_o.jpg" layout="responsive" width="1024" height="768" alt="Outdoor Action and Adventure Photography"></amp-img>
 <br>
 <!--more-->
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 
 

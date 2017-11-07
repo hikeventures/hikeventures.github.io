@@ -20,8 +20,7 @@ GoalZero shows us the Extended Nomad Plus, Lighthouse micro-charge, Flip Ranger 
 </div>
 <br>
 <!--more-->
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script><br>
 **Konstantin:**	Hi this is Konstantin from Hike Ventures, that's Philip from GoalZero. Philip, could you say something about the new products that you have?
 
 **Philip:**	Sure, hi guys. So our great new story this summer is our Extended Nomad Plus series. It's three solar panels, let's see over here. We have the Nomad 7, which is a seven block panel, it's our smallest lightweight panel. Nomad 14, which is a medium size panel. And then we've got that bad guy, Nomad 28 the super powered panel for our bigger battery packs.

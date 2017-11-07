@@ -16,9 +16,7 @@ Looking for a lightweight waterproof jacket for your next hiking, backpacking or
 <amp-img src="https://farm6.staticflickr.com/5520/11379723083_5cf7ba4ecc_b.jpg" layout="responsive" width="1024" height="465" alt="Arc'teryx Tecto FL"></amp-img>
 <br>
 <!--more-->
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 
 

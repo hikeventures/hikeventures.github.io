@@ -151,4 +151,4 @@ My personal preference goes towards the <a href="http://www.avantlink.com/click.
 IIf I would not need the messenger and tracking function, then I would probably get the <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F843146%2Facr-electronics-resqlink-gps-personal-locator-beacon" target="_blank" rel="nofollow">ACR ResQlink+ 406</a>.
 
 <br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

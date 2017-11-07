@@ -17,9 +17,7 @@ When I go hiking or backpacking I occasionally document my trip with notes about
 <amp-img src="https://farm4.staticflickr.com/3665/11466248965_4e1a237577_b.jpg" layout="responsive" width="1024" height="683" alt="Field Notes Expedition review"></amp-img>
 <br>
 <!--more-->
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 
 

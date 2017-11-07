@@ -20,8 +20,7 @@ Here is our interview with MSR at the OutDoor Show 2017 in Friedrichshafen about
 </div>
 <br>
 <!--more-->
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script><br>
 **Konstantin:**	Hi this is Konstantin and I have got John from MSR. Hi, would you tell us more about the new wind burner family?
 
 **John:**	Sure. So the wind burner stove technology that we introduced a few years ago it was this original stove, have fuel canisters go on top. If you think about the wind burner stove and all this new product shares it, is that it's not only as a press regulator so it's conforming as the temperature gets lower so you never lose performance, but it's also completely wind proof because the stove connects to the pot in way that the wind that technology is really good but it's really focused around the small pot, making hot water, doing dehydrated meals. We wanted to take that same technology of that wind proof and the pressure regulator and expand it out and do more things with the product.

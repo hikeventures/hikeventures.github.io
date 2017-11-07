@@ -16,9 +16,7 @@ Having used my old 10 EUR bag which I have used the last 2 years, I decided to u
 <amp-img src="https://farm9.staticflickr.com/8107/8619172577_20b9cf4901_b.jpg" width="1024" width="604" alt="North Face BASE CAMP DUFFEL L" layout="responsive"></amp-img>
 <br>
 <!--more-->
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 
 

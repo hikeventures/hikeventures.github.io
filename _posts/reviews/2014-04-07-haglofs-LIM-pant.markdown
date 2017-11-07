@@ -16,9 +16,7 @@ Are you looking for waterproof rain pants for your next hiking, backpacking or a
 <amp-img src="https://c4.staticflickr.com/8/7206/13685518345_0d22860c15_o.jpg" layout="responsive" width="992 height="662" alt="Haglöfs LIM Pants Review"></amp-img>
 <br>
 <!--more-->
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 
 

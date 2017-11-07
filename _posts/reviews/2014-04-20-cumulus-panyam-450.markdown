@@ -15,9 +15,7 @@ Looking for a warm high quality down sleeping bag for 4-season hiking, backpacki
 <amp-img src="https://farm8.staticflickr.com/7087/13946402053_4126fe266f_b.jpg" layout="responsive" width="1024" height="683" alt="Cumulus Panyam 450 Review"></amp-img>
 <br>
 <!--more-->
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 
 ## Features

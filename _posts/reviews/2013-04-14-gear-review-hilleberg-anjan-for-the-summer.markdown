@@ -17,9 +17,7 @@ Further, I would not get the GT version If I were to buy the Anjan or the Nallo.
 <amp-img src="https://farm9.staticflickr.com/8541/8648026950_c0f7a5fdac_b.jpg" layout="responsive" width="1000" heigh="667" alt="Hilleberg Anjan label entrance"></amp-img>
 <br>
 <!--more-->
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 
 ## Features

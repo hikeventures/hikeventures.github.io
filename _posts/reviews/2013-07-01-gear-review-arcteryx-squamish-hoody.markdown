@@ -15,11 +15,8 @@ Since I am planning to go to Sarek National Park in Sweden this autumn, I was lo
 <amp-img src="https://farm8.staticflickr.com/7362/9185822642_76ec520b9c_b.jpg" layout="responsive" width="1024" height="683" alt="Arc'teryx Squamish Hoody"></amp-img>
 <br>
 <!--more-->
-
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
-
 
 ## Features
 I really like the quality of materials on the Arc'teryx Squamish Hoody, it's breathability and that's it doesn't take much space in the backpack. This windbreaker is also able to handle light rain due to it's DWR finish, comes with adjustable cuffs, hem drawcord and is helmet compatible. This wind jacket also feels soft to the skin and weights only 145 grams.

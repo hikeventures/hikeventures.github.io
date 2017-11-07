@@ -16,9 +16,7 @@ Today, I wanted to test the performance of my Sigma Merrill DP1 in night conditi
 <a href="https://www.flickr.com/photos/90204224@N07/8368721106"><img src="https://farm9.staticflickr.com/8515/8368721106_191f5527d0_b.jpg" width="1024" height="683"></a>
 <br>
 <!--more-->
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 
 <a href="https://www.flickr.com/photos/90204224@N07/8367654843"><img src="https://farm9.staticflickr.com/8357/8367654843_88fd71cc23_b.jpg" width="1024" height="683"></a>

@@ -16,9 +16,7 @@ A while ago I was contacted by a representative of  [MPOWERD][1], who asked me i
 <amp-img src="https://farm6.staticflickr.com/5597/15636357331_9926cfd49a_b.jpg" layout="responsive" width="1024" height="615" alt="Luci Outdoor Solar Lantern"></amp-img>
 <br>
 <!--more-->
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 
 

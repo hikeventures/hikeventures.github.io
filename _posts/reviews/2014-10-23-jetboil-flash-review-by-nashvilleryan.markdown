@@ -13,11 +13,8 @@ For those folks looking for a new stove for their next hiking, climbing, kayakin
 <amp-img src="https://farm6.staticflickr.com/5607/15422981859_bb0f3187b7_b.jpg" layout="responsive" width="768"  height="1024" alt="Jetboil Flash Review by Nashvilleryan"></amp-img>
 <br>
 <!--more-->
-
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
-
 
 I have previously also reviewed the <a href="http://hikeventures.com/gear-review-jetboil-sol-ti/" target="_blank">Jetboil Sol Ti</a>  and it's always interesting to read what others think about a similar stove from the same manufacturer. The main difference between the Jetboil Sol Ti and the Jetboil Flash are:
 

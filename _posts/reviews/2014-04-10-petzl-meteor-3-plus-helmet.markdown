@@ -17,9 +17,7 @@ For our packrafting trips we were looking for a suitable helmet and came across 
 <amp-img src="https://farm8.staticflickr.com/7383/13884350431_55197840aa_b.jpg" layout="responsive" width="683" height="1024" alt="Petzl Meteor 3 helmet review"></amp-img>
 <br>
 <!--more-->
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 
 ## Features

@@ -21,8 +21,7 @@ Robens shows us their award winning Couloir 750 sleeping bag at the OutDoor Show
 <br>
 <!--more-->
 <br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script><br>
 **Konstantin:**	Hi this is Konstantin from HikeVentures and I've got Walter from Robert's. Walta, would you say something about this sleeping bag, that you've presented.
 
 **Walta:**	Yes, we're very proud to have won an outdoor award for this sleeping bag. It's called the Couloir 750. And 750 is the amount of duck down, grams of duck down, that's in the bag. So it's a good three season bag. It's a mummy shape technical bag like you can see the zip in center of the bag. So the lining is really comfortable, double protection.

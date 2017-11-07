@@ -16,9 +16,7 @@ The Powertraveller Solarmonkey Adventurer is my new solar charging device for my
 <amp-img src="https://farm3.staticflickr.com/2935/13937097045_2defb0f541_b.jpg"  layout="responsive" width="1024" height="683" alt="Solarmonkey Adventurer"></amp-img>
 <br>
 <!--more-->
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
+<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 
 <a href="https://www.flickr.com/photos/90204224@N07/13913955861/" ><img src="https://farm8.staticflickr.com/7202/13913955861_e082b58204_b.jpg" width="1024" height="683" alt="Powertraveller Solarmonkey Adventurer"></a>
