@@ -10,7 +10,7 @@ tags:
 layout: post
 image: https://farm5.staticflickr.com/4521/26631808859_bdcd9a3b00_o.jpg
 ---
-The advantage of living in Santiago de Chile is that, just outside the metropolitan limit, lie different hiking and trekking areas, national parks, volcanoes and glaciers. Many of the trails can be done within one days with options of expanding it to two days.
+The advantage of living in Santiago de Chile is that, just outside the metropolitan limit, lie different hiking and trekking areas, national parks, volcanoes and glaciers. Many of the trails can be done within one day with options of expanding it to two days.
 
 <amp-img src="https://farm5.staticflickr.com/4572/38352412876_6778730920_o.jpg" width="1334" height="1000" alt="Hiking Chile National Park La Campana - Las Palmas de Ocoa Sector - Portezuelo de Ocoa" layout="responsive"></amp-img>
 <br>
