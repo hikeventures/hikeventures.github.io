@@ -25,8 +25,13 @@ Starting at 400 m high and going up to 2.222 m, there are different trekking pat
 <amp-img src="https://farm5.staticflickr.com/4572/38352412876_6778730920_o.jpg" width="1334" height="1000" alt="Hiking Chile National Park La Campana - Las Palmas de Ocoa Sector" layout="responsive"></amp-img>
 
 **External links:**
-La Campana National Park:  http://chile.travel/en/intereses-destacados/national-parks-and-reserves/la-campana-national-park
-The Chilean Wine Palm: http://www.arkive.org/chilean-wine-palm/jubaea-chilensis/
-Information about hiking in the Ocoa sector (select Spanish for more info on the trekking paths): http://www.andeshandbook.org/senderismo/ruta/682/Portezuelo_Ocoa_desde_Granizo
+La Campana National Park:
+http://chile.travel/en/intereses-destacados/national-parks-and-reserves/la-campana-national-park<br>
+
+The Chilean Wine Palm:
+http://www.arkive.org/chilean-wine-palm/jubaea-chilensis/<br>
+
+Information about hiking in the Ocoa sector (select Spanish for more info on the trekking paths):
+http://www.andeshandbook.org/senderismo/ruta/682/Portezuelo_Ocoa_desde_Granizo<br>
 
 This post was written by Catalin Butnariu who studied together with Patrick in Austria.
