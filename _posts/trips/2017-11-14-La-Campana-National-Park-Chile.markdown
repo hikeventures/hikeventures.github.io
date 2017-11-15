@@ -19,7 +19,6 @@ The advantage of living in Santiago de Chile is that, just outside the metropoli
 Today I present you the sector of Las Palmas de Ocoa, within the National Park of La Campana. This section lies at about 100 km North-West of the city center of Santiago and is known, among others, for two facts.
 
 <amp-img src="https://farm5.staticflickr.com/4548/38386367842_24d7443188_o.jpg" width="1000" height="1334" alt="Hiking Chile National Park La Campana - Las Palmas de Ocoa Sector - Portezuelo de Ocoa" layout="responsive"></amp-img>
-<br>
 
 One is Charles Darwin hiking the top of La Campana Mountain (approx. 1.910 m) in August 1834 and the second are the forests of prehistoric Chilean Wine Palm (Jubaea Chilensis), one of it's last kind on Planet Earth.
 
