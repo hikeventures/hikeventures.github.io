@@ -1,16 +1,16 @@
----
+published: false
 title: Hiking in the La Campana National Park in Chile
 description: Hiking adventure in La Campana National Park
 date: 2017-11-14 07:14:01
 category: destinations
 tags:
   - articles
-  - chile
+  - chike
   - La Campana
 layout: post
 image: https://farm5.staticflickr.com/4521/26631808859_bdcd9a3b00_o.jpg
 ---
-The advantage of living in Santiago de Chile is that, just outside the metropolitan limit, lie different hiking and trekking areas, national parks, volcanoes and glaciers. Many of the trails can be done within one day with options of expanding it to two days.
+The advantage of living in Santiago de Chile is that, just outside the metropolitan limit, like different hiking and trekking areas, national parks, volcanoes and glaciers. Many of the trails can be done within one day with options of expanding it to two days.
 
 <amp-img src="https://farm5.staticflickr.com/4572/38352412876_bba7928a19_o.jpg" width="1334" height="1000" alt="Hiking Chile National Park La Campana - Las Palmas de Ocoa Sector - Portezuelo de Ocoa" layout="responsive"></amp-img>
 <br>
