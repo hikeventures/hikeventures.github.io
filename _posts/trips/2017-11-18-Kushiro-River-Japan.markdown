@@ -1,4 +1,5 @@
 ---
+published: false
 title: Packrafting the Kushiro River in Japan: Day 1
 description: Packrafting the upper Kushiro River, Hokkaido, Japan
 date: 2017-11-18 23:55:01
