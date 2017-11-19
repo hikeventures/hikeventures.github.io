@@ -42,4 +42,4 @@ The river is gradually changing and the last part before out putout next to the 
 <amp-img src="https://farm5.staticflickr.com/4520/26732300639_171f8dbdb7_k.jpg" width="2048" height="636" alt="Packrafting the upper Kushiro River in Japan" layout="responsive"></amp-img>
 
 
-We finish the day by going back to the Kussharo lake, putting a tent at a camping ground on its shore and enjoying a free, open air onsen (that is a hot bath), which is one of many around this volcanic area.
+We finish the day by going back to the Kussharo lake, putting a tent at a camping ground on its shore and enjoying a free, open air onsen (Wakoto Hot Spring), which is one of many around this volcanic area.
