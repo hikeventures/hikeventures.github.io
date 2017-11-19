@@ -14,14 +14,14 @@ image: https://farm5.staticflickr.com/4510/37004162180_63a2edc235_k.jpg
 ---
 After a short flight from Tokyo where I was staying the previous night, I arrive at Memanbetsu airport and meet my friend Satoru Higashitani (a.k.a. Gum) and his son Todjiro (a.k.a. Monkey). Getting to know each other through Instagram, we met to paddle together during my first visit to Japan three years ago and, since then, became friends. This year I am joining them on their holidays in Hokkaido and the first river we plan to paddle is the upper section of the Kushiro river, which we also paddled last year.
 
-<amp-img src="https://farm5.staticflickr.com/4586/24635860908_99efbe9792_k.jpg" width="2048" height="821" alt="Packrafting the upper Kushiro River in Japan" layout="responsive"></amp-img>
+<amp-img src="https://farm5.staticflickr.com/4586/24635860908_99efbe9792_k.jpg" width="2048" height="821" alt="Packrafting and hiking the upper Kushiro River in Japan" layout="responsive"></amp-img>
 <br>
 <!--more-->
 
 Starting from the Kussharo Lake, which is a famous paddling destination on its own right, this part of river is very popular among canoeists and tourists and there are several companies which organize canoe tours here. We inflate our packrafts at the lake shore (some of the guides showed a lot of interest in them) and follow one of such groups.
 
 
-<amp-img src="https://farm5.staticflickr.com/4554/38476153932_463f803538_k.jpg" width="2048" height="566" alt="Packrafting the upper Kushiro River in Japan" layout="responsive"></amp-img>
+<amp-img src="https://farm5.staticflickr.com/4554/38476153932_463f803538_k.jpg" width="2048" height="566" alt="Packrafting andhiking the upper Kushiro River in Japan" layout="responsive"></amp-img>
 
 
 Though there is a noticeable current, the river is not difficult but there are a lot of low overhanging trees that you need to avoid while navigating the bends. Another danger are the ever-present 'abu,' Japanese horseflies. They seemed to choose us as their target, while leaving the paying tourists and the canoe guides alone. Poor Monkey is suffering the most. He even tries to hide under some extra clothes or shoot them with his water gun, but it is to no avail - they still manage to find a way to annoy him. “Kuso abu,” says Gum (which roughly means – ‘shitty horseflies’) and I completely agree with him.
