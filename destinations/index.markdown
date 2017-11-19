@@ -341,6 +341,13 @@ footer: false
             </div>
 
             <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
+            <a class="thumbnail" href="http://www.hikeventures.com/Kushiro-River-Japan/" style="color: #FFF; border: 0px;">
+          <div class="thumbnail text-center">
+          <img src="https://farm5.staticflickr.com/4547/38518867481_938960267f_z.jpg" alt="" class="img-responsive">
+          <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Kushiro River</p>
+          </div></div></a></div></div>
+
+            <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/Murodo-Tateyama-Mountain/" style="color: #FFF; border: 0px;">
         <div class="thumbnail text-center">
         	<img src="https://farm2.staticflickr.com/1637/24052205750_c3f6f93889_z.jpg" alt="" class="img-responsive">
