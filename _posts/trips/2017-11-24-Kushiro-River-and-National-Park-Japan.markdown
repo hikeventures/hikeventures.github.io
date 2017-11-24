@@ -1,5 +1,5 @@
 ---
-publish: false
+published: false
 title: Packrafting the Kushiro River in Japan - Day 2
 description: Packrafting the middle Kushiro River and Kushiro-Shitsugen National Park, Hokkaido, Japan
 date: 2017-11-24 23:55:01
