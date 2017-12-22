@@ -65,10 +65,17 @@ Also, have a look at our [FAQ on down jackets](#faq-on-down-jackets).
           <td><a href="http://amzn.to/2xN8VwP" target="_blank" rel="nofollow">Rab Zero G (1000 fill)</a></td><td>11 oz. / 310 grams</td>
         </tr>
         <tr>
+           <td><a href="http://amzn.to/2CZ96oC" target="_blank" rel="nofollow">Mountain Hardwear Nitrous Hooded Down Jacket (800-fill)</a></td><td>11.6 oz. / 328 grams</td>
+         </tr>
+        <tr>
           <td><a href="http://amzn.to/2yfCetq" target="_blank" rel="nofollow">Marmot Quasar Hoody (850-fill)</a></td><td>13.1 oz. / 372 grams</td>
         </tr>
         <tr>
           <td><a href="http://amzn.to/2xMTnta" target="_blank" rel="nofollow">Arcteryx Cerium SV Hoody (850-fill)</a></td><td>15.5 oz. / 440 grams</td>
+        </tr>
+        <tr>
+        <tr>
+          <td><a href="http://amzn.to/2Bmng2T" target="_blank" rel="nofollow">Berghaus Tephra (Stretch) Down Jacket</a></td><td>16.3 oz. / 463 grams</td>
         </tr>
         <tr>
           <td><a href="http://amzn.to/2yeSfzF" target="_blank" rel="nofollow">Rab Infinity Endurance Jacket (850-fill)</a></td><td>20.5 oz. / 575 grams</td>
@@ -155,6 +162,22 @@ Synthetic insulation is strategically used in parts of this jacket as well.
 
 <hr>
 
+## Berghaus Tephra (Stretch) Down Jacket (600-fill)
+
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B0732YB9FN/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0732YB9FN&linkCode=as2&tag=hikeve-20&linkId=18ef639b4de399d439bd1405791f220f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0732YB9FN&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0732YB9FN" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight**: 463 grams / 16.3 oz.
+
+The Berghaus Tephra Down Jacket is a less technical jacket but comes with a modern design. There are two versions available (stretch/non-stretch version) of this jacket. Both versions are filled with hydrophic down  made by NikWax® which makes the jacket more resistant under wet conditions (up to 16 hours when wet according to the manufacurer). The jacket with the stretch fabric also comes with fleece inlets under the arms.
+
+The outer layer of the jacket is made of Pertex to keep cold wind out.
+
+<a href="http://amzn.to/2Bmng2T" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+
+<hr>
+
+
 ## Canada Goose Expedition Down Parka (625-fill)
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01KXUFDQC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01KXUFDQC&linkCode=as2&tag=hikeve-20&linkId=5aaf89773baa2dd8884a28b116bf9e3e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01KXUFDQC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01KXUFDQC" width="1" height="1" border="0" alt="Canada Goose Expedition Down Parka" style="border:none !important; margin:0px !important;" />
@@ -231,6 +254,23 @@ If you are looking for a proper winter jacket, then we would rather pick the Rab
 See the Men’s Mountain Hardware Ghost Whisperer See the Women’s Mountain Hardware Ghost Whisperer
 
 <a href="http://amzn.to/2x2gQrn" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+<hr>
+
+
+## Mountain Hardwear Nitrous Hooded Down Jacket (800-fill)
+
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01MTR9RUC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MTR9RUC&linkCode=as2&tag=hikeve-20&linkId=f43cf7a6eeec849172d9f3d5a596435a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MTR9RUC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MTR9RUC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight**: 328 grams / 11.6 oz
+
+The Mountain Hardware Nitrous Hooded Down Jacket is a lightweight and durable jacket with 22D sensor ripstop fabric which is reinforced to prevent tearing and ripping. It also comes with Q.Shield Down which is certified to the Responsible Down Standard (RDS) by Control Union and more resistant towards moisture than a regular down jacket.
+
+The jacket is filled with NikWax Hydrophobic Down 800-fill and is fluorine free.
+
+The jacket also comes with zippered handwarmer pockets, zippered left chest pocket, and two interior drop pockets.
+
+<a href="http://amzn.to/2CZ96oC" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
