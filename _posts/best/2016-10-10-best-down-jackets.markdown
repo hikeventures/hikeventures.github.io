@@ -2,7 +2,7 @@
 title: Best Down Jackets 2017 - 2018
 description: Need a warm jacket for your autumn or winter? We found the best lightweight down jackets for 2017
 date: 2016-10-10 20:43:52
-update_date: 2017-08-27 05:43:52
+update_date: 2017-12-22 22:10:52
 category: articles
 image: https://c1.staticflickr.com/8/7379/15913311563_d90e96b2c3_k.jpg
 tags:
@@ -74,7 +74,7 @@ Also, have a look at our [FAQ on down jackets](#faq-on-down-jackets).
         <tr>
           <td><a href="http://amzn.to/2xMTnta" target="_blank" rel="nofollow">Arcteryx Cerium SV Hoody (850-fill)</a></td><td>15.5 oz. / 440 grams</td>
         </tr>
-        
+
         <tr>
           <td><a href="http://amzn.to/2Bmng2T" target="_blank" rel="nofollow">Berghaus Tephra Stretch Down Jacket</a></td><td>16.3 oz. / 463 grams</td>
         </tr>
