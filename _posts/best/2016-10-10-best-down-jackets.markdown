@@ -65,7 +65,9 @@ Also, have a look at our [FAQ on down jackets](#faq-on-down-jackets).
           <td><a href="http://amzn.to/2xN8VwP" target="_blank" rel="nofollow">Rab Zero G (1000 fill)</a></td><td>11 oz. / 310 grams</td>
         </tr>
 
-      
+        <tr>
+           <td><a href="http://amzn.to/2CZ96oC" target="_blank" rel="nofollow">Mountain Hardwear Nitrous Hooded Down Jacket (800-fill)</a></td><td>11.6 oz. / 328 grams</td>
+         </tr>
         <tr>
           <td><a href="http://amzn.to/2yfCetq" target="_blank" rel="nofollow">Marmot Quasar Hoody (850-fill)</a></td><td>13.1 oz. / 372 grams</td>
         </tr>
@@ -74,7 +76,7 @@ Also, have a look at our [FAQ on down jackets](#faq-on-down-jackets).
         </tr>
         <tr>
         <tr>
-          <td><a href="http://amzn.to/2Bmng2T" target="_blank" rel="nofollow">Berghaus Tephra (Stretch) Down Jacket</a></td><td>16.3 oz. / 463 grams</td>
+          <td><a href="http://amzn.to/2Bmng2T" target="_blank" rel="nofollow">Berghaus Tephra Stretch Down Jacket</a></td><td>16.3 oz. / 463 grams</td>
         </tr>
         <tr>
           <td><a href="http://amzn.to/2yeSfzF" target="_blank" rel="nofollow">Rab Infinity Endurance Jacket (850-fill)</a></td><td>20.5 oz. / 575 grams</td>
