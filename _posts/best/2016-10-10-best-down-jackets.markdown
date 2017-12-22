@@ -74,7 +74,7 @@ Also, have a look at our [FAQ on down jackets](#faq-on-down-jackets).
         <tr>
           <td><a href="http://amzn.to/2xMTnta" target="_blank" rel="nofollow">Arcteryx Cerium SV Hoody (850-fill)</a></td><td>15.5 oz. / 440 grams</td>
         </tr>
-        <tr>
+        
         <tr>
           <td><a href="http://amzn.to/2Bmng2T" target="_blank" rel="nofollow">Berghaus Tephra Stretch Down Jacket</a></td><td>16.3 oz. / 463 grams</td>
         </tr>
