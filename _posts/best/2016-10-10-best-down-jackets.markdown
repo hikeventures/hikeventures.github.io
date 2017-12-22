@@ -76,7 +76,7 @@ Also, have a look at our [FAQ on down jackets](#faq-on-down-jackets).
         </tr>
 
         <tr>
-          <td><a href="http://amzn.to/2Bmng2T" target="_blank" rel="nofollow">Berghaus Tephra Stretch Down Jacket</a></td><td>16.3 oz. / 463 grams</td>
+          <td><a href="http://amzn.to/2Bmng2T" target="_blank" rel="nofollow">Berghaus Tephra Stretch Down Jacket (600-fill)</a></td><td>16.3 oz. / 463 grams</td>
         </tr>
         <tr>
           <td><a href="http://amzn.to/2yeSfzF" target="_blank" rel="nofollow">Rab Infinity Endurance Jacket (850-fill)</a></td><td>20.5 oz. / 575 grams</td>
