@@ -8,8 +8,6 @@ footer: false
 published: true
 ---
 
-{% include banner_ad.html %}
-
 <div class="table">
 
       <table class="table table-hover table-condensed">
@@ -26,7 +24,7 @@ published: true
             <td><a href="/aquapac-waterproof-camera-pouch">Aquapac Waterproof Camera Pouch</a></td>
             <td><a href="/gear-review-hmg-porter-4400-black">HMG Porter 4400 black</a></td>
 
-          </tr>  
+          </tr>
 
    <tr>
    <td><a href="/gear-review-laufbursche-huckepack-hp450">Laufbursche Huckepack Hp450</a></td>
@@ -78,10 +76,16 @@ published: true
 
 </tr>
 
+<tr>
+
+           <td><a href="/primus-powerlighter/">Primus PowerLighter</a></td>
+        <td><a href="/gear-review-steripen-freedom">SteriPen Freedom</a></td>
+
+ </tr>
  <tr>
 
-            <td><a href="/gear-review-steripen-freedom">SteriPen Freedom</a></td>
-         <td><a href="/with-the-thermos-bottle-over-the-arctic-circle">Thermos bottle</a></td>
+            <td><a href="/with-the-thermos-bottle-over-the-arctic-circle">Thermos bottle</a></td>
+         <td></td>
 
   </tr>
 
@@ -239,7 +243,7 @@ published: true
              	<td><a href="http://hikeventures.com/solarmonkey-adventurer">Solarmonkey Adventurer</a></td>
              	 </tr>
         <tr>
-        	<td><a href="/recording-nature-sound-for-your-dslr-videos-zoom-h5">Zoom H5</a></td>   
+        	<td><a href="/recording-nature-sound-for-your-dslr-videos-zoom-h5">Zoom H5</a></td>
        <td><a href="/gear-review-suunto-ambit-2-black-hr">Suunto Ambit 2 Black HR</a></td>
         </tr>
         <tr>
