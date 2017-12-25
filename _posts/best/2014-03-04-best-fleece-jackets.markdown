@@ -20,7 +20,7 @@ Here is my <a href="#table">selection</a>  of the best lightweight fleece jacket
 </p>
 </div>
 <div class="col-md-3">
- <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
 </div>
 </div>
 </div>

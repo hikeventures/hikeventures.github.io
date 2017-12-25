@@ -17,7 +17,7 @@ layout: post
 If you recently got one of the latest laptops or a MacBook Pro you will probably need a USB-C to USB adapter or a dedicated USB-C card reader to read your SD or MicroSD cards.
 </div>
 <div class="col-md-3">
- <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
 </div>
 </div>
 </div>

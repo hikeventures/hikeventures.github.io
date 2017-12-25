@@ -23,7 +23,7 @@ A portable and lightweight camping stove is one of the most essential item to ha
 </p>
 </div>
 <div class="col-md-3">
- <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+<script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
 </div>
 </div>
 </div>
