@@ -20,7 +20,7 @@ Then you could have a look on the best outdoor toothbrushes which I have selecte
 </p>
 </div>
 <div class="col-md-3">
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
 </div>
 </div>
 </div>

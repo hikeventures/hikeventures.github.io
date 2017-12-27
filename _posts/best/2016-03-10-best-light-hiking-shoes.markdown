@@ -22,7 +22,7 @@ Here is my <a href="#table">selection</a> of the best light hiking shoes for 201
 I was wearing light hiking shoes on my <a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/">hiking trip</a> in the Sarek National Park in Sweden.</p>
 </div>
 <div class="col-md-3">
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
+<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
 </div>
 </div>
 </div>
