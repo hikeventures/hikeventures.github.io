@@ -10,18 +10,9 @@ tags:
 image: https://c1.staticflickr.com/8/7754/17647383330_fe5ab2fc7e_h.jpg
 ---
 
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-9" style="padding-left: 0 !important;">
-<p>
 YI Technology has recently announced the YI 4K+ and I am quite excited to see that there are more GoPro alternatives available.
-</p>
-</div>
-<div class="col-md-3">
- <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
-</div>
-</div>
-</div>
+
+<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
 
 What makes the YI 4K+ impressive (and sets it apart from the GoPro Hero5) is that it can record 4K with 60FPS. Moreover, the YI 4K+ can also record with a higher resolution than the GoPro Hero5.
 

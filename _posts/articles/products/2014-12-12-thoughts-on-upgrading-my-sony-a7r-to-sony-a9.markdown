@@ -13,18 +13,9 @@ layout: post
 image: https://farm3.staticflickr.com/2829/11856929704_8283086780_o.jpg
 ---
 
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-9" style="padding-left: 0 !important;">
-<p>
 After having used my Sony A7r for a year, I would say that I had quite a lot of fun with it. However, there were a few aspects which could be improved from my point of view and the rumored Sony A9 reinforced me in my decision in selling my Sony A7r.
-</p>
-</div>
-<div class="col-md-3">
- <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
-</div>
-</div>
-</div>
+
+<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
 
 <amp-img src="https://farm3.staticflickr.com/2829/11856929704_8283086780_o.jpg" layout="responsive" width="1024" height="699" alt="Sony A7r LCD display"></amp-img>
 <br>

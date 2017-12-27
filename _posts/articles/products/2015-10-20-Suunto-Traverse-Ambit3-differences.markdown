@@ -12,19 +12,9 @@ tags:
 layout: post
 ---
 
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-9" style="padding-left: 0 !important;">
-
-<p>
 Suunto has recently released its latest GPS watch - the Suunto Traverse - which is especially interesting for those interested in hiking and backpacking. So what are the differences between the Suunto Ambit3 and the Suunto Traverse?
-</p>
-</div>
-<div class="col-md-3">
- <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
-</div>
-</div>
-</div>
+
+<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
 
 **Update 26.08.2017:** Suunto has released the [Suunto Spartan Sport Wrist HR GPS Watch](http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F129489%2Fsuunto-spartan-sport-wrist-hr-gps-watch) and the more affordable [Suunto Spartan Trainer Wrist HR GPS Watch](http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F129489%2Fsuunto-spartan-sport-wrist-hr-gps-watch). Both are featuring color displays and are the latest developments from Suunto. There is also the new [Garmin Fenix 5X](http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F121191%2Fgarmin-fenix-5x-sapphire-multisport-gps-heart-rate-monitor-watch) which is capable of displaying topo maps.
 

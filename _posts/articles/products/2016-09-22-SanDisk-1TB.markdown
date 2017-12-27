@@ -10,18 +10,9 @@ layout: post
 image: https://c3.staticflickr.com/9/8617/16507482946_94d0b3ba64_k.jpg
 ---
 
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-9" style="padding-left: 0 !important;">
-<p>
 Sandisk has recently introduced it's new SanDisk 1TB SDXC card which could be quite interesting if you take a lot of pictures and videos on your trip. Even so the Sony A7 does not support UHS-II the benefit of USH-II are more visible when reading the files into your computer. In addition you have a future-proof SD card for future camera generations.
-</p>
-</div>
-<div class="col-md-3">
- <script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;open=_blank"></script>
-</div>
-</div>
-</div>
+
+<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
 
 <amp-img src="https://c3.staticflickr.com/9/8617/16507482946_94d0b3ba64_k.jpg" layout="responsive" width="2048" height="1536" alt="Sandisk 1TB UHS-II Sony A7"></amp-img>
 <br>
