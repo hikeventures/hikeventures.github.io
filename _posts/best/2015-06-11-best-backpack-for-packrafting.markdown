@@ -12,21 +12,11 @@ tags:
 layout: post
 ---
 
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-9" style="padding-left: 0 !important;">
-<p>
 Here is my <a href="#table">selection</a> of the best backpacks which I would consider to take on my next pack rafting adventure.
-</p>
-<p>
+
 Having used the <a href="http://www.hikeventures.com/gear-review-hmg-porter-4400-black/">HMG Porter 4400</a> for the last 3 years on my packrafting trips I was interested to see which alternatives would be available on the market.
-</p>
-</div>
-<div class="col-md-3">
+
 <div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-</div>
-</div>
-</div>
 
 Gernerally speaking I was not able to find any alternative to the HMG Porter 4400 which is that light and feels like a proper backpack when I bought it.
 

@@ -13,18 +13,9 @@ layout: post
 ---
 Here is my [selection](#the-best-rain-jackets-of-2017) of the best rain jackets for 2017 - 2018 which I would take on my next hiking or backpacking trip.
 
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-9" style="padding-left: 0 !important;">
-<p>
 A rain jacket should always be in your backpack when you are planning to go outdoors. A rain jacket may also protect you from cold winds even if it is not raining.
-</p>
-</div>
-<div class="col-md-3">
+
 <div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-</div>
-</div>
-</div>
 
 If you expect the weather to be good but only windy then you may also consider to take a [wind jacket](http://www.hikeventures.com/best-windjackets/) with you rather than a rain jacket.
 

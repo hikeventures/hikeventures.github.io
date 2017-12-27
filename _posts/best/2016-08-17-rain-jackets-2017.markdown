@@ -11,18 +11,10 @@ tags:
   - rain jackets
 ---
 
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-9" style="padding-left: 0 !important;">
-<p>
 Here is a <a href="#table">selection</a> of the new rain jackets for 2017 - 2018 on the market. This is not a complete list and I may add a few more models in the future.
-</p>
-</div>
-<div class="col-md-3">
+
 <div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-</div>
-</div>
-</div>
+
 I always take a rain jacket with me when I go [hiking](http://www.hikeventures.com/destinations/), backpacking or cycling.
 
 Depending on the season or activity it might also be a good idea to have different rain jackets.

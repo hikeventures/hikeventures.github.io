@@ -12,18 +12,9 @@ tags:
 layout: post
 ---
 
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-9" style="padding-left: 0 !important;">
-<p>
 Here is my <a href="#table">selection</a>  of the best lightweight fleece jackets for 2017 - 2018 which I would consider to buy for my next hiking or backpacking adventure.
-</p>
-</div>
-<div class="col-md-3">
+
 <div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-</div>
-</div>
-</div>
 
 Here is my [selection](#the-best-fleece-jackets-of-2017) of the best lightweight fleece jackets for 2017 - 2018 which I would consider to buy for my next hiking or backpacking adventure.
 

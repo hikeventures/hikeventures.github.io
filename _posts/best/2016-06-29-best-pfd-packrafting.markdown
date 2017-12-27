@@ -11,22 +11,11 @@ tags:
   - pfd
 ---
 
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-9" style="padding-left: 0 !important;">
-<p>
 Here is my <a href="#table">selection</a> of the best life jackets or PFDs for Packrafting and Kayaking in 2017.
-</p>
-<p>
+
 As we are frequently on packrafting trips we are always interested to find new packrafting gear like.
 
-</p>
-</div>
-<div class="col-md-3">
 <div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-</div>
-</div>
-</div>
 
 The life jackets in this blog post are also suitable for Kayaking. In fact they have probably been designed with Kayakers in mind as I have not heard about specific packrafting life jackets yet (nor do I think that there would be much of a difference).
 

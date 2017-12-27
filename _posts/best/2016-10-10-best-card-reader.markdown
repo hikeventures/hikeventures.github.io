@@ -10,17 +10,9 @@ tags:
 layout: post
 ---
 
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-9" style="padding-left: 0 !important;">
-<p>
 If you recently got one of the latest laptops or a MacBook Pro you will probably need a USB-C to USB adapter or a dedicated USB-C card reader to read your SD or MicroSD cards.
-</div>
-<div class="col-md-3">
+
 <div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-</div>
-</div>
-</div>
 
 Some cameras also allow to wirelessly transfer data to the computer by using Wifi but this might be a slower option than transferring the data by using a card reader.
 

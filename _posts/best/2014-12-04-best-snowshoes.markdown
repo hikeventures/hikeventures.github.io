@@ -12,21 +12,11 @@ tags:
 layout: post
 ---
 
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-9" style="padding-left: 0 !important;">
-<p>
 Here is my <a href="#table">selection</a> of the best snowshoes for 2017 - 2018. which I would consider taking to my next winter adventures.
-</p>
-<p>
+
 Snowshoes are quite useful if you are planning to ascent a mountain or walk in powder snow. Snowshoeing is easy to learn and not that expensive.
-</p>
-</div>
-<div class="col-md-3">
+
 <div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-</div>
-</div>
-</div>
 
 Also consider to get a pair of snowshoe poles for your snowshoeing trips as they will help you a lot on your snowshoeing adventure.
 

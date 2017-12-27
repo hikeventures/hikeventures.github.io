@@ -10,21 +10,12 @@ tags:
   - flash
 layout: post
 ---
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-9" style="padding-left: 0 !important;">
-<p>
+
 In this blog post I have selected the best sensor cleaning kit which I would consider for my Sony a7 (or a9 or a6500)
-</p>
-<p>
+
 In general it's a pretty simple process to clean your sony camera sensor.
-</p>
-</div>
-<div class="col-md-3">
+
 <div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-</div>
-</div>
-</div>
 
 First of all you have to set your camera into cleaning mode.
 

@@ -12,21 +12,11 @@ tags:
 layout: post
 ---
 
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-9" style="padding-left: 0 !important;">
-<p>
 Here is my <a href="#table">selection</a> of the best wind jackets for 2017 - 2018 which I would consider to take on my next hiking or backpacking trip.
-</p>
-<p>
+
 A lightweight wind jacket is probably one of the most useful pieces of clothes which you can take with you. It does not need much space, and you can easily store it in your backpack.
-</p>
-</div>
-<div class="col-md-3">
+
 <div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-</div>
-</div>
-</div>
 
 I always combine a wind jacket with a [fleece jacket](http://www.hikeventures.com/best-windjackets/) to protect myself against cold winds.
 

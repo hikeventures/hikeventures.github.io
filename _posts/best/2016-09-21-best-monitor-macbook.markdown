@@ -9,21 +9,12 @@ tags:
 layout: post
 ---
 
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-9" style="padding-left: 0 !important;">
-<p>
 As I am planning to buy a new MacBook Pro I was curious to find out which monitor I should get to connect it with my new MacBook Pro and what would be <a href="#table">the best alternative</a> to the LG UltraFine 4K or 5K monitors.
-</p>
-<p>
+
 Having a headlamp can be a life saver, and it’s a good idea to have one with you in your backpack especially during the winter.
-</p>
-</div>
-<div class="col-md-3">
+
 <div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-</div>
-</div>
-</div>
+
 I really would like to have an external 4K or 5K monitor with my MacBook Pro since it is much more convenient to edit pictures.
 
 In the past I had a 27" HD monitor to edit my pictures but since I am planning to take 4K videos in the near future I would be really nice to have a 4K or even a 5K screen.

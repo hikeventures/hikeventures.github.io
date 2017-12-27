@@ -11,21 +11,11 @@ tags:
 layout: post
 ---
 
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-9" style="padding-left: 0 !important;">
-<p>
 In this blog post I would like to write about the best portable USB battery packs which I have selected for our hiking and backpacking trips as we need a lot of energy to power our USB devices such as our GoPro Hero camera, iPhones or <a href="http://www.hikeventures.com/best-headlamps/">headlamps</a>
-</p>
-<p>
+
 Having a headlamp can be a life saver, and it’s a good idea to have one with you in your backpack especially during the winter.
-</p>
-</div>
-<div class="col-md-3">
+
 <div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-</div>
-</div>
-</div>
 
 For a multi-day trip where we have no access to a power socket we solely rely on a portable USB battery to charge our devices.
 

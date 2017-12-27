@@ -13,21 +13,11 @@ tags:
 published: true
 ---
 
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-9" style="padding-left: 0 !important;">
-<p>
 Here is my <a href="#table">selection</a> of the best hiking boots for 2017 - 2018 which I would consider to wear on my next hiking or backpacking trip.
-</p>
-<p>
+
 Hiking boots are important if you are planning to hike in the mountains or if you have to carry a heavy backpack. Moreover, they  should provide a good grip as well
-</p>
-</div>
-<div class="col-md-3">
+
 <div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-</div>
-</div>
-</div>
 
 For day trips which are not that demanding [lightweight hiking shoes](http://www.hikeventures.com/best-light-hiking-shoes/) (or hiking trainers) could be an alternative to traditional hiking boots. However, they are in most cases not waterproof but can be dried on a fire place.
 

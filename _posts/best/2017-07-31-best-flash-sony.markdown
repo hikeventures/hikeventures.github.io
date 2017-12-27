@@ -11,21 +11,11 @@ tags:
 layout: post
 ---
 
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-9" style="padding-left: 0 !important;">
-<p>
 Here is my <a href="#table">selection</a> of the best compact flash which I would consider to buy for a Sony a7,a9 or a6500 camera.
-</p>
-<p>
+
 The flash in this post can also be used on the Sony a9 or a6500 since they share the same hotshoe. A flash can be useful in various situations, for example to get a more balanced color during daylight or as a controller for other flash lights.
-</p>
-</div>
-<div class="col-md-3">
+
 <div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-</div>
-</div>
-</div>
 
 In my selection I was also taking price into consideration and selected products which are affordable.
 

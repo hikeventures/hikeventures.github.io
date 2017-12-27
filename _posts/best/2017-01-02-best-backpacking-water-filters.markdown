@@ -12,21 +12,11 @@ tags:
 layout: post
 ---
 
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-9" style="padding-left: 0 !important;">
-<p>
 Here is my <a href="#table">selection</a> of the best backpacking water filters for 2017 - 2018 which I would take with me on my next hiking or backpacking trip.
-</p>
-<p>
+
 There are several solution on the market e.g. water filters where you have to pump water through the filter or filters which do not require any pump at all (and which are also my personal preference filters).
-</p>
-</div>
-<div class="col-md-3">
+
 <div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-</div>
-</div>
-</div>
 
 Currently, I am using the Sawyer Mini Water Filtration System on my trips since it is very lightweight and does the job.
 

@@ -10,21 +10,11 @@ tags:
   - wallet
 ---
 
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-9" style="padding-left: 0 !important;">
-<p>
 In this blog post I would like to present you with my selection of the best wallets for your next hiking or backpacking trip.
-</p>
-<p>
+
 As with hiking clothes a wallet should be easy to clean, water resistant or dry fast.
-</p>
-</div>
-<div class="col-md-3">
+
 <div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-</div>
-</div>
-</div>
 
 Alternatively, you can also store your wallet in a plastic bag to keep it dry.
 

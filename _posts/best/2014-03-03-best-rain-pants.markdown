@@ -12,18 +12,9 @@ tags:
 layout: post
 ---
 
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-9" style="padding-left: 0 !important;">
-<p>
 Here is my <a href="#table">selection</a> of the best rain pants for 2017 - 2018. Planning to go hiking, backpacking or any other backcountry adventure? Then you should consider packing lightweight rain pants and a <a href="http://www.hikeventures.com/best-rain-jackets/">rain jacket</a> into your backpack.
-</p>
-</div>
-<div class="col-md-3">
+
 <div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-</div>
-</div>
-</div>
 
 Rain pants can be designed for particular activities like cycling, climbing or hiking and backpacking.
 
