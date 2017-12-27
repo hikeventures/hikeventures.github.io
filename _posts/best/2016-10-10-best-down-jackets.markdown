@@ -12,24 +12,14 @@ tags:
 layout: post
 ---
 
-<div class="container-fluid">
-<div class="row">
-<div class="col-md-9" style="padding-left: 0 !important;">
-<p>
 In this blog post, I have <a href="#table">selected</a> the best down jackets of 2017 - 2018 which I would consider buying if I were to get a new one for my next <a href="http://www.hikeventures.com/destinations/">backpacking or winter adventure</a>.
 
 A down jacket is an essential piece of clothes when planning an overnight trip outdoors or during winter time. A down jacket keeps you much warmer compared to a fleece jacket.
 
-</p>
-<p>
-Having a headlamp can be a life saver, and it’s a good idea to have one with you in your backpack especially during the winter.
-</p>
-</div>
-<div class="col-md-3">
 <div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-</div>
-</div>
-</div>
+
+Having a headlamp can be a life saver, and it’s a good idea to have one with you in your backpack especially during the winter.
+
 Further, down jackets are designed for different activities or environments, e.g., urban or outdoor adventures like hiking, backpacking, climbing or snowshoeing.
 
 Usually, I wear a [fleece jacket](http://www.hikeventures.com/best-fleece-jackets/) as a mid-layer when I go hiking. When it get’s windy I pull on a [wind jacket](http://www.hikeventures.com/best-windjackets/).  If I sit around in my camp, I switch my fleece to a down jacket.
