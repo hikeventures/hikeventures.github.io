@@ -19,8 +19,8 @@ If you expect the weather to be good but only windy then you may also consider t
 
 In most cases a lightweight rain jacket which does not need that much space in your backpack may be sufficient. Also have a look on the [rain pants](http://www.hikeventures.com/best-rain-pants/) which I would consider to pack into my backpack.
 
-<amp-img src="https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg" width="2048" height="1360" alt="Best new rain jackets for 2017 - 2018" layout="responsive"></amp-img>   
-<br>   
+<amp-img src="https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg" width="2048" height="1360" alt="Best new rain jackets for 2017 - 2018" layout="responsive"></amp-img>
+<br>
 <!--more-->
 
 ## The best rain jackets of 2017
@@ -206,5 +206,3 @@ However, you will sweat in all rain jackets if you are active regardless of the 
 For my hardshell layers like a rain jacket I use <a href="http://amzn.to/2sRiOEP" rel="nofollow">Nikwax</a> to clean them.
 
 ---
-
-I hope this blog post was helpful to find the best rain jacket for you.
