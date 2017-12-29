@@ -36,7 +36,3 @@ The Hestra Pullover Mitt is made of 100% Polyester and protects your mid- and ba
 ---
 
 I am planning to wear my glove system next January in Alta in Norway. The temperatures could go as low as -20 C there so I am quite excited if my gloves will keep me warm there. Konstantin also bought a tent with a titanium stove so we are probably also going to camp outside.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>

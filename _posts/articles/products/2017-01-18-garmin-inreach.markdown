@@ -65,7 +65,3 @@ For example, we always have issues with our iPhone if we camp in colder areas an
 Then there is also the possibility that your phone brakes on the trail. Either you drop it, or it gets wet.
 
 The Garmin devices can probably handle more impact than a cell phone. Unfortunately, there are monthly subscription fees to pay when using the satellite service, however being able to use the map features of the Explorer+ without subscription makes it also a great device to have on the trail when hiking in more civilized areas.
-
----
-
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

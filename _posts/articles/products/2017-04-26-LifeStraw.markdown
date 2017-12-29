@@ -52,5 +52,3 @@ When the filter is empty, you need to fill the filter at first with water before
 **Yeah. If you have a child, maybe its a good idea for a parent first to try it and then ...**
 
 You prime the filter first as a parent, and fill it up. Then you pass it on to your child and they are ready to go.
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

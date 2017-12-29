@@ -134,9 +134,6 @@ The Suunto watches also work great together with an e.g. iPhone which can be use
 
 **Update (26.1.2016)** Garmin has released the <a href="http://amzn.to/2jse5Ht" rel="nofollow" target="_blank">Fenix 5X</a> which has the HR monitor on the wrist and is able to upload topo maps.
 
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-
 [1]:	http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/
 [2]:	http://www.hikeventures.com/Suunto-Traverse-Ambit3-differences/
 [4]:	http://www.movescount.com/connect/iPhone%22%20target=%22_blank

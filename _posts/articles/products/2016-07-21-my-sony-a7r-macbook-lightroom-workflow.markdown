@@ -64,6 +64,3 @@ As a monitor I am planning to connect my Macbook Pro 2016 to the new <a href="ht
 
 ## Conclusion
 There are several ways to transfer your files and work with them. The process described above is just my personal preference. You could also create a similar workflow with less expensive hard drives but the ones I mentioned in this article are currently my personal favorites even so they might be a bit expensive.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

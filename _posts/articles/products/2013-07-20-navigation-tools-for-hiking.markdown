@@ -34,5 +34,3 @@ In mountainous area navigation can be more straightforward than on a flat field 
 ## Links
 <a href="http://www.suunto.com/Products/sports-watches/Suunto-Ambit2/Suunto-Ambit2-Black/" target="_blank">Suunto Ambit2</a>
 <a href="http://www.calazo.se" target="_blank">Calazo maps</a></div></div>
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

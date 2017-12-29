@@ -35,5 +35,3 @@ I usually copy the files I am planning to work with to my internal SSD drive on 
 
 ## Conclusion
 If speed is more important to you then you should consider the Samsung T3 SSD. If you are looking for the smallest portable solution to store your data then UHS-II cards (e.g. from SanDisk or Lexar) are the way to go from my point of view.
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
