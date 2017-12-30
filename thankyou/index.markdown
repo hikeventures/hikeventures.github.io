@@ -9,7 +9,6 @@ footer: true
 # Thank you for subscribing!
 
 #### Find more of our adventures on
-<div class="followers_container">
   <div id="social_followers_table" class="row">
     <div class="col-sm-6 col-lg-6 col-md-6 col-xs-12">
       <span><i class="fa fa-instagram" aria-hidden="true"></i></span> <a href="https://www.instagram.com/hikeventures/">Instagram</a>
@@ -24,4 +23,3 @@ footer: true
       <span><i class="fa fa-youtube" aria-hidden="true"></i></span><a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw">YouTube</a>.
     </div>
   </div>
-</div>
