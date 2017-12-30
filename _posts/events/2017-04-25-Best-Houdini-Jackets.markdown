@@ -1,5 +1,5 @@
 ---
-title: The best Houdini Jackets - Power Houdi and Wooler Houdi
+title: Houdini Power Houdi and Wooler Houdi - OutDoor Show Review
 description: Our interview with Houdini about their latest fleece jackets.
 date: 2017-04-25 07:28:01
 category: articles
