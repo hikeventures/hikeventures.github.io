@@ -18,7 +18,7 @@ amzn_assoc_title = "Our Amazon Picks";
 amzn_assoc_linkid = "2b69cf200daadb866b056ea5c53e2cb1";
 amzn_assoc_asins = "B00Y143XF0,B010XO3IS8,B06WWFW4YG,B00MIMHPII";
 </script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>ript src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 <div class="my-fluid-container">
 <div class="row">
