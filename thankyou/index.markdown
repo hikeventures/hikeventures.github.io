@@ -8,6 +8,8 @@ footer: true
 ---
 # Thank you for subscribing!
 
+Next, <a href="http://www.hikeventures.com/destinations/">check out</a> some of our adventures or <a href="http://www.hikeventures.com/shop/">have a look</a> on some of our gear.
+
 #### Find more of our adventures on
   <div id="social_followers_table" class="row">
     <div class="col-sm-6 col-lg-6 col-md-6 col-xs-12">
