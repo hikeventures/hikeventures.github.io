@@ -143,7 +143,7 @@ Lundhags Makke Pants</a></center>
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
   <center>  <a href="http://amzn.to/2pTVO9F" rel="nofollow">
 Western Mountaineering VersaLite</a></center>
-  <a target="_blank"  href="https://www.amazon.com/gp/product/B00EPKTMXC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00EPKTMXC&linkCode=as2&tag=hikeve-20&linkId=a9e35be3db597161133380a737a050bd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00EPKTMXC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00EPKTMXC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <a target="_blank"  href="https://www.amazon.com/gp/product/B003MT4I8Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003MT4I8Q&linkCode=as2&tag=hikeve-20&linkId=227d667dbeb9a30be96481135bc9e244"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B003MT4I8Q&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B003MT4I8Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   </div>
 
 </div>
