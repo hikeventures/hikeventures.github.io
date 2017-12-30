@@ -25,3 +25,16 @@ footer: false
   {% endfor %}
   </ul>
 </section>
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "false";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "Our Amazon Picks";
+amzn_assoc_linkid = "2b69cf200daadb866b056ea5c53e2cb1";
+amzn_assoc_asins = "B00Y143XF0,B010XO3IS8,B06WWFW4YG,B00MIMHPII";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
