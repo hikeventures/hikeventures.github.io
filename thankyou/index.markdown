@@ -6,7 +6,7 @@ comments: false
 sharing: true
 footer: true
 ---
-Next, <a href="http://www.hikeventures.com/destinations/">check out</a> some of our adventures or <a href="http://www.hikeventures.com/shop/">have a look</a> on some of our gear. Feel free to <a href="http://www.hikeventures.com/about/">contact us</a> if you have any questions.
+Next, <a href="http://www.hikeventures.com/destinations/">check out</a> some of our adventures or <a href="http://www.hikeventures.com/shop/">have a look</a> at some of our gear. Feel free to <a href="http://www.hikeventures.com/about/">contact us</a> if you have any questions.
 
 #### Find more of our adventures on
   <div id="social_followers_table" class="row">
