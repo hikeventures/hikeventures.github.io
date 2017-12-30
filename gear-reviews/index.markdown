@@ -8,6 +8,20 @@ footer: false
 published: true
 ---
 
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "true";
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "My Amazon Picks";
+amzn_assoc_linkid = "2b69cf200daadb866b056ea5c53e2cb1";
+amzn_assoc_asins = "B00Y143XF0,B010XO3IS8,B06WWFW4YG,B00MIMHPII";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
 <div class="table">
 
       <table class="table table-hover table-condensed">
