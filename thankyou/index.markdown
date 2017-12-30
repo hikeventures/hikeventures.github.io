@@ -1,13 +1,11 @@
 ---
 layout: page
-title: "Thank You"
+title: "Thank You For Subscribing"
 date: 2017-12-29 09:45
 comments: false
 sharing: true
 footer: true
 ---
-# Thank you for subscribing!
-
 Next, <a href="http://www.hikeventures.com/destinations/">check out</a> some of our adventures or <a href="http://www.hikeventures.com/shop/">have a look</a> on some of our gear.
 
 #### Find more of our adventures on
