@@ -1,0 +1,33 @@
+---
+layout: post
+title: Happy New Year 2018
+description: We wish you happy new year.
+date: 2017-12-31 07:30:00
+category: news
+---
+<div style="text-align: justify;"><span style="color:#000000"><span style="font-size:15px"><span style="background-color:#FFFFFF">HAPPY NEW YEAR&nbsp;2018!</span></span></span></div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;"><span style="color:#000000"><span style="font-size:15px"><span style="background-color:#FFFFFF">2017 was a fantastic year for us and we had the opportunity to meet many new adventurers on our hiking and packrafting trips in</span></span></span></div>
+
+<ul>
+	<li style="text-align: justify;"><a class="validating" href="http://www.hikeventures.com/brand/"><span style="color:#000000"><span style="font-size:15px">Austria</span></span></a></li>
+	<li style="text-align: justify;"><span style="color:#000000"><span style="font-size:15px">Belgium</span></span></li>
+	<li style="text-align: justify;"><span style="font-size:15px"><span style="color:#000000"><span style="background-color:#FFFFFF"><a class="validating" href="http://www.hikeventures.com/finnish-packrafting-gathering-4/">Finland</a> (Packrafting Round.-Up)</span></span></span></li>
+	<li style="text-align: justify;"><a class="validating" href="http://www.hikeventures.com/ITB-2017/"><span style="font-size:15px"><span style="color:#000000"><span style="background-color:#FFFFFF">Germany</span></span></span></a><span style="font-size:15px"><span style="color:#000000"><span style="background-color:#FFFFFF">&nbsp;</span></span></span></li>
+	<li style="text-align: justify;"><a class="validating" href="http://www.hikeventures.com/Kushiro-River-Japan/"><span style="font-size:15px"><span style="color:#000000"><span style="background-color:#FFFFFF">Japan</span></span></span></a></li>
+	<li style="text-align: justify;"><span style="font-size:15px"><span style="color:#000000"><span style="background-color:#FFFFFF">Montenegro</span></span></span></li>
+	<li style="text-align: justify;"><span style="font-size:15px"><span style="color:#000000"><span style="background-color:#FFFFFF">Netherlands</span></span></span></li>
+	<li style="text-align: justify;"><a class="validating" href="http://www.hikeventures.com/winter-camping-alta/"><span style="font-size:15px"><span style="color:#000000"><span style="background-color:#FFFFFF">Norway</span></span></span></a></li>
+	<li style="text-align: justify;"><span style="font-size:15px"><span style="color:#000000"><span style="background-color:#FFFFFF">Poland</span></span></span></li>
+	<li style="text-align: justify;"><a class="validating" href="http://www.hikeventures.com/packrafting-portugal/"><span style="font-size:15px"><span style="color:#000000"><span style="background-color:#FFFFFF">Portugal</span></span></span></a></li>
+	<li style="text-align: justify;"><span style="font-size:15px"><span style="color:#000000"><span style="background-color:#FFFFFF"><a class="validating" href="http://www.hikeventures.com/swedish-packrafting-round-up-2017/">Scotland</a> (Packrafting Round-Up)</span></span></span></li>
+	<li style="text-align: justify;"><span style="font-size:15px"><span style="color:#000000"><span style="background-color:#FFFFFF"><a class="validating" href="http://www.hikeventures.com/swedish-packrafting-round-up-2017/">Sweden</a> (Packrafting Round-Up)</span></span></span></li>
+</ul>
+
+<div style="text-align: justify;"><span style="font-size:15px">Moreover, we&nbsp;have also visited the <a class="validating" href="http://www.hikeventures.com/ITB-2017/">ITB</a> (World&#39;s Leading Travel Trade Show) in Berlin and the <a class="validating" href="http://www.hikeventures.com/Bushcraft-Essentials-2-OutDoorShow-2017/">OutDoor Show</a> in Friedrichshafen.&nbsp;</span></div>
+
+<div style="text-align: justify;">&nbsp;</div>
+
+<div style="text-align: justify;"><span style="font-size:15px">We are looking forward to meet you on one of the Packrafting Round-Ups in Sweden, Finland or Scotland in 2018!</span></div>
