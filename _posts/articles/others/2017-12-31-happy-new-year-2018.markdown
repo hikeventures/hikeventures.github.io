@@ -22,7 +22,7 @@ category: news
 	<li style="text-align: justify;"><a class="validating" href="http://www.hikeventures.com/winter-camping-alta/"><span style="font-size:15px"><span style="color:#000000"><span style="background-color:#FFFFFF">Norway</span></span></span></a></li>
 	<li style="text-align: justify;"><span style="font-size:15px"><span style="color:#000000"><span style="background-color:#FFFFFF">Poland</span></span></span></li>
 	<li style="text-align: justify;"><a class="validating" href="http://www.hikeventures.com/packrafting-portugal/"><span style="font-size:15px"><span style="color:#000000"><span style="background-color:#FFFFFF">Portugal</span></span></span></a></li>
-	<li style="text-align: justify;"><span style="font-size:15px"><span style="color:#000000"><span style="background-color:#FFFFFF"><a class="validating" href="http://www.hikeventures.com/swedish-packrafting-round-up-2017/">Scotland</a> (Packrafting Round-Up)</span></span></span></li>
+	<li style="text-align: justify;"><span style="font-size:15px"><span style="color:#000000"><span style="background-color:#FFFFFF"><a class="validating" href="http://www.hikeventures.com/Aviemore-Part-1/">Scotland</a> (Packrafting Round-Up)</span></span></span></li>
 	<li style="text-align: justify;"><span style="font-size:15px"><span style="color:#000000"><span style="background-color:#FFFFFF"><a class="validating" href="http://www.hikeventures.com/swedish-packrafting-round-up-2017/">Sweden</a> (Packrafting Round-Up)</span></span></span></li>
 </ul>
 
