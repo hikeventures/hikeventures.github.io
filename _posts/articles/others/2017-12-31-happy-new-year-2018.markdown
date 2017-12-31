@@ -5,7 +5,6 @@ description: We wish you happy new year.
 date: 2017-12-31 07:30:00
 category: news
 ---
-<div style="text-align: justify;"><span style="color:#000000"><span style="font-size:15px"><span style="background-color:#FFFFFF">HAPPY NEW YEAR&nbsp;2018!</span></span></span></div>
 
 <div style="text-align: justify;">&nbsp;</div>
 
