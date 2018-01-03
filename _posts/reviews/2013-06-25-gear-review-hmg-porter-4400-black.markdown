@@ -16,8 +16,6 @@ Since I recently purchased a packraft, I realized quickly that my <a href="http:
 <amp-img src="https://farm8.staticflickr.com/7392/9185837748_10b63a2e5d_b.jpg" layout="responsive" width="1024" width="661" alt="HMG Porter 4400"></amp-img>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 After a short discussion with the HMG owner, I was offered a backpack which is made of 150 denier nylon instead of the 50 denier nylon which comes with the regular backpack. Even so the pack is slightly heavier, it should be more durable than the lighter version. Below the pictures of HMG Porter 4400 black incl. the Porter Stuff Pocket.
 

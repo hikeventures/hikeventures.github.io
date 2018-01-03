@@ -15,8 +15,6 @@ Written by a husband-and-wife team of authors, this book was published by Appala
 <amp-img src="http://farm3.staticflickr.com/2847/11212388224_98e61e4e5c.jpg" layout="responsive" width="145" height="219" alt="AMC Guide to Winter Hiking &amp; Camping"></amp-img>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 Thus, when discussing such a common topic as where to go, the authors draw your attention to various changes in the terrain, the shorter duration of the daytime and possible difficulties you may face when trying to reach the trailhead. For those people who do not have a lot of experience in winter hiking, they also recommend to start close to home and limit their first day hikes to 3 miles (i.e. around 5 km), before gradually building up to more adventurous endeavors. Other topics covered in this book include some winter hiking and camping basics, how to plan a trip and what to think about when organizing a group. They also talk about what to wear (including a 21-item head-to-toe basic clothing list), what gear to use for traveling (e.g. snowshoes, skis, and something I have never heard of before - split boards) and what gear you can use to carry your other gear (i.e. backpacks and sleds).
 

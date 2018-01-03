@@ -20,10 +20,6 @@ Moreover, the yellow standard inner mesh also limits the view since they are not
 <br>
 <!--more-->
 
-<br>
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script><br>
-
-
 Sleeping in the Hilleberg Inner Mesh Tent is almost as sleeping directly under the stars. Of course, the mesh is visible but you can see the stars in the sky and the air flow is so much better than sleeping in a regular tent.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/34325813342/in/dateposted-public/" title="Hilleberg Unna"><amp-img src="https://c1.staticflickr.com/5/4169/34325813342_f55a7f72a2_k.jpg" width="2048" height="1367" layout="responsive" alt="Hilleberg Unna"></amp-img></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

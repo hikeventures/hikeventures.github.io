@@ -15,10 +15,6 @@ On our packrafting trip in Scotland I have tried out the Thule X4 smartphone cas
 <amp-img src="https://farm2.staticflickr.com/1641/25551505302_f7c439d91c_b.jpg" layout="responsive" width="1024" height="768" alt="Thule Atmos X4 iPhone Adventure Case"></amp-img>
 <br>
 <!--more-->
-<br>
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
-
 
 * The X4 has a better grip
 * The buttons on the X4 are easier to push

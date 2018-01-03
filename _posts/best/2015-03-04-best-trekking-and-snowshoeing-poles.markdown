@@ -16,8 +16,6 @@ Here is my <a href="#table">selection</a> of the best trekking and snowshoeing p
 
 Trekking poles are especially useful if you have to walk up or down a mountain or if you have to walk in deep powder snow with your snowshoes.
 
-<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-
 Further, you can also use trekking poles for nordic walking so they are quite versatile too.
 
 Also have a look on the [down](http://www.hikeventures.com/best-down-jackets/) or [fleece jackets](http://www.hikeventures.com/best-fleece-jackets/) which I would consider to take on my trip.

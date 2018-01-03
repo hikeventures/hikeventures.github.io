@@ -15,9 +15,6 @@ Since I am interested in outdoor photography, I am currently looking for books w
 <amp-img src="https://c1.staticflickr.com/9/8862/17861380309_f9749e3c57_o.jpg" layout="responsive" width="1024" height="768" alt="Outdoor Action and Adventure Photography"></amp-img>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
-
 
 At the beginning the book discusses gear i.e. cameras, lenses, outdoor clothing etc. and continues with more technical issues regarding cameras e.g. shutter speed, apperture, ISO and metering patterns which might be nothing new for advanced photographers but quite interesting for beginners. Then the author discusses subjects like how to deal with tricky light situations, the importance of autofocus for action photography and what the differences are between phase detection, contrast detection and hybrid detection, prefocusing and focus tracking which was interesting to read as I was more focusing on still images in the past where I was focusing mainly manually.
 

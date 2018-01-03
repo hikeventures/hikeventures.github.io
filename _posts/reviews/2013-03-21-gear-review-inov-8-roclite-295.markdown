@@ -16,9 +16,6 @@ Are you looking for trail runners or lightweight hiking boots for your next hiki
 <amp-img src="https://farm9.staticflickr.com/8522/8571446825_e8ed0fc70f_b.jpg" width="1024" width="683" alt="Inov-8 Roclite 295 ultralight hiking and trail running shoes review" layout="responsive"></amp-img>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
-
 
 ## Features
 The front of the shoes protects very well while walking in the mountains and the mesh on the shoes give an airy feeling. However, breathable shoes come on an expense - they are not not waterproof but in the case of the Roclite 295 they tend to dry quite quickly if it's warm. The Roclite 295 weight 295 grams.

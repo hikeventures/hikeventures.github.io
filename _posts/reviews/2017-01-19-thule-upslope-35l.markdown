@@ -17,10 +17,6 @@ Last year Thule has sent me the Thule Upslope 35L so we can take it with us on o
 <br>
 <!--more-->
 
-<br>
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script><br>
-
-
 ## What did I pack into the Upslope 35?
 I carried my Sony A7, Sennheiser 600, Rycote Windjammer, Thermos bottle, sweater, rain jacket, water bottle and small items like my phone and wallet with me. I also had my Logitech Key-to-Go keyboard with me which I connected to my iPhone to write this article. On one trip I also packed a Manfrotto BeFree tripod into the backpack as well.
 

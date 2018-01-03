@@ -16,8 +16,6 @@ Looking for an ultralight quilt for the summer for your next hiking, backpacking
 <amp-img src="https://farm8.staticflickr.com/7431/8731235226_efa6408459_b.jpg" layout="responsive" width="1024" width="683" alt="Katabatic Gear Chisos unboxing"></amp-img>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 <a href="https://www.flickr.com/photos/90204224@N07/8731235068" ><img src="https://farm8.staticflickr.com/7432/8731235068_5355313c08_b.jpg" width="1024" height="683" alt="Katabatic Gear Chisos field test"></a>
 

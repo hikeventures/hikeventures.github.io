@@ -14,8 +14,6 @@ layout: post
 
 Recently, I was looking for a new screen protector for my Sony A7 (could be also used on the new Sony A9) camera and here is a <a href="#table">list</a> of the best screen protectors I found online.
 
-<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-
 I think that it's a quite good idea to have a protective film on your screen since it's just nicer to watch your pictures on a screen which does not have any scratches but also helps a bit  to keep the value of your camera.
 
 Some protectors do also have an anti-fingerprint coating.

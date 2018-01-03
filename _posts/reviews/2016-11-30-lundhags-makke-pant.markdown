@@ -18,10 +18,6 @@ Last year we were in need to find new hiking pants for our trips so we was looki
 <br>
 <!--more-->
 
-<br>
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script><br>
-
-
 Did you know that the name Makke derives from a mountain in Jämtland in Sweden called Makkene? The name should probably reflect the environment where the Makke pant can be worn.
 
 ## Field Testing

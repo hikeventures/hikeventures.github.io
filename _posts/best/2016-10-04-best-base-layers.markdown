@@ -17,8 +17,6 @@ Here is my <a href="#table">selection</a>of the best merino wool base layers for
 
 For our hiking and snowshoeing trip in Northern Norway we were looking for new merino wool base layers (which we can also wear for other outdoor activities like skiing, snowboarding or mountaineering).
 
-<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-
 Also check one of our <a href="#video">packrafting videos</a> where we were wearing base layers to stay warm while paddling 1 week in freezing cold conditions.
 
 ---

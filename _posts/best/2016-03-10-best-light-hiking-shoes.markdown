@@ -16,8 +16,6 @@ Here is my <a href="#table">selection</a> of the best light hiking shoes for 201
 
 I was wearing light hiking shoes on my <a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/">hiking trip</a> in the Sarek National Park in Sweden.</p>
 
-<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-
 Compared to traditional hiking boots they are of course much lighter and packable but they also offer less stabilization, less protection and are not always waterproof.
 
 Also, have a look at our [FAQ on hiking shoes](#faq-on-hiking-shoes).

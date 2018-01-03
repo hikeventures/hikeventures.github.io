@@ -17,8 +17,6 @@ When you go hiking, backpacking, packrafting or plan any other activities in the
 <amp-img src="https://farm9.staticflickr.com/8104/8577036409_b8bd345891_b.jpg" width="1024" width="510" alt="Ortlieb Document Bag A4" layout="responsive"></amp-img>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 ## Features
 The Ortlieb Document case weights 80 grams, is minimalistic and has a waterproof rating of IP4.

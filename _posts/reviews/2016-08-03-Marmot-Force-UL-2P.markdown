@@ -16,10 +16,6 @@ A few weeks ago I received the Marmot Force UL 2P from Marmot to test it on my s
 <br>
 <!--more-->
 
-<br>
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script><br>
-
-
 ## Initial thoughts
 My first thoughts were that the tent is very light but also found that one peg was missing and that a small piece of the inner tent mesh was a bit distorted. I was a bit worried that the inner tent may not survive one week in the wilderness. The fabric of the tent is quite thin and I was considering using an additional tent footprint under the tent to avoid getting holes into the tent floor. However, I decided to use the tent without the additional tent footprint to test the durability of the tent floor.
 

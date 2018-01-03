@@ -15,8 +15,6 @@ Here is my <a href="#table">selection</a> of the best compact flash which I woul
 
 The flash in this post can also be used on the Sony a9 or a6500 since they share the same hotshoe. A flash can be useful in various situations, for example to get a more balanced color during daylight or as a controller for other flash lights.
 
-<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-
 In my selection I was also taking price into consideration and selected products which are affordable.
 
 <amp-img src="https://farm4.staticflickr.com/3625/13040988355_f0f5951202_k.jpg" width="2048" height="1536" alt="best flash and video lights for Sony a7, a9 or a6500" layout="responsive"></amp-img>

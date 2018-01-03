@@ -18,9 +18,6 @@ My Sony A7r arrived - but hey, how should I protect it from all the rain the wat
 <amp-img src="http://farm8.staticflickr.com/7307/11116437804_2207939524_c.jpg" layout="responsive" width="800" height="447" alt="aquapac waterproof camera pouch"></amp-img>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
-
 
 ## Features
 The Aquapac Camera Pouch is durable, waterproof (IPX6 certified), with 128 grams also small and light, is able to float on the water and works till - 40 C. It can also be attached in many ways on a bag.

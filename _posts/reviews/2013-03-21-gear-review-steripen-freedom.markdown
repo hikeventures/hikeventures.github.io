@@ -16,8 +16,6 @@ The SteriPen Freedom with its 75 grams is currently the lightest UV pen from Ste
 <amp-img src="https://farm9.staticflickr.com/8089/8578007098_5d395e160d_b.jpg" width="1024" width="683" alt="Steripen Freedom field test" layout="responsive"></amp-img>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 ## Features
 The Steripen Freedom weights only 75 grams and rechargeable via USB (e.g. with a [rechargeable USB battery][2] which you can take on your trip) and is supposed to clean water of bacterias.

@@ -16,9 +16,6 @@ When you plan you next hiking, backpacking, packrafting or other outdoor trip it
 <amp-img src="https://farm4.staticflickr.com/3894/14925259216_ff2d1deb5e_b.jpg" layout="responsive" width="1024" height="683" alt="Exped Airpillow"></amp-img>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
-
 
 The Exped Air Pillow UL M weights comes with the size 38 × 27 × 11 cm. If weight is an issue then you could also use your fleece or other clothes as a pillow, however with around 57 grams you will not substantially increase the weight of your backpack in order to increase your sleeping comfort.
 

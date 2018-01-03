@@ -16,8 +16,6 @@ The Powertraveller Solarmonkey Adventurer is my new solar charging device for my
 <amp-img src="https://farm3.staticflickr.com/2935/13937097045_2defb0f541_b.jpg"  layout="responsive" width="1024" height="683" alt="Solarmonkey Adventurer"></amp-img>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 <a href="https://www.flickr.com/photos/90204224@N07/13913955861/" ><img src="https://farm8.staticflickr.com/7202/13913955861_e082b58204_b.jpg" width="1024" height="683" alt="Powertraveller Solarmonkey Adventurer"></a>
 The Solarmonkey Adventurer has a 2500 mAh lithium-ion polymer battery, which is 4 times less than the <a href="http://hikeventures.com/how-to-charge-your-batteries-when-you-are-outdoors/" target="_self">Anker Astro 3E</a> but with the possibility to recharge the battery every day e.g. by attaching it on my backpack during the day.

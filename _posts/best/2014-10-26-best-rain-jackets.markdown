@@ -15,8 +15,6 @@ Here is my [selection](#the-best-rain-jackets-of-2017) of the best rain jackets 
 
 A rain jacket should always be in your backpack when you are planning to go outdoors. A rain jacket may also protect you from cold winds even if it is not raining.
 
-<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-
 If you expect the weather to be good but only windy then you may also consider to take a [wind jacket](http://www.hikeventures.com/best-windjackets/) with you rather than a rain jacket.
 
 In most cases a lightweight rain jacket which does not need that much space in your backpack may be sufficient. Also have a look on the [rain pants](http://www.hikeventures.com/best-rain-pants/) which I would consider to pack into my backpack.

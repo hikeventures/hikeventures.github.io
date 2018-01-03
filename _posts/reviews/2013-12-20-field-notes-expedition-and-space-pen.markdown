@@ -17,9 +17,6 @@ When I go hiking or backpacking I occasionally document my trip with notes about
 <amp-img src="https://farm4.staticflickr.com/3665/11466248965_4e1a237577_b.jpg" layout="responsive" width="1024" height="683" alt="Field Notes Expedition review"></amp-img>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
-
 
 ## Paper notebook and pen
 On my last trip I had a normal pen and paper with me to write down some notes. A couple of nights in a moisture tent and and rain made my notes as good as unreadable. So, was looking for a waterproof alternative and ordered a package from <a href="http://fieldnotesbrand.com/colors/expedition/" target="_blank">field notes</a> with 3 expedition memo books. The paper is durable and also usable when it gets wet. The color of the front cover of my field notes notebook is Antarctic Survey Orange and of the back cover Polar Night Black. The memo book has 48 pages. The size of the memo books is 3-1/2" x 5-1/2". On the inner front cover page of the memo books you can write down who you are, where someone can send the memo notebook in case you lose it and if the person gets a reward, your coordinates and trip dates. On the inner back cover page there is general information about the company and the materials used in the memo books. There is also a ruler.

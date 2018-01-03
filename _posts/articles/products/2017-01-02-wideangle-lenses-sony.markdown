@@ -14,8 +14,6 @@ image: https://c1.staticflickr.com/9/8889/27747666193_e6f65537c7_h.jpg
 
 Recently, I was wondering if I should upgrade my manual Samyang 14mm f/2.8 lens to a newer lens which may also have wider optics and spotted the release of Irix 11mm f/4.0 which comes with an E-Mount and would be perfect for my Sony A7.
 
-<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-
 I am always interested to find the best lenses for my needs so I decided to make a short comparison about the differences of my favorite lenses which I would consider to buy for my camera.
 
 Since lenses are in most cases quite expensive I always think twice before I buy a new one. However, I see lenses as a long term investment which I will also be able to use with camera bodies in the future.

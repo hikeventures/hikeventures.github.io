@@ -14,8 +14,6 @@ In this blog post I would like to present you with my selection of the best wall
 
 As with hiking clothes a wallet should be easy to clean, water resistant or dry fast.
 
-<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-
 Alternatively, you can also store your wallet in a plastic bag to keep it dry.
 
 Further, you might also want to look into a wallet which does not take too much space and is lightweight.

@@ -15,8 +15,6 @@ In this blog post I have selected the best sensor cleaning kit which I would con
 
 In general it's a pretty simple process to clean your sony camera sensor.
 
-<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-
 First of all you have to set your camera into cleaning mode.
 
 Then you remove the lens and remove dust from the sensor with an air blower.

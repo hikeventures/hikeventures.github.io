@@ -12,8 +12,6 @@ image: https://c1.staticflickr.com/6/5609/30599065514_3a9dedbf93_k.jpg
 
 Garmin has just recently released the inReach Explorer+ and the inReach SE+ after they acquired DeLorme a few months ago. Those new devices are going to replace the old inReach models, and I am shortly going to discuss their differences and new features.
 
-<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-
 Since we own the DeLorme inReach Explorer device ourselves, we were quite excited to see what the new features and differences of the new Garmin inReach models are beside the external design of the device.
 
 We bought our inReach Explorer because we sometimes travel to places which are not covered by phone signals and it may take a few days to get out of a remote area to reach for help.

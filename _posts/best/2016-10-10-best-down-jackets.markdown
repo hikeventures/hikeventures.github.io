@@ -16,8 +16,6 @@ In this blog post, I have <a href="#table">selected</a> the best down jackets of
 
 A down jacket is an essential piece of clothes when planning an overnight trip outdoors or during winter time. A down jacket keeps you much warmer compared to a fleece jacket.
 
-<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-
 Further, down jackets are designed for different activities or environments, e.g., urban or outdoor adventures like hiking, backpacking, climbing or snowshoeing.
 
 Usually, I wear a [fleece jacket](http://www.hikeventures.com/best-fleece-jackets/) as a mid-layer when I go hiking. When it get’s windy I pull on a [wind jacket](http://www.hikeventures.com/best-windjackets/).  If I sit around in my camp, I switch my fleece to a down jacket.

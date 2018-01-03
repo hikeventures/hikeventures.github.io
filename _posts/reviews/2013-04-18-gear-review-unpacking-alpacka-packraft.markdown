@@ -16,8 +16,6 @@ This year I am going to enhance my outdoor experience by using an Alpacka Raft Y
 <br>
 <!--more-->
 <a href="https://www.flickr.com/photos/90204224@N07/8660224377" title="Alpacka Packraft "><img src="https://farm9.staticflickr.com/8123/8660224377_4d161f7e53_b.jpg" width="1024" height="683" alt="Alpacka Packraft Yukon Yak"></a>
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 The package which I have received from the <a href="http://www.packrafting-store.de/">packrafting store</a> in Germany. To have a feeling for the seize of the package I have placed a shoe next to it.
 

@@ -13,8 +13,6 @@ tags:
 
 Here is my <a href="#table">selection</a> of the best ski gloves for 2017 - 2018. Of course, you can also wear these gloves for snowboarding.
 
-<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-
 <amp-img src="https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg" width="2048" height="1360" alt="best ski gloves for 2017 - 2018" layout="responsive"></amp-img>
 <br>
 <!--more-->

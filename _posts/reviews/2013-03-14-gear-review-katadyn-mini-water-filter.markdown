@@ -16,8 +16,6 @@ I was looking for a water purifier which I can take on my hiking, backpacking an
 <amp-img src="https://farm9.staticflickr.com/8389/8556629391_d8688af598_b.jpg" width="1024" height="802" alt="Katadyn Mini Water Filter hiking backpacking package unboxing" layout="responsive"></amp-img>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 ## Features
 The Katadyn Mini weights only 210 grams, packs small and has a ceramic filter which also helps to give the water a neutral taste.The filter has to be replaced after treating 7000 l water. Moreover, the filter seems to work quite well after my first tests. I guess it is important to look for a spot where the water is quite clear in order to avoid clogging of the filter. The Katadyn Mini has an output of 0.5 l per minute.<br><br>

@@ -16,9 +16,6 @@ A while ago I was contacted by a representative of  [MPOWERD][1], who asked me i
 <amp-img src="https://farm6.staticflickr.com/5597/15636357331_9926cfd49a_b.jpg" layout="responsive" width="1024" height="615" alt="Luci Outdoor Solar Lantern"></amp-img>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
-
 
 When deflated and folded, Luci Outdoor is around 2 cm think and 12.5 cm in diameter. If you want to know how big it is, picture a stack of 12 CDs or DVDs and Luci will be just slightly larger than that (12 cm vs. 12.5 cm). When inflated, however, the lantern becomes 11 cm high, the top and the bottom discs connected by transparent PVC wall.  The top with the inflation valve is both reflective and semi-translucent, which, while allowing some light from the 10 LED lights on the bottom of the lantern to pass through and illuminate the space above the lamp, reflects most of it through the sides.
 

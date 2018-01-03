@@ -16,7 +16,6 @@ Here is my <a href="#table">selection</a> the best backpacking tents for 2017 - 
 
 I have tested already a couple of tents on <a href="http://www.hikeventures.com/destinations/">our trips</a> in Europe, Scandinavia or Japan and realized that the best solution would be to have a tent for different seasons and environments.
 
-<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
 
 [Here](http://www.hikeventures.com/Best-sleeping-pads/) you can also see which sleeping pads I would take with me on my next outdoor adventure.
 

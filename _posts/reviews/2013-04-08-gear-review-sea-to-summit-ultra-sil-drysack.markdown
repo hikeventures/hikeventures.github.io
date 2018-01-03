@@ -16,8 +16,6 @@ Recently, I purchased a new backpack and was in need of getting a dry sack where
 <amp-img src="http://farm9.staticflickr.com/8391/8619175883_3cfc41c0df_c.jpg" layout="responsive" width="800" width=597" alt="Sea to Summit Ultra Sil Dry Sack"></amp-img>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 ## Features
 The Sea to Summit Ultra Sil Drysack is durable, packs small and weights only 50 grams.

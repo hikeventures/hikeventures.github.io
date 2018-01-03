@@ -16,8 +16,7 @@ If you are looking for a new down jacket which you can use during your hiking, b
 <amp-img src="https://farm9.staticflickr.com/8475/8373596834_f7923d2831_b.jpg" layout="responsive" width="1024" width="683" alt="Rab Alpine Microlight Ultralight Down Jacket Review"></amp-img>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 Since the jacket is filled with down it takes much less space in your backpack than a synthetic jacket. Alternatively, you may also have a look at the <a href="http://hikeventures.com/gear-review-montbell-u-dot-l-down-parka" target="_self">Montbell UL Down Parka</a> which is a bit lighter than the Rab Microlight Alpine jacket and which is my current down jacket.
 
 ## Features

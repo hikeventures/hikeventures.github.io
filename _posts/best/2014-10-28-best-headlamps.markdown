@@ -11,12 +11,9 @@ tags:
   - lamps
 layout: post
 ---
-
 Here is my <a href="#table">selection</a> of the best lightweight headlamps for 2017 - 2018 which I would consider taking to my next hiking, backpacking or camping trip.
 
 Having a headlamp can be a life saver, and it’s a good idea to have one with you in your backpack especially during the winter.
-
-<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
 
 The Petzl NAO+, for example, has plenty of features and you can also connect the Petzl NAO Belt Kit to carry the battery under the jacket which is especially useful to prevent battery drain in [colder regions](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/) or during the winter. I have also used the previous model of the Petzl NAO in  [Swedish Lapland](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/).
 

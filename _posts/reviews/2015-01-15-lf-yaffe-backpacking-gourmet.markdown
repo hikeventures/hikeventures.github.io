@@ -15,9 +15,6 @@ Having tried some of the ready made food packages to take on my hikes, I got int
 <amp-img src="https://farm8.staticflickr.com/7580/16099407770_b3a5627190_b.jpg" layout="responsive" width="1024" height="768" alt="Backpack Gourmet"></amp-img>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
-
 
 The book starts with tools needed to dehydrate and pack food at home and on how to prepare it on the field.
 

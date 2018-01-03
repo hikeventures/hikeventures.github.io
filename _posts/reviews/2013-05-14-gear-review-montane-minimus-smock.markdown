@@ -16,8 +16,6 @@ For my hiking and packrafting adventures in summer and autumn, I was looking for
 <amp-img src="https://farm8.staticflickr.com/7288/8738822666_4067f044d0_b.jpg" layout="responsive" width="1024" height="683" alt="Montane Minimus Smock unboxing"></amp-img>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 ## Features
 The Montane Minimus Smock weights 143 grams and is almost invisible in your backpack since it packs really small. It also comes with reflectors which are quite useful when you still have to hike during the night on a road. The front back is also useful since you can store items like a map in it and easily access it during your hike.

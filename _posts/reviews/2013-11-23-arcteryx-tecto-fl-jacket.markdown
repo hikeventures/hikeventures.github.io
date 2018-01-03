@@ -16,9 +16,6 @@ Looking for a lightweight waterproof jacket for your next hiking, backpacking or
 <amp-img src="https://farm6.staticflickr.com/5520/11379723083_5cf7ba4ecc_b.jpg" layout="responsive" width="1024" height="465" alt="Arc'teryx Tecto FL"></amp-img>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
-
 
 ## Features
 The Arc'teryx Tecto FL jacket comes with plenty of features and has a close-to-body fit, a low profile storm hood, a narrow vislon zipper, a single sleeve pocket, weights just 200 grams and is made of N30p-X GORE-TEX Active 3L fabric (N40p-X Active textile on hip and shoulders). Gore-Tex Active shell fabric is not that durable as the Gore-Tex Pro Shell fabric, however it's more breathable and lightweight. The cuff adjusters are very useful to protect against rain and wind.

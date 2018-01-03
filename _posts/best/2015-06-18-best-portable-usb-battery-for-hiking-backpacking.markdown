@@ -15,8 +15,6 @@ In this blog post I would like to write about the best portable USB battery pack
 
 Having a headlamp can be a life saver, and it’s a good idea to have one with you in your backpack especially during the winter.
 
-<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-
 For a multi-day trip where we have no access to a power socket we solely rely on a portable USB battery to charge our devices.
 
 Further, we are also experimenting with a solar panel, however in regions like in Scandinavia there might be longer periods with no sun.

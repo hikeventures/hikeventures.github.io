@@ -16,8 +16,6 @@ Here is my <a href="#table">selection</a> of the best day packs 2017 - 2018 whic
 
 A day pack is a great choice if you plan to do a shorter trip while carrying some gear with you e.g. climbing, hiking or on a normal day in the city.
 
-<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-
 A day pack weights much less than a regular backpack and you will be able to enjoy your day outside much more if you have to carry less with you.
 
 I have included a broad range of day packs. Some are more durable or offer more features while also weight a bit more while other day packs are more light and minimalistic.

@@ -14,8 +14,6 @@ The Montbell U.L. Down Parka seems to be a perfect addition if you are planning 
 <amp-img src="https://farm9.staticflickr.com/8529/8576876741_96879fe3d5_b.jpg" width="1024" width="683" alt="Laufbursche Huckepack hp450 unboxing" layout="responsive"></amp-img>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 ## Features
 The Montbell UL Down Parka weights 260 grams and comes with 800 cuin goose down. It also has a DWR treatment and comes in a 15-denier ballistic airlight nylon shell to keep the down dry if it's very moisture however this jacket is not waterproof.

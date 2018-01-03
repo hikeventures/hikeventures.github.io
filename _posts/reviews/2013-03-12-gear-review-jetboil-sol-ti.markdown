@@ -19,8 +19,6 @@ The Jetboil stove can heat 0.5 l in 2 minutes and 15 seconds which is equal to 1
 <amp-img src="https://farm9.staticflickr.com/8231/8552911716_8c74f6a5c4_b.jpg" width="1024" height="1000" alt="Jetboil Sol Ti ultralight hiking and backpacking stove packaging" layout="responsive"></amp-img>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 ## Features
 The Jetboil Sol Ti boils 0.8l water fast, is packable and weights only 240 grams. A 100 grams gas canister can boil around 12 liter of water.

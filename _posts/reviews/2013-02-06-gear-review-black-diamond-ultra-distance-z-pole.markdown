@@ -14,9 +14,6 @@ If you are looking for really light hiking poles then you should give the Black 
 <amp-img src="https://farm9.staticflickr.com/8505/8449891659_dbe8b1b352_b.jpg" layout="responsive" width="1024" width="685" alt="Black Diamond Ultra Distance Z-Pole ultralight trekking and walking poles"></amp-img>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
-
 
 ## Features
 The Black Diamond Ultra Distance Z-Pole weights 290 grams, is foldable, breathable and moisture wicking.

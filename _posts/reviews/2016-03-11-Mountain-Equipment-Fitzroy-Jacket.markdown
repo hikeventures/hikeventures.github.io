@@ -16,11 +16,6 @@ Here comes a short review about the Mountain Equipment Fitzroy Jacket. On our tr
 <br>
 <!--more-->
 
-<br>
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
-
-
 Once we arrived in Edinburgh we had a stroll through the city where we passed by a couple of outdoor stores and I was lucky to find a really good deal on the Fitzroy jacket. After my purchase I felt much better going camping in a tent on subzero degrees even so I had my regular <a href="http://www.hikeventures.com/cumulus-panyam-450/">Cumulus Panyam 450</a> sleeping bag and my <a href="http://www.hikeventures.com/gear-review-katabatic-gear-chisos/">Katabatic Chisos Quilt</a> as an additional sleeping bag layer with me.
 
 A down jacket would probably not have worked very well in rainy and wet conditions. Luckily we had 2 days of sun shine on our paddling trip but the weather became quite nasty on the third day with strong winds and rain in the evening.

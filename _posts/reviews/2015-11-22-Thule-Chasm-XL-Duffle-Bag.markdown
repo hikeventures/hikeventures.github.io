@@ -16,10 +16,6 @@ Which bag do you take if you are going on winter adventure in Finnish Lapland an
 <br>
 <!--more-->
 
-<br>
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
-
 The Chasm XL duffle bag from Thule is biggest of their range of duffle bags (i.e., Extra Small, Small, Medium, Large and, finally, Extra Large). With the capacity of 130 liters (or 7935 cu in) it weighs 2,235 gram, which makes it just under 17.2 gram per liter which means that it is the most efficient travel bag I own. In comparison, my other large bag, the Rolling Thunder XL from The North Face, weighs more than twice as much, whereas it is marginally bigger. Of course, one of them is a duffle and the other one is a trolley, but when it comes to making a decision which bag I have to pack when I have a weight limit, the answer is obvious.
 
 Talking about the weight, what I measured on my scales and what is mentioned on Thule website and on the package the bag came in are not the same. While I had it at just over 2.2 kg, Thule gave it 1.2, which is more than a kilogram lighter. Having compared the weight of other bags from this range, it seems that it is the weight of the medium size as all three duffels – [Chasm M](http://www.thule.com/en/nl/products/sport-and-travel-bags/luggage-and-duffels/duffel-bags/thule-chasm-medium-_-db_202300), [Chasm L](http://www.thule.com/en/nl/products/sport-and-travel-bags/luggage-and-duffels/duffel-bags/thule-chasm-large-_-db_202900) and [Chasm XL](http://www.thule.com/en/nl/products/sport-and-travel-bags/luggage-and-duffels/duffel-bags/thule-chasm-x-large-_-db_203300) are given the same weight – 1.2 kg, whereas [Chasm S](http://www.thule.com/en/nl/products/sport-and-travel-bags/luggage-and-duffels/duffel-bags/thule-chasm-small-_-db_201900) is 1.1 kg.

@@ -14,8 +14,6 @@ tags:
 
 Here is my <a href="#table">selection</a>  of the best outdoor watches for hiking and backpacking for 2017 - 2018 which I would consider to take with me on my next outdoor adventure. They might be also useful if you are into running.
 
-<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-
 At the moment I am wearing a Suunto Traverse which has a monochrome display and I am quite satisfied with it.
 
 However, I would be interested to get an outdoor watch which features a color display.

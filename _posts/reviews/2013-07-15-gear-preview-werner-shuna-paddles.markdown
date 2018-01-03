@@ -16,8 +16,6 @@ Having purchased a <a hre="http://hikeventures.com/gear-review-unpacking-alpacka
 <amp-img src="http://farm4.staticflickr.com/3709/9295040842_f7031d2f8e_c.jpg" layout="responsive" width="800" height="403" alt="Werner Shuna Paddles review"></amp-img>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 <amp-img src="https://c1.staticflickr.com/9/8270/15581097668_01223b886d_k.jpg" width="2048" height="1367" alt="Best headlamps 2017" layout="responsive"></amp-img>
 <br>

@@ -16,10 +16,6 @@ Recently, I was looking for a child carrier backpack since I was interested to b
 <br>
 <!--more-->
 
-<br>
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script><br>
-
-
 ## Field Testing
 I was carrying the Thule Sampling Elite mainly in the forests around our neighborhood and in the outskirts of Turku nearby the sea where I was walking on narrow trails in the forest. The Thule Sampling Elite is also very comfortable to carry when you walk up a hill and the child (14 kg) did not feel that heavy on the back either. The Child Carrier also comes with an additional small backpack which you can attach to it. This could be useful to share the load between two or if you only want to walk a shorter distance without the child carrier and to carry the most essential items with you.
 

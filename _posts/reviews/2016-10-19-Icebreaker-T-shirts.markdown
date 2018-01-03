@@ -27,10 +27,6 @@ But you know what they say – "never say never", and indeed, after a while, I b
 <br>
 <!--more-->
 
-<br>
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script><br>
-
-
 ## Reason 5: Icebreaker t-shirts look nice
 I like the cut (in most cases they make me look rather slim and trim) and I love the colors and color combinations. Recently, Icebreaker has also started to produce t-shirts with prints. And they are good. What I understood from their brochures, they sometimes work with famous artists on the design and when you buy a t-shirt like that, it almost feels like you also buy a piece of art.
 

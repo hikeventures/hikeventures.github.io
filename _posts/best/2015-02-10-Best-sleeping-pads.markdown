@@ -16,8 +16,6 @@ Here is my <a href="#table">selection</a> of the best lightweight sleeping pads 
 
 I have indicated the R-value of each sleeping pads so you can choose the one which would be most suitable for your next outdoor adventure.
 
-<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-
 From the selection below I have only tested the Therm-a-Rest NeoAir XTherm, the self-inflating Therm-a-Rest EvoLite and the Exped SYNMAT UL 7 M.
 
 From all sleeping pads I would probably recommend you the <a href="http://amzn.to/2eQX99w" target="_blank" rel="nofollow">Therm-a-Rest XTherm</a> most.

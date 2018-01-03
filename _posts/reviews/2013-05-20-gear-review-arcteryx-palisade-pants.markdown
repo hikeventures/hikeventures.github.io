@@ -16,8 +16,6 @@ After having had my Fjällräven Abisko pants for over 2 years during my hiking,
 <amp-img src="https://farm6.staticflickr.com/5343/8758780310_499eaf5e63_b.jpg" layout="responsive" width="1024" height="683" alt="Arc'teryx Palisade Pants"></amp-img>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 ## Features
 The Arc'teryx Palisade pants weights 275 grams, is quick drying and due to its stretch nylon also very comfortable to wear when hiking in the mountains. The Arc'teryx Palisade pants also has an integrated adjustable waist belt which saves weight rather than using a normal belt. Another feature is the good breathability of the fabric.

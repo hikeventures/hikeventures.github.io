@@ -15,8 +15,6 @@ The Hilleberg Anjan 2 is actually a lightweight (1.8 kg packed) 3 season tent. H
 <amp-img src="https://farm9.staticflickr.com/8326/8375204505_0d31ecaa55_b.jpg" width="1024" height="683" layout="responsive" alt="Hilleberg Anjan 2 on snow winter"></amp-img>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 <a href="https://www.flickr.com/photos/90204224@N07/8375200389" title="Hilleberg Anjan 2 on snow winter"><img src="https://farm9.staticflickr.com/8044/8375200389_b7e26ba15e_b.jpg" width="1024" height="683" alt="Hilleberg Anjan 2 on snow winter"></a>
 

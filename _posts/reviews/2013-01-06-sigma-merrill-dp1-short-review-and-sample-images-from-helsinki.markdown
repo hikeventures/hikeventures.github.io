@@ -18,8 +18,6 @@ The Sigma Merrill DP1 with its 340 grams is super light and has a superb image q
 <img src="http://farm9.staticflickr.com/8184/8353025530_b4c2e2571a_c.jpg" width="1000" height="655" alt="Helsinki Ice Breakers"></a>
 <br>
 <!-- more -->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 <img src="http://farm9.staticflickr.com/8468/8351963809_ef1ef59998_c.jpg" width="1000"  alt="Helsinki city"><br>
 
 <img src="http://farm9.staticflickr.com/8224/8351964469_62a6d31549_c.jpg" width="1000"  alt="Helsinki city"><br>

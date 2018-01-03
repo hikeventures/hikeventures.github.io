@@ -20,10 +20,6 @@ Recently, I received my new Hilleberg Tarp 10 UL together with my <a href="http:
 <br>
 <!--more-->
 
-<br>
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script><br>
-
-
 Another combination would be to use the Tarp 10 UL together with the Unna and its' original outer tent to store additional gear in fron of the tent or just to sit in front of the tent and have with an additional sun or rain cover.
 
 I really like on the Tarp 10 UL that it is quite versatile to use. The green Tarp also allows me to hide my red Unna tent a little bit.

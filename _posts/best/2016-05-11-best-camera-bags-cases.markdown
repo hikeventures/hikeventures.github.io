@@ -14,7 +14,6 @@ tags:
 
 Here is my <a href="#table">selection</a> of the best lightweight camera bags for the Sony A7, A7II A7RII, A7SII or A9 (and also a6500, a6300 or a6000 since they share a similar form factor).
 
-<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
 
 Different cases might be useful for various activities, e.g., you might take a different camera bag with you when you go hiking than when you would go on a kayaking, climbing or packrafting trip.
 

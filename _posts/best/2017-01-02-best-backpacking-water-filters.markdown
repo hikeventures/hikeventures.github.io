@@ -16,8 +16,6 @@ Here is my <a href="#table">selection</a> of the best backpacking water filters 
 
 There are several solution on the market e.g. water filters where you have to pump water through the filter or filters which do not require any pump at all (and which are also my personal preference filters).
 
-<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-
 Currently, I am using the Sawyer Mini Water Filtration System on my trips since it is very lightweight and does the job.
 
 In the past I have used the Katadyn Hiker Pro filter. On the picture below where I am filtering water on a [trip in Northern Sweden](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/).

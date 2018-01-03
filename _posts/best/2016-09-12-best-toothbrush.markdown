@@ -14,8 +14,6 @@ Planning a hiking or backpacking trip to the backcountry or are you planning to 
 
 Then you could have a look on the best outdoor toothbrushes which I have selected below which feature a compact design and are easy to pack.
 
-<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-
 The compact design of of a travel toothbrush not only provides you with more space but also less weight as every gram counts especially if you are into ultralight backpacking.
 
 Gum or periodontal disease can cause tooth loss so it's important to keep your tooth clean even so you are in the nature.

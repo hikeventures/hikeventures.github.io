@@ -12,8 +12,6 @@ image: https://farm8.staticflickr.com/7468/15630751654_424fb06abb_b.jpg
 
 Having used my Sony A7 for over 1 year I am planning to get better sound on my Videos once I get my new camera. The onboard microphone is more or less useless when filming in a windy place and in general you get better audio with an external microphone.
 
-<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-
 <amp-img src="https://farm8.staticflickr.com/7468/15630751654_424fb06abb_b.jpg" width="1024" height="657" layout="responsive" alt="best external audio recorder Zoom H5 sony a7"></amp-img>
 
 > My Zoom H5 on top of a Slik tripod

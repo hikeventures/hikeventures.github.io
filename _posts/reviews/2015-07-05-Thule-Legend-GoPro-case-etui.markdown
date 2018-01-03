@@ -17,9 +17,6 @@ If you are a GoPro camera user you have probably looked for a case to store your
 <amp-img src="https://farm1.staticflickr.com/407/18948498964_e22e5df5de_o.jpg" layout="responsive" width="992" height="744" alt="Thule Legend GoPro Case Review"></amp-img>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
-
 
 I have used the Thule Legend GoPro Case this year mainly for hiking and packrafting e.g. in <a href="http://www.hikeventures.com/Karkonosze-national-park/">Poland</a>, <a href="http://www.hikeventures.com/Second-Finnish-Packrafting-Gathering-Finland-Helvetinjarvi/">Finland</a> or in Sweden. Below you can see the Legend GoPro Case attached to my <a href="http://www.hikeventures.com/gear-review-hmg-porter-4400-black/">HMG Porter</a> backpack.
 

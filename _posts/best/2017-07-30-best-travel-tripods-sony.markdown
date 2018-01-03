@@ -15,8 +15,6 @@ Here is my <a href="#table">selection</a> of the best light travel tripods which
 
 The tripods in this post can also be used on the Sony a9 or a6500 since they share a similar form factor and weight.
 
-<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-
 Also have a quick look on my [Tripod FAQ](#faq) before you buy one. Here you can also see which [tripods I use](#my-own-gear) on my trips or which [camera bags](http://www.hikeventures.com/best-camera-bags-cases) I would recommend. If you are into vlogging then you might also be interested in [this microphone](http://www.hikeventures.com/Sennheiser-MKE600/).
 
 <amp-img src="https://farm4.staticflickr.com/3625/13040988355_f0f5951202_k.jpg" width="2048" height="1536" alt="best tripods for Sony a7, a9 or a6500" layout="responsive"></amp-img>

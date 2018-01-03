@@ -16,8 +16,6 @@ For those folks who would like to keep track on where they hiked, biked etc. sho
 <amp-img src="https://farm3.staticflickr.com/2866/9599014438_4f27c21c17_b.jpg" layout="responsive" width="1024" height="683" alt="Suunto Ambit2 in Sarek"></amp-img>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 ## Features
 

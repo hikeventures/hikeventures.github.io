@@ -16,8 +16,6 @@ I use an insulated lightweight Thermos Bottle to carry some warm tea or coffee w
 <amp-img src="https://farm8.staticflickr.com/7336/15778412854_2310ed0fdb_b.jpg" layout="responsive" width="1024" height="680" alt="With the Thermos bottle over the arctic circle"></amp-img>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 On our second day in Lapland we used the Thermos bottle while cross-country skiing.
 
