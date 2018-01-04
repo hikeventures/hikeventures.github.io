@@ -1,5 +1,5 @@
 ---
-title: Best Headlamps 2017 - 2018
+title: Best Headlamps 2018
 description: Find the best headlamps for your next outdoor adventure
 date: 2016-01-03 23:02:20
 update_date: 2017-07-08 06:00:52
@@ -11,7 +11,7 @@ tags:
   - lamps
 layout: post
 ---
-Here is my <a href="#table">selection</a> of the best lightweight headlamps for 2017 - 2018 which I would consider taking to my next hiking, backpacking or camping trip.
+Here is my <a href="#table">selection</a> of the best lightweight headlamps for 2018 which I would consider taking to my next hiking, backpacking or camping trip.
 
 Having a headlamp can be a life saver, and it’s a good idea to have one with you in your backpack especially during the winter.
 
@@ -21,7 +21,7 @@ However, if you are looking for a smaller headlamp which is also waterproof, the
 
 Also, have a look at our [FAQ on headlamps](#faq-on-headlamps).
 
-<amp-img src="https://farm1.staticflickr.com/511/31954090570_a1c906a654_k.jpg" width="2048" height="1152" alt="Best headlamps 2017 - 2018 hiking backpacking camping" layout="responsive"></amp-img>
+<amp-img src="https://farm1.staticflickr.com/511/31954090570_a1c906a654_k.jpg" width="2048" height="1152" alt="Best headlamps 2018 hiking backpacking camping" layout="responsive"></amp-img>
 On [our winter camping trip](http://www.hikeventures.com/winter-camping-alta/) in Alta - Norway
 <br>
 <!--more-->

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New rain jackets for 2017 - 2018
+title: New rain jackets for 2018
 description: An overview of the newest rain jackets on the market.
 date: 2016-08-01 07:30:00
 category: articles
@@ -11,7 +11,7 @@ tags:
   - rain jackets
 ---
 
-Here is a <a href="#table">selection</a> of the new rain jackets for 2017 - 2018 on the market. This is not a complete list and I may add a few more models in the future.
+Here is a <a href="#table">selection</a> of the new rain jackets for 2018 on the market. This is not a complete list and I may add a few more models in the future.
 
 I always take a rain jacket with me when I go [hiking](http://www.hikeventures.com/destinations/), backpacking or cycling.
 
@@ -23,7 +23,7 @@ For winter activities - like skiing or snowboarding - I would rather take a more
 
 ---
 
-<amp-img src="https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg" width="2048" height="1360" alt="New rain jackets for 2017 - 2018" layout="responsive"></amp-img>
+<amp-img src="https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg" width="2048" height="1360" alt="New rain jackets for 2018" layout="responsive"></amp-img>
 <br>
 <!--more-->
 

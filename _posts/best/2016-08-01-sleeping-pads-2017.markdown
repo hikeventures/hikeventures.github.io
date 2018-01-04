@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New sleeping pads in 2017 - 2018
+title: New sleeping pads in 2018
 description: A selection of new hiking and backpacking sleeping pads for 2017
 date: 2016-08-01 07:30:00
 category: articles
@@ -11,7 +11,7 @@ tags:
   - new
 ---
 
-In this blog post you can find a <a href="#table">selection</a>  of new sleeping pads for 2017 - 2018.
+In this blog post you can find a <a href="#table">selection</a>  of new sleeping pads for 2018.
 
 There are different sleeping pads for different seasons or climates available.
 
@@ -19,7 +19,7 @@ The R-value indicates how much insulation a sleeping pad provides. In the conclu
 
 ---
 
-<amp-img src="https://c3.staticflickr.com/9/8811/28610161362_13669985d6_k.jpg" width="2048" height="1365" alt="New sleeping pads for 2017" layout="responsive"></amp-img>
+<amp-img src="https://c3.staticflickr.com/9/8811/28610161362_13669985d6_k.jpg" width="2048" height="1365" alt="New sleeping pads for 2018" layout="responsive"></amp-img>
 
 ---
 

@@ -11,7 +11,7 @@ tags:
   - pfd
 ---
 
-Here is my <a href="#table">selection</a> of the best life jackets or PFDs for Packrafting and Kayaking in 2017.
+Here is my <a href="#table">selection</a> of the best life jackets or PFDs for Packrafting and Kayaking in 2018.
 
 As we are frequently on packrafting trips we are always interested to find new packrafting gear like.
 

@@ -1,5 +1,5 @@
 ---
-title: Best Camping Stoves 2017 - 2018
+title: Best Camping Stoves 2018
 description: Need a new camping stove? Here are the best stoves for 2017.
 date: 2016-01-03 00:42:09
 update_date: 2016-12-27 06:00:52
@@ -11,13 +11,13 @@ tags:
   - stoves
 layout: post
 ---
-Here is my selection of the best camping stoves for 2017 - 2018.
+Here is my selection of the best camping stoves for 2018.
 
-Here is my <a href="#table">selection</a> of the best camping stoves for 2017 - 2018
+Here is my <a href="#table">selection</a> of the best camping stoves for 2018
 
 A portable and lightweight camping stove is one of the most essential item to have on your outdoor adventures to boil water for tea, coffee or dehydrated meals.
 
-<amp-img src="https://c8.staticflickr.com/4/3748/9596216703_3f4c4db24f_b.jpg" width="1024" height="683" alt="Best Camping Stoves 2017 - 2018" layout="responsive"></amp-img>
+<amp-img src="https://c8.staticflickr.com/4/3748/9596216703_3f4c4db24f_b.jpg" width="1024" height="683" alt="Best Camping Stoves 2018" layout="responsive"></amp-img>
 <br>
 <!--more-->
 

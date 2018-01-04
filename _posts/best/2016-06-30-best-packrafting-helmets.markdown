@@ -12,7 +12,7 @@ tags:
   - packrafting
 ---
 
-Here is my <a href="#table">selection</a> of the best pack rafting and kayaking helmets for 2017.
+Here is my <a href="#table">selection</a> of the best pack rafting and kayaking helmets for 2018.
 
 If you are planning to do whitewater packrafting or kayaking then you should probably consider to wear a helmet which protects your head in case you flip with your packraft or kayak.
 

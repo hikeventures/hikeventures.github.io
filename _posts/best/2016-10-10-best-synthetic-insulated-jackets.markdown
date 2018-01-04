@@ -1,6 +1,6 @@
 ---
-title: Best Synthetic Insulated Jackets 2017 - 2018
-description: Need a warm jacket for your autumn or winter? We found the best lightweight synthetic insulated jackets for 2017 - 2018
+title: Best Synthetic Insulated Jackets 2018
+description: Need a warm jacket for your autumn or winter? We found the best lightweight synthetic insulated jackets for 2018
 date: 2016-10-10 20:43:52
 update_date: 2017-07-17 05:43:52
 category: articles
@@ -12,13 +12,13 @@ tags:
 layout: post
 ---
 
-Here is my <a href="#table">selection</a> of the best synthetic insulated jackets for 2017 which I would consider buying for my next winter or hiking trip.
+Here is my <a href="#table">selection</a> of the best synthetic insulated jackets for 2018 which I would consider buying for my next winter or hiking trip.
 
 Wearing a synthetic insulated jacket over a <a href="http://www.hikeventures.com/best-down-jackets/">down jacket</a> can have several reasons.
 
 Either you are just looking for an alternative to down because of ethical reasons or you are planning to wear your jacket in a damp or humid environment where down may lose its insulation capabilities when it gets wet.
 
-<amp-img src="https://c1.staticflickr.com/6/5558/31803741256_3d7a100029_o.jpg" width="1000"  height="664" alt="Best Synthetic Insulated Jackets 2017" layout="responsive"></amp-img>
+<amp-img src="https://c1.staticflickr.com/6/5558/31803741256_3d7a100029_o.jpg" width="1000"  height="664" alt="Best Synthetic Insulated Jackets 2018" layout="responsive"></amp-img>
 
 On our snowshoeing trip in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/), we could choose between wearing a synthetic or down jacket due to the low humidity.
 <br>

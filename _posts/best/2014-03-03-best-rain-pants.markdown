@@ -1,5 +1,5 @@
 ---
-title: Best Rain Pants 2017 -2018
+title: Best Rain Pants 2018
 description: Top 6 of the best Waterproof pants 2017 which protects you during your outdoor adventures
 date: 2015-02-08 09:13:12
 update_date: 2017-07-13 06:00:52
@@ -12,7 +12,7 @@ tags:
 layout: post
 ---
 
-Here is my <a href="#table">selection</a> of the best rain pants for 2017 - 2018. Planning to go hiking, backpacking or any other backcountry adventure? Then you should consider packing lightweight rain pants and a <a href="http://www.hikeventures.com/best-rain-jackets/">rain jacket</a> into your backpack.
+Here is my <a href="#table">selection</a> of the best rain pants for 2018. Planning to go hiking, backpacking or any other backcountry adventure? Then you should consider packing lightweight rain pants and a <a href="http://www.hikeventures.com/best-rain-jackets/">rain jacket</a> into your backpack.
 
 Rain pants can be designed for particular activities like cycling, climbing or hiking and backpacking.
 
@@ -26,7 +26,7 @@ It's also a good idea to buy rain pants with side zippers as you can easily pull
 
 Also, have a look at our [FAQ on rain pants](#faq-on-rain-pants).
 
-<amp-img src="https://c2.staticflickr.com/8/7206/13685518345_b56a9a77d8_b.jpg" width="992" height="662" alt="Best Rain Pants 2017 - 2018" layout="responsive"></amp-img>
+<amp-img src="https://c2.staticflickr.com/8/7206/13685518345_b56a9a77d8_b.jpg" width="992" height="662" alt="Best Rain Pants 2018" layout="responsive"></amp-img>
 <br>
 <!--more-->
 

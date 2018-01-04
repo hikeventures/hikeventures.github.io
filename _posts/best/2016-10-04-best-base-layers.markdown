@@ -1,6 +1,6 @@
 ---
-title: Best Merino Base Layers 2017 - 2018
-title: Best Merino Base Layers for Hiking and Backpacking 2017
+title: Best Merino Base Layers 2018
+title: Best Merino Base Layers for Hiking and Backpacking 2018
 description: An overview of the best lightweight merino wool base layers.
 date: 2016-10-04 20:43:52
 update_date: 2016-12-27 06:00:52
@@ -13,7 +13,7 @@ tags:
 layout: post
 ---
 
-Here is my <a href="#table">selection</a>of the best merino wool base layers for 2017 - 2018.
+Here is my <a href="#table">selection</a>of the best merino wool base layers for 2018.
 
 For our hiking and snowshoeing trip in Northern Norway we were looking for new merino wool base layers (which we can also wear for other outdoor activities like skiing, snowboarding or mountaineering).
 
@@ -21,7 +21,7 @@ Also check one of our <a href="#video">packrafting videos</a> where we were wear
 
 ---
 
-<amp-img src="https://c2.staticflickr.com/6/5604/15791886561_80520bc4b6_k.jpg" width="2048" height="1367" layout="responsive" alt="Best Merino Wool Base Layers 2017 - 2018"></amp-img>
+<amp-img src="https://c2.staticflickr.com/6/5604/15791886561_80520bc4b6_k.jpg" width="2048" height="1367" layout="responsive" alt="Best Merino Wool Base Layers 2018"></amp-img>
 
 However, there are also alternatives out there which I would like to present in this blog post which might be even better base layer options depending on your needs.
 

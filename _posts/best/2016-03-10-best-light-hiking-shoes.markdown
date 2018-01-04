@@ -1,6 +1,6 @@
 ---
-title: Best Ultralight Hiking Shoes for 2017 - 2018
-description: Looking for light alternatives to heavy hiking boots? Here are the best lightweight hiking shoes for 2017 - 2018
+title: Best Ultralight Hiking Shoes for 2018
+description: Looking for light alternatives to heavy hiking boots? Here are the best lightweight hiking shoes for 2018
 date: 2016-03-02 07:30:00 +0300
 update_date: 2017-07-14 06:00:52
 category: articles
@@ -12,7 +12,7 @@ tags:
 layout: post
 ---
 
-Here is my <a href="#table">selection</a> of the best light hiking shoes for 2017 - 2018.
+Here is my <a href="#table">selection</a> of the best light hiking shoes for 2018.
 
 I was wearing light hiking shoes on my <a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/">hiking trip</a> in the Sarek National Park in Sweden.</p>
 
@@ -20,7 +20,7 @@ Compared to traditional hiking boots they are of course much lighter and packabl
 
 Also, have a look at our [FAQ on hiking shoes](#faq-on-hiking-shoes).
 
-<amp-img src="https://c5.staticflickr.com/3/2942/15189713140_cf23bd9412_b.jpg" width="1024" height="683" alt="The best ultralight hiking shoes 2017 - 2018" layout="responsive"></amp-img>
+<amp-img src="https://c5.staticflickr.com/3/2942/15189713140_cf23bd9412_b.jpg" width="1024" height="683" alt="The best ultralight hiking shoes 2018" layout="responsive"></amp-img>
 <br>
 <!--more-->
 
