@@ -86,7 +86,7 @@ Also, have a look at our [FAQ on down jackets](#faq-on-down-jackets).
 
 ## Arc'teryx Ceres SV Parka (850-fill)
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B0163QU4JQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0163QU4JQ&linkCode=as2&tag=hikeve-20&linkId=5dc978652e8550369cb5f9cf40042a96"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0163QU4JQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0163QU4JQ" width="1" height="1" border="0" alt="Arc'teryx Ceres SV Parka" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B0163QU4JQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0163QU4JQ&linkCode=as2&tag=hikeve-20&linkId=5dc978652e8550369cb5f9cf40042a96"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0163QU4JQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0163QU4JQ" width="1" height="1" border="0" alt="Best Down Jackets 2018 - Arc'teryx Ceres SV Parka" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 880 grams / 31 oz.
 
@@ -107,7 +107,7 @@ The Ceres SV Parka offers an excellent warmth-to-weight ratio, compressibility, 
 
 ## Arc'teryx Cerium LT Hoody (850-fill)
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00Q9MHXN0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q9MHXN0&linkCode=as2&tag=hikeve-20&linkId=Y5N4EYNVYQ5UDXXJ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q9MHXN0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q9MHXN0" width="1" height="1" border="0" alt="Arcteryx Cerium LT Hoody" style="border:none !important; margin:0px !important;"/>
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00Q9MHXN0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q9MHXN0&linkCode=as2&tag=hikeve-20&linkId=Y5N4EYNVYQ5UDXXJ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q9MHXN0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q9MHXN0" width="1" height="1" border="0" alt="Best Down Jackets 2018 - Arcteryx Cerium LT Hoody" style="border:none !important; margin:0px !important;"/>
 
 **Weight**: 275 grams / 9.7 oz.
 
@@ -132,7 +132,7 @@ The jacket has an internal zippered security pocket with a stuff sack. LT stands
 
 ## Arc'teryx Cerium SV Hoody (850-fill)
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GW80Q9E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW80Q9E&linkCode=as2&tag=hikeve-20&linkId=WCQGDJJ5MREZ5EUX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW80Q9E&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW80Q9E" width="1" height="1" border="0" alt="Arcteryx Cerium SV Hoody" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GW80Q9E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW80Q9E&linkCode=as2&tag=hikeve-20&linkId=WCQGDJJ5MREZ5EUX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW80Q9E&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW80Q9E" width="1" height="1" border="0" alt="Best Down Jackets 2018 - Arcteryx Cerium SV Hoody" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 440 grams / 15.5 oz.
 
@@ -151,7 +151,7 @@ Synthetic insulation is strategically used in parts of this jacket as well.
 
 ## Berghaus Tephra (Stretch) Down Jacket (600-fill)
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B0732YB9FN/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0732YB9FN&linkCode=as2&tag=hikeve-20&linkId=18ef639b4de399d439bd1405791f220f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0732YB9FN&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0732YB9FN" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B0732YB9FN/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0732YB9FN&linkCode=as2&tag=hikeve-20&linkId=18ef639b4de399d439bd1405791f220f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0732YB9FN&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0732YB9FN" width="1" height="1" border="0" alt="Best Down Jackets 2018 - Berghaus Tephra (Stretch) Down Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 463 grams / 16.3 oz.
 
@@ -167,7 +167,7 @@ The outer layer of the jacket is made of Pertex to keep cold wind out.
 
 ## Canada Goose Expedition Down Parka (625-fill)
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01KXUFDQC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01KXUFDQC&linkCode=as2&tag=hikeve-20&linkId=5aaf89773baa2dd8884a28b116bf9e3e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01KXUFDQC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01KXUFDQC" width="1" height="1" border="0" alt="Canada Goose Expedition Down Parka" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01KXUFDQC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01KXUFDQC&linkCode=as2&tag=hikeve-20&linkId=5aaf89773baa2dd8884a28b116bf9e3e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01KXUFDQC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01KXUFDQC" width="1" height="1" border="0" alt="Best Down Jackets 2018 - Canada Goose Expedition Down Parka" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 2070 grams / 73 oz.
 
@@ -189,7 +189,7 @@ The jacket features an adjustable, non-removable hood, a fur ruff, fleece-lined 
 
 ## Marmot Guides Down Hoodie (700-fill)
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01MSP108D/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MSP108D&linkCode=as2&tag=hikeve-20&linkId=6fa25d4d74a62a97a4e9f991782ca8a0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MSP108D&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MSP108D" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01MSP108D/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MSP108D&linkCode=as2&tag=hikeve-20&linkId=6fa25d4d74a62a97a4e9f991782ca8a0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MSP108D&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MSP108D" width="1" height="1" border="0" alt="Best Down Jackets 2018 - Marmot Guides Down Hoodie" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 652 grams / 23 oz.
 
@@ -206,7 +206,7 @@ The jacket also features hook-and-loop cuffs, an elastic drawcord hem, and its d
 
 ## Marmot Quasar Hoody (900-fill)
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00DNNZ3KI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DNNZ3KI&linkCode=as2&tag=hikeve-20&linkId=UITTBILMF3IBYVRI"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DNNZ3KI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DNNZ3KI" width="1" height="1" border="0" alt="Marmot Quasar Hoody" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00DNNZ3KI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DNNZ3KI&linkCode=as2&tag=hikeve-20&linkId=UITTBILMF3IBYVRI"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DNNZ3KI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DNNZ3KI" width="1" height="1" border="0" alt="Best Down Jackets 2018 - Marmot Quasar Hoody" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 372 grams / 13.5 oz
 
@@ -224,7 +224,7 @@ The jacket adjusts to your movements and features an elastic draw cord hem and c
 
 ## Mountain Hardware Ghost Whisperer Hooded Down Jacket (800-fill)
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GULW0DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GULW0DS&linkCode=as2&tag=hikeve-20&linkId=RSEZE3QFDW2FVB3A" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GULW0DS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GULW0DS" width="1" height="1" border="0" alt="Mountain Hardware Ghost Whisperer Hooded Down Jacket" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GULW0DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GULW0DS&linkCode=as2&tag=hikeve-20&linkId=RSEZE3QFDW2FVB3A" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GULW0DS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GULW0DS" width="1" height="1" border="0" alt="Best Down Jackets 2018 - Mountain Hardware Ghost Whisperer Hooded Down Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 212 grams / 7.5 oz.
 
@@ -247,7 +247,7 @@ See the Men’s Mountain Hardware Ghost Whisperer See the Women’s Mountain Har
 
 ## Mountain Hardwear Nitrous Hooded Down Jacket (800-fill)
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01MTR9RUC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MTR9RUC&linkCode=as2&tag=hikeve-20&linkId=f43cf7a6eeec849172d9f3d5a596435a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MTR9RUC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MTR9RUC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01MTR9RUC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MTR9RUC&linkCode=as2&tag=hikeve-20&linkId=f43cf7a6eeec849172d9f3d5a596435a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MTR9RUC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MTR9RUC" width="1" height="1" border="0" alt="Best Down Jackets 2018 - Mountain Hardwear Nitrous Hooded Down Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 328 grams / 11.6 oz
 
@@ -263,7 +263,7 @@ The jacket also comes with zippered handwarmer pockets, zippered left chest pock
 
 ## Patagonia Ultralight Down Hoodie (800-fill)
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00OZGABKY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OZGABKY&linkCode=as2&tag=hikeve-20&linkId=OLFQERZDADI4UC3J"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00OZGABKY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00OZGABKY" width="1" height="1" border="0" alt="Patagonia Men’s Down Hooded Jacket" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00OZGABKY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OZGABKY&linkCode=as2&tag=hikeve-20&linkId=OLFQERZDADI4UC3J"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00OZGABKY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00OZGABKY" width="1" height="1" border="0" alt="Best Down Jackets 2018 - Patagonia Men’s Down Hooded Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 298 grams / 10.5 oz.
 
@@ -283,7 +283,7 @@ Wear the Patagonia Ultralight Down Hoodie as a mid layer during the winter month
 
 ## Rab Infinity Endurance Jacket (850-fill)
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00DTT6DXC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DTT6DXC&linkCode=as2&tag=hikeve-20&linkId=N7SHBEPWSYPV25ZK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DTT6DXC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DTT6DXC" width="1" height="1" border="0" alt="Rab Infinity Endurance Jacket" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00DTT6DXC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DTT6DXC&linkCode=as2&tag=hikeve-20&linkId=N7SHBEPWSYPV25ZK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DTT6DXC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DTT6DXC" width="1" height="1" border="0" alt="Best Down Jackets 2018 - Rab Infinity Endurance Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 575 grams / 20.5 oz
 
@@ -305,7 +305,7 @@ See the Men’s Rab Infinity Endurance See the Women’s Rab Infinity Endurance
 
 ## Rab Positron Jacket (800-fill)
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00XJO2X18/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00XJO2X18&linkCode=as2&tag=hikeve-20&linkId=5POHXUOALSVWVY2B"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00XJO2X18&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00XJO2X18" width="1" height="1" border="0" alt="Rab Positron Jacket" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00XJO2X18/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00XJO2X18&linkCode=as2&tag=hikeve-20&linkId=5POHXUOALSVWVY2B"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00XJO2X18&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00XJO2X18" width="1" height="1" border="0" alt="Best Down Jackets 2018 - Rab Positron Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 720 grams / 25.4 oz.
 
@@ -323,7 +323,7 @@ Further, the jacket is also RDS Certified (Responsible Down Standard).
 
 ## Rab Zero G Jacket (1000-fill)
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01IEUC98I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IEUC98I&linkCode=as2&tag=hikeve-20&linkId=9aa3a48e1b4a90d72d101f4f4ea2dd99"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01IEUC98I&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01IEUC98I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01IEUC98I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IEUC98I&linkCode=as2&tag=hikeve-20&linkId=9aa3a48e1b4a90d72d101f4f4ea2dd99"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01IEUC98I&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01IEUC98I" width="1" height="1" border="0" alt="Best Down Jackets 2018 - Rab Zero G Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 310 grams / 11 oz.
 
