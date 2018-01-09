@@ -13,7 +13,7 @@ category: news
 <ul>
 	<li style="text-align: justify;"><a class="validating" href="http://www.hikeventures.com/brand/"><span style="color:#000000"><span style="font-size:15px">Austria</span></span></a></li>
 	<li style="text-align: justify;"><span style="color:#000000"><span style="font-size:15px">Belgium</span></span></li>
-	<li style="text-align: justify;"><span style="font-size:15px"><span style="color:#000000"><span style="background-color:#FFFFFF"><a class="validating" href="http://www.hikeventures.com/finnish-packrafting-gathering-4/">Finland</a> (Packrafting Round.-Up)</span></span></span></li>
+	<li style="text-align: justify;"><span style="font-size:15px"><span style="color:#000000"><span style="background-color:#FFFFFF"><a class="validating" href="http://www.hikeventures.com/finnish-packrafting-gathering-4/">Finland</a> (Packrafting Round-Up)</span></span></span></li>
 	<li style="text-align: justify;"><a class="validating" href="http://www.hikeventures.com/ITB-2017/"><span style="font-size:15px"><span style="color:#000000"><span style="background-color:#FFFFFF">Germany</span></span></span></a><span style="font-size:15px"><span style="color:#000000"><span style="background-color:#FFFFFF">&nbsp;</span></span></span></li>
 	<li style="text-align: justify;"><a class="validating" href="http://www.hikeventures.com/Kushiro-River-Japan/"><span style="font-size:15px"><span style="color:#000000"><span style="background-color:#FFFFFF">Japan</span></span></span></a></li>
 	<li style="text-align: justify;"><span style="font-size:15px"><span style="color:#000000"><span style="background-color:#FFFFFF">Montenegro</span></span></span></li>
