@@ -16,8 +16,6 @@ Here is my <a href="#table">selection</a> of the best satellite messengers for 2
 
 Satellite messengers are of particular importance if you plan to hike in a location without phone reception.
 
-<div id="amzn-assoc-ad-b19f81e5-83e5-4277-9483-1720fa30ebe2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=b19f81e5-83e5-4277-9483-1720fa30ebe2"></script>
-
 Garmin owns DeLorme since 2016, and the Garmin InReach Explorer+ and SE+ series are replacing the old DeLorme products.
 
 In the picture below you can see the old DeLorme InReach Explorer in his yellow case attached to the backpack.
