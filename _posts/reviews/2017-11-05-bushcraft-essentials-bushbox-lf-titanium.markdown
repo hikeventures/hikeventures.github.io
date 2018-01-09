@@ -22,7 +22,6 @@ We discovered Bushcraft Essentials this year at the OutDoor Show in Friedrichsha
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/h6-1RJe9iRA"></iframe>
 </div>
 <br>
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script><br>
 Here you can watch our interviews with Bushcraft Essentials:
 * <a href="http://www.hikeventures.com/Bushcraft-Essentials-3-OutDoorShow-2017/">Overview of a few stoves</a>
 * <a href="http://www.hikeventures.com/Bushcraft-Essentials-2-OutDoorShow-2017/">Bushbox XL</a>
