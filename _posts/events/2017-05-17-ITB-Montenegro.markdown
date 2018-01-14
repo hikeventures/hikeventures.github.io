@@ -1,5 +1,5 @@
 ---
-title: Things to do outdoors in Montenegro - ITB Interview with the National Parks of Montenegro
+title: Things to do outdoors in Montenegro
 description: Our interview with Dr Thomas Wöhrstein from the National Parks of Montenegro at the ITB in Berlin
 date: 2017-05-17 00:01:01
 category: articles

@@ -1,5 +1,5 @@
 ---
-title: Wildo  Fold-A-Cup - OutDoor Show 2017 Review
+title: Wildo Fold-A-Cup Review
 description: Our Interview with Wildo at the OutDoor Show 2017
 date: 2017-09-28 10:14:01
 category: articles

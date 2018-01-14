@@ -1,5 +1,5 @@
 ---
-title: MSR Pocket Rocket 2 - OutDoor Show 2017 Review
+title: MSR Pocket Rocket 2 Review
 description: Our Interview with MSR at the OutDoor Show 2017
 date: 2017-09-26 09:14:02
 category: articles

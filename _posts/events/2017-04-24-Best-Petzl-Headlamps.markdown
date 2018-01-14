@@ -1,5 +1,5 @@
 ---
-title: Petzl Headlamps - NAO+ and Reactik+ - OutDoor Show Review
+title: Petzl NAO+ and Reactik+ Review
 description: Our interview with Petzl about their latest headlamps.
 date: 2017-04-24 07:19:01
 category: articles

@@ -1,5 +1,5 @@
 ---
-title: Adidas Terrex Fast Surround and Agravic speed shoes - OutDoor Show 2017 Review
+title: Adidas Terrex Fast Surround and Agravic speed shoes Review
 description: Our Interview with Adidas at the OutDoor Show 2017
 date: 2017-09-28 13:14:01
 category: articles

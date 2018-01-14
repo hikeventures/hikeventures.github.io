@@ -1,5 +1,5 @@
 ---
-title: Houdini Power Houdi and Wooler Houdi - OutDoor Show Review
+title: Houdini Power Houdi and Wooler Houdi Review
 description: Our interview with Houdini about their latest fleece jackets.
 date: 2017-04-25 07:28:01
 category: articles

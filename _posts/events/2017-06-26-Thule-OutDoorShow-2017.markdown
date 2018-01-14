@@ -1,5 +1,5 @@
 ---
-title: Thule AllTrail and Stir Backpack - OutDoor Show 2017 Review
+title: Thule AllTrail and Stir Backpack Review
 description: Our Interview with Thule at the OutDoor Show 2017
 date: 2017-09-28 09:24:01
 category: articles

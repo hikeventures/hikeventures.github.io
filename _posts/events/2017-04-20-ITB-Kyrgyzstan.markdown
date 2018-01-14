@@ -1,5 +1,5 @@
 ---
-title: Things to do outdoors in Kyrgyzstan - ITB Interview Karakol Destination Management Organization
+title: Things to do outdoors in Kyrgyzstan
 description: Our interview with the Karakol Destination Management Organization from Kyrgyzstan at the ITB in Berlin
 date: 2017-04-20 15:28:01
 category: articles

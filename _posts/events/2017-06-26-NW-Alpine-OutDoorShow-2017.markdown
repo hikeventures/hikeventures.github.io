@@ -1,5 +1,5 @@
 ---
-title: NW Alpine Eyebright jacket - OutDoor Show 2017 Review
+title: NW Alpine Eyebright jacket Review
 description: Our Interview with NW Alpine at the OutDoor Show 2017
 date: 2017-09-28 10:14:01
 category: articles

@@ -1,5 +1,5 @@
 ---
-title: MSR 2.5 liter sauce pot and 4.5 liter stock pot - OutDoor Show 2017 Review
+title: MSR 2.5 liter sauce pot and 4.5 liter stock pot Review
 description: Our Interview with MSR at the OutDoor Show 2017
 date: 2017-09-26 09:14:01
 category: articles

@@ -1,5 +1,5 @@
 ---
-title: Morakniv Rookie, Eldris -  OutDoor Show 2017 Review
+title: Morakniv Rookie, Eldris Review
 description: Our Interview with Morakniv at the OutDoor Show 2017
 date: 2017-09-28 10:14:01
 category: articles

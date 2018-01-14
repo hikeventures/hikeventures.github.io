@@ -1,5 +1,5 @@
 ---
-title: Things to do outdoors in Malta - ITB Interview with the Malta Tourism Authority
+title: Things to do outdoors in Malta
 description: Our interview with the Malta Tourism Authority from Malta at the ITB in Berlin
 date: 2017-04-26 00:01:01
 category: articles

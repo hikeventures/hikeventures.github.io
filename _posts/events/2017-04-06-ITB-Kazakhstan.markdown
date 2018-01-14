@@ -1,5 +1,5 @@
 ---
-title: Things to do outdoors in Kazakhstan - ITB Interview with the TourAsia Travel Agency
+title: Things to do outdoors in Kazakhstan
 description: Our interview with the TourAsia Travel Agency from Kazakhstan at the ITB in Berlin
 date: 2017-04-06 15:28:01
 category: articles

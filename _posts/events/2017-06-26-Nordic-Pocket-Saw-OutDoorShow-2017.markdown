@@ -1,5 +1,5 @@
 ---
-title: Nordic Pocket Saw - OutDoor Show 2017 Review
+title: Nordic Pocket Saw Review
 description: Nordic Pocket Saw at the OutDoor Show 2017
 date: 2017-09-26 08:14:01
 category: articles

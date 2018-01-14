@@ -1,5 +1,5 @@
 ---
-title: Lundhags Gneik backpack - OutDoor Show 2017 Review
+title: Lundhags Gneik backpack Review
 description: Our Interview with Lundhags at the OutDoor Show 2017
 date: 2017-09-29 06:16:01
 category: articles

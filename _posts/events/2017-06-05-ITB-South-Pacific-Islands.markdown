@@ -1,5 +1,5 @@
 ---
-title: Things to do outdoors in the South Pacific Islands - ITB Interview with the South Pacific Tourism Organisation
+title: Things to do outdoors in the South Pacific Islands
 description: Our interview with Makalesi Muloilagi from the South Pacific Tourism Organisation at the ITB in Berlin
 date: 2017-06-05 18:14:01
 category: articles

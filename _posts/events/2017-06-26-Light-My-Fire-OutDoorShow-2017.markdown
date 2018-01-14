@@ -1,5 +1,5 @@
 ---
-title: Light My Fire Dining Kit and Black Pearl Camp Kit - OutDoor Show 2017 Review
+title: Light My Fire Dining Kit and Black Pearl Camp Kit Review
 description: Our Interview with Light My Fire at the OutDoor Show 2017
 date: 2017-09-28 13:20:01
 category: articles

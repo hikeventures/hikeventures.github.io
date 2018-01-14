@@ -1,5 +1,5 @@
 ---
-title: Things to do outdoors in Albania - ITB Interview with the Albania National Tourism Agency
+title: Things to do outdoors in Albania
 description: Our interview with the Albania National Tourism Agency at the ITB
 date: 2017-03-28 09:28:01
 category: articles

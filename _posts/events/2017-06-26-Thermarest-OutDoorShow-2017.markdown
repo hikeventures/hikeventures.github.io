@@ -1,5 +1,5 @@
 ---
-title: Thermarest SV Xtherm,  Max Xtherm,  XLite Max, ProLite Plus, Camper Duo - OutDoor Show 2017 Review
+title: Thermarest SV Xtherm, Max Xtherm, XLite Max, ProLite Plus, Camper Duo Review
 description: Our Interview with Thermarest at the OutDoor Show 2017
 date: 2017-09-28 08:14:01
 category: articles

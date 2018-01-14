@@ -1,5 +1,5 @@
 ---
-title: Things to do outdoors in Colorado - ITB Interview with Colorado Tourism Office
+title: Things to do outdoors in Colorado
 description: Our interview with Colorado Tourism Office at the ITB in Berlin
 date: 2017-04-05 15:28:01
 category: articles

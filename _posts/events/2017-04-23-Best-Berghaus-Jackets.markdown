@@ -1,5 +1,5 @@
 ---
-title: Berghaus Extrem 8000 Pro and Ramche 2.0 - OutDoor Show Review
+title: Berghaus Extrem 8000 Pro and Ramche 2.0 Review
 description: Our interview with Berghaus about their latest jackets.
 date: 2017-04-23 15:28:01
 category: articles

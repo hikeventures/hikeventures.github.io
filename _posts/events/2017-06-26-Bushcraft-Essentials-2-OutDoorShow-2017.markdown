@@ -1,5 +1,5 @@
 ---
-title: Bushcraft Essentials Bushbox XL OutDoor Show 2017 Review
+title: Bushcraft Essentials Bushbox XL Review
 description: Our Interview with Bushcraft Essentials at the OutDoor Show 2017
 date: 2017-09-27 09:13:01
 category: articles

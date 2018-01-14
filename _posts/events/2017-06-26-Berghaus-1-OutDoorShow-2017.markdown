@@ -1,5 +1,5 @@
 ---
-title: Berghaus Fast Hike Backpacks - OutDoor Show 2017 Review
+title: Berghaus Fast Hike Backpack Review
 description: Our Interview with Berghaus at the OutDoor Show 2017
 date: 2017-09-28 12:14:01
 category: articles

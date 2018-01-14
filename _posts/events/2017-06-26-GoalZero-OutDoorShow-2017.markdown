@@ -1,5 +1,5 @@
 ---
-title: GoalZero Extended Nomad Plus, Lighthouse micro-charge, Flip Ranger and the Venture - OutDoor Show 2017 Review
+title: GoalZero Extended Nomad Plus, Lighthouse micro-charge, Flip Ranger and the Venture Review
 description: Our Interview with GoalZero at the OutDoor Show 2017
 date: 2017-09-28 11:14:01
 category: articles
