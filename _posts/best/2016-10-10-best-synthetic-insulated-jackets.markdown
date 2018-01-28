@@ -82,8 +82,6 @@ On our snowshoeing trip in [Finnish Lapland](http://www.hikeventures.com/snowsho
 
 ## Arc'teryx Cerium LT Hoody
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00Q9MHO70/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q9MHO70&linkCode=as2&tag=hikeve-20&linkId=4ea3c7e2e31306af352a91c4885d7144"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00Q9MHO70&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00Q9MHO70" width="1" height="1" border="0" alt="Arc'teryx Cerium LT Hoody" style="border:none !important; margin:0px !important;" />
-
 **Weight**: 10.5 oz. / 295 grams
 
 The Arc'teryx Cerium LT Hoody is not a pure synthetic insulated jacket and replaces the synthetic insulation with 850 goose down on areas where moisture may build up.
@@ -107,8 +105,6 @@ amzn_assoc_linkid = "18c820c5d515ad3c31f3e67f127a9c24";
 
 ## Arc'teryx Fission SV Jacket
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B0163RV2CS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0163RV2CS&linkCode=as2&tag=hikeve-20&linkId=a3923acc1cc490545436e2c9e856ebef"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0163RV2CS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0163RV2CS" width="1" height="1" border="0" alt="Arc'teryx Fission SV Jacket" style="border:none !important; margin:0px !important;" />
-
 **Weight**: 33 oz. / 935 grams
 
 The Arc'teryx Fission SV Jacket is a waterproof, insulated jacket with Coreloft™ insulation.
@@ -130,8 +126,6 @@ amzn_assoc_linkid = "74945d86ded290fcd98aeb527d776f9a";
 <hr>
 
 ## Arc'teryx Nuclei AR Jacket
-
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01KH4JLDA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01KH4JLDA&linkCode=as2&tag=hikeve-20&linkId=78919096e8840168351407223e7208ae"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01KH4JLDA&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01KH4JLDA" width="1" height="1" border="0" alt="Arc'teryx Nuclei AR Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 16.5 oz. / 460 grams
 
@@ -158,8 +152,6 @@ amzn_assoc_linkid = "4f8eb6ac2b89d2919b21190eb5da7c2f";
 
 ## Arc'teryx Proton AR Hoody
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B0163TC2KM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0163TC2KM&linkCode=as2&tag=hikeve-20&linkId=4016227ccc9f173af11c442b8111b536"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0163TC2KM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0163TC2KM" width="1" height="1" border="0" alt="Arc'teryx Proton AR Hoody" style="border:none !important; margin:0px !important;" />
-
 Weight: 15 oz. / 425 grams
 
 The Arc'teryx Proton AR Hoody is the warmest jacket in the Proton Series and is balancing warmth and airflow.
@@ -185,8 +177,6 @@ amzn_assoc_linkid = "dfc7618cf1b7c690ccbdd0f4594efd58";
 
 ## Montane Fusion Alpha Jacket
 
-<a rel="nofollow" href="https://www.amazon.com/Montane-Fusion-Alpha-Jacket-Zanskar/dp/B06XSJD3JS/ref=as_li_ss_il?ie=UTF8&qid=1500461203&sr=8-1&keywords=Montane+Fusion+Alpha+Jacket&linkCode=li3&tag=hikeve-20&linkId=0caf1fd36e83763a8bd4568624330257" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06XSJD3JS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B06XSJD3JS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
 **Weight**: 15.1 oz. / 427 grams
 
 The Montane Fusion Alpha jacket has been developed by using thermal imaging data and has been designed for alpinists.
@@ -208,8 +198,6 @@ amzn_assoc_linkid = "f6dfbf65ee718b9d65973f697337615b";
 
 ## Montane Halogen Alpha Jacket
 
-<a rel="nofollow" href="https://www.amazon.com/Montane-Halogen-Alpha-Jacket-Antarctic-Tangerine-Small/dp/B06XRP7V5D/ref=as_li_ss_il?ie=UTF8&qid=1500461602&sr=8-1&keywords=Montane+Halogen+Alpha&linkCode=li3&tag=hikeve-20&linkId=bfa1ef17b288985cbb4a6d68cc3babe8" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06XRP7V5D&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B06XRP7V5D" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
 **Weight**: 12.4 oz. / 351 grams
 
 The Montane Halogen Alpha Jacket has been designed for stop-start activities in the mountains. The jacket is made of Polartec Alpha.
@@ -230,8 +218,6 @@ amzn_assoc_linkid = "31c6146f955762c6070f7e3a3c581495";
 <hr>
 
 ## Mountain Equipment Fitzroy Jacket
-
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01LZXZ9ZS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LZXZ9ZS&linkCode=as2&tag=hikeve-20&linkId=5f86514cf4307bb4835213ab97ea8fbe"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LZXZ9ZS&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LZXZ9ZS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 23 oz. / 645 grams
 
@@ -256,8 +242,6 @@ amzn_assoc_linkid = "b6c580016942c3c0d068cd1cd4031f7a";
 
 ## Outdoor Research Cathode Hooded Jacket
 
-<a rel="nofollow" href="https://www.amazon.com/Outdoor-Research-Cathode-Hooded-Jacket/dp/B019YZROS2/ref=as_li_ss_il?ie=UTF8&qid=1500459998&sr=8-1&keywords=Outdoor+Research+Cathode+Hooded+Jacket&linkCode=li3&tag=hikeve-20&linkId=c31aa093ee365ba6497d20ba9052eecd" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B019YZROS2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B019YZROS2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
 **Weight**: 13.4 oz. / 379 grams
 
 The Outdoor Research Cathode Hooded Jacket comes with an insulated hood and is filled with Primaloft Gold. The Cathode Hooded Jacket has Schoeller® underarm side panels that can breathe and stretch.
@@ -281,8 +265,6 @@ amzn_assoc_linkid = "b6327e10489ece29c7cde2b76bf3f5dd";
 
 ## Outdoor Research Uberlayer Hooded Jacket
 
-<a rel="nofollow" href="https://www.amazon.com/Outdoor-Research-Uberlayer-Hooded-Jacket/dp/B00RZ9W2OG/ref=as_li_ss_il?ie=UTF8&qid=1500460289&sr=8-1&keywords=Outdoor+Research+Uberlayer+Hooded+Jacket&linkCode=li3&tag=hikeve-20&linkId=a398285d82218bea2add650f071ce904" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00RZ9W2OG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00RZ9W2OG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
 **Weight**: 19.9 oz. / 563 grams
 
 The Outdoor Research Uberlayer Jacket is made of Polartec Alpha and is an excellent choice for ski tours or climbing. It offers breathability and dries quickly.
@@ -304,8 +286,6 @@ amzn_assoc_linkid = "63976c00709a8e7bfd3475d4a7e5baba";
 
 ## Outdoor Research Deviator Hoody
 
-<a rel="nofollow" href="https://www.amazon.com/Outdoor-Research-Deviator-Hoody-Large/dp/B00LU5BH8I/ref=as_li_ss_il?ie=UTF8&qid=1500460881&sr=8-1&keywords=Outdoor+Research+Deviator+Hoody&linkCode=li3&tag=hikeve-20&linkId=8f5fe6bed5c3eaa5a62241fd745b19bf" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LU5BH8I&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00LU5BH8I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
 **Weight**: 11.3 oz. / 321 grams
 
 The Outdoor Research Deviator Hoody is made of Polartec Alpha insulation and has been designed for active pursuits to stay dry and warm. The hood is made of Polartec Power Grid.
@@ -326,8 +306,6 @@ amzn_assoc_linkid = "c0979c163a5839bfa18450d32d001998";
 <br>
 
 ## Rab Nebula Jacket
-
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B013HAICMC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B013HAICMC&linkCode=as2&tag=hikeve-20&linkId=b48e9716614bf990671e84c8ee05b3ea"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B013HAICMC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B013HAICMC" width="1" height="1" border="0" alt="Rab Nebula Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 20.5 oz. / 580 grams
 
@@ -353,8 +331,6 @@ amzn_assoc_linkid = "26efe7aac82db1e419c82f24d039d4c7";
 <hr>
 
 ## Rab Photon X Jacket
-
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B013HANSVC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B013HANSVC&linkCode=as2&tag=hikeve-20&linkId=1bd8744e8a5cfb28bcdca42bf11532fd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B013HANSVC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B013HANSVC" width="1" height="1" border="0" alt="Rab Photon X Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 24 oz. / 670 grams
 
