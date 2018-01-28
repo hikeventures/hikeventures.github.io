@@ -113,7 +113,7 @@ amzn_assoc_linkid = "57cb32cb55594a909a0905404155d5bf";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-
+<br>
 
 ## Arc'teryx Cerium LT Hoody (850-fill)
 
@@ -149,7 +149,7 @@ amzn_assoc_linkid = "91b4b2d50d94b6e1d504b195da96711a";
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 
-
+<br>
 
 ## Arc'teryx Cerium SV Hoody (850-fill)
 
@@ -178,7 +178,7 @@ amzn_assoc_linkid = "7a37a4da474e8165e11509f092ad8d32";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-
+<br>
 
 ## Berghaus Tephra (Stretch) Down Jacket (600-fill)
 
@@ -203,7 +203,7 @@ amzn_assoc_linkid = "c6cfc2eb0e0bff84eab8a97115a78f81";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-
+<br>
 
 
 ## Canada Goose Expedition Down Parka (625-fill)
@@ -237,7 +237,7 @@ amzn_assoc_linkid = "2cf3279373818764215faa80a3e7ce8b";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-
+<br>
 
 ## Marmot Guides Down Hoodie (700-fill)
 
@@ -264,7 +264,7 @@ amzn_assoc_linkid = "a4925714c1a895393f12a16ccfbe2721";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-
+<br>
 
 ## Marmot Quasar Hoody (900-fill)
 
@@ -293,7 +293,7 @@ amzn_assoc_linkid = "9f7e8076e3fdead46882b575a4c8a82a";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-
+<br>
 
 ## Mountain Hardware Ghost Whisperer Hooded Down Jacket (800-fill)
 
@@ -326,7 +326,7 @@ amzn_assoc_linkid = "3a017de7335f91d563d1404de5501c62";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-
+<br>
 
 
 ## Mountain Hardwear Nitrous Hooded Down Jacket (800-fill)
@@ -354,7 +354,7 @@ amzn_assoc_linkid = "da16ec0ac59a4d90282fedf50ceef98f";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-
+<br>
 
 ## Patagonia Ultralight Down Hoodie (800-fill)
 
@@ -385,7 +385,7 @@ amzn_assoc_linkid = "c0d6f70aeab6da86ecdf60fb26392af7";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-
+<br>
 
 ## Rab Infinity Endurance Jacket (850-fill)
 
@@ -418,7 +418,7 @@ amzn_assoc_linkid = "325973c4700f7a4045dcd323134a1152";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-
+<br>
 
 ## Rab Positron Jacket (800-fill)
 
@@ -447,7 +447,7 @@ amzn_assoc_linkid = "12b002cad7ac3723bff6faacc2444e3f";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-
+<br>
 
 ## Rab Zero G Jacket (1000-fill)
 
