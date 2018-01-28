@@ -1,6 +1,6 @@
----
+<br>
 title: Differences between Suunto Traverse and Ambit3
-description: What are the differences between the Suunto Traverse and the Ambit3?
+description: What are the differences between the Suunto Traverse and the Ambit3 and the Suunto Spartan Trainer Wrist HR?
 date: 2015-10-20 05:59:40
 update_date: 2017-08-26 06:00:52
 category: articles
@@ -10,7 +10,7 @@ tags:
   - suunto
   - watch
 layout: post
----
+<br>
 
 Suunto has recently released its latest GPS watch - the Suunto Traverse - which is especially interesting for those interested in hiking and backpacking. So what are the differences between the Suunto Ambit3 and the Suunto Traverse?
 
@@ -37,16 +37,47 @@ The Traverse also has a flashlight function which could be quite useful (for exa
 
 Personally, I like the new look of the Suunto Traverse more than the design of the old Suunto Ambit3. Also, the wrist strap of the Suunto Traverse feels somewhat more comfortable than the one on the old Suunto Ambit3.
 
----
+<br>
+
+## Suunto Spartan Trainer Wrist HR
+<a target="_blank"  href="https://www.amazon.com/gp/product/B01I05CAAO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01I05CAAO&linkCode=as2&tag=hikeve-20&linkId=f8cc9765dcf3b5fe00dc78faa9e57407"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01I05CAAO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01I05CAAO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+The Suunto Spartan Trainer weights 56 grams and it's batteries last for 10 hours in active use. The watch is waterproof down to 50 meters. It's not the top model of the Suunto Spartan line but offers probably the best price value ratio if you are for example into running.
+
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B01I05CAAO";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "347074b53621df0c2a095d9fa4c0d92c";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+<br>
 
 ## Suunto Traverse
 And then you have the basic Suunto Traverse which I am also wearing on my wrist.
 
 <a href="https://www.amazon.com/gp/product/B014PNZKC0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014PNZKC0&linkCode=as2&tag=hikeve-20&linkId=7539f58f7072b85f393d5bd7e7e76df9"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B014PNZKC0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="250" height="250" ></amp-img></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B014PNZKC0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="http://amzn.to/2eklrdT" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B014PNZKC0";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "de325cc6f766dc297bf4b21b12152ccd";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
----
+<br>
 
 ## Suunto Traverse Alpha
 If you are more into fishing or hunting, then you should consider getting the Suunto Traverse Alpha. The Suunto Traverse Alpha gives you the following additional features to the regular Suunto Traverse:
@@ -58,9 +89,20 @@ If you are more into fishing or hunting, then you should consider getting the Su
 
 <a href="https://www.amazon.com/gp/product/B01EMEZWIE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01EMEZWIE&linkCode=as2&tag=hikeve-20&linkId=06c51ab5e85c88a347f1630794284af6" rel="nofollow"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01EMEZWIE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="226" height="250" ></amp-img></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01EMEZWIE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="http://amzn.to/2dUmh3z" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B071NRWVLC";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "903e74d324b386216398d4d3a74e9e93";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
----
+<br>
 
 ## Suunto Ambit3 Vertical
 If you are more into trail running (on hills or mountains), mountain biking, climbing or into multisport then you should probably go for the Suunto Ambit3 Vertical or the Suunto Spartan.
@@ -69,48 +111,128 @@ The Suunto Ambit3 Vertical gives you a summary of your vertical gains and also d
 
 <a href="https://www.amazon.com/gp/product/B01AGK1CUK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AGK1CUK&linkCode=as2&tag=hikeve-20&linkId=e88ee85cc37dd473812d405d9bbd5f8d" rel="nofollow"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01AGK1CUK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="177" height="250" ></amp-img></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01AGK1CUK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-<a href="http://amzn.to/2duWnR3" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B01AGJV7XI";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "00ae73c85dcba17c7b5d3282c5b1ca0f";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-
----
+<br>
 
 ## Accessories
 
 <h3><a href="https://www.amazon.com/gp/product/B00LVNEDDU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LVNEDDU&linkCode=as2&tag=hikeve-20&linkId=4a84a24f1bb726b645aa94750720818e" rel="nofollow" target="_blank">Suunto Smart Belt</a></h3>
 
-You can link a heart rate monitor to your Suunto watch.
-
 <a href="https://www.amazon.com/gp/product/B00LVNEDDU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LVNEDDU&linkCode=as2&tag=hikeve-20&linkId=4a84a24f1bb726b645aa94750720818e" rel="nofollow"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00LVNEDDU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="250" height="250" ></amp-img></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00LVNEDDU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
----
+You can link a heart rate monitor to your Suunto watch.
+
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B017C02RVK";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "0873f3a44aa4584b791139f7820ff4a4";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+<br>
 
 <h3><a href="http://amzn.to/28OSNim" rel="nofollow" target="_blank">Traverse Screen Protector</a></h3>
-Screen protectors do not only exist for mobile phones. You can also protect your Suunto watch with a screen protector.
 
 <a href="https://www.amazon.com/gp/product/B01G4J0230/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01G4J0230&linkCode=as2&tag=hikeve-20&linkId=e7b3849132f7af30d060ac14b876efa2" rel="nofollow"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01G4J0230&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="250" height="250" ></amp-img></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01G4J0230" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
----
+Screen protectors do not only exist for mobile phones. You can also protect your Suunto watch with a screen protector.
+
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B01G4J0230";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "ff5f16679e94f13a2d5694a81e96cf10";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+<br>
 
 <h3><a href="http://amzn.to/28V8l3t" rel="nofollow" target="_blank">EasyAcc Rugged Outdoor Power Bank (IP67 Waterproof / 20000mAh)</a></h3>
-On longer trips, it’s quite convenient to have a power bank with you. Usually, I charge my Suunto watch every day if I am on a backpacking trip.
 
 <a href="https://www.amazon.com/gp/product/B01B73I5ZU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01B73I5ZU&linkCode=as2&tag=hikeve-20&linkId=47d7ed2d86df59bde1e15986668ca7b5" rel="nofollow"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01B73I5ZU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="250" height="250" ></amp-img></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01B73I5ZU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
----
+On longer trips, it’s quite convenient to have a power bank with you. Usually, I charge my Suunto watch every day if I am on a backpacking trip.
+
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B01B73I5ZU";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "9096de27ec8988105cd7882ee900fe0b";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+<br>
 
 <h3><a href="http://amzn.to/28V6hrU" rel="nofollow" target="_blank">Suunto Wristop Computer Bike Adaptor</a></h3>
-On longer bicycle trips it might be quite convenient to have the Suunto watch attached on the Suunto Wristop Computer Bike Adaptor to keep track of your performance.
 
 <a href="https://www.amazon.com/gp/product/B00005N9DU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00005N9DU&linkCode=as2&tag=hikeve-20&linkId=ed3bdcc64953b6e74d3c0a8c77395f0f" rel="nofollow"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00005N9DU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="250" height="235" ></amp-img></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00005N9DU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+On longer bicycle trips it might be quite convenient to have the Suunto watch attached on the Suunto Wristop Computer Bike Adaptor to keep track of your performance.
+
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B00005N9DU";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "53544a16928aad72ab1f3d79dc0b1c59";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
 <h3><a href="https://www.amazon.com/gp/product/B00X3LNYG0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X3LNYG0&linkCode=as2&tag=hikeve-20&linkId=8750a11f14e8d1f1bdb09f35a6b933a2" rel="nofollow" target="_blank">Quad Lock Bike Mount Kit for iPhone 6/6S PLUS</a></h3>
+
+
+<a href="https://www.amazon.com/gp/product/B00X3LNYG0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X3LNYG0&linkCode=as2&tag=hikeve-20&linkId=8750a11f14e8d1f1bdb09f35a6b933a2" rel="nofollow"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00X3LNYG0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="250" height="250" ></amp-img></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00X3LNYG0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 If you have an iPhone, you could also get a Quad Lock Bike Mount Kit and attach it next to the Suunto Wristop Computer Bike Adaptor.
 
 It’s quite handy to have your iPhone in front of you when you are on tour. You can quickly check maps, use the iPhone as a second screen for your Ambit watch (to display, e.g., speed or distance) or just to listen to the radio.
 
-<a href="https://www.amazon.com/gp/product/B00X3LNYG0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X3LNYG0&linkCode=as2&tag=hikeve-20&linkId=8750a11f14e8d1f1bdb09f35a6b933a2" rel="nofollow"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00X3LNYG0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="250" height="250" ></amp-img></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00X3LNYG0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B01LX353Y8";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "6967e6a96b2b55a309b2b0dc4ed4fd69";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
----
+<br>
 
 Update 14.11.2015: I finally got the Suunto Traverse as you can see on our Instagram account below. It feels and looks much better on the wrist than the Ambit3. Now going running and test it for the first time :)
 
@@ -126,6 +248,6 @@ Update (7.6.2016): Suunto announced the Suunto Spartan Ultra - A premium multisp
 
 Update (26.1.2017): Suunto announced the Suunto Spartan Sport - Another premium multisport watch with color display and touch screen.
 
----
+<br>
 
 Need some more inspirations on how to use the Suunto Ambit or Suunto Traverse watch? Here is a [trip report](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/) from the Swedish mountains where I was wearing the old Suunto Ambit3 on a packrafting trip.
