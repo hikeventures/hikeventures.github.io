@@ -488,8 +488,6 @@ amzn_assoc_linkid = "2dd68c927692811dd92a7c54ccb7d0e4";
 * [What is water resistant down?](#what-is-water-resistant-down)
 
 <br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 ### When to wear?
 Down jackets are best worn when it’s not that humid. I have down jackets for different seasons. A thin down jacket for chilly 3-season trips when I go backpacking and another thicker down jacket when I go for example on a winter trip to Lapland.
