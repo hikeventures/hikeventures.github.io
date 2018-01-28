@@ -100,8 +100,18 @@ The jacket comes with a box wall construction meaning less cold spots and more l
 
 The Ceres SV Parka offers an excellent warmth-to-weight ratio, compressibility, and packability.
 
-<a href="http://amzn.to/2x3LPyA" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
-
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B0163QU5L8";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "57cb32cb55594a909a0905404155d5bf";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 <hr>
 
@@ -125,7 +135,18 @@ There is also an insulated StormHood™, adjustable hood and hem drawcord and el
 
 The jacket has an internal zippered security pocket with a stuff sack. LT stands for lightweight in the Arc’teryx product line.
 
-<a href="http://amzn.to/2x3ri1S" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B019QL86WC";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "91b4b2d50d94b6e1d504b195da96711a";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 
 <hr>
@@ -144,8 +165,18 @@ A baffle structure keeps the 850 down fill lofty and the down insulated StormHoo
 
 Synthetic insulation is strategically used in parts of this jacket as well.
 
-<a href="http://amzn.to/2xMTnta" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
-
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B01MTNADWD";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "7a37a4da474e8165e11509f092ad8d32";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 <hr>
 
@@ -159,8 +190,18 @@ The Berghaus Tephra Down Jacket is a less technical jacket but comes with a mode
 
 The outer layer of the jacket is made of Pertex to keep cold wind out.
 
-<a href="http://amzn.to/2Bmng2T" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
-
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B0732Z64Y4";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "c6cfc2eb0e0bff84eab8a97115a78f81";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 <hr>
 
@@ -183,7 +224,18 @@ The Canada Goose ARCTIC TECH fabric Water Resistant is wind, and water resistant
 
 The jacket features an adjustable, non-removable hood, a fur ruff, fleece-lined chin guard, interior back pack shoulder straps, six exterior pockets, four large handwarmer pockets, two interior pockets, an adjustable waist drawcords as well as a hideaway snow skirt.
 
-<a href="http://amzn.to/2xRm74r" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B002RHSZB0";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "2cf3279373818764215faa80a3e7ce8b";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 <hr>
 
@@ -199,8 +251,18 @@ The polyester fabric has a DWR (Durable Water Repellent) finish. The jacket come
 
 The jacket also features hook-and-loop cuffs, an elastic drawcord hem, and its design adjusts to your movements.
 
-<a href="http://amzn.to/2xNa8nM" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
-
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B075LDZN3Y";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "a4925714c1a895393f12a16ccfbe2721";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 <hr>
 
@@ -218,7 +280,18 @@ We would wear the Marmot Quasar Hoody as a mid-layer under a shell during modera
 
 The jacket adjusts to your movements and features an elastic draw cord hem and cuss as well as an adjustable hood. You can also pack the jacket into its pocket.
 
-<a href="http://amzn.to/2yfCetq" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B008FPZ7AU";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "9f7e8076e3fdead46882b575a4c8a82a";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 <hr>
 
@@ -240,7 +313,18 @@ If you are looking for a proper winter jacket, then we would rather pick the Rab
 
 See the Men’s Mountain Hardware Ghost Whisperer See the Women’s Mountain Hardware Ghost Whisperer
 
-<a href="http://amzn.to/2x2gQrn" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B01MSPOD7W";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "3a017de7335f91d563d1404de5501c62";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 <hr>
 
@@ -257,7 +341,18 @@ The jacket is filled with NikWax Hydrophobic Down 800-fill and is fluorine free.
 
 The jacket also comes with zippered handwarmer pockets, zippered left chest pocket, and two interior drop pockets.
 
-<a href="http://amzn.to/2CZ96oC" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B00Q1Y072A";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "da16ec0ac59a4d90282fedf50ceef98f";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 <hr>
 
@@ -277,7 +372,18 @@ Further, the Fabric is certified as bluesign® approved.
 
 Wear the Patagonia Ultralight Down Hoodie as a mid layer during the winter months or on chilly evenings during spring and summer.
 
-<a href="http://amzn.to/2fyMvFX" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B00DDXZUV0";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "c0d6f70aeab6da86ecdf60fb26392af7";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 <hr>
 
@@ -299,7 +405,18 @@ However, if you need a warmer jacket, then the Rab Positron Jacket would probabl
 
 See the Men’s Rab Infinity Endurance See the Women’s Rab Infinity Endurance
 
-<a href="http://amzn.to/2yeSfzF" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B00DTT6DXC";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "325973c4700f7a4045dcd323134a1152";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 <hr>
 
@@ -317,7 +434,18 @@ The jacket features a stitch through midi channel construction, two zip handwarm
 
 Further, the jacket is also RDS Certified (Responsible Down Standard).
 
-<a href="http://amzn.to/2yeRWVx" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B073X46PX5";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "12b002cad7ac3723bff6faacc2444e3f";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 <hr>
 
@@ -334,7 +462,18 @@ stitch through midi channel construction, 2 zip handwarmer pockets, semi-elastic
 
 Further, the jacket is also RDS Certified (Responsible Down Standard).
 
-<a href="http://amzn.to/2xN8VwP" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B01IEUC98I";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "2dd68c927692811dd92a7c54ccb7d0e4";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ---
 
