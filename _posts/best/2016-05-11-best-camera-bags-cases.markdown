@@ -207,8 +207,6 @@ The Thule Covert Camera Messenger Bag comes with a removable camera pod system a
 * [Best camera bags for packrafting and kayaking](#best-camera-bags-for-packrafting-and-kayaking)
 * [Best camera bags for urban exploration and traveling](#best-camera-bags-for-urban-exploration-and-traveling)
 
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-
 ### Best camera bags for hiking and backpacking
 
 When I plan to go hiking or backpacking, I would like to have a camera bag where I can easily access my camera.
