@@ -63,9 +63,10 @@ amzn_assoc_linkid = "347074b53621df0c2a095d9fa4c0d92c";
 <br>
 
 ## Suunto Traverse
-And then you have the basic Suunto Traverse which I am also wearing on my wrist.
 
 <a href="https://www.amazon.com/gp/product/B014PNZKC0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014PNZKC0&linkCode=as2&tag=hikeve-20&linkId=7539f58f7072b85f393d5bd7e7e76df9"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B014PNZKC0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="250" height="250" ></amp-img></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B014PNZKC0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+And then you have the basic Suunto Traverse which I am also wearing on my wrist.
 
 <script type="text/javascript">
 amzn_assoc_tracking_id = "hikeve-20";
@@ -83,14 +84,14 @@ amzn_assoc_linkid = "de325cc6f766dc297bf4b21b12152ccd";
 <br>
 
 ## Suunto Traverse Alpha
+<a href="https://www.amazon.com/gp/product/B01EMEZWIE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01EMEZWIE&linkCode=as2&tag=hikeve-20&linkId=06c51ab5e85c88a347f1630794284af6" rel="nofollow"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01EMEZWIE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="226" height="250" ></amp-img></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01EMEZWIE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 If you are more into fishing or hunting, then you should consider getting the Suunto Traverse Alpha. The Suunto Traverse Alpha gives you the following additional features to the regular Suunto Traverse:
 
 * Automatic Shot detection
 * Fishing and hunting specific POI types
 * Moon phases and moon rise/set times
 * Red backlight, Night Vision Goggle compatible
-
-<a href="https://www.amazon.com/gp/product/B01EMEZWIE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01EMEZWIE&linkCode=as2&tag=hikeve-20&linkId=06c51ab5e85c88a347f1630794284af6" rel="nofollow"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01EMEZWIE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="226" height="250" ></amp-img></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01EMEZWIE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <script type="text/javascript">
 amzn_assoc_tracking_id = "hikeve-20";
@@ -108,11 +109,12 @@ amzn_assoc_linkid = "903e74d324b386216398d4d3a74e9e93";
 <br>
 
 ## Suunto Ambit3 Vertical
+<a href="https://www.amazon.com/gp/product/B01AGK1CUK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AGK1CUK&linkCode=as2&tag=hikeve-20&linkId=e88ee85cc37dd473812d405d9bbd5f8d" rel="nofollow"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01AGK1CUK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="177" height="250" ></amp-img></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01AGK1CUK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
 If you are more into trail running (on hills or mountains), mountain biking, climbing or into multisport then you should probably go for the Suunto Ambit3 Vertical or the Suunto Spartan.
 
 The Suunto Ambit3 Vertical gives you a summary of your vertical gains and also displays the altitude during your ascent. This watch is an updated version of the old Ambit3 (Peak).
-
-<a href="https://www.amazon.com/gp/product/B01AGK1CUK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AGK1CUK&linkCode=as2&tag=hikeve-20&linkId=e88ee85cc37dd473812d405d9bbd5f8d" rel="nofollow"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01AGK1CUK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="177" height="250" ></amp-img></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01AGK1CUK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <script type="text/javascript">
 amzn_assoc_tracking_id = "hikeve-20";
