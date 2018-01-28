@@ -64,8 +64,6 @@ However, others might find the color screen or the touch screen of the Spartan m
 Personally, I don’t care that much about the touch screen. However, the color display in combination with the map is a really cool feature.
 
 <br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 Moreover, the Fenix 5X and the Suunto Spartan Trainer Wrist HR also has a heart rate monitor built into the back of the watch so you can measure your heart beat without wearing a heart strap around your chest.
 
