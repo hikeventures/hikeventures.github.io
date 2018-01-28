@@ -1,4 +1,4 @@
----
+<br>
 title: Best Synthetic Insulated Jackets 2018
 description: Need a warm jacket for your autumn or winter? We found the best lightweight synthetic insulated jackets for 2018
 date: 2016-10-10 20:43:52
@@ -10,7 +10,7 @@ tags:
   - best
   - jackets
 layout: post
----
+<br>
 
 Here is my <a href="#table">selection</a> of the best synthetic insulated jackets for 2018 which I would consider buying for my next winter or hiking trip.
 
@@ -90,8 +90,18 @@ The Arc'teryx Cerium LT Hoody is not a pure synthetic insulated jacket and repla
 
 With 295 grams it's the lightest jacket in our list. This jacket is useful for active people, but you may rather pick a different jacket if you are planning to visit a very wet or humid place.
 
-<a href="http://amzn.to/2x3LPyA" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
-
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B019QL86WC";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "18c820c5d515ad3c31f3e67f127a9c24";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 <hr>
 
@@ -105,8 +115,18 @@ The Arc'teryx Fission SV Jacket is a waterproof, insulated jacket with Coreloft�
 
 This jacket is the warmest synthetic insulated all-mountain jacket in Arc'teryx product range which is also waterproof while still breathable.
 
-<a href="http://amzn.to/2x4eByU" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
-
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B00DR0HWDS";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "74945d86ded290fcd98aeb527d776f9a";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 <hr>
 
 ## Arc'teryx Nuclei AR Jacket
@@ -121,7 +141,18 @@ The jacket is designed with an articulated patterning which increases ergonomic 
 
 Moreover, the jacket comes with a helmet-compatible insulated StormHood™ which does not impact your vision.
 
-<a href="http://amzn.to/2yObwVP" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B0163TBLB8";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "4f8eb6ac2b89d2919b21190eb5da7c2f";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 <hr>
 
@@ -137,9 +168,20 @@ You can wear the jacket either as a soft shell or as a mid-layer under a waterpr
 
 The jacket has a trim fit design and an insulated adjustable hood which is helmet compatible.
 
-<a href="http://amzn.to/2xJSHmq" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B01MYMK4IV";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "dfc7618cf1b7c690ccbdd0f4594efd58";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
----
+<br>
 
 ## Montane Fusion Alpha Jacket
 
@@ -149,7 +191,18 @@ The jacket has a trim fit design and an insulated adjustable hood which is helme
 
 The Montane Fusion Alpha jacket has been developed by using thermal imaging data and has been designed for alpinists.
 
-<a href="http://amzn.to/2x4reiA" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B075S98FQJ";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "f6dfbf65ee718b9d65973f697337615b";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 <hr>
 
@@ -161,7 +214,18 @@ The Montane Fusion Alpha jacket has been developed by using thermal imaging data
 
 The Montane Halogen Alpha Jacket has been designed for stop-start activities in the mountains. The jacket is made of Polartec Alpha.
 
-<a href="http://amzn.to/2yN56q6" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B06XRHVMQP";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "31c6146f955762c6070f7e3a3c581495";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 <hr>
 
@@ -175,7 +239,18 @@ The Mountain Equipment Fitzroy Jacket is a wind and water resistant jacket fille
 
 It also comes with an insulated hood with wired visor. The Mountain Equipment Fitzroy Jacket is currently my go-to insulated jacket which I was wearing in the [Scottish Highlands](http://www.hikeventures.com/Packrafting-River-Dee-Scotland-1/).
 
-<a href="http://amzn.to/2yey314" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B075JPNT5Z";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "b6c580016942c3c0d068cd1cd4031f7a";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 <hr>
 
@@ -189,9 +264,20 @@ The Outdoor Research Cathode Hooded Jacket comes with an insulated hood and is f
 
 The jacket is an excellent choice for cold and wet alpine environments and those looking for a lightweight and breathable solution.
 
-<a href="http://amzn.to/2fAauUR" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B019YZRPPO";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "b6327e10489ece29c7cde2b76bf3f5dd";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
----
+<br>
 
 ## Outdoor Research Uberlayer Hooded Jacket
 
@@ -201,9 +287,20 @@ The jacket is an excellent choice for cold and wet alpine environments and those
 
 The Outdoor Research Uberlayer Jacket is made of Polartec Alpha and is an excellent choice for ski tours or climbing. It offers breathability and dries quickly.
 
-<a href="http://amzn.to/2x3xabe" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B00RZC6MZ8";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "63976c00709a8e7bfd3475d4a7e5baba";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
----
+<br>
 
 ## Outdoor Research Deviator Hoody
 
@@ -213,9 +310,20 @@ The Outdoor Research Uberlayer Jacket is made of Polartec Alpha and is an excell
 
 The Outdoor Research Deviator Hoody is made of Polartec Alpha insulation and has been designed for active pursuits to stay dry and warm. The hood is made of Polartec Power Grid.
 
-<a href="http://amzn.to/2x3Y1z7" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B06XS2YKJ6";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "c0979c163a5839bfa18450d32d001998";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
----
+<br>
 
 ## Rab Nebula Jacket
 
@@ -229,7 +337,18 @@ The jacket is designed as an all-rounder which is perfect for climbing and winte
 
 The jacket has a helmet compatible hood for climbing use and a Pertex Endurance® shell to make the jacket water resistant.
 
-<a href="http://amzn.to/2x4dKyl" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B074CG7RDS";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "26efe7aac82db1e419c82f24d039d4c7";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 <hr>
 
@@ -243,7 +362,18 @@ The Rab Photon X Jacket is a water-resistant winter jacket filled with Primaloft
 
 The jacket features zoned synthetic insulation to eliminate cold spots and is reinforced in key areas. The jacket also comes with a helmet-compatible hood.
 
-<a href="http://amzn.to/2x4s5L1" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "hikeve-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B013HANRA4";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "b250a9e663d61dc6ed18c4dbc5e4bee9";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 ## Our interview with the North Face
 
