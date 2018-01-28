@@ -101,7 +101,7 @@ amzn_assoc_linkid = "18c820c5d515ad3c31f3e67f127a9c24";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-<hr>
+<br>
 
 ## Arc'teryx Fission SV Jacket
 
@@ -123,7 +123,7 @@ amzn_assoc_placement = "adunit";
 amzn_assoc_linkid = "74945d86ded290fcd98aeb527d776f9a";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-<hr>
+<br>
 
 ## Arc'teryx Nuclei AR Jacket
 
@@ -148,7 +148,7 @@ amzn_assoc_linkid = "4f8eb6ac2b89d2919b21190eb5da7c2f";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-<hr>
+<br>
 
 ## Arc'teryx Proton AR Hoody
 
@@ -194,7 +194,7 @@ amzn_assoc_linkid = "f6dfbf65ee718b9d65973f697337615b";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-<hr>
+<br>
 
 ## Montane Halogen Alpha Jacket
 
@@ -215,7 +215,7 @@ amzn_assoc_linkid = "31c6146f955762c6070f7e3a3c581495";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-<hr>
+<br>
 
 ## Mountain Equipment Fitzroy Jacket
 
@@ -238,7 +238,7 @@ amzn_assoc_linkid = "b6c580016942c3c0d068cd1cd4031f7a";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-<hr>
+<br>
 
 ## Outdoor Research Cathode Hooded Jacket
 
@@ -328,7 +328,7 @@ amzn_assoc_linkid = "26efe7aac82db1e419c82f24d039d4c7";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
-<hr>
+<br>
 
 ## Rab Photon X Jacket
 
