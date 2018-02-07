@@ -1,5 +1,5 @@
 ---
-title: Best Down Jackets 2018
+title: Best Down Jackets 2017 - 2018
 description: Need a warm jacket for your autumn or winter? We found the best lightweight down jackets for 2017
 date: 2016-10-10 20:43:52
 update_date: 2017-12-22 22:10:52
@@ -12,7 +12,7 @@ tags:
 layout: post
 ---
 
-In this blog post, I have <a href="#table">selected</a> the best down jackets of 2018 which I would consider buying if I were to get a new one for my next <a href="http://www.hikeventures.com/destinations/">backpacking or winter adventure</a>.
+In this blog post, I have <a href="#table">selected</a> the best down jackets of 2017 - 2018 which I would consider buying if I were to get a new one for my next <a href="http://www.hikeventures.com/destinations/">backpacking or winter adventure</a>.
 
 A down jacket is an essential piece of clothes when planning an overnight trip outdoors or during winter time. A down jacket keeps you much warmer compared to a fleece jacket.
 
@@ -24,7 +24,7 @@ Moreover, I would rather carry a [synthetic insulated jacket](http://www.hikeven
 
 Also, have a look at our [FAQ on down jackets](#faq-on-down-jackets).
 
-<amp-img src="https://farm1.staticflickr.com/395/32116563352_d0c641d313_k.jpg" width="2048" height="1152" alt="Best down jackets 2018" layout="responsive"></amp-img>
+<amp-img src="https://farm1.staticflickr.com/395/32116563352_d0c641d313_k.jpg" width="2048" height="1152" alt="Best down jackets 2017 - 2018" layout="responsive"></amp-img>
 <br>
 <!--more-->
 
@@ -86,8 +86,6 @@ Also, have a look at our [FAQ on down jackets](#faq-on-down-jackets).
 
 ## Arc'teryx Ceres SV Parka (850-fill)
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B0163QU4JQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0163QU4JQ&linkCode=as2&tag=hikeve-20&linkId=5dc978652e8550369cb5f9cf40042a96"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0163QU4JQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0163QU4JQ" width="1" height="1" border="0" alt="Best Down Jackets 2018 - Arc'teryx Ceres SV Parka" style="border:none !important; margin:0px !important;" />
-
 **Weight**: 880 grams / 31 oz.
 
 More heavy than the other jackets in our list, the Arc’teryx Ceres SV Parka is made for the deep winter where warmth is the most important factor.
@@ -100,24 +98,12 @@ The jacket comes with a box wall construction meaning less cold spots and more l
 
 The Ceres SV Parka offers an excellent warmth-to-weight ratio, compressibility, and packability.
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B0163QU5L8";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "57cb32cb55594a909a0905404155d5bf";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<a href="http://amzn.to/2x3LPyA" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
-<br>
+
+<hr>
 
 ## Arc'teryx Cerium LT Hoody (850-fill)
-
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00Q9MHXN0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q9MHXN0&linkCode=as2&tag=hikeve-20&linkId=Y5N4EYNVYQ5UDXXJ" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q9MHXN0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q9MHXN0" width="1" height="1" border="0" alt="Best Down Jackets 2018 - Arcteryx Cerium LT Hoody" style="border:none !important; margin:0px !important;"/>
 
 **Weight**: 275 grams / 9.7 oz.
 
@@ -135,25 +121,12 @@ There is also an insulated StormHood™, adjustable hood and hem drawcord and el
 
 The jacket has an internal zippered security pocket with a stuff sack. LT stands for lightweight in the Arc’teryx product line.
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B019QL86WC";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "91b4b2d50d94b6e1d504b195da96711a";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<a href="http://amzn.to/2x3ri1S" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 
-<br>
+<hr>
 
 ## Arc'teryx Cerium SV Hoody (850-fill)
-
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GW80Q9E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GW80Q9E&linkCode=as2&tag=hikeve-20&linkId=WCQGDJJ5MREZ5EUX"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GW80Q9E&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GW80Q9E" width="1" height="1" border="0" alt="Best Down Jackets 2018 - Arcteryx Cerium SV Hoody" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 440 grams / 15.5 oz.
 
@@ -165,24 +138,12 @@ A baffle structure keeps the 850 down fill lofty and the down insulated StormHoo
 
 Synthetic insulation is strategically used in parts of this jacket as well.
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B01MTNADWD";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "7a37a4da474e8165e11509f092ad8d32";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<a href="http://amzn.to/2xMTnta" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
-<br>
+
+<hr>
 
 ## Berghaus Tephra (Stretch) Down Jacket (600-fill)
-
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B0732YB9FN/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0732YB9FN&linkCode=as2&tag=hikeve-20&linkId=18ef639b4de399d439bd1405791f220f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0732YB9FN&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0732YB9FN" width="1" height="1" border="0" alt="Best Down Jackets 2018 - Berghaus Tephra (Stretch) Down Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 463 grams / 16.3 oz.
 
@@ -190,25 +151,13 @@ The Berghaus Tephra Down Jacket is a less technical jacket but comes with a mode
 
 The outer layer of the jacket is made of Pertex to keep cold wind out.
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B0732Z64Y4";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "c6cfc2eb0e0bff84eab8a97115a78f81";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<a href="http://amzn.to/2Bmng2T" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
-<br>
+
+<hr>
 
 
 ## Canada Goose Expedition Down Parka (625-fill)
-
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01KXUFDQC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01KXUFDQC&linkCode=as2&tag=hikeve-20&linkId=5aaf89773baa2dd8884a28b116bf9e3e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01KXUFDQC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01KXUFDQC" width="1" height="1" border="0" alt="Best Down Jackets 2018 - Canada Goose Expedition Down Parka" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 2070 grams / 73 oz.
 
@@ -224,24 +173,11 @@ The Canada Goose ARCTIC TECH fabric Water Resistant is wind, and water resistant
 
 The jacket features an adjustable, non-removable hood, a fur ruff, fleece-lined chin guard, interior back pack shoulder straps, six exterior pockets, four large handwarmer pockets, two interior pockets, an adjustable waist drawcords as well as a hideaway snow skirt.
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B002RHSZB0";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "2cf3279373818764215faa80a3e7ce8b";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<a href="http://amzn.to/2xRm74r" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
-<br>
+<hr>
 
 ## Marmot Guides Down Hoodie (700-fill)
-
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01MSP108D/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MSP108D&linkCode=as2&tag=hikeve-20&linkId=6fa25d4d74a62a97a4e9f991782ca8a0"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MSP108D&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MSP108D" width="1" height="1" border="0" alt="Best Down Jackets 2018 - Marmot Guides Down Hoodie" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 652 grams / 23 oz.
 
@@ -251,24 +187,12 @@ The polyester fabric has a DWR (Durable Water Repellent) finish. The jacket come
 
 The jacket also features hook-and-loop cuffs, an elastic drawcord hem, and its design adjusts to your movements.
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B075LDZN3Y";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "a4925714c1a895393f12a16ccfbe2721";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<a href="http://amzn.to/2xNa8nM" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
-<br>
+
+<hr>
 
 ## Marmot Quasar Hoody (900-fill)
-
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00DNNZ3KI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DNNZ3KI&linkCode=as2&tag=hikeve-20&linkId=UITTBILMF3IBYVRI"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DNNZ3KI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DNNZ3KI" width="1" height="1" border="0" alt="Best Down Jackets 2018 - Marmot Quasar Hoody" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 372 grams / 13.5 oz
 
@@ -280,24 +204,11 @@ We would wear the Marmot Quasar Hoody as a mid-layer under a shell during modera
 
 The jacket adjusts to your movements and features an elastic draw cord hem and cuss as well as an adjustable hood. You can also pack the jacket into its pocket.
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B008FPZ7AU";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "9f7e8076e3fdead46882b575a4c8a82a";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<a href="http://amzn.to/2yfCetq" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
-<br>
+<hr>
 
 ## Mountain Hardware Ghost Whisperer Hooded Down Jacket (800-fill)
-
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00GULW0DS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00GULW0DS&linkCode=as2&tag=hikeve-20&linkId=RSEZE3QFDW2FVB3A" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GULW0DS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00GULW0DS" width="1" height="1" border="0" alt="Best Down Jackets 2018 - Mountain Hardware Ghost Whisperer Hooded Down Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 212 grams / 7.5 oz.
 
@@ -313,25 +224,12 @@ If you are looking for a proper winter jacket, then we would rather pick the Rab
 
 See the Men’s Mountain Hardware Ghost Whisperer See the Women’s Mountain Hardware Ghost Whisperer
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B01MSPOD7W";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "3a017de7335f91d563d1404de5501c62";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<a href="http://amzn.to/2x2gQrn" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
-<br>
+<hr>
 
 
 ## Mountain Hardwear Nitrous Hooded Down Jacket (800-fill)
-
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01MTR9RUC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MTR9RUC&linkCode=as2&tag=hikeve-20&linkId=f43cf7a6eeec849172d9f3d5a596435a"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MTR9RUC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MTR9RUC" width="1" height="1" border="0" alt="Best Down Jackets 2018 - Mountain Hardwear Nitrous Hooded Down Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 328 grams / 11.6 oz
 
@@ -341,24 +239,11 @@ The jacket is filled with NikWax Hydrophobic Down 800-fill and is fluorine free.
 
 The jacket also comes with zippered handwarmer pockets, zippered left chest pocket, and two interior drop pockets.
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B00Q1Y072A";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "da16ec0ac59a4d90282fedf50ceef98f";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<a href="http://amzn.to/2CZ96oC" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
-<br>
+<hr>
 
 ## Patagonia Ultralight Down Hoodie (800-fill)
-
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00OZGABKY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00OZGABKY&linkCode=as2&tag=hikeve-20&linkId=OLFQERZDADI4UC3J"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00OZGABKY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00OZGABKY" width="1" height="1" border="0" alt="Best Down Jackets 2018 - Patagonia Men’s Down Hooded Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 298 grams / 10.5 oz.
 
@@ -372,24 +257,11 @@ Further, the Fabric is certified as bluesign® approved.
 
 Wear the Patagonia Ultralight Down Hoodie as a mid layer during the winter months or on chilly evenings during spring and summer.
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B00DDXZUV0";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "c0d6f70aeab6da86ecdf60fb26392af7";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<a href="http://amzn.to/2fyMvFX" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
-<br>
+<hr>
 
 ## Rab Infinity Endurance Jacket (850-fill)
-
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00DTT6DXC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DTT6DXC&linkCode=as2&tag=hikeve-20&linkId=N7SHBEPWSYPV25ZK"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DTT6DXC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00DTT6DXC" width="1" height="1" border="0" alt="Best Down Jackets 2018 - Rab Infinity Endurance Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 575 grams / 20.5 oz
 
@@ -405,24 +277,11 @@ However, if you need a warmer jacket, then the Rab Positron Jacket would probabl
 
 See the Men’s Rab Infinity Endurance See the Women’s Rab Infinity Endurance
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B00DTT6DXC";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "325973c4700f7a4045dcd323134a1152";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<a href="http://amzn.to/2yeSfzF" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
-<br>
+<hr>
 
 ## Rab Positron Jacket (800-fill)
-
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00XJO2X18/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00XJO2X18&linkCode=as2&tag=hikeve-20&linkId=5POHXUOALSVWVY2B"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00XJO2X18&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00XJO2X18" width="1" height="1" border="0" alt="Best Down Jackets 2018 - Rab Positron Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 720 grams / 25.4 oz.
 
@@ -434,24 +293,11 @@ The jacket features a stitch through midi channel construction, two zip handwarm
 
 Further, the jacket is also RDS Certified (Responsible Down Standard).
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B073X46PX5";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "12b002cad7ac3723bff6faacc2444e3f";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<a href="http://amzn.to/2yeRWVx" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
-<br>
+<hr>
 
 ## Rab Zero G Jacket (1000-fill)
-
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01IEUC98I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01IEUC98I&linkCode=as2&tag=hikeve-20&linkId=9aa3a48e1b4a90d72d101f4f4ea2dd99"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01IEUC98I&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01IEUC98I" width="1" height="1" border="0" alt="Best Down Jackets 2018 - Rab Zero G Jacket" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 310 grams / 11 oz.
 
@@ -462,18 +308,7 @@ stitch through midi channel construction, 2 zip handwarmer pockets, semi-elastic
 
 Further, the jacket is also RDS Certified (Responsible Down Standard).
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B01IEUC98I";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "2dd68c927692811dd92a7c54ccb7d0e4";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<a href="http://amzn.to/2xN8VwP" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
 
@@ -487,6 +322,8 @@ amzn_assoc_linkid = "2dd68c927692811dd92a7c54ccb7d0e4";
 * [Down jacket feathers coming out](#down-feathers-are-coming-out)
 * [What is water resistant down?](#what-is-water-resistant-down)
 
+<br>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
 <br>
 
 ### When to wear?
