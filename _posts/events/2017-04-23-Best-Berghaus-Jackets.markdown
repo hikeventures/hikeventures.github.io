@@ -23,6 +23,8 @@ On the ISPO we had the chance to talk with Berghaus about the best jackets in th
 
 <!--more-->
 
+## Berghaus Extrem 8000 Pro
+
 **Hi. This is Konstantin, and I've got Chris here from Berghaus. Chris, could you tell us something about one or two, three highlights of your collection?**
 
 Well, here's the first. This is the Extrem 8000 Pro Jacket, which has just won an ISPO Gold Award, about which we are very pleased. This is the most technical jacket in the Berghaus range. It sits in the Extrem, the pinnacle range that Berghaus makes, and it won the award for three fantastic innovations all called Xpanse.
@@ -34,6 +36,8 @@ The Xpanse Hood, which uses a system of magnets. When you're in full winter cond
 Finally, there's the Xpanse face guard there, to which you can zip away when you don't need it, but when you're in full winter conditions, but you don't want to get too steamed up, you've got that face guard with the little holes there that allows you to continue to operate at optimum level in the worst conditions.
 
 That's the Extrem 8000 Pro Jacket, which will be available from autumn/winter 2016
+
+## Ramche 2.0
 
 **Chris, can you tell us something about this product as well.**
 
