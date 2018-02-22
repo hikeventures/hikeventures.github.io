@@ -33,16 +33,9 @@ Have a look on our [FAQ](#faq-on-fleece-jackets) to learn more about fleece jack
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00241ITYC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00241ITYC&linkCode=as2&tag=hikeve-20&linkId=17f9e01def77e250d7eff4292bcb31e1"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00241ITYC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00241ITYC" width="1" height="1" border="0" alt="NRS Standard Rescue Throw Bag" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 1020 grams / 2 lb 4 oz
-**Fabric**: Gore-Tex Windstopper, Fleece and Wool
 
-Whitewater safety is a serious matter. The NRS Standard Rescue Throw Bag is an excellent tool for protecting you and your buddies in swiftwater emergency situations.
-Rugged Cordura® bag is tough as nails and comes in two high visibility colors.
-2" mesh panel for better drainage and reduced dry time.
-The 3/8" polypropylene rope is yellow for high visibility.
-The rope has a 1,900 pound tensile strength and it floats for good visibility on the water.
-A barrel-lock drawstring is incorporated in a flared nylon top for smoother throws, plus easy reloading and closure.
-An elastic loop and 'pocket' will hold a glow stick or "chem light" for low light rescues.
-Internal foam flotation keeps the bag on the top of the water where you need it for rescue.
+The NRS Standard Rescue Throw Bag protects you in swiftware emergency situations. The bag is made of rugged Cordura and comes in highly visible colors. There is also a mesh panel on the bag to reduce the dry time.
+The rope has a 1,900 pound tensile strength. It floats for good visibility on the water. It's also possible to attach a glow stick or "check light" for low light rescues. Moreover, the bag floats on top of the water.
 
 <script type="text/javascript">
 amzn_assoc_tracking_id = "hikeve-20";
@@ -66,7 +59,9 @@ amzn_assoc_linkid = "e93c39148d92a652fd81f3e0964d2fc1";
 **Weight**: 544 grams / 1.2 lbs
 **Fabric**: Polartec Classic 100 Micro Velour Small Grid
 
-The NRS Compact Rescue Throw Bag is an excellent choice for swiftwater emergency work. Its compact shape and light weight are perfect for kayakers.
+The NRS Compact Rescue Throw Bag
+
+is an excellent choice for swiftwater emergency work. Its compact shape and light weight are perfect for kayakers.
 2" mesh panel for better drainage and reduced dry time.
 The 70' of 1/4" polypropylene rope is yellow for high visibility.
 The rope has a 950 pound tensile strength and it floats for good visibility on the water.
@@ -94,6 +89,8 @@ amzn_assoc_linkid = "6a32c6ca044ab2495ff696059d46339e";
 
 **Weight**: 425 grams / 15 oz.
 **Fabric**: Polartec Power Dry
+
+The NRS Wedge Rescue Throw Bag
 
 Good things can come in small packages. The NRS Wedge Throw Bag is compact, so it fits in any space in your boat - no excuses for not carrying it. Always there for that vital rescue toss.
 55' of floating 1/4" polypropylene gives you the reach you need to pluck that swimmer out of the water.
@@ -125,7 +122,9 @@ amzn_assoc_linkid = "2c20b01d2333e70a0c25c63bed7ee7dc";
 **Weight**: 1224 grams / 2.7 lbs.
 **Fabric**: Berghaus fabric (recycled)
 
-The NRS NFPA Rope Rescue Throw Bag is the ideal choice for the rescue professional or any boater looking for a bag with extra-strong rope that's easy to grasp and hold onto.
+The NRS NFPA Rope Rescue Throw Bag
+
+is the ideal choice for the rescue professional or any boater looking for a bag with extra-strong rope that's easy to grasp and hold onto.
 Rugged Cordura® bag is highly visible for easy location on the water.
 The 3/8" Sterling Grabline rope is NFPA 1983,2012 certified. It has a tensile strength of 3,282 lbs. and the sheath has a raised pattern for excellent gripability.
 The rope floats for good visibility on the water.
@@ -157,6 +156,8 @@ amzn_assoc_linkid = "9c98e001d7e6d25da4587c6fa589e4d6";
 
 **Weight**: 635 grams / 1.4 lbs.
 **Fabric**: Polartec Power Stretch
+
+The NRS Guardian Wedge Waist Throw Bag
 
 In your boat or scouting a rapid, the NRS Pro Guardian Waist Throw Bag gives you 55 feet of high-strength rope that's always there when you need it.
 High-strength 1/4" UltraLine Water Rescue Rope is suitable for unpinning kayaks as well as rescuing swimmers.
@@ -190,6 +191,8 @@ amzn_assoc_linkid = "00957bf6dfa3ae7ecd16614f8806e2b2";
 
 **Weight**: 306 grams / 10.8 oz.
 **Fabric**: Polartec Classic 100
+
+The Astral Buoyancy Dyneema Throw Bag
 
 This Dyneema® core throw rope integrates perfectly into the GreenJacket’s™ rope ready pocket, where it is accessible at all times (even when your boat happens to be downstream.)
 
