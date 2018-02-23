@@ -57,16 +57,9 @@ amzn_assoc_linkid = "e93c39148d92a652fd81f3e0964d2fc1";
 <a rel="nofollow" href="https://www.amazon.com/NRS-Compact-Rescue-Throw-Orange/dp/B000GKBBXY/ref=as_li_ss_il?s=sporting-goods&ie=UTF8&qid=1519198682&sr=1-4&keywords=nrs+throw+bag&dpID=4165WYnpBsL&preST=_SY300_QL70_&dpSrc=srch&linkCode=li3&tag=hikeve-20&linkId=bc8bbacf5f7614d2f4b17487c4e0ee3e" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000GKBBXY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B000GKBBXY" width="1" height="1" border="0" alt="NRS Compact Rescue Throw Bag" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 544 grams / 1.2 lbs
-**Fabric**: Polartec Classic 100 Micro Velour Small Grid
 
-The NRS Compact Rescue Throw Bag
-
-is an excellent choice for swiftwater emergency work. Its compact shape and light weight are perfect for kayakers.
-2" mesh panel for better drainage and reduced dry time.
-The 70' of 1/4" polypropylene rope is yellow for high visibility.
-The rope has a 950 pound tensile strength and it floats for good visibility on the water.
-A barrel-lock drawstring is incorporated in a flared nylon top for smoother throws, plus easy reloading and closure.
-Internal foam flotation keeps the bag on the top of the water where you need it for rescue.
+The NRS Compact Rescue Throw Bag is also suitabel for swiftwater emergency work. Its much lighter and compact than the NRS Standard Rescue Throw Bag and suitable for kayakers.
+There is also a drainage to reduce dry time and the bag is highly visible as well. The rope comes with a 950 pound tensile strength. Moreover, it can float on the water.
 
 <script type="text/javascript">
 amzn_assoc_tracking_id = "hikeve-20";
@@ -88,17 +81,10 @@ amzn_assoc_linkid = "6a32c6ca044ab2495ff696059d46339e";
 <a rel="nofollow" href="https://www.amazon.com/NRS-Wedge-Rescue-Throw-Yellow/dp/B0028EHPTA/ref=as_li_ss_il?s=sporting-goods&ie=UTF8&qid=1519198880&sr=1-6&keywords=nrs+throw+bag&dpID=413uElsBYcL&preST=_SX300_QL70_&dpSrc=srch&linkCode=li3&tag=hikeve-20&linkId=a93efa719d79a0de421219892b080518" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0028EHPTA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B0028EHPTA" width="1" height="1" border="0" alt=" NRS Wedge Rescue Throw Bag" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 425 grams / 15 oz.
-**Fabric**: Polartec Power Dry
 
-The NRS Wedge Rescue Throw Bag
-
-Good things can come in small packages. The NRS Wedge Throw Bag is compact, so it fits in any space in your boat - no excuses for not carrying it. Always there for that vital rescue toss.
-55' of floating 1/4" polypropylene gives you the reach you need to pluck that swimmer out of the water.
-Compact, flattened shape slides easily inside your boat.
-Foam panels inside the bag keep it afloat for safety and visibility.
-Mesh sides on the bag give drainage and quick drying for the rope.
-Bright colors and reflective tape make the bag highly visible for the rescuer and rescuee.
-Max Load: 950 lbs. (Maximum load indicated is for the rope alone knots may reduce weight capacity)
+The NRS Wedge Rescue Throw Bag is even lighter than the NRS Compact Rescue Throw Bag and can be easily carried and stored as it has such a small footprint.
+It also floats easily on water and is highly visible. As with the other NRS throw bags it comes with mesh sides which give drainage and quick drying for the rope.
+The rope comes with 950 pound tensile strength.
 
 <script type="text/javascript">
 amzn_assoc_tracking_id = "hikeve-20";
@@ -120,20 +106,8 @@ amzn_assoc_linkid = "2c20b01d2333e70a0c25c63bed7ee7dc";
 <a rel="nofollow" href="https://www.amazon.com/NRS-Pro-Rescue-Throw-Rope-Yellow/dp/B00097IE16/ref=as_li_ss_il?s=sporting-goods&ie=UTF8&qid=1519198947&sr=1-8&keywords=nrs+throw+bag&linkCode=li3&tag=hikeve-20&linkId=bd2a371829d4ebb5841f87e375d7f57c" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00097IE16&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00097IE16" width="1" height="1" border="0" alt="NRS NFPA Pro Rescue Throw Rope" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 1224 grams / 2.7 lbs.
-**Fabric**: Berghaus fabric (recycled)
 
-The NRS NFPA Rope Rescue Throw Bag
-
-is the ideal choice for the rescue professional or any boater looking for a bag with extra-strong rope that's easy to grasp and hold onto.
-Rugged Cordura® bag is highly visible for easy location on the water.
-The 3/8" Sterling Grabline rope is NFPA 1983,2012 certified. It has a tensile strength of 3,282 lbs. and the sheath has a raised pattern for excellent gripability.
-The rope floats for good visibility on the water.
-Wide mesh panel in the bag facilitates drainage and reduced dry time.
-Two reflective bands and an elastic "holster" for a glow stick, or "chem light", enhance visibility in low-light rescues.
-A barrel-lock drawstring is incorporated in a flared nylon top for smoother throws, plus easy reloading and closure.
-1" webbing with side-release buckle secures the top rope loop and lets you attach the bag to D-rings, boat frames, etc.
-Internal foam flotation keeps the bag on the top of the water where you need it for rescue.
-Polyethylene-sheathed grab loop makes it super quick and easy to hook on a carabiner
+The NRS NFPA Rope Rescue Throw Bag is one of the more heavy bags in our list and ideal for rescue operations or for those looking for an extra strong rope. The bag is made of durable Cordura and is highly visible. Moreover, the rope is NFPA 1983,2012 certified and has a tensile strength of 3,282 lbs. The rope also floats on the water. Moreover, there are also mesh panels which allow drainage. The reflective bands also increase the visibility of the bag. Moreover, there is a holster for a glim stick.
 
 <script type="text/javascript">
 amzn_assoc_tracking_id = "hikeve-20";
@@ -157,16 +131,8 @@ amzn_assoc_linkid = "9c98e001d7e6d25da4587c6fa589e4d6";
 **Weight**: 635 grams / 1.4 lbs.
 **Fabric**: Polartec Power Stretch
 
-The NRS Guardian Wedge Waist Throw Bag
-
-In your boat or scouting a rapid, the NRS Pro Guardian Waist Throw Bag gives you 55 feet of high-strength rope that's always there when you need it.
-High-strength 1/4" UltraLine Water Rescue Rope is suitable for unpinning kayaks as well as rescuing swimmers.
-The outer bag has a wide hook-and-loop flap and a zipper to facilitate removing the inner bag. Drainage holes in the bag expel water quickly.
-Removable Wedge Throw Bag has foam flotation to keep it on top of the water, mesh sides for drainage and drying, and reflective taping for increased visibility.
-A quick-release buckle on the adjustable waist belt ensures safe exit in an emergency.
-The internal throw bag comes completely free from the waist belt.
-Webbing loops along the belt allow you to attach carabiners.
-1/4" UltraLine rope has a maximum tensile strength of 2,495 pounds.
+The NRS Guardian Wedge Waist Throw Bag is one of the lighter throw bags in our selection which comes with a 55 feet rope. This throw bag is suitable for kayaks as well as rescuing swimmers.
+There are also drainage holes in the bag and the bag floats easily on water. The rope has a tensile strength of 2,495 pounds.
 
 ---
 
@@ -190,14 +156,8 @@ amzn_assoc_linkid = "00957bf6dfa3ae7ecd16614f8806e2b2";
 <a rel="nofollow" href="https://www.amazon.com/gp/product/B00BDMDXNU/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=hikeve-20&linkId=08c49a2fef29ba389085024b1be8ee0c" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BDMDXNU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00BDMDXNU" width="1" height="1" border="0" alt="Astral Buoyancy Dyneema Throw Bag" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 306 grams / 10.8 oz.
-**Fabric**: Polartec Classic 100
 
-The Astral Buoyancy Dyneema Throw Bag
-
-This Dyneema® core throw rope integrates perfectly into the GreenJacket’s™ rope ready pocket, where it is accessible at all times (even when your boat happens to be downstream.)
-
-Working load: 1800 lbs (Dyneema)
-Weight: 10.8 oz
+The Astral Buoyancy Dyneema Throw Bag can be integrated into the GreenJacket to have easy access. It's one of the lightest throw bag choices in our selection and also features a nice design. Personally, I would take a lighter rope option with me when going on a packrafting trip.
 
 <script type="text/javascript">
 amzn_assoc_tracking_id = "hikeve-20";
@@ -211,45 +171,3 @@ amzn_assoc_placement = "adunit";
 amzn_assoc_linkid = "b2422d5817a43e327775b94512e34167";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
----
-
-### Fabric of fleece jackets
-
-Fleece jackets come in different fabrics and depending on the material a fleece jacket can be more stretchy, offers better insulation or is more comfortable to wear.
-
-**Polartec Classic 100** is the most basic fleece fabric and in most cases sufficient if you go hiking. It is probably also the least expensive fabric offered by Polartec.
-
-**Polartec Thermal Pro** is similar as the Classic 100 fabric and was developed to add more styles and offers better efficiency.
-
-**Polartec Power Stretch** might be more interesting for those folks going climbing since it is more stretchy.
-
----
-
-### Zippers
- Zippers can add an additional function to your fleece jacket. Either as a pocket zipper or to open and close your jacket.
-
-If you are more into Ultra-light hiking then zippers won't be probably that appealing to you since they add on weight. However, in some cases a zipper to open or close your jacket can be more comfortable. Pocket zippers might be useful if you want to store safely small items or tools.
-
----
-
-### Thumbholes
-Fleece jackets with thumbholes offers additional protection and insulation during the winter when wearing gloves.
-
----
-
-### Hood or no Hood?
-I prefer to have a fleece jacket without a hood because it makes the fleece jacket more versatile and it's more comfortable to wear under another jacket. You can always carry an additional hat with you in case you need one.
-
----
-
-### Bluesign System
-Bluesign approved textiles have been manufactured from the beginning of the manufacturing process in a sustainable way and without the use of harmful substances.
-
-### Combining a fleece jacket with other clothes
-
-A good idea is also to combine a fleece jacket with a [wind jacket](http://www.hikeventures.com/best-windjackets/). A wind jacket protects you from cold winds while the fleece jacket offers insulation.
-
-Fleece jackets are not windproof and you won’t sweat that much in a wind jacket than in a rain jacket when you are hiking. When it starts raining you can exchange your wind jacket with a [rain jacket](http://www.hikeventures.com/rain-jackets-2017/).
-
-<a href="#table" class="btn btn-danger" role="button">Back to the top</a>
