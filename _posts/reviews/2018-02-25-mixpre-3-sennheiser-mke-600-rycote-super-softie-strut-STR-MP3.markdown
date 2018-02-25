@@ -41,7 +41,7 @@ Unfortunately, the bag is only available in the US but it's possible to get it s
 
 <amp-img src="https://farm5.staticflickr.com/4666/39581486765_cf7a05dc67_k.jpg" layout="responsive" width="2048" height="1368" alt="MixPre-3, Sennheiser MKE 600, Rycote Super Softie, Strut STR-MP3 review test"></amp-img>
 <br>
-To power the MixPre-3 I use <a rel="nofollow" href="http://amzn.to/2FvBIs9">4 AA Panasonic eneloop pro</a> batteries and a <a rel="nofollow" href="http://amzn.to/2HKFH4Q">Anker PowerCore+ 20100 USB-C</a> battery. As I like to be able to recharge my eneloop pro batteries I also got an <a rel="nofollow" href="http://amzn.to/2F5Gu1A">EBL 40Min iQuick Smart USB Individual battery charger</a>.
+To power the MixPre-3 I use <a rel="nofollow" href="http://amzn.to/2FvBIs9">4 AA Panasonic eneloop pro</a> batteries and a <a rel="nofollow" href="http://amzn.to/2HKFH4Q">Anker PowerCore+ 20100 USB-C</a> battery. As I like to be able to recharge my eneloop pro batteries I also got an <a rel="nofollow" href="http://amzn.to/2F5Gu1A">EBL 40Min iQuick Smart USB Individual battery charger</a>. The cable which connects the MixPre-3 with my Sennheiser MKE 600 is the <a rel="nofollow" href="http://amzn.to/2HKNz6o">Mogami GOLD STUDIO-03 XLR Microphone Cable</a>.
 
 <amp-img src="https://farm5.staticflickr.com/4657/40434136592_4228f5fd25_k.jpg" layout="responsive" width="2048" height="1368" alt="MixPre-3, Sennheiser MKE 600, Rycote Super Softie, Strut STR-MP3 review test"></amp-img>
 <br>
