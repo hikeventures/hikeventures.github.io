@@ -27,11 +27,17 @@ Sennheiser HD-25-1 II</a>, which is considered as one of the industry standard a
 <br>
 <!--more-->
 
-The Sound Devices MixPre-3 is an audio recorder which is a bit more on the expensive side. However, the built quality is excellent and I was also told by Sound Devices that it could take a few splashes (but was recommended to buy an additional bag for it to be on the safe side). Usually, I am operating the device in basic mode. There is also an advanced mode but then you have to adjust quite a bit by yourself. Sound Devices also told me that the sampling rate of the MixPre-3 might be increased to 192 kHz. At least it's on the wish list of many users. Nevertheless, I am not sure if the human ear can actually hear a difference between 192 kHz and 96 kHz.
+The Sound Devices MixPre-3 is an audio recorder which is a bit more on the expensive side. However, the built quality is excellent and I was also told by Sound Devices that it could take a few splashes (but was recommended to buy an additional bag for it to be on the safe side).
+
+Usually, I am operating the device in basic mode. There is also an advanced mode but then you have to adjust quite a bit by yourself. I was also told by Sound Devices that the sampling rate of the MixPre-3 might be increased to 192 kHz through a firmware update. At least it's on the wish list of many users according to them.
+
+Nevertheless, I am not sure if the human ear can actually hear a difference between 96 kHz and 192 kHz.
 
 <amp-img src="https://farm5.staticflickr.com/4649/40434133382_0ede0a9ef4_k.jpg" layout="responsive" width="2048" height="1356" alt="MixPre-3, Sennheiser MKE 600, Rycote Super Softie, Strut STR-MP3 review test"></amp-img>
 <br>
-What I really like on the Strut STR-MP3 is its small footprint. It packs really small and the MixPre-3 fits perfectly in it. I am also able to attach 2 <a href="http://amzn.to/2HLk9Vu">Rode Newsshooter Kit</a> transmitters to the front of the bag. Unfortunately, the bag is only available in the US but it's possible to get it shipped to Europe as well. The bag is really nice and looks in real much nicer than what you see on some websites.
+What I really like on the Strut STR-MP3 is its small footprint. It packs really small and the MixPre-3 fits perfectly in it. I am also able to attach 2 <a href="http://amzn.to/2HLk9Vu">Rode Newsshooter Kit</a> transmitters to the front of the bag.
+
+Unfortunately, the bag is only available in the US but it's possible to get it shipped to Europe as well. The bag is really nice and looks in real much nicer than what you see on some websites.
 
 <amp-img src="https://farm5.staticflickr.com/4666/39581486765_cf7a05dc67_k.jpg" layout="responsive" width="2048" height="1368" alt="MixPre-3, Sennheiser MKE 600, Rycote Super Softie, Strut STR-MP3 review test"></amp-img>
 <br>
@@ -39,7 +45,9 @@ To power the MixPre-3 I use <a rel="nofollow" href="http://amzn.to/2FvBIs9">4 AA
 
 <amp-img src="https://farm5.staticflickr.com/4657/40434136592_4228f5fd25_k.jpg" layout="responsive" width="2048" height="1368" alt="MixPre-3, Sennheiser MKE 600, Rycote Super Softie, Strut STR-MP3 review test"></amp-img>
 <br>
-Here you can see the Sennheiser MKE 600 mounted on my <a rel="nofollow" href="http://amzn.to/2FuHJFx">SLIK Mini Pro III</a>. The SLIK tripod is one of my favorite tripods as it packs small and can carry small and big cameras as well as microphones. I also use it at home on my desk with the MixPre-3 mounted on it.
+Here you can see the Sennheiser MKE 600 mounted on my <a rel="nofollow" href="http://amzn.to/2FuHJFx">SLIK Mini Pro III</a>.
+
+The SLIK tripod is one of my favorite tripods as it packs small and can carry small and big cameras as well as microphones. I also use it at home on my desk with the MixPre-3 mounted on it.
 
 <a href="http://www.hikeventures.com/children_playing_ice_finland/">Here</a> you can listen to an audio sample which I have recorded in Finland.
 
