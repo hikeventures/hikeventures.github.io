@@ -8,7 +8,7 @@ tags:
   - audio
   - finland
 layout: post
-image: https://farm9.staticflickr.com/8363/8381056716_17c454bf74_b.jpg
+image: https://farm5.staticflickr.com/4632/26604929578_bba4615e28_k.jpg
 ---
 
 Today, I was trying for the first time to capture audio with my Sennheiser MKE600, Sound Devices MixPre-3 and Rycote Super Softie. I selected Ruisalo - a popular beach at the Baltic Sea in Turku as a location.
@@ -17,8 +17,5 @@ The sea was frozen and children were playing with their sleds on it and throwing
 
 <amp-img src="https://farm5.staticflickr.com/4632/26604929578_bba4615e28_k.jpg"  width="2048" height="1282" layout="responsive" alt="Anker Astro3e"></amp-img>
 <br>
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26604929578/in/datetaken-public/" title="Turku, Finland"><img src="https://farm5.staticflickr.com/4632/26604929578_bba4615e28_k.jpg" width="2048" height="1282" alt="Turku, Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/404917455&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
