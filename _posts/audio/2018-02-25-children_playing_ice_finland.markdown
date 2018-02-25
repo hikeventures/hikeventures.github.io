@@ -19,3 +19,5 @@ The sea was frozen and children were playing with their sleds on it and throwing
 <br>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/404917455&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+<a href="http://www.hikeventures.com/mixpre-3-sennheiser-mke-600-rycote-super-softie-strut-STR-MP3/">Here</a> you can read more about my audio gear which I have used.

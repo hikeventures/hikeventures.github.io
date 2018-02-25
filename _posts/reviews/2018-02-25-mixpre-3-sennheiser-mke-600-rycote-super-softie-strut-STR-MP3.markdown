@@ -37,7 +37,7 @@ Nevertheless, I am not sure if the human ear can actually hear a difference betw
 <br>
 What I really like on the Strut STR-MP3 is its small footprint. It packs really small and the MixPre-3 fits perfectly in it. I am also able to attach 2 <a href="http://amzn.to/2HLk9Vu">Rode Newsshooter Kit</a> transmitters to the front of the bag.
 
-Unfortunately, the bag is only available in the US but it's possible to get it shipped to Europe as well. The bag is really nice and looks in real much nicer than what you see on some websites.
+Unfortunately, the bag is only available in the US but it's possible to get it shipped to Europe as well. The bag is really nice and looks in real much nicer than what you see on some websites. Initially, I was more leaning towards the K-Tek promix bag but then I decided that I wanted to have a big which is 100% tailored to the MixPre-3.
 
 <amp-img src="https://farm5.staticflickr.com/4666/39581486765_cf7a05dc67_k.jpg" layout="responsive" width="2048" height="1368" alt="MixPre-3, Sennheiser MKE 600, Rycote Super Softie, Strut STR-MP3 review test"></amp-img>
 <br>
