@@ -11,9 +11,9 @@ layout: post
 image: https://farm5.staticflickr.com/4632/26604929578_bba4615e28_k.jpg
 ---
 
-Today, I was trying for the first time to capture audio with my Sennheiser MKE600, Sound Devices MixPre-3 and Rycote Super Softie. I selected Ruisalo - a popular beach at the Baltic Sea in Turku as a location.
+Today, I was trying for the first time to capture audio with my <a rel="nofollow" href="http://amzn.to/2F5Bc6n">Sennheiser MKE600</a>, <a rel="nofollow" href="http://amzn.to/2EPGbsl">Sound Devices MixPre-3</a> and <a rel="nofollow" href="http://amzn.to/2HMI2Mm">Rycote Super Softie</a>. I selected Ruisalo - a popular beach at the Baltic Sea in Turku as a location.
 
-The sea was frozen and children were playing with their sleds on it and throwing ice plates around. You might hear some wind as a background noise so I am not sure if my Rycote Super Softie windjammer was actually sufficient for this job.
+The sea was frozen and children were playing with their sleds on it and throwing ice plates around. You might hear some wind as a background noise so I am not sure if my Rycote Super Softie windjammer did a good job.
 
 <amp-img src="https://farm5.staticflickr.com/4632/26604929578_bba4615e28_k.jpg"  width="2048" height="1282" layout="responsive" alt="Anker Astro3e"></amp-img>
 <br>
