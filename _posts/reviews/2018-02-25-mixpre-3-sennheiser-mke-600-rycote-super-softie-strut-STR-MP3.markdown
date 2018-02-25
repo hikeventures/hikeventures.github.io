@@ -17,7 +17,7 @@ image: https://farm5.staticflickr.com/4757/39766771144_fe0207826d_k.jpg
 
 In this blog post I would like to introduce you to my mobile audio recording equipment - the <a href="http://amzn.to/2BPlHgO" rel="nofollow">Sound Devices MixPre-3</a>, <a href="http://amzn.to/2FthLSA" rel="nofollow">
 Sennheiser MKE 600</a>, <a href="http://amzn.to/2EPLurN" rel="nofollow">
-Rycote Super Softie</a> and the <a href="https://www.bhphotovideo.com/c/product/1345021-REG/strut_str_mp3_custom_fit_field_case.html/BI/19674/KBID/12320/kw/STRMP3/DFF/d10-v2-t1-xSTRMP3" target="_blank">Strut STR-MP3</a>.
+Rycote Super Softie</a> and the <a href="https://www.bhphotovideo.com/c/product/1345021-REG/strut_str_mp3_custom_fit_field_case.html/BI/19674/KBID/12320/kw/STRMP3/DFF/d10-v2-t1-xSTRMP3" target="_blank">Strut STR-MP3</a>. I am not an professional when it comes to audio but just started with it as a hobby. I would be also interested to record stereo sound in the future with 2 dedicated Microphones or even the <a rel="nofollow" href="http://amzn.to/2CJpVmU">Sennheiser Ambeo VR mic</a>.
 
 Currently, I am also using a <a href="http://amzn.to/2CICizM" rel="nofollow">
 AKG N60</a> as my headset. However, I am planning to replace it with a <a href="http://amzn.to/2GKjiDn" rel="nofollow">
@@ -26,6 +26,8 @@ Sennheiser HD-25-1 II</a>, which is considered as one of the industry standard a
 <amp-img src="https://farm5.staticflickr.com/4757/39766771144_fe0207826d_k.jpg" layout="responsive" width="2048" height="1356" alt="MixPre-3, Sennheiser MKE 600, Rycote Super Softie, Strut STR-MP3 review test"></amp-img>
 <br>
 <!--more-->
+
+The Sound Devices MixPre-3 is an audio recorder which is a bit more on the expensive side. However, the built quality is excellent and I was also told by Sound Devices that it could take a few splashes (but was recommended to buy an additional bag for it to be on the safe side). Usually, I am operating the device in basic mode. There is also an advanced mode but then you have to adjust quite a bit by yourself. Sound Devices also told me that the sampling rate of the MixPre-3 might be increased to 192 kHz. At least it's on the wish list of many users. Nevertheless, I am not sure if the human ear can actually hear a difference between 192 kHz and 96 kHz.
 
 <amp-img src="https://farm5.staticflickr.com/4649/40434133382_0ede0a9ef4_k.jpg" layout="responsive" width="2048" height="1356" alt="MixPre-3, Sennheiser MKE 600, Rycote Super Softie, Strut STR-MP3 review test"></amp-img>
 <br>
@@ -40,3 +42,5 @@ To power the MixPre-3 I use <a rel="nofollow" href="http://amzn.to/2FvBIs9">4 AA
 Here you can see the Sennheiser MKE 600 mounted on my <a rel="nofollow" href="http://amzn.to/2FuHJFx">SLIK Mini Pro III</a>. The SLIK tripod is one of my favorite tripods as it packs small and can carry small and big cameras as well as microphones. I also use it at home on my desk with the MixPre-3 mounted on it.
 
 <a href="http://www.hikeventures.com/children_playing_ice_finland/">Here</a> you can listen to an audio sample which I have recorded in Finland.
+
+This blog post contains affiliate links which helps us to keep this blog running.
