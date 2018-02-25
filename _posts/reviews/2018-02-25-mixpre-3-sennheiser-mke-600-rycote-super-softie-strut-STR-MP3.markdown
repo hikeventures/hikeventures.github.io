@@ -17,7 +17,9 @@ image: https://farm5.staticflickr.com/4757/39766771144_fe0207826d_k.jpg
 
 In this blog post I would like to introduce you to my mobile audio recording equipment - the <a href="http://amzn.to/2BPlHgO" rel="nofollow">Sound Devices MixPre-3</a>, <a href="http://amzn.to/2FthLSA" rel="nofollow">
 Sennheiser MKE 600</a>, <a href="http://amzn.to/2EPLurN" rel="nofollow">
-Rycote Super Softie</a> and the <a rel="nofollow"  href="https://www.bhphotovideo.com/c/product/1345021-REG/strut_str_mp3_custom_fit_field_case.html/BI/19674/KBID/12320/kw/STRMP3/DFF/d10-v2-t1-xSTRMP3" target="_blank">Strut STR-MP3</a>. I am not an professional when it comes to audio but just started with it as a hobby. I would be also interested to record stereo sound in the future with 2 dedicated Microphones or even the <a rel="nofollow" href="http://amzn.to/2CJpVmU">Sennheiser Ambeo VR mic</a>.
+Rycote Super Softie</a> and the <a rel="nofollow"  href="https://www.bhphotovideo.com/c/product/1345021-REG/strut_str_mp3_custom_fit_field_case.html/BI/19674/KBID/12320/kw/STRMP3/DFF/d10-v2-t1-xSTRMP3" target="_blank">Strut STR-MP3</a>. I am not an professional when it comes to audio but just started with it as a hobby.
+
+I would be also interested to record stereo sound in the future with 2 dedicated Microphones like the <a href="http://amzn.to/2EPwc6G">Audio-Technica AT4022 Omnidirectional Condenser Microphone</a> on an Olson Wing array or even the <a rel="nofollow" href="http://amzn.to/2CJpVmU">Sennheiser Ambeo VR mic</a>.
 
 Currently, I am also using a <a href="http://amzn.to/2CICizM" rel="nofollow">
 AKG N60</a> as my headset. However, I am planning to replace it with a <a href="http://amzn.to/2GKjiDn" rel="nofollow">
