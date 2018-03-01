@@ -40,7 +40,7 @@ The Traverse also has a flashlight function which could be quite useful (for exa
 
 Personally, I like the new look of the Suunto Traverse more than the design of the old Suunto Ambit3. Also, the wrist strap of the Suunto Traverse feels somewhat more comfortable than the one on the old Suunto Ambit3.
 
-<br>
+---
 
 ## Suunto Spartan Trainer Wrist HR
 
