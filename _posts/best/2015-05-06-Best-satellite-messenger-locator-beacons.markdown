@@ -61,18 +61,8 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 * Buoyant
 * No messaging
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B00CICMF1U";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "d63acd974f7b4a20c6be0708b0cb16ed";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<a href="http://amzn.to/2CPAapW" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 
 <br>
 
@@ -86,18 +76,7 @@ amzn_assoc_linkid = "d63acd974f7b4a20c6be0708b0cb16ed";
 * Preloaded DeLorme TOPO maps with onscreen GPS routing plus
 * 2GB storage for maps
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B01MY03CZP";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "ead877ea614c438e18d3e0a97dc88b49";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<a href="http://amzn.to/2F4zPWq" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <br>
 
@@ -119,18 +98,7 @@ amzn_assoc_linkid = "ead877ea614c438e18d3e0a97dc88b49";
 * Message size: 160 characters
 * Waypoints
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B01MRZ9ATL";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "e204ecc21fcf6f83f4eabf9271dcc7ad";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<a href="http://amzn.to/2CQQ0k7" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <br>
 
@@ -145,18 +113,7 @@ amzn_assoc_linkid = "e204ecc21fcf6f83f4eabf9271dcc7ad";
 * Custom messages which can be used as a secondary OK message or personal help alert
 * Message size: 41 characters
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B00C8S8S4W";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "849dee75e4931530608d53bbe5f64e7a";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<a href="hhttp://amzn.to/2CTR4Uw" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <br>
 
