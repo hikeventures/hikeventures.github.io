@@ -44,83 +44,31 @@ Personally, I like the new look of the Suunto Traverse more than the design of t
 
 ## Suunto Spartan Trainer Wrist HR
 
-The Suunto Spartan Trainer weights 56 grams and it's batteries last for 10 hours in active use. The watch is waterproof down to 50 meters. It's not the top model of the Suunto Spartan line but offers probably the best price value ratio if you are for example into running.
-
-<script type="text/javascript">
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B01I05CAAO";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "347074b53621df0c2a095d9fa4c0d92c";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+The [Suunto Spartan Trainer Wrist HR](http://amzn.to/2FeqPNG) weights 56 grams and it's batteries last for 10 hours in active use. The watch is waterproof down to 50 meters. It's not the top model of the Suunto Spartan line but offers probably the best price value ratio if you are for example into running.
 
 <br>
 
 ## Suunto Traverse
 
-And then you have the basic Suunto Traverse which I am also wearing on my wrist.
-
-<script type="text/javascript">
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B014PNZKC0";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "de325cc6f766dc297bf4b21b12152ccd";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+And then you have the basic [Suunto Traverse](http://amzn.to/2ouR5Kc) which I am also wearing on my wrist.
 
 <br>
 
 ## Suunto Traverse Alpha
 
-If you are more into fishing or hunting, then you should consider getting the Suunto Traverse Alpha. The Suunto Traverse Alpha gives you the following additional features to the regular Suunto Traverse:
+If you are more into fishing or hunting, then you should consider getting the [Suunto Traverse Alpha](http://amzn.to/2oxMHtE). The Suunto Traverse Alpha gives you the following additional features to the regular Suunto Traverse:
 
 * Automatic Shot detection
 * Fishing and hunting specific POI types
 * Moon phases and moon rise/set times
 * Red backlight, Night Vision Goggle compatible
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B071NRWVLC";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "903e74d324b386216398d4d3a74e9e93";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
 <br>
 
 ## Suunto Ambit3 Vertical
-If you are more into trail running (on hills or mountains), mountain biking, climbing or into multisport then you should probably go for the Suunto Ambit3 Vertical or the Suunto Spartan.
+If you are more into trail running (on hills or mountains), mountain biking, climbing or into multisport then you should probably go for the [Suunto Ambit3 Vertical](http://amzn.to/2F2dsAR) or the Suunto Spartan.
 
 The Suunto Ambit3 Vertical gives you a summary of your vertical gains and also displays the altitude during your ascent. This watch is an updated version of the old Ambit3 (Peak).
-
-<script type="text/javascript">
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B01AGJV7XI";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "00ae73c85dcba17c7b5d3282c5b1ca0f";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 <br>
 
@@ -130,94 +78,29 @@ amzn_assoc_linkid = "00ae73c85dcba17c7b5d3282c5b1ca0f";
 
 You can link a heart rate monitor to your Suunto watch.
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B017C02RVK";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "0873f3a44aa4584b791139f7820ff4a4";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<br>
+
+<h3>Traverse Screen Protector</h3>
+
+Screen protectors do not only exist for mobile phones. You can also protect your Suunto watch with a <a href="http://amzn.to/28OSNim" rel="nofollow" target="_blank">screen protector</a>.
 
 <br>
 
-<h3><a href="http://amzn.to/28OSNim" rel="nofollow" target="_blank">Traverse Screen Protector</a></h3>
+<h3>EasyAcc Rugged Outdoor Power Bank (IP67 Waterproof / 20000mAh)</h3>
 
-Screen protectors do not only exist for mobile phones. You can also protect your Suunto watch with a screen protector.
-
-<script type="text/javascript">
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B01G4J0230";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "ff5f16679e94f13a2d5694a81e96cf10";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+On longer trips, it’s quite convenient to have a <a href="http://amzn.to/28V8l3t" rel="nofollow" target="_blank">power bank</a> with you. Usually, I charge my Suunto watch every day if I am on a backpacking trip.
 
 <br>
 
-<h3><a href="http://amzn.to/28V8l3t" rel="nofollow" target="_blank">EasyAcc Rugged Outdoor Power Bank (IP67 Waterproof / 20000mAh)</a></h3>
+<h3>Suunto Wristop Computer Bike Adaptor</h3>
 
-On longer trips, it’s quite convenient to have a power bank with you. Usually, I charge my Suunto watch every day if I am on a backpacking trip.
+On longer bicycle trips it might be quite convenient to have the Suunto watch attached on the <a href="http://amzn.to/28V6hrU" rel="nofollow" target="_blank">Suunto Wristop Computer Bike Adaptor</a> to keep track of your performance.
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B01B73I5ZU";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "9096de27ec8988105cd7882ee900fe0b";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<h3>Quad Lock Bike Mount Kit for iPhone 6/6S PLUS</h3>
 
-<br>
-
-<h3><a href="http://amzn.to/28V6hrU" rel="nofollow" target="_blank">Suunto Wristop Computer Bike Adaptor</a></h3>
-
-On longer bicycle trips it might be quite convenient to have the Suunto watch attached on the Suunto Wristop Computer Bike Adaptor to keep track of your performance.
-
-<script type="text/javascript">
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B00005N9DU";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "53544a16928aad72ab1f3d79dc0b1c59";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
-<h3><a href="https://www.amazon.com/gp/product/B00X3LNYG0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X3LNYG0&linkCode=as2&tag=hikeve-20&linkId=8750a11f14e8d1f1bdb09f35a6b933a2" rel="nofollow" target="_blank">Quad Lock Bike Mount Kit for iPhone 6/6S PLUS</a></h3>
-
-If you have an iPhone, you could also get a Quad Lock Bike Mount Kit and attach it next to the Suunto Wristop Computer Bike Adaptor.
+If you have an iPhone, you could also get a <a href="https://www.amazon.com/gp/product/B00X3LNYG0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X3LNYG0&linkCode=as2&tag=hikeve-20&linkId=8750a11f14e8d1f1bdb09f35a6b933a2" rel="nofollow" target="_blank">Quad Lock Bike Mount Kit</a> and attach it next to the Suunto Wristop Computer Bike Adaptor.
 
 It’s quite handy to have your iPhone in front of you when you are on tour. You can quickly check maps, use the iPhone as a second screen for your Ambit watch (to display, e.g., speed or distance) or just to listen to the radio.
-
-<script type="text/javascript">
-amzn_assoc_tracking_id = "hikeve-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B01LX353Y8";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "6967e6a96b2b55a309b2b0dc4ed4fd69";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 <br>
 
@@ -227,13 +110,15 @@ Update 27.11.2015: After testing the Suunto Traverse for 2 weeks I prefer it ove
 
 Update 19.12.2015: Suunto has released firmware 1.54 which brings GLONASS support to the Suunto Traverse - which means more accuracy of the GPS signals. However, I got a message on my Traverse that GLONASS will also consume more battery.
 
-Update (7.1.2016): Suunto has released the Suunto Ambit3 Vertical which is targeted towards mountain runners or mountain bikers.
+Update 7.1.2016: Suunto has released the Suunto Ambit3 Vertical which is targeted towards mountain runners or mountain bikers.
 
-Update (19.4.2016): Suunto has released the Suunto Traverse Alpha which is targeted towards hunters and fishers.
+Update 19.4.2016: Suunto has released the Suunto Traverse Alpha which is targeted towards hunters and fishers.
 
-Update (7.6.2016): Suunto announced the Suunto Spartan Ultra - A premium multisport watch with color display and touch screen.
+Update 7.6.2016: Suunto announced the Suunto Spartan Ultra - A premium multisport watch with color display and touch screen.
 
-Update (26.1.2017): Suunto announced the Suunto Spartan Sport - Another premium multisport watch with color display and touch screen.
+Update 26.1.2017: Suunto announced the Suunto Spartan Sport - Another premium multisport watch with color display and touch screen.
+
+Update 10.08.2017: Suunto announced the Suunto Spartan Trainer Wrist HR - similar features as the more expensive models but in a slimmer design.
 
 <br>
 
