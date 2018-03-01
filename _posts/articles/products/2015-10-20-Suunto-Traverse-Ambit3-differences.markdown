@@ -74,9 +74,9 @@ The Suunto Ambit3 Vertical gives you a summary of your vertical gains and also d
 
 ## Accessories
 
-<h3><a href="https://www.amazon.com/gp/product/B00LVNEDDU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LVNEDDU&linkCode=as2&tag=hikeve-20&linkId=4a84a24f1bb726b645aa94750720818e" rel="nofollow" target="_blank">Suunto Smart Belt</a></h3>
+<h3>Suunto Smart Belt</h3>
 
-You can link a heart rate monitor to your Suunto watch.
+You can link a <a href="https://www.amazon.com/gp/product/B00LVNEDDU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LVNEDDU&linkCode=as2&tag=hikeve-20&linkId=4a84a24f1bb726b645aa94750720818e" rel="nofollow" target="_blank">heart rate monitor</a> to your Suunto watch.
 
 <br>
 
