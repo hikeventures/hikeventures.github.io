@@ -1,6 +1,6 @@
 ---
-title: Winter Camp Fire Talk
-description: Capturing audio while children play on ice in Finland
+title: Winter Campfire Talk
+description: Preparing a campfire
 date: 2018-03-04T07:30:00.000Z
 category: audio
 tags:
