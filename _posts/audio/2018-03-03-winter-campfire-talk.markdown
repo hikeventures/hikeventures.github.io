@@ -17,9 +17,9 @@ Today we had a great sunny day in South-Western Finland with temperatures around
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/39723532695/in/datetaken-public/" title="Winter Camp fire"><img src="https://farm5.staticflickr.com/4705/39723532695_b0612c17e0_k.jpg" width="2048" height="1536" alt="Winter Camp fire"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-One of the typical markings in Finland when you go hiking.
-
 <!--more-->
+
+One of the typical markings in Finland when you go hiking.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25748406627/in/datetaken-public/" title="Winter Camp fire"><img src="https://farm5.staticflickr.com/4797/25748406627_23024abfe1_k.jpg" width="2048" height="1536" alt="Winter Camp fire"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
