@@ -13,7 +13,7 @@ categories:
   - audio
 ---
 
-Today we had a great sunny day in South-Western Finland with temperatures around -4C so I decided to drive with Caj and Katja outside of Turku to hike to the Hönkasaaren Laavu.
+Today we had a great sunny day in South-Western Finland with temperatures around -4C so I decided to drive with Caj and Katja outside of Turku to hike to the Hönkasaaren Laavu. At the end of this blog post you can find our campfire talk audio file.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/39723532695/in/datetaken-public/" title="Winter Camp fire"><img src="https://farm5.staticflickr.com/4705/39723532695_b0612c17e0_k.jpg" width="2048" height="1536" alt="Winter Camp fire"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
