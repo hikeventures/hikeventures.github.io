@@ -23,19 +23,19 @@ One of the typical markings in Finland when you go hiking.
 
 Once we arrived at the Laavu we prepared some firewood.
 
-Katja had prepared a nice cabbage soup and once we arrived at the Laavu.
-
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/39723522215/in/datetaken-public/" title="Winter Camp fire"><img src="https://farm5.staticflickr.com/4624/39723522215_90c64b5786_k.jpg" width="2048" height="1536" alt="Winter Camp fire"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+Katja had prepared a nice cabbage soup and once we arrived at the Laavu.
+
 Caj had one of his new "historical" axes with him and it was like a breeze to get our fire wood into small pieces.
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/39908149294/in/datetaken-public/" title="Winter Camp fire"><img src="https://farm5.staticflickr.com/4622/39908149294_c3a55b13b4_k.jpg" width="2048" height="1536" alt="Winter Camp fire"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-Patrick trying Cajs new axe.  
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/39908150534/in/datetaken-public/" title="Winter Camp fire"><img src="https://farm5.staticflickr.com/4678/39908150534_5d28bfa550_k.jpg" width="2048" height="1536" alt="Winter Camp fire"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Caj and his axe.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/39908149294/in/datetaken-public/" title="Winter Camp fire"><img src="https://farm5.staticflickr.com/4622/39908149294_c3a55b13b4_k.jpg" width="2048" height="1536" alt="Winter Camp fire"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Patrick trying Cajs new axe. 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/40576774652/in/datetaken-public/" title="Winter Camp fire"><img src="https://farm5.staticflickr.com/4706/40576774652_54ea3f37b8_k.jpg" width="2048" height="1536" alt="Winter Camp fire"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
