@@ -19,6 +19,8 @@ Today we had a great sunny day in South-Western Finland with temperatures around
 
 One of the typical markings in Finland when you go hiking.
 
+<!--more-->
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25748406627/in/datetaken-public/" title="Winter Camp fire"><img src="https://farm5.staticflickr.com/4797/25748406627_23024abfe1_k.jpg" width="2048" height="1536" alt="Winter Camp fire"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Once we arrived at the Laavu we prepared some firewood.
@@ -35,7 +37,7 @@ Caj and his axe.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/39908149294/in/datetaken-public/" title="Winter Camp fire"><img src="https://farm5.staticflickr.com/4622/39908149294_c3a55b13b4_k.jpg" width="2048" height="1536" alt="Winter Camp fire"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Patrick trying Cajs new axe. 
+Patrick trying Cajs new axe.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/40576774652/in/datetaken-public/" title="Winter Camp fire"><img src="https://farm5.staticflickr.com/4706/40576774652_54ea3f37b8_k.jpg" width="2048" height="1536" alt="Winter Camp fire"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
