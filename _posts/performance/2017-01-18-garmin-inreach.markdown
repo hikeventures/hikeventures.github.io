@@ -8,6 +8,7 @@ tags:
   - garmin
   - gps
 image: https://c1.staticflickr.com/6/5609/30599065514_3a9dedbf93_k.jpg
+# URL: http://www.hikeventures.com/garmin-inreach/
 ---
 
 Garmin has just recently released the inReach Explorer+ and the inReach SE+ after they acquired DeLorme a few months ago. Those new devices are going to replace the old inReach models, and I am shortly going to discuss their differences and new features.

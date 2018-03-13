@@ -10,6 +10,7 @@ tags:
   - best
   - jackets
 layout: post
+# URL: http://www.hikeventures.com/best-synthetic-insulated-jackets/
 ---
 
 Here is my <a href="#table">selection</a> of the best synthetic insulated jackets for 2018 which I would consider buying for my next winter or hiking trip.

@@ -10,6 +10,7 @@ tags:
   - best
   - shoes
 layout: post
+# URL: http://www.hikeventures.com/best-light-hiking-shoes/
 ---
 
 Here is my <a href="#table">selection</a> of the best light hiking shoes for 2018.

@@ -14,6 +14,7 @@ tags:
 layout: post
 categories:
   - best
+# URL: http://www.hikeventures.com/best-rain-pants/
 ---
 
 Here is my <a href="#table">selection</a> of the best rain pants for 2018. Planning to go hiking, backpacking or any other backcountry adventure? Then you should consider packing lightweight rain pants and a <a href="http://www.hikeventures.com/best-rain-jackets/">rain jacket</a> into your backpack.

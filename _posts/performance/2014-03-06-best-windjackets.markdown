@@ -10,6 +10,7 @@ tags:
   - best
   - jackets
 layout: post
+# URL: http://www.hikeventures.com/best-windjackets/
 ---
 Here is my <a href="#table">selection</a> of the best wind jackets for 2018 which I would consider to take on my next hiking or backpacking trip.
 
