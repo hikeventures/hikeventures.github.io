@@ -19,16 +19,6 @@ categories:
 
 Here is my <a href="#table">selection</a> of the best rain pants for 2018. Planning to go hiking, backpacking or any other backcountry adventure? Then you should consider packing lightweight rain pants and a <a href="http://www.hikeventures.com/best-rain-jackets/">rain jacket</a> into your backpack.
 
-Rain pants can be designed for particular activities like cycling, climbing or hiking and backpacking.
-
-Planning to go hiking, backpacking or any other backcountry adventure? Then you should consider packing lightweight rain pants and a [rain jacket](http://www.hikeventures.com/best-rain-jackets/) into your backpack.
-
-Rain pants will help you to stay dry and warm and is one of the essential items you should have with you when planning an outdoor trip.
-
-Personally, I prefer to take the lightest rain clothes with me during my summer and autumn hikes as they will probably stay most of the time in my backpack if the weather is good.
-
-It's also a good idea to buy rain pants with side zippers as you can easily pull them on and off even if you are wearing [hiking shoes](http://www.hikeventures.com/best-light-hiking-shoes/).
-
 Also, have a look at our [FAQ on rain pants](#faq-on-rain-pants).
 
 <amp-img src="https://c2.staticflickr.com/8/7206/13685518345_b56a9a77d8_b.jpg" width="992" height="662" alt="Best Rain Pants 2018" layout="responsive"></amp-img>
@@ -44,9 +34,7 @@ Also, have a look at our [FAQ on rain pants](#faq-on-rain-pants).
                 <th>Rain Pants</th><th>Weight</th>
              </tr>
         </thead>
-
         <tbody>
-
         <tr>
           <td><a href="http://amzn.to/2yNIXYs" target="_blank" rel="nofollow">Outdoor Research Helium Pants</a></td><td>5.6 oz. / 160 grams</td>
         </tr>
@@ -54,10 +42,6 @@ Also, have a look at our [FAQ on rain pants](#faq-on-rain-pants).
         <tr>
           <td><a href="http://amzn.to/2ke4pTB" target="_blank" rel="nofollow">Mountain Hardwear Plasmic Pants</a></td><td>7.2 oz. / 204 grams</td>
         </tr>
-
-
-
-
         <tr>
           <td><a href="http://amzn.to/2xMAMNK" target="_blank" rel="nofollow">Haglöfs L.I.M. III Pants</a></td><td>7.9 oz. / 225 grams</td>
         </tr>
@@ -80,14 +64,17 @@ Also, have a look at our [FAQ on rain pants](#faq-on-rain-pants).
 <tr>
         <td><a href="http://amzn.to/2yyEh7T" target="_blank" rel="nofollow">Marmot PreCip Rain Pant</a></td><td>12 oz. / 340 grams</td>
       </tr>
-
-
-
-
-
 </tbody>
 </table>
 </div>
+
+Rain pants help to stay dry and warm. It is one of the essential items you should have with you when planning an outdoor trip.
+
+Personally, I prefer to take the lightest rain clothes with me during my spring, summer or autumn hikes as they will probably stay most of the time in my backpack if the weather is good.
+
+It's also a good idea to buy rain pants with side zippers as you can easily pull them on and off even if you are wearing [hiking shoes](http://www.hikeventures.com/best-light-hiking-shoes/).
+
+---
 
 ## Arc'teryx Beta SL Pants
 
