@@ -58,9 +58,7 @@ A lightweight wind jacket is probably one of the most useful pieces of clothes w
 </table>
 </div>
 
-I always combine a wind jacket with a [fleece jacket](http://www.hikeventures.com/best-windjackets/) to protect myself against cold winds.
-
-Also, have a look at the [FAQ on wind-jackets](#faq-on-wind-jackets).
+I also combine a wind jacket with a [fleece jacket](http://www.hikeventures.com/best-windjackets/) which keeps me warm if the temperatures are low. You may also have a look at the [FAQ on wind-jackets](#faq-on-wind-jackets).
 
 ---
 
