@@ -17,9 +17,11 @@ categories:
 # URL: http://www.hikeventures.com/best-rain-pants/
 ---
 
-Here is my <a href="#table">selection</a> of the best rain pants for 2018. Planning to go hiking, backpacking or any other backcountry adventure? Then you should consider packing lightweight rain pants and a <a href="http://www.hikeventures.com/best-rain-jackets/">rain jacket</a> into your backpack.
+Here is my <a href="#table">selection</a> of the best rain pants for 2018.
 
-Also, have a look at our [FAQ on rain pants](#faq-on-rain-pants).
+Planning to go hiking, backpacking or any other backcountry adventure? 
+
+Then you should consider packing lightweight rain pants and a <a href="http://www.hikeventures.com/best-rain-jackets/">rain jacket</a> into your backpack.
 
 <amp-img src="https://c2.staticflickr.com/8/7206/13685518345_b56a9a77d8_b.jpg" width="992" height="662" alt="Best Rain Pants 2018" layout="responsive"></amp-img>
 <br>
@@ -73,6 +75,8 @@ Rain pants help to stay dry and warm. It is one of the essential items you shoul
 Personally, I prefer to take the lightest rain clothes with me during my spring, summer or autumn hikes as they will probably stay most of the time in my backpack if the weather is good.
 
 It's also a good idea to buy rain pants with side zippers as you can easily pull them on and off even if you are wearing [hiking shoes](http://www.hikeventures.com/best-light-hiking-shoes/).
+
+Also, have a look at our [FAQ on rain pants](#faq-on-rain-pants).
 
 ---
 
