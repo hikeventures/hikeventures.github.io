@@ -14,11 +14,7 @@ layout: post
 ---
 Here is my <a href="#table">selection</a> of the best wind jackets for 2018 which I would consider to take on my next hiking or backpacking trip.
 
-A lightweight wind jacket is probably one of the most useful pieces of clothes which you can take with you. It does not need much space, and you can easily store it in your backpack.
-
-I always combine a wind jacket with a [fleece jacket](http://www.hikeventures.com/best-windjackets/) to protect myself against cold winds.
-
-Also, have a look at our [FAQ on wind-jackets](#faq-on-wind-jackets).
+A lightweight wind jacket is probably one of the most useful pieces of clothes which you can pack into your backpack and it does not need much space either.
 
 <amp-img src="https://c3.staticflickr.com/8/7385/9599027418_4123160df8_b.jpg" width="992" height="661" alt="best wind jackets for 2018" layout="responsive"></amp-img>
 [Patrick](https://www.facebook.com/patrickdormischian) hiking in [Sarek National Park](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) in Sweden wearing a wind jacket.
@@ -61,6 +57,12 @@ Also, have a look at our [FAQ on wind-jackets](#faq-on-wind-jackets).
         </tbody>
 </table>
 </div>
+
+I always combine a wind jacket with a [fleece jacket](http://www.hikeventures.com/best-windjackets/) to protect myself against cold winds.
+
+Also, have a look at the [FAQ on wind-jackets](#faq-on-wind-jackets).
+
+---
 
 ## Arc'teryx Incendo Hoodie
 
