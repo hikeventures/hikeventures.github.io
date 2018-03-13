@@ -208,8 +208,6 @@ There is also a reflective logo on the front and back so that you will get notic
 * [What are wind jackets made of?](#what-are-wind-jackets-made-of)
 * [How to layer with a windjacket?](#how-to-layer-with-a-wind-jacket)
 
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-
 ### Are wind jackets waterproof?
 No, wind jackets are not waterproof. Their purpose is to protect against cold winds and compared to [rain jackets](http://www.hikeventures.com/best-rain-jackets/) they are very breathable, and you won't sweat that much in it either.
 
