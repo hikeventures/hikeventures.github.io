@@ -72,7 +72,7 @@ Personally, I prefer to take the lightest rain clothes with me during my spring,
 
 It's also a good idea to buy rain pants with side zippers as you can easily pull them on and off even if you are wearing [hiking shoes](http://www.hikeventures.com/best-light-hiking-shoes/).
 
-Also, have a look at the [FAQ on rain pants](#faq-on-rain-pants).
+Also, have a look on our [rain pants FAQs](#faq-on-rain-pants).
 
 ---
 
