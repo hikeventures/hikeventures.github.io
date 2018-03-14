@@ -1,5 +1,5 @@
 ---
-title: Best screen protectors for Sony a7 / a7S / a7R / a9 / a6000 / a6300 and a6500
+title: Best screen protectors for Sony A7III / A7SII / A7RII / A9 / a6000 / a6300 and a6500
 description: A selection of the best screen protectors for Sony cameras
 date: 2016-10-31 05:43:52
 category: articles
@@ -12,7 +12,7 @@ tags:
 layout: post
 ---
 
-Recently, I was looking for a new screen protector for my Sony A7 (could be also used on the new Sony A9) camera and here is a <a href="#table">list</a> of the best screen protectors I found online.
+Recently, I was looking for a new screen protector for my Sony A7III (could be also used on the new Sony A9) camera and here is a <a href="#table">list</a> of the best screen protectors I found online.
 
 I think that it's a quite good idea to have a protective film on your screen since it's just nicer to watch your pictures on a screen which does not have any scratches but also helps a bit  to keep the value of your camera.
 
