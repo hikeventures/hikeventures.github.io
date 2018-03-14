@@ -58,7 +58,7 @@ The tripod is advertised as being smoothly adjustable and having a good damping 
 
 ## AmazonBasics 60-Inch Lightweight Tripod
 
-<a rel="nofollow" href="https://www.amazon.com/GorillaPod-Flexible-Ballhead-Mirrorless-Cameras/dp/B002FGTWOC/ref=as_li_ss_il?s=electronics&ie=UTF8&qid=1521006123&sr=1-9&keywords=tripod+camera&linkCode=li2&tag=hikeve-20&linkId=9c20906cf5d4e54cc03d7069776290de" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002FGTWOC&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B002FGTWOC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="https://www.amazon.com/AmazonBasics-60-Inch-Lightweight-Tripod-Bag/dp/B005KP473Q/ref=as_li_ss_il?s=electronics&ie=UTF8&qid=1521020854&sr=1-3&keywords=AmazonBasics+60-Inch+Lightweight+Tripod&dpID=4146NGVrJzL&preST=_SY300_QL70_&dpSrc=srch&linkCode=li2&tag=hikeve-20&linkId=1902809c62237c085b226489ee633b46" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005KP473Q&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B005KP473Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 3 lb / 1360 grams
 **Load Capacity**: 6.6 lb / 3 kg
@@ -134,5 +134,3 @@ The MeFOTO Classic Aluminum Globetrotter Travel Tripod comes with a center colum
 The BONFOTO b71t table tripod is a light and small tripod which you can pack into your backpack. It is made of aluminium and comes with a mini ball head and a carrying bag.
 
 <a href="http://amzn.to/2paYgYl" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
-
-<a href="#table" class="btn btn-danger" role="button">Back to the top</a>
