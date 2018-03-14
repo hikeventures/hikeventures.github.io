@@ -21,7 +21,7 @@ I recently bought a Sony A7III and was wondering which could be the best tripod 
 
 ## Manfrotto traveler BeFree Tripod
 
-<a rel="nofollow" href="https://www.amazon.com/Manfrotto-traveler-BeFree-Tripod-Ball/dp/B01N1PW4OT/ref=as_li_ss_il?ie=UTF8&qid=1521015463&sr=8-4&keywords=manfrotto+befree&linkCode=li2&tag=hikeve-20&linkId=a8b919547320ea261715ba514d40064e" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N1PW4OT&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B01N1PW4OT" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="https://www.amazon.com/Manfrotto-traveler-BeFree-Tripod-Ball/dp/B01N1PW4OT/ref=as_li_ss_il?ie=UTF8&qid=1521015463&sr=8-4&keywords=manfrotto+befree&linkCode=li2&tag=hikeve-20&linkId=a8b919547320ea261715ba514d40064e" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N1PW4OT&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B01N1PW4OT" width="1" height="1" border="0" alt=" Manfrotto traveler BeFree Tripod" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 1400 grams / 3.1 kg
 **Load Capacity**: 8.8 lb / 4.0 kg
@@ -39,7 +39,7 @@ It has a sturdy construction and comes with a ball head, a quick release plate a
 
 ## COOCHEER Alluminum Alloy Camera Tripod
 
-<a rel="nofollow" href="https://www.amazon.com/COOCHEER-Alluminum-Camcorder-Olympus-Fujifilm/dp/B06XY3KC8F/ref=as_li_ss_il?ie=UTF8&qid=1521004615&sr=8-4&keywords=tripod+sony+a7&linkCode=li2&tag=hikeve-20&linkId=2717229956d4b32bb55141064312a8dc" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06XY3KC8F&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B06XY3KC8F" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="https://www.amazon.com/COOCHEER-Alluminum-Camcorder-Olympus-Fujifilm/dp/B06XY3KC8F/ref=as_li_ss_il?ie=UTF8&qid=1521004615&sr=8-4&keywords=tripod+sony+a7&linkCode=li2&tag=hikeve-20&linkId=2717229956d4b32bb55141064312a8dc" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06XY3KC8F&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B06XY3KC8F" width="1" height="1" border="0" alt="COOCHEER Alluminum Alloy Camera Tripod" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 1250 grams
 **Load Capacity**: up to 8.8 lb 4.0 kg
@@ -58,7 +58,7 @@ The tripod is advertised as being smoothly adjustable and having a good damping 
 
 ## AmazonBasics 60-Inch Lightweight Tripod
 
-<a rel="nofollow" href="https://www.amazon.com/AmazonBasics-60-Inch-Lightweight-Tripod-Bag/dp/B005KP473Q/ref=as_li_ss_il?s=electronics&ie=UTF8&qid=1521020854&sr=1-3&keywords=AmazonBasics+60-Inch+Lightweight+Tripod&dpID=4146NGVrJzL&preST=_SY300_QL70_&dpSrc=srch&linkCode=li2&tag=hikeve-20&linkId=1902809c62237c085b226489ee633b46" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005KP473Q&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B005KP473Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="https://www.amazon.com/AmazonBasics-60-Inch-Lightweight-Tripod-Bag/dp/B005KP473Q/ref=as_li_ss_il?s=electronics&ie=UTF8&qid=1521020854&sr=1-3&keywords=AmazonBasics+60-Inch+Lightweight+Tripod&dpID=4146NGVrJzL&preST=_SY300_QL70_&dpSrc=srch&linkCode=li2&tag=hikeve-20&linkId=1902809c62237c085b226489ee633b46" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005KP473Q&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B005KP473Q" width="1" height="1" border="0" alt="AmazonBasics 60-Inch Lightweight Tripod" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 3 lb / 1360 grams
 **Load Capacity**: 6.6 lb / 3 kg
@@ -74,7 +74,7 @@ If you are more on a budget then you could have a look at the AmazonBasics 60-In
 
 ## JOBY GorillaPod SLR Zoom
 
-<a rel="nofollow" href="https://www.amazon.com/GorillaPod-Flexible-Ballhead-Mirrorless-Cameras/dp/B002FGTWOC/ref=as_li_ss_il?ie=UTF8&qid=1521010148&sr=8-1&keywords=JOBY+GorillaPod+SLR+Zoom&dpID=41iF6vMbMZL&preST=_SY300_QL70_&dpSrc=srch&linkCode=li2&tag=hikeve-20&linkId=701bc5a5ec9315cbc9538075dbff6dbc" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002FGTWOC&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B002FGTWOC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="https://www.amazon.com/GorillaPod-Flexible-Ballhead-Mirrorless-Cameras/dp/B002FGTWOC/ref=as_li_ss_il?ie=UTF8&qid=1521010148&sr=8-1&keywords=JOBY+GorillaPod+SLR+Zoom&dpID=41iF6vMbMZL&preST=_SY300_QL70_&dpSrc=srch&linkCode=li2&tag=hikeve-20&linkId=701bc5a5ec9315cbc9538075dbff6dbc" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002FGTWOC&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B002FGTWOC" width="1" height="1" border="0" alt="JOBY GorillaPod SLR Zoom" style="border:none !important; margin:0px !important;" />
 
 **Weight**:  0.53 lb / 241 grams
 **Load Capacity**: 6.6 lb / 3kg
@@ -90,7 +90,7 @@ The JOBY GorillaPod SLR Zoom comes with rubberized foot grips and a quick releas
 
 ## BONFOTO B690A Travel Tripod
 
-<a rel="nofollow" href="https://www.amazon.com/BONFOTO-B690A-Lightweight-Aluminum-Portable/dp/B072NZL11B/ref=as_li_ss_il?ie=UTF8&qid=1521013265&sr=8-14&keywords=tripod&refinements=p_72:2661618011&linkCode=li2&tag=hikeve-20&linkId=dd83aa2cb2dbb443e306465d2165d080" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B072NZL11B&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B072NZL11B" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="https://www.amazon.com/BONFOTO-B690A-Lightweight-Aluminum-Portable/dp/B072NZL11B/ref=as_li_ss_il?ie=UTF8&qid=1521013265&sr=8-14&keywords=tripod&refinements=p_72:2661618011&linkCode=li2&tag=hikeve-20&linkId=dd83aa2cb2dbb443e306465d2165d080" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B072NZL11B&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B072NZL11B" width="1" height="1" border="0" alt="BONFOTO B690A Travel Tripod" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 2.6 lb / 1180 grams
 **Load Capacity**: 17 lb /  7.7 kg
@@ -108,7 +108,7 @@ The tripod is made of lightweight aluminum and could be a good choice for outdoo
 
 ## MeFOTO Classic Aluminum Globetrotter Travel Tripod
 
-<a rel="nofollow" href="https://www.amazon.com/MeFOTO-Classic-Aluminum-Globetrotter-Monopod/dp/B00BETIVUC/ref=as_li_ss_il?ie=UTF8&qid=1521014337&sr=8-25&keywords=tripod&refinements=p_72:2661618011&linkCode=li2&tag=hikeve-20&linkId=57c669c6a7c2d9fe0ef6291198411f0b" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BETIVUC&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B00BETIVUC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="https://www.amazon.com/MeFOTO-Classic-Aluminum-Globetrotter-Monopod/dp/B00BETIVUC/ref=as_li_ss_il?ie=UTF8&qid=1521014337&sr=8-25&keywords=tripod&refinements=p_72:2661618011&linkCode=li2&tag=hikeve-20&linkId=57c669c6a7c2d9fe0ef6291198411f0b" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BETIVUC&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B00BETIVUC" width="1" height="1" border="0" alt="MeFOTO Classic Aluminum Globetrotter Travel Tripod" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 4.6 lb / 2100 grams
 **Load Capacity**: 26.4 lb /  12 kg
@@ -124,7 +124,7 @@ The MeFOTO Classic Aluminum Globetrotter Travel Tripod comes with a center colum
 
 ## BONFOTO b71t table tripod
 
-<a rel="nofollow" href="https://www.amazon.com/BONFOTO-B71T-Portable-Tabletop-Release/dp/B071WPJ3ZS/ref=as_li_ss_il?ie=UTF8&qid=1521014559&sr=8-38&keywords=tripod&refinements=p_72:2661618011&linkCode=li2&tag=hikeve-20&linkId=a41abeb32e28a608bae962fe3adef4b5" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B071WPJ3ZS&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B071WPJ3ZS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="https://www.amazon.com/BONFOTO-B71T-Portable-Tabletop-Release/dp/B071WPJ3ZS/ref=as_li_ss_il?ie=UTF8&qid=1521014559&sr=8-38&keywords=tripod&refinements=p_72:2661618011&linkCode=li2&tag=hikeve-20&linkId=a41abeb32e28a608bae962fe3adef4b5" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B071WPJ3ZS&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B071WPJ3ZS" width="1" height="1" border="0" alt="BONFOTO b71t table tripod" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 1.6 lb / 766 grams
 **Load Capacity**: 6.6 lb /  3 kg
