@@ -42,13 +42,13 @@ If you are searching for a screen protector for the Sony a6500 then you can also
 
         <tbody>
         <tr>
-          <td><a href="http://amzn.to/2hIvGu4" target="_blank" rel="nofollow">Expert Shield - THE Crystal Clear Screen Protector</a></td><td>Sony a7 MK II,  a7R II,  a7S II and a7II</td>
+          <td><a href="http://amzn.to/2hIvGu4" target="_blank" rel="nofollow">Expert Shield - THE Crystal Clear Screen Protector</a></td><td>Sony A7III,  A7RII,  A7SII, A9</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2iFNEMb" target="_blank" rel="nofollow">Sony PCKLM16 Digital Camera Screen Protector Foils</a></td><td>Sony A7, A7R, and A7S</td>
+          <td><a href="http://amzn.to/2iFNEMb" target="_blank" rel="nofollow">Sony PCKLM16 Digital Camera Screen Protector Foils</a></td><td>Sony A7III,  A7RII,  A7SII, A9</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2hIvPh6" target="_blank" rel="nofollow">Afunta Protective Screen Guard</a></td><td>Sony Alpha a7II, a7RII, a7S II and a7MKII </td>
+          <td><a href="http://amzn.to/2hIvPh6" target="_blank" rel="nofollow">Afunta Protective Screen Guard</a></td><td>Sony A7III,  A7RII,  A7SII, A9</td>
         </tr>
         <tr>
           <td><a href="http://amzn.to/2hIn08C" target="_blank" rel="nofollow">Expert Shield - THE Screen Protector</a></td><td>Sony a6000, a6300 and a6500</td>
