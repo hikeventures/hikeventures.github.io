@@ -63,5 +63,3 @@ If you are searching for a screen protector for the Sony a6500 then you can also
 
       </table>
 </div>
-
-<a href="#table" class="btn btn-danger" role="button">Back to the top</a>
