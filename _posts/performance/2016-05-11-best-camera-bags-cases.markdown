@@ -13,16 +13,14 @@ tags:
 # URL: http://www.hikeventures.com/best-camera-bags-cases/
 ---
 
-Here is my <a href="#table">selection</a> of the best lightweight camera bags for the Sony A7, A7II A7RII, A7SII, A7III or A9 (and also a6500, a6300 or a6000 since they share a similar form factor).
+Here is my <a href="#table">selection</a> of the best lightweight camera bags for the Sony A7, A7II A7RII, A7SII, A7III or A9 (and also a6500, a6300 or a6000 since they share a similar form factor). I have created this list since I recently upgraded my camera and wanted to share my findings with you.
 
-
-Different cases might be useful for various activities, e.g., you might take a different camera bag with you when you go hiking than when you would go on a kayaking, climbing or packrafting trip.
+So what do consider when buying a new bag for your camera? Different bags might be useful for various activities, e.g. you might take a different camera bag with you when you go hiking than when you would go on a kayaking, climbing or packrafting trip.
 
 <amp-img src="https://c4.staticflickr.com/9/8606/28716060755_0596cd42cf_k.jpg" width="2048" height="1365" alt="Best outdoor camera bags for Sony A7II, a6000, a6300, A9 or a6500" layout="responsive"></amp-img>
 
 With the Lowepro Nova Sport 7L in [Northern Norway](http://www.hikeventures.com/Finnmark/).
 
-As I have recently upgraded my camera, I was in need of a new camera case which I can take with me on my next outdoor adventures and which packs light and small.
 <br>
 <!--more-->
 
