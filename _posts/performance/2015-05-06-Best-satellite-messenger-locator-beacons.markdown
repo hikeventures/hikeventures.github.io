@@ -25,7 +25,7 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 <br>
 <!--more-->
 
-## <a name="table">Weight comparison table</a>
+## <a name="table">GPS messenger comparison table</a>
 
 <div class="table-responsive">
 <table class="table table-hover table-bordered list_items">
