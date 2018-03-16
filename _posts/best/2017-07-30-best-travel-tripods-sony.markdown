@@ -1,5 +1,5 @@
 ---
-title: Best travel tripods for Sony A7III, A9 or a6500
+title: Best tripods for Sony A7III, A9 or a6500
 description: The best lightweight travel tripods for Sony Cameras
 date: 2017-03-01 20:43:52
 category: articles
@@ -11,11 +11,7 @@ tags:
 layout: post
 ---
 
-Here is my <a href="#table">selection</a> of the best light travel tripods which I would consider to buy for my Sony A7III or A9.
-
-The tripods in this post can also be used on the Sony A9 or a6500 since they share a similar form factor and weight.
-
-Also have a quick look on my [Tripod FAQ](#faq) before you buy one. Here you can also see which [tripods I use](#my-own-gear) on my trips or which [camera bags](http://www.hikeventures.com/best-camera-bags-cases) I would recommend. If you are into vlogging then you might also be interested in [this microphone](http://www.hikeventures.com/Sennheiser-MKE600/).
+Here is my <a href="#table">selection</a> of the best tripods which I would consider to buy for a Sony A7III, A9 or a6500.
 
 <amp-img src="https://farm4.staticflickr.com/3625/13040988355_f0f5951202_k.jpg" width="2048" height="1536" alt="best tripods for Sony a7, a9 or a6500" layout="responsive"></amp-img>
 <br>
@@ -283,4 +279,4 @@ I also take the Manfrotto tripod with me if I don’t carry much gear with me or
 
 So what is the best travel tripod? It really depends on the situation and how you are planning to use it.
 
-<a href="#table" class="btn btn-danger" role="button">Back to the top</a>
+Also have a look on the [camera bags](http://www.hikeventures.com/best-camera-bags-cases) and  [shotgun microphone](http://www.hikeventures.com/Sennheiser-MKE600/) which I recommend for your new Sony camera.
