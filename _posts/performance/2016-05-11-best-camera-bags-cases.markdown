@@ -78,7 +78,7 @@ With the Lowepro Nova Sport 7L in [Northern Norway](http://www.hikeventures.com/
 
 **Dimensions**: 9 x 7 x 4 inches  
 
-The S-Zone camera insert bag is a great option if you have already a backpack and just need something to protect your camera gear. It's not expensive and you can combine it with any other bag. It's also listed as a Amazon's Choice product.
+The S-Zone camera insert bag is a great option if you have already a backpack and just need something to protect your camera gear. It's not expensive and you can combine it with any other bag. It's also listed as a Amazon's Choice product. I have the <a href="http://amzn.to/2FL5lZK" rel="nofollow">Thule Upslope backpack</a> for my winter day trips where the S-ZONE camera insert bag could fit perfectly.
 
 <a href="http://amzn.to/2FI36Gw" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
