@@ -13,9 +13,11 @@ tags:
 # URL: http://www.hikeventures.com/best-camera-bags-cases/
 ---
 
-Here is my <a href="#table">selection</a> of the best lightweight camera bags for the Sony A7, A7II A7RII, A7SII, A7III or A9 (and also a6500, a6300 or a6000 since they share a similar form factor). I have created this list since I recently upgraded my camera and wanted to share my findings with you.
+Here is my <a href="#table">selection</a> of the best lightweight camera bags for the Sony A7III, A7II A7RII, A7SII or A9 (and also a6500, a6300 or a6000 since they share a similar form factor).
 
-So what do consider when buying a new bag for your camera? Different bags might be useful for various activities, e.g. you might take a different camera bag with you when you go hiking than when you would go on a kayaking trip or just walk around in the city.
+I have created this list since I recently upgraded my camera to a Sony A7III and wanted to share my findings with you.
+
+So what to consider when buying a new bag for your camera? Different bags might be useful for various activities, e.g. you might take a different camera bag with you when you go hiking than when you would go on a kayaking trip or just walk around in the city.
 
 <amp-img src="https://c4.staticflickr.com/9/8606/28716060755_0596cd42cf_k.jpg" width="2048" height="1365" alt="Best outdoor camera bags for Sony A7II, a6000, a6300, A9 or a6500" layout="responsive"></amp-img>
 
@@ -70,6 +72,17 @@ With the Lowepro Nova Sport 7L in [Northern Norway](http://www.hikeventures.com/
       </table>
 </div>
 <br>
+
+## S-ZONE Camera Insert Bag
+<a rel="nofollow" href="https://www.amazon.com/S-ZONE-Waterproof-Camera-Insert-Olympus/dp/B01M19NCJJ/ref=as_li_ss_il?ie=UTF8&qid=1521368244&sr=8-3&keywords=camera+bag+insert&linkCode=li2&tag=hikeve-20&linkId=e9b332efd45ea5061a97d69dd0b7661d" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01M19NCJJ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B01M19NCJJ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Dimensions**: 9 x 7 x 4 inches  
+
+The S-Zone camera insert bag is a great option if you have already a backpack and just need something to protect your camera gear. It's not expensive and you can combine it with any other bag. It's also listed as a Amazon's Choice product.
+
+<a href="http://amzn.to/2FI36Gw" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+<hr>
 
 ## Aquapac Waterproof SLR Camera Case
 
