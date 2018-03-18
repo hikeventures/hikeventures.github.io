@@ -226,7 +226,7 @@ When I plan to go hiking or backpacking, I would like to have a camera bag where
 
 My camera bag should also be water resistant or waterproof if I don’t have space to carry my camera in my backpack in case the weather turns bad.
 
-Here are the camera bags and cases which I would consider to carry with me on my next hiking or backpacking trip.
+My personal choice for hiking trips is the <a href="http://amzn.to/29YPNOV" rel="nofollow">Lowepro Nova Sport 7L AW</a>
 
 ---
 
@@ -234,13 +234,13 @@ Here are the camera bags and cases which I would consider to carry with me on my
 
 For packrafting and kayaking, I would like to have a camera bag which is completely waterproof.
 
-I would probably go for one of the following camera cases for my next packrafting and kayaking trip.
+My personal choice for watersports is the <a href="http://amzn.to/29zNP9o" rel="nofollow">Aquapac Waterproof SLR Camera Case</a> or the <a href="https://www.amazon.com/gp/product/B0051QYF5E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0051QYF5E&linkCode=as2&tag=hikeve-20&linkId=b35f232fa3758e5efbfc6f9d4e425fbd" rel="nofollow">Pelican 1200 case</a>.
 
 ---
 
 ### Best camera bags for urban exploration and traveling
 
-When I take my camera to the city, I prefer to have a camera bag which looks a bit more stylish and has more pockets.
+When I take my camera to the city, I prefer to have a camera bag which looks a bit more stylish and has more pockets. I would probably pick the <a href="http://amzn.to/2j0FSLB" rel="nofollow">Thule Aspect DSLR/ILC Shoulder Bag</a> or the <a href="http://amzn.to/29vFJkX">ONA The Bowery Camera Bag</a>
 
 ---
 
