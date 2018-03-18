@@ -17,7 +17,7 @@ Here is my <a href="#table">selection</a> of the best tripods which I would cons
 <br>
 <!--more-->
 
-## <a name="table">Weight comparison table</a>
+## <a name="table">Tripod comparison table</a>
 
 <div class="table-responsive">
       <table class="table table-hover table-bordered list_items_3">
