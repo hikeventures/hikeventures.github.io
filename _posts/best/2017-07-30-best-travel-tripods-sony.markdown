@@ -30,21 +30,46 @@ Here is my <a href="#table">selection</a> of the best tripods which I would cons
         <tr>
           <td><a href="http://amzn.to/2eWn6IU" target="_blank" rel="nofollow">Manfrotto PIXI Mini</a></td><td>190 grams / 0.42 lbs</td>
         </tr>
+
+
+        <tr>
+          <td><a href="http://amzn.to/2FSVBfl" target="_blank" rel="nofollow">JOBY GorillaPod SLR Zoom</a></td><td>241 grams / 0.53 lbs</td>
+        </tr>
         <tr>
           <td><a href="http://amzn.to/2uIDsdU" target="_blank" rel="nofollow">SLIK Mini Pro III</a></td><td>300 grams / 0.7 lbs</td>
         </tr>
         <tr>
           <td><a href="http://amzn.to/2uK07GM" target="_blank" rel="nofollow">Sirui 3T-35K</a></td><td>431 grams / 0.95 lbs</td>
         </tr>
+
+        <tr>
+          <td><a href="http://amzn.to/2paYgYl" target="_blank" rel="nofollow">BONFOTO b71t table tripod</a></td><td>766 grams / 1.6 lbs</td>
+        </tr>
     <tr>
           <td><a href="http://amzn.to/2eXgxG0" target="_blank" rel="nofollow">Neewer Carbon Fiber 20</a></td><td>950 grams / 2.1 lbs</td>
         </tr>
+
+        <tr>
+          <td><a href="http://amzn.to/2tKJtrM" target="_blank" rel="nofollow">BONFOTO B690A Travel Tripod</a></td><td>1180 grams / 2.6 lbs</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://amzn.to/2p9rdUh" target="_blank" rel="nofollow">COOCHEER Camera Tripod</a></td><td>1250 kg / 2.76 lbs</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://amzn.to/2DnbRQh" target="_blank" rel="nofollow">AmazonBasics 60-Inch Lightweight Tripod</a></td><td>1360 kg / 3 lbs</td>
+        </tr>
+
         <tr>
           <td><a href="http://amzn.to/2v6MYZ6" target="_blank" rel="nofollow">Manfrotto BeFree Aluminum</a></td><td>1400 grams / 3 lbs</td>
         </tr>
 
         <tr>
-          <td><a href="http://amzn.to/2uJQBmW" target="_blank" rel="nofollow">Joby Gorillapod Focus GP8</a></td><td>1.75 kg / 3.86 lbs</td>
+          <td><a href="http://amzn.to/2uJQBmW" target="_blank" rel="nofollow">Joby Gorillapod Focus GP8</a></td><td>1750 kg / 3.86 lbs</td>
+        </tr>
+        <tr>
+          <td><a href="http://amzn.to/2FB6Z07" target="_blank" rel="nofollow">MeFOTO Classic Aluminum Globetrotter Travel Tripod</a></td><td>2100 grams / 4.6 lbs</td>
         </tr>
 </tbody>
 </table>
@@ -152,7 +177,7 @@ Further, it also comes with a quick-release plate so you can easily attach and d
 
 <a rel="nofollow" href="https://www.amazon.com/COOCHEER-Alluminum-Camcorder-Olympus-Fujifilm/dp/B06XY3KC8F/ref=as_li_ss_il?ie=UTF8&qid=1521004615&sr=8-4&keywords=tripod+sony+a7&linkCode=li2&tag=hikeve-20&linkId=2717229956d4b32bb55141064312a8dc" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06XY3KC8F&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B06XY3KC8F" width="1" height="1" border="0" alt="COOCHEER Alluminum Alloy Camera Tripod" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 1250 grams   
+**Weight**: 1250 grams / 2.76 lbs   
 **Load Capacity**: up to 8.8 lb 4.0 kg    
 **Folded length**: 50 cm / 19.7 in   
 **Maximum Height**: 57.5 in / 146 cm   
@@ -195,7 +220,7 @@ If you need a flexible mounting solution which packs small and light then the JO
 
 The JOBY GorillaPod SLR Zoom comes with rubberized foot grips and a quick release plate. This tripod gives you a lot of creative options as the Gorillapod lets you mount your camera almost anywhere.
 
-<a href=http://amzn.to/2FSVBfl" rel="nofollow" target="_blank"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://amzn.to/2FSVBfl" rel="nofollow" target="_blank"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
