@@ -82,7 +82,7 @@ Here is my <a href="#table">selection</a> of the best tripods which I would cons
 <a rel="nofollow" href="https://www.amazon.com/JOBY-GorillaPod-Focus-Tripod-Camera/dp/B001GCU0MY/ref=as_li_ss_il?ie=UTF8&qid=1521363071&sr=8-1&keywords=Joby+Gorillapod+Focus+GP8&linkCode=li2&tag=hikeve-20&linkId=ecbb0e355f3831770df1c749828fe668" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001GCU0MY&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B001GCU0MY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 1750 grams / 3.86 lbs  
-**Load capacity**: 5 kg / 11 lbs  
+**Load capacity**: 5 kg / 11 lbs   
 
 The Job GorillaPod Focus with ballhead has been designed for professional SLR cameras and offers flexible and wrapable legs to secure equipment to virtually any surface.
 
