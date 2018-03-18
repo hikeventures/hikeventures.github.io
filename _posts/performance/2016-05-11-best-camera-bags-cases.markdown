@@ -36,34 +36,35 @@ With the Lowepro Nova Sport 7L in [Northern Norway](http://www.hikeventures.com/
         <tbody>
 
         <tr>
-          <td><a href="http://amzn.to/2thGUwL" target="_blank" rel="nofollow">USA GEAR DuraNeoprene DSLR FlexARMOR Sleeve Case</a></td><td>100g</td>
+          <td><a href="http://amzn.to/2thGUwL" target="_blank" rel="nofollow">USA GEAR DuraNeoprene DSLR FlexARMOR Sleeve Case</a></td><td>100 grams / 0.22 lbs</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/29zNP9o" target="_blank" rel="nofollow">Aquapac Waterproof SLR Camera Case</a></td><td>216g</td>
+          <td><a href="http://amzn.to/29zNP9o" target="_blank" rel="nofollow">Aquapac Waterproof SLR Camera Case</a></td><td>216 grams / 0.47 lbs</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2evZ8Qo" target="_blank" rel="nofollow">Thule Covert Camera Backpack</a></td><td>400g</td>
+          <td><a href="http://amzn.to/29vBhTa" target="_blank" rel="nofollow">Ortlieb Camera Bag Aqua Zoom</a></td><td>340 grams / 0.75 lbs</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/29vBhTa" target="_blank" rel="nofollow">Ortlieb Camera Bag Aqua Zoom</a></td><td>340g</td>
+          <td><a href="http://amzn.to/2evZ8Qo" target="_blank" rel="nofollow">Thule Covert Camera Backpack</a></td><td>400 grams / 0.88 lbs</td>
+        </tr>
+
+        <tr>
+          <td><a href="http://amzn.to/29YPNOV" target="_blank" rel="nofollow">Lowepro Nova Sport 7L AW Camera Bag</a></td><td>500 grams / 1.1 lbs</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/29YPNOV" target="_blank" rel="nofollow">Lowepro Nova Sport 7L AW Camera Bag</a></td><td>500g</td>
+          <td><a href="http://amzn.to/2j0FSLB" target="_blank" rel="nofollow">Thule Aspect DSLR/ILC Shoulder Bag</a></td><td>550 grams / 1.2 lbs</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2j0FSLB" target="_blank" rel="nofollow">Thule Aspect DSLR/ILC Shoulder Bag</a></td><td>550g</td>
+          <td><a href="http://amzn.to/29vFJkX" target="_blank" rel="nofollow">ONA The Bowery Camera Bag</a></td><td>635 grams / 1.4 lbs</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/29vFJkX" target="_blank" rel="nofollow">ONA The Bowery Camera Bag</a></td><td>635g</td>
+          <td><a href="http://amzn.to/2l3wtFb" target="_blank" rel="nofollow">Ortlieb Soft Shot Waterproof Camera Bag</a></td><td>781 grams / 1.72 lbs</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2l3wtFb" target="_blank" rel="nofollow">Ortlieb Soft Shot Waterproof Camera Bag</a></td><td>781g</td>
+          <td><a href="http://amzn.to/2e8soyG" target="_blank" rel="nofollow">Thule Covert Camera Messenger Bag - Small</a></td><td>880 grams / 1.94 lbs</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2e8soyG" target="_blank" rel="nofollow">Thule Covert Camera Messenger Bag - Small</a></td><td>880g</td>
-        </tr>
-        <tr>
-          <td><a href="http://amzn.to/2e3bJv1" target="_blank" rel="nofollow">Pelican 1200 Case</a></td><td>1305g</td>
+          <td><a href="http://amzn.to/2e3bJv1" target="_blank" rel="nofollow">Pelican 1200 Case</a></td><td>1305 grams / 2.87 lbs</td>
         </tr>
         </tbody>
       </table>
