@@ -21,7 +21,7 @@ A lightweight wind jacket is probably one of the most useful pieces of clothes w
 <br>
 <!--more-->
 
-## <a name="table">Weight comparison table</a>
+## <a name="table">Wind jackets comparison table</a>
 
 <div class="table-responsive">
 <table class="table table-hover table-bordered list_items">
@@ -131,6 +131,20 @@ Apply Fjallraven wax on the jacket, and it will become resistant to water and th
 The jacket comes with an adjustable hem and hood, zippered hand and chest pockets as well as elastic-edged cuffs.
 
 <a href="http://amzn.to/2xMQPeA" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+---
+
+## Icebreaker Coriolis Hooded Windbreaker
+
+<a rel="nofollow" href="https://www.amazon.com/Icebreaker-Coriolis-Hooded-Windbreaker-Vapour/dp/B07221PC55/ref=as_li_ss_il?ie=UTF8&qid=1521458598&sr=8-1&keywords=coriolis+icebreaker&linkCode=li2&tag=hikeve-20&linkId=4c0fe0646e3679f78b92a0ec08682bb4" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07221PC55&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B07221PC55" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight**: 11.8 oz. / 334 grams<br>
+**Fabric**: Pertex Quantum
+
+The Icebreaker Coriolis Hooded Windbreaker  is the latest wind jacket from Icebreaker and is made of DWR-treated Pertex Quantum Air fabric. It also has soft merino wool lining which wicks moisture. There are also zippered hand pockets to store your gloves or snacks for the trail.
+
+<a href="http://amzn.to/2G8A4iW" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 
 ---
 
