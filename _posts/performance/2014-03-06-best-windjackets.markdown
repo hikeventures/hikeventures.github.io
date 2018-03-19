@@ -39,6 +39,9 @@ A lightweight wind jacket is probably one of the most useful pieces of clothes w
           <td><a href="http://amzn.to/2xNczXL" target="_blank" rel="nofollow">Arcteryx Incendo Hoody</a></td><td>4.6 oz. / 130 grams</td>
         </tr>
         <tr>
+          <td><a href="http://amzn.to/2DDKphA" target="_blank" rel="nofollow">  Outdoor Research Men's Tantrum II Hooded Jacket</a></td><td>4.7 oz. / 133 grams</td>
+        </tr>
+        <tr>
           <td><a href="http://amzn.to/2k8IAEC" target="_blank" rel="nofollow">Marmot Trail Wind Jacket</a></td><td>4.9 oz. / 140 grams</td>
         </tr>
         <tr>
@@ -195,6 +198,20 @@ As with all other wind jackets the Helium II is  waterproof and breathable and c
 The jacket is fully taped seams and comes with a single-pull hood drawcords and zippered Napoleon pocket to store small items. Finally the jacket also comes with elastic cuffs.
 
 <a href="http://amzn.to/2xMmVXE" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+---
+
+## Outdoor Research Men's Tantrum II Hooded Jacket
+
+<a rel="nofollow" href="https://www.amazon.com/Outdoor-Research-Tantrum-Glacier-Headband/dp/B07BDQDMP4/ref=as_li_ss_il?ie=UTF8&qid=1521460176&sr=8-195&keywords=wind+jacket&linkCode=li2&tag=hikeve-20&linkId=dd353afca87d8301eeb3cf361b458baf" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07BDQDMP4&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B07BDQDMP4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight**: 4.7 oz. / 133 grams<br>
+**Fabric**: Nylon 20D mechanical stretch ripstop
+
+The Outdoor Research Men's Tantrum II Hooded Jacket has a movement-mirroring stretch. It also comes with Thumb loops and an elastic drawcord hem and a zippered chest pocket.
+
+<a href="http://amzn.to/2G5BtXm" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
 
 ---
 

@@ -55,6 +55,9 @@ In most cases a lightweight rain jacket which does not need that much space in y
           <td><a href="http://amzn.to/2eTGFR8" target="_blank" rel="nofollow">Arcteryx Zeta LT Jacket</a></td><td>335 grams / 11.8 oz. </td>
         </tr>
         <tr>
+          <td><a href="http://amzn.to/2Ga7gq2" target="_blank" rel="nofollow">Mammut Meron Light HS Jacket men</a></td><td>357 grams / 12.6 oz. </td>
+        </tr>
+        <tr>
           <td><a href="http://amzn.to/2tJNrvy" target="_blank" rel="nofollow">Fjällräven Abisko Eco-Shell Jacket</a></td><td>380 grams / 13.4 oz. </td>
         </tr>
         <tr>
@@ -129,6 +132,19 @@ The Haglofs L.I.M Comp Jacket is made of Gore-Tex Active Shell which protects yo
 The Mammut Men's Kento Jacket provides waterproof protection you can easily pack down so you can take it anywhere you roam, whether you're mountaineering, multi-pitching, or alpine climbing. Its DryTech Premium shell gives this jacket superior waterproof protection that's surprisingly breathable to keep you comfortable when you're working hard. Underarm zippers offer a lot of airflow and ventilation, while the pre-shaped sleeves ensure excellent coverage and mobility while you're climbing.
 
 <a href="http://amzn.to/2gMFR2h" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+<hr>
+
+## Mammut Meron Light HS Jacket men
+
+<a rel="nofollow" href="https://www.amazon.com/Mammut-Meron-Jacket-Titanium-1010-25970-0051-117/dp/B0788SHWN7/ref=as_li_ss_il?ie=UTF8&qid=1521459637&sr=8-55&keywords=wind+jacket&linkCode=li2&tag=hikeve-20&linkId=1a0b5df91f95024494f143042bc4cdd5" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0788SHWN7&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B0788SHWN7" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight**: 357 grams / 12.6 oz.
+**Fabric**: 3-layer GORE-TEX Active material / GORE® C-KNIT
+
+The Mammut Merson Light HS Jacket men is a combination of 3-layer GORE-TEX Active and GORE® C-KNIT and comes with a 28,000 mm water column which makes the jacket  waterproof. The jacket is also helmet- and harness-compatible and features a reinforced visor which can be adjusted horizontally and vertically with a single pull. The seams and cuffs can also be adjusted. This is a great jacket for the alpine environment.
+
+<a href="http://amzn.to/2Ga7gq2" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
