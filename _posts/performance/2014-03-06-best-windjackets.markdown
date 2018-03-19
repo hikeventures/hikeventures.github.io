@@ -53,7 +53,9 @@ A lightweight wind jacket is probably one of the most useful pieces of clothes w
         <tr>
           <td><a href="http://amzn.to/2xJcwu4" target="_blank" rel="nofollow">Marmot Ether DriClime Hooded Jacket</a></td><td>9.5 oz. / 122 grams</td>
         </tr>
-
+        <tr>
+          <td><a href="http://amzn.to/2G8A4iW" target="_blank" rel="nofollow">Icebreaker Coriolis Hooded Windbreaker</a></td><td>11.8 oz. / 334 grams</td>
+        </tr>
         </tbody>
 </table>
 </div>
