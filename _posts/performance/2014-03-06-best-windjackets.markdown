@@ -2,7 +2,7 @@
 title: Best Wind Jackets 2018
 description: Top 5 windproof Jackets for 2018 for your next outdoor adventure!
 date: 2016-01-04 10:56:22
-update_date: 2017-08-31 06:00:52
+update_date: 2017-12-31 06:00:52
 category: articles
 image: https://c3.staticflickr.com/8/7385/9599027418_4123160df8_b.jpg
 tags:

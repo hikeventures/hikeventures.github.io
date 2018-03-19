@@ -2,7 +2,7 @@
 title: Best Rain Jackets 2018
 description: Overview of the best men rain Jackets in 2018 for hiking and backpacking
 date: 2016-07-14 12:33:51
-update_date: 2017-07-14 12:33:51
+update_date: 2017-12-14 12:33:51
 category: articles
 image: https://c3.staticflickr.com/8/7385/9599027418_4123160df8_b.jpg
 tags:
