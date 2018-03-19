@@ -46,6 +46,9 @@ In most cases a lightweight rain jacket which does not need that much space in y
           <td><a href="http://amzn.to/2e31BCI" target="_blank" rel="nofollow">Montane Minimus Jacket</a></td><td>208 grams / 7.3 oz. </td>
         </tr>
         <tr>
+          <td><a href="http://amzn.to/2ICwyvk" target="_blank" rel="nofollow">Haglofs L.I.M Comp Jacket</a></td><td>265 grams / 9.3 oz. </td>
+        </tr>
+        <tr>
           <td><a href="http://amzn.to/2e33vTI" target="_blank" rel="nofollow">Mountain Hardwear Plasmonic Jacket</a></td><td>323 grams / 11.4 oz.</td>
         </tr>
         <tr>
@@ -100,6 +103,21 @@ The Fjällräven Absiko Eco-Shell Jacket is a water and windproof 2.5 layer jack
 <a href="http://amzn.to/2tieDlz" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
+
+
+## Haglofs L.I.M Comp Jacket
+
+<a rel="nofollow" href="https://www.amazon.com/Haglofs-L-I-M-Comp-Jacket-Large/dp/B077YDTTDX/ref=as_li_ss_il?ie=UTF8&qid=1521459180&sr=8-28&keywords=wind+jacket&linkCode=li2&tag=hikeve-20&linkId=b1a300c2339ad38cabc53c1a6dfe135e" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B077YDTTDX&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B077YDTTDX" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Weight**: 265 grams / 9.3 oz.
+**Fabric**: Gore-Tex Active Shell
+
+The Haglofs L.I.M Comp Jacket is made of Gore-Tex Active Shell which protects you against wind and rain. It comes with elasticated hem and cuffs and mounted hand pockets to store small items. The Haglofs L.I.M Comp Jacket is a minimalistic jacket which packs small into your backpack.
+
+<a href="http://amzn.to/2ICwyvk" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+<hr>
+
 
 ## Mammut Kento HS Hooded Jacket
 
