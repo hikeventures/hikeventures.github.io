@@ -16,6 +16,9 @@ Here is a selection of outdoor blogs and bloggers we have been in contact with. 
 ### <a href="http://lotsafreshair.com/">lotsafreshair.com</a>
 Everyone talks about the need to unplug from their stressful lives and connect with nature and themselves by spending time in nature. However, when faced with the possibility of getting 'out there', many people come up with excuses that stop them from doing that. Lotsafreshair is a blog and YouTube channel all about encouraging people to get out and blow away those excuses. From what to pack, what food to take or how to adjust a backpack, Lotsafreshair aims to connect people with nature and help them fall in love with their outside selves. It provides a mix of not only practical quick tips and how-to's, but inspirational journeys and adventures in Australia and overseas.<a href="https://www.facebook.com/lotsafreshair"><i class="fa fa-facebook"></i></a> <a href="http://twitter.com/Lotsafreshair"><i class="fa fa-twitter"></i></a>  <a href="http://instagram.com/Lotsafreshair"><i class="fa fa-instagram"></i></a>  <a href="https://www.youtube.com/user/Lotsafreshair"><i class="fa fa-youtube"></i></a>
 
+### [Sydney Coast Walks](https://www.sydneycoastwalks.com.au/blog/)
+Sydney Coast Walks blogs about Sydney's national parks and natural areas.
+
 ---
 
 ## Austria
