@@ -35,6 +35,9 @@ After I received an email from the developer of the FieldMonitor app with an inv
 <br>
 <amp-img src="https://farm1.staticflickr.com/814/26119708177_a4f704cf7a_b.jpg"  width="1024" height="577" layout="responsive" alt="FieldMonitor Sony A7III review"></amp-img>
 <br>
+
+There is one issue which also the developer of the FieldMonitor app is aware of. Pressing the MENU button on the A7III to select for example a Picture Profile disconnects the remote.
+
 So how am I going to use this app? I will buy a <a href="https://amzn.to/2uoGrdp" rel="nofollow">hot shoe mount</a> for my camera to attach my iPhone with it.
 
 The screen of the iPhone is quite a bit bigger than the screen on the <a href="https://amzn.to/2pBG6yY">Sony A7III</a> and it may be easier to manual focus with the lens.
