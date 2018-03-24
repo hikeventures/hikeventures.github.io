@@ -10,14 +10,13 @@ layout: post
 image: https://farm1.staticflickr.com/792/39181313040_b25a39b799_b.jpg
 ---
 
-Yesterday, I have received my new <a href="https://amzn.to/2pBG6yY" rel="nofollow">Sony A7III</a> and I was curious to find our how the FieldMonitor app on my iPhone together with my new camera. So I contacted the developer of the FieldMonitor app and asked if his App would work with the Sony A7III?
+Yesterday, I have received my new <a href="https://amzn.to/2pBG6yY" rel="nofollow">Sony A7III</a> and I was curious to find our how the <a rel="nofollow" href="https://www.adamwilt.com/fieldmonitor/">FieldMonitor app</a> on my iPhone together with my new camera. So I contacted the developer of the FieldMonitor app and asked if his App would work with the Sony A7III?
 
 Unfortunately, there has been no tests with the FieldMonitor App and the Sony A7III yet so I got the opportunity to beta test the app on the Test Flight app (I have never used it before but the Test Flight app is made to test apps before they get released).
 <br>
 <amp-img src="https://farm1.staticflickr.com/792/39181313040_b25a39b799_b.jpg"  width="1024" height="577" layout="responsive" alt="FieldMonitor Sony A7III review"></amp-img>
 <br>
 <!--more-->
-
 After I received an email from the developer of the FieldMonitor app with an invitation link to the beta app I started testing it. The Sony A7III connects smoothly to the app and it also seems that all the features are working fine on the app too. The FieldMonitor app also never crashed and I was able to record a video by hitting the record button in the app. Below you can find some pictures of the parts of the program which I have accessed.
 <br>
 <amp-img src="https://farm1.staticflickr.com/788/40990470301_2ea0a14817_b.jpg"  width="1024" height="577" layout="responsive" alt="FieldMonitor Sony A7III review"></amp-img>
