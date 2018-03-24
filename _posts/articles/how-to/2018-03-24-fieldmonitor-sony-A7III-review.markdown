@@ -7,7 +7,7 @@ tags:
   - articles
   - reviews
 layout: post
-image: https://farm9.staticflickr.com/8363/8381056716_17c454bf74_b.jpg
+image: https://farm1.staticflickr.com/792/39181313040_b25a39b799_b.jpg
 ---
 
 Yesterday, I have received my new <a href="https://amzn.to/2pBG6yY" rel="nofollow">Sony A7III</a> and I was curious to find our how the FieldMonitor app on my iPhone together with my new camera. So I contacted the developer of the FieldMonitor app and asked if his App would work with the Sony A7III?
