@@ -1,6 +1,6 @@
 ---
-title: Sony A7III Sample Images and Video
-description: Some sample images and video from my new Sony A7III
+title: Sony A7III / A73 Sample Images and Video
+description: Some sample images and video from my new Sony Sony A7 III / A7III / A73
 date: 2018-03-24 07:30:00
 category: articles
 tags:
@@ -14,28 +14,28 @@ published: false
 
 Today, I was testing my new <a href="https://amzn.to/2DQG8ap" rel="nofollow">Sony A7III</a> and here are my first sample images which I have taken in Turku (Finland). Previously, I had the Sony A7 and the difference to the A7III is almost like day and night.
 
-The autofocus is so much faster and the video features and quality have also much improved. It really motivates me to do even more with my new camera.
+The autofocus is so much faster and the video features and quality have also much improved. It really motivates me to do even more with my new camera. I have not modified the picture which you see below. I have croped some of them a bit to straighten them and minimised their size.
 
 <br>
-<amp-img src="https://farm1.staticflickr.com/792/39181313040_b25a39b799_b.jpg"  width="1024" height="577" layout="responsive" alt="Sony A7III Sample Images and Video"></amp-img>
+<amp-img src="https://farm1.staticflickr.com/792/39181313040_b25a39b799_b.jpg"  width="1024" height="577" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
 <br>
 <!--more-->
 <br>
-<amp-img src="https://farm1.staticflickr.com/788/40990470301_2ea0a14817_b.jpg"  width="1024" height="577" layout="responsive" alt="Sony A7III Sample Images and Video"></amp-img>
+<amp-img src="https://farm1.staticflickr.com/788/40990470301_2ea0a14817_b.jpg"  width="1024" height="577" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
 <br>
-<amp-img src="https://farm5.staticflickr.com/4782/26119707147_061c372726_b.jpg"  width="1024" height="577" layout="responsive" alt="Sony A7III Sample Images and Video"></amp-img>
+<amp-img src="https://farm5.staticflickr.com/4782/26119707147_061c372726_b.jpg"  width="1024" height="577" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
 <br>
-<amp-img src="https://farm1.staticflickr.com/792/39181313040_b25a39b799_b.jpg"  width="1024" height="577" layout="responsive" alt="Sony A7III Sample Images and Video"></amp-img>
+<amp-img src="https://farm1.staticflickr.com/792/39181313040_b25a39b799_b.jpg"  width="1024" height="577" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
 <br>
-<amp-img src="https://farm5.staticflickr.com/4777/39181320350_9f9041c0df_b.jpg"  width="1024" height="577" layout="responsive" alt="Sony A7III Sample Images and Video"></amp-img>
+<amp-img src="https://farm5.staticflickr.com/4777/39181320350_9f9041c0df_b.jpg"  width="1024" height="577" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
 <br>
-<amp-img src="https://farm1.staticflickr.com/797/39181318410_5be1fcf190_b.jpg"  width="1024" height="577" layout="responsive" alt="Sony A7III Sample Images and Video"></amp-img>
+<amp-img src="https://farm1.staticflickr.com/797/39181318410_5be1fcf190_b.jpg"  width="1024" height="577" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
 <br>
-<amp-img src="https://farm1.staticflickr.com/812/26119703757_3079fdf614_b.jpg"  width="1024" height="577" layout="responsive" alt="Sony A7III Sample Images and Video"></amp-img>
+<amp-img src="https://farm1.staticflickr.com/812/26119703757_3079fdf614_b.jpg"  width="1024" height="577" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
 <br>
-<amp-img src="https://farm1.staticflickr.com/802/39181315680_7184820c91_b.jpg"  width="1024" height="577" layout="responsive" alt="Sony A7III Sample Images and Video"></amp-img>
+<amp-img src="https://farm1.staticflickr.com/802/39181315680_7184820c91_b.jpg"  width="1024" height="577" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
 <br>
-<amp-img src="https://farm1.staticflickr.com/814/26119708177_a4f704cf7a_b.jpg"  width="1024" height="577" layout="responsive" alt="Sony A7III Sample Images and Video"></amp-img>
+<amp-img src="https://farm1.staticflickr.com/814/26119708177_a4f704cf7a_b.jpg"  width="1024" height="577" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
 <br>
 
 ## Sony A7III Sample Video
