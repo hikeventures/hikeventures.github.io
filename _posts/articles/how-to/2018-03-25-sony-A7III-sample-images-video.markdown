@@ -39,7 +39,7 @@ The autofocus is so much faster and the video features and quality have also muc
 <amp-img src="https://farm1.staticflickr.com/819/41014132031_1108aaf150_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
 <br>
 ## Sony A7III Sample Video
-And here is my <a href="https://amzn.to/2DQG8ap" rel="nofollow">Sony A7III</a> sample video in 4K with the <a href="https://amzn.to/2I1ujAM" rel="nofollow">Zeiss Batis 25mm f/2</a> lens. I have recorded the audio with a <a href="https://amzn.to/2uhWd9A" rel="nofollow">Sennheiser MKE 600</a>, <a href="https://amzn.to/2DQGuOh" rel="nofollow">Rycote Super-Softie</a> and a <a href="https://amzn.to/2I5mKsZ" rel="nofollow">Sound Devices MixPre-3</a>.
+And here is my <a href="https://amzn.to/2DQG8ap" rel="nofollow">Sony A7III</a> sample video in 4K with the <a href="https://amzn.to/2I1ujAM" rel="nofollow">Zeiss Batis 25mm f/2</a> and the <a href="https://amzn.to/2DXfD3q" rel="nofollow">Sony 70-200 f/4</a> lenses. I have recorded the audio with a <a href="https://amzn.to/2uhWd9A" rel="nofollow">Sennheiser MKE 600</a>, <a href="https://amzn.to/2DQGuOh" rel="nofollow">Rycote Super-Softie</a> and a <a href="https://amzn.to/2I5mKsZ" rel="nofollow">Sound Devices MixPre-3</a>.
 
 The Sound Devices recorder was connected to the Sony A7III with a HDMI cable to take the time code from the MixPre-3. In Final Cut Pro it's then super easy to synchronise the audio and video files.
 
