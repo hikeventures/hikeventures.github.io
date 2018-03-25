@@ -8,7 +8,7 @@ tags:
   - reviews
   - photography
 layout: post
-image: https://farm1.staticflickr.com/792/39181313040_b25a39b799_b.jpg
+image: https://farm1.staticflickr.com/813/41014029801_f943dca927_b.jpg
 ---
 
 Today, I was testing my new <a href="https://amzn.to/2DQG8ap" rel="nofollow">Sony A7III</a> and here are my first sample images which I have taken in Turku (Finland). Previously, I had the Sony A7 and the difference to the A7III is almost like day and night.
