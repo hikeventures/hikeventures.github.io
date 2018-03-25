@@ -38,7 +38,7 @@ The autofocus is so much faster and the video features and quality have also muc
 <amp-img src="https://farm1.staticflickr.com/787/41014027201_9218d3c41c_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
 <br>
 <amp-img src="https://farm1.staticflickr.com/819/41014132031_1108aaf150_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
-
+<br>
 ## Sony A7III Sample Video
 And here is my <a href="https://amzn.to/2DQG8ap" rel="nofollow">Sony A7III</a> sample video in 4K with the <a href="https://amzn.to/2I1ujAM" rel="nofollow">Zeiss Batis 25mm f/2</a> lens. I have recorded the audio with a <a href="https://amzn.to/2uhWd9A" rel="nofollow">Sennheiser MKE 600</a>, <a href="https://amzn.to/2DQGuOh" rel="nofollow">Rycote Super-Softie</a> and a <a href="https://amzn.to/2I5mKsZ" rel="nofollow">Sound Devices MixPre-3</a>.
 
