@@ -13,12 +13,11 @@ image: https://farm1.staticflickr.com/813/41014029801_f943dca927_b.jpg
 
 Today, I was testing my new <a href="https://amzn.to/2DQG8ap" rel="nofollow">Sony A7III</a> and here are my first sample images which I have taken in Turku (Finland). Previously, I had the Sony A7 and the difference to the A7III is almost like day and night.
 
-The autofocus is so much faster and the video features and quality have also much improved. It really motivates me to do even more with my new camera. I have not modified the picture which you see below. I have cropped some of them a bit to straighten them and minimised their size.
+The autofocus is so much faster and the video features and quality have also much improved. It really motivates me to do even more with my new camera. I have not modified the picture which you see below. I have cropped some of them a bit to straighten them and minimised their size with JPEGmini.
 <br>
 <amp-img src="https://farm1.staticflickr.com/813/41014029801_f943dca927_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
 <br>
 <!--more-->
-
 <amp-img src="https://farm1.staticflickr.com/795/26143373187_25a731f060_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
 <br>
 <amp-img src="https://farm1.staticflickr.com/789/27143003168_e89578d428_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
