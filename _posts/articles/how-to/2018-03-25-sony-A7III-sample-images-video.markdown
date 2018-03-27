@@ -19,7 +19,7 @@ The autofocus is so much faster and the video features and quality have also muc
 <br>
 <!--more-->
 
-Here is my current Kit. More about it at the bottom of this blog post.
+Here is my current Kit with the Rode Newsshooter Kit receiver on the top and the Sound Devices MixPre-3 on the bottom. More about it at the end of this blog post.
 <br>
 <amp-img src="https://farm1.staticflickr.com/883/40345003424_8113dfc123_k.jpg"  width="1024" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
 <br>
