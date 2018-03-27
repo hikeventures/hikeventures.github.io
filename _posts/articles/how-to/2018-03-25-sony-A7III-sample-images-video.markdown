@@ -18,6 +18,11 @@ The autofocus is so much faster and the video features and quality have also muc
 <amp-img src="https://farm1.staticflickr.com/813/41014029801_f943dca927_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
 <br>
 <!--more-->
+
+Here is my current Kit. More about it at the bottom of this blog post.
+<br>
+<amp-img src="https://farm1.staticflickr.com/883/40345003424_8113dfc123_k.jpg"  width="1024" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
+<br>
 <amp-img src="https://farm1.staticflickr.com/795/26143373187_25a731f060_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
 <br>
 <amp-img src="https://farm1.staticflickr.com/789/27143003168_e89578d428_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
@@ -44,6 +49,8 @@ And here is my <a href="https://amzn.to/2DQG8ap" rel="nofollow">Sony A7III</a> s
 The Sound Devices recorder was connected to the Sony A7III with a HDMI cable to take the time code from the MixPre-3. In Final Cut Pro it's then super easy to synchronise the audio and video files.
 
 One more word to the wind jammer. I found the Rycote Super-Softie wind jammer the best solution. Well, there are better and more expensive options available but it performs better than a fur wind jammer and it's more durable.
+
+Finally, there is the <a href="https://amzn.to/2G9eXxA" rel="nofollow">Rode Newsshooter Kit</a> which allows me to connect my microphone wireless to my Sound Devices audio recorder.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/tcCkV0xDnrI"></iframe>
