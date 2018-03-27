@@ -49,3 +49,5 @@ One more word to the wind jammer. I found the Rycote Super-Softie wind jammer th
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/tcCkV0xDnrI"></iframe>
 </div>
 So, would I recommend the <a href="https://amzn.to/2DQG8ap">Sony A7III</a>? Definitely, especially if you are coming from the good old Sony A7 MK I.
+
+Here you can [read more](http://www.hikeventures.com/mixpre-3-sennheiser-mke-600-rycote-super-softie-strut-STR-MP3/) about the MixPre-3 audio recorder and the [FieldMonitor app](http://www.hikeventures.com/fieldmonitor-sony-A7III-review/) on our blog.
