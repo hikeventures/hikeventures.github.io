@@ -46,11 +46,11 @@ Here is my current Kit with the Rode Newsshooter Kit receiver on the top and the
 ## Sony A7III Sample Video
 And here is my <a href="https://amzn.to/2DQG8ap" rel="nofollow">Sony A7III</a> sample video in 4K with the <a href="https://amzn.to/2I1ujAM" rel="nofollow">Zeiss Batis 25mm f/2</a> and the <a href="https://amzn.to/2DXfD3q" rel="nofollow">Sony 70-200 f/4</a> lenses. I have recorded the audio with a <a href="https://amzn.to/2uhWd9A" rel="nofollow">Sennheiser MKE 600</a>, <a href="https://amzn.to/2DQGuOh" rel="nofollow">Rycote Super-Softie</a> and a <a href="https://amzn.to/2I5mKsZ" rel="nofollow">Sound Devices MixPre-3</a>.
 
-The Sound Devices recorder was connected to the Sony A7III with a HDMI cable to take the time code from the MixPre-3. In Final Cut Pro it's then super easy to synchronise the audio and video files.
+The Sound Devices recorder is connected to the Sony A7III with a <a href="https://amzn.to/2pJnehw" rel="nofollow">Atomos HDMI cable</a> to take the time code from the MixPre-3. In Final Cut Pro it's then super easy to synchronise the audio and video files.
 
 One more word to the wind jammer. I found the Rycote Super-Softie wind jammer the best solution. Well, there are better and more expensive options available but it performs better than a fur wind jammer and it's more durable.
 
-Finally, there is the <a href="https://amzn.to/2G9eXxA" rel="nofollow">Rode Newsshooter Kit</a> which allows me to connect my microphone wireless to my Sound Devices audio recorder.
+Finally, there is the <a href="https://amzn.to/2G9eXxA" rel="nofollow">Rode Newsshooter Kit</a> which allows me to connect my microphone wirelessly to my Sound Devices PreMix-3 audio recorder.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/tcCkV0xDnrI"></iframe>
