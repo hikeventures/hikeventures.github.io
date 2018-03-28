@@ -48,7 +48,7 @@ And here is my <a href="https://amzn.to/2DQG8ap" rel="nofollow">Sony A7III</a> s
 
 The Sound Devices recorder is connected to the Sony A7III with a <a href="https://amzn.to/2pJnehw" rel="nofollow">Atomos HDMI cable</a> to take the time code from the MixPre-3. In Final Cut Pro it's then super easy to synchronise the audio and video files.
 
-One more word to the wind jammer. I found the Rycote Super-Softie wind jammer the best solution. Well, there are better and more expensive options available but it performs better than a fur wind jammer and it's more durable.
+One more word to the wind jammer. I found the Rycote Super-Softie wind jammer the best solution. Well, there are better and more expensive options available but it performs better than a fur wind jammer and it's more durable. The headphone I am using is the <a href="https://amzn.to/2usU2jQ" rel="nofollow">Sennheiser HD-25</a>.
 
 Finally, there is the <a href="https://amzn.to/2G9eXxA" rel="nofollow">Rode Newsshooter Kit</a> which allows me to connect my microphone wirelessly to my Sound Devices PreMix-3 audio recorder.
 
