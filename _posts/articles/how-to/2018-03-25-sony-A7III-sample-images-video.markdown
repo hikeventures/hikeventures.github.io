@@ -25,7 +25,7 @@ Here is my current Kit with the Rode Newsshooter Kit receiver on the top and the
 <br>
 <amp-img src="https://farm1.staticflickr.com/877/41076842232_0a13f53d40_b.jpg"  width="1024" height="682" layout="responsive" alt="Sony A7III - Moon - Astrophotography"></amp-img>
 <br>
-The moon is taken with the Sony 70-200 f/4 lens - ISO 100 and cropped.
+The moon is taken with the <a href="https://amzn.to/2GrNgfq" rel="nofollow">Sony 70-200 f/4 lens</a> - ISO 100 and cropped.
 <br>
 <amp-img src="https://farm1.staticflickr.com/795/26143373187_25a731f060_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
 <br>
