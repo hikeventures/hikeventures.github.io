@@ -23,6 +23,8 @@ Here is my current Kit with the Rode Newsshooter Kit receiver on the top and the
 <br>
 <amp-img src="https://farm1.staticflickr.com/863/39265064240_46ceb4321c_k.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 with Rode Newsshooter Kit and Sound Devices MixPre-3"></amp-img>
 <br>
+<amp-img src="https://farm1.staticflickr.com/877/41076842232_0a13f53d40_b.jpg"  width="1024" height="682" layout="responsive" alt="Sony A7III - Moon - Astrophotography"></amp-img>
+<br>
 <amp-img src="https://farm1.staticflickr.com/795/26143373187_25a731f060_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
 <br>
 <amp-img src="https://farm1.staticflickr.com/789/27143003168_e89578d428_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
