@@ -17,7 +17,7 @@ image: https://farm5.staticflickr.com/4757/39766771144_fe0207826d_k.jpg
 
 In this blog post I would like to introduce you to my mobile audio recording equipment - the <a href="http://amzn.to/2BPlHgO" rel="nofollow">Sound Devices MixPre-3</a>, <a href="http://amzn.to/2FthLSA" rel="nofollow">
 Sennheiser MKE 600</a>, <a href="http://amzn.to/2EPLurN" rel="nofollow">
-Rycote Super Softie</a> and the <a rel="nofollow"  href="https://www.bhphotovideo.com/c/product/1345021-REG/strut_str_mp3_custom_fit_field_case.html/BI/19674/KBID/12320/kw/STRMP3/DFF/d10-v2-t1-xSTRMP3" target="_blank">Strut STR-MP3</a>. I am not an professional when it comes to audio but just started with it as a hobby.
+Rycote Super Softie</a> and the <a rel="nofollow"  href="https://www.bhphotovideo.com/c/product/1345021-REG/strut_str_mp3_custom_fit_field_case.html/BI/19674/KBID/12320/kw/STRMP3/DFF/d10-v2-t1-xSTRMP3" target="_blank">Strut STR-MP3</a>. I am not an professional when it comes to audio but just started with it as a hobby. There is also a [MixPre-3 preset](http://cdn.sounddevices.com/download/guides/MixPreSeries-SonyA7SR.pdf) available in case you want to syncronize your camera with the Timecode of the MixPre-3. 
 
 I would also be interested to record stereo sound in the future with 2 dedicated Microphones like the <a href="http://amzn.to/2EPwc6G">Audio-Technica AT4022 Omnidirectional Condenser Microphone</a> on an Olson Wing array or even the <a rel="nofollow" href="http://amzn.to/2CJpVmU">Sennheiser Ambeo VR mic</a>.
 
@@ -47,7 +47,7 @@ To power the MixPre-3 I use <a rel="nofollow" href="http://amzn.to/2FvBIs9">4 AA
 
 <amp-img src="https://farm5.staticflickr.com/4657/40434136592_4228f5fd25_k.jpg" layout="responsive" width="2048" height="1368" alt="MixPre-3, Sennheiser MKE 600, Rycote Super Softie, Strut STR-MP3 review test"></amp-img>
 <br>
-Here you can see the Sennheiser MKE 600 mounted on my <a rel="nofollow" href="http://amzn.to/2FuHJFx">SLIK Mini Pro III</a> together with the <a rel="nofollow" href="http://amzn.to/2F8plEN">Rycote InVision Video Mic Lyre</a> shockmount. 
+Here you can see the Sennheiser MKE 600 mounted on my <a rel="nofollow" href="http://amzn.to/2FuHJFx">SLIK Mini Pro III</a> together with the <a rel="nofollow" href="http://amzn.to/2F8plEN">Rycote InVision Video Mic Lyre</a> shockmount.
 
 The SLIK tripod is one of my favorite tripods as it packs small and can carry small and big cameras as well as microphones. I also use it at home on my desk with the MixPre-3 mounted on it.
 
