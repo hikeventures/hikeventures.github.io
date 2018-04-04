@@ -1,6 +1,6 @@
 ---
 
-title: Differences between Suunto Traverse and Ambit3 and Spartan Trainer Wrist HR
+title: Differences between Suunto 3 Fitness, Suunto Traverse and Ambit3 and Spartan Trainer Wrist HR
 description: What are the differences between the Suunto Traverse and the Ambit3 and the Suunto Spartan Trainer Wrist HR?
 date: 2015-10-20 05:59:40
 update_date: 2017-08-26 06:00:52
@@ -41,6 +41,9 @@ The Traverse also has a flashlight function which could be quite useful (for exa
 Personally, I like the new look of the Suunto Traverse more than the design of the old Suunto Ambit3. Also, the wrist strap of the Suunto Traverse feels somewhat more comfortable than the one on the old Suunto Ambit3.
 
 ---
+## Suunto 3 Fitness
+The Suunto 3 Fitness is the latest watch from Suunto and weights 36 grams. It's possible to connect to the Suunto app to measure speed and distance and tracks your route on your smartphone.
+
 
 ## Suunto Spartan Trainer Wrist HR
 
@@ -120,6 +123,7 @@ Update 26.1.2017: Suunto announced the Suunto Spartan Sport - Another premium mu
 
 Update 10.08.2017: Suunto announced the Suunto Spartan Trainer Wrist HR - similar features as the more expensive models but in a slimmer design.
 
+Update 4.4.2018: Suunto has released the Suunto 3 Fitness watch.
 <br>
 
 Need some more inspirations on how to use the Suunto Ambit or Suunto Traverse watch? Here is a [trip report](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/) from the Swedish mountains where I was wearing the old Suunto Ambit3 on a packrafting trip.
