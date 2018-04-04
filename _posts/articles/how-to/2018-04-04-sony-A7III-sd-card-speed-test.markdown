@@ -1,5 +1,5 @@
 ---
-title: Sony A7III SD Card Speed Test - Sony
+title: Sony A7III SD Card Speed Test - UHS-I vs. UHS-II
 description: Speed Test with the  Sony A7 III / A7III / A73
 date: 2018-04-04 07:30:00
 category: articles
