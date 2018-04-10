@@ -68,10 +68,32 @@ With the Lowepro Nova Sport 7L in [Northern Norway](http://www.hikeventures.com/
         <tr>
           <td><a href="http://amzn.to/2e3bJv1" target="_blank" rel="nofollow">Pelican 1200 Case</a></td><td>1305 grams / 2.87 lbs</td>
         </tr>
+        <tr>
+          <td><a href="https://amzn.to/2HoRUwn" target="_blank" rel="nofollow">Photo Sport BP 300 AW II</a></td><td>1500 grams / 3.3 lbs</td>
+        </tr>
         </tbody>
       </table>
 </div>
 <br>
+
+
+## Lowepro Photo Sport 300 AW II
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B013MC82MK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B013MC82MK&linkCode=as2&tag=hikeve-20&linkId=6df4a9578d92b22317a131424282cbdf"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B013MC82MK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B013MC82MK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+**Dimensions**: 10.63 x 9.45 x 22.05 in
+
+The  Lowepro Photo Sport 300 AW II is not the lightest selection in this list but I wanted to add a backpack option as well in case you are planning to carry more gear with you. The  Lowepro Photo Sport 300 AW II is especially suitable if you are an active outdoor person e.g. hiking, biking, climbing or snowboarding.
+
+This backpack comes with a toploading compartmentto where you can store items for a day trip. Moreover, you can also pack a 2-liter Camelbak or Platypus reservoir into th backpack.
+
+To protect your gear from the elements such as rain or snow you can cover the backpack with an built-in All Weather AW Cover.
+
+There are also multiple attachment points allow you to secure extra gear to the pack (e.g. a tripod or trekking pole).
+
+<a href="https://amzn.to/2HoRUwn" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+<hr>
+
 
 ## S-ZONE Camera Insert Bag
 <a rel="nofollow" href="https://www.amazon.com/S-ZONE-Waterproof-Camera-Insert-Olympus/dp/B01M19NCJJ/ref=as_li_ss_il?ie=UTF8&qid=1521368244&sr=8-3&keywords=camera+bag+insert&linkCode=li2&tag=hikeve-20&linkId=e9b332efd45ea5061a97d69dd0b7661d" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01M19NCJJ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B01M19NCJJ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
