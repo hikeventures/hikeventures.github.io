@@ -68,8 +68,6 @@ Probably one disadvantage of watches having a color display and a GPS is their s
 </table>
 </div>
 <br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 
 ## Apple Watch Series 2 Sport 42mm

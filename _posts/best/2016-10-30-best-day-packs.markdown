@@ -68,8 +68,6 @@ I have included a broad range of day packs. Some are more durable or offer more 
 </div>
 
 <br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 ## Marmot Kompressor Plus
 

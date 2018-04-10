@@ -58,8 +58,7 @@ There would be no need to plug and unplug USB cables anymore on the MacBook Pro.
 </div>
 
 <br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 
 ## LG 27UD68P
 <a rel="nofollow" href="https://www.amazon.com/LG-Electronics-27UD68P-B-LED-Lit-Monitor/dp/B01F3H4JGK/ref=as_li_ss_il?s=books&ie=UTF8&qid=1502954041&sr=8-1&keywords=27UD68-P&linkCode=li3&tag=hikeve-20&linkId=aa48c7b5bd93906f8109303867ff2788" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01F3H4JGK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B01F3H4JGK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

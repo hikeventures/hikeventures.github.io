@@ -74,8 +74,6 @@ Patrick <a href="http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekk
       </table>
 </div>
 <br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 
 <h3 id="example"><a href="http://amzn.to/2fuHUlH" target="_blank" rel="nofollow">Icebreaker Men's Everyday Long Sleeve Crewe Top</a></h3>

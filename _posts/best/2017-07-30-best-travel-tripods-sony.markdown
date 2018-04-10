@@ -75,14 +75,13 @@ Here is my <a href="#table">selection</a> of the best tripods which I would cons
 </table>
 </div>
 <br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
+
 ## Joby Gorillapod Focus GP8
 
 <a rel="nofollow" href="https://www.amazon.com/JOBY-GorillaPod-Focus-Tripod-Camera/dp/B001GCU0MY/ref=as_li_ss_il?ie=UTF8&qid=1521363071&sr=8-1&keywords=Joby+Gorillapod+Focus+GP8&linkCode=li2&tag=hikeve-20&linkId=ecbb0e355f3831770df1c749828fe668" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001GCU0MY&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B001GCU0MY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 1750 grams / 3.86 lbs  
-**Load capacity**: 5 kg / 11 lbs   
+**Weight**: 1750 grams / 3.86 lbs
+**Load capacity**: 5 kg / 11 lbs
 
 The Job GorillaPod Focus with ballhead has been designed for professional SLR cameras and offers flexible and wrapable legs to secure equipment to virtually any surface.
 
@@ -98,12 +97,12 @@ Further, it also includes a permanent 1/4" universal screw and 3/8" adapter scre
 
 <a rel="nofollow" href="https://www.amazon.com/Manfrotto-MKBFRA4D-BH-BeFree-Compact-Aluminum/dp/B00NY8YB78/ref=as_li_ss_il?s=electronics&ie=UTF8&qid=1501355922&sr=1-1&keywords=Manfrotto+MKBFRA4D-BH+BeFree+Compact+Aluminum+Travel+Tripod+(Grey)&linkCode=li3&tag=hikeve-20&linkId=3e5dda90e06d5b4ee894b714ef9a3812" target="_blank"><img alt="Manfrotto BeFree Aluminum" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00NY8YB78&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00NY8YB78" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**weight**: 1400 grams / 3 lbs  
-**load capacity**: 8.8 lbs  
-**maximum height**: 56.7"  
-**min height**: 13.4"  
-**folded length**: 15.75"  
-**leg dections**: 4  
+**weight**: 1400 grams / 3 lbs
+**load capacity**: 8.8 lbs
+**maximum height**: 56.7"
+**min height**: 13.4"
+**folded length**: 15.75"
+**leg dections**: 4
 
 The Manfrotto BeFree Aluminum is my favorite Tripod when traveling. It folds small and offers most of the features you want to see on a tripod. It also comes with a quick release ball head and a QR plate.
 
@@ -115,9 +114,9 @@ The Manfrotto BeFree Aluminum is my favorite Tripod when traveling. It folds sma
 
 <a rel="nofollow" href="https://www.amazon.com/dp/B00GUND8XM/_encoding=UTF8/ref=as_li_ss_il?coliid=IK9P0KHA8897T&colid=1C7Z1SB0CAOEZ&linkCode=li3&tag=hikeve-20&linkId=662b72292fa6677914dec91a7145e56c" target="_blank"><img alt="Manfrotto PIXI Mini" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GUND8XM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00GUND8XM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**weight**: 190 grams / 0.42 lbs  
-**maximum height**: 5.3"  
-**load capacity**: 2.2 lb  
+**weight**: 190 grams / 0.42 lbs
+**maximum height**: 5.3"
+**load capacity**: 2.2 lb
 
 The Manfrotto Pixi Mini comes with a mini ball head with a single knob and a push button for ball head adjustment. Further it has a 1/4"-20 Camera Screw and rubber feet.
 
@@ -129,8 +128,8 @@ The Manfrotto Pixi Mini comes with a mini ball head with a single knob and a pus
 
 <a rel="nofollow" href="https://www.amazon.com/Neewer-centimeters-Portable-Camcorder-kilograms/dp/B072VFQ14N/ref=as_li_ss_il?ie=UTF8&qid=1501388978&sr=8-2&keywords=Neewer+20+inches/50+centimeters+Macro+Mini+Tripod&linkCode=li3&tag=hikeve-20&linkId=499b45ad1203a53598e76c1b3c6b21b5" target="_blank"><img alt="Neewer Carbon Fiber 20 inches" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B072VFQ14N&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B072VFQ14N" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**weight**: 950 grams / 2.1 lbs  
-**minimum height**: 23 cm / 9.1"  
+**weight**: 950 grams / 2.1 lbs
+**minimum height**: 23 cm / 9.1"
 
 Neewer Carbon Fiber 20 inches/50 centimeters is a portable travel desktop mini tripod which could be a perfect choice for macro photography.
 
@@ -146,10 +145,10 @@ It also has a 360 degree dial of swivel ball head with bubble level which provid
 
 <a rel="nofollow" href="https://www.amazon.com/Sirui-3T-35K-Tripod-3T-35-Black/dp/B00NP7G2JI/ref=as_li_ss_il?s=electronics&ie=UTF8&qid=1501390593&sr=1-1&keywords=Sirui+3T-35K+Table+Top+Tripod&linkCode=li3&tag=hikeve-20&linkId=f37b92927ebfbd83186d1218fa685632" target="_blank"><img alt="Sirui 3T-35K Tripod with 3T-35 Ball Head" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00NP7G2JI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00NP7G2JI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**weight**: 431 grams / 0.95 lbs  
-**load capacity**: 4000 grams / 8.8 lbs  
-**min height**: 4.5"  
-**folded length**: 9.5"   
+**weight**: 431 grams / 0.95 lbs
+**load capacity**: 4000 grams / 8.8 lbs
+**min height**: 4.5"
+**folded length**: 9.5"
 
 The Sirui 3T-35K Tripod with 3T-35 Ball Head & Case comes with a removable and extendable center column and an Area-Type compatible ball head.
 
@@ -163,11 +162,11 @@ Further, it also comes with a quick-release plate so you can easily attach and d
 
 <a rel="nofollow" href="https://www.amazon.com/Table-Tripod-2-Section-Black-611-351/dp/B0000C16R5/ref=as_li_ss_il?s=electronics&ie=UTF8&qid=1501356039&sr=1-1&keywords=SLIK+Mini+Pro+III+Table+Top+Tripod,+2-Section,+Max+10%22+Black+(611-351)&linkCode=li3&tag=hikeve-20&linkId=cf7ed3ef805c5ab3c283effdaef53676" target="_blank"><img alt="SLIK Mini Pro III" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0000C16R5&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B0000C16R5" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**weight**: 300 grams / 0.7 lbs  
-**load capacity**: 0.7 lbs   
-**max height**: 10 inches   
-**min height**: 7.9 inches  
-**folded length**: 8.3 inches   
+**weight**: 300 grams / 0.7 lbs
+**load capacity**: 0.7 lbs
+**max height**: 10 inches
+**min height**: 7.9 inches
+**folded length**: 8.3 inches
 
 <a href="http://amzn.to/2uIDsdU" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
@@ -177,11 +176,11 @@ Further, it also comes with a quick-release plate so you can easily attach and d
 
 <a rel="nofollow" href="https://www.amazon.com/COOCHEER-Alluminum-Camcorder-Olympus-Fujifilm/dp/B06XY3KC8F/ref=as_li_ss_il?ie=UTF8&qid=1521004615&sr=8-4&keywords=tripod+sony+a7&linkCode=li2&tag=hikeve-20&linkId=2717229956d4b32bb55141064312a8dc" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06XY3KC8F&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B06XY3KC8F" width="1" height="1" border="0" alt="COOCHEER Alluminum Alloy Camera Tripod" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 1250 grams / 2.76 lbs   
-**Load Capacity**: up to 8.8 lb 4.0 kg    
-**Folded length**: 50 cm / 19.7 in   
-**Maximum Height**: 57.5 in / 146 cm   
-**Minimum Height**: 18.5 in / 47 cm   
+**Weight**: 1250 grams / 2.76 lbs
+**Load Capacity**: up to 8.8 lb 4.0 kg
+**Folded length**: 50 cm / 19.7 in
+**Maximum Height**: 57.5 in / 146 cm
+**Minimum Height**: 18.5 in / 47 cm
 **Leg Sections**: 4
 
 The COOCHEER Alluminum Alloy Camera Tripod is one of the best selling tripods on Amazon which is probably related to the price and the features it offers.
@@ -196,11 +195,11 @@ The tripod is advertised as being smoothly adjustable and having a good damping 
 
 <a rel="nofollow" href="https://www.amazon.com/AmazonBasics-60-Inch-Lightweight-Tripod-Bag/dp/B005KP473Q/ref=as_li_ss_il?s=electronics&ie=UTF8&qid=1521020854&sr=1-3&keywords=AmazonBasics+60-Inch+Lightweight+Tripod&dpID=4146NGVrJzL&preST=_SY300_QL70_&dpSrc=srch&linkCode=li2&tag=hikeve-20&linkId=1902809c62237c085b226489ee633b46" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005KP473Q&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B005KP473Q" width="1" height="1" border="0" alt="AmazonBasics 60-Inch Lightweight Tripod" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 3 lb / 1360 grams   
-**Load Capacity**: 6.6 lb / 3 kg  
-**Maximum Height**: 60 in / 152 cm  
-**Minimum Height**: 25 in / 50 cm  
-**Leg Sections**: 3  
+**Weight**: 3 lb / 1360 grams
+**Load Capacity**: 6.6 lb / 3 kg
+**Maximum Height**: 60 in / 152 cm
+**Minimum Height**: 25 in / 50 cm
+**Leg Sections**: 3
 
 If you are more on a budget then you could have a look at the AmazonBasics 60-Inch Lightweight Tripod. It comes with rubber feet, a quick-release mounting plate and a bag.
 
@@ -212,9 +211,9 @@ If you are more on a budget then you could have a look at the AmazonBasics 60-In
 
 <a rel="nofollow" href="https://www.amazon.com/GorillaPod-Flexible-Ballhead-Mirrorless-Cameras/dp/B002FGTWOC/ref=as_li_ss_il?ie=UTF8&qid=1521010148&sr=8-1&keywords=JOBY+GorillaPod+SLR+Zoom&dpID=41iF6vMbMZL&preST=_SY300_QL70_&dpSrc=srch&linkCode=li2&tag=hikeve-20&linkId=701bc5a5ec9315cbc9538075dbff6dbc" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002FGTWOC&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B002FGTWOC" width="1" height="1" border="0" alt="JOBY GorillaPod SLR Zoom" style="border:none !important; margin:0px !important;" />
 
-**Weight**:  0.53 lb / 241 grams  
-**Load Capacity**: 6.6 lb / 3kg  
-**Maximum Height**:  9.8 in / 24,89 cm  
+**Weight**:  0.53 lb / 241 grams
+**Load Capacity**: 6.6 lb / 3kg
+**Maximum Height**:  9.8 in / 24,89 cm
 
 If you need a flexible mounting solution which packs small and light then the JOBY GorillaPod SLR Zoom could be a solution. If your camera gear weights less than 1 kg you could also consider the <a rel="nofollow" href="http://amzn.to/2FRbPWc">JOBY GorillaPod Hybrid</a>.
 
@@ -228,11 +227,11 @@ The JOBY GorillaPod SLR Zoom comes with rubberized foot grips and a quick releas
 
 <a rel="nofollow" href="https://www.amazon.com/BONFOTO-B690A-Lightweight-Aluminum-Portable/dp/B072NZL11B/ref=as_li_ss_il?ie=UTF8&qid=1521013265&sr=8-14&keywords=tripod&refinements=p_72:2661618011&linkCode=li2&tag=hikeve-20&linkId=dd83aa2cb2dbb443e306465d2165d080" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B072NZL11B&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B072NZL11B" width="1" height="1" border="0" alt="BONFOTO B690A Travel Tripod" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 2.6 lb / 1180 grams  
-**Load Capacity**: 17 lb /  7.7 kg  
-**Maximum Height**: 55 in / 139 cm  
-**Minimum Height**: 14.5 in / 36.8 cm  
-**Leg Sections**: 4  
+**Weight**: 2.6 lb / 1180 grams
+**Load Capacity**: 17 lb /  7.7 kg
+**Maximum Height**: 55 in / 139 cm
+**Minimum Height**: 14.5 in / 36.8 cm
+**Leg Sections**: 4
 
 The BONFOTO B690A Travel Tripod comes with a carry handle, foam grips and a center column hook for hanging additional accessories.
 The tripod is made of lightweight aluminum and could be a good choice for outdoor or travel shooting.  It also comes with a quick release mounting plate with standard 1/4" screw. There is also a secure clip which makes it possible to attach and detach the camera.
@@ -246,11 +245,11 @@ The tripod is made of lightweight aluminum and could be a good choice for outdoo
 
 <a rel="nofollow" href="https://www.amazon.com/MeFOTO-Classic-Aluminum-Globetrotter-Monopod/dp/B00BETIVUC/ref=as_li_ss_il?ie=UTF8&qid=1521014337&sr=8-25&keywords=tripod&refinements=p_72:2661618011&linkCode=li2&tag=hikeve-20&linkId=57c669c6a7c2d9fe0ef6291198411f0b" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BETIVUC&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B00BETIVUC" width="1" height="1" border="0" alt="MeFOTO Classic Aluminum Globetrotter Travel Tripod" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 4.6 lb / 2100 grams   
-**Load Capacity**: 26.4 lb /  12 kg   
-**Maximum Height**: 64.2 in / 163 cm  
-**Minimum Height**: 16.1 in / 41 cm  
-**Leg Sections**: 5   
+**Weight**: 4.6 lb / 2100 grams
+**Load Capacity**: 26.4 lb /  12 kg
+**Maximum Height**: 64.2 in / 163 cm
+**Minimum Height**: 16.1 in / 41 cm
+**Leg Sections**: 5
 
 The MeFOTO Classic Aluminum Globetrotter Travel Tripod comes with a center column hook, an individual head tension and lock knob as well as pan lock help make the right adjustment. The tripod also comes with a precision matched ballhead with an Arca-Swiss style compatible quick release plate and rubberized locking grips and anti-rotation legs. Thre is also a foam grip on the monopod leg which could be useful in very hot or cold environments.
 
@@ -262,10 +261,10 @@ The MeFOTO Classic Aluminum Globetrotter Travel Tripod comes with a center colum
 
 <a rel="nofollow" href="https://www.amazon.com/BONFOTO-B71T-Portable-Tabletop-Release/dp/B071WPJ3ZS/ref=as_li_ss_il?ie=UTF8&qid=1521014559&sr=8-38&keywords=tripod&refinements=p_72:2661618011&linkCode=li2&tag=hikeve-20&linkId=a41abeb32e28a608bae962fe3adef4b5" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B071WPJ3ZS&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B071WPJ3ZS" width="1" height="1" border="0" alt="BONFOTO b71t table tripod" style="border:none !important; margin:0px !important;" />
 
-**Weight**: 1.6 lb / 766 grams  
-**Load Capacity**: 6.6 lb /  3 kg  
-**Maximum Height**: 20.5 in / 52 cm  
-**Minimum Height**: 11.8 in / 30 cm  
+**Weight**: 1.6 lb / 766 grams
+**Load Capacity**: 6.6 lb /  3 kg
+**Maximum Height**: 20.5 in / 52 cm
+**Minimum Height**: 11.8 in / 30 cm
 
 The BONFOTO b71t table tripod is a light and small tripod which you can pack into your backpack. It is made of aluminium and comes with a mini ball head and a carrying bag.
 
