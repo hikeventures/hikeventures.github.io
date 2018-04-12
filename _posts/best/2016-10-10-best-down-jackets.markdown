@@ -85,8 +85,6 @@ Usually, I wear a [fleece jacket](http://www.hikeventures.com/best-fleece-jacket
 
 Moreover, I would rather carry a [synthetic insulated jacket](http://www.hikeventures.com/best-synthetic-insulated-jackets/) with me than a down jacket if I am planning to go hiking in damp or humid conditions as down may not insulate very well once it get’s wet.
 
-Also, have a look at our [FAQ on down jackets](#faq-on-down-jackets).
-
 ---
 
 ## Arc'teryx Ceres SV Parka (850-fill)
@@ -342,20 +340,6 @@ Further, the jacket is also RDS Certified (Responsible Down Standard).
 <a href="http://amzn.to/2xN8VwP" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ---
-
-## FAQ on Down Jackets
-
-* [When to wear?](#when-to-wear)
-* [What is fill power?](#what-is-fill-power)
-* [How to wash?](#how-to-wash)
-* [How to fluff it?](#how-to-fluff)
-* [How to pack and store it?](#how-to-pack-and-store-it)
-* [Down jacket feathers coming out](#down-feathers-are-coming-out)
-* [What is water resistant down?](#what-is-water-resistant-down)
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>
-<br>
 
 ### When to wear?
 Down jackets are best worn when it’s not that humid. I have down jackets for different seasons. A thin down jacket for chilly 3-season trips when I go backpacking and another thicker down jacket when I go for example on a winter trip to Lapland.
