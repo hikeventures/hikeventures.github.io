@@ -1,7 +1,7 @@
 ---
 title: Listen to seagulls and waves in Finland
 description: Listen to seagulls and waves in Finland
-date: 2015-10-09 15:55:01
+date: 2018-94-15 15:55:01
 category: articles
 tags:
   - articles
@@ -11,7 +11,7 @@ tags:
   - sea
   - Finland
 layout: post
-image: https://farm8.staticflickr.com/7392/9596207069_876c019ced_b.jpg
+image: https://farm1.staticflickr.com/884/41432865192_215cf47b40_k.jpg
 ---
 Today, I went with the car to Ruissalo in Turku and recorded the seagulls which recently returned to Finland. The weather was somehow mixed but there was more sun than clouds. Have a look [here](http://www.hikeventures.com/mixpre-3-sennheiser-mke-600-rycote-super-softie-strut-STR-MP3/) if you want to know more about my audio gear.
 
