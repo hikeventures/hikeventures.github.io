@@ -16,7 +16,7 @@ layout: post
 Thermarest shows us the Camper Duo, SV Xtherm,  Max Xtherm,  XLite Max, ProLite Plus at the OutDoor Show 2017 in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/oHUeDLK7tlM"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/oHUeDLK7tlM"></iframe>
 </div>
 <br>
 <!--more-->

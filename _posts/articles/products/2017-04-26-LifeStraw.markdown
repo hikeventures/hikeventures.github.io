@@ -13,7 +13,7 @@ layout: post
 Here is our video where we were interviewing LifeStraw at the ISPO and where we were also able to test the LifeStraw water filter.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/f58qpBLo_U4"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/f58qpBLo_U4"></iframe>
 </div>
 <br>
 <!--more-->

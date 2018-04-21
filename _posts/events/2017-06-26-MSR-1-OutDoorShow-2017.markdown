@@ -16,7 +16,7 @@ layout: post
 Here is our interview with MSR at the OutDoor Show 2017 in Friedrichshafen about their latest products.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/sTRwurbnU7A"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/sTRwurbnU7A"></iframe>
 </div>
 <br>
 <!--more-->

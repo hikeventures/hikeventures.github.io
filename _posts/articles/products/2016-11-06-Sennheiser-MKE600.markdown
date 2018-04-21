@@ -14,7 +14,7 @@ Yesterday, I went with <a href="http:/www.hutkai.fi/">Caj</a> and Katja to Härm
 The Sennheiser KA 600 connected the microphone with the camera. I also had a Rycote Super Softie as a windjammer on my microphone. Between the microphone and the camera I had a Rycote Hot Shoe Extension and a Rycote InVision Video Mic shock mount suspension installed. The low-pass filter on the Sennheiser MKE 600 microphone was switched off. The lens on my camera was a Zeiss Batis 25mm f/2. <a href="http://www.hikeventures.com/children_playing_ice_finland/">Here</a> you can find another example with my Sound Devices MixPre-3.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VFlNWCauFbc"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/VFlNWCauFbc"></iframe>
 </div>
 
 <br>

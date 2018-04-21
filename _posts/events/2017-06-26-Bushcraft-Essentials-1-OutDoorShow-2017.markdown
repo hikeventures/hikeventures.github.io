@@ -16,7 +16,7 @@ layout: post
 Bushcraft Essentials shows us the Fire Piston at the OutDoor Show 2017 in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4oaVpjsM6Kg"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/4oaVpjsM6Kg"></iframe>
 </div>
 <br>
 <!--more-->

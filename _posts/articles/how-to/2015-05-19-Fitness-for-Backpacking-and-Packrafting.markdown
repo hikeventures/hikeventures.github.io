@@ -30,5 +30,5 @@ It's also a good idea to have a GPS watch with you so you can meassure your dist
 
 Here you can read about our [destinations](http://www.hikeventures.com/destinations/) where we go hiking and packrafting and where you should also have a good general fitness to perform those trips.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
 > On our packrafting trip in the Sarek National Park in Sweden. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.

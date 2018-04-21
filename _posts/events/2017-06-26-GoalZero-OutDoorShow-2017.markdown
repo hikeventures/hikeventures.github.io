@@ -16,7 +16,7 @@ layout: post
 GoalZero shows us the Extended Nomad Plus, Lighthouse micro-charge, Flip Ranger and the Venture at the OutDoor Show 2017 in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/GgMxI84Kx90"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/GgMxI84Kx90"></iframe>
 </div>
 <br>
 <!--more-->

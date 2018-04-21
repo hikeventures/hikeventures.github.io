@@ -15,7 +15,7 @@ tags:
 This is Konstantin from HikeVentures.com. Last week we went to Norway and we got a couple of souvenirs for ourselves, like this scarf or like this bush-craft knife.
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/BR-ZcrNsT1k"></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/BR-ZcrNsT1k"></iframe>
 </div>
 <br>
 <!--more-->

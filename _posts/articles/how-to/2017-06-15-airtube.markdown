@@ -11,12 +11,9 @@ tags:
 ---
 Konstantin was wondering how it would be to fly in an air tube. Watch him indoor skydiving for the first time at [City Skydive](https://cityskydive.nl/) in Utrecht (The Netherlands)!
 
-<amp-youtube width="480"
-  height="270"
-  layout="responsive"
-  data-videoid="NY4l2bnEt2s">
-</amp-youtube>
-
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/NY4l2bnEt2s"></iframe>
+</div>
 <br />
 
    <!--more-->

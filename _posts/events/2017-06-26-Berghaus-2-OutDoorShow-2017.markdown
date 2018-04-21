@@ -16,7 +16,7 @@ layout: post
 Berghaus shows us their new GR20 jacket at the OutDoor Show 2017 in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/MxKL461DqZ4"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/MxKL461DqZ4"></iframe>
 </div>
 <br>
 <!--more-->

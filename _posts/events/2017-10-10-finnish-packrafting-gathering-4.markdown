@@ -25,7 +25,7 @@ The next day was a bit rainy and windy, and we paddled down the Mustionjoki (one
 <br>
 Here is also a video:
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1SYlMB8UI9o"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/1SYlMB8UI9o"></iframe>
 </div>
 <br>
 <amp-img src="https://farm5.staticflickr.com/4497/36869225344_37d62ec5a7_k.jpg" layout="responsive" width="2048" height="1225" alt="Finnish Packrafting Gathering 4.0"></amp-img>

@@ -33,7 +33,7 @@ Once we scouted the rapid, we decide if we should paddle through it or not. Some
 ## Step 3: Packraft, Carry or Deflate
 After evaluating the rapid we decide if we should packraft the rapid, carry our packrafts around the critical spots or to deflate our packrafts if we have to carry them for a longer time.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
 > Our packrafting trip in the Sarek National Park in Sweden. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
 

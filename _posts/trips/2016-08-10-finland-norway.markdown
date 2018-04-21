@@ -14,7 +14,7 @@ tags:
 Here comes a short video about our Hiking and Packrafting adventure together with [Caj](http://caide.kuvat.fi/) and Katja in Finnish Lapland and Northern Norway.
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/A8czL0fCbxo"></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtub-nocookie.com/embed/A8czL0fCbxo"></iframe>
 </div>
 
 **Trip Reports:**   

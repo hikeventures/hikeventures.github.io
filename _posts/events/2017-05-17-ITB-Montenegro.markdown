@@ -15,7 +15,7 @@ layout: post
 On our visit at the ITB in Berlin we had a chance to talk with Dr. Thomas Wöhrstein from the National Parks of Montenegro about Outdoor activities in Montenegro.
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/40RQSihDnYU"></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/40RQSihDnYU"></iframe>
 
 </div>
 <br>

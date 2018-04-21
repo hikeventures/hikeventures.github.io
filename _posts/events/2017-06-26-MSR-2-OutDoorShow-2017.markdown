@@ -16,7 +16,7 @@ layout: post
 MSR shows us the Pocket Rocket 2 at the OutDoor Show 2017 in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/O0G775InS5Y"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/O0G775InS5Y"></iframe>
 </div>
 <br>
 <!--more-->

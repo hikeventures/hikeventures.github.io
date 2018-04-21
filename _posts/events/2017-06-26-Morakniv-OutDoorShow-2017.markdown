@@ -16,7 +16,7 @@ layout: post
 Morakniv shows us the Rookie and Eldris at the OutDoor Show 2017 in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/C4QK6PrMxIA"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/C4QK6PrMxIA"></iframe>
 </div>
 <br>
 <!--more-->

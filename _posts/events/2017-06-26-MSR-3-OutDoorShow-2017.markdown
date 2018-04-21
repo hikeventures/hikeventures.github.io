@@ -16,7 +16,7 @@ layout: post
 MSR shows us the Trail Mini Solo at the OutDoor Show 2017 in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/lMLczwm8r8g"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/lMLczwm8r8g"></iframe>
 </div>
 <br>
 <!--more-->

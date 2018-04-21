@@ -16,7 +16,7 @@ layout: post
 Wildo shows us the  Fold-A-Cup at the OutDoor Show 2017 in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/43Yt4uvTq2k"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/43Yt4uvTq2k"></iframe>
 </div>
 <br>
 <!--more-->

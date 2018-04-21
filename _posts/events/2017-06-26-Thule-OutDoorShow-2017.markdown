@@ -16,7 +16,7 @@ layout: post
 The Thule AllTrail and Stir at the OutDoor Show 2017 in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2zc7RJoZo6A"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/2zc7RJoZo6A"></iframe>
 </div>
 <br>
 <!--more-->

@@ -16,7 +16,7 @@ layout: post
 Here is our interview with Western Mountaineering at the OutDoor Show 2017 in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/fasjt93jXmg"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/fasjt93jXmg"></iframe>
 </div>
 <br>
 <!--more-->

@@ -16,7 +16,7 @@ layout: post
 NRS shows us their expedition duffel at the OutDoor Show 2017 in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/8tvWkpQWKXw"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/8tvWkpQWKXw"></iframe>
 </div>
 <br>
 <!--more-->

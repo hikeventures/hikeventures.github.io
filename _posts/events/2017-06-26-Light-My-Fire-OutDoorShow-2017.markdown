@@ -16,7 +16,7 @@ layout: post
 Light My Fire shows us the Dining Kit and Black Pearl Camp Kit at the OutDoor Show 2017 in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/v8mFsl8mYgQ"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/v8mFsl8mYgQ"></iframe>
 </div>
 <br>
 <!--more-->

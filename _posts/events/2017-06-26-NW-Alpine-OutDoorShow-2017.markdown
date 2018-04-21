@@ -16,7 +16,7 @@ layout: post
 NW Alpine shows us their Eyebright jacket at the OutDoor Show 2017 in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/aS9_xVzeOGE"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/aS9_xVzeOGE"></iframe>
 </div>
 <br>
 <!--more-->

@@ -16,7 +16,7 @@ layout: post
 Bushcraft Essentials shows us the Bushbox XL at the OutDoor Show 2017 in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rgYfBKtylVs"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/rgYfBKtylVs"></iframe>
 </div>
 <br>
 <!--more-->

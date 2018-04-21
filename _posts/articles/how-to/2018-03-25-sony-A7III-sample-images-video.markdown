@@ -57,7 +57,7 @@ One more word to the wind jammer. I found the Rycote Super-Softie wind jammer th
 Finally, there is the <a href="https://amzn.to/2G9eXxA" rel="nofollow">Rode Newsshooter Kit</a> which allows me to connect my microphone wirelessly to my Sound Devices PreMix-3 audio recorder.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/tcCkV0xDnrI"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/tcCkV0xDnrI"></iframe>
 </div>
 So, would I recommend the <a href="https://amzn.to/2DQG8ap">Sony A7III</a>? Definitely, especially if you are coming from the good old Sony A7 MK I.
 

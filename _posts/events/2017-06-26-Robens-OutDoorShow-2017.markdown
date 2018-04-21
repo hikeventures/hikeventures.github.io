@@ -16,7 +16,7 @@ layout: post
 Robens shows us their award winning Couloir 750 sleeping bag at the OutDoor Show 2017 in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/DcE9B8u9nps"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/DcE9B8u9nps"></iframe>
 </div>
 <br>
 <!--more-->

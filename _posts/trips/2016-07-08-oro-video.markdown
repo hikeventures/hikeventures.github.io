@@ -14,5 +14,5 @@ tags:
 Last month we have visited the Fortress Island of Örö in the Finnish Archipelago. Once a military island, Örö is now a beautiful destination where you can enjoy a gorgeous view towards the baltic sea while learning about the history of the island on one if it's trails. [Here](http://www.hikeventures.com/Oro/) you can see more pictures and our trip report from Örö.
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6JQMkmEwTRo?rel=0"></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/6JQMkmEwTRo?rel=0"></iframe>
 </div>
