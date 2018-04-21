@@ -11,7 +11,8 @@ tags:
 image: https://c3.staticflickr.com/1/122/30750594194_cf4f4aba81_k.jpg
 ---
 
-A view days ago we received our new winter boots from Lundhags for testing - the Lundhags Skare boots - which we will take with us to Norway in January. We have spotted those new winter boots from Lundhags this year at the ISPO in Munich and immediately fell in love with them. [Here](https://www.youtube.com/watch?v=ZeTPbkozsqU "Lundhags Skare Boots") you can also find a video where we interviewed the Marketing Manager from Lundhags. The Skare boot also won the Scandinavian Outdoor Award 2016. We are already wearing the [Lundhags Jaure Light High](http://www.hikeventures.com/Lundhags-Jaure-Light/) during the warmer months so we were quite excited to try the new Skare boots.
+A view days ago we received our new winter boots from Lundhags for testing - the Lundhags Skare boots - which we will take with us to Norway in January. We have spotted those new winter boots from Lundhags this year at the ISPO in Munich and immediately fell in love with them. [Here](https://www.youtube-nocookie.com/watch?v=ZeTPbkozsqU "Lundhags Skare Boots") you can also find a video where we interviewed the Marketing Manager from Lundhags. The Skare boot also won the Scandinavian Outdoor Award 2016. We are already wearing the [Lundhags Jaure Light High](http://www.hikeventures.com/Lundhags-Jaure-Light/) during the warmer months so we were quite excited to try the new Skare boots.
+
 
 <amp-img src="https://c3.staticflickr.com/1/122/30750594194_cf4f4aba81_k.jpg" width="2048" height="1152" alt="Lundhags Skare Boot Review" layout="responsive"></amp-img>
 <br>

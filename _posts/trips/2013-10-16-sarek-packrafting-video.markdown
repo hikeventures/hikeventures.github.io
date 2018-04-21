@@ -12,6 +12,4 @@ layout: post
 ---
 Finally, we had some time to get our Sarek video done as promised in our previous <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_blank">sarek post</a>. Hope you enjoy!
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/76995626"></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7c0tlmtpsps" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

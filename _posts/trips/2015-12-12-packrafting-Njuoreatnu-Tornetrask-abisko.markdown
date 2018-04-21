@@ -82,9 +82,6 @@ Konstantin presenting some of the gear we decided to take on our packrafting tri
 
 <br>And then it was time to say good night and jump into our sleeping bags. At around 1 am we finally fell asleep. In general, it was a great first day paddling on the Njuoreatnu river. There could have been more sunshine but then camping on an island is fun too. <br><br>
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/136897042"></iframe>
-</div>
 <br>
 <a href="http://www.movescount.com/moves/move72299409">Here</a> you can find the GPS data of day 1 from our packrafting trip on the Njuoreatnu river.
 

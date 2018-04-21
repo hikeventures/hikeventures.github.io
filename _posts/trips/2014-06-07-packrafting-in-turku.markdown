@@ -32,6 +32,6 @@ Today, I packed my packraft and went to the coast of Turku in order to exercise 
 <a href="https://www.flickr.com/photos/90204224@N07/14366338472/" title="Clouds Island Turku"><img src="https://farm4.staticflickr.com/3870/14366338472_de190f0d34_b.jpg" width="1024" height="683" alt="Clouds Island Turku"></a><br>This island was full of seagulls and they became quite nervous the closer I paddled to the island.<br><br>
 <a href="https://www.flickr.com/photos/90204224@N07/14181543329/" title="Birds Island in Turku"><img src="https://farm4.staticflickr.com/3913/14181543329_eeee07ab0a_b.jpg" width="1024" height="683" alt="Birds Island in Turku"></a><br>
 <a href="https://www.flickr.com/photos/90204224@N07/14388221823/" title="Reed - Baltic Sea"><img src="https://farm4.staticflickr.com/3924/14388221823_0ac09aa5d0_b.jpg" width="1024" height="683" alt="Reed - Baltic Sea"></a><br>Reed is growing almost everywhere.<br><br><a href="https://www.flickr.com/photos/90204224@N07/14367191774/" title="Turku Sea"><img src="https://farm6.staticflickr.com/5476/14367191774_19c8dfc164_b.jpg" width="1024" height="683" alt="Turku Sea"></a><br>This sign seems to be a popular place for birds...until I paddled closer.<br><br>
-<iframe src="https://vimeo.com/139116823" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe><br><br>And a short video ...
+
 ##Links
 <a href="http://www.movescount.com/moves/move33230408" target="_blank">GPS Data</a>
