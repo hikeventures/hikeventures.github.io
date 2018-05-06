@@ -54,8 +54,6 @@ Here are a few impressions from the event. We are also working on a video where 
 <br>
 <amp-img src="https://farm1.staticflickr.com/956/41856545552_aad88c1b82_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
 <br>
-<amp-img src="https://flic.kr/p/HbD8Q4][img]https://farm1.staticflickr.com/823/27031037927_39821a8c65_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
-<br>
 <amp-img src="https://farm1.staticflickr.com/863/41856541582_fdfe1ddbee_z.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
 <br>
 <amp-img src="https://farm1.staticflickr.com/872/27031035557_c6a576c5d3_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
