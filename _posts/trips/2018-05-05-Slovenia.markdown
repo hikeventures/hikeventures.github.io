@@ -1,7 +1,7 @@
 ---
 title: European Packrafting Meetup 2018 in Slovenia
 description: Packrafting in Slovenia  
-date: 2018-05-04 12:14:01
+date: 2018-06-04 12:14:01
 category: destinations
 tags:
   - articles
@@ -9,9 +9,9 @@ tags:
   - slovenia
   - packrafting
 layout: post
-published: false
 image: https://farm1.staticflickr.com/955/41899745261_f291a507df_k.jpg
 ---
+Last week we returned from the European Packrafting Meetup 2018 in Slovenia with 53 participants from all over Europe, Australia and New Zealand. Here are a few impressions from the event. We are also working on a video where we interviewed a view participants during the event. So stay tuned.
 
 <amp-img src="https://farm1.staticflickr.com/955/41899745261_f291a507df_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
 <br>
