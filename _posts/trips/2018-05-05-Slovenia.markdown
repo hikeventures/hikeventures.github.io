@@ -11,7 +11,9 @@ tags:
 layout: post
 image: https://farm1.staticflickr.com/955/41899745261_f291a507df_k.jpg
 ---
-Last week we returned from the European Packrafting Meetup 2018 in Slovenia with 53 participants from all over Europe, Australia and New Zealand. Here are a few impressions from the event. We are also working on a video where we interviewed a view participants during the event. So stay tuned.
+Last week we returned from the European Packrafting Meetup 2018 in Slovenia with over 50 participants from all over Europe, Australia and New Zealand.
+
+Here are a few impressions from the event. We are also working on a video where we interviewed a view participants during the event. So stay tuned.
 
 <amp-img src="https://farm1.staticflickr.com/955/41899745261_f291a507df_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
 <br>
