@@ -571,7 +571,7 @@ footer: false
            <a class="thumbnail" href="http://www.hikeventures.com/Slovenia/" style="color: #FFF; border: 0px;">
            <div class="thumbnail text-center">
            <img src="https://farm1.staticflickr.com/954/40126420770_8f3be467df_z.jpg" alt="" class="img-responsive">
-           <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Soca</p>
+           <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Soča river</p>
            </div></div></a></div></div>
 
 </div>
