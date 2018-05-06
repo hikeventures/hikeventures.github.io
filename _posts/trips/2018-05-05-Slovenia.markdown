@@ -20,15 +20,15 @@ Here are a few impressions from the event. We are also working on a video where 
 
 <!--more-->
 
-<amp-img src="https://farm1.staticflickr.com/826/41899740001_6088f7e6c5_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<amp-img src="https://farm1.staticflickr.com/826/41899740001_6088f7e6c5_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia - Soča River"></amp-img>
 <br>
-<amp-img src="https://farm1.staticflickr.com/957/41899742101_0337f30b52_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<amp-img src="https://farm1.staticflickr.com/957/41899742101_0337f30b52_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia Soča River"></amp-img>
 <br>
-<amp-img src="https://farm1.staticflickr.com/946/41856567312_ec4d7915a4_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<amp-img src="https://farm1.staticflickr.com/946/41856567312_ec4d7915a4_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia Soča river"></amp-img>
 <br>
-<amp-img src="https://farm1.staticflickr.com/831/41856564672_c88255008d_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<amp-img src="https://farm1.staticflickr.com/831/41856564672_c88255008d_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia Soča river"></amp-img>
 <br>
-<amp-img src="https://farm1.staticflickr.com/978/41899732201_96bf093f7d_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<amp-img src="https://farm1.staticflickr.com/978/41899732201_96bf093f7d_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia Soča river"></amp-img>
 <br>
 <amp-img src="https://farm1.staticflickr.com/948/41899730371_7e0c704343_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
 <br>
