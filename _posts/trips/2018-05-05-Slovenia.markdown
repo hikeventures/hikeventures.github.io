@@ -1,7 +1,7 @@
 ---
 title: European Packrafting Meetup 2018 in Slovenia
 description: Packrafting in Slovenia  
-date: 2018-05-06 12:14:01
+date: 2018-06-05 12:14:01
 category: destinations
 tags:
   - articles
