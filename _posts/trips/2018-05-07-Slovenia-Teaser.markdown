@@ -16,3 +16,5 @@ A short teaser about our upcoming video about the European Packrafting Meetup 20
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/JC03Ry5zLSE"></iframe>
 </div>
+<br>
+<!--more-->
