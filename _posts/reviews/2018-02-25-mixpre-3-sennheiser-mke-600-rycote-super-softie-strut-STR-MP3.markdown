@@ -17,7 +17,7 @@ image: https://farm5.staticflickr.com/4757/39766771144_fe0207826d_k.jpg
 
 In this blog post I would like to introduce you to my mobile audio recording equipment - the <a href="http://amzn.to/2BPlHgO" rel="nofollow">Sound Devices MixPre-3</a>, <a href="http://amzn.to/2FthLSA" rel="nofollow">
 Sennheiser MKE 600</a>, <a href="http://amzn.to/2EPLurN" rel="nofollow">
-Rycote Super Softie</a> and the <a rel="nofollow"  href="https://www.bhphotovideo.com/c/product/1345021-REG/strut_str_mp3_custom_fit_field_case.html/BI/19674/KBID/12320/kw/STRMP3/DFF/d10-v2-t1-xSTRMP3" target="_blank">Strut STR-MP3</a>. I am not an professional when it comes to audio but just started with it as a hobby. There is also a [MixPre-3 preset](http://cdn.sounddevices.com/download/guides/MixPreSeries-SonyA7SR.pdf) available in case you want to syncronize your camera with the Timecode of the MixPre-3. 
+Rycote Super Softie</a> and the <a rel="nofollow"  href="https://www.bhphotovideo.com/c/product/1345021-REG/strut_str_mp3_custom_fit_field_case.html/BI/19674/KBID/12320/kw/STRMP3/DFF/d10-v2-t1-xSTRMP3" target="_blank">Strut STR-MP3</a>. I am not an professional when it comes to audio but just started with it as a hobby. There is also a [MixPre-3 preset](http://cdn.sounddevices.com/download/guides/MixPreSeries-SonyA7SR.pdf) available in case you want to syncronize your camera with the Timecode of the MixPre-3.
 
 I would also be interested to record stereo sound in the future with 2 dedicated Microphones like the <a href="http://amzn.to/2EPwc6G">Audio-Technica AT4022 Omnidirectional Condenser Microphone</a> on an Olson Wing array or even the <a rel="nofollow" href="http://amzn.to/2CJpVmU">Sennheiser Ambeo VR mic</a>.
 
@@ -52,5 +52,3 @@ Here you can see the Sennheiser MKE 600 mounted on my <a rel="nofollow" href="ht
 The SLIK tripod is one of my favorite tripods as it packs small and can carry small and big cameras as well as microphones. I also use it at home on my desk with the MixPre-3 mounted on it.
 
 <a href="http://www.hikeventures.com/children_playing_ice_finland/">Here</a> you can listen to an audio sample which I have recorded in Finland.
-
-This blog post contains affiliate links which helps us to keep this blog running.
