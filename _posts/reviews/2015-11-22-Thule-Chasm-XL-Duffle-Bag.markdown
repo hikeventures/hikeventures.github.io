@@ -74,4 +74,10 @@ To conclude, based on my experience so far, the Thule Chasm XL is a great, spaci
 
 However, if packed reasonably, or with light bulky stuff, then it is great for air travel too. And if you remember that it is multi-colored, you will be able to enjoy it for many years to come (well, at least for guaranteed 25).
 
-<a href="http://amzn.to/2uYdz85" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/41858771712/in/datetaken-public/" title="Thule Chasm Duffle Bag"><img src="https://farm1.staticflickr.com/962/41858771712_bd5383eed3_k.jpg" width="2048" height="1365" alt="Thule Chasm Duffle Bag"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/40425595450/in/datetaken-public/" title="Thule Chasm Duffel Bag"><img src="https://farm1.staticflickr.com/823/40425595450_2bf6ab94c8_k.jpg" width="2048" height="1365" alt="Thule Chasm Duffel Bag"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28359936078/in/datetaken-public/" title="Thule Chasm Duffel Bag"><img src="https://farm1.staticflickr.com/978/28359936078_51f42e633c_k.jpg" width="2048" height="1365" alt="Thule Chasm Duffel Bag"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/40425592470/in/datetaken-public/" title="Thule Chasm Duffel Bag"><img src="https://farm1.staticflickr.com/975/40425592470_7997bd4519_k.jpg" width="2048" height="1365" alt="Thule Chasm Duffel Bag"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
