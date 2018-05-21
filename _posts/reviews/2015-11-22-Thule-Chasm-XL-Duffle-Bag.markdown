@@ -87,3 +87,5 @@ The duffle bag is not that light with 2.3 kg. However, it seems to be quite bomb
 Personally, I use the duffel bag to load all my gear when I am planning to travel by airplane. The duffle bag also fold quite small. Also the inner mesh pockets are great to keep smaller gear organized. I also liked that I can carry the duffel bag as a backpack.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/40425592470/in/datetaken-public/" title="Thule Chasm Duffel Bag"><img src="https://farm1.staticflickr.com/975/40425592470_7997bd4519_k.jpg" width="2048" height="1365" alt="Thule Chasm Duffel Bag"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+The Thule Chasm 130l duffel bag also folds quite small -  about the same size as a folded packraft.
