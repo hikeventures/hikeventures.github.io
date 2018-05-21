@@ -13,7 +13,7 @@ image: https://farm1.staticflickr.com/910/41541292474_20eca39861_h.jpg
 ---
 Today, I packed my packraft at 6pm and went paddling in the Turku Archipelago. As I am already living on an island I just had to jump into my car and drive a few kilometers to Eerikvalla where the sea around Turku looks more like a sea and with plenty of opportunities to explore small islands.
 
-Most of the small islands are inhabitated by birds and it can smell quite awful once you get closer to such a bird island. However, you can also find interesting things on such birds islands such as fish bones.
+Most of the small islands are inhabitated by birds and it can smell quite awful once you get closer to such a bird island. However, you can also find there interesting things such as fish bones.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/41541292474/in/datetaken-public/" title="Turku Archipelago"><img src="https://farm1.staticflickr.com/910/41541292474_20eca39861_h.jpg" width="1600" height="1069" alt="Turku Archipelago"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <br>
