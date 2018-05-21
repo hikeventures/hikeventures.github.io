@@ -26,8 +26,6 @@ Most of the small islands are inhabitated by birds and it can smell quite awful 
 <br>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/41541294034/in/datetaken-public/" title="Turku Archipelago"><img src="https://farm1.staticflickr.com/908/41541294034_f625441df2_h.jpg" width="1600" height="1069" alt="Turku Archipelago"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <br>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/41361215315/in/datetaken-public/" title="Turku Archipelago"><img src="https://farm1.staticflickr.com/950/41361215315_9d390bbbb0_h.jpg" width="1600" height="1069" alt="Turku Archipelago"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<br>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/41361215675/in/datetaken-public/" title="Turku Archipelago"><img src="https://farm1.staticflickr.com/979/41361215675_7d237cba25_h.jpg" width="1600" height="1069" alt="Turku Archipelago"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <br>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/41541295254/in/datetaken-public/" title="Turku Archipelago"><img src="https://farm1.staticflickr.com/909/41541295254_955bb2d9bc_h.jpg" width="1600" height="1069" alt="Turku Archipelago"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
