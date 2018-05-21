@@ -43,3 +43,9 @@ Most of the small islands are inhabitated by birds and it can smell quite awful 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/41361217655/in/datetaken-public/" title="Turku Archipelago"><img src="https://farm1.staticflickr.com/911/41361217655_123c0b40a8_h.jpg" width="1600" height="1069" alt="Turku Archipelago"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <br>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/41361217005/in/datetaken-public/" title="Turku Archipelago"><img src="https://farm1.staticflickr.com/908/41361217005_26e468ed13_h.jpg" width="1600" height="1069" alt="Turku Archipelago"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<br>
+Here you can find more trips which I have done in the Turku Archipelago:
+- [The Archipelago National Park Trail](http://www.hikeventures.com/archipelago-national-park/)
+- [Cycling the 250 km Turku Archipelago Trail](http://www.hikeventures.com/archipelago-trail/)
+- [Turku Winter Wonderland at the Archipelago sea](http://www.hikeventures.com/Turku-Winter-Wonderland-archipelago-sea/)
+- [Four seasons of Packrafting in the Archipelago Sea](http://www.hikeventures.com/Paddling-the-Archipelago-Sea/)
