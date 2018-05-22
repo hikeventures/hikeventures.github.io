@@ -49,3 +49,7 @@ Here you can find more trips which I have done in the Turku Archipelago:
 - [Cycling the 250 km Turku Archipelago Trail](http://www.hikeventures.com/archipelago-trail/)
 - [Turku Winter Wonderland at the Archipelago sea](http://www.hikeventures.com/Turku-Winter-Wonderland-archipelago-sea/)
 - [Four seasons of Packrafting in the Archipelago Sea](http://www.hikeventures.com/Paddling-the-Archipelago-Sea/)
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/bMlNeRUj2t8"></iframe>
+</div>
