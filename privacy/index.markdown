@@ -22,7 +22,7 @@ Patrick Dormischian<br>
 Ravaksenkatu 31 C 6<br>
 20900 Turku<br>
 Finland<br>
-<br><
+<br>
 email: contact@hikeventures.com<br>
 phone: +358 50 572 84 89
 
