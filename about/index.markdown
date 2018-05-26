@@ -87,6 +87,10 @@ published: true
 			<p>On our blog we are reviewing outdoor gear which we receive from well known outdoor brands. <a href="http://www.hikeventures.com/Thule-Chasm-XL-Duffle-Bag/">Here</a> is an example of a more detailed review which we wrote for a company. Feel free to <a href="http://www.hikeventures.com/about/#contact">contact us</a> if you want us to test one of your products on our trips. Please note that we will express our own opinion on your products in our reviews.</p>
 			<p class="bigimage"><amp-img src="https://farm6.staticflickr.com/5683/21885051180_963c46af51_b.jpg" width="1000" height="363" layout="responsive" alt="Packrafting in Abisko, Sweden" /></amp-img></p>
 
+
+<h4>Privacy Policy</h4>
+Our Privacy Policy can be found [here](http://www.hikeventures.com/privacy/).
+
 			<h4>Affiliate Links</h4>
 			<p>On some of our pages you will find affiliate links. HikeVentures is a participant in AvantLink and the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. Affiliate links help us to keep this blog going and to finance some of our trips and gear.</p>
 			<h4>Disclaimer</h4>
