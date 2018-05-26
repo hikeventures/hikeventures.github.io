@@ -9,20 +9,20 @@ footer: false
 
 ## Introduction
 With the introduction of GDPR we would like to give you an overview on how we collect data on HikeVentures.com. Feel free to contact us at contact@hikeventures.com if you have any questions.
-   
+
 ## Who we are?
 Data controller of HikeVentures.com are:
-
+<br>
 Konstantin Gridnevsky<br>
 Mondriaanstraat 94<br>
 8918 DH Leeuwarden<br>
 The Netherlands<br>
-<br><br>
+<br>
 Patrick Dormischian<br>
 Ravaksenkatu 31 C 6<br>
 20900 Turku<br>
 Finland<br>
-<br><br>
+<br><
 email: contact@hikeventures.com<br>
 phone: +358 50 572 84 89
 
