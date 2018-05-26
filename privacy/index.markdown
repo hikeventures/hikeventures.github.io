@@ -1,21 +1,36 @@
 ---
 layout: page
-title: Privacy & Cookies
+title: Privacy
 date: 2012-11-25 17:43
 comments: false
 sharing: false
 footer: false
 ---
-<h2 id="cookies">Cookies</h2>
-To make this site work properly, we sometimes place small data files called cookies on your device. Most big websites do this too.
 
-## What are cookies?
-A cookie is a small text file that a website saves on your computer or mobile device when you visit the site. It enables the website to remember your actions and preferences (such as login, language, font size and other display preferences) over a period of time, so you don’t have to keep re-entering them whenever you come back to the site or browse from one page to another.
+## Introduction
+With the introduction of GDPR we would like to give you an overview on how we collect data on HikeVentures.com. Feel free to contact us at contact@hikeventures.com if you have any questions.
 
-## How do we use cookies?
-We share information about your use of our site with our social media, advertising and analytics partners. More infos on data usage by:
+## Who we are?
+Data controller of HikeVentures.com are:
 
-<a href="http://www.google.com/intl/en/policies/privacy/partners/">Google Cookies 1</a> and <a href="http://www.google.com/intl/en/policies/privacy/partners/">Google Cookies 2</a>, <a  href="http://www.google.com/intl/en/policies/privacy/partners/">Vimeo cookies</a>, <a href="http://www.google.com/intl/en/policies/privacy/partners/">Youtube cookies</a>, <a  href="https://twitter.com/privacy?lang=en">Twitter</a>
+Konstantin Gridnevsky
+Mondriaanstraat 94
+8918 DH Leeuwarden
+The Netherlands
 
-## How to control cookies
-You can control and/or delete cookies as you wish – for details, see aboutcookies.org. You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.
+Patrick Dormischian
+Ravaksenkatu 31 C 6
+20900 Turku
+Finland
+
+email: contact@hikeventures.com
+phone: +358 50 572 84 89
+
+## What information do we collect?
+We do currently not collect specific information which we are aware of. We are using third party services on our website and their privacy policies can be found here from [Gandi](https://www.gandi.net/en/contracts/terms-of-service), [GitHub](https://help.github.com/articles/github-privacy-statement/) or [Cloudflare](https://www.cloudflare.com/privacypolicy/) and [flickr](https://www.smugmug.com/about/privacy-flickr) which may collect data about users visiting our site:
+
+We take pictures and videos and publish them on our blog and social media such as YouTube, Instagram, Twitter or Facebook. Pictures, videos and text are used to offer content on our blog and social media websites.
+If you wish to have a picture removed where you can identify yourself please contact us at contact@hikeventures.com.
+
+## Affiliate Marketing
+On some of our pages you will find affiliate links. HikeVentures is a participant in [AvantLink](https://www.avantlink.com/privacy) and the [Amazon Services LLC Associates Program](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496), an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. Affiliate links help us to keep this blog going and to finance some of our trips and gear.
