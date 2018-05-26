@@ -89,7 +89,7 @@ published: true
 
 
 <h4>Privacy Policy</h4>
-Our Privacy Policy can be found [here](http://www.hikeventures.com/privacy/).
+Our Privacy Policy can be found <a href="http://www.hikeventures.com/privacy/">here</a>.
 
 			<h4>Affiliate Links</h4>
 			<p>On some of our pages you will find affiliate links. HikeVentures is a participant in AvantLink and the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. Affiliate links help us to keep this blog going and to finance some of our trips and gear.</p>
