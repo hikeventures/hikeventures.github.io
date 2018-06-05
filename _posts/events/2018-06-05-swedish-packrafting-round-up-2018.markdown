@@ -73,4 +73,4 @@ Last weekend we visited again the Voxnan river in Sweden to participate in the S
 <amp-img src="https://farm2.staticflickr.com/1730/28689045348_e6d5f2114d_h.jpg" width="1600" height="1069" layout="responsive" alt="Swedish Packrafting Round-Up 2018"></amp-img>
 <br>
 
-Here you can see more pictures from the Swedish Packraft Round-Up [2017](http://www.hikeventures.com/swedish-packrafting-round-up-2017/) and [2016](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/).
+Here you can see more pictures from the Swedish Packraft Round-Up [2016](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/) and [2017](http://www.hikeventures.com/swedish-packrafting-round-up-2017/).
