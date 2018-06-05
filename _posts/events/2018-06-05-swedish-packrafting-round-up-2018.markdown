@@ -122,6 +122,18 @@ Last weekend we visited again the Voxnan river in Sweden to participate in the S
 <br>
 
 
+<amp-img src="https://farm2.staticflickr.com/1728/42562640591_0ea7b86fdf_h.jpg" width="1600" height="1069" layout="responsive" alt="Swedish Packrafting Round-Up 2018"></amp-img>
+<br>
+
+
+<amp-img src="https://farm2.staticflickr.com/1726/28689059148_120d997960_h.jpg" width="1600" height="1069" layout="responsive" alt="Swedish Packrafting Round-Up 2018"></amp-img>
+<br>
+
+
+
+
+<amp-img src="https://farm2.staticflickr.com/1726/28689058738_e8e60286fa_h.jpg" width="1600" height="1069" layout="responsive" alt="Swedish Packrafting Round-Up 2018"></amp-img>
+<br>
 
 
 
