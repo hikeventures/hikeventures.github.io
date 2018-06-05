@@ -88,6 +88,44 @@ Last weekend we visited again the Voxnan river in Sweden to participate in the S
 
 
 
+<amp-img src="https://farm2.staticflickr.com/1756/41661321925_3f02f12dd1_h.jpg" width="1600" height="1069" layout="responsive" alt="Swedish Packrafting Round-Up 2018"></amp-img>
+<br>
+
+
+
+
+<amp-img src="https://farm2.staticflickr.com/1726/42562643941_a861ae79e7_h.jpg" width="1600" height="1069" layout="responsive" alt="Swedish Packrafting Round-Up 2018"></amp-img>
+<br>
+
+
+
+<amp-img src="https://farm2.staticflickr.com/1725/42562642311_d556f87aa2_h.jpg" width="1600" height="1069" layout="responsive" alt="Swedish Packrafting Round-Up 2018"></amp-img>
+<br>
+
+
+
+<amp-img src="https://farm2.staticflickr.com/1723/42562641931_3b7e275de2_h.jpg" width="1600" height="1069" layout="responsive" alt="Swedish Packrafting Round-Up 2018"></amp-img>
+<br>
+
+
+
+
+<amp-img src="https://farm2.staticflickr.com/1741/28689060188_6607900c11_h.jpg" width="1600" height="1069" layout="responsive" alt="Swedish Packrafting Round-Up 2018"></amp-img>
+<br>
+
+
+
+
+
+
+<amp-img src="https://farm2.staticflickr.com/1721/42562640921_87a364375c_h.jpg" width="1600" height="1069" layout="responsive" alt="Swedish Packrafting Round-Up 2018"></amp-img>
+<br>
+
+
+
+
+
+
 <amp-img src="https://farm2.staticflickr.com/1726/40754491690_778c1eba48_h.jpg" width="1600" height="1069" layout="responsive" alt="Swedish Packrafting Round-Up 2018"></amp-img>
 
 <br>
