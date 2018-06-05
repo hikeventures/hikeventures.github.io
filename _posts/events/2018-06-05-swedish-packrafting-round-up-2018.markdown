@@ -4,7 +4,7 @@ title: The Swedish Packrafting Round-Up 2018
 description: Swedish Packrafting Round-Up
 date: 2018-06-05 07:30:00
 category: article
-image: https://c1.staticflickr.com/5/4160/34332806671_78ebe03636_k.jpg
+image: https://farm2.staticflickr.com/1726/40754494180_9b9a83140b_h.jpg
 tags:
   - Sweden
   - packrafting
@@ -20,6 +20,10 @@ Last weekend we visited again the Voxnan river in Sweden to participate in the S
 
 <br>
 <amp-img src="https://farm2.staticflickr.com/1745/41661296815_e4d389181d_h.jpg" width="1600" height="1069" layout="responsive" alt="Swedish Packrafting Round-Up 2018"></amp-img>
+
+<br>
+<amp-img src="https://farm2.staticflickr.com/1752/41675404925_a5ebf50f32_k.jpg" width="1600" height="1069" layout="responsive" alt="Swedish Packrafting Round-Up 2018"></amp-img>
+
 
 <br>
 <amp-img src="https://farm2.staticflickr.com/1751/42562629711_0182ff141e_h.jpg" width="1600" height="1069" layout="responsive" alt="Swedish Packrafting Round-Up 2018"></amp-img>
