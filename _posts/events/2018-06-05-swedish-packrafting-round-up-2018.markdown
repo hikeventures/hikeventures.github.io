@@ -228,7 +228,7 @@ Last weekend we visited again the Voxnan river in Sweden to participate in the S
 <br>
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://youtu.be/dKeKaag9_uY"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dKeKaag9_uY"></iframe>
 </div>
 
 Here you can see more pictures from the Swedish Packraft Round-Up [2016](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/) and [2017](http://www.hikeventures.com/swedish-packrafting-round-up-2017/).
