@@ -64,7 +64,5 @@ There is also a whistle on the Gear-Pack.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28855670498/in/datetaken-public/" title="Ortlieb Gear-Pack 40L"><img src="https://farm2.staticflickr.com/1747/28855670498_53c72daa61_h.jpg" width="1600" height="1069" alt="Ortlieb Gear-Pack 40L"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28836788478/in/datetaken-public/" title="Ortlieb Gear-Pack"><img src="https://farm2.staticflickr.com/1739/28836788478_8b98a72ae7_h.jpg" width="1600" height="1069" alt="Ortlieb Gear-Pack"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/41992303374/in/datetaken-public/" title="Ortlieb Gear-Pack"><img src="https://farm2.staticflickr.com/1733/41992303374_a30dec8c57_h.jpg" width="1600" height="1069" alt="Ortlieb Gear-Pack"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
