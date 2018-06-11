@@ -1,5 +1,4 @@
 ---
-published: false
 layout: post
 title: Ortlieb Gear-Pack Review
 description: Our review of the Ortlieb Gear Pack
@@ -28,7 +27,7 @@ Ortlieb says that the Gear Pack combines the portability of a backpack with the 
 Carrying the backpack feel quite comfortable and the Gear-Pack itself does not feel heavy with it's 1200 grams even so it is not the lightest backpack. However, if you are interested in having a durable product then the additional weight should not be a problem.
 
 Here are some pictures with the Gear-Pack attached on my packraft in the Turku Archipelago.
- 
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28836787848/in/datetaken-public/" title="Ortlieb Gear-Pack"><img src="https://farm2.staticflickr.com/1757/28836787848_d2db542501_h.jpg" width="1600" height="1069" alt="Ortlieb Gear-Pack"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <br>
 
