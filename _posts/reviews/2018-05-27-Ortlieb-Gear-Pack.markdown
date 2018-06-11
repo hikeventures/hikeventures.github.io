@@ -28,9 +28,21 @@ Ortlieb says that the Gear Pack combines the portability of a backpack with the 
 Carrying the backpack feel quite comfortable and the Gear-Pack itself does not feel heavy with it's 1200 grams even so it is not the lightest backpack. However, if you are interested in having a durable product then the additional weight should not be a problem.
 
 Here are some pictures with the Gear-Pack attached on my packraft in the Turku Archipelago.
-
-
+ 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28836787848/in/datetaken-public/" title="Ortlieb Gear-Pack"><img src="https://farm2.staticflickr.com/1757/28836787848_d2db542501_h.jpg" width="1600" height="1069" alt="Ortlieb Gear-Pack"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<br>
+
+The Gear-Pack is easy to carry - either on your back or with your hands.
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28855676298/in/datetaken-public/" title="Ortlieb Gear-Pack 40L"><img src="https://farm2.staticflickr.com/1732/28855676298_425b65bf19_h.jpg" width="1600" height="1069" alt="Ortlieb Gear-Pack 40L"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<br>
+The Gear-Pack has multiple attachment points and mesh-outerpockets to attach additional gear to the outside.
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28855675028/in/datetaken-public/" title="Ortlieb Gear-Pack 40L"><img src="https://farm2.staticflickr.com/1740/28855675028_0ddbddc361_h.jpg" width="1600" height="1069" alt="Ortlieb Gear-Pack 40L"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<br>
+The carriage system is removable.
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28855673468/in/datetaken-public/" title="Ortlieb Gear-Pack 40L"><img src="https://farm2.staticflickr.com/1750/28855673468_1e146bae6f_h.jpg" width="1600" height="1069" alt="Ortlieb Gear-Pack 40L"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<br>
+There is also a whistle on the Gear-Pack.
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28855670498/in/datetaken-public/" title="Ortlieb Gear-Pack 40L"><img src="https://farm2.staticflickr.com/1747/28855670498_53c72daa61_h.jpg" width="1600" height="1069" alt="Ortlieb Gear-Pack 40L"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <br>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28836788478/in/datetaken-public/" title="Ortlieb Gear-Pack"><img src="https://farm2.staticflickr.com/1739/28836788478_8b98a72ae7_h.jpg" width="1600" height="1069" alt="Ortlieb Gear-Pack"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <br>
