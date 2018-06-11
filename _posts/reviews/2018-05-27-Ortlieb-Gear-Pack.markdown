@@ -18,7 +18,11 @@ A few weeks ago we received the Ortlieb Gear-Pack in yellow and red colours as O
 
 <!--more-->
 
-The Ortlieb Gear-Pack has been designed - as the name already suggests - to take your gear with you on the trip. As the Gear-Pack is waterproof its probably a great solution for all kind of watersport activities but I could also see it as a backpack for hiking or biking. So what would I take with me in such a backpack? Probably anything what I would take on a normal hiking day-trip - meaning no tent or sleeping bag. For a packrafting day trip I would probably pack in clothes, camera gear, a water bottle which can be stored outside in the mesh-outerpocket or even paddles which can be attached with compression straps on the Gear-Pack. It would be also possible to attach for example the tent or anything extra on the outside and there are lots of possibilities to do multiple configurations. It would be also possible to attach the backpack to a packraft using those attachment points on the Gear-Pack.
+The Ortlieb Gear-Pack has been designed - as the name already suggests - to take your gear with you on the trip. As the Gear-Pack is waterproof its probably a great solution for all kind of watersport activities but I could also see it as a backpack for hiking or biking.
+
+So what would I take with me in such a backpack? Probably anything what I would take on a normal hiking day-trip - meaning no tent or sleeping bag. For a packrafting day trip I would probably pack in clothes, camera gear, a water bottle which can be stored outside in the mesh-outerpocket or even paddles which can be attached with compression straps on the Gear-Pack.
+
+It would be also possible to attach for example the tent or anything extra on the outside and there are lots of possibilities to do multiple configurations. It would be also possible to attach the backpack to a packraft using those attachment points on the Gear-Pack.
 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28836787848/in/datetaken-public/" title="Ortlieb Gear-Pack"><img src="https://farm2.staticflickr.com/1757/28836787848_d2db542501_h.jpg" width="1600" height="1069" alt="Ortlieb Gear-Pack"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -62,5 +66,5 @@ There is also a whistle on the Gear-Pack.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28836788478/in/datetaken-public/" title="Ortlieb Gear-Pack"><img src="https://farm2.staticflickr.com/1739/28836788478_8b98a72ae7_h.jpg" width="1600" height="1069" alt="Ortlieb Gear-Pack"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-   
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/41992303374/in/datetaken-public/" title="Ortlieb Gear-Pack"><img src="https://farm2.staticflickr.com/1733/41992303374_a30dec8c57_h.jpg" width="1600" height="1069" alt="Ortlieb Gear-Pack"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
