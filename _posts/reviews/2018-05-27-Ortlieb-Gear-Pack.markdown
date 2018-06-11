@@ -19,17 +19,23 @@ A few weeks ago we received the Ortlieb Gear-Pack in yellow and red colours as O
 <!--more-->
 
 The Ortlieb Gear-Pack has been designed - as the name already suggests - to take your gear with you on the trip. As the Gear-Pack is waterproof its probably a great solution for all kind of watersport activities but I could also see it as a backpack for hiking or biking. So what would I take with me in such a backpack? Probably anything what I would take on a normal hiking day-trip - meaning no tent or sleeping bag. For a packrafting day trip I would probably pack in clothes, camera gear, a water bottle which can be stored outside in the mesh-outerpocket or even paddles which can be attached with compression straps on the Gear-Pack. It would be also possible to attach for example the tent or anything extra on the outside and there are lots of possibilities to do multiple configurations. It would be also possible to attach the backpack to a packraft using those attachment points on the Gear-Pack.
+<br>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28836787848/in/datetaken-public/" title="Ortlieb Gear-Pack"><img src="https://farm2.staticflickr.com/1757/28836787848_d2db542501_h.jpg" width="1600" height="1069" alt="Ortlieb Gear-Pack"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<br>
 
 The backpack seems to be very durable. I also have Ortliebs rear bike pannier and they are super durable too. Here you can find for example some pictures from my [250 km Turku Archipelago bicycle](http://www.hikeventures.com/archipelago-trail/) trip or from the [Archipelago National Park Trail](http://www.hikeventures.com/archipelago-national-park/).
 
+<br>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/41992303894/in/datetaken-public/" title="Ortlieb Gear-Pack"><img src="https://farm2.staticflickr.com/1724/41992303894_5968bab7e8_h.jpg" width="1600" height="1069" alt="Ortlieb Gear-Pack"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<br>
+
 Ortlieb says that the Gear Pack combines the portability of a backpack with the durability of a packsack. It also offers a height-adjustable and removable carriage system and is made of a fast-drying material. There are also ventilation slits on the shoulder carriers and hip fins.
 
-Carrying the backpack feel quite comfortable and the Gear-Pack itself does not feel heavy with it's 1200 grams even so it is not the lightest backpack. However, if you are interested in having a durable product then the additional weight should not be a problem.
-
-Here are some pictures with the Gear-Pack attached on my packraft in the Turku Archipelago.
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28836787848/in/datetaken-public/" title="Ortlieb Gear-Pack"><img src="https://farm2.staticflickr.com/1757/28836787848_d2db542501_h.jpg" width="1600" height="1069" alt="Ortlieb Gear-Pack"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <br>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28836789928/in/datetaken-public/" title="Ortlieb Gear-Pack"><img src="https://farm2.staticflickr.com/1753/28836789928_a87065d025_h.jpg" width="1600" height="1069" alt="Ortlieb Gear-Pack"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<br>
+
+Carrying the backpack feel quite comfortable and the Gear-Pack itself does not feel heavy with it's 1200 grams even so it is not the lightest backpack. However, if you are interested in having a durable product then the additional weight should not be a problem.
 
 The Gear-Pack is easy to carry - either on your back or with your hands.
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28855676298/in/datetaken-public/" title="Ortlieb Gear-Pack 40L"><img src="https://farm2.staticflickr.com/1732/28855676298_425b65bf19_h.jpg" width="1600" height="1069" alt="Ortlieb Gear-Pack 40L"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -46,7 +52,3 @@ There is also a whistle on the Gear-Pack.
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28836788478/in/datetaken-public/" title="Ortlieb Gear-Pack"><img src="https://farm2.staticflickr.com/1739/28836788478_8b98a72ae7_h.jpg" width="1600" height="1069" alt="Ortlieb Gear-Pack"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <br>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/41992303374/in/datetaken-public/" title="Ortlieb Gear-Pack"><img src="https://farm2.staticflickr.com/1733/41992303374_a30dec8c57_h.jpg" width="1600" height="1069" alt="Ortlieb Gear-Pack"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<br>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28836789928/in/datetaken-public/" title="Ortlieb Gear-Pack"><img src="https://farm2.staticflickr.com/1753/28836789928_a87065d025_h.jpg" width="1600" height="1069" alt="Ortlieb Gear-Pack"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<br>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/41992303894/in/datetaken-public/" title="Ortlieb Gear-Pack"><img src="https://farm2.staticflickr.com/1724/41992303894_5968bab7e8_h.jpg" width="1600" height="1069" alt="Ortlieb Gear-Pack"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
