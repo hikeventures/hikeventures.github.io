@@ -12,7 +12,7 @@ tags:
 layout: post
 ---
 
-Jetboil showed us their Jetboil Flash and Jetboil Millijoule stoves at the OutDoor Show in Friedrichshafen and explained us on what to pay attention to when selecting a cooking system.
+Paul Johnson from Jetboil showed us some of their new highlights such as the Flash and Millijoule stoves at the OutDoor Show in Friedrichshafen and explained us on what to pay attention to when selecting a cooking system.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/f2vcnyJ1naQ"></iframe>
@@ -21,15 +21,9 @@ Jetboil showed us their Jetboil Flash and Jetboil Millijoule stoves at the OutDo
 <!--more-->
 <br>
 
-This is Konstantin from HikeVentures and I've got Paul Johnson from Jetboil.
-
-Yes, I hope you can say something about a couple of highlights will be coming year.
-
 ## Jetboil Flash
 
-We just launched are our <a rel="nofollow" href="https://amzn.to/2MKhRZA">Flash</a> and our Flash unit has been an iconic SKU for us for the past ten years or so.
-
-Quite recognizable isn't it?
+We just launched our <a rel="nofollow" href="https://amzn.to/2MKhRZA">Flash</a> and our Flash unit has been an iconic SKU for us for the past ten years or so.
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B07939L7Q7/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07939L7Q7&linkCode=as2&tag=hikeve-20&linkId=a0e4a9654f4c7d339c9b48a237afcbfc"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B07939L7Q7&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B07939L7Q7" width="1" height="1" border="0" alt="Jetboil Flash" style="border:none !important; margin:0px !important;" />
 
@@ -66,13 +60,11 @@ What's really cool about this while this is a gas can't isobutane fuel source wh
 
 When you turn it upside down like this and we have the the burner designed it's a liquid feed versus just a gas feed and that's what gives you the higher altitude advantages and lower temperature advantages and simmer control is really the key to this so you can really dial this down and not just boil water or melt snow. You can cook on it too.
 
-Yeah, you know what?
-
 We really try to separate our units of our consumers is between regulated and non-regulated right are non regulated are really focused in on just boiling water as fast as you can.
 
-Right, it's a little harder to cook on you can but then if you move to an item like our mo family we call that we have a minimo a micromo and a mightymo.
+It's a little harder to cook on you can but then if you move to an item like our mo family we call that we have a minimo a micromo and a mightymo.
 
-Right, this is the minimo here and what's neat about this is you have this what you see here this is our regulator and what it allows you to really go dial it down to do that simmer control and you could put a pot support on here you fire it up so it's on and like I said you can crank that all the way up you're gonna get over 10,000 BTUs but again if you put a pan on there with the proper pot support which gives you a little layer you can see how I'm really dialing this down.
+This is the minimo here and what's neat about this is you have this what you see here this is our regulator and what it allows you to really go dial it down to do that simmer control and you could put a pot support on here you fire it up so it's on and like I said you can crank that all the way up you're gonna get over 10,000 BTUs but again if you put a pan on there with the proper pot support which gives you a little layer you can see how I'm really dialing this down.
 
 The sound is decreasing right so now it's it's got a nice simmer on that so you can not burn you don't burn anything it's a nice nice cooking experience.
 
@@ -82,13 +74,13 @@ You can cook and pack out and then you got our joule, millijoule and regular jou
 
 ## How to select a cooking system.
 
-If someone wants to choose a cooking system. What other things to pay attention to so what you really want to look at you know.
+If someone wants to choose a cooking system. What other things to pay attention to?
 
 For cooking overall its it's about that regulated stove. So as you're looking at it how does that regulator work is it going to give you the proper temperature.
 
 You know because that's what it's going to be and then it's really planning your food but what are you gonna bring with you when you're prepping for you know a pre pre hike or campout.
 
-Right, you got to think about what kind of food you're cooking.
+You got to think about what kind of food you're cooking.
 
 If you just bring the hydrated then this is more than sufficient but if you're planning to do a
 little bit more extensive cooking pasta or you bring some meats that you want to
