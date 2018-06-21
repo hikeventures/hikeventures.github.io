@@ -19,7 +19,8 @@ Paul Johnson from Jetboil showed us some of their new highlights such as the Fla
 </div>
 <br>
 <!--more-->
-<br>
+
+---
 
 ## Jetboil Flash
 
@@ -48,6 +49,8 @@ Okay and that's really what our feet are customers really like.
 
 So that's our new flash we've got this in four different colors for 2018.
 
+---
+
 ## Jetboil Millijoule
 
 We'll move on to the next new product is our <a rel="nofollow" href="https://amzn.to/2tg1Zpf">Milljoule</a> and this is really kind of a higher altitude group cooking system and again in classic chip well style everything nests right in there it comes with our flux ring built in on the bottom of this.
@@ -71,6 +74,8 @@ The sound is decreasing right so now it's it's got a nice simmer on that so you 
 So those are our our Jetboil. So you got our Zip Flash which is non regulated those are our core staple items good boiling water backpacking our Mo family, <a rel="noflollow" href="https://amzn.to/2I7ac3H">micromo</a>, <a rel="nofollow" href="https://amzn.to/2Mcqawb">mightymo</a>, <a href="https://amzn.to/2MIlcrK">sumo</a>, <a rel="nofollow" href="https://amzn.to/2MbEHIp">minimo</a>.
 
 You can cook and pack out and then you got our joule, millijoule and regular joule for the higher altitude group food.
+
+---
 
 ## How to select a cooking system.
 
