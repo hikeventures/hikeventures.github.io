@@ -12,7 +12,7 @@ tags:
 layout: post
 ---
 
-Jetboil showed us their Jetboil Flash and Jetboil Millijoule stoves at the OutDoor Show in Friedrichshafen.
+Jetboil showed us their Jetboil Flash and Jetboil Millijoule stoves at the OutDoor Show in Friedrichshafen and explained us on what to pay attention to when selecting a cooking system.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/f2vcnyJ1naQ"></iframe>
