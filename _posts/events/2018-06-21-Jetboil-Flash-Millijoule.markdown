@@ -77,7 +77,7 @@ You can cook and pack out and then you got our joule, millijoule and regular jou
 
 ---
 
-## How to select a cooking system.
+## How to select a cooking system?
 
 If someone wants to choose a cooking system. What other things to pay attention to?
 
