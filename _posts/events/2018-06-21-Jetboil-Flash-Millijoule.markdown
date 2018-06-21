@@ -74,7 +74,7 @@ So those are our our Jetboil. So you got our Zip Flash which is non regulated th
 
 You can cook and pack out and then you got our joule, millijoule and regular joule for the higher altitude group food.
 
-## Things to pay attention when buying a cooking system.
+## How to select a cooking system.
 
 If someone wants to choose a cooking system. What other things to pay attention to so what you really want to look at you know.
 
