@@ -52,9 +52,11 @@ Okay and that's really what our feet are customers really like.
 
 So that's our new flash we've got this in four different colors for 2018.
 
-## Jetboil Micllijoule
+## Jetboil Millijoule
 
-We'll move on to the next new product is our Milljoule and this is really kind of a higher altitude group cooking system and again in classic chip well style everything nests right in there it comes with our flux ring built in on the bottom of this again helping for that quick burn time but again all the technology really is in this burner unit itself which is really hot designed for that higher altitude lower temperature we're in.
+We'll move on to the next new product is our Milljoule and this is really kind of a higher altitude group cooking system and again in classic chip well style everything nests right in there it comes with our flux ring built in on the bottom of this.
+
+Again helping for that quick burn time but again all the technology really is in this burner unit itself which is really hot designed for that higher altitude lower temperature we're in.
 
 What's really cool about this while this is a gas can't isobutane fuel source which is what we use on all of our jib oil items
 
@@ -64,7 +66,7 @@ Yeah, you know what?
 
 We really try to separate our units of our consumers is between regulated and non-regulated right are non regulated are really focused in on just boiling water as fast as you can.
 
-Right, it's a little harder to cook on you can but then if you move to an item like our mo family we call that we have a minimo a micromo mightymo.
+Right, it's a little harder to cook on you can but then if you move to an item like our mo family we call that we have a minimo a micromo and a mightymo.
 
 Right, this is the minimo here and what's neat about this is you have this what you see here this is our regulator and what it allows you to really go dial it down to do that simmer control and you could put a pot support on here you fire it up so it's on and like I said you can crank that all the way up you're gonna get over 10,000 BTUs but again if you put a pan on there with the proper pot support which gives you a little layer you can see how I'm really dialing this down.
 
