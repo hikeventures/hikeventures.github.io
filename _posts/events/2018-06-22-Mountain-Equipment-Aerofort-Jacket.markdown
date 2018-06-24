@@ -23,19 +23,18 @@ Thomas Strobl from Mountain Equioment showed us their new Aerofort Jacket at the
 
 ---
 
-We have here some products which are especially made for the summer and which are all in this lightweight field light or ultra light
+We have here a product which is especially made for the summer and which is in this lightweight or ultralight field.
 
 Some would say ultra light they are very lightweight so let's say
 ultra light if you like this better.
 
-We have here from gore-tex this new Active Shell 2 which is a very very good fabric and you have this fabric with an outer with an outer layer of 20 denier and you have knit lining inside which makes it very comfortable to wear and also very robust.
+We have here from gore-tex this new Active Shell 2 which is a very good fabric and you have this fabric with an outer layer of 20 denier and you have knit lining inside which makes it very comfortable to wear and also very robust.
 
 It only weighs 170 grams and goes into this stuff bag.
 
-This is a real three layer not a two and a half
-layer like paclite or any other PU membrane. It is very breathable
-and very lightweight but still robust and packs into this
-tiny little thing.
+This is a real three layer not a two and a half layer like paclite or any other PU membrane.
+
+It is very breathable and very lightweight but still robust and packs into this tiny little thing.
 
 And it's a really long lasting gore-tex jacket.
 
@@ -49,11 +48,11 @@ And then we have here a windbreaker. So windbreakers have been for a long time o
 
 You're very likely to use it without another long sleeve pull-on because you use it in warm weather and when you sweat they are not breathing very well.
 
-Of course it's coated fabric and this is wet speaks to the fabric and
+Of course it's coated fabric. It's a real soft shell it's a 20 demier bubble weave soft shell with a mechanical fabric stretch.
 
-It's a real soft shell it's a 20 demier bubble weave soft shell with a mechanical fabric stretch so there is no nylon in so it stretch it because it is how its woven and it is a hundred grams and also fits into this internal pocket.
+So there is no nylon in. It stretch because it is how its woven. It is 100 grams and also fits into this internal pocket.
 
-There have been windbreakers around which fits into this pocket but which is new is that you have this pack size but you have extreme good comfort of wearing it so it is not sticky.
+There have been windbreakers around which fits into this pocket but what is new is that you have this pack size. You have extreme good comfort of wearing it so it is not sticky.
 
 It breezes very well and you feel very comfortable in and that's a great new thing you you need to try it.
 
@@ -62,10 +61,9 @@ This is a 3/4 because of weight because of weight it is close fitting its hand b
 When you want to sweat we learned that you lose up 20% of
 your heat through the head.
 
-This is a hood which would go under a helmet
-on bikes or on climbing yes especially for climbing routes when you are on a mood to protrude it is on your harness.
+This is a hood which would go under a helmet on bikes or on climbing.
 
-When you're coming to the higher peakes you can put it on when there is wind.
+When you're coming to the higher peaks, you can put it on when there is wind.
 
 So I like this very very much and you can also adjust here. Yeah,
 it's perfect
