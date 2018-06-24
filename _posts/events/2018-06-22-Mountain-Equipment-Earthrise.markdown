@@ -13,7 +13,7 @@ tags:
 layout: post
 ---
 
-Thomas Strobl from Mountain Equioment showed us their new Earthrise sleeping bag at the OutDoor Show in Friedrichshafen and tells us how to choose a sleeping bag and how to dress when sleeping in it.
+Thomas Strobl from Mountain Equipment showed us their new Earthrise sleeping bag at the OutDoor Show in Friedrichshafen and tells us how to choose a sleeping bag and how to dress when sleeping in it.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/PmOLZoToSMs"></iframe>
