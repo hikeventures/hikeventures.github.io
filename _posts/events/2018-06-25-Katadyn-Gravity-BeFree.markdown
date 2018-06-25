@@ -13,7 +13,7 @@ tags:
 layout: post
 ---
 
-Miriam from Katadyn showed us their new Katadyn Gravity BeFree Water Filter at the OutDoor Show in Friedrichshafen.
+Miriam Blume from Katadyn showed us their new Katadyn Gravity BeFree Water Filter at the OutDoor Show in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vy6vplqoo0s"></iframe>
