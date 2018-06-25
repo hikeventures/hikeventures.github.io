@@ -13,7 +13,7 @@ tags:
 layout: post
 ---
 
-Miriam Blume from Katadyn showed us their new Katadyn Gravity BeFree Water Filter at the OutDoor Show in Friedrichshafen.
+Miriam Blume from Katadyn showed us their new <a href="https://amzn.to/2MooPT1" rel="nofollow">Katadyn Gravity BeFree Water Filter</a> at the OutDoor Show in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vy6vplqoo0s"></iframe>
@@ -28,7 +28,7 @@ Miriam could you please present something new that is coming?
 For sure we are now at the booth of the Katadyn group and we have our 360 degrees outdoor kitchen here.
 
 So we have Optimus stoves for cooking systems, Katadyn water filtration systems like
-this new filter, our BeFree gravity water filtration system.
+this new filter, our <a href="https://amzn.to/2MooPT1" rel="nofollow">BeFree gravity water filtration system</a>.
 
 It has a capacity of 3 liters and it runs with a hollow fiber.
 
