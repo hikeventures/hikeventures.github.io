@@ -22,10 +22,7 @@ Petra Hilleberg from showed us their new <a rel="nofollow" href="https://amzn.to
 
 ---
 
-## What are your new products?
-We have our new <a rel="nofollow" href="https://amzn.to/2tvvYK2">Allak 3</a> and the <a href="https://amzn.to/2Mm1MIr" rel="nofollow">Allak 3 Inner Mesh Tent</a>.
-
-We've had the Allak for a few years that we're now calling the Allak 2 and now has a bigger brother - the Allak 3.  
+We've had the Allak for a few years that we're now calling the Allak 2 and now has a bigger brother - the <a rel="nofollow" href="https://amzn.to/2tvvYK2">Allak 3</a>.  
 
 <a rel="nofollow" href="https://www.amazon.com/Hilleberg-Allak-Person-Tent-Red/dp/B007IT3JC2/ref=as_li_ss_il?s=sporting-goods&ie=UTF8&qid=1530015632&sr=1-1-fkmr0&keywords=Hilleberg+allak+3&linkCode=li3&tag=hikeve-20&linkId=7521021d3b91e88683910ca0049288e2" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007IT3JC2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B007IT3JC2" width="1" height="1" border="0" alt="Hilleberg allak 3" style="border:none !important; margin:0px !important;" />
 
@@ -52,7 +49,7 @@ We're pretty excited about it we've been using it a lot over the last year so it
 
 ## Allak 3 Inner Mesh Tent
 
-This is the mesh inner tent so for most of our models we offer a mesh inner tent like this and you can use it separately like we have here.
+This is the <a href="https://amzn.to/2Mm1MIr" rel="nofollow">Allak 3 Inner Mesh Tent</a> so for most of our models we offer a mesh inner tent like this and you can use it separately like we have here.
 
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B0108LRNW8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0108LRNW8&linkCode=as2&tag=hikeve-20&linkId=eabe6e01150269edefe7f5e8462ba0f4"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0108LRNW8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0108LRNW8" width="1" height="1" border="0" alt="Hilleberg Allak Inner Mesh Tent" style="border:none !important; margin:0px !important;" />
 
