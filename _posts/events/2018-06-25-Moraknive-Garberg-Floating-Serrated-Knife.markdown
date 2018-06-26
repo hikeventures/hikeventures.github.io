@@ -106,12 +106,16 @@ I use a companion Then in this outdoor business we had this year launched a litt
 
 Overall it's our Garberg, our <a rel="nofollow" href="https://amzn.to/2ts5Foh">Garberg Black Carbon</a>.
 
+---
+
 ## So, what does it mean Garberg black?
 
 First of all this is our Garberg is our most strongest knife we ever made in 127 years.
 
 It's a full tang knife. In this case here you have carbon steel it exists in the not black version in stainless steel.
 You have here polyamide handle.
+
+---
 
 ## What does it mean apolyamide handle?
 It's much more stronger when it's getting cold in extreme use when you are hammering on like this the
@@ -122,6 +126,8 @@ You can use it in order to split some wood and making fire with it.
 
 It's the knife - if you have to have - one knife in the outdoor and I want to survive, it
 will survive you.
+
+---
 
 ## Garberg knife in carbon or stainless steel?
 Well, this is a big discussion and a long discussion and I will have no time today because people would say oh he is crazy. I love carbon and I say
