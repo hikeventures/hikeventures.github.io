@@ -13,7 +13,7 @@ tags:
 layout: post
 ---
 
-Petra Hilleberg from showed us their new Hilleberg Allak 3 and Hilleberg Allak 3 Inner Mesh Tent at the OutDoor Show in Friedrichshafen.
+Petra Hilleberg from showed us their new <a rel="nofollow" href="https://amzn.to/2tvvYK2">Hilleberg Allak 3</a> and Hilleberg Allak 3 Inner Mesh Tent at the OutDoor Show in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nw3e8VnX3CI"></iframe>
@@ -38,6 +38,8 @@ we've had for a few years that we're now
 0:00:13.049,0:00:18.390
 calling the Allak 2 and now has a bigger
 brother in the Allak 3.  You'll see you
+
+<a rel="nofollow" href="https://www.amazon.com/Hilleberg-Allak-Person-Tent-Red/dp/B007IT3JC2/ref=as_li_ss_il?s=sporting-goods&ie=UTF8&qid=1530015632&sr=1-1-fkmr0&keywords=Hilleberg+allak+3&linkCode=li3&tag=hikeve-20&linkId=7521021d3b91e88683910ca0049288e2" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007IT3JC2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B007IT3JC2" width="1" height="1" border="0" alt="Hilleberg allak 3" style="border:none !important; margin:0px !important;" />
 
 0:00:18.390,0:00:22.740
 can completely it's a comfortable three

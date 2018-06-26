@@ -26,6 +26,8 @@ Our company is producing today something between 10 and sometimes 20 thousand kn
 
 Exactly, you got everything under your control. Everything is under our control.
 
+<a rel="nofollwo" href="https://www.amazon.com/Morakniv-Garberg-Carbon-Leather-Sheath/dp/B07B8VWK9K/ref=as_li_ss_il?s=sporting-goods&ie=UTF8&qid=1530016772&sr=1-1&keywords=morakniv+garberg+carbon&linkCode=li3&tag=hikeve-20&linkId=b4941904ea6b6331fa0fd2929990d9f1" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07B8VWK9K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B07B8VWK9K" width="1" height="1" border="0" alt="Morakniv Garberg Black Carbon" style="border:none !important; margin:0px !important;" />
+
 Of course, we have the Swedish steel of course which we make and know by looking for somewhere else but you have everything there. No, but the thing is mostly it's a family-owned business and this since hundred twenty seven years of me. Which made us probably a little bit more different is that in
 this big product range we have we are touching with all product range which
 mean that you can see us in the kitchen.
