@@ -12,7 +12,7 @@ tags:
 layout: post
 ---
 
-Dennis Becker from Morakniv showed us their new Garberg Black Carbon and Floating Serrated Knife at the OutDoor Show in Friedrichshafen.
+Dennis Becker from Morakniv showed us their new <a href="https://amzn.to/2ts5Foh" rel="nofollow">Garberg Black Carbon</a> and Floating Serrated Knife at the OutDoor Show in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/iydoZnI89fc"></iframe>
@@ -100,10 +100,9 @@ little bit better you have the impression you have a knife protection through he
 the best companion forever. You can use it at the kitchen also it's not his use again but personally me at home if I have to
 to cut something a little bit stronger
 
-I use a companion Then in this outdoor business we had this year lunched a
-little bit beginning of the year and shock-jock one of I know some people who love it
+I use a companion Then in this outdoor business we had this year launched a little bit beginning of the year and shock-jock one of I know some people who love it
 
-Overall it's our Garberg, our Garberg black.
+Overall it's our Garberg, our <a rel="nofollow" href="https://amzn.to/2ts5Foh">Garberg Black Carbon</a>.
 
 ## So, what does it mean Garberg black?
 
