@@ -50,7 +50,11 @@ Yeah, so that's kind of what we have that's our news this year.
 
 We're pretty excited about it we've been using it a lot over the last year so it's really nice.
 
+## Allak 3 Inner Mesh Tent
+
 This is the mesh inner tent so for most of our models we offer a mesh inner tent like this and you can use it separately like we have here.
+
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B0108LRNW8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0108LRNW8&linkCode=as2&tag=hikeve-20&linkId=eabe6e01150269edefe7f5e8462ba0f4"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0108LRNW8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0108LRNW8" width="1" height="1" border="0" alt="Hilleberg Allak Inner Mesh Tent" style="border:none !important; margin:0px !important;" />
 
 Then it has a little foam holder kit so you can set it up.
 
