@@ -23,7 +23,7 @@ Petra Hilleberg from showed us their new <a rel="nofollow" href="https://amzn.to
 ---
 
 ## What are your new products?
-We have our new Allak 3 and the Allak 3 Inner Mesh Tent.
+We have our new <a rel="nofollow" href="https://amzn.to/2tvvYK2">Allak 3</a> and the <a href="https://amzn.to/2Mm1MIr" rel="nofollow">Allak 3 Inner Mesh Tent</a>.
 
 We've had the Allak for a few years that we're now calling the Allak 2 and now has a bigger brother - the Allak 3.  
 
