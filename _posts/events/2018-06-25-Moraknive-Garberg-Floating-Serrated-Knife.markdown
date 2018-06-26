@@ -15,7 +15,7 @@ layout: post
 Dennis Becker from Morakniv showed us their new Garberg Black Carbon and Floating Serrated Knife at the OutDoor Show in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nw3e8VnX3CI"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/iydoZnI89fc"></iframe>
 </div>
 <br>
 <!--more-->
