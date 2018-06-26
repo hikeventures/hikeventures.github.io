@@ -1,7 +1,6 @@
 ---
 title: Hilleberg Allak 3 and Allak 3 Inner Mesh Tent - Outdoor Show Review
-published: false
-date: 2018-06-26 07:16:01
+date: 2018-06-26 07:17:01
 category: articles
 tags:
   - articles
@@ -23,134 +22,44 @@ Petra Hilleberg from showed us their new <a rel="nofollow" href="https://amzn.to
 
 ---
 
-0:00:00.030,0:00:03.899
-Could you tell us something about the
-new line, new things that you're going to have?
+## What are your new products?
+We have our new Allak 3 and the Allak 3 Inner Mesh Tent.
 
-0:00:03.899,0:00:08.610
-New things? Well we have we don't have a new
-line but we have our new Allak 3 which
-
-0:00:08.610,0:00:13.049
-you can see I said Allak which we're now
-we've had for a few years that we're now
-
-0:00:13.049,0:00:18.390
-calling the Allak 2 and now has a bigger
-brother in the Allak 3.  You'll see you
+We've had the Allak for a few years that we're now calling the Allak 2 and now has a bigger brother - the Allak 3.  
 
 <a rel="nofollow" href="https://www.amazon.com/Hilleberg-Allak-Person-Tent-Red/dp/B007IT3JC2/ref=as_li_ss_il?s=sporting-goods&ie=UTF8&qid=1530015632&sr=1-1-fkmr0&keywords=Hilleberg+allak+3&linkCode=li3&tag=hikeve-20&linkId=7521021d3b91e88683910ca0049288e2" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007IT3JC2&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B007IT3JC2" width="1" height="1" border="0" alt="Hilleberg allak 3" style="border:none !important; margin:0px !important;" />
 
-0:00:18.390,0:00:22.740
-can completely it's a comfortable three
-person. Yeah, there is plenty of space
+It's a comfortable three person tent.
 
-0:00:22.740,0:00:29.189
-actually in there. The sitting height is 110
-centimetres it's a tall guy like you can
+Yeah, there is plenty of space actually in there.
 
-0:00:29.189,0:00:34.260
-easily sit in there and you can sleep in
-there with two of your friends so either
+The sitting height is 110 centimetres. A tall guy like you can easily sit in there and you can sleep in there with two of your friends.
 
-0:00:34.260,0:00:39.390
-for people who go up three people or
-people who go who want a little more
+So either for three people or for people who want a little more space for two. Or it's a really nice option also if you go with your dog.
 
-0:00:39.390,0:00:45.870
-space for two or if you go with your dog
-that it's a really nice option also
+There is quite a lot of space also on both sides for luggage.
 
-0:00:45.870,0:00:52.710
-quite a lot of space yeah on both sides
-for luggage exactly so you have you can
+You can easily fit three packs.
 
-0:00:52.710,0:00:59.190
-easily fit three packs throughout so you
-have the nice thing that Allak also you
+For the Allak 3 we've also added more pockets. You have three big pockets on each side of the tent.
 
-0:00:59.190,0:01:03.469
-sleep alongside about
-so you can easily reach over and into
+The Allak is a little bit tapered so it's a little bit wider up front another touch narrower down below but you can see we have three
+therm-a-rests here that you can fiddle easily in here.
 
-0:01:03.469,0:01:06.770
-the rusticles
-for the lx3 we've also added more
+Yeah, so that's kind of what we have that's our news this year.
 
-0:01:06.770,0:01:12.619
-pockets you have three big pockets on
-each side of the tent the Allak is a
+We're pretty excited about it we've been using it a lot over the last year so it's really nice.
 
-0:01:12.619,0:01:15.979
-little bit tapered so it's a little bit
-wider up front another touch narrower
+This is the mesh inner tent so for most of our models we offer a mesh inner tent like this and you can use it separately like we have here.
 
-0:01:15.979,0:01:20.360
-down below but you can see we have three
-therm-a-rests here that you can fiddle
+Then it has a little foam holder kit so you can set it up.
 
-0:01:20.360,0:01:26.200
-easily in here yeah so that's kind of
-what we have that's our news this year
+But you can use the poles which you got for your tent and use it separately. Obviously, then it's really a nice bug protection.
 
-0:01:26.200,0:01:37.369
-we're pretty excited about it we've been
-using it a lot over the last year so it's really nice.
+It's not rain proof obviously but it's bug proof is amazing protection in hot dry areas or you can use it inside your regular Allak 3 and just button it in if you want more airiness.
 
-0:01:37.369,0:01:42.860
-This is the mesh inner tent so for
-most of our models we offer a mesh inner
+It's an all season tent. The Allak 3 Inner Mesh Tent then makes it a three season.
 
-0:01:42.860,0:01:47.060
-tent like this and you can use it
-separately like we have here then it has
+With Allak where you have their large doors alongside, having the mesh inner tent and then leaving the doors completely rolled open, and you have really nice views and really venting throughout.
 
-0:01:47.060,0:01:50.959
-a little foam holder kit so you can set
-it up but you use the pole so you got
-
-0:01:50.959,0:01:55.520
-for your tent and use it separately
-obviously then it's really a nice bug
-
-0:01:55.520,0:02:01.700
-protection it's not rain proof obviously
-but it's bug proof is amazing protection
-
-0:02:01.700,0:02:08.359
-in hot dry areas or you can use it
-inside your regular Allak 3 and just button
-
-0:02:08.359,0:02:13.459
-it in instead of directly do you want
-more airiness. So this is this is for
-
-0:02:13.459,0:02:16.790
-four season
-yep it's an all season this then makes
-
-0:02:16.790,0:02:22.850
-it a three season. With Allak where you
-have their large doors alongside having
-
-0:02:22.850,0:02:26.750
-the mesh inner tent and then leaving the
-doors completely rolled open. And
-
-0:02:26.750,0:02:31.070
-you have really made
-views and really venting throughout. And
-
-0:02:31.070,0:02:36.740
-at the same time you have enough protection. So
-obviously the inner tent that comes
-
-0:02:36.740,0:02:40.550
-with the Allak are also really good
-for summer but if you want to use even
-
-0:02:40.550,0:02:44.380
-more airiness so you can use the Allak 3 mesh inner tent.
-
-0:02:44.380,0:02:48.670
-Thank you very much. Thank you.
+And at the same time you have enough protection. So obviously the inner tent that comes with the Allak 3 are also really good for summer but if you want to have more airiness you can use the Allak 3 mesh inner tent.
