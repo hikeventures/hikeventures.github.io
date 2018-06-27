@@ -66,12 +66,11 @@ Because in the down jacket you don't want to carry a lot of weight, which is not
 
 So, that's an important part to focus on - make sure that there's enough loft to the weight ratio.
 
-The jacket that you mentioned, the other one, which is a bit tougher than this emergency one,
+The jacket that you mentioned, the other one, which is a bit tougher than this emergency one, would it be possible to carry a rucksack?
 
-would it be possible to carry a rucksack?
+Yes.
 
-- Yes.
-- How does it affect it, actually?
+How does it affect it, actually?
 
 I mean, what we often do is put little piece of synthetics on the shoulders
 
