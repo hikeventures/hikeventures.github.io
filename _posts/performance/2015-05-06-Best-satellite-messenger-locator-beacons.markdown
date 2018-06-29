@@ -36,6 +36,9 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
         </thead>
         <tbody>
         <tr>
+          <td><a href="https://amzn.to/2Ks75Zs" target="_blank" rel="nofollow">Garmin InReach Mini</a></td><td>100g</td><td>no</td>
+        </tr>
+        <tr>
           <td><a href="http://amzn.to/2xIPBPG" target="_blank" rel="nofollow">SPOT Gen3</a></td><td>114g</td><td>no</td>
         </tr>
         <tr>
@@ -50,6 +53,29 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
       </tbody>
       </table>
   </div>
+
+<br>
+
+## Garmin InReach Mini
+
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B07CR7PL54/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07CR7PL54&linkCode=as2&tag=hikeve-20&linkId=7728d755cb1e44c7331ed80d2833d99c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B07CR7PL54&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B07CR7PL54" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+  * Weight: 100 grams
+  * IPX7
+  * Subscription needed
+  * Route tracking
+  * Battery lasts for 100 hours with 10 min tracking intervall
+  * Waterproof
+  * Post to Social Media
+  * Trips can be shared via the <arel="nofollow) href="https://share.delorme.com/">MapShare portal</a>
+  * 500 waypoints and 20 routes can be stored. No maps can be stored.
+  * Pair with mobile devices
+  * Waypoints
+  * Battery life 50 hours at 10 min tracking.
+
+  <a href="https://amzn.to/2Ks75Zs" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+
+<br>
 
 ## ACR ResQlink+ 406
 
@@ -134,6 +160,6 @@ If messaging is not important for you, then you should go for the <a href="http:
 
 Alternatively, you will see from the specifications below that the DeLorme devices have slightly more weight but come with more functionalities than the SPOT devices.
 
-My personal preference goes towards the <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F119863%2Fgarmin-inreach-explorer-satellite-communicator" target="_blank" rel="nofollow">Garmin InReach Explorer+</a> as it has also messenger function.
+My personal preference goes towards the <a href="https://amzn.to/2Ks75Zs" target="_blank" rel="nofollow">Garmin InReach Mini</a> as it the lightest option and offers most of the functionalities of the other devices since it can be also linked with a smartphone.
 
 If I would not need the messenger and tracking function, then I would probably get the <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F843146%2Facr-electronics-resqlink-gps-personal-locator-beacon" target="_blank" rel="nofollow">ACR ResQlink+ 406</a>.
