@@ -1,0 +1,24 @@
+---
+title: Vaude Proof 28 - OutDoor Show Review
+published: false
+date: 2018-06-30 00:01:01
+category: articles
+tags:
+  - articles
+  - vaude
+  - OutDoor show
+  - interview
+  - Friedrichshafen
+  - video
+layout: post
+---
+
+Florian Schmid from Vaude showed us their Proof 28 backpack at the OutDoor Show in Friedrichshafen.
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/phUOZrug5aw"></iframe>
+</div>
+<br>
+<!--more-->
+
+---
