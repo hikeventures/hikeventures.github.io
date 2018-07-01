@@ -1,5 +1,5 @@
 ---
-title: Morakniv Garberg Black Carbon and Floating Serrated Knife - Outdoor Show Review
+title: Morakniv Garberg Black Carbon and Floating Rope Knife - Outdoor Show Review
 date: 2018-06-26 07:15:01
 category: articles
 tags:
@@ -12,7 +12,7 @@ tags:
 layout: post
 ---
 
-Dennis Becker from Morakniv showed us their new <a href="https://amzn.to/2ts5Foh" rel="nofollow">Garberg Black Carbon</a> and Floating Serrated Knife at the OutDoor Show in Friedrichshafen.
+Dennis Becker from Morakniv showed us their new <a href="https://amzn.to/2ts5Foh" rel="nofollow">Garberg Black Carbon</a> and Floating Rope Knife at the OutDoor Show in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/iydoZnI89fc"></iframe>
