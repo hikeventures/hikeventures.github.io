@@ -16,7 +16,7 @@ layout: post
 Miriam Blume from Katadyn showed us their new <a href="https://amzn.to/2MooPT1" rel="nofollow">Katadyn Gravity BeFree Water Filter</a> at the OutDoor Show in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vy6vplqoo0s"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/OhE7bshiLjs"></iframe>
 </div>
 <br>
 <!--more-->
