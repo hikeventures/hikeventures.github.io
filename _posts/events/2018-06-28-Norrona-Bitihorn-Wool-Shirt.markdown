@@ -15,7 +15,7 @@ layout: post
 Jørgen Jørgensen from Norrøna showed us their Norrøna Bitihorn Wool Shirt at the OutDoor Show in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/phUOZrug5aw"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_CfHpOZhyTQ"></iframe>
 </div>
 <br>
 <!--more-->
