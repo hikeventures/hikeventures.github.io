@@ -16,7 +16,7 @@ layout: post
 Hugo Davidson from Knog showed us their new Bandicoot Headlamp at the OutDoor Show in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/tTGd7AlIJQA"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6cQebNCRPrM"></iframe>
 </div>
 <br>
 <!--more-->
