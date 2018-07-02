@@ -1,5 +1,5 @@
 ---
-title: BioLite 3D Slim Fit Headlamp - OutDoor Show Review
+title: Patagonia Capilene Daily - OutDoor Show Review
 date: 2018-07-02 11:01:01
 category: articles
 tags:
