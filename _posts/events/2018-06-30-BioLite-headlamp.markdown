@@ -1,6 +1,6 @@
 ---
 title: BioLite 3D Slim Fit Headlamp - OutDoor Show Review
-date: 2018-07-01 23:01:01
+date: 2018-07-02 11:01:01
 category: articles
 tags:
   - articles
@@ -26,70 +26,32 @@ This is completely new. So this is the very first Bio light 3d slim fit headlamp
 to a great headlamp.
 
 One is how thin is it right. How do we make a headlamp that isn't so bulky that you can forget that you're wearing it really and so one is a
-very thin front that's integrated
+very thin front that's integrated directly into the textiles.
 
-00:00:26.939 --> 00:00:30.570
-directly into the textiles. The second
-aspect is the weight has been
+The second aspect is the weight has been redistributed.
 
-00:00:30.570 --> 00:00:34.200
-redistributed. So the batteries on the
-back and the light is on the front. So
+So the batteries on the back and the light is on the front.
 
-00:00:34.200 --> 00:00:38.219
-it's it really doesn't bounce or move
-around as you move your head. And the
+So it's it really doesn't bounce or move around as you move your head.
 
-00:00:38.219 --> 00:00:42.780
-third piece is the technical soft goods
-which are very breathable but also very
+And the third piece is the technical soft goods which are very breathable but also very comfortable and very stable.
 
-00:00:42.780 --> 00:00:48.950
-comfortable and very stable. And so this
-is a great headlamp for active outdoors
+And so this is a great headlamp for active outdoors that you can really wear all night long and it stays very comfortable.
 
-00:00:48.950 --> 00:00:54.149
-that you can really wear all night long
-and it stays very comfortable. And how
+And how powerful is it?
 
-00:00:54.149 --> 00:01:06.830
-powerful is it? So the headlamp is 300
-and tell me when they're both on nope oh
+So it's a 320 lumens and it'll run for three and a half hours at 320 lumens or up to 40 hours on its lower settings.
 
-00:01:06.830 --> 00:01:19.320
-no they thief just okay. So it's a 320
-lumens and it'll run for three hours
+And they're working on a USB charger.
 
-00:01:19.320 --> 00:01:24.750
-three and a half hours at 320 lumens or
-up to 40 hours on its lower settings. And
+Yes, they're USB rechargeable.
 
-00:01:24.750 --> 00:01:31.920
-they're working on a USB charger. Yes,
-they're USB rechargeable. And does it
+And does it also adjust. Yes it's also adjustable.
 
-00:01:31.920 --> 00:01:39.000
-also adjust. Yes it's also adjustable. Yeah and I also
+Yeah and I also while they were clicking through the whole setting I saw that you have red light.
 
-00:01:39.000 --> 00:01:42.990
-while they were clicking through the
-whole setting I saw that you have
+Yes there's also a red light mode inside. So there's a whole variety of different things.
 
-00:01:42.990 --> 00:01:46.710
-red light. Yes there's also a red light
-mode inside. So there's a whole
+Yeah. Okay, well it's a quite interesting development.
 
-00:01:46.710 --> 00:01:50.549
-variety of different things. Yeah.
-Okay, well it's a quite interesting
-
-00:01:50.549 --> 00:01:53.820
-development. Thank you. Thank you and we
-really feel like this is the first
-
-00:01:53.820 --> 00:01:59.399
-headlamp that is truly like a modern
-wearable like a SmartWatch you know we
-
-00:01:59.399 --> 00:02:04.259
-brought that concept to the headlamp.
+Thank you and we really feel like this is the first headlamp that is truly like a modern wearable like a SmartWatch you know we brought that concept to the headlamp.
