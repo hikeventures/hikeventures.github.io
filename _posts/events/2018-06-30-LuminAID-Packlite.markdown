@@ -12,7 +12,7 @@ tags:
 layout: post
 ---
 
-Peter Wöstmann from the Ortlieb showed us the Ortlieb Atrack at the OutDoor Show in Friedrichshafen.
+Anna Stork from the LuminAID showed us the PackLite Hero, Spectra, Nova USB and MAX at the OutDoor Show in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/o7wust5ONM0"></iframe>
