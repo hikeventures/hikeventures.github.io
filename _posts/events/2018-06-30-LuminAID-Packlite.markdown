@@ -36,7 +36,7 @@ And then we have the <a href="https://amzn.to/2KByvck" rel="nofollow">Nova USB</
 
 It has a micro USB input port so you can recharge it by solar or by microUSB.
 
-And then we also have the color-changing <a href="https://amzn.to/2Nj4wY7" rel="nofollow">spectral lantern</a> which is really fun for for barbecues or for your pool and they're all totally waterproof and they float.
+And then we also have the color-changing <a href="https://amzn.to/2Nj4wY7" rel="nofollow">Spectra lantern</a> which is really fun for for barbecues or for your pool and they're all totally waterproof and they float.
 
 <a rel="nofollow" href="https://www.amazon.com/dp/B072F2YSHB/ref=as_li_ss_il?aaxitk=pPOJGhvNMkgKZHsnAMXN6Q&pd_rd_i=B072F2YSHB&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=3930100107420870094&pf_rd_s=desktop-sx-top-slot&pf_rd_t=301&pf_rd_i=luminaid+75+lumen&hsa_cr_id=9340147010801&linkCode=li3&tag=hikeve-20&linkId=9855930f467dcefa38ae7cb90bc36cc8" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B072F2YSHB&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B072F2YSHB" width="1" height="1" border="0" alt="LuminAID Spectral" style="border:none !important; margin:0px !important;" />
 
