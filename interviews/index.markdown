@@ -24,6 +24,8 @@ published: true
         </tr>
 
 
+<hr>
+
         <tr>
         <td><strong>BioLite</strong></td><td></td>
         </tr>
@@ -33,6 +35,7 @@ published: true
 
         </tr>
 
+<hr>
 
         <tr>
         <td><strong>Hilleberg</strong></td><td></td>
@@ -43,6 +46,8 @@ published: true
 
         </tr>
 
+<hr>
+
         <tr>
         <td><strong>Jetboil</strong></td><td></td>
         </tr>
@@ -52,6 +57,7 @@ published: true
 
         </tr>
 
+<hr>
 
         <tr>
         <td><strong>Katadyn</strong></td><td></td>
@@ -62,6 +68,8 @@ published: true
 
         </tr>
 
+<hr>
+
         <tr>
         <td><strong>Knog</strong></td><td></td>
         </tr>
@@ -70,6 +78,8 @@ published: true
             <td><a href="/Knog-Bandicoot-Headlamp/">Bandicoot Headlamp</a></td>
 
         </tr>
+
+<hr>
 
         <tr>
         <td><strong>LuminAID</strong></td><td></td>
@@ -81,6 +91,8 @@ published: true
 
         </tr>
 
+<hr>
+
         <tr>
         <td><strong>Lundhags</strong></td><td></td>
         </tr>
@@ -90,6 +102,8 @@ published: true
             <td><a href="/Lundhags-Merino-Tee/">Gimmer Merino Tee</a></td>
 
         </tr>
+
+<hr>
 
         <tr>
         <td><strong>Mountain Equipment</strong></td><td></td>
@@ -101,6 +115,7 @@ published: true
 
         </tr>
 
+<hr>
 
         <tr>
         <td><strong>Morakniv</strong></td><td></td>
@@ -112,6 +127,7 @@ published: true
 
         </tr>
 
+<hr>
 
         <tr>
         <td><strong>MSR</strong></td><td></td>
@@ -123,7 +139,7 @@ published: true
 
         </tr>
 
-
+<hr>
 
         <tr>
         <td><strong>Norrøna</strong></td><td></td>
@@ -136,7 +152,7 @@ published: true
 
         </tr>
 
-
+<hr>
 
         <tr>
         <td><strong>Ortlieb</strong></td><td></td>
@@ -148,6 +164,7 @@ published: true
 
         </tr>
 
+<hr>
 
         <tr>
         <td><strong>Vaude</strong></td><td></td>
@@ -158,9 +175,6 @@ published: true
             <td><a href="/Vaude-Proof-28/">Vaude Proof 28</a></td>
 
         </tr>
-
-
-Vaude Proof 28
 
 </tbody>
 </table>
