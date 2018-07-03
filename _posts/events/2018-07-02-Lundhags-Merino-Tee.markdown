@@ -1,7 +1,6 @@
 ---
 title: Lundhags Gimmer Merino Tee - OutDoor Show Review
 date: 2018-07-03 11:01:01
-
 category: articles
 tags:
   - articles
