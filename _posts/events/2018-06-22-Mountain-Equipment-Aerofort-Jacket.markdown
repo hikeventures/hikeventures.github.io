@@ -42,7 +42,7 @@ It's like a good sized snowball. I used it a lot
 during the winter and for testing and it works fantastic.
 
 There is no problem that you're not afraid that you would have problems
-because of the rough side so if I would go on a long trekking tour with a heavy rucksack I would definitely take another jacket.
+because of the Rucksack so if I would go on a long trekking tour with a heavy rucksack I would definitely take another jacket.
 
 And then we have here a windbreaker. So windbreakers have been for a long time on the market very long time and if you ever have used windbreakers it is always sticky to the skin.
 

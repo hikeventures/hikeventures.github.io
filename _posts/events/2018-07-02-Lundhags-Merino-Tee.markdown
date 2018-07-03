@@ -1,7 +1,7 @@
 ---
-title: Lundhags Merino Tee - OutDoor Show Review
-date: 2018-07-02 11:01:01
-published: false
+title: Lundhags Gimmer Merino Tee - OutDoor Show Review
+date: 2018-07-03 11:01:01
+
 category: articles
 tags:
   - articles
@@ -13,36 +13,38 @@ tags:
 layout: post
 ---
 
-Caroline Karlström from Lundhags showed us their Merino Tee at the OutDoor Show in Friedrichshafen.
+Caroline Karlström from Lundhags showed us their Gimmer Merino Tee at the OutDoor Show in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/hQsueFksdnc"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/4S8pzZn5nGY"></iframe>
 </div>
 <br>
 <!--more-->
 
 ---
 
-Could you tell us something about the new interesting products.
+So Caroline, beside the bags you also have some other interesting products.
 
-Yeah, so we do have some kind of a new product that are really working on the the base layer side.
+Yes we do. We have this mid layer with merino wool. A whole collection and this is actually a whole new for us because we
+didn't do this we had some some spare parts of merino wool but this year we will have a whole collection.
 
-So we've been developing like new fabrics that are really kind of for warm weather and really kind of water compatible as well.
+We will have long sleeves and also I think this is more thick.
 
-So the idea is to use like recycled face fabric and get them kind of really really quick drying so we're gonna have like the Capilene for instance.
+Yes! Very very nice. And also this thin layer and the thing with this is that we have now hundred percent wool.
 
-So the Capilene is basically really really soft fabric here.
+So it's not a mix. It is just merino wool. Just merino wool and moleskin free of course.
 
-That it is really pleasant against the skin it should be yeah so that's that's the main goal because it's gonna be always against your body but then you're gonna have UPF protection as well so you will be protected from the UV from the Sun.
+And the material has so many advantages.
 
-So when you have long sleeves so it was really comfortable if you need you can roll it up.
+It's breathable, it's functional, it doesn't smell and this is so light. It gets so nice to the skin.
 
-Yeah exactly you have long-sleeve, short-sleeve you even have like tank tops and then the beauty of it is just like it's gonna dry in a short time.
+Sometimes you can feel that wool is a bit itchy but this won't itch. And this one could be worn not only in winter but also
+in summer.
 
-Exactly that's it the perfect demo here.
+Also in summer and actually that was new for me.
 
-Yeah just jumping into the water it's fine.
+I thought that was for winter activities.
 
-So that's kind of where we're going to focus for this season here really on those baselayers.
+But this is so nice you can have it all year around.
 
-We have different weight and different type of fabric.but this one will be kind of the most kind of water compatible.
+Just as it says: Love the seasons.
