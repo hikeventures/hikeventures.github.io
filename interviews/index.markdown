@@ -24,7 +24,7 @@ published: true
         </tr>
 
 
-<hr>
+
 
         <tr>
         <td><strong>BioLite</strong></td><td></td>
@@ -35,7 +35,7 @@ published: true
 
         </tr>
 
-<hr>
+
 
         <tr>
         <td><strong>Hilleberg</strong></td><td></td>
@@ -46,7 +46,7 @@ published: true
 
         </tr>
 
-<hr>
+
 
         <tr>
         <td><strong>Jetboil</strong></td><td></td>
@@ -57,7 +57,7 @@ published: true
 
         </tr>
 
-<hr>
+
 
         <tr>
         <td><strong>Katadyn</strong></td><td></td>
@@ -68,7 +68,7 @@ published: true
 
         </tr>
 
-<hr>
+
 
         <tr>
         <td><strong>Knog</strong></td><td></td>
@@ -79,7 +79,7 @@ published: true
 
         </tr>
 
-<hr>
+
 
         <tr>
         <td><strong>LuminAID</strong></td><td></td>
@@ -91,7 +91,7 @@ published: true
 
         </tr>
 
-<hr>
+
 
         <tr>
         <td><strong>Lundhags</strong></td><td></td>
@@ -103,7 +103,7 @@ published: true
 
         </tr>
 
-<hr>
+
 
         <tr>
         <td><strong>Mountain Equipment</strong></td><td></td>
@@ -115,7 +115,7 @@ published: true
 
         </tr>
 
-<hr>
+
 
         <tr>
         <td><strong>Morakniv</strong></td><td></td>
@@ -127,7 +127,7 @@ published: true
 
         </tr>
 
-<hr>
+
 
         <tr>
         <td><strong>MSR</strong></td><td></td>
@@ -139,7 +139,7 @@ published: true
 
         </tr>
 
-<hr>
+
 
         <tr>
         <td><strong>Norrøna</strong></td><td></td>
@@ -152,7 +152,7 @@ published: true
 
         </tr>
 
-<hr>
+
 
         <tr>
         <td><strong>Ortlieb</strong></td><td></td>
@@ -164,7 +164,7 @@ published: true
 
         </tr>
 
-<hr>
+
 
         <tr>
         <td><strong>Vaude</strong></td><td></td>
