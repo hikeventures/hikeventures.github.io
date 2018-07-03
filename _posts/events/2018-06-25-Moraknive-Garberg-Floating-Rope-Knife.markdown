@@ -15,7 +15,7 @@ layout: post
 Dennis Becker from Morakniv showed us their new <a href="https://amzn.to/2ts5Foh" rel="nofollow">Garberg Black Carbon</a> and Floating Rope Knife at the OutDoor Show in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/iydoZnI89fc"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VTfIMzGMBKY"></iframe>
 </div>
 <br>
 <!--more-->
