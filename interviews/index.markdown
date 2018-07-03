@@ -31,7 +31,7 @@ published: true
         </tr>
         <tr>
 
-            <td><a href="/BioLite-headlamp/">BioLite 3D Slim Fit Headlamp</a></td>
+            <td><a href="/BioLite-headlamp/">3D Slim Fit Headlamp</a></td>
 
         </tr>
 
@@ -53,7 +53,7 @@ published: true
         </tr>
         <tr>
 
-            <td><a href="/Jetboil-Flash-Millijoule/">Jetboil Flash and Millijoule</a></td>
+            <td><a href="/Jetboil-Flash-Millijoule/">Flash and Millijoule</a></td>
 
         </tr>
 
@@ -135,7 +135,7 @@ published: true
 
         <tr>
 
-            <td><a href="/MSR-PocketRocket-Deluxe/">MSR PocketRocket Deluxe</a></td>
+            <td><a href="/MSR-PocketRocket-Deluxe/"> PocketRocket Deluxe</a></td>
 
         </tr>
 
@@ -160,7 +160,7 @@ published: true
 
         <tr>
 
-            <td><a href="/Ortlieb-Atrack/">Ortlieb Atrack</a></td>
+            <td><a href="/Ortlieb-Atrack/"> Atrack</a></td>
 
         </tr>
 
@@ -172,7 +172,7 @@ published: true
 
         <tr>
 
-            <td><a href="/Vaude-Proof-28/">Vaude Proof 28</a></td>
+            <td><a href="/Vaude-Proof-28/">Proof 28</a></td>
 
         </tr>
 
