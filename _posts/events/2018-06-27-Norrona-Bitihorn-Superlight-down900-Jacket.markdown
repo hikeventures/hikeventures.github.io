@@ -20,6 +20,8 @@ Jørgen Jørgensen from Norrøna showed us their Norrøna Bitihorn Superlight do
 <br>
 <!--more-->
 
+Watch this video on <a href="https://www.youtube.com/watch?v=ech8-UqNpRk" rel="nofollow">YouTube</a>, subscribe to our <a rel="nofollow" href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see Norrøna products on <a hre="https://amzn.to/2MMmb9T" rel="nofollow">Amazon</a>.
+
 ---
 
 Our Norrøna Bitihorn Superlight down900 Jacket - so, here you have three layers. You can actually use it all summer.

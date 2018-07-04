@@ -20,6 +20,8 @@ Dennis Becker from Morakniv showed us their new <a href="https://amzn.to/2ts5Foh
 <br>
 <!--more-->
 
+Watch this video on <a href="https://www.youtube.com/watch?v=VTfIMzGMBKY&t=7s" rel="nofollow">YouTube</a>, subscribe to our <a rel="nofollow" href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see this product on <a hre="https://amzn.to/2MKVja0" rel="nofollow">Amazon</a>.
+
 ---
 
 Our company is producing today something between 10 and sometimes 20 thousand knives per day. Everything is made in Mora which is a very important point to say because we are controlling all parts. So the quality control.

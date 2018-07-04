@@ -21,6 +21,8 @@ Hugo Davidson from Knog showed us their new Bandicoot Headlamp at the OutDoor Sh
 <br>
 <!--more-->
 
+Watch this video on <a href="https://www.youtube.com/watch?v=6cQebNCRPrM" rel="nofollow">YouTube</a>, subscribe to our <a rel="nofollow" href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see Knog products on <a hre="https://amzn.to/2zbxTc4" rel="nofollow">Amazon</a>.
+
 ---
 
 You've got something interesting on the market now?
@@ -31,7 +33,7 @@ So we've just finished a new campaign on Kickstarter and the Kickstarter campaig
 
 The bandicoot is a new head torch and the head torch
 
-The bandicoot is a 100 lumen headlight headlamp. It has a whole series of different light settings from spotlight, floods a red light and then reading lights and the whole thing is molded out of one section of silicone.
+The bandicoot is a 100 lumen headlight headlamp. It has a whole series of different light settings from spotlight, floods a red light and then reading lights and the whole thing is moulded out of one section of silicone.
 
 As you can see there it's a continuous strap where it's adjustable running through the back it's very very lightweight isn't it so great for
 running it fits very comfortably and so on Kickstarter we had it running for one month we ended up with five thousand five hundred backers and generated around about 317.000 dollars for the first backers and that will be launched just at the end of October.

@@ -20,6 +20,8 @@ Peter Wöstmann from the Ortlieb showed us the Ortlieb Atrack at the OutDoor Sho
 <br>
 <!--more-->
 
+Watch this video on <a href="https://www.youtube.com/watch?v=Pm-s_leDyeU" rel="nofollow">YouTube</a>, subscribe to our <a rel="nofollow" href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see Ortlieb products on <a hre="https://amzn.to/2MLcgRF" rel="nofollow">Amazon</a>.
+
 ---
 
 Could you say something about the new products that you've got?

@@ -20,6 +20,8 @@ Jonathan Cedar from BioLite showed us their 3D Slim Fit Headlamp at the OutDoor 
 <br>
 <!--more-->
 
+Watch this video on <a href="https://www.youtube.com/watch?v=Q3xc5gRLCS8" rel="nofollow">YouTube</a>, subscribe to our <a rel="nofollow" href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see BioLite products on <a hre="https://amzn.to/2MH8JUo" rel="nofollow">Amazon</a>.
+
 ---
 
 This is completely new. So this is the very first Bio light 3d slim fit headlamp. We believe that there are three dimensions

@@ -21,6 +21,8 @@ Miriam Blume from Katadyn showed us their new <a href="https://amzn.to/2MooPT1" 
 <br>
 <!--more-->
 
+Watch this video on <a href="https://www.youtube.com/watch?v=OhE7bshiLjs&t=3s" rel="nofollow">YouTube</a>, subscribe to our <a rel="nofollow" href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see this product on <a hre="https://amzn.to/2MooPT1" rel="nofollow">Amazon</a>.
+
 ---
 
 Miriam could you please present something new that is coming?

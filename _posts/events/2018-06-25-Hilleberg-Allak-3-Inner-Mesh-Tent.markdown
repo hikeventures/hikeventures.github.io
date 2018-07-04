@@ -20,6 +20,8 @@ Petra Hilleberg from showed us their new <a rel="nofollow" href="https://amzn.to
 <br>
 <!--more-->
 
+Watch this video on <a href="https://www.youtube.com/watch?v=1qulwpoE-jk" rel="nofollow">YouTube</a>, subscribe to our <a rel="nofollow" href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see this product on <a hre="https://amzn.to/2tvvYK2" rel="nofollow">Amazon</a>.
+
 ---
 
 We've had the Allak for a few years that we're now calling the Allak 2 and now has a bigger brother - the <a rel="nofollow" href="https://amzn.to/2tvvYK2">Allak 3</a>.  

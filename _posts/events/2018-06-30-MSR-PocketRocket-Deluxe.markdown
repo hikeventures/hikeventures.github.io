@@ -20,6 +20,8 @@ Philip Leidinger from the MSR showed us the <a href="https://amzn.to/2tKENzS" re
 <br>
 <!--more-->
 
+Watch this video on <a href="https://www.youtube.com/watch?v=eSqYvleirkI" rel="nofollow">YouTube</a>, subscribe to our <a rel="nofollow" href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see MSR products on <a hre="https://amzn.to/2lPB3ZA" rel="nofollow">Amazon</a>.
+
 ---
 
 Hi Philip could you say something about the new developments for 2019?
