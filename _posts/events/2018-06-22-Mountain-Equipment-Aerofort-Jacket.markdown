@@ -21,7 +21,7 @@ Thomas Strobl from Mountain Equipment showed us their new Aerofort Jacket at the
 <br>
 <!--more-->
 
-Watch this video on <a href="https://www.youtube.com/watch?v=1qulwpoE-jk" rel="nofollow">YouTube</a>, subscribe to our <a rel="nofollow" href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see Mountain Equipment product on <a hre="https://amzn.to/2MKU9va" rel="nofollow">Amazon</a>.
+Watch this video on <a href="https://www.youtube.com/watch?v=1qulwpoE-jk" rel="nofollow" target="_blank">YouTube</a>, subscribe to our <a target="_blank" rel="nofollow" href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see Mountain Equipment product on <a target="_blank" hre="https://amzn.to/2MKU9va" rel="nofollow">Amazon</a>.
 
 ---
 

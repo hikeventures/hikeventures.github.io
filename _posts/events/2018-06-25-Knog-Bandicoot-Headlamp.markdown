@@ -21,7 +21,7 @@ Hugo Davidson from Knog showed us their new Bandicoot Headlamp at the OutDoor Sh
 <br>
 <!--more-->
 
-Watch this video on <a href="https://www.youtube.com/watch?v=6cQebNCRPrM" rel="nofollow">YouTube</a>, subscribe to our <a rel="nofollow" href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see Knog products on <a hre="https://amzn.to/2zbxTc4" rel="nofollow">Amazon</a>.
+Watch this video on <a href="https://www.youtube.com/watch?v=6cQebNCRPrM" target="_blank" rel="nofollow">YouTube</a>, subscribe to our <a target="_blank" rel="nofollow" href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see Knog products on <a hre="https://amzn.to/2zbxTc4" rel="nofollow" target="_blank">Amazon</a>.
 
 ---
 

@@ -20,7 +20,7 @@ Philip Leidinger from the MSR showed us the <a href="https://amzn.to/2tKENzS" re
 <br>
 <!--more-->
 
-Watch this video on <a href="https://www.youtube.com/watch?v=eSqYvleirkI" rel="nofollow">YouTube</a>, subscribe to our <a rel="nofollow" href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see MSR products on <a hre="https://amzn.to/2lPB3ZA" rel="nofollow">Amazon</a>.
+Watch this video on <a href="https://www.youtube.com/watch?v=eSqYvleirkI" rel="nofollow" target="_blank">YouTube</a>, subscribe to our <a rel="nofollow" target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see MSR products on <a hre="https://amzn.to/2lPB3ZA" rel="nofollow" target="_blank">Amazon</a>.
 
 ---
 
