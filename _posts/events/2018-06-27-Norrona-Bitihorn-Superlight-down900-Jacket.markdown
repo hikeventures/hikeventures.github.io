@@ -15,7 +15,7 @@ layout: post
 Jørgen Jørgensen from Norrøna showed us their Norrøna Bitihorn Superlight down900 Jacket at the OutDoor Show in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kf_GdhKQYog"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ech8-UqNpRk"></iframe>
 </div>
 <br>
 <!--more-->
