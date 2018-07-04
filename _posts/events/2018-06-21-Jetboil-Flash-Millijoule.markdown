@@ -18,6 +18,9 @@ Paul Johnson from Jetboil showed us some of their new highlights such as the Fla
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/f2vcnyJ1naQ"></iframe>
 </div>
 <br>
+
+Watch this video on <a href="https://www.youtube.com/watch?v=f2vcnyJ1naQ&t=76s" rel="nofollow">YouTube</a>, <a rel="nofollow" href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">subscribe</a> to our channel or see this product on <a hre="https://amzn.to/2MKhRZA" rel="nofollow">Amazon</a>.
+
 <!--more-->
 
 ---
