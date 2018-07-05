@@ -1,6 +1,6 @@
 ---
 
-title: Differences between Suunto 3 Fitness, Suunto Traverse and Ambit3 and Spartan Trainer Wrist HR
+title: Differences between Suunto 9, Suunto 3 Fitness, Suunto Traverse and Ambit3 and Spartan Trainer Wrist HR
 description: What are the differences between the Suunto Traverse and the Ambit3 and the Suunto Spartan Trainer Wrist HR?
 date: 2015-10-20 05:59:40
 update_date: 2017-08-26 06:00:52
@@ -14,7 +14,9 @@ layout: post
 # URL: http://www.hikeventures.com/Suunto-Traverse-Ambit3-differences/
 ---
 
-Suunto has recently released its latest GPS watch - the Suunto Traverse - which is especially interesting for those interested in hiking and backpacking. So what are the differences between the Suunto Ambit3 and the Suunto Traverse?
+Suunto has recently released its latest GPS watch - the Suunto Traverse - which is especially interesting for those interested in hiking and backpacking. So what are the differences between the Suunto 9, Spartan, Ambit3 and Traverse?
+
+**Update 5.07.2018: ** Suunto has released the [Suunto 9](https://amzn.to/2tTFKWq).
 
 **Update 26.08.2017:** Suunto has released the [Suunto Spartan Sport Wrist HR GPS Watch](http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F129489%2Fsuunto-spartan-sport-wrist-hr-gps-watch) and the more affordable [Suunto Spartan Trainer Wrist HR GPS Watch](http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F129489%2Fsuunto-spartan-sport-wrist-hr-gps-watch). Both are featuring color displays and are the latest developments from Suunto. There is also the new [Garmin Fenix 5X](http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F121191%2Fgarmin-fenix-5x-sapphire-multisport-gps-heart-rate-monitor-watch) which is capable of displaying topo maps.
 
@@ -40,9 +42,15 @@ The Traverse also has a flashlight function which could be quite useful (for exa
 
 Personally, I like the new look of the Suunto Traverse more than the design of the old Suunto Ambit3. Also, the wrist strap of the Suunto Traverse feels somewhat more comfortable than the one on the old Suunto Ambit3.
 
+The Suunto 9 seems like a great watch if battery life is important to you. With 81 grams it's one of the more heavyer Suunto models.
+
 ---
+
+## Suunto 9
+The [Suunto 9](https://amzn.to/2tTFKWq) is the latest watch from Suunto and features great battery life and intelligent battery technology with smart charging reminders. It's 100 meter water resistant, features Wrist HR, Fusedtrack and over 80 sport modes as well as weather functions.
+
 ## Suunto 3 Fitness
-The Suunto 3 Fitness is the latest watch from Suunto and weights 36 grams. It's possible to connect to the Suunto app to measure speed and distance and tracks your route on your smartphone.
+The [Suunto 3 Fitness](https://amzn.to/2zb43o1) weights 36 grams. It's possible to connect to the Suunto app to measure speed and distance and tracks your route on your smartphone.
 
 
 ## Suunto Spartan Trainer Wrist HR
