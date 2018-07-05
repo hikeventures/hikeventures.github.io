@@ -1,7 +1,6 @@
 ---
 title: Lundhags Ymse, Romus and Grett bags - OutDoor Show Review
-date: 2018-07-02 11:01:01
-published: false
+date: 2018-07-05 16:01:01
 category: articles
 tags:
   - articles
@@ -16,33 +15,26 @@ layout: post
 Caroline Karlström from Lundhags showed us their Ymse (Tote bag), Romus (duffelbag) and Grett (messenger bag) at the OutDoor Show in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/hQsueFksdnc"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/JWG1pUoBvYo"></iframe>
 </div>
 <br>
 <!--more-->
 
 ---
 
-Could you tell us something about the new interesting products.
+Hi Caroline. Could you say something about the new products that Lundhags brings us this year.
 
-Yeah, so we do have some kind of a new product that are really working on the the base layer side.
+Next year. For next year we will complete our trekking bags collection with some new bags that you can use when you're going trekking or going to the outdoor experiences.
 
-So we've been developing like new fabrics that are really kind of for warm weather and really kind of water compatible as well.
+So we have this duffel bag and we have a small bag and we also have this very nice tote bag which we call Ymse.
 
-So the idea is to use like recycled face fabric and get them kind of really really quick drying so we're gonna have like the Capilene for instance.
+All our names are from Jämtland where we are from and these are really nice.
 
-So the Capilene is basically really really soft fabric here.
+We have used all the same material as the big trekking bags that we launched 2018 and now to complete the family with bags we have made all these.
 
-That it is really pleasant against the skin it should be yeah so that's that's the main goal because it's gonna be always against your body but then you're gonna have UPF protection as well so you will be protected from the UV from the Sun.
+So if you like you're tracking bag you don't need to part with this you can
+just have a city bag.
 
-So when you have long sleeves so it was really comfortable if you need you can roll it up.
+Also in the same style and the same materials. Same materials, same sustainable materials and organic cotton and polyester - recycled polyester.
 
-Yeah exactly you have long-sleeve, short-sleeve you even have like tank tops and then the beauty of it is just like it's gonna dry in a short time.
-
-Exactly that's it the perfect demo here.
-
-Yeah just jumping into the water it's fine.
-
-So that's kind of where we're going to focus for this season here really on those baselayers.
-
-We have different weight and different type of fabric.but this one will be kind of the most kind of water compatible.
+It completes our family with packs and bags.
