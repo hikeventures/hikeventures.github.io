@@ -20,7 +20,7 @@ Anna Stork from the LuminAID showed us the PackLite Hero, Spectra, Nova USB and 
 <br>
 <!--more-->
 
-Watch this video on <a href="https://www.youtube.com/watch?v=o7wust5ONM0" rel="nofollow" target="_blank">YouTube</a>, subscribe to our <a rel="nofollow" target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see this product on <a hre="https://amzn.to/2tTpo0g" rel="nofollow" target="_blank">Amazon</a>.
+Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=o7wust5ONM0" rel="nofollow" target="_blank">YouTube</a>, subscribe to our <a rel="nofollow" target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see this product on <a hre="https://amzn.to/2tTpo0g" rel="nofollow" target="_blank">Amazon</a>.
 
 ---
 

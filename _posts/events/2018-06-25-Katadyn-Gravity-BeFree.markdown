@@ -21,7 +21,7 @@ Miriam Blume from Katadyn showed us their new <a href="https://amzn.to/2MooPT1" 
 <br>
 <!--more-->
 
-Watch this video on <a href="https://www.youtube.com/watch?v=OhE7bshiLjs&t=3s" target="_blank" rel="nofollow">YouTube</a>, subscribe to our <a target="_blank" rel="nofollow" href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see this product on <a hre="https://amzn.to/2MooPT1" rel="nofollow" target="_blank">Amazon</a>.
+Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=OhE7bshiLjs&t=3s" target="_blank" rel="nofollow">YouTube</a>, subscribe to our <a target="_blank" rel="nofollow" href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see this product on <a hre="https://amzn.to/2MooPT1" rel="nofollow" target="_blank">Amazon</a>.
 
 ---
 

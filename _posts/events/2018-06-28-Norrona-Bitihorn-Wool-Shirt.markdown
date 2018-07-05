@@ -20,7 +20,7 @@ Jørgen Jørgensen from Norrøna showed us their Norrøna Bitihorn Wool Shirt at
 <br>
 <!--more-->
 
-Watch this video on <a href="https://www.youtube.com/watch?v=_CfHpOZhyTQ" rel="nofollow" target="_blank">YouTube</a>, subscribe to our <a rel="nofollow" target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see Norrøna products on <a hre="https://amzn.to/2MMmb9T" rel="nofollow" target="_blank">Amazon</a>.
+Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=_CfHpOZhyTQ" rel="nofollow" target="_blank">YouTube</a>, subscribe to our <a rel="nofollow" target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see Norrøna products on <a hre="https://amzn.to/2MMmb9T" rel="nofollow" target="_blank">Amazon</a>.
 
 ---
 
