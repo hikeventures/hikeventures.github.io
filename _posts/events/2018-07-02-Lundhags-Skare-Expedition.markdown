@@ -1,7 +1,6 @@
 ---
 title: Lundhags Skare Expedition Boots - OutDoor Show Review
-date: 2018-07-02 11:01:01
-published: false
+date: 2018-07-05 16:35:01
 category: articles
 tags:
   - articles
@@ -13,38 +12,50 @@ tags:
 layout: post
 ---
 
-Caroline Karlström from Lundhags showed us their Skare Expedition Boots, Ymse (Tote bag), Romus (duffelbag) and Grett (messenger bag) at the OutDoor Show in Friedrichshafen.
-
-Lundhags Skare Expedition Boots, Ymse (Tote bag), Romus (duffelbag) and Grett (messenger bag).
+Caroline Karlström from Lundhags showed us their Skare Expedition Boots at the OutDoor Show in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/hQsueFksdnc"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kdD0qZjqGvI"></iframe>
 </div>
 <br>
 <!--more-->
 
 ---
 
-Could you tell us something about the new interesting products.
+You're famous for the boots. This is the origin, isn't it?
 
-Yeah, so we do have some kind of a new product that are really working on the the base layer side.
+It's the origin from 1932.
 
-So we've been developing like new fabrics that are really kind of for warm weather and really kind of water compatible as well.
+And actually the news for 2019 is that we now made our warmest boot ever.
 
-So the idea is to use like recycled face fabric and get them kind of really really quick drying so we're gonna have like the Capilene for instance.
+So, for the last almost 90 years, it's the warmest boot?
 
-So the Capilene is basically really really soft fabric here.
+Yeah. This is our warmest boot because we have this felt liner within.
 
-That it is really pleasant against the skin it should be yeah so that's that's the main goal because it's gonna be always against your body but then you're gonna have UPF protection as well so you will be protected from the UV from the Sun.
+And both the outsole and the inner sole and everything get together.
 
-So when you have long sleeves so it was really comfortable if you need you can roll it up.
+This you can, you know,  stand in in snow for hours, taking the perfect picture to put on your blog.
 
-Yeah exactly you have long-sleeve, short-sleeve you even have like tank tops and then the beauty of it is just like it's gonna dry in a short time.
+It is rather heavy. I mean, it's not a very light one.
 
-Exactly that's it the perfect demo here.
+No. This is not very light.
 
-Yeah just jumping into the water it's fine.
+The inner part is not removable? Or is it?
 
-So that's kind of where we're going to focus for this season here really on those baselayers.
+Yes, it's a liner.
 
-We have different weight and different type of fabric.but this one will be kind of the most kind of water compatible.
+So you can take it out to dry it.
+
+So, what you will do is you're out all day.
+
+And then you go to your tent.
+
+And you will take the liner out, put in your sleeping bag and it will dry till tomorrow.
+
+Definitely very nice.
+
+So, this is with all our shell boots.
+
+We don't have this padding - we have this shell.
+
+So, it's durable. It's sustainable. it's getting dry fast and that is what you need.
