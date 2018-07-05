@@ -12,6 +12,7 @@ tags:
   - watch
 layout: post
 # URL: http://www.hikeventures.com/Suunto-Traverse-Ambit3-differences/
+
 ---
 
 Suunto has recently released its latest GPS watch - the Suunto Traverse - which is especially interesting for those interested in hiking and backpacking. So what are the differences between the Suunto 9, Spartan, Ambit3 and Traverse?
