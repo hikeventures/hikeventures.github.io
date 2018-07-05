@@ -20,6 +20,8 @@ Caroline Karlström from Lundhags showed us their Skare Expedition Boots at the 
 <br>
 <!--more-->
 
+Watch this video on <a href="http://www.hikeventures.com/Lundhags-Skare-Expedition/" rel="nofollow" target="_blank">YouTube</a>, subscribe to our <a rel="nofollow" target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see Lundhags products on <a hre="https://amzn.to/2tSbiMr" rel="nofollow" target="_blank">Amazon</a>.
+
 ---
 
 You're famous for the boots. This is the origin, isn't it?
