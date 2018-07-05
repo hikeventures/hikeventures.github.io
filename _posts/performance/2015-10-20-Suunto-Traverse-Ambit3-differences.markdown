@@ -3,7 +3,7 @@
 title: Differences between Suunto 9, Suunto 3 Fitness, Suunto Traverse and Ambit3 and Spartan Trainer Wrist HR
 description: What are the differences between the Suunto Traverse and the Ambit3 and the Suunto Spartan Trainer Wrist HR?
 date: 2015-10-20 05:59:40
-update_date: 2017-08-26 06:00:52
+update_date: 2018-07-05 06:00:52
 category: articles
 image: https://farm8.staticflickr.com/7138/26503377864_db26a8025b_b.jpg
 tags:
