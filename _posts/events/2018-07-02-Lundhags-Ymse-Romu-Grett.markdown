@@ -20,6 +20,8 @@ Caroline Karlström from Lundhags showed us their Ymse (Tote bag), Romus (duffel
 <br>
 <!--more-->
 
+Watch this video on <a href="https://www.youtube.com/watch?v=JWG1pUoBvYo" rel="nofollow" target="_blank">YouTube</a>, subscribe to our <a rel="nofollow" target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see Lundhags products on <a hre="https://amzn.to/2tSbiMr" rel="nofollow" target="_blank">Amazon</a>.
+
 ---
 
 Hi Caroline. Could you say something about the new products that Lundhags brings us this year.
