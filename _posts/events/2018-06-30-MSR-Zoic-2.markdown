@@ -15,7 +15,7 @@ layout: post
 Philip Leidinger from the MSR showed us the MSR Zoic 2 at the OutDoor Show in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Wm0zOUuAayM"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5vge8Oopin0"></iframe>
 </div>
 <br>
 <!--more-->
