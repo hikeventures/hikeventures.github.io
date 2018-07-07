@@ -15,7 +15,7 @@ layout: post
 Paul Johnson from Jetboil showed us some of their new highlights such as the Flash and Millijoule stoves at the OutDoor Show in Friedrichshafen and explained us on what to pay attention to when selecting a cooking system.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/f2vcnyJ1naQ"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5vge8Oopin0"></iframe>
 </div>
 <br>
 
