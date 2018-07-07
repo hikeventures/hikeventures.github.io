@@ -23,7 +23,7 @@ Thomas Strobl from Mountain Equipment showed us their new Trembler Jacket at the
 
 ---
 
-Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=dVIIME5Su-0" target="_blank" rel="nofollow">YouTube</a>, subscribe to our <a target="_blank" rel="nofollow" href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see Mountain Wquipment gear on <a hre="https://amzn.to/2zcKjAy" rel="nofollow" target="_blank">Amazon</a>.
+Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=dVIIME5Su-0" target="_blank" rel="nofollow">YouTube</a>, subscribe to our <a target="_blank" rel="nofollow" href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see Mountain Wquipment gear on <a href="https://amzn.to/2zcKjAy" rel="nofollow" target="_blank">Amazon</a>.
 
 The Trembler jacket is a very stylish and has a lightweight grit fleece which is
 very breathable.  

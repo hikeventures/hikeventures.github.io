@@ -20,7 +20,7 @@ Petra Hilleberg from showed us their new <a rel="nofollow" href="https://amzn.to
 <br>
 <!--more-->
 
-Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=1qulwpoE-jk" target="_blank" rel="nofollow">YouTube</a>, subscribe to our <a target="_blank" rel="nofollow" href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see this product on <a hre="https://amzn.to/2tvvYK2" rel="nofollow" target="_blank">Amazon</a>.
+Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=1qulwpoE-jk" target="_blank" rel="nofollow">YouTube</a>, subscribe to our <a target="_blank" rel="nofollow" href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see this product on <a href="https://amzn.to/2tvvYK2" rel="nofollow" target="_blank">Amazon</a>.
 
 ---
 

@@ -19,7 +19,7 @@ Paul Johnson from Jetboil showed us some of their new highlights such as the Fla
 </div>
 <br>
 
-Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=f2vcnyJ1naQ&t=76s" rel="nofollow" target="_blank">YouTube</a>, subscribe to our <a target="_blank" rel="nofollow" href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see this product on <a hre="https://amzn.to/2MKhRZA" rel="nofollow" target="_blank">Amazon</a>.
+Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=f2vcnyJ1naQ&t=76s" rel="nofollow" target="_blank">YouTube</a>, subscribe to our <a target="_blank" rel="nofollow" href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see this product on <a href="https://amzn.to/2MKhRZA" rel="nofollow" target="_blank">Amazon</a>.
 
 <!--more-->
 
