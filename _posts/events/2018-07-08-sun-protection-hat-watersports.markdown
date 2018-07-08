@@ -33,11 +33,9 @@ though I love this cap if I'm paddling.
 
 I'm not going for 10 ounce canvas I'm gonna go for some of this synthetic item which has fantastic breathability, really nice sun protection and it's gonna stay on.
 
-<a rel="nofollow" href="https://www.amazon.com/KAVU-Trail-runner-Fishing-Large/dp/B01NBVN2RO/ref=as_li_ss_il?ie=UTF8&qid=1531032569&sr=8-4&keywords=kavu+hat&linkCode=li2&tag=hikeve-20&linkId=ac2f60267d323e00cb605c493103fa13" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01NBVN2RO&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li2&o=1&a=B01NBVN2RO" width="1" height="1" border="0" alt="best cap for paddlers" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="https://www.amazon.com/KAVU-Chillba-Fishing-Moss-Size/dp/B01MUBM1DC/ref=as_li_ss_il?ie=UTF8&qid=1531032569&sr=8-2&keywords=kavu+hat&linkCode=li3&tag=hikeve-20&linkId=2dc5f70b18a085e9a32e0d742fee8ed1" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MUBM1DC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B01MUBM1DC" width="1" height="1" border="0" alt="best cap for paddlers" style="border:none !important; margin:0px !important;" />
 
 Right, so something just as simple as that based on your needs whether you need something beefy that you can beat the heck out of
 it or something that's gonna be maybe a little bit more lightweight and a little better in the water as well.
-
-<a rel="nofollow" href="https://www.amazon.com/KAVU-Chillba-Fishing-Moss-Size/dp/B01MUBM1DC/ref=as_li_ss_il?ie=UTF8&qid=1531032569&sr=8-2&keywords=kavu+hat&linkCode=li3&tag=hikeve-20&linkId=2dc5f70b18a085e9a32e0d742fee8ed1" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MUBM1DC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B01MUBM1DC" width="1" height="1" border="0" alt="best cap for paddlers" style="border:none !important; margin:0px !important;" />
 
 So identify your needs. You got it.
