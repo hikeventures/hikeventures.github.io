@@ -1,0 +1,63 @@
+---
+title: Patagonia Micro Puff Jacket - OutDoor Show Review
+date: 2018-07-09 10:01:01
+category: articles
+tags:
+  - articles
+  - Patagonia
+  - OutDoor show
+  - interview
+  - Friedrichshafen
+  - video
+layout: post
+---
+
+Clément Mésange from Patagonia showed us the Micro Puff Jacket at the OutDoor Show in Friedrichshafen.
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/sxT78PdPoo4"></iframe>
+</div>
+<br>
+<!--more-->
+
+Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=sxT78PdPoo4" rel="nofollow" target="_blank">YouTube</a>, subscribe to our <a rel="nofollow" target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see Patagonia on <a href="https://amzn.to/2tWX78l" rel="nofollow" target="_blank">Amazon</a>.
+
+---
+
+On the insulation part here we have the micro puff.  
+
+Micro Puff is our lightest synthetic insulation here.
+
+Really developed on the technical side for more kind of the Alpine side of our consumer here but it's really a cross over as well.
+
+Goes with a lot of different environments etc.  
+
+The beauty of it is it's synthetic.
+
+So synthetics mean it won't absorb water and continue to insulate you even in really wet environments.
+
+The second thing as well is it's extremely light and really packable.
+
+So you can just throw it into the backpack.
+
+Exactly you put it in your backpack.
+
+It's not gonna be bigger than one fist really.
+
+Can we try to fold it. Oh yeah, we can.
+
+So you also have internal storage pockets.
+
+Yeah, so it goes only on the end pockets.
+
+And what I see is that there is still quite a lot of space in the pocket which is really easy.
+
+Yeah exactly. You  need to really struggle trying to fit everything in.
+
+Exactl,y so you don't have to fight too much for.
+
+So that's so big when it's gonna finish.
+
+Kind of a small ball here. That's quite minimal here. So you put it just on the bottom of your bag.
+
+It makes it really easy and really conclusive.
