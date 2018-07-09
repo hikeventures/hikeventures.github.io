@@ -12,7 +12,7 @@ tags:
 layout: post
 ---
 
-Clément Mésange from Patagonia showed us the Micro Puff Jacket at the OutDoor Show in Friedrichshafen.
+Clément Mésange from Patagonia showed us the <a href="https://amzn.to/2L0R8qi" rel="nofollow">Micro Puff Jacket</a> at the OutDoor Show in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/sxT78PdPoo4"></iframe>
@@ -24,9 +24,11 @@ Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=sxT78PdPoo4" r
 
 ---
 
-On the insulation part here we have the micro puff.  
+On the insulation part here we have the <a href="https://amzn.to/2L0R8qi" rel="nofollow">Micro Puff Jacket</a>.  
 
 Micro Puff is our lightest synthetic insulation here.
+
+<a rel="nofollow" href="https://www.amazon.com/Patagonia-Mens-Micro-Jacket-Dolomite/dp/B07962BX1M/ref=as_li_ss_il?ie=UTF8&qid=1531120376&sr=8-7&keywords=Patagonia+micro+puff&linkCode=li3&tag=hikeve-20&linkId=f3fc3093134ae3c8813914faf507df6e" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07962BX1M&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B07962BX1M" width="1" height="1" border="0" alt="Patagonia Micro Puff Jacket" style="border:none !important; margin:0px !important;" />
 
 Really developed on the technical side for more kind of the Alpine side of our consumer here but it's really a cross over as well.
 
