@@ -20,7 +20,7 @@ Alan Gear from Thule showed us the <a href="https://amzn.to/2NDakMw" rel="nofoll
 <br>
 <!--more-->
 
-Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=sK4uT1bGixI" rel="nofollow" target="_blank">YouTube</a>, subscribe to our <a rel="nofollow" target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see Patagonia on <a href="https://amzn.to/2NDakMw" rel="nofollow" target="_blank">Amazon</a>.
+Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=sK4uT1bGixI" rel="nofollow" target="_blank">YouTube</a>, subscribe to our <a rel="nofollow" target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see Thule on <a href="https://amzn.to/2NDakMw" rel="nofollow" target="_blank">Amazon</a>.
 
 ---
 
