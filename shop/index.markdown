@@ -11,6 +11,17 @@ Here is a selection of our favorite camping and blogging gear.
 
 ---
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/42435388885/in/datetaken-public/" title="Paddler"><img src="https://farm1.staticflickr.com/841/42435388885_6bdab68313_z.jpg" width="600" height="461" alt="Paddler"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="VG5YAMSCR3QZ8">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+
+
 
 <h3>Books</h3>
 <div id="partners_table" class="row">
