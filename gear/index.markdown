@@ -157,14 +157,14 @@ Garmin InReach Mini</a></h4>
 <center><h4><a href="http://amzn.to/2qe2v7r" rel="nofollow">
 Lundhags Makke Pants</a></h4>
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01LFCC55E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LFCC55E&linkCode=as2&tag=hikeve-20&linkId=20abaf4d25dac9854c4407da34044a32"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LFCC55E&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LFCC55E" width="1" height="1" border="0" alt="Lundhags Makke Pants" style="border:none !important; margin:0px !important;" />
-</center><br>
+</center><br>Lundhags offered us the Makke Pants for a reduced price and we quite like those pants. They are very durable, have stretch material on important parts of the pants and side zippers for better air ventilation. What's also nice with these pants is that you don't need a belt because there is a velcro strap which helps to tighten the pants.
 </div>
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
 <center><h4><a href="http://amzn.to/2pTVO9F" rel="nofollow">
 Western Mountaineering VersaLite</a></h4>
 <a target="_blank"  href="https://www.amazon.com/gp/product/B003MT4I8Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003MT4I8Q&linkCode=as2&tag=hikeve-20&linkId=227d667dbeb9a30be96481135bc9e244"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B003MT4I8Q&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B003MT4I8Q" width="1" height="1" border="0" alt="Western Mountaineering VersaLite" style="border:none !important; margin:0px !important;" />
-</center><br>
+</center><br>The Western Mountaineering VersaLite is our go-to sleeping bag throught the seasons. It feels comfortable to sleep in it and it's really warm when used during 3 seasons. you can also use it during the winter months when you layer it with another sleeping bag. Just make sure that you test such a sleeping bag combination before you go on a longer trip.
 </div>
 </div>
 
