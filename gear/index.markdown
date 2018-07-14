@@ -154,14 +154,14 @@ Garmin InReach Explorer+</a></h4>
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
 <center><h4><a href="http://amzn.to/2qe2v7r" rel="nofollow">
-Lundhags Makke Pants</a></h4></center>
+Lundhags Makke Pants</a></h4>
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01LFCC55E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LFCC55E&linkCode=as2&tag=hikeve-20&linkId=20abaf4d25dac9854c4407da34044a32"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LFCC55E&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LFCC55E" width="1" height="1" border="0" alt="Lundhags Makke Pants" style="border:none !important; margin:0px !important;" />
 </center><br>
 </div>
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
 <center><h4><a href="http://amzn.to/2pTVO9F" rel="nofollow">
-Western Mountaineering VersaLite</a></h4></center>
+Western Mountaineering VersaLite</a></h4>
 <a target="_blank"  href="https://www.amazon.com/gp/product/B003MT4I8Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003MT4I8Q&linkCode=as2&tag=hikeve-20&linkId=227d667dbeb9a30be96481135bc9e244"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B003MT4I8Q&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B003MT4I8Q" width="1" height="1" border="0" alt="Western Mountaineering VersaLite" style="border:none !important; margin:0px !important;" />
 </center><br>
 </div>
