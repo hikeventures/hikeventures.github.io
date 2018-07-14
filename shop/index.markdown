@@ -16,7 +16,7 @@ We have also added a section at the very bottom about our camera and blogging ge
 <div id="partners_table" class="row">
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-<center><a href="https://amzn.to/2NgxVkW" rel="nofollow">The Ultimate Hiker's Gear Guide</a></center>
+<center><h4><a href="https://amzn.to/2NgxVkW" rel="nofollow">The Ultimate Hiker's Gear Guide</a></h4></center>
 <a target="_blank"  href="https://www.amazon.com/gp/product/1426217846/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1426217846&linkCode=as2&tag=hikeve-20&linkId=a898c5b46fd8716f43b2e6f618c1936b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1426217846&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=1426217846" width="1" height="1"
 border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div>
