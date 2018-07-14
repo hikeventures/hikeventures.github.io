@@ -234,7 +234,7 @@ The Astral Buoyancy Dyneema Throw Bag is a leightweight throwbag which you can t
 Ortlieb First Aid Kid</a></h4>
 <a rel="nofollow" href="https://www.amazon.com/ORTLIEB-FIRST-WITHOUT-CONTENTS-Ortlieb/dp/B00A8E9I88/ref=as_li_ss_il?s=sporting-goods&ie=UTF8&qid=1531597270&sr=1-2-fkmr0&keywords=Ortlieb+first+aid+kit+waterproof&linkCode=li3&tag=hikeve-20&linkId=e89155267f34dd64a56887dd51a0ff47" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00A8E9I88&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00A8E9I88" width="1" height="1" border="0" alt="Ortlieb First Aid Kid" style="border:none !important; margin:0px !important;" />
 </center><br>
-The Ortlieb First Aid Kid is a waterproof bag which is perfect for all kind of water sports.
+A waterproof first aid kid such as a the Ortlieb First Aid Kid is just perfect for all kind of water sports.
 </div>
 
 </div>
