@@ -82,8 +82,8 @@ Icebreaker Men's Everyday Long sleeve Crewe Top</a></h4>
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
 <center><h4><a href="http://amzn.to/2nr1AL7" rel="nofollow">
 Icebreaker Men's Anatomica Briefs</a></h4>
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00YXXIBAQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00YXXIBAQ&linkCode=as2&tag=hikeve-20&linkId=59d644eaf5e2068b972289ab478458a4"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00YXXIBAQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00YXXIBAQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</center>
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00YXXIBAQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00YXXIBAQ&linkCode=as2&tag=hikeve-20&linkId=59d644eaf5e2068b972289ab478458a4"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00YXXIBAQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00YXXIBAQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></center>
+As a baselayer underwear we are wearing the Icebreaker Anatomica underwear. They are made of Merino wool and also keep you warm when they are wet. They are great for packrafting, hiking or winter activities.
 </div>
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
@@ -91,6 +91,7 @@ Icebreaker Men's Anatomica Briefs</a></h4>
 MSR Hubba Hubba NX Tent</a></h4>
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00G7H9CAY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G7H9CAY&linkCode=as2&tag=hikeve-20&linkId=b53e1b830d37e8b687cf91d1b31fccf6"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00G7H9CAY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00G7H9CAY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </center>
+The MSR Hubba Hubba NX tent is our 2-person tent beside the Hilleberg Anjan. If you don't want to spend the money for a Hilleberg then the MSR tents are worth to look.
 </div>
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
@@ -98,6 +99,7 @@ MSR Hubba Hubba NX Tent</a></h4>
 Icebreaker Men's Hike+ Lite Crew Socks</a></h4>
 <a target="_blank"  href="https://www.amazon.com/gp/product/B005GU0MW0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005GU0MW0&linkCode=as2&tag=hikeve-20&linkId=dcbc8d8bbace22fd08e52f40ba9f2a90"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B005GU0MW0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B005GU0MW0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </center>
+The Icebreaker Men's Hike+ Lite Crew Socks are our socks during the summer months. However, in most cases we prefer to <a href="https://amzn.to/2KXIooT" rel="nofollow">Mid Crew</a> since they are more durable than the Lite Crew.
 </div>
 </div>
 
