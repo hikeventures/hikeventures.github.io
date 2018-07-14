@@ -177,6 +177,48 @@ Arc'teryx Squamish Hoody</a></h4>
 </center><br>
 The Arc'teryx Squamish Hoody is one of the wind jackets we are using. A wind jacket is very useful when you are exposed to cold winds but no rain. It breathes better than a rain jacket and is also lighter. This means you won't sweat that much as in a rain jacket. It also feels good on the skin. Another model we are using is the <a href="https://amzn.to/2ukSi9w" rel="nofollow">Patagonia Houdini Jacket</a>.
 </div>
+
+<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center><h4><a href="https://amzn.to/2LioYqQ" rel="nofollow">
+Sweet Protection Strutter Helmet</a></h4>
+<a rel="nofollow" href="https://www.amazon.com/Sweet-Protection-Strutter-Paddle-Metallic/dp/B079V28666/ref=as_li_ss_il?s=sporting-goods&ie=UTF8&qid=1531595717&sr=1-5&keywords=strutter+helmet&linkCode=li3&tag=hikeve-20&linkId=e0232d851f960ba0d1baa7fe8d4adcfd" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B079V28666&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B079V28666" width="1" height="1" border="0" alt="Sweet Protection Strutter Helmet" style="border:none !important; margin:0px !important;" />
+</center><br>
+The Sweet Protection Strutter helmet is one of our favourite helmets since it is quite lightweight and looks amazing on pictures. If you are more into seriours whitewater you should however consider a helmet such as the <a href="https://amzn.to/2L9f2TP" rel="nofollow">Sweet Protection Rocker Paddle Helmet</a> or the <a href="https://amzn.to/2ujmhin" rel="nofollow">Sweet Protection Rocker Fullface Paddle Helmet</a>
+</div>
+
+<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center><h4><a href="https://amzn.to/2NRaiAQ" rel="nofollow">
+Astral V-Eight Kayaking Life Vest PFD</a></h4>
+<a rel="nofollow" href="https://www.amazon.com/Astral-V-Eight-Kayaking-Life-Vest/dp/B079G75MPK/ref=as_li_ss_il?s=sporting-goods&ie=UTF8&qid=1531596049&sr=1-4&keywords=astral+design+life+jacket&linkCode=li3&tag=hikeve-20&linkId=4900fbebd7100a0a60a30cb126a1dab4" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B079G75MPK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B079G75MPK" width="1" height="1" border="0" alt="Astral V-Eight Kayaking Life Vest PFD" style="border:none !important; margin:0px !important;" />
+</center><br>
+The Astral V-Eight Kayaking Life Vest PFD is a nice PFD which offers lots of breathability and is lightweight too. Since it's foam is positioned on the upper part of the PFD it's also a good choice if your packraft or kayak has a seat. Moreover, it has 2 mesh pockets where you can store items such as snacks or a river pass. Moreover, you can also attach a river knife such as the <a href="https://amzn.to/2zBomeI" rel="nofollow">NRS Co-pilot knife</a>.
+</div>
+</div>
+
+<div id="partners_table" class="row">
+<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center><h4><a href="https://amzn.to/2NRaiAQ" rel="nofollow">
+Astral Buoyancy YTV Life Jacket</a></h4>
+<a rel="nofollow" href="https://www.amazon.com/dp/B01BO3JC50/ref=as_li_ss_il?_encoding=UTF8&psc=1&linkCode=li3&tag=hikeve-20&linkId=751acc5952fd82e4a8a225967ecc2427" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01BO3JC50&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B01BO3JC50" width="1" height="1" border="0" alt="Astral Buoyancy YTV Life Jacket" style="border:none !important; margin:0px !important;" />
+</center><br>
+The Astral Buoyancy YTV Life Jacket is a life jacket which is more suitable for whitewater and also offers you more movement than traditional PFDs. You can also attach for example the <a href="https://amzn.to/2zBomeI" rel="nofollow">NRS Co-pilot knife</a> to it.
+</div>
+
+<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center><h4><a href="https://amzn.to/2zBomeI" rel="nofollow">
+NRS Co-pilot knife</a></h4>
+<a rel="nofollow" href="https://www.amazon.com/NRS-Co-Pilot-Knife-Green-Size/dp/B014OTT3LO/ref=as_li_ss_il?s=sporting-goods&ie=UTF8&qid=1531596443&sr=1-1-spons&keywords=nrs+river+knife&psc=1&smid=A3U06N8F90FXV2&linkCode=li3&tag=hikeve-20&linkId=315de4ae6335f2149c28e03c28f3aeff" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B014OTT3LO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B014OTT3LO" width="1" height="1" border="0" alt="NRS Co-pilot knife" style="border:none !important; margin:0px !important;" />
+</center><br>
+The NRS Co-pilot knife is a river knife which you can attach to a life jacket. It may be useful in emergency situations where you have to cut a rope or deflate your packraft.
+</div>
+
+<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center><h4><a href="https://amzn.to/2uplaxs" rel="nofollow">
+Astral Buoyancy Dyneema Throw Bag</a></h4>
+<a rel="nofollow" href="https://www.amazon.com/Astral-Buoyancy-Dyneema-Throw-Bag/dp/B00BDMDXNU/ref=as_li_ss_il?s=sporting-goods&ie=UTF8&qid=1531596723&sr=1-22&keywords=throw+rope&linkCode=li3&tag=hikeve-20&linkId=b7e02904a303364f0006ec147106fece" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BDMDXNU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00BDMDXNU" width="1" height="1" border="0" alt="Astral Buoyancy Dyneema Throw Bag" style="border:none !important; margin:0px !important;" />
+</center><br>
+The Astral Buoyancy Dyneema Throw Bag is a leightweight throwbag which you can take with you during your packrafting adventure. Attach it to a place where it is easy accessible during your trip e.g. on our life jacket. 
+</div>
 </div>
 
 ---
