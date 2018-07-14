@@ -74,62 +74,70 @@ PackTowl Personal Packtowl</a></h4>
 
 <div id="partners_table" class="row">
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-<center>  <a href="http://amzn.to/2nr6uI4" rel="nofollow">
-Icebreaker Men's Everyday Long sleeve Crewe Top</a></center>
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00AF6ZJU0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00AF6ZJU0&linkCode=as2&tag=hikeve-20&linkId=a66995c665d4d20729aef69546a4f177"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00AF6ZJU0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00AF6ZJU0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<center><h4><a href="http://amzn.to/2nr6uI4" rel="nofollow">
+Icebreaker Men's Everyday Long sleeve Crewe Top</a></h4>
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00AF6ZJU0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00AF6ZJU0&linkCode=as2&tag=hikeve-20&linkId=a66995c665d4d20729aef69546a4f177"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00AF6ZJU0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00AF6ZJU0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></center>
 </div>
 
-  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-  <center>  <a href="http://amzn.to/2nr1AL7" rel="nofollow">
-Icebreaker Men's Anatomica Briefs</a></center>
+<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center><h4><a href="http://amzn.to/2nr1AL7" rel="nofollow">
+Icebreaker Men's Anatomica Briefs</a></h4>
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00YXXIBAQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00YXXIBAQ&linkCode=as2&tag=hikeve-20&linkId=59d644eaf5e2068b972289ab478458a4"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00YXXIBAQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00YXXIBAQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  </div>
+</center>
+</div>
 
-  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-  <center>  <a href="http://amzn.to/2nugZLz" rel="nofollow">
-MSR Hubba Hubba NX Tent</a></center>
+<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center><h4><a href="http://amzn.to/2nugZLz" rel="nofollow">
+MSR Hubba Hubba NX Tent</a></h4>
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00G7H9CAY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G7H9CAY&linkCode=as2&tag=hikeve-20&linkId=b53e1b830d37e8b687cf91d1b31fccf6"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00G7H9CAY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00G7H9CAY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  </div>
+</center>
+</div>
 
-  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-  <center>  <a href="http://amzn.to/2mZiYeC" rel="nofollow">
-Icebreaker Men's Hike+ Lite Crew Socks</a></center>
+<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center><h4><a href="http://amzn.to/2mZiYeC" rel="nofollow">
+Icebreaker Men's Hike+ Lite Crew Socks</a></h4>
 <a target="_blank"  href="https://www.amazon.com/gp/product/B005GU0MW0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005GU0MW0&linkCode=as2&tag=hikeve-20&linkId=dcbc8d8bbace22fd08e52f40ba9f2a90"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B005GU0MW0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B005GU0MW0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  </div>
+</center>
+</div>
 </div>
 
 <div id="partners_table" class="row">
-  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-  <center>  <a href="http://amzn.to/2ouheaj" rel="nofollow">
-Nalgene 32oz Wide Mouth Tritan Water Bottle</a></center>
+<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center><h4><a href="http://amzn.to/2ouheaj" rel="nofollow">
+Nalgene 32oz Wide Mouth Tritan Water Bottle</a></h4>
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01I5H8C1S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01I5H8C1S&linkCode=as2&tag=hikeve-20&linkId=4ee5bdd037aa1c1f3e2f929901da63db"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01I5H8C1S&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01I5H8C1S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  </div>
+</center>
+</div>
 
-  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-  <center>  <a href="http://amzn.to/2nr8no3" rel="nofollow">
-Sawyer Mini Water Filter</a></center>
+<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center><h4><a href="http://amzn.to/2nr8no3" rel="nofollow">
+Sawyer Mini Water Filter</a></h4>
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00FA2RLX2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FA2RLX2&linkCode=as2&tag=hikeve-20&linkId=9648096d5d7165386d83174ccff1af0c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00FA2RLX2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00FA2RLX2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  </div>
+</center>
+</div>
 
-  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-  <center>  <a href="http://amzn.to/2qec6Lr" rel="nofollow">
-Hilleberg Unna</a></center>
+<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center><h4><a href="http://amzn.to/2qec6Lr" rel="nofollow">
+Hilleberg Unna</a></h4>
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00IU0UMSC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IU0UMSC&linkCode=as2&tag=hikeve-20&linkId=32a9394ac59d07f19ca58040d9e7feb8"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00IU0UMSC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00IU0UMSC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  </div>
+</center>
+</div>
 
-  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-  <center>  <a href="http://amzn.to/2qdUyz1" rel="nofollow">
-Hilleberg Unna Inner Mesh Tent</a></center>
-  <a target="_blank"  href="https://www.amazon.com/gp/product/B010BVSQS0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B010BVSQS0&linkCode=as2&tag=hikeve-20&linkId=5939d0ab9661a5ec4a1e3b4acf5e5886"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B010BVSQS0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B010BVSQS0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  </div>
+<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center><h4><a href="http://amzn.to/2qdUyz1" rel="nofollow">
+Hilleberg Unna Inner Mesh Tent</a></h4>
+<a target="_blank"  href="https://www.amazon.com/gp/product/B010BVSQS0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B010BVSQS0&linkCode=as2&tag=hikeve-20&linkId=5939d0ab9661a5ec4a1e3b4acf5e5886"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B010BVSQS0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B010BVSQS0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+</center>
+</div>
 </div>
 
 <div id="partners_table" class="row">
-  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-  <center>  <a href="http://amzn.to/2qe6YqT" rel="nofollow">
-Hilleberg Tarp 10 UL</a></center>
+<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center><h4><a href="http://amzn.to/2qe6YqT" rel="nofollow">
+Hilleberg Tarp 10 UL</a></h4>
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00NN3O8N6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NN3O8N6&linkCode=as2&tag=hikeve-20&linkId=7d08cac9f7af8a5f6e7e5ed1a432749c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00NN3O8N6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00NN3O8N6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  </div>
+</center>
+</div>
 
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
   <center>  <a href="http://amzn.to/2pa3Rjw" rel="nofollow">
