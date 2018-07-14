@@ -143,13 +143,14 @@ The Hilleberg Inner Mesh tent is perfect for star gazing if you use it without t
 Hilleberg Tarp 10 UL</a></h4>
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00NN3O8N6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NN3O8N6&linkCode=as2&tag=hikeve-20&linkId=7d08cac9f7af8a5f6e7e5ed1a432749c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00NN3O8N6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00NN3O8N6" width="1" height="1" border="0" alt="Hilleberg Tarp 10 UL" style="border:none !important; margin:0px !important;" />
 </center><br>
+Sometimes it's a good idea to have an additional shelter when it's very windy or rainy when in camp or if you need a temporary shelter. You may also just sleep under it with a sleeping bag or use it in combination with an <a href="http://amzn.to/2qdUyz1" rel="nofollow">Inner Mesh Tent</a>.
 </div>
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-<center><h4><a href="http://amzn.to/2pa3Rjw" rel="nofollow">
-Garmin InReach Explorer+</a></h4>
-<a target="_blank"  href="https://www.amazon.com/gp/product/B01MY03CZP/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MY03CZP&linkCode=as2&tag=hikeve-20&linkId=3524696cbbec7d785b095e2229aefa02"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MY03CZP&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MY03CZP" width="1" height="1" border="0" alt="Garmin InReach Explorer+" style="border:none !important; margin:0px !important;" />
-</center><br>
+<center><h4><a href="https://amzn.to/2uzd4BQ" rel="nofollow">
+Garmin InReach Mini</a></h4>
+<a rel="nofollow" href="https://www.amazon.com/Garmin-inReach-Mini-Communicator-010-01879-00/dp/B07CR7PL54/ref=as_li_ss_il?s=sporting-goods&ie=UTF8&qid=1531594515&sr=1-2&keywords=garmin+inreach+mini&linkCode=li3&tag=hikeve-20&linkId=379373785619838660c8935f907b47d9" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07CR7PL54&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B07CR7PL54" width="1" height="1" border="0" alt="Garmin InReach Mini" style="border:none !important; margin:0px !important;" />
+</center><br>The Garmin InReach Explorer Mini is going to replace our <a href="https://amzn.to/2LbHGUc" rel="nofollow">Garmin InReach Explorer+</a> in the future. It is smaller and offers similar features as it's bigger brother. A GPS messenger should always be in your backpack (or better attached to you) when adventoureing in areas where there is no phone reception.
 </div>
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
