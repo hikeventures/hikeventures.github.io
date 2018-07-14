@@ -23,18 +23,18 @@ border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-<center><a href="https://amzn.to/2LgOhti" rel="nofollow">Into the Wild</a></center>
+<center><h4><a href="https://amzn.to/2LgOhti" rel="nofollow">Into the Wild</a></h4></center>
 <a target="_blank"  href="https://www.amazon.com/gp/product/0385486804/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385486804&linkCode=as2&tag=hikeve-20&linkId=ad3eef4da3cc39520f598972f33cf07f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0385486804&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=0385486804" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div>
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-<center><a href="https://amzn.to/2NcNrOW" rel="nofollow">
-Packrafting! An introduction and How-To Guide</a></center>
+<center><h4><a href="https://amzn.to/2NcNrOW" rel="nofollow">
+Packrafting! An introduction and How-To Guide</a></h4></center>
 <a rel="nofollow" href="https://www.amazon.com/Packrafting-Introduction-How-Guide-Roman/dp/0974818836/ref=as_li_ss_il?ie=UTF8&qid=1531567099&sr=8-2&keywords=packrafting&linkCode=li3&tag=hikeve-20&linkId=0b784d5da17efa8fc57d8c348d3a3e8e" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0974818836&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=0974818836" width="1" height="1" border="0" alt="Packrafting! An introduction and How-To Guide" style="border:none !important; margin:0px !important;" />
 </div>
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-<center><a href="https://amzn.to/2Nfo3br" rel="nofollow">Packrafting: Exploring the Wilderness by Portable Boat</a></center>
+<center><h4><a href="https://amzn.to/2Nfo3br" rel="nofollow">Packrafting: Exploring the Wilderness by Portable Boat</a></h4></center>
 <a target="_blank"  href="https://www.amazon.com/gp/product/1493027476/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1493027476&linkCode=as2&tag=hikeve-20&linkId=7335b2823a26d53877705c5fd5a64e51"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1493027476&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=1493027476" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div>
 </div>
