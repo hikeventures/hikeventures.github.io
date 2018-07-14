@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Shop
+title: Our Gear
 date: "2017-04-01 18:21"
 comments: false
 footer: false
 navbar: Shop
 ---
 
-Here is a selection of our favorite camping and blogging gear.
+Here is a selection of the best hiking and packrafting gear (at least the best for us) which we use on our trips or which we are planning to use on our trips. We are frequently updating this list if we find a new interesting product so bookmark this page and visit us again in the future.
 
 ---
 
@@ -44,7 +44,7 @@ Here is a selection of our favorite camping and blogging gear.
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
   <center>  <a href="http://amzn.to/2ougMsw" rel="nofollow">
 MSR Windburner</a></center>
-  <a target="_blank"  href="https://www.amazon.com/gp/product/B00Y143XF0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Y143XF0&linkCode=as2&tag=hikeve-20&linkId=9881e4b70983b4214c4107eb5965992f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00Y143XF0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00Y143XF0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  <a target="_blank"  href="https://www.amazon.com/gp/product/B00Y143XF0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Y143XF0&linkCode=as2&tag=hikeve-20&linkId=9881e4b70983b4214c4107eb5965992f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00Y143XF0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00Y143XF0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
   </div>
 
 
