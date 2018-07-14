@@ -61,14 +61,14 @@ Therm-a-Rest NeoAir XTherm Mattress</a></h4>
 <center><h4><a href="https://amzn.to/2Lf9ILb" rel="nofollow">
 LuminAID PackLite Max USB Solar Inflatable Lantern</a></h4>
 <a rel="nofollow" href="https://www.amazon.com/LuminAID-PackLite-Inflatable-Waterproof-Lantern/dp/B01NA92GNG/ref=as_li_ss_il?ie=UTF8&qid=1531571833&sr=8-5&keywords=luminaid+packlite&linkCode=li3&tag=hikeve-20&linkId=4e6bddea141b41403b4af132667a5c4e" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01NA92GNG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B01NA92GNG" width="1" height="1" border="0" alt="LuminAID PackLite Max USB Solar Inflatable Lantern" style="border:none !important; margin:0px !important;" />
-</center>If you look for a light with a solar panel, battery and a USB socket to charge your devices then the LuminAID should be on your list. It features 150 lumens of LED light (50 hours of light on low mode) and can be recharged through its solar panel within 12-14 hours. It also features a USB port to charge your electronic devices while you are on the trail. Moreover, it is waterproof and durable.
+</center><br>If you look for a light with a solar panel, battery and a USB socket to charge your devices then the LuminAID should be on your list. It features 150 lumens of LED light (50 hours of light on low mode) and can be recharged through its solar panel within 12-14 hours. It also features a USB port to charge your electronic devices while you are on the trail. Moreover, it is waterproof and durable.
 </div>
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
 <center><h4><a href="http://amzn.to/2mZdb8O" rel="nofollow">
 PackTowl Personal Packtowl</a></h4>
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B017ULJ81S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B017ULJ81S&linkCode=as2&tag=hikeve-20&linkId=8ae167f2d23a7e2c7b1f31ddae450652"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B017ULJ81S&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B017ULJ81S" width="1" height="1" border="0" alt="PackTowl Personal Packtowl" style="border:none !important; margin:0px !important;" />
-</center>There is no need to carry a big and bulky towel with you on the trail. The PackTowl Personal Packtowl for example can hold up four times its weight in water and dries quickly. It features a leightweight fabric and is durable. It comes in different sizes. During the summer months a smaller towel might be even sufficient on your trips if you are into gram counting.
+</center><br>There is no need to carry a big and bulky towel with you on the trail. The PackTowl Personal Packtowl for example can hold up four times its weight in water and dries quickly. It features a leightweight fabric and is durable. It comes in different sizes. During the summer months a smaller towel might be even sufficient on your trips if you are into gram counting.
 </div>
 </div>
 
@@ -76,29 +76,29 @@ PackTowl Personal Packtowl</a></h4>
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
 <center><h4><a href="http://amzn.to/2nr6uI4" rel="nofollow">
 Icebreaker Men's Everyday Long sleeve Crewe Top</a></h4>
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00AF6ZJU0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00AF6ZJU0&linkCode=as2&tag=hikeve-20&linkId=a66995c665d4d20729aef69546a4f177"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00AF6ZJU0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00AF6ZJU0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></center>Under our drysuite, on trips to colder places or sometimes just as a casual shirt we have the Icebreaker Everyday Long Sleeve Crewe Top. During winter trips we also use the Devold expedition baselayer beside the Icebreaker baselayer. The advantage of those baselayers is that they are made of Merino wool. Merino wool keeps you warm even so when it is wet.
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00AF6ZJU0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00AF6ZJU0&linkCode=as2&tag=hikeve-20&linkId=a66995c665d4d20729aef69546a4f177"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00AF6ZJU0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00AF6ZJU0" width="1" height="1" border="0" alt="Icebreaker Men's Everyday Long sleeve Crewe Top" style="border:none !important; margin:0px !important;" /></center><br>Under our drysuite, on trips to colder places or sometimes just as a casual shirt we have the Icebreaker Everyday Long Sleeve Crewe Top. During winter trips we also use the Devold expedition baselayer beside the Icebreaker baselayer. The advantage of those baselayers is that they are made of Merino wool. Merino wool keeps you warm even so when it is wet.
 </div>
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
 <center><h4><a href="http://amzn.to/2nr1AL7" rel="nofollow">
 Icebreaker Men's Anatomica Briefs</a></h4>
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00YXXIBAQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00YXXIBAQ&linkCode=as2&tag=hikeve-20&linkId=59d644eaf5e2068b972289ab478458a4"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00YXXIBAQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00YXXIBAQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></center>
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00YXXIBAQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00YXXIBAQ&linkCode=as2&tag=hikeve-20&linkId=59d644eaf5e2068b972289ab478458a4"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00YXXIBAQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00YXXIBAQ" width="1" height="1" border="0" alt="Icebreaker Men's Anatomica Briefs" style="border:none !important; margin:0px !important;" /></center><br>
 As a baselayer underwear we are wearing the Icebreaker Anatomica underwear. They are made of Merino wool and also keep you warm when they are wet. They are great for packrafting, hiking or winter activities.
 </div>
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
 <center><h4><a href="http://amzn.to/2nugZLz" rel="nofollow">
 MSR Hubba Hubba NX Tent</a></h4>
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00G7H9CAY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G7H9CAY&linkCode=as2&tag=hikeve-20&linkId=b53e1b830d37e8b687cf91d1b31fccf6"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00G7H9CAY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00G7H9CAY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</center>
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00G7H9CAY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00G7H9CAY&linkCode=as2&tag=hikeve-20&linkId=b53e1b830d37e8b687cf91d1b31fccf6"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00G7H9CAY&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00G7H9CAY" width="1" height="1" border="0" alt="MSR Hubba Hubba NX Tent" style="border:none !important; margin:0px !important;" />
+</center><br>
 The MSR Hubba Hubba NX tent is our 2-person tent beside the Hilleberg Anjan. If you don't want to spend the money for a Hilleberg then the MSR tents are worth to look.
 </div>
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
 <center><h4><a href="http://amzn.to/2mZiYeC" rel="nofollow">
 Icebreaker Men's Hike+ Lite Crew Socks</a></h4>
-<a target="_blank"  href="https://www.amazon.com/gp/product/B005GU0MW0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005GU0MW0&linkCode=as2&tag=hikeve-20&linkId=dcbc8d8bbace22fd08e52f40ba9f2a90"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B005GU0MW0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B005GU0MW0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</center>
+<a target="_blank"  href="https://www.amazon.com/gp/product/B005GU0MW0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005GU0MW0&linkCode=as2&tag=hikeve-20&linkId=dcbc8d8bbace22fd08e52f40ba9f2a90"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B005GU0MW0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B005GU0MW0" width="1" height="1" border="0" alt="Icebreaker Men's Hike+ Lite Crew Socks" style="border:none !important; margin:0px !important;" />
+</center><br>
 The Icebreaker Men's Hike+ Lite Crew Socks are our socks during the summer months. However, in most cases we prefer to <a href="https://amzn.to/2KXIooT" rel="nofollow">Mid Crew</a> since they are more durable than the Lite Crew.
 </div>
 </div>
@@ -107,33 +107,33 @@ The Icebreaker Men's Hike+ Lite Crew Socks are our socks during the summer month
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
 <center><h4><a href="http://amzn.to/2ouheaj" rel="nofollow">
 Nalgene 32oz Wide Mouth Tritan Water Bottle</a></h4>
-<a target="_blank"  href="https://www.amazon.com/gp/product/B01I5H8C1S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01I5H8C1S&linkCode=as2&tag=hikeve-20&linkId=4ee5bdd037aa1c1f3e2f929901da63db"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01I5H8C1S&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01I5H8C1S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</center>
+<a target="_blank"  href="https://www.amazon.com/gp/product/B01I5H8C1S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01I5H8C1S&linkCode=as2&tag=hikeve-20&linkId=4ee5bdd037aa1c1f3e2f929901da63db"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01I5H8C1S&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01I5H8C1S" width="1" height="1" border="0" alt="Nalgene 32oz Wide Mouth Tritan Water Bottle" style="border:none !important; margin:0px !important;" />
+</center><br>
 The Nalgene bottle is BPA free and quite light. It's easy to use it with a water filter since it has a wide opening.
 </div>
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
 <center><h4><a href="http://amzn.to/2nr8no3" rel="nofollow">
 Sawyer Mini Water Filter</a></h4>
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00FA2RLX2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FA2RLX2&linkCode=as2&tag=hikeve-20&linkId=9648096d5d7165386d83174ccff1af0c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00FA2RLX2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00FA2RLX2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</center>
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00FA2RLX2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FA2RLX2&linkCode=as2&tag=hikeve-20&linkId=9648096d5d7165386d83174ccff1af0c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00FA2RLX2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00FA2RLX2" width="1" height="1" border="0" alt="Sawyer Mini Water Filter" style="border:none !important; margin:0px !important;" />
+</center><br>
 The Saywer Mini Water filter is always in our backpack. It is a leightweight water filter which can be also used without any additional bottle which you need to fill up. Just fill the plastic bag with water and let the water flow through the filter straight into your mouth. That's an easy solution especially when you sit in the packraft and need treated water.
 </div>
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
 <center><h4><a href="http://amzn.to/2qec6Lr" rel="nofollow">
 Hilleberg Unna</a></h4>
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00IU0UMSC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IU0UMSC&linkCode=as2&tag=hikeve-20&linkId=32a9394ac59d07f19ca58040d9e7feb8"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00IU0UMSC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00IU0UMSC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</center>
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00IU0UMSC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IU0UMSC&linkCode=as2&tag=hikeve-20&linkId=32a9394ac59d07f19ca58040d9e7feb8"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00IU0UMSC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00IU0UMSC" width="1" height="1" border="0" alt="Hilleberg Unna" style="border:none !important; margin:0px !important;" />
+</center><br>
 The Hilleberg Unna is our favorite one person tent. It might be a bit on the heavy side but it's very versatile and you can also use it with the Inner Mesh Tent during the warmer months for improved air circulation.
 </div>
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
 <center><h4><a href="http://amzn.to/2qdUyz1" rel="nofollow">
 Hilleberg Unna Inner Mesh Tent</a></h4>
-<a target="_blank"  href="https://www.amazon.com/gp/product/B010BVSQS0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B010BVSQS0&linkCode=as2&tag=hikeve-20&linkId=5939d0ab9661a5ec4a1e3b4acf5e5886"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B010BVSQS0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B010BVSQS0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</center>
-The Hilleberg Inner Mesh tent is perfect for star gazing if you use it without the Unna outer tent. You need to buy it seperately but it's really worth it. I have replaced my yellow standard inner tent completely with the Inner Mesh tent.
+<a target="_blank"  href="https://www.amazon.com/gp/product/B010BVSQS0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B010BVSQS0&linkCode=as2&tag=hikeve-20&linkId=5939d0ab9661a5ec4a1e3b4acf5e5886"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B010BVSQS0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B010BVSQS0" width="1" height="1" border="0" alt="Hilleberg Unna Inner Mesh Tent" style="border:none !important; margin:0px !important;" />
+</center><br>
+The Hilleberg Inner Mesh tent is perfect for star gazing if you use it without the Unna outer tent. You need to buy it separately but it's really worth it. I have replaced my yellow standard inner tent completely with the Inner Mesh tent.
 </div>
 </div>
 
@@ -141,28 +141,30 @@ The Hilleberg Inner Mesh tent is perfect for star gazing if you use it without t
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
 <center><h4><a href="http://amzn.to/2qe6YqT" rel="nofollow">
 Hilleberg Tarp 10 UL</a></h4>
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00NN3O8N6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NN3O8N6&linkCode=as2&tag=hikeve-20&linkId=7d08cac9f7af8a5f6e7e5ed1a432749c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00NN3O8N6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00NN3O8N6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</center>
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00NN3O8N6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NN3O8N6&linkCode=as2&tag=hikeve-20&linkId=7d08cac9f7af8a5f6e7e5ed1a432749c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00NN3O8N6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00NN3O8N6" width="1" height="1" border="0" alt="Hilleberg Tarp 10 UL" style="border:none !important; margin:0px !important;" />
+</center><br>
 </div>
 
-  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-  <center>  <a href="http://amzn.to/2pa3Rjw" rel="nofollow">
-Garmin InReach Explorer+</a></center>
-<a target="_blank"  href="https://www.amazon.com/gp/product/B01MY03CZP/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MY03CZP&linkCode=as2&tag=hikeve-20&linkId=3524696cbbec7d785b095e2229aefa02"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MY03CZP&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MY03CZP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  </div>
+<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center><h4><a href="http://amzn.to/2pa3Rjw" rel="nofollow">
+Garmin InReach Explorer+</a></h4>
+<a target="_blank"  href="https://www.amazon.com/gp/product/B01MY03CZP/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MY03CZP&linkCode=as2&tag=hikeve-20&linkId=3524696cbbec7d785b095e2229aefa02"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MY03CZP&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MY03CZP" width="1" height="1" border="0" alt="Garmin InReach Explorer+" style="border:none !important; margin:0px !important;" />
+</center><br>
+</div>
 
-  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-  <center>  <a href="http://amzn.to/2qe2v7r" rel="nofollow">
-Lundhags Makke Pants</a></center>
-<a target="_blank"  href="https://www.amazon.com/gp/product/B01LFCC55E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LFCC55E&linkCode=as2&tag=hikeve-20&linkId=20abaf4d25dac9854c4407da34044a32"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LFCC55E&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LFCC55E" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  </div>
+<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center><h4><a href="http://amzn.to/2qe2v7r" rel="nofollow">
+Lundhags Makke Pants</a></h4></center>
+<a target="_blank"  href="https://www.amazon.com/gp/product/B01LFCC55E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LFCC55E&linkCode=as2&tag=hikeve-20&linkId=20abaf4d25dac9854c4407da34044a32"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LFCC55E&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LFCC55E" width="1" height="1" border="0" alt="Lundhags Makke Pants" style="border:none !important; margin:0px !important;" />
+</center><br>
+</div>
 
-  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-  <center>  <a href="http://amzn.to/2pTVO9F" rel="nofollow">
-Western Mountaineering VersaLite</a></center>
-  <a target="_blank"  href="https://www.amazon.com/gp/product/B003MT4I8Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003MT4I8Q&linkCode=as2&tag=hikeve-20&linkId=227d667dbeb9a30be96481135bc9e244"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B003MT4I8Q&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B003MT4I8Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  </div>
-
+<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center><h4><a href="http://amzn.to/2pTVO9F" rel="nofollow">
+Western Mountaineering VersaLite</a></h4></center>
+<a target="_blank"  href="https://www.amazon.com/gp/product/B003MT4I8Q/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003MT4I8Q&linkCode=as2&tag=hikeve-20&linkId=227d667dbeb9a30be96481135bc9e244"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B003MT4I8Q&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B003MT4I8Q" width="1" height="1" border="0" alt="Western Mountaineering VersaLite" style="border:none !important; margin:0px !important;" />
+</center><br>
+</div>
 </div>
 
 ---
