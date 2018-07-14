@@ -18,13 +18,13 @@ We have also added a section at the very bottom about our camera and blogging ge
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
 <center><h4><a href="https://amzn.to/2NgxVkW" rel="nofollow">The Ultimate Hiker's Gear Guide</a></h4>
 <a target="_blank" href="https://www.amazon.com/gp/product/1426217846/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1426217846&linkCode=as2&tag=hikeve-20&linkId=a898c5b46fd8716f43b2e6f618c1936b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1426217846&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=1426217846" width="1" height="1"
-border="0" alt="" style="border:none !important; margin:0px !important;" /></center>
+border="0" alt="The Ultimate Hiker's Gear Guide" style="border:none !important; margin:0px !important;" /></center>
 </div>
 
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-<h4><a href="https://amzn.to/2LgOhti" rel="nofollow">Into the Wild</a></h4>
-<a target="_blank" href="https://www.amazon.com/gp/product/0385486804/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385486804&linkCode=as2&tag=hikeve-20&linkId=ad3eef4da3cc39520f598972f33cf07f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0385486804&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=0385486804" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></center>
+<center><h4><a href="https://amzn.to/2LgOhti" rel="nofollow">Into the Wild</a></h4>
+<a target="_blank" href="https://www.amazon.com/gp/product/0385486804/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385486804&linkCode=as2&tag=hikeve-20&linkId=ad3eef4da3cc39520f598972f33cf07f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0385486804&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=0385486804" width="1" height="1" border="0" alt="Into the Wild" style="border:none !important; margin:0px !important;" /></center>
 </div>
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
@@ -35,7 +35,7 @@ Packrafting! An introduction and How-To Guide</a></h4>
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
 <center><h4><a href="https://amzn.to/2Nfo3br" rel="nofollow">Packrafting: Exploring the Wilderness by Portable Boat</a></h4>
-<a target="_blank"  href="https://www.amazon.com/gp/product/1493027476/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1493027476&linkCode=as2&tag=hikeve-20&linkId=7335b2823a26d53877705c5fd5a64e51"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1493027476&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=1493027476" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></center>
+<a target="_blank" href="https://www.amazon.com/gp/product/1493027476/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1493027476&linkCode=as2&tag=hikeve-20&linkId=7335b2823a26d53877705c5fd5a64e51"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1493027476&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=1493027476" width="1" height="1" border="0" alt="Packrafting: Exploring the Wilderness by Portable Boat" style="border:none !important; margin:0px !important;" /></center>
 </div>
 </div>
 
