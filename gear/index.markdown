@@ -109,6 +109,7 @@ The Icebreaker Men's Hike+ Lite Crew Socks are our socks during the summer month
 Nalgene 32oz Wide Mouth Tritan Water Bottle</a></h4>
 <a target="_blank"  href="https://www.amazon.com/gp/product/B01I5H8C1S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01I5H8C1S&linkCode=as2&tag=hikeve-20&linkId=4ee5bdd037aa1c1f3e2f929901da63db"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01I5H8C1S&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01I5H8C1S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </center>
+The Nalgene bottle is BPA free and quite light. It's easy to use it with a water filter since it has a wide opening.
 </div>
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
@@ -116,6 +117,7 @@ Nalgene 32oz Wide Mouth Tritan Water Bottle</a></h4>
 Sawyer Mini Water Filter</a></h4>
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00FA2RLX2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FA2RLX2&linkCode=as2&tag=hikeve-20&linkId=9648096d5d7165386d83174ccff1af0c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00FA2RLX2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00FA2RLX2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </center>
+The Saywer Mini Water filter is always in our backpack. It is a leightweight water filter which can be also used without any additional bottle which you need to fill up. Just fill the plastic bag with water and let the water flow through the filter straight into your mouth. That's an easy solution especially when you sit in the packraft and need treated water.
 </div>
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
@@ -123,6 +125,7 @@ Sawyer Mini Water Filter</a></h4>
 Hilleberg Unna</a></h4>
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00IU0UMSC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00IU0UMSC&linkCode=as2&tag=hikeve-20&linkId=32a9394ac59d07f19ca58040d9e7feb8"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00IU0UMSC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00IU0UMSC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </center>
+The Hilleberg Unna is our favorite one person tent. It might be a bit on the heavy side but it's very versatile and you can also use it with the Inner Mesh Tent during the warmer months for improved air circulation.
 </div>
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
@@ -130,6 +133,7 @@ Hilleberg Unna</a></h4>
 Hilleberg Unna Inner Mesh Tent</a></h4>
 <a target="_blank"  href="https://www.amazon.com/gp/product/B010BVSQS0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B010BVSQS0&linkCode=as2&tag=hikeve-20&linkId=5939d0ab9661a5ec4a1e3b4acf5e5886"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B010BVSQS0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B010BVSQS0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </center>
+The Hilleberg Inner Mesh tent is perfect for star gazing if you use it without the Unna outer tent. You need to buy it seperately but it's really worth it. I have replaced my yellow standard inner tent completely with the Inner Mesh tent.
 </div>
 </div>
 
