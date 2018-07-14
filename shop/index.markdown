@@ -1,38 +1,42 @@
 ---
 layout: page
-title: Our Gear
-date: "2017-04-01 18:21"
+title: The best packrafting and hiking gear
+date: "2018-07-012 18:21"
 comments: false
 footer: false
 navbar: Shop
 ---
 
 Here is a selection of the best hiking and packrafting gear (at least the best for us) which we use on our trips or which we are planning to use on our trips. We are frequently updating this list if we find a new interesting product so bookmark this page and visit us again in the future.
-
+We have also added a section at the very bottom about our camera and blogging gear which we are using.
 ---
 
 <h3>Books</h3>
 <div id="partners_table" class="row">
 
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-  <center>
-<a target="_blank"  href="https://www.amazon.com/gp/product/1426217846/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1426217846&linkCode=as2&tag=hikeve-20&linkId=a898c5b46fd8716f43b2e6f618c1936b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1426217846&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=1426217846" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></center>
+  <center>  <a href="https://amzn.to/2NgxVkW" rel="nofollow">
+  The Ultimate Hiker's Gear Guide</a></center>
+  <a target="_blank"  href="https://www.amazon.com/gp/product/1426217846/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1426217846&linkCode=as2&tag=hikeve-20&linkId=a898c5b46fd8716f43b2e6f618c1936b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1426217846&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=1426217846" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   </div>
 
 
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-  <center>
-<a target="_blank"  href="https://www.amazon.com/gp/product/0385486804/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385486804&linkCode=as2&tag=hikeve-20&linkId=ad3eef4da3cc39520f598972f33cf07f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0385486804&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=0385486804" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></center>
+  <center>  <a href="https://www.amazon.com/gp/product/0385486804/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385486804&linkCode=as2&tag=hikeve-20&linkId=ad3eef4da3cc39520f598972f33cf07f" rel="nofollow">
+  Into the Wild</a></center>
+<a target="_blank"  href="https://www.amazon.com/gp/product/0385486804/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385486804&linkCode=as2&tag=hikeve-20&linkId=ad3eef4da3cc39520f598972f33cf07f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0385486804&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=0385486804" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   </div>
 
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-  <center>
-<a target="_blank"  href="https://www.amazon.com/gp/product/0307476073/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307476073&linkCode=as2&tag=hikeve-20&linkId=5c659bae3467639e8b235d93b3875e1c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0307476073&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=0307476073" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></center>
+  <center>  <a href="https://amzn.to/2NcNrOW" rel="nofollow">
+Packrafting! An introduction and How-To Guide</a></center>
+<a rel="nofollow" href="https://www.amazon.com/Packrafting-Introduction-How-Guide-Roman/dp/0974818836/ref=as_li_ss_il?ie=UTF8&qid=1531567099&sr=8-2&keywords=packrafting&linkCode=li3&tag=hikeve-20&linkId=0b784d5da17efa8fc57d8c348d3a3e8e" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0974818836&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=0974818836" width="1" height="1" border="0" alt="Packrafting! An introduction and How-To Guide" style="border:none !important; margin:0px !important;" />
   </div>
 
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-  <center>
-<a target="_blank"  href="https://www.amazon.com/gp/product/1493027476/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1493027476&linkCode=as2&tag=hikeve-20&linkId=7335b2823a26d53877705c5fd5a64e51"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1493027476&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=1493027476" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></center>
+  <center>  <a href="https://amzn.to/2Nfo3br" rel="nofollow">
+  Packrafting: Exploring the Wilderness by Portable Boat</a></center>
+<a target="_blank"  href="https://www.amazon.com/gp/product/1493027476/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1493027476&linkCode=as2&tag=hikeve-20&linkId=7335b2823a26d53877705c5fd5a64e51"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1493027476&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=1493027476" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   </div>
 </div>
 
@@ -44,7 +48,7 @@ Here is a selection of the best hiking and packrafting gear (at least the best f
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
   <center>  <a href="http://amzn.to/2ougMsw" rel="nofollow">
 MSR Windburner</a></center>
-  <a target="_blank"  href="https://www.amazon.com/gp/product/B00Y143XF0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Y143XF0&linkCode=as2&tag=hikeve-20&linkId=9881e4b70983b4214c4107eb5965992f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00Y143XF0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00Y143XF0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+  <a target="_blank"  href="https://www.amazon.com/gp/product/B00Y143XF0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Y143XF0&linkCode=as2&tag=hikeve-20&linkId=9881e4b70983b4214c4107eb5965992f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00Y143XF0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00Y143XF0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   </div>
 
 
