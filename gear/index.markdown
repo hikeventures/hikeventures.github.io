@@ -168,6 +168,17 @@ Western Mountaineering VersaLite</a></h4>
 </div>
 </div>
 
+
+<div id="partners_table" class="row">
+<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center><h4><a href="https://amzn.to/2umPrx7" rel="nofollow">
+Arc'teryx Squamish Hoody</a></h4>
+<a rel="nofollow" href="https://www.amazon.com/Arcteryx-Squamish-Hoody-Stingrey-X-Large/dp/B078NFDM4P/ref=as_li_ss_il?s=sporting-goods&ie=UTF8&qid=1531595311&sr=1-3&keywords=arcteryx+wind+jacket&th=1&linkCode=li3&tag=hikeve-20&linkId=d0fd522dc0fc0df80dd1b44f92d72b9a" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B078NFDM4P&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B078NFDM4P" width="1" height="1" border="0" alt="Arc'teryx Squamish Hoody" style="border:none !important; margin:0px !important;" />
+</center><br>
+The Arc'teryx Squamish Hoody is one of the wind jackets we are using. A wind jacket is very useful when you are exposed to cold winds but no rain. It breathes better than a rain jacket and is also lighter. This means you won't sweat that much as in a rain jacket. It also feels good on the skin. Another model we are using is the <a href="https://amzn.to/2ukSi9w" rel="nofollow">Patagonia Houdini Jacket</a>.
+</div>
+</div>
+
 ---
 
 <h3>Blogging & Video Gear</h3>
