@@ -239,6 +239,18 @@ The Ortlieb First Aid Kid is a waterproof bag which is perfect for all kind of w
 
 </div>
 
+<div id="partners_table" class="row">
+<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center><h4><a href="https://amzn.to/2zBqrr2" rel="nofollow">
+Astral Brewer 2.0</a></h4>
+<a rel="nofollow" href="https://www.amazon.com/Astral-Brewer-Mens-Water-Shoe/dp/B079C4V96C/ref=as_li_ss_il?ie=UTF8&qid=1531597525&sr=8-1&keywords=astral+brewer+2&linkCode=li3&tag=hikeve-20&linkId=5019841d0f67bcc5a000f46eac6e3853" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B079C4V96C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B079C4V96C" width="1" height="1" border="0" alt="https://amzn.to/2zBqrr2" style="border:none !important; margin:0px !important;" />
+</center><br>
+The Astral Brewer 2.0 is our packrafting water shoe. It easily releases water and most importantly features a great rubber sole which works great on wet stones.
+</div>
+
+</div>
+
+
 ---
 
 <h3>Blogging & Video Gear</h3>
