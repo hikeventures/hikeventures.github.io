@@ -7,7 +7,7 @@ footer: false
 navbar: gear
 ---
 
-Here is a selection of the best hiking and packrafting gear (at least the best for us) which we are using on our trips or which we are planning to use on our trips. We are frequently updating this list if we find a new interesting product so bookmark this page and visit us again in the future. We have also added a section at the very bottom about our camera and blogging gear which we are using. If you want to buy one of the items just click on one of the pictures and you will be redirected to Amazon (and at the same time you will support our blog as we will receive a small commission on your purchase).
+Here is a selection of the best hiking and packrafting gear (at least the best for us) which we are using on our trips or which we are planning to use on our trips. We are frequently updating this list if we find a new interesting product so bookmark this page and visit us again in the future. We have also added a section at the very bottom about our camera and blogging gear which we are using. If you want to buy one of the items just click on one of the pictures and you will be redirected to Amazon (and at the same time you will support our blog as we will receive a small commission on your purchase). Use the gear mentioned on this site at your own risk.
 
 ---
 
