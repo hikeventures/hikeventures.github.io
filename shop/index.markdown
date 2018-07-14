@@ -71,13 +71,11 @@ PackTowl Personal Packtowl</a><h4>
 </center>The PackTowl Personal Packtowl can hold up four times its weight in water and dries quickly. It features a leightweight fabric and is durable.
 </div>
 
-<div id="partners_table" class="row">
-
-  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-  <center>  <a href="http://amzn.to/2nr6uI4" rel="nofollow">
+<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center>  <a href="http://amzn.to/2nr6uI4" rel="nofollow">
 Icebreaker Men's Everyday Long sleeve Crewe Top</a></center>
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00AF6ZJU0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00AF6ZJU0&linkCode=as2&tag=hikeve-20&linkId=a66995c665d4d20729aef69546a4f177"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00AF6ZJU0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00AF6ZJU0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  </div>
+</div>
 
   <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
   <center>  <a href="http://amzn.to/2nr1AL7" rel="nofollow">
