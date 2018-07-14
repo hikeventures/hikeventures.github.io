@@ -7,7 +7,7 @@ footer: false
 navbar: gear
 ---
 
-Here is a selection of the best hiking and packrafting gear (at least the best for us) which we are using on our trips or which we are planning to use on our trips. We are frequently updating this list if we find a new interesting product so bookmark this page and visit us again in the future. We have also added a section at the very bottom about our camera and blogging gear which we are using. If you want to buy one of the items just click on one of the pictures and you will be redirected to Amazon (and at the same time you will support our blog as we will receive a small commission on your purchase). 
+Here is a selection of the best hiking and packrafting gear (at least the best for us) which we are using on our trips or which we are planning to use on our trips. We are frequently updating this list if we find a new interesting product so bookmark this page and visit us again in the future. We have also added a section at the very bottom about our camera and blogging gear which we are using. If you want to buy one of the items just click on one of the pictures and you will be redirected to Amazon (and at the same time you will support our blog as we will receive a small commission on your purchase).
 
 ---
 
@@ -46,14 +46,14 @@ Packrafting! An introduction and How-To Guide</a></h4>
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
 <center><h4><a href="http://amzn.to/2ougMsw" rel="nofollow">
 MSR Windburner</a></h4>
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00Y143XF0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Y143XF0&linkCode=as2&tag=hikeve-20&linkId=9881e4b70983b4214c4107eb5965992f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00Y143XF0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00Y143XF0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00Y143XF0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Y143XF0&linkCode=as2&tag=hikeve-20&linkId=9881e4b70983b4214c4107eb5965992f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00Y143XF0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00Y143XF0" width="1" height="1" border="0" alt="MSR Windburner" style="border:none !important; margin:0px !important;" />
 </center><br>The MSR Windburner is our stove which we take with us on hikes where we want to boil water fast and where it is very windy. The faster you can get water boil the less gas you may need on your trip and the less weight you need to carry.
 </div>
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
 <center><h4><a href="http://amzn.to/2oLqLcs" rel="nofollow">
 Therm-a-Rest NeoAir XTherm Mattress</a></h4>
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00TSFYZAE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TSFYZAE&linkCode=as2&tag=hikeve-20&linkId=161ee9d76ae629dbf91aa1da9a5ce93f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00TSFYZAE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00TSFYZAE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00TSFYZAE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TSFYZAE&linkCode=as2&tag=hikeve-20&linkId=161ee9d76ae629dbf91aa1da9a5ce93f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00TSFYZAE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00TSFYZAE" width="1" height="1" border="0" alt="Therm-a-Rest NeoAir XTherm Mattress" style="border:none !important; margin:0px !important;" />
 </center><br>The Therm-a-Rest NeoAir XTherm mattress is our go-to sleeping pad through all seasons as it features great insulation and low weight. If you only want to buy one sleeping pad then the Therm-a-Rest NeoAir XTherm is the sleeping pad you should definitely have a look on.
 </div>
 
@@ -66,8 +66,8 @@ LuminAID PackLite Max USB Solar Inflatable Lantern</a></h4>
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
 <center><h4><a href="http://amzn.to/2mZdb8O" rel="nofollow">
-PackTowl Personal Packtowl</a><h4>
-<a target="_blank"  href="https://www.amazon.com/gp/product/B017ULJ81S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B017ULJ81S&linkCode=as2&tag=hikeve-20&linkId=8ae167f2d23a7e2c7b1f31ddae450652"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B017ULJ81S&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B017ULJ81S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+PackTowl Personal Packtowl</a></h4>
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B017ULJ81S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B017ULJ81S&linkCode=as2&tag=hikeve-20&linkId=8ae167f2d23a7e2c7b1f31ddae450652"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B017ULJ81S&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B017ULJ81S" width="1" height="1" border="0" alt="PackTowl Personal Packtowl" style="border:none !important; margin:0px !important;" />
 </center>The PackTowl Personal Packtowl can hold up four times its weight in water and dries quickly. It features a leightweight fabric and is durable.
 </div>
 
