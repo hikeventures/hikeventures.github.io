@@ -4,11 +4,10 @@ title: The best packrafting and hiking gear
 date: "2018-07-012 18:21"
 comments: false
 footer: false
-navbar: Shop
+navbar: gear
 ---
 
-Here is a selection of the best hiking and packrafting gear (at least the best for us) which we use on our trips or which we are planning to use on our trips. We are frequently updating this list if we find a new interesting product so bookmark this page and visit us again in the future.
-We have also added a section at the very bottom about our camera and blogging gear which we are using.
+Here is a selection of the best hiking and packrafting gear (at least the best for us) which we are using on our trips or which we are planning to use on our trips. We are frequently updating this list if we find a new interesting product so bookmark this page and visit us again in the future. We have also added a section at the very bottom about our camera and blogging gear which we are using.
 
 ---
 
