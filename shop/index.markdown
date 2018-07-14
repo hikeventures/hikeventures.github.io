@@ -40,33 +40,34 @@ Packrafting! An introduction and How-To Guide</a></h4>
 
 ---
 
-<h3>Camping Gear</h3>
+<h3>Hiking Gear</h3>
 <div id="partners_table" class="row">
 
-  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-  <center>  <a href="http://amzn.to/2ougMsw" rel="nofollow">
-MSR Windburner</a></center>
-  <a target="_blank"  href="https://www.amazon.com/gp/product/B00Y143XF0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Y143XF0&linkCode=as2&tag=hikeve-20&linkId=9881e4b70983b4214c4107eb5965992f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00Y143XF0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00Y143XF0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  </div>
+<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center><h4><a href="http://amzn.to/2ougMsw" rel="nofollow">
+MSR Windburner</a></h4>
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00Y143XF0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Y143XF0&linkCode=as2&tag=hikeve-20&linkId=9881e4b70983b4214c4107eb5965992f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00Y143XF0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00Y143XF0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+</div></center><br>The MSR Windburner is our stove which we take with us on hikes where we want to boil water fast and where it is very windy. The faster you can get water boil the less gas you may need on your trip and the less weight you need to carry.
 
 
-  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-  <center>  <a href="http://amzn.to/2oLqLcs" rel="nofollow">
-Therm-a-Rest NeoAir XTherm Mattress</a></center>
-    <a target="_blank"  href="https://www.amazon.com/gp/product/B00TSFYZAE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TSFYZAE&linkCode=as2&tag=hikeve-20&linkId=161ee9d76ae629dbf91aa1da9a5ce93f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00TSFYZAE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00TSFYZAE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  </div>
+<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center><h4><a href="http://amzn.to/2oLqLcs" rel="nofollow">
+Therm-a-Rest NeoAir XTherm Mattress</a></h4>
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00TSFYZAE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TSFYZAE&linkCode=as2&tag=hikeve-20&linkId=161ee9d76ae629dbf91aa1da9a5ce93f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00TSFYZAE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00TSFYZAE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+</div></center><br>The Therm-a-Rest NeoAir XTherm mattress is our go-to sleeping pad through all seasons as it features great insulation and low weight. If you only want to buy one sleeping pad then the Therm-a-Rest NeoAir XTherm is the sleeping pad you should definitely have a look on.
 
-  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-  <center>  <a href="http://amzn.to/2nLOwTN" rel="nofollow">
-MPOWERD Luci Outdoor - Inflatable Solar Light</a></center>
+<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center><h4><a href="http://amzn.to/2nLOwTN" rel="nofollow">
+MPOWERD Luci Outdoor - Inflatable Solar Light</a></h4>
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00F5TI7C4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F5TI7C4&linkCode=as2&tag=hikeve-20&linkId=f267ad8bc980e6b99530e35fb69f489c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00F5TI7C4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00F5TI7C4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  </div>
+</div></center>If you look for a light with a solar panel, battery and a USB socket to charge your devices then the LuminAID should be on your list. It features 150 lumens of LED light (50 hours of light on low mode) and can be recharged through its solar panel within 12-14 hours. It also features a USB port to charge your electronic devices while you are on the trail. Moreover, it is waterproof and durable.
 
-  <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-  <center>  <a href="http://amzn.to/2mZdb8O" rel="nofollow">
-PackTowl Personal Packtowl</a></center>
+<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center><h4><a href="http://amzn.to/2mZdb8O" rel="nofollow">
+PackTowl Personal Packtowl</a><h4>
     <a target="_blank"  href="https://www.amazon.com/gp/product/B017ULJ81S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B017ULJ81S&linkCode=as2&tag=hikeve-20&linkId=8ae167f2d23a7e2c7b1f31ddae450652"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B017ULJ81S&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B017ULJ81S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-  </div>
+  </div></center>The PackTowl Personal Packtowl can hold up four times its weight in water and dries quickly. It features a leightweight fabric and is durable.
+
 </div>
 
 <div id="partners_table" class="row">
