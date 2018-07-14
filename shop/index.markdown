@@ -70,7 +70,9 @@ PackTowl Personal Packtowl</a></h4>
 <a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B017ULJ81S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B017ULJ81S&linkCode=as2&tag=hikeve-20&linkId=8ae167f2d23a7e2c7b1f31ddae450652"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B017ULJ81S&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B017ULJ81S" width="1" height="1" border="0" alt="PackTowl Personal Packtowl" style="border:none !important; margin:0px !important;" />
 </center>The PackTowl Personal Packtowl can hold up four times its weight in water and dries quickly. It features a leightweight fabric and is durable.
 </div>
+</div>
 
+<div id="partners_table" class="row">
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
 <center>  <a href="http://amzn.to/2nr6uI4" rel="nofollow">
 Icebreaker Men's Everyday Long sleeve Crewe Top</a></center>
