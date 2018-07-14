@@ -57,9 +57,9 @@ Therm-a-Rest NeoAir XTherm Mattress</a></h4>
 </div></center><br>The Therm-a-Rest NeoAir XTherm mattress is our go-to sleeping pad through all seasons as it features great insulation and low weight. If you only want to buy one sleeping pad then the Therm-a-Rest NeoAir XTherm is the sleeping pad you should definitely have a look on.
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-<center><h4><a href="http://amzn.to/2nLOwTN" rel="nofollow">
-MPOWERD Luci Outdoor - Inflatable Solar Light</a></h4>
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00F5TI7C4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F5TI7C4&linkCode=as2&tag=hikeve-20&linkId=f267ad8bc980e6b99530e35fb69f489c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00F5TI7C4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00F5TI7C4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<center><h4><a href="https://amzn.to/2Lf9ILb" rel="nofollow">
+LuminAID PackLite Max USB Solar Inflatable Lantern</a></h4>
+<a rel="nofollow" href="https://www.amazon.com/LuminAID-PackLite-Inflatable-Waterproof-Lantern/dp/B01NA92GNG/ref=as_li_ss_il?ie=UTF8&qid=1531571833&sr=8-5&keywords=luminaid+packlite&linkCode=li3&tag=hikeve-20&linkId=4e6bddea141b41403b4af132667a5c4e" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01NA92GNG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B01NA92GNG" width="1" height="1" border="0" alt="LuminAID PackLite Max USB Solar Inflatable Lantern" style="border:none !important; margin:0px !important;" />
 </div></center>If you look for a light with a solar panel, battery and a USB socket to charge your devices then the LuminAID should be on your list. It features 150 lumens of LED light (50 hours of light on low mode) and can be recharged through its solar panel within 12-14 hours. It also features a USB port to charge your electronic devices while you are on the trail. Moreover, it is waterproof and durable.
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
