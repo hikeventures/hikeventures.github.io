@@ -193,6 +193,15 @@ Astral V-Eight Kayaking Life Vest PFD</a></h4>
 </center><br>
 The Astral V-Eight Kayaking Life Vest PFD is a nice PFD which offers lots of breathability and is lightweight too. Since it's foam is positioned on the upper part of the PFD it's also a good choice if your packraft or kayak has a seat. Moreover, it has 2 mesh pockets where you can store items such as snacks or a river pass. Moreover, you can also attach a river knife such as the <a href="https://amzn.to/2zBomeI" rel="nofollow">NRS Co-pilot knife</a>.
 </div>
+
+<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center><h4><a href="https://amzn.to/2uoL8RR" rel="nofollow">
+Storm Alert Whistle</a></h4>
+<a rel="nofollow" href="https://www.amazon.com/Safety-Whistle-Weather-Survival-Extremely/dp/B001H8FJIW/ref=as_li_ss_il?s=sporting-goods&ie=UTF8&qid=1531596997&sr=1-7&keywords=whistle+emergency&linkCode=li3&tag=hikeve-20&linkId=e5fc922dbfcc328dfee30ba5a389b2bd" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001H8FJIW&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B001H8FJIW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+</center><br>
+When being outdoors it's important to have a whistle with you so you can alert others in an emergency situation. It creates lots of noice and may use less energy than waving with your hands etc. We also have whistles attached to our PFDs.
+</div>
+
 </div>
 
 <div id="partners_table" class="row">
@@ -217,8 +226,17 @@ The NRS Co-pilot knife is a river knife which you can attach to a life jacket. I
 Astral Buoyancy Dyneema Throw Bag</a></h4>
 <a rel="nofollow" href="https://www.amazon.com/Astral-Buoyancy-Dyneema-Throw-Bag/dp/B00BDMDXNU/ref=as_li_ss_il?s=sporting-goods&ie=UTF8&qid=1531596723&sr=1-22&keywords=throw+rope&linkCode=li3&tag=hikeve-20&linkId=b7e02904a303364f0006ec147106fece" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BDMDXNU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00BDMDXNU" width="1" height="1" border="0" alt="Astral Buoyancy Dyneema Throw Bag" style="border:none !important; margin:0px !important;" />
 </center><br>
-The Astral Buoyancy Dyneema Throw Bag is a leightweight throwbag which you can take with you during your packrafting adventure. Attach it to a place where it is easy accessible during your trip e.g. on our life jacket. 
+The Astral Buoyancy Dyneema Throw Bag is a leightweight throwbag which you can take with you during your packrafting adventure. Attach it to a place where it is easy accessible during your trip e.g. on our life jacket.
 </div>
+
+<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center><h4><a href="https://amzn.to/2KYskDd" rel="nofollow">
+Ortlieb First Aid Kid</a></h4>
+<a rel="nofollow" href="https://www.amazon.com/ORTLIEB-FIRST-WITHOUT-CONTENTS-Ortlieb/dp/B00A8E9I88/ref=as_li_ss_il?s=sporting-goods&ie=UTF8&qid=1531597270&sr=1-2-fkmr0&keywords=Ortlieb+first+aid+kit+waterproof&linkCode=li3&tag=hikeve-20&linkId=e89155267f34dd64a56887dd51a0ff47" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00A8E9I88&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00A8E9I88" width="1" height="1" border="0" alt="Ortlieb First Aid Kid" style="border:none !important; margin:0px !important;" />
+</center><br>
+The Ortlieb First Aid Kid is a waterproof bag which is perfect for all kind of water sports.
+</div>
+
 </div>
 
 ---
