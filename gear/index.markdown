@@ -7,7 +7,7 @@ footer: false
 navbar: gear
 ---
 
-Here is a selection of the best hiking and packrafting gear (at least the best for us) which we are using on our trips or which we are planning to use on our trips. We are frequently updating this list if we find a new interesting product so bookmark this page and visit us again in the future. We have also added a section at the very bottom about our camera and blogging gear which we are using. If you want to buy one of the items just click on one of the pictures and you will be redirected to Amazon (and at the same time you will support our blog as we will receive a small commission on your purchase). 
+Here is a selection of the best hiking and packrafting gear (at least the best for us) which we are using on our trips or which we are planning to use on our trips. We are frequently updating this list if we find a new interesting product so bookmark this page and visit us again in the future. We have also added a section at the very bottom about our camera and blogging gear which we are using. If you want to buy one of the items just click on one of the pictures and you will be redirected to Amazon (and at the same time you will support our blog as we will receive a small commission on your purchase).
 
 ---
 
@@ -76,7 +76,7 @@ PackTowl Personal Packtowl</a></h4>
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
 <center><h4><a href="http://amzn.to/2nr6uI4" rel="nofollow">
 Icebreaker Men's Everyday Long sleeve Crewe Top</a></h4>
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00AF6ZJU0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00AF6ZJU0&linkCode=as2&tag=hikeve-20&linkId=a66995c665d4d20729aef69546a4f177"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00AF6ZJU0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00AF6ZJU0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></center>
+<a target="_blank"  href="https://www.amazon.com/gp/product/B00AF6ZJU0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00AF6ZJU0&linkCode=as2&tag=hikeve-20&linkId=a66995c665d4d20729aef69546a4f177"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00AF6ZJU0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00AF6ZJU0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></center>Under our drysuite, on trips to colder places or sometimes just as a casual shirt we have the Icebreaker Everyday Long Sleeve Crewe Top. During winter trips we also use the Devold expedition baselayer beside the Icebreaker baselayer. The advantage of those baselayers is that they are made of Merino wool. Merino wool keeps you warm even so when it is wet.
 </div>
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
