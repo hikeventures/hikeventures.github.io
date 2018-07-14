@@ -48,19 +48,21 @@ Packrafting! An introduction and How-To Guide</a></h4>
 MSR Windburner</a></h4>
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00Y143XF0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Y143XF0&linkCode=as2&tag=hikeve-20&linkId=9881e4b70983b4214c4107eb5965992f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00Y143XF0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00Y143XF0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div></center><br>The MSR Windburner is our stove which we take with us on hikes where we want to boil water fast and where it is very windy. The faster you can get water boil the less gas you may need on your trip and the less weight you need to carry.
-
+</div>
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
 <center><h4><a href="http://amzn.to/2oLqLcs" rel="nofollow">
 Therm-a-Rest NeoAir XTherm Mattress</a></h4>
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00TSFYZAE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TSFYZAE&linkCode=as2&tag=hikeve-20&linkId=161ee9d76ae629dbf91aa1da9a5ce93f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00TSFYZAE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00TSFYZAE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </div></center><br>The Therm-a-Rest NeoAir XTherm mattress is our go-to sleeping pad through all seasons as it features great insulation and low weight. If you only want to buy one sleeping pad then the Therm-a-Rest NeoAir XTherm is the sleeping pad you should definitely have a look on.
+</div>
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
 <center><h4><a href="https://amzn.to/2Lf9ILb" rel="nofollow">
 LuminAID PackLite Max USB Solar Inflatable Lantern</a></h4>
 <a rel="nofollow" href="https://www.amazon.com/LuminAID-PackLite-Inflatable-Waterproof-Lantern/dp/B01NA92GNG/ref=as_li_ss_il?ie=UTF8&qid=1531571833&sr=8-5&keywords=luminaid+packlite&linkCode=li3&tag=hikeve-20&linkId=4e6bddea141b41403b4af132667a5c4e" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01NA92GNG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B01NA92GNG" width="1" height="1" border="0" alt="LuminAID PackLite Max USB Solar Inflatable Lantern" style="border:none !important; margin:0px !important;" />
 </div></center>If you look for a light with a solar panel, battery and a USB socket to charge your devices then the LuminAID should be on your list. It features 150 lumens of LED light (50 hours of light on low mode) and can be recharged through its solar panel within 12-14 hours. It also features a USB port to charge your electronic devices while you are on the trail. Moreover, it is waterproof and durable.
+</div>
 
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
 <center><h4><a href="http://amzn.to/2mZdb8O" rel="nofollow">
