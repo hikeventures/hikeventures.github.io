@@ -256,9 +256,9 @@ The Astral Brewer 2.0 is our packrafting water shoe. It easily releases water an
 <h3>Camera Gear</h3>
 <div id="partners_table" class="row">
 <div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-<center><h4><a href="http://amzn.to/2nr3DPm" rel="nofollow">
-Focusrite Scarlett Solo</a></h4>
-<a target="_blank"  href="https://www.amazon.com/gp/product/B01E6T56CM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01E6T56CM&linkCode=as2&tag=hikeve-20&linkId=da1ba6fe71108a198b69a6a9a27678cd"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01E6T56CM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01E6T56CM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<center><h4><a href="https://amzn.to/2uAS2m9" rel="nofollow">
+Sound Devices MixPre-3</a></h4>
+<a rel="nofollow" href="https://www.amazon.com/Sound-Devices-MixPre-3-Multichannel-Interface/dp/B07CZNYZ9K/ref=as_li_ss_il?ie=UTF8&qid=1531634174&sr=8-2&keywords=sound+devices+mixpre-3&linkCode=li3&tag=hikeve-20&linkId=9c9d0604f932ca4edb63bbcd0a2ff862" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07CZNYZ9K&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B07CZNYZ9K" width="1" height="1" border="0" alt="Sound Devices MixPre-3" style="border:none !important; margin:0px !important;" />
 </center>
 </div>
 
