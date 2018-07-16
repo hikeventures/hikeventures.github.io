@@ -248,6 +248,14 @@ Astral Brewer 2.0</a></h4>
 The Astral Brewer 2.0 is our packrafting water shoe. It easily releases water and most importantly features a great rubber sole which works great on wet stones.
 </div>
 
+<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center><h4><a href="https://amzn.to/2L0SmFV" rel="nofollow">
+Bushbox LF Titanium</a></h4>
+<a rel="nofollow" href="https://www.amazon.com/Bushcraft-Essentials-Bushbox-LF-Titanium/dp/B073ZBPGS3/ref=as_li_ss_il?ie=UTF8&qid=1531716887&sr=8-1&keywords=bushbox+essentials+titanium&linkCode=li3&tag=hikeve-20&linkId=0d449e41203664b5d3a2fe7651d1e304" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B073ZBPGS3&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B073ZBPGS3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+</center><br>
+The Bushcraft Essentials Bushbox LF Titanium is our stove when we don't use gas. It's super light and folds small. It also comes with a heavy duty outdoor bag.</div>
+
+
 </div>
 
 
