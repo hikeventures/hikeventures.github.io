@@ -256,6 +256,14 @@ Bushbox LF Titanium</a></h4>
 The Bushcraft Essentials Bushbox LF Titanium is our stove when we don't use gas. It's super light and folds small. It also comes with a heavy duty outdoor bag.</div>
 
 
+<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center><h4><a href="https://amzn.to/2NS35QI" rel="nofollow">
+Werner Pack-Tour M Pack Raft Paddle</a></h4>
+<a rel="nofollow" href="https://www.amazon.com/Werner-Pack-Tour-Pack-Raft-Paddle-SS-210-225-R/dp/B01MXI7TLK/ref=as_li_ss_il?ie=UTF8&qid=1531728234&sr=8-1&keywords=Werner+paddles+m-tour&linkCode=li3&tag=hikeve-20&linkId=c802a23e3839daf5fe3ca00df7c5783d" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MXI7TLK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B01MXI7TLK" width="1" height="1" border="0" alt="Werner Pack-Tour M Pack Raft Paddle" style="border:none !important; margin:0px !important;" />
+</center><br>
+The Werner Pack-Tour M Pack Raft Paddle are our packrafting paddles for mobile adventures. They pack quite small and come in 4 pieces.</div>
+
+
 </div>
 
 
