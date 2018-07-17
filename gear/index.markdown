@@ -263,6 +263,13 @@ Werner Pack-Tour M Pack Raft Paddle</a></h4>
 </center><br>
 The Werner Pack-Tour M Pack Raft Paddle are our packrafting paddles for mobile adventures. They pack quite small and come in 4 pieces.</div>
 
+<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
+<center><h4><a href="https://amzn.to/2JvOmHN" rel="nofollow">
+Morakniv Eldris</a></h4>
+<a rel="nofollow" href="https://www.amazon.com/Morakniv-Fixed-Blade-Pocket-Sized-Sandvik-Stainless/dp/B01M0BD35D/ref=as_li_ss_il?ie=UTF8&qid=1531826431&sr=8-1&keywords=morakniv+eldris&linkCode=li3&tag=hikeve-20&linkId=792c0e91e4777e9f6d26cffe381fca0f" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01M0BD35D&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B01M0BD35D" width="1" height="1" border="0" alt="Morakniv Eldris" style="border:none !important; margin:0px !important;" />
+</center><br>
+The Morkniv Eldris is a nice little knife which works well for carving or preparing firewood. It's probably not that well suited to split bigger firewood but for anything else it's a great knife.</div>
+
 
 </div>
 
