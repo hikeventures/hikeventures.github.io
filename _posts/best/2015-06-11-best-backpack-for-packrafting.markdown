@@ -69,9 +69,9 @@ From my point of view a good packrafting backpack should have the following feat
 
 ## HMG Porter 4400
 
-**Weight**: 1065 grams / 37.6 oz.
-**Volume**: 70l
-**Fabric**: 15D Cuben Fiber
+**Weight**: 1065 grams / 37.6 oz.  
+**Volume**: 70l  
+**Fabric**: 15D Cuben Fiber  
 
 This is my current backpack with a volume of 70l. It felt comfortable to carry also on longer distances but after 2 years it shows some wear and has a couple of punctures. The HMG Porter is made of Cuben Fiber but I am not sure if I should get another one since I found the fabric not that durable and with punctures on my backpack the backpack loses it’s main feature - being waterproof.
 
@@ -79,9 +79,9 @@ This is my current backpack with a volume of 70l. It felt comfortable to carry a
 
 ## HMG Windrider 4400
 
-**Weight**: 992 grams / 32.5 oz.
-**Volume**: 70l
-**Fabric**: 15D Cuben Fiber
+**Weight**: 992 grams / 32.5 oz.  
+**Volume**: 70l  
+**Fabric**: 15D Cuben Fiber  
 
 The HMG Windrider is similar as the HMG Porter 4400 but comes already with three mesh pockets which I find quite useful if you want to quickly store some gear.
 
@@ -91,7 +91,7 @@ This is probably the best lightweight packrafting backpack you can buy at the mo
 
 ## NRS Paragon Pack
 
-**Weight**: 1179 grams / 41.6 oz. (without dry sack)
+**Weight**: 1179 grams / 41.6 oz. (without dry sack)  
 
 The NRS Paragon Pack is quite versatile like the ULA Epic and you can use smaller and bigger dry bags with it as well as you can read in the [Q&A section](http://www.nrs.com/product/2933/nrs-paragon-pack2). The straps on the back of the NRS Paragon Pack also look like you can attach your paddles to the backpack.
 
@@ -99,9 +99,9 @@ The NRS Paragon Pack is quite versatile like the ULA Epic and you can use smalle
 
 ## Sea to Summit Hydraulic Dry Pack
 
-**Weight**: 1319 grams / 46.5 oz.
-**Volume**: 90l
-**Fabric**: 600D TPU laminated fabric
+**Weight**: 1319 grams / 46.5 oz.  
+**Volume**: 90l  
+**Fabric**: 600D TPU laminated fabric  
 
 The Sea to Summit Hydraulic Dry Packs looked to me as an interesting alternative to my HMG backpack until I realized that the carrying system could be a problem.
 
@@ -111,7 +111,7 @@ The backpack does not have a proper back panel which might be an issue when carr
 
 ## ULA Epic
 
-**Weight**: 922 grams / 32.5 oz. (without dry sack)
+**Weight**: 922 grams / 32.5 oz. (without dry sack)  
 **Volume**: 30-75l
 
 The ULA Epic seems to be the best choice beside the NRS Paragon Pack if I want to have a backpack where I can exchange the dry bag.
@@ -119,6 +119,8 @@ The ULA Epic seems to be the best choice beside the NRS Paragon Pack if I want t
 The ULA Epic is quite flexible and you can attach a 30-75l dry back on it.
 
 Having had a 70l pack before the additional 5l on a 75l dry back would come quite handy on an extended trip where I have to carry loads of food and my camera with me. The additional pockets on the ULA Epic also add another 9l of volume to the pack.
+
+<hr>
 
 ## Conclusion
 
