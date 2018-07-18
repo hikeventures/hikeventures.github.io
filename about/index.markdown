@@ -55,34 +55,6 @@ published: true
 			<a href="https://www.ecktiv.nl/gdansk-een-echte-hanzestad/" rel="nofollow">Ecktiv Magazine: Alleen voor straatfestivals ga je al naar Gdansk.</a><br>
 
 
-			<h4>Partners and Sponsors</h4>
-			<div id="partners_table" class="row">
-				<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-					<amp-img src="m-s-r-logo.png" width="256" height="256" layout="responsive" alt="MSR" ></amp-img>
-				</div>
-				<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-					<amp-img src="thule-logo.png" width="256" height="256" layout="responsive" alt="Thule" ></amp-img>
-				</div>
-				<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-					<amp-img src="palm-logo.png" width="256" height="256" layout="responsive" alt="Palm" ></amp-img>
-				</div>
-				<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-					<amp-img src="werner-logo.png" width="256" height="256" layout="responsive" alt="Werner Paddles" ></amp-img>
-				</div>
-				<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-					<amp-img src="lundhags-logo.png" width="256" height="256" layout="responsive" alt="Lundhags" ></amp-img>
-				</div>
-				<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-					<amp-img src="haglfs-logo-copy.png" width="256" height="256" layout="responsive" alt="Haglofs" ></amp-img>
-				</div>
-				<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-					<amp-img src="thermares-logo.png" width="256" height="256" layout="responsive" alt="Thermares" ></amp-img>
-				</div>
-				<div class="col-sm-3 col-lg-3 col-md-3 col-xs-6">
-					<amp-img src="alpacka-logo.png" width="256" height="256" layout="responsive" alt="Alpacka" ></amp-img>
-				</div>
-			</div>
-
 			<h4>Gear Testing</h4>
 			<p>On our blog we are reviewing outdoor gear which we receive from well known outdoor brands. <a href="http://www.hikeventures.com/Thule-Chasm-XL-Duffle-Bag/">Here</a> is an example of a more detailed review which we wrote for a company. Feel free to <a href="http://www.hikeventures.com/about/#contact">contact us</a> if you want us to test one of your products on our trips. Please note that we will express our own opinion on your products in our reviews.</p>
 			<p class="bigimage"><amp-img src="https://farm6.staticflickr.com/5683/21885051180_963c46af51_b.jpg" width="1000" height="363" layout="responsive" alt="Packrafting in Abisko, Sweden" /></amp-img></p>
