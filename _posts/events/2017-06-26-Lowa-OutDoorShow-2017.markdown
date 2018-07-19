@@ -20,7 +20,7 @@ Here is our interview with Lowa at the OutDoor Show 2017 in Friedrichshafen.
 </div>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script><br>
+
 **Konstantin:**	Hi, this is Konstantin from HikeVentures and I've got Alex from Lowa.
 
 **Alex:**:	Hi, I'm Alex Nikolai, I'm head of development at Lowa, and we're here at the outdoor show in Friedrichshafen, and I want to show you our new generation of hiking boots.

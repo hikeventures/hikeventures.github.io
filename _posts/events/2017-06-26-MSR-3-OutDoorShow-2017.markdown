@@ -20,7 +20,7 @@ MSR shows us the Trail Mini Solo at the OutDoor Show 2017 in Friedrichshafen.
 </div>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script><br>
+
 **Konstantin:**	Hi, this is Konstantin from High Adventures and I've got Owen from MSR. Owen, can you tell us more about this interesting combination?
 
 **Owen:**	Yeah, absolutely. So, MSR, we've had cookware for 20 years. It started with stainless steel and titanium, then aluminium. Over the years, people wanted more and more that you get in bowls, which has been really great for kind of your standard camping set up. As time went on, like system stoves, like the Windboiler, where you have to actually put the fuel and the stove inside and there's a cup and a lid that all work. And actually we're getting a tall out of the system. That I realized we can actually see in our cookware...it's something that we needed, we wanted to create a really small setup. It was a big setup.

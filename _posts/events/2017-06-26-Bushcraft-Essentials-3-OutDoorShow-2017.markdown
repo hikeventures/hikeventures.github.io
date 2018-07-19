@@ -20,7 +20,7 @@ Bushcraft Essentials shows us their stoves at the OutDoor Show 2017 in Friedrich
 </div>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script><br>
+
 Hi, this is Konstantin from Hike Ventures, and I've got Bushcraft essentials with me.
 
 Nice to meet you.

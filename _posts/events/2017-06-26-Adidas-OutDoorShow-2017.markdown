@@ -20,7 +20,7 @@ Adidas shows us their Terrex Fast Surround and Agravic speed shoes at the OutDoo
 </div>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script><br>
+
 **Konstantin:**	Hi. This is Konstantin from Hike Ventures, and I've got Andre from Adidas Terrex. Andre could you say something about the innovations in the shoes that producing.
 
 **Andre:**	Of course. So I will start with a hiking shoe, and then I will go into a super light trail running shoe, and a completely new innovation with trail running what we're having.

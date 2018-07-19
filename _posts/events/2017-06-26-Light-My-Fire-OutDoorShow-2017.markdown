@@ -20,7 +20,7 @@ Light My Fire shows us the Dining Kit and Black Pearl Camp Kit at the OutDoor Sh
 </div>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script><br>
+
 **Konstantin:**	Hi this is Konstantin from Hike Ventures. And I've got David from Light My Fire.
 
 **David:**	Hi. I'm David from Light My Fire. As he said.

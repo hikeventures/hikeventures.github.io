@@ -20,7 +20,7 @@ Bushcraft Essentials shows us the Fire Piston at the OutDoor Show 2017 in Friedr
 </div>
 <br>
 <!--more-->
-<div id="amzn-assoc-ad-cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script><br>
+
 This is our fire piston. It is a very ancient way of making fire. It works basically like a diesel engine. It works by air compression.
 
 The principal is you put tinder in here, then put the plunger back into the cylinder, and compress the air a couple of times.
