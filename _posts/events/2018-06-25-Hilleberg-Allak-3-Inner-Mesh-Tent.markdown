@@ -15,7 +15,7 @@ layout: post
 Petra Hilleberg from showed us their new <a rel="nofollow" href="https://amzn.to/2tvvYK2">Hilleberg Allak 3</a> and Hilleberg Allak 3 Inner Mesh Tent at the OutDoor Show in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nw3e8VnX3CI"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/eq8RDkG6P-U"></iframe>
 </div>
 <br>
 <!--more-->
