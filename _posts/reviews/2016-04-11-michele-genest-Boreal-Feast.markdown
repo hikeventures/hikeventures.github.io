@@ -1,5 +1,5 @@
 ---
-title: Michele Genest - The Boreal Feast Review
+title: The Boreal Feast Book Review
 description: Book review on how to prepare food from ingredients in the North.
 date: 2016-04-25 07:30:00 +0300
 category: reviews
