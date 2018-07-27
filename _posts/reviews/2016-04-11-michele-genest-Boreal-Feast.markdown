@@ -28,4 +28,4 @@ The Boreal Feast ends with the Boreal Pantry Chapter where you can read which pl
 
 The book is also an excellent choice for Vegetarians as not all dishes described in the book do contain meat.
 
-The book has 256 pages and each receipt also comes with a pictures showing the dish. There are also plenty of pictures to each story in the book.
+The book has 256 pages and each receipt also comes with a pictures showing the dish. There are also plenty of pictures to each story in the book. You can get it on <a rel="nofollow" href="https://amzn.to/2LrHzVp">Amazon</a>
