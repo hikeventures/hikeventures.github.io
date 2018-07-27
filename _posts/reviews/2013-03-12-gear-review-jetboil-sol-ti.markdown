@@ -37,4 +37,4 @@ I have tested the Jetboil Sol Ti on <a href="http://hikeventures.com/hiking-and-
 <a href="https://www.flickr.com/photos/90204224@N07/9596216703" title="Jetboil Sol Ti in Sarek"><img src="https://farm4.staticflickr.com/3748/9596216703_3f4c4db24f_b.jpg" width="1024" height="683" alt="Jetboil Sol Ti ultralight hiking and backpacking stove field testing"></a>
 
 ## Alternatives
-Have a look at the newer models like the Jetboil MiniMo or the MSR WindBurner if you want a newer and better stove.
+Have a look at the newer models like the <a rel="nofollow" href="https://amzn.to/2LLGO90">Jetboil MiniMo</a> or the <a rel="nofollow" href="https://amzn.to/2LMvkCx">MSR WindBurner</a> if you want a newer and better stove.

@@ -33,4 +33,4 @@ Attaching <a href="http://amzn.to/X0WwPY" target="_self">hiking boots</a> on the
 ## Recommendation
 I have not tried the carabiner for climbing so I am not able to say anything about it's climbing properties. It's a little bit expensive compared to other carabiners but I like the weight, look and that the gate barrel can be locked.
 
-<a href="http://amzn.to/2f7NIH9" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+You can get the Petzl Attache 3D on <a href="http://amzn.to/2f7NIH9" target="_blank" rel="nofollow">Amazon</a>.

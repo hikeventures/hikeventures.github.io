@@ -90,4 +90,4 @@ And I also hope that the new case would also have some kind of attachment point 
 
 My verdict – even though Thule Atmos X3 has its limitations (especially when dealing with it on the water - check the the new Thule X5 if you need a waterproof solution), it is definitely something that I would recommend. Eventually it was one of the main reasons why I made up my mind to upgrade to iPhone 6.
 
-<a href="http://amzn.to/2hnCX4m" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+Youo can get the Thule Atmos X3 on <a href="http://amzn.to/2hnCX4m" target="_blank" rel="nofollow">Amazon</a>.

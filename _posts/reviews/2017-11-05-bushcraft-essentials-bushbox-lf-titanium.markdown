@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bushcraft Essentials - Bushbox LF Titanium Test
+title: Bushcraft Essentials - Bushbox LF Titanium Review
 description: Testing the Bushcraft Essentials Bushbox LF Titanium
 date: 2017-11-05 07:30:00
 category: reviews
@@ -30,3 +30,5 @@ Here you can watch our interviews with Bushcraft Essentials:
 The Bushcraft Essentials Fire Piston is actually quite interesting. It has a waterproof compartment where you can store tinder.
 
 After having used the Bushcraft Essentials Bushbox LF Titanium for a few times I would say that I am quite happy with it. It's not a budget stove but you get what you pay for. The quality of this stove is really good.
+
+You can get the Bushcraft Essentials Bushbox LF Titanium on <a rel="nofollow" href="https://amzn.to/2JZDBxD">Amazon</a>.

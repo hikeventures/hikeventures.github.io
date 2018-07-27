@@ -27,4 +27,4 @@ I have tested the Arc'teryx Palisade Pants on <a href="http://hikeventures.com/h
 
 <a href="https://www.flickr.com/photos/90204224@N07/14180924087"><img src="https://farm3.staticflickr.com/2934/14180924087_43b2a78a7c_b.jpg" width="1024" height="683" alt="Arc'teryx Palisade Hiking Pants Packrafting Alpacka Raft Werner Paddle Shuna Finland"></a>
 
-<a href="http://amzn.to/2f7MLyz" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+You can get the Arcteryx Palisade Pants on <a href="http://amzn.to/2f7MLyz" target="_blank" rel="nofollow">Amazon</a>.

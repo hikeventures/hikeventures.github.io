@@ -56,7 +56,7 @@ However, for Scandinavia this is easily a great sleeping bag which can be used d
 
 A great sleeping pad companion for the WM VersaLite is the Therm-a-Rest NeoAir XTherm which weights about 400 grams and which I have also used in Northern Norway (see picture above).
 
-<a href="http://amzn.to/2uURPf0" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+You can get the Mountain Equipment Versalite on <a href="http://amzn.to/2uURPf0" target="_blank" rel="nofollow">Amazon</a>.
 
 [1]:	http://www.hikeventures.com/cumulus-panyam-450/ "Cumulus Panjam 450"
 [2]:	http://www.hikeventures.com/Oro/ "Fortress Island of Örö"

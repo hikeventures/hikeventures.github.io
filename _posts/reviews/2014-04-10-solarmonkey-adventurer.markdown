@@ -44,4 +44,4 @@ So far, I have tested the Solarmonkey Adventurer with my iphone and my Sony A7r 
 
 <a href="https://www.flickr.com/photos/90204224@N07/13913979456/" ><img src="https://farm8.staticflickr.com/7164/13913979456_20e1c44af1_b.jpg" width="1024" height="683" alt="Powertraveller Solarmonkey Adventurer"></a>
 
-<a href="http://amzn.to/2vhIwGV" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+You can get the Solarmonkey Adventurer on <a href="http://amzn.to/2vhIwGV" target="_blank" rel="nofollow">Amazon</a>

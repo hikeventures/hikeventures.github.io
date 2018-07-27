@@ -89,3 +89,5 @@ Personally, I use the duffel bag to load all my gear when I am planning to trave
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/40425592470/in/datetaken-public/" title="Thule Chasm Duffel Bag"><img src="https://farm1.staticflickr.com/975/40425592470_7997bd4519_k.jpg" width="2048" height="1365" alt="Thule Chasm Duffel Bag"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The Thule Chasm 130l duffel bag also folds quite small -  about the same size as a folded packraft.
+
+You can get the Thule Chasm on <a rel="nofollow" href="https://amzn.to/2uQRycu">Amazon</a>.

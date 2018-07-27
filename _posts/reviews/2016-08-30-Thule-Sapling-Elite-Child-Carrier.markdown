@@ -60,4 +60,4 @@ More testing is needed to test the durability of the backpack but my first impre
 
 The only negative point I could think of is that the backpack could fall forward with the child if it stands with the stand on the ground but this is probably also the case with other child carrier backpacks.
 
-<a href="http://amzn.to/2uXVYNL" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+You can get the Thule Sapling Elite Child Carrier on <a href="http://amzn.to/2uXVYNL" target="_blank" rel="nofollow">Amazon</a>.

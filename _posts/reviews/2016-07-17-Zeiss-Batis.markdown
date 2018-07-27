@@ -57,4 +57,4 @@ The lens is super versatile. It let's a lot of light through which makes it also
 The Zeiss Batis 25mm would definitely be a great lens for [our trips](http://www.hikeventures.com/destinations/).
 As a side note, I have also used the <a href="http://amzn.to/2akpsuN" rel="nofollow">Hoya 67mm DMC PRO1 Clear Protector Digital Filter</a> when I took the pictures.
 
-<a href="http://amzn.to/2uYei9j" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+You can get the Zeiss Batis lens on <a href="http://amzn.to/2uYei9j" target="_blank" rel="nofollow">Amazon</a>.

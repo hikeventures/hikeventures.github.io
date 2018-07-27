@@ -52,3 +52,5 @@ Here you can see the Sennheiser MKE 600 mounted on my <a rel="nofollow" href="ht
 The SLIK tripod is one of my favorite tripods as it packs small and can carry small and big cameras as well as microphones. I also use it at home on my desk with the MixPre-3 mounted on it.
 
 <a href="http://www.hikeventures.com/children_playing_ice_finland/">Here</a> you can listen to an audio sample which I have recorded in Finland.
+
+You can get the Sound Devices MixPre-3 on <a rel="nofollow" href="https://amzn.to/2Okn5vG">Amazon</a>.

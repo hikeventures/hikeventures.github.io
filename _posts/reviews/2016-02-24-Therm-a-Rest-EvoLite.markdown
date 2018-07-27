@@ -57,4 +57,4 @@ For those who don’t like to inflate sleeping pads, a self-inflating sleeping p
 
 The XTherm is somewhat lighter than the EvoLite and keeps you warm till deep into minus temperatures. The only downside of the XTherm is however that it is not a self-inflating sleeping pad. However, it can be used in a wider temperature range for almost the same weight.
 
-<a href="http://amzn.to/2uVGF9Z" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+You can get the Therm-a-Rest EvoLite on <a href="http://amzn.to/2uVGF9Z" target="_blank" rel="nofollow">Amazon</a>.

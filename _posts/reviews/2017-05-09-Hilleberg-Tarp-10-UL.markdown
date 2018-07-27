@@ -48,4 +48,4 @@ The stuff bag of the Hilleberg Tarp 10 UL is sewed on the Tarp itself.
 
 The attachment points on the tarp with 3 mm guy lines.
 
-<a href="http://amzn.to/2uYouyG" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+You can get the Hilleberg Tarp 10 UL on <a href="http://amzn.to/2uYouyG" target="_blank" rel="nofollow">Amazon</a>.

@@ -31,3 +31,5 @@ I have tested the Black Diamond Ultra Distance Z-Pole on <a href="http://hikeven
 
 ## Alternatives
 Have a look at my list of [my favorite trekking poles](http://www.hikeventures.com/best-trekking-and-snowshoeing-poles/) which I would currently buy.
+
+You can get the Black Diamond Ultra Distance Z-Pole on <a rel="nofollow" href="https://amzn.to/2uT8peL">Amazon</a>.

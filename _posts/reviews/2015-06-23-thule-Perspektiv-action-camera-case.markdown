@@ -76,4 +76,4 @@ On the whole, even though it is not waterproof and weighs almost 230 grams, I re
 
 Once again, this Thule Perspektiv Action Camera Case shows that it was designed with the needs of the end customer in mind and it does what it promises to do – to keep your action camera(s) safe and in one place in-between the jobs.
 
-<a href="http://amzn.to/2vsUQoi" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+You can get the Thule Perspective Action Camera Case on <a href="http://amzn.to/2vsUQoi" target="_blank" rel="nofollow">Amazon</a>.

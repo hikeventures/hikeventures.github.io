@@ -25,4 +25,4 @@ Obviously, if you are on a budget and need to boil for more people then you shou
 
 Anyway, I'm very satisfied with these Jetboil stoves . They heat up water very quickly and are well designed.
 
-<a href="http://amzn.to/2uVsOk5" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+You can get the Jetboil Flash on <a href="http://amzn.to/2uVsOk5" target="_blank" rel="nofollow">Amazon</a>.

@@ -28,3 +28,5 @@ Alternatively, Konstantin is currently testing the MSR Hubba Hubba NX in Japan w
 The Hubba Hubba packs small, weights only 1.54 kg and costs less than the Hillebergs. The Hillebergs might have a quality edge but the MSR should do the job as well for considerably less money.
 
 Anyways, have a look on our blog if you are interested in the Hubba Hubba NX for an extensive review in the near future. Unfortunately, we don't have the Hillebergs available to test but there may come a review in the future as well.
+
+You can get the Hilleberg Niak on <a rel="nofollow" href="https://amzn.to/2LDYdR1">Amazon</a>.
