@@ -17,10 +17,6 @@ layout: post
 
 Suunto has recently released its latest GPS watch - the Suunto Traverse - which is especially interesting for those interested in hiking and backpacking. So what are the differences between the Suunto 9, Spartan, Ambit3 and Traverse?
 
-**Update 5.07.2018:** Suunto has released the [Suunto 9](https://amzn.to/2tTFKWq).
-
-**Update 26.08.2017:** Suunto has released the [Suunto Spartan Sport Wrist HR GPS Watch](http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F129489%2Fsuunto-spartan-sport-wrist-hr-gps-watch) and the more affordable [Suunto Spartan Trainer Wrist HR GPS Watch](http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F129489%2Fsuunto-spartan-sport-wrist-hr-gps-watch). Both are featuring color displays and are the latest developments from Suunto. There is also the new [Garmin Fenix 5X](http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F121191%2Fgarmin-fenix-5x-sapphire-multisport-gps-heart-rate-monitor-watch) which is capable of displaying topo maps.
-
 <p><amp-img src="https://farm8.staticflickr.com/7138/26503377864_db26a8025b_b.jpg" alt="Suunto Traverse" title="Suunto Traverse and Roselli Knife" width="1024" height="768" layout="responsive"></amp-img></p>
 
 The most important difference is probably that the Suunto Traverse has a vibration alarm and that the GPS receiver is now 'invisible' built into the watch.
@@ -43,7 +39,7 @@ The Traverse also has a flashlight function which could be quite useful (for exa
 
 Personally, I like the new look of the Suunto Traverse more than the design of the old Suunto Ambit3. Also, the wrist strap of the Suunto Traverse feels somewhat more comfortable than the one on the old Suunto Ambit3.
 
-The Suunto 9 seems like a great watch if battery life is important to you. With 81 grams it's one of the more heavyer Suunto models.
+The [Suunto 9](https://amzn.to/2tTFKWq) seems like a great watch if battery life is important to you. With 81 grams it's one of the more heavyer Suunto models.
 
 ---
 
@@ -133,6 +129,11 @@ Update 26.1.2017: Suunto announced the Suunto Spartan Sport - Another premium mu
 Update 10.08.2017: Suunto announced the Suunto Spartan Trainer Wrist HR - similar features as the more expensive models but in a slimmer design.
 
 Update 4.4.2018: Suunto has released the Suunto 3 Fitness watch.
+
+**Update 26.08.2017:** Suunto has released the [Suunto Spartan Sport Wrist HR GPS Watch](http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F129489%2Fsuunto-spartan-sport-wrist-hr-gps-watch) and the more affordable [Suunto Spartan Trainer Wrist HR GPS Watch](http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F129489%2Fsuunto-spartan-sport-wrist-hr-gps-watch). Both are featuring color displays and are the latest developments from Suunto. There is also the new [Garmin Fenix 5X](http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F121191%2Fgarmin-fenix-5x-sapphire-multisport-gps-heart-rate-monitor-watch) which is capable of displaying topo maps.
+
+**Update 5.07.2018:** Suunto has released the [Suunto 9](https://amzn.to/2tTFKWq).
+
 <br>
 
 Need some more inspirations on how to use the Suunto Ambit or Suunto Traverse watch? Here is a [trip report](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/) from the Swedish mountains where I was wearing the old Suunto Ambit3 on a packrafting trip.
