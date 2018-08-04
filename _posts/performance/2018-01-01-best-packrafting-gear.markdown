@@ -1,7 +1,7 @@
 ---
 title: Best Packrafting Gear
 description: Our pick of the best packrafting gear
-date: 2018-01-01T09:13:12.000Z
+date: 2018-01-01 09:13:12
 category: articles
 tags:
   - articles
