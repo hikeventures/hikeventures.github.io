@@ -71,6 +71,10 @@ With the Lowepro Nova Sport 7L in [Northern Norway](http://www.hikeventures.com/
         <tr>
           <td><a href="https://amzn.to/2HoRUwn" target="_blank" rel="nofollow">Photo Sport BP 300 AW II</a></td><td>1500 grams / 3.3 lbs</td>
         </tr>
+        <tr>
+          <td><a href="https://amzn.to/2Obp5FI" target="_blank" rel="nofollow">Gitzo Adventury 30L camera backpack for DSLR</a></td><td>2050 grams / 4.5 lbs</td>
+        </tr>
+
         </tbody>
       </table>
 </div>
@@ -122,6 +126,20 @@ The Aquacase case also features an optically-clear acrylic lens for clear pictur
 The case will also float on the water with your camera in it, but Aquapac mentions that you should test the case with your camera before you take the case into the field.
 
 <a href="http://amzn.to/29zNP9o" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+
+<hr>
+
+
+## Gitzo Adventury 30L DSLR Camera Backpack
+
+<a rel="nofollow" href="https://www.amazon.com/Gitzo-Adventury-DSLR-Camera-Backpack/dp/B07CTWL7JH/ref=as_li_ss_il?ie=UTF8&qid=1533370439&sr=8-2&keywords=Gitzo+Adventury+30L+camera+backpack+for+DSLR&linkCode=li3&tag=hikeve-20&linkId=284cfee15dccd6c74b7ee1c714a6f594" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07CTWL7JH&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B07CTWL7JH" width="1" height="1" border="0" alt="Gitzo Adventury 30L DSLR Camera Backpack" style="border:none !important; margin:0px !important;" />
+
+**Weight**: 2050 grams / 4.5 lbs
+**Dimensions**: 9 x 6 x 14 inches / 23 x 16 x 38 cm
+
+The Gitzo Adventury 30L DSLR camera bag is the Red Dot Award winner 2018 and is probably a good choice if you are looking for a premium outdoor backpack for outdoor activities as it has been designed for bird, wildlife, nature and landscape photographers in mind. Beside a DSLR you can also pack a 70-200 mm lens into the backpack as well as another camera body and up to 4 lenses. Moreover, you can also carry a 13" laptop or a iPad Pro 9 inch into the backpack. There are also spots to attach additional accessories to the backpack. The backpack is water repellent and comes with a rain cover.
+
+<a href="https://amzn.to/2AGn9mL" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
