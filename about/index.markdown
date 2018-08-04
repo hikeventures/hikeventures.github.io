@@ -29,6 +29,17 @@ published: true
 			<h4>Konstantin</h4>
 			<p><a href="https://www.facebook.com/konstantin.gridnevskiy" target="_blank">Konstantin</a> is living in the Netherlands and was born 1978 in Russia. Konstantin is teaching adventure and heritage tourism at an University of Applied Science. Konstantin is our GoPro Hero camera expert. Inspired as a kid by the adventures of his father in Russia Konstantin followed him into his foot steps into the great outdoors. Living in densly populated Netherlands he is also very excited about microadventures which could be interesting for our urban readers. Konstantin is also very interested in hiking and packrafting adventures in Japan. Konstantin is our expert when it comes to conducting research.</p>
 			<div class="followers_container">
+
+<hr>
+<h4>This is HikeVentures</h4>
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YRj_8CoTxnQ"></iframe>
+</div>
+
+<hr>
+
+
 				<h4>Followers on Social Media</h4>
 				<div id="social_followers_table" class="row">
 					<div class="col-sm-6 col-lg-6 col-md-6 col-xs-12">
@@ -58,7 +69,7 @@ published: true
 			<h4>Gear Testing</h4>
 			<p>On our blog we are reviewing outdoor gear which we receive from well known outdoor brands. <a href="http://www.hikeventures.com/Thule-Chasm-XL-Duffle-Bag/">Here</a> is an example of a more detailed review which we wrote for a company. Feel free to <a href="http://www.hikeventures.com/about/#contact">contact us</a> if you want us to test one of your products on our trips. Please note that we will express our own opinion on your products in our reviews.</p>
 			<p class="bigimage"><amp-img src="https://farm6.staticflickr.com/5683/21885051180_963c46af51_b.jpg" width="1000" height="363" layout="responsive" alt="Packrafting in Abisko, Sweden" /></amp-img></p>
-			
+
 <h4>Privacy Policy</h4>
 Our Privacy Policy can be found <a href="http://www.hikeventures.com/privacy/">here</a>.
 
