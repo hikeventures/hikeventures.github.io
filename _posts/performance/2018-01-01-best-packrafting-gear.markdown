@@ -277,7 +277,4 @@ Morakniv Eldris</a></h4>
 </center><br>
 The Morkniv Eldris is a nice little knife which works well for carving or preparing firewood. It's probably not that well suited to split bigger firewood but for anything else it's a great knife.</div>
 
-
-</div>
-
 </div>
