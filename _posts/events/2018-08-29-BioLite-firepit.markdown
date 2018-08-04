@@ -12,7 +12,7 @@ tags:
 layout: post
 ---
 
-Jonathan Cedar from BioLite showed us their 3D Slim Fit Headlamp at the OutDoor Show in Friedrichshafen.
+Jonathan Cedar from BioLite showed us their FirePit at the OutDoor Show in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/GDcd2u_Auic"></iframe>
