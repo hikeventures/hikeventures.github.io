@@ -374,11 +374,11 @@ published: true
         <tr>
         <td><a href="/MSR-1-OutDoorShow-2017/">MSR 2.5 liter sauce pot and 4.5 liter stock pot</a></td>
     <td><a href="/MSR-2-OutDoorShow-2017/">PocketRocket 2</a></td>
-            <td><a href="/MSR-4-OutDoorShow-2017/">TrailBase water filter</a></td>
+            <td><a href="/MSR-4-OutDoorShow-2017/">TrailBase water filter</a></td></tr>
+            <tr>
               <td><a href="/MSR-3-OutDoorShow-2017/">Trail Mini Solo</a></td>
 
-              </tr>
-              <tr>
+
               <td><a href="/MSR-Zoic-2/">Zoic 2</a></td>
 
         </tr>
