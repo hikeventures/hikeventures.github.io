@@ -279,11 +279,11 @@ The BONFOTO b71t table tripod is a light and small tripod which you can pack int
 
 ### Difference between aluminum and carbon tripod
 
-Carbon is lighter than aluminum and is also more weather resistant. A carbon tripod might also be a good choice if you are planning to take pictures at the beach as salt water may not harm carbon that much.
+Carbon is lighter than aluminium and is also more weather resistant. A carbon tripod might also be a good choice if you are planning to take pictures at the beach as salt water may not harm carbon that much.
 
-An additional layer usually protects the aluminum tripods from erosion. However, sand could cause small scratches to that layer and the tripod may suffer from erosion.
+An additional layer usually protects the aluminium tripods from erosion. However, sand could cause small scratches to that layer and the tripod may suffer from erosion.
 
-Another advantage of an aluminum tripod over a carbon tripod is that it’s less expensive.
+Another advantage of an aluminium tripod over a carbon tripod is that it’s less expensive.
 
 ---
 
@@ -295,7 +295,7 @@ A heavier tripod could be also useful if you are planning to use a slider with y
 
 ## My own gear
 
-I own a SLIK Mini Pro III and a Manfrotto BeFree Aluminum. I use the SLIK when I need to count every gram e.g. when going on a long distance hike while I take the Manfrotto if I need a full featured tripod.
+I own a SLIK Mini Pro III and a Manfrotto BeFree . I use the SLIK when I need to count every gram e.g. when going on a long distance hike while I take the Manfrotto if I need a full featured tripod.
 
 The Manfrotto is also a good choice if you want to take selfies as you can position the camera to the right hight.
 
