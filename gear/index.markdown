@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The best packrafting and hiking gear
+title: Our Gear
 date: "2018-07-012 18:21"
 comments: false
 footer: false
