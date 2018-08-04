@@ -332,7 +332,7 @@ published: true
             <td><a href="/Lundhags-Merino-Tee/">Gimmer Merino Tee</a></td>
               <td><a href="/Lundhags-OutDoorShow-2017/">Gneik</a></td>
 
-              <td><a href="https://www.youtube.com/watch?v=ZeTPbkozsqU&list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM&index=21">Skare Boots</a></td>
+              <td><a href="https://www.youtube.com/watch?v=ZeTPbkozsqU&list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM&index=21">Skare Boots</a></td></tr><tr>
 <td><a href="http://www.hikeventures.com/Lundhags-Skare-Expedition/">Skare Expedition Boots</a></td>
               <td><a href="/Lundhags-Ymse-Romu-Grett/">Lundhags Ymse, Romus and Grett bags</a></td>
 
@@ -376,6 +376,9 @@ published: true
     <td><a href="/MSR-2-OutDoorShow-2017/">PocketRocket 2</a></td>
             <td><a href="/MSR-4-OutDoorShow-2017/">TrailBase water filter</a></td>
               <td><a href="/MSR-3-OutDoorShow-2017/">Trail Mini Solo</a></td>
+
+              </tr>
+              <tr>
               <td><a href="/MSR-Zoic-2/">Zoic 2</a></td>
 
         </tr>
