@@ -57,6 +57,7 @@ published: true
 
             <td><a href="/BioLite-headlamp/">3D Slim Fit Headlamp</a></td>
 
+      <td><a href="/BioLite-firepit/">FirePit</a></td>
         </tr>
 
 
@@ -71,6 +72,19 @@ published: true
 
 
         <tr>
+        <td><strong>Buffaly Systems</strong></td><td></td>
+        </tr>
+        <tr>
+        <td><a href="/Buffalo-Systems-Mountain-Jacket/">Buffalo Systems Mountain Jacket</a></td>
+
+  <td><a href="/Buffalo-Systems-Mountain-Shirt/">Buffalo Systems Mountain Shirt</a></td>
+
+        </tr>
+
+
+
+
+        <tr>
         <td><strong>Bushcraft Essentials</strong></td><td></td>
         </tr>
         <tr>
@@ -81,6 +95,17 @@ published: true
             <td><a href="/Bushcraft-Essentials-3-OutDoorShow-2017/">Stoves overview</a></td>
 
         </tr>
+
+
+        <tr>
+        <td><strong>Exped</strong></td><td></td>
+        </tr>
+        <tr>
+        <td><a href="/Exped-Whiteout/">Whiteout Backpack</a></td>
+
+        </tr>
+
+
 
         <tr>
         <td><strong>Faltboote</strong></td><td></td>
@@ -219,6 +244,18 @@ published: true
         </tr>
 
 
+
+        <tr>
+        <td><strong>KEEN</strong></td><td></td>
+        </tr>
+        <tr>
+
+            <td><a href="/KEEN-Clearwater-UNEEK-Tarradora-Ethos-Newport/">Clearwater, Newport, Tarradora Ethos and UNEEK</a></td>
+
+        </tr>
+
+
+
         <tr>
         <td><strong>Klättermusen</strong></td><td></td>
         </tr>
@@ -296,6 +333,8 @@ published: true
               <td><a href="/Lundhags-OutDoorShow-2017/">Gneik</a></td>
 
               <td><a href="https://www.youtube.com/watch?v=ZeTPbkozsqU&list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM&index=21">Skare Boots</a></td>
+<td><a href="http://www.hikeventures.com/Lundhags-Skare-Expedition/">Skare Expedition Boots</a></td>
+              <td><a href="/Lundhags-Ymse-Romu-Grett/">Lundhags Ymse, Romus and Grett bags</a></td>
 
         </tr>
 
@@ -337,6 +376,7 @@ published: true
     <td><a href="/MSR-2-OutDoorShow-2017/">PocketRocket 2</a></td>
             <td><a href="/MSR-4-OutDoorShow-2017/">TrailBase water filter</a></td>
               <td><a href="/MSR-3-OutDoorShow-2017/">Trail Mini Solo</a></td>
+              <td><a href="/MSR-Zoic-2/">Zoic 2</a></td>
 
         </tr>
 
@@ -395,7 +435,11 @@ published: true
 
         <tr>
 
+
+  <td><a href="/Norrona-Bitihorn-Alpha-Jacket/">Norrøna Bitihorn Alpha Hoodie Shirt</a></td>
+
               <td><a href="/Norrona-Bitihorn-Wool-Shirt/">Bitihorn Wool Shirt</a></td>
+
               <td><a href="/Norrona-Bitihorn-Superlight-down900-Jacket/">Bitihorn Superlight down900 Jacket</a></td>
 
         </tr>
@@ -456,6 +500,20 @@ published: true
 
 
 
+
+        <tr>
+        <td><strong>Patagonia</strong></td><td></td>
+        </tr>
+        <tr>
+
+<td><a href="/Patagonia-Black-Hole-Duffel-Bag/">Black Hole Duffel Bag</a></td>
+        <td><a href="/Patagonia-cap-cool-daily-shirt/">Cap Cool Daily Shirt</a></td>
+
+<td><a href="/Patagonia-Micro-Puff-Jacket/">Micro Puff Jacket</a></td>
+
+        </tr>
+
+
         <tr>
         <td><strong>Pajak</strong></td><td></td>
         </tr>
@@ -499,6 +557,16 @@ published: true
 
 
         <tr>
+        <td><strong>Sherpa</strong></td><td></td>
+        </tr>
+
+        <tr>
+
+            <td><a href="/Sherpa-Assar-Jacket/">Assar Jacket</a></td>
+
+        </tr>
+
+        <tr>
         <td><strong>Subtech</strong></td><td></td>
         </tr>
         <tr>
@@ -527,6 +595,7 @@ published: true
         <tr>
 
             <td><a href="/Thermarest-OutDoorShow-2017/">SV Xtherm, Max Xtherm, XLite Max, ProLite Plus and Camper Duo</a></td>
+    <td><a href="/Therm-a-Rest-NeoAir-UberLite-Hyperion-sleeping-bag/">NeoAir UberLite and Hyperion sleeping bag</a></td>
 
         </tr>  
 
@@ -538,7 +607,7 @@ published: true
 
             <td><a href="/Thule-OutDoorShow-2017/">AllTrail and Stir Backpack</a></td>
             <td><a href="https://www.youtube.com/watch?v=0Y8GkZgOhf8&list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM&index=23">Legend GoPro Backpack, Advanced Case and Case</a></td>
-
+  <td><a href="/Thule-Landmark/">Landmark Backpack</a></td>
         </tr>
 
 
