@@ -55,9 +55,7 @@ published: true
 						<span><i class="fa fa-youtube" aria-hidden="true"></i></span> We are also on <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw">YouTube</a>.
 					</div>
 				</div>
-			
-
-
+				
 			<h4>In the Media</h4>
 			<a href="http://www.tgomagazine.co.uk/inspiration-and-ideas/the-uks-first-packraft-roundup-a-family-affair/" rel="nofollow">The Great outdoors: The UK’S first packraft roundup - A family affair.</a><br>
 			<a href="https://www.alpackaraft.com/rafting/adventure-blogs/" rel="nofollow">Alpacka Raft: Awesome Adventure Blogs That Include Packraft Adventures.</a><br>
