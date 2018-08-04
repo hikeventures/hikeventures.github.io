@@ -28,16 +28,18 @@ published: true
 			<iframe src="https://www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fkonstantin.gridnevskiy&width=132&height=21&layout=button_count&size=large&show_faces=true&appId=582626375123567" width="132" height="28" style="border:none;overflow:hidden;float:right;" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 			<h4>Konstantin</h4>
 			<p><a href="https://www.facebook.com/konstantin.gridnevskiy" target="_blank">Konstantin</a> is living in the Netherlands and was born 1978 in Russia. Konstantin is teaching adventure and heritage tourism at an University of Applied Science. Konstantin is our GoPro Hero camera expert. Inspired as a kid by the adventures of his father in Russia Konstantin followed him into his foot steps into the great outdoors. Living in densly populated Netherlands he is also very excited about microadventures which could be interesting for our urban readers. Konstantin is also very interested in hiking and packrafting adventures in Japan. Konstantin is our expert when it comes to conducting research.</p>
+
+
+			<h4>This is HikeVentures</h4>
+
+			<div class="embed-responsive embed-responsive-16by9">
+			    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YRj_8CoTxnQ"></iframe>
+			</div>
+			
+
 			<div class="followers_container">
 
-<hr>
-<h4>This is HikeVentures</h4>
 
-<div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YRj_8CoTxnQ"></iframe>
-</div>
-
-<hr>
 
 
 				<h4>Followers on Social Media</h4>
