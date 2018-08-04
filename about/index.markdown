@@ -35,9 +35,7 @@ published: true
 			<div class="embed-responsive embed-responsive-16by9">
 			    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YRj_8CoTxnQ"></iframe>
 			</div>
-			
 
-			<div class="followers_container">
 
 
 
@@ -57,7 +55,7 @@ published: true
 						<span><i class="fa fa-youtube" aria-hidden="true"></i></span> We are also on <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw">YouTube</a>.
 					</div>
 				</div>
-			</div>
+			
 
 
 			<h4>In the Media</h4>
