@@ -161,8 +161,6 @@ Wearing a helmet is an important part of (whitewater) packrafting and kayaking.
 
 With many options on the markets you have to decide yourself which helmet is the best for you considering, weight, protective features, design and price.
 
-As a lightweight helmet we were quite happy with the Petzl Meteor 3+ helmet.
+As a lightweight helmet I was quite happy with the Petzl Meteor 3+ helmet. However, I recently exchanged it for the Sweet Protection Strutter helmet.
 
 However, I am looking for a more advanced helmet in the future like the Sweet Protection Rocker Helmet.
-
-<a href="#table" class="btn btn-danger" role="button">Back to the top</a>
