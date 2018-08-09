@@ -46,7 +46,7 @@ Packrafting! An introduction and How-To Guide</a></h4>
 ---
 
 <h3>Hiking Gear</h3>
-<div id="partners_table" class="row">
+
 
 
 <br><br><h4><a href="http://amzn.to/2ougMsw" rel="nofollow">
@@ -77,7 +77,7 @@ PackTowl Personal Packtowl</a></h4>
 
 
 
-<div id="partners_table" class="row">
+
 
 <br><br><h4><a href="http://amzn.to/2nr6uI4" rel="nofollow">
 Icebreaker Men's Everyday Long sleeve Crewe Top</a></h4>
@@ -108,7 +108,7 @@ The Icebreaker Men's Hike+ Lite Crew Socks are our socks during the summer month
 
 
 
-<div id="partners_table" class="row">
+
 
 <br><br><h4><a href="http://amzn.to/2ouheaj" rel="nofollow">
 Nalgene 32oz Wide Mouth Tritan Water Bottle</a></h4>
@@ -142,7 +142,7 @@ The Hilleberg Inner Mesh tent is perfect for star gazing if you use it without t
 
 
 
-<div id="partners_table" class="row">
+
 
 <br><br><h4><a href="http://amzn.to/2qe6YqT" rel="nofollow">
 Hilleberg Tarp 10 UL</a></h4>
@@ -174,7 +174,7 @@ Western Mountaineering VersaLite</a></h4>
 
 
 
-<div id="partners_table" class="row">
+
 
 <br><br><h4><a href="https://amzn.to/2umPrx7" rel="nofollow">
 Arc'teryx Squamish Hoody</a></h4>
@@ -209,7 +209,7 @@ When being outdoors it's important to have a whistle with you so you can alert o
 
 
 
-<div id="partners_table" class="row">
+
 
 <br><br><h4><a href="https://amzn.to/2NRaiAQ" rel="nofollow">
 Astral Buoyancy YTV Life Jacket</a></h4>
@@ -244,7 +244,7 @@ A waterproof first aid kid such as a the Ortlieb First Aid Kid is just perfect f
 
 
 
-<div id="partners_table" class="row">
+
 
 <br><br><h4><a href="https://amzn.to/2zBqrr2" rel="nofollow">
 Astral Brewer 2.0</a></h4>
