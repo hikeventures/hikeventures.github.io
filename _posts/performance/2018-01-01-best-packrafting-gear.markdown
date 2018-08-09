@@ -182,38 +182,42 @@ When being outdoors it's important to have a whistle with you so you can alert o
 <br>
 The Astral Buoyancy YTV Life Jacket is a life jacket which is more suitable for whitewater and also offers you more movement than traditional PFDs. You can also attach for example the <a href="https://amzn.to/2zBomeI" rel="nofollow">NRS Co-pilot knife</a> to it.
 
-<br><br><h3><a href="https://amzn.to/2zBomeI" rel="nofollow">NRS Co-pilot knife</a></h3>
+<br><br>
+<h3><a href="https://amzn.to/2zBomeI" rel="nofollow">NRS Co-pilot knife</a></h3>
 
 <a rel="nofollow" href="https://www.amazon.com/NRS-Co-Pilot-Knife-Green-Size/dp/B014OTT3LO/ref=as_li_ss_il?s=sporting-goods&ie=UTF8&qid=1531596443&sr=1-1-spons&keywords=nrs+river+knife&psc=1&smid=A3U06N8F90FXV2&linkCode=li3&tag=hikeve-20&linkId=315de4ae6335f2149c28e03c28f3aeff" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B014OTT3LO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B014OTT3LO" width="1" height="1" border="0" alt="NRS Co-pilot knife" style="border:none !important; margin:0px !important;" />
 <br>
 The NRS Co-pilot knife is a river knife which you can attach to a life jacket. It may be useful in emergency situations where you have to cut a rope or deflate your packraft.
 
-<br><br><h3><a href="https://amzn.to/2uplaxs" rel="nofollow">Astral Buoyancy Dyneema Throw Bag</a></h3>
+<br><br>
+<h3><a href="https://amzn.to/2uplaxs" rel="nofollow">Astral Buoyancy Dyneema Throw Bag</a></h3>
 
 <a rel="nofollow" href="https://www.amazon.com/Astral-Buoyancy-Dyneema-Throw-Bag/dp/B00BDMDXNU/ref=as_li_ss_il?s=sporting-goods&ie=UTF8&qid=1531596723&sr=1-22&keywords=throw+rope&linkCode=li3&tag=hikeve-20&linkId=b7e02904a303364f0006ec147106fece" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00BDMDXNU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00BDMDXNU" width="1" height="1" border="0" alt="Astral Buoyancy Dyneema Throw Bag" style="border:none !important; margin:0px !important;" />
 <br>
 The Astral Buoyancy Dyneema Throw Bag is a leightweight throwbag which you can take with you during your packrafting adventure. Attach it to a place where it is easy accessible during your trip e.g. on our life jacket.
 
-<br><br><h3><a href="https://amzn.to/2KYskDd" rel="nofollow">Ortlieb First Aid Kid</a></h3>
+<br><br>
+<h3><a href="https://amzn.to/2KYskDd" rel="nofollow">Ortlieb First Aid Kid</a></h3>
 
 <a rel="nofollow" href="https://www.amazon.com/ORTLIEB-FIRST-WITHOUT-CONTENTS-Ortlieb/dp/B00A8E9I88/ref=as_li_ss_il?s=sporting-goods&ie=UTF8&qid=1531597270&sr=1-2-fkmr0&keywords=Ortlieb+first+aid+kit+waterproof&linkCode=li3&tag=hikeve-20&linkId=e89155267f34dd64a56887dd51a0ff47" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00A8E9I88&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00A8E9I88" width="1" height="1" border="0" alt="Ortlieb First Aid Kid" style="border:none !important; margin:0px !important;" />
 <br>
 A waterproof first aid kid such as a the Ortlieb First Aid Kid is just perfect for all kind of water sports.
 
-<br><br><h3><a href="https://amzn.to/2zBqrr2" rel="nofollow">Astral Brewer 2.0</a></h3>
+<br><br>
+<h3><a href="https://amzn.to/2zBqrr2" rel="nofollow">Astral Brewer 2.0</a></h3>
 
 <a rel="nofollow" href="https://www.amazon.com/Astral-Brewer-Mens-Water-Shoe/dp/B079C4V96C/ref=as_li_ss_il?ie=UTF8&qid=1531597525&sr=8-1&keywords=astral+brewer+2&linkCode=li3&tag=hikeve-20&linkId=5019841d0f67bcc5a000f46eac6e3853" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B079C4V96C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B079C4V96C" width="1" height="1" border="0" alt="https://amzn.to/2zBqrr2" style="border:none !important; margin:0px !important;" />
 <br>
 The Astral Brewer 2.0 is our packrafting water shoe. It easily releases water and most importantly features a great rubber sole which works great on wet stones.
 
-<br><br><h3><a href="https://amzn.to/2L0SmFV" rel="nofollow">Bushbox LF Titanium</a></h3>
+<br><br>
+<h3><a href="https://amzn.to/2L0SmFV" rel="nofollow">Bushbox LF Titanium</a></h3>
 
 <a rel="nofollow" href="https://www.amazon.com/Bushcraft-Essentials-Bushbox-LF-Titanium/dp/B073ZBPGS3/ref=as_li_ss_il?ie=UTF8&qid=1531716887&sr=8-1&keywords=bushbox+essentials+titanium&linkCode=li3&tag=hikeve-20&linkId=0d449e41203664b5d3a2fe7651d1e304" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B073ZBPGS3&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B073ZBPGS3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <br>
 The Bushcraft Essentials Bushbox LF Titanium is our stove when we don't use gas. It's super light and folds small. It also comes with a heavy duty outdoor bag.
 
 <br><br>
-
 <h3><a href="https://amzn.to/2NS35QI" rel="nofollow">Werner Pack-Tour M Pack Raft Paddle</a></h3>
 
 <a rel="nofollow" href="https://www.amazon.com/Werner-Pack-Tour-Pack-Raft-Paddle-SS-210-225-R/dp/B01MXI7TLK/ref=as_li_ss_il?ie=UTF8&qid=1531728234&sr=8-1&keywords=Werner+paddles+m-tour&linkCode=li3&tag=hikeve-20&linkId=c802a23e3839daf5fe3ca00df7c5783d" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MXI7TLK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B01MXI7TLK" width="1" height="1" border="0" alt="Werner Pack-Tour M Pack Raft Paddle" style="border:none !important; margin:0px !important;" />
