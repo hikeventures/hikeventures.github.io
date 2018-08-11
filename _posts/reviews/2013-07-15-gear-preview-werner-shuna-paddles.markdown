@@ -1,5 +1,5 @@
 ---
-title: Werner Shuna - Best Packrafting Paddles?
+title: The best Packrafting Paddles
 description: The best paddles for your packrafting adventure - Werner Shuna
 date: 2013-07-15 07:30:00
 category: reviews
@@ -11,7 +11,7 @@ layout: post
 image: http://farm4.staticflickr.com/3709/9295040842_f7031d2f8e_c.jpg
 ---
 
-Having purchased a <a hre="http://hikeventures.com/gear-review-unpacking-alpacka-packraft/" target="_self">packraft</a> a while ago, I was looking for the best packrafting paddles which were in my budget and came accross the Werner Shuna paddles which come in 4 peaces and are super light to take with you on your packrafting trip.
+Having purchased a <a hre="http://hikeventures.com/gear-review-unpacking-alpacka-packraft/" target="_self">packraft</a> a few years ago, I was looking for the best packrafting paddles which were in my budget and came across the Werner Shuna or its bigger brother the <a href="https://amzn.to/2nqS7pk" rel="nofollow">Powerhouse</a>, <a href="https://amzn.to/2Oty45r" rel="nofollow">Werner Pack-Tour M</a> and the VE Creeker Glass Blades on a Straight Black Glass Shaft. All paddles come in 4 peaces and are super light to take with you on your packrafting trip. They can be used for recreational or for whitewater paddling. The Werner paddles are made in the US and the VE paddles are handmade in the UK.
 
 <amp-img src="http://farm4.staticflickr.com/3709/9295040842_f7031d2f8e_c.jpg" layout="responsive" width="800" height="403" alt="Werner Shuna Paddles review"></amp-img>
 <br>
@@ -23,13 +23,16 @@ Having purchased a <a hre="http://hikeventures.com/gear-review-unpacking-alpacka
 ## Wish list for my Packrafting Paddles
 There are a few features which I was looking for with my paddles. They should be lightweight, not too expensive, durable, portable to carry around with my backpack and of course also look nice.
 
-I did some research and learned  about the Werner Shuna paddles which should be one of the best paddles on the market.Unfortunately, they were not offered as a 4 pieces version on the Werner website when I bought them but it is possible to order custom made paddles which come in 4 pieces.
+## Straight vs. cranked Shaft
+When you plan to purchase a paddle you will probably come across paddles which have a cranked rather than a straight shaft. Paddlers who have wrist injuries usually take a cranked shaft. Moreover, the cranks shaft is also a bit heavier than the straight shaft.
 
----
+## Werner Pack-Tour M
+<a rel="nofollow" href="https://www.amazon.com/Werner-Pack-Tour-Pack-Raft-Paddle-SS-210-225-R/dp/B01MXI7TLK/ref=as_li_ss_il?s=sporting-goods&ie=UTF8&qid=1533981606&sr=1-2&keywords=werner+pack-tour&linkCode=li3&tag=hikeve-20&linkId=3a7de352da78744096a2b2fd79cd83be" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MXI7TLK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B01MXI7TLK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-## Features
-The Werner Shuna paddles are high quality carbon paddles with a great design and a weight of 780 grams. There are also several colors available.
+## Werner Powerhouse
+<a rel="nofollow" href="https://www.amazon.com/Werner-Powerhouse-Fiberglass-Breakdown-Paddle-TopEagFallGreen-200cm/dp/B076CYL7TL/ref=as_li_ss_il?ie=UTF8&qid=1533981489&sr=8-2-fkmr1&keywords=werner+shuna+paddle+4&linkCode=li3&tag=hikeve-20&linkId=88861b75382a4da05ee4f53c8109288a" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B076CYL7TL&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B076CYL7TL" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+## Werner Shuna
 <a href="http://www.flickr.com/photos/90204224@N07/9292260231/" ><img src="http://farm4.staticflickr.com/3707/9292260231_db18474086_c.jpg" width="800" height="534" alt="Werner Shuna paddle"></a>
 
 <a href="http://www.flickr.com/photos/90204224@N07/9292259333/" ><img src="http://farm4.staticflickr.com/3744/9292259333_85e0905f54_c.jpg" width="534" height="800" alt="Packrafting paddle"></a>
@@ -48,11 +51,14 @@ The angle is adjustable as you can see on the left hand side of the paddle.
 
 <a href="http://www.flickr.com/photos/90204224@N07/9292254585/" ><img src="http://farm4.staticflickr.com/3689/9292254585_d8781e5ec4_c.jpg" width="800" height="495" alt="Werner Shuna paddle"></a>
 
-I really like the design of these paddles. They just look great and they are super light. If you have the money to buy a <a hre="http://hikeventures.com/gear-review-unpacking-alpacka-packraft/" target="_self">packraft</a> then you should definitely not save on your paddles.
 
 ## Recommendation
-We have tested the Werner Shuna paddles on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden. They are light, performed very well and they look nice too. Highly recommended.
+So far I have only tested the Werner Pack-Tour M and the Werner Shuna Paddles but will get the VE paddles to test in 2018.
 
-<strong>Update: </strong>I have used the Werner Shuna paddles now for over 1.5 years and I am still happy with them. They also helped me to get out when I got stuck between some rocks in the rapids and they didn't break. They just have a few scratches on the surface so far. I would say that they are worth the money I have spent!
+I really like the design of the Werner Shuna paddles. They just look great and they are super light. If you have the money to buy a <a hre="http://hikeventures.com/gear-review-unpacking-alpacka-packraft/" target="_self">packraft</a> then you should definitely not save on your paddles.
+
+We have tested the Werner Shuna paddles on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden and the Werner Pack-Tour M on the most recent trips. They are light, performed very well and they look nice too. One issue I had with those paddles was that I was not able to get the shaft apart after I was paddling in salt water. However, this is more an issue of how you take care of your paddles rather than a production issue. I should have cleaned the paddles with fresh water after the trip.
+
+I have used the Werner Shuna paddles for over 1.5 years and I was quite happy with them. They also helped me to get out when I got stuck between some rocks in the rapids and they didn't break. They just have a few scratches on the surface so far. I would say that they are worth the money I have spent.
 
 You can get the Werner Shuna paddles on <a href="http://amzn.to/2uYaiWl" target="_blank" rel="nofollow">Amazon</a>.
