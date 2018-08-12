@@ -27,9 +27,15 @@ email: contact@hikeventures.com<br>
 phone: +358 50 572 84 89
 
 ## What information do we collect?
-We do currently not collect specific information which we are aware of. We are using third party services on our website and their privacy policies can be found here from [Gandi](https://www.gandi.net/en/contracts/terms-of-service), [GitHub](https://help.github.com/articles/github-privacy-statement/) or [Cloudflare](https://www.cloudflare.com/privacypolicy/) and [flickr](https://www.smugmug.com/about/privacy-flickr) which may collect data about users visiting our site:
+We do currently not collect specific information which we are aware of. We are using third party services on our website and their privacy policies can be found here from [Gandi](https://www.gandi.net/en/contracts/terms-of-service),
+[YouTube](http://www.youtube.com/t/privacy_at_youtube),
+[Instagram](https://help.instagram.com/155833707900388),
+[GitHub](https://help.github.com/articles/github-privacy-statement/) or [Cloudflare](https://www.cloudflare.com/privacypolicy/) and [flickr](https://www.smugmug.com/about/privacy-flickr) which may collect data about users visiting our site:
 
-We take pictures and videos and publish them on our blog and social media. The privacy policies of those social media sites can be found on YouTube, [Instagram](http://instagram.com/about/legal/privacy/), [Twitter](https://twitter.com/de/privacy), [Flickr](https://www.smugmug.com/about/privacy-flickr), [vimeo](https://vimeo.com/privacy) or [Facebook](https://www.facebook.com/about/privacy/). Pictures, videos and text are used to offer content on our blog and social media websites.
+We take pictures and videos and publish them on our blog and social media. The privacy policies of those social media sites can be found on YouTube, [Instagram](http://instagram.com/about/legal/privacy/), [Twitter](https://twitter.com/de/privacy),
+[Instagram](https://help.instagram.com/155833707900388), [Flickr](https://www.smugmug.com/about/privacy-flickr),
+[YouTube](http://www.youtube.com/t/privacy_at_youtube),
+[vimeo](https://vimeo.com/privacy) or [Facebook](https://www.facebook.com/about/privacy/). Pictures, videos and text are used to offer content on our blog and social media websites.
 If you wish to have a picture removed where you can identify yourself please contact us at contact@hikeventures.com.
 
 ## Affiliate Marketing
