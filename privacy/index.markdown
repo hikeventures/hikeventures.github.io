@@ -27,7 +27,7 @@ email: contact@hikeventures.com<br>
 phone: +358 50 572 84 89
 
 ## What information do we collect?
-We do currently not collect specific information which we are aware of. We are using third party services on our website and their privacy policies can be found here from [Gandi](https://www.gandi.net/en/contracts/terms-of-service),
+We are using third party services on our website and their privacy policies and what information they collect can be found here from [Gandi](https://www.gandi.net/en/contracts/terms-of-service),
 [YouTube](http://www.youtube.com/t/privacy_at_youtube),
 [Instagram](https://help.instagram.com/155833707900388),
 [GitHub](https://help.github.com/articles/github-privacy-statement/) or [Cloudflare](https://www.cloudflare.com/privacypolicy/) and [flickr](https://www.smugmug.com/about/privacy-flickr) which may collect data about users visiting our site:
