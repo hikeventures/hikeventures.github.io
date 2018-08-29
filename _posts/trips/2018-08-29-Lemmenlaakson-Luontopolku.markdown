@@ -1,5 +1,5 @@
 ---
-title: Lemmenlaakson Luontopolku Hiking Järvenpää
+title: Lemmenlaakson Luontopolku - Hiking in Järvenpää
 description: Hiking in Järvenpää
 date: 2018-08-29 07:14:01
 category: destinations
