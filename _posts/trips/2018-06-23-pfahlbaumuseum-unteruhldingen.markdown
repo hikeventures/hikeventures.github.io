@@ -21,6 +21,11 @@ the Lake of Constance which is an
 UNESCO World Heritage site. The original
 houses has been build around 4000 BC and 850 BC.
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/41541292474/in/datetaken-public/" title="Pfahlbaumuseum Unteruhldingen"><img src="https://farm1.staticflickr.com/910/41541292474_20eca39861_h.jpg" width="1600" height="1069" alt="Pfahlbaumuseum Unteruhldingen"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<br>
+
+<!--more-->
+
 The museum consists of reconstructions of
 stilt houses from the Bronze and Stone age
 as well as a cinematic introduction which is
@@ -28,6 +33,10 @@ available to every visitor participating in
 the guided tour (which is included in the
 ticket price). The artefacts which are displayed in the museum
 have been found all over the area.
+
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/41541292474/in/datetaken-public/" title="Pfahlbaumuseum Unteruhldingen"><img src="https://farm1.staticflickr.com/910/41541292474_20eca39861_h.jpg" width="1600" height="1069" alt="Pfahlbaumuseum Unteruhldingen"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<br>
 
 During the guided tour I have learned that
 such constructions have been built all over
@@ -38,12 +47,24 @@ forest. The lake of constance was considerably
 smaller during that time and temperatures were
 similar to mediterranean climate.
 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/41541292474/in/datetaken-public/" title="Pfahlbaumuseum Unteruhldingen"><img src="https://farm1.staticflickr.com/910/41541292474_20eca39861_h.jpg" width="1600" height="1069" alt="Pfahlbaumuseum Unteruhldingen"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<br>
+
 Having a steady home also meant that it's
 inhabitants had to do farming. Salt was
 used to preserve food and bronze metal was
 the raw material to create all kind of weapons
 and tools during the bronze age.
 
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/41541292474/in/datetaken-public/" title="Pfahlbaumuseum Unteruhldingen"><img src="https://farm1.staticflickr.com/910/41541292474_20eca39861_h.jpg" width="1600" height="1069" alt="Pfahlbaumuseum Unteruhldingen"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<br>
+
 The price for the ticket was 9 EUR and I found
 the pricing reasonable since a guided tour is
 included in the price.
+
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/41541292474/in/datetaken-public/" title="Pfahlbaumuseum Unteruhldingen"><img src="https://farm1.staticflickr.com/910/41541292474_20eca39861_h.jpg" width="1600" height="1069" alt="Pfahlbaumuseum Unteruhldingen"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<br>
