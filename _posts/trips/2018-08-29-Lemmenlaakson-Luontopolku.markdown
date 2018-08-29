@@ -1,5 +1,4 @@
 ---
-published: false
 title: Lemmenlaakson Luontopolku Hiking Järvenpää
 description: Hiking in Järvenpää
 date: 2018-08-29 06:14:01
@@ -13,6 +12,10 @@ tags:
 layout: post
 image: https://farm2.staticflickr.com/1882/44300110932_0c7ec80a00_k.jpg
 ---
+
+Recently, I moved from Turku to Järvenpää and was looking for new hiking possibilities in the area. My wife, who is originally from this area recommended me to visit the Lemmenlaakson nature park just a few minutes drive away from the town center.
+
+The highlights of the Lemmenlaakson nature park is the small river which flows through the park, a few information points, a Lava where it's possible to make a fire and stay over night and a Frisbeegolfrata. I would say that Lemmenlaakso offers a good opportunity to bring your kids outdoors since the Lava is also accessible with the car. Information about the park can also be found <a rel="nofollow" href="https://www.jarvenpaa.fi/--Retkeily--/sivu.tmpl?sivu_id=5166">here</a>.
 
 <a data-flickr-embed="true"  rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/44300110932/in/datetaken-public/" title="Lemmenlaakson Luontopolku Hiking Järvenpää retki"><img src="https://farm2.staticflickr.com/1882/44300110932_0c7ec80a00_k.jpg" width="2048" height="1368" alt="Lemmenlaakson Luontopolku Hiking Järvenpää retki"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <br>
