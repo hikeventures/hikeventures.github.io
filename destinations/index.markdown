@@ -162,6 +162,14 @@ footer: false
             <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Kymijoki</p>
         </div></div></a></div></div>
 
+        <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
+          <a class="thumbnail" href="http://www.hikeventures.com/Lemmenlaakson-Luontopolku/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
+      <img src="https://farm2.staticflickr.com/1850/29457025557_80b595982d_z.jpg" alt="Lemmenlaakson" class="img-responsive">
+      <div class="caption">
+          <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Kymijoki</p>
+      </div></div></a></div></div>
+
+
              <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/Mariehamn-aland-islands-worth-a-visit/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
         <img src="https://farm2.staticflickr.com/1672/24264717071_d1c9df1a0a_z.jpg" alt="" class="img-responsive">
@@ -308,6 +316,17 @@ footer: false
         	<img src="https://farm2.staticflickr.com/1485/24321008626_beb18a4ba9_z.jpg" alt="" class="img-responsive">
         <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Berlin</p>
         </div></div></a></div></div>
+
+
+
+        <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
+       <a class="thumbnail" href="http://www.hikeventures.com/pfahlbaumuseum-unteruhldingen/" style="color: #FFF; border: 0px;">
+       <div class="thumbnail text-center">
+       <img src="https://farm2.staticflickr.com/1874/29457025357_5d138a6407_z.jpg" alt="Pfahlbaum Museum Unteruhldingen" class="img-responsive">
+       <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Unteruhldingen</p>
+       </div></div></a></div></div>
+
+
 
             <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/visiting-lake-constance-for-3-days/" style="color: #FFF; border: 0px;">
