@@ -13,7 +13,7 @@ image: https://c2.staticflickr.com/4/3720/19108446586_19caa405d3_o.jpg
 
 2 weeks ago I went to Naantali, which is only 14km away from Turku to visit it's old wooden houses in Mannerheimintie and along the guest harbour with it's nice restaurants and a great view towards the church and kultaranta - the summer residence of the President of Finland. There is also the observation tower which is one of the remaining old buildings from the old spa in Naantali. I would say Naantali is definitely one of the best places to visit at the baltic sea if you are interested in cities and culture.
 
-<amp-img src="https://c2.staticflickr.com/4/3720/19108446586_19caa405d3_o.jpg" width="992" hight="544" alt="Naantali - one of the best places to visit at the Baltic Sea nearby Turku" layout="responsive"></amp-img>
+<img src="https://c2.staticflickr.com/4/3720/19108446586_19caa405d3_o.jpg" width="992" hight="544" alt="Naantali - one of the best places to visit at the Baltic Sea nearby Turku" layout="responsive">
 
 <br>
 <!--more-->

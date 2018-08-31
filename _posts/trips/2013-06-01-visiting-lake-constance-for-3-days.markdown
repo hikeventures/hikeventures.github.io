@@ -13,7 +13,7 @@ image: https://farm3.staticflickr.com/2822/8915058739_a89786bf10_b.jpg
 ---
 The lake constance area is a great place if you are looking for multiple activities in your vacation. The lake constance is located between Germany, Switzerland and Austria and gives you the possibility to visit 3 countries in 1 day with a bicycle. Beside cycling you can also go to the Alps hiking or skiing or enjoy a great view from the W&uuml;rttembergischen Allg&auml;u towards the Alps. From here you are able to see the Alps from Germany, Austria, Switzerland and France.
 
-<amp-img src="https://farm3.staticflickr.com/2822/8915058739_a89786bf10_b.jpg" width="1024" height="683" alt="panorama bodensee pfänder visiting lake constance bodensee" layout="responsive"></amp-img>
+<img src="https://farm3.staticflickr.com/2822/8915058739_a89786bf10_b.jpg" width="1024" height="683" alt="panorama bodensee pfänder visiting lake constance bodensee" layout="responsive">
 <br>
 <!--more-->
 

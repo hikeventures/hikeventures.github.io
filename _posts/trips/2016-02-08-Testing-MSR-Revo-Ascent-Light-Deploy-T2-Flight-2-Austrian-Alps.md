@@ -15,7 +15,7 @@ image: https://farm2.staticflickr.com/1624/24251024054_9304c6c7b9_b.jpg
 ---
 After the ISPO in Munich we went to Gaschurn in Austria to test our MSR Lightning Ascent and MSR Revo snowshoes (provided by MSR) as well as the MSR Flight 2 and MSR Deploy TR-2 poles in the Alps.
 
-<amp-img src="https://farm2.staticflickr.com/1624/24251024054_9304c6c7b9_b.jpg" width="1024" height="681" alt="Snowshoeing in Montafon, Vorarlberg in Austria" layout="responsive"></amp-img>
+<img src="https://farm2.staticflickr.com/1624/24251024054_9304c6c7b9_b.jpg" width="1024" height="681" alt="Snowshoeing in Montafon, Vorarlberg in Austria" layout="responsive">
 <br>
 <!--more-->
 

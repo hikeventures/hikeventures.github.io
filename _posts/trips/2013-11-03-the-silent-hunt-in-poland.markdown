@@ -12,7 +12,7 @@ image: http://farm4.staticflickr.com/3669/10652331775_511c1d55df_c.jpg
 ---
 Beginning in late August, Polish forests experience an influx of visitors specialising in the so-called &#39;silent hunt&#39;, which requires a lot of patience, keen eyesight and is not without its dangers. Armed with razor-sharp knives, and in some cases just bare-handed, these hunters comb the forests searching for their illusive pray. The prey, though seemingly benign, can sometimes turn deadly, which is why, besides the steel and muscle, the hunters have to possesses good knowledge, ever- present sense of danger and a keen eye for detail. The silent hunt we are talking about is, of course, the mushroom picking.
 
-<amp-img src="http://farm4.staticflickr.com/3669/10652331775_511c1d55df_c.jpg" width="800" height="531" alt="mushroom picking and hiking in Poland" layout="responsive"></amp-img>
+<img src="http://farm4.staticflickr.com/3669/10652331775_511c1d55df_c.jpg" width="800" height="531" alt="mushroom picking and hiking in Poland" layout="responsive">
 <br>
 <!--more-->
 

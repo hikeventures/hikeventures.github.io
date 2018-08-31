@@ -14,21 +14,21 @@ Today, I went with the bicycle from Vaasa to Bjököby where I planned to visit 
 
 There is something special on this area: The land is rising at about 1 cm a year (as there was a Glacier 10.000 - 24.000 years ago).
 
-<amp-img src="http://farm9.staticflickr.com/8347/8197863296_b8df1cc320_c.jpg" width="424" height="636" alt="What to see at the Kvarken Archipelago" layout="responsive"></amp-img>
+<img src="http://farm9.staticflickr.com/8347/8197863296_b8df1cc320_c.jpg" width="424" height="636" alt="What to see at the Kvarken Archipelago" layout="responsive">
 <br>
 <!--more-->
 
 And bicycled on the longest bridge of Finland (1.045 metres long).
 
-<amp-img src="http://farm9.staticflickr.com/8070/8197870862_f64dd59551_c.jpg" width="800" height="534" alt="Kvarken Archipelago - Replot bridge - The longest bridge of Finland"></amp-img>
+<img src="http://farm9.staticflickr.com/8070/8197870862_f64dd59551_c.jpg" width="800" height="534" alt="Kvarken Archipelago - Replot bridge - The longest bridge of Finland">
 
 Unfortunately, there is no good bus connection from Vaasa to Bj&#246;rk&#246;by, so I had to come by bicycle as I do not have a car. The distance to Bj&#246;rk&#246;by is about 40 km from Vaasa. During the summer months, there is one bus going on Saturdays only but you have to make a reservation.
 
-<amp-img src="http://farm9.staticflickr.com/8344/8197787874_dba280322a_c.jpg" width="534" height="800" alt="UNESCO Kvarken Archipelago"></amp-img>
+<img src="http://farm9.staticflickr.com/8344/8197787874_dba280322a_c.jpg" width="534" height="800" alt="UNESCO Kvarken Archipelago">
 
 It took me about 2 hours from Vaasa to Björköby by bicycle. I passed the longest bridge in Finland, small villages and cycled next to the sea. There are also plenty of hiking possibilities e.g. the nature trail Bodvattnet runt which passes Bodback - an old harbour - but some require to a <a href="http://www.kvarkenworldheritage.fi/experience-kvarken/boat-transport/" target="_blank">arrange a boat</a> beforehand. There are also boat museum and an annual sailing race event called <a href="http://sv.wikipedia.org/wiki/Postrodden" target="_blank">Postrodden</a>.
 
-<amp-img src="http://farm9.staticflickr.com/8346/8196683667_b737c8a6f2_c.jpg" width="1000" alt="Kvarken Archipelago - Visiting Saltkaret observation tower"></amp-img>
+<img src="http://farm9.staticflickr.com/8346/8196683667_b737c8a6f2_c.jpg" width="1000" alt="Kvarken Archipelago - Visiting Saltkaret observation tower">
 
 Once I arrived there I climbed up the Saltkaret observation tower and enjoyed the scenic view.
 

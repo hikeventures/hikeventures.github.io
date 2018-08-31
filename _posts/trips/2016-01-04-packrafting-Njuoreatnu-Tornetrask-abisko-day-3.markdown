@@ -15,7 +15,7 @@ image: https://farm6.staticflickr.com/5656/23666479785_8413cf951a_b.jpg
 ---
 After a chilly night in our tent which we pitched on a small island we woke up still a little bit exhausted from the [previous day][1] and prepared some breakfast. While the fog was gone there were still a few clouds in the sky but the weather looked promising.
 
-<amp-img src="https://farm6.staticflickr.com/5656/23666479785_8413cf951a_b.jpg" width="1024" height="768" alt="Packrafting the Njuoreatnu to Torneträsk - Abisko Sweden" layout="responsive"></amp-img>
+<img src="https://farm6.staticflickr.com/5656/23666479785_8413cf951a_b.jpg" width="1024" height="768" alt="Packrafting the Njuoreatnu to Torneträsk - Abisko Sweden" layout="responsive">
 
 <br>
 <!--more-->

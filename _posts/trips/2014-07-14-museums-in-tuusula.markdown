@@ -14,7 +14,7 @@ image: https://farm3.staticflickr.com/2915/14623880836_d06811e68f_b.jpg
 
 This weekend I took my bicycle and cycled 25 km around lake Tuusula. The route is famous for its <a href="http://www.tuusulanrantatie.fi" target="_blank">'Rantatie'</a> where many Finnish artists lived in the 19th century and influenced Finnish culture.
 
-<amp-img src="https://farm3.staticflickr.com/2915/14623880836_d06811e68f_b.jpg" width="1024" height="683" alt="Tuusula Lotta Museum sightseeing travel" layout="responsive"></amp-img>
+<img src="https://farm3.staticflickr.com/2915/14623880836_d06811e68f_b.jpg" width="1024" height="683" alt="Tuusula Lotta Museum sightseeing travel" layout="responsive">
 <br>
 <!--more-->
 

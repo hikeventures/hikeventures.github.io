@@ -12,7 +12,7 @@ layout: post
 Located on the Curonian Spit, Kuršių Nerija National Park is truly a very special place in Lithuania. Packed with tourists in summer and almost abandoned in winter, this narrow strip of sand offers a lot of opportunities to be in the nature, especially if you try to avoid the most touristic spots, such as the villages of Nida or Juodkrante.
 
 
-<amp-img src="https://farm6.staticflickr.com/5611/15508159139_7c3e43ba3a_b.jpg" width="956" height="635" alt="Kuršių Nerija National Park Beach" layout="responsive"></amp-img>
+<img src="https://farm6.staticflickr.com/5611/15508159139_7c3e43ba3a_b.jpg" width="956" height="635" alt="Kuršių Nerija National Park Beach" layout="responsive">
 
 <br>
 <!--more-->

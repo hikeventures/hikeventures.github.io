@@ -15,107 +15,107 @@ Last week we returned from the European Packrafting Meetup 2018 in Slovenia with
 
 Here are a few impressions from the event. We are also working on a video where we interviewed a view participants during the event. So stay tuned.
 
-<amp-img src="https://farm1.staticflickr.com/955/41899745261_f291a507df_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/955/41899745261_f291a507df_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
 
 <!--more-->
 
-<amp-img src="https://farm1.staticflickr.com/826/41899740001_6088f7e6c5_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia - Soča River"></amp-img>
+<img src="https://farm1.staticflickr.com/826/41899740001_6088f7e6c5_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia - Soča River">
 <br>
-<amp-img src="https://farm1.staticflickr.com/957/41899742101_0337f30b52_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia Soča River"></amp-img>
+<img src="https://farm1.staticflickr.com/957/41899742101_0337f30b52_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia Soča River">
 <br>
-<amp-img src="https://farm1.staticflickr.com/946/41856567312_ec4d7915a4_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia Soča river"></amp-img>
+<img src="https://farm1.staticflickr.com/946/41856567312_ec4d7915a4_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia Soča river">
 <br>
-<amp-img src="https://farm1.staticflickr.com/831/41856564672_c88255008d_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia Soča river"></amp-img>
+<img src="https://farm1.staticflickr.com/831/41856564672_c88255008d_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia Soča river">
 <br>
-<amp-img src="https://farm1.staticflickr.com/978/41899732201_96bf093f7d_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia Soča river"></amp-img>
+<img src="https://farm1.staticflickr.com/978/41899732201_96bf093f7d_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia Soča river">
 <br>
-<amp-img src="https://farm1.staticflickr.com/948/41899730371_7e0c704343_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/948/41899730371_7e0c704343_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/903/41856559032_e11dbcc713_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/903/41856559032_e11dbcc713_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/967/41856557842_564ab93716_k.jpg" width="2048" height="1365" layout="responsive"  alt="Thirsty Rivers Brewing in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/967/41856557842_564ab93716_k.jpg" width="2048" height="1365" layout="responsive"  alt="Thirsty Rivers Brewing in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/870/27031046937_c3a527e99c_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Bovec Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/870/27031046937_c3a527e99c_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Bovec Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/826/27031045947_d10c121dd2_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/826/27031045947_d10c121dd2_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/953/27031044357_d9bd0e4532_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/953/27031044357_d9bd0e4532_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/905/27031043777_955d3d1e15_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/905/27031043777_955d3d1e15_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/970/27031042407_d06a3cf35f_z.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/970/27031042407_d06a3cf35f_z.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/972/27031041597_0ebc3680a8_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/972/27031041597_0ebc3680a8_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/829/27031040107_cc463508c4_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/829/27031040107_cc463508c4_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/978/41856547122_3ce07ebfe9_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/978/41856547122_3ce07ebfe9_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/956/41856545552_aad88c1b82_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/956/41856545552_aad88c1b82_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/863/41856541582_fdfe1ddbee_z.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/863/41856541582_fdfe1ddbee_z.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/872/27031035557_c6a576c5d3_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/872/27031035557_c6a576c5d3_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/826/41856540352_913838181c_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/826/41856540352_913838181c_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/964/27031033837_2a6d170a90_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/964/27031033837_2a6d170a90_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/871/41856538992_e223b265ca_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/871/41856538992_e223b265ca_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/869/27031032237_c33dc7eb7d_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/869/27031032237_c33dc7eb7d_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/982/27031031277_577a81dba1_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/982/27031031277_577a81dba1_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/966/27031030377_ee58c2840a_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/966/27031030377_ee58c2840a_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/982/27031029057_9d33ef5654_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/982/27031029057_9d33ef5654_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/974/40092143140_d7faf2c4cd_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/974/40092143140_d7faf2c4cd_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/827/41899692181_9514f34259_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/827/41899692181_9514f34259_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/827/41899690761_df5f8970ba_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/827/41899690761_df5f8970ba_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/953/41000390975_eb41e4ace5_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/953/41000390975_eb41e4ace5_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/869/41899688871_727e01f103_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/869/41899688871_727e01f103_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/973/41899687901_d0f6ba563a_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/973/41899687901_d0f6ba563a_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/979/41000377505_4761ee333d_k.jpg" width="1365" height="2048" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/979/41000377505_4761ee333d_k.jpg" width="1365" height="2048" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/968/41000375635_2b1989b102_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/968/41000375635_2b1989b102_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/979/41856528722_33bfdf30c8_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/979/41856528722_33bfdf30c8_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/975/41000373155_137cc6d79d_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/975/41000373155_137cc6d79d_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/872/40092128190_fc171e243e_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/872/40092128190_fc171e243e_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/977/41856520922_1a75d6b4b9_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/977/41856520922_1a75d6b4b9_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/823/40092120130_e457931ddb_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/823/40092120130_e457931ddb_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/978/41182502534_a72374ceb5_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/978/41182502534_a72374ceb5_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/968/41182499284_7348eb81d4_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/968/41182499284_7348eb81d4_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/962/41182498074_7e09d7e503_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/962/41182498074_7e09d7e503_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/966/41182496234_1bde74ead4_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/966/41182496234_1bde74ead4_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/909/41899656271_a61eaf1ec3_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/909/41899656271_a61eaf1ec3_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/827/41899652641_de2e02616b_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/827/41899652641_de2e02616b_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/870/41182486254_21086ba90d_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/870/41182486254_21086ba90d_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/869/41000341695_6070de5203_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/869/41000341695_6070de5203_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/863/41182634464_3f988c28a1_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/863/41182634464_3f988c28a1_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/973/41000386725_f325ba5ba7_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/973/41000386725_f325ba5ba7_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">
 <br>
-<amp-img src="https://farm1.staticflickr.com/968/41000338745_21f7adc54e_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia"></amp-img>
+<img src="https://farm1.staticflickr.com/968/41000338745_21f7adc54e_k.jpg" width="2048" height="1365" layout="responsive"  alt="European Packrafting Meetup 2018 in Slovenia">

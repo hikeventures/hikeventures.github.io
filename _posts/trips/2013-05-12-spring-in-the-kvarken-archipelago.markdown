@@ -12,7 +12,7 @@ image: https://farm8.staticflickr.com/7393/8731182603_7f97bf02ae_b.jpg
 ---
 Today, I had a short trip to Bj&#214;rkoby in the Kvarken Archipelago and finally all the snow has melted and the birds returned from the South.
 
-<amp-img src="https://farm8.staticflickr.com/7393/8731182603_7f97bf02ae_b.jpg" width="953" height="636" alt="Kvarken Archipelago backpacking - View from Observation Tower Saltkaret over Svedjehamn" layout="responsive"></amp-img>
+<img src="https://farm8.staticflickr.com/7393/8731182603_7f97bf02ae_b.jpg" width="953" height="636" alt="Kvarken Archipelago backpacking - View from Observation Tower Saltkaret over Svedjehamn" layout="responsive">
 <br>   
 <!--more-->
 

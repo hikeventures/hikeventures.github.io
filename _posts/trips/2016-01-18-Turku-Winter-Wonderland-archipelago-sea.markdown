@@ -13,7 +13,7 @@ image: https://farm2.staticflickr.com/1590/24409302876_89a3f1c7fd_b.jpg
 ---
 Last weekend we got plenty of snow in Turku and I seized the opportunity to rush out with my camera to take some pictures. First I went to the city centre but then decided to drive to Ruissalo which is also a cool place during the summer time. 
 
-<amp-img src="https://farm2.staticflickr.com/1590/24409302876_89a3f1c7fd_b.jpg" width="1024" height="681" alt="Turku Winter Wonderland at the Archipelago Sea" layout="responsive"></amp-img>
+<img src="https://farm2.staticflickr.com/1590/24409302876_89a3f1c7fd_b.jpg" width="1024" height="681" alt="Turku Winter Wonderland at the Archipelago Sea" layout="responsive">
 <br>
 <!--more-->
 

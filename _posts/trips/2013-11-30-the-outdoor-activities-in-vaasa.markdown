@@ -13,7 +13,7 @@ image: https://farm8.staticflickr.com/7351/9254204449_a5a54041ed_h.jpg
 ---
 Vaasa is a small town with a population of 67.000 souls on the west coast of Finland. The area is more or less flat with the exception of &#214;jberget, which is located about 5 km outside of Vaasa where you can go downhill and cross-country skiing.
 
-<amp-img src="https://farm8.staticflickr.com/7351/9254204449_a5a54041ed_h.jpg" width="1600" height="1067" alt="Risö Lintutorni" layout="responsive"></amp-img>
+<img src="https://farm8.staticflickr.com/7351/9254204449_a5a54041ed_h.jpg" width="1600" height="1067" alt="Risö Lintutorni" layout="responsive">
 <br>
 <!--more-->
 

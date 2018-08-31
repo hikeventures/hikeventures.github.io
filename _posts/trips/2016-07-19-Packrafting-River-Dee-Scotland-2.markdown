@@ -13,7 +13,7 @@ image: https://farm2.staticflickr.com/1651/25215070553_2bf0cca03f_b.jpg
 
 We had a good night sleep after the [first day](http://www.hikeventures.com/Packrafting-River-Dee-Scotland-1/) of paddling down the River Dee from Braemar. Everything was frozen when we woke up. The day however seems again to be quite promising with a blue sky and nice scenery.
 
-<amp-img src="https://farm2.staticflickr.com/1651/25215070553_2bf0cca03f_b.jpg" width="1024" height="681" alt="Packrafting in Scotland - River Dee" layout="responsive"></amp-img>
+<img src="https://farm2.staticflickr.com/1651/25215070553_2bf0cca03f_b.jpg" width="1024" height="681" alt="Packrafting in Scotland - River Dee" layout="responsive">
 
 <br>
 <!--more-->

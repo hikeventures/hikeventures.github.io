@@ -11,7 +11,7 @@ image: https://c1.staticflickr.com/1/369/32331081985_70524b57da_k.jpg
 ---
 On January 6th we decided to meet in Alta in Northern Norway to have a winter camping trip around Alta. However, we had no specific plan yet where to go once we arrived in Alta until we met Bram - a friend from Konstantin - who is managing Holmen Husky in the area and lives since several years in Norway but originating from the Netherlands.
 
-<amp-img src="https://c1.staticflickr.com/1/369/32331081985_70524b57da_k.jpg" width="2048" height="1152" layout="responsive"  alt="Snowshoeing, Huskies and Winter Camping around Alta"></amp-img>
+<img src="https://c1.staticflickr.com/1/369/32331081985_70524b57da_k.jpg" width="2048" height="1152" layout="responsive"  alt="Snowshoeing, Huskies and Winter Camping around Alta">
 
 <br>
 <!--more-->

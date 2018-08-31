@@ -12,7 +12,7 @@ layout: post
 ---
 Packrafting in Norway. Last summer after the Fjällräven Classic, I hitched a ride to Norway and spent two days and nights packrafting there on the sea in a Fjord.
 
-<amp-img src="https://farm2.staticflickr.com/1645/26317839511_8aa4072472_b.jpg" width="1024" height="768" alt="Trekking and Packrafting in Japan Northern Alps" layout="responsive"></amp-img>
+<img src="https://farm2.staticflickr.com/1645/26317839511_8aa4072472_b.jpg" width="1024" height="768" alt="Trekking and Packrafting in Japan Northern Alps" layout="responsive">
 <br>
 <!--more-->
 

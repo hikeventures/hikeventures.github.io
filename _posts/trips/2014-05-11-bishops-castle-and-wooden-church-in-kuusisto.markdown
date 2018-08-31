@@ -15,7 +15,7 @@ image: https://farm8.staticflickr.com/7315/13974376258_8c0a3a7537_b.jpg
 
 On mothers day I decided to get on my bicycle in Turku and explore the bishops castle (Kuusiston piispanlinna) and the wooden church in Kuusisto.
 
-<amp-img src="https://farm8.staticflickr.com/7315/13974376258_8c0a3a7537_b.jpg" width="1024" height="683" alt="bishop castle kuusisto" layout="responsive"></amp-img>
+<img src="https://farm8.staticflickr.com/7315/13974376258_8c0a3a7537_b.jpg" width="1024" height="683" alt="bishop castle kuusisto" layout="responsive">
 <br>
 <!--more-->
 
