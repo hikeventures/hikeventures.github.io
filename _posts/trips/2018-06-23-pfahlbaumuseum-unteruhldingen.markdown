@@ -1,6 +1,6 @@
 ---
-title: Pfahlbaumuseum Unteruhldingen
-description: Visiting the Pfahlbaumuseum in Unteruhldingen
+title: Pfahlbau Museum Unteruhldingen
+description: Visiting the Pfahlbau Museum in Unteruhldingen
 date: 2018-09-01 01:14:01
 category: destinations
 tags:
@@ -14,7 +14,7 @@ layout: post
 image: https://farm2.staticflickr.com/1882/44349148701_835fb85cc5_k.jpg
 ---
 
-On my last trip to Germany I was visiting the Pfahlbaum museum in Unteruhldingen at the Lake of Constance which is an UNESCO World Heritage site. The original houses has been build around 4000 BC and 850 BC.
+On my last trip to Germany I was visiting the Pfahlbau museum in Unteruhldingen at the Lake of Constance which is an UNESCO World Heritage site. The original houses has been build around 4000 BC and 850 BC.
 
 <a data-flickr-embed="true"  rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/44349148701/in/datetaken-public/" title="Pfahlbaumuseum Unteruhldingen"><img src="https://farm2.staticflickr.com/1882/44349148701_835fb85cc5_k.jpg" width="2048" height="1368" alt="Pfahlbaumuseum Unteruhldingen"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <br>
