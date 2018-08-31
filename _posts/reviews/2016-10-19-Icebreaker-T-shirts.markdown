@@ -21,7 +21,7 @@ But you know what they say – "never say never", and indeed, after a while, I b
 
 ---
 
-<amp-img src="https://c4.staticflickr.com/9/8556/29794613243_97ff8d015a_k.jpg" width="2048" height="1360" alt="Packrafting in Poland" layout="responsive"></amp-img>
+<img src="https://c4.staticflickr.com/9/8556/29794613243_97ff8d015a_k.jpg" width="2048" height="1360" alt="Packrafting in Poland" layout="responsive">
 
 > Wearing my icebreaker while packrafting in Poland this spring
 <br>

@@ -23,7 +23,7 @@ A fleece jacket can be used as a mid-layer to keep you warm while you are active
 
 Have a look on our [FAQ](#faq-on-fleece-jackets) to learn more about fleece jackets.
 
-<amp-img src="https://farm6.staticflickr.com/5479/9596226393_34ba3b93fb_b.jpg" width="1024" height="683" alt="Best Throw Bags" layout="responsive"></amp-img>
+<img src="https://farm6.staticflickr.com/5479/9596226393_34ba3b93fb_b.jpg" width="1024" height="683" alt="Best Throw Bags" layout="responsive">
 
 <br>
 <!--more-->
@@ -58,7 +58,7 @@ amzn_assoc_linkid = "e93c39148d92a652fd81f3e0964d2fc1";
 
 **Weight**: 544 grams / 1.2 lbs
 
-The NRS Compact Rescue Throw Bag is also suitable for swiftwater emergency 
+The NRS Compact Rescue Throw Bag is also suitable for swiftwater emergency
 
 is an excellent choice for swiftwater emergency work. Its compact shape and light weight are perfect for kayakers.
 2" mesh panel for better drainage and reduced dry time.

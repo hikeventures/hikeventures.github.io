@@ -12,7 +12,7 @@ In this issue of futureproof outdoor gear we will present you our newest picks o
 
 Would you buy it? Do you want us to review it? Comment and follow us on [Facebok](https://www.facebook.com/HikeVentures/) or [Twitter](https://twitter.com/HikeVentures) with the hashtag #FutureproofGear.
 
-<amp-img src="https://c1.staticflickr.com/1/634/31539128793_aa4e86301a_k.jpg" layout="responsive" width="2048" height="1152" alt="Futureproof - the outdoor gear for tomorrow's you?"></amp-img>
+<img src="https://c1.staticflickr.com/1/634/31539128793_aa4e86301a_k.jpg" layout="responsive" width="2048" height="1152" alt="Futureproof - the outdoor gear for tomorrow's you?">
 
 <!--more-->
 

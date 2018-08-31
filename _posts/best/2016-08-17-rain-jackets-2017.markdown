@@ -23,7 +23,7 @@ For winter activities - like skiing or snowboarding - I would rather take a more
 
 ---
 
-<amp-img src="https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg" width="2048" height="1360" alt="New rain jackets for 2018" layout="responsive"></amp-img>
+<img src="https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg" width="2048" height="1360" alt="New rain jackets for 2018" layout="responsive">
 <br>
 <!--more-->
 

@@ -13,7 +13,7 @@ image: https://c1.staticflickr.com/1/558/32227501816_503a8421dd_k.jpg
 
 Last year Thule has sent me the Thule Upslope 35L so we can take it with us on our trip to test it. On our trip to Northern Norway this January I finally had a chance to test it and here are my first thoughts about this daypack (my wife has also used it before on some trips). We had the Upslope backpack with us in <a href="http://www.hikeventures.com/komsa-alta/">Hammerfest</a>, in <a href="http://www.hikeventures.com/winter-camping-alta/">Alta</a> and on our <a href="http://www.hikeventures.com/komsa-alta/">winter camping trip</a>.
 
-<amp-img src="https://c1.staticflickr.com/1/558/32227501816_503a8421dd_k.jpg" width="2048" height="1152" alt="Thule Upslope 35L Review Test" layout="responsive"></amp-img>
+<img src="https://c1.staticflickr.com/1/558/32227501816_503a8421dd_k.jpg" width="2048" height="1152" alt="Thule Upslope 35L Review Test" layout="responsive">
 <br>
 <!--more-->
 

@@ -13,7 +13,7 @@ layout: post
 
 If you are looking for a new down jacket which you can use during your hiking, backpacking or any other backcountry adventure mainly during spring and autumn  or as a mid-layer during winter then the Rab Microlight Alpine Jacket could be an option and here comes a short review. I was hiking with this jacket in -5 °C and felt comfortably warm just wearing a t-shirt under it. However, I started to feel cold at this temperature when I was not moving.
 
-<amp-img src="https://farm9.staticflickr.com/8475/8373596834_f7923d2831_b.jpg" layout="responsive" width="1024" width="683" alt="Rab Alpine Microlight Ultralight Down Jacket Review"></amp-img>
+<img src="https://farm9.staticflickr.com/8475/8373596834_f7923d2831_b.jpg" layout="responsive" width="1024" width="683" alt="Rab Alpine Microlight Ultralight Down Jacket Review">
 <br>
 <!--more-->
 

@@ -5,7 +5,7 @@ description: Need a warm jacket for your autumn or winter? We found the best lig
 date: 2016-10-10T20:43:52.000Z
 update_date: 2018-01-22T22:10:52.000Z
 category: articles
-image: 'https://c1.staticflickr.com/8/7379/15913311563_d90e96b2c3_k.jpg'
+image: https://c1.staticflickr.com/8/7379/15913311563_d90e96b2c3_k.jpg
 tags:
   - articles
   - best
@@ -19,7 +19,7 @@ In this blog post, I have <a href="#table">selected</a> the best down jackets of
 
 A down jacket is an essential piece of clothes when planning an overnight trip outdoors or during winter time. A down jacket keeps you much warmer compared to a fleece jacket.
 
-<amp-img src="https://farm1.staticflickr.com/395/32116563352_d0c641d313_k.jpg" width="2048" height="1152" alt="Best down jackets 2018" layout="responsive"></amp-img>
+<img src="https://farm1.staticflickr.com/395/32116563352_d0c641d313_k.jpg" width="2048" height="1152" alt="Best down jackets 2018" layout="responsive">
 <br>
 <!--more-->
 

@@ -21,7 +21,7 @@ I have tested already a couple of tents on <a href="http://www.hikeventures.com/
 
 Also, have a look at our [FAQ on tents](#faq-on-tents) or our handy [price comparison tool](http://www.hikeventures.com/deals/).
 
-<amp-img src="https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Best backpacking tents of 2018" layout="responsive"></amp-img>
+<img src="https://c2.staticflickr.com/3/2822/9596230289_599fa0cde2_b.jpg" width="991" height="567" alt="Best backpacking tents of 2018" layout="responsive">
 <br>
 <!--more-->
 

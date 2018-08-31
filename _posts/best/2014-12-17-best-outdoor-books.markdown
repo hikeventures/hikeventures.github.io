@@ -13,7 +13,7 @@ image: https://farm4.staticflickr.com/3726/10906593816_40d9a30fce_b.jpg
 ---
 Here comes our first issue of our Outdoor Books Guide where you can find the latest and most interesting books about outdoor activities, adventures and photography in 2017.
 
-<amp-img src="https://farm4.staticflickr.com/3726/10906593816_40d9a30fce_b.jpg" width="1024" height="687" alt="Best snowshoes for 2017" layout="responsive"></amp-img>
+<img src="https://farm4.staticflickr.com/3726/10906593816_40d9a30fce_b.jpg" width="1024" height="687" alt="Best snowshoes for 2017" layout="responsive">
 <br>
 <!--more-->
 

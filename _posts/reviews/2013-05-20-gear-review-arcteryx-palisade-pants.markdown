@@ -13,7 +13,7 @@ image: https://farm6.staticflickr.com/5343/8758780310_499eaf5e63_b.jpg
 
 After having had my Fjällräven Abisko pants for over 2 years during my hiking, backpacking and packrafting trips I was in the market to look for new pants. I was looking for pants which are quick-drying, minimalistic and lightweight. The minimalistic feature is quite important for me as I might need to pull over my waterproof pants when I go packrafting. After having had several options in my mind I finally pulled the trigger on the Arc'teryx Palisade Pants and here comes a short review.
 
-<amp-img src="https://farm6.staticflickr.com/5343/8758780310_499eaf5e63_b.jpg" layout="responsive" width="1024" height="683" alt="Arc'teryx Palisade Pants"></amp-img>
+<img src="https://farm6.staticflickr.com/5343/8758780310_499eaf5e63_b.jpg" layout="responsive" width="1024" height="683" alt="Arc'teryx Palisade Pants">
 <br>
 <!--more-->
 

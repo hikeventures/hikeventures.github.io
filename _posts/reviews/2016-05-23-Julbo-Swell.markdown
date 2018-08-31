@@ -12,7 +12,7 @@ image: https://farm8.staticflickr.com/7346/27152697396_5c004ed994_b.jpg
 ---
 After having had my old sunglasses for over 3 years I thought it was time to upgrade my sunglasses to a newer model. As [we interviewed Julbo on the ISPO 2016](https://www.youtube.com/watch?v=vdb3m52FdvM) in Munich I decided to have a look on their product range and came across the Julbo Swell which could become my new sun glasses for our packrafting trips.
 
-<amp-img src="https://farm8.staticflickr.com/7346/27152697396_5c004ed994_b.jpg" width="1024" height="608" alt="Julbo Swell Review" layout="responsive"></amp-img>
+<img src="https://farm8.staticflickr.com/7346/27152697396_5c004ed994_b.jpg" width="1024" height="608" alt="Julbo Swell Review" layout="responsive">
 <br>
 <!--more-->
 

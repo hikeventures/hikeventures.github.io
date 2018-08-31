@@ -15,37 +15,37 @@ Today, I was testing my new <a href="https://amzn.to/2DQG8ap" rel="nofollow">Son
 
 The autofocus is so much faster and the video features and quality have also much improved. It really motivates me to do even more with my new camera. I have not modified the picture which you see below. I have cropped some of them a bit to straighten them and minimised their size with JPEGmini.
 <br>
-<amp-img src="https://farm1.staticflickr.com/813/41014029801_f943dca927_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
+<img src="https://farm1.staticflickr.com/813/41014029801_f943dca927_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video">
 <br>
 <!--more-->
 
 Here is my current Kit with the Rode Newsshooter Kit receiver on the top and the Sound Devices MixPre-3 on the bottom. More about it at the end of this blog post.
 <br>
-<amp-img src="https://farm1.staticflickr.com/863/39265064240_46ceb4321c_k.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 with Rode Newsshooter Kit and Sound Devices MixPre-3"></amp-img>
+<img src="https://farm1.staticflickr.com/863/39265064240_46ceb4321c_k.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 with Rode Newsshooter Kit and Sound Devices MixPre-3">
 <br>
-<amp-img src="https://farm1.staticflickr.com/877/41076842232_0a13f53d40_b.jpg"  width="1024" height="682" layout="responsive" alt="Sony A7III - Moon - Astrophotography"></amp-img>
+<img src="https://farm1.staticflickr.com/877/41076842232_0a13f53d40_b.jpg"  width="1024" height="682" layout="responsive" alt="Sony A7III - Moon - Astrophotography">
 <br>
 The moon is taken with the <a href="https://amzn.to/2GrNgfq" rel="nofollow">Sony 70-200 f/4 lens</a> - ISO 100 and cropped.
 <br>
-<amp-img src="https://farm1.staticflickr.com/795/26143373187_25a731f060_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
+<img src="https://farm1.staticflickr.com/795/26143373187_25a731f060_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video">
 <br>
-<amp-img src="https://farm1.staticflickr.com/789/27143003168_e89578d428_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
+<img src="https://farm1.staticflickr.com/789/27143003168_e89578d428_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video">
 <br>
-<amp-img src="https://farm1.staticflickr.com/795/40304892434_daf5e06e84_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
+<img src="https://farm1.staticflickr.com/795/40304892434_daf5e06e84_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video">
 <br>
-<amp-img src="https://farm1.staticflickr.com/796/40304903164_d39d191a37_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
+<img src="https://farm1.staticflickr.com/796/40304903164_d39d191a37_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video">
 <br>
-<amp-img src="https://farm1.staticflickr.com/786/27143006408_50e88d13b2_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
+<img src="https://farm1.staticflickr.com/786/27143006408_50e88d13b2_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video">
 <br>
-<amp-img src="https://farm1.staticflickr.com/797/41014038621_4caa0f75ef_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
+<img src="https://farm1.staticflickr.com/797/41014038621_4caa0f75ef_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video">
 <br>
-<amp-img src="https://farm1.staticflickr.com/795/39204894330_7caeaebf6d_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
+<img src="https://farm1.staticflickr.com/795/39204894330_7caeaebf6d_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video">
 <br>
-<amp-img src="https://farm1.staticflickr.com/818/40304819404_8b622566d2_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
+<img src="https://farm1.staticflickr.com/818/40304819404_8b622566d2_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video">
 <br>
-<amp-img src="https://farm1.staticflickr.com/787/41014027201_9218d3c41c_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
+<img src="https://farm1.staticflickr.com/787/41014027201_9218d3c41c_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video">
 <br>
-<amp-img src="https://farm1.staticflickr.com/819/41014132031_1108aaf150_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video"></amp-img>
+<img src="https://farm1.staticflickr.com/819/41014132031_1108aaf150_b.jpg"  width="1024" height="683" layout="responsive" alt="Sony A7 III / A7III / A73 Sample Images and Video">
 <br>
 ## Sony A7III Sample Video
 And here is my <a href="https://amzn.to/2DQG8ap" rel="nofollow">Sony A7III</a> sample video in 4K with the <a href="https://amzn.to/2I1ujAM" rel="nofollow">Zeiss Batis 25mm f/2</a> and the <a href="https://amzn.to/2DXfD3q" rel="nofollow">Sony 70-200 f/4</a> lenses. I have recorded the audio with a <a href="https://amzn.to/2uhWd9A" rel="nofollow">Sennheiser MKE 600</a>, <a href="https://amzn.to/2DQGuOh" rel="nofollow">Rycote Super-Softie</a> and a <a href="https://amzn.to/2I5mKsZ" rel="nofollow">Sound Devices MixPre-3</a>.

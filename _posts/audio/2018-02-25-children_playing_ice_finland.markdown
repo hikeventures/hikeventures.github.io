@@ -15,7 +15,7 @@ Today, I was trying for the first time to capture audio with my <a rel="nofollow
 
 The sea was frozen and children were playing with their sleds on it and throwing ice plates around. You might hear some wind as a background noise so I am not sure if my Rycote Super Softie windjammer did a good job.
 
-<amp-img src="https://farm5.staticflickr.com/4756/26607533848_70986e13e0_k.jpg"  width="2048" height="1282" layout="responsive" alt="Sennheiser MKE 600, Sound Devices MixPre-3 and Rycote Super Softie"></amp-img>
+<img src="https://farm5.staticflickr.com/4756/26607533848_70986e13e0_k.jpg"  width="2048" height="1282" layout="responsive" alt="Sennheiser MKE 600, Sound Devices MixPre-3 and Rycote Super Softie">
 <br>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/404917455&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>

@@ -16,7 +16,7 @@ Here is my <a href="#table">selection</a> of the best wind jackets for 2018 whic
 
 A lightweight wind jacket is probably one of the most useful pieces of clothes which you can pack into your backpack and it does not need much space either.
 
-<amp-img src="https://c3.staticflickr.com/8/7385/9599027418_4123160df8_b.jpg" width="992" height="661" alt="best wind jackets for 2018" layout="responsive"></amp-img>
+<img src="https://c3.staticflickr.com/8/7385/9599027418_4123160df8_b.jpg" width="992" height="661" alt="best wind jackets for 2018" layout="responsive">
 [Patrick](https://www.facebook.com/patrickdormischian) hiking in [Sarek National Park](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) in Sweden wearing a wind jacket.
 <br>
 <!--more-->

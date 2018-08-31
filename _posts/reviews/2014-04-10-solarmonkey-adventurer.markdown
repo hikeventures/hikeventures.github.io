@@ -13,7 +13,7 @@ image: https://farm3.staticflickr.com/2935/13937097045_2defb0f541_b.jpg
 
 The Powertraveller Solarmonkey Adventurer is my new solar charging device for my electronic outdoor gear like camera, <a href="http://www.hikeventures.com/best-headlamps/">headlamp</a> and smartwatch. Previously, I have used my <a href="http://hikeventures.com/how-to-charge-your-batteries-when-you-are-outdoors/" target="_self">Anker Astro 3E</a> in order to keep my electronic devices charged on a muli-day hiking trip. However, I realized that the battery will be low on energy after 4 days so I was looking for a device which I can recharge during my hiking and packrafting trips.
 
-<amp-img src="https://farm3.staticflickr.com/2935/13937097045_2defb0f541_b.jpg"  layout="responsive" width="1024" height="683" alt="Solarmonkey Adventurer"></amp-img>
+<img src="https://farm3.staticflickr.com/2935/13937097045_2defb0f541_b.jpg"  layout="responsive" width="1024" height="683" alt="Solarmonkey Adventurer">
 <br>
 <!--more-->
 

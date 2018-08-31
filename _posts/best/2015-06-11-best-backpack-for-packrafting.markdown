@@ -18,7 +18,7 @@ Having used the <a href="http://www.hikeventures.com/gear-review-hmg-porter-4400
 
 Gernerally speaking I was not able to find any alternative to the HMG Porter 4400 which is that light and feels like a proper backpack when I bought it.
 
-<amp-img src="https://c2.staticflickr.com/4/3848/14464273681_0b2ab88e71_b.jpg" width="1024" height="683" alt="Best Backpack for Packrafting" layout="responsive"></amp-img>
+<img src="https://c2.staticflickr.com/4/3848/14464273681_0b2ab88e71_b.jpg" width="1024" height="683" alt="Best Backpack for Packrafting" layout="responsive">
 <br>
 <!--more-->
 
@@ -90,7 +90,7 @@ This is probably the best lightweight packrafting backpack you can buy at the mo
 <hr>
 
 ## NRS Paragon Pack
-   
+
 **Weight**: 1179 grams / 41.6 oz. (without dry sack)    
 
 The NRS Paragon Pack is quite versatile like the ULA Epic and you can use smaller and bigger dry bags with it as well as you can read in the [Q&A section](http://www.nrs.com/product/2933/nrs-paragon-pack2). The straps on the back of the NRS Paragon Pack also look like you can attach your paddles to the backpack.

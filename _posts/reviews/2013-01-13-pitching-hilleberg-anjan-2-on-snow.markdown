@@ -12,7 +12,7 @@ layout: post
 ---
 The Hilleberg Anjan 2 is actually a lightweight (1.8 kg packed) 3 season tent. However, I believe that this tent could also be used during the winter season if there is only light snow fall and no strong winds. However, I have not tested it yet myself (to be on the safe side, I would rather take a 4-season tent with me). Here you can see how the Hilleberg Anjan looks like pitched on snow.
 
-<amp-img src="https://farm9.staticflickr.com/8326/8375204505_0d31ecaa55_b.jpg" width="1024" height="683" layout="responsive" alt="Hilleberg Anjan 2 on snow winter"></amp-img>
+<img src="https://farm9.staticflickr.com/8326/8375204505_0d31ecaa55_b.jpg" width="1024" height="683" layout="responsive" alt="Hilleberg Anjan 2 on snow winter">
 <br>
 <!--more-->
 

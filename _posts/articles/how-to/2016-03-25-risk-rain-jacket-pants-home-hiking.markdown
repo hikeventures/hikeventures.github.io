@@ -10,7 +10,7 @@ image: https://farm2.staticflickr.com/1718/23666915033_f5ff47da67_b.jpg
 ---
 Recently, I have read many interesting blog posts discussing if you should consider taking rain gear i.e. rain jacket and rain pants with you when going hiking or backpacking. This is an interesting question especially for those who are into ultralight hiking. But what means ultralight? Should you pack as less as possible or should you only try to minimize weight on all the gear you need on the hike?
 
-<amp-img src="https://farm2.staticflickr.com/1718/23666915033_f5ff47da67_b.jpg"  width="1000" height="664" layout="responsive" alt="hiking ultralight risks" ></amp-img>
+<img src="https://farm2.staticflickr.com/1718/23666915033_f5ff47da67_b.jpg"  width="1000" height="664" layout="responsive" alt="hiking ultralight risks" >
 <br>
 <!--more-->
 <br>

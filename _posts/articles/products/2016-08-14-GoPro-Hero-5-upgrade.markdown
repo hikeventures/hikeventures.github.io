@@ -12,7 +12,7 @@ image: https://c2.staticflickr.com/8/7093/26362312073_15772db9fc_o.jpg
 
 When you already own the GoPro Hero4 Black or Session you are probably wondering if it's worth to upgrade your action camera to the new GoPro Hero5 Black. Here is a short summary what's different between the old and the new GoPro cameras.
 
-<amp-img src="https://c2.staticflickr.com/8/7093/26362312073_15772db9fc_o.jpg" layout="responsive" width="1200" height="739" alt="GoPro Hero5 Session upgrade"></amp-img>
+<img src="https://c2.staticflickr.com/8/7093/26362312073_15772db9fc_o.jpg" layout="responsive" width="1200" height="739" alt="GoPro Hero5 Session upgrade">
 <br>
 <!--more-->
 

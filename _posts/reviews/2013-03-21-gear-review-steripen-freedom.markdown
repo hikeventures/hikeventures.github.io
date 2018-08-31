@@ -13,7 +13,7 @@ layout: post
 
 The SteriPen Freedom with its 75 grams is currently the lightest UV pen from SteriPen. We will use this UV pen in combination with a [ceramic water filter][1] to clean the water from possible viruses as well.
 
-<amp-img src="https://farm9.staticflickr.com/8089/8578007098_5d395e160d_b.jpg" width="1024" width="683" alt="Steripen Freedom field test" layout="responsive"></amp-img>
+<img src="https://farm9.staticflickr.com/8089/8578007098_5d395e160d_b.jpg" width="1024" width="683" alt="Steripen Freedom field test" layout="responsive">
 <br>
 <!--more-->
 

@@ -19,7 +19,7 @@ Wearing a synthetic insulated jacket over a <a href="http://www.hikeventures.com
 
 Either you are just looking for an alternative to down because of ethical reasons or you are planning to wear your jacket in a damp or humid environment where down may lose its insulation capabilities when it gets wet.
 
-<amp-img src="https://c1.staticflickr.com/6/5558/31803741256_3d7a100029_o.jpg" width="1000"  height="664" alt="Best Synthetic Insulated Jackets 2018" layout="responsive"></amp-img>
+<img src="https://c1.staticflickr.com/6/5558/31803741256_3d7a100029_o.jpg" width="1000"  height="664" alt="Best Synthetic Insulated Jackets 2018" layout="responsive">
 
 On our snowshoeing trip in [Finnish Lapland](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/), we could choose between wearing a synthetic or down jacket due to the low humidity.
 <br>

@@ -14,7 +14,7 @@ A couple of months ago, I was looking for a new tent which I can use during my p
 
 Further, I would not get the GT version If I were to buy the Anjan or the Nallo. If you need a bigger vestibule then its probably better to take a seperate tarp with you. Yor Anjan tent will be more versatile in this way. Further, there is also not that much weight difference between the Anjan 2 and the Anjan 3 so it's probably a good decision to take the Anjan 3 in any case.
 
-<amp-img src="https://farm9.staticflickr.com/8541/8648026950_c0f7a5fdac_b.jpg" layout="responsive" width="1000" heigh="667" alt="Hilleberg Anjan label entrance"></amp-img>
+<img src="https://farm9.staticflickr.com/8541/8648026950_c0f7a5fdac_b.jpg" layout="responsive" width="1000" heigh="667" alt="Hilleberg Anjan label entrance">
 <br>
 <!--more-->
 

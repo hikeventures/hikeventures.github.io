@@ -25,7 +25,7 @@ There are certain criteria you should look out when buying a new packrafting hel
 <br>
 <!--more-->
 
-<amp-img src="https://farm8.staticflickr.com/7227/14061133924_1198954cd2_b.jpg" width="1024" height="683" alt="Best packrafting helmet" layout="responsive"></amp-img>
+<img src="https://farm8.staticflickr.com/7227/14061133924_1198954cd2_b.jpg" width="1024" height="683" alt="Best packrafting helmet" layout="responsive">
 
 ## <a name="table">Weight comparison table</a>
 

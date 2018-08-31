@@ -11,7 +11,7 @@ image: https://farm9.staticflickr.com/8277/8714403482_520cf243ab_b.jpg
 ---
 As I recently bought a new Alpacka packraft, learning how to Packraft is now essential for me. Since I am living in Finland - a country with 100.000 lakes - packrafting could enhance the possibilities to see the landscape from a different point of view than on a normal hiking trip. As I am planning to take my Yukon Yak Packraft to <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">Sarek National Park in Sweden</a>  this year, I still need to exercise a little bit in order to be ready for this trip.
 
-<amp-img src="https://farm9.staticflickr.com/8277/8714403482_520cf243ab_b.jpg" width="1024" height="683" layout="responsive" alt="Learning Packrafting"></amp-img>
+<img src="https://farm9.staticflickr.com/8277/8714403482_520cf243ab_b.jpg" width="1024" height="683" layout="responsive" alt="Learning Packrafting">
 <br>
 <!--more-->
 <a href="https://www.flickr.com/photos/90204224@N07/8714403426"><img src="https://farm9.staticflickr.com/8552/8714403426_98e19fe539_b.jpg" width="1024" height="441" alt="how to packraft"></a>

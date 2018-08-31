@@ -11,7 +11,7 @@ image: https://c2.staticflickr.com/6/5349/17648754398_462b77909d_b.jpg
 ---
 For every sport or activity where you move more than usual it's good to have regular exercise to keep your muscles trained. Having a good fitness and exercise regularly will help you to hike, backpack and packraft longer or more relaxed.
 
-<amp-img src="https://c2.staticflickr.com/6/5349/17648754398_462b77909d_b.jpg" width="1024" height="665" layout="responsive" alt="Fitness and Excercising for Hiking, Backpacking and Packrafting"></amp-img>
+<img src="https://c2.staticflickr.com/6/5349/17648754398_462b77909d_b.jpg" width="1024" height="665" layout="responsive" alt="Fitness and Excercising for Hiking, Backpacking and Packrafting">
 <br>
 <!--more-->
 In order to keep myself in shape I run approximately 3-4 times a week and each run having a distance of approximately 9-15 km. That's about 1100 km every year. If you are not into running and would like to start with it then it's important to get proper running shoes to avoid injuries.

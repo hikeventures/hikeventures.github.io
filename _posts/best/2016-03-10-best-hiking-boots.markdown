@@ -21,7 +21,7 @@ For day trips which are not that demanding [lightweight hiking shoes](http://www
 
 However, after my trips in the [Alps](http://www.hikeventures.com/e5-crossing-the-alps-from-germany-to-italy/) and in [Swedish Lapland](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) I am not such a fan of ultralight hiking shoes and would rather take a pair of proper hiking boots with me.
 
-<amp-img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="1024" height="643" alt="Best hiking boots for 2018" layout="responsive"></amp-img>
+<img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="1024" height="643" alt="Best hiking boots for 2018" layout="responsive">
 <br>
 <!--more-->
 

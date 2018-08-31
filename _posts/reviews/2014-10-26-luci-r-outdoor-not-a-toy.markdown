@@ -13,7 +13,7 @@ image: https://farm6.staticflickr.com/5597/15636357331_9926cfd49a_b.jpg
 
 A while ago I was contacted by a representative of  [MPOWERD][1], who asked me if I would be interested to review their new inflatable solar lantern, Luci Outdoor. I said yes and several weeks later a package from the USA was waiting for me at home. Inside this package was Luci. Below are my thoughts and experiences of using this lantern on my several trips (Lithuania, Latvia, Poland and here in the Netherlands) during the last three months.
 
-<amp-img src="https://farm6.staticflickr.com/5597/15636357331_9926cfd49a_b.jpg" layout="responsive" width="1024" height="615" alt="Luci Outdoor Solar Lantern"></amp-img>
+<img src="https://farm6.staticflickr.com/5597/15636357331_9926cfd49a_b.jpg" layout="responsive" width="1024" height="615" alt="Luci Outdoor Solar Lantern">
 <br>
 <!--more-->
 

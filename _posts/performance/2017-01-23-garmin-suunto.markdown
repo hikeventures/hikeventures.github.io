@@ -44,7 +44,7 @@ In the past, I have always used my Suunto Traverse to log my GPS data (see pictu
 
 ---
 
-<amp-img src="https://c1.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg" width="2048" height="1360" layout="responsive" alt="Suunto Spartan Sport Wrist HR vs. Suunto Spartan Trainer Wrist HR vs. Garmin Fenix 5X"></amp-img>
+<img src="https://c1.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg" width="2048" height="1360" layout="responsive" alt="Suunto Spartan Sport Wrist HR vs. Suunto Spartan Trainer Wrist HR vs. Garmin Fenix 5X">
 
 ---
 

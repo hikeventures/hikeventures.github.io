@@ -17,7 +17,7 @@ The flash in this post can also be used on the Sony a9 or a6500 since they share
 
 In my selection I was also taking price into consideration and selected products which are affordable.
 
-<amp-img src="https://farm4.staticflickr.com/3625/13040988355_f0f5951202_k.jpg" width="2048" height="1536" alt="best flash and video lights for Sony a7, a9 or a6500" layout="responsive"></amp-img>
+<img src="https://farm4.staticflickr.com/3625/13040988355_f0f5951202_k.jpg" width="2048" height="1536" alt="best flash and video lights for Sony a7, a9 or a6500" layout="responsive">
 <br>
 <!--more-->
 

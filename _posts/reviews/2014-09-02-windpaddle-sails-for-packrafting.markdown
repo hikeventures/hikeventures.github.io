@@ -13,7 +13,7 @@ image: https://farm4.staticflickr.com/3905/14933402357_c12660d4e6_b.jpg
 
 With my packraft I used to paddle a lot in rivers and lakes. I was paddling sometimes for hours and at some point I was thinking that it would be really cool to have a sail or some sort of engine on your packraft. Here comes a short review about the WindPaddle Sail.
 
-<amp-img src="https://farm4.staticflickr.com/3905/14933402357_c12660d4e6_b.jpg" layout="responsive" width="1024" width="683" alt="WindPaddle Sail  review"></amp-img>
+<img src="https://farm4.staticflickr.com/3905/14933402357_c12660d4e6_b.jpg" layout="responsive" width="1024" width="683" alt="WindPaddle Sail  review">
 <br>
 <!--more-->
 

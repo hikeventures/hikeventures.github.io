@@ -11,7 +11,7 @@ image: http://farm3.staticflickr.com/2822/11477533336_1d04a0293c_c.jpg
 ---
 Today is the shortest day of the year. In Finland sunrise is expected to be at 10.13 in Vaasa and sunset at 14.51 - 4.5h sunshine in total.
 
-<amp-img src="http://farm3.staticflickr.com/2822/11477533336_1d04a0293c_c.jpg" width="800" height="370" layout="responsive" alt="Shortest day of the year in Finland"></amp-img>
+<img src="http://farm3.staticflickr.com/2822/11477533336_1d04a0293c_c.jpg" width="800" height="370" layout="responsive" alt="Shortest day of the year in Finland">
 <br>
 
 

@@ -17,7 +17,7 @@ YouTube already supports 360 videos so you could get for example a <a href="http
 
 Have a look on our <a href="#list">comparison table</a> to find the right camera or see some <a href="#example">pictures</a> of the camera models which we recommend.
 
-<amp-img src="https://c3.staticflickr.com/6/5609/30599065514_3a9dedbf93_k.jpg" width="2048" height="1365" layout="responsive" alt="Best 360 4K waterproof camera"></amp-img>
+<img src="https://c3.staticflickr.com/6/5609/30599065514_3a9dedbf93_k.jpg" width="2048" height="1365" layout="responsive" alt="Best 360 4K waterproof camera">
 <br>
 <!--more-->
 
