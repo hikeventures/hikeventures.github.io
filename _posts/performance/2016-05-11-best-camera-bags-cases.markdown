@@ -2,10 +2,10 @@
 layout: post
 title: Best outdoor camera bags for Sony A7III, A7II, A9, a6000, a6300 or a6500
 description: My selection of the best outdoor camera bags for your Sony camera
-date: 2016-05-11 07:30:00
+date: 2018-05-11 07:30:00
 update_date: 2017-07-15 06:00:52
 category: review
-image: https://c4.staticflickr.com/9/8606/28716060755_0596cd42cf_k.jpg
+image: https://farm2.staticflickr.com/1854/44401438761_506851eef4_b.jpg
 tags:
   - review
   - camera bag
@@ -19,7 +19,7 @@ I have created this list since I recently upgraded my camera to a Sony A7III and
 
 So what to consider when buying a new bag for your camera? Different bags might be useful for various activities, e.g. you might take a different camera bag with you when you go hiking than when you would go on a kayaking trip or just walk around in the city.
 
-<img src="https://c4.staticflickr.com/9/8606/28716060755_0596cd42cf_k.jpg" width="2048" height="1365" alt="Best outdoor camera bags for Sony A7II, a6000, a6300, A9 or a6500" >
+<img src="https://farm2.staticflickr.com/1854/44401438761_506851eef4_b.jpg" width="1024" height="683" alt="Best outdoor camera bags for Sony A7II, a6000, a6300, A9 or a6500">
 
 With the Lowepro Nova Sport 7L in [Northern Norway](http://www.hikeventures.com/Finnmark/).
 
