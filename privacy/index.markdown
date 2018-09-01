@@ -34,8 +34,7 @@ We are using third party services on our website and their privacy policies and 
 
 We take pictures and videos and publish them on our blog and social media. The privacy policies of those social media sites can be found on YouTube, [Instagram](http://instagram.com/about/legal/privacy/), [Twitter](https://twitter.com/de/privacy),
 [Instagram](https://help.instagram.com/155833707900388), [Flickr](https://www.smugmug.com/about/privacy-flickr),
-[YouTube](http://www.youtube.com/t/privacy_at_youtube),
-[vimeo](https://vimeo.com/privacy) or [Facebook](https://www.facebook.com/about/privacy/). Pictures, videos and text are used to offer content on our blog and social media websites.
+[YouTube](http://www.youtube.com/t/privacy_at_youtube) or [Facebook](https://www.facebook.com/about/privacy/). Pictures, videos and text are used to offer content on our blog and social media websites.
 If you wish to have a picture removed where you can identify yourself please contact us at contact@hikeventures.com.
 
 ## Affiliate Marketing
