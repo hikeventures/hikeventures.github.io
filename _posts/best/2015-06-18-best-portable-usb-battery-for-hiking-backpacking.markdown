@@ -19,7 +19,7 @@ For a multi-day trip where we have no access to a power socket we solely rely on
 
 Further, we are also experimenting with a solar panel, however in regions like in Scandinavia there might be longer periods with no sun.
 
-<img src="https://c4.staticflickr.com/4/3786/18296050823_382029ba5c_o.jpg" width="992" height="744" alt="Best Portable USB Battery for Hiking and Backpacking" layout="responsive">
+<img src="https://c4.staticflickr.com/4/3786/18296050823_382029ba5c_o.jpg" width="992" height="744" alt="Best Portable USB Battery for Hiking and Backpacking" >
 <br>
 <!--more-->
 

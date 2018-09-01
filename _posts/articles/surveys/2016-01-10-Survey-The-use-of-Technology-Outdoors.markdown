@@ -11,7 +11,7 @@ image: https://farm1.staticflickr.com/732/23687507625_4301791f3d_b.jpg
 ---
 We are currently researching the impact of portable electronic devices on risk management in remote areas which is why we are looking for outdoor enthusiasts walking off the beaten tracks. Therefore we designed a questionnaire which would take you less than 7 minutes to complete.
 
-<img src="https://farm1.staticflickr.com/732/23687507625_4301791f3d_b.jpg" layout="responsive" width="1024" height="683" alt="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden">
+<img src="https://farm1.staticflickr.com/732/23687507625_4301791f3d_b.jpg"  width="1024" height="683" alt="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden">
 
 <br>
 <!--more-->

@@ -12,7 +12,7 @@ image: https://c2.staticflickr.com/4/3817/8915058329_e2f057e52f_k.jpg
 
 We decided this year not to visit the OutdoorShow in Friedrichshafen. After having visited the [ISPO 2016](http://www.hikeventures.com/ISPO-2016-interviews/) in Munich we decided that we will spend our time on a few trips and visit the OutdoorShow in Friedrichshafen in 2017.
 
-<img src="https://c2.staticflickr.com/4/3817/8915058329_e2f057e52f_k.jpg" width="2048" height="1365" alt="OutDoor Show 2016 Friedrichshafen" layout="responsive">
+<img src="https://c2.staticflickr.com/4/3817/8915058329_e2f057e52f_k.jpg" width="2048" height="1365" alt="OutDoor Show 2016 Friedrichshafen" >
 <br>
 
 <!--more-->

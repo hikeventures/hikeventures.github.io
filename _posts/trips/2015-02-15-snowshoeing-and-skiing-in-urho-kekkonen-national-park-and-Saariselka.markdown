@@ -14,7 +14,7 @@ image: https://farm9.staticflickr.com/8673/16347221659_3952a1c6de_b.jpg
 ---
 End of January we took a plane from Helsinki to Ivalo with Norwegian to do some snowshoeing and cross-country skiing in Finnish Lapland. Even so it was quite cloudy on our trip we were lucky as most of the tourists visiting Saariselkä are usually visiting Lapland between February and April. So it was not that crowded. Nevertheless, we decided to stay with Suomen Latu in Kiilopää which is located at the entrance of the Urho Kekkonen National Park for three reasons - less tourists, more wilderness and only 20 km away from Saariselkä which we visited with the daily ski bus running between Kiilopää and Saariselkä.
 
-<img src="https://farm9.staticflickr.com/8673/16347221659_3952a1c6de_b.jpg" width="956" width="635" alt="Snowshoeing and Cross-Country Skiing in Finnish Lapland - Finland" layout="responsive">
+<img src="https://farm9.staticflickr.com/8673/16347221659_3952a1c6de_b.jpg" width="956" width="635" alt="Snowshoeing and Cross-Country Skiing in Finnish Lapland - Finland" >
 <br>
 <!--more-->
 

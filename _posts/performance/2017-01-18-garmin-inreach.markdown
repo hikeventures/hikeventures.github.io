@@ -23,7 +23,7 @@ Below you can see Konstantin while hiking in Japan. On the back of his backpack,
 
 However, Garmin also released the InReach Mini, which comes in a much smaller size but with less featuers than the Explorer+. However, most of the features can also be used when coupled with the Garmin Smartphone App. Personally, I found the InReach Mini the best solution since I probably hardly need it on the trail and would like to save space and weight on my trip as much as possible.
 
-<img src="https://c1.staticflickr.com/6/5609/30599065514_3a9dedbf93_k.jpg" width="2048" height="1365" layout="responsive" alt="Garmin inReach Explorer+ and SE+ - Differences, new features and preview">
+<img src="https://c1.staticflickr.com/6/5609/30599065514_3a9dedbf93_k.jpg" width="2048" height="1365"  alt="Garmin inReach Explorer+ and SE+ - Differences, new features and preview">
 <br>
 <!--more-->
 

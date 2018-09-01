@@ -17,7 +17,7 @@ As we are frequently on packrafting trips we are always interested to find new p
 
 The life jackets in this blog post are also suitable for Kayaking. In fact they have probably been designed with Kayakers in mind as I have not heard about specific packrafting life jackets yet (nor do I think that there would be much of a difference).
 
-<img src="https://c1.staticflickr.com/9/8762/28098576184_8dd7eebdb2_k.jpg" width="2048" height="1365" alt="Best PFD or life jacket for packrafting and kayaking" layout="responsive">
+<img src="https://c1.staticflickr.com/9/8762/28098576184_8dd7eebdb2_k.jpg" width="2048" height="1365" alt="Best PFD or life jacket for packrafting and kayaking" >
 <br>
 <!--more-->
 

@@ -21,7 +21,7 @@ Garmin owns DeLorme since 2016, and the Garmin InReach Explorer+ and SE+ series 
 
 In the picture below you can see the old DeLorme InReach Explorer in his yellow case attached to the backpack.
 
-<img src="https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg" width="1024" height="683" layout="responsive" alt="Best Satellite Messenger, Locator and Personal Beacon 2018" layout="responsive">
+<img src="https://c3.staticflickr.com/6/5609/30599065514_5e5ff0a8cd_b.jpg" width="1024" height="683"  alt="Best Satellite Messenger, Locator and Personal Beacon 2018" >
 <br>
 <!--more-->
 

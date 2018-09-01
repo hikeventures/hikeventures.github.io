@@ -14,7 +14,7 @@ image: https://c1.staticflickr.com/1/553/18512101434_432dd1d777_o.jpg
 ---
 A few weeks ago I decided to cruise from Turku to Mariehamn on the Aland Islands for a short weekend brake and to explore the city a little bit. Was it worth to visit Mariehamn? Well, taking one of the ferries (in my case Viking Line) from Turku to Mariehamn is already worth to do the trip. It's actually also possible to do some sort of picnic cruise - meaning you will be on the ferry for 12 hours and enjoy a breakfast, lunch or dinner buffet. As I planned to stay one night in Mariehamn I decided to have a lunch buffet (costing around 30 EUR) on each way with Viking Line - highly recommeneded. The food tastes good and you have tons of food options to choose from.
 
-<img src="https://c1.staticflickr.com/1/553/18512101434_432dd1d777_o.jpg" width="992" height="393" alt="Viking Grace Turku harbour harbor Terminal Finland" layout="responsive">
+<img src="https://c1.staticflickr.com/1/553/18512101434_432dd1d777_o.jpg" width="992" height="393" alt="Viking Grace Turku harbour harbor Terminal Finland" >
 
 <br>
 <!--more-->

@@ -15,7 +15,7 @@ image: https://farm4.staticflickr.com/3909/14845470986_78e1fcc54e_b.jpg
 
 Today, I went for a 2h (30 km) bicycle trip around Kakskerta island in Turku which is an island next to the Hirvensalo island where I recently moved to.
 
-<img src="https://farm4.staticflickr.com/3909/14845470986_78e1fcc54e_b.jpg" width="1024" height="683" alt="bicycle turku" layout="responsive">
+<img src="https://farm4.staticflickr.com/3909/14845470986_78e1fcc54e_b.jpg" width="1024" height="683" alt="bicycle turku" >
 <br>
 <!--more-->
 

@@ -22,7 +22,7 @@ From all sleeping pads I would probably recommend you the <a href="http://amzn.t
 
 I have received the XTherm from Therm-a-Rest for testing and it’s now my go-to sleeping pad throughout the year.
 
-<img src="https://c5.staticflickr.com/9/8185/28431572180_4c18fea5a0_b.jpg" width="1024" height="683" alt="Best Sleeping Pads in 2018" layout="responsive">
+<img src="https://c5.staticflickr.com/9/8185/28431572180_4c18fea5a0_b.jpg" width="1024" height="683" alt="Best Sleeping Pads in 2018" >
 <br>
 <!--more-->
 

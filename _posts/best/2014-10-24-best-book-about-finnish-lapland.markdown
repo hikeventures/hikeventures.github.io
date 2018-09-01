@@ -13,7 +13,7 @@ layout: post
 
 Lapland is definitely a place worth to visit if you are into Hiking / Bakpacking or Packrafting. However, it's also good to know the history, nature and culture if you are planning to visit a new hiking destination. For Finnish Lapland I would definitely recommend you the Crossbill Guide for Finnish Lapland including Kuusamo.
 
-<img src="https://c2.staticflickr.com/4/3950/15430108147_52328005db_b.jpg" width="992" height="661" layout="responsive" alt="best wind jackets for 2017">
+<img src="https://c2.staticflickr.com/4/3950/15430108147_52328005db_b.jpg" width="992" height="661"  alt="best wind jackets for 2017">
 <br>
 <!--more-->
 

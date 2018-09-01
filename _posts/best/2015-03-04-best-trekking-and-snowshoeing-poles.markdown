@@ -20,7 +20,7 @@ Further, you can also use trekking poles for nordic walking so they are quite ve
 
 Also have a look on the [down](http://www.hikeventures.com/best-down-jackets/) or [fleece jackets](http://www.hikeventures.com/best-fleece-jackets/) which I would consider to take on my trip.
 
-<img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="Best trekking and snowshoeing poles for 2018" layout="responsive">
+<img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="Best trekking and snowshoeing poles for 2018" >
 <br>
 <!--more-->
 

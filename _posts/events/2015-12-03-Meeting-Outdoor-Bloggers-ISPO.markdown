@@ -11,7 +11,7 @@ image: https://farm8.staticflickr.com/7328/16462058835_413f97515e_b.jpg
 ---
 This year we are planning again (<a href="http://www.hikeventures.com/ispo-2015-review/">ISPO 2015</a>) to visit the ISPO 2016 in Munich to find new gear for our outdoor adventures and to have interesting chats with the big outdoor brands. However, this year we are planning to meet other outdoor bloggers at the ISPO as well to exchange blogging ideas, tips and tricks and maybe also plan an outdoor trip together.
 
-<img src="https://farm8.staticflickr.com/7328/16462058835_413f97515e_b.jpg" layout="responsive" width="981" height="736" alt="ISPO Entrance Munich">
+<img src="https://farm8.staticflickr.com/7328/16462058835_413f97515e_b.jpg"  width="981" height="736" alt="ISPO Entrance Munich">
 
 
 

@@ -12,7 +12,7 @@ image: https://farm9.staticflickr.com/8479/8197716534_ab72b864df_h.jpg
 ---
 This weekend I went to K&ouml;kar, a Swedish speaking municipality with a population of 244 and is part of the &Aring;land Islands (belonging to Finland) which are located between Finland and Sweden. The &Aring;land islands can be reached by ferry from Turku within 2.5 hours.
 
-<img src="https://farm9.staticflickr.com/8479/8197716534_ab72b864df_h.jpg" width="1600" height="1067" alt="Hiking on the Åland Islands" layout="responsive">
+<img src="https://farm9.staticflickr.com/8479/8197716534_ab72b864df_h.jpg" width="1600" height="1067" alt="Hiking on the Åland Islands" >
 <br>
 <!--more-->
 

@@ -19,7 +19,7 @@ In this blog post, I have <a href="#table">selected</a> the best down jackets of
 
 A down jacket is an essential piece of clothes when planning an overnight trip outdoors or during winter time. A down jacket keeps you much warmer compared to a fleece jacket.
 
-<img src="https://farm1.staticflickr.com/395/32116563352_d0c641d313_k.jpg" width="2048" height="1152" alt="Best down jackets 2018" layout="responsive">
+<img src="https://farm1.staticflickr.com/395/32116563352_d0c641d313_k.jpg" width="2048" height="1152" alt="Best down jackets 2018" >
 <br>
 <!--more-->
 

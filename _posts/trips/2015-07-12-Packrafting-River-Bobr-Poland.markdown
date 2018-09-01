@@ -12,7 +12,7 @@ image: https://farm4.staticflickr.com/3750/18948496954_b57ac5e3fd_o.jpg
 ---
 After we had a 3 hours drive from Poznan to Jelenia Góra we finally reached our accommodation in the small village called Jagniąntków. The next day me, Konstantin and one of his Polish friends who lives permanently in Iceland and just returned from a 11 weeks trip throughout Europe set out with our Packrafts in the river Bóbr. <a href="http://www.hikeventures.com/hiking-packrafting-poland-video/">Here</a> is also a short video.
 
-<img src="https://farm4.staticflickr.com/3750/18948496954_b57ac5e3fd_o.jpg" width="992" height="744" alt="packrafting alpacka raft werner shuna" layout="responsive">
+<img src="https://farm4.staticflickr.com/3750/18948496954_b57ac5e3fd_o.jpg" width="992" height="744" alt="packrafting alpacka raft werner shuna" >
 
 <br>
 <!--more-->

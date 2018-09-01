@@ -11,7 +11,7 @@ layout: post
 image: https://farm9.staticflickr.com/8329/8372540157_94d5f4fca6_b.jpg
 ---
 
-<img src="https://farm9.staticflickr.com/8329/8372540157_94d5f4fca6_b.jpg" layout="responsive" width="683" height="1024" alt="Primus Express Stove hiking and backpacking ultralight">
+<img src="https://farm9.staticflickr.com/8329/8372540157_94d5f4fca6_b.jpg"  width="683" height="1024" alt="Primus Express Stove hiking and backpacking ultralight">
 <br>
 <!--more-->
 

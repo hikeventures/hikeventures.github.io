@@ -10,7 +10,7 @@ layout: post
 image: https://farm4.staticflickr.com/3934/15515022052_94a162682e_b.jpg
 ---
 
-<img src="https://farm4.staticflickr.com/3934/15515022052_94a162682e_b.jpg"  layout="responsive" width="1024" height="683" alt="Autumn Forrest Finland">
+<img src="https://farm4.staticflickr.com/3934/15515022052_94a162682e_b.jpg"   width="1024" height="683" alt="Autumn Forrest Finland">
 
 Today, I went into the forest with my camera to capture the last colours of autumn for this year. There are not many leafs left on the trees and temperatures are dropping.
 <a href="https://www.flickr.com/photos/90204224@N07/15515018692" ><img src="https://farm4.staticflickr.com/3947/15515018692_68f83d0069_c.jpg" width="800" height="534"></a>

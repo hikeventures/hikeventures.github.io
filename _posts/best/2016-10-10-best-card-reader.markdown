@@ -20,7 +20,7 @@ The other card readers were also on my list before I made my purchase decision w
 
 ---
 
-<img src="https://c6.staticflickr.com/6/5527/31452717005_a4bbfd5276_k.jpg" width="2048" height="1186" layout="responsive" alt="Best USB-C SD Card Readers for Macbook Pro">
+<img src="https://c6.staticflickr.com/6/5527/31452717005_a4bbfd5276_k.jpg" width="2048" height="1186"  alt="Best USB-C SD Card Readers for Macbook Pro">
 <br>
 <!--more-->
 

@@ -24,7 +24,7 @@ The company promises minimal distortion which may always be an issue with those 
 
 I also have the Zeiss Batis 25mm beside my manual Samyang 14mm and to be honest the Zeiss is my go-to lens every day. The picture below was taken with my Batis 25mm lens.
 
-<img src="https://c1.staticflickr.com/9/8889/27747666193_e6f65537c7_h.jpg" layout="responsive" width="1600" height="900" alt="Comparison and differences - Sigma 14mm, Samyang XP 14mm or Irix 11mm, Zeiss Batis 18mm">
+<img src="https://c1.staticflickr.com/9/8889/27747666193_e6f65537c7_h.jpg"  width="1600" height="900" alt="Comparison and differences - Sigma 14mm, Samyang XP 14mm or Irix 11mm, Zeiss Batis 18mm">
 <br>
 <!--more-->
 

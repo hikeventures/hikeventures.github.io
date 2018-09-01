@@ -14,7 +14,7 @@ Revently, I went to the Algarve in Portugal for sightseeing and packrafting and 
 
 This tidal mill is one of the few things that we saw on our recent trip to Algarve, Portugal.
 
-<img src="https://c1.staticflickr.com/1/310/32011923094_ce14a6fe37_k.jpg" width="1639" height="2048" layout="responsive"  alt="tidal mill Algarve Packrafting in Portugal">
+<img src="https://c1.staticflickr.com/1/310/32011923094_ce14a6fe37_k.jpg" width="1639" height="2048"   alt="tidal mill Algarve Packrafting in Portugal">
 
 <br>
 <!--more-->

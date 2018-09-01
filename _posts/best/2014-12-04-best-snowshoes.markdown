@@ -26,7 +26,7 @@ Also look at the size of the crampons and if the binding is suitable / durable o
 
 Below you can see Konstantin snowshoeing in the Austrian Alps.
 
-<img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="Best snowshoes 2018" layout="responsive">
+<img src="https://c8.staticflickr.com/2/1648/24785831751_f329cb1417_b.jpg" width="1024" height="681" alt="Best snowshoes 2018" >
 <br>
 <!--more-->
 

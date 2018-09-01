@@ -12,7 +12,7 @@ image: https://farm2.staticflickr.com/1650/24188416291_90a7103ccd_b.jpg
 
 On our packrafting trips we always follow 3 steps if we come across a rapid which we don’t know and where we are not able to see what lies ahead of us.
 
-<img src="https://farm2.staticflickr.com/1650/24188416291_90a7103ccd_b.jpg" width="1024" height="768" layout="responsive" alt="Safety on your packrafting trip - Anfibio Packsuit - Suunto Ambit3 - HMG Porter 4400 - Alpackaraft">
+<img src="https://farm2.staticflickr.com/1650/24188416291_90a7103ccd_b.jpg" width="1024" height="768"  alt="Safety on your packrafting trip - Anfibio Packsuit - Suunto Ambit3 - HMG Porter 4400 - Alpackaraft">
 <br>
 <!--more-->
 

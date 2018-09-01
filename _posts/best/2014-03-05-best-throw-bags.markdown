@@ -23,7 +23,7 @@ A fleece jacket can be used as a mid-layer to keep you warm while you are active
 
 Have a look on our [FAQ](#faq-on-fleece-jackets) to learn more about fleece jackets.
 
-<img src="https://farm6.staticflickr.com/5479/9596226393_34ba3b93fb_b.jpg" width="1024" height="683" alt="Best Throw Bags" layout="responsive">
+<img src="https://farm6.staticflickr.com/5479/9596226393_34ba3b93fb_b.jpg" width="1024" height="683" alt="Best Throw Bags" >
 
 <br>
 <!--more-->

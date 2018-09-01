@@ -14,7 +14,7 @@ layout: post
 
 When you go hiking, backpacking, packrafting or plan any other activities in the backcountry then it's good to have a document case with you to protect your paper map. In this case the Ortlieb Document Case A4 is my map case to go and here is a short review. Before I had a Haglöfs map case but the Ortlieb seems to be lighter. Beside the map you can also store other small items in the document case e.g. a small compass or brochures.
 
-<img src="https://farm9.staticflickr.com/8104/8577036409_b8bd345891_b.jpg" width="1024" width="510" alt="Ortlieb Document Bag A4" layout="responsive">
+<img src="https://farm9.staticflickr.com/8104/8577036409_b8bd345891_b.jpg" width="1024" width="510" alt="Ortlieb Document Bag A4" >
 <br>
 <!--more-->
 

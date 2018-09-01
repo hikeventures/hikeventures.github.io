@@ -15,7 +15,7 @@ Last weekend I went with <a href="https://www.hutkai.fi">Caj</a> to Raisio to vi
 
 The Kullavuori watch tower is approximately 71 m above sea level which is quite high compared to the rather flat area of the region. There are plenty of pine trees along the trail so it's quite easy to find wood for a camp fire. There is also a pet cemetary when you enter the trail in Raisio.
 
-<img src="https://farm2.staticflickr.com/1443/25929918320_ca0e210d72_b.jpg" width="1024" height="768" alt="Hiking Kullavuori Raisio Finland" layout="responsive">
+<img src="https://farm2.staticflickr.com/1443/25929918320_ca0e210d72_b.jpg" width="1024" height="768" alt="Hiking Kullavuori Raisio Finland" >
 
 <br>
 <!--more-->

@@ -12,7 +12,7 @@ image: https://farm1.staticflickr.com/353/31934556210_cfd491dbad_k.jpg
 ---
 This morning we went to the tourist office in Alta to buy our tickets for the bus to Hammerfest and also for the way back to Alta with the speed ferry through the Altafjord.
 
-<img src="https://farm1.staticflickr.com/353/31934556210_cfd491dbad_k.jpg" width="2048" height="1152" layout="responsive" alt="Bus Our day trip from Alta to Hammerfest">
+<img src="https://farm1.staticflickr.com/353/31934556210_cfd491dbad_k.jpg" width="2048" height="1152"  alt="Bus Our day trip from Alta to Hammerfest">
 <br>
 <!--more-->
 

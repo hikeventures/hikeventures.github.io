@@ -12,7 +12,7 @@ image: https://farm8.staticflickr.com/7421/16482970962_e112076e05_b.jpg
 
 This year we have signed up for [Fjällräven Classic](http://www.fjallraven.com/classic/) in Northern Sweden - a 110 km hike (Kungsleden - also called King's Trail) with about 2000 participants. We are going to be in group 7 which starts on August 9th at 09.00 am with over 200 group participants.
 
-<img src="https://farm8.staticflickr.com/7421/16482970962_e112076e05_b.jpg" width="1024" height="688" layout="responsive" alt="Fjällräven Classic">
+<img src="https://farm8.staticflickr.com/7421/16482970962_e112076e05_b.jpg" width="1024" height="688"  alt="Fjällräven Classic">
 <br>
 <!--more-->
 Some may wonder why to participate in such an event if you want to experience silence and nature in Swedish Lapland? Well, we are also interested to share experience with other hikers and after all there is so much space that we will most likely be able to spot a quite place away from the crowd. Beside our hike, we might also go 1 or 2 days packrafting before or after the event in this area.

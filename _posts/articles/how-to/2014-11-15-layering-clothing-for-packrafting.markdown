@@ -13,7 +13,7 @@ image: https://c2.staticflickr.com/6/5604/15791886561_17a9a75924_b.jpg
 Layering your clothing properly is also important when going packrafting. In this blog post I am going to give you an overview over my clothing layering system mainly for spring and autumn.
 
 
-<img src="https://c2.staticflickr.com/6/5604/15791886561_17a9a75924_b.jpg" width="1024" height="683" layout="responsive" alt="Layering Clothing for Packrafting - Icebreaker Anatomic Brief - Anfibio Packsuit - Smartwool Socks">
+<img src="https://c2.staticflickr.com/6/5604/15791886561_17a9a75924_b.jpg" width="1024" height="683"  alt="Layering Clothing for Packrafting - Icebreaker Anatomic Brief - Anfibio Packsuit - Smartwool Socks">
 <br>
 <!--more-->
 

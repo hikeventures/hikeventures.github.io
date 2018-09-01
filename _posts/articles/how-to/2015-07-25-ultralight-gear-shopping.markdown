@@ -12,7 +12,7 @@ image: https://farm4.staticflickr.com/3715/9606341414_ea6945a4fb_b.jpg
 ---
 If you are planning a long hiking trip then you probably would like to save some weight and decide to buy ultralight gear either in your local camping store or a dedicated ultralight gear shop. If you have ever done an extensive hike - especially in an environment where weather is not predictable i.e. cold and wet for several days - relying solely on ultralight gear might not be the best option if you are not willing to sacrifice on comfort.
 
-<img src="https://farm4.staticflickr.com/3715/9606341414_ea6945a4fb_b.jpg" width="992" height="661" layout="responsive" alt="Ultralight Hiking - HMG Porter 4400 - Montane Minimus Jacket">
+<img src="https://farm4.staticflickr.com/3715/9606341414_ea6945a4fb_b.jpg" width="992" height="661"  alt="Ultralight Hiking - HMG Porter 4400 - Montane Minimus Jacket">
 <br>
 <!--more-->
 

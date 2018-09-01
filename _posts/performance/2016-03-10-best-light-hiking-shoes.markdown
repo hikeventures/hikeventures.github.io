@@ -21,7 +21,7 @@ Compared to traditional hiking boots they are of course much lighter and packabl
 
 Also, have a look at our [FAQ on hiking shoes](#faq-on-hiking-shoes).
 
-<img src="https://c5.staticflickr.com/3/2942/15189713140_cf23bd9412_b.jpg" width="1024" height="683" alt="The best ultralight hiking shoes 2018" layout="responsive">
+<img src="https://c5.staticflickr.com/3/2942/15189713140_cf23bd9412_b.jpg" width="1024" height="683" alt="The best ultralight hiking shoes 2018" >
 <br>
 <!--more-->
 

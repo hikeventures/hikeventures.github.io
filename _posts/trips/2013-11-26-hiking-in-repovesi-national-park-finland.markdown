@@ -14,7 +14,7 @@ image: https://farm9.staticflickr.com/8489/8197196285_bafe700360_h.jpg
 
 Repovesi National Park is Southern Finland's most popular hiking destination and you can get there by public transport within 2 hours from Helsinki. The National Park offers plenty of lakes and hills. There are campsites and shelters and it is located nearby the city of Kouvola and accessible by public transportation.
 
-<img src="https://farm9.staticflickr.com/8489/8197196285_bafe700360_h.jpg" width="1600" height="1067" alt="Entrance Repovesi National Park" layout="responsive">
+<img src="https://farm9.staticflickr.com/8489/8197196285_bafe700360_h.jpg" width="1600" height="1067" alt="Entrance Repovesi National Park" >
 
 This is the main entrance to Repovesi National Park. We actually left the park from here as we went to far with the bus and entered the National Park from another spot.
 <br>

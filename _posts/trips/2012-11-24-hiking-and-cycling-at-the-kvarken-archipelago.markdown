@@ -14,7 +14,7 @@ Today, I went with the bicycle from Vaasa to Bjököby where I planned to visit 
 
 There is something special on this area: The land is rising at about 1 cm a year (as there was a Glacier 10.000 - 24.000 years ago).
 
-<img src="http://farm9.staticflickr.com/8347/8197863296_b8df1cc320_c.jpg" width="424" height="636" alt="What to see at the Kvarken Archipelago" layout="responsive">
+<img src="http://farm9.staticflickr.com/8347/8197863296_b8df1cc320_c.jpg" width="424" height="636" alt="What to see at the Kvarken Archipelago" >
 <br>
 <!--more-->
 

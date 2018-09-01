@@ -21,7 +21,7 @@ However, if you are looking for a smaller headlamp which is also waterproof, the
 
 Also, have a look at our [FAQ on headlamps](#faq-on-headlamps).
 
-<img src="https://farm1.staticflickr.com/511/31954090570_a1c906a654_k.jpg" width="2048" height="1152" alt="Best headlamps 2018 hiking backpacking camping" layout="responsive">
+<img src="https://farm1.staticflickr.com/511/31954090570_a1c906a654_k.jpg" width="2048" height="1152" alt="Best headlamps 2018 hiking backpacking camping" >
 On [our winter camping trip](http://www.hikeventures.com/winter-camping-alta/) in Alta - Norway
 <br>
 <!--more-->

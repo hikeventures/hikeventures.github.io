@@ -14,7 +14,7 @@ image: https://farm2.staticflickr.com/1619/24872785289_d994a8c482_b.jpg
 
 Last year we hiking and packrafting in Japan and Sweden and here is a review about the self-inflating Therm-a-Rest EvoLite sleeping pad which we received from Therm-a-Rest.
 
-<img src="https://farm2.staticflickr.com/1619/24872785289_d994a8c482_b.jpg" width="1024" height="680" layout="responsive" alt="Therm-a-Rest EvoLite Review">
+<img src="https://farm2.staticflickr.com/1619/24872785289_d994a8c482_b.jpg" width="1024" height="680"  alt="Therm-a-Rest EvoLite Review">
 <br>
 <!--more-->
 

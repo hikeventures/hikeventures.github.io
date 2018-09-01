@@ -19,7 +19,7 @@ If you expect the weather to be good but only windy then you may also consider t
 
 In most cases a lightweight rain jacket which does not need that much space in your backpack may be sufficient. Also have a look on the [rain pants](http://www.hikeventures.com/best-rain-pants/) which I would consider to pack into my backpack.
 
-<img src="https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg" width="2048" height="1360" alt="Best new rain jackets for 2018" layout="responsive">
+<img src="https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg" width="2048" height="1360" alt="Best new rain jackets for 2018" >
 <br>
 <!--more-->
 
