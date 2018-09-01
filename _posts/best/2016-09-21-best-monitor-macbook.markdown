@@ -1,7 +1,7 @@
 ---
-title: Best LG UltraFine 4K and 5K monitor alternatives - LG 27UD68-P, LG 27UD88, Dell UP2715K, HP ENVY 27 or Lenovo ThinkVision X1
+title: Best USB-C monitor for Macbook Pro 2018
 description: My selection of the best 4K and 5K USB-C Monitors for the Macbook Pro 2017
-date: 2016-09-21 05:28:01
+date: 2018-01-21 05:28:01
 category: best
 image: https://c7.staticflickr.com/1/186/31528052726_5436587b3c_k.jpg
 tags:
@@ -17,7 +17,8 @@ I really would like to have an external 4K or 5K monitor with my MacBook Pro sin
 
 In the past I had a 27" HD monitor to edit my pictures but since I am planning to take 4K videos in the near future I would be really nice to have a 4K or even a 5K screen.
 
-<img src="https://c7.staticflickr.com/1/186/31528052726_5436587b3c_k.jpg"  width="2048" width="1536" alt="Best LG UltraFine 4K and 5K monitor alternatives - LG 27UD88, Dell UP2715K, HP ENVY 27 or Lenovo ThinkVision X1 for Macbook Pro with Touchbar">
+<img src="https://farm2.staticflickr.com/1865/30533096008_8d1b265196_b.jpg" width="1024" height="768" alt="Best USB-C Monitor for Macbook Pro 2018">
+
 <br>
 <!--more-->
 
