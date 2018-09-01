@@ -1,16 +1,16 @@
 ---
-title: Best USB-C SD or MicroSD card reader for MacBook Pro
+title: Best USB-C SD or MicroSD card reader for MacBook Pro 2018
 description: The USB-C card readers which I would buy
 date: 2016-10-10 20:43:52
 category: articles
-image: https://c6.staticflickr.com/6/5527/31452717005_a4bbfd5276_k.jpg
+image: https://farm2.staticflickr.com/1849/44351162982_699461ccdd_b.jpg
 tags:
   - best
   - photography
 layout: post
 ---
 
-If you recently got one of the latest laptops or a MacBook Pro you will probably need a USB-C to USB adapter or a dedicated USB-C card reader to read your SD or MicroSD cards.
+If you recently got one of the latest laptops or a MacBook Pro 2018 you will probably need a USB-C to USB adapter or a dedicated USB-C card reader to read your SD or MicroSD cards.
 
 Some cameras also allow to wirelessly transfer data to the computer by using Wifi but this might be a slower option than transferring the data by using a card reader.
 
@@ -20,7 +20,7 @@ The other card readers were also on my list before I made my purchase decision w
 
 ---
 
-<img src="https://c6.staticflickr.com/6/5527/31452717005_a4bbfd5276_k.jpg" width="2048" height="1186"  alt="Best USB-C SD Card Readers for Macbook Pro">
+<img src="https://farm2.staticflickr.com/1849/44351162982_699461ccdd_b.jpg" width="1024" height="593" alt="Best USB-C SD Card Readers for Macbook Pro 2018">
 <br>
 <!--more-->
 
