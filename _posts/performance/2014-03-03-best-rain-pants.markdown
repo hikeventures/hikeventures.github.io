@@ -3,9 +3,9 @@ title: Best Rain Pants 2018
 description: Top 6 of the best Waterproof pants 2017 which protects you during your outdoor
   adventures
 date: 2015-02-08T09:13:12.000Z
-update_date: 2017-07-13T06:00:52.000Z
+update_date: 2018-01-13T06:00:52.000Z
 category: articles
-image: 'https://c2.staticflickr.com/8/7206/13685518345_b56a9a77d8_b.jpg'
+image: https://c2.staticflickr.com/8/7206/13685518345_b56a9a77d8_b.jpg
 tags:
   - articles
   - best
