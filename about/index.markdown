@@ -18,23 +18,20 @@ published: true
     </div>
 	<div class="row">
 		<div class="col-sm-7 col-lg-7 col-md-7 col-xs-12 page-content-content">
+
+		<div class="embed-responsive embed-responsive-16by9">
+				<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YRj_8CoTxnQ"></iframe>
+		</div>
+<br>
+
 			<p>HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoeing, cycling and urban microadventures. We adventure mainly in Europe but sometimes we also visit places like Japan or Russia. HikeVentures was established in 2012.</p>
-			<center><img src="patrk-avatar.png" class="about_avatar" width="260" height="260" alt="Patrik" /></center>
 			<iframe src="https://www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fpatrickdormischian&width=139&height=21&layout=button_count&size=large&show_faces=true&appId=582626375123567" width="139" height="28" style="border:none;overflow:hidden;float:right;" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 			<h4>Patrick</h4>
 			<p><a href="https://www.facebook.com/profile.php?id=100009207710788">Patrick</a> was born 1978 in South Germany nearby the Alps where he was hiking and skiing extensively especially in Austria. Having parents from Iran and Austria travelling was always part of Patrick’s life. Patrick moved to Finland in 2006 and currently lives on an island in the Archipelago Sea on the South West Coast of Finland which is a great place for exploring some of the 6500 islands by packraft, kayak, bicycle or foot. Patrick has also lived several months in Australia where he was diving with sharks and explored the blue mountains. Moreover, he has also worked in the Swiss mountains for several months which was a perfect place for snowboarding and skiing adventures in powder snow. Having relatives in Canada, Patrick also visited Banff National Park, traveled to China, Thailand, Romania, the Arab Emirates and India.</p>
 
-			<center><img src="konst-avatar.png" class="about_avatar" width="260" height="260" alt="Konstantin" /></center>
 			<iframe src="https://www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fkonstantin.gridnevskiy&width=132&height=21&layout=button_count&size=large&show_faces=true&appId=582626375123567" width="132" height="28" style="border:none;overflow:hidden;float:right;" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 			<h4>Konstantin</h4>
 			<p><a href="https://www.facebook.com/konstantin.gridnevskiy" target="_blank">Konstantin</a> is living in the Netherlands and was born 1978 in Russia. Konstantin is teaching adventure and heritage tourism at an University of Applied Science. Konstantin is our GoPro Hero camera expert. Inspired as a kid by the adventures of his father in Russia Konstantin followed him into his foot steps into the great outdoors. Living in densly populated Netherlands he is also very excited about microadventures which could be interesting for our urban readers. Konstantin is also very interested in hiking and packrafting adventures in Japan. Konstantin is our expert when it comes to conducting research.</p>
-
-
-			<h4>This is HikeVentures</h4>
-
-			<div class="embed-responsive embed-responsive-16by9">
-			    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YRj_8CoTxnQ"></iframe>
-			</div>
 
 
 
