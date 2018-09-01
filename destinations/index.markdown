@@ -170,17 +170,18 @@ footer: false
       </div></div></a></div></div>
 
 
-             <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
+        <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/Mariehamn-aland-islands-worth-a-visit/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
         <img src="https://farm2.staticflickr.com/1672/24264717071_d1c9df1a0a_z.jpg" alt="" class="img-responsive">
         <div class="caption">
             <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Mariehamn</p>
         </div></div></a></div></div>
 
-        
+
 
    <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
-            <a class="thumbnail" href="http://www.hikeventures.com/Naantali/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
+            <a class="thumbnail" href="http://www.hikeventures.com/Naantali/" style="color: #FFF; border: 0px;">
+            <div class="thumbnail text-center">
         <img src="https://farm2.staticflickr.com/1693/24321010126_84c55abefb_z.jpg" alt="" class="img-responsive">
         <div class="caption">
             <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Naantali</p>
