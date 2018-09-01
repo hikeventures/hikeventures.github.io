@@ -2,9 +2,9 @@
 title: Best Headlamps 2018
 description: Find the best headlamps for your next outdoor adventure
 date: 2016-01-03 23:02:20
-update_date: 2017-07-08 06:00:52
+update_date: 2018-01-08 06:00:52
 category: articles
-image: https://c1.staticflickr.com/9/8270/15581097668_01223b886d_k.jpg
+image: https://farm2.staticflickr.com/1846/43684048664_f45eef7231_b.jpg
 tags:
   - articles
   - best
@@ -21,7 +21,7 @@ However, if you are looking for a smaller headlamp which is also waterproof, the
 
 Also, have a look at our [FAQ on headlamps](#faq-on-headlamps).
 
-<img src="https://farm1.staticflickr.com/511/31954090570_a1c906a654_k.jpg" width="2048" height="1152" alt="Best headlamps 2018 hiking backpacking camping" >
+<img src="https://farm2.staticflickr.com/1846/43684048664_f45eef7231_b.jpg" width="1024" height="576" alt="Best headlamps 2018">
 On [our winter camping trip](http://www.hikeventures.com/winter-camping-alta/) in Alta - Norway
 <br>
 <!--more-->
