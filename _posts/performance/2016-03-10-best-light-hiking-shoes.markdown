@@ -4,7 +4,7 @@ description: Looking for light alternatives to heavy hiking boots? Here are the 
 date: 2016-03-02 07:30:00 +0300
 update_date: 2017-07-14 06:00:52
 category: articles
-image: https://c5.staticflickr.com/3/2942/15189713140_cf23bd9412_b.jpg
+image: https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg
 tags:
   - articles
   - best
@@ -15,13 +15,14 @@ layout: post
 
 Here is my <a href="#table">selection</a> of the best light hiking shoes for 2018.
 
-I was wearing light hiking shoes on my <a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/">hiking trip</a> in the Sarek National Park in Sweden.</p>
+I was wearing light hiking shoes on my <a href="http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/">hiking trip</a> in the Sarek National Park in Sweden.
 
 Compared to traditional hiking boots they are of course much lighter and packable but they also offer less stabilization, less protection and are not always waterproof.
 
 Also, have a look at our [FAQ on hiking shoes](#faq-on-hiking-shoes).
 
-<img src="https://c5.staticflickr.com/3/2942/15189713140_cf23bd9412_b.jpg" width="1024" height="683" alt="The best ultralight hiking shoes 2018" >
+
+<img src="https://c5.staticflickr.com/8/7298/27313686292_ef9eb5229c_b.jpg" width="1024" height="643" alt="best ultralight hiking shoes 2018" >
 <br>
 <!--more-->
 
