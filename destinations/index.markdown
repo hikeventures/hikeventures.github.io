@@ -194,6 +194,8 @@ footer: false
             <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Northern Lights</p>
         </div></div></a></div></div>
 
+        
+
   <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/hiking-in-nuuksio-national-park-finland/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
         <img src="https://farm2.staticflickr.com/1638/24347200335_48f9eb2881_z.jpg" alt="" class="img-responsive">
