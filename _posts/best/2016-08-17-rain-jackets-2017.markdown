@@ -1,10 +1,10 @@
 ---
 layout: post
-title: New rain jackets for 2018
+title: Best rain jackets for hiking and backpacking 2018
 description: An overview of the newest rain jackets on the market.
 date: 2016-08-01 07:30:00
 category: articles
-image: https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg
+image: https://farm2.staticflickr.com/1855/29463765917_8bc3d3ca37_b.jpg
 tags:
   - articles
   - new
@@ -23,7 +23,7 @@ For winter activities - like skiing or snowboarding - I would rather take a more
 
 ---
 
-<img src="https://c8.staticflickr.com/9/8615/16531785111_f94e1dc466_k.jpg" width="2048" height="1360" alt="New rain jackets for 2018" >
+<img src="https://farm2.staticflickr.com/1855/29463765917_8bc3d3ca37_b.jpg" width="1024" height="680" alt="Best rain jackets for hiking and backpacking backpacks 2018">
 <br>
 <!--more-->
 
