@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Best outdoor watches for hiking and backpacking 2018
+title: Best GPS watches for hiking and backpacking 2018
 description: Our selection of the best outdoor smartwatch for 2018.
 date: 2016-06-10 13:46:20
 update_date: 2017-01-15 06:00:52
 category: articles
-image: https://c2.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg
+image: https://farm2.staticflickr.com/1874/44401347201_84d8688688_b.jpg
 tags:
   - articles
   - best
@@ -20,7 +20,8 @@ However, I would be interested to get an outdoor watch which features a color di
 
 Probably one disadvantage of watches having a color display and a GPS is their short battery life.
 
-<img src="https://c2.staticflickr.com/8/7306/15913318153_5c83812257_k.jpg" width="2048" height="1360" alt="Best outdoor GPS watches 2018" >
+
+<img src="https://farm2.staticflickr.com/1874/44401347201_84d8688688_b.jpg" width="1024" height="680" alt="Best GPS watch 2018">
 <br>
 <!--more-->
 

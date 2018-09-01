@@ -25,7 +25,7 @@ There are certain criteria you should look out when buying a new packrafting hel
 <br>
 <!--more-->
 
-<img src="https://farm8.staticflickr.com/7227/14061133924_1198954cd2_b.jpg" width="1024" height="683" alt="Best packrafting helmet" >
+<img src="https://farm2.staticflickr.com/1885/43683912774_1b6544c3bd_b.jpg" width="1024" height="781" alt="Best packrafting and Kayaking Helmet - Sweet Protection Strutter Helmet">
 
 ## <a name="table">Weight comparison table</a>
 
