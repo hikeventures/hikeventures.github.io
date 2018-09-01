@@ -1,11 +1,11 @@
 ---
-title: Best Merino Base Layers 2018
+title: Best Merino Base Layers for Hiking and Packrafting 2018
 title: Best Merino Base Layers for Hiking and Backpacking 2018
 description: An overview of the best lightweight merino wool base layers.
 date: 2016-10-04 20:43:52
-update_date: 2016-12-27 06:00:52
+update_date: 2018-01-27 06:00:52
 category: articles
-image: https://c2.staticflickr.com/6/5604/15791886561_80520bc4b6_k.jpg
+image: https://farm2.staticflickr.com/1848/44351228672_d2046e546f_b.jpg
 tags:
   - articles
   - best
@@ -21,7 +21,9 @@ Also check one of our <a href="#video">packrafting videos</a> where we were wear
 
 ---
 
-<img src="https://c2.staticflickr.com/6/5604/15791886561_80520bc4b6_k.jpg" width="2048" height="1367"  alt="Best Merino Wool Base Layers 2018">
+<img src="https://farm2.staticflickr.com/1848/44351228672_d2046e546f_b.jpg" width="1024" height="684" alt="Pest Merino Base Layers for hiking backpacking and packrafting">
+
+
 
 However, there are also alternatives out there which I would like to present in this blog post which might be even better base layer options depending on your needs.
 
