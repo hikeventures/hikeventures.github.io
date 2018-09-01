@@ -164,9 +164,9 @@ footer: false
 
         <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
           <a class="thumbnail" href="http://www.hikeventures.com/Lemmenlaakson-Luontopolku/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
-      <img src="https://farm2.staticflickr.com/1850/29457025557_80b595982d_z.jpg" alt="Lemmenlaakson" class="img-responsive">
+      <img src="https://farm2.staticflickr.com/1850/29457025557_80b595982d_z.jpg" alt="Lemmenlaakso" class="img-responsive">
       <div class="caption">
-          <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Kymijoki</p>
+          <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Lemmenlaakso</p>
       </div></div></a></div></div>
 
 
@@ -176,6 +176,8 @@ footer: false
         <div class="caption">
             <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Mariehamn</p>
         </div></div></a></div></div>
+
+        
 
    <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/Naantali/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
@@ -322,7 +324,7 @@ footer: false
         <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
        <a class="thumbnail" href="http://www.hikeventures.com/pfahlbaumuseum-unteruhldingen/" style="color: #FFF; border: 0px;">
        <div class="thumbnail text-center">
-       <img src="https://farm2.staticflickr.com/1874/29457025357_5d138a6407_z.jpg" alt="Pfahlbaum Museum Unteruhldingen" class="img-responsive">
+       <img src="https://farm2.staticflickr.com/1874/29457025357_5d138a6407_z.jpg" alt="Pfahlbau Museum Unteruhldingen" class="img-responsive">
        <div class="caption"><p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Unteruhldingen</p>
        </div></div></a></div></div>
 
