@@ -19,12 +19,12 @@ published: true
 	<div class="row">
 		<div class="col-sm-7 col-lg-7 col-md-7 col-xs-12 page-content-content">
 			<p>HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoeing, cycling and urban microadventures. We adventure mainly in Europe but sometimes we also visit places like Japan or Russia. HikeVentures was established in 2012.</p>
-			<center><amp-img src="patrk-avatar.png" class="about_avatar" width="260" height="260" alt="Patrik" /></amp-img></center>
+			<center><img src="patrk-avatar.png" class="about_avatar" width="260" height="260" alt="Patrik" /></center>
 			<iframe src="https://www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fpatrickdormischian&width=139&height=21&layout=button_count&size=large&show_faces=true&appId=582626375123567" width="139" height="28" style="border:none;overflow:hidden;float:right;" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 			<h4>Patrick</h4>
 			<p><a href="https://www.facebook.com/profile.php?id=100009207710788">Patrick</a> was born 1978 in South Germany nearby the Alps where he was hiking and skiing extensively especially in Austria. Having parents from Iran and Austria travelling was always part of Patrick’s life. Patrick moved to Finland in 2006 and currently lives on an island in the Archipelago Sea on the South West Coast of Finland which is a great place for exploring some of the 6500 islands by packraft, kayak, bicycle or foot. Patrick has also lived several months in Australia where he was diving with sharks and explored the blue mountains. Moreover, he has also worked in the Swiss mountains for several months which was a perfect place for snowboarding and skiing adventures in powder snow. Having relatives in Canada, Patrick also visited Banff National Park, traveled to China, Thailand, Romania, the Arab Emirates and India.</p>
 
-			<center><amp-img src="konst-avatar.png" class="about_avatar" width="260" height="260" alt="Konstantin" /></amp-img></center>
+			<center><img src="konst-avatar.png" class="about_avatar" width="260" height="260" alt="Konstantin" /></center>
 			<iframe src="https://www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fkonstantin.gridnevskiy&width=132&height=21&layout=button_count&size=large&show_faces=true&appId=582626375123567" width="132" height="28" style="border:none;overflow:hidden;float:right;" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 			<h4>Konstantin</h4>
 			<p><a href="https://www.facebook.com/konstantin.gridnevskiy" target="_blank">Konstantin</a> is living in the Netherlands and was born 1978 in Russia. Konstantin is teaching adventure and heritage tourism at an University of Applied Science. Konstantin is our GoPro Hero camera expert. Inspired as a kid by the adventures of his father in Russia Konstantin followed him into his foot steps into the great outdoors. Living in densly populated Netherlands he is also very excited about microadventures which could be interesting for our urban readers. Konstantin is also very interested in hiking and packrafting adventures in Japan. Konstantin is our expert when it comes to conducting research.</p>
@@ -55,7 +55,7 @@ published: true
 						<span><i class="fa fa-youtube" aria-hidden="true"></i></span> We are also on <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw">YouTube</a>.
 					</div>
 				</div>
-				
+
 			<h4>In the Media</h4>
 			<a href="http://www.tgomagazine.co.uk/inspiration-and-ideas/the-uks-first-packraft-roundup-a-family-affair/" rel="nofollow">The Great outdoors: The UK’S first packraft roundup - A family affair.</a><br>
 			<a href="https://www.alpackaraft.com/rafting/adventure-blogs/" rel="nofollow">Alpacka Raft: Awesome Adventure Blogs That Include Packraft Adventures.</a><br>
@@ -66,7 +66,7 @@ published: true
 
 			<h4>Gear Testing</h4>
 			<p>On our blog we are reviewing outdoor gear which we receive from well known outdoor brands. <a href="http://www.hikeventures.com/Thule-Chasm-XL-Duffle-Bag/">Here</a> is an example of a more detailed review which we wrote for a company. Feel free to <a href="http://www.hikeventures.com/about/#contact">contact us</a> if you want us to test one of your products on our trips. Please note that we will express our own opinion on your products in our reviews.</p>
-			<p class="bigimage"><amp-img src="https://farm6.staticflickr.com/5683/21885051180_963c46af51_b.jpg" width="1000" height="363" layout="responsive" alt="Packrafting in Abisko, Sweden" /></amp-img></p>
+			<p class="bigimage"><img src="https://farm6.staticflickr.com/5683/21885051180_963c46af51_b.jpg" width="1000" height="363" layout="responsive" alt="Packrafting in Abisko, Sweden" /></p>
 
 <h4>Privacy Policy</h4>
 Our Privacy Policy can be found <a href="http://www.hikeventures.com/privacy/">here</a>.
@@ -97,7 +97,7 @@ Our Privacy Policy can be found <a href="http://www.hikeventures.com/privacy/">h
 				</div>
 			</div>
 			<center>
-				<amp-img src="http://www.hikeventures.com/post_subscribe.png" width="800" height="363" layout="responsive"></amp-img>
+				<img src="http://www.hikeventures.com/post_subscribe.png" width="800" height="363" layout="responsive">
 			</center>
 		</div>
 	    <div class="col-sm-1 col-lg-1 col-md-1 col-xs-12 page-content-divider"></div>
