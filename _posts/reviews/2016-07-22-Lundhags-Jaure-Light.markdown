@@ -8,11 +8,11 @@ tags:
   - reviews
   - Lundhags
   - Boots
-image: https://farm2.staticflickr.com/1844/30533172988_62f9b0cec4_b.jpg
+image: https://farm2.staticflickr.com/1895/44401255171_b344952478_b.jpg
 ---
 We are wearing since 1 year the Lundhags Jaure Light High on our trips which we received from Lundhags for a lower price and got quite excited when Lundhags announced their new Lundhags Jaure Light High II which will be available in the colors Petrol/Bronze and Black Rush and the Lundhags Jaure Light Mid II which will be available in the color  Black/Rush. Even so our boots are relatively new it's always good to hear that the Lundhags Jaure Light High could be even optimized even further.
 
-<img src="https://farm2.staticflickr.com/1844/30533172988_62f9b0cec4_b.jpg" width="1024" height="653" alt="Lundhags Jaure II Mid Light">
+<img src="https://farm2.staticflickr.com/1895/44401255171_b344952478_b.jpg" width="1024" height="576" alt="Zeiss Batis 25">
 
 
 > Lundhags Jaure Light High on our [packrafting trip in Sweden](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/).
