@@ -2,9 +2,9 @@
 title: Best lightweight backpacking water filters for 2018
 description: Lightweight water filters for your next hiking and backpacking trip.
 date: 2017-01-02 20:43:52
-update_date: 2017-01-02 23:30:52
+update_date: 2018-01-02 23:30:52
 category: articles
-image: https://c1.staticflickr.com/8/7459/9599019542_fa67333918_k.jpg
+image: https://farm2.staticflickr.com/1886/29463509457_fcd24e1eb2_b.jpg
 tags:
   - articles
   - best
