@@ -28,7 +28,8 @@ To remove viruses you can combine a filter with e.g. the Steripen Freedom (we ha
 
 The Steripen uses an UV light against Viruses and can be recharged through the USB port. Also have a look at our interview at the end of this article.
 
-<img src="https://c1.staticflickr.com/8/7459/9599019542_fa67333918_k.jpg" width="2048" height="1365" alt="Best lightweight water filters 2018" layout="responsive">
+<img src="https://farm2.staticflickr.com/1886/29463509457_fcd24e1eb2_b.jpg" width="1024" height="683" alt="Best lightweight backpacking Water Filter 2018">
+
 <br>
 <!--more-->
 

@@ -1,7 +1,7 @@
 ---
-title: Best compact flash and video lights for Sony a7, a9 or a6500
+title: Best compact flash and video lights for Sony a7III, a9 or a6500
 description: The best flash and video lights for Sony Cameras
-date: 2017-03-02 20:43:52
+date: 2018-03-02 20:43:52
 category: articles
 image: https://farm4.staticflickr.com/3625/13040988355_f0f5951202_k.jpg
 tags:
@@ -17,7 +17,8 @@ The flash in this post can also be used on the Sony a9 or a6500 since they share
 
 In my selection I was also taking price into consideration and selected products which are affordable.
 
-<img src="https://farm4.staticflickr.com/3625/13040988355_f0f5951202_k.jpg" width="2048" height="1536" alt="best flash and video lights for Sony a7, a9 or a6500" >
+<img src="https://farm2.staticflickr.com/1854/43683396134_f0e37d4216_b.jpg" width="1024" height="768" alt="best flash and video lights for Sony a7III, a7M3, a9 or a6500">
+
 <br>
 <!--more-->
 
