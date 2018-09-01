@@ -1,7 +1,7 @@
 ---
 title: The best Packrafting Paddles
 description: The best paddles for your packrafting adventure - Werner Shuna
-date: 2013-07-15 07:30:00
+date: 2018-01-15 07:30:00
 category: reviews
 tags:
   - reviews
@@ -13,12 +13,9 @@ image: http://farm4.staticflickr.com/3709/9295040842_f7031d2f8e_c.jpg
 
 Having purchased a <a hre="http://hikeventures.com/gear-review-unpacking-alpacka-packraft/" target="_self">packraft</a> a few years ago, I was looking for the best packrafting paddles which were in my budget and came across the Werner Shuna or its bigger brother the <a href="https://amzn.to/2nqS7pk" rel="nofollow">Powerhouse</a>, <a href="https://amzn.to/2Oty45r" rel="nofollow">Werner Pack-Tour M</a> and the VE Creeker Glass Blades on a Straight Black Glass Shaft. All paddles come in 4 peaces and are super light to take with you on your packrafting trip. They can be used for recreational or for whitewater paddling. The Werner paddles are made in the US and the VE paddles are handmade in the UK.
 
-<img src="http://farm4.staticflickr.com/3709/9295040842_f7031d2f8e_c.jpg"  width="800" height="403" alt="Werner Shuna Paddles review">
+<img src="http://farm4.staticflickr.com/3709/9295040842_f7031d2f8e_c.jpg"  width="800" height="403" alt="Best Packrafting Paddle - Werner Shuna Paddles review">
 <br>
 <!--more-->
-
-<img src="https://c1.staticflickr.com/9/8270/15581097668_01223b886d_k.jpg" width="2048" height="1367" alt="Best headlamps 2017" >
-<br>
 
 ## Wish list for my Packrafting Paddles
 There are a few features which I was looking for with my paddles. They should be lightweight, not too expensive, durable, portable to carry around with my backpack and of course also look nice.
