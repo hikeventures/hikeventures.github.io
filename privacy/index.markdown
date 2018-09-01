@@ -40,3 +40,5 @@ If you wish to have a picture removed where you can identify yourself please con
 
 ## Affiliate Marketing
 On some of our pages you will find affiliate links. HikeVentures is a participant in [AvantLink](https://www.avantlink.com/privacy) and the [Amazon Services LLC Associates Program](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496) (find the respective privacy policies under each link), an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. Affiliate links help us to keep this blog going and to finance some of our trips and gear.
+
+<script id="CookieDeclaration" src="https://consent.cookiebot.com/7e1a9c39-465b-4392-ac8d-6f7a5dfc4c2d/cd.js" type="text/javascript" async></script>
