@@ -9,7 +9,7 @@ tags:
   - packrafting
   - gear
 layout: post
-categories:
+category:
   - best
 # URL: http://www.hikeventures.com/best-packrafting-gear/
 ---
