@@ -77,7 +77,7 @@ Our Privacy Policy can be found <a href="http://www.hikeventures.com/privacy/">h
 			<h4>Copyright ©</h4>
 			<p>All content on hikeventures.com must not be used without the permission of hikeventures.com.</p>
 			<h4>Contact</h4>
-			<p>phone: +358 50 572 84 89</p>
+			<p>phone: +358 50 33 21 290</p>
 			<p>email: <a href="mailto:contact@hikeventures.com">contact@hikeventures.com</a></p>
 			<div id="contacts_table" class="row">
 				<div class="col-sm-6 col-lg-6 col-md-6 col-xs-12">
