@@ -285,16 +285,36 @@ An additional layer usually protects the aluminium tripods from erosion. However
 
 Another advantage of an aluminium tripod over a carbon tripod is that it’s less expensive.
 
----
-
 ### Difference between a light and heavy tripod
 
 A heavy tripod might be not suitable for traveling however it has some benefits over a lighter tripod. First of all you can load more weight on it e.g. heavier lenses and equipment and it’s not going to vibrate that much when you are shooting in a windy environment.
 
 A heavier tripod could be also useful if you are planning to use a slider with your tripod.
 
-## My own gear
+### Can a tripod fit any camera?
+When you are about to buy a tripod it is important to check if the quick release plate or the little screw on the tripod fits into your camera.
+Moreover, you should check if the tripod is able to carry the weight of your camera and your most heavy lens including all equipment you would like to use on your camera e.g. flash or external monitor.
 
+Some cameras like the one on an iPhone might need a special adapter before they can be mounted on the tripod. You may also need to find out if the tripod has the right size or weight.
+For example, it might be tiring to carry a heavy tripod on a hiking trip in the mountains. Moreover, you might need to check if the tripod can be adjusted to your height e.g. if you are a very tall person.
+
+Depending on your application e.g. travel, vlogging, overhead shots, astrophotography or hiking and backpacking you may find different tripods more useful in certain situations.
+
+
+### Can a camera tripod hold a phone?
+Most of the camera tripods can also hold a phone (e.g. iPhone or Android phone) but you may need to buy a dedicated <a href="https://amzn.to/2QlgXUO" rel="nofollow">adapter</a> for it.
+
+### Tripod for cameras with lots of accessories
+If you are planning to buy a tripod for your camera which holds a lot of accessories then it would be a good idea to buy a camera cage or rig which allows you to attach for example an external microphone, screen (such as the <a href="https://amzn.to/2oWdrE8" rel="nofollow">Atomos Ninja V</a>), <a href="https://amzn.to/2Nrkr9Z">video LED light</a> or <a href="https://amzn.to/2wYMLq0">USB battery pack</a>.
+
+### Tripod with remote control
+Some applications such as astrophotography or using a slider with a small motor may benefit from using a remote control (e.g. an App which is installed on your smartphone).
+
+### Tripod vs Monopod
+In some cases a tripod might be a better solution than a <a href="https://amzn.to/2N5KOmA" rel="nofollow">monopod</a> depending on the application. For example, a monopod is faster to set up and can also be used as a walking stick.
+However, a tripod gives you more stable shots and you are also able to control the camera remotely or take pictures of yourself.
+
+### My own gear
 I own a SLIK Mini Pro III and a Manfrotto BeFree . I use the SLIK when I need to count every gram e.g. when going on a long distance hike while I take the Manfrotto if I need a full featured tripod.
 
 The Manfrotto is also a good choice if you want to take selfies as you can position the camera to the right hight.
