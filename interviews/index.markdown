@@ -463,9 +463,12 @@ published: true
         <tr>
 
             <td><a href="/NRS-OutDoorShow-2017/">Expedition Duffle</a></td>
-            <td><a href="https://www.youtube.com/watch?v=PeXBQkWJIzQ&list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM&index=14">NRS Pilot Knife, Co-Pilot Knife, Ninja, Crux Dry Suite</a></td>
+            <td><a href="https://www.youtube.com/watch?v=PeXBQkWJIzQ&list=PLu8G6TXvOWDkw-FBxhm1HP3dEIBm_IkpM&index=14"> Pilot Knife, Co-Pilot Knife, Ninja, Crux Dry Suite</a></td>
+            <td><a href="http://www.hikeventures.com/NRS-OSO/">OSO and Chinook PFDs</a></td>
 
         </tr>
+
+
 
 
         <tr>
