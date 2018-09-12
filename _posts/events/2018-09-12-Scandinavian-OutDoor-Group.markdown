@@ -1,5 +1,4 @@
 ---
-published: false
 title: Scandinavian Outdoor Group Interview
 date: 2018-09-12 20:01:01
 category: articles
