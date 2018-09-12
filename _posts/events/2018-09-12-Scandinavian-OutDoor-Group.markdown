@@ -1,7 +1,7 @@
 ---
 published: false
 title: Scandinavian Outdoor Group Interview
-date: 2018-09-12 11:01:01
+date: 2018-09-12 20:01:01
 category: articles
 tags:
   - articles
@@ -16,12 +16,12 @@ layout: post
 Sofia Karlström tells us in an interview the background and the purpose of the Scandinavian Outdoor Group at the OutDoor Show in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2nsgqXODkdA"></iframe>
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ZPdQPUHk_0M"></iframe>
 </div>
 <br>
 <!--more-->
 
-Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=2nsgqXODkdA" rel="nofollow" target="_blank">YouTube</a> or subscribe to our <a rel="nofollow" target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel.
+Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=ZPdQPUHk_0M" rel="nofollow" target="_blank">YouTube</a> or subscribe to our <a rel="nofollow" target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel.
 
 ---
 
@@ -41,7 +41,7 @@ So broader Scandinavia in this case. And how did it develop? So you started with
 
 It started with the trade fairs and of course on the Scandinavian village and after that more projects have developed so all the projects where the Scandinavian brands can benefit from working together against or towards other markets they can find.
 
-We have projects where we invite retailers and press to Scandinavia to try gear and to try out real Scandinavian stuff in Scandinavia and when they go home they know everthing about brands and products when they have tried it in the right environment.
+We have projects where we invite retailers and press to Scandinavia to try gear and to try out real Scandinavian stuff in Scandinavia and when they go home they know everything about brands and products when they have tried it in the right environment.
 
 It sounds like a really good thing.
 
@@ -87,4 +87,22 @@ So you talk about the development and the future. Do you also feel that the outd
 
 Because the outdoor market in Scandinavia is very strong. I mean it's part of the national cultures.
 
-Outdoor market and outdoor in Scandinavia is definitely strong. Many organisations from different parts of Scandinavia are working to get more people out and get them out into the nature. All the brands are also part of that.
+Outdoor market and outdoor in Scandinavia is definitely strong. Many organisations from different parts of Scandinavia are working to get more people out and get them out into the nature.
+
+All the brands are also part of that.
+
+One of the things that I also noticed is this golden logo - Scandinavian Outdoor Award. What is it?
+
+We had the award evening yesterday and told everyone about the winners of this year.
+
+We had 20 brands nominated this year and the jury - we have a jury from all the big magazines and they test the products for two days. They really try it out and they really evaluate and they do it for real.
+
+And the winner this year was Morakniv and the floating knife.
+
+Really? Whow!  
+
+This is very nice. Yesterday we interviewed them. Yes, you did? This is the overall winner but we also have a sustainability winner which is OrganoTex this year.
+
+And then we have the winner in every category.
+
+You can see it all on the website. The ScandinavianOutdoorAward.com.
