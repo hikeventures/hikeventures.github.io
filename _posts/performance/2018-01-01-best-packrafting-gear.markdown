@@ -170,13 +170,6 @@ The Sweet Protection Strutter helmet is one of our favourite helmets since it is
 <br>
 The Astral V-Eight Kayaking Life Vest PFD is a nice PFD which offers lots of breathability and is lightweight too. Since it's foam is positioned on the upper part of the PFD it's also a good choice if your packraft or kayak has a seat. Moreover, it has 2 mesh pockets where you can store items such as snacks or a river pass. Moreover, you can also attach a river knife such as the <a href="https://amzn.to/2zBomeI" rel="nofollow">NRS Co-pilot knife</a>.
 
-<br><br>
-<h3><a href="https://amzn.to/2uoL8RR" rel="nofollow">Storm Alert Whistle</a></h3>
-
-<a rel="nofollow" href="https://www.amazon.com/Safety-Whistle-Weather-Survival-Extremely/dp/B001H8FJIW/ref=as_li_ss_il?s=sporting-goods&ie=UTF8&qid=1531596997&sr=1-7&keywords=whistle+emergency&linkCode=li3&tag=hikeve-20&linkId=e5fc922dbfcc328dfee30ba5a389b2bd" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001H8FJIW&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B001H8FJIW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-<br>
-When being outdoors it's important to have a whistle with you so you can alert others in an emergency situation. It creates lots of noice and may use less energy than waving with your hands etc. We also have whistles attached to our PFDs.
-
 
 <br><br>
 <h3><a href="https://amzn.to/2paFWxW" rel="nofollow">Fox 40 Sonik Blast CMG</a></h3>
