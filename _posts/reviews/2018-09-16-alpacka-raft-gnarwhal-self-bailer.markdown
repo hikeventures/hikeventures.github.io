@@ -13,7 +13,7 @@ layout: post
 image: https://farm2.staticflickr.com/1887/44650951402_d5b96fac46_b.jpg
 ---
 
-Last weekend I went to the the Liesjärvi National Park to test my new Alpacka Raft Gnarwhal self bailer which I ordered from Packraft Europe. Before I upgraded to the Gnarwhal I had the Alpacka Raft Yak for many years which I used on rivers, lakes and in the see. I am 180 cm tall and ordered the model in size L. Here is a short test / review and I will add more information to this article over the time.
+Last weekend I went to the the Liesjärvi National Park to test my new Alpacka Raft Gnarwhal self bailer which I ordered from <a href="https://packrafteurope.com">Packraft Europe</a>. Before I upgraded to the Gnarwhal I had the Alpacka Raft Yak for many years which I used on rivers, lakes and in the see. I am 180 cm tall and ordered the model in size L. Here is a short test / review and I will add more information to this article over the time.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/44650953452/in/dateposted-public/" title="Alpacka Raft Gnarwhal Selfbailer"><img src="https://farm2.staticflickr.com/1841/44650953452_8a1968c7a7_b.jpg" width="1024" height="683" alt="Alpacka Raft Gnarwhal Selfbailer"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
