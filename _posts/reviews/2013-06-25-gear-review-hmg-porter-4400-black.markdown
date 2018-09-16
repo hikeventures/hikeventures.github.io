@@ -13,7 +13,7 @@ image: https://farm2.staticflickr.com/1888/30829061118_b4df2b64cd_b.jpg
 
 Since I purchased a packraft, I needed more and more space for additional stuff needed than solely going on hiking trips. I quickly realised that my <a href="http://hikeventures.com/gear-review-laufbursche-huckepack-hp450/" target="_self">Laufbursche Huckepack</a> is going to be a bit too small for a packrafting trip. So I decided to order a Hyperlite Mountain Gear Porter 4400 a few years ago and was quite happy with it except with the size. It was again a bit small but still better than on my old backpack.
 
-I use the HMG Porter mainly for 2 activities. Hiking and Packrafting and is a short review and some pictures of the Hyperlite Mountain Gear Porter 4400 and how it compares size wise to the newer Porter 5400.
+I use the HMG Porter mainly for two activities. Hiking and Packrafting and is a short review and some pictures of the Hyperlite Mountain Gear Porter 4400 and how it compares size wise to the newer Porter 5400.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30829061118/in/dateposted-public/" title="HMG Porter 4400 and 5400"><img src="https://farm2.staticflickr.com/1888/30829061118_b4df2b64cd_b.jpg" width="1024" height="683" alt="HMG Porter 4400 and 5400"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <br>
