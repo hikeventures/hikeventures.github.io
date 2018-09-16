@@ -10,7 +10,7 @@ tags:
   - Liesjärvi
   - packrafting
 layout: post
-image: https://farm2.staticflickr.com/1860/30726461748_b6f4e7de82_b.jpg
+image: https://farm2.staticflickr.com/1887/44650951402_d5b96fac46_b.jpg
 ---
 
 Last weekend I went to the the Liesjärvi National Park to test my new Alpacka Raft Gnarwhal self bailer which I ordered from Packraft Europe. Before I upgraded to the Gnarwhal I had the Alpacka Raft Yak for many years which I used on rivers, lakes and in the see. I am 180 cm tall and ordered the model in size L. Here is a short test or review.
