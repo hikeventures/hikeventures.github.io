@@ -177,6 +177,13 @@ The Astral V-Eight Kayaking Life Vest PFD is a nice PFD which offers lots of bre
 <br>
 When being outdoors it's important to have a whistle with you so you can alert others in an emergency situation. It creates lots of noice and may use less energy than waving with your hands etc. We also have whistles attached to our PFDs.
 
+
+<br><br>
+<h3><a href="https://amzn.to/2paFWxW" rel="nofollow">Fox 40 Sonik Blast CMG</a></h3>
+The Fox 40 Sonik Blast CMG is a rescue whistle which also works in wet conditions. It is advertised as the most efficient whistle in its class. If you need an emergency whistle then this is probably the one to get.
+
+<a rel="nofollow" href="https://www.amazon.com/Fox-40-Sonik-Blast-Lanyard/dp/B004UA66FY/ref=as_li_ss_il?ie=UTF8&qid=1537122289&sr=8-4&keywords=Fox+40+Sonik+Blast+CMG&dpID=41iQVL8misL&preST=_SX300_QL70_&dpSrc=srch&th=1&linkCode=li3&tag=hikeve-20&linkId=1eec92e6d2c98e93254f3f1c39b53f0a" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004UA66FY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B004UA66FY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 <br><br>
 <h3><a href="https://amzn.to/2NRaiAQ" rel="nofollow">Astral Buoyancy YTV Life Jacket</a></h3>
 
