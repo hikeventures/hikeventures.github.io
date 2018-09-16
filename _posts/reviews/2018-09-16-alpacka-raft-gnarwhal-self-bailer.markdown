@@ -66,6 +66,6 @@ The built quality and details are also positive and it feels like a comfortable 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/44650955542/in/dateposted-public/" title="Alpacka Raft Gnarwhal Selfbailer"><img src="https://farm2.staticflickr.com/1870/44650955542_e719db188f_b.jpg" width="1024" height="683" alt="Alpacka Raft Gnarwhal Selfbailer"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-The huge zipper also allowes you to stuff your backpack in to the packraft.
+The huge zipper also allows you to stuff your backpack into the packraft.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/44650957192/in/dateposted-public/" title="Alpacka Raft Gnarwhal Selfbailer"><img src="https://farm2.staticflickr.com/1858/44650957192_3f1d9f7ed3_b.jpg" width="1024" height="683" alt="Alpacka Raft Gnarwhal Selfbailer"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
