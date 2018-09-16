@@ -24,9 +24,9 @@ After a short discussion with the HMG owner, I was offered a backpack which is m
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/43790244195/in/dateposted-public/" title="HMG Porter 4400 and 5400"><img src="https://farm2.staticflickr.com/1895/43790244195_c09c49ed53_b.jpg" width="1024" height="683" alt="HMG Porter 4400 and 5400"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Features
-Our HMG Porter 4400 is more durable than the regular Porter since we ordered it with a thicker fabric.
+Our HMG Porter 4400 is a bit more durable than the regular Porter since we ordered it with a thicker fabric. The HMG Porter 4400 is also waterproof and lightweight. It comes with YKK zippers, an emergency whistle and is comfortable to carry.
 
-The HMG Porter 4400 is also waterproof and lightweight. It comes with YKK zippers, an emergency whistle and is comfortable to carry. If you are into packrafting then it's also easy to attach a packraft on top of the HMG Porter. However, if you plan to go on a multiple day trip I would rather recommend to get the Porter 5400.
+If you are into packrafting then it's also easy to attach a packraft on top of the HMG Porter. However, if you plan to go on a multiple day trip or if you want to carry a dry suite I would rather recommend to get the Porter 5400.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9183618679" ><img src="https://farm4.staticflickr.com/3685/9183618679_a9993d4690_b.jpg" width="1024" height="717" alt="Hyperlite Mountain Gear HMG Porter 4400 black"></a>
 
