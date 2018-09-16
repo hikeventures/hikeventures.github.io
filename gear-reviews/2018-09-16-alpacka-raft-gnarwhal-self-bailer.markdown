@@ -1,8 +1,7 @@
 ---
-published: false
 title: Alpacka Raft Gnarwhal self bailer Test and Review
-description: Testing the Alpacka Raft Gnarwhal Selfbailer
-date: 2018-09-16 18:14:01
+description: Testing the Alpacka Raft Gnarwhal self bailer
+date: 2018-09-16 12:14:01
 category: destinations
 tags:
   - articles
@@ -14,7 +13,7 @@ layout: post
 image: https://farm2.staticflickr.com/1860/30726461748_b6f4e7de82_b.jpg
 ---
 
-Last weekend I went to the the Liesjärvi National Park to test my new Alpacka Raft Gnarwhal self bailer which I ordered from Packraft Europe. Before I upgraded to the Gnarwhal I had the Alpacka Raft Yak for many years which I used on rivers, lakes and in the see. Here is a short test or review.
+Last weekend I went to the the Liesjärvi National Park to test my new Alpacka Raft Gnarwhal self bailer which I ordered from Packraft Europe. Before I upgraded to the Gnarwhal I had the Alpacka Raft Yak for many years which I used on rivers, lakes and in the see. I am 180 cm tall and ordered the model in size L. Here is a short test or review.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/44650953452/in/dateposted-public/" title="Alpacka Raft Gnarwhal Selfbailer"><img src="https://farm2.staticflickr.com/1841/44650953452_8a1968c7a7_b.jpg" width="1024" height="683" alt="Alpacka Raft Gnarwhal Selfbailer"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
