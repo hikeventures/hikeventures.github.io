@@ -46,13 +46,13 @@ I also ordered the adventure bow bag, however I didn't receive it yet so I am no
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/43981477014/in/dateposted-public/" title="Alpacka Raft Gnarwhal Selfbailer"><img src="https://farm2.staticflickr.com/1850/43981477014_d9fdc805c2_b.jpg" width="1024" height="683" alt="Alpacka Raft Gnarwhal Selfbailer"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Gear such as whistle, knife or first aid kid is probably better of on your PFD.
+Gear such as whistle, knife or first aid kid is probably better off on your PFD
 
 The new seating system also felt more comfortable especially at the back. The footrest on the front also added to additional comfort.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/44698979911/in/dateposted-public/" title="Alpacka Raft Gnarwhal Selfbailer"><img src="https://farm2.staticflickr.com/1861/44698979911_5363242cfa_b.jpg" width="1024" height="683" alt="Alpacka Raft Gnarwhal Selfbailer"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Inflating the bag was straightforward as usual. However, there is no separate valve anymore to be used with your mouse. There is only one opening which is used for the inflation bag and your mouth to get air into the packraft.
+Inflating the bag was straightforward as usual. However, there is no separate valve anymore to be used with your mouth. There is only one opening which is used for the inflation bag and your mouth to get air into the packraft.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/42889768990/in/dateposted-public/" title="Alpacka Raft Gnarwhal Selfbailer"><img src="https://farm2.staticflickr.com/1894/42889768990_598c5dd673_b.jpg" width="1024" height="683" alt="Alpacka Raft Gnarwhal Selfbailer"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
