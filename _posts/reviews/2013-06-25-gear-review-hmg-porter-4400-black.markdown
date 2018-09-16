@@ -1,6 +1,6 @@
 ---
-title: Hyperlite Mountain Gear Porter 4400 Black Review
-description: Our review of the Hyperlite Mountain Gear Porter 4400 black
+title: Hyperlite Mountain Gear Porter 5400 white and 4400 Black Review
+description: Our review of the Hyperlite Mountain Gear Porter 4400 black and 5400 white
 date: 2013-06-25 07:30:00
 category: reviews
 tags:
@@ -8,29 +8,45 @@ tags:
   - hmg
   - bags
 layout: post
-image: https://farm8.staticflickr.com/7392/9185837748_10b63a2e5d_b.jpg
+image: https://farm2.staticflickr.com/1888/30829061118_b4df2b64cd_b.jpg
 ---
 
-Since I recently purchased a packraft, I realized quickly that my <a href="http://hikeventures.com/gear-review-laufbursche-huckepack-hp450/" target="_self">Laufbursche Huckepack</a>  is going to be a bit small for a multi-day packrafting trip. So I decided to order a Hyperlite Mountain Gear Porter 4400. I have used the Porter for a couple of years and I am quite happy with it as I can use it as an ultralight backpack for hiking, backpacking, packrafting and other backcountry trips. Here is a short review and some pictures of the Hyperlite Mountain Gear Porter 4400.
+Since I purchased a packraft, I needed more and more space for additional stuff needed than solely going on hiking trips. I quickly realised that my <a href="http://hikeventures.com/gear-review-laufbursche-huckepack-hp450/" target="_self">Laufbursche Huckepack</a> is going to be a bit too small for a packrafting trip. So I decided to order a Hyperlite Mountain Gear Porter 4400 a few years ago and was quite happy with it except with the size. It was again a bit small but still better than on my old backpack.
 
-<img src="https://farm8.staticflickr.com/7392/9185837748_10b63a2e5d_b.jpg"  width="1024" width="661" alt="HMG Porter 4400">
+I use the HMG Porter mainly for 2 activities. Hiking and Packrafting and is a short review and some pictures of the Hyperlite Mountain Gear Porter 4400 and how it compares size wise to the newer Porter 5400.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30829061118/in/dateposted-public/" title="HMG Porter 4400 and 5400"><img src="https://farm2.staticflickr.com/1888/30829061118_b4df2b64cd_b.jpg" width="1024" height="683" alt="HMG Porter 4400 and 5400"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <br>
 <!--more-->
 
 After a short discussion with the HMG owner, I was offered a backpack which is made of 150 denier nylon instead of the 50 denier nylon which comes with the regular backpack. Even so the pack is slightly heavier, it should be more durable than the lighter version. Below the pictures of HMG Porter 4400 black incl. the Porter Stuff Pocket.
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/43790244195/in/dateposted-public/" title="HMG Porter 4400 and 5400"><img src="https://farm2.staticflickr.com/1895/43790244195_c09c49ed53_b.jpg" width="1024" height="683" alt="HMG Porter 4400 and 5400"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## Features
-The HMG Porter 4400 is more durable than the regular porter. The HMG Porter 4400 is also waterproof and lightweight. It comes with YKK zippers, an emergency whistle and is comfortable to carry. If you are into packrafting then it's also easy to attach a packraft on top of the HMG Porter.
+Our HMG Porter 4400 is more durable than the regular Porter since we ordered it with a thicker fabric.
+
+The HMG Porter 4400 is also waterproof and lightweight. It comes with YKK zippers, an emergency whistle and is comfortable to carry. If you are into packrafting then it's also easy to attach a packraft on top of the HMG Porter. However, if you plan to go on a multiple day trip I would rather recommend to get the Porter 5400.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9183618679" ><img src="https://farm4.staticflickr.com/3685/9183618679_a9993d4690_b.jpg" width="1024" height="717" alt="Hyperlite Mountain Gear HMG Porter 4400 black"></a>
 
+I have used the Porter 4400 within the last years and even so I really liked the bag I always had the feeling that there is not enough space in it. If you are into packrafting you could probably increase your carrying capacity by buying an adventure bow bag for your packraft which you carry in front of you while you are hiking.
+
 <a href="https://www.flickr.com/photos/90204224@N07/9183617521" ><img src="https://farm6.staticflickr.com/5537/9183617521_095a023075_b.jpg" width="1024" height="683" alt="Hyperlite Mountain Gear HMG Porter 4400 black"></a>
+
+The fabric itself feels quite durable. However, after 5 years I am still able to use my HMG Porter 4400. Of course, it has gotten some holes but as a carrying system it still works. Usually, I also pack everything what I carry in my Porter and which needs to stay dry in an additional dry bag.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9185834000" ><img src="https://farm3.staticflickr.com/2831/9185834000_86c66cb807_b.jpg" width="683" height="1024" alt="Hyperlite Mountain Gear HMG Porter 4400 black"></a>
 
+Let's talk about colors. I am not such a fan of the white color. Maybe it looks good on pictures but in the long term the white color will become more greyish and with black you will probably have a backpack which colorwise still looks good even after years.
+
 <a href="https://www.flickr.com/photos/90204224@N07/9133567925" ><img src="https://farm4.staticflickr.com/3814/9133567925_8da7b2e942_b.jpg" width="1024" height="456" alt="Hyperlite Mountain Gear HMG Porter 4400 black"></a>
 
+The HMG Porter 4400 has a small zipper bag inside. Usually, I have stored important items there which needed to stay dry e.g. passport, keys or money. The pockets on the hipbelt are also useful however, they don't keep your stuff dry. Usually, I used them to store snacks or my phone in it when I am on the trail and not on the river.
+
 <a href="https://www.flickr.com/photos/90204224@N07/9183613757" ><img src="https://farm3.staticflickr.com/2864/9183613757_e653c4d3f1_b.jpg" width="668" height="1024" alt="Hyperlite Mountain Gear HMG Porter 4400 black"></a>
+
+You like to attach things on your backpack. Great. There are plenty of attachment points on the Porter 4400 and 5400. Personally, I would also recommend to get the stuff bag for the Porter. Usually, I carry there my water bottle or paddles in it. But it's also a quite useful place to carry your rain jacket with you.
 
 <a href="https://www.flickr.com/photos/90204224@N07/9183612657" ><img src="https://farm6.staticflickr.com/5323/9183612657_26d92a22ae_b.jpg" width="701" height="1024" alt="Hyperlite Mountain Gear HMG Porter 4400 black"></a>
 
