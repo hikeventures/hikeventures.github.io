@@ -58,7 +58,7 @@ Inflating the bag was straightforward as usual. However, there is no separate va
 
 ## Conclusion
 
-My first impressions about the Alpacka Gnarwhal are positive. I like it already much more than my Yak. Also the possibility to add gear inside the raft improves your visibility and stability on the river compared of having a backpack in front of you.
+My first impressions about the Alpacka Gnarwhal are positive. I like it already much more than my Yak. Also the possibility to add gear inside the raft improves your visibility and stability on the river compared to having a backpack in front of you.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/42889766540/in/dateposted-public/" title="Alpacka Raft Gnarwhal Selfbailer"><img src="https://farm2.staticflickr.com/1891/42889766540_05d83eb52d_b.jpg" width="1024" height="683" alt="Alpacka Raft Gnarwhal Selfbailer"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
