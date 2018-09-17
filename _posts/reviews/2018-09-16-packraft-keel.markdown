@@ -19,6 +19,8 @@ Here is a short video about the Alpacka Raft Gnarwhal and an attached Keel or Sk
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jJ2Poh1RvvA"></iframe>
 </div>
 <br>
+Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=jJ2Poh1RvvA" rel="nofollow" target="_blank">YouTube</a> or subscribe to our <a rel="nofollow" target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel.
+<br>
 <!--more-->
 
 Our Keel while packrafting in Russia.
