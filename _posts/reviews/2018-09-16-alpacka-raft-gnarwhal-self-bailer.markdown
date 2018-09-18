@@ -20,6 +20,11 @@ Last weekend I went to the the Liesjärvi National Park to test my new Alpacka R
 <br>
 <!--more-->
 
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YRJWznmeRFo"></iframe>
+</div>
+<br>
+
 ## Reasons for upgrading to a Gnarwhal
 
 * Cargo Fly
