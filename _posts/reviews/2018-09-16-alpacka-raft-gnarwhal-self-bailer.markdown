@@ -24,6 +24,8 @@ Last weekend I went to the the Liesjärvi National Park to test my new Alpacka R
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YRJWznmeRFo"></iframe>
 </div>
 <br>
+Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=YRJWznmeRFo" rel="nofollow" target="_blank">YouTube</a> or subscribe to our <a rel="nofollow" target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel.
+<br>
 
 ## Reasons for upgrading to a Gnarwhal
 
