@@ -84,29 +84,29 @@ The Suunto Ambit3 Vertical gives you a summary of your vertical gains and also d
 
 <h3>Suunto Smart Belt</h3>
 
-You can link a <a href="https://www.amazon.com/gp/product/B00LVNEDDU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LVNEDDU&linkCode=as2&tag=hikeve-20&linkId=4a84a24f1bb726b645aa94750720818e" rel="nofollow" target="_blank">heart rate monitor</a> to your Suunto watch.
+You can link a <a href="https://www.amazon.com/gp/product/B00LVNEDDU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LVNEDDU&linkCode=as2&tag=hikeve-20&linkId=4a84a24f1bb726b645aa94750720818e"  target="_blank">heart rate monitor</a> to your Suunto watch.
 
 <br>
 
 <h3>Traverse Screen Protector</h3>
 
-Screen protectors do not only exist for mobile phones. You can also protect your Suunto watch with a <a href="http://amzn.to/28OSNim" rel="nofollow" target="_blank">screen protector</a>.
+Screen protectors do not only exist for mobile phones. You can also protect your Suunto watch with a <a href="http://amzn.to/28OSNim"  target="_blank">screen protector</a>.
 
 <br>
 
 <h3>EasyAcc Rugged Outdoor Power Bank (IP67 Waterproof / 20000mAh)</h3>
 
-On longer trips, it’s quite convenient to have a <a href="http://amzn.to/28V8l3t" rel="nofollow" target="_blank">power bank</a> with you. Usually, I charge my Suunto watch every day if I am on a backpacking trip.
+On longer trips, it’s quite convenient to have a <a href="http://amzn.to/28V8l3t"  target="_blank">power bank</a> with you. Usually, I charge my Suunto watch every day if I am on a backpacking trip.
 
 <br>
 
 <h3>Suunto Wristop Computer Bike Adaptor</h3>
 
-On longer bicycle trips it might be quite convenient to have the Suunto watch attached on the <a href="http://amzn.to/28V6hrU" rel="nofollow" target="_blank">Suunto Wristop Computer Bike Adaptor</a> to keep track of your performance.
+On longer bicycle trips it might be quite convenient to have the Suunto watch attached on the <a href="http://amzn.to/28V6hrU"  target="_blank">Suunto Wristop Computer Bike Adaptor</a> to keep track of your performance.
 
 <h3>Quad Lock Bike Mount Kit for iPhone 6/6S PLUS</h3>
 
-If you have an iPhone, you could also get a <a href="https://www.amazon.com/gp/product/B00X3LNYG0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X3LNYG0&linkCode=as2&tag=hikeve-20&linkId=8750a11f14e8d1f1bdb09f35a6b933a2" rel="nofollow" target="_blank">Quad Lock Bike Mount Kit</a> and attach it next to the Suunto Wristop Computer Bike Adaptor.
+If you have an iPhone, you could also get a <a href="https://www.amazon.com/gp/product/B00X3LNYG0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00X3LNYG0&linkCode=as2&tag=hikeve-20&linkId=8750a11f14e8d1f1bdb09f35a6b933a2"  target="_blank">Quad Lock Bike Mount Kit</a> and attach it next to the Suunto Wristop Computer Bike Adaptor.
 
 It’s quite handy to have your iPhone in front of you when you are on tour. You can quickly check maps, use the iPhone as a second screen for your Ambit watch (to display, e.g., speed or distance) or just to listen to the radio.
 

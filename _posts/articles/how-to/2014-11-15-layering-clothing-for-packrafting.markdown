@@ -53,7 +53,7 @@ avPcwShowInlineFromSearch('pcwContent2', 'Smartwool PhD Outdoor Ultralight Mini 
 Currently, I am wearing neoprene dry gloves when it's very cold e.g. <a href="http://www.palmequipmenteurope.com/product/pro" rel="nofollow" target="_blank">Palm Pro Gloves</a>.
 
 ### Latex Socks and Sandals
-The <a href="http://www.packrafting-store.de/Clothing/Latex-socks::380.html" rel="nofollow" target="_blank">Latex Socks</a> work quite well for us. They are also sealing nicely if used together with a dry suite. Highly recommended. Use them together with the <a href="http://amzn.to/1q3n3KJ" rel="nofollow" target="_blank">Teva Sandals</a>.
+The <a href="http://www.packrafting-store.de/Clothing/Latex-socks::380.html" rel="nofollow" target="_blank">Latex Socks</a> work quite well for us. They are also sealing nicely if used together with a dry suite. Highly recommended. Use them together with the <a href="http://amzn.to/1q3n3KJ" target="_blank">Teva Sandals</a>.
 
 ---
 
@@ -67,4 +67,4 @@ A dry suite is the most expensive item in our Clothing Layering System. The <a h
 
 ---
 
-It's also a good idea to have specific clothes for the summer like the <a href="http://amzn.to/2dI0XrJ" rel="nofollow" target="_blank">Icebreaker Cool-Lite Sphere T-Shirt</a> or the <a href="http://amzn.to/2f6c0AW" rel="nofollow" target="_blank">Astral Designs V-Eight PFD</a>.
+It's also a good idea to have specific clothes for the summer like the <a href="http://amzn.to/2dI0XrJ" rel="nofollow" target="_blank">Icebreaker Cool-Lite Sphere T-Shirt</a> or the <a href="http://amzn.to/2f6c0AW"  target="_blank">Astral Designs V-Eight PFD</a>.

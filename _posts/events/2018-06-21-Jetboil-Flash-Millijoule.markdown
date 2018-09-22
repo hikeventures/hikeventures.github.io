@@ -19,7 +19,7 @@ Paul Johnson from Jetboil showed us some of their new highlights such as the Fla
 </div>
 <br>
 
-Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=f2vcnyJ1naQ&t=76s" rel="nofollow" target="_blank">YouTube</a>, subscribe to our <a target="_blank" rel="nofollow" href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see this product on <a href="https://amzn.to/2MKhRZA" rel="nofollow" target="_blank">Amazon</a>.
+Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=f2vcnyJ1naQ&t=76s"  target="_blank">YouTube</a>, subscribe to our <a target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see this product on <a href="https://amzn.to/2MKhRZA"  target="_blank">Amazon</a>.
 
 <!--more-->
 
@@ -27,9 +27,9 @@ Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=f2vcnyJ1naQ&t=
 
 ## Jetboil Flash
 
-We just launched our <a rel="nofollow" href="https://amzn.to/2MKhRZA">Flash</a> and our Flash unit has been an iconic SKU for us for the past ten years or so.
+We just launched our <a  href="https://amzn.to/2MKhRZA">Flash</a> and our Flash unit has been an iconic SKU for us for the past ten years or so.
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B07939L7Q7/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07939L7Q7&linkCode=as2&tag=hikeve-20&linkId=a0e4a9654f4c7d339c9b48a237afcbfc"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B07939L7Q7&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B07939L7Q7" width="1" height="1" border="0" alt="Jetboil Flash" style="border:none !important; margin:0px !important;" />
+<a  target="_blank"  href="https://www.amazon.com/gp/product/B07939L7Q7/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07939L7Q7&linkCode=as2&tag=hikeve-20&linkId=a0e4a9654f4c7d339c9b48a237afcbfc"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B07939L7Q7&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B07939L7Q7" width="1" height="1" border="0" alt="Jetboil Flash" style="border:none !important; margin:0px !important;" />
 
 Is it is as everybody sees now this is our classic unit with the one liter cup.
 
@@ -56,9 +56,9 @@ So that's our new flash we've got this in four different colors for 2018.
 
 ## Jetboil Millijoule
 
-We'll move on to the next new product is our <a rel="nofollow" href="https://amzn.to/2tg1Zpf">Milljoule</a> and this is really kind of a higher altitude group cooking system and again in classic chip well style everything nests right in there it comes with our flux ring built in on the bottom of this.
+We'll move on to the next new product is our <a  href="https://amzn.to/2tg1Zpf">Milljoule</a> and this is really kind of a higher altitude group cooking system and again in classic chip well style everything nests right in there it comes with our flux ring built in on the bottom of this.
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B0797NKLQW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0797NKLQW&linkCode=as2&tag=hikeve-20&linkId=857f401b639f207c884a2ac206a33df1"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0797NKLQW&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0797NKLQW" width="1" height="1" border="0" alt="Jetboil Millijoule" style="border:none !important; margin:0px !important;" />
+<a  target="_blank"  href="https://www.amazon.com/gp/product/B0797NKLQW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0797NKLQW&linkCode=as2&tag=hikeve-20&linkId=857f401b639f207c884a2ac206a33df1"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0797NKLQW&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0797NKLQW" width="1" height="1" border="0" alt="Jetboil Millijoule" style="border:none !important; margin:0px !important;" />
 
 Again helping for that quick burn time but again all the technology really is in this burner unit itself which is really hot designed for that higher altitude lower temperature we're in.
 
@@ -74,7 +74,7 @@ This is the minimo here and what's neat about this is you have this what you see
 
 The sound is decreasing right so now it's it's got a nice simmer on that so you can not burn you don't burn anything it's a nice nice cooking experience.
 
-So those are our our Jetboil. So you got our Zip Flash which is non regulated those are our core staple items good boiling water backpacking our Mo family, <a rel="noflollow" href="https://amzn.to/2I7ac3H">micromo</a>, <a rel="nofollow" href="https://amzn.to/2Mcqawb">mightymo</a>, <a href="https://amzn.to/2MIlcrK">sumo</a>, <a rel="nofollow" href="https://amzn.to/2MbEHIp">minimo</a>.
+So those are our our Jetboil. So you got our Zip Flash which is non regulated those are our core staple items good boiling water backpacking our Mo family, <a rel="noflollow" href="https://amzn.to/2I7ac3H">micromo</a>, <a  href="https://amzn.to/2Mcqawb">mightymo</a>, <a href="https://amzn.to/2MIlcrK">sumo</a>, <a  href="https://amzn.to/2MbEHIp">minimo</a>.
 
 You can cook and pack out and then you got our joule, millijoule and regular joule for the higher altitude group food.
 

@@ -64,7 +64,7 @@ In our packrafting trips directory you can find packrafting trip ideas from othe
 [Lake District National Park][20] - 2 days / class 1 - Two days of paddling and wild camping in the sunshine. About as far removed from whitewater as you can get though bonus points should be awarded for having a nap on buttermere.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-> Our packrafting trip in the Sarek National Park in Sweden. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
+> Our packrafting trip in the Sarek National Park in Sweden. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" >Subscribe</a> to our YouTube channel.
 
 [2]:	http://www.hikeventures.com/Packrafting-in-Belgium/
 [3]:	http://urbanpackrafter.com/filter/copenhagen "http://urbanpa...er/copenhagen"

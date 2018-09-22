@@ -59,7 +59,7 @@ We have tested the Anker Astro E5 on our trips in Sweden and Finland and we are 
 
 **Update**: The Anker PowerCore 20100 is a new model which offers more capacity than the Astro E5.
 
-<a href="http://amzn.to/2smA5ZN" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://amzn.to/2smA5ZN" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ## Alternatives
 
@@ -67,18 +67,18 @@ There are a few alternative USB Power banks available which I would like to ment
 
 ## Anker Power House
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B0196GQAKM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0196GQAKM&linkCode=as2&tag=hikeve-20&linkId=6a7dbd3c1c182ae6d69ddb2487f53a53"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0196GQAKM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0196GQAKM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  target="_blank"  href="https://www.amazon.com/gp/product/B0196GQAKM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0196GQAKM&linkCode=as2&tag=hikeve-20&linkId=6a7dbd3c1c182ae6d69ddb2487f53a53"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B0196GQAKM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B0196GQAKM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 If you need the ultimate power bank in your camp then you should probably have a look at the Anker Power House.
 
 It offers a capacity of 120.000 mAh and can be connected to your car to recharge it.
 
-<a href="http://amzn.to/2s5mAgz" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://amzn.to/2s5mAgz" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 ## EasyAcc 20000mAh
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01B73I5ZU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01B73I5ZU&linkCode=as2&tag=hikeve-20&linkId=4c1b22c79518e5265ebdca13e1c2051b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01B73I5ZU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01B73I5ZU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  target="_blank"  href="https://www.amazon.com/gp/product/B01B73I5ZU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01B73I5ZU&linkCode=as2&tag=hikeve-20&linkId=4c1b22c79518e5265ebdca13e1c2051b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01B73I5ZU&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01B73I5ZU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 If you are looking for a waterproof alternative to the Anker Power Bank then you could have a look at the EasyAcc 20000 mAh, a rugged outdoor power bank which is IP67 waterproof.
 
-<a href="http://amzn.to/2s5dakZ" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://amzn.to/2s5dakZ" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>

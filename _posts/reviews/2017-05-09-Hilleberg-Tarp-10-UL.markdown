@@ -13,7 +13,7 @@ tags:
 image: https://c1.staticflickr.com/5/4188/33643566884_98342defcd_k.jpg
 ---
 
-Recently, I received my new Hilleberg Tarp 10 UL together with my <a href="http://amzn.to/2qNRTZk" rel="nofollow">Hilleberg Unna Tent</a> and the <a href="http://amzn.to/2pRlpxL" rel="nofollow">Hilleberg Unna Inner Mesh</a> tent. The idea was to use the the Tarp 10 UL together with the Unna Inner Mesh tent during the warmer months to get better air ventilation within the Inner Mesh Tent rather than using the original Unna outer tent.
+Recently, I received my new Hilleberg Tarp 10 UL together with my <a href="http://amzn.to/2qNRTZk" >Hilleberg Unna Tent</a> and the <a href="http://amzn.to/2pRlpxL" >Hilleberg Unna Inner Mesh</a> tent. The idea was to use the the Tarp 10 UL together with the Unna Inner Mesh tent during the warmer months to get better air ventilation within the Inner Mesh Tent rather than using the original Unna outer tent.
 
 
 <img src="https://c1.staticflickr.com/5/4188/33643566884_98342defcd_k.jpg" width="2048" height="1367" alt="Hilleberg Tarp 10 UL" ><br>
@@ -47,4 +47,4 @@ The stuff bag of the Hilleberg Tarp 10 UL is sewed on the Tarp itself.
 
 The attachment points on the tarp with 3 mm guy lines.
 
-You can get the Hilleberg Tarp 10 UL on <a href="http://amzn.to/2uYouyG" target="_blank" rel="nofollow">Amazon</a>.
+You can get the Hilleberg Tarp 10 UL on <a href="http://amzn.to/2uYouyG" target="_blank" >Amazon</a>.

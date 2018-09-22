@@ -24,9 +24,9 @@ Both watches - the Suunto Spartan HR and the Apple Watch 2 are water resistant. 
 <div class="table-responsive">
   <table class="table">
 <tr><td>
-<b>Update 26.01.2017:</b> Garmin has released the <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F121191%2Fgarmin-fenix-5x-sapphire-multisport-gps-heart-rate-monitor-watch" rel="nofollow" target="_blank">Fenix 5X</a>. Compared to the Suunto Spartan you can also upload topo maps which might be a great features for hikers and backpackers.
+<b>Update 26.01.2017:</b> Garmin has released the <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F121191%2Fgarmin-fenix-5x-sapphire-multisport-gps-heart-rate-monitor-watch"  target="_blank">Fenix 5X</a>. Compared to the Suunto Spartan you can also upload topo maps which might be a great features for hikers and backpackers.
 </td><td>
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01MQX3306/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MQX3306&linkCode=as2&tag=hikeve-20&linkId=4177130ddbf2302b934737f55f478f18"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MQX3306&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MQX3306" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  target="_blank"  href="https://www.amazon.com/gp/product/B01MQX3306/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MQX3306&linkCode=as2&tag=hikeve-20&linkId=4177130ddbf2302b934737f55f478f18"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MQX3306&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MQX3306" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 </td></tr>
 </table>
 </div>
@@ -53,10 +53,10 @@ If you are just into running, then the Apple Watch Nike+ sounds like an excellen
 
 ## Conclusion
 
-If you are into multisport or any activity which lasts several hours then I would probably get the <a href="http://amzn.to/2pkGVh8" rel="nofollow" target="_blank">Suunto Spartan HR</a>.
+If you are into multisport or any activity which lasts several hours then I would probably get the <a href="http://amzn.to/2pkGVh8"  target="_blank">Suunto Spartan HR</a>.
 
 If you only go running then, the Apple Watch Nike+ is probably a better option.
 
 If you are an iPhone user then the Apple Watch Series 2 is obviously a better choice if you don't plan activities which last several hours.
 
-However, I need to see how long the <a href="http://amzn.to/2pKb4Gt" target="_blank" rel="nofollow">Apple Watch Series 2</a> might work with GPS switched on, as I have not tested the watch yet.
+However, I need to see how long the <a href="http://amzn.to/2pKb4Gt" target="_blank" >Apple Watch Series 2</a> might work with GPS switched on, as I have not tested the watch yet.

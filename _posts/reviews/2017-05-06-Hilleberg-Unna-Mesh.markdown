@@ -24,7 +24,7 @@ Sleeping in the Hilleberg Inner Mesh Tent is almost as sleeping directly under t
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/34325813342/in/dateposted-public/" title="Hilleberg Unna"><img src="https://c1.staticflickr.com/5/4169/34325813342_f55a7f72a2_k.jpg" width="2048" height="1367"  alt="Hilleberg Unna"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-In fact, I will probably always sleep in the mesh inner tent in the future if the weather allows it. If the weather forecast predicts slight rain then I may also use the <a href="http://amzn.to/2qNZ6Zp" rel="nofollow">Hilleberg Tarp 10 UL</a> in combination with my Unna Inner Mesh tent. Personally, I decided to get a red Unna Tent and a green tarp.
+In fact, I will probably always sleep in the mesh inner tent in the future if the weather allows it. If the weather forecast predicts slight rain then I may also use the <a href="http://amzn.to/2qNZ6Zp" >Hilleberg Tarp 10 UL</a> in combination with my Unna Inner Mesh tent. Personally, I decided to get a red Unna Tent and a green tarp.
 
 Why a red tent? I think it looks much better on pictures and the light within the tent is much brighter and this may also affect your mood especially if you are hiking a couple of days in grey weather.
 

@@ -12,7 +12,7 @@ tags:
 layout: post
 ---
 
-Dennis Becker from Morakniv showed us their new <a href="https://amzn.to/2ts5Foh" rel="nofollow">Garberg Black Carbon</a> and Floating Rope Knife at the OutDoor Show in Friedrichshafen.
+Dennis Becker from Morakniv showed us their new <a href="https://amzn.to/2ts5Foh" >Garberg Black Carbon</a> and Floating Rope Knife at the OutDoor Show in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VTfIMzGMBKY"></iframe>
@@ -20,7 +20,7 @@ Dennis Becker from Morakniv showed us their new <a href="https://amzn.to/2ts5Foh
 <br>
 <!--more-->
 
-Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=VTfIMzGMBKY&t=7s" target="_blank" rel="nofollow">YouTube</a>, subscribe to our <a rel="nofollow" target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see this product on <a href="https://amzn.to/2MKVja0" rel="nofollow" target="_blank">Amazon</a>.
+Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=VTfIMzGMBKY&t=7s" target="_blank" >YouTube</a>, subscribe to our <a  target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see this product on <a href="https://amzn.to/2MKVja0"  target="_blank">Amazon</a>.
 
 ---
 
@@ -106,7 +106,7 @@ to cut something a little bit stronger
 
 I use a companion Then in this outdoor business we had this year launched a little bit beginning of the year and shock-jock one of I know some people who love it
 
-Overall it's our Garberg, our <a rel="nofollow" href="https://amzn.to/2ts5Foh">Garberg Black Carbon</a>.
+Overall it's our Garberg, our <a  href="https://amzn.to/2ts5Foh">Garberg Black Carbon</a>.
 
 ---
 

@@ -38,7 +38,7 @@ We would say that the quality of the boots is quite good. However, Konstantin ha
 The grip of the Vibram Curcuma sole on snow is quite good. However, when walking on ice you have to be careful as it might be quite slippery. It's probably a good idea to get an additional pair of spikes if you have to walk over longer stretches of ice or just wear snow shoes.
 
 ## Comfortability
-The boots are very comfortable to wear. We were wearing just one pair of socks (<a href="http://amzn.to/2jz344h" rel="nofollow" target="_blank">Icebreaker Hike+ Medium</a>) during our trips since the inner boot kept the feet quite warm.
+The boots are very comfortable to wear. We were wearing just one pair of socks (<a href="http://amzn.to/2jz344h"  target="_blank">Icebreaker Hike+ Medium</a>) during our trips since the inner boot kept the feet quite warm.
 
 ## Waterproofness
 We never had we socks when wearing those boots on our winter trip. On one occasion I got a bit snow into my boots but this was caused because I didn't pull my pants properly over the boots.

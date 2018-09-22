@@ -42,22 +42,22 @@ If you are searching for a screen protector for the Sony a6500 then you can also
 
         <tbody>
         <tr>
-          <td><a href="http://amzn.to/2hIvGu4" target="_blank" rel="nofollow">Expert Shield - THE Crystal Clear Screen Protector</a></td><td>Sony A7III,  A7RII,  A7SII, A9</td>
+          <td><a href="http://amzn.to/2hIvGu4" target="_blank" >Expert Shield - THE Crystal Clear Screen Protector</a></td><td>Sony A7III,  A7RII,  A7SII, A9</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2iFNEMb" target="_blank" rel="nofollow">Sony PCKLM16 Digital Camera Screen Protector Foils</a></td><td>Sony A7III,  A7RII,  A7SII, A9</td>
+          <td><a href="http://amzn.to/2iFNEMb" target="_blank" >Sony PCKLM16 Digital Camera Screen Protector Foils</a></td><td>Sony A7III,  A7RII,  A7SII, A9</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2hIvPh6" target="_blank" rel="nofollow">Afunta Protective Screen Guard</a></td><td>Sony A7III,  A7RII,  A7SII, A9</td>
+          <td><a href="http://amzn.to/2hIvPh6" target="_blank" >Afunta Protective Screen Guard</a></td><td>Sony A7III,  A7RII,  A7SII, A9</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2hIn08C" target="_blank" rel="nofollow">Expert Shield - THE Screen Protector</a></td><td>Sony a6000, a6300 and a6500</td>
+          <td><a href="http://amzn.to/2hIn08C" target="_blank" >Expert Shield - THE Screen Protector</a></td><td>Sony a6000, a6300 and a6500</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2inkT6M" target="_blank" rel="nofollow">Sony PCKLM17 Screen Protect Semi-Hard Sheet</a></td><td>Sony a6000, a6300 and a6500</td>
+          <td><a href="http://amzn.to/2inkT6M" target="_blank" >Sony PCKLM17 Screen Protect Semi-Hard Sheet</a></td><td>Sony a6000, a6300 and a6500</td>
           </tr>
           <tr>
-          <td><a href="http://amzn.to/2iI5RMm" target="_blank" rel="nofollow">Afunta Screen Protector for Sony</a></td><td>Sony a6000, a6300 and a6500</td>
+          <td><a href="http://amzn.to/2iI5RMm" target="_blank" >Afunta Screen Protector for Sony</a></td><td>Sony a6000, a6300 and a6500</td>
           </tr>
         </tbody>
 

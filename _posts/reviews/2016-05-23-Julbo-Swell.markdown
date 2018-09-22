@@ -30,7 +30,7 @@ Alternatives to the Julbo Swell which I would have considered as packrafting sun
 
 ---
 
-<a data-flickr-embed="true"  href="http://amzn.to/2eAfBDL" rel="nofollow" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7213/26873718832_c77a751c32_b.jpg" width="100%" alt="Wearing a Julbo Swell in Sweden"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="http://amzn.to/2eAfBDL"  title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7213/26873718832_c77a751c32_b.jpg" width="100%" alt="Wearing a Julbo Swell in Sweden"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The Julbo Swell features also a fresh and stylish design.
 
@@ -45,7 +45,7 @@ The Julbo Swell is made from ultralight material to ensure that it floats on the
 
 ---
 
-<a data-flickr-embed="true"  href="http://amzn.to/2eAfBDL" rel="nofollow" title="Packrafting in Eastern Poland with a Julbo Swell"><img src="https://c2.staticflickr.com/8/7491/27146234641_532b1b2529_b.jpg" width="100%" alt="Packrafting in Eastern Poland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="http://amzn.to/2eAfBDL"  title="Packrafting in Eastern Poland with a Julbo Swell"><img src="https://c2.staticflickr.com/8/7491/27146234641_532b1b2529_b.jpg" width="100%" alt="Packrafting in Eastern Poland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Konstantin wearing the Julbo Swell while packrafting in Poland.
 
@@ -57,14 +57,14 @@ The wrap-around + style which was featured also promised to be true. I hardly ha
 
 The Octopus lenses were also new to me and this lens feature was also quite useful especially when you paddle from a brighter spot on the river to a more shadowy place. The lens automatically adjusts the amount of light (photochromic) it let's through depending on the light which reaches the lens. The Octopus lens is also a water-repellent and polarizing lens especially developed for all water sports which were also useful while paddling on the river and my glasses were cleaner during the packrafting trip than with regular lenses.
 
-<a data-flickr-embed="true"  href="http://amzn.to/2eAfBDL" rel="nofollow" title="Swamp in Poland"><img src="https://c7.staticflickr.com/8/7422/26649754174_b9e960bb27_b.jpg" width="664" height="1000" alt="In a swamp in Poland with a Julbo Swell"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="http://amzn.to/2eAfBDL"  title="Swamp in Poland"><img src="https://c7.staticflickr.com/8/7422/26649754174_b9e960bb27_b.jpg" width="664" height="1000" alt="In a swamp in Poland with a Julbo Swell"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The Julbo Swell is also great for hiking or backpacking. In the picture above you can see Konstantin walking in a swamp in Poland wearing the Julbo Swell.
 
 
 ---
 
-<a data-flickr-embed="true"  href="http://amzn.to/2eAfBDL" rel="nofollow" title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7422/27055196146_582552d20c_b.jpg" width="100%" alt="Paddling with a Julbo Swell"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="http://amzn.to/2eAfBDL"  title="Swedish Packrafting Round-Up"><img src="https://farm8.staticflickr.com/7422/27055196146_582552d20c_b.jpg" width="100%" alt="Paddling with a Julbo Swell"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Sun glasses for packrafting need to stay on your face even when the rapid gets rough.
 
@@ -75,7 +75,7 @@ The lens comes with a stuff sack which can be used to clean the lenses and a har
 
 ---
 
-<a data-flickr-embed="true"  href="http://amzn.to/2eAfBDL" rel="nofollow" title="Julbo Swell"><img src="https://farm8.staticflickr.com/7431/27101083392_95b30b9dc0_b.jpg" width="100%" alt="What's in the box - Julbo Swell - unboxing"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="http://amzn.to/2eAfBDL"  title="Julbo Swell"><img src="https://farm8.staticflickr.com/7431/27101083392_95b30b9dc0_b.jpg" width="100%" alt="What's in the box - Julbo Swell - unboxing"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
@@ -89,4 +89,4 @@ The Julbo Swell checked all boxes which I had from a packrafting sunglass. The J
 
 If I could think of something negative about the Julbo Swell then it would be that the lenses grew damp a few times since there are no openings on the lens where the air could circulate. Fortunately, the lens only grew damp two times during the whole trip and was not a major issue. I would recommend the Julbo Swell to anyone who is looking for light packrafting glasses with a fresh design.
 
-You can get the Julbo Swell on <a href="http://amzn.to/2uYm9Uq" target="_blank" rel="nofollow">Amazon</a>.
+You can get the Julbo Swell on <a href="http://amzn.to/2uYm9Uq" target="_blank" >Amazon</a>.

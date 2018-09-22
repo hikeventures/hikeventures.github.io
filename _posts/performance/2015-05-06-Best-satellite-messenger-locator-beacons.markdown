@@ -36,19 +36,19 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
         </thead>
         <tbody>
         <tr>
-          <td><a href="https://amzn.to/2Ks75Zs" target="_blank" rel="nofollow">Garmin InReach Mini</a></td><td>100g</td><td>no</td>
+          <td><a href="https://amzn.to/2Ks75Zs" target="_blank" >Garmin InReach Mini</a></td><td>100g</td><td>no</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2xIPBPG" target="_blank" rel="nofollow">SPOT Gen3</a></td><td>114g</td><td>no</td>
+          <td><a href="http://amzn.to/2xIPBPG" target="_blank" >SPOT Gen3</a></td><td>114g</td><td>no</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2xJdWVq" target="_blank" rel="nofollow">ACR ResQlink+</a></td><td>153g</td><td>no</td>
+          <td><a href="http://amzn.to/2xJdWVq" target="_blank" >ACR ResQlink+</a></td><td>153g</td><td>no</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2x3LO2w" target="_blank" rel="nofollow">Garmin InReach SE+</a></td><td>190g</td><td>no</td>
+          <td><a href="http://amzn.to/2x3LO2w" target="_blank" >Garmin InReach SE+</a></td><td>190g</td><td>no</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2xRlOGP" target="_blank" rel="nofollow">Garmin InReach Explorer+</a></td><td>213g</td><td>yes</td>
+          <td><a href="http://amzn.to/2xRlOGP" target="_blank" >Garmin InReach Explorer+</a></td><td>213g</td><td>yes</td>
         </tr>
       </tbody>
       </table>
@@ -58,7 +58,7 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 
 ## Garmin InReach Mini
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B07CR7PL54/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07CR7PL54&linkCode=as2&tag=hikeve-20&linkId=7728d755cb1e44c7331ed80d2833d99c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B07CR7PL54&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B07CR7PL54" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  target="_blank"  href="https://www.amazon.com/gp/product/B07CR7PL54/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07CR7PL54&linkCode=as2&tag=hikeve-20&linkId=7728d755cb1e44c7331ed80d2833d99c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B07CR7PL54&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B07CR7PL54" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
   * Weight: 100 grams
   * IPX7
@@ -73,13 +73,13 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
   * Waypoints
   * Battery life 50 hours at 10 min tracking.
 
-  <a href="https://amzn.to/2Ks75Zs" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+  <a href="https://amzn.to/2Ks75Zs" target="_blank" ><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 <br>
 
 ## ACR ResQlink+ 406
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00MYSP6NM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MYSP6NM&linkCode=as2&tag=hikeve-20&linkId=9249d908011764d70c9c3ba70de69a3b"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00MYSP6NM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="250" height="250" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00MYSP6NM" width="1" height="1" border="0" alt="ACR ResQlink+ 406 - best gps messenger 2018" style="border:none !important; margin:0px !important;" />
+<a  target="_blank"  href="https://www.amazon.com/gp/product/B00MYSP6NM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MYSP6NM&linkCode=as2&tag=hikeve-20&linkId=9249d908011764d70c9c3ba70de69a3b"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00MYSP6NM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="250" height="250" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00MYSP6NM" width="1" height="1" border="0" alt="ACR ResQlink+ 406 - best gps messenger 2018" style="border:none !important; margin:0px !important;" />
 
 * Weight: 153 grams
 * Buoyant Personal Locator Beacon which is also suitable for paddlers
@@ -88,7 +88,7 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 * Buoyant
 * No messaging
 
-<a href="http://amzn.to/2CPAapW" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://amzn.to/2CPAapW" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 
 <br>
@@ -103,7 +103,7 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 * Preloaded DeLorme TOPO maps with onscreen GPS routing plus
 * 2GB storage for maps
 
-<a href="http://amzn.to/2F4zPWq" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://amzn.to/2F4zPWq" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <br>
 
@@ -125,13 +125,13 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 * Message size: 160 characters
 * Waypoints
 
-<a href="http://amzn.to/2CQQ0k7" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="http://amzn.to/2CQQ0k7" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <br>
 
 ## SPOT Gen3
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01FHO5AF8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01FHO5AF8&linkCode=as2&tag=hikeve-20&linkId=7996c1250dd46ac08ae20d6dc725d36d"><amp-img rel="nofollow" border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01FHO5AF8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="250" height="250" alt="SPOT Gen3"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01FHO5AF8" width="1" height="1" border="0" alt="SPOT Gen3 - Best GPS messenger 2018" style="border:none !important; margin:0px !important;" />
+<a  target="_blank"  href="https://www.amazon.com/gp/product/B01FHO5AF8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01FHO5AF8&linkCode=as2&tag=hikeve-20&linkId=7996c1250dd46ac08ae20d6dc725d36d"><amp-img  border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01FHO5AF8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="250" height="250" alt="SPOT Gen3"></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01FHO5AF8" width="1" height="1" border="0" alt="SPOT Gen3 - Best GPS messenger 2018" style="border:none !important; margin:0px !important;" />
 
 * Weight 114 grams
 * Check-in function: pre-programmed text message or email with GPS coordinates to up to 10 contacts
@@ -140,7 +140,7 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 * Custom messages which can be used as a secondary OK message or personal help alert
 * Message size: 41 characters
 
-<a href="hhttp://amzn.to/2CTR4Uw" target="_blank" rel="nofollow"><img src="http://www.hikeventures.com/buy.gif"></a>
+<a href="hhttp://amzn.to/2CTR4Uw" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <br>
 
@@ -156,10 +156,10 @@ Fortunately, I was not in need to make an emergency call yet. While it’s possi
 
 The main advantage of the ACR is that you don’t have to pay a subscription fee to use the GPS network.
 
-If messaging is not important for you, then you should go for the <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F843146%2Facr-electronics-resqlink-gps-personal-locator-beacon" target="_blank" rel="nofollow">ACR ResQlink+ 406</a>. The ACR device is also interesting for paddlers since it can float.
+If messaging is not important for you, then you should go for the <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F843146%2Facr-electronics-resqlink-gps-personal-locator-beacon" target="_blank" >ACR ResQlink+ 406</a>. The ACR device is also interesting for paddlers since it can float.
 
 Alternatively, you will see from the specifications below that the DeLorme devices have slightly more weight but come with more functionalities than the SPOT devices.
 
-My personal preference goes towards the <a href="https://amzn.to/2Ks75Zs" target="_blank" rel="nofollow">Garmin InReach Mini</a> as it the lightest option and offers most of the functionalities of the other devices since it can be also linked with a smartphone.
+My personal preference goes towards the <a href="https://amzn.to/2Ks75Zs" target="_blank" >Garmin InReach Mini</a> as it the lightest option and offers most of the functionalities of the other devices since it can be also linked with a smartphone.
 
-If I would not need the messenger and tracking function, then I would probably get the <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F843146%2Facr-electronics-resqlink-gps-personal-locator-beacon" target="_blank" rel="nofollow">ACR ResQlink+ 406</a>.
+If I would not need the messenger and tracking function, then I would probably get the <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F843146%2Facr-electronics-resqlink-gps-personal-locator-beacon" target="_blank" >ACR ResQlink+ 406</a>.

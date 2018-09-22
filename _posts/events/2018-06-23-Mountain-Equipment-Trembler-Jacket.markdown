@@ -23,7 +23,7 @@ Thomas Strobl from Mountain Equipment showed us their new Trembler Jacket at the
 
 ---
 
-Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=dVIIME5Su-0" target="_blank" rel="nofollow">YouTube</a>, subscribe to our <a target="_blank" rel="nofollow" href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see Mountain Wquipment gear on <a href="https://amzn.to/2zcKjAy" rel="nofollow" target="_blank">Amazon</a>.
+Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=dVIIME5Su-0" target="_blank" >YouTube</a>, subscribe to our <a target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see Mountain Wquipment gear on <a href="https://amzn.to/2zcKjAy"  target="_blank">Amazon</a>.
 
 The Trembler jacket is a very stylish and has a lightweight grit fleece which is
 very breathable.  
@@ -31,7 +31,7 @@ very breathable.
 Also, on the core body it's wind proof with a 20 denier fabric and you have
 inside a grit fleece. So a bit warmer than the other sides.
 
-<a rel="nofollow" href="https://www.amazon.com/Mountain-Equipment-TREMBLER-JACKET-SODALITE/dp/B0797SZ866/ref=as_li_ss_il?s=sporting-goods&ie=UTF8&qid=1530016834&sr=1-4&keywords=mountain+equipment+trembler+jacket&linkCode=li3&tag=hikeve-20&linkId=9f54fec2b35a82a9c5d1fb810563b5a4" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0797SZ866&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B0797SZ866" width="1" height="1" border="0" alt="Mountain Equipment Trembler Jacket" style="border:none !important; margin:0px !important;" />
+<a  href="https://www.amazon.com/Mountain-Equipment-TREMBLER-JACKET-SODALITE/dp/B0797SZ866/ref=as_li_ss_il?s=sporting-goods&ie=UTF8&qid=1530016834&sr=1-4&keywords=mountain+equipment+trembler+jacket&linkCode=li3&tag=hikeve-20&linkId=9f54fec2b35a82a9c5d1fb810563b5a4" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0797SZ866&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B0797SZ866" width="1" height="1" border="0" alt="Mountain Equipment Trembler Jacket" style="border:none !important; margin:0px !important;" />
 
 Yeah and this is a perfect summer fleece to keep your core warm but at the
 same time it has to be breathable and it's very climatise sizing so it's not too

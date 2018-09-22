@@ -36,45 +36,45 @@ On our snowshoeing trip in [Finnish Lapland](http://www.hikeventures.com/snowsho
         </thead>
         <tbody>
         <tr>
-          <td><a href="http://amzn.to/2x3LPyA" target="_blank" rel="nofollow">Arc'teryx Cerium LT Hoody</a></td><td>295 grams / 10.4 oz.</td>
+          <td><a href="http://amzn.to/2x3LPyA" target="_blank" >Arc'teryx Cerium LT Hoody</a></td><td>295 grams / 10.4 oz.</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2x3Y1z7" target="_blank" rel="nofollow">Outdoor Research Deviator Hoody</a></td><td>11.3 oz. / 321 grams</td>
+          <td><a href="http://amzn.to/2x3Y1z7" target="_blank" >Outdoor Research Deviator Hoody</a></td><td>11.3 oz. / 321 grams</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2iAqRAw" target="_blank" rel="nofollow">Black Diamond Access Hoody</a></td><td>11.6 oz. / 330 grams</td>
+          <td><a href="http://amzn.to/2iAqRAw" target="_blank" >Black Diamond Access Hoody</a></td><td>11.6 oz. / 330 grams</td>
         </tr>
 
  <tr>
-          <td><a href="http://amzn.to/2yN56q6" target="_blank" rel="nofollow">Montane Halogen Alpha Jacket</a></td><td>12.4 oz. / 351 grams</td>
+          <td><a href="http://amzn.to/2yN56q6" target="_blank" >Montane Halogen Alpha Jacket</a></td><td>12.4 oz. / 351 grams</td>
         </tr>
 
         <tr>
-          <td><a href="http://amzn.to/2fAauUR" target="_blank" rel="nofollow">Outdoor Research Cathode Hooded Jacket</a></td><td> 13.4 oz / 379 grams </td>
+          <td><a href="http://amzn.to/2fAauUR" target="_blank" >Outdoor Research Cathode Hooded Jacket</a></td><td> 13.4 oz / 379 grams </td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2xJSHmq" target="_blank" rel="nofollow">Arc'teryx Proton AR Hoody</a></td><td>15 oz. / 425 grams</td>
+          <td><a href="http://amzn.to/2xJSHmq" target="_blank" >Arc'teryx Proton AR Hoody</a></td><td>15 oz. / 425 grams</td>
         </tr>
       <tr>
-          <td><a href="http://amzn.to/2x3RrbY" target="_blank" rel="nofollow">Montane Fusion Alpha Jacket</a></td><td>15.1 oz. / 427 grams</td>
+          <td><a href="http://amzn.to/2x3RrbY" target="_blank" >Montane Fusion Alpha Jacket</a></td><td>15.1 oz. / 427 grams</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2yObwVP" target="_blank" rel="nofollow">Arc'teryx Nuclei AR Jacket</a></td><td>16.2 oz. / 460 grams</td>
+          <td><a href="http://amzn.to/2yObwVP" target="_blank" >Arc'teryx Nuclei AR Jacket</a></td><td>16.2 oz. / 460 grams</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2x3xabe" target="_blank" rel="nofollow">Outdoor Research Uberlayer Hooded Jacket</a></td><td>19.9 oz. / 563 grams </td>
+          <td><a href="http://amzn.to/2x3xabe" target="_blank" >Outdoor Research Uberlayer Hooded Jacket</a></td><td>19.9 oz. / 563 grams </td>
         </tr>
         <tr>
-            <td><a href="http://amzn.to/2x4dKyl" target="_blank" rel="nofollow">Rab Nebula Jacket</a></td><td>20.5 oz. / 580 grams</td>
+            <td><a href="http://amzn.to/2x4dKyl" target="_blank" >Rab Nebula Jacket</a></td><td>20.5 oz. / 580 grams</td>
           </tr>
           <tr>
-                    <td><a href="http://amzn.to/2yey314" target="_blank" rel="nofollow">Mountain Equipment Fitzroy Jacket</a></td><td>23 oz. / 645 grams</td>
+                    <td><a href="http://amzn.to/2yey314" target="_blank" >Mountain Equipment Fitzroy Jacket</a></td><td>23 oz. / 645 grams</td>
           </tr>
           <tr>
-                    <td><a href="http://amzn.to/2x4s5L1" target="_blank" rel="nofollow">Rab Photon X Jacket</a></td><td>24 oz. / 670 grams </td>
+                    <td><a href="http://amzn.to/2x4s5L1" target="_blank" >Rab Photon X Jacket</a></td><td>24 oz. / 670 grams </td>
           </tr>
         <tr>
-          <td><a href="http://amzn.to/2x4eByU" target="_blank" rel="nofollow">Arc'teryx Fission SV Jacket</a></td><td>33 oz. / 935 grams</td>
+          <td><a href="http://amzn.to/2x4eByU" target="_blank" >Arc'teryx Fission SV Jacket</a></td><td>33 oz. / 935 grams</td>
         </tr>
         </tbody>
       </table>
@@ -374,4 +374,4 @@ So really one of the big benefits here compared to down. Even if it's wet or if 
 
 So that's one of the innovations that we have. We apply it to various different products.  A lot of jackets and snow sports where we apply this.
 
-<a href="#table" rel="nofollow" class="btn btn-danger" role="button">Back to the top</a>
+<a href="#table"  class="btn btn-danger" role="button">Back to the top</a>

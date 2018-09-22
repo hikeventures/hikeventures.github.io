@@ -12,7 +12,7 @@ tags:
 layout: post
 ---
 
-Alan Gear from Thule showed us the <a href="https://amzn.to/2NDakMw" rel="nofollow">Thule AllTrail 15 and 25 liters backpacks</a> at the OutDoor Show in Friedrichshafen.
+Alan Gear from Thule showed us the <a href="https://amzn.to/2NDakMw" >Thule AllTrail 15 and 25 liters backpacks</a> at the OutDoor Show in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/sK4uT1bGixI"></iframe>
@@ -20,14 +20,14 @@ Alan Gear from Thule showed us the <a href="https://amzn.to/2NDakMw" rel="nofoll
 <br>
 <!--more-->
 
-Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=sK4uT1bGixI" rel="nofollow" target="_blank">YouTube</a>, subscribe to our <a rel="nofollow" target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see Thule on <a href="https://amzn.to/2NDakMw" rel="nofollow" target="_blank">Amazon</a>.
+Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=sK4uT1bGixI"  target="_blank">YouTube</a>, subscribe to our <a  target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see Thule on <a href="https://amzn.to/2NDakMw"  target="_blank">Amazon</a>.
 
 ---
 
 So last year we introduced a two models called the Ultra 45 liter which is an men's example and also we introduced an Ultra 45 and both
 we've done for men's and ladies.
 
-<a rel="nofollow" href="https://www.amazon.com/Thule-Alltrail-Hiking-Backpack-Obsidian/dp/B078Y5RRJX/ref=as_li_ss_il?ie=UTF8&qid=1531193622&sr=8-1&keywords=Thule+alltrail&dpID=515eS3WJgvL&preST=_SY300_QL70_&dpSrc=srch&linkCode=li3&tag=hikeve-20&linkId=6a2665dd3a37d05d1b878544ff59fd36" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B078Y5RRJX&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B078Y5RRJX" width="1" height="1" border="0" alt="Thule AllTrail 15 and 25" style="border:none !important; margin:0px !important;" />
+<a  href="https://www.amazon.com/Thule-Alltrail-Hiking-Backpack-Obsidian/dp/B078Y5RRJX/ref=as_li_ss_il?ie=UTF8&qid=1531193622&sr=8-1&keywords=Thule+alltrail&dpID=515eS3WJgvL&preST=_SY300_QL70_&dpSrc=srch&linkCode=li3&tag=hikeve-20&linkId=6a2665dd3a37d05d1b878544ff59fd36" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B078Y5RRJX&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B078Y5RRJX" width="1" height="1" border="0" alt="Thule AllTrail 15 and 25" style="border:none !important; margin:0px !important;" />
 
 For spring/summer 19 we're introducing two new models to complete the collection.
 

@@ -20,7 +20,7 @@ Karen Harmer from KEEN showed us the Clearwater, Newport, Tarradora Ethos and UN
 <br>
 <!--more-->
 
-Give us a "thumbs up" on <a href="https://www.youtube.com/embed/iOCN3ts1tMQ" rel="nofollow" target="_blank">YouTube</a>, subscribe to our <a rel="nofollow" target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see KEEN on <a href="https://amzn.to/2LAilod" rel="nofollow" target="_blank">Amazon</a>.
+Give us a "thumbs up" on <a href="https://www.youtube.com/embed/iOCN3ts1tMQ"  target="_blank">YouTube</a>, subscribe to our <a  target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see KEEN on <a href="https://amzn.to/2LAilod"  target="_blank">Amazon</a>.
 
 ---
 

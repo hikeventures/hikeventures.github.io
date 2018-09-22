@@ -26,7 +26,7 @@ What I disliked on the Sony A7r:
 * Not weather sealed (very important for me!!!)
 * The lens mount on the A7r can be wobbly for big lenses (not tried it myself as I don't have a big lens yet)
 
-For those reasons I have sold my A7r this week together with the 35mm F2.8 Sony lens and it is most likely that the camera price for the A7r will drop in the coming months or even weeks.  Already now there are plenty of <a href="http://amzn.to/1yIe5VV" target="_blank" rel="nofollow">Sony A7r bundle deals</a> available which costs considerably less than a couple of months ago. So for now I have to stick with my old iPhone to take pictures until the new rumored A9 will come out early 2015. However, for those who don't need the latest tech, the A7r is definitely capable of taking great pictures.
+For those reasons I have sold my A7r this week together with the 35mm F2.8 Sony lens and it is most likely that the camera price for the A7r will drop in the coming months or even weeks.  Already now there are plenty of <a href="http://amzn.to/1yIe5VV" target="_blank" >Sony A7r bundle deals</a> available which costs considerably less than a couple of months ago. So for now I have to stick with my old iPhone to take pictures until the new rumored A9 will come out early 2015. However, for those who don't need the latest tech, the A7r is definitely capable of taking great pictures.
 
 Specifications of the A9 are not quite clear yet. <a href="http://www.sonyalpharumors.com/sr2-sony-a9-specs-46-mp-sensor-and-weather-sealed-body/" target="_blank">SAR</a> had some rumors that it will feature 46 MP and an ISO range of 100-25,600 ISO which would be quite handy for night shots. However, it seems that it will still not be possible to record 4K internally.
 

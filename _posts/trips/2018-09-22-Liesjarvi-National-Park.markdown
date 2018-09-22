@@ -12,7 +12,7 @@ tags:
 layout: post
 image: https://farm2.staticflickr.com/1899/30829383808_e01baeddf7_k.jpg
 ---
-A few days ago I visited the <a rel="nofollow" href="http://www.nationalparks.fi/en/liesjarvinp/">Liesjärvi National Park</a> together with Kaj and Catja Koskinen to try our our new Alpacka Raft Gnarwhal which we bought at Packraft Europe who also organised the <a href="http://www.hikeventures.com/Slovenia/">European Meet-up</a> in Slovenia.
+A few days ago I visited the <a  href="http://www.nationalparks.fi/en/liesjarvinp/">Liesjärvi National Park</a> together with Kaj and Catja Koskinen to try our our new Alpacka Raft Gnarwhal which we bought at Packraft Europe who also organised the <a href="http://www.hikeventures.com/Slovenia/">European Meet-up</a> in Slovenia.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30829383808/in/dateposted-public/" title="Liesjärvi National Park"><img src="https://farm2.staticflickr.com/1899/30829383808_e01baeddf7_k.jpg" width="2048" height="1365" alt="Liesjärvi National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <br>
@@ -20,7 +20,7 @@ A few days ago I visited the <a rel="nofollow" href="http://www.nationalparks.fi
 
 We decided to park our cars at the Kopinlahti parking spot and to have a short hike to Savilahti where we pitched our tents, prepared a fire and meals and enjoyed the peaceful night together with a few other hikers who also came to stay over night in tents and hammocks.
 
-Even so it was raining when I arrived at the parking spot it turned out that the evening was dry with just a few clouds on the sky. This was a great opportunity to test the astrophotography capabilities of my <a href="https://amzn.to/2I5aRnS" rel="nofollow">Sony A7III</a> and <a href="https://amzn.to/2I77QmZ" rel="nofollow">Zeiss Batis 25mm</a>.  
+Even so it was raining when I arrived at the parking spot it turned out that the evening was dry with just a few clouds on the sky. This was a great opportunity to test the astrophotography capabilities of my <a href="https://amzn.to/2I5aRnS" >Sony A7III</a> and <a href="https://amzn.to/2I77QmZ" >Zeiss Batis 25mm</a>.  
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30829385918/in/dateposted-public/" title="Liesjärvi National Park"><img src="https://farm2.staticflickr.com/1859/30829385918_c0bf02d4d5_k.jpg" width="2048" height="1365" alt="Liesjärvi National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

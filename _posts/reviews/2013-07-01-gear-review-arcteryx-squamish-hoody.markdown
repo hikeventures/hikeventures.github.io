@@ -52,4 +52,4 @@ My recommendation is to take both, a wind jacket and a rain jacket to your hikes
 
 I was wearing the Arc'teryx Squamish Hoody on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek National Park</a> in Sweden. This is definitely my favorite wind jacket. Worth to have it in your backpack.
 
-You can get the Arcteryx Squamish Hoody on <a href="http://amzn.to/2hmVXQh" target="_blank" rel="nofollow">Amazon</a>.
+You can get the Arcteryx Squamish Hoody on <a href="http://amzn.to/2hmVXQh" target="_blank" >Amazon</a>.

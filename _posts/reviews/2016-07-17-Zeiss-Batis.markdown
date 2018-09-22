@@ -55,6 +55,6 @@ Yes, that's the best lens which I ever had on a Sony A7. As it is light and rela
 The lens is super versatile. It let's a lot of light through which makes it also an interesting lens for night and astrophotography. Need a nice bokeh? No need to change lenses. Just set the aperture to 2.0.
 
 The Zeiss Batis 25mm would definitely be a great lens for [our trips](http://www.hikeventures.com/destinations/).
-As a side note, I have also used the <a href="http://amzn.to/2akpsuN" rel="nofollow">Hoya 67mm DMC PRO1 Clear Protector Digital Filter</a> when I took the pictures.
+As a side note, I have also used the <a href="http://amzn.to/2akpsuN" >Hoya 67mm DMC PRO1 Clear Protector Digital Filter</a> when I took the pictures.
 
-You can get the Zeiss Batis lens on <a href="http://amzn.to/2uYei9j" target="_blank" rel="nofollow">Amazon</a>.
+You can get the Zeiss Batis lens on <a href="http://amzn.to/2uYei9j" target="_blank" >Amazon</a>.

@@ -38,7 +38,7 @@ The Calazo maps display trails, ski-lifts, roads, shelters & lodges, marshes, fo
 
 Calazo maps are printed on both sides and are available in the scales 1:100 000 (1 cm = 1 km) and 1:50 000.
 
-<a rel="nofollow" href="http://www.flickr.com/photos/90204224@N07/9598994680/" target="_blank"><img src="http://farm3.staticflickr.com/2847/9598994680_4a1279f93c_c.jpg" alt="Ortlieb Document Bag A4 in Sarek"></a>
+<a  href="http://www.flickr.com/photos/90204224@N07/9598994680/" target="_blank"><img src="http://farm3.staticflickr.com/2847/9598994680_4a1279f93c_c.jpg" alt="Ortlieb Document Bag A4 in Sarek"></a>
 
 ## Recommendation
 I can highly recommend the waterproof Calazo maps. We have tested a Calazo map on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden and the Calazo map performed quite well even on rainy days. As those maps are sometimes even cheaper than regular maps it is actually a no-brainer to get those tyvek maps.

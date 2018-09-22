@@ -62,4 +62,4 @@ Well, the tickets have been bought and the plans have been made (this year we ar
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26883581674/in/dateposted-public/" title="Thule Capstone"><img src="https://c3.staticflickr.com/8/7489/26883581674_635501fe9b_b.jpg" width="100%" alt="Thule Capstone 50L Women hiking backpack in Japan"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-You can get the Thule Capstone backpack on <a href="http://amzn.to/2u3Gr1I" target="_blank" rel="nofollow">Amazon</a>.
+You can get the Thule Capstone backpack on <a href="http://amzn.to/2u3Gr1I" target="_blank" >Amazon</a>.

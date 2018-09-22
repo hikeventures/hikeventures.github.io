@@ -104,4 +104,4 @@ I would recommend the Marmot Force UL 2P if you need a light 3-season solo tent.
 
 The air circulation was also ok with both outer tent doors closed but was even better when slightly opened. The mesh of the inner tent seems to be a bit fragile and should be improved to increase the durability of the inner tent. Apart from that I was quite happy with the tent.
 
-You can find the Marmot Force UL 2P on <a href="http://amzn.to/2uVsv8Fj" target="_blank" rel="nofollow">Amazon</a>.
+You can find the Marmot Force UL 2P on <a href="http://amzn.to/2uVsv8Fj" target="_blank" >Amazon</a>.

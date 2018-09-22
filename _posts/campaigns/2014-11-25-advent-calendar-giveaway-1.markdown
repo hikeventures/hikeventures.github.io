@@ -2,7 +2,7 @@
 title: Advent Calendar - Giveaway 1
 date: 2014-11-25 18:04:22
 category: campaigns
-tags: 
+tags:
   - campaigns
 layout: post
 ---
@@ -21,5 +21,5 @@ Even if you don't win the aquapac camera pouch make sure to <strong>visit our bl
 
 <strong>Remember:</strong> The more entry options you select below the higher your chance to win the aquapac camera pouch.<br><br>
 
-<a class="rcptr" href="http://www.rafflecopter.com/rafl/display/9698c3701/" rel="nofollow" data-raflid="9698c3701" data-theme="classic" data-template="547383d1349ca46723745c71" id="rcwidget_nb6zp4vv">a Rafflecopter giveaway</a>
+<a class="rcptr" href="http://www.rafflecopter.com/rafl/display/9698c3701/"  data-raflid="9698c3701" data-theme="classic" data-template="547383d1349ca46723745c71" id="rcwidget_nb6zp4vv">a Rafflecopter giveaway</a>
 <script src="//widget-prime.rafflecopter.com/launch.js"></script>

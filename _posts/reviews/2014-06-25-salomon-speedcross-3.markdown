@@ -39,4 +39,4 @@ However, I wouldn't wear this shoe if I were to go on a trip again to the <a hre
 
 The only issue I had with this shoe is that it might be very slippery on wet stone. Also when you are planning to carry a lot of gear then a more supportive or traditional hiking boots would make more sense.
 
-You can get the Salomon Speedcross 3 on <a href="http://amzn.to/2uUMUe2" target="_blank" rel="nofollow">Amazon</a>
+You can get the Salomon Speedcross 3 on <a href="http://amzn.to/2uUMUe2" target="_blank" >Amazon</a>

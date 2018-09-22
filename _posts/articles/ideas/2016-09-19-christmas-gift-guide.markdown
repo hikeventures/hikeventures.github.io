@@ -16,125 +16,125 @@ Christmas is approaching us and I decided to write a blog post with the 12 best 
 
 ---
 
-<h2><a href="http://amzn.to/2dUSGUr" rel="nofollow" target="_blank">America's Great Hiking Trails</a></h2>
+<h2><a href="http://amzn.to/2dUSGUr"  target="_blank">America's Great Hiking Trails</a></h2>
 
 <a href="https://www.amazon.com/gp/product/0789327414/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0789327414&linkCode=as2&tag=hikeve-20&linkId=cb6d79eecf100d50dff295800ddaf821"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0789327414&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=0789327414" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 This book shows you America's best hiking trails and has won several awards. This is probably a book which every hiker would like to have who is interested to hike in America.
 
-<a href="http://amzn.to/2dUSGUr" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2dUSGUr" ><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
-<h2><a href="http://amzn.to/2eED2uN" target="_blank" rel="nofollow">GoPro Hero5 Session</a></h2>
+<h2><a href="http://amzn.to/2eED2uN" target="_blank" >GoPro Hero5 Session</a></h2>
 
-<a href="https://www.amazon.com/gp/product/B01LZTLCFX/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LZTLCFX&linkCode=as2&tag=hikeve-20&linkId=95d9f7159dbdfd1257361f7de73489cc" rel="nofollow" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LZTLCFX&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LZTLCFX" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B01LZTLCFX/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LZTLCFX&linkCode=as2&tag=hikeve-20&linkId=95d9f7159dbdfd1257361f7de73489cc"  target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LZTLCFX&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LZTLCFX" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 GoPro just recently released the GoPro Hero5 Session which can record in 4K. What I like on the GoPro Hero5 Session compared to the GoPro Hero5 Black is that it's more compact and I don't have to pay for features which I don't need (Location Capture, RAW images and touch display).
 
-<a href="http://amzn.to/2eED2uN" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2eED2uN" target="_blank" ><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
-<h2><a href="http://amzn.to/2e7V1Mx" target="_blank" rel="nofollow">Rab Positron Jacket</a></h2>
+<h2><a href="http://amzn.to/2e7V1Mx" target="_blank" >Rab Positron Jacket</a></h2>
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/B00XJO2X18/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00XJO2X18&linkCode=as2&tag=hikeve-20&linkId=5POHXUOALSVWVY2B"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00XJO2X18&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00XJO2X18" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="http://www.amazon.com/gp/product/B00XJO2X18/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00XJO2X18&linkCode=as2&tag=hikeve-20&linkId=5POHXUOALSVWVY2B"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00XJO2X18&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00XJO2X18" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 One of my favourite winter down jackets this year is the Rab Position jacket which weights 720 grams which has been designed for mountain and expedition use up to 6000m. This jacket has a fill power of 800.
 
-<a href="http://amzn.to/2e7V1Mx" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2e7V1Mx" target="_blank" ><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
-<h2><a href="http://amzn.to/2ePaHRL" rel="nofollow" target="_blank">Fjällräven Zip Card Holder</a></h2>
+<h2><a href="http://amzn.to/2ePaHRL"  target="_blank">Fjällräven Zip Card Holder</a></h2>
 
-<a  href="http://www.amazon.com/gp/product/B00SV3VMAA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SV3VMAA&linkCode=as2&tag=hikeve-20&linkId=V7S5GUAZJAGX4CXV" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SV3VMAA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00SV3VMAA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="http://www.amazon.com/gp/product/B00SV3VMAA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SV3VMAA&linkCode=as2&tag=hikeve-20&linkId=V7S5GUAZJAGX4CXV" ><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00SV3VMAA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00SV3VMAA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The Fjällräven Zip Card Holder is my favorite wallet which I have always with me. The fabric is made of G-1000 - the same matrial which is used for their pants and jackets. So it's quite durable.
 
-<a href="http://amzn.to/2ePaHRL" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2ePaHRL" target="_blank" ><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 
 ---
 
-<h2><a href="http://amzn.to/2dUVXmV" rel="nofollow" target="_blank">MSR Windburner</a></h2>
+<h2><a href="http://amzn.to/2dUVXmV"  target="_blank">MSR Windburner</a></h2>
 
-<a href="https://www.amazon.com/gp/product/B00Y143XF0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Y143XF0&linkCode=as2&tag=hikeve-20&linkId=cad96d6f8139ea32d6992539c54fe416" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00Y143XF0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00Y143XF0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B00Y143XF0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Y143XF0&linkCode=as2&tag=hikeve-20&linkId=cad96d6f8139ea32d6992539c54fe416" ><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00Y143XF0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00Y143XF0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The MSR WindBurner is my go-to stove. I have received it from MSR as a test unit and was quite happy with it on our trips e.g. in the <a href="http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/">Swedish Mountains</a>.
 
-<a href="http://amzn.to/2dUVXmV" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2dUVXmV" target="_blank" ><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
-<h2><a href="http://amzn.to/2d29ys9" rel="nofollow" target="_blank">Petzl Nao Plus</a></h2>
+<h2><a href="http://amzn.to/2d29ys9"  target="_blank">Petzl Nao Plus</a></h2>
 
 
-<a href="https://www.amazon.com/gp/product/B01LFW5BZA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LFW5BZA&linkCode=as2&tag=hikeve-20&linkId=ab1bc83c79f0d72682bee02feeb7da49" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LFW5BZA&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LFW5BZA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B01LFW5BZA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LFW5BZA&linkCode=as2&tag=hikeve-20&linkId=ab1bc83c79f0d72682bee02feeb7da49" ><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01LFW5BZA&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01LFW5BZA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-The Petzl Nao Plus features 750 lumen and you are able to see 140 m into the distance. It's reactive lightning system let's you also adjust the light level automatically without turning or pushing any buttons on the headlamp. I also have the <a href="http://amzn.to/2f2H8kG" rel="nofollow">Petzl Nao Belt Kit</a>, which helps to prevent battery drain if the temperatures are low. It is water resistant (IP X4) and weights 187 grams.
+The Petzl Nao Plus features 750 lumen and you are able to see 140 m into the distance. It's reactive lightning system let's you also adjust the light level automatically without turning or pushing any buttons on the headlamp. I also have the <a href="http://amzn.to/2f2H8kG" >Petzl Nao Belt Kit</a>, which helps to prevent battery drain if the temperatures are low. It is water resistant (IP X4) and weights 187 grams.
 
-<a href="http://amzn.to/2d29ys9" rel="nofollow" target="_blank"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
-
----
-
-<h2><a href="http://amzn.to/2evU8vs" rel="nofollow" target="_blank">MSR Lightning Ascent 25</a></h2>
-
-<a href="http://www.amazon.com/gp/product/B00LFJNHQ4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNHQ4&linkCode=as2&tag=hikeve-20&linkId=YIDJETI36CMR7GF4" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJNHQ4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJNHQ4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-I have received the MSR Lightning Ascent 25 from MSR as a test unit and was quite happy with it. The main features of this snowshoe is that it is quite light (weights 1780 grams), Ergo Televators, PosiLock AT bindings (MSR's most secure, freeze-resistant attachment) and Torsion2 crampons. Also consider to buy snowshoeing poles like the <a href="http://amzn.to/2f65dHn2" rel="nofollow" target="_blank">MSR Deploy T-3</a>. MSR has sent me those poles as well for testing and they are quite good.
-
-<a href="http://amzn.to/2evU8vs" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2d29ys9"  target="_blank"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
-<h2><a href="http://amzn.to/2elYMQq" rel="nofollow" target="_blank">Therm-a-Rest NeoAir XTherm</a></h2>
+<h2><a href="http://amzn.to/2evU8vs"  target="_blank">MSR Lightning Ascent 25</a></h2>
 
-<a href="https://www.amazon.com/gp/product/B00TSFYZAE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TSFYZAE&linkCode=as2&tag=hikeve-20&linkId=25c9ce32924da763f8646aec664470c1" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00TSFYZAE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00TSFYZAE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="http://www.amazon.com/gp/product/B00LFJNHQ4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNHQ4&linkCode=as2&tag=hikeve-20&linkId=YIDJETI36CMR7GF4" ><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJNHQ4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJNHQ4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+I have received the MSR Lightning Ascent 25 from MSR as a test unit and was quite happy with it. The main features of this snowshoe is that it is quite light (weights 1780 grams), Ergo Televators, PosiLock AT bindings (MSR's most secure, freeze-resistant attachment) and Torsion2 crampons. Also consider to buy snowshoeing poles like the <a href="http://amzn.to/2f65dHn2"  target="_blank">MSR Deploy T-3</a>. MSR has sent me those poles as well for testing and they are quite good.
+
+<a href="http://amzn.to/2evU8vs" target="_blank" ><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+
+---
+
+<h2><a href="http://amzn.to/2elYMQq"  target="_blank">Therm-a-Rest NeoAir XTherm</a></h2>
+
+<a href="https://www.amazon.com/gp/product/B00TSFYZAE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00TSFYZAE&linkCode=as2&tag=hikeve-20&linkId=25c9ce32924da763f8646aec664470c1" ><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00TSFYZAE&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00TSFYZAE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The Therm-a-Rest NeoAir XTherm is my go-to sleeping pad throughout the year here in Scandinavia. It weights (410 grams) more or less the same as most other 3-season sleeping pads but can also be used during the winter.
 
-<a href="http://amzn.to/2elYMQq" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2elYMQq" target="_blank" ><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
-<h2><a href="https://www.amazon.com/gp/product/B01MY03CZP/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MY03CZP&linkCode=as2&tag=hikeve-20&linkId=54e87a70019bfd8d2abcbb01736d2464" target="_blank" rel="nofollow">Garmin InReach Explorer+</a></h2>
+<h2><a href="https://www.amazon.com/gp/product/B01MY03CZP/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MY03CZP&linkCode=as2&tag=hikeve-20&linkId=54e87a70019bfd8d2abcbb01736d2464" target="_blank" >Garmin InReach Explorer+</a></h2>
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01MY03CZP/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MY03CZP&linkCode=as2&tag=hikeve-20&linkId=54e87a70019bfd8d2abcbb01736d2464"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MY03CZP&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MY03CZP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  target="_blank"  href="https://www.amazon.com/gp/product/B01MY03CZP/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MY03CZP&linkCode=as2&tag=hikeve-20&linkId=54e87a70019bfd8d2abcbb01736d2464"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MY03CZP&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MY03CZP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 If you are planning to hike in remote places where you won't have a phone signal then you should consider taking a Garmin InReach Explorer+ with you. It also has a digital compass, route planning features, trip statistics, altimeter, track logging and weights 190 grams.
 
-<a href="https://www.amazon.com/gp/product/B01MY03CZP/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MY03CZP&linkCode=as2&tag=hikeve-20&linkId=54e87a70019bfd8d2abcbb01736d2464" target="_blank" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="https://www.amazon.com/gp/product/B01MY03CZP/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MY03CZP&linkCode=as2&tag=hikeve-20&linkId=54e87a70019bfd8d2abcbb01736d2464" target="_blank" ><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
-<h2><a href="http://www.amazon.com/gp/product/B0153QFDXO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0153QFDXO&linkCode=as2&tag=hikeve-20&linkId=5RNHLQHTIVZ7K3GF" rel="nofollow">Hestra Army Leather Heli 3-Finger Glove</a></h2>
+<h2><a href="http://www.amazon.com/gp/product/B0153QFDXO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0153QFDXO&linkCode=as2&tag=hikeve-20&linkId=5RNHLQHTIVZ7K3GF" >Hestra Army Leather Heli 3-Finger Glove</a></h2>
 
-<a  href="http://www.amazon.com/gp/product/B0153QFDXO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0153QFDXO&linkCode=as2&tag=hikeve-20&linkId=5RNHLQHTIVZ7K3GF" rel="nofollow"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0153QFDXO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0153QFDXO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="http://www.amazon.com/gp/product/B0153QFDXO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0153QFDXO&linkCode=as2&tag=hikeve-20&linkId=5RNHLQHTIVZ7K3GF" ><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0153QFDXO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0153QFDXO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The Hestra Army Leather Heli 3-Finger Glove is one of the most popular Hestra gloves for skiing and is very warm. It comes with a removeable liner (so you can take it out and dry it during the night) and is wind- and waterproof.
 
-<a href="http://www.amazon.com/gp/product/B0153QFDXO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0153QFDXO&linkCode=as2&tag=hikeve-20&linkId=5RNHLQHTIVZ7K3GF" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://www.amazon.com/gp/product/B0153QFDXO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0153QFDXO&linkCode=as2&tag=hikeve-20&linkId=5RNHLQHTIVZ7K3GF" ><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
-<h2><a href="http://amzn.to/2f60uWd" rel="nofollow" target="_blank">Suunto Spartan Sport</a></h2>
+<h2><a href="http://amzn.to/2f60uWd"  target="_blank">Suunto Spartan Sport</a></h2>
 
-<a href="https://www.amazon.com/gp/product/B01I06IJIK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01I06IJIK&linkCode=as2&tag=hikeve-20&linkId=a28f605a462f4d21b7c5126509920fcc" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01I06IJIK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01I06IJIK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B01I06IJIK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01I06IJIK&linkCode=as2&tag=hikeve-20&linkId=a28f605a462f4d21b7c5126509920fcc" ><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01I06IJIK&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01I06IJIK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-The Suunto Spartan Sport is the latest GPS watch from Suunto which comes with a color touch screen. It's advantage compared to the e.g. <a href="http://amzn.to/2dURWip" rel="nofollow" target="_blank">Apple Watch Series 2</a> is it's long battery life so you can take it on a longer trip without recharging it every few hours.
+The Suunto Spartan Sport is the latest GPS watch from Suunto which comes with a color touch screen. It's advantage compared to the e.g. <a href="http://amzn.to/2dURWip"  target="_blank">Apple Watch Series 2</a> is it's long battery life so you can take it on a longer trip without recharging it every few hours.
 
-<a href="http://amzn.to/2f60uWd" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2f60uWd" ><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 
-<h2><a href="http://amzn.to/2dUNxvQ" rel="nofollow" target="_blank">Sawyer Water Filter</a></h2>
+<h2><a href="http://amzn.to/2dUNxvQ"  target="_blank">Sawyer Water Filter</a></h2>
 
-<a href="https://www.amazon.com/gp/product/B00FA2RLX2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FA2RLX2&linkCode=as2&tag=hikeve-20&linkId=5fa3126cd2283657f5a05edd3fd55b98" rel="nofollow"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00FA2RLX2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00FA2RLX2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/gp/product/B00FA2RLX2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FA2RLX2&linkCode=as2&tag=hikeve-20&linkId=5fa3126cd2283657f5a05edd3fd55b98" ><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00FA2RLX2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00FA2RLX2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Thw Sawyer Water Filter is always in my backpack when I go hiking. It's much easier to get clean water from a river than using a water filter with a pump. It's also lighter.
 
-<a href="http://amzn.to/2dUNxvQ" rel="nofollow"><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
+<a href="http://amzn.to/2dUNxvQ" ><button type="button" class="btn btn-danger">Buy on Amazon</button></a>
 
 ---
 

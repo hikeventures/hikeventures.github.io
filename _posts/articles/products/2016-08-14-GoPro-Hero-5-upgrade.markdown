@@ -45,6 +45,6 @@ The Hero5 models can be operated by voice control. Just say "GoPro start recordi
 # Conclusion
 Now the question remains if you should upgrade from your GoPro Hero4 Black to the GoPro Hero5 Black. Well, if you need Video stabilization and want to record audio when you do water sports then the GoPro Hero 5 Black is definitely the camera you should upgrade to. Since the GoPro Hero 5 Black also comes with a touch screen you can safe another 70 EUR than buying an additional touchscreen for your GoPro Hero4 Black.
 
-I also found the price of the <a href="http://amzn.to/2ekq5Zy" rel="nofollow" target="_blank">GoPro Hero 5 Black</a> quite reasonable with only 400 EUR which is 100 EUR less than what you have paid when the GoPro Hero4 Black came out.
+I also found the price of the <a href="http://amzn.to/2ekq5Zy"  target="_blank">GoPro Hero 5 Black</a> quite reasonable with only 400 EUR which is 100 EUR less than what you have paid when the GoPro Hero4 Black came out.
 
 If you you don't need location capture and raw images then you should definitely look into the new GoPro Session 5 as well as it offers the same specs as the regular model just in a smaller camera body.

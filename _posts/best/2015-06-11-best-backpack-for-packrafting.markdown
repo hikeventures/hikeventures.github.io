@@ -42,10 +42,10 @@ Gernerally speaking I was not able to find any alternative to the HMG Porter 440
           <td><a href="http://www.hikeventures.com/deals/#porter+4400" target="_blank">Hyperlite Mountain Gear Porter 4400</a></td><td>1065 grams / 37.6 oz.</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2sruFN6" target="_blank" rel="nofollow">NRS Paragon Pack</a></td><td>1179 grams / 41.6 oz.</td>
+          <td><a href="http://amzn.to/2sruFN6" target="_blank" >NRS Paragon Pack</a></td><td>1179 grams / 41.6 oz.</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2r8hMU5" target="_blank" rel="nofollow">Sea to Summit Hydraulic Dry Pack</a></td><td>1319 grams / 46.5 oz.</td>
+          <td><a href="http://amzn.to/2r8hMU5" target="_blank" >Sea to Summit Hydraulic Dry Pack</a></td><td>1319 grams / 46.5 oz.</td>
         </tr>
 </tbody>
 </table>

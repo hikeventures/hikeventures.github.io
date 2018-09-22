@@ -47,6 +47,6 @@ Jacket inside out with the mesh front bag.
 ## Recommendation
 I have tested the Montane Minimus Smock <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self"> on my trip to Sarek National Park</a> in Sweden. If you are looking for a waterproof and lightweight jacket then you should give the Montane Minimus Smock a try.
 
-Personally, I would recommend the <a href="http://amzn.to/1lBVJ4S" rel="nofollow">Montane Minimus Jacket</a> over Montane Minimus Smock. It's just much easier to put-on/off the jacket. If you want something more durable then I can also recommend the [Arcteryx Tecto FL jacket](http://hikeventures.com/arcteryx-tecto-fl-jacket/).
+Personally, I would recommend the <a href="http://amzn.to/1lBVJ4S" >Montane Minimus Jacket</a> over Montane Minimus Smock. It's just much easier to put-on/off the jacket. If you want something more durable then I can also recommend the [Arcteryx Tecto FL jacket](http://hikeventures.com/arcteryx-tecto-fl-jacket/).
 
-You can get the Montane Minimus Smock on <a href="http://amzn.to/2uYalBL" target="_blank" rel="nofollow">Amazon</a>.
+You can get the Montane Minimus Smock on <a href="http://amzn.to/2uYalBL" target="_blank" >Amazon</a>.
