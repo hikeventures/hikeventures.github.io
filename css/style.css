@@ -1,34 +1,6 @@
 
 
 
-#main-img {
-
-  height: 250px;
-  width:100%
-}
-
-@media screen and (max-width: 767px) {
-    #main-img{
-    	<script type="text/javascript" src="//www.avantlink.com/link.php?ml=220479&amp;p=125311&amp;pw=150351&amp;ctc=post&amp;open=_blank"></script>
-    }
-}
-
-@media screen and (min-width: 768px) {
-    #main-img{
-    	<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=post&amp;open=_blank"></script>
-        }
-}
-@media (min-width: 992px) {
-      #main-img{
-          <script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=post&amp;open=_blank"></script>
-      }
-}
-@media (min-width: 1200px) {
-     #main-img{
-<script type="text/javascript" src="//www.avantlink.com/link.php?ml=196169&amp;p=125311&amp;pw=150351&amp;ctc=post&amp;open=_blank"></script>
-     }
-}
-
 .btn-danger {
   background-color: hsl(36, 100%, 40%) !important;
   background-repeat: repeat-x;
