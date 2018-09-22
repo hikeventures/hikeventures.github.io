@@ -41,7 +41,7 @@ The next morning I checked out Katjas new HMG Porter 5400 (white) next to my HMG
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30829388848/in/dateposted-public/" title="Liesjärvi National Park"><img src="https://farm2.staticflickr.com/1841/30829388848_3e2071df9a_k.jpg" width="2048" height="1365" alt="Liesjärvi National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
-The next day we took a view videos on how we inflated the packrafts and then it was time for paddling.
+Then we took a view videos on how we inflated the packrafts and then it was time for paddling.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30829390778/in/dateposted-public/" title="Liesjärvi National Park"><img src="https://farm2.staticflickr.com/1847/30829390778_953e5e2b4e_k.jpg" width="2048" height="1365" alt="Liesjärvi National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
