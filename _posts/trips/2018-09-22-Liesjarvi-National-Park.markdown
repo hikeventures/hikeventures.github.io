@@ -24,11 +24,11 @@ Even so it was raining when I arrived at the parking spot it turned out that the
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30829385918/in/dateposted-public/" title="Liesjärvi National Park"><img src="https://farm2.staticflickr.com/1859/30829385918_c0bf02d4d5_k.jpg" width="2048" height="1365" alt="Liesjärvi National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-
+At the camp fire we tried to take some pictures and it worked quite well.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30829379318/in/dateposted-public/" title="Liesjärvi National Park"><img src="https://farm2.staticflickr.com/1855/30829379318_ad2ca90b73_k.jpg" width="2048" height="1365" alt="Liesjärvi National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-At the camp fire we tried to take some pictures and it worked quite well.
+Also I became interested to create my own dehydrated camping food in the future because I am really fed up of eating the stuff which you can buy in the camping store. I already bought a dehydrator and I am planning to experiment a bit with it during the winter season.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/44651249512/in/dateposted-public/" title="Liesjärvi National Park"><img src="https://farm2.staticflickr.com/1879/44651249512_e5ccba7c91_k.jpg" width="2048" height="1365" alt="Liesjärvi National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -41,7 +41,7 @@ The next morning I checked out Katjas new HMG Porter 5400 (white) next to my HMG
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30829388848/in/dateposted-public/" title="Liesjärvi National Park"><img src="https://farm2.staticflickr.com/1841/30829388848_3e2071df9a_k.jpg" width="2048" height="1365" alt="Liesjärvi National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
-Then we took a view videos on how we inflated the packrafts and then it was time for paddling.
+Then we took a view videos on how we inflated the packrafts and then it was time for packrafting.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30829390778/in/dateposted-public/" title="Liesjärvi National Park"><img src="https://farm2.staticflickr.com/1847/30829390778_953e5e2b4e_k.jpg" width="2048" height="1365" alt="Liesjärvi National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
