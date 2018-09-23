@@ -32,7 +32,9 @@ Morakniv shows us the Rookie and Eldris at the OutDoor Show 2017 in Friedrichsha
 We're still manufacturing all the products where we started, small city, kind of middle of Sweden, Mora. Same place so all our knives are still manufactured in Sweden, Mora.
 
 Some people might not know how many different types of knives we have. We have pretty much everything. Everything within outdoor. You have hiking, fishing, trekking or bushcraft, hunting and so on.
-
+<br>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29921618027/in/dateposted-public/" title="Morakniv Eldris"><img src="https://farm2.staticflickr.com/1936/29921618027_f468ae8277_b.jpg" width="1024" height="684" alt="Morakniv Eldris"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<br>
 **Konstantin:**	Mushroom picking.
 
 **Morakniv:**	Mushroom, yeah, for sure.
@@ -47,6 +49,9 @@ We do a lot of knives. We do something like, roughly four million knives a year 
 **Konstantin:**	Could you just mention a couple of examples of the adjustments or the new ones.
 
 **Morakniv:**	Yeah. I would consider it adjustment, is this one that's new for this year. It's the Rookie. So in this one we target the younger people like kids, I would say 5 up to 10, 12 years old. As you can see it's a much smaller knife, smaller handle. The blade is fairly small and short. It's very rounded so the tip is safe but still razor-sharp as all our other knives. And a finger guard. It's a way to get young people to start slowly get used to knives and do some-
+<br>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/44808284102/in/dateposted-public/" title="Morakniv Eldris Review"><img src="https://farm2.staticflickr.com/1872/44808284102_ca57185861_b.jpg" width="1024" height="684" alt="Morakniv Eldris Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<br>
 
 **Konstantin:**	To learn how to use them.
 

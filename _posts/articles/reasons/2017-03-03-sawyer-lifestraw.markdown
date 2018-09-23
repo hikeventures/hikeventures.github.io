@@ -46,6 +46,8 @@ The Lifestraw Personal Water Filter is a solution which does not need to be asse
 
 However, there are certain disadvantages with the LifeStraw compared to the Sawyer. First of all, it's not a solution to filter water in a bottle. So if you are planning to hike in a dry area where you won't find any rivers etc. you might have the wrong water filter with you.
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29921618237/in/dateposted-public/" title="Sawyer Mini Water Filter"><img src="https://farm2.staticflickr.com/1852/29921618237_a5686fc5f8_b.jpg" width="1024" height="684" alt="Sawyer Mini Water Filter"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Another disadvantage of the LifeStraw is that it is not able to clean as much water as the Sawyer. So for longer trips, I would rather take the Sawyer with me than the LifeStraw.
 
 When would I pick the LifeStraw filter?
