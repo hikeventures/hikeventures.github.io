@@ -10,7 +10,7 @@ tags:
   - Palm
   - packrafting
 layout: post
-image: 'https://farm2.staticflickr.com/1873/30852191068_945ccbbb8c_b.jpg'
+image: 'https://farm3.staticflickr.com/2322/32036071783_ecdded9554_b.jpg'
 ---
 
 When it comes to any paddle sport, one of the essentials for white water safety is your personal flotation device or a PFD for short. There are different types of PFDs that you can choose from (all sorts of shapes, colours and sizes, in fact) and there are different reasons why you would like to choose one or another.
