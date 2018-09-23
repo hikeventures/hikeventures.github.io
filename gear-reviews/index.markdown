@@ -177,20 +177,25 @@ published: true
 
        </tr>
 <tr>
+<td><a href="/palm-equipment-alpha">Palm Equipment Alpha PFD</a></td>
 <td><a href="/petzl-meteor-3-plus-helmet">Petzl Meteor 3+ Helmet</a></td>
 
-      <td><a href="/Sea-to-Summit-Ultra-Flex-Booties">Sea to Summit Ultra Flex Booties</a></td>
+
     </tr>
 <tr>
+<td><a href="/Sea-to-Summit-Ultra-Flex-Booties">Sea to Summit Ultra Flex Booties</a></td>
 <td><a href="/gear-preview-werner-shuna-paddles">Werner Shuna Paddles</a></td>
 
-      <td><a href="/windpaddle-sails-for-packrafting">WindPaddle Sail</a></td>
 
-
-</tr>
 
 
 <tr>
+
+<td><a href="/windpaddle-sails-for-packrafting">WindPaddle Sail</a></td>
+<td></td>
+</tr>
+<tr>
+
         	<td><strong>Snowshoeing</strong></td><td></td></tr>
         <tr>
 
