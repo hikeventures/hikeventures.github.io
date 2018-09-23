@@ -12,7 +12,7 @@ tags:
 layout: post
 image: https://farm2.staticflickr.com/1899/30829383808_e01baeddf7_k.jpg
 ---
-A few days ago I visited the <a  href="http://www.nationalparks.fi/en/liesjarvinp/">Liesjärvi National Park</a> together with Kaj and Catja Koskinen to try our our new Alpacka Raft Gnarwhal which we bought at Packraft Europe who also organised the <a href="http://www.hikeventures.com/Slovenia/">European Meet-up</a> in Slovenia.
+A few days ago I visited the <a  href="http://www.nationalparks.fi/en/liesjarvinp/">Liesjärvi National Park</a> together with Kaj and Catja Koskinen to try our our new Alpacka Raft Gnarwhal which we bought at Packraft Europe who also organised the <a href="http://www.hikeventures.com/Slovenia/">European Meet-up</a> in Slovenia. Liesjärvi National Park is about a 1.5 hours car drive away from Helsinki and an alternative to Nuuksio National Park if you live in the Helsinki region (and probably also less crowded with people) and want to go hiking or packrafting.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30829383808/in/dateposted-public/" title="Liesjärvi National Park"><img src="https://farm2.staticflickr.com/1899/30829383808_e01baeddf7_k.jpg" width="2048" height="1365" alt="Liesjärvi National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <br>
