@@ -1,5 +1,4 @@
 ---
-published: false
 title: The Alpha PFD by Palm Equipment - Review
 description: Testing the Palm Equipment Alpha PFD
 date: 2018-09-23T13:14:01.000Z
@@ -39,7 +38,7 @@ It’s not only about the amount of flotation that it gives (though it is a very
 
 Let me start by talking about the floatation, which, to a certain extent, should be treated more as a prerequisite. The Alpha PFD has EN ISO 12402-5 / 12402-6 certification, in which the first number refers to Buoyancy aids (level 50), which International Organization for Standartization (ISO) describes as “buoyancy aids with a buoyancy of not less than 50 N used in sheltered waters with help and rescue close at hand under such circumstances where more bulky or buoyant devices can impair the user's activity.”
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32731326651/in/dateposted-public/" title="Packrafting in Portugal"><img src="https://farm4.staticflickr.com/3905/32731326651_2d499feec4_b.jpg" width="1024" height="683" alt="Packrafting in Portugal"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32731326651/in/dateposted-public/" title="Packrafting in Portugal"><img src="https://farm4.staticflickr.com/3905/32731326651_2d499feec4_b.jpg" width="1024" height="683" alt="Packrafting in Portugal"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> ('Fixing' my paddle in Portugal)
 
 Thus, this PFD has at least 5.1 kg (11.2 lbs) of buoyancy as 1 newton equals 102 grams. In fact, the International Canoe Federation (ICF) certified it at 6.12 kg (13.49 lbs or 60 N) and accredited it to be used in slalom competition.
 
@@ -47,7 +46,7 @@ Such accreditation means that it should also be enough to use the Alpha PFD for 
 
 And indeed, I weigh around 90 kg (200 lbs) and I have gone swimming dozens of times while wearing this PFD (and not always on purpose), and I never had to question it as it always provided me with enough support.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/34463267325/in/dateposted-public/" title="Swedish Packrafting Round Up 2017"><img src="https://farm5.staticflickr.com/4185/34463267325_a2305160fc_b.jpg" width="1024" height="684" alt="Swedish Packrafting Round Up 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/34463267325/in/dateposted-public/" title="Swedish Packrafting Round Up 2017"><img src="https://farm5.staticflickr.com/4185/34463267325_a2305160fc_b.jpg" width="1024" height="684" alt="Swedish Packrafting Round Up 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> (Scouting the rapids in Sweden)
 
 I can imagine that if I were to paddle even higher class white water (I am usually going for maximum 3+) or if I were to travel in a remote area completely on my own, I might want to get a PFD with even higher buoyancy. But so far, the Alpha PFD has proven to be sufficient.
 
@@ -55,9 +54,9 @@ I can imagine that if I were to paddle even higher class white water (I am usual
 
 It is well known that the best PFD is the one you will wear, which is why you need to find the one you will be comfortable wearing for an extended period of time and do not feel tempted to take it off. It should not restrict your movements either. And the Alpha PFD is just like that.
 
-  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/41000377505/in/dateposted-public/" title="European Packrafting Meetup 2018 Soca River Slovenia"><img src="https://farm1.staticflickr.com/979/41000377505_c1d9c31595_h.jpg" width="1024" height="1500" alt="European Packrafting Meetup 2018 Soca River Slovenia"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/41000377505/in/dateposted-public/" title="European Packrafting Meetup 2018 Soca River Slovenia"><img src="https://farm1.staticflickr.com/979/41000377505_c1d9c31595_h.jpg" width="1024" height="1500" alt="European Packrafting Meetup 2018 Soca River Slovenia"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> (On the Soca, Slovenia)
 
-It is a pullover style PFD with a low profile. Its minimalist design means that it has only the front and the back panels that fit comfortably around the body, leaving a lot of freedom for arm movement. The four side adjustments and two adjustable shoulder straps help to finetune the fit.
+It is a pullover style PFD with a low profile. Its minimalist design means that it has only the front and the back panels that fit comfortably around the body, leaving a lot of freedom for arm movement. The four side adjustments and two adjustable shoulder straps help to fine-tune the fit.
 
 In some cases, I like to make it snugger, in other case (e.g., on a hot day on flat water) I might make it a bit looser. I have worn it for up to ten hours a day, 5 days in a row and, on the whole, I did not find it disturbing, annoying or uncomfortable.
 
@@ -65,12 +64,12 @@ There are only two minor points that need to be mentioned. The first one is that
 
 The other point is that you need to adjust the PFD every time you put it on. The front-entry or side-entry types have an advantage in this case. However, this is not really a problem and just a matter of minor inconvenience, which I can easily minimize by adjusting the two straps only on my right side (I am right-handed) and keeping the rest as they are.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/41000386725/in/dateposted-public/" title="European Packrafting Meetup 2018 Soca River Slovenia"><img src="https://farm1.staticflickr.com/973/41000386725_1f257b3dc5_b.jpg" width="1024" height="683" alt="European Packrafting Meetup 2018 Soca River Slovenia"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/41000386725/in/dateposted-public/" title="European Packrafting Meetup 2018 Soca River Slovenia"><img src="https://farm1.staticflickr.com/973/41000386725_1f257b3dc5_b.jpg" width="1024" height="683" alt="European Packrafting Meetup 2018 Soca River Slovenia"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> (On the Soca, Slovenia)
 
 ## Colours and Extras
 Moving on to the next point, the Alpha PFD comes in two colours - red and jet grey (with light blue straps). The one I have is red, which is my preferred colour for a PFD. The reason why I choose red is to be more visible on and in the water.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/44151380474/in/dateposted-public/" title="Scotland 2017"><img src="https://farm2.staticflickr.com/1932/44151380474_f581946ef9_b.jpg" width="1024" height="768" alt="Scotland 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/44151380474/in/dateposted-public/" title="Scotland 2017"><img src="https://farm2.staticflickr.com/1932/44151380474_f581946ef9_b.jpg" width="1024" height="768" alt="Scotland 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> (An after-packrafting cup of tea in Scotland)
 
 I am not so much interested in what my friends from Sweden call ‘tactical colours’. And even if I had a black (or a grey) PFD, I would still stand out with my bright yellow boat. That is why I am actually happy that red was an option for it.
 
@@ -80,7 +79,7 @@ There are no external pockets, attachment points or lashing tabs. But somehow it
 
 ## Weight and Packability
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29934741277/in/dateposted-public/" title="Germany 2017"><img src="https://farm2.staticflickr.com/1919/29934741277_86487bd755_b.jpg" width="1024" height="768" alt="Germany 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29934741277/in/dateposted-public/" title="Germany 2017"><img src="https://farm2.staticflickr.com/1919/29934741277_86487bd755_b.jpg" width="1024" height="768" alt="Germany 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> (Portaging on the Isar, Germany)
 
 Cutting down to a bare minimum has resulted in the fact that this is one of the lightest white-water certified PFDs on the market. The M/L size I have is only 607 grams, which is very light considering the fact that it has 60 N buoyancy. It also packs relatively small and it is my go-to packrafting PFD for international travel. It can very easily be carried on the side of my HMG Porter 4400. I have used it as far away as in Russia and Japan and as close as the local river 200 hundred meters away from my home.
 
@@ -88,12 +87,12 @@ Cutting down to a bare minimum has resulted in the fact that this is one of the 
 
 A couple of times, I have also borrowed it to my friends, who are experienced packrafters as well. Here is what they have to say about the Alpha PFD.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/44151380574/in/dateposted-public/" title="Sneek 2018"><img src="https://farm2.staticflickr.com/1920/44151380574_b13c555a67_b.jpg" width="1024" height="768" alt="Sneek 2018"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> (Jacob)
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/44151380574/in/dateposted-public/" title="Sneek 2018"><img src="https://farm2.staticflickr.com/1920/44151380574_b13c555a67_b.jpg" width="1024" height="768" alt="Sneek 2018"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> (Jacob in Sloten, The Netherlands)
 
 Jacob (a.k.a. Urban Packrafter): “There was something with the waist strap. It twisted when I was wearing it / put it on and it seemed like it would do that often. Don’t know if it was just me doing it wrong. But beside that it was a good PFD and nice with good arm movement. I didn’t think much about the vest when we paddled, so that was a good sign.”
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29934741067/in/dateposted-public/" title="Dunajec 2018"><img src="https://farm2.staticflickr.com/1967/29934741067_5387a8f015_b.jpg" width="768" height="1024" alt="Dunajec 2018"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-(Shimon)
+(Shimon on the Dunajec in the south of Poland)
 
 Shimon: “It was comfortable to wear. But only wished it had a larger pocket for a camera.”
 
