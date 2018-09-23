@@ -19,19 +19,6 @@ When it comes to any paddle sport, one of the essentials for white water safety 
 <br>
 <!--more-->
 
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-	- [Buoyancy](#buoyancy)
-	- [Wearing Comfort](#wearing-comfort)
-	- [Colours and Extras](#colours-and-extras)
-	- [Weight and Packability](#weight-and-packability)
-	- [Opinions of other packrafters](#opinions-of-other-packrafters)
-	- [Summary](#summary)
-		- [Plus](#plus)
-		- [Minus](#minus)
-
-<!-- /TOC -->
-
 It’s not only about the amount of flotation that it gives (though it is a very important point to consider, no doubt about that), but also about the comfort of wearing it, the freedom of movement, its colour and extras (e.g., pockets or a knife lash tab) and, what is especially important for packrafting, its weight and packing size. And the Alpha by Palm Equipment is exactly what I personally searched for in a packrafting PFD. Here is why.
 
 ## Buoyancy
