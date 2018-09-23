@@ -33,7 +33,9 @@ Such accreditation means that it should also be enough to use the Alpha PFD for 
 
 And indeed, I weigh around 90 kg (200 lbs) and I have gone swimming dozens of times while wearing this PFD (and not always on purpose), and I never had to question it as it always provided me with enough support.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/34463267325/in/dateposted-public/" title="Swedish Packrafting Round Up 2017"><img src="https://farm5.staticflickr.com/4185/34463267325_a2305160fc_b.jpg" width="1024" height="684" alt="Swedish Packrafting Round Up 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> (Scouting the rapids in Sweden)
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/34463267325/in/dateposted-public/" title="Swedish Packrafting Round Up 2017"><img src="https://farm5.staticflickr.com/4185/34463267325_a2305160fc_b.jpg" width="1024" height="684" alt="Swedish Packrafting Round Up 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> (Scouting the rapids in [Sweden][f1ab70f2])
+
+  [f1ab70f2]: http://www.hikeventures.com/swedish-packrafting-round-up-2018/ "Sweden"
 
 I can imagine that if I were to paddle even higher class white water (I am usually going for maximum 3+) or if I were to travel in a remote area completely on my own, I might want to get a PFD with even higher buoyancy. But so far, the Alpha PFD has proven to be sufficient.
 
