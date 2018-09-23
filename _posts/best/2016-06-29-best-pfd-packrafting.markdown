@@ -13,7 +13,10 @@ tags:
 
 Here is my <a href="#table">selection</a> of the best life jackets or PFDs for Packrafting and Kayaking in 2018.
 
-As we are frequently on packrafting trips we are always interested to find new packrafting gear like.
+As we are frequently on packrafting trips we are always interested to find new packrafting gear like. We also [review][e2fa46ca] sometimes PFDs such as the [Alpha PFD][3601875e] from Palm.
+
+  [e2fa46ca]: http://www.hikeventures.com/palm-equipment-alpha/ "Palm Alpha PFD"
+  [3601875e]: https://amzn.to/2QRRrHb "Palm Alpha PFD"
 
 The life jackets in this blog post are also suitable for Kayaking. In fact they have probably been designed with Kayakers in mind as I have not heard about specific packrafting life jackets yet (nor do I think that there would be much of a difference).
 
