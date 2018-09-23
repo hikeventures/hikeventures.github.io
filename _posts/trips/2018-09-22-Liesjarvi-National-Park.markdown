@@ -24,7 +24,7 @@ Even so it was raining when I arrived at the parking spot it turned out that the
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30829385918/in/dateposted-public/" title="Liesjärvi National Park"><img src="https://farm2.staticflickr.com/1859/30829385918_c0bf02d4d5_k.jpg" width="2048" height="1365" alt="Liesjärvi National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-At the camp fire we tried to take some pictures and it worked quite well.
+At the camp fire we grilled sausages and talked about the past and upcoming trips.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30829379318/in/dateposted-public/" title="Liesjärvi National Park"><img src="https://farm2.staticflickr.com/1855/30829379318_ad2ca90b73_k.jpg" width="2048" height="1365" alt="Liesjärvi National Park"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
