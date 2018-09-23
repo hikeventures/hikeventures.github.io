@@ -41,7 +41,9 @@ I can imagine that if I were to paddle even higher class white water (I am usual
 
 It is well known that the best PFD is the one you will wear, which is why you need to find the one you will be comfortable wearing for an extended period of time and do not feel tempted to take it off. It should not restrict your movements either. And the Alpha PFD is just like that.
 
-  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/41000377505/in/dateposted-public/" title="European Packrafting Meetup 2018 Soca River Slovenia"><img src="https://farm1.staticflickr.com/979/41000377505_c1d9c31595_h.jpg" width="1024" height="1500" alt="European Packrafting Meetup 2018 Soca River Slovenia"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> (On the Soca, Slovenia)
+  <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/41000377505/in/dateposted-public/" title="European Packrafting Meetup 2018 Soca River Slovenia"><img src="https://farm1.staticflickr.com/979/41000377505_c1d9c31595_h.jpg" width="1024" height="1500" alt="European Packrafting Meetup 2018 Soca River Slovenia"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> (On the [Soca][e5b170be], Slovenia)
+
+  [e5b170be]: http://www.hikeventures.com/Slovenia/ "Soca"
 
 It is a pullover style PFD with a low profile. Its minimalist design means that it has only the front and the back panels that fit comfortably around the body, leaving a lot of freedom for arm movement. The four side adjustments and two adjustable shoulder straps help to fine-tune the fit.
 
@@ -51,12 +53,16 @@ There are only two minor points that need to be mentioned. The first one is that
 
 The other point is that you need to adjust the PFD every time you put it on. The front-entry or side-entry types have an advantage in this case. However, this is not really a problem and just a matter of minor inconvenience, which I can easily minimize by adjusting the two straps only on my right side (I am right-handed) and keeping the rest as they are.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/41000386725/in/dateposted-public/" title="European Packrafting Meetup 2018 Soca River Slovenia"><img src="https://farm1.staticflickr.com/973/41000386725_1f257b3dc5_b.jpg" width="1024" height="683" alt="European Packrafting Meetup 2018 Soca River Slovenia"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> (On the Soca, Slovenia)
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/41000386725/in/dateposted-public/" title="European Packrafting Meetup 2018 Soca River Slovenia"><img src="https://farm1.staticflickr.com/973/41000386725_1f257b3dc5_b.jpg" width="1024" height="683" alt="European Packrafting Meetup 2018 Soca River Slovenia"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> (On the [Soca][165ec1dc], Slovenia)
+
+  [165ec1dc]: http://www.hikeventures.com/Slovenia/ "Soca"
 
 ## Colours and Extras
 Moving on to the next point, the Alpha PFD comes in two colours - red and jet grey (with light blue straps). The one I have is red, which is my preferred colour for a PFD. The reason why I choose red is to be more visible on and in the water.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/44151380474/in/dateposted-public/" title="Scotland 2017"><img src="https://farm2.staticflickr.com/1932/44151380474_f581946ef9_b.jpg" width="1024" height="768" alt="Scotland 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> (An after-packrafting cup of tea in Scotland)
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/44151380474/in/dateposted-public/" title="Scotland 2017"><img src="https://farm2.staticflickr.com/1932/44151380474_f581946ef9_b.jpg" width="1024" height="768" alt="Scotland 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> (An after-packrafting cup of tea in [Scotland][a3d98172])
+
+  [a3d98172]: http://www.hikeventures.com/Packrafting-River-Dee-Scotland-1/ "Scotland"
 
 I am not so much interested in what my friends from Sweden call ‘tactical colours’. And even if I had a black (or a grey) PFD, I would still stand out with my bright yellow boat. That is why I am actually happy that red was an option for it.
 
