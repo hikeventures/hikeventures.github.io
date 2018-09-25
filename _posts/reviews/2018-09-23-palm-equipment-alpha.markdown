@@ -95,7 +95,7 @@ Shimon: “It was comfortable to wear. But only wished it had a larger pocket fo
 
 ## Summary
 
-On the whole, as Palm themselves said it about this PFD absolutely correctly – less is more. It also refers to its price, which is rather small in comparison to a lot of other white-water PFDs. So, if you are looking for a good, reliable, lightweight PDF and do not need a lot of extras, this one might be for you.
+On the whole, as Palm themselves said it about [this PFD][39f13560] absolutely correctly – less is more. It also refers to its price, which is rather small in comparison to a lot of other white-water PFDs. So, if you are looking for a good, reliable, lightweight PDF and do not need a lot of extras, this one might be for you.
 
 ### Plus
 
