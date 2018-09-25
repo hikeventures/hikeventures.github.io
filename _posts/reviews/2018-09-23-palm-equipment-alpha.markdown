@@ -74,6 +74,7 @@ When it comes to ‘extras’, there are not many. Actually, the Alpha PHD is ve
 
 There are no external pockets, attachment points or lashing tabs. But somehow it just feels right. The only regret is that the inside pocket could have been bigger – at least big enough to fit a complete phone. As it is, I still use this pocket to keep my mobile, but it sticks out a bit.
 
+
 ## Weight and Packability
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29934741277/in/dateposted-public/" title="Germany 2017"><img src="https://farm2.staticflickr.com/1919/29934741277_86487bd755_b.jpg" width="1024" height="768" alt="Germany 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> (Portaging on the Isar, Germany)
