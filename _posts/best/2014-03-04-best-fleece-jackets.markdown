@@ -11,7 +11,7 @@ tags:
   - fleece jackets
 layout: post
 ---
-
+ 
 Here is my <a href="#table">selection</a>  of the best lightweight fleece jackets for 2018 which I would consider to buy for my next hiking or backpacking adventure.
 
 Here is my [selection](#the-best-fleece-jackets-of-2018) of the best lightweight fleece jackets for 2017 - 2018 which I would consider to buy for my next hiking or backpacking adventure.
