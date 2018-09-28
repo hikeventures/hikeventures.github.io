@@ -87,7 +87,7 @@ When you contact us by email or through our website, we store your your informat
 
 ## What we use your information for
 
-We occasionally use your contact information to send you details of our products and services or our newsletter. When we do, you have the option to unsubscribe from these communications and we won’t send them to you again. We might also email or phone you about our products and services, but if you tell us not to, we won’t get in touch again. We will use your information to send you invoices, statements, or reminders.
+We occasionally use your contact information to send you details of our products and services or our newsletter. When we do, you have the option to unsubscribe from these communications and we won’t send them to you again. We might also email or phone you about our products and services, but if you tell us not to, we won’t get in touch again. We will use your information to send you invoices, statements, or reminders. 
 
 ## Who’s responsible for your information at our company
 
