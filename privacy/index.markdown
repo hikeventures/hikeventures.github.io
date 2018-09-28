@@ -43,13 +43,13 @@ We value your privacy as much as we do our own, so we’re committed to keeping 
 
 ## How we collect information
 
-We ask for contact information including your name, email address, and phone number, on our website so that we can reply to your enquiry.
+We ask for contact information including your name, email address, address, and phone number, on our website so that we can reply to your enquiry.
 
-Our website doesn’t use cookies or scripts that were designed to track the websites you visit. We don’t use analytics or native social media ‘like’ or ‘sharing’ buttons which also build profiles of your internet activity.
+Our website doesn’t use cookies or scripts that were designed to track the websites you visit. We don’t use analytics or native social media ‘like’ or ‘sharing’ buttons which also build profiles of your internet activity. Third party tools installed on our website may track your visit on our website (see policy links of third party providers under "What information we collect").
 
-We collect your email address when you sign up for one of our newsletters.
+We collect your email address when you sign up for one of our newsletters. You can unsubscribe at any time by sending an email to contact@hikeventures.com
 
-We ask for your account and contact information when you hire or buy something from us.
+We ask for your contact information when you buy something from us.
 
 Occasionally, we might receive your contact information from one of our partners. If we do, we protect it in exactly the same way as if you give it to us directly.
 
@@ -63,12 +63,16 @@ We are using third party services on our website and their privacy policies and 
 [Twitter](https://twitter.com/de/privacy),
 [Instagram](https://help.instagram.com/155833707900388), [Flickr](https://www.smugmug.com/about/privacy-flickr),
 [Facebook](https://www.facebook.com/about/privacy/),
-[Mailchimp](https://mailchimp.com/legal/privacy/) and
+[Mailchimp](https://mailchimp.com/legal/privacy/),
+[Silktide](https://silktide.com/privacy-policy/)
+and
 [Google](https://policies.google.com/privacy?hl=en).
 
 Pictures, videos and text are used to offer content on our blog and social media websites.
 
 If you wish to have a picture from our blog or social media accounts removed where you can identify yourself please contact us at contact@hikeventures.com.
+
+We collect your email address when you sign up for our newsletter. You can
 
 ## What information we hold
 
@@ -83,15 +87,15 @@ All purchases are processed by PayPal and we never have access to your credit ca
 
 ## Where we store your information
 
-When you contact us by email or through our website, we store your your information in Webmail Gandi, Unibox, Holvi and / or Cardhop. If you sign up for a newsletter, we store your email address in Mailchimp, which is the marketing platform we prefer. When you buy something, your information is stored in PayPal, Unibox, Holvi, Webmail Gandi and / or Cardhop and if we do business, we store your information in our accounts software, which is an Excel list and Holvi. We chose these systems partly for their commitment to security.
+When you contact us by email or through our website, we store your your information in Webmail Gandi, Unibox app, Holvi and / or Cardhop app. If you sign up for a newsletter, we store your email address in Mailchimp, which is the marketing platform we prefer. When you buy something, your information is stored in PayPal, Unibox, Holvi, Webmail Gandi and / or Cardhop and if we do business, we store your information in our accounts software, which is an Excel list and / or Holvi.
 
 ## What we use your information for
 
-We occasionally use your contact information to send you details of our products and services or our newsletter. When we do, you have the option to unsubscribe from these communications and we won’t send them to you again. We might also email or phone you about our products and services, but if you tell us not to, we won’t get in touch again. We will use your information to send you invoices, statements, or reminders.  
+We occasionally use your contact information to send you details of our products and services or our newsletter. When we do, you have the option to unsubscribe from these communications and we won’t send them to you again. We will use your information to send you invoices, statements, or reminders.  
 
 ## Who’s responsible for your information at our company
 
-Patrick Dormischian and Constantin Gridnevskiy are responsible for the security of your information. You can contact them by email at contact@hikeventures.com or by phone on +358 50 3321290 if you have any concerns about the information we store.
+Patrick Dormischian and Konstantin Gridnevskiy are responsible for the security of your information. You can contact us by email at contact@hikeventures.com or by phone on +358 50 3321290 if you have any concerns about the information we store.
 
 ## Who has access to information about you
 
@@ -99,7 +103,7 @@ When we store information in our own systems, only the people who need it have a
 
 ## The steps we take to keep your information private
 
-Where we store your information in third-party services, we restrict access only to people who need it. We store passwords in MacPass, an encrypted password manager, use a different, randomly generated password for each service, and never use the same password twice.
+Where we store your information in third-party services, we restrict access only to people who need it. We store passwords in Apples Password Manager, an encrypted password manager, use a different, randomly generated password for each service, and never use the same password twice.
 
 The computers we use are all encrypted using FileVault and are protected by a passcode or fingerprint access. These computers ask for authentication whenever they’re started or after 5 minutes of inactivity. Our mobile devices are also protected by a fingerprint or facial recognition.
 
