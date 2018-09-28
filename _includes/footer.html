@@ -59,10 +59,25 @@
     amzn_assoc_region = "US";
 </script>
 <script src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&Operation=GetScript&ID=OneJS&WS=1&MarketPlace=US"></script>
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
 <script>
-  (function (w,i,d,g,e,t,s) {w[d] = w[d]||[];t= i.createElement(g);
-    t.async=1;t.src=e;s=i.getElementsByTagName(g)[0];s.parentNode.insertBefore(t, s);
-  })(window, document, '_gscq','script','//widgets.getsitecontrol.com/156947/script.js');
-
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#eb6c44",
+      "text": "#ffffff"
+    },
+    "button": {
+      "background": "#f5d948"
+    }
+  },
+  "theme": "classic",
+  "content": {
+    "message": "We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.",
+    "href": "www.hikeventures.com/privacy/"
+  }
+})});
 </script>
 <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us6.list-manage.com","uuid":"b9071ee797d2858209105f02e","lid":"a8d3e05216","uniqueMethods":true}) })</script>
