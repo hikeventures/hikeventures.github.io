@@ -21,7 +21,7 @@ There are plenty of possibilities for outdoors activities in Vaasa especially wh
 ## Packrafting in Pilvilampi
 Joni and me went packrafting to Pilvilampi, a recreational area nearby Vaasa and a paradise for birdwatchers.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/9275207432" title="SDIM2656"><img src="https://farm8.staticflickr.com/7346/9275207432_7cdbaf09ae_b.jpg" width="1024" height="683" alt="Outdoor activities in Vaasa"></a>
+<img src="https://farm8.staticflickr.com/7346/9275207432_7cdbaf09ae_b.jpg" width="1024" height="683" alt="Outdoor activities in Vaasa">
 
 Joni and me agreed to meet at 9.30 pm at the Pilvilampi lake which was a 5 km ride from the city centre of Vaasa. Mosquitoes immediately attacked us so we were in a hurry to get with our <a rel="nofollow" href="http://hikeventures.com/gear-review-unpacking-alpacka-packraft/" target="_self">packrafts</a>  into the lake as soon as possible to get rid of those blood-hungry creatures.
 
@@ -29,29 +29,32 @@ On this trip I wanted to test how my new <a rel="nofollow" href="http://hikevent
 
 Joni was testing his new Canon 6D camera and decided to attach his bicycle on his packraft.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/9272420717" title="SDIM2667"><img src="https://farm3.staticflickr.com/2862/9272420717_eec5c70867_b.jpg" width="1024" height="683" alt=""></a>
+<img src="https://farm3.staticflickr.com/2862/9272420717_eec5c70867_b.jpg" width="1024" height="683" alt="">
+
 Day dreaming while packrafting.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/9301000094" title="IMG_2533"><img src="https://farm6.staticflickr.com/5482/9301000094_a278e47963_b.jpg" width="1024" height="683" alt="IMG_2533"></a>
+<img src="https://farm6.staticflickr.com/5482/9301000094_a278e47963_b.jpg" width="1024" height="683" alt="IMG_2533">
 
 <a rel="nofollow" href="http://hikeventures.com/gear-review-suunto-ambit-2-black-hr/" target="_self">Suunto Ambit2</a>  tracked my route
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/9373174776" title="Suunto Ambit 2"><img src="https://farm6.staticflickr.com/5545/9373174776_c4f05fd02d_b.jpg" width="1024" height="715" alt="Suunto Ambit 2"></a>
+<img src="https://farm6.staticflickr.com/5545/9373174776_c4f05fd02d_b.jpg" width="1024" height="715" alt="Suunto Ambit 2">
+
 Water lilies ...
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/9370399879" title="Packrafting Finland"><img src="https://farm4.staticflickr.com/3767/9370399879_f23aba7da8_b.jpg" width="1024" height="326" alt="Packrafting Finland"></a>
+<img src="https://farm4.staticflickr.com/3767/9370399879_f23aba7da8_b.jpg" width="1024" height="326" alt="Packrafting Finland">
 
 At 23.30 it was still bright and we enjoyed the midnight sun and the silence of the nature. <a rel="nofollow" href="http://hikeventures.com/gear-review-hmg-porter-4400-black/" target="_blank">HMG Porter 4400</a>  on my Packraft
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/9370401897" title="SDIM3029"><img src="https://farm6.staticflickr.com/5517/9370401897_f1f1a48706_b.jpg" width="1024" height="683" alt="SDIM3029"></a>
+<img src="https://farm6.staticflickr.com/5517/9370401897_f1f1a48706_b.jpg" width="1024" height="683" alt="SDIM3029">
+
 The length of this frog was around 1 cm.
 
 ## Hiking to a bird tower
 Approximately 5 km south of the Vaasa city center there is a possibility to hike in Risö; (Etelainen Kaupunginselka bay) and observe birds from a bird tower (lintutorni) - GPS: 63.05774 N - 21.67732 E. The trail to the tower is quite easy. However, you have to fight with hundreds of mosquitos while walking in the forrest. This was a good opportunity to test my new <a rel="nofollow" href="http://hikeventures.com/gear-review-arcteryx-squamish-hoody/" target="_self">Arcteryx Squamish hoody</a>  wind jacket.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/9256982118" title="Risö Lintutorni"><img src="https://farm6.staticflickr.com/5493/9256982118_3dc2a5755f_b.jpg" width="1024" height="683" alt="Risö Lintutorni"></a>
+<img src="https://farm6.staticflickr.com/5493/9256982118_3dc2a5755f_b.jpg" width="1024" height="683" alt="Risö Lintutorni">
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/9254202081" title="SDIM2584"><img src="https://farm3.staticflickr.com/2841/9254202081_9969c4e4be_b.jpg" width="1024" height="683" alt="SDIM2584"></a>
+<img src="https://farm3.staticflickr.com/2841/9254202081_9969c4e4be_b.jpg" width="1024" height="683" alt="SDIM2584">
 
 Those books where you can leave a note can be found at several constructions maintained by <a rel="nofollow" href="http://www.metsa.fi/" target="_blank">Metsähallitus</a> , a state enterprise which administers state-owned land and water areas in Finland.
 

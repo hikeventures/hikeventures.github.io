@@ -23,27 +23,27 @@ The Kullavuori watch tower is approximately 71 m above sea level which is quite 
 
 Even so the temperatures reached about 9C on that day there was still ice on the trail.
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26202782375/in/datetaken-public/" title="Kullavuori Raisio Finland"><img src="https://farm2.staticflickr.com/1540/26202782375_742f0a417f_b.jpg" width="100%" alt="Hiking Kullavuori Raisio Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://farm2.staticflickr.com/1540/26202782375_742f0a417f_b.jpg" width="100%" alt="Hiking Kullavuori Raisio Finland">
 
 A lean-to shelter or 'Laavu' in Finnish is very common to find in Finnish National Parks.
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26136468551/in/datetaken-public/" title="Kullavuori Raisio Finland"><img src="https://farm2.staticflickr.com/1709/26136468551_092f23ec54_b.jpg" width="100%" alt="Hiking Kullavuori Raisio Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://farm2.staticflickr.com/1709/26136468551_092f23ec54_b.jpg" width="100%" alt="Hiking Kullavuori Raisio Finland">
 
 A BBQ grill which was installed in front of a Laavu.
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26176864876/in/datetaken-public/" title="Kullavuori Raisio Finland"><img src="https://farm2.staticflickr.com/1645/26176864876_4ea0e4a2f6_b.jpg" width="100%" alt="Hiking Kullavuori Raisio Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://farm2.staticflickr.com/1645/26176864876_4ea0e4a2f6_b.jpg" width="100%" alt="Hiking Kullavuori Raisio Finland">
 
 A mini laavu which works as a storage place for fire wood.
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26110319972/in/datetaken-public/" title="Kullavuori Raisio Finland"><img src="https://farm2.staticflickr.com/1513/26110319972_2b6cb40b20_b.jpg" width="100%" alt="Hiking Kullavuori Raisio Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://farm2.staticflickr.com/1513/26110319972_2b6cb40b20_b.jpg" width="100%" alt="Hiking Kullavuori Raisio Finland">
 
 The trail was quite good marked and we came across several waypoints.
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26202780655/in/datetaken-public/" title="Kullavuori Raisio Finland"><img src="https://farm2.staticflickr.com/1526/26202780655_cbc9de6dd7_b.jpg" width="100%" alt="Hiking Kullavuori Raisio Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://farm2.staticflickr.com/1526/26202780655_cbc9de6dd7_b.jpg" width="100%" alt="Hiking Kullavuori Raisio Finland">
 
 The final bridge before reaching the watch tower.
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25600126873/in/datetaken-public/" title="Kullavuori Raisio Finland"><img src="https://farm2.staticflickr.com/1607/25600126873_c941c0e52c_b.jpg" width="100%" alt="Hiking Kullavuori Raisio Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://farm2.staticflickr.com/1607/25600126873_c941c0e52c_b.jpg" width="100%" alt="Hiking Kullavuori Raisio Finland">
 
 Kullavuori watch tower.
 

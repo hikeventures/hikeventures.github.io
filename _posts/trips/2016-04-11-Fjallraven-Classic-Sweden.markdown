@@ -26,15 +26,12 @@ Originally I was planning to hike the whole distance of 110 km in 4-5 days. But 
 
 I only realised how fast I was going only after we started to meet some people who started in the previous group several hours before us.
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26092020050/in/dateposted-public/" title="Fjällräven Classic in Sweden 2015"><img src="https://farm2.staticflickr.com/1633/26092020050_7fe4c5f927_b.jpg" width="100%" alt="Fjällräven Classic in Sweden 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
+<img src="https://farm2.staticflickr.com/1633/26092020050_7fe4c5f927_b.jpg" width="100%" alt="Fjällräven Classic in Sweden 2015">
 
 Hiking towards the top of Sweden. Even though the track is relatively easy, the views around you can be breathtaking.
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26364870175/in/dateposted-public/" title="Fjällräven Classic in Sweden 2015"><img src="https://farm2.staticflickr.com/1572/26364870175_ce6f5ac685_b.jpg" width="100%" alt="Fjällräven Classic in Sweden 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
+<img src="https://farm2.staticflickr.com/1572/26364870175_ce6f5ac685_b.jpg" width="100%" alt="Fjällräven Classic in Sweden 2015">
 
 Almost at Kebnekaise Mountain Lodge. While a busy event, I managed to enjoy the solitude most of the time. Only when I was approaching the checkpoints I could really see the whole extent of it.
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/26317798161/in/dateposted-public/" title="Fjällräven Classic 2015"><img src="https://farm2.staticflickr.com/1506/26317798161_5045dc3387_b.jpg" width="100%" alt="Fjällräven Classic 2015"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://farm2.staticflickr.com/1506/26317798161_5045dc3387_b.jpg" width="100%" alt="Fjällräven Classic 2015">

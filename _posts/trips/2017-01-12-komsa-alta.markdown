@@ -28,7 +28,7 @@ However, once we got higher up, the sky cleared and we were able to have a breat
 
 ---
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32116577482/in/dateposted-public/" title="Climbing Komsa Alta Northern Norway"><img src="https://c1.staticflickr.com/1/530/32116577482_1dfbd00d1e_k.jpg" width="2048" height="1152" alt="hiking winter komsa alta climbing Northern Norway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://c1.staticflickr.com/1/530/32116577482_1dfbd00d1e_k.jpg" width="2048" height="1152" alt="hiking winter komsa alta climbing Northern Norway">
 
 ---
 
@@ -36,7 +36,7 @@ Once we reached the top we decided to to pull on another layer of insulating clo
 
 ---
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31455622823/in/dateposted-public/" title="Climbing Komsa Alta Northern Norway"><img src="https://c1.staticflickr.com/1/346/31455622823_25b52744c5_k.jpg" width="2048" height="1152" alt="Komsa Alta antenna house top Northern Norway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://c1.staticflickr.com/1/346/31455622823_25b52744c5_k.jpg" width="2048" height="1152" alt="Komsa Alta antenna house top Northern Norway">
 
 ---
 
@@ -44,7 +44,7 @@ Unfortunately, after a view minutes we realized that a snowstorm would approach 
 
 ---
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32116568972/in/dateposted-public/" title="Northern Norway"><img src="https://c1.staticflickr.com/1/280/32116568972_878d75b930_k.jpg" width="2048" height="1152" alt="Alta Komsa Snowstorm AltaFjord Northern Norway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://c1.staticflickr.com/1/280/32116568972_878d75b930_k.jpg" width="2048" height="1152" alt="Alta Komsa Snowstorm AltaFjord Northern Norway">
 
 ---
 
@@ -59,7 +59,7 @@ So what did we see from the top of the Komsa?
 
 ---
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32116563352/in/dateposted-public/" title="Thule Upsling 35L"><img src="https://c1.staticflickr.com/1/395/32116563352_d0c641d313_k.jpg" width="2048" height="1152" alt="View from Komsa Alta Norway panorama"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://c1.staticflickr.com/1/395/32116563352_d0c641d313_k.jpg" width="2048" height="1152" alt="View from Komsa Alta Norway panorama">
 
 ---
 

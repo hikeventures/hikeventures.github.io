@@ -18,7 +18,9 @@ Last summer, I had a trip to Reinon Tupa - a wilderness cottage at the Kurikan N
 
 The wilderness cottage is usually available for groups and offers meeting rooms, sauna, meals, quad bikes and swamp walking adventures. It is quite an experience to walk in a swamp if you have never done it before. The service provided by the Reinon Tupa was excellent and I can highly recommend it to anyone looking for a day adventure in Finland.<BR><BR>
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/8264079591"><img src="https://farm9.staticflickr.com/8058/8264079591_789331168a_b.jpg" width="1024" height="683" alt="quad bike finland"></a><BR>Bog cotton was growing all over the place since the whole area is a swamp.<BR><BR>
+<img src="https://farm9.staticflickr.com/8058/8264079591_789331168a_b.jpg" width="1024" height="683" alt="quad bike finland">
+
+Bog cotton was growing all over the place since the whole area is a swamp.
 
 <a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/8264076485"><img src="https://farm9.staticflickr.com/8348/8264076485_cf67958cf6_b.jpg" width="1024" height="683" alt="quad biking swamp finland"></a><BR>The Kurikan Niinisto lake.<BR><BR>
 
