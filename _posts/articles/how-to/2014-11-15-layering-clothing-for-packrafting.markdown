@@ -50,21 +50,21 @@ avPcwShowInlineFromSearch('pcwContent2', 'Smartwool PhD Outdoor Ultralight Mini 
 
 ### Neoprene Dry Gloves
 
-Currently, I am wearing neoprene dry gloves when it's very cold e.g. <a href="http://www.palmequipmenteurope.com/product/pro" rel="nofollow" target="_blank">Palm Pro Gloves</a>.
+Currently, I am wearing neoprene dry gloves when it's very cold e.g. <a rel="nofollow" href="http://www.palmequipmenteurope.com/product/pro" rel="nofollow" target="_blank">Palm Pro Gloves</a>.
 
 ### Latex Socks and Sandals
-The <a href="http://www.packrafting-store.de/Clothing/Latex-socks::380.html" rel="nofollow" target="_blank">Latex Socks</a> work quite well for us. They are also sealing nicely if used together with a dry suite. Highly recommended. Use them together with the <a href="http://amzn.to/1q3n3KJ" target="_blank">Teva Sandals</a>.
+The <a rel="nofollow" href="http://www.packrafting-store.de/Clothing/Latex-socks::380.html" rel="nofollow" target="_blank">Latex Socks</a> work quite well for us. They are also sealing nicely if used together with a dry suite. Highly recommended. Use them together with the <a rel="nofollow" href="http://amzn.to/1q3n3KJ" target="_blank">Teva Sandals</a>.
 
 ---
 
 ### Anfibio Packsuit
-A dry suite is the most expensive item in our Clothing Layering System. The <a href="http://www.packrafting-store.de/Clothing/Anfibio-Packsuit::378.html" rel="nofollow" target="_blank">Anfibio Packsuit</a> is our dry suite. It's reasonably priced compared to other products and works quite well for us so far. You have to adjust the collar when you buy a new one so it snugs nicely around your throat.
+A dry suite is the most expensive item in our Clothing Layering System. The <a rel="nofollow" href="http://www.packrafting-store.de/Clothing/Anfibio-Packsuit::378.html" rel="nofollow" target="_blank">Anfibio Packsuit</a> is our dry suite. It's reasonably priced compared to other products and works quite well for us so far. You have to adjust the collar when you buy a new one so it snugs nicely around your throat.
 
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KWnlN7klqJI" frameborder="0" allowfullscreen></iframe>
-> Caj testing his dry suite.  <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
+> Caj testing his dry suite.  <a rel="nofollow" href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
 
 ---
 
-It's also a good idea to have specific clothes for the summer like the <a href="http://amzn.to/2dI0XrJ" rel="nofollow" target="_blank">Icebreaker Cool-Lite Sphere T-Shirt</a> or the <a href="http://amzn.to/2f6c0AW"  target="_blank">Astral Designs V-Eight PFD</a>.
+It's also a good idea to have specific clothes for the summer like the <a rel="nofollow" href="http://amzn.to/2dI0XrJ" rel="nofollow" target="_blank">Icebreaker Cool-Lite Sphere T-Shirt</a> or the <a rel="nofollow" href="http://amzn.to/2f6c0AW"  target="_blank">Astral Designs V-Eight PFD</a>.

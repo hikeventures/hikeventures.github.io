@@ -36,7 +36,7 @@ And you know what? The designs are so nice that I feel very comfortable to wear 
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30390165776/in/dateposted-public/" title="Icebreaker t-shirts look good"><img src="https://c1.staticflickr.com/9/8550/30390165776_ce8d18cf51_k.jpg" width="2048" height="1365" alt="Icebreaker t-shirt tshirt merino wool design"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30390165776/in/dateposted-public/" title="Icebreaker t-shirts look good"><img src="https://c1.staticflickr.com/9/8550/30390165776_ce8d18cf51_k.jpg" width="2048" height="1365" alt="Icebreaker t-shirt tshirt merino wool design"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 > A 'bikerafting' print on my Icebreaker t-shirt (on the left) and fitting in with my colleagues at work (on the right)
 
@@ -51,7 +51,7 @@ And this is why I like merino and Icebreaker garments in particular – they don
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30339912621/in/dateposted-public/" title="Wearing an Icebreaker while 'swamp-tramping' in Poland"><img src="https://c6.staticflickr.com/6/5722/30339912621_5f55cec9f0_h.jpg" width="1063" height="1600" alt="julbo swamp Icebreaker t-shirt tshirt merino wool Poland Biebrza hike patagonia"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30339912621/in/dateposted-public/" title="Wearing an Icebreaker while 'swamp-tramping' in Poland"><img src="https://c6.staticflickr.com/6/5722/30339912621_5f55cec9f0_h.jpg" width="1063" height="1600" alt="julbo swamp Icebreaker t-shirt tshirt merino wool Poland Biebrza hike patagonia"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 > 'Swamp-tramping' in Poland this spring
 
@@ -70,7 +70,7 @@ And even though it felt a bit strange to wear something woolen when the temperat
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29794614113/in/dateposted-public/" title="Konstantin wearing his 'featherweight' Icebreaker t-shirt"><img src="https://c2.staticflickr.com/6/5506/29794614113_1b0e26d535_k.jpg" width="2048" height="1536" alt="tshirt Featherweight Icebreaker t-shirt Japan travel merino wool"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/29794614113/in/dateposted-public/" title="Konstantin wearing his 'featherweight' Icebreaker t-shirt"><img src="https://c2.staticflickr.com/6/5506/29794614113_1b0e26d535_k.jpg" width="2048" height="1536" alt="tshirt Featherweight Icebreaker t-shirt Japan travel merino wool"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 > Wearing my 'featherweight' icebreaker during our trip to Japan last year
 
@@ -105,7 +105,7 @@ That is why this year, when we were preparing for our new Japan trip, she said t
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30390165446/in/dateposted-public/" title="Marta wearing her Icebreaker t-shirt in Japan"><img src="https://c7.staticflickr.com/9/8407/30390165446_808a99d388_k.jpg" width="2048" height="1536" alt="Icebreaker tshirt merino wool t-shirt Japan Osaka travelling travel moomin"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30390165446/in/dateposted-public/" title="Marta wearing her Icebreaker t-shirt in Japan"><img src="https://c7.staticflickr.com/9/8407/30390165446_808a99d388_k.jpg" width="2048" height="1536" alt="Icebreaker tshirt merino wool t-shirt Japan Osaka travelling travel moomin"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 > Marta in her Icebreaker t-shirt at the Osaka train station this year
 
@@ -115,4 +115,4 @@ To sum it up, I love my icebreakers because they look nice on me, I can wear the
 
 Final comment: Only recently, my wife told me that she would like to ask Santa Claus for a black icebreaker to replace her favorite one which was stolen earlier this year. And I have a feeling that he might grant her that wish.
 
-You can get the Icebreaker Tech T Lite on <a href="http://amzn.to/2w5FKSP" target="_blank" rel="nofollow">Amazon</a>.
+You can get the Icebreaker Tech T Lite on <a rel="nofollow" href="http://amzn.to/2w5FKSP" target="_blank" rel="nofollow">Amazon</a>.

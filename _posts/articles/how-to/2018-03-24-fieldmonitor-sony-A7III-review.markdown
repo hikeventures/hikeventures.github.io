@@ -10,7 +10,7 @@ layout: post
 image: https://farm1.staticflickr.com/792/39181313040_b25a39b799_b.jpg
 ---
 
-Yesterday, I have received my new <a href="https://amzn.to/2pBG6yY" >Sony A7III</a> and I was curious to find out how the <a  href="https://www.adamwilt.com/fieldmonitor/">FieldMonitor app</a> on my iPhone together with my new camera. So I contacted the developer of the FieldMonitor app and asked if his App would work with the Sony A7III?
+Yesterday, I have received my new <a rel="nofollow" href="https://amzn.to/2pBG6yY" >Sony A7III</a> and I was curious to find out how the <a rel="nofollow"  href="https://www.adamwilt.com/fieldmonitor/">FieldMonitor app</a> on my iPhone together with my new camera. So I contacted the developer of the FieldMonitor app and asked if his App would work with the Sony A7III?
 
 Unfortunately, there has been no tests with the FieldMonitor App and the Sony A7III yet so I got the opportunity to beta test the app on the Test Flight app (I have never used it before but the Test Flight app is made to test apps before they get released).
 <br>
@@ -38,8 +38,8 @@ After I received an email from the developer of the FieldMonitor app with an inv
 
 There is one issue which also the developer of the FieldMonitor app is aware of. Pressing the MENU button on the A7III to select for example a Picture Profile disconnects the remote.
 
-So how am I going to use this app? I will buy a <a href="https://amzn.to/2uoGrdp" >hot shoe mount</a> for my camera to attach my iPhone with it.
+So how am I going to use this app? I will buy a <a rel="nofollow" href="https://amzn.to/2uoGrdp" >hot shoe mount</a> for my camera to attach my iPhone with it.
 
-The screen of the iPhone is quite a bit bigger than the screen on the <a href="https://amzn.to/2pBG6yY">Sony A7III</a> and it may be easier to manual focus with the lens.
+The screen of the iPhone is quite a bit bigger than the screen on the <a rel="nofollow" href="https://amzn.to/2pBG6yY">Sony A7III</a> and it may be easier to manual focus with the lens.
 
 Further, I am planning to use the iPhone as a field monitor so I can see myself when I record "selfie" videos.

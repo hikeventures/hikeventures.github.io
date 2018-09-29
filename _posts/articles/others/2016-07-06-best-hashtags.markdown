@@ -12,7 +12,7 @@ Instagram is one of our favorite social media channel and since we are blogging 
 
 The list below is sorted by amount of media (in million). The hashtags with the most amount of media are obviously also the most popular ones. Using those hashtags can also creat a lot of visibility. The only disadvantage is that your picture will probably only be visible for a shorter period of time when doing a hashtag search since the search result will constantly be replaced with newer pictures from other users.
 
-If you like our blog you can <a href="https://www.instagram.com/hikeventures/">follow us</a> on Instagram.
+If you like our blog you can <a rel="nofollow" href="https://www.instagram.com/hikeventures/">follow us</a> on Instagram.
 <br>
 <!--more-->
 

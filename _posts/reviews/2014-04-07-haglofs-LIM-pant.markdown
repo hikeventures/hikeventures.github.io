@@ -20,11 +20,11 @@ Are you looking for waterproof rain pants for your next hiking, backpacking or a
 ## Features
 The main difference between the L.I.M. II and III pants is only a better material. The features of both pants are the same. The Haglöfs L.I.M III pants weight only 225 grams, features full side-zippers to easily pull on/off the pants during the hike and is comfortable to wear due to the elasticated waist and articulated knees.
 
-<a href="https://www.flickr.com/photos/90204224@N07/13685845154/"><img src="https://farm4.staticflickr.com/3728/13685845154_3c448e6706_b.jpg" width="1024" height="683" alt="Haglöfs LIM Pants Review"></a>
+<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/13685845154/"><img src="https://farm4.staticflickr.com/3728/13685845154_3c448e6706_b.jpg" width="1024" height="683" alt="Haglöfs LIM Pants Review"></a>
 
 The integrated belt also helps to cut weight.
 
-<a href="https://www.flickr.com/photos/90204224@N07/13685568363" title="Haglöfs L.I.M III Pull Pant"><img src="https://farm8.staticflickr.com/7393/13685568363_0fa0fe328a_b.jpg" width="1024" height="683" alt="Haglöfs L.I.M II Pull Pant"></a>
+<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/13685568363" title="Haglöfs L.I.M III Pull Pant"><img src="https://farm8.staticflickr.com/7393/13685568363_0fa0fe328a_b.jpg" width="1024" height="683" alt="Haglöfs L.I.M II Pull Pant"></a>
 
 Elastic straps on your ankles keeps dirt and water out.
 

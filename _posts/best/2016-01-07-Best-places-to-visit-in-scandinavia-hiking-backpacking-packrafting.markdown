@@ -49,7 +49,7 @@ If you are more into hiking than packrafting, then you should also give the Kung
 
 There is also an organized hiking event every summer called Fjällräven Classic where we also participated. More about this trip [here](http://www.hikeventures.com/packrafting-Njuoreatnu-Tornetrask-abisko/).
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/23640354826/in/photolist-BVAk9s-BW2Zue-C4jDBB-B6UK6Z-BTJj3W-C4jGit-C21ZSA-C4jKfa-BBci4h-BTJpDq-C227Pm-BTJsPd-C229VW-BW3ecp-C22bPL-BuNTzn-BuNXQM-BTJrCA-C4jMBz-BW3cJp" title="Best places to visit in Scandinavia for outdoor adventures - Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"><img src="https://farm1.staticflickr.com/738/23640354826_a380cd2b82_b.jpg" width="100%" alt="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/23640354826/in/photolist-BVAk9s-BW2Zue-C4jDBB-B6UK6Z-BTJj3W-C4jGit-C21ZSA-C4jKfa-BBci4h-BTJpDq-C227Pm-BTJsPd-C229VW-BW3ecp-C22bPL-BuNTzn-BuNXQM-BTJrCA-C4jMBz-BW3cJp" title="Best places to visit in Scandinavia for outdoor adventures - Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"><img src="https://farm1.staticflickr.com/738/23640354826_a380cd2b82_b.jpg" width="100%" alt="Packrafting Njuoreatnu - Torneträsk - Abisko Sweden"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
@@ -60,7 +60,7 @@ There are around 6700 islands which you can visit. Aland is also a popular desti
 
 There is also the Kastelholm Castle which you can visit when you arrive in Mariehamn (25 km to travel) by ferry ([Viking](https://www.vikingline.fi/) or [Silja Line](http://www.tallinksilja.fi/fi/etsi-matka)). In our case, we traveled by car (and two ferry trips) to Kökar and explored the island. More about this trip [here](http://www.hikeventures.com/hiking-on-the-aland-islands/).
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9173901204" title="Åland Islands"><img src="https://farm4.staticflickr.com/3694/9173901204_48d1e80d97_b.jpg" width="100%" alt="Best place to go hiking in Finland - Åland Islands"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9173901204" title="Åland Islands"><img src="https://farm4.staticflickr.com/3694/9173901204_48d1e80d97_b.jpg" width="100%" alt="Best place to go hiking in Finland - Åland Islands"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
@@ -69,7 +69,7 @@ If you are planning to visit Alta in Norway, then make sure to take your packraf
 
 The Alta River has a length of 240 km and has carved out the  Sautso, one of the largest canyons in Europe. [Here](http://www.hikeventures.com/Packrafting-Alta-River/) is our story about packrafting the Alta River.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/21759071426/in/photolist-z9LVRU" title="Packrafting the Alta River in Norway"><img src="https://farm6.staticflickr.com/5832/21759071426_b3ff122bdf_b.jpg" width="100%" alt="Best place to go hiking and packrafting - the Alta River in Norway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/21759071426/in/photolist-z9LVRU" title="Packrafting the Alta River in Norway"><img src="https://farm6.staticflickr.com/5832/21759071426_b3ff122bdf_b.jpg" width="100%" alt="Best place to go hiking and packrafting - the Alta River in Norway"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
@@ -78,7 +78,7 @@ We have visited the Urho Kekkonen National Park in Finland for a winter adventur
 
 We experienced sauna, ice swimming, cross-country skiing, fell sledding and snowshoeing. [Here](http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/) more about our Lapland adventure.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/16347221659" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8673/16347221659_3952a1c6de_b.jpg" width="100%" alt="Best place to go snowshoeing and skiing in Lapland Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/16347221659" title="Lapland Finland"><img src="https://farm9.staticflickr.com/8673/16347221659_3952a1c6de_b.jpg" width="100%" alt="Best place to go snowshoeing and skiing in Lapland Finland"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Those were the best places we have visited so far in Scandinavia. We will probably add a few more destinations for hiking, backpacking, kayaking or packrafting in the future as we are planning more outdoor trips in Scandinavia.
 

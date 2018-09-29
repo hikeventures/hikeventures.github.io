@@ -20,7 +20,7 @@ A few weeks ago I received the Marmot Force UL 2P from Marmot to test it on my s
 ## Initial thoughts
 My first thoughts were that the tent is very light but also found that one peg was missing and that a small piece of the inner tent mesh was a bit distorted. I was a bit worried that the inner tent may not survive one week in the wilderness. The fabric of the tent is quite thin and I was considering using an additional tent footprint under the tent to avoid getting holes into the tent floor. However, I decided to use the tent without the additional tent footprint to test the durability of the tent floor.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408877980/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/9/8664/28408877980_66faf6d0b7_b.jpg" width="683" height="1024" alt="Marmot Force UL 2P Test"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28408877980/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c5.staticflickr.com/9/8664/28408877980_66faf6d0b7_b.jpg" width="683" height="1024" alt="Marmot Force UL 2P Test"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 That's how it looks like when you lie in the Marmot tent. There were plenty of mosquitoes on my trip in [Finnish Lapland](http://www.hikeventures.com/Kaldoaivi/).
 
@@ -31,7 +31,7 @@ I was testing the Marmot Force UL 2P on a one week trip in Finnish Lapland and i
 
 However, I was able to sleep comfortably for one week without having any issues with the tent. The loops in the inner tent allowed me to put a cord through them so I could dry my [hiking socks](http://www.backcountry.com/icebreaker-hike-mid-crew-sock-mens-ice0793), [towel](http://www.backcountry.com/packtowl-original-towel) and my [hat](http://www.backcountry.com/fjallraven-marlin-mt-hat). Apart from the normal tent bag I also used a [stuff bag](http://www.backcountry.com/sea-to-summit-ultra-sil-event-compression-dry-sack) to minimize the size of the tent in my backpack while carrying the pegs and the poles seperately.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28431574600/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Norway"><img src="https://c1.staticflickr.com/9/8634/28431574600_c262b110ef_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P on HMG Porter 4400 backpack"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28431574600/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Norway"><img src="https://c1.staticflickr.com/9/8634/28431574600_c262b110ef_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P on HMG Porter 4400 backpack"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 
@@ -40,7 +40,7 @@ However, I was able to sleep comfortably for one week without having any issues 
 ## Pitching the tent
 I pitched the tent the first time without using any manual as I pitched already quite many tents in the past. I would say that it is quite easy to pitch the tent. I only struggled a bit to lay the outer tent into the right direction on top of the inner tent because I did not notice the markings on the outer tent. The tent only requires 6 pegs so pitching the tent goes relatively fast. There are also several velcro straps on the outer tent to attach the outer tent properly to the poles. Pitching the tent a second time was much faster once I knew how to set it up correctly.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28098548314/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Norway"><img src="https://c3.staticflickr.com/9/8759/28098548314_3618ccb134_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28098548314/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Norway"><img src="https://c3.staticflickr.com/9/8759/28098548314_3618ccb134_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
@@ -61,11 +61,11 @@ I pitched the tent the first time without using any manual as I pitched already 
 * Tent dimensions: 38 x 50 x 85in, 97 x 127 x 214cm
 * Tent weight: 1300 grams
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076097384/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/9/8069/28076097384_1992cf13e2_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P pockets"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28076097384/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c1.staticflickr.com/9/8069/28076097384_1992cf13e2_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P pockets"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 There are plenty of pockets in the tent to store small gear (e.g. iPhone) and snacks.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28615542111/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c8.staticflickr.com/9/8840/28615542111_bca0e35f77_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P pockets"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28615542111/in/photolist-KjpfA5-KKxqrB-KjpeSm-KjpegS-KjpdNs-KAbyAW-Kjpe1b-KAbydb-KKxnAB-Kjpddj-JNYpty-KAE8HH-JLZkAy-KhoVF3-KAE83V-KyaYFJ" title="Hiking and Packrafting in Kaldoaivi Wilderness Area Finland"><img src="https://c8.staticflickr.com/9/8840/28615542111_bca0e35f77_k.jpg" width="2048" height="1365" alt="Marmot Force UL 2P pockets"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 I used the pocket over my head to store my ear plugs.
 
@@ -93,7 +93,7 @@ I used the pocket over my head to store my ear plugs.
 
 ---
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28600247640/in/dateposted-public/" title="Marmot Force UL 2P"><img src="https://c1.staticflickr.com/9/8648/28600247640_efe63d8e8f_k.jpg" width="2048" height="1152" alt="Marmot Force UL 2P"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28600247640/in/dateposted-public/" title="Marmot Force UL 2P"><img src="https://c1.staticflickr.com/9/8648/28600247640_efe63d8e8f_k.jpg" width="2048" height="1152" alt="Marmot Force UL 2P"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 I liked that the inner tent was completely made of mesh. Here you can see the Marmot Force UL 2P on our trip in [Northern Norway](http://www.hikeventures.com/Finnmark/).
 
@@ -104,4 +104,4 @@ I would recommend the Marmot Force UL 2P if you need a light 3-season solo tent.
 
 The air circulation was also ok with both outer tent doors closed but was even better when slightly opened. The mesh of the inner tent seems to be a bit fragile and should be improved to increase the durability of the inner tent. Apart from that I was quite happy with the tent.
 
-You can find the Marmot Force UL 2P on <a href="http://amzn.to/2uVsv8Fj" target="_blank" >Amazon</a>.
+You can find the Marmot Force UL 2P on <a rel="nofollow" href="http://amzn.to/2uVsv8Fj" target="_blank" >Amazon</a>.

@@ -22,6 +22,3 @@ Light my fire swedish fire steel works even when its wet and windy. It's a great
 <a href="https://www.flickr.com/photos/90204224@N07/8372527259" title="Retki LED Light"><img src="https://farm9.staticflickr.com/8515/8372527259_441aed73e8_b.jpg" width="683" height="1024" alt="Retki LED Light"></a><br><br>
 
 Retki LED Light is small and provides enough light to read a book in my tent.
-
-<br>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=cc781bfd-577f-4efb-9da6-75cb9fc7d1c2"></script>

@@ -18,6 +18,6 @@ Today, I have tested the speed of my SD cards together with my Sony A7III. I hav
 </div>
 
 <br>
-Clearly, the <a href="https://amzn.to/2EktfFL" >Sony SF-G64</a> in Slot 1 was the overall winner where formatting the card took just 8 seconds, while the <a href="https://amzn.to/2EjJenM" >SanDisk Extrem Pro 32 GB 95MB</a> in Slot 2 took 14 seconds and the <a href="https://amzn.to/2q8NEsi" >SanDisk Extrem Pro MicroSD 80MB</a> 22 seconds.
+Clearly, the <a rel="nofollow" href="https://amzn.to/2EktfFL" >Sony SF-G64</a> in Slot 1 was the overall winner where formatting the card took just 8 seconds, while the <a rel="nofollow" href="https://amzn.to/2EjJenM" >SanDisk Extrem Pro 32 GB 95MB</a> in Slot 2 took 14 seconds and the <a rel="nofollow" href="https://amzn.to/2q8NEsi" >SanDisk Extrem Pro MicroSD 80MB</a> 22 seconds.
 
-It would be interesting to see how the cards perform with the external <a href="https://amzn.to/2Ej6Jxj" >Sony MRW-S1 High Speed UHS-II USB 3.0 Memory Card Reader/Writer</a>.
+It would be interesting to see how the cards perform with the external <a rel="nofollow" href="https://amzn.to/2Ej6Jxj" >Sony MRW-S1 High Speed UHS-II USB 3.0 Memory Card Reader/Writer</a>.

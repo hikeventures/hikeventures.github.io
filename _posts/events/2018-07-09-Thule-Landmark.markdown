@@ -12,7 +12,7 @@ tags:
 layout: post
 ---
 
-Alan Gear from Thule showed us the <a href="https://amzn.to/2L0R8qi" >Thule Landmark Backpacks</a> at the OutDoor Show in Friedrichshafen.
+Alan Gear from Thule showed us the <a rel="nofollow" href="https://amzn.to/2L0R8qi" >Thule Landmark Backpacks</a> at the OutDoor Show in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9SllIZQGiQs"></iframe>
@@ -20,7 +20,7 @@ Alan Gear from Thule showed us the <a href="https://amzn.to/2L0R8qi" >Thule Land
 <br>
 <!--more-->
 
-Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=9SllIZQGiQs"  target="_blank">YouTube</a>, subscribe to our <a  target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see Thule on <a href="https://amzn.to/2u5tTFb"  target="_blank">Amazon</a>.
+Give us a "thumbs up" on <a rel="nofollow" href="https://www.youtube.com/watch?v=9SllIZQGiQs"  target="_blank">YouTube</a>, subscribe to our <a rel="nofollow"  target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see Thule on <a rel="nofollow" href="https://amzn.to/2u5tTFb"  target="_blank">Amazon</a>.
 
 ---
 

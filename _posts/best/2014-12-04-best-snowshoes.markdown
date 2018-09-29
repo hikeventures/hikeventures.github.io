@@ -12,7 +12,7 @@ tags:
 layout: post
 ---
 
-Here is my <a href="#table">selection</a> of the best snowshoes for 2018. which I would consider taking to my next winter adventures.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best snowshoes for 2018. which I would consider taking to my next winter adventures.
 
 Snowshoes are quite useful if you are planning to ascent a mountain or walk in powder snow. Snowshoeing is easy to learn and not that expensive.
 
@@ -30,7 +30,7 @@ Below you can see Konstantin snowshoeing in the Austrian Alps.
 <br>
 <!--more-->
 
-## <a name="table">Weight comparison table</a>
+## <a rel="nofollow" name="table">Weight comparison table</a>
 
 <div class="table-responsive">
       <table class="table table-hover table-bordered list_items_3">
@@ -41,22 +41,22 @@ Below you can see Konstantin snowshoeing in the Austrian Alps.
         </thead>
         <tbody>
         <tr>
-          <td><a href="http://amzn.to/2evU8vs" target="_blank" >MSR Lightning Ascent 25</a></td><td>1780g</td>
+          <td><a rel="nofollow" href="http://amzn.to/2evU8vs" target="_blank" >MSR Lightning Ascent 25</a></td><td>1780g</td>
         </tr>
         <tr>
-          <td><a href="http://www.amazon.com/gp/product/B00LFJNWGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNWGO&linkCode=as2&tag=hikeve-20&linkId=5DOFWDAR6SHYQAWV" target="_blank" >MSR Lightning Ascent Explore 25</a></td><td>1870g</td>
+          <td><a rel="nofollow" href="http://www.amazon.com/gp/product/B00LFJNWGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNWGO&linkCode=as2&tag=hikeve-20&linkId=5DOFWDAR6SHYQAWV" target="_blank" >MSR Lightning Ascent Explore 25</a></td><td>1870g</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2ea20qB" target="_blank" >MSR Revo Ascent 25</a></td><td>1970g</td>
+          <td><a rel="nofollow" href="http://amzn.to/2ea20qB" target="_blank" >MSR Revo Ascent 25</a></td><td>1970g</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2evSOZo" target="_blank" >Tubbs Flex VRT 24</a></td><td>2040g</td>
+          <td><a rel="nofollow" href="http://amzn.to/2evSOZo" target="_blank" >Tubbs Flex VRT 24</a></td><td>2040g</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2evSQR0" target="_blank" >Tubbs Xpedition 25</a></td><td>2090g</td>
+          <td><a rel="nofollow" href="http://amzn.to/2evSQR0" target="_blank" >Tubbs Xpedition 25</a></td><td>2090g</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2eTG0PH" target="_blank" >Atlas 12</a></td><td>2100g</td>
+          <td><a rel="nofollow" href="http://amzn.to/2eTG0PH" target="_blank" >Atlas 12</a></td><td>2100g</td>
         </tr>
 </tbody>
 </table>
@@ -65,20 +65,20 @@ Below you can see Konstantin snowshoeing in the Austrian Alps.
 
 ## Atlas 12
 
-<a  href="http://www.amazon.com/gp/product/B0000AN4EK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000AN4EK&linkCode=as2&tag=hikeve-20&linkId=4JUOh3Q6ICUQI46M" ><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0000AN4EK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0000AN4EK" width="1" height="1" border="0" alt="Atlas 12 Series - Best snowshoes 2018" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow"  href="http://www.amazon.com/gp/product/B0000AN4EK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0000AN4EK&linkCode=as2&tag=hikeve-20&linkId=4JUOh3Q6ICUQI46M" ><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0000AN4EK&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B0000AN4EK" width="1" height="1" border="0" alt="Atlas 12 Series - Best snowshoes 2018" style="border:none !important; margin:0px !important;" />
 
 **weight**: 2100 grams
 **application**: backcountry & mountain
 
 The Atlas 12 Series frame is made of 7075 aluminum flagship snowshoe of Atlas, reactive frame, wrapp pro binding, spring-loaded suspension and Duratek Decking
 
-<a href="http://amzn.to/2eTG0PH" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
+<a rel="nofollow" href="http://amzn.to/2eTG0PH" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
 ## MSR Lightning Ascent 25
 
-<a href="http://www.amazon.com/gp/product/B00LFJNHQ4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNHQ4&linkCode=as2&tag=hikeve-20&linkId=YIDJETI36CMR7GF4" ><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJNHQ4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJNHQ4" width="1" height="1" border="0" alt="MSR Lightning Ascent 25 - Best snowshoes 2018" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00LFJNHQ4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNHQ4&linkCode=as2&tag=hikeve-20&linkId=YIDJETI36CMR7GF4" ><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJNHQ4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJNHQ4" width="1" height="1" border="0" alt="MSR Lightning Ascent 25 - Best snowshoes 2018" style="border:none !important; margin:0px !important;" />
 
 **weight**: 1780 grams
 **application**: mountain
@@ -87,59 +87,59 @@ The MSR Lightning Ascent is our favourite snowshoe. If you need a more durable v
 
 This model features Ergo Televators, PosiLock AT bindings, optional 5-inch (13-cm) tails for improved flotation and Torsion2 crampons
 
-<a href="http://amzn.to/2evU8vs" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
+<a rel="nofollow" href="http://amzn.to/2evU8vs" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
 ## MSR Lightning Explore 25
 
-<a href="http://www.amazon.com/gp/product/B00LFJNWGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNWGO&linkCode=as2&tag=hikeve-20&linkId=5DOFWDAR6SHYQAWV" ><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJNWGO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJNWGO" width="1" height="1" border="0" alt="MSR Lightning Explore 25 - Best snowshoes 2018" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00LFJNWGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNWGO&linkCode=as2&tag=hikeve-20&linkId=5DOFWDAR6SHYQAWV" ><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJNWGO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJNWGO" width="1" height="1" border="0" alt="MSR Lightning Explore 25 - Best snowshoes 2018" style="border:none !important; margin:0px !important;" />
 
 **weight**: 1870 grams
 **application**: mountain
 
 The MSR Lightning Explore 25 comes with pivot crampons, Axis Gait Technology, HyperLink binding, Ergo Televators and optional 5-inch (13-cm) tails for improved flotation.
 
-<a href="http://www.amazon.com/gp/product/B00LFJNWGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNWGO&linkCode=as2&tag=hikeve-20&linkId=5DOFWDAR6SHYQAWV" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00LFJNWGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJNWGO&linkCode=as2&tag=hikeve-20&linkId=5DOFWDAR6SHYQAWV" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
 ## MSR Revo Ascent 25
 
-<a href="http://www.amazon.com/gp/product/B00LFJO5NI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJO5NI&linkCode=as2&tag=hikeve-20&linkId=ADHSRTEBIYMKSWHX" ><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJO5NI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJO5NI" width="1" height="1" border="0" alt="MSR Revo Ascent 25 - Best snowshoes 2018" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00LFJO5NI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LFJO5NI&linkCode=as2&tag=hikeve-20&linkId=ADHSRTEBIYMKSWHX" ><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LFJO5NI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00LFJO5NI" width="1" height="1" border="0" alt="MSR Revo Ascent 25 - Best snowshoes 2018" style="border:none !important; margin:0px !important;" />
 
 **weight**: 1970 grams
 **application**: mountain
 
 The MSR Revo Ascent 25 comes with  Split teeth of Torsion2 crampons, PosiLock AT bindings, Ergo Televators and optional tails for improved flotation.
 
-<a href="http://amzn.to/2ea20qB" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
+<a rel="nofollow" href="http://amzn.to/2ea20qB" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
 ## Tubbs FLEX VRT 24
 
-<a href="http://www.amazon.com/gp/product/B00Q904HD6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q904HD6&linkCode=as2&tag=hikeve-20&linkId=775ITK4RI5T2U3CQ" ><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q904HD6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q904HD6" width="1" height="1" border="0" alt="Tubbs FLEX VRT 24 - Best snowshoes 2018" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00Q904HD6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00Q904HD6&linkCode=as2&tag=hikeve-20&linkId=775ITK4RI5T2U3CQ" ><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00Q904HD6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00Q904HD6" width="1" height="1" border="0" alt="Tubbs FLEX VRT 24 - Best snowshoes 2018" style="border:none !important; margin:0px !important;" />
 
 **weight**: 2040 grams
 **application**: mountain
 
 The Tubbs FLEX VRT 24 comes with Viper 2.0 carbon steel toe crampon, DYNAMICFIT BINDING and a FLEXTail.
 
-<a href="http://amzn.to/2evSOZo" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
+<a rel="nofollow" href="http://amzn.to/2evSOZo" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
 ## Tubbs Xpedition 25
 
-<a href="http://www.amazon.com/gp/product/B00ECPPX8S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ECPPX8S&linkCode=as2&tag=hikeve-20&linkId=HCYZ4YFLRZOVRSLA" ><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ECPPX8S&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00ECPPX8S" width="1" height="1" border="0" alt="Tubbs Xpedition 25 - Best snowshoes 2018" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="http://www.amazon.com/gp/product/B00ECPPX8S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ECPPX8S&linkCode=as2&tag=hikeve-20&linkId=HCYZ4YFLRZOVRSLA" ><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ECPPX8S&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=as2&o=1&a=B00ECPPX8S" width="1" height="1" border="0" alt="Tubbs Xpedition 25 - Best snowshoes 2018" style="border:none !important; margin:0px !important;" />
 
 **weight**: 2090 grams
 **application**: mountain
 
 The Tubbs Xpedition 25 comes with a ReAct binding, carbon steel Cobra toe crampon and grappler heel cleat.
 
-<a href="http://amzn.to/2evSQR0" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
+<a rel="nofollow" href="http://amzn.to/2evSQR0" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -159,4 +159,4 @@ There are several aspects you should take into consideration when you are planni
 * Does it fit to your "snowshoe boots" (e.g. I use my hiking boots)
 * Do you want snowshoes for beginners? (they are cheaper and technically less advanced)
 
-<a href="#table" class="btn btn-danger" role="button">Back to the top</a>
+<a rel="nofollow" href="#table" class="btn btn-danger" role="button">Back to the top</a>

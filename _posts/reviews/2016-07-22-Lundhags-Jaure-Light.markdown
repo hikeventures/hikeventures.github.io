@@ -28,7 +28,7 @@ The Lundhags Jaure Light Mid II and High II will have the following improved fea
 * The inner material of the upper shoe are upgraded with Ariaprene as stabilizer and closed cells which do not absorb water
 * Foot bed is upgraded with Beta Pro insole (foam is firmer and includes a shock absorber in the heel)
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28355393661/in/dateposted-public/" title="Lundhags Jaure Light High"><img src="https://c6.staticflickr.com/9/8474/28355393661_e14b6f4d3c_k.jpg" width="2048" height="1536" alt="Lundhags Jaure Light High"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28355393661/in/dateposted-public/" title="Lundhags Jaure Light High"><img src="https://c6.staticflickr.com/9/8474/28355393661_e14b6f4d3c_k.jpg" width="2048" height="1536" alt="Lundhags Jaure Light High"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Lundhags Jaure Light High on our [hiking and packrafting trip in Finland](http://www.hikeventures.com/Oro/)
 
@@ -40,4 +40,4 @@ Of course, we are still able to hike with the current Jaure Light High model but
 
 You just need to wear 2 pairs of socks which could however be a bit warm during the summer months but it's still possible to wear them. Currently, we combine our Lundhags Jaure Light High with Icebreaker [Liners](http://www.backcountry.com/icebreaker-hike-liner-crew-sock-mens) and the Icebreaker [Hike+ Light](http://www.backcountry.com/icebreaker-hike-lite-crew-sock-mens-ice0791) and [Hike+ Mid](http://www.backcountry.com/icebreaker-hike-mid-crew-sock-mens-ice0793).
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28437731156/in/dateposted-public/" title="Lundhags Jaure Light High"><img src="https://c5.staticflickr.com/9/8520/28437731156_cc34f8eddd_k.jpg" width="2048" height="1360" alt="Lundhags Jaure Light High"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28437731156/in/dateposted-public/" title="Lundhags Jaure Light High"><img src="https://c5.staticflickr.com/9/8520/28437731156_cc34f8eddd_k.jpg" width="2048" height="1360" alt="Lundhags Jaure Light High"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

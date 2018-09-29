@@ -25,7 +25,7 @@ Need to built up some muscles for your next outdoor adventure? [ANTELOPE Sportsw
 The [Motiv Ring](http://mymotiv.com/) is a new activity and sleep tracker. This is probably the smalles tracker which even does not look like a tracker.
 
 ## Garmin inReach SE+ & Explorer+
-Delorme became part of Garmin a few months ago and here are the new Garmin branded devices. The <a href="http://amzn.to/2iS4nf8 rel="nofollow">Garmin inReach Explorer+</a> and <a href="https://buy.garmin.com/en-US/US/p/561286" rel="nofollow">Garmin inReach SE+</a> keeps you connected to the world where you don't have a phone signal (we also use the old model on our trips)
+Delorme became part of Garmin a few months ago and here are the new Garmin branded devices. The <a rel="nofollow" href="http://amzn.to/2iS4nf8 rel="nofollow">Garmin inReach Explorer+</a> and <a rel="nofollow" href="https://buy.garmin.com/en-US/US/p/561286" rel="nofollow">Garmin inReach SE+</a> keeps you connected to the world where you don't have a phone signal (we also use the old model on our trips)
 
 ## Garmin Fenix 5
 Garmin just announced the new [Fenix 5](https://buy.garmin.com/en-US/US/p/552982) GPS watch which comes with a color display, 3-axis compass, gyroscpe, barometric altimeter, GPS and GLONASS support.

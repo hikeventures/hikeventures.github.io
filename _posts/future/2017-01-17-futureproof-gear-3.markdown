@@ -23,7 +23,7 @@ Need a new camera stabilization system? Have a look at the [Steadicam Volt](http
 The [Misfit Vapor](https://misfit.com/vapor) is a new smartwatch which has GPS and storage for music onboard as well as a heart rate monitor. It is also water resistant down to 50 meters.
 
 ## Cisor: The Smallest Most Powerful Speaker
-The <a href="https://www.indiegogo.com/projects/cisor-the-smallest-most-powerful-speaker-bluetooth#/" rel="nofollow">Cisor speaker</a> offers 6 hours of playtime and outputs 10 Watts. It offers Bluetooth and USB-C connection.
+The <a rel="nofollow" href="https://www.indiegogo.com/projects/cisor-the-smallest-most-powerful-speaker-bluetooth#/" rel="nofollow">Cisor speaker</a> offers 6 hours of playtime and outputs 10 Watts. It offers Bluetooth and USB-C connection.
 
 ## FlowMotion Stabilizer - The End of Shaky Videos
 With the FlowMotion ONE stabilizer you can capture smooth cinematic videos with your smartphone. The device also offers auto-follow tracking and motion time-lapse.

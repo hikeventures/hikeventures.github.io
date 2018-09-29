@@ -11,7 +11,7 @@ tags:
 layout: post
 image: https://farm1.staticflickr.com/658/21564749576_6dfefdb6c7_b.jpg
 ---
-Last weekend we participated in the second packrafting gathering organized by <a href="http://korpijaakko.com">Korpijaakko</a> at Helvetinjärvi National Park. The weather was quite mixed on Friday and we also had heavy rain on the way to the National Park but Saturday was a perfect packrafting day with with clouds and sun. We paddled in different lakes so there was quite a bit of hiking included. The scenery itself was beautiful with leaves changing there colors into autumn mode. Probably, the paddle trip would have been even more colorful in 1-2 weeks but it was still great.<br><br>
+Last weekend we participated in the second packrafting gathering organized by <a rel="nofollow" href="http://korpijaakko.com">Korpijaakko</a> at Helvetinjärvi National Park. The weather was quite mixed on Friday and we also had heavy rain on the way to the National Park but Saturday was a perfect packrafting day with with clouds and sun. We paddled in different lakes so there was quite a bit of hiking included. The scenery itself was beautiful with leaves changing there colors into autumn mode. Probably, the paddle trip would have been even more colorful in 1-2 weeks but it was still great.<br><br>
 
 <img src="https://farm1.staticflickr.com/658/21564749576_6dfefdb6c7_b.jpg" width="970" height="635" alt="Second Finnish Packrafting Gathering at Helvetinjärvi National Park" >
 
@@ -19,7 +19,7 @@ Last weekend we participated in the second packrafting gathering organized by <a
 <!--more-->
 
 
-Once we arrived on Friday at the National Park we pitched our <a href="http://amzn.to/1Jk9N72">MSR Hubba Hubba NX</a> tent and enjoyed a nice evening at the fireplace talking about the upcoming trip, gear and other stuff.
+Once we arrived on Friday at the National Park we pitched our <a rel="nofollow" href="http://amzn.to/1Jk9N72">MSR Hubba Hubba NX</a> tent and enjoyed a nice evening at the fireplace talking about the upcoming trip, gear and other stuff.
 
 <img src="https://farm1.staticflickr.com/564/21564757086_9d5beff87d_b.jpg" width="100%" alt="Packrafting in Helvetinjärvi National Park Finland - Planning Map">
 
@@ -27,7 +27,7 @@ Saturday morning we woke up quite late (10 am) and once we crawled out of the te
 
 <img src="https://farm1.staticflickr.com/637/21564754636_c8d64ba3e3_b.jpg" width="100%" alt="Fishing Finnish National Park">
 
-Patrick went to the well to get some water so we could get it boiling in our <a href="http://amzn.to/1OKnRh7">MSR WindBoiler</a>.
+Patrick went to the well to get some water so we could get it boiling in our <a rel="nofollow" href="http://amzn.to/1OKnRh7">MSR WindBoiler</a>.
 
 <img src="https://farm1.staticflickr.com/677/20969809503_86f92a201a_b.jpg" width="100%" alt="Pumping water Finnish NAtional Park Finland Well">
 
@@ -48,11 +48,11 @@ Creature of the forest ...
 
 <img src="https://farm6.staticflickr.com/5662/21599794531_fec2419084_b.jpg" width="100%" alt="Spider Finland National Park">
 
-Saturday was also quite windy so we were able to use our <a href="http://amzn.to/1YtQ6F0">Windpaddle sails</a> on some parts of the trip.
+Saturday was also quite windy so we were able to use our <a rel="nofollow" href="http://amzn.to/1YtQ6F0">Windpaddle sails</a> on some parts of the trip.
 
 <img src="https://farm1.staticflickr.com/676/21402894500_5e53932aaa_b.jpg" width="100%" alt="Windpaddle Sail Finland Alpacka Raft National Park">
 
-Konstantin got special <a href="http://suski.pictures.fi">media attention</a> while windpaddling.
+Konstantin got special <a rel="nofollow" href="http://suski.pictures.fi">media attention</a> while windpaddling.
 
 <img src="https://farm6.staticflickr.com/5798/21402901090_4b29c3d642_b.jpg" width="100%" alt="Windpaddle Sail Alpacka Raft - Suski Pictures">
 
@@ -89,4 +89,4 @@ At the end of our paddling trip we lid another fire where we prepared our "late 
 
 Unfortunately, we were not able to camp a second night since we had to return to the airport as Konstantin had to catch his flight up north to Alta in Norway for his next adventure. However, we are looking forward to the next packrafting gathering which will most likely take place in May 2016.
 
-<strong>Update:</strong> And <a href="http://www.hikeventures.com/Second-Packrafting-Gathering-Helvetinjarvi-Video/">here</a> is the Video :)
+<strong>Update:</strong> And <a rel="nofollow" href="http://www.hikeventures.com/Second-Packrafting-Gathering-Helvetinjarvi-Video/">here</a> is the Video :)

@@ -24,7 +24,7 @@ The North Face Base Camp Duffle is quite durable and waterproof, comes with YKK 
 
 YKK zippers on the The North Face Base Camp Duffle
 
-<a href="https://www.flickr.com/photos/90204224@N07/8624816446" title="The North Face Base Camp Duffle"><img src="https://farm9.staticflickr.com/8109/8624816446_57425f67e2_b.jpg" width="1024" height="683" alt="The North Face Base Camp Duffle"></a>
+<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/8624816446" title="The North Face Base Camp Duffle"><img src="https://farm9.staticflickr.com/8109/8624816446_57425f67e2_b.jpg" width="1024" height="683" alt="The North Face Base Camp Duffle"></a>
 
 And an internal mash bag with a key strap.
 
@@ -35,4 +35,4 @@ I use the North Face Base Camp Duffle mainly to transport my gear between airpor
 
 <img src="http://farm9.staticflickr.com/8254/8624813100_cdabac8954_c.jpg" width="1150" alt="The North Face Base Camp Duffle">
 
-You can get the North Face Base Camp Duffle on <a href="http://amzn.to/2u3fQC3" target="_blank" >Amazon</a>.
+You can get the North Face Base Camp Duffle on <a rel="nofollow" href="http://amzn.to/2u3fQC3" target="_blank" >Amazon</a>.

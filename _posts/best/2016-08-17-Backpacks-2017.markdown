@@ -11,7 +11,7 @@ tags:
   - backpacks
 ---
 
-Here is my <a href="#table">selection</a> of the best new backpack models for 2018.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best new backpack models for 2018.
 
 When buying a backpack it's usually a good idea to buy a backpack for a specific purpose.
 
@@ -23,7 +23,7 @@ For a multi-day hiking trip you should get probably the largest size possible (d
 
 ---
 
-## <a name="table">Weight comparison table</a>
+## <a rel="nofollow" name="table">Weight comparison table</a>
 
 <div class="table-responsive">
 
@@ -37,38 +37,38 @@ For a multi-day hiking trip you should get probably the largest size possible (d
 
         <tbody>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Berghaus+Remote" target="_blank" >Berghaus Remote 12 / 20 / 28 / 35 </a></td><td>460g</td>
+          <td><a rel="nofollow" href="http://www.hikeventures.com/deals/#Berghaus+Remote" target="_blank" >Berghaus Remote 12 / 20 / 28 / 35 </a></td><td>460g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Hyperlite+Mountain+Gear+Daypack" target="_blank" >Hyperlite Mountain Gear Daypack</a></td><td>539g</td>
+          <td><a rel="nofollow" href="http://www.hikeventures.com/deals/#Hyperlite+Mountain+Gear+Daypack" target="_blank" >Hyperlite Mountain Gear Daypack</a></td><td>539g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Berghaus+Freeflow" target="_blank" >Berghaus Freeflow 20 / 25 / 30 / 35 / 40 </a></td><td>840g</td>
+          <td><a rel="nofollow" href="http://www.hikeventures.com/deals/#Berghaus+Freeflow" target="_blank" >Berghaus Freeflow 20 / 25 / 30 / 35 / 40 </a></td><td>840g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Thule+Capstone" target="_blank" >Thule Capstone 22 / 32 / 40 / 50 </a></td><td>880g</td>
+          <td><a rel="nofollow" href="http://www.hikeventures.com/deals/#Thule+Capstone" target="_blank" >Thule Capstone 22 / 32 / 40 / 50 </a></td><td>880g</td>
         </tr>
 
 
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Fjallraven+Abisko+Friluft" target="_blank" >Fjällräven Abisko Friluft 35 / 45 </a></td><td>1550g</td>
+          <td><a rel="nofollow" href="http://www.hikeventures.com/deals/#Fjallraven+Abisko+Friluft" target="_blank" >Fjällräven Abisko Friluft 35 / 45 </a></td><td>1550g</td>
         </tr>
 
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Ortlieb+Elevation+Pro2" target="_blank" >Ortlieb Elevation Pro2</a></td><td>1700g</td>
+          <td><a rel="nofollow" href="http://www.hikeventures.com/deals/#Ortlieb+Elevation+Pro2" target="_blank" >Ortlieb Elevation Pro2</a></td><td>1700g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Mammut+Creon+Crest" target="_blank" >Mammut Creon Crest 55 / 65</a></td><td>2060g</td>
+          <td><a rel="nofollow" href="http://www.hikeventures.com/deals/#Mammut+Creon+Crest" target="_blank" >Mammut Creon Crest 55 / 65</a></td><td>2060g</td>
         </tr>
 
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#Thule+Guidepost" target="_blank" >Thule Guidepost 65 / 75 / 85 </a></td><td>2663g</td>
+          <td><a rel="nofollow" href="http://www.hikeventures.com/deals/#Thule+Guidepost" target="_blank" >Thule Guidepost 65 / 75 / 85 </a></td><td>2663g</td>
         </tr>
 
 </tbody>
@@ -81,7 +81,7 @@ For a multi-day hiking trip you should get probably the largest size possible (d
 
 <hr>
 
-<h3><a href="http://www.hikeventures.com/deals/#Berghaus+Remote" target="_blank">Berghaus Remote</a></h3>
+<h3><a rel="nofollow" href="http://www.hikeventures.com/deals/#Berghaus+Remote" target="_blank">Berghaus Remote</a></h3>
 The Berghaus Remote backpacks are new walking backpacks for shorter trips. They feature a venting back system.
 
 * Berghaus Remote 35 (900 grams)
@@ -89,7 +89,7 @@ The Berghaus Remote backpacks are new walking backpacks for shorter trips. They 
 * Berghaus Remote 20 (605 grams)
 * Berghaus Remote 12 (460 grams)
 
-<h3><a href="http://www.hikeventures.com/deals/#Berghaus+Freeflow" target="_blank">Berghaus Freeflow</a></h3>
+<h3><a rel="nofollow" href="http://www.hikeventures.com/deals/#Berghaus+Freeflow" target="_blank">Berghaus Freeflow</a></h3>
 The Berghaus Freeflow keeps you cooler as it features a new back design for improved air circulation.
 
 * Berghaus Freeflow 40 (1485 grams)
@@ -98,26 +98,26 @@ The Berghaus Freeflow keeps you cooler as it features a new back design for impr
 * Berghaus Freeflow 25 (1155 grams)
 * Berghaus Freeflow 20 (840 grams)
 
-<h3><a href="http://www.hikeventures.com/deals/#Fjallraven+Abisko+Friluft" target="_blank">Fjällräven Abisko Frisluft</a></h3>
+<h3><a rel="nofollow" href="http://www.hikeventures.com/deals/#Fjallraven+Abisko+Friluft" target="_blank">Fjällräven Abisko Frisluft</a></h3>
 The Fjällräven Abisko Friluft is designed for hot and humid climates and made of G-1000 Heavyduty Eco (which is recycled polyester and cotton). It is possible to get to your gear and clothes from the top and the full front-panel opening. The Fjällräven Abisko Friluft also features a reinforced base to protect your gear and clothes against moisture.
 
 * Fjällräven Abisko Friluft 35 (1550 grams)
 * Fjällräven Abisko Friluft 45 (1600 grams)
 
-<h3><a href="http://www.hikeventures.com/deals/#Hyperlite+Mountain+Gear+Daypack" target="_blank">Hyperlite Mountain Gear Daypack</a></h3>
+<h3><a rel="nofollow" href="http://www.hikeventures.com/deals/#Hyperlite+Mountain+Gear+Daypack" target="_blank">Hyperlite Mountain Gear Daypack</a></h3>
 The Hyperlite Mountain Gear Daypack has been designed for daytrips and weights 539 grams. Some of the backpacks features are a large external front pocket, removeable ice axe attachements, side water bottle pockets, water-resistant YKK zipper, internal zippered pocket for small gear. The Daypack is available in small, medium and large.
 
-<h3><a href="http://www.hikeventures.com/deals/#Mammut+Creon+Crest" target="_blank">Mammut Creon Crest</a></h3>
+<h3><a rel="nofollow" href="http://www.hikeventures.com/deals/#Mammut+Creon+Crest" target="_blank">Mammut Creon Crest</a></h3>
 The Mammut Creon Crest can load 20 kg and designed for hiking and multi-day tours. The bottom and the side compartments can be compressed and trekking poles can be attached as well. It's also possible to turn the ventilated air space suspension system into a system with close contact to the back.
 
 * Mammut 55L (2060 grams)
 * Mammut 65L (2160 grams)
 
 
-<h3><a href="http://www.hikeventures.com/deals/#Ortlieb+Elevation+Pro2" target="_blank">Ortlieb Elevation Pro2</a></h3>
+<h3><a rel="nofollow" href="http://www.hikeventures.com/deals/#Ortlieb+Elevation+Pro2" target="_blank">Ortlieb Elevation Pro2</a></h3>
 The Ortlieb Elevation Pro2 is a heavy duty waterproof alpine backpack available with 42L and was developed with the Austrian Alpine Rescue Team. The backpack features a waterproof zippered pocket and a rope can be attached on the fixing straps as well. The lid compartment can be taken off. You can also store your hydration system in the inner pocket. The Ortlieb Elevation Pro2 weights 1700 grams
 
-<h3><a href="http://www.hikeventures.com/deals/#Thule+Capstone" target="_blank">Thule Capstone</a></h3>
+<h3><a rel="nofollow" href="http://www.hikeventures.com/deals/#Thule+Capstone" target="_blank">Thule Capstone</a></h3>
 Thule updated it's Capstone range for 2017 with an improved shoulder adjustment system and a VersaClick hip belt - an interchangeable system to customize the backpack with other accessories.
 
 * Thule Capstone 22 (880 grams)
@@ -125,7 +125,7 @@ Thule updated it's Capstone range for 2017 with an improved shoulder adjustment 
 * Thule Capstone 40 (1400 grams)
 * Thule Capstone 50 (1460 grams)
 
-<h3><a href="http://www.hikeventures.com/deals/#Thule+Guidepost" target="_blank">Thule Guidepost 65 / 75 / 85 </a></h3>
+<h3><a rel="nofollow" href="http://www.hikeventures.com/deals/#Thule+Guidepost" target="_blank">Thule Guidepost 65 / 75 / 85 </a></h3>
 The Thule Guidepost will offer an updated suspension system and hipbelt in 2017. There is also a new QuickFit shoulder harness on the Thule Guidepost offering 3 different shoulder strap width dettings. Thule will also oxchange the 88L Guidepost backpack with 85L version in 2017. The Thule Guidepost will also feature the VersaClick hipbelt. Also new is the PowerPocket in the backpack's lid to store your mobile devices.
 
 * Thule Guidepost 65L (2663 grams)
@@ -139,7 +139,7 @@ The Thule Guidepost will offer an updated suspension system and hipbelt in 2017.
 
 At the ISPO in Munich we met Gregory and they introduced us to their latest backpacks - the Zulu, Jade, Salvo, Sula and Targhee. So here is the interview with Gregory with a review of their latest backpacks.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32816692122/in/album-72157663341526010/" title="Gregory Review Zulu, Salvo, Targhee, Sula, Jade"><img src="https://c1.staticflickr.com/3/2788/32816692122_d1ead9949f_k.jpg" width="2048" height="1197" alt="Gregory Review Zulu, Salvo, Targhee, Sula, Jade"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32816692122/in/album-72157663341526010/" title="Gregory Review Zulu, Salvo, Targhee, Sula, Jade"><img src="https://c1.staticflickr.com/3/2788/32816692122_d1ead9949f_k.jpg" width="2048" height="1197" alt="Gregory Review Zulu, Salvo, Targhee, Sula, Jade"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Konstantin: Hi, this is Konstantin, and this is Andrea from Gregory. Andrea, what are the three highlights for this coming season?
 
@@ -167,4 +167,4 @@ Konstantin:	And we are all set. Thank you, Andrea.
 
 Andrea:	More than welcome.
 
-<a href="#table" class="btn btn-danger" role="button">Back to the top</a>
+<a rel="nofollow" href="#table" class="btn btn-danger" role="button">Back to the top</a>

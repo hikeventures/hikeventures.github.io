@@ -23,9 +23,9 @@ I came across the Thule Gauntlet 13" MacBook Attaché which I found to be one of
 
 ## Inateck 13-13.3 Inch Sleeve Case Cover
 
-If you are more looking for a case which you can use for your office then you might also have a look at the <a href="http://amzn.to/2iy9gNr" >Inateck 13-13.3 Inch Sleeve Case Cover</a>
+If you are more looking for a case which you can use for your office then you might also have a look at the <a rel="nofollow" href="http://amzn.to/2iy9gNr" >Inateck 13-13.3 Inch Sleeve Case Cover</a>
 
-<a  target="_blank"  href="https://www.amazon.com/gp/product/B01D0VM2L0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01D0VM2L0&linkCode=as2&tag=hikeve-20&linkId=8ef012627e0e7b4edf656f2233472b4e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01D0VM2L0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01D0VM2L0" width="1" height="1" border="0" alt="Inateck 13-13.3 Inch Sleeve Case Cover" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow"  target="_blank"  href="https://www.amazon.com/gp/product/B01D0VM2L0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01D0VM2L0&linkCode=as2&tag=hikeve-20&linkId=8ef012627e0e7b4edf656f2233472b4e"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01D0VM2L0&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01D0VM2L0" width="1" height="1" border="0" alt="Inateck 13-13.3 Inch Sleeve Case Cover" style="border:none !important; margin:0px !important;" />
 
 ## Thule Gauntlet
 
@@ -35,7 +35,7 @@ The Thule Gauntlet 13" MacBook Attaché is not completely waterproof but has a w
 
 This case might be also quite handy if you drive to your cottage on the countryside or if you plan to do some outdoor photography sessions where you need your MacBook to edit or manage your pictures and videos on the spot or just want to save your pictures on your hard drive.
 
-Alternatively, you might also consider taking a <a href="http://amzn.to/1J7wqxd" >WD My Passport Wireless</a> if you only plan to store pictures.
+Alternatively, you might also consider taking a <a rel="nofollow" href="http://amzn.to/1J7wqxd" >WD My Passport Wireless</a> if you only plan to store pictures.
 
 <img src="https://farm8.staticflickr.com/7629/17142212046_3ac6af68aa_b.jpg" width="100%" alt="Thule Gauntlet - Best MacBook Pro Case for Outdoors">
 
@@ -46,7 +46,7 @@ The shell of the case should also absorb some bumps due to it’s solid construc
 
 ## Thule Subterra 13" MacBook Sleeve
 
-There is also the <a  href="http://amzn.to/1FYzeza">Thule Subterra 13" MacBook Sleeve</a> available, however you won’t be able to fit in your power cables an additional iPad and other accessories.
+There is also the <a rel="nofollow"  href="http://amzn.to/1FYzeza">Thule Subterra 13" MacBook Sleeve</a> available, however you won’t be able to fit in your power cables an additional iPad and other accessories.
 
 For me it was a logical choice to go with the Thule Gauntlet 13" MacBook Attaché as I am planning to take my MacBook Pro with me when I want to take pictures on a longer trip where I do not stay in a tent over night.
 

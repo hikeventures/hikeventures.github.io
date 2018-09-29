@@ -12,13 +12,13 @@ layout: post
 image: https://farm1.staticflickr.com/407/18948498964_e22e5df5de_o.jpg
 ---
 
-If you are a GoPro camera user you have probably looked for a case to store your GoPro camera and additional gear such as spare batteries, remote control, cables, SD-cards, etc. when you go on an outdoor trip. Thule has provided us the Legend GoPro Case which we have used this year during our trips and here is a short review about it. The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
+If you are a GoPro camera user you have probably looked for a case to store your GoPro camera and additional gear such as spare batteries, remote control, cables, SD-cards, etc. when you go on an outdoor trip. Thule has provided us the Legend GoPro Case which we have used this year during our trips and here is a short review about it. The links on this site contain affiliate links. If you purchase thru the links you help support our blog (<a rel="nofollow" href="http://www.hikeventures.com/about/" target="_blank">here</a> you can read who we are).
 
 <img src="https://farm1.staticflickr.com/407/18948498964_e22e5df5de_o.jpg"  width="992" height="744" alt="Thule Legend GoPro Case Review">
 <br>
 <!--more-->
 
-I have used the Thule Legend GoPro Case this year mainly for hiking and packrafting e.g. in <a href="http://www.hikeventures.com/Karkonosze-national-park/">Poland</a>, <a href="http://www.hikeventures.com/Second-Finnish-Packrafting-Gathering-Finland-Helvetinjarvi/">Finland</a> or in Sweden. Below you can see the Legend GoPro Case attached to my <a href="http://www.hikeventures.com/gear-review-hmg-porter-4400-black/">HMG Porter</a> backpack.
+I have used the Thule Legend GoPro Case this year mainly for hiking and packrafting e.g. in <a rel="nofollow" href="http://www.hikeventures.com/Karkonosze-national-park/">Poland</a>, <a rel="nofollow" href="http://www.hikeventures.com/Second-Finnish-Packrafting-Gathering-Finland-Helvetinjarvi/">Finland</a> or in Sweden. Below you can see the Legend GoPro Case attached to my <a rel="nofollow" href="http://www.hikeventures.com/gear-review-hmg-porter-4400-black/">HMG Porter</a> backpack.
 
 <img src="https://farm1.staticflickr.com/362/19544901016_04d02fe611_o.jpg" width="100%"  alt="Thule Legend GoPro Case">
 
@@ -34,7 +34,7 @@ What I really liked on the Legend GoPro Case is that it has oversized zipper-pul
 
 <img src="https://farm1.staticflickr.com/337/18950136553_e5b4174515_o.jpg" width="100%"  alt="Hiking in Poland">
 
-While packrafting, I also stored my iPhone 4S in the Thule Legend GoPro Case as I was not able to store it in my PFD. On the picture you can also see my <a href="http://amzn.to/1YHM1NE">USB battery</a> which I use to charge my electronic devices during a trip. However, the battery does not fit into the case. However, there are smaller batteries on the market which you might be able to cram in depending how many items you already have in your case.
+While packrafting, I also stored my iPhone 4S in the Thule Legend GoPro Case as I was not able to store it in my PFD. On the picture you can also see my <a rel="nofollow" href="http://amzn.to/1YHM1NE">USB battery</a> which I use to charge my electronic devices during a trip. However, the battery does not fit into the case. However, there are smaller batteries on the market which you might be able to cram in depending how many items you already have in your case.
 
 <img src="https://farm1.staticflickr.com/534/19571042255_22cb2777cb_o.jpg" width="100%"  alt="Hiking in Poland">
 
@@ -55,4 +55,4 @@ The Thule Legend GoPro Case is a nice addition to your GoPro Camera especially i
 
 The case also protects the housing of the camera in getting scratches while transporting the camera in your backpack. There is also the Thule Legend GoPro Advanced Case if you need to carry two GoPro cameras with you.
 
-You can get the Thule Legend GoPro Case on <a href="http://amzn.to/2uYLXQy" target="_blank" >Amazon</a>.
+You can get the Thule Legend GoPro Case on <a rel="nofollow" href="http://amzn.to/2uYLXQy" target="_blank" >Amazon</a>.

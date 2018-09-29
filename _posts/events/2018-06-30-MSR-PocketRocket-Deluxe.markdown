@@ -12,7 +12,7 @@ tags:
 layout: post
 ---
 
-Philip Leidinger from the MSR showed us the <a href="https://amzn.to/2tKENzS" >MSR PocketRocket Deluxe</a> at the OutDoor Show in Friedrichshafen.
+Philip Leidinger from the MSR showed us the <a rel="nofollow" href="https://amzn.to/2tKENzS" >MSR PocketRocket Deluxe</a> at the OutDoor Show in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/eSqYvleirkI"></iframe>
@@ -20,13 +20,13 @@ Philip Leidinger from the MSR showed us the <a href="https://amzn.to/2tKENzS" >M
 <br>
 <!--more-->
 
-Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=eSqYvleirkI"  target="_blank">YouTube</a>, subscribe to our <a  target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see MSR products on <a href="https://amzn.to/2lPB3ZA"  target="_blank">Amazon</a>.
+Give us a "thumbs up" on <a rel="nofollow" href="https://www.youtube.com/watch?v=eSqYvleirkI"  target="_blank">YouTube</a>, subscribe to our <a rel="nofollow"  target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see MSR products on <a rel="nofollow" href="https://amzn.to/2lPB3ZA"  target="_blank">Amazon</a>.
 
 ---
 
 Hi Philip could you say something about the new developments for 2019?
 
-We're going to introduce the <a href="https://amzn.to/2tKENzS" >PocketRocket Deluxe</a> stove.
+We're going to introduce the <a rel="nofollow" href="https://amzn.to/2tKENzS" >PocketRocket Deluxe</a> stove.
 
 It's a development from the Pocket Rocket 2.
 

@@ -13,7 +13,7 @@ tags:
 layout: post
 ---
 
-Miriam Blume from Katadyn showed us their new <a href="https://amzn.to/2MooPT1" >Katadyn Gravity BeFree Water Filter</a> at the OutDoor Show in Friedrichshafen.
+Miriam Blume from Katadyn showed us their new <a rel="nofollow" href="https://amzn.to/2MooPT1" >Katadyn Gravity BeFree Water Filter</a> at the OutDoor Show in Friedrichshafen.
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/OhE7bshiLjs"></iframe>
@@ -21,7 +21,7 @@ Miriam Blume from Katadyn showed us their new <a href="https://amzn.to/2MooPT1" 
 <br>
 <!--more-->
 
-Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=OhE7bshiLjs&t=3s" target="_blank" >YouTube</a>, subscribe to our <a target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see this product on <a href="https://amzn.to/2MooPT1"  target="_blank">Amazon</a>.
+Give us a "thumbs up" on <a rel="nofollow" href="https://www.youtube.com/watch?v=OhE7bshiLjs&t=3s" target="_blank" >YouTube</a>, subscribe to our <a rel="nofollow" target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see this product on <a rel="nofollow" href="https://amzn.to/2MooPT1"  target="_blank">Amazon</a>.
 
 ---
 
@@ -30,7 +30,7 @@ Miriam could you please present something new that is coming?
 For sure we are now at the booth of the Katadyn group and we have our 360 degrees outdoor kitchen here.
 
 So we have Optimus stoves for cooking systems, Katadyn water filtration systems like
-this new filter, our <a href="https://amzn.to/2MooPT1" >BeFree gravity water filtration system</a>.
+this new filter, our <a rel="nofollow" href="https://amzn.to/2MooPT1" >BeFree gravity water filtration system</a>.
 
 It has a capacity of 3 liters and it runs with a hollow fiber.
 

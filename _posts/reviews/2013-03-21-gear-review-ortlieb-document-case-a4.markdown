@@ -21,9 +21,9 @@ When you go hiking, backpacking, packrafting or plan any other activities in the
 ## Features
 The Ortlieb Document case weights 80 grams, is minimalistic and has a waterproof rating of IP4.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9599003854/in/photolist-fCepqs-e4Vy76-e52cWU-e52d4q-duuWXW" title="Cumulus Sleeping bag in Sarek Sweden"><img src="https://farm3.staticflickr.com/2882/9599003854_ea53324e34_b.jpg" width="992" height="661" alt="Field Test - Cumulus Sleeping bag in Sarek Sweden"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9599003854/in/photolist-fCepqs-e4Vy76-e52cWU-e52d4q-duuWXW" title="Cumulus Sleeping bag in Sarek Sweden"><img src="https://farm3.staticflickr.com/2882/9599003854_ea53324e34_b.jpg" width="992" height="661" alt="Field Test - Cumulus Sleeping bag in Sarek Sweden"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Recommendation
-I have tested the Ortlieb Document Case A4 on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden. The Ortlieb Document Case A4 is great for any kind of outdoor activities in order to keep your map and other documents dry. It's also easy to get your documents in/out.
+I have tested the Ortlieb Document Case A4 on <a rel="nofollow" href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden. The Ortlieb Document Case A4 is great for any kind of outdoor activities in order to keep your map and other documents dry. It's also easy to get your documents in/out.
 
-You can find the Ortlieb Document Case on <a href="http://amzn.to/2vi8pGW" target="_blank" rel="nofollow">Amazon</a>.
+You can find the Ortlieb Document Case on <a rel="nofollow" href="http://amzn.to/2vi8pGW" target="_blank" rel="nofollow">Amazon</a>.

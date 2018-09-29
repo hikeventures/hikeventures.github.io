@@ -12,7 +12,7 @@ tags:
 layout: post
 ---
 
-Recently, I was looking for a new screen protector for my Sony A7III (could be also used on the new Sony A9) camera and here is a <a href="#table">list</a> of the best screen protectors I found online.
+Recently, I was looking for a new screen protector for my Sony A7III (could be also used on the new Sony A9) camera and here is a <a rel="nofollow" href="#table">list</a> of the best screen protectors I found online.
 
 I think that it's a quite good idea to have a protective film on your screen since it's just nicer to watch your pictures on a screen which does not have any scratches but also helps a bit  to keep the value of your camera.
 
@@ -28,7 +28,7 @@ If you are searching for a screen protector for the Sony a6500 then you can also
 
 <hr>
 
-## <a name="table">Comparison table</a>
+## <a rel="nofollow" name="table">Comparison table</a>
 
 <div class="table-responsive">
 
@@ -42,22 +42,22 @@ If you are searching for a screen protector for the Sony a6500 then you can also
 
         <tbody>
         <tr>
-          <td><a href="http://amzn.to/2hIvGu4" target="_blank" >Expert Shield - THE Crystal Clear Screen Protector</a></td><td>Sony A7III,  A7RII,  A7SII, A9</td>
+          <td><a rel="nofollow" href="http://amzn.to/2hIvGu4" target="_blank" >Expert Shield - THE Crystal Clear Screen Protector</a></td><td>Sony A7III,  A7RII,  A7SII, A9</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2iFNEMb" target="_blank" >Sony PCKLM16 Digital Camera Screen Protector Foils</a></td><td>Sony A7III,  A7RII,  A7SII, A9</td>
+          <td><a rel="nofollow" href="http://amzn.to/2iFNEMb" target="_blank" >Sony PCKLM16 Digital Camera Screen Protector Foils</a></td><td>Sony A7III,  A7RII,  A7SII, A9</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2hIvPh6" target="_blank" >Afunta Protective Screen Guard</a></td><td>Sony A7III,  A7RII,  A7SII, A9</td>
+          <td><a rel="nofollow" href="http://amzn.to/2hIvPh6" target="_blank" >Afunta Protective Screen Guard</a></td><td>Sony A7III,  A7RII,  A7SII, A9</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2hIn08C" target="_blank" >Expert Shield - THE Screen Protector</a></td><td>Sony a6000, a6300 and a6500</td>
+          <td><a rel="nofollow" href="http://amzn.to/2hIn08C" target="_blank" >Expert Shield - THE Screen Protector</a></td><td>Sony a6000, a6300 and a6500</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2inkT6M" target="_blank" >Sony PCKLM17 Screen Protect Semi-Hard Sheet</a></td><td>Sony a6000, a6300 and a6500</td>
+          <td><a rel="nofollow" href="http://amzn.to/2inkT6M" target="_blank" >Sony PCKLM17 Screen Protect Semi-Hard Sheet</a></td><td>Sony a6000, a6300 and a6500</td>
           </tr>
           <tr>
-          <td><a href="http://amzn.to/2iI5RMm" target="_blank" >Afunta Screen Protector for Sony</a></td><td>Sony a6000, a6300 and a6500</td>
+          <td><a rel="nofollow" href="http://amzn.to/2iI5RMm" target="_blank" >Afunta Screen Protector for Sony</a></td><td>Sony a6000, a6300 and a6500</td>
           </tr>
         </tbody>
 

@@ -20,7 +20,7 @@ Kurt Gerber from Exped showed us their Whiteout Backpack at the OutDoor Show in 
 <br>
 <!--more-->
 
-Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=v777_RcAbVg"  target="_blank">YouTube</a>, subscribe to our <a  target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see the Exped products on <a href="https://amzn.to/2MVqijK"  target="_blank">Amazon</a>.
+Give us a "thumbs up" on <a rel="nofollow" href="https://www.youtube.com/watch?v=v777_RcAbVg"  target="_blank">YouTube</a>, subscribe to our <a rel="nofollow"  target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel</a> or see the Exped products on <a rel="nofollow" href="https://amzn.to/2MVqijK"  target="_blank">Amazon</a>.
 
 ---
 

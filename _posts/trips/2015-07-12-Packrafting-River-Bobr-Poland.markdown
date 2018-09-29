@@ -10,14 +10,14 @@ tags:
 layout: post
 image: https://farm4.staticflickr.com/3750/18948496954_b57ac5e3fd_o.jpg
 ---
-After we had a 3 hours drive from Poznan to Jelenia Góra we finally reached our accommodation in the small village called Jagniąntków. The next day me, Konstantin and one of his Polish friends who lives permanently in Iceland and just returned from a 11 weeks trip throughout Europe set out with our Packrafts in the river Bóbr. <a href="http://www.hikeventures.com/hiking-packrafting-poland-video/">Here</a> is also a short video.
+After we had a 3 hours drive from Poznan to Jelenia Góra we finally reached our accommodation in the small village called Jagniąntków. The next day me, Konstantin and one of his Polish friends who lives permanently in Iceland and just returned from a 11 weeks trip throughout Europe set out with our Packrafts in the river Bóbr. <a rel="nofollow" href="http://www.hikeventures.com/hiking-packrafting-poland-video/">Here</a> is also a short video.
 
 <img src="https://farm4.staticflickr.com/3750/18948496954_b57ac5e3fd_o.jpg" width="992" height="744" alt="packrafting alpacka raft werner shuna" >
 
 <br>
 <!--more-->
 
-The river itself was quite nice to paddle even though there were no rapids before the dam. However, it was a good opportunity for me to test my new <a href="http://amzn.to/1O4ro7c">GoPro Hero 4</a> and a mount which Konstantin assembled for me (the idea itself comes from the <a href="http://deliveranceteam.outdrr.com">The Deliverance Team</a> and has worked already quite well on Konstantins Packraft.
+The river itself was quite nice to paddle even though there were no rapids before the dam. However, it was a good opportunity for me to test my new <a rel="nofollow" href="http://amzn.to/1O4ro7c">GoPro Hero 4</a> and a mount which Konstantin assembled for me (the idea itself comes from the <a rel="nofollow" href="http://deliveranceteam.outdrr.com">The Deliverance Team</a> and has worked already quite well on Konstantins Packraft.
 
 <img src="https://farm1.staticflickr.com/295/19384505989_2cbc2477cb_o.jpg" width="992" height="744" alt="packrafting alpacka raft werner shuna astral designs ytv">
 
@@ -33,6 +33,6 @@ At the dam we left the river. There were still some rapids ahead of us but we de
 
 <img src="https://farm1.staticflickr.com/402/18948498304_f6675585f1_o.jpg" width="992" height="558" alt="packrafting alpacka raft werner shuna astral designs ytv">
 
-You can find the GPS data of the trip <a href="http://www.movescount.com/moves/move68389841">here</a>.
+You can find the GPS data of the trip <a rel="nofollow" href="http://www.movescount.com/moves/move68389841">here</a>.
 
 In our next post I will write about a hike from Jagniąntków to the Polish - Czech border and then I also try to find some time to create a short movie with our GoPro footage from this trip. More soon on HikeVentures...

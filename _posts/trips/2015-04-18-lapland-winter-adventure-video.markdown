@@ -9,7 +9,7 @@ tags:
   - finland
 layout: post
 ---
-Last February we went to Lapland for some cross-country skiing, snowshoeing, ice swimming and extreme fell sledding. Here is the <a href="http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/">article</a> which I posted back then and now we have also a short video :)
+Last February we went to Lapland for some cross-country skiing, snowshoeing, ice swimming and extreme fell sledding. Here is the <a rel="nofollow" href="http://www.hikeventures.com/snowshoeing-and-skiing-in-urho-kekkonen-national-park-and-Saariselka/">article</a> which I posted back then and now we have also a short video :)
 
 <br>
 <!--more-->

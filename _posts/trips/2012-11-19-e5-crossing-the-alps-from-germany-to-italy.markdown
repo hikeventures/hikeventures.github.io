@@ -74,7 +74,7 @@ On the way to Zwieselstein, we reached the highest point of the tour - the Pitzt
 
 [![Suunto Core][image-13]][12]
 
-My Suunto Core (consider to get the <a href="http://www.hikeventures.com/deals/#suunto+traverse">Suunto Traverse</a> instead) helped a bit to estimate the altitude and the time still needed to reach our destination.
+My Suunto Core (consider to get the <a rel="nofollow" href="http://www.hikeventures.com/deals/#suunto+traverse">Suunto Traverse</a> instead) helped a bit to estimate the altitude and the time still needed to reach our destination.
 
 [![Pitztal Cow][image-14]][13]
 

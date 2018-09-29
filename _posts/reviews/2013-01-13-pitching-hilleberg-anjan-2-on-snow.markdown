@@ -16,13 +16,13 @@ The Hilleberg Anjan 2 is actually a lightweight (1.8 kg packed) 3 season tent. H
 <br>
 <!--more-->
 
-<a href="https://www.flickr.com/photos/90204224@N07/8375200389" title="Hilleberg Anjan 2 on snow winter"><img src="https://farm9.staticflickr.com/8044/8375200389_b7e26ba15e_b.jpg" width="1024" height="683" alt="Hilleberg Anjan 2 on snow winter"></a>
+<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/8375200389" title="Hilleberg Anjan 2 on snow winter"><img src="https://farm9.staticflickr.com/8044/8375200389_b7e26ba15e_b.jpg" width="1024" height="683" alt="Hilleberg Anjan 2 on snow winter"></a>
 
-<a href="https://www.flickr.com/photos/90204224@N07/8375257223" title="Hilleberg Anjan 2"><img src="https://farm9.staticflickr.com/8516/8375257223_013784b736_b.jpg" width="1024" height="515" alt="Hilleberg Anjan 2 on snow winter"></a>
+<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/8375257223" title="Hilleberg Anjan 2"><img src="https://farm9.staticflickr.com/8516/8375257223_013784b736_b.jpg" width="1024" height="515" alt="Hilleberg Anjan 2 on snow winter"></a>
 
-Have a look <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/" target="_self">here</a> if you want to see how the Anjan 2 looks during the summer months.
+Have a look <a rel="nofollow" href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/" target="_self">here</a> if you want to see how the Anjan 2 looks during the summer months.
 
 ## Recommendation
 If you are looking for a 4-season tent then the Hilleberg Nallo is probably the better choice.
 
-You can get the Hilleberg Anjan 2 on <a href="http://amzn.to/2wkYflB" target="_blank" >Amazon</a>.
+You can get the Hilleberg Anjan 2 on <a rel="nofollow" href="http://amzn.to/2wkYflB" target="_blank" >Amazon</a>.

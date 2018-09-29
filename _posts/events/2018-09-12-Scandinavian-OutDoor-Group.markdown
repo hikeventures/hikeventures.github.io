@@ -20,7 +20,7 @@ Sofia Karlström tells us in an interview the background and the purpose of the 
 <br>
 <!--more-->
 
-Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=ZPdQPUHk_0M"  target="_blank">YouTube</a> or subscribe to our <a  target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel.
+Give us a "thumbs up" on <a rel="nofollow" href="https://www.youtube.com/watch?v=ZPdQPUHk_0M"  target="_blank">YouTube</a> or subscribe to our <a rel="nofollow"  target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel.
 
 ---
 

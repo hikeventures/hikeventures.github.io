@@ -12,9 +12,9 @@ tags:
 layout: post
 ---
 
-Here is my <a href="#table">selection</a> of the best backpacks which I would consider to take on my next pack rafting adventure.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best backpacks which I would consider to take on my next pack rafting adventure.
 
-Having used the <a href="http://www.hikeventures.com/gear-review-hmg-porter-4400-black/">HMG Porter 4400</a> for the last 3 years on my packrafting trips I was interested to see which alternatives would be available on the market.
+Having used the <a rel="nofollow" href="http://www.hikeventures.com/gear-review-hmg-porter-4400-black/">HMG Porter 4400</a> for the last 3 years on my packrafting trips I was interested to see which alternatives would be available on the market.
 
 Gernerally speaking I was not able to find any alternative to the HMG Porter 4400 which is that light and feels like a proper backpack when I bought it.
 
@@ -22,7 +22,7 @@ Gernerally speaking I was not able to find any alternative to the HMG Porter 440
 <br>
 <!--more-->
 
-## <a name="table">Weight comparison table</a>
+## <a rel="nofollow" name="table">Weight comparison table</a>
 
 <div class="table-responsive">
 <table class="table table-hover table-bordered list_items">
@@ -33,19 +33,19 @@ Gernerally speaking I was not able to find any alternative to the HMG Porter 440
         </thead>
         <tbody>
             <tr>
-          <td><a href="http://www.hikeventures.com/deals/#ULA+Epic" target="_blank">ULA Epic</a></td><td>922 grams / 32.5 oz.</td>
+          <td><a rel="nofollow" href="http://www.hikeventures.com/deals/#ULA+Epic" target="_blank">ULA Epic</a></td><td>922 grams / 32.5 oz.</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#windrider+4400" target="_blank">Hyperlite Mountain Gear Windrider 4400</a></td><td>922 grams / 32.5 oz.</td>
+          <td><a rel="nofollow" href="http://www.hikeventures.com/deals/#windrider+4400" target="_blank">Hyperlite Mountain Gear Windrider 4400</a></td><td>922 grams / 32.5 oz.</td>
         </tr>
         <tr>
-          <td><a href="http://www.hikeventures.com/deals/#porter+4400" target="_blank">Hyperlite Mountain Gear Porter 4400</a></td><td>1065 grams / 37.6 oz.</td>
+          <td><a rel="nofollow" href="http://www.hikeventures.com/deals/#porter+4400" target="_blank">Hyperlite Mountain Gear Porter 4400</a></td><td>1065 grams / 37.6 oz.</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2sruFN6" target="_blank" >NRS Paragon Pack</a></td><td>1179 grams / 41.6 oz.</td>
+          <td><a rel="nofollow" href="http://amzn.to/2sruFN6" target="_blank" >NRS Paragon Pack</a></td><td>1179 grams / 41.6 oz.</td>
         </tr>
         <tr>
-          <td><a href="http://amzn.to/2r8hMU5" target="_blank" >Sea to Summit Hydraulic Dry Pack</a></td><td>1319 grams / 46.5 oz.</td>
+          <td><a rel="nofollow" href="http://amzn.to/2r8hMU5" target="_blank" >Sea to Summit Hydraulic Dry Pack</a></td><td>1319 grams / 46.5 oz.</td>
         </tr>
 </tbody>
 </table>

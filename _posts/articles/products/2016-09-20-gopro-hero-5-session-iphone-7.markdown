@@ -26,10 +26,10 @@ The iPhone 7 can record 4K at 30fps while the GoPro Hero5 cameras can record 30 
 
 ## Picture Quality
 
-The iPhone has a 12MP camera with a ƒ/1.8 aperture while the <a href="http://www.hikeventures.com/deals/#gopro+hero5"  target="_blank">GoPro Hero5 Black</a> has a 12MP camera and the <a href="http://www.hikeventures.com/deals/#gopro+hero5+session"  target="_blank">GoPro Hero5 Session</a> has a 10 MP camera with ƒ/2.8.
+The iPhone has a 12MP camera with a ƒ/1.8 aperture while the <a rel="nofollow" href="http://www.hikeventures.com/deals/#gopro+hero5"  target="_blank">GoPro Hero5 Black</a> has a 12MP camera and the <a rel="nofollow" href="http://www.hikeventures.com/deals/#gopro+hero5+session"  target="_blank">GoPro Hero5 Session</a> has a 10 MP camera with ƒ/2.8.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-> On [our packrafting trip](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) in the Sarek National Park in Sweden we had also a GoPro with us. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" >Subscribe</a> to our YouTube channel.
+> On [our packrafting trip](http://www.hikeventures.com/hiking-and-packrafting-in-sarek-day-1/) in the Sarek National Park in Sweden we had also a GoPro with us. <a rel="nofollow" href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" >Subscribe</a> to our YouTube channel.
 
 
 ## Video stabilization
@@ -44,8 +44,8 @@ So which one should you buy? If you are more into hardcore adventures, then the 
 
 Having IP67 on the iPhone is nice, but if you jump into a lake and the GoPro breaks for some reason, then you are better off than with a broken iPhone 7.
 
-Certainly, you might also get more scratches on your iPhone 7 screen. The surface of the iPhone screen is much larger than the surface of the camera lens of the <a href="http://amzn.to/2ekq5Zy"  target="_blank">GoPro Hero 5 Black</a> / <a href="http://amzn.to/2el7Buj"  target="_blank">GoPro Session</a>.
+Certainly, you might also get more scratches on your iPhone 7 screen. The surface of the iPhone screen is much larger than the surface of the camera lens of the <a rel="nofollow" href="http://amzn.to/2ekq5Zy"  target="_blank">GoPro Hero 5 Black</a> / <a rel="nofollow" href="http://amzn.to/2el7Buj"  target="_blank">GoPro Session</a>.
 
 If audio recording is not important to you, then you could also consider purchasing the older GoPro Session instead and save some money.
 
-<a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F114467%2Fgopro-hero5-black-camera"  class="btn btn-danger" role="button">See the GoPro Hero5 Black</a> <a href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F114468%2Fgopro-hero5-session-camera"  class="btn btn-danger" role="button">See the GoPro Hero5 Session</a>
+<a rel="nofollow" href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F114467%2Fgopro-hero5-black-camera"  class="btn btn-danger" role="button">See the GoPro Hero5 Black</a> <a rel="nofollow" href="http://www.avantlink.com/click.php?tt=cl&mi=10248&pw=150351&url=https%3A%2F%2Fwww.rei.com%2Fproduct%2F114468%2Fgopro-hero5-session-camera"  class="btn btn-danger" role="button">See the GoPro Hero5 Session</a>

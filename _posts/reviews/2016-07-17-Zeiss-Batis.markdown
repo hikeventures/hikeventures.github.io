@@ -43,7 +43,7 @@ The focus ring is a simple rubber band which collects dust. It's not really an i
 ## Autofocus
 The autofocus is quite fast on a Sony A7 but it's probably a bit difficult to get a sharp image of a very fast moving object. However, I would say that this is more a limitation of the camera than the lens.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27747110244/in/dateposted-public/" title="Test Zeiss Batis 25 mm / 2.0 with Sony A7"><img src="https://c5.staticflickr.com/9/8568/27747110244_bd08fc8a31_k.jpg" width="2048" height="1152" alt="Zeiss Batis 25 mm / 2.0 with Sony A7"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/27747110244/in/dateposted-public/" title="Test Zeiss Batis 25 mm / 2.0 with Sony A7"><img src="https://c5.staticflickr.com/9/8568/27747110244_bd08fc8a31_k.jpg" width="2048" height="1152" alt="Zeiss Batis 25 mm / 2.0 with Sony A7"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 What I don't like on this lens is that it is quite expensive but on the other hand you get great quality. The body of the Batis lens is made of plastics. Zeiss told me that it's very durable with the objective to keep the weight of the Batis 25mm low.
 
@@ -55,6 +55,6 @@ Yes, that's the best lens which I ever had on a Sony A7. As it is light and rela
 The lens is super versatile. It let's a lot of light through which makes it also an interesting lens for night and astrophotography. Need a nice bokeh? No need to change lenses. Just set the aperture to 2.0.
 
 The Zeiss Batis 25mm would definitely be a great lens for [our trips](http://www.hikeventures.com/destinations/).
-As a side note, I have also used the <a href="http://amzn.to/2akpsuN" >Hoya 67mm DMC PRO1 Clear Protector Digital Filter</a> when I took the pictures.
+As a side note, I have also used the <a rel="nofollow" href="http://amzn.to/2akpsuN" >Hoya 67mm DMC PRO1 Clear Protector Digital Filter</a> when I took the pictures.
 
-You can get the Zeiss Batis lens on <a href="http://amzn.to/2uYei9j" target="_blank" >Amazon</a>.
+You can get the Zeiss Batis lens on <a rel="nofollow" href="http://amzn.to/2uYei9j" target="_blank" >Amazon</a>.

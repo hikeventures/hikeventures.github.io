@@ -22,14 +22,14 @@ The Black Diamond Ultra Distance Z-Pole weights 290 grams, is foldable, breathab
 
 This is the lock button which you need to push in order to fold the poles.
 
-<a href="https://www.flickr.com/photos/90204224@N07/8449890395" title="Black Diamond Ultra Distance Z-Pole"><img src="https://farm9.staticflickr.com/8235/8449890395_5c07ac00d6_b.jpg" width="957" height="1024" alt="Black Diamond Ultra Distance Z-Pole hiking trekking walking and backpacking poles ultralight"></a>
+<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/8449890395" title="Black Diamond Ultra Distance Z-Pole"><img src="https://farm9.staticflickr.com/8235/8449890395_5c07ac00d6_b.jpg" width="957" height="1024" alt="Black Diamond Ultra Distance Z-Pole hiking trekking walking and backpacking poles ultralight"></a>
 
 The mesh bag also comes with the poles. In general, I would say those poles look and feel really great. They also won the Backpacker Editor Choice 2011. I also believe that the Z-Poles work better than the clip system. It also comes with an interchangeable rubber and carbide tips.
 
 ## Recommendation
-I have tested the Black Diamond Ultra Distance Z-Pole on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden. The lack Diamond Ultra Distance Z-Poles are light and easy to assemble. They were very supportive especially if you walk up or down a hill with heavy load on your back.
+I have tested the Black Diamond Ultra Distance Z-Pole on <a rel="nofollow" href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden. The lack Diamond Ultra Distance Z-Poles are light and easy to assemble. They were very supportive especially if you walk up or down a hill with heavy load on your back.
 
 ## Alternatives
 Have a look at my list of [my favorite trekking poles](http://www.hikeventures.com/best-trekking-and-snowshoeing-poles/) which I would currently buy.
 
-You can get the Black Diamond Ultra Distance Z-Pole on <a rel="nofollow" href="https://amzn.to/2uT8peL">Amazon</a>.
+You can get the Black Diamond Ultra Distance Z-Pole on <a rel="nofollow" rel="nofollow" href="https://amzn.to/2uT8peL">Amazon</a>.

@@ -16,7 +16,7 @@ In one week we are going on an packrafting adventure to Sweden. Konstantin will 
 <br>
 <!--more-->
 
-<a href="https://www.flickr.com/photos/90204224@N07/16871708317"><img src="https://farm8.staticflickr.com/7586/16871708317_4d741093bd_b.jpg" width="1024" height="576" alt="Preparation for Packrafting in Sweden"></a>
+<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/16871708317"><img src="https://farm8.staticflickr.com/7586/16871708317_4d741093bd_b.jpg" width="1024" height="576" alt="Preparation for Packrafting in Sweden"></a>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7c0tlmtpsps" frameborder="0" allowfullscreen></iframe>
-> This was ur packrafting trip in the Sarek National Park in Sweden. <a href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.
+> This was ur packrafting trip in the Sarek National Park in Sweden. <a rel="nofollow" href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1" rel="nofollow">Subscribe</a> to our YouTube channel.

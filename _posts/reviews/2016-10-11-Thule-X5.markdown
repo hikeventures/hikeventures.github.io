@@ -24,7 +24,7 @@ We have tested the Thule X5 on our packrafting trips in [Scotland](http://www.hi
 
 In general we were quite happy with the Thule Atmos X5. The Thule X5 case is waterproof. However, we have not tested yet if the case would be waterproof as well if we would submerge it for a longer time in 1-2 meters but for our regular packrafting use we could not find any faults at all. We also did not perform any specific drop test but once Patrick's phone dropped from 1 meter and it did not have any impact on the phone.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28100347523/in/dateposted-public/" title="Hiking and Packrafting in Norway"><img src="https://c4.staticflickr.com/9/8504/28100347523_5169a9f878_k.jpg" width="2048" height="1365" alt="Thule X5 iPhone 6 test"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28100347523/in/dateposted-public/" title="Hiking and Packrafting in Norway"><img src="https://c4.staticflickr.com/9/8504/28100347523_5169a9f878_k.jpg" width="2048" height="1365" alt="Thule X5 iPhone 6 test"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Positive**
 - The Thule X5 is durable.
@@ -53,4 +53,4 @@ Thule just recently released the [Atmos X3](http://www.hikeventures.com/deals/##
 
 While the Atmos X3 (read our review) and Atmos X4 (read our review) are not waterproof cases as the Atmos X5 we can also recommend them to protect your iPhone from activities where no water is involved.
 
-You can get the Thule X5 on <a href="http://amzn.to/2uYobnN" target="_blank" rel="nofollow">Amazon</a>.
+You can get the Thule X5 on <a rel="nofollow" href="http://amzn.to/2uYobnN" target="_blank" rel="nofollow">Amazon</a>.

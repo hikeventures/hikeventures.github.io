@@ -23,7 +23,7 @@ That is why, if this winter IS going to turn out to be what they think it might 
 
 These books are:
 
-* <a href="http://hikeventures.com/amc-guide-to-winter-hiking-and-camping-everything-you-need-to-plan-your-next-cold-weather-adventure-by-yemaya-mauer-and-lucas-st-clair/" target="_self">AMC Guide to Winter Hiking & Camping: Everything you need to plan your next cold-weather adventure by Yemaya Maurer and Lucas St. Clair
+* <a rel="nofollow" href="http://hikeventures.com/amc-guide-to-winter-hiking-and-camping-everything-you-need-to-plan-your-next-cold-weather-adventure-by-yemaya-mauer-and-lucas-st-clair/" target="_self">AMC Guide to Winter Hiking & Camping: Everything you need to plan your next cold-weather adventure by Yemaya Maurer and Lucas St. Clair
 * Snowshoeing: From novice to master (5th ed.) by Gene Prater
 * Free-heel skiing: Telemark and parallel techniques for all conditions (2nd ed.) by Paul Parker
 * The complete guide to cross-country ski preparation by Nat Brown

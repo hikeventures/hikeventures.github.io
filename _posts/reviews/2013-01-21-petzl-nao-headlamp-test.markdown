@@ -38,18 +38,18 @@ Level 3 - High<br><br>
 The know to switch between the different light levels.<br>
 
 <img src="http://farm8.staticflickr.com/7442/11133158173_0c177e50af_c.jpg" width="1150"  alt="Petzl Nao USB Socket"><br>
-The cable to the battery socket can also be extended with the <a href="http://amzn.to/1T3jCwV">Petzl extension cable</a> which is especially useful during winter trips as the battery life will be shortener when exposed to the cold. With the extension cable you can carry the battery e.g. on your belt nearby the body to keep it warm rather than on your head.<br><br>
+The cable to the battery socket can also be extended with the <a rel="nofollow" href="http://amzn.to/1T3jCwV">Petzl extension cable</a> which is especially useful during winter trips as the battery life will be shortener when exposed to the cold. With the extension cable you can carry the battery e.g. on your belt nearby the body to keep it warm rather than on your head.<br><br>
 
 <img src="http://farm6.staticflickr.com/5496/11133040624_82874aca51_c.jpg" width="1150" alt="Petzl Nao rechargable battery"><br>
-You can charge the Nao directly on your computer and anything else which has an USB socket like the <a href="http://hikeventures.com/how-to-charge-your-batteries-when-you-are-outdoors/" target="_self">Anker Astro 3 battery.</a>
+You can charge the Nao directly on your computer and anything else which has an USB socket like the <a rel="nofollow" href="http://hikeventures.com/how-to-charge-your-batteries-when-you-are-outdoors/" target="_self">Anker Astro 3 battery.</a>
 
 <img src="http://farm9.staticflickr.com/8230/8402476695_e20a34831b_c.jpg" width="1150"  alt="Petzl Nao">
 
 ---
 
 ## Recommendation
-I have tested the old model of the Petzl Nao headlamp on <a href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden. The Petzl Nao is a pretty strong headlamp and you can charge the Nao via USB.
+I have tested the old model of the Petzl Nao headlamp on <a rel="nofollow" href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden. The Petzl Nao is a pretty strong headlamp and you can charge the Nao via USB.
 
 You may also consider a lighter headlamp if you don't need the power of the Petzl Nao. As I do packrafting, there might be also situations where we packraft till late into the night so a brighter headlamp is more useful for me to properly see whats in front of me. I also found it quite comfortable to go jogging with the Petzl Nao.
 
-You can get the Petzl Nao Headlamp on <a href="http://amzn.to/2hnB1IM" target="_blank" >Amazon</a>.
+You can get the Petzl Nao Headlamp on <a rel="nofollow" href="http://amzn.to/2hnB1IM" target="_blank" >Amazon</a>.

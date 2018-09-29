@@ -29,11 +29,11 @@ I have compiled a list with essential items which are on my backpacking gear lis
 ## Tent or Bivy
 A tent or a bivy is essential to protect you against rain, wind and mosquitoes. If there is a shelter available on your destination then you can also just take a mosquito net with you and safe some weight. However, you never know if the shelter is used by other hikers so it's better to take a tent with you.
 
-Personally, I always take my <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/">Hilleberg Anjan 3</a> with me. This is my standard tent and perfect for hikes with 2 people (even so it says 3) because the extra space comes quite handy if you have to sit in the tent for a longer period or if you just need more space to roll around in the tent, store some gear or if you just want to play cards.
+Personally, I always take my <a rel="nofollow" href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/">Hilleberg Anjan 3</a> with me. This is my standard tent and perfect for hikes with 2 people (even so it says 3) because the extra space comes quite handy if you have to sit in the tent for a longer period or if you just need more space to roll around in the tent, store some gear or if you just want to play cards.
 
-Of course, the 2 person tent saves you some weight but after having had the 2 person Hilleberg Anjan for a while I won't miss the space and comfort which I get with the <a href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/">Hilleberg Anjan 3</a> if I go hiking with a friend. Here is a <a href="http://www.hikeventures.com/best-tents-for-backpacking-and-packrafting/">list</a > with good tents.
+Of course, the 2 person tent saves you some weight but after having had the 2 person Hilleberg Anjan for a while I won't miss the space and comfort which I get with the <a rel="nofollow" href="http://hikeventures.com/gear-review-hilleberg-anjan-for-the-summer/">Hilleberg Anjan 3</a> if I go hiking with a friend. Here is a <a rel="nofollow" href="http://www.hikeventures.com/best-tents-for-backpacking-and-packrafting/">list</a > with good tents.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9596230289" title="Hiking and Packrafting in Sarek"><img src="https://farm3.staticflickr.com/2822/9596230289_599fa0cde2_b.jpg" width="100%" alt="Essential gear for overnight backpacking trips is a tent like the Hilleberg Nallo or Anjan"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/9596230289" title="Hiking and Packrafting in Sarek"><img src="https://farm3.staticflickr.com/2822/9596230289_599fa0cde2_b.jpg" width="100%" alt="Essential gear for overnight backpacking trips is a tent like the Hilleberg Nallo or Anjan"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Sleeping Pad
 The last 2 years I have used the Exped Synmat UL 7 which has worked quite well for me especially in the summer months. However, since I live in Scandinavia I realized that the Exped might reach it's limitations already in mid- or late autumn. Once the temperatures drop to 0C in the night you feel the cold on your back. That's why I recently purchased the Therm-a-Rest NeoAir XTherm MAX which is also suitable for winter camping. The MAX version is squared size and I also bought the large version since the
@@ -43,7 +43,7 @@ Again, it adds a few grams to the regular version but then I am outdoors to enjo
 
 Another advantage with the large pad is that you don't need an additional pillow. Just take some of your clothes and use them as a pillow.
 
-If you are looking for a summer pad then you should have a look at the new Therm-a-Rest EvoLite. A list of the latest sleeping pads can be found <a href="http://www.hikeventures.com/Best-sleeping-pads//">here</a >.
+If you are looking for a summer pad then you should have a look at the new Therm-a-Rest EvoLite. A list of the latest sleeping pads can be found <a rel="nofollow" href="http://www.hikeventures.com/Best-sleeping-pads//">here</a >.
 
 ## Stove and matches
 A stove is a must have on every overnight hiking trip. If I feel cold then I make a break and boil some tea. Voila, I feel warm again. If you have dehydrated food (e.g. the ready made food from the camping store) then you can just boil your water and pour it into the package.
@@ -52,16 +52,16 @@ Before you buy a stove you have to consider if you want to fry something or if y
 
 If you use dehydrated food from the camping store then you can eat straight from the package. So no plates and cleaning needed. I would recommend the Jetboil Sol Ti or the MSR WindBurner if you just want to boil water and if you have your gas cartridge with you.
 
-If you need a more flexible solution concerning the gas you are burning the you should consider the MSR Whisperlite International. This stove is also useful if you want to fry food and not just boil water.You can find a list of the latest stoves <a href="http://hikeventures.com/best-camping-stoves/">here</a >.
+If you need a more flexible solution concerning the gas you are burning the you should consider the MSR Whisperlite International. This stove is also useful if you want to fry food and not just boil water.You can find a list of the latest stoves <a rel="nofollow" href="http://hikeventures.com/best-camping-stoves/">here</a >.
 
 Also I pack matches as a backup solution into my backpack even so some stoves can be started without them. If you need a spoon or a fork you might be interested in a Spork.
 
-<a href="https://www.flickr.com/photos/90204224@N07/9596216703"><img src="https://farm4.staticflickr.com/3748/9596216703_3f4c4db24f_b.jpg" class="img-responsive" width="100%" alt="Essential overnight backpacking gear - camping stove like the Jetboil Sol, MiniMo, MicroMo or MSR WindBoiler"></a>
+<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/9596216703"><img src="https://farm4.staticflickr.com/3748/9596216703_3f4c4db24f_b.jpg" class="img-responsive" width="100%" alt="Essential overnight backpacking gear - camping stove like the Jetboil Sol, MiniMo, MicroMo or MSR WindBoiler"></a>
 
 ## Sleeping Bag or Quilt
 A quilt comes quite handy during the summer months or if you want to save weight. However, if you move a lot while sleeping you should consider a sleeping bag as there is always a chance that cold air might come in from the side of the quilt during the night.
 
-Currently, I am using the Cumulus Panyam 450 sleeping bag. Another high end sleeping bag manufacturer is the German company Yeti. It's a bit more expensive than the Cumulus (a Polish company). For example the <a href="http://amzn.to/1JprWSL">Yeti VIB 250</a> Sleeping bag which is suitable till -9C. I would always take a sleeping bag which has more tolerance to colder temperatures.
+Currently, I am using the Cumulus Panyam 450 sleeping bag. Another high end sleeping bag manufacturer is the German company Yeti. It's a bit more expensive than the Cumulus (a Polish company). For example the <a rel="nofollow" href="http://amzn.to/1JprWSL">Yeti VIB 250</a> Sleeping bag which is suitable till -9C. I would always take a sleeping bag which has more tolerance to colder temperatures.
 
 If it is too warm you can always open the sleeping bag. Alternatively, you can also layer e.g. a down jacket / pants with a sleeping bag suitable for warmer temperatures. When choosing a sleeping bag consider taking a sleeping bag which has high down cuin.
 
@@ -86,13 +86,13 @@ Wind jackets are breath much better than rain jackets. I always have a rain jack
 
 Currently, I am wearing the Arc'teryx Squamish Hoody as my wind jacket and the Montane Minimus pants and Arc'teryx Tecto FL jacket as my waterproof layer.
 
-Further, I have also compiled 3 lists of the latest <a href="http://hikeventures.com/best-windjackets/">windproof jackets</a>, <a href="http://hikeventures.com/best-rain-jackets/">waterproof jackets</a> and <a href="http://www.hikeventures.com/best-rain-pants/">waterproof pants</a>.
+Further, I have also compiled 3 lists of the latest <a rel="nofollow" href="http://hikeventures.com/best-windjackets/">windproof jackets</a>, <a rel="nofollow" href="http://hikeventures.com/best-rain-jackets/">waterproof jackets</a> and <a rel="nofollow" href="http://www.hikeventures.com/best-rain-pants/">waterproof pants</a>.
 
 ## Spare socks and underwear
 Usually, I take 2 pairs of merino socks with me. One pair I wear while I am hiking and the other pair when I am in the sleeping bag. The Icebreaker Men's Hike Mid Crew Socks seems to be quite good socks. Previously, I had Smartwool socks but it seems that those Icebreaker socks are more durable.
 
 ## Down Jacket or Fleece
-I always take a fleece and a down jacket with me. I wear a fleece when I am hiking and the down jacket when I rest or in the evenings in the camp. Currently, I am using the <a href="http://hikeventures.com/gear-review-montbell-u-dot-l-down-parka/">Montbell U.L. Down Parka</a>. Here is a list of the best <a href="http://hikeventures.com/best-down-jackets/">down jackets</a> and <a href="http://hikeventures.com/best-fleece-jackets/">fleeces</a > in case you are looking for a newer model.
+I always take a fleece and a down jacket with me. I wear a fleece when I am hiking and the down jacket when I rest or in the evenings in the camp. Currently, I am using the <a rel="nofollow" href="http://hikeventures.com/gear-review-montbell-u-dot-l-down-parka/">Montbell U.L. Down Parka</a>. Here is a list of the best <a rel="nofollow" href="http://hikeventures.com/best-down-jackets/">down jackets</a> and <a rel="nofollow" href="http://hikeventures.com/best-fleece-jackets/">fleeces</a > in case you are looking for a newer model.
 
 ## Toiletries
 Usually, I take a hand sanitizer, toothbrush, tooth paste, multi purpose cleaner and ear plugs with me. Also a multipurpose tool is in my backpack too.
@@ -104,12 +104,12 @@ You can take dried food with you and just pour hot water into the package. Also 
 Usually, I take my phone and my Sony A7r camera with me. If you are more into action shots or if you look for a waterproof solution you either get a waterproof housing for your camera or you get a GoPro Hero 4 action camera.
 
 ## Headlamp
-Headlamps are great. You can attach them easily on your head so your hands are free or in the tent. Here is a list with the <a href="http://hikeventures.com/best-headlamps/">Headlamps</a >.
+Headlamps are great. You can attach them easily on your head so your hands are free or in the tent. Here is a list with the <a rel="nofollow" href="http://hikeventures.com/best-headlamps/">Headlamps</a >.
 
 ## Compass, Map, GPS
 I have bought a Suunto Ambit3. I can plan my routes with it and also locate and track my position with GPS. For short trips you can also just take your smartphone with you but for longer trips it's good to have a separate GPS device which does not eat drain the batteries from your phone (in case you need it in an emergency situation).
 
-Also an external battery or a Solar Charger to charge all your USB devices is good to have. I charge my headlamp, camera and my <a href="http://hikeventures.com/suunto-ambit3-ambit2-worth-upgrade/">Suunto watch</a> with it. Also you should consider to take a compass (a global compass can be used on the southern and on the northern parts of the globe) and a paper map with you in case your electronic devices do not work for some reason. My compass even has a small thermometer on it.
+Also an external battery or a Solar Charger to charge all your USB devices is good to have. I charge my headlamp, camera and my <a rel="nofollow" href="http://hikeventures.com/suunto-ambit3-ambit2-worth-upgrade/">Suunto watch</a> with it. Also you should consider to take a compass (a global compass can be used on the southern and on the northern parts of the globe) and a paper map with you in case your electronic devices do not work for some reason. My compass even has a small thermometer on it.
 
 ## Long Merino Underwear, gloves and cap
 I always take merino pants and a merino long sleeve shirt with me. Usually, I wear it in my sleeping bag or if the temperature drops unexpectedly low. Also I take a light cap or gloves with me especially during spring and autumn hikes.

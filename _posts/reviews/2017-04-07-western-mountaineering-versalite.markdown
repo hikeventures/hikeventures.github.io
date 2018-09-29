@@ -28,7 +28,7 @@ Talking about our winter trip in Northern Norway, I had an additional lighter sl
 
 You are probably also interested to know in what I was wearing during the night. Well, I was wearing a merino base layer and a synthetic insulated jacket during the night.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716083885/in/album-72157666947120531/" title="Western Mountaineering Versalite Review and Test"><img src="https://c1.staticflickr.com/9/8676/28716083885_bbf1d5f5b3_b.jpg" width="1024" height="683" alt="Western Mountaineering Versalite Review and Test"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716083885/in/album-72157666947120531/" title="Western Mountaineering Versalite Review and Test"><img src="https://c1.staticflickr.com/9/8676/28716083885_bbf1d5f5b3_b.jpg" width="1024" height="683" alt="Western Mountaineering Versalite Review and Test"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 However, it was slightly too warm wearing a jacket and being covered with 2 sleeping bags as I wanted to make sure to wear enough clothes during the night as I was not sure how deep the temperatures would drop.
 
@@ -45,7 +45,7 @@ The sleeping bag is filled with 567 grams (20oz.) down and weights 900 grams (2l
 
 It features continuous baffles so you can adjust the down within the sleeping bag according to your needs. The full collar also helps to keep your body heat within the sleeping bag.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716071475/in/album-72157666947120531/" title="Western Mountaineering Versalite Review and Test"><img src="https://c1.staticflickr.com/9/8350/28716071475_d5bee56ddf_b.jpg" width="1024" height="683" alt="Western Mountaineering Versalite Review and Test"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716071475/in/album-72157666947120531/" title="Western Mountaineering Versalite Review and Test"><img src="https://c1.staticflickr.com/9/8350/28716071475_d5bee56ddf_b.jpg" width="1024" height="683" alt="Western Mountaineering Versalite Review and Test"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
@@ -56,7 +56,7 @@ However, for Scandinavia this is easily a great sleeping bag which can be used d
 
 A great sleeping pad companion for the WM VersaLite is the Therm-a-Rest NeoAir XTherm which weights about 400 grams and which I have also used in Northern Norway (see picture above).
 
-You can get the Mountain Equipment Versalite on <a href="http://amzn.to/2uURPf0" target="_blank" rel="nofollow">Amazon</a>.
+You can get the Mountain Equipment Versalite on <a rel="nofollow" href="http://amzn.to/2uURPf0" target="_blank" rel="nofollow">Amazon</a>.
 
 [1]:	http://www.hikeventures.com/cumulus-panyam-450/ "Cumulus Panjam 450"
 [2]:	http://www.hikeventures.com/Oro/ "Fortress Island of Örö"

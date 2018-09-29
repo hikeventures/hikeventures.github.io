@@ -19,10 +19,10 @@ Here is a short video about the Alpacka Raft Gnarwhal and an attached Keel or Sk
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jJ2Poh1RvvA"></iframe>
 </div>
 <br>
-Give us a "thumbs up" on <a href="https://www.youtube.com/watch?v=jJ2Poh1RvvA"  target="_blank">YouTube</a> or subscribe to our <a  target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel.
+Give us a "thumbs up" on <a rel="nofollow" href="https://www.youtube.com/watch?v=jJ2Poh1RvvA"  target="_blank">YouTube</a> or subscribe to our <a rel="nofollow"  target="_blank"  href="https://www.youtube.com/channel/UCnO9Q_m9EaOCrHmmQIBVBNw?sub_confirmation=1">YouTube channel.
 <br>
 <!--more-->
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30852191068/in/dateposted-public/" title="Packraft Rudder"><img src="https://farm2.staticflickr.com/1873/30852191068_945ccbbb8c_b.jpg" width="768" height="1024" alt="Packraft Rudder"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30852191068/in/dateposted-public/" title="Packraft Rudder"><img src="https://farm2.staticflickr.com/1873/30852191068_945ccbbb8c_b.jpg" width="768" height="1024" alt="Packraft Rudder"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Our Keel while packrafting in Russia.

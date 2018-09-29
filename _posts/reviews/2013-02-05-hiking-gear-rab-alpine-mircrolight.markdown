@@ -17,12 +17,12 @@ If you are looking for a new down jacket which you can use during your hiking, b
 <br>
 <!--more-->
 
-Since the jacket is filled with down it takes much less space in your backpack than a synthetic jacket. Alternatively, you may also have a look at the <a href="http://hikeventures.com/gear-review-montbell-u-dot-l-down-parka" target="_self">Montbell UL Down Parka</a> which is a bit lighter than the Rab Microlight Alpine jacket and which is my current down jacket.
+Since the jacket is filled with down it takes much less space in your backpack than a synthetic jacket. Alternatively, you may also have a look at the <a rel="nofollow" href="http://hikeventures.com/gear-review-montbell-u-dot-l-down-parka" target="_self">Montbell UL Down Parka</a> which is a bit lighter than the Rab Microlight Alpine jacket and which is my current down jacket.
 
 ## Features
 The Rab Microlight Alpine Jacket weights 345 grams is filled with 140 grams of 750 cuin goose down.
 
 ## Recommendation
-The Rab Microlight Alpine Jacket is a nice down jacket which is also quite affordable. If you look for a real winter down jacket then the Rab Positron Jacket might be an alternative (at least I would pick it as my winter down jacket). However, if you are looking for a jacket which you can wear in the evenings in the camp or as a midlayer during the winter then the Rab Microlight Alpine Jacket is a great choice. Here you can find a <a href="http://www.hikeventures.com/best-down-jackets/">list of my favorite down jackets</a>.
+The Rab Microlight Alpine Jacket is a nice down jacket which is also quite affordable. If you look for a real winter down jacket then the Rab Positron Jacket might be an alternative (at least I would pick it as my winter down jacket). However, if you are looking for a jacket which you can wear in the evenings in the camp or as a midlayer during the winter then the Rab Microlight Alpine Jacket is a great choice. Here you can find a <a rel="nofollow" href="http://www.hikeventures.com/best-down-jackets/">list of my favorite down jackets</a>.
 
-You can get the Rab Alpine Microlight Jacket on <a href="http://amzn.to/2uYoi2A" target="_blank" >Amazon</a>.
+You can get the Rab Alpine Microlight Jacket on <a rel="nofollow" href="http://amzn.to/2uYoi2A" target="_blank" >Amazon</a>.

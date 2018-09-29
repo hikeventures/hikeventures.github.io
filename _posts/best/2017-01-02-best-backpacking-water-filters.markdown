@@ -12,7 +12,7 @@ tags:
 layout: post
 ---
 
-Here is my <a href="#table">selection</a> of the best backpacking water filters for 2018 which I would take with me on my next hiking or backpacking trip.
+Here is my <a rel="nofollow" href="#table">selection</a> of the best backpacking water filters for 2018 which I would take with me on my next hiking or backpacking trip.
 
 There are several solution on the market e.g. water filters where you have to pump water through the filter or filters which do not require any pump at all (and which are also my personal preference filters).
 
@@ -33,7 +33,7 @@ The Steripen uses an UV light against Viruses and can be recharged through the U
 <br>
 <!--more-->
 
-## <a name="table">Weight comparison table</a>
+## <a rel="nofollow" name="table">Weight comparison table</a>
 
 <div class="table-responsive">
       <table  class="table table-hover table-bordered list_items">
@@ -44,8 +44,8 @@ The Steripen uses an UV light against Viruses and can be recharged through the U
          <tr><td>lifetime (liters)</td><td>1000</td><td>350000</td><td>1150</td><td>2000</td></tr>
          <tr><td>viruses</td><td>no</td><td>no</td><td>no</td><td>no</td></tr>
          <tr><td>carbon filter</td><td>no</td><td>no</td><td>yes</td><td>no</td></tr>
-         <tr><td>&nbsp;</td><td><a  href="http://amzn.to/2kOYYW6" target="_blank" ><a href="http://amzn.to/2elEHtO" target="_blank" ><img src="http://www.hikeventures.com/buy1.gif"></a>
-</a></td><td><a  href="http://amzn.to/2lZIqQl" target="_blank" ><img src="http://www.hikeventures.com/buy1.gif"></a></td><td><a  href="http://amzn.to/2lZGgjz" target="_blank" ><img src="http://www.hikeventures.com/buy1.gif"></a></td><td><a  href="http://amzn.to/2qdeoXm" target="_blank" ><img src="http://www.hikeventures.com/buy1.gif"></a></td></tr>
+         <tr><td>&nbsp;</td><td><a rel="nofollow"  href="http://amzn.to/2kOYYW6" target="_blank" ><a rel="nofollow" href="http://amzn.to/2elEHtO" target="_blank" ><img src="http://www.hikeventures.com/buy1.gif"></a>
+</a></td><td><a rel="nofollow"  href="http://amzn.to/2lZIqQl" target="_blank" ><img src="http://www.hikeventures.com/buy1.gif"></a></td><td><a rel="nofollow"  href="http://amzn.to/2lZGgjz" target="_blank" ><img src="http://www.hikeventures.com/buy1.gif"></a></td><td><a rel="nofollow"  href="http://amzn.to/2qdeoXm" target="_blank" ><img src="http://www.hikeventures.com/buy1.gif"></a></td></tr>
         </tbody></table>
 </div>
 <br>
@@ -53,38 +53,38 @@ The Steripen uses an UV light against Viruses and can be recharged through the U
 <br>
 ## LifeStraw Personal Water Filter
 
-<a target="_blank"   href="https://www.amazon.com/gp/product/B006QF3TW4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006QF3TW4&linkCode=as2&tag=hikeve-20&linkId=e3280e10d2bcee2e3196e64f56ef7af2"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B006QF3TW4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B006QF3TW4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"   href="https://www.amazon.com/gp/product/B006QF3TW4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006QF3TW4&linkCode=as2&tag=hikeve-20&linkId=e3280e10d2bcee2e3196e64f56ef7af2"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B006QF3TW4&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B006QF3TW4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The Lifestraw Personal Water Filter is together with the Sawyer Mini Water Filter one of the lightest water filters available which you can take on your backcountry adventure. Personally, I found the Sawyer Filter more versatile than the LifeStraw filter. One advantage I could see with the LifeStraw is that it does not have several pieces and you may not lose parts easily. One disadvantage of this filter is to get the water into a bottle.
 
-<a href="http://amzn.to/2kOYYW6" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
+<a rel="nofollow" href="http://amzn.to/2kOYYW6" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
 ## Sawyer Mini Water Filtration System
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/B00FA2RLX2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FA2RLX2&linkCode=as2&tag=hikeve-20&linkId=4a93b2f515988b50dcb8f0cfd64b0406"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00FA2RLX2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00FA2RLX2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B00FA2RLX2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FA2RLX2&linkCode=as2&tag=hikeve-20&linkId=4a93b2f515988b50dcb8f0cfd64b0406"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00FA2RLX2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00FA2RLX2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The Sawyer Mini Water Filter is currently my go-to water filter when I go for a hike. It packs small and is not that expensive. You can also filter the water into a bottle. However, I might replace it with the MSR TrailShot because it might be more convenient to use.
 
-<a href="http://amzn.to/2lZIqQl" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
+<a rel="nofollow" href="http://amzn.to/2lZIqQl" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
 ## Katadyn Hiker Pro Microfilter
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/B002CN82V2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002CN82V2&linkCode=as2&tag=hikeve-20&linkId=3b9076e0ab9c3e5a21b7e3bd287ec25f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B002CN82V2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B002CN82V2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B002CN82V2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002CN82V2&linkCode=as2&tag=hikeve-20&linkId=3b9076e0ab9c3e5a21b7e3bd287ec25f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B002CN82V2&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B002CN82V2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 If you prefer a filter where you need to pump then the Katadyn Hiker Pro filter might be a good solution. I had this filter as well but prefer the Sawyer filter because it's lighter and I get similar results.
 
-<a href="http://amzn.to/2lZGgjz" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
+<a rel="nofollow" href="http://amzn.to/2lZGgjz" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
 ## MSR TrailShot
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/B01N7GC9Z6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N7GC9Z6&linkCode=as2&tag=hikeve-20&linkId=9cd4f46010c633f98715079e92777d85"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01N7GC9Z6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01N7GC9Z6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01N7GC9Z6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N7GC9Z6&linkCode=as2&tag=hikeve-20&linkId=9cd4f46010c633f98715079e92777d85"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01N7GC9Z6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01N7GC9Z6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The MSR TrailShot is the latest development compared to the other water filters. The filter is probably more convenient to use than the Sawyer Mini since it offers an Inlet Hose and the pump might be quite useful as well to get clean water out of a river. This is probably going to be my new water filter to replace my Sawyer Mini even so it weights a bit more.
 
-<a href="http://amzn.to/2qdeoXm" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>
+<a rel="nofollow" href="http://amzn.to/2qdeoXm" target="_blank" ><img src="http://www.hikeventures.com/buy.gif"></a>

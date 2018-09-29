@@ -12,7 +12,7 @@ tags:
   - watches
 ---
 
-Here is my <a href="#table">selection</a>  of the best outdoor watches for hiking and backpacking for 2018 which I would consider to take with me on my next outdoor adventure. They might be also useful if you are into running.
+Here is my <a rel="nofollow" href="#table">selection</a>  of the best outdoor watches for hiking and backpacking for 2018 which I would consider to take with me on my next outdoor adventure. They might be also useful if you are into running.
 
 At the moment I am wearing a Suunto Traverse which has a monochrome display and I am quite satisfied with it.
 
@@ -25,7 +25,7 @@ Probably one disadvantage of watches having a color display and a GPS is their s
 <br>
 <!--more-->
 
-## <a name="table">Weight comparison table</a>
+## <a rel="nofollow" name="table">Weight comparison table</a>
 
 <div class="table-responsive">
 <table class="table table-hover table-bordered list_items">
@@ -36,31 +36,31 @@ Probably one disadvantage of watches having a color display and a GPS is their s
         </thead>
         <tbody>
 <tr>
-<td><a href="http://amzn.to/2jLZIuO" >Apple Watch Sport 42mm</a>
+<td><a rel="nofollow" href="http://amzn.to/2jLZIuO" >Apple Watch Sport 42mm</a>
 </td>
 <td>34.2g
 </td>
 </tr>
 <tr>
-<td><a href="http://amzn.to/1t7QAFm" >Motorola Moto 360 Sport</a>
+<td><a rel="nofollow" href="http://amzn.to/1t7QAFm" >Motorola Moto 360 Sport</a>
 </td>
 <td>45g
 </td>
 </tr>
 <tr>
-<td><a href="http://amzn.to/2iqbE9B" >Suunto Spartan Ultra</a>
+<td><a rel="nofollow" href="http://amzn.to/2iqbE9B" >Suunto Spartan Ultra</a>
 </td>
 <td>73g
 </td>
 </tr>
 <tr>
-<td><a href="http://amzn.to/1YdNH1H" >Casio WSD-F10</a>
+<td><a rel="nofollow" href="http://amzn.to/1YdNH1H" >Casio WSD-F10</a>
 </td>
 <td>93g
 </td>
 </tr>
 <tr>
-<td><a href="http://amzn.to/2jkTcij" >Garmin Fenix 5X</a>
+<td><a rel="nofollow" href="http://amzn.to/2jkTcij" >Garmin Fenix 5X</a>
 </td>
 <td>98g
 </td>
@@ -73,7 +73,7 @@ Probably one disadvantage of watches having a color display and a GPS is their s
 
 ## Apple Watch Series 2 Sport 42mm
 
-<a  target="_blank"  href="https://www.amazon.com/gp/product/B01BKSC14I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01BKSC14I&linkCode=as2&tag=hikeve-20&linkId=5781bd3b5a1ce59a4d231514776f4aff"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01BKSC14I&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01BKSC14I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow"  target="_blank"  href="https://www.amazon.com/gp/product/B01BKSC14I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01BKSC14I&linkCode=as2&tag=hikeve-20&linkId=5781bd3b5a1ce59a4d231514776f4aff"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01BKSC14I&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01BKSC14I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 34.2 grams
 **Battery Life**: 18 hours (not in   training mode)
@@ -92,14 +92,14 @@ However, if you are more into multi-sport or longer cycling or hiking trips I wo
 
 Both watches - the Suunto Spartan and the Apple Watch Series 2 are suitable for swimmers. However, the Apple Watch Series 2 should not be used for diving.
 
-<a href="http://amzn.to/2jLZIuO" ><img src="http://www.hikeventures.com/buy.gif"></a>
+<a rel="nofollow" href="http://amzn.to/2jLZIuO" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 
 <hr>
 
 ## Casio WSD-F10
 
-<a href="https://www.amazon.com/gp/product/B01CY1QXR6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CY1QXR6&linkCode=as2&tag=hikeve-20&linkId=e259bc0b895c4a2b5cc6dec4c027ab7f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01CY1QXR6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01CY1QXR6" width="1" height="1" border="0" alt="Casio WSD-F10" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="https://www.amazon.com/gp/product/B01CY1QXR6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01CY1QXR6&linkCode=as2&tag=hikeve-20&linkId=e259bc0b895c4a2b5cc6dec4c027ab7f"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01CY1QXR6&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01CY1QXR6" width="1" height="1" border="0" alt="Casio WSD-F10" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 93 grams
 **Battery Life**: 1 day (only color LCD), 3.5 days (only monochrome LCD)
@@ -125,13 +125,13 @@ The only disadvantage I see with this watch is that I basically need to carry my
 
 For me as a runner and hiker I would prefer a watch with a dedicated GPS module on board.
 
-<a href="http://amzn.to/1YdNH1H" ><img src="http://www.hikeventures.com/buy.gif"></a>
+<a rel="nofollow" href="http://amzn.to/1YdNH1H" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
 ## Garmin Fenix 5X
 
-<a target="_blank"  href="https://www.amazon.com/gp/product/B01MQX3306/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MQX3306&linkCode=as2&tag=hikeve-20&linkId=85e41c5bccf9b616397af8b4fbf4b8f1"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MQX3306&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MQX3306" width="1" height="1" border="0" alt="Garmin Fenix 5" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01MQX3306/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MQX3306&linkCode=as2&tag=hikeve-20&linkId=85e41c5bccf9b616397af8b4fbf4b8f1"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MQX3306&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MQX3306" width="1" height="1" border="0" alt="Garmin Fenix 5" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 98 grams
 **Battery Life**: 50 hours (UltraTrac mode), 20 hours (GPS training mode) and 12 days in Smartwatch mode
@@ -149,13 +149,13 @@ The Garmin Fenix 5X can be connected to Android and Apple phones and was one of 
 
 However, the map function on the Fenix 5X gives the Garmin an edge.
 
-<a href="http://amzn.to/2jkTcij" ><img src="http://www.hikeventures.com/buy.gif"></a>
+<a rel="nofollow" href="http://amzn.to/2jkTcij" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
 ## Motorola Moto 360 Sport
 
-<a href="https://www.amazon.com/gp/product/B016CKHAZO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B016CKHAZO&linkCode=as2&tag=hikeve-20&linkId=4c6098a87f5b1865e89b5e207acc1007" ><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B016CKHAZO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B016CKHAZO" width="1" height="1" border="0" alt="Motorola Moto 360 Sport" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="https://www.amazon.com/gp/product/B016CKHAZO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B016CKHAZO&linkCode=as2&tag=hikeve-20&linkId=4c6098a87f5b1865e89b5e207acc1007" ><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B016CKHAZO&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B016CKHAZO" width="1" height="1" border="0" alt="Motorola Moto 360 Sport" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 54 grams
 **Battery Life**: 1 day
@@ -173,13 +173,13 @@ It also features an optical hear rate monitor directly on the watch which can on
 
 No need to wear a heart rate monitor around your chest. One highlight of the Moto 360 Sport is probably it’s high resolution / display.
 
-<a href="http://amzn.to/1RWNLvb" ><img src="http://www.hikeventures.com/buy.gif"></a>
+<a rel="nofollow" href="http://amzn.to/1RWNLvb" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
 ## Suunto Spartan Ultra
 
-<a href="https://www.amazon.com/gp/product/B01I05C446/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01I05C446&linkCode=as2&tag=hikeve-20&linkId=c2ad8fc23315853230439ded9ec5099b" ><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01I05C446&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01I05C446" width="1" height="1" border="0" alt="Suunto Spartan Ultra" style="border:none !important; margin:0px !important;" />
+<a rel="nofollow" href="https://www.amazon.com/gp/product/B01I05C446/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01I05C446&linkCode=as2&tag=hikeve-20&linkId=c2ad8fc23315853230439ded9ec5099b" ><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01I05C446&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01I05C446" width="1" height="1" border="0" alt="Suunto Spartan Ultra" style="border:none !important; margin:0px !important;" />
 
 **Weight**: 73 grams
 **Battery Life**: 18 hours (training mode)
@@ -198,7 +198,7 @@ Unfortunately, there are no specifications about the Suunto Spartan available ye
 
 As Suunto watches can be connected to Moveslink - the Suunto Online Sport Community - it is possible to use the Suunto Spartan either with your Android phone or with your iPhone.
 
-<a href="http://amzn.to/2iqbE9B" ><img src="http://www.hikeventures.com/buy.gif"></a>
+<a rel="nofollow" href="http://amzn.to/2iqbE9B" ><img src="http://www.hikeventures.com/buy.gif"></a>
 
 <hr>
 
@@ -214,4 +214,4 @@ If I would not need the longer training mode (GPS) of the Suunto Spartan then I 
 
 I would also pick the 42 mm Apple Sport version as I prefer a bigger screen.
 
-<a href="#table" class="btn btn-danger" role="button">Back to the top</a>
+<a rel="nofollow" href="#table" class="btn btn-danger" role="button">Back to the top</a>

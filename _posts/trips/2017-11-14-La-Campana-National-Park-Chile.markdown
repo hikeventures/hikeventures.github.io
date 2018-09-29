@@ -30,11 +30,11 @@ Starting at 400 m high and going up to 2.222 m, there are different trekking pat
 
 **External links:**
 
-<a href="http://chile.travel/en/intereses-destacados/national-parks-and-reserves/la-campana-national-park" rel="nofollow">La Campana National Park</a>
+<a rel="nofollow" href="http://chile.travel/en/intereses-destacados/national-parks-and-reserves/la-campana-national-park" rel="nofollow">La Campana National Park</a>
 
-<a href="http://www.arkive.org/chilean-wine-palm/jubaea-chilensis/" rel="nofollow">The Chilean Wine Palm</a>
+<a rel="nofollow" href="http://www.arkive.org/chilean-wine-palm/jubaea-chilensis/" rel="nofollow">The Chilean Wine Palm</a>
 
-<a href="http://www.andeshandbook.org/senderismo/ruta/682/Portezuelo_Ocoa_desde_Granizo">Information about hiking in the Ocoa sector (select Spanish for more info on the trekking paths)</a>
+<a rel="nofollow" href="http://www.andeshandbook.org/senderismo/ruta/682/Portezuelo_Ocoa_desde_Granizo">Information about hiking in the Ocoa sector (select Spanish for more info on the trekking paths)</a>
 
 <img src="https://farm5.staticflickr.com/4565/38352412626_2f91604266_o.jpg" width="1334" height="1000" alt="Chilean Wine Palms" >
 
