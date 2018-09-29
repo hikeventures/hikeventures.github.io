@@ -20,7 +20,7 @@ Last year Thule has sent me the Thule Upslope 35L so we can take it with us on o
 ## What did I pack into the Upslope 35?
 I carried my Sony A7, Sennheiser 600, Rycote Windjammer, Thermos bottle, sweater, rain jacket, water bottle and small items like my phone and wallet with me. I also had my Logitech Key-to-Go keyboard with me which I connected to my iPhone to write this article. On one trip I also packed a Manfrotto BeFree tripod into the backpack as well.
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32211235521/in/photolist-R5p16F-RcxumL-JNYxnE-KCDzhi-JP8Cjp-JNYx9U-JLZkAy-HTs418-HsYjcf-Joaba7-KjCn2k-KcERsH-KcEQhr-JTCe1f-EVU9jS-F7oFw8-KjCz84-KamS4G-KamLK5-HA39Mp-GLALk5-HgWr2h-HDjow3-vM7J91-GXBnUq-AqB93R-AqucjW-ysTzd7-HM6vje-GXBodS-HTs4dc-GXBoff-GXBoeJ-HsYjfS-GXBoe3-HTs4f6-HTs3SH-vPqHv8-uSq1A1-uSq1vS-vwPqqN-vwPt5U-vPqHJe-vM7Hiy-vwWDUB-rdhFYg-sa36gr-qcUQWo-qscg4J-GXBnXw" title="Winter Camping and Snowshoeing in Alta Norway"><img src="https://c1.staticflickr.com/1/309/32211235521_1dd690e004_k.jpg" width="2048" height="1152" alt="Thule Upslope 35L Review Test"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://c1.staticflickr.com/1/309/32211235521_1dd690e004_k.jpg" width="2048" height="1152" alt="Thule Upslope 35L Review Test">
 
 ## Likes
 * The pockets on the hip-belt offered plenty of space to carry a half liter bottle, gloves and a hat.
@@ -38,13 +38,13 @@ I carried my Sony A7, Sennheiser 600, Rycote Windjammer, Thermos bottle, sweater
 ## Dislikes
 * The backpack has no mesh on the backside so I was sweating a bit while walking up a hill. On the other hand this backpack is made for the winter.
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/32292106956/in/photolist-R5p16F-RcxumL-JNYxnE-KCDzhi-JP8Cjp-JNYx9U-JLZkAy-HTs418-HsYjcf-Joaba7-KjCn2k-KcERsH-KcEQhr-JTCe1f-EVU9jS-F7oFw8-KjCz84-KamS4G-KamLK5-HA39Mp-GLALk5-HgWr2h-HDjow3-vM7J91-GXBnUq-AqB93R-AqucjW-ysTzd7-HM6vje-GXBodS-HTs4dc-GXBoff-GXBoeJ-HsYjfS-GXBoe3-HTs4f6-HTs3SH-vPqHv8-uSq1A1-uSq1vS-vwPqqN-vwPt5U-vPqHJe-vM7Hiy-vwWDUB-rdhFYg-sa36gr-qcUQWo-qscg4J-GXBnXw/" title="Winter Camping and Snowshoeing in Alta Norway"><img src="https://c1.staticflickr.com/1/449/32292106956_e2829deb45_k.jpg" width="2048" height="1152" alt="Thule Upslope 35L Review Test"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://c1.staticflickr.com/1/449/32292106956_e2829deb45_k.jpg" width="2048" height="1152" alt="Thule Upslope 35L Review Test">
 
 ## Still needs to be tested
 I have not tested yet to carry any skis or snowshoes with it. I have also not tested the net to attach a helmet to the backpack.
 
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/31520407753/in/photolist-Q2mk56-R5p16F-RcxumL-JNYxnE-KCDzhi-JP8Cjp-JNYx9U-JLZkAy-HTs418-HsYjcf-Joaba7-KjCn2k-KcERsH-KcEQhr-JTCe1f-EVU9jS-F7oFw8-KjCz84-KamS4G-KamLK5-HA39Mp-GLALk5-HgWr2h-HDjow3-vM7J91-GXBnUq-AqB93R-AqucjW-ysTzd7-HM6vje-GXBodS-HTs4dc-GXBoff-GXBoeJ-HsYjfS-GXBoe3-HTs4f6-HTs3SH-vPqHv8-uSq1A1-uSq1vS-vwPqqN-vwPt5U-vPqHJe-vM7Hiy-vwWDUB-rdhFYg-sa36gr-qcUQWo-qscg4J" title="Thule Upslope 35L Review Test"><img src="https://c1.staticflickr.com/1/704/31520407753_93c677faf3_k.jpg" width="2048" height="1152" alt="Thule Upslope 35L Review Test"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://c1.staticflickr.com/1/704/31520407753_93c677faf3_k.jpg" width="2048" height="1152" alt="Thule Upslope 35L Review Test">
 
 ## Conclusion
 I really like the Thule Upslope 35L backpack. It offers plenty of space and is comfortable to carry. The color looks great too and makes you visible in the snow. I think that it also has just the right size for a daypack.

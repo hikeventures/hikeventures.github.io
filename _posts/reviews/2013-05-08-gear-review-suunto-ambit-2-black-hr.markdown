@@ -38,18 +38,18 @@ Suunto Ambit2 is a great tool for outdoor activities like hiking, running, cycli
 
 There are also currently over 1000 apps available which you can upload to your watch or you can create your own app.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/11137895256"><img src="https://farm8.staticflickr.com/7403/11137895256_ca2d5a0430_b.jpg" width="1024" height="680" alt="Suunto Ambit2 apps movescount"></a>
+<img src="https://farm8.staticflickr.com/7403/11137895256_ca2d5a0430_b.jpg" width="1024" height="680" alt="Suunto Ambit2 apps movescount">
 
 Charging and transferring data is done with this USB cable.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/8720670118"><img src="https://farm8.staticflickr.com/7309/8720670118_1f3b7c3812_b.jpg" width="1024" height="683" alt="Suunto Ambit2 USB"></a>
+<img src="https://farm8.staticflickr.com/7309/8720670118_1f3b7c3812_b.jpg" width="1024" height="683" alt="Suunto Ambit2 USB">
 
 ## Movescount Software
 <a rel="nofollow"  href="http://www.flickr.com/photos/90204224@N07/11133771963"><img src="http://farm6.staticflickr.com/5514/11133771963_87a2b57240_c.jpg" width="1150" alt="Movescount - latest move"></a>
 
 With <a rel="nofollow"  href="http://www.movescount.com" target="_blank">Movescount</a> you can upload and plan your moves via the USB cable which comes with the Suunto Ambit2 watch. Moreover, you are also able to upload new apps to your Ambit2.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/8719545211" title="Suunto Ambit 2 HR"><img src="https://farm8.staticflickr.com/7304/8719545211_62b27cc887_b.jpg" width="1024" height="683" alt="Suunto Ambit 2 HR"></a>
+<img src="https://farm8.staticflickr.com/7304/8719545211_62b27cc887_b.jpg" width="1024" height="683" alt="Suunto Ambit 2 HR">
 
 ## Battery life
 50 hours possible with tracking GPS data. Since it has a USB connection you are able to charge it on the trail with an <a rel="nofollow"  href="http://hikeventures.com/how-to-charge-your-batteries-when-you-are-outdoors/" target="_self">Anker Astro 3e</a> .

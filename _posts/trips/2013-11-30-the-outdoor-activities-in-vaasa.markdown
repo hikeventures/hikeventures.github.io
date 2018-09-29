@@ -25,7 +25,7 @@ If you come with a group, you should check Reino Tupa. They have a great kitchen
 
 Other options which around Vaasa are to visit bird towers or Kajane - a swampy area south of Vaasa.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/9286066904" title="Replot packrafting by HikeVentures, on Flickr"><img src="https://farm4.staticflickr.com/3685/9286066904_6624c337d5_h.jpg" width="1600" height="931" alt="Replot packrafting"></a><br>Replot - the longest bridge in Finland
+<img src="https://farm4.staticflickr.com/3685/9286066904_6624c337d5_h.jpg" width="1600" height="931" alt="Replot packrafting"><br>Replot - the longest bridge in Finland
 
 If you are more into packrafting, the Bothnian Sea or Pilvil&#228;mpi are great spots to inflate your boat.
 

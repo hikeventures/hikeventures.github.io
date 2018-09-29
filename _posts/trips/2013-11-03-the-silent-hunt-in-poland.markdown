@@ -24,7 +24,9 @@ As it turned out, our main competitors were there all along: these were the slug
 
 Nevertheless, we still managed to tackle down and apprehend enough healthy specimens - ideal for a home-made mushroom soup. In some cases, we even shared the mushrooms with our competitors: we took the caps, whereas they could keep the stems (otherwise known stipes).
 
-<a rel="nofollow" href="http://www.flickr.com/photos/90204224@N07/10648368986/"><img src="http://farm6.staticflickr.com/5501/10648368986_06f4c34355_z.jpg" width="1150" alt="mushroom picking and hiking in Poland"></a><a rel="nofollow" href="http://www.flickr.com/photos/90204224@N07/10646442194/"><img src="http://farm8.staticflickr.com/7456/10646442194_202f070f5c.jpg" width="1150" alt="mushroom picking and hiking in Poland"></a>
+<img src="http://farm6.staticflickr.com/5501/10648368986_06f4c34355_z.jpg" width="1150" alt="mushroom picking and hiking in Poland">
+
+<img src="http://farm8.staticflickr.com/7456/10646442194_202f070f5c.jpg" width="1150" alt="mushroom picking and hiking in Poland">
 
 hunted Xerocomus - in Russia these mushrooms are known as  Moss mushrooms, which clearly indicates where you can mostly find them
 
@@ -34,55 +36,55 @@ hunted Xerocomus - in Russia these mushrooms are known as  Moss mushrooms, which
 
 2) For the reasons of sustainability, remove the mushrooms carefully from the ground (in this case a knife can come in handy) leave the roots in the soil. We, ourselves, always tried to cut the stipe low so that we could get as much of the fruiting body (i.e. the mushroom itself) as possible, and make sure that the mycelium (i.e. the roots) stayed in the ground so that both silent hunters and various FFFLA members could enjoy new mushrooms next year.
 
-<a rel="nofollow" href="http://www.flickr.com/photos/90204224@N07/10647055063/"><img src="http://farm3.staticflickr.com/2890/10647055063_7f57286981_c.jpg" width="1150" alt="mushroom picking and hiking in Poland"></a><br>
+<img src="http://farm3.staticflickr.com/2890/10647055063_7f57286981_c.jpg" width="1150" alt="mushroom picking and hiking in Poland">
 
 Amanita muscaria, commonly known as the fly agaric or fly amanita, is one of the most iconic poisonous mushrooms, though not the most toxic
 
 In addition to the ingredients for fine dining, the autumn forest can share its other treasures with an eager visitor. Thus, it is possible to sample some late berries or to be amazed by the shapes and colours of various plant and fungi species. Indeed, for a keen observer, the autumn forest is a great place to practice macro photography, because the lower to the ground you get, the more intense and beautiful the colours become.
 
-<a rel="nofollow" href="http://www.flickr.com/photos/90204224@N07/10648437125/"><img src="http://farm6.staticflickr.com/5499/10648437125_262af15c76_c.jpg" width="1150" alt="mushroom picking and hiking in Poland"></a>
+<img src="http://farm6.staticflickr.com/5499/10648437125_262af15c76_c.jpg" width="1150" alt="mushroom picking and hiking in Poland">
 northern agaric
 
-<a rel="nofollow" href="http://www.flickr.com/photos/90204224@N07/10647654853/"><img src="http://farm4.staticflickr.com/3772/10647654853_484d295aa0.jpg" width="1150" alt="mushroom picking and hiking in Poland"></a>
+<img src="http://farm4.staticflickr.com/3772/10647654853_484d295aa0.jpg" width="1150" alt="mushroom picking and hiking in Poland">
 lingonberry or cowberry
 
-<a rel="nofollow" href="http://www.flickr.com/photos/90204224@N07/10647219563/"><img src="http://farm4.staticflickr.com/3715/10647219563_94a32ca633_c.jpg" width="1150" alt="mushroom picking and hiking in Poland"></a>
+<img src="http://farm4.staticflickr.com/3715/10647219563_94a32ca633_c.jpg" width="1150" alt="mushroom picking and hiking in Poland">
 the short-stemmed cauliflower fungus, smells like bleach (under protection)
 
-<a rel="nofollow" href="http://www.flickr.com/photos/90204224@N07/10648972893/"><img src="http://farm4.staticflickr.com/3833/10648972893_931f1edbc5_c.jpg" width="1150" alt="grzybkizerwony szkla niedziela"></a>
+<img src="http://farm4.staticflickr.com/3833/10648972893_931f1edbc5_c.jpg" width="1150" alt="grzybkizerwony szkla niedziela">
 some species of Mycena
 
 The landscape of Puszcza Notecka is dotted with sandy dunes that form a labyrinth of valleys and hills. These dunes are mostly covered with pines (92% of the forest&#39;s total area of 1,350 km2), which were planted during the interwar period instead of broadleaf trees that were being destroyed by insect pests.
 
-<a rel="nofollow" href="http://www.flickr.com/photos/90204224@N07/10646471534/"><img src="http://farm4.staticflickr.com/3813/10646471534_d523f59eaf_c.jpg" width="1150" alt="hiking forrest poland"></a>
+<img src="http://farm4.staticflickr.com/3813/10646471534_d523f59eaf_c.jpg" width="1150" alt="hiking forrest poland">
 
-<a rel="nofollow" href="http://www.flickr.com/photos/90204224@N07/10647117483/"><img src="http://farm4.staticflickr.com/3698/10647117483_61ba17e40a_c.jpg" width="1150" alt="mushroom picking forrest poland"></a>
+<img src="http://farm4.staticflickr.com/3698/10647117483_61ba17e40a_c.jpg" width="1150" alt="mushroom picking forrest poland">
 
-<a rel="nofollow" href="http://www.flickr.com/photos/90204224@N07/10647574044/"><img src="http://farm6.staticflickr.com/5550/10647574044_01aa02cc88_c.jpg" width="1150" alt="mushroom picking forrest poland"></a>
+<img src="http://farm6.staticflickr.com/5550/10647574044_01aa02cc88_c.jpg" width="1150" alt="mushroom picking forrest poland">
 
 Another attraction of the forest are the ever-present elevated box blinds, wooden constructions up to 10 meters high used by forest guards for observation and by members of legal hunting associations for not-so-silent hunting on boars, roe and red deer.
 
-<a rel="nofollow" href="http://www.flickr.com/photos/90204224@N07/10648534726/"><img src="http://farm8.staticflickr.com/7345/10648534726_87055d3fa9_c.jpg" width="1150" alt="mushroom picking and hiking in Poland"></a>
+<img src="http://farm8.staticflickr.com/7345/10648534726_87055d3fa9_c.jpg" width="1150" alt="mushroom picking and hiking in Poland">
 
 The views from one of these towers and from the ground level are indeed very different.
 
-<a rel="nofollow" href="http://www.flickr.com/photos/90204224@N07/10648048913/"><img src="http://farm4.staticflickr.com/3822/10648048913_6ce2e59381_c.jpg" width="1150" alt="mushroom picking and hiking in Poland"></a>
+<img src="http://farm4.staticflickr.com/3822/10648048913_6ce2e59381_c.jpg" width="1150" alt="mushroom picking and hiking in Poland">
 
-<a rel="nofollow" href="http://www.flickr.com/photos/90204224@N07/10648342106/"><img src="http://farm4.staticflickr.com/3791/10648342106_7fbd9e8339_c.jpg" width="1150" alt="mushroom picking and hiking in Poland"></a>
+<img src="http://farm4.staticflickr.com/3791/10648342106_7fbd9e8339_c.jpg" width="1150" alt="mushroom picking and hiking in Poland">
 
 It is reported that in Poland there are between five and seven hundred wolves, which are under a strict protection of the government. Puszcza Notecka is also the place where wolves have been spotted a number of times, however, this has been extremely rare and the chance of seeing one of them will not exceed 0.1% in the most optimistic estimates.
 
-<a rel="nofollow" href="http://www.flickr.com/photos/90204224@N07/10647512276/"><img src="http://farm8.staticflickr.com/7321/10647512276_1f6c54a4af_c.jpg" width="1150" alt="mushroom picking and hiking in Poland"></a>
+<img src="http://farm8.staticflickr.com/7321/10647512276_1f6c54a4af_c.jpg" width="1150" alt="mushroom picking and hiking in Poland">
 
-<a rel="nofollow" href="http://www.flickr.com/photos/90204224@N07/10647915736/"><img src="http://farm4.staticflickr.com/3822/10647915736_9753726453_c.jpg" width="1150" alt="mushroom picking and hiking in Poland"></a>
+<img src="http://farm4.staticflickr.com/3822/10647915736_9753726453_c.jpg" width="1150" alt="mushroom picking and hiking in Poland">
 
 Going off road in the forest is rather easy and one should not be afraid to get lost as the main paths are well marked on trees and the forest is divided into numbered quadrants. These numbers can be found on well-visible stone polls and correspond with the numbers indicated on most of the maps. If you still inexplicably managed to get lost, or you are running out of time and want to take a shortcut to get out from forest, you should simply follow the power lines, which run between the villages located on the outskirts of the forest. This may not be the most spectacular path, but following the lines will definitely lead to a main road... sooner or later.
 
-<a rel="nofollow" href="http://www.flickr.com/photos/90204224@N07/10646969734/"><img src="http://farm6.staticflickr.com/5538/10646969734_91ee9aaa10_c.jpg" width="1150" alt="mushroom picking and hiking in Poland"></a>
+<img src="http://farm6.staticflickr.com/5538/10646969734_91ee9aaa10_c.jpg" width="1150" alt="mushroom picking and hiking in Poland">
 
 Although it is very easy to reach Puszcza Notecka from Pozna&#324; by car, we decided to rely on the local railway, as we didn&#39;t want to make a long loop walk back. Our 20 km Tour De Forest eventually took us the whole day. The last part of trail we completed in darkness (long live [Pezel Nao][1]!) and reached the next train station around 8 p.m. Surprisingly, we were not the only late-Sunday passengers, as we had expected.
 
-<a rel="nofollow" href="http://www.flickr.com/photos/90204224@N07/10647732575/"><img src="http://farm3.staticflickr.com/2849/10647732575_0d974402e7_c.jpg" width="1150" alt="mushroom picking and hiking in Poland"></a>
+<img src="http://farm3.staticflickr.com/2849/10647732575_0d974402e7_c.jpg" width="1150" alt="mushroom picking and hiking in Poland">
 
 railway track in Mokrz - starting point
 
@@ -90,7 +92,7 @@ The train was packed with students heading to Pozna&#324;, which for us meant mo
 
 As the imaginary smell of the mushroom soup filled the noisy train compartment on the ride back home, we smiled to each other from behind the piles of luggage, enjoying the memories of the silent hunt.
 
-<a rel="nofollow" href="http://www.flickr.com/photos/90204224@N07/10646740703/"><img src="http://farm3.staticflickr.com/2837/10646740703_1f15132603_c.jpg" width="1150" alt="mushroom picking and hiking in Poland"></a>
+<img src="http://farm3.staticflickr.com/2837/10646740703_1f15132603_c.jpg" width="1150" alt="mushroom picking and hiking in Poland">
 
 train station in Mia&#322;y
 

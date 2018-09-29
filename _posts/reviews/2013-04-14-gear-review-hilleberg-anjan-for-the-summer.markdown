@@ -21,17 +21,17 @@ Further, I would not get the GT version If I were to buy the Anjan or the Nallo.
 ## Features
 The Hilleberg Anjan 2 comes with 1700 grams, a big window for ventilation, reflectors, 2 mosquito windows and 12 Tri-Pegs. I found the quality and craftmanship of the Anjan 2 quite excellent. The outer tent can also be used as a standalone tent. The inner height is 100 cm and the inner tent area 2.8 m2.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/8646932085" title="Hilleberg Anjan 2 "><img src="https://farm9.staticflickr.com/8382/8646932085_e319096a48_o.jpg" width="1150" alt="Hilleberg Anjan 2 window mesh"></a>
+<img src="https://farm9.staticflickr.com/8382/8646932085_e319096a48_o.jpg" width="1150" alt="Hilleberg Anjan 2 window mesh">
 
 Big windows for superb air-circulation!
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/8648027956" title="Hilleberg Anjan 2 "><img src="https://farm9.staticflickr.com/8381/8648027956_5996ab30ea_o.jpg" width="1150" alt="Hilleberg Anjan 2 entrance vestibule"></a>
+<img src="https://farm9.staticflickr.com/8381/8648027956_5996ab30ea_o.jpg" width="1150" alt="Hilleberg Anjan 2 entrance vestibule">
 
 It is possible to use the tent either as a shelter (without the inner tent) or just the inner tent in case there is no rain expected during the warm summer nights.
 
 However, one drawback of the Anjan 2 is that it seems to condensate inside quite a bit if I keep the tent completely closed for a longer period while it is raining. Also the tent should be pitched on grass as rain can get into the tent if pitched on hard ground.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/8648027170" title="Hilleberg Anjan 2 "><img src="https://farm9.staticflickr.com/8402/8648027170_0a87237a5f_o.jpg" width="1150" alt="Hilleberg Anjan 2 outer tent"></a>
+<img src="https://farm9.staticflickr.com/8402/8648027170_0a87237a5f_o.jpg" width="1150" alt="Hilleberg Anjan 2 outer tent">
 
 The tent has also reflective stripes so you can find it if it's too dark.
 
@@ -39,15 +39,15 @@ The tent has also reflective stripes so you can find it if it's too dark.
 
 Plenty of storage room for gear. The GT model of this tent has even more storage capacity.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/13637447343" title="Mountian Equipment AR Ultralite"><img src="https://farm4.staticflickr.com/3666/13637447343_ecbe278ff6_b.jpg" width="1024" height="683" alt="Packed size of the Hilleberg Anjan 3"></a>
+<img src="https://farm4.staticflickr.com/3666/13637447343_ecbe278ff6_b.jpg" width="1024" height="683" alt="Packed size of the Hilleberg Anjan 3">
 
 The Hilleberg Anjan 3 compared to Mountain Equipment AR Ultralite 2. The Hilleberg is just slightly bigger and 200 grams heavier but you will enjoy plenty of more space.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/13933287604"><img src="https://farm8.staticflickr.com/7228/13933287604_218a763eb1_b.jpg" width="1024" height="683" alt="Hilleberg Anjan 3 inside - inner tent size"></a>
+<img src="https://farm8.staticflickr.com/7228/13933287604_218a763eb1_b.jpg" width="1024" height="683" alt="Hilleberg Anjan 3 inside - inner tent size">
 
 The Hilleberg Anjan 3 is a good choice if you are big or if you just want to have more room in the tent to store gear inside of the tent or just to play some cards if it's raining outside.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/9596230289"><img src="https://c1.staticflickr.com/3/2822/9596230289_9b0f70706d_o.jpg" width="991" height="567" alt="Hilleberg Anjan Night"></a>
+<img src="https://c1.staticflickr.com/3/2822/9596230289_9b0f70706d_o.jpg" width="991" height="567" alt="Hilleberg Anjan Night">
 
 Konstantin prepared food in front of the Hilleberg Anjan 2 with our <a rel="nofollow" href="http://hikeventures.com/gear-review-jetboil-sol-ti/" target="_self">Jetboil Sol Ti boiler</a> on our trip to <a rel="nofollow" href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">Sarek in Sweden</a>.
 

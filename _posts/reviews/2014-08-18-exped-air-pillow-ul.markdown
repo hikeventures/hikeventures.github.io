@@ -19,12 +19,13 @@ When you plan you next hiking, backpacking, packrafting or other outdoor trip it
 
 The Exped Air Pillow UL M weights comes with the size 38 × 27 × 11 cm. If weight is an issue then you could also use your fleece or other clothes as a pillow, however with around 57 grams you will not substantially increase the weight of your backpack in order to increase your sleeping comfort.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/14761636837" title="Exped Synmat UL 7"><img src="https://farm6.staticflickr.com/5568/14761636837_0ebf3870b8_b.jpg" width="1024" height="683" alt="Exped Synmat UL 7"></a>
+<img src="https://farm6.staticflickr.com/5568/14761636837_0ebf3870b8_b.jpg" width="1024" height="683" alt="Exped Synmat UL 7">
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/8731238958" title="Exped Sleeping Pad"><img src="https://farm8.staticflickr.com/7447/8731238958_368a02cb61_b.jpg" width="1024" height="683" alt="Exped Sleeping Pad"></a>
+<img src="https://farm8.staticflickr.com/7447/8731238958_368a02cb61_b.jpg" width="1024" height="683" alt="Exped Sleeping Pad">
+
 The valve to inflate and deflate the Exped Air Pillow UL M
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/8731236714" title="Exped Syn UL7"><img src="https://farm8.staticflickr.com/7459/8731236714_8e68e09370_b.jpg" width="1024" height="683" alt="Exped Syn UL7"></a>The Exped Synmat UL 7 next to the Exped Air Pillow UL.
+<img src="https://farm8.staticflickr.com/7459/8731236714_8e68e09370_b.jpg" width="1024" height="683" alt="Exped Syn UL7">The Exped Synmat UL 7 next to the Exped Air Pillow UL.
 
 Quality and durability of the Air Pillow is also quite good and I am so far not able to spot any signs of wear on the Air Pillow which comes with a warranty of 2 years.
 

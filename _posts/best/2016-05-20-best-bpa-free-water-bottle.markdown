@@ -31,7 +31,7 @@ The large opening of the bottle makes it quite easy to use a water purifier like
 
 You can also easily add ice cubes into the Nalgene water bottle.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/17897231902"><img src="https://c2.staticflickr.com/6/5464/17897231902_da7ee91b30_b.jpg" width="100%" alt="Best water bottle for outdoors - Nalgene"></a>
+<img src="https://c2.staticflickr.com/6/5464/17897231902_da7ee91b30_b.jpg" width="100%" alt="Best water bottle for outdoors - Nalgene">
 
 Initially, I was reluctant to buy this water bottle as I thought it’s just an average plastic bottle which you can get for a more affordable price.
 

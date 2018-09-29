@@ -14,13 +14,13 @@ As I recently bought a new Alpacka packraft, learning how to Packraft is now ess
 <img src="https://farm9.staticflickr.com/8277/8714403482_520cf243ab_b.jpg" width="1024" height="683" layout="responsive" alt="Learning Packrafting">
 <br>
 <!--more-->
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/8714403426"><img src="https://farm9.staticflickr.com/8552/8714403426_98e19fe539_b.jpg" width="1024" height="441" alt="how to packraft"></a>
+<img src="https://farm9.staticflickr.com/8552/8714403426_98e19fe539_b.jpg" width="1024" height="441" alt="how to packraft">
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/8713281179"><img src="https://farm9.staticflickr.com/8272/8713281179_b398dfd180_b.jpg" width="1009" height="559" alt="Studying Packrafting Finland alpacka raft"></a>
+<img src="https://farm9.staticflickr.com/8272/8713281179_b398dfd180_b.jpg" width="1009" height="559" alt="Studying Packrafting Finland alpacka raft">
 
 The water at this point of the year is still freezing cold. Wearing a pair of socks (e.g. waterproof Sealskinz) and sitting on some sort of isolated pad (e.g. the one which comes with the packraft) is a must.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/8714404044" title="Packrafting Finland"><img src="https://farm9.staticflickr.com/8123/8714404044_a11c07874f_b.jpg" width="1024" height="641" alt="Learning Packrafting Finland alpacka raft"></a>
+<img src="https://farm9.staticflickr.com/8123/8714404044_a11c07874f_b.jpg" width="1024" height="641" alt="Learning Packrafting Finland alpacka raft">
 
 View from the cockpit. In the front there is enough space for a backpack. Still need to get a dry bag though...
 

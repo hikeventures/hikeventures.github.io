@@ -24,7 +24,7 @@ I was wearing my Fitzroy jacket everyday as soon as I got out of my dry suite. T
 
 The Fitzroy also comes with a stuff bag. Obviously, a synthetic jacket does not pack as small as a down jacket but I prefer to have a jacket with me which keeps me warm in every condition. Especially, when you do packrafting then there is always a chance that your clothes might get wet. But also for winter activities like snow shoeing a synthetic jacket might be a better choice than a down jacket if you have to walk up hills and start sweating. The disadvantage of the synthetic jacket is that it does not keep you that warm as a down jacket but I was perfectly happy with the Fitzroy jacket at -2 °C and a merino layer / fleece under it.
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25610109461/in/dateposted-public/" title="Mountain Equipment Fitzroy Jacket Review"><img src="https://farm2.staticflickr.com/1647/25610109461_6e4f8d7348_b.jpg" width="1024" height="768" alt="Mountain Equipment Fitzroy Jacket Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://farm2.staticflickr.com/1647/25610109461_6e4f8d7348_b.jpg" width="1024" height="768" alt="Mountain Equipment Fitzroy Jacket Review">
 
 ---
 

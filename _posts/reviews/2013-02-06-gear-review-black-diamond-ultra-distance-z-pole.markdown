@@ -22,7 +22,7 @@ The Black Diamond Ultra Distance Z-Pole weights 290 grams, is foldable, breathab
 
 This is the lock button which you need to push in order to fold the poles.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/8449890395" title="Black Diamond Ultra Distance Z-Pole"><img src="https://farm9.staticflickr.com/8235/8449890395_5c07ac00d6_b.jpg" width="957" height="1024" alt="Black Diamond Ultra Distance Z-Pole hiking trekking walking and backpacking poles ultralight"></a>
+<img src="https://farm9.staticflickr.com/8235/8449890395_5c07ac00d6_b.jpg" width="957" height="1024" alt="Black Diamond Ultra Distance Z-Pole hiking trekking walking and backpacking poles ultralight">
 
 The mesh bag also comes with the poles. In general, I would say those poles look and feel really great. They also won the Backpacker Editor Choice 2011. I also believe that the Z-Poles work better than the clip system. It also comes with an interchangeable rubber and carbide tips.
 

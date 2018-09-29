@@ -29,7 +29,7 @@ You can tighten the lower part of your jacket.
 
 You can tighten the sleeve on your wrist. Supercool! :)
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/9185828030"><img src="https://farm4.staticflickr.com/3673/9185828030_24c036ec28_b.jpg" width="1024" height="683" alt="Arc'teryx Squamish Hoody"></a>
+<img src="https://farm4.staticflickr.com/3673/9185828030_24c036ec28_b.jpg" width="1024" height="683" alt="Arc'teryx Squamish Hoody">
 
 Reflective logo on the Arc'teryx Squamish Hoody... great for hiking during the night. The pocket on your chest serves also as a stuff bag for your jacket.
 
@@ -39,7 +39,7 @@ Reflective logo on the Arc'teryx Squamish Hoody... great for hiking during the n
 
 YKK zippers.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/9185823672"><img src="https://farm4.staticflickr.com/3775/9185823672_ab4f82b51d_b.jpg" width="1024" height="683" alt="Arc'teryx Squamish Hoody"></a>
+<img src="https://farm4.staticflickr.com/3775/9185823672_ab4f82b51d_b.jpg" width="1024" height="683" alt="Arc'teryx Squamish Hoody">
 
 Size of the Squamish Hoody compared to the <a rel="nofollow" href="http://hikeventures.com/gear-review-hmg-porter-4400-black/" target="_self">HMG Porter 4400</a>.
 

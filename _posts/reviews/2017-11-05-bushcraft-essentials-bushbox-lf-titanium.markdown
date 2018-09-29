@@ -16,7 +16,8 @@ Today, I had a chance to test our new Bushcraft Essentials Bushbox LF Titanium. 
 We discovered Bushcraft Essentials this year at the OutDoor Show in Friedrichshafen and were quite excited to test them ourselves. The Bushbox LF Titanium generates good heat, is foldable and weights around 270 grams.
 <br>
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/38182910611/in/datetaken-public/" title="Bushcraft Essentials - Bushbox LF Titanium"><img src="https://farm5.staticflickr.com/4485/38182910611_c02cae5c27_k.jpg" width="2048" height="1365" alt="Bushcraft Essentials - Bushbox LF Titanium Test / Review"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://farm5.staticflickr.com/4485/38182910611_c02cae5c27_k.jpg" width="2048" height="1365" alt="Bushcraft Essentials - Bushbox LF Titanium Test / Review">
+<br>
 <!--more-->
 <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/h6-1RJe9iRA"></iframe>

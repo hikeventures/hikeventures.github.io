@@ -17,9 +17,11 @@ The Powertraveller Solarmonkey Adventurer is my new solar charging device for my
 <br>
 <!--more-->
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/13913955861/" ><img src="https://farm8.staticflickr.com/7202/13913955861_e082b58204_b.jpg" width="1024" height="683" alt="Powertraveller Solarmonkey Adventurer"></a>
+<img src="https://farm8.staticflickr.com/7202/13913955861_e082b58204_b.jpg" width="1024" height="683" alt="Powertraveller Solarmonkey Adventurer">
+
 The Solarmonkey Adventurer has a 2500 mAh lithium-ion polymer battery, which is 4 times less than the <a rel="nofollow" href="http://hikeventures.com/how-to-charge-your-batteries-when-you-are-outdoors/" target="_self">Anker Astro 3E</a> but with the possibility to recharge the battery every day e.g. by attaching it on my backpack during the day.
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/13913961561/"><img src="https://farm4.staticflickr.com/3708/13913961561_100ac6009e_b.jpg" width="1024" height="683" alt="Powertraveller Solarmonkey Adventurer"></a>
+
+<img src="https://farm4.staticflickr.com/3708/13913961561_100ac6009e_b.jpg" width="1024" height="683" alt="Powertraveller Solarmonkey Adventurer">
 
 ## Features
 * multiple adapters included*
@@ -42,6 +44,6 @@ So far, I have tested the Solarmonkey Adventurer with my iphone and my Sony A7r 
 
 <strong>Update 21.06.2014:</strong> After some testing, I was not able to charge my iPhone up to 100% if the battery of the Solar panel is charged with the Solar panels. I received a replacement and need to test the device again. Will write an update as soon as possible.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/13913979456/" ><img src="https://farm8.staticflickr.com/7164/13913979456_20e1c44af1_b.jpg" width="1024" height="683" alt="Powertraveller Solarmonkey Adventurer"></a>
+<img src="https://farm8.staticflickr.com/7164/13913979456_20e1c44af1_b.jpg" width="1024" height="683" alt="Powertraveller Solarmonkey Adventurer">
 
 You can get the Solarmonkey Adventurer on <a rel="nofollow" href="http://amzn.to/2vhIwGV" target="_blank" >Amazon</a>

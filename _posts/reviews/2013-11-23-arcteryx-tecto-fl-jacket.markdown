@@ -22,11 +22,11 @@ The Arc'teryx Tecto FL jacket comes with plenty of features and has a close-to-b
 
 Officially, the Arc'teryx Tecto jacket is a 3-season jacket. However it can also used for your winter activities. Beside a rain jacket I would also recommend you to take a <a rel="nofollow" href="http://www.hikeventures.com/gear-review-arcteryx-squamish-hoody" target="_self">wind jacket</a> with you and exchange it with your waterproof jacket when it starts raining. The wind jackets protects you against cold winds and you are not going to sweat that much in it as in a waterproof jacket.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/11379642664"><img src="https://farm6.staticflickr.com/5499/11379642664_c195de6b10_b.jpg" width="1024" height="708" alt="Acteryx Tecto FL Jacket"></a>
+<img src="https://farm6.staticflickr.com/5499/11379642664_c195de6b10_b.jpg" width="1024" height="708" alt="Acteryx Tecto FL Jacket">
 
 The close-to-body fit is especially suitable for those who are performing activities where you have to move a lot. Make sure to try this jacket on with some layers of clothing underneath. The jacket should not be too tight.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/11379593215"><img src="https://farm8.staticflickr.com/7427/11379593215_2b2978c441_b.jpg" width="1024" height="668" alt="Acteryx Tecto FL Jacket"></a>
+<img src="https://farm8.staticflickr.com/7427/11379593215_2b2978c441_b.jpg" width="1024" height="668" alt="Acteryx Tecto FL Jacket">
 
 ## Recommendation
 The Arc'teryx Tecto FL jacket is a great jacket for being active outdoors. It is also lightweight and packs small since it has less pockets and a minimalistic cut.

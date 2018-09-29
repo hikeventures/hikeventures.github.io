@@ -21,14 +21,14 @@ A map is one of the most important item which should be in your backpack on ever
 
 For our trip to Sarek we were looking for a proper map which is durable and water resistant. After doing some research online we were able to spot Calazo maps which are made of Tyvek. I also found them a tad cheaper than the regular paper maps.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/9323535243"><img src="https://c4.staticflickr.com/8/7335/9323535243_cd1d8953bf_b.jpg" width="1024" height="683" alt="Calazo Waterproof Map"></a>
+<img src="https://c4.staticflickr.com/8/7335/9323535243_cd1d8953bf_b.jpg" width="1024" height="683" alt="Calazo Waterproof Map">
 
 ---
 
 ## Features
 Calazo maps are lightweight, waterproof, quality maps which are easily foldable. The are more durable than normal maps and come with a good print quality. Also the price is quite attractive and sometimes even cheaper than regular maps.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/9323537337"><img src="https://c4.staticflickr.com/8/7424/9323537337_1596bcb905_b.jpg" width="1024" height="683" alt="Calazo Waterproof Map"></a>
+<img src="https://c4.staticflickr.com/8/7424/9323537337_1596bcb905_b.jpg" width="1024" height="683" alt="Calazo Waterproof Map">
 
 The Calazo maps are also usable in combination with a <a rel="nofollow" href="http://hikeventures.com/gear-review-suunto-ambit-2-black-hr/" target="_self">GPS</a>.
 

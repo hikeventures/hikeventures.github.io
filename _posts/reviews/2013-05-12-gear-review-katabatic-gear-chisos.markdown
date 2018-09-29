@@ -17,34 +17,34 @@ Looking for an ultralight quilt for the summer for your next hiking, backpacking
 <br>
 <!--more-->
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/8731235068" ><img src="https://farm8.staticflickr.com/7432/8731235068_5355313c08_b.jpg" width="1024" height="683" alt="Katabatic Gear Chisos field test"></a>
+<img src="https://farm8.staticflickr.com/7432/8731235068_5355313c08_b.jpg" width="1024" height="683" alt="Katabatic Gear Chisos field test">
 
 ## Features
 The Katabatic Gear Chisos Quilt comes with 900 cuin down, a water repellent pertex quantum shell, YKK zippers and weights around 14.6 oz. It's a high quality quilt which can be used during the summer months or as an additional layer during colder months. I also liked the customer service offered by Katabatic.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/8731233664" ><img src="https://farm8.staticflickr.com/7447/8731233664_5731308fd3_b.jpg" width="1024" height="683" alt="Katabatic Gear Chisos"></a>
+<img src="https://farm8.staticflickr.com/7447/8731233664_5731308fd3_b.jpg" width="1024" height="683" alt="Katabatic Gear Chisos">
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/8731233728" ><img src="https://farm8.staticflickr.com/7447/8731233728_68b5b1a86c_b.jpg" width="1024" height="683" alt="Katabatic Gear Chisos"></a>
+<img src="https://farm8.staticflickr.com/7447/8731233728_68b5b1a86c_b.jpg" width="1024" height="683" alt="Katabatic Gear Chisos">
 
 With this button you can close the quilt behind your neck.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/8731234560" ><img src="https://farm8.staticflickr.com/7457/8731234560_4a9768686c_b.jpg" width="1024" height="683" alt="Katabatic Gear Chisos"></a>
+<img src="https://farm8.staticflickr.com/7457/8731234560_4a9768686c_b.jpg" width="1024" height="683" alt="Katabatic Gear Chisos">
 
 With this strap you close the top of the quilt around your neck.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/8730114275" ><img src="https://farm8.staticflickr.com/7435/8730114275_993318518e_b.jpg" width="683" height="1024" alt="Katabatic Gear Chisos"></a>
+<img src="https://farm8.staticflickr.com/7435/8730114275_993318518e_b.jpg" width="683" height="1024" alt="Katabatic Gear Chisos">
 
 Those straps are going below the sleeping pad. It keeps the quilt on its place and helps to 'seal' the sides against cold air coming into the quilt.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/8730114619" ><img src="https://farm8.staticflickr.com/7404/8730114619_6c64769d81_b.jpg" width="1024" height="683" alt="Katabatic Gear Chisos"></a>
+<img src="https://farm8.staticflickr.com/7404/8730114619_6c64769d81_b.jpg" width="1024" height="683" alt="Katabatic Gear Chisos">
 
 Backside of the quilt.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/8731235444" ><img src="https://farm8.staticflickr.com/7289/8731235444_20f26ce413_b.jpg" width="683" height="1024" alt="Katabatic Gear Chisos"></a>
+<img src="https://farm8.staticflickr.com/7289/8731235444_20f26ce413_b.jpg" width="683" height="1024" alt="Katabatic Gear Chisos">
 
 That's all included with the quilt.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/8730115903" ><img src="https://farm8.staticflickr.com/7383/8730115903_055c604918_b.jpg" width="1024" height="683" alt="Katabatic Gear Chisos comparison Therm-a-rest Z Lite Exped Syn UL7"></a>
+<img src="https://farm8.staticflickr.com/7383/8730115903_055c604918_b.jpg" width="1024" height="683" alt="Katabatic Gear Chisos comparison Therm-a-rest Z Lite Exped Syn UL7"><
 
 Size of the quilt compared to the Therm-a-Rest Z Lite and Exped Syn UL7.
 

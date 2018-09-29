@@ -21,31 +21,31 @@ I was carrying the Thule Sampling Elite mainly in the forests around our neighbo
 
 Of course it is quite hard to see what your child is doing in the back while you are walking along the trail. Thule was thinking ahead and added a mirror in one of the hip belt pockets which you can take out to monitor your child. My child felt also more comfortable when she saw me smiling to her from time to time so this is a simple but really great feature.
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28434132705/in/dateposted-public/" title="Thule Sapling Elite Child Carrier"><img src="https://c2.staticflickr.com/8/7484/28434132705_ca31fc40b4_k.jpg" width="2048" height="1367" alt="Thule Sapling Elite Child Carrier"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://c2.staticflickr.com/8/7484/28434132705_ca31fc40b4_k.jpg" width="2048" height="1367" alt="Thule Sapling Elite Child Carrier">
 
 When there is a lot of sun you can keep your child happy by unfolding the sunshade over your childs head. The sun shade is stored at the inner backside of the backpack and should be deployed when your child is already sitting in the seat of the child carrier.
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28355399161/in/dateposted-public/" title="Thule Sapling Elite Child Carrier"><img src="https://c2.staticflickr.com/9/8829/28355399161_7776849f56_k.jpg" width="2048" height="1362" alt="Thule Sapling Elite Child Carrier"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://c2.staticflickr.com/9/8829/28355399161_7776849f56_k.jpg" width="2048" height="1362" alt="Thule Sapling Elite Child Carrier">
 
 Here you can see how the sun shade is stored in the Thule Sapling Elite Child Carrier.
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28355403121/in/dateposted-public/" title="Thule Sapling Elite Child Carrier"><img src="https://c2.staticflickr.com/9/8787/28355403121_958fe13169_k.jpg" width="2048" height="1362" alt="Thule Sapling Elite Child Carrier"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://c2.staticflickr.com/9/8787/28355403121_958fe13169_k.jpg" width="2048" height="1362" alt="Thule Sapling Elite Child Carrier">
 
 The Sampling Elite has a fully adjustable back panel and hip belt so you can fully adjust it to your needs. The load stabilizer straps allow on-the-go adjustments to the backpack's center of gravity.
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28329242242/in/dateposted-public/" title="Thule Sapling Elite Child Carrier"><img src="https://c3.staticflickr.com/9/8659/28329242242_c9121ad269_k.jpg" width="1362" height="2048" alt="Thule Sapling Elite Child Carrier"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://c3.staticflickr.com/9/8659/28329242242_c9121ad269_k.jpg" width="1362" height="2048" alt="Thule Sapling Elite Child Carrier">
 
 On the lower backside of the backpack there is also a bag with a zipper where I stored items which I could  need during the trip like diapers, jackets, baby clothes, backpack rain cover or snacks. Moreover, there are also 2 zippered hip belt pockets where you can store for example snacks, keys or your phone. If you plan to go on a longer trip then you can also store a water hydration bag in the backpack.
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28151193330/in/dateposted-public/" title="Thule Sapling Elite Child Carrier"><img src="https://c3.staticflickr.com/8/7794/28151193330_9ba1f760b7_k.jpg" width="2048" height="1362" alt="Thule Sapling Elite Child Carrier"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://c3.staticflickr.com/8/7794/28151193330_9ba1f760b7_k.jpg" width="2048" height="1362" alt="Thule Sapling Elite Child Carrier">
 
 Talking about the seat on the backpack. You can load your child either from the top or the side into the seat. The Sapling Elite has also removable stirrups so the child can rest it's legs and readjust.
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28434173405/in/dateposted-public/" title="Thule Sapling Elite Child Carrier"><img src="https://c6.staticflickr.com/9/8855/28434173405_e3a1b1004e_k.jpg" width="2048" height="1362" alt="Thule Sapling Elite Child Carrier"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://c6.staticflickr.com/9/8855/28434173405_e3a1b1004e_k.jpg" width="2048" height="1362" alt="Thule Sapling Elite Child Carrier">
 
 Thule is also selling the [Thule Sapling Rain Cover](http://www.ems.com/thule-sapling-rain-cover/19476200012.html) to protect your backpack and your child from rain.
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28329260142/in/dateposted-public/" title="Thule Sapling Elite Child Carrier"><img src="https://c7.staticflickr.com/9/8576/28329260142_4239d81ef3_k.jpg" width="2048" height="1362" alt="Thule Sapling Elite Child Carrier"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://c7.staticflickr.com/9/8576/28329260142_4239d81ef3_k.jpg" width="2048" height="1362" alt="Thule Sapling Elite Child Carrier">
 
 ---
 

@@ -28,7 +28,7 @@ Those additional features would make us to upgrade our phone cases from the X3 t
 
 The only features we were missing on the X4 were that it is not waterproof and an attachement point - lanyard or a coard for a hand. Think of a situation while paddling on a river and you hit by accident a rock while taking a picture. You may drop your phone and all the nice memories (picture) of your trip are gone.
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/25670238335/in/dateposted-public/" title="Thule X4 iPhone Adventure Case"><img src="https://farm2.staticflickr.com/1635/25670238335_8abbee8eb2_b.jpg" width="100%" alt="Thule Atmos X4 iPhone Adventure Case"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://farm2.staticflickr.com/1635/25670238335_8abbee8eb2_b.jpg" width="100%" alt="Thule Atmos X4 iPhone Adventure Case">
 
 In general, we also liked the camera lens protection. Even so there is no physical protection for the lens we found it sufficient to have the lens just placed lower than the case.
 

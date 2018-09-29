@@ -20,22 +20,23 @@ Winter time - Gaiter time! To keep snow out during my winter activities like win
 ## Features
 The Deuter Boulder gaiters just weight 145 grams, are made of 600 den Polyester and have an elastic top and bottom. The gaiters have a height of 20 cm.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/11544965826" title="Deuter Boulder Gaiters by HikeVentures, on Flickr"><img src="https://farm3.staticflickr.com/2872/11544965826_50a4098bd7_b.jpg" width="1024" height="683" alt="Deuter Boulder Gaiters"></a>
+<img src="https://farm3.staticflickr.com/2872/11544965826_50a4098bd7_b.jpg" width="1024" height="683" alt="Deuter Boulder Gaiters">
 
 ## Function
 The Deuter Boulder gaiters can be attached on shoes with a leather strap.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/11544868434"><img src="https://farm4.staticflickr.com/3734/11544868434_ca78749218_b.jpg" width="1024" height="683" ></a>
+<img src="https://farm4.staticflickr.com/3734/11544868434_ca78749218_b.jpg" width="1024" height="683" >
 
 On the top you can tighten a cord to seal the pants with your gaiters.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/11544973823"><img src="https://farm4.staticflickr.com/3809/11544973823_7887bbb9d5_b.jpg" width="1024" height="683" ></a>
+<img src="https://farm4.staticflickr.com/3809/11544973823_7887bbb9d5_b.jpg" width="1024" height="683" >
 
 The gaiters are attached on your shoelace with a hook.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/11544864574"><img src="https://farm3.staticflickr.com/2808/11544864574_8ec75fa1b9_b.jpg" width="1024" height="683" ></a>
+<img src="https://farm3.staticflickr.com/2808/11544864574_8ec75fa1b9_b.jpg" width="1024" height="683" >
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/11544968493"><img src="https://farm4.staticflickr.com/3763/11544968493_b4276521e6_b.jpg" width="1024" height="683" ></a>
+<img src="https://farm4.staticflickr.com/3763/11544968493_b4276521e6_b.jpg" width="1024" height="683" >
+
 There is also a slide fastener to close the gaiters.
 
 ## Recommendation

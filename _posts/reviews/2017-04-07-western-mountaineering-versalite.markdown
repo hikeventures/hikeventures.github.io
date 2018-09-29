@@ -28,7 +28,7 @@ Talking about our winter trip in Northern Norway, I had an additional lighter sl
 
 You are probably also interested to know in what I was wearing during the night. Well, I was wearing a merino base layer and a synthetic insulated jacket during the night.
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716083885/in/album-72157666947120531/" title="Western Mountaineering Versalite Review and Test"><img src="https://c1.staticflickr.com/9/8676/28716083885_bbf1d5f5b3_b.jpg" width="1024" height="683" alt="Western Mountaineering Versalite Review and Test"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://c1.staticflickr.com/9/8676/28716083885_bbf1d5f5b3_b.jpg" width="1024" height="683" alt="Western Mountaineering Versalite Review and Test">
 
 However, it was slightly too warm wearing a jacket and being covered with 2 sleeping bags as I wanted to make sure to wear enough clothes during the night as I was not sure how deep the temperatures would drop.
 
@@ -45,7 +45,7 @@ The sleeping bag is filled with 567 grams (20oz.) down and weights 900 grams (2l
 
 It features continuous baffles so you can adjust the down within the sleeping bag according to your needs. The full collar also helps to keep your body heat within the sleeping bag.
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/28716071475/in/album-72157666947120531/" title="Western Mountaineering Versalite Review and Test"><img src="https://c1.staticflickr.com/9/8350/28716071475_d5bee56ddf_b.jpg" width="1024" height="683" alt="Western Mountaineering Versalite Review and Test"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://c1.staticflickr.com/9/8350/28716071475_d5bee56ddf_b.jpg" width="1024" height="683" alt="Western Mountaineering Versalite Review and Test">
 
 ---
 

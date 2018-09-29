@@ -23,6 +23,6 @@ Give us a "thumbs up" on <a rel="nofollow" href="https://www.youtube.com/watch?v
 <br>
 <!--more-->
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30852191068/in/dateposted-public/" title="Packraft Rudder"><img src="https://farm2.staticflickr.com/1873/30852191068_945ccbbb8c_b.jpg" width="768" height="1024" alt="Packraft Rudder"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://farm2.staticflickr.com/1873/30852191068_945ccbbb8c_b.jpg" width="768" height="1024" alt="Packraft Rudder">
 
 Our Keel while packrafting in Russia.

@@ -23,18 +23,18 @@ The Jetboil stove can heat 0.5 l in 2 minutes and 15 seconds which is equal to 1
 ## Features
 The Jetboil Sol Ti boils 0.8l water fast, is packable and weights only 240 grams. A 100 grams gas canister can boil around 12 liter of water.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/8552860540" title="Jetboil Sol Ti"><img src="https://farm9.staticflickr.com/8229/8552860540_27dbcfbc7f_b.jpg" width="1024" height="566" alt="Jetboil Sol Ti ultralight hiking and backpacking stove parts"></a>
+<img src="https://farm9.staticflickr.com/8229/8552860540_27dbcfbc7f_b.jpg" width="1024" height="566" alt="Jetboil Sol Ti ultralight hiking and backpacking stove parts">
 
 Parts which are included with the Jetboil Sol Ti
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/8551708953" title="Jetboil Sol Ti"><img src="https://farm9.staticflickr.com/8243/8551708953_09a57a6b4e_b.jpg" width="1024" height="861" alt="Jetboil Sol Ti ultralight hiking and backpacking stove parts"></a>
+<img src="https://farm9.staticflickr.com/8243/8551708953_09a57a6b4e_b.jpg" width="1024" height="861" alt="Jetboil Sol Ti ultralight hiking and backpacking stove parts">
 
 All parts can be easily placed within the Titanium cup
 
 ## Recommendation
 I have tested the Jetboil Sol Ti on <a rel="nofollow" href="http://hikeventures.com/hiking-and-packrafting-in-sarek-day-1/" target="_self">our trip to Sarek</a> in Sweden. It was the perfect outdoor stove for us. Lightweight and fast. However, this stove is only for boiling water. If you want to fry something you need to look for another stove.
 
-<a rel="nofollow" href="https://www.flickr.com/photos/90204224@N07/9596216703" title="Jetboil Sol Ti in Sarek"><img src="https://farm4.staticflickr.com/3748/9596216703_3f4c4db24f_b.jpg" width="1024" height="683" alt="Jetboil Sol Ti ultralight hiking and backpacking stove field testing"></a>
+<img src="https://farm4.staticflickr.com/3748/9596216703_3f4c4db24f_b.jpg" width="1024" height="683" alt="Jetboil Sol Ti ultralight hiking and backpacking stove field testing">
 
 ## Alternatives
 Have a look at the newer models like the <a rel="nofollow"  href="https://amzn.to/2LLGO90">Jetboil MiniMo</a> or the <a rel="nofollow"  href="https://amzn.to/2LMvkCx">MSR WindBurner</a> if you want a newer and better stove.

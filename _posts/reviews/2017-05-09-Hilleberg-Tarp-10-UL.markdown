@@ -28,22 +28,22 @@ Further, since I do packrafting it's also quite easy to pitch the Tarp by using 
 I will add more thoughts to this blog post about the Hilleberg 10 UL Tarp once I have tested it.
 
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/34242432440/in/dateposted-public/" title="Hilleberg Unna, Inner Mesh Tent and Tarp 10 UL"><img src="https://c1.staticflickr.com/5/4160/34242432440_27e3cffe81_k.jpg" width="2048" height="1441"  alt="Hilleberg Unna, Inner Mesh Tent and Tarp 10 UL comparison size"><img src</a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://c1.staticflickr.com/5/4160/34242432440_27e3cffe81_k.jpg" width="2048" height="1441"  alt="Hilleberg Unna, Inner Mesh Tent and Tarp 10 UL comparison size">
 
 On the picture above you can see the size of the Hilleberg Unna, Unna Inner Mesh Tent and the Tarp 10 UL.
 
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/33675968203/in/dateposted-public/" title="Hilleberg Tarp 10 UL"><img src="https://c1.staticflickr.com/5/4180/33675968203_6297878d6c_k.jpg" width="2048" height="1367"  alt="Hilleberg Tarp 10 UL"><img src</a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://c1.staticflickr.com/5/4180/33675968203_6297878d6c_k.jpg" width="2048" height="1367"  alt="Hilleberg Tarp 10 UL">
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/34410681593/in/dateposted-public/" title="Hilleberg Tarp 10 UL"><img src="https://c1.staticflickr.com/5/4259/34410681593_8698ed5285_k.jpg" width="2048" height="1368"  alt="Hilleberg Tarp 10 UL"><img src</a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://c1.staticflickr.com/5/4259/34410681593_8698ed5285_k.jpg" width="2048" height="1368"  alt="Hilleberg Tarp 10 UL">
 
 The Hillerberg Tarp 10 UL also protects you from the sun when you lie in a hammock.
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/35089926641/in/dateposted-public/" title="Stuff bag of the Hilleberg Tarp 10 UL"><img src="https://c1.staticflickr.com/5/4248/35089926641_8b583ddae1_k.jpg" width="2048" height="1368"  alt="Stuff bag of the Hilleberg Tarp 10 UL"><img src</a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://c1.staticflickr.com/5/4248/35089926641_8b583ddae1_k.jpg" width="2048" height="1368"  alt="Stuff bag of the Hilleberg Tarp 10 UL">
 
 The stuff bag of the Hilleberg Tarp 10 UL is sewed on the Tarp itself.
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/35054317092/in/dateposted-public/" title="Hilleberg Tarp 10 UL"><img src="https://c1.staticflickr.com/5/4201/35054317092_0b70ef94f7_k.jpg" width="2048" height="1368"  alt="Hilleberg Tarp 10 UL"><img src</a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://c1.staticflickr.com/5/4201/35054317092_0b70ef94f7_k.jpg" width="2048" height="1368"  alt="Hilleberg Tarp 10 UL">
 
 The attachment points on the tarp with 3 mm guy lines.
 
