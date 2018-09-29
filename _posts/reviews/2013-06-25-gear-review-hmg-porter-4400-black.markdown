@@ -15,13 +15,13 @@ Since I purchased a packraft, I needed more and more space for additional stuff 
 
 I use the HMG Porter mainly for two activities. Hiking and Packrafting and is a short review and some pictures of the Hyperlite Mountain Gear Porter 4400 and how it compares size wise to the newer Porter 5400.
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/30829061118/in/dateposted-public/" title="HMG Porter 4400 and 5400"><img src="https://farm2.staticflickr.com/1888/30829061118_b4df2b64cd_b.jpg" width="1024" height="683" alt="HMG Porter 4400 and 5400"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://farm2.staticflickr.com/1888/30829061118_b4df2b64cd_b.jpg" width="1024" height="683" alt="HMG Porter 4400 and 5400">
 <br>
 <!--more-->
 
 After a short discussion with the HMG owner, I was offered a backpack which is made of 150 denier nylon instead of the 50 denier nylon which comes with the regular backpack. Even so the pack is slightly heavier, it should be more durable than the lighter version. Below the pictures of HMG Porter 4400 black incl. the Porter Stuff Pocket.
 
-<a rel="nofollow" data-flickr-embed="true"  href="https://www.flickr.com/photos/90204224@N07/43790244195/in/dateposted-public/" title="HMG Porter 4400 and 5400"><img src="https://farm2.staticflickr.com/1895/43790244195_c09c49ed53_b.jpg" width="1024" height="683" alt="HMG Porter 4400 and 5400"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://farm2.staticflickr.com/1895/43790244195_c09c49ed53_b.jpg" width="1024" height="683" alt="HMG Porter 4400 and 5400">
 
 ## Features
 Our HMG Porter 4400 is a bit more durable than the regular Porter since we ordered it with a thicker fabric. The HMG Porter 4400 is also waterproof and lightweight. It comes with YKK zippers, an emergency whistle and is comfortable to carry.
