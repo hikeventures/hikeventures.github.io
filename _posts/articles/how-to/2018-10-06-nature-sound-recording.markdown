@@ -27,7 +27,7 @@ My recorder is the <a href="https://amzn.to/2PkoKBL" rel="nofollow">Sound Device
 <img src="https://farm2.staticflickr.com/1925/44413823614_d2c86a6bea_k.jpg" width="1536" height="2048" alt="MixPre-3 and Clippy Stereo EM172">
 
 
-And here is the audio file which I have produced with this setup.
+And here is the audio file which I have produced with this setup (wear a headset to listen).
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/510378531&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
