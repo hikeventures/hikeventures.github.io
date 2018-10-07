@@ -79,7 +79,7 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 
 ## ACR ResQlink+ 406
 
-<a rel="nofollow"  target="_blank"  href="https://www.amazon.com/gp/product/B00MYSP6NM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00MYSP6NM&linkCode=as2&tag=hikeve-20&linkId=9249d908011764d70c9c3ba70de69a3b"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00MYSP6NM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="250" height="250" ><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B00MYSP6NM" width="1" height="1" border="0" alt="ACR ResQlink+ 406 - best gps messenger 2018" style="border:none !important; margin:0px !important;" /></a>
+<a rel="nofollow" href="https://www.amazon.com/ACR-PLB-375-ResQLink-Buoyant-Personal/dp/B006JXY0CQ/ref=as_li_ss_il?ie=UTF8&qid=1538937241&sr=8-1&keywords=ACR+ResQlink++406&linkCode=li3&tag=hikeve-20&linkId=8f3d1831b629325c2e374b951b366d5e" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B006JXY0CQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B006JXY0CQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 * Weight: 153 grams
 * Buoyant Personal Locator Beacon which is also suitable for paddlers
@@ -95,7 +95,7 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 
 ## Garmin InReach Explorer+
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01MY03CZP/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MY03CZP&linkCode=as2&tag=hikeve-20&linkId=55130c05ea4d4b808d670e49cd56e51d"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MY03CZP&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="188" height="250" alt="Garmin InReach Explorer+ - Best GPS messenger 2018"><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MY03CZP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></a>
+<a rel="nofollow" href="https://www.amazon.com/Garmin-Explorer-Satellite-Communicator-Navigation/dp/B01MY03CZP/ref=as_li_ss_il?ie=UTF8&qid=1538937289&sr=8-3&keywords=Garmin+InReach+Explorer+&linkCode=li3&tag=hikeve-20&linkId=9e5c648db55510bc9611dbe33895f134" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MY03CZP&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B01MY03CZP" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 * Weight: 213 grams
 * Same features as Garmin InReach SE+ and in additional:
@@ -109,7 +109,7 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 
 ## Garmin InReach SE+
 
-<a rel="nofollow" target="_blank"  href="https://www.amazon.com/gp/product/B01MRZ9ATL/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MRZ9ATL&linkCode=as2&tag=hikeve-20&linkId=b476ff75bac114c9118e143e7eb13ba6"><amp-img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01MRZ9ATL&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="250" height="250" alt="Garmin InReach SE+ - Best GPS messenger 2018" ><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01MRZ9ATL" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></a>
+<a rel="nofollow" href="https://www.amazon.com/Garmin-Handheld-Satellite-Communicator-Navigation/dp/B01MRZ9ATL/ref=as_li_ss_il?ie=UTF8&qid=1538937322&sr=8-2&keywords=Garmin+InReach+SE+&linkCode=li3&tag=hikeve-20&linkId=ea5f83cbcb49047b8ca9e8271e8ef877" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01MRZ9ATL&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B01MRZ9ATL" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 * Weight: 213 grams
 * Messages can also be sent with the phone by using the Earthmate app.
@@ -131,7 +131,7 @@ In the picture below you can see the old DeLorme InReach Explorer in his yellow 
 
 ## SPOT Gen3
 
-<a rel="nofollow"  target="_blank"  href="https://www.amazon.com/gp/product/B01FHO5AF8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01FHO5AF8&linkCode=as2&tag=hikeve-20&linkId=7996c1250dd46ac08ae20d6dc725d36d"><amp-img  border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B01FHO5AF8&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=hikeve-20" width="250" height="250" alt="SPOT Gen3"><img src="//ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=am2&o=1&a=B01FHO5AF8" width="1" height="1" border="0" alt="SPOT Gen3 - Best GPS messenger 2018" style="border:none !important; margin:0px !important;" /></a>
+<a rel="nofollow" href="https://www.amazon.com/SPOT-Satellite-GPS-Messenger-Orange/dp/B00C8S8S4W/ref=as_li_ss_il?ie=UTF8&qid=1538937357&sr=8-3&keywords=SPOT+Gen3&linkCode=li3&tag=hikeve-20&linkId=fa15c5e06224d2b5ad0540a992e41e85" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00C8S8S4W&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=hikeve-20" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=hikeve-20&l=li3&o=1&a=B00C8S8S4W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 * Weight 114 grams
 * Check-in function: pre-programmed text message or email with GPS coordinates to up to 10 contacts
