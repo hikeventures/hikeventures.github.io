@@ -23,7 +23,7 @@ The booties are probably also a good choice for those who are into Kayaking or S
 <br>
 <!--more-->
 
-We usually combine the latex socks with several merino socks layers (2-3) under it. Moreover, a neoprene shoe like the Sea to Summit Ultra Flex Booeties can also help to keep your feet warm the same way as divers are wearing neoprene suites to keep their body warm.
+We usually combine the latex socks with several merino socks layers (2-3) under it. Moreover, a neoprene shoe like the Sea to Summit Ultra Flex Booties can also help to keep your feet warm the same way as divers are wearing neoprene suites to keep their body warm.
 
 ![Sea to Summit Ultra Flex Booties](https://farm2.staticflickr.com/1455/25746566141_e38526eca2_b.jpg "Sea to Summit Ultra Flex Booties")
 
