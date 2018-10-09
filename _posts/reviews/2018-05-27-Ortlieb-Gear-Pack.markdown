@@ -24,7 +24,7 @@ So what would I take with me in such a backpack? Probably anything what I would 
 
 It would be also possible to attach for example the tent or anything extra on the outside and there are lots of possibilities to do multiple configurations. It would be also possible to attach the backpack to a packraft using those attachment points on the Gear-Pack.
 
-<img src="https://farm2.staticflickr.com/1757/28836787848_d2db542501_h.jpg" width="1600" height="1069" alt="Ortlieb Gear-Pack"></a>
+<img src="https://farm2.staticflickr.com/1757/28836787848_d2db542501_h.jpg" width="1600" height="1069" alt="Ortlieb Gear-Pack">
 
 The backpack seems to be very durable. I also have Ortliebs rear bike pannier and they are super durable too. Here you can find for example some pictures from my [250 km Turku Archipelago bicycle](http://www.hikeventures.com/archipelago-trail/) trip or from the [Archipelago National Park Trail](http://www.hikeventures.com/archipelago-national-park/).
 
