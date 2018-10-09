@@ -19,7 +19,7 @@ So how do we keep our feet warm? It's all about layering and the Sea to Summit U
 
 The booties are probably also a good choice for those who are into Kayaking or Stand up paddling.
 
-![Sea to Summit Ultra Flex Booties](https://farm2.staticflickr.com/1624/25841666865_141d7f355a_b.jpg "Sea to Summit Ultra Flex Booties")
+![Sea to Summit Ultra Flex Booties](https://farm2.staticflickr.com/1624/25841666865_141d7f355a_b.jpg)
 <br>
 <!--more-->
 
