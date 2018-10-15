@@ -68,7 +68,7 @@ At Sahajärvi we had lunch at Kalasuntti and then paddled further to Kaniholma w
 
 At the brewery we enjoyed delicious sandwiches, ciders and pastries and some of us took a few bottles of beer back to the camp. The next day we paddled again to Matilda and carried our packrafts a few hundred meters to the sea (Hummelfjärden).
 
-<img src="https://farm2.staticflickr.com/1926/45291501472_95c6703547_k.jpg" width="2048" height="1365" alt="Finnish Packrafting Meetup 2018">
+<img src="https://farm2.staticflickr.com/1926/45291501472_46bdbf2717_k.jpg" width="2048" height="1365" alt="Finnish Packrafting Meetup 2018">
 
 <img src="https://farm2.staticflickr.com/1957/45291500832_15846f8487_k.jpg" width="2048" height="1365" alt="Finnish Packrafting Meetup 2018">
 
@@ -90,8 +90,7 @@ At the brewery we enjoyed delicious sandwiches, ciders and pastries and some of 
 
 <img src="https://farm2.staticflickr.com/1978/43526040940_bb3e57395a_k.jpg" width="2048" height="1365" alt="Finnish Packrafting Meetup 2018">
 
-<img src="https://farm2.staticflickr.com/1949/45341375851_532081c437_k.jpg" width="2048" height="1365" alt="Finnish Packrafting Meetup 2018">
-
+<img src="https://farm2.staticflickr.com/1949/45341375851_309e095f2d_k.jpg" width="2048" height="1365" alt="Finnish Packrafting Meetup 2018">
 
 We also met some Alpackas in the village.
 
