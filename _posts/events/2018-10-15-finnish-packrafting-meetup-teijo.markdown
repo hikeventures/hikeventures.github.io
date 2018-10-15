@@ -1,11 +1,10 @@
 ---
-published: false
 layout: post
 title: Finnish Packrafting Meet-Up 2018 - Teijo National Park
 description: Packrafting in Teijo National Park Finland
 date: 2018-10-15 16:30:00
 category: article
-image: https://c1.staticflickr.com/5/4160/34332806671_78ebe03636_k.jpg
+image: https://farm2.staticflickr.com/1953/31467080518_a0e9df6825_k.jpg
 tags:
   - Finland
   - packrafting
