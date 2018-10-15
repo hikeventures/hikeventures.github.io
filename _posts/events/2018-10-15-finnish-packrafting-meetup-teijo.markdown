@@ -121,3 +121,5 @@ From there we paddled a few kilometers until we reached a fire place where we ha
 Finally, we paddled another few kilometers back to the place where we parked our car (it was just a short hike from the sea to the car parking).
 
 The meetups in Finland are organised in the <a href="https://www.facebook.com/groups/1760898697500487/" rel="nofollow">Packrafting Finland Facebook group</a>. So just join this group if you want to participate in one of the meetups in the future.
+
+<img src="https://farm2.staticflickr.com/1978/45294270622_82541300f5_z.jpg" width="640" height="427" alt="Thule Duffle 130L and Alpacka Raft Gnarwhal">
