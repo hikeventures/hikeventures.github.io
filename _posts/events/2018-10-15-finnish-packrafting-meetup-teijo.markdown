@@ -22,7 +22,9 @@ We parked our cars nearby the Hamarijärvi lake, inflated our packrafts and padd
 
 <img src="https://farm2.staticflickr.com/1953/44428209695_fa502db258_k.jpg" width="2048" height="1365" alt="Finnish Packrafting Meetup 2018">
 
-<img src="https://farm2.staticflickr.com/1920/43526128650_a4f66e6333_k.jpg" width="2048" height="1365" alt="Finnish Packrafting Meetup 2018">
+<img src="https://farm2.staticflickr.com/1920/43526128650_a4f66e6333_k.jpg" width="2048" height="1365" alt="Hilleberg Akto Tent">
+
+<img src="https://farm2.staticflickr.com/1976/45293845962_77a3d9dd50_z.jpg" width="640" height="427" alt="VE Creeker Paddles">
 
 <img src="https://farm2.staticflickr.com/1924/31467076768_35e7bdca25_k.jpg" width="2048" height="1365" alt="Finnish Packrafting Meetup 2018">
 
@@ -98,23 +100,23 @@ We also met some Alpackas in the village.
 
 So we thought it would be a good idea to take some pictures of the Alpackas with our Alpacka Rafts.
 
-<img src="https://farm2.staticflickr.com/1978/43526035900_5aebb6053c_k.jpg" width="2048" height="1365" alt="Alpacka Packrafts with Alpackas">
+<img src="https://farm2.staticflickr.com/1978/43526035900_5aebb6053c_k.jpg" width="2048" height="1365" alt="Alpacka Gnarwhal">
 
 From there we paddled a few kilometers until we reached a fire place where we had our last lunch. <a href="https://avisuora.wordpress.com">Janne</a> took a group picture of us, showed us new ways of taking selfies and we enjoyed his fantastic cheese cake.
 
-<img src="https://farm2.staticflickr.com/1956/45341365561_6cd52c7113_k.jpg" width="2048" height="1365" alt="Windpaddle Sail">
+<img src="https://farm2.staticflickr.com/1956/45341365561_6cd52c7113_k.jpg" width="2048" height="1365" alt="Windpaddle Sail Packrafting">
 
 <img src="https://farm2.staticflickr.com/1930/30401832637_f184e4a6f3_k.jpg" width="2048" height="1365" alt="Finnish Packrafting Meetup 2018">
 
-<img src="https://farm2.staticflickr.com/1945/31466984278_eff6b21b2d_k.jpg" width="2048" height="1365" alt="Finnish Packrafting Meetup 2018">
+<img src="https://farm2.staticflickr.com/1945/31466984278_eff6b21b2d_k.jpg" width="2048" height="1365" alt="Packrafting Windpaddle Sail">
 
-<img src="https://farm2.staticflickr.com/1915/30401831077_dc4f44b6ff_k.jpg" width="2048" height="1365" alt="Finnish Packrafting Meetup 2018">
+<img src="https://farm2.staticflickr.com/1915/30401831077_dc4f44b6ff_k.jpg" width="2048" height="1365" alt="Werner Paddles Packrafting">
 
 <img src="https://farm2.staticflickr.com/1957/30401828667_ea4562c629_k.jpg" width="2048" height="1365" alt="Finnish Packrafting Meetup 2018">
 
-<img src="https://farm2.staticflickr.com/1921/44618401624_f49dded6ed_k.jpg" width="2048" height="1365" alt="Finnish Packrafting Meetup 2018">
+<img src="https://farm2.staticflickr.com/1921/44618401624_f49dded6ed_k.jpg" width="2048" height="1365" alt="Alpacka Raft Gnarwhal">
 
-<img src="https://farm2.staticflickr.com/1906/45341353611_b9a705a36c_k.jpg" width="2048" height="1365" alt="Finnish Packrafting Meetup 2018">
+<img src="https://farm2.staticflickr.com/1906/45341353611_b9a705a36c_k.jpg" width="2048" height="1365" alt="Alpacka Raft Gnarwhal">
 
 Finally, we paddled another few kilometers back to the place where we parked our car (it was just a short hike from the sea to the car parking).
 
