@@ -177,11 +177,6 @@ footer: false
         <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Liesjärvi National Park</p>
     </div></div></a></div></div>
 
-
-
-
-
-
         <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
             <a class="thumbnail" href="http://www.hikeventures.com/Mariehamn-aland-islands-worth-a-visit/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
         <img src="https://farm2.staticflickr.com/1672/24264717071_d1c9df1a0a_z.jpg" alt="" class="img-responsive">
@@ -253,6 +248,16 @@ footer: false
         <div class="caption">
             <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Teijo National Park</p>
         </div></div></a></div></div>
+
+
+
+        <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
+           <a class="thumbnail" href="http://www.hikeventures.com/finnish-packrafting-meetup-teijo/" style="color: #FFF; border: 0px;"><div class="thumbnail text-center">
+       <img src="https://farm2.staticflickr.com/1941/45343660821_50df3331e1_z.jpg" alt="Teijo National Park - Packrafting" class="img-responsive">
+       <div class="caption">
+           <p style="font-family: 'Amatic SC', cursive;font-size:xx-large;color:white;">Teijo National Park</p>
+       </div></div></a></div></div>
+
 
 
          <div class="col-lg-6 col-sm-6 col-xs-12"><div class="hovereffect">
