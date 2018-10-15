@@ -14,6 +14,8 @@ Last weekend I went to the three days Packrafting meetup 2018 in Teijo National 
 
 <img src="https://farm2.staticflickr.com/1953/31467080518_a0e9df6825_k.jpg" width="2048" height="1365" alt="Finnish Packrafting Meetup 2018">
 
+<!--more-->
+
 We parked our cars nearby the Hamarijärvi lake, inflated our packrafts and paddled to our first camp site. From there we paddled the next day to to the other side of the lake where we hiked to the Sahajärvi lake.
 
 <img src="https://farm2.staticflickr.com/1962/44618532484_d663a19ea7_k.jpg" width="2048" height="1365" alt="Finnish Packrafting Meetup 2018">
