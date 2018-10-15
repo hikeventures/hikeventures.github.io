@@ -24,7 +24,7 @@ We parked our cars nearby the Hamarijärvi lake, inflated our packrafts and padd
 
 <img src="https://farm2.staticflickr.com/1920/43526128650_a4f66e6333_k.jpg" width="2048" height="1365" alt="Hilleberg Akto Tent">
 
-<img src="https://farm2.staticflickr.com/1976/45293845962_77a3d9dd50_z.jpg" width="640" height="427" alt="VE Creeker Paddles">
+<img src="https://farm2.staticflickr.com/1976/45293845962_ff3aca5eba_k.jpg" width="2048" height="1365" alt="VE Creeker Paddles">
 
 <img src="https://farm2.staticflickr.com/1924/31467076768_35e7bdca25_k.jpg" width="2048" height="1365" alt="Finnish Packrafting Meetup 2018">
 
@@ -122,4 +122,4 @@ Finally, we paddled another few kilometers back to the place where we parked our
 
 The meetups in Finland are organised in the <a href="https://www.facebook.com/groups/1760898697500487/" rel="nofollow">Packrafting Finland Facebook group</a>. So just join this group if you want to participate in one of the meetups in the future.
 
-<img src="https://farm2.staticflickr.com/1978/45294270622_82541300f5_z.jpg" width="640" height="427" alt="Thule Duffle 130L and Alpacka Raft Gnarwhal">
+<img src="https://farm2.staticflickr.com/1978/45294270622_f1bcb8e2ce_k.jpg" width="2048" height="1365" alt="Thule Duffle 130L and Alpacka Raft Gnarwhal">
