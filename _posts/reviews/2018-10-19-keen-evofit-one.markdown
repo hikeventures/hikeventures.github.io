@@ -55,7 +55,7 @@ Moreover, I also liked the toe protection on the shoe which can be quite importa
   
 <a rel="nofollow" href="https://amzn.to/2Cqbfg4"><img src="https://farm2.staticflickr.com/1973/45294279062_fb7384593d_k.jpg" width="2048" height="1365" alt="Teijo National Park"></a>
   
-One positive aspect on the KEEN EVOFIT ONE is that it has a strap to tighten in on your foot. In my past trips, I always got stuck in the mud with my sandals and lost even one of them when doing whitewater rescue training on the Soca river in Slovenia.
+One positive aspect on the KEEN EVOFIT ONE is that it has a strap to tighten in on your foot. In my past trips, I always got stuck in the mud with my sandals and lost even one of them when doing whitewater rescue training on the Soca river in <a href="http://www.hikeventures.com/Slovenia/">Slovenia</a>.
   
 <a rel="nofollow" href="https://amzn.to/2Cqbfg4"><img src="https://farm2.staticflickr.com/1960/45294268652_ad1b345eda_k.jpg" width="2048" height="1365" alt="Teijo National Park"></a>
   
