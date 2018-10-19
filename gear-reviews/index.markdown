@@ -128,38 +128,36 @@ published: true
  <tr>
 
             <td><a href="/gear-review-inov-8-roclite-295">Inov-8 Roclite 295</a></td>
-            <td><a href="/Lundhags-Jaure-Light">Lundhags Jaure Light High Boot</a></td>
+<td><a href="/keen-evofit-one/">KEEN EVOFIT ONE</a></td>
+
+
             </tr>
 
+
+
+
+
+
  <tr>
+       <td><a href="/Lundhags-Jaure-Light">Lundhags Jaure Light High Boot</a></td>
  <td><a href="/lundhags-makke-pant/">Lundhags Makke Pant</a></td>
- <td><a href="/lundhags-skare-boot/">Lundhags Skare Boot</a></td>
+
 
 </tr>
  <tr>
+  <td><a href="/lundhags-skare-boot/">Lundhags Skare Boot</a></td>
  <td><a href="/gear-review-montane-minimus-smock">Montane Minimus Smock</a></td>
-
- <td><a href="/Mountain-Equipment-Fitzroy-Jacket/">Mountain Equipment Fitzroy Jacket</a></td>
 </tr>
 <tr>
-
+ <td><a href="/Mountain-Equipment-Fitzroy-Jacket/">Mountain Equipment Fitzroy Jacket</a></td>
 <td><a href="/hiking-gear-rab-alpine-mircrolight">Rab Microlight Alpine Jacket</a></td>
-        	<td><a href="/gear-review-montbell-u-dot-l-down-parka">Montbell U.L. Down Parka</a></td>
-
 
    </tr>
     <tr>
+    <td><a href="/gear-review-montbell-u-dot-l-down-parka">Montbell U.L. Down Parka</a></td>
     <td><a href="http://hikeventures.com/polychromelab-alta-quota/" target="_self">polychromelab Alta Quota</a></td>
-            <td><a href="http://hikeventures.com/salomon-speedcross-3/" target="_self">Salomon Speedcross 3</a></td>
-
 
   </tr>
-
-
-
-
-
-
 
 <tr>
         <td><strong>Packrafting</strong></td><td></td></tr>
