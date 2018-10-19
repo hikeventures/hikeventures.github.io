@@ -12,14 +12,14 @@ layout: post
 image: https://farm2.staticflickr.com/1941/43529168720_b204e08f3c_k.jpg
 ---
 
-For my packrafting trips I was looking for shoes which I can wear together with my dry suite and I came across the KEEN EVOFIT ONE. KEEN provided my a pair of test sandals and I took them with me on my 3 days packrafting trip in <a href="http://www.hikeventures.com/finnish-packrafting-meetup-teijo/">Teijo National Park</a> in Finland.
+For my packrafting trips I was looking for shoes which I can wear together with my dry suite and I came across the KEEN EVOFIT ONE. KEEN provided my a pair of test sandals and I took them with me on my three days packrafting trip in <a href="http://www.hikeventures.com/finnish-packrafting-meetup-teijo/">Teijo National Park</a> in Finland.
 
 <br>
 <a rel="nofollow" href="https://amzn.to/2Cqbfg4"><img src="https://farm2.staticflickr.com/1941/43529168720_b204e08f3c_k.jpg" width="2048" height="1365" alt="Teijo National Park"></a>
 <br>
 
 <!--more-->
-
+<br>
 ## The idea behind the sandals
 
 The KEEN EVOFIT ONE incorporates a new technology developed by KEEN which the company describes as an evolution in form, fit and function. KEEN describes it as a second skin which moves and breathes with your foot.
@@ -28,28 +28,25 @@ The KEEN EVOFIT ONE incorporates a new technology developed by KEEN which the co
 EVOFIT comes with a 4-way dynamic stretch that moves fluidly on your skin, protects and adapts based on the movement of your foot. The sandals are made to be used in and out of the water, for jungle trails and river rocks - so it seems that they are could be a great solution for packrafting as well. Moreover, they are also protecting your toes.
 
 <br>
-<br>
 <a rel="nofollow" href="https://amzn.to/2Cqbfg4"><img src="https://farm2.staticflickr.com/1876/43046904540_75f5aba0de_b.jpg" width="1024" height="684" alt="KEEN EVOFIT ONE"></a>
 <br>
-
+<br>
 ## First impression
 Without having properly tested them, the sandals feel very comfortable to wear and I am quite confident that they should also handle longer walking distances quite well.
 
 <br>
-<br>
 <a rel="nofollow" href="https://amzn.to/2Cqbfg4"><img src="https://farm2.staticflickr.com/1931/43046904900_5764cfe9f4_b.jpg" width="1024" height="684" alt="KEEN EVOFIT ONE"></a>
 <br>
-
+<br>
 The sandals are also reinforced around the ankle for increased security.
 
-<br>
+
 <br>
 <a rel="nofollow" href="https://amzn.to/2Cqbfg4"><img src="https://farm2.staticflickr.com/1942/29921618457_563f853d16_b.jpg" width="1024" height="684" alt="KEEN EVOFIT ONE"></a>
 <br>
-
+<br>
 The sandals can also be tightened with a strap.
 
-<br>
 <br>
 <a rel="nofollow" href="https://amzn.to/2Cqbfg4"><img src="https://farm2.staticflickr.com/1906/43046905050_9dee1dc94b_b.jpg" width="1024" height="684" alt="KEEN EVOFIT ONE"></a>
 
