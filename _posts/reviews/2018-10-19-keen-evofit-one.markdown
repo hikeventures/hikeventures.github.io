@@ -1,5 +1,5 @@
 ---
-title: KEEN EVOFIT ONE
+title: KEEN EVOFIT ONE Review
 description: Adventure Sandals from KEEN
 date: 2018-10-19 18:14:01
 category: articles
