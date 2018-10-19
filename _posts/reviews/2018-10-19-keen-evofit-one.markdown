@@ -19,7 +19,6 @@ For my packrafting trips I was looking for shoes which I can wear together with 
 <br>
 
 <!--more-->
-<br>
 ## The idea behind the sandals
 
 The KEEN EVOFIT ONE incorporates a new technology developed by KEEN which the company describes as an evolution in form, fit and function. KEEN describes it as a second skin which moves and breathes with your foot.
@@ -27,17 +26,17 @@ The KEEN EVOFIT ONE incorporates a new technology developed by KEEN which the co
 ## Technology
 EVOFIT comes with a 4-way dynamic stretch that moves fluidly on your skin, protects and adapts based on the movement of your foot. The sandals are made to be used in and out of the water, for jungle trails and river rocks - so it seems that they are could be a great solution for packrafting as well. Moreover, they are also protecting your toes.
 
-<br>
+
 <a rel="nofollow" href="https://amzn.to/2Cqbfg4"><img src="https://farm2.staticflickr.com/1876/43046904540_75f5aba0de_b.jpg" width="1024" height="684" alt="KEEN EVOFIT ONE"></a>
-<br>
-<br>
+
+
 ## First impression
 Without having properly tested them, the sandals feel very comfortable to wear and I am quite confident that they should also handle longer walking distances quite well.
 
-<br>
+
 <a rel="nofollow" href="https://amzn.to/2Cqbfg4"><img src="https://farm2.staticflickr.com/1931/43046904900_5764cfe9f4_b.jpg" width="1024" height="684" alt="KEEN EVOFIT ONE"></a>
-<br>
-<br>
+
+  
 The sandals are also reinforced around the ankle for increased security.
 
 
