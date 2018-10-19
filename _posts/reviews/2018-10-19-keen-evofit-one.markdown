@@ -55,12 +55,14 @@ Moreover, I also liked the toe protection on the shoe which can be quite importa
   
 <a rel="nofollow" href="https://amzn.to/2Cqbfg4"><img src="https://farm2.staticflickr.com/1973/45294279062_fb7384593d_k.jpg" width="2048" height="1365" alt="Teijo National Park"></a>
   
-One positive aspect on the KEEN EVOFIT ONE is that it has a strap to tighten in on your foot. In my past trips, I always got stuck in the mud with my sandals and lost even one of them when doing whitewater rescue training on the Soca river in <a href="http://www.hikeventures.com/Slovenia/">Slovenia</a>.
+Another positive aspect of the KEEN EVOFIT ONE sandals is that they have straps that allow you to tighten them on your feet. On my past trips, I sometimes  got stuck in the mud and had to fish my sandals out and, on one occasion, I even lost one of them when doing whitewater rescue training on the Soca river in <a href="http://www.hikeventures.com/Slovenia/">Slovenia</a>. And that was all because the sandals could not be tightened properly.
   
 <a rel="nofollow" href="https://amzn.to/2Cqbfg4"><img src="https://farm2.staticflickr.com/1960/45294268652_ad1b345eda_k.jpg" width="2048" height="1365" alt="Teijo National Park"></a>
   
-The tightening strap helps to keep the sandal on your foot, however, there is still a chance that the sandal may get stuck when walking within on mud.
+The tightening strap helps to keep the sandal on your foot, however, there is still a chance that the sandal may get stuck when walking through mud.
   
-Talking about drying. I had the shoes hang on a tree to dry over the night but the material still felt a bit wet.
+Talking about drying, I left the shoes hanging on a tree to dry over the night but the material still felt a bit wet the next morning. 
   
-However, I suppose that this was more related to the moist which the shoe collects during the night and in the morning. I still need to test how long it would take to dry for the sandal if I expose it directly to the sun and update this article in the future once I have more experience with these sandals. You can get the KEEN EVOFIT ONE <a href="https://amzn.to/2Cqbfg4" rel="nofollow">here</a>.
+However, I suppose that this was more related to the moisture, which the sandals collected during the night and in the morning. I still need to test how long it would take for the sandals to dry if I expose them directly to the sun. 
+  
+I will update this article in the future once I have more experience with these sandals. You can get the KEEN EVOFIT ONE <a href="https://amzn.to/2Cqbfg4" rel="nofollow">here</a>.
