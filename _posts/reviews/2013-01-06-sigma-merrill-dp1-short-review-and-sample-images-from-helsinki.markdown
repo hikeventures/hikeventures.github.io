@@ -17,7 +17,7 @@ The Sigma Merrill DP1 with its 340 grams is super light and has a superb image q
   
 <a href="http://hikeventures.com/how-to-charge-your-batteries-when-you-are-outdoors/" target="_self">Anker Astro 3e</a> battery to operate this camera as the battery included with this camera are really weak.
   
-<img src="http://farm9.staticflickr.com/8184/8353025530_b4c2e2571a_c.jpg" width="1000" height="655" alt="Helsinki Ice Breakers"></a>
+<img src="http://farm9.staticflickr.com/8184/8353025530_b4c2e2571a_c.jpg" width="1000" height="655" alt="Helsinki Ice Breakers">
   
 <!-- more -->
 <img src="http://farm9.staticflickr.com/8468/8351963809_ef1ef59998_c.jpg" width="1000"  alt="Helsinki city"><br>
