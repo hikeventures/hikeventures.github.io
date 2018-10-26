@@ -9,7 +9,6 @@ footer: false
 published: true
 ---
 
-
 <div class="my-fluid-container">
 	<div class="row">
 		<div class="col-lg-12">
@@ -27,7 +26,7 @@ published: true
 			<p>HikeVentures is an outdoor blog which focuses on hiking, packrafting, snowshoeing, cycling and urban microadventures. We adventure mainly in Europe but sometimes we also visit places like Japan or Russia. HikeVentures was established in 2012.</p>
 			<iframe src="https://www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fpatrickdormischian&width=139&height=21&layout=button_count&size=large&show_faces=true&appId=582626375123567" width="139" height="28" style="border:none;overflow:hidden;float:right;" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 			<h4>Patrick</h4>
-			<p><a href="https://www.facebook.com/profile.php?id=100009207710788">Patrick</a> was born 1978 in South Germany nearby the Alps where he was hiking and skiing extensively especially in Austria. Having parents from Iran and Austria travelling was always part of Patrick’s life. Patrick moved to Finland in 2006 and currently lives on an island in the Archipelago Sea on the South West Coast of Finland which is a great place for exploring some of the 6500 islands by packraft, kayak, bicycle or foot. Patrick has also lived several months in Australia where he was diving with sharks and explored the blue mountains. Moreover, he has also worked in the Swiss mountains for several months which was a perfect place for snowboarding and skiing adventures in powder snow. Having relatives in Canada, Patrick also visited Banff National Park, traveled to China, Thailand, Romania, the Arab Emirates and India.</p>
+			<p><a href="https://www.facebook.com/profile.php?id=100009207710788">Patrick</a> was born 1978 in South Germany nearby the Alps where he was hiking and skiing extensively especially in Austria. Having parents from Iran and Austria travelling was always part of Patrick’s life. Patrick moved to Finland in 2006 and currently lives in Järvenpää (Finland). Patrick has also lived several months in Australia where he was diving with sharks and explored the blue mountains. Moreover, he has also worked in the Swiss mountains for several months which was a perfect place for snowboarding and skiing adventures in powder snow. Having relatives in Canada, Patrick also visited Banff National Park, traveled to China, Thailand, Romania, the Arab Emirates and India.</p>
 
 			<iframe src="https://www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fkonstantin.gridnevskiy&width=132&height=21&layout=button_count&size=large&show_faces=true&appId=582626375123567" width="132" height="28" style="border:none;overflow:hidden;float:right;" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 			<h4>Konstantin</h4>
@@ -88,7 +87,7 @@ Our Privacy Notice can be found <a href="http://www.hikeventures.com/privacy/">h
 				</div>
 				<div class="col-sm-6 col-lg-6 col-md-6 col-xs-12">
 					<p><strong>Patrick Dormischian</strong><br />
-					RYlämaankatu 5<br />
+					Ylämaankatu 5<br />
 					04430 Järvenpää<br />
 					Finland</p>
 				</div>
