@@ -10,13 +10,13 @@ tags:
   - Palm
   - packrafting
 layout: post
-image: 'https://farm3.staticflickr.com/2322/32036071783_ecdded9554_b.jpg'
+image: https://farm3.staticflickr.com/2322/32036071783_ecdded9554_b.jpg
 ---
 
 When it comes to any paddle sport, one of the essentials for white water safety is your personal flotation device or a PFD for short. There are different types of PFDs that you can choose from (all sorts of shapes, colours and sizes, in fact) and there are different reasons why you would like to choose one or another.
 
 <img src="https://farm3.staticflickr.com/2322/32036071783_ecdded9554_b.jpg" width="1024" height="586" alt="Packrafting in Portugal">
-<br>
+  
 <!--more-->
 
 It’s not only about the amount of flotation that it gives (though it is a very important point to consider, no doubt about that), but also about the comfort of wearing it, the freedom of movement, its colour and extras (e.g., pockets or a knife lash tab) and, what is especially important for packrafting, its weight and packing size. And the [Alpha by Palm Equipment][39f13560] is exactly what I personally searched for in a packrafting PFD. Here is why.

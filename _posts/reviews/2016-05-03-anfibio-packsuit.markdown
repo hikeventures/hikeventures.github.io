@@ -14,7 +14,7 @@ image: https://farm2.staticflickr.com/1461/26742804516_281978b871_b.jpg
 Last Sunday, <a rel="nofollow" href="http://caide.kuvat.fi">Caj</a> and his wife joined me for a trip in the Finnish Archipelago Sea around Ruisalo in Turku as they wanted to test their new Anfibio Packsuit which they ordered from the <a rel="nofollow" href="http://www.packrafting-store.de/Clothing/Anfibio-Packsuit::378.html">Packrafting Store</a> in Germany. Caj was already a bit in panic if he would receive his drysuite on time as he was planning to take it to the <a rel="nofollow" href="https://www.facebook.com/events/501436800038543/">Swedish Packrafting Round-Up 2016</a> which will take place next weekend.
 
 <img src="https://farm2.staticflickr.com/1461/26742804516_281978b871_b.jpg" width="1024" height="768"  alt="Packrafting in Turku with Anfibio Packsuit">
-<br>
+  
 <!--more-->
 
 Caj decided to take his GoPro Hero Session camera to film our paddling adventure around the Turku islands. I have paddled already <a rel="nofollow" href="http://www.hikeventures.com/Paddling-the-Archipelago-Sea/">last year</a> quite a lot in the Turku Archipelago during the seasons.

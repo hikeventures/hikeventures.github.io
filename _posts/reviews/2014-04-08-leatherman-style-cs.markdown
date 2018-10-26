@@ -15,7 +15,7 @@ For my hiking & packrafting trips I was looking for a tool which is light and pa
 
 <img src="https://farm4.staticflickr.com/3704/13711116474_6cde7a3b97_b.jpg"  width="1024" height="683" alt="Leatherman Style CS">
 
-<br>
+  
 <!--more-->
 
 ## Features

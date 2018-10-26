@@ -15,7 +15,7 @@ A view days ago we received our new winter boots from Lundhags for testing - the
 
 
 <img src="https://c3.staticflickr.com/1/122/30750594194_cf4f4aba81_k.jpg" width="2048" height="1152" alt="Lundhags Skare Boot Review" >
-<br>
+  
 <!--more-->
 
 So what’s so special about those boots? First of all they are quite lightweight but the highlight is the removable inner boot which is made from wool felt. After a long snowshoeing or skiing trip you can just remove those inner boots and let them dry separately. You will have dry boots in a shorter period of time. What’s more you can use those inner boots as slippers when you stay overnight in huts. As most of the Lundhags boots, the Skare boots are shell boots and made of leather.

@@ -13,7 +13,7 @@ image: https://c8.staticflickr.com/8/7316/27492852495_f571c7ddd0_b.jpg
 We are at the Toyama train station – a gateway to the Japanese Northern Alps and our starting point for a multi-day hike over some of the most beautiful terrain in Japan where we are going to test and review the Thule Capstone 50L Women's backpack. As always we are looking for lockers to leave some of our gear that we have on this three-week trip and we don’t need in the mountains. This way, for the next couple of days we can hike ‘light’. And while it would seem like an easy task – just find a locker, open it, stuff a few extra unnecessary things in, pay and leave – it was not always that easy. Especially as we were carrying what seemed to be a wagonful of ‘stuff’ for various activities (such as hiking, packrafting, wild camping and city tripping) during our stay in Japan, all of it cramped in or otherwise attached to our backpacks.
 
 <img src="https://c8.staticflickr.com/8/7316/27492852495_f571c7ddd0_b.jpg"  width="1024" height="768" alt="Thule Capstone 50L Women hiking backpack in Japan">
-<br>
+  
 <!--more-->
 
 While preparing for the trip, Konstantin announced to me that he was not going to carry any of my stuff, so I shouldn’t take too much with me. At that point I realized two things – first, that I had lost my faithful carrier donkey and, second, I need to follow the advice from all those smart hiking books, which states that a smaller backpack = less luggage to carry.  And that was exactly why I decided to go for a 50-liter pack, instead of the usual 70-liter one.

@@ -13,7 +13,7 @@ image: https://farm6.staticflickr.com/5684/22593227254_53dab093e0_b.jpg
 Which bag do you take if you are going on winter adventure in Finnish Lapland and you need to take a lot of gear with you? Or what do you do if you need to pack for summer holidays during which you are visiting Japan and the North of Sweden and you do not have time to come back home to repack? Or simply if you are going on a business trip to Scotland or Norway which you want to combine with packrafting and camping? I don’t know which bag you would use, but I used my Thule Chasm XL (provided by Thule) and here is a short review of my experiences with it so far. At the end of this article you can also find some details about the newer model which we have recently tested in Slovenia.
 
 <img src="https://farm6.staticflickr.com/5684/22593227254_53dab093e0_b.jpg" width="1000" height="1000"  alt="Thule Chasm Duffle Bag">
-<br>
+  
 <!--more-->
 
 The Chasm XL duffle bag from Thule is biggest of their range of duffle bags (i.e., Extra Small, Small, Medium, Large and, finally, Extra Large). With the capacity of 130 liters (or 7935 cu in) it weighs 2,235 gram, which makes it just under 17.2 gram per liter which means that it is the most efficient travel bag I own. In comparison, my other large bag, the Rolling Thunder XL from The North Face, weighs more than twice as much, whereas it is marginally bigger. Of course, one of them is a duffle and the other one is a trolley, but when it comes to making a decision which bag I have to pack when I have a weight limit, the answer is obvious.

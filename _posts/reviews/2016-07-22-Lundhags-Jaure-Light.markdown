@@ -16,7 +16,7 @@ We are wearing since 1 year the Lundhags Jaure Light High on our trips which we 
 
 
 > Lundhags Jaure Light High on our [packrafting trip in Sweden](http://www.hikeventures.com/Swedish-Packrafting-Round-Up-2016/).
-<br>
+  
 <!--more-->
 
 ## New Features

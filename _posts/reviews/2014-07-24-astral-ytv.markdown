@@ -15,7 +15,7 @@ image: https://farm4.staticflickr.com/3899/14547568237_44d9c29d97_b.jpg
 The Astral Designs YTV is my new PFD which is replacing my good old <a rel="nofollow" href="http://www.packrafting-store.de/Safety/Secumar-Vivo-50::388.html" target="_blank">Secumar Vivo 50</a> which I used for packrafting and here comes a short review. While the Astral YTV with its 798 grams is almost twice as heavy as my Secumar with its 280 grams, it has some nice additional features and is also the lightest whitewater PFD on the market.
 
 <img src="https://farm4.staticflickr.com/3899/14547568237_44d9c29d97_b.jpg"   width="1024" height="683" alt="Astral YTV Review">
-<br>
+  
 <!--more-->
 
 In the attached booklet the Astral YTF is classified as a Type V PDF which is should give you a stable face-up position in calm water for a conscious wearer and is approved for use only as a substitute for a type III PFD by the U.S. Coast Guard carriage requirements. The attached booklet gives also some tips on how to survive in cold water.
